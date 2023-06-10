@@ -106,7 +106,7 @@ translate chinese b1c01s02_db5279f1:
 translate chinese b1c01s02_9c553107:
 
     # mct "I wonder who she is. She looks like the weight of the world is on her shoulders."
-    mct "我想知道她是谁。她看起来好像整个世界的重量都压在了她的肩膀上。"
+    mct "我想知道她是谁。她的样子看起来好像整个世界的重量都压在了她的肩膀上。"
 
 # game/code/Book-1/Chapter-1/s02.rpy:68
 translate chinese b1c01s02_80983362:
@@ -220,7 +220,7 @@ translate chinese b1c01s02_2a9308a8:
 translate chinese b1c01s02_64c197a3:
 
     # sm "It kept going as a private school. Then, in 1949, the college became a public university, and it was named after Vinovella, and that's where we are today."
-    sm "它作为一所私立学院继续办学。然后，在1949年，学校成为一所公立大学，并以维诺维拉的名字命名，就是我们现在在的地方。"
+    sm "它作为一所私立学院继续办学。然后，在1949年，学校成为一所公立大学，并以维诺维拉的名字命名，就是我们现在脚下这块地方。"
 
 # game/code/Book-1/Chapter-1/s02.rpy:108
 translate chinese b1c01s02_54d2d4b0:
@@ -286,7 +286,7 @@ translate chinese b1c01s02_f7670830:
 translate chinese b1c01s02_25960661:
 
     # dm "Silvia! Hang on a moment. I need to talk with you."
-    dm "西尔维亚！请等一下。我需要和你谈谈。"
+    dm "西尔维娅！请等一下。我需要和你谈谈。"
 
 # game/code/Book-1/Chapter-1/s02.rpy:145
 translate chinese b1c01s02_4181e254:
