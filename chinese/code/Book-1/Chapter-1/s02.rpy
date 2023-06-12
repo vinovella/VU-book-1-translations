@@ -412,7 +412,7 @@ translate chinese b1c01s02_02df390c:
 translate chinese b1c01s02_5667721a:
 
     # sm "Hah. You're funny. It was the last room with a free bed."
-    sm "哈。你真有趣。这是最后一个有空床的房间。
+    sm "哈。你真有趣。这是最后一个有空床的房间。"
 
 # game/code/Book-1/Chapter-1/s02.rpy:206
 translate chinese b1c01s02_05795021:

@@ -196,7 +196,7 @@ translate chinese b1c02s03_24302dd0:
 translate chinese b1c02s03_0ea38a53:
 
     # pm "Before, I was just your teacher. But now, there are people's lives at stake. Our involvement could ruin our careers, and the integrity of the case."
-    pm "以前，我只是你的老师。但现在，这关系到其他人的生命安全。我们的介入可能会毁了我们的职业生涯，以及案件的完整性。
+    pm "以前，我只是你的老师。但现在，这关系到其他人的生命安全。我们的介入可能会毁了我们的职业生涯，以及案件的完整性。"
 
 # game/code/Book-1/Chapter-2/s03.rpy:112
 translate chinese b1c02s03_ee317f1e:
