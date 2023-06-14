@@ -130,7 +130,7 @@ translate chinese b1c03s04_42b2a3b5:
 translate chinese b1c03s04_551e5575:
 
     # ij "She might get kicked out."
-    ij 她可能会被踢出去。"
+    ij "她可能会被踢出去。"
 
 # game/code/Book-1/Chapter-3/s04.rpy:94
 translate chinese b1c03s04_677b709b:

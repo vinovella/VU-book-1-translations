@@ -184,7 +184,7 @@ translate chinese b1c03s03_d7666f7c:
 translate chinese b1c03s03_af7a7854:
 
     # mc "Sounds like you had an impact on her."
-    mc "听起来你影响了她。
+    mc "听起来你影响了她。"
 
 # game/code/Book-1/Chapter-3/s03.rpy:127
 translate chinese b1c03s03_bab3f2da:

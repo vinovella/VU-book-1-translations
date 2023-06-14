@@ -358,7 +358,7 @@ translate chinese b01c03s01m01_521014c6:
 translate chinese b01c03s01m01_7f550c77:
 
     # sl "Well...it'd be easier if he didn't look like he was {i}asking{/i} to be taken from behind..."
-    sl 嗯...如果他看起来不像是{i}在请求{/i}从后面被干的话，那会更容易..."
+    sl "嗯...如果他看起来不像是{i}在请求{/i}从后面被干的话，那会更容易..."
 
 # game/code/Book-1/Chapter-3/s01.rpy:259
 translate chinese b01c03s01m01_f30bb507:
