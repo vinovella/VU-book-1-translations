@@ -52,7 +52,7 @@ translate chinese b1c04m1_b8a7f649:
 translate chinese b1c04m1_200090bc:
 
     # lw "Miss Hawthorne has a test today, so we're cramming."
-    lw "霍桑小姐今天有考试，所以我们要临时抱佛脚。
+    lw "霍桑小姐今天有考试，所以我们要临时抱佛脚。"
 
 # game/code/Book-1/Chapter-4/s01.rpy:60
 translate chinese b1c04m1_dc6e9c9a:
