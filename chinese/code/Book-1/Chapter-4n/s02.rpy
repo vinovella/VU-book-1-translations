@@ -124,7 +124,7 @@ translate chinese b1c04ns02_e50248b5:
 translate chinese b1c04ns02_38c882a6:
 
     # mc "Don't worry about me. I won't hold you back."
-    mc 别担心。我不会拖你后腿的。"
+    mc "别担心。我不会拖你后腿的。"
 
 # game/code/Book-1/Chapter-4n/s02.rpy:82
 translate chinese b1c04ns02_36197466:
