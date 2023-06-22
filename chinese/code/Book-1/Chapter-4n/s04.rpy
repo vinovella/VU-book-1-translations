@@ -420,12 +420,6 @@ translate chinese b1c04ns04_2d963a5b:
     # mc "Surely you can't narrow it to six steps and have it be {i}plausible{/i}."
     mc "当然，你不可能把它简化到六个步骤，然后让它听起来{i}可信{/i}。"
 
-# game/code/Book-1/Chapter-4n/s04.rpy:208
-translate chinese b1c04ns04_902e0dd0:
-
-    # nv "If you can handle Andrzej's over-the-top teaching style, you'll be able to handle anything else in our community."
-    nv "如果你能接受安杰伊夸张的教学风格，你就能处理好我们社团的任何事。"
-
 # game/code/Book-1/Chapter-4n/s04.rpy:211
 translate chinese b1c04ns04_bfcbc100:
 
@@ -443,12 +437,6 @@ translate chinese b1c04ns04_a0b82d21:
 
     # mc "Alright, alright. You know best."
     mc "好吧，好吧。你最清楚了。"
-
-# game/code/Book-1/Chapter-4n/s04.rpy:220
-translate chinese b1c04ns04_b6f52b59:
-
-    # nv "Of course. I got you through Chem class, I can get you through a seminar hosted by Andrzej."
-    nv "当然。我帮你通过了化学课，我也能帮你通过由安杰伊主持的研讨会。"
 
 # game/code/Book-1/Chapter-4n/s04.rpy:221
 translate chinese b1c04ns04_59070de6:
@@ -509,12 +497,6 @@ translate chinese b1c04ns04_9c49e8ed:
 
     # nv "Ah-ah. No takesies backsies."
     nv "不能打退堂鼓。没有退路可言。"
-
-# game/code/Book-1/Chapter-4n/s04.rpy:262
-translate chinese b1c04ns04_bcb11617:
-
-    # nv "I {i}swear{/i} not everyone is as...eccentric, as Andrzej."
-    nv "我{i}发誓{/i}不是每个人都像...安杰伊那样古怪。"
 
 # game/code/Book-1/Chapter-4n/s04.rpy:268
 translate chinese b1c04ns04_e00ddf22:
@@ -645,4 +627,3 @@ translate chinese strings:
     # game/code/Book-1/Chapter-4n/s04.rpy:226
     old "Time passes."
     new "时光流逝"
-

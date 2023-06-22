@@ -366,12 +366,6 @@ translate chinese b1c04ns02_44db1a57:
     # nv "Are you still going to the seminar after school, today?"
     nv "今天放学后你还去参加研讨会吗？"
 
-# game/code/Book-1/Chapter-4n/s02.rpy:255
-translate chinese b1c04ns02_c9b39e79:
-
-    # ef "Yeah, I was planning on it. I think Andrzej is gonna host it, right?"
-    ef "嗯，我正打算去呢。我觉得安杰伊会主持，对吧？"
-
 # game/code/Book-1/Chapter-4n/s02.rpy:261
 translate chinese b1c04ns02_1a718016:
 
@@ -785,4 +779,3 @@ translate chinese b1c04ns02_b8624346:
 
     # mct "I should see about getting Delphia that pig's blood."
     mct "我该想想办法给黛尔菲娅弄到猪血。"
-

@@ -239,7 +239,7 @@ translate portuguese strings:
     new ""
 
     # game/code/data/ib_characters.rpy:9
-    old "Andrzej"
+    old "Andrejz"
     new ""
 
     # game/code/data/ib_characters.rpy:9

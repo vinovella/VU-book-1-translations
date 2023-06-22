@@ -420,12 +420,6 @@ translate portuguese b1c04ns04_2d963a5b:
     # mc "Surely you can't narrow it to six steps and have it be {i}plausible{/i}."
     mc ""
 
-# game/code/Book-1/Chapter-4n/s04.rpy:208
-translate portuguese b1c04ns04_902e0dd0:
-
-    # nv "If you can handle Andrzej's over-the-top teaching style, you'll be able to handle anything else in our community."
-    nv ""
-
 # game/code/Book-1/Chapter-4n/s04.rpy:211
 translate portuguese b1c04ns04_bfcbc100:
 
@@ -443,12 +437,6 @@ translate portuguese b1c04ns04_a0b82d21:
 
     # mc "Alright, alright. You know best."
     mc ""
-
-# game/code/Book-1/Chapter-4n/s04.rpy:220
-translate portuguese b1c04ns04_b6f52b59:
-
-    # nv "Of course. I got you through Chem class, I can get you through a seminar hosted by Andrzej."
-    nv ""
 
 # game/code/Book-1/Chapter-4n/s04.rpy:221
 translate portuguese b1c04ns04_59070de6:
@@ -508,12 +496,6 @@ translate portuguese b1c04ns04_7fe2f8bd:
 translate portuguese b1c04ns04_9c49e8ed:
 
     # nv "Ah-ah. No takesies backsies."
-    nv ""
-
-# game/code/Book-1/Chapter-4n/s04.rpy:262
-translate portuguese b1c04ns04_bcb11617:
-
-    # nv "I {i}swear{/i} not everyone is as...eccentric, as Andrzej."
     nv ""
 
 # game/code/Book-1/Chapter-4n/s04.rpy:268
@@ -645,4 +627,3 @@ translate portuguese strings:
     # game/code/Book-1/Chapter-4n/s04.rpy:226
     old "Time passes."
     new ""
-

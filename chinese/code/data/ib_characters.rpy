@@ -239,8 +239,8 @@ translate chinese strings:
     new "Woods"
 
     # game/code/data/ib_characters.rpy:9
-    old "Andrzej"
-    new "Andrzej"
+    old "Andrejz"
+    new "Andrejz"
 
     # game/code/data/ib_characters.rpy:9
     old "Dittmar"

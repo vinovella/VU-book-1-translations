@@ -366,12 +366,6 @@ translate portuguese b1c04ns02_44db1a57:
     # nv "Are you still going to the seminar after school, today?"
     nv ""
 
-# game/code/Book-1/Chapter-4n/s02.rpy:255
-translate portuguese b1c04ns02_c9b39e79:
-
-    # ef "Yeah, I was planning on it. I think Andrzej is gonna host it, right?"
-    ef ""
-
 # game/code/Book-1/Chapter-4n/s02.rpy:261
 translate portuguese b1c04ns02_1a718016:
 
@@ -785,4 +779,3 @@ translate portuguese b1c04ns02_b8624346:
 
     # mct "I should see about getting Delphia that pig's blood."
     mct ""
-
