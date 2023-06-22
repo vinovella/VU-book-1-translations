@@ -4,319 +4,319 @@
 translate chinese b1c04ns05_42c91c6b:
 
     # dk "Hey. Glad you came."
-    dk "Hey. Glad you came."
+    dk "嘿。你来了真好。"
 
 # game/code/Book-1/Chapter-4n/s05.rpy:24
 translate chinese b1c04ns05_d933eda8:
 
     # dk "Follow me. You can drop the blood off at my dressing room."
-    dk "Follow me. You can drop the blood off at my dressing room."
+    dk "跟我来。你可以把血送到我的更衣室。"
 
 # game/code/Book-1/Chapter-4n/s05.rpy:27
 translate chinese b1c04ns05_6eb70d73:
 
     # mc "Are you the star of the play or something?"
-    mc "Are you the star of the play or something?"
+    mc "你是这出戏的主角还是什么？"
 
 # game/code/Book-1/Chapter-4n/s05.rpy:29
 translate chinese b1c04ns05_8f65b6d2:
 
     # dk "No. My character is in a flashback. An important piece of history, but not the main character."
-    dk "No. My character is in a flashback. An important piece of history, but not the main character."
+    dk "不是。我的角色出现在倒叙中。历史的重要组成部分，但不是主角。"
 
 # game/code/Book-1/Chapter-4n/s05.rpy:32
 translate chinese b1c04ns05_39a956a5:
 
     # dk "Would you help me apply the blood? My performance is in thirty minutes, and I could use the help."
-    dk "Would you help me apply the blood? My performance is in thirty minutes, and I could use the help."
+    dk "你能帮我涂点血吗？我的演出30分钟后就要开始了，我需要你的帮助。"
 
 # game/code/Book-1/Chapter-4n/s05.rpy:35
 translate chinese b1c04ns05_ebab1755:
 
     # mc "No, I can't, I—"
-    mc "No, I can't, I—"
+    mc "我不行，我--"
 
 # game/code/Book-1/Chapter-4n/s05.rpy:38
 translate chinese b1c04ns05_21750aee:
 
     # dk "I'll tell you more about Nia, if you stay."
-    dk "I'll tell you more about Nia, if you stay."
+    dk "如果你留下来，我会告诉你更多关于妮娅的事。"
 
 # game/code/Book-1/Chapter-4n/s05.rpy:41
 translate chinese b1c04ns05_91513146:
 
     # mc "I...guess. Sure."
-    mc "I...guess. Sure."
+    mc "我...行吧。我来。"
 
 # game/code/Book-1/Chapter-4n/s05.rpy:42
 translate chinese b1c04ns05_426f994c:
 
     # mct "It's a small price to pay for more info. She probably just wants her arms and neck covered or something."
-    mct "It's a small price to pay for more info. She probably just wants her arms and neck covered or something."
+    mct "这是获得更多信息的小小代价。她可能是想把胳膊和脖子遮起来什么的。"
 
 # game/code/Book-1/Chapter-4n/s05.rpy:45
 translate chinese b1c04ns05_ee2802ab:
 
     # dk "There's some reference photos on the desk, there."
-    dk "There's some reference photos on the desk, there."
+    dk "桌子上有一些参考照片，那呢。"
 
 # game/code/Book-1/Chapter-4n/s05.rpy:46
 translate chinese b1c04ns05_731d9ca5:
 
     # dk "I need those designs painted on my body."
-    dk "I need those designs painted on my body."
+    dk "我需要把那些图案画在我身上。"
 
 # game/code/Book-1/Chapter-4n/s05.rpy:51
 translate chinese b1c04ns05_08ff88ef:
 
     # mc "Do you have a pair of gloves I could use?"
-    mc "Do you have a pair of gloves I could use?"
+    mc "你有手套可以给我用吗？"
 
 # game/code/Book-1/Chapter-4n/s05.rpy:54
 translate chinese b1c04ns05_a213937c:
 
     # dk "I don't know. You can check the drawer, there."
-    dk "I don't know. You can check the drawer, there."
+    dk "我不知道。你可以在那边的抽屉里找找。"
 
 # game/code/Book-1/Chapter-4n/s05.rpy:58
 translate chinese b1c04ns05_34826dd3:
 
     # dk "So, how was the seminar?"
-    dk "So, how was the seminar?"
+    dk "对了，研讨会怎么样？"
 
 # game/code/Book-1/Chapter-4n/s05.rpy:59
 translate chinese b1c04ns05_0c7528e7:
 
     # dk "How'd it go with Nia?"
-    dk "How'd it go with Nia?"
+    dk "你跟妮娅怎么样了？"
 
 # game/code/Book-1/Chapter-4n/s05.rpy:63
 translate chinese b1c04ns05_1e9a3b5a:
 
     # mct "Damn, doesn't look like there's gloves."
-    mct "Damn, doesn't look like there's gloves."
+    mct "靠，好像没有手套。"
 
 # game/code/Book-1/Chapter-4n/s05.rpy:65
 translate chinese b1c04ns05_14d55860:
 
     # mc "It was alright. Nia seemed happy to see me, at least."
-    mc "It was alright. Nia seemed happy to see me, at least."
+    mc "还好。至少看上去妮娅见到我很高兴。"
 
 # game/code/Book-1/Chapter-4n/s05.rpy:66
 translate chinese b1c04ns05_767d4770:
 
     # mct "And I'm one step closer to learning more info about Maria."
-    mct "And I'm one step closer to learning more info about Maria."
+    mct "而我离了解玛丽亚又近了一步。"
 
 # game/code/Book-1/Chapter-4n/s05.rpy:67
 translate chinese b1c04ns05_33d63512:
 
     # mc "These are...very complicated."
-    mc "These are...very complicated."
+    mc "这些都...很复杂。"
 
 # game/code/Book-1/Chapter-4n/s05.rpy:71
 translate chinese b1c04ns05_1c636a54:
 
     # mc "What are you doing?!"
-    mc "What are you doing?!"
+    mc "你在干什么?!"
 
 # game/code/Book-1/Chapter-4n/s05.rpy:74
 translate chinese b1c04ns05_73e51035:
 
     # dk "What? I imagine this isn't the first time you've seen a woman's body."
-    dk "What? I imagine this isn't the first time you've seen a woman's body."
+    dk "叫什么？我猜这不是你第一次看到女人的身子吧。"
 
 # game/code/Book-1/Chapter-4n/s05.rpy:75
 translate chinese b1c04ns05_1166895c:
 
     # dk "Grow up."
-    dk "Grow up."
+    dk "成熟点吧。"
 
 # game/code/Book-1/Chapter-4n/s05.rpy:78
 translate chinese b1c04ns05_2d537f32:
 
     # mc "I just meant that a little warning would've been nice. I didn't expect you to strip naked..."
-    mc "I just meant that a little warning would've been nice. I didn't expect you to strip naked..."
+    mc " 我只是想说，如果你能给我一点提示就好了。我没想到你会脱光衣服..."
 
 # game/code/Book-1/Chapter-4n/s05.rpy:79
 translate chinese b1c04ns05_1c743a61:
 
     # mc "Do you expect me to put this on {i}all{/i} of your body?"
-    mc "Do you expect me to put this on {i}all{/i} of your body?"
+    mc "你想让我把这个涂遍你{i}全身{/i}吗？"
 
 # game/code/Book-1/Chapter-4n/s05.rpy:82
 translate chinese b1c04ns05_047b1430:
 
     # dk "If I'd known you were gonna be a bitch about it, I would've gotten dog toys."
-    dk "If I'd known you were gonna be a bitch about it, I would've gotten dog toys."
+    dk "如果我知道你会对这事大惊小怪的话，我早就会买狗玩具来。"
 
 # game/code/Book-1/Chapter-4n/s05.rpy:85
 translate chinese b1c04ns05_0cd89066:
 
     # mc "On second thought, that information doesn't seem so important..."
-    mc "On second thought, that information doesn't seem so important..."
+    mc "仔细一想，这个信息好像也不那么重要..."
 
 # game/code/Book-1/Chapter-4n/s05.rpy:88
 translate chinese b1c04ns05_3de95273:
 
     # dk "Do you want the information I have, or not?"
-    dk "Do you want the information I have, or not?"
+    dk "你想不想要我掌握的信息？"
 
 # game/code/Book-1/Chapter-4n/s05.rpy:90
 translate chinese b1c04ns05_b1d0f92c:
 
     # mc "I don't need this information as much as you need me to put this blood on your body."
-    mc "I don't need this information as much as you need me to put this blood on your body."
+    mc "相比我想要这些信息，倒是你更需要我把这些血涂在你身上。"
 
 # game/code/Book-1/Chapter-4n/s05.rpy:92
 translate chinese b1c04ns05_32533c88:
 
     # mc "I suggest you box that fuckin' attitude, little lady."
-    mc "I suggest you box that fuckin' attitude, little lady."
+    mc "我建议你把现在的态度好好收起来，小姑娘。"
 
 # game/code/Book-1/Chapter-4n/s05.rpy:95
 translate chinese b1c04ns05_8012858e:
 
     # dk "Alright. Fair enough. {w} I'm sorry."
-    dk "Alright. Fair enough. {w} I'm sorry."
+    dk "好。行吧。{w} 我很抱歉。"
 
 # game/code/Book-1/Chapter-4n/s05.rpy:97
 translate chinese b1c04ns05_7b471f6f:
 
     # mc "Good."
-    mc "Good."
+    mc "很好"
 
 # game/code/Book-1/Chapter-4n/s05.rpy:100
 translate chinese b1c04ns05_8bc2ca47:
 
     # mct "Ugh. The smell of copper and raw meat isn't pleasant."
-    mct "Ugh. The smell of copper and raw meat isn't pleasant."
+    mct "哎。铜和生肉的味道可真难闻。"
 
 # game/code/Book-1/Chapter-4n/s05.rpy:102
 translate chinese b1c04ns05_6a931a6f:
 
     # mc "Where...should I start?"
-    mc "Where...should I start?"
+    mc "我应该从哪里...开始?"
 
 # game/code/Book-1/Chapter-4n/s05.rpy:105
 translate chinese b1c04ns05_782f94ce:
 
     # dk "Wherever you want."
-    dk "Wherever you want."
+    dk "随便你。"
 
 # game/code/Book-1/Chapter-4n/s05.rpy:106
 translate chinese b1c04ns05_bdd502eb:
 
     # dk "But I do need to be covered in a specific way."
-    dk "But I do need to be covered in a specific way."
+    dk "但我确实需要以特定的图案被覆盖。"
 
 # game/code/Book-1/Chapter-4n/s05.rpy:109
 translate chinese b1c04ns05_42b91bcc:
 
     # dk "My tattoos definitely need to be completely obscured."
-    dk "My tattoos definitely need to be completely obscured."
+    dk "我的纹身一定要完全遮住。"
 
 # game/code/Book-1/Chapter-4n/s05.rpy:112
 translate chinese b1c04ns05_422d6ff5:
 
     # dk "And I need a specific design done on my body. It's a warrior design."
-    dk "And I need a specific design done on my body. It's a warrior design."
+    dk "我需要在我身上做一个特别设计。它是个战士标志。"
 
 # game/code/Book-1/Chapter-4n/s05.rpy:130
 translate chinese b1c04ns05_d8f42e36:
 
     # mc "There. Is that good enough?"
-    mc "There. Is that good enough?"
+    mc "好了。这样可以吗？"
 
 # game/code/Book-1/Chapter-4n/s05.rpy:133
 translate chinese b1c04ns05_f34ff2aa:
 
     # dk "I still need all this covered."
-    dk "I still need all this covered."
+    dk "我还需要把这里都遮住。"
 
 # game/code/Book-1/Chapter-4n/s05.rpy:136
 translate chinese b1c04ns05_0b0a9152:
 
     # dk "About Nia..."
-    dk "About Nia..."
+    dk "关于妮娅..."
 
 # game/code/Book-1/Chapter-4n/s05.rpy:137
 translate chinese b1c04ns05_6b3f9900:
 
     # dk "She used to be quite the loner. But came out of her shell when Maria introduced her to the self improvement community."
-    dk "She used to be quite the loner. But came out of her shell when Maria introduced her to the self improvement community."
+    dk "她过去很不合群。但当玛丽亚把她介绍给自我改善社区时，她就从自己的壳里走出来了。"
 
 # game/code/Book-1/Chapter-4n/s05.rpy:139
 translate chinese b1c04ns05_cf90f43a:
 
     # dk "Her brother, Xasan, was extremely jealous of Maria's influence over Nia."
-    dk "Her brother, Xasan, was extremely jealous of Maria's influence over Nia."
+    dk "她的哥哥哈桑，非常嫉妒玛丽亚对妮娅的影响。"
 
 # game/code/Book-1/Chapter-4n/s05.rpy:141
 translate chinese b1c04ns05_4405b41c:
 
     # dk "I'm not sure why. He's extremely possessive of her, though."
-    dk "I'm not sure why. He's extremely possessive of her, though."
+    dk "我不知道为什么。不过，他对她的占有欲很强。"
 
 # game/code/Book-1/Chapter-4n/s05.rpy:142
 translate chinese b1c04ns05_9c07f4ef:
 
     # dk "That'll probably deter you, if you're smart."
-    dk "That'll probably deter you, if you're smart."
+    dk "如果你够聪明的话，可能会在这里停下。"
 
 # game/code/Book-1/Chapter-4n/s05.rpy:143
 translate chinese b1c04ns05_c3c2efae:
 
     # dk "And if not, be prepared for a fight."
-    dk "And if not, be prepared for a fight."
+    dk "如果你没那么聪明，那就做好打架的准备。."
 
 # game/code/Book-1/Chapter-4n/s05.rpy:145
 translate chinese b1c04ns05_e780f579:
 
     # mct "This Xasan character seems extremely suspicious..."
-    mct "This Xasan character seems extremely suspicious..."
+    mct "这个哈桑听上去很可疑..."
 
 # game/code/Book-1/Chapter-4n/s05.rpy:146
 translate chinese b1c04ns05_0b907462:
 
     # mct "Especially if he had conflict with Maria."
-    mct "Especially if he had conflict with Maria."
+    mct "尤其是他和玛丽亚有冲突的话。"
 
 # game/code/Book-1/Chapter-4n/s05.rpy:148
 translate chinese b1c04ns05_69f58117:
 
     # mc "Can you elaborate on Maria's role? Why did Xasan hate the idea of Nia being around Maria?"
-    mc "Can you elaborate on Maria's role? Why did Xasan hate the idea of Nia being around Maria?"
+    mc "你能详细说明一下玛丽亚吗？为什么哈桑讨厌妮娅和玛丽亚在一起？"
 
 # game/code/Book-1/Chapter-4n/s05.rpy:149
 translate chinese b1c04ns05_7a4b6289:
 
     # mc "I'd think he'd be happy for his sister."
-    mc "I'd think he'd be happy for his sister."
+    mc "我还以为他会为他妹妹高兴呢。"
 
 # game/code/Book-1/Chapter-4n/s05.rpy:152
 translate chinese b1c04ns05_64c53200:
 
     # dk "Hm...I think Xasan thought that Maria {i}stole{/i} Nia from him."
-    dk "Hm...I think Xasan thought that Maria {i}stole{/i} Nia from him."
+    dk "嗯...我想沙桑认为玛丽亚从他那里{i}偷走了{/i}妮娅。"
 
 # game/code/Book-1/Chapter-4n/s05.rpy:153
 translate chinese b1c04ns05_ca8c1dcf:
 
     # dk "There's probably more concerning their family life. But I don't know much about their family dynamic."
-    dk "There's probably more concerning their family life. But I don't know much about their family dynamic."
+    dk "深层原因可能和他们的家庭生活有关。但我不太了解他们的家庭动态。"
 
 # game/code/Book-1/Chapter-4n/s05.rpy:154
 translate chinese b1c04ns05_71eb1e93:
 
     # dk "Nia's pretty private about that part. She's only ever said that her family can be controlling."
-    dk "Nia's pretty private about that part. She's only ever said that her family can be controlling."
+    dk "妮娅对这部分很保密。她只说过她的家人控制欲很强。"
 
 # game/code/Book-1/Chapter-4n/s05.rpy:157
 translate chinese b1c04ns05_054c5ee0:
 
     # mc "I see."
-    mc "I see."
+    mc "我明白了。"
 
 # game/code/Book-1/Chapter-4n/s05.rpy:158
 translate chinese b1c04ns05_c7e9c7af:
