@@ -532,7 +532,7 @@ translate chinese b1c04ns05_0e1de061:
 translate chinese b1c04ns05_df2ff239:
 
     # dk "So much so, that they're hardly even stories to me, anymore."
-    dk "以至于它们对我来说都不再是故事了。
+    dk "以至于它们对我来说都不再是故事了。"
 
 # game/code/Book-1/Chapter-4n/s05.rpy:275
 translate chinese b1c04ns05_15695c42:
