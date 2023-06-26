@@ -347,10 +347,9 @@ translate chinese strings:
     new "Hates Isa. Wants revenge."
 
     # game/code/data/ib_descriptions.rpy:2
-    old "New member of the self help group."
-    new "New member of the self help group."
+    old "New member of the self-help group."
+    new "New member of the self-help group."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Member of The Winner's Group."
     new "Member of The Winner's Group."
-

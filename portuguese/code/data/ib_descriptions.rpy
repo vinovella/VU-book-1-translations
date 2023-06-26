@@ -347,10 +347,9 @@ translate portuguese strings:
     new ""
 
     # game/code/data/ib_descriptions.rpy:2
-    old "New member of the self help group."
+    old "New member of the self-help group."
     new ""
 
     # game/code/data/ib_descriptions.rpy:2
     old "Member of The Winner's Group."
     new ""
-

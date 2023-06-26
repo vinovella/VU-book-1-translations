@@ -78,12 +78,6 @@ translate chinese b1c06_no_transition_811d3515:
     # mct "This \"Self-Help Group\" is certainly looking to be more concerning by the day."
     mct "This \"Self-Help Group\" is certainly looking to be more concerning by the day."
 
-# game/code/Book-1/Chapter-6/s00.rpy:151
-translate chinese b1c06_no_transition_c622317d:
-
-    # mct "Especially with the way that Andre guy acts."
-    mct "Especially with the way that Andre guy acts."
-
 # game/code/Book-1/Chapter-6/s00.rpy:154
 translate chinese b1c06_no_transition_7413159a:
 
@@ -131,4 +125,3 @@ translate chinese b1c06_no_transition_fecc2e73_2:
 
     # mct "*Yawn* Gotta keep working the case..."
     mct "*Yawn* Gotta keep working the case..."
-
