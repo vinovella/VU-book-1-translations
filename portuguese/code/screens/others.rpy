@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-05-26 11:44
+﻿# TODO: Translation updated at 2023-06-27 18:35
 
 translate portuguese strings:
 

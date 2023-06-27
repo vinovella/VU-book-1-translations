@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-05-26 11:44
+﻿# TODO: Translation updated at 2023-06-27 18:34
 
 # game/code/Book-1/Chapter-4n/s02.rpy:11
 translate portuguese b1c04ns02_28643059:
@@ -365,6 +365,12 @@ translate portuguese b1c04ns02_44db1a57:
 
     # nv "Are you still going to the seminar after school, today?"
     nv ""
+
+# game/code/Book-1/Chapter-4n/s02.rpy:255
+translate portuguese b1c04ns02_3882f53d:
+
+    # ef "Yeah, I was planning on it. I think Andrejz is gonna host it, right?"
+    ef ""
 
 # game/code/Book-1/Chapter-4n/s02.rpy:261
 translate portuguese b1c04ns02_1a718016:
@@ -779,3 +785,4 @@ translate portuguese b1c04ns02_b8624346:
 
     # mct "I should see about getting Delphia that pig's blood."
     mct ""
+

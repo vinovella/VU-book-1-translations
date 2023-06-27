@@ -256,7 +256,7 @@ translate chinese b1c04ss06_d422296c:
 translate chinese b1c04ss06_3a224f24:
 
     # mc "I expect nothing less from my ruthless and skilled teammates."
-    mc "我对我那些无情又有技术的队友没有什么期望。所以克拉拉是排球队的队长...
+    mc "我对我那些无情又有技术的队友没有什么期望。所以克拉拉是排球队的队长..."
 
 # game/code/Book-1/Chapter-4s/s06.rpy:150
 translate chinese b1c04ss06_787be99b:

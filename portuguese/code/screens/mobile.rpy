@@ -1,16 +1,16 @@
-﻿# TODO: Translation updated at 2023-05-26 11:44
+﻿# TODO: Translation updated at 2023-06-27 18:35
 
 translate portuguese strings:
 
-    # game/code/screens/mobile.rpy:30
+    # game/code/screens/mobile.rpy:25
     old "Back"
     new ""
 
-    # game/code/screens/mobile.rpy:32
+    # game/code/screens/mobile.rpy:27
     old "Auto"
     new ""
 
-    # game/code/screens/mobile.rpy:33
+    # game/code/screens/mobile.rpy:28
     old "Menu"
     new ""
 

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-05-26 11:44
+﻿# TODO: Translation updated at 2023-06-27 18:34
 
 # game/code/Book-1/Chapter-6w/s03.rpy:24
 translate portuguese b1c06ws03_6b98694b:
@@ -145,9 +145,9 @@ translate portuguese b1c06ws03_026edaf0:
     sa ""
 
 # game/code/Book-1/Chapter-6w/s03.rpy:100
-translate portuguese b1c06ws03_28f7a11b:
+translate portuguese b1c06ws03_46e42405:
 
-    # sa "I'm sure most of you have heard that we're gearing up to have a practice match with CCC, but I'll reiterate for those who don't know."
+    # sa "I'm sure most of you have heard that we're gearing up to have a match with CCC, but I'll reiterate for those who don't know."
     sa ""
 
 # game/code/Book-1/Chapter-6w/s03.rpy:102
@@ -169,474 +169,462 @@ translate portuguese b1c06ws03_7f977032:
     sa ""
 
 # game/code/Book-1/Chapter-6w/s03.rpy:113
-translate portuguese b1c06ws03_ef30be84:
+translate portuguese b1c06ws03_76ce1119:
 
-    # sa "It seems that this year they are preparing for the state championships by going around and getting a read on the toughest players."
+    # sa "It seems that this year they are our first opponent in the state championships."
     sa ""
 
 # game/code/Book-1/Chapter-6w/s03.rpy:115
-translate portuguese b1c06ws03_f1617af2:
+translate portuguese b1c06ws03_952e2bc1:
 
-    # sa "Fighting them in their home turf to get as much info as they can."
+    # sa "They're a strong team and we'll be fighting them on their home turf, so it'll be tough."
     sa ""
 
-# game/code/Book-1/Chapter-6w/s03.rpy:116
-translate portuguese b1c06ws03_b793d7c1:
+# game/code/Book-1/Chapter-6w/s03.rpy:118
+translate portuguese b1c06ws03_60b57f95:
 
-    # sa "They asked if we would be interested. Silvia and I talked, and we agreed it'd be beneficial to accept."
-    sa ""
-
-# game/code/Book-1/Chapter-6w/s03.rpy:119
-translate portuguese b1c06ws03_5730bd94:
-
-    # sl "I still don't understand why we're bothering with those assholes."
+    # sl "I still don't understand why they even bother letting those assholes play."
     sl ""
 
-# game/code/Book-1/Chapter-6w/s03.rpy:124
+# game/code/Book-1/Chapter-6w/s03.rpy:123
 translate portuguese b1c06ws03_eb168ae4:
 
     # "*Murmurs of agreement*"
     ""
 
-# game/code/Book-1/Chapter-6w/s03.rpy:127
-translate portuguese b1c06ws03_e639499b:
+# game/code/Book-1/Chapter-6w/s03.rpy:126
+translate portuguese b1c06ws03_c8f9550a:
 
-    # sa "Because, it's a great opportunity for us to destroy their morale before they even begin."
+    # sa "Because gloating and being good at the game aren't punishable offences."
     sa ""
 
-# game/code/Book-1/Chapter-6w/s03.rpy:128
+# game/code/Book-1/Chapter-6w/s03.rpy:127
 translate portuguese b1c06ws03_988cd340:
 
     # sa "And as funny as it is to crack jokes, we should still exhibit some respect for our fellow rivals."
     sa ""
 
-# game/code/Book-1/Chapter-6w/s03.rpy:135
-translate portuguese b1c06ws03_35e8e69e:
+# game/code/Book-1/Chapter-6w/s03.rpy:134
+translate portuguese b1c06ws03_74ab5c73:
 
-    # sa "Think about it. The CCC are going around to train up for the championships."
+    # sa "We need to remain focused. From what I've heard, they've been doing relatively well."
     sa ""
 
-# game/code/Book-1/Chapter-6w/s03.rpy:136
-translate portuguese b1c06ws03_399a5063:
+# game/code/Book-1/Chapter-6w/s03.rpy:137
+translate portuguese b1c06ws03_f8b044f9:
 
-    # sa "From what I've heard, they've been doing relatively well."
+    # sa "If we manage to strike a decisive victory against them during the match, we will cripple their confidence."
     sa ""
 
-# game/code/Book-1/Chapter-6w/s03.rpy:139
-translate portuguese b1c06ws03_0f37ec04:
+# game/code/Book-1/Chapter-6w/s03.rpy:138
+translate portuguese b1c06ws03_29aae6b5:
 
-    # sa "If we manage to strike a decisive victory against them tomorrow, we will cripple their confidence."
+    # sa "It's certainly a risk playing aggressively without Klara, but having seen the performance of the team up until now, I believe that we can do it."
     sa ""
 
-# game/code/Book-1/Chapter-6w/s03.rpy:140
-translate portuguese b1c06ws03_a305e1ee:
-
-    # sa "It's certainly a risk. But having seen the performance of the team up until now, I believe that we can do it."
-    sa ""
-
-# game/code/Book-1/Chapter-6w/s03.rpy:143
+# game/code/Book-1/Chapter-6w/s03.rpy:141
 translate portuguese b1c06ws03_36ceab3d:
 
     # ir "We can probably beat 'em into dust."
     ir ""
 
-# game/code/Book-1/Chapter-6w/s03.rpy:146
+# game/code/Book-1/Chapter-6w/s03.rpy:144
 translate portuguese b1c06ws03_2d361a94:
 
     # oa "I think so."
     oa ""
 
-# game/code/Book-1/Chapter-6w/s03.rpy:149
+# game/code/Book-1/Chapter-6w/s03.rpy:147
 translate portuguese b1c06ws03_e02e2e2c:
 
     # ba "Of course we can."
     ba ""
 
-# game/code/Book-1/Chapter-6w/s03.rpy:151
+# game/code/Book-1/Chapter-6w/s03.rpy:149
 translate portuguese b1c06ws03_233bf7fe:
 
     # mm "We're the best."
     mm ""
 
-# game/code/Book-1/Chapter-6w/s03.rpy:154
+# game/code/Book-1/Chapter-6w/s03.rpy:152
 translate portuguese b1c06ws03_eef3043a:
 
     # sa "So, I want you all to be mainly practicing defensive maneuvers today and learning to get in sync with each other."
     sa ""
 
-# game/code/Book-1/Chapter-6w/s03.rpy:157
+# game/code/Book-1/Chapter-6w/s03.rpy:155
 translate portuguese b1c06ws03_5a22531b:
 
     # sa "Especially now that we have a new member."
     sa ""
 
-# game/code/Book-1/Chapter-6w/s03.rpy:158
+# game/code/Book-1/Chapter-6w/s03.rpy:156
 translate portuguese b1c06ws03_9e908fdc:
 
     # sa "Alright, let's get to it!"
     sa ""
 
-# game/code/Book-1/Chapter-6w/s03.rpy:165
+# game/code/Book-1/Chapter-6w/s03.rpy:163
 translate portuguese b1c06ws03_1a0a41ae:
 
     # "You breathe in deep, calming your mind. Choosing the perfect location to serve the ball to."
     ""
 
-# game/code/Book-1/Chapter-6w/s03.rpy:167
+# game/code/Book-1/Chapter-6w/s03.rpy:165
 translate portuguese b1c06ws03_1bfb1179:
 
     # mct "Simon's the weakest link. Let's see how Brigitta handles covering for her less coordinated teammates."
     mct ""
 
-# game/code/Book-1/Chapter-6w/s03.rpy:170
+# game/code/Book-1/Chapter-6w/s03.rpy:168
 translate portuguese b1c06ws03_24798d50:
 
     # "There's a moment of quiet anticipation in that endless moment when the ball spins in the air above you, gaining momentum and power."
     ""
 
-# game/code/Book-1/Chapter-6w/s03.rpy:171
+# game/code/Book-1/Chapter-6w/s03.rpy:169
 translate portuguese b1c06ws03_5008e6a2:
 
     # "With a quick, powerful movement, you throw the ball up with a spin."
     ""
 
-# game/code/Book-1/Chapter-6w/s03.rpy:173
+# game/code/Book-1/Chapter-6w/s03.rpy:171
 translate portuguese b1c06ws03_567ee0e5:
 
     # "Your palm connects with the ball in a perfect arch, hitting dead center and sending the ball flying towards him"
     ""
 
-# game/code/Book-1/Chapter-6w/s03.rpy:179
+# game/code/Book-1/Chapter-6w/s03.rpy:177
 translate portuguese b1c06ws03_d84408e4:
 
     # "Simon dives for the ball, just as expected, but he surprises you with his speed. It's nothing special, but it's {i}faster{/i}, faster than last time, and he doesn't fumble."
     ""
 
-# game/code/Book-1/Chapter-6w/s03.rpy:183
+# game/code/Book-1/Chapter-6w/s03.rpy:181
 translate portuguese b1c06ws03_24e7adf2:
 
     # "Simon smoothly passes the ball to Monika on the side of the court, who's already expecting it."
     ""
 
-# game/code/Book-1/Chapter-6w/s03.rpy:185
+# game/code/Book-1/Chapter-6w/s03.rpy:183
 translate portuguese b1c06ws03_df58a2a2:
 
     # "She takes the ball and sets it to Brigitta, setting it up for an easy hit."
     ""
 
-# game/code/Book-1/Chapter-6w/s03.rpy:186
+# game/code/Book-1/Chapter-6w/s03.rpy:184
 translate portuguese b1c06ws03_01ed15d7:
 
     # mct "Fuck. They...improved fast."
     mct ""
 
-# game/code/Book-1/Chapter-6w/s03.rpy:189
+# game/code/Book-1/Chapter-6w/s03.rpy:187
 translate portuguese b1c06ws03_29bcc5cd:
 
     # "You were so preoccupied with observing them, you forgot to move back in for the defense."
     ""
 
-# game/code/Book-1/Chapter-6w/s03.rpy:190
+# game/code/Book-1/Chapter-6w/s03.rpy:188
 translate portuguese b1c06ws03_f108425d:
 
     # "You move your body as fast as you can to defend from Brigitta's hit, but you doubt you can make it in time."
     ""
 
-# game/code/Book-1/Chapter-6w/s03.rpy:194
+# game/code/Book-1/Chapter-6w/s03.rpy:192
 translate portuguese b1c06ws03_17790827:
 
     # "All of a sudden, Iona blurs past from her middle blocker position to the opposite hitter position as she times a block that's perfectly in sync to disrupt Brigitta's attack."
     ""
 
-# game/code/Book-1/Chapter-6w/s03.rpy:198
+# game/code/Book-1/Chapter-6w/s03.rpy:196
 translate portuguese b1c06ws03_21a6f955:
 
     # "Her well-timed block sends the ball careening toward their court as both Simon and Monika fail to react in time."
     ""
 
-# game/code/Book-1/Chapter-6w/s03.rpy:201
+# game/code/Book-1/Chapter-6w/s03.rpy:199
 translate portuguese b1c06ws03_347c1268:
 
     # "A shrill whistle goes off the moment the ball hits the ground."
     ""
 
-# game/code/Book-1/Chapter-6w/s03.rpy:203
+# game/code/Book-1/Chapter-6w/s03.rpy:201
 translate portuguese b1c06ws03_8aa21cae:
 
     # sa "First point to Team A. Good job with that block Iona. And Simon, don't let your defenses be open after a pass, always keep your eye on the ball."
     sa ""
 
-# game/code/Book-1/Chapter-6w/s03.rpy:205
+# game/code/Book-1/Chapter-6w/s03.rpy:203
 translate portuguese b1c06ws03_9184c650:
 
     # sl "Got it, chief."
     sl ""
 
-# game/code/Book-1/Chapter-6w/s03.rpy:208
+# game/code/Book-1/Chapter-6w/s03.rpy:206
 translate portuguese b1c06ws03_d3e82dbe:
 
     # mc "That was fast."
     mc ""
 
-# game/code/Book-1/Chapter-6w/s03.rpy:211
+# game/code/Book-1/Chapter-6w/s03.rpy:209
 translate portuguese b1c06ws03_f04e2664:
 
     # ir "I knew Simon's pass would probably surprise you. He's been practicing that one."
     ir ""
 
-# game/code/Book-1/Chapter-6w/s03.rpy:212
+# game/code/Book-1/Chapter-6w/s03.rpy:210
 translate portuguese b1c06ws03_626298d6:
 
     # ir "You're good at serves and hits, I'll back you up with blocks."
     ir ""
 
-# game/code/Book-1/Chapter-6w/s03.rpy:215
+# game/code/Book-1/Chapter-6w/s03.rpy:213
 translate portuguese b1c06ws03_570b20dd:
 
     # ir "Try to get the ball away from Brigitta though, I would rather not take more than a couple of her hits."
     ir ""
 
-# game/code/Book-1/Chapter-6w/s03.rpy:217
+# game/code/Book-1/Chapter-6w/s03.rpy:215
 translate portuguese b1c06ws03_309fffc9:
 
     # ir "You know what that's like, right?"
     ir ""
 
-# game/code/Book-1/Chapter-6w/s03.rpy:224
+# game/code/Book-1/Chapter-6w/s03.rpy:222
 translate portuguese b1c06ws03_169d9f55:
 
     # "You get back into the zone and take in everything you've learned about this team as you change your patterns to match up and counter what they've learned about you."
     ""
 
-# game/code/Book-1/Chapter-6w/s03.rpy:253
+# game/code/Book-1/Chapter-6w/s03.rpy:251
 translate portuguese b1c06ws03_98c38598:
 
     # sa "And that's the first set. Team A takes the lead. Good job everyone. Drink some water and rest up, we'll start up the second set in 3 minutes."
     sa ""
 
-# game/code/Book-1/Chapter-6w/s03.rpy:256
+# game/code/Book-1/Chapter-6w/s03.rpy:254
 translate portuguese b1c06ws03_6a598d32:
 
     # ir "Woo! Fuck yeah, bitches! How you like them apples?"
     ir ""
 
-# game/code/Book-1/Chapter-6w/s03.rpy:273
+# game/code/Book-1/Chapter-6w/s03.rpy:271
 translate portuguese b1c06ws03_7c55b1ac:
 
     # ir "Mmm, that's the sweet smell of victory."
     ir ""
 
-# game/code/Book-1/Chapter-6w/s03.rpy:276
+# game/code/Book-1/Chapter-6w/s03.rpy:274
 translate portuguese b1c06ws03_8eea011a:
 
     # mc "Could you not fuck me with your eyes right now?"
     mc ""
 
-# game/code/Book-1/Chapter-6w/s03.rpy:279
+# game/code/Book-1/Chapter-6w/s03.rpy:277
 translate portuguese b1c06ws03_47f2ef41:
 
     # ir "*Dramatic gasp* I have {i}never{/i} done such a thing."
     ir ""
 
-# game/code/Book-1/Chapter-6w/s03.rpy:280
+# game/code/Book-1/Chapter-6w/s03.rpy:278
 translate portuguese b1c06ws03_0394097a:
 
     # ir "I'm just admiring nature and its aroma."
     ir ""
 
-# game/code/Book-1/Chapter-6w/s03.rpy:287
+# game/code/Book-1/Chapter-6w/s03.rpy:285
 translate portuguese b1c06ws03_0326754d:
 
     # mc "You're disturbing the peace."
     mc ""
 
-# game/code/Book-1/Chapter-6w/s03.rpy:289
+# game/code/Book-1/Chapter-6w/s03.rpy:287
 translate portuguese b1c06ws03_9dbcecef:
 
     # mc "In nature, mischief-makers usually get punished, don't they?"
     mc ""
 
-# game/code/Book-1/Chapter-6w/s03.rpy:292
+# game/code/Book-1/Chapter-6w/s03.rpy:290
 translate portuguese b1c06ws03_e3401db5:
 
     # ir "Only if they're caught."
     ir ""
 
-# game/code/Book-1/Chapter-6w/s03.rpy:306
+# game/code/Book-1/Chapter-6w/s03.rpy:304
 translate portuguese b1c06ws03_65b50b30:
 
     # "The second set starts and Brigitta serves first. Her serves are strong but easy to predict, and you've been analyzing her patterns this whole game."
     ""
 
-# game/code/Book-1/Chapter-6w/s03.rpy:310
+# game/code/Book-1/Chapter-6w/s03.rpy:308
 translate portuguese b1c06ws03_59c6a256:
 
     # "You catch Brigitta's serve and pass the ball to Oleysa, who passes it to Iona."
     ""
 
-# game/code/Book-1/Chapter-6w/s03.rpy:313
+# game/code/Book-1/Chapter-6w/s03.rpy:311
 translate portuguese b1c06ws03_f91ee99e:
 
     # "Iona's great at long-range hits, and under the protective efficiency of your team, she's unstoppable."
     ""
 
-# game/code/Book-1/Chapter-6w/s03.rpy:318
+# game/code/Book-1/Chapter-6w/s03.rpy:316
 translate portuguese b1c06ws03_816423d7:
 
     # "Neither Simon nor Monika are ready to block her."
     ""
 
-# game/code/Book-1/Chapter-6w/s03.rpy:319
+# game/code/Book-1/Chapter-6w/s03.rpy:317
 translate portuguese b1c06ws03_7a73e5de:
 
     # "It's an easy first point."
     ""
 
-# game/code/Book-1/Chapter-6w/s03.rpy:323
+# game/code/Book-1/Chapter-6w/s03.rpy:321
 translate portuguese b1c06ws03_68f71f3c:
 
     # mct "We just have to keep this going and we got it in the bag."
     mct ""
 
-# game/code/Book-1/Chapter-6w/s03.rpy:324
+# game/code/Book-1/Chapter-6w/s03.rpy:322
 translate portuguese b1c06ws03_7c657e96:
 
     # mct "Brigitta is strong but her lone wolf attitude keeps her team divided. They're not a unified front against our threats."
     mct ""
 
-# game/code/Book-1/Chapter-6w/s03.rpy:327
+# game/code/Book-1/Chapter-6w/s03.rpy:325
 translate portuguese b1c06ws03_c1a46f2c:
 
     # "The game continues."
     ""
 
-# game/code/Book-1/Chapter-6w/s03.rpy:348
+# game/code/Book-1/Chapter-6w/s03.rpy:346
 translate portuguese b1c06ws03_a8eff729:
 
     # mct "What the...?"
     mct ""
 
-# game/code/Book-1/Chapter-6w/s03.rpy:351
+# game/code/Book-1/Chapter-6w/s03.rpy:349
 translate portuguese b1c06ws03_aedfc135:
 
     # "You have no clue what just happened. Monika set the ball to Brigitta as she has done before, but the timing was different."
     ""
 
-# game/code/Book-1/Chapter-6w/s03.rpy:352
+# game/code/Book-1/Chapter-6w/s03.rpy:350
 translate portuguese b1c06ws03_fa33c1e7:
 
     # "Not to mention Simon came in running like he was going to hit the set instead of defending."
     ""
 
-# game/code/Book-1/Chapter-6w/s03.rpy:355
+# game/code/Book-1/Chapter-6w/s03.rpy:353
 translate portuguese b1c06ws03_9fbb6f18:
 
     # "No one in your team predicted that and Brigitta capitalized on it."
     ""
 
-# game/code/Book-1/Chapter-6w/s03.rpy:358
+# game/code/Book-1/Chapter-6w/s03.rpy:356
 translate portuguese b1c06ws03_cfbb01dd:
 
     # ir "Hey, hey!{w} It's just a surprise spike. We'll take that point back."
     ir ""
 
-# game/code/Book-1/Chapter-6w/s03.rpy:359
+# game/code/Book-1/Chapter-6w/s03.rpy:357
 translate portuguese b1c06ws03_cbb66571:
 
     # "You nod. Of course, you'll take the point back."
     ""
 
-# game/code/Book-1/Chapter-6w/s03.rpy:367
+# game/code/Book-1/Chapter-6w/s03.rpy:365
 translate portuguese b1c06ws03_0ab37ab4:
 
     # "But you don't. The script has flipped."
     ""
 
-# game/code/Book-1/Chapter-6w/s03.rpy:368
+# game/code/Book-1/Chapter-6w/s03.rpy:366
 translate portuguese b1c06ws03_00ad4c4c:
 
     # "What you thought was a weakness on Brigitta's part has been a deliberate facade instead."
     ""
 
-# game/code/Book-1/Chapter-6w/s03.rpy:372
+# game/code/Book-1/Chapter-6w/s03.rpy:370
 translate portuguese b1c06ws03_4e3b1552:
 
     # "While you were reading her, she was reading you."
     ""
 
-# game/code/Book-1/Chapter-6w/s03.rpy:373
+# game/code/Book-1/Chapter-6w/s03.rpy:371
 translate portuguese b1c06ws03_b572c121:
 
     # "Toning her speed and aggression and refining it into a spike that's incredibly hard to predict because of the subterfuge of Simon and Monika."
     ""
 
-# game/code/Book-1/Chapter-6w/s03.rpy:377
+# game/code/Book-1/Chapter-6w/s03.rpy:375
 translate portuguese b1c06ws03_fa3c5512:
 
     # "You lose the second round. You start to gain some ground with her on the third, but both Iona and Olesya are too exhausted to continue. You lose the third round too."
     ""
 
-# game/code/Book-1/Chapter-6w/s03.rpy:383
+# game/code/Book-1/Chapter-6w/s03.rpy:381
 translate portuguese b1c06ws03_4d4f02b2:
 
     # "The shrill whistle sounding the end of the match and your defeat annoys you but fills you with determination to do better next time."
     ""
 
-# game/code/Book-1/Chapter-6w/s03.rpy:386
+# game/code/Book-1/Chapter-6w/s03.rpy:384
 translate portuguese b1c06ws03_82c0682c:
 
     # "You lock eyes with Brigitta and her team. They stand strong and proud, while you and your team are heaving from effort."
     ""
 
-# game/code/Book-1/Chapter-6w/s03.rpy:390
+# game/code/Book-1/Chapter-6w/s03.rpy:388
 translate portuguese b1c06ws03_f8cf111f:
 
     # mct "Dealing with her gloating is gonna be the worst part of it."
     mct ""
 
-# game/code/Book-1/Chapter-6w/s03.rpy:393
+# game/code/Book-1/Chapter-6w/s03.rpy:391
 translate portuguese b1c06ws03_f251c7e4:
 
     # ba "SUCK MY ASS YOU CUNTS!"
     ba ""
 
-# game/code/Book-1/Chapter-6w/s03.rpy:396
+# game/code/Book-1/Chapter-6w/s03.rpy:394
 translate portuguese b1c06ws03_926900a9:
 
     # sa "Alright. Great game you two. Drink up and rest. We'll go over what you can improve afterwards."
     sa ""
 
-# game/code/Book-1/Chapter-6w/s03.rpy:399
+# game/code/Book-1/Chapter-6w/s03.rpy:397
 translate portuguese b1c06ws03_c85ca819:
 
     # ir "Hey, we'll get 'em next time."
     ir ""
 
-# game/code/Book-1/Chapter-6w/s03.rpy:400
+# game/code/Book-1/Chapter-6w/s03.rpy:398
 translate portuguese b1c06ws03_fa562e8e:
 
     # ir "Brigitta has a way of making sure we all have our strength during actual competitions."
     ir ""
 
-# game/code/Book-1/Chapter-6w/s03.rpy:401
+# game/code/Book-1/Chapter-6w/s03.rpy:399
 translate portuguese b1c06ws03_5b7eac0e:
 
     # ir "But that doesn't mean she doesn't like to gloat every once in a while."
     ir ""
 
-# game/code/Book-1/Chapter-6w/s03.rpy:407
+# game/code/Book-1/Chapter-6w/s03.rpy:405
 translate portuguese b1c06ws03_22790f83:
 
     # ba "See? I told you you'd get slaughtered. *Chuckles*"
     ba ""
 
-# game/code/Book-1/Chapter-6w/s03.rpy:415
+# game/code/Book-1/Chapter-6w/s03.rpy:413
 translate portuguese b1c06ws03_ef9bddd8:
 
     # ba "Better luck next time, pretty boy."
     ba ""
 
-# game/code/Book-1/Chapter-6w/s03.rpy:420
+# game/code/Book-1/Chapter-6w/s03.rpy:418
 translate portuguese b1c06ws03_b99ec9dd:
 
     # mc "Still had to get help from your team."

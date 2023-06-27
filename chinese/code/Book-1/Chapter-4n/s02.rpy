@@ -779,3 +779,12 @@ translate chinese b1c04ns02_b8624346:
 
     # mct "I should see about getting Delphia that pig's blood."
     mct "我该想想办法给黛尔菲娅弄到猪血。"
+
+# TODO: Translation updated at 2023-06-27 18:33
+
+# game/code/Book-1/Chapter-4n/s02.rpy:255
+translate chinese b1c04ns02_3882f53d:
+
+    # ef "Yeah, I was planning on it. I think Andrejz is gonna host it, right?"
+    ef "Yeah, I was planning on it. I think Andrejz is gonna host it, right?"
+

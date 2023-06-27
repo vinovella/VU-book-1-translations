@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-05-26 11:44
+﻿# TODO: Translation updated at 2023-06-27 18:35
 
 translate portuguese strings:
 
@@ -42,235 +42,231 @@ translate portuguese strings:
     old "Empty Slot"
     new ""
 
-    # game/code/screens/game_menus.rpy:145
+    # game/code/screens/game_menus.rpy:148
     old "<"
     new ""
 
-    # game/code/screens/game_menus.rpy:148
+    # game/code/screens/game_menus.rpy:151
     old "{#auto_page}A"
     new ""
 
-    # game/code/screens/game_menus.rpy:151
+    # game/code/screens/game_menus.rpy:154
     old "{#quick_page}Q"
     new ""
 
-    # game/code/screens/game_menus.rpy:156
+    # game/code/screens/game_menus.rpy:159
     old ">"
     new ""
 
-    # game/code/screens/game_menus.rpy:233
+    # game/code/screens/game_menus.rpy:236
     old "Preferences"
     new ""
 
-    # game/code/screens/game_menus.rpy:244
+    # game/code/screens/game_menus.rpy:247
     old "Display"
     new ""
 
-    # game/code/screens/game_menus.rpy:245
+    # game/code/screens/game_menus.rpy:248
     old "Window"
     new ""
 
-    # game/code/screens/game_menus.rpy:246
+    # game/code/screens/game_menus.rpy:249
     old "Fullscreen"
     new ""
 
-    # game/code/screens/game_menus.rpy:250
+    # game/code/screens/game_menus.rpy:253
     old "Rollback Side"
     new ""
 
-    # game/code/screens/game_menus.rpy:252
+    # game/code/screens/game_menus.rpy:255
     old "Left"
     new ""
 
-    # game/code/screens/game_menus.rpy:253
+    # game/code/screens/game_menus.rpy:256
     old "Right"
     new ""
 
-    # game/code/screens/game_menus.rpy:257
+    # game/code/screens/game_menus.rpy:260
     old "Skip"
     new ""
 
-    # game/code/screens/game_menus.rpy:258
+    # game/code/screens/game_menus.rpy:261
     old "Unseen Text"
     new ""
 
-    # game/code/screens/game_menus.rpy:259
+    # game/code/screens/game_menus.rpy:262
     old "After Choices"
     new ""
 
-    # game/code/screens/game_menus.rpy:260
+    # game/code/screens/game_menus.rpy:263
     old "Transitions"
     new ""
 
-    # game/code/screens/game_menus.rpy:270
+    # game/code/screens/game_menus.rpy:273
     old "Text Speed"
     new ""
 
-    # game/code/screens/game_menus.rpy:274
+    # game/code/screens/game_menus.rpy:277
     old "Auto-Forward Time"
     new ""
 
-    # game/code/screens/game_menus.rpy:281
+    # game/code/screens/game_menus.rpy:284
     old "Music Volume"
     new ""
 
-    # game/code/screens/game_menus.rpy:288
+    # game/code/screens/game_menus.rpy:291
     old "Sound Volume"
     new ""
 
-    # game/code/screens/game_menus.rpy:294
+    # game/code/screens/game_menus.rpy:297
     old "Test"
     new ""
 
-    # game/code/screens/game_menus.rpy:298
-    old "Voice Volume"
-    new ""
-
-    # game/code/screens/game_menus.rpy:309
+    # game/code/screens/game_menus.rpy:312
     old "Mute All"
     new ""
 
-    # game/code/screens/game_menus.rpy:432
+    # game/code/screens/game_menus.rpy:435
     old "The dialogue history is empty."
     new ""
 
-    # game/code/screens/game_menus.rpy:491
+    # game/code/screens/game_menus.rpy:494
     old "Help"
     new ""
 
-    # game/code/screens/game_menus.rpy:500
+    # game/code/screens/game_menus.rpy:503
     old "Keyboard"
     new ""
 
-    # game/code/screens/game_menus.rpy:501
+    # game/code/screens/game_menus.rpy:504
     old "Mouse"
     new ""
 
-    # game/code/screens/game_menus.rpy:504
+    # game/code/screens/game_menus.rpy:507
     old "Gamepad"
     new ""
 
-    # game/code/screens/game_menus.rpy:517
+    # game/code/screens/game_menus.rpy:520
     old "Enter"
     new ""
 
-    # game/code/screens/game_menus.rpy:518
+    # game/code/screens/game_menus.rpy:521
     old "Advances dialogue and activates the interface."
     new ""
 
-    # game/code/screens/game_menus.rpy:521
+    # game/code/screens/game_menus.rpy:524
     old "Space"
     new ""
 
-    # game/code/screens/game_menus.rpy:522
+    # game/code/screens/game_menus.rpy:525
     old "Advances dialogue without selecting choices."
     new ""
 
-    # game/code/screens/game_menus.rpy:525
+    # game/code/screens/game_menus.rpy:528
     old "Arrow Keys"
     new ""
 
-    # game/code/screens/game_menus.rpy:526
+    # game/code/screens/game_menus.rpy:529
     old "Navigate the interface."
     new ""
 
-    # game/code/screens/game_menus.rpy:529
+    # game/code/screens/game_menus.rpy:532
     old "Escape"
     new ""
 
-    # game/code/screens/game_menus.rpy:530
+    # game/code/screens/game_menus.rpy:533
     old "Accesses the game menu."
     new ""
 
-    # game/code/screens/game_menus.rpy:533
+    # game/code/screens/game_menus.rpy:536
     old "Ctrl"
     new ""
 
-    # game/code/screens/game_menus.rpy:534
+    # game/code/screens/game_menus.rpy:537
     old "Skips dialogue while held down."
     new ""
 
-    # game/code/screens/game_menus.rpy:537
+    # game/code/screens/game_menus.rpy:540
     old "Tab"
     new ""
 
-    # game/code/screens/game_menus.rpy:538
+    # game/code/screens/game_menus.rpy:541
     old "Toggles dialogue skipping."
     new ""
 
-    # game/code/screens/game_menus.rpy:541
+    # game/code/screens/game_menus.rpy:544
     old "Page Up"
     new ""
 
-    # game/code/screens/game_menus.rpy:542
+    # game/code/screens/game_menus.rpy:545
     old "Rolls back to earlier dialogue."
     new ""
 
-    # game/code/screens/game_menus.rpy:545
+    # game/code/screens/game_menus.rpy:548
     old "Page Down"
     new ""
 
-    # game/code/screens/game_menus.rpy:546
+    # game/code/screens/game_menus.rpy:549
     old "Rolls forward to later dialogue."
     new ""
 
-    # game/code/screens/game_menus.rpy:550
+    # game/code/screens/game_menus.rpy:553
     old "Hides the user interface."
     new ""
 
-    # game/code/screens/game_menus.rpy:554
+    # game/code/screens/game_menus.rpy:557
     old "Takes a screenshot."
     new ""
 
-    # game/code/screens/game_menus.rpy:558
+    # game/code/screens/game_menus.rpy:561
     old "Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
     new ""
 
-    # game/code/screens/game_menus.rpy:564
+    # game/code/screens/game_menus.rpy:567
     old "Left Click"
     new ""
 
-    # game/code/screens/game_menus.rpy:568
+    # game/code/screens/game_menus.rpy:571
     old "Middle Click"
     new ""
 
-    # game/code/screens/game_menus.rpy:572
+    # game/code/screens/game_menus.rpy:575
     old "Right Click"
     new ""
 
-    # game/code/screens/game_menus.rpy:576
+    # game/code/screens/game_menus.rpy:579
     old "Mouse Wheel Up\nClick Rollback Side"
     new ""
 
-    # game/code/screens/game_menus.rpy:580
+    # game/code/screens/game_menus.rpy:583
     old "Mouse Wheel Down"
     new ""
 
-    # game/code/screens/game_menus.rpy:587
+    # game/code/screens/game_menus.rpy:590
     old "Right Trigger\nA/Bottom Button"
     new ""
 
-    # game/code/screens/game_menus.rpy:591
+    # game/code/screens/game_menus.rpy:594
     old "Left Trigger\nLeft Shoulder"
     new ""
 
-    # game/code/screens/game_menus.rpy:595
+    # game/code/screens/game_menus.rpy:598
     old "Right Shoulder"
     new ""
 
-    # game/code/screens/game_menus.rpy:600
+    # game/code/screens/game_menus.rpy:603
     old "D-Pad, Sticks"
     new ""
 
-    # game/code/screens/game_menus.rpy:604
+    # game/code/screens/game_menus.rpy:607
     old "Start, Guide"
     new ""
 
-    # game/code/screens/game_menus.rpy:608
+    # game/code/screens/game_menus.rpy:611
     old "Y/Top Button"
     new ""
 
-    # game/code/screens/game_menus.rpy:611
+    # game/code/screens/game_menus.rpy:614
     old "Calibrate"
     new ""
 

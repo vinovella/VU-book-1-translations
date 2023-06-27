@@ -1,46 +1,6 @@
-﻿# TODO: Translation updated at 2023-05-26 11:44
+﻿# TODO: Translation updated at 2023-06-27 18:35
 
 translate portuguese strings:
-
-    # game/code/data/ib_characters.rpy:9
-    old "Leia"
-    new ""
-
-    # game/code/data/ib_characters.rpy:9
-    old "de la Cruz"
-    new ""
-
-    # game/code/data/ib_characters.rpy:9
-    old "Student"
-    new ""
-
-    # game/code/data/ib_characters.rpy:9
-    old "Law"
-    new ""
-
-    # game/code/data/ib_characters.rpy:9
-    old "Klara"
-    new ""
-
-    # game/code/data/ib_characters.rpy:9
-    old "Crawford"
-    new ""
-
-    # game/code/data/ib_characters.rpy:9
-    old "Economy"
-    new ""
-
-    # game/code/data/ib_characters.rpy:9
-    old "Maria Francesca"
-    new ""
-
-    # game/code/data/ib_characters.rpy:9
-    old "Krall"
-    new ""
-
-    # game/code/data/ib_characters.rpy:9
-    old "History"
-    new ""
 
     # game/code/data/ib_characters.rpy:9
     old "Zemfira"
@@ -48,6 +8,10 @@ translate portuguese strings:
 
     # game/code/data/ib_characters.rpy:9
     old "Power"
+    new ""
+
+    # game/code/data/ib_characters.rpy:9
+    old "Student"
     new ""
 
     # game/code/data/ib_characters.rpy:9
@@ -159,7 +123,7 @@ translate portuguese strings:
     new ""
 
     # game/code/data/ib_characters.rpy:9
-    old "Briggita"
+    old "Brigitta"
     new ""
 
     # game/code/data/ib_characters.rpy:9
@@ -318,6 +282,46 @@ translate portuguese strings:
     old "Chancellor & Chemistry Professor"
     new ""
 
+    # game/code/data/ib_characters.rpy:9
+    old "Leia"
+    new ""
+
+    # game/code/data/ib_characters.rpy:9
+    old "de la Cruz"
+    new ""
+
+    # game/code/data/ib_characters.rpy:9
+    old "Law"
+    new ""
+
+    # game/code/data/ib_characters.rpy:9
+    old "Klara"
+    new ""
+
+    # game/code/data/ib_characters.rpy:9
+    old "Crawford"
+    new ""
+
+    # game/code/data/ib_characters.rpy:9
+    old "Economy"
+    new ""
+
+    # game/code/data/ib_characters.rpy:9
+    old "Maria Francesca"
+    new ""
+
+    # game/code/data/ib_characters.rpy:9
+    old "Krall"
+    new ""
+
+    # game/code/data/ib_characters.rpy:9
+    old "History"
+    new ""
+
+    # game/code/data/ib_characters.rpy:48
+    old "Gaia \"Lilith\""
+    new ""
+
     # game/code/data/ib_characters.rpy:48
     old "Asami"
     new ""
@@ -387,14 +391,66 @@ translate portuguese strings:
     new ""
 
     # game/code/data/ib_characters.rpy:48
-    old "Ridley"
+    old "Ezra Del"
     new ""
 
     # game/code/data/ib_characters.rpy:48
-    old "Driver"
+    old "Olmo"
     new ""
 
     # game/code/data/ib_characters.rpy:48
-    old "Bartender"
+    old "Ivy"
+    new ""
+
+    # game/code/data/ib_characters.rpy:48
+    old "Hagen"
+    new ""
+
+    # game/code/data/ib_characters.rpy:48
+    old "Guide/Manager"
+    new ""
+
+    # game/code/data/ib_characters.rpy:48
+    old "Cade"
+    new ""
+
+    # game/code/data/ib_characters.rpy:48
+    old "Rory"
+    new ""
+
+    # game/code/data/ib_characters.rpy:48
+    old "Grayson"
+    new ""
+
+    # game/code/data/ib_characters.rpy:48
+    old "Quentin"
+    new ""
+
+    # game/code/data/ib_characters.rpy:48
+    old "Hazel"
+    new ""
+
+    # game/code/data/ib_characters.rpy:48
+    old "Sabrina"
+    new ""
+
+    # game/code/data/ib_characters.rpy:48
+    old "Parker"
+    new ""
+
+    # game/code/data/ib_characters.rpy:48
+    old "Rival Team Spy"
+    new ""
+
+    # game/code/data/ib_characters.rpy:48
+    old "Winners Club"
+    new ""
+
+    # game/code/data/ib_characters.rpy:48
+    old "The Syndicate"
+    new ""
+
+    # game/code/data/ib_characters.rpy:48
+    old "Cult"
     new ""
 

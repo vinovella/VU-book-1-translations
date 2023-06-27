@@ -627,3 +627,24 @@ translate chinese strings:
     # game/code/Book-1/Chapter-4n/s04.rpy:226
     old "Time passes."
     new "时光流逝"
+
+# TODO: Translation updated at 2023-06-27 18:33
+
+# game/code/Book-1/Chapter-4n/s04.rpy:208
+translate chinese b1c04ns04_b59b12cc:
+
+    # nv "If you can handle Andrejz's over-the-top teaching style, you'll be able to handle anything else in our community."
+    nv "If you can handle Andrejz's over-the-top teaching style, you'll be able to handle anything else in our community."
+
+# game/code/Book-1/Chapter-4n/s04.rpy:220
+translate chinese b1c04ns04_76ab8cb5:
+
+    # nv "Of course. I got you through Chem class, I can get you through a seminar hosted by Andrejz."
+    nv "Of course. I got you through Chem class, I can get you through a seminar hosted by Andrejz."
+
+# game/code/Book-1/Chapter-4n/s04.rpy:262
+translate chinese b1c04ns04_798a02b2:
+
+    # nv "I {i}swear{/i} not everyone is as...eccentric, as Andrejz."
+    nv "I {i}swear{/i} not everyone is as...eccentric, as Andrejz."
+

@@ -1,56 +1,44 @@
-﻿# TODO: Translation updated at 2023-05-26 11:44
+﻿# TODO: Translation updated at 2023-06-27 18:35
 
 translate portuguese strings:
 
-    # game/code/screens/inv_board.rpy:77
-    old "CLOSE"
-    new ""
-
-    # game/code/screens/inv_board.rpy:85
+    # game/code/screens/inv_board.rpy:94
     old "Characters"
     new ""
 
-    # game/code/screens/inv_board.rpy:86
+    # game/code/screens/inv_board.rpy:95
     old "Connections"
     new ""
 
-    # game/code/screens/inv_board.rpy:87
-    old "Descriptions"
-    new ""
-
-    # game/code/screens/inv_board.rpy:89
+    # game/code/screens/inv_board.rpy:98
     old "Groups"
     new ""
 
-    # game/code/screens/inv_board.rpy:93
-    old "Toggle Groups"
-    new ""
-
-    # game/code/screens/inv_board.rpy:95
-    old "Clear all"
-    new ""
-
-    # game/code/screens/inv_board.rpy:155
+    # game/code/screens/inv_board.rpy:165
     old "Name : [i.full_name]"
     new ""
 
-    # game/code/screens/inv_board.rpy:156
+    # game/code/screens/inv_board.rpy:166
     old "Age : [i.age]"
     new ""
 
-    # game/code/screens/inv_board.rpy:157
+    # game/code/screens/inv_board.rpy:167
     old "Occupation : [i.occupation]"
     new ""
 
-    # game/code/screens/inv_board.rpy:159
+    # game/code/screens/inv_board.rpy:169
     old "Major : [i.major]"
     new ""
 
-    # game/code/screens/inv_board.rpy:163
+    # game/code/screens/inv_board.rpy:171
+    old "Group Name : [i.full_name]"
+    new ""
+
+    # game/code/screens/inv_board.rpy:175
     old "-- Description --"
     new ""
 
-    # game/code/screens/inv_board.rpy:181
+    # game/code/screens/inv_board.rpy:193
     old "[i.desc]"
     new ""
 

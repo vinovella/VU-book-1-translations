@@ -54,3 +54,11 @@ translate chinese strings:
     old "[i.desc]"
     new "[i.desc]"
 
+# TODO: Translation updated at 2023-06-27 18:33
+
+translate chinese strings:
+
+    # game/code/screens/inv_board.rpy:171
+    old "Group Name : [i.full_name]"
+    new "Group Name : [i.full_name]"
+

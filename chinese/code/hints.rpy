@@ -242,3 +242,183 @@ translate chinese strings:
     old "No hints available."
     new "No hints available."
 
+# TODO: Translation updated at 2023-06-27 18:33
+
+translate chinese strings:
+
+    # game/code/hints.rpy:5
+    old "+1 point with Zemfira. She likes your humor."
+    new "+1 point with Zemfira. She likes your humor."
+
+    # game/code/hints.rpy:5
+    old "0 points with Zemfira. She doesn't like feeling pitied, even if that wasn't your intention."
+    new "0 points with Zemfira. She doesn't like feeling pitied, even if that wasn't your intention."
+
+    # game/code/hints.rpy:5
+    old "Sex with Corinne."
+    new "Sex with Corinne."
+
+    # game/code/hints.rpy:5
+    old "Skip sex scene with Corinne."
+    new "Skip sex scene with Corinne."
+
+    # game/code/hints.rpy:5
+    old "-1pt with Nia. She doesn't like your aggressive attitude. +1pt with Delphia. She thinks your aggression is charming."
+    new "-1pt with Nia. She doesn't like your aggressive attitude. +1pt with Delphia. She thinks your aggression is charming."
+
+    # game/code/hints.rpy:5
+    old "+1pt with Nia. She likes that you're taking an interest and actively learning."
+    new "+1pt with Nia. She likes that you're taking an interest and actively learning."
+
+    # game/code/hints.rpy:5
+    old "+1pts with Ivy. She's impressed with your boldness."
+    new "+1pts with Ivy. She's impressed with your boldness."
+
+    # game/code/hints.rpy:5
+    old "0pts with Ivy."
+    new "0pts with Ivy."
+
+    # game/code/hints.rpy:5
+    old "You leave without fucking Sally."
+    new "You leave without fucking Sally."
+
+    # game/code/hints.rpy:5
+    old "You reward Sally by fucking her."
+    new "You reward Sally by fucking her."
+
+    # game/code/hints.rpy:5
+    old "Nia is flustered by your words. She feels truly seen and understood. +1pts with Nia."
+    new "Nia is flustered by your words. She feels truly seen and understood. +1pts with Nia."
+
+    # game/code/hints.rpy:5
+    old "Nia thinks you're joking and tries to refocus you on the topic at hand. 0pts with Nia."
+    new "Nia thinks you're joking and tries to refocus you on the topic at hand. 0pts with Nia."
+
+    # game/code/hints.rpy:5
+    old "Nia feels a little embarrassed because she doesn't view herself this way at all. 0pts with Nia."
+    new "Nia feels a little embarrassed because she doesn't view herself this way at all. 0pts with Nia."
+
+    # game/code/hints.rpy:5
+    old "You join the group hug."
+    new "You join the group hug."
+
+    # game/code/hints.rpy:5
+    old "You don't join the group hug. It's too much for you."
+    new "You don't join the group hug. It's too much for you."
+
+    # game/code/hints.rpy:5
+    old "Skip sex scene."
+    new "Skip sex scene."
+
+    # game/code/hints.rpy:5
+    old "Sex scene with Delphia."
+    new "Sex scene with Delphia."
+
+    # game/code/hints.rpy:5
+    old "+1pt with Nia. You see her for her."
+    new "+1pt with Nia. You see her for her."
+
+    # game/code/hints.rpy:5
+    old "0pts with Nia. It's a nice compliment, but anyone could say it."
+    new "0pts with Nia. It's a nice compliment, but anyone could say it."
+
+    # game/code/hints.rpy:5
+    old "+1 point with Lumi. She appreciates your encouragement."
+    new "+1 point with Lumi. She appreciates your encouragement."
+
+    # game/code/hints.rpy:5
+    old "0 points with Lumi. She's still uncertain."
+    new "0 points with Lumi. She's still uncertain."
+
+    # game/code/hints.rpy:5
+    old "You come up with an excuse to tell Irene."
+    new "You come up with an excuse to tell Irene."
+
+    # game/code/hints.rpy:5
+    old "You seduce Irene."
+    new "You seduce Irene."
+
+    # game/code/hints.rpy:5
+    old "Sex scene with Irene."
+    new "Sex scene with Irene."
+
+    # game/code/hints.rpy:5
+    old "Don't fuck Irene."
+    new "Don't fuck Irene."
+
+    # game/code/hints.rpy:5
+    old "Cum in Ezra's mouth."
+    new "Cum in Ezra's mouth."
+
+    # game/code/hints.rpy:5
+    old "Cum on Ezra's face."
+    new "Cum on Ezra's face."
+
+    # game/code/hints.rpy:5
+    old "Sam likes you entertaining her. You get +1 points with Sam."
+    new "Sam likes you entertaining her. You get +1 points with Sam."
+
+    # game/code/hints.rpy:5
+    old "Sam gets grossed out by your joke. You get -1 points with Sam."
+    new "Sam gets grossed out by your joke. You get -1 points with Sam."
+
+    # game/code/hints.rpy:5
+    old "Sam thinks you're a buzzkill. You get 0 points with Sam."
+    new "Sam thinks you're a buzzkill. You get 0 points with Sam."
+
+    # game/code/hints.rpy:5
+    old "Isa thinks it's cute that you care so much about the Winner's. You get +1 points with Isa."
+    new "Isa thinks it's cute that you care so much about the Winner's. You get +1 points with Isa."
+
+    # game/code/hints.rpy:5
+    old "You brush it off. You get 0 points with Isa."
+    new "You brush it off. You get 0 points with Isa."
+
+    # game/code/hints.rpy:5
+    old "Iona thinks it's cute that you tried to stop her. You get +1 points with Iona."
+    new "Iona thinks it's cute that you tried to stop her. You get +1 points with Iona."
+
+    # game/code/hints.rpy:5
+    old "Iona continues to serve. You get 0 points with Iona."
+    new "Iona continues to serve. You get 0 points with Iona."
+
+    # game/code/hints.rpy:5
+    old "You go with Iona and have a fun time with her before coming back to the party. You can potentially earn a point with her on this path."
+    new "You go with Iona and have a fun time with her before coming back to the party. You can potentially earn a point with her on this path."
+
+    # game/code/hints.rpy:5
+    old "You stay at the party."
+    new "You stay at the party."
+
+    # game/code/hints.rpy:5
+    old "Iona is {i}very{/i} receptive to you using her toys on her."
+    new "Iona is {i}very{/i} receptive to you using her toys on her."
+
+    # game/code/hints.rpy:5
+    old "You just have sex with Iona."
+    new "You just have sex with Iona."
+
+    # game/code/hints.rpy:5
+    old "Monika appreciates you not embarrassing her. You get +1 points with Monika."
+    new "Monika appreciates you not embarrassing her. You get +1 points with Monika."
+
+    # game/code/hints.rpy:5
+    old "Monika thinks you're a show-off. You get 0 points with Monika."
+    new "Monika thinks you're a show-off. You get 0 points with Monika."
+
+    # game/code/hints.rpy:5
+    old "Silvia appreciates you reassuring her. You get +1 points with Silvia."
+    new "Silvia appreciates you reassuring her. You get +1 points with Silvia."
+
+    # game/code/hints.rpy:5
+    old "Silvia doesn't really care to be a coach. You get 0 points with Silvia."
+    new "Silvia doesn't really care to be a coach. You get 0 points with Silvia."
+
+    # game/code/hints.rpy:5
+    old "You kiss her back and she gives you an awkward blowjob."
+    new "You kiss her back and she gives you an awkward blowjob."
+
+    # game/code/hints.rpy:5
+    old "You calm her down."
+    new "You calm her down."
+
