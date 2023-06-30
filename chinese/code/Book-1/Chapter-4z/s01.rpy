@@ -274,7 +274,7 @@ translate chinese b01c04zs01m01_ee18f9b3:
 translate chinese b01c04zs01m01_70544d2a:
 
     # mc "She shoots firearms?"
-    mc "她会开枪？"
+    mc "她会射击？"
 
 # game/code/Book-1/Chapter-4z/s01.rpy:162
 translate chinese b01c04zs01m01_c960e37d:
