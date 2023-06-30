@@ -76,7 +76,7 @@ translate chinese b1c03s05_d6fe4e2e:
 translate chinese b1c03s05_5f42fc7c:
 
     # jh "I just want everyone to get along. Whether you like it or not, he's here."
-    jh "我只是希望大家都能和睦相处。不管你喜不喜欢,他都在这里。"
+    jh "我只是希望大家都能和睦相处。不管你喜不喜欢，他都在这里。"
 
 # game/code/Book-1/Chapter-3/s05.rpy:73
 translate chinese b1c03s05_e4f15676:
@@ -106,13 +106,13 @@ translate chinese b1c03s05_4ac9f887:
 translate chinese b1c03s05_2c57e49f:
 
     # lw "I'm sure he just loves that we have to revamp our lives around him like he's the second coming of Christ."
-    lw "我敢肯定他很享受我们的生活都围着他转，就像他是基督的第二次降临一样。"
+    lw "我敢肯定他很享受我们的生活都围着他转，就像他是基督第二次降临人间一样。"
 
 # game/code/Book-1/Chapter-3/s05.rpy:91
 translate chinese b1c03s05_2502ab92:
 
     # mc "Sure. Something like that."
-    mc "当然。差不多吧。"
+    mc "可不是。差不多吧。"
 
 # game/code/Book-1/Chapter-3/s05.rpy:94
 translate chinese b1c03s05_f8b7c710:
@@ -124,7 +124,7 @@ translate chinese b1c03s05_f8b7c710:
 translate chinese b1c03s05_59e85006:
 
     # mct "Wow, we're really pushing Josie's buttons. I should cool it, even if Lara doesn't. This is upsetting her."
-    mct "哇，我们真的激怒了乔西。我应该冷静下来，即使劳拉还在气头上。这让她心烦意乱。"
+    mct "哇，我们真的激怒了乔西。即使劳拉还在气头上，我也应该冷静下来。这让乔西很是不高兴。"
 
 # game/code/Book-1/Chapter-3/s05.rpy:98
 translate chinese b1c03s05_695b2c74:
@@ -172,7 +172,7 @@ translate chinese b1c03s05_fcf860aa:
 translate chinese b1c03s05_6d20d305:
 
     # mct "Well that backfired entirely."
-    mct "啊哦，完全适得其反。"
+    mct "啊哦，完全帮了倒忙。"
 
 # game/code/Book-1/Chapter-3/s05.rpy:129
 translate chinese b1c03s05_2d09f85c:
@@ -196,13 +196,13 @@ translate chinese b1c03s05_2b5e23c5:
 translate chinese b1c03s05_6cded40f:
 
     # jh "Maybe if you could be trusted to {i}say{/i} it was okay."
-    jh "如果你可以被信任{i}说{/i}好，那就好了。"
+    jh "如果你可以被信任{i}说{/i}没事，那就好了。"
 
 # game/code/Book-1/Chapter-3/s05.rpy:141
 translate chinese b1c03s05_5cc352a5:
 
     # lw "Oh, so we're just going with whatever's okay for [mcname], now?"
-    lw "O哦，所以现在对于[mcname]，我们都要顺着他的意了？"
+    lw "哦，所以现在对于[mcname]，我们都要顺着他的意了？"
 
 # game/code/Book-1/Chapter-3/s05.rpy:144
 translate chinese b1c03s05_a727415a:
@@ -268,7 +268,7 @@ translate chinese b1c03s05_568927c4:
 translate chinese b1c03s05_ab645cf5:
 
     # mc "Wait, Josie haven't you done rock climbing before?"
-    mc "等等，乔西，你以前没玩过攀岩吗？"
+    mc "等等，乔西，你以前不是玩过攀岩吗？"
 
 # game/code/Book-1/Chapter-3/s05.rpy:178
 translate chinese b1c03s05_c517fbd6:
@@ -538,7 +538,7 @@ translate chinese b1c03s05_a25ceb4f:
 translate chinese b1c03s05_e5eb42e7:
 
     # jh "We both started college a year late, so we bonded over that."
-    jh "我们都晚了一年开始上大学，所以我们在这一点上有共鸣。"
+    jh "我们都晚了一年开始上大学，所以我俩在这一点上有共鸣。"
 
 # game/code/Book-1/Chapter-3/s05.rpy:321
 translate chinese b1c03s05_da9193b6:
@@ -550,7 +550,7 @@ translate chinese b1c03s05_da9193b6:
 translate chinese b1c03s05_ce14dfdf:
 
     # lw "I mean, I had to force {i}someone{/i} to be my seeing-eye dog."
-    lw "我的意思是，我不得不强迫{i}某人{/i}做我的导盲犬。"
+    lw "在我看来，我不得不强迫{i}某人{/i}做我的导盲犬。"
 
 # game/code/Book-1/Chapter-3/s05.rpy:327
 translate chinese b1c03s05_a1cf4fd8:
