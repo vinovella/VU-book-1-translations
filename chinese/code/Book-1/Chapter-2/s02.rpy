@@ -4,13 +4,13 @@
 translate chinese b1c02s02_85b670d8:
 
     # mo "Why am I here?"
-    mo "我来这儿干嘛？"
+    mo "叫我来干嘛？"
 
 # game/code/Book-1/Chapter-2/s02.rpy:29
 translate chinese b1c02s02_4fd5b6c4:
 
     # mo "Is there something wrong?"
-    mo "有什么问题吗？"
+    mo "出什么事了吗？"
 
 # game/code/Book-1/Chapter-2/s02.rpy:31
 translate chinese b1c02s02_871af13a:
@@ -34,7 +34,7 @@ translate chinese b1c02s02_a31ca70f:
 translate chinese b1c02s02_1acccfba:
 
     # cp "We're sending you in to investigate the girls' connections, and see what you find."
-    cp "我们派你去调查这两个女孩的关系，看看你有什么发现。"
+    cp "我们派你去调查这两个女孩的关系，看看会有什么发现。"
 
 # game/code/Book-1/Chapter-2/s02.rpy:46
 translate chinese b1c02s02_86eaf334:
@@ -88,7 +88,7 @@ translate chinese b1c02s02_524eec0a:
 translate chinese b1c02s02_45c57abd:
 
     # cp "The chancellor knows that there's an undercover cop around, but they won't know who you are."
-    cp "校长知道附近有个卧底警察，但是他们不知道你是谁。"
+    cp "校长知道学校有个卧底警察，但是他们不知道你是谁。"
 
 # game/code/Book-1/Chapter-2/s02.rpy:80
 translate chinese b1c02s02_d2cfb4c4:
