@@ -16,7 +16,7 @@ translate chinese b1c01s01_a1c8d635:
 translate chinese b1c01s01_2897b762:
 
     # mo "Mom!"
-    mo "妈！"
+    mo "妈妈！"
 
 # game/code/Book-1/Chapter-1/s01.rpy:22
 translate chinese b1c01s01_27765c72:
@@ -46,7 +46,7 @@ translate chinese b1c01s01_2956eb49:
 translate chinese name_done_5baf6bb1:
 
     # mct "I cannot use my real name here.{w} I have to use something else."
-    mct "我在这里不能使用真实姓名。{w}必须起一个昵称。"
+    mct "我在这里不能使用真实姓名。{w}必须起个昵称。"
 
 # game/code/Book-1/Chapter-1/s01.rpy:102
 translate chinese name_done_b8069ab2:
