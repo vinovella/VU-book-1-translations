@@ -28,7 +28,7 @@ translate chinese b1c04zs04_722738a0:
 translate chinese b1c04zs04_afdffd0d:
 
     # mc "Yes, please."
-    mc "对，谢谢。"
+    mc "对，麻烦啦。"
 
 # game/code/Book-1/Chapter-4z/s04.rpy:29
 translate chinese b1c04zs04_0becc2b1:
@@ -76,7 +76,7 @@ translate chinese b1c04zs04_4ec24598:
 translate chinese b1c04zs04_d35f09b4:
 
     # mct "I miss those days. When things were simpler."
-    mct "我怀念那些日子。一切都那么简单。"
+    mct "好怀念那些日子。一切都那么简单。"
 
 # game/code/Book-1/Chapter-4z/s04.rpy:55
 translate chinese b1c04zs04_93658b44:
@@ -148,7 +148,7 @@ translate chinese b1c04zs04_7a5b9dd2:
 translate chinese b1c04zs04_93bcfd3f:
 
     # mo "Teach me your ways, O wise mentor."
-    mo "智慧的良师阿，求你将你的道教给我。"
+    mo "智慧的良师阿，求你将正确的知识教给我。"
 
 # game/code/Book-1/Chapter-4z/s04.rpy:82
 translate chinese b1c04zs04_e6fa805e:
@@ -190,7 +190,7 @@ translate chinese b1c04zs04_f2e66dba:
 translate chinese b1c04zs04_fe917044:
 
     # pm "If you hit your mark, you'll get a little reward. Maybe a little more than just a kiss, if you're lucky."
-    pm "如果你击中目标，会得到一奖励。如果幸运的话，也许不仅仅是一个吻。"
+    pm "如果你击中目标，会得到一个小奖励。如果幸运的话，也许不仅仅是一个吻。"
 
 # game/code/Book-1/Chapter-4z/s04.rpy:101
 translate chinese b1c04zs04_665ddec7:
@@ -448,7 +448,7 @@ translate chinese b1c04zs04_40f0533f:
 translate chinese b1c04zs04_870bb158:
 
     # pm "Haha, Matthew! Put me down before I wrestle your ass to the ground."
-    pm "哈哈，马修！快把我放下，不然我把你摔到地上"
+    pm "哈哈，马修！快把我放下，不然我把你摔到地上。"
 
 # game/code/Book-1/Chapter-4z/s04.rpy:229
 translate chinese b1c04zs04_0c5bdd81:
