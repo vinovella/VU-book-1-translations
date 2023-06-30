@@ -10,7 +10,7 @@ translate chinese b1c04ns01_ae292923:
 translate chinese b1c04ns01_9cc35470:
 
     # mct "I got her full name from Irene, so I'm sure I can find something."
-    mct "我从艾琳那里知道了她的全名，所以我肯定能找到一些东西。"
+    mct "我从艾琳那里知道了她的全名，所以我多少肯定能找到线索。"
                         
 # game/code/Book-1/Chapter-4n/s01.rpy:19
 translate chinese b1c04ns01_f4fea6ed:                                                                                
@@ -64,7 +64,7 @@ translate chinese b1c04ns01_cae31181:
 translate chinese b1c04ns01_4aae1f54:
 
     # mct "There are no blushing maidens here, I guess."
-    mct "我想这里没有脸红的姑娘吧。"
+    mct "看来她并没有因此觉得不好见人。"
 
 # game/code/Book-1/Chapter-4n/s01.rpy:90
 translate chinese b1c04ns01_3264a4de:
@@ -148,7 +148,7 @@ translate chinese b1c04ns01_54e6f545:
 translate chinese b1c04ns01_70d7baa2:
 
     # dk "Had to try. Alright, then. I need pig's blood."
-    dk "我不得不试试。好吧。我需要猪血。"
+    dk "我必须试试看。好吧。我需要猪血。"
 
 # game/code/Book-1/Chapter-4n/s01.rpy:144
 translate chinese b1c04ns01_0912e43e:
@@ -298,7 +298,7 @@ translate chinese b1c04ns01_7a85964e:
 translate chinese b1c04ns01_18dc657b:
 
     # dk "That's a load of bullshit, but I'm sure she'd like a distraction from life right now."
-    dk "纯属屁话，但我肯定她现在想从生活中转移一下注意力。"
+    dk "纯属屁话，但我确信她现在想从生活中转移一下注意力。"
 
 # game/code/Book-1/Chapter-4n/s01.rpy:216
 translate chinese b1c04ns01_7fc7023c:
@@ -358,5 +358,5 @@ translate chinese b1c04ns01_a3b1a71e:
 translate chinese b1c04ns01_dd177510:
 
     # dk "Fuck... I'm so close."
-    dk "操...我就快成功了。"
+    dk "操...我就快高潮了。"
 
