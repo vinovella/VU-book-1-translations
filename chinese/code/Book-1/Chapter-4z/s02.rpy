@@ -16,13 +16,13 @@ translate chinese b1c04zs02_18c6e121:
 translate chinese b1c04zs02_904fdbe7:
 
     # ffl "Cool! You're so lucky. My dad was more interested in...his profession, more than me."
-    ffl "酷！你真幸运。我爸爸更感兴趣的是...他的职业，胜过关注我。"
+    ffl "酷！你真幸运。我爸爸更感兴趣的是...他的职业，胜过于关注我。"
 
 # game/code/Book-1/Chapter-4z/s02.rpy:18
 translate chinese b1c04zs02_03208b43:
 
     # mc "Sounds rough."
-    mc "听上去是一段曲折经历啊。"
+    mc "听上去不好过啊。"
 
 # game/code/Book-1/Chapter-4z/s02.rpy:21
 translate chinese b1c04zs02_ff21c523:
@@ -76,7 +76,7 @@ translate chinese b1c04zs02_a3d96989:
 translate chinese b1c04zs02_9299ee3b:
 
     # ffl "So! How did your online match go last night, Zemfira?"
-    ffl "所以！泽菲拉，你昨晚的网球赛怎么样？"
+    ffl "对了！泽菲拉，你昨晚的网球赛怎么样？"
 
 # game/code/Book-1/Chapter-4z/s02.rpy:68
 translate chinese b1c04zs02_634f0524:
@@ -88,7 +88,7 @@ translate chinese b1c04zs02_634f0524:
 translate chinese b1c04zs02_88473c86:
 
     # ffl "You wanna talk about it?"
-    ffl "你想谈谈吗？"
+    ffl "不想谈谈吗？"
 
 # game/code/Book-1/Chapter-4z/s02.rpy:74
 translate chinese b1c04zs02_514c4f6a:
@@ -106,7 +106,7 @@ translate chinese b1c04zs02_bde615ca:
 translate chinese b1c04zs02_16dc2702:
 
     # zp "I play first person shooters. Mostly {i}Call of Mutiny{/i}."
-    zp "我玩第一人称射击游戏。主要是{i}叛变的召唤{/i} "
+    zp "第一人称射击游戏。主要是{i}叛变的召唤{/i} "
 
 # game/code/Book-1/Chapter-4z/s02.rpy:85
 translate chinese b1c04zs02_55fc64e4:
@@ -118,7 +118,7 @@ translate chinese b1c04zs02_55fc64e4:
 translate chinese b1c04zs02_003d4ee1:
 
     # zp "I am. I'm the best."
-    zp "是啊。我是最棒的。"
+    zp "是啊。我等级最高了。"
 
 # game/code/Book-1/Chapter-4z/s02.rpy:91
 translate chinese b1c04zs02_7a183012:
@@ -154,13 +154,13 @@ translate chinese b1c04zs02_00fdb632:
 translate chinese b1c04zs02_f395c6c8:
 
     # mc "Interesting. Which came first, the guns or the videogames?"
-    mc "有趣。哪个更重要，射击，还是电子游戏？"
+    mc "有意思。哪个对你更重要呢，射击，还是电子游戏？"
 
 # game/code/Book-1/Chapter-4z/s02.rpy:108
 translate chinese b1c04zs02_6a2ff904:
 
     # zp "The games. Then guns."
-    zp "游戏。然后是射击。"
+    zp "游戏。其次是射击。"
 
 # game/code/Book-1/Chapter-4z/s02.rpy:111
 translate chinese b1c04zs02_0662aff4:
@@ -196,19 +196,19 @@ translate chinese b1c04zs02_93d94b43:
 translate chinese b1c04zs02_a215af25:
 
     # mc "I bet. I've heard it gets complicated."
-    mc "我有同感。我听说事情会变得很复杂。"
+    mc "我有同感。听说现实里事情会变得很复杂。"
 
 # game/code/Book-1/Chapter-4z/s02.rpy:127
 translate chinese b1c04zs02_09c40f0b:
 
     # zp "It does. It's taken me years to get to the skill level that I'm at now. I've almost hit my next goal. I should have an improved reload and aim time in a month—if I keep practicing."
-    zp "是的。我花了很多年才达到现在的技术水平。我下一个目标就要实现了。如果我坚持练习，就应该在一个月内提高装填和瞄准时间。"
+    zp "是的。我花了很多年才达到现在的技术水平。我下一个目标就要实现了。如果坚持练习，我应该在一个月内就能提高装填和瞄准时间。"
 
 # game/code/Book-1/Chapter-4z/s02.rpy:130
 translate chinese b1c04zs02_677a9969:
 
     # gn "Fuck yeah, Zemfira. You'll probably get there sooner than a month."
-    gn "操啊，泽菲拉。你可能不到一个月就能实现。"
+    gn "行啊，泽菲拉。你可能不到一个月就能实现。"
 
 # game/code/Book-1/Chapter-4z/s02.rpy:133
 translate chinese b1c04zs02_ff5bbdb5:
@@ -220,7 +220,7 @@ translate chinese b1c04zs02_ff5bbdb5:
 translate chinese b1c04zs02_08768870:
 
     # ffl "I stand corrected."
-    ffl "我承认错误。"
+    ffl "我刚才确实有失偏颇。"
 
 # game/code/Book-1/Chapter-4z/s02.rpy:140
 translate chinese b1c04zs02_dad7a38d:
@@ -232,7 +232,7 @@ translate chinese b1c04zs02_dad7a38d:
 translate chinese b1c04zs02_60400419:
 
     # gn "Hah! That explains a lot. Zemfira's a woman."
-    gn "哈！这就说得通了。泽菲拉是个女人。"
+    gn "哈！这就说得通了。泽菲拉可不是男人。"
 
 # game/code/Book-1/Chapter-4z/s02.rpy:153
 translate chinese b1c04zs02_35194c9f:
@@ -244,7 +244,7 @@ translate chinese b1c04zs02_35194c9f:
 translate chinese b1c04zs02_57273615:
 
     # ffl "It's going great! And yeah. He's still a gigantic dick."
-    ffl "进展得很好！那教授确实还是个大混蛋。"
+    ffl "上课倒是很好！那教授确实还是个大混蛋。"
 
 # game/code/Book-1/Chapter-4z/s02.rpy:159
 translate chinese b1c04zs02_16b92fd9:
