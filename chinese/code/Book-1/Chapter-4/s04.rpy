@@ -10,7 +10,7 @@ translate chinese b1c04s04_37fb2337:
 translate chinese b1c04s04_b64a69ec:
 
     # mct "With all these groups, no wonder the investigation failed the first time. They're covert and shrewd. The members protect the soft underbellies of these communities."
-    mct "有这么多团体，难怪第一次调查就失败了。他们很隐蔽，很精明。这些成员保护着自己社区的软肋。"
+    mct "涉及到这么多团体，难怪第一次调查就失败了。他们很隐蔽，很精明。这些成员保护着自己社区的软肋。"
 
 # game/code/Book-1/Chapter-4/s04.rpy:31
 translate chinese b1c04s04_56777004:
@@ -34,7 +34,7 @@ translate chinese b1c04s04_4ec79fe0:
 translate chinese b1c04s04_fed2362a:
 
     # mct "Maybe they're missing because of completely different reasons."
-    mct "试图找到其中的联系。也许她们失踪的原因完全不同。"
+    mct "他们试图找到其中的联系。也许这些女孩失踪的原因完全不同。"
 
 # game/code/Book-1/Chapter-4/s04.rpy:40
 translate chinese b1c04s04_0da6bfcf:
