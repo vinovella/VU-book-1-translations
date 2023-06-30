@@ -70,7 +70,7 @@ translate chinese b1c04zs05_be8a71c3:
 translate chinese b1c04zs05_c15a3042:
 
     # mct "Even if Zemfira doesn't show up today, it'd be good to keep my skills sharp."
-    mct "即使泽菲拉今天不出现，让我的技能保持领先也是好的。。"
+    mct "即使泽菲拉今天不出现，磨练一下我的技能也是好的。"
 
 # game/code/Book-1/Chapter-4z/s05.rpy:52
 translate chinese b1c04zs05_ce4bb6b9:
@@ -112,7 +112,7 @@ translate chinese b1c04zs05_cc5c4256:
 translate chinese b1c04zs05_9612f105:
 
     # mct "Wide stance, tensed core."
-    mct "站开，核心紧绷。"
+    mct "双腿站开，核心紧绷。"
 
 # game/code/Book-1/Chapter-4z/s05.rpy:83
 translate chinese b1c04zs05_e622d8ea:
@@ -148,7 +148,7 @@ translate chinese b1c04zs05_0ddf7037:
 translate chinese b1c04zs05_ca038d37:
 
     # mc "Hah! No. It was pure luck."
-    mc "哈！不是专业的。这纯粹是运气。"
+    mc "哈！不是专业的。我这纯粹是运气。"
 
 # game/code/Book-1/Chapter-4z/s05.rpy:113
 translate chinese b1c04zs05_72d64f65:
@@ -406,7 +406,7 @@ translate chinese b1c04zs05_3a7e26ac:
 translate chinese b1c04zs05_86fb524c:
 
     # mc "I could use some more of your pointers."
-    mc "我还需要你的指。"
+    mc "我还需要你的指导。"
 
 # game/code/Book-1/Chapter-4z/s05.rpy:230
 translate chinese b1c04zs05_1e2e4e68:
@@ -430,7 +430,7 @@ translate chinese b1c04zs05_2f0b2a6c:
 translate chinese b1c04zs05_91e31ef4:
 
     # zp "Oh, don't be a baby. I know you can do it."
-    zp "别像个孩子一样。我知道你能做到。"
+    zp "别像个孩子一样叽叽歪歪的。我知道你能做到。"
 
 # game/code/Book-1/Chapter-4z/s05.rpy:242
 translate chinese b1c04zs05_167814cd:
