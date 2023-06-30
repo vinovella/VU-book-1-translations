@@ -394,7 +394,7 @@ translate chinese b01c04zs03m01_b7478935:
 translate chinese b01c04zs03m01_b973dea9:
 
     # mct "Strange that she'd be handling these kinds of favors."
-    mct "真奇怪，她居然会帮这种忙。"
+    mct "真奇怪，她居然会欠下这种人情。"
 
 # game/code/Book-1/Chapter-4z/s03.rpy:258
 translate chinese b01c04zs03m01_d622ca48:
@@ -424,7 +424,7 @@ translate chinese b01c04zs03m01_d2344c30:
 translate chinese b01c04zs03m01_3936830f:
 
     # mct "Considering that Nirmala just came up to her and asked for the favor, they seem to be fine with doing whatever they're doing out in the open."
-    mct "考虑到尼玛拉刚刚走到她面前请求帮忙，他们似乎可以在外面公开做任何事。"
+    mct "考虑到尼玛拉刚刚走到她面前要求还人情，她们似乎完全不介意在外面公开这种交易。"
 
 # game/code/Book-1/Chapter-4z/s03.rpy:268
 translate chinese b01c04zs03m01_749392a5:
@@ -436,19 +436,19 @@ translate chinese b01c04zs03m01_749392a5:
 translate chinese b01c04zs03m01_59ad9e07:
 
     # mc "I'm not sure. What's the favor?"
-    mc "我不确定。什么忙？"
+    mc "我不确定。什么人情？"
 
 # game/code/Book-1/Chapter-4z/s03.rpy:278
 translate chinese b01c04zs03m01_0b26c9db:
 
     # nr "It's...you don't know what you want?"
-    nr "是...你不知道你想干嘛吗？"
+    nr "就是...你不知道你来干嘛吗？"
 
 # game/code/Book-1/Chapter-4z/s03.rpy:281
 translate chinese b01c04zs03m01_7be80b46:
 
     # mc "I guess not."
-    mc "我想是的。"
+    mc "恐怕是的。"
 
 # game/code/Book-1/Chapter-4z/s03.rpy:284
 translate chinese b01c04zs03m01_ac65f60c:
@@ -524,5 +524,5 @@ translate chinese strings:
 
     # game/code/Book-1/Chapter-4z/s03.rpy:83
     old "I'm not sure. What is the favor?"
-    new "我不确定。什么忙？"
+    new "我不确定。什么人情？"
 
