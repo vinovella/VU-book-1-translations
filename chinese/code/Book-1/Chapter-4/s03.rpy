@@ -106,7 +106,7 @@ translate chinese b1c04m3_3ae90c90:
 translate chinese b1c04m3_1fdf1583:
 
     # mc "How did you guys start rock climbing, anyway? If I didn't know Lara was capable of spitefully defying God, I wouldn't believe it."
-    mc "你们是怎么开始攀岩的？如果我不知道劳拉有可以违抗上帝的能力，我是不会相信的。"
+    mc "你们是怎么开始攀岩的？除非你告诉我劳拉有通天的本领，不然我是不会相信的。"
 
 # game/code/Book-1/Chapter-4/s03.rpy:77
 translate chinese b1c04m3_e8a16714:
