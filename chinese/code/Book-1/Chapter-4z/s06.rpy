@@ -4,7 +4,7 @@
 translate chinese b1c04zs06_2cb79faf:
 
     # zp "To your improved aim. Cheers."
-    zp "为了你的改进，干杯。"
+    zp "为了你的进步，干杯。"
 
 # game/code/Book-1/Chapter-4z/s06.rpy:21
 translate chinese b1c04zs06_0ef0bd7e:
@@ -82,19 +82,19 @@ translate chinese b1c04zs06_c87c8fc8:
 translate chinese b1c04zs06_af2e85c7:
 
     # mct "I'll need to finesse my way into getting more information from her."
-    mct "我需要想办法从...她那里得到更多的信息。"
+    mct "我需要想办法从她那里得到更多的信息。"
 
 # game/code/Book-1/Chapter-4z/s06.rpy:63
 translate chinese b1c04zs06_9a7f9828:
 
     # zp "Fuck yeah, that's what I'm talking about."
-    zp "他妈的，我说的就是这个。"
+    zp "可不是，我说的就是这个。"
 
 # game/code/Book-1/Chapter-4z/s06.rpy:66
 translate chinese b1c04zs06_ea259f4c:
 
     # mct "I'll start simple. Ask her about something that isn't too prying."
-    mct "从简单的开始。问她一些不会起疑的事。"
+    mct "从简单的开始。问一些她不会起疑的事。"
 
 # game/code/Book-1/Chapter-4z/s06.rpy:67
 translate chinese b1c04zs06_7ff331de:
@@ -136,13 +136,13 @@ translate chinese b1c04zs06_76310e9c:
 translate chinese b1c04zs06_a3a4ef8c:
 
     # zp "If you say so."
-    zp "既然你这么。"
+    zp "既然你这么说。"
 
 # game/code/Book-1/Chapter-4z/s06.rpy:88
 translate chinese b1c04zs06_66334b10:
 
     # mc "Well, I do say so. If {i}you{/i} can teach yourself, anyone can do it."
-    mc "嗯，我确实这么。如果{i}你{/i}能自学，任何人都能做到。"
+    mc "嗯，我确实这么认为。如果{i}你{/i}能自学，任何人都能做到。"
 
 # game/code/Book-1/Chapter-4z/s06.rpy:91
 translate chinese b1c04zs06_6b139cec:
@@ -322,7 +322,7 @@ translate chinese b1c04zs06_1acfc17d:
 translate chinese b1c04zs06_da3b0bfc:
 
     # zp "It's another interest of mine. I participate in... Well, it's like another game, but with real people."
-    zp "这是我的另一个兴趣。我参加了...呃，可以是另一款游戏，但主角是真人。"
+    zp "这是我的另一个兴趣。我参加了...呃，可以说是另一款游戏，但主角是真人。"
 
 # game/code/Book-1/Chapter-4z/s06.rpy:164
 translate chinese b1c04zs06_3f832879:
@@ -352,7 +352,7 @@ translate chinese b1c04zs06_3ae1c971:
 translate chinese b1c04zs06_793b3fbb:
 
     # zp "She'd been doing it for a while. When I expressed interest in it, she taught me how to play by the rules."
-    zp "她已经做了一段时间。当我表现出兴趣时，她教我如何按规则玩。"
+    zp "她自己已经玩了一段时间。当我表现出兴趣时，她就教我如何按规则玩。"
 
 # game/code/Book-1/Chapter-4z/s06.rpy:177
 translate chinese b1c04zs06_b8a62d8d:
@@ -364,7 +364,7 @@ translate chinese b1c04zs06_b8a62d8d:
 translate chinese b1c04zs06_8bf65848:
 
     # zp "I'll manage them until she gets back."
-    zp "在她回来之前都由我来负责。"
+    zp "在她回来之前，都会由我来负责。"
 
 # game/code/Book-1/Chapter-4z/s06.rpy:180
 translate chinese b1c04zs06_a4455eb9:
@@ -490,7 +490,7 @@ translate chinese b1c04zs06_61927f35:
 translate chinese b1c04zs06_3fe85f0a:
 
     # mct "I'll let it drop, for now. I don't want to push her."
-    mct "我暂时不提了。我不想逼她。"
+    mct "我暂时不问了。我不想逼她。"
 
 # game/code/Book-1/Chapter-4z/s06.rpy:225
 translate chinese b1c04zs06_12ab0136:
