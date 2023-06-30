@@ -16,7 +16,7 @@ translate chinese b1c03s04_dbaba21d:
 translate chinese b1c03s04_ff241226:
 
     # mc "Hey, you're Irene, right? I'm [mcname]. I'm here to pick up my textbooks."
-    mc "嘿，你是艾琳，对吧？我是[mcname]。我是来取课本的。"
+    mc "嘿，你是艾琳，对吧？我是[mcname]。我来取课本。"
 
 # game/code/Book-1/Chapter-3/s04.rpy:22
 translate chinese b1c03s04_e0dcdb34:
@@ -94,19 +94,19 @@ translate chinese b1c03s04_10b508c9:
 translate chinese b1c03s04_316d576f:
 
     # ij "Maria Krall was Nia Vann's guide in our self-improvement community. You need one in order to progress your journey."
-    ij "玛丽亚·克拉尔是妮娅·范恩在我们自我提升社团的指导。为了你的进步，你也需要一个。"
+    ij "玛丽亚·克拉尔是妮娅·范恩在我们自我提升社团的向导。为了你的进步，你也需要一个。"
 
 # game/code/Book-1/Chapter-3/s04.rpy:74
 translate chinese b1c03s04_4bd12778:
 
     # mct "Journey? Guides? {w}What is this?"
-    mct "进步？指导？{w}你在说什么？"
+    mct "我的进步？找向导？{w}你在说什么？"
 
 # game/code/Book-1/Chapter-3/s04.rpy:77
 translate chinese b1c03s04_8fbd1158:
 
     # mc "You and Maria were in the same community?"
-    mc "你和玛丽亚在同一个社团里？"
+    mc "你和玛丽亚在同一个社团？"
 
 # game/code/Book-1/Chapter-3/s04.rpy:80
 translate chinese b1c03s04_20912340:
@@ -118,7 +118,7 @@ translate chinese b1c03s04_20912340:
 translate chinese b1c03s04_32860207:
 
     # ij "Nia refuses to take a new guide, because she hopes that Maria will come back."
-    ij "妮娅拒绝接受新的指导，因为她希望玛丽亚会回来。"
+    ij "妮娅拒绝接受新的向导，因为她希望玛丽亚回来。"
 
 # game/code/Book-1/Chapter-3/s04.rpy:85
 translate chinese b1c03s04_42b2a3b5:
@@ -130,7 +130,7 @@ translate chinese b1c03s04_42b2a3b5:
 translate chinese b1c03s04_551e5575:
 
     # ij "She might get kicked out."
-    ij "她可能会被踢出去。"
+    ij "可能会被踢出去。"
 
 # game/code/Book-1/Chapter-3/s04.rpy:94
 translate chinese b1c03s04_677b709b:
@@ -196,7 +196,7 @@ translate chinese b1c03s04_d417f3fe:
 translate chinese b1c03s04_f36a6260:
 
     # mc "Do you have guides on staff or do I need to provide my own?"
-    mc "引导人是由你们的工作人员指定？还是我需要自己提供？"
+    mc "向导是由你们的工作人员指定？还是我需要自己提供？"
 
 # game/code/Book-1/Chapter-3/s04.rpy:128
 translate chinese b1c03s04_994c68c9:
@@ -232,7 +232,7 @@ translate chinese b1c03s04_91aa7703:
 translate chinese b1c03s04_6c006e2e:
 
     # mc "How do you feel about that?"
-    mc "你怎么想呢？"
+    mc "你怎么想？"
 
 # game/code/Book-1/Chapter-3/s04.rpy:159
 translate chinese b1c03s04_67b4a176:
@@ -268,7 +268,7 @@ translate chinese b1c03s04_c057dca5:
 translate chinese b1c03s04_8aba41c8:
 
     # mc "I should get going. Thanks, Irene. I'll be sure to check this out. I should get back to my dorm."
-    mc "我该走了。谢谢你，艾琳。我一定会查清楚的。我该回宿舍了。"
+    mc "我该走了。谢谢你，艾琳。我一定会好好了解这个的。我该回宿舍了。"
 
 # game/code/Book-1/Chapter-3/s04.rpy:191
 translate chinese b1c03s04_06d2d210:
