@@ -16,7 +16,7 @@ translate chinese b1c04ns02_d7b614bc:
 translate chinese b1c04ns02_4fcf04f9:
 
     # mct "But I bet I can make it to class if I hurry."
-    mct "但我敢打赌，如果我快点的话，我能赶上上课。"
+    mct "但我敢打赌，如果我快点的话，现在能赶上上课。"
 
 # game/code/Book-1/Chapter-4n/s02.rpy:27
 translate chinese b1c04ns02_93364b53:
@@ -388,7 +388,7 @@ translate chinese b1c04ns02_42cb5a81:
 translate chinese b1c04ns02_c3bd6dde:
 
     # nv "Yeah, it's a self-help seminar. We're a part of the group that's hosting it."
-    nv "对，是一个自助研讨会。我们是主办组织的一部分。"
+    nv "对，是一个自助研讨会。我们也属于主办方。"
 
 # game/code/Book-1/Chapter-4n/s02.rpy:272
 translate chinese b1c04ns02_3606ebe9:
@@ -412,7 +412,7 @@ translate chinese b1c04ns02_58cd1cf0:
 translate chinese b1c04ns02_adb24db1:
 
     # ef "We'll see you there, I bet. We'll be having signings at the end. You should check it out."
-    ef "我们在那儿见，我打赌。最后我们会举行签名会。你应该去看看。"
+    ef "我们在那儿见，约好了。最后我们会举行签名会。你应该去看看。"
 
 # game/code/Book-1/Chapter-4n/s02.rpy:282
 translate chinese b1c04ns02_648a194d:
@@ -652,7 +652,7 @@ translate chinese b1c04ns02_21d72db9:
 translate chinese b1c04ns02_1f41d141:
 
     # nv "I like making art that will be appreciated for a lifetime."
-    nv "我喜欢创作能让人欣赏一辈子的艺术品。"
+    nv "我喜欢创作出能让人欣赏一辈子的艺术品。"
 
 # game/code/Book-1/Chapter-4n/s02.rpy:433
 translate chinese b1c04ns02_de1a2c3f:
@@ -786,5 +786,5 @@ translate chinese b1c04ns02_b8624346:
 translate chinese b1c04ns02_3882f53d:
 
     # ef "Yeah, I was planning on it. I think Andrejz is gonna host it, right?"
-    ef "Yeah, I was planning on it. I think Andrejz is gonna host it, right?"
+    ef "是啊，我正打算去呢。我想安杰斯会主持，对吧？"
 
