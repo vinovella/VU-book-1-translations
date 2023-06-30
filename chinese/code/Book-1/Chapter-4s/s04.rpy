@@ -232,7 +232,7 @@ translate chinese b1c04ss04m01_8ed06bcd:
 translate chinese b1c04ss04m01_a3cce35d:
 
     # "She reaches down with her other hand and fondles your balls lightly, massaging them in a way that adds to the pleasure."
-    "她另一只手也往下摸去，轻轻地抚摸你的蛋蛋，按摩它们的方式更添乐趣。"
+    "她另一只手也往下摸去，轻轻地抚摸你的蛋蛋，按摩它们的方式更是增添了情欲的味道。"
 
 # game/code/Book-1/Chapter-4s/s04.rpy:213
 translate chinese b1c04ss04m01_01d93121:
