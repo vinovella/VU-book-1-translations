@@ -4,7 +4,7 @@
 translate chinese b1c01s02_3ad1d948:
 
     # sm "We are so honored you chose Vinovella University."
-    sm "你选择了维诺维拉大学，我们很荣幸。"
+    sm "你选择了维诺维拉大学，我们深感荣幸。"
 
 # game/code/Book-1/Chapter-1/s02.rpy:15
 translate chinese b1c01s02_7a254a7f:
@@ -16,7 +16,7 @@ translate chinese b1c01s02_7a254a7f:
 translate chinese b1c01s02_25c38e4a:
 
     # mc "I'm excited to start classes here."
-    mc "我很高兴在这里开始上课。"
+    mc "我很高兴在这里开始校园生活。"
 
 # game/code/Book-1/Chapter-1/s02.rpy:20
 translate chinese b1c01s02_2afbaee8:
@@ -34,7 +34,7 @@ translate chinese b1c01s02_73c7a96d:
 translate chinese b1c01s02_1cb54563:
 
     # sm "This is our entrance hall. It's usually pretty busy here, but over there is the front desk."
-    sm "这是我们的入口大厅。这里通常很忙，但那边是前台。"
+    sm "这是我们的入口大厅。这里通常很忙，那边是前台。"
 
 # game/code/Book-1/Chapter-1/s02.rpy:27
 translate chinese b1c01s02_91c56b3b:
@@ -52,7 +52,7 @@ translate chinese b1c01s02_e4cb4e72:
 translate chinese b1c01s02_6fb1465c:
 
     # mc "Noted."
-    mc "注意到了。"
+    mc "明白。"
 
 # game/code/Book-1/Chapter-1/s02.rpy:43
 translate chinese b1c01s02_32fbef45:
@@ -64,7 +64,7 @@ translate chinese b1c01s02_32fbef45:
 translate chinese b1c01s02_fbba06b7:
 
     # mc "It's tragic. I wonder what happened to them..."
-    mc "太悲惨了。不知道她们后来怎么样了..."
+    mc "很悲惨。不知道她们后来怎么样了..."
 
 # game/code/Book-1/Chapter-1/s02.rpy:48
 translate chinese b1c01s02_5bb12e19:
@@ -88,7 +88,7 @@ translate chinese b1c01s02_8a7f2635:
 translate chinese b1c01s02_a558972b:
 
     # sm "But I'm glad it's not discouraging anyone from joining Vinovella University, though."
-    sm "不过，我很高兴这并没有妨碍任何人加入维诺维拉大学。"
+    sm "不过，我很高兴这并没有影响到新生加入维诺维拉大学。"
 
 # game/code/Book-1/Chapter-1/s02.rpy:59
 translate chinese b1c01s02_dfbff173:
@@ -178,7 +178,7 @@ translate chinese b1c01s02_14e39623:
 translate chinese b1c01s02_1dde57d8:
 
     # sm "Her family disowned her because of her disobedience to their oppressive views."
-    sm "她的家人与她断绝了关系，因为她不服从他们压迫性的观点。"
+    sm "她的家人与她断绝了关系，因为她不服从家人的专制。"
 
 # game/code/Book-1/Chapter-1/s02.rpy:94
 translate chinese b1c01s02_14cac3d2:
@@ -226,7 +226,7 @@ translate chinese b1c01s02_64c197a3:
 translate chinese b1c01s02_54d2d4b0:
 
     # mc "This used to be the mansion? We're in the same exact same place?"
-    mc "这里曾经是豪宅？就在这同一个地方？"
+    mc "这里曾经是豪宅？就我们脚下的这个地方？"
 
 # game/code/Book-1/Chapter-1/s02.rpy:111
 translate chinese b1c01s02_ffaa290b:
@@ -364,7 +364,7 @@ translate chinese b1c01s02_b95842db:
 translate chinese b1c01s02_4fb8ccd0:
 
     # sm "Sometimes outside organizations hold seminars here for students to sign up. But otherwise, it's pretty boring."
-    sm "有时候，外部组织会在这里举办研讨会，让学生报名。但除此之外，它相当无聊。"
+    sm "有时候，校外组织会在这里举办研讨会，让学生报名。但除此之外，它相当无聊。"
 
 # game/code/Book-1/Chapter-1/s02.rpy:180
 translate chinese b1c01s02_b3dc47bb:
@@ -388,7 +388,7 @@ translate chinese b1c01s02_f21f76c1:
 translate chinese b1c01s02_f9b0c0f8:
 
     # sm "I'm the volleyball team manager. I prefer the outdoors and a little sunshine."
-    sm "我是排球队的经理。我更喜欢户外活动，外加一点阳光。"
+    sm "我是排球队的经理人。我更喜欢户外活动，外加一点阳光。"
 
 # game/code/Book-1/Chapter-1/s02.rpy:190
 translate chinese b1c01s02_3b0296d8:
@@ -424,7 +424,7 @@ translate chinese b1c01s02_05795021:
 translate chinese b1c01s02_df1afb69:
 
     # sm "We do all the usual activities here, such as eating and dropping food."
-    sm "所有的日常活动都在这里进行，比如吃东西和扔东西。"
+    sm "所有的日常活动都在这里进行，比如吃饭和扔剩饭。"
 
 # game/code/Book-1/Chapter-1/s02.rpy:217
 translate chinese b1c01s02_559012ed:
@@ -610,7 +610,7 @@ translate chinese b1c01s02m01_5183cb89:
 translate chinese b1c01s02m01_538c28b0:
 
     # zp "It makes you look like a whore, anyway."
-    zp "再说了，它本来就让你看起来像个妓女。"
+    zp "再说了，穿上它本来就让你看起来像个妓女。"
 
 # game/code/Book-1/Chapter-1/s02.rpy:377
 translate chinese b1c01s02m01_842771f7:
@@ -670,13 +670,13 @@ translate chinese b1c01s02m01_9c42561e:
 translate chinese b1c01s02m01_a3911224:
 
     # sm "It was really nice to meet you! It's unfortunate I have to leave early. I'm sure we'll see each other around, though."
-    sm "见到你真的很高兴！可惜我不得不早点走。不过我相信我们还会再见面的。"
+    sm "见到你真的很高兴！可惜我不得不早点走了。不过我相信我们还会再见面的。"
 
 # game/code/Book-1/Chapter-1/s02.rpy:402
 translate chinese b1c01s02m01_bd6d1c70:
 
     # sm "Oh! Before I forget. Here's your dorm key."
-    sm "哦！免得我忘了。这是你宿舍的钥匙。"
+    sm "哦！我差点忘了。这是你宿舍的钥匙。"
 
 translate chinese strings:
 
