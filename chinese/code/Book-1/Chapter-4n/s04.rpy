@@ -370,7 +370,7 @@ translate chinese b1c04ns04_882e592b:
 translate chinese b1c04ns04_4b46eb93:
 
     # nv "Yeah... I...was."
-    nv "是的...。"
+    nv "是的..."
 
 # game/code/Book-1/Chapter-4n/s04.rpy:188
 translate chinese b1c04ns04_65771b33:
@@ -634,17 +634,17 @@ translate chinese strings:
 translate chinese b1c04ns04_b59b12cc:
 
     # nv "If you can handle Andrejz's over-the-top teaching style, you'll be able to handle anything else in our community."
-    nv "If you can handle Andrejz's over-the-top teaching style, you'll be able to handle anything else in our community."
+    nv "如果你能接受安杰斯夸张的教学风格，你就能处理好我们社团的任何事。"
 
 # game/code/Book-1/Chapter-4n/s04.rpy:220
 translate chinese b1c04ns04_76ab8cb5:
 
     # nv "Of course. I got you through Chem class, I can get you through a seminar hosted by Andrejz."
-    nv "Of course. I got you through Chem class, I can get you through a seminar hosted by Andrejz."
+    nv "当然。我帮你通过了化学课，我也能帮你通过由安杰斯主持的研讨会。"
 
 # game/code/Book-1/Chapter-4n/s04.rpy:262
 translate chinese b1c04ns04_798a02b2:
 
     # nv "I {i}swear{/i} not everyone is as...eccentric, as Andrejz."
-    nv "I {i}swear{/i} not everyone is as...eccentric, as Andrejz."
+    nv "我{i}发誓{/i}不是每个人都像... 安杰斯那样古怪。"
 
