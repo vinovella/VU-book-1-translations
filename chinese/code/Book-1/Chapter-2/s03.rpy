@@ -52,13 +52,13 @@ translate chinese b1c02s03_6e538e42:
 translate chinese b1c02s03_c8ce4241:
 
     # pm "And {i}so{/i} modest."
-    pm "还{i}这么{/i}谦虚呢。"
+    pm "还{i}很{/i}谦虚呢。"
 
 # game/code/Book-1/Chapter-2/s03.rpy:40
 translate chinese b1c02s03_094c2d47:
 
     # mo "A man with my qualities can only do so much."
-    mo "像我这样高品质的人，只能展现到这个地步了。"
+    mo "像我这样高品质的人，只能优秀到这个地步了。"
 
 # game/code/Book-1/Chapter-2/s03.rpy:44
 translate chinese b1c02s03_839b2160:
