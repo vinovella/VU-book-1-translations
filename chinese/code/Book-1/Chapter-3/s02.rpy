@@ -4,13 +4,13 @@
 translate chinese b1c03s02_6e17dfd3:
 
     # mct "Interesting... I'll have to remember that Zemfira's connected to Leia."
-    mct "有意思...我得记住泽姆菲拉与莱娅的关系。"
+    mct "有意思...我得记住泽菲拉与莱娅的关系。"
 
 # game/code/Book-1/Chapter-3/s02.rpy:19
 translate chinese b1c03s02_44d109bf:
 
     # mct "Zemfira could be a good source of info."
-    mct "泽菲拉可能是个很好的信息来源。"
+    mct "泽菲拉可能是个很好的情报来源。"
 
 # game/code/Book-1/Chapter-3/s02.rpy:40
 translate chinese b1c03s02_18214a6d:
@@ -166,7 +166,7 @@ translate chinese b01c03s02m01_2cda775d:
 translate chinese b01c03s02m01_995a5e5c:
 
     # jh "I'm kind of surprised you even recognized me."
-    jh "哦，我现在叫乔西。"
+    jh "我有点惊讶你竟然能认出我。"
 
 # game/code/Book-1/Chapter-3/s02.rpy:118
 translate chinese b01c03s02m01_a1835044:
@@ -214,7 +214,7 @@ translate chinese b01c03s02m01_540cf4ca:
 translate chinese b01c03s02m01_db0929c2:
 
     # mc "Yeah, I got the tour around campus and a rather rude welcoming committee from my dorm mate."
-    mc "是，我参观了校园，还得到了我的舍友的粗鲁接待。"
+    mc "是，我参观了校园，还得到了我室友的粗鲁接待。"
 
 # game/code/Book-1/Chapter-3/s02.rpy:143
 translate chinese b01c03s02m01_203f69ee:
@@ -232,7 +232,7 @@ translate chinese b01c03s02m01_424f09ef:
 translate chinese b01c03s02m01_b0dda818:
 
     # jh "Jesus. I'm sorry— I mean, it's funny, but I'm sorry your first day here has been chaotic. What's your room number?"
-    jh "天啊。真糟糕--我是说，听上去很有趣，但我很抱歉你来的第一天就很混乱。你的房间号是多少？"
+    jh "天啊。真糟糕--我是说，听上去有点意思，但我很抱歉你来的第一天就一团糟。你的房间号是多少？"
 
 # game/code/Book-1/Chapter-3/s02.rpy:151
 translate chinese b01c03s02m01_a1c96a1f:
@@ -334,7 +334,7 @@ translate chinese b1c3s02_memory_cloud_189832e7:
 translate chinese b1c3s02_memory_cloud_01af776e:
 
     # jh "It's important to have someone to help you through the hard times in life, right?"
-    jh "有一个人帮助你度过生活中的困难时期很重要，对吧？"
+    jh "有一个人帮助你度过生活中的困难时期，这很重要，对吧？"
 
 # game/code/Book-1/Chapter-3/s02.rpy:212
 translate chinese b1c3s02_memory_cloud_402eb75f:
@@ -394,13 +394,13 @@ translate chinese b1c3s02_memory_cloud_f3f4dc06:
 translate chinese b1c3s02_memory_cloud_ec743ad9:
 
     # jh "It was a somber day when we went to different high schools. But I always had faith that you'd accomplish something with yourself."
-    jh "后来在那个阴沉的日子，我们去了不同的高中但我一直相信，你会有所成就的。"
+    jh "后来在那个阴沉的日子，我们去了不同的高中。但我一直相信，你会有所成就的。"
 
 # game/code/Book-1/Chapter-3/s02.rpy:240
 translate chinese b1c3s02_memory_cloud_722c3b10:
 
     # jh "I mean, you're here, right? What's your chosen career nowadays?"
-    jh "我是说，我现在就见到了你？你如今选择的职业是什么？"
+    jh "我是说，我竟然现在就见到了你哎？你如今选择的职业是什么？"
 
 # game/code/Book-1/Chapter-3/s02.rpy:243
 translate chinese b1c3s02_memory_cloud_3fd35315:
@@ -412,7 +412,7 @@ translate chinese b1c3s02_memory_cloud_3fd35315:
 translate chinese b1c3s02_memory_cloud_19506e5c:
 
     # jh "Well, I'm sure you'll figure it out. Maybe you need to find someone who can help you through hard times, too."
-    jh "嗯,我相信你会找出答案的。也许你也需要找个能帮你度过难关的人。"
+    jh "嗯，我相信你会找出答案的。也许你也需要找个能帮你度过难关的人。"
 
 # game/code/Book-1/Chapter-3/s02.rpy:249
 translate chinese b1c3s02_memory_cloud_d61769c9:
