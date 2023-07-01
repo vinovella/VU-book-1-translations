@@ -16,7 +16,7 @@ translate chinese b1c03s01_d3ec48b3:
 translate chinese b1c03s01_caddc73b:
 
     # mct "Jesus, I'm just getting it out the ass, here."
-    mct "天哪，我刚把它从屁股里拿出来。"
+    mct "天哪，我刚把它拿出来，给。"
 
 # game/code/Book-1/Chapter-3/s01.rpy:57
 translate chinese b1c03s01_150d2fe1:
@@ -136,13 +136,13 @@ translate chinese b01c03s01m01_35db9d7d:
 translate chinese b01c03s01m01_7f37c179:
 
     # sl "No! I just wanted to make sure you weren't an abductor!"
-    sl "别！我只是想确定你不是绑架犯！"
+    sl "不要！我只是想确定你不是绑架犯！"
 
 # game/code/Book-1/Chapter-3/s01.rpy:126
 translate chinese b01c03s01m01_b998db34:
 
     # dk "You're a goddamn walking talking {i}calamity{/i} on this campus."
-    dk "你在这个校园里就是个会走路、会说话的{i}灾难{/i}。"
+    dk "你在这个校园里就是个会行走、会说话的{i}灾难{/i}。"
 
 # game/code/Book-1/Chapter-3/s01.rpy:129
 translate chinese b01c03s01m01_f62431eb:
@@ -160,7 +160,7 @@ translate chinese b01c03s01m01_dff863d3:
 translate chinese b01c03s01m01_a0ed4b29:
 
     # sl "I don't know! Better safe than having someone else go missing."
-    sl "我不知道！再怎么说，总比让别人失踪好。"
+    sl "我不知道！再怎么说，多多确认总比让别人失踪好。"
 
 # game/code/Book-1/Chapter-3/s01.rpy:138
 translate chinese b01c03s01m01_7383e8d4:
@@ -184,7 +184,7 @@ translate chinese b01c03s01m01_f4d9fc9d:
 translate chinese b01c03s01m01_5db2978b:
 
     # zp "Leia would rip your tongue out and burn it if she heard you."
-    zp "如果莱娅听到你的话，她会把你的舌头扯下来烧掉。"
+    zp "如果莱娅听到你的话，她会把你的舌头扯下来扔火里。"
 
 # game/code/Book-1/Chapter-3/s01.rpy:150
 translate chinese b01c03s01m01_4e98a658:
@@ -244,7 +244,7 @@ translate chinese b01c03s01m01_4141668c:
 translate chinese b01c03s01m01_c9cb7e62:
 
     # mc "Hey man, it's alright. Can never be too safe, right? Especially in these times. My name's [mcname]. I think we started off on the wrong foot."
-    mc "嘿，伙计，没事的。越安全越好，对吧？尤其是在这个时代。我叫[mcname]。我认为我们一开始就走错了路。"
+    mc "嘿，伙计，没事的。安全总比有危险要好，对吧？尤其是在这个时候。我叫[mcname]。我认为我们一开始就走错了路。"
 
 # game/code/Book-1/Chapter-3/s01.rpy:190
 translate chinese b01c03s01m01_4ff2b99f:
@@ -298,7 +298,7 @@ translate chinese b01c03s01m01_5bd31a98:
 translate chinese b01c03s01m01_81054761:
 
     # sl "You don't need to talk about it, Zem. It's okay."
-    sl "你不需要谈回答的，泽儿。没关系。"
+    sl "你不需要回答的，泽菲拉。没关系。"
 
 # game/code/Book-1/Chapter-3/s01.rpy:217
 translate chinese b01c03s01m01_54446d27:
@@ -310,13 +310,13 @@ translate chinese b01c03s01m01_54446d27:
 translate chinese b01c03s01m01_e1355f24:
 
     # dk "Oh, for fucks sake. How long are you going to keep blue-balling Simon, {i}Zem?{/i}"
-    dk "哦，看在老天的份上。西蒙，泽儿，你们要我憋精{i}憋多久{/i}？"
+    dk "哦，看在老天的份上。{i}泽菲拉{/i}，你要西蒙憋精憋多久？"
 
 # game/code/Book-1/Chapter-3/s01.rpy:223
 translate chinese b01c03s01m01_5db2978b_1:
 
     # zp "Leia would rip your tongue out and burn it if she heard you."
-    zp "如果莱娅听到你的话，她会把你的舌头扯下来烧掉。"
+    zp "如果莱娅听到你的话，她会把你的舌头扯下来扔火里。"
 
 # game/code/Book-1/Chapter-3/s01.rpy:226
 translate chinese b01c03s01m01_4e98a658_1:
@@ -328,7 +328,7 @@ translate chinese b01c03s01m01_4e98a658_1:
 translate chinese b01c03s01m01_3e82cf8d:
 
     # sl "Don't worry about it, Zem. Let's ditch."
-    sl "别担心，泽儿。我们开溜。"
+    sl "泽菲拉，不用理她。我们走人。"
 
 # game/code/Book-1/Chapter-3/s01.rpy:236
 translate chinese b01c03s01m01_0d9245de:
@@ -340,19 +340,19 @@ translate chinese b01c03s01m01_0d9245de:
 translate chinese b01c03s01m01_dd69732e:
 
     # mc "No problem, man. See you later."
-    mc "没问题。再见。"
+    mc "小事儿。再见啦。"
 
 # game/code/Book-1/Chapter-3/s01.rpy:250
 translate chinese b01c03s01m01_a82fb8a1:
 
     # mc "Jesus dude, buy me dinner first before you get on top of me. You damn near found the hole."
-    mc "天啊，伙计，在你这么难对付之前先请我吃饭。你差点就找到那个洞了。"
+    mc "天啊，伙计，在你上了我之前要先请我吃饭。你差点就找到那个洞了。"
 
 # game/code/Book-1/Chapter-3/s01.rpy:253
 translate chinese b01c03s01m01_521014c6:
 
     # zp "Well that would be a first, wouldn't it, Simon?"
-    zp "那可是第一次，不是吗，西蒙？"
+    zp "那可真是头一回见，不是吗，西蒙？"
 
 # game/code/Book-1/Chapter-3/s01.rpy:256
 translate chinese b01c03s01m01_7f550c77:
@@ -382,7 +382,7 @@ translate chinese b01c03s01m01_4db86116:
 translate chinese b01c03s01m01_2c426af0:
 
     # sl "Uh, yeah. Sorry about that. Simon Lowe."
-    sl "呃，是啊。很抱歉。西蒙·洛威。"
+    sl "呃，是啊。很抱歉。叫我西蒙·洛威。"
 
 # game/code/Book-1/Chapter-3/s01.rpy:273
 translate chinese b01c03s01m01_fdfdac41:
@@ -430,19 +430,19 @@ translate chinese b01c03s01m01_28520a5f:
 translate chinese b01c03s01m01_8514deaf:
 
     # mc "I'm the guy Simon just tried to beat up, or seduce—depending on your standpoint."
-    mc "我就是西蒙刚刚试着揍、或者说想诱惑的那个人--这取决于你的立场。"
+    mc "我就是西蒙刚刚试着揍、或者说想霸王硬上弓的那个人--具体哪种情况，这取决于你的立场。"
 
 # game/code/Book-1/Chapter-3/s01.rpy:297
 translate chinese b01c03s01m01_e1764d69:
 
     # zp "Tried?"
-    zp "试着做？"
+    zp "他想揍你？"
 
 # game/code/Book-1/Chapter-3/s01.rpy:300
 translate chinese b01c03s01m01_6084d0fa:
 
     # sl "Yeah...guy knows karate or something. I thought he was bothering the girls in their dorm room."
-    sl "是的...这家伙懂空手道什么的。我还以为他在宿舍里骚扰女生呢。"
+    sl "是...这家伙懂空手道什么的。我还以为他在宿舍里骚扰女生呢。"
 
 # game/code/Book-1/Chapter-3/s01.rpy:303
 translate chinese b01c03s01m01_0b90679e:
@@ -532,7 +532,7 @@ translate chinese b01c03s01m01_5bd31a98_1:
 translate chinese b01c03s01m01_81054761_1:
 
     # sl "You don't need to talk about it, Zem. It's okay."
-    sl "你不需要谈这个，泽儿。没关系。"
+    sl "你不需要谈这个，泽菲拉。没关系。"
 
 # game/code/Book-1/Chapter-3/s01.rpy:349
 translate chinese b01c03s01m01_54446d27_1:
@@ -544,7 +544,7 @@ translate chinese b01c03s01m01_54446d27_1:
 translate chinese b01c03s01m01_748d4d93:
 
     # sl "I'm sure someone will find them, or they'll turn up."
-    sl "我相信有人会找到他们的，或者他们会自己出现。"
+    sl "我相信有人会找到她们的，或者她们会自己出现。"
 
 # game/code/Book-1/Chapter-3/s01.rpy:355
 translate chinese b01c03s01m01_da18fa85:
@@ -574,7 +574,7 @@ translate chinese b01c03s01m01_5fe6fddf:
 translate chinese b01c03s01m01_08a4cc0d:
 
     # dk "If you plan to throw Simon around more, please invite me."
-    dk "如果你打算再和西蒙玩，请邀请我。"
+    dk "如果你打算再和西蒙斗，记得邀请我。"
 
 # game/code/Book-1/Chapter-3/s01.rpy:368
 translate chinese b01c03s01m01_424725bb:
