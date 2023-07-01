@@ -178,7 +178,7 @@ translate chinese b01c04ns06m01_d027f4eb:
 translate chinese b01c04ns06m01_d121f3c0:
 
     # nv "Metis is the goddess of prudence. She and Zeus balanced each other. Where Zeus can act impulsive and frivolous, Metis was frugal and methodical."
-    nv "梅蒂斯是审慎的女神。她和宙斯相互平衡。宙斯会表现得冲动而轻浮，而梅提斯节俭而有条理。"
+    nv "梅提斯是审慎的女神。她和宙斯相互平衡。宙斯会表现得冲动而轻浮，而梅提斯节俭而有条理。"
 
 # game/code/Book-1/Chapter-4n/s06.rpy:138
 translate chinese b01c04ns06m01_42f35992:
