@@ -64,7 +64,7 @@ translate chinese b1c03s03_0b8766fb:
 translate chinese b1c03s03_f299c409:
 
     # mct "Ugh, civilians. Does she think she's my boss?"
-    mct "呃，就普通老百姓一个 。她以为她是我老板吗？"
+    mct "呃，就普通老百姓一个。她以为她是我老板吗？"
 
 # game/code/Book-1/Chapter-3/s03.rpy:58
 translate chinese b1c03s03_dc1fe683:
@@ -94,7 +94,7 @@ translate chinese b1c03s03_2336add5:
 translate chinese b1c03s03_6aeb0cca:
 
     # dm "Silvia knew Klara Crawford. They were involved with the Winner's Club, which is a fraternity on campus."
-    dm "西尔维娅认识克拉拉·克劳福德。他们参与了胜利者俱乐部，那是校园里的一个兄弟会。"
+    dm "西尔维娅认识克拉拉·克劳福德。她们都加入了赢家俱乐部，那是校园里的一个兄弟会。"
 
 # game/code/Book-1/Chapter-3/s03.rpy:72
 translate chinese b1c03s03_5bc6618b:
@@ -106,7 +106,7 @@ translate chinese b1c03s03_5bc6618b:
 translate chinese b1c03s03_176432c2:
 
     # mct "I remember Silvia saying she knew Klara... I bet I could join the volleyball team to get closer to Silvia, and the rest of the Winner's Club. I'll look around and see what they're about."
-    mct "我记得西尔维娅说她认识克拉拉...我相信我可以加入排球队，这样可以离西尔维娅更近一些，离优胜者俱乐部的其他成员也更近一些。我去看看是怎么回事。"
+    mct "我记得西尔维娅说她认识克拉拉...我相信我可以加入排球队，这样可以离西尔维娅更近一些，离赢家俱乐部的其他成员也更近一些。我去看看是怎么回事。"
 
 # game/code/Book-1/Chapter-3/s03.rpy:79
 translate chinese b1c03s03_c381c26e:
@@ -118,7 +118,7 @@ translate chinese b1c03s03_c381c26e:
 translate chinese b1c03s03_c51af57d:
 
     # dm "Zemfira Power? Why are you asking about her?"
-    dm "泽菲拉·鲍尔？你怎么问起她呢？"
+    dm "泽菲拉·鲍尔？你怎么问起她？"
 
 # game/code/Book-1/Chapter-3/s03.rpy:85
 translate chinese b1c03s03_0bb22a96:
@@ -148,19 +148,19 @@ translate chinese b1c03s03_ea287552:
 translate chinese b1c03s03_94610e22:
 
     # dm "These are the missing girls' college majors. Might help you get closer to their social groups."
-    dm "这些是失踪女孩的大学专业。可能会帮助你接近她们所处的社会群体。"
+    dm "这些是失踪女孩的大学专业。可能有助于你接近她们所处的社会群体。"
 
 # game/code/Book-1/Chapter-3/s03.rpy:107
 translate chinese b1c03s03_b7702acb:
 
     # mc "Leia, law, Maria, history, and Klara economy...That's a wide range of subjects. What else did the girls have in common?"
-    mc "莱娅、法律系、玛丽亚、历史系和克拉拉，经济系...专业差别很大啊。这些女孩还有什么共同之处？"
+    mc "莱娅是法律系、玛丽亚是历史系，克拉拉是经济系...专业差别很大啊。这些女孩还有什么共同之处？"
 
 # game/code/Book-1/Chapter-3/s03.rpy:110
 translate chinese b1c03s03_b1f26c2c:
 
     # dm "Couldn't tell you. I only knew Klara because I was her Faculty Advisor. I was guiding her to do a sports career, but she could be rather meek."
-    dm "我说不上来。我认识克拉拉是因为我是她的指导老师。我在指导她从事体育事业，但她可能相当温顺。"
+    dm "我说不上来。我认识克拉拉是因为我是她的指导老师。我在指导她从事体育事业，但她人相当温顺。"
 
 # game/code/Book-1/Chapter-3/s03.rpy:116
 translate chinese b1c03s03_e245da4c:
@@ -172,7 +172,7 @@ translate chinese b1c03s03_e245da4c:
 translate chinese b1c03s03_17399c03:
 
     # dm "I allow nothing less than perfection in my students, so I also focused her efforts toward subjects and activities that would further her career."
-    dm "我不允许我的学生不完美，所以我也把她的努力集中在有助于她职业发展的科目和活动上。"
+    dm "我不允许我的学生不完美，所以我让她努力集中在有助于她职业发展的科目和活动上。"
 
 # game/code/Book-1/Chapter-3/s03.rpy:121
 translate chinese b1c03s03_d7666f7c:
@@ -190,7 +190,7 @@ translate chinese b1c03s03_af7a7854:
 translate chinese b1c03s03_bab3f2da:
 
     # dm "Just because I expect excellence doesn't make me impossible, [mcname]."
-    dm "我期待卓越并不意味着我做不到，[mcname]。"
+    dm "我期待卓越并不意味着做不到，[mcname]。"
 
 # game/code/Book-1/Chapter-3/s03.rpy:130
 translate chinese b1c03s03_6afe4154:
