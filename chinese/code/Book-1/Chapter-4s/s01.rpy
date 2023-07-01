@@ -4,7 +4,7 @@
 translate chinese b1c04ss01_3551917b:
 
     # mct "Diana told me that Silvia's the manager of the volleyball team."
-    mct "戴安娜告诉我，西尔维娅是排球队的主教练。"
+    mct "戴安娜告诉我，西尔维娅是排球队的经理人。"
 
 # game/code/Book-1/Chapter-4s/s01.rpy:10
 translate chinese b1c04ss01_f83e6ff0:
@@ -100,7 +100,7 @@ translate chinese b1c04ss01_d7d08026:
 translate chinese b1c04ss01_7e57bbfe:
 
     # ir "Oh yeah! I'm on the volleyball team."
-    ir "很了解啊！我是排球队的。"
+    ir "再熟悉不过了！我就是排球队的。"
 
 # game/code/Book-1/Chapter-4s/s01.rpy:55
 translate chinese b1c04ss01_53b187f3:
