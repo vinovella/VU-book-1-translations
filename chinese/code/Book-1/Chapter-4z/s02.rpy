@@ -448,7 +448,7 @@ translate chinese b1c04zs02_3957d6cd:
 translate chinese b1c04zs02_0c63ddf7:
 
     # gn "Hey, Foxy!"
-    gn "嘿，小狐狸！"
+    gn "嘿，小狐！"
 
 # game/code/Book-1/Chapter-4z/s02.rpy:279
 translate chinese b1c04zs02_cf997129:
