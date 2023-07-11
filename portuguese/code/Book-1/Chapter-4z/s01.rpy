@@ -13,9 +13,9 @@ translate portuguese b1c04zs01_87cc21a4:
     mct ""
 
 # game/code/Book-1/Chapter-4z/s01.rpy:25
-translate portuguese b1c04zs01_45249982:
+translate portuguese b1c04zs01_3b5abb1d:
 
-    # mct "We got off on the wrong foot. I'll need to make sure I do this right, so she doesn't become hostile to me."
+    # mct "I'll need to make sure I do this right, so she doesn't become hostile to me."
     mct ""
 
 # game/code/Book-1/Chapter-4z/s01.rpy:26
@@ -753,4 +753,3 @@ translate portuguese strings:
     # game/code/Book-1/Chapter-4z/s01.rpy:189
     old "Jeez, you sure talk a lot."
     new ""
-

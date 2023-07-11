@@ -13,10 +13,10 @@ translate chinese b1c04zs01_87cc21a4:
     mct "啊哈。她现在应该在计算机科学教室。我这就去。"
 
 # game/code/Book-1/Chapter-4z/s01.rpy:25
-translate chinese b1c04zs01_45249982:
+translate chinese b1c04zs01_3b5abb1d:
 
-    # mct "We got off on the wrong foot. I'll need to make sure I do this right, so she doesn't become hostile to me."
-    mct "我们一开始就走错了路。我要确保我做得对，这样她才不会对我怀有敌意。"
+    # mct "I'll need to make sure I do this right, so she doesn't become hostile to me."
+    mct "我要确保我做得对，这样她才不会对我怀有敌意。"
 
 # game/code/Book-1/Chapter-4z/s01.rpy:26
 translate chinese b1c04zs01_1e26850c:
@@ -753,4 +753,6 @@ translate chinese strings:
     # game/code/Book-1/Chapter-4z/s01.rpy:189
     old "Jeez, you sure talk a lot."
     new "天啊，你话真多。"
+
+
 
