@@ -4,5 +4,5 @@ translate portuguese strings:
 
     # game/code/options.rpy:15
     old "Vinovella University"
-    new ""
+    new "Universidade Vinovella"
 
