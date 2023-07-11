@@ -6,26 +6,6 @@ translate chinese strings:
     old "CLOSE"
     new "CLOSE"
 
-    # game/code/screens/inv_board.rpy:85
-    old "Characters"
-    new "Characters"
-
-    # game/code/screens/inv_board.rpy:86
-    old "Connections"
-    new "Connections"
-
-    # game/code/screens/inv_board.rpy:87
-    old "Descriptions"
-    new "Descriptions"
-
-    # game/code/screens/inv_board.rpy:89
-    old "Groups"
-    new "Groups"
-
-    # game/code/screens/inv_board.rpy:93
-    old "Toggle Groups"
-    new "Toggle Groups"
-
     # game/code/screens/inv_board.rpy:95
     old "Clear all"
     new "Clear all"

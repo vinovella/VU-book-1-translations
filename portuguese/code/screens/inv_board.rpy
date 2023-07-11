@@ -2,16 +2,12 @@
 
 translate portuguese strings:
 
-    # game/code/screens/inv_board.rpy:94
-    old "Characters"
+    # game/code/screens/inv_board.rpy:86
+    old "CLOSE"
     new ""
 
-    # game/code/screens/inv_board.rpy:95
-    old "Connections"
-    new ""
-
-    # game/code/screens/inv_board.rpy:98
-    old "Groups"
+    # game/code/screens/inv_board.rpy:104
+    old "Clear all"
     new ""
 
     # game/code/screens/inv_board.rpy:165
@@ -41,4 +37,5 @@ translate portuguese strings:
     # game/code/screens/inv_board.rpy:193
     old "[i.desc]"
     new ""
+
 
