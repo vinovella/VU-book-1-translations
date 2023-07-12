@@ -130,7 +130,7 @@ translate chinese b1c05s03_4ff3dc27:
 translate chinese b1c05s03_cf1adef2:
 
     # mc "Yeah."
-    mc "是的。
+    mc "是的。"
 
 # game/code/Book-1/Chapter-5/s03.rpy:75
 translate chinese b1c05s03_296ee6b0:

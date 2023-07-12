@@ -400,7 +400,7 @@ translate chinese b1c05s05_78d4be90:
 translate chinese b1c05s05_f9ee4b87:
 
     # jh "I'll set it up with Lara. This'll be a blast!"
-    jh "我会和劳拉商量时间的。这将是一个爆炸性事件！
+    jh "我会和劳拉商量时间的。这将是一个爆炸性事件！"
 
 # game/code/Book-1/Chapter-5/s05.rpy:192
 translate chinese b1c05s05_c942543a:
