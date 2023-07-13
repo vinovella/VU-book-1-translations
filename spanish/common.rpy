@@ -1282,3 +1282,20 @@ translate spanish strings:
     # renpy/common/00sync.rpy:634
     old "Sync Error"
     new "Error de sincronización"
+
+    # renpy/common/00accessibility.rpy:215
+    old "Voice Volume"
+    new "Voice Volume"
+
+    # renpy/common/00sync.rpy:540
+    old "Yes"
+    new "Yes"
+
+    # renpy/common/00sync.rpy:541
+    old "No"
+    new "No"
+
+    # renpy/common/00sync.rpy:612
+    old "Continue"
+    new "Continue"
+

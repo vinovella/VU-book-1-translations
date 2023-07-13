@@ -1278,3 +1278,19 @@ translate portuguese strings:
     old "Sync Error"
     new "Sync Error"
 
+    # renpy/common/00accessibility.rpy:215
+    old "Voice Volume"
+    new ""
+
+    # renpy/common/00sync.rpy:540
+    old "Yes"
+    new ""
+
+    # renpy/common/00sync.rpy:541
+    old "No"
+    new ""
+
+    # renpy/common/00sync.rpy:612
+    old "Continue"
+    new ""
+
