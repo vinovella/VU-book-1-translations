@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-11-22 23:46
+# TODO: Translation updated at 2022-11-22 23:46
 
 translate portuguese strings:
 
@@ -1172,125 +1172,125 @@ translate portuguese strings:
 
     # renpy/common/00director.rpy:1745
     old "Click to toggle attribute, right click to toggle negative attribute."
-    new "Click to toggle attribute, right click to toggle negative attribute."
+    new "Clique para habilitar/desabilitar atributo, botão direito para habilitar/desabilitar atributo negativo."
 
     # renpy/common/00director.rpy:1768
     old "Click to set transform, right click to add to transform list."
-    new "Click to set transform, right click to add to transform list."
+    new "Clique para setar o transform, botão direito para adicionar à lista de transform."
 
     # renpy/common/00director.rpy:1789
     old "Click to set, right click to add to behind list."
-    new "Click to set, right click to add to behind list."
+    new "Clique para setar, botão direito para adicionar atrás da lista."
 
     # renpy/common/00gui.rpy:456
     old "This save was created on a different device. Maliciously constructed save files can harm your computer. Do you trust this save's creator and everyone who could have changed the file?"
-    new "This save was created on a different device. Maliciously constructed save files can harm your computer. Do you trust this save's creator and everyone who could have changed the file?"
+    new "Esse save foi criado num dispositivo diferente. Saves feitos maliciosamente podem  danificar seu computador. Você confia no criador desse save e todos que podem ter mudado o arquivo?"
 
     # renpy/common/00gui.rpy:457
     old "Do you trust the device the save was created on? You should only choose yes if you are the device's sole user."
-    new "Do you trust the device the save was created on? You should only choose yes if you are the device's sole user."
+    new "Você confia no dispositivo no qual esse save foi criado? Você deve escolher sim apenas se for o único usuário do dispositivo."
 
     # renpy/common/00preferences.rpy:528
     old "audio when unfocused"
-    new "audio when unfocused"
+    new "áudio quando fora de foco"
 
     # renpy/common/00preferences.rpy:537
     old "web cache preload"
-    new "web cache preload"
+    new "preload do cache web"
 
     # renpy/common/00preferences.rpy:552
     old "voice after game menu"
-    new "voice after game menu"
+    new "voz após menu de jogo"
 
     # renpy/common/00speechbubble.rpy:344
     old "Speech Bubble Editor"
-    new "Speech Bubble Editor"
+    new "Editor da Fala"
 
     # renpy/common/00speechbubble.rpy:349
     old "(hide)"
-    new "(hide)"
+    new "(esconder)"
 
     # renpy/common/00sync.rpy:70
     old "Sync downloaded."
-    new "Sync downloaded."
+    new "Sync baixada."
 
     # renpy/common/00sync.rpy:190
     old "Could not connect to the Ren'Py Sync server."
-    new "Could not connect to the Ren'Py Sync server."
+    new "Não foi possível conectar com o servidor Ren'Py de Sincronia."
 
     # renpy/common/00sync.rpy:192
     old "The Ren'Py Sync server timed out."
-    new "The Ren'Py Sync server timed out."
+    new "O servidor Ren'Py de Sincronia não respondeu a tempo."
 
     # renpy/common/00sync.rpy:194
     old "An unknown error occurred while connecting to the Ren'Py Sync server."
-    new "An unknown error occurred while connecting to the Ren'Py Sync server."
+    new "Um erro desconhecido ocorreu enquanto conectava com o servidor Ren'Py de sincronia."
 
     # renpy/common/00sync.rpy:267
     old "The Ren'Py Sync server does not have a copy of this sync. The sync ID may be invalid, or it may have timed out."
-    new "The Ren'Py Sync server does not have a copy of this sync. The sync ID may be invalid, or it may have timed out."
+    new "O servidor Ren'Py de Sincronia não tem uma cópia dessa sincronia. O novo ID de sincronia pode ser inválido, ou não respondeu a tempo."
 
     # renpy/common/00sync.rpy:409
     old "Please enter the sync ID you generated.\nNever enter a sync ID you didn't create yourself."
-    new "Please enter the sync ID you generated.\nNever enter a sync ID you didn't create yourself."
+    new "Por favor entre o ID de sincronia que você gerou.\nNunca entre um ID de sincronia que você mesmo(a) não tenha gerado."
 
     # renpy/common/00sync.rpy:428
     old "The sync ID is not in the correct format."
-    new "The sync ID is not in the correct format."
+    new "O ID de sincronia não está no formato certo."
 
     # renpy/common/00sync.rpy:448
     old "The sync could not be decrypted."
-    new "The sync could not be decrypted."
+    new "Não foi possível decriptar a sincronia."
 
     # renpy/common/00sync.rpy:471
     old "The sync belongs to a different game."
-    new "The sync belongs to a different game."
+    new "A sincronia pertence a um jogo diferente."
 
     # renpy/common/00sync.rpy:476
     old "The sync contains a file with an invalid name."
-    new "The sync contains a file with an invalid name."
+    new "A sincronia contém um arquivo com nome inválido."
 
     # renpy/common/00sync.rpy:529
     old "This will upload your saves to the {a=https://sync.renpy.org}Ren'Py Sync Server{/a}.\nDo you want to continue?"
-    new "This will upload your saves to the {a=https://sync.renpy.org}Ren'Py Sync Server{/a}.\nDo you want to continue?"
+    new "Isso vai upar seus saves para o {a=https://sync.renpy.org}Servidor Ren'Py de Sincronia{/a}.\nDeseja continuar?"
 
     # renpy/common/00sync.rpy:558
     old "Enter Sync ID"
-    new "Enter Sync ID"
+    new "Digitar ID de Sincronia"
 
     # renpy/common/00sync.rpy:569
     old "This will contact the {a=https://sync.renpy.org}Ren'Py Sync Server{/a}."
-    new "This will contact the {a=https://sync.renpy.org}Ren'Py Sync Server{/a}."
+    new "Isso vai contatar o {a=https://sync.renpy.org}Servidor Ren'Py de Sincronia{/a}."
 
     # renpy/common/00sync.rpy:596
     old "Sync Success"
-    new "Sync Success"
+    new "Sucesso de Sincronia"
 
     # renpy/common/00sync.rpy:599
     old "The Sync ID is:"
-    new "The Sync ID is:"
+    new "O ID de sincronia é:"
 
     # renpy/common/00sync.rpy:605
     old "You can use this ID to download your save on another device.\nThis sync will expire in an hour.\nRen'Py Sync is supported by {a=https://www.renpy.org/sponsors.html}Ren'Py's Sponsors{/a}."
-    new "You can use this ID to download your save on another device.\nThis sync will expire in an hour.\nRen'Py Sync is supported by {a=https://www.renpy.org/sponsors.html}Ren'Py's Sponsors{/a}."
+    new "Você pode usar esse ID para baixar seu save em outro dispositivo.\nEssa sincronia expira em uma hora.\nRen'Py Sync é patrocinado por {a=https://www.renpy.org/sponsors.html}Patrocinadores Ren'Py{/a}."
 
     # renpy/common/00sync.rpy:631
     old "Sync Error"
-    new "Sync Error"
+    new "Erro de Sincronia"
 
     # renpy/common/00accessibility.rpy:215
     old "Voice Volume"
-    new ""
+    new "Volume da Voz"
 
     # renpy/common/00sync.rpy:540
     old "Yes"
-    new ""
+    new "Sim"
 
     # renpy/common/00sync.rpy:541
     old "No"
-    new ""
+    new "Não"
 
     # renpy/common/00sync.rpy:612
     old "Continue"
-    new ""
+    new "Continuar"
 
