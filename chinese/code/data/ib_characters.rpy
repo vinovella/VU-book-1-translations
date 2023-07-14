@@ -474,3 +474,11 @@ translate chinese strings:
     old "Cult"
     new "Cult"
 
+# TODO: Translation updated at 2023-07-14 23:29
+
+translate chinese strings:
+
+    # game/code/data/ib_characters.rpy:9
+    old "Andrzej"
+    new "Andrzej"
+

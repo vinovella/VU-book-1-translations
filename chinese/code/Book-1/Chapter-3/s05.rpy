@@ -654,3 +654,11 @@ translate chinese b1c03s05_6651ab87:
     # mc "Alright."
     mc "好吧。"
 
+# TODO: Translation updated at 2023-07-14 23:29
+
+translate chinese strings:
+
+    # game/code/Book-1/Chapter-3/s05.rpy:398
+    old "Save your game here"
+    new "Save your game here"
+
