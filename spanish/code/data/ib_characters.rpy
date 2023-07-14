@@ -454,3 +454,22 @@ translate spanish strings:
     old "Cult"
     new "Culto"
 
+# TODO: Translation updated at 2023-07-15 01:36
+
+translate spanish strings:
+
+    # game/code/data/ib_characters.rpy:9
+    old "Briggita"
+    new "Briggita"
+
+    # game/code/data/ib_characters.rpy:9
+    old "Andrzej"
+    new "Andrzej"
+
+    # game/code/data/ib_characters.rpy:48
+    old "Driver"
+    new "Driver"
+
+    # game/code/data/ib_characters.rpy:48
+    old "Bartender"
+    new "Camarera"
