@@ -1,456 +1,296 @@
-﻿# TODO: Translation updated at 2023-06-27 18:35
+﻿# TODO: Translation updated at 2023-07-14 22:47
 
 translate portuguese strings:
 
     # game/code/data/ib_characters.rpy:9
-    old "Zemfira"
-    new ""
-
-    # game/code/data/ib_characters.rpy:9
-    old "Power"
-    new ""
+    old "de la Cruz"
+    new "de la Cruz"
 
     # game/code/data/ib_characters.rpy:9
     old "Student"
-    new ""
-
-    # game/code/data/ib_characters.rpy:9
-    old "Computer Science & Design"
-    new ""
-
-    # game/code/data/ib_characters.rpy:9
-    old "Silvia"
-    new ""
-
-    # game/code/data/ib_characters.rpy:9
-    old "Melsbach"
-    new ""
-
-    # game/code/data/ib_characters.rpy:9
-    old "Business Administration"
-    new ""
-
-    # game/code/data/ib_characters.rpy:9
-    old "Nia"
-    new ""
-
-    # game/code/data/ib_characters.rpy:9
-    old "Vann"
-    new ""
-
-    # game/code/data/ib_characters.rpy:9
-    old "Pharmacology"
-    new ""
-
-    # game/code/data/ib_characters.rpy:9
-    old "Fleur Fifi"
-    new ""
-
-    # game/code/data/ib_characters.rpy:9
-    old "Lebeau"
-    new ""
-
-    # game/code/data/ib_characters.rpy:9
-    old "Computer Science"
-    new ""
-
-    # game/code/data/ib_characters.rpy:9
-    old "Nirmala"
-    new ""
-
-    # game/code/data/ib_characters.rpy:9
-    old "Riese"
-    new ""
-
-    # game/code/data/ib_characters.rpy:9
-    old "Architecture"
-    new ""
-
-    # game/code/data/ib_characters.rpy:9
-    old "Gaia"
-    new ""
-
-    # game/code/data/ib_characters.rpy:9
-    old "Nieri"
-    new ""
-
-    # game/code/data/ib_characters.rpy:9
-    old "Environmental Science"
-    new ""
-
-    # game/code/data/ib_characters.rpy:9
-    old "Foxy"
-    new ""
-
-    # game/code/data/ib_characters.rpy:9
-    old "Rehabilitation Therapy"
-    new ""
-
-    # game/code/data/ib_characters.rpy:9
-    old "Simon"
-    new ""
-
-    # game/code/data/ib_characters.rpy:9
-    old "Lowe"
-    new ""
-
-    # game/code/data/ib_characters.rpy:9
-    old "Sports Journalism"
-    new ""
-
-    # game/code/data/ib_characters.rpy:9
-    old "Iona"
-    new ""
-
-    # game/code/data/ib_characters.rpy:9
-    old "Riviera"
-    new ""
-
-    # game/code/data/ib_characters.rpy:9
-    old "Physics"
-    new ""
-
-    # game/code/data/ib_characters.rpy:9
-    old "Monika"
-    new ""
-
-    # game/code/data/ib_characters.rpy:9
-    old "Mallon"
-    new ""
-
-    # game/code/data/ib_characters.rpy:9
-    old "Theater Major"
-    new ""
-
-    # game/code/data/ib_characters.rpy:9
-    old "Brigitta"
-    new ""
-
-    # game/code/data/ib_characters.rpy:9
-    old "Adrichem"
-    new ""
-
-    # game/code/data/ib_characters.rpy:9
-    old "Nuclear Engineering"
-    new ""
-
-    # game/code/data/ib_characters.rpy:9
-    old "Olesya"
-    new ""
-
-    # game/code/data/ib_characters.rpy:9
-    old "Antonova"
-    new ""
-
-    # game/code/data/ib_characters.rpy:9
-    old "Fashion Design"
-    new ""
-
-    # game/code/data/ib_characters.rpy:9
-    old "Delphia"
-    new ""
-
-    # game/code/data/ib_characters.rpy:9
-    old "Kato"
-    new ""
-
-    # game/code/data/ib_characters.rpy:9
-    old "Greek Classics & Classical Studies"
-    new ""
-
-    # game/code/data/ib_characters.rpy:9
-    old "Irene"
-    new ""
-
-    # game/code/data/ib_characters.rpy:9
-    old "Jekyll"
-    new ""
-
-    # game/code/data/ib_characters.rpy:9
-    old "English Language & Literature"
-    new ""
-
-    # game/code/data/ib_characters.rpy:9
-    old "Eliina"
-    new ""
-
-    # game/code/data/ib_characters.rpy:9
-    old "Flanagon"
-    new ""
-
-    # game/code/data/ib_characters.rpy:9
-    old "Music"
-    new ""
-
-    # game/code/data/ib_characters.rpy:9
-    old "Josie"
-    new ""
-
-    # game/code/data/ib_characters.rpy:9
-    old "Hawthorne"
-    new ""
-
-    # game/code/data/ib_characters.rpy:9
-    old "Medical"
-    new ""
-
-    # game/code/data/ib_characters.rpy:9
-    old "Lara"
-    new ""
-
-    # game/code/data/ib_characters.rpy:9
-    old "Woods"
-    new ""
-
-    # game/code/data/ib_characters.rpy:9
-    old "Andrejz"
-    new ""
-
-    # game/code/data/ib_characters.rpy:9
-    old "Dittmar"
-    new ""
-
-    # game/code/data/ib_characters.rpy:9
-    old "High-ranking member in the self-help group"
-    new ""
-
-    # game/code/data/ib_characters.rpy:9
-    old "Sally"
-    new ""
-
-    # game/code/data/ib_characters.rpy:9
-    old "Daniels"
-    new ""
-
-    # game/code/data/ib_characters.rpy:9
-    old "Cashier at the butcher's shop"
-    new ""
-
-    # game/code/data/ib_characters.rpy:9
-    old "Greg"
-    new ""
-
-    # game/code/data/ib_characters.rpy:9
-    old "Butcher"
-    new ""
-
-    # game/code/data/ib_characters.rpy:9
-    old "????"
-    new ""
-
-    # game/code/data/ib_characters.rpy:9
-    old "The Artist"
-    new ""
-
-    # game/code/data/ib_characters.rpy:9
-    old "Artist"
-    new ""
-
-    # game/code/data/ib_characters.rpy:9
-    old "Diana"
-    new ""
-
-    # game/code/data/ib_characters.rpy:9
-    old "Mills"
-    new ""
-
-    # game/code/data/ib_characters.rpy:9
-    old "Faculty Advisor & History Professor"
-    new ""
-
-    # game/code/data/ib_characters.rpy:9
-    old "Shontai"
-    new ""
-
-    # game/code/data/ib_characters.rpy:9
-    old "Abel"
-    new ""
-
-    # game/code/data/ib_characters.rpy:9
-    old "Physical Education Teacher"
-    new ""
-
-    # game/code/data/ib_characters.rpy:9
-    old "Ronja"
-    new ""
-
-    # game/code/data/ib_characters.rpy:9
-    old "Hopkins"
-    new ""
-
-    # game/code/data/ib_characters.rpy:9
-    old "Chancellor & Chemistry Professor"
-    new ""
-
-    # game/code/data/ib_characters.rpy:9
-    old "Leia"
-    new ""
-
-    # game/code/data/ib_characters.rpy:9
-    old "de la Cruz"
-    new ""
+    new "Student"
 
     # game/code/data/ib_characters.rpy:9
     old "Law"
-    new ""
-
-    # game/code/data/ib_characters.rpy:9
-    old "Klara"
-    new ""
+    new "Law"
 
     # game/code/data/ib_characters.rpy:9
     old "Crawford"
-    new ""
+    new "Crawford"
 
     # game/code/data/ib_characters.rpy:9
     old "Economy"
-    new ""
+    new "Economy"
 
     # game/code/data/ib_characters.rpy:9
     old "Maria Francesca"
-    new ""
+    new "Maria Francesca"
 
     # game/code/data/ib_characters.rpy:9
     old "Krall"
-    new ""
+    new "Krall"
 
     # game/code/data/ib_characters.rpy:9
     old "History"
-    new ""
+    new "History"
 
-    # game/code/data/ib_characters.rpy:48
-    old "Gaia \"Lilith\""
-    new ""
+    # game/code/data/ib_characters.rpy:9
+    old "Power"
+    new "Power"
 
-    # game/code/data/ib_characters.rpy:48
-    old "Asami"
-    new ""
+    # game/code/data/ib_characters.rpy:9
+    old "Computer Science & Design"
+    new "Computer Science & Design"
+
+    # game/code/data/ib_characters.rpy:9
+    old "Melsbach"
+    new "Melsbach"
+
+    # game/code/data/ib_characters.rpy:9
+    old "Business Administration"
+    new "Business Administration"
+
+    # game/code/data/ib_characters.rpy:9
+    old "Vann"
+    new "Vann"
+
+    # game/code/data/ib_characters.rpy:9
+    old "Pharmacology"
+    new "Pharmacology"
+
+    # game/code/data/ib_characters.rpy:9
+    old "Fleur Fifi"
+    new "Fleur Fifi"
+
+    # game/code/data/ib_characters.rpy:9
+    old "Lebeau"
+    new "Lebeau"
+
+    # game/code/data/ib_characters.rpy:9
+    old "Computer Science"
+    new "Computer Science"
+
+    # game/code/data/ib_characters.rpy:9
+    old "Riese"
+    new "Riese"
+
+    # game/code/data/ib_characters.rpy:9
+    old "Architecture"
+    new "Architecture"
+
+    # game/code/data/ib_characters.rpy:9
+    old "Gaia"
+    new "Gaia"
+
+    # game/code/data/ib_characters.rpy:9
+    old "Nieri"
+    new "Nieri"
+
+    # game/code/data/ib_characters.rpy:9
+    old "Environmental Science"
+    new "Environmental Science"
+
+    # game/code/data/ib_characters.rpy:9
+    old "Rehabilitation Therapy"
+    new "Rehabilitation Therapy"
+
+    # game/code/data/ib_characters.rpy:9
+    old "Lowe"
+    new "Lowe"
+
+    # game/code/data/ib_characters.rpy:9
+    old "Sports Journalism"
+    new "Sports Journalism"
+
+    # game/code/data/ib_characters.rpy:9
+    old "Riviera"
+    new "Riviera"
+
+    # game/code/data/ib_characters.rpy:9
+    old "Physics"
+    new "Physics"
+
+    # game/code/data/ib_characters.rpy:9
+    old "Mallon"
+    new "Mallon"
+
+    # game/code/data/ib_characters.rpy:9
+    old "Theater Major"
+    new "Theater Major"
+
+    # game/code/data/ib_characters.rpy:9
+    old "Briggita"
+    new "Briggita"
+
+    # game/code/data/ib_characters.rpy:9
+    old "Adrichem"
+    new "Adrichem"
+
+    # game/code/data/ib_characters.rpy:9
+    old "Nuclear Engineering"
+    new "Nuclear Engineering"
+
+    # game/code/data/ib_characters.rpy:9
+    old "Antonova"
+    new "Antonova"
+
+    # game/code/data/ib_characters.rpy:9
+    old "Fashion Design"
+    new "Fashion Design"
+
+    # game/code/data/ib_characters.rpy:9
+    old "Kato"
+    new "Kato"
+
+    # game/code/data/ib_characters.rpy:9
+    old "Greek Classics & Classical Studies"
+    new "Greek Classics & Classical Studies"
+
+    # game/code/data/ib_characters.rpy:9
+    old "Jekyll"
+    new "Jekyll"
+
+    # game/code/data/ib_characters.rpy:9
+    old "English Language & Literature"
+    new "English Language & Literature"
+
+    # game/code/data/ib_characters.rpy:9
+    old "Flanagon"
+    new "Flanagon"
+
+    # game/code/data/ib_characters.rpy:9
+    old "Music"
+    new "Music"
+
+    # game/code/data/ib_characters.rpy:9
+    old "Hawthorne"
+    new "Hawthorne"
+
+    # game/code/data/ib_characters.rpy:9
+    old "Medical"
+    new "Medical"
+
+    # game/code/data/ib_characters.rpy:9
+    old "Woods"
+    new "Woods"
+
+    # game/code/data/ib_characters.rpy:9
+    old "Andrzej"
+    new "Andrzej"
+
+    # game/code/data/ib_characters.rpy:9
+    old "Dittmar"
+    new "Dittmar"
+
+    # game/code/data/ib_characters.rpy:9
+    old "High-ranking member in the self-help group"
+    new "High-ranking member in the self-help group"
+
+    # game/code/data/ib_characters.rpy:9
+    old "Daniels"
+    new "Daniels"
+
+    # game/code/data/ib_characters.rpy:9
+    old "Cashier at the butcher's shop"
+    new "Cashier at the butcher's shop"
+
+    # game/code/data/ib_characters.rpy:9
+    old "Butcher"
+    new "Butcher"
+
+    # game/code/data/ib_characters.rpy:9
+    old "????"
+    new "????"
+
+    # game/code/data/ib_characters.rpy:9
+    old "The Artist"
+    new "The Artist"
+
+    # game/code/data/ib_characters.rpy:9
+    old "Artist"
+    new "Artist"
+
+    # game/code/data/ib_characters.rpy:9
+    old "Diana"
+    new "Diana"
+
+    # game/code/data/ib_characters.rpy:9
+    old "Mills"
+    new "Mills"
+
+    # game/code/data/ib_characters.rpy:9
+    old "Faculty Advisor & History Professor"
+    new "Faculty Advisor & History Professor"
+
+    # game/code/data/ib_characters.rpy:9
+    old "Shontai"
+    new "Shontai"
+
+    # game/code/data/ib_characters.rpy:9
+    old "Abel"
+    new "Abel"
+
+    # game/code/data/ib_characters.rpy:9
+    old "Physical Education Teacher"
+    new "Physical Education Teacher"
+
+    # game/code/data/ib_characters.rpy:9
+    old "Ronja"
+    new "Ronja"
+
+    # game/code/data/ib_characters.rpy:9
+    old "Hopkins"
+    new "Hopkins"
+
+    # game/code/data/ib_characters.rpy:9
+    old "Chancellor & Chemistry Professor"
+    new "Chancellor & Chemistry Professor"
 
     # game/code/data/ib_characters.rpy:48
     old "Seki"
-    new ""
+    new "Seki"
 
     # game/code/data/ib_characters.rpy:48
     old "Chemistry/Pre-Med"
-    new ""
-
-    # game/code/data/ib_characters.rpy:48
-    old "Morgan"
-    new ""
+    new "Chemistry/Pre-Med"
 
     # game/code/data/ib_characters.rpy:48
     old "Garret"
-    new ""
-
-    # game/code/data/ib_characters.rpy:48
-    old "Isa"
-    new ""
+    new "Garret"
 
     # game/code/data/ib_characters.rpy:48
     old "McAdams"
-    new ""
+    new "McAdams"
 
     # game/code/data/ib_characters.rpy:48
     old "Political Science"
-    new ""
+    new "Political Science"
 
     # game/code/data/ib_characters.rpy:48
     old "Sam De"
-    new ""
+    new "Sam De"
 
     # game/code/data/ib_characters.rpy:48
     old "Lange"
-    new ""
-
-    # game/code/data/ib_characters.rpy:48
-    old "Lumi"
-    new ""
+    new "Lange"
 
     # game/code/data/ib_characters.rpy:48
     old "Love"
-    new ""
-
-    # game/code/data/ib_characters.rpy:48
-    old "Caspian"
-    new ""
+    new "Love"
 
     # game/code/data/ib_characters.rpy:48
     old "Harding"
-    new ""
-
-    # game/code/data/ib_characters.rpy:48
-    old "Xasan"
-    new ""
-
-    # game/code/data/ib_characters.rpy:48
-    old "Corinne"
-    new ""
+    new "Harding"
 
     # game/code/data/ib_characters.rpy:48
     old "Bunker"
-    new ""
+    new "Bunker"
 
     # game/code/data/ib_characters.rpy:48
-    old "Ezra Del"
-    new ""
+    old "Driver"
+    new "Driver"
 
     # game/code/data/ib_characters.rpy:48
-    old "Olmo"
-    new ""
-
-    # game/code/data/ib_characters.rpy:48
-    old "Ivy"
-    new ""
-
-    # game/code/data/ib_characters.rpy:48
-    old "Hagen"
-    new ""
-
-    # game/code/data/ib_characters.rpy:48
-    old "Guide/Manager"
-    new ""
-
-    # game/code/data/ib_characters.rpy:48
-    old "Cade"
-    new ""
-
-    # game/code/data/ib_characters.rpy:48
-    old "Rory"
-    new ""
-
-    # game/code/data/ib_characters.rpy:48
-    old "Grayson"
-    new ""
-
-    # game/code/data/ib_characters.rpy:48
-    old "Quentin"
-    new ""
-
-    # game/code/data/ib_characters.rpy:48
-    old "Hazel"
-    new ""
-
-    # game/code/data/ib_characters.rpy:48
-    old "Sabrina"
-    new ""
-
-    # game/code/data/ib_characters.rpy:48
-    old "Parker"
-    new ""
-
-    # game/code/data/ib_characters.rpy:48
-    old "Rival Team Spy"
-    new ""
-
-    # game/code/data/ib_characters.rpy:48
-    old "Winners Club"
-    new ""
-
-    # game/code/data/ib_characters.rpy:48
-    old "The Syndicate"
-    new ""
-
-    # game/code/data/ib_characters.rpy:48
-    old "Cult"
-    new ""
+    old "Bartender"
+    new "Bartender"
 

@@ -654,3 +654,11 @@ translate portuguese b1c03s05_6651ab87:
     # mc "Alright."
     mc "Beleza."
 
+# TODO: Translation updated at 2023-07-14 22:47
+
+translate portuguese strings:
+
+    # game/code/Book-1/Chapter-3/s05.rpy:398
+    old "Save your game here"
+    new "Save your game here"
+
