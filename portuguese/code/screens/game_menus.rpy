@@ -1,272 +1,272 @@
-﻿# TODO: Translation updated at 2023-06-27 18:35
+# TODO: Translation updated at 2023-06-27 18:35
 
 translate portuguese strings:
 
     # game/code/screens/game_menus.rpy:18
     old "About"
-    new ""
+    new "Sobre"
 
     # game/code/screens/game_menus.rpy:28
     old "Version [config.version!t]\n"
-    new ""
+    new "Version [config.version!t]\n"
 
     # game/code/screens/game_menus.rpy:33
     old "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
-    new ""
+    new "Desenvolvido usando {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
 
     # game/code/screens/game_menus.rpy:68
     old "Save"
-    new ""
+    new "Salvar"
 
     # game/code/screens/game_menus.rpy:75
     old "Load"
-    new ""
+    new "Carregar"
 
     # game/code/screens/game_menus.rpy:104
     old "Naming save file:"
-    new ""
+    new "Nomear arquivo de save:"
 
     # game/code/screens/game_menus.rpy:105
     old "Enabled"
-    new ""
+    new "Habilitado"
 
     # game/code/screens/game_menus.rpy:107
     old "Disabled"
-    new ""
+    new "desabilitado"
 
     # game/code/screens/game_menus.rpy:134
     old "{#file_time}%b %d %Y, %H:%M"
-    new ""
+    new "{#file_time}%b %d %Y, %H:%M"
 
     # game/code/screens/game_menus.rpy:134
     old "Empty Slot"
-    new ""
+    new "Slot Vazio"
 
     # game/code/screens/game_menus.rpy:148
     old "<"
-    new ""
+    new "<"
 
     # game/code/screens/game_menus.rpy:151
     old "{#auto_page}A"
-    new ""
+    new "{#auto_page}A"
 
     # game/code/screens/game_menus.rpy:154
     old "{#quick_page}Q"
-    new ""
+    new "{#quick_page}R"
 
     # game/code/screens/game_menus.rpy:159
     old ">"
-    new ""
+    new ">"
 
     # game/code/screens/game_menus.rpy:236
     old "Preferences"
-    new ""
+    new "Preferências"
 
     # game/code/screens/game_menus.rpy:247
     old "Display"
-    new ""
+    new "Display"
 
     # game/code/screens/game_menus.rpy:248
     old "Window"
-    new ""
+    new "Janela"
 
     # game/code/screens/game_menus.rpy:249
     old "Fullscreen"
-    new ""
+    new "Tela Cheia"
 
     # game/code/screens/game_menus.rpy:253
     old "Rollback Side"
-    new ""
+    new "Lado do Retorno"
 
     # game/code/screens/game_menus.rpy:255
     old "Left"
-    new ""
+    new "Esquerda"
 
     # game/code/screens/game_menus.rpy:256
     old "Right"
-    new ""
+    new "Direita"
 
     # game/code/screens/game_menus.rpy:260
     old "Skip"
-    new ""
+    new "Pulo"
 
     # game/code/screens/game_menus.rpy:261
     old "Unseen Text"
-    new ""
+    new "Texto Não-Lido"
 
     # game/code/screens/game_menus.rpy:262
     old "After Choices"
-    new ""
+    new "Após Escolhas"
 
     # game/code/screens/game_menus.rpy:263
     old "Transitions"
-    new ""
+    new "Transições"
 
     # game/code/screens/game_menus.rpy:273
     old "Text Speed"
-    new ""
+    new "Velocidade do Texto"
 
     # game/code/screens/game_menus.rpy:277
     old "Auto-Forward Time"
-    new ""
+    new "Tempo do Auto-Avançar"
 
     # game/code/screens/game_menus.rpy:284
     old "Music Volume"
-    new ""
+    new "Volume da Música"
 
     # game/code/screens/game_menus.rpy:291
     old "Sound Volume"
-    new ""
+    new "Volume do Som"
 
     # game/code/screens/game_menus.rpy:297
     old "Test"
-    new ""
+    new "Teste"
 
     # game/code/screens/game_menus.rpy:312
     old "Mute All"
-    new ""
+    new "Mutar Tudo"
 
     # game/code/screens/game_menus.rpy:435
     old "The dialogue history is empty."
-    new ""
+    new "O histórico de diálogo está vazio."
 
     # game/code/screens/game_menus.rpy:494
     old "Help"
-    new ""
+    new "Ajuda"
 
     # game/code/screens/game_menus.rpy:503
     old "Keyboard"
-    new ""
+    new "Teclado"
 
     # game/code/screens/game_menus.rpy:504
     old "Mouse"
-    new ""
+    new "Mouse"
 
     # game/code/screens/game_menus.rpy:507
     old "Gamepad"
-    new ""
+    new "Controle"
 
     # game/code/screens/game_menus.rpy:520
     old "Enter"
-    new ""
+    new "Enter"
 
     # game/code/screens/game_menus.rpy:521
     old "Advances dialogue and activates the interface."
-    new ""
+    new "Avança o diálogo e ativa a interface."
 
     # game/code/screens/game_menus.rpy:524
     old "Space"
-    new ""
+    new "Espaço"
 
     # game/code/screens/game_menus.rpy:525
     old "Advances dialogue without selecting choices."
-    new ""
+    new "Avança o diálogo sem selecionar escolhas."
 
     # game/code/screens/game_menus.rpy:528
     old "Arrow Keys"
-    new ""
+    new "Setas"
 
     # game/code/screens/game_menus.rpy:529
     old "Navigate the interface."
-    new ""
+    new "Navega a interface"
 
     # game/code/screens/game_menus.rpy:532
     old "Escape"
-    new ""
+    new "ESC"
 
     # game/code/screens/game_menus.rpy:533
     old "Accesses the game menu."
-    new ""
+    new "Acessa o menu do jogo."
 
     # game/code/screens/game_menus.rpy:536
     old "Ctrl"
-    new ""
+    new "Ctrl"
 
     # game/code/screens/game_menus.rpy:537
     old "Skips dialogue while held down."
-    new ""
+    new "Pula o diálogo enquanto é segurada."
 
     # game/code/screens/game_menus.rpy:540
     old "Tab"
-    new ""
+    new "Tab"
 
     # game/code/screens/game_menus.rpy:541
     old "Toggles dialogue skipping."
-    new ""
+    new "Habilita/Desabilita pulo de diálogo."
 
     # game/code/screens/game_menus.rpy:544
     old "Page Up"
-    new ""
+    new "Page Up"
 
     # game/code/screens/game_menus.rpy:545
     old "Rolls back to earlier dialogue."
-    new ""
+    new "Volta para um diálogo anterior."
 
     # game/code/screens/game_menus.rpy:548
     old "Page Down"
-    new ""
+    new "Page Down"
 
     # game/code/screens/game_menus.rpy:549
     old "Rolls forward to later dialogue."
-    new ""
+    new "Avança para um diálogo adiante."
 
     # game/code/screens/game_menus.rpy:553
     old "Hides the user interface."
-    new ""
+    new "Esconde a interface de usuário."
 
     # game/code/screens/game_menus.rpy:557
     old "Takes a screenshot."
-    new ""
+    new "Tira uma screenshot."
 
     # game/code/screens/game_menus.rpy:561
     old "Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
-    new ""
+    new "Habilita/Desabilita {a=https://www.renpy.org/l/voicing}voz automática{/a}."
 
     # game/code/screens/game_menus.rpy:567
     old "Left Click"
-    new ""
+    new "Botão Esquerdo"
 
     # game/code/screens/game_menus.rpy:571
     old "Middle Click"
-    new ""
+    new "Botão do Meio"
 
     # game/code/screens/game_menus.rpy:575
     old "Right Click"
-    new ""
+    new "Botão Direito"
 
     # game/code/screens/game_menus.rpy:579
     old "Mouse Wheel Up\nClick Rollback Side"
-    new ""
+    new "Roda do Mouse para Cima\nLado Para Clicar Para Retornar"
 
     # game/code/screens/game_menus.rpy:583
     old "Mouse Wheel Down"
-    new ""
+    new "Roda do Mouse Para Baixo"
 
     # game/code/screens/game_menus.rpy:590
     old "Right Trigger\nA/Bottom Button"
-    new ""
+    new "R2\nA/Botão de Baixo"
 
     # game/code/screens/game_menus.rpy:594
     old "Left Trigger\nLeft Shoulder"
-    new ""
+    new "L2\nL1"
 
     # game/code/screens/game_menus.rpy:598
     old "Right Shoulder"
-    new ""
+    new "R1"
 
     # game/code/screens/game_menus.rpy:603
     old "D-Pad, Sticks"
-    new ""
+    new "Direcional, Analógicos"
 
     # game/code/screens/game_menus.rpy:607
     old "Start, Guide"
-    new ""
+    new "Start, Guia"
 
     # game/code/screens/game_menus.rpy:611
     old "Y/Top Button"
-    new ""
+    new "Y/Botão de Cima"
 
     # game/code/screens/game_menus.rpy:614
     old "Calibrate"
-    new ""
+    new "Calibrar"
 
