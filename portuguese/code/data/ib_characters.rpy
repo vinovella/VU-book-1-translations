@@ -223,10 +223,6 @@ translate portuguese strings:
     new "Orientadora & Professora de História"
 
     # game/code/data/ib_characters.rpy:9
-    old "Shontai"
-    new "Shontae"
-
-    # game/code/data/ib_characters.rpy:9
     old "Abel"
     new "Abel"
 

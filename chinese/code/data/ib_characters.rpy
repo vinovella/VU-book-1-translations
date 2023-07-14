@@ -295,10 +295,6 @@ translate chinese strings:
     new "Faculty Advisor & History Professor"
 
     # game/code/data/ib_characters.rpy:9
-    old "Shontai"
-    new "Shontai"
-
-    # game/code/data/ib_characters.rpy:9
     old "Abel"
     new "Abel"
 

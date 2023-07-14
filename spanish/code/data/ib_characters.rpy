@@ -100,7 +100,7 @@ translate spanish strings:
 
     # game/code/data/ib_characters.rpy:9
     old "Iona"
-    new "iona"
+    new "Iona"
 
     # game/code/data/ib_characters.rpy:9
     old "Riviera"
@@ -160,11 +160,11 @@ translate spanish strings:
 
     # game/code/data/ib_characters.rpy:9
     old "Irene"
-    new "irene"
+    new "Irene"
 
     # game/code/data/ib_characters.rpy:9
     old "Jekyll"
-    new "jekyll"
+    new "Jekyll"
 
     # game/code/data/ib_characters.rpy:9
     old "English Language & Literature"
@@ -200,7 +200,7 @@ translate spanish strings:
 
     # game/code/data/ib_characters.rpy:9
     old "Woods"
-    new "Bosques"
+    new "Woods"
 
     # game/code/data/ib_characters.rpy:9
     old "Andrejz"
@@ -259,10 +259,6 @@ translate spanish strings:
     new "Consejero de la facultad y profesor de historia"
 
     # game/code/data/ib_characters.rpy:9
-    old "Shontai"
-    new "shontai"
-
-    # game/code/data/ib_characters.rpy:9
     old "Abel"
     new "Abel"
 
@@ -276,7 +272,7 @@ translate spanish strings:
 
     # game/code/data/ib_characters.rpy:9
     old "Hopkins"
-    new "hopkins"
+    new "Hopkins"
 
     # game/code/data/ib_characters.rpy:9
     old "Chancellor & Chemistry Professor"
@@ -312,7 +308,7 @@ translate spanish strings:
 
     # game/code/data/ib_characters.rpy:9
     old "Krall"
-    new "krall"
+    new "Krall"
 
     # game/code/data/ib_characters.rpy:9
     old "History"
@@ -368,7 +364,7 @@ translate spanish strings:
 
     # game/code/data/ib_characters.rpy:48
     old "Love"
-    new "Amor"
+    new "Love"
 
     # game/code/data/ib_characters.rpy:48
     old "Caspian"
