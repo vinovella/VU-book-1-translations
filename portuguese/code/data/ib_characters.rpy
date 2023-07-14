@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-07-14 22:47
+# TODO: Translation updated at 2023-07-14 22:47
 
 translate portuguese strings:
 
@@ -8,11 +8,11 @@ translate portuguese strings:
 
     # game/code/data/ib_characters.rpy:9
     old "Student"
-    new "Student"
+    new "Estudante"
 
     # game/code/data/ib_characters.rpy:9
     old "Law"
-    new "Law"
+    new "Direito"
 
     # game/code/data/ib_characters.rpy:9
     old "Crawford"
@@ -20,7 +20,7 @@ translate portuguese strings:
 
     # game/code/data/ib_characters.rpy:9
     old "Economy"
-    new "Economy"
+    new "Economia"
 
     # game/code/data/ib_characters.rpy:9
     old "Maria Francesca"
@@ -32,7 +32,7 @@ translate portuguese strings:
 
     # game/code/data/ib_characters.rpy:9
     old "History"
-    new "History"
+    new "História"
 
     # game/code/data/ib_characters.rpy:9
     old "Power"
@@ -40,7 +40,7 @@ translate portuguese strings:
 
     # game/code/data/ib_characters.rpy:9
     old "Computer Science & Design"
-    new "Computer Science & Design"
+    new "Ciência da Computação & Design"
 
     # game/code/data/ib_characters.rpy:9
     old "Melsbach"
@@ -48,7 +48,7 @@ translate portuguese strings:
 
     # game/code/data/ib_characters.rpy:9
     old "Business Administration"
-    new "Business Administration"
+    new "Administração de Negócios"
 
     # game/code/data/ib_characters.rpy:9
     old "Vann"
@@ -56,7 +56,7 @@ translate portuguese strings:
 
     # game/code/data/ib_characters.rpy:9
     old "Pharmacology"
-    new "Pharmacology"
+    new "Farmacologia"
 
     # game/code/data/ib_characters.rpy:9
     old "Fleur Fifi"
@@ -68,7 +68,7 @@ translate portuguese strings:
 
     # game/code/data/ib_characters.rpy:9
     old "Computer Science"
-    new "Computer Science"
+    new "Ciência da Computação"
 
     # game/code/data/ib_characters.rpy:9
     old "Riese"
@@ -76,7 +76,7 @@ translate portuguese strings:
 
     # game/code/data/ib_characters.rpy:9
     old "Architecture"
-    new "Architecture"
+    new "Arquitetura"
 
     # game/code/data/ib_characters.rpy:9
     old "Gaia"
@@ -88,11 +88,11 @@ translate portuguese strings:
 
     # game/code/data/ib_characters.rpy:9
     old "Environmental Science"
-    new "Environmental Science"
+    new "Ciência Ambiental"
 
     # game/code/data/ib_characters.rpy:9
     old "Rehabilitation Therapy"
-    new "Rehabilitation Therapy"
+    new "Terapia de Reabilitação"
 
     # game/code/data/ib_characters.rpy:9
     old "Lowe"
@@ -100,7 +100,7 @@ translate portuguese strings:
 
     # game/code/data/ib_characters.rpy:9
     old "Sports Journalism"
-    new "Sports Journalism"
+    new "Jornalismo Esportivo"
 
     # game/code/data/ib_characters.rpy:9
     old "Riviera"
@@ -108,7 +108,7 @@ translate portuguese strings:
 
     # game/code/data/ib_characters.rpy:9
     old "Physics"
-    new "Physics"
+    new "Física"
 
     # game/code/data/ib_characters.rpy:9
     old "Mallon"
@@ -116,11 +116,11 @@ translate portuguese strings:
 
     # game/code/data/ib_characters.rpy:9
     old "Theater Major"
-    new "Theater Major"
+    new "Teatro"
 
     # game/code/data/ib_characters.rpy:9
     old "Briggita"
-    new "Briggita"
+    new "Brigitta"
 
     # game/code/data/ib_characters.rpy:9
     old "Adrichem"
@@ -128,7 +128,7 @@ translate portuguese strings:
 
     # game/code/data/ib_characters.rpy:9
     old "Nuclear Engineering"
-    new "Nuclear Engineering"
+    new "Engenharia Nuclear"
 
     # game/code/data/ib_characters.rpy:9
     old "Antonova"
@@ -136,7 +136,7 @@ translate portuguese strings:
 
     # game/code/data/ib_characters.rpy:9
     old "Fashion Design"
-    new "Fashion Design"
+    new "Design de Moda"
 
     # game/code/data/ib_characters.rpy:9
     old "Kato"
@@ -144,7 +144,7 @@ translate portuguese strings:
 
     # game/code/data/ib_characters.rpy:9
     old "Greek Classics & Classical Studies"
-    new "Greek Classics & Classical Studies"
+    new "Clássicos Gregos & Estudos Clássicos"
 
     # game/code/data/ib_characters.rpy:9
     old "Jekyll"
@@ -152,7 +152,7 @@ translate portuguese strings:
 
     # game/code/data/ib_characters.rpy:9
     old "English Language & Literature"
-    new "English Language & Literature"
+    new "Inglês & Literatura"
 
     # game/code/data/ib_characters.rpy:9
     old "Flanagon"
@@ -160,7 +160,7 @@ translate portuguese strings:
 
     # game/code/data/ib_characters.rpy:9
     old "Music"
-    new "Music"
+    new "Música"
 
     # game/code/data/ib_characters.rpy:9
     old "Hawthorne"
@@ -168,7 +168,7 @@ translate portuguese strings:
 
     # game/code/data/ib_characters.rpy:9
     old "Medical"
-    new "Medical"
+    new "Medicina"
 
     # game/code/data/ib_characters.rpy:9
     old "Woods"
@@ -184,7 +184,7 @@ translate portuguese strings:
 
     # game/code/data/ib_characters.rpy:9
     old "High-ranking member in the self-help group"
-    new "High-ranking member in the self-help group"
+    new "Membro de alto escalão do grupo de autoajuda"
 
     # game/code/data/ib_characters.rpy:9
     old "Daniels"
@@ -192,11 +192,11 @@ translate portuguese strings:
 
     # game/code/data/ib_characters.rpy:9
     old "Cashier at the butcher's shop"
-    new "Cashier at the butcher's shop"
+    new "Caixa no açougue"
 
     # game/code/data/ib_characters.rpy:9
     old "Butcher"
-    new "Butcher"
+    new "Açougueiro"
 
     # game/code/data/ib_characters.rpy:9
     old "????"
@@ -204,11 +204,11 @@ translate portuguese strings:
 
     # game/code/data/ib_characters.rpy:9
     old "The Artist"
-    new "The Artist"
+    new "A Artista"
 
     # game/code/data/ib_characters.rpy:9
     old "Artist"
-    new "Artist"
+    new "Artista"
 
     # game/code/data/ib_characters.rpy:9
     old "Diana"
@@ -220,11 +220,11 @@ translate portuguese strings:
 
     # game/code/data/ib_characters.rpy:9
     old "Faculty Advisor & History Professor"
-    new "Faculty Advisor & History Professor"
+    new "Orientadora & Professora de História"
 
     # game/code/data/ib_characters.rpy:9
     old "Shontai"
-    new "Shontai"
+    new "Shontae"
 
     # game/code/data/ib_characters.rpy:9
     old "Abel"
@@ -232,7 +232,7 @@ translate portuguese strings:
 
     # game/code/data/ib_characters.rpy:9
     old "Physical Education Teacher"
-    new "Physical Education Teacher"
+    new "Professora de Educação Física"
 
     # game/code/data/ib_characters.rpy:9
     old "Ronja"
@@ -244,7 +244,7 @@ translate portuguese strings:
 
     # game/code/data/ib_characters.rpy:9
     old "Chancellor & Chemistry Professor"
-    new "Chancellor & Chemistry Professor"
+    new "Conselheira & Professora de Química"
 
     # game/code/data/ib_characters.rpy:48
     old "Seki"
@@ -252,7 +252,7 @@ translate portuguese strings:
 
     # game/code/data/ib_characters.rpy:48
     old "Chemistry/Pre-Med"
-    new "Chemistry/Pre-Med"
+    new "Química/Pré-Medicina"
 
     # game/code/data/ib_characters.rpy:48
     old "Garret"
@@ -264,7 +264,7 @@ translate portuguese strings:
 
     # game/code/data/ib_characters.rpy:48
     old "Political Science"
-    new "Political Science"
+    new "Ciência da Política"
 
     # game/code/data/ib_characters.rpy:48
     old "Sam De"
