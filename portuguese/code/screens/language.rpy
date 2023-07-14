@@ -4,5 +4,5 @@ translate portuguese strings:
 
     # game/code/screens/language.rpy:7
     old "Switch Language"
-    new ""
+    new "Mudar Idioma"
 
