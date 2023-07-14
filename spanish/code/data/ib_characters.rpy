@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-07-12 12:41
+# TODO: Translation updated at 2023-07-12 12:41
 
 translate spanish strings:
 
@@ -12,11 +12,11 @@ translate spanish strings:
 
     # game/code/data/ib_characters.rpy:9
     old "Student"
-    new "Student"
+    new "Estudiante"
 
     # game/code/data/ib_characters.rpy:9
     old "Computer Science & Design"
-    new "Computer Science & Design"
+    new "Informática y Diseño"
 
     # game/code/data/ib_characters.rpy:9
     old "Silvia"
@@ -28,11 +28,11 @@ translate spanish strings:
 
     # game/code/data/ib_characters.rpy:9
     old "Business Administration"
-    new "Business Administration"
+    new "Administración de Empresas"
 
     # game/code/data/ib_characters.rpy:9
     old "Nia"
-    new "Nia"
+    new "Nía"
 
     # game/code/data/ib_characters.rpy:9
     old "Vann"
@@ -40,7 +40,7 @@ translate spanish strings:
 
     # game/code/data/ib_characters.rpy:9
     old "Pharmacology"
-    new "Pharmacology"
+    new "Farmacología"
 
     # game/code/data/ib_characters.rpy:9
     old "Fleur Fifi"
@@ -52,7 +52,7 @@ translate spanish strings:
 
     # game/code/data/ib_characters.rpy:9
     old "Computer Science"
-    new "Computer Science"
+    new "Ciencias de la Computación"
 
     # game/code/data/ib_characters.rpy:9
     old "Nirmala"
@@ -64,7 +64,7 @@ translate spanish strings:
 
     # game/code/data/ib_characters.rpy:9
     old "Architecture"
-    new "Architecture"
+    new "Arquitectura"
 
     # game/code/data/ib_characters.rpy:9
     old "Gaia"
@@ -76,7 +76,7 @@ translate spanish strings:
 
     # game/code/data/ib_characters.rpy:9
     old "Environmental Science"
-    new "Environmental Science"
+    new "Ciencia medioambiental"
 
     # game/code/data/ib_characters.rpy:9
     old "Foxy"
@@ -84,11 +84,11 @@ translate spanish strings:
 
     # game/code/data/ib_characters.rpy:9
     old "Rehabilitation Therapy"
-    new "Rehabilitation Therapy"
+    new "Terapia de rehabilitación"
 
     # game/code/data/ib_characters.rpy:9
     old "Simon"
-    new "Simon"
+    new "Simón"
 
     # game/code/data/ib_characters.rpy:9
     old "Lowe"
@@ -96,11 +96,11 @@ translate spanish strings:
 
     # game/code/data/ib_characters.rpy:9
     old "Sports Journalism"
-    new "Sports Journalism"
+    new "Periodismo Deportivo"
 
     # game/code/data/ib_characters.rpy:9
     old "Iona"
-    new "Iona"
+    new "iona"
 
     # game/code/data/ib_characters.rpy:9
     old "Riviera"
@@ -108,19 +108,19 @@ translate spanish strings:
 
     # game/code/data/ib_characters.rpy:9
     old "Physics"
-    new "Physics"
+    new "Física"
 
     # game/code/data/ib_characters.rpy:9
     old "Monika"
-    new "Monika"
+    new "Mónica"
 
     # game/code/data/ib_characters.rpy:9
     old "Mallon"
-    new "Mallon"
+    new "Mallón"
 
     # game/code/data/ib_characters.rpy:9
     old "Theater Major"
-    new "Theater Major"
+    new "Especialización en Teatro"
 
     # game/code/data/ib_characters.rpy:9
     old "Brigitta"
@@ -132,7 +132,7 @@ translate spanish strings:
 
     # game/code/data/ib_characters.rpy:9
     old "Nuclear Engineering"
-    new "Nuclear Engineering"
+    new "Ingeniería Nuclear"
 
     # game/code/data/ib_characters.rpy:9
     old "Olesya"
@@ -144,7 +144,7 @@ translate spanish strings:
 
     # game/code/data/ib_characters.rpy:9
     old "Fashion Design"
-    new "Fashion Design"
+    new "Diseño de moda"
 
     # game/code/data/ib_characters.rpy:9
     old "Delphia"
@@ -156,19 +156,19 @@ translate spanish strings:
 
     # game/code/data/ib_characters.rpy:9
     old "Greek Classics & Classical Studies"
-    new "Greek Classics & Classical Studies"
+    new "Clásicos griegos y estudios clásicos"
 
     # game/code/data/ib_characters.rpy:9
     old "Irene"
-    new "Irene"
+    new "irene"
 
     # game/code/data/ib_characters.rpy:9
     old "Jekyll"
-    new "Jekyll"
+    new "jekyll"
 
     # game/code/data/ib_characters.rpy:9
     old "English Language & Literature"
-    new "English Language & Literature"
+    new "Lengua y Literatura Inglesas"
 
     # game/code/data/ib_characters.rpy:9
     old "Eliina"
@@ -180,7 +180,7 @@ translate spanish strings:
 
     # game/code/data/ib_characters.rpy:9
     old "Music"
-    new "Music"
+    new "Música"
 
     # game/code/data/ib_characters.rpy:9
     old "Josie"
@@ -192,7 +192,7 @@ translate spanish strings:
 
     # game/code/data/ib_characters.rpy:9
     old "Medical"
-    new "Medical"
+    new "Médico"
 
     # game/code/data/ib_characters.rpy:9
     old "Lara"
@@ -200,7 +200,7 @@ translate spanish strings:
 
     # game/code/data/ib_characters.rpy:9
     old "Woods"
-    new "Woods"
+    new "Bosques"
 
     # game/code/data/ib_characters.rpy:9
     old "Andrejz"
@@ -212,7 +212,7 @@ translate spanish strings:
 
     # game/code/data/ib_characters.rpy:9
     old "High-ranking member in the self-help group"
-    new "High-ranking member in the self-help group"
+    new "Miembro de alto rango en el grupo de autoayuda"
 
     # game/code/data/ib_characters.rpy:9
     old "Sally"
@@ -224,7 +224,7 @@ translate spanish strings:
 
     # game/code/data/ib_characters.rpy:9
     old "Cashier at the butcher's shop"
-    new "Cashier at the butcher's shop"
+    new "Cajera en la carnicería"
 
     # game/code/data/ib_characters.rpy:9
     old "Greg"
@@ -232,7 +232,7 @@ translate spanish strings:
 
     # game/code/data/ib_characters.rpy:9
     old "Butcher"
-    new "Butcher"
+    new "Carnicero"
 
     # game/code/data/ib_characters.rpy:9
     old "????"
@@ -240,11 +240,11 @@ translate spanish strings:
 
     # game/code/data/ib_characters.rpy:9
     old "The Artist"
-    new "The Artist"
+    new "El artista"
 
     # game/code/data/ib_characters.rpy:9
     old "Artist"
-    new "Artist"
+    new "Artista"
 
     # game/code/data/ib_characters.rpy:9
     old "Diana"
@@ -256,11 +256,11 @@ translate spanish strings:
 
     # game/code/data/ib_characters.rpy:9
     old "Faculty Advisor & History Professor"
-    new "Faculty Advisor & History Professor"
+    new "Consejero de la facultad y profesor de historia"
 
     # game/code/data/ib_characters.rpy:9
     old "Shontai"
-    new "Shontai"
+    new "shontai"
 
     # game/code/data/ib_characters.rpy:9
     old "Abel"
@@ -268,7 +268,7 @@ translate spanish strings:
 
     # game/code/data/ib_characters.rpy:9
     old "Physical Education Teacher"
-    new "Physical Education Teacher"
+    new "Profesor de educación física"
 
     # game/code/data/ib_characters.rpy:9
     old "Ronja"
@@ -276,15 +276,15 @@ translate spanish strings:
 
     # game/code/data/ib_characters.rpy:9
     old "Hopkins"
-    new "Hopkins"
+    new "hopkins"
 
     # game/code/data/ib_characters.rpy:9
     old "Chancellor & Chemistry Professor"
-    new "Chancellor & Chemistry Professor"
+    new "Canciller y Profesor de Química"
 
     # game/code/data/ib_characters.rpy:9
     old "Leia"
-    new "Leia"
+    new "Leía"
 
     # game/code/data/ib_characters.rpy:9
     old "de la Cruz"
@@ -292,7 +292,7 @@ translate spanish strings:
 
     # game/code/data/ib_characters.rpy:9
     old "Law"
-    new "Law"
+    new "Ley"
 
     # game/code/data/ib_characters.rpy:9
     old "Klara"
@@ -304,19 +304,19 @@ translate spanish strings:
 
     # game/code/data/ib_characters.rpy:9
     old "Economy"
-    new "Economy"
+    new "Economía"
 
     # game/code/data/ib_characters.rpy:9
     old "Maria Francesca"
-    new "Maria Francesca"
+    new "María Francesca"
 
     # game/code/data/ib_characters.rpy:9
     old "Krall"
-    new "Krall"
+    new "krall"
 
     # game/code/data/ib_characters.rpy:9
     old "History"
-    new "History"
+    new "Historial"
 
     # game/code/data/ib_characters.rpy:48
     old "Gaia \"Lilith\""
@@ -332,7 +332,7 @@ translate spanish strings:
 
     # game/code/data/ib_characters.rpy:48
     old "Chemistry/Pre-Med"
-    new "Chemistry/Pre-Med"
+    new "Química/Pre-Medicina"
 
     # game/code/data/ib_characters.rpy:48
     old "Morgan"
@@ -340,7 +340,7 @@ translate spanish strings:
 
     # game/code/data/ib_characters.rpy:48
     old "Garret"
-    new "Garret"
+    new "Desván"
 
     # game/code/data/ib_characters.rpy:48
     old "Isa"
@@ -352,11 +352,11 @@ translate spanish strings:
 
     # game/code/data/ib_characters.rpy:48
     old "Political Science"
-    new "Political Science"
+    new "Ciencias Políticas"
 
     # game/code/data/ib_characters.rpy:48
     old "Sam De"
-    new "Sam De"
+    new "sam De"
 
     # game/code/data/ib_characters.rpy:48
     old "Lange"
@@ -368,11 +368,11 @@ translate spanish strings:
 
     # game/code/data/ib_characters.rpy:48
     old "Love"
-    new "Love"
+    new "Amor"
 
     # game/code/data/ib_characters.rpy:48
     old "Caspian"
-    new "Caspian"
+    new "Caspio"
 
     # game/code/data/ib_characters.rpy:48
     old "Harding"
@@ -388,7 +388,7 @@ translate spanish strings:
 
     # game/code/data/ib_characters.rpy:48
     old "Bunker"
-    new "Bunker"
+    new "Búnker"
 
     # game/code/data/ib_characters.rpy:48
     old "Ezra Del"
@@ -408,7 +408,7 @@ translate spanish strings:
 
     # game/code/data/ib_characters.rpy:48
     old "Guide/Manager"
-    new "Guide/Manager"
+    new "Guía/Gerente"
 
     # game/code/data/ib_characters.rpy:48
     old "Cade"
@@ -440,17 +440,17 @@ translate spanish strings:
 
     # game/code/data/ib_characters.rpy:48
     old "Rival Team Spy"
-    new "Rival Team Spy"
+    new "Espía del equipo rival"
 
     # game/code/data/ib_characters.rpy:48
     old "Winners Club"
-    new "Winners Club"
+    new "Club de Ganadores"
 
     # game/code/data/ib_characters.rpy:48
     old "The Syndicate"
-    new "The Syndicate"
+    new "El Sindicato"
 
     # game/code/data/ib_characters.rpy:48
     old "Cult"
-    new "Cult"
+    new "Culto"
 
