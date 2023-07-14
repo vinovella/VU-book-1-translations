@@ -4,7 +4,7 @@ translate portuguese strings:
 
     # game/code/data/characters.rpy:6
     old "You"
-    new "You"
+    new "Você"
 
     # game/code/data/characters.rpy:9
     old "Maria"
@@ -32,7 +32,7 @@ translate portuguese strings:
 
     # game/code/data/characters.rpy:35
     old "Past Corinne"
-    new "Past Corinne"
+    new "Corinne do Passado"
 
     # game/code/data/characters.rpy:36
     old "Ridley"
@@ -60,7 +60,7 @@ translate portuguese strings:
 
     # game/code/data/characters.rpy:58
     old "Captain"
-    new "Captain"
+    new "Capitão"
 
     # game/code/data/characters.rpy:59
     old "Helen Desmond"
@@ -76,7 +76,7 @@ translate portuguese strings:
 
     # game/code/data/characters.rpy:64
     old "Mother"
-    new "Mother"
+    new "Mãe"
 
     # game/code/data/characters.rpy:65
     old "Lauren"
@@ -124,7 +124,7 @@ translate portuguese strings:
 
     # game/code/data/characters.rpy:21
     old "Brigitta"
-    new "Brigitta"
+    new "Brigita"
 
     # game/code/data/characters.rpy:22
     old "Simon"
