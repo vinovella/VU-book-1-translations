@@ -124,7 +124,7 @@ translate portuguese strings:
 
     # game/code/data/characters.rpy:21
     old "Brigitta"
-    new "Brigita"
+    new "Brigitta"
 
     # game/code/data/characters.rpy:22
     old "Simon"
