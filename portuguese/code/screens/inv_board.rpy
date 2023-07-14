@@ -35,5 +35,5 @@ translate portuguese strings:
     new "-- Descrição --"
 
     # game/code/screens/inv_board.rpy:193
-    old "[i.desc]"
-    new "[i.desc]"
+    old "[i.desc!t]"
+    new "[i.desc!t]"

@@ -31,8 +31,8 @@ translate chinese strings:
     new "-- Description --"
 
     # game/code/screens/inv_board.rpy:181
-    old "[i.desc]"
-    new "[i.desc]"
+    old "[i.desc!t]"
+    new "[i.desc!t]"
 
 # TODO: Translation updated at 2023-06-27 18:33
 
