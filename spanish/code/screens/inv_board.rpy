@@ -11,24 +11,24 @@ translate spanish strings:
     new "Borrar todo"
 
     # game/code/screens/inv_board.rpy:165
-    old "Name : [i.full_name]"
-    new "Nombre: [i.full_name]"
+    old "Name : [i.full_name!t]"
+    new "Nombre: [i.full_name!t]"
 
     # game/code/screens/inv_board.rpy:166
-    old "Age : [i.age]"
-    new "Edad: [i.age]"
+    old "Age : [i.age!t]"
+    new "Edad: [i.age!t]"
 
     # game/code/screens/inv_board.rpy:167
-    old "Occupation : [i.occupation]"
-    new "Ocupación: [i.occupation]"
+    old "Occupation : [i.occupation!t]"
+    new "Ocupación: [i.occupation!t]"
 
     # game/code/screens/inv_board.rpy:169
-    old "Major : [i.major]"
-    new "Alcalde: [i.major]"
+    old "Major : [i.major!t]"
+    new "Alcalde: [i.major!t]"
 
     # game/code/screens/inv_board.rpy:171
-    old "Group Name : [i.full_name]"
-    new "Nombre del grupo: [i.full_name]"
+    old "Group Name : [i.full_name!t]"
+    new "Nombre del grupo: [i.full_name!t]"
 
     # game/code/screens/inv_board.rpy:175
     old "-- Description --"
@@ -37,4 +37,3 @@ translate spanish strings:
     # game/code/screens/inv_board.rpy:193
     old "[i.desc]"
     new "[i.desc]"
-
