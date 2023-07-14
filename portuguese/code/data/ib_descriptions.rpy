@@ -1,632 +1,632 @@
-﻿# TODO: Translation updated at 2023-06-27 18:35
+# TODO: Translation updated at 2023-06-27 18:35
 
 translate portuguese strings:
 
     # game/code/data/ib_descriptions.rpy:2
     old "The group that Klara was involved with. A prestigious and exclusive fraternity of rich and/or famous kids."
-    new ""
+    new "O grupo no qual Klara está envolvida. Um grupo prestigioso e exclusivo frequentado por crianças ricas e/ou famosas."
 
     # game/code/data/ib_descriptions.rpy:2
     old "The three girls went missing at one of their private parties."
-    new ""
+    new "As três garotas sumiram numa das festas particulares deles."
 
     # game/code/data/ib_descriptions.rpy:2
     old "A gang that Leia was involved with."
-    new ""
+    new "Uma gangue que Leia fazia parte."
 
     # game/code/data/ib_descriptions.rpy:2
     old "The gang profits from a betting system that involves 'favors' and illegal fighting."
-    new ""
+    new "A gangue lucra com um sistema de aposta que envolve 'favores' e lutas ilegais."
 
     # game/code/data/ib_descriptions.rpy:2
     old "The cult that Maria was involved with."
-    new ""
+    new "O culto no qual Maria estava envolvida."
 
     # game/code/data/ib_descriptions.rpy:2
     old "The lower ranks of the cult are disguised as a self-improvement group."
-    new ""
+    new "As posições mais baixas do grupo se disfarçam como um grupo de autoajuda."
 
     # game/code/data/ib_descriptions.rpy:2
     old "The cult encourages sexual activities and holds breeding rituals."
-    new ""
+    new "O culto encoraja atividades sexuais e pratica rituais de procriação."
 
     # game/code/data/ib_descriptions.rpy:2
     old "The cult tried to take Sally's child away."
-    new ""
+    new "O culto tentou levar a criança da Sally."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Went missing February 15th during the Winner's Club party"
-    new ""
+    new "Sumiu em 15 de fevereiro durante a festa do Clube dos Vencedores"
 
     # game/code/data/ib_descriptions.rpy:2
     old "Used to be Nia's Guide."
-    new ""
+    new "Era a Guia da Nia."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Modeled for the artist."
-    new ""
+    new "Serviu de modelo para a artista."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Maria was a substantial member of the inner circle in the self-help group."
-    new ""
+    new "Maria era membro importante do pessoal mais interno do grupo de autoajuda."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Was a part of intense {i}rituals{/i} within the self-help group and enjoyed participating in them."
-    new ""
+    new "Fazia parte de intensos {i}rituais{/i} dentro do grupo de autoajuda e gostava de participar neles."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Worked as a part-time model and actress"
-    new ""
+    new "Trabalhava em meio período como modelo e atriz."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Leia used to track people's debt to the Syndicate."
-    new ""
+    new "Leia antigamente cuidava das dívidas das pessoas com o Sindicato."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Involved with the Winner's Club"
-    new ""
+    new "Envolvida com o Clube dos Vencedores."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Got mentoring from Diana Mills."
-    new ""
+    new "Recebeu orientação da Diana Mills."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Captain of the volleyball team."
-    new ""
+    new "Capitã do time de vôlei."
 
     # game/code/data/ib_descriptions.rpy:2
     old "A friend of Klara."
-    new ""
+    new "Amiga da Klara."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Orphaned. Was involved with a bad crowd."
-    new ""
+    new "Órfã. Se envolveu com um pessoal ruim."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Took over Klara's responsibilities in the volleyball team."
-    new ""
+    new "Ficou com as responsabilidades da Klara no time de vôlei."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Simon has asked her out multiple times."
-    new ""
+    new "Simon chamou ela para sair várias vezes."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Does not have enough power within the Winner's Group to allow outsiders to come in or choose new candidates."
-    new ""
+    new "Não tem influência o suficiente no Clube dos Vencedores para permitir que estranhos entrem ou escolher novos candidatos."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Andrejz and Silvia used to date."
-    new ""
+    new "Andrejz e Silvia namoravam."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Silvia has a past that she's not entirely comfortable discussing. She used to be part of the self-help group and dated Andrejz."
-    new ""
+    new "Silvia tem um passado que ela não está com muita vontade de discutir. Fazia parte do grupo de autoajuda e namorou Andrejz."
 
     # game/code/data/ib_descriptions.rpy:2
     old "A friend of Leia."
-    new ""
+    new "Amiga da Leia."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Friends with Simon."
-    new ""
+    new "Amiga do Simon."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Attends the shooting range often."
-    new ""
+    new "Faz muitas visitas à estande de tiro."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Controlling family."
-    new ""
+    new "Família controladora."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Took over Leia's responsibilities within a secret PVP community."
-    new ""
+    new "Ficou com as responsabilidades da Leia dentro da comunidade secreta de PVP."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Has high enough clearance to enter the Guns n' Rosette bar through the employee only door."
-    new ""
+    new "Tem credenciais altas o suficiente para entrar no bar Guns n' Rosette pela porta dos funcionários."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Zemfira is technically a member of the Winner's Club, but prefers to be in her current group."
-    new ""
+    new "Zemfira tecnicamente faz parte do Clube dos Vencedores, mas prefere ficar no grupo atual."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Zemfira used to be friends with Brigitta, but had a falling out."
-    new ""
+    new "Zemfira era amiga da Brigita, mas brigaram."
 
     # game/code/data/ib_descriptions.rpy:2
     old "A friend of Maria."
-    new ""
+    new "Amiga da Maria."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Interested in tattoos and art. Dislikes her major."
-    new ""
+    new "Interessadas em tatuagens e arte. Não gosta do curso."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Part of a self-help group."
-    new ""
+    new "Parte do grupo de autoajuda."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Close friends with Maria."
-    new ""
+    new "Amiga próxima da Maria."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Has a forceful brother named Xasan."
-    new ""
+    new "Tem um irmão agressivo chamado Xasan."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Part of an inner circle within the self-help group."
-    new ""
+    new "Parte do pessoal interno do grupo de autoajuda."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Good friends with Delphia."
-    new ""
+    new "Amiga próxima da Delphia."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Nia seems to have been severely affected by Maria's disappearance."
-    new ""
+    new "Parece que Nia foi muito afetada pelo desparecimento da Maria."
 
     # game/code/data/ib_descriptions.rpy:2
     old "My dorm neighbor."
-    new ""
+    new "Minha vizinha de quarto."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Theater actor. Knows Nia."
-    new ""
+    new "Atriz de teatro. Conhece Nia."
 
     # game/code/data/ib_descriptions.rpy:2
     old "She is the guide of Nia and me."
-    new ""
+    new "Ela é Guia minha e da Nia."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Has a tattoo that's similar to the logo on the self-help workbooks."
-    new ""
+    new "Tem uma tatuagem semelhante ao logotipo do grupo de autoajuda."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Friends with Zemfira."
-    new ""
+    new "Amiga com Zemfira."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Simon has asked Silvia out multiple times."
-    new ""
+    new "Simon chamou Silvia para sair várias vezes."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Knows my real name."
-    new ""
+    new "Conhece meu nome verdadeiro."
 
     # game/code/data/ib_descriptions.rpy:2
     old "My roommate."
-    new ""
+    new "Minha colega de quarto."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Transgender"
-    new ""
+    new "Transgênero"
 
     # game/code/data/ib_descriptions.rpy:2
     old "Josie sleepwalks."
-    new ""
+    new "Josie é sonâmbula."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Blind. Best friends with Josie."
-    new ""
+    new "Cega. Melhor amiga da Josie."
 
     # game/code/data/ib_descriptions.rpy:2
     old "My other roommate."
-    new ""
+    new "Minha outra colega de quarto."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Only person aware of the investigation."
-    new ""
+    new "Só uma pessoa sabe da investigação."
 
     # game/code/data/ib_descriptions.rpy:2
     old "My on-campus contact."
-    new ""
+    new "Meu contato no campus."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Mentored Klara."
-    new ""
+    new "Orientou Klara."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Saw me and Ronja together in our late night tryst."
-    new ""
+    new "Viu eu e Ronja juntos na nossa saidinha de noite."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Helper at campus library."
-    new ""
+    new "Ajuda na biblioteca do campus."
 
     # game/code/data/ib_descriptions.rpy:2
     old "A friend of Nia and Maria."
-    new ""
+    new "Amiga da Nia e Maria."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Signs on new members of the self-help group."
-    new ""
+    new "Traz membros novos para o grupo de autoajuda."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Irene is Eliina's Guide."
-    new ""
+    new "Irena é Guia da Eliina."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Irene is also Lumi's Guide."
-    new ""
+    new "Irene também é Guia da Lumi."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Irene knows about a secret entrance in the library."
-    new ""
+    new "Irene conhece uma entrada secreta na biblioteca."
 
     # game/code/data/ib_descriptions.rpy:2
     old "On the volleyball team."
-    new ""
+    new "No time de vôlei."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Iona uses cocaine. I wonder where she gets her supply from?"
-    new ""
+    new "Iona usa cocaína. Onde será que ela consegue isso?"
 
     # game/code/data/ib_descriptions.rpy:2
     old "Swim and volleyball coach. Mentors Silvia."
-    new ""
+    new "Treinadora do time de vôlei e natação. Orientadora da Silvia."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Volleyball teammate."
-    new ""
+    new "Colega do time de vôlei."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Theater actor."
-    new ""
+    new "Atriz de teatro."
 
     # game/code/data/ib_descriptions.rpy:2
     old "There seems to be some tension between her and Monika."
-    new ""
+    new "Parece que tem certa tensão entre ela e Monika."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Oleysa is noticeably absent from the party. Need to find out why."
-    new ""
+    new "Oleysa não se encontra na festa. Preciso descobrir por quê."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Apparently was almost expelled due to some trouble with \"illicit substances\", at least according to Ronja."
-    new ""
+    new "Aparentemente quase foi expulsa por certos problemas com \"substâncias ilegais\", pelo menos de acordo com Ronja."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Actively hostile."
-    new ""
+    new "Ativamente hostil."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Attends a place called \"Guns n' Rosette\"."
-    new ""
+    new "Frequenta um lugar chamado \"Guns n' Rosette\"."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Fleur has an unknown responsibility."
-    new ""
+    new "Fleur tem uma responsabilidade desconhecida."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Fleur and Lilith were childhood friends."
-    new ""
+    new "Fleur e Lilith são amigas de infância."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Fleur is friends with Asami."
-    new ""
+    new "Fleur é amiga da Asami."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Has the clearance to enter the back room of the Guns n' Rosette bar."
-    new ""
+    new "Tem permissão para entrar na parte de trás do bar Guns n' Rosette."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Fleur is friends and roommates with Eliina."
-    new ""
+    new "Fleur é amiga e colega de quarto da Eliina."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Fleur had an explicit stream of Sabrina on her Laptop."
-    new ""
+    new "Fleur tinha uma live explícita da Sabrina no seu notebook."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Fleur is managing a server for some sort of streams."
-    new ""
+    new "Fleur está gerenciando um servidor de algum tipo de live."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Foxy is higher in ranking than Fleur. Has enough clearance to let people into the fight club."
-    new ""
+    new "Foxy tem uma posição acima de Fleur. Tem permissão o bastante para deixar pessoas entrarem no clube de luta."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Foxy is the hype-man for the fights."
-    new ""
+    new "Foxy serve de animadora nas lutas."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Friends with Fleur and Zemfira."
-    new ""
+    new "Amiga de Fleur e Zemfira."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Has seen me and Phoebe kissing in the park. Potential real identity explosion risk."
-    new ""
+    new "Viu eu e Phoebe beijando no parque. Possível risco de descobrir identidade verdadeira."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Asami and Lilith are event coordinators for their group."
-    new ""
+    new "Asami e Lilith sã coordenadora de eventos de seu grupo."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Friends with Zemfira and Fleur."
-    new ""
+    new "Amiga de Zemfira e Fleur."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Was sentenced imprisonment because of physically assaulting someone."
-    new ""
+    new "Foi sentenciada a prisão por agredir alguém."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Morgan and Corinne are half sisters."
-    new ""
+    new "Morgan e Corine são meias-irmãs."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Corinne will exchange information if I help her get in contact with Morgan."
-    new ""
+    new "Corine vai dar informações se eu ajudar ela a entrar em contato com Morgan."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Corinne Bunker was part of the Syndicate."
-    new ""
+    new "Corine Bunker fazia parte do Sindicato."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Knows Zemfira."
-    new ""
+    new "Conhece Zemfira."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Morgan is involved in matches."
-    new ""
+    new "Morgan está envolvida em lutas."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Morgan knows Nirmala."
-    new ""
+    new "Morgan conhece Nirmala."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Morgan is a fighter in an illegal fight club."
-    new ""
+    new "Morgan luta num clube de luta ilegal."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Corinne has something to do with the amount of debt Morgan's in."
-    new ""
+    new "Corinne tem algo a ver com o tanto de dívidas que a Morgan tem."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Morgan is willing to help you if you help her with her debt."
-    new ""
+    new "Morgan está disposta a ajudá-lo se você a ajudar com sua dívida."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Morgan is indebted to an organization called The Syndicate."
-    new ""
+    new "Morgan está endividada com uma organização chamada O Sindicato."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Friends with Morgan. Cori's assault victim."
-    new ""
+    new "Amiga de Morgan. Vítima do ataque de Cori."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Rory is indebted to the enemy gang Cade is involved with."
-    new ""
+    new "Rory está endividada com a gangue inimiga da de Cade."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Cade is involved with a gang."
-    new ""
+    new "Cade está envolvido com uma gangue."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Sabrina's ex-boyfriend."
-    new ""
+    new "Ex-namorado da Sabrina."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Cade is the \"collector\" for a gang."
-    new ""
+    new "Cade é o \"cobrador\" de uma gangue."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Cade is the \"collector\" for a gang called The Wasps."
-    new ""
+    new "Cade é o \"cobrador\" de uma gangue chamada As Vespas."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Connected to Zemfira. Performs \"favors\"."
-    new ""
+    new "Tem relação com Zemfira. Faz \"favores\"."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Friends with Quentin and Sabrina"
-    new ""
+    new "Amiga de Quentin e Sabrina."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Nirmala performs \"favors\" to pay off her betting debt."
-    new ""
+    new "Nirmala paga \"favores\" para pagar sua dívida de apostas."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Friends with Quentin and Nirmala."
-    new ""
+    new "Amiga de Quentin e Nirmala."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Sabrina used to be in a gang with her ex, Cade."
-    new ""
+    new "Sabrina fazia parte de uma gangue com seu ex, Cade."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Friends with Nirmala and Sabrina."
-    new ""
+    new "Amiga de Nirmala e Sabrina."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Friends with Nia. Part of the self-help group."
-    new ""
+    new "Amiga de Nia. Parte do grupo de autoajuda."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Guided by Irene, and a higher rank than Lumi."
-    new ""
+    new "Guiada por Irene, e tem uma posição cima da Lumi."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Butcher's sister."
-    new ""
+    new "Irmã do açougueiro."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Was a part of a local cult."
-    new ""
+    new "Fazia parte de um culto local."
 
     # game/code/data/ib_descriptions.rpy:2
     old "The father of Sally's child is someone from the cult."
-    new ""
+    new "O pai da filha da Sally é alguém do culto."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Sally participated in breeding rituals when she was in the cult."
-    new ""
+    new "Sally participava de rituais de procriação quando estava no culto."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Sally said there's a secret entrance in the library."
-    new ""
+    new "Sally disse que tem uma entrada secreta na biblioteca."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Owns the butcher shop."
-    new ""
+    new "É dono do açougue."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Holds seminars for the self-help group."
-    new ""
+    new "Apresenta seminários para o grupo de autoajuda."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Acts defensive and standoffish toward me."
-    new ""
+    new "Age de forma defensiva e indiferente comigo."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Andrejz wants another \"go\" with Ivy."
-    new ""
+    new "Andrejz quer \"tentar de novo\" com Ivy."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Mysterious hooded man. Following me."
-    new ""
+    new "Homem misterioso de capuz. Me seguindo."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Stalked me when I went to the butchery."
-    new ""
+    new "Me seguiu quando fui ao açougue."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Nia's controlling brother."
-    new ""
+    new "Irmão controlador da Nia."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Connected to Fleur."
-    new ""
+    new "Tem relação com Fleur."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Knows Fleur enough to drop by her room uninvited."
-    new ""
+    new "Conhece Fleur o bastante para entrar no quarto dela sem ser convidado."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Xasan tracks people's debts to the Syndicate."
-    new ""
+    new "Xasan cuida das dívidas das pessoas com o Sindicato."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Painted Maria."
-    new ""
+    new "Pintou Maria."
 
     # game/code/data/ib_descriptions.rpy:2
     old "A {i}lover{/i} of Maria's. Ezra was very intimate with Maria and is lost without her."
-    new ""
+    new "{i}Amante{/i} de Maria. Ezra era bem íntima com Maria e está perdida sem ela."
 
     # game/code/data/ib_descriptions.rpy:2
     old "She told me that Maria was a part of intense {i}rituals{/i} within the self-help group and that she enjoyed participating in them."
-    new ""
+    new "Ela me falou que Maria era parte de {i}rituais{/i} intensos no grupo de autoajuda, e que gostava de participar deles."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Seems to be spying on me."
-    new ""
+    new "Parece estar me vigiando."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Was previously involved with the Winners Club."
-    new ""
+    new "Tem envolvimento prévio com o Clube dos Vencedores."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Stalks the Winners Club."
-    new ""
+    new "Fica seguindo o Clube dos Vencedores."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Hates Isa. Wants revenge."
-    new ""
+    new "Odeia Isa. Quer vingança."
 
     # game/code/data/ib_descriptions.rpy:2
     old "She's been keeping a close eye on Isa."
-    new ""
+    new "Está vigiando Isa de perto."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Sam told that members of a rival team are in town and might be planning to spy on the Winner's Club."
-    new ""
+    new "Sam falou que membros de um time rival estão na cidade e que podem estar planejando espiar o Clube dos Vencedores."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Sam's got some sort of plan in motion. It's clear she's playing a deep game."
-    new ""
+    new "Sam está tramando algum tipo de plano. É óbvio que ela está muito envolvida nisso."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Sam is trying to seduce Isa. She's not taking no for an answer."
-    new ""
+    new "Sam está tentando seduzir Isa. Ela não vai aceitar não como resposta."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Used to date Isa. Trying to get back together."
-    new ""
+    new "Namorava Isa. Tentando voltar."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Does she want Isa or does she want to hurt her?"
-    new ""
+    new "Ela quer Isa ou quer machucar ela?"
 
     # game/code/data/ib_descriptions.rpy:2
     old "Got kicked from the Winner's Group because she crashed an important party that Isa threw."
-    new ""
+    new "Foi chutada do Clube dos Vencedores porque entrou sem permissão numa festa que a Isa soltou."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Sam seems to have connections with the Rival CCC team."
-    new ""
+    new "Parece que Sam tem relação com o time Rival CCC."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Sam distrusts Brigitta."
-    new ""
+    new "Sam não confia em Brigita."
 
     # game/code/data/ib_descriptions.rpy:2
     old "New member of the self-help group."
-    new ""
+    new "Novo membro do grupo de autoajuda."
 
     # game/code/data/ib_descriptions.rpy:2
     old "I have to convince Lumi to get a tattoo of the self-help group's symbol so I can advance in their ranking."
-    new ""
+    new "Precis convencer a Lumi a fazer uma tatuagem com o símbolo do grupo de autoajuda para poder subir de nível."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Guided by Irene."
-    new ""
+    new "Guiada por Irene."
 
     # game/code/data/ib_descriptions.rpy:2
     old "The self-help group seems to be putting significant pressure on her to get tattooed"
-    new ""
+    new "O grupo de autoajuda parece estar pressionando bastante para que ela faça uma tatuagem."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Guides or manages a remote community that's a part of the self-help group."
-    new ""
+    new "Guia ou gerencia uma comunidade remota que faz parte do grupo de autoajuda."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Member of The Winner's Group."
-    new ""
+    new "Faz parte do Clube dos Vencedores."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Used to date Sam."
-    new ""
+    new "Namorava Sam."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Isa was in part responsible for the party that the missing girls disappeared at."
-    new ""
+    new "Isa era parcialmente responsável pela festa na qual as garotas desapareceram."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Isa orchestrated Sam's exile from the Winner's Group."
-    new ""
+    new "Isa orquestrou a saída de Sam do Clube dos Vencedores."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Caught spying on our practice."
-    new ""
+    new "Pego espiando o nosso treino."
 
     # game/code/data/ib_descriptions.rpy:2
     old "They ran when confronted. Need to keep an eye out for them in the future."
-    new ""
+    new "Correram quando foram confrontados. Preciso ficar de olho neles no futuro."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Ronja was in the self-help group."
-    new ""
+    new "Ronja estava no grupo de autoajuda."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Apparently Ronja enjoyed Andre's company while in the self-help group."
-    new ""
+    new "Aparentemente Ronja gostava da companhia do Andre no grupo de autoajuda."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Ronja somehow got info about Guns n' Rosette from Fleur."
-    new ""
+    new "Ronja de alguma forma conseguiu informações sobre Guns n' Rosette da Fleur."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Ronja is married. And also cheating on her husband with me."
-    new ""
+    new "Ronja é casada. E está traindo o marido comigo."
 
