@@ -1,14 +1,14 @@
-﻿# TODO: Translation updated at 2023-07-14 00:34
+# TODO: Translation updated at 2023-07-14 00:34
 
 translate spanish strings:
 
     # game/code/data/characters.rpy:6
     old "You"
-    new "You"
+    new "Tú"
 
     # game/code/data/characters.rpy:9
     old "Maria"
-    new "Maria"
+    new "María"
 
     # game/code/data/characters.rpy:23
     old "Shontae"
@@ -60,7 +60,7 @@ translate spanish strings:
 
     # game/code/data/characters.rpy:58
     old "Captain"
-    new "Captain"
+    new "Capitán"
 
     # game/code/data/characters.rpy:59
     old "Helen Desmond"
@@ -76,7 +76,7 @@ translate spanish strings:
 
     # game/code/data/characters.rpy:64
     old "Mother"
-    new "Mother"
+    new "Mamá"
 
     # game/code/data/characters.rpy:65
     old "Lauren"
