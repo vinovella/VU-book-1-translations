@@ -660,5 +660,5 @@ translate portuguese strings:
 
     # game/code/Book-1/Chapter-3/s05.rpy:398
     old "Save your game here"
-    new "Save your game here"
+    new "Salve seu jogo aqui"
 
