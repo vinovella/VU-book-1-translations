@@ -4,5 +4,5 @@ translate portuguese strings:
 
     # game/code/screens/gallery.rpy:7
     old "Gallery"
-    new ""
+    new "Galeria"
 
