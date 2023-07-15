@@ -4,7 +4,7 @@
 translate spanish b1c04ns02_28643059:
 
     # mct "Delphia said Nia is in chemistry class right now. I bet I could meet her there."
-    mct "Delphia dijo que Nia está en clase de química en este momento. Apuesto a que podría conocerla allí."
+    mct "Delphia dijo que Nia está en clase de química en este momento. Apuesto a que podría encontrarme con ella allí."
 
 # game/code/Book-1/Chapter-4n/s02.rpy:13
 translate spanish b1c04ns02_d7b614bc:
@@ -22,7 +22,7 @@ translate spanish b1c04ns02_4fcf04f9:
 translate spanish b1c04ns02_93364b53:
 
     # rh "Oh, hello. You must be the new student. Nice of you to join us."
-    rh "Oh hola. Debes ser el nuevo estudiante. Encantado de que te unas a nosotros."
+    rh "Oh, hola. Debes ser el nuevo estudiante. Encantada de que te unas a nosotros."
 
 # game/code/Book-1/Chapter-4n/s02.rpy:31
 translate spanish b1c04ns02_4dbd21d4:
@@ -34,13 +34,13 @@ translate spanish b1c04ns02_4dbd21d4:
 translate spanish b1c04ns02_bf872f5b:
 
     # rh "We're doing lab work on gallium and galinstan today, so you'll need a partner. Take a seat."
-    rh "Estamos haciendo trabajo de laboratorio sobre galio y galinstan hoy, así que necesitarás un compañero. Toma asiento."
+    rh "Hoy estamos haciendo un trabajo de laboratorio sobre galio y galinstán, así que necesitarás un compañero. Toma asiento."
 
 # game/code/Book-1/Chapter-4n/s02.rpy:38
 translate spanish b1c04ns02_aa3fd575:
 
     # mct "Perfect. Looks like Nia's the only open seat anyway."
-    mct "Perfecto. Parece que Nia es el único asiento disponible de todos modos."
+    mct "Perfecto. Parece que el único asiento disponible es el de está al lado de Nia."
 
 # game/code/Book-1/Chapter-4n/s02.rpy:44
 translate spanish b1c04ns02_a0627656:
@@ -100,7 +100,7 @@ translate spanish b1c04ns02_ba8f114e:
 translate spanish b1c04ns02_86244a9d:
 
     # mc "I'm just messing around. I gotcha."
-    mc "Solo estoy jugando. Lo tengo."
+    mc "Sólo estoy bromeando. Te tengo."
 
 # game/code/Book-1/Chapter-4n/s02.rpy:69
 translate spanish b1c04ns02_9386a10a:
@@ -118,7 +118,7 @@ translate spanish b1c04ns02_dd0d44f7:
 translate spanish b1c04ns02_e50248b5:
 
     # nv "Try to keep up."
-    nv "Trata de estar al corriente."
+    nv "Intenta mantener el ritmo."
 
 # game/code/Book-1/Chapter-4n/s02.rpy:79
 translate spanish b1c04ns02_38c882a6:
@@ -136,7 +136,7 @@ translate spanish b1c04ns02_36197466:
 translate spanish b1c04ns02_8783097d:
 
     # rh "You have an hour to perform your tests and write down your results."
-    rh "Tienes una hora para realizar tus pruebas y anotar tus resultados."
+    rh "Tienen una hora para realizar tus pruebas y anotar tus resultados."
 
 # game/code/Book-1/Chapter-4n/s02.rpy:90
 translate spanish b1c04ns02_b11935a2:
@@ -178,7 +178,7 @@ translate spanish b1c04ns02_6fa1ecb4:
 translate spanish b1c04ns02_ffe7c7f6:
 
     # mc "Good to know."
-    mc "Bueno saber."
+    mc "Es bueno saberlo."
 
 # game/code/Book-1/Chapter-4n/s02.rpy:121
 translate spanish b1c04ns02_29a6b585:
@@ -304,7 +304,7 @@ translate spanish b1c04ns02_01c9ba77:
 translate spanish b1c04ns02_b9ce4275:
 
     # nv "I'm sure you did nothing at all to egg the poor girl on to do anything, right?"
-    nv "Estoy seguro de que no hiciste nada para incitar a la pobre chica a hacer algo, ¿verdad?"
+    nv "Estoy segura de que no hiciste nada para incitar a la pobre chica a hacer algo, ¿verdad?"
 
 # game/code/Book-1/Chapter-4n/s02.rpy:211
 translate spanish b1c04ns02_36f4a197:
@@ -364,7 +364,7 @@ translate spanish b1c04ns02_84cabb5d_1:
 translate spanish b1c04ns02_44db1a57:
 
     # nv "Are you still going to the seminar after school, today?"
-    nv "¿Todavía vas al seminario después de la escuela hoy?"
+    nv "¿Todavía vas al seminario después de la clase, hoy?"
 
 # game/code/Book-1/Chapter-4n/s02.rpy:255
 translate spanish b1c04ns02_3882f53d:
@@ -412,13 +412,13 @@ translate spanish b1c04ns02_67bffcda:
 translate spanish b1c04ns02_58cd1cf0:
 
     # ef "No shit? That's awesome!"
-    ef "sin mierda? ¡Eso es genial!"
+    ef "¿No me digas? ¡Es increíble!"
 
 # game/code/Book-1/Chapter-4n/s02.rpy:279
 translate spanish b1c04ns02_adb24db1:
 
     # ef "We'll see you there, I bet. We'll be having signings at the end. You should check it out."
-    ef "Nos vemos allí, apuesto. Tendremos fichajes al final. Usted deberia comprobar esto."
+    ef "Seguro que nos vemos allí. Tendremos firmas al final. Deberías pasarte."
 
 # game/code/Book-1/Chapter-4n/s02.rpy:282
 translate spanish b1c04ns02_648a194d:
@@ -454,7 +454,7 @@ translate spanish b1c04ns02_e9a2d4b5:
 translate spanish b1c04ns02_2a552ece:
 
     # ef "I'll take our papers to the professor."
-    ef "Le llevaré nuestros papeles al profesor."
+    ef "Le llevaré nuestros papeles a la profesora."
 
 # game/code/Book-1/Chapter-4n/s02.rpy:319
 translate spanish b1c04ns02_4de684ab:
@@ -466,7 +466,7 @@ translate spanish b1c04ns02_4de684ab:
 translate spanish b1c04ns02_a6775e7f:
 
     # nv "Of course we did. I'm a whiz at chemistry."
-    nv "Por supuesto que lo hicimos. Soy un genio de la química."
+    nv "Por supuesto que lo hicimos. Soy una genio de la química."
 
 # game/code/Book-1/Chapter-4n/s02.rpy:327
 translate spanish b1c04ns02_d9079c81:
@@ -478,13 +478,13 @@ translate spanish b1c04ns02_d9079c81:
 translate spanish b1c04ns02_70eae5ba:
 
     # nv "Nothing, actually. Just because I'm good at it doesn't mean I like it."
-    nv "Nada, en realidad. El hecho de que sea bueno en eso no significa que me guste."
+    nv "Nada, en realidad. El hecho de que sea buena en eso no significa que me guste."
 
 # game/code/Book-1/Chapter-4n/s02.rpy:333
 translate spanish b1c04ns02_3370615b:
 
     # mc "Then why...?"
-    mc "Entonces por qué...?"
+    mc "Entonces... ¿por qué...?"
 
 # game/code/Book-1/Chapter-4n/s02.rpy:336
 translate spanish b1c04ns02_c3ae7010:
@@ -532,13 +532,13 @@ translate spanish b1c04ns02_fc3219bf:
 translate spanish b1c04ns02_7568527c:
 
     # ef "I warned you. It's not my fault wise words fell on deaf ears."
-    ef "Te lo adverti. No es mi culpa que las sabias palabras cayeran en saco roto."
+    ef "Te lo advertí. No es mi culpa que sabias palabras cayeran en oídos sordos."
 
 # game/code/Book-1/Chapter-4n/s02.rpy:366
 translate spanish b1c04ns02_c048d9f4:
 
     # rh "Take this outside. Now!"
-    rh "Toma esto afuera. ¡Ahora!"
+    rh "Lleva esto afuera. ¡Ahora mismo!"
 
 # game/code/Book-1/Chapter-4n/s02.rpy:375
 translate spanish b1c04ns02_4b2f4592:
@@ -556,7 +556,7 @@ translate spanish b1c04ns02_04febaac:
 translate spanish b1c04ns02_0bc019cb:
 
     # nv "Eliina is a bit mischievous, but I doubt she'd have done anything that extreme. Monika's delusional."
-    nv "Eliina es un poco traviesa, pero dudo que hubiera hecho algo tan extremo. Monika está delirando."
+    nv "Eliina es un poco traviesa, pero dudo que hubiera hecho algo tan extremo. Mónica está delirando."
 
 # game/code/Book-1/Chapter-4n/s02.rpy:385
 translate spanish b1c04ns02_8ea3bd42:
@@ -574,13 +574,13 @@ translate spanish b1c04ns02_a20eef3a:
 translate spanish b1c04ns02_36908730:
 
     # mc "You explained why you're in chem, despite hating it."
-    mc "Explicaste por qué estás en química, a pesar de que lo odias."
+    mc "Explicaste por qué estás en química, a pesar de que la odias."
 
 # game/code/Book-1/Chapter-4n/s02.rpy:393
 translate spanish b1c04ns02_563c3dcc:
 
     # nv "Ah, yeah."
-    nv "Ah sí."
+    nv "Ah, sí."
 
 # game/code/Book-1/Chapter-4n/s02.rpy:394
 translate spanish b1c04ns02_02ea2b93:
@@ -604,7 +604,7 @@ translate spanish b1c04ns02_82e8111d:
 translate spanish b1c04ns02_0ac07d1d:
 
     # mc "I was sailing the world with my dad."
-    mc "Navegaba por el mundo con mi padre."
+    mc "Viajaba por el mundo con mi padre."
 
 # game/code/Book-1/Chapter-4n/s02.rpy:406
 translate spanish b1c04ns02_9012a9ac:
@@ -628,7 +628,7 @@ translate spanish b1c04ns02_d6ceb3db:
 translate spanish b1c04ns02_16671db6:
 
     # mc "What would you like to do? Other than being a whiz at chemistry but hating it."
-    mc "Que te gustaría hacer? Aparte de ser un genio de la química pero odiarla."
+    mc "¿Qué te gustaría hacer? Aparte de ser una genio de la química pero que la odia."
 
 # game/code/Book-1/Chapter-4n/s02.rpy:422
 translate spanish b1c04ns02_703227b7:
@@ -646,13 +646,13 @@ translate spanish b1c04ns02_724c088d:
 translate spanish b1c04ns02_19b8ddfa:
 
     # nv "Not romantic."
-    nv "No romántico."
+    nv "No romántica."
 
 # game/code/Book-1/Chapter-4n/s02.rpy:429
 translate spanish b1c04ns02_21d72db9:
 
     # nv "Just artistic, with a very good eye for details."
-    nv "Simplemente artístico, con muy buen ojo para los detalles."
+    nv "Simplemente artística, con muy buen ojo para los detalles."
 
 # game/code/Book-1/Chapter-4n/s02.rpy:432
 translate spanish b1c04ns02_1f41d141:
@@ -742,13 +742,13 @@ translate spanish b1c04ns02_fcf340b6:
 translate spanish b1c04ns02_999cadea:
 
     # nv "Chem is a gateway to resources. Tattooing is my outlet."
-    nv "Chem es una puerta de entrada a los recursos. El tatuaje es mi salida."
+    nv "La química es una puerta de acceso a los recursos. El tatuaje es mi válvula de escape."
 
 # game/code/Book-1/Chapter-4n/s02.rpy:474
 translate spanish b1c04ns02_f9cfa9d6:
 
     # rh "Alright everyone. Time's up. Turn in your assignments at the table, here."
-    rh "Bien todos Se acabó el tiempo. Entrega tus tareas en la mesa, aquí."
+    rh "Muy bien, todo el mundo. Se acabó el tiempo. Dejen sus tareas en la mesa, aquí."
 
 # game/code/Book-1/Chapter-4n/s02.rpy:483
 translate spanish b1c04ns02_bda85e89:
@@ -766,7 +766,7 @@ translate spanish b1c04ns02_b72a1c3c:
 translate spanish b1c04ns02_413fb06f:
 
     # mct "I wonder what sort of future she's planning for by investing in a major she's so disinterested in?"
-    mct "Me pregunto qué tipo de futuro está planeando al invertir en una especialización que le desinteresa tanto."
+    mct "Me pregunto qué tipo de futuro está planeando invirtiendo en una carrera que le interesa tan poco."
 
 # game/code/Book-1/Chapter-4n/s02.rpy:494
 translate spanish b1c04ns02_be850748:
