@@ -16,7 +16,7 @@ translate spanish b1c04_inv_menu_8c3899a1:
 translate spanish b1c04_inv_menu_1a8f7bf6:
 
     # mct "They're all connected to this, but I doubt I'd be able to do all three today."
-    mct "Todos están conectados a esto, pero dudo que pueda hacer los tres hoy."
+    mct "Todas están relacionadas con esto, pero dudo que pueda hacer las tres hoy."
 
 # game/code/Book-1/Chapter-4/s00.rpy:91
 translate spanish b1c04_inv_menu_9b73ef90:
@@ -70,7 +70,7 @@ translate spanish strings:
 
     # game/code/Book-1/Chapter-4/s00.rpy:143
     old "Investigate Nia"
-    new "investiga a nia"
+    new "Investiga a Nia"
 
     # game/code/Book-1/Chapter-4/s00.rpy:148
     old "You have already investigated her"
