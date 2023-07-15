@@ -52,7 +52,7 @@ translate spanish b1c03s04_f81277f1:
 translate spanish b1c03s04_ecb67ebc:
 
     # ij "Here, come around the desk. Your things are over here."
-    ij "Aquí, ven alrededor del escritorio. Tus cosas están por aquí."
+    ij "Aquí, ven y rodea del escritorio. Tus cosas están por aquí."
 
 # game/code/Book-1/Chapter-3/s04.rpy:44
 translate spanish b1c03s04_6b1cf0fb:
@@ -124,7 +124,7 @@ translate spanish b1c03s04_32860207:
 translate spanish b1c03s04_42b2a3b5:
 
     # mc "What will happen to Nia if she doesn't take a new guide?"
-    mc "¿Qué pasará con Nia si no toma una nueva guía?"
+    mc "¿Qué le pasará a Nia si no consigue un nuevo guía?"
 
 # game/code/Book-1/Chapter-3/s04.rpy:91
 translate spanish b1c03s04_551e5575:
@@ -190,7 +190,7 @@ translate spanish b1c03s04_0a76aeb2:
 translate spanish b1c03s04_d417f3fe:
 
     # ij "If you feel safe enough during these times to make new connections, anyway."
-    ij "Si te sientes lo suficientemente seguro durante estos momentos como para establecer nuevas conexiones, de todos modos."
+    ij "En todo caso, si te sientes lo suficientemente seguro durante esos momentos como para establecer nuevos contactos."
 
 # game/code/Book-1/Chapter-3/s04.rpy:122
 translate spanish b1c03s04_f36a6260:
