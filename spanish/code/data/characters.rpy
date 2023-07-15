@@ -56,7 +56,7 @@ translate spanish strings:
 
     # game/code/data/characters.rpy:56
     old "Professor James"
-    new "Professor James"
+    new "Profesor James"
 
     # game/code/data/characters.rpy:58
     old "Captain"
