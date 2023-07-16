@@ -4,7 +4,7 @@
 translate spanish b1c04ss03_6f738fd6:
 
     # mc "Hey, I'm ready for the physical strength test when you've got a moment."
-    mc "Oye, estoy listo para la prueba de fuerza física cuando tengas un momento."
+    mc "Hola, estoy listo para la prueba de fuerza física cuando tengas un momento."
 
 # game/code/Book-1/Chapter-4s/s03.rpy:16
 translate spanish b1c04ss03_9df40ad9:
@@ -34,7 +34,7 @@ translate spanish b1c04ss03_1c20d153:
 translate spanish b1c04ss03_061e5290:
 
     # mct "I can't fail. This is my ticket into the Winner's Club."
-    mct "no puedo fallar Este es mi boleto para el Club de los Ganadores."
+    mct "no puedo fallar. Este es mi boleto para el Club de los Ganadores."
 
 # game/code/Book-1/Chapter-4s/s03.rpy:32
 translate spanish b1c04ss03_12d47155:
@@ -52,13 +52,13 @@ translate spanish b1c04ss03_28ff40c3:
 translate spanish b1c04ss03_598fd5b7:
 
     # sa "Correct. Do you know how to do a proper push up?"
-    sa "Correcto. ¿Sabes cómo hacer un push up correctamente?"
+    sa "Correcto. ¿Sabes cómo hacer un flexiones correctamente?"
 
 # game/code/Book-1/Chapter-4s/s03.rpy:41
 translate spanish b1c04ss03_dbf6bb2e:
 
     # mc "Yeah. My dad drilled me on it when I was sailing with him."
-    mc "Sí. Mi papá me enseñó eso cuando navegaba con él."
+    mc "Sí. Mi papá me enseñó eso cuando viajaba con él."
 
 # game/code/Book-1/Chapter-4s/s03.rpy:44
 translate spanish b1c04ss03_10e4dc80:
@@ -154,7 +154,7 @@ translate spanish b1c04ss03_2dacc7fd:
 translate spanish b1c04ss03_802759a4:
 
     # mc "Thanks. What's next?"
-    mc "Gracias. ¿Que sigue?"
+    mc "Gracias. ¿Qué sigue?"
 
 # game/code/Book-1/Chapter-4s/s03.rpy:97
 translate spanish b1c04ss03_40984cf9:
@@ -166,7 +166,7 @@ translate spanish b1c04ss03_40984cf9:
 translate spanish b1c04ss03_50446452:
 
     # sa "You'll do laps. The goal is to run one and a half miles in ten minutes."
-    sa "Harás vueltas. El objetivo es correr una milla y media en diez minutos."
+    sa "Darás vueltas. El objetivo es correr una milla y media en diez minutos."
 
 # game/code/Book-1/Chapter-4s/s03.rpy:109
 translate spanish b1c04ss03_657fed4e:
@@ -202,25 +202,25 @@ translate spanish b1c04ss03_54d76038:
 translate spanish b1c04ss03_e31eaf5d:
 
     # sm "Rooting for you!"
-    sm "¡Alentando por ti!"
+    sm "¡Te estoy apoyando!"
 
 # game/code/Book-1/Chapter-4s/s03.rpy:149
 translate spanish b1c04ss03_1d9b1159:
 
     # sa "You're doin' great, sport."
-    sa "Lo estás haciendo muy bien, deporte."
+    sa "Lo estás haciendo muy bien."
 
 # game/code/Book-1/Chapter-4s/s03.rpy:152
 translate spanish b1c04ss03_d6825927:
 
     # sa "Just focus on not exerting yourself too much too fast."
-    sa "Solo concéntrate en no esforzarte demasiado demasiado rápido."
+    sa "Concéntrate en no esforzarte mucho ni demasiado rápido."
 
 # game/code/Book-1/Chapter-4s/s03.rpy:155
 translate spanish b1c04ss03_547b2a01:
 
     # sa "Your father have you run laps on your sailing trip as well?"
-    sa "¿Tu padre también te ha dado vueltas en tu viaje en velero?"
+    sa "¿Tu padre también te ha hecho dar vueltas en tu travesía en velero?"
 
 # game/code/Book-1/Chapter-4s/s03.rpy:158
 translate spanish b1c04ss03_975c190e:
@@ -244,7 +244,7 @@ translate spanish b1c04ss03_bcb803f7:
 translate spanish b1c04ss03_da4a0a7b:
 
     # mc "I didn't notice."
-    mc "no me di cuenta"
+    mc "No me di cuenta"
 
 # game/code/Book-1/Chapter-4s/s03.rpy:176
 translate spanish b1c04ss03_6da5954f:
@@ -262,19 +262,19 @@ translate spanish b1c04ss03_675e90f2:
 translate spanish b1c04ss03_154f5e82:
 
     # sa "Take a breather."
-    sa "Toma un respiro."
+    sa "Tómate un descanso."
 
 # game/code/Book-1/Chapter-4s/s03.rpy:186
 translate spanish b1c04ss03_d540dfe2:
 
     # mc "What's next?"
-    mc "¿Que sigue?"
+    mc "¿Qué sigue?"
 
 # game/code/Book-1/Chapter-4s/s03.rpy:189
 translate spanish b1c04ss03_77aebd6f:
 
     # sa "Next is pull ups."
-    sa "El siguiente es pull ups."
+    sa "Lo siguiente son las flexiones."
 
 # game/code/Book-1/Chapter-4s/s03.rpy:190
 translate spanish b1c04ss03_691fa357:
@@ -310,7 +310,7 @@ translate spanish b1c04ss03_deb02804:
 translate spanish b1c04ss03_835f0bae:
 
     # sa "Then show me your best."
-    sa "Entonces muéstrame lo mejor que puedas."
+    sa "Entonces muéstrame lo mejor de ti."
 
 # game/code/Book-1/Chapter-4s/s03.rpy:217
 translate spanish b1c04ss03_ef6f98f1:
@@ -352,13 +352,13 @@ translate spanish b1c04ss03_f1452ca8:
 translate spanish b1c04ss03_e62bc87a:
 
     # sa "Start again."
-    sa "Empezar de nuevo."
+    sa "Empieza de nuevo."
 
 # game/code/Book-1/Chapter-4s/s03.rpy:239
 translate spanish b1c04ss03_b493127a:
 
     # mc "Start over?"
-    mc "¿Comenzar de nuevo?"
+    mc "¿Empezar de nuevo?"
 
 # game/code/Book-1/Chapter-4s/s03.rpy:242
 translate spanish b1c04ss03_2fbf0b16:
@@ -370,19 +370,19 @@ translate spanish b1c04ss03_2fbf0b16:
 translate spanish b1c04ss03_70dcf44a:
 
     # mct "Fuck, I don't know how much longer I can endure this."
-    mct "Joder, no sé cuánto tiempo más podré soportar esto."
+    mct "Mierda, no sé cuánto tiempo más podré soportar esto."
 
 # game/code/Book-1/Chapter-4s/s03.rpy:248
 translate spanish b1c04ss03_9122520b:
 
     # sa "I'll spot you. Now start over."
-    sa "Te localizaré. Ahora empieza de nuevo."
+    sa "Ahora empieza de nuevo."
 
 # game/code/Book-1/Chapter-4s/s03.rpy:251
 translate spanish b1c04ss03_a147fb97:
 
     # sa "Three...four..."
-    sa "Tres cuatro..."
+    sa "Tres... cuatro..."
 
 # game/code/Book-1/Chapter-4s/s03.rpy:254
 translate spanish b1c04ss03_47b22837:
@@ -400,7 +400,7 @@ translate spanish b1c04ss03_d69611a4:
 translate spanish b1c04ss03_26e0cfb0:
 
     # sa "Nine...ten..."
-    sa "Nueve diez..."
+    sa "Nueve... diez..."
 
 # game/code/Book-1/Chapter-4s/s03.rpy:263
 translate spanish b1c04ss03_a60bf1c9:
@@ -412,7 +412,7 @@ translate spanish b1c04ss03_a60bf1c9:
 translate spanish b1c04ss03_37cc6058:
 
     # sa "Twelve...thirteen..."
-    sa "Doce trece..."
+    sa "Doce... trece..."
 
 # game/code/Book-1/Chapter-4s/s03.rpy:281
 translate spanish b1c04ss03_5b46637c:
@@ -466,7 +466,7 @@ translate spanish b1c04ss03_246ba067:
 translate spanish b1c04ss03_26a6e696:
 
     # mc "Speaking of which..."
-    mc "Hablando de que..."
+    mc "Hablando de eso..."
 
 # game/code/Book-1/Chapter-4s/s03.rpy:312
 translate spanish b1c04ss03_b2f59532:
@@ -502,7 +502,7 @@ translate spanish b1c04ss03_0a9562c1:
 translate spanish b1c04ss03_d378413a:
 
     # sm "Hi! How's it going?"
-    sm "¡Hola! ¿Cómo estás?"
+    sm "¡Hola! ¿Cómo va todo?"
 
 # game/code/Book-1/Chapter-4s/s03.rpy:347
 translate spanish b1c04ss03_a2be20e2:
@@ -538,7 +538,7 @@ translate spanish b1c04ss03_3f8ef442:
 translate spanish b1c04ss03_0bec8f86:
 
     # mc "I did? Great!"
-    mc "¿Hice? ¡Excelente!"
+    mc "¿Lo hice? ¡Excelente!"
 
 # game/code/Book-1/Chapter-4s/s03.rpy:365
 translate spanish b1c04ss03_2ba25dff:
@@ -568,13 +568,13 @@ translate spanish b1c04ss03_1abe51a5:
 translate spanish b1c04ss03_5d8e1638:
 
     # sa "I gotta get going. Silvia will take care of you from here. Good work today."
-    sa "tengo que irme Silvia te cuidará desde aquí. Buen trabajo hoy."
+    sa "Tengo que irme. Silvia te cuidará desde aquí. Buen trabajo hoy."
 
 # game/code/Book-1/Chapter-4s/s03.rpy:378
 translate spanish b1c04ss03_fc66536e:
 
     # sm "Bye, Coach!"
-    sm "¡Adiós, entrenador!"
+    sm "¡Adiós, entrenadora!"
 
 # game/code/Book-1/Chapter-4s/s03.rpy:380
 translate spanish b1c04ss03_0aa37b2a:
@@ -592,7 +592,7 @@ translate spanish b1c04ss03_d6604915:
 translate spanish b1c04ss03_abb96135:
 
     # mc "That's good to hear."
-    mc "Eso es bueno escuchar."
+    mc "Es bueno oirlo."
 
 # game/code/Book-1/Chapter-4s/s03.rpy:389
 translate spanish b1c04ss03_1cddf908:
