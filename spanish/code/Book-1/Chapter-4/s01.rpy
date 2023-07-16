@@ -28,13 +28,13 @@ translate spanish b1c04m1_8a69ab6a:
 translate spanish b1c04m1_6ec1d9d7:
 
     # lw "Just because I'm blind doesn't mean I'm useless [mcname]."
-    lw "El hecho de que sea ciego no significa que sea un inútil [mcname]."
+    lw "El hecho de que sea ciega no significa que sea una inútil [mcname]."
 
 # game/code/Book-1/Chapter-4/s01.rpy:48
 translate spanish b1c04m1_5ac4dd07:
 
     # mc "I know that, I just assumed."
-    mc "Lo sé, solo lo supuse."
+    mc "Lo sé, sólo lo supuse."
 
 # game/code/Book-1/Chapter-4/s01.rpy:51
 translate spanish b1c04m1_5409051a:
@@ -58,7 +58,7 @@ translate spanish b1c04m1_200090bc:
 translate spanish b1c04m1_dc6e9c9a:
 
     # mc "Well, {i}Miss Hawthorne{/i}, I hope you score an A."
-    mc "Bueno, {i}señorita Hawthorne{/i}, espero que obtenga una A."
+    mc "Bueno, {i}Señorita Hawthorne{/i}, espero que obtengas una A."
 
 # game/code/Book-1/Chapter-4/s01.rpy:63
 translate spanish b1c04m1_d5554790:
@@ -88,7 +88,7 @@ translate spanish b1c04m1_1b53b6a8:
 translate spanish b1c04m1_17aac20b:
 
     # jh "Sorry. I guess it was kinda inconsiderate of me to go off like that."
-    jh "Lo siento. Supongo que fue un poco desconsiderado de mi parte irme así."
+    jh "Lo siento. Supongo que fue un poco desconsiderado de mi parte decir eso."
 
 # game/code/Book-1/Chapter-4/s01.rpy:78
 translate spanish b1c04m1_ef039087:
@@ -106,7 +106,7 @@ translate spanish b1c04m1_1bf60051:
 translate spanish b1c04m1_2d77224e:
 
     # mc "Well, I won't disturb you guys any longer. I gotta get to class."
-    mc "Bueno, no los molestaré más. Tengo que llegar a clase."
+    mc "Bueno, no las molestaré más. Tengo que llegar a clase."
 
 # game/code/Book-1/Chapter-4/s01.rpy:88
 translate spanish b1c04m1_b63388e4:
@@ -118,7 +118,7 @@ translate spanish b1c04m1_b63388e4:
 translate spanish b1c04m1_1dc21a68:
 
     # lw "Josie, c'mon. Focus. Finish reading the sentence."
-    lw "Josie, vamos. Enfocar. Termina de leer la oración."
+    lw "Josie, vamos. Concéntrate. Termina de leer la frase."
 
 translate spanish strings:
 
