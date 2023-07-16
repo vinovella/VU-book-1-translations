@@ -154,13 +154,13 @@ translate spanish b1c04ns07_c163b649:
 translate spanish b1c04ns07_394097f3:
 
     # mc "That's an interesting take on it. I didn't get freedom from the image so much as contemplation and maybe a little loneliness."
-    mc "Esa es una interpretación interesante. No obtuve tanto la libertad de la imagen como la contemplación y tal vez un poco de soledad."
+    mc "Es una visión interesante. La imagen no me transmitió libertad, sino contemplación y quizá un poco de soledad."
 
 # game/code/Book-1/Chapter-4n/s07.rpy:96
 translate spanish b1c04ns07_2642c7cd:
 
     # nv "Really? I see a woman who's completely free. She's inherited the ruins of the world to do with as she pleases. It's kind of exciting, don't you think?"
-    nv "¿En realidad? Veo a una mujer que es completamente libre. Ha heredado las ruinas del mundo para hacer con ellas lo que le plazca. Es un poco emocionante, ¿no crees?"
+    nv "¿De verdad? Veo a una mujer que es completamente libre. Ha heredado las ruinas del mundo para hacer con ellas lo que le plazca. Es un poco emocionante, ¿no crees?"
 
 # game/code/Book-1/Chapter-4n/s07.rpy:99
 translate spanish b1c04ns07_8cc105c3:
@@ -190,7 +190,7 @@ translate spanish b1c04ns07_0f661770:
 translate spanish b1c04ns07_ede58866:
 
     # mc "How long did it take you to complete?"
-    mc "¿Cuánto tiempo te tomó completar?"
+    mc "¿Cuánto tiempo tardaste en completarlo?"
 
 # game/code/Book-1/Chapter-4n/s07.rpy:114
 translate spanish b1c04ns07_8e91c325:
@@ -262,7 +262,7 @@ translate spanish b1c04ns07_b745ce37:
 translate spanish b1c04ns07_41302292:
 
     # mc "Hm. This one is harder. She seems accepting of her fate. Maybe she knows that her impact is part of what caused the oil that laps at her legs. She knows this is the consequence of her actions."
-    mc "Hm. Este es más difícil. Ella parece aceptar su destino. Tal vez ella sabe que su impacto es parte de lo que causó el aceite que le lame las piernas. Ella sabe que esta es la consecuencia de sus acciones."
+    mc "Hm. Esta es más difícil. Parece aceptar su destino. Tal vez sabe que su impacto es parte de la causa del aceite que lame sus piernas. Sabe que es la consecuencia de sus actos."
 
 # game/code/Book-1/Chapter-4n/s07.rpy:150
 translate spanish b1c04ns07_b3ae6103:
@@ -280,7 +280,7 @@ translate spanish b1c04ns07_a188ce1a:
 translate spanish b1c04ns07_ba32af6a:
 
     # nv "The forest represents her headspace. She's isolated. Lost. In her eyes, the only way forward is to welcome the poison."
-    nv "El bosque representa su espacio mental. Ella está aislada. Perdido. A sus ojos, el único camino a seguir es dar la bienvenida al veneno."
+    nv "El bosque representa su espacio mental. Ella está aislada. Perdida. A sus ojos, el único camino a seguir es dar la bienvenida al veneno."
 
 # game/code/Book-1/Chapter-4n/s07.rpy:157
 translate spanish b1c04ns07_b8bf6b5f:
@@ -310,7 +310,7 @@ translate spanish b1c04ns07_9fb20720:
 translate spanish b1c04ns07_b62f9309:
 
     # mc "I see what you mean. It looks like she became corrupted in the previous image, and now she's something {i}other.{/i}"
-    mc "Veo a que te refieres. Parece que se corrompió en la imagen anterior y ahora es algo {i}otro.{/i}"
+    mc "Entiendo lo que quieres decir. Parece que se corrompió en la imagen anterior y ahora es algo {i}diferente.{/i}"
 
 # game/code/Book-1/Chapter-4n/s07.rpy:173
 translate spanish b1c04ns07_6fe503f7:
@@ -394,7 +394,7 @@ translate spanish b1c04ns07_b64c9be7:
 translate spanish b1c04ns07_1c3e8382:
 
     # nv "And maybe...in a way, it depicts how technology is both our downfall and our savior."
-    nv "Y tal vez... en cierto modo, representa cómo la tecnología es tanto nuestra perdición como nuestra salvadora."
+    nv "Y quizá... en cierto modo, describe cómo la tecnología es a la vez nuestra perdición y nuestra salvación."
 
 # game/code/Book-1/Chapter-4n/s07.rpy:209
 translate spanish b1c04ns07_175c281a:
@@ -406,7 +406,7 @@ translate spanish b1c04ns07_175c281a:
 translate spanish b1c04ns07_2fd2d602:
 
     # mc "Whoa."
-    mc "Vaya"
+    mc "Vaya."
 
 # game/code/Book-1/Chapter-4n/s07.rpy:215
 translate spanish b1c04ns07_41e09149:
@@ -436,13 +436,13 @@ translate spanish b1c04ns07_4cc2fb85:
 translate spanish b1c04ns07_92682687:
 
     # mc "The robot convinces this woman to sacrifice her organic vessel for a machine-made one."
-    mc "El robot convence a esta mujer para que sacrifique su recipiente orgánico por uno hecho a máquina."
+    mc "El robot convence a esta mujer para que sacrifique su recipiente orgánico por uno fabricado por la máquina."
 
 # game/code/Book-1/Chapter-4n/s07.rpy:226
 translate spanish b1c04ns07_d34c6920:
 
     # mc "Maybe it has feelings for her...but then again, maybe not. It is a robot, after all."
-    mc "Tal vez siente algo por ella... pero, de nuevo, tal vez no. Es un robot, después de todo."
+    mc "Quizá sienta algo por ella... pero quizá no. Al fin y al cabo, es un robot."
 
 # game/code/Book-1/Chapter-4n/s07.rpy:229
 translate spanish b1c04ns07_5d6afa2d:
@@ -454,7 +454,7 @@ translate spanish b1c04ns07_5d6afa2d:
 translate spanish b1c04ns07_78ed3820:
 
     # nv "You don't hold someone like that unless you love them. You don't turn into someone like that unless you feel safe with them."
-    nv "No abrazas a alguien así a menos que lo ames. No te conviertes en alguien así a menos que te sientas seguro con ellos."
+    nv "No abrazas a alguien así a menos que lo ames. No te conviertes en alguien así a menos que te sientas seguro con ello."
 
 # game/code/Book-1/Chapter-4n/s07.rpy:231
 translate spanish b1c04ns07_243bb4a5:
@@ -508,7 +508,7 @@ translate spanish b1c04ns07_83d7c55c:
 translate spanish b1c04ns07_c6b07860:
 
     # mc "God! No I'm not!"
-    mc "¡Dios! ¡No no soy!"
+    mc "¡Dios! ¡No, no lo estoy!"
 
 # game/code/Book-1/Chapter-4n/s07.rpy:258
 translate spanish b1c04ns07_513e5334:
@@ -520,7 +520,7 @@ translate spanish b1c04ns07_513e5334:
 translate spanish b1c04ns07_dec4429d:
 
     # nv "*snorts* I'll say. His dick is spiked."
-    nv "*resopla* Yo diré. Su pene está pinchado."
+    nv "*resopla* Lo diré. Su polla es puntiaguda."
 
 # game/code/Book-1/Chapter-4n/s07.rpy:264
 translate spanish b1c04ns07_24883462:
@@ -538,25 +538,25 @@ translate spanish b1c04ns07_97908749:
 translate spanish b1c04ns07_51cf4c31:
 
     # nv "We tend to write off sexual experiences as cheap or scandalous. But one can always put meaning and purpose to it."
-    nv "Tendemos a descartar las experiencias sexuales como baratas o escandalosas. Pero uno siempre puede ponerle significado y propósito."
+    nv "Tendemos a descartar las experiencias sexuales por baratas o escandalosas. Pero siempre se le puede dar un sentido y un propósito."
 
 # game/code/Book-1/Chapter-4n/s07.rpy:271
 translate spanish b1c04ns07_af604144:
 
     # nv "It can be negative or positive. But that doesn't make it less important of a topic to discuss."
-    nv "Puede ser negativo o positivo. Pero eso no lo hace menos importante de un tema a discutir."
+    nv "Puede ser negativo o positivo. Pero no por ello es menos importante hablar de ello."
 
 # game/code/Book-1/Chapter-4n/s07.rpy:274
 translate spanish b1c04ns07_c2b1134a:
 
     # nv "Um, in my opinion, at least."
-    nv "Um, en mi opinión, al menos."
+    nv "Um, al menos en mi opinión."
 
 # game/code/Book-1/Chapter-4n/s07.rpy:277
 translate spanish b1c04ns07_869bb5f2:
 
     # mc "I see what you mean. Maybe this is a representation of what technology is doing to us. And we let it."
-    mc "Veo a que te refieres. Tal vez esta sea una representación de lo que la tecnología nos está haciendo. Y lo dejamos."
+    mc "Entiendo lo que quieres decir. Quizá esto sea una representación de lo que la tecnología nos está haciendo. Y nosotros se lo permitimos."
 
 # game/code/Book-1/Chapter-4n/s07.rpy:279
 translate spanish b1c04ns07_a4c240b6:
@@ -568,7 +568,7 @@ translate spanish b1c04ns07_a4c240b6:
 translate spanish b1c04ns07_2a6adf74:
 
     # mc "Even if it hurts us. We crave too much too fast, with little regard for consequences."
-    mc "Aunque nos duela. Anhelamos demasiado demasiado rápido, con poca consideración por las consecuencias."
+    mc "Aunque nos haga daño. Ansiamos demasiado y demasiado rápido, sin tener en cuenta las consecuencias."
 
 # game/code/Book-1/Chapter-4n/s07.rpy:285
 translate spanish b1c04ns07_a85db621:
@@ -580,13 +580,13 @@ translate spanish b1c04ns07_a85db621:
 translate spanish b1c04ns07_aadea340:
 
     # mct "It's sort of cute when she tugs on my sleeve like that."
-    mct "Es un poco lindo cuando tira de mi manga así."
+    mct "Es un poco linda cuando tira de mi manga así."
 
 # game/code/Book-1/Chapter-4n/s07.rpy:291
 translate spanish b1c04ns07_fd4ab1d8:
 
     # nv "Let's move on to the next thing."
-    nv "Pasemos a lo siguiente."
+    nv "Pasemos a la siguiente."
 
 # game/code/Book-1/Chapter-4n/s07.rpy:294
 translate spanish b1c04ns07_73fcf18f:
@@ -610,7 +610,7 @@ translate spanish b1c04ns07_32bbd92f:
 translate spanish b1c04ns07_cd6e018d:
 
     # nv "She was the muse for this piece. The artist was very inspired by her. They did right by her image."
-    nv "Ella fue la musa de esta pieza. El artista se inspiró mucho en ella. Hicieron bien por su imagen."
+    nv "Ella fue la musa de esta pieza. El artista se inspiró mucho en ella. Hicieron lo correcto con su imagen."
 
 # game/code/Book-1/Chapter-4n/s07.rpy:304
 translate spanish b1c04ns07_f077a4b3:
@@ -664,13 +664,13 @@ translate spanish b1c04ns07_2bffc7e1:
 translate spanish b1c04ns07_377db0de:
 
     # mc "Was Maria as artistic as you? Did she draw or tattoo?"
-    mc "¿Era María tan artística como tú? ¿Dibujó o tatuó?"
+    mc "¿Era María un artista como tú? ¿Dibujaba o tatuaba?"
 
 # game/code/Book-1/Chapter-4n/s07.rpy:333
 translate spanish b1c04ns07_034f7932:
 
     # nv "She's as artistic as me, but in different ways. We both have an appreciation for artwork, though."
-    nv "Ella es tan artística como yo, pero de diferentes maneras. Sin embargo, ambos apreciamos las obras de arte."
+    nv "Es tan artista como yo, pero de maneras diferentes. Sin embargo, ambas apreciamos las obras de arte."
 
 # game/code/Book-1/Chapter-4n/s07.rpy:334
 translate spanish b1c04ns07_ac5735f3:
@@ -724,7 +724,7 @@ translate spanish b1c04ns07_87a26110:
 translate spanish b1c04ns07_13c25035:
 
     # mct "I can tell she's being a bit closed off about how much to tell me..."
-    mct "Puedo decir que está un poco cerrada sobre cuánto decirme..."
+    mct "Puedo decir que está siendo un poco reservada acerca de cuánto decirme..."
 
 # game/code/Book-1/Chapter-4n/s07.rpy:359
 translate spanish b1c04ns07_3d763d37:
@@ -736,7 +736,7 @@ translate spanish b1c04ns07_3d763d37:
 translate spanish b1c04ns07_5140434f:
 
     # nv "You'll see what I mean as you learn more about the group."
-    nv "Verá lo que quiero decir a medida que aprenda más sobre el grupo."
+    nv "Verás lo que quiero decir cuando conozcas más sobre el grupo."
 
 # game/code/Book-1/Chapter-4n/s07.rpy:363
 translate spanish b1c04ns07_18da9501:
@@ -790,7 +790,7 @@ translate spanish b1c04ns07_5d828373:
 translate spanish b1c04ns07_87e8d33a:
 
     # mct "This group sounds strange. I need to prioritize investigating it."
-    mct "Este grupo suena extraño. Necesito priorizar investigarlo."
+    mct "Este grupo suena extraño. Necesito darle prioridad a investigarlo."
 
 # game/code/Book-1/Chapter-4n/s07.rpy:386
 translate spanish b1c04ns07_83e514e4:
