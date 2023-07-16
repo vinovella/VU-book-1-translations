@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2023-07-12 12:41
+﻿# TODO: Translation updated at 2023-07-12 12:41
 
 # game/code/Book-1/Chapter-3/s03.rpy:14
 translate spanish b1c03s03_514265e2:
@@ -76,7 +76,7 @@ translate spanish b1c03s03_dc1fe683:
 translate spanish b1c03s03_d470fd30:
 
     # dm "I'm also the professor for History. As your Faculty Advisor, I'd advise you to attend my class, because I'm the only teacher who won't care what grade you get."
-    dm "También soy la profesora de Historia. Como tu Consejera de Facultad, te aconsejo que asistas a mi clase, porque soy el único profesor al que no le importará la calificación que obtengas."
+    dm "También soy la profesora de Historia. Como su Consejera de Facultad, te aconsejo que asistas a mi clase, porque soy el único profesor al que no le importará la calificación que obtengas."
 
 # game/code/Book-1/Chapter-3/s03.rpy:67
 translate spanish b1c03s03_a9d3f2b7:
@@ -136,7 +136,7 @@ translate spanish b1c03s03_2f1d9b15:
 translate spanish b1c03s03_fd7df820:
 
     # dm "Here's Ms. Power's class schedule. We can enroll you in the same classes, so you can get closer to her."
-    dm "Aquí está el horario de clases de la Sra. Power. Podemos inscribirte en las mismas clases, para que puedas acercarte a ella."
+    dm "Aquí está el horario de clases de la Srta. Power. Podemos inscribirte en las mismas clases, para que puedas acercarte a ella."
 
 # game/code/Book-1/Chapter-3/s03.rpy:97
 translate spanish b1c03s03_ea287552:
@@ -178,7 +178,7 @@ translate spanish b1c03s03_17399c03:
 translate spanish b1c03s03_d7666f7c:
 
     # mct "What's a diplomatic way to say that someone sounds like a hardass?"
-    mct "¿Cuál es una forma diplomática de decir que alguien suena como una persona dura?"
+    mct "¿Cuál es una forma diplomática de decir que alguien suena como una persona prepotente?"
 
 # game/code/Book-1/Chapter-3/s03.rpy:124
 translate spanish b1c03s03_af7a7854:
@@ -190,7 +190,7 @@ translate spanish b1c03s03_af7a7854:
 translate spanish b1c03s03_bab3f2da:
 
     # dm "Just because I expect excellence doesn't make me impossible, [mcname]."
-    dm "El hecho de que espero la excelencia no me hace imposible, [mcname]."
+    dm "Que espere la excelencia no me convierte en alguien imposible, [mcname]."
 
 # game/code/Book-1/Chapter-3/s03.rpy:130
 translate spanish b1c03s03_6afe4154:
@@ -244,7 +244,7 @@ translate spanish b1c03s03_35dce81c:
 translate spanish b1c03s03_43fc9230:
 
     # mct "What an artful way she's showing off for me..."
-    mct "Qué manera tan ingeniosa tiene de lucirse para mí..."
+    mct "Qué manera tan astuta tiene de lucirse para mí..."
 
 # game/code/Book-1/Chapter-3/s03.rpy:156
 translate spanish b1c03s03_8110986f:
@@ -269,4 +269,3 @@ translate spanish b1c03s03_38d240be:
 
     # dm "Please find those girls, detective."
     dm "Por favor encuentre a esas chicas, detective."
-
