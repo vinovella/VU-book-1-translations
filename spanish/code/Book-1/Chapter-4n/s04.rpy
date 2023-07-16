@@ -34,7 +34,7 @@ translate spanish b1c04ns04_f876a41c:
 translate spanish b1c04ns04_5cad8272:
 
     # nv "I was surprised you were interested in this. I didn't strike you as the self-improvement type."
-    nv "Me sorprendió que estuvieras interesado en esto. No te parecí del tipo de superación personal."
+    nv "Me sorprendió que te interesara esto. No me parecías del tipo de persona que se supera a sí mismo."
 
 # game/code/Book-1/Chapter-4n/s04.rpy:36
 translate spanish b1c04ns04_0367069e:
@@ -52,7 +52,7 @@ translate spanish b1c04ns04_cc94fff0:
 translate spanish b1c04ns04_09a9f633:
 
     # nv "Mm. I'll take your word on that."
-    nv "Mm. Tomaré tu palabra en eso."
+    nv "Mm. Te tomo la palabra."
 
 # game/code/Book-1/Chapter-4n/s04.rpy:46
 translate spanish b1c04ns04_0e051b0e:
@@ -70,13 +70,13 @@ translate spanish b1c04ns04_ea5ffd3b:
 translate spanish b1c04ns04_3941e665:
 
     # mc "My pleasure."
-    mc "Mi placer."
+    mc "Será un placer."
 
 # game/code/Book-1/Chapter-4n/s04.rpy:58
 translate spanish b1c04ns04_bef51eee:
 
     # nv "They'll probably be talking about Guides, today. Ugh. I'm tired of hearing about it. I don't click with anyone here."
-    nv "Probablemente estarán hablando de Guías, hoy. Puaj. Estoy cansado de oír hablar de eso. No hago clic con nadie aquí."
+    nv "Probablemente estarán hablando de Guías, hoy. Puaj. Estoy cansada de oír hablar de eso. No hago clic con nadie aquí."
 
 # game/code/Book-1/Chapter-4n/s04.rpy:59
 translate spanish b1c04ns04_a78c182e:
@@ -88,25 +88,25 @@ translate spanish b1c04ns04_a78c182e:
 translate spanish b1c04ns04_5d72eecb:
 
     # nv "So they're pressuring me to choose a new Guide."
-    nv "Así que me están presionando para elegir una nueva Guía."
+    nv "Así que me están presionando para elegir a un nuevo Guía."
 
 # game/code/Book-1/Chapter-4n/s04.rpy:65
 translate spanish b1c04ns04_118479f1:
 
     # mc "That sounds tough. I bet it's hard to be pressured to replace someone you cared about."
-    mc "Eso suena duro. Apuesto a que es difícil ser presionado para reemplazar a alguien que te importa."
+    mc "Eso suena duro. Apuesto a que es difícil ser presionada para reemplazar a alguien que te importa."
 
 # game/code/Book-1/Chapter-4n/s04.rpy:68
 translate spanish b1c04ns04_19422660:
 
     # nv "Um, yeah. I really miss her. Most people think I'm ridiculous for waiting so long to choose a new guide, though."
-    nv "Sí. La echo de menos. Sin embargo, la mayoría de la gente piensa que soy ridículo por esperar tanto tiempo para elegir una nueva guía."
+    nv "Sí. La echo de menos. Sin embargo, la mayoría de la gente piensa que soy ridícula por esperar tanto tiempo para elegir un nuevo guía."
 
 # game/code/Book-1/Chapter-4n/s04.rpy:70
 translate spanish b1c04ns04_62680906:
 
     # mc "I don't. But I do have one question..."
-    mc "No. Pero tengo una pregunta..."
+    mc "Yo no. Pero tengo una pregunta..."
 
 # game/code/Book-1/Chapter-4n/s04.rpy:73
 translate spanish b1c04ns04_e65f7f7b:
@@ -118,7 +118,7 @@ translate spanish b1c04ns04_e65f7f7b:
 translate spanish b1c04ns04_c7ec488a:
 
     # mc "What's a Guide?"
-    mc "¿Qué es una guía?"
+    mc "¿Qué es un guía?"
 
 # game/code/Book-1/Chapter-4n/s04.rpy:79
 translate spanish b1c04ns04_fde96147:
@@ -142,7 +142,7 @@ translate spanish b1c04ns04_b00412a6:
 translate spanish b1c04ns04_74b19d06:
 
     # mc "Well, my dad always said that to assume makes an ass out of you and me."
-    mc "Bueno, mi papá siempre decía que asumir que tú y yo somos un idiota."
+    mc "Bueno, mi padre siempre decía que suponer nos convierte en idiotas a ti y a mí."
 
 # game/code/Book-1/Chapter-4n/s04.rpy:91
 translate spanish b1c04ns04_75ccc41b:
@@ -166,7 +166,7 @@ translate spanish b1c04ns04_fad4f0fe:
 translate spanish b1c04ns04_4cdb0618:
 
     # nv "I'm curious. Why'd you join the seminar?"
-    nv "Soy curioso. ¿Por qué te uniste al seminario?"
+    nv "Soy curiosa. ¿Por qué te uniste al seminario?"
 
 # game/code/Book-1/Chapter-4n/s04.rpy:101
 translate spanish b1c04ns04_adab05c8:
@@ -220,13 +220,13 @@ translate spanish b1c04ns04_2c20cf8d:
 translate spanish b1c04ns04_0912df88:
 
     # nv "I get that. My older brother and I... Well, he's part of the reason I'm taking Chem, even though I'd rather do something else with my life."
-    nv "Lo entiendo. Mi hermano mayor y yo... Bueno, él es parte de la razón por la que tomo Chem, aunque prefiero hacer otra cosa con mi vida."
+    nv "Lo entiendo. Mi hermano mayor y yo... Bueno, él es parte de la razón por la que tomo Química, aunque preferiría hacer otra cosa con mi vida."
 
 # game/code/Book-1/Chapter-4n/s04.rpy:126
 translate spanish b1c04ns04_066ef972:
 
     # nv "He has some points. I should ensure a secure financial future, but I also want to {i}live{/i}, y'know?"
-    nv "Tiene algunos puntos. Debería asegurarme un futuro financiero seguro, pero también quiero {i}vivir{/i}, ¿sabes?"
+    nv "Tiene algunos puntos. Debo asegurarme un futuro financiero, pero también quiero {i}vivir{/i}, ¿sabes?"
 
 # game/code/Book-1/Chapter-4n/s04.rpy:129
 translate spanish b1c04ns04_0978a7bc:
@@ -268,7 +268,7 @@ translate spanish b1c04ns04_db4dcd64:
 translate spanish b1c04ns04_a31340dd:
 
     # mc "Really?"
-    mc "¿En realidad?"
+    mc "¿De verdad?"
 
 # game/code/Book-1/Chapter-4n/s04.rpy:146
 translate spanish b1c04ns04_9693d6e4:
@@ -298,7 +298,7 @@ translate spanish b1c04ns04_a86c46d0:
 translate spanish b1c04ns04_8c1316c3:
 
     # nv "C'mon. Just try it."
-    nv "Vamos. Solo inténtalo."
+    nv "Vamos. Inténtalo."
 
 # game/code/Book-1/Chapter-4n/s04.rpy:159
 translate spanish b1c04ns04_03ed7c9b:
@@ -322,13 +322,13 @@ translate spanish b1c04ns04_0ad262d6:
 translate spanish b1c04ns04_2068d799:
 
     # nv "Just try it for a few weeks. If you don't like it, you can quit."
-    nv "Solo inténtalo por unas semanas. Si no te gusta, puedes dejarlo."
+    nv "Solo tienes que probarlo durante unas semanas. Si no te gusta, puedes dejarlo."
 
 # game/code/Book-1/Chapter-4n/s04.rpy:168
 translate spanish b1c04ns04_e14a21fd:
 
     # mc "Alright. I'll sign up if you pick a new Guide."
-    mc "Está bien. Me registraré si eliges una nueva Guía."
+    mc "Está bien. Me registraré si eliges un nuevo Guía."
 
 # game/code/Book-1/Chapter-4n/s04.rpy:171
 translate spanish b1c04ns04_7b1e44be:
@@ -364,13 +364,13 @@ translate spanish b1c04ns04_2e002f7f:
 translate spanish b1c04ns04_882e592b:
 
     # mc "You must've been very close with her."
-    mc "Debes haber sido muy cercano a ella."
+    mc "Debes haber sido muy cercana a ella."
 
 # game/code/Book-1/Chapter-4n/s04.rpy:187
 translate spanish b1c04ns04_4b46eb93:
 
     # nv "Yeah... I...was."
-    nv "Sí... yo... lo estaba."
+    nv "Sí... yo... lo era."
 
 # game/code/Book-1/Chapter-4n/s04.rpy:188
 translate spanish b1c04ns04_65771b33:
@@ -424,7 +424,7 @@ translate spanish b1c04ns04_2d963a5b:
 translate spanish b1c04ns04_b59b12cc:
 
     # nv "If you can handle Andrejz's over-the-top teaching style, you'll be able to handle anything else in our community."
-    nv "Si puede manejar el estilo de enseñanza exagerado de Andrejz, podrá manejar cualquier otra cosa en nuestra comunidad."
+    nv "Si puedes manejar el estilo de enseñanza exagerado de Andrejz, podrás manejar cualquier otra cosa en nuestra comunidad."
 
 # game/code/Book-1/Chapter-4n/s04.rpy:211
 translate spanish b1c04ns04_bfcbc100:
@@ -442,7 +442,7 @@ translate spanish b1c04ns04_1460d3d6:
 translate spanish b1c04ns04_a0b82d21:
 
     # mc "Alright, alright. You know best."
-    mc "Bien bien. Tu sabes mejor."
+    mc "Bien, bien. Tu sabes mejor."
 
 # game/code/Book-1/Chapter-4n/s04.rpy:220
 translate spanish b1c04ns04_76ab8cb5:
@@ -508,7 +508,7 @@ translate spanish b1c04ns04_7fe2f8bd:
 translate spanish b1c04ns04_9c49e8ed:
 
     # nv "Ah-ah. No takesies backsies."
-    nv "Ah ah. No hay tomas traseras."
+    nv "Ah-ah. No hay tomas traseras."
 
 # game/code/Book-1/Chapter-4n/s04.rpy:262
 translate spanish b1c04ns04_798a02b2:
@@ -520,7 +520,7 @@ translate spanish b1c04ns04_798a02b2:
 translate spanish b1c04ns04_e00ddf22:
 
     # ij "Hey, you two."
-    ij "Hola, ustedes dos."
+    ij "Hola, a ustedes dos."
 
 # game/code/Book-1/Chapter-4n/s04.rpy:269
 translate spanish b1c04ns04_b9d0ddb4:
@@ -532,7 +532,7 @@ translate spanish b1c04ns04_b9d0ddb4:
 translate spanish b1c04ns04_9e55cb47:
 
     # nv "I did! I thought the speech on self-esteem was helpful."
-    nv "¡Hice! Pensé que el discurso sobre la autoestima fue útil."
+    nv "¡Me ha gustado! El discurso sobre la autoestima me pareció útil."
 
 # game/code/Book-1/Chapter-4n/s04.rpy:275
 translate spanish b1c04ns04_1b50f671:
@@ -556,13 +556,13 @@ translate spanish b1c04ns04_6f5aa662:
 translate spanish b1c04ns04_4b57f19f:
 
     # mc "And {i}Nia{/i} would like to get assigned a new Guide."
-    mc "Y a {i}Nia{/i} le gustaría que le asignaran una nueva Guía."
+    mc "Y a {i}Nia{/i} le gustaría que le asignaran un nuevo Guía."
 
 # game/code/Book-1/Chapter-4n/s04.rpy:285
 translate spanish b1c04ns04_564a5bfa:
 
     # ij "Really? I see. Let me find the applications..."
-    ij "¿En realidad? Veo. Déjame buscar las aplicaciones..."
+    ij "¿De verdad? Ya veo. Déjame buscar las aplicaciones..."
 
 # game/code/Book-1/Chapter-4n/s04.rpy:287
 translate spanish b1c04ns04_0da07654:
