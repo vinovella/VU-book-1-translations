@@ -10,7 +10,7 @@ translate spanish b1c04ss06_25a823dd:
 translate spanish b1c04ss06_a34bcee7:
 
     # ir "Woo! He made it!"
-    ir "¡Cortejar! ¡El lo hizo!"
+    ir "¡Woo! ¡El lo hizo!"
 
 # game/code/Book-1/Chapter-4s/s06.rpy:37
 translate spanish b1c04ss06_acf8cba1:
@@ -28,13 +28,13 @@ translate spanish b1c04ss06_a735fc8a:
 translate spanish b1c04ss06_9fd1a499:
 
     # sm "Did you develop that while you were sailing?"
-    sm "¿Desarrollaste eso mientras navegabas?"
+    sm "¿Desarrollaste eso mientras viajabas?"
 
 # game/code/Book-1/Chapter-4s/s06.rpy:42
 translate spanish b1c04ss06_20b71261:
 
     # mc "I like to think I've always been quick on my feet, but the sailing helped sharpen a lot of things for me."
-    mc "Me gusta pensar que siempre he sido rápido con mis pies, pero navegar me ayudó a mejorar muchas cosas."
+    mc "Me gusta pensar que siempre he sido rápido con mis pies, pero el viajar me ayudó a mejorar muchas cosas."
 
 # game/code/Book-1/Chapter-4s/s06.rpy:43
 translate spanish b1c04ss06_061ddcd6:
@@ -154,7 +154,7 @@ translate spanish b1c04ss06_16d54a1c:
 translate spanish b1c04ss06_384aaff7:
 
     # sm "I tried not to let that get to me, but it's hard when I felt the same way they did. It's especially difficult to think that no one came for me, or wanted me. I was just left there. Nowhere else to go."
-    sm "Traté de no dejar que eso me afectara, pero es difícil cuando siento lo mismo que ellos. Es especialmente difícil pensar que nadie vino por mí o me quería. Me quedé allí. No hay otro lugar adonde ir."
+    sm "Intenté que eso no me afectara, pero es difícil cuando yo sentía lo mismo que ellos. Es especialmente difícil pensar que nadie vino a por mí, ni me quería. Simplemente me dejaron allí. Sin ningún sitio al que ir."
 
 # game/code/Book-1/Chapter-4s/s06.rpy:105
 translate spanish b1c04ss06_36a4d46b:
@@ -184,7 +184,7 @@ translate spanish b1c04ss06_24e250f8:
 translate spanish b1c04ss06_10f31f33:
 
     # sm "It was. But when I came here, I found a sense of family. That was invigorating. I had my first ever boyfriend."
-    sm "Fue. Pero cuando vine aquí, encontré un sentido de familia. Eso fue estimulante. Tuve mi primer novio."
+    sm "Lo fue. Pero cuando vine aquí, encontré un sentido de familia. Eso fue estimulante. Tuve mi primer novio."
 
 # game/code/Book-1/Chapter-4s/s06.rpy:118
 translate spanish b1c04ss06_c6591519:
@@ -202,7 +202,7 @@ translate spanish b1c04ss06_5133fbe9:
 translate spanish b1c04ss06_a2491181:
 
     # sm "I was also involved with a bad crowd at the time. She helped with that, too."
-    sm "También estaba involucrado con una mala multitud en ese momento. Ella también ayudó con eso."
+    sm "También estaba involucrada con gente mala en ese momento. Ella también me ayudó con eso."
 
 # game/code/Book-1/Chapter-4s/s06.rpy:126
 translate spanish b1c04ss06_e601abbd:
@@ -214,13 +214,13 @@ translate spanish b1c04ss06_e601abbd:
 translate spanish b1c04ss06_66bfbfc2:
 
     # sm "She absolutely is. She was one of the first people to accept me in the Winner's Club. I got in because of my modeling gigs, but it takes a while for people to adjust to a new member."
-    sm "Ella lo es absolutamente. Ella fue una de las primeras personas en aceptarme en el Winner's Club. Entré por mis trabajos de modelo, pero a la gente le toma un tiempo adaptarse a un nuevo miembro."
+    sm "Ella lo es absolutamente. Ella fue una de las primeras personas en aceptarme en el Club de los Ganadores. Entré por mis trabajos de modelo, pero a la gente le toma un tiempo adaptarse a un nuevo miembro."
 
 # game/code/Book-1/Chapter-4s/s06.rpy:132
 translate spanish b1c04ss06_83f3d709:
 
     # mc "I can imagine."
-    mc "Puedo imaginar."
+    mc "Puedo imaginarlo."
 
 # game/code/Book-1/Chapter-4s/s06.rpy:134
 translate spanish b1c04ss06_7f53851a:
@@ -238,13 +238,13 @@ translate spanish b1c04ss06_22ba0228:
 translate spanish b1c04ss06_37928f23:
 
     # sm "She said I was the best candidate for the job."
-    sm "Dijo que yo era el mejor candidato para el trabajo."
+    sm "Dijo que yo era la mejor candidata para el trabajo."
 
 # game/code/Book-1/Chapter-4s/s06.rpy:139
 translate spanish b1c04ss06_aabd6999:
 
     # sm "I took over some of her team captain responsibilities when she went missing. I know a bit of what it entails since I'm friends with her."
-    sm "Asumí algunas de las responsabilidades de capitana de su equipo cuando desapareció. Sé un poco de lo que implica ya que soy amiga de ella."
+    sm "Asumí algunas de sus responsabilidades como capitán del equipo cuando ella desapareció."
 
 # game/code/Book-1/Chapter-4s/s06.rpy:144
 translate spanish b1c04ss06_d422296c:
@@ -304,7 +304,7 @@ translate spanish b1c04ss06_f2e62329:
 translate spanish b1c04ss06_7460dd84:
 
     # sm "I gained a sense of independence and self here."
-    sm "Obtuve un sentido de independencia y yo aquí."
+    sm "Aquí adquirí un sentido de independencia y de mí misma."
 
 # game/code/Book-1/Chapter-4s/s06.rpy:177
 translate spanish b1c04ss06_3b1aac9b:
