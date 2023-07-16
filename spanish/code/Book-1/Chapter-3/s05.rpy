@@ -148,7 +148,7 @@ translate spanish b1c03s05_13556e6d:
 translate spanish b1c03s05_be30ec21:
 
     # lw "Jesus, you were fully naked?!"
-    lw "¡¿Jesús, estabas completamente desnudo?!"
+    lw "Jesús, ¡¿estabas completamente desnudo?!"
 
 # game/code/Book-1/Chapter-3/s05.rpy:110
 translate spanish b1c03s05_e8fea151:
@@ -196,7 +196,7 @@ translate spanish b1c03s05_2b5e23c5:
 translate spanish b1c03s05_6cded40f:
 
     # jh "Maybe if you could be trusted to {i}say{/i} it was okay."
-    jh "Tal vez si pudieras confiar en ti para {i}decir{/i} que estaría bien."
+    jh "Tal vez si pudieras confiar en ti para {i}decir{/i} que estaba bien."
 
 # game/code/Book-1/Chapter-3/s05.rpy:141
 translate spanish b1c03s05_5cc352a5:
@@ -214,7 +214,7 @@ translate spanish b1c03s05_a727415a:
 translate spanish b1c03s05_730eaa33:
 
     # mc "Uh, hey guys, why don't we focus on organizing the room?"
-    mc "Eh, hola chicos, ¿por qué no nos enfocamos en organizar la habitación?"
+    mc "Eh, hola chicas, ¿por qué no nos enfocamos en organizar la habitación?"
 
 # game/code/Book-1/Chapter-3/s05.rpy:150
 translate spanish b1c03s05_b307b52f:
@@ -268,7 +268,7 @@ translate spanish b1c03s05_568927c4:
 translate spanish b1c03s05_ab645cf5:
 
     # mc "Wait, Josie haven't you done rock climbing before?"
-    mc "Espera, Josie, ¿no has escalado rocas antes?"
+    mc "Espera, Josie, ¿no has hecho escalada antes?"
 
 # game/code/Book-1/Chapter-3/s05.rpy:178
 translate spanish b1c03s05_c517fbd6:
@@ -370,7 +370,7 @@ translate spanish b1c03s05_bab95e07:
 translate spanish b1c03s05_d4f89731:
 
     # mc "Great. I'll take the top bunk, Josie can take the bottom, and Lara takes the single. Sound good?"
-    mc "Excelente. Yo tomaré la litera de arriba, Josie puede tomar la de abajo y Lara tomará la individual. ¿Suena bien?"
+    mc "Excelente. Yo tomaré la litera de arriba, Josie puede tomar la de abajo y Lara tomará la cama individual. ¿Suena bien?"
 
 # game/code/Book-1/Chapter-3/s05.rpy:231
 translate spanish b1c03s05_d9a7c924:
@@ -538,7 +538,7 @@ translate spanish b1c03s05_a25ceb4f:
 translate spanish b1c03s05_e5eb42e7:
 
     # jh "We both started college a year late, so we bonded over that."
-    jh "Ambas comenzamos la universidad un año tarde, así que nos unimos por eso."
+    jh "Las dos empezamos la universidad un año tarde, así que eso nos unió."
 
 # game/code/Book-1/Chapter-3/s05.rpy:321
 translate spanish b1c03s05_da9193b6:
@@ -604,7 +604,7 @@ translate spanish b1c03s05_7ee23090:
 translate spanish b1c03s05_e46735f5:
 
     # lw "But it turned out the best for both of us, right?"
-    lw "Pero resultó lo mejor para las dos, ¿verdad?"
+    lw "Pero resultó siendo lo mejor para las dos, ¿verdad?"
 
 # game/code/Book-1/Chapter-3/s05.rpy:356
 translate spanish b1c03s05_4d1c7985:
@@ -653,12 +653,4 @@ translate spanish b1c03s05_6651ab87:
 
     # mc "Alright."
     mc "Está bien."
-
-# TODO: Translation updated at 2023-07-15 01:36
-
-translate spanish strings:
-
-    # game/code/Book-1/Chapter-3/s05.rpy:398
-    old "Save your game here"
-    new "Save your game here"
 

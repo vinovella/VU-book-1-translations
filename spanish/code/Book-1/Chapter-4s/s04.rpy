@@ -4,7 +4,7 @@
 translate spanish b1c04ss04_01936d89:
 
     # ir "Congratulations on your performance, handsome."
-    ir "Enhorabuena por tu actuación, guapo."
+    ir "Felicitaciones por tu actuación, guapo."
 
 # game/code/Book-1/Chapter-4s/s04.rpy:34
 translate spanish b1c04ss04_bb65bf31:
@@ -22,7 +22,7 @@ translate spanish b1c04ss04_c764b975:
 translate spanish b1c04ss04_c658784a:
 
     # mc "Uh, thanks."
-    mc "gracias"
+    mc "Uh,gracias"
 
 # game/code/Book-1/Chapter-4s/s04.rpy:42
 translate spanish b1c04ss04_fcbd5ff5:
@@ -46,13 +46,13 @@ translate spanish b1c04ss04_80c2b41c:
 translate spanish b1c04ss04_95a9c40b:
 
     # mc "You're very impressive yourself."
-    mc "Eres muy impresionante tú mismo."
+    mc "Tú también eres impresionante."
 
 # game/code/Book-1/Chapter-4s/s04.rpy:50
 translate spanish b1c04ss04_76113f7e:
 
     # ir "I bet you'll make the team."
-    ir "Apuesto a que harás el equipo."
+    ir "Apuesto a que entrarás en el equipo."
 
 # game/code/Book-1/Chapter-4s/s04.rpy:51
 translate spanish b1c04ss04_182cfdba:
@@ -130,13 +130,13 @@ translate spanish b1c04ss04m01_7b1f3d1d:
 translate spanish b1c04ss04m01_0dbcc2ff:
 
     # mc "Maybe later."
-    mc "Quizas mas tarde."
+    mc "Quizás más tarde."
 
 # game/code/Book-1/Chapter-4s/s04.rpy:108
 translate spanish b1c04ss04m01_31b56572:
 
     # ir "Pfft. Whatever. Your loss."
-    ir "No. Lo que sea. Tu pérdida."
+    ir "No. Lo que sea. Tú te lo pierdes."
 
 # game/code/Book-1/Chapter-4s/s04.rpy:121
 translate spanish b1c04ss04m01_4480f677:
@@ -166,7 +166,7 @@ translate spanish b1c04ss04m01_ca67c997:
 translate spanish b1c04ss04m01_bdac2713:
 
     # "She pays special attention to your tip, attentive to the motions that elicit a pleasured response from you."
-    "Ella presta especial atención a tu propina, atenta a los movimientos que provocan una respuesta placentera de tu parte."
+    "Ella presta especial atención a tu punta, atenta a los movimientos que provocan una respuesta placentera de tu parte."
 
 # game/code/Book-1/Chapter-4s/s04.rpy:158
 translate spanish b1c04ss04m01_8ff03bcb:
@@ -178,7 +178,7 @@ translate spanish b1c04ss04m01_8ff03bcb:
 translate spanish b1c04ss04m01_308d7f12:
 
     # "Her kiss is intense. You feel her tongue brush your lips, tasting you, savoring you."
-    "Su beso es intenso. Sientes su lengua rozar tus labios, saboreándote, saboreándote."
+    "Su beso es intenso. Sientes su lengua rozando tus labios, probándote, saboreándote."
 
 # game/code/Book-1/Chapter-4s/s04.rpy:180
 translate spanish b1c04ss04m01_aebfc1c0:
@@ -310,7 +310,7 @@ translate spanish strings:
 
     # game/code/Book-1/Chapter-4s/s04.rpy:92
     old "Stop Her"
-    new "detenerla"
+    new "Detenerla"
 
     # game/code/Book-1/Chapter-4s/s04.rpy:92
     old "Let Her Shower You With Love"

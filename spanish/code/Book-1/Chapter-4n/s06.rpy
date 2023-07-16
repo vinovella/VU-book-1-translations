@@ -16,13 +16,13 @@ translate spanish b1c04ns06_a96638fd:
 translate spanish b1c04ns06_63fa1613:
 
     # mc "I am. I was just getting ready to sit down."
-    mc "Soy. Me estaba preparando para sentarme."
+    mc "Lo estoy. Me estaba preparando para sentarme."
 
 # game/code/Book-1/Chapter-4n/s06.rpy:28
 translate spanish b1c04ns06_031b817d:
 
     # nv "You wanna sit together?"
-    nv "¿Quieres sentarte juntos?"
+    nv "¿Quieres que nos sentemos juntos?"
 
 # game/code/Book-1/Chapter-4n/s06.rpy:30
 translate spanish b1c04ns06_8b8a764a:
@@ -64,7 +64,7 @@ translate spanish b1c04ns06_a26e28db:
 translate spanish b1c04ns06_473712c0:
 
     # nv "Do you not know?"
-    nv "¿No sabes?"
+    nv "¿No lo sabes?"
 
 # game/code/Book-1/Chapter-4n/s06.rpy:56
 translate spanish b1c04ns06_5b2ccb0b:
@@ -76,7 +76,7 @@ translate spanish b1c04ns06_5b2ccb0b:
 translate spanish b1c04ns06_d0162ce1:
 
     # nv "Oh! You know Delphia. That's nice. I'm sure she appreciates your support."
-    nv "¡Oh! Conoces a Delfia. Qué lindo. Estoy seguro de que aprecia tu apoyo."
+    nv "¡Oh! Conoces a Delphia. Qué lindo. Estoy segura de que aprecia tu apoyo."
 
 # game/code/Book-1/Chapter-4n/s06.rpy:61
 translate spanish b1c04ns06_c45eeab4:
@@ -136,7 +136,7 @@ translate spanish b01c04ns06m01_c5e8e9d3:
 translate spanish b01c04ns06m01_8921e5b5:
 
     # nv "Don't be crass. Athena was born out of a connection of love and trust. I think it's a very interesting representation of that."
-    nv "No seas grosero. Athena nació de una conexión de amor y confianza. Creo que es una representación muy interesante de eso."
+    nv "No seas grosero. Atenea nació de una conexión de amor y confianza. Creo que es una representación muy interesante de eso."
 
 # game/code/Book-1/Chapter-4n/s06.rpy:110
 translate spanish b01c04ns06m01_01cb42ba:
@@ -220,7 +220,7 @@ translate spanish b01c04ns06m01_13f47a15:
 translate spanish b01c04ns06m01_2458921b:
 
     # nv "*giggles* Just watch."
-    nv "*se ríe* Solo mira."
+    nv "*se ríe* Sólo mira."
 
 # game/code/Book-1/Chapter-4n/s06.rpy:167
 translate spanish b01c04ns06m01_8edc215f:
@@ -274,7 +274,7 @@ translate spanish b01c04ns06m01_a5886a96:
 translate spanish b01c04ns06m01_c7bc4c59:
 
     # dk "O father Zeus, you cannot keep me locked away in your mind forever."
-    dk "Oh padre Zeus, no puedes mantenerme encerrado en tu mente para siempre."
+    dk "Oh padre Zeus, no puedes mantenerme encerrada en tu mente para siempre."
 
 # game/code/Book-1/Chapter-4n/s06.rpy:200
 translate spanish b01c04ns06m01_74ef5f2f:
@@ -286,7 +286,7 @@ translate spanish b01c04ns06m01_74ef5f2f:
 translate spanish b01c04ns06m01_e6b13408:
 
     # dk "The confines of this mind suffocate and overpower me. Zeus fears my overtaking him..."
-    dk "Los confines de esta mente me sofocan y me dominan. Zeus teme que lo alcance..."
+    dk "Los confines de esta mente me sofocan y me dominan. Zeus teme que lo supere..."
 
 # game/code/Book-1/Chapter-4n/s06.rpy:212
 translate spanish b01c04ns06m01_2be9797f:
@@ -304,7 +304,7 @@ translate spanish b01c04ns06m01_85e18cf1:
 translate spanish b01c04ns06m01_52fe3e62:
 
     # mc "Is this supposed to happen?"
-    mc "Se supone que pase esto?"
+    mc "¿Se supone que tiene que pasar esto?"
 
 # game/code/Book-1/Chapter-4n/s06.rpy:229
 translate spanish b01c04ns06m01_bda15ad3:
@@ -322,7 +322,7 @@ translate spanish b01c04ns06m01_1cc64ff8:
 translate spanish b01c04ns06m01_50c4385a:
 
     # nv "Of course. The walls are made of a special material. It doesn't actually hurt to slam into it."
-    nv "Por supuesto. Las paredes están hechas de un material especial. En realidad, no duele chocar contra él."
+    nv "Por supuesto. Las paredes están hechas de un material especial. En realidad no duele al golpear contra ella."
 
 # game/code/Book-1/Chapter-4n/s06.rpy:240
 translate spanish b01c04ns06m01_209d9bd6:
@@ -334,7 +334,7 @@ translate spanish b01c04ns06m01_209d9bd6:
 translate spanish b01c04ns06m01_f41b90d9:
 
     # dk "I WILL NOT BE CAGED."
-    dk "NO ESTARÉ ENJAULADO."
+    dk "NO ESTARÉ ENJAULADA."
 
 # game/code/Book-1/Chapter-4n/s06.rpy:262
 translate spanish b01c04ns06m01_61021200:
@@ -346,13 +346,13 @@ translate spanish b01c04ns06m01_61021200:
 translate spanish b01c04ns06m01_191af83a:
 
     # nv "I did her tattoos. I'm really proud of them, actually."
-    nv "Hice sus tatuajes. Estoy muy orgulloso de ellos, en realidad."
+    nv "Hice sus tatuajes. Estoy muy orgullosa de ellos, en realidad."
 
 # game/code/Book-1/Chapter-4n/s06.rpy:266
 translate spanish b01c04ns06m01_14913540:
 
     # mc "Oh yeah, I think she mentioned that to me. I helped her prepare for her part backstage."
-    mc "Oh, sí, creo que ella me lo mencionó. La ayudé a prepararse para su parte detrás del escenario."
+    mc "Sí, creo que me lo mencionó. La ayudé a prepararse para su papel entre bastidores."
 
 # game/code/Book-1/Chapter-4n/s06.rpy:268
 translate spanish b01c04ns06m01_396e266a:
@@ -364,13 +364,13 @@ translate spanish b01c04ns06m01_396e266a:
 translate spanish b01c04ns06m01_bc075232:
 
     # mc "Delphia has a...persuasive way about her."
-    mc "Delphia tiene una... manera persuasiva sobre ella."
+    mc "Delphia tiene una forma... persuasiva de hacer las cosas."
 
 # game/code/Book-1/Chapter-4n/s06.rpy:276
 translate spanish b01c04ns06m01_dce9b23b:
 
     # nv "That she does. {w}I hope she's not too overbearing, though."
-    nv "Que ella lo hace. {w}Sin embargo, espero que no sea demasiado autoritaria."
+    nv "Así es ella.{w} Aunque espero que no sea muy dominante."
 
 # game/code/Book-1/Chapter-4n/s06.rpy:277
 translate spanish b01c04ns06m01_1cc62d03:
@@ -382,7 +382,7 @@ translate spanish b01c04ns06m01_1cc62d03:
 translate spanish b01c04ns06m01_fd8e04cb:
 
     # mc "Intense is an understatement."
-    mc "Intenso es un eufemismo."
+    mc "Intensa es quedarse corto."
 
 # game/code/Book-1/Chapter-4n/s06.rpy:296
 translate spanish b01c04ns06m01_b39a3f52:
@@ -418,13 +418,13 @@ translate spanish b01c04ns06m01_114f6f8e:
 translate spanish b01c04ns06m01_6a93b2dc:
 
     # nv "She's free."
-    nv "ella es libre"
+    nv "Ella es libre."
 
 # game/code/Book-1/Chapter-4n/s06.rpy:331
 translate spanish b01c04ns06m01_e41c9238:
 
     # nv "It must be amazing to be free, like that."
-    nv "Debe ser increíble ser libre, así."
+    nv "Debe ser increíble ser así de libre."
 
 # game/code/Book-1/Chapter-4n/s06.rpy:340
 translate spanish b01c04ns06m01_b9efc1df:
@@ -472,7 +472,7 @@ translate spanish b01c04ns06m01_d9367c0e:
 translate spanish b01c04ns06m01_ef1319e5:
 
     # mc "Yeah, I can't imagine how long it's gonna take to get clean again..."
-    mc "Sí, no puedo imaginar cuánto tiempo me llevará limpiarme de nuevo..."
+    mc "Sí, no puedo imaginarme cuánto tiempo va a llevar volver a estar limpia..."
 
 # game/code/Book-1/Chapter-4n/s06.rpy:368
 translate spanish b01c04ns06m01_d55c6bbe:
@@ -508,7 +508,7 @@ translate spanish b01c04ns06m01_7ac49cba:
 translate spanish b01c04ns06m01_90045981:
 
     # nv "Really? I guess that's fair."
-    nv "¿En realidad? Supongo que eso es justo."
+    nv "¿De verdad? Supongo que eso es justo."
 
 # game/code/Book-1/Chapter-4n/s06.rpy:381
 translate spanish b01c04ns06m01_b36ee568:
@@ -532,7 +532,7 @@ translate spanish b01c04ns06m01_746b3db5:
 translate spanish b01c04ns06m01_d036183b:
 
     # mc "You see things that others don't or wouldn't. You pick up messages where others can't."
-    mc "Ves cosas que otros no ven o no verían. Recoges mensajes donde otros no pueden."
+    mc "Ves cosas que otros no ven o no verían. Captas mensajes donde otros no pueden."
 
 # game/code/Book-1/Chapter-4n/s06.rpy:390
 translate spanish b01c04ns06m01_4657e530:
@@ -556,7 +556,7 @@ translate spanish b01c04ns06m01_5288a5f0:
 translate spanish b01c04ns06m01_f9888139:
 
     # nv "I like to hang out there to decompress."
-    nv "Me gusta pasar el rato allí para descomprimir."
+    nv "Me gusta pasar el rato allí para relajarme."
 
 # game/code/Book-1/Chapter-4n/s06.rpy:399
 translate spanish b01c04ns06m01_da468084:
@@ -568,7 +568,7 @@ translate spanish strings:
 
     # game/code/Book-1/Chapter-4n/s06.rpy:87
     old "Respond with humor"
-    new "responde con humor"
+    new "Responde con humor"
 
     # game/code/Book-1/Chapter-4n/s06.rpy:87
     old "Respond with curiosity"

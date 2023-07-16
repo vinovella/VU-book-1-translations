@@ -4,7 +4,7 @@
 translate spanish b1c04ns03_6f2bd419:
 
     # mct "A butcher shop should have pig's blood. There's gotta be one around here somewhere..."
-    mct "Una carnicería debería tener sangre de cerdo. Tiene que haber uno por aquí en alguna parte..."
+    mct "Una carnicería debería tener sangre de cerdo. Tiene que haber una por aquí, en alguna parte..."
 
 # game/code/Book-1/Chapter-4n/s03.rpy:12
 translate spanish b1c04ns03_33c332da:
@@ -28,7 +28,7 @@ translate spanish b1c04ns03_3aab59db:
 translate spanish b1c04ns03_13492460:
 
     # mct "I should've asked Delphia where she expected me to get it from."
-    mct "Debería haberle preguntado a Delphia de dónde esperaba que lo consiguiera."
+    mct "Debería haberle preguntado a Delphia de dónde esperaba que lo sacara."
 
 # game/code/Book-1/Chapter-4n/s03.rpy:21
 translate spanish b1c04ns03_70d1d6c2:
@@ -46,7 +46,7 @@ translate spanish b1c04ns03_a72cacf6:
 translate spanish b1c04ns03_261427d5:
 
     # mct "I thought I felt eyes on me..."
-    mct "Creí sentir ojos sobre mí..."
+    mct "Creí sentir unos ojos sobre mí..."
 
 # game/code/Book-1/Chapter-4n/s03.rpy:35
 translate spanish b1c04ns03_c225a3e1:
@@ -166,7 +166,7 @@ translate spanish b1c04ns03_c6f2a717:
 translate spanish b1c04ns03_d5ef3fdd:
 
     # mc "I'm looking for pig's blood. Do you have any?"
-    mc "Estoy buscando sangre de cerdo. ¿Usted tiene alguna?"
+    mc "Estoy buscando sangre de cerdo. ¿Tienes?"
 
 # game/code/Book-1/Chapter-4n/s03.rpy:95
 translate spanish b1c04ns03_b2f287d2:
@@ -190,7 +190,7 @@ translate spanish b1c04ns03_ec66f22f:
 translate spanish b1c04ns03_073fb99a:
 
     # gd "Whatcha needin' it for?"
-    gd "¿Para qué lo necesitas?"
+    gd "¿Para qué la necesitas?"
 
 # game/code/Book-1/Chapter-4n/s03.rpy:106
 translate spanish b1c04ns03_4134ad4f:
@@ -220,13 +220,13 @@ translate spanish b1c04ns03_71aa5431:
 translate spanish b1c04ns03_e8f24259:
 
     # mct "Kiddo? Is he joking?"
-    mct "¿Niño? ¿Está bromeando?"
+    mct "¿Chico? ¿Está bromeando?"
 
 # game/code/Book-1/Chapter-4n/s03.rpy:119
 translate spanish b1c04ns03_2131991b:
 
     # gd "I've heard reports of a cult around here. Don't want any involvement with them or their sinister rituals, so I screen who the blood goes out to."
-    gd "He oído informes de una secta por aquí. No quiero involucrarme con ellos ni con sus siniestros rituales, así que evalúo a quién va la sangre."
+    gd "He oído hablar de una secta por aquí. No quiero involucrarme con ellos ni con sus siniestros rituales, así que selecciono a quien le doy la sangre."
 
 # game/code/Book-1/Chapter-4n/s03.rpy:122
 translate spanish b1c04ns03_9dc595bc:
@@ -304,7 +304,7 @@ translate spanish b1c04ns03_9f6efbda:
 translate spanish b1c04ns03_d8509999:
 
     # gd "I'll get ya the blood and send ya on your way.{w} Sally here will get ya ringed up."
-    gd "Te conseguiré la sangre y te enviaré por tu camino. {w} Sally te llamará."
+    gd "Te conseguiré la sangre y te sacaré de aquí.{w} Sally te llamará."
 
 # game/code/Book-1/Chapter-4n/s03.rpy:160
 translate spanish b1c04ns03_62dfce65:
@@ -316,13 +316,13 @@ translate spanish b1c04ns03_62dfce65:
 translate spanish b1c04ns03_ad437d49:
 
     # sd "I was in one."
-    sd "yo estaba en uno"
+    sd "Yo estaba en uno."
 
 # game/code/Book-1/Chapter-4n/s03.rpy:172
 translate spanish b1c04ns03_bf85598f:
 
     # sd "I got out of it after it ruined my life... My brother was kind enough to help me get back on my feet."
-    sd "Salí después de que arruinara mi vida... Mi hermano tuvo la amabilidad de ayudarme a recuperarme."
+    sd "Me salí de ella después de que arruinara mi vida... Mi hermano tuvo la amabilidad de ayudarme a recuperarme."
 
 # game/code/Book-1/Chapter-4n/s03.rpy:178
 translate spanish b1c04ns03_3eaa9d5d:
@@ -376,7 +376,7 @@ translate spanish b1c04ns03_38258c58:
 translate spanish b1c04ns03_2d825a13:
 
     # sd "Come again!"
-    sd "¡Llegar de nuevo!"
+    sd "¡Vuelve otra vez!"
 
 # game/code/Book-1/Chapter-4n/s03.rpy:210
 translate spanish b1c04ns03_4b81c702:
@@ -388,7 +388,7 @@ translate spanish b1c04ns03_4b81c702:
 translate spanish b1c04ns03_7005e8ff:
 
     # mct "I can't believe I just purchased pig's blood for some crazy theater girl like some errand boy."
-    mct "No puedo creer que acabo de comprar sangre de cerdo para una chica de teatro loca como un chico de los recados."
+    mct "No puedo creer que acabe de comprar sangre de cerdo para una loca chica de teatro como si fuera el chico de los recados."
 
 # game/code/Book-1/Chapter-4n/s03.rpy:220
 translate spanish b1c04ns03_c76d7bbc:
@@ -400,7 +400,7 @@ translate spanish b1c04ns03_c76d7bbc:
 translate spanish b1c04ns03_56a92f00:
 
     # mct "Enough complaining. I'll get this back to Delphia if that's what it takes to get more information."
-    mct "Basta de quejarse. Le devolveré esto a Delphia si eso es lo que se necesita para obtener más información."
+    mct "Basta de quejas. Le llevaré esto a Delphia si es lo que necesito para obtener más información."
 
 # game/code/Book-1/Chapter-4n/s03.rpy:224
 translate spanish b1c04ns03_23de53a9:
@@ -454,7 +454,7 @@ translate spanish b1c04ns03_6522218a:
 translate spanish b1c04ns03_20b8c0d3:
 
     # mct "I swear I'm being tracked..."
-    mct "Te juro que me están rastreando..."
+    mct "Juro que me están rastreando..."
 
 # game/code/Book-1/Chapter-4n/s03.rpy:242
 translate spanish b1c04ns03_dad53505:
@@ -472,7 +472,7 @@ translate spanish b1c04ns03_e534d3ee:
 translate spanish b1c04ns03_7715040f:
 
     # mct "Well, I made it safe here.{w} I guess."
-    mct "Bueno, lo hice seguro aquí. {w} Supongo."
+    mct "Bueno, llegué a salvo hasta aquí.{w} Supongo."
 
 # game/code/Book-1/Chapter-4n/s03.rpy:246
 translate spanish b1c04ns03_12484329:

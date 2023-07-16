@@ -269,4 +269,3 @@ translate spanish b1c03s03_38d240be:
 
     # dm "Please find those girls, detective."
     dm "Por favor encuentre a esas chicas, detective."
-

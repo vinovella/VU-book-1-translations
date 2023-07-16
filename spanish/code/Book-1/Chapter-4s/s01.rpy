@@ -64,7 +64,7 @@ translate spanish b1c04ss01_9979d0ba:
 translate spanish b1c04ss01_bda7e8f5:
 
     # ir "Oh, you must be new. I'm Iona."
-    ir "Oh, debes ser nuevo. soy iona"
+    ir "Oh, debes ser nuevo. Soy Iona"
 
 # game/code/Book-1/Chapter-4s/s01.rpy:37
 translate spanish b1c04ss01_a75fe74e:
@@ -118,7 +118,7 @@ translate spanish b1c04ss01_8cc0a348:
 translate spanish b1c04ss01_65775263:
 
     # ir "Since I got here. It's a nice outlet, and I like most of the people on the team."
-    ir "Desde que llegué aquí. Es una buena salida, y me gusta la mayoría de la gente del equipo."
+    ir "Desde que llegué aquí. Es una válvula de escape agradable, y me gusta la mayoría de la gente del equipo."
 
 # game/code/Book-1/Chapter-4s/s01.rpy:62
 translate spanish b1c04ss01_835b55f6:
@@ -136,13 +136,13 @@ translate spanish b1c04ss01_94defcf1:
 translate spanish b1c04ss01_5f074df5:
 
     # mc "Damn. I'll really need to bring my A-game, huh?"
-    mc "Maldición. Realmente necesitaré traer mi juego A, ¿eh?"
+    mc "Maldita sea. Voy a tener que traer mi mejor juego, ¿verdad?"
 
 # game/code/Book-1/Chapter-4s/s01.rpy:71
 translate spanish b1c04ss01_f2a1aab0:
 
     # ir "Yep. We don't take kindly to weaklings on this team."
-    ir "Sí. No nos agradan los debiluchos de este equipo."
+    ir "Sí. No nos agradan los debiluchos en este equipo."
 
 # game/code/Book-1/Chapter-4s/s01.rpy:72
 translate spanish b1c04ss01_7aca2e86:
@@ -160,7 +160,7 @@ translate spanish b1c04ss01_f4c1f212:
 translate spanish b1c04ss01_e3284066:
 
     # mc "Sounds like my kind of environment."
-    mc "Suena como mi tipo de entorno."
+    mc "Suena como mi tipo de ambiente."
 
 # game/code/Book-1/Chapter-4s/s01.rpy:79
 translate spanish b1c04ss01_1843e971:
@@ -190,7 +190,7 @@ translate spanish b1c04ss01_e15eb299:
 translate spanish b1c04ss01_47fd59f2:
 
     # ir "I'm curious. What's your opinion on the matter?"
-    ir "Soy curioso. ¿Cuál es tu opinión sobre el asunto?"
+    ir "Soy curiosa. ¿Cuál es tu opinión sobre el asunto?"
 
 # game/code/Book-1/Chapter-4s/s01.rpy:102
 translate spanish b01c04ss01m01_87271f56:
@@ -214,13 +214,13 @@ translate spanish b01c04ss01m01_7aadf7f8:
 translate spanish b01c04ss01m01_f608fda1:
 
     # ir "Being sad or scared won't help anything. It's not like we're saying we don't love or care for the missing girls."
-    ir "Estar triste o asustado no ayudará en nada. No es que estemos diciendo que no amamos o no nos preocupamos por las niñas desaparecidas."
+    ir "Estar triste o asustado no ayudará en nada. No es que estemos diciendo que no amamos o no nos preocupamos por las chicas desaparecidas."
 
 # game/code/Book-1/Chapter-4s/s01.rpy:112
 translate spanish b01c04ss01m01_c6050117:
 
     # ir "Shit. I mean... Klara and I were pretty good friends. I miss her."
-    ir "Mierda. Quiero decir... Klara y yo éramos muy buenos amigos. la extraño"
+    ir "Mierda. Quiero decir... Klara y yo éramos muy buenas amigas. la extraño"
 
 # game/code/Book-1/Chapter-4s/s01.rpy:113
 translate spanish b01c04ss01m01_1747486c:
@@ -286,7 +286,7 @@ translate spanish b01c04ss01m01_f2c160cd:
 translate spanish b01c04ss01m01_36a8895c:
 
     # ir "Klara, Leia, and Maria wouldn't care, and if they did, dontcha think that'd be selfish of them?"
-    ir "A Klara, Leia y Maria no les importaría, y si lo hicieran, ¿no crees que sería egoísta de su parte?"
+    ir "A Klara, Leia y María no les importaría, y si les importara, ¿no crees que sería egoísta por su parte?"
 
 # game/code/Book-1/Chapter-4s/s01.rpy:148
 translate spanish b01c04ss01m01_3be9d37c:
@@ -334,13 +334,13 @@ translate spanish b01c04ss01m01_33707cc6:
 translate spanish b01c04ss01m01_4c21d7f6:
 
     # mc "For what it's worth, I don't think a party is all bad, even if I see some downsides to it."
-    mc "Por lo que vale, no creo que una fiesta sea del todo mala, aunque le veo algunas desventajas."
+    mc "Por si sirve de algo, no creo que una fiesta sea tan mala, aunque le veo algunos inconvenientes."
 
 # game/code/Book-1/Chapter-4s/s01.rpy:164
 translate spanish b01c04ss01m01_934b7c1f:
 
     # ir "I appreciate that."
-    ir "Soy consciente de que."
+    ir "Soy consciente de eso."
 
 # game/code/Book-1/Chapter-4s/s01.rpy:170
 translate spanish b01c04ss01m01_9fce06e2:
@@ -352,7 +352,7 @@ translate spanish b01c04ss01m01_9fce06e2:
 translate spanish b01c04ss01m01_db30cd08:
 
     # ir "Yep. It gets the job done, and it's pretty fun to just hang out, too. Chat and watch others practice or work out."
-    ir "Sí. Hace el trabajo, y también es muy divertido pasar el rato. Chatea y mira a otros practicar o hacer ejercicio."
+    ir "Sí. Cumple su función y, además, es muy divertido pasar el rato. Conversar y ver a otros entrenar o hacer ejercicio."
 
 # game/code/Book-1/Chapter-4s/s01.rpy:176
 translate spanish b01c04ss01m01_7208f608:
@@ -376,7 +376,7 @@ translate spanish strings:
 
     # game/code/Book-1/Chapter-4s/s01.rpy:94
     old "I like the idea of a party!"
-    new "Me gusta la idea de una fiesta!"
+    new "¡Me gusta la idea de una fiesta!"
 
     # game/code/Book-1/Chapter-4s/s01.rpy:94
     old "Isn't it kinda disrespectful?"

@@ -22,7 +22,7 @@ translate spanish b1c04ns01_f4fea6ed:
 translate spanish b1c04ns01_9232514b:
 
     # mct "Oh, what's this?"
-    mct "¿Oh que es esto?"
+    mct "Oh, ¿qué es esto?"
 
 # game/code/Book-1/Chapter-4n/s01.rpy:25
 translate spanish b1c04ns01_75dc0bdd:
@@ -58,7 +58,7 @@ translate spanish b1c04ns01_858562f4:
 translate spanish b1c04ns01_cae31181:
 
     # dk "No. Stay."
-    dk "No quedarse."
+    dk "No. Quédate."
 
 # game/code/Book-1/Chapter-4n/s01.rpy:85
 translate spanish b1c04ns01_4aae1f54:
@@ -118,7 +118,7 @@ translate spanish b1c04ns01_b6be6460:
 translate spanish b1c04ns01_bece8c93:
 
     # dk "Maybe I do. But what do I get in exchange? What's in it for me?"
-    dk "Quizás lo haga. Pero, ¿qué obtengo a cambio? ¿Qué hay para mi ahí dentro?"
+    dk "Quizás lo sepa. Pero, ¿qué obtengo a cambio? ¿Qué gano yo?"
 
 # game/code/Book-1/Chapter-4n/s01.rpy:127
 translate spanish b1c04ns01_884867ad:
@@ -166,13 +166,13 @@ translate spanish b1c04ns01_cdf77422:
 translate spanish b1c04ns01_c9f3092e:
 
     # dk "Don't look at me like that. It's not like you sneaking into my dorm room to ask about a woman you haven't even met isn't any less questionable."
-    dk "No me mires así. No es como si te colaras en mi dormitorio para preguntar por una mujer que ni siquiera has conocido, no es menos cuestionable."
+    dk "No me mires así. No es como si colarte en mi dormitorio para preguntar por una mujer que ni siquiera conoces no fuera menos cuestionable."
 
 # game/code/Book-1/Chapter-4n/s01.rpy:153
 translate spanish b1c04ns01_fd82c885:
 
     # mc "I didn't sneak in! I knocked multiple times but you couldn't hear it over your music."
-    mc "¡Yo no me colé! Llamé a la puerta varias veces, pero no podías oírlo por encima de tu música."
+    mc "¡No me colé! Llamé a la puerta varias veces, pero no se oía con la música."
 
 # game/code/Book-1/Chapter-4n/s01.rpy:156
 translate spanish b1c04ns01_71b62e07:
@@ -226,7 +226,7 @@ translate spanish b1c04ns01_fafb15bc:
 translate spanish b1c04ns01_0a68f23f:
 
     # dk "After you get the blood, you can bring the blood to me at the theater on campus."
-    dk "Después de obtener la sangre, puedes traerme la sangre al teatro del campus."
+    dk "Después de obtener la sangre, puedes traérmela al teatro del campus."
 
 # game/code/Book-1/Chapter-4n/s01.rpy:183
 translate spanish b1c04ns01_3b5c56f2:
@@ -238,13 +238,13 @@ translate spanish b1c04ns01_3b5c56f2:
 translate spanish b1c04ns01_7bb718ae:
 
     # dk "That's not really your concern, but..."
-    dk "Eso no es realmente tu preocupación, pero..."
+    dk "Eso no es realmente de tu incumbencia, pero..."
 
 # game/code/Book-1/Chapter-4n/s01.rpy:188
 translate spanish b1c04ns01_2394d0ea:
 
     # dk "If you {i}must{/i} know, I'm the lead in a prestigious theater play. I need it for my performance."
-    dk "Si {i}debes{/i} saberlo, soy el protagonista de una prestigiosa obra de teatro. Lo necesito para mi actuación."
+    dk "Si {i}debes{/i} saberlo, soy la protagonista de una prestigiosa obra de teatro. Lo necesito para mi actuación."
 
 # game/code/Book-1/Chapter-4n/s01.rpy:191
 translate spanish b1c04ns01_8ae9b3bd:
@@ -292,19 +292,19 @@ translate spanish b1c04ns01_842cf386:
 translate spanish b1c04ns01_7a85964e:
 
     # mc "Just being friendly."
-    mc "Solo siendo amigable."
+    mc "Sólo ser amigable."
 
 # game/code/Book-1/Chapter-4n/s01.rpy:213
 translate spanish b1c04ns01_18dc657b:
 
     # dk "That's a load of bullshit, but I'm sure she'd like a distraction from life right now."
-    dk "Eso es un montón de tonterías, pero estoy seguro de que le gustaría una distracción de la vida en este momento."
+    dk "Eso es un montón de tonterías, pero estoy segura de que le gustaría una distracción de la vida en este momento."
 
 # game/code/Book-1/Chapter-4n/s01.rpy:216
 translate spanish b1c04ns01_7fc7023c:
 
     # dk "And I'm sure you know how to distract a woman."
-    dk "Y estoy seguro de que sabes cómo distraer a una mujer."
+    dk "Y estoy segura de que sabes cómo distraer a una mujer."
 
 # game/code/Book-1/Chapter-4n/s01.rpy:217
 translate spanish b1c04ns01_7c973e62:
@@ -334,7 +334,7 @@ translate spanish b1c04ns01_fc638ac1:
 translate spanish b1c04ns01_46274279:
 
     # dk "You promised to get me that pig's blood. Don't flake out, or you'll regret it. Just because I've given you the info beforehand doesn't mean you're any less bound to this."
-    dk "Prometiste traerme esa sangre de cerdo. No te desanimes, o te arrepentirás. El hecho de que te haya dado la información de antemano no significa que estés menos atado a esto."
+    dk "Prometiste conseguirme esa sangre de cerdo. No falles, o lo lamentarás. Sólo porque te haya dado la información de antemano no significa que estés menos obligado a esto."
 
 # game/code/Book-1/Chapter-4n/s01.rpy:232
 translate spanish b1c04ns01_e1b402ea:
@@ -346,7 +346,7 @@ translate spanish b1c04ns01_e1b402ea:
 translate spanish b1c04ns01_9d97d990:
 
     # mc "Uh, yeah. I'll get it for you. Thanks for the info."
-    mc "Oh, sí. Yo te lo traigo. Gracias por la info."
+    mc "Oh, sí. Yo te lo traigo. Gracias por la información."
 
 # game/code/Book-1/Chapter-4n/s01.rpy:236
 translate spanish b1c04ns01_a3b1a71e:
@@ -358,5 +358,5 @@ translate spanish b1c04ns01_a3b1a71e:
 translate spanish b1c04ns01_dd177510:
 
     # dk "Fuck... I'm so close."
-    dk "Joder... estoy tan cerca."
+    dk "Mierda... estoy tan cerca."
 
