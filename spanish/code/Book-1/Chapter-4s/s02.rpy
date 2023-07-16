@@ -46,7 +46,7 @@ translate spanish b1c04ss02_39d3f267:
 translate spanish b1c04ss02_29f70de8:
 
     # sm "But the photographer just flaked out on me."
-    sm "Pero el fotógrafo simplemente se enfadó conmigo."
+    sm "Pero el fotógrafo simplemente se enojó conmigo."
 
 # game/code/Book-1/Chapter-4s/s02.rpy:49
 translate spanish b1c04ss02_95182730:
@@ -70,7 +70,7 @@ translate spanish b1c04ss02_88030c73:
 translate spanish b1c04ss02_e963666e:
 
     # sm "Oh yeah! I do it as a side-gig. I find it rather fun."
-    sm "¡Oh sí! Lo hago como un concierto secundario. Lo encuentro bastante divertido."
+    sm "Ah, sí. Lo hago como un trabajo extra. Me parece bastante divertido."
 
 # game/code/Book-1/Chapter-4s/s02.rpy:61
 translate spanish b1c04ss02_0f33d4cf:
@@ -88,7 +88,7 @@ translate spanish b1c04ss02_b2297244:
 translate spanish b1c04ss02_e42d2ab0:
 
     # sm "Ms. Abel, this is [mcname]. He's new."
-    sm "Sra. Abel, soy [mcname]. el es nuevo"
+    sm "Sra. Abel, este es [mcname]. Él es nuevo"
 
 # game/code/Book-1/Chapter-4s/s02.rpy:73
 translate spanish b1c04ss02_2c6180c8:
@@ -100,13 +100,13 @@ translate spanish b1c04ss02_2c6180c8:
 translate spanish b1c04ss02_9731f435:
 
     # mc "Pleasure to meet you."
-    mc "Placer conocerte."
+    mc "Un placer conocerte."
 
 # game/code/Book-1/Chapter-4s/s02.rpy:82
 translate spanish b1c04ss02_ad82d930:
 
     # sa "What's up? You seem stressed."
-    sa "¿Qué pasa? Pareces estresado."
+    sa "¿Qué pasa? Pareces estresada."
 
 # game/code/Book-1/Chapter-4s/s02.rpy:85
 translate spanish b1c04ss02_e17b2f37:
@@ -118,7 +118,7 @@ translate spanish b1c04ss02_e17b2f37:
 translate spanish b1c04ss02_04042ef2:
 
     # sa "Damn. Alright. Do you have any backup plans?"
-    sa "Maldición. Está bien. ¿Tiene algún plan de respaldo?"
+    sa "Maldición. Está bien. ¿Tienes algún plan de respaldo?"
 
 # game/code/Book-1/Chapter-4s/s02.rpy:91
 translate spanish b1c04ss02_7a6c3708:
@@ -148,7 +148,7 @@ translate spanish b1c04ss02_1f506f51:
 translate spanish b1c04ss02_f2cefc1a:
 
     # sm "Oh, awesome! Here, let me get the application..."
-    sm "¡Impresionante! Toma, déjame obtener la aplicación..."
+    sm "¡Impresionante! Toma, déjame traer la solicitud..."
 
 # game/code/Book-1/Chapter-4s/s02.rpy:104
 translate spanish b1c04ss02_9e67beeb:
@@ -208,19 +208,19 @@ translate spanish b1c04ss02_c9a3013b:
 translate spanish b1c04ss02_bf4a2eee:
 
     # sm "It's kind of a lengthy process. Basically, we don't want you to sue us if you get hurt."
-    sm "Es una especie de proceso largo. Básicamente, no queremos que nos demandes si te lastimas."
+    sm "Es un proceso bastante largo. Básicamente, no queremos que nos demandes si te haces daño."
 
 # game/code/Book-1/Chapter-4s/s02.rpy:136
 translate spanish b1c04ss02_9b034715:
 
     # mc "Ah. The ole sell-your-soul trick."
-    mc "ah El viejo truco de vender tu alma."
+    mc "Ah. El viejo truco de vender tu alma."
 
 # game/code/Book-1/Chapter-4s/s02.rpy:139
 translate spanish b1c04ss02_51a56b69:
 
     # sm "Now you're getting it."
-    sm "Ahora lo estás consiguiendo."
+    sm "Ahora lo estás entendiendo."
 
 # game/code/Book-1/Chapter-4s/s02.rpy:140
 translate spanish b1c04ss02_adbd4274:
@@ -352,7 +352,7 @@ translate spanish b1c04ss02_4cd0d8bf:
 translate spanish b1c04ss02_ad227d59:
 
     # sm "I'm sure it'll be fine. The team is very competitive. Cutthroat would also be a good way to describe it."
-    sm "Estoy seguro de que estará bien. El equipo es muy competitivo. Cutthroat también sería una buena manera de describirlo."
+    sm "Estoy segura de que te irá bien. El equipo es muy competitivo. Feroz también sería una buena forma de describirlo."
 
 # game/code/Book-1/Chapter-4s/s02.rpy:199
 translate spanish b1c04ss02_bd1813ae:
@@ -376,7 +376,7 @@ translate spanish b1c04ss02_cda4e19a:
 translate spanish b1c04ss02_8cfa9ead:
 
     # sm "There's the locker rooms. You should go change for tryouts."
-    sm "Están los vestuarios. Deberías ir a cambiarte para las pruebas."
+    sm "Ahí están los vestuarios. Deberías ir a cambiarte para las pruebas."
 
 # game/code/Book-1/Chapter-4s/s02.rpy:217
 translate spanish b1c04ss02_4a67df76:
@@ -454,25 +454,25 @@ translate spanish b1c04ss02_484221d2:
 translate spanish b1c04ss02_4d1616da:
 
     # sm "I'm sure you two can bond over the grueling team work."
-    sm "Estoy seguro de que ustedes dos pueden unirse por el agotador trabajo en equipo."
+    sm "Estoy segura de que ustedes dos pueden estrechar lazos por el agotador trabajo en equipo."
 
 # game/code/Book-1/Chapter-4s/s02.rpy:261
 translate spanish b1c04ss02_9b06fdbe:
 
     # sm "In my experience, there's no better friendship builder than back-breaking team work."
-    sm "En mi experiencia, no hay mejor constructor de amistades que el trabajo en equipo agotador."
+    sm "En mi experiencia, no hay mejor constructor de amistades que el agotador trabajo en equipo."
 
 # game/code/Book-1/Chapter-4s/s02.rpy:262
 translate spanish b1c04ss02_57c62f23:
 
     # sm "Speaking of which... Simon, how's practice going?"
-    sm "Hablando de eso... Simon, ¿cómo va la práctica?"
+    sm "Hablando de eso... Simón, ¿cómo va la práctica?"
 
 # game/code/Book-1/Chapter-4s/s02.rpy:265
 translate spanish b1c04ss02_e92dd8ff:
 
     # sl "It's going great. I beat my record for pushups today."
-    sl "Que va muy bien. Batí mi récord de flexiones hoy."
+    sl "Va muy bien. Batí mi récord de flexiones hoy."
 
 # game/code/Book-1/Chapter-4s/s02.rpy:266
 translate spanish b1c04ss02_779868c4:
@@ -484,13 +484,13 @@ translate spanish b1c04ss02_779868c4:
 translate spanish b1c04ss02_d28cd95d:
 
     # sm "That's great! You can show [mcname] to the locker room, then."
-    sm "¡Genial! Entonces puedes mostrar a [mcname] en el vestuario."
+    sm "¡Genial! Entonces puedes mostrarle a [mcname] el vestuario."
 
 # game/code/Book-1/Chapter-4s/s02.rpy:272
 translate spanish b1c04ss02_8863f73f:
 
     # sm "Get to it, guys. I'll see you in a few. Tryouts will start soon."
-    sm "Háganlo, muchachos. Te veré en unos pocos. Las pruebas comenzarán pronto."
+    sm "Manos a la obra, chicos. Nos vemos en un rato. Las pruebas comenzarán pronto."
 
 # game/code/Book-1/Chapter-4s/s02.rpy:274
 translate spanish b1c04ss02_bcab19e1:
@@ -514,13 +514,13 @@ translate spanish b1c04ss02_6a7c9d1f:
 translate spanish b1c04ss02_afecd2b0:
 
     # sl "I'm gonna hit the showers. You should look for Coach Shontae next. She'll be the one to test your physical strength."
-    sl "Voy a ir a las duchas. Deberías buscar al entrenador Shontae a continuación. Ella será la que pruebe tu fuerza física."
+    sl "Voy a ir a las duchas. Deberías buscar a la entrenadora Shontae a continuación. Ella será la que ponga a prueba tu fuerza física."
 
 # game/code/Book-1/Chapter-4s/s02.rpy:287
 translate spanish b1c04ss02_d1bd82e0:
 
     # mc "Will do. I'll catch ya later."
-    mc "Servirá. Te alcanzaré más tarde."
+    mc "Lo haré. Te alcanzaré más tarde."
 
 # game/code/Book-1/Chapter-4s/s02.rpy:296
 translate spanish b1c04ss02_fe562a3c:
