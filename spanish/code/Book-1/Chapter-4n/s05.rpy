@@ -106,7 +106,7 @@ translate spanish b1c04ns05_14d55860:
 translate spanish b1c04ns05_767d4770:
 
     # mct "And I'm one step closer to learning more info about Maria."
-    mct "Y estoy un paso más cerca de conocer más información sobre María."
+    mct "Y estoy un paso más cerca de tener más información sobre María."
 
 # game/code/Book-1/Chapter-4n/s05.rpy:67
 translate spanish b1c04ns05_33d63512:
@@ -130,7 +130,7 @@ translate spanish b1c04ns05_73e51035:
 translate spanish b1c04ns05_1166895c:
 
     # dk "Grow up."
-    dk "Crecer."
+    dk "Madura."
 
 # game/code/Book-1/Chapter-4n/s05.rpy:78
 translate spanish b1c04ns05_2d537f32:
@@ -196,7 +196,7 @@ translate spanish b1c04ns05_8bc2ca47:
 translate spanish b1c04ns05_6a931a6f:
 
     # mc "Where...should I start?"
-    mc "¿Donde debería empezar?"
+    mc "¿Dónde debería empezar?"
 
 # game/code/Book-1/Chapter-4n/s05.rpy:105
 translate spanish b1c04ns05_782f94ce:
@@ -208,7 +208,7 @@ translate spanish b1c04ns05_782f94ce:
 translate spanish b1c04ns05_bdd502eb:
 
     # dk "But I do need to be covered in a specific way."
-    dk "Pero sí necesito estar cubierto de una manera específica."
+    dk "Pero necesito que me cubra de una manera específica."
 
 # game/code/Book-1/Chapter-4n/s05.rpy:109
 translate spanish b1c04ns05_42b91bcc:
@@ -232,7 +232,7 @@ translate spanish b1c04ns05_d8f42e36:
 translate spanish b1c04ns05_f34ff2aa:
 
     # dk "I still need all this covered."
-    dk "Todavía necesito todo esto cubierto."
+    dk "Todavía necesito que se cubra todo esto."
 
 # game/code/Book-1/Chapter-4n/s05.rpy:136
 translate spanish b1c04ns05_0b0a9152:
@@ -256,7 +256,7 @@ translate spanish b1c04ns05_cf90f43a:
 translate spanish b1c04ns05_4405b41c:
 
     # dk "I'm not sure why. He's extremely possessive of her, though."
-    dk "No estoy seguro de por qué. Sin embargo, es extremadamente posesivo con ella."
+    dk "No estoy segura de por qué. Sin embargo, es extremadamente posesivo con ella."
 
 # game/code/Book-1/Chapter-4n/s05.rpy:142
 translate spanish b1c04ns05_9c07f4ef:
@@ -316,7 +316,7 @@ translate spanish b1c04ns05_71eb1e93:
 translate spanish b1c04ns05_054c5ee0:
 
     # mc "I see."
-    mc "Veo."
+    mc "Ya veo."
 
 # game/code/Book-1/Chapter-4n/s05.rpy:158
 translate spanish b1c04ns05_c7e9c7af:
@@ -346,7 +346,7 @@ translate spanish b1c04ns05_fb9ed972:
 translate spanish b1c04ns05_5837f99a:
 
     # dk "In fact, Nia's done a lot of tattoos for the self improvement community."
-    dk "De hecho, Nia se ha hecho muchos tatuajes para la comunidad de superación personal."
+    dk "De hecho, Nia ha hecho muchos tatuajes para la comunidad de superación personal."
 
 # game/code/Book-1/Chapter-4n/s05.rpy:171
 translate spanish b1c04ns05_9802136a:
@@ -370,7 +370,7 @@ translate spanish b1c04ns05_752adb73:
 translate spanish b1c04ns05_d3e37e3e:
 
     # mc "Are you...sure?"
-    mc "¿Está seguro?"
+    mc "¿Está segura?"
 
 # game/code/Book-1/Chapter-4n/s05.rpy:198
 translate spanish b1c04ns05_0f77e732:
@@ -388,13 +388,13 @@ translate spanish b1c04ns05_95c7633a:
 translate spanish b1c04ns05_006af7fa:
 
     # dk "Yes, I'm fine. But keep going until I'm covered. My legs still need to be done."
-    dk "Si, estoy bién. Pero sigue adelante hasta que esté cubierto. Todavía tengo que arreglar mis piernas."
+    dk "Sí, estoy bien. Pero sigue hasta que esté cubierta. Todavía me faltan las piernas."
 
 # game/code/Book-1/Chapter-4n/s05.rpy:207
 translate spanish b1c04ns05_e32d7106:
 
     # mc "Do you...want me to cover everything with blood, or are there parts you'd like to do yourself?"
-    mc "¿Quieres... que cubra todo con sangre, o hay partes que te gustaría hacer tú mismo?"
+    mc "¿Quieres... que cubra todo con sangre, o hay partes que te gustaría hacer tú misma?"
 
 # game/code/Book-1/Chapter-4n/s05.rpy:210
 translate spanish b1c04ns05_f4c88d9f:
@@ -436,7 +436,7 @@ translate spanish b1c04ns05_321dbdd3:
 translate spanish b1c04ns05_ca887337:
 
     # dk "I think that's part of why Xasan hated Maria, and our family. We gave Nia an out, a path to something different than what he'd planned for her."
-    dk "Creo que eso es parte de por qué Xasan odiaba a María ya nuestra familia. Le dimos a Nia una salida, un camino hacia algo diferente de lo que él había planeado para ella."
+    dk "Creo que eso es parte de por qué Xasan odiaba a María y a nuestra familia. Le dimos a Nia una salida, un camino hacia algo diferente de lo que él había planeado para ella."
 
 # game/code/Book-1/Chapter-4n/s05.rpy:240
 translate spanish b1c04ns05_fc6b8055:
@@ -454,7 +454,7 @@ translate spanish b1c04ns05_a4116bff:
 translate spanish b1c04ns05_f9eac134:
 
     # mc "Sounds pretty lonely."
-    mc "Suena bastante solitario."
+    mc "Suena bastante solitaria."
 
 # game/code/Book-1/Chapter-4n/s05.rpy:247
 translate spanish b1c04ns05_94bba37b:
@@ -604,7 +604,7 @@ translate spanish b01c04ns05m01_7ec80406:
 translate spanish b01c04ns05m01_87a68802:
 
     # dk "I'm sure."
-    dk "Estoy seguro de que."
+    dk "Estoy segura."
 
 # game/code/Book-1/Chapter-4n/s05.rpy:321
 translate spanish b01c04ns05m01_c02b5d6b:
@@ -676,7 +676,7 @@ translate spanish strings:
 
     # game/code/Book-1/Chapter-4n/s05.rpy:13
     old "Half an hour later"
-    new "Media hora despues"
+    new "Media hora después"
 
     # game/code/Book-1/Chapter-4n/s05.rpy:295
     old "Sounds interesting"
