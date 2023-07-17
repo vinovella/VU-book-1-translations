@@ -46,7 +46,7 @@ translate spanish b1c04zs05_522fb869:
 translate spanish b1c04zs05_cb6b1036:
 
     # "{color=#662727}Salesman{/color}" "Have a good time!" (who_outlines=[(1, "#e1e1e1", 0, 0)], kerning=1)
-    "{color=#662727}Vendedor{/color}" "¡Divertirse!" (who_outlines=[(1, "#e1e1e1", 0, 0)], kerning=1)
+    "{color=#662727}Vendedor{/color}" "¡Diviértete!" (who_outlines=[(1, "#e1e1e1", 0, 0)], kerning=1)
 
 # game/code/Book-1/Chapter-4z/s05.rpy:28
 translate spanish b1c04zs05_a64e8bc0:
@@ -58,7 +58,7 @@ translate spanish b1c04zs05_a64e8bc0:
 translate spanish b1c04zs05_58fb99f6:
 
     # mct "It's been a while since I've shot."
-    mct "Ha pasado un tiempo desde que tiro."
+    mct "Ha pasado un tiempo desde que disparé."
 
 # game/code/Book-1/Chapter-4z/s05.rpy:43
 translate spanish b1c04zs05_be8a71c3:
@@ -154,13 +154,13 @@ translate spanish b1c04zs05_ca038d37:
 translate spanish b1c04zs05_72d64f65:
 
     # mct "I'm sure Phoebe would jokingly agree with me..."
-    mct "Estoy seguro de que Phoebe estaría de acuerdo conmigo en broma..."
+    mct "Estoy seguro de que Phoebe estaría de acuerdo conmigo..."
 
 # game/code/Book-1/Chapter-4z/s05.rpy:115
 translate spanish b1c04zs05_8fb91095:
 
     # mc "But I went fishing with an airgun while I was sailing with my dad. I was a decent shot."
-    mc "Pero fui a pescar con una pistola de aire comprimido mientras navegaba con mi papá. Yo era un tirador decente."
+    mc "Pero fui a pescar con una pistola de aire comprimido mientras viajaba en barco con mi padre. Tenía una puntería decente."
 
 # game/code/Book-1/Chapter-4z/s05.rpy:118
 translate spanish b1c04zs05_90523036:
@@ -196,7 +196,7 @@ translate spanish b1c04zs05_5aebbe73:
 translate spanish b1c04zs05_42e4e525:
 
     # mc "See? Complete {i}luck{/i}."
-    mc "¿Ver? Completa {i}suerte{/i}."
+    mc "¿Ves? Tuve {i}suerte{/i}."
 
 # game/code/Book-1/Chapter-4z/s05.rpy:136
 translate spanish b1c04zs05_c6e36602:
@@ -268,13 +268,13 @@ translate spanish b1c04zs05_4c535000:
 translate spanish b1c04zs05_38171375:
 
     # mct "Hopefully that means she's warming up."
-    mct "Esperemos que eso signifique que se está calentando."
+    mct "Esperemos que eso signifique que está calentando."
 
 # game/code/Book-1/Chapter-4z/s05.rpy:180
 translate spanish b1c04zs05_dbfddc0f:
 
     # zp "I'm sure in no time you'll become proficient at it."
-    zp "Estoy seguro de que en poco tiempo lo dominará."
+    zp "Estoy segura de que en poco tiempo lo dominarás."
 
 # game/code/Book-1/Chapter-4z/s05.rpy:183
 translate spanish b1c04zs05_fd7f8dca:
@@ -322,7 +322,7 @@ translate spanish b1c04zs05_604eb1f7:
 translate spanish b1c04zs05_4c571407:
 
     # zp "I challenge myself because I always want to be improving myself."
-    zp "Me desafío a mí mismo porque siempre quiero mejorarme a mí mismo."
+    zp "Me desafío a mí misma porque siempre quiero mejorarme a mí misma."
 
 # game/code/Book-1/Chapter-4z/s05.rpy:198
 translate spanish b1c04zs05_642630c1:
@@ -346,13 +346,13 @@ translate spanish b1c04zs05_45308e5e:
 translate spanish b1c04zs05_7ff6c5b6:
 
     # zp "Tell me about it. And finding good information can be difficult. There's a lot of gatekeeping."
-    zp "Cuéntame sobre eso. Y encontrar buena información puede ser difícil. Hay mucha vigilancia."
+    zp "Dímelo a mí. Y encontrar buena información puede ser difícil. Hay mucho control."
 
 # game/code/Book-1/Chapter-4z/s05.rpy:206
 translate spanish b1c04zs05_bffe91db:
 
     # zp "I just flip off anyone who judges me while I'm learning. How else am I supposed to learn, if not by fucking around and finding out?"
-    zp "Simplemente le doy la espalda a cualquiera que me juzgue mientras estoy aprendiendo. ¿De qué otra manera se supone que debo aprender, si no es jodiendo y averiguando?"
+    zp "Simplemente, rechazo a cualquiera que me juzgue mientras aprendo. ¿Cómo voy a aprender si no es metiéndome en problemas y aprendiendo?"
 
 # game/code/Book-1/Chapter-4z/s05.rpy:209
 translate spanish b1c04zs05_4e61d85c:
@@ -364,7 +364,7 @@ translate spanish b1c04zs05_4e61d85c:
 translate spanish b1c04zs05_9bb35c1b:
 
     # zp "You get it! Seriously. People like that need to pull the stick out of their ass."
-    zp "¡Usted lo consigue! En serio. La gente así necesita sacarse el palo del culo."
+    zp "¡Tú puedes! De verdad. Ese tipo de gente necesita sacarse el palo del culo."
 
 # game/code/Book-1/Chapter-4z/s05.rpy:215
 translate spanish b1c04zs05_f811506b:
@@ -394,7 +394,7 @@ translate spanish b1c04zs05_6db36d7e:
 translate spanish b1c04zs05_14363c17:
 
     # zp "But I'd be willing to help you get started with the basics."
-    zp "Pero estaría dispuesto a ayudarlo a comenzar con lo básico."
+    zp "Pero estaría dispuesta a ayudarte a empezar con lo básico."
 
 # game/code/Book-1/Chapter-4z/s05.rpy:226
 translate spanish b1c04zs05_3a7e26ac:
@@ -424,7 +424,7 @@ translate spanish b1c04zs05_e395007d:
 translate spanish b1c04zs05_2f0b2a6c:
 
     # mc "20 shots?! That's expecting a lot."
-    mc "20 tiros?! Eso es esperar mucho."
+    mc "¡¿20 tiros?! Eso es esperar mucho."
 
 # game/code/Book-1/Chapter-4z/s05.rpy:239
 translate spanish b1c04zs05_91e31ef4:
@@ -436,7 +436,7 @@ translate spanish b1c04zs05_91e31ef4:
 translate spanish b1c04zs05_167814cd:
 
     # mc "Alright, alright."
-    mc "Bien bien."
+    mc "Bien, bien."
 
 # game/code/Book-1/Chapter-4z/s05.rpy:245
 translate spanish b1c04zs05_eff50908:
@@ -448,7 +448,7 @@ translate spanish b1c04zs05_eff50908:
 translate spanish b1c04zs05_2dbb201f:
 
     # mc "You certainly know how to overdeliver, don't you?"
-    mc "Ciertamente sabes cómo sobreentregar, ¿no?"
+    mc "Tú sí que sabes cómo ofrecer más de la cuenta, ¿verdad?"
 
 # game/code/Book-1/Chapter-4z/s05.rpy:251
 translate spanish b1c04zs05_01a404cf:
@@ -460,5 +460,5 @@ translate spanish b1c04zs05_01a404cf:
 translate spanish b1c04zs05_39de506d:
 
     # mc "On it."
-    mc "En eso."
+    mc "Estoy en eso."
 
