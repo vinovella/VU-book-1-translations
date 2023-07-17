@@ -124,7 +124,7 @@ translate spanish b01c04zs03m01_11455b53:
 translate spanish b01c04zs03m01_81c503cd:
 
     # mct "I see. This must be what the favor is..."
-    mct "Veo. Esto debe ser lo que es el favor..."
+    mct "Ya veo. Este debe ser el favor..."
 
 # game/code/Book-1/Chapter-4z/s03.rpy:118
 translate spanish b01c04zs03m01_ff3a6f7b:
@@ -154,7 +154,7 @@ translate spanish b01c04zs03m01_2158335c:
 translate spanish b01c04zs03m01_6dcff60e:
 
     # "You twitch the moment her tongue teases your tip. You're ravenous for more, but Nirmala wants to take her time teasing you."
-    "Te retuerces en el momento en que su lengua juega con tu punta. Tienes hambre de más, pero Nirmala quiere tomarse su tiempo para molestarte."
+    "Te estremeces en cuanto su lengua te acaricia la punta. Te mueres de ganas de más, pero Nirmala quiere tomarse su tiempo."
 
 # game/code/Book-1/Chapter-4z/s03.rpy:137
 translate spanish b01c04zs03m01_0f336a89:
@@ -232,7 +232,7 @@ translate spanish b01c04zs03m01_5842cef5:
 translate spanish b01c04zs03m01_12604118:
 
     # nr "Make me."
-    nr "Hazme."
+    nr "Oblígame."
 
 # game/code/Book-1/Chapter-4z/s03.rpy:187
 translate spanish b01c04zs03m01_8bc892f0:
@@ -268,7 +268,7 @@ translate spanish b01c04zs03m01_7daacf1b:
 translate spanish b01c04zs03m01_bfd9caab:
 
     # "She wants to taste your cum so much."
-    "Ella quiere probar tu semen tanto."
+    "Tiene tantas ganas de probar tu semen."
 
 # game/code/Book-1/Chapter-4z/s03.rpy:201
 translate spanish b01c04zs03m01_7b9887d8:
@@ -310,7 +310,7 @@ translate spanish b01c04zs03m01_0eaea5d7:
 translate spanish b01c04zs03m01_ffb2aeaa:
 
     # "Nirmala drops her hand from your dick and feels herself up. She cums hard, and her moaning becomes loud enough you worry about others hearing you two."
-    "Nirmala deja caer su mano de tu pene y se siente arriba. Ella se corre con fuerza y ​​sus gemidos se vuelven lo suficientemente fuertes como para preocuparte de que los demás los escuchen a ustedes dos."
+    "Nirmala suelta su mano de tu polla y se toca. Se corre con fuerza, y sus gemidos se hacen tan fuertes que te preocupa que los demás puedan escucharlos."
 
 # game/code/Book-1/Chapter-4z/s03.rpy:214
 translate spanish b01c04zs03m01_59899c46:
@@ -346,7 +346,7 @@ translate spanish b01c04zs03m01_d3628fe4:
 translate spanish b01c04zs03m01_7288359f:
 
     # nr "Thanks, babe."
-    nr "Gracias bebe."
+    nr "Gracias bebé."
 
 # game/code/Book-1/Chapter-4z/s03.rpy:235
 translate spanish b01c04zs03m01_6d5f8951:
@@ -364,7 +364,7 @@ translate spanish b01c04zs03m01_21107879:
 translate spanish b01c04zs03m01_f23e85ec:
 
     # nr "I might if you're around more often. Did you like the blowjob?"
-    nr "Podría si estuvieras cerca más a menudo. ¿Te gustó la mamada?"
+    nr "Podría hacerlo más a menudo. ¿Te gustó la mamada?"
 
 # game/code/Book-1/Chapter-4z/s03.rpy:243
 translate spanish b01c04zs03m01_8bf6cf57:
