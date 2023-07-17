@@ -16,7 +16,7 @@ translate spanish b1c04zs04_81f456c2:
 translate spanish b1c04zs04_34adedd7:
 
     # mc "Hi, I'd like to sign up."
-    mc "hola me gustaria registrarme"
+    mc "Hola me gustaria inscribirme"
 
 # game/code/Book-1/Chapter-4z/s04.rpy:25
 translate spanish b1c04zs04_722738a0:
@@ -40,19 +40,19 @@ translate spanish b1c04zs04_0becc2b1:
 translate spanish b1c04zs04_c97c7b1e:
 
     # mc "I'd like to choose."
-    mc "me gustaria elegir"
+    mc "Me gustaria elegir."
 
 # game/code/Book-1/Chapter-4z/s04.rpy:34
 translate spanish b1c04zs04_137aaff9:
 
     # "{color=#662727}Salesman{/color}" "Alright. Please fill out your application, and review these safety rules. Then you can choose a firearm and I'll show you to the range." (who_outlines=[(1, "#e1e1e1", 0, 0)], kerning=1)
-    "{color=#662727}Vendedor{/color}" "Está bien. Complete su solicitud y revise estas reglas de seguridad. Luego puedes elegir un arma de fuego y te mostraré el rango." (who_outlines=[(1, "#e1e1e1", 0, 0)], kerning=1)
+    "{color=#662727}Vendedor{/color}" "De acuerdo. Por favor, rellene su solicitud, y revise estas normas de seguridad. Luego puedes elegir un arma de fuego y te mostraré el campo de tiro." (who_outlines=[(1, "#e1e1e1", 0, 0)], kerning=1)
 
 # game/code/Book-1/Chapter-4z/s04.rpy:36
 translate spanish b1c04zs04_b3239629:
 
     # mc "Alright, thanks."
-    mc "OK gracias."
+    mc "Está bien, gracias."
 
 # game/code/Book-1/Chapter-4z/s04.rpy:38
 translate spanish b1c04zs04_09b7c0a6:
@@ -82,7 +82,7 @@ translate spanish b1c04zs04_d35f09b4:
 translate spanish b1c04zs04_93658b44:
 
     # pm "C'mon, I explained this already. I know you've got this."
-    pm "Vamos, esto ya lo expliqué. Sé que tienes esto."
+    pm "Vamos, ya expliqué esto. Sé que lo entiendes."
 
 # game/code/Book-1/Chapter-4z/s04.rpy:56
 translate spanish b1c04zs04_a0a762ec:
@@ -112,7 +112,7 @@ translate spanish b1c04zs04_9291cea7:
 translate spanish b1c04zs04_ab628c57:
 
     # pm "No. It's not. The Weaver Stance is important, but you should know the Isosceles Stance as well."
-    pm "No, no es. La postura del tejedor es importante, pero también debes conocer la postura isósceles."
+    pm "No. No lo es. La postura del Tejedor es importante, pero también debes conocer la postura del Isósceles."
 
 # game/code/Book-1/Chapter-4z/s04.rpy:65
 translate spanish b1c04zs04_50a2f09c:
@@ -130,7 +130,7 @@ translate spanish b1c04zs04_0d694e7a:
 translate spanish b1c04zs04_72338154:
 
     # pm "We'll get to that next. But first, you should learn how to balance yourself without body armor."
-    pm "Llegaremos a eso a continuación. Pero primero, debe aprender a equilibrarse sin chaleco antibalas."
+    pm "Llegaremos a eso más adelante. Pero primero, debes aprender a equilibrarte sin armadura."
 
 # game/code/Book-1/Chapter-4z/s04.rpy:72
 translate spanish b1c04zs04_8abfbcd7:
@@ -154,7 +154,7 @@ translate spanish b1c04zs04_93bcfd3f:
 translate spanish b1c04zs04_e6fa805e:
 
     # pm "Anyways, it takes some experimentation with this stance. If your shoulders are too tense, it limits your arm mobility."
-    pm "De todos modos, se necesita algo de experimentación con esta postura. Si sus hombros están demasiado tensos, limita la movilidad de su brazo."
+    pm "De todos modos, hay que experimentar un poco con esta postura. Si los hombros están demasiado tensos, se limita la movilidad de los brazos."
 
 # game/code/Book-1/Chapter-4z/s04.rpy:83
 translate spanish b1c04zs04_eabf8046:
@@ -166,13 +166,13 @@ translate spanish b1c04zs04_eabf8046:
 translate spanish b1c04zs04_51e55bce:
 
     # pm "You'll need to find the balance that works best for you."
-    pm "Deberá encontrar el equilibrio que mejor se adapte a sus necesidades."
+    pm "Tendrás que encontrar el equilibrio que mejor se adapte a ti."
 
 # game/code/Book-1/Chapter-4z/s04.rpy:87
 translate spanish b1c04zs04_9611ff5b:
 
     # pm "And keep your legs shoulder-width apart."
-    pm "Y mantén las piernas separadas al ancho de los hombros."
+    pm "Y mantén las piernas separadas a la altura de los hombros."
 
 # game/code/Book-1/Chapter-4z/s04.rpy:88
 translate spanish b1c04zs04_18dbdb0c:
@@ -256,7 +256,7 @@ translate spanish b1c04zs04_aac9ff01:
 translate spanish b1c04zs04_91e054b6:
 
     # mo "I still hit right on the mark though, right?"
-    mo "Sin embargo, sigo dando justo en el blanco, ¿verdad?"
+    mo "Pero he dado en el blanco, ¿verdad?"
 
 # game/code/Book-1/Chapter-4z/s04.rpy:133
 translate spanish b1c04zs04_7d4083ec:
@@ -268,7 +268,7 @@ translate spanish b1c04zs04_7d4083ec:
 translate spanish b1c04zs04_dd594de6:
 
     # mo "So what's the problem?"
-    mo "¿Entonces, cuál es el problema?"
+    mo "Entonces, ¿cuál es el problema?"
 
 # game/code/Book-1/Chapter-4z/s04.rpy:137
 translate spanish b1c04zs04_74cd8598:
@@ -292,13 +292,13 @@ translate spanish b1c04zs04_f19b9b8d:
 translate spanish b1c04zs04_c5e87fb4:
 
     # pm "If you're wearing body armor, the Isosceles Stance allows you to face an opponent head on. But if you twist your body in the Weaver Stance {i}while{/i} wearing body armor, you're exposing the unprotected bits of your body."
-    pm "Si llevas chaleco antibalas, la postura isósceles te permite enfrentarte a un oponente de frente. Pero si tuerces tu cuerpo en la Postura del Tejedor {i}mientras{/i} usas una armadura corporal, estás exponiendo las partes desprotegidas de tu cuerpo."
+    pm "Si llevas chaleco antibalas, la postura del Isósceles te permite enfrentarte a un adversario de frente. Pero si giras el cuerpo en la postura del Tejedor {i}mientras{/i} llevas una armadura, expones las partes desprotegidas de tu cuerpo."
 
 # game/code/Book-1/Chapter-4z/s04.rpy:145
 translate spanish b1c04zs04_5c486ecc:
 
     # pm "You might get a few lucky shots here and there. But you have to be able to rely on your skills {i}when it counts.{/i}"
-    pm "Es posible que obtenga algunos tiros afortunados aquí y allá. Pero tienes que poder confiar en tus habilidades {i}cuando cuente.{/i}"
+    pm "Es posible que obtenga algunos tiros afortunados aquí y allá. Pero tienes que ser capaz de confiar en tus habilidades {i}cuando cuenta.{/i}"
 
 # game/code/Book-1/Chapter-4z/s04.rpy:148
 translate spanish b1c04zs04_087896d8:
@@ -310,7 +310,7 @@ translate spanish b1c04zs04_087896d8:
 translate spanish b1c04zs04_6dfdfa6d:
 
     # pm "And you need to keep yourself protected in different situations."
-    pm "Y necesita mantenerse protegido en diferentes situaciones."
+    pm "Y necesitas mantenerte protegido en diferentes situaciones."
 
 # game/code/Book-1/Chapter-4z/s04.rpy:155
 translate spanish b1c04zs04_f5bf9923:
@@ -322,7 +322,7 @@ translate spanish b1c04zs04_f5bf9923:
 translate spanish b1c04zs04_d9874d98:
 
     # mo "You like a man who's consistent, huh?"
-    mo "Te gusta un hombre que es consistente, ¿eh?"
+    mo "Te gustan los hombres constantes, ¿eh?"
 
 # game/code/Book-1/Chapter-4z/s04.rpy:160
 translate spanish b1c04zs04_adc70adc:
@@ -340,13 +340,13 @@ translate spanish b1c04zs04_00c90500:
 translate spanish b1c04zs04_84aadf69:
 
     # mct "Inhale...exhale..."
-    mct "Inhala exhala..."
+    mct "Inhala... exhala..."
 
 # game/code/Book-1/Chapter-4z/s04.rpy:168
 translate spanish b1c04zs04_73e37194:
 
     # mct "Shoot."
-    mct "Disparar."
+    mct "Dispara."
 
 # game/code/Book-1/Chapter-4z/s04.rpy:171
 translate spanish b1c04zs04_0d38ac27:
@@ -364,7 +364,7 @@ translate spanish b1c04zs04_672f56f9:
 translate spanish b1c04zs04_b0b89e0b:
 
     # mo "I {i}know{/i} my stance was perfect for that shot. I still missed."
-    mo "{i}Sé{/i} que mi postura era perfecta para ese tiro. Todavía me perdí."
+    mo "{i}Sé{/i} que mi postura era perfecta para ese tiro. Aún así fallé."
 
 # game/code/Book-1/Chapter-4z/s04.rpy:180
 translate spanish b1c04zs04_f0f7eff0:
@@ -422,8 +422,8 @@ translate spanish b1c04zs04_f496bc2c:
 
 # game/code/Book-1/Chapter-4z/s04.rpy:209
 translate spanish b1c04zs04_0ea7f105:
-
-    # pm "Now, keep that memory in your head. I know it's hard to retain anything when you have one brain cell but—"
+Now, keep that memory in your head. I know it's hard to retain anything when you have one brain cell but—
+    # pm ""
     pm "Ahora, mantén ese recuerdo en tu cabeza. Sé que es difícil retener algo cuando tienes una célula cerebral, pero..."
 
 # game/code/Book-1/Chapter-4z/s04.rpy:212
@@ -448,12 +448,12 @@ translate spanish b1c04zs04_40f0533f:
 translate spanish b1c04zs04_870bb158:
 
     # pm "Haha, Matthew! Put me down before I wrestle your ass to the ground."
-    pm "¡Jaja, Mateo! Bájame antes de que tire tu trasero al suelo."
+    pm "¡Jaja, Matthew! Bájame antes de que tire tu trasero al suelo."
 
 # game/code/Book-1/Chapter-4z/s04.rpy:229
 translate spanish b1c04zs04_0c5bdd81:
 
-    # mo "Alright, alright. I don't feel like getting bench pressed right now."
+    # mo "Está bien, está bien. No me apetece hacer pesas ahora mismo."
     mo "Bien bien. No tengo ganas de hacer press de banca en este momento."
 
 # game/code/Book-1/Chapter-4z/s04.rpy:234
@@ -478,7 +478,7 @@ translate spanish b1c04zs04_f0e63e3a:
 translate spanish b1c04zs04_db30e00a:
 
     # mo "I know, I know. I guess I just..."
-    mo "Sé que sé. Supongo que solo..."
+    mo "Lo sé, lo sé. Supongo que sólo..."
 
 # game/code/Book-1/Chapter-4z/s04.rpy:246
 translate spanish b1c04zs04_fc650813:
@@ -496,5 +496,5 @@ translate spanish strings:
 
     # game/code/Book-1/Chapter-4z/s04.rpy:4
     old "One hour later"
-    new "Una hora despues"
+    new "Una hora después"
 
