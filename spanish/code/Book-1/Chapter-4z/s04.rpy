@@ -422,8 +422,7 @@ translate spanish b1c04zs04_f496bc2c:
 
 # game/code/Book-1/Chapter-4z/s04.rpy:209
 translate spanish b1c04zs04_0ea7f105:
-Now, keep that memory in your head. I know it's hard to retain anything when you have one brain cell but—
-    # pm ""
+    # pm "Now, keep that memory in your head. I know it's hard to retain anything when you have one brain cell but—"
     pm "Ahora, mantén ese recuerdo en tu cabeza. Sé que es difícil retener algo cuando tienes una célula cerebral, pero..."
 
 # game/code/Book-1/Chapter-4z/s04.rpy:212

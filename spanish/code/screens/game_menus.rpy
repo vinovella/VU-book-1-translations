@@ -96,7 +96,7 @@ translate spanish strings:
 
     # game/code/screens/game_menus.rpy:262
     old "After Choices"
-    new "Después de las opciones"
+    new "Después opciones"
 
     # game/code/screens/game_menus.rpy:263
     old "Transitions"
@@ -269,4 +269,3 @@ translate spanish strings:
     # game/code/screens/game_menus.rpy:614
     old "Calibrate"
     new "Calibrar"
-
