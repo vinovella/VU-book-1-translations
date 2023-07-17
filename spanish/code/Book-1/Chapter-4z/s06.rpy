@@ -4,7 +4,7 @@
 translate spanish b1c04zs06_2cb79faf:
 
     # zp "To your improved aim. Cheers."
-    zp "A tu puntería mejorada. Salud."
+    zp "Por una puntería mejorada. Salud."
 
 # game/code/Book-1/Chapter-4z/s06.rpy:21
 translate spanish b1c04zs06_0ef0bd7e:
@@ -28,7 +28,7 @@ translate spanish b1c04zs06_244fa33e:
 translate spanish b1c04zs06_7980b624:
 
     # mc "College got you super busy?"
-    mc "¿La universidad te tiene súper ocupado?"
+    mc "¿La universidad te tiene súper ocupada?"
 
 # game/code/Book-1/Chapter-4z/s06.rpy:37
 translate spanish b1c04zs06_8c2b310c:
@@ -88,19 +88,19 @@ translate spanish b1c04zs06_af2e85c7:
 translate spanish b1c04zs06_9a7f9828:
 
     # zp "Fuck yeah, that's what I'm talking about."
-    zp "Joder, sí, de eso estoy hablando."
+    zp "Mierda, sí, a eso me refiero."
 
 # game/code/Book-1/Chapter-4z/s06.rpy:66
 translate spanish b1c04zs06_ea259f4c:
 
     # mct "I'll start simple. Ask her about something that isn't too prying."
-    mct "Voy a empezar simple. Pregúntale sobre algo que no sea demasiado entrometido."
+    mct "Comenzaré con algo sencillo. Le preguntaré sobre algo que no sea demasiado indiscreto."
 
 # game/code/Book-1/Chapter-4z/s06.rpy:67
 translate spanish b1c04zs06_7ff331de:
 
     # mct "I have a feeling she'll take some warming up before she gives up any information."
-    mct "Tengo la sensación de que se calentará un poco antes de dar cualquier información."
+    mct "Tengo la sensación de que tardará en proporcionar información."
 
 # game/code/Book-1/Chapter-4z/s06.rpy:69
 translate spanish b1c04zs06_f414a9bf:
@@ -112,7 +112,7 @@ translate spanish b1c04zs06_f414a9bf:
 translate spanish b1c04zs06_f7e2856a:
 
     # zp "Well duh. Yeah, I'd love to develop a VR first person shooter game."
-    zp "Bueno duh Sí, me encantaría desarrollar un juego de disparos en primera persona de realidad virtual."
+    zp "Pues duh. Sí, me encantaría desarrollar un juego de disparos en primera persona en Realidad Virtual."
 
 # game/code/Book-1/Chapter-4z/s06.rpy:76
 translate spanish b1c04zs06_8b8af040:
@@ -130,7 +130,7 @@ translate spanish b1c04zs06_f3f38b15:
 translate spanish b1c04zs06_76310e9c:
 
     # mc "Eh. I think I've got enough natural talent to get me through."
-    mc "Eh Creo que tengo suficiente talento natural para salir adelante."
+    mc "Eh. Creo que tengo talento natural suficiente para salir adelante."
 
 # game/code/Book-1/Chapter-4z/s06.rpy:85
 translate spanish b1c04zs06_a3a4ef8c:
@@ -142,7 +142,7 @@ translate spanish b1c04zs06_a3a4ef8c:
 translate spanish b1c04zs06_66334b10:
 
     # mc "Well, I do say so. If {i}you{/i} can teach yourself, anyone can do it."
-    mc "Bueno, lo digo. Si {i}tú{/i} puedes aprender por ti mismo, cualquiera puede hacerlo."
+    mc "Bueno, lo digo. Si {i}tú{/i} puedes aprender por ti misma, cualquiera puede hacerlo."
 
 # game/code/Book-1/Chapter-4z/s06.rpy:91
 translate spanish b1c04zs06_6b139cec:
@@ -154,7 +154,7 @@ translate spanish b1c04zs06_6b139cec:
 translate spanish b1c04zs06_3a8d3f50:
 
     # zp "It was {i}not{/i} easy to teach myself."
-    zp "No fue {i}{/i} fácil enseñarme a mí mismo."
+    zp "No fue {i}{/i} fácil enseñarme a mí misma."
 
 # game/code/Book-1/Chapter-4z/s06.rpy:95
 translate spanish b1c04zs06_ae77ba30:
@@ -166,7 +166,7 @@ translate spanish b1c04zs06_ae77ba30:
 translate spanish b1c04zs06_d5305909:
 
     # mc "We'll just see about that."
-    mc "Solo veremos eso."
+    mc "Eso ya lo veremos."
 
 # game/code/Book-1/Chapter-4z/s06.rpy:101
 translate spanish b1c04zs06_1f01c97e:
@@ -178,7 +178,7 @@ translate spanish b1c04zs06_1f01c97e:
 translate spanish b1c04zs06_0586dc44:
 
     # zp "I guess shooting is how I got my spirit back. I started out with first person shooter games, and then moved up to a real life marksman."
-    zp "Supongo que disparar es cómo recuperé mi espíritu. Empecé con juegos de disparos en primera persona y luego pasé a un tirador de la vida real."
+    zp "Supongo que disparar es cómo recuperé mi espíritu. Empecé con juegos de disparos en primera persona y luego pasé a ser un tirador en la vida real."
 
 # game/code/Book-1/Chapter-4z/s06.rpy:103
 translate spanish b1c04zs06_74a8d1e3:
@@ -202,13 +202,13 @@ translate spanish b1c04zs06_2f01eb65:
 translate spanish b1c04zs06_d76f2e61:
 
     # zp "I gained a lot of confidence in myself from becoming proficient in something that {i}{b}I{/b}{/i} chose. For myself."
-    zp "Obtuve mucha confianza en mí mismo al volverme competente en algo que {i}{b}I{/b}{/i} elegí. Para mí."
+    zp "Obtuve mucha confianza en mí misma al volverme competente en algo que {i}{b}Yo{/b}{/i} elegí. Por  mí misma."
 
 # game/code/Book-1/Chapter-4z/s06.rpy:116
 translate spanish b1c04zs06_9699080d:
 
     # mc "I understand. My dad was super controlling. Especially while we were sailing."
-    mc "Entiendo. Mi papá era súper controlador. Especialmente mientras navegábamos."
+    mc "Entiendo. Mi padre era muy controlador. Sobre todo cuando viajabamos en barco."
 
 # game/code/Book-1/Chapter-4z/s06.rpy:117
 translate spanish b1c04zs06_5956bc7b:
@@ -226,7 +226,7 @@ translate spanish b1c04zs06_78a158f0:
 translate spanish b1c04zs06_85ff8b5e:
 
     # zp "Exactly. You get it."
-    zp "Exactamente. Usted lo consigue."
+    zp "Exacto. Tú lo entiendes."
 
 # game/code/Book-1/Chapter-4z/s06.rpy:124
 translate spanish b1c04zs06_37e10a53:
@@ -244,7 +244,7 @@ translate spanish b1c04zs06_f212255e:
 translate spanish b1c04zs06_703749dd:
 
     # zp "Right? And parents can never just leave it alone. They have to have the last fucking word."
-    zp "¿Bien? Y los padres nunca pueden dejarlo solo. Tienen que tener la puta última palabra."
+    zp "¿Verdad? Y los padres nunca pueden dejarlo estar. Tienen que tener la última puta palabra."
 
 # game/code/Book-1/Chapter-4z/s06.rpy:132
 translate spanish b1c04zs06_bff42c4f:
@@ -256,13 +256,13 @@ translate spanish b1c04zs06_bff42c4f:
 translate spanish b1c04zs06_eca7f16d:
 
     # "{color=#ecd4c2}Stranger Girl{/color}" "Zemfira!"
-    "{color=#ecd4c2}Chica extraña{/color}" "¡Zemfira!"
+    "{color=#ecd4c2}Chica Extraña{/color}" "¡Zemfira!"
 
 # game/code/Book-1/Chapter-4z/s06.rpy:138
 translate spanish b1c04zs06_63b1cf3f:
 
     # "{color=#ecd4c2}Stranger Girl{/color}" "Hey, I need you to check this."
-    "{color=#ecd4c2}Chica extraña{/color}" "Oye, necesito que compruebes esto."
+    "{color=#ecd4c2}Chica Extraña{/color}" "Oye, necesito que compruebes esto."
 
 # game/code/Book-1/Chapter-4z/s06.rpy:141
 translate spanish b1c04zs06_c2287c61:
@@ -304,13 +304,13 @@ translate spanish b1c04zs06_5a1e85f0:
 translate spanish b1c04zs06_826085de:
 
     # mc "Someone you know?"
-    mc "¿Alguien que usted conoce?"
+    mc "¿Alguien que conoces?"
 
 # game/code/Book-1/Chapter-4z/s06.rpy:159
 translate spanish b1c04zs06_36a78027:
 
     # zp "Yeah, that was someone I know. Kind of an acquaintance of mine."
-    zp "Sí, era alguien que conozco. Una especie de conocido mío."
+    zp "Sí, era alguien que conozco. Una especie de conocida mía."
 
 # game/code/Book-1/Chapter-4z/s06.rpy:160
 translate spanish b1c04zs06_1acfc17d:
@@ -334,7 +334,7 @@ translate spanish b1c04zs06_3f832879:
 translate spanish b1c04zs06_62b5e53c:
 
     # zp "It is. But it's just a little phone game. Kind of like an online community gone IRL."
-    zp "Es. Pero es sólo un pequeño juego de teléfono. Algo así como una comunidad en línea que se ha vuelto IRL."
+    zp "Lo es. Pero es sólo un pequeño juego de teléfono. Algo así como una comunidad en línea que se ha vuelto IRL."
 
 # game/code/Book-1/Chapter-4z/s06.rpy:170
 translate spanish b1c04zs06_b5d4de31:
@@ -394,7 +394,7 @@ translate spanish b1c04zs06_ccc8da76:
 translate spanish b1c04zs06_dceed190:
 
     # mc "I see. That must've been difficult."
-    mc "Veo. Eso debe haber sido difícil."
+    mc "Ya veo. Eso debe haber sido difícil."
 
 # game/code/Book-1/Chapter-4z/s06.rpy:189
 translate spanish b1c04zs06_e855e948:
@@ -412,7 +412,7 @@ translate spanish b1c04zs06_cbb27f21:
 translate spanish b1c04zs06_8006d738:
 
     # mc "No, no. That's not what I meant. I just mean that needing to take over her responsibilities {i}because{/i} she went missing must've been hard to cope with."
-    mc "No no. Eso no es lo que quise decir. Solo quiero decir que tener que hacerse cargo de sus responsabilidades {i}porque{/i} desapareció debe haber sido difícil de sobrellevar."
+    mc "No, no. Eso no es lo que quise decir. Solo quiero decir que tener que hacerse cargo de sus responsabilidades {i}porque{/i} desapareció debe haber sido difícil de sobrellevar."
 
 # game/code/Book-1/Chapter-4z/s06.rpy:196
 translate spanish b1c04zs06_13efeb15:
@@ -424,13 +424,13 @@ translate spanish b1c04zs06_13efeb15:
 translate spanish b1c04zs06_1e2af7cd:
 
     # zp "It was."
-    zp "Fue."
+    zp "Lo fue."
 
 # game/code/Book-1/Chapter-4z/s06.rpy:200
 translate spanish b1c04zs06_4708c8bc:
 
     # zp "But I handled it. I always do."
-    zp "Pero lo manejé. Siempre hago."
+    zp "Pero lo manejé. Siempre lo hago."
 
 # game/code/Book-1/Chapter-4z/s06.rpy:203
 translate spanish b1c04zs06_1bf60051:
@@ -454,13 +454,13 @@ translate spanish b1c04zs06_0810509e:
 translate spanish b1c04zs06_8686b778:
 
     # zp "It's a fun game, and it adds a certain flavor to the spice of life."
-    zp "Es un juego divertido y añade un cierto sabor a la especia de la vida."
+    zp "Es un juego divertido, y le añade cierto sabor a la vida."
 
 # game/code/Book-1/Chapter-4z/s06.rpy:210
 translate spanish b1c04zs06_68f922c6:
 
     # zp "There's also a sort of...combat aspect to it. A sort of PVP arrangement. I really like watching PVP matches go down."
-    zp "También hay una especie de... aspecto de combate. Una especie de arreglo PVP. Realmente me gusta ver cómo caen las partidas PVP."
+    zp "También hay una especie de... aspecto de combate. Una especie de PVP. Realmente me gusta ver cómo se desarrollan los combates PVP."
 
 # game/code/Book-1/Chapter-4z/s06.rpy:214
 translate spanish b1c04zs06_b886db1a:
@@ -472,7 +472,7 @@ translate spanish b1c04zs06_b886db1a:
 translate spanish b1c04zs06_02c0555d:
 
     # zp "It's invite only."
-    zp "Es solo por invitación."
+    zp "Es sólo por invitación."
 
 # game/code/Book-1/Chapter-4z/s06.rpy:218
 translate spanish b1c04zs06_5deef7c1:
@@ -484,7 +484,7 @@ translate spanish b1c04zs06_5deef7c1:
 translate spanish b1c04zs06_61927f35:
 
     # mc "Ah. I get it. No problem."
-    mc "ah Lo entiendo. Ningún problema."
+    mc "Ah. Lo entiendo. No hay problema."
 
 # game/code/Book-1/Chapter-4z/s06.rpy:222
 translate spanish b1c04zs06_3fe85f0a:
@@ -520,13 +520,13 @@ translate spanish b1c04zs06_e96c784b:
 translate spanish b1c04zs06_b6d0a73e:
 
     # zp "This was really fun, though. We should hang out like this again sometime."
-    zp "Sin embargo, esto fue muy divertido. Deberíamos volver a pasar el rato así alguna vez."
+    zp "Pero ha sido muy divertido. Deberíamos volver a salir de esta manera alguna vez."
 
 # game/code/Book-1/Chapter-4z/s06.rpy:240
 translate spanish b1c04zs06_111bb9fd:
 
     # mc "I'm down."
-    mc "Estoy abajo."
+    mc "Yo me apunto."
 
 translate spanish strings:
 
