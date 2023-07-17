@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-06-27 18:34
+﻿# TODO: Translation updated at 2023-07-17 14:12
 
 # game/code/Book-1/Chapter-4s/s05.rpy:19
 translate portuguese b1c04ss05_9729e557:
@@ -187,9 +187,9 @@ translate portuguese b1c04ss05_8ea49e58:
     sm ""
 
 # game/code/Book-1/Chapter-4s/s05.rpy:162
-translate portuguese b1c04ss05_465890eb:
+translate portuguese b1c04ss05_2754fdf4:
 
-    # sl "I'm with Brigita and Monika!"
+    # sl "I'm with Brigitta and Monika!"
     sl ""
 
 # game/code/Book-1/Chapter-4s/s05.rpy:165
@@ -265,9 +265,9 @@ translate portuguese b1c04ss05_98a28ca8:
     mct ""
 
 # game/code/Book-1/Chapter-4s/s05.rpy:214
-translate portuguese b1c04ss05_22dab0aa:
+translate portuguese b1c04ss05_98a49b28:
 
-    # "Brigita dives for the ball. A flash of sand sprays ahead of her feet as she skids to a stop. She pops the ball into the air."
+    # "Brigitta dives for the ball. A flash of sand sprays ahead of her feet as she skids to a stop. She pops the ball into the air."
     ""
 
 # game/code/Book-1/Chapter-4s/s05.rpy:222
@@ -343,9 +343,9 @@ translate portuguese b1c04ss05_87062515:
     ""
 
 # game/code/Book-1/Chapter-4s/s05.rpy:296
-translate portuguese b1c04ss05_cb798e7a:
+translate portuguese b1c04ss05_a1d21898:
 
-    # sm "1 point to Brigita's team!"
+    # sm "1 point to Brigitta's team!"
     sm ""
 
 # game/code/Book-1/Chapter-4s/s05.rpy:299
@@ -361,9 +361,9 @@ translate portuguese b1c04ss05_a8d94adc:
     mct ""
 
 # game/code/Book-1/Chapter-4s/s05.rpy:305
-translate portuguese b1c04ss05_1fdca0fb:
+translate portuguese b1c04ss05_fc8b536c:
 
-    # oa "Hey, are you alright? Brigita can hit harder than a 'roided out rhino."
+    # oa "Hey, are you alright? Brigitta can hit harder than a 'roided out rhino."
     oa ""
 
 # game/code/Book-1/Chapter-4s/s05.rpy:307
@@ -379,9 +379,9 @@ translate portuguese b1c04ss05_27d251fc:
     ""
 
 # game/code/Book-1/Chapter-4s/s05.rpy:311
-translate portuguese b1c04ss05_7e7ed8b3:
+translate portuguese b1c04ss05_55c4f6d0:
 
-    # "But you look directly at Brigita and smirk."
+    # "But you look directly at Brigitta and smirk."
     ""
 
 # game/code/Book-1/Chapter-4s/s05.rpy:313
@@ -403,9 +403,9 @@ translate portuguese b1c04ss05_e7c560c1:
     mct ""
 
 # game/code/Book-1/Chapter-4s/s05.rpy:321
-translate portuguese b1c04ss05_b3123433:
+translate portuguese b1c04ss05_491ff86d:
 
-    # mct "Simon's a good blocker because he's taller, but I've noticed Monika and Brigita are the main ones hitting the ball."
+    # mct "Simon's a good blocker because he's taller, but I've noticed Monika and Brigitta are the main ones hitting the ball."
     mct ""
 
 # game/code/Book-1/Chapter-4s/s05.rpy:322
@@ -415,9 +415,9 @@ translate portuguese b1c04ss05_e77c7d4b:
     mct ""
 
 # game/code/Book-1/Chapter-4s/s05.rpy:323
-translate portuguese b1c04ss05_b005ffab:
+translate portuguese b1c04ss05_8e64e6fc:
 
-    # mct "Brigita and Monika are probably worse blockers because they're shorter and better at hitting."
+    # mct "Brigitta and Monika are probably worse blockers because they're shorter and better at hitting."
     mct ""
 
 # game/code/Book-1/Chapter-4s/s05.rpy:326
@@ -457,9 +457,9 @@ translate portuguese b1c04ss05_a0188ee1:
     mct ""
 
 # game/code/Book-1/Chapter-4s/s05.rpy:354
-translate portuguese b1c04ss05_53fe6813:
+translate portuguese b1c04ss05_1cc98599:
 
-    # "You block Brigita's hits, keeping the ball on her side of the net."
+    # "You block Brigitta's hits, keeping the ball on her side of the net."
     ""
 
 # game/code/Book-1/Chapter-4s/s05.rpy:358
@@ -499,9 +499,9 @@ translate portuguese b1c04ss05_502f6694:
     ir ""
 
 # game/code/Book-1/Chapter-4s/s05.rpy:384
-translate portuguese b1c04ss05_94d6f4ef:
+translate portuguese b1c04ss05_34e5779c:
 
-    # oa "And then blocking Brigita! That was a great move."
+    # oa "And then blocking Brigitta! That was a great move."
     oa ""
 
 # game/code/Book-1/Chapter-4s/s05.rpy:387
@@ -535,15 +535,15 @@ translate portuguese b1c04ss05_f15d3358:
     mct ""
 
 # game/code/Book-1/Chapter-4s/s05.rpy:404
-translate portuguese b1c04ss05_b38ed074:
+translate portuguese b1c04ss05_111f4844:
 
-    # mct "Brigita's arrogant and wants to be in the middle of the action, while covering Simon's weaknesses."
+    # mct "Brigitta's arrogant and wants to be in the middle of the action, while covering Simon's weaknesses."
     mct ""
 
 # game/code/Book-1/Chapter-4s/s05.rpy:405
-translate portuguese b1c04ss05_194479e6:
+translate portuguese b1c04ss05_42b56423:
 
-    # mct "The last match told me that Brigita is good at long range hits, but not short range ones. Brigita's shortcoming is her temper."
+    # mct "The last match told me that Brigitta is good at long range hits, but not short range ones. Brigitta's shortcoming is her temper."
     mct ""
 
 # game/code/Book-1/Chapter-4s/s05.rpy:408
@@ -553,15 +553,15 @@ translate portuguese b1c04ss05_ad506938:
     mct ""
 
 # game/code/Book-1/Chapter-4s/s05.rpy:409
-translate portuguese b1c04ss05_ad1f9d20:
+translate portuguese b1c04ss05_d253c906:
 
-    # mct "When all on the same team. Monika and Brigita are a formidable pairing. That's probably why they chose to be on the same side in this game."
+    # mct "When all on the same team. Monika and Brigitta are a formidable pairing. That's probably why they chose to be on the same side in this game."
     mct ""
 
 # game/code/Book-1/Chapter-4s/s05.rpy:410
-translate portuguese b1c04ss05_91cdb564:
+translate portuguese b1c04ss05_b216285a:
 
-    # mct "But when separated like this, Brigita's pride and Simon's weakness fractures the smaller team."
+    # mct "But when separated like this, Brigitta's pride and Simon's weakness fractures the smaller team."
     mct ""
 
 # game/code/Book-1/Chapter-4s/s05.rpy:413
@@ -583,9 +583,9 @@ translate portuguese b1c04ss05_ae84cab3:
     mct ""
 
 # game/code/Book-1/Chapter-4s/s05.rpy:417
-translate portuguese b1c04ss05_d688a565:
+translate portuguese b1c04ss05_ca1edca9:
 
-    # mct "Brigita's hoping to use Oleysa's weaknesses to her advantage."
+    # mct "Brigitta's hoping to use Oleysa's weaknesses to her advantage."
     mct ""
 
 # game/code/Book-1/Chapter-4s/s05.rpy:437
@@ -631,21 +631,21 @@ translate portuguese b1c04ss05_acc43a7e:
     mct ""
 
 # game/code/Book-1/Chapter-4s/s05.rpy:459
-translate portuguese b1c04ss05_ab87ac5e:
+translate portuguese b1c04ss05_2f9ee061:
 
-    # mct "Brigita's weakness is close-range. I have to block her hits while she's at the front."
+    # mct "Brigitta's weakness is close-range. I have to block her hits while she's at the front."
     mct ""
 
 # game/code/Book-1/Chapter-4s/s05.rpy:464
-translate portuguese b1c04ss05_6863094c:
+translate portuguese b1c04ss05_b0f9aaca:
 
-    # "Brigita tries to hit the ball over the net, but you're prepared. You block her hit. The ball goes toward Simon."
+    # "Brigitta tries to hit the ball over the net, but you're prepared. You block her hit. The ball goes toward Simon."
     ""
 
 # game/code/Book-1/Chapter-4s/s05.rpy:468
-translate portuguese b1c04ss05_eaa1d6bc:
+translate portuguese b1c04ss05_a204d897:
 
-    # "Simon catches the ball and tries to pop it toward Brigita, but his hit is clumsy and weak. The ball doesn't have enough power behind its momentum."
+    # "Simon catches the ball and tries to pop it toward Brigitta, but his hit is clumsy and weak. The ball doesn't have enough power behind its momentum."
     ""
 
 # game/code/Book-1/Chapter-4s/s05.rpy:469
@@ -661,21 +661,21 @@ translate portuguese b1c04ss05_c19601f4:
     ""
 
 # game/code/Book-1/Chapter-4s/s05.rpy:477
-translate portuguese b1c04ss05_83e124cf:
+translate portuguese b1c04ss05_49b942b2:
 
-    # "You catch the ball from Simon's block and hit it toward Brigita, knowing her weakness is short-range."
+    # "You catch the ball from Simon's block and hit it toward Brigitta, knowing her weakness is short-range."
     ""
 
 # game/code/Book-1/Chapter-4s/s05.rpy:481
-translate portuguese b1c04ss05_3e1d99b9:
+translate portuguese b1c04ss05_1d279bf8:
 
-    # "Brigita scowls at you. She pops the ball backward, to Monika."
+    # "Brigitta scowls at you. She pops the ball backward, to Monika."
     ""
 
 # game/code/Book-1/Chapter-4s/s05.rpy:482
-translate portuguese b1c04ss05_3bdedbfb:
+translate portuguese b1c04ss05_3140a5e0:
 
-    # "Brigita knows she can't get the ball over you."
+    # "Brigitta knows she can't get the ball over you."
     ""
 
 # game/code/Book-1/Chapter-4s/s05.rpy:486
@@ -697,9 +697,9 @@ translate portuguese b1c04ss05_6b2ba2cc:
     ""
 
 # game/code/Book-1/Chapter-4s/s05.rpy:495
-translate portuguese b1c04ss05_f2fd32b8:
+translate portuguese b1c04ss05_cb5ead79:
 
-    # mct "Think fast, think fast! Simon's an excellent blocker, targeting him won't help...but Brigita is sure to be tired at this point. She has lower stamina in short-range matches."
+    # mct "Think fast, think fast! Simon's an excellent blocker, targeting him won't help...but Brigitta is sure to be tired at this point. She has lower stamina in short-range matches."
     mct ""
 
 # game/code/Book-1/Chapter-4s/s05.rpy:507
@@ -733,9 +733,9 @@ translate portuguese b1c04ss05_0fafc7db:
     ""
 
 # game/code/Book-1/Chapter-4s/s05.rpy:548
-translate portuguese b1c04ss05_19ff7712:
+translate portuguese b1c04ss05_be92fdeb:
 
-    # "Brigita's team makes mistakes. Their communication is more disjointed, and their dynamic unbalanced.{w} This makes it easy to exploit their weaknesses."
+    # "Brigitta's team makes mistakes. Their communication is more disjointed, and their dynamic unbalanced.{w} This makes it easy to exploit their weaknesses."
     ""
 
 # game/code/Book-1/Chapter-4s/s05.rpy:557
@@ -799,9 +799,9 @@ translate portuguese b1c04ss05_253157b7:
     mc ""
 
 # game/code/Book-1/Chapter-4s/s05.rpy:591
-translate portuguese b1c04ss05_9734ec12:
+translate portuguese b1c04ss05_0b166b36:
 
-    # mc "I'm good at blocking and hitting from anywhere, but Brigita's got a better hit than me—when she has the mindset for it."
+    # mc "I'm good at blocking and hitting from anywhere, but Brigitta's got a better hit than me—when she has the mindset for it."
     mc ""
 
 # game/code/Book-1/Chapter-4s/s05.rpy:592
@@ -811,9 +811,9 @@ translate portuguese b1c04ss05_571039e3:
     mc ""
 
 # game/code/Book-1/Chapter-4s/s05.rpy:594
-translate portuguese b1c04ss05_8a4336c7:
+translate portuguese b1c04ss05_1c344cbe:
 
-    # mc "Oleysa, you hit the ball from Brigita's first serve to Iona. Then Iona can hit the ball back over the net from there."
+    # mc "Oleysa, you hit the ball from Brigitta's first serve to Iona. Then Iona can hit the ball back over the net from there."
     mc ""
 
 # game/code/Book-1/Chapter-4s/s05.rpy:595
@@ -847,9 +847,9 @@ translate portuguese b1c04ss05_11f571e2:
     ""
 
 # game/code/Book-1/Chapter-4s/s05.rpy:606
-translate portuguese b1c04ss05_a15a2000:
+translate portuguese b1c04ss05_bd8a58b2:
 
-    # "You smile to yourself, knowing this game is in your favor, that your strategy is superior. Because Brigita is fighting for herself, not her team."
+    # "You smile to yourself, knowing this game is in your favor, that your strategy is superior. Because Brigitta is fighting for herself, not her team."
     ""
 
 # game/code/Book-1/Chapter-4s/s05.rpy:635
@@ -901,9 +901,9 @@ translate portuguese b1c04ss05_1ca183fd:
     ""
 
 # game/code/Book-1/Chapter-4s/s05.rpy:662
-translate portuguese b1c04ss05_b5383a63:
+translate portuguese b1c04ss05_efec6d4f:
 
-    # "But Brigita is prepared this time."
+    # "But Brigitta is prepared this time."
     ""
 
 # game/code/Book-1/Chapter-4s/s05.rpy:663
@@ -925,9 +925,9 @@ translate portuguese b1c04ss05_1b0e8245:
     ""
 
 # game/code/Book-1/Chapter-4s/s05.rpy:676
-translate portuguese b1c04ss05_8cecab57:
+translate portuguese b1c04ss05_e260f5fb:
 
-    # "Before Brigita even has time to get up, Oleysa pops the ball back to you."
+    # "Before Brigitta even has time to get up, Oleysa pops the ball back to you."
     ""
 
 # game/code/Book-1/Chapter-4s/s05.rpy:678
@@ -937,9 +937,9 @@ translate portuguese b1c04ss05_2a40c702:
     ""
 
 # game/code/Book-1/Chapter-4s/s05.rpy:682
-translate portuguese b1c04ss05_4edf08bd:
+translate portuguese b1c04ss05_7a6db818:
 
-    # "The ball lands behind Brigita, kicking sand onto her legs.{w} You win."
+    # "The ball lands behind Brigitta, kicking sand onto her legs.{w} You win."
     ""
 
 # game/code/Book-1/Chapter-4s/s05.rpy:685
@@ -1015,9 +1015,9 @@ translate portuguese b1c04ss05_a258be76:
     oa ""
 
 # game/code/Book-1/Chapter-4s/s05.rpy:735
-translate portuguese b1c04ss05_bb3706a6:
+translate portuguese b1c04ss05_ff599270:
 
-    # mc "Is Brigita okay?"
+    # mc "Is Brigitta okay?"
     mc ""
 
 # game/code/Book-1/Chapter-4s/s05.rpy:738

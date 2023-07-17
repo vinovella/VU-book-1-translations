@@ -187,9 +187,9 @@ translate chinese b1c04ss05_8ea49e58:
     sm "好啦！我们该开始比赛了。所有人，组队。"
 
 # game/code/Book-1/Chapter-4s/s05.rpy:162
-translate chinese b1c04ss05_465890eb:
+translate chinese b1c04ss05_2754fdf4:
 
-    # sl "I'm with Brigita and Monika!"
+    # sl "I'm with Brigitta and Monika!"
     sl "我和布吉塔，还有莫妮卡在一起！"
 
 # game/code/Book-1/Chapter-4s/s05.rpy:165
@@ -265,9 +265,9 @@ translate chinese b1c04ss05_98a28ca8:
     mct "咱们给对方来一场让他们永生难忘的比赛。"
 
 # game/code/Book-1/Chapter-4s/s05.rpy:214
-translate chinese b1c04ss05_22dab0aa:
+translate chinese b1c04ss05_98a49b28:
 
-    # "Brigita dives for the ball. A flash of sand sprays ahead of her feet as she skids to a stop. She pops the ball into the air."
+    # "Brigitta dives for the ball. A flash of sand sprays ahead of her feet as she skids to a stop. She pops the ball into the air."
     "布吉塔扑向球。一道沙子在她的脚前飞扬而起，她滑行着停了下来。她把球抛向空中。"
 
 # game/code/Book-1/Chapter-4s/s05.rpy:222
@@ -343,9 +343,9 @@ translate chinese b1c04ss05_87062515:
     "它猛地撞向你的腹部。"
 
 # game/code/Book-1/Chapter-4s/s05.rpy:296
-translate chinese b1c04ss05_cb798e7a:
+translate chinese b1c04ss05_a1d21898:
 
-    # sm "1 point to Brigita's team!"
+    # sm "1 point to Brigitta's team!"
     sm "布吉塔队得1分！"
 
 # game/code/Book-1/Chapter-4s/s05.rpy:299
@@ -361,9 +361,9 @@ translate chinese b1c04ss05_a8d94adc:
     mct "妈的，好疼。"
 
 # game/code/Book-1/Chapter-4s/s05.rpy:305
-translate chinese b1c04ss05_1fdca0fb:
+translate chinese b1c04ss05_fc8b536c:
 
-    # oa "Hey, are you alright? Brigita can hit harder than a 'roided out rhino."
+    # oa "Hey, are you alright? Brigitta can hit harder than a 'roided out rhino."
     oa "嘿，你还好吗？布吉塔比一头发狂的犀牛还能打。"
 
 # game/code/Book-1/Chapter-4s/s05.rpy:307
@@ -379,9 +379,9 @@ translate chinese b1c04ss05_27d251fc:
     "你可以感觉到腹部有一条因球的冲击而肿胀的红色伤痕。"
 
 # game/code/Book-1/Chapter-4s/s05.rpy:311
-translate chinese b1c04ss05_7e7ed8b3:
+translate chinese b1c04ss05_55c4f6d0:
 
-    # "But you look directly at Brigita and smirk."
+    # "But you look directly at Brigitta and smirk."
     "但你直视着布吉塔，露出一丝坏笑。"
 
 # game/code/Book-1/Chapter-4s/s05.rpy:313
@@ -403,9 +403,9 @@ translate chinese b1c04ss05_e7c560c1:
     mct "没有哪个球队的球员是完美的..."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:321
-translate chinese b1c04ss05_b3123433:
+translate chinese b1c04ss05_491ff86d:
 
-    # mct "Simon's a good blocker because he's taller, but I've noticed Monika and Brigita are the main ones hitting the ball."
+    # mct "Simon's a good blocker because he's taller, but I've noticed Monika and Brigitta are the main ones hitting the ball."
     mct "西蒙是个很好的拦网手，因为他更高，但我注意到莫妮卡和布吉塔是主要的击球手。"
 
 # game/code/Book-1/Chapter-4s/s05.rpy:322
@@ -415,9 +415,9 @@ translate chinese b1c04ss05_e77c7d4b:
     mct "我打赌西蒙是最弱的击球手。反应速度更慢...所以他擅长拦截。"
 
 # game/code/Book-1/Chapter-4s/s05.rpy:323
-translate chinese b1c04ss05_b005ffab:
+translate chinese b1c04ss05_8e64e6fc:
 
-    # mct "Brigita and Monika are probably worse blockers because they're shorter and better at hitting."
+    # mct "Brigitta and Monika are probably worse blockers because they're shorter and better at hitting."
     mct "布吉塔和莫妮卡大概率在拦球上更烂，因为她们更矮，更擅长击球。"
 
 # game/code/Book-1/Chapter-4s/s05.rpy:326
@@ -457,9 +457,9 @@ translate chinese b1c04ss05_a0188ee1:
     mct "我不能让她有冲劲把球打过网。"
 
 # game/code/Book-1/Chapter-4s/s05.rpy:354
-translate chinese b1c04ss05_53fe6813:
+translate chinese b1c04ss05_1cc98599:
 
-    # "You block Brigita's hits, keeping the ball on her side of the net."
+    # "You block Brigitta's hits, keeping the ball on her side of the net."
     "你挡住了布吉塔的击球，让球一直在她那边的网内。"
 
 # game/code/Book-1/Chapter-4s/s05.rpy:358
@@ -499,9 +499,9 @@ translate chinese b1c04ss05_502f6694:
     ir "这是一种战略思维，以西蒙为目标。"
 
 # game/code/Book-1/Chapter-4s/s05.rpy:384
-translate chinese b1c04ss05_94d6f4ef:
+translate chinese b1c04ss05_34e5779c:
 
-    # oa "And then blocking Brigita! That was a great move."
+    # oa "And then blocking Brigitta! That was a great move."
     oa "然后挡住布吉塔！这招真不错。"
 
 # game/code/Book-1/Chapter-4s/s05.rpy:387
@@ -535,15 +535,15 @@ translate chinese b1c04ss05_f15d3358:
     mct "但通过变化位置，他们又一次暴露了自己团队的优势和劣势。"
 
 # game/code/Book-1/Chapter-4s/s05.rpy:404
-translate chinese b1c04ss05_b38ed074:
+translate chinese b1c04ss05_111f4844:
 
-    # mct "Brigita's arrogant and wants to be in the middle of the action, while covering Simon's weaknesses."
+    # mct "Brigitta's arrogant and wants to be in the middle of the action, while covering Simon's weaknesses."
     mct "布吉塔很傲慢，想要变成队伍中心，同时掩盖西蒙的弱点。"
 
 # game/code/Book-1/Chapter-4s/s05.rpy:405
-translate chinese b1c04ss05_194479e6:
+translate chinese b1c04ss05_42b56423:
 
-    # mct "The last match told me that Brigita is good at long range hits, but not short range ones. Brigita's shortcoming is her temper."
+    # mct "The last match told me that Brigitta is good at long range hits, but not short range ones. Brigitta's shortcoming is her temper."
     mct "最后一场比赛告诉我，布吉塔擅长远距离击球，但不擅长短距离击球。布吉塔的缺点是脾气不好。"
 
 # game/code/Book-1/Chapter-4s/s05.rpy:408
@@ -553,15 +553,15 @@ translate chinese b1c04ss05_ad506938:
     mct "我敢打赌，莫妮卡更擅长近距离击球。"
 
 # game/code/Book-1/Chapter-4s/s05.rpy:409
-translate chinese b1c04ss05_ad1f9d20:
+translate chinese b1c04ss05_d253c906:
 
-    # mct "When all on the same team. Monika and Brigita are a formidable pairing. That's probably why they chose to be on the same side in this game."
+    # mct "When all on the same team. Monika and Brigitta are a formidable pairing. That's probably why they chose to be on the same side in this game."
     mct "当都在同一个团队时。莫妮卡和布吉塔可谓是一对可怕的搭档。也许就是因为这点，她们在这场比赛中才选择站在同一阵营。"
 
 # game/code/Book-1/Chapter-4s/s05.rpy:410
-translate chinese b1c04ss05_91cdb564:
+translate chinese b1c04ss05_b216285a:
 
-    # mct "But when separated like this, Brigita's pride and Simon's weakness fractures the smaller team."
+    # mct "But when separated like this, Brigitta's pride and Simon's weakness fractures the smaller team."
     mct "但当像这样分开时，布吉塔的骄傲和西蒙的软弱使这个小团队四分五裂。"
 
 # game/code/Book-1/Chapter-4s/s05.rpy:413
@@ -583,9 +583,9 @@ translate chinese b1c04ss05_ae84cab3:
     mct "欧娜在这场比赛中大部分时间里都在犹豫不决。我打赌她更擅长远距离击球。奥利萨看起来很有能力，但在靠近网的时候，她的脚步有点不稳。她无法让球越过西蒙的拦网。"
 
 # game/code/Book-1/Chapter-4s/s05.rpy:417
-translate chinese b1c04ss05_d688a565:
+translate chinese b1c04ss05_ca1edca9:
 
-    # mct "Brigita's hoping to use Oleysa's weaknesses to her advantage."
+    # mct "Brigitta's hoping to use Oleysa's weaknesses to her advantage."
     mct "布吉塔希望利用奥利萨的弱点，来为自己所用。"
 
 # game/code/Book-1/Chapter-4s/s05.rpy:437
@@ -631,21 +631,21 @@ translate chinese b1c04ss05_acc43a7e:
     mct "靠，看来奥利萨和欧娜自己处理得很好。"
 
 # game/code/Book-1/Chapter-4s/s05.rpy:459
-translate chinese b1c04ss05_ab87ac5e:
+translate chinese b1c04ss05_2f9ee061:
 
-    # mct "Brigita's weakness is close-range. I have to block her hits while she's at the front."
+    # mct "Brigitta's weakness is close-range. I have to block her hits while she's at the front."
     mct "布吉塔的弱点是近距离击球。当她在前线时，我必须阻挡她的攻击。"
 
 # game/code/Book-1/Chapter-4s/s05.rpy:464
-translate chinese b1c04ss05_6863094c:
+translate chinese b1c04ss05_b0f9aaca:
 
-    # "Brigita tries to hit the ball over the net, but you're prepared. You block her hit. The ball goes toward Simon."
+    # "Brigitta tries to hit the ball over the net, but you're prepared. You block her hit. The ball goes toward Simon."
     "布吉塔试图把球打过网，但你已经准备好了。你挡住她的攻击。球飞向西蒙。"
 
 # game/code/Book-1/Chapter-4s/s05.rpy:468
-translate chinese b1c04ss05_eaa1d6bc:
+translate chinese b1c04ss05_a204d897:
 
-    # "Simon catches the ball and tries to pop it toward Brigita, but his hit is clumsy and weak. The ball doesn't have enough power behind its momentum."
+    # "Simon catches the ball and tries to pop it toward Brigitta, but his hit is clumsy and weak. The ball doesn't have enough power behind its momentum."
     "西蒙接住球，试图把球传给布吉塔，但他的击球既笨拙又无力。球的势头背后没有足够的力量。"
 
 # game/code/Book-1/Chapter-4s/s05.rpy:469
@@ -661,21 +661,21 @@ translate chinese b1c04ss05_c19601f4:
     "奥利萨向前一步，把球打回给西蒙。西蒙挡住了它。"
 
 # game/code/Book-1/Chapter-4s/s05.rpy:477
-translate chinese b1c04ss05_83e124cf:
+translate chinese b1c04ss05_49b942b2:
 
-    # "You catch the ball from Simon's block and hit it toward Brigita, knowing her weakness is short-range."
+    # "You catch the ball from Simon's block and hit it toward Brigitta, knowing her weakness is short-range."
     "你从西蒙的防御中接住球，把它打向布吉塔，你知道她的弱点是短距离击球。"
 
 # game/code/Book-1/Chapter-4s/s05.rpy:481
-translate chinese b1c04ss05_3e1d99b9:
+translate chinese b1c04ss05_1d279bf8:
 
-    # "Brigita scowls at you. She pops the ball backward, to Monika."
+    # "Brigitta scowls at you. She pops the ball backward, to Monika."
     "布吉塔对你怒目而视。她把球向后扔给莫妮卡。"
 
 # game/code/Book-1/Chapter-4s/s05.rpy:482
-translate chinese b1c04ss05_3bdedbfb:
+translate chinese b1c04ss05_3140a5e0:
 
-    # "Brigita knows she can't get the ball over you."
+    # "Brigitta knows she can't get the ball over you."
     "布吉塔知道她不能把球发给你。"
 
 # game/code/Book-1/Chapter-4s/s05.rpy:486
@@ -697,9 +697,9 @@ translate chinese b1c04ss05_6b2ba2cc:
     "欧娜一头扑向球，滑倒在地。她救下了球，把它传给了奥利萨，奥利萨把球传给了你。"
 
 # game/code/Book-1/Chapter-4s/s05.rpy:495
-translate chinese b1c04ss05_f2fd32b8:
+translate chinese b1c04ss05_cb5ead79:
 
-    # mct "Think fast, think fast! Simon's an excellent blocker, targeting him won't help...but Brigita is sure to be tired at this point. She has lower stamina in short-range matches."
+    # mct "Think fast, think fast! Simon's an excellent blocker, targeting him won't help...but Brigitta is sure to be tired at this point. She has lower stamina in short-range matches."
     mct "快想，快想！西蒙是个出色的拦网高手，瞄准他没用...布吉塔现在肯定很累了。她在短距离比赛中耐力较差。"
 
 # game/code/Book-1/Chapter-4s/s05.rpy:507
@@ -733,9 +733,9 @@ translate chinese b1c04ss05_0fafc7db:
     "奥利萨和欧娜一起展示了她们的技能，发挥彼此的优势来击败对方。"
 
 # game/code/Book-1/Chapter-4s/s05.rpy:548
-translate chinese b1c04ss05_19ff7712:
+translate chinese b1c04ss05_be92fdeb:
 
-    # "Brigita's team makes mistakes. Their communication is more disjointed, and their dynamic unbalanced.{w} This makes it easy to exploit their weaknesses."
+    # "Brigitta's team makes mistakes. Their communication is more disjointed, and their dynamic unbalanced.{w} This makes it easy to exploit their weaknesses."
     "布吉塔的团队犯失误了。他们的交流更加脱节，队伍间的平衡被打破。{w}这样就很容易利用他们的弱点。"
 
 # game/code/Book-1/Chapter-4s/s05.rpy:557
@@ -799,9 +799,9 @@ translate chinese b1c04ss05_253157b7:
     mc "我认为你擅长近距离发球，但是拦球对你来说比较困难。"
 
 # game/code/Book-1/Chapter-4s/s05.rpy:591
-translate chinese b1c04ss05_9734ec12:
+translate chinese b1c04ss05_0b166b36:
 
-    # mc "I'm good at blocking and hitting from anywhere, but Brigita's got a better hit than me—when she has the mindset for it."
+    # mc "I'm good at blocking and hitting from anywhere, but Brigitta's got a better hit than me—when she has the mindset for it."
     mc "我擅长在任何地方拦球和击球，但布吉塔的击球比我好--只要她有这种心态。"
 
 # game/code/Book-1/Chapter-4s/s05.rpy:592
@@ -811,9 +811,9 @@ translate chinese b1c04ss05_571039e3:
     mc "我觉得她的脾气可以成为我们的优势。她下一个目标很可能是我，因为她知道她可能会用更有力的打击来对付我。"
 
 # game/code/Book-1/Chapter-4s/s05.rpy:594
-translate chinese b1c04ss05_8a4336c7:
+translate chinese b1c04ss05_1c344cbe:
 
-    # mc "Oleysa, you hit the ball from Brigita's first serve to Iona. Then Iona can hit the ball back over the net from there."
+    # mc "Oleysa, you hit the ball from Brigitta's first serve to Iona. Then Iona can hit the ball back over the net from there."
     mc "奥利萨，你把布吉塔第一次发的球打给欧娜。然后欧娜可以从那里把球打过网。"
 
 # game/code/Book-1/Chapter-4s/s05.rpy:595
@@ -847,9 +847,9 @@ translate chinese b1c04ss05_11f571e2:
     "你的队友与你步调一致，为团队的胜利而战，而不是为她们自己。"
 
 # game/code/Book-1/Chapter-4s/s05.rpy:606
-translate chinese b1c04ss05_a15a2000:
+translate chinese b1c04ss05_bd8a58b2:
 
-    # "You smile to yourself, knowing this game is in your favor, that your strategy is superior. Because Brigita is fighting for herself, not her team."
+    # "You smile to yourself, knowing this game is in your favor, that your strategy is superior. Because Brigitta is fighting for herself, not her team."
     "你对自己微笑，知道这场比赛对你有利，你的策略更胜一筹。因为布吉塔是在为自己而战，而不是为她的团队。"
 
 # game/code/Book-1/Chapter-4s/s05.rpy:635
@@ -901,9 +901,9 @@ translate chinese b1c04ss05_1ca183fd:
     "她把球传给你，你把球打过西蒙的头顶。"
 
 # game/code/Book-1/Chapter-4s/s05.rpy:662
-translate chinese b1c04ss05_b5383a63:
+translate chinese b1c04ss05_efec6d4f:
 
-    # "But Brigita is prepared this time."
+    # "But Brigitta is prepared this time."
     "但布吉塔这次准备好了。"
 
 # game/code/Book-1/Chapter-4s/s05.rpy:663
@@ -925,9 +925,9 @@ translate chinese b1c04ss05_1b0e8245:
     "你还没来得及冲上去拦球，莫妮卡就把球打过了网，打向了奥利萨。"
 
 # game/code/Book-1/Chapter-4s/s05.rpy:676
-translate chinese b1c04ss05_8cecab57:
+translate chinese b1c04ss05_e260f5fb:
 
-    # "Before Brigita even has time to get up, Oleysa pops the ball back to you."
+    # "Before Brigitta even has time to get up, Oleysa pops the ball back to you."
     "布吉塔还没来得及站起来，奥利萨就把球扔给了你。"
 
 # game/code/Book-1/Chapter-4s/s05.rpy:678
@@ -937,9 +937,9 @@ translate chinese b1c04ss05_2a40c702:
     "你把它打过了西蒙的头。"
 
 # game/code/Book-1/Chapter-4s/s05.rpy:682
-translate chinese b1c04ss05_4edf08bd:
+translate chinese b1c04ss05_7a6db818:
 
-    # "The ball lands behind Brigita, kicking sand onto her legs.{w} You win."
+    # "The ball lands behind Brigitta, kicking sand onto her legs.{w} You win."
     "球落在布吉塔身后，把沙子踢到她的腿上。{w}你们赢了。"
 
 # game/code/Book-1/Chapter-4s/s05.rpy:685
@@ -1015,9 +1015,9 @@ translate chinese b1c04ss05_a258be76:
     oa "好哎！"
 
 # game/code/Book-1/Chapter-4s/s05.rpy:735
-translate chinese b1c04ss05_bb3706a6:
+translate chinese b1c04ss05_ff599270:
 
-    # mc "Is Brigita okay?"
+    # mc "Is Brigitta okay?"
     mc "布吉塔还好吗？"
 
 # game/code/Book-1/Chapter-4s/s05.rpy:738
@@ -1061,4 +1061,3 @@ translate chinese strings:
     # game/code/Book-1/Chapter-4s/s05.rpy:9
     old "Couple hours later"
     new "几小时后"
-

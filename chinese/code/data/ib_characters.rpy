@@ -159,8 +159,8 @@ translate chinese strings:
     new "Theater Major"
 
     # game/code/data/ib_characters.rpy:9
-    old "Briggita"
-    new "Briggita"
+    old "Brigitta"
+    new "Brigitta"
 
     # game/code/data/ib_characters.rpy:9
     old "Adrichem"
@@ -397,10 +397,6 @@ translate chinese strings:
 # TODO: Translation updated at 2023-06-27 18:33
 
 translate chinese strings:
-
-    # game/code/data/ib_characters.rpy:9
-    old "Brigitta"
-    new "Brigitta"
 
     # game/code/data/ib_characters.rpy:48
     old "Gaia \"Lilith\""
