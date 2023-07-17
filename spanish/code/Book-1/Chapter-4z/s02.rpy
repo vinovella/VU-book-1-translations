@@ -4,19 +4,19 @@
 translate spanish b1c04zs02_3141a8de:
 
     # ffl "So you said you were sailing with your dad?"
-    ffl "¿Así que dijiste que ibas a navegar con tu padre?"
+    ffl "¿Así que dijiste que ibas a viajar con tu padre?"
 
 # game/code/Book-1/Chapter-4z/s02.rpy:12
 translate spanish b1c04zs02_18c6e121:
 
     # mc "Yeah, he thought it'd be a good bonding experience."
-    mc "Sí, pensó que sería una buena experiencia de vinculación."
+    mc "Sí, pensó que sería una buena experiencia para establecer lazos."
 
 # game/code/Book-1/Chapter-4z/s02.rpy:15
 translate spanish b1c04zs02_904fdbe7:
 
     # ffl "Cool! You're so lucky. My dad was more interested in...his profession, more than me."
-    ffl "¡Fresco! Eres tan afortunado. A mi papá le interesaba más... su profesión, más que yo."
+    ffl "¡Genial! Qué suerte tienes. Mi padre estaba más interesado en... su profesión, que en mí."
 
 # game/code/Book-1/Chapter-4z/s02.rpy:18
 translate spanish b1c04zs02_03208b43:
@@ -28,7 +28,7 @@ translate spanish b1c04zs02_03208b43:
 translate spanish b1c04zs02_ff21c523:
 
     # ffl "Yeah, it kinda was... Anyway, what places did you visit?"
-    ffl "Sí, fue un poco... De todos modos, ¿qué lugares visitaste?"
+    ffl "Sí, más o menos... De todos modos, ¿qué lugares visitaste?"
 
 # game/code/Book-1/Chapter-4z/s02.rpy:24
 translate spanish b1c04zs02_bc30846e:
@@ -64,7 +64,7 @@ translate spanish b1c04zs02_1debb549:
 translate spanish b1c04zs02_96d1ddfe:
 
     # zp "Why'd you bring this one?"
-    zp "¿Por qué trajiste este?"
+    zp "¿Por qué trajiste a éste?"
 
 # game/code/Book-1/Chapter-4z/s02.rpy:51
 translate spanish b1c04zs02_a3d96989:
@@ -82,7 +82,7 @@ translate spanish b1c04zs02_9299ee3b:
 translate spanish b1c04zs02_634f0524:
 
     # zp "It went great."
-    zp "fue genial"
+    zp "Fue genial."
 
 # game/code/Book-1/Chapter-4z/s02.rpy:71
 translate spanish b1c04zs02_88473c86:
@@ -118,7 +118,7 @@ translate spanish b1c04zs02_55fc64e4:
 translate spanish b1c04zs02_003d4ee1:
 
     # zp "I am. I'm the best."
-    zp "Soy. Soy el mejor."
+    zp "Lo soy. Soy la mejor."
 
 # game/code/Book-1/Chapter-4z/s02.rpy:91
 translate spanish b1c04zs02_7a183012:
@@ -172,13 +172,13 @@ translate spanish b1c04zs02_0662aff4:
 translate spanish b1c04zs02_d3e1ff22:
 
     # zp "Unlike you, Lilith, I {i}am{/i} a good shot. Shooting in real life is more complicated than in games."
-    zp "A diferencia de ti, Lilith, yo {i}soy{/i} un buen tirador. Disparar en la vida real es más complicado que en los juegos."
+    zp "A diferencia de ti, Lilith, yo {i}soy{/i} una buena tiradora. Disparar en la vida real es más complicado que en los juegos."
 
 # game/code/Book-1/Chapter-4z/s02.rpy:117
 translate spanish b1c04zs02_f155cc7b:
 
     # zp "Feeling the kick, smelling the gunpowder, acing that perfect shot..."
-    zp "Sintiendo la patada, oliendo la pólvora, acertando ese tiro perfecto..."
+    zp "Sentir la explosión, oler la pólvora, acertar el tiro perfecto..."
 
 # game/code/Book-1/Chapter-4z/s02.rpy:118
 translate spanish b1c04zs02_8da459ef:
@@ -196,31 +196,31 @@ translate spanish b1c04zs02_93d94b43:
 translate spanish b1c04zs02_a215af25:
 
     # mc "I bet. I've heard it gets complicated."
-    mc "Te apuesto. He oído que se complica."
+    mc "Ya lo creo. He oído que se complica."
 
 # game/code/Book-1/Chapter-4z/s02.rpy:127
 translate spanish b1c04zs02_09c40f0b:
 
     # zp "It does. It's taken me years to get to the skill level that I'm at now. I've almost hit my next goal. I should have an improved reload and aim time in a month—if I keep practicing."
-    zp "Lo hace. Me ha llevado años llegar al nivel de habilidad en el que estoy ahora. Casi he alcanzado mi siguiente objetivo. Debería tener una recarga mejorada y tiempo de puntería en un mes, si sigo practicando."
+    zp "Así es. He tardado años en alcanzar el nivel que tengo ahora. Casi he alcanzado mi próximo objetivo. Debería mejorar mi tiempo de recarga y puntería en un mes, si sigo practicando."
 
 # game/code/Book-1/Chapter-4z/s02.rpy:130
 translate spanish b1c04zs02_677a9969:
 
     # gn "Fuck yeah, Zemfira. You'll probably get there sooner than a month."
-    gn "Joder, sí, Zemfira. Probablemente llegue antes de un mes."
+    gn "Mierda, sí, Zemfira. Probablemente llegue antes de un mes."
 
 # game/code/Book-1/Chapter-4z/s02.rpy:133
 translate spanish b1c04zs02_ff5bbdb5:
 
     # zp "Probably, but I wanted to show Fleur that I {i}can{/i} be modest."
-    zp "Probablemente, pero quería mostrarle a Fleur que {i}puedo{/i} ser modesto."
+    zp "Probablemente, pero quería mostrarle a Fleur que {i}puedo{/i} ser modesta."
 
 # game/code/Book-1/Chapter-4z/s02.rpy:137
 translate spanish b1c04zs02_08768870:
 
     # ffl "I stand corrected."
-    ffl "Estoy corregido."
+    ffl "Me doy por corregida."
 
 # game/code/Book-1/Chapter-4z/s02.rpy:140
 translate spanish b1c04zs02_dad7a38d:
@@ -238,13 +238,13 @@ translate spanish b1c04zs02_60400419:
 translate spanish b1c04zs02_35194c9f:
 
     # gn "How's music class coming along, Fleur? Is professor what's-his-face still a dick?"
-    gn "¿Cómo va la clase de música, Fleur? ¿El profesor como es su cara sigue siendo un imbécil?"
+    gn "¿Cómo va la clase de música, Fleur? ¿El profesor \"cómo-se-llame\" sigue siendo un imbécil?"
 
 # game/code/Book-1/Chapter-4z/s02.rpy:156
 translate spanish b1c04zs02_57273615:
 
     # ffl "It's going great! And yeah. He's still a gigantic dick."
-    ffl "¡Que va muy bien! Y si. Sigue siendo un idiota gigante."
+    ffl "¡Va genial! Y sí. Sigue siendo un gigantesco imbécil."
 
 # game/code/Book-1/Chapter-4z/s02.rpy:159
 translate spanish b1c04zs02_16b92fd9:
@@ -262,7 +262,7 @@ translate spanish b1c04zs02_925da76a:
 translate spanish b1c04zs02_da3d1811:
 
     # ffl "He gives us too much menial work. Doesn't want us to get too advanced and surpass his class before the semester is over."
-    ffl "Nos da demasiado trabajo servil. No quiere que avancemos demasiado y superemos su clase antes de que termine el semestre."
+    ffl "Nos da demasiado trabajo de poca importancia. No quiere que avancemos demasiado y superemos su clase antes de que acabe el semestre."
 
 # game/code/Book-1/Chapter-4z/s02.rpy:168
 translate spanish b1c04zs02_4071a36a:
@@ -292,13 +292,13 @@ translate spanish b1c04zs02_e9d83310:
 translate spanish b1c04zs02_5fa900b4:
 
     # zp "I'm {i}sure{/i} you know how to show a professor a good time."
-    zp "Estoy {i}seguro{/i} de que sabes cómo hacerle pasar un buen rato a un profesor."
+    zp "Estoy {i}segura{/i} de que sabes cómo hacerle pasar un buen rato a un profesor."
 
 # game/code/Book-1/Chapter-4z/s02.rpy:183
 translate spanish b1c04zs02_554d2745:
 
     # ffl "C'mon, don't be assholes."
-    ffl "Vamos, no seáis pendejos."
+    ffl "Vamos, no sean imbéciles."
 
 # game/code/Book-1/Chapter-4z/s02.rpy:186
 translate spanish b1c04zs02_fcd92665:
@@ -310,7 +310,7 @@ translate spanish b1c04zs02_fcd92665:
 translate spanish b1c04zs02_5592099a:
 
     # ffl "You're both still assholes."
-    ffl "Los dos siguen siendo idiotas."
+    ffl "Las dos siguen siendo idiotas."
 
 # game/code/Book-1/Chapter-4z/s02.rpy:194
 translate spanish b1c04zs02_c90b20a2:
@@ -358,7 +358,7 @@ translate spanish b1c04zs02_836d88cf:
 translate spanish b1c04zs02_eb9aa3f6:
 
     # gn "So, [mcname], what are you here to study?"
-    gn "Entonces, [mcname], ¿qué estás aquí para estudiar?"
+    gn "Entonces, [mcname], ¿qué has venido a estudiar?"
 
 # game/code/Book-1/Chapter-4z/s02.rpy:226
 translate spanish b1c04zs02_098927b9:
@@ -424,19 +424,19 @@ translate spanish b1c04zs02_fbacf6f1:
 translate spanish b1c04zs02_3a8df084:
 
     # mct "Their vibes just changed drastically. They're obviously uncomfortable because I saw that exchange. I need to find out what that woman wanted from Zemfira."
-    mct "Sus vibraciones simplemente cambiaron drásticamente. Obviamente están incómodos porque vi ese intercambio. Necesito averiguar qué quería esa mujer de Zemfira."
+    mct "Sus vibraciones cambiaron drásticamente. Obviamente están incómodas porque vi ese intercambio. Necesito averiguar qué quería esa mujer de Zemfira."
 
 # game/code/Book-1/Chapter-4z/s02.rpy:261
 translate spanish b1c04zs02_281eec41:
 
     # zp "Yeah... It's an up and coming first person shooter. There's not much of a player base behind it yet, so I'm hoping to get to the top quickly. Then it will be a matter of maintaining my position."
-    zp "Sí... Es un juego de disparos en primera persona prometedor. Todavía no hay mucha base de jugadores detrás, así que espero llegar a la cima rápidamente. Entonces será cuestión de mantener mi puesto."
+    zp "Sí... Es un juego de acción en primera persona. Todavía no hay muchos jugadores detrás, así que espero llegar a la cima rápidamente. Entonces será cuestión de mantener mi posición."
 
 # game/code/Book-1/Chapter-4z/s02.rpy:267
 translate spanish b1c04zs02_8eb0d7c7:
 
     # mc "Well, I gotta go. It was nice to talk with you all."
-    mc "Bueno tengo que irme. Fue agradable hablar con todos ustedes."
+    mc "Bueno tengo que irme. Fue agradable hablar con todas ustedes."
 
 # game/code/Book-1/Chapter-4z/s02.rpy:270
 translate spanish b1c04zs02_3957d6cd:
