@@ -82,25 +82,25 @@ translate spanish b01c04zs01m01_55c76c2d:
 translate spanish b01c04zs01m01_82382b74:
 
     # zp "And even if it wasn't taken, I wouldn't be caught dead sitting next to you. Get lost, asshole."
-    zp "E incluso si no lo tomaran, no me atraparían muerto sentado a tu lado. Piérdete, pendejo."
+    zp "Y aunque no estuviera ocupado, no me atraparían ni muerta sentada a tu lado. Piérdete, imbécil."
 
 # game/code/Book-1/Chapter-4z/s01.rpy:76
 translate spanish b01c04zs01m01_98719365:
 
     # mc "Okay, sorry."
-    mc "Esta bien perdón."
+    mc "Está bien, lo siento."
 
 # game/code/Book-1/Chapter-4z/s01.rpy:84
 translate spanish b01c04zs01m01_bbccd3c6:
 
     # "{color=#e5c532}Friendly Girl{/color}" "Ouch. That was hard to watch."
-    "{color=#e5c532}Chica amigable{/color}" "Ay. Eso fue difícil de ver."
+    "{color=#e5c532}Chica Amigable{/color}" "Ouch. Eso fue difícil de ver."
 
 # game/code/Book-1/Chapter-4z/s01.rpy:85
 translate spanish b01c04zs01m01_7943cc94:
 
     # "{color=#e5c532}Friendly Girl{/color}" "You got shut down pretty hard there."
-    "{color=#e5c532}Chica amigable{/color}" "Te cerraron bastante fuerte allí."
+    "{color=#e5c532}Chica Amigable{/color}" "Te hicieron callar muy duro ahí."
 
 # game/code/Book-1/Chapter-4z/s01.rpy:88
 translate spanish b01c04zs01m01_6910fbcc:
@@ -112,31 +112,31 @@ translate spanish b01c04zs01m01_6910fbcc:
 translate spanish b01c04zs01m01_c600771c:
 
     # "{color=#e5c532}Friendly Girl{/color}" "I know Zemfira. She's...intense. She sits next to Leia's seat every day."
-    "{color=#e5c532}Chica amigable{/color}" "Conozco a Zemfira. Ella es... intensa. Se sienta al lado del asiento de Leia todos los días."
+    "{color=#e5c532}Chica Amigable{/color}" "Conozco a Zemfira. Ella es... intensa. Se sienta al lado del asiento de Leia todos los días."
 
 # game/code/Book-1/Chapter-4z/s01.rpy:92
 translate spanish b01c04zs01m01_44c8fcb2:
 
     # "{color=#e5c532}Friendly Girl{/color}" "Won't let anyone take that seat, either."
-    "{color=#e5c532}Chica amigable{/color}" "Tampoco dejaré que nadie ocupe ese asiento."
+    "{color=#e5c532}Chica Amigable{/color}" "Tampoco dejará que nadie ocupe ese asiento."
 
 # game/code/Book-1/Chapter-4z/s01.rpy:95
 translate spanish b01c04zs01m01_28ff74ee:
 
     # "{color=#e5c532}Friendly Girl{/color}" "So you're not a special case."
-    "{color=#e5c532}Chica amigable{/color}" "Así que no eres un caso especial."
+    "{color=#e5c532}Chica Amigable{/color}" "Así que no eres un caso especial."
 
 # game/code/Book-1/Chapter-4z/s01.rpy:98
 translate spanish b01c04zs01m01_26eb1a79:
 
     # mc "Good to know. {w}I guess."
-    mc "Bueno saber. {w}Supongo."
+    mc "Es bueno saberlo. {w}Supongo."
 
 # game/code/Book-1/Chapter-4z/s01.rpy:103
 translate spanish b01c04zs01m01_3635d4b2:
 
     # "{color=#e5c532}Friendly Girl{/color}" "I'm Fleur, by the way."
-    "{color=#e5c532}Chica amigable{/color}" "Soy Fleur, por cierto."
+    "{color=#e5c532}Chica Amigable{/color}" "Soy Fleur, por cierto."
 
 # game/code/Book-1/Chapter-4z/s01.rpy:109
 translate spanish b01c04zs01m01_d567b05d:
@@ -148,7 +148,7 @@ translate spanish b01c04zs01m01_d567b05d:
 translate spanish b01c04zs01m01_0e2209b7:
 
     # ffl "I can tell. Only people who are new, or have a death wish would try to sit in Leia's seat."
-    ffl "Puedo decir. Solo las personas nuevas o con deseos de morir intentarían sentarse en el asiento de Leia."
+    ffl "Me doy cuenta. Sólo la gente nueva o con ganas de morir intentaría sentarse en el asiento de Leia."
 
 # game/code/Book-1/Chapter-4z/s01.rpy:115
 translate spanish b01c04zs01m01_30acc7d2:
@@ -172,7 +172,7 @@ translate spanish b01c04zs01m01_9a77feed:
 translate spanish b01c04zs01m01_83d6d56b:
 
     # ffl "She just takes some time to get used to people."
-    ffl "Solo se toma un tiempo para acostumbrarse a la gente."
+    ffl "Sólo se toma un tiempo para acostumbrarse a la gente."
 
 # game/code/Book-1/Chapter-4z/s01.rpy:123
 translate spanish b01c04zs01m01_bd3e6741:
@@ -184,13 +184,13 @@ translate spanish b01c04zs01m01_bd3e6741:
 translate spanish b01c04zs01m01_6731ca2a:
 
     # ffl "After a while."
-    ffl "Al poco tiempo."
+    ffl "Después de un tiempo."
 
 # game/code/Book-1/Chapter-4z/s01.rpy:125
 translate spanish b01c04zs01m01_60cceb21:
 
     # ffl "For the most part."
-    ffl "En la mayor parte."
+    ffl "En su mayor parte."
 
 # game/code/Book-1/Chapter-4z/s01.rpy:128
 translate spanish b01c04zs01m01_ebfe863e:
@@ -202,19 +202,19 @@ translate spanish b01c04zs01m01_ebfe863e:
 translate spanish b01c04zs01m01_644a957f:
 
     # mc "But it's not like I was trying to pull a move on Zemfira or anything."
-    mc "Pero no es como si estuviera tratando de hacer un movimiento en Zemfira o algo así."
+    mc "Pero no es que estuviera intentando seducir a Zemfira ni nada de eso."
 
 # game/code/Book-1/Chapter-4z/s01.rpy:134
 translate spanish b01c04zs01m01_03ba894c:
 
     # ffl "Your secret's safe with me, {i}New Boy{/i}."
-    ffl "Tu secreto está a salvo conmigo, {i}New Boy{/i}."
+    ffl "Tu secreto está a salvo conmigo, {i}Chico Nuevo{/i}."
 
 # game/code/Book-1/Chapter-4z/s01.rpy:137
 translate spanish b01c04zs01m01_c3922695:
 
     # mc "Honest to God! I was just trying to be friendly."
-    mc "¡Honesto a Dios! Solo estaba tratando de ser amigable."
+    mc "¡Honestamente! Sólo intentaba ser amistoso."
 
 # game/code/Book-1/Chapter-4z/s01.rpy:138
 translate spanish b01c04zs01m01_d532485f:
@@ -226,13 +226,13 @@ translate spanish b01c04zs01m01_d532485f:
 translate spanish b01c04zs01m01_717e66ab:
 
     # ffl "Okay, okay. I believe you."
-    ffl "Bien bien. Te creo."
+    ffl "Bien, bien. Te creo."
 
 # game/code/Book-1/Chapter-4z/s01.rpy:142
 translate spanish b01c04zs01m01_196ba8e2:
 
     # ffl "Sort of."
-    ffl "Algo así como."
+    ffl "Más o menos."
 
 # game/code/Book-1/Chapter-4z/s01.rpy:145
 translate spanish b01c04zs01m01_00b482ba:
@@ -244,7 +244,7 @@ translate spanish b01c04zs01m01_00b482ba:
 translate spanish b01c04zs01m01_329ca7d3:
 
     # mc "No kidding. She bumped into me and Silvia yesterday and was pissed at {i}us{/i} for it."
-    mc "En serio. Se topó con Silvia y conmigo ayer y estaba enojada con {i}nosotros{/i} por eso."
+    mc "En serio. Se topó con Silvia y conmigo ayer y estaba enojada con {i}nosotras{/i} por eso."
 
 # game/code/Book-1/Chapter-4z/s01.rpy:151
 translate spanish b01c04zs01m01_03d8e5dd:
@@ -256,7 +256,7 @@ translate spanish b01c04zs01m01_03d8e5dd:
 translate spanish b01c04zs01m01_830f8a1e:
 
     # ffl "It's okay, though."
-    ffl "Está bien, sin embargo."
+    ffl "Pero está bien."
 
 # game/code/Book-1/Chapter-4z/s01.rpy:155
 translate spanish b01c04zs01m01_9754fede:
@@ -268,7 +268,7 @@ translate spanish b01c04zs01m01_9754fede:
 translate spanish b01c04zs01m01_ee18f9b3:
 
     # ffl "She just needs to go blow a few rounds in a target or two and she'll be all good."
-    ffl "Solo necesita disparar algunas rondas en un objetivo o dos y estará bien."
+    ffl "Sólo tiene que hacer un par de disparos en un blanco y estará bien."
 
 # game/code/Book-1/Chapter-4z/s01.rpy:159
 translate spanish b01c04zs01m01_70544d2a:
@@ -280,7 +280,7 @@ translate spanish b01c04zs01m01_70544d2a:
 translate spanish b01c04zs01m01_c960e37d:
 
     # ffl "Mhm. She usually goes to the shooting range to blow off steam."
-    ffl "mmm Suele ir al campo de tiro para desahogarse."
+    ffl "Mhm. Suele ir al campo de tiro para desahogarse."
 
 # game/code/Book-1/Chapter-4z/s01.rpy:163
 translate spanish b01c04zs01m01_c76b7644:
@@ -298,7 +298,7 @@ translate spanish b01c04zs01m01_18bb2099:
 translate spanish b01c04zs01m01_db450a23:
 
     # mc "I bet."
-    mc "Te apuesto."
+    mc "Ya lo creo."
 
 # game/code/Book-1/Chapter-4z/s01.rpy:171
 translate spanish b01c04zs01m01_178d157c:
@@ -316,7 +316,7 @@ translate spanish b01c04zs01m01_b289456c:
 translate spanish b01c04zs01m01_8994a003:
 
     # mc "...Comforting."
-    mc "...Consolador."
+    mc "...Reconfortante."
 
 # game/code/Book-1/Chapter-4z/s01.rpy:181
 translate spanish b01c04zs01m01_3f5b9b7d:
@@ -382,7 +382,7 @@ translate spanish b01c04zs01m02_08292196:
 translate spanish b01c04zs01m02_6e8862b6:
 
     # ffl "What's there to focus on? Most of it is easy work. Besides, the professor gives us detailed notes for our classwork. Showing up here is mainly for attendance."
-    ffl "¿En qué hay que concentrarse? La mayor parte es un trabajo fácil. Además, el profesor nos da notas detalladas para nuestro trabajo de clase. Aparecer aquí es principalmente para asistir."
+    ffl "¿En qué hay que concentrarse? La mayor parte es trabajo fácil. Además, el profesor nos da notas detalladas para el trabajo de clase. Aparecer aquí es principalmente para la asistencia."
 
 # game/code/Book-1/Chapter-4z/s01.rpy:214
 translate spanish b01c04zs01m02_d8f11529_1:
@@ -394,7 +394,7 @@ translate spanish b01c04zs01m02_d8f11529_1:
 translate spanish b01c04zs01m02_d47077b4:
 
     # "{color=#6023dc}Girl{/color}" "Hey! Can you guys shut it so I can hear what the professor's saying?" (who_outlines=[(1, "#e1e1e1", 0, 0)], kerning=1)
-    "{color=#6023dc}Chica{/color}" "¡Ey! ¿Pueden cerrarlo para que pueda escuchar lo que dice el profesor?" (who_outlines=[(1, "#e1e1e1", 0, 0)], kerning=1)
+    "{color=#6023dc}Chica{/color}" "¡Eh! ¿Pueden callarse para que pueda oír lo que dice el profesor?" (who_outlines=[(1, "#e1e1e1", 0, 0)], kerning=1)
 
 # game/code/Book-1/Chapter-4z/s01.rpy:225
 translate spanish b01c04zs01m02_03b7571d:
@@ -418,13 +418,13 @@ translate spanish b01c04zs01m02_fab9e21c:
 translate spanish b01c04zs01m02_75110e3a:
 
     # ffl "You should come watch me play, sometime."
-    ffl "Deberías venir a verme jugar, alguna vez."
+    ffl "Deberías venir a verme tocar, alguna vez."
 
 # game/code/Book-1/Chapter-4z/s01.rpy:233
 translate spanish b01c04zs01m02_9914da4f:
 
     # mc "Wow. You're balancing a lot at once."
-    mc "Guau. Estás equilibrando mucho a la vez."
+    mc "Vaya. Estás equilibrando muchas cosas al mismo tiempo."
 
 # game/code/Book-1/Chapter-4z/s01.rpy:234
 translate spanish b01c04zs01m02_4de7a718:
@@ -472,7 +472,7 @@ translate spanish b01c04zs01m02_29f3ea7d:
 translate spanish b01c04zs01m02_ae3b2795:
 
     # ffl "I'd be down to make a deal with the devil if it means I don't have to worry about money."
-    ffl "Estaría dispuesto a hacer un trato con el diablo si eso significa que no tengo que preocuparme por el dinero."
+    ffl "Estaría dispuesta a hacer un trato con el diablo si eso significa que no tengo que preocuparme por el dinero."
 
 # game/code/Book-1/Chapter-4z/s01.rpy:254
 translate spanish b01c04zs01m02_738b72c4:
@@ -496,7 +496,7 @@ translate spanish b01c04zs01m02_58d3325a:
 translate spanish b01c04zs01m02_7e881766:
 
     # ffl "When I was a kid, she'd give me a guitar to tinker with while she painted. And when she was done, she told me that her painting was a visual representation of how my music made her feel."
-    ffl "Cuando era niño, me daba una guitarra para jugar mientras ella pintaba. Y cuando terminó, me dijo que su pintura era una representación visual de cómo la hacía sentir mi música."
+    ffl "Cuando era niña, me daba una guitarra para jugar mientras ella pintaba. Y cuando terminó, me dijo que su pintura era una representación visual de cómo la hacía sentir mi música."
 
 # game/code/Book-1/Chapter-4z/s01.rpy:262
 translate spanish b01c04zs01m02_97b085b9:
@@ -508,7 +508,7 @@ translate spanish b01c04zs01m02_97b085b9:
 translate spanish b01c04zs01m02_c0c61547:
 
     # ffl "And also very chaotic and generally all over the place. So I'm not sure what she was trying to say there, but I'll take it as a compliment."
-    ffl "Y también muy caótico y generalmente por todas partes. Así que no estoy seguro de lo que estaba tratando de decir allí, pero lo tomaré como un cumplido."
+    ffl "Y también muy caótica y, en general, desordenada. Así que no estoy segura de lo que quería decir, pero me lo tomaré como un cumplido."
 
 # game/code/Book-1/Chapter-4z/s01.rpy:266
 translate spanish b01c04zs01m02_9a73f46f:
@@ -556,13 +556,13 @@ translate spanish b01c04zs01m02_092db497:
 translate spanish b01c04zs01m02_f8bac0db:
 
     # mc "Really? Well, I guess not. Not yet, anyway. I spent the last year sailing the world with my dad."
-    mc "¿En realidad? Bueno, supongo que no. No todavía, de todos modos. Pasé el último año navegando por el mundo con mi papá."
+    mc "¿De verdad? Bueno, supongo que no. No todavía, de todos modos. Pasé el último año viajando por el mundo con mi papá."
 
 # game/code/Book-1/Chapter-4z/s01.rpy:284
 translate spanish b01c04zs01m02_c9318ec3:
 
     # ffl "Wow! That's incredible. You must be so well traveled."
-    ffl "¡Guau! Eso es increíble. Debes estar muy bien viajado."
+    ffl "¡Vaya! Eso es increíble. Debes de haber viajado mucho."
 
 # game/code/Book-1/Chapter-4z/s01.rpy:288
 translate spanish b01c04zs01m02_c7605aad:
@@ -604,7 +604,7 @@ translate spanish b01c04zs01m02_33ae9abd:
 translate spanish b01c04zs01m02_ae85b13d:
 
     # ffl "I'm learning from a friend of mine. She's a computer whizz."
-    ffl "Estoy aprendiendo de un amigo mío. Ella es un genio de la computadora."
+    ffl "Estoy aprendiendo de una amiga mía. Ella es una genio de la computadora."
 
 # game/code/Book-1/Chapter-4z/s01.rpy:312
 translate spanish b01c04zs01m02_58e61225:
@@ -616,13 +616,13 @@ translate spanish b01c04zs01m02_58e61225:
 translate spanish b01c04zs01m02_e4a6a15e:
 
     # mc "I thought you could run into some fucked people on the dark web, though?"
-    mc "Sin embargo, pensé que podrías encontrarte con algunas personas jodidas en la web oscura."
+    mc "Sin embargo, pensé que podías encontrarte con gente bastante rara en la web oscura."
 
 # game/code/Book-1/Chapter-4z/s01.rpy:318
 translate spanish b01c04zs01m02_5402e489:
 
     # ffl "Well yeah. But mostly it's just cop traps and scammers. The chat rooms can be interesting, though. Seeing people unmasked is what interests me."
-    ffl "Bueno sí. Pero sobre todo son solo trampas para policías y estafadores. Sin embargo, las salas de chat pueden ser interesantes. Ver gente desenmascarada es lo que me interesa."
+    ffl "Bueno, sí. Pero la mayoría son trampas para la policía y estafadores. Las salas de chat pueden ser interesantes, sin embargo. Ver a la gente sin máscaras es lo que me interesa."
 
 # game/code/Book-1/Chapter-4z/s01.rpy:319
 translate spanish b01c04zs01m02_0f24340f:
@@ -646,7 +646,7 @@ translate spanish b01c04zs01m02_a06689bf:
 translate spanish b01c04zs01m02_a23a5e0b:
 
     # ffl "You're right. It's not."
-    ffl "Tienes razón. Que no es."
+    ffl "Tienes razón. No la tienes."
 
 # game/code/Book-1/Chapter-4z/s01.rpy:327
 translate spanish b01c04zs01m02_f5e85a8b:
@@ -664,7 +664,7 @@ translate spanish b01c04zs01m02_d52c2385:
 translate spanish b01c04zs01m02_5d1f1368:
 
     # mc "I see what you mean."
-    mc "Veo a que te refieres."
+    mc "Entiendo lo que quieres decir."
 
 # game/code/Book-1/Chapter-4z/s01.rpy:334
 translate spanish b01c04zs01m02_97c9cfb5:
@@ -718,7 +718,7 @@ translate spanish b01c04zs01m02_1decfe1e:
 translate spanish b01c04zs01m02_bcdf2fa1:
 
     # ffl "It's gotta be hard not knowing anyone here. A lot of people either have a group of friends, or someone that they knew in highschool here with them."
-    ffl "Tiene que ser difícil no conocer a nadie aquí. Muchas personas tienen un grupo de amigos o alguien que conocieron en la escuela secundaria aquí con ellos."
+    ffl "Tiene que ser duro no conocer a nadie aquí. Mucha gente viene con un grupo de amigos o con alguien que conocieron en el instituto."
 
 # game/code/Book-1/Chapter-4z/s01.rpy:356
 translate spanish b01c04zs01m02_578c63aa:
@@ -744,7 +744,7 @@ translate spanish strings:
 
     # game/code/Book-1/Chapter-4z/s01.rpy:44
     old "Okay, sorry."
-    new "Esta bien perdón."
+    new "Está bien perdón."
 
     # game/code/Book-1/Chapter-4z/s01.rpy:189
     old "That sounds great!"
