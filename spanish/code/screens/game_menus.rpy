@@ -96,7 +96,7 @@ translate spanish strings:
 
     # game/code/screens/game_menus.rpy:262
     old "After Choices"
-    new "Después opciones"
+    new "Después de elegir"
 
     # game/code/screens/game_menus.rpy:263
     old "Transitions"
