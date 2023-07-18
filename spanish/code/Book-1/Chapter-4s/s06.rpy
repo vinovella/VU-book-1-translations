@@ -10,7 +10,7 @@ translate spanish b1c04ss06_25a823dd:
 translate spanish b1c04ss06_a34bcee7:
 
     # ir "Woo! He made it!"
-    ir "¡Woo! ¡El lo hizo!"
+    ir "¡Woo! ¡Él lo hizo!"
 
 # game/code/Book-1/Chapter-4s/s06.rpy:37
 translate spanish b1c04ss06_acf8cba1:
