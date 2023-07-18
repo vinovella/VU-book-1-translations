@@ -187,10 +187,10 @@ translate spanish b1c04ss05_8ea49e58:
     sm "¡Bueno! Bueno, deberíamos poner el juego en marcha. Todos, hagan equipo."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:162
-translate spanish b1c04ss05_2754fdf4:
+translate spanish b1c04ss05_465890eb:
 
-    # sl "I'm with Brigitta and Monika!"
-    sl "Estoy con Brigitta y Monika!"
+    # sl "I'm with Brigita and Monika!"
+    sl "Estoy con Brigita y Monika!"
 
 # game/code/Book-1/Chapter-4s/s05.rpy:165
 translate spanish b1c04ss05_1819ed63:
@@ -264,11 +264,11 @@ translate spanish b1c04ss05_98a28ca8:
     # mct "Let's give 'em a game they can't forget."
     mct "Démosles un juego que no puedan olvidar."
 
-## game/code/Book-1/Chapter-4s/s05.rpy:214
-translate spanish b1c04ss05_98a49b28:
+# game/code/Book-1/Chapter-4s/s05.rpy:214
+translate spanish b1c04ss05_22dab0aa:
 
-    # "Brigitta dives for the ball. A flash of sand sprays ahead of her feet as she skids to a stop. She pops the ball into the air."
-    "Brigitta se lanza por la pelota. Un destello de arena sale disparado delante de sus pies cuando patina hasta detenerse. Ella lanza la pelota al aire."
+    # "Brigita dives for the ball. A flash of sand sprays ahead of her feet as she skids to a stop. She pops the ball into the air."
+    "Brigita se lanza por la pelota. Un destello de arena sale disparado delante de sus pies cuando patina hasta detenerse. Ella lanza la pelota al aire."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:222
 translate spanish b1c04ss05_db00f5a6:
@@ -343,10 +343,10 @@ translate spanish b1c04ss05_87062515:
     "Te golpea el estómago."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:296
-translate spanish b1c04ss05_a1d21898:
+translate spanish b1c04ss05_cb798e7a:
 
-    # sm "1 point to Brigitta's team!"
-    sm "¡1 punto para el equipo de Brigitta!"
+    # sm "1 point to Brigita's team!"
+    sm "¡1 punto para el equipo de Brigita!"
 
 # game/code/Book-1/Chapter-4s/s05.rpy:299
 translate spanish b1c04ss05_ed87329c:
@@ -361,10 +361,10 @@ translate spanish b1c04ss05_a8d94adc:
     mct "Maldita sea, eso dolío."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:305
-translate spanish b1c04ss05_fc8b536c:
+translate spanish b1c04ss05_1fdca0fb:
 
-    # oa "Hey, are you aright? Brigitta can hit harder than a 'roided out rhino."
-    oa "Oye, ¿estás bien? Brigitta puede golpear más fuerte que un rinoceronte desarmado."
+    # oa "Hey, are you alright? Brigita can hit harder than a 'roided out rhino."
+    oa "Oye, ¿estás bien? Brigita puede golpear más fuerte que un rinoceronte desarmado."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:307
 translate spanish b1c04ss05_e79df68d:
@@ -379,10 +379,10 @@ translate spanish b1c04ss05_27d251fc:
     "Puede sentir una roncha roja que se hincha en su abdomen debido a la picadura de la pelota."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:311
-translate spanish b1c04ss05_55c4f6d0:
+translate spanish b1c04ss05_7e7ed8b3:
 
-    # "But you look directly at Brigitta and smirk."
-    "Pero miras directamente a Brigitta y sonríes."
+    # "But you look directly at Brigita and smirk."
+    "Pero miras directamente a Brigita y sonríes."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:313
 translate spanish b1c04ss05_1de532ab:
@@ -403,22 +403,22 @@ translate spanish b1c04ss05_e7c560c1:
     mct "Ningún equipo tiene jugadores perfectos..."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:321
-translate spanish b1c04ss05_491ff86d:
+translate spanish b1c04ss05_b3123433:
 
-    # mct "Simon's a good blocker because he's taller, but I've noticed Monika and Brigitta are the main ones hitting the ball."
-    mct "Simón es un buen bloqueador porque es más alto, pero he notado que Monika y Brigitta son las principales golpeando la pelota."
+    # mct "Simon's a good blocker because he's taller, but I've noticed Monika and Brigita are the main ones hitting the ball."
+    mct "Simón es un buen bloqueador porque es más alto, pero he notado que Monika y Brigita son las principales golpeando la pelota."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:322
 translate spanish b1c04ss05_e77c7d4b:
 
     # mct "I bet Simon is the weakest hitter. Slower reaction speeds... Which is why he excels as a blocker."
-    mct "Apuesto a que Simon es el bateador más débil. Velocidades de reacción más lentas... Por eso sobresale como bloqueador."
+    mct "Apuesto a que Simón es el golpeador más débil. Velocidades de reacción más lentas... Por eso sobresale como bloqueador."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:323
-translate spanish b1c04ss05_8e64e6fc:
+translate spanish b1c04ss05_b005ffab:
 
-    # mct "Brigitta and Monika are probably worse blockers because they're shorter and better at hitting."
-    mct "Brigitta y Monika probablemente sean peores bloqueadoras porque son más bajas y mejores golpeando."
+    # mct "Brigita and Monika are probably worse blockers because they're shorter and better at hitting."
+    mct "Brigita y Monika probablemente sean peores bloqueadoras porque son más bajas y mejores golpeando."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:326
 translate spanish b1c04ss05_336e92ca:
@@ -457,10 +457,10 @@ translate spanish b1c04ss05_a0188ee1:
     mct "No puedo dejar que tome el impulso para golpear esa pelota sobre la red."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:354
-translate spanish b1c04ss05_1cc98599:
+translate spanish b1c04ss05_53fe6813:
 
-    # "You block Brigitta's hits, keeping the ball on her side of the net."
-    "Bloqueas los golpes de Brigitta, manteniendo el balón en su lado de la red."
+    # "You block Brigita's hits, keeping the ball on her side of the net."
+    "Bloqueas los golpes de Brigita, manteniendo el balón en su lado de la red."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:358
 translate spanish b1c04ss05_927d8260:
@@ -499,10 +499,10 @@ translate spanish b1c04ss05_502f6694:
     ir "Ese fue un pensamiento estratégico, apuntar a Simón de esa manera."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:384
-translate spanish b1c04ss05_34e5779c:
+translate spanish b1c04ss05_94d6f4ef:
 
-    # oa "And then blocking Brigitta! That was a great move."
-    oa "¡Y luego bloqueando a Brigitta! Ese fue un gran movimiento."
+    # oa "And then blocking Brigita! That was a great move."
+    oa "¡Y luego bloqueando a Brigita! Ese fue un gran movimiento."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:387
 translate spanish b1c04ss05_37970446:
@@ -535,16 +535,16 @@ translate spanish b1c04ss05_f15d3358:
     mct "Pero al hacerlo, han expuesto las fortalezas y debilidades de su equipo una vez más."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:404
-translate spanish b1c04ss05_111f4844:
+translate spanish b1c04ss05_b38ed074:
 
-    # mct "Brigitta's arrogant and wants to be in the middle of the action, while covering Simon's weaknesses."
-    mct "Brigitta es arrogante y quiere estar en medio de la acción, mientras cubre las debilidades de Simón."
+    # mct "Brigita's arrogant and wants to be in the middle of the action, while covering Simon's weaknesses."
+    mct "Brigita es arrogante y quiere estar en medio de la acción, mientras cubre las debilidades de Simón."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:405
-translate spanish b1c04ss05_42b56423:
+translate spanish b1c04ss05_194479e6:
 
-    # mct "The last match told me that Brigitta is good at long range hits, but not short range ones. Brigitta's shortcoming is her temper."
-    mct "El último partido me dijo que Brigitta es buena en los golpes de largo alcance, pero no en los de corto alcance. El defecto de Brigitta es su temperamento."
+    # mct "The last match told me that Brigita is good at long range hits, but not short range ones. Brigita's shortcoming is her temper."
+    mct "El último partido me dijo que Brigita es buena en los golpes de largo alcance, pero no en los de corto alcance. El defecto de Brigita es su temperamento."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:408
 translate spanish b1c04ss05_ad506938:
@@ -553,16 +553,16 @@ translate spanish b1c04ss05_ad506938:
     mct "Apuesto a que Monika es mejor en golpes de corto alcance."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:409
-translate spanish b1c04ss05_d253c906:
+translate spanish b1c04ss05_ad1f9d20:
 
-    # mct "When all on the same team. Monika and Brigitta are a formidable pairing. That's probably why they chose to be on the same side in this game."
-    mct "Cuando todas están en el mismo equipo. Monika y Brigitta forman una pareja formidable. Probablemente por eso eligieron estar en el mismo bando en este partido."
+    # mct "When all on the same team. Monika and Brigita are a formidable pairing. That's probably why they chose to be on the same side in this game."
+    mct "Cuando todas están en el mismo equipo. Monika y Brigita forman una pareja formidable. Probablemente por eso eligieron estar en el mismo bando en este partido."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:410
-translate spanish b1c04ss05_b216285a:
+translate spanish b1c04ss05_91cdb564:
 
-    # mct "But when separated like this, Brigitta's pride and Simon's weakness fractures the smaller team."
-    mct "Pero cuando se separan así, el orgullo de Brigitta y la debilidad de Simon fracturan al equipo."
+    # mct "But when separated like this, Brigita's pride and Simon's weakness fractures the smaller team."
+    mct "Pero cuando se separan así, el orgullo de Brigita y la debilidad de Simón fracturan al equipo."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:413
 translate spanish b1c04ss05_d791f613:
@@ -583,10 +583,10 @@ translate spanish b1c04ss05_ae84cab3:
     mct "Iona se ha quedado atrás la mayor parte de este juego. Apuesto a que es mejor en golpes de largo alcance. Oleysa parece capaz, pero a veces un poco inestable sobre sus pies cuando está cerca de la red. No pudo pasar la pelota por encima de los bloqueos de Simón."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:417
-translate spanish b1c04ss05_ca1edca9:
+translate spanish b1c04ss05_d688a565:
 
-    # mct "Brigitta's hoping to use Oleysa's weaknesses to her advantage."
-    mct "Brigitta espera usar las debilidades de Oleysa a su favor."
+    # mct "Brigita's hoping to use Oleysa's weaknesses to her advantage."
+    mct "Brigita espera usar las debilidades de Oleysa a su favor."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:437
 translate spanish b1c04ss05_f60830c4:
@@ -631,22 +631,22 @@ translate spanish b1c04ss05_acc43a7e:
     mct "Bueno, mierda, Oleysa e Iona parecen manejarse bien."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:459
-translate spanish b1c04ss05_2f9ee061:
+translate spanish b1c04ss05_ab87ac5e:
 
-    # mct "Brigitta's weakness is close-range. I have to block her hits while she's at the front."
-    mct "La debilidad de Brigitta es a corta distancia. Tengo que bloquear sus golpes mientras ella está al frente."
+    # mct "Brigita's weakness is close-range. I have to block her hits while she's at the front."
+    mct "La debilidad de Brigita es a corta distancia. Tengo que bloquear sus golpes mientras ella está al frente."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:464
-translate spanish b1c04ss05_b0f9aaca:
+translate spanish b1c04ss05_6863094c:
 
-    # "Brigitta tries to hit the ball over the net, but you're prepared. You block her hit. The ball goes toward Simon."
-    "Brigitta intenta pasar el balón por encima de la red, pero estás preparado. Bloqueas su golpe. La pelota va hacia Simón."
+    # "Brigita tries to hit the ball over the net, but you're prepared. You block her hit. The ball goes toward Simon."
+    "Brigita intenta pasar el balón por encima de la red, pero estás preparado. Bloqueas su golpe. La pelota va hacia Simón."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:468
-translate spanish b1c04ss05_a204d897:
+translate spanish b1c04ss05_eaa1d6bc:
 
-    # "Simon catches the ball and tries to pop it toward Brigitta, but his hit is clumsy and weak. The ball doesn't have enough power behind its momentum."
-    "Simon atrapa la pelota e intenta lanzarla hacia Brigitta, pero su golpe es torpe y débil. La pelota no tiene suficiente poder detrás de su impulso."
+    # "Simon catches the ball and tries to pop it toward Brigita, but his hit is clumsy and weak. The ball doesn't have enough power behind its momentum."
+    "Simon atrapa la pelota e intenta lanzarla hacia Brigita, pero su golpe es torpe y débil. La pelota no tiene suficiente poder detrás de su impulso."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:469
 translate spanish b1c04ss05_0800d1bd:
@@ -661,22 +661,22 @@ translate spanish b1c04ss05_c19601f4:
     "Oleysa da un paso adelante y le devuelve el balón a Simón. Simón lo bloquea."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:477
-translate spanish b1c04ss05_49b942b2:
+translate spanish b1c04ss05_83e124cf:
 
-    # "You catch the ball from Simon's block and hit it toward Brigitta, knowing her weakness is short-range."
-    "Atrapas el balón del bloqueo de Simón y la golpeas hacia Brigitta, sabiendo que su punto débil es el juego a corta distancia."
+    # "You catch the ball from Simon's block and hit it toward Brigita, knowing her weakness is short-range."
+    "Atrapas el balón del bloqueo de Simón y la golpeas hacia Brigita, sabiendo que su punto débil es el juego a corta distancia."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:481
-translate spanish b1c04ss05_1d279bf8:
+translate spanish b1c04ss05_3e1d99b9:
 
-    # "Brigitta scowls at you. She pops the ball backward, to Monika."
-    "Brigitta te frunce el ceño. Ella lanza la pelota hacia atrás, a Monika."
+    # "Brigita scowls at you. She pops the ball backward, to Monika."
+    "Brigita te frunce el ceño. Ella lanza la pelota hacia atrás, a Monika."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:482
-translate spanish b1c04ss05_3140a5e0:
+translate spanish b1c04ss05_3bdedbfb:
 
-    # "Brigitta knows she can't get the ball over you."
-    "Brigitta sabe que no te puede pasar el balón."
+    # "Brigita knows she can't get the ball over you."
+    "Brigita sabe que no te puede pasar el balón."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:486
 translate spanish b1c04ss05_6071d265:
@@ -697,10 +697,10 @@ translate spanish b1c04ss05_6b2ba2cc:
     "Iona se lanza de cabeza hacia la pelota, deslizándose hasta el suelo. Ella salva la pelota y se la pasa a Oleysa, quien la golpea hacia ti."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:495
-translate spanish b1c04ss05_cb5ead79:
+translate spanish b1c04ss05_f2fd32b8:
 
-    # mct "Think fast, think fast! Simon's an excellent blocker, targeting him won't help...but Brigitta is sure to be tired at this point. She has lower stamina in short-range matches."
-    mct "¡Piensa rápido, piensa rápido! Simón es un excelente bloqueador, apuntarle no ayudará... pero Brigitta seguro que está cansada a estas alturas. Ella tiene menos resistencia en encuentros a corta distancia."
+    # mct "Think fast, think fast! Simon's an excellent blocker, targeting him won't help...but Brigita is sure to be tired at this point. She has lower stamina in short-range matches."
+    mct "¡Piensa rápido, piensa rápido! Simón es un excelente bloqueador, apuntarle no ayudará... pero Brigita seguro que está cansada a estas alturas. Ella tiene menos resistencia en encuentros a corta distancia."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:507
 translate spanish b1c04ss05_a8234732:
@@ -733,10 +733,10 @@ translate spanish b1c04ss05_0fafc7db:
     "Oleysa e Iona muestran su habilidad juntas, trabajando con las fortalezas de cada una para vencer al otro equipo."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:548
-translate spanish b1c04ss05_be92fdeb:
+translate spanish b1c04ss05_19ff7712:
 
-    # "Brigitta's team makes mistakes. Their communication is more disjointed, and their dynamic unbalanced.{w} This makes it easy to exploit their weaknesses."
-    "El equipo de Brigitta comete errores. Su comunicación es más inconexa y su dinámica desequilibrada. {w} Esto facilita la explotación de sus debilidades."
+    # "Brigita's team makes mistakes. Their communication is more disjointed, and their dynamic unbalanced.{w} This makes it easy to exploit their weaknesses."
+    "El equipo de Brigita comete errores. Su comunicación es más inconexa y su dinámica desequilibrada. {w} Esto facilita la explotación de sus debilidades."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:557
 translate spanish b1c04ss05_dd3d9cb9:
@@ -799,10 +799,10 @@ translate spanish b1c04ss05_253157b7:
     mc "Y creo que eres buena en golpes de corto alcance, pero bloquear es más difícil para ti."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:591
-translate spanish b1c04ss05_0b166b36:
+translate spanish b1c04ss05_9734ec12:
 
-    # mc "I'm good at blocking and hitting from anywhere, but Brigitta's got a better hit than me—when she has the mindset for it."
-    mc "Soy bueno bloqueando y golpeando desde cualquier lugar, pero Brigitta tiene mejores golpes que yo, cuando tiene la mentalidad para hacerlo."
+    # mc "I'm good at blocking and hitting from anywhere, but Brigita's got a better hit than me—when she has the mindset for it."
+    mc "Soy bueno bloqueando y golpeando desde cualquier lugar, pero Brigita tiene mejores golpes que yo, cuando tiene la mentalidad para hacerlo."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:592
 translate spanish b1c04ss05_571039e3:
@@ -811,10 +811,10 @@ translate spanish b1c04ss05_571039e3:
     mc "Creo que tiene un temperamento que podemos usar a nuestro favor. Lo más probable es que me apunte a mí a continuación porque sabe que podría atraparme con su mejor golpe."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:594
-translate spanish b1c04ss05_1c344cbe:
+translate spanish b1c04ss05_8a4336c7:
 
-    # mc "Oleysa, you hit the ball from Brigitta's first serve to Iona. Then Iona can hit the ball back over the net from there."
-    mc "Oleysa, tú golpeas la pelota desde el primer saque de Brigitta hacia Iona. Entonces Iona puede volver a golpear la pelota sobre la red desde allí."
+    # mc "Oleysa, you hit the ball from Brigita's first serve to Iona. Then Iona can hit the ball back over the net from there."
+    mc "Oleysa, tú golpeas la pelota desde el primer saque de Brigita hacia Iona. Entonces Iona puede volver a golpear la pelota sobre la red desde allí."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:595
 translate spanish b1c04ss05_520eb8d3:
@@ -847,10 +847,10 @@ translate spanish b1c04ss05_11f571e2:
     "Tus compañeras de equipo están sincronizadas contigo, luchando por la victoria del equipo, no para ellas mismas."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:606
-translate spanish b1c04ss05_bd8a58b2:
+translate spanish b1c04ss05_a15a2000:
 
-    # "You smile to yourself, knowing this game is in your favor, that your strategy is superior. Because Brigitta is fighting for herself, not her team."
-    "Te sonríes sabiendo que este juego está a tu favor, que tu estrategia es superior. Porque Brigitta lucha por sí misma, no por su equipo."
+    # "You smile to yourself, knowing this game is in your favor, that your strategy is superior. Because Brigita is fighting for herself, not her team."
+    "Te sonríes sabiendo que este juego está a tu favor, que tu estrategia es superior. Porque Brigita lucha por sí misma, no por su equipo."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:635
 translate spanish b1c04ss05_e5388323:
@@ -901,10 +901,10 @@ translate spanish b1c04ss05_1ca183fd:
     "Ella golpea la pelota hacia ti y tú la pasas por encima de la cabeza de Simón."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:662
-translate spanish b1c04ss05_efec6d4f:
+translate spanish b1c04ss05_b5383a63:
 
-    # "But Brigitta is prepared this time."
-    "Pero Brigitta está preparada esta vez."
+    # "But Brigita is prepared this time."
+    "Pero Brigita está preparada esta vez."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:663
 translate spanish b1c04ss05_ca99a2df:
@@ -925,10 +925,10 @@ translate spanish b1c04ss05_1b0e8245:
     "Antes de que puedas lanzarte para bloquearlo, Monika golpea la pelota por encima de la red, hacia Oleysa."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:676
-translate spanish b1c04ss05_e260f5fb:
+translate spanish b1c04ss05_8cecab57:
 
-    # "Before Brigitta even has time to get up, Oleysa pops the ball back to you."
-    "Antes de que Brigitta tenga tiempo de levantarse, Oleysa te devuelve el balón."
+    # "Before Brigita even has time to get up, Oleysa pops the ball back to you."
+    "Antes de que Brigita tenga tiempo de levantarse, Oleysa te devuelve el balón."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:678
 translate spanish b1c04ss05_2a40c702:
@@ -937,10 +937,10 @@ translate spanish b1c04ss05_2a40c702:
     "Lo golpeaste en la cabeza de Simón."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:682
-translate spanish b1c04ss05_7a6db818:
+translate spanish b1c04ss05_4edf08bd:
 
-    # "The ball lands behind Brigitta, kicking sand onto her legs.{w} You win."
-    "La pelota cae detrás de Brigitta, pateando arena en sus piernas. {w} Tú ganas."
+    # "The ball lands behind Brigita, kicking sand onto her legs.{w} You win."
+    "La pelota cae detrás de Brigita, pateando arena en sus piernas. {w} Tú ganas."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:685
 translate spanish b1c04ss05_bddefb4a:
@@ -1015,10 +1015,10 @@ translate spanish b1c04ss05_a258be76:
     oa "¡Demonios si!"
 
 # game/code/Book-1/Chapter-4s/s05.rpy:735
-translate spanish b1c04ss05_ff599270:
+translate spanish b1c04ss05_bb3706a6:
 
-    # mc "Is Brigitta okay?"
-    mc "¿Brigitta está bien?"
+    # mc "Is Brigita okay?"
+    mc "¿Brigita está bien?"
 
 # game/code/Book-1/Chapter-4s/s05.rpy:738
 translate spanish b1c04ss05_c679ecbd:
@@ -1061,3 +1061,4 @@ translate spanish strings:
     # game/code/Book-1/Chapter-4s/s05.rpy:9
     old "Couple hours later"
     new "Un par de horas después"
+
