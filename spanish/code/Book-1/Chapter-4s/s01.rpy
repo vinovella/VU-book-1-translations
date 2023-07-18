@@ -220,7 +220,7 @@ translate spanish b01c04ss01m01_f608fda1:
 translate spanish b01c04ss01m01_c6050117:
 
     # ir "Shit. I mean... Klara and I were pretty good friends. I miss her."
-    ir "Mierda. Quiero decir... Klara y yo éramos muy buenas amigas. la extraño"
+    ir "Mierda. Quiero decir... Klara y yo éramos muy buenas amigas. la extraño."
 
 # game/code/Book-1/Chapter-4s/s01.rpy:113
 translate spanish b01c04ss01m01_1747486c:
