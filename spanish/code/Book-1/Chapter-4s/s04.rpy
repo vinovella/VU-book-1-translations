@@ -22,7 +22,7 @@ translate spanish b1c04ss04_c764b975:
 translate spanish b1c04ss04_c658784a:
 
     # mc "Uh, thanks."
-    mc "Uh,gracias"
+    mc "Uh,gracias."
 
 # game/code/Book-1/Chapter-4s/s04.rpy:42
 translate spanish b1c04ss04_fcbd5ff5:
@@ -244,7 +244,7 @@ translate spanish b1c04ss04m01_01d93121:
 translate spanish b1c04ss04m01_a1229eea:
 
     # mc "I'm gonna cum."
-    mc "me voy a correr"
+    mc "me voy a correr."
 
 # game/code/Book-1/Chapter-4s/s04.rpy:219
 translate spanish b1c04ss04m01_9a985c6b:
