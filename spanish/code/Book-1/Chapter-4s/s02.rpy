@@ -88,7 +88,7 @@ translate spanish b1c04ss02_b2297244:
 translate spanish b1c04ss02_e42d2ab0:
 
     # sm "Ms. Abel, this is [mcname]. He's new."
-    sm "Sra. Abel, este es [mcname]. Él es nuevo"
+    sm "Sra. Abel, este es [mcname]. Él es nuevo."
 
 # game/code/Book-1/Chapter-4s/s02.rpy:73
 translate spanish b1c04ss02_2c6180c8:
