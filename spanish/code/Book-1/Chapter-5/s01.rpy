@@ -10,7 +10,7 @@ translate spanish b1c05s01_3d8d5b43:
 translate spanish b1c05s01_370047a7:
 
     # mc "*whispers* Josie, hey Josie!"
-    mc "*susurra* Josie, hola Josie!"
+    mc "*susurra* ¡Josie, hola Josie!"
 
 # game/code/Book-1/Chapter-5/s01.rpy:12
 translate spanish b1c05s01_aa50b0c7:
@@ -46,7 +46,7 @@ translate spanish b1c05s01_3e10c105:
 translate spanish b1c05s01_4e6dde36:
 
     # "The sound of a large splash coming from the pool room alerts you to someone's presence."
-    "El sonido de un gran chapoteo procedente de la sala de billar te alerta de la presencia de alguien."
+    "El sonido de un gran chapoteo procedente de la sala de la piscina te alerta de la presencia de alguien."
 
 # game/code/Book-1/Chapter-5/s01.rpy:25
 translate spanish b1c05s01_583c6707:
@@ -58,13 +58,13 @@ translate spanish b1c05s01_583c6707:
 translate spanish b1c05s01_3175a874:
 
     # "You jog into the pool room. Josie's at the bottom of the pool."
-    "Corres hacia la sala de billar. Josie está en el fondo de la piscina."
+    "Corres hacia la sala de la piscina. Josie está en el fondo de la piscina."
 
 # game/code/Book-1/Chapter-5/s01.rpy:32
 translate spanish b1c05s01_5a51b3b3:
 
     # mc "Josie?!"
-    mc "¡¿Josefina?!"
+    mc "¡¿Josie?!"
 
 # game/code/Book-1/Chapter-5/s01.rpy:33
 translate spanish b1c05s01_b83e8991:
@@ -94,19 +94,19 @@ translate spanish b1c05s01_b41d73a4:
 translate spanish b1c05s01_ff323e47:
 
     # "Josie's eyes are closed, and her mouth hangs slightly open, releasing bubbles of precious air."
-    "Los ojos de Josie están cerrados y su boca cuelga ligeramente abierta, liberando burbujas de aire precioso."
+    "Josie tiene los ojos cerrados y la boca ligeramente abierta, dejando escapar burbujas de aire."
 
 # game/code/Book-1/Chapter-5/s01.rpy:56
 translate spanish b1c05s01_8ffd7771:
 
     # "Your hand grips her arm, pulling her closer. Then you swim upward with her in tow, her limp figure behind you."
-    "Tu mano agarra su brazo, acercándola más. Luego nadas hacia arriba con ella a cuestas, su figura inerte detrás de ti."
+    "Tu mano agarra su brazo y tiras de ella para acercarla. Luego nadas hacia arriba con ella a cuestas, con su figura inerte detrás de ti."
 
 # game/code/Book-1/Chapter-5/s01.rpy:60
 translate spanish b1c05s01_e41b170a:
 
     # mc "Josie! Josie, wake up!"
-    mc "¡Josefina! ¡Josie, despierta!"
+    mc "¡Josie! ¡Josie, despierta!"
 
 # game/code/Book-1/Chapter-5/s01.rpy:62
 translate spanish b1c05s01_e807ea21:
@@ -166,13 +166,13 @@ translate spanish b1c05s01_0a801920:
 translate spanish b1c05s01_2d3f558e:
 
     # jh "God I—I was sleepwalking. I didn't know what I was doing."
-    jh "Dios, yo… yo estaba sonámbulo. No sabía lo que estaba haciendo."
+    jh "Dios, era sonámbula. No sabía lo que estaba haciendo."
 
 # game/code/Book-1/Chapter-5/s01.rpy:99
 translate spanish b1c05s01_20a9d038:
 
     # mc "You sleepwalk?"
-    mc "¿Eres sonámbulo?"
+    mc "¿Eres sonámbula?"
 
 # game/code/Book-1/Chapter-5/s01.rpy:100
 translate spanish b1c05s01_d72072d8:
@@ -202,7 +202,7 @@ translate spanish b1c05s01_310fc74d:
 translate spanish b1c05s01_b845dcab:
 
     # mc "I uh, didn't think to grab a shirt or towel—"
-    mc "Yo, uh, no pensé en agarrar una camisa o una toalla—"
+    mc "No pensé en tomar una camisa o una toalla..."
 
 # game/code/Book-1/Chapter-5/s01.rpy:121
 translate spanish b1c05s01_308cc34c:
@@ -214,7 +214,7 @@ translate spanish b1c05s01_308cc34c:
 translate spanish b1c05s01_981d949c:
 
     # mc "I won't. I promise."
-    mc "no lo haré Prometo."
+    mc "No lo haré. Lo prometo."
 
 # game/code/Book-1/Chapter-5/s01.rpy:126
 translate spanish b1c05s01_9a41a33d:
@@ -268,7 +268,7 @@ translate spanish b1c05s01_e146a587:
 translate spanish b1c05s01_8589869d:
 
     # "Josie looks at you and flushes a deeper shade of pink, but this time for a very different reason."
-    "Josie te mira y se sonroja con un tono más profundo de rosa, pero esta vez por una razón muy diferente."
+    "Josie te mira y se sonroja aún más, pero esta vez por un motivo muy distinto."
 
 # game/code/Book-1/Chapter-5/s01.rpy:153
 translate spanish b1c05s01_e0f92545:
@@ -292,7 +292,7 @@ translate spanish b1c05s01_d22c4035:
 translate spanish b1c05s01_9a62f591:
 
     # mc "I only woke up because of a nightmare. I'm not sure I would've woken up otherwise, considering how quiet you were."
-    mc "Sólo me desperté a causa de una pesadilla. No estoy seguro de haberme despertado de otra manera, considerando lo callado que estabas."
+    mc "Sólo me desperté a causa de una pesadilla. No estoy seguro de haberme despertado de otra manera, considerando lo callada que estabas."
 
 # game/code/Book-1/Chapter-5/s01.rpy:161
 translate spanish b1c05s01_f278576c:
@@ -316,7 +316,7 @@ translate spanish b1c05s01_5bda3bf8:
 translate spanish b1c05s01_bf8c553b:
 
     # "You close the door behind you, unintentionally loud."
-    "Cierras la puerta detrás de ti, sin querer fuerte."
+    "Cierra la puerta tras de sí, haciendo ruido sin querer."
 
 # game/code/Book-1/Chapter-5/s01.rpy:178
 translate spanish b1c05s01_74576b16:
@@ -358,13 +358,13 @@ translate spanish b1c05s01_70d1fe39:
 translate spanish b1c05s01_287b8776:
 
     # lw "Are you naked?!"
-    lw "¿Estás desnudo?"
+    lw "¿Estás desnuda?"
 
 # game/code/Book-1/Chapter-5/s01.rpy:197
 translate spanish b1c05s01_bb67dee3:
 
     # jh "Shh! Not so loud! And...yes. I'm both naked and okay."
-    jh "¡Shh! ¡No tan alto! Y si. Estoy desnudo y bien."
+    jh "¡Shh! ¡No tan alto! Y si. Estoy desnuda y bien."
 
 # game/code/Book-1/Chapter-5/s01.rpy:200
 translate spanish b1c05s01_942f0c14:
@@ -388,7 +388,7 @@ translate spanish b1c05s01_60b2df38:
 translate spanish b1c05s01_f9e3e205:
 
     # jh "Okay, I'm dressed."
-    jh "Está bien, estoy vestido."
+    jh "Está bien, estoy vestida."
 
 # game/code/Book-1/Chapter-5/s01.rpy:213
 translate spanish b1c05s01_142f701a:
@@ -406,13 +406,13 @@ translate spanish b1c05s01_d304b03b:
 translate spanish b1c05s01_60d31ae0:
 
     # lw "Are you sure you're okay? Why didn't you wake up? I'm so glad you're safe."
-    lw "¿Estás seguro de que estás bien? ¿Por qué no te despertaste? Estoy tan contenta de que estés a salvo."
+    lw "¿Estás segura de que estás bien? ¿Por qué no te despertaste? Estoy tan contenta de que estés a salvo."
 
 # game/code/Book-1/Chapter-5/s01.rpy:220
 translate spanish b1c05s01_4204212f:
 
     # jh "Shh, I'm fine, I promise. Just exhausted."
-    jh "Shh, estoy bien, lo prometo. Simplemente exhausto."
+    jh "Shh, estoy bien, lo prometo. Sólo estoy cansada."
 
 # game/code/Book-1/Chapter-5/s01.rpy:222
 translate spanish b1c05s01_fd3b8c8d:
@@ -424,7 +424,7 @@ translate spanish b1c05s01_fd3b8c8d:
 translate spanish b1c05s01_31750650:
 
     # lw "You should lay down. I'll stay up to make sure you sleep soundly for the rest of the night."
-    lw "Deberías acostarte. Me quedaré despierto para asegurarme de que duermas profundamente el resto de la noche."
+    lw "Deberías acostarte. Me quedaré despierta para asegurarme de que duermas profundamente el resto de la noche."
 
 # game/code/Book-1/Chapter-5/s01.rpy:229
 translate spanish b1c05s01_09cabafd:
@@ -448,7 +448,7 @@ translate spanish b1c05s01_19b4ce0b:
 translate spanish b1c05s01_2404a41c:
 
     # lw "I'm sure. Thanks though, [mcname]."
-    lw "Estoy seguro de que. Sin embargo, gracias, [mcname]."
+    lw "Estoy segura. Gracias de todos modos, [mcname]."
 
 # game/code/Book-1/Chapter-5/s01.rpy:239
 translate spanish b1c05s01_eb3b48b3:
@@ -460,13 +460,13 @@ translate spanish b1c05s01_eb3b48b3:
 translate spanish b1c05s01_32a38d51:
 
     # mc "Alright, as long as you're sure."
-    mc "Está bien, mientras estés seguro."
+    mc "Está bien, mientras estés segura."
 
 # game/code/Book-1/Chapter-5/s01.rpy:245
 translate spanish b1c05s01_67f22f44:
 
     # jh "I'm exhausted, but please don't stress yourself because of me, Lara. I'm fine."
-    jh "Estoy exhausto, pero por favor no te estreses por mi culpa, Lara. Estoy bien."
+    jh "Estoy muy cansada, pero por favor no te estreses por mi culpa, Lara. Yo estoy bien."
 
 # game/code/Book-1/Chapter-5/s01.rpy:248
 translate spanish b1c05s01_88eeb788:
@@ -556,7 +556,7 @@ translate spanish b1c05s01_177d3eb2:
 translate spanish b1c05s01_3de65d98:
 
     # lw "Making sure she doesn't wander off."
-    lw "Asegurándose de que no se aleje."
+    lw "Asegurándome de que no se aleje."
 
 # game/code/Book-1/Chapter-5/s01.rpy:283
 translate spanish b1c05s01_4b357e61:
@@ -580,7 +580,7 @@ translate spanish b1c05s01_6c577701:
 translate spanish b1c05s01_db68602b:
 
     # lw "Yeah, I'm fine."
-    lw "Si estoy bien."
+    lw "Si, estoy bien."
 
 # game/code/Book-1/Chapter-5/s01.rpy:297
 translate spanish b1c05s01_4ca36515:
