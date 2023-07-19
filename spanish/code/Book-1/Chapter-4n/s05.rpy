@@ -18,12 +18,6 @@ translate spanish b1c04ns05_6eb70d73:
     # mc "Are you the star of the play or something?"
     mc "¿Eres la estrella de la obra o algo así?"
 
-# game/code/Book-1/Chapter-4n/s05.rpy:29
-translate spanish b1c04ns05_8f65b6d2:
-
-    # dk "No. My character is in a flashback. An important piece of history, but not the main character."
-    dk "No. Mi personaje está en un flashback. Una pieza importante de la historia, pero no el personaje principal."
-
 # game/code/Book-1/Chapter-4n/s05.rpy:32
 translate spanish b1c04ns05_39a956a5:
 
@@ -686,3 +680,10 @@ translate spanish strings:
     old "No way"
     new "De ninguna manera"
 
+# TODO: Translation updated at 2023-07-19 13:11
+
+# game/code/Book-1/Chapter-4n/s05.rpy:29
+translate spanish b1c04ns05_bdf8cf21:
+
+    # dk "Yes. The play is about the birth of my character."
+    dk "Yes. The play is about the birth of my character."

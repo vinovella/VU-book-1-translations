@@ -192,12 +192,6 @@ translate portuguese b1c01s02_9c83e1d0:
     # sm "Right? I was fascinated when I found this out!"
     sm "Né? Eu fiquei fascinada quando descobri!"
 
-# game/code/Book-1/Chapter-1/s02.rpy:98
-translate portuguese b1c01s02_9de18f50:
-
-    # sm "15 years after the war ended, she inherited her family's property, including their large mansion."
-    sm "15 anos depois do final da guerra, ela herdou a propriedade da família, incluindo sua grande mansão."
-
 # game/code/Book-1/Chapter-1/s02.rpy:100
 translate portuguese b1c01s02_99c7193b:
 
@@ -325,9 +319,9 @@ translate portuguese b1c01s02_302ed4a7:
     dm "Olá. Eu estava pensando quando iria te ver. Preciso que você passe no meu escritório depois."
 
 # game/code/Book-1/Chapter-1/s02.rpy:160
-translate portuguese b1c01s02_dd064284:
+translate portuguese b1c01s02_f6735cb1:
 
-    # dm "I've been assigned as your faculty advisor"
+    # dm "I've been assigned as your faculty advisor."
     dm "Me colocaram como sua orientadora."
 
 # game/code/Book-1/Chapter-1/s02.rpy:162
@@ -643,9 +637,9 @@ translate portuguese b1c01s02m01_96619ca0:
     mc "Ela não devia ter falado assim com você."
 
 # game/code/Book-1/Chapter-1/s02.rpy:389
-translate portuguese b1c01s02m01_5e729c75:
+translate portuguese b1c01s02m01_e5dc686b:
 
-    # sm "I think she's just...tempermental."
+    # sm "I think she's just...temperamental."
     sm "Acho que ela está... temperamental."
 
 # game/code/Book-1/Chapter-1/s02.rpy:391
@@ -688,3 +682,10 @@ translate portuguese strings:
     old "Do nothing"
     new "Fazer nada"
 
+# TODO: Translation updated at 2023-07-19 13:19
+
+# game/code/Book-1/Chapter-1/s02.rpy:98
+translate portuguese b1c01s02_b49ee5e6:
+
+    # sm "Despite being disowned, she managed to inherit her family's property and their large mansion 15 years after the war ended."
+    sm ""

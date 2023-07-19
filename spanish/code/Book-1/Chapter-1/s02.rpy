@@ -192,12 +192,6 @@ translate spanish b1c01s02_9c83e1d0:
     # sm "Right? I was fascinated when I found this out!"
     sm "¿Verdad? ¡Me quedé fascinada cuando lo descubrí!"
 
-# game/code/Book-1/Chapter-1/s02.rpy:98
-translate spanish b1c01s02_9de18f50:
-
-    # sm "15 years after the war ended, she inherited her family's property, including their large mansion."
-    sm "15 años después de que terminó la guerra, heredó la propiedad de su familia, incluida su gran mansión."
-
 # game/code/Book-1/Chapter-1/s02.rpy:100
 translate spanish b1c01s02_99c7193b:
 
@@ -325,9 +319,9 @@ translate spanish b1c01s02_302ed4a7:
     dm "Hola. Me preguntaba cuándo te vería por aquí. Necesito que pases por mi oficina más tarde."
 
 # game/code/Book-1/Chapter-1/s02.rpy:160
-translate spanish b1c01s02_dd064284:
+translate spanish b1c01s02_f6735cb1:
 
-    # dm "I've been assigned as your faculty advisor"
+    # dm "I've been assigned as your faculty advisor."
     dm "Me han asignado como su asesora de la facultad."
 
 # game/code/Book-1/Chapter-1/s02.rpy:162
@@ -643,9 +637,9 @@ translate spanish b1c01s02m01_96619ca0:
     mc "Ella no debería haberte hablado así."
 
 # game/code/Book-1/Chapter-1/s02.rpy:389
-translate spanish b1c01s02m01_5e729c75:
+translate spanish b1c01s02m01_e5dc686b:
 
-    # sm "I think she's just...tempermental."
+    # sm "I think she's just...temperamental."
     sm "Creo que solo es... temperamental."
 
 # game/code/Book-1/Chapter-1/s02.rpy:391
@@ -688,3 +682,10 @@ translate spanish strings:
     old "Do nothing"
     new "No hacer nada"
 
+# TODO: Translation updated at 2023-07-19 13:11
+
+# game/code/Book-1/Chapter-1/s02.rpy:98
+translate spanish b1c01s02_b49ee5e6:
+
+    # sm "Despite being disowned, she managed to inherit her family's property and their large mansion 15 years after the war ended."
+    sm "Despite being disowned, she managed to inherit her family's property and their large mansion 15 years after the war ended."

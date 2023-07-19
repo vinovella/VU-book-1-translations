@@ -181,9 +181,9 @@ translate spanish b1c03s04_98df5cd0:
     mct "Esto será interesante."
 
 # game/code/Book-1/Chapter-3/s04.rpy:117
-translate spanish b1c03s04_0a76aeb2:
+translate spanish b1c03s04_4731abff:
 
-    # ij "It's a good place to meet the people around campus, and make new connections"
+    # ij "It's a good place to meet the people around campus, and make new connections."
     ij "Es un buen lugar para conocer gente alrededor del campus y hacer nuevas conexiones."
 
 # game/code/Book-1/Chapter-3/s04.rpy:119
@@ -275,4 +275,3 @@ translate spanish b1c03s04_06d2d210:
 
     # ij "Bye, [mcname]!"
     ij "¡Adiós, [mcname]!"
-

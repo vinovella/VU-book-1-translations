@@ -19,9 +19,9 @@ translate portuguese b1c04ns05_6eb70d73:
     mc ""
 
 # game/code/Book-1/Chapter-4n/s05.rpy:29
-translate portuguese b1c04ns05_8f65b6d2:
+translate portuguese b1c04ns05_bdf8cf21:
 
-    # dk "No. My character is in a flashback. An important piece of history, but not the main character."
+    # dk "Yes. The play is about the birth of my character."
     dk ""
 
 # game/code/Book-1/Chapter-4n/s05.rpy:32
@@ -685,4 +685,3 @@ translate portuguese strings:
     # game/code/Book-1/Chapter-4n/s05.rpy:295
     old "No way"
     new ""
-

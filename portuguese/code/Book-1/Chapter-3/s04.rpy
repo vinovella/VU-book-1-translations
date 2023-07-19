@@ -181,9 +181,9 @@ translate portuguese b1c03s04_98df5cd0:
     mct "Isso vai ser interessante."
 
 # game/code/Book-1/Chapter-3/s04.rpy:117
-translate portuguese b1c03s04_0a76aeb2:
+translate portuguese b1c03s04_4731abff:
 
-    # ij "It's a good place to meet the people around campus, and make new connections"
+    # ij "It's a good place to meet the people around campus, and make new connections."
     ij "É um bom lugar para conhecer o pessoal do campus e forjar novas conexões."
 
 # game/code/Book-1/Chapter-3/s04.rpy:119
@@ -275,4 +275,3 @@ translate portuguese b1c03s04_06d2d210:
 
     # ij "Bye, [mcname]!"
     ij "Tchau, [mcname]!"
-

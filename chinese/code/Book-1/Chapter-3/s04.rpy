@@ -181,9 +181,9 @@ translate chinese b1c03s04_98df5cd0:
     mct "看来会很有趣。"
 
 # game/code/Book-1/Chapter-3/s04.rpy:117
-translate chinese b1c03s04_0a76aeb2:
+translate chinese b1c03s04_4731abff:
 
-    # ij "It's a good place to meet the people around campus, and make new connections"
+    # ij "It's a good place to meet the people around campus, and make new connections."
     ij "这是一个结识校园周围的人、结交新朋友的好地方。"
 
 # game/code/Book-1/Chapter-3/s04.rpy:119
@@ -275,4 +275,3 @@ translate chinese b1c03s04_06d2d210:
 
     # ij "Bye, [mcname]!"
     ij "再见，[mcname]！"
-

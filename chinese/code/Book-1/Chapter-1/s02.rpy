@@ -192,12 +192,6 @@ translate chinese b1c01s02_9c83e1d0:
     # sm "Right? I was fascinated when I found this out!"
     sm "对吧？当初我发现这一点时，也很着迷！"
 
-# game/code/Book-1/Chapter-1/s02.rpy:98
-translate chinese b1c01s02_9de18f50:
-
-    # sm "15 years after the war ended, she inherited her family's property, including their large mansion."
-    sm "战争结束15年后，她继承了家族财产，包括他们的大豪宅。"
-
 # game/code/Book-1/Chapter-1/s02.rpy:100
 translate chinese b1c01s02_99c7193b:
 
@@ -325,9 +319,9 @@ translate chinese b1c01s02_302ed4a7:
     dm "你好。我还在想什么时候能见到你呢。我需要你待会儿到我办公室来。"
 
 # game/code/Book-1/Chapter-1/s02.rpy:160
-translate chinese b1c01s02_dd064284:
+translate chinese b1c01s02_f6735cb1:
 
-    # dm "I've been assigned as your faculty advisor"
+    # dm "I've been assigned as your faculty advisor."
     dm "我被指定为你的导师。"
 
 # game/code/Book-1/Chapter-1/s02.rpy:162
@@ -643,9 +637,9 @@ translate chinese b1c01s02m01_96619ca0:
     mc "她不应该那样跟你说话。"
 
 # game/code/Book-1/Chapter-1/s02.rpy:389
-translate chinese b1c01s02m01_5e729c75:
+translate chinese b1c01s02m01_e5dc686b:
 
-    # sm "I think she's just...tempermental."
+    # sm "I think she's just...temperamental."
     sm "我觉得她只是...喜怒无常。"
 
 # game/code/Book-1/Chapter-1/s02.rpy:391
@@ -688,3 +682,10 @@ translate chinese strings:
     old "Do nothing"
     new "什么都不做"
 
+# TODO: Translation updated at 2023-07-19 13:16
+
+# game/code/Book-1/Chapter-1/s02.rpy:98
+translate chinese b1c01s02_b49ee5e6:
+
+    # sm "Despite being disowned, she managed to inherit her family's property and their large mansion 15 years after the war ended."
+    sm "Despite being disowned, she managed to inherit her family's property and their large mansion 15 years after the war ended."

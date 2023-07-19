@@ -18,12 +18,6 @@ translate chinese b1c04ns05_6eb70d73:
     # mc "Are you the star of the play or something?"
     mc "你是这出戏的主角还是什么？"
 
-# game/code/Book-1/Chapter-4n/s05.rpy:29
-translate chinese b1c04ns05_8f65b6d2:
-
-    # dk "No. My character is in a flashback. An important piece of history, but not the main character."
-    dk "不是。我的角色出现在倒叙中。历史的重要组成部分，但不是主角。"
-
 # game/code/Book-1/Chapter-4n/s05.rpy:32
 translate chinese b1c04ns05_39a956a5:
 
@@ -686,3 +680,10 @@ translate chinese strings:
     old "No way"
     new "不可能"
 
+# TODO: Translation updated at 2023-07-19 13:16
+
+# game/code/Book-1/Chapter-4n/s05.rpy:29
+translate chinese b1c04ns05_bdf8cf21:
+
+    # dk "Yes. The play is about the birth of my character."
+    dk "Yes. The play is about the birth of my character."
