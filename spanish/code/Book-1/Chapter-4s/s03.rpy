@@ -244,7 +244,7 @@ translate spanish b1c04ss03_bcb803f7:
 translate spanish b1c04ss03_da4a0a7b:
 
     # mc "I didn't notice."
-    mc "No me di cuenta"
+    mc "No me di cuenta."
 
 # game/code/Book-1/Chapter-4s/s03.rpy:176
 translate spanish b1c04ss03_6da5954f:
