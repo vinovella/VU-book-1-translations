@@ -244,7 +244,7 @@ translate spanish b1c04ns01_7bb718ae:
 translate spanish b1c04ns01_2394d0ea:
 
     # dk "If you {i}must{/i} know, I'm the lead in a prestigious theater play. I need it for my performance."
-    dk "Si {i}debes{/i} saberlo, soy la protagonista de una prestigiosa obra de teatro. Lo necesito para mi actuación."
+    dk "Si {i}debes{/i} saberlo, soy la protagonista de una prestigiosa obra de teatro. La necesito para mi actuación."
 
 # game/code/Book-1/Chapter-4n/s01.rpy:191
 translate spanish b1c04ns01_8ae9b3bd:
