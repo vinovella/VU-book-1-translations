@@ -16,7 +16,7 @@ translate spanish b1c04s04_b64a69ec:
 translate spanish b1c04s04_56777004:
 
     # mct "Or maybe that's the fault in my thinking..."
-    mct "O tal vez esa es la falla en mi forma de pensar..."
+    mct "O tal vez ese sea un error en mi forma de pensar..."
 
 # game/code/Book-1/Chapter-4/s04.rpy:34
 translate spanish b1c04s04_cd2e94bc:
@@ -34,7 +34,7 @@ translate spanish b1c04s04_4ec79fe0:
 translate spanish b1c04s04_fed2362a:
 
     # mct "Maybe they're missing because of completely different reasons."
-    mct "Tal vez están desaparecidos por razones completamente diferentes."
+    mct "Tal vez están desaparecidas por razones completamente diferentes."
 
 # game/code/Book-1/Chapter-4/s04.rpy:40
 translate spanish b1c04s04_0da6bfcf:
@@ -70,13 +70,13 @@ translate spanish b1c04s04_507fbe87:
 translate spanish b1c04s04_2109ec15:
 
     # mct "It was just a dream... I'm sure Phoebe's fine. I'll see her tomorrow."
-    mct "Solo fue un sueño... Estoy seguro de que Phoebe está bien. La veré mañana."
+    mct "Fue sólo un sueño... Estoy seguro de que Phoebe está bien. La veré mañana."
 
 # game/code/Book-1/Chapter-4/s04.rpy:89
 translate spanish b1c04s04_bb2ea1ae:
 
     # "You hear rustling and look up."
-    "Oyes un crujido y miras hacia arriba."
+    "Oyes crujidos y echas un vistazo."
 
 # game/code/Book-1/Chapter-4/s04.rpy:93
 translate spanish b1c04s04_55fb9442:
@@ -88,7 +88,7 @@ translate spanish b1c04s04_55fb9442:
 translate spanish b1c04s04_85fa5e0c:
 
     # "You wave to her in greeting but remain silent so as to not wake Lara."
-    "La saludas con la mano a modo de saludo, pero permaneces en silencio para no despertar a Lara."
+    "La saludas con la mano, pero guardas silencio para no despertar a Lara."
 
 # game/code/Book-1/Chapter-4/s04.rpy:102
 translate spanish b1c04s04_3e727481:
@@ -124,7 +124,7 @@ translate spanish b1c04s04_1cc0e165:
 translate spanish b1c04s04_e8eba8cc:
 
     # "Josie walks to the front door with confidence. She opens it and walks out."
-    "Josie camina hacia la puerta principal con confianza. Ella lo abre y sale."
+    "Josie camina hacia la puerta principal con confianza. Ella la abre y sale."
 
 # game/code/Book-1/Chapter-4/s04.rpy:115
 translate spanish b1c04s04_c6f06d91:
