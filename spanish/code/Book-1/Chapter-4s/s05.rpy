@@ -363,7 +363,7 @@ translate spanish b1c04ss05_a8d94adc:
 # game/code/Book-1/Chapter-4s/s05.rpy:305
 translate spanish b1c04ss05_fc8b536c:
 
-    # oa "Hey, are you aright? Brigitta can hit harder than a 'roided out rhino."
+    # oa "Hey, are you alright? Brigitta can hit harder than a 'roided out rhino."
     oa "Oye, ¿estás bien? Brigitta puede golpear más fuerte que un rinoceronte desarmado."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:307
@@ -412,7 +412,7 @@ translate spanish b1c04ss05_491ff86d:
 translate spanish b1c04ss05_e77c7d4b:
 
     # mct "I bet Simon is the weakest hitter. Slower reaction speeds... Which is why he excels as a blocker."
-    mct "Apuesto a que Simon es el bateador más débil. Velocidades de reacción más lentas... Por eso sobresale como bloqueador."
+    mct "Apuesto a que Simón es el golpeador más débil. Velocidades de reacción más lentas... Por eso sobresale como bloqueador."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:323
 translate spanish b1c04ss05_8e64e6fc:
