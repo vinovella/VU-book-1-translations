@@ -886,5 +886,5 @@ translate spanish strings:
 
     # game/code/Book-1/Chapter-5/s02.rpy:4
     old "The next morning\nPhoebe's Apartment"
-    new "A la mañana siguiente, \nen el departamento de Phoebe"
+    new "A la mañana siguiente,\nen el departamento de Phoebe"
 
