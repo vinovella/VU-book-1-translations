@@ -888,3 +888,11 @@ translate spanish strings:
     old "The next morning\nPhoebe's Apartment"
     new "A la mañana siguiente\nApartamento de Phoebe"
 
+# TODO: Translation updated at 2023-07-19 11:40
+
+translate spanish strings:
+
+    # game/code/Book-1/Chapter-5/s02.rpy:392
+    old "Investigation Board Reorganized"
+    new "Investigation Board Reorganized"
+

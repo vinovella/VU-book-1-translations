@@ -888,3 +888,11 @@ translate portuguese strings:
     old "The next morning\nPhoebe's Apartment"
     new ""
 
+# TODO: Translation updated at 2023-07-19 11:37
+
+translate portuguese strings:
+
+    # game/code/Book-1/Chapter-5/s02.rpy:392
+    old "Investigation Board Reorganized"
+    new ""
+
