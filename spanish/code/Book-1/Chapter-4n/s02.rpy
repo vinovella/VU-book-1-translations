@@ -40,7 +40,7 @@ translate spanish b1c04ns02_bf872f5b:
 translate spanish b1c04ns02_aa3fd575:
 
     # mct "Perfect. Looks like Nia's the only open seat anyway."
-    mct "Perfecto. Parece que el único asiento disponible es el de está al lado de Nia."
+    mct "Perfecto. Parece que el único asiento disponible es el que está al lado de Nia."
 
 # game/code/Book-1/Chapter-4n/s02.rpy:44
 translate spanish b1c04ns02_a0627656:
@@ -136,7 +136,7 @@ translate spanish b1c04ns02_36197466:
 translate spanish b1c04ns02_8783097d:
 
     # rh "You have an hour to perform your tests and write down your results."
-    rh "Tienen una hora para realizar tus pruebas y anotar tus resultados."
+    rh "Tienen una hora para realizar sus pruebas y anotar tus resultados."
 
 # game/code/Book-1/Chapter-4n/s02.rpy:90
 translate spanish b1c04ns02_b11935a2:
