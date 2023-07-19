@@ -40,7 +40,7 @@ translate spanish b1c04m3_8c26cb31:
 translate spanish b1c04m3_80f2b63e:
 
     # jh "Oh! I'm sorry. We shouldn't have been so loud."
-    jh "¡Oh! Lo lamento. No deberíamos haber sido tan ruidosos."
+    jh "¡Oh! Lo lamento. No deberíamos haber sido tan ruidosas."
 
 # game/code/Book-1/Chapter-4/s03.rpy:44
 translate spanish b1c04m3_39b06eda:
@@ -94,7 +94,7 @@ translate spanish b1c04m3_5e0626ef:
 translate spanish b1c04m3_08333da7:
 
     # mc "Are you guys going rock climbing?"
-    mc "¿Van a escalar rocas?"
+    mc "¿Van a ir a escalar?"
 
 # game/code/Book-1/Chapter-4/s03.rpy:71
 translate spanish b1c04m3_3ae90c90:
@@ -106,13 +106,13 @@ translate spanish b1c04m3_3ae90c90:
 translate spanish b1c04m3_1fdf1583:
 
     # mc "How did you guys start rock climbing, anyway? If I didn't know Lara was capable of spitefully defying God, I wouldn't believe it."
-    mc "De todas formas, ¿cómo empezasteis a escalar rocas? Si no supiera que Lara es capaz de desafiar a Dios con rencor, no lo creería."
+    mc "¿Cómo empezaron a escalar? Si no supiera que Lara es capaz de desafiar rencorosamente a Dios, no me lo creería."
 
 # game/code/Book-1/Chapter-4/s03.rpy:77
 translate spanish b1c04m3_e8a16714:
 
     # lw "I've been blind since birth, but my family didn't want that to hold me back, so they took me hiking, and eventually taught me to rock climb."
-    lw "He sido ciego desde que nací, pero mi familia no quería que eso me detuviera, así que me llevaron a caminar y finalmente me enseñaron a escalar rocas."
+    lw "He sido ciega desde que nací, pero mi familia no quería que eso me detuviera, así que me llevaron a caminar y finalmente me enseñaron a hacer escalada."
 
 # game/code/Book-1/Chapter-4/s03.rpy:80
 translate spanish b1c04m3_6b32c52b:
@@ -130,19 +130,19 @@ translate spanish b1c04m3_65ed6c6b:
 translate spanish b1c04m3_3241f6b4:
 
     # jh "I was half convinced Lara was just pulling a massive prank on me or something. I mean, a blind person {i}rock climbing{/i} does sound crazy."
-    jh "Estaba medio convencido de que Lara me estaba gastando una gran broma o algo así. Quiero decir, una persona ciega {i}escalada en roca{/i} parece una locura."
+    jh "Estaba medio convencida de que Lara me estaba gastando una gran broma o algo así. Quiero decir, una persona ciega {i}escalando rocas{/i} parece una locura."
 
 # game/code/Book-1/Chapter-4/s03.rpy:87
 translate spanish b1c04m3_fb7e5eb2:
 
     # jh "But she proved me wrong."
-    jh "Pero ella me demostró que estaba equivocado."
+    jh "Pero ella me demostró que estaba equivocada."
 
 # game/code/Book-1/Chapter-4/s03.rpy:90
 translate spanish b1c04m3_5f290c33:
 
     # lw "What? I missed it! And I knew you'd enjoy it when you got into the swing of it."
-    lw "¿Qué? ¡Me lo perdi! Y sabía que lo disfrutarías cuando te metieras en el ritmo."
+    lw "¿Qué? ¡Me lo perdi! Y sabía que lo disfrutarías cuando te cogieras el ritmo."
 
 # game/code/Book-1/Chapter-4/s03.rpy:93
 translate spanish b1c04m3_58b17888:
@@ -190,5 +190,5 @@ translate spanish b1c04m3_df16b3ae:
 translate spanish b1c04m3_dd002af2:
 
     # lw "C'mon Josie! Focus."
-    lw "¡Vamos Josie! Enfocar."
+    lw "¡Vamos Josie! Concéntrate."
 
