@@ -10,13 +10,13 @@ translate spanish b1c04m2_d7c4922c:
 translate spanish b1c04m2_b928fe36:
 
     # mot "Feeling her cum on my cock multiple times always awakened something primal within me. I love that feeling."
-    mot "Sentir su semen en mi polla varias veces siempre despertaba algo primitivo dentro de mí. Me encanta ese sentimiento."
+    mot "Sentir su corrida en mi polla varias veces siempre despertaba algo primitivo dentro de mí. Me encanta ese sentimiento."
 
 # game/code/Book-1/Chapter-4/s02.rpy:53
 translate spanish b1c04m2_004ac6d2:
 
     # mot "She's such a naughty girl, taking it deep when we could get caught at any moment."
-    mot "Es una chica tan traviesa, que se lo mete hasta el fondo cuando nos pueden pillar en cualquier momento."
+    mot "Es una chica tan traviesa, llevándoselo hasta el fondo cuando nos pueden pillar en cualquier momento."
 
 # game/code/Book-1/Chapter-4/s02.rpy:63
 translate spanish b1c04m2_03ebbb29:
@@ -28,7 +28,7 @@ translate spanish b1c04m2_03ebbb29:
 translate spanish b1c04m2_d1ad1f0f:
 
     # mot "God, can't they take a hint? Why are they knocking so loud?"
-    mot "Dios, ¿no pueden captar una indirecta? ¿Por qué tocan tan fuerte?"
+    mot "Dios, ¿no pueden captar una indirecta? ¿Por qué golpean tan fuerte?"
 
 # game/code/Book-1/Chapter-4/s02.rpy:82
 translate spanish b1c04m2_5fd3841e:
@@ -58,7 +58,7 @@ translate spanish b1c04m2_c71c7639:
 translate spanish b1c04m2_a53b0dc9:
 
     # jh "Lara! Hold still. I don't want to mess up your eyeliner."
-    jh "Lara! Quédate quieto. No quiero estropear tu delineador."
+    jh "Lara! Quédate quieta. No quiero estropear tu delineador."
 
 # game/code/Book-1/Chapter-4/s02.rpy:127
 translate spanish b1c04m2_de2beb3a:
@@ -70,7 +70,7 @@ translate spanish b1c04m2_de2beb3a:
 translate spanish b1c04m2_1dc9ef03:
 
     # jh "Of course I am."
-    jh "Claro que soy yo."
+    jh "Por supuesto que sí."
 
 # game/code/Book-1/Chapter-4/s02.rpy:133
 translate spanish b1c04m2_3f2b6878:
@@ -82,7 +82,7 @@ translate spanish b1c04m2_3f2b6878:
 translate spanish b1c04m2_1558a469:
 
     # mc "Well, on the plus side, if Josie does make you look fucked up, you won't know."
-    mc "Bueno, en el lado positivo, si Josie te hace ver jodido, no lo sabrás."
+    mc "Bueno, el lado positivo es que si Josie te hace quedar mal, no lo sabrás."
 
 # game/code/Book-1/Chapter-4/s02.rpy:142
 translate spanish b1c04m2_2fdcb549:
@@ -118,7 +118,7 @@ translate spanish b1c04m2_5484c269:
 translate spanish b1c04m2_eff6e177:
 
     # jh "What?! It's not insensitive if I make jokes. I'm Lara's best friend."
-    jh "¡¿Qué?! No es insensible si hago bromas. Soy el mejor amigo de Lara."
+    jh "¡¿Qué?! No es insensible si yo hago bromas. Soy la mejor amiga de Lara."
 
 # game/code/Book-1/Chapter-4/s02.rpy:163
 translate spanish b1c04m2_7521479e:
@@ -130,7 +130,7 @@ translate spanish b1c04m2_7521479e:
 translate spanish b1c04m2_edb69d49:
 
     # mc "What are you getting all dressed up for, anyway?"
-    mc "¿Para qué te estás disfrazando, de todos modos?"
+    mc "¿Para qué te estás arreglando?"
 
 # game/code/Book-1/Chapter-4/s02.rpy:167
 translate spanish b1c04m2_46112f7d:
@@ -154,7 +154,7 @@ translate spanish b1c04m2_44b4b0c6:
 translate spanish b1c04m2_02499597:
 
     # mc "I hope you guys have fun!"
-    mc "Espero que se diviertan, chicos!"
+    mc "Espero que se diviertan, chicas!"
 
 # game/code/Book-1/Chapter-4/s02.rpy:179
 translate spanish b1c04m2_44b4b0c6_1:
