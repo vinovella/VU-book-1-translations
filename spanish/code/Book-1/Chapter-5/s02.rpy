@@ -10,7 +10,7 @@ translate spanish b1c05s02_876bda80:
 translate spanish b1c05s02_5456b87c:
 
     # pm "Matthew! You're earlier than I expected."
-    pm "¡Mateo! Llegas antes de lo que esperaba."
+    pm "¡Matthew! Llegas antes de lo que esperaba."
 
 # game/code/Book-1/Chapter-5/s02.rpy:17
 translate spanish b1c05s02_4321f21e:
@@ -64,7 +64,7 @@ translate spanish b1c05s02_d399586c:
 translate spanish b1c05s02_8a13720d:
 
     # pm "I'm a woman who likes things done a certain way, rookie. Now look sharp and follow me to the basement."
-    pm "Soy una mujer a la que le gusta que las cosas se hagan de cierta manera, novata. Ahora mira bien y sígueme hasta el sótano."
+    pm "Soy una mujer a la que le gustan las cosas hechas de cierta manera, novato. Ahora pon buena cara y sígueme al sótano."
 
 # game/code/Book-1/Chapter-5/s02.rpy:44
 translate spanish b1c05s02_baec6c44:
@@ -88,7 +88,7 @@ translate spanish b1c05s02_4194fe5c:
 translate spanish b1c05s02_4637cf13:
 
     # pm "Damn straight."
-    pm "Ahí le has dado."
+    pm "Claro que sí."
 
 # game/code/Book-1/Chapter-5/s02.rpy:63
 translate spanish b1c05s02_71d26b31:
@@ -166,13 +166,13 @@ translate spanish b1c05s02_83194aad:
 translate spanish b1c05s02_68c39d01:
 
     # mc "I'm not sure about them yet. Haven't spent enough time with them to have gained much."
-    mc "No estoy seguro acerca de ellos todavía. No he pasado suficiente tiempo con ellos para haber ganado mucho."
+    mc "Aún no estoy seguro de ellos. No he pasado suficiente tiempo con ellos para obtener mayores conclusiones."
 
 # game/code/Book-1/Chapter-5/s02.rpy:119
 translate spanish b1c05s02_4120f267:
 
     # pm "What about this one? Anything on her?"
-    pm "¿Qué hay de este? ¿Algo sobre ella?"
+    pm "¿Qué hay de ésta? ¿Algo sobre ella?"
 
 # game/code/Book-1/Chapter-5/s02.rpy:122
 translate spanish b1c05s02_30990710:
@@ -184,7 +184,7 @@ translate spanish b1c05s02_30990710:
 translate spanish b1c05s02_7f3c32d3:
 
     # pm "What's next?"
-    pm "¿Que sigue?"
+    pm "¿Qué sigue?"
 
 # game/code/Book-1/Chapter-5/s02.rpy:128
 translate spanish b1c05s02_1e290d7f:
@@ -232,7 +232,7 @@ translate spanish b1c05s02_d60f1be7:
 translate spanish b1c05s02_e33ca87e:
 
     # mc "I know that Fleur, Nirmala and Lilith are friends with Zemfira. I think they're tied to this group."
-    mc "Sé que Fleur, Nirmala y Lilith son amigas de Zemfira. Creo que están atados a este grupo."
+    mc "Sé que Fleur, Nirmala y Lilith son amigas de Zemfira. Creo que están vinculadas a este grupo."
 
 # game/code/Book-1/Chapter-5/s02.rpy:146
 translate spanish b1c05s02_5d3606bc:
@@ -274,7 +274,7 @@ translate spanish b1c05s02_876a0f0c:
 translate spanish b1c05s02_6dce2dbe:
 
     # mc "Fleur's chatterbox. She's good friends with Zemfira, and very agreeable."
-    mc "El parlanchín de Fleur. Es buena amiga de Zemfira y muy agradable."
+    mc "La parlanchina de Fleur. Es buena amiga de Zemfira y muy agradable."
 
 # game/code/Book-1/Chapter-5/s02.rpy:167
 translate spanish b1c05s02_2a077756:
@@ -298,7 +298,7 @@ translate spanish b1c05s02_58de23cb:
 translate spanish b1c05s02_c51b9e6e:
 
     # mc "I don't believe so. Again, no one's free of suspicion."
-    mc "no lo creo Una vez más, nadie está libre de sospechas."
+    mc "No lo creo. Una vez más, nadie está libre de sospechas."
 
 # game/code/Book-1/Chapter-5/s02.rpy:180
 translate spanish b1c05s02_18f4124c:
@@ -310,7 +310,7 @@ translate spanish b1c05s02_18f4124c:
 translate spanish b1c05s02_976e0ac3:
 
     # mc "Josie knows my real name, but she mostly keeps to herself and Lara."
-    mc "Josie sabe mi verdadero nombre, pero se mantiene mayormente reservada para ella y Lara."
+    mc "Josie sabe mi verdadero nombre, pero es muy reservada con Lara."
 
 # game/code/Book-1/Chapter-5/s02.rpy:185
 translate spanish b1c05s02_6ab2b4bd:
@@ -322,7 +322,7 @@ translate spanish b1c05s02_6ab2b4bd:
 translate spanish b1c05s02_aa2c4e2b:
 
     # pm "A self-help group? Like some sort of spiritual community?"
-    pm "¿Un grupo de autoayuda? ¿Como una especie de comunidad espiritual?"
+    pm "¿Un grupo de autoayuda? ¿Una especie de comunidad espiritual?"
 
 # game/code/Book-1/Chapter-5/s02.rpy:191
 translate spanish b1c05s02_76a9b0b0:
@@ -376,7 +376,7 @@ translate spanish b1c05s02_bfc715ea:
 translate spanish b1c05s02_1c467550:
 
     # pm "Interesting. I suggest you talk more to Sally. See if you can get a read on the group through her eyes. But the artist may also be a very valuable source of info..."
-    pm "Interesante. Te sugiero que hables más con Sally. Vea si puede obtener una lectura del grupo a través de sus ojos. Pero el artista también puede ser una fuente de información muy valiosa..."
+    pm "Interesante. Te sugiero que hables más con Sally. A ver si puedes obtener una lectura del grupo a través de sus ojos. Pero el artista también puede ser una valiosa fuente de información..."
 
 # game/code/Book-1/Chapter-5/s02.rpy:214
 translate spanish b1c05s02_f55f0e46:
@@ -406,7 +406,7 @@ translate spanish b1c05s02_932e106e:
 translate spanish b1c05s02_17cb8e86:
 
     # mc "This guy is a higher-ranking member of the spiritual community. Nia looks up to him."
-    mc "Este tipo es un miembro de alto rango de la comunidad espiritual. Nia lo mira."
+    mc "Este tipo es un miembro de alto rango de la comunidad espiritual. Nia lo admira.."
 
 # game/code/Book-1/Chapter-5/s02.rpy:227
 translate spanish b1c05s02_3605bbc8:
@@ -424,7 +424,7 @@ translate spanish b1c05s02_c53e8935:
 translate spanish b1c05s02_5628c5f5:
 
     # mc "But I haven't spent much time around them yet. Both are in the group, but Nia seems closer to Eliina."
-    mc "Pero no he pasado mucho tiempo con ellos todavía. Ambos están en el grupo, pero Nia parece más cercana a Eliina."
+    mc "Pero no he pasado mucho tiempo con ellas todavía. Ambas están en el grupo, pero Nia parece más cercana a Eliina."
 
 # game/code/Book-1/Chapter-5/s02.rpy:236
 translate spanish b1c05s02_b9a0b337:
@@ -508,7 +508,7 @@ translate spanish b1c05s02_4d5609f6:
 translate spanish b1c05s02_c0867b85:
 
     # pm "In something that's illegal or at lead shady?"
-    pm "¿En algo que es ilegal o en la sombra de plomo?"
+    pm "¿En algo ilegal o al menos turbio?"
 
 # game/code/Book-1/Chapter-5/s02.rpy:283
 translate spanish b1c05s02_f800bed0:
@@ -598,7 +598,7 @@ translate spanish b1c05s02_6959b521:
 translate spanish b1c05s02_12a3c9d0:
 
     # mc "There's more to the Winner's Club, but I haven't had a chance to investigate their fraternity further."
-    mc "Hay más en el Club de ganadores, pero no he tenido la oportunidad de investigar más a fondo su fraternidad."
+    mc "Hay más en el Club de Ganadores, pero no he tenido la oportunidad de investigar más a fondo su fraternidad."
 
 # game/code/Book-1/Chapter-5/s02.rpy:336
 translate spanish b1c05s02_2e961bcf:
@@ -616,7 +616,7 @@ translate spanish b1c05s02_0ab7b9af:
 translate spanish b1c05s02_83c9a756:
 
     # pm "How close is {i}close{/i}?"
-    pm "¿Qué tan cerca está {i}cerrar{/i}?"
+    pm "¿Qué tan {i}cerca{/i} estás?"
 
 # game/code/Book-1/Chapter-5/s02.rpy:345
 translate spanish b1c05s02_40b625fb:
@@ -652,7 +652,7 @@ translate spanish b1c05s02_6837caef:
 translate spanish b1c05s02_93d07afa:
 
     # pm "I'm...I was being jealous. I'm sorry, Matthew."
-    pm "Estoy... estaba celoso. Lo siento, Mateo."
+    pm "Estoy... estaba celosa. Lo siento, Matthew."
 
 # game/code/Book-1/Chapter-5/s02.rpy:359
 translate spanish b1c05s02_1848b9ae:
@@ -670,7 +670,7 @@ translate spanish b1c05s02_e0bcf701:
 translate spanish b1c05s02_8a7a7cd0:
 
     # mc "I want to find those girls, and bring their families closure either by finding them, or finding the truth."
-    mc "Quiero encontrar a esas chicas y cerrar sus familias, ya sea encontrándolas o encontrando la verdad."
+    mc "Quiero encontrar a esas chicas, y dar un cierre a sus familias, ya sea encontrándolas o descubriendo la verdad."
 
 # game/code/Book-1/Chapter-5/s02.rpy:366
 translate spanish b1c05s02_3ecb4e80:
@@ -766,13 +766,13 @@ translate spanish b1c05s02_b9497439:
 translate spanish b1c05s02_b6362f5b:
 
     # pm "I can play the part, too. Make him seem like a real asshole."
-    pm "Puedo hacer el papel, también. Haz que parezca un verdadero gilipollas."
+    pm "Puedo hacer el papel, también. Hacer que parezca un verdadero imbécil."
 
 # game/code/Book-1/Chapter-5/s02.rpy:411
 translate spanish b1c05s02_9951e21a:
 
     # mc "I'm not sure she'll buy that."
-    mc "No estoy seguro de que ella compre eso."
+    mc "No estoy seguro de que ella se lo crea."
 
 # game/code/Book-1/Chapter-5/s02.rpy:414
 translate spanish b1c05s02_8d9b0541:
@@ -880,11 +880,11 @@ translate spanish b1c05s02_dcca5a80:
 translate spanish b1c05s02_40595152:
 
     # mc "Sure thing. I'll talk to you later Phoebe."
-    mc "Cosa segura. Hablaré contigo luego Phoebe."
+    mc "Por supuesto. Hablamos luego, Phoebe."
 
 translate spanish strings:
 
     # game/code/Book-1/Chapter-5/s02.rpy:4
     old "The next morning\nPhoebe's Apartment"
-    new "A la mañana siguiente\nApartamento de Phoebe"
+    new "A la mañana siguiente, \nen el departamento de Phoebe"
 
