@@ -178,7 +178,7 @@ translate portuguese b1c01s02_14e39623:
 translate portuguese b1c01s02_1dde57d8:
 
     # sm "Her family disowned her because of her disobedience to their oppressive views."
-    sm "Sua família a desonrou por causa de sua obediência às ideias opressivas deles."
+    sm "Sua família a deserdou por causa de sua obediência às ideias opressivas deles."
 
 # game/code/Book-1/Chapter-1/s02.rpy:94
 translate portuguese b1c01s02_14cac3d2:
@@ -688,4 +688,4 @@ translate portuguese strings:
 translate portuguese b1c01s02_b49ee5e6:
 
     # sm "Despite being disowned, she managed to inherit her family's property and their large mansion 15 years after the war ended."
-    sm ""
+    sm "Apesar de ter sido deserdada, ela conseguiu herdar a propriedade da família e a grande mansão 15 anos depois do fim da guerra."
