@@ -91,7 +91,7 @@ translate portuguese strings:
     new "Simon chamou ela para sair várias vezes."
 
     # game/code/data/ib_descriptions.rpy:2
-    old "Does not have enough power within the Winner's Group to allow outsiders to come in or choose new candidates."
+    old "Does not have enough power within the Winner's Club to allow outsiders to come in or choose new candidates."
     new "Não tem influência o suficiente no Clube dos Vencedores para permitir que estranhos entrem ou escolher novos candidatos."
 
     # game/code/data/ib_descriptions.rpy:2
@@ -523,11 +523,11 @@ translate portuguese strings:
     new "Parece estar me vigiando."
 
     # game/code/data/ib_descriptions.rpy:2
-    old "Was previously involved with the Winners Club."
+    old "Was previously involved with the Winner's Club."
     new "Tem envolvimento prévio com o Clube dos Vencedores."
 
     # game/code/data/ib_descriptions.rpy:2
-    old "Stalks the Winners Club."
+    old "Stalks the Winner's Club."
     new "Fica seguindo o Clube dos Vencedores."
 
     # game/code/data/ib_descriptions.rpy:2
@@ -559,7 +559,7 @@ translate portuguese strings:
     new "Ela quer Isa ou quer machucar ela?"
 
     # game/code/data/ib_descriptions.rpy:2
-    old "Got kicked from the Winner's Group because she crashed an important party that Isa threw."
+    old "Got kicked from the Winner's Club because she crashed an important party that Isa threw."
     new "Foi chutada do Clube dos Vencedores porque entrou sem permissão numa festa que a Isa soltou."
 
     # game/code/data/ib_descriptions.rpy:2
@@ -591,7 +591,7 @@ translate portuguese strings:
     new "Guia ou gerencia uma comunidade remota que faz parte do grupo de autoajuda."
 
     # game/code/data/ib_descriptions.rpy:2
-    old "Member of The Winner's Group."
+    old "Member of The Winner's Club."
     new "Faz parte do Clube dos Vencedores."
 
     # game/code/data/ib_descriptions.rpy:2
@@ -603,7 +603,7 @@ translate portuguese strings:
     new "Isa era parcialmente responsável pela festa na qual as garotas desapareceram."
 
     # game/code/data/ib_descriptions.rpy:2
-    old "Isa orchestrated Sam's exile from the Winner's Group."
+    old "Isa orchestrated Sam's exile from the Winner's Club."
     new "Isa orquestrou a saída de Sam do Clube dos Vencedores."
 
     # game/code/data/ib_descriptions.rpy:2

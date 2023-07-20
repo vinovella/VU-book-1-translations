@@ -439,7 +439,7 @@ translate spanish strings:
     new "Espía del equipo rival"
 
     # game/code/data/ib_characters.rpy:48
-    old "Winners Club"
+    old "Winner's Club"
     new "Club de Ganadores"
 
     # game/code/data/ib_characters.rpy:48

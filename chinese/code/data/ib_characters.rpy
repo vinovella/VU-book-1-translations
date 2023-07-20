@@ -455,8 +455,8 @@ translate chinese strings:
     new "Rival Team Spy"
 
     # game/code/data/ib_characters.rpy:48
-    old "Winners Club"
-    new "Winners Club"
+    old "Winner's Club"
+    new "Winner's Club"
 
     # game/code/data/ib_characters.rpy:48
     old "The Syndicate"

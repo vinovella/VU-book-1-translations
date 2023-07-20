@@ -91,8 +91,8 @@ translate spanish strings:
     new "Simon la ha invitado a salir varias veces."
 
     # game/code/data/ib_descriptions.rpy:2
-    old "Does not have enough power within the Winner's Group to allow outsiders to come in or choose new candidates."
-    new "No tiene suficiente poder dentro del Grupo de Ganadores para permitir que personas externas entren o elijan nuevos candidatos."
+    old "Does not have enough power within the Winner's Club to allow outsiders to come in or choose new candidates."
+    new "No tiene suficiente poder dentro del Club de Ganadores para permitir que personas externas entren o elijan nuevos candidatos."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Andrejz and Silvia used to date."
@@ -523,11 +523,11 @@ translate spanish strings:
     new "Parece estar espiándome."
 
     # game/code/data/ib_descriptions.rpy:2
-    old "Was previously involved with the Winners Club."
+    old "Was previously involved with the Winner's Club."
     new "Anteriormente estuvo involucrado con el Club de Ganadores."
 
     # game/code/data/ib_descriptions.rpy:2
-    old "Stalks the Winners Club."
+    old "Stalks the Winner's Club."
     new "Acecha el Club de Ganadores."
 
     # game/code/data/ib_descriptions.rpy:2
@@ -559,8 +559,8 @@ translate spanish strings:
     new "¿Quieres a Isa o quiere hacerle daño?"
 
     # game/code/data/ib_descriptions.rpy:2
-    old "Got kicked from the Winner's Group because she crashed an important party that Isa threw."
-    new "La echaron del Grupo de Ganadores porque se coló en una fiesta importante que organizó Isa."
+    old "Got kicked from the Winner's Club because she crashed an important party that Isa threw."
+    new "La echaron del Club de Ganadores porque se coló en una fiesta importante que organizó Isa."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Sam seems to have connections with the Rival CCC team."
@@ -591,8 +591,8 @@ translate spanish strings:
     new "Guía o administra una comunidad remota que forma parte del grupo de autoayuda."
 
     # game/code/data/ib_descriptions.rpy:2
-    old "Member of The Winner's Group."
-    new "Miembro del Grupo del Ganador."
+    old "Member of The Winner's Club."
+    new "Miembro del Club del Ganador."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Used to date Sam."
@@ -603,8 +603,8 @@ translate spanish strings:
     new "Isa fue en parte responsable de la fiesta en la que desaparecieron las chicas desaparecidas."
 
     # game/code/data/ib_descriptions.rpy:2
-    old "Isa orchestrated Sam's exile from the Winner's Group."
-    new "Isa orquestó el exilio de Sam del Grupo de Ganadores."
+    old "Isa orchestrated Sam's exile from the Winner's Club."
+    new "Isa orquestó el exilio de Sam del Club de Ganadores."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Caught spying on our practice."
@@ -629,4 +629,3 @@ translate spanish strings:
     # game/code/data/ib_descriptions.rpy:2
     old "Ronja is married. And also cheating on her husband with me."
     new "Ronja está casada. Y también engaña a su marido conmigo."
-
