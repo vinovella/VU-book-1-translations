@@ -214,7 +214,7 @@ translate chinese b1c06cs02_df9f15a8:
 translate chinese b1c06cs02_53e30bfa:
 
     # mc "I don't think it matters to me what the truth {i}is.{/i} It just matters to me that I know."
-    mc "我认为真相{i}是什么{/i}对我来说并不重要。知道这些对我来说很重要。
+    mc "我认为真相{i}是什么{/i}对我来说并不重要。知道这些对我来说很重要。"
 
 # game/code/Book-1/Chapter-6c/s02.rpy:122
 translate chinese b1c06cs02_41cb1676:
