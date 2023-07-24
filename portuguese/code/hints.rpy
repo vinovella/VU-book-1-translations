@@ -7,15 +7,15 @@ translate portuguese strings:
     new ""
 
     # game/code/hints.rpy:5
-    old "Silvia doesn't like MC badmouthing the team."
+    old "Silvia doesn't like [mcname] badmouthing the team."
     new ""
 
     # game/code/hints.rpy:5
-    old "MC cracks a joke, but it doesn't make Silvia feel better."
+    old "[mcname] cracks a joke, but it doesn't make Silvia feel better."
     new ""
 
     # game/code/hints.rpy:5
-    old "Silvia appreciates MC's honesty and vulnerability. You get +1 point for Silvia"
+    old "Silvia appreciates [mcname]'s honesty and vulnerability. You get +1 point for Silvia"
     new ""
 
     # game/code/hints.rpy:5
@@ -417,4 +417,3 @@ translate portuguese strings:
     # game/code/hints.rpy:5
     old "No hints available."
     new ""
-

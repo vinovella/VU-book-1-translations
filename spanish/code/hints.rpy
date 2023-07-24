@@ -7,16 +7,16 @@ translate spanish strings:
     new "Pierdes un punto con Iona"
 
     # game/code/hints.rpy:5
-    old "Silvia doesn't like MC badmouthing the team."
-    new "A Silvia no le gusta que MC hable mal del equipo."
+    old "Silvia doesn't like [mcname] badmouthing the team."
+    new "A Silvia no le gusta que [mcname] hable mal del equipo."
 
     # game/code/hints.rpy:5
-    old "MC cracks a joke, but it doesn't make Silvia feel better."
-    new "MC hace una broma, pero no hace que Silvia se sienta mejor."
+    old "[mcname] cracks a joke, but it doesn't make Silvia feel better."
+    new "[mcname] hace una broma, pero no hace que Silvia se sienta mejor."
 
     # game/code/hints.rpy:5
-    old "Silvia appreciates MC's honesty and vulnerability. You get +1 point for Silvia"
-    new "Silvia aprecia la honestidad y vulnerabilidad de MC. Obtienes +1 punto por Silvia"
+    old "Silvia appreciates [mcname]'s honesty and vulnerability. You get +1 point for Silvia"
+    new "Silvia aprecia la honestidad y vulnerabilidad de [mcname]. Obtienes +1 punto por Silvia"
 
     # game/code/hints.rpy:5
     old "You will go with Iona and have sex with her behind the tiki bar."
@@ -417,4 +417,3 @@ translate spanish strings:
     # game/code/hints.rpy:5
     old "No hints available."
     new "No hay pistas disponibles."
-

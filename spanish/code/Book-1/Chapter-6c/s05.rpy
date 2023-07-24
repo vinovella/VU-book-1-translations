@@ -213,8 +213,8 @@ translate spanish b1c06cs05_continue_2f29e9ad:
 # game/code/Book-1/Chapter-6c/s05.rpy:174
 translate spanish b1c06cs05_continue_8d9a8b98:
 
-    # "Delphia matches MC's smirk, and licks her lips before speaking."
-    "Delphia coincide con la sonrisa de MC y se lame los labios antes de hablar."
+    # "Delphia matches [mcname]'s smirk, and licks her lips before speaking."
+    "Delphia coincide con la sonrisa de [mcname] y se lame los labios antes de hablar."
 
 # game/code/Book-1/Chapter-6c/s05.rpy:176
 translate spanish b1c06cs05_continue_4e66a360:
@@ -545,4 +545,3 @@ translate spanish strings:
     # game/code/Book-1/Chapter-6c/s05.rpy:220
     old "Let her go"
     new "Déjala ir"
-

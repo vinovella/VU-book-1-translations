@@ -213,7 +213,7 @@ translate portuguese b1c06cs05_continue_2f29e9ad:
 # game/code/Book-1/Chapter-6c/s05.rpy:174
 translate portuguese b1c06cs05_continue_8d9a8b98:
 
-    # "Delphia matches MC's smirk, and licks her lips before speaking."
+    # "Delphia matches [mcname]'s smirk, and licks her lips before speaking."
     ""
 
 # game/code/Book-1/Chapter-6c/s05.rpy:176
@@ -545,4 +545,3 @@ translate portuguese strings:
     # game/code/Book-1/Chapter-6c/s05.rpy:220
     old "Let her go"
     new ""
-

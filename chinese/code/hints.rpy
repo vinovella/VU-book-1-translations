@@ -7,16 +7,16 @@ translate chinese strings:
     new "You lose a point with Iona"
 
     # game/code/hints.rpy:5
-    old "Silvia doesn't like MC badmouthing the team."
-    new "Silvia doesn't like MC badmouthing the team."
+    old "Silvia doesn't like [mcname] badmouthing the team."
+    new "Silvia doesn't like [mcname] badmouthing the team."
 
     # game/code/hints.rpy:5
-    old "MC cracks a joke, but it doesn't make Silvia feel better."
-    new "MC cracks a joke, but it doesn't make Silvia feel better."
+    old "[mcname] cracks a joke, but it doesn't make Silvia feel better."
+    new "[mcname] cracks a joke, but it doesn't make Silvia feel better."
 
     # game/code/hints.rpy:5
-    old "Silvia appreciates MC's honesty and vulnerability. You get +1 point for Silvia"
-    new "Silvia appreciates MC's honesty and vulnerability. You get +1 point for Silvia"
+    old "Silvia appreciates [mcname]'s honesty and vulnerability. You get +1 point for Silvia"
+    new "Silvia appreciates [mcname]'s honesty and vulnerability. You get +1 point for Silvia"
 
     # game/code/hints.rpy:5
     old "You will go with Iona and have sex with her behind the tiki bar."
@@ -421,4 +421,3 @@ translate chinese strings:
     # game/code/hints.rpy:5
     old "You calm her down."
     new "You calm her down."
-

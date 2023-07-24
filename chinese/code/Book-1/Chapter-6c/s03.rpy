@@ -436,7 +436,7 @@ translate chinese b1c06cs03_234a4045:
 translate chinese b1c06cs03_952b811f_1:
 
     # "Both" "*Laughing*"
-    "两人" *大笑*"
+    "两人" "*大笑*"
 
 # game/code/Book-1/Chapter-6c/s03.rpy:259
 translate chinese b1c06cs03_c211e58b:
