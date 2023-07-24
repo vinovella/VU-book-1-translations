@@ -211,7 +211,7 @@ translate chinese b1c06cs05_continue_2f29e9ad:
     mc "I've heard that a sharp tongue makes few friends."
 
 # game/code/Book-1/Chapter-6c/s05.rpy:174
-translate chinese b1c06cs05_continue_8d9a8b98:
+translate chinese b1c06cs05_continue_71529ea5:
 
     # "Delphia matches [mcname]'s smirk, and licks her lips before speaking."
     "Delphia matches [mcname]'s smirk, and licks her lips before speaking."

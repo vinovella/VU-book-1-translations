@@ -211,7 +211,7 @@ translate portuguese b1c06cs05_continue_2f29e9ad:
     mc ""
 
 # game/code/Book-1/Chapter-6c/s05.rpy:174
-translate portuguese b1c06cs05_continue_8d9a8b98:
+translate portuguese b1c06cs05_continue_71529ea5:
 
     # "Delphia matches [mcname]'s smirk, and licks her lips before speaking."
     ""
