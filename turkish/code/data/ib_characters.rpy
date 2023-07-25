@@ -36,7 +36,7 @@ translate turkish strings:
 
     # game/code/data/ib_characters.rpy:9
     old "Power"
-    new "Güç"
+    new "Power"
 
     # game/code/data/ib_characters.rpy:9
     old "Computer Science & Design"
@@ -96,7 +96,7 @@ translate turkish strings:
 
     # game/code/data/ib_characters.rpy:9
     old "Lowe"
-    new "Aşk"
+    new "Lowe"
 
     # game/code/data/ib_characters.rpy:9
     old "Sports Journalism"
@@ -172,7 +172,7 @@ translate turkish strings:
 
     # game/code/data/ib_characters.rpy:9
     old "Woods"
-    new "Orman"
+    new "Woods"
 
     # game/code/data/ib_characters.rpy:9
     old "Andrzej"
@@ -252,7 +252,7 @@ translate turkish strings:
 
     # game/code/data/ib_characters.rpy:48
     old "Garret"
-    new "Çatı Katı"
+    new "Garret"
 
     # game/code/data/ib_characters.rpy:48
     old "McAdams"
@@ -272,7 +272,7 @@ translate turkish strings:
 
     # game/code/data/ib_characters.rpy:48
     old "Love"
-    new "Aşk"
+    new "Love"
 
     # game/code/data/ib_characters.rpy:48
     old "Harding"
@@ -280,11 +280,11 @@ translate turkish strings:
 
     # game/code/data/ib_characters.rpy:48
     old "Bunker"
-    new "Sığınak"
+    new "Bunker"
 
     # game/code/data/ib_characters.rpy:48
     old "Driver"
-    new "Sürücü"
+    new "Driver"
 
     # game/code/data/ib_characters.rpy:48
     old "Bartender"
