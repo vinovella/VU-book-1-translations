@@ -4,35 +4,35 @@ translate turkish strings:
 
     # game/code/screens/inv_board.rpy:86
     old "CLOSE"
-    new "CLOSE"
+    new "KAPALI"
 
     # game/code/screens/inv_board.rpy:104
     old "Clear all"
-    new "Clear all"
+    new "Hepsini temizle"
 
     # game/code/screens/inv_board.rpy:165
     old "Name : [i.full_name!t]"
-    new "Name : [i.full_name!t]"
+    new "İsim : [i.full_name!t]"
 
     # game/code/screens/inv_board.rpy:166
     old "Age : [i.age!t]"
-    new "Age : [i.age!t]"
+    new "Yaş : [i.age!t]"
 
     # game/code/screens/inv_board.rpy:167
     old "Occupation : [i.occupation!t]"
-    new "Occupation : [i.occupation!t]"
+    new "Meslek : [i.occupation!t]"
 
     # game/code/screens/inv_board.rpy:169
     old "Major : [i.major!t]"
-    new "Major : [i.major!t]"
+    new "Yetişkin : [i.major!t]"
 
     # game/code/screens/inv_board.rpy:171
     old "Group Name : [i.full_name!t]"
-    new "Group Name : [i.full_name!t]"
+    new "Grup Adı : [i.full_name!t]"
 
     # game/code/screens/inv_board.rpy:175
     old "-- Description --"
-    new "-- Description --"
+    new "-- Tanım --"
 
     # game/code/screens/inv_board.rpy:193
     old "[i.desc!t]"
@@ -44,21 +44,21 @@ translate turkish strings:
 
     # game/code/screens/inv_board.rpy:85
     old "Characters"
-    new "Characters"
+    new "Karakterler"
 
     # game/code/screens/inv_board.rpy:86
     old "Connections"
-    new "Connections"
+    new "Bağlantılar"
 
     # game/code/screens/inv_board.rpy:87
     old "Descriptions"
-    new "Descriptions"
+    new "Açıklamalar"
 
     # game/code/screens/inv_board.rpy:89
     old "Groups"
-    new "Groups"
+    new "Gruplar"
 
     # game/code/screens/inv_board.rpy:93
     old "Toggle Groups"
-    new "Toggle Groups"
+    new "Grupları Değiştir"
 
