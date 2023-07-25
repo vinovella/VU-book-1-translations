@@ -10,5 +10,5 @@ translate turkish buzz_4377a2f7:
 translate turkish knock_40511e6c:
 
     # "*knock knock*"
-    "*knock knock*"
+    "*Tak Tak*"
 
