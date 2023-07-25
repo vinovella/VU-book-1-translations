@@ -654,3 +654,11 @@ translate turkish b1c03s05_6651ab87:
     # mc "Alright."
     mc "Pekala."
 
+# TODO: Translation updated at 2023-07-25 23:40
+
+translate turkish strings:
+
+    # game/code/Book-1/Chapter-3/s05.rpy:398
+    old "Save your game here"
+    new "Save your game here"
+

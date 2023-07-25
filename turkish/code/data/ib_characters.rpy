@@ -1,14 +1,42 @@
-﻿# TODO: Translation updated at 2023-07-25 01:21
+﻿# TODO: Translation updated at 2023-07-25 23:40
 
 translate turkish strings:
 
     # game/code/data/ib_characters.rpy:9
-    old "Power"
-    new "Power"
+    old "de la Cruz"
+    new "de la Cruz"
 
     # game/code/data/ib_characters.rpy:9
     old "Student"
     new "Student"
+
+    # game/code/data/ib_characters.rpy:9
+    old "Law"
+    new "Law"
+
+    # game/code/data/ib_characters.rpy:9
+    old "Crawford"
+    new "Crawford"
+
+    # game/code/data/ib_characters.rpy:9
+    old "Economy"
+    new "Economy"
+
+    # game/code/data/ib_characters.rpy:9
+    old "Maria Francesca"
+    new "Maria Francesca"
+
+    # game/code/data/ib_characters.rpy:9
+    old "Krall"
+    new "Krall"
+
+    # game/code/data/ib_characters.rpy:9
+    old "History"
+    new "History"
+
+    # game/code/data/ib_characters.rpy:9
+    old "Power"
+    new "Power"
 
     # game/code/data/ib_characters.rpy:9
     old "Computer Science & Design"
@@ -91,6 +119,10 @@ translate turkish strings:
     new "Theater Major"
 
     # game/code/data/ib_characters.rpy:9
+    old "Briggita"
+    new "Briggita"
+
+    # game/code/data/ib_characters.rpy:9
     old "Adrichem"
     new "Adrichem"
 
@@ -141,6 +173,10 @@ translate turkish strings:
     # game/code/data/ib_characters.rpy:9
     old "Woods"
     new "Woods"
+
+    # game/code/data/ib_characters.rpy:9
+    old "Andrzej"
+    new "Andrzej"
 
     # game/code/data/ib_characters.rpy:9
     old "Dittmar"
@@ -206,38 +242,6 @@ translate turkish strings:
     old "Chancellor & Chemistry Professor"
     new "Chancellor & Chemistry Professor"
 
-    # game/code/data/ib_characters.rpy:9
-    old "de la Cruz"
-    new "de la Cruz"
-
-    # game/code/data/ib_characters.rpy:9
-    old "Law"
-    new "Law"
-
-    # game/code/data/ib_characters.rpy:9
-    old "Crawford"
-    new "Crawford"
-
-    # game/code/data/ib_characters.rpy:9
-    old "Economy"
-    new "Economy"
-
-    # game/code/data/ib_characters.rpy:9
-    old "Maria Francesca"
-    new "Maria Francesca"
-
-    # game/code/data/ib_characters.rpy:9
-    old "Krall"
-    new "Krall"
-
-    # game/code/data/ib_characters.rpy:9
-    old "History"
-    new "History"
-
-    # game/code/data/ib_characters.rpy:48
-    old "Gaia \"Lilith\""
-    new "Gaia \"Lilith\""
-
     # game/code/data/ib_characters.rpy:48
     old "Seki"
     new "Seki"
@@ -279,46 +283,10 @@ translate turkish strings:
     new "Bunker"
 
     # game/code/data/ib_characters.rpy:48
-    old "Ezra Del"
-    new "Ezra Del"
+    old "Driver"
+    new "Driver"
 
     # game/code/data/ib_characters.rpy:48
-    old "Olmo"
-    new "Olmo"
-
-    # game/code/data/ib_characters.rpy:48
-    old "Hagen"
-    new "Hagen"
-
-    # game/code/data/ib_characters.rpy:48
-    old "Guide/Manager"
-    new "Guide/Manager"
-
-    # game/code/data/ib_characters.rpy:48
-    old "Grayson"
-    new "Grayson"
-
-    # game/code/data/ib_characters.rpy:48
-    old "Hazel"
-    new "Hazel"
-
-    # game/code/data/ib_characters.rpy:48
-    old "Parker"
-    new "Parker"
-
-    # game/code/data/ib_characters.rpy:48
-    old "Rival Team Spy"
-    new "Rival Team Spy"
-
-    # game/code/data/ib_characters.rpy:48
-    old "Winner's Club"
-    new "Winner's Club"
-
-    # game/code/data/ib_characters.rpy:48
-    old "The Syndicate"
-    new "The Syndicate"
-
-    # game/code/data/ib_characters.rpy:48
-    old "Cult"
-    new "Cult"
+    old "Bartender"
+    new "Bartender"
 
