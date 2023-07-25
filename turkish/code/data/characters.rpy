@@ -4,7 +4,7 @@ translate turkish strings:
 
     # game/code/data/characters.rpy:6
     old "You"
-    new "You"
+    new "Sen"
 
     # game/code/data/characters.rpy:9
     old "Maria"
@@ -176,11 +176,11 @@ translate turkish strings:
 
     # game/code/data/characters.rpy:56
     old "Professor James"
-    new "Professor James"
+    new "Profesör James"
 
     # game/code/data/characters.rpy:58
     old "Captain"
-    new "Captain"
+    new "Kaptan"
 
     # game/code/data/characters.rpy:59
     old "Helen Desmond"
@@ -204,7 +204,7 @@ translate turkish strings:
 
     # game/code/data/characters.rpy:64
     old "Mother"
-    new "Mother"
+    new "Anne"
 
     # game/code/data/characters.rpy:65
     old "Lauren"
