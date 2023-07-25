@@ -4,7 +4,7 @@ translate turkish strings:
 
     # game/code/functions/functions.rpy:29
     old "You have unlocked a new character in the Investigation Board"
-    new "Soruşturma Panosu'nda yeni bir karakterin kilidini açtınız."
+    new "Soruşturma Panosu'nda yeni bir karakterin kilidini açtınız"
 
     # game/code/functions/functions.rpy:57
     old "You have updated a new in the Investigation Board"
