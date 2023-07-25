@@ -4,5 +4,5 @@ translate turkish strings:
 
     # game/code/data/options.rpy:15
     old "Vinovella University"
-    new "Vinovella University"
+    new "Vinovella Üniversitesi"
 
