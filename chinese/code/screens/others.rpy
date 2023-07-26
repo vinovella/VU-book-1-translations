@@ -36,5 +36,5 @@ translate chinese strings:
 
     # game/code/screens/others.rpy:213
     old "Coming Soon"
-    new "即将推出
+    new "即将推出"
 

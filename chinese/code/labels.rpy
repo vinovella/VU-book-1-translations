@@ -4,7 +4,7 @@
 translate chinese buzz_4377a2f7:
 
     # "Bzzzzz" with hpunch
-    "嗡嗡" 震动
+    "嗡嗡" with hpunch
 
 # game/code/labels.rpy:55
 translate chinese knock_40511e6c:
