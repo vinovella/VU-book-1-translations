@@ -4,5 +4,5 @@ translate chinese strings:
 
     # game/code/options.rpy:15
     old "Vinovella University"
-    new "Vinovella University"
+    new "维诺维拉大学"
 
