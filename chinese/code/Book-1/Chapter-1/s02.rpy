@@ -688,4 +688,4 @@ translate chinese strings:
 translate chinese b1c01s02_b49ee5e6:
 
     # sm "Despite being disowned, she managed to inherit her family's property and their large mansion 15 years after the war ended."
-    sm "Despite being disowned, she managed to inherit her family's property and their large mansion 15 years after the war ended."
+    sm "尽管与家人断绝了关系，她还是在战争结束15年后继承了家族的财产和大豪宅。"
