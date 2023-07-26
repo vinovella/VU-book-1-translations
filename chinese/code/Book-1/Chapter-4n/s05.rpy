@@ -686,4 +686,4 @@ translate chinese strings:
 translate chinese b1c04ns05_bdf8cf21:
 
     # dk "Yes. The play is about the birth of my character."
-    dk "Yes. The play is about the birth of my character."
+    dk "对。这部戏讲述了我这个角色的诞生。"
