@@ -4,5 +4,5 @@ translate chinese strings:
 
     # game/code/screens/gallery.rpy:7
     old "Gallery"
-    new "Gallery"
+    new "相册"
 
