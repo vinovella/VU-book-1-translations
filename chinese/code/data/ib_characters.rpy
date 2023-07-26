@@ -4,271 +4,271 @@ translate chinese strings:
 
     # game/code/data/ib_characters.rpy:9
     old "Leia"
-    new "Leia"
+    new "莱娅"
 
     # game/code/data/ib_characters.rpy:9
     old "de la Cruz"
-    new "de la Cruz"
+    new "德拉·克鲁兹"
 
     # game/code/data/ib_characters.rpy:9
     old "Student"
-    new "Student"
+    new "学生"
 
     # game/code/data/ib_characters.rpy:9
     old "Law"
-    new "Law"
+    new "法学"
 
     # game/code/data/ib_characters.rpy:9
     old "Klara"
-    new "Klara"
+    new "克拉拉"
 
     # game/code/data/ib_characters.rpy:9
     old "Crawford"
-    new "Crawford"
+    new "克劳福德"
 
     # game/code/data/ib_characters.rpy:9
     old "Economy"
-    new "Economy"
+    new "经济学"
 
     # game/code/data/ib_characters.rpy:9
     old "Maria Francesca"
-    new "Maria Francesca"
+    new "玛丽亚·弗朗西斯卡"
 
     # game/code/data/ib_characters.rpy:9
     old "Krall"
-    new "Krall"
+    new "克拉尔"
 
     # game/code/data/ib_characters.rpy:9
     old "History"
-    new "History"
+    new "历史"
 
     # game/code/data/ib_characters.rpy:9
     old "Zemfira"
-    new "Zemfira"
+    new "泽菲拉"
 
     # game/code/data/ib_characters.rpy:9
     old "Power"
-    new "Power"
+    new "鲍尔"
 
     # game/code/data/ib_characters.rpy:9
     old "Computer Science & Design"
-    new "Computer Science & Design"
+    new "计算机科学与设计"
 
     # game/code/data/ib_characters.rpy:9
     old "Silvia"
-    new "Silvia"
+    new "西尔维娅"
 
     # game/code/data/ib_characters.rpy:9
     old "Melsbach"
-    new "Melsbach"
+    new "梅尔斯巴赫"
 
     # game/code/data/ib_characters.rpy:9
     old "Business Administration"
-    new "Business Administration"
+    new "工商管理"
 
     # game/code/data/ib_characters.rpy:9
     old "Nia"
-    new "Nia"
+    new "妮娅"
 
     # game/code/data/ib_characters.rpy:9
     old "Vann"
-    new "Vann"
+    new "范恩"
 
     # game/code/data/ib_characters.rpy:9
     old "Pharmacology"
-    new "Pharmacology"
+    new "药理学"
 
     # game/code/data/ib_characters.rpy:9
     old "Fleur Fifi"
-    new "Fleur Fifi"
+    new "芙蓉·菲菲"
 
     # game/code/data/ib_characters.rpy:9
     old "Lebeau"
-    new "Lebeau"
+    new "莱博"
 
     # game/code/data/ib_characters.rpy:9
     old "Computer Science"
-    new "Computer Science"
+    new "计算机科学"
 
     # game/code/data/ib_characters.rpy:9
     old "Nirmala"
-    new "Nirmala"
+    new "尼玛拉"
 
     # game/code/data/ib_characters.rpy:9
     old "Riese"
-    new "Riese"
+    new "里斯"
 
     # game/code/data/ib_characters.rpy:9
     old "Architecture"
-    new "Architecture"
+    new "建筑学"
 
     # game/code/data/ib_characters.rpy:9
     old "Gaia"
-    new "Gaia"
+    new "盖娅"
 
     # game/code/data/ib_characters.rpy:9
     old "Nieri"
-    new "Nieri"
+    new "尼埃里"
 
     # game/code/data/ib_characters.rpy:9
     old "Environmental Science"
-    new "Environmental Science"
+    new "环境科学"
 
     # game/code/data/ib_characters.rpy:9
     old "Foxy"
-    new "Foxy"
+    new "小狐"
 
     # game/code/data/ib_characters.rpy:9
     old "Rehabilitation Therapy"
-    new "Rehabilitation Therapy"
+    new "康复治疗"
 
     # game/code/data/ib_characters.rpy:9
     old "Simon"
-    new "Simon"
+    new "西蒙"
 
     # game/code/data/ib_characters.rpy:9
     old "Lowe"
-    new "Lowe"
+    new "洛威"
 
     # game/code/data/ib_characters.rpy:9
     old "Sports Journalism"
-    new "Sports Journalism"
+    new "体育新闻"
 
     # game/code/data/ib_characters.rpy:9
     old "Iona"
-    new "Iona"
+    new "欧娜"
 
     # game/code/data/ib_characters.rpy:9
     old "Riviera"
-    new "Riviera"
+    new "利维拉"
 
     # game/code/data/ib_characters.rpy:9
     old "Physics"
-    new "Physics"
+    new "物理学"
 
     # game/code/data/ib_characters.rpy:9
     old "Monika"
-    new "Monika"
+    new "莫妮卡"
 
     # game/code/data/ib_characters.rpy:9
     old "Mallon"
-    new "Mallon"
+    new "马龙"
 
     # game/code/data/ib_characters.rpy:9
     old "Theater Major"
-    new "Theater Major"
+    new "戏剧专业"
 
     # game/code/data/ib_characters.rpy:9
     old "Brigitta"
-    new "Brigitta"
+    new "布吉塔"
 
     # game/code/data/ib_characters.rpy:9
     old "Adrichem"
-    new "Adrichem"
+    new "阿德里切姆"
 
     # game/code/data/ib_characters.rpy:9
     old "Nuclear Engineering"
-    new "Nuclear Engineering"
+    new "核工程"
 
     # game/code/data/ib_characters.rpy:9
     old "Olesya"
-    new "Olesya"
+    new "奥列西娅"
 
     # game/code/data/ib_characters.rpy:9
     old "Antonova"
-    new "Antonova"
+    new "安东诺娃"
 
     # game/code/data/ib_characters.rpy:9
     old "Fashion Design"
-    new "Fashion Design"
+    new "时装设计"
 
     # game/code/data/ib_characters.rpy:9
     old "Delphia"
-    new "Delphia"
+    new "德尔菲娅"
 
     # game/code/data/ib_characters.rpy:9
     old "Kato"
-    new "Kato"
+    new "卡托"
 
     # game/code/data/ib_characters.rpy:9
     old "Greek Classics & Classical Studies"
-    new "Greek Classics & Classical Studies"
+    new "希腊古典文学与古典研究"
 
     # game/code/data/ib_characters.rpy:9
     old "Irene"
-    new "Irene"
+    new "艾琳"
 
     # game/code/data/ib_characters.rpy:9
     old "Jekyll"
-    new "Jekyll"
+    new "杰基尔"
 
     # game/code/data/ib_characters.rpy:9
     old "English Language & Literature"
-    new "English Language & Literature"
+    new "英语语言与文学"
 
     # game/code/data/ib_characters.rpy:9
     old "Eliina"
-    new "Eliina"
+    new "爱丽娜"
 
     # game/code/data/ib_characters.rpy:9
     old "Flanagon"
-    new "Flanagon"
+    new "弗拉纳贡"
 
     # game/code/data/ib_characters.rpy:9
     old "Music"
-    new "Music"
+    new "音乐"
 
     # game/code/data/ib_characters.rpy:9
     old "Josie"
-    new "Josie"
+    new "乔西"
 
     # game/code/data/ib_characters.rpy:9
     old "Hawthorne"
-    new "Hawthorne"
+    new "霍桑"
 
     # game/code/data/ib_characters.rpy:9
     old "Medical"
-    new "Medical"
+    new "医学"
 
     # game/code/data/ib_characters.rpy:9
     old "Lara"
-    new "Lara"
+    new "劳拉"
 
     # game/code/data/ib_characters.rpy:9
     old "Woods"
-    new "Woods"
+    new "伍兹"
 
     # game/code/data/ib_characters.rpy:9
     old "Andrejz"
-    new "Andrejz"
+    new "安杰斯"
 
     # game/code/data/ib_characters.rpy:9
     old "Dittmar"
-    new "Dittmar"
+    new "迪特玛"
 
     # game/code/data/ib_characters.rpy:9
     old "High-ranking member in the self-help group"
-    new "High-ranking member in the self-help group"
+    new "自助小组高级成员"
 
     # game/code/data/ib_characters.rpy:9
     old "Sally"
-    new "Sally"
+    new "莎莉"
 
     # game/code/data/ib_characters.rpy:9
     old "Daniels"
-    new "Daniels"
+    new "丹尼尔斯"
 
     # game/code/data/ib_characters.rpy:9
     old "Cashier at the butcher's shop"
-    new "Cashier at the butcher's shop"
+    new "肉铺收银员"
 
     # game/code/data/ib_characters.rpy:9
     old "Greg"
-    new "Greg"
+    new "格雷格"
 
     # game/code/data/ib_characters.rpy:9
     old "Butcher"
-    new "Butcher"
+    new "屠夫"
 
     # game/code/data/ib_characters.rpy:9
     old "????"
@@ -276,123 +276,123 @@ translate chinese strings:
 
     # game/code/data/ib_characters.rpy:9
     old "The Artist"
-    new "The Artist"
+    new "大艺术家"
 
     # game/code/data/ib_characters.rpy:9
     old "Artist"
-    new "Artist"
+    new "艺术家"
 
     # game/code/data/ib_characters.rpy:9
     old "Diana"
-    new "Diana"
+    new "戴安娜"
 
     # game/code/data/ib_characters.rpy:9
     old "Mills"
-    new "Mills"
+    new "米尔斯"
 
     # game/code/data/ib_characters.rpy:9
     old "Faculty Advisor & History Professor"
-    new "Faculty Advisor & History Professor"
+    new "学院顾问兼历史教授"
 
     # game/code/data/ib_characters.rpy:9
     old "Abel"
-    new "Abel"
+    new "阿贝尔"
 
     # game/code/data/ib_characters.rpy:9
     old "Physical Education Teacher"
-    new "Physical Education Teacher"
+    new "体育教师"
 
     # game/code/data/ib_characters.rpy:9
     old "Ronja"
-    new "Ronja"
+    new "容佳"
 
     # game/code/data/ib_characters.rpy:9
     old "Hopkins"
-    new "Hopkins"
+    new "霍普金斯"
 
     # game/code/data/ib_characters.rpy:9
     old "Chancellor & Chemistry Professor"
-    new "Chancellor & Chemistry Professor"
+    new "校长兼化学教授"
 
     # game/code/data/ib_characters.rpy:48
     old "Asami"
-    new "Asami"
+    new "麻美"
 
     # game/code/data/ib_characters.rpy:48
     old "Seki"
-    new "Seki"
+    new "赛琪"
 
     # game/code/data/ib_characters.rpy:48
     old "Chemistry/Pre-Med"
-    new "Chemistry/Pre-Med"
+    new "化学/医学预科"
 
     # game/code/data/ib_characters.rpy:48
     old "Morgan"
-    new "Morgan"
+    new "摩根"
 
     # game/code/data/ib_characters.rpy:48
     old "Garret"
-    new "Garret"
+    new "加勒特"
 
     # game/code/data/ib_characters.rpy:48
     old "Isa"
-    new "Isa"
+    new "艾萨"
 
     # game/code/data/ib_characters.rpy:48
     old "McAdams"
-    new "McAdams"
+    new "麦克亚当斯"
 
     # game/code/data/ib_characters.rpy:48
     old "Political Science"
-    new "Political Science"
+    new "政治学"
 
     # game/code/data/ib_characters.rpy:48
     old "Sam De"
-    new "Sam De"
+    new "萨姆·德"
 
     # game/code/data/ib_characters.rpy:48
     old "Lange"
-    new "Lange"
+    new "朗格"
 
     # game/code/data/ib_characters.rpy:48
     old "Lumi"
-    new "Lumi"
+    new "卢米"
 
     # game/code/data/ib_characters.rpy:48
     old "Love"
-    new "Love"
+    new "拉芙"
 
     # game/code/data/ib_characters.rpy:48
     old "Caspian"
-    new "Caspian"
+    new "卡斯宾"
 
     # game/code/data/ib_characters.rpy:48
     old "Harding"
-    new "Harding"
+    new "哈丁"
 
     # game/code/data/ib_characters.rpy:48
     old "Xasan"
-    new "Xasan"
+    new "哈桑"
 
     # game/code/data/ib_characters.rpy:48
     old "Corinne"
-    new "Corinne"
+    new "科琳"
 
     # game/code/data/ib_characters.rpy:48
     old "Bunker"
-    new "Bunker"
+    new "邦克"
 
     # game/code/data/ib_characters.rpy:48
     old "Ridley"
-    new "Ridley"
+    new "雷德利"
 
     # game/code/data/ib_characters.rpy:48
     old "Driver"
-    new "Driver"
+    new "司机"
 
     # game/code/data/ib_characters.rpy:48
     old "Bartender"
-    new "Bartender"
+    new "调酒师"
 
 # TODO: Translation updated at 2023-06-27 18:33
 
@@ -400,71 +400,71 @@ translate chinese strings:
 
     # game/code/data/ib_characters.rpy:48
     old "Gaia \"Lilith\""
-    new "Gaia \"Lilith\""
+    new "盖娅\"莉莉丝\""
 
     # game/code/data/ib_characters.rpy:48
     old "Ezra Del"
-    new "Ezra Del"
+    new "以斯拉·德尔"
 
     # game/code/data/ib_characters.rpy:48
     old "Olmo"
-    new "Olmo"
+    new "奥尔莫"
 
     # game/code/data/ib_characters.rpy:48
     old "Ivy"
-    new "Ivy"
+    new "艾维"
 
     # game/code/data/ib_characters.rpy:48
     old "Hagen"
-    new "Hagen"
+    new "哈根"
 
     # game/code/data/ib_characters.rpy:48
     old "Guide/Manager"
-    new "Guide/Manager"
+    new "向导/经理人"
 
     # game/code/data/ib_characters.rpy:48
     old "Cade"
-    new "Cade"
+    new "凯德"
 
     # game/code/data/ib_characters.rpy:48
     old "Rory"
-    new "Rory"
+    new "罗里"
 
     # game/code/data/ib_characters.rpy:48
     old "Grayson"
-    new "Grayson"
+    new "格雷森"
 
     # game/code/data/ib_characters.rpy:48
     old "Quentin"
-    new "Quentin"
+    new "昆汀"
 
     # game/code/data/ib_characters.rpy:48
     old "Hazel"
-    new "Hazel"
+    new "黑兹尔"
 
     # game/code/data/ib_characters.rpy:48
     old "Sabrina"
-    new "Sabrina"
+    new "萨布丽娜"
 
     # game/code/data/ib_characters.rpy:48
     old "Parker"
-    new "Parker"
+    new "帕克"
 
     # game/code/data/ib_characters.rpy:48
     old "Rival Team Spy"
-    new "Rival Team Spy"
+    new "敌对小队间谍"
 
     # game/code/data/ib_characters.rpy:48
     old "Winner's Club"
-    new "Winner's Club"
+    new "赢家俱乐部"
 
     # game/code/data/ib_characters.rpy:48
     old "The Syndicate"
-    new "The Syndicate"
+    new "辛迪加财团"
 
     # game/code/data/ib_characters.rpy:48
     old "Cult"
-    new "Cult"
+    new "异教"
 
 # TODO: Translation updated at 2023-07-14 23:29
 
@@ -472,5 +472,5 @@ translate chinese strings:
 
     # game/code/data/ib_characters.rpy:9
     old "Andrzej"
-    new "Andrzej"
+    new "安杰"
 
