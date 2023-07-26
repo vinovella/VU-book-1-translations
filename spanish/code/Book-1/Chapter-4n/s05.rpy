@@ -686,4 +686,4 @@ translate spanish strings:
 translate spanish b1c04ns05_bdf8cf21:
 
     # dk "Yes. The play is about the birth of my character."
-    dk "Yes. The play is about the birth of my character."
+    dk "Sí. La obra trata del nacimiento de mi personaje."
