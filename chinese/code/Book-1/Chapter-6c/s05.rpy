@@ -16,7 +16,7 @@ translate chinese b1c06cs05_db48c056:
 translate chinese b1c06cs05_40deb25f:
 
     # dk "I'm not {i}bubbly{/i}."
-    dk 我不是{i}快活{/i}."
+    dk "我不是{i}快活{/i}."
 
 # game/code/Book-1/Chapter-6c/s05.rpy:46
 translate chinese b1c06cs05_c9d2f4da:
