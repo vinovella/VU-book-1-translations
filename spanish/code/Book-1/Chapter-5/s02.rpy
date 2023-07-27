@@ -894,5 +894,5 @@ translate spanish strings:
 
     # game/code/Book-1/Chapter-5/s02.rpy:392
     old "Investigation Board Reorganized"
-    new "Investigation Board Reorganized"
+    new "Tablero de investigación reorganizado"
 
