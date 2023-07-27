@@ -346,7 +346,7 @@ translate chinese b1c05s02_e6bfacd3:
 translate chinese b1c05s02_40cc5e3c:
 
     # mc "However, there's a woman named Sally Daniels that used to be a part of a local cult."
-    mc "然而，有个叫莎莉·丹尼尔斯的女人曾经是当地邪教的一员。"
+    mc "然而，有个叫莎莉·丹尼尔斯的女人曾经是当地异教的一员。"
 
 # game/code/Book-1/Chapter-5/s02.rpy:202
 translate chinese b1c05s02_6a1d9b57:
@@ -358,7 +358,7 @@ translate chinese b1c05s02_6a1d9b57:
 translate chinese b1c05s02_f1245494:
 
     # mc "But I'm not sure that it's a full-blown cult."
-    mc "但我不确定它是不是全面的邪教。"
+    mc "但我不确定它是不是个成熟的异教。"
 
 # game/code/Book-1/Chapter-5/s02.rpy:206
 translate chinese b1c05s02_7187c543:
@@ -490,7 +490,7 @@ translate chinese b1c05s02_0ff5a94b:
 translate chinese b1c05s02_2c074eec:
 
     # mc "Ronja requires more investigation. And Greg is just Sally's brother. He helped Sally get back on her feet after she escaped her cult situation."
-    mc "容佳还需要多加调查。格雷格只是莎莉的哥哥。他帮助莎莉在逃脱邪教后重新站了起来。"
+    mc "容佳还需要多加调查。格雷格只是莎莉的哥哥。他帮助莎莉在逃脱异教后重新站了起来。"
 
 # game/code/Book-1/Chapter-5/s02.rpy:271
 translate chinese b1c05s02_98df67e7:
@@ -544,19 +544,19 @@ translate chinese b1c05s02_652fd347:
 translate chinese b1c05s02_954741cf:
 
     # mc "But Sally...{w} Cults and self-help groups can seem similar from the outside. I could see them attracting some similar people."
-    mc "可是莎莉...{w}从表面上看，邪教和自助团体似乎很相似。我理解的是，它们吸引了一群相似的人。"
+    mc "可是莎莉...{w}从表面上看，异教和自助团体似乎很相似。我理解的是，它们吸引了一群相似的人。"
 
 # game/code/Book-1/Chapter-5/s02.rpy:307
 translate chinese b1c05s02_cd17a7c3:
 
     # mc "After all, cults prey on those seeking healing."
-    mc "毕竟，邪教的猎物是那些寻求治愈的人。"
+    mc "毕竟，异教的猎物是那些寻求治愈的人。"
 
 # game/code/Book-1/Chapter-5/s02.rpy:309
 translate chinese b1c05s02_41e706cd:
 
     # mc "Sally might know some people that are involved with both the cult and self-help group."
-    mc "莎莉可能认识同时参与邪教和自助团体的人。"
+    mc "莎莉可能认识同时参与异教和自助团体的人。"
 
 # game/code/Book-1/Chapter-5/s02.rpy:310
 translate chinese b1c05s02_75f62cec:
