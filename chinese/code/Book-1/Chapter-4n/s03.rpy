@@ -214,13 +214,13 @@ translate chinese b1c04ns03_9c171488:
 translate chinese b1c04ns03_71aa5431:
 
     # gd "Sorry to put ya on the spot there, kiddo."
-    gd "抱歉让你亲眼看到这一幕了，孩子。"
+    gd "抱歉让你亲眼看到这一幕了，小鬼。"
 
 # game/code/Book-1/Chapter-4n/s03.rpy:116
 translate chinese b1c04ns03_e8f24259:
 
     # mct "Kiddo? Is he joking?"
-    mct "孩子？他是在开玩笑吗？"
+    mct "小鬼？他是在开玩笑吗？"
 
 # game/code/Book-1/Chapter-4n/s03.rpy:119
 translate chinese b1c04ns03_2131991b:
@@ -370,7 +370,7 @@ translate chinese b1c04ns03_9efa0005:
 translate chinese b1c04ns03_38258c58:
 
     # gd "Have a good day, kiddo."
-    gd "祝你有个愉快的一天，孩子。"
+    gd "祝你有个愉快的一天，小鬼。"
 
 # game/code/Book-1/Chapter-4n/s03.rpy:207
 translate chinese b1c04ns03_2d825a13:
