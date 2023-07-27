@@ -76,13 +76,13 @@ translate chinese b1c05s03_574c3754:
 translate chinese b1c05s03_53c852cb:
 
     # gd "Comin' right up, kiddo."
-    gd "马上就来，孩子。"
+    gd "马上就来，小鬼。"
 
 # game/code/Book-1/Chapter-5/s03.rpy:51
 translate chinese b1c05s03_9a98a5e8:
 
     # mct "Again with the 'kiddo' business..."
-    mct "又叫我‘小孩子’..."
+    mct "又叫我‘小鬼’..."
 
 # game/code/Book-1/Chapter-5/s03.rpy:54
 translate chinese b1c05s03_6444fb06:
@@ -262,7 +262,7 @@ translate chinese b1c05s03_b0007872:
 translate chinese b1c05s03_38258c58:
 
     # gd "Have a good day, kiddo."
-    gd "祝你今天愉快，孩子。"
+    gd "祝你今天愉快，小鬼。"
 
 # game/code/Book-1/Chapter-5/s03.rpy:133
 translate chinese b1c05s03_2d825a13:
