@@ -11,8 +11,8 @@ translate chinese strings:
     new "全部清除"
 
     # game/code/screens/inv_board.rpy:155
-    old "Name : [i.full_name!t]"
-    new "姓名 : [i.full_name!t]"
+    old "Name : [i.name!t] [i.surname!t]"
+    new "姓名 : [i.name!t] [i.surname!t]"
 
     # game/code/screens/inv_board.rpy:156
     old "Age : [i.age!t]"
@@ -39,5 +39,5 @@ translate chinese strings:
 translate chinese strings:
 
     # game/code/screens/inv_board.rpy:171
-    old "Group Name : [i.full_name!t]"
-    new "团队名称 : [i.full_name!t]"
+    old "Group Name : [i.name!t] [i.surname!t]"
+    new "团队名称 : [i.name!t] [i.surname!t]"

@@ -11,8 +11,8 @@ translate spanish strings:
     new "Borrar todo"
 
     # game/code/screens/inv_board.rpy:165
-    old "Name : [i.full_name!t]"
-    new "Nombre: [i.full_name!t]"
+    old "Name : [i.name!t] [i.surname!t]"
+    new "Nombre: [i.name!t] [i.surname!t]"
 
     # game/code/screens/inv_board.rpy:166
     old "Age : [i.age!t]"
@@ -27,8 +27,8 @@ translate spanish strings:
     new "Alcalde: [i.major!t]"
 
     # game/code/screens/inv_board.rpy:171
-    old "Group Name : [i.full_name!t]"
-    new "Nombre del grupo: [i.full_name!t]"
+    old "Group Name : [i.name!t] [i.surname!t]"
+    new "Nombre del grupo: [i.name!t] [i.surname!t]"
 
     # game/code/screens/inv_board.rpy:175
     old "-- Description --"

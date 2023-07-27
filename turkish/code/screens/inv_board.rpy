@@ -11,8 +11,8 @@ translate turkish strings:
     new "Hepsini temizle"
 
     # game/code/screens/inv_board.rpy:165
-    old "Name : [i.full_name!t]"
-    new "İsim : [i.full_name!t]"
+    old "Name : [i.name!t] [i.surname!t]"
+    new "İsim : [i.name!t] [i.surname!t]"
 
     # game/code/screens/inv_board.rpy:166
     old "Age : [i.age!t]"
@@ -27,8 +27,8 @@ translate turkish strings:
     new "Yetişkin : [i.major!t]"
 
     # game/code/screens/inv_board.rpy:171
-    old "Group Name : [i.full_name!t]"
-    new "Grup Adı : [i.full_name!t]"
+    old "Group Name : [i.name!t] [i.surname!t]"
+    new "Grup Adı : [i.name!t] [i.surname!t]"
 
     # game/code/screens/inv_board.rpy:175
     old "-- Description --"

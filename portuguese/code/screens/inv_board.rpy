@@ -11,8 +11,8 @@ translate portuguese strings:
     new "Limpar tudo"
 
     # game/code/screens/inv_board.rpy:165
-    old "Name : [i.full_name!t]"
-    new "Nome : [i.full_name!t]"
+    old "Name : [i.name!t] [i.surname!t]"
+    new "Nome : [i.name!t] [i.surname!t]"
 
     # game/code/screens/inv_board.rpy:166
     old "Age : [i.age!t]"
@@ -27,8 +27,8 @@ translate portuguese strings:
     new "Cursando : [i.major!t]"
 
     # game/code/screens/inv_board.rpy:171
-    old "Group Name : [i.full_name!t]"
-    new "Nome do Grupo : [i.full_name!t]"
+    old "Group Name : [i.name!t] [i.surname!t]"
+    new "Nome do Grupo : [i.name!t] [i.surname!t]"
 
     # game/code/screens/inv_board.rpy:175
     old "-- Description --"

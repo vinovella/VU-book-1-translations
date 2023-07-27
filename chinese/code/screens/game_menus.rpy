@@ -224,7 +224,7 @@ translate chinese strings:
 
     # game/code/screens/game_menus.rpy:558
     old "Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
-    new "辅助切换{a=https://www.renpy.org/l/voicing}self-voicing{/a}."
+    new "辅助切换 {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
 
     # game/code/screens/game_menus.rpy:564
     old "Left Click"
@@ -273,4 +273,3 @@ translate chinese strings:
     # game/code/screens/game_menus.rpy:611
     old "Calibrate"
     new "校准"
-
