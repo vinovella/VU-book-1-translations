@@ -40,19 +40,19 @@ translate spanish b1c05s06_795def89:
 translate spanish b1c05s06_617d4820:
 
     # mc "Yeah, I'm fine. Just gonna meet with my mom before classes."
-    mc "Si estoy bien. Solo voy a reunirme con mi mamá antes de las clases."
+    mc "Si estoy bien. Sólo voy a reunirme con mi mamá antes de las clases."
 
 # game/code/Book-1/Chapter-5/s06.rpy:56
 translate spanish b1c05s06_fd458a23:
 
     # jh "Oh! It's been such a long time since I've seen her. How is she?"
-    jh "¡Oh! Ha pasado tanto tiempo desde que la he visto. ¿Como es ella?"
+    jh "¡Oh! Hace tanto tiempo que no la veo. ¿Cómo está ella?"
 
 # game/code/Book-1/Chapter-5/s06.rpy:59
 translate spanish b1c05s06_18414095:
 
     # mc "Uh, she's great. We're gonna get some breakfast together."
-    mc "Ella es genial. Vamos a desayunar juntos."
+    mc "Ella está genial. Vamos a desayunar juntos."
 
 # game/code/Book-1/Chapter-5/s06.rpy:62
 translate spanish b1c05s06_8721d3af:
@@ -70,13 +70,13 @@ translate spanish b1c05s06_d9a18cbc:
 translate spanish b1c05s06_7ad2d86c:
 
     # mc "Oh, thanks Phoebe. You're the best."
-    mc "Oh, gracias Phoebe. Usted es el mejor."
+    mc "Oh, gracias Phoebe. Eres la mejor."
 
 # game/code/Book-1/Chapter-5/s06.rpy:78
 translate spanish b1c05s06_df80bf73:
 
     # pm "Thought you could use some pep in your step after such an early morning."
-    pm "Pensé que te vendría bien un poco de ánimo después de una mañana tan temprana."
+    pm "Pensé que te vendría bien un poco de ánimo después de levantarte tan temprano."
 
 # game/code/Book-1/Chapter-5/s06.rpy:81
 translate spanish b1c05s06_7e240a63:
@@ -94,7 +94,7 @@ translate spanish b1c05s06_93aa3eb8:
 translate spanish b1c05s06_d816a66c:
 
     # mc "*chuckles* Why, when I know you enjoy it?"
-    mc "*se ríe* ¿Por qué, cuando sé que lo disfrutas?"
+    mc "*se ríe* ¿Por qué, si sé que lo disfrutas?"
 
 # game/code/Book-1/Chapter-5/s06.rpy:89
 translate spanish b1c05s06_b4a9a828:
@@ -112,19 +112,19 @@ translate spanish b1c05s06_03dcd6af:
 translate spanish b1c05s06_108c7a10:
 
     # pm "It's a rough neighborhood, so I'm sure it's a breeding ground for criminal activity."
-    pm "Es un vecindario difícil, así que estoy seguro de que es un caldo de cultivo para la actividad criminal."
+    pm "Es un vecindario difícil, así que estoy segura de que es un caldo de cultivo para la actividad criminal."
 
 # game/code/Book-1/Chapter-5/s06.rpy:111
 translate spanish b1c05s06_de5099d3:
 
     # mc "Who are these two? I think I've seen this one around campus."
-    mc "¿Quiénes son estos dos? Creo que he visto este en el campus."
+    mc "¿Quiénes son estas dos? Creo que los he visto por el campus."
 
 # game/code/Book-1/Chapter-5/s06.rpy:112
 translate spanish b1c05s06_bc563db0:
 
     # mc "Never got her name, though."
-    mc "Sin embargo, nunca obtuve su nombre."
+    mc "Aunque nunca supe sus nombre."
 
 # game/code/Book-1/Chapter-5/s06.rpy:116
 translate spanish b1c05s06_b0eb2022:
@@ -154,13 +154,13 @@ translate spanish b1c05s06_continue_59bc2db4:
 translate spanish b1c05s06_continue_7408d2fd:
 
     # pm "She appeared to be a part of some kind of organization, but she hasn't said anything valuable. So she's just serving time until her sentence is done."
-    pm "Parecía ser parte de algún tipo de organización, pero no ha dicho nada valioso. Así que solo está cumpliendo condena hasta que termine su sentencia."
+    pm "Parecía formar parte de algún tipo de organización, pero no ha dicho nada valioso. Así que sólo cumplirá condena hasta que termine su sentencia."
 
 # game/code/Book-1/Chapter-5/s06.rpy:153
 translate spanish b1c05s06_continue_b5a50c8e:
 
     # pm "Corinne would probably have a lot of info on whatever Zemfira is involved with, which could lead to more info on Leia."
-    pm "Corinne probablemente tendría mucha información sobre lo que sea que esté involucrado Zemfira, lo que podría conducir a más información sobre Leia."
+    pm "Corinne probablemente tendría mucha información sobre cualquier cosa en la que Zemfira esté involucrada, lo que podría llevar a más información sobre Leia."
 
 # game/code/Book-1/Chapter-5/s06.rpy:154
 translate spanish b1c05s06_continue_36f036be:
@@ -178,7 +178,7 @@ translate spanish b1c05s06_continue_a4719850:
 translate spanish b1c05s06_continue_37a515a5:
 
     # mc "Thanks, Phoebe. You're the best."
-    mc "Gracias, Phoebe. Usted es el mejor."
+    mc "Gracias, Phoebe. Eres la mejor."
 
 # game/code/Book-1/Chapter-5/s06.rpy:163
 translate spanish b1c05s06_continue_32698b88:
@@ -190,13 +190,13 @@ translate spanish b1c05s06_continue_32698b88:
 translate spanish b1c05s06_continue_6e11b645:
 
     # mc "Just being respectful to my handler, Ms. Martinez."
-    mc "Solo siendo respetuoso con mi manejadora, la Sra. Martínez."
+    mc "Sólo estoy siendo respetuoso con mi supervisora, la Sra. Martínez."
 
 # game/code/Book-1/Chapter-5/s06.rpy:168
 translate spanish b1c05s06_continue_ac8702fa:
 
     # pm "No handler likes a kiss-ass, Matthew."
-    pm "A ningún manejador le gustan los besos en el culo, Matthew."
+    pm "A ningún supervisor le gustan los lameculos, Matthew."
 
 # game/code/Book-1/Chapter-5/s06.rpy:171
 translate spanish b1c05s06_continue_c4fc3e9a:
@@ -238,7 +238,7 @@ translate spanish b1c05s06_continue_b3ac2c88:
 translate spanish b1c05s06_continue_6e5e9eb8:
 
     # pm "We're unsure if the fights and the sexual exploitation are related though."
-    pm "Sin embargo, no estamos seguros si las peleas y la explotación sexual están relacionadas."
+    pm "Sin embargo, no estamos seguros si las peleas y la explotación sexual estén relacionadas."
 
 # game/code/Book-1/Chapter-5/s06.rpy:198
 translate spanish b1c05s06_continue_38c71b20:
@@ -250,37 +250,37 @@ translate spanish b1c05s06_continue_38c71b20:
 translate spanish b1c05s06_continue_d5d64dfb:
 
     # mc "Is there any notable leader or figure involved?"
-    mc "¿Hay algún líder o figura notable involucrado?"
+    mc "¿Hay algún líder o persona destacada implicada?"
 
 # game/code/Book-1/Chapter-5/s06.rpy:206
 translate spanish b1c05s06_continue_ea43dbdb:
 
     # pm "No, there's no discernable ring-leader for either illegal activity, so authorities haven't known who to target."
-    pm "No, no hay un líder perceptible para ninguna actividad ilegal, por lo que las autoridades no saben a quién apuntar."
+    pm "No, no hay un líder visible para ninguna de las dos actividades ilegales, por lo que las autoridades no han sabido a quién vigilar."
 
 # game/code/Book-1/Chapter-5/s06.rpy:208
 translate spanish b1c05s06_continue_0b0c1c85:
 
     # mc "I'll keep that in mind. I'm sure there's something to uncover. I'll cover the bases with this new info and report back."
-    mc "Lo tendré en mente. Estoy seguro de que hay algo que descubrir. Cubriré las bases con esta nueva información e informaré."
+    mc "Lo tendré en cuenta. Seguro que hay algo que pueda descubrir. Cubriré las bases con esta nueva información y te informaré."
 
 # game/code/Book-1/Chapter-5/s06.rpy:209
 translate spanish b1c05s06_continue_3dd47e76:
 
     # mc "I also have a meeting with someone who might lead to more knowledge on Maria's case."
-    mc "También tengo una reunión con alguien que podría conducir a un mayor conocimiento sobre el caso de María."
+    mc "También tengo una reunión con alguien que podría aportar más información sobre el caso de María."
 
 # game/code/Book-1/Chapter-5/s06.rpy:212
 translate spanish b1c05s06_continue_50127757:
 
     # pm "When are you meeting? Maybe I could drive you."
-    pm "¿Cuándo te reunirás? Tal vez podría llevarte."
+    pm "¿Cuándo te reunirás con esa persona? Tal vez podría llevarte."
 
 # game/code/Book-1/Chapter-5/s06.rpy:214
 translate spanish b1c05s06_continue_9b7a03ba:
 
     # mc "Oh, that's not today. I'm meeting her at her apartment, and—"
-    mc "Oh, eso no es hoy. Me reuniré con ella en su apartamento y..."
+    mc "Oh, eso no es hoy. Me reuniré con ella en su departamento y..."
 
 # game/code/Book-1/Chapter-5/s06.rpy:217
 translate spanish b1c05s06_continue_91b96a34:
@@ -316,7 +316,7 @@ translate spanish b1c05s06_continue_5a51973d:
 translate spanish b1c05s06_continue_3b9447b0:
 
     # pm "It's alright, I'm not mad at you or anything. Promise."
-    pm "Está bien, no estoy enojado contigo ni nada. Promesa."
+    pm "Está bien, no estoy enojada contigo ni nada. Lo promesa."
 
 # game/code/Book-1/Chapter-5/s06.rpy:231
 translate spanish b1c05s06_continue_bef1d885:
@@ -334,13 +334,13 @@ translate spanish b1c05s06_continue_ea693ab7:
 translate spanish b1c05s06_continue_4464c53c:
 
     # pm "I trained you to be a cutthroat investigator, and I'm proud of how proficient you are at your work."
-    pm "Te entrené para ser un investigador despiadado y estoy orgulloso de lo competente que eres en tu trabajo."
+    pm "Te entrené para ser un investigador implacable, y estoy orgullosa de lo competente que eres en tu trabajo."
 
 # game/code/Book-1/Chapter-5/s06.rpy:238
 translate spanish b1c05s06_continue_74ad165e:
 
     # mc "We're partners, Phoebe. No matter what form it takes. We're partners."
-    mc "Somos socios, Phoebe. Da igual la forma que adopte. Somos socios."
+    mc "Somos socios, Phoebe. Da igual la forma que tome. Somos compañeros."
 
 # game/code/Book-1/Chapter-5/s06.rpy:244
 translate spanish b1c05s06_continue_6111ca01:
@@ -352,7 +352,7 @@ translate spanish b1c05s06_continue_6111ca01:
 translate spanish b1c05s06_continue_89a30a19:
 
     # pm "Now, enough mushy shit.{w} Get that nice ass out there and do some work. I know you can."
-    pm "Ahora, basta de mierda blanda. {w} Saca ese buen trasero y trabaja un poco. Sé que puedes."
+    pm "Ahora, basta de mierda sensiblera.{w} Mueve ese lindo trasero y haz algo de trabajo. Sé que puedes."
 
 # game/code/Book-1/Chapter-5/s06.rpy:248
 translate spanish b1c05s06_continue_35dce81c:
