@@ -4,7 +4,7 @@
 translate spanish b1c05s04_f68d903b:
 
     # mct "Ah, the nosy faculty advisor."
-    mct "Ah, el entrometido consejero de la facultad."
+    mct "Ah, la consejera entrometida de la facultad."
 
 # game/code/Book-1/Chapter-5/s04.rpy:18
 translate spanish b1c05s04_83f385bb:
@@ -16,7 +16,7 @@ translate spanish b1c05s04_83f385bb:
 translate spanish b1c05s04_8fccedc9:
 
     # dm "[mcname]! I'd like to talk with you."
-    dm "[mcname]! Me gustaría hablar contigo."
+    dm "¡[mcname]! Me gustaría hablar contigo."
 
 # game/code/Book-1/Chapter-5/s04.rpy:24
 translate spanish b1c05s04_99fa2ff1:
@@ -28,31 +28,31 @@ translate spanish b1c05s04_99fa2ff1:
 translate spanish b1c05s04_13b6809f:
 
     # dm "Follow me to my office. We have some school policies to discuss."
-    dm "Sígueme a mi oficina. Tenemos algunas políticas escolares para discutir."
+    dm "Vamos a mi oficina. Tenemos que discutir algunas políticas escolares."
 
 # game/code/Book-1/Chapter-5/s04.rpy:30
 translate spanish b1c05s04_3c3a31f7:
 
     # dm "How've you been adjusting? I hope the other students have been accommodating and helpful."
-    dm "¿Cómo te has estado adaptando? Espero que los otros estudiantes hayan sido complacientes y serviciales."
+    dm "¿Cómo te has estado adaptando? Espero que los demás estudiantes hayan sido amables y serviciales."
 
 # game/code/Book-1/Chapter-5/s04.rpy:33
 translate spanish b1c05s04_58d2b9ad:
 
     # mc "I'm well. My peers are quite neighborly."
-    mc "Estoy bien. Mis compañeros son bastante buenos vecinos."
+    mc "Estoy bien. Mis compañeros son muy buenos vecinos."
 
 # game/code/Book-1/Chapter-5/s04.rpy:34
 translate spanish b1c05s04_7e16215c:
 
     # dm "Glad to hear it. The campus women are in a stir over you."
-    dm "Alegra oírlo. Las mujeres del campus están en un revuelo por ti."
+    dm "Me alegra oírlo. Las mujeres del campus están como locas por ti."
 
 # game/code/Book-1/Chapter-5/s04.rpy:37
 translate spanish b1c05s04_f75090d8:
 
     # mct "What am I supposed to say to that? 'Thanks'? 'Cool'?"
-    mct "¿Qué se supone que debo decir a eso? 'Gracias'? 'Fresco'?"
+    mct "¿Qué se supone que debo decir a eso? ¿'Gracias'? ¿'Genial'?"
 
 # game/code/Book-1/Chapter-5/s04.rpy:38
 translate spanish b1c05s04_a527e69f:
@@ -64,13 +64,13 @@ translate spanish b1c05s04_a527e69f:
 translate spanish b1c05s04_58957d2b:
 
     # dm "Mostly gossip about the new man around. But a few are quite smitten."
-    dm "Sobre todo chismes sobre el nuevo hombre alrededor. Pero algunos están bastante enamorados."
+    dm "La mayoría habla del nuevo chico. Pero algunas están bastante enamoradas."
 
 # game/code/Book-1/Chapter-5/s04.rpy:43
 translate spanish b1c05s04_00a6ec78:
 
     # mc "You sure hear a lot around campus. Some might wonder about the privacy policy around campus."
-    mc "Seguro que escuchas mucho en el campus. Algunos podrían preguntarse acerca de la política de privacidad del campus."
+    mc "Seguro que se oye mucho por todo el campus. Algunos podrían preguntarse sobre la política de privacidad en el campus."
 
 # game/code/Book-1/Chapter-5/s04.rpy:45
 translate spanish b1c05s04_470062f5:
@@ -118,25 +118,25 @@ translate spanish b1c05s04_bb436e64:
 translate spanish b1c05s04_dee7bf44:
 
     # dm "That's a rather abrupt response. What have you gathered about the Winner's Club?"
-    dm "Esa es una respuesta bastante abrupta. ¿Qué has deducido sobre el Winner's Club?"
+    dm "Esa es una respuesta bastante abrupta. ¿Qué has deducido sobre el Club de Ganadores?"
 
 # game/code/Book-1/Chapter-5/s04.rpy:71
 translate spanish b1c05s04_38164251:
 
     # dm "I'm sure you've found something by {i}now{/i}, hm?"
-    dm "Estoy seguro de que has encontrado algo para {i}ahora{/i}, ¿eh?"
+    dm "Estoy segura de que ya habrás encontrado algo."
 
 # game/code/Book-1/Chapter-5/s04.rpy:73
 translate spanish b1c05s04_3990500a:
 
     # mct "I'll just give her basics to soothe her curiosity. Hopefully she doesn't make a habit of this."
-    mct "Solo le daré lo básico para calmar su curiosidad. Esperemos que ella no haga un hábito de esto."
+    mct "Sólo le daré lo básico para calmar su curiosidad. Esperemos que ella no haga un hábito de esto."
 
 # game/code/Book-1/Chapter-5/s04.rpy:76
 translate spanish b1c05s04_df849206:
 
     # mc "I've got a few leads in the fraternity, yes."
-    mc "Tengo algunas pistas en la fraternidad, sí."
+    mc "Tengo algunas pistas de la fraternidad, sí."
 
 # game/code/Book-1/Chapter-5/s04.rpy:77
 translate spanish b1c05s04_f3746e38:
@@ -148,7 +148,7 @@ translate spanish b1c05s04_f3746e38:
 translate spanish b1c05s04_c84bbc61:
 
     # dm "Hm. You might want to investigate the fraternity's mansion. Only the most popular and revered of students are allowed there."
-    dm "Hm. Es posible que desee investigar la mansión de la fraternidad. Solo los estudiantes más populares y venerados pueden ingresar allí."
+    dm "Hm. Es posible que desee investigar la mansión de la fraternidad. Sólo los estudiantes más populares y venerados pueden ingresar allí."
 
 # game/code/Book-1/Chapter-5/s04.rpy:81
 translate spanish b1c05s04_0fe7cbf4:
@@ -166,7 +166,7 @@ translate spanish b1c05s04_6fc63dd0:
 translate spanish b1c05s04_606019db:
 
     # mct "I'm sure she's just trying to look for ways to be helpful. Still, her lack of confidence is a little insulting."
-    mct "Estoy seguro de que solo está tratando de buscar maneras de ser útil. Aún así, su falta de confianza es un poco insultante."
+    mct "Estoy seguro de que sólo intenta buscar formas de ser útil. Aún así, su falta de confianza es un poco insultante."
 
 # game/code/Book-1/Chapter-5/s04.rpy:86
 translate spanish b1c05s04_8edb490c:
@@ -178,7 +178,7 @@ translate spanish b1c05s04_8edb490c:
 translate spanish b1c05s04_a5d95c83:
 
     # dm "The fraternity likes hosting the kind of parties that foster future alcoholics and STDs."
-    dm "A la fraternidad le gusta organizar el tipo de fiestas que fomentan futuros alcohólicos y ETS."
+    dm "A la fraternidad le gusta organizar el tipo de fiestas que fomentan futuros alcohólicos y personas con enfermedades de transmisión sexual."
 
 # game/code/Book-1/Chapter-5/s04.rpy:92
 translate spanish b1c05s04_94751e3d:
@@ -232,7 +232,7 @@ translate spanish b1c05s04_7382c6c3:
 translate spanish b1c05s04_c9e24025:
 
     # dm "There's a girl named Sam De Lange. She's still enrolled here, but fairly reclusive. She would probably know something."
-    dm "Hay una chica llamada Sam De Lange. Todavía está inscrita aquí, pero bastante solitaria. Probablemente sabría algo."
+    dm "Hay una chica llamada Sam De Lange. Todavía está inscrita aquí, pero es bastante solitaria. Probablemente sabría algo."
 
 # game/code/Book-1/Chapter-5/s04.rpy:112
 translate spanish b1c05s04_d686b018:
@@ -244,7 +244,7 @@ translate spanish b1c05s04_d686b018:
 translate spanish b1c05s04_43faa2f8:
 
     # mct "That mansion sounds like some sort of inner circle... They sound closer knit than I originally thought."
-    mct "Esa mansión suena como una especie de círculo interno... Suenan más unidos de lo que pensé originalmente."
+    mct "Esa mansión suena como una especie de círculo íntimo... Suenan más unidos de lo que pensé originalmente."
 
 # game/code/Book-1/Chapter-5/s04.rpy:116
 translate spanish b1c05s04_8ce53b61:
@@ -292,13 +292,13 @@ translate spanish b1c05s04_1ff66b8c:
 translate spanish b1c05s04_7b5c65c0:
 
     # dm "Isn't there anything I can do to make you feel more comfortable?"
-    dm "¿No hay nada que pueda hacer para que te sientas más cómoda?"
+    dm "¿No hay nada que pueda hacer para que te sientas más cómodo?"
 
 # game/code/Book-1/Chapter-5/s04.rpy:134
 translate spanish b1c05s04_f5a8285f:
 
     # mc "I don't know, Ms. Mills. There's quite a few rules that the academy instilled in me. One of them was being tight-lipped."
-    mc "No lo sé, Sra. Mills. Hay bastantes reglas que la academia me inculcó. Uno de ellos estaba siendo hermético."
+    mc "No lo sé, Srta. Mills. Hay bastantes reglas que la academia me inculcó. Una de ellas era ser reservado."
 
 # game/code/Book-1/Chapter-5/s04.rpy:141
 translate spanish b1c05s04_e9f89638:
@@ -316,7 +316,7 @@ translate spanish b1c05s04_11d6a7b6:
 translate spanish b1c05s04_8c91cca2:
 
     # rh "My name is Ronja Hopkins. I'm the chancellor and a professor at Vinovella University."
-    rh "Mi nombre es Ronja Hopkins. Soy rector y profesor de la Universidad Vinovella."
+    rh "Mi nombre es Ronja Hopkins. Soy la rectora y profesora de la Universidad Vinovella."
 
 # game/code/Book-1/Chapter-5/s04.rpy:158
 translate spanish b1c05s04_5d3b23be:
@@ -328,7 +328,7 @@ translate spanish b1c05s04_5d3b23be:
 translate spanish b1c05s04_25bd2a45:
 
     # mc "Yes, we did. I'm the new transfer."
-    mc "Si lo hicimos. Soy la nueva transferencia."
+    mc "Sí, así es. Soy el nuevo trasferido."
 
 # game/code/Book-1/Chapter-5/s04.rpy:163
 translate spanish b1c05s04_afc94a4e:
@@ -346,7 +346,7 @@ translate spanish b1c05s04_338a6647:
 translate spanish b1c05s04_927479f2:
 
     # rh "I need to speak with you, actually."
-    rh "Necesito hablar contigo, en realidad."
+    rh "De hecho, necesito hablar contigo."
 
 # game/code/Book-1/Chapter-5/s04.rpy:172
 translate spanish b1c05s04_90cd24dc:
@@ -364,13 +364,13 @@ translate spanish b1c05s04_4a2c549f:
 translate spanish b1c05s04_ee189900:
 
     # rh "I hate to be a bother, Diana. But my matter is time-sensitive."
-    rh "Odio ser una molestia, Diana. Pero mi asunto es sensible al tiempo."
+    rh "Odio ser una molestia, Diana. Pero mi asunto es urgente."
 
 # game/code/Book-1/Chapter-5/s04.rpy:179
 translate spanish b1c05s04_e4d0885b:
 
     # dm "Fine. [mcname], you're dismissed."
-    dm "Bien. [mcname], estás despedido."
+    dm "Bien. [mcname], puedes retirarte."
 
 # game/code/Book-1/Chapter-5/s04.rpy:182
 translate spanish b1c05s04_fd6f5743:
@@ -382,19 +382,19 @@ translate spanish b1c05s04_fd6f5743:
 translate spanish b1c05s04_dd1a780e:
 
     # mct "Shit, she kept me a bit longer than I expected. Thankfully, Phoebe didn't contact me while I was occupied."
-    mct "Mierda, me retuvo un poco más de lo que esperaba. Afortunadamente, Phoebe no me contactó mientras estaba ocupada."
+    mct "Mierda, me retuvo un poco más de lo que esperaba. Afortunadamente, Phoebe no me contactó mientras estaba ocupado."
 
 # game/code/Book-1/Chapter-5/s04.rpy:191
 translate spanish b1c05s04_0662bdb1:
 
     # rh "Hah! Still up to your old {i}desperate{/i} ways, it seems."
-    rh "¡Ja! Al parecer, todavía estás a la altura de tus antiguas formas {i}desesperadas{/i}."
+    rh "¡Ja! Todavía estás a la altura de tus antiguas y {i}desesperadas{/i} costumbres, por lo que parece."
 
 # game/code/Book-1/Chapter-5/s04.rpy:194
 translate spanish b1c05s04_32302a2c:
 
     # mct "I can still hear them talking..."
-    mct "Todavía los escucho hablar..."
+    mct "Todavía las escucho hablar..."
 
 # game/code/Book-1/Chapter-5/s04.rpy:200
 translate spanish b1c05s04_bbb7aee8:
@@ -406,19 +406,19 @@ translate spanish b1c05s04_bbb7aee8:
 translate spanish b1c05s04_a6168832:
 
     # rh "We don't pay you to hit on students, Diana."
-    rh "No te pagamos para coquetear con estudiantes, Diana."
+    rh "No te pagamos para coquetear con los estudiantes, Diana."
 
 # game/code/Book-1/Chapter-5/s04.rpy:206
 translate spanish b1c05s04_371e9f40:
 
     # dm "You're one to talk, Ronja. Like you haven't fucked and hushed countless students here before."
-    dm "Eres uno para hablar, Ronja. Como si no hubieras jodido y silenciado a innumerables estudiantes aquí antes."
+    dm "Eres una habladora, Ronja. Como si no hubieras follado y silenciado a innumerables estudiantes aquí antes."
 
 # game/code/Book-1/Chapter-5/s04.rpy:209
 translate spanish b1c05s04_9015eeea:
 
     # rh "Well at least I've never been {i}caught{/i}."
-    rh "Bueno, al menos nunca he sido {i}atrapado{/i}."
+    rh "Bueno, al menos nunca he sido {i}atrapada{/i}."
 
 # game/code/Book-1/Chapter-5/s04.rpy:210
 translate spanish b1c05s04_be0ad010:
@@ -436,25 +436,25 @@ translate spanish b1c05s04_26c745b1:
 translate spanish b1c05s04_33376661:
 
     # dm "What did you even come here for? Just to spoil my fun?"
-    dm "¿Para qué viniste aquí? ¿Solo para estropear mi diversión?"
+    dm "¿Para qué viniste aquí? ¿Sólo para arruinar mi diversión?"
 
 # game/code/Book-1/Chapter-5/s04.rpy:217
 translate spanish b1c05s04_3ffa0f1b:
 
     # rh "Oh, forget about what I originally came here for. I don't want to spoil your fun."
-    rh "Oh, olvídate de por qué vine aquí originalmente. No quiero estropear tu diversión."
+    rh "Oh, olvídate de por qué vine aquí originalmente. No quiero arruinar tu diversión."
 
 # game/code/Book-1/Chapter-5/s04.rpy:218
 translate spanish b1c05s04_b7c2185c:
 
     # rh "I want to heighten it. Allow me to propose a challenge, Diana..."
-    rh "Quiero aumentarlo. Permíteme proponerte un reto, Diana..."
+    rh "Quiero aumentarla. Permíteme proponerte un reto, Diana..."
 
 # game/code/Book-1/Chapter-5/s04.rpy:221
 translate spanish b1c05s04_aee7c51a:
 
     # dm "How so?"
-    dm "¿Cómo es eso?"
+    dm "¿Qué quieres decir?"
 
 # game/code/Book-1/Chapter-5/s04.rpy:224
 translate spanish b1c05s04_34517b2f:
@@ -472,25 +472,25 @@ translate spanish b1c05s04_067f5cb5:
 translate spanish b1c05s04_9b0fb33a:
 
     # rh "I bet I can seduce and fuck that hot student before you."
-    rh "Apuesto a que puedo seducir y follar a ese estudiante caliente antes que tú."
+    rh "Apuesto a que puedo seducir y follar a ese estudiante sexy antes que tú."
 
 # game/code/Book-1/Chapter-5/s04.rpy:233
 translate spanish b1c05s04_99ee1efd:
 
     # rh "I bet I can wrap him around my finger and make him my little boy toy first."
-    rh "Apuesto a que puedo envolverlo alrededor de mi dedo y convertirlo en mi juguete de niño primero."
+    rh "Apuesto a que puedo envolverlo alrededor de mi dedo y convertirlo primero en mi pequeño juguete."
 
 # game/code/Book-1/Chapter-5/s04.rpy:234
 translate spanish b1c05s04_e3e5f14a:
 
     # rh "Why don't we see who the best woman {i}really{/i} is?"
-    rh "¿Por qué no vemos quién es la mejor mujer {i}realmente{/i}?"
+    rh "¿Por qué no vemos quién es {i}la mejor mujer{/i}?"
 
 # game/code/Book-1/Chapter-5/s04.rpy:237
 translate spanish b1c05s04_775154ab:
 
     # dm "You wish, you delusional old coot."
-    dm "Ya lo deseas, viejo idiota delirante."
+    dm "Ya te gustaría, vieja bruja hipócrita."
 
 # game/code/Book-1/Chapter-5/s04.rpy:238
 translate spanish b1c05s04_4c63ec9e:
