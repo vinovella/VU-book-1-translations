@@ -16,19 +16,19 @@ translate spanish b1c05s07_3d5dad3e:
 translate spanish b1c05s07_43180039:
 
     # rh "[mcname]!"
-    rh "[mcname]!"
+    rh "¡[mcname]!"
 
 # game/code/Book-1/Chapter-5/s07.rpy:34
 translate spanish b1c05s07_e32731e7:
 
     # mc "Ms. Hopkins, I'm so sorry. Let me help."
-    mc "Sra. Hopkins, lo siento mucho. Déjame ayudar."
+    mc "Sra. Hopkins, lo siento mucho. Déjeme ayudar."
 
 # game/code/Book-1/Chapter-5/s07.rpy:37
 translate spanish b1c05s07_f0bfb77f:
 
     # rh "It's okay. I should've been more careful."
-    rh "Está bien. Debería haber sido más cuidadoso."
+    rh "Está bien. Debería haber sido más cuidadosa."
 
 # game/code/Book-1/Chapter-5/s07.rpy:50
 translate spanish b1c05s07_ef0ad0b8:
@@ -40,7 +40,7 @@ translate spanish b1c05s07_ef0ad0b8:
 translate spanish b1c05s07_094fb25f:
 
     # rh "I'm happy I ran into you actually."
-    rh "Estoy feliz de haberme encontrado contigo en realidad."
+    rh "Me alegro de haberme encontrado contigo."
 
 # game/code/Book-1/Chapter-5/s07.rpy:57
 translate spanish b1c05s07_f6adfcba:
@@ -58,7 +58,7 @@ translate spanish b1c05s07_0acc8671:
 translate spanish b1c05s07_7da95034:
 
     # mct "What grades? I haven't even sat on an exam yet."
-    mct "¿Qué grados? Ni siquiera me he sentado en un examen todavía."
+    mct "¿Qué calificaciones? Ni siquiera he hecho un examen."
 
 # game/code/Book-1/Chapter-5/s07.rpy:65
 translate spanish b1c05s07_56e8300e:
@@ -70,7 +70,7 @@ translate spanish b1c05s07_56e8300e:
 translate spanish b1c05s07_5f95d361:
 
     # rh "No, no! In fact, you're doing {i}very well{/i}."
-    rh "¡No no! De hecho, lo estás haciendo {i}muy bien{/i}."
+    rh "¡No, no! De hecho, lo estás haciendo {i}muy bien{/i}."
 
 # game/code/Book-1/Chapter-5/s07.rpy:69
 translate spanish b1c05s07_9998a85c:
@@ -82,13 +82,13 @@ translate spanish b1c05s07_9998a85c:
 translate spanish b1c05s07_1fa25b67:
 
     # rh "It's always a {i}pleasure{/i} to see such brilliant students come in."
-    rh "Siempre es un {i}placer{/i} ver entrar a estudiantes tan brillantes."
+    rh "Siempre es un {i}placer{/i} recibir estudiantes tan brillantes."
 
 # game/code/Book-1/Chapter-5/s07.rpy:73
 translate spanish b1c05s07_4b6a49bc:
 
     # rh "Which is why I wanted to talk with you about entering one of our advanced programs."
-    rh "Por eso quería hablar contigo sobre cómo ingresar a uno de nuestros programas avanzados."
+    rh "Por eso quería hablar contigo sobre la posibilidad de entrar en uno de nuestros programas avanzados."
 
 # game/code/Book-1/Chapter-5/s07.rpy:76
 translate spanish b1c05s07_78ed294e:
@@ -100,7 +100,7 @@ translate spanish b1c05s07_78ed294e:
 translate spanish b1c05s07_5f919acb:
 
     # mc "I...uh, sur—"
-    mc "Yo... eh, sur—"
+    mc "Yo... eh..."
 
 # game/code/Book-1/Chapter-5/s07.rpy:82
 translate spanish b1c05s07_8ca894d1:
@@ -112,7 +112,7 @@ translate spanish b1c05s07_8ca894d1:
 translate spanish b1c05s07_6b2cf538:
 
     # rh "Try to keep up, sweetheart. I'm as fast as I am clumsy. *Chuckles*"
-    rh "Intenta seguir el ritmo, cariño. Soy tan rápido como torpe. *Risas*"
+    rh "Intenta seguir el ritmo, cariño. Soy tan rápida como torpe. *Risas*"
 
 # game/code/Book-1/Chapter-5/s07.rpy:88
 translate spanish b1c05s07_c175dfa8:
@@ -130,19 +130,19 @@ translate spanish b1c05s07_99e96f43:
 translate spanish b1c05s07_e83dd006:
 
     # mct "I'm unsure of how I should proceed, here. I don't really want to piss the chancellor of the university off..."
-    mct "No estoy seguro de cómo debo proceder, aquí. Realmente no quiero cabrear al rector de la universidad..."
+    mct "No estoy seguro de cómo debo proceder. No quiero hacer enojar a la rectora de la universidad..."
 
 # game/code/Book-1/Chapter-5/s07.rpy:100
 translate spanish b1c05s07_f3c73e57:
 
     # mct "I suppose being buddy-buddy with her might be beneficial. I'll just hear her out."
-    mct "Supongo que ser amigo de ella podría ser beneficioso. Solo la escucharé."
+    mct "Supongo que ser amigo de ella podría ser beneficioso. Sólo la escucharé."
 
 # game/code/Book-1/Chapter-5/s07.rpy:108
 translate spanish b1c05s07_d1ae737a:
 
     # rh "I just want to make sure we're not disturbed, you see. Students and other professors can be rather nosy sometimes."
-    rh "Sólo quiero asegurarme de que no nos molesten, ¿sabes? Los estudiantes y otros profesores pueden ser bastante entrometidos a veces."
+    rh "Sólo quiero asegurarme de que no nos molesten. Los estudiantes y otros profesores pueden ser bastante entrometidos a veces."
 
 # game/code/Book-1/Chapter-5/s07.rpy:111
 translate spanish b1c05s07_1bf60051:
@@ -178,31 +178,31 @@ translate spanish b1c05s07_e6565ef0:
 translate spanish b1c05s07_8c1dbf86:
 
     # mc "I can handle myself."
-    mc "Yo puedo apañarmelas solo."
+    mc "Yo puedo arreglármelas por mi cuenta."
 
 # game/code/Book-1/Chapter-5/s07.rpy:128
 translate spanish b1c05s07_6376d571:
 
     # rh "Oh, I'm sure you can. Have you applied to any of the sports clubs that we have available here?"
-    rh "Oh, estoy seguro de que puedes. ¿Has aplicado a alguno de los clubes deportivos que tenemos disponibles aquí?"
+    rh "Estoy segura de que puede hacerlo. ¿Has presentado una solicitud a alguno de los clubes deportivos que tenemos disponibles aquí?"
 
 # game/code/Book-1/Chapter-5/s07.rpy:131
 translate spanish b1c05s07_c53f255b:
 
     # mc "I have actually. I've applied to the volleyball club."
-    mc "tengo en realidad. Me he postulado para el club de voleibol."
+    mc "De hecho, sí. Me he inscrito en el club de voleibol."
 
 # game/code/Book-1/Chapter-5/s07.rpy:134
 translate spanish b1c05s07_fab0c8b1:
 
     # rh "Oh? That's good to hear! It's a very prestigious club."
-    rh "¿Oh? ¡Eso es bueno escuchar! Es un club muy prestigioso."
+    rh "¿Oh? ¡Es bueno oír eso! Es un club muy prestigioso."
 
 # game/code/Book-1/Chapter-5/s07.rpy:135
 translate spanish b1c05s07_348a3a6f:
 
     # rh "I'm sure you'd be a wonderful asset."
-    rh "Estoy seguro de que serías un activo maravilloso."
+    rh "Estoy segura de que serías un activo maravilloso."
 
 # game/code/Book-1/Chapter-5/s07.rpy:138
 translate spanish b1c05s07_ad888ad6:
@@ -214,13 +214,13 @@ translate spanish b1c05s07_ad888ad6:
 translate spanish b1c05s07_944480f5:
 
     # rh "A big strong man like you wouldn't mind me sitting on your lap, would you?"
-    rh "A un hombre grande y fuerte como tú no le importaría que me sentara en tu regazo, ¿verdad?"
+    rh "A un hombre grande y fuerte como tú no le importaría que me siente en su regazo, ¿verdad?"
 
 # game/code/Book-1/Chapter-5/s07.rpy:148
 translate spanish b1c05s07_e73cbee8:
 
     # rh "My legs are so tired after a day of walking around this campus. No rest for the wicked and all that."
-    rh "Mis piernas están tan cansadas después de un día de caminar por este campus. No hay descanso para los malvados y todo eso."
+    rh "Mis piernas están tan cansadas después de pasar todo el día caminando por este campus. No hay descanso para los malvados y todo eso."
 
 # game/code/Book-1/Chapter-5/s07.rpy:149
 translate spanish b1c05s07_22f5d9e5:
@@ -256,7 +256,7 @@ translate spanish b1c05s07_246ed554:
 translate spanish b1c05s07_8bafefa1:
 
     # "You grip Ronja's thighs, digging your fingers into her soft skin. Her hands push firmly into yours, urging you to take as much as you want, touch where you want."
-    "Agarras los muslos de Ronja, hundiendo tus dedos en su piel suave. Sus manos empujan firmemente las tuyas, instándote a tomar todo lo que quieras, tocar donde quieras."
+    "Agarras los muslos de Ronja, hundiendo tus dedos en su piel suave. Sus manos empujan firmemente las tuyas, instándote a tomar todo lo que quieras, y a tocar donde quieras."
 
 # game/code/Book-1/Chapter-5/s07.rpy:170
 translate spanish b1c05s07_c6e10f95:
@@ -274,7 +274,7 @@ translate spanish b1c05s07_dde5bfb6:
 translate spanish b1c05s07_d692870b:
 
     # "You slide your hands up Ronja's thighs, savoring the feeling of her skin on your fingertips. When your hands reach her hips, you dig your fingertips into her skin there, and press her down onto you."
-    "Deslizas tus manos por los muslos de Ronja, saboreando la sensación de su piel en la punta de tus dedos. Cuando tus manos alcanzan sus caderas, clavas las yemas de los dedos en su piel allí y la presionas contra ti."
+    "Deslizas tus manos por los muslos de Ronja, saboreando la sensación de su piel en la punta de tus dedos. Cuando tus manos alcanzan sus caderas, clavas las yemas de los dedos en su piel y la presionas contra ti."
 
 # game/code/Book-1/Chapter-5/s07.rpy:179
 translate spanish b1c05s07_b0d8bf17:
@@ -286,7 +286,7 @@ translate spanish b1c05s07_b0d8bf17:
 translate spanish b1c05s07_868f7bd8:
 
     # "The sound is intoxicating, to have that kind of effect on a woman who wants you so badly."
-    "El sonido es embriagador, para tener ese tipo de efecto en una mujer que te desea tanto."
+    "El sonido es embriagador, tener ese tipo de efecto en una mujer que te desea tanto."
 
 # game/code/Book-1/Chapter-5/s07.rpy:186
 translate spanish b1c05s07_f8a89839:
@@ -304,19 +304,19 @@ translate spanish b1c05s07_d6528adf:
 translate spanish b1c05s07_4ec6a496:
 
     # mct "Fuck, she left a spot on me..."
-    mct "Joder, me dejó una mancha..."
+    mct "Mierda, me dejó una mancha..."
 
 # game/code/Book-1/Chapter-5/s07.rpy:197
 translate spanish b1c05s07_166af863:
 
     # dm "Ronja? Why was the do—"
-    dm "¿Ronja? ¿Por qué fue el do-"
+    dm "¿Ronja? ¿Por qué fue el..."
 
 # game/code/Book-1/Chapter-5/s07.rpy:200
 translate spanish b1c05s07_0291e51c:
 
     # dm "Ah."
-    dm "ah"
+    dm "Ah"
 
 # game/code/Book-1/Chapter-5/s07.rpy:202
 translate spanish b1c05s07_4a7c2946:
@@ -340,13 +340,13 @@ translate spanish b1c05s07_a38ebc0e:
 translate spanish b1c05s07_5644aa12:
 
     # mc "Yes, we were just discussing advanced courses."
-    mc "Sí, solo estábamos discutiendo cursos avanzados."
+    mc "Sí, estábamos hablando de cursos avanzados."
 
 # game/code/Book-1/Chapter-5/s07.rpy:219
 translate spanish b1c05s07_368adb5e:
 
     # rh "I simply wanted to be the first to stoke that flame and make him rise even higher."
-    rh "Simplemente quería ser el primero en avivar esa llama y hacerlo subir aún más alto."
+    rh "Simplemente quería ser la primera en avivar esa llama y hacerlo subir aún más alto."
 
 # game/code/Book-1/Chapter-5/s07.rpy:222
 translate spanish b1c05s07_4965ac8d:
@@ -358,13 +358,13 @@ translate spanish b1c05s07_4965ac8d:
 translate spanish b1c05s07_b724e6a7:
 
     # mct "I thought that seducing the chancellor would be a good way to get access to information on students, but Diana has other plans..."
-    mct "Pensé que seducir al rector sería una buena forma de acceder a la información de los estudiantes, pero Diana tiene otros planes..."
+    mct "Pensé que seducir a la rectora sería una buena forma de acceder a la información de los estudiantes, pero Diana tiene otros planes..."
 
 # game/code/Book-1/Chapter-5/s07.rpy:224
 translate spanish b1c05s07_8a531fde:
 
     # mct "This feud between them goes far deeper than I originally thought."
-    mct "Esta enemistad entre ellos es mucho más profunda de lo que pensé originalmente."
+    mct "Esta enemistad entre ellas es mucho más profunda de lo que me imaginaba."
 
 # game/code/Book-1/Chapter-5/s07.rpy:227
 translate spanish b1c05s07_755f63ce:
@@ -382,7 +382,7 @@ translate spanish b1c05s07_decf3d5e:
 translate spanish b1c05s07_ee1a9a21:
 
     # mc "Diana, I was just interested in the advanced courses. I figured it could help me along my {i}path{/i}, y'know?"
-    mc "Diana, solo me interesaban los cursos avanzados. Pensé que podría ayudarme en mi {i}camino{/i}, ¿sabes?"
+    mc "Diana, sólo me interesaban los cursos avanzados. Pensé que podría ayudarme en mi {i}camino{/i}, ¿sabes?"
 
 # game/code/Book-1/Chapter-5/s07.rpy:233
 translate spanish b1c05s07_8225140d:
@@ -394,7 +394,7 @@ translate spanish b1c05s07_8225140d:
 translate spanish b1c05s07_0f8afa30:
 
     # rh "See? Even he enjoyed our private meeting."
-    rh "¿Ver? Incluso él disfrutó de nuestra reunión privada."
+    rh "¿Ves? Incluso él disfrutó de nuestra reunión privada."
 
 # game/code/Book-1/Chapter-5/s07.rpy:238
 translate spanish b1c05s07_5c347a7f:
@@ -412,13 +412,13 @@ translate spanish b1c05s07_8f68072c:
 translate spanish b1c05s07_01abecc8:
 
     # dm "I am his faculty advisor, after all."
-    dm "Soy su consejero de la facultad, después de todo."
+    dm "Después de todo, soy su consejera."
 
 # game/code/Book-1/Chapter-5/s07.rpy:245
 translate spanish b1c05s07_1d00d3aa:
 
     # rh "Not at all. Go ahead. I'm sure [mcname] would be fine with that, yes?"
-    rh "De nada. Adelante. Estoy seguro de que [mcname] estaría bien con eso, ¿no?"
+    rh "De nada. Adelante. Estoy segura de que [mcname] estaría bien con eso, ¿no?"
 
 # game/code/Book-1/Chapter-5/s07.rpy:247
 translate spanish b1c05s07_f4c901a0:
