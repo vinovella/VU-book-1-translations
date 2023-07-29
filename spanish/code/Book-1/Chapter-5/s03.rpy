@@ -22,7 +22,7 @@ translate spanish b1c05s03_2e4fd7ab:
 translate spanish b1c05s03_e082cabf:
 
     # mct "I'll stick with the cooking class explanation I came up with last time. I'm just a college student taking cooking classes."
-    mct "Me quedaré con la explicación de la clase de cocina que se me ocurrió la última vez. Solo soy un estudiante universitario tomando clases de cocina."
+    mct "Me quedaré con la explicación de la clase de cocina que se me ocurrió la última vez. Sólo soy un estudiante universitario tomando clases de cocina."
 
 # game/code/Book-1/Chapter-5/s03.rpy:20
 translate spanish b1c05s03_66214ea9:
@@ -52,19 +52,19 @@ translate spanish b1c05s03_538af580:
 translate spanish b1c05s03_fbacb4fc:
 
     # sd "Is there a specific weight you're looking for?"
-    sd "¿Hay un peso específico que estás buscando?"
+    sd "¿Estás buscando alguna cantidad en concreto?"
 
 # game/code/Book-1/Chapter-5/s03.rpy:39
 translate spanish b1c05s03_0b26bf2f:
 
     # mc "Nah. I just need something for my cooking class. I need two."
-    mc "No. Sólo necesito algo para mi clase de cocina. necesito dos"
+    mc "No. Sólo necesito algo para mi clase de cocina. necesito dos."
 
 # game/code/Book-1/Chapter-5/s03.rpy:43
 translate spanish b1c05s03_0bb7ec52:
 
     # gd "Ah! A friendly face. What'll the young man have today, Sally?"
-    gd "¡Ay! Una cara amiga. ¿Qué tendrá el joven hoy, Sally?"
+    gd "¡Ah! Una cara amiga. ¿Qué pedirá el joven hoy, Sally?"
 
 # game/code/Book-1/Chapter-5/s03.rpy:46
 translate spanish b1c05s03_574c3754:
@@ -76,7 +76,7 @@ translate spanish b1c05s03_574c3754:
 translate spanish b1c05s03_53c852cb:
 
     # gd "Comin' right up, kiddo."
-    gd "Comin 'a la derecha, chico."
+    gd "Enseguida, niño."
 
 # game/code/Book-1/Chapter-5/s03.rpy:51
 translate spanish b1c05s03_9a98a5e8:
@@ -112,7 +112,7 @@ translate spanish b1c05s03_1dde16aa:
 translate spanish b1c05s03_9043d5a8:
 
     # sd "Take some unsolicited advice; stay in school."
-    sd "Tome algunos consejos no solicitados; permanece en la escuela."
+    sd "Acepta un consejo que no me has pedido: sigue estudiando."
 
 # game/code/Book-1/Chapter-5/s03.rpy:67
 translate spanish b1c05s03_a4653830:
@@ -148,13 +148,13 @@ translate spanish b1c05s03_e91884f6:
 translate spanish b1c05s03_2fb06af0:
 
     # sd "*chuckles* Well, I used to attend them. I like to stay updated on local seminars or support groups."
-    sd "*risitas* Bueno, yo solía asistir a ellos. Me gusta estar actualizado sobre seminarios locales o grupos de apoyo."
+    sd "*risitas* Bueno, solía asistir a ellos. Me gusta estar al día sobre los seminarios locales o los grupos de apoyo."
 
 # game/code/Book-1/Chapter-5/s03.rpy:82
 translate spanish b1c05s03_c098e6e8:
 
     # sd "It's nice to hear those ones are still around, in a way."
-    sd "Es bueno escuchar que esos todavía están por aquí, en cierto modo."
+    sd "En cierto modo, es agradable oír que esos siguen por aquí."
 
 # game/code/Book-1/Chapter-5/s03.rpy:84
 translate spanish b1c05s03_dd26a554:
@@ -190,7 +190,7 @@ translate spanish b1c05s03_b2b9e19d:
 translate spanish b1c05s03_29064b05:
 
     # sd "I shouldn't say more... I don't want to get caught up in anything."
-    sd "No debería decir más... No quiero quedar atrapado en nada."
+    sd "No debería decir más... No quiero quedar envuelta en algo."
 
 # game/code/Book-1/Chapter-5/s03.rpy:96
 translate spanish b1c05s03_0389fb30:
@@ -232,13 +232,13 @@ translate spanish b1c05s03_fa0a8e81:
 translate spanish b1c05s03_828473fe:
 
     # sd "I'd be willing to discuss the group in further detail in the future."
-    sd "Estaría dispuesto a discutir el grupo con más detalle en el futuro."
+    sd "Estaría dispuesta a hablar sobre el grupo con más detalle en el futuro."
 
 # game/code/Book-1/Chapter-5/s03.rpy:117
 translate spanish b1c05s03_44d5fb0d:
 
     # gd "The ribs are ready to go."
-    gd "Las costillas están listas para usar."
+    gd "Las costillas están listas."
 
 # game/code/Book-1/Chapter-5/s03.rpy:121
 translate spanish b1c05s03_45ab2157:
@@ -256,19 +256,19 @@ translate spanish b1c05s03_5fed6b4c:
 translate spanish b1c05s03_b0007872:
 
     # gd "Sure thing!"
-    gd "¡Cosa segura!"
+    gd "¡Por supuesto!"
 
 # game/code/Book-1/Chapter-5/s03.rpy:130
 translate spanish b1c05s03_38258c58:
 
     # gd "Have a good day, kiddo."
-    gd "Que tengas un buen día, chico."
+    gd "Que tengas un buen día, niño."
 
 # game/code/Book-1/Chapter-5/s03.rpy:133
 translate spanish b1c05s03_2d825a13:
 
     # sd "Come again!"
-    sd "¡Llegar de nuevo!"
+    sd "¡Vuelve otra vez!"
 
 # game/code/Book-1/Chapter-5/s03.rpy:140
 translate spanish b1c05s03_67b11055:
