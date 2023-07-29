@@ -10,7 +10,7 @@ translate spanish b1c05s05_6e1dbd5b:
 translate spanish b1c05s05_ee1dc9af:
 
     # mc "I've been around. Took the day off from classes and wandered around town for a bit."
-    mc "he estado alrededor Se tomó el día libre de clases y deambuló un rato por la ciudad."
+    mc "He estado por aquí. Me he tomado el día libre y he paseado un poco por la ciudad."
 
 # game/code/Book-1/Chapter-5/s05.rpy:28
 translate spanish b1c05s05_393b0248:
@@ -34,13 +34,13 @@ translate spanish b1c05s05_eaaa5955:
 translate spanish b1c05s05_04e80ab8:
 
     # jh "I feel okay. My throat is a little sore from choking on pool water. But other than that, I'm fine."
-    jh "me siento bien Me duele un poco la garganta por atragantarme con el agua de la piscina. Pero aparte de eso, estoy bien."
+    jh "Me encuentro bien. Me duele un poco la garganta por haberme atragantado con el agua de la piscina. Pero aparte de eso, estoy bien."
 
 # game/code/Book-1/Chapter-5/s05.rpy:39
 translate spanish b1c05s05_abb96135:
 
     # mc "That's good to hear."
-    mc "Eso es bueno escuchar."
+    mc "Me alegro de oírlo."
 
 # game/code/Book-1/Chapter-5/s05.rpy:41
 translate spanish b1c05s05_494cf79f:
@@ -58,7 +58,7 @@ translate spanish b1c05s05_60e47831:
 translate spanish b1c05s05_774e071e:
 
     # jh "So it's just you and me for now."
-    jh "Así que solo somos tú y yo por ahora."
+    jh "Así que por ahora sólo somos tú y yo."
 
 # game/code/Book-1/Chapter-5/s05.rpy:48
 translate spanish b1c05s05_eac0093d:
@@ -70,7 +70,7 @@ translate spanish b1c05s05_eac0093d:
 translate spanish b1c05s05_37efce22:
 
     # jh "No, no. I'm done for now."
-    jh "No no. He terminado por ahora."
+    jh "No, no. He terminado por ahora."
 
 # game/code/Book-1/Chapter-5/s05.rpy:53
 translate spanish b1c05s05_66627cba:
@@ -130,7 +130,7 @@ translate spanish b1c05s05_9d8f60ac:
 translate spanish b1c05s05_8ce74362:
 
     # mct "Phoebe told me to tell Josie my name change was related to a bad past with my family member..."
-    mct "Phoebe me dijo que le dijera a Josie que mi cambio de nombre estaba relacionado con un mal pasado con un miembro de mi familia..."
+    mct "Phoebe me dijo que le dijera a Josie que mi cambio de nombre estaba relacionado a un pasado desagradable con un familiar..."
 
 # game/code/Book-1/Chapter-5/s05.rpy:78
 translate spanish b1c05s05_a2d6c8ca:
@@ -160,19 +160,19 @@ translate spanish b1c05s05_65bf1171:
 translate spanish b1c05s05_f7802034:
 
     # jh "How's your mom? Did they separate?"
-    jh "¿Como esta tu madre? ¿Se separaron?"
+    jh "¿Cómo está tu madre? ¿Se separaron?"
 
 # game/code/Book-1/Chapter-5/s05.rpy:91
 translate spanish b1c05s05_e2014b90:
 
     # mc "Yeah, they did. He's out of the picture now. For the most part."
-    mc "Sí, lo hicieron. Está fuera de escena ahora. En la mayor parte."
+    mc "Sí, lo hicieron. Él está ahora fuera de su vida. En su mayor parte."
 
 # game/code/Book-1/Chapter-5/s05.rpy:92
 translate spanish b1c05s05_8b9cb5d3:
 
     # mc "But yeah. I didn't want to share a name with him anymore. So I changed it."
-    mc "Pero sí. Ya no quería compartir un nombre con él. Así que lo cambié."
+    mc "Pero sí. Ya no quería compartir un nombre con él. Así que me lo cambié."
 
 # game/code/Book-1/Chapter-5/s05.rpy:95
 translate spanish b1c05s05_af14d894:
@@ -202,13 +202,13 @@ translate spanish b1c05s05_7614a68b:
 translate spanish b1c05s05_87d190b5:
 
     # jh "I'm sure it's for the best. You'll find people who are good, and treat you well."
-    jh "Estoy seguro de que es lo mejor. Encontrarás personas que son buenas y te tratan bien."
+    jh "Estoy segura de que es lo mejor. Encontrarás personas que son buenas y te tratan bien."
 
 # game/code/Book-1/Chapter-5/s05.rpy:107
 translate spanish b1c05s05_7b32f227:
 
     # mc "Thanks, Josie. You're a good friend."
-    mc "Gracias, Josi. Eres un buen amigo."
+    mc "Gracias, Josi. Eres una buena amiga"
 
 # game/code/Book-1/Chapter-5/s05.rpy:114
 translate spanish b1c05s05_f2e4150d:
@@ -220,7 +220,7 @@ translate spanish b1c05s05_f2e4150d:
 translate spanish b1c05s05_3a8b56d8:
 
     # mc "Don't be. We've known each other for a long time. It's understandable you'd be curious."
-    mc "no seas Nos conocemos desde hace mucho tiempo. Es comprensible que tengas curiosidad."
+    mc "No te preocupes. Nos conocemos desde hace mucho tiempo. Es normal que sientas curiosidad."
 
 # game/code/Book-1/Chapter-5/s05.rpy:120
 translate spanish b1c05s05_08b26dda:
@@ -232,7 +232,7 @@ translate spanish b1c05s05_08b26dda:
 translate spanish b1c05s05_32ebf15b:
 
     # jh "Regardless of the stupid crush stuff, you were always so inclusive and kind to me."
-    jh "Independientemente de las cosas estúpidas del enamoramiento, siempre fuiste tan inclusivo y amable conmigo."
+    jh "Independientemente de los estúpidos enamoramientos, siempre fuiste tan inclusivo y amable conmigo."
 
 # game/code/Book-1/Chapter-5/s05.rpy:123
 translate spanish b1c05s05_b480b828:
@@ -244,7 +244,7 @@ translate spanish b1c05s05_b480b828:
 translate spanish b1c05s05_72fee3a1:
 
     # jh "I'm really glad it was you who found me sleepwalking, and not someone else."
-    jh "Estoy muy contento de que hayas sido tú quien me encontró sonámbulo, y no otra persona."
+    jh "Estoy muy contenta de que hayas sido tú quien me encontró sonámbula, y no otra persona."
 
 # game/code/Book-1/Chapter-5/s05.rpy:127
 translate spanish b1c05s05_3051397e:
@@ -256,7 +256,7 @@ translate spanish b1c05s05_3051397e:
 translate spanish b1c05s05_5cde46d2:
 
     # mc "Don't be sorry. You couldn't help it. Though I admit seeing you strip naked was extremely surprising."
-    mc "no te arrepientas No pudiste evitarlo. Aunque admito que verte desnudarte fue extremadamente sorprendente."
+    mc "No lo lamentes. No pudiste evitarlo. Aunque admito que verte desnuda fue extremadamente sorprendente."
 
 # game/code/Book-1/Chapter-5/s05.rpy:133
 translate spanish b1c05s05_0b7e3ff1:
@@ -268,13 +268,13 @@ translate spanish b1c05s05_0b7e3ff1:
 translate spanish b1c05s05_4f3d4351:
 
     # jh "Again, I'm glad it was you, if it had to be anyone."
-    jh "Una vez más, me alegro de que fueras tú, si tenía que ser alguien."
+    jh "Una vez más, si tenía que ser alguien, me alegro de que fueras tú."
 
 # game/code/Book-1/Chapter-5/s05.rpy:137
 translate spanish b1c05s05_6b368364:
 
     # mc "Well, I'm just thankful you're safe."
-    mc "Bueno, solo estoy agradecido de que estés a salvo."
+    mc "Bueno, estoy agradecido de que estés a salvo."
 
 # game/code/Book-1/Chapter-5/s05.rpy:140
 translate spanish b1c05s05_b5d39f34:
@@ -292,7 +292,7 @@ translate spanish b1c05s05_e2fdbca9:
 translate spanish b1c05s05_ddea310a:
 
     # mc "She's a rather stubborn girl, isn't she?"
-    mc "Es una chica bastante terca, ¿no?"
+    mc "Es una chica bastante testaruda, ¿no?"
 
 # game/code/Book-1/Chapter-5/s05.rpy:148
 translate spanish b1c05s05_34b98730:
@@ -334,7 +334,7 @@ translate spanish b1c05s05_5d564810:
 translate spanish b1c05s05_5714b528:
 
     # mc "I just want everyone to be comfortable."
-    mc "Solo quiero que todos estén cómodos."
+    mc "Sólo quiero que todo el mundo esté cómodo."
 
 # game/code/Book-1/Chapter-5/s05.rpy:164
 translate spanish b1c05s05_9ef1e2c0:
@@ -346,13 +346,13 @@ translate spanish b1c05s05_9ef1e2c0:
 translate spanish b1c05s05_c4ca3a28:
 
     # jh "I just know that she'd really like you if you got to know each other better."
-    jh "Solo sé que a ella le gustaría mucho si llegaran a conocerse mejor."
+    jh "Sólo sé que a ella le gustaría mucho si llegaran a conocerse mejor."
 
 # game/code/Book-1/Chapter-5/s05.rpy:169
 translate spanish b1c05s05_55722ab0:
 
     # jh "Do you, um... Do you want to go bouldering with us sometime?"
-    jh "Tú, um... ¿Quieres ir a boulder con nosotros alguna vez?"
+    jh "Tú, um... ¿Quieres ir a boulder con nosotras alguna vez?"
 
 # game/code/Book-1/Chapter-5/s05.rpy:170
 translate spanish b1c05s05_c70aca49:
@@ -376,31 +376,31 @@ translate spanish b1c05s05_205a2aaf:
 translate spanish b1c05s05_e89c80fe:
 
     # mct "Couldn't hurt to hang out with them for a bit... Maybe they know something that might help the investigation."
-    mct "No estaría de más pasar un rato con ellos... Tal vez sepan algo que pueda ayudar en la investigación."
+    mct "No estaría de más pasar un rato con ellas... Tal vez sepan algo que pueda ayudar en la investigación."
 
 # game/code/Book-1/Chapter-5/s05.rpy:182
 translate spanish b1c05s05_557926ef:
 
     # mct "Regardless, being on peaceable terms with Lara would be beneficial."
-    mct "Independientemente, estar en términos pacíficos con Lara sería beneficioso."
+    mct "En cualquier caso, estar en términos pacíficos con Lara sería beneficioso."
 
 # game/code/Book-1/Chapter-5/s05.rpy:185
 translate spanish b1c05s05_9ba01b2d:
 
     # jh "R-really?!"
-    jh "¡¿R-en serio?!"
+    jh "¡¿En serio?!"
 
 # game/code/Book-1/Chapter-5/s05.rpy:186
 translate spanish b1c05s05_78d4be90:
 
     # jh "Wow, uh, I didn't think I'd get this far."
-    jh "Wow, uh, no pensé que llegaría tan lejos."
+    jh "Vaya, uh, no pensé que llegaría tan lejos."
 
 # game/code/Book-1/Chapter-5/s05.rpy:189
 translate spanish b1c05s05_f9ee4b87:
 
     # jh "I'll set it up with Lara. This'll be a blast!"
-    jh "Lo arreglaré con Lara. ¡Esto será genial!"
+    jh "Lo arreglaré con Lara. ¡Será una experiencia increíble!"
 
 # game/code/Book-1/Chapter-5/s05.rpy:192
 translate spanish b1c05s05_c942543a:
@@ -412,7 +412,7 @@ translate spanish b1c05s05_c942543a:
 translate spanish b1c05s05_71d370c9:
 
     # jh "I'm sure we will!"
-    jh "¡Estoy seguro de que lo haremos!"
+    jh "¡Estoy segura de que lo haremos!"
 
 # game/code/Book-1/Chapter-5/s05.rpy:201
 translate spanish b1c05s05_dafa8dd1:
@@ -424,13 +424,13 @@ translate spanish b1c05s05_dafa8dd1:
 translate spanish b1c05s05_fe89a5d4:
 
     # mc "Heh. Those are some high hopes, Josie."
-    mc "je. Esas son algunas grandes esperanzas, Josie."
+    mc "je. Je. Tienes depositadas mucha confianza, Josie."
 
 # game/code/Book-1/Chapter-5/s05.rpy:207
 translate spanish b1c05s05_74920eb6:
 
     # jh "C'mon! Don't be so negative. I'm sure we'll all have fun."
-    jh "¡Vamos! No seas tan negativo. Estoy seguro de que todos nos divertiremos."
+    jh "¡Vamos! No seas tan negativo. Estoy segura de que todos nos divertiremos."
 
 # game/code/Book-1/Chapter-5/s05.rpy:213
 translate spanish b1c05s05_dd994c33:
@@ -484,7 +484,7 @@ translate spanish b1c05s05_f702ed59:
 translate spanish b1c05s05_cf274a0f:
 
     # jh "Mm, yeah. That's a good idea. I'm tired."
-    jh "Sí. Es una buena idea. Estoy cansado."
+    jh "Sí. Es una buena idea. Estoy cansada."
 
 # game/code/Book-1/Chapter-5/s05.rpy:240
 translate spanish b1c05s05_e2866114:
@@ -502,7 +502,7 @@ translate spanish strings:
 
     # game/code/Book-1/Chapter-5/s05.rpy:6
     old "Back at the dorm"
-    new "de vuelta en el dormitorio"
+    new "De vuelta en el dormitorio"
 
     # game/code/Book-1/Chapter-5/s05.rpy:173
     old "Sure, I'd love to!"
