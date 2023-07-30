@@ -22,13 +22,13 @@ translate spanish b1c06cs01_1311dbc4:
 translate spanish b1c06cs01_1b8eec2d:
 
     # nv "We're getting our Guide assigned today!"
-    nv "¡Hoy nos asignarán a nuestro Guía!"
+    nv "¡Hoy nos asignarán a nuestros Guías!"
 
 # game/code/Book-1/Chapter-6c/s01.rpy:24
 translate spanish b1c06cs01_bb1790c0:
 
     # mc "Oh. Remind me, what exactly does the Guide do again?"
-    mc "Oh. Recuérdame, ¿qué hace exactamente la Guía de nuevo?"
+    mc "Oh. Recuérdame, ¿qué hace exactamente el Guía?"
 
 # game/code/Book-1/Chapter-6c/s01.rpy:29
 translate spanish b1c06cs01_2b6685c0:
@@ -52,7 +52,7 @@ translate spanish b1c06cs01_8d9d19d5:
 translate spanish b1c06cs01_53eb9833:
 
     # mc "You sound very knowledgeable in this. How far did you get before..."
-    mc "Suenas muy bien informado en esto. ¿Hasta dónde llegaste antes...?"
+    mc "Suenas muy bien informada en este tema. ¿Hasta dónde llegaste antes de...?"
 
 # game/code/Book-1/Chapter-6c/s01.rpy:41
 translate spanish b1c06cs01_760809bf:
@@ -64,13 +64,13 @@ translate spanish b1c06cs01_760809bf:
 translate spanish b1c06cs01_9b8bb9a0:
 
     # nv "I was about to be promoted. But was held back after she disappeared. My rank slowly slipped as time went on."
-    nv "Estaba a punto de ser ascendido. Pero fue retenido después de que ella desapareció. Mi rango se deslizó lentamente a medida que pasaba el tiempo."
+    nv "Estaba a punto de ser ascendida. Pero se retrasó tras su desaparición. Con el paso del tiempo, mi rango descendió lentamente."
 
 # game/code/Book-1/Chapter-6c/s01.rpy:44
 translate spanish b1c06cs01_a56f7540:
 
     # nv "It's partially my fault for being so stubborn. I didn't want to move forward without her."
-    nv "En parte es mi culpa por ser tan terco. No quería seguir adelante sin ella."
+    nv "En parte es mi culpa por ser tan obstinada. No quería seguir adelante sin ella."
 
 # game/code/Book-1/Chapter-6c/s01.rpy:45
 translate spanish b1c06cs01_b9ad922f:
@@ -82,7 +82,7 @@ translate spanish b1c06cs01_b9ad922f:
 translate spanish b1c06cs01_601927c8:
 
     # nv "Obviously, it didn't turn out that way. Now I'm not sure what I want..."
-    nv "Obviamente, no resultó de esa manera. Ahora no estoy seguro de lo que quiero..."
+    nv "Obviamente, no resultó de esa manera. Ahora no estoy segura de lo que quiero..."
 
 # game/code/Book-1/Chapter-6c/s01.rpy:49
 translate spanish b1c06cs01_31bd8e03:
@@ -118,7 +118,7 @@ translate spanish b1c06cs01_1548740e:
 translate spanish b1c06cs01_474f420f:
 
     # nv "But regardless, I'm happy to be involved in the group again. Happy to be moving forward."
-    nv "Pero independientemente, estoy feliz de estar involucrado en el grupo nuevamente. Feliz de seguir adelante."
+    nv "Pero a pesar de todo, estoy feliz de estar involucrada de nuevo en el grupo. Estoy feliz de seguir adelante."
 
 # game/code/Book-1/Chapter-6c/s01.rpy:63
 translate spanish b1c06cs01_f40b0a89:
@@ -130,19 +130,19 @@ translate spanish b1c06cs01_f40b0a89:
 translate spanish b1c06cs01_abab13b4:
 
     # mc "I admit, it does sound advanced."
-    mc "Lo admito, suena avanzado."
+    mc "Lo admito, suena algo avanzado."
 
 # game/code/Book-1/Chapter-6c/s01.rpy:69
 translate spanish b1c06cs01_632ef36a:
 
     # nv "Healing is complicated."
-    nv "La curación es complicada."
+    nv "La sanación es complicada."
 
 # game/code/Book-1/Chapter-6c/s01.rpy:72
 translate spanish b1c06cs01_11c907fc:
 
     # mc "What are we healing from, exactly? I'm not sure I get this."
-    mc "¿De qué nos estamos curando, exactamente? No estoy seguro de entender esto."
+    mc "¿De qué nos estamos sanando, exactamente? No estoy seguro de entender esto."
 
 # game/code/Book-1/Chapter-6c/s01.rpy:75
 translate spanish b1c06cs01_3a162890:
@@ -154,7 +154,7 @@ translate spanish b1c06cs01_3a162890:
 translate spanish b1c06cs01_07f0cbf2:
 
     # mc "I mean, aren't we all works in progress at all times? At some point you just have to accept yourself for who you are and where you're at."
-    mc "Quiero decir, ¿no somos todos trabajos en progreso en todo momento? En algún momento solo tienes que aceptarte a ti mismo por lo que eres y dónde estás."
+    mc "Quiero decir, ¿no somos todos trabajos en progreso en todo momento? En algún momento tienes que aceptarte tal y como eres y dónde estás."
 
 # game/code/Book-1/Chapter-6c/s01.rpy:81
 translate spanish b1c06cs01_c5cb329a:
@@ -166,7 +166,7 @@ translate spanish b1c06cs01_c5cb329a:
 translate spanish b1c06cs01_1f114879:
 
     # nv "And you're correct. But it can be difficult for a lot of people to tell when it's time for healing, and when it's time for rest."
-    nv "Y tienes razón. Pero puede ser difícil para muchas personas saber cuándo es el momento de curarse y cuándo es el momento de descansar."
+    nv "Y tienes razón. Pero puede ser difícil para mucha gente saber cuándo es el momento de la sanación y cuándo es el momento para el descanso."
 
 # game/code/Book-1/Chapter-6c/s01.rpy:87
 translate spanish b1c06cs01_a67b8ab3:
@@ -184,7 +184,7 @@ translate spanish b1c06cs01_199cc8be:
 translate spanish b1c06cs01_7023a1bf:
 
     # nv "I'm not sure. I've never met someone who didn't need healing."
-    nv "No estoy seguro. Nunca he conocido a alguien que no necesite curación."
+    nv "No estoy segura. Nunca he conocido a alguien que no necesite sanación."
 
 # game/code/Book-1/Chapter-6c/s01.rpy:97
 translate spanish b1c06cs01_e7c49df0:
@@ -220,13 +220,13 @@ translate spanish b1c06cs01_5c337704:
 translate spanish b1c06cs01_adfdfa96:
 
     # nv "You're a seeker. There's a drive in you to find the truth. We value that here.{w} I'm sure our Guide will nurture that in you."
-    nv "Eres un buscador. Hay un impulso en ti para encontrar la verdad. Valoramos eso aquí. {w} Estoy seguro de que nuestra Guía fomentará eso en ti."
+    nv "Eres un buscador. Tienes el impulso de encontrar la verdad. Valoramos eso aquí. Estoy segura de que nuestro Guía desarrollará eso en ti."
 
 # game/code/Book-1/Chapter-6c/s01.rpy:111
 translate spanish b1c06cs01_28af21eb:
 
-    # nv " You're not offensive at all by asking questions. Our community loves inquisitive minds! We encourage it."
-    nv " No eres ofensivo en absoluto al hacer preguntas. ¡A nuestra comunidad le encantan las mentes curiosas! Lo alentamos."
+    # nv "You're not offensive at all by asking questions. Our community loves inquisitive minds! We encourage it."
+    nv "No es nada ofensivo hacer preguntas. A nuestra comunidad le encantan las mentes curiosas. La alentamos."
 
 # game/code/Book-1/Chapter-6c/s01.rpy:114
 translate spanish b1c06cs01_ab09efa5:
@@ -250,13 +250,13 @@ translate spanish b1c06cs01_32c5ec6d:
 translate spanish b1c06cs01_7fa220b1:
 
     # nv "Hey, I completely understand. You're right to have questions, and I'm so proud of you for advocating for yourself."
-    nv "Oye, entiendo completamente. Tiene razón en tener preguntas, y estoy muy orgulloso de usted por defenderse a sí mismo."
+    nv "Oye, te entiendo perfectamente. Haces bien en tener preguntas y estoy muy orgullosa de que las plantees."
 
 # game/code/Book-1/Chapter-6c/s01.rpy:120
 translate spanish b1c06cs01_bf7f1a54:
 
     # nv "But your healing journey is totally up to you. {i}No one{/i} can take that right away from you. Anyone stupid enough to try will get banned from the group."
-    nv "Pero su viaje de curación depende totalmente de usted. {i}Nadie{/i} puede quitarte ese derecho. Cualquiera lo suficientemente estúpido como para intentarlo será expulsado del grupo."
+    nv "Pero su viaje de sanación depende totalmente de usted. {i}Nadie{/i} puede quitarte ese derecho. Cualquiera lo suficientemente estúpido como para intentarlo será expulsado del grupo."
 
 # game/code/Book-1/Chapter-6c/s01.rpy:121
 translate spanish b1c06cs01_81b740c0:
@@ -286,7 +286,7 @@ translate spanish b1c06cs01_a12b43ab:
 translate spanish b1c06cs01_45f5d738:
 
     # nv "We're just here to help you seek the truth within yourself."
-    nv "Solo estamos aquí para ayudarte a buscar la verdad dentro de ti."
+    nv "Sólo estamos aquí para ayudarte a buscar la verdad dentro de ti."
 
 # game/code/Book-1/Chapter-6c/s01.rpy:132
 translate spanish b1c06cs01_85a66c93:
@@ -298,7 +298,7 @@ translate spanish b1c06cs01_85a66c93:
 translate spanish b1c06cs01_4e7d5f29:
 
     # nv "For the most part. Sometimes the Guides use those more like guidelines than strict rules, though. Like I said, healing is complex."
-    nv "En la mayor parte. Sin embargo, a veces las Guías las usan más como pautas que como reglas estrictas. Como dije, la curación es compleja."
+    nv "La mayor parte. Sin embargo, a veces las Guías las usan más como pautas que como reglas estrictas. Como dije, la sanación es compleja."
 
 # game/code/Book-1/Chapter-6c/s01.rpy:138
 translate spanish b1c06cs01_9576454f:
@@ -310,7 +310,7 @@ translate spanish b1c06cs01_9576454f:
 translate spanish b1c06cs01_cc09dc46:
 
     # mc "But I'll keep an open mind. I owe you that."
-    mc "Pero mantendré la mente abierta. te debo eso"
+    mc "Pero mantendré la mente abierta. te debo eso."
 
 # game/code/Book-1/Chapter-6c/s01.rpy:145
 translate spanish b1c06cs01_2514a211:
@@ -328,13 +328,13 @@ translate spanish b1c06cs01_c606d02e:
 translate spanish b1c06cs01_a55c92ce:
 
     # ij "Hey. It's been a while. I hope you're adjusting to campus well."
-    ij "Ey. Ha sido un tiempo. Espero que te estés adaptando bien al campus."
+    ij "Hola. Ha pasado un tiempo. Espero que te estés adaptando bien al campus."
 
 # game/code/Book-1/Chapter-6c/s01.rpy:157
 translate spanish b1c06cs01_8f922723:
 
     # nv "Irene! How are you?"
-    nv "Irene! ¿Cómo estás?"
+    nv "¡Irene! ¿Cómo estás?"
 
 # game/code/Book-1/Chapter-6c/s01.rpy:160
 translate spanish b1c06cs01_0a53cc50:
@@ -352,7 +352,7 @@ translate spanish b1c06cs01_1b02778e:
 translate spanish b1c06cs01_9e6f11df:
 
     # mc "Me?"
-    mc "¿A mí?"
+    mc "¿Yo?"
 
 # game/code/Book-1/Chapter-6c/s01.rpy:171
 translate spanish b1c06cs01_6c7dd27a:
@@ -388,7 +388,7 @@ translate spanish b1c06cs01_4e4ea5b0:
 translate spanish b1c06cs01_857af703:
 
     # ij "There are some pages we added since you last saw."
-    ij "Hay algunas páginas que agregamos desde la última vez que viste."
+    ij "Hemos añadido algunas páginas desde la última vez que lo viste."
 
 # game/code/Book-1/Chapter-6c/s01.rpy:188
 translate spanish b1c06cs01_9107d984:
@@ -430,7 +430,7 @@ translate spanish b1c06cs01_b410ead0:
 translate spanish b1c06cs01_3530d8c3:
 
     # mct "*internally groans* Is he fucking with me right now?"
-    mct "*gemidos internamente* ¿Me está jodiendo ahora mismo?"
+    mct "*gemidos internamente* ¿Está jugando conmigo en este momento?"
 
 # game/code/Book-1/Chapter-6c/s01.rpy:216
 translate spanish b1c06cs01_c6357fdc:
@@ -490,7 +490,7 @@ translate spanish b1c06cs01_6ba51b72:
 translate spanish b1c06cs01_c5659e07:
 
     # mc "So I've been told."
-    mc "Así me dijeron."
+    mc "Eso me dijeron."
 
 # game/code/Book-1/Chapter-6c/s01.rpy:281
 translate spanish b1c06cs01_0a8bd05c:
@@ -514,7 +514,7 @@ translate spanish b1c06cs01_eb1b1117:
 translate spanish b1c06cs01_fdd3a3c7:
 
     # mc "I'd be disappointed."
-    mc "estaría decepcionado."
+    mc "Estaría decepcionado."
 
 # game/code/Book-1/Chapter-6c/s01.rpy:292
 translate spanish b1c06cs01_d17a52cd:
@@ -550,13 +550,13 @@ translate spanish b1c06cs01_4a98742d:
 translate spanish b1c06cs01_93231a3c:
 
     # ad "Take your time. Really think about it."
-    ad "Tome su tiempo. Realmente piénsalo."
+    ad "Tómate tu tiempo. Piénsalo bien."
 
 # game/code/Book-1/Chapter-6c/s01.rpy:311
 translate spanish b1c06cs01_fff308be:
 
     # mc "What if I forgave {i}myself{/i} for my sins? What if I was already saved? Does it make a difference if I am or am not?"
-    mc "¿Qué pasa si me perdono {i}a mí mismo{/i} por mis pecados? ¿Qué pasa si ya fui salvo? ¿Hace alguna diferencia si lo soy o no lo soy?"
+    mc "¿Y si me perdonara a {i}mí mismo{/i} por mis pecados? ¿Y si ya me hubiese salvado? ¿Hay alguna diferencia si fui salvado o no?"
 
 # game/code/Book-1/Chapter-6c/s01.rpy:314
 translate spanish b1c06cs01_bbd36abc:
@@ -574,7 +574,7 @@ translate spanish b1c06cs01_1e0b0712:
 translate spanish b1c06cs01_85d54857:
 
     # ad "Tell me, young soul. What is it you're here to heal?"
-    ad "Dime, alma joven. ¿Qué es lo que estás aquí para sanar?"
+    ad "Dime, alma joven. ¿Qué es lo que has venido a sanar?"
 
 # game/code/Book-1/Chapter-6c/s01.rpy:323
 translate spanish b1c06cs01_31eb53df:
@@ -622,7 +622,7 @@ translate spanish b1c06cs01_36a8f2cf:
 translate spanish b1c06cs01_1c8dc8de:
 
     # ad "Or is it your opinion that you're free of all sin?"
-    ad "¿O es tu opinión que estás libre de todo pecado?"
+    ad "¿O es tu opinión la que te libera de todo pecado?"
 
 # game/code/Book-1/Chapter-6c/s01.rpy:344
 translate spanish b1c06cs01_e8bd9b65:
@@ -652,7 +652,7 @@ translate spanish b1c06cs01_3f02161b:
 translate spanish b1c06cs01_a820c310:
 
     # ad "Is that your fear? That there's no redemption for you?"
-    ad "¿Ese es tu miedo? ¿Que no hay redención para ti?"
+    ad "¿Ese es tu miedo? ¿Que no haya redención para ti?"
 
 # game/code/Book-1/Chapter-6c/s01.rpy:356
 translate spanish b1c06cs01_3b31b250:
@@ -688,13 +688,13 @@ translate spanish b1c06cs01_b19c0f9e:
 translate spanish b1c06cs01_bc4610c1:
 
     # mct "I'd say I'm the least in need of guidance in this entire group, but that's just my opinion."
-    mct "Diría que soy el que menos necesita orientación en todo este grupo, pero esa es solo mi opinión."
+    mct "Diría que soy el que menos necesita orientación de todo este grupo, pero es sólo mi opinión."
 
 # game/code/Book-1/Chapter-6c/s01.rpy:371
 translate spanish b1c06cs01_4fcc6dbe:
 
     # nv "I just want to help others."
-    nv "Solo quiero ayudar a los demás."
+    nv "Sólo quiero ayudar a los demás."
 
 # game/code/Book-1/Chapter-6c/s01.rpy:374
 translate spanish b1c06cs01_6594c149:
@@ -706,7 +706,7 @@ translate spanish b1c06cs01_6594c149:
 translate spanish b1c06cs01_b203a291:
 
     # ad "And for your Guide..."
-    ad "Y para tu Guía..."
+    ad "Y para sus Guías..."
 
 # game/code/Book-1/Chapter-6c/s01.rpy:384
 translate spanish b1c06cs01_a2a5e441:
@@ -724,13 +724,13 @@ translate spanish b1c06cs01_1f7466d3:
 translate spanish b1c06cs01_127676ce:
 
     # ad "Delphia! We have the perfect candidates for you."
-    ad "¡Delfia! Tenemos los candidatos perfectos para ti."
+    ad "¡Delphia! Tenemos los candidatos perfectos para ti."
 
 # game/code/Book-1/Chapter-6c/s01.rpy:394
 translate spanish b1c06cs01_3b16cd11:
 
     # mc "Hey, Delphia."
-    mc "Hola, Delfia."
+    mc "Hola, Delphia."
 
 # game/code/Book-1/Chapter-6c/s01.rpy:397
 translate spanish b1c06cs01_c9f286f2:
@@ -742,19 +742,19 @@ translate spanish b1c06cs01_c9f286f2:
 translate spanish b1c06cs01_3f0bff09:
 
     # nv "Delphia! Oh my gosh. I can't believe you're my Guide this time! I can't wait to start this journey with you."
-    nv "¡Delfia! Oh Dios mío. ¡No puedo creer que seas mi guía esta vez! No puedo esperar para comenzar este viaje contigo."
+    nv "¡Delphia! Oh Dios mío. ¡No puedo creer que seas mi guía esta vez! No puedo esperar para comenzar este viaje contigo."
 
 # game/code/Book-1/Chapter-6c/s01.rpy:403
 translate spanish b1c06cs01_03e03217:
 
     # dk "Of course, pet. I may have put in a preference for who I guided next."
-    dk "Por supuesto, mascota. Es posible que haya puesto preferencia por a quién guié a continuación."
+    dk "Por supuesto, mascota. Puede que haya puesto una preferencia por quién guiaré después."
 
 # game/code/Book-1/Chapter-6c/s01.rpy:409
 translate spanish b1c06cs01_b837803d:
 
     # mct "I haven't seen her look so kind as she does when she looks at Nia."
-    mct "No la había visto tan amable como cuando mira a Nia."
+    mct "Nunca la había visto tan amable como cuando mira a Nia."
 
 # game/code/Book-1/Chapter-6c/s01.rpy:412
 translate spanish b1c06cs01_a71a66a2:
@@ -772,7 +772,7 @@ translate spanish b1c06cs01_cebcd97b:
 translate spanish b1c06cs01_dd094651:
 
     # dk "One can only hope he can be enlightened, Andre."
-    dk "Uno solo puede esperar que pueda estar iluminado, Andre."
+    dk "Uno sólo puede esperar que se ilumine, Andre."
 
 # game/code/Book-1/Chapter-6c/s01.rpy:421
 translate spanish b1c06cs01_18a0cbcc:
@@ -784,7 +784,7 @@ translate spanish b1c06cs01_18a0cbcc:
 translate spanish b1c06cs01_a8a16663:
 
     # dk "Come, both of you."
-    dk "Venid, los dos."
+    dk "Vengan, los dos."
 
 # game/code/Book-1/Chapter-6c/s01.rpy:426
 translate spanish b1c06cs01_2adc55bf:
@@ -814,7 +814,7 @@ translate spanish b1c06cs01_0c35f148:
 translate spanish b1c06cs01_19cf3f9a:
 
     # mc "Of course, of course."
-    mc "Por supuesto por supuesto."
+    mc "Por supuesto, por supuesto."
 
 # game/code/Book-1/Chapter-6c/s01.rpy:442
 translate spanish b1c06cs01_b265e344:
