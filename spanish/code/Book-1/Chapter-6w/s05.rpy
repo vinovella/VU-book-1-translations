@@ -22,13 +22,13 @@ translate spanish b1c06ws05_dc0ff26a:
 translate spanish b1c06ws05_8c9328fe:
 
     # sdl "You probably think {i}this{/i} is what got me thrown out of the Winner's Club."
-    sdl "Probablemente pienses que {i}esto{/i} fue lo que hizo que me expulsaran del Winner's Club."
+    sdl "Probablemente pienses que {i}esto{/i} fue lo que hizo que me expulsaran del Club de Ganadores."
 
 # game/code/Book-1/Chapter-6w/s05.rpy:46
 translate spanish b1c06ws05_1e348b56:
 
     # mc "The thought crossed my mind. Not everyone is very accepting of occult interests."
-    mc "El pensamiento cruzó mi mente. No todo el mundo acepta muy bien los intereses ocultos."
+    mc "Se me pasó por la cabeza. No todo el mundo acepta los intereses ocultos."
 
 # game/code/Book-1/Chapter-6w/s05.rpy:51
 translate spanish b1c06ws05_470eb094:
@@ -94,7 +94,7 @@ translate spanish b1c06ws05_5c7fdb0c:
 translate spanish b1c06ws05_d2dd2d4d:
 
     # mct "Huh. I didn't take Sam for a poet."
-    mct "Eh. No tomé a Sam por un poeta."
+    mct "Eh. No tomé a Sam por una poeta."
 
 # game/code/Book-1/Chapter-6w/s05.rpy:71
 translate spanish b1c06ws05_ad9d4233:
@@ -136,7 +136,7 @@ translate spanish b1c06ws05_60e8e6e3:
 translate spanish b1c06ws05_848099a0:
 
     # "{i}My own guilt screams my ears full,{/i}"
-    "{i} Mi propia culpa grita mis oídos llenos, {/i}"
+    "{i} Mi propia culpa me grita a los oídos, {/i}"
 
 # game/code/Book-1/Chapter-6w/s05.rpy:80
 translate spanish b1c06ws05_f10c6db3:
@@ -154,7 +154,7 @@ translate spanish b1c06ws05_dd4d921f:
 translate spanish b1c06ws05_bcd93b31:
 
     # sdl "Just some discarded ideas for literature class."
-    sdl "Solo algunas ideas descartadas para la clase de literatura."
+    sdl "Sólo algunas ideas descartadas para la clase de literatura."
 
 # game/code/Book-1/Chapter-6w/s05.rpy:93
 translate spanish b1c06ws05_e86babff:
@@ -172,13 +172,13 @@ translate spanish b1c06ws05_1cbc607d:
 translate spanish b1c06ws05_35126bba:
 
     # mc "I think it's a case of clashing personality types, rather than who's boring or interesting."
-    mc "Creo que es un caso de tipos de personalidad que chocan, en lugar de quién es aburrido o interesante."
+    mc "Creo que se trata de tipos de personalidades opuestas, más que de quién es aburrido o interesante."
 
 # game/code/Book-1/Chapter-6w/s05.rpy:102
 translate spanish b1c06ws05_a9782191:
 
     # sdl "Who's side are you on, anyway?"
-    sdl "¿De qué lado estás tú, de todos modos?"
+    sdl "¿De qué lado estás tú?"
 
 # game/code/Book-1/Chapter-6w/s05.rpy:104
 translate spanish b1c06ws05_c85d5d47:
@@ -196,13 +196,13 @@ translate spanish b1c06ws05_15c9f43b:
 translate spanish b1c06ws05_8d0423b7:
 
     # mc "I'm just a guy trying to make it through college. I'm not on anyone's side. I'm on my own side."
-    mc "Solo soy un chico tratando de pasar la universidad. No estoy del lado de nadie. Estoy de mi lado."
+    mc "Sólo soy un chico tratando de sobrevivir en la universidad. No estoy del lado de nadie. Estoy de mi propio lado."
 
 # game/code/Book-1/Chapter-6w/s05.rpy:112
 translate spanish b1c06ws05_5bfc850c:
 
     # sdl "On your own."
-    sdl "Por su cuenta"
+    sdl "Por su cuenta."
 
 # game/code/Book-1/Chapter-6w/s05.rpy:114
 translate spanish b1c06ws05_ace37441:
@@ -214,13 +214,13 @@ translate spanish b1c06ws05_ace37441:
 translate spanish b1c06ws05_7c7d1f77:
 
     # sdl "I've been on my own team for so long, I've forgotten what it's like to be on anyone else's."
-    sdl "He estado en mi propio equipo durante tanto tiempo que he olvidado lo que es estar en el de los demás."
+    sdl "Llevo tanto tiempo en mi propio equipo que he olvidado lo que es estar en el equipo de los demás."
 
 # game/code/Book-1/Chapter-6w/s05.rpy:123
 translate spanish b1c06ws05_d244ad13:
 
     # sdl "So I apologize if I'm a little...{w} desperate."
-    sdl "Así que me disculpo si estoy un poco... {w} desesperado."
+    sdl "Así que me disculpo si estoy un poco... {w} desesperada."
 
 # game/code/Book-1/Chapter-6w/s05.rpy:126
 translate spanish b1c06ws05_d3496b79:
@@ -232,7 +232,7 @@ translate spanish b1c06ws05_d3496b79:
 translate spanish b1c06ws05_5c65ae27:
 
     # sdl "You're just a guy on your own who desperately wants into the Winner's Club?"
-    sdl "¿Solo eres un tipo solo que quiere desesperadamente entrar en el Winner's Club?"
+    sdl "¿Eres un chico que solo quiere entrar en el Club de Ganadores?"
 
 # game/code/Book-1/Chapter-6w/s05.rpy:130
 translate spanish b1c06ws05_6a9d6850:
@@ -262,19 +262,19 @@ translate spanish b1c06ws05_fbc37c14:
 translate spanish b1c06ws05_aa0bfe39:
 
     # mct "But if I'm more calculated..."
-    mct "Pero si soy más calculado..."
+    mct "Pero si soy más calculador..."
 
 # game/code/Book-1/Chapter-6w/s05.rpy:140
 translate spanish b1c06ws05_b235626f:
 
     # mc "Connections, mainly. I figure it can't hurt to have some influential friends—if I can make them."
-    mc "Conexiones, principalmente. Me imagino que no puede hacer daño tener algunos amigos influyentes, si puedo hacerlos."
+    mc "Conexiones, principalmente. No está de más tener amigos influyentes, si consigo hacerlos."
 
 # game/code/Book-1/Chapter-6w/s05.rpy:143
 translate spanish b1c06ws05_26e02338:
 
     # sdl "That's pretty ruthless."
-    sdl "Eso es bastante despiadado."
+    sdl "Eso es bastante despiadado y..."
 
 # game/code/Book-1/Chapter-6w/s05.rpy:146
 translate spanish b1c06ws05_dce15c50:
@@ -286,25 +286,25 @@ translate spanish b1c06ws05_dce15c50:
 translate spanish b1c06ws05_e679d1eb:
 
     # sdl "And if I help you what could you offer me?"
-    sdl "Y si te ayudo que podrías ofrecerme?"
+    sdl "Y si te ayudo, ¿qué podrías ofrecerme?"
 
 # game/code/Book-1/Chapter-6w/s05.rpy:151
 translate spanish b1c06ws05_2f02466f:
 
     # mc "Well you said you wanted back into the club, right? I could—"
-    mc "Bueno, dijiste que querías volver al club, ¿verdad? Pude-"
+    mc "Bueno, dijiste que querías volver al club, ¿verdad? Yo podría..."
 
 # game/code/Book-1/Chapter-6w/s05.rpy:154
 translate spanish b1c06ws05_7916d5e7:
 
     # sdl "I don't {i}just{/i} want back in, sweetie. I want revenge. I want power."
-    sdl "No {i}solo{/i} quiero volver a entrar, cariño. Quiero venganza. quiero poder"
+    sdl "No {i}sólo{/i} quiero volver, cariño. Quiero venganza. Quiero poder."
 
 # game/code/Book-1/Chapter-6w/s05.rpy:156
 translate spanish b1c06ws05_687d5779:
 
     # mct "If I weren't trained for situations like this by the academy, I'd probably be a bit intimidated right now."
-    mct "Si no hubiera sido entrenado para situaciones como esta por la academia, probablemente estaría un poco intimidado en este momento."
+    mct "Si no hubiera sido entrenado para situaciones como esta en la academia, probablemente estaría un poco intimidado en este momento."
 
 # game/code/Book-1/Chapter-6w/s05.rpy:159
 translate spanish b1c06ws05_457fb084:
@@ -328,7 +328,7 @@ translate spanish b1c06ws05_076dc0f5:
 translate spanish b1c06ws05_1f49ecf8:
 
     # mc "How—"
-    mc "Cómo-"
+    mc "Cómo..."
 
 # game/code/Book-1/Chapter-6w/s05.rpy:183
 translate spanish b1c06ws05_bbdb908a:
@@ -370,7 +370,7 @@ translate spanish b1c06ws05_856e0873:
 translate spanish b1c06ws05_085f2096:
 
     # sdl "If I can't be a part of her dumbass club, I'm gonna crash her parties."
-    sdl "Si no puedo ser parte de su club de idiotas, me colaré en sus fiestas."
+    sdl "Si no puedo ser parte de su club de idiotas, me meteré en sus fiestas."
 
 # game/code/Book-1/Chapter-6w/s05.rpy:199
 translate spanish b1c06ws05_a44c31a9:
@@ -388,7 +388,7 @@ translate spanish b1c06ws05_ba67b126:
 translate spanish b1c06ws05_81650c6a:
 
     # mc "Just curious."
-    mc "Sólo curioso."
+    mc "Sólo por curiosidad."
 
 # game/code/Book-1/Chapter-6w/s05.rpy:207
 translate spanish b1c06ws05_bb1f4c85:
@@ -412,19 +412,19 @@ translate spanish b1c06ws05_93169d2b:
 translate spanish b1c06ws05_acb1655d:
 
     # sdl "So what'll it be? Will you scratch my back, so I can scratch yours?"
-    sdl "Entonces, ¿qué será? ¿Me rascarás la espalda para que yo pueda rascarte la tuya?"
+    sdl "Entonces, ¿qué será? ¿Rascarás mi espalda para que yo pueda rascar la tuya?"
 
 # game/code/Book-1/Chapter-6w/s05.rpy:216
 translate spanish b1c06ws05_188b9132:
 
     # sdl "Help me get back at Isa, and I'll help you get into Winner's Club."
-    sdl "Ayúdame a vengarme de Isa y te ayudaré a entrar en el Winner's Club."
+    sdl "Ayúdame a vengarme de Isa y te ayudaré a entrar en el Club de Ganadores."
 
 # game/code/Book-1/Chapter-6w/s05.rpy:219
 translate spanish b1c06ws05_8993e2cb:
 
     # mct "Sam obviously has a lot of info on the Winner's Club, but Isa might know more"
-    mct "Sam obviamente tiene mucha información sobre el Winner's Club, pero Isa podría saber más."
+    mct "Sam obviamente tiene mucha información sobre el Club de Ganadores, pero Isa podría saber mucho más."
 
 # game/code/Book-1/Chapter-6w/s05.rpy:220
 translate spanish b1c06ws05_c008c3c1:
@@ -448,13 +448,13 @@ translate spanish b1c06ws05_3d604bf9:
 translate spanish b1c06ws05_7843d913:
 
     # sdl "R-really? With me?"
-    sdl "¿R-en serio? ¿Conmigo?"
+    sdl "¿De verdad? ¿Conmigo?"
 
 # game/code/Book-1/Chapter-6w/s05.rpy:235
 translate spanish b1c06ws05_1b822232:
 
     # sdl "I didn't think I'd make it this far"
-    sdl "No pensé que llegaría tan lejos"
+    sdl "No pensé que llegaría tan lejos."
 
 # game/code/Book-1/Chapter-6w/s05.rpy:238
 translate spanish b1c06ws05_a25205ed:
@@ -466,7 +466,7 @@ translate spanish b1c06ws05_a25205ed:
 translate spanish b1c06ws05_f1f5706e:
 
     # sdl "Well, then we've got no time to lose. Meet me tomorrow, and we'll go over the next steps."
-    sdl "Bueno, entonces no tenemos tiempo que perder. Encuéntrame mañana y repasaremos los siguientes pasos."
+    sdl "Bueno, entonces no tenemos tiempo que perder. Nos vemos mañana, y vamos a repasar los próximos pasos."
 
 # game/code/Book-1/Chapter-6w/s05.rpy:246
 translate spanish b1c06ws05_ebaab4fc:
@@ -484,7 +484,7 @@ translate spanish b1c06ws05_5de74a9b:
 translate spanish b1c06ws05_81709362:
 
     # mc "You do?"
-    mc "¿Tú haces?"
+    mc "¿Tú lo entiendes?"
 
 # game/code/Book-1/Chapter-6w/s05.rpy:258
 translate spanish b1c06ws05_2af0ca36:
@@ -520,7 +520,7 @@ translate spanish b1c06ws05_end_272b12a2:
 translate spanish b1c06ws05_end_5e3be64c:
 
     # mct "Although {i}eccentric{/i}, she seems like she knows a lot of secrets about the Winner's Club."
-    mct "Aunque {i}excéntrica{/i}, parece saber muchos secretos sobre el Winner's Club."
+    mct "Aunque {i}excéntrica{/i}, parece saber muchos secretos sobre el Club de Ganadores."
 
 # game/code/Book-1/Chapter-6w/s05.rpy:288
 translate spanish b1c06ws05_end_d8abf9e5:
@@ -532,13 +532,13 @@ translate spanish b1c06ws05_end_d8abf9e5:
 translate spanish b1c06ws05_end_b3f85470:
 
     # mct "We'll have to see what tomorrow brings."
-    mct "Habrá que ver qué trae mañana."
+    mct "Habrá que ver qué nos depara el día de mañana."
 
 # game/code/Book-1/Chapter-6w/s05.rpy:291
 translate spanish b1c06ws05_end_06a00c36:
 
     # mct "Hopefully Isa proves to be more valuable than Sam seemed to be."
-    mct "Con suerte, Isa demuestra ser más valiosa de lo que parecía ser Sam."
+    mct "Esperemos que Isa demuestre ser más valiosa de lo que parecía ser Sam."
 
 # game/code/Book-1/Chapter-6w/s05.rpy:293
 translate spanish b1c06ws05_end_d1d8adb3:
@@ -566,11 +566,11 @@ translate spanish strings:
 
     # game/code/Book-1/Chapter-6w/s05.rpy:223
     old "Keep Sam close. She could be useful in sniffing out secrets of the club."
-    new "Mantén a Sam cerca. Podría ser útil para descubrir secretos del club."
+    new "Mantén a Sam cerca. Ella podría ser útil para descubrir secretos del club."
 
     # game/code/Book-1/Chapter-6w/s05.rpy:223
     old "Investigate Isa instead. Sam's too shifty."
-    new "Investiga a Isa en su lugar. Sam es demasiado astuto."
+    new "Investiga a Isa en su lugar. Sam es demasiado astuta."
 
     # game/code/Book-1/Chapter-6w/s05.rpy:273
     old "Later that evening\nBack at the dorm"
