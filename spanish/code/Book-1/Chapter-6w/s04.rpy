@@ -10,7 +10,7 @@ translate spanish b1c06ws04_d3992207:
 translate spanish b1c06ws04_ec2b0174:
 
     # mc "Really? We got whipped. We didn't win."
-    mc "¿En realidad? Nos azotaron. No ganamos."
+    mc "¿De verdad? Nos dieron una paliza. No ganamos."
 
 # game/code/Book-1/Chapter-6w/s04.rpy:23
 translate spanish b1c06ws04_6985cfb6:
@@ -28,7 +28,7 @@ translate spanish b1c06ws04_d1c52f7b:
 translate spanish b1c06ws04_ec4e4c5f:
 
     # sm "Last time you won, this time Brigitta won."
-    sm "La última vez que ganaste, esta vez ganó Brigitta."
+    sm "La última vez ganaste, esta vez ganó Brigitta."
 
 # game/code/Book-1/Chapter-6w/s04.rpy:29
 translate spanish b1c06ws04_509b4d14:
@@ -58,7 +58,7 @@ translate spanish b1c06ws04_061b4b6e:
 translate spanish b1c06ws04_34af8967:
 
     # mc "*chuckles* I can only imagine."
-    mc "*se ríe* Solo puedo imaginarlo."
+    mc "*se ríe* Sólo puedo imaginarlo."
 
 # game/code/Book-1/Chapter-6w/s04.rpy:42
 translate spanish b1c06ws04_012952be:
@@ -76,7 +76,7 @@ translate spanish b1c06ws04_c0ab5045:
 translate spanish b1c06ws04_d57f026a:
 
     # ba "Shoo."
-    ba "Espantar."
+    ba "Piérdete."
 
 # game/code/Book-1/Chapter-6w/s04.rpy:76
 translate spanish b1c06ws04_c777f4db:
@@ -94,7 +94,7 @@ translate spanish b1c06ws04_173d057d:
 translate spanish b1c06ws04_6a9f906d:
 
     # ba "He hasn't proven himself enough for that."
-    ba "No se ha probado a sí mismo lo suficiente para eso."
+    ba "No se ha probado lo suficiente para eso."
 
 # game/code/Book-1/Chapter-6w/s04.rpy:83
 translate spanish b1c06ws04_c3d3282c:
@@ -154,7 +154,7 @@ translate spanish b1c06ws04_afb70aac:
 translate spanish b1c06ws04_49429314:
 
     # ima "I don't know him. He's not popular enough."
-    ima "no lo conozco No es lo suficientemente popular."
+    ima "No le conozco. No es muy popular."
 
 # game/code/Book-1/Chapter-6w/s04.rpy:109
 translate spanish b1c06ws04_690ca2f9:
@@ -166,13 +166,13 @@ translate spanish b1c06ws04_690ca2f9:
 translate spanish b1c06ws04_eb938603:
 
     # ba "I know you can hit a ball halfway decent."
-    ba "Sé que puedes golpear una pelota medio decente."
+    ba "Sé que puedes golpear medianamente bien una pelota."
 
 # game/code/Book-1/Chapter-6w/s04.rpy:113
 translate spanish b1c06ws04_d0198bbe:
 
     # mct "Wow, that's the closest thing to a compliment she's ever said to me."
-    mct "Wow, eso es lo más parecido a un cumplido que me ha dicho."
+    mct "Vaya, eso es lo más parecido a un cumplido que me ha dicho."
 
 # game/code/Book-1/Chapter-6w/s04.rpy:114
 translate spanish b1c06ws04_0bfd0dca:
@@ -208,7 +208,7 @@ translate spanish b1c06ws04_c20d653f:
 translate spanish b1c06ws04_97ecac3c:
 
     # sm "I'm really sorry about that. She's right. I wasn't thinking."
-    sm "Lo siento mucho por eso. Ella está en lo correcto. no estaba pensando"
+    sm "Lo siento mucho por eso. Ella está en lo correcto. no estaba pensando."
 
 # game/code/Book-1/Chapter-6w/s04.rpy:136
 translate spanish b1c06ws04_0fe08c5a:
@@ -232,7 +232,7 @@ translate spanish b1c06ws04_f2d03612:
 translate spanish b1c06ws04_4964c833:
 
     # mc "You were just trying to be friendly. You didn't do anything wrong."
-    mc "Solo estabas tratando de ser amigable. No hiciste nada malo."
+    mc "Sólo estabas tratando de ser amigable. No hiciste nada malo."
 
 # game/code/Book-1/Chapter-6w/s04.rpy:152
 translate spanish b1c06ws04_135a0ed0:
@@ -244,13 +244,13 @@ translate spanish b1c06ws04_135a0ed0:
 translate spanish b1c06ws04_16854831:
 
     # mc "I didn't like the way they talked about you. Being obstinate toward me is one thing."
-    mc "No me gustó la forma en que hablaron de ti. Ser obstinado conmigo es una cosa."
+    mc "No me gustó la forma en que hablaron de ti. Ser obstinada conmigo es una cosa."
 
 # game/code/Book-1/Chapter-6w/s04.rpy:155
 translate spanish b1c06ws04_16701e81:
 
     # mc "But you? You didn't deserve that at all."
-    mc "¿Pero tu? No te merecías eso en absoluto."
+    mc "¿Pero tú? No te merecías eso en absoluto."
 
 # game/code/Book-1/Chapter-6w/s04.rpy:158
 translate spanish b1c06ws04_b135b9ed:
@@ -274,19 +274,19 @@ translate spanish b1c06ws04_65d6f799:
 translate spanish b1c06ws04_1472ab9f:
 
     # sm "But here, they're just normal students. Everyone here gets it. We're all on the same wavelength, and there isn't a need to peacock your wealth or popularity around."
-    sm "Pero aquí, son solo estudiantes normales. Todo el mundo aquí lo entiende. Todos estamos en la misma longitud de onda, y no hay necesidad de pavonearse de su riqueza o popularidad."
+    sm "Pero aquí, son estudiantes normales. Aquí todo el mundo lo entiende. Todos estamos en la misma onda y no hay necesidad de alardear de riqueza o popularidad."
 
 # game/code/Book-1/Chapter-6w/s04.rpy:167
 translate spanish b1c06ws04_0f77c7dc:
 
     # sm "It's relaxed. Safe, as Brigitta said."
-    sm "es relajado A salvo, como dijo Brigitta."
+    sm "Es relajada. Segura, como dijo Brigitta."
 
 # game/code/Book-1/Chapter-6w/s04.rpy:170
 translate spanish b1c06ws04_ef33c18e:
 
     # sm "*sigh* It doesn't help that we've had problems with stalkers in the past. So some of the members are pretty picky about who they let close."
-    sm "*suspiro* No ayuda que hayamos tenido problemas con acosadores en el pasado. Entonces, algunos de los miembros son bastante exigentes con las personas que dejan cerrar."
+    sm "*suspiro* No ayuda que hayamos tenido problemas con acosadores en el pasado. Así que algunos de los miembros son bastante exigentes con las personas a las que dejan entrar."
 
 # game/code/Book-1/Chapter-6w/s04.rpy:172
 translate spanish b1c06ws04_d4b48b87:
@@ -304,7 +304,7 @@ translate spanish b1c06ws04_9bed599f:
 translate spanish b1c06ws04_b00fe6d9:
 
     # sm "Even if they were being {i}bitchy.{/i}"
-    sm "Incluso si estaban siendo {i} maliciosos. {/i}"
+    sm "Incluso si estaban siendo {i}perras.{/i}"
 
 # game/code/Book-1/Chapter-6w/s04.rpy:179
 translate spanish b1c06ws04_ed568a10:
@@ -322,25 +322,25 @@ translate spanish b1c06ws04_a82e9960:
 translate spanish b1c06ws04_7a9a4d21:
 
     # sm "I...what?"
-    sm "¿Yo que?"
+    sm "Yo... ¿qué?"
 
 # game/code/Book-1/Chapter-6w/s04.rpy:193
 translate spanish b1c06ws04_91c667ce:
 
     # sm "*awkward chuckle* I'm not sure what to say to that."
-    sm "*risita incómoda* No estoy seguro de qué decir a eso."
+    sm "*risita incómoda* No estoy segura de qué decir a eso."
 
 # game/code/Book-1/Chapter-6w/s04.rpy:195
 translate spanish b1c06ws04_f3f1d83e:
 
     # mc "Sorry, that's just a dumb joke."
-    mc "Lo siento, eso es solo una broma tonta."
+    mc "Lo siento, eso es sólo una broma tonta."
 
 # game/code/Book-1/Chapter-6w/s04.rpy:196
 translate spanish b1c06ws04_64698443:
 
     # mc "Just trying to make you feel better."
-    mc "Solo trato de hacerte sentir mejor."
+    mc "Sólo trato de hacerte sentir mejor."
 
 # game/code/Book-1/Chapter-6w/s04.rpy:197
 translate spanish b1c06ws04_b135b9ed_1:
@@ -364,19 +364,19 @@ translate spanish b1c06ws04_65d6f799_1:
 translate spanish b1c06ws04_1472ab9f_1:
 
     # sm "But here, they're just normal students. Everyone here gets it. We're all on the same wavelength, and there isn't a need to peacock your wealth or popularity around."
-    sm "Pero aquí, son solo estudiantes normales. Todo el mundo aquí lo entiende. Todos estamos en la misma longitud de onda, y no hay necesidad de pavonearse de su riqueza o popularidad."
+    sm "Pero aquí, son estudiantes normales. Aquí todo el mundo lo entiende. Todos estamos en la misma onda y no hay necesidad de alardear de riqueza o popularidad."
 
 # game/code/Book-1/Chapter-6w/s04.rpy:207
 translate spanish b1c06ws04_0f77c7dc_1:
 
     # sm "It's relaxed. Safe, as Brigitta said."
-    sm "es relajado A salvo, como dijo Brigitta."
+    sm "Es relajada. Segura, como dijo Brigitta."
 
 # game/code/Book-1/Chapter-6w/s04.rpy:209
 translate spanish b1c06ws04_ef33c18e_1:
 
     # sm "*sigh* It doesn't help that we've had problems with stalkers in the past. So some of the members are pretty picky about who they let close."
-    sm "*suspiro* No ayuda que hayamos tenido problemas con acosadores en el pasado. Entonces, algunos de los miembros son bastante exigentes con las personas que dejan cerrar."
+    sm "*suspiro* No ayuda que hayamos tenido problemas con acosadores en el pasado. Así que algunos de los miembros son bastante exigentes con las personas a las que dejan entrar."
 
 # game/code/Book-1/Chapter-6w/s04.rpy:211
 translate spanish b1c06ws04_1fc14caf:
@@ -442,7 +442,7 @@ translate spanish b1c06ws04_65d6f799_2:
 translate spanish b1c06ws04_1472ab9f_2:
 
     # sm "But here, they're just normal students. Everyone here gets it. We're all on the same wavelength, and there isn't a need to peacock your wealth or popularity around."
-    sm "Pero aquí, son solo estudiantes normales. Todo el mundo aquí lo entiende. Todos estamos en la misma longitud de onda, y no hay necesidad de pavonearse de su riqueza o popularidad."
+    sm "Pero aquí, son estudiantes normales. Aquí todo el mundo lo entiende. Todos estamos en la misma onda y no hay necesidad de alardear de riqueza o popularidad."
 
 # game/code/Book-1/Chapter-6w/s04.rpy:239
 translate spanish b1c06ws04_de41ee75:
@@ -454,7 +454,7 @@ translate spanish b1c06ws04_de41ee75:
 translate spanish b1c06ws04_ef33c18e_2:
 
     # sm "*sigh* It doesn't help that we've had problems with stalkers in the past. So some of the members are pretty picky about who they let close."
-    sm "*suspiro* No ayuda que hayamos tenido problemas con acosadores en el pasado. Entonces, algunos de los miembros son bastante exigentes con las personas que dejan cerrar."
+    sm "*suspiro* No ayuda que hayamos tenido problemas con acosadores en el pasado. Así que algunos de los miembros son bastante exigentes con las personas a las que dejan entrar."
 
 # game/code/Book-1/Chapter-6w/s04.rpy:247
 translate spanish b1c06ws04_a5818e88:
@@ -472,25 +472,25 @@ translate spanish b1c06ws04_216f6332:
 translate spanish b1c06ws04_e0ed0b4c:
 
     # sm "You will be! I promise. Iona and Oleysa like you fine."
-    sm "¡Usted será! Prometo. A Iona y Oleysa les caes bien."
+    sm "¡Serás aceptado! Lo prometo. A Iona y Oleysa le caes bien."
 
 # game/code/Book-1/Chapter-6w/s04.rpy:252
 translate spanish b1c06ws04_5c2ebc47:
 
     # sm "And I like you fine."
-    sm "Y me gustas bien."
+    sm "Y me caes bien."
 
 # game/code/Book-1/Chapter-6w/s04.rpy:254
 translate spanish b1c06ws04_3f2b0da5:
 
     # mc "I know. And I really appreciate you. I just hope the others come around as fully as you, Iona, and Olesya did, though."
-    mc "Lo sé. Y realmente te aprecio. Sin embargo, solo espero que los demás se acerquen tanto como tú, Iona y Olesya."
+    mc "Lo sé. Y realmente te aprecio. Sin embargo, sólo espero que los demás se acerquen tanto como tú, Iona y Olesya."
 
 # game/code/Book-1/Chapter-6w/s04.rpy:257
 translate spanish b1c06ws04_684f0f0e:
 
     # sm "I'm sure they will."
-    sm "Estoy seguro de que lo harán."
+    sm "Estoy segura de que lo harán."
 
 # game/code/Book-1/Chapter-6w/s04.rpy:259
 translate spanish b1c06ws04_c3e8b6ea:
@@ -544,7 +544,7 @@ translate spanish b1c06ws04_9b48fadb:
 translate spanish b1c06ws04_2b6f07a7:
 
     # sdl "So you're the new golden boy on the Winner's Team. Haven't gotten a close look at you yet."
-    sdl "Así que eres el nuevo chico dorado del equipo de ganadores. Todavía no te he visto de cerca."
+    sdl "Así que eres el nuevo chico dorado del Equipo de Ganadores. Todavía no te he visto de cerca."
 
 # game/code/Book-1/Chapter-6w/s04.rpy:287
 translate spanish b1c06ws04_45114533:
@@ -562,7 +562,7 @@ translate spanish b1c06ws04_f82b7758:
 translate spanish b1c06ws04_035b99bd:
 
     # sdl "You want in that mansion, dontcha?"
-    sdl "Quieres en esa mansión, ¿no?"
+    sdl "Quieres entrar en esa mansión, ¿no?"
 
 # game/code/Book-1/Chapter-6w/s04.rpy:295
 translate spanish b1c06ws04_576b3e33:
@@ -574,7 +574,7 @@ translate spanish b1c06ws04_576b3e33:
 translate spanish b1c06ws04_fe2a6f3a:
 
     # mc "Uh...so who are you, exactly? How are you involved with the Club?"
-    mc "Uh... entonces, ¿quién eres, exactamente? ¿Cómo te involucras con el Club?"
+    mc "Uh... ¿Quién eres exactamente? ¿Cómo estás involucrada con el Club?"
 
 # game/code/Book-1/Chapter-6w/s04.rpy:301
 translate spanish b1c06ws04_a31e1424:
@@ -592,7 +592,7 @@ translate spanish b1c06ws04_52d3c81b:
 translate spanish b1c06ws04_9c55aa6c:
 
     # sdl "Sam De Lange. I was previously involved with the Club."
-    sdl "Sam De Lange. Anteriormente estuve involucrado con el Club."
+    sdl "Sam De Lange. Anteriormente estuve involucrada con el Club."
 
 # game/code/Book-1/Chapter-6w/s04.rpy:307
 translate spanish b1c06ws04_14311342:
@@ -622,13 +622,13 @@ translate spanish b1c06ws04_memory_cloud_c29877d1:
 translate spanish b1c06ws04_memory_cloud_c9e24025:
 
     # dm "There's a girl named Sam De Lange. She's still enrolled here, but fairly reclusive. She would probably know something."
-    dm "Hay una chica llamada Sam De Lange. Todavía está inscrita aquí, pero bastante solitaria. Probablemente sabría algo."
+    dm "Hay una chica llamada Sam De Lange. Todavía está inscrita aquí, pero es bastante solitaria. Probablemente sabría algo."
 
 # game/code/Book-1/Chapter-6w/s04.rpy:330
 translate spanish b1c06ws04_memory_cloud_ef33c18e:
 
     # sm "*sigh* It doesn't help that we've had problems with stalkers in the past. So some of the members are pretty picky about who they let close."
-    sm "*suspiro* No ayuda que hayamos tenido problemas con acosadores en el pasado. Entonces, algunos de los miembros son bastante exigentes con las personas que dejan cerrar."
+    sm "*suspiro* No ayuda que hayamos tenido problemas con acosadores en el pasado. Así que algunos de los miembros son bastante exigentes con las personas a las que dejan entrar."
 
 # game/code/Book-1/Chapter-6w/s04.rpy:350
 translate spanish b1c06ws04_continue_cadea0df:
@@ -694,7 +694,7 @@ translate spanish b1c06ws04_continue_a00c94b2:
 translate spanish b1c06ws04_continue_1cbb2c5b:
 
     # sdl "With the right guidance, you could really make it into the club."
-    sdl "Con la orientación adecuada, realmente podrías llegar al club."
+    sdl "Con la orientación adecuada, podrías llegar a lo más alto en el club."
 
 # game/code/Book-1/Chapter-6w/s04.rpy:370
 translate spanish b1c06ws04_continue_e7573090:
@@ -754,7 +754,7 @@ translate spanish b1c06ws04_continue_39c85533:
 translate spanish b1c06ws04_continue_c321fae0:
 
     # mc "I mean, it'll just take a little time, right? I'm sure as long as I do good on the team and socialize where they let me—"
-    mc "Quiero decir, solo tomará un poco de tiempo, ¿verdad? Estoy seguro de que mientras me vaya bien en el equipo y socialice donde me dejen..."
+    mc "Quiero decir, sólo tomará un poco de tiempo, ¿verdad? Estoy seguro de que mientras me vaya bien en el equipo y socialice donde me dejen..."
 
 # game/code/Book-1/Chapter-6w/s04.rpy:405
 translate spanish b1c06ws04_continue_14ddfa01:
@@ -772,7 +772,7 @@ translate spanish b1c06ws04_continue_3978eaf5:
 translate spanish b1c06ws04_continue_8ca3d167:
 
     # ba "I told you you'd get slaughtered."
-    ba "Te dije que te matarían."
+    ba "Te dije que te masacraría."
 
 # game/code/Book-1/Chapter-6w/s04.rpy:417
 translate spanish b1c06ws04_continue_cb0b3435:
@@ -790,7 +790,7 @@ translate spanish b1c06ws04_continue_8d4a0d8a:
 translate spanish b1c06ws04_continue_0b678737:
 
     # mc "You're the one who got yourself kicked out in the first place."
-    mc "Tú eres el que hizo que te echaran en primer lugar."
+    mc "Tú eres la que hizo que te echaran en primer lugar."
 
 # game/code/Book-1/Chapter-6w/s04.rpy:424
 translate spanish b1c06ws04_continue_db140e24:
@@ -820,7 +820,7 @@ translate spanish b1c06ws04_continue_caf98487:
 translate spanish b1c06ws04_continue_96c5496f:
 
     # sdl "I want revenge, you want popularity..."
-    sdl "Yo quiero venganza, tu quieres popularidad..."
+    sdl "Yo quiero venganza, tú quieres popularidad..."
 
 # game/code/Book-1/Chapter-6w/s04.rpy:433
 translate spanish b1c06ws04_continue_8e03b1f8:
@@ -838,7 +838,7 @@ translate spanish b1c06ws04_continue_3aeb0fc6:
 translate spanish b1c06ws04_continue_5a566365:
 
     # mc "I'm not—"
-    mc "No soy-"
+    mc "No estoy..."
 
 # game/code/Book-1/Chapter-6w/s04.rpy:442
 translate spanish b1c06ws04_continue_4df24a12:
@@ -880,7 +880,7 @@ translate spanish b1c06ws04_continue_960dc72b:
 translate spanish b1c06ws04_continue_c5025ad5:
 
     # mct "But I should at least see this through, for the investigation."
-    mct "Pero al menos debería terminar con esto, para la investigación."
+    mct "Pero al menos debería seguir con esto, por la investigación."
 
 # game/code/Book-1/Chapter-6w/s04.rpy:457
 translate spanish b1c06ws04_continue_f9fa9504:
@@ -910,13 +910,13 @@ translate spanish b1c06ws04_continue_3e6ac6a5:
 translate spanish b1c06ws04_continue_a12a2276:
 
     # mc "Your dorm?"
-    mc "¿Tu dormitorio?"
+    mc "¿Tú dormitorio?"
 
 # game/code/Book-1/Chapter-6w/s04.rpy:470
 translate spanish b1c06ws04_continue_2da78cdf:
 
     # sdl "Yep. C'mon, golden boy. There's much to discuss before your photoshoot tomorrow."
-    sdl "Sí. Vamos, chico dorado. Hay mucho que discutir antes de tu sesión de fotos mañana."
+    sdl "Sí. Vamos, chico dorado. Hay mucho que discutir antes de tu sesión de fotos de mañana."
 
 # game/code/Book-1/Chapter-6w/s04.rpy:473
 translate spanish b1c06ws04_continue_39f12975:
@@ -974,7 +974,7 @@ translate spanish strings:
 
     # game/code/Book-1/Chapter-6w/s04.rpy:140
     old "Crack a joke"
-    new "Contar un chiste"
+    new "Cuenta un chiste"
 
     # game/code/Book-1/Chapter-6w/s04.rpy:140
     old "Be authentic with Silvia"
