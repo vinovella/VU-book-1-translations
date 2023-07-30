@@ -46,7 +46,7 @@ translate spanish b1c06ws06_continue_5de779ef:
 translate spanish b1c06ws06_continue_84abcd5b:
 
     # ir "I guess you'll have to wait and find out, won't cha?"
-    ir "Supongo que tendrás que esperar y averiguarlo, ¿verdad, cha?"
+    ir "Supongo que tendrás que esperar y averiguarlo, ¿no?"
 
 # game/code/Book-1/Chapter-6w/s06.rpy:57
 translate spanish b1c06ws06_continue_09e2792c:
@@ -64,19 +64,19 @@ translate spanish b1c06ws06_continue_2fd04aeb:
 translate spanish b1c06ws06_continue_69df64c8:
 
     # mc "Nice, I should go meet her. I'll catch you later."
-    mc "Genial, debería ir a conocerla. Te alcanzaré más tarde."
+    mc "Bien, debería ir a buscarla. Te veo luego."
 
 # game/code/Book-1/Chapter-6w/s06.rpy:66
 translate spanish b1c06ws06_continue_be39805f:
 
     # ir "Later, Sweetcheeks."
-    ir "Más tarde, Sweetcheeks."
+    ir "Hasta luego, dulzura."
 
 # game/code/Book-1/Chapter-6w/s06.rpy:75
 translate spanish b1c06ws06_continue_47a2fb3f:
 
     # sm "[mcname]! Right on time. I just have a couple more—"
-    sm "[mcname]! Justo a tiempo. Solo tengo un par más—"
+    sm "[mcname]! Justo a tiempo. Sólo me faltan un par más..."
 
 # game/code/Book-1/Chapter-6w/s06.rpy:78
 translate spanish b1c06ws06_continue_a26a3a3f:
@@ -112,7 +112,7 @@ translate spanish b1c06ws06_continue_c3b43447:
 translate spanish b1c06ws06_continue_f938712f:
 
     # sm "I have a couple of outfits picked out, we only need around 3 - 4 shots of each. How does that sound?"
-    sm "Elegí un par de atuendos, solo necesitamos alrededor de 3 a 4 tomas de cada uno. ¿Como suena eso?"
+    sm "Elegí un par de atuendos, sólo necesitamos alrededor de 3 a 4 tomas de cada una. ¿Cómo suena eso?"
 
 # game/code/Book-1/Chapter-6w/s06.rpy:92
 translate spanish b1c06ws06_continue_74c498aa:
@@ -124,19 +124,19 @@ translate spanish b1c06ws06_continue_74c498aa:
 translate spanish b1c06ws06_continue_84e9037e:
 
     # sm "Great! Okay, I just need to go add some finishing touches, and then I'll be ready."
-    sm "¡Excelente! Está bien, solo necesito ir a agregar algunos toques finales, y luego estaré listo."
+    sm "¡Genial! Bueno, sólo tengo que ir a añadir algunos toques finales, y entonces estaré lista."
 
 # game/code/Book-1/Chapter-6w/s06.rpy:98
 translate spanish b1c06ws06_continue_b044f94f:
 
     # sm "Oh, and that's the camera you'll be using. Feel free to get comfy with it."
-    sm "Ah, y esa es la cámara que usarás. Siéntete libre de ponerte cómodo con él."
+    sm "Ah, y esa es la cámara que usarás. Siéntete libre de ponerte cómodo con ella."
 
 # game/code/Book-1/Chapter-6w/s06.rpy:100
 translate spanish b1c06ws06_continue_0d993511:
 
     # sm "And... Thank you, again, for helping me out, by the way. You're a huge help."
-    sm "Y... Gracias, de nuevo, por ayudarme, por cierto. Eres una gran ayuda."
+    sm "Y... Gracias, de nuevo, por ayudarme, por cierto. Eres de gran ayuda."
 
 # game/code/Book-1/Chapter-6w/s06.rpy:103
 translate spanish b1c06ws06_continue_eeacae53:
@@ -154,7 +154,7 @@ translate spanish b1c06ws06_continue_e0f3c5a5:
 translate spanish b1c06ws06_continue_4efa6e3b:
 
     # mc "Just taking some photos of the real you."
-    mc "Solo tomando algunas fotos de tu verdadero yo."
+    mc "lo tomando algunas fotos de tu verdadero yo."
 
 # game/code/Book-1/Chapter-6w/s06.rpy:143
 translate spanish b1c06ws06_continue_4d73e19b:
@@ -166,7 +166,7 @@ translate spanish b1c06ws06_continue_4d73e19b:
 translate spanish b1c06ws06_continue_259f064a:
 
     # mc "It's not that planned photos aren't you..."
-    mc "No es que fotos planeadas no eres tú..."
+    mc "No es que las fotos pensadas no sean..."
 
 # game/code/Book-1/Chapter-6w/s06.rpy:148
 translate spanish b1c06ws06_continue_8eb49593:
@@ -184,7 +184,7 @@ translate spanish b1c06ws06_continue_d31bddab:
 translate spanish b1c06ws06_continue_efe5dfd4:
 
     # sm "A snapshot of time as it was instead of \"perfect\" situations tailor-made to be photographed."
-    sm "Una instantánea del tiempo tal como era en lugar de situaciones \"perfectas\" hechas a medida para ser fotografiadas."
+    sm "Una instantánea del momento tal y como era en lugar de situaciones \"perfectas\" hechas a medida para ser fotografiadas."
 
 # game/code/Book-1/Chapter-6w/s06.rpy:156
 translate spanish b1c06ws06_continue_7c2caa85:
@@ -196,7 +196,7 @@ translate spanish b1c06ws06_continue_7c2caa85:
 translate spanish b1c06ws06_continue_fbf71d47:
 
     # sm "*Giggling* Well, I'm glad you took some. I like candid photos as well."
-    sm "*Risitas* Bueno, me alegro de que hayas tomado un poco. Me gustan las fotos sinceras también."
+    sm "*Risitas* Me alegro de que hicieras algunas. A mí también me gustan las fotos espontáneas."
 
 # game/code/Book-1/Chapter-6w/s06.rpy:161
 translate spanish b1c06ws06_continue_25891ed9:
@@ -226,13 +226,13 @@ translate spanish b1c06ws06_continue_2e7656ed:
 translate spanish b1c06ws06_continue_75842d89:
 
     # "In the background, Iona notices you adjusting yourself."
-    "En el fondo, Iona nota que te estás ajustando."
+    "En el fondo, Iona se da cuenta de que te lo estás acomodando."
 
 # game/code/Book-1/Chapter-6w/s06.rpy:301
 translate spanish b1c06ws06_continue_7f86efca:
 
     # "Iona begins touching herself, thinking of how turned on you must be, and how much she wants to help you with that..."
-    "Iona comienza a tocarse, pensando en lo excitada que debes estar y en lo mucho que quiere ayudarte con eso..."
+    "Iona comienza a tocarse, pensando en lo excitado que debes estar y en lo mucho que quiere ayudarte con eso..."
 
 # game/code/Book-1/Chapter-6w/s06.rpy:351
 translate spanish b1c06ws06_continue_4e89d88b:
@@ -244,25 +244,25 @@ translate spanish b1c06ws06_continue_4e89d88b:
 translate spanish b1c06ws06_continue_663c765f:
 
     # mc "{i}You{/i}, were the one giving me those great poses. I couldn't just not capture those. My photographer code of ethics would never let me."
-    mc "{i}Tú{/i}, fuiste el que me dio esas poses geniales. No podía simplemente no capturarlos. Mi código de ética de fotógrafo nunca me lo permitiría."
+    mc "{i}Tú{/i}, fuiste la que me dio esas poses geniales. No podía simplemente no capturarlas. Mi código de ética de fotógrafo nunca me lo permitiría."
 
 # game/code/Book-1/Chapter-6w/s06.rpy:357
 translate spanish b1c06ws06_continue_10885172:
 
     # sm "*Giggling* Your \"code of ethics\", huh?"
-    sm "*Risitas* Tu \"código de ética\", ¿eh?"
+    sm "*Risitas* Tú \"código de ética\", ¿eh?"
 
 # game/code/Book-1/Chapter-6w/s06.rpy:360
 translate spanish b1c06ws06_continue_50a16ce0:
 
     # mc "I take them very seriously. Obviously."
-    mc "Los tomo muy en serio. Obviamente."
+    mc "Me los tomo muy en serio. Por supuesto."
 
 # game/code/Book-1/Chapter-6w/s06.rpy:363
 translate spanish b1c06ws06_continue_59c393ad:
 
     # sm "Have you ever picked up a camera before today?"
-    sm "¿Alguna vez has cogido una cámara antes de hoy?"
+    sm "¿Alguna vez has usado una cámara antes de hoy?"
 
 # game/code/Book-1/Chapter-6w/s06.rpy:366
 translate spanish b1c06ws06_continue_2b35b6fe:
@@ -280,13 +280,13 @@ translate spanish b1c06ws06_continue_04d47aba:
 translate spanish b1c06ws06_continue_5b2bedc5:
 
     # sm "Well... I {i}was{/i} on point with the poses tonight."
-    sm "Bueno... Yo {i}estaba{/i} acertado con las poses de esta noche."
+    sm "Bueno... Yo {i}estaba{/i} de acuerdo con las poses de esta noche."
 
 # game/code/Book-1/Chapter-6w/s06.rpy:371
 translate spanish b1c06ws06_continue_8a7f9ae5:
 
     # sm "But I'm still the one that has to sort through all of these!"
-    sm "¡Pero sigo siendo yo el que tiene que ordenar todo esto!"
+    sm "¡Pero sigo siendo yo la que tiene que ordenar todo esto!"
 
 # game/code/Book-1/Chapter-6w/s06.rpy:374
 translate spanish b1c06ws06_continue_d1842fa6:
@@ -334,7 +334,7 @@ translate spanish b1c06ws06_continue_22ceb3dd:
 translate spanish b1c06ws06_continue_c82c393c:
 
     # mc "Of course. Like I said, anytime you need me. I'll be there."
-    mc "Por supuesto. Como dije, cada vez que me necesites. Voy a estar allí."
+    mc "Por supuesto. Como dije, cuando me necesites. Estaré allí."
 
 # game/code/Book-1/Chapter-6w/s06.rpy:404
 translate spanish b1c06ws06_continue_e8c95f11:
@@ -346,5 +346,5 @@ translate spanish strings:
 
     # game/code/Book-1/Chapter-6w/s06.rpy:17
     old "The next evening"
-    new "la noche siguiente"
+    new "Al día siguiente por la tarde"
 
