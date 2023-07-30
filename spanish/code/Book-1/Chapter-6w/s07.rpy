@@ -22,7 +22,7 @@ translate spanish b1c06ws07_e528a7af:
 translate spanish b1c06ws07_3efc1672:
 
     # mct "Hopefully our chat later will get me one step closer into that mansion."
-    mct "Con suerte, nuestra charla más tarde me acercará un paso más a esa mansión."
+    mct "Espero que en la conversación que tengamos más tarde me acerque un poco más a la mansión."
 
 # game/code/Book-1/Chapter-6w/s07.rpy:38
 translate spanish b1c06ws07_3a35ae13:
@@ -52,7 +52,7 @@ translate spanish b1c06ws07_11455b53:
 translate spanish b1c06ws07_cd2c1b55:
 
     # ir "Silvia. Context clues, babe. C'mon."
-    ir "Silvia. Pistas de contexto, nena. Vamos."
+    ir "Silvia. Pistas de contexto, cariño. Vamos."
 
 # game/code/Book-1/Chapter-6w/s07.rpy:53
 translate spanish b1c06ws07_d77a2c04:
@@ -118,7 +118,7 @@ translate spanish b1c06ws07_ba5fb256:
 translate spanish b1c06ws07_61d9289b:
 
     # mc "Don't think I didn't see you getting real comfy while ogling me."
-    mc "No creas que no te vi poniéndote muy cómoda mientras me mirabas con los ojos."
+    mc "No creas que no te vi poniéndote muy cómoda mientras me mirabas."
 
 # game/code/Book-1/Chapter-6w/s07.rpy:88
 translate spanish b1c06ws07_39bb54ef:
@@ -166,13 +166,13 @@ translate spanish b1c06ws07_7366e862:
 translate spanish b1c06ws07_d54bb5dc:
 
     # "She's quick to get to work. She turns on a dime and squats in front of you with practiced precision."
-    "Ella es rápida para llegar al trabajo. Ella gira una moneda de diez centavos y se pone en cuclillas frente a ti con precisión practicada."
+    "Es rápida en el trabajo. Gira en un instante y se pone en cuclillas delante de ti con precisión."
 
 # game/code/Book-1/Chapter-6w/s07.rpy:120
 translate spanish b1c06ws07_18649173:
 
     # "Her eyes burn into yours, their deep blues accentuated by the cold moonlit night, she doesn't take you out of her sight as she works your pants off."
-    "Sus ojos se clavan en los tuyos, sus profundos azules acentuados por la fría noche de luna, no te quita de la vista mientras te quita los pantalones."
+    "Sus ojos se clavan en los tuyos, sus profundos ojos azules acentuados por la fría noche de luna, no te pierde de vista mientras te quita los pantalones."
 
 # game/code/Book-1/Chapter-6w/s07.rpy:123
 translate spanish b1c06ws07_909422dd:
@@ -226,13 +226,13 @@ translate spanish b1c06ws07_85e269ab:
 translate spanish b1c06ws07_27e1f6ef:
 
     # "Iona looks up at you, spurred on by your reaction, she runs her warm and wet tongue along your length, wetting and teasing your dick to its full length."
-    "Iona te mira, estimulada por tu reacción, pasa su cálida y húmeda lengua a lo largo de tu longitud, mojando y provocando tu polla en toda su longitud."
+    "Iona te mira, estimulada por tu reacción, pasa su cálida y húmeda lengua a lo largo de tu longitud, mojando y provocando tu polla en toda su extensión."
 
 # game/code/Book-1/Chapter-6w/s07.rpy:156
 translate spanish b1c06ws07_2fa4d205:
 
     # "The feeling of her warm mouth and tongue in contrast to the cold night air causes another shiver to travel down your spine, and into your loins."
-    "La sensación de su boca y lengua cálidas en contraste con el aire frío de la noche hace que otro escalofrío recorra tu columna vertebral y llegue a tus ingles."
+    "La sensación de su cálida boca y su lengua en contacto con el frío aire de la noche hace que otro escalofrío recorra tu espina dorsal hasta llegar a tus partes bajas."
 
 # game/code/Book-1/Chapter-6w/s07.rpy:159
 translate spanish b1c06ws07_4e9f123a:
@@ -256,7 +256,7 @@ translate spanish b1c06ws07_4a2a1fe4:
 translate spanish b1c06ws07_7cfed95d:
 
     # "You buck your hips in time with her rhythm, but slowly your excitement overtakes you. You wanted to take it at her pace, but she's too good not to fuck senseless."
-    "Mueves las caderas al compás de su ritmo, pero lentamente te supera la emoción. Querías ir a su ritmo, pero es demasiado buena para no follar sin sentido."
+    "Mueves las caderas al compás de su ritmo, pero poco a poco la excitación te supera. Querías seguir su ritmo, pero es demasiado buena para no follarla hasta dejarla sin sentido."
 
 # game/code/Book-1/Chapter-6w/s07.rpy:178
 translate spanish b1c06ws07_2fd65000:
@@ -298,19 +298,19 @@ translate spanish b1c06ws07_98b7a0d6:
 translate spanish b1c06ws07_b97f8555:
 
     # ir "I want you to use that for {i}my{/i} pleasure now."
-    ir "Quiero que uses eso para {i}mi{/i} placer ahora."
+    ir "Quiero que ahora uses eso para mi placer."
 
 # game/code/Book-1/Chapter-6w/s07.rpy:211
 translate spanish b1c06ws07_5c0c85fb:
 
     # ir "I want you to fuck me like an animal. Ravage me, feel me from the inside."
-    ir "Quiero que me folles como un animal. Destrozame, siénteme desde dentro."
+    ir "Quiero que me folles como a un animal. Destrózame, siénteme desde dentro."
 
 # game/code/Book-1/Chapter-6w/s07.rpy:216
 translate spanish b1c06ws07_da5b4e21:
 
     # ir "Come on! Do it. I'm so fucking wet. I want to feel you fuck me."
-    ir "¡Vamos! Hazlo. Estoy tan jodidamente mojado. Quiero sentir que me follas."
+    ir "¡Vamos! Hazlo. Estoy demasiado húmeda. Quiero sentir que me follas."
 
 # game/code/Book-1/Chapter-6w/s07.rpy:218
 translate spanish b1c06ws07_bc9ee36b:
@@ -346,31 +346,31 @@ translate spanish b1c06ws07_6cbb4388:
 translate spanish b1c06ws07_3c66ecd3:
 
     # mc "Don't you move, {i}sweetcheeks{/i}, I'm going to fuck you until you collapse, and then maybe I'll let you cum."
-    mc "No te muevas, {i}dulce mejilla{/i}, te voy a follar hasta que te derrumbes, y luego tal vez deje que te corras."
+    mc "No te muevas, {i}dulzura{/i}, te voy a follar hasta que te derrumbes, y entonces quizá te deje correrte."
 
 # game/code/Book-1/Chapter-6w/s07.rpy:253
 translate spanish b1c06ws07_826de7d1:
 
     # "Her eyes half-close, lost in pleasure. Her mouth hangs open with a smile, all she can get out is a moan. You take that as a signal to continue."
-    "Sus ojos entrecerrados, perdidos en el placer. Su boca cuelga abierta con una sonrisa, todo lo que puede soltar es un gemido. Lo tomas como una señal para continuar."
+    "Sus ojos se entrecierran, perdidos en el placer. Tiene la boca abierta con una sonrisa, y lo único que se le escapa es un gemido. Lo tomas como una señal para continuar."
 
 # game/code/Book-1/Chapter-6w/s07.rpy:256
 translate spanish b1c06ws07_6009142b:
 
     # "You pound into her over and over, buckling her legs and stirring up her insides as you both build orgasms."
-    "La golpeas una y otra vez, doblando sus piernas y removiendo sus entrañas mientras ambos construyen orgasmos."
+    "La golpeas una y otra vez, doblando sus piernas y removiendo sus entrañas mientras ambos construyen sus orgasmos."
 
 # game/code/Book-1/Chapter-6w/s07.rpy:263
 translate spanish b1c06ws07_6009142b_1:
 
     # "You pound into her over and over, buckling her legs and stirring up her insides as you both build orgasms."
-    "La golpeas una y otra vez, doblando sus piernas y removiendo sus entrañas mientras ambos construyen orgasmos."
+    "La golpeas una y otra vez, doblando sus piernas y removiendo sus entrañas mientras ambos construyen sus orgasmos."
 
 # game/code/Book-1/Chapter-6w/s07.rpy:269
 translate spanish b1c06ws07_1404b6cb:
 
     # ir "F-fuckI'mcumming!"
-    ir "¡F-joder, me estoy corriendo!"
+    ir "¡M-mierda, me estoy corriendo!"
 
 # game/code/Book-1/Chapter-6w/s07.rpy:272
 translate spanish b1c06ws07_3f159ad6:
@@ -412,7 +412,7 @@ translate spanish b1c06ws07_1fe2efdf:
 translate spanish b1c06ws07_aeed3199:
 
     # ir "Mm, I like that you came inside me. It makes me feel so full and warm."
-    ir "Mm, me gusta que te corrieras dentro de mí. Me hace sentir tan lleno y cálido."
+    ir "Mm, me gusta que te corras dentro de mí. Me hace sentir tan llena y cálida."
 
 # game/code/Book-1/Chapter-6w/s07.rpy:290
 translate spanish b1c06ws07_3d558633:
@@ -430,7 +430,7 @@ translate spanish b1c06ws07_17543337:
 translate spanish b1c06ws07_caff1ee4:
 
     # ir "Jeez, you're greedy. Hardly left any for me!"
-    ir "Dios, eres codicioso. ¡Casi no me queda ninguno!"
+    ir "Vaya, eres codicioso. ¡Apenas dejaste algo para mí!"
 
 # game/code/Book-1/Chapter-6w/s07.rpy:310
 translate spanish b1c06ws07_5c07512d:
@@ -442,13 +442,13 @@ translate spanish b1c06ws07_5c07512d:
 translate spanish b1c06ws07_01e8a8cd:
 
     # ir "Your loss, babe."
-    ir "Tu pérdida, nena."
+    ir "Tú te lo pierdes, cariño."
 
 # game/code/Book-1/Chapter-6w/s07.rpy:320
 translate spanish b1c06ws07_fa3ce4db:
 
     # ir "I feel so much better after a good fuck."
-    ir "Me siento mucho mejor después de una buena cogida."
+    ir "Me siento mucho mejor después de una buena follada."
 
 # game/code/Book-1/Chapter-6w/s07.rpy:325
 translate spanish b1c06ws07_63fecd17:
@@ -460,7 +460,7 @@ translate spanish b1c06ws07_63fecd17:
 translate spanish b1c06ws07_524e9104:
 
     # ir "*Giggles* And you love that about me."
-    ir "*Risitas* Y eso te encanta de mí."
+    ir "*Risitas* Y eso es algo que te encanta de mí."
 
 # game/code/Book-1/Chapter-6w/s07.rpy:333
 translate spanish b1c06ws07_c1e6be5e:
@@ -482,15 +482,15 @@ translate spanish strings:
 
     # game/code/Book-1/Chapter-6w/s07.rpy:168
     old "Fuck her mouth"
-    new "A la mierda su boca"
+    new "Fóllate su boca"
 
     # game/code/Book-1/Chapter-6w/s07.rpy:168
     old "Let her continue at her pace"
-    new "Dejala que siga a su ritmo"
+    new "Déjala continuar a su ritmo"
 
     # game/code/Book-1/Chapter-6w/s07.rpy:238
     old "Fuck her roughly"
-    new "Fóllala más o menos"
+    new "Fóllatela con rudeza"
 
     # game/code/Book-1/Chapter-6w/s07.rpy:238
     old "Don't"
