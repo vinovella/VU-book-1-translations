@@ -22,7 +22,7 @@ translate spanish b1c06ws02_d03c4404:
 translate spanish b1c06ws02_b457a44c:
 
     # mct "Hm, must've been a draft."
-    mct "Hm, debe haber sido un borrador."
+    mct "Hm, debe haber sido mi imaginación."
 
 # game/code/Book-1/Chapter-6w/s02.rpy:66
 translate spanish b1c06ws02_d910965b:
@@ -40,19 +40,19 @@ translate spanish b1c06ws02_aafbe2f1:
 translate spanish b1c06ws02_4a1e17b7:
 
     # sm "Nothin' much. Heading to the mansion. {w}I'm guessing you're going as well?"
-    sm "Nada mucho. Dirigiéndose a la mansión. {w}¿Supongo que tú también irás?"
+    sm "No mucho. Me dirijo a la mansión. {w}¿Supongo que tú también irás?"
 
 # game/code/Book-1/Chapter-6w/s02.rpy:75
 translate spanish b1c06ws02_ccfcfc63:
 
     # mc "Read my mind."
-    mc "Lee mi mente."
+    mc "Lees mi mente."
 
 # game/code/Book-1/Chapter-6w/s02.rpy:78
 translate spanish b1c06ws02_dac37e24:
 
     # sm "Just an astute observation. No mind-reading sadly."
-    sm "Sólo una observación astuta. Lamentablemente, no hay lectura de la mente."
+    sm "Sólo una observación astuta. Lamentablemente, no leo la mente."
 
 # game/code/Book-1/Chapter-6w/s02.rpy:81
 translate spanish b1c06ws02_364164f2:
@@ -70,7 +70,7 @@ translate spanish b1c06ws02_096d83b5:
 translate spanish b1c06ws02_9fb142a9:
 
     # mc "No, no. Don't feel bad! It's okay. You're busy. It's totally understandable."
-    mc "No no. ¡No te sientas mal! Está bien. Estás ocupado. Es totalmente comprensible."
+    mc "No, no. ¡No te sientas mal! Está bien. Estás ocupada. Es totalmente comprensible."
 
 # game/code/Book-1/Chapter-6w/s02.rpy:90
 translate spanish b1c06ws02_ecb851e6:
@@ -82,7 +82,7 @@ translate spanish b1c06ws02_ecb851e6:
 translate spanish b1c06ws02_46bed535:
 
     # sm "You wanna walk together?"
-    sm "¿Quieres caminar juntos?"
+    sm "¿Quieres que caminemos juntos?"
 
 # game/code/Book-1/Chapter-6w/s02.rpy:95
 translate spanish b1c06ws02_d53ea818:
@@ -106,13 +106,13 @@ translate spanish b1c06ws02_2c16e9a4:
 translate spanish b1c06ws02_68f7d650:
 
     # sm "*Laughs* God I can still taste the smell now. Everyone got {i}{b}so{/b}{/i} pissed."
-    sm "*Risas* Dios, todavía puedo saborear el olor ahora. Todos estaban {i}{b}muy{/b}{/i} cabreados."
+    sm "*Risas* Dios, todavía puedo sentir el olor. Todos estaban {i}{b}tan{/b}{/i} enojados."
 
 # game/code/Book-1/Chapter-6w/s02.rpy:109
 translate spanish b1c06ws02_93d3b878:
 
     # sm "Thankfully once they found out they did a total renovation and installed detectors all over the place."
-    sm "Afortunadamente, una vez que se enteraron, hicieron una renovación total e instalaron detectores por todo el lugar."
+    sm "Por suerte, en cuanto se dieron cuenta, hicieron una renovación total e instalaron detectores por todas partes."
 
 # game/code/Book-1/Chapter-6w/s02.rpy:112
 translate spanish b1c06ws02_faddd103:
@@ -124,7 +124,7 @@ translate spanish b1c06ws02_faddd103:
 translate spanish b1c06ws02_60d92491:
 
     # sm "I'm not sure. She kinda faded out. Maybe she got a hobby."
-    sm "No estoy seguro. Ella se desvaneció un poco. Tal vez ella tiene un pasatiempo."
+    sm "No estoy segura. Ella se desvaneció. Tal vez ella tiene algún pasatiempo."
 
 # game/code/Book-1/Chapter-6w/s02.rpy:120
 translate spanish b1c06ws02_7672ffd6:
@@ -154,7 +154,7 @@ translate spanish b1c06ws02_700e6051:
 translate spanish b1c06ws02_b03e192a:
 
     # sm "Hm? Yeah. Just...memories."
-    sm "¿Hmm? Sí. Solo memorias."
+    sm "¿Hm? Sí. Sólo... recuerdos."
 
 # game/code/Book-1/Chapter-6w/s02.rpy:137
 translate spanish b1c06ws02_2b6bfa8a:
@@ -172,7 +172,7 @@ translate spanish b1c06ws02_e73e6d1c:
 translate spanish b1c06ws02_a5ee55ab:
 
     # sm "Right, anyway. Sorry. Ugh—"
-    sm "Correcto, de todos modos. Lo siento. Puaj-"
+    sm "Bien, de todos modos. Lo siento. Ugh-"
 
 # game/code/Book-1/Chapter-6w/s02.rpy:144
 translate spanish b1c06ws02_19fb2957:
@@ -190,19 +190,19 @@ translate spanish b1c06ws02_08dd754c:
 translate spanish b1c06ws02_de247c98:
 
     # mc "You don't have to, like...put on a happy face."
-    mc "No tienes que, como... poner una cara feliz."
+    mc "No tienes que... poner una cara feliz."
 
 # game/code/Book-1/Chapter-6w/s02.rpy:153
 translate spanish b1c06ws02_3f73edb9:
 
     # sm "What? I'm not...well, I guess I am."
-    sm "¿Qué? No lo soy... bueno, supongo que lo soy."
+    sm "¿Qué? Yo no... bueno, supongo que lo hago."
 
 # game/code/Book-1/Chapter-6w/s02.rpy:156
 translate spanish b1c06ws02_d5d06052:
 
     # sm "Sorry. I'm not trying to be inauthentic. I just don't want to be a downer."
-    sm "Lo siento. No estoy tratando de ser falso. Simplemente no quiero ser un deprimente."
+    sm "Lo siento. No estoy tratando de ser falsa. Simplemente no quiero ser un deprimente."
 
 # game/code/Book-1/Chapter-6w/s02.rpy:157
 translate spanish b1c06ws02_e152c1b6:
@@ -214,7 +214,7 @@ translate spanish b1c06ws02_e152c1b6:
 translate spanish b1c06ws02_58489072:
 
     # mc "And that's okay. Sometimes you just have to feel what you feel. Stopping that is only going to eat you up from the inside."
-    mc "Y eso está bien. A veces solo tienes que sentir lo que sientes. Detener eso solo te va a comer por dentro."
+    mc "Y no pasa nada. A veces tienes que sentir lo que sientes. Detener eso sólo va a comerte por dentro."
 
 # game/code/Book-1/Chapter-6w/s02.rpy:161
 translate spanish b1c06ws02_6225c1d2:
@@ -226,7 +226,7 @@ translate spanish b1c06ws02_6225c1d2:
 translate spanish b1c06ws02_5f7b4f22:
 
     # sm "Thank you. I appreciate that."
-    sm "Gracias. Soy consciente de que."
+    sm "Gracias. Soy consciente de eso."
 
 # game/code/Book-1/Chapter-6w/s02.rpy:166
 translate spanish b1c06ws02_03c6ed35:
@@ -256,7 +256,7 @@ translate spanish b1c06ws02_aefa505b:
 translate spanish b1c06ws02_64bfce6f:
 
     # mc "Oh right, your modeling gig. Is the photographer gonna show today?"
-    mc "Oh cierto, tu actuación como modelo. ¿El fotógrafo va a mostrar hoy?"
+    mc "Claro, tu actuación de modelaje. ¿Va a aparecer hoy el fotógrafo?"
 
 # game/code/Book-1/Chapter-6w/s02.rpy:178
 translate spanish b1c06ws02_c5433e7d:
@@ -286,7 +286,7 @@ translate spanish b1c06ws02_31a45b5a:
 translate spanish b1c06ws02_ed2b47ee:
 
     # sm "*Giggling* I know. It's just that...they're a friend of mine, so I don't want to offend them."
-    sm "*Riéndose* Lo sé. Es solo que... son amigos míos, así que no quiero ofenderlos."
+    sm "*Riéndose* Lo sé. Es sólo que... son amigos míos, así que no quiero ofenderlos."
 
 # game/code/Book-1/Chapter-6w/s02.rpy:193
 translate spanish b1c06ws02_a68aaee6:
@@ -310,13 +310,13 @@ translate spanish b1c06ws02_4da34bcf:
 translate spanish b1c06ws02_8e01b62b:
 
     # sm "I know Simon dabbled before, but he's just so...{w} {i}Horny.{/i}"
-    sm "Sé que Simon incursionó antes, pero es tan... {w} {i}Cachonda.{/i}"
+    sm "Sé que Simón incursionó antes, pero es tan... {w} {i}Caliente.{/i}"
 
 # game/code/Book-1/Chapter-6w/s02.rpy:202
 translate spanish b1c06ws02_1880b7bd:
 
     # sm "*Laughing* And I kinda feel bad! Like, he has asked me out so many times now and I've tried to let him down easy, but he just {i}cannot{/i} take a hint to save his life."
-    sm "*Risas* ¡Y me siento un poco mal! Me ha invitado a salir tantas veces y he tratado de decepcionarlo fácilmente, pero él simplemente {i} no puede {/i} tomar una pista para salvar su vida."
+    sm "*Risas* ¡Y me siento mal! Al igual que, él me ha invitado a salir tantas veces y he tratado de decepcionarlo, pero él simplemente {i}no puede{/i} captar una indirecta para salvarse a sí mismo."
 
 # game/code/Book-1/Chapter-6w/s02.rpy:205
 translate spanish b1c06ws02_dd88904b:
@@ -328,7 +328,7 @@ translate spanish b1c06ws02_dd88904b:
 translate spanish b1c06ws02_c3f45591:
 
     # mc "*Laughing* I absolutely get it. He's like a dog that just keeps humping your leg."
-    mc "*Risas* Lo entiendo absolutamente. Es como un perro que sigue jorobando tu pierna."
+    mc "*Risas* Lo entiendo perfectamente. Es como un perro que no deja de acariciarte la pierna."
 
 # game/code/Book-1/Chapter-6w/s02.rpy:211
 translate spanish b1c06ws02_0916d60d:
@@ -370,7 +370,7 @@ translate spanish b1c06ws02_2b40ecc9:
 translate spanish b1c06ws02_608e4363:
 
     # mc "Sure. Just let me know whenever you're ready tomorrow."
-    mc "Seguro. Solo avísame cuando estés listo mañana."
+    mc "Seguro. Sólo avísame cuando estés lista mañana."
 
 # game/code/Book-1/Chapter-6w/s02.rpy:230
 translate spanish b1c06ws02_e5d097e8:
@@ -382,7 +382,7 @@ translate spanish b1c06ws02_e5d097e8:
 translate spanish b1c06ws02_0c96a6d6:
 
     # mc "I can hear Simon fuming in the distance already."
-    mc "Ya puedo escuchar a Simon echando humo en la distancia."
+    mc "Ya puedo escuchar a Simón echando humo en la distancia."
 
 # game/code/Book-1/Chapter-6w/s02.rpy:236
 translate spanish b1c06ws02_2f97ab8d:
