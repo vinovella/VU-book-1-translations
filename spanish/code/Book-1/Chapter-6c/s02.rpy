@@ -4,13 +4,13 @@
 translate spanish b1c06cs02_abba06c6:
 
     # dk "Sit across from each other on the floor there."
-    dk "Siéntense uno frente al otro en el suelo allí."
+    dk "Siéntense en el suelo, uno frente al otro."
 
 # game/code/Book-1/Chapter-6c/s02.rpy:18
 translate spanish b1c06cs02_331224b4:
 
     # dk "And open up your workbooks."
-    dk "Y abre tus libros de trabajo."
+    dk "Y abran sus libros de trabajo."
 
 # game/code/Book-1/Chapter-6c/s02.rpy:26
 translate spanish b1c06cs02_a579228b:
@@ -58,19 +58,19 @@ translate spanish b1c06cs02_9469254d:
 translate spanish b1c06cs02_cd381a9f:
 
     # dk "Now, let's get started. We'll have to have these done in time for the next seminar."
-    dk "Ahora, comencemos. Tendremos que tener estos hechos a tiempo para el próximo seminario."
+    dk "Ahora, empecemos. Tendremos que tener esto terminado para el próximo seminario."
 
 # game/code/Book-1/Chapter-6c/s02.rpy:48
 translate spanish b1c06cs02_7eecf854:
 
     # dk "What are you here to improve about yourself?"
-    dk "¿Qué estás aquí para mejorar de ti mismo?"
+    dk "¿Qué quieres mejorar de ti mismo?"
 
 # game/code/Book-1/Chapter-6c/s02.rpy:51
 translate spanish b1c06cs02_089db94a:
 
     # mc "Oh, I just think the self can always use improvement. Right? Like, we're all flawed."
-    mc "Oh, solo creo que el yo siempre puede mejorar. ¿Bien? Como, todos somos defectuosos."
+    mc "Creo que uno siempre puede mejorar. ¿Verdad? Como, todos somos defectuosos."
 
 # game/code/Book-1/Chapter-6c/s02.rpy:58
 translate spanish b1c06cs02_dc5f1b1c:
@@ -100,19 +100,19 @@ translate spanish b1c06cs02_060c45ad:
 translate spanish b1c06cs02_6fd5ee9f:
 
     # dk "The reason you have to voice your answers is to make them {i}realized.{/i} We can't heal what we don't know about."
-    dk "La razón por la que tienes que expresar tus respuestas es para hacerlas {i}realizadas.{/i} No podemos curar lo que no conocemos."
+    dk "La razón por la que tienes que expresar tus respuestas es para que se hagan {i} realidad.{/i} No podemos sanar lo que desconocemos."
 
 # game/code/Book-1/Chapter-6c/s02.rpy:69
 translate spanish b1c06cs02_d2f9e023:
 
     # dk "There are no secrets here. Only loyalty and healing."
-    dk "Aquí no hay secretos. Solo lealtad y sanación."
+    dk "Aquí no hay secretos. Sólo lealtad y sanación."
 
 # game/code/Book-1/Chapter-6c/s02.rpy:72
 translate spanish b1c06cs02_d387fd6e:
 
     # dk "Voicing your insecurities and expressing vulnerability shouldn't be a problem if you're loyal and ready to heal, right?"
-    dk "Expresar sus inseguridades y expresar su vulnerabilidad no debería ser un problema si es leal y está listo para sanar, ¿verdad?"
+    dk "Expresar tus inseguridades y tu vulnerabilidad no debería ser un problema si eres leal y estás dispuesto a sanar, ¿verdad?"
 
 # game/code/Book-1/Chapter-6c/s02.rpy:75
 translate spanish b1c06cs02_c067cbde:
@@ -130,7 +130,7 @@ translate spanish b1c06cs02_08ef0c85:
 translate spanish b1c06cs02_bf95ff07:
 
     # mc "No, no. I don't want to hold us back."
-    mc "No no. No quiero detenernos."
+    mc "No, no. No quiero detenernos."
 
 # game/code/Book-1/Chapter-6c/s02.rpy:84
 translate spanish b1c06cs02_8ea05fca:
@@ -142,7 +142,7 @@ translate spanish b1c06cs02_8ea05fca:
 translate spanish b1c06cs02_4dc78620:
 
     # nv "You shouldn't feel pressured to answer anything you don't want to. We're just letting you know that you're safe here."
-    nv "No debes sentirte presionado a responder algo que no quieras. Solo te estamos haciendo saber que estás a salvo aquí."
+    nv "No debes sentirte presionado a responder algo que no quieras. Sólo te estamos haciendo saber que estás a salvo aquí."
 
 # game/code/Book-1/Chapter-6c/s02.rpy:88
 translate spanish b1c06cs02_24d36869:
@@ -214,7 +214,7 @@ translate spanish b1c06cs02_df9f15a8:
 translate spanish b1c06cs02_53e30bfa:
 
     # mc "I don't think it matters to me what the truth {i}is.{/i} It just matters to me that I know."
-    mc "No creo que me importe cuál es la verdad {i}. {/i} Solo me importa saberlo."
+    mc "No creo que me importe cuál es la verdad {i}. {/i} Sólo me importa saberla."
 
 # game/code/Book-1/Chapter-6c/s02.rpy:122
 translate spanish b1c06cs02_41cb1676:
@@ -232,7 +232,7 @@ translate spanish b1c06cs02_11455b53:
 translate spanish b1c06cs02_d8e7847b:
 
     # dk "Truth is relative. The way you perceive something could be different from how I perceive it."
-    dk "La verdad es relativa. La forma en que percibes algo podría ser diferente de cómo lo percibo yo."
+    dk "La verdad es relativa. La forma en que percibes algo podría ser diferente de cómo la percibo yo."
 
 # game/code/Book-1/Chapter-6c/s02.rpy:131
 translate spanish b1c06cs02_a4fb9434:
@@ -292,7 +292,7 @@ translate spanish b1c06cs02_42d36234:
 translate spanish b1c06cs02_8e715219:
 
     # dk "So what is it you both want to experience the most?"
-    dk "Entonces, ¿qué es lo que ambos quieren experimentar más?"
+    dk "Entonces, ¿qué es lo que más desean experimentar ustedes dos?"
 
 # game/code/Book-1/Chapter-6c/s02.rpy:158
 translate spanish b1c06cs02_7962ef93:
@@ -310,7 +310,7 @@ translate spanish b1c06cs02_e885e877:
 translate spanish b1c06cs02_d2ba78d3:
 
     # dk "We'll find the answers either way, but it won't be easy."
-    dk "Encontraremos las respuestas de cualquier manera, pero no será fácil."
+    dk "De cualquier manera encontraremos las respuestas, pero no será fácil."
 
 # game/code/Book-1/Chapter-6c/s02.rpy:165
 translate spanish b1c06cs02_04febaac:
@@ -346,13 +346,13 @@ translate spanish b1c06cs02_973524df:
 translate spanish b1c06cs02_3f8b65aa:
 
     # mc "The first line is: Talk about a part of your body."
-    mc "La primera línea es: Habla sobre una parte de tu cuerpo."
+    mc "La primera línea dice: Habla sobre una parte de tu cuerpo."
 
 # game/code/Book-1/Chapter-6c/s02.rpy:181
 translate spanish b1c06cs02_e37c5550:
 
     # mc "What's this supposed to teach us, O wise one?"
-    mc "¿Qué se supone que debe enseñarnos esto, oh sabio?"
+    mc "¿Qué se supone que debe enseñarnos esto, oh sabia?"
 
 # game/code/Book-1/Chapter-6c/s02.rpy:184
 translate spanish b1c06cs02_a7fdde19:
@@ -364,7 +364,7 @@ translate spanish b1c06cs02_a7fdde19:
 translate spanish b1c06cs02_d706a0e5:
 
     # dk "Any takers?"
-    dk "¿Ningún arrendatario?"
+    dk "¿Algún interesado?"
 
 # game/code/Book-1/Chapter-6c/s02.rpy:189
 translate spanish b1c06cs02_75f72183:
@@ -376,7 +376,7 @@ translate spanish b1c06cs02_75f72183:
 translate spanish b1c06cs02_e533ef7a:
 
     # nv "I'm not comfortable enough yet."
-    nv "Todavía no estoy lo suficientemente cómodo."
+    nv "Todavía no estoy lo suficientemente cómoda."
 
 # game/code/Book-1/Chapter-6c/s02.rpy:195
 translate spanish b1c06cs02_e1e54188:
@@ -394,7 +394,7 @@ translate spanish b1c06cs02_04cd19f1:
 translate spanish b1c06cs02_001a7899:
 
     # dk "I have nothing to hide. I'm completely comfortable with you two."
-    dk "No tengo nada que esconder. Estoy completamente cómodo con ustedes dos."
+    dk "No tengo nada que esconder. Estoy completamente cómoda con ustedes dos."
 
 # game/code/Book-1/Chapter-6c/s02.rpy:212
 translate spanish b1c06cs02_9b096845:
@@ -454,7 +454,7 @@ translate spanish b1c06cs02_25cc6272:
 translate spanish b1c06cs02_33096fe4:
 
     # dk "Alright, enough distractions. Write your answers in your workbooks and we'll move on to the next thing."
-    dk "Muy bien, basta de distracciones. Escriba sus respuestas en sus libros de trabajo y pasaremos a lo siguiente."
+    dk "Muy bien, basta de distracciones. Escriba sus respuestas en sus libros de trabajo y pasaremos a la siguiente."
 
 # game/code/Book-1/Chapter-6c/s02.rpy:247
 translate spanish b1c06cs02_55974826:
@@ -472,13 +472,13 @@ translate spanish b1c06cs02_bff42c4f:
 translate spanish b1c06cs02_940c50e8:
 
     # dk "Fine by me. I have to get to my Greek studies class. We're doing a pottery project today."
-    dk "Bien por mi. Tengo que llegar a mi clase de estudios griegos. Estamos haciendo un proyecto de cerámica hoy."
+    dk "Me parece bien. Tengo que ir a mi clase de estudios griegos. Hoy haremos un proyecto de cerámica."
 
 # game/code/Book-1/Chapter-6c/s02.rpy:256
 translate spanish b1c06cs02_f096ebaf:
 
     # nv "Ooh, sounds interesting. Have fun! I'll see ya later."
-    nv "Oh, suena interesante. ¡Divertirse! Te veré más tarde."
+    nv "Suena interesante. ¡Que te diviertas! Nos vemos más tarde."
 
 # game/code/Book-1/Chapter-6c/s02.rpy:259
 translate spanish b1c06cs02_f5a253a8:
@@ -526,7 +526,7 @@ translate spanish b1c06cs02_b00282ee:
 translate spanish b1c06cs02_8229228f:
 
     # dk "Well, I'm flattered."
-    dk "Bueno, me siento halagado."
+    dk "Bueno, me siento halagada."
 
 # game/code/Book-1/Chapter-6c/s02.rpy:281
 translate spanish b1c06cs02_c4ff6a4f:

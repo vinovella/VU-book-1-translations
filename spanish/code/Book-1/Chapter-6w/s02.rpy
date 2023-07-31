@@ -310,7 +310,7 @@ translate spanish b1c06ws02_4da34bcf:
 translate spanish b1c06ws02_8e01b62b:
 
     # sm "I know Simon dabbled before, but he's just so...{w} {i}Horny.{/i}"
-    sm "Sé que Simón incursionó antes, pero es tan... {w} {i}Caliente.{/i}"
+    sm "Sé que Simon incursionó antes, pero es tan... {w} {i}Caliente.{/i}"
 
 # game/code/Book-1/Chapter-6w/s02.rpy:202
 translate spanish b1c06ws02_1880b7bd:
