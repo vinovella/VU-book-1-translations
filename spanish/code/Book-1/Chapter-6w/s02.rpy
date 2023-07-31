@@ -382,7 +382,7 @@ translate spanish b1c06ws02_e5d097e8:
 translate spanish b1c06ws02_0c96a6d6:
 
     # mc "I can hear Simon fuming in the distance already."
-    mc "Ya puedo escuchar a Simon echando humo en la distancia."
+    mc "Ya puedo escuchar a Simón echando humo en la distancia."
 
 # game/code/Book-1/Chapter-6w/s02.rpy:236
 translate spanish b1c06ws02_2f97ab8d:
