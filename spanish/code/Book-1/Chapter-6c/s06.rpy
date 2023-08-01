@@ -46,7 +46,7 @@ translate spanish b1c06cs06_1bf60051:
 translate spanish b1c06cs06_613ea805:
 
     # ef "Nia! I was hoping you'd show."
-    ef "Nía! Esperaba que aparecieras."
+    ef "¡Nía! Esperaba que aparecieras."
 
 # game/code/Book-1/Chapter-6c/s06.rpy:39
 translate spanish b1c06cs06_0a787c4a:
@@ -94,7 +94,7 @@ translate spanish b1c06cs06_9c494632:
 translate spanish b1c06cs06_46c124b8:
 
     # ij "We're so happy to have you back. I'm sure Delphia will be a wonderful Guide for you both."
-    ij "Estamos muy felices de tenerte de vuelta. Estoy seguro de que Delphia será una guía maravillosa para ambos."
+    ij "Estamos muy felices de tenerte de vuelta. Estoy segura de que Delphia será una guía maravillosa para ambos."
 
 # game/code/Book-1/Chapter-6c/s06.rpy:79
 translate spanish b1c06cs06_5e3fccdb:
@@ -160,7 +160,7 @@ translate spanish b1c06cs06_619442d5:
 translate spanish b1c06cs06_37388392:
 
     # ij "Speaking of which..."
-    ij "Hablando de que..."
+    ij "Hablando de eso..."
 
 # game/code/Book-1/Chapter-6c/s06.rpy:122
 translate spanish b1c06cs06_1ecd6247:
@@ -172,7 +172,7 @@ translate spanish b1c06cs06_1ecd6247:
 translate spanish b1c06cs06_ea76702c:
 
     # nv "You two are gonna have to get a room if you don't cool it."
-    nv "Ustedes dos tendrán que conseguir una habitación si no la enfrían."
+    nv "Ustedes dos van a tener que conseguir una habitación si no se tranquilizan."
 
 # game/code/Book-1/Chapter-6c/s06.rpy:141
 translate spanish b1c06cs06_cecd3dbc:
@@ -184,7 +184,7 @@ translate spanish b1c06cs06_cecd3dbc:
 translate spanish b1c06cs06_b62431e1:
 
     # nv "Not at all. It's just a way for us all to feel connected. If you really don't want to be kissed, you can say something, though."
-    nv "De nada. Es solo una forma de que todos nos sintamos conectados. Sin embargo, si realmente no quieres que te bese, puedes decir algo."
+    nv "En absoluto. Es sólo una forma de que todos nos sintamos conectados. Aunque si realmente no quieres que te besen, puedes decir que no."
 
 # game/code/Book-1/Chapter-6c/s06.rpy:145
 translate spanish b1c06cs06_089a97a5:
@@ -196,7 +196,7 @@ translate spanish b1c06cs06_089a97a5:
 translate spanish b1c06cs06_a62c1298:
 
     # nv "It's just so we all recognize each other as equals."
-    nv "Es solo para que todos nos reconozcamos como iguales."
+    nv "Es sólo para que todos nos reconozcamos como iguales."
 
 # game/code/Book-1/Chapter-6c/s06.rpy:151
 translate spanish b1c06cs06_6633abb2:
@@ -256,13 +256,13 @@ translate spanish b1c06cs06_8fb74071:
 translate spanish b1c06cs06_c2acdf84:
 
     # ij "In fact, I'm guiding this one."
-    ij "De hecho, estoy guiando este."
+    ij "De hecho, estoy guiando a esta."
 
 # game/code/Book-1/Chapter-6c/s06.rpy:188
 translate spanish b1c06cs06_80c89736:
 
     # ij "I help lost souls find their way, essentially."
-    ij "Ayudo a las almas perdidas a encontrar su camino, esencialmente."
+    ij "Básicamente, ayudo a las almas perdidas a encontrar su camino."
 
 # game/code/Book-1/Chapter-6c/s06.rpy:189
 translate spanish b1c06cs06_3ef3aa74:
@@ -328,7 +328,7 @@ translate spanish b1c06cs06_19f0c970:
 translate spanish b1c06cs06_4a9d3e0a:
 
     # nv "We do that too. Listen, it's okay if you're not into it. Just let the others know."
-    nv "Hacemos eso también. Escucha, está bien si no te gusta. Solo deja que los demás lo sepan."
+    nv "Nosotros también lo hacemos. Escucha, está bien si no te gusta. Sólo dile a los demás."
 
 # game/code/Book-1/Chapter-6c/s06.rpy:238
 translate spanish b1c06cs06_98e2ca0f:
@@ -340,7 +340,7 @@ translate spanish b1c06cs06_98e2ca0f:
 translate spanish b1c06cs06_bcfc8d18:
 
     # mc "No, no. It doesn't weird me out or anything. I just want to learn what I can."
-    mc "No no. No me extraña ni nada. Solo quiero aprender lo que pueda."
+    mc "No no. No me extraña ni nada. Sólo quiero aprender lo que pueda."
 
 # game/code/Book-1/Chapter-6c/s06.rpy:243
 translate spanish b1c06cs06_1285332d:
@@ -358,13 +358,13 @@ translate spanish b1c06cs06_987f7f4b:
 translate spanish b1c06cs06_c9d4dbb1:
 
     # mc "I'm [mcname]. It's wonderful to meet you."
-    mc "soy [mcname]. Es maravilloso conocerte."
+    mc "Soy [mcname]. Es maravilloso conocerte."
 
 # game/code/Book-1/Chapter-6c/s06.rpy:258
 translate spanish b1c06cs06_33d959ba:
 
     # ll "I've seen you with Nia. Are you two on your journey together?"
-    ll "Te he visto con Nia. ¿Están ustedes dos en su viaje juntos?"
+    ll "Te he visto con Nia. ¿Están ustedes dos juntos en su viaje?"
 
 # game/code/Book-1/Chapter-6c/s06.rpy:261
 translate spanish b1c06cs06_87c235ce:
@@ -376,7 +376,7 @@ translate spanish b1c06cs06_87c235ce:
 translate spanish b1c06cs06_ad0237e5:
 
     # ef "And what wonderful souls you both are."
-    ef "Y qué almas maravillosas sois los dos."
+    ef "Y qué almas tan maravillosas son los dos."
 
 # game/code/Book-1/Chapter-6c/s06.rpy:271
 translate spanish b1c06cs06_ae4ea4bb:
@@ -412,7 +412,7 @@ translate spanish b1c06cs06_f65f1acf:
 translate spanish b1c06cs06_ef276e62:
 
     # ad "And I am here to help you find your way."
-    ad "Y estoy aquí para ayudarte a encontrar tu camino."
+    ad "Y yo estoy aquí para ayudarles a encontrar su camino."
 
 # game/code/Book-1/Chapter-6c/s06.rpy:289
 translate spanish b1c06cs06_3d622dcc:
@@ -442,7 +442,7 @@ translate spanish b1c06cs06_84af2924:
 translate spanish b1c06cs06_99088dbe:
 
     # ad "For one day, death will come to reclaim this gift."
-    ad "Por un día, la muerte vendrá a reclamar este regalo."
+    ad "Porque un día, la muerte vendrá a reclamar este regalo."
 
 # game/code/Book-1/Chapter-6c/s06.rpy:301
 translate spanish b1c06cs06_a4a872fb:
@@ -490,19 +490,19 @@ translate spanish b1c06cs06_13f156b8:
 translate spanish b1c06cs06_5907c5b8:
 
     # dk "For me, my higher rank looks like more self-confidence, a certain comfort in my skin that I haven't felt before."
-    dk "Para mí, mi rango más alto parece más confianza en mí mismo, una cierta comodidad en mi piel que no había sentido antes."
+    dk "Para mí, mi mayor rango se traduce en más confianza en mí misma, una cierta comodidad en mi piel que no había sentido antes."
 
 # game/code/Book-1/Chapter-6c/s06.rpy:347
 translate spanish b1c06cs06_b5f6e8f3:
 
     # dk "It's been a long road of self-discovery, healing, and spiritual awakenings to make it this far."
-    dk "Ha sido un largo camino de autodescubrimiento, sanación y despertares espirituales para llegar tan lejos."
+    dk "Ha sido un largo camino de autodescubrimiento, curación y despertares espirituales para llegar hasta aquí."
 
 # game/code/Book-1/Chapter-6c/s06.rpy:348
 translate spanish b1c06cs06_eac3bf3c:
 
     # dk "But don't worry! It's not as hard as it sounds."
-    dk "¡Pero no te preocupes! No es tan difícil como parece."
+    dk "¡Pero no se preocupen! No es tan difícil como parece."
 
 # game/code/Book-1/Chapter-6c/s06.rpy:351
 translate spanish b1c06cs06_9ed7b3ea:
@@ -514,13 +514,13 @@ translate spanish b1c06cs06_9ed7b3ea:
 translate spanish b1c06cs06_47ddb78d:
 
     # dk "Right now, all you new members are at rank zero. This seminar is to introduce you to our community so you can decide if it's right for you."
-    dk "En este momento, todos los miembros nuevos están en el rango cero. Este seminario es para presentarle nuestra comunidad para que pueda decidir si es adecuado para usted."
+    dk "Ahora mismo, todos los nuevos miembros están en el rango cero. Este seminario es para presentarles nuestra comunidad y que puedan decidir si es adecuada para ustedes."
 
 # game/code/Book-1/Chapter-6c/s06.rpy:357
 translate spanish b1c06cs06_20db0fe9:
 
     # dk "Guides like me are here to help new members like yourselves to reach the next steps in your journey, whatever that looks like for you."
-    dk "Los guías como yo están aquí para ayudar a los nuevos miembros como ustedes a alcanzar los siguientes pasos en su viaje, sea lo que sea que les parezca."
+    dk "Los guías como yo estamos aquí para ayudar a los nuevos miembros como ustedes a dar los siguientes pasos en su viaje, independientemente de lo que eso signifique para ustedes."
 
 # game/code/Book-1/Chapter-6c/s06.rpy:360
 translate spanish b1c06cs06_a20af3a0:
@@ -538,7 +538,7 @@ translate spanish b1c06cs06_1e8d2c53:
 translate spanish b1c06cs06_5e00ddee:
 
     # ad "And when you're {i}my{/i} rank, you'll find benefits so sweet, so delicious, it'll rival Eve eating the apple of Eden."
-    ad "Y cuando seas {i}mi{/i} rango, encontrarás beneficios tan dulces, tan deliciosos, que rivalizarás con Eva comiendo la manzana del Edén."
+    ad "Y cuando sean {i}mi{/i} rango, encontrarás beneficios tan dulces, tan deliciosos, que rivalizarás con Eva comiendo la manzana del Edén."
 
 # game/code/Book-1/Chapter-6c/s06.rpy:372
 translate spanish b1c06cs06_2894b204:
@@ -556,7 +556,7 @@ translate spanish b1c06cs06_ff6913a3:
 translate spanish b1c06cs06_faaaf661:
 
     # ad "And because we're flawed, we deserve all the more love and encouragement."
-    ad "Y debido a que tenemos fallas, merecemos más amor y aliento."
+    ad "Y porque somos imperfectos, merecemos más amor y estímulo."
 
 # game/code/Book-1/Chapter-6c/s06.rpy:385
 translate spanish b1c06cs06_0e1fb2bf:
@@ -568,7 +568,7 @@ translate spanish b1c06cs06_0e1fb2bf:
 translate spanish b1c06cs06_99828400:
 
     # ad "Show us your insecurities and we will show you only love."
-    ad "Muéstranos tus inseguridades y solo te mostraremos amor."
+    ad "Muéstrenos sus inseguridades y sólo le mostraremos amor."
 
 # game/code/Book-1/Chapter-6c/s06.rpy:389
 translate spanish b1c06cs06_63f66684:
@@ -598,7 +598,7 @@ translate spanish b1c06cs06_61101f30:
 translate spanish b1c06cs06_ed6f65bc:
 
     # nv "Well, not all of it. You get to choose what you're comfortable with sharing, but we are supposed to be vulnerable right out of the gate."
-    nv "Bueno, no todo. Tienes la oportunidad de elegir con qué te sientes cómodo compartiendo, pero se supone que somos vulnerables desde el principio."
+    nv "Bueno, no todo. Tú eliges lo que te apetece compartir, pero se supone que debemos ser vulnerables desde el principio."
 
 # game/code/Book-1/Chapter-6c/s06.rpy:406
 translate spanish b1c06cs06_c0f74032:
@@ -616,7 +616,7 @@ translate spanish b1c06cs06_ba461581:
 translate spanish b1c06cs06_79681380:
 
     # ch "I joined here just a few weeks ago, but I can already feel a difference in myself."
-    ch "Me uní aquí hace solo unas semanas, pero ya puedo sentir una diferencia en mí mismo."
+    ch "Me uní aquí hace sólo unas semanas, pero ya puedo sentir una diferencia en mí mismo."
 
 # game/code/Book-1/Chapter-6c/s06.rpy:425
 translate spanish b1c06cs06_ce626a1f:
@@ -664,7 +664,7 @@ translate spanish b1c06cs06_d1a8ab6a:
 translate spanish b1c06cs06_487d9faf:
 
     # ad "Who would like to go next?"
-    ad "¿A quién le gustaría ir después?"
+    ad "¿A quién le gustaría ser el siguiente?"
 
 # game/code/Book-1/Chapter-6c/s06.rpy:452
 translate spanish b1c06cs06_8c9b93b2:
@@ -706,7 +706,7 @@ translate spanish b1c06cs06_6d505dc3:
 translate spanish b1c06cs06_a8f6e7c1:
 
     # nv "Family told me what my interests I should have. What school I should go to. What career I should pursue."
-    nv "La familia me dijo cuáles eran mis intereses que debería tener. A qué escuela debo ir. Qué carrera debo seguir."
+    nv "Mi familia me decía qué intereses debía tener. A qué escuela debía ir. Qué carrera debía seguir."
 
 # game/code/Book-1/Chapter-6c/s06.rpy:481
 translate spanish b1c06cs06_88552535:
@@ -724,7 +724,7 @@ translate spanish b1c06cs06_5e9a30b6:
 translate spanish b1c06cs06_39ea227e:
 
     # nv "That I'm not a real person, I'm just a stray that nobody wants. Not even myself."
-    nv "Que no soy una persona real, solo soy un vagabundo que nadie quiere. Ni siquiera yo mismo."
+    nv "Que no soy una persona de verdad, sólo soy una persona descarriada a la que nadie quiere. Ni siquiera yo misma."
 
 # game/code/Book-1/Chapter-6c/s06.rpy:488
 translate spanish b1c06cs06_4d48fcea:
@@ -736,19 +736,19 @@ translate spanish b1c06cs06_4d48fcea:
 translate spanish b1c06cs06_66144762:
 
     # nv "Because I'm bad in some way."
-    nv "Porque soy malo de alguna manera."
+    nv "Porque de alguna manera soy mala."
 
 # game/code/Book-1/Chapter-6c/s06.rpy:493
 translate spanish b1c06cs06_a6833512:
 
     # nv "So that's why I'm here. To find and express myself as an individual. To be celebrated."
-    nv "Por eso estoy aquí. Encontrarme y expresarme como individuo. Para ser celebrado."
+    nv "Por eso estoy aquí. Encontrarme y expresarme como individuo. Para ser reconocida."
 
 # game/code/Book-1/Chapter-6c/s06.rpy:496
 translate spanish b1c06cs06_59ec46ed:
 
     # ad "Fear not, lovely flower. Your path is recognized and validated here. You are wanted and loved."
-    ad "No temas, hermosa flor. Su camino es reconocido y validado aquí. Eres querido y amado."
+    ad "No temas, hermosa flor. Su camino es reconocido y validado aquí. Eres querida y amada."
 
 # game/code/Book-1/Chapter-6c/s06.rpy:499
 translate spanish b1c06cs06_8549fb83:
@@ -766,7 +766,7 @@ translate spanish b1c06cs06_165bfd11:
 translate spanish b1c06cs06_23b520ab:
 
     # nv "I'm fine. Just emotional. In a good way. Just..."
-    nv "Estoy bien. Solo emocional. En el buen sentido. Justo..."
+    nv "Estoy bien. Sólo un poco emotiva. En el buen sentido. Sólo..."
 
 # game/code/Book-1/Chapter-6c/s06.rpy:521
 translate spanish b1c06cs06_cdc12fc1:
@@ -796,13 +796,13 @@ translate spanish b1c06cs06_24a2d803:
 translate spanish b1c06cs06_2a60d22d:
 
     # mc "I understand. This is a lot. But you were amazing."
-    mc "Entiendo. Esto es mucho. Pero estuviste increíble."
+    mc "Lo entiendo. Esto es mucho. Pero estuviste increíble."
 
 # game/code/Book-1/Chapter-6c/s06.rpy:543
 translate spanish b1c06cs06_023842eb:
 
     # nv "You're the best."
-    nv "Usted es el mejor."
+    nv "Eres el mejor."
 
 # game/code/Book-1/Chapter-6c/s06.rpy:547
 translate spanish b1c06cs06_fba91fc6:
@@ -820,13 +820,13 @@ translate spanish b1c06cs06_beda1d42:
 translate spanish b1c06cs06_9e6f11df:
 
     # mc "Me?"
-    mc "¿A mí?"
+    mc "¿Yo?"
 
 # game/code/Book-1/Chapter-6c/s06.rpy:556
 translate spanish b1c06cs06_75443bfd:
 
     # nv "Yeah! It's a great experience. Go!"
-    nv "¡Sí! Es una gran experiencia. ¡Ir!"
+    nv "¡Sí! Es una gran experiencia. ¡Ve!"
 
 # game/code/Book-1/Chapter-6c/s06.rpy:559
 translate spanish b1c06cs06_418b5a6b:
@@ -856,7 +856,7 @@ translate spanish b1c06cs06_cb945991:
 translate spanish b1c06cs06_c5c8013e:
 
     # mct "Can't say I'm not grateful I don't have to kiss him, though I don't know why he's acting like this..."
-    mct "No puedo decir que no estoy agradecida de no tener que besarlo, aunque no sé por qué está actuando así..."
+    mct "No puedo decir que no esté agradecido de no tener que besarle, aunque no sé por qué actúa así..."
 
 # game/code/Book-1/Chapter-6c/s06.rpy:577
 translate spanish b1c06cs06_4f50fce2:
@@ -970,7 +970,7 @@ translate spanish b1c06cs06_29ae4cb2:
 translate spanish b1c06cs06_47f99828:
 
     # ad "Throughout each of your journeys, there will be milestones that you will achieve through the teachings of your Guide."
-    ad "A lo largo de cada uno de sus viajes, habrá hitos que alcanzará a través de las enseñanzas de su Guía."
+    ad "A lo largo de cada uno de sus viajes, habrán hitos que alcanzarán a través de las enseñanzas de su Guía."
 
 # game/code/Book-1/Chapter-6c/s06.rpy:625
 translate spanish b1c06cs06_ef72ff20:
@@ -1042,7 +1042,7 @@ translate spanish b1c06cs06_5dcda03e:
 translate spanish b1c06cs06_944dd3cb:
 
     # ll "But I truly hope to better myself while I'm here. To have stronger resolve for my goals and build a strong chosen family for myself."
-    ll "Pero realmente espero mejorar mientras estoy aquí. Para tener una determinación más fuerte para mis metas y construir una familia elegida fuerte para mí."
+    ll "Pero realmente espero superarme durante el tiempo que esté aquí. Tener una mayor determinación para alcanzar mis objetivos y construir una familia fuerte para mi misma."
 
 # game/code/Book-1/Chapter-6c/s06.rpy:667
 translate spanish b1c06cs06_70892212:
@@ -1072,13 +1072,13 @@ translate spanish b1c06cs06_861485e9:
 translate spanish b1c06cs06_90531da9:
 
     # ad "If you'd like to donate to our cause, we have a donation box at our main desk. I'll be there if any of you want to make a donation or chat."
-    ad "Si desea donar a nuestra causa, tenemos una caja de donaciones en nuestro escritorio principal. Estaré allí si alguno de ustedes quiere hacer una donación o charlar."
+    ad "Si desea donar a nuestra causa, tenemos una caja de donaciones en nuestro escritorio principal. Estaré allí si alguno de ustedes quiere hacer una donación o conversar."
 
 # game/code/Book-1/Chapter-6c/s06.rpy:702
 translate spanish b1c06cs06_83052be0:
 
     # nv "Pretty good, right? Now we're onto the fun stuff."
-    nv "Bastante bien, ¿verdad? Ahora estamos en las cosas divertidas."
+    nv "Bastante bien, ¿verdad? Ahora pasamos a lo divertido."
 
 # game/code/Book-1/Chapter-6c/s06.rpy:705
 translate spanish b1c06cs06_54b80ca8:
@@ -1090,7 +1090,7 @@ translate spanish b1c06cs06_54b80ca8:
 translate spanish b1c06cs06_5593c31c:
 
     # nv "Yeah! Now we all get to mingle and talk one on one. Getting to know more details about people's stories."
-    nv "¡Sí! Ahora todos podemos relacionarnos y hablar uno a uno. Conocer más detalles sobre las historias de las personas."
+    nv "¡Sí! Ahora todos podemos mezclarnos y hablar de tú a tú. Conocer más a fondo las historias de los demás."
 
 # game/code/Book-1/Chapter-6c/s06.rpy:709
 translate spanish b1c06cs06_2f15498a:
@@ -1150,7 +1150,7 @@ translate spanish b1c06cs06_32dc5cf2:
 translate spanish b1c06cs06_1341d277:
 
     # ij "Yeah. What would you pay to have those issues resolve themselves?"
-    ij "Sí. ¿Cuánto pagaría para que esos problemas se resuelvan solos?"
+    ij "Sí. ¿Cuánto pagarías para que esos problemas se resuelvan solos?"
 
 # game/code/Book-1/Chapter-6c/s06.rpy:734
 translate spanish b1c06cs06_bb7f2aa0:
@@ -1174,13 +1174,13 @@ translate spanish b1c06cs06_19cbd11d:
 translate spanish b1c06cs06_de338ee6:
 
     # ij "Our donation center lets you donate however much you want—but you're still getting the same value."
-    ij "Nuestro centro de donaciones le permite donar la cantidad que desee, pero sigue obteniendo el mismo valor."
+    ij "Nuestro centro de donaciones le permite donar la cantidad que desee, pero sigues obteniendo el mismo beneficio."
 
 # game/code/Book-1/Chapter-6c/s06.rpy:740
 translate spanish b1c06cs06_231ee8fa:
 
     # ij "That's all we ask in return for endless support and teachings. Of course it's free either way. But donations really help the group."
-    ij "Eso es todo lo que pedimos a cambio de un sinfín de apoyo y enseñanzas. Por supuesto, es gratis de cualquier manera. Pero las donaciones realmente ayudan al grupo."
+    ij "Eso es todo lo que pedimos a cambio de apoyo y enseñanzas continuas. Por supuesto, es gratis de todos modos. Pero las donaciones realmente ayudan al grupo."
 
 # game/code/Book-1/Chapter-6c/s06.rpy:743
 translate spanish b1c06cs06_240a33bb:
@@ -1204,7 +1204,7 @@ translate spanish b1c06cs06_f958c469:
 translate spanish b1c06cs06_0e909a2d:
 
     # ij "Well we've got quite the bargain for you. Cause our other group materials only cost three hundred."
-    ij "Bueno, tenemos una ganga para ti. Porque nuestros otros materiales de grupo solo cuestan trescientos."
+    ij "Pues tenemos una ganga para ti. Porque nuestros otros materiales de grupo sólo cuestan trescientos."
 
 # game/code/Book-1/Chapter-6c/s06.rpy:755
 translate spanish b1c06cs06_9e663c07:
@@ -1222,13 +1222,13 @@ translate spanish b1c06cs06_5bd344f0:
 translate spanish b1c06cs06_3e733b62:
 
     # nv "I'll donate."
-    nv "voy a donar"
+    nv "Yo donaré."
 
 # game/code/Book-1/Chapter-6c/s06.rpy:763
 translate spanish b1c06cs06_cfce055e:
 
     # mc "Are you sure?"
-    mc "¿Está seguro?"
+    mc "¿Estás segura?"
 
 # game/code/Book-1/Chapter-6c/s06.rpy:766
 translate spanish b1c06cs06_ef0fbd0c:
@@ -1246,19 +1246,19 @@ translate spanish b1c06cs06_e37cf27b:
 translate spanish b1c06cs06_14b7475c:
 
     # ad "I'm certain you'll flourish here."
-    ad "Estoy seguro de que prosperarás aquí."
+    ad "Estoy seguro de que prosperarán aquí."
 
 # game/code/Book-1/Chapter-6c/s06.rpy:778
 translate spanish b1c06cs06_3d383448:
 
     # ad "And if you decide your journey takes you elsewhere, then I'm sure you'll flourish there too."
-    ad "Y si decide que su viaje lo lleva a otro lugar, estoy seguro de que allí también prosperará."
+    ad "Y si decide que su viaje la lleva a otro lugar, estoy seguro de que allí también prosperarán."
 
 # game/code/Book-1/Chapter-6c/s06.rpy:779
 translate spanish b1c06cs06_68b8c509:
 
     # ad "Such resilient and strong ladies you are."
-    ad "Qué damas fuertes y resistentes son ustedes."
+    ad "Son unas mujeres fuertes y resistentes."
 
 # game/code/Book-1/Chapter-6c/s06.rpy:781
 translate spanish b1c06cs06_b8def6a2:
@@ -1270,7 +1270,7 @@ translate spanish b1c06cs06_b8def6a2:
 translate spanish b1c06cs06_b99e31e4:
 
     # mct "I guess they're comfortable with it, but still."
-    mct "Supongo que se sienten cómodos con eso, pero aún así."
+    mct "Supongo que se sienten cómodas con eso, pero aún así."
 
 # game/code/Book-1/Chapter-6c/s06.rpy:785
 translate spanish b1c06cs06_2d1a7c55:
@@ -1354,13 +1354,13 @@ translate spanish b1c06cs06_9c2b7254:
 translate spanish b1c06cs06_5ca489cb:
 
     # mc "I'm {i}not.{/i} I was just surprised."
-    mc "Yo {i}no.{/i} Estaba sorprendido."
+    mc "Yo {i}no.{/i} Sólo me sorprendido."
 
 # game/code/Book-1/Chapter-6c/s06.rpy:829
 translate spanish b1c06cs06_47d0d727:
 
     # nv "He's very new to the kind of community we have, Andre. He's just going through an adjustment period."
-    nv "Es muy nuevo en el tipo de comunidad que tenemos, Andre. Solo está pasando por un período de ajuste."
+    nv "Es muy nuevo en el tipo de comunidad que tenemos, Andre. Está pasando por un período de adaptación."
 
 # game/code/Book-1/Chapter-6c/s06.rpy:830
 translate spanish b1c06cs06_52c46e36:
@@ -1372,7 +1372,7 @@ translate spanish b1c06cs06_52c46e36:
 translate spanish b1c06cs06_bfbd9d79:
 
     # nv "I'm sure the amount took him off guard, but that doesn't mean he disagrees."
-    nv "Estoy seguro de que la cantidad lo tomó con la guardia baja, pero eso no significa que no esté de acuerdo."
+    nv "Estoy segura de que la cantidad lo tomó con la guardia baja, pero eso no significa que no esté de acuerdo."
 
 # game/code/Book-1/Chapter-6c/s06.rpy:835
 translate spanish b1c06cs06_67a43ffa:
@@ -1420,19 +1420,19 @@ translate spanish b1c06cs06_a676436e:
 translate spanish b1c06cs06_8adf578a:
 
     # mct "Maybe she's just anxious to share what she knows. Sometimes it's hard to talk about these sorts of things."
-    mct "Tal vez solo esté ansiosa por compartir lo que sabe. A veces es difícil hablar de este tipo de cosas."
+    mct "Quizás esté ansiosa por compartir lo que sabe. A veces es difícil hablar de este tipo de cosas."
 
 # game/code/Book-1/Chapter-6c/s06.rpy:853
 translate spanish b1c06cs06_c214204b:
 
     # mct "She probably just wants to talk about it while she has the courage. I guess I'll hit up Sally's place after this."
-    mct "Probablemente solo quiera hablar de eso mientras tenga el coraje. Supongo que iré a la casa de Sally después de esto."
+    mct "Probablemente sólo quiere hablar de ello mientras tiene valor. Supongo que después de esto iré a casa de Sally."
 
 # game/code/Book-1/Chapter-6c/s06.rpy:856
 translate spanish b1c06cs06_ba26906d:
 
     # mc "I've gotta go. I'm meeting a friend for dinner."
-    mc "Tengo que ir. Me encontraré con un amigo para cenar."
+    mc "Tengo que irme. Me encontraré con una amiga para cenar."
 
 # game/code/Book-1/Chapter-6c/s06.rpy:859
 translate spanish b1c06cs06_bb5b43d6:
@@ -1444,25 +1444,25 @@ translate spanish b1c06cs06_bb5b43d6:
 translate spanish b1c06cs06_f81f7dab:
 
     # nv "I know some people here might be a bit...intense, but I promise they only have the best interests for you and the community in mind."
-    nv "Sé que algunas personas aquí pueden ser un poco... intensas, pero les prometo que solo tienen en mente los mejores intereses para usted y la comunidad."
+    nv "Sé que algunas personas aquí pueden ser un poco... intensas, pero te prometo que sólo tienen en mente lo mejor para ti y para la comunidad."
 
 # game/code/Book-1/Chapter-6c/s06.rpy:865
 translate spanish b1c06cs06_cc3e12cc:
 
     # nv "I'm sorry if you're upset—"
-    nv "Lo siento si estás molesto—"
+    nv "Lo siento si estás molesto."
 
 # game/code/Book-1/Chapter-6c/s06.rpy:868
 translate spanish b1c06cs06_102bddb7:
 
     # mc "No! No. I'm comfortable here. I just promised a friend I'd meet them tonight."
-    mc "¡No! No. Estoy cómodo aquí. Le prometí a un amigo que los vería esta noche."
+    mc "¡No! No. Estoy cómodo aquí. Sólo le prometí a una amiga que me reuniría con ella esta noche."
 
 # game/code/Book-1/Chapter-6c/s06.rpy:871
 translate spanish b1c06cs06_5c89cdec:
 
     # nv "Well, I'll miss you. But I hope you have fun with your friend. You can talk to the new community members later."
-    nv "Bueno, te extrañaré. Pero espero que te diviertas con tu amigo. Puedes hablar con los nuevos miembros de la comunidad más tarde."
+    nv "Bueno, te extrañaré. Pero espero que te diviertas con tu amiga. Puedes hablar con los nuevos miembros de la comunidad más tarde."
 
 # game/code/Book-1/Chapter-6c/s06.rpy:874
 translate spanish b1c06cs06_b2aabf72:
@@ -1474,7 +1474,7 @@ translate spanish b1c06cs06_b2aabf72:
 translate spanish b1c06cs06_900649d3:
 
     # nv "It's what I'm known for."
-    nv "Es por lo que soy conocido."
+    nv "Es por lo que se me conoce."
 
 # game/code/Book-1/Chapter-6c/s06.rpy:879
 translate spanish b1c06cs06_698defd3:
@@ -1496,5 +1496,5 @@ translate spanish strings:
 
     # game/code/Book-1/Chapter-6c/s06.rpy:512
     old "Hug Nia"
-    new "abrazo nia"
+    new "Abraza a nia"
 
