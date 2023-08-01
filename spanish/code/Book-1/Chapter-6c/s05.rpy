@@ -4,7 +4,7 @@
 translate spanish b1c06cs05_948a3142:
 
     # mct "She sure looks chipper."
-    mct "Seguro que se ve más alegre."
+    mct "Ella se ve más alegre."
 
 # game/code/Book-1/Chapter-6c/s05.rpy:41
 translate spanish b1c06cs05_db48c056:
@@ -16,19 +16,19 @@ translate spanish b1c06cs05_db48c056:
 translate spanish b1c06cs05_40deb25f:
 
     # dk "I'm not {i}bubbly{/i}."
-    dk "No soy {i}burbujeante{/i}."
+    dk "No estoy {i}burbujeante{/i}."
 
 # game/code/Book-1/Chapter-6c/s05.rpy:46
 translate spanish b1c06cs05_c9d2f4da:
 
     # dk "But yes, I {i}am{/i} pretty happy."
-    dk "Pero sí, {i}soy{/i} bastante feliz."
+    dk "Pero sí, {i}estoy{/i} bastante feliz."
 
 # game/code/Book-1/Chapter-6c/s05.rpy:49
 translate spanish b1c06cs05_38be7501:
 
     # dk "We pulled it off perfectly."
-    dk "Lo sacamos a la perfección."
+    dk "Lo hicimos perfectamente."
 
 # game/code/Book-1/Chapter-6c/s05.rpy:50
 translate spanish b1c06cs05_16ad46c0:
@@ -64,13 +64,13 @@ translate spanish b1c06cs05_2a6a266e:
 translate spanish b1c06cs05_4995b890:
 
     # "Her cherry lips match her fiery ferocity as she kisses you like she owns you; her dangerous saccharine smell penetrates your mind and makes your heart race."
-    "Sus labios de cereza coinciden con su ferocidad ardiente mientras te besa como si fuera tu dueño; su peligroso olor a sacarina penetra en tu mente y hace que tu corazón se acelere."
+    "Sus labios de cereza coinciden con su ferocidad ardiente mientras te besa como si fuera tu dueña; su peligroso olor a sacarina penetra en tu mente y hace que tu corazón se acelere."
 
 # game/code/Book-1/Chapter-6c/s05.rpy:79
 translate spanish b1c06cs05_394f46b9:
 
     # "She finally pulls back and gives you a brief respite to breathe."
-    "Finalmente se retira y te da un breve respiro para respirar."
+    "Finalmente se retira y te da un breve descanso para respirar."
 
 # game/code/Book-1/Chapter-6c/s05.rpy:82
 translate spanish b1c06cs05_177d3eb2:
@@ -88,7 +88,7 @@ translate spanish b1c06cs05_9a82f385:
 translate spanish b1c06cs05_9bdab72e:
 
     # mc "Delphia stop. Not here, not right now."
-    mc "parada de Delfia. No aquí, no ahora."
+    mc "Delphia detente. No aquí, no ahora."
 
 # game/code/Book-1/Chapter-6c/s05.rpy:98
 translate spanish b1c06cs05_47b811fe:
@@ -100,7 +100,7 @@ translate spanish b1c06cs05_47b811fe:
 translate spanish b1c06cs05_0535968b:
 
     # mc "I don't want to. That's reason enough."
-    mc "no quiero Esa es razón suficiente."
+    mc "No quiero hacerlo. Es razón suficiente."
 
 # game/code/Book-1/Chapter-6c/s05.rpy:104
 translate spanish b1c06cs05_83d0787f:
@@ -112,7 +112,7 @@ translate spanish b1c06cs05_83d0787f:
 translate spanish b1c06cs05_ac0aff9a:
 
     # mc "No, no. Just not in the mood."
-    mc "No no. Simplemente no estoy de humor."
+    mc "No, no. Simplemente no estoy de humor."
 
 # game/code/Book-1/Chapter-6c/s05.rpy:108
 translate spanish b1c06cs05_dc0ff26a:
@@ -142,13 +142,13 @@ translate spanish b1c06cs05_continue_91eda49f:
 translate spanish b1c06cs05_continue_0027876a:
 
     # "But gone as fast as it came, she returns to her exterior of total confidence as she spits on her hand and lubricates your dick."
-    "Pero se fue tan rápido como llegó, regresa a su exterior de total confianza mientras escupe en su mano y lubrica tu polla."
+    "Pero desaparece tan rápido como llegó, vuelve a su exterior de total confianza mientras escupe en su mano y lubrica tu polla."
 
 # game/code/Book-1/Chapter-6c/s05.rpy:141
 translate spanish b1c06cs05_continue_430702d4:
 
     # "Her moves are more measured now. Soft. slow, and careful, she runs her hand over your shaft, lubricating it with her spit."
-    "Sus movimientos son más medidos ahora. Suave. lento y cuidadoso, ella pasa su mano sobre tu eje, lubricándolo con su saliva."
+    "Sus movimientos son más medidos ahora. Suave, lento y cuidadoso, ella pasa su mano sobre tu eje, lubricándolo con su saliva."
 
 # game/code/Book-1/Chapter-6c/s05.rpy:142
 translate spanish b1c06cs05_continue_508b9d65:
@@ -190,7 +190,7 @@ translate spanish b1c06cs05_continue_cd492ae2:
 translate spanish b1c06cs05_continue_65fe491d:
 
     # dk "Well aren't you just a real Don Draper?"
-    dk "Bueno, ¿no eres solo un verdadero Don Draper?"
+    dk "Bueno, ¿no eres sólo un verdadero Don Draper?"
 
 # game/code/Book-1/Chapter-6c/s05.rpy:168
 translate spanish b1c06cs05_continue_177ef83c:
@@ -220,7 +220,7 @@ translate spanish b1c06cs05_continue_71529ea5:
 translate spanish b1c06cs05_continue_4e66a360:
 
     # dk "Sounds like wise advice, indeed."
-    dk "Suena como un sabio consejo, de hecho."
+    dk "De hecho, parece un sabio consejo."
 
 # game/code/Book-1/Chapter-6c/s05.rpy:178
 translate spanish b1c06cs05_continue_f1a0cd14:
@@ -262,7 +262,7 @@ translate spanish b1c06cs05_continue_177d3eb2:
 translate spanish b1c06cs05_continue_901b931f:
 
     # dk "What do you think? We need to get going. I have things to do."
-    dk "¿Qué opinas? Tenemos que ponernos en marcha. Tengo cosas que hacer."
+    dk "¿Qué crees tú? Tenemos que ponernos en marcha. Tengo cosas que hacer."
 
 # game/code/Book-1/Chapter-6c/s05.rpy:210
 translate spanish b1c06cs05_continue_96235f48:
@@ -322,7 +322,7 @@ translate spanish b1c06cs05_order_a1c10abd:
 translate spanish b1c06cs05_order_f34c3481:
 
     # mc "Finish. Me. Off."
-    mc "Finalizar. A mí. Apagado."
+    mc "Termínalo."
 
 # game/code/Book-1/Chapter-6c/s05.rpy:253
 translate spanish b1c06cs05_order_71a14ba9:
@@ -358,7 +358,7 @@ translate spanish b1c06cs05_order_c12d2e90:
 translate spanish b1c06cs05_order_0ef87126:
 
     # "Or else she may think you're weak for her. And regardless of the truth, you and Delphia like a challenge."
-    "O bien, puede pensar que eres débil para ella. Y sin importar la verdad, a ti ya Delphia les gustan los desafíos."
+    "O puede pensar que eres débil para ella. E independientemente de la verdad, a ti y a Delphia les gustan los desafíos."
 
 # game/code/Book-1/Chapter-6c/s05.rpy:288
 translate spanish b1c06cs05_order_a4125aee:
@@ -370,7 +370,7 @@ translate spanish b1c06cs05_order_a4125aee:
 translate spanish b1c06cs05_order_f29b4f26:
 
     # "It feels like a low current of electricity is sizzling across your skin, drawing you both closer together before exploding in a flash of warmth and pleasure when you touch."
-    "Se siente como si una baja corriente de electricidad chisporroteara a través de tu piel, acercándolos a ambos antes de explotar en un destello de calidez y placer cuando los tocas."
+    "Es como si una pequeña corriente eléctrica recorriera tu piel, acercándolos a ambos antes de estallar en un destello de calor y placer cuando se tocan."
 
 # game/code/Book-1/Chapter-6c/s05.rpy:294
 translate spanish b1c06cs05_order_2e29de6f:
@@ -382,7 +382,7 @@ translate spanish b1c06cs05_order_2e29de6f:
 translate spanish b1c06cs05_order_bb649075:
 
     # "Sensing the way your touch deepens, the way your dick twitches, she speeds up even more, going down to the very base of your dick and then bringing her fingers to your tip."
-    "Sintiendo la forma en que tu toque se profundiza, la forma en que tu pene se contrae, se acelera aún más, bajando hasta la base de tu pene y luego llevando sus dedos a tu punta."
+    "Sintiendo la forma en que su toque se profundiza, la forma en que tu pene se contrae, se acelera aún más, bajando hasta la base de tu pene y luego llevando sus dedos a tu punta."
 
 # game/code/Book-1/Chapter-6c/s05.rpy:303
 translate spanish b1c06cs05_order_ab8fc43c:
@@ -394,7 +394,7 @@ translate spanish b1c06cs05_order_ab8fc43c:
 translate spanish b1c06cs05_order_7ac2df06:
 
     # "She looks back up at you with passionate lust in her eyes."
-    "Ella te mira con lujuria apasionada en sus ojos."
+    "Ella te mira con una apasionada lujuria en sus ojos."
 
 # game/code/Book-1/Chapter-6c/s05.rpy:314
 translate spanish b1c06cs05_order_62853702:
@@ -532,7 +532,7 @@ translate spanish strings:
 
     # game/code/Book-1/Chapter-6c/s05.rpy:88
     old "Stop her"
-    new "detenerla"
+    new "Detenerla"
 
     # game/code/Book-1/Chapter-6c/s05.rpy:88
     old "Let her continue"
