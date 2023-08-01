@@ -24,19 +24,19 @@ translate spanish strings:
 
     # game/code/hints.rpy:5
     old "No sex with Iona. 0pts with Iona."
-    new "Nada de sexo con Iona. 0pts con Iona."
+    new "Nada de sexo con Iona. 0 punto con Iona."
 
     # game/code/hints.rpy:5
     old "You fuck Iona's mouth. You gain +1 points with Iona."
-    new "Te follas la boca de Iona. Ganas +1 puntos con Iona."
+    new "Te follas la boca de Iona. Ganas +1 punto con Iona."
 
     # game/code/hints.rpy:5
     old "Iona just keeps sucking you off. You gain no points."
-    new "Iona sigue chupándote. No ganas puntos."
+    new "Iona sigue chupándotela. No ganas puntos."
 
     # game/code/hints.rpy:5
     old "You fuck Iona roughly. You gain +1 points with Iona."
-    new "Te follas a Iona más o menos. Ganas +1 puntos con Iona."
+    new "Te follas bruscamente a Iona. Ganas +1 punto con Iona."
 
     # game/code/hints.rpy:5
     old "You don't fuck Iona's roughly. You gain no points."
@@ -76,11 +76,11 @@ translate spanish strings:
 
     # game/code/hints.rpy:5
     old "Talk comfortingly to Nia. You don't get any points with Nia."
-    new "Habla reconfortantemente con Nia. No obtienes ningún punto con Nia."
+    new "Habla tranquilamente con Nia. No consigues ningún punto de Nia."
 
     # game/code/hints.rpy:5
     old "Physically comfort Nia. You get 1 point with Nia."
-    new "Consuela físicamente a Nia. Obtienes 1 punto con Nia."
+    new "Consuela físicamente a Nia. Consigues 1 punto de Nia."
 
     # game/code/hints.rpy:5
     old "Choose to investigate Sally further. Sex with Sally."
@@ -88,7 +88,7 @@ translate spanish strings:
 
     # game/code/hints.rpy:5
     old "Investigate the Artist. No sex with Sally."
-    new "Investiga al artista. Nada de sexo con Sally."
+    new "Investiga al artista. No tienes sexo con Sally."
 
     # game/code/hints.rpy:5
     old "Worship Sally's body like the goddess she is. +1 point with Sally."
@@ -300,7 +300,7 @@ translate spanish strings:
 
     # game/code/hints.rpy:5
     old "0pts with Nia. It's a nice compliment, but anyone could say it."
-    new "0pts con Nia. Es un bonito cumplido, pero cualquiera podría decirlo."
+    new "0 puntos con Nia. Es un bonito cumplido, pero cualquiera podría decirlo."
 
     # game/code/hints.rpy:5
     old "+1 point with Lumi. She appreciates your encouragement."
