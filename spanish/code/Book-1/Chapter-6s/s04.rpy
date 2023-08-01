@@ -10,7 +10,7 @@ translate spanish b1c06ss04_continue_5f7e5bfd:
 translate spanish b1c06ss04_continue_9ae3365e:
 
     # mct "Oh, there she is. I was wondering where she was. She wasn't in computer class today."
-    mct "Ahí está ella. Me preguntaba dónde estaba ella. Ella no estaba en la clase de computación hoy."
+    mct "Oh, ahí está. Me preguntaba dónde estaba. Hoy no estaba en clase de informática."
 
 # game/code/Book-1/Chapter-6s/s04.rpy:39
 translate spanish b1c06ss04_continue_a80f6c4c:
@@ -58,19 +58,19 @@ translate spanish b1c06ss04_continue_eb334c92:
 translate spanish b1c06ss04_continue_6734066f:
 
     # zp "I've already got great grades, and if he decides to mark me down for it, my extra credit projects have me covered."
-    zp "Ya obtuve excelentes calificaciones, y si él decide rebajarme, mis proyectos de créditos adicionales me tienen cubierto."
+    zp "Ya tengo buenas notas, y si decide bajarme la nota por eso, mis proyectos con créditos extra me tienen cubierta."
 
 # game/code/Book-1/Chapter-6s/s04.rpy:64
 translate spanish b1c06ss04_continue_fcd03f0e:
 
     # zp "You smoke?"
-    zp "¿Tu fumas?"
+    zp "¿Tú fumas?"
 
 # game/code/Book-1/Chapter-6s/s04.rpy:76
 translate spanish b1c06ss04_continue_d18894e0:
 
     # zp "Damn. Show off."
-    zp "Maldición. Presumir."
+    zp "Maldita sea. Lúcete."
 
 # game/code/Book-1/Chapter-6s/s04.rpy:79
 translate spanish b1c06ss04_continue_8aa1b0d1:
@@ -88,7 +88,7 @@ translate spanish b1c06ss04_continue_ae20be61:
 translate spanish b1c06ss04_continue_4d418ffd:
 
     # mc "*chuckles* You? No way. I took you for more of a busy body personality type."
-    mc "*se ríe* ¿Tú? De ninguna manera. Te tomé por un tipo de personalidad de cuerpo más ocupado."
+    mc "*se ríe* ¿Tú? No puede ser. Creía que eras más del tipo de personalidad ocupada."
 
 # game/code/Book-1/Chapter-6s/s04.rpy:87
 translate spanish b1c06ss04_continue_42378e59:
@@ -118,7 +118,7 @@ translate spanish b1c06ss04_continue_b96f6045:
 translate spanish b1c06ss04_continue_640b2f87:
 
     # mct "The one that's possibly connected to a local crime ring."
-    mct "El que posiblemente esté conectado a una red criminal local."
+    mct "La que posiblemente esté conectada a una red criminal local."
 
 # game/code/Book-1/Chapter-6s/s04.rpy:104
 translate spanish b1c06ss04_continue_76be844a:
@@ -136,7 +136,7 @@ translate spanish b1c06ss04_continue_7aff4a91:
 translate spanish b1c06ss04_continue_44f8b254:
 
     # mg "Oh yeah, I remember you. Nice to meet you...?"
-    mg "Oh sí, te recuerdo. Encantado de conocerlo...?"
+    mg "Oh sí, te recuerdo. Encantada de conocerte..."
 
 # game/code/Book-1/Chapter-6s/s04.rpy:112
 translate spanish b1c06ss04_continue_ee12be68:
@@ -172,13 +172,13 @@ translate spanish b1c06ss04_continue_95d63ea6:
 translate spanish b1c06ss04_continue_d6f46411:
 
     # mct "What does she mean by matches?"
-    mct "¿Qué quiere decir con fósforos?"
+    mct "¿Qué quiere decir con coincidencias?"
 
 # game/code/Book-1/Chapter-6s/s04.rpy:130
 translate spanish b1c06ss04_continue_4c6664c8:
 
     # zp "Shh! Keep it down. No need to be so loud."
-    zp "¡Shh! Mantenerla baja. No hay necesidad de ser tan fuerte."
+    zp "¡Shh! Baja la voz. No hay necesidad de ser tan ruidosa."
 
 # game/code/Book-1/Chapter-6s/s04.rpy:132
 translate spanish b1c06ss04_continue_f958d349:
@@ -196,13 +196,13 @@ translate spanish b1c06ss04_continue_71eadbb6:
 translate spanish b1c06ss04_continue_48892505:
 
     # zp "You've only done four and you were told to do five."
-    zp "Solo has hecho cuatro y te dijeron que hicieras cinco."
+    zp "Sólo has hecho cuatro y te dijeron que hicieras cinco."
 
 # game/code/Book-1/Chapter-6s/s04.rpy:139
 translate spanish b1c06ss04_continue_8ebdb132:
 
     # mg "But the fourth match had two opponents. That's five total opponents, even if it was just four matches."
-    mg "Pero el cuarto partido tuvo dos oponentes. Son cinco oponentes en total, incluso si fueran solo cuatro partidos."
+    mg "Pero el cuarto partido tuvo dos oponentes. Son cinco oponentes en total, aunque sólo fueran cuatro partidos."
 
 # game/code/Book-1/Chapter-6s/s04.rpy:142
 translate spanish b1c06ss04_continue_d55f0e2d:
@@ -226,7 +226,7 @@ translate spanish b1c06ss04_continue_ea40d6ea:
 translate spanish b1c06ss04_continue_8e731dd5:
 
     # zp "We are! Look, if you wanna take it up with—"
-    zp "¡Somos! Mira, si quieres retomarlo con..."
+    zp "¡Lo somos! Mira, si quieres retomarlo con..."
 
 # game/code/Book-1/Chapter-6s/s04.rpy:154
 translate spanish b1c06ss04_continue_d6fa515f:
@@ -238,7 +238,7 @@ translate spanish b1c06ss04_continue_d6fa515f:
 translate spanish b1c06ss04_continue_36224ec0:
 
     # mct "Zem's really uncomfortable with this situation...if Morgan gets any more aggressive, I've gotta do something about it."
-    mct "Zem está realmente incómodo con esta situación... si Morgan se vuelve más agresivo, tengo que hacer algo al respecto."
+    mct "Zem está realmente incómoda con esta situación... si Morgan se vuelve más agresiva, tengo que hacer algo al respecto."
 
 # game/code/Book-1/Chapter-6s/s04.rpy:160
 translate spanish b1c06ss04_continue_c7e5818d:
@@ -256,19 +256,19 @@ translate spanish b1c06ss04_continue_d2822a58:
 translate spanish b1c06ss04_continue_8a9c2326:
 
     # mg "No. You're not gonna push me around."
-    mg "No. No me vas a empujar."
+    mg "No. No vas a manipularme."
 
 # game/code/Book-1/Chapter-6s/s04.rpy:166
 translate spanish b1c06ss04_continue_abe2b843:
 
     # mg "I think you should redeem those fucking favors, Zem. I deserve it. {i}You know I do.{/i}"
-    mg "Creo que deberías redimir esos malditos favores, Zem. Me lo merezco. {i}Sabes que lo hago.{/i}"
+    mg "Creo que deberías redimir esos putos favores, Zem. Me lo merezco. {i}Sabes que me lo merezco.{/i}"
 
 # game/code/Book-1/Chapter-6s/s04.rpy:169
 translate spanish b1c06ss04_continue_19a53aeb:
 
     # zp "Of course I do, but I can't redeem those matches regardless! Trust me, maybe we can bring this up tonight when—"
-    zp "¡Por supuesto que sí, pero no puedo canjear esos partidos de todos modos! Confía en mí, tal vez podamos sacar el tema esta noche cuando—"
+    zp "¡Claro que sí, pero no puedo canjear esas coincidencias a pesar de todo! Confía en mí, tal vez podamos hablar de esto esta noche cuando..."
 
 # game/code/Book-1/Chapter-6s/s04.rpy:172
 translate spanish b1c06ss04_continue_e40c36ff:
@@ -286,7 +286,7 @@ translate spanish b1c06ss04_resp_aggressive_6e8efaa1:
 translate spanish b1c06ss04_resp_aggressive_135b4e5a:
 
     # mc "She said {i}no{/i}. Take it somewhere else if you're so broken up about it."
-    mc "Ella dijo {i}no{/i}. Llévalo a otro lugar si estás tan destrozado por eso."
+    mc "Ella dijo {i}no{/i}. Llévalo a otro lugar si estás tan destrozada por eso."
 
 # game/code/Book-1/Chapter-6s/s04.rpy:200
 translate spanish b1c06ss04_resp_aggressive_cc2399cd:
@@ -298,7 +298,7 @@ translate spanish b1c06ss04_resp_aggressive_cc2399cd:
 translate spanish b1c06ss04_resp_aggressive_7965f932:
 
     # mg "What, you got a prissy bodyguard now, Zem? Scared that the big spooky pugilists will push you around?"
-    mg "¿Qué, ahora tienes un guardaespaldas remilgado, Zem? ¿Miedo de que los grandes y espeluznantes pugilistas te empujen?"
+    mg "¿Qué, ahora tienes un guardaespaldas remilgado, Zem? ¿Tienes miedo de que los grandes y espeluznantes pugilistas te empujen?"
 
 # game/code/Book-1/Chapter-6s/s04.rpy:209
 translate spanish b1c06ss04_resp_aggressive_06314b67:
@@ -310,7 +310,7 @@ translate spanish b1c06ss04_resp_aggressive_06314b67:
 translate spanish b1c06ss04_resp_aggressive_34c58c59:
 
     # mg "Shut the fuck up, Zem. Don't ever tell me what I fucking want."
-    mg "Cierra la puta boca, Zem. Nunca me digas lo que jodidamente quiero."
+    mg "Cierra la puta boca, Zem. Nunca me digas lo que quiero."
 
 # game/code/Book-1/Chapter-6s/s04.rpy:213
 translate spanish b1c06ss04_resp_aggressive_41403d02:
@@ -328,13 +328,13 @@ translate spanish b1c06ss04_resp_aggressive_f7c2ed39:
 translate spanish b1c06ss04_resp_aggressive_1e706a20:
 
     # zp "Morgan! Fucking stop!"
-    zp "¡Morgan! ¡Parada de mierda!"
+    zp "¡Morgan! ¡Detente, mierda!"
 
 # game/code/Book-1/Chapter-6s/s04.rpy:234
 translate spanish b1c06ss04_resp_aggressive_d3641f5f:
 
     # mct "Fuck, she's strong."
-    mct "Joder, ella es fuerte."
+    mct "Mierda, ella es fuerte."
 
 # game/code/Book-1/Chapter-6s/s04.rpy:236
 translate spanish b1c06ss04_resp_aggressive_5075f6cb:
@@ -352,19 +352,19 @@ translate spanish b1c06ss04_resp_aggressive_eeebfd8c:
 translate spanish b1c06ss04_resp_aggressive_94b288cb:
 
     # mc "Apologize to Zemfira."
-    mc "Pide disculpas a Zemfira."
+    mc "Discúlpate con Zemfira."
 
 # game/code/Book-1/Chapter-6s/s04.rpy:255
 translate spanish b1c06ss04_resp_aggressive_5c636d87:
 
     # zp "It's fine, you're forgiven. Just stop causing a scene, both of you!"
-    zp "Está bien, estás perdonado. ¡Dejen de causar una escena, los dos!"
+    zp "Está bien, te perdono. Sólo dejen de hacer una escena, ¡Los dos!"
 
 # game/code/Book-1/Chapter-6s/s04.rpy:258
 translate spanish b1c06ss04_resp_aggressive_5236f2d0:
 
     # mg "You heard her. I'm forgiven. Let me up."
-    mg "La escuchaste. estoy perdonado Déjame levantarme."
+    mg "Ya la has oído. Me perdonó. Deja que me levante."
 
 # game/code/Book-1/Chapter-6s/s04.rpy:261
 translate spanish b1c06ss04_resp_aggressive_268d09aa:
@@ -388,7 +388,7 @@ translate spanish b1c06ss04_resp_aggressive_2c2d1418:
 translate spanish b1c06ss04_resp_aggressive_e8bfd3e1:
 
     # mc "I know that you need to apologize to your friend before I let you up. And I know you didn't mean to lose control of your temper."
-    mc "Sé que debes disculparte con tu amigo antes de que te deje. Y sé que no fue tu intención perder el control de tu temperamento."
+    mc "Sé que necesitas disculparte con tu amiga antes de que te deje levantarte. Y sé que no querías perder el control de tu temperamento."
 
 # game/code/Book-1/Chapter-6s/s04.rpy:280
 translate spanish b1c06ss04_resp_aggressive_8a9f9112:
@@ -406,13 +406,13 @@ translate spanish b1c06ss04_resp_aggressive_e2729438:
 translate spanish b1c06ss04_resp_aggressive_33958540:
 
     # mg "I'm sorry, Zem. Your boy toy here is right. I let my temper get in the way."
-    mg "Lo siento, Zem. Tu juguete de niño aquí tiene razón. Dejé que mi temperamento se interpusiera en el camino."
+    mg "Lo siento, Zem. Tu juguete tiene razón. Dejé que mi temperamento se interpusiera."
 
 # game/code/Book-1/Chapter-6s/s04.rpy:289
 translate spanish b1c06ss04_resp_aggressive_a8f578d6:
 
     # zp "He's not my boy toy."
-    zp "Él no es mi juguete de niño."
+    zp "Él no es mi juguete."
 
 # game/code/Book-1/Chapter-6s/s04.rpy:291
 translate spanish b1c06ss04_resp_aggressive_856d4f76:
@@ -430,7 +430,7 @@ translate spanish b1c06ss04_resp_aggressive_21ad5f05:
 translate spanish b1c06ss04_resp_aggressive_e3a3a1af:
 
     # mc "See? That wasn't so hard."
-    mc "¿Ver? Eso no fue tan difícil."
+    mc "¿Ves? Eso no fue tan difícil."
 
 # game/code/Book-1/Chapter-6s/s04.rpy:303
 translate spanish b1c06ss04_resp_aggressive_cb6ade50:
@@ -508,7 +508,7 @@ translate spanish b1c06ss04_resp_aggressive_15c9f328:
 translate spanish b1c06ss04_resp_aggressive_d206a376:
 
     # zp "*laughs* Y'know, me too."
-    zp "*risas* Ya sabes, yo también."
+    zp "*risas* Ya sabes, a mí también."
 
 # game/code/Book-1/Chapter-6s/s04.rpy:338
 translate spanish b1c06ss04_resp_aggressive_8e873dde:
@@ -520,13 +520,13 @@ translate spanish b1c06ss04_resp_aggressive_8e873dde:
 translate spanish b1c06ss04_resp_aggressive_e9df575b:
 
     # zp "Sure thing. We'll go over this later, okay?"
-    zp "Cosa segura. Vamos a repasar esto más tarde, ¿de acuerdo?"
+    zp "Seguro. Lo arreglaremos más tarde, ¿de acuerdo?"
 
 # game/code/Book-1/Chapter-6s/s04.rpy:343
 translate spanish b1c06ss04_resp_aggressive_3b2c35cd:
 
     # mg "Sounds good. Bye, guys."
-    mg "Suena bien. Chao."
+    mg "Suena bien. Adiós, chicos."
 
 # game/code/Book-1/Chapter-6s/s04.rpy:353
 translate spanish b1c06ss04_resp_humor_896dc980:
@@ -538,7 +538,7 @@ translate spanish b1c06ss04_resp_humor_896dc980:
 translate spanish b1c06ss04_resp_humor_48d6d46e:
 
     # mc "You don't want to beat up a little girl, do you?"
-    mc "No querrás pegarle una paliza a una niña, ¿verdad?"
+    mc "No querrás golpear a una niña, ¿verdad?"
 
 # game/code/Book-1/Chapter-6s/s04.rpy:357
 translate spanish b1c06ss04_resp_humor_2407566a:
@@ -556,13 +556,13 @@ translate spanish b1c06ss04_resp_humor_3e226cb7:
 translate spanish b1c06ss04_resp_humor_2f5ce1a4:
 
     # mc "I-I'm just trying to help."
-    mc "S-solo estoy tratando de ayudar."
+    mc "S-sólo estoy tratando de ayudar."
 
 # game/code/Book-1/Chapter-6s/s04.rpy:365
 translate spanish b1c06ss04_resp_humor_2bb09f81:
 
     # mg "And does it {i}look{/i} like you're fucking helping?"
-    mg "¿Y {i}parece{/i} que estás jodidamente ayudando?"
+    mg "¿Y {i}parece{/i} que estás ayudando?"
 
 # game/code/Book-1/Chapter-6s/s04.rpy:368
 translate spanish b1c06ss04_resp_humor_6c71a9ce:
@@ -604,31 +604,31 @@ translate spanish b1c06ss04_resp_humor_dc0ff26a:
 translate spanish b1c06ss04_resp_humor_3cfdf34f:
 
     # zp "Look, I don't have the authority to validate this kind of situation, Morgan. But I'm sure we can work this out somehow."
-    zp "Mira, no tengo la autoridad para validar este tipo de situación, Morgan. Pero estoy seguro de que podemos resolver esto de alguna manera."
+    zp "Mira, no tengo la autoridad para validar este tipo de situación, Morgan. Pero estoy segura de que podemos resolver esto de alguna manera."
 
 # game/code/Book-1/Chapter-6s/s04.rpy:388
 translate spanish b1c06ss04_resp_humor_93ec1ece:
 
     # zp "I agree that you deserve some sort of...recognition for the double match you did."
-    zp "Estoy de acuerdo en que te mereces algún tipo de... reconocimiento por el doble partido que hiciste."
+    zp "Estoy de acuerdo en que te mereces algún tipo de... reconocimiento por la doble coincidencia que hiciste."
 
 # game/code/Book-1/Chapter-6s/s04.rpy:391
 translate spanish b1c06ss04_resp_humor_043d148e:
 
     # mg "You fuckers don't care about any of us. All you do is get people to participate in your little games."
-    mg "Ustedes, cabrones, no se preocupan por ninguno de nosotros. Todo lo que haces es lograr que la gente participe en tus pequeños juegos."
+    mg "A ustedes, hijos de puta, no les importa ninguno de nosotros. Lo único que hacen es que la gente participe en sus jueguecitos."
 
 # game/code/Book-1/Chapter-6s/s04.rpy:393
 translate spanish b1c06ss04_resp_humor_22159b16:
 
     # zp "I do care about you, Morgan. But this situation is complicated and—"
-    zp "Me preocupo por ti, Morgan. Pero esta situación es complicada y—"
+    zp "Me preocupo por ti, Morgan. Pero esta situación es complicada y..."
 
 # game/code/Book-1/Chapter-6s/s04.rpy:396
 translate spanish b1c06ss04_resp_humor_0b3da706:
 
     # mg "{i}Fuck{/i} the others! That's not my business. But the matches I've done are my business."
-    mg "{i}¡Que se jodan{/i} los demás! Ese no es mi negocio. Pero los partidos que he hecho son asunto mío."
+    mg "{i}¡Que se vayan a la mierda{/i} los demás! Ese no es mi negocio. Pero las coincidencias que he hecho son asunto mío."
 
 # game/code/Book-1/Chapter-6s/s04.rpy:397
 translate spanish b1c06ss04_resp_humor_12bb1b85:
@@ -658,7 +658,7 @@ translate spanish b1c06ss04_resp_humor_fedd2ec4:
 translate spanish b1c06ss04_resp_humor_219e339e:
 
     # zp "Like it or not, you signed up for this. Take a hike and chill the fuck out."
-    zp "Te guste o no, te registraste para esto. Haz una caminata y relájate."
+    zp "Te guste o no, te apuntaste a esto. Vete a dar una caminata y relájate de una puta vez."
 
 # game/code/Book-1/Chapter-6s/s04.rpy:414
 translate spanish b1c06ss04_resp_humor_ee162ddc:
@@ -670,13 +670,13 @@ translate spanish b1c06ss04_resp_humor_ee162ddc:
 translate spanish b1c06ss04_resp_humor_5ff214e3:
 
     # mg "What about you, pretty boy? You gonna talk about how scary I am, too?"
-    mg "¿Qué hay de ti, niño bonito? ¿También vas a hablar de lo aterrador que soy?"
+    mg "¿Qué hay de ti, niño bonito? ¿También vas a hablar de lo aterradora que soy?"
 
 # game/code/Book-1/Chapter-6s/s04.rpy:420
 translate spanish b1c06ss04_resp_humor_7ffe297f:
 
     # mc "I'm sure you got a sweet spot in there somewhere. Everyone does."
-    mc "Estoy seguro de que tienes un punto dulce allí en alguna parte. Todos lo hacen."
+    mc "Estoy seguro de que tienes un punto dulce allí en alguna parte. Todos lo tienen."
 
 # game/code/Book-1/Chapter-6s/s04.rpy:423
 translate spanish b1c06ss04_resp_humor_179eafbd:
@@ -718,7 +718,7 @@ translate spanish b1c06ss04_resp_humor_d3da5f63:
 translate spanish b1c06ss04_resp_humor_11e47f1d:
 
     # zp "Please. We can talk about this {i}later{/i}, okay? I promise."
-    zp "Por favor. Podemos hablar de esto {i}más tarde{/i}, ¿de acuerdo? Prometo."
+    zp "Por favor. Podemos hablar de esto {i}más tarde{/i}, Lo promeo, ¿de acuerdo?."
 
 # game/code/Book-1/Chapter-6s/s04.rpy:444
 translate spanish b1c06ss04_resp_humor_32625a91:
@@ -730,19 +730,19 @@ translate spanish b1c06ss04_resp_humor_32625a91:
 translate spanish b1c06ss04_resp_humor_04f48aa8:
 
     # zp "I'm sure we can bring this to—"
-    zp "Estoy seguro de que podemos llevar esto a—"
+    zp "Estoy segura de que podemos llevar esto a—"
 
 # game/code/Book-1/Chapter-6s/s04.rpy:451
 translate spanish b1c06ss04_resp_humor_77e8799b:
 
     # mg "I gotta bounce. I'll catch ya later, Zem."
-    mg "tengo que rebotar Te veré más tarde, Zem."
+    mg "Tengo que irme. Te veo más tarde, Zem."
 
 # game/code/Book-1/Chapter-6s/s04.rpy:454
 translate spanish b1c06ss04_resp_humor_1d0a3b49:
 
     # mg "You can count on it."
-    mg "Usted puede contar con él."
+    mg "Puede contar con ello."
 
 # game/code/Book-1/Chapter-6s/s04.rpy:457
 translate spanish b1c06ss04_resp_humor_0c7e61a7:
@@ -772,19 +772,19 @@ translate spanish b1c06ss04_resp_humor_7af0ef85:
 translate spanish b1c06ss04_resp_humor_bf024376:
 
     # zp "Yeah, I'm fine. She's a good friend. Just a bit abrasive."
-    zp "Si estoy bien. Ella es una buena amiga. Sólo un poco abrasivo."
+    zp "Sí, estoy bien. Es una buena amiga. Sólo un poco agresiva."
 
 # game/code/Book-1/Chapter-6s/s04.rpy:472
 translate spanish b1c06ss04_resp_humor_1260f8bc:
 
     # mc "Just a bit."
-    mc "Solo un poco."
+    mc "Sólo un poco."
 
 # game/code/Book-1/Chapter-6s/s04.rpy:475
 translate spanish b1c06ss04_resp_humor_d6416b63:
 
     # zp "But she really is good. She's just...under a lot of pressure."
-    zp "Pero ella realmente es buena. Ella solo está... bajo mucha presión."
+    zp "Pero ella realmente es buena. Ella sólo está... bajo mucha presión."
 
 # game/code/Book-1/Chapter-6s/s04.rpy:478
 translate spanish b1c06ss04_resp_humor_6089ed9a:
@@ -808,13 +808,13 @@ translate spanish b1c06ss04_resp_diplomatic_6a69fc01:
 translate spanish b1c06ss04_resp_diplomatic_6d1812c8:
 
     # mg "Back off. You don't know anything about this situation. Get lost, pretty boy."
-    mg "Apártate. No sabes nada de esta situación. Piérdete, niño bonito."
+    mg "Retírate. No sabes nada de esta situación. Piérdete, niño bonito."
 
 # game/code/Book-1/Chapter-6s/s04.rpy:495
 translate spanish b1c06ss04_resp_diplomatic_c80fcebc:
 
     # mc "I don't need to. I'm just trying to help."
-    mc "No necesito hacerlo. Solo intento ayudar."
+    mc "No necesito hacerlo. Sólo intento ayudar."
 
 # game/code/Book-1/Chapter-6s/s04.rpy:498
 translate spanish b1c06ss04_resp_diplomatic_9f9d8eb3:
@@ -832,7 +832,7 @@ translate spanish b1c06ss04_resp_diplomatic_bd832d48:
 translate spanish b1c06ss04_resp_diplomatic_faf481a0:
 
     # mg "I just...Zem, you know how hard I'm trying."
-    mg "Yo solo... Zem, sabes lo mucho que lo estoy intentando."
+    mg "Yo sólo... Zem, sabes lo mucho que lo estoy intentando."
 
 # game/code/Book-1/Chapter-6s/s04.rpy:507
 translate spanish b1c06ss04_resp_diplomatic_286e7118:
@@ -844,25 +844,25 @@ translate spanish b1c06ss04_resp_diplomatic_286e7118:
 translate spanish b1c06ss04_resp_diplomatic_57c3ead3:
 
     # mg "Are you?"
-    mg "¿Eres?"
+    mg "¿De verdad?"
 
 # game/code/Book-1/Chapter-6s/s04.rpy:515
 translate spanish b1c06ss04_resp_diplomatic_68cb4da6:
 
     # mc "I'm sure she is. I don't know everything about this—"
-    mc "Estoy seguro de que lo es. No sé todo sobre esto—"
+    mc "Estoy seguro de que lo está haciendo. No sé todo sobre esto..."
 
 # game/code/Book-1/Chapter-6s/s04.rpy:518
 translate spanish b1c06ss04_resp_diplomatic_c142b7f8:
 
     # mg "You're right, you don't. So why are you here?"
-    mg "Tienes razón, no lo haces. ¿Entonces por qué estás aquí?"
+    mg "Tienes razón, no lo sabes. ¿Entonces por qué estás aquí?"
 
 # game/code/Book-1/Chapter-6s/s04.rpy:521
 translate spanish b1c06ss04_resp_diplomatic_9f56f8b8:
 
     # mc "Just trying to help. I consider Zemfira a friend. And I'm hoping you and I could be friends, too...?"
-    mc "Sólo trato de ayudar. Considero a Zemfira un amigo. ¿Y espero que tú y yo también podamos ser amigos...?"
+    mc "Sólo trato de ayudar. Considero a Zemfira una amiga. ¿Y espero que tú y yo también podamos ser amigos...?"
 
 # game/code/Book-1/Chapter-6s/s04.rpy:527
 translate spanish b1c06ss04_resp_diplomatic_2f880d4d:
@@ -874,7 +874,7 @@ translate spanish b1c06ss04_resp_diplomatic_2f880d4d:
 translate spanish b1c06ss04_resp_diplomatic_05eae1d9:
 
     # mg "Sorry, Zem. Just under a lot of stress."
-    mg "Lo siento Zem. Justo bajo mucho estrés."
+    mg "Lo siento, Zem. Estoy bajo mucha estrés."
 
 # game/code/Book-1/Chapter-6s/s04.rpy:533
 translate spanish b1c06ss04_resp_diplomatic_87e7e671:
@@ -886,7 +886,7 @@ translate spanish b1c06ss04_resp_diplomatic_87e7e671:
 translate spanish b1c06ss04_resp_diplomatic_57f1605b:
 
     # mg "You don't. But...that's alright. It's not your fault."
-    mg "tu no Pero... está bien. No es tu culpa."
+    mg "Pero... está bien. No es tu culpa."
 
 # game/code/Book-1/Chapter-6s/s04.rpy:539
 translate spanish b1c06ss04_resp_diplomatic_bf0b91a1:
@@ -910,7 +910,7 @@ translate spanish b1c06ss04_resp_diplomatic_6d589054:
 translate spanish b1c06ss04_resp_diplomatic_eba70389:
 
     # mg "I won't. Not in {i}public{/i}, anyway."
-    mg "no lo haré No en {i}público{/i}, de todos modos."
+    mg "No lo haré. Al menos no {i}en público.{/i}"
 
 # game/code/Book-1/Chapter-6s/s04.rpy:551
 translate spanish b1c06ss04_resp_diplomatic_2b027f4f:
@@ -922,7 +922,7 @@ translate spanish b1c06ss04_resp_diplomatic_2b027f4f:
 translate spanish b1c06ss04_resp_diplomatic_7a8fa9c4:
 
     # zp "Bye, Morgan."
-    zp "Adiós, Morgana."
+    zp "Adiós, Morgan."
 
 # game/code/Book-1/Chapter-6s/s04.rpy:564
 translate spanish b1c06ss04_end_1e67da79:
@@ -946,13 +946,13 @@ translate spanish b1c06ss04_end_cc5aee40:
 translate spanish b1c06ss04_end_f017b4a5:
 
     # zp "*sigh* It's a bit complex. But we all made our choices, right?"
-    zp "*suspiro* Es un poco complejo. Pero todos tomamos nuestras decisiones, ¿verdad?"
+    zp "*suspiro* Es algo complejo. Pero todos tomamos nuestras decisiones, ¿verdad?"
 
 # game/code/Book-1/Chapter-6s/s04.rpy:572
 translate spanish b1c06ss04_end_d1aad57c:
 
     # zp "It'll be alright. Morgan's just hot-tempered. She's a loyal friend and a strong person. Just has a temper."
-    zp "Estará bien. Morgan solo tiene mal genio. Es una amiga leal y una persona fuerte. Solo tiene temperamento."
+    zp "Todo saldrá bien. Morgan sólo tiene mal genio. Es una amiga leal y una persona fuerte. Sólo tiene mal genio."
 
 # game/code/Book-1/Chapter-6s/s04.rpy:575
 translate spanish b1c06ss04_end_fdbf20ef:
@@ -988,7 +988,7 @@ translate spanish b1c06ss04_end_acbf38f0:
 translate spanish b1c06ss04_end_803146d0:
 
     # zp "Mm, you drive a hard bargain. I'd love to, but I've actually got plans tonight. There's an event I'm helping...manage."
-    zp "Mm, manejas un trato difícil. Me encantaría, pero en realidad tengo planes para esta noche. Hay un evento que estoy ayudando... a administrar."
+    zp "Mm, Eres un duro negociador. Me encantaría, pero en realidad tengo planes para esta noche. Hay un evento que estoy ayudando a... organizar."
 
 # game/code/Book-1/Chapter-6s/s04.rpy:594
 translate spanish b1c06ss04_end_0b858123:
@@ -1012,7 +1012,7 @@ translate spanish b1c06ss04_end_817b7498:
 translate spanish b1c06ss04_end_eb6cc1db:
 
     # zp "I'd invite you, but it's kind of a closed thing."
-    zp "Te invitaría, pero es algo cerrado."
+    zp "Te invitaría, pero es algo muy reservado."
 
 # game/code/Book-1/Chapter-6s/s04.rpy:604
 translate spanish b1c06ss04_end_56ea1ede:
@@ -1036,7 +1036,7 @@ translate spanish b1c06ss04_end_84da6f15:
 translate spanish b1c06ss04_end_74fc6761:
 
     # mc "Me too."
-    mc "Yo también."
+    mc "A mí también."
 
 # game/code/Book-1/Chapter-6s/s04.rpy:614
 translate spanish b1c06ss04_end_d5868444:
@@ -1084,5 +1084,5 @@ translate spanish strings:
 
     # game/code/Book-1/Chapter-6s/s04.rpy:26
     old "In the evening"
-    new "Por la tarde"
+    new "Por la noche"
 
