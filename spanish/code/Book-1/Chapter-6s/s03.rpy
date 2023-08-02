@@ -34,13 +34,13 @@ translate spanish b1c06ss03_50d03b98:
 translate spanish b1c06ss03_4c79a107:
 
     # mc "I guess I see what you mean. Did you have a lot of sleep overs as a kid?"
-    mc "Supongo que entiendo lo que quieres decir. ¿Tuviste muchas pijamadas cuando eras niño?"
+    mc "Supongo que entiendo lo que quieres decir. ¿Tuviste muchas pijamadas cuando eras niña?"
 
 # game/code/Book-1/Chapter-6s/s03.rpy:42
 translate spanish b1c06ss03_ce0bef45:
 
     # ffl "Hah! No. I was usually isolated as a--"
-    ffl "¡Ja! No. Por lo general, estaba aislado como..."
+    ffl "¡Ja! No. Normalmente estaba aislada como..."
 
 # game/code/Book-1/Chapter-6s/s03.rpy:54
 translate spanish b1c06ss03_7b0ebc54:
@@ -52,13 +52,13 @@ translate spanish b1c06ss03_7b0ebc54:
 translate spanish b1c06ss03_f148919c:
 
     # mc "And me, if you’re not careful."
-    mc "Y yo, si no tienes cuidado."
+    mc "Y a mí, si no tienes cuidado."
 
 # game/code/Book-1/Chapter-6s/s03.rpy:59
 translate spanish b1c06ss03_50185917:
 
     # ffl "Hah! Well, there are worse ways to go, I suppose."
-    ffl "¡Ja! Bueno, hay peores maneras de ir, supongo."
+    ffl "¡Ja! Bueno, hay peores maneras de hacerlo, supongo."
 
 # game/code/Book-1/Chapter-6s/s03.rpy:60
 translate spanish b1c06ss03_d3e1d33a:
@@ -76,7 +76,7 @@ translate spanish b1c06ss03_ef2d01b5:
 translate spanish b1c06ss03_05477f1d:
 
     # ffl "Really?"
-    ffl "¿En realidad?"
+    ffl "¿De verdad?"
 
 # game/code/Book-1/Chapter-6s/s03.rpy:67
 translate spanish b1c06ss03_5489fcc8:
@@ -88,13 +88,13 @@ translate spanish b1c06ss03_5489fcc8:
 translate spanish b1c06ss03_ee5bb87e:
 
     # ffl "What, like you’d show me how to move my feet?"
-    ffl "¿Qué, como si me mostraras cómo mover mis pies?"
+    ffl "¿Qué, como si me enseñaras a mover los pies?"
 
 # game/code/Book-1/Chapter-6s/s03.rpy:73
 translate spanish b1c06ss03_5637c95e:
 
     # mc "Sure, if you want. There are some stretches that I could help you with as well. It’s better to do it with a partner."
-    mc "Claro si tu quieres. Hay algunos tramos con los que también podría ayudarte. Es mejor hacerlo con un compañero."
+    mc "Claro, si tú quieres. Hay algunos ejercicios de estiramiento con los que también podría ayudarte. Es mejor hacerlo con un compañero."
 
 # game/code/Book-1/Chapter-6s/s03.rpy:76
 translate spanish b1c06ss03_a7340b65:
@@ -112,13 +112,13 @@ translate spanish b1c06ss03_ca368f90:
 translate spanish b1c06ss03_8d4426b1:
 
     # mc "Is your family French?"
-    mc "¿Tu familia es francesa?"
+    mc "¿Tú familia es francesa?"
 
 # game/code/Book-1/Chapter-6s/s03.rpy:86
 translate spanish b1c06ss03_1600f269:
 
     # ffl "Mm-hm, they're isolationist weed growing hippies from the mountains. That’s why I was mostly alone as a kid."
-    ffl "Mm-hm, son hippies aislacionistas de las montañas que cultivan hierba. Es por eso que estaba mayormente solo cuando era niño."
+    ffl "Mm-hm, son hippies aislacionistas de las montañas que cultivan hierba. Por eso estaba casi siempre sola de niña."
 
 # game/code/Book-1/Chapter-6s/s03.rpy:87
 translate spanish b1c06ss03_43519c98:
@@ -130,7 +130,7 @@ translate spanish b1c06ss03_43519c98:
 translate spanish b1c06ss03_b8898a96:
 
     # mc "Gaia?"
-    mc "Gaia?"
+    mc "¿Gaia?"
 
 # game/code/Book-1/Chapter-6s/s03.rpy:93
 translate spanish b1c06ss03_fb3272ed:
@@ -142,13 +142,13 @@ translate spanish b1c06ss03_fb3272ed:
 translate spanish b1c06ss03_110ebc5f:
 
     # ffl "But our families were the closest thing to neighbors you could get out in the woods. So Gaia and I played together as often as possible."
-    ffl "Pero nuestras familias eran lo más cercano a los vecinos que podías encontrar en el bosque. Así que Gaia y yo jugamos juntos con la mayor frecuencia posible."
+    ffl "Pero nuestras familias eran lo más parecido a vecinos que se podía tener en el bosque. Así que Gaia y yo jugábamos juntas siempre que podíamos."
 
 # game/code/Book-1/Chapter-6s/s03.rpy:97
 translate spanish b1c06ss03_371541e9:
 
     # mc "Hm, why am I not surprised you grew up as a socially isolated hermit?"
-    mc "Hm, ¿por qué no me sorprende que crecieras como un ermitaño socialmente aislado?"
+    mc "Hm, ¿Por qué no me sorprende que crecieras como una ermitaña socialmente aislada?"
 
 # game/code/Book-1/Chapter-6s/s03.rpy:101
 translate spanish b1c06ss03_e8587819:
@@ -196,19 +196,19 @@ translate spanish b1c06ss03_4dd2f14c:
 translate spanish b1c06ss03_b2ea1c3c:
 
     # ass "Fleur!"
-    ass "Flor!"
+    ass "¡Fleur!"
 
 # game/code/Book-1/Chapter-6s/s03.rpy:150
 translate spanish b1c06ss03_fe438c90:
 
     # ffl "Oh! Asami! What's up?"
-    ffl "¡Oh! Asami! ¿Qué pasa?"
+    ffl "¡Oh! ¡Asami! ¿Qué pasa?"
 
 # game/code/Book-1/Chapter-6s/s03.rpy:157
 translate spanish b1c06ss03_0985a172:
 
     # ass "Nothin' much. Was running to the chem lab before I spotted you two. Can't stay long."
-    ass "Nada mucho. Estaba corriendo al laboratorio de química antes de que los viera a ustedes dos. No puedo quedarme mucho tiempo."
+    ass "No mucho. Estaba corriendo al laboratorio de química antes de que los viera a ustedes dos. No puedo quedarme mucho."
 
 # game/code/Book-1/Chapter-6s/s03.rpy:160
 translate spanish b1c06ss03_c385b439:
@@ -244,13 +244,13 @@ translate spanish b1c06ss03_64dab699:
 translate spanish b1c06ss03_91535ca2:
 
     # ass "You seem familiar. Have I met you before?"
-    ass "Pareces familiar. ¿Te he conocido antes?"
+    ass "Pareces familiar. ¿Te he visto antes?"
 
 # game/code/Book-1/Chapter-6s/s03.rpy:181
 translate spanish b1c06ss03_82eff0a6:
 
     # mc "I don't think we have."
-    mc "No creo que tengamos."
+    mc "No creo que nos hayamos visto."
 
 # game/code/Book-1/Chapter-6s/s03.rpy:184
 translate spanish b1c06ss03_e674f401:
@@ -268,25 +268,25 @@ translate spanish b1c06ss03_e578a1c6:
 translate spanish b1c06ss03_9811e47c:
 
     # mc "You two friends?"
-    mc "¿Ustedes dos amigos?"
+    mc "¿Ustedes dos son amigas?"
 
 # game/code/Book-1/Chapter-6s/s03.rpy:194
 translate spanish b1c06ss03_5f00a8ff:
 
     # "The moment you've stolen Asami's attention, Fleur restarts her groping, this time even more methodical and cautious. She undoes your jeans and brings out your cock."
-    "En el momento en que has robado la atención de Asami, Fleur reinicia su manoseo, esta vez aún más metódico y cauteloso. Te desabrocha los vaqueros y saca a relucir tu polla."
+    "En el momento en que has robado la atención de Asami, Fleur reanuda su manoseo, esta vez aún más metódica y cautelosa. Te desabrocha los vaqueros y te saca la polla."
 
 # game/code/Book-1/Chapter-6s/s03.rpy:197
 translate spanish b1c06ss03_a55f52a5:
 
     # mct "Damn it, Fleur. You're gonna get us both kicked out."
-    mct "Maldita sea, Flor. Vas a hacer que nos echen a los dos."
+    mct "Maldita sea, Fleur. Vas a hacer que nos echen a los dos."
 
 # game/code/Book-1/Chapter-6s/s03.rpy:200
 translate spanish b1c06ss03_cf52c4bb:
 
     # "You notice just the bare hint of smirk as she teases and feels out your tip."
-    "Notas solo un leve indicio de sonrisa mientras ella se burla y siente tu propina."
+    "Te das cuenta de que sonríe un poco mientras se burla de ti y te toca la punta."
 
 # game/code/Book-1/Chapter-6s/s03.rpy:202
 translate spanish b1c06ss03_17fc6763:
@@ -298,7 +298,7 @@ translate spanish b1c06ss03_17fc6763:
 translate spanish b1c06ss03_9cdec228:
 
     # mct "I need to keep it together and not show anything."
-    mct "Necesito mantenerlo unido y no mostrar nada."
+    mct "Necesito mantener la calma y no demostrar nada."
 
 # game/code/Book-1/Chapter-6s/s03.rpy:206
 translate spanish b1c06ss03_d8139fc0:
@@ -322,13 +322,13 @@ translate spanish b1c06ss03_9d4a6058:
 translate spanish b1c06ss03_f2103592:
 
     # mct "I wonder if Asami has a connection to Zemfira then?"
-    mct "Me pregunto si Asami tiene una conexión con Zemfira entonces."
+    mct "Me pregunto si Asami tiene una conexión con Zemfira."
 
 # game/code/Book-1/Chapter-6s/s03.rpy:220
 translate spanish b1c06ss03_a506ed7c:
 
     # mc "Are you a friend of Zemfira as well then?"
-    mc "¿También eres amigo de Zemfira?"
+    mc "¿También eres amiga de Zemfira?"
 
 # game/code/Book-1/Chapter-6s/s03.rpy:228
 translate spanish b1c06ss03_c288bc86:
@@ -340,13 +340,13 @@ translate spanish b1c06ss03_c288bc86:
 translate spanish b1c06ss03_24638e9e:
 
     # ffl "We all had lunch together a bit back."
-    ffl "Todos almorzamos juntos un poco atrás."
+    ffl "Almorzamos todos juntos hace poco."
 
 # game/code/Book-1/Chapter-6s/s03.rpy:234
 translate spanish b1c06ss03_20509841:
 
     # ass "Ah.{w} In that case, yeah. Zem and I are friends."
-    ass "Ah. {w} En ese caso, sí. Zem y yo somos amigos."
+    ass "Ah. {w} En ese caso, sí. Zem y yo somos amigas."
 
 # game/code/Book-1/Chapter-6s/s03.rpy:237
 translate spanish b1c06ss03_e288b81a:
@@ -382,13 +382,13 @@ translate spanish b1c06ss03_df3a7231:
 translate spanish b1c06ss03_70e2454a:
 
     # "Fleur gently strokes your length, keeping the rest of her hand incredibly still to not rouse suspicion. Or at least even more suspicion."
-    "Fleur acaricia suavemente tu longitud, manteniendo el resto de su mano increíblemente quieto para no despertar sospechas. O al menos aún más sospechas."
+    "Fleur acaricia suavemente tu longitud, manteniendo el resto de su mano increíblemente quieta para no despertar sospechas. O al menos aún más sospechas."
 
 # game/code/Book-1/Chapter-6s/s03.rpy:252
 translate spanish b1c06ss03_082b5f3f:
 
     # "Her fingers are lithe and soft as you expected, but they also have a surprising calloused maturity to them. A feeling that only amplifies your arousal and makes you want to know more about this trickster fae woman."
-    "Sus dedos son ágiles y suaves como esperabas, pero también tienen una sorprendente madurez encallecida. Un sentimiento que solo amplifica tu excitación y te hace querer saber más sobre esta mujer fae tramposa."
+    "Como esperabas, sus dedos son ágiles y suaves, pero también tienen una sorprendente madurez callosa. Una sensación que aumenta tu excitación y te hace querer saber más sobre esta mujer tramposa."
 
 # game/code/Book-1/Chapter-6s/s03.rpy:255
 translate spanish b1c06ss03_ee265617:
@@ -406,7 +406,7 @@ translate spanish b1c06ss03_d4a4d91e:
 translate spanish b1c06ss03_cd25b136:
 
     # mct "I have to get her for this later."
-    mct "Tengo que buscarla para esto más tarde."
+    mct "Tengo que ir a buscarla para esto más tarde."
 
 # game/code/Book-1/Chapter-6s/s03.rpy:265
 translate spanish b1c06ss03_de60ef37:
@@ -430,13 +430,13 @@ translate spanish b1c06ss03_d5892089:
 translate spanish b1c06ss03_a16a0c6f:
 
     # ass "Oh! I remember now! Weren't you at the park with some girl a couple days back? I saw you two tonguing."
-    ass "¡Oh! ¡Ahora recuerdo! ¿No estuviste en el parque con una chica hace un par de días? Los vi a los dos lamiendo."
+    ass "¡Oh! ¡Ahora me acuerdo! ¿No estabas en el parque con una chica hace un par de días? Los vi besuqueándose."
 
 # game/code/Book-1/Chapter-6s/s03.rpy:284
 translate spanish b1c06ss03_71fd11a1:
 
     # mc "Okay, we were {i}not{/i} tonguing."
-    mc "Está bien, estábamos {i}no{/i} hablando con la lengua."
+    mc "Está bien, {i}no nos estábamos{/i} besuqueando."
 
 # game/code/Book-1/Chapter-6s/s03.rpy:286
 translate spanish b1c06ss03_ebfcdfee:
@@ -460,7 +460,7 @@ translate spanish b1c06ss03_4f1ef755:
 translate spanish b1c06ss03_2b04186c:
 
     # mct "Fuck. Asami saw me kissing Phoebe like that..."
-    mct "Mierda. Asami me vio besando así a Phoebe..."
+    mct "Mierda. Asami me vio besando a Phoebe..."
 
 # game/code/Book-1/Chapter-6s/s03.rpy:310
 translate spanish b1c06ss03_a1ac2187:
@@ -520,7 +520,7 @@ translate spanish b1c06ss03_4f7ab923:
 translate spanish b1c06ss03_059d6602:
 
     # "But as you think that she will stop, she continues her movements once again. As if nothing happened."
-    "Pero como crees que se detendrá, continúa sus movimientos una vez más. Como si nada hubiera pasado."
+    "Pero cuando piensas que se detendrá, ella continúa sus movimientos una vez más. Como si nada hubiera pasado."
 
 # game/code/Book-1/Chapter-6s/s03.rpy:351
 translate spanish b1c06ss03_1840cae2:
@@ -562,7 +562,7 @@ translate spanish b1c06ss03_5a42b301:
 translate spanish b1c06ss03_a4e73d5c:
 
     # mc "Oh c'mon. It was just a peck! I was saying goodbye. It's normal!"
-    mc "Ay, vamos. ¡Fue solo un picotazo! me estaba despidiendo ¡Es normal!"
+    mc "Oh, vamos. ¡Fue sólo un beso! Me estaba despidiendo. ¡Es normal!"
 
 # game/code/Book-1/Chapter-6s/s03.rpy:382
 translate spanish b1c06ss03_7002213c:
@@ -580,13 +580,13 @@ translate spanish b1c06ss03_a5ccf958:
 translate spanish b1c06ss03_25678521:
 
     # ass "Well shit. I'm late for class."
-    ass "Bueno mierda Estoy atrasado para la clase."
+    ass "Bueno mierda. Estoy atrasada para la clase."
 
 # game/code/Book-1/Chapter-6s/s03.rpy:398
 translate spanish b1c06ss03_6b428827:
 
     # ass "Alright, you two. I gotta run. See ya around, [mcname]. Bye, Fleur."
-    ass "Muy bien, ustedes dos. Tengo que correr. Nos vemos, [mcname]. Adiós, Flor."
+    ass "Muy bien, ustedes dos. Tengo que correr. Nos vemos, [mcname]. Adiós, Fleur."
 
 # game/code/Book-1/Chapter-6s/s03.rpy:407
 translate spanish b1c06ss03_b55f78a3:
@@ -664,7 +664,7 @@ translate spanish b1c06ss03_0f63abe7:
 translate spanish b1c06ss03_541199b8:
 
     # mc "It's alright. It felt nice."
-    mc "Esta bien. Se sintió bien."
+    mc "Está bien. Se sintió bien."
 
 # game/code/Book-1/Chapter-6s/s03.rpy:440
 translate spanish b1c06ss03_e4f25e85:
@@ -688,7 +688,7 @@ translate spanish b1c06ss03_d4b6a8b7:
 translate spanish b1c06ss03_fcd9dd4a:
 
     # mc "Just you and me."
-    mc "Solo tu y yo."
+    mc "Sólos tú y yo."
 
 # game/code/Book-1/Chapter-6s/s03.rpy:453
 translate spanish b1c06ss03_6ac7e5ab:
@@ -744,7 +744,7 @@ translate spanish strings:
 
     # game/code/Book-1/Chapter-6s/s03.rpy:110
     old "Stop Fleur"
-    new "Detener Fleur"
+    new "Detener a Fleur"
 
     # game/code/Book-1/Chapter-6s/s03.rpy:303
     old "Respond with a deflection"
@@ -752,5 +752,5 @@ translate spanish strings:
 
     # game/code/Book-1/Chapter-6s/s03.rpy:303
     old "Respond \"truthfully\""
-    new "Responda \"sinceramente\""
+    new "Responde \"sinceramente\""
 
