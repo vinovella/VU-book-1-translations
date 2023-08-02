@@ -116,7 +116,7 @@ translate spanish strings:
 
     # game/code/hints.rpy:5
     old "You turn the question around on Asami. Fleur thinks you're acting weird. -1 pts Fleur."
-    new "Le das la vuelta a la pregunta sobre Asami. Fleur cree que estás actuando raro. -1 pt Flor."
+    new "Le das la vuelta a la pregunta sobre Asami. Fleur piensa que estás actuando raro. -1 punto con Fleur."
 
     # game/code/hints.rpy:5
     old "You tell them that it was your mother. Asami likes that you answered truthfully. +1 pts Asami."
@@ -124,7 +124,7 @@ translate spanish strings:
 
     # game/code/hints.rpy:5
     old "You tell the truth but then deflect with a joke. Fleur likes it. +1 pts Fleur."
-    new "Dices la verdad pero luego te desvías con una broma. A Fleur le gusta. +1 pt Flor."
+    new "Le dices la verdad pero luego te desvías con una broma. A Fleur le gusta. +1 punto con Fleur."
 
     # game/code/hints.rpy:5
     old "Zemfira appreciates you taking action. +1 points with Zemfira."
