@@ -1024,7 +1024,7 @@ translate spanish b1c06cs07_end_f523a499:
 translate spanish b1c06cs07_end_72d6a4f4:
 
     # mct "The artist is probably a better lead at this point."
-    mct "El artista es probablemente una mejor pista en este punto."
+    mct "El artista es probablemente una mejor pista en este momento."
 
 # game/code/Book-1/Chapter-6c/s07.rpy:626
 translate spanish b1c06cs07_end_0e068ecc:
@@ -1054,7 +1054,7 @@ translate spanish b1c06cs07_end_e9e15328:
 translate spanish b1c06cs07_end_417edd19:
 
     # sd "Classes? Oh...I'm sorry. I was inconsiderate with your time."
-    sd "¿Clases? Oh lo siento. Fui desconsiderada con tu tiempo."
+    sd "¿Clases? Oh... lo siento. Fui desconsiderada con tu tiempo."
 
 # game/code/Book-1/Chapter-6c/s07.rpy:637
 translate spanish b1c06cs07_end_2e9d4be5:
