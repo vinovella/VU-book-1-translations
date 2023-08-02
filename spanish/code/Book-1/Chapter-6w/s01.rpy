@@ -376,11 +376,10 @@ translate spanish b1c06ws01_085cccdd:
 translate spanish b1c06ws01_9ccc5ed5:
 
     # lw "I was {i}{b}not{/b}{/i} eavesdropping. And even if I was, it's my dorm and I can do anything I damn well please."
-    lw "{i}No estaba{/b}{/i} espiando. Y aunque así fuera, es mi dormitorio y puedo hacer lo que me plazca."
+    lw "{i}{b}No estaba{/b}{/i} espiando. Y aunque así fuera, es mi dormitorio y puedo hacer lo que me plazca."
 
 # game/code/Book-1/Chapter-6w/s01.rpy:215
 translate spanish b1c06ws01_9b64e055:
 
     # mc "*Laughs* Of course."
     mc "*Risas* Por supuesto."
-

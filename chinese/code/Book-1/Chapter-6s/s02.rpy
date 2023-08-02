@@ -76,7 +76,7 @@ translate chinese b1c06ss02_bedca4d1:
 translate chinese b1c06ss02_97261b40:
 
     # xv "But you {i}are{/i} an outsider, which means you can't be trusted."
-    xv "可你{/i}确实{/i}是个局外人，这意味着你不可信。"
+    xv "可你{i}确实{/i}是个局外人，这意味着你不可信。"
 
 # game/code/Book-1/Chapter-6s/s02.rpy:54
 translate chinese b1c06ss02_b89e2179:
@@ -651,4 +651,3 @@ translate chinese strings:
     # game/code/Book-1/Chapter-6s/s02.rpy:160
     old "Respond carefully"
     new "谨慎回应"
-

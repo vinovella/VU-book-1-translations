@@ -232,7 +232,7 @@ translate chinese b1c06ss01_def0ad19:
 translate chinese b1c06ss01_ec382380:
 
     # ffl "It's called a \"Hamsa Hand.\" \"Khamsah\" means five in Arabic, so it basically means \"five fingered hand.\""
-    ffl "这叫法蒂玛之手。"Khamsah\"在阿拉伯语中是五的意思，所以它基本上意味着\"有五个手指的手。\""
+    ffl "这叫法蒂玛之手。\"Khamsah\"在阿拉伯语中是五的意思，所以它基本上意味着\"有五个手指的手。\""
 
 # game/code/Book-1/Chapter-6s/s01.rpy:123
 translate chinese b1c06ss01_a37ed06b:
