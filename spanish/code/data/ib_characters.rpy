@@ -368,7 +368,7 @@ translate spanish strings:
 
     # game/code/data/ib_characters.rpy:48
     old "Caspian"
-    new "Caspio"
+    new "Caspian"
 
     # game/code/data/ib_characters.rpy:48
     old "Harding"
