@@ -28,7 +28,7 @@ translate spanish b1c06s01_f46d1e6c:
 translate spanish b1c06s01_2fa17be9:
 
     # lw "Sorry, sorry. I just thought you were Josie."
-    lw "Lo siento lo siento. Sólo pensé que eras Josie."
+    lw "Lo siento, lo siento. Sólo pensé que eras Josie."
 
 # game/code/Book-1/Chapter-6/s01.rpy:68
 translate spanish b1c06s01_e15fe2a5:
@@ -88,7 +88,7 @@ translate spanish b1c06s01_b1d1e7c6:
 translate spanish b1c06s01_275c1536:
 
     # mc "You wish. Where's the number?"
-    mc "Tú deseas. ¿Dónde está el número?"
+    mc "Tú quisieras. ¿Dónde está el número?"
 
 # game/code/Book-1/Chapter-6/s01.rpy:96
 translate spanish b1c06s01_55a9b6ab:
@@ -106,7 +106,7 @@ translate spanish b1c06s01_9693f5dd:
 translate spanish b1c06s01_5c69efd4:
 
     # mct "Especially if it's just something to do with the bet between Ronja and Diana."
-    mct "Especialmente si solo tiene algo que ver con la apuesta entre Ronja y Diana."
+    mct "Sobre todo si es algo relacionado con la apuesta entre Ronja y Diana."
 
 # game/code/Book-1/Chapter-6/s01.rpy:105
 translate spanish b1c06s01_db183796:
@@ -118,7 +118,7 @@ translate spanish b1c06s01_db183796:
 translate spanish b1c06s01_ed0a7c1d:
 
     # mct "Regardless, if I ignore Ronja it might piss her off. But going to her office at this hour, regardless of the reason, might also piss off Diana. Who do I want to piss off less?"
-    mct "De todos modos, si ignoro a Ronja, podría molestarla. Pero ir a su oficina a esta hora, sin importar el motivo, también podría enojar a Diana. ¿A quién quiero cabrear menos?"
+    mct "De todos modos, si ignoro a Ronja podría enojarla. Pero si voy a su oficina a esta hora, sin importar la razón, también podría enojar a Diana. ¿A quién quiero molestar menos?"
 
 # game/code/Book-1/Chapter-6/s01.rpy:118
 translate spanish b1c06s01_call_rh_3dcec546:
@@ -130,13 +130,13 @@ translate spanish b1c06s01_call_rh_3dcec546:
 translate spanish b1c06s01_call_rh_e73a196b:
 
     # mct "I'd rather risk pissing off Diana. She won't jeopardize the case regardless of this bet."
-    mct "Prefiero arriesgarme a cabrear a Diana. Ella no pondrá en peligro el caso a pesar de esta apuesta."
+    mct "Prefiero arriesgarme a hacer enojar a Diana. Ella no pondrá en peligro el caso a pesar de esta apuesta."
 
 # game/code/Book-1/Chapter-6/s01.rpy:123
 translate spanish b1c06s01_call_rh_93cb18bd:
 
     # mct "Though hopefully this is just a small thing and won't piss off either woman."
-    mct "Aunque con suerte esto es solo una pequeña cosa y no molestará a ninguna de las mujeres."
+    mct "Aunque esperemos que sólo sea una cosa sin importancia y no enoje a ninguna de las dos mujeres."
 
 # game/code/Book-1/Chapter-6/s01.rpy:127
 translate spanish b1c06s01_call_rh_46a90d7a:
@@ -148,7 +148,7 @@ translate spanish b1c06s01_call_rh_46a90d7a:
 translate spanish b1c06s01_call_rh_e29ab1d8:
 
     # mc "Hey, what's—"
-    mc "Oye, ¿qué es...?"
+    mc "Oye, ¿qué...?"
 
 # game/code/Book-1/Chapter-6/s01.rpy:133
 translate spanish b1c06s01_call_rh_39be40c0:
@@ -214,7 +214,7 @@ translate spanish b1c06s01_call_rh_02cd4679:
 translate spanish b1c06s01_call_rh_99e50296:
 
     # mc "Yeah...I think so, anyway. Sounded like she just wanted to chat about something. Probably some paperwork I forgot about when I transferred."
-    mc "Sí... creo que sí, de todos modos. Parecía que solo quería charlar sobre algo. Probablemente algún papeleo que olvidé cuando me transfirieron."
+    mc "Sí... creo que sí, de todos modos. Sonaba como si quisiera hablar de algo. Probablemente algún papeleo que olvidé cuando me transfirieron."
 
 # game/code/Book-1/Chapter-6/s01.rpy:160
 translate spanish b1c06s01_call_rh_8fd8bcf4:
@@ -232,19 +232,19 @@ translate spanish b1c06s01_call_rh_3b65cc01:
 translate spanish b1c06s01_call_rh_5fdc0b04:
 
     # mct "She asked me to rush over here and then doesn't even answer the door? That's weird."
-    mct "¿Me pidió que corriera aquí y luego ni siquiera abre la puerta? Eso es raro."
+    mct "¿¿Me pidió que viniera rápido y luego ni siquiera abre la puerta? Eso es raro."
 
 # game/code/Book-1/Chapter-6/s01.rpy:171
 translate spanish b1c06s01_call_rh_822a72b3:
 
     # mct "Maybe she left and is on her way back?"
-    mct "¿Quizás se fue y está de regreso?"
+    mct "¿Quizás se fue y ya está de vuelta?"
 
 # game/code/Book-1/Chapter-6/s01.rpy:179
 translate spanish b1c06s01_call_rh_c6f1863c:
 
     # mc "Whoa!"
-    mc "¡Guau!"
+    mc "¡Ah!"
 
 # game/code/Book-1/Chapter-6/s01.rpy:185
 translate spanish b1c06s01_call_rh_bcc98cb4:
@@ -346,13 +346,13 @@ translate spanish b1c06s01_call_rh_315153fc:
 translate spanish b1c06s01_call_rh_b4e2e6e0:
 
     # rh "Ah! Yes! Spank me."
-    rh "¡Ay! ¡Sí! Pegarme."
+    rh "¡Ah! ¡Sí! Pégame."
 
 # game/code/Book-1/Chapter-6/s01.rpy:279
 translate spanish b1c06s01_call_rh_ed96df52:
 
     # rh "Have your way with me—I want you to {i}fuck{/i} me."
-    rh "Haz lo que quieras conmigo: quiero que me {i}cojas{/i}."
+    rh "Haz lo que quieras conmigo: quiero que me {i}folles{/i}."
 
 # game/code/Book-1/Chapter-6/s01.rpy:291
 translate spanish b1c06s01_call_rh_526d0213:
@@ -364,7 +364,7 @@ translate spanish b1c06s01_call_rh_526d0213:
 translate spanish b1c06s01_call_rh_edb68ac5:
 
     # rh "Ah! Fuck, fuck, fuck!"
-    rh "¡Ay! ¡Joder, joder, joder!"
+    rh "¡Ay! ¡Mierda, mierda, mierda!"
 
 # game/code/Book-1/Chapter-6/s01.rpy:297
 translate spanish b1c06s01_call_rh_b2d7fe2a:
@@ -376,7 +376,7 @@ translate spanish b1c06s01_call_rh_b2d7fe2a:
 translate spanish b1c06s01_call_rh_9f590135:
 
     # "You clean close to Ronja's ear and whisper against it."
-    "Limpias cerca de la oreja de Ronja y susurras contra ella."
+    "Te acercas al oído de Ronja y le susurras."
 
 # game/code/Book-1/Chapter-6/s01.rpy:301
 translate spanish b1c06s01_call_rh_b5ea19f5:
@@ -400,7 +400,7 @@ translate spanish b1c06s01_call_rh_130e0cd4:
 translate spanish b1c06s01_call_rh_91cdf410:
 
     # "You pull out of Ronja and reposition her so she's laying on the desk facing you."
-    "Sacas a Ronja y la vuelves a colocar para que esté recostada sobre el escritorio frente a ti."
+    "Te separas de Ronja y la colocas sobre el escritorio, frente a ti."
 
 # game/code/Book-1/Chapter-6/s01.rpy:315
 translate spanish b1c06s01_call_rh_25b7f467:
@@ -430,7 +430,7 @@ translate spanish b1c06s01_call_rh_a9eeeb8f:
 translate spanish b1c06s01_call_rh_7acdf925:
 
     # mc "You're gonna need to be gagged if you can't be quiet, sweetheart."
-    mc "Vas a necesitar que te amordacen si no puedes estar callada, cariño."
+    mc "Si no te callas, voy a tener que amordazarte, cariño."
 
 # game/code/Book-1/Chapter-6/s01.rpy:334
 translate spanish b1c06s01_call_rh_ab2160b6:
@@ -454,7 +454,7 @@ translate spanish b1c06s01_call_rh_177d3eb2:
 translate spanish b1c06s01_call_rh_d854c7bb:
 
     # rh "Just checking notifications. You never know when there might be an urgent call."
-    rh "Solo revisando notificaciones. Nunca se sabe cuándo puede haber una llamada urgente."
+    rh "Sólo revisando notificaciones. Nunca se sabe cuándo puede haber una llamada urgente."
 
 # game/code/Book-1/Chapter-6/s01.rpy:350
 translate spanish b1c06s01_call_rh_fcb37aa1:
@@ -466,7 +466,7 @@ translate spanish b1c06s01_call_rh_fcb37aa1:
 translate spanish b1c06s01_call_rh_20c69fce:
 
     # mc "Now open it so I can fuck you senseless without it causing trouble."
-    mc "Ahora ábrelo para que pueda follarte sin sentido sin que cause problemas."
+    mc "Ahora ábrela para que pueda follarte sin sentido sin que cause problemas."
 
 # game/code/Book-1/Chapter-6/s01.rpy:358
 translate spanish b1c06s01_call_rh_ac8f4e4b:
@@ -538,13 +538,13 @@ translate spanish b1c06s01_call_rh_d7760138:
 translate spanish b1c06s01_call_rh_64341549:
 
     # dm "Ronja I—"
-    dm "Ronja yo—"
+    dm "Ronja yo..."
 
 # game/code/Book-1/Chapter-6/s01.rpy:402
 translate spanish b1c06s01_call_rh_64b24cf1:
 
     # dm "What the fu—"
-    dm "¿Qué diablos?"
+    dm "¿Qué mierda?"
 
 # game/code/Book-1/Chapter-6/s01.rpy:405
 translate spanish b1c06s01_call_rh_55623543:
@@ -568,7 +568,7 @@ translate spanish b1c06s01_call_rh_255e216b:
 translate spanish b1c06s01_call_rh_4985974a:
 
     # mc "I just—"
-    mc "Yo solo-"
+    mc "Yo sólo-"
 
 # game/code/Book-1/Chapter-6/s01.rpy:418
 translate spanish b1c06s01_call_rh_f26e5304:
@@ -610,7 +610,7 @@ translate spanish b1c06s01_call_rh_a49ed4f8:
 translate spanish b1c06s01_call_rh_adfa9e8a:
 
     # dm "This isn't over, Ronja. I'll get you back for this."
-    dm "Esto no ha terminado, Ronja. Te devolveré por esto."
+    dm "Esto no ha terminado, Ronja. Te haré pagar por esto."
 
 # game/code/Book-1/Chapter-6/s01.rpy:442
 translate spanish b1c06s01_call_rh_936e014e:
@@ -622,7 +622,7 @@ translate spanish b1c06s01_call_rh_936e014e:
 translate spanish b1c06s01_call_rh_7e4f219d:
 
     # mct "Serves me right for not double checking the locks myself..."
-    mct "Me lo merece por no revisar dos veces las cerraduras yo mismo..."
+    mct "Me lo merezco por no comprobar las cerraduras yo mismo..."
 
 # game/code/Book-1/Chapter-6/s01.rpy:447
 translate spanish b1c06s01_call_rh_9f3070b9:
@@ -634,7 +634,7 @@ translate spanish b1c06s01_call_rh_9f3070b9:
 translate spanish b1c06s01_call_rh_93c0f70d:
 
     # mc "You mean she has a sixth sense for the kind of trouble you're up to?"
-    mc "¿Quieres decir que tiene un sexto sentido para el tipo de problemas que estás tramando?"
+    mc "¿Quieres decir que tiene un sexto sentido para la clase de problemas que estás tramando?"
 
 # game/code/Book-1/Chapter-6/s01.rpy:453
 translate spanish b1c06s01_call_rh_30b4993e:
@@ -670,7 +670,7 @@ translate spanish b1c06s01_no_call_2201b1b8:
 translate spanish b1c06s01_no_call_a36de2ac:
 
     # mct "I'm too tired for this right now."
-    mct "Estoy demasiado cansada para esto ahora mismo."
+    mct "Estoy demasiado cansado para esto ahora mismo."
 
 # game/code/Book-1/Chapter-6/s01.rpy:472
 translate spanish b1c06s01_no_call_91b5e3df:
@@ -682,13 +682,13 @@ translate spanish b1c06s01_no_call_91b5e3df:
 translate spanish b1c06s01_no_call_5ad4d2bf:
 
     # mc "No, not tonight. I'm sure she won't mind if I catch up with her later."
-    mc "No, no esta noche. Estoy seguro de que no le importará si la alcanzo más tarde."
+    mc "No, esta noche no. Estoy seguro de que no le importará si me pongo al día con ella más tarde."
 
 # game/code/Book-1/Chapter-6/s01.rpy:477
 translate spanish b1c06s01_no_call_8c67590e:
 
     # mct "Besides, I'd prefer not to piss off Diana over this bet. I have to work with her in more ways than one, considering the investigation."
-    mct "Además, preferiría no cabrear a Diana con esta apuesta. Tengo que trabajar con ella en más de un sentido, teniendo en cuenta la investigación."
+    mct "Además, preferiría no molestar a Diana con esta apuesta. Tengo que trabajar con ella en más de un sentido, teniendo en cuenta la investigación."
 
 # game/code/Book-1/Chapter-6/s01.rpy:480
 translate spanish b1c06s01_no_call_27874b45:
@@ -712,13 +712,13 @@ translate spanish b1c06s01_no_call_86db608a:
 translate spanish b1c06s01_no_call_9c502122:
 
     # mc "You are very nosy."
-    mc "Eres muy entrometido."
+    mc "Eres muy entrometida."
 
 # game/code/Book-1/Chapter-6/s01.rpy:492
 translate spanish b1c06s01_no_call_6e8d9c1f:
 
     # lw "Of course I am. My ears are my biggest source of information."
-    lw "Claro que soy yo. Mis oídos son mi mayor fuente de información."
+    lw "Por supuesto que lo soy. Mis oídos son mi mayor fuente de información."
 
 # game/code/Book-1/Chapter-6/s01.rpy:495
 translate spanish b1c06s01_no_call_34214c41:
@@ -742,9 +742,9 @@ translate spanish strings:
 
     # game/code/Book-1/Chapter-6/s01.rpy:108
     old "Call Ronja"
-    new "llamar a ronja"
+    new "Llamar a Ronja"
 
     # game/code/Book-1/Chapter-6/s01.rpy:108
     old "Don't call Ronja"
-    new "no llames a ronja"
+    new "No Llames a Ronja"
 

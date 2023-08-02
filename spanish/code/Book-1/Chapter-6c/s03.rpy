@@ -4,7 +4,7 @@
 translate spanish b1c06cs03_cef2e190:
 
     # kd "Delphia, who's this?"
-    kd "Delfia, ¿quién es?"
+    kd "Delphia, ¿quién es?"
 
 # game/code/Book-1/Chapter-6c/s03.rpy:22
 translate spanish b1c06cs03_8121205b:
@@ -16,25 +16,25 @@ translate spanish b1c06cs03_8121205b:
 translate spanish b1c06cs03_8b836ea3:
 
     # kd "Oh, I see. Go to your desk, then. Class is starting now."
-    kd "Ah, claro. Vaya a su escritorio, entonces. La clase está comenzando ahora."
+    kd "Ah, ya veo. Ve a tu pupitre. La clase esta comenzando ahora."
 
 # game/code/Book-1/Chapter-6c/s03.rpy:26
 translate spanish b1c06cs03_ceaef9d6:
 
     # kd "Today's study will be about the history of pottery in ancient Greek culture."
-    kd "El estudio de hoy será sobre la historia de la cerámica en la cultura griega antigua."
+    kd "La lección de hoy tratará sobre la historia de la cerámica en la antigua cultura Griega."
 
 # game/code/Book-1/Chapter-6c/s03.rpy:36
 translate spanish b1c06cs03_8d742d42:
 
     # kd "On your desk, there's a lump of clay. We'll be transforming that into Greek inspired pots today."
-    kd "En tu escritorio, hay un trozo de arcilla. Hoy lo transformaremos en vasijas de inspiración griega."
+    kd "En tu pupitre, hay un trozo de arcilla. Hoy lo transformaremos en vasijas de inspiración Griega."
 
 # game/code/Book-1/Chapter-6c/s03.rpy:37
 translate spanish b1c06cs03_d123f524:
 
     # kd "Many of you have seen examples of ancient Greek pottery. Gods, legends, and the mythology of the culture is often represented on the pottery."
-    kd "Muchos de ustedes han visto ejemplos de cerámica griega antigua. Los dioses, las leyendas y la mitología de la cultura a menudo se representan en la cerámica."
+    kd "Muchos de ustedes han visto ejemplos de cerámica Griega antigua. Los dioses, las leyendas y la mitología de la cultura a menudo se representan en la cerámica."
 
 # game/code/Book-1/Chapter-6c/s03.rpy:38
 translate spanish b1c06cs03_bfc50e29:
@@ -64,7 +64,7 @@ translate spanish b1c06cs03_a6ab5e45:
 translate spanish b1c06cs03_3197c80e:
 
     # dk "I wouldn't describe you that way, though there are many voracious ways I {i}would{/i} describe you."
-    dk "No te describiría de esa manera, aunque hay muchas formas voraces en las que {i}{/i} te describiría."
+    dk "Yo no te describiría de esa manera, aunque hay muchas formas en las que te {i}describiría.{/i}"
 
 # game/code/Book-1/Chapter-6c/s03.rpy:52
 translate spanish b1c06cs03_a75f2c26:
@@ -118,7 +118,7 @@ translate spanish b1c06cs03_88f92857:
 translate spanish b1c06cs03_5e13bf91:
 
     # mc "Christ, Delphia."
-    mc "Cristo, Delfia."
+    mc "Cristo, Delphia."
 
 # game/code/Book-1/Chapter-6c/s03.rpy:95
 translate spanish b1c06cs03_25446b40:
@@ -130,7 +130,7 @@ translate spanish b1c06cs03_25446b40:
 translate spanish b1c06cs03_eba93fb7:
 
     # dk "It's only fair, considering you've seen all of me."
-    dk "Es justo, considerando que me has visto todo."
+    dk "Es justo, considerando que me has visto toda."
 
 # game/code/Book-1/Chapter-6c/s03.rpy:101
 translate spanish b1c06cs03_db68ed73:
@@ -142,7 +142,7 @@ translate spanish b1c06cs03_db68ed73:
 translate spanish b1c06cs03_7cd0d05c:
 
     # dk "There?"
-    dk "¿Allá?"
+    dk "¿Ya está?"
 
 # game/code/Book-1/Chapter-6c/s03.rpy:112
 translate spanish b1c06cs03_180e83da:
@@ -154,7 +154,7 @@ translate spanish b1c06cs03_180e83da:
 translate spanish b1c06cs03_7cd0d05c_1:
 
     # dk "There?"
-    dk "¿Allá?"
+    dk "¿Ya está?"
 
 # game/code/Book-1/Chapter-6c/s03.rpy:119
 translate spanish b1c06cs03_6b285331:
@@ -172,13 +172,13 @@ translate spanish b1c06cs03_952b811f:
 translate spanish b1c06cs03_a4339c2a:
 
     # dk "Well, the mystery of your size isn't solved, but you got a detailed enough lesson on how to form the clay."
-    dk "Bueno, el misterio de tu tamaño no está resuelto, pero obtuviste una lección suficientemente detallada sobre cómo formar la arcilla."
+    dk "Bueno, el misterio de tu tamaño no está resuelto, pero obtuviste una lección suficientemente detallada sobre cómo darle forma a la arcilla."
 
 # game/code/Book-1/Chapter-6c/s03.rpy:140
 translate spanish b1c06cs03_6abf4005:
 
     # dk "Chop, chop. You form the pot itself, I'm going to work on the handles."
-    dk "Picar, picar. Formas la olla en sí, voy a trabajar en las asas."
+    dk "Cortar, cortar. Tú moldea la olla, y yo me ocupo de las asas."
 
 # game/code/Book-1/Chapter-6c/s03.rpy:144
 translate spanish b1c06cs03_5807e6a8:
@@ -214,7 +214,7 @@ translate spanish b1c06cs03_750ec451:
 translate spanish b1c06cs03_0041e44a:
 
     # dk "I'm studying Greek culture because I'm descended from one of the Gods."
-    dk "Estoy estudiando la cultura griega porque soy descendiente de uno de los dioses."
+    dk "Estoy estudiando la cultura Griega porque soy descendiente de uno de los dioses."
 
 # game/code/Book-1/Chapter-6c/s03.rpy:157
 translate spanish b1c06cs03_0d853e36:
@@ -226,19 +226,19 @@ translate spanish b1c06cs03_0d853e36:
 translate spanish b1c06cs03_df32c464:
 
     # dk "My parents worshiped Dionysus. I've always been surrounded by Greek theology."
-    dk "Mis padres adoraban a Dionisio. Siempre me ha rodeado la teología griega."
+    dk "Mis padres adoraban a Dionisio. Siempre me ha rodeada la teología Griega."
 
 # game/code/Book-1/Chapter-6c/s03.rpy:162
 translate spanish b1c06cs03_c408abe1:
 
     # dk "But one called to me in particular. Eris, the goddess of chaos."
-    dk "Pero uno me llamó en particular. Eris, la diosa del caos."
+    dk "Pero una me llamó especialmente la atención. Eris, la diosa del caos."
 
 # game/code/Book-1/Chapter-6c/s03.rpy:165
 translate spanish b1c06cs03_9ed1bbac:
 
     # mc "Huh. Fitting."
-    mc "Eh. Adecuado."
+    mc "Huh. Muy apropiado."
 
 # game/code/Book-1/Chapter-6c/s03.rpy:168
 translate spanish b1c06cs03_5f66e47a:
@@ -256,7 +256,7 @@ translate spanish b1c06cs03_77cdb5b2:
 translate spanish b1c06cs03_db827c6c:
 
     # dk "What can I say? Being a daughter of chaos incarnate appeals to me."
-    dk "¿Qué puedo decir? Ser una hija del caos encarnado me atrae."
+    dk "¿Qué puedo decir? Ser una hija encarnada del caos me atrae."
 
 # game/code/Book-1/Chapter-6c/s03.rpy:174
 translate spanish b1c06cs03_69c64976:
@@ -286,7 +286,7 @@ translate spanish b1c06cs03_5e712796:
 translate spanish b1c06cs03_f0eeda9a:
 
     # mc "Sorry, sorry."
-    mc "Lo siento lo siento."
+    mc "Lo siento, lo siento."
 
 # game/code/Book-1/Chapter-6c/s03.rpy:191
 translate spanish b1c06cs03_9691d009:
@@ -298,7 +298,7 @@ translate spanish b1c06cs03_9691d009:
 translate spanish b1c06cs03_91360957:
 
     # mc "Glad to be of service."
-    mc "Contento de estar en servicio."
+    mc "Encantado de ser de utilidad."
 
 # game/code/Book-1/Chapter-6c/s03.rpy:195
 translate spanish b1c06cs03_013fb79e:
@@ -352,13 +352,13 @@ translate spanish b1c06cs03_f13d2a39:
 translate spanish b1c06cs03_54d01c17:
 
     # dk "The best. She's guided me my entire life. My human parents were hit and miss. But Eris was always there."
-    dk "El mejor. Ella me ha guiado toda mi vida. Mis padres humanos fueron impredecibles. Pero Eris siempre estuvo ahí."
+    dk "La mejor. Ella me ha guiado toda mi vida. Mis padres humanos fueron impredecibles. Pero Eris siempre estuvo ahí."
 
 # game/code/Book-1/Chapter-6c/s03.rpy:219
 translate spanish b1c06cs03_3cae1624:
 
     # dk "Oh! You're done. We just need a few finishing touches now."
-    dk "¡Oh! Estás listo. Solo necesitamos algunos toques finales ahora."
+    dk "¡Oh! Has terminado. Ahora sólo necesitamos unos toques finales."
 
 # game/code/Book-1/Chapter-6c/s03.rpy:223
 translate spanish b1c06cs03_ca57e0cc:
@@ -388,7 +388,7 @@ translate spanish b1c06cs03_2b9c54d6:
 translate spanish b1c06cs03_c86cb7e8:
 
     # mc "You're one to talk about crossing lines."
-    mc "Eres uno para hablar de cruzar líneas."
+    mc "Eres alguien para hablar de cruzar líneas."
 
 # game/code/Book-1/Chapter-6c/s03.rpy:237
 translate spanish b1c06cs03_c188be08:
@@ -400,7 +400,7 @@ translate spanish b1c06cs03_c188be08:
 translate spanish b1c06cs03_08a71a94:
 
     # dk "*sigh* Not to mention the professor thought the traditional method of painting was too complex to replicate..."
-    dk "*suspiro* Sin mencionar que el profesor pensó que el método tradicional de pintura era demasiado complejo para replicarlo..."
+    dk "*suspiro* Sin mencionar que la profesora pensó que el método tradicional de pintura era demasiado complejo para replicarlo..."
 
 # game/code/Book-1/Chapter-6c/s03.rpy:241
 translate spanish b1c06cs03_eb03a2ee:
@@ -418,7 +418,7 @@ translate spanish b1c06cs03_aec72b59:
 translate spanish b1c06cs03_f2316b97:
 
     # mc "Ah."
-    mc "ah"
+    mc "Ah."
 
 # game/code/Book-1/Chapter-6c/s03.rpy:248
 translate spanish b1c06cs03_1e3e9f67:
@@ -460,19 +460,19 @@ translate spanish b1c06cs03_327f658e:
 translate spanish b1c06cs03_9139b053:
 
     # mc "Can't say that I have."
-    mc "No puedo decir que tengo."
+    mc "No puedo decir que lo haya hecho."
 
 # game/code/Book-1/Chapter-6c/s03.rpy:269
 translate spanish b1c06cs03_c9a0f8d7:
 
     # dk "The story starts with a scorpion trying to cross the river. It sees the frog, and asks for a ride."
-    dk "La historia comienza con un escorpión que intenta cruzar el río. Ve la rana y pide un paseo."
+    dk "La historia comienza con un escorpión que intenta cruzar el río. Ve a la rana y le pide que le lleve."
 
 # game/code/Book-1/Chapter-6c/s03.rpy:270
 translate spanish b1c06cs03_e2230559:
 
     # dk "The frog is hesitant...it asks, 'How do I know you won't sting me?'"
-    dk "La rana duda... pregunta: '¿Cómo sé que no me picarás?'"
+    dk "La rana duda y... pregunta: '¿Cómo sé que no me picarás?'"
 
 # game/code/Book-1/Chapter-6c/s03.rpy:273
 translate spanish b1c06cs03_f539e560:
@@ -538,7 +538,7 @@ translate spanish b1c06cs03_ce6b97a8:
 translate spanish b1c06cs03_ec97bb81:
 
     # dk "To me, it's a story about undying trust, even if the characters themselves die."
-    dk "Para mí, es una historia sobre la confianza eterna, incluso si los personajes mismos mueren."
+    dk "Para mí, es una historia sobre la confianza eterna, incluso si los mismos personajes mueren."
 
 # game/code/Book-1/Chapter-6c/s03.rpy:307
 translate spanish b1c06cs03_720443e8:
@@ -580,7 +580,7 @@ translate spanish b1c06cs03_8bda9d26:
 translate spanish b1c06cs03_ca445483:
 
     # dk "Perhaps. But aren't we all self-destructive beings fumbling around, trying to love ourselves and each other?"
-    dk "Tal vez. Pero, ¿no somos todos seres autodestructivos que andan a tientas, tratando de amarnos a nosotros mismos y a los demás?"
+    dk "Tal vez. Pero, ¿no somos todos seres autodestructivos que intentamos amarnos a nosotros mismos y a los demás?"
 
 # game/code/Book-1/Chapter-6c/s03.rpy:324
 translate spanish b1c06cs03_322a2160:
@@ -592,25 +592,25 @@ translate spanish b1c06cs03_322a2160:
 translate spanish b1c06cs03_287212eb:
 
     # dk "I just mean that even the most vile of creatures deserves respect, deserves a chance."
-    dk "Solo quiero decir que incluso la más vil de las criaturas merece respeto, merece una oportunidad."
+    dk "Sólo quiero decir que incluso la más vil de las criaturas merece respeto, merece una oportunidad."
 
 # game/code/Book-1/Chapter-6c/s03.rpy:330
 translate spanish b1c06cs03_2236935e:
 
     # mc "Maybe.{w} Or maybe that scorpion is just a massive asshole."
-    mc "Tal vez. {w} O tal vez ese escorpión es solo un gran idiota."
+    mc "Tal vez. {w} O tal vez ese escorpión es sólo un gran idiota."
 
 # game/code/Book-1/Chapter-6c/s03.rpy:333
 translate spanish b1c06cs03_a3dad740:
 
     # dk "Why not both? You can be an asshole and still be deserving of second chances."
-    dk "¿Por qué no los dos? Puedes ser un gilipollas y aun así ser merecedor de segundas oportunidades."
+    dk "¿Por qué no los dos? Puedes ser un idiota y aun así ser merecedor de segundas oportunidades."
 
 # game/code/Book-1/Chapter-6c/s03.rpy:335
 translate spanish b1c06cs03_ca82a1db:
 
     # mc "I don't think so. Not for everybody, at least. Some people are just too evil."
-    mc "No me parece. No para todo el mundo, al menos. Algunas personas son demasiado malas."
+    mc "No lo creo. No para todo el mundo, al menos. Algunas personas son demasiado malvadas."
 
 # game/code/Book-1/Chapter-6c/s03.rpy:338
 translate spanish b1c06cs03_6358c1cd:
@@ -640,7 +640,7 @@ translate spanish b1c06cs03_56682fbd:
 translate spanish b1c06cs03_d87d2de5:
 
     # dk "Some people can't help the way their brains are wired, or their bodies work."
-    dk "Algunas personas no pueden evitar la forma en que sus cerebros están conectados o sus cuerpos funcionan."
+    dk "Algunas personas no pueden evitar la forma en que sus cerebros están conectados o cómo funcionan sus cuerpos."
 
 # game/code/Book-1/Chapter-6c/s03.rpy:347
 translate spanish b1c06cs03_298f7050:
@@ -682,13 +682,13 @@ translate spanish b1c06cs03_8acbbff5:
 translate spanish b1c06cs03_27c47a49:
 
     # dk "I just think that makes them just as bad as the person they were trying to stop."
-    dk "Solo creo que eso los hace tan malos como la persona a la que estaban tratando de detener."
+    dk "Sólo creo que eso los hace tan malos como la persona a la que estaban tratando de detener."
 
 # game/code/Book-1/Chapter-6c/s03.rpy:366
 translate spanish b1c06cs03_9331825a:
 
     # mc "How so? They rid the world of vermin."
-    mc "¿Cómo es eso? Libran al mundo de alimañas."
+    mc "¿Cómo? Libran al mundo de alimañas."
 
 # game/code/Book-1/Chapter-6c/s03.rpy:368
 translate spanish b1c06cs03_9536fcbe:
@@ -712,7 +712,7 @@ translate spanish b1c06cs03_c249360b:
 translate spanish b1c06cs03_fd1ec31f:
 
     # dk "I know...all this talk of philosophy makes me excited."
-    dk "Lo sé... toda esta charla de filosofía me emociona."
+    dk "Lo sé... toda esta conversación filosófica me emociona."
 
 # game/code/Book-1/Chapter-6c/s03.rpy:377
 translate spanish b1c06cs03_cc39aa0a:
@@ -772,7 +772,7 @@ translate spanish b1c06cs03_ebc1b758:
 translate spanish b1c06cs03_cf124e8e:
 
     # kd "I'll go around and collect your projects. For now, class is dismissed."
-    kd "Iré por ahí y recogeré tus proyectos. Por ahora, la clase se da por terminada."
+    kd "Pasaré a recoger sus proyectos. Por ahora, la clase ha terminado."
 
 # game/code/Book-1/Chapter-6c/s03.rpy:407
 translate spanish b1c06cs03_974524ca:
@@ -796,19 +796,19 @@ translate spanish b1c06cs03_61698e2c:
 translate spanish b1c06cs03_a85b6752:
 
     # mc "Does it involve blood or your naked body?"
-    mc "¿Se trata de sangre o de tu cuerpo desnudo?"
+    mc "¿Involucra sangre o tu cuerpo desnudo?"
 
 # game/code/Book-1/Chapter-6c/s03.rpy:426
 translate spanish b1c06cs03_b1c6ba82:
 
     # dk "Do you wish it did?"
-    dk "¿Deseas que lo hiciera?"
+    dk "¿Quisieras que así fuera?"
 
 # game/code/Book-1/Chapter-6c/s03.rpy:429
 translate spanish b1c06cs03_2485f494:
 
     # mc "I..."
-    mc "I..."
+    mc "Yo..."
 
 # game/code/Book-1/Chapter-6c/s03.rpy:432
 translate spanish b1c06cs03_bc390523:
@@ -826,7 +826,7 @@ translate spanish b1c06cs03_823a982d:
 translate spanish b1c06cs03_41d26283:
 
     # dk "Oh, just another little ritual of mine. You know how I am."
-    dk "Oh, solo otro pequeño ritual mío. Ya sabes cómo soy."
+    dk "Oh, sólo otro pequeño ritual mío. Ya sabes cómo soy."
 
 # game/code/Book-1/Chapter-6c/s03.rpy:441
 translate spanish b1c06cs03_8d122aed:
@@ -856,7 +856,7 @@ translate spanish b1c06cs03_8c7a75fe:
 translate spanish b1c06cs03_de8842e0:
 
     # dk "I have a few things to grab before we go."
-    dk "Tengo algunas cosas que agarrar antes de irnos."
+    dk "Tengo algunas cosas que recoger antes de irnos."
 
 # game/code/Book-1/Chapter-6c/s03.rpy:451
 translate spanish b1c06cs03_86558011:

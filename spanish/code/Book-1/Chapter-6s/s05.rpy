@@ -4,7 +4,7 @@
 translate spanish b1c06ss05_d6635763:
 
     # "When Zemfira opens the door, you hear loud bass-boosted music from the inside."
-    "Cuando Zemfira abre la puerta, escuchas música fuerte potenciada por graves desde el interior."
+    "Cuando Zemfira abre la puerta, se oye una música con un potente sonido desde el interior."
 
 # game/code/Book-1/Chapter-6s/s05.rpy:31
 translate spanish b1c06ss05_c7db9a5b:
@@ -46,7 +46,7 @@ translate spanish b1c06ss05_1359a002:
 translate spanish b1c06ss05_3e232986:
 
     # rd "Hey, you're a new face. What's your poison?"
-    rd "Oye, eres una cara nueva. ¿Cual es tu veneno?"
+    rd "Oye, eres una cara nueva. ¿Cuál es tu veneno?"
 
 # game/code/Book-1/Chapter-6s/s05.rpy:65
 translate spanish b1c06ss05_a1b28771:
@@ -58,7 +58,7 @@ translate spanish b1c06ss05_a1b28771:
 translate spanish b1c06ss05_8f244979:
 
     # rd "Comin' right up. You new to the area? You can call me Ridley, by the way."
-    rd "Comin 'a la derecha. ¿Eres nuevo en la zona? Puedes llamarme Ridley, por cierto."
+    rd "Ya viene. ¿Eres nuevo en la zona? Puedes llamarme Ridley, por cierto."
 
 # game/code/Book-1/Chapter-6s/s05.rpy:71
 translate spanish b1c06ss05_f8fe1bb6:
@@ -82,7 +82,7 @@ translate spanish b1c06ss05_1b92d3a2:
 translate spanish b1c06ss05_68937b5c:
 
     # nr "[mcname]! Didn't expect to see you here."
-    nr "[mcname]! No esperaba verte aquí."
+    nr "¡[mcname]! No esperaba verte aquí."
 
 # game/code/Book-1/Chapter-6s/s05.rpy:87
 translate spanish b1c06ss05_b1623448:
@@ -94,19 +94,19 @@ translate spanish b1c06ss05_b1623448:
 translate spanish b1c06ss05_3632bcd3:
 
     # mc "Yeah...Just enjoying a night off from school."
-    mc "Sí... Simplemente disfrutando de una noche libre en la escuela."
+    mc "Sí... Sólo disfrutando de una noche libre de la universidad."
 
 # game/code/Book-1/Chapter-6s/s05.rpy:95
 translate spanish b1c06ss05_f37743c4:
 
     # mct "Whoa, she's already pretty buzzed. I can smell the fruity drinks on her breath."
-    mct "Vaya, ya está bastante zumbada. Puedo oler las bebidas afrutadas en su aliento."
+    mct "Vaya, ya está bastante borracha. Puedo oler las bebidas afrutadas en su aliento."
 
 # game/code/Book-1/Chapter-6s/s05.rpy:98
 translate spanish b1c06ss05_41d37199:
 
     # nr "*giggles* I'm s-so glad you're here."
-    nr "*risitas* Estoy s-tan contenta de que estés aquí."
+    nr "*risitas* Estoy t-tan contenta de que estés aquí."
 
 # game/code/Book-1/Chapter-6s/s05.rpy:100
 translate spanish b1c06ss05_be35479a:
@@ -118,7 +118,7 @@ translate spanish b1c06ss05_be35479a:
 translate spanish b1c06ss05_f84413df:
 
     # mc "A partner?"
-    mc "¿Un socio?"
+    mc "¿Un compañero?"
 
 # game/code/Book-1/Chapter-6s/s05.rpy:109
 translate spanish b1c06ss05_f0091843:
@@ -130,7 +130,7 @@ translate spanish b1c06ss05_f0091843:
 translate spanish b1c06ss05_57af2cee:
 
     # mc "Yep. Just enjoying a night off from school."
-    mc "Sí. Simplemente disfrutando de una noche libre de la escuela."
+    mc "Sí... Sólo disfrutando de una noche libre de la universidad."
 
 # game/code/Book-1/Chapter-6s/s05.rpy:118
 translate spanish b1c06ss05_9f218771:
@@ -178,19 +178,19 @@ translate spanish b1c06ss05_a64e8bc0:
 translate spanish b1c06ss05_a9910bc8:
 
     # nr "Hey, sweetcheeks! Can I get another piña colada?"
-    nr "¡Hola, dulces mejillas! ¿Puedo pedir otra piña colada?"
+    nr "¡Hola, dulzura! ¿Puedo pedir otra piña colada?"
 
 # game/code/Book-1/Chapter-6s/s05.rpy:141
 translate spanish b1c06ss05_b439b51d:
 
     # rd "You sure you can handle it?"
-    rd "¿Estás seguro de que puedes manejarlo?"
+    rd "¿Estás segura de que puedes manejarlo?"
 
 # game/code/Book-1/Chapter-6s/s05.rpy:144
 translate spanish b1c06ss05_2f4fca2e:
 
     # nr "Haaaahaa. You're funny. Put it on my tab while you're at it."
-    nr "Haaaahaa. Eres gracioso. Ponlo en mi cuenta mientras estás en eso."
+    nr "Haaaahaa. Eres divertida. Ponlo en mi cuenta mientras estás en eso."
 
 # game/code/Book-1/Chapter-6s/s05.rpy:147
 translate spanish b1c06ss05_624c521f:
@@ -238,13 +238,13 @@ translate spanish b1c06ss05_ad8e171e:
 translate spanish b1c06ss05_09a9c0a3:
 
     # nr "Still kinda lame you won't be betting, though."
-    nr "Sin embargo, todavía es un poco tonto que no apostarás."
+    nr "Aunque sigue siendo un poco lamentable que no vayas a apostar."
 
 # game/code/Book-1/Chapter-6s/s05.rpy:166
 translate spanish b1c06ss05_097835eb:
 
     # mc "Lame? How so?"
-    mc "¿Aburrido? ¿Cómo es eso?"
+    mc "¿Lamentable? ¿En qué sentido?"
 
 # game/code/Book-1/Chapter-6s/s05.rpy:169
 translate spanish b1c06ss05_dca7cff0:
@@ -280,7 +280,7 @@ translate spanish b1c06ss05_pool_game_9772a5ad:
 translate spanish b1c06ss05_pool_game_52d62ad8:
 
     # mc "And bet on it? Don't you think you're a little too buzzed for it?"
-    mc "¿Y apostar por ello? ¿No crees que estás demasiado ebrio para eso?"
+    mc "¿Y apostar por ello? ¿No crees que estás demasiado ebria para eso?"
 
 # game/code/Book-1/Chapter-6s/s05.rpy:199
 translate spanish b1c06ss05_pool_game_0bacf89f:
@@ -292,13 +292,13 @@ translate spanish b1c06ss05_pool_game_0bacf89f:
 translate spanish b1c06ss05_pool_game_969a4b46:
 
     # nr "Bar wench! Bring us a round of drinks."
-    nr "moza de la barra! Tráenos una ronda de tragos."
+    nr "¡Camarera! Tráenos una ronda de bebidas."
 
 # game/code/Book-1/Chapter-6s/s05.rpy:208
 translate spanish b1c06ss05_pool_game_cd0b2614:
 
     # nr "Not that I need you to be buzzed in order to win, but since you wanna even the playing field, drinks are on me."
-    nr "No es que necesite que estés zumbado para ganar, pero como quieres igualar el campo de juego, las bebidas corren por mi cuenta."
+    nr "No es que necesite que estés borracho para ganar, pero como quieres igualar el campo de juego, las bebidas corren por mi cuenta."
 
 # game/code/Book-1/Chapter-6s/s05.rpy:211
 translate spanish b1c06ss05_pool_game_2d7400fa:
@@ -358,7 +358,7 @@ translate spanish b1c06ss05_pool_game_99c2bbfe:
 translate spanish b1c06ss05_pool_game_142becb6:
 
     # nr "You'll need the advantage. But I call the striped balls. You get solids."
-    nr "Necesitarás la ventaja. Pero yo llamo a las bolas rayadas. Obtienes sólidos."
+    nr "Necesitarás la ventaja. Pero yo pido las bolas rayadas. Tú te quedas con las sólidas."
 
 # game/code/Book-1/Chapter-6s/s05.rpy:240
 translate spanish b1c06ss05_pool_game_fa6230f7:
@@ -376,19 +376,19 @@ translate spanish b1c06ss05_pool_game_c5a82eba:
 translate spanish b1c06ss05_pool_game_9645ff9f:
 
     # rd "But you're cut off after this."
-    rd "Pero estás aislado después de esto."
+    rd "Pero estás afuera después de esto."
 
 # game/code/Book-1/Chapter-6s/s05.rpy:252
 translate spanish b1c06ss05_pool_game_af59f7b5:
 
     # nr "Don't be a downer, I'm f-fine. Perfectly sober! {w}*hiccups*"
-    nr "No seas deprimente, estoy b-bien. ¡Perfectamente sobrio! {w}*hipo*"
+    nr "No seas deprimente, estoy b-bien. ¡Perfectamente sobria! {w}*hipo*"
 
 # game/code/Book-1/Chapter-6s/s05.rpy:255
 translate spanish b1c06ss05_pool_game_db2693fc:
 
     # rd "Nope. I'm not gonna hear you out. You're cut off."
-    rd "No. No voy a escucharte. Estás cortado."
+    rd "No. No voy a escucharte. Estás afuera."
 
 # game/code/Book-1/Chapter-6s/s05.rpy:258
 translate spanish b1c06ss05_pool_game_0199b4d6:
@@ -406,7 +406,7 @@ translate spanish b1c06ss05_pool_game_a562e588:
 translate spanish b1c06ss05_pool_game_ed5cffd9:
 
     # nr "Woo! I love the sound of balls scattering."
-    nr "¡Cortejar! Me encanta el sonido de las bolas dispersándose."
+    nr "¡Woo! Me encanta el sonido de las bolas esparciéndose."
 
 # game/code/Book-1/Chapter-6s/s05.rpy:280
 translate spanish b1c06ss05_pool_game_34e478e8:
@@ -424,7 +424,7 @@ translate spanish b1c06ss05_pool_game_7712f24d:
 translate spanish b1c06ss05_pool_game_df08eeff:
 
     # "The ball goes exactly where you intended."
-    "La pelota va exactamente donde pretendías."
+    "La bola va exactamente donde tú querías."
 
 # game/code/Book-1/Chapter-6s/s05.rpy:291
 translate spanish b1c06ss05_pool_game_707ae65a:
@@ -442,13 +442,13 @@ translate spanish b1c06ss05_pool_game_849499c0:
 translate spanish b1c06ss05_pool_game_ad1685df:
 
     # nr "Yeah, yeah. Knock back a few of those drinks, then we'll see how accurate you are."
-    nr "Sí, sí. Tómate algunos de esos tragos y luego veremos qué tan acertado eres."
+    nr "Sí, sí, sí. Tómate unos tragos y veremos qué tan preciso eres."
 
 # game/code/Book-1/Chapter-6s/s05.rpy:302
 translate spanish b1c06ss05_pool_game_df768470:
 
     # "The drink goes down with a burn. Whatever concoction Nirmala ordered, it's strong, leaving a warm, tingling trail down your throat into your stomach."
-    "La bebida baja con una quemadura. Cualquiera que sea el brebaje que ordenó Nirmala, es fuerte y deja un rastro cálido y hormigueante que baja por la garganta hasta el estómago."
+    "La bebida te quema. Sea cual sea el brebaje que ha pedido Nirmala, es muy fuerte y deja una sensación de calor y hormigueo desde la garganta hasta el estómago."
 
 # game/code/Book-1/Chapter-6s/s05.rpy:304
 translate spanish b1c06ss05_pool_game_5c7dd2db:
@@ -502,7 +502,7 @@ translate spanish b1c06ss05_pool_game_e7233aec:
 translate spanish b1c06ss05_pool_game_6a44b464:
 
     # nr "*giggles* Don't flatter yourself. I just want you to play the game fair."
-    nr "*risitas* No te halagues a ti mismo. Solo quiero que juegues limpio."
+    nr "*risitas* No te hagas ilusiones. Sólo quiero que juegues limpio."
 
 # game/code/Book-1/Chapter-6s/s05.rpy:342
 translate spanish b1c06ss05_pool_game_ee580d44:
@@ -520,7 +520,7 @@ translate spanish b1c06ss05_pool_game_9e99c25f:
 translate spanish b1c06ss05_pool_game_69d1869c:
 
     # nr "Oh, I'll be just fine. You worry about yourself, handsome."
-    nr "Oh, estaré bien. Te preocupas por ti, guapo."
+    nr "Oh, estaré bien. Preocúpate por ti mismo, guapo."
 
 # game/code/Book-1/Chapter-6s/s05.rpy:358
 translate spanish b1c06ss05_pool_game_14d12a4f:
@@ -538,7 +538,7 @@ translate spanish b1c06ss05_pool_game_d89a2a5b:
 translate spanish b1c06ss05_pool_game_3aa89856:
 
     # nr "*deep breath* I'm good. I'm chill."
-    nr "*respira hondo* Estoy bien. Estoy tranquilo."
+    nr "*respira hondo* Estoy bien. Estoy tranquila."
 
 # game/code/Book-1/Chapter-6s/s05.rpy:366
 translate spanish b1c06ss05_pool_game_06bb2a96:
@@ -574,13 +574,13 @@ translate spanish b1c06ss05_pool_game_340cf3eb:
 translate spanish b1c06ss05_pool_game_d5eb2ec0:
 
     # mct "She's getting pretty drunk at this point. Not just buzzed."
-    mct "Ella se está emborrachando bastante en este momento. No solo zumbado."
+    mct "Se está emborrachando bastante a estas alturas. No sólo borracha."
 
 # game/code/Book-1/Chapter-6s/s05.rpy:417
 translate spanish b1c06ss05_pool_game_b968a221:
 
     # mc "Or maybe you're just out of it. Do you want to stop?"
-    mc "O tal vez simplemente estás fuera de eso. ¿Quieres parar?"
+    mc "O tal vez simplemente no te queda otra. ¿Quieres dejarlo?"
 
 # game/code/Book-1/Chapter-6s/s05.rpy:419
 translate spanish b1c06ss05_pool_game_1a2d67a6:
@@ -592,7 +592,7 @@ translate spanish b1c06ss05_pool_game_1a2d67a6:
 translate spanish b1c06ss05_pool_game_c969a183:
 
     # nr "D-don't fucking patronize me."
-    nr "N-no me patrocines."
+    nr "No seas condescendiente conmigo."
 
 # game/code/Book-1/Chapter-6s/s05.rpy:425
 translate spanish b1c06ss05_pool_game_1db2edca:
@@ -604,25 +604,25 @@ translate spanish b1c06ss05_pool_game_1db2edca:
 translate spanish b1c06ss05_pool_game_967bdaec:
 
     # nr "I can hold my o-own! I'm fine."
-    nr "¡Puedo sostener mi propio! Estoy bien."
+    nr "¡Puedo sostenerme! Estoy bien."
 
 # game/code/Book-1/Chapter-6s/s05.rpy:430
 translate spanish b1c06ss05_pool_game_9a656557:
 
     # nr "You just want me to back down so you win!"
-    nr "¡Solo quieres que retroceda para que ganes!"
+    nr "¡Sólo quieres que me retire para que tú ganes!"
 
 # game/code/Book-1/Chapter-6s/s05.rpy:433
 translate spanish b1c06ss05_pool_game_3be38169:
 
     # mc "Not at all. This is just for fun—"
-    mc "De nada. Esto es sólo por diversión-"
+    mc "Nada de eso. Esto es sólo por diversión-"
 
 # game/code/Book-1/Chapter-6s/s05.rpy:436
 translate spanish b1c06ss05_pool_game_07836d0a:
 
     # nr "Screw 'just for fun'!"
-    nr "¡A la mierda 'solo por diversión'!"
+    nr "¡A la mierda 'sólo por diversión'!"
 
 # game/code/Book-1/Chapter-6s/s05.rpy:438
 translate spanish b1c06ss05_pool_game_c762ac3c:
@@ -640,7 +640,7 @@ translate spanish b1c06ss05_pool_game_6b8d4b2b:
 translate spanish b1c06ss05_pool_game_eb1a5149:
 
     # nr "B-besides, I got other items of clothing!"
-    nr "¡B-además, tengo otras prendas de vestir!"
+    nr "¡A-además, tengo otras prendas de vestir!"
 
 # game/code/Book-1/Chapter-6s/s05.rpy:448
 translate spanish b1c06ss05_pool_game_e0fd9c84:
@@ -712,13 +712,13 @@ translate spanish b1c06ss05_pool_game_b13a8b04:
 translate spanish b1c06ss05_pool_game_9a6c1b8b:
 
     # nr "Woo! Fuck yeah!"
-    nr "¡Cortejar! ¡Joder, sí!"
+    nr "¡Woo! ¡Mierda, sí!"
 
 # game/code/Book-1/Chapter-6s/s05.rpy:487
 translate spanish b1c06ss05_pool_game_35d1356c:
 
     # mct "Then again, there's nothing wrong with humbling the inebriated from time to time..."
-    mct "Por otra parte, no hay nada de malo en humillar a los ebrios de vez en cuando..."
+    mct "Por otra parte, no hay nada de malo en humillar a las personas ebrias de vez en cuando..."
 
 # game/code/Book-1/Chapter-6s/s05.rpy:488
 translate spanish b1c06ss05_pool_game_db941eda:
@@ -736,7 +736,7 @@ translate spanish b1c06ss05_let_her_win_6a8c27d1:
 translate spanish b1c06ss05_let_her_win_faa02f5d:
 
     # nr "FUCK YEAH! I told you I was the better player!"
-    nr "¡JODER SÍ! ¡Te dije que era el mejor jugador!"
+    nr "¡Mierda SÍ! ¡Te dije que era la mejor jugadora!"
 
 # game/code/Book-1/Chapter-6s/s05.rpy:510
 translate spanish b1c06ss05_let_her_win_dec24038:
@@ -796,7 +796,7 @@ translate spanish b1c06ss05_let_her_win_3f2b2f0b:
 translate spanish b1c06ss05_let_her_win_4630d52f:
 
     # mc "And you're very drunk. Let me get you something to sober up."
-    mc "Y estás muy borracho. Déjame traerte algo para estar sobrio."
+    mc "Y estás muy borracha. Déjame traerte algo para que se te pase la borrachera."
 
 # game/code/Book-1/Chapter-6s/s05.rpy:547
 translate spanish b1c06ss05_let_her_win_2312ba2e:
@@ -814,13 +814,13 @@ translate spanish b1c06ss05_let_her_win_d1f852a4:
 translate spanish b1c06ss05_let_her_win_ea1dbcf7:
 
     # mc "I...what?"
-    mc "¿Yo que?"
+    mc "Yo... ¿qué?"
 
 # game/code/Book-1/Chapter-6s/s05.rpy:556
 translate spanish b1c06ss05_let_her_win_0a06b772:
 
     # nr "Y'know, so you could {i}use{/i} me. So I could {i}please{/i} you, be of {i}service{/i} to you."
-    nr "Ya sabes, para que puedas {i}utilizarme{/i}. Así podría {i}complacer{/i} a usted, {i}servirle{/i}."
+    nr "Ya sabes, para que puedas {i}utilizarme{/i}. Así podría {i}complacerte{/i}, {i}para poder servirte.{/i}."
 
 # game/code/Book-1/Chapter-6s/s05.rpy:558
 translate spanish b1c06ss05_let_her_win_e9b97ba0:
@@ -844,7 +844,7 @@ translate spanish b1c06ss05_let_her_win_184d7a37:
 translate spanish b1c06ss05_let_her_win_d91faded:
 
     # mc "But first, I think we should get you sobered up a bit more."
-    mc "Pero primero, creo que deberíamos ponerte un poco más sobrio."
+    mc "Pero primero, creo que deberíamos ponerte un poco más sobria."
 
 # game/code/Book-1/Chapter-6s/s05.rpy:568
 translate spanish b1c06ss05_let_her_win_82c6bf67:
@@ -874,7 +874,7 @@ translate spanish b1c06ss05_win_b24a4075:
 translate spanish b1c06ss05_win_bf622f08:
 
     # nr "Ugh! What the fuck!"
-    nr "¡Puaj! ¡Qué carajo!"
+    nr "¡Ugh! ¡Qué mierda!"
 
 # game/code/Book-1/Chapter-6s/s05.rpy:604
 translate spanish b1c06ss05_win_d5db4ec4:
@@ -892,7 +892,7 @@ translate spanish b1c06ss05_win_0a6c1221:
 translate spanish b1c06ss05_win_05829290:
 
     # mc "Of course I didn't. How can you even cheat at pool?"
-    mc "Por supuesto que no. ¿Cómo puedes incluso hacer trampa en la piscina?"
+    mc "Por supuesto que no. ¿Cómo puedes hacer trampa en el billar?"
 
 # game/code/Book-1/Chapter-6s/s05.rpy:613
 translate spanish b1c06ss05_win_18aa7ff6:
@@ -904,7 +904,7 @@ translate spanish b1c06ss05_win_18aa7ff6:
 translate spanish b1c06ss05_win_65127e9f:
 
     # mct "She's extremely wasted..."
-    mct "Ella está extremadamente perdida..."
+    mct "Ella está extremadamente borracha..."
 
 # game/code/Book-1/Chapter-6s/s05.rpy:617
 translate spanish b1c06ss05_win_ca3adffa:
@@ -916,19 +916,19 @@ translate spanish b1c06ss05_win_ca3adffa:
 translate spanish b1c06ss05_win_910d2601:
 
     # mct "I don't feel that drunk but Nirmala definitely needs to sober up."
-    mct "No me siento tan borracha, pero Nirmala definitivamente necesita recuperar la sobriedad."
+    mct "No me siento tan borracho, pero Nirmala definitivamente necesita recuperar la sobriedad."
 
 # game/code/Book-1/Chapter-6s/s05.rpy:621
 translate spanish b1c06ss05_win_b7096ea4:
 
     # nr "I-I'm fine. Mind your business."
-    nr "Estoy bien. Ocupate de tus asuntos."
+    nr "Estoy bien. Ocúpate de tus asuntos."
 
 # game/code/Book-1/Chapter-6s/s05.rpy:633
 translate spanish b1c06ss05_enter_548b78eb:
 
     # nr "L-look! The show's about to start."
-    nr "L-mira! El espectáculo está a punto de comenzar."
+    nr "M-mira! El espectáculo está a punto de comenzar."
 
 # game/code/Book-1/Chapter-6s/s05.rpy:634
 translate spanish b1c06ss05_enter_d977694b:
@@ -946,19 +946,19 @@ translate spanish b1c06ss05_enter_514ce0ba:
 translate spanish b1c06ss05_enter_3b6428ba:
 
     # mc "Wait, let me get you an ice water or something first, you need to sober up a bit."
-    mc "Espera, déjame traerte un agua helada o algo primero, necesitas estar un poco sobrio."
+    mc "Espera, déjame traerte un agua helada o algo primero, necesitas despejarte un poco."
 
 # game/code/Book-1/Chapter-6s/s05.rpy:642
 translate spanish b1c06ss05_enter_b2c89414:
 
     # mc "Hey, can I get some ice waters for me and Nirmala? And maybe a lemon..."
-    mc "Oye, ¿puedo traer agua helada para mí y Nirmala? Y tal vez un limón..."
+    mc "Hey, ¿puedo tomar un poco de agua helada para mí y Nirmala? Y tal vez un limón ..."
 
 # game/code/Book-1/Chapter-6s/s05.rpy:645
 translate spanish b1c06ss05_enter_a20352d9:
 
     # rd "Sure...but I don't think Nirmala's waiting around for one."
-    rd "Claro... pero no creo que Nirmala esté esperando uno."
+    rd "Claro... pero no creo que Nirmala esté esperando por uno."
 
 # game/code/Book-1/Chapter-6s/s05.rpy:648
 translate spanish b1c06ss05_enter_03b3267d:
@@ -988,25 +988,25 @@ translate spanish b1c06ss05_enter_7e9de409:
 translate spanish b1c06ss05_enter_0a668b66:
 
     # "Bouncer" "No outsiders."
-    "Bravucón" "Sin forasteros."
+    "Gorila" "Sin forasteros."
 
 # game/code/Book-1/Chapter-6s/s05.rpy:664
 translate spanish b1c06ss05_enter_4eabd78c:
 
     # mc "Outsider? I'm just trying to take care of my friend, Nirmala. She just passed—"
-    mc "¿Forastero? Solo trato de cuidar a mi amiga, Nirmala. Ella acaba de pasar—"
+    mc "¿Forastero? Sólo trato de cuidar a mi amiga, Nirmala. Ella acaba de pasar—"
 
 # game/code/Book-1/Chapter-6s/s05.rpy:667
 translate spanish b1c06ss05_enter_16d221c3:
 
     # "Bouncer" "I know who Nirmala is, man. But {i}you're{/i} an outsider. And she didn't say anything about letting you through."
-    "Bravucón" "Sé quién es Nirmala, hombre. Pero {i}eres{/i} un forastero. Y ella no dijo nada sobre dejarte pasar."
+    "Gorila" "Sé quién es Nirmala, hombre. Pero {i}eres{/i} un forastero. Y ella no dijo nada sobre dejarte pasar."
 
 # game/code/Book-1/Chapter-6s/s05.rpy:670
 translate spanish b1c06ss05_enter_1187d3d9:
 
     # "Bouncer" "So unless you got a pretty penny to pay me off, or have proof that you were invited here, get lost."
-    "Bravucón" "Así que, a menos que tengas un centavo para pagarme, o tengas pruebas de que fuiste invitado aquí, piérdete."
+    "Gorila" "Así que, a menos que tengas un centavo para pagarme, o tengas pruebas de que fuiste invitado aquí, piérdete."
 
 # game/code/Book-1/Chapter-6s/s05.rpy:673
 translate spanish b1c06ss05_enter_5a0804c1:
@@ -1018,13 +1018,13 @@ translate spanish b1c06ss05_enter_5a0804c1:
 translate spanish b1c06ss05_enter_c9b228be:
 
     # "Bouncer" "Nirmala's fine. {i}She's{/i} a regular here. She's safe."
-    "Bravucón" "Nirmala está bien. {i}Ella es{/i} habitual aquí. Ella está a salvo."
+    "Gorila" "Nirmala está bien. {i}Ella es{/i} habitual aquí. Ella está a salvo."
 
 # game/code/Book-1/Chapter-6s/s05.rpy:679
 translate spanish b1c06ss05_enter_12558d16:
 
     # "Bouncer" "For all I know, you're the one looking to do something nefarious to her."
-    "Bravucón" "Por lo que sé, tú eres el que busca hacerle algo nefasto."
+    "Gorila" "Por lo que sé, tú eres el que busca hacerle algo nefasto."
 
 # game/code/Book-1/Chapter-6s/s05.rpy:682
 translate spanish b1c06ss05_enter_97a20686:
@@ -1036,7 +1036,7 @@ translate spanish b1c06ss05_enter_97a20686:
 translate spanish b1c06ss05_enter_05a221b5:
 
     # "Bouncer" "That's what they all say. She's fine. Get lost or come back with an invite."
-    "Bravucón" "Eso es lo que todos dicen. Ella esta bien. Piérdete o vuelve con una invitación."
+    "Gorila" "Eso es lo que dicen todos. Está bien. Piérdete o vuelve con una invitación."
 
 # game/code/Book-1/Chapter-6s/s05.rpy:688
 translate spanish b1c06ss05_enter_5fddc1b7:
@@ -1060,19 +1060,19 @@ translate spanish b1c06ss05_enter_8f3aea0c:
 translate spanish b1c06ss05_enter_e46656ff:
 
     # mct "Maybe I'll pick up something from the other locals around here."
-    mct "Tal vez recoja algo de los otros lugareños por aquí."
+    mct "Tal vez consiga algo de otras personas de por aquí."
 
 # game/code/Book-1/Chapter-6s/s05.rpy:697
 translate spanish b1c06ss05_enter_8ceb0a97:
 
     # mct "But I'd sure like to know what they've got hidden through that corridor..."
-    mct "Pero seguro que me gustaría saber qué tienen escondido en ese pasillo..."
+    mct "Pero me gustaría saber qué esconden en ese corredor..."
 
 translate spanish strings:
 
     # game/code/Book-1/Chapter-6s/s05.rpy:490
     old "Let her win"
-    new "déjala ganar"
+    new "Déjala ganar"
 
     # game/code/Book-1/Chapter-6s/s05.rpy:490
     old "Win the game yourself"

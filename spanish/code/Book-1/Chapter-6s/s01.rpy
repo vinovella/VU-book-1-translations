@@ -4,7 +4,7 @@
 translate spanish b1c06ss01_30d41e05:
 
     # ffl "Et voilà! We're here."
-    ffl "¡Et voila! Estaban aquí."
+    ffl "¡Et voilà! Ya estamos aquí."
 
 # game/code/Book-1/Chapter-6s/s01.rpy:24
 translate spanish b1c06ss01_f04cc50b:
@@ -16,25 +16,25 @@ translate spanish b1c06ss01_f04cc50b:
 translate spanish b1c06ss01_abab93b2:
 
     # mc "*Whistles* Cozy little place."
-    mc "*Silba* Pequeño y acogedor lugar."
+    mc "*Silba* Un lugar pequeño y acogedor."
 
 # game/code/Book-1/Chapter-6s/s01.rpy:30
 translate spanish b1c06ss01_b1c62650:
 
     # ffl "Why thank you. I think so too."
-    ffl "Por que gracias. Yo también lo creo."
+    ffl "Gracias. Yo también lo creo."
 
 # game/code/Book-1/Chapter-6s/s01.rpy:31
 translate spanish b1c06ss01_8aee0ec7:
 
     # ffl "Almost everyone that sees my place is like \"Why bother? You'll have to eventually leave and take everything down.\" and I'm like..."
-    ffl "Casi todos los que ven mi lugar dicen \"¿Por qué molestarse? Eventualmente tendrás que irte y eliminar todo. \" y yo estoy como..."
+    ffl "Casi todos los que ven mi casa dicen: \"¿Para qué molestarse? Al final tendrás que irte y desmontarlo todo.\" Y yo digo..."
 
 # game/code/Book-1/Chapter-6s/s01.rpy:32
 translate spanish b1c06ss01_6a62af1a:
 
     # ffl "\"My brother in Christ, I would {i}prefer{/i} not to live in a gray, damp, sterile shithole for four years like some sort of political prisoner.\""
-    ffl "\"Mi hermano en Cristo, {i}preferiría{/i} no vivir en un agujero gris, húmedo y estéril durante cuatro años como una especie de prisionero político.\""
+    ffl "\"Mi hermano en Cristo, yo {i}preferiría{/i} no vivir en un agujero gris, húmedo y estéril durante cuatro años como una especie de preso político.\""
 
 # game/code/Book-1/Chapter-6s/s01.rpy:35
 translate spanish b1c06ss01_40fbae91:
@@ -46,7 +46,7 @@ translate spanish b1c06ss01_40fbae91:
 translate spanish b1c06ss01_4cfa7ee1:
 
     # ffl "Exactly! Finally, a man after my own heart."
-    ffl "¡Exactamente! Finalmente, un hombre conforme a mi propio corazón."
+    ffl "¡Exactamente! Por fin, un hombre que piensa como yo."
 
 # game/code/Book-1/Chapter-6s/s01.rpy:41
 translate spanish b1c06ss01_546c999e:
@@ -64,25 +64,25 @@ translate spanish b1c06ss01_249ff361:
 translate spanish b1c06ss01_42cea112:
 
     # mc "Cool guitar. You play?"
-    mc "Genial guitarra. ¿Juegas?"
+    mc "Genial guitarra. ¿Tú tocas?"
 
 # game/code/Book-1/Chapter-6s/s01.rpy:50
 translate spanish b1c06ss01_e1fb62f3:
 
     # ffl "Nope. It's just a set piece."
-    ffl "No. Es solo una pieza fija."
+    ffl "No. Es sólo una pieza fija."
 
 # game/code/Book-1/Chapter-6s/s01.rpy:51
 translate spanish b1c06ss01_3169bba2:
 
     # ffl "Girlie's been with me through thick and thin and will probably outlast me at this point."
-    ffl "Girlie ha estado conmigo en las buenas y en las malas y probablemente me sobreviva en este punto."
+    ffl "Girlie ha estado conmigo en las buenas y en las malas y probablemente sobreviva a mí en este momento."
 
 # game/code/Book-1/Chapter-6s/s01.rpy:54
 translate spanish b1c06ss01_10203a26:
 
     # mc "This one looks nice."
-    mc "Este se ve bien."
+    mc "Tiene buena pinta."
 
 # game/code/Book-1/Chapter-6s/s01.rpy:56
 translate spanish b1c06ss01_429fd0ea:
@@ -106,13 +106,13 @@ translate spanish b1c06ss01_4507b33b:
 translate spanish b1c06ss01_3101e9b8:
 
     # ffl "Fun fact. She didn't used to have a name. Never really thought about naming her."
-    ffl "Hecho de la diversión. Ella no solía tener un nombre. Realmente nunca pensé en nombrarla."
+    ffl "Dato curioso. Antes no tenía nombre. Nunca pensé en ponerle un nombre."
 
 # game/code/Book-1/Chapter-6s/s01.rpy:65
 translate spanish b1c06ss01_002f9f3a:
 
     # ffl "But I was out with my friends one day, busking in some out of the way town, when this old man comes and watches us perform with a smile on his face."
-    ffl "Pero un día estaba afuera con mis amigos, tocando en la calle en una ciudad apartada, cuando este anciano vino y nos vio actuar con una sonrisa en su rostro."
+    ffl "Pero un día estaba por ahí con mis amigos, tocando en un pueblo de las afueras, cuando llega un anciano y nos observa con una sonrisa en la cara."
 
 # game/code/Book-1/Chapter-6s/s01.rpy:67
 translate spanish b1c06ss01_7990459d:
@@ -148,7 +148,7 @@ translate spanish b1c06ss01_b61ba3e4:
 translate spanish b1c06ss01_32d4792d:
 
     # ffl "Not sure. Considering this was like 8 years ago at this point, and he was really old, he's probably with Jesus at this point."
-    ffl "No estoy seguro. Teniendo en cuenta que esto fue hace como 8 años en este momento, y él era muy viejo, probablemente esté con Jesús en este momento."
+    ffl "No estoy segura. Teniendo en cuenta que esto fue hace como 8 años, y él era muy viejo, probablemente esté con Jesús en este momento."
 
 # game/code/Book-1/Chapter-6s/s01.rpy:81
 translate spanish b1c06ss01_4f160efc:
@@ -202,13 +202,13 @@ translate spanish b1c06ss01_2f4100be:
 translate spanish b1c06ss01_21457204:
 
     # mc "Hey! I don't know much about hippie culture, but I do think the art is neat. {w}And for the record, I {i}don't{/i} think you're crazy."
-    mc "¡Ey! No sé mucho sobre la cultura hippie, pero creo que el arte es genial. {w}Y para que conste, {i}no{/i} creo que estés loco."
+    mc "¡Ey! No sé mucho sobre la cultura hippie, pero creo que el arte es genial. {w}Y para que conste, {i}no{/i} creo que estés loca."
 
 # game/code/Book-1/Chapter-6s/s01.rpy:110
 translate spanish b1c06ss01_312f3ffc:
 
     # ffl "Oh, so you think I'm insane instead?"
-    ffl "Oh, ¿entonces crees que estoy loco?"
+    ffl "Oh, ¿entonces crees que estoy loca?"
 
 # game/code/Book-1/Chapter-6s/s01.rpy:112
 translate spanish b1c06ss01_41713718:
@@ -268,7 +268,7 @@ translate spanish b1c06ss01_70b005c6:
 translate spanish b1c06ss01_8ea3f50f:
 
     # ffl "Isn't it? I love these sorts of little talismans and whatnot. I think they're neat."
-    ffl "¿no es así? Me encanta este tipo de pequeños talismanes y todo eso. Creo que están limpios."
+    ffl "¿A que sí? Me encantan este tipo de pequeños talismanes y todo eso. Creo que son geniales."
 
 # game/code/Book-1/Chapter-6s/s01.rpy:139
 translate spanish b1c06ss01_55f2930a:
@@ -328,7 +328,7 @@ translate spanish b1c06ss01_558e4af1:
 translate spanish b1c06ss01_3c65aabd:
 
     # mc "Bit of an odd contrast to the other peace and love stuff, isn't it?"
-    mc "Un poco extraño contraste con las otras cosas de paz y amor, ¿no?"
+    mc "Contrasta un poco con las otras cosas de paz y amor, ¿no?"
 
 # game/code/Book-1/Chapter-6s/s01.rpy:166
 translate spanish b1c06ss01_7f0ddeb9:
@@ -346,7 +346,7 @@ translate spanish b1c06ss01_c5260722:
 translate spanish b1c06ss01_8831f825:
 
     # mct "She's trying to keep something from me. Maybe I can ask more about it later."
-    mct "Ella está tratando de ocultarme algo. Tal vez pueda preguntar más al respecto más adelante."
+    mct "Está tratando de ocultarme algo. Tal vez pueda preguntar más sobre ello más tarde."
 
 # game/code/Book-1/Chapter-6s/s01.rpy:173
 translate spanish b1c06ss01_95e636fd:
@@ -370,7 +370,7 @@ translate spanish b1c06ss01_aaecc756:
 translate spanish b1c06ss01_d1e523b4:
 
     # ffl "Right, so the dark we—"
-    ffl "Correcto, entonces la oscuridad nosotros—"
+    ffl "Bien, entonces la oscuridad..."
 
 # game/code/Book-1/Chapter-6s/s01.rpy:195
 translate spanish b1c06ss01_33ce0f13:
@@ -388,7 +388,7 @@ translate spanish b1c06ss01_3b3d92a8:
 translate spanish b1c06ss01_9844664a:
 
     # mct "Huh, kinda weird to just have porn open all willy-nilly on your school computer."
-    mct "Huh, es un poco extraño tener porno abierto de cualquier manera en la computadora de tu escuela."
+    mct "Es un poco raro tener porno abierto en el portátil de la universidad."
 
 # game/code/Book-1/Chapter-6s/s01.rpy:213
 translate spanish b1c06ss01_d6656f65:
@@ -406,19 +406,19 @@ translate spanish b1c06ss01_3a41c014:
 translate spanish b1c06ss01_45d15e47:
 
     # ffl "Okay, okay, where was I?{w} Dark web, right.{w} So, first things first..."
-    ffl "Vale, vale, ¿dónde estaba? {w} Dark web, cierto. {w} Entonces, lo primero es lo primero..."
+    ffl "Bien, bien, ¿dónde estaba? {w} Dark web, cierto. {w} Entonces, lo primero es lo primero..."
 
 # game/code/Book-1/Chapter-6s/s01.rpy:240
 translate spanish b1c06ss01_2613db14:
 
     # mc "You sure look relaxed."
-    mc "Seguro que te ves relajado."
+    mc "Te ves muy relajada."
 
 # game/code/Book-1/Chapter-6s/s01.rpy:242
 translate spanish b1c06ss01_5d6241f9:
 
     # ffl "That's 'cause I am. This is fun. Much better than researching alone."
-    ffl "Eso es porque lo soy. Esto es divertido. Mucho mejor que investigar solo."
+    ffl "Eso es porque lo estoy. Esto es divertido. Mucho mejor que investigar sola."
 
 # game/code/Book-1/Chapter-6s/s01.rpy:243
 translate spanish b1c06ss01_a649cb3c:
@@ -442,25 +442,25 @@ translate spanish b1c06ss01_0104a842:
 translate spanish b1c06ss01_2af5a072:
 
     # mc "Ah. You two sure seem pretty close."
-    mc "ah Seguro que vosotros dos parecéis bastante unidos."
+    mc "Ah. Ustedes dos parecen muy unidas."
 
 # game/code/Book-1/Chapter-6s/s01.rpy:260
 translate spanish b1c06ss01_6cd77cd2:
 
     # ffl "Of course! We're besties!"
-    ffl "¡Por supuesto! ¡Somos mejores amigos!"
+    ffl "¡Por supuesto! ¡Somos las mejores amigas!"
 
 # game/code/Book-1/Chapter-6s/s01.rpy:261
 translate spanish b1c06ss01_1d60061b:
 
     # mct "Besties? Didn't seem as much, but alright."
-    mct "¿Mejores amigos? No parecía tanto, pero bueno."
+    mct "¿Mejores amigas? No parecía tanto, pero bueno."
 
 # game/code/Book-1/Chapter-6s/s01.rpy:264
 translate spanish b1c06ss01_47cfab5f:
 
     # mc "How'd you two meet?"
-    mc "¿Cómo os conocisteis?"
+    mc "¿Cómo se conocieron?"
 
 # game/code/Book-1/Chapter-6s/s01.rpy:267
 translate spanish b1c06ss01_1144589c:
@@ -472,13 +472,13 @@ translate spanish b1c06ss01_1144589c:
 translate spanish b1c06ss01_2c2246d7:
 
     # mc "I... What?"
-    mc "¿Yo que?"
+    mc "Yo... ¡Qué?"
 
 # game/code/Book-1/Chapter-6s/s01.rpy:272
 translate spanish b1c06ss01_759e68f5:
 
     # ffl "Surprised? *Giggles* Most people are."
-    ffl "¿Sorprendido? *Risitas* La mayoría de la gente lo es."
+    ffl "¿Sorprendido? *Risitas* La mayoría de la gente lo está."
 
 # game/code/Book-1/Chapter-6s/s01.rpy:273
 translate spanish b1c06ss01_a46085e7:
@@ -496,13 +496,13 @@ translate spanish b1c06ss01_d307cbbd:
 translate spanish b1c06ss01_77554a58:
 
     # ffl "All gruff and tough and cool, but a total marshmallow on the inside."
-    ffl "Todo brusco, duro y fresco, pero un malvavisco total por dentro."
+    ffl "Toda ruda y dura y fría, pero una auténtica dulzura por dentro."
 
 # game/code/Book-1/Chapter-6s/s01.rpy:280
 translate spanish b1c06ss01_36eb6bab:
 
     # mc "*Chuckles* Makes sense. You two seemed comfy when we went to eat. So I just got a little curious."
-    mc "*Ríe* Tiene sentido. Ustedes dos parecían cómodos cuando fuimos a comer. Así que me dio un poco de curiosidad."
+    mc "*Ríe* Tiene sentido. Ustedes dos parecían cómodas cuando fuimos a comer. Así que me dio un poco de curiosidad."
 
 # game/code/Book-1/Chapter-6s/s01.rpy:286
 translate spanish b1c06ss01_11455b53:
@@ -520,19 +520,19 @@ translate spanish b1c06ss01_3f334c1a:
 translate spanish b1c06ss01_cc77bccd:
 
     # mc "Oh? Are you jealous?"
-    mc "¿Oh? ¿Estás celoso?"
+    mc "¿Oh? ¿Estás celosa?"
 
 # game/code/Book-1/Chapter-6s/s01.rpy:296
 translate spanish b1c06ss01_2adb1ba2:
 
     # mc "*Chuckles* I'm just looking to make friends."
-    mc "*Risas* Solo busco hacer amigos."
+    mc "*Risas* Sólo busco hacer amigos."
 
 # game/code/Book-1/Chapter-6s/s01.rpy:297
 translate spanish b1c06ss01_55fc8501:
 
     # mc "Like you said, she's cool. I just wanted to know a bit more about her."
-    mc "Como dijiste, ella es genial. Solo quería saber un poco más sobre ella."
+    mc "Como has dicho, ella es genial. Sólo quería saber un poco más sobre ella."
 
 # game/code/Book-1/Chapter-6s/s01.rpy:300
 translate spanish b1c06ss01_8dfbd641:
@@ -550,19 +550,19 @@ translate spanish b1c06ss01_49a1b44c:
 translate spanish b1c06ss01_bfa97a73:
 
     # ffl "Hm. Alright, I believe you. For the most part."
-    ffl "Hm. Está bien, te creo. En la mayor parte."
+    ffl "Hm. De acuerdo, te creo. En su mayor parte."
 
 # game/code/Book-1/Chapter-6s/s01.rpy:312
 translate spanish b1c06ss01_e5a460bf:
 
     # ffl "To be honest, girlie could do with some more friends."
-    ffl "Para ser honesto, a Girlie le vendría bien tener más amigos."
+    ffl "Para ser honesta, a Girlie le vendría bien tener más amigos."
 
 # game/code/Book-1/Chapter-6s/s01.rpy:313
 translate spanish b1c06ss01_1f61d7e3:
 
     # ffl "Can you believe that her spiky attitude makes people wary of her?"
-    ffl "¿Puedes creer que su actitud puntiaguda hace que la gente desconfíe de ella?"
+    ffl "¿Puedes creer que su actitud agresiva hace que la gente desconfíe de ella?"
 
 # game/code/Book-1/Chapter-6s/s01.rpy:316
 translate spanish b1c06ss01_7e085b30:
@@ -574,7 +574,7 @@ translate spanish b1c06ss01_7e085b30:
 translate spanish b1c06ss01_92842b39:
 
     # ffl "Exactly.{w} Oh! I know. Do you know Guns n' Rosette?"
-    ffl "Exactamente. {w} ¡Oh! Lo sé. ¿Conoces Guns n' Rosette?"
+    ffl "Exactamente. {w} ¡Oh! Lo sé. ¿Conoces a Guns n' Rosette?"
 
 # game/code/Book-1/Chapter-6s/s01.rpy:321
 translate spanish b1c06ss01_5882a379:
@@ -592,7 +592,7 @@ translate spanish b1c06ss01_a673d088:
 translate spanish b1c06ss01_91d48aae:
 
     # ffl "Maybe I can—"
-    ffl "Talvez pueda-"
+    ffl "Talvez pueda..."
 
 # game/code/Book-1/Chapter-6s/s01.rpy:330
 translate spanish b1c06ss01_8251ffb4:
@@ -604,7 +604,7 @@ translate spanish b1c06ss01_8251ffb4:
 translate spanish b1c06ss01_1307de82:
 
     # ffl "Uhm, hey. I'm so sorry, but I gotta run real quick. Gotta go take care of a thing."
-    ffl "Uhm, hola. Lo siento mucho, pero tengo que correr muy rápido. Tengo que ir a encargarme de una cosa."
+    ffl "Hola. Lo siento mucho, pero tengo que irme ahora. Tengo que ocuparme de una cosa."
 
 # game/code/Book-1/Chapter-6s/s01.rpy:334
 translate spanish b1c06ss01_b4ec9aed:
@@ -616,7 +616,7 @@ translate spanish b1c06ss01_b4ec9aed:
 translate spanish b1c06ss01_cba35b7a:
 
     # mc "Sure. Do you want me to go—?"
-    mc "Seguro. Quieres que vaya-?"
+    mc "Seguro. ¿Quieres que vaya...?"
 
 # game/code/Book-1/Chapter-6s/s01.rpy:340
 translate spanish b1c06ss01_3d3a9387:

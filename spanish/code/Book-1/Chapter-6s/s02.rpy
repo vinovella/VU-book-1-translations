@@ -16,7 +16,7 @@ translate spanish b1c06ss02_84115249:
 translate spanish b1c06ss02_aa99deb7:
 
     # mct "Hopefully she didn't stand me up. God, that'd be embarrassing... No, she's more honest than that."
-    mct "Ojalá no me dejara plantada. Dios, eso sería vergonzoso... No, ella es más honesta que eso."
+    mct "Esperemos que no me haya dejado plantado. Dios, eso sería vergonzoso... No, ella es más honesta que eso."
 
 # game/code/Book-1/Chapter-6s/s02.rpy:20
 translate spanish b1c06ss02_655753a9:
@@ -46,13 +46,13 @@ translate spanish b1c06ss02_1a863451:
 translate spanish b1c06ss02_3dd3b46c:
 
     # xv "You here doing some pervy shit?"
-    xv "¿Estás aquí haciendo una mierda pervertida?"
+    xv "¿Estás aquí haciendo alguna mierda pervertida?"
 
 # game/code/Book-1/Chapter-6s/s02.rpy:39
 translate spanish b1c06ss02_5771b30c:
 
     # mc "What? No! Jesus dude, calm down—"
-    mc "¿Qué? ¡No! Jesús amigo, cálmate—"
+    mc "¿Qué? ¡No! amigo, cálmate..."
 
 # game/code/Book-1/Chapter-6s/s02.rpy:44
 translate spanish b1c06ss02_0a7117c8:
@@ -64,7 +64,7 @@ translate spanish b1c06ss02_0a7117c8:
 translate spanish b1c06ss02_db5c1a72:
 
     # xv "After all these disappearances, you think I'm gonna sit back while some sus outsider lurks around Fleur's room?"
-    xv "Después de todas estas desapariciones, ¿crees que voy a quedarme sentada mientras un forastero acecha en la habitación de Fleur?"
+    xv "Después de todas estas desapariciones, ¿crees que voy a quedarme de brazos cruzados mientras algún extraño merodea por la habitación de Fleur?"
 
 # game/code/Book-1/Chapter-6s/s02.rpy:48
 translate spanish b1c06ss02_bedca4d1:
@@ -94,13 +94,13 @@ translate spanish b1c06ss02_be2a837f:
 translate spanish b1c06ss02_f0cf7001:
 
     # mct "Christ, this guy's got a temper. He's worse than Simon or Brigitta."
-    mct "Cristo, este tipo tiene temperamento. Es peor que Simon o Brigitta."
+    mct "Cristo, este tipo tiene temperamento. Es peor que Simón o Brigitta."
 
 # game/code/Book-1/Chapter-6s/s02.rpy:64
 translate spanish b1c06ss02_2338f8ac:
 
     # xv "Just making a housecall."
-    xv "Solo haciendo una visita a domicilio."
+    xv "Sólo hago una visita a domicilio."
 
 # game/code/Book-1/Chapter-6s/s02.rpy:67
 translate spanish b1c06ss02_ebe5b095:
@@ -118,7 +118,7 @@ translate spanish b1c06ss02_d5272745:
 translate spanish b1c06ss02_3087ef00:
 
     # mc "Hey, man. That's Fleur's. Put it down."
-    mc "Hey hombre. Eso es de Fleur. Bajalo."
+    mc "Eh, tío. Eso es de Fleur. Suéltalo."
 
 # game/code/Book-1/Chapter-6s/s02.rpy:79
 translate spanish b1c06ss02_ca357bf3:
@@ -130,13 +130,13 @@ translate spanish b1c06ss02_ca357bf3:
 translate spanish b1c06ss02_15e61517:
 
     # xv "Don't get your panties in a twist, pretty boy."
-    xv "No te arrugues las bragas, niño bonito."
+    xv "No te pongas histérico, niño bonito."
 
 # game/code/Book-1/Chapter-6s/s02.rpy:82
 translate spanish b1c06ss02_da981cd4:
 
     # xv "Fleur's fine with me using her laptop."
-    xv "Fleur está bien conmigo usando su computadora portátil."
+    xv "A Fleur le parece bien que use su portátil."
 
 # game/code/Book-1/Chapter-6s/s02.rpy:85
 translate spanish b1c06ss02_c7144a02:
@@ -172,19 +172,19 @@ translate spanish b1c06ss02_4ce6b79a:
 translate spanish b1c06ss02_4b815fe5:
 
     # mc "What are you even doing that you can't do on your own phone or computer?"
-    mc "¿Qué estás haciendo que no puedes hacer en tu propio teléfono o computadora?"
+    mc "¿Qué haces que no puedas hacer en tu propio teléfono u ordenador?"
 
 # game/code/Book-1/Chapter-6s/s02.rpy:99
 translate spanish b1c06ss02_825da303:
 
     # xv "Just checking my socials."
-    xv "Solo revisando mis redes sociales."
+    xv "Sólo revisando mis redes sociales."
 
 # game/code/Book-1/Chapter-6s/s02.rpy:101
 translate spanish b1c06ss02_1634b60e:
 
     # mc "*Whispers* Asshole."
-    mc "*susurra* gilipollas."
+    mc "*susurra* Imbécil."
 
 # game/code/Book-1/Chapter-6s/s02.rpy:104
 translate spanish b1c06ss02_2555aea6:
@@ -196,7 +196,7 @@ translate spanish b1c06ss02_2555aea6:
 translate spanish b1c06ss02_8e73f5b3:
 
     # xv "Just like I am of Nia."
-    xv "Al igual que yo soy de Nia."
+    xv "Al igual que lo soy con Nia."
 
 # game/code/Book-1/Chapter-6s/s02.rpy:107
 translate spanish b1c06ss02_89191473:
@@ -220,19 +220,19 @@ translate spanish b1c06ss02_7d60cddf:
 translate spanish b1c06ss02_92f442cb:
 
     # xv "I've seen you hanging around my baby sister."
-    xv "Te he visto merodeando por mi hermanita."
+    xv "Te he visto junto a mi hermanita."
 
 # game/code/Book-1/Chapter-6s/s02.rpy:132
 translate spanish b1c06ss02_16060914:
 
     # xv "Not sure I want the likes of you around."
-    xv "No estoy seguro de querer gente como tú cerca."
+    xv "No estoy seguro de querer a gente como tú por aquí."
 
 # game/code/Book-1/Chapter-6s/s02.rpy:134
 translate spanish b1c06ss02_5731b892:
 
     # xv "I've seen you with Delphia, that crazy one. Going to the butcher's shop for her..."
-    xv "Te he visto con Delphia, esa loca. Ir a la carnicería por ella..."
+    xv "Te he visto con Delphia, esa loca. Yendo a la carnicería por ella..."
 
 # game/code/Book-1/Chapter-6s/s02.rpy:138
 translate spanish b1c06ss02_545d91c7:
@@ -262,19 +262,19 @@ translate spanish b1c06ss02_d46cfa65:
 translate spanish b1c06ss02_5b57fd93:
 
     # xv "Just doing a little...{i}investigative{/i} work."
-    xv "Solo estoy haciendo un poco de...{i}trabajo de investigación{/i}."
+    xv "Sólo estoy haciendo un poco de...{i}trabajo de investigación{/i}."
 
 # game/code/Book-1/Chapter-6s/s02.rpy:159
 translate spanish b1c06ss02_8f2d57ca:
 
     # mct "He's fucking threatening me..."
-    mct "me esta amenazando..."
+    mct "Me está amenazando..."
 
 # game/code/Book-1/Chapter-6s/s02.rpy:167
 translate spanish b1c06ss02_b93685fa:
 
     # mct "God, fuck this guy."
-    mct "Dios, que se joda este tipo."
+    mct "Dios, que se vaya a la mierda este tipo."
 
 # game/code/Book-1/Chapter-6s/s02.rpy:168
 translate spanish b1c06ss02_c44ac9c2:
@@ -298,7 +298,7 @@ translate spanish b1c06ss02_7e75e2cc:
 translate spanish b1c06ss02_a7bdb298:
 
     # xv "What did my dear baby sister tell you about me? I assume that I'm controlling? Horrible?"
-    xv "¿Qué te dijo mi querida hermanita sobre mí? ¿Supongo que estoy controlando? ¿Horrible?"
+    xv "¿Qué te ha dicho mi querida hermanita sobre mí? ¿Supongo que soy controlador? ¿Horrible?"
 
 # game/code/Book-1/Chapter-6s/s02.rpy:176
 translate spanish b1c06ss02_e64ac661:
@@ -322,31 +322,31 @@ translate spanish b1c06ss02_1df0d852:
 translate spanish b1c06ss02_507fae00:
 
     # mct "I should be careful. Acting brash could make him lose his temper."
-    mct "debo tener cuidado Actuar de manera temeraria podría hacerle perder los estribos."
+    mct "Debería tener cuidado. Actuar con descaro podría hacerle perder los nervios."
 
 # game/code/Book-1/Chapter-6s/s02.rpy:191
 translate spanish b1c06ss02_3de945e5:
 
     # mc "I...think Nia's just confused."
-    mc "Yo... creo que Nia solo está confundida."
+    mc "Yo... creo que Nia está confundida."
 
 # game/code/Book-1/Chapter-6s/s02.rpy:194
 translate spanish b1c06ss02_611cc7c9:
 
     # xv "You think my baby sister's too stupid to think for herself? That it?"
-    xv "¿Crees que mi hermanita es demasiado estúpida para pensar por sí misma? eso?"
+    xv "¿Crees que mi hermanita es demasiado estúpida para pensar por sí misma? ¿Es eso?"
 
 # game/code/Book-1/Chapter-6s/s02.rpy:197
 translate spanish b1c06ss02_9f581b69:
 
     # mc "No, I just think she has a different perspective."
-    mc "No, solo creo que ella tiene una perspectiva diferente."
+    mc "No, sólo creo que ella tiene una perspectiva diferente."
 
 # game/code/Book-1/Chapter-6s/s02.rpy:198
 translate spanish b1c06ss02_51b21884:
 
     # mc "I'm not trying to start anything, dude. I just came here for a study session with Fleur."
-    mc "No estoy tratando de empezar nada, amigo. Vine aquí para una sesión de estudio con Fleur."
+    mc "No estoy tratando de empezar nada, amigo. Sólo vine aquí para una sesión de estudio con Fleur."
 
 # game/code/Book-1/Chapter-6s/s02.rpy:201
 translate spanish b1c06ss02_3a8ce3af:
@@ -370,7 +370,7 @@ translate spanish b1c06ss02_1bc615ef:
 translate spanish b1c06ss02_686a3fb4:
 
     # ffl "Sorry I had to leave for so long."
-    ffl "Lo siento, tuve que irme por tanto tiempo."
+    ffl "Siento haberme ido tanto tiempo."
 
 # game/code/Book-1/Chapter-6s/s02.rpy:216
 translate spanish b1c06ss02_c69b0f35:
@@ -382,7 +382,7 @@ translate spanish b1c06ss02_c69b0f35:
 translate spanish b1c06ss02_7fa515dd:
 
     # mct "Situation handled? Where exactly did Fleur go?"
-    mct "¿Situación manejada? ¿Adónde fue exactamente Fleur?"
+    mct "¿Manejar esa situación? ¿Adónde fue exactamente Fleur?"
 
 # game/code/Book-1/Chapter-6s/s02.rpy:221
 translate spanish b1c06ss02_f3b74154:
@@ -400,7 +400,7 @@ translate spanish b1c06ss02_7b911a8a:
 translate spanish b1c06ss02_c9c70a6c:
 
     # ffl "Yes, I got it handled Xasan. No worries."
-    ffl "Sí, lo tengo manejado Xasan. No hay problema."
+    ffl "Sí, lo tengo controlado Xasan. No te preocupes."
 
 # game/code/Book-1/Chapter-6s/s02.rpy:227
 translate spanish b1c06ss02_4d6d1263:
@@ -430,7 +430,7 @@ translate spanish b1c06ss02_72b800ed:
 translate spanish b1c06ss02_cd48d84d:
 
     # xv "Well, I'd better get back."
-    xv "Bueno, será mejor que vuelva."
+    xv "Bueno, será mejor que me vaya."
 
 # game/code/Book-1/Chapter-6s/s02.rpy:241
 translate spanish b1c06ss02_afe31cd5:
@@ -460,19 +460,19 @@ translate spanish b1c06ss02_20c18872:
 translate spanish b1c06ss02_56b818ca:
 
     # mc "Just thought of something funny. Don't worry about me."
-    mc "Solo pensé en algo divertido. No te preocupes por mí."
+    mc "Sólo pensé en algo divertido. No te preocupes por mí."
 
 # game/code/Book-1/Chapter-6s/s02.rpy:252
 translate spanish b1c06ss02_6ae3cf67:
 
     # xv "I won't."
-    xv "no lo haré"
+    xv "No lo haré"
 
 # game/code/Book-1/Chapter-6s/s02.rpy:255
 translate spanish b1c06ss02_fdbc9ad3:
 
     # xv "I gotta get back, sweetheart."
-    xv "Tengo que volver, cariño."
+    xv "Tengo que irme, cariño."
 
 # game/code/Book-1/Chapter-6s/s02.rpy:257
 translate spanish b1c06ss02_2fbc58fe:
@@ -496,13 +496,13 @@ translate spanish b1c06ss02_7fa97d32:
 translate spanish b1c06ss02_7599fe2c:
 
     # mc "I think he said keep an eye {i}on{/i} me, not out for me."
-    mc "Creo que me dijo que me vigilara {i}en{/i}, que no se preocupara por mí."
+    mc "Creo que dijo que {i}me vigilaras{/i}, no que estuvieras conmigo."
 
 # game/code/Book-1/Chapter-6s/s02.rpy:272
 translate spanish b1c06ss02_0e76af9e:
 
     # ffl "Is there a difference?"
-    ffl "¿Hay una diferencia?"
+    ffl "¿Hay alguna diferencia?"
 
 # game/code/Book-1/Chapter-6s/s02.rpy:275
 translate spanish b1c06ss02_7be80b46:
@@ -520,7 +520,7 @@ translate spanish b1c06ss02_33c16c90:
 translate spanish b1c06ss02_8f86260a:
 
     # ffl "You...wanna get lunch together?"
-    ffl "¿Quieres... almorzar juntos?"
+    ffl "¿Quieres... que almorcemos juntos?"
 
 # game/code/Book-1/Chapter-6s/s02.rpy:284
 translate spanish b1c06ss02_de9335b2:
@@ -532,19 +532,19 @@ translate spanish b1c06ss02_de9335b2:
 translate spanish b1c06ss02_f0ba6038:
 
     # ffl "C-cool! I should change outfits for lunch."
-    ffl "C-genial! Debería cambiarme de ropa para el almuerzo."
+    ffl "G-genial! Debería cambiarme de ropa para el almuerzo."
 
 # game/code/Book-1/Chapter-6s/s02.rpy:290
 translate spanish b1c06ss02_8c99e1a4:
 
     # mc "Really? I think you're cute as is. You look very comfy."
-    mc "¿En realidad? Creo que eres lindo como eres. Te ves muy cómoda."
+    mc "¿De verdad? Creo que estás muy linda tal como estás. Te ves muy bien."
 
 # game/code/Book-1/Chapter-6s/s02.rpy:292
 translate spanish b1c06ss02_a1723bcb:
 
     # ffl "T-thank you, but this is just my home-wear. It {i}is{/i} very comfy."
-    ffl "G-gracias, pero esto es solo mi ropa de casa. Es {i}es{/i} muy cómodo."
+    ffl "G-gracias, pero esto es solo mi ropa de casa. Es {i}es{/i} muy cómoda."
 
 # game/code/Book-1/Chapter-6s/s02.rpy:295
 translate spanish b1c06ss02_cb077dca:
@@ -598,7 +598,7 @@ translate spanish b1c06ss02_24987d0c:
 translate spanish b1c06ss02_b8fcfa3b:
 
     # ffl "Okay, I'm changed."
-    ffl "Está bien, estoy cambiado."
+    ffl "Está bien, ya me he cambiado."
 
 # game/code/Book-1/Chapter-6s/s02.rpy:328
 translate spanish b1c06ss02_7bd1e588:
@@ -610,7 +610,7 @@ translate spanish b1c06ss02_7bd1e588:
 translate spanish b1c06ss02_0bf38a59:
 
     # ffl "*Giggles* Opening the door for me all mannerly-like? Xasan was right, you {i}must be{/i} a ruffian."
-    ffl "*Risitas* ¿Abriendo la puerta para mí de forma educada? Xasan tenía razón, {i}debes ser{/i} un rufián."
+    ffl "*Risitas* ¿Abriéndome la puerta de manera cortés? Xasan tenía razón, {i}debes ser{/i} un rufián."
 
 # game/code/Book-1/Chapter-6s/s02.rpy:334
 translate spanish b1c06ss02_2bd91fad:
@@ -622,7 +622,7 @@ translate spanish b1c06ss02_2bd91fad:
 translate spanish b1c06ss02_1a1e027a:
 
     # mc "I can certainly be {i}rough{/i} at times."
-    mc "Ciertamente puedo ser {i}áspero{/i} a veces."
+    mc "A veces puedo ser muy {i}atrevido.{/i}"
 
 # game/code/Book-1/Chapter-6s/s02.rpy:340
 translate spanish b1c06ss02_08a5ade2:
@@ -646,9 +646,9 @@ translate spanish strings:
 
     # game/code/Book-1/Chapter-6s/s02.rpy:160
     old "Respond boldly"
-    new "responde con valentía"
+    new "Responder con valentía"
 
     # game/code/Book-1/Chapter-6s/s02.rpy:160
     old "Respond carefully"
-    new "responde con cuidado"
+    new "Responda con cuidado"
 

@@ -10,7 +10,7 @@ translate spanish b1c06ss06_dc3c5c5b:
 translate spanish b1c06ss06_9ff1a4a0:
 
     # rd "Sure thing."
-    rd "Cosa segura."
+    rd "Por supuesto."
 
 # game/code/Book-1/Chapter-6s/s06.rpy:14
 translate spanish b1c06ss06_4499b260:
@@ -28,7 +28,7 @@ translate spanish b1c06ss06_9c0831bf:
 translate spanish b1c06ss06_268bd606:
 
     # "You recognize Morgan's voice and relax, knowing she's just joking around."
-    "Reconoces la voz de Morgan y te relajas, sabiendo que solo está bromeando."
+    "Reconoces la voz de Morgan y te relajas, sabiendo que sólo está bromeando."
 
 # game/code/Book-1/Chapter-6s/s06.rpy:20
 translate spanish b1c06ss06_036c8d10:
@@ -64,19 +64,19 @@ translate spanish b1c06ss06_b924a4ef:
 translate spanish b1c06ss06_6e283f93:
 
     # rd "Nah, drinks are on the house for you tonight."
-    rd "No, las bebidas están en la casa para ti esta noche."
+    rd "No, las bebidas van por cuenta de la casa esta noche."
 
 # game/code/Book-1/Chapter-6s/s06.rpy:34
 translate spanish b1c06ss06_b64cd269:
 
     # mg "Aw. Thanks, doll."
-    mg "Oh Gracias muñeca."
+    mg "Oh. Gracias, muñeca."
 
 # game/code/Book-1/Chapter-6s/s06.rpy:37
 translate spanish b1c06ss06_498812dc:
 
     # rd "Your order's comin' right up."
-    rd "Tu pedido está llegando enseguida."
+    rd "Tu pedido está en camino."
 
 # game/code/Book-1/Chapter-6s/s06.rpy:42
 translate spanish b1c06ss06_6c2092f9:
@@ -88,7 +88,7 @@ translate spanish b1c06ss06_6c2092f9:
 translate spanish b1c06ss06_0a131026:
 
     # mg "That wasn't my best side that you saw."
-    mg "Ese no fue mi mejor lado que viste."
+    mg "Lo que viste no fue mi mejor lado."
 
 # game/code/Book-1/Chapter-6s/s06.rpy:47
 translate spanish b1c06ss06_f3a36f49:
@@ -142,13 +142,13 @@ translate spanish b1c06ss06_f3df56b2:
 translate spanish b1c06ss06_5b80ab9a:
 
     # mg "You know I do."
-    mg "Sabes que lo hago."
+    mg "Sabes que sí."
 
 # game/code/Book-1/Chapter-6s/s06.rpy:72
 translate spanish b1c06ss06_331926ff:
 
     # rd "Comin' right up."
-    rd "Comin 'a la derecha."
+    rd "Enseguida."
 
 # game/code/Book-1/Chapter-6s/s06.rpy:80
 translate spanish b1c06ss06_3d7dba16:
@@ -208,7 +208,7 @@ translate spanish b1c06ss06_c9f82a00:
 translate spanish b1c06ss06_8ab23d7f:
 
     # mg "Heh. Probably not much was goin' through that guy's head, then. He's a good dude, though."
-    mg "je. Probablemente no pasaba mucho por la cabeza de ese tipo entonces. Aunque es un buen tipo."
+    mg "Je. Probablemente no pasaba mucho por la cabeza de ese tipo, en ese entonces. Sin embargo, es un buen tipo."
 
 # game/code/Book-1/Chapter-6s/s06.rpy:109
 translate spanish b1c06ss06_e5ebbbc3:
@@ -220,7 +220,7 @@ translate spanish b1c06ss06_e5ebbbc3:
 translate spanish b1c06ss06_293af416:
 
     # mc "I guess not {i}super{/i} close. But I'd call her a friend."
-    mc "Supongo que no {i}super{/i} cerca. Pero yo la llamaría amiga."
+    mc "Supongo que no {i}super cercano{/i}. Pero la llamaría amiga."
 
 # game/code/Book-1/Chapter-6s/s06.rpy:116
 translate spanish b1c06ss06_34b46ceb:
@@ -238,7 +238,7 @@ translate spanish b1c06ss06_64c1a09f:
 translate spanish b1c06ss06_58c936ad:
 
     # mc "Yeah. I figured I'd walk around town and see what I ran into. I just so happened to run into this place."
-    mc "Sí. Pensé en caminar por la ciudad y ver con lo que me encontré. Por casualidad me encontré con este lugar."
+    mc "Sí. Pensé en dar una vuelta por la ciudad y ver con qué me encontraba. De casualidad me encontré con este lugar."
 
 # game/code/Book-1/Chapter-6s/s06.rpy:124
 translate spanish b1c06ss06_11203ea7:
@@ -298,7 +298,7 @@ translate spanish b1c06ss06_857e83a3:
 translate spanish b1c06ss06_6f441995:
 
     # mg "You should've seen my sister, though. She was batshit {i}and{/i} strong."
-    mg "Sin embargo, deberías haber visto a mi hermana. Ella era increíblemente {i}y{/i} fuerte."
+    mg "Sin embargo, deberías haber visto a mi hermana. Ella era increíblemente {i}fuerte.{/i}"
 
 # game/code/Book-1/Chapter-6s/s06.rpy:150
 translate spanish b1c06ss06_3e10bdae:
@@ -316,7 +316,7 @@ translate spanish b1c06ss06_50f763e7:
 translate spanish b1c06ss06_c648774f:
 
     # mct "Whoa. Her mood just did a 180."
-    mct "Vaya Su estado de ánimo acaba de dar un giro de 180."
+    mct "Vaya. Su estado de ánimo acaba de dar un giro de 180°."
 
 # game/code/Book-1/Chapter-6s/s06.rpy:165
 translate spanish b1c06ss06_d183fc0f:
@@ -346,13 +346,13 @@ translate spanish b1c06ss06_e03a28fd:
 translate spanish b1c06ss06_3047459e:
 
     # mct "That means they were potentially—most likely—involved in the same crime circle that Leia was involved in."
-    mct "Eso significa que estaban potencialmente, muy probablemente, involucrados en el mismo círculo criminal en el que estaba involucrada Leia."
+    mct "Eso significa que estaban potencialmente y... muy probablemente... implicadas en el mismo círculo criminal en el que estaba involucrada Leia."
 
 # game/code/Book-1/Chapter-6s/s06.rpy:175
 translate spanish b1c06ss06_fe2bb23f:
 
     # mct "I guess they sorta look similar, but they both have different last names..."
-    mct "Supongo que se parecen un poco, pero ambos tienen apellidos diferentes..."
+    mct "Supongo que se parecen un poco, pero ambas tienen apellidos diferentes..."
 
 # game/code/Book-1/Chapter-6s/s06.rpy:178
 translate spanish b1c06ss06_a049e766:
@@ -370,7 +370,7 @@ translate spanish b1c06ss06_e22a1bdc:
 translate spanish b1c06ss06_d50841b8:
 
     # mg "Maybe it was because we're only half sisters."
-    mg "Tal vez fue porque solo somos medias hermanas."
+    mg "Tal vez fue porque sólo somos hermanastras."
 
 # game/code/Book-1/Chapter-6s/s06.rpy:185
 translate spanish b1c06ss06_55083708:
@@ -382,37 +382,37 @@ translate spanish b1c06ss06_55083708:
 translate spanish b1c06ss06_c3253662:
 
     # mg "Eh. That's life, right? It's a bitch and then you keep going."
-    mg "Eh Así es la vida, ¿verdad? Es una perra y luego sigues adelante."
+    mg "Eh. Así es la vida, ¿verdad? Es una perra y luego sigues adelante."
 
 # game/code/Book-1/Chapter-6s/s06.rpy:189
 translate spanish b1c06ss06_ea4ff881:
 
     # mc "Cheers to that."
-    mc "Saludos a eso."
+    mc "Salud a eso."
 
 # game/code/Book-1/Chapter-6s/s06.rpy:192
 translate spanish b1c06ss06_f8909bfe:
 
     # mct "It changes things, knowing that Morgan and Corinne are half-sisters."
-    mct "Cambia las cosas, saber que Morgan y Corinne son medias hermanas."
+    mct "Cambia las cosas el saber que Morgan y Corinne son hermanastras."
 
 # game/code/Book-1/Chapter-6s/s06.rpy:195
 translate spanish b1c06ss06_3ff2a613:
 
     # mct "I can't investigate both, so I'd better make the choice that'll get me more info on whatever Leia was involved with."
-    mct "No puedo investigar a ambos, así que será mejor que tome la decisión que me dará más información sobre lo que sea en lo que estuvo involucrada Leia."
+    mct "No puedo investigar a ambas, así que será mejor que tome la decisión que me dará más información sobre lo que sea en lo que estuvo involucrada Leia."
 
 # game/code/Book-1/Chapter-6s/s06.rpy:198
 translate spanish b1c06ss06_45b3111b:
 
     # mg "Hey sugar, can I get a water? Gotta hydrate before the event, y'know."
-    mg "Oye cariño, ¿puedo traer agua? Tengo que hidratarme antes del evento, ya sabes."
+    mg "Oye cariño, ¿puedes traerme agua? Tengo que hidratarme antes del evento, ya sabes."
 
 # game/code/Book-1/Chapter-6s/s06.rpy:201
 translate spanish b1c06ss06_5469f882:
 
     # rd "Of course, Morgan."
-    rd "Por supuesto, Morgana."
+    rd "Por supuesto, Morgan."
 
 # game/code/Book-1/Chapter-6s/s06.rpy:204
 translate spanish b1c06ss06_e98f6699:
@@ -442,7 +442,7 @@ translate spanish b1c06ss06_49128b00:
 translate spanish b1c06ss06_84c4f598:
 
     # mct "I also know that Corinne is likely involved with some organization that could be connected to Leia's case. Is Morgan also involved in some sort of crime organization?"
-    mct "También sé que probablemente Corinne esté involucrada con alguna organización que podría estar relacionada con el caso de Leia. ¿Morgan también está involucrado en algún tipo de organización criminal?"
+    mct "También sé que probablemente Corinne esté involucrada con alguna organización que podría estar relacionada con el caso de Leia. ¿Morgan también está involucrada en algún tipo de organización criminal?"
 
 # game/code/Book-1/Chapter-6s/s06.rpy:213
 translate spanish b1c06ss06_177c4076:
@@ -472,13 +472,13 @@ translate spanish b1c06ss06_432dfd04:
 translate spanish b1c06ss06_baee5185:
 
     # mct "For all I know, Morgan's just into some rowdy street fights. I can't use up time on that."
-    mct "Por lo que sé, a Morgan solo le gustan algunas peleas callejeras ruidosas. No puedo gastar tiempo en eso."
+    mct "Por lo que sé, a Morgan sólo le gustan las peleas callejeras. No puedo perder el tiempo en eso."
 
 # game/code/Book-1/Chapter-6s/s06.rpy:231
 translate spanish b1c06ss06_d3e05ef1:
 
     # mct "But Corinne might have more direct information on Leia, or at least whatever Leia was involved with."
-    mct "Pero Corinne podría tener información más directa sobre Leia, o al menos en lo que Leia estaba involucrada."
+    mct "Pero Corinne podría tener información más directa sobre Leia, o al menos alguna cosa con lo que Leia estuviera involucrada."
 
 # game/code/Book-1/Chapter-6s/s06.rpy:236
 translate spanish b1c06ss06_6d7c3f16:
@@ -496,7 +496,7 @@ translate spanish b1c06ss06_38c714db:
 translate spanish b1c06ss06_28a539a0:
 
     # mct "Oh, Nirmala's back. And still buzzed, I see."
-    mct "Oh, Nirmala ha vuelto. Y todavía zumbado, ya veo."
+    mct "Oh, Nirmala ha vuelto. Y todavía borracha, ya veo."
 
 # game/code/Book-1/Chapter-6s/s06.rpy:248
 translate spanish b1c06ss06_ae2b06bc:
@@ -556,13 +556,13 @@ translate spanish b1c06ss06_c680c884:
 translate spanish b1c06ss06_fd338319:
 
     # nr "I'm just goin' to the bathroom. Wh-what's it matter to ya? Haven't you heard of an IBS girlie before?"
-    nr "Solo voy al baño. ¿Q-qué te importa? ¿No has oído hablar de una niña IBS antes?"
+    nr "Sólo voy al baño. ¿Qué te importa? ¿No has oído hablar antes de una chica con Síndrome del Intestino Irritable?"
 
 # game/code/Book-1/Chapter-6s/s06.rpy:284
 translate spanish b1c06ss06_07894037:
 
     # mg "You're blasted, girl. Has Rid cut you off yet?"
-    mg "Estás jodida, chica. ¿Rid ya te interrumpió?"
+    mg "Estás reventada, chica. ¿Ya te ha cortado Rid?"
 
 # game/code/Book-1/Chapter-6s/s06.rpy:289
 translate spanish b1c06ss06_d71cd59b:
@@ -598,7 +598,7 @@ translate spanish b1c06ss06_54ad06ad:
 translate spanish b1c06ss06_fda8f0aa:
 
     # mc "You're telling me. Will she be alright?"
-    mc "Tú me estás diciendo. ¿Estará bien?"
+    mc "Dímelo a mí. ¿Estará bien?"
 
 # game/code/Book-1/Chapter-6s/s06.rpy:303
 translate spanish b1c06ss06_7ba5994e:
@@ -652,7 +652,7 @@ translate spanish b1c06ss06_5add9bd7:
 translate spanish b1c06ss06_5437d935:
 
     # ffl "Buying me lunch and a drink on the same day? You're spoiling me."
-    ffl "¿Invitarme a almorzar y beber el mismo día? Me estás mimando."
+    ffl "¿Invitarme a almorzar y a beber el mismo día? Me estás mimando."
 
 # game/code/Book-1/Chapter-6s/s06.rpy:335
 translate spanish b1c06ss06_d616fbc7:
@@ -664,7 +664,7 @@ translate spanish b1c06ss06_d616fbc7:
 translate spanish b1c06ss06_60007519:
 
     # mc "Hey Ridley! Can I get a..."
-    mc "¡Hola, Ridley! Puedo obtener un..."
+    mc "¡Hola, Ridley! Puedo pedirte un..."
 
 # game/code/Book-1/Chapter-6s/s06.rpy:344
 translate spanish b1c06ss06_3bb123a5:
@@ -682,7 +682,7 @@ translate spanish b1c06ss06_04181dcd:
 translate spanish b1c06ss06_9ff1a4a0_1:
 
     # rd "Sure thing."
-    rd "Cosa segura."
+    rd "Por supuesto."
 
 # game/code/Book-1/Chapter-6s/s06.rpy:353
 translate spanish b1c06ss06_77c3dc15:
@@ -694,7 +694,7 @@ translate spanish b1c06ss06_77c3dc15:
 translate spanish b1c06ss06_d215e4ba:
 
     # ffl "Oh, I arrived earlier. Just came to watch a game."
-    ffl "Ah, llegué antes. Solo vine a ver un partido."
+    ffl "Ah, llegué antes. Sólo vine a ver un juego."
 
 # game/code/Book-1/Chapter-6s/s06.rpy:357
 translate spanish b1c06ss06_09f1a003:
@@ -706,7 +706,7 @@ translate spanish b1c06ss06_09f1a003:
 translate spanish b1c06ss06_0c251b66:
 
     # ffl "I'm sorry I didn't say anything. I'll invite you next time."
-    ffl "Lo siento, no dije nada. Te invitaré la próxima vez."
+    ffl "Siento no haber dicho nada. Te invitaré la próxima vez."
 
 # game/code/Book-1/Chapter-6s/s06.rpy:367
 translate spanish b1c06ss06_e7aabb00:
@@ -772,7 +772,7 @@ translate spanish b1c06ss06_a0d97676:
 translate spanish b1c06ss06_9edfa4c4:
 
     # mc "I admit I enjoy seeing you get so...excited."
-    mc "Admito que disfruto verte tan... emocionado."
+    mc "Admito que disfruto verte tan... emocionada."
 
 # game/code/Book-1/Chapter-6s/s06.rpy:404
 translate spanish b1c06ss06_119bd6f6:
@@ -784,7 +784,7 @@ translate spanish b1c06ss06_119bd6f6:
 translate spanish b1c06ss06_eaaa1d0b:
 
     # ffl "My roommate's out for a bit right now."
-    ffl "Mi compañero de cuarto está fuera un rato ahora mismo."
+    ffl "Mi compañera de cuarto está fuera ahora mismo."
 
 # game/code/Book-1/Chapter-6s/s06.rpy:406
 translate spanish b1c06ss06_133633a7:
@@ -796,7 +796,7 @@ translate spanish b1c06ss06_133633a7:
 translate spanish b1c06ss06_end_e8f6ad16:
 
     # mc "Actually, I'm pretty tired, Fleur... And a bit buzzed."
-    mc "De hecho, estoy bastante cansada, Fleur... y un poco mareada."
+    mc "De hecho, estoy bastante cansado, Fleur... y un poco mareado."
 
 # game/code/Book-1/Chapter-6s/s06.rpy:423
 translate spanish b1c06ss06_end_b2e9e06a:
@@ -814,7 +814,7 @@ translate spanish b1c06ss06_end_dbc6a595:
 translate spanish b1c06ss06_end_faf355f5:
 
     # "Fleur seems unphased by your response, and is instead supportive of you taking care of yourself."
-    "Fleur parece indiferente a tu respuesta y, en cambio, te apoya para que te cuides."
+    "Fleur parece no inmutarse por tu respuesta e incluso te apoya para que te cuides."
 
 # game/code/Book-1/Chapter-6s/s06.rpy:429
 translate spanish b1c06ss06_end_5360a602:
@@ -838,17 +838,17 @@ translate spanish b1c06ss06_end_c8882e23:
 translate spanish b1c06ss06_end_67ea6e1e:
 
     # mc "Bye, Fleur."
-    mc "Adiós, Flor."
+    mc "Adiós, Fleur."
 
 translate spanish strings:
 
     # game/code/Book-1/Chapter-6s/s06.rpy:216
     old "Investigate Morgan"
-    new "investiga a morgan"
+    new "investigar a Morgan"
 
     # game/code/Book-1/Chapter-6s/s06.rpy:216
     old "Investigate Corinne"
-    new "investigar a corinne"
+    new "investigar a Corinne"
 
     # game/code/Book-1/Chapter-6s/s06.rpy:407
     old "Go with her"

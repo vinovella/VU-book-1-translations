@@ -22,7 +22,7 @@ translate spanish b1c06cs04_5c0bf65d:
 translate spanish b1c06cs04_ae10678f:
 
     # mc "Okay... And why exactly am I tagging along on this little adventure?"
-    mc "De acuerdo... ¿Y por qué exactamente me acompaño en esta pequeña aventura?"
+    mc "De acuerdo... ¿Y por qué te estoy acompañando en esta pequeña aventura?"
 
 # game/code/Book-1/Chapter-6c/s04.rpy:31
 translate spanish b1c06cs04_3cb55e9c:
@@ -58,13 +58,13 @@ translate spanish b1c06cs04_50da35ab:
 translate spanish b1c06cs04_84031ef3:
 
     # dk "Yep. Dude's cuckoo."
-    dk "Sí. El cuco del tipo."
+    dk "Sí. El tipo está loco."
 
 # game/code/Book-1/Chapter-6c/s04.rpy:50
 translate spanish b1c06cs04_4f3b1f5f:
 
     # mct "Huh... I'm gonna take a wild guess here and say I'm probably getting a very stilted view of things from her."
-    mct "Huh... Voy a hacer una suposición salvaje aquí y decir que probablemente estoy recibiendo una visión muy forzada de las cosas de ella."
+    mct "Voy a hacer una conjetura y decir que probablemente ella me está dando una visión muy distorsionada de las cosas."
 
 # game/code/Book-1/Chapter-6c/s04.rpy:53
 translate spanish b1c06cs04_b34da4b7:
@@ -106,13 +106,13 @@ translate spanish b1c06cs04_6c241ae5:
 translate spanish b1c06cs04_024a14cd:
 
     # dk "Simple. Throw him a charming smile or two and chat him up."
-    dk "Simple. Lánzale una o dos sonrisas encantadoras y charla con él."
+    dk "Muy sencillo. Lánzale una sonrisa encantadora o dos y conversa con él."
 
 # game/code/Book-1/Chapter-6c/s04.rpy:74
 translate spanish b1c06cs04_bed60b39:
 
     # mc "Chat him up for what?"
-    mc "¿Chatear con él para qué?"
+    mc "¿Hablar con él para qué?"
 
 # game/code/Book-1/Chapter-6c/s04.rpy:77
 translate spanish b1c06cs04_da12a56f:
@@ -130,13 +130,13 @@ translate spanish b1c06cs04_f2961dc5:
 translate spanish b1c06cs04_3dd3a615:
 
     # dk "It's not {i}robbing{/i}, I'm not a damn cat burglar."
-    dk "No es {i}robar{/i}, no soy un maldito ladrón."
+    dk "No es {i}robar{/i}, no soy una maldita ladrona."
 
 # game/code/Book-1/Chapter-6c/s04.rpy:84
 translate spanish b1c06cs04_c8b38e20:
 
     # dk "The stuff that I need is shit he'd throw away anyway! He's keeping it back there 'cause he's paranoid of me."
-    dk "¡Lo que necesito es mierda que él tiraría de todos modos! Lo mantiene ahí atrás porque está paranoico conmigo."
+    dk "¡Lo que necesito es mierda que él tiraría de todos modos!  Las guarda ahí atrás porque está paranoico conmigo."
 
 # game/code/Book-1/Chapter-6c/s04.rpy:87
 translate spanish b1c06cs04_9787ae64:
@@ -160,7 +160,7 @@ translate spanish b1c06cs04_57a0e863:
 translate spanish b1c06cs04_692c833e:
 
     # dk "Just chat him up, give me enough time to do my thing, ask for some pig's blood, and then leave him a big tip or something if you feel so {i}bwad{/i} about it."
-    dk "Habla con él, dame tiempo suficiente para hacer lo mío, pide un poco de sangre de cerdo y luego déjale una gran propina o algo si te sientes tan {i}bwad{/i} al respecto."
+    dk "Habla con él, dame tiempo suficiente para hacer lo mío, pide un poco de sangre de cerdo y luego déjale una gran propina o algo si te sientes tan {i}mal{/i} al respecto."
 
 # game/code/Book-1/Chapter-6c/s04.rpy:94
 translate spanish b1c06cs04_2425acc9:
@@ -178,7 +178,7 @@ translate spanish b1c06cs04_b84ac464:
 translate spanish b1c06cs04_c5ef9e9b:
 
     # dk "Get me what I want and you get what you want, and {i}more{/i}. Simple as that."
-    dk "Consígueme lo que quiero y obtendrás lo que quieras, y {i}más{/i}. Simple como eso."
+    dk "Consígueme lo que quiero y tendrás lo que quieres, y {i}más{/i}. Así de simple."
 
 # game/code/Book-1/Chapter-6c/s04.rpy:101
 translate spanish b1c06cs04_124b0333:
@@ -196,7 +196,7 @@ translate spanish b1c06cs04_0a09a129:
 translate spanish b1c06cs04_2aa48521:
 
     # dk "Let's do it then."
-    dk "Hagamoslo entonces."
+    dk "Hagámoslo entonces."
 
 # game/code/Book-1/Chapter-6c/s04.rpy:112
 translate spanish b1c06cs04_1c71bec0:
@@ -226,7 +226,7 @@ translate spanish b1c06cs04_244af857:
 translate spanish b1c06cs04_73a102f6:
 
     # gd "Oh, hey, kiddo. Back again eh?"
-    gd "Oye, chico. De vuelta otra vez eh?"
+    gd "Oh, hey, chico. Otra vez de vuelta, ¿eh?"
 
 # game/code/Book-1/Chapter-6c/s04.rpy:146
 translate spanish b1c06cs04_dc61c42b:
@@ -244,19 +244,19 @@ translate spanish b1c06cs04_eaed4a57:
 translate spanish b1c06cs04_6d46393c:
 
     # mc "Nah, I still got some. But my dish made the rounds around my dorm."
-    mc "Nah, todavía tengo algunos. Pero mi plato hizo las rondas alrededor de mi dormitorio."
+    mc "No, todavía me queda algo. Pero mi plato hizo las rondas alrededor de mi dormitorio."
 
 # game/code/Book-1/Chapter-6c/s04.rpy:154
 translate spanish b1c06cs04_7e3b832a:
 
     # mc "Now everybody and their mother wants to give it their own spin. It's the \"ingredient of the week\" now."
-    mc "Ahora todos y su madre quieren darle su propio toque. Ahora es el \"ingrediente de la semana\"."
+    mc "Ahora todo el mundo quiere darle su propio toque. Ahora es el \"ingrediente de la semana\"."
 
 # game/code/Book-1/Chapter-6c/s04.rpy:157
 translate spanish b1c06cs04_5b627ac8:
 
     # mc "I was hitting up the farmer's market today and my roomie asked if I could get some blood for him on the way, so here I am."
-    mc "Estaba yendo al mercado de granjeros hoy y mi compañero de cuarto me preguntó si podía conseguirle un poco de sangre en el camino, así que aquí estoy."
+    mc "Hoy he ido al mercado y mi compañero de piso me ha preguntado si podía comprarle un poco de sangre en el camino, así que aquí estoy."
 
 # game/code/Book-1/Chapter-6c/s04.rpy:160
 translate spanish b1c06cs04_2c63ecee:
@@ -280,7 +280,7 @@ translate spanish b1c06cs04_2dfba6a8:
 translate spanish b1c06cs04_71ee6a2c:
 
     # gd "Sausages? How'd you even make sausage outta blood? I thought you were gon' use 'em for some sorta sauce or somethin'."
-    gd "Salchichas? ¿Cómo hiciste salchichas con sangre? Pensé que los ibas a usar para una especie de salsa o algo así."
+    gd "¿Salchichas? ¿Cómo haces salchichas con sangre? Pensé que ibas a usarlas para algún tipo de salsa o algo así."
 
 # game/code/Book-1/Chapter-6c/s04.rpy:172
 translate spanish b1c06cs04_cd6b2379:
@@ -292,7 +292,7 @@ translate spanish b1c06cs04_cd6b2379:
 translate spanish b1c06cs04_51567145:
 
     # mc "But I wanted to create some simple sausages and see how it goes first."
-    mc "Pero quería crear algunas salchichas simples y ver cómo funciona primero."
+    mc "Pero primero quería crear unas salchichas sencillas y ver cómo quedaba."
 
 # game/code/Book-1/Chapter-6c/s04.rpy:176
 translate spanish b1c06cs04_7073079b:
@@ -322,13 +322,13 @@ translate spanish b1c06cs04_80f249cb:
 translate spanish b1c06cs04_4dd0d0c7:
 
     # gd "Alright, I'll get it for ya."
-    gd "Está bien, te lo conseguiré."
+    gd "De acuerdo, te lo traeré."
 
 # game/code/Book-1/Chapter-6c/s04.rpy:193
 translate spanish b1c06cs04_23ddf41f:
 
     # mc "Say, where's Sally anyway? She not around today?"
-    mc "Dime, ¿dónde está Sally de todos modos? ¿Ella no está hoy?"
+    mc "Dime, ¿dónde está Sally? ¿No está por aquí hoy?"
 
 # game/code/Book-1/Chapter-6c/s04.rpy:196
 translate spanish b1c06cs04_28a7bb8d:
@@ -364,7 +364,7 @@ translate spanish b1c06cs04_297c08ce:
 translate spanish b1c06cs04_93fe72f7:
 
     # gd "*Muted laughter* Oh I'm just bustin' yer balls, kid. Don't worry."
-    gd "*Risas apagadas* Oh, solo te estoy rompiendo las pelotas, chico. No te preocupes."
+    gd "*Risas apagadas* Sólo te estoy molestando, chico. No te preocupes."
 
 # game/code/Book-1/Chapter-6c/s04.rpy:212
 translate spanish b1c06cs04_883daa72:
@@ -400,7 +400,7 @@ translate spanish b1c06cs04_183377cd:
 translate spanish b1c06cs04_d82901d8:
 
     # gd "It is. The sweet smell of Spring is in the air."
-    gd "Es. El dulce olor de la primavera está en el aire."
+    gd "Lo es. El dulce olor de la primavera está en el aire."
 
 # game/code/Book-1/Chapter-6c/s04.rpy:232
 translate spanish b1c06cs04_2c642241:
@@ -412,7 +412,7 @@ translate spanish b1c06cs04_2c642241:
 translate spanish b1c06cs04_bd0e77f1:
 
     # gd "\"Appreciate the little things\"? Well ain't that some wisdom beyond yer years."
-    gd "\"¿Aprecias las pequeñas cosas\"? Bueno, ¿no es eso algo de sabiduría más allá de tus años?"
+    gd "\"¿Apreciar las pequeñas cosas\"? Bueno, ¿no es eso algo de sabiduría más allá de tus años?"
 
 # game/code/Book-1/Chapter-6c/s04.rpy:239
 translate spanish b1c06cs04_b96a7763:
@@ -436,13 +436,13 @@ translate spanish b1c06cs04_1998fb6e:
 translate spanish b1c06cs04_befeed05:
 
     # gd "You smoke? Wanna hang around and talk?"
-    gd "¿Tu fumas? ¿Quieres pasar el rato y hablar?"
+    gd "¿Tú fumas? ¿Quieres pasar el rato y hablar?"
 
 # game/code/Book-1/Chapter-6c/s04.rpy:249
 translate spanish b1c06cs04_a4539c31:
 
     # mc "No to the first, sure to the second."
-    mc "No a lo primero, seguro a lo segundo."
+    mc "No a lo primero, sí a lo segundo."
 
 # game/code/Book-1/Chapter-6c/s04.rpy:252
 translate spanish b1c06cs04_778af9c2:
@@ -454,7 +454,7 @@ translate spanish b1c06cs04_778af9c2:
 translate spanish b1c06cs04_f79318f3:
 
     # mc "I'm already eating blood sausages and meat on the daily, I think I got enough of a chance of getting cancer."
-    mc "Ya estoy comiendo morcillas y carne a diario, creo que tengo suficientes posibilidades de contraer cáncer."
+    mc "Ya como morcillas y carne a diario, creo que ya tengo bastantes posibilidades de contraer cáncer."
 
 # game/code/Book-1/Chapter-6c/s04.rpy:260
 translate spanish b1c06cs04_42c10265:
@@ -472,7 +472,7 @@ translate spanish b1c06cs04_3697fcfe:
 translate spanish b1c06cs04_1c885fbf:
 
     # mc "I've been meaning to ask, actually."
-    mc "He tenido la intención de preguntar, en realidad."
+    mc "La verdad es que quería preguntártelo."
 
 # game/code/Book-1/Chapter-6c/s04.rpy:321
 translate spanish b1c06cs04_m1_c1_db029eaf:
@@ -490,25 +490,25 @@ translate spanish b1c06cs04_m1_c1_b1d27c9a:
 translate spanish b1c06cs04_m1_c1_24fc9235:
 
     # mc "*Chuckles* I'm just curious. She looks young."
-    mc "*Risas* Solo tengo curiosidad. Ella parece joven."
+    mc "*Risas* Tengo curiosidad. Ella se ve joven."
 
 # game/code/Book-1/Chapter-6c/s04.rpy:330
 translate spanish b1c06cs04_m1_c1_a9cfcaca:
 
     # gd "And I look old?"
-    gd "¿Y me veo viejo?"
+    gd "¿Y yo parezco viejo?"
 
 # game/code/Book-1/Chapter-6c/s04.rpy:333
 translate spanish b1c06cs04_m1_c1_e95ac42f:
 
     # mc "Well, I'm not saying anything, but I did wonder if you fought in 'nam when I first saw you."
-    mc "Bueno, no estoy diciendo nada, pero me preguntaba si luchaste en 'nam cuando te vi por primera vez."
+    mc "Bueno, no he dicho nada, pero me preguntaba si luchaste en Vietnam cuando te vi por primera vez."
 
 # game/code/Book-1/Chapter-6c/s04.rpy:336
 translate spanish b1c06cs04_m1_c1_d18752b1:
 
     # gd "*Choking laugh* You sumbitch. I'm not that old!"
-    gd "*Risa ahogada* Maldita. ¡No soy tan viejo!"
+    gd "*Risa ahogada* Maldito. ¡No soy tan viejo!"
 
 # game/code/Book-1/Chapter-6c/s04.rpy:338
 translate spanish b1c06cs04_m1_c1_66a5117a:
@@ -550,7 +550,7 @@ translate spanish b1c06cs04_m1_c2_1ba4e43c:
 translate spanish b1c06cs04_m1_c2_857dc552:
 
     # mct "Hm, he seems stingy on the details when it comes to the cult stuff. I should ask him more about himself."
-    mct "Hm, parece tacaño con los detalles cuando se trata de cosas de culto. Debería preguntarle más sobre sí mismo."
+    mct "Hm, cuando habla del culto parece que no da muchos detalles. Debería preguntarle más sobre sí mismo."
 
 # game/code/Book-1/Chapter-6c/s04.rpy:367
 translate spanish b1c06cs04_m1_c3_020143aa:
@@ -580,19 +580,19 @@ translate spanish b1c06cs04_m1_c3_26654a56:
 translate spanish b1c06cs04_m1_c3_7623c8b7:
 
     # gd "Now all I got is Sally and that kid, and I'm happy with just that."
-    gd "Ahora todo lo que tengo es Sally y ese niño, y estoy feliz solo con eso."
+    gd "Ahora todo lo que tengo es a Sally y ese niño, y estoy feliz sólo con eso."
 
 # game/code/Book-1/Chapter-6c/s04.rpy:380
 translate spanish b1c06cs04_m1_c3_6b2e1c1d:
 
     # mc "Oh, damn. Sorry man."
-    mc "Oh demonios. Lo siento."
+    mc "Oh, mierda. Lo siento."
 
 # game/code/Book-1/Chapter-6c/s04.rpy:383
 translate spanish b1c06cs04_m1_c3_50636e88:
 
     # gd "It's alright."
-    gd "Esta bien."
+    gd "Está bien."
 
 # game/code/Book-1/Chapter-6c/s04.rpy:386
 translate spanish b1c06cs04_m1_c3_394a545a:
@@ -610,7 +610,7 @@ translate spanish b1c06cs04_m2_c1_099ffae5:
 translate spanish b1c06cs04_m2_c1_4ced29dc:
 
     # gd "No, no she's not."
-    gd "No, no, no lo es."
+    gd "No, no, no lo está."
 
 # game/code/Book-1/Chapter-6c/s04.rpy:428
 translate spanish b1c06cs04_m2_c1_ab856d21:
@@ -622,7 +622,7 @@ translate spanish b1c06cs04_m2_c1_ab856d21:
 translate spanish b1c06cs04_m2_c1_30ea57d4:
 
     # mc "Not really, no. I was just curious."
-    mc "No, realmente no. Solo tenía curiosidad."
+    mc "En realidad, no. Sólo tenía curiosidad."
 
 # game/code/Book-1/Chapter-6c/s04.rpy:434
 translate spanish b1c06cs04_m2_c1_77834b36:
@@ -640,7 +640,7 @@ translate spanish b1c06cs04_m2_c1_a7d00c3b:
 translate spanish b1c06cs04_m2_c2_086e506c:
 
     # mc "How'd you get into the butchering business, anyway?"
-    mc "¿Cómo te metiste en el negocio de la carnicería, de todos modos?"
+    mc "¿Cómo empezaste en el negocio de la carnicería?"
 
 # game/code/Book-1/Chapter-6c/s04.rpy:450
 translate spanish b1c06cs04_m2_c2_e883d879:
@@ -664,7 +664,7 @@ translate spanish b1c06cs04_m2_c2_d660e179:
 translate spanish b1c06cs04_m2_c2_8590fd7a:
 
     # gd "Though I'm much less of an asshole."
-    gd "Aunque soy mucho menos gilipollas."
+    gd "Aunque soy mucho menos imbécil."
 
 # game/code/Book-1/Chapter-6c/s04.rpy:458
 translate spanish b1c06cs04_m2_c2_f9e48f59:
@@ -730,13 +730,13 @@ translate spanish b1c06cs04_m2_c3_47c0683f:
 translate spanish b1c06cs04_m2_c3_22846b7d:
 
     # mct "I'm losing him. Maybe I should ask him something more relevant."
-    mct "lo estoy perdiendo Tal vez debería preguntarle algo más relevante."
+    mct "Lo estoy perdiendo. Tal vez debería preguntarle algo más relevante."
 
 # game/code/Book-1/Chapter-6c/s04.rpy:505
 translate spanish b1c06cs04_after_m2_befc581d:
 
     # mct "Jesus Christ, Delphia. Hurry up already."
-    mct "Jesucristo, Delfia. Date prisa ya."
+    mct "Jesucristo, Delphia. Date prisa ya."
 
 # game/code/Book-1/Chapter-6c/s04.rpy:508
 translate spanish b1c06cs04_after_m2_faf908fa:
@@ -754,13 +754,13 @@ translate spanish b1c06cs04_m3_c1_14eb0d48:
 translate spanish b1c06cs04_m3_c1_fa30b531:
 
     # gd "Sports? I ain't really ever been into sports."
-    gd "¿Deportes? Realmente nunca he estado en los deportes."
+    gd "¿Deportes? Nunca me han gustado los deportes."
 
 # game/code/Book-1/Chapter-6c/s04.rpy:537
 translate spanish b1c06cs04_m3_c1_8a650512:
 
     # gd "I watch the occasional volleyball match the university hosts, but other than that, I don't really concern myself with it."
-    gd "Veo el partido de voleibol ocasional de los anfitriones de la universidad, pero aparte de eso, realmente no me preocupo por eso."
+    gd "De vez en cuando veo el partido de voleibol que organiza la universidad, pero aparte de eso, no me preocupa mucho."
 
 # game/code/Book-1/Chapter-6c/s04.rpy:540
 translate spanish b1c06cs04_m3_c1_1e2d2556:
@@ -778,13 +778,13 @@ translate spanish b1c06cs04_m3_c2_75bc4ff2:
 translate spanish b1c06cs04_m3_c2_93c76499:
 
     # gd "Nothing much. It's just the same ol', same ol'."
-    gd "Poco. Es el mismo viejo, el mismo viejo."
+    gd "No mucho. Sólo lo mismo de siempre."
 
 # game/code/Book-1/Chapter-6c/s04.rpy:554
 translate spanish b1c06cs04_m3_c2_fb09880d:
 
     # gd "It's boring, but boring's good."
-    gd "Es aburrido, pero aburrido es bueno."
+    gd "Es aburrido, pero lo aburrido es bueno."
 
 # game/code/Book-1/Chapter-6c/s04.rpy:557
 translate spanish b1c06cs04_m3_c2_125b275f:
@@ -802,13 +802,13 @@ translate spanish b1c06cs04_m3_c3_2837656c:
 translate spanish b1c06cs04_m3_c3_acfd72d3:
 
     # gd "Missing girls? The ones from the university?"
-    gd "¿Chicas desaparecidas? ¿Los de la universidad?"
+    gd "¿Chicas desaparecidas? ¿Las de la universidad?"
 
 # game/code/Book-1/Chapter-6c/s04.rpy:570
 translate spanish b1c06cs04_m3_c3_7e4b5053:
 
     # gd "Yeah, I have. Nasty business, that."
-    gd "Sí, yo tengo. Asunto desagradable, eso."
+    gd "Sí, lo he hecho. Es un asunto desagradable."
 
 # game/code/Book-1/Chapter-6c/s04.rpy:573
 translate spanish b1c06cs04_m3_c3_4f5c3fd6:
@@ -838,7 +838,7 @@ translate spanish b1c06cs04_m3_c3_c109f391:
 translate spanish b1c06cs04_end_7e733ae3:
 
     # dk "Got my stuff"
-    dk "tengo mis cosas"
+    dk "Tengo mis cosas"
 
 # game/code/Book-1/Chapter-6c/s04.rpy:597
 translate spanish b1c06cs04_end_c837b79a:
@@ -856,19 +856,19 @@ translate spanish b1c06cs04_end_3221236d:
 translate spanish b1c06cs04_end_5d00e818:
 
     # gd "Right, right."
-    gd "Bien bien."
+    gd "Bien, bien."
 
 # game/code/Book-1/Chapter-6c/s04.rpy:606
 translate spanish b1c06cs04_end_2facc1fe:
 
     # gd "I should get back as well. Got some carcasses to butcher."
-    gd "Debería volver también. Tengo algunos cadáveres para carnicero."
+    gd "Yo también debería volver. Tengo algunos cadáveres para destazar."
 
 # game/code/Book-1/Chapter-6c/s04.rpy:608
 translate spanish b1c06cs04_end_090c8ef5:
 
     # gd "You have a good day now, kiddo."
-    gd "Ahora tienes un buen día, chico."
+    gd "Que tengas un buen día, chico."
 
 # game/code/Book-1/Chapter-6c/s04.rpy:611
 translate spanish b1c06cs04_end_1d84c4b6:
@@ -880,7 +880,7 @@ translate spanish b1c06cs04_end_1d84c4b6:
 translate spanish b1c06cs04_end_66b8a1c9:
 
     # gd "Alright, kiddo. I should get back to it."
-    gd "Muy bien, chico. Debería volver a eso."
+    gd "Muy bien, chico. Debería volver a ello."
 
 # game/code/Book-1/Chapter-6c/s04.rpy:616
 translate spanish b1c06cs04_end_d346f001:
@@ -1036,7 +1036,7 @@ translate spanish b1c06cs04_end_9def0094:
 translate spanish b1c06cs04_end_241f483e:
 
     # dk "Let's get out of here."
-    dk "Vamos a salir de aquí."
+    dk "Salgamos de aquí."
 
 # game/code/Book-1/Chapter-6c/s04.rpy:699
 translate spanish b1c06cs04_end_2f71341d:
@@ -1090,7 +1090,7 @@ translate spanish b1c06cs04_end_cfb76869:
 translate spanish b1c06cs04_end_02e4163b:
 
     # dk "You can't trial me for thought crimes."
-    dk "No puede juzgarme por delitos de pensamiento."
+    dk "No pueden juzgarme por delitos de pensamiento."
 
 # game/code/Book-1/Chapter-6c/s04.rpy:718
 translate spanish b1c06cs04_end_f6b6d115:
@@ -1102,31 +1102,31 @@ translate spanish strings:
 
     # game/code/Book-1/Chapter-6c/s04.rpy:4
     old "Later that afternoon"
-    new "Luego esa tarde"
+    new "Esa misma tarde"
 
     # game/code/Book-1/Chapter-6c/s04.rpy:299
     old "Ask how old Sally is."
-    new "Pregunta cuántos años tiene Sally."
+    new "Pregúntale cuántos años tiene Sally."
 
     # game/code/Book-1/Chapter-6c/s04.rpy:299
     old "Ask about the cult."
-    new "Pregunta por el culto."
+    new "Pregúntale por el culto."
 
     # game/code/Book-1/Chapter-6c/s04.rpy:299
     old "Ask about his family."
-    new "Pregunta por su familia."
+    new "Pregúntale por su familia."
 
     # game/code/Book-1/Chapter-6c/s04.rpy:400
     old "Ask if Sally is married."
-    new "Preguntar si Sally está casada."
+    new "Pregúntale si Sally está casada."
 
     # game/code/Book-1/Chapter-6c/s04.rpy:400
     old "Ask about his business."
-    new "Pregunta por su negocio."
+    new "Pregúntale por su negocio."
 
     # game/code/Book-1/Chapter-6c/s04.rpy:400
     old "Ask the airspeed velocity of an unladen swallow."
-    new "Pregunte la velocidad aerodinámica de una golondrina sin carga."
+    new "Pregúntale la velocidad aerodinámica de una golondrina sin carga."
 
     # game/code/Book-1/Chapter-6c/s04.rpy:510
     old "Ask if he likes sports."
@@ -1134,9 +1134,9 @@ translate spanish strings:
 
     # game/code/Book-1/Chapter-6c/s04.rpy:510
     old "Ask if he has heard anything interesting recently."
-    new "Pregúntele si ha escuchado algo interesante recientemente."
+    new "Pregúntale si ha escuchado algo interesante recientemente."
 
     # game/code/Book-1/Chapter-6c/s04.rpy:510
     old "Ask about the missing girls."
-    new "Pregunta por las chicas desaparecidas."
+    new "Pregúntale por las chicas desaparecidas."
 
