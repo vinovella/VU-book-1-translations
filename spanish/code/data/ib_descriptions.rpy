@@ -629,3 +629,7 @@ translate spanish strings:
     # game/code/data/ib_descriptions.rpy:2
     old "Ronja is married. And also cheating on her husband with me."
     new "Ronja está casada. Y también engaña a su marido conmigo."
+
+    # game/code/data/ib_descriptions.rpy:2
+    old "There seems to be some tension between her and Olesya."
+    new "There seems to be some tension between her and Olesya."
