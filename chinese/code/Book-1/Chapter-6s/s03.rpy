@@ -376,7 +376,7 @@ translate chinese b1c06ss03_abe90021:
 translate chinese b1c06ss03_df3a7231:
 
     # mct "Is there a chance of her {i}not{/i} being alive?"
-    mct "她有{/i}不{/i}在人世的可能吗？"
+    mct "她有{i}不{/i}在人世的可能吗？"
 
 # game/code/Book-1/Chapter-6s/s03.rpy:250
 translate chinese b1c06ss03_70e2454a:
@@ -753,4 +753,3 @@ translate chinese strings:
     # game/code/Book-1/Chapter-6s/s03.rpy:303
     old "Respond \"truthfully\""
     new "\"如实\"回答"
-
