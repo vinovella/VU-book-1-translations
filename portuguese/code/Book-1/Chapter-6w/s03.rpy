@@ -457,10 +457,10 @@ translate portuguese b1c06ws03_65b50b30:
     "O segundo set começa e Brigitta joga primeiro. Os arremessos dela são fortes mas previsíveis, e você passou o jogo todo analisando os padrões deles."
 
 # game/code/Book-1/Chapter-6w/s03.rpy:308
-translate portuguese b1c06ws03_59c6a256:
+translate portuguese b1c06ws03_72bd82fd:
 
-    # "You catch Brigitta's serve and pass the ball to Oleysa, who passes it to Iona."
-    "Você recebe o arremesso da Brigitta e passa para Oleysa, que passa para Iona."
+    # "You catch Brigitta's serve and pass the ball to Olesya, who passes it to Iona."
+    "Você recebe o arremesso da Brigitta e passa para Olesya, que passa para Iona."
 
 # game/code/Book-1/Chapter-6w/s03.rpy:311
 translate portuguese b1c06ws03_f91ee99e:
@@ -562,7 +562,7 @@ translate portuguese b1c06ws03_b572c121:
 translate portuguese b1c06ws03_fa3c5512:
 
     # "You lose the second round. You start to gain some ground with her on the third, but both Iona and Olesya are too exhausted to continue. You lose the third round too."
-    "Vocês perdem o segundo round. Vocês começam a recuperar um pouco no terceiro, mas Iona e Oleysa estão cansados demais para continuar. Vocês também perdem o terceiro round."
+    "Vocês perdem o segundo round. Vocês começam a recuperar um pouco no terceiro, mas Iona e Olesya estão cansados demais para continuar. Vocês também perdem o terceiro round."
 
 # game/code/Book-1/Chapter-6w/s03.rpy:381
 translate portuguese b1c06ws03_4d4f02b2:
@@ -629,4 +629,3 @@ translate portuguese b1c06ws03_b99ec9dd:
 
     # mc "Still had to get help from your team."
     mc "Ainda precisou de ajuda do seu time."
-
