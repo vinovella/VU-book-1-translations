@@ -279,8 +279,8 @@ translate spanish strings:
     new "Parece haber cierta tensión entre ella y Monika."
 
     # game/code/data/ib_descriptions.rpy:2
-    old "Oleysa is noticeably absent from the party. Need to find out why."
-    new "Oleysa está notablemente ausente de la fiesta. Necesito averiguar por qué."
+    old "Olesya is noticeably absent from the party. Need to find out why."
+    new "Olesya está notablemente ausente de la fiesta. Necesito averiguar por qué."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Apparently was almost expelled due to some trouble with \"illicit substances\", at least according to Ronja."

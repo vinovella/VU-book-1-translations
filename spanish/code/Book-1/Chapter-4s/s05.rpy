@@ -103,10 +103,10 @@ translate spanish b1c04ss05_8aa90462:
     sm "Ganadores, conozcan a [mcname]. Hoy hará una prueba para el equipo."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:98
-translate spanish b1c04ss05_83416c21:
+translate spanish b1c04ss05_3ffa824b:
 
-    # sm "[mcname], this is Oleysa."
-    sm "[mcname], esta es Oleysa."
+    # sm "[mcname], this is Olesya."
+    sm "[mcname], esta es Olesya."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:101
 translate spanish b1c04ss05_c884b3b4:
@@ -115,16 +115,16 @@ translate spanish b1c04ss05_c884b3b4:
     oa "¡Hola! Es maravilloso conocerte. He oído hablar mucho de ti por los demás."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:106
-translate spanish b1c04ss05_e83b1058:
+translate spanish b1c04ss05_eef6eb91:
 
-    # mct "Oleysa's a bit formal, but friendly. That's more than I can say for that girl..."
-    mct "Oleysa es un poco formal, pero amigable. Eso es más de lo que puedo decir de esa chica..."
+    # mct "Olesya's a bit formal, but friendly. That's more than I can say for that girl..."
+    mct "Olesya es un poco formal, pero amigable. Eso es más de lo que puedo decir de esa chica..."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:108
-translate spanish b1c04ss05_5df610fa:
+translate spanish b1c04ss05_44813dc9:
 
-    # mc "It's nice to meet you too, Oleysa."
-    mc "También es un placer conocerte, Oleysa."
+    # mc "It's nice to meet you too, Olesya."
+    mc "También es un placer conocerte, Olesya."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:113
 translate spanish b1c04ss05_89c6575d:
@@ -277,10 +277,10 @@ translate spanish b1c04ss05_db00f5a6:
     ir "¡Entiendo!"
 
 # game/code/Book-1/Chapter-4s/s05.rpy:230
-translate spanish b1c04ss05_ff1ed8a1:
+translate spanish b1c04ss05_a3c288ec:
 
-    # "You hit the ball toward Oleysa, trusting she'll catch and hit the ball over the net."
-    "Golpeas la pelota hacia Oleysa, confiando en que ella atrapará y golpeará la pelota sobre la red."
+    # "You hit the ball toward Olesya, trusting she'll catch and hit the ball over the net."
+    "Golpeas la pelota hacia Olesya, confiando en que ella atrapará y golpeará la pelota sobre la red."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:234
 translate spanish b1c04ss05_550dd977:
@@ -421,10 +421,10 @@ translate spanish b1c04ss05_8e64e6fc:
     mct "Brigitta y Monika probablemente sean peores bloqueadoras porque son más bajas y mejores golpeando."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:326
-translate spanish b1c04ss05_336e92ca:
+translate spanish b1c04ss05_3784c1ca:
 
-    # mct "The point of this is to test {i}me{/i} so I doubt Oleysa and Iona are going to exploit their teammate's weaknesses. I have to exploit the weaknesses and strengths I see myself..."
-    mct "El objetivo de esto es {i}ponerme{/i} a prueba, así que dudo que Oleysa e Iona vayan a explotar las debilidades de sus compañeros de equipo. Tengo que explotar las debilidades y fortalezas que yo mismo veo..."
+    # mct "The point of this is to test {i}me{/i} so I doubt Olesya and Iona are going to exploit their teammate's weaknesses. I have to exploit the weaknesses and strengths I see myself..."
+    mct "El objetivo de esto es {i}ponerme{/i} a prueba, así que dudo que Olesya e Iona vayan a explotar las debilidades de sus compañeros de equipo. Tengo que explotar las debilidades y fortalezas que yo mismo veo..."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:327
 translate spanish b1c04ss05_6dd8b3fe:
@@ -577,16 +577,16 @@ translate spanish b1c04ss05_94213ef4:
     mct "Ah. A continuación, intentará apuntar a las debilidades de mi equipo. Ella sabe que no caeré sin luchar."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:415
-translate spanish b1c04ss05_ae84cab3:
+translate spanish b1c04ss05_5056e8ca:
 
-    # mct "Iona's hung back most of this game. I bet she's better at long-range hits. Oleysa seems capable, but sometimes a bit unstable on her feet when close to the net. She couldn't get the ball over Simon's blocks."
-    mct "Iona se ha quedado atrás la mayor parte de este juego. Apuesto a que es mejor en golpes de largo alcance. Oleysa parece capaz, pero a veces un poco inestable sobre sus pies cuando está cerca de la red. No pudo pasar la pelota por encima de los bloqueos de Simón."
+    # mct "Iona's hung back most of this game. I bet she's better at long-range hits. Olesya seems capable, but sometimes a bit unstable on her feet when close to the net. She couldn't get the ball over Simon's blocks."
+    mct "Iona se ha quedado atrás la mayor parte de este juego. Apuesto a que es mejor en golpes de largo alcance. Olesya parece capaz, pero a veces un poco inestable sobre sus pies cuando está cerca de la red. No pudo pasar la pelota por encima de los bloqueos de Simón."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:417
-translate spanish b1c04ss05_ca1edca9:
+translate spanish b1c04ss05_4835ee31:
 
-    # mct "Brigitta's hoping to use Oleysa's weaknesses to her advantage."
-    mct "Brigitta espera usar las debilidades de Oleysa a su favor."
+    # mct "Brigitta's hoping to use Olesya's weaknesses to her advantage."
+    mct "Brigitta espera usar las debilidades de Olesya a su favor."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:437
 translate spanish b1c04ss05_f60830c4:
@@ -625,10 +625,10 @@ translate spanish b1c04ss05_d441c331:
     "Monika patina sobre sus manos y rodillas, levantando arena mientras intenta atrapar la pelota."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:458
-translate spanish b1c04ss05_acc43a7e:
+translate spanish b1c04ss05_442f2435:
 
-    # mct "Well shit, Oleysa and Iona seem to handle themselves just fine."
-    mct "Bueno, mierda, Oleysa e Iona parecen manejarse bien."
+    # mct "Well shit, Olesya and Iona seem to handle themselves just fine."
+    mct "Bueno, mierda, Olesya e Iona parecen manejarse bien."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:459
 translate spanish b1c04ss05_2f9ee061:
@@ -655,10 +655,10 @@ translate spanish b1c04ss05_0800d1bd:
     "Se las arregla para pasarla por encima de la red, pero es un blanco fácil."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:473
-translate spanish b1c04ss05_c19601f4:
+translate spanish b1c04ss05_9e5554a3:
 
-    # "Oleysa steps forward and hits the ball back to Simon. Simon blocks it."
-    "Oleysa da un paso adelante y le devuelve el balón a Simón. Simón lo bloquea."
+    # "Olesya steps forward and hits the ball back to Simon. Simon blocks it."
+    "Olesya da un paso adelante y le devuelve el balón a Simón. Simón lo bloquea."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:477
 translate spanish b1c04ss05_49b942b2:
@@ -679,10 +679,10 @@ translate spanish b1c04ss05_3140a5e0:
     "Brigitta sabe que no te puede pasar el balón."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:486
-translate spanish b1c04ss05_6071d265:
+translate spanish b1c04ss05_4c652725:
 
-    # "Monika jumps up and slams her fist into the ball with such force, it sails high over your head. You and Oleysa are powerless to block it."
-    "Monika se levanta de un salto y golpea la pelota con el puño con tanta fuerza que sale volando por encima de tu cabeza. Ni tú ni Oleysa pueden impedirlo."
+    # "Monika jumps up and slams her fist into the ball with such force, it sails high over your head. You and Olesya are powerless to block it."
+    "Monika se levanta de un salto y golpea la pelota con el puño con tanta fuerza que sale volando por encima de tu cabeza. Ni tú ni Olesya pueden impedirlo."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:488
 translate spanish b1c04ss05_5bf65c84:
@@ -691,10 +691,10 @@ translate spanish b1c04ss05_5bf65c84:
     mct "Definitivamente juzgué mal la fuerza de Monika..."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:493
-translate spanish b1c04ss05_6b2ba2cc:
+translate spanish b1c04ss05_038c70a1:
 
-    # "Iona dives head first for the ball, sliding to the ground. She saves the ball and pops it to Oleysa, who hits it toward you."
-    "Iona se lanza de cabeza hacia la pelota, deslizándose hasta el suelo. Ella salva la pelota y se la pasa a Oleysa, quien la golpea hacia ti."
+    # "Iona dives head first for the ball, sliding to the ground. She saves the ball and pops it to Olesya, who hits it toward you."
+    "Iona se lanza de cabeza hacia la pelota, deslizándose hasta el suelo. Ella salva la pelota y se la pasa a Olesya, quien la golpea hacia ti."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:495
 translate spanish b1c04ss05_cb5ead79:
@@ -727,10 +727,10 @@ translate spanish b1c04ss05_93d6203e:
     "El tiempo pasa. Desde fuera, el juego parece un partido amistoso de voleibol entre amigos, pero tú y los demás jugadores saben que se trata de una guerra agotadora y descarnada por el dominio."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:544
-translate spanish b1c04ss05_0fafc7db:
+translate spanish b1c04ss05_de0fea55:
 
-    # "Oleysa and Iona show their skill together, working with each other's strengths to beat the other team."
-    "Oleysa e Iona muestran su habilidad juntas, trabajando con las fortalezas de cada una para vencer al otro equipo."
+    # "Olesya and Iona show their skill together, working with each other's strengths to beat the other team."
+    "Olesya e Iona muestran su habilidad juntas, trabajando con las fortalezas de cada una para vencer al otro equipo."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:548
 translate spanish b1c04ss05_be92fdeb:
@@ -769,10 +769,10 @@ translate spanish b1c04ss05_84679168:
     sm "Eres excelente para hacer actos en solitario, pero es hora de ver si eres bueno para crear estrategias con otros."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:573
-translate spanish b1c04ss05_40bcf820:
+translate spanish b1c04ss05_be15e790:
 
-    # sm "You're the captain now. I want you to strategize with Oleysa and Iona about how to take that other team down."
-    sm "Eres el capitán ahora. Quiero que hagas una estrategia con Oleysa e Iona sobre cómo derrotar al otro equipo."
+    # sm "You're the captain now. I want you to strategize with Olesya and Iona about how to take that other team down."
+    sm "Eres el capitán ahora. Quiero que hagas una estrategia con Olesya e Iona sobre cómo derrotar al otro equipo."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:579
 translate spanish b1c04ss05_0ce93acc:
@@ -811,10 +811,10 @@ translate spanish b1c04ss05_571039e3:
     mc "Creo que tiene un temperamento que podemos usar a nuestro favor. Lo más probable es que me apunte a mí a continuación porque sabe que podría atraparme con su mejor golpe."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:594
-translate spanish b1c04ss05_1c344cbe:
+translate spanish b1c04ss05_e4776cc5:
 
-    # mc "Oleysa, you hit the ball from Brigitta's first serve to Iona. Then Iona can hit the ball back over the net from there."
-    mc "Oleysa, tú golpeas la pelota desde el primer saque de Brigitta hacia Iona. Entonces Iona puede volver a golpear la pelota sobre la red desde allí."
+    # mc "Olesya, you hit the ball from Brigitta's first serve to Iona. Then Iona can hit the ball back over the net from there."
+    mc "Olesya, tú golpeas la pelota desde el primer saque de Brigitta hacia Iona. Entonces Iona puede volver a golpear la pelota sobre la red desde allí."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:595
 translate spanish b1c04ss05_520eb8d3:
@@ -919,16 +919,16 @@ translate spanish b1c04ss05_297f40ba:
     "Se la devuelve a Simón y Simón se la da a Monika."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:672
-translate spanish b1c04ss05_1b0e8245:
+translate spanish b1c04ss05_77dcb3e4:
 
-    # "Before you can dart forward to block it, Monika hits the ball over the net, toward Oleysa."
-    "Antes de que puedas lanzarte para bloquearlo, Monika golpea la pelota por encima de la red, hacia Oleysa."
+    # "Before you can dart forward to block it, Monika hits the ball over the net, toward Olesya."
+    "Antes de que puedas lanzarte para bloquearlo, Monika golpea la pelota por encima de la red, hacia Olesya."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:676
-translate spanish b1c04ss05_e260f5fb:
+translate spanish b1c04ss05_b8b3d752:
 
-    # "Before Brigitta even has time to get up, Oleysa pops the ball back to you."
-    "Antes de que Brigitta tenga tiempo de levantarse, Oleysa te devuelve el balón."
+    # "Before Brigitta even has time to get up, Olesya pops the ball back to you."
+    "Antes de que Brigitta tenga tiempo de levantarse, Olesya te devuelve el balón."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:678
 translate spanish b1c04ss05_2a40c702:
