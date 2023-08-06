@@ -417,3 +417,15 @@ translate spanish strings:
     # game/code/hints.rpy:5
     old "No hints available."
     new "No hay pistas disponibles."
+
+    # game/code/hints.rpy:5
+    old "Silvia doesn't like MC badmouthing the team."
+    new "Silvia doesn't like MC badmouthing the team."
+
+    # game/code/hints.rpy:5
+    old "MC cracks a joke, but it doesn't make Silvia feel better."
+    new "MC cracks a joke, but it doesn't make Silvia feel better."
+
+    # game/code/hints.rpy:5
+    old "Silvia appreciates MC's honesty and vulnerability. You get +1 point for Silvia"
+    new "Silvia appreciates MC's honesty and vulnerability. You get +1 point for Silvia"

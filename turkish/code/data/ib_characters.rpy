@@ -119,10 +119,6 @@ translate turkish strings:
     new "Tiyatro Bölümü"
 
     # game/code/data/ib_characters.rpy:9
-    old "Briggita"
-    new "Briggita"
-
-    # game/code/data/ib_characters.rpy:9
     old "Adrichem"
     new "Adrichem"
 
@@ -289,4 +285,3 @@ translate turkish strings:
     # game/code/data/ib_characters.rpy:48
     old "Bartender"
     new "Barmen"
-
