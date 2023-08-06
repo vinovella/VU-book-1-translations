@@ -469,10 +469,10 @@ translate chinese b1c06ws04_216f6332:
     mc "Though I'm disappointed I'm not accepted here, yet."
 
 # game/code/Book-1/Chapter-6w/s04.rpy:251
-translate chinese b1c06ws04_e0ed0b4c:
+translate chinese b1c06ws04_9a9e96d2:
 
-    # sm "You will be! I promise. Iona and Oleysa like you fine."
-    sm "You will be! I promise. Iona and Oleysa like you fine."
+    # sm "You will be! I promise. Iona and Olesya like you fine."
+    sm "You will be! I promise. Iona and Olesya like you fine."
 
 # game/code/Book-1/Chapter-6w/s04.rpy:252
 translate chinese b1c06ws04_5c2ebc47:
@@ -983,4 +983,3 @@ translate chinese strings:
     # game/code/Book-1/Chapter-6w/s04.rpy:306
     old "Remember about Sam"
     new "Remember about Sam"
-

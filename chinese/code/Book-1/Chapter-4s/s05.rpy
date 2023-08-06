@@ -103,9 +103,9 @@ translate chinese b1c04ss05_8aa90462:
     sm "来吧赢家们，这是[mcname]。他今天将参加选拔赛。"
 
 # game/code/Book-1/Chapter-4s/s05.rpy:98
-translate chinese b1c04ss05_83416c21:
+translate chinese b1c04ss05_3ffa824b:
 
-    # sm "[mcname], this is Oleysa."
+    # sm "[mcname], this is Olesya."
     sm "[mcname]，这是奥利萨。"
 
 # game/code/Book-1/Chapter-4s/s05.rpy:101
@@ -115,15 +115,15 @@ translate chinese b1c04ss05_c884b3b4:
     oa "嗨！很高兴见到你。我从别人那里听说过很多关于你的事。"
 
 # game/code/Book-1/Chapter-4s/s05.rpy:106
-translate chinese b1c04ss05_e83b1058:
+translate chinese b1c04ss05_eef6eb91:
 
-    # mct "Oleysa's a bit formal, but friendly. That's more than I can say for that girl..."
+    # mct "Olesya's a bit formal, but friendly. That's more than I can say for that girl..."
     mct "奥利萨有点正式，但很友好。对于那个女孩，我就不能这么说了..."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:108
-translate chinese b1c04ss05_5df610fa:
+translate chinese b1c04ss05_44813dc9:
 
-    # mc "It's nice to meet you too, Oleysa."
+    # mc "It's nice to meet you too, Olesya."
     mc "我也很高兴见到你，奥利萨。"
 
 # game/code/Book-1/Chapter-4s/s05.rpy:113
@@ -277,9 +277,9 @@ translate chinese b1c04ss05_db00f5a6:
     ir "我来！"
 
 # game/code/Book-1/Chapter-4s/s05.rpy:230
-translate chinese b1c04ss05_ff1ed8a1:
+translate chinese b1c04ss05_a3c288ec:
 
-    # "You hit the ball toward Oleysa, trusting she'll catch and hit the ball over the net."
+    # "You hit the ball toward Olesya, trusting she'll catch and hit the ball over the net."
     "你把球打向奥利萨，相信她会接住球，把球打过网。"
 
 # game/code/Book-1/Chapter-4s/s05.rpy:234
@@ -421,9 +421,9 @@ translate chinese b1c04ss05_8e64e6fc:
     mct "布吉塔和莫妮卡大概率在拦球上更烂，因为她们更矮，更擅长击球。"
 
 # game/code/Book-1/Chapter-4s/s05.rpy:326
-translate chinese b1c04ss05_336e92ca:
+translate chinese b1c04ss05_3784c1ca:
 
-    # mct "The point of this is to test {i}me{/i} so I doubt Oleysa and Iona are going to exploit their teammate's weaknesses. I have to exploit the weaknesses and strengths I see myself..."
+    # mct "The point of this is to test {i}me{/i} so I doubt Olesya and Iona are going to exploit their teammate's weaknesses. I have to exploit the weaknesses and strengths I see myself..."
     mct "这场比赛是为了测试{i}我{/i}，所以我怀疑奥利萨和欧娜会有意考验我的弱点。我必须利用我自己看到的弱点和优势了..."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:327
@@ -577,15 +577,15 @@ translate chinese b1c04ss05_94213ef4:
     mct "啊。接下来她会瞄准我们队的弱点。她知道我不会不战而降。"
 
 # game/code/Book-1/Chapter-4s/s05.rpy:415
-translate chinese b1c04ss05_ae84cab3:
+translate chinese b1c04ss05_5056e8ca:
 
-    # mct "Iona's hung back most of this game. I bet she's better at long-range hits. Oleysa seems capable, but sometimes a bit unstable on her feet when close to the net. She couldn't get the ball over Simon's blocks."
+    # mct "Iona's hung back most of this game. I bet she's better at long-range hits. Olesya seems capable, but sometimes a bit unstable on her feet when close to the net. She couldn't get the ball over Simon's blocks."
     mct "欧娜在这场比赛中大部分时间里都在犹豫不决。我打赌她更擅长远距离击球。奥利萨看起来很有能力，但在靠近网的时候，她的脚步有点不稳。她无法让球越过西蒙的拦网。"
 
 # game/code/Book-1/Chapter-4s/s05.rpy:417
-translate chinese b1c04ss05_ca1edca9:
+translate chinese b1c04ss05_4835ee31:
 
-    # mct "Brigitta's hoping to use Oleysa's weaknesses to her advantage."
+    # mct "Brigitta's hoping to use Olesya's weaknesses to her advantage."
     mct "布吉塔希望利用奥利萨的弱点，来为自己所用。"
 
 # game/code/Book-1/Chapter-4s/s05.rpy:437
@@ -625,9 +625,9 @@ translate chinese b1c04ss05_d441c331:
     "莫妮卡手脚并用地滑行，试图接球时踢起了沙子。"
 
 # game/code/Book-1/Chapter-4s/s05.rpy:458
-translate chinese b1c04ss05_acc43a7e:
+translate chinese b1c04ss05_442f2435:
 
-    # mct "Well shit, Oleysa and Iona seem to handle themselves just fine."
+    # mct "Well shit, Olesya and Iona seem to handle themselves just fine."
     mct "靠，看来奥利萨和欧娜自己处理得很好。"
 
 # game/code/Book-1/Chapter-4s/s05.rpy:459
@@ -655,9 +655,9 @@ translate chinese b1c04ss05_0800d1bd:
     "他设法让球过网，但这个目标很容易达到。"
 
 # game/code/Book-1/Chapter-4s/s05.rpy:473
-translate chinese b1c04ss05_c19601f4:
+translate chinese b1c04ss05_9e5554a3:
 
-    # "Oleysa steps forward and hits the ball back to Simon. Simon blocks it."
+    # "Olesya steps forward and hits the ball back to Simon. Simon blocks it."
     "奥利萨向前一步，把球打回给西蒙。西蒙挡住了它。"
 
 # game/code/Book-1/Chapter-4s/s05.rpy:477
@@ -679,9 +679,9 @@ translate chinese b1c04ss05_3140a5e0:
     "布吉塔知道她不能把球发给你。"
 
 # game/code/Book-1/Chapter-4s/s05.rpy:486
-translate chinese b1c04ss05_6071d265:
+translate chinese b1c04ss05_4c652725:
 
-    # "Monika jumps up and slams her fist into the ball with such force, it sails high over your head. You and Oleysa are powerless to block it."
+    # "Monika jumps up and slams her fist into the ball with such force, it sails high over your head. You and Olesya are powerless to block it."
     "莫妮卡跳起来，用拳头狠狠地砸向球，球从你头顶高高飞过。你和奥利萨都无力阻挡。"
 
 # game/code/Book-1/Chapter-4s/s05.rpy:488
@@ -691,9 +691,9 @@ translate chinese b1c04ss05_5bf65c84:
     mct "我肯定误判了莫妮卡的力量..."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:493
-translate chinese b1c04ss05_6b2ba2cc:
+translate chinese b1c04ss05_038c70a1:
 
-    # "Iona dives head first for the ball, sliding to the ground. She saves the ball and pops it to Oleysa, who hits it toward you."
+    # "Iona dives head first for the ball, sliding to the ground. She saves the ball and pops it to Olesya, who hits it toward you."
     "欧娜一头扑向球，滑倒在地。她救下了球，把它传给了奥利萨，奥利萨把球传给了你。"
 
 # game/code/Book-1/Chapter-4s/s05.rpy:495
@@ -727,9 +727,9 @@ translate chinese b1c04ss05_93d6203e:
     "时间在流逝。这场比赛看起来像是一场朋友之间的排球友谊赛，但你和其他球员都知道，这是一场残酷的、艰苦卓绝的争霸战。"
 
 # game/code/Book-1/Chapter-4s/s05.rpy:544
-translate chinese b1c04ss05_0fafc7db:
+translate chinese b1c04ss05_de0fea55:
 
-    # "Oleysa and Iona show their skill together, working with each other's strengths to beat the other team."
+    # "Olesya and Iona show their skill together, working with each other's strengths to beat the other team."
     "奥利萨和欧娜一起展示了她们的技能，发挥彼此的优势来击败对方。"
 
 # game/code/Book-1/Chapter-4s/s05.rpy:548
@@ -769,9 +769,9 @@ translate chinese b1c04ss05_84679168:
     sm "你很擅长单独行动，但现在是时候看看你是否擅长与他人一起制定战略了。"
 
 # game/code/Book-1/Chapter-4s/s05.rpy:573
-translate chinese b1c04ss05_40bcf820:
+translate chinese b1c04ss05_be15e790:
 
-    # sm "You're the captain now. I want you to strategize with Oleysa and Iona about how to take that other team down."
+    # sm "You're the captain now. I want you to strategize with Olesya and Iona about how to take that other team down."
     sm "你现在是队长了。我要你和奥利萨还有欧娜商量一下，看怎么打败对手。"
 
 # game/code/Book-1/Chapter-4s/s05.rpy:579
@@ -811,9 +811,9 @@ translate chinese b1c04ss05_571039e3:
     mc "我觉得她的脾气可以成为我们的优势。她下一个目标很可能是我，因为她知道她可能会用更有力的打击来对付我。"
 
 # game/code/Book-1/Chapter-4s/s05.rpy:594
-translate chinese b1c04ss05_1c344cbe:
+translate chinese b1c04ss05_e4776cc5:
 
-    # mc "Oleysa, you hit the ball from Brigitta's first serve to Iona. Then Iona can hit the ball back over the net from there."
+    # mc "Olesya, you hit the ball from Brigitta's first serve to Iona. Then Iona can hit the ball back over the net from there."
     mc "奥利萨，你把布吉塔第一次发的球打给欧娜。然后欧娜可以从那里把球打过网。"
 
 # game/code/Book-1/Chapter-4s/s05.rpy:595
@@ -919,15 +919,15 @@ translate chinese b1c04ss05_297f40ba:
     "她把球传给西蒙，西蒙把球传给莫妮卡。"
 
 # game/code/Book-1/Chapter-4s/s05.rpy:672
-translate chinese b1c04ss05_1b0e8245:
+translate chinese b1c04ss05_77dcb3e4:
 
-    # "Before you can dart forward to block it, Monika hits the ball over the net, toward Oleysa."
+    # "Before you can dart forward to block it, Monika hits the ball over the net, toward Olesya."
     "你还没来得及冲上去拦球，莫妮卡就把球打过了网，打向了奥利萨。"
 
 # game/code/Book-1/Chapter-4s/s05.rpy:676
-translate chinese b1c04ss05_e260f5fb:
+translate chinese b1c04ss05_b8b3d752:
 
-    # "Before Brigitta even has time to get up, Oleysa pops the ball back to you."
+    # "Before Brigitta even has time to get up, Olesya pops the ball back to you."
     "布吉塔还没来得及站起来，奥利萨就把球扔给了你。"
 
 # game/code/Book-1/Chapter-4s/s05.rpy:678

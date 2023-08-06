@@ -457,10 +457,10 @@ translate chinese b1c06ws03_65b50b30:
     "The second set starts and Brigitta serves first. Her serves are strong but easy to predict, and you've been analyzing her patterns this whole game."
 
 # game/code/Book-1/Chapter-6w/s03.rpy:308
-translate chinese b1c06ws03_59c6a256:
+translate chinese b1c06ws03_72bd82fd:
 
-    # "You catch Brigitta's serve and pass the ball to Oleysa, who passes it to Iona."
-    "You catch Brigitta's serve and pass the ball to Oleysa, who passes it to Iona."
+    # "You catch Brigitta's serve and pass the ball to Olesya, who passes it to Iona."
+    "You catch Brigitta's serve and pass the ball to Olesya, who passes it to Iona."
 
 # game/code/Book-1/Chapter-6w/s03.rpy:311
 translate chinese b1c06ws03_f91ee99e:
@@ -629,4 +629,3 @@ translate chinese b1c06ws03_b99ec9dd:
 
     # mc "Still had to get help from your team."
     mc "Still had to get help from your team."
-
