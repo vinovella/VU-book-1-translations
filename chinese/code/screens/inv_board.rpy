@@ -34,10 +34,10 @@ translate chinese strings:
     old "[i.desc!t]"
     new "[i.desc!t]"
 
-# TODO: Translation updated at 2023-06-27 18:33
-
-translate chinese strings:
-
     # game/code/screens/inv_board.rpy:171
     old "Group Name : [i.name!t] [i.surname!t]"
     new "团队名称 : [i.name!t] [i.surname!t]"
+
+    # game/code/screens/inv_board.rpy:155
+    old "Name : [i.full_name!t]"
+    new "姓名 : [i.full_name!t]"
