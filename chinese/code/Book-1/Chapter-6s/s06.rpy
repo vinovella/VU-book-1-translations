@@ -4,229 +4,229 @@
 translate chinese b1c06ss06_dc3c5c5b:
 
     # mc "Can I get a pop? Something caffeinated."
-    mc "Can I get a pop? Something caffeinated."
+    mc "能给我来杯汽水吗？要含咖啡因的。"
 
 # game/code/Book-1/Chapter-6s/s06.rpy:10
 translate chinese b1c06ss06_9ff1a4a0:
 
     # rd "Sure thing."
-    rd "Sure thing."
+    rd "当然可以。"
 
 # game/code/Book-1/Chapter-6s/s06.rpy:14
 translate chinese b1c06ss06_4499b260:
 
     # "You suddenly feel an arm wrap loosely around your neck and pull you back into someone's chest."
-    "You suddenly feel an arm wrap loosely around your neck and pull you back into someone's chest."
+    "你突然感到一只手臂松松地搂住你的脖子，把你拉回了那人的胸膛。"
 
 # game/code/Book-1/Chapter-6s/s06.rpy:16
 translate chinese b1c06ss06_9c0831bf:
 
     # mg "Heeyy, pretty boy! Didn't expect to see you here."
-    mg "Heeyy, pretty boy! Didn't expect to see you here."
+    mg "嘿，帅哥！没想到会在这里见到你。"
 
 # game/code/Book-1/Chapter-6s/s06.rpy:17
 translate chinese b1c06ss06_268bd606:
 
     # "You recognize Morgan's voice and relax, knowing she's just joking around."
-    "You recognize Morgan's voice and relax, knowing she's just joking around."
+    "你听出了摩根的声音，放松了下来，知道她只是在开玩笑。"
 
 # game/code/Book-1/Chapter-6s/s06.rpy:20
 translate chinese b1c06ss06_036c8d10:
 
     # mc "Hey, Morgan."
-    mc "Hey, Morgan."
+    mc "嘿，摩根。"
 
 # game/code/Book-1/Chapter-6s/s06.rpy:21
 translate chinese b1c06ss06_ae3d9a5a:
 
     # mg "What's up?"
-    mg "What's up?"
+    mg "你好啊？"
 
 # game/code/Book-1/Chapter-6s/s06.rpy:24
 translate chinese b1c06ss06_e7aac591:
 
     # rd "The usual?"
-    rd "The usual?"
+    rd "老样子？"
 
 # game/code/Book-1/Chapter-6s/s06.rpy:27
 translate chinese b1c06ss06_e85cc540:
 
     # mg "You know me well, Rid."
-    mg "You know me well, Rid."
+    mg "你很了解我，雷德利。"
 
 # game/code/Book-1/Chapter-6s/s06.rpy:28
 translate chinese b1c06ss06_b924a4ef:
 
     # mg "Put it on my tab."
-    mg "Put it on my tab."
+    mg "记我账上。"
 
 # game/code/Book-1/Chapter-6s/s06.rpy:31
 translate chinese b1c06ss06_6e283f93:
 
     # rd "Nah, drinks are on the house for you tonight."
-    rd "Nah, drinks are on the house for you tonight."
+    rd "不，今晚你喝的酒我请客。"
 
 # game/code/Book-1/Chapter-6s/s06.rpy:34
 translate chinese b1c06ss06_b64cd269:
 
     # mg "Aw. Thanks, doll."
-    mg "Aw. Thanks, doll."
+    mg "噢，谢谢你，宝贝。"
 
 # game/code/Book-1/Chapter-6s/s06.rpy:37
 translate chinese b1c06ss06_498812dc:
 
     # rd "Your order's comin' right up."
-    rd "Your order's comin' right up."
+    rd "你的酒马上就来。"
 
 # game/code/Book-1/Chapter-6s/s06.rpy:42
 translate chinese b1c06ss06_6c2092f9:
 
     # mg "I wanted to apologize for earlier."
-    mg "I wanted to apologize for earlier."
+    mg "我想为之前的事道歉。"
 
 # game/code/Book-1/Chapter-6s/s06.rpy:44
 translate chinese b1c06ss06_0a131026:
 
     # mg "That wasn't my best side that you saw."
-    mg "That wasn't my best side that you saw."
+    mg "你看到的不是我最好的一面。"
 
 # game/code/Book-1/Chapter-6s/s06.rpy:47
 translate chinese b1c06ss06_f3a36f49:
 
     # mc "Don't worry about it. We all have bad days, right?"
-    mc "Don't worry about it. We all have bad days, right?"
+    mc "别担心。我们都有不顺心的时候，对吧？"
 
 # game/code/Book-1/Chapter-6s/s06.rpy:49
 translate chinese b1c06ss06_c2d935a8:
 
     # mg "Heh. Tell me about it."
-    mg "Heh. Tell me about it."
+    mg "呵。可不是。"
 
 # game/code/Book-1/Chapter-6s/s06.rpy:52
 translate chinese b1c06ss06_cee4915c:
 
     # mg "Anyways, I'm sorry about that. We good?"
-    mg "Anyways, I'm sorry about that. We good?"
+    mg "不管怎样，我很抱歉。我们还是朋友吧？"
 
 # game/code/Book-1/Chapter-6s/s06.rpy:56
 translate chinese b1c06ss06_5bd7aab6:
 
     # mc "Yep, we're cool."
-    mc "Yep, we're cool."
+    mc "嗯哼，我们很好。"
 
 # game/code/Book-1/Chapter-6s/s06.rpy:59
 translate chinese b1c06ss06_c82b226c:
 
     # mg "Sweet."
-    mg "Sweet."
+    mg "太好了。"
 
 # game/code/Book-1/Chapter-6s/s06.rpy:62
 translate chinese b1c06ss06_5c602e37:
 
     # mg "Thanks, Ridley."
-    mg "Thanks, Ridley."
+    mg "谢谢，雷德利。"
 
 # game/code/Book-1/Chapter-6s/s06.rpy:64
 translate chinese b1c06ss06_e9e81e59:
 
     # rd "Of course."
-    rd "Of course."
+    rd "没事。"
 
 # game/code/Book-1/Chapter-6s/s06.rpy:67
 translate chinese b1c06ss06_f3df56b2:
 
     # rd "You wanna drink it straight from the tap?"
-    rd "You wanna drink it straight from the tap?"
+    rd "你想直接从水龙头喝吗？"
 
 # game/code/Book-1/Chapter-6s/s06.rpy:70
 translate chinese b1c06ss06_5b80ab9a:
 
     # mg "You know I do."
-    mg "You know I do."
+    mg "你知道我想。"
 
 # game/code/Book-1/Chapter-6s/s06.rpy:72
 translate chinese b1c06ss06_331926ff:
 
     # rd "Comin' right up."
-    rd "Comin' right up."
+    rd "马上来。"
 
 # game/code/Book-1/Chapter-6s/s06.rpy:80
 translate chinese b1c06ss06_3d7dba16:
 
     # mct "Hot damn."
-    mct "Hot damn."
+    mct "靠。"
 
 # game/code/Book-1/Chapter-6s/s06.rpy:84
 translate chinese b1c06ss06_26381c40:
 
     # rd "You two enjoy yourselves, now."
-    rd "You two enjoy yourselves, now."
+    rd "你们两个玩得开心。"
 
 # game/code/Book-1/Chapter-6s/s06.rpy:87
 translate chinese b1c06ss06_025a4b7e:
 
     # mg "Friends?"
-    mg "Friends?"
+    mg "朋友？"
 
 # game/code/Book-1/Chapter-6s/s06.rpy:89
 translate chinese b1c06ss06_8cc19c03:
 
     # mc "Friends."
-    mc "Friends."
+    mc "朋友。"
 
 # game/code/Book-1/Chapter-6s/s06.rpy:92
 translate chinese b1c06ss06_54bb2999:
 
     # mg "So. How do you know Zemfira?"
-    mg "So. How do you know Zemfira?"
+    mg "所以，你怎么认识泽菲拉的？"
 
 # game/code/Book-1/Chapter-6s/s06.rpy:95
 translate chinese b1c06ss06_7bf4a7a8:
 
     # mc "We met not too long ago. Her overzealous friend jumped me because he thought I was a kidnapper, or something."
-    mc "We met not too long ago. Her overzealous friend jumped me because he thought I was a kidnapper, or something."
+    mc "我们不久前见过。她那个过分热心的朋友以为我是绑匪什么的，就把我扑倒了。"
 
 # game/code/Book-1/Chapter-6s/s06.rpy:96
 translate chinese b1c06ss06_051acca5:
 
     # mc "Still not sure what all was going through his head when he tried to tackle me."
-    mc "Still not sure what all was going through his head when he tried to tackle me."
+    mc "我到现在还是不知道，他想擒住我时脑子里在想什么。"
 
 # game/code/Book-1/Chapter-6s/s06.rpy:99
 translate chinese b1c06ss06_946c1de7:
 
     # mg "Lemme guess. Simon?"
-    mg "Lemme guess. Simon?"
+    mg "让我猜猜。是西蒙吧？"
 
 # game/code/Book-1/Chapter-6s/s06.rpy:102
 translate chinese b1c06ss06_c9f82a00:
 
     # mc "The one and only."
-    mc "The one and only."
+    mc "独一无二的那位。"
 
 # game/code/Book-1/Chapter-6s/s06.rpy:106
 translate chinese b1c06ss06_8ab23d7f:
 
     # mg "Heh. Probably not much was goin' through that guy's head, then. He's a good dude, though."
-    mg "Heh. Probably not much was goin' through that guy's head, then. He's a good dude, though."
+    mg "呵。那可能那家伙脑子里没想太多。不过他是个好人。"
 
 # game/code/Book-1/Chapter-6s/s06.rpy:109
 translate chinese b1c06ss06_e5ebbbc3:
 
     # mg "But you're not super close with Zem?"
-    mg "But you're not super close with Zem?"
+    mg "但你和泽菲拉不是很熟？"
 
 # game/code/Book-1/Chapter-6s/s06.rpy:112
 translate chinese b1c06ss06_293af416:
 
     # mc "I guess not {i}super{/i} close. But I'd call her a friend."
-    mc "I guess not {i}super{/i} close. But I'd call her a friend."
+    mc "我想不能算{i}很{/i}熟。但我可以称她为朋友。"
 
 # game/code/Book-1/Chapter-6s/s06.rpy:116
 translate chinese b1c06ss06_34b46ceb:
 
     # "Morgan grunts and sips her drink."
-    "Morgan grunts and sips her drink."
+    "摩根咕哝着抿了一口饮料。"
 
 # game/code/Book-1/Chapter-6s/s06.rpy:118
 translate chinese b1c06ss06_64c1a09f:
