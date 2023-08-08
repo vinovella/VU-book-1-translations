@@ -196,7 +196,7 @@ translate chinese b1c06ss04_continue_71eadbb6:
 translate chinese b1c06ss04_continue_48892505:
 
     # zp "You've only done four and you were told to do five."
-    zp "你只做了4个，而你被要求做5个。"
+    zp "你只做了4个，但他们告诉你要做5个。"
 
 # game/code/Book-1/Chapter-6s/s04.rpy:139
 translate chinese b1c06ss04_continue_8ebdb132:
@@ -208,7 +208,7 @@ translate chinese b1c06ss04_continue_8ebdb132:
 translate chinese b1c06ss04_continue_d55f0e2d:
 
     # mct "What on earth are they talking about? Morgan has {i}opponents{/i}?"
-    mct "她们到底在说什么？摩根有{i}个对手{/i}？"
+    mct "她们到底在说什么？摩根有个{i}对手{/i}？"
 
 # game/code/Book-1/Chapter-6s/s04.rpy:145
 translate chinese b1c06ss04_continue_a8f88583:
@@ -268,7 +268,7 @@ translate chinese b1c06ss04_continue_abe2b843:
 translate chinese b1c06ss04_continue_19a53aeb:
 
     # zp "Of course I do, but I can't redeem those matches regardless! Trust me, maybe we can bring this up tonight when—"
-    zp "我当然知道，但无论如何我都无法挽回这些比柴！相信我，也许我们今晚可以再聊，到时候--"
+    zp "我当然知道，但无论如何我都无法挽回这些比赛！相信我，也许我们今晚可以再聊，到时候--"
 
 # game/code/Book-1/Chapter-6s/s04.rpy:172
 translate chinese b1c06ss04_continue_e40c36ff:
