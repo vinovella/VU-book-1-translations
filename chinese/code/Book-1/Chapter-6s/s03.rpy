@@ -142,7 +142,7 @@ translate chinese b1c06ss03_fb3272ed:
 translate chinese b1c06ss03_110ebc5f:
 
     # ffl "But our families were the closest thing to neighbors you could get out in the woods. So Gaia and I played together as often as possible."
-    ffl "但我们两家是森林里最亲近的邻居。所以盖娅和我经常在一起玩。"
+    ffl "但我们两家在森林里算是最亲近的邻居了。所以盖娅和我经常在一起玩。"
 
 # game/code/Book-1/Chapter-6s/s03.rpy:97
 translate chinese b1c06ss03_371541e9:
@@ -160,7 +160,7 @@ translate chinese b1c06ss03_e8587819:
 translate chinese b1c06ss03_128d8e46:
 
     # mc "*Chuckles* Nothing at all. You {i}do{/i} seem like a little forest fairy."
-    mc "*咯咯笑* 没什么。你{i}确实{/i}看起来有点像森林仙子"
+    mc "*咯咯笑* 没什么。你{i}确实{/i}看起来有点像森林仙子。"
 
 # game/code/Book-1/Chapter-6s/s03.rpy:107
 translate chinese b1c06ss03_3c5eece6:
@@ -178,7 +178,7 @@ translate chinese b1c06ss03_1dd69f61:
 translate chinese b1c06ss03_97b12759:
 
     # "You feel Fleur's delicate hands through your jeans, teasingly drawing her fingers up your thigh to reach her ultimate goal."
-    "你透过牛仔裤感觉到芙蓉纤细的双手，，她的手指挑逗性地沿着你的大腿向上伸去，直抵她的终极目标。"
+    "你透过牛仔裤感觉到芙蓉纤细的双手，她的手指挑逗性地沿着你的大腿向上伸去，直抵她的终极目标。"
 
 # game/code/Book-1/Chapter-6s/s03.rpy:132
 translate chinese b1c06ss03_469e7b88:
@@ -538,7 +538,7 @@ translate chinese b1c06ss03_122ee095:
 translate chinese b1c06ss03_e6abede6:
 
     # ass "Wait, seriously? You kiss your mom on the lips!? Ew!"
-    ass "等等，真的吗？你亲你妈妈的嘴唇!? 恶心！"
+    ass "等等，真的吗？你亲你妈妈的嘴唇!? 真恶心！"
 
 # game/code/Book-1/Chapter-6s/s03.rpy:372
 translate chinese b1c06ss03_7698b632:
