@@ -262,13 +262,13 @@ translate chinese b1c06ss06_cc4afb85:
 translate chinese b1c06ss06_d5626083:
 
     # mc "You don't think so?"
-    mc "你不这么认为吗？"
+    mc "你不觉得它很艺术吗？"
 
 # game/code/Book-1/Chapter-6s/s06.rpy:135
 translate chinese b1c06ss06_3790eb0b:
 
     # mg "I just associate with something different. Different strokes for different folks, and all that."
-    mg "我只是联想到别的东西了。不同的人有不同的笔法，诸如此类。"
+    mg "我只是联想到别的东西了。每个人都有自己的品味之类的。"
 
 # game/code/Book-1/Chapter-6s/s06.rpy:136
 translate chinese b1c06ss06_563b79df:
