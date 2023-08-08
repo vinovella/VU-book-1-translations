@@ -112,7 +112,7 @@ translate chinese b1c06_no_transition_fecc2e73_1:
 translate chinese b1c06_no_transition_c63410b2:
 
     # mct "I really feel like I'm getting closer to whatever's going on with Fleur, Zemfira, and Xasan."
-    mct "我真的觉得我离芙蓉、赞菲拉和桑之间的真相越来越近了。"
+    mct "我真的觉得我离芙蓉、泽菲拉和哈桑之间的真相越来越近了。"
 
 # game/code/Book-1/Chapter-6/s00.rpy:179
 translate chinese b1c06_no_transition_62e97971:
