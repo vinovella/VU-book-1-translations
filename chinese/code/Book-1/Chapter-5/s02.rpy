@@ -64,7 +64,7 @@ translate chinese b1c05s02_d399586c:
 translate chinese b1c05s02_8a13720d:
 
     # pm "I'm a woman who likes things done a certain way, rookie. Now look sharp and follow me to the basement."
-    pm "喂，菜鸟，我是个喜欢按特定方式做事的女人。麻利，跟我到地下室去。"
+    pm "喂，菜鸟，我是个喜欢按特定方式做事的女人。麻利点，跟我到地下室去。"
 
 # game/code/Book-1/Chapter-5/s02.rpy:44
 translate chinese b1c05s02_baec6c44:
@@ -88,7 +88,7 @@ translate chinese b1c05s02_4194fe5c:
 translate chinese b1c05s02_4637cf13:
 
     # pm "Damn straight."
-    pm "太对了。"
+    pm "可不是。"
 
 # game/code/Book-1/Chapter-5/s02.rpy:63
 translate chinese b1c05s02_71d26b31:
@@ -142,7 +142,7 @@ translate chinese b1c05s02_48b7e164:
 translate chinese b1c05s02_13f4bcce:
 
     # mc "And Klara was close to a girl named Silvia Melsbach. In my investigation, I've been effective in forming a friendship with her."
-    mc "克拉拉和一个叫西尔维娅·梅尔斯巴赫的女孩关系很好。在我的调查中，我已经有效地与她建立了友谊。"
+    mc "克拉拉和一个叫西尔维娅·梅尔斯巴赫的女孩关系很好。在我的调查中，我已经和她亲近起来了。"
 
 # game/code/Book-1/Chapter-5/s02.rpy:105
 translate chinese b1c05s02_b2cdaacd:
@@ -232,13 +232,13 @@ translate chinese b1c05s02_d60f1be7:
 translate chinese b1c05s02_e33ca87e:
 
     # mc "I know that Fleur, Nirmala and Lilith are friends with Zemfira. I think they're tied to this group."
-    mc "我知道芙蓉、尼玛拉和莉莉丝是泽菲拉的朋友。我认为他们和这个组织都有联系。"
+    mc "我知道芙蓉、尼玛拉和莉莉丝是泽菲拉的朋友。我认为她们和这个组织都有联系。"
 
 # game/code/Book-1/Chapter-5/s02.rpy:146
 translate chinese b1c05s02_5d3606bc:
 
     # pm "I see."
-    pm "明白。"
+    pm "这样啊。"
 
 # game/code/Book-1/Chapter-5/s02.rpy:148
 translate chinese b1c05s02_35519971:
@@ -286,7 +286,7 @@ translate chinese b1c05s02_2a077756:
 translate chinese b1c05s02_c0dd7ffb:
 
     # pm "She sounds like a good gateway to the others. Focus on her and see how the others react."
-    pm "听起来她是个通往其他人的绝佳入口。对她多加关注，然后看看其他人的反应。"
+    pm "听起来她是个绝佳入口，可以借由她和其他人发展关系。对她多加关注，然后看看其他人的反应。"
 
 # game/code/Book-1/Chapter-5/s02.rpy:175
 translate chinese b1c05s02_58de23cb:
@@ -448,7 +448,7 @@ translate chinese b1c05s02_898e4b8e:
 translate chinese b1c05s02_5c9b3666:
 
     # pm "Seriously? You don't think that three girls who went missing the same night {i}aren't{/i} connected?"
-    pm "你认真的？你认为三个在同一天晚上失踪的女孩，她们之间{i}没有{/i}联系？"
+    pm "你认真的？你认为三个女孩在同一天晚上失踪，她们之间{i}没有{/i}联系？"
 
 # game/code/Book-1/Chapter-5/s02.rpy:252
 translate chinese b1c05s02_cd77588b:
@@ -760,7 +760,7 @@ translate chinese b1c05s02_20c468ec:
 translate chinese b1c05s02_b9497439:
 
     # pm "Tell her you went through an identity change or something. Had a falling out with your father, and now you want to distance yourself from him."
-    pm "告诉她你换了个面貌之类的借口。之前和你父亲闹翻了，现在你想和他保持距离。"
+    pm "告诉她你换了全新面貌之类的借口。就说之前和你父亲闹翻了，现在你想和他保持距离。"
 
 # game/code/Book-1/Chapter-5/s02.rpy:408
 translate chinese b1c05s02_b6362f5b:
@@ -820,7 +820,7 @@ translate chinese b1c05s02_da8a67df:
 translate chinese b1c05s02_45b7e52e:
 
     # mc "Pheebs, I'm not a rookie. And I think {i}{b}I{/b}{/i} have done most of the work here."
-    mc "菲比，我不是新手。我觉得这里的大部分工作都是由{i}{b}我{/b}{/i}完成的。"
+    mc "菲比，我不是菜鸟。我觉得这里的大部分工作都是由{i}{b}我{/b}{/i}完成的。"
 
 # game/code/Book-1/Chapter-5/s02.rpy:433
 translate chinese b1c05s02_06cda1a2:
@@ -894,5 +894,5 @@ translate chinese strings:
 
     # game/code/Book-1/Chapter-5/s02.rpy:392
     old "Investigation Board Reorganized"
-    new "重组调查委员会"
+    new "重新组织调查分析"
 
