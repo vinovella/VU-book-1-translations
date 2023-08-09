@@ -4,7 +4,7 @@
 translate chinese b1c06ws03_6b98694b:
 
     # sm "Okay, I have some stuff to talk about with Shontae before we begin training. I'll see you in a bit!"
-    sm "好了，在开始训练之前，我和，肖黛，还有些事情要谈。一会见！"
+    sm "好，在开始训练之前，我和肖黛还有些事情要谈。一会见！"
 
 # game/code/Book-1/Chapter-6w/s03.rpy:29
 translate chinese b1c06ws03_00bc0926:
@@ -64,7 +64,7 @@ translate chinese b1c06ws03_64984d93:
 translate chinese b1c06ws03_95be683a:
 
     # mct "She's really determined to be a pain in my ass, isn't she?"
-    mct "她真的下定决心要成为我的眼中钉，不是吗？"
+    mct "她真的铁了心要成为我的眼中钉，不是吗？"
 
 # game/code/Book-1/Chapter-6w/s03.rpy:67
 translate chinese b1c06ws03_9e0c48fe:
@@ -124,13 +124,13 @@ translate chinese b1c06ws03_4761a99c:
 translate chinese b1c06ws03_a7f97183:
 
     # ba "It's a bloodbath out here. If you're not up to the fight, you {i}will{/i} get slaughtered by the competition."
-    ba "这里是血雨腥风。如果你没有战斗力，就{i}会{/i}被竞争对手杀死。"
+    ba "这里充斥着血雨腥风。如果你没有战斗力，就{i}一定{/i}会被竞争对手灭掉。"
 
 # game/code/Book-1/Chapter-6w/s03.rpy:89
 translate chinese b1c06ws03_21aef05f:
 
     # mct "Well, that was a resounding success."
-    mct "嗯，真是成功呢。"
+    mct "嗯，真是一次彻底的成功呢。"
 
 # game/code/Book-1/Chapter-6w/s03.rpy:91
 translate chinese b1c06ws03_9171e487:
@@ -148,7 +148,7 @@ translate chinese b1c06ws03_026edaf0:
 translate chinese b1c06ws03_46e42405:
 
     # sa "I'm sure most of you have heard that we're gearing up to have a match with CCC, but I'll reiterate for those who don't know."
-    sa "我相信你们大多数人都听说了，我们正准备和，CCC，进行一场比赛，但我还是要为那些不知道的人重申一遍。"
+    sa "我相信你们大多数人都听说了，我们正准备和CCC进行一场比赛，但我还是要为那些不知道的人重申一遍。"
 
 # game/code/Book-1/Chapter-6w/s03.rpy:102
 translate chinese b1c06ws03_cff48f53:
@@ -196,7 +196,7 @@ translate chinese b1c06ws03_eb168ae4:
 translate chinese b1c06ws03_c8f9550a:
 
     # sa "Because gloating and being good at the game aren't punishable offences."
-    sa "因为幸灾乐祸和球技高超都不会受到惩罚。"
+    sa "因为自吹自擂和球技高超都不会被判罚。"
 
 # game/code/Book-1/Chapter-6w/s03.rpy:127
 translate chinese b1c06ws03_988cd340:
@@ -394,7 +394,7 @@ translate chinese b1c06ws03_309fffc9:
 translate chinese b1c06ws03_169d9f55:
 
     # "You get back into the zone and take in everything you've learned about this team as you change your patterns to match up and counter what they've learned about you."
-    "你回到状态，把你对这支队伍的所有了解全数吸收，同时改变你的模式，以匹配和支持他们对你的了解。"
+    "你回到状态，回味你从这支球队学到的一切，同时改变你的反击模式，与他们对你的了解打着配合。"
 
 # game/code/Book-1/Chapter-6w/s03.rpy:251
 translate chinese b1c06ws03_98c38598:
@@ -406,7 +406,7 @@ translate chinese b1c06ws03_98c38598:
 translate chinese b1c06ws03_6a598d32:
 
     # ir "Woo! Fuck yeah, bitches! How you like them apples?"
-    ir "干得好，婊子们！你们喜欢这些苹果吗？"
+    ir "干得好，废渣们！喜欢这样吗？"
 
 # game/code/Book-1/Chapter-6w/s03.rpy:271
 translate chinese b1c06ws03_7c55b1ac:
@@ -418,7 +418,7 @@ translate chinese b1c06ws03_7c55b1ac:
 translate chinese b1c06ws03_8eea011a:
 
     # mc "Could you not fuck me with your eyes right now?"
-    mc "你现在能不能别用你的眼睛操操我？"
+    mc "你现在能不能别用你的眼睛操我？"
 
 # game/code/Book-1/Chapter-6w/s03.rpy:277
 translate chinese b1c06ws03_47f2ef41:
@@ -604,19 +604,19 @@ translate chinese b1c06ws03_c85ca819:
 translate chinese b1c06ws03_fa562e8e:
 
     # ir "Brigitta has a way of making sure we all have our strength during actual competitions."
-    ir "布吉塔有办法确保我们在实际比赛中都保持体力。"
+    ir "布吉塔有办法确保我们在实际比赛中都保持百分百的状态。"
 
 # game/code/Book-1/Chapter-6w/s03.rpy:399
 translate chinese b1c06ws03_5b7eac0e:
 
     # ir "But that doesn't mean she doesn't like to gloat every once in a while."
-    ir "但这并不意味着她不会，偶尔幸灾乐祸。"
+    ir "但这并不意味着她不会偶尔幸灾乐祸。"
 
 # game/code/Book-1/Chapter-6w/s03.rpy:405
 translate chinese b1c06ws03_22790f83:
 
     # ba "See? I told you you'd get slaughtered. *Chuckles*"
-    ba "看吧，我说过你会被打得很惨的。*嗤笑*"
+    ba "看吧？我说过你会被打得很惨的。*嗤笑*"
 
 # game/code/Book-1/Chapter-6w/s03.rpy:413
 translate chinese b1c06ws03_ef9bddd8:
