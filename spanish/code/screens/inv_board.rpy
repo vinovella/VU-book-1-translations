@@ -24,7 +24,7 @@ translate spanish strings:
 
     # game/code/screens/inv_board.rpy:169
     old "Major : [i.major!t]"
-    new "Alcalde: [i.major!t]"
+    new "Carrera: [i.major!t]"
 
     # game/code/screens/inv_board.rpy:171
     old "Group Name : [i.name!t] [i.surname!t]"
