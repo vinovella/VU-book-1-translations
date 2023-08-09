@@ -10,5 +10,5 @@ translate spanish buzz_4377a2f7:
 translate spanish knock_40511e6c:
 
     # "*knock knock*"
-    "*ToC toc*"
+    "*Toc Toc*"
 
