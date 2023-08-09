@@ -28,13 +28,13 @@ translate chinese b1c06ws01_77370155:
 translate chinese b1c06ws01_0d7a2525:
 
     # ir "This is nice. It's...quaint."
-    ir "这个很好。挺...古色古香。"
+    ir "这个地方不错啊。挺...奇特的。"
 
 # game/code/Book-1/Chapter-6w/s01.rpy:49
 translate chinese b1c06ws01_57d9bccd:
 
     # ir "Oh, hey. Didn't see you there."
-    ir "哦，嘿。没看到你在那里。"
+    ir "哦，嘿。我没看到那儿还有人。"
 
 # game/code/Book-1/Chapter-6w/s01.rpy:52
 translate chinese b1c06ws01_0385d871:
@@ -58,13 +58,13 @@ translate chinese b1c06ws01_06b38160:
 translate chinese b1c06ws01_7816b529:
 
     # lw "Hey! What are you doing?"
-    lw "嘿，你在干什么？"
+    lw "喂！你在干什么？"
 
 # game/code/Book-1/Chapter-6w/s01.rpy:67
 translate chinese b1c06ws01_f5a8e2b8:
 
     # lw "That's Josie's study notes. Don't mess with it."
-    lw "那是乔西的学习笔记，别乱动。"
+    lw "那是乔西的学习笔记。别乱动。"
 
 # game/code/Book-1/Chapter-6w/s01.rpy:70
 translate chinese b1c06ws01_a8fe1b8d:
@@ -76,7 +76,7 @@ translate chinese b1c06ws01_a8fe1b8d:
 translate chinese b1c06ws01_3470d9f0:
 
     # lw "I'm blind, not deaf. And you sound like a 'roided out ork storming through this room."
-    lw "我是瞎子，不是聋子再说你听起来就像个暴走的兽人。"
+    lw "我是瞎子，不是聋子。再说，你听起来就像个在房间里暴走的野兽。"
 
 # game/code/Book-1/Chapter-6w/s01.rpy:76
 translate chinese b1c06ws01_19d56505:
@@ -88,13 +88,13 @@ translate chinese b1c06ws01_19d56505:
 translate chinese b1c06ws01_adbfe886:
 
     # lw "Again. Blind. Not deaf."
-    lw "又来了，我是瞎。但不聋。"
+    lw "我再说一遍，我是瞎。但不聋。"
 
 # game/code/Book-1/Chapter-6w/s01.rpy:82
 translate chinese b1c06ws01_0a78693f:
 
     # mc "C'mon Iona. Stop bothering Lara."
-    mc "好了，欧娜。别再打扰劳拉了。"
+    mc "好了，欧娜。别去烦扰劳拉了。"
 
 # game/code/Book-1/Chapter-6w/s01.rpy:83
 translate chinese b1c06ws01_7e835477:
@@ -112,7 +112,7 @@ translate chinese b1c06ws01_80e6d354:
 translate chinese b1c06ws01_a2b05b46:
 
     # ir "Can't blame her. You played a pretty awesome game last time. It was like you'd always been one of the pros. {w}I'd have forgotten too."
-    ir "不能怪她。你上次打得真棒。就好像你一直都是专业选手一样。{w}我也会忘记的。"
+    ir "不能怪她。你上次打得真棒。就好像你一直都是专业选手一样。{w}我也会忘记告诉你的。"
 
 # game/code/Book-1/Chapter-6w/s01.rpy:91
 translate chinese b1c06ws01_b585feff:
@@ -154,7 +154,7 @@ translate chinese b1c06ws01_a47e80b1:
 translate chinese b1c06ws01_7d627e0f:
 
     # ir "If we have something special going on, we get told about it beforehand."
-    ir "如果有什么特别的事，会提前告知我们的。"
+    ir "如果有什么特别的日程，会提前告知我们的。"
 
 # game/code/Book-1/Chapter-6w/s01.rpy:111
 translate chinese b1c06ws01_52c3c2d6:
@@ -166,7 +166,7 @@ translate chinese b1c06ws01_52c3c2d6:
 translate chinese b1c06ws01_a137863a:
 
     # ir "Oh no, plenty of people have. But that's an easy indicator of who'll actually put in the effort versus who'll do the bare minimum."
-    ir "不是，很多人都忘了。但这很容易看出谁会真正努力，谁又只是走个过场。"
+    ir "那倒不是，很多人都会忘。但这很容易看出谁会真正努力，谁又只是走个过场。"
 
 # game/code/Book-1/Chapter-6w/s01.rpy:115
 translate chinese b1c06ws01_7e044245:
@@ -178,7 +178,7 @@ translate chinese b1c06ws01_7e044245:
 translate chinese b1c06ws01_68c8d914:
 
     # ir "Think of it like...a {i}hidden test{/i} of sorts. We only want those who will put in the work, [mcname]."
-    ir "把它当成...一种{i}隐藏测试{/i}。我们只想要那些愿意付出努力的人，[mcname]。"
+    ir "把它当成...一种{i}秘密测试{/i}。我们只想要那些愿意付出努力的人，[mcname]。"
 
 # game/code/Book-1/Chapter-6w/s01.rpy:119
 translate chinese b1c06ws01_054c5ee0:
@@ -190,7 +190,7 @@ translate chinese b1c06ws01_054c5ee0:
 translate chinese b1c06ws01_2b1fc14a:
 
     # mct "Wonder what other \"hidden tests\" there are?"
-    mct "不知道还有什么其他的\"隐藏测试\"吗？"
+    mct "不知道还有什么其他的\"秘密藏测试\"吗？"
 
 # game/code/Book-1/Chapter-6w/s01.rpy:124
 translate chinese b1c06ws01_8d401251:
@@ -238,13 +238,13 @@ translate chinese b1c06ws01_c95d78a9:
 translate chinese b1c06ws01_ac06d7f0:
 
     # ir "Alright. I gotta go. No rest for the wickedly beautiful and all that."
-    ir "好吧，我得走了。邪恶又美丽的人不能休息。"
+    ir "好吧，我得走了。看来漂亮的人都不能得闲啊。"
 
 # game/code/Book-1/Chapter-6w/s01.rpy:140
 translate chinese b1c06ws01_078eaa76:
 
     # ir "You better show up, mister. I wanna wipe the floor with Brigitta like we did yesterday."
-    ir "你最好出现。我要和布吉塔一决高下，就像昨天那样。"
+    ir "你最好还是来。我要和布吉塔一决高下，就像昨天那样。"
 
 # game/code/Book-1/Chapter-6w/s01.rpy:143
 translate chinese b1c06ws01_a73006c2:
@@ -262,13 +262,13 @@ translate chinese b1c06ws01_71f63404:
 translate chinese b1c06ws01_39d70096:
 
     # mc "She's uh...an acquaintance of mine. Her name's Iona."
-    mc "她是我一个熟人。她叫欧娜。"
+    mc "是我一个熟人。她叫欧娜。"
 
 # game/code/Book-1/Chapter-6w/s01.rpy:156
 translate chinese b1c06ws01_38bd2741:
 
     # lw "Uh-huh. Well, you two can get acquainted the hell away from my dorm."
-    lw "啊哈。你们俩不要在我宿舍唧唧歪歪。"
+    lw "啊哈。反正你们俩不要在我宿舍唧唧歪歪。"
 
 # game/code/Book-1/Chapter-6w/s01.rpy:158
 translate chinese b1c06ws01_c4d5de40:
@@ -280,7 +280,7 @@ translate chinese b1c06ws01_c4d5de40:
 translate chinese b1c06ws01_9ba099b3:
 
     # lw "I don't care if she's surgically sewn to your hip. She was rummaging through our stuff!"
-    lw "I我才不管她是不是被手术缝在你屁股上了，才这么黏你。她翻我们的东西！"
+    lw "她是不是被手术缝在你屁股上了，才这么黏你？我不管，但她翻我们的东西！"
 
 # game/code/Book-1/Chapter-6w/s01.rpy:162
 translate chinese b1c06ws01_c6f58da3:
@@ -298,7 +298,7 @@ translate chinese b1c06ws01_26595a25:
 translate chinese b1c06ws01_3606583a:
 
     # lw "Fussy? A whore?"
-    lw "挑剔？婊？"
+    lw "事多？婊？"
 
 # game/code/Book-1/Chapter-6w/s01.rpy:169
 translate chinese b1c06ws01_8a880ef9:
