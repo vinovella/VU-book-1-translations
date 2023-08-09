@@ -256,7 +256,7 @@ translate chinese b1c06ws07_4a2a1fe4:
 translate chinese b1c06ws07_7cfed95d:
 
     # "You buck your hips in time with her rhythm, but slowly your excitement overtakes you. You wanted to take it at her pace, but she's too good not to fuck senseless."
-    "你随着她的节奏扭动臀部，但慢慢地，快感袭来，情动不能自已，你想按她的节奏来，但她太厉害了，让你欲仙欲死。"
+    "你随着她的节奏扭动臀部，但慢慢地，快感袭来，你情动不能自已，你想按她的节奏来，但她太厉害了，让你欲仙欲死。"
 
 # game/code/Book-1/Chapter-6w/s07.rpy:180
 translate chinese b1c06ws07_2fd65000:
@@ -292,7 +292,7 @@ translate chinese b1c06ws07_eec2c3f0:
 translate chinese b1c06ws07_98b7a0d6:
 
     # ir "But I stopped.{w} Doesn't it infuriate you? Doesn't that make you want to hold me down and fuck my mouth until you cum?"
-    ir "但我停了下来，你不生气吗？{w}你难道不想按住我，操我的嘴，直到你射出来吗？"
+    ir "但我停了下来，你不生气吗？{w}你难道不想按住我，操我的嘴，直到你爽到射出来吗？"
 
 # game/code/Book-1/Chapter-6w/s07.rpy:211
 translate chinese b1c06ws07_b97f8555:
