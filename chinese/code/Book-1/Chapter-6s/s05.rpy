@@ -664,7 +664,7 @@ translate chinese b1c06ss05_pool_game_0a3f81be:
 translate chinese b1c06ss05_pool_game_4a3ffbce:
 
     # nr "A girly can't just pop it for free, y'know?"
-    nr "女孩子不能白吃白喝，知道吗？
+    nr "女孩子不能白吃白喝，知道吗？"
 
 # game/code/Book-1/Chapter-6s/s05.rpy:459
 translate chinese b1c06ss05_pool_game_298b1f5b:

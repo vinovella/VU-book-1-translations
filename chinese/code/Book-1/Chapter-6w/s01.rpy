@@ -22,7 +22,7 @@ translate chinese b1c06ws01_9c640aaa:
 translate chinese b1c06ws01_77370155:
 
     # mc "Oh, Hi Iona. What's up?"
-    mc "哦，欧娜，你好吗？
+    mc "哦，欧娜，你好吗？"
 
 # game/code/Book-1/Chapter-6w/s01.rpy:45
 translate chinese b1c06ws01_0d7a2525:

@@ -952,7 +952,7 @@ translate chinese b1c06ws04_continue_63eec62e:
 translate chinese b1c06ws04_continue_665f768b:
 
     # sdl "Let's just put it this way: if you're involved with the Club, I know you."
-    sdl 这么说吧:如果你和俱乐部有关，我就会认识你。"
+    sdl "这么说吧:如果你和俱乐部有关，我就会认识你。"
 
 # game/code/Book-1/Chapter-6w/s04.rpy:488
 translate chinese b1c06ws04_continue_0fecb565:
