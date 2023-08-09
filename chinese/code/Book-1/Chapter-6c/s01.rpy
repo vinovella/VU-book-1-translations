@@ -46,13 +46,13 @@ translate chinese b1c06cs01_f2c48737:
 translate chinese b1c06cs01_8d9d19d5:
 
     # nv "Every Guide has their own method of teaching. But all our curriculum revolves around the workbook we get. It's the core of our teachings."
-    nv "每个向导都有自己的教学方法。但是所有课程都围绕着我们的练习册。这是我们教学的核心。"
+    nv "每个向导都有自己的教学方法。但是所有课程都围绕着我们的工作手册。这是我们教学的核心。"
 
 # game/code/Book-1/Chapter-6c/s01.rpy:38
 translate chinese b1c06cs01_53eb9833:
 
     # mc "You sound very knowledgeable in this. How far did you get before..."
-    mc "听起来你在这方面很有研究。你之前走了多远..."
+    mc "听起来你在这方面很有研究。你之前达到什么地步..."
 
 # game/code/Book-1/Chapter-6c/s01.rpy:41
 translate chinese b1c06cs01_760809bf:
@@ -160,7 +160,7 @@ translate chinese b1c06cs01_07f0cbf2:
 translate chinese b1c06cs01_c5cb329a:
 
     # nv "You're so inquisitive."
-    nv "你太好奇了。"
+    nv "你好奇心太强了。"
 
 # game/code/Book-1/Chapter-6c/s01.rpy:86
 translate chinese b1c06cs01_1f114879:
@@ -238,7 +238,7 @@ translate chinese b1c06cs01_ab09efa5:
 translate chinese b1c06cs01_f393607c:
 
     # mc "And I guess...I still have some authority issues from my dad."
-    mc "我猜...我仍然有一些来自我父亲的权威问题。"
+    mc "我觉得...我仍然有一些来自我父亲的权威问题。"
 
 # game/code/Book-1/Chapter-6c/s01.rpy:116
 translate chinese b1c06cs01_32c5ec6d:
@@ -382,13 +382,13 @@ translate chinese b1c06cs01_17d9efc8:
 translate chinese b1c06cs01_4e4ea5b0:
 
     # ij "Nia, come with me. I'll go over the workbook with you while Andre decides...what Guide to assign you."
-    ij "妮娅，跟我来。趁着安德烈决定...给你安排什么向导时，我和你一起复习一下工作手册。"
+    ij "妮娅，跟我来。趁着安杰斯决定...给你安排什么向导时，我和你一起复习一下工作手册。"
 
 # game/code/Book-1/Chapter-6c/s01.rpy:183
 translate chinese b1c06cs01_857af703:
 
     # ij "There are some pages we added since you last saw."
-    ij "自从你上次看到之后，我们又加了几页。"
+    ij "距离你上次看到工作手册，我们后来又加了几页。"
 
 # game/code/Book-1/Chapter-6c/s01.rpy:188
 translate chinese b1c06cs01_9107d984:
@@ -418,7 +418,7 @@ translate chinese b1c06cs01_5b6065b0:
 translate chinese b1c06cs01_689b5b9a:
 
     # mc "My...birthday?{w} Like, astrology?"
-    mc "我...生日吗？{w}你要看星座？"
+    mc "我的...生日？{w}你要看星座？"
 
 # game/code/Book-1/Chapter-6c/s01.rpy:210
 translate chinese b1c06cs01_b410ead0:
@@ -496,7 +496,7 @@ translate chinese b1c06cs01_c5659e07:
 translate chinese b1c06cs01_0a8bd05c:
 
     # mc "Is it good to be a seeker?"
-    mc "当探寻者好吗？"
+    mc "当追寻者好吗？"
 
 # game/code/Book-1/Chapter-6c/s01.rpy:284
 translate chinese b1c06cs01_811e152f:
@@ -520,7 +520,7 @@ translate chinese b1c06cs01_fdd3a3c7:
 translate chinese b1c06cs01_d17a52cd:
 
     # ad "For the record, being a seeker isn't a bad thing. But it can cause trouble."
-    ad "郑重声明，做一名探寻者并不是一件坏事。但这可能会带来麻烦。"
+    ad "郑重声明，做一名追寻者并不是一件坏事。但这可能会带来麻烦。"
 
 # game/code/Book-1/Chapter-6c/s01.rpy:295
 translate chinese b1c06cs01_822aa5c3:
@@ -532,7 +532,7 @@ translate chinese b1c06cs01_822aa5c3:
 translate chinese b1c06cs01_5a76cac6:
 
     # ad "Sometimes the truth is painful, and the seeker isn't ready to face it. This results in them running from their truths, rather than seeking it."
-    ad "有时真相是痛苦的，而寻求者还没有准备好面对它。这导致他们逃避真理，而不是寻求真理。"
+    ad "有时真相是痛苦的，而追寻者还没有准备好面对它。这导致他们逃避真理，而不是寻求真理。"
 
 # game/code/Book-1/Chapter-6c/s01.rpy:300
 translate chinese b1c06cs01_c710bd85:
@@ -772,7 +772,7 @@ translate chinese b1c06cs01_cebcd97b:
 translate chinese b1c06cs01_dd094651:
 
     # dk "One can only hope he can be enlightened, Andre."
-    dk "你说呢？我们只能希望他能开悟，安德烈。"
+    dk "你说呢？我们只能希望他能开悟，安杰斯。"
 
 # game/code/Book-1/Chapter-6c/s01.rpy:421
 translate chinese b1c06cs01_18a0cbcc:
