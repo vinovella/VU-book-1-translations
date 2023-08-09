@@ -22,7 +22,7 @@ translate chinese b1c06ws02_d03c4404:
 translate chinese b1c06ws02_b457a44c:
 
     # mct "Hm, must've been a draft."
-    mct "嗯，一定是征兵。"
+    mct "嗯，一定是风的缘故。"
 
 # game/code/Book-1/Chapter-6w/s02.rpy:66
 translate chinese b1c06ws02_d910965b:
@@ -154,7 +154,7 @@ translate chinese b1c06ws02_700e6051:
 translate chinese b1c06ws02_b03e192a:
 
     # sm "Hm? Yeah. Just...memories."
-    sm "嗯？没事，只是...回忆。"
+    sm "嗯？没事，只是...在回忆。"
 
 # game/code/Book-1/Chapter-6w/s02.rpy:137
 translate chinese b1c06ws02_2b6bfa8a:
@@ -202,7 +202,7 @@ translate chinese b1c06ws02_3f73edb9:
 translate chinese b1c06ws02_d5d06052:
 
     # sm "Sorry. I'm not trying to be inauthentic. I just don't want to be a downer."
-    sm "对不起。我不是想这样的。我只是不想让人扫兴。"
+    sm "对不起。我不想这样的。我只是不想让人扫兴。"
 
 # game/code/Book-1/Chapter-6w/s02.rpy:157
 translate chinese b1c06ws02_e152c1b6:
@@ -214,25 +214,25 @@ translate chinese b1c06ws02_e152c1b6:
 translate chinese b1c06ws02_58489072:
 
     # mc "And that's okay. Sometimes you just have to feel what you feel. Stopping that is only going to eat you up from the inside."
-    mc "没关系。有时候，你必须去感受你的感受。压抑自己的情绪只会你从内心深处被吞噬。"
+    mc "没关系。有时候，你必须去感受你的感受。压抑自己的情绪只会让你从内心深处被吞噬。"
 
 # game/code/Book-1/Chapter-6w/s02.rpy:161
 translate chinese b1c06ws02_6225c1d2:
 
     # mc "But...if you ever wanna talk. I'm here."
-    mc "但是...如果你想谈谈。我在这里。"
+    mc "但是...如果你想谈谈。我就在你身边。"
 
 # game/code/Book-1/Chapter-6w/s02.rpy:164
 translate chinese b1c06ws02_5f7b4f22:
 
     # sm "Thank you. I appreciate that."
-    sm "谢谢，我很感激。"
+    sm "谢谢你，我很感激。"
 
 # game/code/Book-1/Chapter-6w/s02.rpy:166
 translate chinese b1c06ws02_03c6ed35:
 
     # mct "She's so sweet..."
-    mct "她真好..."
+    mct "她真是太可爱了..."
 
 # game/code/Book-1/Chapter-6w/s02.rpy:168
 translate chinese b1c06ws02_f836b6d2:
@@ -292,7 +292,7 @@ translate chinese b1c06ws02_ed2b47ee:
 translate chinese b1c06ws02_a68aaee6:
 
     # mc "Is there no one else you could ask for help with? Maybe in the club?"
-    mc "也许在俱乐部里，你就没有其他可以求助的人吗？"
+    mc "你就没有其他可以求助的人吗？俱乐部里没有吗？"
 
 # game/code/Book-1/Chapter-6w/s02.rpy:195
 translate chinese b1c06ws02_dde068c0:
@@ -316,7 +316,7 @@ translate chinese b1c06ws02_8e01b62b:
 translate chinese b1c06ws02_1880b7bd:
 
     # sm "*Laughing* And I kinda feel bad! Like, he has asked me out so many times now and I've tried to let him down easy, but he just {i}cannot{/i} take a hint to save his life."
-    sm "*笑* 我有点受不了！他已经约我出去好多次了，我也想让他轻松点，可他就是{i}不懂{/i}我的暗示，不会挽救他的生命。"
+    sm "*笑* 我有点不太好受！他已经约我出去好多次了，我也想温柔地拒绝他，可他就是{i}不懂{/i}我的暗示。"
 
 # game/code/Book-1/Chapter-6w/s02.rpy:205
 translate chinese b1c06ws02_dd88904b:
@@ -328,7 +328,7 @@ translate chinese b1c06ws02_dd88904b:
 translate chinese b1c06ws02_c3f45591:
 
     # mc "*Laughing* I absolutely get it. He's like a dog that just keeps humping your leg."
-    mc "*笑* 我完全明白。他就像一只狗，不停地拱你的腿。"
+    mc "*笑* 我完全明白。他就像一条小狗，不停地拱你的腿。"
 
 # game/code/Book-1/Chapter-6w/s02.rpy:211
 translate chinese b1c06ws02_0916d60d:
@@ -352,7 +352,7 @@ translate chinese b1c06ws02_f46ba39e:
 translate chinese b1c06ws02_398e1b45:
 
     # sm "You would? Thank you so much! I'd really appreciate that."
-    sm "你愿意？太谢谢你了！我真的很感激。"
+    sm "你愿意？太谢谢你了！那样我真的很感激。"
 
 # game/code/Book-1/Chapter-6w/s02.rpy:221
 translate chinese b1c06ws02_18714b7a:
