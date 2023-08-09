@@ -58,7 +58,7 @@ translate chinese b1c06ws05_d06864f3:
 translate chinese b1c06ws05_cdf840f5:
 
     # "{i}It expands universally,{/i}"
-    "{i}这份爱扩展到全世界，{i}"
+    "{i}这份爱扩展到全世界{i}"
 
 # game/code/Book-1/Chapter-6w/s05.rpy:59
 translate chinese b1c06ws05_e6c39122:
