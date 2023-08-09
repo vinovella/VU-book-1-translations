@@ -37,3 +37,7 @@ translate spanish strings:
     # game/code/screens/inv_board.rpy:193
     old "[i.desc!t]"
     new "[i.desc!t]"
+
+    # game/code/screens/inv_board.rpy:155
+    old "Name : [i.full_name!t]"
+    new "Nombre : [i.full_name!t]"
