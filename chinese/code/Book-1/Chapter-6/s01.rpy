@@ -130,13 +130,13 @@ translate chinese b1c06s01_call_rh_3dcec546:
 translate chinese b1c06s01_call_rh_e73a196b:
 
     # mct "I'd rather risk pissing off Diana. She won't jeopardize the case regardless of this bet."
-    mct "我宁愿冒着惹怒戴安娜的风险。不管这个赌注是什么，她不会危害到整个案子。 。"
+    mct "我宁愿冒着惹怒戴安娜的风险。不管这个赌注是什么，她不会危害到整个案子。 "
 
 # game/code/Book-1/Chapter-6/s01.rpy:123
 translate chinese b1c06s01_call_rh_93cb18bd:
 
     # mct "Though hopefully this is just a small thing and won't piss off either woman."
-    mct "Though hopefully this is just a small thing and won't piss off either woman."
+    mct "不过希望只是一件小事，不会惹恼任何一个女人。"
 
 # game/code/Book-1/Chapter-6/s01.rpy:127
 translate chinese b1c06s01_call_rh_46a90d7a:
@@ -226,7 +226,7 @@ translate chinese b1c06s01_call_rh_8fd8bcf4:
 translate chinese b1c06s01_call_rh_3b65cc01:
 
     # mc "*chuckles* Sure thing, Lara."
-    mc "*咯咯笑* *没问题，劳拉。"
+    mc "*咯咯笑* 没问题，劳拉。"
 
 # game/code/Book-1/Chapter-6/s01.rpy:169
 translate chinese b1c06s01_call_rh_5fdc0b04:
@@ -346,7 +346,7 @@ translate chinese b1c06s01_call_rh_315153fc:
 translate chinese b1c06s01_call_rh_b4e2e6e0:
 
     # rh "Ah! Yes! Spank me."
-    rh "啊！好爽！打我吧。"
+    rh "啊！好爽！打我。"
 
 # game/code/Book-1/Chapter-6/s01.rpy:279
 translate chinese b1c06s01_call_rh_ed96df52:
@@ -406,7 +406,7 @@ translate chinese b1c06s01_call_rh_91cdf410:
 translate chinese b1c06s01_call_rh_25b7f467:
 
     # "You slam your cock into Ronja, greedily sinking yourself as deep into her as her body allows."
-    "你把鸡巴猛插进荣佳下体，在她身体允许的范围内贪婪地把自己深陷进去。"
+    "你把鸡巴猛插进荣佳下体，在她身体允许的范围内贪婪地把自己深深送进去。"
 
 # game/code/Book-1/Chapter-6/s01.rpy:318
 translate chinese b1c06s01_call_rh_bfd19072:
@@ -424,7 +424,7 @@ translate chinese b1c06s01_call_rh_c88a7121:
 translate chinese b1c06s01_call_rh_a9eeeb8f:
 
     # "But this leaves her mouth woefully empty, and her whimpers grow louder."
-    "但这让她的嘴巴空空如也，她的呜咽声越来越大。"
+    "但这让她的嘴巴极度空虚，她的呜咽声越来越大。"
 
 # game/code/Book-1/Chapter-6/s01.rpy:332
 translate chinese b1c06s01_call_rh_7acdf925:
@@ -442,7 +442,7 @@ translate chinese b1c06s01_call_rh_ab2160b6:
 translate chinese b1c06s01_call_rh_294ffb70:
 
     # rh "(Come to my office NOW.)"
-    rh "(现在，到我办公室来。)"
+    rh "(到我办公室来，就现在。)"
 
 # game/code/Book-1/Chapter-6/s01.rpy:344
 translate chinese b1c06s01_call_rh_177d3eb2:
@@ -478,7 +478,7 @@ translate chinese b1c06s01_call_rh_ac8f4e4b:
 translate chinese b1c06s01_call_rh_e1a8dd71:
 
     # "Ronja's moans are quieter because of the ball gag, but still incessant, greedy, and lustful."
-    "因为嘴里的球塞，容佳的呻吟变得小声了，但仍然绵延不断，贪婪而淫荡。"
+    "因为嘴里的球塞，容佳的呻吟变得小声了，但仍破碎地浪叫着，贪婪而淫荡。"
 
 # game/code/Book-1/Chapter-6/s01.rpy:367
 translate chinese b1c06s01_call_rh_63efb360:
@@ -496,7 +496,7 @@ translate chinese b1c06s01_call_rh_fb5f4aee:
 translate chinese b1c06s01_call_rh_460d930b:
 
     # "Ronja cums on your cock as you continue fucking her. Her folds convulse around you, wanting everything you have to give."
-    "当你继续干她时，朗嘉射在了你的鸡巴上。她紧致的小穴不停抽动着，迎接你给的快感。"
+    "当你继续干她时，荣佳射在了你的鸡巴上。她紧致的小穴不停抽动着，渴求着你的一切。"
 
 # game/code/Book-1/Chapter-6/s01.rpy:374
 translate chinese b1c06s01_call_rh_c52267b9:
@@ -658,7 +658,7 @@ translate chinese b1c06s01_call_rh_ff276b04:
 translate chinese b1c06s01_call_rh_7806a304:
 
     # mc "Okay, I'll see you later."
-    mc "好吧，待会儿见。"
+    mc "好吧，回头见。"
 
 # game/code/Book-1/Chapter-6/s01.rpy:468
 translate chinese b1c06s01_no_call_2201b1b8:
@@ -700,7 +700,7 @@ translate chinese b1c06s01_no_call_27874b45:
 translate chinese b1c06s01_no_call_4b73aa25:
 
     # mc "*chuckles* Not this time."
-    mc "*咯咯笑* 这次你听不到了。"
+    mc "*咯咯笑* 你不会如愿了。"
 
 # game/code/Book-1/Chapter-6/s01.rpy:486
 translate chinese b1c06s01_no_call_86db608a:
