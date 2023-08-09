@@ -10,7 +10,7 @@ translate chinese b1c06ws04_d3992207:
 translate chinese b1c06ws04_ec2b0174:
 
     # mc "Really? We got whipped. We didn't win."
-    mc "真的吗？我们被打败了。没能赢。"
+    mc "你认真的？我们被打败了。没能赢。"
 
 # game/code/Book-1/Chapter-6w/s04.rpy:23
 translate chinese b1c06ws04_6985cfb6:
@@ -52,13 +52,13 @@ translate chinese b1c06ws04_2f993ac7:
 translate chinese b1c06ws04_061b4b6e:
 
     # sm "So...why don't you come in? Brig throws the best victory parties. She loves to gloat."
-    sm "那么...你为什么不进来呢？布吉塔会举办最棒的庆功宴。她喜欢幸灾乐祸。"
+    sm "那...你为什么不进来呢？布吉塔会举办最棒的庆功宴。她很喜欢吹牛的。"
 
 # game/code/Book-1/Chapter-6w/s04.rpy:40
 translate chinese b1c06ws04_34af8967:
 
     # mc "*chuckles* I can only imagine."
-    mc "*咯咯笑* 我只能想象。"
+    mc "*咯咯笑* 我想也是。"
 
 # game/code/Book-1/Chapter-6w/s04.rpy:42
 translate chinese b1c06ws04_012952be:
@@ -268,7 +268,7 @@ translate chinese b1c06ws04_88335711:
 translate chinese b1c06ws04_65d6f799:
 
     # sm "Outside the mansion, they're the sons and daughters of important people, or are the product of some popularity stunt."
-    sm "在豪宅之外，他们要么是大人物的儿女，要么是一些人气噱头的产物。。"
+    sm "在豪宅之外，他们要么是大人物的儿女，要么是一些令人艳羡的成就的产物，可以说他们很受欢迎。"
 
 # game/code/Book-1/Chapter-6w/s04.rpy:166
 translate chinese b1c06ws04_1472ab9f:
@@ -286,7 +286,7 @@ translate chinese b1c06ws04_0f77c7dc:
 translate chinese b1c06ws04_ef33c18e:
 
     # sm "*sigh* It doesn't help that we've had problems with stalkers in the past. So some of the members are pretty picky about who they let close."
-    sm "*叹气* 过去我们遇到过跟踪者的问题。所以有些成员在选择让谁加入时非常挑剔。"
+    sm "*叹气* 事实上，我们过去曾遇到过被骚扰的问题。所以有些成员在选择让谁加入时非常挑剔。"
 
 # game/code/Book-1/Chapter-6w/s04.rpy:172
 translate chinese b1c06ws04_d4b48b87:
@@ -316,7 +316,7 @@ translate chinese b1c06ws04_ed568a10:
 translate chinese b1c06ws04_a82e9960:
 
     # mc "Well, Brig was nicer about giving me the boot than my dad was when I told him I was bi."
-    mc "嗯，比起我爸知道我是双性恋时把我赶出去，布吉塔倒算是友善的。"
+    mc "嗯，相比我爸知道我是双性恋时把我赶出去，布吉塔倒算是友善的。"
 
 # game/code/Book-1/Chapter-6w/s04.rpy:190
 translate chinese b1c06ws04_7a9a4d21:
@@ -358,7 +358,7 @@ translate chinese b1c06ws04_88335711_1:
 translate chinese b1c06ws04_65d6f799_1:
 
     # sm "Outside the mansion, they're the sons and daughters of important people, or are the product of some popularity stunt."
-    sm "在豪宅之外，他们要么是大人物的儿女，要么是一些人气噱头的产物。"
+    sm "在豪宅之外，他们要么是大人物的儿女，要么是一些令人艳羡的成就的产物，可以说他们很受欢迎。"
 
 # game/code/Book-1/Chapter-6w/s04.rpy:202
 translate chinese b1c06ws04_1472ab9f_1:
@@ -376,7 +376,7 @@ translate chinese b1c06ws04_0f77c7dc_1:
 translate chinese b1c06ws04_ef33c18e_1:
 
     # sm "*sigh* It doesn't help that we've had problems with stalkers in the past. So some of the members are pretty picky about who they let close."
-    sm "*叹气* 过去我们遇到过跟踪者的问题。所以有些成员在让谁加入时非常挑剔。"
+    sm "*叹气* 事实上，我们过去曾遇到过被骚扰的问题。所以有些成员在选择让谁加入时非常挑剔。"
 
 # game/code/Book-1/Chapter-6w/s04.rpy:211
 translate chinese b1c06ws04_1fc14caf:
@@ -436,7 +436,7 @@ translate chinese b1c06ws04_88335711_2:
 translate chinese b1c06ws04_65d6f799_2:
 
     # sm "Outside the mansion, they're the sons and daughters of important people, or are the product of some popularity stunt."
-    sm "在豪宅之外，他们要么是大人物的儿女，要么是一些人气噱头的产物。"
+    sm "在豪宅之外，他们要么是大人物的儿女，要么是一些令人艳羡的成就的产物，可以说他们很受欢迎。"
 
 # game/code/Book-1/Chapter-6w/s04.rpy:238
 translate chinese b1c06ws04_1472ab9f_2:
@@ -454,7 +454,7 @@ translate chinese b1c06ws04_de41ee75:
 translate chinese b1c06ws04_ef33c18e_2:
 
     # sm "*sigh* It doesn't help that we've had problems with stalkers in the past. So some of the members are pretty picky about who they let close."
-    sm "*叹气* 过去我们遇到过跟踪者的问题。所以有些成员在选择让谁加入时非常挑剔。"
+    sm "*叹气* 事实上，我们过去曾遇到过被骚扰的问题。所以有些成员在选择让谁加入时非常挑剔。"
 
 # game/code/Book-1/Chapter-6w/s04.rpy:247
 translate chinese b1c06ws04_a5818e88:
@@ -604,7 +604,7 @@ translate chinese b1c06ws04_14311342:
 translate chinese b1c06ws04_e69ef931:
 
     # mct "And she also must be one of the stalkers Silvia was talking about. Ironic."
-    mct "她也一定是西尔维娅所说的跟踪者之一。真讽刺。"
+    mct "她也一定是西尔维娅所说的骚扰者之一。真讽刺。"
 
 # game/code/Book-1/Chapter-6w/s04.rpy:321
 translate chinese b1c06ws04_memory_cloud_26f1f8a4:
@@ -628,7 +628,7 @@ translate chinese b1c06ws04_memory_cloud_c9e24025:
 translate chinese b1c06ws04_memory_cloud_ef33c18e:
 
     # sm "*sigh* It doesn't help that we've had problems with stalkers in the past. So some of the members are pretty picky about who they let close."
-    sm "*叹气* 过去我们遇到过跟踪者的问题。所以有些成员在选择让谁加入时非常挑剔。"
+    sm "*叹气* 事实上，我们过去曾遇到过被骚扰的问题。所以有些成员在选择让谁加入时非常挑剔。"
 
 # game/code/Book-1/Chapter-6w/s04.rpy:350
 translate chinese b1c06ws04_continue_cadea0df:
