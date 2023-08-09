@@ -136,7 +136,7 @@ translate spanish b1c07s01_after_variables_f071cf87:
 translate spanish b1c07s01_after_variables_316088af:
 
     # lw "...Just, lots of stuff on my mind."
-    lw "... Sólo, un montón de cosas en mi mente."
+    lw "... Sólo, un montón de cosas en mi cabeza."
 
 # game/code/Book-1/Chapter-7/s01.rpy:160
 translate spanish b1c07s01_after_variables_14e97ac9:

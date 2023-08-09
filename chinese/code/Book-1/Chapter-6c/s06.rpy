@@ -10,7 +10,7 @@ translate chinese b1c06cs06_57098f05:
 translate chinese b1c06cs06_a33bf603:
 
     # nv "Hey! I'm happy you're here. How are you?"
-    nv "嘿！你能来真好。你好吗？"
+    nv "嘿！你能来真好。近来好吗？"
 
 # game/code/Book-1/Chapter-6c/s06.rpy:21
 translate chinese b1c06cs06_34cd6e17:
@@ -238,7 +238,7 @@ translate chinese b1c06cs06_d480f489:
 translate chinese b1c06cs06_93a19714:
 
     # mct "I hope Delphia wasn't kidding about speedrunning me through the guiding process. Seven months for a lower ranking member is a long time."
-    mct "德尔菲娅说让我快速完成指导过程，希望她不是在开玩笑。对级别较低的成员来7个月实在太久了。"
+    mct "德尔菲娅说让我快速完成指导过程，希望她不是在开玩笑。对级别较低的成员来说，7个月实在太久了。"
 
 # game/code/Book-1/Chapter-6c/s06.rpy:172
 translate chinese b1c06cs06_124cf702:
@@ -316,7 +316,7 @@ translate chinese b1c06cs06_03406c63:
 translate chinese b1c06cs06_2d457f08:
 
     # nv "It's just how we do it. It's a way to create intimacy and vulnerability in our little community."
-    nv "我们就是这么做的。只是一种在我们这个小社区创造亲密感和脆弱感的方式。"
+    nv "我们一向是这么做的。只是一种在我们这个小社区创造亲密感和脆弱感的方式。"
 
 # game/code/Book-1/Chapter-6c/s06.rpy:233
 translate chinese b1c06cs06_19f0c970:
@@ -466,13 +466,13 @@ translate chinese b1c06cs06_74ae239a:
 translate chinese b1c06cs06_18ee0a3b:
 
     # ad "This is our glorious Delphia Kato. She's an intermediate ranking member, someone who's evolved enough to guide others on their journeys."
-    ad "这位是我们荣耀的德尔菲娅·加藤。她是中级成员，的，已经进化到足以指导他人的地步。"
+    ad "这位是我们伟大的德尔菲娅·加藤。她是中级成员，她的灵魂已经进化到足以指导他人的程度。"
 
 # game/code/Book-1/Chapter-6c/s06.rpy:337
 translate chinese b1c06cs06_2d02b08a:
 
     # ad "Delphia, would you like to do the honors of explaining our path to enlightenment?"
-    ad "德尔菲娅，能请你代劳解释一下我们对新人的教化吗。"
+    ad "德尔菲娅，能请你代劳解释一下我们对新人的教化吗？"
 
 # game/code/Book-1/Chapter-6c/s06.rpy:340
 translate chinese b1c06cs06_e53c16d2:
@@ -490,7 +490,7 @@ translate chinese b1c06cs06_13f156b8:
 translate chinese b1c06cs06_5907c5b8:
 
     # dk "For me, my higher rank looks like more self-confidence, a certain comfort in my skin that I haven't felt before."
-    dk "对我来我的等级越高，看起来就越自信，有一种从未有过的舒适感。"
+    dk "对我来说，我的等级越高，看起来就越自信，还有一种从未有过的舒适感。"
 
 # game/code/Book-1/Chapter-6c/s06.rpy:347
 translate chinese b1c06cs06_b5f6e8f3:
@@ -1060,7 +1060,7 @@ translate chinese b1c06cs06_d5f2eef2:
 translate chinese b1c06cs06_082dd33c:
 
     # ad "Now that you're all acquainted, feel free to speak with each other, my fellow souls."
-    ad "既然你们都认识了，我的同胞们，请随意地彼此交谈吧。"
+    ad "既然你们都互相认识了，我的同胞们，请随意地彼此交谈吧。"
 
 # game/code/Book-1/Chapter-6c/s06.rpy:693
 translate chinese b1c06cs06_861485e9:

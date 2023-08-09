@@ -128,7 +128,7 @@ translate spanish strings:
 
     # game/code/hints.rpy:5
     old "Zemfira appreciates you taking action. +1 points with Zemfira."
-    new "Zemfira agradece que tome medidas. +1 puntos con Zemfira."
+    new "Zemfira agradece que tome medidas. +1 punto con Zemfira."
 
     # game/code/hints.rpy:5
     old "Zemfira thinks you're mocking the situation, and handles Morgan herself. 0 points with Zemfira. But Morgan thinks you're funny. +1 point with Morgan."
@@ -148,11 +148,11 @@ translate spanish strings:
 
     # game/code/hints.rpy:5
     old "Choose to investigate Morgan's lead."
-    new "Elige investigar la pista de Morgan."
+    new "Eliges investigar la pista de Morgan."
 
     # game/code/hints.rpy:5
     old "Choose to investigate Corinne's lead."
-    new "Elige investigar la pista de Corinne."
+    new "Eliges investigar la pista de Corinne."
 
     # game/code/hints.rpy:5
     old "Go back to Fleur's dorm for some fun. +1 point with Fleur."
@@ -160,7 +160,7 @@ translate spanish strings:
 
     # game/code/hints.rpy:5
     old "Leave without Fleur and go home. 0 points with Fleur."
-    new "Vete sin Fleur y vete a casa. 0 puntos con Fleur."
+    new "Vete a casa sin Fleur. 0 puntos con Fleur."
 
     # game/code/hints.rpy:5
     old "You go bouldering with Josie and Lara at a later date."
@@ -268,15 +268,15 @@ translate spanish strings:
 
     # game/code/hints.rpy:5
     old "Nia is flustered by your words. She feels truly seen and understood. +1pts with Nia."
-    new "Nia está nerviosa por tus palabras. Se siente verdaderamente vista y comprendida. +1 punto con Nia."
+    new "Nia está nerviosa por tus palabras. Se siente realmente vista y comprendida. +1 punto con Nia."
 
     # game/code/hints.rpy:5
     old "Nia thinks you're joking and tries to refocus you on the topic at hand. 0pts with Nia."
-    new "Nia cree que estás bromeando y trata de reenfocarte en el tema en cuestión. 0pts con Nia."
+    new "Nia cree que estás bromeando e intenta centrarte de nuevo en el tema en discusión. 0 punto con Nia."
 
     # game/code/hints.rpy:5
     old "Nia feels a little embarrassed because she doesn't view herself this way at all. 0pts with Nia."
-    new "Nia se siente un poco avergonzada porque no se ve así misma en absoluto. 0pts con Nia."
+    new "Nia se siente un poco avergonzada porque no se ve así en absoluto. 0 punto con Nia."
 
     # game/code/hints.rpy:5
     old "You join the group hug."
@@ -312,7 +312,7 @@ translate spanish strings:
 
     # game/code/hints.rpy:5
     old "You come up with an excuse to tell Irene."
-    new "Inventas una excusa para decírselo a Irene."
+    new "Te inventas una excusa para decírsela a Irene."
 
     # game/code/hints.rpy:5
     old "You seduce Irene."
@@ -324,11 +324,11 @@ translate spanish strings:
 
     # game/code/hints.rpy:5
     old "Don't fuck Irene."
-    new "No jodas a Irene."
+    new "No te folles a Irene."
 
     # game/code/hints.rpy:5
     old "Cum in Ezra's mouth."
-    new "Corrida en la boca de Ezra."
+    new "Semen en la boca de Ezra."
 
     # game/code/hints.rpy:5
     old "Cum on Ezra's face."
@@ -417,15 +417,3 @@ translate spanish strings:
     # game/code/hints.rpy:5
     old "No hints available."
     new "No hay pistas disponibles."
-
-    # game/code/hints.rpy:5
-    old "Silvia doesn't like MC badmouthing the team."
-    new "Silvia doesn't like MC badmouthing the team."
-
-    # game/code/hints.rpy:5
-    old "MC cracks a joke, but it doesn't make Silvia feel better."
-    new "MC cracks a joke, but it doesn't make Silvia feel better."
-
-    # game/code/hints.rpy:5
-    old "Silvia appreciates MC's honesty and vulnerability. You get +1 point for Silvia"
-    new "Silvia appreciates MC's honesty and vulnerability. You get +1 point for Silvia"
