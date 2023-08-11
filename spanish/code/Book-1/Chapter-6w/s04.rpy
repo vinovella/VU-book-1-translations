@@ -469,10 +469,10 @@ translate spanish b1c06ws04_216f6332:
     mc "Aunque estoy decepcionado, todavía no me aceptan aquí."
 
 # game/code/Book-1/Chapter-6w/s04.rpy:251
-translate spanish b1c06ws04_e0ed0b4c:
+translate spanish b1c06ws04_9a9e96d2:
 
-    # sm "You will be! I promise. Iona and Oleysa like you fine."
-    sm "¡Serás aceptado! Lo prometo. A Iona y Oleysa le caes bien."
+    # sm "You will be! I promise. Iona and Olesya like you fine."
+    sm "¡Serás aceptado! Lo prometo. A Iona y Olesya le caes bien."
 
 # game/code/Book-1/Chapter-6w/s04.rpy:252
 translate spanish b1c06ws04_5c2ebc47:

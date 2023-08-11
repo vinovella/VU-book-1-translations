@@ -457,10 +457,10 @@ translate spanish b1c06ws03_65b50b30:
     "Empieza el segundo set y Brigitta saca primero. Sus servicios son fuertes pero fáciles de predecir, y has estado analizando sus patrones durante todo el juego."
 
 # game/code/Book-1/Chapter-6w/s03.rpy:308
-translate spanish b1c06ws03_59c6a256:
+translate spanish b1c06ws03_72bd82fd:
 
-    # "You catch Brigitta's serve and pass the ball to Oleysa, who passes it to Iona."
-    "Atrapas el saque de Brigitta y le pasas el balón a Oleysa, quien se lo pasa a Iona."
+    # "You catch Brigitta's serve and pass the ball to Olesya, who passes it to Iona."
+    "Atrapas el saque de Brigitta y le pasas el balón a Olesya, quien se lo pasa a Iona."
 
 # game/code/Book-1/Chapter-6w/s03.rpy:311
 translate spanish b1c06ws03_f91ee99e:
