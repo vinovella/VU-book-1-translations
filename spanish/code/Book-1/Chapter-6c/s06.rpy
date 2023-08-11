@@ -1492,9 +1492,9 @@ translate spanish strings:
 
     # game/code/Book-1/Chapter-6c/s06.rpy:512
     old "Respond supportively"
-    new "Responder con apoyo"
+    new "Responder de manera solidaria"
 
     # game/code/Book-1/Chapter-6c/s06.rpy:512
     old "Hug Nia"
-    new "Abraza a nia"
+    new "Abraza a Nia"
 
