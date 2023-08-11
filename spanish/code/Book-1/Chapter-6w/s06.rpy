@@ -154,7 +154,7 @@ translate spanish b1c06ws06_continue_e0f3c5a5:
 translate spanish b1c06ws06_continue_4efa6e3b:
 
     # mc "Just taking some photos of the real you."
-    mc "lo tomando algunas fotos de tu verdadero yo."
+    mc "Sólo tomando algunas fotos de tu verdadero yo."
 
 # game/code/Book-1/Chapter-6w/s06.rpy:143
 translate spanish b1c06ws06_continue_4d73e19b:
@@ -304,7 +304,7 @@ translate spanish b1c06ws06_continue_1d76a60d:
 translate spanish b1c06ws06_continue_1ef9e5ad:
 
     # mc "Did the man on the moon tell you a joke?"
-    mc "¿El hombre en la luna te contó un chiste?"
+    mc "¿Te ha contado un chiste el hombre de la Luna?"
 
 # game/code/Book-1/Chapter-6w/s06.rpy:383
 translate spanish b1c06ws06_continue_bfeafebb:
