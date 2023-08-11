@@ -469,10 +469,10 @@ translate spanish b1c06ws04_216f6332:
     mc "Aunque estoy decepcionado, todavía no me aceptan aquí."
 
 # game/code/Book-1/Chapter-6w/s04.rpy:251
-translate spanish b1c06ws04_9a9e96d2:
+translate spanish b1c06ws04_e0ed0b4c:
 
-    # sm "You will be! I promise. Iona and Olesya like you fine."
-    sm "¡Serás aceptado! Lo prometo. A Iona y Olesya le caes bien."
+    # sm "You will be! I promise. Iona and Oleysa like you fine."
+    sm "¡Serás aceptado! Lo prometo. A Iona y Oleysa le caes bien."
 
 # game/code/Book-1/Chapter-6w/s04.rpy:252
 translate spanish b1c06ws04_5c2ebc47:
@@ -676,7 +676,7 @@ translate spanish b1c06ws04_continue_594ec740:
 translate spanish b1c06ws04_continue_68fa01f7:
 
     # mc "I can tell."
-    mc "Puedo decir."
+    mc "Me doy cuenta."
 
 # game/code/Book-1/Chapter-6w/s04.rpy:365
 translate spanish b1c06ws04_continue_df168078:
@@ -778,7 +778,7 @@ translate spanish b1c06ws04_continue_8ca3d167:
 translate spanish b1c06ws04_continue_cb0b3435:
 
     # sdl "You won't get anywhere without inside knowledge."
-    sdl "No llegará a ninguna parte sin conocimiento interno."
+    sdl "No llegarás a ninguna parte sin conocimiento interno."
 
 # game/code/Book-1/Chapter-6w/s04.rpy:419
 translate spanish b1c06ws04_continue_8d4a0d8a:
@@ -862,7 +862,7 @@ translate spanish b1c06ws04_continue_933b8083:
 translate spanish b1c06ws04_continue_b402e112:
 
     # sdl "The way I see it, you couldn't get in {i}without{/i} me."
-    sdl "A mi modo de ver, no podrías entrar {i}sin{/i} mí."
+    sdl "A mi modo de ver, no podrás entrar {i}sin{/i} mí."
 
 # game/code/Book-1/Chapter-6w/s04.rpy:450
 translate spanish b1c06ws04_continue_ed8459c7:
@@ -983,3 +983,4 @@ translate spanish strings:
     # game/code/Book-1/Chapter-6w/s04.rpy:306
     old "Remember about Sam"
     new "Recuerda a Sam"
+
