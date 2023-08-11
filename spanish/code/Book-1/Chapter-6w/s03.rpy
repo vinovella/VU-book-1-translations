@@ -118,7 +118,7 @@ translate spanish b1c06ws03_fc3d85f3:
 translate spanish b1c06ws03_4761a99c:
 
     # ba "Don't you dare, don't you fucking {i}{b}dare{/b}{/i} speak to me about camaraderie. You don't know jackshit about teamwork or what it takes to be {i}{b}here.{/b}{/i}"
-    ba "{i}No te atrevas{/b}{/i}, a hablarme de camaradería. No sabes una mierda sobre el trabajo en equipo o lo que se necesita para estar {i}{b}aquí.{/b}{/i}"
+    ba "{i}{b}No te atrevas{/b}{/i}, a hablarme de camaradería. No sabes una mierda sobre el trabajo en equipo o lo que se necesita para estar {i}{b}aquí.{/b}{/i}"
 
 # game/code/Book-1/Chapter-6w/s03.rpy:86
 translate spanish b1c06ws03_a7f97183:
@@ -629,4 +629,3 @@ translate spanish b1c06ws03_b99ec9dd:
 
     # mc "Still had to get help from your team."
     mc "Aún así tuviste que pedir ayuda a tu equipo."
-
