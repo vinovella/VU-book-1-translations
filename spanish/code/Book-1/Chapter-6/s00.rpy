@@ -34,7 +34,7 @@ translate spanish b1c06_start_fecc2e73:
 translate spanish b1c06_no_transition_8d65ef99:
 
     # mct "I had some pretty good days with the team recently.{w} Well, some of them anyway."
-    mct "Tuve algunos días bastante buenos con el equipo recientemente. {w} Bueno, algunos de todos modos."
+    mct "Tuve algunos días bastante buenos con el equipo. Bueno, al menos algunos de ellos."
 
 # game/code/Book-1/Chapter-6/s00.rpy:145
 translate spanish b1c06_no_transition_c89cc400:
