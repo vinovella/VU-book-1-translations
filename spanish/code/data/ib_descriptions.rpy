@@ -4,7 +4,7 @@ translate spanish strings:
 
     # game/code/data/ib_descriptions.rpy:2
     old "The group that Klara was involved with. A prestigious and exclusive fraternity of rich and/or famous kids."
-    new "El grupo en el que estaba involucrada Klara. Una cofradía prestigiosa y exclusiva de niños ricos y/o famosos."
+    new "El grupo en el que participaba Klara. Una prestigiosa y exclusiva fraternidad de chicos ricos y/o famosos."
 
     # game/code/data/ib_descriptions.rpy:2
     old "The three girls went missing at one of their private parties."
@@ -36,15 +36,15 @@ translate spanish strings:
 
     # game/code/data/ib_descriptions.rpy:2
     old "Went missing February 15th during the Winner's Club party"
-    new "Desapareció el 15 de febrero durante la fiesta del Club de Ganadores"
+    new "Desapareció el 15 de febrero durante la fiesta del Club de Ganadores."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Used to be Nia's Guide."
-    new "Solía ​​ser la guía de Nia."
+    new "Solía ​​ser la Guía de Nia."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Modeled for the artist."
-    new "Modelado para el artista."
+    new "Modeló para el artista."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Maria was a substantial member of the inner circle in the self-help group."
@@ -64,23 +64,23 @@ translate spanish strings:
 
     # game/code/data/ib_descriptions.rpy:2
     old "Involved with the Winner's Club"
-    new "Involucrado con el Club de Ganadores"
+    new "Involucrada con el Club de Ganadores."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Got mentoring from Diana Mills."
-    new "Obtuve la tutoría de Diana Mills."
+    new "Obtuvo tutoría de Diana Mills."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Captain of the volleyball team."
-    new "Capitán del equipo de voleibol."
+    new "Capitana del equipo de voleibol."
 
     # game/code/data/ib_descriptions.rpy:2
     old "A friend of Klara."
-    new "Un amigo de Klara."
+    new "Amiga de Klara."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Orphaned. Was involved with a bad crowd."
-    new "Huérfano. Estuvo involucrado con mala gente."
+    new "Huérfana. Estuvo involucrada con gente mala."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Took over Klara's responsibilities in the volleyball team."
@@ -88,7 +88,7 @@ translate spanish strings:
 
     # game/code/data/ib_descriptions.rpy:2
     old "Simon has asked her out multiple times."
-    new "Simon la ha invitado a salir varias veces."
+    new "Simón la ha invitado a salir varias veces."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Does not have enough power within the Winner's Club to allow outsiders to come in or choose new candidates."
@@ -96,7 +96,7 @@ translate spanish strings:
 
     # game/code/data/ib_descriptions.rpy:2
     old "Andrejz and Silvia used to date."
-    new "Andrejz y Silvia solían salir juntos."
+    new "Andrejz y Silvia solían ser pareja."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Silvia has a past that she's not entirely comfortable discussing. She used to be part of the self-help group and dated Andrejz."
@@ -104,11 +104,11 @@ translate spanish strings:
 
     # game/code/data/ib_descriptions.rpy:2
     old "A friend of Leia."
-    new "Un amigo de Leia."
+    new "Amiga de Leia."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Friends with Simon."
-    new "Amigos con Simón."
+    new "Amiga de Simon."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Attends the shooting range often."
@@ -120,7 +120,7 @@ translate spanish strings:
 
     # game/code/data/ib_descriptions.rpy:2
     old "Took over Leia's responsibilities within a secret PVP community."
-    new "Asumió las responsabilidades de Leia dentro de una comunidad secreta de JcJ."
+    new "Asumió las responsabilidades de Leia dentro de una comunidad secreta de Jugadores contra Jugadores."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Has high enough clearance to enter the Guns n' Rosette bar through the employee only door."
@@ -136,19 +136,19 @@ translate spanish strings:
 
     # game/code/data/ib_descriptions.rpy:2
     old "A friend of Maria."
-    new "Un amigo de María."
+    new "Amiga de María."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Interested in tattoos and art. Dislikes her major."
-    new "Le interesan los tatuajes y el arte. No le gusta su especialidad."
+    new "Le interesan los tatuajes y el arte. No le gusta su carrera."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Part of a self-help group."
-    new "Parte de un grupo de autoayuda."
+    new "Forma parte del grupo de autoayuda."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Close friends with Maria."
-    new "Amigos cercanos de María."
+    new "Amiga íntima de María."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Has a forceful brother named Xasan."
@@ -156,11 +156,11 @@ translate spanish strings:
 
     # game/code/data/ib_descriptions.rpy:2
     old "Part of an inner circle within the self-help group."
-    new "Parte de un círculo interno dentro del grupo de autoayuda."
+    new "Forma parte de un círculo interno dentro del grupo de autoayuda."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Good friends with Delphia."
-    new "Buenas amigas de Delphia."
+    new "Buena amiga de Delphia."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Nia seems to have been severely affected by Maria's disappearance."
@@ -172,7 +172,7 @@ translate spanish strings:
 
     # game/code/data/ib_descriptions.rpy:2
     old "Theater actor. Knows Nia."
-    new "Actor de teatro. Conoce a Nía."
+    new "Actriz de teatro. Conoce a Nía."
 
     # game/code/data/ib_descriptions.rpy:2
     old "She is the guide of Nia and me."
@@ -184,11 +184,11 @@ translate spanish strings:
 
     # game/code/data/ib_descriptions.rpy:2
     old "Friends with Zemfira."
-    new "Amigos con Zemfira."
+    new "Amigo de Zemfira."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Simon has asked Silvia out multiple times."
-    new "Simon le ha pedido salir a Silvia varias veces."
+    new "Simón le ha pedido a Silvia salir varias veces."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Knows my real name."
@@ -196,11 +196,11 @@ translate spanish strings:
 
     # game/code/data/ib_descriptions.rpy:2
     old "My roommate."
-    new "mi compañero de cuarto"
+    new "Es mi compañera de cuarto"
 
     # game/code/data/ib_descriptions.rpy:2
     old "Transgender"
-    new "Transgénero"
+    new "Transgénero."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Josie sleepwalks."
@@ -208,11 +208,11 @@ translate spanish strings:
 
     # game/code/data/ib_descriptions.rpy:2
     old "Blind. Best friends with Josie."
-    new "Ciego. Los mejores amigos de Josie."
+    new "Ciega. La mejor amiga de Josie."
 
     # game/code/data/ib_descriptions.rpy:2
     old "My other roommate."
-    new "Mi otro compañero de cuarto."
+    new "Es mi otra compañera de cuarto."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Only person aware of the investigation."
@@ -224,7 +224,7 @@ translate spanish strings:
 
     # game/code/data/ib_descriptions.rpy:2
     old "Mentored Klara."
-    new "Tutor de Klara."
+    new "Tutora de Klara."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Saw me and Ronja together in our late night tryst."
@@ -236,11 +236,11 @@ translate spanish strings:
 
     # game/code/data/ib_descriptions.rpy:2
     old "A friend of Nia and Maria."
-    new "Un amigo de Nia y Maria."
+    new "Amiga de Nia y Maria."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Signs on new members of the self-help group."
-    new "Firma de nuevos miembros del grupo de autoayuda."
+    new "Inscribe a los nuevos miembros del grupo de autoayuda."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Irene is Eliina's Guide."
@@ -264,7 +264,7 @@ translate spanish strings:
 
     # game/code/data/ib_descriptions.rpy:2
     old "Swim and volleyball coach. Mentors Silvia."
-    new "Entrenador de natación y voleibol. Mentora de Silvia."
+    new "Entrenadora de natación y voleibol. Mentora de Silvia."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Volleyball teammate."
@@ -272,15 +272,15 @@ translate spanish strings:
 
     # game/code/data/ib_descriptions.rpy:2
     old "Theater actor."
-    new "Actor de teatro"
+    new "Actriz de teatro."
 
     # game/code/data/ib_descriptions.rpy:2
     old "There seems to be some tension between her and Monika."
     new "Parece haber cierta tensión entre ella y Monika."
 
     # game/code/data/ib_descriptions.rpy:2
-    old "Olesya is noticeably absent from the party. Need to find out why."
-    new "Olesya está notablemente ausente de la fiesta. Necesito averiguar por qué."
+    old "Oleysa is noticeably absent from the party. Need to find out why."
+    new "Oleysa está notablemente ausente de la fiesta. Necesito averiguar por qué."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Apparently was almost expelled due to some trouble with \"illicit substances\", at least according to Ronja."
@@ -344,11 +344,11 @@ translate spanish strings:
 
     # game/code/data/ib_descriptions.rpy:2
     old "Friends with Zemfira and Fleur."
-    new "Amigos de Zemfira y Fleur."
+    new "Amiga de Zemfira y Fleur."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Was sentenced imprisonment because of physically assaulting someone."
-    new "Fue condenado a prisión por agredir físicamente a alguien."
+    new "Fue condenada a prisión por agredir físicamente a alguien."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Morgan and Corinne are half sisters."
@@ -412,11 +412,11 @@ translate spanish strings:
 
     # game/code/data/ib_descriptions.rpy:2
     old "Cade is the \"collector\" for a gang called The Wasps."
-    new "Cade es el \"coleccionista\" de una pandilla llamada The Wasps."
+    new "Cade es el \"cobrador\" de una banda llamada Las Avispas."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Connected to Zemfira. Performs \"favors\"."
-    new "Conectado a Zemfira. Realiza \"favores\"."
+    new "Conectada con Zemfira. Realiza \"favores\"."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Friends with Quentin and Sabrina"
@@ -436,11 +436,11 @@ translate spanish strings:
 
     # game/code/data/ib_descriptions.rpy:2
     old "Friends with Nirmala and Sabrina."
-    new "Amigo de Nirmala y Sabrina."
+    new "Amiga de Nirmala y Sabrina."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Friends with Nia. Part of the self-help group."
-    new "Amigos con Nia. Parte del grupo de autoayuda."
+    new "Amiga de Nia. Parte del grupo de autoayuda."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Guided by Irene, and a higher rank than Lumi."
@@ -480,11 +480,11 @@ translate spanish strings:
 
     # game/code/data/ib_descriptions.rpy:2
     old "Andrejz wants another \"go\" with Ivy."
-    new "Andrejz quiere otro \"go\" con Ivy."
+    new "Andrejz quiere otra \"oportunidad\" con Ivy."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Mysterious hooded man. Following me."
-    new "Misterioso hombre encapuchado. Siguiéndome."
+    new "Un hombre misterioso encapuchado. Me está siguiendo."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Stalked me when I went to the butchery."
@@ -512,7 +512,7 @@ translate spanish strings:
 
     # game/code/data/ib_descriptions.rpy:2
     old "A {i}lover{/i} of Maria's. Ezra was very intimate with Maria and is lost without her."
-    new "Un {i}amante{/i} de María. Ezra era muy íntimo con María y está perdido sin ella."
+    new "Un {i}amante{/i} de María. Ezra era muy íntima con María y está perdida sin ella."
 
     # game/code/data/ib_descriptions.rpy:2
     old "She told me that Maria was a part of intense {i}rituals{/i} within the self-help group and that she enjoyed participating in them."
@@ -524,7 +524,7 @@ translate spanish strings:
 
     # game/code/data/ib_descriptions.rpy:2
     old "Was previously involved with the Winner's Club."
-    new "Anteriormente estuvo involucrado con el Club de Ganadores."
+    new "Anteriormente estuvo involucrada con el Club de Ganadores."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Stalks the Winner's Club."
@@ -572,11 +572,11 @@ translate spanish strings:
 
     # game/code/data/ib_descriptions.rpy:2
     old "New member of the self-help group."
-    new "Nuevo miembro del grupo de autoayuda."
+    new "Nueva integrante del grupo de autoayuda."
 
     # game/code/data/ib_descriptions.rpy:2
     old "I have to convince Lumi to get a tattoo of the self-help group's symbol so I can advance in their ranking."
-    new "Tengo que convencer a Lumi para que se tatúe el símbolo del grupo de autoayuda para poder avanzar en su ranking."
+    new "Tengo que convencer a Lumi de que se tatúe el símbolo del grupo de autoayuda para que pueda ascender en su clasificación."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Guided by Irene."
@@ -592,7 +592,7 @@ translate spanish strings:
 
     # game/code/data/ib_descriptions.rpy:2
     old "Member of The Winner's Club."
-    new "Miembro del Club del Ganador."
+    new "Miembro del Club de Ganadores."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Used to date Sam."
@@ -612,7 +612,7 @@ translate spanish strings:
 
     # game/code/data/ib_descriptions.rpy:2
     old "They ran when confronted. Need to keep an eye out for them in the future."
-    new "Corrieron cuando se enfrentaron. Es necesario estar atento a ellos en el futuro."
+    new "Corrieron cuando nos enfrentaron. Es necesario estar atento a ellos en el futuro."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Ronja was in the self-help group."
@@ -629,7 +629,3 @@ translate spanish strings:
     # game/code/data/ib_descriptions.rpy:2
     old "Ronja is married. And also cheating on her husband with me."
     new "Ronja está casada. Y también engaña a su marido conmigo."
-
-    # game/code/data/ib_descriptions.rpy:2
-    old "There seems to be some tension between her and Olesya."
-    new "There seems to be some tension between her and Olesya."
