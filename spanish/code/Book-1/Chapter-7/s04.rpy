@@ -172,7 +172,7 @@ translate spanish b1c07s04_4f4a3268:
 translate spanish b1c07s04_e111924a:
 
     # mc "I— What?"
-    mc "Yo... ¿que?"
+    mc "Yo... ¿Qué?"
 
 # game/code/Book-1/Chapter-7/s04.rpy:102
 translate spanish b1c07s04_0045d6fc:
@@ -244,7 +244,7 @@ translate spanish b1c07s04_01ba8e1c:
 translate spanish b1c07s04_8af5994f:
 
     # rh "My, oh my. You sure know how to get a girl worked up, don't you?"
-    rh "Mi, oh mi. Seguro que sabes cómo excitar a una chica, ¿no?"
+    rh "Oh, Dios. Seguro que sabes cómo excitar a una chica, ¿no?"
 
 # game/code/Book-1/Chapter-7/s04.rpy:134
 translate spanish b1c07s04_3efc5a6f:
@@ -292,7 +292,7 @@ translate spanish b1c07s04_5afb95db:
 translate spanish b1c07s04_492a35cd:
 
     # rh "I just want to make sure that you're being careful, sweetheart."
-    rh "Solo quiero asegurarme de que tienes cuidado, cariño."
+    rh "Sólo quiero asegurarme de que tienes cuidado, cariño."
 
 # game/code/Book-1/Chapter-7/s04.rpy:155
 translate spanish b1c07s04_9138af8a:
@@ -538,13 +538,13 @@ translate spanish b1c07s04_aadd5714:
 translate spanish b1c07s04_4c995b89:
 
     # mc "You have a husband?"
-    mc "¿Tienes marido?"
+    mc "¿Tienes esposo?"
 
 # game/code/Book-1/Chapter-7/s04.rpy:257
 translate spanish b1c07s04_df87fa66:
 
     # rh "Indeed! Sorry, I didn't mention it earlier. We just had our first anniversary, actually."
-    rh "¡En efecto! Lo siento, no lo mencioné antes. Acabamos de tener nuestro primer aniversario, en realidad."
+    rh "¡En efecto! Lo siento, no lo mencioné antes. De hecho, acabamos de tener nuestro primer aniversario."
 
 # game/code/Book-1/Chapter-7/s04.rpy:258
 translate spanish b1c07s04_9bc061c5:
@@ -568,7 +568,7 @@ translate spanish b1c07s04_ddc24e54:
 translate spanish b1c07s04_8fad8858:
 
     # mc "Does he know about the situation then?"
-    mc "¿Él sabe acerca de la situación entonces?"
+    mc "¿Conoce entonces la situación?"
 
 # game/code/Book-1/Chapter-7/s04.rpy:269
 translate spanish b1c07s04_3fb92b45:
@@ -604,7 +604,7 @@ translate spanish b1c07s04_9f819066:
 translate spanish b1c07s04_f4acd7f2:
 
     # mc "*Chuckles* I don't know about that. I like to avoid the danger where I can."
-    mc "*Risas* No sé nada de eso. Me gusta evitar el peligro donde puedo."
+    mc "*Risas* No sé nada de eso. Me gusta evitar el peligro siempre que puedo."
 
 # game/code/Book-1/Chapter-7/s04.rpy:284
 translate spanish b1c07s04_8deb6ab9:
