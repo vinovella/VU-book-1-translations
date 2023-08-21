@@ -10,7 +10,7 @@ translate spanish b1c01s01_ebc5e62c:
 translate spanish b1c01s01_a1c8d635:
 
     # mom "Promise to be good. For me. Don't get into trouble, and eat well! You promise?"
-    mom "Prométeme que serás bueno. ¡No te metas en problemas y come bien! ¿Lo prometes?"
+    mom "Promete portarte bien. Por mí. ¡No te metas en líos y aliméntate bien! ¿Lo prometes?"
 
 # game/code/Book-1/Chapter-1/s01.rpy:20
 translate spanish b1c01s01_2897b762:
