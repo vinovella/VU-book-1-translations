@@ -118,7 +118,7 @@ translate spanish b1c07ws10_return_9053d5b0:
 translate spanish b1c07ws10_return_d67cc149:
 
     # mct "*Chuckles* Hopefully we don't get a penalty for out-of-grounds scuffles."
-    mct "*Risas* Esperemos que no nos sancionen por peleas fuera del terreno de juego."
+    mct "*Risas* Esperemos que no nos sancionen por peleas fuera del campo de juego."
 
 # game/code/Book-1/Chapter-7w/s10.rpy:177
 translate spanish b1c07ws10_return_30969239:
