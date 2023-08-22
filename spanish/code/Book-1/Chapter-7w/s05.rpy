@@ -175,7 +175,7 @@ translate spanish b1c07ws05_6907467e:
     mct "Huh."
 
 # game/code/Book-1/Chapter-7w/s05.rpy:171
-translate spanish b1c07ws05_9b56934b:
+translate spanish b1c07ws05_4c54eb26:
 
     # mct "I wonder where Olesya is?"
     mct "Me pregunto dónde está Olesya."
@@ -1241,4 +1241,3 @@ translate spanish strings:
     # game/code/Book-1/Chapter-7w/s05.rpy:701
     old "Use the vibrator on Iona"
     new "Usa el vibrador en Iona"
-

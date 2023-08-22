@@ -319,10 +319,10 @@ translate spanish b1c07ws04_896c8d10:
     sl "Suena bien para mí."
 
 # game/code/Book-1/Chapter-7w/s04.rpy:205
-translate spanish b1c07ws04_23c49fed:
+translate spanish b1c07ws04_a1bfb5c5:
 
-    # mc "Great. And then Oleysa can \"help\" Monika with defense."
-    mc "Excelente. Y luego Oleysa puede \"ayudar\" a Monika con la defensa."
+    # mc "Great. And then Olesya can \"help\" Monika with defense."
+    mc "Excelente. Y luego Olesya puede \"ayudar\" a Monika con la defensa."
 
 # game/code/Book-1/Chapter-7w/s04.rpy:208
 translate spanish b1c07ws04_a20cefa7:
@@ -337,10 +337,10 @@ translate spanish b1c07ws04_f3b3d28f:
     mc "¿Qué ocurre?"
 
 # game/code/Book-1/Chapter-7w/s04.rpy:217
-translate spanish b1c07ws04_e3b2e5c6:
+translate spanish b1c07ws04_bb5030ad:
 
-    # ir "I think it'd be better if Oleysa and Monika help the others practice instead."
-    ir "Creo que sería mejor si Oleysa y Monika ayudaran a los demás a practicar."
+    # ir "I think it'd be better if Olesya and Monika help the others practice instead."
+    ir "Creo que sería mejor si Olesya y Monika ayudaran a los demás a practicar."
 
 # game/code/Book-1/Chapter-7w/s04.rpy:220
 translate spanish b1c07ws04_2876efd9:
@@ -533,4 +533,3 @@ translate spanish b1c07ws04_aa30840e:
 
     # mc "*Laughs* I think that was a mission well done, guys."
     mc "*Risas* Creo que fue una misión bien hecha, muchachos."
-
