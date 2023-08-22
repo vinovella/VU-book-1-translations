@@ -177,8 +177,8 @@ translate spanish b1c07ws05_6907467e:
 # game/code/Book-1/Chapter-7w/s05.rpy:171
 translate spanish b1c07ws05_9b56934b:
 
-    # mct "I wonder where Oleysa is?"
-    mct "Me pregunto dónde está Oleysa."
+    # mct "I wonder where Olesya is?"
+    mct "Me pregunto dónde está Olesya."
 
 # game/code/Book-1/Chapter-7w/s05.rpy:178
 translate spanish b1c07ws05_6950f724:
