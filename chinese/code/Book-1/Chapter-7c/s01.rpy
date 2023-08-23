@@ -4,529 +4,529 @@
 translate chinese b1c07cs01_e5c7c183:
 
     # "You enter the library, looking around for Nia and Delphia."
-    "You enter the library, looking around for Nia and Delphia."
+    "你走进图书馆，四处寻找妮娅和德尔菲娅。"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:23
 translate chinese b1c07cs01_2f8c1fff:
 
     # mct "I got a text from Del at the ass crack of dawn. She said Andrejz would be making some announcement."
-    mct "I got a text from Del at the ass crack of dawn. She said Andrejz would be making some announcement."
+    mct "天刚蒙蒙亮，我就收到了德尔菲娅的短信。她说安杰斯要宣布什么消息。"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:26
 translate chinese b1c07cs01_33823d0b:
 
     # mct "Seems a bit early in the morning to deal with Andrejz's shit, but I'd better keep up appearances."
-    mct "Seems a bit early in the morning to deal with Andrejz's shit, but I'd better keep up appearances."
+    mct "一大早就处理安杰斯的破事也太坏人睡眠了，不过我最好还是保持风度。"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:28
 translate chinese b1c07cs01_31c02541:
 
     # mct "I'll have to visit Sally after this. She messaged me that she had more to talk about."
-    mct "I'll have to visit Sally after this. She messaged me that she had more to talk about."
+    mct "这之后我得去看看莎莉。她给我发信息说还有事要谈。"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:30
 translate chinese b1c07cs01_9b976189:
 
     # mct "After this, I'll go to the artist's studio. Phoebe got me the address to it. Hopefully the artist will have some information on Maria."
-    mct "After this, I'll go to the artist's studio. Phoebe got me the address to it. Hopefully the artist will have some information on Maria."
+    mct "这之后，我要去艺术家工作室。菲比给了我地址。希望这位艺术家能提供一些关于玛丽亚的信息。"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:40
 translate chinese b1c07cs01_95ade2ae:
 
     # nv "[mcname]! I was hoping you'd make it in time."
-    nv "[mcname]! I was hoping you'd make it in time."
+    nv "[mcname]！我正希望你能及时赶到。"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:43
 translate chinese b1c07cs01_ca2518ad:
 
     # dk "It'd be a shame for you to miss such an important event."
-    dk "It'd be a shame for you to miss such an important event."
+    dk "错过这么重要的活动，你会很遗憾的。"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:46
 translate chinese b1c07cs01_8bada3ff:
 
     # mct "Like Andrejz has much of importance to say..."
-    mct "Like Andrejz has much of importance to say..."
+    mct "安杰斯好像有很多重要的话要说..."
 
 # game/code/Book-1/Chapter-7c/s01.rpy:49
 translate chinese b1c07cs01_fdb6492a:
 
     # mc "A shame, indeed."
-    mc "A shame, indeed."
+    mc "确实会遗憾。"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:54
 translate chinese b1c07cs01_ab2f6d46:
 
     # "You feel Delphia's hand tug playfully on your hair as she kisses you. She smiles against your lips."
-    "You feel Delphia's hand tug playfully on your hair as she kisses you. She smiles against your lips."
+    "你感到德尔菲娅的手在亲吻你的时候顽皮地拉着你的头发。她贴着你的嘴唇笑出声。"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:56
 translate chinese b1c07cs01_daa164ab:
 
     # "Instinctively your hands grip her slim, tight waist. She moans quietly against your lips and presses her warm body against you."
-    "Instinctively your hands grip her slim, tight waist. She moans quietly against your lips and presses her warm body against you."
+    "你的手本能地抓住了她纤细紧致的腰肢。她贴着你的嘴唇低声呻吟，把她温暖的身体紧紧贴着你。"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:57
 translate chinese b1c07cs01_d2c74079:
 
     # "You can feel her tits heave against your chest."
-    "You can feel her tits heave against your chest."
+    "你能感觉到她的奶子紧贴在你胸前起伏。"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:60
 translate chinese b1c07cs01_8e05ad93:
 
     # nv "The announcement is about to start, I think."
-    nv "The announcement is about to start, I think."
+    nv "我想他就要开始宣布了。"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:70
 translate chinese b1c07cs01_eeacdb89:
 
     # "You whisper so as to not disturb the audience."
-    "You whisper so as to not disturb the audience."
+    "你说话很轻，以免打扰观众。"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:72
 translate chinese b1c07cs01_dd0d9d9f:
 
     # mc "Do you know what the announcement is about?"
-    mc "Do you know what the announcement is about?"
+    mc "你知道要宣布什么吗？"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:75
 translate chinese b1c07cs01_7beb5ffd:
 
     # nv "Not really. It must be something big for Andre to get us up this early, though."
-    nv "Not really. It must be something big for Andre to get us up this early, though."
+    nv "不知道。不过，安杰斯让我们这么早起床，肯定是有什么大事。"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:78
 translate chinese b1c07cs01_2aa33e88:
 
     # mc "{size=20}It better be.{/size}"
-    mc "{size=20}It better be.{/size}"
+    mc "{size=20}最好是。{/size}"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:81
 translate chinese b1c07cs01_095d04da:
 
     # dk "Wake up on the wrong side of the bed?"
-    dk "Wake up on the wrong side of the bed?"
+    dk "起床时心情不好？"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:84
 translate chinese b1c07cs01_b5acaff2:
 
     # mc "Only because you weren't in it."
-    mc "Only because you weren't in it."
+    mc "那是因为你不在床上。"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:92
 translate chinese b1c07cs01_7bb8c326:
 
     # ad "Ladies and gentlemen! Today, I have a {i}very{/i} special guest!"
-    ad "Ladies and gentlemen! Today, I have a {i}very{/i} special guest!"
+    ad "女士们先生们，今天，我有一位{i}非常{/i}特别的嘉宾！"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:94
 translate chinese b1c07cs01_f450d0fa:
 
     # ad "She is from an idyllic little community. It's a remote location surrounded by nature where more of our senior members reside."
-    ad "She is from an idyllic little community. It's a remote location surrounded by nature where more of our senior members reside."
+    ad "她来自一个田园诗般的小社区。那是一个被大自然环绕的偏远地区，我们更多高级会员都住在那里。"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:97
 translate chinese b1c07cs01_4ee4a8a0:
 
     # mct "A remote location? Strange."
-    mct "A remote location? Strange."
+    mct "偏远地区？真奇怪。"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:100
 translate chinese b1c07cs01_05b462b9:
 
     # ad "Everyone give a warm welcome to Miss Ivy Hagen."
-    ad "Everyone give a warm welcome to Miss Ivy Hagen."
+    ad "大家热烈欢迎艾薇·哈根小姐。"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:108
 translate chinese b1c07cs01_287875cc:
 
     # mct "She must be eager for her announcement. She barely gave any time or attention to that kiss."
-    mct "She must be eager for her announcement. She barely gave any time or attention to that kiss."
+    mct "她一定迫不及待地想宣布她的消息。她几乎没花任何时间或注意力在那个吻上。"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:111
 translate chinese b1c07cs01_6c590526:
 
     # "The crowd gives a polite clap for Ivy's introduction."
-    "The crowd gives a polite clap for Ivy's introduction."
+    "观众为艾薇的介绍语礼貌地鼓掌。"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:113
 translate chinese b1c07cs01_6cef5768:
 
     # ih "Hello everyone. Thank you for your lovely welcome."
-    ih "Hello everyone. Thank you for your lovely welcome."
+    ih "大家好，谢谢你们的欢迎。"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:115
 translate chinese b1c07cs01_0add0891:
 
     # ih "You can think of me as just another Guide, but instead of guiding only one or two people, I guide the other branch of our community."
-    ih "You can think of me as just another Guide, but instead of guiding only one or two people, I guide the other branch of our community."
+    ih "你们可以把我看作是另一个向导，但我不是只引导一两个人，而是引导我们社区的另一个分支。"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:118
 translate chinese b1c07cs01_22bb2f01:
 
     # ih "I'm here for a very special reason today. I want to guide you to a new way of thinking, to show you a new way of embracing all life around us."
-    ih "I'm here for a very special reason today. I want to guide you to a new way of thinking, to show you a new way of embracing all life around us."
+    ih "我今天来这里有一个非常特殊的原因。我想引导你们一种新的思维方式，向你们展示一种新的方式，来拥抱我们周围所有的生命。"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:125
 translate chinese b1c07cs01_f381d7f5:
 
     # mc "What the hell is she talking about? I'm already lost."
-    mc "What the hell is she talking about? I'm already lost."
+    mc "她到底在说什么？我已经抓瞎了。"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:127
 translate chinese b1c07cs01_7609231c:
 
     # "Delphia covers her mouth to hide her smile at your crass phrasing."
-    "Delphia covers her mouth to hide her smile at your crass phrasing."
+    "德尔菲娅因为你粗鲁的措辞捂嘴偷笑。"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:129
 translate chinese b1c07cs01_ab97f744:
 
     # nv "In technical terms, Ivy's like a regional leader of a separate branch of our community."
-    nv "In technical terms, Ivy's like a regional leader of a separate branch of our community."
+    nv "用专业术语来说，艾薇就像是我们社区一个独立分支的地方领导人。"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:131
 translate chinese b1c07cs01_a95e5e96:
 
     # nv "She'll explain more if you listen."
-    nv "She'll explain more if you listen."
+    nv "如果你愿意听，她会详细解释的。"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:134
 translate chinese b1c07cs01_716019b8:
 
     # mc "Right."
-    mc "Right."
+    mc "行吧。"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:137
 translate chinese b1c07cs01_abd088ad:
 
     # dk "You're so adorable when you're confused. It's part of why I love flustering you so much."
-    dk "You're so adorable when you're confused. It's part of why I love flustering you so much."
+    dk "你困惑的样子真可爱。这也是我这么喜欢逗你的原因之一。"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:144
 translate chinese b1c07cs01_c92bdfc9:
 
     # mc "Heh, I'm lost. What's she mean she's here to guide us? I thought we already have Guides?"
-    mc "Heh, I'm lost. What's she mean she's here to guide us? I thought we already have Guides?"
+    mc "呵，我糊涂了。她说她是来引导我们的是什么意思？我们不是已经有向导了吗？"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:146
 translate chinese b1c07cs01_513adbdf:
 
     # "Nia smiles at you, happy that you're taking an interest in the group."
-    "Nia smiles at you, happy that you're taking an interest in the group."
+    "妮娅对你微笑，她很高兴你对这个团体感兴趣。"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:148
 translate chinese b1c07cs01_9bd34cfd:
 
     # nv "Ivy's kind of like a regional leader of a separate branch of the group, in technical terms."
-    nv "Ivy's kind of like a regional leader of a separate branch of the group, in technical terms."
+    nv "从专业角度来说，艾薇就像是这个组织中一个独立分支的地方领导人。"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:150
 translate chinese b1c07cs01_71e7a4b1:
 
     # nv "Where our personal Guides want to help us grow as {i}individuals{/i}, Ivy wants to help us grow as a {i}community{/i}."
-    nv "Where our personal Guides want to help us grow as {i}individuals{/i}, Ivy wants to help us grow as a {i}community{/i}."
+    nv "我们的个人向导希望帮助我们作为{i}个体{/i}成长，而艾薇则希望帮助我们作为{i}群体{/i}成长。"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:153
 translate chinese b1c07cs01_0f894798:
 
     # mc "Ohh, that makes much more sense. Thank you, Nia."
-    mc "Ohh, that makes much more sense. Thank you, Nia."
+    mc "哦，这就说得通了。谢谢你，妮娅。"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:156
 translate chinese b1c07cs01_d98837b1:
 
     # nv "You're very welcome. I love how inquisitive you are."
-    nv "You're very welcome. I love how inquisitive you are."
+    nv "不客气。我喜欢你的好奇心。"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:160
 translate chinese b1c07cs01_7a229b2b:
 
     # ih "I'd like to personally invite all of you to our idyllic little estate. We're holding an advancing ceremony, just for you!"
-    ih "I'd like to personally invite all of you to our idyllic little estate. We're holding an advancing ceremony, just for you!"
+    ih "我想亲自邀请大家到我们田园诗般的小庄园来。我们将为你们举行一个晋级仪式！"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:168
 translate chinese b1c07cs01_db497a6b:
 
     # ih "The advancing ceremony is to further demonstrate what kind of benefits you can expect to gain as you rise through the ranks of spirituality."
-    ih "The advancing ceremony is to further demonstrate what kind of benefits you can expect to gain as you rise through the ranks of spirituality."
+    ih "晋级仪式是为了进一步展示，当你们晋升到灵性等级时，你们能得到什么样的好处。"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:170
 translate chinese b1c07cs01_39b5b8aa:
 
     # ih "At our glorious farm, you'll be surrounded by nature, in a safe environment where you can interact with our higher ranking members and decide what path is best for you."
-    ih "At our glorious farm, you'll be surrounded by nature, in a safe environment where you can interact with our higher ranking members and decide what path is best for you."
+    ih "在我们光荣的农场里，你将被大自然环绕，在那个安全的环境中，你可以与我们的高级成员交流，并决定哪条路最适合你。"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:173
 translate chinese b1c07cs01_73ef5c4d:
 
     # ih "We encourage all questions and curiosities about the way we live our lives."
-    ih "We encourage all questions and curiosities about the way we live our lives."
+    ih "我们欢迎好奇我们生活方式的所有灵魂伙伴。"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:178
 translate chinese b1c07cs01_ab13ccbc:
 
     # mct "I get the feeling he doesn't want me to go."
-    mct "I get the feeling he doesn't want me to go."
+    mct "我感觉他不想让我去。"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:181
 translate chinese b1c07cs01_39e9ce50:
 
     # mct "Too bad for him, I guess."
-    mct "Too bad for him, I guess."
+    mct "怕是对他来说太糟糕了。"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:184
 translate chinese b1c07cs01_2ba23153:
 
     # ih "Our advancing ceremony will help clarify your inner thoughts, and Guide you toward {i}your{/i} desires."
-    ih "Our advancing ceremony will help clarify your inner thoughts, and Guide you toward {i}your{/i} desires."
+    ih "我们的晋级仪式将帮助你理清内心的想法、并引导你实现{i}自己的{/i}愿望。"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:185
 translate chinese b1c07cs01_51c3a75f:
 
     # ih "We are always here to guide you, but you must choose your own path."
-    ih "We are always here to guide you, but you must choose your own path."
+    ih "我们会一直指引你，但你必须选择自己的路。"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:188
 translate chinese b1c07cs01_5e928289:
 
     # mct "Despite all of Ivy's specific wording, I still have no idea what this 'ceremony' is about."
-    mct "Despite all of Ivy's specific wording, I still have no idea what this 'ceremony' is about."
+    mct "尽管艾薇说得很详细，我还是不知道这个“仪式”是怎么回事。"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:189
 translate chinese b1c07cs01_0dea40c4:
 
     # mct "But I guess regardless of specifics, I'll be traveling to Ivy's remote community."
-    mct "But I guess regardless of specifics, I'll be traveling to Ivy's remote community."
+    mct "但我想不管具体内容如何，我都会前往艾薇的偏僻社区。"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:193
 translate chinese b1c07cs01_3163fa94:
 
     # ad "We're so enthusiastic about advancing everyone's enlightenment. We want to give you every opportunity to learn about us, our practices, and yourself!"
-    ad "We're so enthusiastic about advancing everyone's enlightenment. We want to give you every opportunity to learn about us, our practices, and yourself!"
+    ad "我们非常热衷于促进每个人的启蒙。我们希望给大家提供尽可能多的机会来了解我们，了解我们的工作，了解你自己!"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:196
 translate chinese b1c07cs01_b9ce2f0d:
 
     # ih "Thank you so much for being here. I hope to see everyone at our other location!"
-    ih "Thank you so much for being here. I hope to see everyone at our other location!"
+    ih "非常感谢各位来到这里。希望能在我们的另一个地点见到大家！"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:199
 translate chinese b1c07cs01_d3ff7864:
 
     # ad "Our announcement is over, but please, feel free to mingle amongst yourselves. Ivy and I will be here to answer any questions you have."
-    ad "Our announcement is over, but please, feel free to mingle amongst yourselves. Ivy and I will be here to answer any questions you have."
+    ad "我们的宣告会结束了，请大家随意交流。艾薇和我会在这里回答你们的任何问题。"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:208
 translate chinese b1c07cs01_7eb4fd0c:
 
     # dk "Well, that was a short but efficient announcement."
-    dk "Well, that was a short but efficient announcement."
+    dk "好吧，这是个简短而有效的声明。"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:210
 translate chinese b1c07cs01_fbe7b95b:
 
     # "You instinctively begin noting who leaves and enters the library as Nia and Delphia talk."
-    "You instinctively begin noting who leaves and enters the library as Nia and Delphia talk."
+    "当妮娅和德尔菲娅交谈时，你本能地开始注意图书馆的进出人员。"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:216
 translate chinese b1c07cs01_5e2fce06:
 
     # nv "I'm so excited to go on this trip! It'll be so fun!"
-    nv "I'm so excited to go on this trip! It'll be so fun!"
+    nv "我好期待这次旅行！一定很好玩！"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:219
 translate chinese b1c07cs01_ca2f0125:
 
     # ad "Delphia, my darling, we have something to discuss."
-    ad "Delphia, my darling, we have something to discuss."
+    ad "德尔菲娅，亲爱的，我们有话要说。"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:229
 translate chinese b1c07cs01_4517ea25:
 
     # dk "Of course, let m—"
-    dk "Of course, let m—"
+    dk "当然，让我--"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:232
 translate chinese b1c07cs01_57e6836c:
 
     # ih "And who is this promising new soul?"
-    ih "And who is this promising new soul?"
+    ih "这个有前途的新灵魂是谁？"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:235
 translate chinese b1c07cs01_2f36512e:
 
     # dk "This is [mcname]. He and Nia are my newest prospects."
-    dk "This is [mcname]. He and Nia are my newest prospects."
+    dk "这是[mcname]。他和妮娅是我的新挖掘对象。"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:246
 translate chinese b1c07cs01_b7ea18dc:
 
     # mct "I'd better try to impress her if she's got any influence within this group."
-    mct "I'd better try to impress her if she's got any influence within this group."
+    mct "如果她在这个组织里有影响力的话，我最好试着打动她。"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:247
 translate chinese b1c07cs01_8e4f5b86:
 
     # "You maintain eye contact with her surprised, excited expression."
-    "You maintain eye contact with her surprised, excited expression."
+    "你和她保持眼神接触，看着她惊讶又兴奋的表情。"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:250
 translate chinese b1c07cs01_cdd2ec08:
 
     # mc "It is customary to kiss your superiors on the lips, correct?"
-    mc "It is customary to kiss your superiors on the lips, correct?"
+    mc "按照惯例，应该亲吻上司的嘴唇，对吗？"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:253
 translate chinese b1c07cs01_1be98bcb:
 
     # ih "Correct."
-    ih "Correct."
+    ih "没错。"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:256
 translate chinese b1c07cs01_22071fa1:
 
     # mc "Then I'd better make my way up there."
-    mc "Then I'd better make my way up there."
+    mc "那我还是按自己的方式来吧。"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:259
 translate chinese b1c07cs01_3cca9855:
 
     # "You kiss her delicate wrist, and make your way up her arm."
-    "You kiss her delicate wrist, and make your way up her arm."
+    "你亲吻她纤细的手腕，然后顺着她的手臂往上爬。"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:263
 translate chinese b1c07cs01_ad25acde:
 
     # "When you get to her shoulder, you hear her inhale slightly, aroused by your bold demeanor."
-    "When you get to her shoulder, you hear her inhale slightly, aroused by your bold demeanor."
+    "当你吻到她的肩膀时，你听到她轻轻地吸气，被你大胆的举止所撩拨。"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:268
 translate chinese b1c07cs01_441508f4:
 
     # "Your lips meet hers, and a passionate, warm sensation floods your body."
-    "Your lips meet hers, and a passionate, warm sensation floods your body."
+    "你的嘴唇与她的嘴唇相遇，一种热情而温暖的感觉充斥着你的全身。"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:269
 translate chinese b1c07cs01_c2ea8e9e:
 
     # "You can tell Ivy felt the same sensation."
-    "You can tell Ivy felt the same sensation."
+    "你可以看出艾薇也有同样的感觉。"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:271
 translate chinese b1c07cs01_b061ef77:
 
     # "Andre clears his throat."
-    "Andre clears his throat."
+    "安杰斯清了清嗓子。"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:274
 translate chinese b1c07cs01_04155cd8:
 
     # ih "I see you've paid attention to your Guide's instructions."
-    ih "I see you've paid attention to your Guide's instructions."
+    ih "看来你很注意你的向导的指示。"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:277
 translate chinese b1c07cs01_c82163a9:
 
     # mc "Well, I can't deny she's an expert at what she does."
-    mc "Well, I can't deny she's an expert at what she does."
+    mc "我不能否认她是这方面的专家。"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:285
 translate chinese b1c07cs01_6243373b:
 
     # ih "Have you forgotten your manners?"
-    ih "Have you forgotten your manners?"
+    ih "你忘了该有的礼仪了吗？"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:288
 translate chinese b1c07cs01_c82a389c:
 
     # ih "Such a lovely face is wasted without proper manners, hm?"
-    ih "Such a lovely face is wasted without proper manners, hm?"
+    ih "不懂礼仪就浪费了这么漂亮的脸蛋，是不是？"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:291
 translate chinese b1c07cs01_4b3d06f4:
 
     # mc "My manners?"
-    mc "My manners?"
+    mc "我的礼仪？"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:294
 translate chinese b1c07cs01_a47d0183:
 
     # ih "Kiss me, my sweet. It's only polite."
-    ih "Kiss me, my sweet. It's only polite."
+    ih "吻我，亲爱的。以表礼貌。"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:298
 translate chinese b1c07cs01_a4a2f71e:
 
     # "Ivy's lips are soft and inviting. But her kiss has a greedy undertone that makes you think she wants more of you."
-    "Ivy's lips are soft and inviting. But her kiss has a greedy undertone that makes you think she wants more of you."
+    "艾薇的嘴唇柔软而诱人，但她的吻有一种贪婪的意味，让你觉得她想要更多。"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:302
 translate chinese b1c07cs01_1dad576b:
 
     # ad "Ahem. Now that introductions have been made..."
-    ad "Ahem. Now that introductions have been made..."
+    ad "咳咳。既然已经做了介绍...."
 
 # game/code/Book-1/Chapter-7c/s01.rpy:304
 translate chinese b1c07cs01_584d0c79:
 
     # ad "Del, Ivy and I have some Guide topics to discuss with you, concerning the trip."
-    ad "Del, Ivy and I have some Guide topics to discuss with you, concerning the trip."
+    ad "德尔菲娅，关于这次旅行，艾薇和我有一些向导有关的话题要和你讨论。"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:307
 translate chinese b1c07cs01_32dc3811:
 
     # dk "Sure. I can talk now."
-    dk "Sure. I can talk now."
+    dk "当然，我现在就有时间。"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:310
 translate chinese b1c07cs01_616aa9c3:
 
     # dk "Guide work. Probably just some prep work for the trip. I'll be back soon, okay?"
-    dk "Guide work. Probably just some prep work for the trip. I'll be back soon, okay?"
+    dk "要去谈向导工作了。可能只是为旅行做些准备工作。我很快就回来，好吗？"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:313
 translate chinese b1c07cs01_af552576:
 
     # nv "Okay. We'll keep mingling here."
-    nv "Okay. We'll keep mingling here."
+    nv "好。我们就继续在这里聊天。"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:316
 translate chinese b1c07cs01_0f4ae907:
 
     # mc "See ya later, Del."
-    mc "See ya later, Del."
+    mc "再见，德尔菲娅。"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:321
 translate chinese b1c07cs01_72cadd50:
 
     # nv "How do you feel about the trip?"
-    nv "How do you feel about the trip?"
+    nv "你怎么看这次旅行？"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:322
 translate chinese b1c07cs01_44168de7:
 
     # nv "Are you excited?"
-    nv "Are you excited?"
+    nv "你兴奋吗？"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:325
 translate chinese b1c07cs01_b3c4e5dd:
 
     # mc "It...seems like it'll be an experience, for sure."
-    mc "It...seems like it'll be an experience, for sure."
+    mc "看来....这次肯定会是个不错的经历。"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:328
 translate chinese b1c07cs01_9262d8d1:
 
     # nv "Oh, I'm so happy! I've never been to the other location before."
-    nv "Oh, I'm so happy! I've never been to the other location before."
+    nv "哦，我太高兴了！我以前从来没去过另一个地方。"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:329
 translate chinese b1c07cs01_c147a18f:
 
     # nv "Maria mentioned it once or twice, but I've never been."
-    nv "Maria mentioned it once or twice, but I've never been."
+    nv "玛丽亚提过一两次，但我从没去过。"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:332
 translate chinese b1c07cs01_22170090:
