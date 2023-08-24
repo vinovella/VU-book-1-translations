@@ -532,399 +532,399 @@ translate chinese b1c07cs01_c147a18f:
 translate chinese b1c07cs01_22170090:
 
     # mc "We must be special souls for such a momentous occasion."
-    mc "We must be special souls for such a momentous occasion."
+    mc "在这样一个重要的时刻，我们必须是特别的灵魂。"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:335
 translate chinese b1c07cs01_be3964a3:
 
     # nv "*giggle* I sure hope the senior members see it that way."
-    nv "*giggle* I sure hope the senior members see it that way."
+    nv "*咯咯笑* 我当然希望高级会员们也这么看。"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:339
 translate chinese b1c07cs01_547d78c6:
 
     # ll "What's so funny?"
-    ll "What's so funny?"
+    ll "什么事这么好笑？"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:342
 translate chinese b1c07cs01_bae4ac6b:
 
     # nv "Lumi! Happy to see you. We were just discussing the trip!"
-    nv "Lumi! Happy to see you. We were just discussing the trip!"
+    nv "卢米！见到你真好。我们正在讨论这次旅行呢！"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:345
 translate chinese b1c07cs01_6620d9a8:
 
     # ll "I'm kinda nervous about it. Do you think they'll have enough housing for all of us? Or resources?"
-    ll "I'm kinda nervous about it. Do you think they'll have enough housing for all of us? Or resources?"
+    ll "我倒是挺紧张的。你觉得他们会有足够的住房吗？资源够吗？"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:348
 translate chinese b1c07cs01_8b6665bd:
 
     # mct "She's pretty anxious."
-    mct "She's pretty anxious."
+    mct "她很焦虑。"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:351
 translate chinese b1c07cs01_82717f3f:
 
     # nv "Of course! Andre would never put us at risk."
-    nv "Of course! Andre would never put us at risk."
+    nv "当然够！安杰斯绝不会让我们身处险境的。"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:354
 translate chinese b1c07cs01_64fcfec4:
 
     # mc "I'm sure it'll be just fine. I doubt they'd invite all of us if they didn't have enough housing or resources for all of us."
-    mc "I'm sure it'll be just fine. I doubt they'd invite all of us if they didn't have enough housing or resources for all of us."
+    mc "我相信不会有问题的。如果没有足够的住房，或者资源不够容纳我们所有人的话，恐怕他们也不会邀请我们所有人了。"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:357
 translate chinese b1c07cs01_8dfa8650:
 
     # ll "Yeah, I guess you're right..."
-    ll "Yeah, I guess you're right..."
+    ll "啊，我想你说得对..."
 
 # game/code/Book-1/Chapter-7c/s01.rpy:360
 translate chinese b1c07cs01_011c6dfc:
 
     # nv "If they don't, you can share with me. I won't let you go without a bed or basic needs."
-    nv "If they don't, you can share with me. I won't let you go without a bed or basic needs."
+    nv "如果真的不够，你可以和我共享。我不会让你没有床睡，缺少基本的生活必需品。"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:363
 translate chinese b1c07cs01_d6b28467:
 
     # mc "Exactly. We'll take care of each other as needed. We'll be fine."
-    mc "Exactly. We'll take care of each other as needed. We'll be fine."
+    mc "没错。我们会在需要的时候互相照顾。不会有事的。"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:365
 translate chinese b1c07cs01_ac2f87a5:
 
     # mct "We better be, anyway. I won't let anything happen to innocent people if I can help it."
-    mct "We better be, anyway. I won't let anything happen to innocent people if I can help it."
+    mct "我们最好没事，只要我做得到，我不会让无辜的人受到伤害。"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:368
 translate chinese b1c07cs01_c8d0a8da:
 
     # ll "Thank you, guys. That makes me feel better."
-    ll "Thank you, guys. That makes me feel better."
+    ll "谢谢你们，我感觉好多了。"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:371
 translate chinese b1c07cs01_e60086d3:
 
     # nv "We're a community. We're always here for you, Lumi."
-    nv "We're a community. We're always here for you, Lumi."
+    nv "我们是一个团体。我们永远在你身边，卢米。"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:373
 translate chinese b1c07cs01_250af1b7:
 
     # "You glance toward Del, Andrejz, and Ivy while Nia and Lumi continue to chat."
-    "You glance toward Del, Andrejz, and Ivy while Nia and Lumi continue to chat."
+    "妮娅和卢米继续聊着天，你朝德尔菲娅、安杰斯和艾薇看了一眼。"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:375
 translate chinese b1c07cs01_88b138dd:
 
     # "Andre seems to be all over Ivy. He's overly affectionate, as though trying to charm her."
-    "Andre seems to be all over Ivy. He's overly affectionate, as though trying to charm her."
+    "安杰斯似乎对艾薇很感兴趣。他过分亲昵，好像想迷倒她。"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:376
 translate chinese b1c07cs01_ff5ca826:
 
     # "But she seems to barely register his presence. Almost as though she's ignoring him."
-    "But she seems to barely register his presence. Almost as though she's ignoring him."
+    "但她表现得几乎没注意到他的存在，就好像在无视他一样。"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:379
 translate chinese b1c07cs01_f5b4728b:
 
     # ch "God, do you see the way he's fawning all over her?"
-    ch "God, do you see the way he's fawning all over her?"
+    ch "天啊，你看到他对她献殷勤的样子了吗？"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:382
 translate chinese b1c07cs01_6e703677:
 
     # "Girl" "Poor woman. He's like a cat in heat rubbing up on her like that. Christ."
-    "Girl" "Poor woman. He's like a cat in heat rubbing up on her like that. Christ."
+    "女孩" "可怜的女人，他就像一只发情的猫，在她身上蹭来蹭去。天啊。"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:385
 translate chinese b1c07cs01_d9953768:
 
     # ch "And he always has his fuckin' tits out. Like button up your shirt, slut! Damn."
-    ch "And he always has his fuckin' tits out. Like button up your shirt, slut! Damn."
+    ch "他还总是把奶头露出来，把衬衫扣子扣上，该死的。"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:388
 translate chinese b1c07cs01_ee5c923f:
 
     # mct "Well, I can't fault their description of Andre, even if it's harsh."
-    mct "Well, I can't fault their description of Andre, even if it's harsh."
+    mct "即使她们对安杰斯的描述很刻薄，我也没什么可辩驳的。"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:389
 translate chinese b1c07cs01_4140037c:
 
     # mct "Why doesn't Ivy tell him to piss off if she's not reciprocating?"
-    mct "Why doesn't Ivy tell him to piss off if she's not reciprocating?"
+    mct "如果艾薇不想回应，为什么不叫他滚蛋？"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:392
 translate chinese b1c07cs01_7b9363b5:
 
     # ch "Ugh. He definitely wants another go with Ivy."
-    ch "Ugh. He definitely wants another go with Ivy."
+    ch "他肯定还想和艾薇再来一次。"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:395
 translate chinese b1c07cs01_6b00cfe7:
 
     # "Girl" "For sure."
-    "Girl" "For sure."
+    "女孩" "绝对的。"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:398
 translate chinese b1c07cs01_e0d25d86:
 
     # mct "Andre wants another go with Ivy? I wonder what that means..."
-    mct "Andre wants another go with Ivy? I wonder what that means..."
+    mct "安杰斯想和艾薇再来一次？不知道是什么意思..."
 
 # game/code/Book-1/Chapter-7c/s01.rpy:407
 translate chinese b1c07cs01_a4fc93a8:
 
     # dk "Miss me?"
-    dk "Miss me?"
+    dk "想我了吗？"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:410
 translate chinese b1c07cs01_3b4f8e0e:
 
     # mc "Like you wouldn't believe."
-    mc "Like you wouldn't believe."
+    mc "你肯定想不到。"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:413
 translate chinese b1c07cs01_3c9f007a:
 
     # nv "Del! How was the discussion? Anything interesting?"
-    nv "Del! How was the discussion? Anything interesting?"
+    nv "德尔菲娅！讨论得怎么样？有什么有趣的吗？"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:416
 translate chinese b1c07cs01_bd1149f8:
 
     # dk "Nah, not really. Just Guide stuff."
-    dk "Nah, not really. Just Guide stuff."
+    dk "没，没什么。就只是些向导相关的工作。"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:419
 translate chinese b1c07cs01_ce6483d9:
 
     # ll "Do you know if we'll have enough housing and resources for everyone? I'm a little nervous about traveling without knowing..."
-    ll "Do you know if we'll have enough housing and resources for everyone? I'm a little nervous about traveling without knowing..."
+    ll "你知道我们会不会有足够的住房和资源供大家使用吗？在不知道的情况下旅行，我有点紧张..."
 
 # game/code/Book-1/Chapter-7c/s01.rpy:422
 translate chinese b1c07cs01_1320f216:
 
     # dk "Absolutely! The community will have plenty to share with everyone. We'd never let anyone go without needs."
-    dk "Absolutely! The community will have plenty to share with everyone. We'd never let anyone go without needs."
+    dk "当然！社区将有很多东西与大家分享。我们绝不会让任何人怀有需求不能被满足的遗憾。"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:425
 translate chinese b1c07cs01_da5b627e:
 
     # ll "Oh, s-sorry if it's a stupid question. I just—"
-    ll "Oh, s-sorry if it's a stupid question. I just—"
+    ll "哦，如果这个问题很蠢，请原谅。我只是--"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:429
 translate chinese b1c07cs01_b265e42e:
 
     # dk "Never, love. Your concerns are valid. I appreciate your thoughtfulness of everyone's needs."
-    dk "Never, love. Your concerns are valid. I appreciate your thoughtfulness of everyone's needs."
+    dk "绝对没有，亲爱的。你的担忧是有道理的。我很欣赏你为每个人的需要着想。"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:437
 translate chinese b1c07cs01_6011910e:
 
     # mct "They're gone? Where'd they go?"
-    mct "They're gone? Where'd they go?"
+    mct "他们走了？他们去哪儿了？
 
 # game/code/Book-1/Chapter-7c/s01.rpy:438
 translate chinese b1c07cs01_18dd2669:
 
     # mct "I've had the entrance in view this entire time. I would've noticed them leave."
-    mct "I've had the entrance in view this entire time. I would've noticed them leave."
+    mct "我一直都在盯着入口。如果出去了，我会注意到他们离开的。"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:440
 translate chinese b1c07cs01_8d0e70fc:
 
     # "Your eyes dart around the library, looking for any sign of Andre and Ivy. But there's nothing."
-    "Your eyes dart around the library, looking for any sign of Andre and Ivy. But there's nothing."
+    "你的眼睛在图书馆里转来转去，寻找安杰斯和艾薇的踪迹，但什么也没有。"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:441
 translate chinese b1c07cs01_9d75bfa3:
 
     # "It's as if they vanished. You don't spot them between the book shelves or behind desks. They're just gone."
-    "It's as if they vanished. You don't spot them between the book shelves or behind desks. They're just gone."
+    "就好像他们消失了一样，你在书架间没有发现他们。"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:444
 translate chinese b1c07cs01_4776e7ad:
 
     # ll "Are you okay? You look a little down."
-    ll "Are you okay? You look a little down."
+    ll "你还好吗？看起来有点沮丧。"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:447
 translate chinese b1c07cs01_ca67581e:
 
     # mct "Shit, she noticed..."
-    mct "Shit, she noticed..."
+    mct "妈的，她发现了..."
 
 # game/code/Book-1/Chapter-7c/s01.rpy:450
 translate chinese b1c07cs01_cce6bd83:
 
     # ll "Are you nervous about the trip, too?"
-    ll "Are you nervous about the trip, too?"
+    ll "你也在为旅途紧张吗？"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:452
 translate chinese b1c07cs01_e8d9e285:
 
     # mct "Thank god she gave me the perfect excuse."
-    mct "Thank god she gave me the perfect excuse."
+    mct "谢天谢地，她给了我一个完美的借口。"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:455
 translate chinese b1c07cs01_16b8d4fb:
 
     # mc "Yeah, I guess a bit. I mean, I'm excited too."
-    mc "Yeah, I guess a bit. I mean, I'm excited too."
+    mc "是的，我想有一点。我的意思是，我也很兴奋。"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:456
 translate chinese b1c07cs01_f27f3f98:
 
     # mc "But trips are always exciting as they are nerve-wracking for me."
-    mc "But trips are always exciting as they are nerve-wracking for me."
+    mc "但对我来说，旅行总是让人兴奋又让人紧张。"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:459
 translate chinese b1c07cs01_e1a84db0:
 
     # ll "Same for me. I understand. But we'll look out for each other, right?"
-    ll "Same for me. I understand. But we'll look out for each other, right?"
+    ll "我也一样。我理解。但我们会互相照顾，对吗？"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:462
 translate chinese b1c07cs01_0817892e:
 
     # mc "Always."
-    mc "Always."
+    mc "一直如此。"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:465
 translate chinese b1c07cs01_7d57125d:
 
     # ll "Well, I should get going. I've got classes. I'm glad I got to chat with you all, though."
-    ll "Well, I should get going. I've got classes. I'm glad I got to chat with you all, though."
+    ll "我该走了，我还有课。不过我很高兴能和你们聊天。"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:468
 translate chinese b1c07cs01_688fb789:
 
     # dk "Bye, Lumi."
-    dk "Bye, Lumi."
+    dk "B、再见，卢米。"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:471
 translate chinese b1c07cs01_7beeb819:
 
     # nv "See you later!"
-    nv "See you later!"
+    nv "回头见！"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:474
 translate chinese b1c07cs01_3b4d7608:
 
     # dk "I've gotta get going too, but before I go..."
-    dk "I've gotta get going too, but before I go..."
+    dk "我也得走了，不过在走之前..."
 
 # game/code/Book-1/Chapter-7c/s01.rpy:477
 translate chinese b1c07cs01_ca89c9f8:
 
     # dk "You two need to meet me at my dorm later. There's some exercises we need to do to progress your healing journeys."
-    dk "You two need to meet me at my dorm later. There's some exercises we need to do to progress your healing journeys."
+    dk "你们俩待会儿到我宿舍来找我。我们要做一些练习，让你们的治疗之旅更进一步。"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:480
 translate chinese b1c07cs01_40826bb9:
 
     # nv "Of course. I'll be there."
-    nv "Of course. I'll be there."
+    nv "当然。我会去的。"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:483
 translate chinese b1c07cs01_187d7c09:
 
     # mc "Yeah, I'll be there."
-    mc "Yeah, I'll be there."
+    mc "好的，我会去的。"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:486
 translate chinese b1c07cs01_5e959c50:
 
     # dk "Delightful. I'll see you two later, then."
-    dk "Delightful. I'll see you two later, then."
+    dk "太好了。回头见你俩。"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:490
 translate chinese b1c07cs01_00db7c6b:
 
     # "[mcname] and Nia" "Bye, Del."
-    "[mcname] and Nia" "Bye, Del."
+    "[mcname]和妮娅" "再见，德尔菲娅。"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:493
 translate chinese b1c07cs01_8a0e9d62:
 
     # nv "I should get going too. But I'm so happy we got to spend some time together. You got classes today?"
-    nv "I should get going too. But I'm so happy we got to spend some time together. You got classes today?"
+    nv "我也该走了。但我很高兴我们能在一起度过一段时间。你今天有课吗？"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:496
 translate chinese b1c07cs01_b04fa015:
 
     # mc "Nah, not many. But I got a few appointments I gotta get to before our exercises later today."
-    mc "Nah, not many. But I got a few appointments I gotta get to before our exercises later today."
+    mc "没，课不多。不过在今天晚上的练习之前，我还得去赴几个约会。"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:499
 translate chinese b1c07cs01_50b77ffc:
 
     # nv "Well, I'll see you later then."
-    nv "Well, I'll see you later then."
+    nv "好吧，那回头见。"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:502
 translate chinese b1c07cs01_a8252cbe:
 
     # mc "Bye, Nia."
-    mc "Bye, Nia."
+    mc "再见，妮娅。"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:505
 translate chinese b1c07cs01_6b32d9f4:
 
     # mct "I would've seen Andre and Ivy leave if they'd taken the main entrance..."
-    mct "I would've seen Andre and Ivy leave if they'd taken the main entrance..."
+    mct "如果安杰斯和艾薇走正门，我一定会看到他们离开..."
 
 # game/code/Book-1/Chapter-7c/s01.rpy:507
 translate chinese b1c07cs01_9b178051:
 
     # mct "Which means there must be another entrance to the library."
-    mct "Which means there must be another entrance to the library."
+    mct "也就是说，图书馆肯定还有另一个入口。"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:511
 translate chinese b1c07cs01_a7c37b68:
 
     # mct "Maybe Sally knows something. I'm headed there now, so I'll have to ask her."
-    mct "Maybe Sally knows something. I'm headed there now, so I'll have to ask her."
+    mct "也许莎莉知道些什么，我现在就过去，得问问她。"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:513
 translate chinese b1c07cs01_c3825207:
 
     # mct "I'll have to come back later and investigate the building. There's gotta be {i}some{/i} sort of evidence as to where they went."
-    mct "I'll have to come back later and investigate the building. There's gotta be {i}some{/i} sort of evidence as to where they went."
+    mct "我晚点再来调查这栋楼。一定会{i}有{/i}证据证明他们去了哪里。"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:515
 translate chinese b1c07cs01_f03e4f94:
 
     # mct "But for now, I'd better get to that art studio."
-    mct "But for now, I'd better get to that art studio."
+    mct "但现在，我最好先去艺术工作室。"
 
 translate chinese strings:
 
     # game/code/Book-1/Chapter-7c/s01.rpy:4
     old "Next Morning"
-    new "Next Morning"
+    new "第二天早上"
 
     # game/code/Book-1/Chapter-7c/s01.rpy:120
     old "What the hell is she talking about?"
-    new "What the hell is she talking about?"
+    new "她到底在说什么？"
 
     # game/code/Book-1/Chapter-7c/s01.rpy:120
     old "I'm already lost."
-    new "I'm already lost."
+    new "我已经糊涂了"
 
     # game/code/Book-1/Chapter-7c/s01.rpy:237
     old "Kiss her hand"
-    new "Kiss her hand"
+    new "吻她的手"
 
     # game/code/Book-1/Chapter-7c/s01.rpy:237
     old "Shake hands"
-    new "Shake hands"
+    new "握手"
 
