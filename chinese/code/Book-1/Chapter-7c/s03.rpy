@@ -4,109 +4,109 @@
 translate chinese b1c07cs03_8f5a6f35:
 
     # mct "Wow, this place is a mess. Do all artists work like this?"
-    mct "Wow, this place is a mess. Do all artists work like this?"
+    mct "哇，这地方真乱。所有艺术家都是这样工作的吗？"
 
 # game/code/Book-1/Chapter-7c/s03.rpy:26
 translate chinese b1c07cs03_9b82dc68:
 
     # mct "Most of these sketches are of Maria."
-    mct "Most of these sketches are of Maria."
+    mct "这些素描大多是玛丽亚的。"
 
 # game/code/Book-1/Chapter-7c/s03.rpy:28
 translate chinese b1c07cs03_1c8ad253:
 
     # mct "I guess that's evidence enough that this artist and Maria knew each other well."
-    mct "I guess that's evidence enough that this artist and Maria knew each other well."
+    mct "我想这足以证明这位艺术家和玛丽亚很熟。"
 
 # game/code/Book-1/Chapter-7c/s03.rpy:30
 translate chinese b1c07cs03_89d50f97:
 
     # mct "Almost seems as though Maria was a huge inspiration for the artist..."
-    mct "Almost seems as though Maria was a huge inspiration for the artist..."
+    mct "似乎玛丽亚给了这位艺术家很大的灵感..."
 
 # game/code/Book-1/Chapter-7c/s03.rpy:37
 translate chinese b1c07cs03_cd6758a0:
 
     # mc "Excuse me, I'm sorry to intrude, but I'm here to investigate the disappearance of Maria Francesca Krall."
-    mc "Excuse me, I'm sorry to intrude, but I'm here to investigate the disappearance of Maria Francesca Krall."
+    mc "对不起，打扰了，我是来调查玛丽亚·弗朗西斯卡·克拉尔失踪案的。"
 
 # game/code/Book-1/Chapter-7c/s03.rpy:40
 translate chinese b1c07cs03_75720ca2:
 
     # "The artist doesn't respond. She's too deep in thought to acknowledge you."
-    "The artist doesn't respond. She's too deep in thought to acknowledge you."
+    "艺术家没有回应。她沉浸在自己的思绪中，没有搭理你。"
 
 # game/code/Book-1/Chapter-7c/s03.rpy:42
 translate chinese b1c07cs03_51aa6bdd:
 
     # mc "Hey, excuse me?"
-    mc "Hey, excuse me?"
+    mc "嘿，打扰一下。"
 
 # game/code/Book-1/Chapter-7c/s03.rpy:45
 translate chinese b1c07cs03_a1f24c18:
 
     # mct "Does she have headphones in or something?"
-    mct "Does she have headphones in or something?"
+    mct "她戴耳机了还是怎么？"
 
 # game/code/Book-1/Chapter-7c/s03.rpy:48
 translate chinese b1c07cs03_5ce01ebc:
 
     # mc "Can you hear me? I'm here for the investigation of your friend, Maria?"
-    mc "Can you hear me? I'm here for the investigation of your friend, Maria?"
+    mc "你能听见我说话吗？我是来调查你朋友玛丽亚的？"
 
 # game/code/Book-1/Chapter-7c/s03.rpy:49
 translate chinese b1c07cs03_357cd144:
 
     # mc "Hey, are you—"
-    mc "Hey, are you—"
+    mc "嘿，你是不是--"
 
 # game/code/Book-1/Chapter-7c/s03.rpy:52
 translate chinese b1c07cs03_14c32c4f:
 
     # edo "WHAT?!"
-    edo "WHAT?!"
+    edo "什么东西?!"
 
 # game/code/Book-1/Chapter-7c/s03.rpy:55
 translate chinese b1c07cs03_01f6dc74:
 
     # mc "Sorry, I didn't mean to surprise you."
-    mc "Sorry, I didn't mean to surprise you."
+    mc "对不起，我不是故意吓你一跳的。"
 
 # game/code/Book-1/Chapter-7c/s03.rpy:58
 translate chinese b1c07cs03_7356e6b5:
 
     # edo "Y-you're..."
-    edo "Y-you're..."
+    edo "你--你是..."
 
 # game/code/Book-1/Chapter-7c/s03.rpy:61
 translate chinese b1c07cs03_bc208ab9:
 
     # mc "Um, I'm sorry? Can you speak up?"
-    mc "Um, I'm sorry? Can you speak up?"
+    mc "嗯，对不起？你能大声点吗？"
 
 # game/code/Book-1/Chapter-7c/s03.rpy:64
 translate chinese b1c07cs03_4cfe5404:
 
     # "The artist stands before you, looking intensely into your eyes as though you're a work of art."
-    "The artist stands before you, looking intensely into your eyes as though you're a work of art."
+    "艺术家站在你面前，深深地看着你的眼睛，仿佛你是一件艺术品。"
 
 # game/code/Book-1/Chapter-7c/s03.rpy:67
 translate chinese b1c07cs03_ebea14c4:
 
     # edo "Take off your shirt and sit."
-    edo "Take off your shirt and sit."
+    edo "脱掉上衣，然后坐下。"
 
 # game/code/Book-1/Chapter-7c/s03.rpy:69
 translate chinese b1c07cs03_85b44712:
 
     # "You're taken aback by her abrasive yet passionate tone."
-    "You're taken aback by her abrasive yet passionate tone."
+    "你被她粗鲁却充满激情的语气吓了一跳。"
 
 # game/code/Book-1/Chapter-7c/s03.rpy:72
 translate chinese b1c07cs03_90479546:
 
     # mc "I just came to ask a few questions about Maria Krall."
-    mc "I just came to ask a few questions about Maria Krall."
+    mc "我只是来问几个关于玛丽亚·克拉尔的问题。"
 
 # game/code/Book-1/Chapter-7c/s03.rpy:75
 translate chinese b1c07cs03_030706bf:
