@@ -4,19 +4,19 @@
 translate chinese b1c07cs04_ca5a676e:
 
     # mct "Del told me to come here for some sort of self-help thing with Nia."
-    mct "Del told me to come here for some sort of self-help thing with Nia."
+    mct "德尔菲娅让我来这里和妮娅一起参加自助活动。"
 
 # game/code/Book-1/Chapter-7c/s04.rpy:15
 translate chinese b1c07cs04_1376f1c8:
 
     # mct "Hopefully it'll be quick."
-    mct "Hopefully it'll be quick."
+    mct "希望能快点完事。"
 
 # game/code/Book-1/Chapter-7c/s04.rpy:19
 translate chinese b1c07cs04_3003131b:
 
     # dk "Come in!"
-    dk "Come in!"
+    dk "进来！"
 
 # game/code/Book-1/Chapter-7c/s04.rpy:27
 translate chinese b1c07cs04_946de3f2:
