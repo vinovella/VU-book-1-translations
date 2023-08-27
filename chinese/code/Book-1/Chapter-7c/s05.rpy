@@ -4,133 +4,133 @@
 translate chinese b1c07cs05_4f81770b:
 
     # mc "Whoa, I didn't know this place had a rooftop greenhouse."
-    mc "Whoa, I didn't know this place had a rooftop greenhouse."
+    mc "哇，我不知道这地方还有屋顶花园呢。"
 
 # game/code/Book-1/Chapter-7c/s05.rpy:19
 translate chinese b1c07cs05_bf7f7354:
 
     # dk "It's a pretty secluded thing. Not many students outside of our little self-help group come up here."
-    dk "It's a pretty secluded thing. Not many students outside of our little self-help group come up here."
+    dk "这里很隐蔽。除了我们这个小小的自助小组，很少有学生来这里。"
 
 # game/code/Book-1/Chapter-7c/s05.rpy:51
 translate chinese b1c07cs05_034613f4:
 
     # dk "Irene, darling!"
-    dk "Irene, darling!"
+    dk "艾琳，亲爱的！"
 
 # game/code/Book-1/Chapter-7c/s05.rpy:54
 translate chinese b1c07cs05_84fc8ee8:
 
     # ij "Hello, Delphia. It's wonderful to see you."
-    ij "Hello, Delphia. It's wonderful to see you."
+    ij "哎呀，德尔菲娅，见到你真高兴。"
 
 # game/code/Book-1/Chapter-7c/s05.rpy:76
 translate chinese b1c07cs05_83784ff8:
 
     # dk "Everyone, please sit on the ground before me."
-    dk "Everyone, please sit on the ground before me."
+    dk "大家请坐在我面前的地上。"
 
 # game/code/Book-1/Chapter-7c/s05.rpy:79
 translate chinese b1c07cs05_a8ae17ea:
 
     # dk "Irene and I, your Guides, have called you here today to get everyone better acquainted with one another."
-    dk "Irene and I, your Guides, have called you here today to get everyone better acquainted with one another."
+    dk "艾琳和我，作为你们的向导，今天把你们叫到这里，是为了让大家更好地熟悉彼此。"
 
 # game/code/Book-1/Chapter-7c/s05.rpy:80
 translate chinese b1c07cs05_e06d8b29:
 
     # mct "Irene must be Lumi's Guide, considering Del is mine and Nia's."
-    mct "Irene must be Lumi's Guide, considering Del is mine and Nia's."
+    mct "艾琳一定是卢米的向导，因为德尔菲娅是我和妮娅的向导。"
 
 # game/code/Book-1/Chapter-7c/s05.rpy:81
 translate chinese b1c07cs05_8886579a:
 
     # dk "Eliina is usually Lumi's partner, but since she's more advanced in her rank, we figured we'd work with our newer souls today."
-    dk "Eliina is usually Lumi's partner, but since she's more advanced in her rank, we figured we'd work with our newer souls today."
+    dk "爱丽娜通常是卢米的搭档，但由于她的级别更高，所以我们觉得今天应该和新来的灵魂一起工作。"
 
 # game/code/Book-1/Chapter-7c/s05.rpy:88
 translate chinese b1c07cs05_c2c9404a:
 
     # dk "As you know, intimacy is one of the most important experiences of being human. We want to cultivate a space of intimacy and vulnerability between members."
-    dk "As you know, intimacy is one of the most important experiences of being human. We want to cultivate a space of intimacy and vulnerability between members."
+    dk "众所周知，亲密关系是人类最重要的体验之一。我们希望在成员之间营造一个亲密和脆弱的空间。"
 
 # game/code/Book-1/Chapter-7c/s05.rpy:89
 translate chinese b1c07cs05_d66c9470:
 
     # dk "We've gathered here to create a space of love and acceptance of each other. We're all divinely connected, and it is important to recognize ourselves in each other."
-    dk "We've gathered here to create a space of love and acceptance of each other. We're all divinely connected, and it is important to recognize ourselves in each other."
+    dk "我们聚集在这里，是为了创造一个彼此关爱和接纳的空间。我们都是神圣相连的，重要的是要在彼此身上认出自己。"
 
 # game/code/Book-1/Chapter-7c/s05.rpy:91
 translate chinese b1c07cs05_2657fea1:
 
     # dk "So please, take a moment to connect with your peers. Irene and I have some things to discuss about today's session before we begin."
-    dk "So please, take a moment to connect with your peers. Irene and I have some things to discuss about today's session before we begin."
+    dk "所以，请花一点时间与你们的同伴交流。在我们开始之前，艾琳和我还要就今天的课程讨论一些事情。"
 
 # game/code/Book-1/Chapter-7c/s05.rpy:94
 translate chinese b1c07cs05_32f056ef:
 
     # mct "Now's a good time to get to know Lumi..."
-    mct "Now's a good time to get to know Lumi..."
+    mct "现在是了解卢米的好时机..."
 
 # game/code/Book-1/Chapter-7c/s05.rpy:97
 translate chinese b1c07cs05_91d8a70c:
 
     # mc "You okay?"
-    mc "You okay?"
+    mc "你还好吗？"
 
 # game/code/Book-1/Chapter-7c/s05.rpy:100
 translate chinese b1c07cs05_2342c1a3:
 
     # ll "Yeah, I guess. Just worried I won't be able to be vulnerable enough, y'know?"
-    ll "Yeah, I guess. Just worried I won't be able to be vulnerable enough, y'know?"
+    ll "还好吧，只是担心自己不够脆弱，你懂吗？"
 
 # game/code/Book-1/Chapter-7c/s05.rpy:102
 translate chinese b1c07cs05_c76a2026:
 
     # ll "Everyone here seems so close, like it's so {i}easy{/i} to open up."
-    ll "Everyone here seems so close, like it's so {i}easy{/i} to open up."
+    ll "这里的每个人看起来都很亲近，好像很{i}容易{/i}敞开心扉。"
 
 # game/code/Book-1/Chapter-7c/s05.rpy:105
 translate chinese b1c07cs05_575b5ea8:
 
     # ll "But it feels really difficult for me."
-    ll "But it feels really difficult for me."
+    ll "但对我来说却很难。"
 
 # game/code/Book-1/Chapter-7c/s05.rpy:106
 translate chinese b1c07cs05_c84f69ca:
 
     # ll "I don't want anyone to think I'm annoying or a burden."
-    ll "I don't want anyone to think I'm annoying or a burden."
+    ll "我不想让别人觉得我很烦人或者我是他们的负担。"
 
 # game/code/Book-1/Chapter-7c/s05.rpy:110
 translate chinese b1c07cs05_d33098bf:
 
     # mct "How am I gonna convince her to get a tattoo if she's so anxious?"
-    mct "How am I gonna convince her to get a tattoo if she's so anxious?"
+    mct "如果她这么焦虑，我怎么说服她去纹身？"
 
 # game/code/Book-1/Chapter-7c/s05.rpy:111
 translate chinese b1c07cs05_685c5e08:
 
     # mct "Not to mention how awful it feels to convince her to get a tattoo anyway. God, this is messed up..."
-    mct "Not to mention how awful it feels to convince her to get a tattoo anyway. God, this is messed up..."
+    mct "更别提说服她去纹身的感觉有多糟糕了。天哪，真是一团糟..."
 
 # game/code/Book-1/Chapter-7c/s05.rpy:114
 translate chinese b1c07cs05_3ac0053d:
 
     # mc "I'm sorry, Lumi. That's a tough spot to be in."
-    mc "I'm sorry, Lumi. That's a tough spot to be in."
+    mc "我很遗憾，卢米。你的处境很艰难吧。"
 
 # game/code/Book-1/Chapter-7c/s05.rpy:117
 translate chinese b1c07cs05_dec3a679:
 
     # nv "We're here for you though, Lumi!"
-    nv "We're here for you though, Lumi!"
+    nv "我们会支持你的，卢米！"
 
 # game/code/Book-1/Chapter-7c/s05.rpy:120
 translate chinese b1c07cs05_98910beb:
 
     # mc "Exactly. Everyone moves at a different pace. We accept you as you are. Like Delphia said."
-    mc "Exactly. Everyone moves at a different pace. We accept you as you are. Like Delphia said."
+    mc "没错。每个人的步调都不一样。就像德尔菲娅说的那样，我们接受你现在的样子。"
 
 # game/code/Book-1/Chapter-7c/s05.rpy:123
 translate chinese b1c07cs05_4b1f64d1:
