@@ -730,7 +730,7 @@ translate chinese b1c07cs01_b265e42e:
 translate chinese b1c07cs01_6011910e:
 
     # mct "They're gone? Where'd they go?"
-    mct "他们走了？他们去哪儿了？
+    mct "他们走了？他们去哪儿了？"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:438
 translate chinese b1c07cs01_18dd2669:

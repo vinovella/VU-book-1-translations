@@ -262,7 +262,7 @@ translate chinese b1c07cs02_50b43b61:
 translate chinese b1c07cs02_9bbff803:
 
     # sd "When I got pregnant, for a while things got {i}even more{/i} euphoric."
-    sd 当我怀孕的时候，有一段时间一切变得{i}更加{/i}令人兴奋。"
+    sd "当我怀孕的时候，有一段时间一切变得{i}更加{/i}令人兴奋。"
 
 # game/code/Book-1/Chapter-7c/s02.rpy:190
 translate chinese b1c07cs02_d312301f:
