@@ -76,7 +76,7 @@ translate chinese b1c07cs07_bd3b37dc:
 translate chinese b1c07cs07_d18e8064:
 
     # mc "After you."
-    mc "你先请。
+    mc "你先请。"
 
 # game/code/Book-1/Chapter-7c/s07.rpy:65
 translate chinese b1c07cs07_after_lunch_b36e3912:
