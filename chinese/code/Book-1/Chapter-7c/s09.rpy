@@ -412,195 +412,195 @@ translate chinese b1c07cs09_sex_f58fe197:
 translate chinese b1c07cs09_sex_0efcfa74:
 
     # "You hesitate only a moment before sinking yourself deep into Irene."
-    "You hesitate only a moment before sinking yourself deep into Irene."
+    "你只犹豫了片刻，就深深地插入了艾琳。"
 
 # game/code/Book-1/Chapter-7c/s09.rpy:344
 translate chinese b1c07cs09_sex_b6e54cdf:
 
     # "Her walls stretch and then clench tightly around you, pulling you farther in."
-    "Her walls stretch and then clench tightly around you, pulling you farther in."
+    "她的肉壁层层叠叠地覆上来，紧紧夹住你，把你吸得更深入。"
 
 # game/code/Book-1/Chapter-7c/s09.rpy:346
 translate chinese b1c07cs09_sex_4250d392:
 
     # "Irene lets out a lustful moan as you bottom out inside her."
-    "Irene lets out a lustful moan as you bottom out inside her."
+    "你在她体内直捣到底时，艾琳发出销魂的呻吟。"
 
 # game/code/Book-1/Chapter-7c/s09.rpy:351
 translate chinese b1c07cs09_sex_17b0b9fb:
 
     # ij "Fuck, that feels so good."
-    ij "Fuck, that feels so good."
+    ij "操，感觉真舒服。"
 
 # game/code/Book-1/Chapter-7c/s09.rpy:355
 translate chinese b1c07cs09_sex_7ad789b9:
 
     # "Irene touches herself. She's so needy for pleasure and release from you."
-    "Irene touches herself. She's so needy for pleasure and release from you."
+    "艾琳情不自禁地抚摸着自己，她是那么渴望从你那里得到快感和释放。"
 
 # game/code/Book-1/Chapter-7c/s09.rpy:358
 translate chinese b1c07cs09_sex_3cfb0867:
 
     # "You fuck her ravenously, and Irene's answering moans are loud and blissed out from pleasure."
-    "You fuck her ravenously, and Irene's answering moans are loud and blissed out from pleasure."
+    "你如饥似渴地干着她，艾琳的呻吟声响亮的回荡着，宣告了她的快乐。"
 
 # game/code/Book-1/Chapter-7c/s09.rpy:363
 translate chinese b1c07cs09_sex_5ed776e5:
 
     # ij "Harder, please, harder! I want you to give it all to me."
-    ij "Harder, please, harder! I want you to give it all to me."
+    ij "用力，求你了，狠狠操我！我要你全部都给我。"
 
 # game/code/Book-1/Chapter-7c/s09.rpy:369
 translate chinese b1c07cs09_sex_34605ff5:
 
     # "You take Irene's cock in your hand as you fuck her and start stroking her."
-    "You take Irene's cock in your hand as you fuck her and start stroking her."
+    "你一边操艾琳，一边用手握住她的鸡巴，开始摸她。"
 
 # game/code/Book-1/Chapter-7c/s09.rpy:374
 translate chinese b1c07cs09_sex_55879844:
 
     # mc "You like that, Irene? You like when I take control of your body like this?"
-    mc "You like that, Irene? You like when I take control of your body like this?"
+    mc "艾琳，你喜欢这样吗？你喜欢我这样掌控你的身体吗？"
 
 # game/code/Book-1/Chapter-7c/s09.rpy:376
 translate chinese b1c07cs09_sex_4eaaf084:
 
     # "Irene's eyes roll back into her head with pleasure."
-    "Irene's eyes roll back into her head with pleasure."
+    "艾琳高兴得两眼放光。"
 
 # game/code/Book-1/Chapter-7c/s09.rpy:378
 translate chinese b1c07cs09_sex_8f9d009c:
 
     # ij "Yes, please! It feels so good when you rub me like that."
-    ij "Yes, please! It feels so good when you rub me like that."
+    ij "喜欢，求你了！你这样上下揉搓，感觉真的好舒服。"
 
 # game/code/Book-1/Chapter-7c/s09.rpy:387
 translate chinese b1c07cs09_sex_3f81601e:
 
     # mc "That's it, cum for me, let me know how good it feels."
-    mc "That's it, cum for me, let me know how good it feels."
+    mc "很好，给我射出来，让我知道你有多爽。"
 
 # game/code/Book-1/Chapter-7c/s09.rpy:389
 translate chinese b1c07cs09_sex_5b4867af:
 
     # ij "Ohh, it feels so good! Keep going just like that, I'm going to cum!"
-    ij "Ohh, it feels so good! Keep going just like that, I'm going to cum!"
+    ij "哦哦，感觉好爽！继续啊啊，我要射了！"
 
 # game/code/Book-1/Chapter-7c/s09.rpy:391
 translate chinese b1c07cs09_sex_d8d5fdc4:
 
     # mc "Good girl, cum for me."
-    mc "Good girl, cum for me."
+    mc "好女孩，为我射出来。"
 
 # game/code/Book-1/Chapter-7c/s09.rpy:392
 translate chinese b1c07cs09_sex_6e522b84:
 
     # "You pound Irene hard for a few moments longer, feeling her muscles convulse with pleasure."
-    "You pound Irene hard for a few moments longer, feeling her muscles convulse with pleasure."
+    "你又狠狠地抽插了艾琳一会儿，感觉到她的肌肉因快感而抽搐。"
 
 # game/code/Book-1/Chapter-7c/s09.rpy:395
 translate chinese b1c07cs09_sex_27a22753:
 
     # ij "I'm cumming, I'm cumming!"
-    ij "I'm cumming, I'm cumming!"
+    ij "我要射了，我要射了！"
 
 # game/code/Book-1/Chapter-7c/s09.rpy:400
 translate chinese b1c07cs09_sex_1fb9cadb:
 
     # mc "Good, me too."
-    mc "Good, me too."
+    mc "很好，我也是。"
 
 # game/code/Book-1/Chapter-7c/s09.rpy:403
 translate chinese b1c07cs09_sex_184a1690:
 
     # ij "Mm, that feels so good."
-    ij "Mm, that feels so good."
+    ij "嗯，真是爽的要命。"
 
 # game/code/Book-1/Chapter-7c/s09.rpy:406
 translate chinese b1c07cs09_sex_6f92c032:
 
     # mc "Just what we needed, right?"
-    mc "Just what we needed, right?"
+    mc "正是我们需要的，对吗？"
 
 # game/code/Book-1/Chapter-7c/s09.rpy:409
 translate chinese b1c07cs09_sex_842f8c78:
 
     # ij "Absolutely. I needed a good fuck."
-    ij "Absolutely. I needed a good fuck."
+    ij "没错，我需要好好干一炮。"
 
 # game/code/Book-1/Chapter-7c/s09.rpy:412
 translate chinese b1c07cs09_sex_afea47b4:
 
     # ij "Well, we should get going. Although this is more private than the main library, sometimes people still pass through here."
-    ij "Well, we should get going. Although this is more private than the main library, sometimes people still pass through here."
+    ij "好了，我们该走了。虽然这里比主图书馆更隐秘，但有时还是会有人经过。"
 
 # game/code/Book-1/Chapter-7c/s09.rpy:424
 translate chinese b1c07cs09_sex_d653e7ff:
 
     # ij "I had a wonderful time. I'll see ya around, okay?"
-    ij "I had a wonderful time. I'll see ya around, okay?"
+    ij "我玩得很开心。回头见，好吗？"
 
 # game/code/Book-1/Chapter-7c/s09.rpy:427
 translate chinese b1c07cs09_sex_90db3c57:
 
     # mc "Of course. Bye, Irene."
-    mc "Of course. Bye, Irene."
+    mc "当然。再见，艾琳。"
 
 # game/code/Book-1/Chapter-7c/s09.rpy:436
 translate chinese b1c07cs09_end_7978b93f:
 
     # mct "This is a huge find. Who knows what kind of activities that location is used for? That has to be where Ivy and Andre disappeared to."
-    mct "This is a huge find. Who knows what kind of activities that location is used for? That has to be where Ivy and Andre disappeared to."
+    mct "这是个巨大的发现。谁知道那个地方是用来干什么的？艾薇和安杰斯一定是在那里消失的。"
 
 # game/code/Book-1/Chapter-7c/s09.rpy:437
 translate chinese b1c07cs09_end_3896c50a:
 
     # mct "I'll have to come back another night when there's less chance of me being caught. I barely escaped Irene's notice, and for all I know, Ivy and Andre are still down there."
-    mct "I'll have to come back another night when there's less chance of me being caught. I barely escaped Irene's notice, and for all I know, Ivy and Andre are still down there."
+    mct "我得改天等被抓到的几率小一点的时候再来，我好不容易才逃过艾琳的注意，据我所知，艾薇和安杰斯还在下面。"
 
 # game/code/Book-1/Chapter-7c/s09.rpy:440
 translate chinese b1c07cs09_end_2690836b:
 
     # mct "I {i}have{/i} to get more information on this."
-    mct "I {i}have{/i} to get more information on this."
+    mct "我{i}必须{/i}得到更多的信息。"
 
 # game/code/Book-1/Chapter-7c/s09.rpy:442
 translate chinese b1c07cs09_end_af86ec02:
 
     # mct "I'd better go back to Ezra. Maria might've told her something useful about the secret entrances. Who knows if that's even the only secret on the campus?"
-    mct "I'd better go back to Ezra. Maria might've told her something useful about the secret entrances. Who knows if that's even the only secret on the campus?"
+    mct "我还是回去找以斯拉吧。玛丽亚可能跟她说过一些关于秘密入口的有用信息。谁知道这是不是校园里唯一的秘密呢？"
 
 # game/code/Book-1/Chapter-7c/s09.rpy:444
 translate chinese b1c07cs09_end_a58d27dc:
 
     # mct "Hopefully Ezra and Maria had a close enough connection that Maria told her some details that'll help."
-    mct "Hopefully Ezra and Maria had a close enough connection that Maria told her some details that'll help."
+    mct "希望以斯拉和玛丽亚的关系足够密切，希望玛丽亚有告诉她对我有用的细节。"
 
 # game/code/Book-1/Chapter-7c/s09.rpy:447
 translate chinese b1c07cs09_end_e3cee718:
 
     # mct "Well, I better get back to my dorm. I'll continue this later."
-    mct "Well, I better get back to my dorm. I'll continue this later."
+    mct "好了，我得回宿舍了。回头再继续调查。"
 
 translate chinese strings:
 
     # game/code/Book-1/Chapter-7c/s09.rpy:34
     old "After the library closes"
-    new "After the library closes"
+    new "图书馆关门后"
 
     # game/code/Book-1/Chapter-7c/s09.rpy:67
     old "Come up with an excuse"
-    new "Come up with an excuse"
+    new "找个借口"
 
     # game/code/Book-1/Chapter-7c/s09.rpy:67
     old "Flatter and seduce"
-    new "Flatter and seduce"
+    new "赞美加诱惑她"
 
     # game/code/Book-1/Chapter-7c/s09.rpy:201
     old "Go all the way"
-    new "Go all the way"
+    new "一往无前"
 
     # game/code/Book-1/Chapter-7c/s09.rpy:201
     old "Prioritize the investigation"
-    new "Prioritize the investigation"
+    new "优先调查"
 
