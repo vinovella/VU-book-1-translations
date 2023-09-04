@@ -4,169 +4,169 @@
 translate chinese b1c07ss02_c09d8645:
 
     # mc "I'm here to see Corinne Bunker for investigation purposes. My handler, Phoebe Martinez, should've contacted you."
-    mc "I'm here to see Corinne Bunker for investigation purposes. My handler, Phoebe Martinez, should've contacted you."
+    mc "我是来找科琳·邦克做调查的，我的上司菲比·马丁内斯，应该已经联系过你了。"
 
 # game/code/Book-1/Chapter-7s/s02.rpy:20
 translate chinese b1c07ss02_d56db755:
 
     # "Guard" "Cori Bunker, huh?"
-    "Guard" "Cori Bunker, huh?"
+    "警卫" "科琳·邦克，是吧？"
 
 # game/code/Book-1/Chapter-7s/s02.rpy:23
 translate chinese b1c07ss02_17bc6980:
 
     # "Guard" "Alright, follow me. I'll take you to the interrogation room and we'll bring her in."
-    "Guard" "Alright, follow me. I'll take you to the interrogation room and we'll bring her in."
+    "警卫" "好，跟我来，我带你去审讯室，然后把她带进来。"
 
 # game/code/Book-1/Chapter-7s/s02.rpy:25
 translate chinese b1c07ss02_3922d01e:
 
     # "Guard" "Didn't know she was still being questioned. Figured they'd given up trying to crack her for information."
-    "Guard" "Didn't know she was still being questioned. Figured they'd given up trying to crack her for information."
+    "警卫" "警卫，我不知道她还在接受审问，我以为他们已经放弃向她打探消息了。"
 
 # game/code/Book-1/Chapter-7s/s02.rpy:28
 translate chinese b1c07ss02_ef16fecf:
 
     # mc "They were questioning her?"
-    mc "They were questioning her?"
+    mc "他们在审问她？"
 
 # game/code/Book-1/Chapter-7s/s02.rpy:31
 translate chinese b1c07ss02_db004851:
 
     # "Guard" "Yeah. She never revealed why she assaulted that guy."
-    "Guard" "Yeah. She never revealed why she assaulted that guy."
+    "警卫" "是啊，她从来没说过为什么要袭击那个人。"
 
 # game/code/Book-1/Chapter-7s/s02.rpy:33
 translate chinese b1c07ss02_5f6b79b5:
 
     # "Guard" "Weird thing is, that guy didn't say much, either. It was almost like he was reluctant to get her arrested."
-    "Guard" "Weird thing is, that guy didn't say much, either. It was almost like he was reluctant to get her arrested."
+    "警卫" "奇怪的是，那家伙也没说什么，就好像他不愿意让她被捕一样。"
 
 # game/code/Book-1/Chapter-7s/s02.rpy:36
 translate chinese b1c07ss02_d2e701c4:
 
     # mc "Strange..."
-    mc "Strange..."
+    mc "奇怪..."
 
 # game/code/Book-1/Chapter-7s/s02.rpy:39
 translate chinese b1c07ss02_25d92f9b:
 
     # "Guard" "You're tellin' me. The judge gave her a shorter sentence 'cause the victim wouldn't say much. Lucky for her, I guess."
-    "Guard" "You're tellin' me. The judge gave her a shorter sentence 'cause the victim wouldn't say much. Lucky for her, I guess."
+    "警卫" "你也这么觉得吧，法官给她的刑期比较短，因为受害者不肯多说。算她走运吧。"
 
 # game/code/Book-1/Chapter-7s/s02.rpy:42
 translate chinese b1c07ss02_8cea8336:
 
     # "Guard" "Which is why I'm just surprised to see she has a visitor, is all. She sends a lot of letters out, but doesn't get anything back. You're her first visitor."
-    "Guard" "Which is why I'm just surprised to see she has a visitor, is all. She sends a lot of letters out, but doesn't get anything back. You're her first visitor."
+    "警卫" "所以我才很惊讶她竟然有访客，她寄了很多信出去，但都没有回音。你是她的第一位访客。"
 
 # game/code/Book-1/Chapter-7s/s02.rpy:43
 translate chinese b1c07ss02_595994bc:
 
     # "Guard" "She's one of our most mischievous inmates. We had to put her in solitary confinement because she wouldn't stop causing trouble with other prisoners and guards."
-    "Guard" "She's one of our most mischievous inmates. We had to put her in solitary confinement because she wouldn't stop causing trouble with other prisoners and guards."
+    "警卫" "她是我们最调皮的囚犯之一。我们不得不把她她单独监禁起来，因为她总是给其他囚犯和警卫惹麻烦。"
 
 # game/code/Book-1/Chapter-7s/s02.rpy:46
 translate chinese b1c07ss02_0eeb51b4:
 
     # mc "Is she dangerous?"
-    mc "Is she dangerous?"
+    mc "她危险吗？"
 
 # game/code/Book-1/Chapter-7s/s02.rpy:49
 translate chinese b1c07ss02_c55967ae:
 
     # "Guard" "Not anymore than anyone else who winds up in {i}prison.{/i}"
-    "Guard" "Not anymore than anyone else who winds up in {i}prison.{/i}"
+    "警卫" "倒也不会比其他被关进{i}监狱{/i}的人更危险。"
 
 # game/code/Book-1/Chapter-7s/s02.rpy:52
 translate chinese b1c07ss02_d5ae2301:
 
     # mc "Fair enough."
-    mc "Fair enough."
+    mc "有道理。"
 
 # game/code/Book-1/Chapter-7s/s02.rpy:58
 translate chinese b1c07ss02_36333ee9:
 
     # "Guard" "It'll just be a few minutes."
-    "Guard" "It'll just be a few minutes."
+    "警卫" "就几分钟时间。"
 
 # game/code/Book-1/Chapter-7s/s02.rpy:61
 translate chinese b1c07ss02_062d5c4c:
 
     # mc "Okay. Thank you."
-    mc "Okay. Thank you."
+    mc "好的，谢谢。"
 
 # game/code/Book-1/Chapter-7s/s02.rpy:67
 translate chinese b1c07ss02_89f24481:
 
     # mct "Interesting that Cori's victim didn't even reveal much about the assault..."
-    mct "Interesting that Cori's victim didn't even reveal much about the assault..."
+    mct "有意思，科琳的受害者甚至没有透露太多关于袭击的事情..."
 
 # game/code/Book-1/Chapter-7s/s02.rpy:68
 translate chinese b1c07ss02_ef6e1dfa:
 
     # mct "Well, no matter. I'm not here about Cori's assault regardless."
-    mct "Well, no matter. I'm not here about Cori's assault regardless."
+    mct "嗯，不重要。我来这里不是为了科琳袭击别人的事。"
 
 # game/code/Book-1/Chapter-7s/s02.rpy:70
 translate chinese b1c07ss02_ccc47384:
 
     # mct "I'm here to find out what kind of organization Cori was involved with, and if it's connected to Zem and Leia."
-    mct "I'm here to find out what kind of organization Cori was involved with, and if it's connected to Zem and Leia."
+    mct "我来这里是为了查明科琳参与的是什么组织，以及这个组织是否与泽菲拉和莱娅有关。"
 
 # game/code/Book-1/Chapter-7s/s02.rpy:78
 translate chinese b1c07ss02_1c6a6b5e:
 
     # cb "Seriously? More questioning? You pigs can't get enough of me, huh?"
-    cb "Seriously? More questioning? You pigs can't get enough of me, huh?"
+    cb "不是吧？还要盘问？你们这些猪头还没折腾够吗？"
 
 # game/code/Book-1/Chapter-7s/s02.rpy:84
 translate chinese b1c07ss02_a96e24c5:
 
     # cb "I {i}got{/i} it. I can pull out my own chair."
-    cb "I {i}got{/i} it. I can pull out my own chair."
+    cb "我{i}知道{/i}了。我可以自己拉开椅子。"
 
 # game/code/Book-1/Chapter-7s/s02.rpy:90
 translate chinese b1c07ss02_bf6de2c3:
 
     # cb "They gave me fresh meat to play with, eh?"
-    cb "They gave me fresh meat to play with, eh?"
+    cb "他们给我派了小鲜肉来玩啊？"
 
 # game/code/Book-1/Chapter-7s/s02.rpy:93
 translate chinese b1c07ss02_f47a0be8:
 
     # mc "I'm here to ask about your past."
-    mc "I'm here to ask about your past."
+    mc "我是来问你的过去的。"
 
 # game/code/Book-1/Chapter-7s/s02.rpy:96
 translate chinese b1c07ss02_86b9fe2c:
 
     # cb "What about it?"
-    cb "What about it?"
+    cb "怎么了？"
 
 # game/code/Book-1/Chapter-7s/s02.rpy:98
 translate chinese b1c07ss02_7e780bf3:
 
     # mct "If I ask too many outright questions, she'll probably clam up. I should try to finesse this."
-    mct "If I ask too many outright questions, she'll probably clam up. I should try to finesse this."
+    mct "如果我问得太直接，她可能会拒绝回答。我应该试着迂回地问话。"
 
 # game/code/Book-1/Chapter-7s/s02.rpy:101
 translate chinese b1c07ss02_0b8d3321:
 
     # mc "Why do you think you're here?"
-    mc "Why do you think you're here?"
+    mc "你觉得你为什么会在这里？"
 
 # game/code/Book-1/Chapter-7s/s02.rpy:104
 translate chinese b1c07ss02_f7bec4d0:
 
     # cb "Why is anyone anywhere?"
-    cb "Why is anyone anywhere?"
+    cb "你问为什么会有人在这？"
 
 # game/code/Book-1/Chapter-7s/s02.rpy:109
 translate chinese b1c07ss02_2c983ffb:
 
     # cb "I'm here because the fucker who handcuffed me caught me at a bad time. That's it."
-    cb "I'm here because the fucker who handcuffed me caught me at a bad time. That's it."
+    cb "我在这里是因为很不幸地被给我戴手铐的那个混蛋抓了个正着。就是这样。"
 
 # game/code/Book-1/Chapter-7s/s02.rpy:112
 translate chinese b1c07ss02_835c9741:
