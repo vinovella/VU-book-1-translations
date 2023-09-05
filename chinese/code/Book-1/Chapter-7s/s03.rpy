@@ -4,37 +4,37 @@
 translate chinese b1c07ss03_bf908a9d:
 
     # mg "Hello, cutie."
-    mg "Hello, cutie."
+    mg "你好，小可爱。"
 
 # game/code/Book-1/Chapter-7s/s03.rpy:23
 translate chinese b1c07ss03_9e6f11df:
 
     # mc "Me?"
-    mc "Me?"
+    mc "我？"
 
 # game/code/Book-1/Chapter-7s/s03.rpy:26
 translate chinese b1c07ss03_afaebe5e:
 
     # mg "Although you're very cute, I was actually talking to my plant."
-    mg "Although you're very cute, I was actually talking to my plant."
+    mg "虽然你很可爱，但我其实是在跟我的植物说话。"
 
 # game/code/Book-1/Chapter-7s/s03.rpy:29
 translate chinese b1c07ss03_6f355a5b:
 
     # mc "You like plants?"
-    mc "You like plants?"
+    mc "你喜欢植物？"
 
 # game/code/Book-1/Chapter-7s/s03.rpy:32
 translate chinese b1c07ss03_59fa3212:
 
     # mg "Yeah, they're alright. Low maintenance. Quiet. Easy to talk to."
-    mg "Yeah, they're alright. Low maintenance. Quiet. Easy to talk to."
+    mg "是啊，它们多好。不用操心养护。又安静。还容易让人倾诉。"
 
 # game/code/Book-1/Chapter-7s/s03.rpy:33
 translate chinese b1c07ss03_d89171fc:
 
     # mg "Easier to talk to than most humans, anyway."
-    mg "Easier to talk to than most humans, anyway."
+    mg "反正比大多数人都容易让人倾诉。"
 
 # game/code/Book-1/Chapter-7s/s03.rpy:36
 translate chinese b1c07ss03_f53f7513:
