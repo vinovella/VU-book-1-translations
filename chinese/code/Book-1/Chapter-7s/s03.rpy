@@ -430,455 +430,455 @@ translate chinese b1c07ss03_d847dd47:
 translate chinese b1c07ss03_12e4fd56:
 
     # mct "Corinne Bunker is sending Morgan letters? I guess that's further confirmation that Corinne is the half sister Morgan was talking about."
-    mct "Corinne Bunker is sending Morgan letters? I guess that's further confirmation that Corinne is the half sister Morgan was talking about."
+    mct "科琳·邦克给摩根写信了？这进一步证实了科琳就是摩根说的那个同父异母的姐姐。"
 
 # game/code/Book-1/Chapter-7s/s03.rpy:252
 translate chinese b1c07ss03_b6678921:
 
     # mct "Doesn't look like Morgan's very responsive though, given all of these letters are unopened..."
-    mct "Doesn't look like Morgan's very responsive though, given all of these letters are unopened..."
+    mct "不过看起来摩根的反应不是很好，因为这些信都没有拆开..."
 
 # game/code/Book-1/Chapter-7s/s03.rpy:256
 translate chinese b1c07ss03_010e6a3d:
 
     # mg "Your turn to hit the bag. I need a break."
-    mg "Your turn to hit the bag. I need a break."
+    mg "轮到你打沙包了，我需要休息一下。"
 
 # game/code/Book-1/Chapter-7s/s03.rpy:270
 translate chinese b1c07ss03_ae3d9a5a:
 
     # mg "What's up?"
-    mg "What's up?"
+    mg "什么事？"
 
 # game/code/Book-1/Chapter-7s/s03.rpy:273
 translate chinese b1c07ss03_13d9f1a5:
 
     # mct "Wonder who she's talking to..."
-    mct "Wonder who she's talking to..."
+    mct "不知道她在跟谁说话..."
 
 # game/code/Book-1/Chapter-7s/s03.rpy:276
 translate chinese b1c07ss03_c3dd526d:
 
     # mg "Oh, tonight? I've got a—"
-    mg "Oh, tonight? I've got a—"
+    mg "哦，今晚？我今晚有个--"
 
 # game/code/Book-1/Chapter-7s/s03.rpy:277
 translate chinese b1c07ss03_e6cb0c0f:
 
     # mg "—a gig tonight, but I can stop by after that."
-    mg "—a gig tonight, but I can stop by after that."
+    mg "有个--演出，不过之后我可以过去。"
 
 # game/code/Book-1/Chapter-7s/s03.rpy:280
 translate chinese b1c07ss03_c22da748:
 
     # mg "You sound stressed. Everything okay?"
-    mg "You sound stressed. Everything okay?"
+    mg "你听起来压力很大。没事吧？"
 
 # game/code/Book-1/Chapter-7s/s03.rpy:282
 translate chinese b1c07ss03_a1333305:
 
     # "There's a pause as Morgan listens to the person on the other end of the line."
-    "There's a pause as Morgan listens to the person on the other end of the line."
+    "摩根听着电话那头的人说话，停顿了一下。"
 
 # game/code/Book-1/Chapter-7s/s03.rpy:285
 translate chinese b1c07ss03_497c983b:
 
     # mg "Mm. Alright, I guess. I'll be by earlier if I can."
-    mg "Mm. Alright, I guess. I'll be by earlier if I can."
+    mg "嗯。好吧。如果可以的话，我会早点到的。"
 
 # game/code/Book-1/Chapter-7s/s03.rpy:286
 translate chinese b1c07ss03_a311f397:
 
     # mg "Okay. Bye."
-    mg "Okay. Bye."
+    mg "好。挂了。"
 
 # game/code/Book-1/Chapter-7s/s03.rpy:291
 translate chinese b1c07ss03_2086b5a4:
 
     # mc "Everything okay?"
-    mc "Everything okay?"
+    mc "一切都还好吗？"
 
 # game/code/Book-1/Chapter-7s/s03.rpy:294
 translate chinese b1c07ss03_3bbbcff1:
 
     # mg "I assume so."
-    mg "I assume so."
+    mg "应该吧。"
 
 # game/code/Book-1/Chapter-7s/s03.rpy:296
 translate chinese b1c07ss03_3cb7a81e:
 
     # mg "Just a good friend of mine. Asked me to stop by later today."
-    mg "Just a good friend of mine. Asked me to stop by later today."
+    mg "只是我的一个好朋友，让我今天晚些时候过去。"
 
 # game/code/Book-1/Chapter-7s/s03.rpy:299
 translate chinese b1c07ss03_bf68c286:
 
     # mg "You should hydrate. It's important to take care of yourself."
-    mg "You should hydrate. It's important to take care of yourself."
+    mg "你应该补充水分，照顾好自己很重要。"
 
 # game/code/Book-1/Chapter-7s/s03.rpy:302
 translate chinese b1c07ss03_a64e8bc0:
 
     # mc "Thanks."
-    mc "Thanks."
+    mc "谢谢。"
 
 # game/code/Book-1/Chapter-7s/s03.rpy:305
 translate chinese b1c07ss03_13eb98de:
 
     # mg "Y'know, you're a strong guy. You'd be great at fighting if you decided to take it up."
-    mg "Y'know, you're a strong guy. You'd be great at fighting if you decided to take it up."
+    mg "你知道，你挺强壮。如果能接受的话，其实你会很擅长格斗的。"
 
 # game/code/Book-1/Chapter-7s/s03.rpy:308
 translate chinese b1c07ss03_10dee4ef:
 
     # mc "You think so?"
-    mc "You think so?"
+    mc "你这么认为？"
 
 # game/code/Book-1/Chapter-7s/s03.rpy:309
 translate chinese b1c07ss03_f1477836:
 
     # mg "I know so."
-    mg "I know so."
+    mg "我很清楚。"
 
 # game/code/Book-1/Chapter-7s/s03.rpy:312
 translate chinese b1c07ss03_1e156cf0:
 
     # mc "Do you do a lot of fighting? Is there some sorta class I can join with you?"
-    mc "Do you do a lot of fighting? Is there some sorta class I can join with you?"
+    mc "你经常打拳吗？有没有什么课程我可以和你一起参加？"
 
 # game/code/Book-1/Chapter-7s/s03.rpy:315
 translate chinese b1c07ss03_d59be23a:
 
     # mg "Mm..."
-    mg "Mm..."
+    mg "嗯..."
 
 # game/code/Book-1/Chapter-7s/s03.rpy:317
 translate chinese b1c07ss03_4bed8c84:
 
     # mct "Maybe if I just give her a little push, she'll say more."
-    mct "Maybe if I just give her a little push, she'll say more."
+    mct "也许我只要推她一把，她就会多说一点。"
 
 # game/code/Book-1/Chapter-7s/s03.rpy:320
 translate chinese b1c07ss03_9ce3c60e:
 
     # mc "Or maybe some kinda club? You seem so experienced. I wanna increase my skill too."
-    mc "Or maybe some kinda club? You seem so experienced. I wanna increase my skill too."
+    mc "或者有没有什么俱乐部？你看起来很有经验。我也想提高我的技能。"
 
 # game/code/Book-1/Chapter-7s/s03.rpy:323
 translate chinese b1c07ss03_f53e5e0a:
 
     # mg "What makes you think I'm involved with something?"
-    mg "What makes you think I'm involved with something?"
+    mg "你为什么就认为我一定参与什么团体了呢？"
 
 # game/code/Book-1/Chapter-7s/s03.rpy:326
 translate chinese b1c07ss03_ac759f43:
 
     # mc "Just...makes sense, y'know? 'Cause you're so good at fighting."
-    mc "Just...makes sense, y'know? 'Cause you're so good at fighting."
+    mc "只是...这样很合常理，你懂吧？因为你很擅长拳击。"
 
 # game/code/Book-1/Chapter-7s/s03.rpy:327
 translate chinese b1c07ss03_b5bcb105:
 
     # mc "I'd join you in fights if I—"
-    mc "I'd join you in fights if I—"
+    mc "我可以加入你们--"
 
 # game/code/Book-1/Chapter-7s/s03.rpy:330
 translate chinese b1c07ss03_ba06b0af:
 
     # mg "Whoa, dude. I didn't say anything about actually {i}fighting{/i} other people."
-    mg "Whoa, dude. I didn't say anything about actually {i}fighting{/i} other people."
+    mg "哇，老兄。我可没说我真的要和别人{i}打架{/i}。"
 
 # game/code/Book-1/Chapter-7s/s03.rpy:331
 translate chinese b1c07ss03_b1bf12f3:
 
     # mg "I just said you'd be good at it. I just come here to blow off steam."
-    mg "I just said you'd be good at it. I just come here to blow off steam."
+    mg "我只是说你很擅长。我只是来这里发泄一下。"
 
 # game/code/Book-1/Chapter-7s/s03.rpy:334
 translate chinese b1c07ss03_0e5d13f0:
 
     # mc "Oh. I thought you knew some people..."
-    mc "Oh. I thought you knew some people..."
+    mc "哦，我还以为你认识什么人..."
 
 # game/code/Book-1/Chapter-7s/s03.rpy:337
 translate chinese b1c07ss03_6c1787b4:
 
     # mg "What's it to you?"
-    mg "What's it to you?"
+    mg "关你什么事？"
 
 # game/code/Book-1/Chapter-7s/s03.rpy:340
 translate chinese b1c07ss03_5a93cafd:
 
     # mc "I'm just...interested."
-    mc "I'm just...interested."
+    mc "我只是...感兴趣。"
 
 # game/code/Book-1/Chapter-7s/s03.rpy:342
 translate chinese b1c07ss03_1e756aeb:
 
     # mct "Shit, maybe I pushed too hard."
-    mct "Shit, maybe I pushed too hard."
+    mct "妈的，也许我逼得太紧了。"
 
 # game/code/Book-1/Chapter-7s/s03.rpy:345
 translate chinese b1c07ss03_869ea7d6:
 
     # mg "Interested in what? Getting involved in trouble so you feel tough?"
-    mg "Interested in what? Getting involved in trouble so you feel tough?"
+    mg "对什么感兴趣？惹上麻烦，，好让你觉得自己很厉害？"
 
 # game/code/Book-1/Chapter-7s/s03.rpy:347
 translate chinese b1c07ss03_5fcb1a74:
 
     # mg "We don't need guys like that around."
-    mg "We don't need guys like that around."
+    mg "我们不需要那样的人。"
 
 # game/code/Book-1/Chapter-7s/s03.rpy:350
 translate chinese b1c07ss03_5caab8ff:
 
     # mc "But, you {i}do{/i} know some people?"
-    mc "But, you {i}do{/i} know some people?"
+    mc "但你{i}确实{/i}认识一些人？"
 
 # game/code/Book-1/Chapter-7s/s03.rpy:353
 translate chinese b1c07ss03_8a5a2238:
 
     # mg "Nobody you need to concern yourself with."
-    mg "Nobody you need to concern yourself with."
+    mg "没有你需要关心的人。"
 
 # game/code/Book-1/Chapter-7s/s03.rpy:355
 translate chinese b1c07ss03_ca36b444:
 
     # mct "She thinks I'm a poser...maybe I can use that to my advantage."
-    mct "She thinks I'm a poser...maybe I can use that to my advantage."
+    mct "她觉得我装腔作势...也许我可以利用这一点。"
 
 # game/code/Book-1/Chapter-7s/s03.rpy:358
 translate chinese b1c07ss03_56b44597:
 
     # mc "Yeah, maybe I am looking for trouble. What can I do to prove that I've got what it takes? I just need a trainer."
-    mc "Yeah, maybe I am looking for trouble. What can I do to prove that I've got what it takes? I just need a trainer."
+    mc "是啊，也许我是在自找麻烦。我该怎么做才能证明我有能力呢？我只需要一个教练。"
 
 # game/code/Book-1/Chapter-7s/s03.rpy:361
 translate chinese b1c07ss03_ad02f5c8:
 
     # mg "Nah, dude. C'mon. Let's just throw some more punches and call it a day."
-    mg "Nah, dude. C'mon. Let's just throw some more punches and call it a day."
+    mg "用不着，伙计。来吧。我们再打几拳，然后今天就到此为止吧。"
 
 # game/code/Book-1/Chapter-7s/s03.rpy:364
 translate chinese b1c07ss03_f6237e78:
 
     # mc "Morgan, wait. I'm willing to do {i}anything{/i}."
-    mc "Morgan, wait. I'm willing to do {i}anything{/i}."
+    mc "摩根，等等，我愿意做{i}任何事{/i}。"
 
 # game/code/Book-1/Chapter-7s/s03.rpy:367
 translate chinese b1c07ss03_153f2714:
 
     # mg "Anything?"
-    mg "Anything?"
+    mg "什么都行？"
 
 # game/code/Book-1/Chapter-7s/s03.rpy:370
 translate chinese b1c07ss03_e59abd2a:
 
     # mc "Anything."
-    mc "Anything."
+    mc "什么都行。"
 
 # game/code/Book-1/Chapter-7s/s03.rpy:373
 translate chinese b1c07ss03_16f8a741:
 
     # mg "Y'know, about that debt I mentioned earlier..."
-    mg "Y'know, about that debt I mentioned earlier..."
+    mg "你知道，我刚才提到的债务..."
 
 # game/code/Book-1/Chapter-7s/s03.rpy:374
 translate chinese b1c07ss03_03e07dc9:
 
     # mg "I could use some help with those odd jobs I was talking about."
-    mg "I could use some help with those odd jobs I was talking about."
+    mg "我需要找人帮我干点杂活。"
 
 # game/code/Book-1/Chapter-7s/s03.rpy:377
 translate chinese b1c07ss03_444c89b8:
 
     # mc "Odd jobs? What are they, exactly?"
-    mc "Odd jobs? What are they, exactly?"
+    mc "杂活？到底是什么？"
 
 # game/code/Book-1/Chapter-7s/s03.rpy:380
 translate chinese b1c07ss03_72c96cea:
 
     # mg "Let's just say there's plenty of fighting involved with it."
-    mg "Let's just say there's plenty of fighting involved with it."
+    mg "这么说吧，里面有很多战斗。"
 
 # game/code/Book-1/Chapter-7s/s03.rpy:381
 translate chinese b1c07ss03_8f8c014f:
 
     # mg "If you help me with that, I can get you into {i}real{/i} fighting."
-    mg "If you help me with that, I can get you into {i}real{/i} fighting."
+    mg "如果你能帮我，我就能让你参加{i}真正的{/i}格斗。"
 
 # game/code/Book-1/Chapter-7s/s03.rpy:384
 translate chinese b1c07ss03_4bf8ca29:
 
     # mc "Like, into fight rings?"
-    mc "Like, into fight rings?"
+    mc "比如，打擂台？"
 
 # game/code/Book-1/Chapter-7s/s03.rpy:387
 translate chinese b1c07ss03_a8ce2107:
 
     # mg "If that's what you're lookin' for."
-    mg "If that's what you're lookin' for."
+    mg "如果这就是你想要的，当然。"
 
 # game/code/Book-1/Chapter-7s/s03.rpy:389
 translate chinese b1c07ss03_b5352951:
 
     # mct "This is a great opportunity to fly under the radar and get information on what Leia might've been involved with..."
-    mct "This is a great opportunity to fly under the radar and get information on what Leia might've been involved with..."
+    mct "这是个绝佳的机会，我们可以暗中行事，偷偷获取莱娅可能参与的组织情报..."
 
 # game/code/Book-1/Chapter-7s/s03.rpy:393
 translate chinese b1c07ss03_1c4c24a0:
 
     # mg "But first, you gotta prove yourself."
-    mg "But first, you gotta prove yourself."
+    mg "但首先，你得证明自己。"
 
 # game/code/Book-1/Chapter-7s/s03.rpy:395
 translate chinese b1c07ss03_92f76dfa:
 
     # mc "Prove myself? How?"
-    mc "Prove myself? How?"
+    mc "证明自己？怎么证明？"
 
 # game/code/Book-1/Chapter-7s/s03.rpy:398
 translate chinese b1c07ss03_4b7913ca:
 
     # mg "I need you to deliver this to Rory."
-    mg "I need you to deliver this to Rory."
+    mg "我要你把这个交给罗里。"
 
 # game/code/Book-1/Chapter-7s/s03.rpy:400
 translate chinese b1c07ss03_489b3bd7:
 
     # mc "Rory?"
-    mc "Rory?"
+    mc "罗里？"
 
 # game/code/Book-1/Chapter-7s/s03.rpy:403
 translate chinese b1c07ss03_9b5429fb:
 
     # mg "Yeah. The one who called me earlier? I need you to deliver the envelope. It's just some money to help with rent."
-    mg "Yeah. The one who called me earlier? I need you to deliver the envelope. It's just some money to help with rent."
+    mg "对。记得刚才给我打电话的那个人吗？我要你把信封送过去。这只是用来付房租的钱。"
 
 # game/code/Book-1/Chapter-7s/s03.rpy:404
 translate chinese b1c07ss03_893543dc:
 
     # mg "Rory also mentioned needing some help with something. Didn't say what, but it shouldn't be too much for a guy like you to handle, right?"
-    mg "Rory also mentioned needing some help with something. Didn't say what, but it shouldn't be too much for a guy like you to handle, right?"
+    mg "罗里还提到需要一些帮助。没说是什么事，但对你这样的人来说，应该不难应付吧？"
 
 # game/code/Book-1/Chapter-7s/s03.rpy:405
 translate chinese b1c07ss03_d0d565ca:
 
     # mg "The address is on the envelope."
-    mg "The address is on the envelope."
+    mg "地址在信封上。"
 
 # game/code/Book-1/Chapter-7s/s03.rpy:408
 translate chinese b1c07ss03_dbec6c74:
 
     # mc "Why can't you take it?"
-    mc "Why can't you take it?"
+    mc "你为什么不能做这事？"
 
 # game/code/Book-1/Chapter-7s/s03.rpy:412
 translate chinese b1c07ss03_343c42c1:
 
     # mg "I can, but not before my gig. I'll go there afterward regardless, but it'd help us both out if you could go beforehand, y'know?"
-    mg "I can, but not before my gig. I'll go there afterward regardless, but it'd help us both out if you could go beforehand, y'know?"
+    mg "我可以，但在我演出之前不行。不管怎样，我结束后都会去的，但如果你能提前去，对我们都有帮助，明白吗？"
 
 # game/code/Book-1/Chapter-7s/s03.rpy:415
 translate chinese b1c07ss03_977e0d9b:
 
     # mc "Rory's in debt too?"
-    mc "Rory's in debt too?"
+    mc "罗里也欠债了？"
 
 # game/code/Book-1/Chapter-7s/s03.rpy:418
 translate chinese b1c07ss03_fafcebf9:
 
     # mg "It's...a long story. But that's Rory's rent money, and it'd be great if you could help out."
-    mg "It's...a long story. But that's Rory's rent money, and it'd be great if you could help out."
+    mg "这...说来话长。但那是罗里的房租钱，如果你能帮忙就太好了。"
 
 # game/code/Book-1/Chapter-7s/s03.rpy:430
 translate chinese b1c07ss03_8abe2004:
 
     # mg "You can't run with that money, by the way."
-    mg "You can't run with that money, by the way."
+    mg "顺便说一句，你不能拿着那笔钱跑路。"
 
 # game/code/Book-1/Chapter-7s/s03.rpy:433
 translate chinese b1c07ss03_11455b53:
 
     # mc "What?"
-    mc "What?"
+    mc "什么？"
 
 # game/code/Book-1/Chapter-7s/s03.rpy:436
 translate chinese b1c07ss03_1b5289a2:
 
     # mg "I'd find you. I'm very good at finding people. So you better not betray my trust, right?"
-    mg "I'd find you. I'm very good at finding people. So you better not betray my trust, right?"
+    mg "我会找到你的。我很擅长找人。所以你最好别辜负我的信任，好吧？"
 
 # game/code/Book-1/Chapter-7s/s03.rpy:437
 translate chinese b1c07ss03_6a66963a:
 
     # mg "Because I'd find you anywhere you decided to run."
-    mg "Because I'd find you anywhere you decided to run."
+    mg "因为无论你逃到哪里，我都会找到你。"
 
 # game/code/Book-1/Chapter-7s/s03.rpy:440
 translate chinese b1c07ss03_cabc33f3:
 
     # mc "I'd never run. Don't worry."
-    mc "I'd never run. Don't worry."
+    mc "我绝不会逃跑，别担心。"
 
 # game/code/Book-1/Chapter-7s/s03.rpy:443
 translate chinese b1c07ss03_637ca63a:
 
     # mg "If you can do this without doing anything shady, I'll train you to fight."
-    mg "If you can do this without doing anything shady, I'll train you to fight."
+    mg "如果你可以帮我，同时问心无愧地去做这事，我就训练你格斗。"
 
 # game/code/Book-1/Chapter-7s/s03.rpy:444
 translate chinese b1c07ss03_ba87ad48:
 
     # mg "I can get you into the same fight club as me..."
-    mg "I can get you into the same fight club as me..."
+    mg "我可以让你和我加入同一个格斗俱乐部..."
 
 # game/code/Book-1/Chapter-7s/s03.rpy:446
 translate chinese b1c07ss03_4c8061cb:
 
     # mg "Meet me at Guns n' Rosette when you're done. Tell me how you got on."
-    mg "Meet me at Guns n' Rosette when you're done. Tell me how you got on."
+    mg "完事之后到枪炮玫瑰那里找我，到时告诉我你进展如何。"
 
 # game/code/Book-1/Chapter-7s/s03.rpy:449
 translate chinese b1c07ss03_05a2927a:
 
     # mc "Sure thing, Morgan."
-    mc "Sure thing, Morgan."
+    mc "没问题，摩根。"
 
 # game/code/Book-1/Chapter-7s/s03.rpy:452
 translate chinese b1c07ss03_d8c5cdda:
 
     # mg "Well, I should get going. You should, too."
-    mg "Well, I should get going. You should, too."
+    mg "好，我该走了。你也该走了。"
 
 # game/code/Book-1/Chapter-7s/s03.rpy:455
 translate chinese b1c07ss03_720a54ee:
 
     # mc "Morgan?"
-    mc "Morgan?"
+    mc "摩根？"
 
 # game/code/Book-1/Chapter-7s/s03.rpy:458
 translate chinese b1c07ss03_a9e6baca:
 
     # mg "Yeah?"
-    mg "Yeah?"
+    mg "干嘛？"
 
 # game/code/Book-1/Chapter-7s/s03.rpy:461
 translate chinese b1c07ss03_bf448db6:
 
     # mc "Thanks. For giving me a chance, I mean."
-    mc "Thanks. For giving me a chance, I mean."
+    mc "谢谢，谢谢你给我机会。"
 
 # game/code/Book-1/Chapter-7s/s03.rpy:464
 translate chinese b1c07ss03_da012dd6:
 
     # mg "Ah, no need to be such a charmer, pretty boy. You're gonna make me blush."
-    mg "Ah, no need to be such a charmer, pretty boy. You're gonna make me blush."
+    mg "啊，没必要这样散发魅力，帅哥。你会让我脸红的。"
 
 translate chinese strings:
 
     # game/code/Book-1/Chapter-7s/s03.rpy:9
     old "After a short walk with Morgan"
-    new "After a short walk with Morgan"
+    new "与摩根散步后"
 
