@@ -1258,187 +1258,187 @@ translate chinese b1c07ss06_cjh_0d2a51ab:
 translate chinese b1c07ss06_cjh_fe8e291e:
 
     # rg "You pick up a few tricks, being friends with Morgan."
-    rg "You pick up a few tricks, being friends with Morgan."
+    rg "和摩根做朋友，你会学到一些技巧。"
 
 # game/code/Book-1/Chapter-7s/s06.rpy:683
 translate chinese b1c07ss06_cjh_87d35c04:
 
     # rg "I feel so guilty. I'm {i}endangering{/i} people, just because of this!"
-    rg "I feel so guilty. I'm {i}endangering{/i} people, just because of this!"
+    rg "我很内疚，就因为这事，我让别人陷入了{i}危险{/i}！"
 
 # game/code/Book-1/Chapter-7s/s06.rpy:686
 translate chinese b1c07ss06_cjh_a77fa41b:
 
     # mc "Hey, it's alright. I didn't fare too bad, right?"
-    mc "Hey, it's alright. I didn't fare too bad, right?"
+    mc "嘿，没关系。我过得还不错，对吧？"
 
 # game/code/Book-1/Chapter-7s/s06.rpy:689
 translate chinese b1c07ss06_cjh_757f5337:
 
     # rg "No, but still."
-    rg "No, but still."
+    rg "对，但还是本不至于此。"
 
 # game/code/Book-1/Chapter-7s/s06.rpy:692
 translate chinese b1c07ss06_cjh_2b8247e4:
 
     # rg "Morgan doesn't even know. She got me out of it after Cori assaulted me."
-    rg "Morgan doesn't even know. She got me out of it after Cori assaulted me."
+    rg "摩根根本不知道。在科琳袭击我之后，她把我救了出来。"
 
 # game/code/Book-1/Chapter-7s/s06.rpy:695
 translate chinese b1c07ss06_cjh_f8ff6118:
 
     # rg "And I just fucked it all up again."
-    rg "And I just fucked it all up again."
+    rg "我又把一切搞砸了。"
 
 # game/code/Book-1/Chapter-7s/s06.rpy:697
 translate chinese b1c07ss06_cjh_9ce13840:
 
     # "You pause and look at Rory, considering what to say next."
-    "You pause and look at Rory, considering what to say next."
+    "你停顿了一下，看着罗里，在考虑接下来该说什么。"
 
 # game/code/Book-1/Chapter-7s/s06.rpy:700
 translate chinese b1c07ss06_cjh_4486ad8f:
 
     # mc "You should tell her, Rory. Addictions are one thing. Secrets are another."
-    mc "You should tell her, Rory. Addictions are one thing. Secrets are another."
+    mc "你应该告诉她，罗里。成瘾是一回事。保密是另一回事。"
 
 # game/code/Book-1/Chapter-7s/s06.rpy:704
 translate chinese b1c07ss06_cjh_f66b6878:
 
     # rg "I must look so pathetic from an outsider's perspective."
-    rg "I must look so pathetic from an outsider's perspective."
+    rg "在外人看来，我一定很可怜。"
 
 # game/code/Book-1/Chapter-7s/s06.rpy:707
 translate chinese b1c07ss06_cjh_f0fa7535:
 
     # mc "It's more complicated than pathetic or not pathetic, isn't it?"
-    mc "It's more complicated than pathetic or not pathetic, isn't it?"
+    mc "这比可悲或不可悲更复杂，不是吗？"
 
 # game/code/Book-1/Chapter-7s/s06.rpy:710
 translate chinese b1c07ss06_cjh_31954e0c:
 
     # rg "I guess. I just...Cori got jail time for what she did to me. But her being jailed didn't really change my life, did it?"
-    rg "I guess. I just...Cori got jail time for what she did to me. But her being jailed didn't really change my life, did it?"
+    rg "我想是的。我只是...科琳因为她袭击了我被判了刑。但她的入狱并没有真正改变我的生活，不是吗？"
 
 # game/code/Book-1/Chapter-7s/s06.rpy:712
 translate chinese b1c07ss06_cjh_2ffea47c:
 
     # rg "Because it's my own actions that keep me this way."
-    rg "Because it's my own actions that keep me this way."
+    rg "因为是我自己，是我的行为让我变成这样的。"
 
 # game/code/Book-1/Chapter-7s/s06.rpy:720
 translate chinese b1c07ss06_end_adbe8123:
 
     # mc "Hey, I..."
-    mc "Hey, I..."
+    mc "嘿，我..."
 
 # game/code/Book-1/Chapter-7s/s06.rpy:723
 translate chinese b1c07ss06_end_aed33e58:
 
     # mc "I know I'm not really close to this situation, but without condemning or condoning the choices that got you here..."
-    mc "I know I'm not really close to this situation, but without condemning or condoning the choices that got you here..."
+    mc "我知道我并不了解你的处境，但我并不会谴责或宽恕让你走到这一步的选择..."
 
 # game/code/Book-1/Chapter-7s/s06.rpy:726
 translate chinese b1c07ss06_end_3b0dc4f7:
 
     # mc "Everyone's got their own fair share of shit to deal with, right? So I don't judge you."
-    mc "Everyone's got their own fair share of shit to deal with, right? So I don't judge you."
+    mc "每个人都有自己的麻烦事要处理，对吧？所以我不会评判你。"
 
 # game/code/Book-1/Chapter-7s/s06.rpy:730
 translate chinese b1c07ss06_end_67e9058f:
 
     # rg "I see why Morgan likes you."
-    rg "I see why Morgan likes you."
+    rg "我明白摩根为什么喜欢你了。"
 
 # game/code/Book-1/Chapter-7s/s06.rpy:732
 translate chinese b1c07ss06_end_e4db2b1c:
 
     # rg "Cori's lucky to have you."
-    rg "Cori's lucky to have you."
+    rg "科琳有你真幸运。"
 
 # game/code/Book-1/Chapter-7s/s06.rpy:734
 translate chinese b1c07ss06_end_3db69cac:
 
     # rg "Thank you. So much. For everything. I wouldn't have blamed you if you'd just run the other way."
-    rg "Thank you. So much. For everything. I wouldn't have blamed you if you'd just run the other way."
+    rg "谢谢，非常感谢你做的一切。如果你当时从别的方向跑开，我也不会责怪你。"
 
 # game/code/Book-1/Chapter-7s/s06.rpy:735
 translate chinese b1c07ss06_end_a95926e8:
 
     # rg "But you didn't. So, thank you."
-    rg "But you didn't. So, thank you."
+    rg "但你没有，所以，谢谢你。"
 
 # game/code/Book-1/Chapter-7s/s06.rpy:738
 translate chinese b1c07ss06_end_ba050638:
 
     # mc "It's alright. I'm glad you weren't alone, at least."
-    mc "It's alright. I'm glad you weren't alone, at least."
+    mc "没关系。至少我很高兴你不是一个人。"
 
 # game/code/Book-1/Chapter-7s/s06.rpy:741
 translate chinese b1c07ss06_end_cffcd1eb:
 
     # rg "Yeah. Been there. It's not fun."
-    rg "Yeah. Been there. It's not fun."
+    rg "是啊。我也曾一个人过。并不好玩。"
 
 # game/code/Book-1/Chapter-7s/s06.rpy:742
 translate chinese b1c07ss06_end_1d5c1090:
 
     # rg "Anyway, thank you for stopping by."
-    rg "Anyway, thank you for stopping by."
+    rg "不管怎样，谢谢你顺道拜访。"
 
 # game/code/Book-1/Chapter-7s/s06.rpy:746
 translate chinese b1c07ss06_end_c1594b63:
 
     # mc "No problem. I should get going, though."
-    mc "No problem. I should get going, though."
+    mc "没问题，不过我得走了。"
 
 # game/code/Book-1/Chapter-7s/s06.rpy:747
 translate chinese b1c07ss06_end_6b7e8591:
 
     # mc "Will you be okay?"
-    mc "Will you be okay?"
+    mc "你会没事吧？"
 
 # game/code/Book-1/Chapter-7s/s06.rpy:750
 translate chinese b1c07ss06_end_730f6dac:
 
     # rg "Yeah! Yes. I'll be fine. Please, don't worry about me."
-    rg "Yeah! Yes. I'll be fine. Please, don't worry about me."
+    rg "嗯！我没事。请别担心我。"
 
 # game/code/Book-1/Chapter-7s/s06.rpy:753
 translate chinese b1c07ss06_end_dd1a93b1:
 
     # mct "I feel uncomfortable just leaving her alone, but I don't really know what else to do at the moment."
-    mct "I feel uncomfortable just leaving her alone, but I don't really know what else to do at the moment."
+    mct "让她一个人呆着，我觉得很不舒服，但我真的不知道现在还能做什么。"
 
 # game/code/Book-1/Chapter-7s/s06.rpy:754
 translate chinese b1c07ss06_end_7317ce9a:
 
     # mct "Can't be everywhere at once, I guess."
-    mct "Can't be everywhere at once, I guess."
+    mct "我们不可能同时出现在所有地方。"
 
 # game/code/Book-1/Chapter-7s/s06.rpy:757
 translate chinese b1c07ss06_end_a6c86d36:
 
     # mc "Alright, well, I'll see ya around Rory."
-    mc "Alright, well, I'll see ya around Rory."
+    mc "好吧，罗里，回头见啦。"
 
 # game/code/Book-1/Chapter-7s/s06.rpy:760
 translate chinese b1c07ss06_end_447ec7ff:
 
     # rg "Bye. Thank you again."
-    rg "Bye. Thank you again."
+    rg "再见，再次谢谢你。"
 
 translate chinese strings:
 
     # game/code/Book-1/Chapter-7s/s06.rpy:4
     old "At Rory's place"
-    new "At Rory's place"
+    new "罗里家"
 
     # game/code/Book-1/Chapter-7s/s06.rpy:561
     old "Kick Cade."
-    new "Kick Cade."
+    new "踢凯德"
 
     # game/code/Book-1/Chapter-7s/s06.rpy:561
     old "Punch Cade."
-    new "Punch Cade."
+    new "揍凯德"
 
