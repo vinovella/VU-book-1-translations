@@ -4,97 +4,97 @@
 translate chinese b1c07ss09_b1b9cf7f:
 
     # mct "Since I'm still waiting on Fleur, I guess I'll mingle with the crowd."
-    mct "Since I'm still waiting on Fleur, I guess I'll mingle with the crowd."
+    mct "既然我还在等芙蓉，那我就混在人群里吧。"
 
 # game/code/Book-1/Chapter-7s/s09.rpy:21
 translate chinese b1c07ss09_2060af53:
 
     # mct "Maybe I'll overhear something."
-    mct "Maybe I'll overhear something."
+    mct "也许我能听到些什么。"
 
 # game/code/Book-1/Chapter-7s/s09.rpy:26
 translate chinese b1c07ss09_27d8cbf0:
 
     # ass "Have you seen Fleur? I got our snacks."
-    ass "Have you seen Fleur? I got our snacks."
+    ass "你看见芙蓉了吗？我买了零食。"
 
 # game/code/Book-1/Chapter-7s/s09.rpy:31
 translate chinese b1c07ss09_82208d09:
 
     # mc "She'll be back soon, I think. Something to do with the servers, I guess."
-    mc "She'll be back soon, I think. Something to do with the servers, I guess."
+    mc "我想她很快就会回来的。我猜和服务器有关吧。"
 
 # game/code/Book-1/Chapter-7s/s09.rpy:34
 translate chinese b1c07ss09_2063d392:
 
     # ass "Those servers are such a pain. She's a whiz with a computer, though. I'm sure she'll be done soon."
-    ass "Those servers are such a pain. She's a whiz with a computer, though. I'm sure she'll be done soon."
+    ass "那些服务器真麻烦，不过她是个电脑高手。我相信她很快就能搞定。"
 
 # game/code/Book-1/Chapter-7s/s09.rpy:36
 translate chinese b1c07ss09_13c96f0d:
 
     # mc "Are you guys streaming the fight or something?"
-    mc "Are you guys streaming the fight or something?"
+    mc "你们在直播比赛吗？"
 
 # game/code/Book-1/Chapter-7s/s09.rpy:40
 translate chinese b1c07ss09_9853dfa3:
 
     # ass "No, we don't stream the fights."
-    ass "No, we don't stream the fights."
+    ass "没，我们不直播比赛。"
 
 # game/code/Book-1/Chapter-7s/s09.rpy:41
 translate chinese b1c07ss09_7bc5ca91:
 
     # ass "Um, so how are you liking the event?"
-    ass "Um, so how are you liking the event?"
+    ass "呃，你觉得比赛怎么样？"
 
 # game/code/Book-1/Chapter-7s/s09.rpy:43
 translate chinese b1c07ss09_1269b633:
 
     # mct "Not so subtle topic change..."
-    mct "Not so subtle topic change..."
+    mct "话题转得不太妙..."
 
 # game/code/Book-1/Chapter-7s/s09.rpy:45
 translate chinese b1c07ss09_7a2099ba:
 
     # mc "It's great! I'm so glad Fleur invited me."
-    mc "It's great! I'm so glad Fleur invited me."
+    mc "很棒！我很高兴芙蓉邀请了我。"
 
 # game/code/Book-1/Chapter-7s/s09.rpy:46
 translate chinese b1c07ss09_91907e4b:
 
     # mc "She told me about the betting thing. Is there an app or something to keep track?"
-    mc "She told me about the betting thing. Is there an app or something to keep track?"
+    mc "她跟我说了打赌的事。有什么软件之类的东西可以追踪吗？"
 
 # game/code/Book-1/Chapter-7s/s09.rpy:49
 translate chinese b1c07ss09_7c1bc8df:
 
     # ass "Oh yeah! I'll send you an invite link when I get a chance."
-    ass "Oh yeah! I'll send you an invite link when I get a chance."
+    ass "哦，有的！有机会我给你发个邀请链接。"
 
 # game/code/Book-1/Chapter-7s/s09.rpy:50
 translate chinese b1c07ss09_5ab12404:
 
     # ass "And I'm happy to hear you like the venue so much. Y'know, I helped set this place up."
-    ass "And I'm happy to hear you like the venue so much. Y'know, I helped set this place up."
+    ass "我很高兴听到你这么喜欢这个场地。你知道，我帮着布置了这个地方。"
 
 # game/code/Book-1/Chapter-7s/s09.rpy:53
 translate chinese b1c07ss09_a31340dd:
 
     # mc "Really?"
-    mc "Really?"
+    mc "真的吗？"
 
 # game/code/Book-1/Chapter-7s/s09.rpy:56
 translate chinese b1c07ss09_2cf0213c:
 
     # ass "Yeah. I'm one of the event coordinators. Lilith is the other event coordinator."
-    ass "Yeah. I'm one of the event coordinators. Lilith is the other event coordinator."
+    ass "是啊，我是活动协调人之一。莉莉丝是另一个活动协调人。"
 
 # game/code/Book-1/Chapter-7s/s09.rpy:67
 translate chinese b1c07ss09_33b938ab:
 
     # gn "Asami! Everything going well?"
-    gn "Asami! Everything going well?"
+    gn "麻美！一切顺利吗？"
 
 # game/code/Book-1/Chapter-7s/s09.rpy:70
 translate chinese b1c07ss09_56ff9a14:
