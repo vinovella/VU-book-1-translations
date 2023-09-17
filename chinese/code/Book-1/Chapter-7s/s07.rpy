@@ -928,7 +928,7 @@ translate chinese b1c07ss07_fight_end_85d020fd:
 translate chinese b1c07ss07_fight_end_f268f779:
 
     # mc "Morgan was incredible. I was impressed by her strength."
-    mc 摩根太不可思议了。她的力量让我印象深刻。"
+    mc "摩根太不可思议了。她的力量让我印象深刻。"
 
 # game/code/Book-1/Chapter-7s/s07.rpy:659
 translate chinese b1c07ss07_fight_end_c1f00e27:
