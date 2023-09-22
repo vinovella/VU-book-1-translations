@@ -4,277 +4,277 @@
 translate chinese b1c07ws01_3d6ee532:
 
     # mct "Wonder why Iona called me out to the gym so early away from practice?"
-    mct "Wonder why Iona called me out to the gym so early away from practice?"
+    mct "不知道为什么欧娜这么早就叫我结束训练，到体育馆来。"
 
 # game/code/Book-1/Chapter-7w/s01.rpy:28
 translate chinese b1c07ws01_9688e638:
 
     # mct "I wager a guess considering what I know about her, bu—"
-    mct "I wager a guess considering what I know about her, bu—"
+    mct "根据我对她的了解，我有个猜想，不过--"
 
 # game/code/Book-1/Chapter-7w/s01.rpy:42
 translate chinese b1c07ws01_d09bd306:
 
     # ir "Ow, what the—? Oh! [mcname]!"
-    ir "Ow, what the—? Oh! [mcname]!"
+    ir "噢！这是什么鬼--？哦！[mcname]!"
 
 # game/code/Book-1/Chapter-7w/s01.rpy:43
 translate chinese b1c07ws01_618ea763:
 
     # ir "Why the hell did it take you so long to come here? I was just about to go haul your ass here."
-    ir "Why the hell did it take you so long to come here? I was just about to go haul your ass here."
+    ir "你怎么这么久才来？我正准备把你拖过来呢。"
 
 # game/code/Book-1/Chapter-7w/s01.rpy:46
 translate chinese b1c07ws01_540b7512:
 
     # mc "I just woke up! Cut me some slack."
-    mc "I just woke up! Cut me some slack."
+    mc "我刚睡醒！让我喘口气吧。"
 
 # game/code/Book-1/Chapter-7w/s01.rpy:49
 translate chinese b1c07ws01_53053d6b:
 
     # mc "Why did you even ask me to come here?"
-    mc "Why did you even ask me to come here?"
+    mc "你把叫我来这里干嘛？"
 
 # game/code/Book-1/Chapter-7w/s01.rpy:52
 translate chinese b1c07ws01_6864fbed:
 
     # ir "Huhu, no point spoiling the surprise when you're this close."
-    ir "Huhu, no point spoiling the surprise when you're this close."
+    ir "哦豁，就差这么一点，就没必要破坏惊喜了。"
 
 # game/code/Book-1/Chapter-7w/s01.rpy:55
 translate chinese b1c07ws01_124c30ae:
 
     # ir "C'mon!"
-    ir "C'mon!"
+    ir "来吧！"
 
 # game/code/Book-1/Chapter-7w/s01.rpy:58
 translate chinese b1c07ws01_bdd2f0cf:
 
     # mc "Hey, where—!?"
-    mc "Hey, where—!?"
+    mc "嘿，去哪--!?"
 
 # game/code/Book-1/Chapter-7w/s01.rpy:75
 translate chinese b1c07ws01_3c1ab1d7:
 
     # ir "Tada! It's time to finally get you dressed up in the Winner's colors!"
-    ir "Tada! It's time to finally get you dressed up in the Winner's colors!"
+    ir "嗒哒！是时候让你穿上身为咱们赢家俱乐部成员的衣服了！"
 
 # game/code/Book-1/Chapter-7w/s01.rpy:78
 translate chinese b1c07ws01_b7940507:
 
     # sm "There you are. Good morning, [mcname]."
-    sm "There you are. Good morning, [mcname]."
+    sm "你来了。早上好，[mcname]。"
 
 # game/code/Book-1/Chapter-7w/s01.rpy:81
 translate chinese b1c07ws01_aa03a0f1:
 
     # mc "Hey, g'morning. I didn't know I was getting my uniform today."
-    mc "Hey, g'morning. I didn't know I was getting my uniform today."
+    mc "嘿，早上好。我不知道今天要穿制服。"
 
 # game/code/Book-1/Chapter-7w/s01.rpy:85
 translate chinese b1c07ws01_43c5dee3:
 
     # sm "Yeah Sorry, I kinda sprang it on you out of nowhere."
-    sm "Yeah Sorry, I kinda sprang it on you out of nowhere."
+    sm "是啊，对不起，是我突然告诉你的。"
 
 # game/code/Book-1/Chapter-7w/s01.rpy:87
 translate chinese b1c07ws01_24822aa2:
 
     # sm "Our usual tailor has been out for the past couple of weeks, so we couldn't get a private session for you."
-    sm "Our usual tailor has been out for the past couple of weeks, so we couldn't get a private session for you."
+    sm "我们的专用裁缝这几周都不在，所以没法给你安排私人定制。"
 
 # game/code/Book-1/Chapter-7w/s01.rpy:90
 translate chinese b1c07ws01_6902ab38:
 
     # sm "But Shontae wanted you to get your uniform now before practice, and we had some extras, so, surprise dressing day!"
-    sm "But Shontae wanted you to get your uniform now before practice, and we had some extras, so, surprise dressing day!"
+    sm "但肖黛想让你在训练前穿上队服，我们还有些多余的衣服，所以，今天是惊喜换装日！"
 
 # game/code/Book-1/Chapter-7w/s01.rpy:93
 translate chinese b1c07ws01_0db9a34d:
 
     # mc "*Chuckles* It's alright. As long as it fits me halfway decently, I'm fine."
-    mc "*Chuckles* It's alright. As long as it fits me halfway decently, I'm fine."
+    mc "*咯咯笑* 没关系。只要合身就行。"
 
 # game/code/Book-1/Chapter-7w/s01.rpy:97
 translate chinese b1c07ws01_6458842a:
 
     # ir "Speaking of fitting decently."
-    ir "Speaking of fitting decently."
+    ir "说到合身。"
 
 # game/code/Book-1/Chapter-7w/s01.rpy:99
 translate chinese b1c07ws01_f9f38327:
 
     # ir "I found just the pair that'll highlight all your features {i}just right.{/i}"
-    ir "I found just the pair that'll highlight all your features {i}just right.{/i}"
+    ir "我找到了一双能{i}恰到好处{/i}地突出你所有特征的一双鞋。"
 
 # game/code/Book-1/Chapter-7w/s01.rpy:102
 translate chinese b1c07ws01_4d41c96b:
 
     # sm "*Giggles*"
-    sm "*Giggles*"
+    sm "*咯咯笑*"
 
 # game/code/Book-1/Chapter-7w/s01.rpy:109
 translate chinese b1c07ws01_dcfb1982:
 
     # mc "You're gonna have to work a lot harder if you want to see me in that, little lady."
-    mc "You're gonna have to work a lot harder if you want to see me in that, little lady."
+    mc "小姑娘，如果你想看到我穿上它，你就得加把劲了。"
 
 # game/code/Book-1/Chapter-7w/s01.rpy:112
 translate chinese b1c07ws01_49a70ce2:
 
     # ir "Oh so {i}that's{/i} how it is, huh? Alright, hotshot. I'm game."
-    ir "Oh so {i}that's{/i} how it is, huh? Alright, hotshot. I'm game."
+    ir "哦，原来{i}是这样{/i}啊，嗯？好吧，帅哥。我准备好了。"
 
 # game/code/Book-1/Chapter-7w/s01.rpy:115
 translate chinese b1c07ws01_9c44d1be:
 
     # sm "Alright you two. Cut it out."
-    sm "Alright you two. Cut it out."
+    sm "好了，你们两个。别闹了。"
 
 # game/code/Book-1/Chapter-7w/s01.rpy:122
 translate chinese b1c07ws01_b802d1fe:
 
     # mc "*Chuckles* I think that'd be a little more suited for an adult establishment over a volleyball field, Iona."
-    mc "*Chuckles* I think that'd be a little more suited for an adult establishment over a volleyball field, Iona."
+    mc "*嗤笑* 我觉得这更适合成人场所而不是排球场，欧娜。"
 
 # game/code/Book-1/Chapter-7w/s01.rpy:125
 translate chinese b1c07ws01_089eb1e2:
 
     # ir "Ugh, you're no fun."
-    ir "Ugh, you're no fun."
+    ir "唉，你真没趣。"
 
 # game/code/Book-1/Chapter-7w/s01.rpy:128
 translate chinese b1c07ws01_4d41c96b_1:
 
     # sm "*Giggles*"
-    sm "*Giggles*"
+    sm "*咯咯笑*"
 
 # game/code/Book-1/Chapter-7w/s01.rpy:134
 translate chinese b1c07ws01_262f4877:
 
     # mc "Maybe when we're alone."
-    mc "Maybe when we're alone."
+    mc "也许我们独处的时候吧。"
 
 # game/code/Book-1/Chapter-7w/s01.rpy:137
 translate chinese b1c07ws01_2e13050f:
 
     # mc "We wouldn't want Silvia to be uncomfortable."
-    mc "We wouldn't want Silvia to be uncomfortable."
+    mc "我们可不想让西尔维娅感到不自在。"
 
 # game/code/Book-1/Chapter-7w/s01.rpy:140
 translate chinese b1c07ws01_03b0c977:
 
     # sm "Uhm, let's focus on why we're actually here, please."
-    sm "Uhm, let's focus on why we're actually here, please."
+    sm "呃，咱们专注在我们来这儿的原因吧，拜托。"
 
 # game/code/Book-1/Chapter-7w/s01.rpy:143
 translate chinese b1c07ws01_1763bf8b:
 
     # ir "Ugh, you two are no fun."
-    ir "Ugh, you two are no fun."
+    ir "呃，你们两个真没意思。"
 
 # game/code/Book-1/Chapter-7w/s01.rpy:151
 translate chinese b1c07ws01_measurement_c4b5cd5b:
 
     # sm "Oookay, let's move on."
-    sm "Oookay, let's move on."
+    sm "好吧，我们继续。"
 
 # game/code/Book-1/Chapter-7w/s01.rpy:157
 translate chinese b1c07ws01_measurement_496f49ba:
 
     # sm "I got a couple of potential options laid out, but I need to take your measurements first."
-    sm "I got a couple of potential options laid out, but I need to take your measurements first."
+    sm "我有几个可能的选择，但我需要先测量一下你们的尺寸。"
 
 # game/code/Book-1/Chapter-7w/s01.rpy:163
 translate chinese b1c07ws01_measurement_05de308f:
 
     # sm "C'mon, hands spread!"
-    sm "C'mon, hands spread!"
+    sm "来吧，手张开！"
 
 # game/code/Book-1/Chapter-7w/s01.rpy:176
 translate chinese b1c07ws01_measurement_c9945799:
 
     # sm "Let me see what I can find."
-    sm "Let me see what I can find."
+    sm "让我看看能找到什么。"
 
 # game/code/Book-1/Chapter-7w/s01.rpy:196
 translate chinese b1c07ws01_measurement_af3144e0:
 
     # ir "Don't you think [mcname] should remove his shirt for a more accurate measurement, Silvia?"
-    ir "Don't you think [mcname] should remove his shirt for a more accurate measurement, Silvia?"
+    ir "西尔维娅，你不觉得[mcname]应该脱掉上衣，以便更准确地测量吗？"
 
 # game/code/Book-1/Chapter-7w/s01.rpy:199
 translate chinese b1c07ws01_measurement_fd10d188:
 
     # sm "Well That would be best to get a perfect fit, but I can jus—"
-    sm "Well That would be best to get a perfect fit, but I can jus—"
+    sm "嗯，最好是这样，不过我可以--"
 
 # game/code/Book-1/Chapter-7w/s01.rpy:202
 translate chinese b1c07ws01_measurement_a79af823:
 
     # ir "You heard her! C'mon, take it off."
-    ir "You heard her! C'mon, take it off."
+    ir "你听到她说的了！来吧，衣服脱掉。"
 
 # game/code/Book-1/Chapter-7w/s01.rpy:205
 translate chinese b1c07ws01_measurement_f1034048:
 
     # mc "Well aren't you just a bastion of properly fitted clothing?"
-    mc "Well aren't you just a bastion of properly fitted clothing?"
+    mc "你不就是合身衣服的典范吗？"
 
 # game/code/Book-1/Chapter-7w/s01.rpy:209
 translate chinese b1c07ws01_measurement_d36207ee:
 
     # ir "Of course I am.{w} Just look at my top. Thing fits me like a fine glove."
-    ir "Of course I am.{w} Just look at my top. Thing fits me like a fine glove."
+    ir "当然了。{w}看看我的上衣。这衣服就像手套一样合身。"
 
 # game/code/Book-1/Chapter-7w/s01.rpy:212
 translate chinese b1c07ws01_measurement_cbbff0c9:
 
     # mc "*Chuckles* Alright, Silvia. I'm ready."
-    mc "*Chuckles* Alright, Silvia. I'm ready."
+    mc "*轻笑* 好了，西尔维娅。我准备好了。"
 
 # game/code/Book-1/Chapter-7w/s01.rpy:215
 translate chinese b1c07ws01_measurement_568d0f7b:
 
     # sm "Right."
-    sm "Right."
+    sm "好。"
 
 # game/code/Book-1/Chapter-7w/s01.rpy:227
 translate chinese b1c07ws01_measurement_7ffc09c4:
 
     # sm "Alright. Please try it out."
-    sm "Alright. Please try it out."
+    sm "行了。请试试看。"
 
 # game/code/Book-1/Chapter-7w/s01.rpy:230
 translate chinese b1c07ws01_measurement_4ee46041:
 
     # mc "I think this is the one, guys."
-    mc "I think this is the one, guys."
+    mc "我想就是这个了，伙计们。"
 
 # game/code/Book-1/Chapter-7w/s01.rpy:233
 translate chinese b1c07ws01_measurement_6832f759:
 
     # ir "*Wolf whistles* Damn, sweet cheeks. You look {i}fine{/i} in that."
-    ir "*Wolf whistles* Damn, sweet cheeks. You look {i}fine{/i} in that."
+    ir "*挑逗性的口哨* 该死，小甜心。你穿起来真{i}漂亮{/i}。"
 
 # game/code/Book-1/Chapter-7w/s01.rpy:236
 translate chinese b1c07ws01_measurement_bfc1fa21:
 
     # sm "Yeah she is right. That looks great on you."
-    sm "Yeah she is right. That looks great on you."
+    sm "她说得没错。你穿上很好看。"
 
 # game/code/Book-1/Chapter-7w/s01.rpy:239
 translate chinese b1c07ws01_measurement_318018d1:
 
     # mc "*Chuckles* That's a unanimous vote then."
-    mc "*Chuckles* That's a unanimous vote then."
+    mc "*轻笑* 那就全票通过了。"
 
 # game/code/Book-1/Chapter-7w/s01.rpy:243
 translate chinese b1c07ws01_measurement_718ae5e1:
 
     # ir "Perfect timing, too. Practice is just about to start. Shontae wants us in tip-top shape for the tournament. No slacking off allowed."
-    ir "Perfect timing, too. Practice is just about to start. Shontae wants us in tip-top shape for the tournament. No slacking off allowed."
+    ir "时间也刚刚好。训练马上就要开始了。肖黛希望我们在比赛中保持最佳状态。不准偷懒。"
 
 # game/code/Book-1/Chapter-7w/s01.rpy:246
 translate chinese b1c07ws01_measurement_374950ec:
