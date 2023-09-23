@@ -346,101 +346,101 @@ translate chinese b1c07ws01_measurement_bb42be23:
 translate chinese b1c07ws01_measurement_66022634:
 
     # mc "Is Shontae gonna be alright with this?"
-    mc "Is Shontae gonna be alright with this?"
+    mc "肖黛会同意吗？"
 
 # game/code/Book-1/Chapter-7w/s01.rpy:284
 translate chinese b1c07ws01_measurement_78e2d47d:
 
     # sm "Why wouldn't she be good with it? We're boosting morale!"
-    sm "Why wouldn't she be good with it? We're boosting morale!"
+    sm "她怎么会不愿意？我们在鼓舞士气！"
 
 # game/code/Book-1/Chapter-7w/s01.rpy:285
 translate chinese b1c07ws01_measurement_ebf50642:
 
     # sm "With the tournament coming up fast, everyone's a bit on edge, even if they don't really show it. So something to calm down is nice."
-    sm "With the tournament coming up fast, everyone's a bit on edge, even if they don't really show it. So something to calm down is nice."
+    sm "比赛马上就要开始了，每个人都有点紧张，即使他们没有真正表现出来。所以能让大家冷静下来是件好事。"
 
 # game/code/Book-1/Chapter-7w/s01.rpy:288
 translate chinese b1c07ws01_measurement_6e4d5e31:
 
     # mc "I suppose I can understand that."
-    mc "I suppose I can understand that."
+    mc "我想我能理解。"
 
 # game/code/Book-1/Chapter-7w/s01.rpy:289
 translate chinese b1c07ws01_measurement_3ac50bf0:
 
     # mc "And yeah. I'm down to come by. As long as I'm not thrown out of the mansion."
-    mc "And yeah. I'm down to come by. As long as I'm not thrown out of the mansion."
+    mc "好。我愿意参加。只要我不被赶出豪宅就行。"
 
 # game/code/Book-1/Chapter-7w/s01.rpy:292
 translate chinese b1c07ws01_measurement_990e15c0:
 
     # ir "You don't have to worry about that. We'll just be at the pool. And Isa invited the whole team. If Brig decides to give you shit, I'll pull her back."
-    ir "You don't have to worry about that. We'll just be at the pool. And Isa invited the whole team. If Brig decides to give you shit, I'll pull her back."
+    ir "你不用担心这个，我们就在泳池边。艾萨邀请了整个团队。如果布吉塔决定给你难看，我就给她好看。"
 
 # game/code/Book-1/Chapter-7w/s01.rpy:295
 translate chinese b1c07ws01_measurement_48a90c36:
 
     # mc "*Chuckles* Very confidence inspiring."
-    mc "*Chuckles* Very confidence inspiring."
+    mc "*咯咯笑* 非常鼓舞人心。"
 
 # game/code/Book-1/Chapter-7w/s01.rpy:298
 translate chinese b1c07ws01_measurement_8413ee93:
 
     # ir "Thank you, I know."
-    ir "Thank you, I know."
+    ir "谢谢，我清楚得很。"
 
 # game/code/Book-1/Chapter-7w/s01.rpy:300
 translate chinese b1c07ws01_measurement_5a1c4472:
 
     # ir "A'ight, I gotta run to practice. You coming?"
-    ir "A'ight, I gotta run to practice. You coming?"
+    ir "好了，我得去训练了，你来吗？"
 
 # game/code/Book-1/Chapter-7w/s01.rpy:303
 translate chinese b1c07ws01_measurement_a313547f:
 
     # mc "You go on ahead. I'll help Silvia pack up and then I'll be there."
-    mc "You go on ahead. I'll help Silvia pack up and then I'll be there."
+    mc "你先走吧，我帮西尔维娅收拾一下就来。"
 
 # game/code/Book-1/Chapter-7w/s01.rpy:306
 translate chinese b1c07ws01_measurement_3d39b3d8:
 
     # ir "Goody two shoes.{w} Alright. See you two later then."
-    ir "Goody two shoes.{w} Alright. See you two later then."
+    ir "好孩子。{w}好吧，回头见。"
 
 # game/code/Book-1/Chapter-7w/s01.rpy:309
 translate chinese b1c07ws01_measurement_31bcec9e:
 
     # ir "Bye, sweet cheeks."
-    ir "Bye, sweet cheeks."
+    ir "再见，小可爱。"
 
 # game/code/Book-1/Chapter-7w/s01.rpy:312
 translate chinese b1c07ws01_measurement_15ff8a98:
 
     # sm "She always knows how to keep things interesting."
-    sm "She always knows how to keep things interesting."
+    sm "她总能让事情变得有趣。"
 
 # game/code/Book-1/Chapter-7w/s01.rpy:314
 translate chinese b1c07ws01_measurement_66a5117a:
 
     # mc "*Chuckles*"
-    mc "*Chuckles*"
+    mc "*嗤笑*"
 
 translate chinese strings:
 
     # game/code/Book-1/Chapter-7w/s01.rpy:6
     old "On the way to the gym"
-    new "On the way to the gym"
+    new "在去健身房的路上"
 
     # game/code/Book-1/Chapter-7w/s01.rpy:103
     old "Flirt with Iona brazenly"
-    new "Flirt with Iona brazenly"
+    new "明目张胆地与欧娜调情"
 
     # game/code/Book-1/Chapter-7w/s01.rpy:103
     old "Keep it classy"
-    new "Keep it classy"
+    new "保持优雅"
 
     # game/code/Book-1/Chapter-7w/s01.rpy:103
     old "Try to balance them both"
-    new "Try to balance them both"
+    new "试着平衡她们两个"
 
