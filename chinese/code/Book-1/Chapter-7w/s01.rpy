@@ -280,67 +280,67 @@ translate chinese b1c07ws01_measurement_718ae5e1:
 translate chinese b1c07ws01_measurement_374950ec:
 
     # sm "I just wish we could've found a good top for you. We'll just have to wait for the tailor, I suppose."
-    sm "I just wish we could've found a good top for you. We'll just have to wait for the tailor, I suppose."
+    sm "我真希望我们能给你找件好上衣。我想我们只能等裁缝来了再说了。"
 
 # game/code/Book-1/Chapter-7w/s01.rpy:249
 translate chinese b1c07ws01_measurement_4a1a48ad:
 
     # ir "I think his current outfit is {i}just{/i} fine."
-    ir "I think his current outfit is {i}just{/i} fine."
+    ir "我觉得他现在这身{i}就{/i}很好。"
 
 # game/code/Book-1/Chapter-7w/s01.rpy:252
 translate chinese b1c07ws01_measurement_ec9d059a:
 
     # sm "Uh-huh, of course you'd think that."
-    sm "Uh-huh, of course you'd think that."
+    sm "嗯哼，你当然这么想。"
 
 # game/code/Book-1/Chapter-7w/s01.rpy:255
 translate chinese b1c07ws01_measurement_a2e62047:
 
     # sm "Oh yeah! You talking about slacking off reminded me. Did you tell [mcname] about the party?"
-    sm "Oh yeah! You talking about slacking off reminded me. Did you tell [mcname] about the party?"
+    sm "哦，对了！你说的偷懒提醒了我。你告诉[mcname]派对的事了吗？"
 
 # game/code/Book-1/Chapter-7w/s01.rpy:258
 translate chinese b1c07ws01_measurement_4b853079:
 
     # ir "Fuck. I forgot."
-    ir "Fuck. I forgot."
+    ir "操。我忘了。"
 
 # game/code/Book-1/Chapter-7w/s01.rpy:261
 translate chinese b1c07ws01_measurement_e579b600:
 
     # mc "What party?"
-    mc "What party?"
+    mc "什么派对？"
 
 # game/code/Book-1/Chapter-7w/s01.rpy:264
 translate chinese b1c07ws01_measurement_651a71c5:
 
     # sm "Isa is going to be throwing a small pool party to boost the team's morale before the tournament."
-    sm "Isa is going to be throwing a small pool party to boost the team's morale before the tournament."
+    sm "艾萨将举办一个小型泳池派对，打算在比赛前鼓舞队员们的士气。"
 
 # game/code/Book-1/Chapter-7w/s01.rpy:267
 translate chinese b1c07ws01_measurement_802c2b8a:
 
     # ir "It's just gonna be the Winner's team, nothing big."
-    ir "It's just gonna be the Winner's team, nothing big."
+    ir "只是赢家俱乐部成员的聚会，没什么大不了的。"
 
 # game/code/Book-1/Chapter-7w/s01.rpy:271
 translate chinese b1c07ws01_measurement_ae63c567:
 
     # mct "Hm. I wonder if Sam knows about this party?"
-    mct "Hm. I wonder if Sam knows about this party?"
+    mct "嗯。不知道萨姆知道这个派对吗？"
 
 # game/code/Book-1/Chapter-7w/s01.rpy:273
 translate chinese b1c07ws01_measurement_6cf5102d:
 
     # mct "Hm. If Isa's throwing the party, this might be a good opportunity for me to get close to her without having to go inside the mansion."
-    mct "Hm. If Isa's throwing the party, this might be a good opportunity for me to get close to her without having to go inside the mansion."
+    mct "嗯。如果艾萨要办这个派对，这可能是我不用进豪宅就能接近她的好机会。"
 
 # game/code/Book-1/Chapter-7w/s01.rpy:277
 translate chinese b1c07ws01_measurement_bb42be23:
 
     # ir "You gonna be there, sweet cheeks?"
-    ir "You gonna be there, sweet cheeks?"
+    ir "你会去吗，小可爱？"
 
 # game/code/Book-1/Chapter-7w/s01.rpy:280
 translate chinese b1c07ws01_measurement_66022634:
