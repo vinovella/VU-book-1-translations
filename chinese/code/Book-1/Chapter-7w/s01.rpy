@@ -430,7 +430,7 @@ translate chinese strings:
 
     # game/code/Book-1/Chapter-7w/s01.rpy:6
     old "On the way to the gym"
-    new "在去健身房的路上"
+    new "在去体育馆的路上"
 
     # game/code/Book-1/Chapter-7w/s01.rpy:103
     old "Flirt with Iona brazenly"
