@@ -10,25 +10,25 @@ translate chinese b1c07ws05_771b1eba:
 translate chinese b1c07ws05_25e40d45:
 
     # ima "I remembered your name this time!"
-    ima "I remembered your name this time!"
+    ima "这次我记住你的名字了！"
 
 # game/code/Book-1/Chapter-7w/s05.rpy:60
 translate chinese b1c07ws05_6c74d8d0:
 
     # ima "New guy!"
-    ima "New guy!"
+    ima "新来的！"
 
 # game/code/Book-1/Chapter-7w/s05.rpy:63
 translate chinese b1c07ws05_92c10850:
 
     # ima "Glad to see you drop by. Thought Brigitta might've scared you off or something."
-    ima "Glad to see you drop by. Thought Brigitta might've scared you off or something."
+    ima "很高兴看到你来。还以为布吉塔会把你吓跑什么的。"
 
 # game/code/Book-1/Chapter-7w/s05.rpy:67
 translate chinese b1c07ws05_25471f04:
 
     # ima "And I feel terrible about that whole mansion business. Ugh, I don't know what Silvia was thinking."
-    ima "And I feel terrible about that whole mansion business. Ugh, I don't know what Silvia was thinking."
+    ima "我对整个豪宅的事感到很抱歉。唉，我不知道西尔维娅是怎么想的。"
 
 # game/code/Book-1/Chapter-7w/s05.rpy:68
 translate chinese b1c07ws05_b59e22d6:
