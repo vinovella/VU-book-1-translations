@@ -262,7 +262,7 @@ translate chinese b1c06ss04_continue_8a9c2326:
 translate chinese b1c06ss04_continue_abe2b843:
 
     # mg "I think you should redeem those fucking favors, Zem. I deserve it. {i}You know I do.{/i}"
-    mg "我觉得你应该赎回那些该死的人情，泽菲拉。这是我应得的。{i}你知道的。{/i}"
+    mg "我觉得你应该把那些该死的恩情还回来，泽菲拉。这是我应得的。{i}你知道的。{/i}"
 
 # game/code/Book-1/Chapter-6s/s04.rpy:169
 translate chinese b1c06ss04_continue_19a53aeb:
