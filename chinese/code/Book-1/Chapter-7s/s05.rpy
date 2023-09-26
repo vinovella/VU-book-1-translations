@@ -190,7 +190,7 @@ translate chinese b1c07ss05_c4afbf03:
 translate chinese b1c07ss05_eba6c600:
 
     # nr "Why haven't you told Zemfira you redeemed that favor yet?"
-    nr "你怎么还没告诉泽菲拉，你还了她的人情？"
+    nr "你怎么还没告诉泽菲拉，你还了她的恩情？"
 
 # game/code/Book-1/Chapter-7s/s05.rpy:156
 translate chinese b1c07ss05_4e8f28ae:
