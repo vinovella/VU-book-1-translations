@@ -1240,5 +1240,5 @@ translate chinese strings:
 
     # game/code/Book-1/Chapter-7w/s05.rpy:701
     old "Use the vibrator on Iona"
-    new "Use the vibrator on Iona"
+    new "对欧娜使用振动器"
 
