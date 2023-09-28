@@ -412,7 +412,7 @@ translate chinese b1c07ws05_bar_ir_d5ae2301:
 translate chinese b1c07ws05_bar_ir_c6a68887:
 
     # mm "Iona? Finally iced the bartender, huh? *Chuckles*"
-    mm "欧娜？终于把调酒师给烦走了？*嗤笑""
+    mm "欧娜？终于把调酒师给烦走了？*嗤笑"
 
 # game/code/Book-1/Chapter-7w/s05.rpy:331
 translate chinese b1c07ws05_bar_ir_35459ac8:
