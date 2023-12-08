@@ -637,16 +637,16 @@ translate chinese b1c07ss02_ebb17970:
     cb "谢谢...我还不知道你的名字呢。"
 
 # game/code/Book-1/Chapter-7s/s02.rpy:322
-translate chinese b1c07ss02_b606e06c:
+translate chinese b1c07ss02_ad629e91:
 
-    # mc "It's [mcname]."
-    mc "是[mcname]。"
+    # mc "It's Matthew."
+    mc "是马修。"
 
 # game/code/Book-1/Chapter-7s/s02.rpy:325
-translate chinese b1c07ss02_2958894e:
+translate chinese b1c07ss02_efa76884:
 
-    # cb "Thanks, [mcname]."
-    cb "谢谢，[mcname]。"
+    # cb "Thanks, Matthew."
+    cb "谢谢，马修。"
 
 translate chinese strings:
 

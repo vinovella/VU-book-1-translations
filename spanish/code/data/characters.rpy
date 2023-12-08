@@ -82,3 +82,30 @@ translate spanish strings:
     old "Lauren"
     new "Lauren"
 
+    # game/code/data/characters.rpy:25
+    old "Tiana"
+    new "Tiana"
+
+    # game/code/data/characters.rpy:26
+    old "Erica"
+    new "Erica"
+
+    # game/code/data/characters.rpy:27
+    old "Dori"
+    new "Dori"
+
+    # game/code/data/characters.rpy:44
+    old "Hellena Acton"
+    new "Hellena Acton"
+
+    # game/code/data/characters.rpy:57
+    old "Sloan"
+    new "Sloan"
+
+    # game/code/data/characters.rpy:58
+    old "Yvonne"
+    new "Yvonne"
+
+    # game/code/data/characters.rpy:59
+    old "Nerium"
+    new "Nerium"

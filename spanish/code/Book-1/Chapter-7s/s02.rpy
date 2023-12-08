@@ -637,16 +637,16 @@ translate spanish b1c07ss02_ebb17970:
     cb "Gracias... Huh, nunca supe tu nombre."
 
 # game/code/Book-1/Chapter-7s/s02.rpy:322
-translate spanish b1c07ss02_b606e06c:
+translate spanish b1c07ss02_ad629e91:
 
-    # mc "It's [mcname]."
-    mc "Es [mcname]."
+    # mc "It's Matthew."
+    mc "Es Matthew."
 
 # game/code/Book-1/Chapter-7s/s02.rpy:325
-translate spanish b1c07ss02_2958894e:
+translate spanish b1c07ss02_efa76884:
 
-    # cb "Thanks, [mcname]."
-    cb "Gracias, [mcname]."
+    # cb "Thanks, Matthew."
+    cb "Gracias, Matthew."
 
 translate spanish strings:
 

@@ -417,3 +417,35 @@ translate spanish strings:
     # game/code/hints.rpy:5
     old "No hints available."
     new "No hay pistas disponibles."
+
+    # game/code/hints.rpy:5
+    old "+1 pt with Foxy. You support her view."
+    new "+1 pt with Foxy. You support her view."
+
+    # game/code/hints.rpy:5
+    old "0pts, but Xasan begrudgingly respects you a little more."
+    new "0pts, but Xasan begrudgingly respects you a little more."
+
+    # game/code/hints.rpy:5
+    old "+1 pt with Zemfira. She appreciates your faith in her."
+    new "+1 pt with Zemfira. She appreciates your faith in her."
+
+    # game/code/hints.rpy:5
+    old "Sex scene with Asami."
+    new "Sex scene with Asami."
+
+    # game/code/hints.rpy:5
+    old "No sex scene with Asami."
+    new "No sex scene with Asami."
+
+    # game/code/hints.rpy:5
+    old "You get 0 points with Xasan. You stay on the boat to avoid further conflict."
+    new "You get 0 points with Xasan. You stay on the boat to avoid further conflict."
+
+    # game/code/hints.rpy:5
+    old "You get +1 points with Xasan. He respects you for standing up for yourself without being an ass about it."
+    new "You get +1 points with Xasan. He respects you for standing up for yourself without being an ass about it."
+
+    # game/code/hints.rpy:5
+    old "You get -1 points with Xasan. You stand up for yourself, but you're an ass about it. This is the w the girls."
+    new "You get -1 points with Xasan. You stand up for yourself, but you're an ass about it. This is the w the girls."

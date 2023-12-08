@@ -637,16 +637,16 @@ translate portuguese b1c07ss02_ebb17970:
     cb "Obrigada... Hmm, não ouvi seu nome."
 
 # game/code/Book-1/Chapter-7s/s02.rpy:322
-translate portuguese b1c07ss02_b606e06c:
+translate portuguese b1c07ss02_ad629e91:
 
-    # mc "It's [mcname]."
-    mc "É [mcname]."
+    # mc "It's Matthew."
+    mc "É Matthew."
 
 # game/code/Book-1/Chapter-7s/s02.rpy:325
-translate portuguese b1c07ss02_2958894e:
+translate portuguese b1c07ss02_efa76884:
 
-    # cb "Thanks, [mcname]."
-    cb "Valeu, [mcname]."
+    # cb "Thanks, Matthew."
+    cb "Valeu, Matthew."
 
 translate portuguese strings:
 

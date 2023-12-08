@@ -637,16 +637,16 @@ translate turkish b1c07ss02_ebb17970:
     cb "Thank you... Huh, I never got your name."
 
 # game/code/Book-1/Chapter-7s/s02.rpy:322
-translate turkish b1c07ss02_b606e06c:
+translate turkish b1c07ss02_ad629e91:
 
-    # mc "It's [mcname]."
-    mc "It's [mcname]."
+    # mc "It's Matthew."
+    mc "It's Matthew."
 
 # game/code/Book-1/Chapter-7s/s02.rpy:325
-translate turkish b1c07ss02_2958894e:
+translate turkish b1c07ss02_efa76884:
 
-    # cb "Thanks, [mcname]."
-    cb "Thanks, [mcname]."
+    # cb "Thanks, Matthew."
+    cb "Thanks, Matthew."
 
 translate turkish strings:
 
