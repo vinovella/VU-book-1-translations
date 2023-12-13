@@ -388,7 +388,7 @@ translate turkish b1c05s04_dd1a780e:
 translate turkish b1c05s04_0662bdb1:
 
     # rh "Hah! Still up to your old {i}desperate{/i} ways, it seems."
-    rh "Hah! Hala eski durumuna bağlısın{Bence}çaresiz{/Bence}Görünüşe göre yollar."
+    rh "Hah! Hala eski durumuna bağlısın{i}çaresiz{/i}Görünüşe göre yollar."
 
 # game/code/Book-1/Chapter-5/s04.rpy:194
 translate turkish b1c05s04_32302a2c:
@@ -527,4 +527,3 @@ translate turkish strings:
     # game/code/Book-1/Chapter-5/s04.rpy:6
     old "At the university"
     new "Üniversitede"
-

@@ -382,7 +382,7 @@ translate turkish b1c05s07_decf3d5e:
 translate turkish b1c05s07_ee1a9a21:
 
     # mc "Diana, I was just interested in the advanced courses. I figured it could help me along my {i}path{/i}, y'know?"
-    mc "Diana, ileri düzey kurslarla ilgileniyordum. Bunun bana yardımcı olabileceğini düşündüm{Bence}yol{/Bence}, biliyor musun?"
+    mc "Diana, ileri düzey kurslarla ilgileniyordum. Bunun bana yardımcı olabileceğini düşündüm{i}yol{/i}, biliyor musun?"
 
 # game/code/Book-1/Chapter-5/s07.rpy:233
 translate turkish b1c05s07_8225140d:
@@ -406,7 +406,7 @@ translate turkish b1c05s07_5c347a7f:
 translate turkish b1c05s07_8f68072c:
 
     # dm "Then I hope you don't mind that I take the matter of {i}[mcname]'s{/i} advanced studies into {i}my{/i} hands."
-    dm "O zaman umarım konuyu benim ele almamın bir sakıncası yoktur{i}[mcname]'S{/Bence}konusunda ileri çalışmalar{Bence}Benim{/Bence}eller."
+    dm "O zaman umarım konuyu benim ele almamın bir sakıncası yoktur{i}[mcname]'S{/i}konusunda ileri çalışmalar{i}Benim{/i}eller."
 
 # game/code/Book-1/Chapter-5/s07.rpy:242
 translate turkish b1c05s07_01abecc8:
@@ -491,4 +491,3 @@ translate turkish b1c05s07_e94c3f92:
 
     # dm "Oh, I don't doubt that..."
     dm "Ah, buna hiç şüphem yok..."
-

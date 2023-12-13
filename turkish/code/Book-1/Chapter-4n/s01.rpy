@@ -124,7 +124,7 @@ translate turkish b1c04ns01_bece8c93:
 translate turkish b1c04ns01_884867ad:
 
     # mct "Her voice is so husky and breathless... Is she okay?"
-    mct "Sesi o kadar boğuk ve nefes nefese ki... İyi mi?""
+    mct "Sesi o kadar boğuk ve nefes nefese ki... İyi mi?"
 
 # game/code/Book-1/Chapter-4n/s01.rpy:135
 translate turkish b1c04ns01_28dc88bf:

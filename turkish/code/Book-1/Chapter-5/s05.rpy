@@ -328,7 +328,7 @@ translate turkish b1c05s05_0f079f6b:
 translate turkish b1c05s05_5d564810:
 
     # mc "C'mon now... Although it'd certainly be more pleasant if she got along with me, she doesn't {i}have{/i} to. As long as she isn't being unnecessarily rude."
-    mc "Haydi şimdi... Benimle iyi geçinmesi kesinlikle daha hoş olsa da, öyle değil{Bence}sahip olmak{/Bence}ile. Gereksiz yere kaba davranmadığı sürece."
+    mc "Haydi şimdi... Benimle iyi geçinmesi kesinlikle daha hoş olsa da, öyle değil{i}sahip olmak{/i}ile. Gereksiz yere kaba davranmadığı sürece."
 
 # game/code/Book-1/Chapter-5/s05.rpy:161
 translate turkish b1c05s05_5714b528:
@@ -511,4 +511,3 @@ translate turkish strings:
     # game/code/Book-1/Chapter-5/s05.rpy:173
     old "No thanks."
     new "Hayır, teşekkürler."
-
