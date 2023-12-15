@@ -102,12 +102,6 @@ translate portuguese b1c06_no_transition_d2ebbda6:
     # mct "I'll have to try and lay low around him, if for no one else than Nia."
     mct "Vou ter que tentar me cuidar perto dele, pelo menos para o bem da Nia."
 
-# game/code/Book-1/Chapter-6/s00.rpy:171
-translate portuguese b1c06_no_transition_fecc2e73_1:
-
-    # mct "*Yawn* Gotta keep working the case..."
-    mct "*Bocejo* Tenho que continuar trabalhando no caso..."
-
 # game/code/Book-1/Chapter-6/s00.rpy:178
 translate portuguese b1c06_no_transition_c63410b2:
 
@@ -125,10 +119,3 @@ translate portuguese b1c06_no_transition_da4b1de7:
 
     # mct "I should try to get closer to Zemfira. I feel like she might hold the answers to this."
     mct "É melhor eu tentar me aproximar da Zemfira. Acho que ela pode ter as respostas para isso."
-
-# game/code/Book-1/Chapter-6/s00.rpy:185
-translate portuguese b1c06_no_transition_fecc2e73_2:
-
-    # mct "*Yawn* Gotta keep working the case..."
-    mct "*Bocejo* Tenho que continuar trabalhando no caso..."
-

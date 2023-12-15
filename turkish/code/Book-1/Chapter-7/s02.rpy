@@ -298,7 +298,7 @@ translate turkish b1c07s02_date_461ea5d5:
 translate turkish b1c07s02_date_695bad71:
 
     # dm "Was that professional enough, Matt?"
-    dm "Bu yeterince profesyonel miydi Matt?""
+    dm "Bu yeterince profesyonel miydi Matt?"
 
 # game/code/Book-1/Chapter-7/s02.rpy:233
 translate turkish b1c07s02_date_b54c9ce3:

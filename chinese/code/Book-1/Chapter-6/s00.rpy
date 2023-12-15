@@ -102,12 +102,6 @@ translate chinese b1c06_no_transition_d2ebbda6:
     # mct "I'll have to try and lay low around him, if for no one else than Nia."
     mct "我必须在他身边尽量保持低调，即使不是为了别人，也是为了妮娅。"
 
-# game/code/Book-1/Chapter-6/s00.rpy:171
-translate chinese b1c06_no_transition_fecc2e73_1:
-
-    # mct "*Yawn* Gotta keep working the case..."
-    mct "*打哈欠* 得继续调查这个案子..."
-
 # game/code/Book-1/Chapter-6/s00.rpy:178
 translate chinese b1c06_no_transition_c63410b2:
 
@@ -125,10 +119,3 @@ translate chinese b1c06_no_transition_da4b1de7:
 
     # mct "I should try to get closer to Zemfira. I feel like she might hold the answers to this."
     mct "我应该试着接近泽菲拉。我觉得她可能知道答案。"
-
-# game/code/Book-1/Chapter-6/s00.rpy:185
-translate chinese b1c06_no_transition_fecc2e73_2:
-
-    # mct "*Yawn* Gotta keep working the case..."
-    mct "*打哈欠* 得继续调查这个案子..."
-

@@ -214,7 +214,7 @@ translate turkish b1c07s01_after_variables_4f421953:
 translate turkish b1c07s01_after_variables_fab63432:
 
     # lw "{size=26}I just wish I could keep up with her.{/size}"
-    lw "{boyut=26}Keşke ona ayak uydurabilseydim.{/boyut}"
+    lw "{size=26}Keşke ona ayak uydurabilseydim.{/size}"
 
 # game/code/Book-1/Chapter-7/s01.rpy:194
 translate turkish b1c07s01_after_variables_41a8a1a6:
@@ -226,7 +226,7 @@ translate turkish b1c07s01_after_variables_41a8a1a6:
 translate turkish b1c07s01_after_variables_52c60a05:
 
     # lw "And the thing is, I {i}know{/i} she doesn't feel like I'm a burden. I know that. But that just makes me feel even guiltier."
-    lw "Ve olay şu ki, ben{Bence}Bilmek{/Bence}benim bir yük olduğumu hissetmiyor. Biliyorum ki. Ama bu beni daha da suçlu hissettiriyor."
+    lw "Ve olay şu ki, ben{i}Bilmek{/i}benim bir yük olduğumu hissetmiyor. Biliyorum ki. Ama bu beni daha da suçlu hissettiriyor."
 
 # game/code/Book-1/Chapter-7/s01.rpy:198
 translate turkish b1c07s01_after_variables_c25ac637:
@@ -609,4 +609,3 @@ translate turkish strings:
     # game/code/Book-1/Chapter-7/s01.rpy:218
     old "I'm sorry, I can't"
     new "Üzgünüm, yapamam"
-

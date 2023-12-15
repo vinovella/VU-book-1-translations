@@ -102,12 +102,6 @@ translate spanish b1c06_no_transition_d2ebbda6:
     # mct "I'll have to try and lay low around him, if for no one else than Nia."
     mct "Tendré que tratar de pasar desapercibido a su alrededor, aunque solo sea por Nia."
 
-# game/code/Book-1/Chapter-6/s00.rpy:173
-translate spanish b1c06_no_transition_fecc2e73_1:
-
-    # mct "*Yawn* Gotta keep working the case..."
-    mct "*Bostezo* Tengo que seguir trabajando en el caso..."
-
 # game/code/Book-1/Chapter-6/s00.rpy:181
 translate spanish b1c06_no_transition_c63410b2:
 
@@ -125,10 +119,3 @@ translate spanish b1c06_no_transition_da4b1de7:
 
     # mct "I should try to get closer to Zemfira. I feel like she might hold the answers to this."
     mct "Debería tratar de acercarme a Zemfira. Siento que ella podría tener las respuestas a esto."
-
-# game/code/Book-1/Chapter-6/s00.rpy:188
-translate spanish b1c06_no_transition_fecc2e73_2:
-
-    # mct "*Yawn* Gotta keep working the case..."
-    mct "*Bostezo* Tengo que seguir trabajando en el caso..."
-

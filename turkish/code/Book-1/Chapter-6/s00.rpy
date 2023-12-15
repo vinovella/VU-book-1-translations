@@ -102,12 +102,6 @@ translate turkish b1c06_no_transition_d2ebbda6:
     # mct "I'll have to try and lay low around him, if for no one else than Nia."
     mct "I'll have to try and lay low around him, if for no one else than Nia."
 
-# game/code/Book-1/Chapter-6/s00.rpy:173
-translate turkish b1c06_no_transition_fecc2e73_1:
-
-    # mct "*Yawn* Gotta keep working the case..."
-    mct "*Yawn* Gotta keep working the case..."
-
 # game/code/Book-1/Chapter-6/s00.rpy:181
 translate turkish b1c06_no_transition_c63410b2:
 
@@ -125,10 +119,3 @@ translate turkish b1c06_no_transition_da4b1de7:
 
     # mct "I should try to get closer to Zemfira. I feel like she might hold the answers to this."
     mct "I should try to get closer to Zemfira. I feel like she might hold the answers to this."
-
-# game/code/Book-1/Chapter-6/s00.rpy:188
-translate turkish b1c06_no_transition_fecc2e73_2:
-
-    # mct "*Yawn* Gotta keep working the case..."
-    mct "*Yawn* Gotta keep working the case..."
-
