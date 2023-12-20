@@ -4,25 +4,25 @@
 translate turkish b1c06_start_52754740:
 
     # mct "I need to get back into the investigations."
-    mct "Soruşturmalara geri dönmem gerekiyor."
+    mct "Araştırmalara geri dönmem gerekiyor."
 
 # game/code/Book-1/Chapter-6/s00.rpy:89
 translate turkish b1c06_start_2a9e0b83:
 
     # mct "Barely got any actual investigation done the last couple days beyond juggling the school faculty."
-    mct "Son birkaç gündür okuldaki öğretim üyeleriyle hokkabazlık yapmanın ötesinde neredeyse hiçbir gerçek soruşturma yapılmadı."
+    mct "Son birkaç gündür okuldaki öğretim üyeleriyle hokkabazlık yapmanın ötesinde neredeyse hiçbir gerçek araştırma yapılmadı."
 
 # game/code/Book-1/Chapter-6/s00.rpy:92
 translate turkish b1c06_start_78427721:
 
     # mct "*Sigh* Hopefully Ronja and Diana ease off on their shit."
-    mct "*İç çeker* Umarım Ronja ve Diana pisliklerini bırakırlar."
+    mct "*İç çeker* Ronja ve Diana'nın saçmalıklarından kurtulmalarını umuyorum."
 
 # game/code/Book-1/Chapter-6/s00.rpy:93
 translate turkish b1c06_start_fd6e0d5c:
 
     # mct "At least I got to meet Pheobe again. {w}I need to have some more concrete info next time we meet."
-    mct "En azından Pheobe ile tekrar tanışabildim. {w} Bir dahaki sefere buluştuğumuzda biraz daha somut bilgiye sahip olmam gerekiyor."
+    mct "En azından Pheobe ile tekrar tanışabildim. {w}Bir dahaki buluşmamızda biraz daha somut bilgiye ihtiyacım var."
 
 # game/code/Book-1/Chapter-6/s00.rpy:96
 translate turkish b1c06_start_fecc2e73:
@@ -34,7 +34,7 @@ translate turkish b1c06_start_fecc2e73:
 translate turkish b1c06_no_transition_8d65ef99:
 
     # mct "I had some pretty good days with the team recently.{w} Well, some of them anyway."
-    mct "Son zamanlarda ekiple oldukça güzel günler geçirdim.{w} En azından bazıları."
+    mct "Son zamanlarda takımla oldukça güzel günler geçirdim.{w}Neyse, bazıları."
 
 # game/code/Book-1/Chapter-6/s00.rpy:145
 translate turkish b1c06_no_transition_c89cc400:
