@@ -328,7 +328,7 @@ translate turkish b1c07cs08_de6df110:
 translate turkish b1c07cs08_6b091b1a:
 
     # mc "*Clears throat* What I mean is that being friends {i}is{/i} embracing your community. Everyone takes their own time to work up to things like this. It's okay, Lumi."
-    mc "*Boğazını temizler* Arkadaş olmak demek istiyorum{Bence}dır-dir{/Bence}Topluluğunuzu kucaklamak. Herkes bu gibi şeyler üzerinde çalışmak için kendi zamanını ayırır. Sorun değil, Lumi."
+    mc "*Boğazını temizler* Arkadaş olmak demek istiyorum{i}dır-dir{/i}Topluluğunuzu kucaklamak. Herkes bu gibi şeyler üzerinde çalışmak için kendi zamanını ayırır. Sorun değil, Lumi."
 
 # game/code/Book-1/Chapter-7c/s08.rpy:150
 translate turkish b1c07cs08_d15a2854:

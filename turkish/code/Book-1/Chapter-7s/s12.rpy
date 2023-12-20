@@ -892,7 +892,7 @@ translate turkish b1c07ss12_sex_85db567f:
 translate turkish b1c07ss12_sex_4b54d05e:
 
     # cb "Yeah. {i}Definitely.{/i}"
-    cb "Evet." {i}Kesinlikle.{/i}"
+    cb "Evet. {i}Kesinlikle.{/i}"
 
 # game/code/Book-1/Chapter-7s/s12.rpy:757
 translate turkish b1c07ss12_sex_05f18869:

@@ -214,7 +214,7 @@ translate turkish b1c06s01_call_rh_02cd4679:
 translate turkish b1c06s01_call_rh_99e50296:
 
     # mc "Yeah...I think so, anyway. Sounded like she just wanted to chat about something. Probably some paperwork I forgot about when I transferred."
-    mc "Evet...en azından öyle düşünüyorum." Sanki bir şey hakkında sohbet etmek istiyormuş gibi görünüyordu. Muhtemelen transfer ederken unuttuğum bazı evraklar var."
+    mc "Evet...en azından öyle düşünüyorum. Sanki bir şey hakkında sohbet etmek istiyormuş gibi görünüyordu. Muhtemelen transfer ederken unuttuğum bazı evraklar var."
 
 # game/code/Book-1/Chapter-6/s01.rpy:160
 translate turkish b1c06s01_call_rh_8fd8bcf4:
@@ -232,7 +232,7 @@ translate turkish b1c06s01_call_rh_3b65cc01:
 translate turkish b1c06s01_call_rh_5fdc0b04:
 
     # mct "She asked me to rush over here and then doesn't even answer the door? That's weird."
-    mct "Benden aceleyle buraya gelmemi istedi ve sonra kapıyı bile açmadı mı?" Bu çok tuhaf."
+    mct "Benden aceleyle buraya gelmemi istedi ve sonra kapıyı bile açmadı mı? Bu çok tuhaf."
 
 # game/code/Book-1/Chapter-6/s01.rpy:171
 translate turkish b1c06s01_call_rh_822a72b3:
@@ -340,13 +340,13 @@ translate turkish b1c06s01_call_rh_570c8725:
 translate turkish b1c06s01_call_rh_315153fc:
 
     # "You spank Ronja. The feeling her flesh quiver underneath your touch."
-    "Ronja'ya şaplak attın." Dokunuşun altında teninin titrediğini hissetmek."
+    "Ronja'ya şaplak attın. Dokunuşun altında teninin titrediğini hissetmek."
 
 # game/code/Book-1/Chapter-6/s01.rpy:269
 translate turkish b1c06s01_call_rh_b4e2e6e0:
 
     # rh "Ah! Yes! Spank me."
-    rh "Ah!" Evet! Bana şaplak at."
+    rh "Ah! Evet! Bana şaplak at."
 
 # game/code/Book-1/Chapter-6/s01.rpy:279
 translate turkish b1c06s01_call_rh_ed96df52:
@@ -364,7 +364,7 @@ translate turkish b1c06s01_call_rh_526d0213:
 translate turkish b1c06s01_call_rh_edb68ac5:
 
     # rh "Ah! Fuck, fuck, fuck!"
-    rh "Ah!" Siktir, siktir, siktir!"
+    rh "Ah! Siktir, siktir, siktir!"
 
 # game/code/Book-1/Chapter-6/s01.rpy:297
 translate turkish b1c06s01_call_rh_b2d7fe2a:
@@ -520,7 +520,7 @@ translate turkish b1c06s01_call_rh_13c61fea:
 translate turkish b1c06s01_call_rh_a72076dc:
 
     # rh "You want a drink? I have some wine in the drawer."
-    rh "İçki ister misin?" Çekmecede biraz şarap var."
+    rh "İçki ister misin? Çekmecede biraz şarap var."
 
 # game/code/Book-1/Chapter-6/s01.rpy:392
 translate turkish b1c06s01_call_rh_79712347:
@@ -532,7 +532,7 @@ translate turkish b1c06s01_call_rh_79712347:
 translate turkish b1c06s01_call_rh_d7760138:
 
     # mc "But I shouldn't. It's late."
-    mc "Ama yapmamalıyım." Geç oldu."
+    mc "Ama yapmamalıyım. Geç oldu."
 
 # game/code/Book-1/Chapter-6/s01.rpy:398
 translate turkish b1c06s01_call_rh_64341549:
@@ -556,7 +556,7 @@ translate turkish b1c06s01_call_rh_55623543:
 translate turkish b1c06s01_call_rh_dc85626d:
 
     # rh "Oh, just in time. We needed a cleaning service."
-    rh "Ah, tam zamanında." Bir temizlik hizmetine ihtiyacımız vardı."
+    rh "Ah, tam zamanında. Bir temizlik hizmetine ihtiyacımız vardı."
 
 # game/code/Book-1/Chapter-6/s01.rpy:412
 translate turkish b1c06s01_call_rh_255e216b:
@@ -580,7 +580,7 @@ translate turkish b1c06s01_call_rh_f26e5304:
 translate turkish b1c06s01_call_rh_dd59acf3:
 
     # rh "Hah! You know me so well."
-    rh "Hah!" Beni çok iyi tanıyorsun."
+    rh "Hah! Beni çok iyi tanıyorsun."
 
 # game/code/Book-1/Chapter-6/s01.rpy:425
 translate turkish b1c06s01_call_rh_c8acc6db:
@@ -682,19 +682,19 @@ translate turkish b1c06s01_no_call_91b5e3df:
 translate turkish b1c06s01_no_call_5ad4d2bf:
 
     # mc "No, not tonight. I'm sure she won't mind if I catch up with her later."
-    mc "Hayır, bu gece değil." Eminim ona daha sonra yetişirsem aldırış etmez."
+    mc "Hayır, bu gece değil. Eminim ona daha sonra yetişirsem aldırış etmez."
 
 # game/code/Book-1/Chapter-6/s01.rpy:477
 translate turkish b1c06s01_no_call_8c67590e:
 
     # mct "Besides, I'd prefer not to piss off Diana over this bet. I have to work with her in more ways than one, considering the investigation."
-    mct "Ayrıca bu bahis yüzünden Diana'yı kızdırmamayı tercih ederim." Soruşturmayı göz önünde bulundurursak onunla birden fazla şekilde çalışmam gerekiyor."
+    mct "Ayrıca bu bahis yüzünden Diana'yı kızdırmamayı tercih ederim. Soruşturmayı göz önünde bulundurursak onunla birden fazla şekilde çalışmam gerekiyor."
 
 # game/code/Book-1/Chapter-6/s01.rpy:480
 translate turkish b1c06s01_no_call_27874b45:
 
     # lw "Oh. I was hoping I'd get to eavesdrop on some juicy drama or something."
-    lw "Ah." İlginç bir drama falan kulak misafiri olacağımı umuyordum."
+    lw "Ah. İlginç bir drama falan kulak misafiri olacağımı umuyordum."
 
 # game/code/Book-1/Chapter-6/s01.rpy:483
 translate turkish b1c06s01_no_call_4b73aa25:
@@ -718,7 +718,7 @@ translate turkish b1c06s01_no_call_9c502122:
 translate turkish b1c06s01_no_call_6e8d9c1f:
 
     # lw "Of course I am. My ears are my biggest source of information."
-    lw "Elbette öyleyim." Kulaklarım benim en büyük bilgi kaynağımdır."
+    lw "Elbette öyleyim. Kulaklarım benim en büyük bilgi kaynağımdır."
 
 # game/code/Book-1/Chapter-6/s01.rpy:495
 translate turkish b1c06s01_no_call_34214c41:

@@ -166,7 +166,7 @@ translate turkish b1c07s03_e65484d7:
 translate turkish b1c07s03_08f4663a:
 
     # jh "Ooh, oh! Look at that. First pointer. See how she puts the very tip of her foot on the holds and not her soles?"
-    jh ""Ah, ah! Şuna bak. İlk işaretçi. Ayak tabanına değil de ayağının ucunu nasıl tutuşlara koyduğunu gördün mü?"
+    jh "Ah, ah! Şuna bak. İlk işaretçi. Ayak tabanına değil de ayağının ucunu nasıl tutuşlara koyduğunu gördün mü?"
 
 # game/code/Book-1/Chapter-7/s03.rpy:107
 translate turkish b1c07s03_7eac2298:
@@ -208,7 +208,7 @@ translate turkish b1c07s03_428680de:
 translate turkish b1c07s03_529ab3cb:
 
     # jh "I know, right? She's really something. I used to give her more input on the climbs, but she has gotten the hang of it so well now that she can usually do simpler climbs on her own. Pardon the pun."
-    jh "Biliyorum, değil mi?" O gerçekten harika bir şey. Eskiden ona tırmanışlarla ilgili daha fazla bilgi verirdim ama o bu konuyu o kadar iyi kavramış ki artık genellikle kendi başına daha basit tırmanışlar yapabiliyor. Kelime oyunu için özür dilerim."
+    jh "Biliyorum, değil mi? O gerçekten harika bir şey. Eskiden ona tırmanışlarla ilgili daha fazla bilgi verirdim ama o bu konuyu o kadar iyi kavramış ki artık genellikle kendi başına daha basit tırmanışlar yapabiliyor. Kelime oyunu için özür dilerim."
 
 # game/code/Book-1/Chapter-7/s03.rpy:132
 translate turkish b1c07s03_1d7712b3:
@@ -802,7 +802,7 @@ translate turkish b1c07s03_after_bouldering_19de7c27:
 translate turkish b1c07s03_after_bouldering_5d72186c:
 
     # mc "What? You already tapping out, Miss {i}Professional{/i}?"
-    mc "Ne? Zaten çıkış yapıyorsunuz Bayan{Bence}Profesyonel{/Bence}?"
+    mc "Ne? Zaten çıkış yapıyorsunuz Bayan{i}Profesyonel{/i}?"
 
 # game/code/Book-1/Chapter-7/s03.rpy:495
 translate turkish b1c07s03_after_bouldering_3863523b:

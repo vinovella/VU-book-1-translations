@@ -58,7 +58,7 @@ translate turkish b1c04ns04_09a9f633:
 translate turkish b1c04ns04_0e051b0e:
 
     # ad "We'll be starting in fifteen minutes. Until then, everyone, please enjoy the luxuries we offer."
-    ad "On beş dakika sonra başlayacağız" reklamı. O zamana kadar millet, lütfen sunduğumuz lükslerin tadını çıkarın."
+    ad "On beş dakika sonra başlayacağız reklamı. O zamana kadar millet, lütfen sunduğumuz lükslerin tadını çıkarın."
 
 # game/code/Book-1/Chapter-4n/s04.rpy:50
 translate turkish b1c04ns04_ea5ffd3b:
@@ -94,13 +94,13 @@ translate turkish b1c04ns04_5d72eecb:
 translate turkish b1c04ns04_118479f1:
 
     # mc "That sounds tough. I bet it's hard to be pressured to replace someone you cared about."
-    mc "Bu kulağa zor geliyor." Eminim değer verdiğin birinin yerini alması için baskı altında olmak zordur."
+    mc "Bu kulağa zor geliyor. Eminim değer verdiğin birinin yerini alması için baskı altında olmak zordur."
 
 # game/code/Book-1/Chapter-4n/s04.rpy:68
 translate turkish b1c04ns04_19422660:
 
     # nv "Um, yeah. I really miss her. Most people think I'm ridiculous for waiting so long to choose a new guide, though."
-    nv "Hımm, evet." Onu gerçekten özlüyorum. Çoğu kişi yeni bir rehber seçmek için bu kadar beklememin saçmalık olduğunu düşünüyor."
+    nv "Hımm, evet. Onu gerçekten özlüyorum. Çoğu kişi yeni bir rehber seçmek için bu kadar beklememin saçmalık olduğunu düşünüyor."
 
 # game/code/Book-1/Chapter-4n/s04.rpy:70
 translate turkish b1c04ns04_62680906:
@@ -124,7 +124,7 @@ translate turkish b1c04ns04_c7ec488a:
 translate turkish b1c04ns04_fde96147:
 
     # nv "Sorry. I forgot that you're new here."
-    nv "Üzgünüm." Burada yeni olduğunu unutmuşum."
+    nv "Üzgünüm. Burada yeni olduğunu unutmuşum."
 
 # game/code/Book-1/Chapter-4n/s04.rpy:82
 translate turkish b1c04ns04_f6b3da79:
@@ -136,7 +136,7 @@ translate turkish b1c04ns04_f6b3da79:
 translate turkish b1c04ns04_b00412a6:
 
     # nv "I'm sorry. Though I admit I assumed you knew at least a bit more about the group already."
-    nv "Üzgünüm." Yine de grup hakkında en azından biraz daha fazlasını bildiğini varsaydığımı itiraf etmeliyim."
+    nv "Üzgünüm. Yine de grup hakkında en azından biraz daha fazlasını bildiğini varsaydığımı itiraf etmeliyim."
 
 # game/code/Book-1/Chapter-4n/s04.rpy:88
 translate turkish b1c04ns04_74b19d06:
@@ -166,7 +166,7 @@ translate turkish b1c04ns04_fad4f0fe:
 translate turkish b1c04ns04_4cdb0618:
 
     # nv "I'm curious. Why'd you join the seminar?"
-    nv "Merak ediyorum." Seminere neden katıldınız?"
+    nv "Merak ediyorum. Seminere neden katıldınız?"
 
 # game/code/Book-1/Chapter-4n/s04.rpy:101
 translate turkish b1c04ns04_adab05c8:
@@ -208,19 +208,19 @@ translate turkish b1c04ns04_47727138:
 translate turkish b1c04ns04_253a2e30:
 
     # nv "What kind of issues? If you don't mind me asking."
-    nv "Ne tür sorunlar?" Sormamın sakıncası yoksa."
+    nv "Ne tür sorunlar? Sormamın sakıncası yoksa."
 
 # game/code/Book-1/Chapter-4n/s04.rpy:120
 translate turkish b1c04ns04_2c20cf8d:
 
     # mc "Not at all. I guess we just see things differently. He wanted to teach me discipline. But sometimes it felt like what he really wanted was submission."
-    mc "Hiç de değil." Sanırım olaylara farklı bakıyoruz. Bana disiplini öğretmek istiyordu. Ama bazen gerçekten istediği şeyin boyun eğmek olduğunu hissediyordu."
+    mc "Hiç de değil. Sanırım olaylara farklı bakıyoruz. Bana disiplini öğretmek istiyordu. Ama bazen gerçekten istediği şeyin boyun eğmek olduğunu hissediyordu."
 
 # game/code/Book-1/Chapter-4n/s04.rpy:123
 translate turkish b1c04ns04_0912df88:
 
     # nv "I get that. My older brother and I... Well, he's part of the reason I'm taking Chem, even though I'd rather do something else with my life."
-    nv "Anladım." Ağabeyim ve ben... Hayatımda başka bir şey yapmayı tercih etsem de Chem'i almamın nedenlerinden biri de o."
+    nv "Anladım. Ağabeyim ve ben... Hayatımda başka bir şey yapmayı tercih etsem de Chem'i almamın nedenlerinden biri de o."
 
 # game/code/Book-1/Chapter-4n/s04.rpy:126
 translate turkish b1c04ns04_066ef972:
@@ -256,7 +256,7 @@ translate turkish b1c04ns04_aac27661:
 translate turkish b1c04ns04_9eb971ba:
 
     # nv "Right. The only way is forward."
-    nv "Doğru." Tek yol ileridir."
+    nv "Doğru. Tek yol ileridir."
 
 # game/code/Book-1/Chapter-4n/s04.rpy:142
 translate turkish b1c04ns04_db4dcd64:
@@ -280,13 +280,13 @@ translate turkish b1c04ns04_9693d6e4:
 translate turkish b1c04ns04_04288e06:
 
     # nv "You're here, aren't you? There must be some part of you that wants to grow."
-    nv "Buradasın değil mi?" İçinizde büyümek isteyen bir parçanız olmalı."
+    nv "Buradasın değil mi? İçinizde büyümek isteyen bir parçanız olmalı."
 
 # game/code/Book-1/Chapter-4n/s04.rpy:150
 translate turkish b1c04ns04_0cdbd9ac:
 
     # nv "Seriously. I think it'd be great for you to join."
-    nv "Cidden." Bence katılmanız harika olur."
+    nv "Cidden. Bence katılmanız harika olur."
 
 # game/code/Book-1/Chapter-4n/s04.rpy:153
 translate turkish b1c04ns04_a86c46d0:
@@ -310,7 +310,7 @@ translate turkish b1c04ns04_03ed7c9b:
 translate turkish b1c04ns04_e8522632:
 
     # mct "Still, I shouldn't be too eager about it. I don't want her to question my intentions."
-    mct "Yine de bu konuda çok istekli olmamam gerekiyor." Niyetlerimi sorgulamasını istemiyorum."
+    mct "Yine de bu konuda çok istekli olmamam gerekiyor. Niyetlerimi sorgulamasını istemiyorum."
 
 # game/code/Book-1/Chapter-4n/s04.rpy:162
 translate turkish b1c04ns04_0ad262d6:
@@ -430,13 +430,13 @@ translate turkish b1c04ns04_b59b12cc:
 translate turkish b1c04ns04_bfcbc100:
 
     # mc "Oh. So is everyone but himself aware that he's laying it on thick?"
-    mc "Ah." Peki kendisi dışında herkes bu işi abarttığının farkında mı?"
+    mc "Ah. Peki kendisi dışında herkes bu işi abarttığının farkında mı?"
 
 # game/code/Book-1/Chapter-4n/s04.rpy:214
 translate turkish b1c04ns04_1460d3d6:
 
     # nv "Just listen. He has some good points."
-    nv "Sadece dinle." Bazı iyi noktaları var."
+    nv "Sadece dinle. Bazı iyi noktaları var."
 
 # game/code/Book-1/Chapter-4n/s04.rpy:217
 translate turkish b1c04ns04_a0b82d21:

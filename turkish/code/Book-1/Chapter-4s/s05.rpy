@@ -1,4 +1,4 @@
-S﻿# TODO: Translation updated at 2023-08-07 00:37
+# TODO: Translation updated at 2023-08-07 00:37
 
 # game/code/Book-1/Chapter-4s/s05.rpy:19
 translate turkish b1c04ss05_9729e557:
@@ -946,7 +946,7 @@ translate turkish b1c04ss05_7a6db818:
 translate turkish b1c04ss05_bddefb4a:
 
     # sm "Game! [mcname]'s team wins!"
-    sm "Oyun!" [mcname]'in takımı kazandı!"
+    sm "Oyun! [mcname]'in takımı kazandı!"
 
 # game/code/Book-1/Chapter-4s/s05.rpy:690
 translate turkish b1c04ss05_d446c387:

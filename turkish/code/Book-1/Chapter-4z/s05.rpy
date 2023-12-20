@@ -4,7 +4,7 @@
 translate turkish b1c04zs05_d8451613:
 
     # "{color=#662727}Salesman{/color}" "What gun would you like to use?" (who_outlines=[(1, "#e1e1e1", 0, 0)], kerning=1)
-    "{color=#662727}Satıcı{/color}" "Hangi silahı kullanmak istersiniz?" (who_outlines=[(1, "#e1e1e1", 0, 0)], karakter aralığı=1)
+    "{color=#662727}Satıcı{/color}" "Hangi silahı kullanmak istersiniz?" (who_outlines=[(1, "#e1e1e1", 0, 0)], kerning=1)
 
 # game/code/Book-1/Chapter-4z/s05.rpy:10
 translate turkish b1c04zs05_11707453:
@@ -16,7 +16,7 @@ translate turkish b1c04zs05_11707453:
 translate turkish b1c04zs05_1d035b62:
 
     # "{color=#662727}Salesman{/color}" "Have you shot before?" (who_outlines=[(1, "#e1e1e1", 0, 0)], kerning=1)
-    "{color=#662727}Satıcı{/color}" "Daha önce çekim yaptınız mı?" (who_outlines=[(1, "#e1e1e1", 0, 0)], karakter aralığı=1)
+    "{color=#662727}Satıcı{/color}" "Daha önce çekim yaptınız mı?" (who_outlines=[(1, "#e1e1e1", 0, 0)], kerning=1)
 
 # game/code/Book-1/Chapter-4z/s05.rpy:16
 translate turkish b1c04zs05_f800bed0:
@@ -28,7 +28,7 @@ translate turkish b1c04zs05_f800bed0:
 translate turkish b1c04zs05_eb5cf4de:
 
     # "{color=#662727}Salesman{/color}" "Great. Would you like a tutor for the range?" (who_outlines=[(1, "#e1e1e1", 0, 0)], kerning=1)
-   "{color=#662727}Satış elemanı{/color}" "Harika. Bu ürün yelpazesi için bir öğretmen ister misiniz?" (who_outlines=[(1, "#e1e1e1", 0, 0)], karakter aralığı=1)
+   "{color=#662727}Satış elemanı{/color}" "Harika. Bu ürün yelpazesi için bir öğretmen ister misiniz?" (who_outlines=[(1, "#e1e1e1", 0, 0)], kerning=1)
 
 # game/code/Book-1/Chapter-4z/s05.rpy:21
 translate turkish b1c04zs05_47d1b165:
@@ -40,13 +40,13 @@ translate turkish b1c04zs05_47d1b165:
 translate turkish b1c04zs05_522fb869:
 
     # "{color=#662727}Salesman{/color}" "Alright. Make sure you get ear plugs on your way in. Let me know if you have any questions." (who_outlines=[(1, "#e1e1e1", 0, 0)], kerning=1)
-    "{color=#662727}Satıcı{/color}" "Pekala. Gelirken kulak tıkacı aldığınızdan emin olun. Sorularınız olursa bana bildirin." (who_outlines=[(1, "#e1e1e1", 0, 0)], karakter aralığı=1)
+    "{color=#662727}Satıcı{/color}" "Pekala. Gelirken kulak tıkacı aldığınızdan emin olun. Sorularınız olursa bana bildirin." (who_outlines=[(1, "#e1e1e1", 0, 0)], kerning=1)
 
 # game/code/Book-1/Chapter-4z/s05.rpy:26
 translate turkish b1c04zs05_cb6b1036:
 
     # "{color=#662727}Salesman{/color}" "Have a good time!" (who_outlines=[(1, "#e1e1e1", 0, 0)], kerning=1)
-    "{color=#662727}Satıcı{/color}" "İyi eğlenceler!" (who_outlines=[(1, "#e1e1e1", 0, 0)], karakter aralığı=1)
+    "{color=#662727}Satıcı{/color}" "İyi eğlenceler!" (who_outlines=[(1, "#e1e1e1", 0, 0)], kerning=1)
 
 # game/code/Book-1/Chapter-4z/s05.rpy:28
 translate turkish b1c04zs05_a64e8bc0:

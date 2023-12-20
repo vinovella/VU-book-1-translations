@@ -118,7 +118,7 @@ translate turkish b1c06cs02_d387fd6e:
 translate turkish b1c06cs02_c067cbde:
 
     # mc "I...guess not. It just seems a little invasive."
-    mc "Ben...sanırım hayır." Sadece biraz saldırgan görünüyor."
+    mc "Ben...sanırım hayır. Sadece biraz saldırgan görünüyor."
 
 # game/code/Book-1/Chapter-6c/s02.rpy:78
 translate turkish b1c06cs02_08ef0c85:
@@ -130,13 +130,13 @@ translate turkish b1c06cs02_08ef0c85:
 translate turkish b1c06cs02_bf95ff07:
 
     # mc "No, no. I don't want to hold us back."
-    mc "Hayır, hayır." Bizi geride tutmak istemiyorum."
+    mc "Hayır, hayır. Bizi geride tutmak istemiyorum."
 
 # game/code/Book-1/Chapter-6c/s02.rpy:84
 translate turkish b1c06cs02_8ea05fca:
 
     # nv "Don't worry! You're not holding us back."
-    nv "Endişelenmeyin!" Bizi geride tutamazsınız."
+    nv "Endişelenmeyin! Bizi geride tutamazsınız."
 
 # game/code/Book-1/Chapter-6c/s02.rpy:85
 translate turkish b1c06cs02_4dc78620:
@@ -148,7 +148,7 @@ translate turkish b1c06cs02_4dc78620:
 translate turkish b1c06cs02_24d36869:
 
     # dk "It's okay if you can't answer it right away. Trust can require time."
-    dk "Hemen cevap veremezsen sorun değil." Güven zaman gerektirebilir."
+    dk "Hemen cevap veremezsen sorun değil. Güven zaman gerektirebilir."
 
 # game/code/Book-1/Chapter-6c/s02.rpy:89
 translate turkish b1c06cs02_b15361de:
@@ -166,7 +166,7 @@ translate turkish b1c06cs02_9142b14d:
 translate turkish b1c06cs02_7100d56e:
 
     # mc "I'm...here to seek truth. Whatever that looks like."
-    mc "Ben...gerçeği aramak için buradayım." Her ne gibi görünüyorsa."
+    mc "Ben...gerçeği aramak için buradayım. Her ne gibi görünüyorsa."
 
 # game/code/Book-1/Chapter-6c/s02.rpy:98
 translate turkish b1c06cs02_93478f84:
@@ -238,7 +238,7 @@ translate turkish b1c06cs02_d8e7847b:
 translate turkish b1c06cs02_a4fb9434:
 
     # mc "I disagree. I think perceptions are thoughts with human bias. Which means truth is a separate and unbiased thing."
-    mc "Katılmıyorum." Ben algıların insan önyargılı düşünceler olduğunu düşünüyorum. Bu da gerçeğin ayrı ve tarafsız bir şey olduğu anlamına gelir."
+    mc "Katılmıyorum. Ben algıların insan önyargılı düşünceler olduğunu düşünüyorum. Bu da gerçeğin ayrı ve tarafsız bir şey olduğu anlamına gelir."
 
 # game/code/Book-1/Chapter-6c/s02.rpy:134
 translate turkish b1c06cs02_38c468c1:
@@ -430,7 +430,7 @@ translate turkish b1c06cs02_6216d3a9:
 translate turkish b1c06cs02_7298c684:
 
     # mct "A goddess? Does that mean the symbol on the workbook relates to Delphia's goddess? Does the whole group worship this goddess?"
-    mct "Bir tanrıça mı?" Bu, çalışma kitabındaki sembolün Delphia'nın tanrıçasıyla ilgili olduğu anlamına mı geliyor? Bütün grup bu tanrıçaya tapıyor mu?"
+    mct "Bir tanrıça mı? Bu, çalışma kitabındaki sembolün Delphia'nın tanrıçasıyla ilgili olduğu anlamına mı geliyor? Bütün grup bu tanrıçaya tapıyor mu?"
 
 # game/code/Book-1/Chapter-6c/s02.rpy:224
 translate turkish b1c06cs02_3170202b:
@@ -508,7 +508,7 @@ translate turkish b1c06cs02_93e5d9ca:
 translate turkish b1c06cs02_37b8bc21:
 
     # mc "Greek pottery, huh? Mind if I tag along?"
-    mc "Yunan çömlekçiliği, öyle mi?" Benim de eşlik etmemin bir sakıncası var mı?"
+    mc "Yunan çömlekçiliği, öyle mi? Benim de eşlik etmemin bir sakıncası var mı?"
 
 # game/code/Book-1/Chapter-6c/s02.rpy:272
 translate turkish b1c06cs02_429c5f69:
@@ -538,7 +538,7 @@ translate turkish b1c06cs02_c4ff6a4f:
 translate turkish b1c06cs02_1ff52d75:
 
     # dk "You're right. I have the ego of a god."
-    dk "Haklısın." Bir tanrının egosuna sahibim."
+    dk "Haklısın. Bir tanrının egosuna sahibim."
 
 # game/code/Book-1/Chapter-6c/s02.rpy:285
 translate turkish b1c06cs02_0830b83f:

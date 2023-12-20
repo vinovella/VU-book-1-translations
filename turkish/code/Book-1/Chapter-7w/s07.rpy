@@ -160,7 +160,7 @@ translate turkish b1c07ws07_c406001a:
 translate turkish b1c07ws07_aa18735d:
 
     # ima "Get away from me! None of that matters now. None of what we had {i}matters{/i}!"
-    ima "Benden uzak dur! Artık bunların hiçbir önemi yok. Sahip olduklarımızın hiçbiri{Bence}önemli{/Bence}!"
+    ima "Benden uzak dur! Artık bunların hiçbir önemi yok. Sahip olduklarımızın hiçbiri{i}önemli{/i}!"
 
 # game/code/Book-1/Chapter-7w/s07.rpy:112
 translate turkish b1c07ws07_e70ae56b:

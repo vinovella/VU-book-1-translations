@@ -706,7 +706,7 @@ translate turkish b1c07ss04_54c4a650:
 translate turkish b1c07ss04_7a4e4d8d:
 
     # mc "It's exhilarating to know how to wield something so powerful. It makes {i}me{/i} feel powerful."
-    mc "Bu kadar güçlü bir şeyin nasıl kullanılacağını bilmek heyecan verici. Yapar{Bence}Ben{/Bence}güçlü hissediyorum."
+    mc "Bu kadar güçlü bir şeyin nasıl kullanılacağını bilmek heyecan verici. Yapar{i}Ben{/i}güçlü hissediyorum."
 
 # game/code/Book-1/Chapter-7s/s04.rpy:414
 translate turkish b1c07ss04_06a3988a:

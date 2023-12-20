@@ -220,7 +220,7 @@ translate turkish b1c07cs04_b104f267:
 translate turkish b1c07cs04_4fa7f761:
 
     # mc "It's true, though. You have so much {i}passion{/i}. It's invigorating."
-    mc "Ama bu doğru." Çok fazla {i}tutkunuz{/i} var. Canlandırıcıdır."
+    mc "Ama bu doğru. Çok fazla {i}tutkunuz{/i} var. Canlandırıcıdır."
 
 # game/code/Book-1/Chapter-7c/s04.rpy:143
 translate turkish b1c07cs04_d78412f3:
@@ -286,7 +286,7 @@ translate turkish b1c07cs04_80933fee:
 translate turkish b1c07cs04_2cf7f50b:
 
     # mc "Did I say something wrong? I'm sorry—"
-    mc "Yanlış bir şey mi söyledim? Üzgünüm..
+    mc "Yanlış bir şey mi söyledim? Üzgünüm.."
 
 # game/code/Book-1/Chapter-7c/s04.rpy:183
 translate turkish b1c07cs04_3f7bee3c:
@@ -946,7 +946,7 @@ translate turkish b1c07cs04_3e8680f6:
 translate turkish b1c07cs04_e062b79c:
 
     # dk "Believe me, I {i}always{/i} finish what I start. I'm just not done with you yet."
-    dk "İnan bana, ben{Bence}Her zaman{/Bence}başladığım işi bitirmek Henüz seninle işim bitmedi."
+    dk "İnan bana, ben{i}Her zaman{/i}başladığım işi bitirmek Henüz seninle işim bitmedi."
 
 translate turkish strings:
 

@@ -94,7 +94,7 @@ translate turkish b1c04ns06_0134ea6b:
 translate turkish b1c04ns06_ae4809e1:
 
     # nv "And that's Metis. They're Athena's parents."
-    nv "Ve bu Metis. Onlar Athena'nın ebeveynleri.""
+    nv "Ve bu Metis. Onlar Athena'nın ebeveynleri."
 
 # game/code/Book-1/Chapter-4n/s06.rpy:69
 translate turkish b1c04ns06_b279742c:
@@ -166,7 +166,7 @@ translate turkish b01c04ns06m01_954fcf06:
 translate turkish b01c04ns06m01_fc462e5b:
 
     # nv "You're very insightful! Yes, they were {i}very{/i} close as a couple."
-    nv Çok anlayışlısın! Evet, bir çift olarak {i}çok{/i} yakındılar."
+    nv "Çok anlayışlısın! Evet, bir çift olarak {i}çok{/i} yakındılar."
 
 # game/code/Book-1/Chapter-4n/s06.rpy:134
 translate turkish b01c04ns06m01_d027f4eb:

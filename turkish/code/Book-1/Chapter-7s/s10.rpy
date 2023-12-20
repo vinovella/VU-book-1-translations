@@ -142,7 +142,7 @@ translate turkish b1c07ss10_512edf1a:
 translate turkish b1c07ss10_0789672b:
 
     # mg "Shit. That must be why she wanted {i}me{/i} to come. Alright. I'll talk to her about it."
-    mg "Kahretsin." Bu yüzden {i}benim{/i} gelmemi istemiş olmalı. Peki. Bu konuyu onunla konuşacağım."
+    mg "Kahretsin. Bu yüzden {i}benim{/i} gelmemi istemiş olmalı. Peki. Bu konuyu onunla konuşacağım."
 
 # game/code/Book-1/Chapter-7s/s10.rpy:89
 translate turkish b1c07ss10_832d0dc6:
@@ -310,7 +310,7 @@ translate turkish b1c07ss10_continue_254158bc:
 translate turkish b1c07ss10_continue_615e67b3:
 
     # mc "Yeah! I {i}want{/i} this, Morgan. I want to fight."
-    mc "Evet!" Bunu {i}istiyorum{/i} Morgan. Dövüşmek istiyorum."
+    mc "Evet! Bunu {i}istiyorum{/i} Morgan. Dövüşmek istiyorum."
 
 # game/code/Book-1/Chapter-7s/s10.rpy:178
 translate turkish b1c07ss10_continue_080240d4:

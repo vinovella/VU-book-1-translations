@@ -328,7 +328,7 @@ translate turkish b1c07ws06_99e54e9e:
 translate turkish b1c07ws06_6fe8c0d2:
 
     # mc "It'd be preferable if we don't kill ourselves doing it, but we're still gonna win at the end of the day, and isn't that what {i}really{/i} matters?"
-    mc "Bunu yaparken kendimizi öldürmesek daha iyi olur ama günün sonunda yine de kazanacağız, değil mi?{Bence}Gerçekten{/Bence}önemli mi?"
+    mc "Bunu yaparken kendimizi öldürmesek daha iyi olur ama günün sonunda yine de kazanacağız, değil mi?{i}Gerçekten{/i}önemli mi?"
 
 # game/code/Book-1/Chapter-7w/s06.rpy:238
 translate turkish b1c07ws06_41968476:

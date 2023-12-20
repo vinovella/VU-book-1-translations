@@ -64,13 +64,13 @@ translate turkish b1c07ss13_return_d66a6dcb:
 translate turkish b1c07ss13_return_751b5fbd:
 
     # mct "Does Zem fully understand what she's involved with? She described it all as a {i}game{/i} but this is much more dangerous than that..."
-    mct "Zem neye bulaştığını tam olarak anlıyor mu? Her şeyi şöyle anlattı:{Bence}oyun{/Bence}ama bu bundan çok daha tehlikeli..."
+    mct "Zem neye bulaştığını tam olarak anlıyor mu? Her şeyi şöyle anlattı:{i}oyun{/i}ama bu bundan çok daha tehlikeli..."
 
 # game/code/Book-1/Chapter-7s/s13.rpy:123
 translate turkish b1c07ss13_return_cfd9036c:
 
     # mct "On top of that, it seems The Syndicate isn't the only organization around. Cade seems to be a part of an {i}enemy{/i} gang."
-    mct "Üstelik görünen o ki Syndicate etraftaki tek organizasyon değil. Cade bir şeyin parçası gibi görünüyor{Bence}düşman{/Bence}çete."
+    mct "Üstelik görünen o ki Syndicate etraftaki tek organizasyon değil. Cade bir şeyin parçası gibi görünüyor{i}düşman{/i}çete."
 
 # game/code/Book-1/Chapter-7s/s13.rpy:126
 translate turkish b1c07ss13_return_64665c61:
@@ -100,7 +100,7 @@ translate turkish b1c07ss13_return_56cbdd57:
 translate turkish b1c07ss13_return_1a8bb28a:
 
     # mct "I've got to get deeper into The Syndicate. {i}Someone{/i} must've seen {i}something{/i}, or knows information about Leia that might help."
-    mct "The Syndicate'in derinliklerine inmem gerekiyor.{i}Birisi{/i}mutlaka görmüş olmalısın{Bence}bir şey{/Bence}veya Leia hakkında yardımcı olabilecek bilgileri biliyor."
+    mct "The Syndicate'in derinliklerine inmem gerekiyor.{i}Birisi{/i}mutlaka görmüş olmalısın{i}bir şey{/i}veya Leia hakkında yardımcı olabilecek bilgileri biliyor."
 
 # game/code/Book-1/Chapter-7s/s13.rpy:143
 translate turkish b1c07ss13_return_dcc2f1ea:

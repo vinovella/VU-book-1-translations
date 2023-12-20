@@ -118,7 +118,7 @@ translate turkish b1c07cs01_b5acaff2:
 translate turkish b1c07cs01_7bb8c326:
 
     # ad "Ladies and gentlemen! Today, I have a {i}very{/i} special guest!"
-    ad "Bayanlar ve baylar!" Bugün {i}çok{/i} özel bir konuğum var!"
+    ad "Bayanlar ve baylar! Bugün {i}çok{/i} özel bir konuğum var!"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:94
 translate turkish b1c07cs01_f450d0fa:
@@ -226,7 +226,7 @@ translate turkish b1c07cs01_9bd34cfd:
 translate turkish b1c07cs01_71e7a4b1:
 
     # nv "Where our personal Guides want to help us grow as {i}individuals{/i}, Ivy wants to help us grow as a {i}community{/i}."
-    nv "Kişisel Rehberlerimizin büyümemize yardımcı olmak istediği yer{Bence}bireyler{/Bence}Ivy büyümemize yardım etmek istiyor{Bence}toplum{/Bence}."
+    nv "Kişisel Rehberlerimizin büyümemize yardımcı olmak istediği yer{i}bireyler{/i}Ivy büyümemize yardım etmek istiyor{i}toplum{/i}."
 
 # game/code/Book-1/Chapter-7c/s01.rpy:153
 translate turkish b1c07cs01_0f894798:
@@ -280,7 +280,7 @@ translate turkish b1c07cs01_39e9ce50:
 translate turkish b1c07cs01_2ba23153:
 
     # ih "Our advancing ceremony will help clarify your inner thoughts, and Guide you toward {i}your{/i} desires."
-    ih "İlerleme törenimiz içsel düşüncelerinizi netleştirmenize yardımcı olacak ve sizi doğruya doğru yönlendirecektir.{Bence}senin{/Bence}arzular."
+    ih "İlerleme törenimiz içsel düşüncelerinizi netleştirmenize yardımcı olacak ve sizi doğruya doğru yönlendirecektir.{i}senin{/i}arzular."
 
 # game/code/Book-1/Chapter-7c/s01.rpy:185
 translate turkish b1c07cs01_51c3a75f:
@@ -292,7 +292,7 @@ translate turkish b1c07cs01_51c3a75f:
 translate turkish b1c07cs01_5e928289:
 
     # mct "Despite all of Ivy's specific wording, I still have no idea what this 'ceremony' is about."
-    mct "Ivy'nin tüm özel ifadelerine rağmen, bu "törenin" ne anlama geldiğine dair hâlâ hiçbir fikrim yok. yaklaşık."
+    mct "Ivy'nin tüm özel ifadelerine rağmen, bu \"törenin\" ne anlama geldiğine dair hâlâ hiçbir fikrim yok. yaklaşık."
 
 # game/code/Book-1/Chapter-7c/s01.rpy:189
 translate turkish b1c07cs01_0dea40c4:
@@ -898,7 +898,7 @@ translate turkish b1c07cs01_a7c37b68:
 translate turkish b1c07cs01_c3825207:
 
     # mct "I'll have to come back later and investigate the building. There's gotta be {i}some{/i} sort of evidence as to where they went."
-    mct "Daha sonra gelip binayı araştırmam gerekecek. Olmalı{Bence}bazı{/Bence}Nereye gittiklerine dair bir tür kanıt."
+    mct "Daha sonra gelip binayı araştırmam gerekecek. Olmalı{i}bazı{/i}Nereye gittiklerine dair bir tür kanıt."
 
 # game/code/Book-1/Chapter-7c/s01.rpy:515
 translate turkish b1c07cs01_f03e4f94:

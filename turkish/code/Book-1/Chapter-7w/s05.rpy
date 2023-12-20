@@ -496,7 +496,7 @@ translate turkish b1c07ws05_bar_ir_c1e7916e:
 translate turkish b1c07ws05_bar_ir_1d8bc34c:
 
     # mc "A \"thing\"?"
-    mc "Bir "şey" mi?"
+    mc "Bir \"şey\" mi?"
 
 # game/code/Book-1/Chapter-7w/s05.rpy:380
 translate turkish b1c07ws05_bar_ir_1440e779:

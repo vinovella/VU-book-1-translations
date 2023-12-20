@@ -106,7 +106,7 @@ translate turkish b1c07ws01_6458842a:
 translate turkish b1c07ws01_f9f38327:
 
     # ir "I found just the pair that'll highlight all your features {i}just right.{/i}"
-    ir "Tam olarak tüm özelliklerini öne çıkaracak çifti buldum{Bence}tam kararında.{/Bence}"
+    ir "Tam olarak tüm özelliklerini öne çıkaracak çifti buldum{i}tam kararında.{/i}"
 
 # game/code/Book-1/Chapter-7w/s01.rpy:102
 translate turkish b1c07ws01_4d41c96b:
@@ -256,7 +256,7 @@ translate turkish b1c07ws01_measurement_4ee46041:
 translate turkish b1c07ws01_measurement_6832f759:
 
     # ir "*Wolf whistles* Damn, sweet cheeks. You look {i}fine{/i} in that."
-    ir "*Kurt ıslık çalar* Lanet olsun, tatlı yanaklar. bak{Bence}iyi{/Bence}şöyle."
+    ir "*Kurt ıslık çalar* Lanet olsun, tatlı yanaklar. bak{i}iyi{/i}şöyle."
 
 # game/code/Book-1/Chapter-7w/s01.rpy:236
 translate turkish b1c07ws01_measurement_bfc1fa21:

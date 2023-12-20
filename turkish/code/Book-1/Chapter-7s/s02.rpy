@@ -76,7 +76,7 @@ translate turkish b1c07ss02_0eeb51b4:
 translate turkish b1c07ss02_c55967ae:
 
     # "Guard" "Not anymore than anyone else who winds up in {i}prison.{/i}"
-    "Guard" "Artık içeri giren herkesten daha fazla değil{Bence}hapishane.{/Bence}"
+    "Guard" "Artık içeri giren herkesten daha fazla değil{i}hapishane.{/i}"
 
 # game/code/Book-1/Chapter-7s/s02.rpy:52
 translate turkish b1c07ss02_d5ae2301:
@@ -364,7 +364,7 @@ translate turkish b1c07ss02_f6c0bb23:
 translate turkish b1c07ss02_35b470c9:
 
     # cb "Make sure Morgan gets my letters. Just {i}one{/i}... And I demand that you help her."
-    cb "Morgan'ın mektuplarımı aldığından emin ol." Sadece {i}bir{/i}... Ve ona yardım etmeni talep ediyorum."
+    cb "Morgan'ın mektuplarımı aldığından emin ol. Sadece {i}bir{/i}... Ve ona yardım etmeni talep ediyorum."
 
 # game/code/Book-1/Chapter-7s/s02.rpy:202
 translate turkish b1c07ss02_b305ff35:
@@ -574,7 +574,7 @@ translate turkish b1c07ss02_cf6d36ed:
 translate turkish b1c07ss02_80e59f92:
 
     # cb "And if that time is best spent visiting {i}old acquaintances{/i} then who am I to resist?"
-    cb "Ve eğer bu zamanı ziyaret ederek geçirmek en iyisiyse{Bence}eski tanıdıklar{/Bence}o zaman ben kimim ki direneceğim?"
+    cb "Ve eğer bu zamanı ziyaret ederek geçirmek en iyisiyse{i}eski tanıdıklar{/i}o zaman ben kimim ki direneceğim?"
 
 # game/code/Book-1/Chapter-7s/s02.rpy:297
 translate turkish b1c07ss02_02d96d25:

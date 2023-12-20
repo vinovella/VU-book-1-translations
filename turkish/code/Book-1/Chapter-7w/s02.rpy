@@ -238,7 +238,7 @@ translate turkish b1c07ws02_0121fa8e:
 translate turkish b1c07ws02_919d5899:
 
     # mc "*Chuckles* Not that I ever say no to such a generous reward, but I'd prefer to see you on your knees in a place that's {i}not {/i} the floor of a public bathroom."
-    mc "*Kıkırdar* Bu kadar cömert bir ödüle asla hayır diyemem ama seni böyle bir yerde dizlerinin üzerinde görmeyi tercih ederim.{Bence}Olumsuz{/Bence}umumi bir banyonun zemini."
+    mc "*Kıkırdar* Bu kadar cömert bir ödüle asla hayır diyemem ama seni böyle bir yerde dizlerinin üzerinde görmeyi tercih ederim.{i}Olumsuz{/i}umumi bir banyonun zemini."
 
 # game/code/Book-1/Chapter-7w/s02.rpy:164
 translate turkish b1c07ws02_7a76b8fe:

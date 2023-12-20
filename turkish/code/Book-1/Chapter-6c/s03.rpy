@@ -28,7 +28,7 @@ translate turkish b1c06cs03_ceaef9d6:
 translate turkish b1c06cs03_8d742d42:
 
     # kd "On your desk, there's a lump of clay. We'll be transforming that into Greek inspired pots today."
-    kd "Masanızın üzerinde bir parça kil var." Bugün bunu Yunan esintili çömleklere dönüştüreceğiz."
+    kd "Masanızın üzerinde bir parça kil var. Bugün bunu Yunan esintili çömleklere dönüştüreceğiz."
 
 # game/code/Book-1/Chapter-6c/s03.rpy:37
 translate turkish b1c06cs03_d123f524:
@@ -58,7 +58,7 @@ translate turkish b1c06cs03_80419b66:
 translate turkish b1c06cs03_a6ab5e45:
 
     # mc "What? Do I not look like the artistic type?"
-    mc "Ne?" Sanatsal bir tipe benzemiyor muyum?"
+    mc "Ne? Sanatsal bir tipe benzemiyor muyum?"
 
 # game/code/Book-1/Chapter-6c/s03.rpy:49
 translate turkish b1c06cs03_3197c80e:
@@ -178,7 +178,7 @@ translate turkish b1c06cs03_a4339c2a:
 translate turkish b1c06cs03_6abf4005:
 
     # dk "Chop, chop. You form the pot itself, I'm going to work on the handles."
-    dk "Doğra, doğra." Sen çömleğin kendisini oluştur, ben de kulpları üzerinde çalışacağım."
+    dk "Doğra, doğra. Sen çömleğin kendisini oluştur, ben de kulpları üzerinde çalışacağım."
 
 # game/code/Book-1/Chapter-6c/s03.rpy:144
 translate turkish b1c06cs03_5807e6a8:
@@ -394,7 +394,7 @@ translate turkish b1c06cs03_c86cb7e8:
 translate turkish b1c06cs03_c188be08:
 
     # dk "I'm just saying. I understand the traditional way of coloring the pots is a bit much for our campus kiln, but still."
-    dk "Sadece söylüyorum." Saksıları renklendirmenin geleneksel yolunun kampüs fırınımız için biraz fazla olduğunu biliyorum ama yine de."
+    dk "Sadece söylüyorum. Saksıları renklendirmenin geleneksel yolunun kampüs fırınımız için biraz fazla olduğunu biliyorum ama yine de."
 
 # game/code/Book-1/Chapter-6c/s03.rpy:238
 translate turkish b1c06cs03_08a71a94:
@@ -574,13 +574,13 @@ translate turkish b1c06cs03_f7165618:
 translate turkish b1c06cs03_8bda9d26:
 
     # mc "It seems a little...self-destructive. For both the frog and the scorpion."
-    mc "Biraz... kendine zarar veriyor gibi görünüyor." Hem kurbağa hem de akrep için."
+    mc "Biraz... kendine zarar veriyor gibi görünüyor. Hem kurbağa hem de akrep için."
 
 # game/code/Book-1/Chapter-6c/s03.rpy:322
 translate turkish b1c06cs03_ca445483:
 
     # dk "Perhaps. But aren't we all self-destructive beings fumbling around, trying to love ourselves and each other?"
-    dk "Belki." Ama hepimiz el yordamıyla dolaşan, kendimizi ve birbirimizi sevmeye çalışan, kendine zarar veren varlıklar değil miyiz?"
+    dk "Belki. Ama hepimiz el yordamıyla dolaşan, kendimizi ve birbirimizi sevmeye çalışan, kendine zarar veren varlıklar değil miyiz?"
 
 # game/code/Book-1/Chapter-6c/s03.rpy:324
 translate turkish b1c06cs03_322a2160:
@@ -604,7 +604,7 @@ translate turkish b1c06cs03_2236935e:
 translate turkish b1c06cs03_a3dad740:
 
     # dk "Why not both? You can be an asshole and still be deserving of second chances."
-    dk "Neden ikisi de olmasın?" Bir pislik olabilirsin ve yine de ikinci şansı hak ediyor olabilirsin."
+    dk "Neden ikisi de olmasın? Bir pislik olabilirsin ve yine de ikinci şansı hak ediyor olabilirsin."
 
 # game/code/Book-1/Chapter-6c/s03.rpy:335
 translate turkish b1c06cs03_ca82a1db:
@@ -658,7 +658,7 @@ translate turkish b1c06cs03_01f97d6c:
 translate turkish b1c06cs03_83402ae6:
 
     # dk "But I understand. Everything in moderation, of course."
-    dk "Ama anlıyorum." Elbette her şey ölçülü olarak."
+    dk "Ama anlıyorum. Elbette her şey ölçülü olarak."
 
 # game/code/Book-1/Chapter-6c/s03.rpy:356
 translate turkish b1c06cs03_d35d7463:
@@ -772,7 +772,7 @@ translate turkish b1c06cs03_ebc1b758:
 translate turkish b1c06cs03_cf124e8e:
 
     # kd "I'll go around and collect your projects. For now, class is dismissed."
-    kd "Etrafta dolaşıp projelerinizi toplayacağım. Şimdilik ders tatil edildi.''
+    kd "Etrafta dolaşıp projelerinizi toplayacağım. Şimdilik ders tatil edildi."
 
 # game/code/Book-1/Chapter-6c/s03.rpy:407
 translate turkish b1c06cs03_974524ca:
@@ -862,7 +862,7 @@ translate turkish b1c06cs03_de8842e0:
 translate turkish b1c06cs03_86558011:
 
     # mc "Sure. I'll see ya later, Del."
-    mc "Elbette." Sonra görüşürüz Del."
+    mc "Elbette. Sonra görüşürüz Del."
 
 translate turkish strings:
 

@@ -268,7 +268,7 @@ translate turkish b1c07cs10_feeb1d97:
 translate turkish b1c07cs10_cbcc9d09:
 
     # edo "And although I'm not sure if such a community had anything to do with her disappearance, I know that Maria was involved with {i}rituals{/i} that took place within the group."
-    edo "Ve böyle bir topluluğun onun ortadan kaybolmasıyla bir ilgisi olup olmadığından emin olmasam da, Maria'nın bu olaya dahil olduğunu biliyorum.{Bence}ritüeller{/Bence}grup içinde gerçekleşti."
+    edo "Ve böyle bir topluluğun onun ortadan kaybolmasıyla bir ilgisi olup olmadığından emin olmasam da, Maria'nın bu olaya dahil olduğunu biliyorum.{i}ritüeller{/i}grup içinde gerçekleşti."
 
 # game/code/Book-1/Chapter-7c/s10.rpy:165
 translate turkish b1c07cs10_4b9cb0e4:

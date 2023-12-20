@@ -40,7 +40,7 @@ translate turkish b1c07ss05_6efb602d:
 translate turkish b1c07ss05_db65f5c9:
 
     # qh "Well, well, well, we didn't know Nirmala had such tasty looking {i}friends{/i}."
-    qh "Nirmala'nın bu kadar lezzetli göründüğünü bilmiyorduk{Bence}Arkadaşlar{/Bence}."
+    qh "Nirmala'nın bu kadar lezzetli göründüğünü bilmiyorduk{i}Arkadaşlar{/i}."
 
 # game/code/Book-1/Chapter-7s/s05.rpy:60
 translate turkish b1c07ss05_1af93950:
@@ -514,7 +514,7 @@ translate turkish b1c07ss05_c741bd9e:
 translate turkish b1c07ss05_b88bc29b:
 
     # cjh "Oh, if it isn't the emotional support whore."
-    cjh Ah, eğer duygusal destek fahişesi değilse."
+    cjh "Ah, eğer duygusal destek fahişesi değilse."
 
 # game/code/Book-1/Chapter-7s/s05.rpy:333
 translate turkish b1c07ss05_e3d4970f:

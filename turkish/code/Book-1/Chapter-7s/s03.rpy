@@ -142,7 +142,7 @@ translate turkish b1c07ss03_caeed35e:
 translate turkish b1c07ss03_9a1d81ee:
 
     # mg "Haha, it's not my place to snitch on my friends. Even if you {i}are{/i} very handsome."
-    mg "Haha, arkadaşlarımı ispiyonlamak bana düşmez. Sen bile{Bence}öyle{/Bence}çok yakışıklı."
+    mg "Haha, arkadaşlarımı ispiyonlamak bana düşmez. Sen bile{i}öyle{/i}çok yakışıklı."
 
 # game/code/Book-1/Chapter-7s/s03.rpy:92
 translate turkish b1c07ss03_2fd463bf:

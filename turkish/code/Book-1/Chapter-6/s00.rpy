@@ -76,7 +76,7 @@ translate turkish b1c06_no_transition_d59a2c78:
 translate turkish b1c06_no_transition_811d3515:
 
     # mct "This \"Self-Help Group\" is certainly looking to be more concerning by the day."
-    mct ""Bu \"Kendi Kendine Yardım Grubu\" gün geçtikçe kesinlikle daha endişe verici görünüyor."
+    mct "Bu \"Kendi Kendine Yardım Grubu\" gün geçtikçe kesinlikle daha endişe verici görünüyor."
 
 # game/code/Book-1/Chapter-6/s00.rpy:165
 translate turkish b1c06_no_transition_ceab2f6c:

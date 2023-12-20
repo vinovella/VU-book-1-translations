@@ -94,7 +94,7 @@ translate turkish b1c04ns07_f5552f90:
 translate turkish b1c04ns07_ca75b523:
 
     # mc "Whoa. You weren't kidding about nudity."
-    mc "Vay be." Çıplaklık konusunda şaka yapmıyordun."
+    mc "Vay be. Çıplaklık konusunda şaka yapmıyordun."
 
 # game/code/Book-1/Chapter-4n/s07.rpy:70
 translate turkish b1c04ns07_b2f10a37:
@@ -484,7 +484,7 @@ translate turkish b1c04ns07_1582d1cc:
 translate turkish b1c04ns07_3d32b8c0:
 
     # nv "What? Can't handle a little lust?"
-    nv "Ne?" Biraz şehveti kaldıramıyor musun?"
+    nv "Ne? Biraz şehveti kaldıramıyor musun?"
 
 # game/code/Book-1/Chapter-4n/s07.rpy:250
 translate turkish b1c04ns07_b9c73645:

@@ -262,7 +262,7 @@ translate turkish b1c07cs05_f2ca3229:
 translate turkish b1c07cs05_804f9ffe:
 
     # dk "Our goal here is to have you lower your defenses. We're taught in youth that we're {i}separate{/i} from others. But that's simply not true. Connection is one of the purest forms of divinity."
-    dk "Buradaki amacımız savunmanızı düşürmenizdir. Gençliğimizde bize öyle olduğumuz öğretildi{Bence}ayırmak{/Bence}diğerlerinden. Ancak bu kesinlikle doğru değil. Bağlantı, tanrısallığın en saf biçimlerinden biridir."
+    dk "Buradaki amacımız savunmanızı düşürmenizdir. Gençliğimizde bize öyle olduğumuz öğretildi{i}ayırmak{/i}diğerlerinden. Ancak bu kesinlikle doğru değil. Bağlantı, tanrısallığın en saf biçimlerinden biridir."
 
 # game/code/Book-1/Chapter-7c/s05.rpy:188
 translate turkish b1c07cs05_77c8bbd6:
@@ -370,7 +370,7 @@ translate turkish b1c07cs05_4bdc5aa0:
 translate turkish b1c07cs05_0bb9ffac:
 
     # dk "What's wrong? Do you feel an {i}ache{/i} for all the attractive women you're surrounded by?"
-    dk "Sorun ne?" Çevrenizdeki tüm çekici kadınlara karşı {i}ağrı{/i} mı hissediyorsunuz?"
+    dk "Sorun ne? Çevrenizdeki tüm çekici kadınlara karşı {i}ağrı{/i} mı hissediyorsunuz?"
 
 # game/code/Book-1/Chapter-7c/s05.rpy:262
 translate turkish b1c07cs05_65325ac6:

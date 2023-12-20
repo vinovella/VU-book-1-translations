@@ -286,7 +286,7 @@ translate turkish b1c07ws08_cef8252c:
 translate turkish b1c07ws08_ae1eac84:
 
     # mc "Fair enough. But don't think I don't see you rubbing your legs together. {i}If you really need some release so bad, just say the word.{/i}"
-    mc "Haklısın. Ama bacaklarını birbirine sürttüğünü görmediğimi sanma.{Bence}Eğer gerçekten bir kurtuluşa bu kadar ihtiyacınız varsa, söylemeniz yeterli.{/Bence}"
+    mc "Haklısın. Ama bacaklarını birbirine sürttüğünü görmediğimi sanma.{i}Eğer gerçekten bir kurtuluşa bu kadar ihtiyacınız varsa, söylemeniz yeterli.{/i}"
 
 # game/code/Book-1/Chapter-7w/s08.rpy:204
 translate turkish b1c07ws08_e7ff7acb:

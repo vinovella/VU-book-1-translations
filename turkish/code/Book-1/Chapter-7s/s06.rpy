@@ -796,7 +796,7 @@ translate turkish b1c07ss06_cjh_81f146ca:
 translate turkish b1c07ss06_cjh_1b28ce6a:
 
     # cjh "Rory Grayson! Get your ass out here!"
-    cjh Rory Grayson! Kaldır kıçını!"
+    cjh "Rory Grayson! Kaldır kıçını!"
 
 # game/code/Book-1/Chapter-7s/s06.rpy:383
 translate turkish b1c07ss06_cjh_dbee40ee:

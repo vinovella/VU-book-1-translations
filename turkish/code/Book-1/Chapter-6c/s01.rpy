@@ -112,7 +112,7 @@ translate turkish b1c06cs01_0b7853d2:
 translate turkish b1c06cs01_1548740e:
 
     # nv "No! No, it's not difficult at all. Well, maybe a little."
-    nv "Hayır!" Hayır, hiç de zor değil. Eh, belki biraz."
+    nv "Hayır! Hayır, hiç de zor değil. Eh, belki biraz."
 
 # game/code/Book-1/Chapter-6c/s01.rpy:62
 translate turkish b1c06cs01_474f420f:
@@ -124,7 +124,7 @@ translate turkish b1c06cs01_474f420f:
 translate turkish b1c06cs01_f40b0a89:
 
     # nv "Besides, I {i}know{/i} you'll need help with the curriculum."
-    nv "Ayrıca ben{Bence}Bilmek{/Bence}Müfredat konusunda yardıma ihtiyacınız olacak."
+    nv "Ayrıca ben{i}Bilmek{/i}Müfredat konusunda yardıma ihtiyacınız olacak."
 
 # game/code/Book-1/Chapter-6c/s01.rpy:66
 translate turkish b1c06cs01_abab13b4:
@@ -148,7 +148,7 @@ translate turkish b1c06cs01_11c907fc:
 translate turkish b1c06cs01_3a162890:
 
     # nv "Everyone's different, right? But we all have our wounds. You can't exist and not get hurt."
-    nv "Herkes farklıdır, değil mi?" Ama hepimizin yaraları var. Var olup da incinmemek mümkün değildir."
+    nv "Herkes farklıdır, değil mi? Ama hepimizin yaraları var. Var olup da incinmemek mümkün değildir."
 
 # game/code/Book-1/Chapter-6c/s01.rpy:78
 translate turkish b1c06cs01_07f0cbf2:
@@ -184,7 +184,7 @@ translate turkish b1c06cs01_199cc8be:
 translate turkish b1c06cs01_7023a1bf:
 
     # nv "I'm not sure. I've never met someone who didn't need healing."
-    nv "Emin değilim." Şifaya ihtiyacı olmayan biriyle hiç tanışmadım."
+    nv "Emin değilim. Şifaya ihtiyacı olmayan biriyle hiç tanışmadım."
 
 # game/code/Book-1/Chapter-6c/s01.rpy:97
 translate turkish b1c06cs01_e7c49df0:
@@ -196,7 +196,7 @@ translate turkish b1c06cs01_e7c49df0:
 translate turkish b1c06cs01_d263e864:
 
     # nv "Why are you asking these questions? Are you skeptical of the group, or of yourself?"
-    nv "Bu soruları neden soruyorsunuz?" Gruptan mı yoksa kendinizden mi şüpheleniyorsunuz?"
+    nv "Bu soruları neden soruyorsunuz? Gruptan mı yoksa kendinizden mi şüpheleniyorsunuz?"
 
 # game/code/Book-1/Chapter-6c/s01.rpy:101
 translate turkish b1c06cs01_210bb508:
@@ -220,7 +220,7 @@ translate turkish b1c06cs01_5c337704:
 translate turkish b1c06cs01_adfdfa96:
 
     # nv "You're a seeker. There's a drive in you to find the truth. We value that here.{w} I'm sure our Guide will nurture that in you."
-    nv "Sen bir arayış içindesin." İçinizde gerçeği bulma dürtüsü var. Biz burada buna değer veriyoruz.{w} Eminim Rehberimiz bunu sizde geliştirecektir."
+    nv "Sen bir arayış içindesin. İçinizde gerçeği bulma dürtüsü var. Biz burada buna değer veriyoruz.{w} Eminim Rehberimiz bunu sizde geliştirecektir."
 
 # game/code/Book-1/Chapter-6c/s01.rpy:111
 translate turkish b1c06cs01_28af21eb:
@@ -232,7 +232,7 @@ translate turkish b1c06cs01_28af21eb:
 translate turkish b1c06cs01_ab09efa5:
 
     # mc "Well, that's comforting. Cause I have a lot of questions."
-    mc "Eh, bu çok rahatlatıcı." Çünkü bir sürü sorum var."
+    mc "Eh, bu çok rahatlatıcı. Çünkü bir sürü sorum var."
 
 # game/code/Book-1/Chapter-6c/s01.rpy:115
 translate turkish b1c06cs01_f393607c:
@@ -304,13 +304,13 @@ translate turkish b1c06cs01_4e7d5f29:
 translate turkish b1c06cs01_9576454f:
 
     # mc "No kidding. I already feel overwhelmed."
-    mc "Şaka yapmıyorum." Zaten bunalmış hissediyorum."
+    mc "Şaka yapmıyorum. Zaten bunalmış hissediyorum."
 
 # game/code/Book-1/Chapter-6c/s01.rpy:142
 translate turkish b1c06cs01_cc09dc46:
 
     # mc "But I'll keep an open mind. I owe you that."
-    mc "Ama açık fikirli olacağım." Bunu sana borçluyum."
+    mc "Ama açık fikirli olacağım. Bunu sana borçluyum."
 
 # game/code/Book-1/Chapter-6c/s01.rpy:145
 translate turkish b1c06cs01_2514a211:
@@ -328,13 +328,13 @@ translate turkish b1c06cs01_c606d02e:
 translate turkish b1c06cs01_a55c92ce:
 
     # ij "Hey. It's been a while. I hope you're adjusting to campus well."
-    ij "Merhaba." Uzun zaman oldu. Umarım kampüse iyi uyum sağlıyorsunuzdur."
+    ij "Merhaba. Uzun zaman oldu. Umarım kampüse iyi uyum sağlıyorsunuzdur."
 
 # game/code/Book-1/Chapter-6c/s01.rpy:157
 translate turkish b1c06cs01_8f922723:
 
     # nv "Irene! How are you?"
-    nv "Irene!" Nasılsın?"
+    nv "Irene! Nasılsın?"
 
 # game/code/Book-1/Chapter-6c/s01.rpy:160
 translate turkish b1c06cs01_0a53cc50:
@@ -346,7 +346,7 @@ translate turkish b1c06cs01_0a53cc50:
 translate turkish b1c06cs01_1b02778e:
 
     # ad "You."
-    ad "Siz"
+    ad "Siz."
 
 # game/code/Book-1/Chapter-6c/s01.rpy:168
 translate turkish b1c06cs01_9e6f11df:
@@ -382,7 +382,7 @@ translate turkish b1c06cs01_17d9efc8:
 translate turkish b1c06cs01_4e4ea5b0:
 
     # ij "Nia, come with me. I'll go over the workbook with you while Andre decides...what Guide to assign you."
-    ij "Nia, benimle gel." Andre sana hangi Rehberi atayacağına karar verirken ben de seninle çalışma kitabının üzerinden geçeceğim."
+    ij "Nia, benimle gel. Andre sana hangi Rehberi atayacağına karar verirken ben de seninle çalışma kitabının üzerinden geçeceğim."
 
 # game/code/Book-1/Chapter-6c/s01.rpy:183
 translate turkish b1c06cs01_857af703:
@@ -532,7 +532,7 @@ translate turkish b1c06cs01_822aa5c3:
 translate turkish b1c06cs01_5a76cac6:
 
     # ad "Sometimes the truth is painful, and the seeker isn't ready to face it. This results in them running from their truths, rather than seeking it."
-    ad "Bazen gerçek acı verir ve arayan kişi onunla yüzleşmeye hazır değildir." Bu da onların gerçekleri aramak yerine onlardan kaçmalarına neden oluyor."
+    ad "Bazen gerçek acı verir ve arayan kişi onunla yüzleşmeye hazır değildir. Bu da onların gerçekleri aramak yerine onlardan kaçmalarına neden oluyor."
 
 # game/code/Book-1/Chapter-6c/s01.rpy:300
 translate turkish b1c06cs01_c710bd85:
@@ -550,7 +550,7 @@ translate turkish b1c06cs01_4a98742d:
 translate turkish b1c06cs01_93231a3c:
 
     # ad "Take your time. Really think about it."
-    ad "Acele etmeyin." Gerçekten bunu bir düşün."
+    ad "Acele etmeyin. Gerçekten bunu bir düşün."
 
 # game/code/Book-1/Chapter-6c/s01.rpy:311
 translate turkish b1c06cs01_fff308be:
@@ -724,7 +724,7 @@ translate turkish b1c06cs01_1f7466d3:
 translate turkish b1c06cs01_127676ce:
 
     # ad "Delphia! We have the perfect candidates for you."
-    ad "Delphia!" Sizin için mükemmel adaylarımız var."
+    ad "Delphia! Sizin için mükemmel adaylarımız var."
 
 # game/code/Book-1/Chapter-6c/s01.rpy:394
 translate turkish b1c06cs01_3b16cd11:
@@ -748,7 +748,7 @@ translate turkish b1c06cs01_3f0bff09:
 translate turkish b1c06cs01_03e03217:
 
     # dk "Of course, pet. I may have put in a preference for who I guided next."
-    dk Elbette canım. Bundan sonra kimi yönlendireceğimi tercih etmiş olabilirim."
+    dk "Elbette canım. Bundan sonra kimi yönlendireceğimi tercih etmiş olabilirim."
 
 # game/code/Book-1/Chapter-6c/s01.rpy:409
 translate turkish b1c06cs01_b837803d:
@@ -886,7 +886,7 @@ translate turkish b1c06cs01_f5cff69f:
 translate turkish b1c06cs01_df29cf6b:
 
     # dk "Oh, trust me. This is the easiest thing you'll be doing, darling."
-    dk "Ah, güven bana." Bu yapacağın en kolay şey sevgilim."
+    dk "Ah, güven bana. Bu yapacağın en kolay şey sevgilim."
 
 # game/code/Book-1/Chapter-6c/s01.rpy:471
 translate turkish b1c06cs01_c164cbbd:
@@ -916,5 +916,4 @@ translate turkish strings:
 
     # game/code/Book-1/Chapter-6c/s01.rpy:4
     old "The next morning\nAt the library"
-    new "Ertesi sabah\ Kütüphanede"
-
+    new "Ertesi sabah\nKütüphanede"

@@ -676,7 +676,7 @@ translate turkish b1c07ss07_fight_2_fc39c3fd:
 translate turkish b1c07ss07_fight_2_d4e5a996:
 
     # ffl "Sorry, what I {i}meant{/i} to say was that he's the best ride ever."
-    ffl Üzgünüm, ne yaptım{i}anlamına gelen{i}onun şimdiye kadarki en iyi yolculuk olduğunu söylemek."
+    ffl "Üzgünüm, ne yaptım{i}anlamına gelen{i}onun şimdiye kadarki en iyi yolculuk olduğunu söylemek."
 
 # game/code/Book-1/Chapter-7s/s07.rpy:499
 translate turkish b1c07ss07_fight_2_db45bf1f:

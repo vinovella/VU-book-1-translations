@@ -4,13 +4,13 @@
 translate turkish b1c04ns05_42c91c6b:
 
     # dk "Hey. Glad you came."
-    dk "Merhaba. Gelmene sevindim.
+    dk "Merhaba. Gelmene sevindim."
 
 # game/code/Book-1/Chapter-4n/s05.rpy:24
 translate turkish b1c04ns05_d933eda8:
 
     # dk "Follow me. You can drop the blood off at my dressing room."
-    dk "Beni takip et." Kanı soyunma odama bırakabilirsin."
+    dk "Beni takip et. Kanı soyunma odama bırakabilirsin."
 
 # game/code/Book-1/Chapter-4n/s05.rpy:27
 translate turkish b1c04ns05_6eb70d73:
@@ -28,7 +28,7 @@ translate turkish b1c04ns05_bdf8cf21:
 translate turkish b1c04ns05_39a956a5:
 
     # dk "Would you help me apply the blood? My performance is in thirty minutes, and I could use the help."
-    dk "Kanı uygulamama yardım eder misin?" Performansım otuz dakika içinde ve yardıma ihtiyacım var."
+    dk "Kanı uygulamama yardım eder misin? Performansım otuz dakika içinde ve yardıma ihtiyacım var."
 
 # game/code/Book-1/Chapter-4n/s05.rpy:35
 translate turkish b1c04ns05_ebab1755:
@@ -100,7 +100,7 @@ translate turkish b1c04ns05_1e9a3b5a:
 translate turkish b1c04ns05_14d55860:
 
     # mc "It was alright. Nia seemed happy to see me, at least."
-    mc "Her şey yolundaydı." En azından Nia beni gördüğüne mutlu görünüyordu."
+    mc "Her şey yolundaydı. En azından Nia beni gördüğüne mutlu görünüyordu."
 
 # game/code/Book-1/Chapter-4n/s05.rpy:66
 translate turkish b1c04ns05_767d4770:
@@ -286,7 +286,7 @@ translate turkish b1c04ns05_0b907462:
 translate turkish b1c04ns05_69f58117:
 
     # mc "Can you elaborate on Maria's role? Why did Xasan hate the idea of Nia being around Maria?"
-    mc "Maria'nın rolünü detaylandırabilir misiniz?" Xasan, Nia'nın Maria'nın yanında olması fikrinden neden nefret ediyordu?"
+    mc "Maria'nın rolünü detaylandırabilir misiniz? Xasan, Nia'nın Maria'nın yanında olması fikrinden neden nefret ediyordu?"
 
 # game/code/Book-1/Chapter-4n/s05.rpy:149
 translate turkish b1c04ns05_7a4b6289:

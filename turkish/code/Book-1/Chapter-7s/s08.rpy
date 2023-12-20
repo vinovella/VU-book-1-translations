@@ -298,7 +298,7 @@ translate turkish b1c07ss08_sex_11455b53:
 translate turkish b1c07ss08_sex_f5209a8b:
 
     # nr "I told you I'd make you say my name. {b}Say. It.{/b}"
-    nr "Sana adımı söyleteceğimi söylemiştim.{B}Söyle{/B}"
+    nr "Sana adımı söyleteceğimi söylemiştim.{b}Söyle{/b}"
 
 # game/code/Book-1/Chapter-7s/s08.rpy:272
 translate turkish b1c07ss08_sex_72a7526d:
@@ -436,7 +436,7 @@ translate turkish b1c07ss08_sex_723555c9:
 translate turkish b1c07ss08_sex_1af63a78:
 
     # mc "Okay, okay. I promise I will. Sorry it's taken so long."
-    mc Tamam tamam. Söz veriyorum yapacağım. Üzgünüm, bu kadar uzun sürdü."
+    mc "Tamam tamam. Söz veriyorum yapacağım. Üzgünüm, bu kadar uzun sürdü."
 
 # game/code/Book-1/Chapter-7s/s08.rpy:359
 translate turkish b1c07ss08_sex_028fb71d:

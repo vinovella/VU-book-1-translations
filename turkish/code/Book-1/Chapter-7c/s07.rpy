@@ -202,7 +202,7 @@ translate turkish b1c07cs07_after_lunch_cce63e5a:
 translate turkish b1c07cs07_after_lunch_a8d5ec73:
 
     # nv "I know that's selfish—it's not about me. And I feel {i}disgusted{/i} with myself for even thinking such awful things. {i}Maria's{/i} the victim, not me."
-    nv "Bunun bencilce olduğunu biliyorum; bu benimle ilgili değil. Ve ben hissediyorum{Bence}iğrenmiş{/Bence}Böyle berbat şeyler düşündüğüm için bile kendime kızıyorum.{Bence}Maria'nın{/Bence}kurban ben değilim."
+    nv "Bunun bencilce olduğunu biliyorum; bu benimle ilgili değil. Ve ben hissediyorum{i}iğrenmiş{/i}Böyle berbat şeyler düşündüğüm için bile kendime kızıyorum.{i}Maria'nın{/i}kurban ben değilim."
 
 # game/code/Book-1/Chapter-7c/s07.rpy:115
 translate turkish b1c07cs07_after_lunch_e17f7f86:
