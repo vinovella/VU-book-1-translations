@@ -70,7 +70,7 @@ translate turkish b1c07ws10_return_4eceb409:
 translate turkish b1c07ws10_return_ed505f56:
 
     # mct "She seems to have a lot of power for a student, and seems to be connected to the club deeper than through {i}just{/i} the volleyball team."
-    mct "Bir öğrenciye göre oldukça fazla güce sahip gibi görünüyor ve kulübe olan bağlılığından çok daha derin bir bağı var gibi görünüyor.{Bence}Sadece{/Bence}voleybol takımı."
+    mct "Bir öğrenciye göre oldukça fazla güce sahip gibi görünüyor ve kulübe olan bağlılığından çok daha derin bir bağı var gibi görünüyor.{i}Sadece{/i}voleybol takımı."
 
 # game/code/Book-1/Chapter-7w/s10.rpy:105
 translate turkish b1c07ws10_return_4475e55b:
