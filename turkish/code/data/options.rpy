@@ -12,5 +12,5 @@ translate turkish strings:
 
     # game/code/data/options.rpy:15
     old "Taboo University"
-    new "Taboo University"
+    new "Taboo Üniversitesi"
 
