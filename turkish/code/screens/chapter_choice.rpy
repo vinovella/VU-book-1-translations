@@ -16,9 +16,9 @@ translate turkish strings:
 
     # game/code/screens/chapter_choice.rpy:23
     old "Investigate "
-    new "Investigate "
+    new "Araştırma "
 
     # game/code/screens/chapter_choice.rpy:29
     old "You have already investigated "
-    new "You have already investigated "
+    new "Zaten araştırmıştın "
 
