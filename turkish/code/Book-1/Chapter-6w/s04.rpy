@@ -850,7 +850,7 @@ translate turkish b1c06ws04_continue_4df24a12:
 translate turkish b1c06ws04_continue_1a41b7a9:
 
     # sdl "I know {i}everyone{/i} in that Club."
-    sdl ""O Kulüpteki {i}herkesi{/i} tanıyorum."
+    sdl "O Kulüpteki {i}herkesi{/i} tanıyorum."
 
 # game/code/Book-1/Chapter-6w/s04.rpy:446
 translate turkish b1c06ws04_continue_933b8083:

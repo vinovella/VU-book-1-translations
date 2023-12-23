@@ -214,7 +214,7 @@ translate turkish b1c05s02_4b9cd37a:
 translate turkish b1c05s02_89ae3b97:
 
     # mc " Zemfira took over Leia's responsibilities within this group after Leia went missing. But again, I'm unsure {i}what{/i} exactly the group is..."
-    mc " Leia'nın kaybolmasının ardından Zemfira, Leia'nın bu gruptaki sorumluluklarını devraldı. Ama yine emin değilim{Bence}Ne{/Bence}tam olarak grup..."
+    mc " Leia'nın kaybolmasının ardından Zemfira, Leia'nın bu gruptaki sorumluluklarını devraldı. Ama yine emin değilim{i}Ne{/i}tam olarak grup..."
 
 # game/code/Book-1/Chapter-5/s02.rpy:139
 translate turkish b1c05s02_c4f15973:
@@ -448,7 +448,7 @@ translate turkish b1c05s02_898e4b8e:
 translate turkish b1c05s02_5c9b3666:
 
     # pm "Seriously? You don't think that three girls who went missing the same night {i}aren't{/i} connected?"
-    pm "Cidden? Aynı gece kaybolan üç kızın{Bence}değil{/Bence}bağlı mı?"
+    pm "Cidden? Aynı gece kaybolan üç kızın{i}değil{/i}bağlı mı?"
 
 # game/code/Book-1/Chapter-5/s02.rpy:252
 translate turkish b1c05s02_cd77588b:
