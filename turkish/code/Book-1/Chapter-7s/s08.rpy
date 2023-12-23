@@ -214,13 +214,13 @@ translate turkish b1c07ss08_sex_cd30093b:
 translate turkish b1c07ss08_sex_36db4391:
 
     # "You buck your hips into Nirmala's mouth. It takes all your self control not to cum down her throat."
-    "You buck your hips into Nirmala's mouth. It takes all your self control not to cum down her throat."
+    "Kalçanı Nirmala'nın ağzına sokuyorsun. Onun boğazına boşalmamak için tüm öz kontrolünüzü gerektirir."
 
 # game/code/Book-1/Chapter-7s/s08.rpy:193
 translate turkish b1c07ss08_sex_fb079aae:
 
     # nr "Now that you're nice and lubed up for me, it's time for the fun part."
-    nr "Kalçanı Nirmala'nın ağzına sokuyorsun. Onun boğazına boşalmamak için tüm öz kontrolünüzü gerektirir."
+    nr "Artık benim için hoş ve yağlanmış olduğuna göre, işin eğlenceli kısmı geldi."
 
 # game/code/Book-1/Chapter-7s/s08.rpy:197
 translate turkish b1c07ss08_sex_4044a41b:
