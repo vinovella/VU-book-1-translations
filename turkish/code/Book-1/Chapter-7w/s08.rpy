@@ -618,4 +618,4 @@ translate turkish strings:
 
     # game/code/Book-1/Chapter-7w/s08.rpy:187
     old "I think you've had too much to drink"
-    new "I think you've had too much to drink"
+    new "Sanırım çok fazla içki içtin"
