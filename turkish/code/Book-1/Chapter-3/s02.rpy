@@ -130,7 +130,7 @@ translate turkish b01c03s02m01_2ee5706f:
 translate turkish b01c03s02m01_033a7848:
 
     # mc "Yeah, you're a..."
-    mc "Yeah, you're a..."
+    mc "Evet sen..."
 
 # game/code/Book-1/Chapter-3/s02.rpy:101
 translate turkish b01c03s02m01_f4bba1b5:
