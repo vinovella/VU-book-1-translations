@@ -334,7 +334,7 @@ translate turkish b1c07ss12_past_3a9d4a11:
 translate turkish b1c07ss12_past_8e5d1409:
 
     # mg "{i}I'm NOT letting you hurt Rory because of some stupid debt.{/i}"
-    mg "{i}I'm NOT letting you hurt Rory because of some stupid debt.{/i}"
+    mg "{i}Aptalca bir borç yüzünden Rory'yi incitmene izin vermiyorum.{/i}"
 
 # game/code/Book-1/Chapter-7s/s12.rpy:241
 translate turkish b1c07ss12_past_230e81f1:
