@@ -292,7 +292,7 @@ translate turkish b1c04zs04_f19b9b8d:
 translate turkish b1c04zs04_c5e87fb4:
 
     # pm "If you're wearing body armor, the Isosceles Stance allows you to face an opponent head on. But if you twist your body in the Weaver Stance {i}while{/i} wearing body armor, you're exposing the unprotected bits of your body."
-    pm "Vücut zırhı giyiyorsanız, İkizkenar Duruşu rakiple doğrudan yüzleşmenize olanak tanır. Ancak vücut zırhı giyerken vücudunuzu Dokumacı Duruşunda döndürürseniz{/i} korumasız durumu açığa çıkarırsınız Vücudunun bir kısmı."
+    pm "Vücut zırhı giyiyorsanız, İkizkenar Duruşu rakiple doğrudan yüzleşmenize olanak tanır. Ancak vücut zırhı giyerken vücudunuzu Dokumacı Duruşunda {i}döndürürseniz{/i} korumasız durumu açığa çıkarırsınız Vücudunun bir kısmı."
 
 # game/code/Book-1/Chapter-4z/s04.rpy:145
 translate turkish b1c04zs04_5c486ecc:
@@ -497,4 +497,3 @@ translate turkish strings:
     # game/code/Book-1/Chapter-4z/s04.rpy:4
     old "One hour later"
     new "Bir saat sonra"
-

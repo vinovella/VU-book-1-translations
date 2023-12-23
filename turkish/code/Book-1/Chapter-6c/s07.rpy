@@ -850,7 +850,7 @@ translate turkish b1c06cs07_continue_4ed57d23:
 translate turkish b1c06cs07_continue_40f4faef:
 
     # "Your own pleasure surges into an elated frenzy, a transcendent pleasure that makes your entire body sing with hymns in Sally's glory."
-    Kendi zevkiniz coşkulu bir çılgınlığa dönüşüyor, tüm vücudunuzun Sally'nin şerefine ilahilerle şarkı söylemesini sağlayan aşkın bir zevk."
+    "Kendi zevkiniz coşkulu bir çılgınlığa dönüşüyor, tüm vücudunuzun Sally'nin şerefine ilahilerle şarkı söylemesini sağlayan aşkın bir zevk."
 
 # game/code/Book-1/Chapter-6c/s07.rpy:540
 translate turkish b1c06cs07_continue_47ed02bf:

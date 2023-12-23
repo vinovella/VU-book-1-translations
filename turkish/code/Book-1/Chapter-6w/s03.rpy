@@ -118,7 +118,7 @@ translate turkish b1c06ws03_fc3d85f3:
 translate turkish b1c06ws03_4761a99c:
 
     # ba "Don't you dare, don't you fucking {i}{b}dare{/b}{/i} speak to me about camaraderie. You don't know jackshit about teamwork or what it takes to be {i}{b}here.{/b}{/i}"
-    ba "Cesaret etme, benimle arkadaşlık hakkında konuşmaya {i}{b}cesaret etme{/b}{/i}. Takım çalışması ya da nasıl olmak gerektiği hakkında hiçbir bok bilmiyorsun {i }{b}burada.{/b}{/i}"
+    ba "Cesaret etme, benimle arkadaşlık hakkında konuşmaya {i}{b}cesaret etme{/b}{/i}. Takım çalışması ya da nasıl olmak gerektiği hakkında hiçbir bok bilmiyorsun {i}{b}burada.{/b}{/i}"
 
 # game/code/Book-1/Chapter-6w/s03.rpy:86
 translate turkish b1c06ws03_a7f97183:
@@ -514,7 +514,7 @@ translate turkish b1c06ws03_aedfc135:
 translate turkish b1c06ws03_fa33c1e7:
 
     # "Not to mention Simon came in running like he was going to hit the set instead of defending."
-    "Simon'un savunmak yerine sete vuracakmış gibi koşarak geldiğinden bahsetmiyorum bile.""
+    "Simon'un savunmak yerine sete vuracakmış gibi koşarak geldiğinden bahsetmiyorum bile."
 
 # game/code/Book-1/Chapter-6w/s03.rpy:353
 translate turkish b1c06ws03_9fbb6f18:
@@ -629,4 +629,3 @@ translate turkish b1c06ws03_b99ec9dd:
 
     # mc "Still had to get help from your team."
     mc "Yine de ekibinizden yardım almam gerekiyordu."
-

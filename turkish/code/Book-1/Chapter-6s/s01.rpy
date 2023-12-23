@@ -28,7 +28,7 @@ translate turkish b1c06ss01_b1c62650:
 translate turkish b1c06ss01_8aee0ec7:
 
     # ffl "Almost everyone that sees my place is like \"Why bother? You'll have to eventually leave and take everything down.\" and I'm like..."
-    ffl "Evimi gören neredeyse herkes şöyle diyor:"Neden zahmet edeyim ki? Eninde sonunda buradan ayrılıp her şeyi yıkmak zorunda kalacaksın.\" ve ben şöyle düşünüyorum..."
+    ffl "Evimi gören neredeyse herkes şöyle diyor\"Neden zahmet edeyim ki? Eninde sonunda buradan ayrılıp her şeyi yıkmak zorunda kalacaksın.\" ve ben şöyle düşünüyorum..."
 
 # game/code/Book-1/Chapter-6s/s01.rpy:32
 translate turkish b1c06ss01_6a62af1a:
@@ -232,7 +232,7 @@ translate turkish b1c06ss01_def0ad19:
 translate turkish b1c06ss01_ec382380:
 
     # ffl "It's called a \"Hamsa Hand.\" \"Khamsah\" means five in Arabic, so it basically means \"five fingered hand.\""
-    ffl "Buna \"Hamsa Eli\" denir. \"Khamsah\" Arapça'da beş anlamına gelir, dolayısıyla temel olarak \"beş parmaklı el\" anlamına gelir.""
+    ffl "Buna \"Hamsa Eli\" denir. \"Khamsah\" Arapça'da beş anlamına gelir, dolayısıyla temel olarak \"beş parmaklı el\" anlamına gelir."
 
 # game/code/Book-1/Chapter-6s/s01.rpy:123
 translate turkish b1c06ss01_a37ed06b:
