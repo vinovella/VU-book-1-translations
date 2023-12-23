@@ -706,13 +706,13 @@ translate turkish b1c01ss09_fight_e03c5121:
 translate turkish b1c01ss09_fight_end_460b4dbd:
 
     # "Crowd" "BOOOO!!"
-    "Crowd" "BOOOO!!"
+    "Kalabalık" "BOOOO!!"
 
 # game/code/Book-1/Chapter-7s/s09.rpy:494
 translate turkish b1c01ss09_fight_end_9f75775a:
 
     # ass "GREAT JOB FUCKASS, YOU RUINED IT FOR EVERYONE!"
-    ass "HARİKA İŞ SAKIN, HERKES İÇİN BUNU MAHVETTİN!"
+    ass "HARİKA İŞ BOK ÇUVALI, HERKES İÇİN BUNU MAHVETTİN!"
 
 # game/code/Book-1/Chapter-7s/s09.rpy:500
 translate turkish b1c01ss09_fight_end_9ca5ff0a:
