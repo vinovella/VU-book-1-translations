@@ -448,201 +448,201 @@ translate turkish b1c04ns04_a0b82d21:
 translate turkish b1c04ns04_76ab8cb5:
 
     # nv "Of course. I got you through Chem class, I can get you through a seminar hosted by Andrejz."
-    nv "Of course. I got you through Chem class, I can get you through a seminar hosted by Andrejz."
+    nv "Elbette. Seni Kimya dersinden kurtardım, Andrejz'in ev sahipliği yapacağı bir seminerden de kurtarabilirim."
 
 # game/code/Book-1/Chapter-4n/s04.rpy:221
 translate turkish b1c04ns04_59070de6:
 
     # nv "Now hush and listen."
-    nv "Now hush and listen."
+    nv "Şimdi sus ve dinle."
 
 # game/code/Book-1/Chapter-4n/s04.rpy:234
 translate turkish b1c04ns04_a93df4c3:
 
     # ad "And with those words of enlightenment, I beseech you to seek the truth for yourselves."
-    ad "And with those words of enlightenment, I beseech you to seek the truth for yourselves."
+    ad "Ve bu aydınlanma sözleriyle, gerçeği kendiniz için aramanız için size yalvarıyorum."
 
 # game/code/Book-1/Chapter-4n/s04.rpy:237
 translate turkish b1c04ns04_fd35c969:
 
     # ad "For it is all within us. Namaste."
-    ad "For it is all within us. Namaste."
+    ad "Çünkü bunların hepsi içimizde. Namaste."
 
 # game/code/Book-1/Chapter-4n/s04.rpy:243
 translate turkish b1c04ns04_2d8e2892:
 
     # nv "Well, we should get going."
-    nv "Well, we should get going."
+    nv "Pekâlâ, yola çıkmalıyız."
 
 # game/code/Book-1/Chapter-4n/s04.rpy:245
 translate turkish b1c04ns04_517a3400:
 
     # mc "That was almost insufferably long."
-    mc "That was almost insufferably long."
+    mc "Bu neredeyse dayanılmaz derecede uzundu."
 
 # game/code/Book-1/Chapter-4n/s04.rpy:248
 translate turkish b1c04ns04_910a494e:
 
     # nv "C'mon. It wasn't so bad. You learned the meaning of happiness, right?"
-    nv "C'mon. It wasn't so bad. You learned the meaning of happiness, right?"
+    nv "Hadi. O kadar da kötü değildi. Mutluluğun anlamını öğrendin değil mi?"
 
 # game/code/Book-1/Chapter-4n/s04.rpy:250
 translate turkish b1c04ns04_62eaa21e:
 
     # mc "I learned how to blow sunshine up my own ass."
-    mc "I learned how to blow sunshine up my own ass."
+    mc "Güneş ışığını kendi kıçıma nasıl üfleyeceğimi öğrendim."
 
 # game/code/Book-1/Chapter-4n/s04.rpy:253
 translate turkish b1c04ns04_60ea4e09:
 
     # nv "Well at least you learned {i}something{/i}."
-    nv "Well at least you learned {i}something{/i}."
+    nv "Eh, en azından {i}bir şey{/i} öğrendin."
 
 # game/code/Book-1/Chapter-4n/s04.rpy:256
 translate turkish b1c04ns04_7fe2f8bd:
 
     # mc "Take me to the sign-up sheets, before I change my mind."
-    mc "Take me to the sign-up sheets, before I change my mind."
+    mc "Fikrimi değiştirmeden önce beni kayıt sayfalarına götür."
 
 # game/code/Book-1/Chapter-4n/s04.rpy:259
 translate turkish b1c04ns04_9c49e8ed:
 
     # nv "Ah-ah. No takesies backsies."
-    nv "Ah-ah. No takesies backsies."
+    nv "Ah ah. Arkadan destek yok."
 
 # game/code/Book-1/Chapter-4n/s04.rpy:262
 translate turkish b1c04ns04_798a02b2:
 
     # nv "I {i}swear{/i} not everyone is as...eccentric, as Andrejz."
-    nv "I {i}swear{/i} not everyone is as...eccentric, as Andrejz."
+    nv "{i}Yemin ederim{/i} herkes Andrejz kadar...eksantrik değil."
 
 # game/code/Book-1/Chapter-4n/s04.rpy:268
 translate turkish b1c04ns04_e00ddf22:
 
     # ij "Hey, you two."
-    ij "Hey, you two."
+    ij "Hey, siz ikiniz."
 
 # game/code/Book-1/Chapter-4n/s04.rpy:269
 translate turkish b1c04ns04_b9d0ddb4:
 
     # ij "Did you enjoy the seminar?"
-    ij "Did you enjoy the seminar?"
+    ij "Seminerden memnun kaldınız mı?"
 
 # game/code/Book-1/Chapter-4n/s04.rpy:272
 translate turkish b1c04ns04_9e55cb47:
 
     # nv "I did! I thought the speech on self-esteem was helpful."
-    nv "I did! I thought the speech on self-esteem was helpful."
+    nv "Yaptım! Benlik saygısı hakkındaki konuşmanın faydalı olduğunu düşündüm."
 
 # game/code/Book-1/Chapter-4n/s04.rpy:275
 translate turkish b1c04ns04_1b50f671:
 
     # ij "Great! I think my favorite bit was his presentation on barriers, and how we often create our own cages."
-    ij "Great! I think my favorite bit was his presentation on barriers, and how we often create our own cages."
+    ij "Harika! Sanırım en sevdiğim kısım bariyerler ve sıklıkla kendi kafeslerimizi nasıl yarattığımız hakkındaki sunumuydu."
 
 # game/code/Book-1/Chapter-4n/s04.rpy:276
 translate turkish b1c04ns04_72879183:
 
     # ij "Anyway, what can I help you guys with?"
-    ij "Anyway, what can I help you guys with?"
+    ij "Her neyse, size nasıl yardımcı olabilirim?"
 
 # game/code/Book-1/Chapter-4n/s04.rpy:279
 translate turkish b1c04ns04_6f5aa662:
 
     # nv "[mcname] would like to sign up."
-    nv "[mcname] would like to sign up."
+    nv "[mcname] kaydolmak istiyor."
 
 # game/code/Book-1/Chapter-4n/s04.rpy:282
 translate turkish b1c04ns04_4b57f19f:
 
     # mc "And {i}Nia{/i} would like to get assigned a new Guide."
-    mc "And {i}Nia{/i} would like to get assigned a new Guide."
+    mc "Ve {i}Nia{/i}'ya yeni bir Rehber atanmak istiyor."
 
 # game/code/Book-1/Chapter-4n/s04.rpy:285
 translate turkish b1c04ns04_564a5bfa:
 
     # ij "Really? I see. Let me find the applications..."
-    ij "Really? I see. Let me find the applications..."
+    ij "Gerçekten mi? Anladım. Uygulamaları bulmama izin ver..."
 
 # game/code/Book-1/Chapter-4n/s04.rpy:287
 translate turkish b1c04ns04_0da07654:
 
     # ij "Fill these out. Both of you will be notified when you've been assigned Guides."
-    ij "Fill these out. Both of you will be notified when you've been assigned Guides."
+    ij "Bunları doldurun. Rehber olarak atandığınızda ikiniz de bilgilendirileceksiniz."
 
 # game/code/Book-1/Chapter-4n/s04.rpy:290
 translate turkish b1c04ns04_5eb669be:
 
     # nv "Wow...I didn't think I'd be doing this anytime soon."
-    nv "Wow...I didn't think I'd be doing this anytime soon."
+    nv "Vay be...Bunu yakın zamanda yapacağımı düşünmemiştim."
 
 # game/code/Book-1/Chapter-4n/s04.rpy:293
 translate turkish b1c04ns04_4932117e:
 
     # mc "Hey, you've got this. I know it's hard...but don't think about it as letting go of Maria. Just think of it as moving forward."
-    mc "Hey, you've got this. I know it's hard...but don't think about it as letting go of Maria. Just think of it as moving forward."
+    mc "Hey, bunu başardın. Bunun zor olduğunu biliyorum... ama bunu Maria'yı bırakmak olarak düşünme. Sadece ilerlemek olarak düşün."
 
 # game/code/Book-1/Chapter-4n/s04.rpy:297
 translate turkish b1c04ns04_4659ff16:
 
     # nv "You're right. It's time to move forward, even if I don't forget."
-    nv "You're right. It's time to move forward, even if I don't forget."
+    nv "Haklısın. Unutmasam bile ilerlemenin zamanı geldi."
 
 # game/code/Book-1/Chapter-4n/s04.rpy:301
 translate turkish b1c04ns04_7772a353:
 
     # ij "Thanks, you guys. I'll get these processed right away."
-    ij "Thanks, you guys. I'll get these processed right away."
+    ij "Teşekkürler arkadaşlar. Bunları hemen işleme koyacağım."
 
 # game/code/Book-1/Chapter-4n/s04.rpy:304
 translate turkish b1c04ns04_c7b69dff:
 
     # mc "Well...how do you feel?"
-    mc "Well...how do you feel?"
+    mc "Peki...nasıl hissediyorsun?"
 
 # game/code/Book-1/Chapter-4n/s04.rpy:307
 translate turkish b1c04ns04_b2a2cf56:
 
     # nv "I guess..."
-    nv "I guess..."
+    nv "Sanırım..."
 
 # game/code/Book-1/Chapter-4n/s04.rpy:310
 translate turkish b1c04ns04_8e618418:
 
     # nv "I feel pretty good."
-    nv "I feel pretty good."
+    nv "Kendimi oldukça iyi hissediyorum."
 
 # game/code/Book-1/Chapter-4n/s04.rpy:313
 translate turkish b1c04ns04_d4235fef:
 
     # nv "Is that bad of me?"
-    nv "Is that bad of me?"
+    nv "Bu benim için kötü mü?"
 
 # game/code/Book-1/Chapter-4n/s04.rpy:316
 translate turkish b1c04ns04_8e45bd45:
 
     # mc "No! No. You're doing great. You're doing what's best for you. That's the most important thing."
-    mc "No! No. You're doing great. You're doing what's best for you. That's the most important thing."
+    mc "Hayır! Hayır. Harika gidiyorsun. Kendin için en iyi olanı yapıyorsun. En önemli şey bu."
 
 # game/code/Book-1/Chapter-4n/s04.rpy:317
 translate turkish b1c04ns04_071054a1:
 
     # mc "The only way is forward."
-    mc "The only way is forward."
+    mc "Tek yol ileridir."
 
 # game/code/Book-1/Chapter-4n/s04.rpy:320
 translate turkish b1c04ns04_9eb971ba_1:
 
     # nv "Right. The only way is forward."
-    nv "Right. The only way is forward."
+    nv "Doğru. Tek yol ileri gitmektir."
 
 translate turkish strings:
 
     # game/code/Book-1/Chapter-4n/s04.rpy:4
     old "Fifteen minutes later"
-    new "Fifteen minutes later"
+    new "On beş dakika sonra"
 
     # game/code/Book-1/Chapter-4n/s04.rpy:226
     old "Time passes."
-    new "Time passes."
+    new "Zaman geçer."
 
