@@ -112,7 +112,7 @@ translate turkish b1c07ss06_23c62da2:
 translate turkish b1c07ss06_ba3ab24e:
 
     # mc "I'm here because Morgan sent me."
-    mc "I'm here because Morgan sent me."
+    mc "Morgan beni gönderdiği için buradayım."
 
 # game/code/Book-1/Chapter-7s/s06.rpy:56
 translate turkish b1c07ss06_9c053302:
@@ -124,7 +124,7 @@ translate turkish b1c07ss06_9c053302:
 translate turkish b1c07ss06_2decbb4c:
 
     # mct "Damn. Who put the fear of god in her?"
-    mct "Lanet etmek. Onun içine Allah korkusunu kim koydu?"
+    mct "Lanet olsun. Onun içine Allah korkusunu kim koydu?"
 
 # game/code/Book-1/Chapter-7s/s06.rpy:60
 translate turkish b1c07ss06_5beb7855:
@@ -142,7 +142,7 @@ translate turkish b1c07ss06_75af0afd:
 translate turkish b1c07ss06_e142ff49:
 
     # mc "Uh, okay."
-    mc "Tamam."
+    mc "Ah, Tamam."
 
 # game/code/Book-1/Chapter-7s/s06.rpy:67
 translate turkish b1c07ss06_a59b5546:
