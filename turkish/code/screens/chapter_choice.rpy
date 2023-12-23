@@ -22,3 +22,11 @@ translate turkish strings:
     old "You have already investigated "
     new "Zaten araştırmıştın "
 
+# TODO: Translation updated at 2023-12-23 23:55
+
+translate turkish strings:
+
+    # game/code/screens/chapter_choice.rpy:84
+    old "You cannot investigate this group anymore"
+    new "You cannot investigate this group anymore"
+
