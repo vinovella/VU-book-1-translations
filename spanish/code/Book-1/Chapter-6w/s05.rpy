@@ -184,7 +184,7 @@ translate spanish b1c06ws05_a9782191:
 translate spanish b1c06ws05_c85d5d47:
 
     # sdl "But of course you'd take their side."
-    sdl "Pero por supuesto que te pondrías de su lado."
+    sdl "Pero, por supuesto, te pondrías de su lado."
 
 # game/code/Book-1/Chapter-6w/s05.rpy:107
 translate spanish b1c06ws05_15c9f43b:
@@ -304,7 +304,7 @@ translate spanish b1c06ws05_7916d5e7:
 translate spanish b1c06ws05_687d5779:
 
     # mct "If I weren't trained for situations like this by the academy, I'd probably be a bit intimidated right now."
-    mct "Si no hubiera sido entrenado para situaciones como esta en la academia, probablemente estaría un poco intimidado en este momento."
+    mct "Si la academia no me hubiera entrenado para situaciones como ésta, probablemente me sentiría un poco intimidado en este momento."
 
 # game/code/Book-1/Chapter-6w/s05.rpy:159
 translate spanish b1c06ws05_457fb084:
@@ -394,7 +394,7 @@ translate spanish b1c06ws05_81650c6a:
 translate spanish b1c06ws05_bb1f4c85:
 
     # mct "If Isa hosts a lot of parties, she might know something about the party that the missing girls disappeared at"
-    mct "Si Isa organiza muchas fiestas, es posible que sepa algo sobre la fiesta en la que desaparecieron las chicas desaparecidas."
+    mct "Si Isa organiza muchas fiestas, es posible que sepa algo sobre la fiesta en la que desaparecieron las chicas."
 
 # game/code/Book-1/Chapter-6w/s05.rpy:210
 translate spanish b1c06ws05_a5ec406a:

@@ -70,7 +70,7 @@ translate chinese b1c04zs03_a4490cec:
 translate chinese b1c04zs03_6c85cce6:
 
     # nr "Hey. You're the guy I saw talking with Z. You here to redeem the favor?"
-    nr "嘿。我见过你和泽菲拉说话，你是来还人情的吗？"
+    nr "嘿。我见过你和泽菲拉说话，你是来还恩情的吗？"
 
 # game/code/Book-1/Chapter-4z/s03.rpy:91
 translate chinese b01c04zs03m01_0fa5dbed:
@@ -424,7 +424,7 @@ translate chinese b01c04zs03m01_d2344c30:
 translate chinese b01c04zs03m01_3936830f:
 
     # mct "Considering that Nirmala just came up to her and asked for the favor, they seem to be fine with doing whatever they're doing out in the open."
-    mct "考虑到尼玛拉刚刚走到她面前要求还人情，她们似乎完全不介意在外面公开这种交易。"
+    mct "考虑到尼玛拉刚刚走到她面前要求还恩情，她们似乎完全不介意在外面公开这种交易。"
 
 # game/code/Book-1/Chapter-4z/s03.rpy:268
 translate chinese b01c04zs03m01_749392a5:
@@ -436,7 +436,7 @@ translate chinese b01c04zs03m01_749392a5:
 translate chinese b01c04zs03m01_59ad9e07:
 
     # mc "I'm not sure. What's the favor?"
-    mc "我不确定。什么人情？"
+    mc "我不确定。什么恩情？"
 
 # game/code/Book-1/Chapter-4z/s03.rpy:278
 translate chinese b01c04zs03m01_0b26c9db:
@@ -454,13 +454,13 @@ translate chinese b01c04zs03m01_7be80b46:
 translate chinese b01c04zs03m01_ac65f60c:
 
     # nr "Er...do you want to redeem the favor or not?"
-    nr "呃...你到底想不想还我这个人情？"
+    nr "呃...你到底想不想还我这个恩情？"
 
 # game/code/Book-1/Chapter-4z/s03.rpy:285
 translate chinese b01c04zs03m01_e6048ec5:
 
     # nr "...Do you know what the favors are even?"
-    nr "...话说，你知道是什么人情吗？"
+    nr "...话说，你知道是什么恩情吗？"
 
 # game/code/Book-1/Chapter-4z/s03.rpy:286
 translate chinese b01c04zs03m01_928b0ded:
@@ -524,5 +524,5 @@ translate chinese strings:
 
     # game/code/Book-1/Chapter-4z/s03.rpy:83
     old "I'm not sure. What is the favor?"
-    new "我不确定。什么人情？"
+    new "我不确定。什么恩情？"
 

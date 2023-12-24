@@ -119,10 +119,6 @@ translate turkish strings:
     new "Tiyatro Bölümü"
 
     # game/code/data/ib_characters.rpy:9
-    old "Briggita"
-    new "Briggita"
-
-    # game/code/data/ib_characters.rpy:9
     old "Adrichem"
     new "Adrichem"
 
@@ -289,4 +285,147 @@ translate turkish strings:
     # game/code/data/ib_characters.rpy:48
     old "Bartender"
     new "Barmen"
+# TODO: Translation updated at 2023-08-07 00:37
+
+translate turkish strings:
+
+    # game/code/data/ib_characters.rpy:48
+    old "Gaia \"Lilith\""
+    new "Gaia \"Lilith\""
+
+    # game/code/data/ib_characters.rpy:48
+    old "Ezra Del"
+    new "Ezra Del"
+
+    # game/code/data/ib_characters.rpy:48
+    old "Olmo"
+    new "Olmo"
+
+    # game/code/data/ib_characters.rpy:48
+    old "Hagen"
+    new "Hagen"
+
+    # game/code/data/ib_characters.rpy:48
+    old "Guide/Manager"
+    new "Guide/Manager"
+
+    # game/code/data/ib_characters.rpy:48
+    old "Grayson"
+    new "Grayson"
+
+    # game/code/data/ib_characters.rpy:48
+    old "Hazel"
+    new "Hazel"
+
+    # game/code/data/ib_characters.rpy:48
+    old "Parker"
+    new "Parker"
+
+    # game/code/data/ib_characters.rpy:48
+    old "Rival Team Spy"
+    new "Rival Team Spy"
+
+    # game/code/data/ib_characters.rpy:48
+    old "Winner's Club"
+    new "Winner's Club"
+
+    # game/code/data/ib_characters.rpy:48
+    old "The Syndicate"
+    new "The Syndicate"
+
+    # game/code/data/ib_characters.rpy:48
+    old "Cult"
+    new "Cult"
+
+# TODO: Translation updated at 2023-12-23 23:55
+
+translate turkish strings:
+
+    # game/code/data/ib_characters.rpy:48
+    old "Hellena"
+    new "Hellena"
+
+    # game/code/data/ib_characters.rpy:48
+    old "Acton"
+    new "Acton"
+
+    # game/code/data/ib_characters.rpy:48
+    old "Gang leader of The Wasps"
+    new "Gang leader of The Wasps"
+
+    # game/code/data/ib_characters.rpy:48
+    old "Gabriella"
+    new "Gabriella"
+
+    # game/code/data/ib_characters.rpy:48
+    old "Eastwood"
+    new "Eastwood"
+
+    # game/code/data/ib_characters.rpy:48
+    old "Cafeteria Lady"
+    new "Cafeteria Lady"
+
+    # game/code/data/ib_characters.rpy:48
+    old "James"
+    new "James"
+
+    # game/code/data/ib_characters.rpy:48
+    old "Harlan"
+    new "Harlan"
+
+    # game/code/data/ib_characters.rpy:48
+    old "Professor & Alumnus"
+    new "Professor & Alumnus"
+
+    # game/code/data/ib_characters.rpy:48
+    old "Williams"
+    new "Williams"
+
+    # game/code/data/ib_characters.rpy:48
+    old "CCC Student"
+    new "CCC Student"
+
+    # game/code/data/ib_characters.rpy:48
+    old "O'Neil"
+    new "O'Neil"
+
+    # game/code/data/ib_characters.rpy:48
+    old "Carmelo"
+    new "Carmelo"
+
+    # game/code/data/ib_characters.rpy:48
+    old "Kara"
+    new "Kara"
+
+    # game/code/data/ib_characters.rpy:48
+    old "De'leon"
+    new "De'leon"
+
+    # game/code/data/ib_characters.rpy:48
+    old "Professor at Vinovella University"
+    new "Professor at Vinovella University"
+
+    # game/code/data/ib_characters.rpy:48
+    old "The Prophet"
+    new "The Prophet"
+
+    # game/code/data/ib_characters.rpy:48
+    old "Welch"
+    new "Welch"
+
+    # game/code/data/ib_characters.rpy:48
+    old "Forest ranger"
+    new "Forest ranger"
+
+    # game/code/data/ib_characters.rpy:48
+    old "Sloan T."
+    new "Sloan T."
+
+    # game/code/data/ib_characters.rpy:48
+    old "Andrews"
+    new "Andrews"
+
+    # game/code/data/ib_characters.rpy:48
+    old "Sanders"
+    new "Sanders"
 

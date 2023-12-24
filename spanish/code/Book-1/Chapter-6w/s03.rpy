@@ -46,7 +46,7 @@ translate spanish b1c06ws03_abd368c3:
 translate spanish b1c06ws03_44e4357b:
 
     # ba "You son of a {i}bitch{/i}."
-    ba "Hijo de puta {i}{/i}."
+    ba "Hijo de {i}puta{/i}."
 
 # game/code/Book-1/Chapter-6w/s03.rpy:55
 translate spanish b1c06ws03_9120cc2c:
@@ -88,7 +88,7 @@ translate spanish b1c06ws03_d52f9d48:
 translate spanish b1c06ws03_8401e326:
 
     # mc "Doesn't mean we have to be all buddy, buddy, but we can't be at each other's throats at every opportunity either."
-    mc "No significa que tengamos que ser todos amigos, amigos, pero tampoco podemos estar peleándonos el uno con el otro a cada oportunidad."
+    mc "No significa que tengamos que ser todos amigos, pero tampoco podemos estar peleándonos el uno con el otro a cada oportunidad."
 
 # game/code/Book-1/Chapter-6w/s03.rpy:75
 translate spanish b1c06ws03_e1c5147d:
@@ -118,7 +118,7 @@ translate spanish b1c06ws03_fc3d85f3:
 translate spanish b1c06ws03_4761a99c:
 
     # ba "Don't you dare, don't you fucking {i}{b}dare{/b}{/i} speak to me about camaraderie. You don't know jackshit about teamwork or what it takes to be {i}{b}here.{/b}{/i}"
-    ba "No te atrevas, {i}{b}te atrevas{/b}{/i} a hablarme de camaradería. No sabes una mierda sobre el trabajo en equipo o lo que se necesita para estar {i}{b}aquí.{/b}{/i}"
+    ba "{i}{b}No te atrevas{/b}{/i}, a hablarme de camaradería. No sabes una mierda sobre el trabajo en equipo o lo que se necesita para estar {i}{b}aquí.{/b}{/i}"
 
 # game/code/Book-1/Chapter-6w/s03.rpy:86
 translate spanish b1c06ws03_a7f97183:
@@ -214,7 +214,7 @@ translate spanish b1c06ws03_74ab5c73:
 translate spanish b1c06ws03_f8b044f9:
 
     # sa "If we manage to strike a decisive victory against them during the match, we will cripple their confidence."
-    sa "Si logramos conseguir una victoria decisiva contra ellos durante el partido, paralizaremos su confianza."
+    sa "Si logramos conseguir una victoria decisiva contra ellos durante el partido, reduciremos su confianza."
 
 # game/code/Book-1/Chapter-6w/s03.rpy:138
 translate spanish b1c06ws03_29aae6b5:
@@ -256,7 +256,7 @@ translate spanish b1c06ws03_eef3043a:
 translate spanish b1c06ws03_5a22531b:
 
     # sa "Especially now that we have a new member."
-    sa "Especialmente ahora que tenemos un nuevo miembro."
+    sa "Especialmente ahora que tenemos a un nuevo miembro."
 
 # game/code/Book-1/Chapter-6w/s03.rpy:156
 translate spanish b1c06ws03_9e908fdc:
@@ -268,7 +268,7 @@ translate spanish b1c06ws03_9e908fdc:
 translate spanish b1c06ws03_1a0a41ae:
 
     # "You breathe in deep, calming your mind. Choosing the perfect location to serve the ball to."
-    "Respiras hondo, calmando tu mente. Eliges el lugar perfecto para hacer el saque."
+    "Respiras hondo, tranquilizas tu mente. Eliges el lugar perfecto para el saque."
 
 # game/code/Book-1/Chapter-6w/s03.rpy:165
 translate spanish b1c06ws03_1bfb1179:
@@ -298,13 +298,13 @@ translate spanish b1c06ws03_567ee0e5:
 translate spanish b1c06ws03_d84408e4:
 
     # "Simon dives for the ball, just as expected, but he surprises you with his speed. It's nothing special, but it's {i}faster{/i}, faster than last time, and he doesn't fumble."
-    "Simón se lanza a por la pelota, como era de esperar, pero lo sorprende con su velocidad. No es nada especial, pero es {i}más rápido{/i}, más rápido que la última vez, y no pierde el balón."
+    "Simón se lanza por la pelota, como era de esperar, pero sorprende con su velocidad. No es nada especial, pero es {i}más rápida{/i}, que la última vez, y sin cometer ningún fallo."
 
 # game/code/Book-1/Chapter-6w/s03.rpy:181
 translate spanish b1c06ws03_24e7adf2:
 
     # "Simon smoothly passes the ball to Monika on the side of the court, who's already expecting it."
-    "Simón le pasa el balón con suavidad a Monika al costado de la cancha, quien ya la está esperando."
+    "Simón le pasa la pelota con suavidad a Monika al costado de la cancha, quien ya la está esperando."
 
 # game/code/Book-1/Chapter-6w/s03.rpy:183
 translate spanish b1c06ws03_df58a2a2:
@@ -340,7 +340,7 @@ translate spanish b1c06ws03_17790827:
 translate spanish b1c06ws03_21a6f955:
 
     # "Her well-timed block sends the ball careening toward their court as both Simon and Monika fail to react in time."
-    "Su oportuno bloqueo hace que el balón salga disparado hacia su lado sin que Simon y Monika puedan reaccionar a tiempo."
+    "Su oportuno bloqueo hace que el balón salga disparado hacia su lado sin que Simón y Monika puedan reaccionar a tiempo."
 
 # game/code/Book-1/Chapter-6w/s03.rpy:199
 translate spanish b1c06ws03_347c1268:
@@ -352,7 +352,7 @@ translate spanish b1c06ws03_347c1268:
 translate spanish b1c06ws03_8aa21cae:
 
     # sa "First point to Team A. Good job with that block Iona. And Simon, don't let your defenses be open after a pass, always keep your eye on the ball."
-    sa "Primer punto para el Equipo A. Buen trabajo con ese bloque Iona. Y Simón, no dejes que tus defensas se abran tras un pase, mantén siempre la vista en la pelota."
+    sa "Primer punto para el Equipo A. Buen trabajo con ese bloqueo Iona. Y Simón, no dejes que tus defensas se abran tras un pase, mantén siempre la vista en la pelota."
 
 # game/code/Book-1/Chapter-6w/s03.rpy:203
 translate spanish b1c06ws03_9184c650:
@@ -457,10 +457,10 @@ translate spanish b1c06ws03_65b50b30:
     "Empieza el segundo set y Brigitta saca primero. Sus servicios son fuertes pero fáciles de predecir, y has estado analizando sus patrones durante todo el juego."
 
 # game/code/Book-1/Chapter-6w/s03.rpy:308
-translate spanish b1c06ws03_59c6a256:
+translate spanish b1c06ws03_72bd82fd:
 
-    # "You catch Brigitta's serve and pass the ball to Oleysa, who passes it to Iona."
-    "Atrapas el saque de Brigitta y le pasas el balón a Oleysa, quien se lo pasa a Iona."
+    # "You catch Brigitta's serve and pass the ball to Olesya, who passes it to Iona."
+    "Atrapas el saque de Brigitta y le pasas el balón a Olesya, quien se lo pasa a Iona."
 
 # game/code/Book-1/Chapter-6w/s03.rpy:311
 translate spanish b1c06ws03_f91ee99e:
@@ -484,7 +484,7 @@ translate spanish b1c06ws03_7a73e5de:
 translate spanish b1c06ws03_68f71f3c:
 
     # mct "We just have to keep this going and we got it in the bag."
-    mct "Sólo tenemos que seguir de esta manera, y tendremos el partidonemos en el bolsillo."
+    mct "Sólo tenemos que seguir así y lo tenemos en el bolsillo."
 
 # game/code/Book-1/Chapter-6w/s03.rpy:322
 translate spanish b1c06ws03_7c657e96:
@@ -598,7 +598,7 @@ translate spanish b1c06ws03_926900a9:
 translate spanish b1c06ws03_c85ca819:
 
     # ir "Hey, we'll get 'em next time."
-    ir "Oye, los conseguiremos la próxima vez."
+    ir "Oye, lo conseguiremos la próxima vez."
 
 # game/code/Book-1/Chapter-6w/s03.rpy:398
 translate spanish b1c06ws03_fa562e8e:
@@ -629,4 +629,3 @@ translate spanish b1c06ws03_b99ec9dd:
 
     # mc "Still had to get help from your team."
     mc "Aún así tuviste que pedir ayuda a tu equipo."
-

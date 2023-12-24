@@ -214,7 +214,7 @@ translate chinese b1c06cs05_continue_2f29e9ad:
 translate chinese b1c06cs05_continue_71529ea5:
 
     # "Delphia matches [mcname]'s smirk, and licks her lips before speaking."
-    "德尔菲娅配合着[mcname的坏笑，在说话前舔了舔嘴唇。"
+    "德尔菲娅配合着[mcname]的坏笑，在说话前舔了舔嘴唇。"
 
 # game/code/Book-1/Chapter-6c/s05.rpy:176
 translate chinese b1c06cs05_continue_4e66a360:
@@ -238,7 +238,7 @@ translate chinese b1c06cs05_continue_3a73c0ef:
 translate chinese b1c06cs05_continue_f2c66a7c:
 
     # "Her strokes grow more confident by the second. She studies your face to see how her every movement affects you, changing her technique on the fly to bring you even more pleasure."
-    "她的撸弄变得越发自信 。她研究你的表情，观察她的每一个动作对你的影响，还会临时改变技巧，给你带来更多快感。"
+    "她的撸弄变得越发自信。她研究你的表情，观察她的每一个动作对你的影响，还会临时改变技巧，给你带来更多快感。"
 
 # game/code/Book-1/Chapter-6c/s05.rpy:189
 translate chinese b1c06cs05_continue_c046cdab:

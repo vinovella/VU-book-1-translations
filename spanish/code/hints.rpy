@@ -32,7 +32,7 @@ translate spanish strings:
 
     # game/code/hints.rpy:5
     old "Iona just keeps sucking you off. You gain no points."
-    new "Iona sigue chupándotela. No ganas puntos."
+    new "Iona sigue chupándotela. No ganas punto."
 
     # game/code/hints.rpy:5
     old "You fuck Iona roughly. You gain +1 points with Iona."
@@ -40,7 +40,7 @@ translate spanish strings:
 
     # game/code/hints.rpy:5
     old "You don't fuck Iona's roughly. You gain no points."
-    new "No te follas a Iona bruscamente. No ganas puntos."
+    new "No te follas a Iona bruscamente. No ganas punto."
 
     # game/code/hints.rpy:5
     old "Correct question."
@@ -96,7 +96,7 @@ translate spanish strings:
 
     # game/code/hints.rpy:5
     old "Get rough with Sally. She likes it, but not as much as being worshiped. 0 points with Sally."
-    new "Ponte rudo con Sally. A ella le gusta, pero no tanto como ser adorada. 0 puntos con Sally."
+    new "Ponte rudo con Sally. A ella le gusta, pero no tanto como ser adorada. 0 punto con Sally."
 
     # game/code/hints.rpy:5
     old "Xasan likes 'em bold. +1 point with Xasan."
@@ -104,7 +104,7 @@ translate spanish strings:
 
     # game/code/hints.rpy:5
     old "Xasan thinks you're weak. 0 point with Xasan."
-    new "Xasan piensa que eres débil. 0 puntos con Xasan."
+    new "Xasan piensa que eres débil. 0 punto con Xasan."
 
     # game/code/hints.rpy:5
     old "You let Fleur continue feeling up your thigh. She will give you a handjob. +1 pts with Fleur."
@@ -128,15 +128,15 @@ translate spanish strings:
 
     # game/code/hints.rpy:5
     old "Zemfira appreciates you taking action. +1 points with Zemfira."
-    new "Zemfira agradece que tome medidas. +1 puntos con Zemfira."
+    new "Zemfira agradece que tome medidas. +1 punto con Zemfira."
 
     # game/code/hints.rpy:5
     old "Zemfira thinks you're mocking the situation, and handles Morgan herself. 0 points with Zemfira. But Morgan thinks you're funny. +1 point with Morgan."
-    new "Zemfira cree que te estás burlando de la situación y se encarga ella misma de Morgan. 0 puntos con Zemfira. Pero Morgan piensa que eres gracioso. +1 punto con Morgan."
+    new "Zemfira cree que te estás burlando de la situación y se encarga ella misma de Morgan. 0 punto con Zemfira. Pero Morgan piensa que eres gracioso. +1 punto con Morgan."
 
     # game/code/hints.rpy:5
     old "Zemfira isn't mad, but feels you could've been a bit more aggressive about defending her in that kind of situation. 0 points with Zemfira."
-    new "Zemfira no está enojada, pero siente que podrías haber sido un poco más agresivo para defenderla en ese tipo de situación. 0 puntos con Zemfira."
+    new "Zemfira no está enojada, pero siente que podrías haber sido un poco más agresivo para defenderla en ese tipo de situación. 0 punto con Zemfira."
 
     # game/code/hints.rpy:5
     old "She's super happy she won and gets to gloat."
@@ -148,11 +148,11 @@ translate spanish strings:
 
     # game/code/hints.rpy:5
     old "Choose to investigate Morgan's lead."
-    new "Elige investigar la pista de Morgan."
+    new "Eliges investigar la pista de Morgan."
 
     # game/code/hints.rpy:5
     old "Choose to investigate Corinne's lead."
-    new "Elige investigar la pista de Corinne."
+    new "Eliges investigar la pista de Corinne."
 
     # game/code/hints.rpy:5
     old "Go back to Fleur's dorm for some fun. +1 point with Fleur."
@@ -160,7 +160,7 @@ translate spanish strings:
 
     # game/code/hints.rpy:5
     old "Leave without Fleur and go home. 0 points with Fleur."
-    new "Vete sin Fleur y vete a casa. 0 puntos con Fleur."
+    new "Vete a casa sin Fleur. 0 punto con Fleur."
 
     # game/code/hints.rpy:5
     old "You go bouldering with Josie and Lara at a later date."
@@ -192,7 +192,7 @@ translate spanish strings:
 
     # game/code/hints.rpy:5
     old "0 points with Zemfira. She doesn't like feeling pitied, even if that wasn't your intention."
-    new "0 puntos con Zemfira. No le gusta sentir lástima, incluso si esa no era tu intención."
+    new "0 punto con Zemfira. No le gusta sentir lástima, incluso si esa no era tu intención."
 
     # game/code/hints.rpy:5
     old "You match Sabrina and Q's energy."
@@ -268,15 +268,15 @@ translate spanish strings:
 
     # game/code/hints.rpy:5
     old "Nia is flustered by your words. She feels truly seen and understood. +1pts with Nia."
-    new "Nia está nerviosa por tus palabras. Se siente verdaderamente vista y comprendida. +1 punto con Nia."
+    new "Nia está nerviosa por tus palabras. Se siente realmente vista y comprendida. +1 punto con Nia."
 
     # game/code/hints.rpy:5
     old "Nia thinks you're joking and tries to refocus you on the topic at hand. 0pts with Nia."
-    new "Nia cree que estás bromeando y trata de reenfocarte en el tema en cuestión. 0pts con Nia."
+    new "Nia cree que estás bromeando e intenta centrarte de nuevo en el tema en discusión. 0 punto con Nia."
 
     # game/code/hints.rpy:5
     old "Nia feels a little embarrassed because she doesn't view herself this way at all. 0pts with Nia."
-    new "Nia se siente un poco avergonzada porque no se ve así misma en absoluto. 0pts con Nia."
+    new "Nia se siente un poco avergonzada porque no se ve así en absoluto. 0 punto con Nia."
 
     # game/code/hints.rpy:5
     old "You join the group hug."
@@ -300,7 +300,7 @@ translate spanish strings:
 
     # game/code/hints.rpy:5
     old "0pts with Nia. It's a nice compliment, but anyone could say it."
-    new "0 puntos con Nia. Es un bonito cumplido, pero cualquiera podría decirlo."
+    new "0 punto con Nia. Es un bonito cumplido, pero cualquiera podría decirlo."
 
     # game/code/hints.rpy:5
     old "+1 point with Lumi. She appreciates your encouragement."
@@ -308,11 +308,11 @@ translate spanish strings:
 
     # game/code/hints.rpy:5
     old "0 points with Lumi. She's still uncertain."
-    new "0 puntos con Lumi. Ella todavía está insegura."
+    new "0 punto con Lumi. Ella todavía está insegura."
 
     # game/code/hints.rpy:5
     old "You come up with an excuse to tell Irene."
-    new "Inventas una excusa para decírselo a Irene."
+    new "Te inventas una excusa para decírsela a Irene."
 
     # game/code/hints.rpy:5
     old "You seduce Irene."
@@ -324,11 +324,11 @@ translate spanish strings:
 
     # game/code/hints.rpy:5
     old "Don't fuck Irene."
-    new "No jodas a Irene."
+    new "No te folles a Irene."
 
     # game/code/hints.rpy:5
     old "Cum in Ezra's mouth."
-    new "Corrida en la boca de Ezra."
+    new "Semen en la boca de Ezra."
 
     # game/code/hints.rpy:5
     old "Cum on Ezra's face."
@@ -336,43 +336,43 @@ translate spanish strings:
 
     # game/code/hints.rpy:5
     old "You try to flirt with Iona brazenly. Silvia feels uncomfortable with the energy, but Iona is all for it. You get +1 points with Iona."
-    new "Intenta coquetear con Iona descaradamente. Silvia se siente incómoda con la energía, pero Iona está totalmente de acuerdo. Obtienes +1 puntos con Iona."
+    new "Intentas coquetear con Iona descaradamente. Silvia se siente incómoda con la energía, pero Iona está de acuerdo. Obtienes +1 punto con Iona."
 
     # game/code/hints.rpy:5
     old "You try to keep it classy.  Silvia is charmed by it, but Iona is bored. You get +1 points with Silvia."
-    new "Tratas de mantenerlo elegante. Silvia está encantada con él, pero Iona está aburrida. Obtienes +1 puntos con Silvia."
+    new "Intentas que sea elegante.  A Silvia le encanta, pero a Iona le aburre. Obtienes +1 punto con Silvia."
 
     # game/code/hints.rpy:5
     old "You try to balance your affections between both, but neither are impressed. You get 0 points with Silvia and Iona."
-    new "Intenta equilibrar sus afectos entre ambos, pero ninguno queda impresionado. Obtienes 0 puntos con Silvia e Iona."
+    new "Intentas equilibrar tus afectos entre ambas, pero ninguna te impresiona. Obtienes 0 punto con Silvia e Iona."
 
     # game/code/hints.rpy:5
     old "Sam likes you entertaining her. You get +1 points with Sam."
-    new "A Sam le gusta que la entretengas. Obtienes +1 puntos con Sam."
+    new "A Sam le gusta que la entretengas. Obtienes +1 punto con Sam."
 
     # game/code/hints.rpy:5
     old "Sam gets grossed out by your joke. You get -1 points with Sam."
-    new "A Sam le da asco tu broma. Obtienes -1 puntos con Sam."
+    new "A Sam le da asco tu broma. Obtienes -1 punto con Sam."
 
     # game/code/hints.rpy:5
     old "Sam thinks you're a buzzkill. You get 0 points with Sam."
-    new "Sam piensa que eres un aguafiestas. Obtienes 0 puntos con Sam."
+    new "Sam piensa que eres un aguafiestas. Obtienes 0 punto con Sam."
 
     # game/code/hints.rpy:5
     old "Isa thinks it's cute that you care so much about the Winner's. You get +1 points with Isa."
-    new "Isa piensa que es lindo que te preocupes tanto por los ganadores. Obtienes +1 puntos con Isa."
+    new "Isa piensa que es lindo que te preocupes tanto por los ganadores. Obtienes +1 punto con Isa."
 
     # game/code/hints.rpy:5
     old "You brush it off. You get 0 points with Isa."
-    new "Lo quitas de encima. Obtienes 0 puntos con Isa."
+    new "Lo quitas de encima. Obtienes 0 punto con Isa."
 
     # game/code/hints.rpy:5
     old "Iona thinks it's cute that you tried to stop her. You get +1 points with Iona."
-    new "Iona piensa que es lindo que hayas intentado detenerla. Obtienes +1 puntos con Iona."
+    new "Iona piensa que es lindo que hayas intentado detenerla. Obtienes +1 punto con Iona."
 
     # game/code/hints.rpy:5
     old "Iona continues to serve. You get 0 points with Iona."
-    new "Iona continúa sirviendo. Obtienes 0 puntos con Iona."
+    new "Iona continúa sirviendo. Obtienes 0 punto con Iona."
 
     # game/code/hints.rpy:5
     old "You go with Iona and have a fun time with her before coming back to the party. You can potentially earn a point with her on this path."
@@ -392,19 +392,19 @@ translate spanish strings:
 
     # game/code/hints.rpy:5
     old "Monika appreciates you not embarrassing her. You get +1 points with Monika."
-    new "Monika agradece que no la avergüences. Obtienes +1 puntos con Monika."
+    new "Monika agradece que no la avergüences. Obtienes +1 punto con Monika."
 
     # game/code/hints.rpy:5
     old "Monika thinks you're a show-off. You get 0 points with Monika."
-    new "Monika cree que eres un fanfarrón. Obtienes 0 puntos con Monika."
+    new "Monika cree que eres un fanfarrón. Obtienes 0 punto con Monika."
 
     # game/code/hints.rpy:5
     old "Silvia appreciates you reassuring her. You get +1 points with Silvia."
-    new "Silvia agradece que la tranquilices. Obtienes +1 puntos con Silvia."
+    new "Silvia agradece que la tranquilices. Obtienes +1 punto con Silvia."
 
     # game/code/hints.rpy:5
     old "Silvia doesn't really care to be a coach. You get 0 points with Silvia."
-    new "A Silvia realmente no le importa ser entrenadora. Obtienes 0 puntos con Silvia."
+    new "A Silvia realmente no le importa ser entrenadora. Obtienes 0 punto con Silvia."
 
     # game/code/hints.rpy:5
     old "You kiss her back and she gives you an awkward blowjob."
@@ -417,3 +417,35 @@ translate spanish strings:
     # game/code/hints.rpy:5
     old "No hints available."
     new "No hay pistas disponibles."
+
+    # game/code/hints.rpy:5
+    old "+1 pt with Foxy. You support her view."
+    new "+1 pt with Foxy. You support her view."
+
+    # game/code/hints.rpy:5
+    old "0pts, but Xasan begrudgingly respects you a little more."
+    new "0pts, but Xasan begrudgingly respects you a little more."
+
+    # game/code/hints.rpy:5
+    old "+1 pt with Zemfira. She appreciates your faith in her."
+    new "+1 pt with Zemfira. She appreciates your faith in her."
+
+    # game/code/hints.rpy:5
+    old "Sex scene with Asami."
+    new "Sex scene with Asami."
+
+    # game/code/hints.rpy:5
+    old "No sex scene with Asami."
+    new "No sex scene with Asami."
+
+    # game/code/hints.rpy:5
+    old "You get 0 points with Xasan. You stay on the boat to avoid further conflict."
+    new "You get 0 points with Xasan. You stay on the boat to avoid further conflict."
+
+    # game/code/hints.rpy:5
+    old "You get +1 points with Xasan. He respects you for standing up for yourself without being an ass about it."
+    new "You get +1 points with Xasan. He respects you for standing up for yourself without being an ass about it."
+
+    # game/code/hints.rpy:5
+    old "You get -1 points with Xasan. You stand up for yourself, but you're an ass about it. This is the w the girls."
+    new "You get -1 points with Xasan. You stand up for yourself, but you're an ass about it. This is the w the girls."

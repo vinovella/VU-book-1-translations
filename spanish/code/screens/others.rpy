@@ -37,4 +37,3 @@ translate spanish strings:
     # game/code/screens/others.rpy:213
     old "Coming Soon"
     new "Muy pronto"
-

@@ -279,8 +279,8 @@ translate portuguese strings:
     new "Parece que tem certa tensão entre ela e Monika."
 
     # game/code/data/ib_descriptions.rpy:2
-    old "Oleysa is noticeably absent from the party. Need to find out why."
-    new "Oleysa não se encontra na festa. Preciso descobrir por quê."
+    old "Olesya is noticeably absent from the party. Need to find out why."
+    new "Olesya não se encontra na festa. Preciso descobrir por quê."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Apparently was almost expelled due to some trouble with \"illicit substances\", at least according to Ronja."
@@ -630,3 +630,6 @@ translate portuguese strings:
     old "Ronja is married. And also cheating on her husband with me."
     new "Ronja é casada. E está traindo o marido comigo."
 
+    # game/code/data/ib_descriptions.rpy:2
+    old "There seems to be some tension between her and Olesya."
+    new "There seems to be some tension between her and Olesya."

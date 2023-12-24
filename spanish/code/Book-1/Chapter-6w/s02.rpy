@@ -202,7 +202,7 @@ translate spanish b1c06ws02_3f73edb9:
 translate spanish b1c06ws02_d5d06052:
 
     # sm "Sorry. I'm not trying to be inauthentic. I just don't want to be a downer."
-    sm "Lo siento. No estoy tratando de ser falsa. Simplemente no quiero ser un deprimente."
+    sm "Lo siento. No estoy tratando de ser falsa. Simplemente no quiero ser deprimente."
 
 # game/code/Book-1/Chapter-6w/s02.rpy:157
 translate spanish b1c06ws02_e152c1b6:
@@ -310,7 +310,7 @@ translate spanish b1c06ws02_4da34bcf:
 translate spanish b1c06ws02_8e01b62b:
 
     # sm "I know Simon dabbled before, but he's just so...{w} {i}Horny.{/i}"
-    sm "Sé que Simon incursionó antes, pero es tan... {w} {i}Caliente.{/i}"
+    sm "Sé que Simón incursionó antes, pero es tan... {w} {i}Caliente.{/i}"
 
 # game/code/Book-1/Chapter-6w/s02.rpy:202
 translate spanish b1c06ws02_1880b7bd:

@@ -64,7 +64,7 @@ translate chinese b1c05s02_d399586c:
 translate chinese b1c05s02_8a13720d:
 
     # pm "I'm a woman who likes things done a certain way, rookie. Now look sharp and follow me to the basement."
-    pm "喂，菜鸟，我是个喜欢按特定方式做事的女人。麻利，跟我到地下室去。"
+    pm "喂，菜鸟，我是个喜欢按特定方式做事的女人。麻利点，跟我到地下室去。"
 
 # game/code/Book-1/Chapter-5/s02.rpy:44
 translate chinese b1c05s02_baec6c44:
@@ -88,7 +88,7 @@ translate chinese b1c05s02_4194fe5c:
 translate chinese b1c05s02_4637cf13:
 
     # pm "Damn straight."
-    pm "太对了。"
+    pm "可不是。"
 
 # game/code/Book-1/Chapter-5/s02.rpy:63
 translate chinese b1c05s02_71d26b31:
@@ -142,7 +142,7 @@ translate chinese b1c05s02_48b7e164:
 translate chinese b1c05s02_13f4bcce:
 
     # mc "And Klara was close to a girl named Silvia Melsbach. In my investigation, I've been effective in forming a friendship with her."
-    mc "克拉拉和一个叫西尔维娅·梅尔斯巴赫的女孩关系很好。在我的调查中，我已经有效地与她建立了友谊。"
+    mc "克拉拉和一个叫西尔维娅·梅尔斯巴赫的女孩关系很好。在我的调查中，我已经和她亲近起来了。"
 
 # game/code/Book-1/Chapter-5/s02.rpy:105
 translate chinese b1c05s02_b2cdaacd:
@@ -232,13 +232,13 @@ translate chinese b1c05s02_d60f1be7:
 translate chinese b1c05s02_e33ca87e:
 
     # mc "I know that Fleur, Nirmala and Lilith are friends with Zemfira. I think they're tied to this group."
-    mc "我知道芙蓉、尼玛拉和莉莉丝是泽菲拉的朋友。我认为他们和这个组织都有联系。"
+    mc "我知道芙蓉、尼玛拉和莉莉丝是泽菲拉的朋友。我认为她们和这个组织都有联系。"
 
 # game/code/Book-1/Chapter-5/s02.rpy:146
 translate chinese b1c05s02_5d3606bc:
 
     # pm "I see."
-    pm "明白。"
+    pm "这样啊。"
 
 # game/code/Book-1/Chapter-5/s02.rpy:148
 translate chinese b1c05s02_35519971:
@@ -286,7 +286,7 @@ translate chinese b1c05s02_2a077756:
 translate chinese b1c05s02_c0dd7ffb:
 
     # pm "She sounds like a good gateway to the others. Focus on her and see how the others react."
-    pm "听起来她是个通往其他人的绝佳入口。对她多加关注，然后看看其他人的反应。"
+    pm "听起来她是个绝佳入口，可以借由她和其他人发展关系。对她多加关注，然后看看其他人的反应。"
 
 # game/code/Book-1/Chapter-5/s02.rpy:175
 translate chinese b1c05s02_58de23cb:
@@ -448,7 +448,7 @@ translate chinese b1c05s02_898e4b8e:
 translate chinese b1c05s02_5c9b3666:
 
     # pm "Seriously? You don't think that three girls who went missing the same night {i}aren't{/i} connected?"
-    pm "你认真的？你认为三个在同一天晚上失踪的女孩，她们之间{i}没有{/i}联系？"
+    pm "你认真的？你认为三个女孩在同一天晚上失踪，她们之间{i}没有{/i}联系？"
 
 # game/code/Book-1/Chapter-5/s02.rpy:252
 translate chinese b1c05s02_cd77588b:
@@ -562,331 +562,331 @@ translate chinese b1c05s02_41e706cd:
 translate chinese b1c05s02_75f62cec:
 
     # mc "Any info on the self-help or the cult could lead to more information on Maria."
-    mc "Any info on the self-help or the cult could lead to more information on Maria."
+    mc "任何关于自助社团或邪教的信息都可能给我们带来更多玛丽亚的线索。"
 
 # game/code/Book-1/Chapter-5/s02.rpy:313
 translate chinese b1c05s02_7c4e4781:
 
     # pm "A cult is a pretty serious lead. That might be the answer to Maria's disappearance, if your theory is correct."
-    pm "A cult is a pretty serious lead. That might be the answer to Maria's disappearance, if your theory is correct."
+    pm "邪教这个线索很重要。如果你的推测是正确的，这可能就是玛利亚失踪的答案。"
 
 # game/code/Book-1/Chapter-5/s02.rpy:316
 translate chinese b1c05s02_f36e5aec:
 
     # mc "Exactly."
-    mc "Exactly."
+    mc "没错。"
 
 # game/code/Book-1/Chapter-5/s02.rpy:325
 translate chinese b1c05s02_1e2e1c4c:
 
     # pm "And them?"
-    pm "And them?"
+    pm "他们呢？"
 
 # game/code/Book-1/Chapter-5/s02.rpy:328
 translate chinese b1c05s02_3eb16bed:
 
     # mc "This is the entire Winner's volleyball team."
-    mc "This is the entire Winner's volleyball team."
+    mc "这是赢家俱乐部的整个排球队。"
 
 # game/code/Book-1/Chapter-5/s02.rpy:330
 translate chinese b1c05s02_6959b521:
 
     # mc "Including myself, of course."
-    mc "Including myself, of course."
+    mc "当然，包括我自己。"
 
 # game/code/Book-1/Chapter-5/s02.rpy:331
 translate chinese b1c05s02_12a3c9d0:
 
     # mc "There's more to the Winner's Club, but I haven't had a chance to investigate their fraternity further."
-    mc "There's more to the Winner's Club, but I haven't had a chance to investigate their fraternity further."
+    mc "获胜者俱乐部还有可以深挖的线索，但我还没有机会进一步调查他们。"
 
 # game/code/Book-1/Chapter-5/s02.rpy:336
 translate chinese b1c05s02_2e961bcf:
 
     # pm "So, do you have any suspects?"
-    pm "So, do you have any suspects?"
+    pm "那么，你心里有嫌疑人吗？"
 
 # game/code/Book-1/Chapter-5/s02.rpy:339
 translate chinese b1c05s02_0ab7b9af:
 
     # mc "Not yet. I have prospects, though. I'm focusing on getting closer to Silvia, Zemfira, and Nia for more info on the missing girls."
-    mc "Not yet. I have prospects, though. I'm focusing on getting closer to Silvia, Zemfira, and Nia for more info on the missing girls."
+    mc "还没有。不过我还是有希望的。我正集中精力接近西尔维娅、泽菲拉和妮娅，她们有望提供更多关于失踪女孩的信息。"
 
 # game/code/Book-1/Chapter-5/s02.rpy:342
 translate chinese b1c05s02_83c9a756:
 
     # pm "How close is {i}close{/i}?"
-    pm "How close is {i}close{/i}?"
+    pm "你指的是有多{i}接近{/i}？"
 
 # game/code/Book-1/Chapter-5/s02.rpy:345
 translate chinese b1c05s02_40b625fb:
 
     # mc "As close as is needed to further this investigation."
-    mc "As close as is needed to further this investigation."
+    mc "只要是进一步调查需要的，多亲近都行。"
 
 # game/code/Book-1/Chapter-5/s02.rpy:348
 translate chinese b1c05s02_616826ee:
 
     # pm "So, what, you're just gonna seduce and use as many women as you want?"
-    pm "So, what, you're just gonna seduce and use as many women as you want?"
+    pm "所以，你要引诱加利用尽可能多的女人吗？"
 
 # game/code/Book-1/Chapter-5/s02.rpy:351
 translate chinese b1c05s02_158788ee:
 
     # mc "I'm going to do whatever it takes to find out what happened to these girls, Phoebe."
-    mc "I'm going to do whatever it takes to find out what happened to these girls, Phoebe."
+    mc "我要不惜一切代价查明这些女孩到底发生了什么，菲比。"
 
 # game/code/Book-1/Chapter-5/s02.rpy:354
 translate chinese b1c05s02_e3752385:
 
     # pm "No, you're right. Sorry."
-    pm "No, you're right. Sorry."
+    pm "对，你说得对。抱歉。"
 
 # game/code/Book-1/Chapter-5/s02.rpy:355
 translate chinese b1c05s02_6837caef:
 
     # "Phoebe sighs."
-    "Phoebe sighs."
+    "菲比叹了一口气。"
 
 # game/code/Book-1/Chapter-5/s02.rpy:358
 translate chinese b1c05s02_93d07afa:
 
     # pm "I'm...I was being jealous. I'm sorry, Matthew."
-    pm "I'm...I was being jealous. I'm sorry, Matthew."
+    pm "我...我是在嫉妒。对不起，马修。"
 
 # game/code/Book-1/Chapter-5/s02.rpy:359
 translate chinese b1c05s02_1848b9ae:
 
     # pm "God, I can't believe I—"
-    pm "God, I can't believe I—"
+    pm "天啊，真不敢相信我--"
 
 # game/code/Book-1/Chapter-5/s02.rpy:362
 translate chinese b1c05s02_e0bcf701:
 
     # mc "Hey, it's fine..."
-    mc "Hey, it's fine..."
+    mc "嘿，没事的..."
 
 # game/code/Book-1/Chapter-5/s02.rpy:363
 translate chinese b1c05s02_8a7a7cd0:
 
     # mc "I want to find those girls, and bring their families closure either by finding them, or finding the truth."
-    mc "I want to find those girls, and bring their families closure either by finding them, or finding the truth."
+    mc "我想找到那些女孩，并给她们的家人带来解脱，要么找到她们，要么找到真相。"
 
 # game/code/Book-1/Chapter-5/s02.rpy:366
 translate chinese b1c05s02_3ecb4e80:
 
     # mc "But I miss you, Phoebe.{w} So much."
-    mc "But I miss you, Phoebe.{w} So much."
+    mc "但坦白说，我想你了，菲比。{w} 好想好想。"
 
 # game/code/Book-1/Chapter-5/s02.rpy:367
 translate chinese b1c05s02_735b5d46:
 
     # "Phoebe loses herself in your eyes, and you glance at her lips, remembering a time when you could have those lips anytime you wanted."
-    "Phoebe loses herself in your eyes, and you glance at her lips, remembering a time when you could have those lips anytime you wanted."
+    "菲比在你深情的眼睛里迷失了自己，你瞥见她的嘴唇，想起了你随时都可以享用这张嘴唇的时光。"
 
 # game/code/Book-1/Chapter-5/s02.rpy:370
 translate chinese b1c05s02_03cb8291:
 
     # "Phoebe catches her breath and pulls away from your hand, embarrassed."
-    "Phoebe catches her breath and pulls away from your hand, embarrassed."
+    "菲比喘了口气，尴尬地从你手里抽了出来。"
 
 # game/code/Book-1/Chapter-5/s02.rpy:371
 translate chinese b1c05s02_54c8eab4:
 
     # pm "I miss you too. It's just—I mean, we..."
-    pm "I miss you too. It's just—I mean, we..."
+    pm "我也想你。只是--我是说，我们..."
 
 # game/code/Book-1/Chapter-5/s02.rpy:374
 translate chinese b1c05s02_42a1818e:
 
     # pm "Our breakup is the right thing to do. For now, at least. Neither of us should have to give up our career for the other."
-    pm "Our breakup is the right thing to do. For now, at least. Neither of us should have to give up our career for the other."
+    pm "我们分手是对的。至少现在是这样。我们谁都不应该为了对方而放弃自己的事业。"
 
 # game/code/Book-1/Chapter-5/s02.rpy:376
 translate chinese b1c05s02_fc2c4898:
 
     # pm "I don't regret the good times we had together, Matthew.{w} I want you to know that."
-    pm "I don't regret the good times we had together, Matthew.{w} I want you to know that."
+    pm "我不后悔我们在一起的美好时光，马修。{w}我想让你知道这一点。"
 
 # game/code/Book-1/Chapter-5/s02.rpy:381
 translate chinese b1c05s02_98d19c29:
 
     # mc "Me neither."
-    mc "Me neither."
+    mc "我也是。"
 
 # game/code/Book-1/Chapter-5/s02.rpy:384
 translate chinese b1c05s02_266c1a70:
 
     # pm "Anyway, are there any other details to report?"
-    pm "Anyway, are there any other details to report?"
+    pm "好了，还有什么其他细节要报告的吗？"
 
 # game/code/Book-1/Chapter-5/s02.rpy:387
 translate chinese b1c05s02_fca52711:
 
     # mc "No."
-    mc "No."
+    mc "没了。"
 
 # game/code/Book-1/Chapter-5/s02.rpy:388
 translate chinese b1c05s02_f4740924:
 
     # pm "Good, let's wrap this up then."
-    pm "Good, let's wrap this up then."
+    pm "好，那我们就结束吧。"
 
 # game/code/Book-1/Chapter-5/s02.rpy:395
 translate chinese b1c05s02_290a7473:
 
     # mc "Oh, there is one thing, though."
-    mc "Oh, there is one thing, though."
+    mc "哦，不过有一件事。"
 
 # game/code/Book-1/Chapter-5/s02.rpy:398
 translate chinese b1c05s02_8e9c6693:
 
     # pm "What is it?"
-    pm "What is it?"
+    pm "什么事？"
 
 # game/code/Book-1/Chapter-5/s02.rpy:401
 translate chinese b1c05s02_c3fe13c3:
 
     # mc "The girl that knows my identity, Josie Hawthorne. She's curious as to why I changed my name."
-    mc "The girl that knows my identity, Josie Hawthorne. She's curious as to why I changed my name."
+    mc "那个知道我身份的女孩，乔西·霍桑。她很好奇我为什么改名。"
 
 # game/code/Book-1/Chapter-5/s02.rpy:402
 translate chinese b1c05s02_20c468ec:
 
     # mc "I need an explanation for her, though I'm not sure what to say.{w} I'm worried she'll ask about it in front of someone and blow my cover, though."
-    mc "I need an explanation for her, though I'm not sure what to say.{w} I'm worried she'll ask about it in front of someone and blow my cover, though."
+    mc "我需要给她一个解释，虽然我不知道该怎么说。{w}但我担心她会在别人面前问起这件事，然后揭穿我的身份。"
 
 # game/code/Book-1/Chapter-5/s02.rpy:405
 translate chinese b1c05s02_b9497439:
 
     # pm "Tell her you went through an identity change or something. Had a falling out with your father, and now you want to distance yourself from him."
-    pm "Tell her you went through an identity change or something. Had a falling out with your father, and now you want to distance yourself from him."
+    pm "告诉她你换了全新面貌之类的借口。就说之前和你父亲闹翻了，现在你想和他保持距离。"
 
 # game/code/Book-1/Chapter-5/s02.rpy:408
 translate chinese b1c05s02_b6362f5b:
 
     # pm "I can play the part, too. Make him seem like a real asshole."
-    pm "I can play the part, too. Make him seem like a real asshole."
+    pm "我也可以扮演这个角色。让他看起来像个真正的混蛋。"
 
 # game/code/Book-1/Chapter-5/s02.rpy:411
 translate chinese b1c05s02_9951e21a:
 
     # mc "I'm not sure she'll buy that."
-    mc "I'm not sure she'll buy that."
+    mc "不知道她会不会相信。"
 
 # game/code/Book-1/Chapter-5/s02.rpy:414
 translate chinese b1c05s02_8d9b0541:
 
     # pm "You'd be surprised what you can convince people of if you're a good enough liar. Did she ever see your real mother?"
-    pm "You'd be surprised what you can convince people of if you're a good enough liar. Did she ever see your real mother?"
+    pm "如果你的骗术高超，你会惊讶于别人对你的信服。她见过你的亲生母亲吗？"
 
 # game/code/Book-1/Chapter-5/s02.rpy:417
 translate chinese b1c05s02_77329a7d:
 
     # mc "I don't think so. We didn't hang out much outside of school or social gatherings. She didn't come over to my place or hang out with my family."
-    mc "I don't think so. We didn't hang out much outside of school or social gatherings. She didn't come over to my place or hang out with my family."
+    mc "应该没有。除了学校和社交聚会，我们很少出去玩。她没来过我家，也没和我的家人一起出去玩过。"
 
 # game/code/Book-1/Chapter-5/s02.rpy:418
 translate chinese b1c05s02_6e7df188:
 
     # mc "Besides, with these gray hairs, you'll pass for my mother easily enough."
-    mc "Besides, with these gray hairs, you'll pass for my mother easily enough."
+    mc "再说，你长了这些白头发，会很容易地被当作我妈妈。"
 
 # game/code/Book-1/Chapter-5/s02.rpy:421
 translate chinese b1c05s02_80a512c4:
 
     # pm "Alright, alright. Don't wear out your welcome, now."
-    pm "Alright, alright. Don't wear out your welcome, now."
+    pm "好吧，好吧。现在，可不要扫兴哦。"
 
 # game/code/Book-1/Chapter-5/s02.rpy:423
 translate chinese b1c05s02_6dc4442d:
 
     # "You chuckle and savor Phoebe's genuine smile, her happiness, her humor."
-    "You chuckle and savor Phoebe's genuine smile, her happiness, her humor."
+    "你咯咯地笑着，品味菲比真诚的微笑、她的快乐和她的幽默。"
 
 # game/code/Book-1/Chapter-5/s02.rpy:425
 translate chinese b1c05s02_362c69a6:
 
     # "Phoebe averts her eyes and looks toward the wall again."
-    "Phoebe averts her eyes and looks toward the wall again."
+    "菲比把目光移开，再次看向墙壁。"
 
 # game/code/Book-1/Chapter-5/s02.rpy:427
 translate chinese b1c05s02_da8a67df:
 
     # pm "Well, we did some good work, rookie."
-    pm "Well, we did some good work, rookie."
+    pm "嗯，我们干得不错，菜鸟。"
 
 # game/code/Book-1/Chapter-5/s02.rpy:430
 translate chinese b1c05s02_45b7e52e:
 
     # mc "Pheebs, I'm not a rookie. And I think {i}{b}I{/b}{/i} have done most of the work here."
-    mc "Pheebs, I'm not a rookie. And I think {i}{b}I{/b}{/i} have done most of the work here."
+    mc "菲比，我不是菜鸟。我觉得这里的大部分工作都是由{i}{b}我{/b}{/i}完成的。"
 
 # game/code/Book-1/Chapter-5/s02.rpy:433
 translate chinese b1c05s02_06cda1a2:
 
     # pm "You'll get it when you're my age and in my position."
-    pm "You'll get it when you're my age and in my position."
+    pm "等你到了我这个年纪，在我这个位置上，你就会明白的。"
 
 # game/code/Book-1/Chapter-5/s02.rpy:436
 translate chinese b1c05s02_59c180e5:
 
     # mc "Oh my god."
-    mc "Oh my god."
+    mc "不是吧。"
 
 # game/code/Book-1/Chapter-5/s02.rpy:439
 translate chinese b1c05s02_f6382147:
 
     # mc "I should get going, {i}mom{/i}."
-    mc "I should get going, {i}mom{/i}."
+    mc "我该走了，{i}老妈{/i}。"
 
 # game/code/Book-1/Chapter-5/s02.rpy:442
 translate chinese b1c05s02_6db449c2:
 
     # pm "Hah! That was a low blow. Not that I expect anything else."
-    pm "Hah! That was a low blow. Not that I expect anything else."
+    pm "哈！真卑鄙。我也不指望别的了。"
 
 # game/code/Book-1/Chapter-5/s02.rpy:446
 translate chinese b1c05s02_03afe053:
 
     # "You both chuckle, enjoying the fun banter."
-    "You both chuckle, enjoying the fun banter."
+    "你们俩都咯咯地笑着，享受着这种有趣的玩笑。"
 
 # game/code/Book-1/Chapter-5/s02.rpy:449
 translate chinese b1c05s02_55114c40:
 
     # pm "Alright, alright. You should get back to work, though."
-    pm "Alright, alright. You should get back to work, though."
+    pm "好吧，好吧。话说，你应该回去工作了。"
 
 # game/code/Book-1/Chapter-5/s02.rpy:450
 translate chinese b1c05s02_09c854b3:
 
     # pm "I'll look into Leia and Zemfira's peers and see if I can find anything that might get to you closer to that group Leia was involved in."
-    pm "I'll look into Leia and Zemfira's peers and see if I can find anything that might get to you closer to that group Leia was involved in."
+    pm "我会调查莱娅和泽菲拉的同伴，看能不能找到什么线索，让你更接近莱娅所在的那个组织。"
 
 # game/code/Book-1/Chapter-5/s02.rpy:453
 translate chinese b1c05s02_86ce6050:
 
     # mc "Thank you, Phoebe."
-    mc "Thank you, Phoebe."
+    mc "谢谢你，菲比。"
 
 # game/code/Book-1/Chapter-5/s02.rpy:459
 translate chinese b1c05s02_dcca5a80:
 
     # pm "Alright, it's time you get back out there, Matthew."
-    pm "Alright, it's time you get back out there, Matthew."
+    pm "好了，你该出去了，马修。"
 
 # game/code/Book-1/Chapter-5/s02.rpy:462
 translate chinese b1c05s02_40595152:
 
     # mc "Sure thing. I'll talk to you later Phoebe."
-    mc "Sure thing. I'll talk to you later Phoebe."
+    mc "没问题，回头再聊，菲比。"
 
 translate chinese strings:
 
     # game/code/Book-1/Chapter-5/s02.rpy:4
     old "The next morning\nPhoebe's Apartment"
-    new "The next morning\nPhoebe's Apartment"
+    new "第二天早上\n菲比的公寓"
 
 # TODO: Translation updated at 2023-07-19 11:38
 
@@ -894,5 +894,5 @@ translate chinese strings:
 
     # game/code/Book-1/Chapter-5/s02.rpy:392
     old "Investigation Board Reorganized"
-    new "Investigation Board Reorganized"
+    new "重新组织调查分析"
 

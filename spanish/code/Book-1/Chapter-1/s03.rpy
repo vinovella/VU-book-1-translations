@@ -34,7 +34,7 @@ translate spanish b1c01s03_29439a04:
 translate spanish b1c01s03_d9a776b0:
 
     # "{color=#750762}Girl{/color}" "No—this is MY room! You better run while you can, before I start throwing the fucking furniture your way." (who_outlines=[(1, "#e1e1e1", 0, 0)], kerning=1)
-    "{color=#750762}Chica{/color}" "No, ¡esta es MI habitación! Será mejor que corras mientras puedas, antes de que empiece a tirarte los jodidos muebles." (who_outlines=[(1, "#e1e1e1", 0, 0)], kerning=1)
+    "{color=#750762}Chica{/color}" "No, ¡esta es MI habitación! Será mejor que corras mientras puedas, antes de que empiece a tirarte los malditos muebles." (who_outlines=[(1, "#e1e1e1", 0, 0)], kerning=1)
 
 # game/code/Book-1/Chapter-1/s03.rpy:79
 translate spanish b1c01s03_8d355a05:
@@ -70,7 +70,7 @@ translate spanish b1c01s03_0799b766:
 translate spanish b1c01s03_28164f22:
 
     # mc "Okay, okay, let me get clothes on. Call Silvia, I'm sure this is just—"
-    mc "Está bien, está bien, déjame ponerme la ropa. Llama a Silvia, estoy seguro de que esto es solo—"
+    mc "Está bien, está bien, déjame vestirme. Llama a Silvia, seguro que esto es..."
 
 # game/code/Book-1/Chapter-1/s03.rpy:95
 translate spanish b1c01s03_de96e9b8:
@@ -82,7 +82,7 @@ translate spanish b1c01s03_de96e9b8:
 translate spanish b1c01s03_c21cd7d0:
 
     # "{color=#750762}Girl{/color}" "Hey Yoogle, call Silvia!" (who_outlines=[(1, "#e1e1e1", 0, 0)], kerning=1)
-    "{color=#750762}Chica{/color}" "¡Hola, Yoogle, llama a Silvia!" (who_outlines=[(1, "#e1e1e1", 0, 0)], kerning=1)
+    "{color=#750762}Chica{/color}" "¡Hey, Yoogle, llama a Silvia!" (who_outlines=[(1, "#e1e1e1", 0, 0)], kerning=1)
 
 # game/code/Book-1/Chapter-1/s03.rpy:113
 translate spanish b1c01s03_e6ef58cf:

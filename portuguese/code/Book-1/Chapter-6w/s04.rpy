@@ -469,10 +469,10 @@ translate portuguese b1c06ws04_216f6332:
     mc "Mas estou triste que não fui aceito aqui ainda."
 
 # game/code/Book-1/Chapter-6w/s04.rpy:251
-translate portuguese b1c06ws04_e0ed0b4c:
+translate portuguese b1c06ws04_9a9e96d2:
 
-    # sm "You will be! I promise. Iona and Oleysa like you fine."
-    sm "Você vai! Eu prometo. Iona e Oleysa gostam de você."
+    # sm "You will be! I promise. Iona and Olesya like you fine."
+    sm "Você vai! Eu prometo. Iona e Olesya gostam de você."
 
 # game/code/Book-1/Chapter-6w/s04.rpy:252
 translate portuguese b1c06ws04_5c2ebc47:
@@ -484,7 +484,7 @@ translate portuguese b1c06ws04_5c2ebc47:
 translate portuguese b1c06ws04_3f2b0da5:
 
     # mc "I know. And I really appreciate you. I just hope the others come around as fully as you, Iona, and Olesya did, though."
-    mc "Eu sei. E eu agradeço. Só espero que os outros me aceitem tanto quanto você, Iona e Oleysa."
+    mc "Eu sei. E eu agradeço. Só espero que os outros me aceitem tanto quanto você, Iona e Olesya."
 
 # game/code/Book-1/Chapter-6w/s04.rpy:257
 translate portuguese b1c06ws04_684f0f0e:
@@ -983,4 +983,3 @@ translate portuguese strings:
     # game/code/Book-1/Chapter-6w/s04.rpy:306
     old "Remember about Sam"
     new "Lembrar da Sam"
-

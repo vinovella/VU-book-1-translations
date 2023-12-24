@@ -34,7 +34,7 @@ translate spanish b1c01s02_73c7a96d:
 translate spanish b1c01s02_1cb54563:
 
     # sm "This is our entrance hall. It's usually pretty busy here, but over there is the front desk."
-    sm "Este es nuestro hall de entrada. Por lo general, está bastante ocupado aquí, pero allí está la recepción."
+    sm "Este es nuestro vestíbulo. Suele estar bastante concurrido, y allí está la recepción."
 
 # game/code/Book-1/Chapter-1/s02.rpy:27
 translate spanish b1c01s02_91c56b3b:
@@ -46,7 +46,7 @@ translate spanish b1c01s02_91c56b3b:
 translate spanish b1c01s02_e4cb4e72:
 
     # sm "She can help you with any general information you might need, but mostly she just greets students and keeps track of who enters the campus."
-    sm "Ella puede ayudarlo con cualquier información general que pueda necesitar, pero principalmente solo saluda a los estudiantes y realiza un seguimiento de quién ingresa al campus."
+    sm "Puede ayudarte con cualquier información general que necesites, pero sobre todo se limita a saludar a los estudiantes y a controlar quién entra en el campus."
 
 # game/code/Book-1/Chapter-1/s02.rpy:31
 translate spanish b1c01s02_6fb1465c:
@@ -88,19 +88,19 @@ translate spanish b1c01s02_8a7f2635:
 translate spanish b1c01s02_a558972b:
 
     # sm "But I'm glad it's not discouraging anyone from joining Vinovella University, though."
-    sm "Pero me alegro de que no desanime a nadie de unirse a la Universidad Vinovella."
+    sm "Pero me alegro de que no desanime a nadie a matricularse en la Universidad Vinovella."
 
 # game/code/Book-1/Chapter-1/s02.rpy:59
 translate spanish b1c01s02_dfbff173:
 
     # sm "Apart from that, my time here has been really fun. I've really enjoyed the community here."
-    sm "Aparte de eso, mi tiempo aquí ha sido muy divertido. Realmente he disfrutado de la comunidad aquí."
+    sm "Aparte de eso, mi estancia aquí ha sido muy divertida. He disfrutado mucho de su comunidad."
 
 # game/code/Book-1/Chapter-1/s02.rpy:63
 translate spanish b1c01s02_db5279f1:
 
     # sm "I'm sure you'll feel at home here in no time!"
-    sm "Estoy segura de que enseguida se sentirá como en casa."
+    sm "Estoy segura de que enseguida te sentirás como en casa."
 
 # game/code/Book-1/Chapter-1/s02.rpy:65
 translate spanish b1c01s02_9c553107:
@@ -112,7 +112,7 @@ translate spanish b1c01s02_9c553107:
 translate spanish b1c01s02_80983362:
 
     # mc "I'm certainly excited to start a new beginning here."
-    mc "Estoy muy ilusionado por empezar un nuevo comienzo aquí."
+    mc "Estoy muy ilusionado por tener un nuevo comienzo aquí."
 
 # game/code/Book-1/Chapter-1/s02.rpy:69
 translate spanish b1c01s02_e665b6da:
@@ -214,7 +214,7 @@ translate spanish b1c01s02_2a9308a8:
 translate spanish b1c01s02_64c197a3:
 
     # sm "It kept going as a private school. Then, in 1949, the college became a public university, and it was named after Vinovella, and that's where we are today."
-    sm "Siguió funcionando como una escuela privada. Luego, en 1949, el colegio se convirtió en una universidad pública, y tomó el nombre de Vinovella, y ahí estamos hoy."
+    sm "Siguió funcionando como colegio privado. Luego, en 1949, el colegio se convirtió en una universidad pública, y se le dio el nombre de Vinovella, y ahí es donde estamos hoy."
 
 # game/code/Book-1/Chapter-1/s02.rpy:108
 translate spanish b1c01s02_54d2d4b0:
@@ -262,13 +262,13 @@ translate spanish b1c01s02_16aac6f9:
 translate spanish b1c01s02_41f12698:
 
     # sm "You'll probably see her again when you pick up your textbooks for class. She's really nice."
-    sm "Probablemente la vuelvas a ver cuando recojas tus libros de texto para la clase. Ella es muy buena."
+    sm "Probablemente la volverás a ver cuando recojas tus libros de texto para clase. Ella es muy simpática."
 
 # game/code/Book-1/Chapter-1/s02.rpy:139
 translate spanish b1c01s02_d0682b76:
 
     # sm "And that's Mrs. Mills. She's very involved with our school."
-    sm "Y esa es la Sra. Mills. Ella está muy involucrada con nuestra escuela."
+    sm "Y ella es la Sra. Mills. Está muy involucrada con nuestra escuela."
 
 # game/code/Book-1/Chapter-1/s02.rpy:141
 translate spanish b1c01s02_f7670830:
@@ -322,7 +322,7 @@ translate spanish b1c01s02_302ed4a7:
 translate spanish b1c01s02_f6735cb1:
 
     # dm "I've been assigned as your faculty advisor."
-    dm "Me han asignado como su asesora de la facultad."
+    dm "Me han asignado como tu asesora de la facultad."
 
 # game/code/Book-1/Chapter-1/s02.rpy:162
 translate spanish b1c01s02_31bd77c3:
@@ -334,7 +334,7 @@ translate spanish b1c01s02_31bd77c3:
 translate spanish b1c01s02_44dca403:
 
     # mc "Will do. I'll come by your office later."
-    mc "Servirá. Pasaré por tu oficina más tarde."
+    mc "Lo haré. Pasaré por tu oficina más tarde."
 
 # game/code/Book-1/Chapter-1/s02.rpy:168
 translate spanish b1c01s02_9ca43e85:
@@ -358,7 +358,7 @@ translate spanish b1c01s02_b95842db:
 translate spanish b1c01s02_4fb8ccd0:
 
     # sm "Sometimes outside organizations hold seminars here for students to sign up. But otherwise, it's pretty boring."
-    sm "A veces, organizaciones externas organizan seminarios aquí para que los estudiantes se inscriban. Pero por lo demás, es bastante aburrido."
+    sm "A veces, organizaciones externas organizan seminarios para que los estudiantes se inscriban. Pero por lo demás, es bastante aburrido."
 
 # game/code/Book-1/Chapter-1/s02.rpy:180
 translate spanish b1c01s02_b3dc47bb:
@@ -388,7 +388,7 @@ translate spanish b1c01s02_f9b0c0f8:
 translate spanish b1c01s02_3b0296d8:
 
     # mc "Sounds like fun! Maybe I'll sit in on one of your games sometime."
-    mc "¡Suena divertido! Tal vez me siente en uno de tus juegos en algún momento."
+    mc "Suena divertido. Tal vez me siente a presenciar uno de tus partidos alguna vez."
 
 # game/code/Book-1/Chapter-1/s02.rpy:193
 translate spanish b1c01s02_06cc6f4b:
@@ -418,7 +418,7 @@ translate spanish b1c01s02_05795021:
 translate spanish b1c01s02_df1afb69:
 
     # sm "We do all the usual activities here, such as eating and dropping food."
-    sm "Aquí hacemos todas las actividades habituales, como comer y tirar comida."
+    sm "Aquí realizamos todas las actividades habituales, como comer y tirar la comida."
 
 # game/code/Book-1/Chapter-1/s02.rpy:217
 translate spanish b1c01s02_559012ed:
@@ -436,7 +436,7 @@ translate spanish b1c01s02_7804a3da:
 translate spanish b1c01s02_bcb93833:
 
     # sm "Even animals are cleaner than some of the people here are."
-    sm "Incluso los animales son más limpios que algunas de las personas aquí."
+    sm "Incluso los animales son más limpios que algunas de las personas de aquí."
 
 # game/code/Book-1/Chapter-1/s02.rpy:223
 translate spanish b1c01s02_c1e7f53c:
@@ -478,7 +478,7 @@ translate spanish b1c01s02_4f196be6:
 translate spanish b1c01s02_59625e40:
 
     # mc "I won—"
-    mc "Gané-"
+    mc "Gané..."
 
 # game/code/Book-1/Chapter-1/s02.rpy:248
 translate spanish b1c01s02_c7d9f250:
@@ -628,7 +628,7 @@ translate spanish b1c01s02m01_6b1e6fa2:
 translate spanish b1c01s02m01_5b5d0966:
 
     # mc "What crawled up her ass and died?"
-    mc "¿Qué se metió por el culo y murió?"
+    mc "¿Qué se le metió por el culo y se le murió?"
 
 # game/code/Book-1/Chapter-1/s02.rpy:386
 translate spanish b1c01s02m01_96619ca0:
@@ -640,7 +640,7 @@ translate spanish b1c01s02m01_96619ca0:
 translate spanish b1c01s02m01_e5dc686b:
 
     # sm "I think she's just...temperamental."
-    sm "Creo que solo es... temperamental."
+    sm "Creo que sólo es... temperamental."
 
 # game/code/Book-1/Chapter-1/s02.rpy:391
 translate spanish b1c01s02m01_26aeaae3:

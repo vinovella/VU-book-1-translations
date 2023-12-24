@@ -58,7 +58,7 @@ translate spanish b1c06ws01_06b38160:
 translate spanish b1c06ws01_7816b529:
 
     # lw "Hey! What are you doing?"
-    lw "¡Ey! ¿Qué estás haciendo?"
+    lw "¡Hey! ¿Qué estás haciendo?"
 
 # game/code/Book-1/Chapter-6w/s01.rpy:67
 translate spanish b1c06ws01_f5a8e2b8:
@@ -82,7 +82,7 @@ translate spanish b1c06ws01_3470d9f0:
 translate spanish b1c06ws01_19d56505:
 
     # ir "Someone's a little grouchy."
-    ir "Alguien está un poco gruñón."
+    ir "Alguien está un poco gruñona."
 
 # game/code/Book-1/Chapter-6w/s01.rpy:79
 translate spanish b1c06ws01_adbfe886:
@@ -232,7 +232,7 @@ translate spanish b1c06ws01_311b5209:
 translate spanish b1c06ws01_c95d78a9:
 
     # ir "That's for me to know and you to find out, hotshot."
-    ir "Eso es para que yo lo sepa y tú lo descubras, pez gordo."
+    ir "Eso es para que yo lo sepa y tú lo descubras."
 
 # game/code/Book-1/Chapter-6w/s01.rpy:137
 translate spanish b1c06ws01_ac06d7f0:
@@ -340,19 +340,19 @@ translate spanish b1c06ws01_58deeb90:
 translate spanish b1c06ws01_c51d684d:
 
     # mct "Heh, I know a joke that will get her."
-    mct "Heh, sé una broma que la atrapará."
+    mct "Heh, sé una broma que la sorprenderá."
 
 # game/code/Book-1/Chapter-6w/s01.rpy:192
 translate spanish b1c06ws01_6336810d:
 
     # mc "Parry this, you filthy casual."
-    mc "Detén esto, mugrosa descuidada."
+    mc "Detén esto, cobarde asquerosa."
 
 # game/code/Book-1/Chapter-6w/s01.rpy:195
 translate spanish b1c06ws01_c6e487ad:
 
     # lw "Hey!"
-    lw "¡Ey!"
+    lw "¡Hey!"
 
 # game/code/Book-1/Chapter-6w/s01.rpy:198
 translate spanish b1c06ws01_ec550ec8:
@@ -383,3 +383,4 @@ translate spanish b1c06ws01_9b64e055:
 
     # mc "*Laughs* Of course."
     mc "*Risas* Por supuesto."
+

@@ -52,7 +52,7 @@ translate spanish b1c06ws07_11455b53:
 translate spanish b1c06ws07_cd2c1b55:
 
     # ir "Silvia. Context clues, babe. C'mon."
-    ir "Silvia. Pistas de contexto, cariño. Vamos."
+    ir "Silvia, cariño. Vamos."
 
 # game/code/Book-1/Chapter-6w/s07.rpy:53
 translate spanish b1c06ws07_d77a2c04:
@@ -394,7 +394,7 @@ translate spanish b1c06ws07_79ff6b1a:
 translate spanish b1c06ws07_e1b111a9:
 
     # "You hold onto her tightly in your arms as you feel her insides pulse with pleasure, milking the last drops of your cum from your cock."
-    "La abrazas con fuerza mientras sientes su interior palpitar de placer, ordeñando las últimas gotas de tu semen de tu polla."
+    "La abrazas con fuerza mientras sientes su interior palpitar de placer, ordeñando las últimas gotas de semen de tu polla."
 
 # game/code/Book-1/Chapter-6w/s07.rpy:280
 translate spanish b1c06ws07_1022f1af:

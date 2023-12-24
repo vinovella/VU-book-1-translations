@@ -120,7 +120,7 @@ translate spanish strings:
 
     # game/code/data/ib_characters.rpy:9
     old "Theater Major"
-    new "Especialización en Teatro"
+    new "Licenciatura en Teatro"
 
     # game/code/data/ib_characters.rpy:9
     old "Brigitta"
@@ -192,7 +192,7 @@ translate spanish strings:
 
     # game/code/data/ib_characters.rpy:9
     old "Medical"
-    new "Médico"
+    new "Medicina"
 
     # game/code/data/ib_characters.rpy:9
     old "Lara"
@@ -240,7 +240,7 @@ translate spanish strings:
 
     # game/code/data/ib_characters.rpy:9
     old "The Artist"
-    new "El artista"
+    new "La Artista"
 
     # game/code/data/ib_characters.rpy:9
     old "Artist"
@@ -256,7 +256,7 @@ translate spanish strings:
 
     # game/code/data/ib_characters.rpy:9
     old "Faculty Advisor & History Professor"
-    new "Consejero de la facultad y profesor de historia"
+    new "Consejera de la facultad y profesora de historia"
 
     # game/code/data/ib_characters.rpy:9
     old "Abel"
@@ -264,7 +264,7 @@ translate spanish strings:
 
     # game/code/data/ib_characters.rpy:9
     old "Physical Education Teacher"
-    new "Profesor de educación física"
+    new "Profesora de educación física"
 
     # game/code/data/ib_characters.rpy:9
     old "Ronja"
@@ -276,7 +276,7 @@ translate spanish strings:
 
     # game/code/data/ib_characters.rpy:9
     old "Chancellor & Chemistry Professor"
-    new "Canciller y Profesor de Química"
+    new "Consejera y Profesora de Química"
 
     # game/code/data/ib_characters.rpy:9
     old "Leia"
@@ -288,7 +288,7 @@ translate spanish strings:
 
     # game/code/data/ib_characters.rpy:9
     old "Law"
-    new "Ley"
+    new "Derecho"
 
     # game/code/data/ib_characters.rpy:9
     old "Klara"
@@ -312,7 +312,7 @@ translate spanish strings:
 
     # game/code/data/ib_characters.rpy:9
     old "History"
-    new "Historial"
+    new "Historia"
 
     # game/code/data/ib_characters.rpy:48
     old "Gaia \"Lilith\""
