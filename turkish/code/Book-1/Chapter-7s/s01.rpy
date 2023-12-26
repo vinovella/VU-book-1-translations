@@ -640,4 +640,4 @@ translate turkish strings:
 
     # game/code/Book-1/Chapter-7s/s01.rpy:6
     old "At the cafeteria\nAfter morning classes"
-    new "Kafeteryada\NSabah derslerinden sonra"
+    new "Kafeteryada\nSabah derslerinden sonra"

@@ -574,5 +574,5 @@ translate turkish strings:
 
     # game/code/Book-1/Chapter-6w/s05.rpy:273
     old "Later that evening\nBack at the dorm"
-    new "O akşam ilerleyen saatlerde\NYurda geri dön"
+    new "O akşam ilerleyen saatlerde\nYurda geri dön"
 

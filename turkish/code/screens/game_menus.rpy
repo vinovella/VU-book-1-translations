@@ -236,7 +236,7 @@ translate turkish strings:
 
     # game/code/screens/game_menus.rpy:579
     old "Mouse Wheel Up\nClick Rollback Side"
-    new "Fare tekerleği yukarı\NGeri Alma Tarafına tıklayın"
+    new "Fare tekerleği yukarı\nGeri Alma Tarafına tıklayın"
 
     # game/code/screens/game_menus.rpy:583
     old "Mouse Wheel Down"
@@ -244,11 +244,11 @@ translate turkish strings:
 
     # game/code/screens/game_menus.rpy:590
     old "Right Trigger\nA/Bottom Button"
-    new "Doğru tetik\NA/Alt Düğme"
+    new "Doğru tetik\nA/Alt Düğme"
 
     # game/code/screens/game_menus.rpy:594
     old "Left Trigger\nLeft Shoulder"
-    new "Sol Tetik\NSol omuz"
+    new "Sol Tetik\nSol omuz"
 
     # game/code/screens/game_menus.rpy:598
     old "Right Shoulder"

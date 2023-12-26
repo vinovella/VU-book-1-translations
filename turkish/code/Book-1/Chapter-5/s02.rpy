@@ -886,7 +886,7 @@ translate turkish strings:
 
     # game/code/Book-1/Chapter-5/s02.rpy:4
     old "The next morning\nPhoebe's Apartment"
-    new "Sonraki sabah\NPhoebe'nin Dairesi"
+    new "Sonraki sabah\nPhoebe'nin Dairesi"
 
     # game/code/Book-1/Chapter-5/s02.rpy:392
     old "Investigation Board Reorganized"

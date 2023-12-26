@@ -482,5 +482,5 @@ translate turkish strings:
 
     # game/code/Book-1/Chapter-7/s02.rpy:174
     old "Some time later\nWith Diana"
-    new "Bir süre sonra\NDiana'yla"
+    new "Bir süre sonra\nDiana'yla"
 

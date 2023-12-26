@@ -724,7 +724,7 @@ translate turkish strings:
 
     # game/code/Book-1/Chapter-7w/s09.rpy:21
     old "Later that evening\nAt Sam's dorm"
-    new "O akşam ilerleyen saatlerde\NSam'in yurdunda"
+    new "O akşam ilerleyen saatlerde\nSam'in yurdunda"
 
     # game/code/Book-1/Chapter-7w/s09.rpy:52
     old "Kiss her back"
