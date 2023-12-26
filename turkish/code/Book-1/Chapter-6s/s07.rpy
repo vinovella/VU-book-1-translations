@@ -90,12 +90,6 @@ translate turkish b1c06ss07_3179f633:
     # ffl "*Breathes deeply and giggles* I'm so happy you're not weirded out."
     ffl "*Derin nefes alır ve kıkırdar* Şaşırmadığın için çok mutluyum."
 
-# game/code/Book-1/Chapter-6s/s07.rpy:115
-translate turkish b1c06ss07_d107cfb4:
-
-    # ffl "Uhm, we should probably go to my bed, though. I don't want to mess up Ellina's side."
-    ffl "Hımm, muhtemelen yatağıma gitmeliyiz. Ellina'nın tarafını berbat etmek istemiyorum."
-
 # game/code/Book-1/Chapter-6s/s07.rpy:118
 translate turkish b1c06ss07_fe50db9a:
 
@@ -540,3 +534,8 @@ translate turkish strings:
     old "At Fleur's dorm"
     new "Fleur'un yurdunda"
 
+# game/code/Book-1/Chapter-6s/s07.rpy:115
+translate turkish b1c06ss07_b06929e9:
+
+    # ffl "Uhm, we should probably go to my bed, though. I don't want to mess up Eliina's side."
+    ffl "Hımm, muhtemelen yatağıma gitmeliyiz. Eliina'nın tarafını berbat etmek istemiyorum."

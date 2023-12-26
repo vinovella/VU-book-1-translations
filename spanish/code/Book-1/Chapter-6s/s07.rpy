@@ -90,12 +90,6 @@ translate spanish b1c06ss07_3179f633:
     # ffl "*Breathes deeply and giggles* I'm so happy you're not weirded out."
     ffl "*Respira profundamente y se ríe* Estoy tan feliz de que no te sientas raro."
 
-# game/code/Book-1/Chapter-6s/s07.rpy:115
-translate spanish b1c06ss07_d107cfb4:
-
-    # ffl "Uhm, we should probably go to my bed, though. I don't want to mess up Ellina's side."
-    ffl "Uhm, probablemente deberíamos ir a mi cama. No quiero desordenar la cama de Ellina."
-
 # game/code/Book-1/Chapter-6s/s07.rpy:118
 translate spanish b1c06ss07_fe50db9a:
 
@@ -540,3 +534,8 @@ translate spanish strings:
     old "At Fleur's dorm"
     new "En el dormitorio de Fleur"
 
+# game/code/Book-1/Chapter-6s/s07.rpy:115
+translate spanish b1c06ss07_b06929e9:
+
+    # ffl "Uhm, we should probably go to my bed, though. I don't want to mess up Eliina's side."
+    ffl "Uhm, probablemente deberíamos ir a mi cama. No quiero desordenar la cama de Eliina."

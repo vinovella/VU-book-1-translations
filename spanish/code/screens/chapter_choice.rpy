@@ -22,3 +22,11 @@ translate spanish strings:
     old "You have already investigated "
     new "Ya has investigado "
 
+# TODO: Translation updated at 2023-12-26 12:28
+
+translate spanish strings:
+
+    # game/code/screens/chapter_choice.rpy:84
+    old "You cannot investigate this group anymore"
+    new "You cannot investigate this group anymore"
+
