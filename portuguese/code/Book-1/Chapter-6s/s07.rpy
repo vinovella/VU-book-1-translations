@@ -90,12 +90,6 @@ translate portuguese b1c06ss07_3179f633:
     # ffl "*Breathes deeply and giggles* I'm so happy you're not weirded out."
     ffl "*Respira fundo e ri* Estou tão feliz que você não está me achando estranha."
 
-# game/code/Book-1/Chapter-6s/s07.rpy:117
-translate portuguese b1c06ss07_d107cfb4:
-
-    # ffl "Uhm, we should probably go to my bed, though. I don't want to mess up Ellina's side."
-    ffl "Ahm, mas talvez seja melhor a gente deitar na minha cama. Não quero bagunçar o canto da Eliina."
-
 # game/code/Book-1/Chapter-6s/s07.rpy:120
 translate portuguese b1c06ss07_fe50db9a:
 
@@ -540,3 +534,8 @@ translate portuguese strings:
     old "At Fleur's dorm"
     new "No quarto da Fleur"
 
+# game/code/Book-1/Chapter-6s/s07.rpy:115
+translate portuguese b1c06ss07_b06929e9:
+
+    # ffl "Uhm, we should probably go to my bed, though. I don't want to mess up Eliina's side."
+    ffl "Ahm, mas talvez seja melhor a gente deitar na minha cama. Não quero bagunçar o canto da Eliina."

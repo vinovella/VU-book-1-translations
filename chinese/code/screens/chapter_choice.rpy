@@ -22,3 +22,11 @@ translate chinese strings:
     old "You have already investigated "
     new "You have already investigated "
 
+# TODO: Translation updated at 2023-12-26 12:32
+
+translate chinese strings:
+
+    # game/code/screens/chapter_choice.rpy:84
+    old "You cannot investigate this group anymore"
+    new "You cannot investigate this group anymore"
+

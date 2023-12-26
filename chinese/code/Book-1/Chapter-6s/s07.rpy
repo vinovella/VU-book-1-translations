@@ -90,12 +90,6 @@ translate chinese b1c06ss07_3179f633:
     # ffl "*Breathes deeply and giggles* I'm so happy you're not weirded out."
     ffl "*深吸一口气，咯咯地笑* 我很高兴你没有被吓到。"
 
-# game/code/Book-1/Chapter-6s/s07.rpy:117
-translate chinese b1c06ss07_d107cfb4:
-
-    # ffl "Uhm, we should probably go to my bed, though. I don't want to mess up Ellina's side."
-    ffl "呃，我们还是去我的床上吧。我不想把爱丽娜这边弄乱了。"
-
 # game/code/Book-1/Chapter-6s/s07.rpy:120
 translate chinese b1c06ss07_fe50db9a:
 
@@ -540,3 +534,8 @@ translate chinese strings:
     old "At Fleur's dorm"
     new "芙蓉的宿舍"
 
+# game/code/Book-1/Chapter-6s/s07.rpy:115
+translate chinese b1c06ss07_b06929e9:
+
+    # ffl "Uhm, we should probably go to my bed, though. I don't want to mess up Eliina's side."
+    ffl "呃，我们还是去我的床上吧。我不想把爱丽娜这边弄乱了。"
