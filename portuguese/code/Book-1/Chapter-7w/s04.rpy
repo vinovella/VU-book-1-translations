@@ -466,7 +466,7 @@ translate portuguese b1c07ws04_8793a23b:
 translate portuguese b1c07ws04_674388f4:
 
     # oa "*Giggles* {size=20}You got it.{/size}"
-    oa "*Risos* {size=20}Pode apostar."
+    oa "*Risos* {size=20}Pode apostar.{/size}"
 
 # game/code/Book-1/Chapter-7w/s04.rpy:348
 translate portuguese b1c07ws04_ddf44143:

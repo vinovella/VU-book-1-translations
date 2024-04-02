@@ -226,7 +226,7 @@ translate chinese b1c07ss01_37cd6f1a:
 translate chinese b1c07ss01_e706fb91:
 
     # zp "Yeah, but it's {i}fun{/i}."
-    zp "是，但它很{i}有趣{i}的。"
+    zp "是，但它很{i}有趣{/i}的。"
 
 # game/code/Book-1/Chapter-7s/s01.rpy:156
 translate chinese b1c07ss01_b0f6d575:

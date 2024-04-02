@@ -106,7 +106,7 @@ translate turkish b1c04ns06_b279742c:
 translate turkish b1c04ns06_c9746117:
 
     # nv "This is obviously a representation of Zeus and Metis {i}creating{/i} Athena."
-    nv "Bu açıkça Zeus ve Metis'in Athena'yı {i}yaratmasının bir temsilidir."
+    nv "Bu açıkça Zeus ve Metis'in Athena'yı {i}yaratmasının{/i} bir temsilidir."
 
 # game/code/Book-1/Chapter-4n/s06.rpy:82
 translate turkish b1c04ns06_7e0d6ffc:
