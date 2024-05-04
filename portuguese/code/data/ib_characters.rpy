@@ -333,3 +333,95 @@ translate portuguese strings:
     # game/code/data/ib_characters.rpy:48
     old "Cult"
     new "Cult"
+# TODO: Translation updated at 2024-05-04 22:41
+
+translate portuguese strings:
+
+    # game/code/data/ib_characters.rpy:48
+    old "Hellena"
+    new ""
+
+    # game/code/data/ib_characters.rpy:48
+    old "Acton"
+    new ""
+
+    # game/code/data/ib_characters.rpy:48
+    old "Gang leader of The Wasps"
+    new ""
+
+    # game/code/data/ib_characters.rpy:48
+    old "Gabriella"
+    new ""
+
+    # game/code/data/ib_characters.rpy:48
+    old "Eastwood"
+    new ""
+
+    # game/code/data/ib_characters.rpy:48
+    old "Cafeteria Lady"
+    new ""
+
+    # game/code/data/ib_characters.rpy:48
+    old "James"
+    new ""
+
+    # game/code/data/ib_characters.rpy:48
+    old "Harlan"
+    new ""
+
+    # game/code/data/ib_characters.rpy:48
+    old "Professor & Alumnus"
+    new ""
+
+    # game/code/data/ib_characters.rpy:48
+    old "Williams"
+    new ""
+
+    # game/code/data/ib_characters.rpy:48
+    old "CCC Student"
+    new ""
+
+    # game/code/data/ib_characters.rpy:48
+    old "O'Neil"
+    new ""
+
+    # game/code/data/ib_characters.rpy:48
+    old "Carmelo"
+    new ""
+
+    # game/code/data/ib_characters.rpy:48
+    old "Kara"
+    new ""
+
+    # game/code/data/ib_characters.rpy:48
+    old "De'leon"
+    new ""
+
+    # game/code/data/ib_characters.rpy:48
+    old "Professor at Vinovella University"
+    new ""
+
+    # game/code/data/ib_characters.rpy:48
+    old "The Prophet"
+    new ""
+
+    # game/code/data/ib_characters.rpy:48
+    old "Welch"
+    new ""
+
+    # game/code/data/ib_characters.rpy:48
+    old "Forest ranger"
+    new ""
+
+    # game/code/data/ib_characters.rpy:48
+    old "Sloan T."
+    new ""
+
+    # game/code/data/ib_characters.rpy:48
+    old "Andrews"
+    new ""
+
+    # game/code/data/ib_characters.rpy:48
+    old "Sanders"
+    new ""
+

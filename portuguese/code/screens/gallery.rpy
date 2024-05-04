@@ -6,3 +6,31 @@ translate portuguese strings:
     old "Gallery"
     new "Galeria"
 
+# TODO: Translation updated at 2024-05-04 22:41
+
+translate portuguese strings:
+
+    # game/code/screens/gallery.rpy:9
+    old "CG Gallery"
+    new ""
+
+    # game/code/screens/gallery.rpy:15
+    old "Replay Room"
+    new ""
+
+    # game/code/screens/gallery.rpy:21
+    old "Bonus Content"
+    new ""
+
+    # game/code/screens/gallery.rpy:27
+    old "Hints on"
+    new ""
+
+    # game/code/screens/gallery.rpy:27
+    old "Hints off"
+    new ""
+
+    # game/code/screens/gallery.rpy:33
+    old "Page [page]"
+    new ""
+

@@ -270,3 +270,15 @@ translate portuguese strings:
     old "Calibrate"
     new "Calibrar"
 
+# TODO: Translation updated at 2024-05-04 22:41
+
+translate portuguese strings:
+
+    # game/code/screens/game_menus.rpy:142
+    old "«"
+    new ""
+
+    # game/code/screens/game_menus.rpy:158
+    old "»"
+    new ""
+

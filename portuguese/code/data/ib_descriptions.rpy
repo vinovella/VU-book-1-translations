@@ -633,3 +633,235 @@ translate portuguese strings:
     # game/code/data/ib_descriptions.rpy:2
     old "There seems to be some tension between her and Olesya."
     new "There seems to be some tension between her and Olesya."
+# TODO: Translation updated at 2024-05-04 22:41
+
+translate portuguese strings:
+
+    # game/code/data/ib_descriptions.rpy:2
+    old "The Winner's Volleyball team uses drugs to enhance themselves."
+    new ""
+
+    # game/code/data/ib_descriptions.rpy:2
+    old "Andrejz, Nerium, Sloan, Yvonne, and Ivy seem to be very high-ranking in theis cult."
+    new ""
+
+    # game/code/data/ib_descriptions.rpy:2
+    old "The cult worships a godly figure named Narurra. They have their own intricate lore of how this god came to be."
+    new ""
+
+    # game/code/data/ib_descriptions.rpy:2
+    old "Recently ended a relationship with her boyfriend. Feeling vulnerable and burdened by managerial duties and recent events."
+    new ""
+
+    # game/code/data/ib_descriptions.rpy:2
+    old "Designated as the backup leader in case of emergency during the rescue operation. Indicates trust and responsibility within The Syndicate."
+    new ""
+
+    # game/code/data/ib_descriptions.rpy:2
+    old "Nia doesn't see how the self-help group is a cult, she's already too indoctrinated."
+    new ""
+
+    # game/code/data/ib_descriptions.rpy:2
+    old "Good friends with Monika."
+    new ""
+
+    # game/code/data/ib_descriptions.rpy:2
+    old "Simon knows about what I did with Monika at the hotel."
+    new ""
+
+    # game/code/data/ib_descriptions.rpy:2
+    old "Regularly participates in drug use, familiar with the process."
+    new ""
+
+    # game/code/data/ib_descriptions.rpy:2
+    old "Irene believes her spiritual scrying hinted at the missing girls' disappearance."
+    new ""
+
+    # game/code/data/ib_descriptions.rpy:2
+    old "Reluctantly participates in drug use, appears uncomfortable with the situation."
+    new ""
+
+    # game/code/data/ib_descriptions.rpy:2
+    old "Iona knows about what I did with Monika at the hotel."
+    new ""
+
+    # game/code/data/ib_descriptions.rpy:2
+    old "Focused on gaining a strategic advantage in the upcoming tournament against CCC."
+    new ""
+
+    # game/code/data/ib_descriptions.rpy:2
+    old "Good friends with Simon."
+    new ""
+
+    # game/code/data/ib_descriptions.rpy:2
+    old "Expresses strong dislike and distrust towards Olesya, referring to her as \"murderous\"."
+    new ""
+
+    # game/code/data/ib_descriptions.rpy:2
+    old "Mentioned trouble in the theater group due to an incident involving Olesya."
+    new ""
+
+    # game/code/data/ib_descriptions.rpy:2
+    old "Participates in the team's drug use without visible discomfort."
+    new ""
+
+    # game/code/data/ib_descriptions.rpy:2
+    old "Allegedly capitalized on Olesya's vulnerabilities during her addiction struggles, leading to animosity between them."
+    new ""
+
+    # game/code/data/ib_descriptions.rpy:2
+    old "Half-sibling of Olesya."
+    new ""
+
+    # game/code/data/ib_descriptions.rpy:2
+    old "Monika describes Olesya as being murderous."
+    new ""
+
+    # game/code/data/ib_descriptions.rpy:2
+    old "Shows hesitation and discomfort regarding the team's drug use."
+    new ""
+
+    # game/code/data/ib_descriptions.rpy:2
+    old "Olesya's drug use was the catalyst for the team's drug use."
+    new ""
+
+    # game/code/data/ib_descriptions.rpy:2
+    old "Lost a leg in a car accident, which led to an opioid addiction and dependency on performance-enhancing drugs for volleyball."
+    new ""
+
+    # game/code/data/ib_descriptions.rpy:2
+    old "Half-sibling of Monika"
+    new ""
+
+    # game/code/data/ib_descriptions.rpy:2
+    old "Advocates for and administers performance-enhancing drugs to the team, emphasizing a win-at-all-costs mentality"
+    new ""
+
+    # game/code/data/ib_descriptions.rpy:2
+    old "Allegedly responsible for a change in the drug schedule for the volleyball team which might be due to my adverse reaction to the drug."
+    new ""
+
+    # game/code/data/ib_descriptions.rpy:2
+    old "Expresses strong frustration towards the team's performance and dependency on performance-enhancing drugs."
+    new ""
+
+    # game/code/data/ib_descriptions.rpy:2
+    old "Indicates a need to \"report back\" about the loss, suggesting accountability to an external party."
+    new ""
+
+    # game/code/data/ib_descriptions.rpy:2
+    old "Brigitta knows about what I did with Monika at the hotel."
+    new ""
+
+    # game/code/data/ib_descriptions.rpy:2
+    old "Reveals a history of violence and survival, indicating a tough upbringing."
+    new ""
+
+    # game/code/data/ib_descriptions.rpy:2
+    old "Despite her tough exterior, she has a tendency to mediate conflicts, pointing to a deeper sense of responsibility towards others."
+    new ""
+
+    # game/code/data/ib_descriptions.rpy:2
+    old "Reported missing."
+    new ""
+
+    # game/code/data/ib_descriptions.rpy:2
+    old "Allegedly kidnapped by Cade and taken to a warehouse controlled by The Wasps."
+    new ""
+
+    # game/code/data/ib_descriptions.rpy:2
+    old "Xasan intends to bomb The Wasps."
+    new ""
+
+    # game/code/data/ib_descriptions.rpy:2
+    old "Allegedly kidnapped Nirmala, Sabrina, and Q."
+    new ""
+
+    # game/code/data/ib_descriptions.rpy:2
+    old "The self-help group seems to be putting significant pressure on her to get tattooed."
+    new ""
+
+    # game/code/data/ib_descriptions.rpy:2
+    old "Lumi feels like she was a burden to her parents and hopes that the group will give her the confidence and strength to feel less like a burden."
+    new ""
+
+    # game/code/data/ib_descriptions.rpy:2
+    old "Lumi has decided to get tattooed."
+    new ""
+
+    # game/code/data/ib_descriptions.rpy:2
+    old "Lives at the campground with Nerium, Yvonne, and Sloan. Manages the team of forest rangers and seems to guide them spiritually."
+    new ""
+
+    # game/code/data/ib_descriptions.rpy:2
+    old "Member of the rival CCC volleyball team."
+    new ""
+
+    # game/code/data/ib_descriptions.rpy:2
+    old "Tried to spy on us during practice."
+    new ""
+
+    # game/code/data/ib_descriptions.rpy:2
+    old "Tried to seduce me during the conference."
+    new ""
+
+    # game/code/data/ib_descriptions.rpy:2
+    old "Engages in manipulative and seductive behavior. Exhibits sadistic traits."
+    new ""
+
+    # game/code/data/ib_descriptions.rpy:2
+    old "Hellena wants to strike a deal with the leader of The Syndicate."
+    new ""
+
+    # game/code/data/ib_descriptions.rpy:2
+    old "Seen with The Syndicate. Potentially connected."
+    new ""
+
+    # game/code/data/ib_descriptions.rpy:2
+    old "Captain of the rival CCC volleyball team."
+    new ""
+
+    # game/code/data/ib_descriptions.rpy:2
+    old "Acknowledges the misconduct of team members but denies involvement. Expresses desire for fair play."
+    new ""
+
+    # game/code/data/ib_descriptions.rpy:2
+    old "Has known and had previous contact with Klara."
+    new ""
+
+    # game/code/data/ib_descriptions.rpy:2
+    old "Found me unconscious and took me to her hotel room."
+    new ""
+
+    # game/code/data/ib_descriptions.rpy:2
+    old "Assists The Winners with logistics. Helped pick out the hotel for the team's tournament."
+    new ""
+
+    # game/code/data/ib_descriptions.rpy:2
+    old "Involved in managing press and charity activities for the Winner's Group. Expected the team to attend a press conference."
+    new ""
+
+    # game/code/data/ib_descriptions.rpy:2
+    old "Visits the campgrounds. Seems to know Andrejz and Ivy."
+    new ""
+
+    # game/code/data/ib_descriptions.rpy:2
+    old "Lives at the campground."
+    new ""
+
+    # game/code/data/ib_descriptions.rpy:2
+    old "Lives at the campground with Nerium and Sloan. Used to be on fire watch duty before she was too pregnant."
+    new ""
+
+    # game/code/data/ib_descriptions.rpy:2
+    old "Lives at the campground with Yvonne and Nerium. Focuses on wildlife conservation."
+    new ""
+
+    # game/code/data/ib_descriptions.rpy:2
+    old "Lives at the campground with Yvonne and Sloan. Manages and tracks the local flora."
+    new ""
+
+    # game/code/data/ib_descriptions.rpy:2
+    old "A highly revered figure in the Children of Narurra cult."
+    new ""
+

@@ -22,3 +22,11 @@ translate portuguese strings:
     old "You have already investigated "
     new ""
 
+# TODO: Translation updated at 2024-05-04 22:41
+
+translate portuguese strings:
+
+    # game/code/screens/chapter_choice.rpy:84
+    old "You cannot investigate this group anymore"
+    new ""
+
