@@ -269,3 +269,15 @@ translate spanish strings:
     # game/code/screens/game_menus.rpy:614
     old "Calibrate"
     new "Calibrar"
+# TODO: Translation updated at 2024-05-04 22:44
+
+translate spanish strings:
+
+    # game/code/screens/game_menus.rpy:142
+    old "«"
+    new "«"
+
+    # game/code/screens/game_menus.rpy:158
+    old "»"
+    new "»"
+

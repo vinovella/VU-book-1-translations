@@ -18,3 +18,19 @@ translate spanish strings:
     old "You have unlocked a new description in the Investigation Board"
     new "Has desbloqueado una nueva descripción en el Tablón de investigación."
 
+# TODO: Translation updated at 2024-05-04 22:44
+
+translate spanish strings:
+
+    # game/code/functions/functions.rpy:281
+    old "You've unlocked a new CG Gallery"
+    new "You've unlocked a new CG Gallery"
+
+    # game/code/functions/functions.rpy:281
+    old "You can watch the scene again in the Replay Room"
+    new "You can watch the scene again in the Replay Room"
+
+    # game/code/functions/functions.rpy:281
+    old "You've unlocked a new bonus content"
+    new "You've unlocked a new bonus content"
+

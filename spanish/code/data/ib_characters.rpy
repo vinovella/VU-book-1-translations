@@ -461,3 +461,95 @@ translate spanish strings:
     # game/code/data/ib_characters.rpy:48
     old "Bartender"
     new "Camarera"
+# TODO: Translation updated at 2024-05-04 22:44
+
+translate spanish strings:
+
+    # game/code/data/ib_characters.rpy:48
+    old "Hellena"
+    new "Hellena"
+
+    # game/code/data/ib_characters.rpy:48
+    old "Acton"
+    new "Acton"
+
+    # game/code/data/ib_characters.rpy:48
+    old "Gang leader of The Wasps"
+    new "Gang leader of The Wasps"
+
+    # game/code/data/ib_characters.rpy:48
+    old "Gabriella"
+    new "Gabriella"
+
+    # game/code/data/ib_characters.rpy:48
+    old "Eastwood"
+    new "Eastwood"
+
+    # game/code/data/ib_characters.rpy:48
+    old "Cafeteria Lady"
+    new "Cafeteria Lady"
+
+    # game/code/data/ib_characters.rpy:48
+    old "James"
+    new "James"
+
+    # game/code/data/ib_characters.rpy:48
+    old "Harlan"
+    new "Harlan"
+
+    # game/code/data/ib_characters.rpy:48
+    old "Professor & Alumnus"
+    new "Professor & Alumnus"
+
+    # game/code/data/ib_characters.rpy:48
+    old "Williams"
+    new "Williams"
+
+    # game/code/data/ib_characters.rpy:48
+    old "CCC Student"
+    new "CCC Student"
+
+    # game/code/data/ib_characters.rpy:48
+    old "O'Neil"
+    new "O'Neil"
+
+    # game/code/data/ib_characters.rpy:48
+    old "Carmelo"
+    new "Carmelo"
+
+    # game/code/data/ib_characters.rpy:48
+    old "Kara"
+    new "Kara"
+
+    # game/code/data/ib_characters.rpy:48
+    old "De'leon"
+    new "De'leon"
+
+    # game/code/data/ib_characters.rpy:48
+    old "Professor at Vinovella University"
+    new "Professor at Vinovella University"
+
+    # game/code/data/ib_characters.rpy:48
+    old "The Prophet"
+    new "The Prophet"
+
+    # game/code/data/ib_characters.rpy:48
+    old "Welch"
+    new "Welch"
+
+    # game/code/data/ib_characters.rpy:48
+    old "Forest ranger"
+    new "Forest ranger"
+
+    # game/code/data/ib_characters.rpy:48
+    old "Sloan T."
+    new "Sloan T."
+
+    # game/code/data/ib_characters.rpy:48
+    old "Andrews"
+    new "Andrews"
+
+    # game/code/data/ib_characters.rpy:48
+    old "Sanders"
+    new "Sanders"
+
