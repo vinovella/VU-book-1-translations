@@ -645,3 +645,23 @@ translate portuguese strings:
     old "You respond politely but don't emotionally connect with Olesya. You get 0 points with Olesya."
     new ""
 
+# TODO: Translation updated at 2024-07-15 23:56
+
+translate portuguese strings:
+
+    # game/code/hints.rpy:5
+    old "{font=fonts/GypsyCurse.ttf}ALL PLAY AND NO WORK MAKES MATTHEW A KILLER.{/font}"
+    new ""
+
+    # game/code/hints.rpy:5
+    old "She's already doomed"
+    new ""
+
+    # game/code/hints.rpy:5
+    old "Why bother?"
+    new ""
+
+    # game/code/hints.rpy:5
+    old "She gave you up"
+    new ""
+

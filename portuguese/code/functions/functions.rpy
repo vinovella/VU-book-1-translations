@@ -34,3 +34,11 @@ translate portuguese strings:
     old "You've unlocked a new bonus content"
     new ""
 
+# TODO: Translation updated at 2024-07-15 23:56
+
+translate portuguese strings:
+
+    # game/code/functions/functions.rpy:63
+    old "You have updated a new character in the Investigation Board"
+    new ""
+

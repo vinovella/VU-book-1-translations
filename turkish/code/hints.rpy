@@ -449,3 +449,215 @@ translate turkish strings:
     # game/code/hints.rpy:5
     old "You get -1 points with Xasan. You stand up for yourself, but you're an ass about it. This is the w the girls."
     new "You get -1 points with Xasan. You stand up for yourself, but you're an ass about it. This is the w the girls."
+# TODO: Translation updated at 2024-07-15 23:59
+
+translate turkish strings:
+
+    # game/code/hints.rpy:5
+    old "[mcname] agrees with Xasan."
+    new "[mcname] agrees with Xasan."
+
+    # game/code/hints.rpy:5
+    old "[mcname] decides to stop Xasan."
+    new "[mcname] decides to stop Xasan."
+
+    # game/code/hints.rpy:5
+    old "Forgive Cade. 0pts."
+    new "Forgive Cade. 0pts."
+
+    # game/code/hints.rpy:5
+    old "Don't forgive Cade. +1pt with Hellena. She likes your spirit."
+    new "Don't forgive Cade. +1pt with Hellena. She likes your spirit."
+
+    # game/code/hints.rpy:5
+    old "It's not your place to forgive Cade because he didn't hurt you. 0pts."
+    new "It's not your place to forgive Cade because he didn't hurt you. 0pts."
+
+    # game/code/hints.rpy:5
+    old "Look away from Hellena and Cade. Skip the pegging scene."
+    new "Look away from Hellena and Cade. Skip the pegging scene."
+
+    # game/code/hints.rpy:5
+    old "Watch Hellena peg Cade."
+    new "Watch Hellena peg Cade."
+
+    # game/code/hints.rpy:5
+    old "Feel Hellena up while she pegs Cade."
+    new "Feel Hellena up while she pegs Cade."
+
+    # game/code/hints.rpy:5
+    old "Just watch Hellena peg Cade and masturbate."
+    new "Just watch Hellena peg Cade and masturbate."
+
+    # game/code/hints.rpy:5
+    old "Kinky sex with Hellena."
+    new "Kinky sex with Hellena."
+
+    # game/code/hints.rpy:5
+    old "Don't use toys with Hellena."
+    new "Don't use toys with Hellena."
+
+    # game/code/hints.rpy:5
+    old "-1pts with Xasan. The girls don't like the arrogant way you provoke Xasan anymore than they like Xasan's dismissiveness."
+    new "-1pts with Xasan. The girls don't like the arrogant way you provoke Xasan anymore than they like Xasan's dismissiveness."
+
+    # game/code/hints.rpy:5
+    old "+1pts Zemfira. You soothe everyone, and Zem is proud of that."
+    new "+1pts Zemfira. You soothe everyone, and Zem is proud of that."
+
+    # game/code/hints.rpy:5
+    old "0pts. You don't encourage or offend anyone."
+    new "0pts. You don't encourage or offend anyone."
+
+    # game/code/hints.rpy:5
+    old "Sex with Morgan."
+    new "Sex with Morgan."
+
+    # game/code/hints.rpy:5
+    old "No sex scene with Morgan."
+    new "No sex scene with Morgan."
+
+    # game/code/hints.rpy:5
+    old "You pressure Lumi to get the tattoo."
+    new "You pressure Lumi to get the tattoo."
+
+    # game/code/hints.rpy:5
+    old "You're patient with Lumi about getting the tattoo."
+    new "You're patient with Lumi about getting the tattoo."
+
+    # game/code/hints.rpy:5
+    old "0pts. A rather generic and empty response."
+    new "0pts. A rather generic and empty response."
+
+    # game/code/hints.rpy:5
+    old "1pt Nia. She's proud that you're on your spiritual journey together."
+    new "1pt Nia. She's proud that you're on your spiritual journey together."
+
+    # game/code/hints.rpy:5
+    old "0pts. But Sloan likes that you're bold and playful."
+    new "0pts. But Sloan likes that you're bold and playful."
+
+    # game/code/hints.rpy:5
+    old "Sex scene with Lumi."
+    new "Sex scene with Lumi."
+
+    # game/code/hints.rpy:5
+    old "Skip sex scene with Lumi."
+    new "Skip sex scene with Lumi."
+
+    # game/code/hints.rpy:5
+    old "Ivy gives you a handjob."
+    new "Ivy gives you a handjob."
+
+    # game/code/hints.rpy:5
+    old "Refuse Ivy's handjob."
+    new "Refuse Ivy's handjob."
+
+    # game/code/hints.rpy:5
+    old "+1pt Nia. She likes that you're in agreement with her."
+    new "+1pt Nia. She likes that you're in agreement with her."
+
+    # game/code/hints.rpy:5
+    old "+1pt Ivy. She likes that you're receptive to her religion."
+    new "+1pt Ivy. She likes that you're receptive to her religion."
+
+    # game/code/hints.rpy:5
+    old "0pts. You don't impress anyone."
+    new "0pts. You don't impress anyone."
+
+    # game/code/hints.rpy:5
+    old "-2pts Ivy. -1pt Nia. +1pt Delphia. You rebel against the community's customs, but at a great cost to the investigation, Ivy and Nia's regards. Delphia appreciates your strong will, though."
+    new "-2pts Ivy. -1pt Nia. +1pt Delphia. You rebel against the community's customs, but at a great cost to the investigation, Ivy and Nia's regards. Delphia appreciates your strong will, though."
+
+    # game/code/hints.rpy:5
+    old "+1pt Lumi. She appreciates your kindness."
+    new "+1pt Lumi. She appreciates your kindness."
+
+    # game/code/hints.rpy:5
+    old "+1pt Ivy. +1pt Nia. Ivy appreciates your obedience. Nia likes that you're doing this out of love."
+    new "+1pt Ivy. +1pt Nia. Ivy appreciates your obedience. Nia likes that you're doing this out of love."
+
+    # game/code/hints.rpy:5
+    old "You get -1 points with Nia. She's angry you're talking bad about Ivy."
+    new "You get -1 points with Nia. She's angry you're talking bad about Ivy."
+
+    # game/code/hints.rpy:5
+    old "You get 0 points with Nia. This doesn't comfort or discourage Nia.You get +1 points with Nia. She realizes she's overthinking Ivy's actions and feels a little better."
+    new "You get 0 points with Nia. This doesn't comfort or discourage Nia.You get +1 points with Nia. She realizes she's overthinking Ivy's actions and feels a little better."
+
+    # game/code/hints.rpy:5
+    old "You get +1 points with Nia. She realizes she's overthinking Ivy's actions and feels a little better."
+    new "You get +1 points with Nia. She realizes she's overthinking Ivy's actions and feels a little better."
+
+    # game/code/hints.rpy:5
+    old "You get a handjob and a blowjob from Iona."
+    new "You get a handjob and a blowjob from Iona."
+
+    # game/code/hints.rpy:5
+    old "You annoy Iona."
+    new "You annoy Iona."
+
+    # game/code/hints.rpy:5
+    old "You get a point towards getting a point with the Winner's Group."
+    new "You get a point towards getting a point with the Winner's Group."
+
+    # game/code/hints.rpy:5
+    old "You don't get a point towards getting a point with the Winner's Group."
+    new "You don't get a point towards getting a point with the Winner's Group."
+
+    # game/code/hints.rpy:5
+    old "You get +1 points for allowing Monika to come and sleep in your bed. You can potentially have sex with her."
+    new "You get +1 points for allowing Monika to come and sleep in your bed. You can potentially have sex with her."
+
+    # game/code/hints.rpy:5
+    old "You annoy Monika and go to sleep without her."
+    new "You annoy Monika and go to sleep without her."
+
+    # game/code/hints.rpy:5
+    old "You have sex with Monika."
+    new "You have sex with Monika."
+
+    # game/code/hints.rpy:5
+    old "You don't have sex with Monika."
+    new "You don't have sex with Monika."
+
+    # game/code/hints.rpy:5
+    old "You will take the drugs either way, but you will get +1 points with Olesya for hesitating."
+    new "You will take the drugs either way, but you will get +1 points with Olesya for hesitating."
+
+    # game/code/hints.rpy:5
+    old "You will take the drugs either way, but you will get +1 points with Brigitta for your support."
+    new "You will take the drugs either way, but you will get +1 points with Brigitta for your support."
+
+    # game/code/hints.rpy:5
+    old "This will lead to a more intimate scene with Tiana."
+    new "This will lead to a more intimate scene with Tiana."
+
+    # game/code/hints.rpy:5
+    old "This will keep things professional between you and Tiana."
+    new "This will keep things professional between you and Tiana."
+
+    # game/code/hints.rpy:5
+    old "You respond sympathetically and emotionally connect with Olesya. You get +1 points with Olesya."
+    new "You respond sympathetically and emotionally connect with Olesya. You get +1 points with Olesya."
+
+    # game/code/hints.rpy:5
+    old "You respond politely but don't emotionally connect with Olesya. You get 0 points with Olesya."
+    new "You respond politely but don't emotionally connect with Olesya. You get 0 points with Olesya."
+
+    # game/code/hints.rpy:5
+    old "{font=fonts/GypsyCurse.ttf}ALL PLAY AND NO WORK MAKES MATTHEW A KILLER.{/font}"
+    new "{font=fonts/GypsyCurse.ttf}ALL PLAY AND NO WORK MAKES MATTHEW A KILLER.{/font}"
+
+    # game/code/hints.rpy:5
+    old "She's already doomed"
+    new "She's already doomed"
+
+    # game/code/hints.rpy:5
+    old "Why bother?"
+    new "Why bother?"
+
+    # game/code/hints.rpy:5
+    old "She gave you up"
+    new "She gave you up"
+

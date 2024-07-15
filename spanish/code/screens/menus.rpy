@@ -66,3 +66,27 @@ translate spanish strings:
     old "Join us on Discord"
     new "Únete a nosotros en Discord"
 
+# TODO: Translation updated at 2024-07-15 23:58
+
+translate spanish strings:
+
+    # game/code/screens/menus.rpy:584
+    old "Quick"
+    new "Quick"
+
+    # game/code/screens/menus.rpy:607
+    old "Ren'Py Save Sync"
+    new "Ren'Py Save Sync"
+
+    # game/code/screens/menus.rpy:620
+    old "Manage your saves for Book 2"
+    new "Manage your saves for Book 2"
+
+    # game/code/screens/menus.rpy:817
+    old "Dialogue Box Opacity"
+    new "Dialogue Box Opacity"
+
+    # game/code/screens/menus.rpy:824
+    old "Master Volume"
+    new "Master Volume"
+

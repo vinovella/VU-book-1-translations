@@ -34,3 +34,11 @@ translate spanish strings:
     old "You've unlocked a new bonus content"
     new "You've unlocked a new bonus content"
 
+# TODO: Translation updated at 2024-07-15 23:58
+
+translate spanish strings:
+
+    # game/code/functions/functions.rpy:63
+    old "You have updated a new character in the Investigation Board"
+    new "You have updated a new character in the Investigation Board"
+
