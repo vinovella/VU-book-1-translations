@@ -1168,257 +1168,257 @@ translate chinese b1c08s01_recap_c07s_4b60db16:
 translate chinese b1c08s01_recap_c07s_5dcf3a8c:
 
     # mc "She's basically a bruiser for the group. Beat people up, collect debts."
-    mc "She's basically a bruiser for the group. Beat people up, collect debts."
+    mc "她基本上就是这个组织的打手。负责打人，收债。"
 
 # game/code/Book-1/Chapter-8/s01.rpy:633
 translate chinese b1c08s01_recap_c07s_17ade583:
 
     # mc "Beyond that, she's also a part of the underground fight club. Those are the \"events\" that everybody was so hush-hush about."
-    mc "Beyond that, she's also a part of the underground fight club. Those are the \"events\" that everybody was so hush-hush about."
+    mc "除此之外，她还是地下格斗俱乐部的一员。这些都是大家讳莫如深的\"那些事\"。"
 
 # game/code/Book-1/Chapter-8/s01.rpy:634
 translate chinese b1c08s01_recap_c07s_97cbb951:
 
     # mc "I tried to see if I could get myself into the fight club, if not the main group itself, but she wasn't too open to it."
-    mc "I tried to see if I could get myself into the fight club, if not the main group itself, but she wasn't too open to it."
+    mc "我试过看我自己能不能加入格斗俱乐部，即使不能进主要团体也行，但她不太接受。"
 
 # game/code/Book-1/Chapter-8/s01.rpy:635
 translate chinese b1c08s01_recap_c07s_ea721304:
 
     # mc "Wanted me to prove myself first."
-    mc "Wanted me to prove myself first."
+    mc "要我先证明自己。"
 
 # game/code/Book-1/Chapter-8/s01.rpy:638
 translate chinese b1c08s01_recap_c07s_cc8a9a0a:
 
     # pm "Did she want you to collect some money?"
-    pm "Did she want you to collect some money?"
+    pm "她是不是想让你收点钱？"
 
 # game/code/Book-1/Chapter-8/s01.rpy:640
 translate chinese b1c08s01_recap_c07s_e1556d75:
 
     # mc "Opposite actually. She wanted me to deliver some money to someone named Rory."
-    mc "Opposite actually. She wanted me to deliver some money to someone named Rory."
+    mc "其实正好相反。她要我给一个叫罗里的人送点钱。"
 
 # game/code/Book-1/Chapter-8/s01.rpy:644
 translate chinese b1c08s01_recap_c07s_44860a71:
 
     # mc "Yeah. I went to where Corrine's locked up. She's certainly a handful."
-    mc "Yeah. I went to where Corrine's locked up. She's certainly a handful."
+    mc "我去了柯琳被关的地方。她确实很难缠。"
 
 # game/code/Book-1/Chapter-8/s01.rpy:645
 translate chinese b1c08s01_recap_c07s_ba533024:
 
     # mc "But was surprisingly forthcoming when I agreed to help her out for information."
-    mc "But was surprisingly forthcoming when I agreed to help her out for information."
+    mc "但当我答应帮她打听消息时，她却出奇地爽快。"
 
 # game/code/Book-1/Chapter-8/s01.rpy:646
 translate chinese b1c08s01_recap_c07s_5bb51c39:
 
     # mc "She basically wanted me to help Morgan."
-    mc "She basically wanted me to help Morgan."
+    mc "她基本上是想让我帮助摩根。"
 
 # game/code/Book-1/Chapter-8/s01.rpy:649
 translate chinese b1c08s01_recap_c07s_36347cb0:
 
     # mc "She wanted me to take on half of Morgan's debt, and help deliver her letters."
-    mc "She wanted me to take on half of Morgan's debt, and help deliver her letters."
+    mc "她想让我承担摩根一半的债务，再帮她送送信。"
 
 # game/code/Book-1/Chapter-8/s01.rpy:650
 translate chinese b1c08s01_recap_c07s_0f2c6144:
 
     # mc "She wanted me to prove myself first. Gave me two letters to send off to someone named Rory."
-    mc "She wanted me to prove myself first. Gave me two letters to send off to someone named Rory."
+    mc "她想让我先证明自己。给了我两封信，让我送给一个叫罗里的人。"
 
 # game/code/Book-1/Chapter-8/s01.rpy:653
 translate chinese b1c08s01_recap_c07s_1177d435:
 
     # pm "Who's Rory?"
-    pm "Who's Rory?"
+    pm "谁是罗里？"
 
 # game/code/Book-1/Chapter-8/s01.rpy:655
 translate chinese b1c08s01_recap_c07s_fb410473:
 
     # mc "Apparently that's that's the person Corrine beat up before she got locked up. She wanted to apologize."
-    mc "Apparently that's that's the person Corrine beat up before she got locked up. She wanted to apologize."
+    mc "显然就是柯琳被关监狱之前打的那个人。她想向他道歉。"
 
 # game/code/Book-1/Chapter-8/s01.rpy:656
 translate chinese b1c08s01_recap_c07s_247d6338:
 
     # pm "That's...surprising."
-    pm "That's...surprising."
+    pm "这...真让人惊讶。"
 
 # game/code/Book-1/Chapter-8/s01.rpy:660
 translate chinese b1c08s01_recap_c07s_b77d08ca:
 
     # mc "Anyway. I finish up with Rory and meet up with Morgan."
-    mc "Anyway. I finish up with Rory and meet up with Morgan."
+    mc "总之，我和罗里结束了谈话，然后去见摩根。"
 
 # game/code/Book-1/Chapter-8/s01.rpy:661
 translate chinese b1c08s01_recap_c07s_d9a4c3dd:
 
     # mc "She said she'd keep her word and would help me get into the fighting club."
-    mc "She said she'd keep her word and would help me get into the fighting club."
+    mc "她说她会遵守诺言，帮我进入格斗俱乐部。"
 
 # game/code/Book-1/Chapter-8/s01.rpy:662
 translate chinese b1c08s01_recap_c07s_6b33b908:
 
     # mc "I also finally got a name for the crime group, it's called \"The Syndicate\"."
-    mc "I also finally got a name for the crime group, it's called \"The Syndicate\"."
+    mc "我也终于了解到犯罪团伙的名字，它叫\"辛迪加\"。"
 
 # game/code/Book-1/Chapter-8/s01.rpy:665
 translate chinese b1c08s01_recap_c07s_712456ab:
 
     # pm "The Syndicate? Interesting. I'll look into it."
-    pm "The Syndicate? Interesting. I'll look into it."
+    pm "辛迪加？有意思。我会调查一下的。"
 
 # game/code/Book-1/Chapter-8/s01.rpy:668
 translate chinese b1c08s01_recap_c07s_59501dea:
 
     # mc "Anyway. I finish up with Rory and meet up with Corrine."
-    mc "Anyway. I finish up with Rory and meet up with Corrine."
+    mc "总之呢，我和罗里谈完了，然后去见柯琳。"
 
 # game/code/Book-1/Chapter-8/s01.rpy:669
 translate chinese b1c08s01_recap_c07s_f45cf8a9:
 
     # mc "She kept her word and told me that I need to get into the fight club."
-    mc "She kept her word and told me that I need to get into the fight club."
+    mc "她信守承诺，告诉我必须加入格斗俱乐部。"
 
 # game/code/Book-1/Chapter-8/s01.rpy:670
 translate chinese b1c08s01_recap_c07s_7f1c6212:
 
     # mc "That's how I'll be able to take care of Morgan's debt and also get more info on the main group, which is called \"The Syndicate.\""
-    mc "That's how I'll be able to take care of Morgan's debt and also get more info on the main group, which is called \"The Syndicate.\""
+    mc "这样我才能还清摩根的债务。还能得到更多关于核心小组的信息。这个组织叫\"辛迪加\"。"
 
 # game/code/Book-1/Chapter-8/s01.rpy:678
 translate chinese b1c08s01_recap_c08s_112c578d:
 
     # mc "The main way I got into The Syndicate was when some of their members were kidnapped by a rival group called The Wasps."
-    mc "The main way I got into The Syndicate was when some of their members were kidnapped by a rival group called The Wasps."
+    mc "我进入辛迪加的主要途径是，他们的一些成员被一个叫黄蜂的敌对组织绑架了。"
 
 # game/code/Book-1/Chapter-8/s01.rpy:679
 translate chinese b1c08s01_recap_c08s_2c55070e:
 
     # mc "They needed someone that could drive a boat."
-    mc "They needed someone that could drive a boat."
+    mc "他们需要一个会开船的人。"
 
 # game/code/Book-1/Chapter-8/s01.rpy:680
 translate chinese b1c08s01_recap_c08s_69cb100d:
 
     # mc "My cover plan both helped me and bit me in the ass."
-    mc "My cover plan both helped me and bit me in the ass."
+    mc "我的掩护计划既帮了我，又害了我。"
 
 # game/code/Book-1/Chapter-8/s01.rpy:681
 translate chinese b1c08s01_recap_c08s_430960d7:
 
     # mc "Thankfully, the boat was relatively easy to handle."
-    mc "Thankfully, the boat was relatively easy to handle."
+    mc "幸好，船比较好开。"
 
 # game/code/Book-1/Chapter-8/s01.rpy:682
 translate chinese b1c08s01_recap_c08s_086a00f3:
 
     # mc "We managed to rescue the missing people. But Xasan decided that that wasn't enough, so he planted a fucking bomb at the warehouse."
-    mc "We managed to rescue the missing people. But Xasan decided that that wasn't enough, so he planted a fucking bomb at the warehouse."
+    mc "我们设法救出了失踪的人。但哈桑认为这还不够，所以他在仓库里放了个该死的炸弹。"
 
 # game/code/Book-1/Chapter-8/s01.rpy:685
 translate chinese b1c08s01_recap_c08s_953c853a:
 
     # pm "What!?"
-    pm "What!?"
+    pm "什么!?"
 
 # game/code/Book-1/Chapter-8/s01.rpy:689
 translate chinese b1c08s01_recap_c08s_406d815d:
 
     # mc "Yeah. And because of that, he almost got caught. I had to run up and save him, but..."
-    mc "Yeah. And because of that, he almost got caught. I had to run up and save him, but..."
+    mc "你没听错。就因为这个，他差点被抓住。我不得不跑上去救他，但是..."
 
 # game/code/Book-1/Chapter-8/s01.rpy:690
 translate chinese b1c08s01_recap_c08s_60ef7f67:
 
     # mc "I got caught."
-    mc "I got caught."
+    mc "我被抓住了。"
 
 # game/code/Book-1/Chapter-8/s01.rpy:693
 translate chinese b1c08s01_recap_c08s_c0c0b2f5:
 
     # pm "Caught? How the hell were you caught? You came to help them, but they couldn't even help you?"
-    pm "Caught? How the hell were you caught? You came to help them, but they couldn't even help you?"
+    pm "被抓了？你是怎么被抓的？你来帮他们，可他们都不帮你的吗？"
 
 # game/code/Book-1/Chapter-8/s01.rpy:696
 translate chinese b1c08s01_recap_c08s_58614cd0:
 
     # mc "I was taken to the leader of The Wasps, a woman named Hellena Acton."
-    mc "I was taken to the leader of The Wasps, a woman named Hellena Acton."
+    mc "我被带到了黄蜂组织的首领那里，她叫海伦娜·阿克顿。"
 
 # game/code/Book-1/Chapter-8/s01.rpy:697
 translate chinese b1c08s01_recap_c08s_4084360c:
 
     # mc "I'm still not sure what game she was playing, but she told me that she wants to broker peace between the gangs."
-    mc "I'm still not sure what game she was playing, but she told me that she wants to broker peace between the gangs."
+    mc "我还不清楚她在玩什么把戏，但她告诉我，她想促成帮派之间的和平。"
 
 # game/code/Book-1/Chapter-8/s01.rpy:698
 translate chinese b1c08s01_recap_c08s_8f70c083:
 
     # mc "She was trying to get me to help her unite the gangs, that's all she talked about. I played along, but she started getting suspicious of my bullshit."
-    mc "She was trying to get me to help her unite the gangs, that's all she talked about. I played along, but she started getting suspicious of my bullshit."
+    mc "她想让我帮她联合帮派，她就说了这么多。于是我配合她说话，但她开始怀疑我的鬼话。"
 
 # game/code/Book-1/Chapter-8/s01.rpy:702
 translate chinese b1c08s01_recap_c08s_76936d28:
 
     # pm "How the hell did you escape?"
-    pm "How the hell did you escape?"
+    pm "那你是怎么逃出来的？"
 
 # game/code/Book-1/Chapter-8/s01.rpy:705
 translate chinese b1c08s01_recap_c08s_d26895c0:
 
     # mc "I... Let's just say that I knocked her out."
-    mc "I... Let's just say that I knocked her out."
+    mc "我...这么说吧，我把她打晕了。"
 
 # game/code/Book-1/Chapter-8/s01.rpy:706
 translate chinese b1c08s01_recap_c08s_a1510260:
 
     # mc "I managed to make it back to The Syndicate. But then I had to deal with Xasan's bullshit."
-    mc "I managed to make it back to The Syndicate. But then I had to deal with Xasan's bullshit."
+    mc "我设法回到了辛迪加。但随后我不得不处理哈桑的破事。"
 
 # game/code/Book-1/Chapter-8/s01.rpy:707
 translate chinese b1c08s01_recap_c08s_c2bccec0:
 
     # mc "Everybody was on my side but Xasan wasn't having it. He still didn't want me in the group."
-    mc "Everybody was on my side but Xasan wasn't having it. He still didn't want me in the group."
+    mc "所有人都站在我这边，但哈桑不同意。他还是不想让我加入组织。"
 
 # game/code/Book-1/Chapter-8/s01.rpy:708
 translate chinese b1c08s01_recap_c08s_baee7a4e:
 
     # mc "After some more back and forth, he eventually relented. He wanted me to fight Morgan in the ring to see if I had what it takes."
-    mc "After some more back and forth, he eventually relented. He wanted me to fight Morgan in the ring to see if I had what it takes."
+    mc "经过一番来回折腾，他最终妥协了。他想让我和摩根在擂台上一决高下。看看我是否有那个实力。"
 
 # game/code/Book-1/Chapter-8/s01.rpy:711
 translate chinese b1c08s01_recap_c08s_d2609ce4:
 
     # pm "That asshole."
-    pm "That asshole."
+    pm "那个混蛋。"
 
 # game/code/Book-1/Chapter-8/s01.rpy:716
 translate chinese b1c08s01_recap_c08s_f37483a8:
 
     # mc "Thankfully, Morgan and I practiced together beforehand, so she only used those moves on me."
-    mc "Thankfully, Morgan and I practiced together beforehand, so she only used those moves on me."
+    mc "幸好摩根和我事先练习过。所以她只对我用了学过的那几招。"
 
 # game/code/Book-1/Chapter-8/s01.rpy:718
 translate chinese b1c08s01_recap_c08s_e9c2e727:
 
     # mc "It was a rough fight. Morgan is insane when she goes all out. I just barely managed to edge out."
-    mc "It was a rough fight. Morgan is insane when she goes all out. I just barely managed to edge out."
+    mc "真是一场艰苦的战斗啊。摩根全力以赴的时候很疯狂。我只是勉强保持优势。"
 
 # game/code/Book-1/Chapter-8/s01.rpy:719
 translate chinese b1c08s01_recap_c08s_493c3197:
 
     # mc "Xasan then finally made me into a fighter for The Syndicate."
-    mc "Xasan then finally made me into a fighter for The Syndicate."
+    mc "哈桑最终让我成为了辛迪加的成员。"
 
 translate chinese strings:
 
     # game/code/Book-1/Chapter-8/s01.rpy:6
     old "Another day\nAt Phoebe's place"
-    new "Another day\nAt Phoebe's place"
+    new "另一天\n在菲比家"
 
