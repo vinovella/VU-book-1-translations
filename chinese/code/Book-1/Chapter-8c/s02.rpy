@@ -4,169 +4,169 @@
 translate chinese b1c08cs02_4b70c4d1:
 
     # "After a short hike from the train station, you and the others arrive at the campgrounds."
-    "After a short hike from the train station, you and the others arrive at the campgrounds."
+    "从火车站出发徒步一小段路后，你和其他人来到了露营地。"
 
 # game/code/Book-1/Chapter-8c/s02.rpy:22
 translate chinese b1c08cs02_0f2136e1:
 
     # "You look around the clearing, noticing the already set-up tents."
-    "You look around the clearing, noticing the already set-up tents."
+    "你环顾空地，注意到已经搭好的帐篷。"
 
 # game/code/Book-1/Chapter-8c/s02.rpy:25
 translate chinese b1c08cs02_84969a94:
 
     # mct "Well, at least we won't need to deal with setting up tents."
-    mct "Well, at least we won't need to deal with setting up tents."
+    mct "嗯，至少我们不需要再去搭帐篷了。"
 
 # game/code/Book-1/Chapter-8c/s02.rpy:28
 translate chinese b1c08cs02_23143e78:
 
     # mc "Is this an old campsite or something?"
-    mc "Is this an old campsite or something?"
+    mc "这是旧营地还是什么？"
 
 # game/code/Book-1/Chapter-8c/s02.rpy:31
 translate chinese b1c08cs02_5fb895c2:
 
     # dk "It's something like that. The other members live here permanently and take care of the campgrounds."
-    dk "It's something like that. The other members live here permanently and take care of the campgrounds."
+    dk "差不多吧。其他成员长期住在这里，负责管理营地。"
 
 # game/code/Book-1/Chapter-8c/s02.rpy:34
 translate chinese b1c08cs02_e6cb7fed:
 
     # dk "They're sort of like park rangers and wildlife researchers."
-    dk "They're sort of like park rangers and wildlife researchers."
+    dk "他们有点像公园管理员和野生动物研究员。"
 
 # game/code/Book-1/Chapter-8c/s02.rpy:35
 translate chinese b1c08cs02_c207abdc:
 
     # dk "This trip is basically just like an adult scouts trip."
-    dk "This trip is basically just like an adult scouts trip."
+    dk "这次旅行基本上就像成人童子军旅行。"
 
 # game/code/Book-1/Chapter-8c/s02.rpy:38
 translate chinese b1c08cs02_d886509f:
 
     # nv "I can't wait to meet everyone!"
-    nv "I can't wait to meet everyone!"
+    nv "我等不及要见到大家了！"
 
 # game/code/Book-1/Chapter-8c/s02.rpy:41
 translate chinese b1c08cs02_12dc9e0c:
 
     # ll "I hope they like me..."
-    ll "I hope they like me..."
+    ll "我希望他们喜欢我..."
 
 # game/code/Book-1/Chapter-8c/s02.rpy:44
 translate chinese b1c08cs02_d55273cf:
 
     # nv "I'm sure they will."
-    nv "I'm sure they will."
+    nv "我相信他们会喜欢你的。"
 
 # game/code/Book-1/Chapter-8c/s02.rpy:61
 translate chinese b1c08cs02_a9cc165d:
 
     # ad "You look radiant today, as always Ivy."
-    ad "You look radiant today, as always Ivy."
+    ad "你今天看起来光彩照人，一如既往啊，艾薇。"
 
 # game/code/Book-1/Chapter-8c/s02.rpy:65
 translate chinese b1c08cs02_47c02bb3:
 
     # ih "Mhm. Thanks."
-    ih "Mhm. Thanks."
+    ih "哈哈。谢谢。"
 
 # game/code/Book-1/Chapter-8c/s02.rpy:76
 translate chinese b1c08cs02_8834c13d:
 
     # ih "[mcname]! I hope your trip was comfortable."
-    ih "[mcname]! I hope your trip was comfortable."
+    ih "[mcname]！希望你旅途愉快。"
 
 # game/code/Book-1/Chapter-8c/s02.rpy:79
 translate chinese b1c08cs02_8562502b:
 
     # mc "It was. The train was luxurious."
-    mc "It was. The train was luxurious."
+    mc "是的。火车很豪华。"
 
 # game/code/Book-1/Chapter-8c/s02.rpy:82
 translate chinese b1c08cs02_f62f58c3:
 
     # mct "Makes me wonder how they afford it."
-    mct "Makes me wonder how they afford it."
+    mct "真不知道他们是怎么负担得起的。"
 
 # game/code/Book-1/Chapter-8c/s02.rpy:85
 translate chinese b1c08cs02_ce026c7a:
 
     # ih "Welcome, everyone! We are so happy to have you here. We hope that you'll have a wonderful time here."
-    ih "Welcome, everyone! We are so happy to have you here. We hope that you'll have a wonderful time here."
-
+    ih "欢迎各位。我们很高兴你们来到这里。希望你们在这里过得愉快。"
+。
 # game/code/Book-1/Chapter-8c/s02.rpy:86
 translate chinese b1c08cs02_9f11cbe6:
 
     # ih "After a tour of the grounds, you're all invited to a special gathering tonight! A time when we'll introduce ourselves properly and socialize."
-    ih "After a tour of the grounds, you're all invited to a special gathering tonight! A time when we'll introduce ourselves properly and socialize."
+    ih "参观完场地后，我们邀请大家参加今晚的特别聚会！届时我们将进行适当的自我介绍和社交活动。"
 
 # game/code/Book-1/Chapter-8c/s02.rpy:89
 translate chinese b1c08cs02_130b659e:
 
     # ih "Andre, take the others and give them a tour of the grounds."
-    ih "Andre, take the others and give them a tour of the grounds."
+    ih "安杰斯，带其他人参观一下这里。"
 
 # game/code/Book-1/Chapter-8c/s02.rpy:92
 translate chinese b1c08cs02_10d1113c:
 
     # ih "I'd like to give these three a personal tour."
-    ih "I'd like to give these three a personal tour."
+    ih "我想亲自带他们三个参观一下。"
 
 # game/code/Book-1/Chapter-8c/s02.rpy:95
 translate chinese b1c08cs02_ca0062de:
 
     # ad "But... Wouldn't it—"
-    ad "But... Wouldn't it—"
+    ad "但是...会不会--"
 
 # game/code/Book-1/Chapter-8c/s02.rpy:98
 translate chinese b1c08cs02_fb93d5ad:
 
     # ih "Please, Andre."
-    ih "Please, Andre."
+    ih "拜托了，安杰斯。"
 
 # game/code/Book-1/Chapter-8c/s02.rpy:110
 translate chinese b1c08cs02_d1778366:
 
     # ih "Come. I'll show you our main cabin, and introduce you to some of our most valued members."
-    ih "Come. I'll show you our main cabin, and introduce you to some of our most valued members."
+    ih "来吧。我带你们参观我们的主木屋。向你们介绍我们最有价值的成员。"
 
 # game/code/Book-1/Chapter-8c/s02.rpy:116
 translate chinese b1c08cs02_4cf6bb32:
 
     # "The cabin smells like cedar and campfire, with an underlying citrus scent."
-    "The cabin smells like cedar and campfire, with an underlying citrus scent."
+    "小屋闻起来有雪松和篝火的味道，隐约还能闻到柑橘的香味。"
 
 # game/code/Book-1/Chapter-8c/s02.rpy:119
 translate chinese b1c08cs02_1f3cc75a:
 
     # "It's homey and welcoming."
-    "It's homey and welcoming."
+    "这里很温馨，很好客。"
 
 # game/code/Book-1/Chapter-8c/s02.rpy:122
 translate chinese b1c08cs02_2996e8a2:
 
     # nw "Do you want some water?"
-    nw "Do you want some water?"
+    nw "你要喝水吗？"
 
 # game/code/Book-1/Chapter-8c/s02.rpy:125
 translate chinese b1c08cs02_460bdba5:
 
     # ys "You worry too much! I'm fine."
-    ys "You worry too much! I'm fine."
+    ys "你太客气了！我没事。"
 
 # game/code/Book-1/Chapter-8c/s02.rpy:131
 translate chinese b1c08cs02_075e0206:
 
     # ih "[mcname], Nia, Delphia, meet some of the most esteemed residents at our home."
-    ih "[mcname], Nia, Delphia, meet some of the most esteemed residents at our home."
+    ih "[mcname]，妮娅，德尔菲娅，来见见我们大家庭里这几位最受尊敬的住户。"
 
 # game/code/Book-1/Chapter-8c/s02.rpy:134
 translate chinese b1c08cs02_dbc2bc3c:
 
     # ys "Hi!{w} I'm Yvonne Sanders. It's nice to meet you all."
-    ys "Hi!{w} I'm Yvonne Sanders. It's nice to meet you all."
+    ys "你们好！{w}我是伊冯娜·桑德斯。很高兴见到你们。"
 
 # game/code/Book-1/Chapter-8c/s02.rpy:137
 translate chinese b1c08cs02_5de6f086:
