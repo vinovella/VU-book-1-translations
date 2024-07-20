@@ -95,7 +95,7 @@ translate chinese b1c08cs02_ce026c7a:
 
     # ih "Welcome, everyone! We are so happy to have you here. We hope that you'll have a wonderful time here."
     ih "欢迎各位。我们很高兴你们来到这里。希望你们在这里过得愉快。"
-。
+
 # game/code/Book-1/Chapter-8c/s02.rpy:86
 translate chinese b1c08cs02_9f11cbe6:
 
