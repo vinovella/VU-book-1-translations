@@ -4,553 +4,553 @@
 translate chinese b1c08cs07_759f4d2e:
 
     # nv "So you said we're gonna do some spiritual meditations or something, right? Where are we going?"
-    nv "So you said we're gonna do some spiritual meditations or something, right? Where are we going?"
+    nv "所以你说我们要做一些精神冥想什么的，对吗？我们要去哪儿？ "
 
 # game/code/Book-1/Chapter-8c/s07.rpy:50
 translate chinese b1c08cs07_f9fac031:
 
     # dk "We're going someplace special."
-    dk "We're going someplace special."
+    dk "我们要去一个特别的地方。"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:51
 translate chinese b1c08cs07_48753ddb:
 
     # dk "I'll explain more when we get there."
-    dk "I'll explain more when we get there."
+    dk "到了那里我会详细解释的。"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:53
 translate chinese b1c08cs07_25f0e5fb:
 
     # "You and Nia pick your way through the dense woods, following Delphia's lead."
-    "You and Nia pick your way through the dense woods, following Delphia's lead."
+    "你和妮娅沿着德尔菲娅的指引，穿过茂密的树林。"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:55
 translate chinese b1c08cs07_8384b148:
 
     # mct "This is the same path Ivy took to that strange cave. Del must be leading us to the same spot."
-    mct "This is the same path Ivy took to that strange cave. Del must be leading us to the same spot."
+    mct "这和艾薇去往那个奇怪洞穴是同一条路。德尔菲娅一定是带我们去同一个地方。"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:57
 translate chinese b1c08cs07_af6dd35c:
 
     # "A sense of worry nestles itself in your stomach."
-    "A sense of worry nestles itself in your stomach."
+    "一种焦虑感在你的胃里潜伏着。"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:60
 translate chinese b1c08cs07_48b22821:
 
     # mct "Hopefully Del isn't expecting us to do anything as extreme as what I saw here last time..."
-    mct "Hopefully Del isn't expecting us to do anything as extreme as what I saw here last time..."
+    mct "希望德尔菲娅不要期望我们做出像我上次看到的那样极端的事情..."
 
 # game/code/Book-1/Chapter-8c/s07.rpy:67
 translate chinese b1c08cs07_af20a743:
 
     # dk "This is it."
-    dk "This is it."
+    dk "我们到了。"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:71
 translate chinese b1c08cs07_235dcc7a:
 
     # nv "A musty old cave?"
-    nv "A musty old cave?"
+    nv "一个发霉的老洞？"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:74
 translate chinese b1c08cs07_dd833745:
 
     # dk "You love old and mysterious things."
-    dk "You love old and mysterious things."
+    dk "你喜欢古老而神秘的东西。"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:75
 translate chinese b1c08cs07_617e1a17:
 
     # dk "This cave is no different. It's very special to our community."
-    dk "This cave is no different. It's very special to our community."
+    dk "这个洞穴也不例外。它对我们社区来说非常特别。"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:84
 translate chinese b1c08cs07_9250cd32:
 
     # dk "This is where many spiritual awakenings for our members have taken place."
-    dk "This is where many spiritual awakenings for our members have taken place."
+    dk "这是我们许多成员在灵性上觉醒的地方。"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:87
 translate chinese b1c08cs07_7fecc2c0:
 
     # mct "Damn, they actually cleaned up all the blood."
-    mct "Damn, they actually cleaned up all the blood."
+    mct "该死，他们竟然清理了所有的血迹。"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:90
 translate chinese b1c08cs07_fb8a3062:
 
     # dk "This is a sacred item to our community."
-    dk "This is a sacred item to our community."
+    dk "它是我们社区的圣物。"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:93
 translate chinese b1c08cs07_00e0b458:
 
     # nv "Why is that?"
-    nv "Why is that?"
+    nv "为什么？"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:96
 translate chinese b1c08cs07_cf3877f7:
 
     # dk "You'll see."
-    dk "You'll see."
+    dk "你会明白的。"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:98
 translate chinese b1c08cs07_55417834:
 
     # "Delphia snaps her fingers at you and Nia."
-    "Delphia snaps her fingers at you and Nia."
+    "德尔菲娅朝你和妮娅打了个响指"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:101
 translate chinese b1c08cs07_2fa6db27:
 
     # dk "But first, strip."
-    dk "But first, strip."
+    dk "但首先，脱光衣服。"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:115
 translate chinese b1c08cs07_strip_1775ddcd:
 
     # dk "Are you uncomfortable here in this sacred space?"
-    dk "Are you uncomfortable here in this sacred space?"
+    dk "你在这个神圣的地方不舒服吗？"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:118
 translate chinese b1c08cs07_strip_ad77633b:
 
     # mc "You have to admit it's kind of strange."
-    mc "You have to admit it's kind of strange."
+    mc "你得承认这有点奇怪。"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:121
 translate chinese b1c08cs07_strip_b1506e71:
 
     # mct "And I'm still wondering if Andre's gonna jump out with a bucket of blood or something..."
-    mct "And I'm still wondering if Andre's gonna jump out with a bucket of blood or something..."
+    mct "我还在想，安杰斯会不会带着一桶血或者别的什么跳出来..."
 
 # game/code/Book-1/Chapter-8c/s07.rpy:125
 translate chinese b1c08cs07_strip_a6bb8968:
 
     # nv "It's okay. Take your time. I'll be here when you're ready."
-    nv "It's okay. Take your time. I'll be here when you're ready."
+    nv "没关系。慢慢来。等你准备好了，我就在这里。"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:131
 translate chinese b1c08cs07_strip_54f41ea4:
 
     # dk "You removed your clothes at the rooftop garden, and got comfortable there. Yet hesitate here."
-    dk "You removed your clothes at the rooftop garden, and got comfortable there. Yet hesitate here."
+    dk "你在屋顶花园脱了衣服，在那里觉得很舒服。在这里却犹豫不决。"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:134
 translate chinese b1c08cs07_strip_5c15e7d5:
 
     # mc "I don't know. It feels different here, in this space. I guess it'll take me a bit to get comfortable."
-    mc "I don't know. It feels different here, in this space. I guess it'll take me a bit to get comfortable."
+    mc "我不知道。在这里，在这个空间里感觉不一样。我想我还需要一段时间才能适应。"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:137
 translate chinese b1c08cs07_strip_180feeda:
 
     # dk "Would it help if Nia helped you undress?"
-    dk "Would it help if Nia helped you undress?"
+    dk "如果妮娅帮你脱衣服会有帮助吗？"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:140
 translate chinese b1c08cs07_strip_0e42bbc7:
 
     # nv "I'd be happy to help, if you want me to."
-    nv "I'd be happy to help, if you want me to."
+    nv "如果你需要的话，我很乐意帮忙。"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:143
 translate chinese b1c08cs07_strip_635db8ed:
 
     # mc "I...um."
-    mc "I...um."
+    mc "我...嗯。"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:146
 translate chinese b1c08cs07_strip_1ed47038:
 
     # mc "What sort of spiritual exercise are we doing today? Would Nia and I doing this together help?"
-    mc "What sort of spiritual exercise are we doing today? Would Nia and I doing this together help?"
+    mc "我们今天要做什么灵性练习？我和妮娅一起做练习会有帮助吗？"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:149
 translate chinese b1c08cs07_strip_4345b458:
 
     # dk "We're going to be exploring intimacy today."
-    dk "We're going to be exploring intimacy today."
+    dk "我们今天要探索亲密关系。"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:150
 translate chinese b1c08cs07_strip_3f5fc9ca:
 
     # dk "So I'd say having Nia undress you would help."
-    dk "So I'd say having Nia undress you would help."
+    dk "所以我觉得让妮娅帮你脱衣服会有帮助。"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:153
 translate chinese b1c08cs07_strip_5d759f87:
 
     # nv "*Giggles* Do you want me to help?"
-    nv "*Giggles* Do you want me to help?"
+    nv "*咯咯笑* 需要我帮忙吗？"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:161
 translate chinese b1c08cs07_strip_f0ba2483:
 
     # dk "I want you to both breathe deeply and really take in each other's bodies."
-    dk "I want you to both breathe deeply and really take in each other's bodies."
+    dk "我希望你们都能深呼吸，真正欣赏对方的身体。"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:162
 translate chinese b1c08cs07_strip_c705c8ed:
 
     # dk "Every feature, every freckle. The details in each other's eyes..."
-    dk "Every feature, every freckle. The details in each other's eyes..."
+    dk "每一个特征，每一个雀斑。彼此眼中的细节..."
 
 # game/code/Book-1/Chapter-8c/s07.rpy:165
 translate chinese b1c08cs07_strip_d3fa5ea7:
 
     # dk "Notice the subtle twitches, notice the flushes, cast out every other feeling aside from what you feel with each other."
-    dk "Notice the subtle twitches, notice the flushes, cast out every other feeling aside from what you feel with each other."
+    dk "注意彼此细微的抽搐，注意对方的脸红，把所有其他的感觉都抛到脑后，只关注你们彼此之间的感觉。"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:171
 translate chinese b1c08cs07_strip_ad13a142:
 
     # "You take in the details of Nia. The beauty in her eyes. The softness of her skin. Her beautiful tattoos."
-    "You take in the details of Nia. The beauty in her eyes. The softness of her skin. Her beautiful tattoos."
+    "你仔细观察妮娅的细节。观察她眼睛的美丽。她柔软的皮肤。她美丽的纹身。"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:172
 translate chinese b1c08cs07_strip_657013c5:
 
     # "Her nipples are teased hard from the cold air hitting them."
-    "Her nipples are teased hard from the cold air hitting them."
+    "她的乳头被冷风吹得硬硬的。"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:174
 translate chinese b1c08cs07_strip_dc6abe0a:
 
     # nv "May I take this off?"
-    nv "May I take this off?"
+    nv "我可以把这个脱下来吗？"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:177
 translate chinese b1c08cs07_strip_9538b3b9:
 
     # mc "Yeah. I'm comfortable with that."
-    mc "Yeah. I'm comfortable with that."
+    mc "可以。我觉得很舒服。"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:181
 translate chinese b1c08cs07_strip_ba0eb06a:
 
     # dk "Very good."
-    dk "Very good."
+    dk "很好。"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:184
 translate chinese b1c08cs07_strip_307327a6:
 
     # nv "I want to touch you. Is that okay?"
-    nv "I want to touch you. Is that okay?"
+    nv "我想摸摸你。这样可以吗？"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:187
 translate chinese b1c08cs07_strip_f800bed0:
 
     # mc "Yes."
-    mc "Yes."
+    mc "可以。"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:190
 translate chinese b1c08cs07_strip_f1097882:
 
     # "Your breaths quicken slightly as Nia's fingers brush lightly against your skin."
-    "Your breaths quicken slightly as Nia's fingers brush lightly against your skin."
+    "当妮娅的手指轻轻拂过你的肌肤时，你的呼吸变得急促起来。"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:192
 translate chinese b1c08cs07_strip_b5572c35:
 
     # nv "I love the feeling of your skin on my finger tips."
-    nv "I love the feeling of your skin on my finger tips."
+    nv "我喜欢你的皮肤贴在我指尖的感觉。"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:193
 translate chinese b1c08cs07_strip_12bd3c7f:
 
     # nv "You feel so firm and...strong."
-    nv "You feel so firm and...strong."
+    nv "感觉你很坚定，很...强壮。"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:196
 translate chinese b1c08cs07_strip_693d42a7:
 
     # nv "Can I kiss your body?"
-    nv "Can I kiss your body?"
+    nv "我能吻你的身体吗？"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:199
 translate chinese b1c08cs07_strip_5ce09775:
 
     # mc "Mhm."
-    mc "Mhm."
+    mc "嗯。"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:203
 translate chinese b1c08cs07_strip_e08930f7:
 
     # "You feel her tongue against your skin, tasting you."
-    "You feel her tongue against your skin, tasting you."
+    "你感觉到她的舌头贴着你的皮肤，她在品尝你。"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:206
 translate chinese b1c08cs07_strip_1017eca5:
 
     # nv "Yes. I love experiencing you in different ways."
-    nv "Yes. I love experiencing you in different ways."
+    nv "好哎。我喜欢用不同的方式体验你。"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:207
 translate chinese b1c08cs07_strip_19960c26:
 
     # "Nia smiles up at you, her eyes bright and curious."
-    "Nia smiles up at you, her eyes bright and curious."
+    "妮娅朝你微笑，她的眼睛明亮而好奇。"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:209
 translate chinese b1c08cs07_strip_0025c73b:
 
     # "Her fingers tentatively tug at the top of your pants."
-    "Her fingers tentatively tug at the top of your pants."
+    "她的手指试探性地拉着你的裤子。"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:212
 translate chinese b1c08cs07_strip_00d29b7e:
 
     # nv "Can I take these off?"
-    nv "Can I take these off?"
+    nv "我可以把这个脱下来吗？"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:214
 translate chinese b1c08cs07_strip_5ce09775_1:
 
     # mc "Mhm."
-    mc "Mhm."
+    mc "嗯。"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:217
 translate chinese b1c08cs07_strip_d347e71d:
 
     # "Words escape you as she pulls your pants down, removing them completely."
-    "Words escape you as she pulls your pants down, removing them completely."
+    "当她把你的裤子脱下来，完全脱掉时，你说不出话来。"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:220
 translate chinese b1c08cs07_strip_ef9f8d11:
 
     # nv "Does that feel nice?"
-    nv "Does that feel nice?"
+    nv "感觉舒服吗？"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:221
 translate chinese b1c08cs07_strip_1aba0afb:
 
     # "Her warm breath seeps onto your cock, which makes you twitch in response."
-    "Her warm breath seeps onto your cock, which makes you twitch in response."
+    "她温热的气息扑打在你的鸡巴上，让你不由自主地抽动。"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:223
 translate chinese b1c08cs07_strip_065bf516:
 
     # "Nia's answering giggle excites you."
-    "Nia's answering giggle excites you."
+    "妮娅咯咯的笑声让你兴奋起来。"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:226
 translate chinese b1c08cs07_strip_9c0be0f5:
 
     # dk "Very good, Nia. Deep breaths, together."
-    dk "Very good, Nia. Deep breaths, together."
+    dk "很好，妮娅。现在，一起深呼吸。"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:229
 translate chinese b1c08cs07_strip_f5e1e1f8:
 
     # "You and Nia take deep, shaky breaths together."
-    "You and Nia take deep, shaky breaths together."
+    "你和妮娅一起颤抖着深呼吸。"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:232
 translate chinese b1c08cs07_strip_4b38b0bd:
 
     # "There's a heat rising between you two, a yearning to explore each other further."
-    "There's a heat rising between you two, a yearning to explore each other further."
+    "你们俩之间有一股热流在升腾，渴望进一步探索彼此。"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:234
 translate chinese b1c08cs07_strip_f19d7e5f:
 
     # dk "The union between two souls is extremely healing to mind, body, and soul."
-    dk "The union between two souls is extremely healing to mind, body, and soul."
+    dk "两个灵魂的结合对心灵、身体和灵魂都有极大的治愈作用。"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:237
 translate chinese b1c08cs07_strip_37466391:
 
     # nv "Aren't you going to join us?"
-    nv "Aren't you going to join us?"
+    nv "你不加入我们吗？"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:240
 translate chinese b1c08cs07_strip_18de757d:
 
     # dk "You are so eager to please, love."
-    dk "You are so eager to please, love."
+    dk "亲爱的，你太渴望取悦别人了。"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:241
 translate chinese b1c08cs07_strip_44048f59:
 
     # dk "But no. Not this time."
-    dk "But no. Not this time."
+    dk "但是不行。这次不行。"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:245
 translate chinese b1c08cs07_strip_ed5a5269:
 
     # dk "Today, I want both of you to explore the intimacy between you. Find each other's sweet spots. Explore each other's desires."
-    dk "Today, I want both of you to explore the intimacy between you. Find each other's sweet spots. Explore each other's desires."
+    dk "今天，我想让你们俩探索一下你们之间的亲密关系。找到彼此的甜蜜点。探索彼此的欲望。"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:248
 translate chinese b1c08cs07_strip_e58a3ae2:
 
     # dk "Come find me at the entrance of the cave when you're done."
-    dk "Come find me at the entrance of the cave when you're done."
+    dk "完事后你们到洞口来找我。"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:252
 translate chinese b1c08cs07_strip_ca207c46:
 
     # "Del leaves you and Nia naked, yearning for each other."
-    "Del leaves you and Nia naked, yearning for each other."
+    "德尔菲娅离开了，留下赤身裸体的你和妮娅，渴望探索彼此。"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:257
 translate chinese b1c08cs07_strip_1c7ad07c:
 
     # nv "Do you want me to touch you?"
-    nv "Do you want me to touch you?"
+    nv "你想让我摸你吗？"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:258
 translate chinese b1c08cs07_strip_3d64ec5e:
 
     # "Nia's voice is breathy with want."
-    "Nia's voice is breathy with want."
+    "妮娅的声音里充满了渴望。"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:261
 translate chinese b1c08cs07_strip_03dde6d3:
 
     # mc "If you want to...I want to touch you too."
-    mc "If you want to...I want to touch you too."
+    mc "如果你想...我也想摸摸你。"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:264
 translate chinese b1c08cs07_strip_15036f60:
 
     # nv "In time. But first...{w} I want to explore this."
-    nv "In time. But first...{w} I want to explore this."
+    nv "恰好。但首先...{w}我想先探索这个。"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:268
 translate chinese b1c08cs07_strip_837818c0:
 
     # "Nia runs her lips and tongue up your shaft making your erection flare to life."
-    "Nia runs her lips and tongue up your shaft making your erection flare to life."
+    "妮娅用她的嘴唇和舌头舔舐你的鸡巴，让你迅速勃起。"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:275
 translate chinese b1c08cs07_strip_4a0d80ad:
 
     # mc "Can I hold your head?"
-    mc "Can I hold your head?"
+    mc "我能抱着你的头吗？"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:280
 translate chinese b1c08cs07_strip_ad754b61:
 
     # nv "Mhm."
-    nv "Mhm."
+    nv "嗯。"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:281
 translate chinese b1c08cs07_strip_82a64af5:
 
     # "Nia's eyes are full of trust and longing."
-    "Nia's eyes are full of trust and longing."
+    "妮娅的眼睛里充满了信任和渴望。"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:284
 translate chinese b1c08cs07_strip_f1be4721:
 
     # "The vibrations of her voice against your cock adds another pleasurable sensation."
-    "The vibrations of her voice against your cock adds another pleasurable sensation."
+    "她贴在你鸡巴上发出的声音增添了另一种愉悦的感觉。"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:285
 translate chinese b1c08cs07_strip_9e83b6b5:
 
     # "You hold her head in your hands, wanting to feel more of her mouth on you."
-    "You hold her head in your hands, wanting to feel more of her mouth on you."
+    "你双手抱住她的头，想要更多地感受她的嘴在你身上的感觉。"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:288
 translate chinese b1c08cs07_strip_534ebc8b:
 
     # mc "I want to feel more, Nia. As much as you want to give, I want to feel."
-    mc "I want to feel more, Nia. As much as you want to give, I want to feel."
+    mc "我想多多体验这种感觉，妮娅。你想给我多少，我就想感受多少。"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:294
 translate chinese b1c08cs07_strip_ccc57ce1:
 
     # "She slides your cock fully into her mouth."
-    "She slides your cock fully into her mouth."
+    "她把你的鸡巴完全塞进嘴里。"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:297
 translate chinese b1c08cs07_strip_2bb8c09c:
 
     # "The pleasure is explosive and all-consuming. It's a craving that flows throughout your entire body."
-    "The pleasure is explosive and all-consuming. It's a craving that flows throughout your entire body."
+    "快感如爆炸般席卷而来 ，令你忘却所有。这种渴望流遍了你的全身。"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:303
 translate chinese b1c08cs07_strip_e229b0a7:
 
     # "The cave no longer feels cold and foreign. It feels like a safe space that was built for you and Nia. Built for this moment."
-    "The cave no longer feels cold and foreign. It feels like a safe space that was built for you and Nia. Built for this moment."
+    "这个洞穴不再让人感到寒冷和陌生。感觉就像是为你和妮娅打造的安全空间。为这一刻而建。"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:313
 translate chinese b1c08cs07_strip_a594b397:
 
     # nv "I want to feel more of you."
-    nv "I want to feel more of you."
+    nv "我想更多地感受你。"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:316
 translate chinese b1c08cs07_strip_698e7000:
 
     # nv "I want to worship each other's bodies, to make each other feel good, and whole."
-    nv "I want to worship each other's bodies, to make each other feel good, and whole."
+    nv "我想崇拜咱们彼此的身体，让彼此感觉良好，感觉完整。"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:319
 translate chinese b1c08cs07_strip_e5a8add4:
 
     # nv "Is that what you want too?"
-    nv "Is that what you want too?"
+    nv "这也是你想要的吗？"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:322
 translate chinese b1c08cs07_strip_1bf60051:
 
     # mc "Of course."
-    mc "Of course."
+    mc "当然。"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:344
 translate chinese b1c08cs07_sex_fbc73dd2:
 
     # mc "You are so fucking perfect, Nia."
-    mc "You are so fucking perfect, Nia."
+    mc "你真他妈完美，妮娅。"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:345
 translate chinese b1c08cs07_sex_ec575bf7:
 
     # mc "I can't wait to express that to you."
-    mc "I can't wait to express that to you."
+    mc "我等不及要跟你这么说了。"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:347
 translate chinese b1c08cs07_sex_ae3d2f29:
 
     # "Nia makes a flustered expression, getting wetter between her legs."
-    "Nia makes a flustered expression, getting wetter between her legs."
+    "妮娅露出一副慌乱的表情，两腿之间越来越湿。"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:349
 translate chinese b1c08cs07_sex_b1f3d1d9:
 
     # nv "Just um, go slow at first, okay? I like to be teased."
-    nv "Just um, go slow at first, okay? I like to be teased."
+    nv "那个，刚开始慢慢来，好吗？我喜欢被挑逗。"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:353
 translate chinese b1c08cs07_sex_1bf60051:
 
     # mc "Of course."
-    mc "Of course."
+    mc "当然。"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:354
 translate chinese b1c08cs07_sex_388995e3:
 
     # "You give Nia a medium-pressure spank, feeling her ass jiggle and tense against your cock."
-    "You give Nia a medium-pressure spank, feeling her ass jiggle and tense against your cock."
+    "你用中等力度打妮娅的屁股，感觉她的屁股紧贴着你的鸡巴抖动着。"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:360
 translate chinese b1c08cs07_sex_7cb0248e:
 
     # nv "You like seeing my body be so responsive to you?"
-    nv "You like seeing my body be so responsive to you?"
+    nv "你喜欢看到我的身体对你这么敏感吗？"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:363
 translate chinese b1c08cs07_sex_7168f313:
 
     # mc "Mm. I can't wait to see all the little responses I get from you."
-    mc "Mm. I can't wait to see all the little responses I get from you."
+    mc "喜欢，我迫不及待地想看到你给我的所有回应。"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:372
 translate chinese b1c08cs07_sex_1aa2cdfd:
