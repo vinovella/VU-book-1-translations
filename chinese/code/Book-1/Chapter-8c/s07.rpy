@@ -556,311 +556,311 @@ translate chinese b1c08cs07_sex_7168f313:
 translate chinese b1c08cs07_sex_1aa2cdfd:
 
     # "You feel Nia's wetness dripping between her legs."
-    "You feel Nia's wetness dripping between her legs."
+    "你能感觉到妮娅两腿间的湿润。"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:375
 translate chinese b1c08cs07_sex_8d811c39:
 
     # "Her moans are breathier, full of longing."
-    "Her moans are breathier, full of longing."
+    "她的呻吟声更加急促，充满了渴望。"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:380
 translate chinese b1c08cs07_sex_0758627c:
 
     # nv "I want you inside...please."
-    nv "I want you inside...please."
+    nv "我想让你进去...求你了。"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:383
 translate chinese b1c08cs07_sex_2642577f:
 
     # "You lift Nia up by her hips so she's on all fours. She's dripping for you, so wet and creamy."
-    "You lift Nia up by her hips so she's on all fours. She's dripping for you, so wet and creamy."
+    "你托起妮娅的臀部，让她四肢着地。她的爱液从下面流出，又湿又滑。"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:389
 translate chinese b1c08cs07_sex_4e356444:
 
     # "You push yourself inside her. Her body responds immediately, tightening wetly around you."
-    "You push yourself inside her. Her body responds immediately, tightening wetly around you."
+    "你把自己推进她的身体里。她的身体立即做出反应，紧紧地抱住你。"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:391
 translate chinese b1c08cs07_sex_6edc59ec:
 
     # mc "Fuck, Nia. You feel so good."
-    mc "Fuck, Nia. You feel so good."
+    mc "操，妮娅。你里面好舒服。"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:397
 translate chinese b1c08cs07_sex_f6762ecb:
 
     # "You quickly get lost in the passion created by you and Nia."
-    "You quickly get lost in the passion created by you and Nia."
+    "你很快就迷失在你和妮娅创造的激情中。"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:399
 translate chinese b1c08cs07_sex_4b8cfadd:
 
     # nv "M-more, I want more. Show me how much you want me."
-    nv "M-more, I want more. Show me how much you want me."
+    nv "要--我还要，我想要更多。让我知道你有多需要我。"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:402
 translate chinese b1c08cs07_sex_de206a99:
 
     # "You're lost in each other, eager to please and explore each other's bodies."
-    "You're lost in each other, eager to please and explore each other's bodies."
+    "你们迷失在彼此身上，渴望取悦和探索彼此的身体。"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:403
 translate chinese b1c08cs07_sex_0c587977:
 
     # "Her body immediately tightens and pulses around you."
-    "Her body immediately tightens and pulses around you."
+    "她的身体立刻紧紧缠绕着你。"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:407
 translate chinese b1c08cs07_sex_5486b161:
 
     # mc "You like that? You like being fucked raw by me?"
-    mc "You like that? You like being fucked raw by me?"
+    mc "你喜欢吗？你喜欢被我干得欲仙欲死？"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:408
 translate chinese b1c08cs07_sex_7c286ac4:
 
     # nv "Yes! I want to feel as much of you as possible."
-    nv "Yes! I want to feel as much of you as possible."
+    nv "喜欢！我想尽可能多地感受你。"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:415
 translate chinese b1c08cs07_sex_7ce0fdd0:
 
     # "You lean over Nia, and she lays flat on her stomach under your weight."
-    "You lean over Nia, and she lays flat on her stomach under your weight."
+    "你俯身压在妮娅身上，她在你的重压下平躺着。"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:422
 translate chinese b1c08cs07_sex_c99d5a5e:
 
     # "The sensation of her skin against yours, her body pulling you in, her wetness dripping down your legs, her legs, everywhere... It drives you over the edge."
-    "The sensation of her skin against yours, her body pulling you in, her wetness dripping down your legs, her legs, everywhere... It drives you over the edge."
+    "她的肌肤贴着你的皮肤，她的身体让你深陷其中，她流出的爱液顺着你的腿滴下来，她的腿，到处都是...你全身感官被放大，让你欲罢不能。"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:435
 translate chinese b1c08cs07_sex_fd195bbb:
 
     # mc "N-Nia I'm cummin—"
-    mc "N-Nia I'm cummin—"
+    mc "妮--妮娅，我要射了--"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:437
 translate chinese b1c08cs07_sex_faebb0c5:
 
     # nv "Cum inside me! Mm, I want to feel all of you. Fill me up."
-    nv "Cum inside me! Mm, I want to feel all of you. Fill me up."
+    nv "射在我里面！我想感受你的全部。把我填满。"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:440
 translate chinese b1c08cs07_sex_ca8f0e91:
 
     # "You sink yourself as deep as Nia's body can take you, and cum right against her womb."
-    "You sink yourself as deep as Nia's body can take you, and cum right against her womb."
+    "妮娅的身体能让你陷多深你就沉多深，然后射向她的子宫。"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:445
 translate chinese b1c08cs07_sex_b84c8817:
 
     # nv "F-fuck!"
-    nv "F-fuck!"
+    nv "次--操！"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:446
 translate chinese b1c08cs07_sex_0e4aaa0e:
 
     # "Nia grips the green silk sheets, her own climax overtaking her body."
-    "Nia grips the green silk sheets, her own climax overtaking her body."
+    "妮娅紧握着绿色的丝绸床单，高潮席卷了她的全身。"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:447
 translate chinese b1c08cs07_sex_769eb0dc:
 
     # "Her body throbs so tightly around you it almost aches, milking you for every last drop you have to offer."
-    "Her body throbs so tightly around you it almost aches, milking you for every last drop you have to offer."
+    "她的身体紧紧缠绕着你，让你隐隐作痛，她在榨干你的每一滴精液。"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:452
 translate chinese b1c08cs07_sex_78bbec10:
 
     # nv "I feel so much closer to you."
-    nv "I feel so much closer to you."
+    nv "我觉得和你更亲近了。"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:454
 translate chinese b1c08cs07_sex_74fc6761:
 
     # mc "Me too."
-    mc "Me too."
+    mc "我也是。"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:457
 translate chinese b1c08cs07_sex_82ccf63e:
 
     # nv "Is it okay if you stay inside me a little longer? I understand if you're over sensitive but... I like feeling you."
-    nv "Is it okay if you stay inside me a little longer? I understand if you're over sensitive but... I like feeling you."
+    nv "你可以在我体内多待一会儿吗？如果你过于敏感，我能理解，但是...我喜欢这样感受你。"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:460
 translate chinese b1c08cs07_sex_6ca11922:
 
     # mc "I'm not over sensitive. I'll stay as long as you want me to."
-    mc "I'm not over sensitive. I'll stay as long as you want me to."
+    mc "我没有过度敏感。你要我待多久，我就待多久。"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:463
 translate chinese b1c08cs07_sex_39892e53:
 
     # nv "I'm glad it's you I get to walk this spiritual path with."
-    nv "I'm glad it's you I get to walk this spiritual path with."
+    nv "我很高兴能和你一起探索这条灵性之路。"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:466
 translate chinese b1c08cs07_sex_da184810:
 
     # mc "I'm glad it's you too, Nia."
-    mc "I'm glad it's you too, Nia."
+    mc "我也很高兴我的同伴是你，妮娅。"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:469
 translate chinese b1c08cs07_sex_68934356:
 
     # nv "I can't wait to discover more ways to be intimate with you. Mm."
-    nv "I can't wait to discover more ways to be intimate with you. Mm."
+    nv "我迫不及待地想发现更多与你亲密交流的方式。嗯嗯。"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:472
 translate chinese b1c08cs07_sex_c6ba2d88:
 
     # mc "Me either. It feels... so good to be connected with you. In every way. Mind, body, soul."
-    mc "Me either. It feels... so good to be connected with you. In every way. Mind, body, soul."
+    mc "我也是。感觉...能和你建立联系真是太好了。各方面都是。思想，身体，灵魂。"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:475
 translate chinese b1c08cs07_sex_5d4a2b95:
 
     # nv "Delphia's a proficient Guide."
-    nv "Delphia's a proficient Guide."
+    nv "德尔菲娅这个向导很熟练。"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:478
 translate chinese b1c08cs07_sex_3598c7dd:
 
     # mc "Heh. She's something alright."
-    mc "Heh. She's something alright."
+    mc "哈。她还不错。"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:481
 translate chinese b1c08cs07_sex_8d44f7ac:
 
     # nv "Maybe she can be involved next time."
-    nv "Maybe she can be involved next time."
+    nv "也许下次她可以参与进来。"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:484
 translate chinese b1c08cs07_sex_d7fb6930:
 
     # mc "Already thinking about next time, huh?"
-    mc "Already thinking about next time, huh?"
+    mc "已经在考虑下次了，是吧？"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:487
 translate chinese b1c08cs07_sex_d250247e:
 
     # "Nia's giggle echoes around the room, filling you with a warm, fuzzy feeling."
-    "Nia's giggle echoes around the room, filling you with a warm, fuzzy feeling."
+    "妮娅的笑声在房间里回荡，让你有一种温暖而舒适的感觉。"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:488
 translate chinese b1c08cs07_sex_e1ed60df:
 
     # nv "Like you aren't."
-    nv "Like you aren't."
+    nv "说得好像你不想一样。"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:491
 translate chinese b1c08cs07_sex_a0241f40:
 
     # mc "Fair."
-    mc "Fair."
+    mc "行吧。"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:494
 translate chinese b1c08cs07_sex_11e7075e:
 
     # "Nia shifts underneath you."
-    "Nia shifts underneath you."
+    "妮娅在你身下转了个身。"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:496
 translate chinese b1c08cs07_sex_8810830d:
 
     # nv "Anyway, we should go find Delphia."
-    nv "Anyway, we should go find Delphia."
+    nv "不管怎样，我们该去找德尔菲娅了。"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:499
 translate chinese b1c08cs07_sex_808cf84e:
 
     # mc "You are right."
-    mc "You are right."
+    mc "你说得对。"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:502
 translate chinese b1c08cs07_sex_dc8f1190:
 
     # "Nia drips your cum."
-    "Nia drips your cum."
+    "你的精液从妮娅身上滴了下来。"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:518
 translate chinese b1c08cs07_sex_ad0226c1:
 
     # nv "What?"
-    nv "What?"
+    nv "干嘛？"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:522
 translate chinese b1c08cs07_sex_adca9c91:
 
     # mc "Nothing. I just didn't take you for the greedy type that likes creampies."
-    mc "Nothing. I just didn't take you for the greedy type that likes creampies."
+    mc "没什么。我只是没想到你是那种贪吃的小野猫，喜欢吃奶油蛋糕啊。"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:525
 translate chinese b1c08cs07_sex_e271c536:
 
     # nv "It just makes me feel closer to you to have it...inside me as long as possible."
-    nv "It just makes me feel closer to you to have it...inside me as long as possible."
+    nv "它只是让我觉得和你更亲近...在我体内待得越久越好。"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:528
 translate chinese b1c08cs07_sex_df1edc50:
 
     # mc "It makes me feel closer to you too."
-    mc "It makes me feel closer to you too."
+    mc "这也让我觉得离你更近了。"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:529
 translate chinese b1c08cs07_sex_45253731:
 
     # mc "C'mon. Let's get dressed."
-    mc "C'mon. Let's get dressed."
+    mc "来吧。我们穿好衣服吧。"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:539
 translate chinese b1c08cs07_sex_7c72c1af:
 
     # dk "My, my. The whole forest could hear you two in there."
-    dk "My, my. The whole forest could hear you two in there."
+    dk "天哪，天哪。整个森林都能听见你们俩在里面的声音。"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:542
 translate chinese b1c08cs07_sex_04293251:
 
     # nv "Really?"
-    nv "Really?"
+    nv "真的吗？"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:545
 translate chinese b1c08cs07_sex_d62056b0:
 
     # "Delphia faces you with a flirty smirk on her lips."
-    "Delphia faces you with a flirty smirk on her lips."
+    "德尔菲娅对着你，嘴角带着挑逗的笑意。"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:546
 translate chinese b1c08cs07_sex_4253f1e0:
 
     # dk "No, not really. But {i}{b}I{/b}{/i} certainly could."
-    dk "No, not really. But {i}{b}I{/b}{/i} certainly could."
+    dk "哈哈，当然不是。但是{i}{b}我{/b}{/i}肯定都听到了。"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:549
 translate chinese b1c08cs07_sex_7af8b2ea:
 
     # "Delphia lets out a mischievous giggle."
-    "Delphia lets out a mischievous giggle."
+    "德尔菲娅调皮地咯咯笑了一声。"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:550
 translate chinese b1c08cs07_sex_919fd396:
 
     # dk "And for the record, there will {i}definitely{/i} be a time when I want to join in."
-    dk "And for the record, there will {i}definitely{/i} be a time when I want to join in."
+    dk "郑重声明，{i}肯定{/i}会有我想加入的时候。"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:554
 translate chinese b1c08cs07_sex_3d2b7e13:
 
     # dk "C'mon you two. You both did great. Let's head back."
-    dk "C'mon you two. You both did great. Let's head back."
+    dk "来吧，你们两个。你们都做得很好。我们回去吧。"
 
 translate chinese strings:
 
     # game/code/Book-1/Chapter-8c/s07.rpy:32
     old "After breakfast"
-    new "After breakfast"
+    new "早餐后"
 
