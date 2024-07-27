@@ -1030,7 +1030,7 @@ translate chinese b1c08cs03_1b4a9629:
 translate chinese b1c08cs03_dab10493:
 
     # ad "It's action. A continuous, deliberate action. And sometimes those who {i}tell{/i} their love for us fail to {i}show{/i} it in the most important ways."
-    ad "爱，在于行动。持续的、深思熟虑的行动。有时候，那些{/i}口头上{/i}向我们表达爱的人，却没有在最重要的方面{i}表现{/i}出来。"
+    ad "爱，在于行动。持续的、深思熟虑的行动。有时候，那些{i}口头上{/i}向我们表达爱的人，却没有在最重要的方面{i}表现{/i}出来。"
 
 # game/code/Book-1/Chapter-8c/s03.rpy:489
 translate chinese b1c08cs03_5cc73f46:

@@ -826,7 +826,7 @@ translate chinese b1c08cs01_082425e7:
 translate chinese b1c08cs01_d037d43d:
 
     # mc "And Irene {i}is{/i} wonderful."
-    mc "艾琳(i)也确实{/i}很迷人。"
+    mc "艾琳{i}也确实{/i}很迷人。"
 
 # game/code/Book-1/Chapter-8c/s01.rpy:423
 translate chinese b1c08cs01_5d8e445d:
