@@ -4,289 +4,289 @@
 translate chinese b1c08cs08_ddad12e2:
 
     # "After a long day and a filling dinner, Ivy and Andre decide to finish the night off with another sermon."
-    "After a long day and a filling dinner, Ivy and Andre decide to finish the night off with another sermon."
+    "经过漫长的一天和丰盛的晚餐，艾薇和安杰斯决定以另一场宣讲来结束这一晚。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:44
 translate chinese b1c08cs08_09dfcd09:
 
     # ih "Tonight, looking at all of you, I feel overwhelmed with gratitude."
-    ih "Tonight, looking at all of you, I feel overwhelmed with gratitude."
+    ih "今晚，看着你们所有人，我充满了感激之情。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:45
 translate chinese b1c08cs08_95b46cb0:
 
     # ih "When we were asked to welcome the newcomers into our sacred space, a few of us were skeptical."
-    ih "When we were asked to welcome the newcomers into our sacred space, a few of us were skeptical."
+    ih "当我们被要求欢迎新人进入我们的神圣地带时，我们中的一些人还心存疑虑。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:48
 translate chinese b1c08cs08_d38d65bf:
 
     # "Ivy's eyes lock with yours as she addresses the crowd."
-    "Ivy's eyes lock with yours as she addresses the crowd."
+    "艾薇对着人群讲话时，眼睛紧盯着你。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:49
 translate chinese b1c08cs08_24f31d7d:
 
     # ih "But the time I've spent with you has been so fulfilling and rewarding."
-    ih "But the time I've spent with you has been so fulfilling and rewarding."
+    ih "但是和你们在一起的时间让我很充实，很有收获。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:51
 translate chinese b1c08cs08_3b174fca:
 
     # ih "I'm sure all of you have heard of our goddess, Narurra, in the time you've been here."
-    ih "I'm sure all of you have heard of our goddess, Narurra, in the time you've been here."
+    ih "我相信待在这儿的这段时间里，你们一定都听说过我们的女神纳鲁拉。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:52
 translate chinese b1c08cs08_9414c7fb:
 
     # ih "Some of you may not think of her as anything more than silly folklore, but to me and the people who live here, she is very much real."
-    ih "Some of you may not think of her as anything more than silly folklore, but to me and the people who live here, she is very much real."
+    ih "你们中的一些人可能认为她不过是个愚蠢的民间传说人物，但对我和住在这里的人来说，她是真实存在的。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:59
 translate chinese b1c08cs08_84a7fd33:
 
     # ih "Yvonne, as I'm sure you've noticed, is pregnant with a miracle child."
-    ih "Yvonne, as I'm sure you've noticed, is pregnant with a miracle child."
+    ih "伊冯娜，我相信你们已经注意到了，她怀上了一个奇迹般的孩子。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:63
 translate chinese b1c08cs08_3f69bef4:
 
     # "Ivy casts a nasty glare at Andre."
-    "Ivy casts a nasty glare at Andre."
+    "艾薇恶狠狠地瞪了安杰斯一眼。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:65
 translate chinese b1c08cs08_a5838d2c:
 
     # ih "For it was very {i}difficult{/i} for her to conceive."
-    ih "For it was very {i}difficult{/i} for her to conceive."
+    ih "因为她{i}很难{/i}怀孕。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:68
 translate chinese b1c08cs08_e07476df:
 
     # ih "But Yvonne was graced by our lovely goddess Narurra, and managed to conceive despite the challenges."
-    ih "But Yvonne was graced by our lovely goddess Narurra, and managed to conceive despite the challenges."
+    ih "但伊冯娜得到了我们可爱的女神娜鲁拉的眷顾，尽管面临种种挑战，她还是成功怀孕了。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:71
 translate chinese b1c08cs08_0338463e:
 
     # ys "Blessed be me and my child by Narurra."
-    ys "Blessed be me and my child by Narurra."
+    ys "愿神保佑我和我的孩子。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:74
 translate chinese b1c08cs08_5eb12dc9:
 
     # ih "Truly. Blessed be."
-    ih "Truly. Blessed be."
+    ih "是的。愿神保佑。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:77
 translate chinese b1c08cs08_2b350f6e:
 
     # nw "Blessed be."
-    nw "Blessed be."
+    nw "愿神保佑。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:80
 translate chinese b1c08cs08_9a1c1722:
 
     # sta "Blessed be."
-    sta "Blessed be."
+    sta "愿神保佑。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:84
 translate chinese b1c08cs08_9c9ef8cb:
 
     # ih "In honor of our beloved goddess, we'd like to discuss everyone's spiritual progress."
-    ih "In honor of our beloved goddess, we'd like to discuss everyone's spiritual progress."
+    ih "为了纪念我们心爱的女神，我们想讨论一下每个人的灵性进步。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:88
 translate chinese b1c08cs08_5613b1fe:
 
     # ih "I know some of you are more than ready to take the next steps in your spiritual journeys."
-    ih "I know some of you are more than ready to take the next steps in your spiritual journeys."
+    ih "我知道你们中的一些人已经准备好在你们的灵性旅程中迈出下一步了。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:91
 translate chinese b1c08cs08_0bd9b8ab:
 
     # "Ivy saunters to where you're seated, a demure, sultry expression on her features."
-    "Ivy saunters to where you're seated, a demure, sultry expression on her features."
+    "艾薇慢悠悠地走到你坐的地方，脸上带着端庄、性感的表情。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:95
 translate chinese b1c08cs08_71c90e73:
 
     # ih "And I am so eager to see which of you shows interest in achieving the next steps to enlightenment."
-    ih "And I am so eager to see which of you shows interest in achieving the next steps to enlightenment."
+    ih "我迫不及待地想知道你们中谁有兴趣完成下一步的启蒙。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:97
 translate chinese b1c08cs08_60da8af8:
 
     # "Ivy's hands gently grip your shoulders as she leans down to whisper to you. Her hot breath tickles your ear as she speaks."
-    "Ivy's hands gently grip your shoulders as she leans down to whisper to you. Her hot breath tickles your ear as she speaks."
+    "艾薇的双手轻轻握住你的肩膀，俯身对你耳语。她说话时，灼热的气息拂过你的耳畔。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:99
 translate chinese b1c08cs08_57fc2066:
 
     # ih "*Whispers* Mm, blessed be {i}you{/i}, darling newcomer, for most disciples of Narurra find her faith through some senseless act of love—and I plan to claim what is mine."
-    ih "*Whispers* Mm, blessed be {i}you{/i}, darling newcomer, for most disciples of Narurra find her faith through some senseless act of love—and I plan to claim what is mine."
+    ih "*低语* 嗯，祝福{i}你{/i}，亲爱的新人，因为大多数纳鲁拉的信徒都是通过一些愚蠢的爱的行为找到她的信仰的--而我打算夺回属于我的信仰。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:102
 translate chinese b1c08cs08_69a9c175:
 
     # "Ivy slides her hands from your shoulders and walks away, leaving her strange words echoing in your head."
-    "Ivy slides her hands from your shoulders and walks away, leaving her strange words echoing in your head."
+    "艾薇的手从你的肩膀上滑落，然后走开了，只留下她那奇怪的话在你脑中回荡。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:106
 translate chinese b1c08cs08_af46c177:
 
     # mct "What the hell was that about?"
-    mct "What the hell was that about?"
+    mct "这到底是怎么回事？"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:109
 translate chinese b1c08cs08_d6bef4c1:
 
     # dk "What did you do to attract {i}her{/i} attention? She's practically feverish with desire."
-    dk "What did you do to attract {i}her{/i} attention? She's practically feverish with desire."
+    dk "你做了什么来吸引{i}她的{/i}注意？她简直是欲火焚身。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:112
 translate chinese b1c08cs08_0cbcc25b:
 
     # mc "I have no idea."
-    mc "I have no idea."
+    mc "我不知道。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:114
 translate chinese b1c08cs08_b1e44293:
 
     # "While Ivy and Andre continue the sermon, you whisper to Lumi."
-    "While Ivy and Andre continue the sermon, you whisper to Lumi."
+    "艾薇和安杰斯继续宣讲时，你和卢米说悄悄话。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:116
 translate chinese b1c08cs08_6dbf6aae:
 
     # mc "Have you thought anymore about that tattoo?"
-    mc "Have you thought anymore about that tattoo?"
+    mc "你想过纹身的事吗？"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:120
 translate chinese b1c08cs08_b7095039:
 
     # ll "N-no... I've been busy here, and...and I'm still afraid."
-    ll "N-no... I've been busy here, and...and I'm still afraid."
+    ll "呃没...我一直很忙，而且...我还是很害怕。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:123
 translate chinese b1c08cs08_401b690d:
 
     # mc "Lumi. I thought you said you'd think about it at least."
-    mc "Lumi. I thought you said you'd think about it at least."
+    mc "卢米。我记得你说过你至少要考虑一下。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:126
 translate chinese b1c08cs08_4238201a:
 
     # ll "I know. It's just—"
-    ll "I know. It's just—"
+    ll "我知道。只是--"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:129
 translate chinese b1c08cs08_84b84fee:
 
     # mc "Tonight would be a good time to announce your decision. And I think it'd be best if it was a positive answer."
-    mc "Tonight would be a good time to announce your decision. And I think it'd be best if it was a positive answer."
+    mc "今晚是宣布你的决定的好时机。我认为如果答案是肯定的就最好了。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:130
 translate chinese b1c08cs08_c988a918:
 
     # mc "You don't want to disappoint these people and their god, do you?"
-    mc "You don't want to disappoint these people and their god, do you?"
+    mc "你不想让这些人和他们信仰的神失望吧？"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:133
 translate chinese b1c08cs08_3722dde3:
 
     # ll "No!"
-    ll "No!"
+    ll "不！"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:136
 translate chinese b1c08cs08_0409d225:
 
     # mc "Shh!"
-    mc "Shh!"
+    mc "嘘！"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:139
 translate chinese b1c08cs08_e63d7d5d:
 
     # ll "Sorry. No, no. I don't want to disappoint anyone. It's just that this is a really big decision and I—"
-    ll "Sorry. No, no. I don't want to disappoint anyone. It's just that this is a really big decision and I—"
+    ll "对不起。不，我不想。我不想让任何人失望。只是这是个非常重大的决定，我—"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:142
 translate chinese b1c08cs08_ca0f26b4:
 
     # mc "Then do it. Lumi, you might never progress if you don't just get over yourself. Sometimes the things we want the most are the most difficult to commit to."
-    mc "Then do it. Lumi, you might never progress if you don't just get over yourself. Sometimes the things we want the most are the most difficult to commit to."
+    mc "那就去做吧。卢米，如果你不克服自己，你可能永远不会进步。有时候，我们最想要的东西恰恰是最难承诺的。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:145
 translate chinese b1c08cs08_c81e65aa:
 
     # ll "O-okay."
-    ll "O-okay."
+    ll "好、好吧。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:149
 translate chinese b1c08cs08_35864b7a:
 
     # ll "Not very much."
-    ll "Not very much."
+    ll "没怎么想过。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:151
 translate chinese b1c08cs08_4116c6c5:
 
     # "Lumi leans close to your face, almost within kissing distance."
-    "Lumi leans close to your face, almost within kissing distance."
+    "卢米凑近你的脸，几乎就在接吻的距离内。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:153
 translate chinese b1c08cs08_b2d32c92:
 
     # ll "{i}You've{/i} been keeping me plenty busy when my Guide isn't."
-    ll "{i}You've{/i} been keeping me plenty busy when my Guide isn't."
+    ll "当我的向导不在的时候，{i}你{/i}让我忙得不可开交。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:156
 translate chinese b1c08cs08_4339f6a8:
 
     # mc "And I see you've been gaining confidence because of it."
-    mc "And I see you've been gaining confidence because of it."
+    mc "我看到你也因此获得了自信。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:159
 translate chinese b1c08cs08_f98ab310:
 
     # ll "I sure have."
-    ll "I sure have."
+    ll "当然了。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:160
 translate chinese b1c08cs08_7b01b427:
 
     # "Lumi gives you a sweet, intimate smile."
-    "Lumi gives you a sweet, intimate smile."
+    "卢米给你一个甜蜜、亲密的微笑。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:163
 translate chinese b1c08cs08_edd2d31e:
 
     # ll "I appreciate your kindness and patience. Because of you, I think I really want to take the next steps in my self-discovery journey."
-    ll "I appreciate your kindness and patience. Because of you, I think I really want to take the next steps in my self-discovery journey."
+    ll "我很感激你的好意和耐心。因为你，我真的想在自我探索之旅中迈出下一步。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:164
 translate chinese b1c08cs08_5dd08b1a:
 
     # ll "This community has been so pleasant and enjoyable, and you've been so supportive. I want to see what's next."
-    ll "This community has been so pleasant and enjoyable, and you've been so supportive. I want to see what's next."
+    ll "这个社区让我觉得很愉快，很享受，你也给予了我极大的支持。我想看看接下来会发生什么。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:171
 translate chinese b1c08cs08_c1957c03:
 
     # mc "That's great, Lumi. It's been inspiring to see you blossom under the guidance of everyone here."
-    mc "That's great, Lumi. It's been inspiring to see you blossom under the guidance of everyone here."
+    mc "太好了，卢米。看到你在这里所有人的指导下茁壮成长，真是令人鼓舞。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:173
 translate chinese b1c08cs08_fc603c59:
 
     # mct "Even if that guidance is heavily misdirected..."
-    mct "Even if that guidance is heavily misdirected..."
+    mct "即使这种指导有很大的误导性..."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:174
 translate chinese b1c08cs08_eecb861a:
 
     # mct "I fucking hate doing this. But I'm here for the investigation first and foremost."
-    mct "I fucking hate doing this. But I'm here for the investigation first and foremost."
+    mct "我他妈讨厌这样做。但我来这里首先是为了调查。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:177
 translate chinese b1c08cs08_031d50f6:
