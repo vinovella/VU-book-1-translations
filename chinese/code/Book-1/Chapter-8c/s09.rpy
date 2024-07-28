@@ -4,343 +4,343 @@
 translate chinese b1c08cs09_032cd161:
 
     # mct "Delphia said she'd talk to Ivy and Andre this morning..."
-    mct "Delphia said she'd talk to Ivy and Andre this morning..."
+    mct "德尔菲娅说她今天早上会跟艾薇和安杰斯谈谈..."
 
 # game/code/Book-1/Chapter-8c/s09.rpy:16
 translate chinese b1c08cs09_2f35362e:
 
     # mct "Hopefully she's got some good news."
-    mct "Hopefully she's got some good news."
+    mct "希望她有好消息。"
 
 # game/code/Book-1/Chapter-8c/s09.rpy:20
 translate chinese b1c08cs09_33f72f9d:
 
     # "You hear loud, agitated voices coming from the cabin. It sounds like Delphia is one of the voices."
-    "You hear loud, agitated voices coming from the cabin. It sounds like Delphia is one of the voices."
+    "你听到小屋里传来嘈杂而激动的声音。听起来德尔菲娅就是其中一个声音。"
 
 # game/code/Book-1/Chapter-8c/s09.rpy:26
 translate chinese b1c08cs09_e9aceaf2:
 
     # "You stride to the cabin and enter it without knocking, worried something might be wrong."
-    "You stride to the cabin and enter it without knocking, worried something might be wrong."
+    "你大步走向小屋，没敲门就进去了，担心出了什么问题。"
 
 # game/code/Book-1/Chapter-8c/s09.rpy:30
 translate chinese b1c08cs09_d3c11706:
 
     # "Morning dawns in the commune cabin, the image of a peaceful sanctuary if not for the tense conflict inside."
-    "Morning dawns in the commune cabin, the image of a peaceful sanctuary if not for the tense conflict inside."
+    "晨曦初现，照亮了公社小屋，如果里面没有发生紧张冲突的话，这里就像一个和平的避难所。"
 
 # game/code/Book-1/Chapter-8c/s09.rpy:33
 translate chinese b1c08cs09_115544fb:
 
     # dk "You are being unjust and intolerant!"
-    dk "You are being unjust and intolerant!"
+    dk "你没做到公正，没做到接纳！"
 
 # game/code/Book-1/Chapter-8c/s09.rpy:36
 translate chinese b1c08cs09_f1570bf3:
 
     # dk "For all the preaching about acceptance and open-mindedness, {i}you're{/i} the one who buckles under the pressure to teach some of the best minds I have found at the university!"
-    dk "For all the preaching about acceptance and open-mindedness, {i}you're{/i} the one who buckles under the pressure to teach some of the best minds I have found at the university!"
+    dk "虽然一直在宣扬包容和开放的思想，但对于我在大学里发现的这些最优秀的人才，{i}你才是{/i}会在压力下屈服的那个人！"
 
 # game/code/Book-1/Chapter-8c/s09.rpy:39
 translate chinese b1c08cs09_0556e503:
 
     # dk "You are no better than a pig in pearls if you hold my pupils back. Nia and [mcname] have repeatedly shown their devotion to this community."
-    dk "You are no better than a pig in pearls if you hold my pupils back. Nia and [mcname] have repeatedly shown their devotion to this community."
+    dk "如果你拖我学生的后腿，那你比猪还不如。妮娅和[mcname]已经多次表明了他们对这个社区的奉献灵性。"
 
 # game/code/Book-1/Chapter-8c/s09.rpy:42
 translate chinese b1c08cs09_ad24fe67:
 
     # ad "I agree Nia is a devoted, wonderful individual."
-    ad "I agree Nia is a devoted, wonderful individual."
+    ad "我同意妮娅是一个忠诚、优秀的人。"
 
 # game/code/Book-1/Chapter-8c/s09.rpy:44
 translate chinese b1c08cs09_3fb795c4:
 
     # ad "It's unfortunate she was paired with an obtuse nitwit."
-    ad "It's unfortunate she was paired with an obtuse nitwit."
+    ad "不幸的是，她和一个迟钝的傻瓜在一起。"
 
 # game/code/Book-1/Chapter-8c/s09.rpy:47
 translate chinese b1c08cs09_00cab8e4:
 
     # ad "Speak of the devil."
-    ad "Speak of the devil."
+    ad "说曹操，曹操到。"
 
 # game/code/Book-1/Chapter-8c/s09.rpy:53
 translate chinese b1c08cs09_1823f1e4:
 
     # "You ignore Andrejz's despicable insult and go to sit with Nia and Ivy."
-    "You ignore Andrejz's despicable insult and go to sit with Nia and Ivy."
+    "你无视安杰斯卑鄙的侮辱，去和妮娅和艾薇坐在了一起。"
 
 # game/code/Book-1/Chapter-8c/s09.rpy:56
 translate chinese b1c08cs09_6825affd:
 
     # "Ivy flashes you an enthusiastic smile as your thigh touches hers."
-    "Ivy flashes you an enthusiastic smile as your thigh touches hers."
+    "当你的大腿碰到艾薇的大腿时，艾薇对你露出了热情的微笑。"
 
 # game/code/Book-1/Chapter-8c/s09.rpy:58
 translate chinese b1c08cs09_c3f8f02d:
 
     # "A smirk crosses your lips as you lock eyes with Andre, knowing it infuriates him that Ivy prefers your company to his."
-    "A smirk crosses your lips as you lock eyes with Andre, knowing it infuriates him that Ivy prefers your company to his."
+    "当你和安杰斯目光相遇时，你的嘴角掠过一丝得意的笑容，因为你知道相比于他，艾薇更喜欢和你在一起，这事让他很生气。"
 
 # game/code/Book-1/Chapter-8c/s09.rpy:61
 translate chinese b1c08cs09_f5821d8a:
 
     # ih "Don't worry. They're both loud when they're discussing opposing opinions."
-    ih "Don't worry. They're both loud when they're discussing opposing opinions."
+    ih "别担心。他们在讨论相反意见时都很大声。"
 
 # game/code/Book-1/Chapter-8c/s09.rpy:62
 translate chinese b1c08cs09_3c1bdb50:
 
     # ih "It's not as serious as it seems."
-    ih "It's not as serious as it seems."
+    ih "事情不像看上去那么严重。"
 
 # game/code/Book-1/Chapter-8c/s09.rpy:65
 translate chinese b1c08cs09_cc521ca4:
 
     # mc "It seems pretty serious."
-    mc "It seems pretty serious."
+    mc "看起来是挺严重的。"
 
 # game/code/Book-1/Chapter-8c/s09.rpy:66
 translate chinese b1c08cs09_9005aa69:
 
     # mct "Delphia has some distinctly unique opinions about what {b}womanly charms{/b} means in regards to persuading Andrejz to let me progress."
-    mct "Delphia has some distinctly unique opinions about what {b}womanly charms{/b} means in regards to persuading Andrejz to let me progress."
+    mct "德尔菲娅说她会用她的{b}女性魅力{/b}征服安杰斯，让他同意我的进步，显然德尔菲娅在这方面有些独特的见解。"
 
 # game/code/Book-1/Chapter-8c/s09.rpy:70
 translate chinese b1c08cs09_cfbbf64f:
 
     # ih "*Chuckles* I have seen Andre nit-pick many participants over the years."
-    ih "*Chuckles* I have seen Andre nit-pick many participants over the years."
+    ih "*咯咯笑* 这么多年来，我见过安杰斯对许多待晋级人员吹毛求疵。"
 
 # game/code/Book-1/Chapter-8c/s09.rpy:71
 translate chinese b1c08cs09_06123ed4:
 
     # ih "He just cares a lot about our community and making sure only those who are truly aligned with us are let through."
-    ih "He just cares a lot about our community and making sure only those who are truly aligned with us are let through."
+    ih "他只是非常关心我们的社区，并确保只有那些真正与我们一致的人才能通过。"
 
 # game/code/Book-1/Chapter-8c/s09.rpy:74
 translate chinese b1c08cs09_8b9312aa:
 
     # ih "But I know you're ready, aren't you?"
-    ih "But I know you're ready, aren't you?"
+    ih "但我知道你已经准备好了，不是吗？"
 
 # game/code/Book-1/Chapter-8c/s09.rpy:75
 translate chinese b1c08cs09_9257c3c3:
 
     # ih "Ready and willing..."
-    ih "Ready and willing..."
+    ih "不仅准备好了，而且愿意..."
 
 # game/code/Book-1/Chapter-8c/s09.rpy:77
 translate chinese b1c08cs09_400a7aac:
 
     # "Andre and Delphia's discussion distracts you and Ivy."
-    "Andre and Delphia's discussion distracts you and Ivy."
+    "安杰斯和德尔菲娅的谈话分散了你和艾薇的注意力。"
 
 # game/code/Book-1/Chapter-8c/s09.rpy:79
 translate chinese b1c08cs09_6a4bb3c3:
 
     # ad "The journey to higher ranks is not something that happens without great effort!"
-    ad "The journey to higher ranks is not something that happens without great effort!"
+    ad "通往更高阶的旅程，不可能不费吹灰之力就能完成的！"
 
 # game/code/Book-1/Chapter-8c/s09.rpy:80
 translate chinese b1c08cs09_8801205b:
 
     # ad "It's a journey that {i}some{/i} may not be ready for."
-    ad "It's a journey that {i}some{/i} may not be ready for."
+    ad "{i}有些人{/i}可能都还没有准备好迎接这段旅程。"
 
 # game/code/Book-1/Chapter-8c/s09.rpy:83
 translate chinese b1c08cs09_a428c489:
 
     # dk "What more could my pupils possibly offer you?"
-    dk "What more could my pupils possibly offer you?"
+    dk "我的学生还能给你什么呢？"
 
 # game/code/Book-1/Chapter-8c/s09.rpy:84
 translate chinese b1c08cs09_73caa730:
 
     # dk "I have also been a loyal, devoted member of this community. Not once have you doubted me. What makes you doubt me {i}now{/i}?"
-    dk "I have also been a loyal, devoted member of this community. Not once have you doubted me. What makes you doubt me {i}now{/i}?"
+    dk "我也一直是这个社区忠心耿耿的一员。你没有一次怀疑过我。{i}现在{/i}是什么让你怀疑我了呢？"
 
 # game/code/Book-1/Chapter-8c/s09.rpy:87
 translate chinese b1c08cs09_f79b2ab8:
 
     # "Ivy gives an impatient huff, bored of Andre and Delphia's bickering."
-    "Ivy gives an impatient huff, bored of Andre and Delphia's bickering."
+    "艾薇不耐烦地哼了一声，对安杰斯和德尔菲娅的争吵感到厌烦。"
 
 # game/code/Book-1/Chapter-8c/s09.rpy:89
 translate chinese b1c08cs09_b6f4a197:
 
     # ih "Andre, darling. Don't you think you're being a bit harsh? [mcname] hasn't done anything blatantly offensive."
-    ih "Andre, darling. Don't you think you're being a bit harsh? [mcname] hasn't done anything blatantly offensive."
+    ih "安杰斯，亲爱的。你不觉得自己有点过分吗？[mcname]并没有做什么公然冒犯的事情。"
 
 # game/code/Book-1/Chapter-8c/s09.rpy:90
 translate chinese b1c08cs09_015d10ef:
 
     # ih "And it's not fair to stifle Delphia and Nia like this. Their spiritual progress is being affected too."
-    ih "And it's not fair to stifle Delphia and Nia like this. Their spiritual progress is being affected too."
+    ih "而且像这样扼杀德尔菲娅和妮娅是不公平的。他们的灵性进步也受到了影响。"
 
 # game/code/Book-1/Chapter-8c/s09.rpy:92
 translate chinese b1c08cs09_0d8099e9:
 
     # mct "He really will do anything to hold me back. I need to get on top of this."
-    mct "He really will do anything to hold me back. I need to get on top of this."
+    mct "他真的会不择手段地阻挠我。我得抓紧时间了。"
 
 # game/code/Book-1/Chapter-8c/s09.rpy:94
 translate chinese b1c08cs09_085de283:
 
     # mc "Readiness is a complex thing, isn't it? As we saw with Lumi. Sometimes, we don't know we're ready until we're given the chance to prove it."
-    mc "Readiness is a complex thing, isn't it? As we saw with Lumi. Sometimes, we don't know we're ready until we're given the chance to prove it."
+    mc "准备好从而晋升这事儿本来就挺复杂，不是吗？就像我们在卢米身上看到的。有时候，我们不知道自己准备好了，直到我们有机会证明这一点。"
 
 # game/code/Book-1/Chapter-8c/s09.rpy:100
 translate chinese b1c08cs09_bed3820c:
 
     # ih "Who truly decides readiness, Andre?"
-    ih "Who truly decides readiness, Andre?"
+    ih "谁真正决定有没有准备好达到晋升，安杰斯？"
 
 # game/code/Book-1/Chapter-8c/s09.rpy:102
 translate chinese b1c08cs09_9400a54f:
 
     # ad "Narurra."
-    ad "Narurra."
+    ad "纳鲁拉。"
 
 # game/code/Book-1/Chapter-8c/s09.rpy:104
 translate chinese b1c08cs09_b41786b5:
 
     # ih "Exactly. Is it not the very complex path to spirituality we seek to understand?"
-    ih "Exactly. Is it not the very complex path to spirituality we seek to understand?"
+    ih "完全正确。我们所要了解的不正是通往灵性的复杂之路吗？"
 
 # game/code/Book-1/Chapter-8c/s09.rpy:107
 translate chinese b1c08cs09_cdd81105:
 
     # "Andre averts his gaze, frustrated and ashamed."
-    "Andre averts his gaze, frustrated and ashamed."
+    "安杰斯把视线移开，他看上去既沮丧又羞愧。"
 
 # game/code/Book-1/Chapter-8c/s09.rpy:111
 translate chinese b1c08cs09_43c3f623:
 
     # ih "So let Narurra challenge these newcomers instead."
-    ih "So let Narurra challenge these newcomers instead."
+    ih "那就让纳鲁拉去挑战这些新人吧。"
 
 # game/code/Book-1/Chapter-8c/s09.rpy:112
 translate chinese b1c08cs09_bd94b4fa:
 
     # ih "It is not your duty to judge and dismiss everyone who engages with us."
-    ih "It is not your duty to judge and dismiss everyone who engages with us."
+    ih "你的职责不是评判和否定每一个与我们接触的人。"
 
 # game/code/Book-1/Chapter-8c/s09.rpy:113
 translate chinese b1c08cs09_e54b70e6:
 
     # ih "Just guide them, and let Narurra decide the rest."
-    ih "Just guide them, and let Narurra decide the rest."
+    ih "你只管引导他们，让纳鲁拉决定其余的事。"
 
 # game/code/Book-1/Chapter-8c/s09.rpy:116
 translate chinese b1c08cs09_b0cfb574:
 
     # "Nia reaches over to squeeze your arm comfortingly, a strained smile on her lips."
-    "Nia reaches over to squeeze your arm comfortingly, a strained smile on her lips."
+    "妮娅伸出手安慰性地捏了捏你的胳膊，嘴角挂着勉强的微笑。"
 
 # game/code/Book-1/Chapter-8c/s09.rpy:118
 translate chinese b1c08cs09_87a3ee75:
 
     # nv "I'm sorry."
-    nv "I'm sorry."
+    nv "对不起。"
 
 # game/code/Book-1/Chapter-8c/s09.rpy:120
 translate chinese b1c08cs09_15066994:
 
     # mc "What? Why? You didn't do anything."
-    mc "What? Why? You didn't do anything."
+    mc "什么？为什么？你什么也没做。"
 
 # game/code/Book-1/Chapter-8c/s09.rpy:123
 translate chinese b1c08cs09_e6631837:
 
     # nv "No, but this is difficult. *Sigh* And I wish we could just get back to self-discovery. This place is supposed to test our spirituality, not our patience!"
-    nv "No, but this is difficult. *Sigh* And I wish we could just get back to self-discovery. This place is supposed to test our spirituality, not our patience!"
+    nv "不是的，是我觉得现实很难。*叹气* 我希望我们能回到自我探索的状态。这个地方应该考验我们的灵性，而不是耐心！"
 
 # game/code/Book-1/Chapter-8c/s09.rpy:126
 translate chinese b1c08cs09_2fa56644:
 
     # "Nia tugs on your hand and gets you to stand with her."
-    "Nia tugs on your hand and gets you to stand with her."
+    "妮娅拉着你的手，让你站在她身边。"
 
 # game/code/Book-1/Chapter-8c/s09.rpy:128
 translate chinese b1c08cs09_eddeb0e8:
 
     # nv "C'mon. We should have some say in our spiritual journey together, rather than letting these people tell us what we can and can't do."
-    nv "C'mon. We should have some say in our spiritual journey together, rather than letting these people tell us what we can and can't do."
+    nv "想想看。在我们共同的灵性旅程中，我们应该有一些发言权，而不是让这些人告诉我们能做什么，不能做什么。"
 
 # game/code/Book-1/Chapter-8c/s09.rpy:130
 translate chinese b1c08cs09_7b7d6be9:
 
     # mc "In all your beautiful, intelligent glory; You're completely right."
-    mc "In all your beautiful, intelligent glory; You're completely right."
+    mc "你身上闪耀着智慧的荣耀之美；你说得完全正确。"
 
 # game/code/Book-1/Chapter-8c/s09.rpy:139
 translate chinese b1c08cs09_d9befa0e:
 
     # nv "[mcname] and I deserve to progress. If we have to prove ourselves one more time, fine. But let us do that, then!"
-    nv "[mcname] and I deserve to progress. If we have to prove ourselves one more time, fine. But let us do that, then!"
+    nv "[mcname]和我值得进步。如果我们要再证明一次自己，那好吧。那就让我们这么做吧！"
 
 # game/code/Book-1/Chapter-8c/s09.rpy:141
 translate chinese b1c08cs09_0b67996f:
 
     # nv "We won't know our limits unless we push them, Andre. And what better time than now"
-    nv "We won't know our limits unless we push them, Andre. And what better time than now"
+    nv "安杰斯，除非我们突破极限，否则我们不会知道自己的极限。还有什么比现在更好的时机呢？"
 
 # game/code/Book-1/Chapter-8c/s09.rpy:144
 translate chinese b1c08cs09_e7d16713:
 
     # nv "While we are here where everyone can witness our virtue and devotion to this place, this {i}community{/i}?"
-    nv "While we are here where everyone can witness our virtue and devotion to this place, this {i}community{/i}?"
+    nv "我们现在在这里，每个人都可以见证我们对这个地方的美德和奉献，对这个{i}社区{/i}的忠诚和付出，这个时刻岂不很好？"
 
 # game/code/Book-1/Chapter-8c/s09.rpy:147
 translate chinese b1c08cs09_5b70737f:
 
     # dk "*Nods* Besides, there is a full moon tonight. We were planning a spiritual ritual for the newcomers anyway, weren't we? Narurra's spirit will be even stronger."
-    dk "*Nods* Besides, there is a full moon tonight. We were planning a spiritual ritual for the newcomers anyway, weren't we? Narurra's spirit will be even stronger."
+    dk "*点头* 另外，今晚是满月。我们本来是要为新来的人准备一个灵性仪式的，不是吗？纳鲁拉的灵魂会更加强大。"
 
 # game/code/Book-1/Chapter-8c/s09.rpy:148
 translate chinese b1c08cs09_9d887bae:
 
     # dk "If we wait 'til next month, we will be gone."
-    dk "If we wait 'til next month, we will be gone."
+    dk "如果等到下个月，我们就走了。"
 
 # game/code/Book-1/Chapter-8c/s09.rpy:149
 translate chinese b1c08cs09_a01defb0:
 
     # dk "Certainly our lovely fledgling disciples shouldn't miss this opportunity. Let them prove themselves with this ritual."
-    dk "Certainly our lovely fledgling disciples shouldn't miss this opportunity. Let them prove themselves with this ritual."
+    dk "当然，我们可爱的新弟子们不应该错过这个机会。让他们用这个仪式来证明自己吧。"
 
 # game/code/Book-1/Chapter-8c/s09.rpy:153
 translate chinese b1c08cs09_013d86b5:
 
     # "Andre rubs his temples, as if burdened by the weight of a decision that really isn't even up to him. It's up to Narurra, if what Ivy says holds any weight."
-    "Andre rubs his temples, as if burdened by the weight of a decision that really isn't even up to him. It's up to Narurra, if what Ivy says holds any weight."
+    "安杰斯揉了揉太阳穴，仿佛背负着一个根本不由他做主的决定带来的重担。如果艾薇说的话有分量，那就看纳鲁拉的了。"
 
 # game/code/Book-1/Chapter-8c/s09.rpy:156
 translate chinese b1c08cs09_c9076ddc:
 
     # ih "See? This is the perfect time to let the newcomers prove their integrity."
-    ih "See? This is the perfect time to let the newcomers prove their integrity."
+    ih "看到了吗？这是让新人证明自己诚实的最佳时机。"
 
 # game/code/Book-1/Chapter-8c/s09.rpy:158
 translate chinese b1c08cs09_14168b17:
 
     # ad "But we haven't had enough {i}time{/i}, Ivy."
-    ad "But we haven't had enough {i}time{/i}, Ivy."
+    ad "但是我们没有足够的{i}时间{/i}，艾薇。"
 
 # game/code/Book-1/Chapter-8c/s09.rpy:162
 translate chinese b1c08cs09_f139370a:
 
     # ih "They haven't had enough time, or {i}you{/i} haven't had enough time?"
-    ih "They haven't had enough time, or {i}you{/i} haven't had enough time?"
+    ih "是我们时间不够，还是{i}你{/i}时间不够？"
 
 # game/code/Book-1/Chapter-8c/s09.rpy:163
 translate chinese b1c08cs09_4d9b909c:
 
     # ih "You understand the importance of having a {i}a proper man{/i} with us during our holy rituals, don't you, Andre?"
-    ih "You understand the importance of having a {i}a proper man{/i} with us during our holy rituals, don't you, Andre?"
+    ih "你应该明白在我们神圣的仪式上，有一个{i}合适的男人{/i}陪伴的重要性。对吧，安杰斯？"
 
 # game/code/Book-1/Chapter-8c/s09.rpy:166
 translate chinese b1c08cs09_6a99c843:
