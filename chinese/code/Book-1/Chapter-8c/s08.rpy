@@ -1162,517 +1162,517 @@ translate chinese b1c08cs08_ll_punishment_9e7c514c:
 translate chinese b1c08cs08_ll_punishment_9fcca99c:
 
     # ad "I knew you could do it, my pet. So brave and resilient are you."
-    ad "I knew you could do it, my pet. So brave and resilient are you."
+    ad "我就知道你能做到，我的宝贝。你这么勇敢，又这么坚韧。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:612
 translate chinese b1c08cs08_ll_punishment_8453b9c7:
 
     # "You and Ivy stare each other down, at an impasse."
-    "You and Ivy stare each other down, at an impasse."
+    "你和艾薇凝视着对方，陷入僵局。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:615
 translate chinese b1c08cs08_ll_punishment_75b540b6:
 
     # mct "Getting Lumi kicked out won't make her any happier."
-    mct "Getting Lumi kicked out won't make her any happier."
+    mct "把卢米赶出去不会让她更开心。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:616
 translate chinese b1c08cs08_ll_punishment_5a0f8218:
 
     # mct "And jeopardizing my position within the group won't help my investigation either..."
-    mct "And jeopardizing my position within the group won't help my investigation either..."
+    mct "我在组织中的地位被危及的话，对我的调查也没有帮助..."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:617
 translate chinese b1c08cs08_ll_punishment_e8e245d4:
 
     # mct "Damnit. I have to do this."
-    mct "Damnit. I have to do this."
+    mct "该死。我必须这么做。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:625
 translate chinese b1c08cs08_ll_punishment_1c2a8538:
 
     # mc "It's okay. I'll go easy on you, Lumi."
-    mc "It's okay. I'll go easy on you, Lumi."
+    mc "没关系。我会对你手下留情的，卢米。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:626
 translate chinese b1c08cs08_ll_punishment_9bc0c695:
 
     # mct "I'll make it look rough but be gentle. Maybe I can even caress her a bit to soften the spanks."
-    mct "I'll make it look rough but be gentle. Maybe I can even caress her a bit to soften the spanks."
+    mct "我会让它看起来很粗暴，但实际是温柔的。也许我还可以稍微抚摸一下她，让她的屁股少受点罪。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:629
 translate chinese b1c08cs08_ll_punishment_1088ead4:
 
     # ll "Thank you. You're very kind."
-    ll "Thank you. You're very kind."
+    ll "谢谢你。你真是太好了。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:632
 translate chinese b1c08cs08_ll_punishment_4d7bbc61:
 
     # ll "I'll be sure to make it convincing."
-    ll "I'll be sure to make it convincing."
+    ll "我一定会配合你，让别人信服的。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:635
 translate chinese b1c08cs08_ll_punishment_b422f4f1:
 
     # mc "That's right. We're in it together."
-    mc "That's right. We're in it together."
+    mc "没错。我们是一伙的。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:638
 translate chinese b1c08cs08_ll_punishment_ba6cf4b8:
 
     # "You and Lumi face Ivy and Andre together, presenting a unified front, despite your less than desirable positions."
-    "You and Lumi face Ivy and Andre together, presenting a unified front, despite your less than desirable positions."
+    "你和路明非一起面对艾薇和安杰斯，尽管你们的处境都不太理想，但却呈现出了统一战线。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:644
 translate chinese b1c08cs08_ll_punishment_bac0a4a1:
 
     # "You take a moment to consider your options."
-    "You take a moment to consider your options."
+    "你要花点时间考虑你的选择。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:645
 translate chinese b1c08cs08_ll_punishment_28a9cd86:
 
     # mct "To disrespect this will probably compromise my standing with this group, so it's best to go along. But I can do that in my own way."
-    mct "To disrespect this will probably compromise my standing with this group, so it's best to go along. But I can do that in my own way."
+    mct "不尊重这一点可能会损害我在这个群体中的地位，所以最好还是顺其自然吧。但我可以用自己的方式既遵从他们，又不造成伤害。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:648
 translate chinese b1c08cs08_ll_punishment_126df2c5:
 
     # mct "Regardless of Andre or Ivy's intentions, I'm the one who will be enacting the punishment."
-    mct "Regardless of Andre or Ivy's intentions, I'm the one who will be enacting the punishment."
+    mct 不管安杰斯和艾薇的意图是什么，执行惩罚的人将是我。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:649
 translate chinese b1c08cs08_ll_punishment_8f217a61:
 
     # mct "I will choose how the punishment is enacted. And I choose that the punishment is out of genuine acceptance and love for Lumi."
-    mct "I will choose how the punishment is enacted. And I choose that the punishment is out of genuine acceptance and love for Lumi."
+    mct "我将选择如何实施惩罚。我选择惩罚是出于对卢米真诚的接纳和爱。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:652
 translate chinese b1c08cs08_ll_punishment_58beeb2c:
 
     # mc "Of course. Lumi's punishment is out of love and acceptance for her."
-    mc "Of course. Lumi's punishment is out of love and acceptance for her."
+    mc "当然。对卢米的惩罚是出于对她的爱和接纳。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:653
 translate chinese b1c08cs08_ll_punishment_3e4ce907:
 
     # mc "It is to show her that we have our own boundaries for acceptance, and deserve more than to be disregarded."
-    mc "It is to show her that we have our own boundaries for acceptance, and deserve more than to be disregarded."
+    mc "这是为了告诉她，我们有自己的接受底线，我们应该得到更多而不是被忽视。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:656
 translate chinese b1c08cs08_ll_punishment_a60313cd:
 
     # mc "That said, the punishment is also about encouraging Lumi to make the right choice."
-    mc "That said, the punishment is also about encouraging Lumi to make the right choice."
+    mc "也就是说，惩罚也是为了鼓励卢米做出正确的选择。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:659
 translate chinese b1c08cs08_ll_punishment_58fa3c9b:
 
     # mc "At least, that's what it means to me, and how I want to act on it."
-    mc "At least, that's what it means to me, and how I want to act on it."
+    mc "至少，对我来说是这样，我也想要采取这种行动。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:661
 translate chinese b1c08cs08_ll_punishment_4cd9b135:
 
     # "Ivy smiles at you proudly."
-    "Ivy smiles at you proudly."
+    "艾薇骄傲地对你微笑。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:663
 translate chinese b1c08cs08_ll_punishment_9496ed79:
 
     # ih "That's exactly what I'd hoped to hear from your lips."
-    ih "That's exactly what I'd hoped to hear from your lips."
+    ih "这正是我希望从你嘴里听到的。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:666
 translate chinese b1c08cs08_ll_punishment_2bea97d8:
 
     # ih "Of course, Lumi's punishment is merely a re-directional action. *Laughs* After all, we're not a prison!"
-    ih "Of course, Lumi's punishment is merely a re-directional action. *Laughs* After all, we're not a prison!"
+    ih "当然，卢米的惩罚只是帮助她重新定向的行动。*笑* 毕竟，我们可不是监狱！"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:668
 translate chinese b1c08cs08_ll_punishment_83a79485:
 
     # ih "Do you understand, Lumi?"
-    ih "Do you understand, Lumi?"
+    ih "你明白吗，卢米？"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:671
 translate chinese b1c08cs08_ll_punishment_ac09155f:
 
     # ll "Yes, I understand."
-    ll "Yes, I understand."
+    ll "是的，我明白。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:672
 translate chinese b1c08cs08_ll_punishment_a4e4e877:
 
     # ih "Wonderful. Then let us get started."
-    ih "Wonderful. Then let us get started."
+    ih "太好了。那我们就开始吧。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:676
 translate chinese b1c08cs08_ll_punishment_a3eba46d:
 
     # ih "Andre, get [mcname] a chair so we can begin."
-    ih "Andre, get [mcname] a chair so we can begin."
+    ih "安杰斯，给[mcname]拿把椅子，我们开始吧。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:681
 translate chinese b1c08cs08_ll_punishment_ee4aac44:
 
     # ih "And Lumi, dearest, strip naked so [mcname] can spank you properly."
-    ih "And Lumi, dearest, strip naked so [mcname] can spank you properly."
+    ih "还有卢米，亲爱的，脱光衣服，这样[mcname]就能好好打你屁股了。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:684
 translate chinese b1c08cs08_ll_punishment_2db6c3fd:
 
     # ih "It's a much better experience if you can feel it, hm?"
-    ih "It's a much better experience if you can feel it, hm?"
+    ih "如果他打你的时候你能有所感觉，那这种体验会更好，对吧？"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:687
 translate chinese b1c08cs08_ll_punishment_d4d87a94:
 
     # ll "I suppose you're right..."
-    ll "I suppose you're right..."
+    ll "你说得对..."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:704
 translate chinese b1c08cs08_ll_spanking_d458906e:
 
     # "She before you with a more confident expression, ready to take her punishment with dignity."
-    "She before you with a more confident expression, ready to take her punishment with dignity."
+    "她带着更自信的表情站在你面前，准备体面地接受惩罚。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:707
 translate chinese b1c08cs08_ll_spanking_9822128a:
 
     # ll "I'm glad it's you who's doing the punishment."
-    ll "I'm glad it's you who's doing the punishment."
+    ll "我很高兴惩罚我的人是你。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:708
 translate chinese b1c08cs08_ll_spanking_07f9ceee:
 
     # ll "We're in it together, right?"
-    ll "We're in it together, right?"
+    ll "我们是一伙的，对吧？"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:711
 translate chinese b1c08cs08_ll_spanking_54a52e86:
 
     # mc "Right. I'm right here with you."
-    mc "Right. I'm right here with you."
+    mc "对。我就在你身边。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:715
 translate chinese b1c08cs08_ll_spanking_1dcbe2ce:
 
     # ad "Here. Sit."
-    ad "Here. Sit."
+    ad "这里。坐吧。
 
 # game/code/Book-1/Chapter-8c/s08.rpy:718
 translate chinese b1c08cs08_ll_spanking_7b5278b5:
 
     # "Lumi's hesitancy takes on a more flustered intensity as she looks at you seated before her."
-    "Lumi's hesitancy takes on a more flustered intensity as she looks at you seated before her."
+    "看着你坐在她面前，卢米的犹豫变得更加慌乱。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:721
 translate chinese b1c08cs08_ll_spanking_a01d8242:
 
     # mc "It's alright, Lumi. We're in it together."
-    mc "It's alright, Lumi. We're in it together."
+    mc "没事的，卢米。我们在一起。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:724
 translate chinese b1c08cs08_ll_spanking_57bc15ae:
 
     # ad "Go ahead and bend over his lap, my pet."
-    ad "Go ahead and bend over his lap, my pet."
+    ad "来吧，趴在他腿上，我的宝贝。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:725
 translate chinese b1c08cs08_ll_spanking_11ccb503:
 
     # ad "And do let me know if his brutish hands hurt too much. I'm happy to take over if you—"
-    ad "And do let me know if his brutish hands hurt too much. I'm happy to take over if you—"
+    ad "如果他粗鲁的手太疼，一定要告诉我。我很乐意接手，如果你--"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:728
 translate chinese b1c08cs08_ll_spanking_a2d7f63d:
 
     # "Ivy puts a firm hand on Andre's arm to shut him up."
-    "Ivy puts a firm hand on Andre's arm to shut him up."
+    "艾薇紧紧抓住安杰斯的胳膊，让他闭嘴。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:732
 translate chinese b1c08cs08_ll_spanking_4c9ef7dd:
 
     # "You continue encouraging Lumi, hoping that your words will make this experience less stressful for her."
-    "You continue encouraging Lumi, hoping that your words will make this experience less stressful for her."
+    "你继续鼓励卢米，希望你的话能减轻她的压力。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:734
 translate chinese b1c08cs08_ll_spanking_301712de:
 
     # mc "It's okay, Lumi."
-    mc "It's okay, Lumi."
+    mc "没事的，卢米。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:738
 translate chinese b1c08cs08_ll_spanking_435175f6:
 
     # ll "Oh, I'm not afraid... It's more that I'm excited..."
-    ll "Oh, I'm not afraid... It's more that I'm excited..."
+    ll "哦，我不害怕...我更多的是兴奋..."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:739
 translate chinese b1c08cs08_ll_spanking_0c5b808c:
 
     # ll "Because it's {i}you{/i}."
-    ll "Because it's {i}you{/i}."
+    ll "因为我面前是{i}你{/i}。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:742
 translate chinese b1c08cs08_ll_spanking_62e85ced:
 
     # "Lumi bends over your lap to hide her bright red blush from you."
-    "Lumi bends over your lap to hide her bright red blush from you."
+    "卢米弯腰趴在你腿上，向你掩饰她脸上的绯红。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:748
 translate chinese b1c08cs08_ll_spanking_8dbf9460:
 
     # ih "Well, go on. We're all waiting."
-    ih "Well, go on. We're all waiting."
+    ih "好了，继续吧。我们都等着呢。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:751
 translate chinese b1c08cs08_ll_spanking_7d61ddb0:
 
     # "You run a hand over the curve of Lumi's bare ass, feeling her silky, smooth skin."
-    "You run a hand over the curve of Lumi's bare ass, feeling her silky, smooth skin."
+    "你用手抚摸卢米光洁的臀部曲线，感受她如丝般光滑的肌肤。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:754
 translate chinese b1c08cs08_ll_spanking_2ceabd87:
 
     # "It's not the first time you've touched her soft skin, and yet it feels more vulnerable and delicate now than it did before."
-    "It's not the first time you've touched her soft skin, and yet it feels more vulnerable and delicate now than it did before."
+    "这不是你第一次触摸她柔软的皮肤，但现在感觉比以前更脆弱、更细腻了。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:756
 translate chinese b1c08cs08_ll_spanking_01c5ac14:
 
     # "It's the first time you've touched her delicate skin like this. The softness of her skin against your palm feels intimate."
-    "It's the first time you've touched her delicate skin like this. The softness of her skin against your palm feels intimate."
+    "这是你第一次这样抚摸她娇嫩的皮肤。她的皮肤温润的触感贴在你的手掌上，感觉很亲密。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:759
 translate chinese b1c08cs08_ll_spanking_e8f16f61:
 
     # mc "Okay Lumi. I'm going to start now."
-    mc "Okay Lumi. I'm going to start now."
+    mc "好了，卢米。我要开始了。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:762
 translate chinese b1c08cs08_ll_spanking_c81e65aa:
 
     # ll "O-okay."
-    ll "O-okay."
+    ll "好--好的"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:766
 translate chinese b1c08cs08_ll_spanking_6bc30af5:
 
     # "You raise your hand, and the crowd seems to hold its breath."
-    "You raise your hand, and the crowd seems to hold its breath."
+    "你举起手，全场都屏住了呼吸。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:769
 translate chinese b1c08cs08_ll_spanking_04477fce:
 
     # "The slapping sound from your spank echoes throughout the clearing, and Lumi's ass trembles from the impact."
-    "The slapping sound from your spank echoes throughout the clearing, and Lumi's ass trembles from the impact."
+    "你扇巴掌的声音回荡在空地上，卢米的屁股在你的力道下被打得一颤一颤的。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:772
 translate chinese b1c08cs08_ll_spanking_6b0d6bda:
 
     # "Lumi bites her lip to keep quiet and squeezes her thighs together."
-    "Lumi bites her lip to keep quiet and squeezes her thighs together."
+    "卢米咬着嘴唇保持沉默，紧紧地攥着大腿。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:782
 translate chinese b1c08cs08_ll_spanking_37db77d9:
 
     # "You spank her faster this time; a line has been crossed, and each spank gets easier and easier to perform."
-    "You spank her faster this time; a line has been crossed, and each spank gets easier and easier to perform."
+    "这次你速度更快了，不觉间已经越过了底线，每次打屁股都变得越来越容易。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:794
 translate chinese b1c08cs08_ll_spanking_6369d387:
 
     # "Lumi looks very worried she can't take anymore. Your palm is sore from how long Ivy and Andre have made you spank her."
-    "Lumi looks very worried she can't take anymore. Your palm is sore from how long Ivy and Andre have made you spank her."
+    "卢米看起来很担心，她再也受不了了。艾薇和安杰斯让你打了她很久，你的手掌都酸了。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:797
 translate chinese b1c08cs08_ll_spanking_95c7633a:
 
     # mc "Are you okay?"
-    mc "Are you okay?"
+    mc "你还好吗？"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:800
 translate chinese b1c08cs08_ll_spanking_ccb77054:
 
     # ll "I-I'm fine! I want more! Spank me more."
-    ll "I-I'm fine! I want more! Spank me more."
+    ll "我、我没事！我还想受罚！多打我几下吧。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:802
 translate chinese b1c08cs08_ll_spanking_12ea3f09:
 
     # "You hear it in her voice that she's almost at her limit."
-    "You hear it in her voice that she's almost at her limit."
+    "你从她的声音里可以听出来，她已经快到极限了。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:803
 translate chinese b1c08cs08_ll_spanking_1449595e:
 
     # "Even without hitting your hardest, the amount of time you've been spanking her has had its toll."
-    "Even without hitting your hardest, the amount of time you've been spanking her has had its toll."
+    "即使没有使出你最大的力气，你打她屁股的时间也已经够长了。
 
 # game/code/Book-1/Chapter-8c/s08.rpy:808
 translate chinese b1c08cs08_ll_spanking_bb829b25:
 
     # "You spank her again."
-    "You spank her again."
+    "你又打她屁股了。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:812
 translate chinese b1c08cs08_ll_spanking_5b69e72c:
 
     # "Lumi squeaks from the sting of your palm and scrambles up from your lap."
-    "Lumi squeaks from the sting of your palm and scrambles up from your lap."
+    "你的手掌隐隐作痛，卢米不觉尖叫出声，从你腿上挣扎着爬起来。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:818
 translate chinese b1c08cs08_ll_spanking_5d0fce23:
 
     # ll "I-I'm sorry! I can't take it anymore."
-    ll "I-I'm sorry! I can't take it anymore."
+    ll "我--对不起！我再也受不了了。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:821
 translate chinese b1c08cs08_ll_spanking_6c7016e8:
 
     # ll "I did all I could. It stings! Just give me a little break and I—"
-    ll "I did all I could. It stings! Just give me a little break and I—"
+    ll "我已经尽力了。好痛！让我休息一会儿吧，我—"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:824
 translate chinese b1c08cs08_ll_spanking_b4741130:
 
     # "Lumi covers her face, unable to speak further because she's so choked with emotion."
-    "Lumi covers her face, unable to speak further because she's so choked with emotion."
+    "卢米捂着脸，说不出话来，因为她太激动了。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:826
 translate chinese b1c08cs08_ll_spanking_8ea2fa25:
 
     # "You rise to comfort Lumi, but Ivy motion for you to stay put. You don't want to get Lumi in any more trouble, so you obey."
-    "You rise to comfort Lumi, but Ivy motion for you to stay put. You don't want to get Lumi in any more trouble, so you obey."
+    "你站起来安慰卢米，但艾薇示意你不要动。你不想让卢米陷入更多的麻烦，所以你服从了。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:828
 translate chinese b1c08cs08_ll_spanking_d5fbb546:
 
     # ih "It's alright, Lumi. You can have a break."
-    ih "It's alright, Lumi. You can have a break."
+    ih "没事的，卢米。你可以休息一下。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:831
 translate chinese b1c08cs08_ll_spanking_7cdd935a:
 
     # ad "Everyone, please be patient. Lumi is experiencing ego death."
-    ad "Everyone, please be patient. Lumi is experiencing ego death."
+    ad "各位，请耐心等待。卢米正在经历小我的死亡。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:833
 translate chinese b1c08cs08_ll_spanking_e5c52d1e:
 
     # ad "She needs time, support, and patience through this process."
-    ad "She needs time, support, and patience through this process."
+    ad "在这个过程中，她需要时间、支持和耐心。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:836
 translate chinese b1c08cs08_ll_spanking_89b25170:
 
     # ad "That's it, Lumi. Let it out. We are all here with you."
-    ad "That's it, Lumi. Let it out. We are all here with you."
+    ad "就是这样，卢米。发泄出来吧。我们都和你在一起。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:839
 translate chinese b1c08cs08_ll_spanking_69c7309e:
 
     # "Yvonne rises from her seat and walks to Lumi, nothing but compassion written on her features."
-    "Yvonne rises from her seat and walks to Lumi, nothing but compassion written on her features."
+    "伊冯娜从座位上站起来，走到卢米身边，她的脸上写满了怜悯。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:842
 translate chinese b1c08cs08_ll_spanking_c065009c:
 
     # ys "Lumi, you did so well. Your determination was very moving."
-    ys "Lumi, you did so well. Your determination was very moving."
+    ys "卢米，你做得很好。你的决心令人感动。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:843
 translate chinese b1c08cs08_ll_spanking_5dc2ba63:
 
     # ys "Let me show you that you are not alone."
-    ys "Let me show you that you are not alone."
+    ys "让我告诉你，你并不孤单。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:846
 translate chinese b1c08cs08_ll_spanking_9bf46b38:
 
     # "Yvonne removes her clothes with deliberate solidarity."
-    "Yvonne removes her clothes with deliberate solidarity."
+    "伊冯娜以一种慎重的团结灵性脱下了衣服。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:849
 translate chinese b1c08cs08_ll_spanking_42aa7da9:
 
     # ll "Y-you're beautiful..."
-    ll "Y-you're beautiful..."
+    ll "你--你真漂亮..."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:852
 translate chinese b1c08cs08_ll_spanking_8acdeff2:
 
     # ys "Just like you. We are all magnificent creatures."
-    ys "Just like you. We are all magnificent creatures."
+    ys "我和你一样美丽。我们都是了不起的生物。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:859
 translate chinese b1c08cs08_ll_spanking_6661d99c:
 
     # "At Yvonne's silent que, Sloan and Nerium also rise."
-    "At Yvonne's silent que, Sloan and Nerium also rise."
+    "在伊冯娜的无声支持中，斯隆和奈里姆也站了起来。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:862
 translate chinese b1c08cs08_ll_spanking_e8d7836c:
 
     # "They too strip naked to show their support for Lumi."
-    "They too strip naked to show their support for Lumi."
+    "她们也为了表示对卢米的支持而脱光衣服。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:865
 translate chinese b1c08cs08_ll_spanking_747ac514:
 
     # nw "I didn't think you had it in you. But you showed a great amount of determination to do all that for as long as you could."
-    nw "I didn't think you had it in you. But you showed a great amount of determination to do all that for as long as you could."
+    nw "我没想到你有这个本事。但我看得出来你做了很多努力，也表现出了极大的决心。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:866
 translate chinese b1c08cs08_ll_spanking_1d2e46a9:
 
     # nw "Most would've quit before the hard part even began."
-    nw "Most would've quit before the hard part even began."
+    nw "大多数人甚至在最难的地方还没开始前就已经放弃了。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:869
 translate chinese b1c08cs08_ll_spanking_7e744a30:
 
     # sta "You've proven you're worthy to stand with us. To worship our beloved Narurra, or at least be welcome in her forests."
-    sta "You've proven you're worthy to stand with us. To worship our beloved Narurra, or at least be welcome in her forests."
+    sta "你已经证明了你值得和我们站在一起。你值得去崇拜我们敬爱的纳鲁拉，或者至少可以在她的森林里受到欢迎。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:870
 translate chinese b1c08cs08_ll_spanking_e893c505:
 
     # sta "And—No one should feel alone through ego death. No matter what."
-    sta "And—No one should feel alone through ego death. No matter what."
+    sta "没有人应该因为小我死亡而感到孤独。无论发生什么。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:873
 translate chinese b1c08cs08_ll_spanking_60b6cd4c:
 
     # ll "Y-you really think I did good?"
-    ll "Y-you really think I did good?"
+    ll "你--你真的认为我做得很好？"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:876
 translate chinese b1c08cs08_ll_spanking_57bb33bb:
 
     # ys "Of course, Lumi."
-    ys "Of course, Lumi."
+    ys "当然，卢米。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:882
 translate chinese b1c08cs08_ll_spanking_ed9e97b3:
 
     # ys "I think you're ready to get that tattoo. You've proven yourself, sweetie. The only other thing to do is to act."
-    ys "I think you're ready to get that tattoo. You've proven yourself, sweetie. The only other thing to do is to act."
+    ys "我觉得你已经准备好去纹身了。你已经证明了自己，亲爱的。唯一要做的就是行动起来。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:885
 translate chinese b1c08cs08_ll_spanking_bfad6b91:
 
     # ll "I-I..."
-    ll "I-I..."
+    ll "我--我..."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:887
 translate chinese b1c08cs08_ll_spanking_2da78be3:
 
     # "Lumi smiles widely, a newfound sense of assurance in her esteem."
-    "Lumi smiles widely, a newfound sense of assurance in her esteem."
+    "卢米笑得很灿烂，她的自尊心得到了新的肯定。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:889
 translate chinese b1c08cs08_ll_spanking_9ace8e5a:
