@@ -1678,361 +1678,361 @@ translate chinese b1c08cs08_ll_spanking_2da78be3:
 translate chinese b1c08cs08_ll_spanking_9ace8e5a:
 
     # ll "You're right. The only thing left to do is to act."
-    ll "You're right. The only thing left to do is to act."
+    ll "你说得对。唯一要做的就是行动。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:892
 translate chinese b1c08cs08_ll_spanking_9cdfe85b:
 
     # ll "Andre, I'm ready to get tattooed."
-    ll "Andre, I'm ready to get tattooed."
+    ll "安杰斯，我准备好纹身了。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:895
 translate chinese b1c08cs08_ll_spanking_a2eb2660:
 
     # ad "This is a wonderful display, ladies."
-    ad "This is a wonderful display, ladies."
+    ad "女士们，这真是一场精彩的表演。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:898
 translate chinese b1c08cs08_ll_spanking_33bcc729:
 
     # ad "Lumi, I am elated at your progress just in this exercise."
-    ad "Lumi, I am elated at your progress just in this exercise."
+    ad "卢米，我很高兴你在这个练习中取得了进步。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:899
 translate chinese b1c08cs08_ll_spanking_c525060e:
 
     # ad "But, are you sure you're ready? I certainly wouldn't want you to regret this later..."
-    ad "But, are you sure you're ready? I certainly wouldn't want you to regret this later..."
+    ad "但是，你确定你准备好了吗？我可不希望你以后后悔..."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:902
 translate chinese b1c08cs08_ll_spanking_a001776b:
 
     # ll "Well, what can I do to prove myself? I want to make it clear I'm ready for this."
-    ll "Well, what can I do to prove myself? I want to make it clear I'm ready for this."
+    ll "那，我怎样才能证明我自己呢？我想说清楚，我已经准备好了。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:905
 translate chinese b1c08cs08_ll_spanking_575f4893:
 
     # mc "Hasn't she proved herself enough? She just—"
-    mc "Hasn't she proved herself enough? She just—"
+    mc "她还没有证明自己吗？她刚刚--"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:908
 translate chinese b1c08cs08_ll_spanking_5469ace5:
 
     # ll "It's alright. I want to."
-    ll "It's alright. I want to."
+    ll "没关系。我想这样。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:910
 translate chinese b1c08cs08_ll_spanking_9370b518:
 
     # "Lumi smiles softly and appreciatively at you. It's like you're looking at a different woman."
-    "Lumi smiles softly and appreciatively at you. It's like you're looking at a different woman."
+    "卢米对你温柔一笑，笑容中充满感激。你好像看到了一个不同的女人。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:912
 translate chinese b1c08cs08_ll_spanking_158504b5:
 
     # "A young woman who's determined to follow through with her decision. For better or worse."
-    "A young woman who's determined to follow through with her decision. For better or worse."
+    "一个决心坚持自己决定的年轻女人，。不管这决定是好是坏。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:914
 translate chinese b1c08cs08_ll_spanking_f5a4cbf2:
 
     # ll "I appreciate you defending me. But I'm ready for this."
-    ll "I appreciate you defending me. But I'm ready for this."
+    ll "我很感激你为我辩护。但我已经准备好了。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:917
 translate chinese b1c08cs08_ll_spanking_3f342e9a:
 
     # ll "I want to prove myself."
-    ll "I want to prove myself."
+    ll "我想证明自己。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:920
 translate chinese b1c08cs08_ll_spanking_c6281b4a:
 
     # ad "My, my. You've certainly had a change of heart, my pet."
-    ad "My, my. You've certainly had a change of heart, my pet."
+    ad "天啊，天啊。你的确从心态上改变了，我的宝贝。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:921
 translate chinese b1c08cs08_ll_spanking_ca02e87f:
 
     # ad "If you're so sure, why don't you try touching yourself again? See how your body feels."
-    ad "If you're so sure, why don't you try touching yourself again? See how your body feels."
+    ad "如果你这么肯定，为什么不再试着摸一下自己呢？看看你的身体感觉如何。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:926
 translate chinese b1c08cs08_ll_spanking_e35e7eb3:
 
     # "Lumi closes her eyes and rubs her clit, letting her body's desires take over."
-    "Lumi closes her eyes and rubs her clit, letting her body's desires take over."
+    "卢米闭上眼睛，揉搓她的阴蒂，让身体的欲望占据上风。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:930
 translate chinese b1c08cs08_ll_spanking_854c64a6:
 
     # ad "That's it. Good girl. Tell me how it feels."
-    ad "That's it. Good girl. Tell me how it feels."
+    ad "就是这样。好姑娘。告诉我是什么感觉。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:931
 translate chinese b1c08cs08_ll_spanking_d630b83c:
 
     # ll "It feels...good. I feel good."
-    ll "It feels...good. I feel good."
+    ll "感觉...很好。我感觉很舒服。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:933
 translate chinese b1c08cs08_ll_spanking_3d0c4e16:
 
     # "The previous anxious, high-strung tension of earlier melts away into a more relaxed energy. The air is filled with visceral yearning for pleasure."
-    "The previous anxious, high-strung tension of earlier melts away into a more relaxed energy. The air is filled with visceral yearning for pleasure."
+    "之前那种焦虑、紧张的情绪逐渐消融，变得更加放松。空气中充满了对快乐发自内心的渴望。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:940
 translate chinese b1c08cs08_ll_spanking_d4275004:
 
     # "Nerium, Sloan, and Yvonne follow Lumi's lead. They start indulging in their own bodily desires as well."
-    "Nerium, Sloan, and Yvonne follow Lumi's lead. They start indulging in their own bodily desires as well."
+    "奈里姆、斯隆和伊冯娜紧跟着卢米的节奏。她们也开始放纵自己身体的欲望。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:942
 translate chinese b1c08cs08_ll_spanking_928f42ab:
 
     # ll "I...I want more."
-    ll "I...I want more."
+    ll "我...我还想要。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:945
 translate chinese b1c08cs08_ll_spanking_42a1a9db:
 
     # ad "That's it. Tell me how much you want it, my pet."
-    ad "That's it. Tell me how much you want it, my pet."
+    ad "就是这样。告诉我你有多想要，我的宝贝。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:946
 translate chinese b1c08cs08_ll_spanking_68e0dfc8:
 
     # ad "Let your body speak. Let it tell you what {i}it{/i} wants."
-    ad "Let your body speak. Let it tell you what {i}it{/i} wants."
+    ad "让你的身体为你表达。让它告诉你{i}它{/i}想要什么。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:948
 translate chinese b1c08cs08_ll_spanking_ff9345a9:
 
     # "Lumi's fingers pump in and out of herself faster. Quiet, eager moans escape her lips."
-    "Lumi's fingers pump in and out of herself faster. Quiet, eager moans escape her lips."
+    "卢米的手指加快了进出的速度。安静而热切的呻吟声从她的唇间溢出。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:983
 translate chinese b1c08cs08_ll_spanking_28df24f3:
 
     # ll "I-I'm cumming—"
-    ll "I-I'm cumming—"
+    ll "我--我要来了--"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:986
 translate chinese b1c08cs08_ll_spanking_52e55d78:
 
     # ad "That's it, Lumi!"
-    ad "That's it, Lumi!"
+    ad "就是这样，卢米！"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:988
 translate chinese b1c08cs08_ll_spanking_4c3ab442:
 
     # "Lumi fingers herself through her orgasm, moaning with pleasure."
-    "Lumi fingers herself through her orgasm, moaning with pleasure."
+    "卢米在高潮中用手指自慰，发出愉悦的呻吟。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:991
 translate chinese b1c08cs08_ll_spanking_fe9a696b:
 
     # "Yvonne moans loudly. She's beyond words as her climax overwhelms her."
-    "Yvonne moans loudly. She's beyond words as her climax overwhelms her."
+    "伊冯娜大声呻吟。她的高潮让她无法言语。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:992
 translate chinese b1c08cs08_ll_spanking_ae0c8cb5:
 
     # "Yvonne's bodily juices drip and slip down her full figure."
-    "Yvonne's bodily juices drip and slip down her full figure."
+    "伊冯娜的爱液顺着她丰满的身材滑落。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:997
 translate chinese b1c08cs08_ll_spanking_506b68ff:
 
     # "Nerium cleans Yvonne's body with her tongue, making Yvonne giggle with euphoria."
-    "Nerium cleans Yvonne's body with her tongue, making Yvonne giggle with euphoria."
+    "奈里姆用她的舌头清洗着伊冯娜的身体，让伊冯娜兴奋得咯咯直笑。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:1014
 translate chinese b1c08cs08_end_29e9d581:
 
     # ad "That was an incredible experience to witness, ladies!"
-    ad "That was an incredible experience to witness, ladies!"
+    ad "女士们，这真是一次不可思议的体验！"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:1018
 translate chinese b1c08cs08_end_577c5ddb:
 
     # ad "My sweet Lumi, your orgasm is a sign that you're truly ready."
-    ad "My sweet Lumi, your orgasm is a sign that you're truly ready."
+    ad "我亲爱的卢米，你的高潮是一个标志，说明你已经准备好了。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:1021
 translate chinese b1c08cs08_end_3f9721aa:
 
     # ad "Lumi is ready to advance to the next rank! She will be tattooed as soon as possible when we return home."
-    ad "Lumi is ready to advance to the next rank! She will be tattooed as soon as possible when we return home."
+    ad "卢米已经准备好晋级了！我们回家后会尽快给她纹身。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:1027
 translate chinese b1c08cs08_end_296bdbaf:
 
     # "The rest of the crowd also erupts into excited applause, coerced into agreement after such an intimate and powerful display."
-    "The rest of the crowd also erupts into excited applause, coerced into agreement after such an intimate and powerful display."
+    "在如此亲密而有力的表演之后，其他人群也爆发出兴奋的掌声，强制达成了一致。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:1030
 translate chinese b1c08cs08_end_899281de:
 
     # mct "I was supposed to rise in rank as well if I got Lumi to get this tattoo."
-    mct "I was supposed to rise in rank as well if I got Lumi to get this tattoo."
+    mct "如果我说服卢米去纹这个纹身，我的级别应该也会提升。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:1034
 translate chinese b1c08cs08_end_2fd05136:
 
     # "You lock questioning eyes with Delphia, hoping she can convey some answer as to why you're not also advancing, or at least getting some acknowledgement to the part you played."
-    "You lock questioning eyes with Delphia, hoping she can convey some answer as to why you're not also advancing, or at least getting some acknowledgement to the part you played."
+    "你用质疑的眼神看着德尔菲娅，希望她能给你一些答案，告诉你为什么你没有进步，或者至少对你所扮演的角色有所认可。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:1044
 translate chinese b1c08cs08_end_c65f74d5:
 
     # mc "Did I do something wrong?"
-    mc "Did I do something wrong?"
+    mc "我做错什么了吗？"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:1047
 translate chinese b1c08cs08_end_1e56c17f:
 
     # dk "No, not that I can tell."
-    dk "No, not that I can tell."
+    dk "没有，我看不出来哪里做错了。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:1048
 translate chinese b1c08cs08_end_d262902d:
 
     # dk "I'll talk to Andre and Ivy about your rank tomorrow."
-    dk "I'll talk to Andre and Ivy about your rank tomorrow."
+    dk "我明天会跟安杰斯和艾薇谈谈你的等级。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:1052
 translate chinese b1c08cs08_end_6383c8cc:
 
     # dk "Nia also deserves some more acknowledgement for her progress on her journey."
-    dk "Nia also deserves some more acknowledgement for her progress on her journey."
+    dk "妮娅也应该得到更多的肯定，因为她在旅途中取得了进步。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:1056
 translate chinese b1c08cs08_end_a5f61df0:
 
     # dk "{i}You{/i} did amazingly."
-    dk "{i}You{/i} did amazingly."
+    dk "{i}你{/i}做得很好。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:1057
 translate chinese b1c08cs08_end_0a4d6bbc:
 
     # dk "I was almost envious that I wasn't the one getting spanked..."
-    dk "I was almost envious that I wasn't the one getting spanked..."
+    dk "我都快嫉妒了，我不是那个被打屁股的人..."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:1060
 translate chinese b1c08cs08_end_9d417c89:
 
     # dk "But don't worry. Tomorrow morning I'll talk to them about your rank."
-    dk "But don't worry. Tomorrow morning I'll talk to them about your rank."
+    dk "不过别担心。明天早上我要和他们谈谈你的等级。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:1061
 translate chinese b1c08cs08_end_4a059acd:
 
     # dk "I know that Ivy will agree. Not so sure about Andre."
-    dk "I know that Ivy will agree. Not so sure about Andre."
+    dk "我知道艾薇会同意的。安杰斯的情况就不那么乐观了。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:1062
 translate chinese b1c08cs08_end_a1666568:
 
     # dk "But no matter! I'm sure my womanly charms can persuade him one way or another."
-    dk "But no matter! I'm sure my womanly charms can persuade him one way or another."
+    dk "不过没关系！我相信我的女性魅力无论如何都会说服他的。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:1065
 translate chinese b1c08cs08_end_925722b3:
 
     # mc "Thanks, Del. I appreciate it."
-    mc "Thanks, Del. I appreciate it."
+    mc "谢谢你，德尔菲娅。我很感激。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:1069
 translate chinese b1c08cs08_end_35555edd:
 
     # "Lumi approaches you and Del, a sleepy, but happy smile on her lips."
-    "Lumi approaches you and Del, a sleepy, but happy smile on her lips."
+    "卢米走近你和德尔，嘴角挂着困倦但幸福的微笑。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:1071
 translate chinese b1c08cs08_end_dcfd3f5c:
 
     # ll "[mcname]? I think I'm ready to go to sleep now. Will you walk me to bed?"
-    ll "[mcname]? I think I'm ready to go to sleep now. Will you walk me to bed?"
+    ll "[mcname]，？我想我现在准备睡觉了。你陪我上床好吗？"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:1074
 translate chinese b1c08cs08_end_e20cd15a:
 
     # "Lumi sleepily leans into you. You hadn't thought about how this experience may be very exhausting, even if positive.{w} In a way, at least."
-    "Lumi sleepily leans into you. You hadn't thought about how this experience may be very exhausting, even if positive.{w} In a way, at least."
+    "卢米睡眼惺忪地靠在你身上。你没有想过这种经历可能会让人筋疲力尽，即使它是积极的。{w}至少在某种程度上是这样。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:1077
 translate chinese b1c08cs08_end_5780b762:
 
     # mc "Sure, Lumi. Let's go to bed. You've earned a good rest."
-    mc "Sure, Lumi. Let's go to bed. You've earned a good rest."
+    mc "当然可以，卢米。我们去睡觉吧。你应该好好休息一下。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:1080
 translate chinese b1c08cs08_end_40c0e541:
 
     # dk "You did wonderful, Lumi."
-    dk "You did wonderful, Lumi."
+    dk "你做得很好，卢米。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:1083
 translate chinese b1c08cs08_end_7be6483f:
 
     # ll "Thanks, Del. I'm very excited to get tattooed now. I can't wait to get home so we can move forward with it."
-    ll "Thanks, Del. I'm very excited to get tattooed now. I can't wait to get home so we can move forward with it."
+    ll "谢谢你，德尔菲娅。我现在很想去纹身。我迫不及待地想回家，这样我们就可以继续前进了。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:1086
 translate chinese b1c08cs08_end_5938e9e8:
 
     # mc "Goodnight, Del. I'll be up tomorrow when you go for that talk."
-    mc "Goodnight, Del. I'll be up tomorrow when you go for that talk."
+    mc "晚安，德尔菲娅。明天你去和他们谈的时候，我会起床的。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:1089
 translate chinese b1c08cs08_end_4b7d39fe:
 
     # dk "I'm sure. Goodnight, [mcname]. See you tomorrow."
-    dk "I'm sure. Goodnight, [mcname]. See you tomorrow."
+    dk "没问题。晚安，[mcname]。明天见。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:1092
 translate chinese b1c08cs08_end_9f218454:
 
     # "As the gathering winds down, and other people start realizing their own exhaustion, the crowd begins to disperse."
-    "As the gathering winds down, and other people start realizing their own exhaustion, the crowd begins to disperse."
+    "随着聚会逐渐结束，其他人开始意识到自己的疲惫，人群开始散去。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:1093
 translate chinese b1c08cs08_end_23a079ff:
 
     # "Lumi's body is warm and soft next to you, though there's a new self-assured relaxation to Lumi's demeanor that tells you she's truly changed from this experience."
-    "Lumi's body is warm and soft next to you, though there's a new self-assured relaxation to Lumi's demeanor that tells you she's truly changed from this experience."
+    "在你身边，卢米的身体温暖而柔软，尽管她的举止散发出一种新的自信和放松，你感觉到她真的从这次经历中改变了。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:1094
 translate chinese b1c08cs08_end_e1d845ce:
 
     # "For better, or for worse."
-    "For better, or for worse."
+    "不管这在未来是好是坏。"
 
 translate chinese strings:
 
     # game/code/Book-1/Chapter-8c/s08.rpy:231
     old "We are ready to progress together"
-    new "We are ready to progress together"
+    new "我们准备共同进步"
 
     # game/code/Book-1/Chapter-8c/s08.rpy:231
     old "Love is what holds us together. It's a god we must obey"
-    new "Love is what holds us together. It's a god we must obey"
+    new "是爱把我们维系在一起。它是我们必须服从的神"
 
     # game/code/Book-1/Chapter-8c/s08.rpy:231
     old "I didn't think I'd make it this far"
-    new "I didn't think I'd make it this far"
+    new "我没想到我能走这么远"
 
     # game/code/Book-1/Chapter-8c/s08.rpy:553
     old "Some fucking show of kindness and acceptance"
-    new "Some fucking show of kindness and acceptance"
+    new "这他妈的就是善意和接纳的表现"
 
     # game/code/Book-1/Chapter-8c/s08.rpy:553
     old "I'll go easy on you, Lumi"
-    new "I'll go easy on you, Lumi"
+    new "我会对你手下留情的，卢米"
 
     # game/code/Book-1/Chapter-8c/s08.rpy:553
     old "Of course. The punishment is out of love"
-    new "Of course. The punishment is out of love"
+    new "当然。惩罚是出于爱"
 
