@@ -1240,7 +1240,7 @@ translate chinese b1c08cs08_ll_punishment_28a9cd86:
 translate chinese b1c08cs08_ll_punishment_126df2c5:
 
     # mct "Regardless of Andre or Ivy's intentions, I'm the one who will be enacting the punishment."
-    mct 不管安杰斯和艾薇的意图是什么，执行惩罚的人将是我。"
+    mct "不管安杰斯和艾薇的意图是什么，执行惩罚的人将是我。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:649
 translate chinese b1c08cs08_ll_punishment_8f217a61:
@@ -1360,7 +1360,7 @@ translate chinese b1c08cs08_ll_spanking_54a52e86:
 translate chinese b1c08cs08_ll_spanking_1dcbe2ce:
 
     # ad "Here. Sit."
-    ad "这里。坐吧。
+    ad "这里。坐吧。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:718
 translate chinese b1c08cs08_ll_spanking_7b5278b5:
@@ -1510,7 +1510,7 @@ translate chinese b1c08cs08_ll_spanking_12ea3f09:
 translate chinese b1c08cs08_ll_spanking_1449595e:
 
     # "Even without hitting your hardest, the amount of time you've been spanking her has had its toll."
-    "即使没有使出你最大的力气，你打她屁股的时间也已经够长了。
+    "即使没有使出你最大的力气，你打她屁股的时间也已经够长了。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:808
 translate chinese b1c08cs08_ll_spanking_bb829b25:
