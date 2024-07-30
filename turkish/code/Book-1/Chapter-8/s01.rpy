@@ -120,12 +120,6 @@ translate turkish b1c08s01_call_recaps_43b3b093:
     # pm "Anything else?"
     pm "Anything else?"
 
-# game/code/Book-1/Chapter-8/s01.rpy:168
-translate turkish b1c08s01_continue_adf49003:
-
-    # mc "Well, as for [b1c08s01_lowest_points_name], I didn't get to investigate them as much as I'd like."
-    mc "Well, as for [b1c08s01_lowest_points_name], I didn't get to investigate them as much as I'd like."
-
 # game/code/Book-1/Chapter-8/s01.rpy:169
 translate turkish b1c08s01_continue_ec576263:
 
@@ -156,35 +150,17 @@ translate turkish b1c08s01_continue_5c20a690:
     # pm "I know. It's frustrating, but remember, every little piece of information is a step closer to solving the puzzle."
     pm "I know. It's frustrating, but remember, every little piece of information is a step closer to solving the puzzle."
 
-# game/code/Book-1/Chapter-8/s01.rpy:184
-translate turkish b1c08s01_continue_7795212b:
-
-    # pm "To be honest, I think it's best if you keep investigating [b1c08s01_highest_points_name] and [b1c08s01_second_highest_points_name]."
-    pm "To be honest, I think it's best if you keep investigating [b1c08s01_highest_points_name] and [b1c08s01_second_highest_points_name]."
-
 # game/code/Book-1/Chapter-8/s01.rpy:185
 translate turkish b1c08s01_continue_ab968188:
 
     # pm "We have to use your time efficiently. Spreading yourself too thin won't do us any good."
     pm "We have to use your time efficiently. Spreading yourself too thin won't do us any good."
 
-# game/code/Book-1/Chapter-8/s01.rpy:188
-translate turkish b1c08s01_continue_edb94275:
-
-    # mc "*Sighs* Yeah, I agree. But what about [b1c08s01_lowest_points_name]? Should we just ignore them?"
-    mc "*Sighs* Yeah, I agree. But what about [b1c08s01_lowest_points_name]? Should we just ignore them?"
-
 # game/code/Book-1/Chapter-8/s01.rpy:192
 translate turkish b1c08s01_continue_1ef7224b:
 
     # pm "Not ignore, per se. Keep an eye out, but focus your energy where it's most likely to yield results. I trust your judgment, [mcname]."
     pm "Not ignore, per se. Keep an eye out, but focus your energy where it's most likely to yield results. I trust your judgment, [mcname]."
-
-# game/code/Book-1/Chapter-8/s01.rpy:195
-translate turkish b1c08s01_continue_d6071d0e:
-
-    # pm "Tell you what, I'll do some digging into [b1c08s01_lowest_points_name] on my end. Two sets of eyes are better than one."
-    pm "Tell you what, I'll do some digging into [b1c08s01_lowest_points_name] on my end. Two sets of eyes are better than one."
 
 # game/code/Book-1/Chapter-8/s01.rpy:198
 translate turkish b1c08s01_continue_eab2d661:
@@ -239,12 +215,6 @@ translate turkish b1c08s01_continue_2034c056:
 
     # mc "Maybe."
     mc "Maybe."
-
-# game/code/Book-1/Chapter-8/s01.rpy:224
-translate turkish b1c08s01_continue_3af8135a:
-
-    # mc "Alright, I'll focus on [b1c08s01_highest_points_name] and [b1c08s01_second_highest_points_name]. But if something catches my eye about [b1c08s01_lowest_points_name], I'll dig deeper."
-    mc "Alright, I'll focus on [b1c08s01_highest_points_name] and [b1c08s01_second_highest_points_name]. But if something catches my eye about [b1c08s01_lowest_points_name], I'll dig deeper."
 
 # game/code/Book-1/Chapter-8/s01.rpy:227
 translate turkish b1c08s01_continue_365b4ef6:
@@ -1421,4 +1391,54 @@ translate turkish strings:
     # game/code/Book-1/Chapter-8/s01.rpy:6
     old "Another day\nAt Phoebe's place"
     new "Another day\nAt Phoebe's place"
+
+# TODO: Translation updated at 2024-07-30 11:41
+
+# game/code/Book-1/Chapter-8/s01.rpy:168
+translate turkish b1c08s01_continue_c8c3fe90:
+
+    # mc "Well, as for [b1c08s01_lowest_points_name!t], I didn't get to investigate them as much as I'd like."
+    mc "Well, as for [b1c08s01_lowest_points_name!t], I didn't get to investigate them as much as I'd like."
+
+# game/code/Book-1/Chapter-8/s01.rpy:184
+translate turkish b1c08s01_continue_c0880faa:
+
+    # pm "To be honest, I think it's best if you keep investigating [b1c08s01_highest_points_name!t] and [b1c08s01_second_highest_points_name!t]."
+    pm "To be honest, I think it's best if you keep investigating [b1c08s01_highest_points_name!t] and [b1c08s01_second_highest_points_name!t]."
+
+# game/code/Book-1/Chapter-8/s01.rpy:188
+translate turkish b1c08s01_continue_a71b8d4e:
+
+    # mc "*Sighs* Yeah, I agree. But what about [b1c08s01_lowest_points_name!t]? Should we just ignore them?"
+    mc "*Sighs* Yeah, I agree. But what about [b1c08s01_lowest_points_name!t]? Should we just ignore them?"
+
+# game/code/Book-1/Chapter-8/s01.rpy:195
+translate turkish b1c08s01_continue_5090907e:
+
+    # pm "Tell you what, I'll do some digging into [b1c08s01_lowest_points_name!t] on my end. Two sets of eyes are better than one."
+    pm "Tell you what, I'll do some digging into [b1c08s01_lowest_points_name!t] on my end. Two sets of eyes are better than one."
+
+# game/code/Book-1/Chapter-8/s01.rpy:224
+translate turkish b1c08s01_continue_89d0ffa1:
+
+    # mc "Alright, I'll focus on [b1c08s01_highest_points_name!t] and [b1c08s01_second_highest_points_name!t]. But if something catches my eye about [b1c08s01_lowest_points_name!t], I'll dig deeper."
+    mc "Alright, I'll focus on [b1c08s01_highest_points_name!t] and [b1c08s01_second_highest_points_name!t]. But if something catches my eye about [b1c08s01_lowest_points_name!t], I'll dig deeper."
+
+translate turkish strings:
+
+    # game/code/Book-1/Chapter-8/s01.rpy:730
+    old "The Self-Help Group"
+    new "The Self-Help Group"
+
+    # game/code/Book-1/Chapter-8/s01.rpy:731
+    old "Zemfira's Group"
+    new "Zemfira's Group"
+
+    # game/code/Book-1/Chapter-8/s01.rpy:732
+    old "The Winner's Group"
+    new "The Winner's Group"
+
+    # game/code/Book-1/Chapter-8/s01.rpy:734
+    old "The Cult"
+    new "The Cult"
 

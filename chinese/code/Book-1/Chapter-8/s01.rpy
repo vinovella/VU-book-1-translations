@@ -121,10 +121,10 @@ translate chinese b1c08s01_call_recaps_43b3b093:
     pm "还有什么吗？"
 
 # game/code/Book-1/Chapter-8/s01.rpy:168
-translate chinese b1c08s01_continue_adf49003:
+translate chinese b1c08s01_continue_c8c3fe90:
 
-    # mc "Well, as for [b1c08s01_lowest_points_name], I didn't get to investigate them as much as I'd like."
-    mc "嗯，至于[b1c08s01_lowest_points_name]，我没能像我想的那样去调查他们。"
+    # mc "Well, as for [b1c08s01_lowest_points_name!t], I didn't get to investigate them as much as I'd like."
+    mc "嗯，至于[b1c08s01_lowest_points_name!t]，我没能像我想的那样去调查他们。"
 
 # game/code/Book-1/Chapter-8/s01.rpy:169
 translate chinese b1c08s01_continue_ec576263:
@@ -157,10 +157,10 @@ translate chinese b1c08s01_continue_5c20a690:
     pm "我知道。这很令人沮丧，但请记住，每获得一点信息，就离解开谜题更近了一步。"
 
 # game/code/Book-1/Chapter-8/s01.rpy:184
-translate chinese b1c08s01_continue_7795212b:
+translate chinese b1c08s01_continue_c0880faa:
 
-    # pm "To be honest, I think it's best if you keep investigating [b1c08s01_highest_points_name] and [b1c08s01_second_highest_points_name]."
-    pm "老实说，我觉得你最好继续调查[b1c08s01_highest_points_name]和[b1c08s01_second_highest_points_name]。"
+    # pm "To be honest, I think it's best if you keep investigating [b1c08s01_highest_points_name!t] and [b1c08s01_second_highest_points_name!t]."
+    pm "老实说，我觉得你最好继续调查[b1c08s01_highest_points_name!t]和[b1c08s01_second_highest_points_name!t]。"
 
 # game/code/Book-1/Chapter-8/s01.rpy:185
 translate chinese b1c08s01_continue_ab968188:
@@ -169,10 +169,10 @@ translate chinese b1c08s01_continue_ab968188:
     pm "我们必须有效地利用你的时间。同時做太多事情对我们没有任何好处。"
 
 # game/code/Book-1/Chapter-8/s01.rpy:188
-translate chinese b1c08s01_continue_edb94275:
+translate chinese b1c08s01_continue_a71b8d4e:
 
-    # mc "*Sighs* Yeah, I agree. But what about [b1c08s01_lowest_points_name]? Should we just ignore them?"
-    mc "*叹气* 是的，我同意。但是[b1c08s01_lowest_points_name]呢？我们应该无视他们吗？"
+    # mc "*Sighs* Yeah, I agree. But what about [b1c08s01_lowest_points_name!t]? Should we just ignore them?"
+    mc "*叹气* 是的，我同意。但是[b1c08s01_lowest_points_name!t]呢？我们应该无视他们吗？"
 
 # game/code/Book-1/Chapter-8/s01.rpy:192
 translate chinese b1c08s01_continue_1ef7224b:
@@ -181,10 +181,10 @@ translate chinese b1c08s01_continue_1ef7224b:
     pm "不是无视，而是从内心保持开放。保持警惕，但要把精力放在最有可能取得成果的地方。我相信你的判断，[mcname]。"
 
 # game/code/Book-1/Chapter-8/s01.rpy:195
-translate chinese b1c08s01_continue_d6071d0e:
+translate chinese b1c08s01_continue_5090907e:
 
-    # pm "Tell you what, I'll do some digging into [b1c08s01_lowest_points_name] on my end. Two sets of eyes are better than one."
-    pm "这样吧，我这边会对[b1c08s01_lowest_points_name]做一些调查。两双眼睛总比一双强。"
+    # pm "Tell you what, I'll do some digging into [b1c08s01_lowest_points_name!t] on my end. Two sets of eyes are better than one."
+    pm "这样吧，我这边会对[b1c08s01_lowest_points_name!t]做一些调查。两双眼睛总比一双强。"
 
 # game/code/Book-1/Chapter-8/s01.rpy:198
 translate chinese b1c08s01_continue_eab2d661:
@@ -241,10 +241,10 @@ translate chinese b1c08s01_continue_2034c056:
     mc "也许吧。"
 
 # game/code/Book-1/Chapter-8/s01.rpy:224
-translate chinese b1c08s01_continue_3af8135a:
+translate chinese b1c08s01_continue_89d0ffa1:
 
-    # mc "Alright, I'll focus on [b1c08s01_highest_points_name] and [b1c08s01_second_highest_points_name]. But if something catches my eye about [b1c08s01_lowest_points_name], I'll dig deeper."
-    mc "好吧，我会重点关注[b1c08s01_highest_points_name]和[b1c08s01_second_highest_points_name]。但如果[b1c08s01_lowest_points_name]有什么不对劲的地方，我就会深入调查。"
+    # mc "Alright, I'll focus on [b1c08s01_highest_points_name!t] and [b1c08s01_second_highest_points_name!t]. But if something catches my eye about [b1c08s01_lowest_points_name!t], I'll dig deeper."
+    mc "好吧，我会重点关注[b1c08s01_highest_points_name!t]和[b1c08s01_second_highest_points_name!t]。但如果[b1c08s01_lowest_points_name!t]有什么不对劲的地方，我就会深入调查。"
 
 # game/code/Book-1/Chapter-8/s01.rpy:227
 translate chinese b1c08s01_continue_365b4ef6:
@@ -1417,6 +1417,22 @@ translate chinese b1c08s01_recap_c08s_493c3197:
     mc "哈桑最终让我成为了辛迪加的成员。"
 
 translate chinese strings:
+
+    # game/code/Book-1/Chapter-8/s01.rpy:730
+    old "The Self-Help Group"
+    new "The Self-Help Group"
+
+    # game/code/Book-1/Chapter-8/s01.rpy:731
+    old "Zemfira's Group"
+    new "Zemfira's Group"
+
+    # game/code/Book-1/Chapter-8/s01.rpy:732
+    old "The Winner's Group"
+    new "The Winner's Group"
+
+    # game/code/Book-1/Chapter-8/s01.rpy:734
+    old "The Cult"
+    new "The Cult"
 
     # game/code/Book-1/Chapter-8/s01.rpy:6
     old "Another day\nAt Phoebe's place"
