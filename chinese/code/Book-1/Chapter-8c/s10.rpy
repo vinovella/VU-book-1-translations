@@ -4,403 +4,403 @@
 translate chinese b1c08cs10_2c6d21c6:
 
     # "You can hear the crowd gathering outside the cabin, getting ready for the ceremony under the full moon."
-    "You can hear the crowd gathering outside the cabin, getting ready for the ceremony under the full moon."
+    "你可以听到人们聚集在小屋外，在满月下为仪式做准备。"
 
 # game/code/Book-1/Chapter-8c/s10.rpy:188
 translate chinese b1c08cs10_68b60fb2:
 
     # nv "Do you think we're ready?"
-    nv "Do you think we're ready?"
+    nv "你觉得我们准备好了吗？?"
 
 # game/code/Book-1/Chapter-8c/s10.rpy:191
 translate chinese b1c08cs10_b4f5ff91:
 
     # mc "I'm sure of it. We're doing this so we can advance in rank, right? Delphia has an awful lot of faith in us—I trust that."
-    mc "I'm sure of it. We're doing this so we can advance in rank, right? Delphia has an awful lot of faith in us—I trust that."
+    mc "我很确定。我们这么做是为了晋升，对吧？德尔菲娅对我们很有信心，我相信这一点。"
 
 # game/code/Book-1/Chapter-8c/s10.rpy:195
 translate chinese b1c08cs10_95400718:
 
     # nv "You're right."
-    nv "You're right."
+    nv "你说得对。"
 
 # game/code/Book-1/Chapter-8c/s10.rpy:199
 translate chinese b1c08cs10_97cf76bc:
 
     # nv "Regardless, I wish Ivy had briefed us on what exactly it is we're supposed to do..."
-    nv "Regardless, I wish Ivy had briefed us on what exactly it is we're supposed to do..."
+    nv "不管怎样，我希望艾薇能给我们简单介绍一下我们到底应该做什么..."
 
 # game/code/Book-1/Chapter-8c/s10.rpy:201
 translate chinese b1c08cs10_b805585e:
 
     # mc "Yeah, me too."
-    mc "Yeah, me too."
+    mc "是啊，我也是。"
 
 # game/code/Book-1/Chapter-8c/s10.rpy:202
 translate chinese b1c08cs10_65c6bfc7:
 
     # mct "Hopefully it's nothing as batshit as what I saw in that cave..."
-    mct "Hopefully it's nothing as batshit as what I saw in that cave..."
+    mct "希望今晚不会像我在那个山洞里看到的那样糟糕..."
 
 # game/code/Book-1/Chapter-8c/s10.rpy:206
 translate chinese b1c08cs10_1065760a:
 
     # "A knock on the cabin door alerts you and Nia. It's time for you to start the ritual."
-    "A knock on the cabin door alerts you and Nia. It's time for you to start the ritual."
+    "有人敲门，这让你和妮娅警觉起来。是你们开始仪式的时候了。"
 
 # game/code/Book-1/Chapter-8c/s10.rpy:209
 translate chinese b1c08cs10_feb51cbe:
 
     # nv "That's us. We'd better get out there."
-    nv "That's us. We'd better get out there."
+    nv "到我们了。我们最好出去看看。"
 
 # game/code/Book-1/Chapter-8c/s10.rpy:232
 translate chinese b1c08cs10_9d5e2145:
 
     # ih "Did you finish the painting?"
-    ih "Did you finish the painting?"
+    ih "你们涂完颜料了吗？"
 
 # game/code/Book-1/Chapter-8c/s10.rpy:234
 translate chinese b1c08cs10_3f029d75:
 
     # nv "Yes. And we dressed how you asked, too."
-    nv "Yes. And we dressed how you asked, too."
+    nv "涂完了。我们还按你的要求穿上了衣服。"
 
 # game/code/Book-1/Chapter-8c/s10.rpy:241
 translate chinese b1c08cs10_7b4955e2:
 
     # mct "What the hell is that thing?"
-    mct "What the hell is that thing?"
+    mct "那是什么鬼东西？"
 
 # game/code/Book-1/Chapter-8c/s10.rpy:247
 translate chinese b1c08cs10_2a1c4a4b:
 
     # ih "You are to give a speech that reflects the spirit of Narurra. Do not disappoint."
-    ih "You are to give a speech that reflects the spirit of Narurra. Do not disappoint."
+    ih "你们要发表一个反映纳鲁拉精神的演讲。别让大家失望。"
 
 # game/code/Book-1/Chapter-8c/s10.rpy:249
 translate chinese b1c08cs10_bd72df23:
 
     # "Nia looks surprised. She didn't prepare a speech because she wasn't told she'd need to."
-    "Nia looks surprised. She didn't prepare a speech because she wasn't told she'd need to."
+    "妮娅看起来很惊讶。她没有准备演讲稿，因为没人告诉她需要准备。"
 
 # game/code/Book-1/Chapter-8c/s10.rpy:251
 translate chinese b1c08cs10_2ac7aef0:
 
     # nv "Oh, um, but I didn't—"
-    nv "Oh, um, but I didn't—"
+    nv "哦，嗯，但是我没有--"
 
 # game/code/Book-1/Chapter-8c/s10.rpy:253
 translate chinese b1c08cs10_aba4738b:
 
     # ih "Get up there and speak."
-    ih "Get up there and speak."
+    ih "上去讲。"
 
 # game/code/Book-1/Chapter-8c/s10.rpy:257
 translate chinese b1c08cs10_b27ab0f2:
 
     # ih "You stay with me. I'll brief you on the next steps while she speaks."
-    ih "You stay with me. I'll brief you on the next steps while she speaks."
+    ih "你和我呆在一起。她发言时，我会向你介绍接下来的步骤。"
 
 # game/code/Book-1/Chapter-8c/s10.rpy:263
 translate chinese b1c08cs10_82edf6ee:
 
     # nv "Narurra gave her life to return to the forest she so loved."
-    nv "Narurra gave her life to return to the forest she so loved."
+    nv "纳鲁拉献出了自己的生命，回到她深爱的森林。"
 
 # game/code/Book-1/Chapter-8c/s10.rpy:266
 translate chinese b1c08cs10_e28ce3be:
 
     # nv "She had a true, unconditional love for these very trees, and every living creature that inhabits these woods."
-    nv "She had a true, unconditional love for these very trees, and every living creature that inhabits these woods."
+    nv "她对这些树木，以及栖息在这片森林里的所有生物，都怀有无条件的真爱。"
 
 # game/code/Book-1/Chapter-8c/s10.rpy:267
 translate chinese b1c08cs10_28dcf348:
 
     # nv "She knew that nothing and no one could keep her from her home. The only way was forward. She persevered, even when it meant being hunted to her death."
-    nv "She knew that nothing and no one could keep her from her home. The only way was forward. She persevered, even when it meant being hunted to her death."
+    nv "她知道，没有任何人，或任何事能把她和家园分开。唯一的办法就是前进。她坚持不懈，即使这意味着被猎杀致死。"
 
 # game/code/Book-1/Chapter-8c/s10.rpy:268
 translate chinese b1c08cs10_0ff796ec:
 
     # nv "But often, I wonder about the internal turmoil she must've felt..."
-    nv "But often, I wonder about the internal turmoil she must've felt..."
+    nv "但我常常在想，她内心一定很不安..."
 
 # game/code/Book-1/Chapter-8c/s10.rpy:272
 translate chinese b1c08cs10_41185da5:
 
     # nv "The ways she must've tormented herself, weighting which of her loves was stronger; the love for her forest, or the love for her partner."
-    nv "The ways she must've tormented herself, weighting which of her loves was stronger; the love for her forest, or the love for her partner."
+    nv "她一定在用各种方式折磨自己，权衡哪种爱更强烈；是对森林的爱，还是对伴侣的爱。"
 
 # game/code/Book-1/Chapter-8c/s10.rpy:273
 translate chinese b1c08cs10_bc0af98b:
 
     # nv "It must have taken such courage to leave. I'm sure she felt immeasurable guilt over leaving her lover behind. "
-    nv "It must have taken such courage to leave. I'm sure she felt immeasurable guilt over leaving her lover behind. "
+    nv "离开一定需要很大的勇气。我敢肯定，她对离开她的爱人感到无比的内疚。 "
 
 # game/code/Book-1/Chapter-8c/s10.rpy:276
 translate chinese b1c08cs10_5a35c205:
 
     # nv "It makes me wonder... What if Narurra was never redeemed? What if she already was? What if the answer to those questions is how she became a goddess?"
-    nv "It makes me wonder... What if Narurra was never redeemed? What if she already was? What if the answer to those questions is how she became a goddess?"
+    nv "这让我很好奇...如果纳鲁拉从来没有得到救赎呢？如果她已经被救赎了呢？如果这些问题的答案就是她成为女神的原因呢？"
 
 # game/code/Book-1/Chapter-8c/s10.rpy:277
 translate chinese b1c08cs10_53dd20d1:
 
     # nv "At some point, she had to make the decision to embrace herself, and not live for her lover anymore."
-    nv "At some point, she had to make the decision to embrace herself, and not live for her lover anymore."
+    nv "在某种程度上，她必须决定拥抱自己，不再为她的爱人而活。"
 
 # game/code/Book-1/Chapter-8c/s10.rpy:280
 translate chinese b1c08cs10_4d8a303d:
 
     # nv "That's what I want as well. To live for myself, and no one else. That bravery is what I pursue today, in the name and spirit of Narurra herself."
-    nv "That's what I want as well. To live for myself, and no one else. That bravery is what I pursue today, in the name and spirit of Narurra herself."
+    nv "这也是我想要的。为自己而活，不为别人而活。这种勇敢正是我今天所追求的，以纳鲁拉本人的名义和精神为证。"
 
 # game/code/Book-1/Chapter-8c/s10.rpy:281
 translate chinese b1c08cs10_5438c96e:
 
     # nv "We must all suffer in order to appreciate the good. Perhaps death is the price we pay for enlightenment, for passage to the next life, or whatever comes after."
-    nv "We must all suffer in order to appreciate the good. Perhaps death is the price we pay for enlightenment, for passage to the next life, or whatever comes after."
+    nv "我们都必须承受痛苦，才能欣赏美好。也许死亡是我们开悟的代价，是我们进入来世的代价，或不管死亡之后是什么。"
 
 # game/code/Book-1/Chapter-8c/s10.rpy:284
 translate chinese b1c08cs10_88d47897:
 
     # nv "Suffering was the price Narurra had to pay to reach godhood."
-    nv "Suffering was the price Narurra had to pay to reach godhood."
+    nv "苦难是纳鲁拉达到神性所必须付出的代价。"
 
 # game/code/Book-1/Chapter-8c/s10.rpy:285
 translate chinese b1c08cs10_b587f498:
 
     # nv "Under her care, the forest became fruitful, fertile, alive with possibility. I wish to bring that to those around me as well."
-    nv "Under her care, the forest became fruitful, fertile, alive with possibility. I wish to bring that to those around me as well."
+    nv "在她的照料下，森林变得硕果累累、生机勃勃，充满了无限可能。我也希望把这种积极能量带给我周围的人。"
 
 # game/code/Book-1/Chapter-8c/s10.rpy:286
 translate chinese b1c08cs10_7ebad30f:
 
     # nv "To lift the spirits of those I care for and bring them joy."
-    nv "To lift the spirits of those I care for and bring them joy."
+    nv "让我关心的人振作起来，给他们带来快乐。"
 
 # game/code/Book-1/Chapter-8c/s10.rpy:289
 translate chinese b1c08cs10_f9c0a61e:
 
     # nv "It takes so much courage to bring that amount of prosperity to both yourself and the ones you love... It takes so much passion and love."
-    nv "It takes so much courage to bring that amount of prosperity to both yourself and the ones you love... It takes so much passion and love."
+    nv "为自己和所爱的人带来如此丰盛的果实，需要极大的勇气...这需要太多的激情和爱。"
 
 # game/code/Book-1/Chapter-8c/s10.rpy:290
 translate chinese b1c08cs10_0a1c99d8:
 
     # nv "I want to experience it all."
-    nv "I want to experience it all."
+    nv "我想体验这一切。"
 
 # game/code/Book-1/Chapter-8c/s10.rpy:293
 translate chinese b1c08cs10_46d3dde0:
 
     # ih "Nia is right about Narurra experiencing death to reach enlightenment."
-    ih "Nia is right about Narurra experiencing death to reach enlightenment."
+    ih "妮娅说的对，纳鲁拉要经历死亡才能获得启迪。"
 
 # game/code/Book-1/Chapter-8c/s10.rpy:294
 translate chinese b1c08cs10_3dfc3271:
 
     # ih "You will need to sacrifice her."
-    ih "You will need to sacrifice her."
+    ih "你需要牺牲她。"
 
 # game/code/Book-1/Chapter-8c/s10.rpy:296
 translate chinese b1c08cs10_76e60d54:
 
     # "Your stomach twists into knots."
-    "Your stomach twists into knots."
+    "你的胃扭成一团。"
 
 # game/code/Book-1/Chapter-8c/s10.rpy:299
 translate chinese b1c08cs10_22cbf3f6:
 
     # ih "This ritual is about the sacrifice that Narurra made to achieve godhood, yes? Then Nia must be crucified on the cross."
-    ih "This ritual is about the sacrifice that Narurra made to achieve godhood, yes? Then Nia must be crucified on the cross."
+    ih "这个仪式是关于纳鲁拉为了成神而做出的牺牲，对吗？那么妮娅必须被钉死在十字架上。"
 
 # game/code/Book-1/Chapter-8c/s10.rpy:300
 translate chinese b1c08cs10_b2b29c47:
 
     # ih "She must emulate being a martyr just as Narurra did."
-    ih "She must emulate being a martyr just as Narurra did."
+    ih "她必须像纳鲁拉一样成为殉道者。"
 
 # game/code/Book-1/Chapter-8c/s10.rpy:303
 translate chinese b1c08cs10_acd4fb5a:
 
     # mct "What the fuck—"
-    mct "What the fuck—"
+    mct "搞什么--"
 
 # game/code/Book-1/Chapter-8c/s10.rpy:306
 translate chinese b1c08cs10_b96194e1:
 
     # ih "Go. Crucify our lovely maiden and make her have a la petite mort."
-    ih "Go. Crucify our lovely maiden and make her have a la petite mort."
+    ih "去吧，把我们可爱的少女钉上十字架，让她享受极乐死亡。"
 
 # game/code/Book-1/Chapter-8c/s10.rpy:307
 translate chinese b1c08cs10_43895d40:
 
     # ih "Make her see god through small death."
-    ih "Make her see god through small death."
+    ih "让她从小小的死亡中看到上帝。"
 
 # game/code/Book-1/Chapter-8c/s10.rpy:309
 translate chinese b1c08cs10_c1b1e7c4:
 
     # "Ivy ushers you toward Nia without further explanation."
-    "Ivy ushers you toward Nia without further explanation."
+    "艾薇带你走向妮娅，没有进一步解释。"
 
 # game/code/Book-1/Chapter-8c/s10.rpy:311
 translate chinese b1c08cs10_ae8cc892:
 
     # mct "What is going on?!"
-    mct "What is going on?!"
+    mct "这是怎么回事?!"
 
 # game/code/Book-1/Chapter-8c/s10.rpy:316
 translate chinese b1c08cs10_d398ec9b:
 
     # nv "It is my belief that my spiritual partner and I are ready for the next steps in our enlightenment!"
-    nv "It is my belief that my spiritual partner and I are ready for the next steps in our enlightenment!"
+    nv "我相信我的精神伴侣和我已经准备好进行下一步的启蒙了!"
 
 # game/code/Book-1/Chapter-8c/s10.rpy:319
 translate chinese b1c08cs10_44752b0b:
 
     # "The crowd starts clapping, but Nia isn't done yet."
-    "The crowd starts clapping, but Nia isn't done yet."
+    "人群开始鼓掌，但妮娅还没说完。"
 
 # game/code/Book-1/Chapter-8c/s10.rpy:322
 translate chinese b1c08cs10_1dd47ee0:
 
     # nv "*Whispers* Did Ivy say what to do next?"
-    nv "*Whispers* Did Ivy say what to do next?"
+    nv "*窃窃私语* 艾薇说下一步该怎么做了吗？"
 
 # game/code/Book-1/Chapter-8c/s10.rpy:324
 translate chinese b1c08cs10_033ff6b3:
 
     # mc "*Whispers* She said to give you a la petite mort. Whatever the hell that is."
-    mc "*Whispers* She said to give you a la petite mort. Whatever the hell that is."
+    mc "*低语* 她说让你享受极乐死亡。不管那是什么鬼东西。"
 
 # game/code/Book-1/Chapter-8c/s10.rpy:327
 translate chinese b1c08cs10_197bc9ad:
 
     # nv "It's an orgasm."
-    nv "It's an orgasm."
+    nv "是高潮。"
 
 # game/code/Book-1/Chapter-8c/s10.rpy:329
 translate chinese b1c08cs10_77192c4c:
 
     # mc "A what?!"
-    mc "A what?!"
+    mc "什么?!"
 
 # game/code/Book-1/Chapter-8c/s10.rpy:331
 translate chinese b1c08cs10_0dd9620d:
 
     # "Nia's eyes flash to the St. Andrew's Cross. You can see her thinking hard about what exactly you're supposed to do next."
-    "Nia's eyes flash to the St. Andrew's Cross. You can see her thinking hard about what exactly you're supposed to do next."
+    "妮娅的眼睛盯着圣安德鲁十字架。你可以看到她在努力思考你下一步到底该怎么做。"
 
 # game/code/Book-1/Chapter-8c/s10.rpy:333
 translate chinese b1c08cs10_ddc22abf:
 
     # "A firm resolve lights up her eyes. She looks at you."
-    "A firm resolve lights up her eyes. She looks at you."
+    "她的双眼闪过坚定的光芒。她看着你。"
 
 # game/code/Book-1/Chapter-8c/s10.rpy:335
 translate chinese b1c08cs10_8c272849:
 
     # nv "You're supposed to crucify and sacrifice me on the cross. Give me a small death, or, more commonly known as, an orgasm."
-    nv "You're supposed to crucify and sacrifice me on the cross. Give me a small death, or, more commonly known as, an orgasm."
+    nv "你应该把我钉在十字架上，在十字架上献祭。给我一个小小的死亡，或者，更通俗的说法是，高潮。"
 
 # game/code/Book-1/Chapter-8c/s10.rpy:337
 translate chinese b1c08cs10_fefe8b46:
 
     # nv "It's supposed to symbolize Narurra's journey to godhood."
-    nv "It's supposed to symbolize Narurra's journey to godhood."
+    nv "它应该象征着纳鲁拉的成神之旅。"
 
 # game/code/Book-1/Chapter-8c/s10.rpy:339
 translate chinese b1c08cs10_1a97cfde:
 
     # mc "Are you sure that's what—"
-    mc "Are you sure that's what—"
+    mc "你确定这样--"
 
 # game/code/Book-1/Chapter-8c/s10.rpy:342
 translate chinese b1c08cs10_4f3aeb69:
 
     # nv "I'm positive."
-    nv "I'm positive."
+    nv "我很确定。"
 
 # game/code/Book-1/Chapter-8c/s10.rpy:343
 translate chinese b1c08cs10_039fb9f1:
 
     # nv "I know this is what we're supposed to do. Trust me."
-    nv "I know this is what we're supposed to do. Trust me."
+    nv "我知道这是我们应该做的。相信我。"
 
 # game/code/Book-1/Chapter-8c/s10.rpy:346
 translate chinese b1c08cs10_f268f2f5:
 
     # nv "But first, we must undress, and display Narurra's lover capturing her."
-    nv "But first, we must undress, and display Narurra's lover capturing her."
+    nv "但首先，我们必须脱掉衣服，展示纳鲁拉的情人抓住了她。"
 
 # game/code/Book-1/Chapter-8c/s10.rpy:347
 translate chinese b1c08cs10_392a9b8d:
 
     # nv "Remember what we practiced."
-    nv "Remember what we practiced."
+    nv "记得我们练习过什么吗？"
 
 # game/code/Book-1/Chapter-8c/s10.rpy:355
 translate chinese b1c08cs10_ritual_34b7faf3:
 
     # "The air becomes thick with the pressure of a storm. Still, but full of vibrating energy."
-    "The air becomes thick with the pressure of a storm. Still, but full of vibrating energy."
+    "由于暴风雨的压力，空气变得很浓稠。这里弥漫着静止，但充满振动的能量。"
 
 # game/code/Book-1/Chapter-8c/s10.rpy:358
 translate chinese b1c08cs10_ritual_9311626a:
 
     # "The crowd watches you both with bated breath. You hear thunder in the clouds above, which quivers throughout your body."
-    "The crowd watches you both with bated breath. You hear thunder in the clouds above, which quivers throughout your body."
+    "人们屏息凝神地看着你们俩。你听到云层中的雷声，雷声震颤着你的全身。"
 
 # game/code/Book-1/Chapter-8c/s10.rpy:366
 translate chinese b1c08cs10_ritual_69e4e2af:
 
     # "You follow Nia's lead easily, as though you can read her mind."
-    "You follow Nia's lead easily, as though you can read her mind."
+    "你轻而易举地跟上了妮娅的步伐，仿佛你能读懂她的心思。"
 
 # game/code/Book-1/Chapter-8c/s10.rpy:367
 translate chinese b1c08cs10_ritual_d4133181:
 
     # "A warm, calm feeling flows over you, adding a smooth serenity to your movements."
-    "A warm, calm feeling flows over you, adding a smooth serenity to your movements."
+    "一种温暖、平静的感觉在你身上流动，为你的动作增添了平稳的宁静。"
 
 # game/code/Book-1/Chapter-8c/s10.rpy:369
 translate chinese b1c08cs10_ritual_6fe620c7:
 
     # "You and Nia form a heart with your bodies, symbolizing the love Narurra and her lover shared."
-    "You and Nia form a heart with your bodies, symbolizing the love Narurra and her lover shared."
+    "你和妮娅用你们的身体组成了一颗心，象征着纳鲁拉和她的爱人之间的爱。"
 
 # game/code/Book-1/Chapter-8c/s10.rpy:372
 translate chinese b1c08cs10_ritual_9442887b:
 
     # "Nia then breaks away, her elegant arm reaching for the moon."
-    "Nia then breaks away, her elegant arm reaching for the moon."
+    "妮娅随后挣脱了，她优雅的手臂伸向月亮。"
 
 # game/code/Book-1/Chapter-8c/s10.rpy:375
 translate chinese b1c08cs10_ritual_48c9e8c2:
 
     # "At first, in the spirit of being in love, you help Nia reach the moon. You support her dreams, her soul."
-    "At first, in the spirit of being in love, you help Nia reach the moon. You support her dreams, her soul."
+    "起初，本着相爱的精神，你帮助妮娅摸到了月亮。你支持她的梦想，支持她的灵魂。"
 
 # game/code/Book-1/Chapter-8c/s10.rpy:378
 translate chinese b1c08cs10_ritual_f129b233:
 
     # "But then, as the jealousy overtakes you, you maneuver Nia underneath you, keeping her trapped in your arms."
-    "But then, as the jealousy overtakes you, you maneuver Nia underneath you, keeping her trapped in your arms."
+    "但后来，当你被嫉妒冲昏头脑时，你把妮娅压在身下，把她困在你的怀里。"
 
 # game/code/Book-1/Chapter-8c/s10.rpy:381
 translate chinese b1c08cs10_ritual_d4c4484a:
 
     # nv "*Whispers* You're doing great."
-    nv "*Whispers* You're doing great."
+    nv "*低语* 你做得很好。"
 
 # game/code/Book-1/Chapter-8c/s10.rpy:382
 translate chinese b1c08cs10_ritual_b487e7db:
 
     # nv "*Whispers* Just keep letting your higher self guide you."
-    nv "*Whispers* Just keep letting your higher self guide you."
+    nv "*低语* 继续让你的高我指引你。"
 
 # game/code/Book-1/Chapter-8c/s10.rpy:386
 translate chinese b1c08cs10_ritual_0df00203:
