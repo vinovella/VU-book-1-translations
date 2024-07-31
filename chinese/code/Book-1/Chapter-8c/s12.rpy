@@ -286,119 +286,119 @@ translate chinese b1c08cs12_dd4c9692:
 translate chinese b1c08cs12_0c7aa1c8:
 
     # nv "Without them, {i}we{/i} would've never met. I would've never met Maria, or any of my other friends."
-    nv "Without them, {i}we{/i} would've never met. I would've never met Maria, or any of my other friends."
+    nv "没有他们，{i}我们{/i}就不会相遇。我就不会认识玛丽亚，也不会认识我的其他朋友。"
 
 # game/code/Book-1/Chapter-8c/s12.rpy:182
 translate chinese b1c08cs12_64b78083:
 
     # nv "But I can understand where you're coming from."
-    nv "But I can understand where you're coming from."
+    nv "但我能理解你的出发点。"
 
 # game/code/Book-1/Chapter-8c/s12.rpy:183
 translate chinese b1c08cs12_25f7e7b0:
 
     # nv "It's hard to trust and be vulnerable when you've been beaten down for as long as you can remember."
-    nv "It's hard to trust and be vulnerable when you've been beaten down for as long as you can remember."
+    nv "从你记事起，你就很难信任别人，也很难袒露脆弱。"
 
 # game/code/Book-1/Chapter-8c/s12.rpy:186
 translate chinese b1c08cs12_de168b70:
 
     # nv "Maria was the one that taught me how to not be like that. She was the one that got me to open up. Trust someone again."
-    nv "Maria was the one that taught me how to not be like that. She was the one that got me to open up. Trust someone again."
+    nv "是玛丽亚教会了我如何改变自己。是她让我敞开心扉。重新信任别人。"
 
 # game/code/Book-1/Chapter-8c/s12.rpy:187
 translate chinese b1c08cs12_b99e0a4b:
 
     # mct "How comforting a single narrative can be. How blind it makes her to other truths."
-    mct "How comforting a single narrative can be. How blind it makes her to other truths."
+    mct "单方面视角多令人安慰啊。让她对其他真相视而不见。"
 
 # game/code/Book-1/Chapter-8c/s12.rpy:189
 translate chinese b1c08cs12_c02ecb1f:
 
     # nv "*Voice shaking* She would never push me towards something nefarious. She wouldn't."
-    nv "*Voice shaking* She would never push me towards something nefarious. She wouldn't."
+    nv "*声音颤抖* 她永远不会把我推向邪恶。她不会的。"
 
 # game/code/Book-1/Chapter-8c/s12.rpy:190
 translate chinese b1c08cs12_a82099a3:
 
     # "You hold her, and for a moment, you wish that love and good intentions were enough for anything."
-    "You hold her, and for a moment, you wish that love and good intentions were enough for anything."
+    "你抱着她，有那么一刻，你希望爱和善意足以解决任何问题。"
 
 # game/code/Book-1/Chapter-8c/s12.rpy:193
 translate chinese b1c08cs12_dceea664:
 
     # "Nia grabs onto you desperately. As if loosening her grip, even a little, would wash her away into an abyss without you."
-    "Nia grabs onto you desperately. As if loosening her grip, even a little, would wash her away into an abyss without you."
+    "妮娅拼命地抓住你。好像只要稍微松开她的手，她就会被冲入没有你的深渊。"
 
 # game/code/Book-1/Chapter-8c/s12.rpy:194
 translate chinese b1c08cs12_91da102a:
 
     # nv "*Whispers* Don't leave me. {i}Please{/i}, please don't leave me."
-    nv "*Whispers* Don't leave me. {i}Please{/i}, please don't leave me."
+    nv "*耳语* 别离开我。{i}求求你{/i}，求你不要离开我。"
 
 # game/code/Book-1/Chapter-8c/s12.rpy:198
 translate chinese b1c08cs12_42e6dd64:
 
     # mc "I won't."
-    mc "I won't."
+    mc "我不会的。"
 
 # game/code/Book-1/Chapter-8c/s12.rpy:200
 translate chinese b1c08cs12_2cdf7451:
 
     # mc "I {i}won't{/i}."
-    mc "I {i}won't{/i}."
+    mc "我{i}不会{/i}的。"
 
 # game/code/Book-1/Chapter-8c/s12.rpy:205
 translate chinese b1c08cs12_45305515:
 
     # mct "How the fuck am I going to untangle this one?"
-    mct "How the fuck am I going to untangle this one?"
+    mct "我他妈要怎么解开这个谜团？"
 
 # game/code/Book-1/Chapter-8c/s12.rpy:206
 translate chinese b1c08cs12_b75d44c8:
 
     # mct "Lumi? Delphia?"
-    mct "Lumi? Delphia?"
+    mct "卢米？德尔菲娅？"
 
 # game/code/Book-1/Chapter-8c/s12.rpy:207
 translate chinese b1c08cs12_d0420439:
 
     # mct "...Nia?"
-    mct "...Nia?"
+    mct "...妮娅？"
 
 # game/code/Book-1/Chapter-8c/s12.rpy:211
 translate chinese b1c08cs12_27fb9989:
 
     # mct "How the hell is she gonna react when this all blows over?"
-    mct "How the hell is she gonna react when this all blows over?"
+    mct "当这一切都结束时，她会有什么反应？"
 
 # game/code/Book-1/Chapter-8c/s12.rpy:212
 translate chinese b1c08cs12_673fede7:
 
     # mct "When she realizes that the group may not be as saintly as she thinks?"
-    mct "When she realizes that the group may not be as saintly as she thinks?"
+    mct "当她意识到这个团体可能不像她想象的那样圣洁？"
 
 # game/code/Book-1/Chapter-8c/s12.rpy:213
 translate chinese b1c08cs12_f6701780:
 
     # mct "That maybe Maria was too lost in the group to see it for what it is?"
-    mct "That maybe Maria was too lost in the group to see it for what it is?"
+    mct "也许玛丽亚太迷失在组织里了，无法看清它的真面目？"
 
 # game/code/Book-1/Chapter-8c/s12.rpy:217
 translate chinese b1c08cs12_6d6893d3:
 
     # mct "One thing at a time. That's all I can do."
-    mct "One thing at a time. That's all I can do."
+    mct "一次只做一件事。这就是我所能做的。"
 
 # game/code/Book-1/Chapter-8c/s12.rpy:220
 translate chinese b1c08cs12_d9f866d1:
 
     # mct "Do the best I can, one thing at a time..."
-    mct "Do the best I can, one thing at a time..."
+    mct "尽力而为，一次只做一件事..."
 
 translate chinese strings:
 
     # game/code/Book-1/Chapter-8c/s12.rpy:4
     old "Back at the university library"
-    new "Back at the university library"
+    new "回到大学图书馆"
 
