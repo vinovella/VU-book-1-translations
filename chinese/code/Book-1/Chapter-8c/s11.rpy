@@ -580,7 +580,7 @@ translate chinese b1c08cs11_00c22424:
 translate chinese b1c08cs11_40a8c349:
 
     # mc "Rest? After what we just did? Hardly."
-    mc "休息？在我们刚刚做了这些之后？很难啊。
+    mc "休息？在我们刚刚做了这些之后？很难啊。"
 
 # game/code/Book-1/Chapter-8c/s11.rpy:345
 translate chinese b1c08cs11_9ad116e7:

@@ -352,7 +352,7 @@ translate chinese b1c08cs09_6a99c843:
 translate chinese b1c08cs09_b65d9c21:
 
     # mct "A \"proper man\"? What the hell does she mean by that? What do I have that Andre doesn't?"
-    mct "一个\"真正的男人"？她到底是什么意思？我有什么是安杰斯没有的？"
+    mct "一个\"真正的男人\"？她到底是什么意思？我有什么是安杰斯没有的？"
 
 # game/code/Book-1/Chapter-8c/s09.rpy:169
 translate chinese b1c08cs09_dde0017c:
@@ -850,7 +850,7 @@ translate chinese b1c08cs09_body_paint_5509085c:
 translate chinese b1c08cs09_body_paint_4550b6a2:
 
     # nv "And maybe she has a valid reason to be upset with me. Maybe I should try to talk to her about it later..."
-    nv "也许她生我的气是有正当理由的。也许我以后应该试着和她谈谈...
+    nv "也许她生我的气是有正当理由的。也许我以后应该试着和她谈谈..."
 
 # game/code/Book-1/Chapter-8c/s09.rpy:368
 translate chinese b1c08cs09_body_paint_3ff2d31f:

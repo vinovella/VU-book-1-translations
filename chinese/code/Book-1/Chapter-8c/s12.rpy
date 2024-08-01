@@ -52,7 +52,7 @@ translate chinese b1c08cs12_3168c07f:
 translate chinese b1c08cs12_ef2a0a32:
 
     # nv "It almost feels like a dream. When I think back on it all, it feels like I'm floating on a vast ocean."
-    nv "感觉就像做梦一样。当我回想起这一切时，感觉就像漂浮在浩瀚的海洋上。
+    nv "感觉就像做梦一样。当我回想起这一切时，感觉就像漂浮在浩瀚的海洋上。"
 
 # game/code/Book-1/Chapter-8c/s12.rpy:69
 translate chinese b1c08cs12_21607567:
