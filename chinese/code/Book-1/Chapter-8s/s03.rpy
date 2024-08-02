@@ -430,177 +430,177 @@ translate chinese b1c08ss03_c0201f80:
 translate chinese b1c08ss03_c60ee507:
 
     # "You look at her face, her defensive demeanor, and you genuinely wish someone had done something for the little girl that endured so much."
-    "You look at her face, her defensive demeanor, and you genuinely wish someone had done something for the little girl that endured so much."
+    "你看着她的脸，她一脸防御的样子，你真的希望有人能为这个忍受了这么多的小女孩做点什么。"
 
 # game/code/Book-1/Chapter-8s/s03.rpy:194
 translate chinese b1c08ss03_112658e0:
 
     # fox "Although I feel at home with chaos and violence, I try to mediate fights to make sure no one gets severely hurt or killed, living the kind of lives we do."
-    fox "Although I feel at home with chaos and violence, I try to mediate fights to make sure no one gets severely hurt or killed, living the kind of lives we do."
+    fox "虽然我觉得混乱和暴力是家常便饭，但我还是努力调解冲突，以确保没有人受到严重伤害或死亡，过着我们这样的生活。"
 
 # game/code/Book-1/Chapter-8s/s03.rpy:197
 translate chinese b1c08ss03_edc80ac7:
 
     # fox "Too many mistakes can happen when there's a lot of excitement, y'know? Violence, anger, survival...those are all part of life."
-    fox "Too many mistakes can happen when there's a lot of excitement, y'know? Violence, anger, survival...those are all part of life."
+    fox "你知道，太激动的时候会发生太多的错误。暴力、愤怒、生存...这些都是生活的一部分。"
 
 # game/code/Book-1/Chapter-8s/s03.rpy:198
 translate chinese b1c08ss03_aa4d897a:
 
     # fox "But that doesn't mean that we shouldn't try to mediate it from time to time."
-    fox "But that doesn't mean that we shouldn't try to mediate it from time to time."
+    fox "但这并不意味着这些情绪发生时，我们就什么也不做，任自己失去理智。"
 
 # game/code/Book-1/Chapter-8s/s03.rpy:201
 translate chinese b1c08ss03_3219f0a4:
 
     # mc "I understand. Seems like the brave thing to do."
-    mc "I understand. Seems like the brave thing to do."
+    mc "我明白。感觉这样挺身而出是件很勇敢的事。"
 
 # game/code/Book-1/Chapter-8s/s03.rpy:202
 translate chinese b1c08ss03_34b17b20:
 
     # "Foxy shrugs off your compliment."
-    "Foxy shrugs off your compliment."
+    "小狐对你的赞美不屑一顾。"
 
 # game/code/Book-1/Chapter-8s/s03.rpy:205
 translate chinese b1c08ss03_90e927d2:
 
     # fox "I don't know that it's all that brave. Just seems like common sense, unless you like seeing folks get hurt."
-    fox "I don't know that it's all that brave. Just seems like common sense, unless you like seeing folks get hurt."
+    fox "我不知道这有多勇敢。但对我来说是常识，除非你喜欢看到有人受伤。"
 
 # game/code/Book-1/Chapter-8s/s03.rpy:206
 translate chinese b1c08ss03_efa7d7aa:
 
     # fox "And the ones who like seeing and inflicting pain? I make sure they get what they fucking deserve."
-    fox "And the ones who like seeing and inflicting pain? I make sure they get what they fucking deserve."
+    fox "至于那些喜欢看别人受伤的人？我确保他们得到应得的代价。"
 
 # game/code/Book-1/Chapter-8s/s03.rpy:209
 translate chinese b1c08ss03_f332ab04:
 
     # mc "I'm glad you survived, Foxy. Though I hope one day you can learn to {i}live{/i}, too. There is so much more to life than just survival."
-    mc "I'm glad you survived, Foxy. Though I hope one day you can learn to {i}live{/i}, too. There is so much more to life than just survival."
+    mc "我很高兴你活下来了，小狐。虽然我希望有一天你也能学会{i}生活{/i}。生活不仅仅是为了生存。"
 
 # game/code/Book-1/Chapter-8s/s03.rpy:212
 translate chinese b1c08ss03_ba3b37f8:
 
     # fox "We'll see."
-    fox "We'll see."
+    fox "我们走着瞧吧。"
 
 # game/code/Book-1/Chapter-8s/s03.rpy:234
 translate chinese b1c08ss03_warehouse_a18833a6:
 
     # fox "Let me look for them through the warehouse windows."
-    fox "Let me look for them through the warehouse windows."
+    fox "让我从仓库的窗户里找找。"
 
 # game/code/Book-1/Chapter-8s/s03.rpy:237
 translate chinese b1c08ss03_warehouse_1de1d6cf:
 
     # mc "You think they'd be visible from the windows?"
-    mc "You think they'd be visible from the windows?"
+    mc "你觉得从窗户里能看到他们吗？"
 
 # game/code/Book-1/Chapter-8s/s03.rpy:240
 translate chinese b1c08ss03_warehouse_ff9c392a:
 
     # fox "Knowing Cade, he hasn't thought this through. He's an act first, make a plan later sort of guy."
-    fox "Knowing Cade, he hasn't thought this through. He's an act first, make a plan later sort of guy."
+    fox "我了解凯德，他还没想清楚。他是那种先行动后计划的人。"
 
 # game/code/Book-1/Chapter-8s/s03.rpy:244
 translate chinese b1c08ss03_warehouse_ab5780e1:
 
     # fox "They're in there. Location confirmed."
-    fox "They're in there. Location confirmed."
+    fox "他们在里面。地点已确认。"
 
 # game/code/Book-1/Chapter-8s/s03.rpy:245
 translate chinese b1c08ss03_warehouse_84d5c07d:
 
     # fox "Take a look."
-    fox "Take a look."
+    fox "看看吧。"
 
 # game/code/Book-1/Chapter-8s/s03.rpy:256
 translate chinese b1c08ss03_warehouse_6de62a2c:
 
     # mc "That asshole Cade."
-    mc "That asshole Cade."
+    mc "那个混蛋凯德。"
 
 # game/code/Book-1/Chapter-8s/s03.rpy:259
 translate chinese b1c08ss03_warehouse_e1cd6157:
 
     # fox "Let's head back."
-    fox "Let's head back."
+    fox "我们回去吧。"
 
 # game/code/Book-1/Chapter-8s/s03.rpy:262
 translate chinese b1c08ss03_warehouse_09cd61be:
 
     # mc "We're just...gonna leave them?"
-    mc "We're just...gonna leave them?"
+    mc "我们就...丢下他们？"
 
 # game/code/Book-1/Chapter-8s/s03.rpy:263
 translate chinese b1c08ss03_warehouse_8d8edb58:
 
     # mc "Shouldn't we try to—"
-    mc "Shouldn't we try to—"
+    mc "我们难道不应该试着--"
 
 # game/code/Book-1/Chapter-8s/s03.rpy:266
 translate chinese b1c08ss03_warehouse_d2bff768:
 
     # fox "We can't take all these guards by ourselves."
-    fox "We can't take all these guards by ourselves."
+    fox "咱们俩对付不了这么多守卫。"
 
 # game/code/Book-1/Chapter-8s/s03.rpy:270
 translate chinese b1c08ss03_warehouse_22cff166:
 
     # mct "These guards are probably just edgy college fuckers who like to wave their knives and fists around to get a reaction."
-    mct "These guards are probably just edgy college fuckers who like to wave their knives and fists around to get a reaction."
+    mct "这些个守卫可能只是一些只会花拳绣腿的大学草包，平日里就喜欢挥舞他们的刀和拳头来获得回应。"
 
 # game/code/Book-1/Chapter-8s/s03.rpy:275
 translate chinese b1c08ss03_warehouse_5d99b51d:
 
     # mct "But if I push too hard on this, Foxy will get suspicious."
-    mct "But if I push too hard on this, Foxy will get suspicious."
+    mct "但如果我逼得太紧，小狐会起疑心的。"
 
 # game/code/Book-1/Chapter-8s/s03.rpy:279
 translate chinese b1c08ss03_warehouse_e65df8b5:
 
     # fox "C'mon. Don't be a stupid hero, be a smart one. We can't waste any more time. We need to get back to Xasan and the others."
-    fox "C'mon. Don't be a stupid hero, be a smart one. We can't waste any more time. We need to get back to Xasan and the others."
+    fox "好了。不要做愚蠢的英雄，要做就做聪明的那个。我们不能再浪费时间了。我们得回去找哈桑他们。"
 
 # game/code/Book-1/Chapter-8s/s03.rpy:280
 translate chinese b1c08ss03_warehouse_ea274058:
 
     # fox "Going in blindly won't help them. We'll get them out, but we have to be smart about it."
-    fox "Going in blindly won't help them. We'll get them out, but we have to be smart about it."
+    fox "盲目地进去是帮不了他们的。我们会把他们救出来的，但我们得聪明点。"
 
 # game/code/Book-1/Chapter-8s/s03.rpy:283
 translate chinese b1c08ss03_warehouse_eb743a73:
 
     # mc "Yeah. Yeah, you're right."
-    mc "Yeah. Yeah, you're right."
+    mc "嗯，你说得对。"
 
 # game/code/Book-1/Chapter-8s/s03.rpy:287
 translate chinese b1c08ss03_warehouse_b34ef6a6:
 
     # fox "Let's go. We're gonna get caught if we stay here."
-    fox "Let's go. We're gonna get caught if we stay here."
+    fox "我们走吧。如果我们留在这里，会被抓住的。"
 
 # game/code/Book-1/Chapter-8s/s03.rpy:291
 translate chinese b1c08ss03_warehouse_c044b317:
 
     # "You retreat with Foxy, knowing that to regroup and strategize is the best thing to do."
-    "You retreat with Foxy, knowing that to regroup and strategize is the best thing to do."
+    "你和小狐一起撤退，心中明白重新安排和制定战略是最好的办法。"
 
 # game/code/Book-1/Chapter-8s/s03.rpy:298
 translate chinese b1c08ss03_warehouse_12b16a21:
 
     # "You silently depart, leaving behind the warehouse, the scene of your friends' captivity, and a resolve burning in your hearts to bring them back safely."
-    "You silently depart, leaving behind the warehouse, the scene of your friends' captivity, and a resolve burning in your hearts to bring them back safely."
+    "你们默默地离开了，留下了仓库，留下了你的朋友被囚禁的现场，你心中燃烧着把他们安全带回来的决心。"
 
 translate chinese strings:
 
     # game/code/Book-1/Chapter-8s/s03.rpy:6
     old "Later that evening, on the dock"
-    new "Later that evening, on the dock"
+    new "那天晚上，在码头上"
 
     # game/code/Book-1/Chapter-8s/s03.rpy:221
     old "After sailing for some time"
-    new "After sailing for some time"
+    new "航行了一段时间之后"
 
