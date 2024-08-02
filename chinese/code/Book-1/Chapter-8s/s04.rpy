@@ -4,277 +4,277 @@
 translate chinese b1c08ss04_24c0d396:
 
     # "You notice Xasan talking to someone on the phone. He seems stressed and pressured."
-    "You notice Xasan talking to someone on the phone. He seems stressed and pressured."
+    "你注意到哈桑在和别人打电话。他看起来很紧张，压力很大。"
 
 # game/code/Book-1/Chapter-8s/s04.rpy:65
 translate chinese b1c08ss04_eb710162:
 
     # xv "No, but we have a plan to get them back."
-    xv "No, but we have a plan to get them back."
+    xv "不是，但我们有个计划，可以救他们回来。"
 
 # game/code/Book-1/Chapter-8s/s04.rpy:69
 translate chinese b1c08ss04_63b56453:
 
     # mct "I wonder who he's talking to."
-    mct "I wonder who he's talking to."
+    mct "不知道他在跟谁说话。"
 
 # game/code/Book-1/Chapter-8s/s04.rpy:73
 translate chinese b1c08ss04_041c7f80:
 
     # xv "Listen, I know this is a liability, but we're going to—Yes, I understand."
-    xv "Listen, I know this is a liability, but we're going to—Yes, I understand."
+    xv "听着，我知道这是一种负担，但我们会--嗯，我明白。"
 
 # game/code/Book-1/Chapter-8s/s04.rpy:75
 translate chinese b1c08ss04_f4a22930:
 
     # "Xasan's whole mood darkens because of whatever the person says."
-    "Xasan's whole mood darkens because of whatever the person says."
+    "不管那个人说什么，哈桑的整个情绪都变得阴沉起来。"
 
 # game/code/Book-1/Chapter-8s/s04.rpy:78
 translate chinese b1c08ss04_06da3b4e:
 
     # xv "Understood. I get it. I'll let you know."
-    xv "Understood. I get it. I'll let you know."
+    xv "理解。我明白。我会让你知道的。"
 
 # game/code/Book-1/Chapter-8s/s04.rpy:82
 translate chinese b1c08ss04_852810a2:
 
     # mct "Who would Xasan even need to report to?"
-    mct "Who would Xasan even need to report to?"
+    mct "哈桑到底需要向谁汇报？"
 
 # game/code/Book-1/Chapter-8s/s04.rpy:83
 translate chinese b1c08ss04_bb23e774:
 
     # "Your steps are heavy with the weight of knowing the state you let Q, Sabrina, and Nirmala in."
-    "Your steps are heavy with the weight of knowing the state you let Q, Sabrina, and Nirmala in."
+    "你的脚步很沉重，因为你知道你让昆汀，萨布丽娜，还有尼玛拉陷入了什么样的境地。"
 
 # game/code/Book-1/Chapter-8s/s04.rpy:84
 translate chinese b1c08ss04_8b0aca1d:
 
     # "But determination to rescue and protect them fuels you regardless."
-    "But determination to rescue and protect them fuels you regardless."
+    "但无论如何，拯救朋友、保护他们的决心激励着你。"
 
 # game/code/Book-1/Chapter-8s/s04.rpy:87
 translate chinese b1c08ss04_23ae095d:
 
     # mct "I won't let more people go missing. I have to do whatever it takes to get them home safely."
-    mct "I won't let more people go missing. I have to do whatever it takes to get them home safely."
+    mct "我不会让更多的人失踪。我必须不惜一切代价让他们安全回家。"
 
 # game/code/Book-1/Chapter-8s/s04.rpy:89
 translate chinese b1c08ss04_ef5d70a6:
 
     # "Xasan looks up from his drink, his eyes reflecting a mixture of concern and determination as he spots you both approaching."
-    "Xasan looks up from his drink, his eyes reflecting a mixture of concern and determination as he spots you both approaching."
+    "哈桑从他的酒杯中抬起头来，当他发现你们俩正走过来时，眼神中流露出关切和决心。"
 
 # game/code/Book-1/Chapter-8s/s04.rpy:91
 translate chinese b1c08ss04_5060ac38:
 
     # xv "Glad to see you both back in one piece."
-    xv "Glad to see you both back in one piece."
+    xv "很高兴看到你们俩平安归来。"
 
 # game/code/Book-1/Chapter-8s/s04.rpy:94
 translate chinese b1c08ss04_8dd65e7f:
 
     # xv "Foxy, report."
-    xv "Foxy, report."
+    xv "小狐，报告情况。"
 
 # game/code/Book-1/Chapter-8s/s04.rpy:97
 translate chinese b1c08ss04_ac4016d5:
 
     # fox "Q and the others are captive in the warehouse. They're bruised and beaten, but they're still alive."
-    fox "Q and the others are captive in the warehouse. They're bruised and beaten, but they're still alive."
+    fox "昆汀和女孩们被囚禁在仓库里。他们被打得遍体鳞伤，但还活着。"
 
 # game/code/Book-1/Chapter-8s/s04.rpy:98
 translate chinese b1c08ss04_548561e5:
 
     # fox "It's of course guarded, though I think we can take the guards that are there as long as they don't call in reinforcements."
-    fox "It's of course guarded, though I think we can take the guards that are there as long as they don't call in reinforcements."
+    fox "那里当然有守卫，不过我想只要那里的守卫不要求增援，我我们就能拿下他们。"
 
 # game/code/Book-1/Chapter-8s/s04.rpy:101
 translate chinese b1c08ss04_18ed72da:
 
     # xv "They won't get a chance to."
-    xv "They won't get a chance to."
+    xv "他们不会有机会的。"
 
 # game/code/Book-1/Chapter-8s/s04.rpy:102
 translate chinese b1c08ss04_a614ece2:
 
     # xv "Those fucking Wasps will pay for what they've done."
-    xv "Those fucking Wasps will pay for what they've done."
+    xv "那些该死的黄蜂会为他们的所作所为付出代价的。"
 
 # game/code/Book-1/Chapter-8s/s04.rpy:104
 translate chinese b1c08ss04_9d4592ff:
 
     # "Xasan pauses, taking a moment to gather his thoughts before laying out his plan."
-    "Xasan pauses, taking a moment to gather his thoughts before laying out his plan."
+    "哈桑停顿了一下，在制定计划之前，他花了一点时间整理思绪。"
 
 # game/code/Book-1/Chapter-8s/s04.rpy:107
 translate chinese b1c08ss04_9741ed03:
 
     # xv "We'll infiltrate their warehouse under the cover of darkness, retrieve our people, and get out before they realize that we've even been there."
-    xv "We'll infiltrate their warehouse under the cover of darkness, retrieve our people, and get out before they realize that we've even been there."
+    xv "我们将在夜幕的掩护下潜入他们的仓库，救出我们的人，然后在他们发现我们之前离开。"
 
 # game/code/Book-1/Chapter-8s/s04.rpy:108
 translate chinese b1c08ss04_ba9f1952:
 
     # xv "It's time to remind them of exactly who they're fucking with."
-    xv "It's time to remind them of exactly who they're fucking with."
+    xv "是时候提醒他们，他们到底在和谁打交道了。"
 
 # game/code/Book-1/Chapter-8s/s04.rpy:111
 translate chinese b1c08ss04_43040db6:
 
     # xv "If anything goes wrong, I'll create a diversion to ensure everyone's safety. Zemfira will be in charge if things don't go according to plan."
-    xv "If anything goes wrong, I'll create a diversion to ensure everyone's safety. Zemfira will be in charge if things don't go according to plan."
+    xv "如果出了什么差错，我会调虎离山，确保大家的安全。如果事情没有按计划进行，泽菲拉将负责指挥。"
 
 # game/code/Book-1/Chapter-8s/s04.rpy:114
 translate chinese b1c08ss04_cc08591d:
 
     # fox "Zem's in charge if something happens to you? You've just {i}decided{/i} this without the rest of us?"
-    fox "Zem's in charge if something happens to you? You've just {i}decided{/i} this without the rest of us?"
+    fox "如果你出了什么事，就由泽菲拉负责？你就这么{/i}决定了{/i}这件事，而不考虑我们其他人？"
 
 # game/code/Book-1/Chapter-8s/s04.rpy:117
 translate chinese b1c08ss04_3856866a:
 
     # xv "Zem has agreed t—"
-    xv "Zem has agreed t—"
+    xv "泽菲拉已经同意--"
 
 # game/code/Book-1/Chapter-8s/s04.rpy:120
 translate chinese b1c08ss04_dbd4d92a:
 
     # fox "I don't give a shit what Zem thinks. She hasn't been here as long as I have."
-    fox "I don't give a shit what Zem thinks. She hasn't been here as long as I have."
+    fox "我才不管泽菲拉怎么想。她在这里的时间没有我长。"
 
 # game/code/Book-1/Chapter-8s/s04.rpy:123
 translate chinese b1c08ss04_08346158:
 
     # fox "Or been through as much."
-    fox "Or been through as much."
+    fox "也没我经历得多。"
 
 # game/code/Book-1/Chapter-8s/s04.rpy:126
 translate chinese b1c08ss04_9d4ed1df:
 
     # fox "We need a plan that gets {i}everyone{/i} out safely."
-    fox "We need a plan that gets {i}everyone{/i} out safely."
+    fox "我们需要一个计划，让{i}所有人{/i}都安全离开。"
 
 # game/code/Book-1/Chapter-8s/s04.rpy:129
 translate chinese b1c08ss04_b18241b3:
 
     # fox "Take it from someone who played that game and lost."
-    fox "Take it from someone who played that game and lost."
+    fox "听听我这个曾经深陷斗争却输了游戏的人的话吧。"
 
 # game/code/Book-1/Chapter-8s/s04.rpy:132
 translate chinese b1c08ss04_d9210d06:
 
     # mct "Revenge must be what cost Foxy her eye..."
-    mct "Revenge must be what cost Foxy her eye..."
+    mct "一定是复仇让小狐失去了她的眼睛..."
 
 # game/code/Book-1/Chapter-8s/s04.rpy:136
 translate chinese b1c08ss04_c1af1e5b:
 
     # xv "We need to protect our own, Foxy. If that means making a few bold moves, then so be it. We need to get our people out as soon as possible."
-    xv "We need to protect our own, Foxy. If that means making a few bold moves, then so be it. We need to get our people out as soon as possible."
+    xv "我们需要保护自己，小狐。如果这意味着要做出一些大胆的举动，那就这样吧。我们需要尽快把我们的人救出来。"
 
 # game/code/Book-1/Chapter-8s/s04.rpy:139
 translate chinese b1c08ss04_db15ebea:
 
     # fox "We need to focus on the safety of those who are still here!"
-    fox "We need to focus on the safety of those who are still here!"
+    fox "我们需要关注那些还在这里的人的安全！"
 
 # game/code/Book-1/Chapter-8s/s04.rpy:140
 translate chinese b1c08ss04_84e06f5e:
 
     # fox "If Cade was really going to hurt them, he would've by now. If we could just take a little more time to plan i—"
-    fox "If Cade was really going to hurt them, he would've by now. If we could just take a little more time to plan i—"
+    fox "如果凯德真的要伤害他们，他早就下手了。如果我们能多花一点时间来计划--"
 
 # game/code/Book-1/Chapter-8s/s04.rpy:143
 translate chinese b1c08ss04_b28ec88f:
 
     # xv "Trust me, Fox. We've got to hit 'em fast. The longer Q and those girls are there, the more danger they're in."
-    xv "Trust me, Fox. We've got to hit 'em fast. The longer Q and those girls are there, the more danger they're in."
+    xv "相信我，小狐。我们得快点干掉他们。昆汀和那些女孩在那里待得越久，他们就越危险。"
 
 # game/code/Book-1/Chapter-8s/s04.rpy:146
 translate chinese b1c08ss04_399460b9:
 
     # fox "What if Q and those girls are a trap for the rest of us?"
-    fox "What if Q and those girls are a trap for the rest of us?"
+    fox "如果昆汀和那些女孩是等着我们其他人进去的陷阱呢？"
 
 # game/code/Book-1/Chapter-8s/s04.rpy:147
 translate chinese b1c08ss04_8c701f46:
 
     # fox "Casualties aren't a part of what we do. We should have a plan that's fool-proof so we don't get caught with our pants down."
-    fox "Casualties aren't a part of what we do. We should have a plan that's fool-proof so we don't get caught with our pants down."
+    fox "伤亡不是我们工作的一部分。我们应该有个万无一失的计划，这样我们就不会措手不及了。"
 
 # game/code/Book-1/Chapter-8s/s04.rpy:150
 translate chinese b1c08ss04_b70f1e93:
 
     # zp "Casualties are {i}expected{/i} in what we do. Trap or not, we'll be losing people regardless if we wait too long. We shouldn't take that risk."
-    zp "Casualties are {i}expected{/i} in what we do. Trap or not, we'll be losing people regardless if we wait too long. We shouldn't take that risk."
+    zp "在我们的工作中，伤亡是{i}意料之中的{/i}。不管有没有陷阱，如果我们等得太久，都会有人牺牲。我们不应该冒这个险。"
 
 # game/code/Book-1/Chapter-8s/s04.rpy:153
 translate chinese b1c08ss04_aadd7b90:
 
     # xv "Exactly. If it's not them, it's us."
-    xv "Exactly. If it's not them, it's us."
+    xv "没错。如果不是他们，那就是我们。"
 
 # game/code/Book-1/Chapter-8s/s04.rpy:156
 translate chinese b1c08ss04_962ba87d:
 
     # xv "This is what we have to do to survive, Foxy. Trust me."
-    xv "This is what we have to do to survive, Foxy. Trust me."
+    xv "为了生存，我们必须这么做，小狐。相信我。"
 
 # game/code/Book-1/Chapter-8s/s04.rpy:157
 translate chinese b1c08ss04_7f00c0d1:
 
     # xv "And if anything does go wrong, I'll be the one at risk. Zem will cover things here until we can regroup."
-    xv "And if anything does go wrong, I'll be the one at risk. Zem will cover things here until we can regroup."
+    xv "如果出了什么差错，我就是那个有危险的人。泽菲拉会负责这里的事务，直到我们重新集结。"
 
 # game/code/Book-1/Chapter-8s/s04.rpy:160
 translate chinese b1c08ss04_87cb9584:
 
     # fox "So that rich brat is who we're subjected to if anything happens to you? This is a shitfucked plan, Xasan!"
-    fox "So that rich brat is who we're subjected to if anything happens to you? This is a shitfucked plan, Xasan!"
+    fox "这么说，如果你出了什么事，我们就要服从那个空有钱的小鬼头了？这个计划太操蛋了，哈桑！"
 
 # game/code/Book-1/Chapter-8s/s04.rpy:164
 translate chinese b1c08ss04_7b4a7a16:
 
     # zp "Watch your fuckin' mouth, you sour bitch."
-    zp "Watch your fuckin' mouth, you sour bitch."
+    zp "管好你的嘴，你这臭婊子。"
 
 # game/code/Book-1/Chapter-8s/s04.rpy:167
 translate chinese b1c08ss04_d2c4e03e:
 
     # "You place a hand on Foxy's shoulder to calm the situation."
-    "You place a hand on Foxy's shoulder to calm the situation."
+    "你把一只手放在小狐的肩膀上，让局面平静下来。"
 
 # game/code/Book-1/Chapter-8s/s04.rpy:168
 translate chinese b1c08ss04_13b3acab:
 
     # "Foxy glances at you, an unspoken plea for backup."
-    "Foxy glances at you, an unspoken plea for backup."
+    "小狐看了你一眼，无言的请求支援。"
 
 # game/code/Book-1/Chapter-8s/s04.rpy:169
 translate chinese b1c08ss04_e116b45d:
 
     # "Then you address the entire group."
-    "Then you address the entire group."
+    "然后你面向所有成员开口了。"
 
 # game/code/Book-1/Chapter-8s/s04.rpy:176
 translate chinese b1c08ss04_d43841c4:
 
     # mc "Foxy's right. This is a dangerous game."
-    mc "Foxy's right. This is a dangerous game."
+    mc "小狐说得对。这个游戏很危险。"
 
 # game/code/Book-1/Chapter-8s/s04.rpy:179
 translate chinese b1c08ss04_b71ad29a:
 
     # xv "You're not one of us, rookie. You don't get to make choices here."
-    xv "You're not one of us, rookie. You don't get to make choices here."
+    xv "你不是我们中的一员，菜鸟。你不能在这里做选择。"
 
 # game/code/Book-1/Chapter-8s/s04.rpy:182
 translate chinese b1c08ss04_77d9d961:
 
     # mc "I'm not trying to call the shots, Xasan. It's not about that. It's about getting {i}everyone{/i} home safe."
-    mc "I'm not trying to call the shots, Xasan. It's not about that. It's about getting {i}everyone{/i} home safe."
+    mc "我不是想发号施令，哈桑。我不在乎你们服不服我。我是为了让{i}每个人{/i}安全回家。"
 
 # game/code/Book-1/Chapter-8s/s04.rpy:183
 translate chinese b1c08ss04_eed8b9da:
