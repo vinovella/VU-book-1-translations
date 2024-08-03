@@ -4,217 +4,217 @@
 translate chinese b1c08ss06_e197f8e6:
 
     # "Xasan and Morgan move stealthily through the shadows, their trained eyes scanning the area for any signs of trouble."
-    "Xasan and Morgan move stealthily through the shadows, their trained eyes scanning the area for any signs of trouble."
+    "哈桑和摩根在阴影中悄悄移动，他们训练有素的眼睛扫描着这片区域，寻找任何麻烦的迹象。"
 
 # game/code/Book-1/Chapter-8s/s06.rpy:10
 translate chinese b1c08ss06_99dae586:
 
     # "As you scan your surroundings, you remain on high alert, ready to provide assistance if circumstances demand it."
-    "As you scan your surroundings, you remain on high alert, ready to provide assistance if circumstances demand it."
+    "在扫描周围环境的同时，你保持着高度警惕，随时准备在情况需要时提供帮助。"
 
 # game/code/Book-1/Chapter-8s/s06.rpy:15
 translate chinese b1c08ss06_7b3f8429:
 
     # xv "*Whispers* You take that one. I'll get the other."
-    xv "*Whispers* You take that one. I'll get the other."
+    xv "*耳语* 你解决那个。我来对付另一个。"
 
 # game/code/Book-1/Chapter-8s/s06.rpy:21
 translate chinese b1c08ss06_360ddc32:
 
     # "Morgan and Xasan surge forward, intent on their targets."
-    "Morgan and Xasan surge forward, intent on their targets."
+    "摩根和哈桑向前猛冲，瞄准目标。"
 
 # game/code/Book-1/Chapter-8s/s06.rpy:28
 translate chinese b1c08ss06_86b80386:
 
     # "Morgan locks her guard into a brutal chokehold. You watch as they claw at her arm, struggling to breathe."
-    "Morgan locks her guard into a brutal chokehold. You watch as they claw at her arm, struggling to breathe."
+    "摩根残忍地锁住了守卫的脖子。你看着他们抓着她的胳膊，挣扎着呼吸。"
 
 # game/code/Book-1/Chapter-8s/s06.rpy:32
 translate chinese b1c08ss06_1969d5c1:
 
     # "Her gaze is unwavering as their body goes limp in her grasp, effectively knocked out."
-    "Her gaze is unwavering as their body goes limp in her grasp, effectively knocked out."
+    "她的目光毫不动摇，他们的身体在她的控制下瘫软下来，完全被击倒了。"
 
 # game/code/Book-1/Chapter-8s/s06.rpy:37
 translate chinese b1c08ss06_04eab8c5:
 
     # "Less than a second later, Xasan grabs his target's throat hard enough he can't scream, and hauls him backward."
-    "Less than a second later, Xasan grabs his target's throat hard enough he can't scream, and hauls him backward."
+    "不到一秒后，哈桑用力掐住目标的喉咙，让他叫不出声， 然后把他往后拖。"
 
 # game/code/Book-1/Chapter-8s/s06.rpy:42
 translate chinese b1c08ss06_336a8108:
 
     # "Xasan slams the guard's head onto his knee, knocking him out."
-    "Xasan slams the guard's head onto his knee, knocking him out."
+    "哈桑把警卫的头狠狠地撞在自己的膝盖上，把他撞晕了。"
 
 # game/code/Book-1/Chapter-8s/s06.rpy:45
 translate chinese b1c08ss06_56ae7fbe:
 
     # xv "Help me get these guys hidden. We don't want others finding them like this."
-    xv "Help me get these guys hidden. We don't want others finding them like this."
+    xv "帮我把这些家伙藏起来。我们不想让别人发现他们这个样子。"
 
 # game/code/Book-1/Chapter-8s/s06.rpy:48
 translate chinese b1c08ss06_f168d7dc:
 
     # mg "On it."
-    mg "On it."
+    mg "这就去。"
 
 # game/code/Book-1/Chapter-8s/s06.rpy:57
 translate chinese b1c08ss06_4500ec2e:
 
     # "Foxy leads Asami and Zemfira as they quietly slip into the warehouse."
-    "Foxy leads Asami and Zemfira as they quietly slip into the warehouse."
+    "小狐领着麻美和泽菲拉悄悄溜进仓库。"
 
 # game/code/Book-1/Chapter-8s/s06.rpy:59
 translate chinese b1c08ss06_5aee9d2b:
 
     # "The trio is delirious from pain, and stress. Blood and bruises mark their usually clean skin."
-    "The trio is delirious from pain, and stress. Blood and bruises mark their usually clean skin."
+    "被捕的三个人因疼痛和压力而神志不清。他们一贯干净的皮肤上印有血迹和瘀伤。"
 
 # game/code/Book-1/Chapter-8s/s06.rpy:61
 translate chinese b1c08ss06_8d4b6fc2:
 
     # "It's doubtful they've had more than a few moments out of these chairs since their capture."
-    "It's doubtful they've had more than a few moments out of these chairs since their capture."
+    "我怀疑自从他们被抓以来，他们离开这些椅子的时间应该不长。"
 
 # game/code/Book-1/Chapter-8s/s06.rpy:70
 translate chinese b1c08ss06_385b8406:
 
     # "Asami feels distressed at the state of Q and the girls, barely keeping it together. Foxy and Zemfira are focused and calm despite the circumstances."
-    "Asami feels distressed at the state of Q and the girls, barely keeping it together. Foxy and Zemfira are focused and calm despite the circumstances."
+    "麻美对昆汀 和女孩们的状况感到心疼，她勉强支撑着。尽管情况如此，小狐和泽菲拉仍能保持专注和冷静。"
 
 # game/code/Book-1/Chapter-8s/s06.rpy:73
 translate chinese b1c08ss06_7350d2c9:
 
     # "Q and the girls become fully alert at the sight of their rescuers, their eyes filling with relief."
-    "Q and the girls become fully alert at the sight of their rescuers, their eyes filling with relief."
+    "昆汀和女孩们一看到救兵就变得全神贯注，他们的眼睛里充满了宽慰。"
 
 # game/code/Book-1/Chapter-8s/s06.rpy:79
 translate chinese b1c08ss06_0481fcc2:
 
     # ass "*Whispers* We're going to get you out of here. Stay quiet and follow us."
-    ass "*Whispers* We're going to get you out of here. Stay quiet and follow us."
+    ass "*低语* 我们会把你们弄出去的。别出声，跟我们走。"
 
 # game/code/Book-1/Chapter-8s/s06.rpy:93
 translate chinese b1c08ss06_9f1a565a:
 
     # sp "S-sorry, he— I— It's my ankle."
-    sp "S-sorry, he— I— It's my ankle."
+    sp "对不起，他--我--是我的脚踝。"
 
 # game/code/Book-1/Chapter-8s/s06.rpy:99
 translate chinese b1c08ss06_457d1bea:
 
     # nr "How did you guys get here? We'd almost given up."
-    nr "How did you guys get here? We'd almost given up."
+    nr "你们怎么到这儿来的？我们几乎要放弃了。"
 
 # game/code/Book-1/Chapter-8s/s06.rpy:102
 translate chinese b1c08ss06_bb602250:
 
     # zp "I know. I'm sorry."
-    zp "I know. I'm sorry."
+    zp "我知道。对不起。"
 
 # game/code/Book-1/Chapter-8s/s06.rpy:103
 translate chinese b1c08ss06_cf3ba186:
 
     # zp "We have a boat. It'll get us all out of here safely."
-    zp "We have a boat. It'll get us all out of here safely."
+    zp "我们有一艘船。它会让我们都安全离开这里。"
 
 # game/code/Book-1/Chapter-8s/s06.rpy:108
 translate chinese b1c08ss06_f840a8f8:
 
     # "Xasan and Morgan remain vigilant outside the warehouse, keeping the coast clear as the Syndicate members and the cam workers stealthily but slowly make their way back to the boat."
-    "Xasan and Morgan remain vigilant outside the warehouse, keeping the coast clear as the Syndicate members and the cam workers stealthily but slowly make their way back to the boat."
+    "哈桑和摩根在仓库外保持警惕，一路确保海岸的安全，同时辛迪加成员和拍摄人员偷偷摸摸地慢慢回到船上。"
 
 # game/code/Book-1/Chapter-8s/s06.rpy:111
 translate chinese b1c08ss06_f5e1d8fd:
 
     # xv "Morgan, help them back to the boat. I'll keep watch."
-    xv "Morgan, help them back to the boat. I'll keep watch."
+    xv "摩根，帮他们回到船上。我来放哨。"
 
 # game/code/Book-1/Chapter-8s/s06.rpy:113
 translate chinese b1c08ss06_f168d7dc_1:
 
     # mg "On it."
-    mg "On it."
+    mg "遵命。"
 
 # game/code/Book-1/Chapter-8s/s06.rpy:119
 translate chinese b1c08ss06_2d6f427e:
 
     # "Morgan picks up Sabrina and swiftly heads back to the boat while Xasan remains behind, determined to complete his vendetta."
-    "Morgan picks up Sabrina and swiftly heads back to the boat while Xasan remains behind, determined to complete his vendetta."
+    "摩根抱起萨布丽娜，迅速回到船上，而哈桑留在后面，决心完成他的复仇。"
 
 # game/code/Book-1/Chapter-8s/s06.rpy:121
 translate chinese b1c08ss06_7f1a2991:
 
     # "Xasan carefully selects a hidden spot, ensuring the bomb is placed in a location that is both inconspicuous and strategically impactful."
-    "Xasan carefully selects a hidden spot, ensuring the bomb is placed in a location that is both inconspicuous and strategically impactful."
+    "哈桑精心选择了一个隐蔽的地点，确保炸弹放置在一个既不显眼又有战略影响的地方。"
 
 # game/code/Book-1/Chapter-8s/s06.rpy:125
 translate chinese b1c08ss06_8e4a3978:
 
     # mct "I bet he's about to set that bomb..."
-    mct "I bet he's about to set that bomb..."
+    mct "我打赌他要放炸弹了..."
 
 # game/code/Book-1/Chapter-8s/s06.rpy:129
 translate chinese b1c08ss06_66e44a27:
 
     # mct "Good. The Wasps deserve it after what they did."
-    mct "Good. The Wasps deserve it after what they did."
+    mct "很好。黄蜂队的所作所为罪有应得。"
 
 # game/code/Book-1/Chapter-8s/s06.rpy:133
 translate chinese b1c08ss06_e582bdad:
 
     # mct "This is too far. I can't let Xasan do this."
-    mct "This is too far. I can't let Xasan do this."
+    mct "这太过分了。我不能让哈桑这么做。"
 
 # game/code/Book-1/Chapter-8s/s06.rpy:138
 translate chinese b1c08ss06_f5dcfb40:
 
     # "You're distracted from Xasan by Sabrina falling into you."
-    "You're distracted from Xasan by Sabrina falling into you."
+    "萨布丽娜撞到你，让你分心了。"
 
 # game/code/Book-1/Chapter-8s/s06.rpy:141
 translate chinese b1c08ss06_471c9a85:
 
     # sp "Didn't think I'd see your pretty face again."
-    sp "Didn't think I'd see your pretty face again."
+    sp "没想到还能再见到你漂亮的脸蛋。"
 
 # game/code/Book-1/Chapter-8s/s06.rpy:143
 translate chinese b1c08ss06_efed01ef:
 
     # "You give her a strained smile, sad to see her in this state."
-    "You give her a strained smile, sad to see her in this state."
+    "你勉强地笑了笑，看到她这个样子很难过。"
 
 # game/code/Book-1/Chapter-8s/s06.rpy:145
 translate chinese b1c08ss06_d86e8c8d:
 
     # mc "Glad to see you too, Sabrina. Let's get you home safe."
-    mc "Glad to see you too, Sabrina. Let's get you home safe."
+    mc "我也很高兴见到你，萨布丽娜。我们这就把你安全送回家。"
 
 # game/code/Book-1/Chapter-8s/s06.rpy:148
 translate chinese b1c08ss06_452d1bd8:
 
     # "As Xasan sets the bomb, a guard catches sight of him. The guard's eyes widen in alarm, realizing the threat before him."
-    "As Xasan sets the bomb, a guard catches sight of him. The guard's eyes widen in alarm, realizing the threat before him."
+    "当哈桑安放炸弹时，一名警卫发现了他。卫兵意识到眼前的威胁，惊恐地睁大了眼睛。"
 
 # game/code/Book-1/Chapter-8s/s06.rpy:152
 translate chinese b1c08ss06_a0256286:
 
     # "Guard" "Hey, we got a live one here! Get the other squad out here now!"
-    "Guard" "Hey, we got a live one here! Get the other squad out here now!"
+    "警卫" "嘿，这里有个活的！把其他小队也叫过来！"
 
 # game/code/Book-1/Chapter-8s/s06.rpy:155
 translate chinese b1c08ss06_71c001d7:
 
     # "Xasan refuses to leave without setting the bomb, instead continuing to set it up despite the approaching threat."
-    "Xasan refuses to leave without setting the bomb, instead continuing to set it up despite the approaching threat."
+    "哈桑拒绝在不引爆炸弹的情况下离开，而是不顾威胁的逼近，继续引爆炸弹。"
 
 # game/code/Book-1/Chapter-8s/s06.rpy:157
 translate chinese b1c08ss06_f8d60fa2:
 
     # xv "Shitshitshit—"
-    xv "Shitshitshit—"
+    xv "该死该死该死-"
 
 # game/code/Book-1/Chapter-8s/s06.rpy:161
 translate chinese b1c08ss06_e688846a:
