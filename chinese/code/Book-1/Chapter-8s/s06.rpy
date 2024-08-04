@@ -220,351 +220,351 @@ translate chinese b1c08ss06_f8d60fa2:
 translate chinese b1c08ss06_e688846a:
 
     # "Guard" "Stop whatever the fuck you're doing!"
-    "Guard" "Stop whatever the fuck you're doing!"
+    "守卫" "不管你在做什么，都给我停下！"
 
 # game/code/Book-1/Chapter-8s/s06.rpy:165
 translate chinese b1c08ss06_358a671d:
 
     # mc "Xasan—"
-    mc "Xasan—"
+    mc "哈桑--"
 
 # game/code/Book-1/Chapter-8s/s06.rpy:168
 translate chinese b1c08ss06_192832db:
 
     # zp "Fuck!"
-    zp "Fuck!"
+    zp "操！"
 
 # game/code/Book-1/Chapter-8s/s06.rpy:172
 translate chinese b1c08ss06_d9bc13a7:
 
     # "Xasan's heart pounds in his chest as the realization hits that he has been spotted. He prepares himself for what is to come, knowing that his priority is to protect his team and complete the mission."
-    "Xasan's heart pounds in his chest as the realization hits that he has been spotted. He prepares himself for what is to come, knowing that his priority is to protect his team and complete the mission."
+    "当意识到自己被发现时，哈桑的心怦怦直跳。他为即将到来的命运做好了准备，他知道他的首要任务是保护他的团队并完成任务。"
 
 # game/code/Book-1/Chapter-8s/s06.rpy:186
 translate chinese b1c08ss06_1764baec:
 
     # "Xasan narrowly misses getting a bat to the skull. He manages to use the opening to punch the guard in the stomach, stunning him."
-    "Xasan narrowly misses getting a bat to the skull. He manages to use the opening to punch the guard in the stomach, stunning him."
+    "哈桑险些被球棒击中头颅。他成功地利用这个空档打中了守卫的腹部，把他打晕了。"
 
 # game/code/Book-1/Chapter-8s/s06.rpy:191
 translate chinese b1c08ss06_713fb5a2:
 
     # "However, the other guard uses Xasan's distraction to kick him in the gut."
-    "However, the other guard uses Xasan's distraction to kick him in the gut."
+    "然而，另一个守卫利用哈桑的分心踢中了他的内脏。"
 
 # game/code/Book-1/Chapter-8s/s06.rpy:195
 translate chinese b1c08ss06_d00328d1:
 
     # "The sound of the guard's foot connecting with Xasan's stomach can be heard on the boat."
-    "The sound of the guard's foot connecting with Xasan's stomach can be heard on the boat."
+    "守卫的脚与哈桑腹部相撞的声音，在船上清晰可闻。"
 
 # game/code/Book-1/Chapter-8s/s06.rpy:197
 translate chinese b1c08ss06_a2903284:
 
     # "Xasan struggles to inhale, the air completely wiped from him."
-    "Xasan struggles to inhale, the air completely wiped from him."
+    "哈桑挣扎着吸气，他的呼吸开始不顺。"
 
 # game/code/Book-1/Chapter-8s/s06.rpy:200
 translate chinese b1c08ss06_983b61be:
 
     # mg "Jesus Christ, we've gotta help him."
-    mg "Jesus Christ, we've gotta help him."
+    mg "天啊，我们得帮帮他。"
 
 # game/code/Book-1/Chapter-8s/s06.rpy:203
 translate chinese b1c08ss06_7adb83e5:
 
     # zp "But we have the cam workers safe—"
-    zp "But we have the cam workers safe—"
+    zp "但是我们保证了拍摄人员的安全--"
 
 # game/code/Book-1/Chapter-8s/s06.rpy:206
 translate chinese b1c08ss06_fd324d68:
 
     # ass "We can't just fucking leave him!"
-    ass "We can't just fucking leave him!"
+    ass "我们不能就这么丢下他！"
 
 # game/code/Book-1/Chapter-8s/s06.rpy:208
 translate chinese b1c08ss06_f306df62:
 
     # fox "What the fuck is he even doing?!"
-    fox "What the fuck is he even doing?!"
+    fox "他到底在干什么?!"
 
 # game/code/Book-1/Chapter-8s/s06.rpy:211
 translate chinese b1c08ss06_86ec5bce:
 
     # nr "If he told you to leave him, just leave! He can take care of himself, and we can regroup and come back with a more coordinated team."
-    nr "If he told you to leave him, just leave! He can take care of himself, and we can regroup and come back with a more coordinated team."
+    nr "如果他让你先撤，你撤就是了！他可以照顾好自己，我们可以调整重组，带着一个更有凝聚力的团队回来。"
 
 # game/code/Book-1/Chapter-8s/s06.rpy:214
 translate chinese b1c08ss06_71209420:
 
     # mct "He'll never be able to fight them all."
-    mct "He'll never be able to fight them all."
+    mct "他永远也打不过对方所有人。"
 
 # game/code/Book-1/Chapter-8s/s06.rpy:216
 translate chinese b1c08ss06_8b402cf0:
 
     # mct "I've got to help him. Those fuckers will sabotage the mission otherwise."
-    mct "I've got to help him. Those fuckers will sabotage the mission otherwise."
+    mct "我得帮他。否则那些混蛋会破坏任务的。"
 
 # game/code/Book-1/Chapter-8s/s06.rpy:218
 translate chinese b1c08ss06_0f459b7c:
 
     # mct "This is my chance to stop the bomb. If I can get Xasan out of here, we'll leave before he gets the chance to fully set it up."
-    mct "This is my chance to stop the bomb. If I can get Xasan out of here, we'll leave before he gets the chance to fully set it up."
+    mct "这是我阻止炸弹的机会。如果我能把哈桑救出来，我们就能在他完全引爆之前离开。"
 
 # game/code/Book-1/Chapter-8s/s06.rpy:221
 translate chinese b1c08ss06_07261547:
 
     # mct "Besides, I can't just leave a man to fight those odds alone."
-    mct "Besides, I can't just leave a man to fight those odds alone."
+    mct "再说了，我不能留他单独一个人独自面对这些困难。"
 
 # game/code/Book-1/Chapter-8s/s06.rpy:224
 translate chinese b1c08ss06_dde2b441:
 
     # "You move to get off the boat, but Zemfira stops you."
-    "You move to get off the boat, but Zemfira stops you."
+    "你想下船，但泽菲拉阻止了你。"
 
 # game/code/Book-1/Chapter-8s/s06.rpy:227
 translate chinese b1c08ss06_8887c677:
 
     # zp "No! We need you to drive the boat. Xasan told me to just leave him. We can't risk everyone else."
-    zp "No! We need you to drive the boat. Xasan told me to just leave him. We can't risk everyone else."
+    zp "不行！我们需要你来开船。哈桑让我别管他。我们不能拿其他人冒险。"
 
 # game/code/Book-1/Chapter-8s/s06.rpy:228
 translate chinese b1c08ss06_8c592bd7:
 
     # zp "He made his choice, now we have to make ours."
-    zp "He made his choice, now we have to make ours."
+    zp "他做出了他自己的选择，现在我们必须做出我们的选择。"
 
 # game/code/Book-1/Chapter-8s/s06.rpy:229
 translate chinese b1c08ss06_bb0835ed:
 
     # zp "I'm in charg—"
-    zp "I'm in charg—"
+    zp "我说了算—"
 
 # game/code/Book-1/Chapter-8s/s06.rpy:232
 translate chinese b1c08ss06_e68893ca:
 
     # ass "You can't seriously think of leaving him! What the fuck, Zem?!"
-    ass "You can't seriously think of leaving him! What the fuck, Zem?!"
+    ass "你不会真的想抛下他吧！搞什么鬼，泽菲拉?!"
 
 # game/code/Book-1/Chapter-8s/s06.rpy:234
 translate chinese b1c08ss06_f9c5e48e:
 
     # mg "Let me go help him."
-    mg "Let me go help him."
+    mg "让我去帮他。"
 
 # game/code/Book-1/Chapter-8s/s06.rpy:237
 translate chinese b1c08ss06_adfb63fc:
 
     # zp "No. We need you here to protect us."
-    zp "No. We need you here to protect us."
+    zp "不行。我们需要你在这里保护我们。"
 
 # game/code/Book-1/Chapter-8s/s06.rpy:239
 translate chinese b1c08ss06_748b310a:
 
     # fox "We need to get the fuck out of here before they realize there's a boat here!"
-    fox "We need to get the fuck out of here before they realize there's a boat here!"
+    fox "我们得在他们发现这里有艘船之前离开这里！"
 
 # game/code/Book-1/Chapter-8s/s06.rpy:241
 translate chinese b1c08ss06_1b63f255:
 
     # "The conflicting voices of the girls echo in your mind. You know there is sense in saving the majority and sacrificing few, but you can't bring yourself to leave Xasan."
-    "The conflicting voices of the girls echo in your mind. You know there is sense in saving the majority and sacrificing few, but you can't bring yourself to leave Xasan."
+    "女孩们矛盾的声音在你脑海中回响。你知道拯救大多数人、牺牲少数人是有道理的，但你做不到抛下哈桑不管。"
 
 # game/code/Book-1/Chapter-8s/s06.rpy:243
 translate chinese b1c08ss06_0431c7c8:
 
     # mct "Zem said Xasan made his choice and we have to make ours."
-    mct "Zem said Xasan made his choice and we have to make ours."
+    mct "泽菲拉说，哈桑做出了他的选择，我们也必须做出我们的选择。"
 
 # game/code/Book-1/Chapter-8s/s06.rpy:244
 translate chinese b1c08ss06_a9e9d2c1:
 
     # mct "This is me making my choice."
-    mct "This is me making my choice."
+    mct "这就是我的选择。"
 
 # game/code/Book-1/Chapter-8s/s06.rpy:254
 translate chinese b1c08ss06_69058766:
 
     # "You rush to Xasan's aid, arriving just in time to defend him before the guards start beating him."
-    "You rush to Xasan's aid, arriving just in time to defend him before the guards start beating him."
+    "你冲过去帮助哈桑，在卫兵开始殴打他之前及时赶到保护他。"
 
 # game/code/Book-1/Chapter-8s/s06.rpy:276
 translate chinese b1c08ss06_6b42d948:
 
     # "Your heart sinks as backup guards arrive."
-    "Your heart sinks as backup guards arrive."
+    "当增援警卫到来时，你的心一沉。"
 
 # game/code/Book-1/Chapter-8s/s06.rpy:278
 translate chinese b1c08ss06_f5ffc10b:
 
     # "Guard" "GET THOSE FUCKERS!"
-    "Guard" "GET THOSE FUCKERS!"
+    "卫兵" "抓住那些混蛋！"
 
 # game/code/Book-1/Chapter-8s/s06.rpy:284
 translate chinese b1c08ss06_f6626f28:
 
     # "Guard" "What's so fuckin' funny to you, asshole?"
-    "Guard" "What's so fuckin' funny to you, asshole?"
+    "卫兵" "你他妈有什么好笑的，混蛋？"
 
 # game/code/Book-1/Chapter-8s/s06.rpy:286
 translate chinese b1c08ss06_34f81d5d:
 
     # xv "You sons of bitches don't know how dead you are."
-    xv "You sons of bitches don't know how dead you are."
+    xv "你们这些狗娘养的，不知道自己死定了。"
 
 # game/code/Book-1/Chapter-8s/s06.rpy:289
 translate chinese b1c08ss06_d00dad00:
 
     # "Guard" "Tough words coming from someone I can grind underneath my heel."
-    "Guard" "Tough words coming from someone I can grind underneath my heel."
+    "守卫" "这么嘴硬的话，却从一个即将被我踩死的人嘴里说出来。"
 
 # game/code/Book-1/Chapter-8s/s06.rpy:297
 translate chinese b1c08ss06_30039d4d:
 
     # "The guard grinds his heel into Xasan's chest. Xasan, too weak to fight anymore, groans in pain."
-    "The guard grinds his heel into Xasan's chest. Xasan, too weak to fight anymore, groans in pain."
+    "卫兵用脚跟猛踢哈桑的胸膛。哈桑虚弱得无力再战，只能痛苦地呻吟。"
 
 # game/code/Book-1/Chapter-8s/s06.rpy:300
 translate chinese b1c08ss06_f5212b77:
 
     # "Guard" "Hellena will want to see them—"
-    "Guard" "Hellena will want to see them—"
+    "守卫" "海伦娜会很乐意见见他们的--"
 
 # game/code/Book-1/Chapter-8s/s06.rpy:311
 translate chinese b1c08ss06_3585150d:
 
     # "Xasan's bomb explodes, splaying everyone."
-    "Xasan's bomb explodes, splaying everyone."
+    "哈桑的炸弹爆炸了，把所有人都炸飞了。"
 
 # game/code/Book-1/Chapter-8s/s06.rpy:316
 translate chinese b1c08ss06_be82370a:
 
     # "Your ears ring, and your vision blurs. It's hard to think or focus on your surroundings. Your body struggles to recover from the blast."
-    "Your ears ring, and your vision blurs. It's hard to think or focus on your surroundings. Your body struggles to recover from the blast."
+    "你的耳朵嗡嗡作响，视线模糊。很难思考或关注周围的环境。你的身体正在努力从爆炸中恢复过来。"
 
 # game/code/Book-1/Chapter-8s/s06.rpy:319
 translate chinese b1c08ss06_d621d664:
 
     # mct "Fuck... I was too late."
-    mct "Fuck... I was too late."
+    mct "操...我太迟了。"
 
 # game/code/Book-1/Chapter-8s/s06.rpy:321
 translate chinese b1c08ss06_27937a7a:
 
     # "The guards swarm you, and the air crackles with tension."
-    "The guards swarm you, and the air crackles with tension."
+    "卫兵把你团团围住，空气中弥漫着紧张的气氛。"
 
 # game/code/Book-1/Chapter-8s/s06.rpy:326
 translate chinese b1c08ss06_d8cebad0:
 
     # "You claw at the guard's boot, but with each struggle, he presses on your neck harder."
-    "You claw at the guard's boot, but with each struggle, he presses on your neck harder."
+    "你用力抓住警卫的靴子，但每挣扎一次，他就更用力地掐住你的脖子。"
 
 # game/code/Book-1/Chapter-8s/s06.rpy:330
 translate chinese b1c08ss06_83c13836:
 
     # "The adrenaline courses through his veins as you desperately struggle to break free."
-    "The adrenaline courses through his veins as you desperately struggle to break free."
+    "当你拼命想要挣脱的时候，肾上腺素在他的血管里流动。"
 
 # game/code/Book-1/Chapter-8s/s06.rpy:333
 translate chinese b1c08ss06_f6ad981b:
 
     # "Xasan hesitates. His eyes bounce from you to the swarm of guards around you."
-    "Xasan hesitates. His eyes bounce from you to the swarm of guards around you."
+    "哈桑犹豫了一下。他的目光从你身上移向你周围的一群警卫。"
 
 # game/code/Book-1/Chapter-8s/s06.rpy:336
 translate chinese b1c08ss06_e318d8e2:
 
     # "He takes a step backward."
-    "He takes a step backward."
+    "他向后退了一步。"
 
 # game/code/Book-1/Chapter-8s/s06.rpy:339
 translate chinese b1c08ss06_0611e7e6:
 
     # mct "No... No!"
-    mct "No... No!"
+    mct "别...不要！"
 
 # game/code/Book-1/Chapter-8s/s06.rpy:343
 translate chinese b1c08ss06_23b1ad37:
 
     # "Xasan's gaze is torn between guilt and self-preservation. He recognizes the sacrifice you've made... But that doesn't mean he needs to make the same sacrifice."
-    "Xasan's gaze is torn between guilt and self-preservation. He recognizes the sacrifice you've made... But that doesn't mean he needs to make the same sacrifice."
+    "哈桑的目光在内疚和自保之间摇摆不定。他认识到了你所做的牺牲...但这并不意味着他也需要做出同样的牺牲。"
 
 # game/code/Book-1/Chapter-8s/s06.rpy:354
 translate chinese b1c08ss06_93f83163:
 
     # "Your heart sinks as Xasan bolts for the boat. A part of you understands. These odds aren't great even if you and Xasan were at full capacity."
-    "Your heart sinks as Xasan bolts for the boat. A part of you understands. These odds aren't great even if you and Xasan were at full capacity."
+    "当哈桑冲向小船时，你的心沉了下去。你有一部分是理解的。即使你和哈桑全力以赴，胜算也不大。"
 
 # game/code/Book-1/Chapter-8s/s06.rpy:359
 translate chinese b1c08ss06_2587d734:
 
     # "But another part of you can't help but feel a primal, burning rage at this entire situation."
-    "But another part of you can't help but feel a primal, burning rage at this entire situation."
+    "但另一方面，你又忍不住对这整个情况感到一种本能的、熊熊燃烧的愤怒。"
 
 # game/code/Book-1/Chapter-8s/s06.rpy:368
 translate chinese b1c08ss06_fbe8dbb9:
 
     # "You find some solace in knowing that Q and the girls are safe."
-    "You find some solace in knowing that Q and the girls are safe."
+    "知道昆汀和女孩们都很安全，你感到些许安慰。"
 
 # game/code/Book-1/Chapter-8s/s06.rpy:373
 translate chinese b1c08ss06_7d580f6a:
 
     # mct "I guess what little I taught Foxy about the boat paid off..."
-    mct "I guess what little I taught Foxy about the boat paid off..."
+    mct "我想我教给小狐的那点关于船的知识起作用了..."
 
 # game/code/Book-1/Chapter-8s/s06.rpy:376
 translate chinese b1c08ss06_28217709:
 
     # "Guard" "You're goin' to hell, little man."
-    "Guard" "You're goin' to hell, little man."
+    "警卫" "你会下地狱的，小家伙。"
 
 # game/code/Book-1/Chapter-8s/s06.rpy:379
 translate chinese b1c08ss06_27cc58d8:
 
     # mc "Already there."
-    mc "Already there."
+    mc "已经在地狱了。"
 
 # game/code/Book-1/Chapter-8s/s06.rpy:381
 translate chinese b1c08ss06_3a2a70fd:
 
     # "The guard raises the bat above his head, readying to bring it down on your head."
-    "The guard raises the bat above his head, readying to bring it down on your head."
+    "警卫把球棒举过头顶，准备砸向你的头。"
 
 # game/code/Book-1/Chapter-8s/s06.rpy:382
 translate chinese b1c08ss06_65e1efff:
 
     # "Maybe spitting at him wasn't the best way to de-escalate the situation."
-    "Maybe spitting at him wasn't the best way to de-escalate the situation."
+    "也许朝他吐口水并不是缓和局势的最佳方式。"
 
 # game/code/Book-1/Chapter-8s/s06.rpy:384
 translate chinese b1c08ss06_6b647202:
 
     # mct "Fuck it. It was worth it."
-    mct "Fuck it. It was worth it."
+    mct "去他妈的。值了。"
 
 # game/code/Book-1/Chapter-8s/s06.rpy:392
 translate chinese b1c08ss06_ff14ab90:
 
     # "The guard swings the bat down, aiming for your head."
-    "The guard swings the bat down, aiming for your head."
+    "守卫挥棒向下，瞄准你的头。"
 
 # game/code/Book-1/Chapter-8s/s06.rpy:394
 translate chinese b1c08ss06_843fddbc:
 
     # "The world goes black."
-    "The world goes black."
+    "世界顿时一片漆黑。"
 
 translate chinese strings:
 
     # game/code/Book-1/Chapter-8s/s06.rpy:126
     old "Good. The Wasps deserve it"
-    new "Good. The Wasps deserve it"
+    new "很好。黄蜂队活该"
 
     # game/code/Book-1/Chapter-8s/s06.rpy:126
     old "I can't let him do this"
-    new "I can't let him do this"
+    new "我不能让他这么做"
 
