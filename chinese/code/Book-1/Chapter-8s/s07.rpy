@@ -694,367 +694,367 @@ translate chinese b1c08ss07_pegging_0b57cfe8:
 translate chinese b1c08ss07_pegging_3294b52b:
 
     # "You stroke yourself as you feel her up, aroused by her pleasure at your touch."
-    "You stroke yourself as you feel her up, aroused by her pleasure at your touch."
+    "你抚摸着她的时候忍不住去摸自己，她在你的抚摸下兴奋不已，反过来唤醒你的激情。"
 
 # game/code/Book-1/Chapter-8s/s07.rpy:400
 translate chinese b1c08ss07_pegging_bd65e126:
 
     # ha "God, you look delicious. Let me taste you."
-    ha "God, you look delicious. Let me taste you."
+    ha "天啊，你看起来真美味。让我尝尝你的味道。"
 
 # game/code/Book-1/Chapter-8s/s07.rpy:407
 translate chinese b1c08ss07_pegging_0e9b0aed:
 
     # "Hellena wants more of you, and eagerly takes you into her mouth. Her tongue drags along the underside of you, teasing you."
-    "Hellena wants more of you, and eagerly takes you into her mouth. Her tongue drags along the underside of you, teasing you."
+    "海伦娜想要更多，她急切地把你含进嘴里。她的舌头沿着你的下体舔动，一刻不停地挑逗着你。"
 
 # game/code/Book-1/Chapter-8s/s07.rpy:429
 translate chinese b1c08ss07_pegging_bc8a8d54:
 
     # mc "I just want to watch."
-    mc "I just want to watch."
+    mc "我只想在一旁看着。"
 
 # game/code/Book-1/Chapter-8s/s07.rpy:432
 translate chinese b1c08ss07_pegging_7def0d70:
 
     # ha "Suit yourself. But feel free to enjoy yourself in other ways."
-    ha "Suit yourself. But feel free to enjoy yourself in other ways."
+    ha "随你便。但你也可以在其他方面尽情享受。"
 
 # game/code/Book-1/Chapter-8s/s07.rpy:437
 translate chinese b1c08ss07_pegging_9df93410:
 
     # ha "You like being my dirty little pet, don't you? So eager to please. So willing to meet my every desire."
-    ha "You like being my dirty little pet, don't you? So eager to please. So willing to meet my every desire."
+    ha "你喜欢做我肮脏的小宠物，是不是？如此渴望取悦你的主人。心甘情愿地满足我的每一个愿望。"
 
 # game/code/Book-1/Chapter-8s/s07.rpy:441
 translate chinese b1c08ss07_pegging_6bb09f88:
 
     # cjh "Use me as you must, my mistress. I am here to serve you."
-    cjh "Use me as you must, my mistress. I am here to serve you."
+    cjh "请尽情利用我吧，我的女主人。我是来为你服务的。"
 
 # game/code/Book-1/Chapter-8s/s07.rpy:462
 translate chinese b1c08ss07_pegging_91db54d8:
 
     # ha "That's what I like to hear, how much of a manwhore you are for me."
-    ha "That's what I like to hear, how much of a manwhore you are for me."
+    ha "这正是我喜欢听的，你对我来说多么像个男妓。"
 
 # game/code/Book-1/Chapter-8s/s07.rpy:467
 translate chinese b1c08ss07_pegging_4df03df6:
 
     # "Hellena bites Cade, keeping him still while she thrusts deep into him. She jerks him off with her other hand, seeming to get pleasure from having so much control over him."
-    "Hellena bites Cade, keeping him still while she thrusts deep into him. She jerks him off with her other hand, seeming to get pleasure from having so much control over him."
+    "海伦娜咬住凯德，让他保持一动不动，同时她深深地插入他的身体。她用另一只手帮他撸鸡巴，似乎很享受如此控制他的感觉。"
 
 # game/code/Book-1/Chapter-8s/s07.rpy:474
 translate chinese b1c08ss07_pegging_6c0f87d0:
 
     # "Hellena grips Cade's hips and thrusts into him harder."
-    "Hellena grips Cade's hips and thrusts into him harder."
+    "海伦娜紧紧抓住凯德的臀部，更加用力地插入他的身体。"
 
 # game/code/Book-1/Chapter-8s/s07.rpy:477
 translate chinese b1c08ss07_pegging_3386b1e3:
 
     # ha "You need to be put in your place, don't you? You like when I make you mine and keep you under control."
-    ha "You need to be put in your place, don't you? You like when I make you mine and keep you under control."
+    ha "你需要摆正自己的位置，不是吗？你喜欢我把你变成我的附属品，把你控制住。"
 
 # game/code/Book-1/Chapter-8s/s07.rpy:482
 translate chinese b1c08ss07_pegging_b61bcf42:
 
     # ha "Look at you, so helpless, taking all of my cock on the floor. Such a dirty little thing you are for me."
-    ha "Look at you, so helpless, taking all of my cock on the floor. Such a dirty little thing you are for me."
+    ha "看看你，这么无助，跪在地板上乖乖受着我的大鸡巴。你对我来说就是个肮脏的小东西。"
 
 # game/code/Book-1/Chapter-8s/s07.rpy:489
 translate chinese b1c08ss07_pegging_1adfa8ab:
 
     # cjh "Yes. I need you to keep me in my place."
-    cjh "Yes. I need you to keep me in my place."
+    cjh "是的。我需要您让我保持清醒。"
 
 # game/code/Book-1/Chapter-8s/s07.rpy:511
 translate chinese b1c08ss07_pegging_5e9c14e2:
 
     # ha "That's a good boy. That's exactly what I want to hear from you."
-    ha "That's a good boy. That's exactly what I want to hear from you."
+    ha "真是个好孩子。这正是我想听你说的。"
 
 # game/code/Book-1/Chapter-8s/s07.rpy:514
 translate chinese b1c08ss07_pegging_0abae311:
 
     # ha "Now let me make you cum."
-    ha "Now let me make you cum."
+    ha "现在我来让你射精吧。"
 
 # game/code/Book-1/Chapter-8s/s07.rpy:520
 translate chinese b1c08ss07_pegging_99bfdd7d:
 
     # "Hellena moans as she pushes herself inside Cade, feeling pleasured at her power, her control."
-    "Hellena moans as she pushes herself inside Cade, feeling pleasured at her power, her control."
+    "海伦娜呻吟着把自己推进凯德的身体，她为自己的力量和掌控感感到高兴。"
 
 # game/code/Book-1/Chapter-8s/s07.rpy:528
 translate chinese b1c08ss07_pegging_959bebc4:
 
     # "Hellena's excitement grows, and she thrusts into him faster, takes control of his cock and sees him lose control."
-    "Hellena's excitement grows, and she thrusts into him faster, takes control of his cock and sees him lose control."
+    "海伦娜的兴奋逐级上升，她更快地插入他的身体，控制着他的鸡巴，看着他失去控制。"
 
 # game/code/Book-1/Chapter-8s/s07.rpy:545
 translate chinese b1c08ss07_pegging_4d049ca8:
 
     # "Cade cums hard, and Hellena doesn't stop pegging him until he's done."
-    "Cade cums hard, and Hellena doesn't stop pegging him until he's done."
+    "凯德射地很猛，海伦娜没有停下抽插，一直插到他射完。"
 
 # game/code/Book-1/Chapter-8s/s07.rpy:548
 translate chinese b1c08ss07_pegging_1b96174d:
 
     # ha "Good pet."
-    ha "Good pet."
+    ha "好宠物。"
 
 # game/code/Book-1/Chapter-8s/s07.rpy:549
 translate chinese b1c08ss07_pegging_3200197c:
 
     # ha "We all need little reminders now and then. I forgive you for your offenses."
-    ha "We all need little reminders now and then. I forgive you for your offenses."
+    ha "我们都需要时不时的提醒。我宽恕你的罪行。"
 
 # game/code/Book-1/Chapter-8s/s07.rpy:555
 translate chinese b1c08ss07_pegging_712e8f72:
 
     # ha "Now that you've learned your lesson, you are dismissed."
-    ha "Now that you've learned your lesson, you are dismissed."
+    ha "现在你已经吸取了教训，可以走人了。"
 
 # game/code/Book-1/Chapter-8s/s07.rpy:556
 translate chinese b1c08ss07_pegging_2dea2bb1:
 
     # ha "Take him away!"
-    ha "Take him away!"
+    ha "把他带走！"
 
 # game/code/Book-1/Chapter-8s/s07.rpy:578
 translate chinese b1c08ss07_after_pegging_3bb287df:
 
     # "After Hellena is done with Cade, she faces you, a smile on her lips."
-    "After Hellena is done with Cade, she faces you, a smile on her lips."
+    "等海伦娜搞定凯德之后，她面对着你，嘴角挂着微笑。"
 
 # game/code/Book-1/Chapter-8s/s07.rpy:582
 translate chinese b1c08ss07_after_pegging_aeb653b1:
 
     # ha "Did you enjoy the show?"
-    ha "Did you enjoy the show?"
+    ha "你喜欢这场演出吗？"
 
 # game/code/Book-1/Chapter-8s/s07.rpy:585
 translate chinese b1c08ss07_after_pegging_20f7d290:
 
     # mc "That was intense."
-    mc "That was intense."
+    mc "太精彩了。"
 
 # game/code/Book-1/Chapter-8s/s07.rpy:587
 translate chinese b1c08ss07_after_pegging_346593de:
 
     # ha "Did you enjoy watching the corner?"
-    ha "Did you enjoy watching the corner?"
+    ha "看墙角看的还开心吗？"
 
 # game/code/Book-1/Chapter-8s/s07.rpy:590
 translate chinese b1c08ss07_after_pegging_2525f142:
 
     # mc "It served to entertain."
-    mc "It served to entertain."
+    mc "它起到了娱乐的作用。"
 
 # game/code/Book-1/Chapter-8s/s07.rpy:596
 translate chinese b1c08ss07_after_pegging_ea54963c:
 
     # "Hellena's gaze lingers on you a moment, her expression hinting at a mix of amusement and curiosity."
-    "Hellena's gaze lingers on you a moment, her expression hinting at a mix of amusement and curiosity."
+    "海伦娜的目光在你身上停留了一会儿，她的表情隐约透露出一丝愉悦和好奇。"
 
 # game/code/Book-1/Chapter-8s/s07.rpy:598
 translate chinese b1c08ss07_after_pegging_79b5c832:
 
     # ha "Well, now that we've dealt with that little disturbance, it's time for you to do a little something for me."
-    ha "Well, now that we've dealt with that little disturbance, it's time for you to do a little something for me."
+    ha "好吧，既然我们已经解决了那个小麻烦，现在是时候让你为我做件事了。"
 
 # game/code/Book-1/Chapter-8s/s07.rpy:600
 translate chinese b1c08ss07_after_pegging_20c7bf65:
 
     # "Your guarded expression reveals your skepticism, and you cross your arms to show your reluctance."
-    "Your guarded expression reveals your skepticism, and you cross your arms to show your reluctance."
+    "你谨慎的表情显示出你的怀疑，你交叉双臂表示你的不情愿。"
 
 # game/code/Book-1/Chapter-8s/s07.rpy:601
 translate chinese b1c08ss07_after_pegging_bc654b23:
 
     # mct "Finally, maybe I'll get some answers as to why I'm here."
-    mct "Finally, maybe I'll get some answers as to why I'm here."
+    mct "终于来了，也许我能找到我为什么在这里的答案。"
 
 # game/code/Book-1/Chapter-8s/s07.rpy:603
 translate chinese b1c08ss07_after_pegging_87b0d72b:
 
     # mc "And what exactly is it that you want from me, Hellena? I fail to see why you would need anything from someone like me."
-    mc "And what exactly is it that you want from me, Hellena? I fail to see why you would need anything from someone like me."
+    mc "你到底想从我这里得到什么，海伦娜？我不明白你为什么会需要我这样的人的帮助。"
 
 # game/code/Book-1/Chapter-8s/s07.rpy:608
 translate chinese b1c08ss07_after_pegging_21a77af7:
 
     # "Hellena chuckles softly, her amusement evident as she leans against her bed."
-    "Hellena chuckles softly, her amusement evident as she leans against her bed."
+    "海伦娜轻声笑着，她靠在床头，笑意很明显。"
 
 # game/code/Book-1/Chapter-8s/s07.rpy:609
 translate chinese b1c08ss07_after_pegging_c50ceb9f:
 
     # ha "Oh darling, you underestimate your worth. You see, I know you're close to Xasan. It was reported to me that you were trying to save him. And that makes you quite valuable to me."
-    ha "Oh darling, you underestimate your worth. You see, I know you're close to Xasan. It was reported to me that you were trying to save him. And that makes you quite valuable to me."
+    ha "哦，亲爱的，你低估了自己的价值。你看，我知道你和哈桑很亲近。有人向我报告说你想救他。所以你对我很有价值。"
 
 # game/code/Book-1/Chapter-8s/s07.rpy:612
 translate chinese b1c08ss07_after_pegging_139c9a18:
 
     # mct "She perceives me as a significant player within The Syndicate. Maybe I can use her assumption to gain leverage and gather information."
-    mct "She perceives me as a significant player within The Syndicate. Maybe I can use her assumption to gain leverage and gather information."
+    mct "她认为我是辛迪加的重要成员。也许我可以利用她的假设来获得筹码，收集信息。"
 
 # game/code/Book-1/Chapter-8s/s07.rpy:613
 translate chinese b1c08ss07_after_pegging_47e2d7c7:
 
     # mct "At least trying to defend Xasan didn't turn into a complete fucking waste."
-    mct "At least trying to defend Xasan didn't turn into a complete fucking waste."
+    mct "至少尝试救哈桑不算白费力气。"
 
 # game/code/Book-1/Chapter-8s/s07.rpy:615
 translate chinese b1c08ss07_after_pegging_19af6901:
 
     # mc "You seem well off on your own. Why should I matter to you?"
-    mc "You seem well off on your own. Why should I matter to you?"
+    mc "你看起来一个人就很厉害了。我对你有什么用呢？"
 
 # game/code/Book-1/Chapter-8s/s07.rpy:617
 translate chinese b1c08ss07_after_pegging_62e42207:
 
     # "Hellena steps closer to you, a sly smile playing on her lips as she leans in."
-    "Hellena steps closer to you, a sly smile playing on her lips as she leans in."
+    "海伦娜向你走近，她的嘴唇上闪过一丝狡黠的微笑。"
 
 # game/code/Book-1/Chapter-8s/s07.rpy:619
 translate chinese b1c08ss07_after_pegging_3a78c505:
 
     # ha "Because I need Xasan himself, darling."
-    ha "Because I need Xasan himself, darling."
+    ha "因为我需要哈桑本人，亲爱的。"
 
 # game/code/Book-1/Chapter-8s/s07.rpy:620
 translate chinese b1c08ss07_after_pegging_abcfb763:
 
     # ha "I'd like to strike a deal with that elusive bastard."
-    ha "I'd like to strike a deal with that elusive bastard."
+    ha "我想和那个捉摸不定的混蛋做笔交易。"
 
 # game/code/Book-1/Chapter-8s/s07.rpy:621
 translate chinese b1c08ss07_after_pegging_f7a1ab07:
 
     # ha "I figure since you're so close to him, he'll come for you eventually."
-    ha "I figure since you're so close to him, he'll come for you eventually."
+    ha "我想既然你和他这么亲近，他最终会来找你的。"
 
 # game/code/Book-1/Chapter-8s/s07.rpy:624
 translate chinese b1c08ss07_after_pegging_4db62116:
 
     # mct "Ha! *Sarcastic* I wish."
-    mct "Ha! *Sarcastic* I wish."
+    mct "哈！*讽刺* 我也想呢。"
 
 # game/code/Book-1/Chapter-8s/s07.rpy:627
 translate chinese b1c08ss07_after_pegging_b692304f:
 
     # ha "And that's when I'll talk to him."
-    ha "And that's when I'll talk to him."
+    ha "到那时我再跟他谈。"
 
 # game/code/Book-1/Chapter-8s/s07.rpy:629
 translate chinese b1c08ss07_after_pegging_5a73b430:
 
     # mc "If you let me go unharmed, I could relay your...request."
-    mc "If you let me go unharmed, I could relay your...request."
+    mc "如果你让我毫发无损地离开，我可以转达你的...请求。"
 
 # game/code/Book-1/Chapter-8s/s07.rpy:632
 translate chinese b1c08ss07_after_pegging_7fe2ef01:
 
     # ha "Oh, aren't you a clever one? But no, I cannot. Trust can be a fragile thing, and I just haven't built up enough with you yet."
-    ha "Oh, aren't you a clever one? But no, I cannot. Trust can be a fragile thing, and I just haven't built up enough with you yet."
+    ha "哦，你还真是聪明呢！但是不行，我不会让你走的。信任是很脆弱的东西，我和你之间还没有建立起足够的信任。"
 
 # game/code/Book-1/Chapter-8s/s07.rpy:633
 translate chinese b1c08ss07_after_pegging_1ad1eeb5:
 
     # ha "But maybe we can remedy that."
-    ha "But maybe we can remedy that."
+    ha "但也许我们可以补救。"
 
 # game/code/Book-1/Chapter-8s/s07.rpy:635
 translate chinese b1c08ss07_after_pegging_24d396c3:
 
     # "You look into her eyes, aware of the delicate dance you must perform to navigate this treacherous situation."
-    "You look into her eyes, aware of the delicate dance you must perform to navigate this treacherous situation."
+    "你看着她的眼睛，意识到你必须敢于在钢丝上跳舞，才能驾驭这险恶的局面。"
 
 # game/code/Book-1/Chapter-8s/s07.rpy:637
 translate chinese b1c08ss07_after_pegging_84a2f4b7:
 
     # mc "I'm open minded. How can we help each other?"
-    mc "I'm open minded. How can we help each other?"
+    mc "我很开明。我们怎样才能互相帮助呢？"
 
 # game/code/Book-1/Chapter-8s/s07.rpy:640
 translate chinese b1c08ss07_after_pegging_54798a59:
 
     # ha "What I truly desire is for The Syndicate and Wasps to form an alliance of sorts. Together, we can create a profitable business venture that surpasses anything we've ever achieved individually."
-    ha "What I truly desire is for The Syndicate and Wasps to form an alliance of sorts. Together, we can create a profitable business venture that surpasses anything we've ever achieved individually."
+    ha "我真正希望的是辛迪加和黄蜂形成某种联盟。我们可以共同创造一个盈利的商业企业，超越我们个人曾经取得的任何成就。"
 
 # game/code/Book-1/Chapter-8s/s07.rpy:641
 translate chinese b1c08ss07_after_pegging_60320699:
 
     # ha "But I need to talk to the leader of The Syndicate before I give up all the details."
-    ha "But I need to talk to the leader of The Syndicate before I give up all the details."
+    ha "但在我说出所有细节之前，我需要和辛迪加的头目谈谈。"
 
 # game/code/Book-1/Chapter-8s/s07.rpy:648
 translate chinese b1c08ss07_after_pegging_eb710162:
 
     # xv "No, but we have a plan to get them back."
-    xv "No, but we have a plan to get them back."
+    xv "没有，但我们有个计划，可以把他们救回来。"
 
 # game/code/Book-1/Chapter-8s/s07.rpy:651
 translate chinese b1c08ss07_after_pegging_041c7f80:
 
     # xv "Listen, I know this is a liability, but we're going to—Yes, I understand."
-    xv "Listen, I know this is a liability, but we're going to—Yes, I understand."
+    xv "听着，我知道这是个负担，但我们要--嗯，我明白。"
 
 # game/code/Book-1/Chapter-8s/s07.rpy:656
 translate chinese b1c08ss07_after_pegging_49d8dcf0:
 
     # mct "For all Hellena or I know, Xasan isn't even the only leader..."
-    mct "For all Hellena or I know, Xasan isn't even the only leader..."
+    mct "据我和海伦娜所知，哈桑甚至不是唯一的领袖..."
 
 # game/code/Book-1/Chapter-8s/s07.rpy:658
 translate chinese b1c08ss07_after_pegging_eb4ab04f:
 
     # mc "Your proposal is intriguing. I'm sure Xasan will want to hear of it. But I need more specifics if you want my help."
-    mc "Your proposal is intriguing. I'm sure Xasan will want to hear of it. But I need more specifics if you want my help."
+    mc "你的提议很吸引人。我相信哈桑会想听听的。但如果你想让我帮忙，我需要更多细节。"
 
 # game/code/Book-1/Chapter-8s/s07.rpy:661
 translate chinese b1c08ss07_after_pegging_6f5ad6b5:
 
     # ha "Hm. But that's the thing, sweetheart."
-    ha "Hm. But that's the thing, sweetheart."
+    ha "嗯。但这就是问题所在，亲爱的。"
 
 # game/code/Book-1/Chapter-8s/s07.rpy:662
 translate chinese b1c08ss07_after_pegging_44bb35fc:
 
     # ha "I don't need anything more from you than to sit here and look pretty."
-    ha "I don't need anything more from you than to sit here and look pretty."
+    ha "我不需要你做什么，只要你坐在这里，打扮得漂漂亮亮的。"
 
 # game/code/Book-1/Chapter-8s/s07.rpy:663
 translate chinese b1c08ss07_after_pegging_aa8a79cc:
 
     # ha "All I need is a moment with Xasan."
-    ha "All I need is a moment with Xasan."
+    ha "我只需要和哈桑待一会儿。"
 
 # game/code/Book-1/Chapter-8s/s07.rpy:665
 translate chinese b1c08ss07_after_pegging_4a642a81:
 
     # "Hellena's eyes narrow as she observes your hesitation. She senses your uncertainty about Xasan even coming for you."
-    "Hellena's eyes narrow as she observes your hesitation. She senses your uncertainty about Xasan even coming for you."
+    "看到你的犹豫，海伦娜眯起了眼睛。她能感觉到你不确定哈桑是否会来找你。"
 
 # game/code/Book-1/Chapter-8s/s07.rpy:667
 translate chinese b1c08ss07_after_pegging_8da8ac7b:
 
     # ha "Or maybe he isn't coming at all. Is that it?"
-    ha "Or maybe he isn't coming at all. Is that it?"
+    ha "也许他根本就不来。是这样吗？"
 
 # game/code/Book-1/Chapter-8s/s07.rpy:668
 translate chinese b1c08ss07_after_pegging_bb439cc4:
 
     # ha "After all, if The Syndicate had truly valued you, why would they have abandoned you so easily? Maybe I made the wrong assumption..."
-    ha "After all, if The Syndicate had truly valued you, why would they have abandoned you so easily? Maybe I made the wrong assumption..."
+    ha "毕竟，如果辛迪加真的重视你，他们为什么会这么轻易地抛弃你呢？也许我想错了..."
 
 # game/code/Book-1/Chapter-8s/s07.rpy:671
 translate chinese b1c08ss07_after_pegging_a1a89ce6:
 
     # "Hellena suddenly laughs."
-    "Hellena suddenly laughs."
+    "海伦娜突然笑了起来。"
 
 # game/code/Book-1/Chapter-8s/s07.rpy:672
 translate chinese b1c08ss07_after_pegging_be7352c4:
