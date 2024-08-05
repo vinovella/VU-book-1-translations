@@ -1218,5 +1218,5 @@ translate chinese strings:
 
     # game/code/Book-1/Chapter-8s/s07.rpy:569
     old "After an uncomfortable eternity watching the wall"
-    new "在漫长的、相当考验人的看墙角之后"
+    new "在漫长的、让人倍感乏味的看墙角之后"
 
