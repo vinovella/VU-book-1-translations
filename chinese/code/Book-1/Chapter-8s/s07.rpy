@@ -1060,163 +1060,163 @@ translate chinese b1c08ss07_after_pegging_a1a89ce6:
 translate chinese b1c08ss07_after_pegging_be7352c4:
 
     # ha "Well, it seems like you don't have much to offer, do you? Perhaps I should find another form of entertainment."
-    ha "Well, it seems like you don't have much to offer, do you? Perhaps I should find another form of entertainment."
+    ha "好吧，看来你没什么可提供的，是吗？也许我该找找别的娱乐方式。"
 
 # game/code/Book-1/Chapter-8s/s07.rpy:676
 translate chinese b1c08ss07_after_pegging_c54aa594:
 
     # ha "There are certainly other ways I could toy with you."
-    ha "There are certainly other ways I could toy with you."
+    ha "我当然可以用其他方法来玩弄你。"
 
 # game/code/Book-1/Chapter-8s/s07.rpy:678
 translate chinese b1c08ss07_after_pegging_4d56ce60:
 
     # ha "Maybe the guards that your bomb wounded so badly would like to have a word with you..."
-    ha "Maybe the guards that your bomb wounded so badly would like to have a word with you..."
+    ha "也许被你的炸弹严重炸伤的那些卫兵想和你谈谈..."
 
 # game/code/Book-1/Chapter-8s/s07.rpy:679
 translate chinese b1c08ss07_after_pegging_29afa216:
 
     # mct "I have to think of a way to distract her before this sadistic streak of hers takes over completely. She'll send me to the fucking wolves and watch as they rip me to shreds otherwise."
-    mct "I have to think of a way to distract her before this sadistic streak of hers takes over completely. She'll send me to the fucking wolves and watch as they rip me to shreds otherwise."
+    mct "我得想个办法转移她的注意力，免得她的虐待劲头完全上头，场面失去控制。不然她会把我送到狼群里，看着他们把我撕成碎片。"
 
 # game/code/Book-1/Chapter-8s/s07.rpy:680
 translate chinese b1c08ss07_after_pegging_d8f13781:
 
     # mct "If her horniness outweighs her sadism, maybe I have a chance."
-    mct "If her horniness outweighs her sadism, maybe I have a chance."
+    mct "如果她的性欲超过了她的虐待欲，也许我还有机会。"
 
 # game/code/Book-1/Chapter-8s/s07.rpy:681
 translate chinese b1c08ss07_after_pegging_1a823810:
 
     # "In a bold move, you decide to meet her aggression with flirtation."
-    "In a bold move, you decide to meet her aggression with flirtation."
+    "你决定用调情来迎合她的挑衅，这个举动相当大胆。"
 
 # game/code/Book-1/Chapter-8s/s07.rpy:683
 translate chinese b1c08ss07_after_pegging_c59e9705:
 
     # "You smirk at her, a mischievous glint in your eyes."
-    "You smirk at her, a mischievous glint in your eyes."
+    "你对她狡猾一笑，眼睛里闪烁着调皮的光芒。"
 
 # game/code/Book-1/Chapter-8s/s07.rpy:684
 translate chinese b1c08ss07_after_pegging_c1a60bfc:
 
     # mc "Maybe you underestimate me, Hellena."
-    mc "Maybe you underestimate me, Hellena."
+    mc "也许你低估了我，海伦娜。"
 
 # game/code/Book-1/Chapter-8s/s07.rpy:687
 translate chinese b1c08ss07_after_pegging_fed85d3c:
 
     # "You grip her hips and pull her closer."
-    "You grip her hips and pull her closer."
+    "你抓住她的臀部，把她拉得更近。"
 
 # game/code/Book-1/Chapter-8s/s07.rpy:688
 translate chinese b1c08ss07_after_pegging_4746cc07:
 
     # "You lean close to her neck, teasing her with your breath."
-    "You lean close to her neck, teasing her with your breath."
+    "你靠近她的脖子，用你的呼吸挑逗她。"
 
 # game/code/Book-1/Chapter-8s/s07.rpy:690
 translate chinese b1c08ss07_after_pegging_3645a6cd:
 
     # mc "Because I can think of far more pleasurable ways to entertain you."
-    mc "Because I can think of far more pleasurable ways to entertain you."
+    mc "因为我能想出更愉快的方式来取悦你。"
 
 # game/code/Book-1/Chapter-8s/s07.rpy:693
 translate chinese b1c08ss07_after_pegging_e760348f:
 
     # "The unexpected response catches Hellena pleasantly off guard. Her sadistic inclinations momentarily take a backseat as curiosity gets the better of her."
-    "The unexpected response catches Hellena pleasantly off guard. Her sadistic inclinations momentarily take a backseat as curiosity gets the better of her."
+    "你的这一意外的回应让海伦娜猝不及防。随着好奇心占据上风，她的虐待狂倾向瞬间退居二线。"
 
 # game/code/Book-1/Chapter-8s/s07.rpy:694
 translate chinese b1c08ss07_after_pegging_f81b8841:
 
     # ha "Oh, really? You think you can handle my insatiable appetites?"
-    ha "Oh, really? You think you can handle my insatiable appetites?"
+    ha "哦，真的吗？你觉得你能应付我贪得无厌的胃口吗？"
 
 # game/code/Book-1/Chapter-8s/s07.rpy:696
 translate chinese b1c08ss07_after_pegging_0f8de503:
 
     # "You meet her gaze unwaveringly, matching her intensity."
-    "You meet her gaze unwaveringly, matching her intensity."
+    "你毫不动摇地迎接她的目光，你的眼神有和她的热情一样的坚定。"
 
 # game/code/Book-1/Chapter-8s/s07.rpy:698
 translate chinese b1c08ss07_after_pegging_633523e3:
 
     # mc "Can {i}you{/i} handle {i}mine{/i}?"
-    mc "Can {i}you{/i} handle {i}mine{/i}?"
+    mc "{i}你{/i}能承受{i}我的欲望{/i}吗？"
 
 # game/code/Book-1/Chapter-8s/s07.rpy:699
 translate chinese b1c08ss07_after_pegging_efacd41a:
 
     # "The tension between you shifts into something intense and fiery, but the underlying understanding remains—your interaction is a delicate balance of power and intrigue."
-    "The tension between you shifts into something intense and fiery, but the underlying understanding remains—your interaction is a delicate balance of power and intrigue."
+    "你们之间的紧张关系转变为激烈和炽热的氛围，但潜在的理解仍然存在--你们的互动是权力和好奇之间的微妙平衡。"
 
 # game/code/Book-1/Chapter-8s/s07.rpy:700
 translate chinese b1c08ss07_after_pegging_23fb4948:
 
     # "Without those components, Hellena's other, more sadistic, appetites might consume her."
-    "Without those components, Hellena's other, more sadistic, appetites might consume her."
+    "如果没有这些因素，海伦娜很可能会被她的其他更残忍的欲望吞噬掉。"
 
 # game/code/Book-1/Chapter-8s/s07.rpy:703
 translate chinese b1c08ss07_after_pegging_a562b973:
 
     # "Hellena now sees you as a fascinating enigma. The sadistic thoughts that had consumed her before recede into the background, replaced by a new curiosity."
-    "Hellena now sees you as a fascinating enigma. The sadistic thoughts that had consumed her before recede into the background, replaced by a new curiosity."
+    "海伦娜现在把你看成一个迷人的谜团。之前让她为之疯狂的虐待欲逐渐消退，新的好奇心取而代之。"
 
 # game/code/Book-1/Chapter-8s/s07.rpy:704
 translate chinese b1c08ss07_after_pegging_06ad9dbb:
 
     # "She felt a sort of connection, albeit a complicated one, and instinct tells her to explore where it goes."
-    "She felt a sort of connection, albeit a complicated one, and instinct tells her to explore where it goes."
+    "她感觉到了某种联系。尽管这种联系很复杂。本能告诉她要探索这种联系的去向。"
 
 # game/code/Book-1/Chapter-8s/s07.rpy:709
 translate chinese b1c08ss07_after_pegging_38b508f8:
 
     # mct "This is it. I have to keep her entertained until I can figure out a way to get the fuck out of here."
-    mct "This is it. I have to keep her entertained until I can figure out a way to get the fuck out of here."
+    mct "就是这样。在我想出离开这里的办法之前，我必须让她乐在其中。"
 
 # game/code/Book-1/Chapter-8s/s07.rpy:710
 translate chinese b1c08ss07_after_pegging_f13fd1a5:
 
     # mct "Even if it means fucking her until she falls asleep."
-    mct "Even if it means fucking her until she falls asleep."
+    mct "即使这意味着把她干到睡着。"
 
 translate chinese strings:
 
     # game/code/Book-1/Chapter-8s/s07.rpy:35
     old "Later that morning"
-    new "Later that morning"
+    new "那天早上晚些时候"
 
     # game/code/Book-1/Chapter-8s/s07.rpy:240
     old "It's fine"
-    new "It's fine"
+    new "没关系"
 
     # game/code/Book-1/Chapter-8s/s07.rpy:240
     old "You should be"
-    new "You should be"
+    new "你应该道歉"
 
     # game/code/Book-1/Chapter-8s/s07.rpy:240
     old "It's not my place"
-    new "It's not my place"
+    new "我没这个资格"
 
     # game/code/Book-1/Chapter-8s/s07.rpy:323
     old "I don't see any lady"
-    new "I don't see any lady"
+    new "我没有看到任何女士"
 
     # game/code/Book-1/Chapter-8s/s07.rpy:323
     old "I don't mind at all"
-    new "I don't mind at all"
+    new "我一点也不介意"
 
     # game/code/Book-1/Chapter-8s/s07.rpy:381
     old "I want to feel you"
-    new "I want to feel you"
+    new "我想摸摸你"
 
     # game/code/Book-1/Chapter-8s/s07.rpy:381
     old "I just want to watch"
-    new "I just want to watch"
+    new "我只想在旁边看着"
 
     # game/code/Book-1/Chapter-8s/s07.rpy:569
     old "After an uncomfortable eternity watching the wall"
-    new "After an uncomfortable eternity watching the wall"
+    new "在漫长的、相当考验人的看墙角之后"
 
