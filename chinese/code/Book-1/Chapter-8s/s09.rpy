@@ -4,19 +4,19 @@
 translate chinese b1c08ss09_9bc40135:
 
     # "Exhaustion from the long trek back wears on your tired body."
-    "Exhaustion from the long trek back wears on your tired body."
+    "长途跋涉的路途使你撑了许久的身体疲惫不堪。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:17
 translate chinese b1c08ss09_d4665195:
 
     # "After escaping Hellena's domain, you managed to orient yourself and find your way home. You traveled through secluded alleyways and quiet streets, hoping to avoid detection by anyone."
-    "After escaping Hellena's domain, you managed to orient yourself and find your way home. You traveled through secluded alleyways and quiet streets, hoping to avoid detection by anyone."
+    "在逃离海伦娜的领地后，你设法确定了方向，找到了回家的路。你穿过僻静的小巷和安静的街道，希望不被任何人发现。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:19
 translate chinese b1c08ss09_d8840204:
 
     # "Eventually, you made it to familiar territory."
-    "Eventually, you made it to familiar territory."
+    "最终，你来到了熟悉的地方。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:26
 translate chinese b1c08ss09_08c6d9ef:
@@ -28,319 +28,319 @@ translate chinese b1c08ss09_08c6d9ef:
 translate chinese b1c08ss09_943b5966:
 
     # ffl "I was so worried about you! We were just planning on what to do if-if you—"
-    ffl "I was so worried about you! We were just planning on what to do if-if you—"
+    ffl "我很担心你！我们正在计划怎么办，如果--如果你—"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:34
 translate chinese b1c08ss09_e29ae584:
 
     # mc "I'm good. I'm okay. I got out."
-    mc "I'm good. I'm okay. I got out."
+    mc "我很好。没事的。我逃出来了。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:37
 translate chinese b1c08ss09_a8020941:
 
     # ffl "I— We were so worried about you. I'm so sorry—"
-    ffl "I— We were so worried about you. I'm so sorry—"
+    ffl "我--我们都很担心你。真对不起--"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:40
 translate chinese b1c08ss09_5d987c2d:
 
     # mc "There's no reason to be sorry. I'm alright."
-    mc "There's no reason to be sorry. I'm alright."
+    mc "没必要抱歉。我没事。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:43
 translate chinese b1c08ss09_61754f13:
 
     # ass "What even happened?"
-    ass "What even happened?"
+    ass "到底发生了什么？"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:46
 translate chinese b1c08ss09_cf0b0cf7:
 
     # ffl "God! You're hurt!"
-    ffl "God! You're hurt!"
+    ffl "天哪！你受伤了！"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:48
 translate chinese b1c08ss09_a9265965:
 
     # mc "No, I—"
-    mc "No, I—"
+    mc "不，我--"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:51
 translate chinese b1c08ss09_1c854379:
 
     # ass "We should beat those assholes up."
-    ass "We should beat those assholes up."
+    ass "我们应该揍那些混蛋一顿。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:54
 translate chinese b1c08ss09_22ff7f68:
 
     # ffl "Haven't we all been shaken up enough by this whole mess? We don't need anymore violence."
-    ffl "Haven't we all been shaken up enough by this whole mess? We don't need anymore violence."
+    ffl "我们还没有被这一团乱麻吓得够呛吗？不需要更多的暴力了。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:58
 translate chinese b1c08ss09_1fcbb720:
 
     # zp "Here, let's get you a clean rag to clot the bleeding. I'll help you patch it up later, after you—"
-    zp "Here, let's get you a clean rag to clot the bleeding. I'll help you patch it up later, after you—"
+    zp "来，我给你拿块干净的布来止血。稍后我会帮你包扎，等你--"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:62
 translate chinese b1c08ss09_aaf2a5e5:
 
     # rd "Here's a rag."
-    rd "Here's a rag."
+    rd "给你布。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:63
 translate chinese b1c08ss09_e30c7256:
 
     # rd "It's got some alcohol on it, so it might sting."
-    rd "It's got some alcohol on it, so it might sting."
+    rd "上面沾了一些酒精，所以可能会刺痛。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:67
 translate chinese b1c08ss09_0136f253:
 
     # mc "Jesus. You put straight moonshine on this thing?"
-    mc "Jesus. You put straight moonshine on this thing?"
+    mc "天啊。你把纯烈酒倒在这上面了？"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:70
 translate chinese b1c08ss09_b9766c20:
 
     # rd "Packs quite a punch, don't it?"
-    rd "Packs quite a punch, don't it?"
+    rd "很有冲击力，不是吗？"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:73
 translate chinese b1c08ss09_08ce9087:
 
     # rd "Don't worry though. It's just the disinfectant kind of alcohol."
-    rd "Don't worry though. It's just the disinfectant kind of alcohol."
+    rd "不过别担心。这只是消毒酒精。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:76
 translate chinese b1c08ss09_04a6e34d:
 
     # mc "Really, it's not even that deep. Just a scrape—"
-    mc "Really, it's not even that deep. Just a scrape—"
+    mc "真的，伤口都没有很深的。只是擦伤--"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:80
 translate chinese b1c08ss09_f9998d84:
 
     # ffl "Thank you for all you did. You rescued my friends. I was so worried. You're incredible."
-    ffl "Thank you for all you did. You rescued my friends. I was so worried. You're incredible."
+    ffl "谢谢你所做的一切。你救了我的朋友。我担心死了。你真是不可思议。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:82
 translate chinese b1c08ss09_b46736c0:
 
     # "Fleur's voice cracks with emotion and is tight with gratitude and relief as she tightens her hug around you."
-    "Fleur's voice cracks with emotion and is tight with gratitude and relief as she tightens her hug around you."
+    "芙蓉的声音因激动而颤抖，她紧紧地拥抱着你，充满了感激和欣慰。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:85
 translate chinese b1c08ss09_40c37533:
 
     # mc "C'mon, Fleur. I didn't do it alone. I had these wonderful women to help me."
-    mc "C'mon, Fleur. I didn't do it alone. I had these wonderful women to help me."
+    mc "好了，芙蓉。我不是一个人做到的。有这么多优秀的女性帮助我呢。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:87
 translate chinese b1c08ss09_e68fdd53:
 
     # ffl "Still, I'm so thankful. Q and the girls are important to me, and I'm so thankful to everyone who helped."
-    ffl "Still, I'm so thankful. Q and the girls are important to me, and I'm so thankful to everyone who helped."
+    ffl "那我也还是很感激。昆汀和女孩们对我来说很重要，我感谢每一个帮助过我的人。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:90
 translate chinese b1c08ss09_c02d4910:
 
     # zp "I'm sure you have a story to tell."
-    zp "I'm sure you have a story to tell."
+    zp "我相信你有故事可讲了。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:93
 translate chinese b1c08ss09_dd6f23cc:
 
     # mc "I do, but first I should report to Xasan."
-    mc "I do, but first I should report to Xasan."
+    mc "是的，但我得先向哈桑报告。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:95
 translate chinese b1c08ss09_6660d768:
 
     # "Fleur's expression darkens with distrust at the mention of Xasan."
-    "Fleur's expression darkens with distrust at the mention of Xasan."
+    "一提到哈桑，芙蓉脸上的表情就因为不信任而变得阴沉起来。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:97
 translate chinese b1c08ss09_1be29c02:
 
     # ffl "Xasan shouldn't have left you on your own like that."
-    ffl "Xasan shouldn't have left you on your own like that."
+    ffl "哈桑不该把你一个人丢在那里。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:100
 translate chinese b1c08ss09_3ca2f983:
 
     # mct "Her concern and compassion for others is so refreshing in such a cutthroat gang. It's strange how someone so empathetic got caught up in all this."
-    mct "Her concern and compassion for others is so refreshing in such a cutthroat gang. It's strange how someone so empathetic got caught up in all this."
+    mct "在这样一个残酷的团伙中，她对他人的关心和同情真是让人心中一暖。真奇怪，一个如此善解人意的人怎么会被卷入这一切。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:103
 translate chinese b1c08ss09_9e3bbdef:
 
     # mc "Hey, I'm alright."
-    mc "Hey, I'm alright."
+    mc "嘿，我没事。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:106
 translate chinese b1c08ss09_15de29d4:
 
     # "You change the subject to distract Fleur from her anger."
-    "You change the subject to distract Fleur from her anger."
+    "你换个话题转移芙蓉的注意力。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:108
 translate chinese b1c08ss09_12165fab:
 
     # mc "How are they doing? Are Q and the girls recovering okay?"
-    mc "How are they doing? Are Q and the girls recovering okay?"
+    mc "他们怎么样？昆汀和女孩们恢复得还好吗？"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:111
 translate chinese b1c08ss09_b6260935:
 
     # ffl "They're recovering slowly but surely."
-    ffl "They're recovering slowly but surely."
+    ffl "他们恢复得很慢，但很稳定。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:114
 translate chinese b1c08ss09_ab84e13e:
 
     # zp "Nirmala's the least haggard. Q and Sabrina have a difficult time not adding fuel to the flames, so they got a pretty bad beating."
-    zp "Nirmala's the least haggard. Q and Sabrina have a difficult time not adding fuel to the flames, so they got a pretty bad beating."
+    zp "尼玛拉是最幸运的。昆汀和萨布丽娜管不住嘴，很难不火上浇油，所以他们被打得很惨。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:117
 translate chinese b1c08ss09_642e3b09:
 
     # mc "Well, I'm glad their spirits aren't broken."
-    mc "Well, I'm glad their spirits aren't broken."
+    mc "嗯，我很高兴他们没有精神崩溃。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:120
 translate chinese b1c08ss09_cd832d36:
 
     # ass "I'll say! Fleur and I are tending to their wounds while they recover, and all they wanna do is brag about the insults they shouted at Cade and complain about my nursing skills."
-    ass "I'll say! Fleur and I are tending to their wounds while they recover, and all they wanna do is brag about the insults they shouted at Cade and complain about my nursing skills."
+    ass "可不是！我和芙蓉在他们康复期间处理伤口、照顾他们，而他们只想吹嘘他们对凯德的侮辱，抱怨我的护理技术。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:122
 translate chinese b1c08ss09_2d415256:
 
     # "Fleur and Asami don't really seem bothered by the high standards of Quentin and Sabrina."
-    "Fleur and Asami don't really seem bothered by the high standards of Quentin and Sabrina."
+    "芙蓉和麻美似乎并不在意昆汀和萨布丽娜的吹毛求疵。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:125
 translate chinese b1c08ss09_72faacdf:
 
     # mct "It's probably a relief Q and Sabrina have the energy to talk at all."
-    mct "It's probably a relief Q and Sabrina have the energy to talk at all."
+    mct "昆汀和萨布丽娜还有精力说话，这可能还让人能松口气。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:128
 translate chinese b1c08ss09_01e987f5:
 
     # ass "It seems neither Sabrina or Quentin kept their mouths shut and their heads low."
-    ass "It seems neither Sabrina or Quentin kept their mouths shut and their heads low."
+    ass "看来萨布丽娜和昆汀他俩都是既没能闭嘴，又没能低头。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:131
 translate chinese b1c08ss09_c7044b49:
 
     # ass "So that asshole Cade beat them until they could barely talk."
-    ass "So that asshole Cade beat them until they could barely talk."
+    ass "所以那个混蛋凯德把他们打得连话都说不出来。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:134
 translate chinese b1c08ss09_7ff41de0:
 
     # ass "They're recovering, though. It'll take some time, but they'll be okay."
-    ass "They're recovering, though. It'll take some time, but they'll be okay."
+    ass "不过他们正在康复中。然需要一些时间，但他们会好起来的。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:135
 translate chinese b1c08ss09_44d6df54:
 
     # ass "Gotta say, I respect their tenacity. They didn't back down even as they were restrained and beaten like that."
-    ass "Gotta say, I respect their tenacity. They didn't back down even as they were restrained and beaten like that."
+    ass "不得不说，我敬佩他们的顽强品质。即使受到那样的约束和殴打，他们也没有退缩。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:138
 translate chinese b1c08ss09_1dd0881f:
 
     # ffl "We're so glad they're safe. Thank you, [mcname]."
-    ffl "We're so glad they're safe. Thank you, [mcname]."
+    ffl "我们很高兴他们平安无事。谢谢你，[mcname]。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:141
 translate chinese b1c08ss09_1e20071f:
 
     # zp "Yes, thank you for all you did. I'm so sorry you were left..."
-    zp "Yes, thank you for all you did. I'm so sorry you were left..."
+    zp "是的，谢谢你所做的一切。很遗憾你被他们抓住了..."
 
 # game/code/Book-1/Chapter-8s/s09.rpy:144
 translate chinese b1c08ss09_f5b67058:
 
     # zp "We didn't...the cam workers needed to..."
-    zp "We didn't...the cam workers needed to..."
+    zp "我们没能...拍摄人员需要..."
 
 # game/code/Book-1/Chapter-8s/s09.rpy:148
 translate chinese b1c08ss09_3a3068bc:
 
     # mc "Hey, it's alright. I promise. I'm glad you got Q and the girls out. That was the right thing to do. That was the mission, and what we all agreed on."
-    mc "Hey, it's alright. I promise. I'm glad you got Q and the girls out. That was the right thing to do. That was the mission, and what we all agreed on."
+    mc "嘿，没事的。我保证。我很高兴你们救出了昆汀和那两个女孩。这样做是对的。这就是我们的使命，也是我们一致同意的。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:151
 translate chinese b1c08ss09_16cf89ba:
 
     # zp "I know, but it shouldn't've been at the cost of {i}you{/i}."
-    zp "I know, but it shouldn't've been at the cost of {i}you{/i}."
+    zp "我知道，但是不应该以{i}你{/i}为代价。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:154
 translate chinese b1c08ss09_c2ec1dca:
 
     # zp "I didn't want to leave you."
-    zp "I didn't want to leave you."
+    zp "我不想抛下你的。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:157
 translate chinese b1c08ss09_6f79bc47:
 
     # mc "I know, I know. I got out, though."
-    mc "I know, I know. I got out, though."
+    mc "我知道，我知道。不过我还是逃出来了。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:160
 translate chinese b1c08ss09_bb0f66a3:
 
     # mc "Besides...it wasn't really you who left me behind."
-    mc "Besides...it wasn't really you who left me behind."
+    mc "而且...其实把我丢下的人不是你。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:162
 translate chinese b1c08ss09_1cbfeaa1:
 
     # "Zemfira seems tense with a swirl of emotions inside her. Guilt, anger, confusion... It makes her speechless for a moment."
-    "Zemfira seems tense with a swirl of emotions inside her. Guilt, anger, confusion... It makes her speechless for a moment."
+    "泽菲拉似乎很紧张，她的内心涌动着各种情绪。内疚、愤怒、困惑...这使她一时说不出话来。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:165
 translate chinese b1c08ss09_8459da1e:
 
     # zp "I would've planned things differently if he'd just {i}told{/i} me. I feel awful that I didn't know."
-    zp "I would've planned things differently if he'd just {i}told{/i} me. I feel awful that I didn't know."
+    zp "如果他直接{i}告诉{/i}我，我的计划就会不一样。我不知道会这样，真是烂透了。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:168
 translate chinese b1c08ss09_f9e5f48d:
 
     # mc "It's fine. Q and the girls are safe now, with no super serious injuries. Which is practically a miracle, given the circumstances."
-    mc "It's fine. Q and the girls are safe now, with no super serious injuries. Which is practically a miracle, given the circumstances."
+    mc "没关系。昆汀和女孩们现在都很安全，没有受什么重伤。从当时的情况来看，这简直是个奇迹。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:172
 translate chinese b1c08ss09_56e4d42c:
 
     # zp "What about you? Are there any other injuries you got?"
-    zp "What about you? Are there any other injuries you got?"
+    zp "你呢？你还受了什么伤吗？"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:174
 translate chinese b1c08ss09_5d0250bf:
 
     # "You feel the women's gazes on you, scanning you for any hidden injuries or discomforts they could tend to."
-    "You feel the women's gazes on you, scanning you for any hidden injuries or discomforts they could tend to."
+    "你能感觉到女士们的目光在注视着你，扫视着你身上是否有她们可以处理的伤口。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:177
 translate chinese b1c08ss09_1fd63701:
 
     # mc "No, no I'm fine. Just the hand."
-    mc "No, no I'm fine. Just the hand."
+    mc "不，没事的，我很好。只是手受伤了。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:180
 translate chinese b1c08ss09_46c9561b:
 
     # zp "Good. Then let's go down to the fight club arena. The others will want to know you're home safe."
-    zp "Good. Then let's go down to the fight club arena. The others will want to know you're home safe."
+    zp "好。那我们去搏击俱乐部的竞技场吧。其他人会想知道你平安回家了。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:186
 translate chinese b1c08ss09_b2ab10cc:
