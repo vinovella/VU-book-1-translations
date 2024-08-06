@@ -346,529 +346,529 @@ translate chinese b1c08ss09_46c9561b:
 translate chinese b1c08ss09_b2ab10cc:
 
     # ffl "So glad you're home safe."
-    ffl "So glad you're home safe."
+    ffl "真高兴你平安回家了。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:189
 translate chinese b1c08ss09_00b0fec1:
 
     # ass "Get plenty of rest and let us know if there's anything you need."
-    ass "Get plenty of rest and let us know if there's anything you need."
+    ass "好好休息，有什么需要就告诉我们。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:192
 translate chinese b1c08ss09_71ffba61:
 
     # mc "I will, I will. I promise. But until then, I can at least go say hello to the others and talk to Xasan."
-    mc "I will, I will. I promise. But until then, I can at least go say hello to the others and talk to Xasan."
+    mc "好的，我会的。我保证。但在那之前，我至少可以去和其他人打个招呼，和哈桑谈谈。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:200
 translate chinese b1c08ss09_76c14acd:
 
     # ffl "I'll catch up with you later."
-    ffl "I'll catch up with you later."
+    ffl "我一会儿去找你。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:203
 translate chinese b1c08ss09_e069b9e6:
 
     # ass "See ya, [mcname]."
-    ass "See ya, [mcname]."
+    ass "回头见，[mcname]。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:206
 translate chinese b1c08ss09_6ea20b0d:
 
     # "You and Zem walk into the fight club underneath Guns N' Rosette, still holding hands."
-    "You and Zem walk into the fight club underneath Guns N' Rosette, still holding hands."
+    "你和泽菲拉走进位于枪炮玫瑰酒吧下面的搏击俱乐部，仍然手牵着手。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:224
 translate chinese b1c08ss09_c78368b7:
 
     # mg "I missed you, pretty boy."
-    mg "I missed you, pretty boy."
+    mg "我想你了，小帅哥。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:227
 translate chinese b1c08ss09_88df3357:
 
     # mc "I missed you too, but jeez, put me down!"
-    mc "I missed you too, but jeez, put me down!"
+    mc "我也想你，但是，天啊，把我放下来！"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:230
 translate chinese b1c08ss09_6cf5d64a:
 
     # fox "I'm glad you're back safe."
-    fox "I'm glad you're back safe."
+    fox "我很高兴你平安回来了。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:233
 translate chinese b1c08ss09_85cd147a:
 
     # fox "Though I'm sorry things turned out the way they did."
-    fox "Though I'm sorry things turned out the way they did."
+    fox "虽然我很抱歉事情变成了那样。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:236
 translate chinese b1c08ss09_9ba12163:
 
     # mc "Don't worry, I got back home safe."
-    mc "Don't worry, I got back home safe."
+    mc "别担心，我安全到家了。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:241
 translate chinese b1c08ss09_c561acbb:
 
     # mct "She looks familiar..."
-    mct "She looks familiar..."
+    mct "她看起来很眼熟..."
 
 # game/code/Book-1/Chapter-8s/s09.rpy:248
 translate chinese b1c08ss09_ca8adbde:
 
     # mct "That's the lunch lady from the cafeteria."
-    mct "That's the lunch lady from the cafeteria."
+    mct "那是食堂的阿姨。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:255
 translate chinese b1c08ss09_d494a505:
 
     # mct "She must be involved with the betting system somehow. Didn't expect to see her here."
-    mct "She must be involved with the betting system somehow. Didn't expect to see her here."
+    mct "她一定和赌博系统有什么关系。没想到会在这儿见到她。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:261
 translate chinese b1c08ss09_ce786e47:
 
     # mg "Thanks for...everything you did."
-    mg "Thanks for...everything you did."
+    mg "谢谢你...你所做的一切。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:264
 translate chinese b1c08ss09_a2c8436e:
 
     # mg "You didn't deserve to get left behind, though. We wanted to go back for you."
-    mg "You didn't deserve to get left behind, though. We wanted to go back for you."
+    mg "不过，你不该被抛在后面。我们想回去找你的。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:267
 translate chinese b1c08ss09_e4f24066:
 
     # fox "It was for the good of the cam workers. Xasan was just trying to prioritize—"
-    fox "It was for the good of the cam workers. Xasan was just trying to prioritize—"
+    fox "这是为了拍摄人员好。哈桑只是想优先考虑--"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:270
 translate chinese b1c08ss09_0b0df850:
 
     # zp "He should've told us. He endangered everyone by planting that bomb without telling us."
-    zp "He should've told us. He endangered everyone by planting that bomb without telling us."
+    zp "他应该告诉我们的。他在不告诉我们的情况下安放了炸弹，危及了所有人。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:273
 translate chinese b1c08ss09_fb07c5de:
 
     # fox "Perhaps, but he was only trying to—"
-    fox "Perhaps, but he was only trying to—"
+    fox "也许吧，但他只是想--"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:276
 translate chinese b1c08ss09_e3383c54:
 
     # xv "You're back."
-    xv "You're back."
+    xv "你回来了。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:279
 translate chinese b1c08ss09_df6b0f36:
 
     # mct "It's important not to make things worse between us."
-    mct "It's important not to make things worse between us."
+    mct "不要让我们之间的关系变得更糟，这很重要。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:282
 translate chinese b1c08ss09_4b612462:
 
     # xv "Did you come back with any intel on the enemy gang?"
-    xv "Did you come back with any intel on the enemy gang?"
+    xv "你回来时有什么关于敌方团伙的情报吗？"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:285
 translate chinese b1c08ss09_52899a1d:
 
     # zp "Is that all you have to say?"
-    zp "Is that all you have to say?"
+    zp "你要说的就这些吗？"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:288
 translate chinese b1c08ss09_44039e84:
 
     # zp "After all he's been through, {i}that's{/i} how you greet the man who sacrificed himself for us?"
-    zp "After all he's been through, {i}that's{/i} how you greet the man who sacrificed himself for us?"
+    zp "在他经历了那么多之后，你就{i}这样{/i}问候这个为我们牺牲的人吗？"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:290
 translate chinese b1c08ss09_6ed57528:
 
     # "You're both surprised and impressed by Zemfira's harsh words."
-    "You're both surprised and impressed by Zemfira's harsh words."
+    "你对泽菲拉的严厉言辞既惊讶又感动。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:292
 translate chinese b1c08ss09_236c0e95:
 
     # mct "So much for not making things worse..."
-    mct "So much for not making things worse..."
+    mct "不要把事情弄得更糟..."
 
 # game/code/Book-1/Chapter-8s/s09.rpy:295
 translate chinese b1c08ss09_2b05e91a:
 
     # xv "We couldn't risk losing more people."
-    xv "We couldn't risk losing more people."
+    xv "我们不能冒险失去更多的人。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:298
 translate chinese b1c08ss09_8f5aa6a9:
 
     # xv "I told him to stay on the damn boat. I told all of you to prioritize the cam workers and to let me handle the rest."
-    xv "I told him to stay on the damn boat. I told all of you to prioritize the cam workers and to let me handle the rest."
+    xv "我叫他待在该死的船上。我告诉过你们所有人要优先保护拍摄人员，剩下的交给我处理。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:300
 translate chinese b1c08ss09_d0d737fc:
 
     # "Foxy speaks next, trying to soothe everyone's simmering tempers."
-    "Foxy speaks next, trying to soothe everyone's simmering tempers."
+    "小狐接着发言，试图平息大家的怒火。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:302
 translate chinese b1c08ss09_eb1deb0f:
 
     # fox "We all did what we thought was best. Getting the camworkers safe—"
-    fox "We all did what we thought was best. Getting the camworkers safe—"
+    fox "我们都做了我们认为最好的事。确保拍摄人员的安全--"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:305
 translate chinese b1c08ss09_fd56870a:
 
     # mg "[mcname] is just as important as any of us. He's practically one of us."
-    mg "[mcname] is just as important as any of us. He's practically one of us."
+    mg "[mcname]和我们所有人一样重要。他实际上是我们中的一员。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:308
 translate chinese b1c08ss09_11f4bf9c:
 
     # xv "No he isn't."
-    xv "No he isn't."
+    xv "不，他不是。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:311
 translate chinese b1c08ss09_a3f4989a:
 
     # zp "Why didn't you tell me, Xasan? I would've planned things differently if I'd known {i}your{/i} plan."
-    zp "Why didn't you tell me, Xasan? I would've planned things differently if I'd known {i}your{/i} plan."
+    zp "你为什么不告诉我，哈桑？如果我事先知道{i}你的{/i}计划，我就会改变我的计划了。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:314
 translate chinese b1c08ss09_8e94de39:
 
     # "Xasan rubs his brow, looking tired despite his anger."
-    "Xasan rubs his brow, looking tired despite his anger."
+    "哈桑揉了揉眉心，尽管怒气冲冲，却显得疲惫不堪。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:316
 translate chinese b1c08ss09_637b8e9e:
 
     # xv "Listen, you're right Zemfira. I should've told you. We need to be honest with each other, even when it's difficult."
-    xv "Listen, you're right Zemfira. I should've told you. We need to be honest with each other, even when it's difficult."
+    xv "听着，你说得对，泽菲拉。我应该告诉你的。我们需要对彼此诚实，即使在困难的时候。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:317
 translate chinese b1c08ss09_12628b0a:
 
     # xv "Those Wasps needed to be taught a lesson. But I didn't want to involve anyone else in case the plan failed. I {i}told{/i} you all I'd make a diversion if something went wrong. That's exactly what I did."
-    xv "Those Wasps needed to be taught a lesson. But I didn't want to involve anyone else in case the plan failed. I {i}told{/i} you all I'd make a diversion if something went wrong. That's exactly what I did."
+    xv "那些黄蜂需要好好教训一下。但我不想把其他人牵扯进来以防计划失败。我{i}告诉过{/i}你们大家，如果出了什么差错，我会调虎离山。我也就是这么做的。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:320
 translate chinese b1c08ss09_f49a0a1f:
 
     # zp "And was he part of the diversion?"
-    zp "And was he part of the diversion?"
+    zp "他也是你的调虎离山之计中的一环吗？"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:322
 translate chinese b1c08ss09_adeb4d25:
 
     # "Zemfira's implied accusation echoes through the empty fight club."
-    "Zemfira's implied accusation echoes through the empty fight club."
+    "泽菲拉含蓄的指责回荡在空荡荡的搏击俱乐部里。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:323
 translate chinese b1c08ss09_e298cc70:
 
     # "Xasan's glare burns with rage, but Zemfira doesn't back down."
-    "Xasan's glare burns with rage, but Zemfira doesn't back down."
+    "哈桑怒目而视，但泽菲拉毫不退让。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:326
 translate chinese b1c08ss09_99c46b8f:
 
     # xv "No. I did not plan that."
-    xv "No. I did not plan that."
+    xv "不是。我没有计划这一步。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:327
 translate chinese b1c08ss09_4f84c544:
 
     # xv "This rookie here shouldn't have interfered. He was only supposed to drive the boat."
-    xv "This rookie here shouldn't have interfered. He was only supposed to drive the boat."
+    xv "这个菜鸟不该插手的。他只负责开船。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:330
 translate chinese b1c08ss09_4926d751:
 
     # fox "Look, we got everyone out safely. That's what matters."
-    fox "Look, we got everyone out safely. That's what matters."
+    fox "听着，我们把大家都安全救出来了。这才是最重要的。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:331
 translate chinese b1c08ss09_49051803:
 
     # fox "Accusing each other isn't going to help anything now."
-    fox "Accusing each other isn't going to help anything now."
+    fox "现在互相指责是没有用的。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:333
 translate chinese b1c08ss09_c911d0cd:
 
     # "Zem throws Foxy a nasty glare but remains silent."
-    "Zem throws Foxy a nasty glare but remains silent."
+    "泽菲拉恶狠狠地瞪了小狐一眼，但没再说什么。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:335
 translate chinese b1c08ss09_c90e8fc6:
 
     # "Xasan's voice is firm, though there's a new note of diplomacy to it, however strained it might be."
-    "Xasan's voice is firm, though there's a new note of diplomacy to it, however strained it might be."
+    "哈桑的声音很坚定，虽然有一种外交意味在，但听上去还是很紧张。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:337
 translate chinese b1c08ss09_f283f6d6:
 
     # xv "Ladies, my first priority was {i}us{/i}. [mcname] should've stayed with the boat."
-    xv "Ladies, my first priority was {i}us{/i}. [mcname] should've stayed with the boat."
+    xv "女士们，我的首要任务是{i}我们团队{/i}。[mcname]应该留在船上。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:339
 translate chinese b1c08ss09_9f078b0f:
 
     # "Xasan narrows his eyes at you, a smoldering anger boiling in his eyes."
-    "Xasan narrows his eyes at you, a smoldering anger boiling in his eyes."
+    "哈桑眯起眼睛看着你，眼中沸腾着怒火。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:341
 translate chinese b1c08ss09_cb843c3b:
 
     # xv "If [mcname] had stayed put, none of this would've happened."
-    xv "If [mcname] had stayed put, none of this would've happened."
+    xv "如果[mcname]当时留在原地，这一切都不会发生。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:348
 translate chinese b1c08ss09_79f30f05:
 
     # mct "Who the fuck is he to dismiss what I've done, and then dismiss the worries of the women?"
-    mct "Who the fuck is he to dismiss what I've done, and then dismiss the worries of the women?"
+    mct "这混蛋他妈算老几啊，居然敢无视我的所作所为，还无视这些女孩们的担忧？"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:351
 translate chinese b1c08ss09_89753095:
 
     # mc "I still saved your ass, Xasan."
-    mc "I still saved your ass, Xasan."
+    mc "我还是救了你，哈桑。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:352
 translate chinese b1c08ss09_24603bd6:
 
     # mc "I don't see why I shouldn't get some fucking appreciation for it. Would you have preferred I left your ass for the Wasps?"
-    mc "I don't see why I shouldn't get some fucking appreciation for it. Would you have preferred I left your ass for the Wasps?"
+    mc "我不明白为什么我他妈的连最基本的感谢都收不到。难道你宁愿我把你的命丢给黄蜂队吗？"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:356
 translate chinese b1c08ss09_bc5dfead:
 
     # xv "You think you know the complexities of keeping everyone here safe? Huh, rookie!?"
-    xv "You think you know the complexities of keeping everyone here safe? Huh, rookie!?"
+    xv "你以为你明白保证每个人的安全有多复杂吗？嗯，菜鸟!?"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:359
 translate chinese b1c08ss09_d1ab8489:
 
     # mc "Considering I'm the fucking one who kept you safe, I'd say so."
-    mc "Considering I'm the fucking one who kept you safe, I'd say so."
+    mc "考虑到是我保护了你的安全，我会这么说。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:363
 translate chinese b1c08ss09_495c4e0b:
 
     # xv "I didn't give a shit if I got caught protecting everyone here! And yet you come back here and expect everyone to get on their goddamn knees and suck you off?"
-    xv "I didn't give a shit if I got caught protecting everyone here! And yet you come back here and expect everyone to get on their goddamn knees and suck you off?"
+    xv "如果我因为保护这里的每个人而被抓，那我根本不在乎！可你现在还回到这里，怎么，指望所有人都跪下来舔你？"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:364
 translate chinese b1c08ss09_32c95a6d:
 
     # xv "*Scoffs* Fucking selfish prick. All you want is recognition."
-    xv "*Scoffs* Fucking selfish prick. All you want is recognition."
+    xv "*嘲笑* 该死的自私鬼。你想要的只是认可。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:367
 translate chinese b1c08ss09_16f00a9b:
 
     # mc "Some way of protecting you have. Keeping everyone in the fuckin' dark and scaring everyone."
-    mc "Some way of protecting you have. Keeping everyone in the fuckin' dark and scaring everyone."
+    mc "你很有一些保护自己的方法。把所有人都蒙在鼓里，然后让每个人都吓坏了。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:370
 translate chinese b1c08ss09_19a65d94:
 
     # xv "Shut the fuck up, you ignorant limpdick."
-    xv "Shut the fuck up, you ignorant limpdick."
+    xv "闭上你的臭嘴，你这个无知的笨蛋。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:377
 translate chinese b1c08ss09_9491a80e:
 
     # mc "It's alright. It all worked out. The Q and the girls are safe. That's what's important."
-    mc "It's alright. It all worked out. The Q and the girls are safe. That's what's important."
+    mc "没关系。一切都解决了。昆汀和女孩们都很安全。这才是最重要的。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:379
 translate chinese b1c08ss09_c2d16c14:
 
     # "Xasan and the girls seem to relax at your diplomacy."
-    "Xasan and the girls seem to relax at your diplomacy."
+    "哈桑和姑娘们听了你的客气话，似乎都放松了一些。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:382
 translate chinese b1c08ss09_198a8200:
 
     # "You feel Zem discreetly wrap her pinky around yours in secret approval."
-    "You feel Zem discreetly wrap her pinky around yours in secret approval."
+    "你感觉到泽菲拉小心翼翼地把她的小指绕在你的小指上，暗地里表示赞许。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:385
 translate chinese b1c08ss09_e1c1354e:
 
     # mc "I understand that Xasan's priority was all of you."
-    mc "I understand that Xasan's priority was all of you."
+    mc "我知道哈桑的首要任务是你们所有人。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:388
 translate chinese b1c08ss09_65dcc834:
 
     # mc "And the cost was worth it."
-    mc "And the cost was worth it."
+    mc "这个代价是值得的。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:391
 translate chinese b1c08ss09_f478b9ab:
 
     # "You squeeze Zem's pinky with your own."
-    "You squeeze Zem's pinky with your own."
+    "你用自己的小指捏着泽菲拉的小指。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:397
 translate chinese b1c08ss09_3e2258ab:
 
     # mc "What does any of this matter?"
-    mc "What does any of this matter?"
+    mc "这有什么关系？"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:398
 translate chinese b1c08ss09_a32779ba:
 
     # mc "We're just fighting each other over something that's already done."
-    mc "We're just fighting each other over something that's already done."
+    mc "我们这是在为已经发生的事情争吵。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:400
 translate chinese b1c08ss09_0c2ea9e2:
 
     # mc "Everyone made it out alive. That's a win in my book."
-    mc "Everyone made it out alive. That's a win in my book."
+    mc "每个人都活着出来了。在我看来，这就是一场胜利。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:403
 translate chinese b1c08ss09_ac75ae2e:
 
     # xv "He's right."
-    xv "He's right."
+    xv "他说得对。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:408
 translate chinese b1c08ss09_53e74ca1:
 
     # xv "Ladies, it's not that I don't appreciate what he did—on some level. But what's done is done."
-    xv "Ladies, it's not that I don't appreciate what he did—on some level. But what's done is done."
+    xv "女士们，在某种程度上，我不是不感激他所做的一切。但木已成舟。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:409
 translate chinese b1c08ss09_37af904d:
 
     # xv "I did what I did for all of you. A heavy retaliation now means The Wasps back down and don't fuck with any of you in the future."
-    xv "I did what I did for all of you. A heavy retaliation now means The Wasps back down and don't fuck with any of you in the future."
+    xv "我所做的一切都是为了你们大家。咱们严厉的报复意味着黄蜂队会退让，以后不会再惹你们任何人。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:410
 translate chinese b1c08ss09_d5067cb0:
 
     # xv "And my priority will always be the members of this gang before any god damn fool with a hero complex."
-    xv "And my priority will always be the members of this gang before any god damn fool with a hero complex."
+    xv "我的首要任务永远是这个帮派的成员，而不是那些有英雄情结的该死的傻瓜。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:414
 translate chinese b1c08ss09_2e39085e:
 
     # mg "So what? [mcname] deserved to be left out there? Fuck off with that, Xasan. I saw you make the decision to leave [mcname] behind."
-    mg "So what? [mcname] deserved to be left out there? Fuck off with that, Xasan. I saw you make the decision to leave [mcname] behind."
+    mg "那又怎样？[mcname]活该被抛弃吗？去你的，哈桑。我亲眼看到你决定把[mcname]丢下。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:417
 translate chinese b1c08ss09_4d26172a:
 
     # xv "That's not what I said."
-    xv "That's not what I said."
+    xv "我没这么说。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:419
 translate chinese b1c08ss09_66511625:
 
     # "Morgan continues as though Xasan said nothing."
-    "Morgan continues as though Xasan said nothing."
+    "摩根继续说着，好像哈桑山什么也没说。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:421
 translate chinese b1c08ss09_d64b2dc7:
 
     # mg "The Syndicate might be your priority, but that doesn't give you the right to downplay his sacrifice for your pride. {w}For your {i}mistake{/i}."
-    mg "The Syndicate might be your priority, but that doesn't give you the right to downplay his sacrifice for your pride. {w}For your {i}mistake{/i}."
+    mg "辛迪加可能是你的首要任务，但这并不意味着你有权利为了你的自尊而贬低他的牺牲。{w}你在掩饰{i}错误{/i}。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:423
 translate chinese b1c08ss09_4d70435e:
 
     # "All eyes turn to Morgan and Xasan. The tension is palpable, and the entire bar seems to fall into a tense silence."
-    "All eyes turn to Morgan and Xasan. The tension is palpable, and the entire bar seems to fall into a tense silence."
+    "所有的目光都转向了摩根和哈桑。气氛很紧张，整个酒吧似乎陷入了紧张的沉默。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:424
 translate chinese b1c08ss09_8f91b6f7:
 
     # "You watch Morgan defend you, impressed by her boldness, grateful for her support..."
-    "You watch Morgan defend you, impressed by her boldness, grateful for her support..."
+    "你看着摩根为你辩护，为她的果敢所折服，为她的支持而感激..."
 
 # game/code/Book-1/Chapter-8s/s09.rpy:425
 translate chinese b1c08ss09_7588ae60:
 
     # "...And worried about how this will affect her."
-    "...And worried about how this will affect her."
+    "...又担心这会对她造成什么影响。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:428
 translate chinese b1c08ss09_7f6b0e75:
 
     # xv "I made it clear that {i}I would buy us all time{/i} if things went to shit, and I did that. I told you all to leave me behind. [mcname] shouldn't have interfered if he wasn't prepared for the consequences."
-    xv "I made it clear that {i}I would buy us all time{/i} if things went to shit, and I did that. I told you all to leave me behind. [mcname] shouldn't have interfered if he wasn't prepared for the consequences."
+    xv "我说得很清楚，{i}如果事情搞砸了，我会为大家争取时间{/i}。我做到了。我告诉过你们别来找我。如果[mcname]没有做好承担后果的准备，他就不应该插手。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:432
 translate chinese b1c08ss09_9fe126f2:
 
     # xv "Maybe you should consider your own role in The Syndicate before you start judging how it's run, Morgan."
-    xv "Maybe you should consider your own role in The Syndicate before you start judging how it's run, Morgan."
+    xv "也许在你评判辛迪加的运作方式之前，你应该先考虑一下自己在辛迪加的角色，摩根。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:434
 translate chinese b1c08ss09_2704da75:
 
     # mg "You think that fucking scares me?"
-    mg "You think that fucking scares me?"
+    mg "你以为这样就能吓倒我吗？"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:437
 translate chinese b1c08ss09_966f13c9:
 
     # mg "Do you think you can take more from me than you already have? I don't have any fucking more to lose!"
-    mg "Do you think you can take more from me than you already have? I don't have any fucking more to lose!"
+    mg "你已经夺走了那么多，你以为还能从我这里拿走更多？我他妈再也没有什么可失去的了！"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:440
 translate chinese b1c08ss09_33123e68:
 
     # xv "I did what I fucking had to, Morgan! This was to protect everyone here, including you!"
-    xv "I did what I fucking had to, Morgan! This was to protect everyone here, including you!"
+    xv "我他妈做了我不得不做的事，摩根！这是为了保护这里的每个人，包括你！"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:443
 translate chinese b1c08ss09_5a715d15:
 
     # mg "I get it, but don't act like [mcname]'s sacrifice didn't matter. He risked his life out there, and you can't just sweep that under the rug for the sake of being a massive dick."
-    mg "I get it, but don't act like [mcname]'s sacrifice didn't matter. He risked his life out there, and you can't just sweep that under the rug for the sake of being a massive dick."
+    mg "我明白，但不要表现得好像[mcname]的牺牲无关紧要。他在那里冒着生命危险，你不能为了当个大混蛋，就把他的牺牲掩盖起来。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:446
 translate chinese b1c08ss09_b9f2d360:
 
     # "You place a hand on Morgan's shoulder, trying to soothe her."
-    "You place a hand on Morgan's shoulder, trying to soothe her."
+    "你把手放在摩根的肩膀上，试图安抚她。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:448
 translate chinese b1c08ss09_b1c9bd37:
 
     # mc "Morgan, it's okay. I made it out."
-    mc "Morgan, it's okay. I made it out."
+    mc "摩根，没事的。我逃出来了。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:451
 translate chinese b1c08ss09_47079e26:
 
     # mc "*Whispers* Don't put yourself at risk. One of us has already done that."
-    mc "*Whispers* Don't put yourself at risk. One of us has already done that."
+    mc "*耳语* 别把自己置于危险之中。我们中已经有过先例了。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:456
 translate chinese b1c08ss09_d86a1ff0:
 
     # "Zemfira and her stubborn nature can't contain her frustration. Her eyes blaze with anger and disappointment."
-    "Zemfira and her stubborn nature can't contain her frustration. Her eyes blaze with anger and disappointment."
+    "泽菲拉和她倔强的本性无法抑制她的沮丧。她的眼睛里充满了愤怒和失望。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:457
 translate chinese b1c08ss09_c5ae294a:
 
     # "She gets in Xasan's face, her small frame surprisingly determined and intimidating against such a brutish man."
-    "She gets in Xasan's face, her small frame surprisingly determined and intimidating against such a brutish man."
+    "她站在哈桑的面前，她那娇小的身躯面对这样一个粗鲁的男人，却出奇地坚定，令人生畏。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:459
 translate chinese b1c08ss09_9c309990:
