@@ -874,713 +874,713 @@ translate chinese b1c08ss09_c5ae294a:
 translate chinese b1c08ss09_9c309990:
 
     # zp "You're a selfish coward, Xasan. Leaving someone behind goes against everything I thought this mission—and this gang—was about."
-    zp "You're a selfish coward, Xasan. Leaving someone behind goes against everything I thought this mission—and this gang—was about."
+    zp "你是个自私的懦夫，哈桑。把救你的朋友丢下，与我认为的这个任务的本质，乃至这个组织的宗旨，都背道而驰。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:460
 translate chinese b1c08ss09_a9864f3c:
 
     # zp "[mcname] barely knows anyone here, and yet he's risking everything for The Syndicate. He believes in us, and you let him down!"
-    zp "[mcname] barely knows anyone here, and yet he's risking everything for The Syndicate. He believes in us, and you let him down!"
+    zp "[mcname]几乎不认识这里的任何人，但他却为辛迪加冒着一切风险。他相信我们，而你却让他失望了！"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:462
 translate chinese b1c08ss09_f3466e68:
 
     # "The tension in the room escalates as Zemfira's words ring through the fight club. You watch the exchange, unsure of what to do or how to help the situation."
-    "The tension in the room escalates as Zemfira's words ring through the fight club. You watch the exchange, unsure of what to do or how to help the situation."
+    "随着泽菲拉的话响彻格斗俱乐部，房间里的紧张气氛不断升级。你在一旁看着，不知道该做什么，也不知道怎样才能缓和局势。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:464
 translate chinese b1c08ss09_7b47b179:
 
     # fox "That's not fair. [mcname] made his own choices, and Xasan made his."
-    fox "That's not fair. [mcname] made his own choices, and Xasan made his."
+    fox "这不公平。[mcname]做出了自己的选择，哈桑也做出了他的选择。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:467
 translate chinese b1c08ss09_f165a22e:
 
     # xv "Exactly. And he's not even one of us, Zem! He's a fuckin' stray off the street, and you think he's the second coming of Christ? Be fucking rational!"
-    xv "Exactly. And he's not even one of us, Zem! He's a fuckin' stray off the street, and you think he's the second coming of Christ? Be fucking rational!"
+    xv "没错。他甚至不是我们中的一员，泽菲拉！他只是个街头流浪汉，而你却把他当做基督第二次降临？你他妈理智点！"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:470
 translate chinese b1c08ss09_e6e18d0a:
 
     # "Zemfira's anger intensifies at Xasan's response. She hates the authority in his voice, the injustice of his decision."
-    "Zemfira's anger intensifies at Xasan's response. She hates the authority in his voice, the injustice of his decision."
+    "听到哈桑的回答，泽菲拉怒火中烧。她憎恨他声音中的威严，憎恨他决定的不公正。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:472
 translate chinese b1c08ss09_fe9be33b:
 
     # zp "You didn't involve the rest of us, so [mcname] ended up picking up that slack and saving you when no one else knew what the fuck you were doing."
-    zp "You didn't involve the rest of us, so [mcname] ended up picking up that slack and saving you when no one else knew what the fuck you were doing."
+    zp "你没有让我们其他人参与进来，所以当其他人都不知道你在做什么的时候，[mcname]最终弥补了你的不足，救了你。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:473
 translate chinese b1c08ss09_0727d09c:
 
     # zp "If that isn't what being a part of this gang is about, then I don't know what fucking is."
-    zp "If that isn't what being a part of this gang is about, then I don't know what fucking is."
+    zp "如果这还不是加入这个帮派的意义所在，那我他妈就真不知道什么才是了。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:475
 translate chinese b1c08ss09_54f6903f:
 
     # "The anger between Xasan and Zemfira crackles in the air, electrifying it with their rage."
-    "The anger between Xasan and Zemfira crackles in the air, electrifying it with their rage."
+    "哈桑和泽菲拉的怒火在空气中噼啪作响，他们的愤怒让空气都带了电。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:476
 translate chinese b1c08ss09_884ef46e:
 
     # "You think he might be about to hit her."
-    "You think he might be about to hit her."
+    "你觉得他可能会打她。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:478
 translate chinese b1c08ss09_11f49ab4:
 
     # "Xasan's eyes flash to you."
-    "Xasan's eyes flash to you."
+    "哈桑的眼神一闪而过。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:480
 translate chinese b1c08ss09_dbaf3843:
 
     # xv "Fine, you all want him to be a part of this gang so fuckin' bad, he can prove himself once and for all, then."
-    xv "Fine, you all want him to be a part of this gang so fuckin' bad, he can prove himself once and for all, then."
+    xv "好吧，你们都他妈的那么想让他加入这个帮派，那他就可以一劳永逸地证明自己了。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:488
 translate chinese b1c08ss09_3bd58432:
 
     # zp "What the fuck are you doing, Xasan?"
-    zp "What the fuck are you doing, Xasan?"
+    zp "你他妈的在干什么，哈桑？"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:491
 translate chinese b1c08ss09_a15e46e4:
 
     # xv "Get in there and teach him a lesson about what it's like to be a part of this gang."
-    xv "Get in there and teach him a lesson about what it's like to be a part of this gang."
+    xv "进去给他上一课，让他知道成为这个帮派的一员是什么感觉。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:494
 translate chinese b1c08ss09_f99cce0f:
 
     # "Morgan hesitates, looking between you and Xasan."
-    "Morgan hesitates, looking between you and Xasan."
+    "摩根犹豫了一下，看着你和哈桑。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:497
 translate chinese b1c08ss09_71d98b0e:
 
     # zp "This is fucked up, Xasan!"
-    zp "This is fucked up, Xasan!"
+    zp "这太操蛋了，哈桑！"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:500
 translate chinese b1c08ss09_bc65a33d:
 
     # xv "This is what you wanted, isn't it? For Rookie here to be a part of this gang? Well this is the way!"
-    xv "This is what you wanted, isn't it? For Rookie here to be a part of this gang? Well this is the way!"
+    xv "这就是你想要的，不是吗？让菜鸟加入这个帮派？行啊，这就是接受他的方式！"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:501
 translate chinese b1c08ss09_35ab6918:
 
     # xv "We all had to face trials to get into this gang. This is yours."
-    xv "We all had to face trials to get into this gang. This is yours."
+    xv "要加入这个帮派，我们都得经受考验。这是你的考验。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:504
 translate chinese b1c08ss09_42a4f2da:
 
     # xv "You're indebted to me, Morgan. Are you gonna do this or what?"
-    xv "You're indebted to me, Morgan. Are you gonna do this or what?"
+    xv "你还欠我的账，摩根。好好想想，你要不要上？"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:507
 translate chinese b1c08ss09_97847a6b:
 
     # mg "I don't want fighting just for fighting's sake."
-    mg "I don't want fighting just for fighting's sake."
+    mg "我不想为了打架而打架。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:508
 translate chinese b1c08ss09_ec16bad7:
 
     # "Morgan hesitates a moment longer, thinking."
-    "Morgan hesitates a moment longer, thinking."
+    "摩根又犹豫了一会儿，思考着。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:511
 translate chinese b1c08ss09_389bb602:
 
     # mg "Will this affect my debts to The Syndicate?"
-    mg "Will this affect my debts to The Syndicate?"
+    mg "这会影响我欠辛迪加的债吗？"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:515
 translate chinese b1c08ss09_c9e5bfaf:
 
     # xv "Sure. Fine."
-    xv "Sure. Fine."
+    xv "当然。行吧。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:518
 translate chinese b1c08ss09_24483e3a:
 
     # xv "You'll get a heavy percentage removed from your debt."
-    xv "You'll get a heavy percentage removed from your debt."
+    xv "你的债务中会有很大一部分被免除。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:521
 translate chinese b1c08ss09_52304604:
 
     # mg "Regardless of if I win or not?"
-    mg "Regardless of if I win or not?"
+    mg "不管我赢不赢？"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:524
 translate chinese b1c08ss09_101344b5:
 
     # xv "I guess. You'll get more percentage wiped if you do win though. How about that?"
-    xv "I guess. You'll get more percentage wiped if you do win though. How about that?"
+    xv "我想是吧。如果你赢了，你会被扣除更多的百分比。怎么样？"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:526
 translate chinese b1c08ss09_ca23dd13:
 
     # mct "Giving her incentive to beat the shit out of me, I suppose."
-    mct "Giving her incentive to beat the shit out of me, I suppose."
+    mct "我想，这样她就有动力把我揍得屁滚尿流了。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:529
 translate chinese b1c08ss09_96149a15:
 
     # mg "Deal."
-    mg "Deal."
+    mg "成交。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:532
 translate chinese b1c08ss09_ccc6f49d:
 
     # xv "Foxy, mediate the fight."
-    xv "Foxy, mediate the fight."
+    xv "小狐，主持这场战斗。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:535
 translate chinese b1c08ss09_74f0c03a:
 
     # zp "Morgan, you can't really be doing this!"
-    zp "Morgan, you can't really be doing this!"
+    zp "摩根，你不会真要这么做吧！"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:536
 translate chinese b1c08ss09_8b845d7f:
 
     # "Morgan remains silent, readying herself for her fight."
-    "Morgan remains silent, readying herself for her fight."
+    "摩根保持沉默，做好战斗准备。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:539
 translate chinese b1c08ss09_42b14830:
 
     # zp "Are you fucking serious?"
-    zp "Are you fucking serious?"
+    zp "你他妈是认真的吗？"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:543
 translate chinese b1c08ss09_f19d678b:
 
     # mg "*Whispers* Remember what I taught you during our lesson? I'll stick to moves that you know...mostly."
-    mg "*Whispers* Remember what I taught you during our lesson? I'll stick to moves that you know...mostly."
+    mg "*轻声细语* 还记得我们上课时我教你的吗？我会尽量用你知道的招式...大多数情况下吧。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:544
 translate chinese b1c08ss09_37ab4414:
 
     # mg "You got this."
-    mg "You got this."
+    mg "你能行的。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:547
 translate chinese b1c08ss09_3c123913:
 
     # mc "May the best fighter win."
-    mc "May the best fighter win."
+    mc "愿最优秀的拳手获胜。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:550
 translate chinese b1c08ss09_61bc3540:
 
     # "Morgan gives you a proud smirk."
-    "Morgan gives you a proud smirk."
+    "摩根给了你一个得意的微笑。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:554
 translate chinese b1c08ss09_e568b56d:
 
     # mct "Corinne will be happy to hear that Morgan has less debt now, at least."
-    mct "Corinne will be happy to hear that Morgan has less debt now, at least."
+    mct "至少，科琳会很高兴听到摩根的债务减少了。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:556
 translate chinese b1c08ss09_bfe0d6d1:
 
     # "You look over Morgan's powerful body, experienced with combat and hardship."
-    "You look over Morgan's powerful body, experienced with combat and hardship."
+    "你看着摩根强壮的身体，上面是饱经战斗和磨难的痕迹。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:558
 translate chinese b1c08ss09_798525b3:
 
     # mct "But she doesn't have my academy training...I can use that to my advantage."
-    mct "But she doesn't have my academy training...I can use that to my advantage."
+    mct "但是她没有接受过我在学院的训练...我可以利用这一点。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:561
 translate chinese b1c08ss09_6d274ae4:
 
     # xv "Alright Rookie! You lose, you prove you're not worthy of this gang. Morgan, if you lose, you get less debt off your account. Sounds fair?"
-    xv "Alright Rookie! You lose, you prove you're not worthy of this gang. Morgan, if you lose, you get less debt off your account. Sounds fair?"
+    xv "好吧，菜鸟！要是你输了，就证明你不配加入这个帮派。摩根，如果你输了，你的账户上的债务就会减少。听起来公平吗？"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:564
 translate chinese b1c08ss09_a957ac8c:
 
     # zp "Hardly."
-    zp "Hardly."
+    zp "不公平。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:567
 translate chinese b1c08ss09_76076ef0:
 
     # "You and Morgan remain silent."
-    "You and Morgan remain silent."
+    "你和摩根保持沉默。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:569
 translate chinese b1c08ss09_4f6aac04:
 
     # fox "Fighters, ready your stances!"
-    fox "Fighters, ready your stances!"
+    fox "战士们，做好准备！"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:573
 translate chinese b1c08ss09_12d3564c:
 
     # fox "Fight fair and fight strong. May the best win."
-    fox "Fight fair and fight strong. May the best win."
+    fox "公平决斗，强者为尊。愿强者获胜。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:576
 translate chinese b1c08ss09_d709091b:
 
     # fox "And fight!"
-    fox "And fight!"
+    fox "战斗开始！"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:578
 translate chinese b1c08ss09_0691aa58:
 
     # "You set your jaw, watching Morgan's every move as she circles you, looking for an opening, a weakness to take advantage of."
-    "You set your jaw, watching Morgan's every move as she circles you, looking for an opening, a weakness to take advantage of."
+    "你咬紧牙关，观察着摩根的一举一动，她围着你转圈，寻找你的破绽和弱点。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:580
 translate chinese b1c08ss09_5a19ae1a:
 
     # "Her jaw is set, her muscles taut as she shifts around you. Morgan's fiery gaze holds a mix of determination and adrenaline as she squares her shoulders."
-    "Her jaw is set, her muscles taut as she shifts around you. Morgan's fiery gaze holds a mix of determination and adrenaline as she squares her shoulders."
+    "她围着你转来转去，她的下巴和肌肉都绷得紧紧的。摩根挺直了肩膀，她炽热的目光中蕴含着决心和肾上腺素。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:584
 translate chinese b1c08ss09_aa653c38:
 
     # "Without warning, Morgan lunges forward with startling speed, launching a rapid flurry of punches aimed at your head and torso."
-    "Without warning, Morgan lunges forward with startling speed, launching a rapid flurry of punches aimed at your head and torso."
+    "摩根毫无征兆地以惊人的速度向前猛冲，向你的头部和躯干发起一连串的猛击。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:588
 translate chinese b1c08ss09_ee00f449:
 
     # "You block and evade with impressive agility, your movements precise and calculated."
-    "You block and evade with impressive agility, your movements precise and calculated."
+    "你的挡格和闪避非常敏捷，你的动作精准而有计划。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:589
 translate chinese b1c08ss09_bb29d68c:
 
     # "The onslaught of Morgan's intense strikes seems to go on forever. You and her, locked in a dance of advance and evade. Evenly matched."
-    "The onslaught of Morgan's intense strikes seems to go on forever. You and her, locked in a dance of advance and evade. Evenly matched."
+    "摩根的猛烈攻击似乎永远不会停止。你和她，在前进和躲避中紧紧相逼。势均力敌。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:593
 translate chinese b1c08ss09_49dd175c:
 
     # mct "She's started off so strong... Maybe if I let her wear herself out, I can find an opening."
-    mct "She's started off so strong... Maybe if I let her wear herself out, I can find an opening."
+    mct "她一开始就很强势...也许我让她把自己累垮的话，就能找到一个突破口。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:595
 translate chinese b1c08ss09_5b15f653:
 
     # "A pit settles in your stomach at the situation, at the ruthless strategy you have to use to take Morgan down."
-    "A pit settles in your stomach at the situation, at the ruthless strategy you have to use to take Morgan down."
+    "想到你要用无情的策略扳倒摩根，面对这种局面，你觉得胃里十分难受。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:596
 translate chinese b1c08ss09_59bd841b:
 
     # "Fighting Morgan, the woman who'd shown you kindness and vulnerability despite her impressive strength, seems like an unfair circumstance."
-    "Fighting Morgan, the woman who'd shown you kindness and vulnerability despite her impressive strength, seems like an unfair circumstance."
+    "尽管摩根有着惊人的力量，她却对你表现出善良和脆弱，这样和她战斗，似乎是不公平的。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:597
 translate chinese b1c08ss09_01987f78:
 
     # "All because of Xasan's wounded pride."
-    "All because of Xasan's wounded pride."
+    "都是因为哈桑的自尊心受到了伤害。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:599
 translate chinese b1c08ss09_72709711:
 
     # mct "I can't go all out on Morgan. Corinne would have my head on a stick."
-    mct "I can't go all out on Morgan. Corinne would have my head on a stick."
+    mct "我不能使出全力对付摩根。科琳会把我的头砍下来的。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:600
 translate chinese b1c08ss09_ecfd8413:
 
     # mct "I just need to use enough force to win."
-    mct "I just need to use enough force to win."
+    mct "我只需要用足够的力量取胜。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:609
 translate chinese b1c08ss09_c6231c82:
 
     # "This violent dance can't go on forever. Eventually one of you will need to start doing damage."
-    "This violent dance can't go on forever. Eventually one of you will need to start doing damage."
+    "你们俩的这种周旋不可能永远持续下去。最终你们中的一个必须开始造成伤害。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:611
 translate chinese b1c08ss09_78d01174:
 
     # "Morgan throws another punch, but misses."
-    "Morgan throws another punch, but misses."
+    "摩根又出了一拳，但没打到你。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:616
 translate chinese b1c08ss09_cb97deff:
 
     # "You seize this opening and deliver a powerful roundhouse kick, aiming for Morgan's torso."
-    "You seize this opening and deliver a powerful roundhouse kick, aiming for Morgan's torso."
+    "你抓住这个机会使出一记有力的回旋踢，瞄准摩根的躯干。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:617
 translate chinese b1c08ss09_09178930:
 
     # "Morgan mirrors your movement at the same time, and blocks your kick."
-    "Morgan mirrors your movement at the same time, and blocks your kick."
+    "摩根同时模仿你的动作，挡住了你的踢腿。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:620
 translate chinese b1c08ss09_577cc90f:
 
     # "She shoots you a proud smile."
-    "She shoots you a proud smile."
+    "她向你报以得意的微笑。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:624
 translate chinese b1c08ss09_0607b9f6:
 
     # "Morgan counters with a swift low kick to your lower leg, intending to knock you off balance."
-    "Morgan counters with a swift low kick to your lower leg, intending to knock you off balance."
+    "摩根用一脚快速的低踢反击你的小腿，想让你失去平衡。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:628
 translate chinese b1c08ss09_0aa43cf7:
 
     # "Morgan's low kick connects, and you go down on one knee before her."
-    "Morgan's low kick connects, and you go down on one knee before her."
+    "摩根的低踢击中了你，你在她面前单膝跪地。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:632
 translate chinese b1c08ss09_19f7e037:
 
     # "The blood pounds in your ears as you look up at her powerful form, ruthless and relentless in its pursuit of the win."
-    "The blood pounds in your ears as you look up at her powerful form, ruthless and relentless in its pursuit of the win."
+    "当你抬头仰望她强壮的身躯时，你耳边的血液都在沸腾。她无情而不懈地追求着胜利。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:636
 translate chinese b1c08ss09_02b66965:
 
     # "You feel the fight ring vibrate with all of Morgan's force as her punch lands into the ground."
-    "You feel the fight ring vibrate with all of Morgan's force as her punch lands into the ground."
+    "当摩根的拳头落在地上时，你感觉拳击台都在震动。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:638
 translate chinese b1c08ss09_7e3c20b7:
 
     # mct "Thank fuck she missed me."
-    mct "Thank fuck she missed me."
+    mct "谢天谢地她没打中我。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:641
 translate chinese b1c08ss09_175a5f42:
 
     # "Your technique and Morgan's ferocity clash in a breathtaking display of skill and raw, unbridled strength."
-    "Your technique and Morgan's ferocity clash in a breathtaking display of skill and raw, unbridled strength."
+    "你的技巧相对摩根的凶猛，碰撞出令人叹为观止的火花，你们共同展现了惊人的技巧和原始不羁的力量。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:653
 translate chinese b1c08ss09_745d3795:
 
     # "The fluid exchange of blows between you and Morgan seems endless. The intensity grows instead of dissipates, and you find yourself impressed with such an indomitable fighter."
-    "The fluid exchange of blows between you and Morgan seems endless. The intensity grows instead of dissipates, and you find yourself impressed with such an indomitable fighter."
+    "你和摩根之间的打斗似乎没完没了。战斗强度不减反增，你发现自己对这样一个不屈不挠的斗士印象深刻。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:662
 translate chinese b1c08ss09_071d39c7:
 
     # "Morgan manages to land a solid uppercut to your jaw."
-    "Morgan manages to land a solid uppercut to your jaw."
+    "摩摩根一记上勾拳击中你的下巴。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:665
 translate chinese b1c08ss09_a338de29:
 
     # "You stagger backward, seeing stars from the brutal shot."
-    "You stagger backward, seeing stars from the brutal shot."
+    "你踉踉跄跄地后退，被这残忍的一击打得眼冒金星。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:669
 translate chinese b1c08ss09_70add9ab:
 
     # "You retaliate with a lightning fast front kick to her abdomen, but she evades it by lurching backward."
-    "You retaliate with a lightning fast front kick to her abdomen, but she evades it by lurching backward."
+    "你以迅雷不及掩耳之势向前踢她的腹部，但她后退躲过一劫。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:670
 translate chinese b1c08ss09_c955ab67:
 
     # "You're both tired and sweaty, now. The excitement of the fight has now simmered down into a desperate, savage need to win."
-    "You're both tired and sweaty, now. The excitement of the fight has now simmered down into a desperate, savage need to win."
+    "现在你们都累得满头大汗。打斗的激情已经平息，变成了一种对胜利的野蛮的渴望。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:671
 translate chinese b1c08ss09_2a043018:
 
     # "Heavy breaths create rhythmic echoes throughout the fight club, punctuated by the sound of fleshy punches."
-    "Heavy breaths create rhythmic echoes throughout the fight club, punctuated by the sound of fleshy punches."
+    "粗重的呼吸声在整个搏击俱乐部里形成有节奏的回声，不时夹杂着肉搏声。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:672
 translate chinese b1c08ss09_c3f6a1cb:
 
     # "And yet, you both persist, desperate for the balance of strength and willpower to lean in your favor."
-    "And yet, you both persist, desperate for the balance of strength and willpower to lean in your favor."
+    "然而，你们都在坚持着，渴望力量和意志力的天平能向对你们有利的方向倾斜。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:677
 translate chinese b1c08ss09_8513e5d8:
 
     # "Morgan knocks the breath out of you by diving at your torso and driving both of you to the ground."
-    "Morgan knocks the breath out of you by diving at your torso and driving both of you to the ground."
+    "摩根猛扑向你的躯干，把你击倒在地，让你喘不过气来。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:681
 translate chinese b1c08ss09_f0c4ed68:
 
     # "She straddles you and delivers blow after blow."
-    "She straddles you and delivers blow after blow."
+    "她跨坐在你身上，一拳接着一拳。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:685
 translate chinese b1c08ss09_4378b0fe:
 
     # "You block the punches, but your strength is weakening with her upperhand."
-    "You block the punches, but your strength is weakening with her upperhand."
+    "你挡住了她的拳头，但她占上风，你的力量越来越弱。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:686
 translate chinese b1c08ss09_c4284496:
 
     # mct "Fuck, fuck! If she keeps at this pace I'll have to tap out. I need to get myself free!"
-    mct "Fuck, fuck! If she keeps at this pace I'll have to tap out. I need to get myself free!"
+    mct "操，操！如果她继续这样下去，我就得认输了。我得让自己挣脱！"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:691
 translate chinese b1c08ss09_99d8e61f:
 
     # "Her strikes are damn near homicidal, and you can't tell if she's still going easy on you or just wants this to be over with."
-    "Her strikes are damn near homicidal, and you can't tell if she's still going easy on you or just wants this to be over with."
+    "她的出招几乎是要逼死人的程度，你不知道她是想让你轻松点，还是想快点结束这一切。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:693
 translate chinese b1c08ss09_6ba7b029:
 
     # "Her strikes hold a barbaric, crude strength that seems endless."
-    "Her strikes hold a barbaric, crude strength that seems endless."
+    "她的攻击蕴含着野蛮粗暴的力量，似乎无穷无尽。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:697
 translate chinese b1c08ss09_0cafc6af:
 
     # "You cannot outlast her. Morgan's savage blows keep repeating, and it seems you're locked in a cage of endless assault."
-    "You cannot outlast her. Morgan's savage blows keep repeating, and it seems you're locked in a cage of endless assault."
+    "你不可能比她坚持得更久。摩根的野蛮殴打不断重复，你似乎被关在一个无休止攻击的笼子里。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:702
 translate chinese b1c08ss09_0ac59815:
 
     # "Morgan's so focused on breaking through your defences, she loses track of her weak points."
-    "Morgan's so focused on breaking through your defences, she loses track of her weak points."
+    "摩根一心只想突破你的防线，却忽略了她自己的弱点。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:703
 translate chinese b1c08ss09_03d90f24:
 
     # "You manage to get your leg hooked around her torso."
-    "You manage to get your leg hooked around her torso."
+    "你设法用腿勾住她的身子。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:704
 translate chinese b1c08ss09_60ecbe81:
 
     # "You flip Morgan over so she's on her back, and straddle her, keeping her pinned down."
-    "You flip Morgan over so she's on her back, and straddle her, keeping her pinned down."
+    "你把摩根翻转过来，让她仰面朝天，然后跨坐在她身上，把她压在身下。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:705
 translate chinese b1c08ss09_74d92095:
 
     # "Her eyes hold a deep resentment at being pinned, and she does her best to wriggle underneath you."
-    "Her eyes hold a deep resentment at being pinned, and she does her best to wriggle underneath you."
+    "她的眼睛里充满了深深的怨恨，她竭尽全力在你身下挣扎。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:706
 translate chinese b1c08ss09_9cfc4727:
 
     # "But you keep her squeezed between your legs, and helpless underneath your weight. All she can do is block your blows."
-    "But you keep her squeezed between your legs, and helpless underneath your weight. All she can do is block your blows."
+    "可你始终把她夹在你两腿之间，让她在你的重压下束手无策。她所能做的就是挡住你的打击。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:710
 translate chinese b1c08ss09_2eab3068:
 
     # "Morgan's strength weakens just enough to allow you a shot at her temple."
-    "Morgan's strength weakens just enough to allow you a shot at her temple."
+    "摩根的力量减弱到足以让你击中她的太阳穴。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:714
 translate chinese b1c08ss09_fc1dcfef:
 
     # "You land the blow, and see her wince in excruciating pain."
-    "You land the blow, and see her wince in excruciating pain."
+    "你一击得手，看到她在剧痛中抽搐。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:717
 translate chinese b1c08ss09_28ebe209:
 
     # "Morgan taps out."
-    "Morgan taps out."
+    "摩根认输了。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:720
 translate chinese b1c08ss09_9f0bfbfc:
 
     # fox "Fighter's stop! Morgan has tapped out."
-    fox "Fighter's stop! Morgan has tapped out."
+    fox "拳击手停手！摩根认输了。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:725
 translate chinese b1c08ss09_35f44622:
 
     # "Your chests heave in unison, both exhausted from the fight."
-    "Your chests heave in unison, both exhausted from the fight."
+    "你们的胸膛不约而同地起伏着，都已筋疲力尽。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:728
 translate chinese b1c08ss09_1b7ba4a7:
 
     # mg "Well I'll be damned. You beat me."
-    mg "Well I'll be damned. You beat me."
+    mg "我真该死。你赢了我。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:729
 translate chinese b1c08ss09_0cfb97e0:
 
     # mg "No hard feelings?"
-    mg "No hard feelings?"
+    mg "不生气吗？"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:733
 translate chinese b1c08ss09_333bec9e:
 
     # mc "Never."
-    mc "Never."
+    mc "从不。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:734
 translate chinese b1c08ss09_e45e423d:
 
     # mc "We both did what we had to. You're a great fighter, Morgan."
-    mc "We both did what we had to. You're a great fighter, Morgan."
+    mc "我们都做了该做的事。你是个伟大的斗士，摩根。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:736
 translate chinese b1c08ss09_88aa3d5a:
 
     # mc "No. No hard feelings."
-    mc "No. No hard feelings."
+    mc "没有。我们之间没有芥蒂。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:739
 translate chinese b1c08ss09_7642c48b:
 
     # "You extend a hand to help Morgan up, and she takes it."
-    "You extend a hand to help Morgan up, and she takes it."
+    "你伸手扶摩根起来，她也接受了。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:740
 translate chinese b1c08ss09_28a6f079:
 
     # "A mutual respect blossoms between you, and you both smile at each other, the respect evident despite the brawl."
-    "A mutual respect blossoms between you, and you both smile at each other, the respect evident despite the brawl."
+    "一种相互尊重的氛围在你们之间悄然流动，你们相视而笑。尽管发生了争吵，但尊重之情溢于言表。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:741
 translate chinese b1c08ss09_c74d7821:
 
     # "Bruises start coloring your skin, almost like lipstick applied by Morgan's fists."
-    "Bruises start coloring your skin, almost like lipstick applied by Morgan's fists."
+    "瘀伤开始爬上你的皮肤，就像摩根的拳头涂上的口红一样。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:744
 translate chinese b1c08ss09_deadc7ad:
 
     # "You both face Xasan with a defiant expression. He may have made you fight against each other, but he did not destroy the comradery between you."
-    "You both face Xasan with a defiant expression. He may have made you fight against each other, but he did not destroy the comradery between you."
+    "你们俩都带着挑衅的表情面对哈桑。他也许做到了让你们彼此争斗，但他没能做到破坏你们之间的友谊。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:745
 translate chinese b1c08ss09_5aac99c0:
 
     # "For the first time, Xasan seems to reconsider you. Something almost—almost, but not quite—like respect crosses his eyes."
-    "For the first time, Xasan seems to reconsider you. Something almost—almost, but not quite—like respect crosses his eyes."
+    "这是第一次，哈桑似乎重新考虑了你。他的眼睛里闪过一种近乎，但又不完全是尊敬的神情。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:747
 translate chinese b1c08ss09_31ef0338:
 
     # xv "Alright rookie, you did it. If you want to earn my respect so bad, you can fight in the ring."
-    xv "Alright rookie, you did it. If you want to earn my respect so bad, you can fight in the ring."
+    xv "好吧，菜鸟，你做到了。如果你这么想赢得我的尊重，就去擂台上一决高下吧。。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:751
 translate chinese b1c08ss09_5f23d83c:
 
     # mg "Can he help me finish collecting my debts?"
-    mg "Can he help me finish collecting my debts?"
+    mg "他能帮我把债收完吗？"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:753
 translate chinese b1c08ss09_423aa8a5:
 
     # xv "Sure. Put this boy to work."
-    xv "Sure. Put this boy to work."
+    xv "当然可以。让这孩子去工作吧。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:755
 translate chinese b1c08ss09_9d4285ea:
 
     # xv "You can also collect debts. There's more to being a fighter than just looking pretty in the ring, rookie."
-    xv "You can also collect debts. There's more to being a fighter than just looking pretty in the ring, rookie."
+    xv "你也可以收债。当拳击手可不仅仅是在擂台上看起来漂亮，菜鸟。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:758
 translate chinese b1c08ss09_c64ff360:
 
     # mc "Can I take others' debts onto my own account?"
-    mc "Can I take others' debts onto my own account?"
+    mc "我可以把别人的债记到自己账上吗？"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:760
 translate chinese b1c08ss09_71862f13:
 
     # xv "Sure, I don't care as long as the debt gets paid."
-    xv "Sure, I don't care as long as the debt gets paid."
+    xv "当然可以，只要能还债，我不在乎。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:762
 translate chinese b1c08ss09_9bf8c187:
 
     # mc "Then let me take on Morgan's debt."
-    mc "Then let me take on Morgan's debt."
+    mc "那就让我来替摩根还债吧。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:765
 translate chinese b1c08ss09_277684eb:
 
     # mg "Hey, are you—"
-    mg "Hey, are you—"
+    mg "嘿，你这是--"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:768
 translate chinese b1c08ss09_725b7ddb:
 
     # mc "Let me do this. You fought well."
-    mc "Let me do this. You fought well."
+    mc "答应我吧。你打得很好。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:771
 translate chinese b1c08ss09_0d092a12:
 
     # mg "Sure, but—"
-    mg "Sure, but—"
+    mg "当然，但是--"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:773
 translate chinese b1c08ss09_f5ecc206:
 
     # xv "The rookie has spoken, Morg. If he wants to dig himself a grave, let him lie in it."
-    xv "The rookie has spoken, Morg. If he wants to dig himself a grave, let him lie in it."
+    xv "菜鸟既然这么说了，摩根。如果他想给自己挖个坟墓，就让他躺在里面吧。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:776
 translate chinese b1c08ss09_99027ef4:
 
     # fox "Well, you're a part of the gang now. This is cause for celebration of our newest member!"
-    fox "Well, you're a part of the gang now. This is cause for celebration of our newest member!"
+    fox "好了，你现在是帮派的一员了。我们可以因此给新成员庆祝一下！"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:779
 translate chinese b1c08ss09_2086b5a4:
 
     # mc "Everything okay?"
-    mc "Everything okay?"
+    mc "一切都好吧？"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:782
 translate chinese b1c08ss09_6a2eab55:
 
     # zp "Yeah. Good fight, by the way. It's just...the amount of weight that's now on your shoulders seems—"
-    zp "Yeah. Good fight, by the way. It's just...the amount of weight that's now on your shoulders seems—"
+    zp "好啊。顺便说一句，打得不错。只是...现在你肩上的担子似乎太重了--"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:785
 translate chinese b1c08ss09_3baf6099:
 
     # mc "Hey, don't worry about that. I can handle it. Let's focus on the celebration, huh?"
-    mc "Hey, don't worry about that. I can handle it. Let's focus on the celebration, huh?"
+    mc "嘿，别担心这个。我能应付。我们还是专心庆祝吧？"
 
 translate chinese strings:
 
     # game/code/Book-1/Chapter-8s/s09.rpy:6
     old "Back at Guns N' Rosette"
-    new "Back at Guns N' Rosette"
+    new "回到枪炮玫瑰酒吧"
 
     # game/code/Book-1/Chapter-8s/s09.rpy:343
     old "I still saved your ass"
-    new "I still saved your ass"
+    new "我还是救了你的命"
 
     # game/code/Book-1/Chapter-8s/s09.rpy:343
     old "I'm alright. It worked out"
-    new "I'm alright. It worked out"
+    new "我没事。问题解决了"
 
     # game/code/Book-1/Chapter-8s/s09.rpy:343
     old "What does this matter?"
-    new "What does this matter?"
+    new "这有什么关系？"
 
