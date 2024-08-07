@@ -4,133 +4,133 @@
 translate chinese b1c08ss11_f054e449:
 
     # "After a day of college classes, you arrive at Morgan's private training area for your scheduled training session."
-    "After a day of college classes, you arrive at Morgan's private training area for your scheduled training session."
+    "一天的大学课程结束后，你来到摩根的私人训练区，开始你预定的训练课程。"
 
 # game/code/Book-1/Chapter-8s/s11.rpy:55
 translate chinese b1c08ss11_60d6c350:
 
     # mg "Ooh! What beautiful new leaves. You really pulled through your troubles with root rot, huh?"
-    mg "Ooh! What beautiful new leaves. You really pulled through your troubles with root rot, huh?"
+    mg "哦！多漂亮的新叶子啊。你真的克服了根腐病的麻烦，是吧？"
 
 # game/code/Book-1/Chapter-8s/s11.rpy:57
 translate chinese b1c08ss11_aa22ccd5:
 
     # "Morgan speaks delicately to her plants, a soft, kind smile on her normally hardened features."
-    "Morgan speaks delicately to her plants, a soft, kind smile on her normally hardened features."
+    "摩根对着她的植物细声细气地说着话，她平时冷酷的脸上露出了柔和亲切的笑容。"
 
 # game/code/Book-1/Chapter-8s/s11.rpy:60
 translate chinese b1c08ss11_c9cc490a:
 
     # "It's nice to see her guard down, just enjoying the simple things."
-    "It's nice to see her guard down, just enjoying the simple things."
+    "很高兴看到她放下戒备，享受简单的生活。"
 
 # game/code/Book-1/Chapter-8s/s11.rpy:63
 translate chinese b1c08ss11_e910bef4:
 
     # mg "Oh, you're here."
-    mg "Oh, you're here."
+    mg "哦，你来了。"
 
 # game/code/Book-1/Chapter-8s/s11.rpy:64
 translate chinese b1c08ss11_0ee3fe83:
 
     # mg "Sorry I didn't notice sooner."
-    mg "Sorry I didn't notice sooner."
+    mg "对不起，我没有早点注意到。"
 
 # game/code/Book-1/Chapter-8s/s11.rpy:67
 translate chinese b1c08ss11_6d0471c5:
 
     # mc "I understand. How are you holding up after...?"
-    mc "I understand. How are you holding up after...?"
+    mc "我明白。你...之后还好吗？"
 
 # game/code/Book-1/Chapter-8s/s11.rpy:70
 translate chinese b1c08ss11_617c4153:
 
     # mg "After that fucking asshole made me fight you?"
-    mg "After that fucking asshole made me fight you?"
+    mg "你说那个混蛋逼我跟你对打之后？"
 
 # game/code/Book-1/Chapter-8s/s11.rpy:71
 translate chinese b1c08ss11_8e61c4b8:
 
     # "Morgan avoids your gaze, anger and shame swirling in her eyes."
-    "Morgan avoids your gaze, anger and shame swirling in her eyes."
+    "摩根避开了你的视线，她的眼中充满了愤怒和羞愧。"
 
 # game/code/Book-1/Chapter-8s/s11.rpy:73
 translate chinese b1c08ss11_23df9fbf:
 
     # mg "We're just a couple of stray mutts in a dog fight, right? Christ."
-    mg "We're just a couple of stray mutts in a dog fight, right? Christ."
+    mg "我们只是一对狗咬狗的流浪狗，对吗？天啊。"
 
 # game/code/Book-1/Chapter-8s/s11.rpy:77
 translate chinese b1c08ss11_13c940dc:
 
     # mc "Hey, it all worked out."
-    mc "Hey, it all worked out."
+    mc "嘿，一切都解决了。"
 
 # game/code/Book-1/Chapter-8s/s11.rpy:80
 translate chinese b1c08ss11_aa94ef03:
 
     # mg "Did it?"
-    mg "Did it?"
+    mg "是吗？"
 
 # game/code/Book-1/Chapter-8s/s11.rpy:81
 translate chinese b1c08ss11_79ca18ff:
 
     # mg "Sometimes I wonder..."
-    mg "Sometimes I wonder..."
+    mg "有时我在想..."
 
 # game/code/Book-1/Chapter-8s/s11.rpy:85
 translate chinese b1c08ss11_286c7919:
 
     # mg "Maybe I shouldn't have roped you into helping me. The debt is a little more manageable now, even though I lost."
-    mg "Maybe I shouldn't have roped you into helping me. The debt is a little more manageable now, even though I lost."
+    mg "也许我不该让你帮我的忙。虽然我输了，但债务现在还能应付。"
 
 # game/code/Book-1/Chapter-8s/s11.rpy:86
 translate chinese b1c08ss11_f497c028:
 
     # mg "Good fighting, by the way. It was almost like you were a totally different fighter."
-    mg "Good fighting, by the way. It was almost like you were a totally different fighter."
+    mg "顺便说一句，打得不错。你好像变成了一个完全不同的拳手。"
 
 # game/code/Book-1/Chapter-8s/s11.rpy:87
 translate chinese b1c08ss11_a5fe2e09:
 
     # mg "Some of those moves weren't even ones I taught you."
-    mg "Some of those moves weren't even ones I taught you."
+    mg "有些动作甚至不是我教你的。"
 
 # game/code/Book-1/Chapter-8s/s11.rpy:90
 translate chinese b1c08ss11_dd2dfdca:
 
     # mc "What can I say? I'm an intuitive learner."
-    mc "What can I say? I'm an intuitive learner."
+    mc "我能说什么呢？我是一个凭直觉学习的人。"
 
 # game/code/Book-1/Chapter-8s/s11.rpy:93
 translate chinese b1c08ss11_6a29148f:
 
     # "You look at Morgan's slumped shoulders and tired eyes."
-    "You look at Morgan's slumped shoulders and tired eyes."
+    "你看着摩根耷拉着的肩膀和疲惫的眼睛。"
 
 # game/code/Book-1/Chapter-8s/s11.rpy:95
 translate chinese b1c08ss11_028b8771:
 
     # mc "You didn't do anything wrong, Morgan. I wanted this."
-    mc "You didn't do anything wrong, Morgan. I wanted this."
+    mc "你没做错什么，摩根。这是我想要的。"
 
 # game/code/Book-1/Chapter-8s/s11.rpy:97
 translate chinese b1c08ss11_329c9b06:
 
     # "Morgan smiles bitterly."
-    "Morgan smiles bitterly."
+    "摩根苦笑着。"
 
 # game/code/Book-1/Chapter-8s/s11.rpy:99
 translate chinese b1c08ss11_c4c6d64d:
 
     # mg "You wanted to be a fighter, eh?"
-    mg "You wanted to be a fighter, eh?"
+    mg "你想成为一名战士，是吗？"
 
 # game/code/Book-1/Chapter-8s/s11.rpy:100
 translate chinese b1c08ss11_e55a582b:
 
     # mg "You wanted a sore body, and to be a part of a gang that barely gives a shit about you?"
-    mg "You wanted a sore body, and to be a part of a gang that barely gives a shit about you?"
+    mg "你想要一个酸痛的身体，还想加入一个几乎没人关心你的帮派？"
 
 # game/code/Book-1/Chapter-8s/s11.rpy:103
 translate chinese b1c08ss11_40d2eecd:
