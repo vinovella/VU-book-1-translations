@@ -42,12 +42,6 @@ translate spanish b1c07ws05_1aa1f529:
     # mc "*Chuckles* [mcname]."
     mc "*Risas* [mcname]."
 
-# game/code/Book-1/Chapter-7w/s05.rpy:83
-translate spanish b1c07ws05_152e7505:
-
-    # ba "The fuck is this prink doing here!?"
-    ba "¡¿Qué mierda está haciendo este imbécil aquí?!"
-
 # game/code/Book-1/Chapter-7w/s05.rpy:86
 translate spanish b1c07ws05_b84be3ab:
 
@@ -95,12 +89,6 @@ translate spanish b1c07ws05_63ab528b:
 
     # sl "Yeah, Brig. Shit, I get your point, but he ain't really done anything wrong either."
     sl "Sí, Brig. Mierda, entiendo tu punto, pero en realidad tampoco ha hecho nada malo."
-
-# game/code/Book-1/Chapter-7w/s05.rpy:114
-translate spanish b1c07ws05_450825fa:
-
-    # sl "Let the guy, stay. Who cares? He's part of the team."
-    sl "Deja que el chico se quede. ¿A quién le importa? Es parte del equipo."
 
 # game/code/Book-1/Chapter-7w/s05.rpy:117
 translate spanish b1c07ws05_17dabcd7:
@@ -474,12 +462,6 @@ translate spanish b1c07ws05_bar_ir_167d0600:
     # ir "But I'm not gonna stop."
     ir "Pero no voy a detener."
 
-# game/code/Book-1/Chapter-7w/s05.rpy:368
-translate spanish b1c07ws05_bar_ir_28fd9410:
-
-    # ir "Something to fuck you up"
-    ir "Algo para hacerte mierda"
-
 # game/code/Book-1/Chapter-7w/s05.rpy:370
 translate spanish b1c07ws05_bar_ir_fd6e855a:
 
@@ -774,18 +756,6 @@ translate spanish b1c07ws05_bar_sex_7c0550f5:
     # "You continue, barely giving her a moment to recover."
     "Continúas, apenas dándole un momento para que se recupere."
 
-# game/code/Book-1/Chapter-7w/s05.rpy:598
-translate spanish b1c07ws05_bar_sex_376f12b7:
-
-    # "You feel her convulsions and rising heat on your finger, making you even more motivated to claim your price."
-    "Sientes sus convulsiones y su calor creciente en tu dedo, lo que te motiva aún más para reclamar tu precio."
-
-# game/code/Book-1/Chapter-7w/s05.rpy:608
-translate spanish b1c07ws05_bar_sex_f0a59c20:
-
-    # "You feel her convulsions and rising heat on your tongue, making you even more motivated to claim your price."
-    "Sientes sus convulsiones y el aumento de calor en tu lengua, lo que te motiva aún más para reclamar tu precio."
-
 # game/code/Book-1/Chapter-7w/s05.rpy:611
 translate spanish b1c07ws05_bar_sex_511590a2:
 
@@ -1050,12 +1020,6 @@ translate spanish b1c07ws05_iona_sex_57e7fc77:
     # ir "*Staggered moans* Ye-yeah, just like that. Fuuuck."
     ir "*Gemidos tambaleantes* Sí, sí, eso es. Mierda."
 
-# game/code/Book-1/Chapter-7w/s05.rpy:826
-translate spanish b1c07ws05_iona_sex_929f87f6:
-
-    # "Not keen on letting you do all the work, she pushes herself onto, each thrust going deeper and deeper."
-    "No dispuesta a dejar que hagas todo el trabajo, ella se empuja a sí misma, cada embestida va más y más profundo."
-
 # game/code/Book-1/Chapter-7w/s05.rpy:829
 translate spanish b1c07ws05_iona_sex_2b6903f1:
 
@@ -1133,12 +1097,6 @@ translate spanish b1c07ws05_iona_sex_9c07af13:
 
     # ir "Nah, it's fine. I wanna stay like this for a bit."
     ir "No, está bien. Quiero quedarme así un rato."
-
-# game/code/Book-1/Chapter-7w/s05.rpy:886
-translate spanish b1c07ws05_iona_sex_ca1cb6c5:
-
-    # ir "Christ. you really gave me a workout today."
-    ir "Cristo. Realmente me diste un entrenamiento hoy."
 
 # game/code/Book-1/Chapter-7w/s05.rpy:892
 translate spanish b1c07ws05_iona_sex_9132eaba:
@@ -1224,6 +1182,48 @@ translate spanish b1c07ws05_iona_sex_50d4fdd6:
     # ir "And I'm gonna make use of that."
     ir "Y voy a hacer uso de eso."
 
+# game/code/Book-1/Chapter-7w/s05.rpy:83
+translate spanish b1c07ws05_f274c616:
+
+    # ba "The fuck is this prick doing here!?"
+    ba "¡¿Qué mierda está haciendo este imbécil aquí?!"
+
+# game/code/Book-1/Chapter-7w/s05.rpy:114
+translate spanish b1c07ws05_6581af95:
+
+    # sl "Let the guy stay. Who cares? He's part of the team."
+    sl "Deja que el chico se quede. ¿A quién le importa? Es parte del equipo."
+
+# game/code/Book-1/Chapter-7w/s05.rpy:369
+translate spanish b1c07ws05_bar_ir_d355694a:
+
+    # ir "Something to fuck you up."
+    ir "Algo para hacerte mierda."
+
+# game/code/Book-1/Chapter-7w/s05.rpy:600
+translate spanish b1c07ws05_bar_sex_e467b66c:
+
+    # "You feel her convulsions and rising heat on your finger, making you even more motivated to claim your prize."
+    "Sientes sus convulsiones y su calor creciente en tu dedo, lo que te motiva aún más para reclamar tu precio."
+
+# game/code/Book-1/Chapter-7w/s05.rpy:610
+translate spanish b1c07ws05_bar_sex_4f4b697b:
+
+    # "You feel her convulsions and rising heat on your tongue, making you even more motivated to claim your prize."
+    "Sientes sus convulsiones y el aumento de calor en tu lengua, lo que te motiva aún más para reclamar tu precio."
+
+# game/code/Book-1/Chapter-7w/s05.rpy:829
+translate spanish b1c07ws05_iona_sex_fe01d4e4:
+
+    # "Not keen on letting you do all the work, she pushes herself onto each thrust going deeper and deeper."
+    "No dispuesta a dejar que hagas todo el trabajo, ella se empuja a sí misma, cada embestida va más y más profundo."
+
+# game/code/Book-1/Chapter-7w/s05.rpy:889
+translate spanish b1c07ws05_iona_sex_4138d4aa:
+
+    # ir "Christ. You really gave me a workout today."
+    ir "Cristo. Realmente me diste un entrenamiento hoy."
+
 translate spanish strings:
 
     # game/code/Book-1/Chapter-7w/s05.rpy:340
@@ -1241,3 +1241,4 @@ translate spanish strings:
     # game/code/Book-1/Chapter-7w/s05.rpy:701
     old "Use the vibrator on Iona"
     new "Usa el vibrador en Iona"
+

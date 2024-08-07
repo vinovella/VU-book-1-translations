@@ -174,12 +174,6 @@ translate spanish b1c07ss12_2ff644f0:
     # mc "Do you know anything about that? Was there anyone who might've had ill will toward Leia?"
     mc "¿Sabes algo de eso? ¿Había alguien que pudiera haber tenido mala voluntad hacia Leia?"
 
-# game/code/Book-1/Chapter-7s/s12.rpy:132
-translate spanish b1c07ss12_0eea04af:
-
-    # cb "No, I don't. I mean, no body really {i}likes{/i} debt collectors, but I never saw anyone who'd wanna harm her."
-    cb "No, no lo hago. Quiero decir, a nadie {i}le gustan{/i} los cobradores de deudas, pero nunca vi a nadie que quisiera hacerle daño."
-
 # game/code/Book-1/Chapter-7s/s12.rpy:134
 translate spanish b1c07ss12_93c5ddf6:
 
@@ -905,6 +899,12 @@ translate spanish b1c07ss12_sex_e095d627:
 
     # cb "Sure thing."
     cb "Cosa segura."
+
+# game/code/Book-1/Chapter-7s/s12.rpy:130
+translate spanish b1c07ss12_101d7545:
+
+    # cb "No, I don't. I mean, nobody really {i}likes{/i} debt collectors, but I never saw anyone who'd wanna harm her."
+    cb "No, no lo hago. Quiero decir, a nadie {i}le gustan{/i} los cobradores de deudas, pero nunca vi a nadie que quisiera hacerle daño."
 
 translate spanish strings:
 

@@ -132,12 +132,6 @@ translate spanish b1c07cs05_98910beb:
     # mc "Exactly. Everyone moves at a different pace. We accept you as you are. Like Delphia said."
     mc "Exactamente. Todos se mueven a un ritmo diferente. Te aceptamos como eres. Como dijo Delphia."
 
-# game/code/Book-1/Chapter-7c/s05.rpy:123
-translate spanish b1c07cs05_4b1f64d1:
-
-    # nv "You're not a burden, Lumi. You're a delight to be around, and we'll however much time is needed to show you how much we care for you."
-    nv "No eres una carga, Lumi. Es un placer tenerla cerca y, sin importar el tiempo que sea necesario, le mostraremos cuánto nos preocupamos por usted."
-
 # game/code/Book-1/Chapter-7c/s05.rpy:126
 translate spanish b1c07cs05_7b5464e0:
 
@@ -875,6 +869,12 @@ translate spanish b1c07cs05_c494303d:
 
     # mc "I'll see you later, Lumi."
     mc "Te veré luego, Lumi."
+
+# game/code/Book-1/Chapter-7c/s05.rpy:123
+translate spanish b1c07cs05_fe0fddec:
+
+    # nv "You're not a burden, Lumi. You're a delight to be around, and we'll be here for as long as needed to show you how much we care for you."
+    nv "No eres una carga, Lumi. Es un placer tenerla cerca y, sin importar el tiempo que sea necesario, le mostraremos cuánto nos preocupamos por usted."
 
 translate spanish strings:
 

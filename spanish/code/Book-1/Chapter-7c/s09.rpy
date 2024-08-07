@@ -198,12 +198,6 @@ translate spanish b1c07cs09_defd7983:
     # ij "Oh, it's just a fancy basement, basically. Y'know, storage of important stuff and info."
     ij "Oh, es sólo un sótano elegante, básicamente. Ya sabes, almacenamiento de cosas importantes e información."
 
-# game/code/Book-1/Chapter-7c/s09.rpy:157
-translate spanish b1c07cs09_21b7c5b8:
-
-    # mct "There's no way it's a faculty type of thing. Diana or the police would've told me, otherwise."
-    mct "Es imposible que sea algo relacionado con la facultad. De lo contrario, Diana o la policía me lo habrían dicho."
-
 # game/code/Book-1/Chapter-7c/s09.rpy:160
 translate spanish b1c07cs09_d77ebd01:
 
@@ -581,6 +575,12 @@ translate spanish b1c07cs09_end_e3cee718:
 
     # mct "Well, I better get back to my dorm. I'll continue this later."
     mct "Bueno, será mejor que vuelva a mi dormitorio. Continuaré con esto más tarde."
+
+# game/code/Book-1/Chapter-7c/s09.rpy:158
+translate spanish b1c07cs09_e9f9fe94:
+
+    # mct "There's no way this is an official part of the university. Diana or the police would've told me, otherwise."
+    mct "There's no way this is an official part of the university. Diana or the police would've told me, otherwise."
 
 translate spanish strings:
 

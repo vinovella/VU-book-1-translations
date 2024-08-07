@@ -336,12 +336,6 @@ translate spanish b1c07ss07_fight_d840f3c0:
     # "Calamity Carnage eagerly makes the first move, and jabs at Morgan's face."
     "Carnicería Calamitosa ansiosamente hace el primer movimiento y golpea la cara de Morgan."
 
-# game/code/Book-1/Chapter-7s/s07.rpy:257
-translate spanish b1c07ss07_fight_90b22f64:
-
-    # "But Morgan dodgest the hit."
-    "Pero Morgan esquiva el golpe."
-
 # game/code/Book-1/Chapter-7s/s07.rpy:263
 translate spanish b1c07ss07_fight_b47cf7a9:
 
@@ -1037,6 +1031,12 @@ translate spanish b1c07ss07_fight_end_7e9ff2c1:
 
     # mct "Hm. Well I guess Quentin's right. I should find something to do while I wait."
     mct "Hm. Bueno, supongo que Quentin tiene razón. Debería encontrar algo que hacer mientras espero."
+
+# game/code/Book-1/Chapter-7s/s07.rpy:257
+translate spanish b1c07ss07_fight_bdcb97af:
+
+    # "But Morgan dodges the hit."
+    "Pero Morgan esquiva el golpe."
 
 translate spanish strings:
 

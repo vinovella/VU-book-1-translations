@@ -180,12 +180,6 @@ translate spanish b1c07ws02_5f69cdc8:
     # "Sam takes in the information and looks like she's connecting multiple dots."
     "Sam asimila la información y parece que está conectando varios puntos."
 
-# game/code/Book-1/Chapter-7w/s02.rpy:126
-translate spanish b1c07ws02_cfebed06:
-
-    # sdl "Oooh That makes a lot of sense actually."
-    sdl "Oooh Eso tiene mucho sentido en realidad."
-
 # game/code/Book-1/Chapter-7w/s02.rpy:128
 translate spanish b1c07ws02_bcfbd1d9:
 
@@ -197,18 +191,6 @@ translate spanish b1c07ws02_39ac235d:
 
     # sdl "I guess I failed to realize that she might throw something small for the team."
     sdl "Supongo que no me di cuenta de que ella podría arrojar algo pequeño para el equipo."
-
-# game/code/Book-1/Chapter-7w/s02.rpy:138
-translate spanish b1c07ws02_68d3ba24:
-
-    # sdl "Interesting Very interesting. This changes some things."
-    sdl "Interesante, muy interesante. Esto cambia algunas cosas."
-
-# game/code/Book-1/Chapter-7w/s02.rpy:139
-translate spanish b1c07ws02_8853df97:
-
-    # sdl "{size=20}This could be a very good opportunity to get back at her{/size}"
-    sdl "{size=20}Esta podría ser una muy buena oportunidad para vengarse de ella.{/size}"
 
 # game/code/Book-1/Chapter-7w/s02.rpy:142
 translate spanish b1c07ws02_11455b53:
@@ -233,12 +215,6 @@ translate spanish b1c07ws02_0121fa8e:
 
     # sdl "Should I suck your dick now?"
     sdl "¿Debería chuparte la polla ahora?"
-
-# game/code/Book-1/Chapter-7w/s02.rpy:161
-translate spanish b1c07ws02_919d5899:
-
-    # mc "*Chuckles* Not that I ever say no to such a generous reward, but I'd prefer to see you on your knees in a place that's {i}not {/i} the floor of a public bathroom."
-    mc "*Risas* No es que nunca diga que no a una recompensa tan generosa, pero preferiría verte de rodillas en un lugar que {i}no sea{/i} el suelo de un baño público."
 
 # game/code/Book-1/Chapter-7w/s02.rpy:164
 translate spanish b1c07ws02_7a76b8fe:
@@ -401,6 +377,30 @@ translate spanish b1c07ws02_f59e3b62:
 
     # sdl "Ba-bye!"
     sdl "¡Adiós!"
+
+# game/code/Book-1/Chapter-7w/s02.rpy:126
+translate spanish b1c07ws02_17e68cd6:
+
+    # sdl "Oooh, that makes a lot of sense actually."
+    sdl "Oooh, eso tiene mucho sentido en realidad."
+
+# game/code/Book-1/Chapter-7w/s02.rpy:138
+translate spanish b1c07ws02_43c0ec22:
+
+    # sdl "Interesting, very interesting. This changes some things."
+    sdl "Interesante, muy interesante. Esto cambia algunas cosas."
+
+# game/code/Book-1/Chapter-7w/s02.rpy:139
+translate spanish b1c07ws02_6e592c46:
+
+    # sdl "{size=20}This could be a very good opportunity to get back at her.{/size}"
+    sdl "{size=20}Esta podría ser una muy buena oportunidad para vengarse de ella.{/size}"
+
+# game/code/Book-1/Chapter-7w/s02.rpy:161
+translate spanish b1c07ws02_9e64b776:
+
+    # mc "*Chuckles* Not that I ever say no to such a generous reward, but I'd prefer to see you on your knees in a place that's {i}not{/i} the floor of a public bathroom."
+    mc "*Risas* No es que nunca diga que no a una recompensa tan generosa, pero preferiría verte de rodillas en un lugar que {i}no sea{/i} el suelo de un baño público."
 
 translate spanish strings:
 

@@ -78,12 +78,6 @@ translate spanish b1c07s04_4f86c7c5:
     # dm "You heard her. Does giving anal on a first date make a girl a slut?"
     dm "La escuchaste. ¿Dar anal en una primera cita convierte a una chica en una puta?"
 
-# game/code/Book-1/Chapter-7/s04.rpy:54
-translate spanish b1c07s04_97fa86ef:
-
-    # mc "No. No, it doesn't"
-    mc "No. No, no lo hace."
-
 # game/code/Book-1/Chapter-7/s04.rpy:57
 translate spanish b1c07s04_82d1b031:
 
@@ -641,4 +635,10 @@ translate spanish b1c07s04_b0fce1cf:
 
     # mct "Maybe I should take her up on her offer... I don't think she's gonna give me a choice regardless at this point."
     mct "Tal vez debería aceptar su oferta... No creo que me dé otra opción a pesar de todo en este momento."
+
+# game/code/Book-1/Chapter-7/s04.rpy:54
+translate spanish b1c07s04_1fb3b13b:
+
+    # mc "No. No, it doesn't."
+    mc "No. No, no lo hace."
 

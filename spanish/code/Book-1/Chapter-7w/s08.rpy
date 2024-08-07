@@ -240,12 +240,6 @@ translate spanish b1c07ws08_dd6cea61:
     # ima "Huh?"
     ima "¿Eh?"
 
-# game/code/Book-1/Chapter-7w/s08.rpy:182
-translate spanish b1c07ws08_3a030f6b:
-
-    # "Finally realizing what she was doing, Isa covers her mouth as an involuntary laugh escapes her."
-    "Al darse cuenta finalmente de lo que estaba haciendo, Isa se tapa la boca mientras se le escapa una risa involuntaria."
-
 # game/code/Book-1/Chapter-7w/s08.rpy:184
 translate spanish b1c07ws08_c78e5594:
 
@@ -605,6 +599,12 @@ translate spanish b1c07ws08_6ed97b0d:
 
     # ima "*Softly chuckles* Thank you."
     ima "*Suavemente se ríe* Gracias."
+
+# game/code/Book-1/Chapter-7w/s08.rpy:183
+translate spanish b1c07ws08_38ca3ef1:
+
+    # "An involuntary laugh escapes her as she finally realizes what she was doing."
+    "An involuntary laugh escapes her as she finally realizes what she was doing."
 
 translate spanish strings:
 
