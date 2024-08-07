@@ -130,7 +130,7 @@ translate chinese b1c08ss04_43040db6:
 translate chinese b1c08ss04_cc08591d:
 
     # fox "Zem's in charge if something happens to you? You've just {i}decided{/i} this without the rest of us?"
-    fox "如果你出了什么事，就由泽菲拉负责？你就这么{/i}决定了{/i}这件事，而不考虑我们其他人？"
+    fox "如果你出了什么事，就由泽菲拉负责？你就这么{i}决定了{/i}这件事，而不考虑我们其他人？"
 
 # game/code/Book-1/Chapter-8s/s04.rpy:117
 translate chinese b1c08ss04_3856866a:
