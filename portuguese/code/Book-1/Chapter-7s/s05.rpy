@@ -372,12 +372,6 @@ translate portuguese b1c07ss05_f992373b:
     # nr "Oh, they {i}so{/i} are!"
     nr "Ah, são e {i}muito{/i}!"
 
-# game/code/Book-1/Chapter-7s/s05.rpy:251
-translate portuguese b1c07ss05_50cf332b:
-
-    # nr "*laughs* Part of the reason I drag them to this bar instead of Guns n Rosette is to keep them out of trouble!"
-    nr "*rindo* Parte da razão de eu trazer eles para esse bar ao invés do Guns n' Rosette é manter eles fora de encrenca!"
-
 # game/code/Book-1/Chapter-7s/s05.rpy:254
 translate portuguese b1c07ss05_38ca9b03:
 
@@ -851,6 +845,12 @@ translate portuguese b1c07ss05_686f09ce:
 
     # mc "See ya guys later."
     mc "Até depois, gente."
+
+# game/code/Book-1/Chapter-7s/s05.rpy:251
+translate portuguese b1c07ss05_578eecb5:
+
+    # nr "*laughs* Part of the reason I drag them to this bar instead of Guns n' Rosette is to keep them out of trouble!"
+    nr "*rindo* Parte da razão de eu trazer eles para esse bar ao invés do Guns n' Rosette é manter eles fora de encrenca!"
 
 translate portuguese strings:
 

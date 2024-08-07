@@ -678,12 +678,6 @@ translate portuguese b1c07ws06_5e06cb8c:
     # sm "I'm glad we got to talk a bit though."
     sm "Mas fico feliz que pudemos conversar um pouco."
 
-# game/code/Book-1/Chapter-7w/s06.rpy:463
-translate portuguese b1c07ws06_a780143d:
-
-    # mc "Yeah, me too. I'm probably gonna head off as well"
-    mc "É, eu também. Provavelmente eu também vou nessa."
-
 # game/code/Book-1/Chapter-7w/s06.rpy:464
 translate portuguese b1c07ws06_e4e6bf55:
 
@@ -702,10 +696,16 @@ translate portuguese b1c07ws06_42b47caf:
     # mct "Hm... Wonder where Isa ran off to?"
     mct "Hmm... Onde será que a Isa foi?"
 
+# game/code/Book-1/Chapter-7w/s06.rpy:463
+translate portuguese b1c07ws06_23a3d009:
+
+    # mc "Yeah, me too. I'm probably gonna head off as well."
+    mc "É, eu também. Provavelmente eu também vou nessa."
+
 translate portuguese strings:
 
     # game/code/Book-1/Chapter-7w/s06.rpy:6
-    old "15 minutes time later"
+    old "15 minutes later"
     new "15 minutos depois"
 
     # game/code/Book-1/Chapter-7w/s06.rpy:113

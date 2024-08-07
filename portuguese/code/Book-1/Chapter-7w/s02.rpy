@@ -180,12 +180,6 @@ translate portuguese b1c07ws02_5f69cdc8:
     # "Sam takes in the information and looks like she's connecting multiple dots."
     "Sam recebe a informação, e parece que ela está conectando os pontinhos."
 
-# game/code/Book-1/Chapter-7w/s02.rpy:126
-translate portuguese b1c07ws02_cfebed06:
-
-    # sdl "Oooh That makes a lot of sense actually."
-    sdl "Aaah, isso até que faz bastante sentido."
-
 # game/code/Book-1/Chapter-7w/s02.rpy:128
 translate portuguese b1c07ws02_bcfbd1d9:
 
@@ -197,18 +191,6 @@ translate portuguese b1c07ws02_39ac235d:
 
     # sdl "I guess I failed to realize that she might throw something small for the team."
     sdl "Acho que não percebi que ela talvez soltasse uma festinha para o time."
-
-# game/code/Book-1/Chapter-7w/s02.rpy:138
-translate portuguese b1c07ws02_68d3ba24:
-
-    # sdl "Interesting Very interesting. This changes some things."
-    sdl "Interessante, muito interessante. Isso muda algumas coisas."
-
-# game/code/Book-1/Chapter-7w/s02.rpy:139
-translate portuguese b1c07ws02_8853df97:
-
-    # sdl "{size=20}This could be a very good opportunity to get back at her{/size}"
-    sdl "{size=20}Essa pode ser uma ótima oportunidade para me vingar dela.{/size}"
 
 # game/code/Book-1/Chapter-7w/s02.rpy:142
 translate portuguese b1c07ws02_11455b53:
@@ -233,12 +215,6 @@ translate portuguese b1c07ws02_0121fa8e:
 
     # sdl "Should I suck your dick now?"
     sdl "Quer que eu dê uma chupetinha agora?"
-
-# game/code/Book-1/Chapter-7w/s02.rpy:161
-translate portuguese b1c07ws02_919d5899:
-
-    # mc "*Chuckles* Not that I ever say no to such a generous reward, but I'd prefer to see you on your knees in a place that's {i}not {/i} the floor of a public bathroom."
-    mc "*Risada* Não que eu recusaria uma recompensa tão generosa, mas eu prefiro te ver de joelhos num lugar que {i}não{/i} é o chão de um banheiro."
 
 # game/code/Book-1/Chapter-7w/s02.rpy:164
 translate portuguese b1c07ws02_7a76b8fe:
@@ -401,6 +377,30 @@ translate portuguese b1c07ws02_f59e3b62:
 
     # sdl "Ba-bye!"
     sdl "Tchauzinho!"
+
+# game/code/Book-1/Chapter-7w/s02.rpy:126
+translate portuguese b1c07ws02_17e68cd6:
+
+    # sdl "Oooh, that makes a lot of sense actually."
+    sdl "Aaah, isso até que faz bastante sentido."
+
+# game/code/Book-1/Chapter-7w/s02.rpy:138
+translate portuguese b1c07ws02_43c0ec22:
+
+    # sdl "Interesting, very interesting. This changes some things."
+    sdl "Interessante, muito interessante. Isso muda algumas coisas."
+
+# game/code/Book-1/Chapter-7w/s02.rpy:139
+translate portuguese b1c07ws02_6e592c46:
+
+    # sdl "{size=20}This could be a very good opportunity to get back at her.{/size}"
+    sdl "{size=20}Essa pode ser uma ótima oportunidade para me vingar dela.{/size}"
+
+# game/code/Book-1/Chapter-7w/s02.rpy:161
+translate portuguese b1c07ws02_9e64b776:
+
+    # mc "*Chuckles* Not that I ever say no to such a generous reward, but I'd prefer to see you on your knees in a place that's {i}not{/i} the floor of a public bathroom."
+    mc "*Risada* Não que eu recusaria uma recompensa tão generosa, mas eu prefiro te ver de joelhos num lugar que {i}não{/i} é o chão de um banheiro."
 
 translate portuguese strings:
 

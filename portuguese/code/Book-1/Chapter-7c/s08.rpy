@@ -72,12 +72,6 @@ translate portuguese b1c07cs08_38a8feab:
     # mc "But I, for one, thought you looked very free and confident in your skin."
     mc "Mas diga-se de passagem, eu achei que você estava bem confiante."
 
-# game/code/Book-1/Chapter-7c/s08.rpy:48
-translate portuguese b1c07cs08_4bc4d8b3:
-
-    # mct "That has to count for something, right?"
-    mct "Isso tem que contar para alguma coisa, né?"
-
 # game/code/Book-1/Chapter-7c/s08.rpy:53
 translate portuguese b1c07cs08_a2ee496e:
 

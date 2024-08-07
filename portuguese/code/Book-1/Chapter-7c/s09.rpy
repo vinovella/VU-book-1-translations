@@ -198,12 +198,6 @@ translate portuguese b1c07cs09_defd7983:
     # ij "Oh, it's just a fancy basement, basically. Y'know, storage of important stuff and info."
     ij "Ah, é só tipo um porão chique. Sabe, onde se guarda coisas importantes e informações."
 
-# game/code/Book-1/Chapter-7c/s09.rpy:157
-translate portuguese b1c07cs09_21b7c5b8:
-
-    # mct "There's no way it's a faculty type of thing. Diana or the police would've told me, otherwise."
-    mct "De forma alguma que isso é algo para a equipe daqui. A Diana ou a polícia teriam me contado se fosse."
-
 # game/code/Book-1/Chapter-7c/s09.rpy:160
 translate portuguese b1c07cs09_d77ebd01:
 
@@ -581,6 +575,12 @@ translate portuguese b1c07cs09_end_e3cee718:
 
     # mct "Well, I better get back to my dorm. I'll continue this later."
     mct "Bom, é melhor voltar para o meu quarto. Depois continuo isso."
+
+# game/code/Book-1/Chapter-7c/s09.rpy:158
+translate portuguese b1c07cs09_e9f9fe94:
+
+    # mct "There's no way this is an official part of the university. Diana or the police would've told me, otherwise."
+    mct "There's no way this is an official part of the university. Diana or the police would've told me, otherwise."
 
 translate portuguese strings:
 

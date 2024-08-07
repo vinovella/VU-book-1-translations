@@ -72,12 +72,6 @@ translate portuguese b1c07ws01_aa03a0f1:
     # mc "Hey, g'morning. I didn't know I was getting my uniform today."
     mc "Opa, bom dia. Eu não sabia que ia receber o uniforme hoje."
 
-# game/code/Book-1/Chapter-7w/s01.rpy:85
-translate portuguese b1c07ws01_43c5dee3:
-
-    # sm "Yeah Sorry, I kinda sprang it on you out of nowhere."
-    sm "É, foi mal. Eu meio que joguei isso para você do nada."
-
 # game/code/Book-1/Chapter-7w/s01.rpy:87
 translate portuguese b1c07ws01_24822aa2:
 
@@ -203,12 +197,6 @@ translate portuguese b1c07ws01_measurement_af3144e0:
 
     # ir "Don't you think [mcname] should remove his shirt for a more accurate measurement, Silvia?"
     ir "Sílvia, você não acha que o [mcname] devia tirar a camisa para ter uma medida mais certa?"
-
-# game/code/Book-1/Chapter-7w/s01.rpy:199
-translate portuguese b1c07ws01_measurement_fd10d188:
-
-    # sm "Well That would be best to get a perfect fit, but I can jus—"
-    sm "Bem, seria melhor para ter a medida perfeita, mas eu posso-"
 
 # game/code/Book-1/Chapter-7w/s01.rpy:202
 translate portuguese b1c07ws01_measurement_a79af823:
@@ -425,6 +413,18 @@ translate portuguese b1c07ws01_measurement_66a5117a:
 
     # mc "*Chuckles*"
     mc "*Risada*"
+
+# game/code/Book-1/Chapter-7w/s01.rpy:85
+translate portuguese b1c07ws01_e2eaa01f:
+
+    # sm "Yeah sorry, I kinda sprang it on you out of nowhere."
+    sm "É, foi mal. Eu meio que joguei isso para você do nada."
+
+# game/code/Book-1/Chapter-7w/s01.rpy:199
+translate portuguese b1c07ws01_measurement_69f76bbc:
+
+    # sm "Well, that would be best to get a perfect fit, but I can jus—"
+    sm "Bem, seria melhor para ter a medida perfeita, mas eu posso-"
 
 translate portuguese strings:
 

@@ -6,12 +6,6 @@ translate portuguese b1c07ss06_a440e6e2:
     # mct "I guess this is the right place..."
     mct "Acho que esse é o lugar certo..."
 
-# game/code/Book-1/Chapter-7s/s06.rpy:16
-translate portuguese b1c07ss06_6410c04a:
-
-    # mct "Not sure what I expected, but Rory living in the rougher part of town wasn't it."
-    mct "Não sei o que eu esperava, mas Rory morar numa parte mais embaçada da cidade certamente não fazia parte."
-
 # game/code/Book-1/Chapter-7s/s06.rpy:20
 translate portuguese b1c07ss06_489b3bd7:
 
@@ -84,23 +78,11 @@ translate portuguese b1c07ss06_86e0d17d:
     # mc "Oh. Apologies for disturbing you, miss. I assumed I was looking for a man."
     mc "Ah. Perdão o incômodo, moça. Achei que eu estivesse procurando um homem."
 
-# game/code/Book-1/Chapter-7s/s06.rpy:47
-translate portuguese b1c07ss06_5ee7d56e:
-
-    # mct "Do I have the right Rory? Everyone has described Rory as male..."
-    mct "Essa é a Rory certa? Todo mundo descreveu Rory como um homem..."
-
 # game/code/Book-1/Chapter-7s/s06.rpy:50
 translate portuguese b1c07ss06_b4a82557:
 
     # rg "It's okay. On paper, I was born male."
     rg "Tudo bem. No papel, eu nasci homem."
-
-# game/code/Book-1/Chapter-7s/s06.rpy:51
-translate portuguese b1c07ss06_9dbe42ba:
-
-    # mct "Ah, so she's transgender."
-    mct "Ah, então ela é trans."
 
 # game/code/Book-1/Chapter-7s/s06.rpy:52
 translate portuguese b1c07ss06_23c62da2:

@@ -78,12 +78,6 @@ translate portuguese b1c07s04_4f86c7c5:
     # dm "You heard her. Does giving anal on a first date make a girl a slut?"
     dm "Você ouviu. Anal no primeiro encontro quer dizer que a garota uma vadia?"
 
-# game/code/Book-1/Chapter-7/s04.rpy:54
-translate portuguese b1c07s04_97fa86ef:
-
-    # mc "No. No, it doesn't"
-    mc "Não. Não quer."
-
 # game/code/Book-1/Chapter-7/s04.rpy:57
 translate portuguese b1c07s04_82d1b031:
 
@@ -641,4 +635,10 @@ translate portuguese b1c07s04_b0fce1cf:
 
     # mct "Maybe I should take her up on her offer... I don't think she's gonna give me a choice regardless at this point."
     mct "Talvez eu devesse aceitar a oferta dela... Duvido que ela vai me dar uma escolha a essa altura."
+
+# game/code/Book-1/Chapter-7/s04.rpy:54
+translate portuguese b1c07s04_1fb3b13b:
+
+    # mc "No. No, it doesn't."
+    mc "Não. Não quer."
 

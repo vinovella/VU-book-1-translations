@@ -132,12 +132,6 @@ translate portuguese b1c07cs05_98910beb:
     # mc "Exactly. Everyone moves at a different pace. We accept you as you are. Like Delphia said."
     mc "Isso. Todo mundo tem o seu próprio tempo. Nós te aceitamos como você é. Que nem a Delphia disse."
 
-# game/code/Book-1/Chapter-7c/s05.rpy:123
-translate portuguese b1c07cs05_4b1f64d1:
-
-    # nv "You're not a burden, Lumi. You're a delight to be around, and we'll however much time is needed to show you how much we care for you."
-    nv "Você não é um estorvo, Lumi. É muito legal ter você por perto, e vamos usar o tempo quer for necessário para te mostrar o quanto nos importamos com você."
-
 # game/code/Book-1/Chapter-7c/s05.rpy:126
 translate portuguese b1c07cs05_7b5464e0:
 
@@ -875,6 +869,12 @@ translate portuguese b1c07cs05_c494303d:
 
     # mc "I'll see you later, Lumi."
     mc "Te vejo depois, Lumi."
+
+# game/code/Book-1/Chapter-7c/s05.rpy:123
+translate portuguese b1c07cs05_fe0fddec:
+
+    # nv "You're not a burden, Lumi. You're a delight to be around, and we'll be here for as long as needed to show you how much we care for you."
+    nv "Você não é um estorvo, Lumi. É muito legal ter você por perto, e vamos usar o tempo quer for necessário para te mostrar o quanto nos importamos com você."
 
 translate portuguese strings:
 
