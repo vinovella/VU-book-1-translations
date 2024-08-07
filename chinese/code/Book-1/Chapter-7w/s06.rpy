@@ -678,12 +678,6 @@ translate chinese b1c07ws06_5e06cb8c:
     # sm "I'm glad we got to talk a bit though."
     sm "不过我很高兴我们能聊一聊。"
 
-# game/code/Book-1/Chapter-7w/s06.rpy:463
-translate chinese b1c07ws06_a780143d:
-
-    # mc "Yeah, me too. I'm probably gonna head off as well"
-    mc "我也是，我可能也要走了。"
-
 # game/code/Book-1/Chapter-7w/s06.rpy:464
 translate chinese b1c07ws06_e4e6bf55:
 
@@ -702,11 +696,13 @@ translate chinese b1c07ws06_42b47caf:
     # mct "Hm... Wonder where Isa ran off to?"
     mct "嗯...不知道艾萨跑哪儿去了？"
 
-translate chinese strings:
+# game/code/Book-1/Chapter-7w/s06.rpy:463
+translate chinese b1c07ws06_23a3d009:
 
-    # game/code/Book-1/Chapter-7w/s06.rpy:6
-    old "15 minutes time later"
-    new "15分钟后"
+    # mc "Yeah, me too. I'm probably gonna head off as well."
+    mc "我也是，我可能也要走了。"
+
+translate chinese strings:
 
     # game/code/Book-1/Chapter-7w/s06.rpy:113
     old "Try to hit near Monika's dart to make her feel better"
@@ -723,4 +719,8 @@ translate chinese strings:
     # game/code/Book-1/Chapter-7w/s06.rpy:228
     old "I bet you could even become our team's coach someday"
     new "我打赌你将来甚至可以成为我们球队的教练"
+
+    # game/code/Book-1/Chapter-7w/s06.rpy:6
+    old "15 minutes later"
+    new "15 minutes later"
 

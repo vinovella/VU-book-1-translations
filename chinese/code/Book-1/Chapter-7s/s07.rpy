@@ -336,12 +336,6 @@ translate chinese b1c07ss07_fight_d840f3c0:
     # "Calamity Carnage eagerly makes the first move, and jabs at Morgan's face."
     "灾星大屠杀，迫不及待地先发制人，猛击摩根的脸。"
 
-# game/code/Book-1/Chapter-7s/s07.rpy:257
-translate chinese b1c07ss07_fight_90b22f64:
-
-    # "But Morgan dodgest the hit."
-    "但摩根躲过了这一击。"
-
 # game/code/Book-1/Chapter-7s/s07.rpy:263
 translate chinese b1c07ss07_fight_b47cf7a9:
 
@@ -1037,6 +1031,12 @@ translate chinese b1c07ss07_fight_end_7e9ff2c1:
 
     # mct "Hm. Well I guess Quentin's right. I should find something to do while I wait."
     mct "嗯，我想昆汀说得对。等芙蓉的时候我得找点事做。"
+
+# game/code/Book-1/Chapter-7s/s07.rpy:257
+translate chinese b1c07ss07_fight_bdcb97af:
+
+    # "But Morgan dodges the hit."
+    "但摩根躲过了这一击。"
 
 translate chinese strings:
 

@@ -72,12 +72,6 @@ translate chinese b1c07cs08_38a8feab:
     # mc "But I, for one, thought you looked very free and confident in your skin."
     mc "但我觉得，你对于自己做的事看起来非常自由且自信。"
 
-# game/code/Book-1/Chapter-7c/s08.rpy:48
-translate chinese b1c07cs08_4bc4d8b3:
-
-    # mct "That has to count for something, right?"
-    mct "这一定有其意义，对吧？"
-
 # game/code/Book-1/Chapter-7c/s08.rpy:53
 translate chinese b1c07cs08_a2ee496e:
 

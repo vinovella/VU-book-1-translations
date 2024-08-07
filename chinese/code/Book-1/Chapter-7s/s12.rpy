@@ -174,12 +174,6 @@ translate chinese b1c07ss12_2ff644f0:
     # mc "Do you know anything about that? Was there anyone who might've had ill will toward Leia?"
     mc "你知道这件事吗？有没有人可能对莱娅有恶意？"
 
-# game/code/Book-1/Chapter-7s/s12.rpy:132
-translate chinese b1c07ss12_0eea04af:
-
-    # cb "No, I don't. I mean, no body really {i}likes{/i} debt collectors, but I never saw anyone who'd wanna harm her."
-    cb "我不知道。我是说，没有人真的{i}喜欢{/i}讨债人，但我从没见过有谁想伤害她。"
-
 # game/code/Book-1/Chapter-7s/s12.rpy:134
 translate chinese b1c07ss12_93c5ddf6:
 
@@ -905,6 +899,12 @@ translate chinese b1c07ss12_sex_e095d627:
 
     # cb "Sure thing."
     cb "没问题。"
+
+# game/code/Book-1/Chapter-7s/s12.rpy:130
+translate chinese b1c07ss12_101d7545:
+
+    # cb "No, I don't. I mean, nobody really {i}likes{/i} debt collectors, but I never saw anyone who'd wanna harm her."
+    cb "我不知道。我是说，没有人真的{i}喜欢{/i}讨债人，但我从没见过有谁想伤害她。"
 
 translate chinese strings:
 

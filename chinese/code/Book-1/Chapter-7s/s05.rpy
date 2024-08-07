@@ -372,12 +372,6 @@ translate chinese b1c07ss05_f992373b:
     # nr "Oh, they {i}so{/i} are!"
     nr "哦，他们{i}的确{/i}是！"
 
-# game/code/Book-1/Chapter-7s/s05.rpy:251
-translate chinese b1c07ss05_50cf332b:
-
-    # nr "*laughs* Part of the reason I drag them to this bar instead of Guns n Rosette is to keep them out of trouble!"
-    nr "*笑* 我之所以把他们拉到这个酒吧，而不是枪炮玫瑰那里，部分原因就是为了不让她们惹麻烦！"
-
 # game/code/Book-1/Chapter-7s/s05.rpy:254
 translate chinese b1c07ss05_38ca9b03:
 
@@ -851,6 +845,12 @@ translate chinese b1c07ss05_686f09ce:
 
     # mc "See ya guys later."
     mc "回头见"
+
+# game/code/Book-1/Chapter-7s/s05.rpy:251
+translate chinese b1c07ss05_578eecb5:
+
+    # nr "*laughs* Part of the reason I drag them to this bar instead of Guns n' Rosette is to keep them out of trouble!"
+    nr "*笑* 我之所以把他们拉到这个酒吧，而不是枪炮玫瑰那里，部分原因就是为了不让她们惹麻烦！"
 
 translate chinese strings:
 

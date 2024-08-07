@@ -132,12 +132,6 @@ translate chinese b1c07cs05_98910beb:
     # mc "Exactly. Everyone moves at a different pace. We accept you as you are. Like Delphia said."
     mc "没错。每个人的步调都不一样。就像德尔菲娅说的那样，我们接受你现在的样子。"
 
-# game/code/Book-1/Chapter-7c/s05.rpy:123
-translate chinese b1c07cs05_4b1f64d1:
-
-    # nv "You're not a burden, Lumi. You're a delight to be around, and we'll however much time is needed to show you how much we care for you."
-    nv "你不是负担，卢米。你是我们的开心果，不管需要多少时间，我们都会让你知道我们有多在乎你。"
-
 # game/code/Book-1/Chapter-7c/s05.rpy:126
 translate chinese b1c07cs05_7b5464e0:
 
@@ -875,6 +869,12 @@ translate chinese b1c07cs05_c494303d:
 
     # mc "I'll see you later, Lumi."
     mc "回头见，卢米。"
+
+# game/code/Book-1/Chapter-7c/s05.rpy:123
+translate chinese b1c07cs05_fe0fddec:
+
+    # nv "You're not a burden, Lumi. You're a delight to be around, and we'll be here for as long as needed to show you how much we care for you."
+    nv "你不是负担，卢米。你是我们的开心果，不管需要多少时间，我们都会让你知道我们有多在乎你。"
 
 translate chinese strings:
 

@@ -198,12 +198,6 @@ translate chinese b1c07cs09_defd7983:
     # ij "Oh, it's just a fancy basement, basically. Y'know, storage of important stuff and info."
     ij "哦，基本上就是个豪华地下室。你知道的，就是存放重要东西和信息的地方。"
 
-# game/code/Book-1/Chapter-7c/s09.rpy:157
-translate chinese b1c07cs09_21b7c5b8:
-
-    # mct "There's no way it's a faculty type of thing. Diana or the police would've told me, otherwise."
-    mct "这个地方不可能属于教职员工。否则戴安娜或警察会告诉我的。"
-
 # game/code/Book-1/Chapter-7c/s09.rpy:160
 translate chinese b1c07cs09_d77ebd01:
 
@@ -581,6 +575,12 @@ translate chinese b1c07cs09_end_e3cee718:
 
     # mct "Well, I better get back to my dorm. I'll continue this later."
     mct "好了，我得回宿舍了。回头再继续调查。"
+
+# game/code/Book-1/Chapter-7c/s09.rpy:158
+translate chinese b1c07cs09_e9f9fe94:
+
+    # mct "There's no way this is an official part of the university. Diana or the police would've told me, otherwise."
+    mct "There's no way this is an official part of the university. Diana or the police would've told me, otherwise."
 
 translate chinese strings:
 

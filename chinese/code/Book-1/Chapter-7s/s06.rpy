@@ -6,12 +6,6 @@ translate chinese b1c07ss06_a440e6e2:
     # mct "I guess this is the right place..."
     mct "我想这就是我要找的地方..."
 
-# game/code/Book-1/Chapter-7s/s06.rpy:16
-translate chinese b1c07ss06_6410c04a:
-
-    # mct "Not sure what I expected, but Rory living in the rougher part of town wasn't it."
-    mct "不确定我在期待什么，但罗里生活在镇上最困难的地方并不是这样。"
-
 # game/code/Book-1/Chapter-7s/s06.rpy:20
 translate chinese b1c07ss06_489b3bd7:
 
@@ -84,23 +78,11 @@ translate chinese b1c07ss06_86e0d17d:
     # mc "Oh. Apologies for disturbing you, miss. I assumed I was looking for a man."
     mc "哦，抱歉打扰你了，小姐。我以为我在找一个男人。"
 
-# game/code/Book-1/Chapter-7s/s06.rpy:47
-translate chinese b1c07ss06_5ee7d56e:
-
-    # mct "Do I have the right Rory? Everyone has described Rory as male..."
-    mct "我找的是这个罗里吗？大家都说罗里是男的..."
-
 # game/code/Book-1/Chapter-7s/s06.rpy:50
 translate chinese b1c07ss06_b4a82557:
 
     # rg "It's okay. On paper, I was born male."
     rg "没关系。从纸面上看，我生来就是男性。"
-
-# game/code/Book-1/Chapter-7s/s06.rpy:51
-translate chinese b1c07ss06_9dbe42ba:
-
-    # mct "Ah, so she's transgender."
-    mct "啊，原来她是变性人。"
 
 # game/code/Book-1/Chapter-7s/s06.rpy:52
 translate chinese b1c07ss06_23c62da2:

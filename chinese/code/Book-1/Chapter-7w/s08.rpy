@@ -240,12 +240,6 @@ translate chinese b1c07ws08_dd6cea61:
     # ima "Huh?"
     ima "啊？"
 
-# game/code/Book-1/Chapter-7w/s08.rpy:182
-translate chinese b1c07ws08_3a030f6b:
-
-    # "Finally realizing what she was doing, Isa covers her mouth as an involuntary laugh escapes her."
-    "艾萨终于意识到自己在做什么，她捂住嘴，不由自主地笑出声来。"
-
 # game/code/Book-1/Chapter-7w/s08.rpy:184
 translate chinese b1c07ws08_c78e5594:
 
@@ -619,4 +613,12 @@ translate chinese strings:
     # game/code/Book-1/Chapter-7w/s08.rpy:187
     old "I think you've had too much to drink"
     new "我想你喝多了"
+
+# TODO: Translation updated at 2024-08-07 22:56
+
+# game/code/Book-1/Chapter-7w/s08.rpy:183
+translate chinese b1c07ws08_38ca3ef1:
+
+    # "An involuntary laugh escapes her as she finally realizes what she was doing."
+    "An involuntary laugh escapes her as she finally realizes what she was doing."
 

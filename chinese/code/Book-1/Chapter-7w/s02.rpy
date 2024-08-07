@@ -180,12 +180,6 @@ translate chinese b1c07ws02_5f69cdc8:
     # "Sam takes in the information and looks like she's connecting multiple dots."
     "萨姆在消化信息，看起来她正在把多个线索联系起来。"
 
-# game/code/Book-1/Chapter-7w/s02.rpy:126
-translate chinese b1c07ws02_cfebed06:
-
-    # sdl "Oooh That makes a lot of sense actually."
-    sdl "哦，这其实很有道理。"
-
 # game/code/Book-1/Chapter-7w/s02.rpy:128
 translate chinese b1c07ws02_bcfbd1d9:
 
@@ -197,18 +191,6 @@ translate chinese b1c07ws02_39ac235d:
 
     # sdl "I guess I failed to realize that she might throw something small for the team."
     sdl "看来我没有意识到，她可能会为团队举办一些小型活动。"
-
-# game/code/Book-1/Chapter-7w/s02.rpy:138
-translate chinese b1c07ws02_68d3ba24:
-
-    # sdl "Interesting Very interesting. This changes some things."
-    sdl "有趣，非常有趣，有些事要改变一下了。"
-
-# game/code/Book-1/Chapter-7w/s02.rpy:139
-translate chinese b1c07ws02_8853df97:
-
-    # sdl "{size=20}This could be a very good opportunity to get back at her{/size}"
-    sdl "{size=20}这可能是报复她的好机会{/size}"
 
 # game/code/Book-1/Chapter-7w/s02.rpy:142
 translate chinese b1c07ws02_11455b53:
@@ -233,12 +215,6 @@ translate chinese b1c07ws02_0121fa8e:
 
     # sdl "Should I suck your dick now?"
     sdl "要我给你吹箫吗？"
-
-# game/code/Book-1/Chapter-7w/s02.rpy:161
-translate chinese b1c07ws02_919d5899:
-
-    # mc "*Chuckles* Not that I ever say no to such a generous reward, but I'd prefer to see you on your knees in a place that's {i}not {/i} the floor of a public bathroom."
-    mc "*嗤笑* 我并不是要拒绝这么丰厚的奖励，但我更希望看到你跪在别的地方，而{i}不是{/i}公共厕所的地板上。"
 
 # game/code/Book-1/Chapter-7w/s02.rpy:164
 translate chinese b1c07ws02_7a76b8fe:
@@ -401,6 +377,30 @@ translate chinese b1c07ws02_f59e3b62:
 
     # sdl "Ba-bye!"
     sdl "走了啊！"
+
+# game/code/Book-1/Chapter-7w/s02.rpy:126
+translate chinese b1c07ws02_17e68cd6:
+
+    # sdl "Oooh, that makes a lot of sense actually."
+    sdl "哦，这其实很有道理。"
+
+# game/code/Book-1/Chapter-7w/s02.rpy:138
+translate chinese b1c07ws02_43c0ec22:
+
+    # sdl "Interesting, very interesting. This changes some things."
+    sdl "有趣，非常有趣，有些事要改变一下了。"
+
+# game/code/Book-1/Chapter-7w/s02.rpy:139
+translate chinese b1c07ws02_6e592c46:
+
+    # sdl "{size=20}This could be a very good opportunity to get back at her.{/size}"
+    sdl "{size=20}这可能是报复她的好机会。{/size}"
+
+# game/code/Book-1/Chapter-7w/s02.rpy:161
+translate chinese b1c07ws02_9e64b776:
+
+    # mc "*Chuckles* Not that I ever say no to such a generous reward, but I'd prefer to see you on your knees in a place that's {i}not{/i} the floor of a public bathroom."
+    mc "*嗤笑* 我并不是要拒绝这么丰厚的奖励，但我更希望看到你跪在别的地方，而{i}不是{/i}公共厕所的地板上。"
 
 translate chinese strings:
 

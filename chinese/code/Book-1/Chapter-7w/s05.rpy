@@ -42,12 +42,6 @@ translate chinese b1c07ws05_1aa1f529:
     # mc "*Chuckles* [mcname]."
     mc "*咯咯笑* [mcname]。"
 
-# game/code/Book-1/Chapter-7w/s05.rpy:83
-translate chinese b1c07ws05_152e7505:
-
-    # ba "The fuck is this prink doing here!?"
-    ba "这个傻逼在这里干什么!?"
-
 # game/code/Book-1/Chapter-7w/s05.rpy:86
 translate chinese b1c07ws05_b84be3ab:
 
@@ -95,12 +89,6 @@ translate chinese b1c07ws05_63ab528b:
 
     # sl "Yeah, Brig. Shit, I get your point, but he ain't really done anything wrong either."
     sl "对啊，布吉塔，我明白你的意思，但他也没做错什么。"
-
-# game/code/Book-1/Chapter-7w/s05.rpy:114
-translate chinese b1c07ws05_450825fa:
-
-    # sl "Let the guy, stay. Who cares? He's part of the team."
-    sl "让他留下吧。谁在乎呢？他是团队的一员。"
 
 # game/code/Book-1/Chapter-7w/s05.rpy:117
 translate chinese b1c07ws05_17dabcd7:
@@ -474,12 +462,6 @@ translate chinese b1c07ws05_bar_ir_167d0600:
     # ir "But I'm not gonna stop."
     ir "但我不会停止。"
 
-# game/code/Book-1/Chapter-7w/s05.rpy:368
-translate chinese b1c07ws05_bar_ir_28fd9410:
-
-    # ir "Something to fuck you up"
-    ir "让你爽的东西"
-
 # game/code/Book-1/Chapter-7w/s05.rpy:370
 translate chinese b1c07ws05_bar_ir_fd6e855a:
 
@@ -774,18 +756,6 @@ translate chinese b1c07ws05_bar_sex_7c0550f5:
     # "You continue, barely giving her a moment to recover."
     "你继续，几乎不给她恢复的时间。"
 
-# game/code/Book-1/Chapter-7w/s05.rpy:598
-translate chinese b1c07ws05_bar_sex_376f12b7:
-
-    # "You feel her convulsions and rising heat on your finger, making you even more motivated to claim your price."
-    "你感觉到她的抽搐，以及在你手指的挑逗下她的皮肤不断升温，让你更有动力向她索取一切。"
-
-# game/code/Book-1/Chapter-7w/s05.rpy:608
-translate chinese b1c07ws05_bar_sex_f0a59c20:
-
-    # "You feel her convulsions and rising heat on your tongue, making you even more motivated to claim your price."
-    "你感觉到她的抽搐，以及在你舌头的挑逗下她的皮肤不断升温，让你更有动力向她索取一切。"
-
 # game/code/Book-1/Chapter-7w/s05.rpy:611
 translate chinese b1c07ws05_bar_sex_511590a2:
 
@@ -1050,12 +1020,6 @@ translate chinese b1c07ws05_iona_sex_57e7fc77:
     # ir "*Staggered moans* Ye-yeah, just like that. Fuuuck."
     ir "*破碎的呻吟* 呃--啊啊，就是这样。要死了啊--"
 
-# game/code/Book-1/Chapter-7w/s05.rpy:826
-translate chinese b1c07ws05_iona_sex_929f87f6:
-
-    # "Not keen on letting you do all the work, she pushes herself onto, each thrust going deeper and deeper."
-    "她并不想让你做所有的工作，她把自己的重量向你靠过来，每一次插入都越来越深。"
-
 # game/code/Book-1/Chapter-7w/s05.rpy:829
 translate chinese b1c07ws05_iona_sex_2b6903f1:
 
@@ -1133,12 +1097,6 @@ translate chinese b1c07ws05_iona_sex_9c07af13:
 
     # ir "Nah, it's fine. I wanna stay like this for a bit."
     ir "不，没关系。我想就这样待一会儿。"
-
-# game/code/Book-1/Chapter-7w/s05.rpy:886
-translate chinese b1c07ws05_iona_sex_ca1cb6c5:
-
-    # ir "Christ. you really gave me a workout today."
-    ir "天啊，你今天可真让我锻炼了一番。"
 
 # game/code/Book-1/Chapter-7w/s05.rpy:892
 translate chinese b1c07ws05_iona_sex_9132eaba:
@@ -1223,6 +1181,48 @@ translate chinese b1c07ws05_iona_sex_50d4fdd6:
 
     # ir "And I'm gonna make use of that."
     ir "我要好好利用这一点。"
+
+# game/code/Book-1/Chapter-7w/s05.rpy:83
+translate chinese b1c07ws05_f274c616:
+
+    # ba "The fuck is this prick doing here!?"
+    ba "这个傻逼在这里干什么!?"
+
+# game/code/Book-1/Chapter-7w/s05.rpy:114
+translate chinese b1c07ws05_6581af95:
+
+    # sl "Let the guy stay. Who cares? He's part of the team."
+    sl "让他留下吧。谁在乎呢？他是团队的一员。"
+
+# game/code/Book-1/Chapter-7w/s05.rpy:369
+translate chinese b1c07ws05_bar_ir_d355694a:
+
+    # ir "Something to fuck you up."
+    ir "让你爽的东西。"
+
+# game/code/Book-1/Chapter-7w/s05.rpy:600
+translate chinese b1c07ws05_bar_sex_e467b66c:
+
+    # "You feel her convulsions and rising heat on your finger, making you even more motivated to claim your prize."
+    "你感觉到她的抽搐，以及在你手指的挑逗下她的皮肤不断升温，让你更有动力向她索取一切。"
+
+# game/code/Book-1/Chapter-7w/s05.rpy:610
+translate chinese b1c07ws05_bar_sex_4f4b697b:
+
+    # "You feel her convulsions and rising heat on your tongue, making you even more motivated to claim your prize."
+    "你感觉到她的抽搐，以及在你舌头的挑逗下她的皮肤不断升温，让你更有动力向她索取一切。"
+
+# game/code/Book-1/Chapter-7w/s05.rpy:829
+translate chinese b1c07ws05_iona_sex_fe01d4e4:
+
+    # "Not keen on letting you do all the work, she pushes herself onto each thrust going deeper and deeper."
+    "她并不想让你做所有的工作，她把自己的重量向你靠过来，每一次插入都越来越深。"
+
+# game/code/Book-1/Chapter-7w/s05.rpy:889
+translate chinese b1c07ws05_iona_sex_4138d4aa:
+
+    # ir "Christ. You really gave me a workout today."
+    ir "天啊，你今天可真让我锻炼了一番。"
 
 translate chinese strings:
 

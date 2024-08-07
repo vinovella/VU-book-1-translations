@@ -78,12 +78,6 @@ translate chinese b1c07s04_4f86c7c5:
     # dm "You heard her. Does giving anal on a first date make a girl a slut?"
     dm "你听到她说的了。第一次约会就肛交会让女孩变成荡妇吗？"
 
-# game/code/Book-1/Chapter-7/s04.rpy:54
-translate chinese b1c07s04_97fa86ef:
-
-    # mc "No. No, it doesn't"
-    mc "不，不，不会。"
-
 # game/code/Book-1/Chapter-7/s04.rpy:57
 translate chinese b1c07s04_82d1b031:
 
@@ -641,4 +635,10 @@ translate chinese b1c07s04_b0fce1cf:
 
     # mct "Maybe I should take her up on her offer... I don't think she's gonna give me a choice regardless at this point."
     mct "也许我应该接受她的提议... 我觉得她现在不会给我选择的余地了。"
+
+# game/code/Book-1/Chapter-7/s04.rpy:54
+translate chinese b1c07s04_1fb3b13b:
+
+    # mc "No. No, it doesn't."
+    mc "不，不，不会。"
 
