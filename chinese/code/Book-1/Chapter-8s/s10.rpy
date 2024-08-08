@@ -229,7 +229,7 @@ translate chinese b1c08ss10_1205d571:
     "听到哈桑的承诺，辛迪加成员似乎全都长呼了一口气。"
 
 # game/code/Book-1/Chapter-8s/s10.rpy:141
-Translate Chinese b1c08ss10_75b8a04e:
+translate chinese b1c08ss10_75b8a04e:
 
     # xv "Everyone take the rest of the night off. It's been a rough few days and you all deserve a break."
     xv "今晚剩下的时间大家都休息吧。这几天太辛苦了，你们都应该休息一下。"
@@ -760,7 +760,7 @@ translate chinese b1c08ss10_44321f1e:
 translate chinese b1c08ss10_0f5f3f4f:
 
     # zp "Oh, and [mcname]?"
-    zp 对了，[mcname]？"
+    zp "对了，[mcname]？"
 
 # game/code/Book-1/Chapter-8s/s10.rpy:395
 translate chinese b1c08ss10_f49fff8f:
