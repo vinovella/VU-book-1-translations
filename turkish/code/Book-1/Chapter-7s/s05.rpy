@@ -372,12 +372,6 @@ translate turkish b1c07ss05_f992373b:
     # nr "Oh, they {i}so{/i} are!"
     nr "Ah, {i}öyleler{/i}!"
 
-# game/code/Book-1/Chapter-7s/s05.rpy:251
-translate turkish b1c07ss05_50cf332b:
-
-    # nr "*laughs* Part of the reason I drag them to this bar instead of Guns n Rosette is to keep them out of trouble!"
-    nr "*gülüyor* Onları Guns n Rosette yerine bu bara sürüklememin nedenlerinden biri de onları beladan uzak tutmak!"
-
 # game/code/Book-1/Chapter-7s/s05.rpy:254
 translate turkish b1c07ss05_38ca9b03:
 
@@ -851,6 +845,12 @@ translate turkish b1c07ss05_686f09ce:
 
     # mc "See ya guys later."
     mc "Sonra görüşürüz arkadaşlar."
+
+# game/code/Book-1/Chapter-7s/s05.rpy:251
+translate turkish b1c07ss05_578eecb5:
+
+    # nr "*laughs* Part of the reason I drag them to this bar instead of Guns n' Rosette is to keep them out of trouble!"
+    nr "*gülüyor* Onları Guns n' Rosette yerine bu bara sürüklememin nedenlerinden biri de onları beladan uzak tutmak!"
 
 translate turkish strings:
 

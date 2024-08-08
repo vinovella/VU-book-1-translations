@@ -42,12 +42,6 @@ translate turkish b1c07ws05_1aa1f529:
     # mc "*Chuckles* [mcname]."
     mc "*Kıkırdamalar*[mcname]."
 
-# game/code/Book-1/Chapter-7w/s05.rpy:83
-translate turkish b1c07ws05_152e7505:
-
-    # ba "The fuck is this prink doing here!?"
-    ba "Bu aptalın burada ne işi var?"
-
 # game/code/Book-1/Chapter-7w/s05.rpy:86
 translate turkish b1c07ws05_b84be3ab:
 
@@ -95,12 +89,6 @@ translate turkish b1c07ws05_63ab528b:
 
     # sl "Yeah, Brig. Shit, I get your point, but he ain't really done anything wrong either."
     sl "Evet Brig. Kahretsin, demek istediğini anlıyorum ama o da aslında yanlış bir şey yapmadı."
-
-# game/code/Book-1/Chapter-7w/s05.rpy:114
-translate turkish b1c07ws05_450825fa:
-
-    # sl "Let the guy, stay. Who cares? He's part of the team."
-    sl "Bırakın adam kalsın. Kimin umurunda? O takımın bir parçası."
 
 # game/code/Book-1/Chapter-7w/s05.rpy:117
 translate turkish b1c07ws05_17dabcd7:
@@ -474,12 +462,6 @@ translate turkish b1c07ws05_bar_ir_167d0600:
     # ir "But I'm not gonna stop."
     ir "Ama durmayacağım."
 
-# game/code/Book-1/Chapter-7w/s05.rpy:368
-translate turkish b1c07ws05_bar_ir_28fd9410:
-
-    # ir "Something to fuck you up"
-    ir "Seni mahvedecek bir şey"
-
 # game/code/Book-1/Chapter-7w/s05.rpy:370
 translate turkish b1c07ws05_bar_ir_fd6e855a:
 
@@ -774,18 +756,6 @@ translate turkish b1c07ws05_bar_sex_7c0550f5:
     # "You continue, barely giving her a moment to recover."
     "Ona iyileşmesi için zar zor bir an vererek devam edersin."
 
-# game/code/Book-1/Chapter-7w/s05.rpy:598
-translate turkish b1c07ws05_bar_sex_376f12b7:
-
-    # "You feel her convulsions and rising heat on your finger, making you even more motivated to claim your price."
-    "Parmağınızda onun kasılmalarını ve artan ısısını hissediyorsunuz, bu da sizi fiyatınızı talep etmek için daha da motive ediyor."
-
-# game/code/Book-1/Chapter-7w/s05.rpy:608
-translate turkish b1c07ws05_bar_sex_f0a59c20:
-
-    # "You feel her convulsions and rising heat on your tongue, making you even more motivated to claim your price."
-    "Dilinizde onun kasılmalarını ve artan ısısını hissediyorsunuz, bu da sizi fiyatınızı almak için daha da motive ediyor."
-
 # game/code/Book-1/Chapter-7w/s05.rpy:611
 translate turkish b1c07ws05_bar_sex_511590a2:
 
@@ -1050,12 +1020,6 @@ translate turkish b1c07ws05_iona_sex_57e7fc77:
     # ir "*Staggered moans* Ye-yeah, just like that. Fuuuck."
     ir "*Sürekli inliyor* Evet, aynen böyle. Lanet olsun."
 
-# game/code/Book-1/Chapter-7w/s05.rpy:826
-translate turkish b1c07ws05_iona_sex_929f87f6:
-
-    # "Not keen on letting you do all the work, she pushes herself onto, each thrust going deeper and deeper."
-    "Bütün işi senin yapmana izin vermeye pek hevesli değil, kendini zorluyor, her hamle daha da derine gidiyor."
-
 # game/code/Book-1/Chapter-7w/s05.rpy:829
 translate turkish b1c07ws05_iona_sex_2b6903f1:
 
@@ -1133,12 +1097,6 @@ translate turkish b1c07ws05_iona_sex_9c07af13:
 
     # ir "Nah, it's fine. I wanna stay like this for a bit."
     ir "Hayır, sorun değil. Bir süre böyle kalmak istiyorum."
-
-# game/code/Book-1/Chapter-7w/s05.rpy:886
-translate turkish b1c07ws05_iona_sex_ca1cb6c5:
-
-    # ir "Christ. you really gave me a workout today."
-    ir "Tanrım. bugün bana gerçekten antrenman yaptırdın."
 
 # game/code/Book-1/Chapter-7w/s05.rpy:892
 translate turkish b1c07ws05_iona_sex_9132eaba:
@@ -1223,6 +1181,48 @@ translate turkish b1c07ws05_iona_sex_50d4fdd6:
 
     # ir "And I'm gonna make use of that."
     ir "Ve bundan yararlanacağım."
+
+# game/code/Book-1/Chapter-7w/s05.rpy:83
+translate turkish b1c07ws05_f274c616:
+
+    # ba "The fuck is this prick doing here!?"
+    ba "Bu aptalın burada ne işi var!?"
+
+# game/code/Book-1/Chapter-7w/s05.rpy:114
+translate turkish b1c07ws05_6581af95:
+
+    # sl "Let the guy stay. Who cares? He's part of the team."
+    sl "Bırakın adam kalsın. Kimin umurunda? O takımın bir parçası."
+
+# game/code/Book-1/Chapter-7w/s05.rpy:369
+translate turkish b1c07ws05_bar_ir_d355694a:
+
+    # ir "Something to fuck you up."
+    ir "Seni mahvedecek bir şey."
+
+# game/code/Book-1/Chapter-7w/s05.rpy:600
+translate turkish b1c07ws05_bar_sex_e467b66c:
+
+    # "You feel her convulsions and rising heat on your finger, making you even more motivated to claim your prize."
+    "Parmağınızda onun kasılmalarını ve artan ısısını hissediyorsunuz, bu da sizi fiyatınızı talep etmek için daha da motive ediyor.."
+
+# game/code/Book-1/Chapter-7w/s05.rpy:610
+translate turkish b1c07ws05_bar_sex_4f4b697b:
+
+    # "You feel her convulsions and rising heat on your tongue, making you even more motivated to claim your prize."
+    "Parmağınızda onun kasılmalarını ve artan ısısını hissediyorsunuz, bu da sizi fiyatınızı talep etmek için daha da motive ediyor.."
+
+# game/code/Book-1/Chapter-7w/s05.rpy:829
+translate turkish b1c07ws05_iona_sex_fe01d4e4:
+
+    # "Not keen on letting you do all the work, she pushes herself onto each thrust going deeper and deeper."
+    "Bütün işi senin yapmana izin vermeye pek hevesli değil, kendini zorluyor, her hamle daha da derine gidiyor."
+
+# game/code/Book-1/Chapter-7w/s05.rpy:889
+translate turkish b1c07ws05_iona_sex_4138d4aa:
+
+    # ir "Christ. You really gave me a workout today."
+    ir "Tanrım. Bugün bana gerçekten antrenman yaptırdın."
 
 translate turkish strings:
 

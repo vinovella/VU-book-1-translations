@@ -78,12 +78,6 @@ translate turkish b1c07s04_4f86c7c5:
     # dm "You heard her. Does giving anal on a first date make a girl a slut?"
     dm "Onu duydun. İlk buluşmada anal yapmak bir kızı sürtük yapar mı?"
 
-# game/code/Book-1/Chapter-7/s04.rpy:54
-translate turkish b1c07s04_97fa86ef:
-
-    # mc "No. No, it doesn't"
-    mc "Hayır. Hayır, öyle değil"
-
 # game/code/Book-1/Chapter-7/s04.rpy:57
 translate turkish b1c07s04_82d1b031:
 
@@ -635,6 +629,12 @@ translate turkish b1c07s04_6822858f:
 
     # mct "But Ronja certainly has her secrets, that's for sure. I wonder what else she's kept from me?"
     mct "Ama Ronja'nın mutlaka kendi sırları vardır, orası kesin. Acaba benden başka ne sakladı?"
+
+# game/code/Book-1/Chapter-7/s04.rpy:54
+translate turkish b1c07s04_1fb3b13b:
+
+    # mc "No. No, it doesn't."
+    mc "Hayır. Hayır, öyle değil."
 
 # game/code/Book-1/Chapter-7/s04.rpy:295
 translate turkish b1c07s04_b0fce1cf:

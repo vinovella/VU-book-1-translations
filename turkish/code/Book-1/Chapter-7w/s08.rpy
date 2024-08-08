@@ -240,12 +240,6 @@ translate turkish b1c07ws08_dd6cea61:
     # ima "Huh?"
     ima "Huh?"
 
-# game/code/Book-1/Chapter-7w/s08.rpy:182
-translate turkish b1c07ws08_3a030f6b:
-
-    # "Finally realizing what she was doing, Isa covers her mouth as an involuntary laugh escapes her."
-    "Sonunda ne yaptığını anlayan Isa ağzını kapatırken istemsiz bir kahkaha kaçar."
-
 # game/code/Book-1/Chapter-7w/s08.rpy:184
 translate turkish b1c07ws08_c78e5594:
 
@@ -605,6 +599,13 @@ translate turkish b1c07ws08_6ed97b0d:
 
     # ima "*Softly chuckles* Thank you."
     ima "*Yumuşak kıkırdar* Teşekkür ederim."
+
+# game/code/Book-1/Chapter-7w/s08.rpy:183
+translate turkish b1c07ws08_38ca3ef1:
+
+    # "An involuntary laugh escapes her as she finally realizes what she was doing."
+    "An involuntary laugh escapes her as she finally realizes what she was doing."
+
 
 translate turkish strings:
 

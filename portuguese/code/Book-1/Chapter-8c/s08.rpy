@@ -1026,12 +1026,6 @@ translate portuguese b1c08cs08_ll_punishment_70cdc748:
     # ih "I think a spanking is in order."
     ih ""
 
-# game/code/Book-1/Chapter-8c/s08.rpy:537
-translate portuguese b1c08cs08_ll_punishment_82c1af4f:
-
-    # ad "A spanking? You backbiting minx."
-    ad ""
-
 # game/code/Book-1/Chapter-8c/s08.rpy:544
 translate portuguese b1c08cs08_ll_punishment_dd373ad8:
 
@@ -2009,6 +2003,12 @@ translate portuguese b1c08cs08_end_e1d845ce:
 
     # "For better, or for worse."
     ""
+
+# game/code/Book-1/Chapter-8c/s08.rpy:538
+translate portuguese b1c08cs08_ll_punishment_1ad478f1:
+
+    # ad "A spanking? You harsh minx."
+    ad ""
 
 translate portuguese strings:
 

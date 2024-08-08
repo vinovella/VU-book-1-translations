@@ -1026,12 +1026,6 @@ translate chinese b1c08cs08_ll_punishment_70cdc748:
     # ih "I think a spanking is in order."
     ih "我觉得该打屁股了。"
 
-# game/code/Book-1/Chapter-8c/s08.rpy:538
-translate chinese b1c08cs08_ll_punishment_82c1af4f:
-
-    # ad "A spanking? You backbiting minx."
-    ad "打屁股？你这个阴险的小贱人。"
-
 # game/code/Book-1/Chapter-8c/s08.rpy:545
 translate chinese b1c08cs08_ll_punishment_dd373ad8:
 
@@ -2009,6 +2003,12 @@ translate chinese b1c08cs08_end_e1d845ce:
 
     # "For better, or for worse."
     "不管这在未来是好是坏。"
+
+# game/code/Book-1/Chapter-8c/s08.rpy:538
+translate chinese b1c08cs08_ll_punishment_1ad478f1:
+
+    # ad "A spanking? You harsh minx."
+    ad "A spanking? You harsh minx."
 
 translate chinese strings:
 

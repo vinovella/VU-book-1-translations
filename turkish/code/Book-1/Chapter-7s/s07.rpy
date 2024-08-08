@@ -336,12 +336,6 @@ translate turkish b1c07ss07_fight_d840f3c0:
     # "Calamity Carnage eagerly makes the first move, and jabs at Morgan's face."
     "Calamity Carnage hevesle ilk hamleyi yapıyor ve Morgan'ın yüzüne vuruyor."
 
-# game/code/Book-1/Chapter-7s/s07.rpy:257
-translate turkish b1c07ss07_fight_90b22f64:
-
-    # "But Morgan dodgest the hit."
-    "Ancak Morgan bu vuruştan kaçındı."
-
 # game/code/Book-1/Chapter-7s/s07.rpy:263
 translate turkish b1c07ss07_fight_b47cf7a9:
 
@@ -1037,6 +1031,12 @@ translate turkish b1c07ss07_fight_end_7e9ff2c1:
 
     # mct "Hm. Well I guess Quentin's right. I should find something to do while I wait."
     mct "Hm. Sanırım Quentin haklı. Beklerken yapacak bir şeyler bulmalıyım."
+
+# game/code/Book-1/Chapter-7s/s07.rpy:257
+translate turkish b1c07ss07_fight_bdcb97af:
+
+    # "But Morgan dodges the hit."
+    "Ancak Morgan bu vuruştan kaçındı."
 
 translate turkish strings:
 

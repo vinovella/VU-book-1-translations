@@ -174,12 +174,6 @@ translate turkish b1c07ss12_2ff644f0:
     # mc "Do you know anything about that? Was there anyone who might've had ill will toward Leia?"
     mc "Bunun hakkında bir şey biliyor musun? Leia'ya karşı kötü niyetli olabilecek biri var mıydı?"
 
-# game/code/Book-1/Chapter-7s/s12.rpy:132
-translate turkish b1c07ss12_0eea04af:
-
-    # cb "No, I don't. I mean, no body really {i}likes{/i} debt collectors, but I never saw anyone who'd wanna harm her."
-    cb "Hayır, yapmıyorum. Yani aslında beden yok{i}seviyor{/i}Borç tahsildarlarıydı ama ona zarar vermek isteyen birini hiç görmedim."
-
 # game/code/Book-1/Chapter-7s/s12.rpy:134
 translate turkish b1c07ss12_93c5ddf6:
 
@@ -905,6 +899,12 @@ translate turkish b1c07ss12_sex_e095d627:
 
     # cb "Sure thing."
     cb "Tabi ki."
+
+# game/code/Book-1/Chapter-7s/s12.rpy:130
+translate turkish b1c07ss12_101d7545:
+
+    # cb "No, I don't. I mean, nobody really {i}likes{/i} debt collectors, but I never saw anyone who'd wanna harm her."
+    cb "Hayır, yapmıyorum. Yani aslında beden yok{i}seviyor{/i}Borç tahsildarlarıydı ama ona zarar vermek isteyen birini hiç görmedim."
 
 translate turkish strings:
 

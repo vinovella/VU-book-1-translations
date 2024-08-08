@@ -72,12 +72,6 @@ translate turkish b1c07cs08_38a8feab:
     # mc "But I, for one, thought you looked very free and confident in your skin."
     mc "Ama ben, kendi adıma, teninde çok özgür ve kendinden emin göründüğünü düşündüm."
 
-# game/code/Book-1/Chapter-7c/s08.rpy:48
-translate turkish b1c07cs08_4bc4d8b3:
-
-    # mct "That has to count for something, right?"
-    mct "Bunun bir anlamı olmalı, değil mi?"
-
 # game/code/Book-1/Chapter-7c/s08.rpy:53
 translate turkish b1c07cs08_a2ee496e:
 
