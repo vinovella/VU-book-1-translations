@@ -1026,11 +1026,11 @@ translate spanish b1c08cs08_ll_punishment_70cdc748:
     # ih "I think a spanking is in order."
     ih "Creo que hay que darle algunos azotes."
 
-# game/code/Book-1/Chapter-8c/s08.rpy:537
-translate spanish b1c08cs08_ll_punishment_82c1af4f:
+# game/code/Book-1/Chapter-8c/s08.rpy:538
+translate spanish b1c08cs08_ll_punishment_1ad478f1:
 
-    # ad "A spanking? You backbiting minx."
-    ad "¿Unos azotes? Eres una descarada calumniadora."
+    # ad "A spanking? You harsh minx."
+    ad "A spanking? You harsh minx."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:544
 translate spanish b1c08cs08_ll_punishment_dd373ad8:
