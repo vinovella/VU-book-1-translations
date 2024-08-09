@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-05-04 22:44
+# TODO: Translation updated at 2024-05-04 22:44
 
 # game/code/Book-1/Chapter-8/s01.rpy:27
 translate spanish b1c08s01_99325c9f:
@@ -190,7 +190,7 @@ translate spanish b1c08s01_continue_921d28a7:
 translate spanish b1c08s01_continue_d4795f40:
 
     # pm "Sometimes, even detectives need a little saving. Nothing wrong with that."
-    pm "A veces, incluso los detectives necesitan un poco de salvación. Nada de malo con eso."
+    pm "A veces, incluso los detectives necesitan que los salven un poco. No hay nada malo en ello."
 
 # game/code/Book-1/Chapter-8/s01.rpy:211
 translate spanish b1c08s01_continue_c85d955f:
@@ -274,7 +274,7 @@ translate spanish b1c08s01_end_5780f736:
 translate spanish b1c08s01_end_fb7fbc7a:
 
     # mc "You're right. I'm sorry. Duty first."
-    mc "Tienes razón. Lo lamento. El deber primero."
+    mc "Tienes razón. Lo lamento. El deber es primero."
 
 # game/code/Book-1/Chapter-8/s01.rpy:259
 translate spanish b1c08s01_end_de90af23:
@@ -1428,17 +1428,17 @@ translate spanish strings:
 
     # game/code/Book-1/Chapter-8/s01.rpy:730
     old "The Self-Help Group"
-    new "The Self-Help Group"
+    new "El Grupo de Autoayuda"
 
     # game/code/Book-1/Chapter-8/s01.rpy:731
     old "Zemfira's Group"
-    new "Zemfira's Group"
+    new "El Grupo de Zemfira"
 
     # game/code/Book-1/Chapter-8/s01.rpy:732
     old "The Winner's Group"
-    new "The Winner's Group"
+    new "El grupo de los ganadores"
 
     # game/code/Book-1/Chapter-8/s01.rpy:734
     old "The Cult"
-    new "The Cult"
+    new "El culto"
 
