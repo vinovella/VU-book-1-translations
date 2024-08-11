@@ -940,369 +940,369 @@ translate chinese b1c08ws02_a6e001ae:
 translate chinese b1c08ws02_e47cdecd:
 
     # "Iona pops your cock out of her mouth for just a second. The hit of cold air makes you shiver. She keeps you occupied with her hand as she talks with Monika."
-    "Iona pops your cock out of her mouth for just a second. The hit of cold air makes you shiver. She keeps you occupied with her hand as she talks with Monika."
+    "欧娜将你的阴茎从她的嘴里吐出来一秒钟。冷空气的袭击让你打了个寒颤。她一边和莫妮卡聊天，一边用她的手宣示对你的占有权。"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:509
 translate chinese b1c08ws02_9cb81112:
 
     # ir "Just keeping ourselves entertained."
-    ir "Just keeping ourselves entertained."
+    ir "只是让我们自己开心一下。"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:510
 translate chinese b1c08ws02_5ed2d8c8:
 
     # ir "You good to keep it between us?"
-    ir "You good to keep it between us?"
+    ir "你愿意保守秘密吗？"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:512
 translate chinese b1c08ws02_b8199613:
 
     # mm "*Chuckles* I'm no bloody tattle-tail. You two have fun."
-    mm "*Chuckles* I'm no bloody tattle-tail. You two have fun."
+    mm "*咯咯笑* 我可不是爱打小报告的人。你们俩好好玩吧。"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:515
 translate chinese b1c08ws02_cec0db95:
 
     # "Monika turns her attention back to the rows of seating. Iona resumes what she was doing."
-    "Monika turns her attention back to the rows of seating. Iona resumes what she was doing."
+    "莫妮卡把注意力转回到一排排的座位上。欧娜继续做她正在做的事情。"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:516
 translate chinese b1c08ws02_37cb34e8:
 
     # "She looks up at you with those beautiful eyes and smirks as she begins bobbing her head more quickly down the length of your shaft."
-    "She looks up at you with those beautiful eyes and smirks as she begins bobbing her head more quickly down the length of your shaft."
+    "她用那双美丽的眼睛看着你，微笑着，开始更快速地沿着你的形状，上下移动她的头。"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:521
 translate chinese b1c08ws02_f98acb57:
 
     # "You groan out loud in pleasure, feeling yourself getting closer and closer to orgasm as your breathing becomes faster."
-    "You groan out loud in pleasure, feeling yourself getting closer and closer to orgasm as your breathing becomes faster."
+    "你高兴地大声呻吟，感觉自己离高潮越来越近，呼吸也越来越急促。"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:528
 translate chinese b1c08ws02_9d43e8e8:
 
     # "Suddenly, the bus hits a bump in the road, causing Iona's you even further into her mouth. She almost chokes, but manages to hold on and continue taking you to your very base."
-    "Suddenly, the bus hits a bump in the road, causing Iona's you even further into her mouth. She almost chokes, but manages to hold on and continue taking you to your very base."
+    "突然，大巴车颠簸了一下，导致欧娜的嘴更深地含住了你的阴茎。她差点窒息，但还是成功坚持了下来，继续将你含到最深处"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:537
 translate chinese b1c08ws02_4e167d92:
 
     # ir "*Whispers* You're close, aren't you? I want you to fill my mouth. I want to taste you so fucking badly."
-    ir "*Whispers* You're close, aren't you? I want you to fill my mouth. I want to taste you so fucking badly."
+    ir "*耳语* 你快到了，对吗？我想让你填满我的嘴。妈的，我太想尝尝你的味道了。"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:542
 translate chinese b1c08ws02_1e2c18d4:
 
     # "With her words, your orgasm just hits you like a truck. You grip onto your seat with white knuckles as pleasure radiates through your body."
-    "With her words, your orgasm just hits you like a truck. You grip onto your seat with white knuckles as pleasure radiates through your body."
+    "随着她的话语，你的高潮猛地像海浪一样袭来。你紧紧抓住座位，指关节用力到发白，愉悦感传遍全身。"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:545
 translate chinese b1c08ws02_bbcfa534:
 
     # "In no time, your cum is filling Iona's mouth and she takes every last drop before slowly pulling off of you and licking her lips happily."
-    "In no time, your cum is filling Iona's mouth and she takes every last drop before slowly pulling off of you and licking her lips happily."
+    "很快，你的精液就填满了欧娜的嘴巴，她把你的精液尽数吞下，然后慢慢地从你身上抽出来，开心地舔着嘴唇。"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:548
 translate chinese b1c08ws02_8fd6c970:
 
     # ir "Mmm... That was delicious."
-    ir "Mmm... That was delicious."
+    ir "嗯...真好吃。"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:549
 translate chinese b1c08ws02_8d44d7ed:
 
     # "You can barely say anything in reply."
-    "You can barely say anything in reply."
+    "你几乎说不出话来。"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:550
 translate chinese b1c08ws02_22bfefcc:
 
     # "She leans back onto her chair before noticing some cum that escaped her mouth and made a mess on her cheek."
-    "She leans back onto her chair before noticing some cum that escaped her mouth and made a mess on her cheek."
+    "她向后靠在椅子上，才发现一些精液从她嘴里漏出来，弄脏了她的脸颊。"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:551
 translate chinese b1c08ws02_492d0498:
 
     # "She takes it and goes to lick it off of her fingers, but stops at the last second."
-    "She takes it and goes to lick it off of her fingers, but stops at the last second."
+    "她抬起手从脸上擦掉，然后想舔手指上的精液，但最后一刻停了下来。"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:554
 translate chinese b1c08ws02_74178b68:
 
     # "She instead pulls her pants up and smears it onto her panties."
-    "She instead pulls her pants up and smears it onto her panties."
+    "她反而把裤子挑起来，把手上的精液抹到内裤上。"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:558
 translate chinese b1c08ws02_8a954c56:
 
     # ir "*Giggles* I like feeling your warmth between my legs."
-    ir "*Giggles* I like feeling your warmth between my legs."
+    ir "*咯咯笑* 我喜欢你在我两腿间温暖的感觉。"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:560
 translate chinese b1c08ws02_23b6f24e:
 
     # "Iona then takes your hand in hers, squeezing softly before guiding it to rest on her lap."
-    "Iona then takes your hand in hers, squeezing softly before guiding it to rest on her lap."
+    "然后欧娜把你的手握在她的手里，轻轻地捏了一下，然后把你们的手放在她的腿上。"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:563
 translate chinese b1c08ws02_afc7a609:
 
     # "You can feel your cum seeping through the fabric of her pants as Iona rests her head on your shoulder."
-    "You can feel your cum seeping through the fabric of her pants as Iona rests her head on your shoulder."
+    "当欧娜把头靠在你的肩膀上时，你可以感觉到你的精液透过她裤子的布料渗出来。"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:565
 translate chinese b1c08ws02_e522944f:
 
     # mct "...This girl just gave me a blowjob and now she has her head on my shoulder, sleeping like she's the most innocent thing in the world."
-    mct "...This girl just gave me a blowjob and now she has her head on my shoulder, sleeping like she's the most innocent thing in the world."
+    mct "...这个女孩刚刚给我口交，现在她把头靠在我的肩膀上睡觉，好像她是世界上最无辜的人一样。"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:566
 translate chinese b1c08ws02_3d2efe80:
 
     # mct "*Chuckles* I'm just going to enjoy it while it lasts I suppose."
-    mct "*Chuckles* I'm just going to enjoy it while it lasts I suppose."
+    mct "*轻笑* 我想，趁现在好好享受吧。"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:582
 translate chinese b1c08ws02_c9a3ad2f:
 
     # "A short while passes as you sit there with Iona resting her head on your shoulder, her soft breaths lulling you into a sense of calm."
-    "A short while passes as you sit there with Iona resting her head on your shoulder, her soft breaths lulling you into a sense of calm."
+    "片刻之后，你坐在那里，欧娜把头枕在你的肩膀上，她轻柔的呼吸让你感到平静。"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:583
 translate chinese b1c08ws02_9e8fc198:
 
     # "When suddenly, the shrill sound of a phone rings out."
-    "When suddenly, the shrill sound of a phone rings out."
+    "突然，一阵刺耳的电话铃声响起。"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:585
 translate chinese b1c08ws02_595540ce:
 
     # sm "Excuse me, everyone. I need to take this call. It's the hotel."
-    sm "Excuse me, everyone. I need to take this call. It's the hotel."
+    sm "对不起，各位。我得接个电话。是酒店。"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:587
 translate chinese b1c08ws02_2762ddce:
 
     # "Everyone's chatter dies down as they turn their attention to Silvia."
-    "Everyone's chatter dies down as they turn their attention to Silvia."
+    "大家都停止了交谈，把注意力转向西尔维娅。"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:590
 translate chinese b1c08ws02_b9033887:
 
     # sm "I see..."
-    sm "I see..."
+    sm "这样啊..."
 
 # game/code/Book-1/Chapter-8w/s02.rpy:593
 translate chinese b1c08ws02_7678a1f9:
 
     # sm "Yes, I understand. Thank you."
-    sm "Yes, I understand. Thank you."
+    sm "好，我明白。谢谢你。"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:597
 translate chinese b1c08ws02_8d5f5a85:
 
     # sm "Guys... Looks like we're gonna have a small change of plans. The hotel apparently overbooked and mixed up our rooms. We won't be able to have individual rooms."
-    sm "Guys... Looks like we're gonna have a small change of plans. The hotel apparently overbooked and mixed up our rooms. We won't be able to have individual rooms."
+    sm "各位...看来我们的计划要有点小变动了。酒店显然超额预定，把我们的房间弄混了。我们没法住单间了。"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:601
 translate chinese b1c08ws02_42fdbdb4:
 
     # "Expressions of frustration and concern ripple through the group."
-    "Expressions of frustration and concern ripple through the group."
+    "沮丧和担忧的情绪在团队中蔓延开来。"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:604
 translate chinese b1c08ws02_d052456f:
 
     # ba "What the fuck!? We paid good money for that shit and they just fucking tell us to pound sand just like that? Fuck those assholes."
-    ba "What the fuck!? We paid good money for that shit and they just fucking tell us to pound sand just like that? Fuck those assholes."
+    ba "什么鬼!? 我们花了大价钱订了房间，他们就这样让我们吃闭门羹？去他妈的那些混蛋。"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:606
 translate chinese b1c08ws02_2b80b00b:
 
     # sl "Yeah! Let's find a different place."
-    sl "Yeah! Let's find a different place."
+    sl "是啊！我们另找地方吧。"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:608
 translate chinese b1c08ws02_86edfefe:
 
     # sm "Professor Harlan and I have looked into other options. This hotel is the best we found. Anything else with enough rooms that was also near the tournament would be a cheap motel."
-    sm "Professor Harlan and I have looked into other options. This hotel is the best we found. Anything else with enough rooms that was also near the tournament would be a cheap motel."
+    sm "哈兰教授和我已经考虑过其他选择。这家酒店是我们能找到的最好的。其他有足够房间且靠近比赛的地方，都是便宜的汽车旅馆。"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:611
 translate chinese b1c08ws02_3e734f0d:
 
     # sa "Alright. Everyone calm down. I'm sure we can sort this out."
-    sa "Alright. Everyone calm down. I'm sure we can sort this out."
+    sa "A好了。大家都冷静。我相信我们能解决这个问题。"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:612
 translate chinese b1c08ws02_57eda539:
 
     # sa "It's certainly not ideal, I was hoping that we would all have plenty of space to relax and get fully energized before the tournament, but we'll make do."
-    sa "It's certainly not ideal, I was hoping that we would all have plenty of space to relax and get fully energized before the tournament, but we'll make do."
+    sa "这当然不是最理想的情况，我原本希望我们能在比赛前有足够的空间放松和恢复精力，但我们会想办法的。"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:615
 translate chinese b1c08ws02_0feb0810:
 
     # sa "We're the Winner's Volleyball Team. We're not gonna let some small bump in the road stop us from our goal."
-    sa "We're the Winner's Volleyball Team. We're not gonna let some small bump in the road stop us from our goal."
+    sa "我们是赢家排球队。我们不会让一些小挫折阻止我们实现目标。"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:616
 translate chinese b1c08ws02_facbf5ae:
 
     # "Everyone looks up at Shontae with a new found sense of purpose and energy."
-    "Everyone looks up at Shontae with a new found sense of purpose and energy."
+    "每个人都抬头看着肖黛，带着一种使命感与活力。"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:618
 translate chinese b1c08ws02_91fcd0b7:
 
     # sa "Silvia, I assume we have more than one room, yes? How can we split it up?"
-    sa "Silvia, I assume we have more than one room, yes? How can we split it up?"
+    sa "西尔维娅，我想我们不止一个房间，对吧？我们怎么分房呢？"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:620
 translate chinese b1c08ws02_e6968ffd:
 
     # sm "We have one double room and two triple rooms. I can share the double room with you."
-    sm "We have one double room and two triple rooms. I can share the double room with you."
+    sm "我们有一间双人房和两间三人房。我可以和你一起住双人间。"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:623
 translate chinese b1c08ws02_b1b04a6f:
 
     # sa "Right. That sounds good. Then that leaves two rooms for three people."
-    sa "Right. That sounds good. Then that leaves two rooms for three people."
+    sa "好的。听起来不错。那么还有两间三人房。"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:624
 translate chinese b1c08ws02_3ee4c963:
 
     # sa "How do we want to split up?"
-    sa "How do we want to split up?"
+    sa "接下来要怎么分呢？"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:626
 translate chinese b1c08ws02_4e23a035:
 
     # ba "I don't give a shit who I'm with as long as it's not the new guy."
-    ba "I don't give a shit who I'm with as long as it's not the new guy."
+    ba "我才不管和谁在一起，只要不是新来的就行。"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:629
 translate chinese b1c08ws02_567aeb0e:
 
     # sa "*Sighs* Anyone else?"
-    sa "*Sighs* Anyone else?"
+    sa "*叹气* 其他人呢？"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:631
 translate chinese b1c08ws02_e1e9a695:
 
     # ir "I don't mind being with the guys. I can bunk with [mcname] and Simon."
-    ir "I don't mind being with the guys. I can bunk with [mcname] and Simon."
+    ir "我不介意和男生住在一起。我可以和[mcname]还有西蒙一起睡。"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:634
 translate chinese b1c08ws02_2c4fa2a0:
 
     # mm "Wait, so that leaves me, Olesya, and Brigitta in one room? Uh-uh, I'm not doing that."
-    mm "Wait, so that leaves me, Olesya, and Brigitta in one room? Uh-uh, I'm not doing that."
+    mm "等等，那就只剩我、奥列西娅和布吉塔在一个房间了？呃，呃，我可不要。"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:637
 translate chinese b1c08ws02_9c5c51c6:
 
     # mm "No way in hell I'm bunking with that murderous bitch."
-    mm "No way in hell I'm bunking with that murderous bitch."
+    mm "我绝对不要和那个凶残的婊子同住一个房间。"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:640
 translate chinese b1c08ws02_c8b9a783:
 
     # ba "Oh my God, and I don't want to be in a room with you two bickering."
-    ba "Oh my God, and I don't want to be in a room with you two bickering."
+    ba "天哪，我可不想和你们两个在一个房间里吵架。"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:642
 translate chinese b1c08ws02_59b63bb1:
 
     # mct "Murderous bitch? Huh, I didn't know Monika and Olesya hated each other that much. Murderous is interesting wording..."
-    mct "Murderous bitch? Huh, I didn't know Monika and Olesya hated each other that much. Murderous is interesting wording..."
+    mct "凶残的婊子？我不知道莫妮卡和奥列西娅这么讨厌对方。凶残这个措辞很有意思..."
 
 # game/code/Book-1/Chapter-8w/s02.rpy:645
 translate chinese b1c08ws02_2cd88551:
 
     # mct "I should get in front of this before they start jumping at each other's throats."
-    mct "I should get in front of this before they start jumping at each other's throats."
+    mct "我应该先发制人，免得她们开始掐架。"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:646
 translate chinese b1c08ws02_8d71d156:
 
     # mct "I should probably send Iona off to the other side so that she isn't too close to me when I want to look around."
-    mct "I should probably send Iona off to the other side so that she isn't too close to me when I want to look around."
+    mct "我应该把欧娜安排到别的房间，这样当我想要四处看看时，她就不会离我太近了。"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:650
 translate chinese b1c08ws02_29551211:
 
     # mc "Look, how about this? I can bunk with Simon and Monika, leaving Iona, Brigitta, and Olesya with the other room."
-    mc "Look, how about this? I can bunk with Simon and Monika, leaving Iona, Brigitta, and Olesya with the other room."
+    mc "这样怎么样？我可以和西蒙还有莫妮卡住在一起，让欧娜、布吉塔和奥列西娅住在另一个房间。"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:653
 translate chinese b1c08ws02_4515887d:
 
     # sl "I'm fine with that."
-    sl "I'm fine with that."
+    sl "我没意见。"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:659
 translate chinese b1c08ws02_e836d526:
 
     # "The group bickers some more about potential room arrangements, but they all eventually settle on your idea and calm down."
-    "The group bickers some more about potential room arrangements, but they all eventually settle on your idea and calm down."
+    "大家又为房间的安排争论了一番，但最终都接受了你的想法，平静了下来。"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:661
 translate chinese b1c08ws02_eb7f8d53:
 
     # "Even after all the arrangements have been made however, you still notice that Silvia looks gloomy."
-    "Even after all the arrangements have been made however, you still notice that Silvia looks gloomy."
+    "然而，即使一切都安排好了，你仍然注意到西尔维娅看起来很沮丧。"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:662
 translate chinese b1c08ws02_19a4a320:
 
     # "You make a mental note to go talk with her later on before settling in for the final stretch of the journey."
-    "You make a mental note to go talk with her later on before settling in for the final stretch of the journey."
+    "你决定在安顿下来开始最后一段旅程之前，找机会和她谈谈。"
 
 translate chinese strings:
 
     # game/code/Book-1/Chapter-8w/s02.rpy:50
     old "Encourage Iona's flirting"
-    new "Encourage Iona's flirting"
+    new "鼓励欧娜调情"
 
     # game/code/Book-1/Chapter-8w/s02.rpy:50
     old "Shut it down"
-    new "Shut it down"
+    new "阻止她"
 
     # game/code/Book-1/Chapter-8w/s02.rpy:251
     old "Mime that you've \"wrestled\" a bear"
-    new "Mime that you've \"wrestled\" a bear"
+    new "比划你和熊\"搏斗\"过"
 
     # game/code/Book-1/Chapter-8w/s02.rpy:251
     old "Mime that you've sailed around the world"
-    new "Mime that you've sailed around the world"
+    new "比划你环游过世界"
 
     # game/code/Book-1/Chapter-8w/s02.rpy:251
     old "Mime that you know how to shoot"
-    new "Mime that you know how to shoot"
+    new "比划你懂得射击"
 
     # game/code/Book-1/Chapter-8w/s02.rpy:299
     old "Mime you juggling"
-    new "Mime you juggling"
+    new "比划你玩杂耍"
 
     # game/code/Book-1/Chapter-8w/s02.rpy:299
     old "Mime you eating a lot of hotdogs"
-    new "Mime you eating a lot of hotdogs"
+    new "比划你吃了很多热狗"
 
     # game/code/Book-1/Chapter-8w/s02.rpy:299
     old "Mime you \"breakdancing\""
-    new "Mime you \"breakdancing\""
+    new "比划你跳\"霹雳舞\""
 
     # game/code/Book-1/Chapter-8w/s02.rpy:353
     old "Mime that you can play the piano"
-    new "Mime that you can play the piano"
+    new "比划你弹钢琴"
 
     # game/code/Book-1/Chapter-8w/s02.rpy:353
     old "Mime that you caught a snake"
-    new "Mime that you caught a snake"
+    new "比划你抓了一条蛇"
 
     # game/code/Book-1/Chapter-8w/s02.rpy:353
     old "Mime that you conducted an orchestra"
-    new "Mime that you conducted an orchestra"
+    new "比划你指挥管弦乐队"
 
