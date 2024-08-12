@@ -4,355 +4,355 @@
 translate chinese b1c08ws04_3f673793:
 
     # mm "Well, well, well. Took you long enough."
-    mm "Well, well, well. Took you long enough."
+    mm "瞧呀。某人过了好久才回来哦。"
 
 # game/code/Book-1/Chapter-8w/s04.rpy:40
 translate chinese b1c08ws04_8e0070fb:
 
     # mc "*Chuckles* Sorry. Didn't mean to keep you up."
-    mc "*Chuckles* Sorry. Didn't mean to keep you up."
+    mc "*咯咯笑* 对不起。我不是故意吵醒你的。"
 
 # game/code/Book-1/Chapter-8w/s04.rpy:43
 translate chinese b1c08ws04_232db0e3:
 
     # mm "*Snorts* Don't flatter yourself, Charming."
-    mm "*Snorts* Don't flatter yourself, Charming."
+    mm "*哼了一声* 别自作多情了，小可爱。"
 
 # game/code/Book-1/Chapter-8w/s04.rpy:44
 translate chinese b1c08ws04_d95d6188:
 
     # mm "Mr. Human Woodchipper over there doing everything in his power to make sure I don't get a lick of sleep tonight."
-    mm "Mr. Human Woodchipper over there doing everything in his power to make sure I don't get a lick of sleep tonight."
+    mm "那边那位人类伐木机先生正在竭尽所能地确保我今晚睡不了觉。"
 
 # game/code/Book-1/Chapter-8w/s04.rpy:47
 translate chinese b1c08ws04_668caeda:
 
     # "You've heard some loud snores in your time, but Simon's is...particularly dramatic."
-    "You've heard some loud snores in your time, but Simon's is...particularly dramatic."
+    "你以前也听过响亮的鼾声，但西蒙的鼾声...尤其引人注目。"
 
 # game/code/Book-1/Chapter-8w/s04.rpy:51
 translate chinese b1c08ws04_b8efc5bc:
 
     # mc "Why'd you pick to bunk with us if you knew he snored like that anyway?"
-    mc "Why'd you pick to bunk with us if you knew he snored like that anyway?"
+    mc "既然你知道他打鼾这么厉害，为什么还要和我们挤一间房？"
 
 # game/code/Book-1/Chapter-8w/s04.rpy:53
 translate chinese b1c08ws04_6f6001ee:
 
     # "The moment the words leave your mouth, Monika gasps in feigned offense."
-    "The moment the words leave your mouth, Monika gasps in feigned offense."
+    "你话刚一出口，莫妮卡就假装生气地倒吸一口冷气。"
 
 # game/code/Book-1/Chapter-8w/s04.rpy:55
 translate chinese b1c08ws04_116f68e7:
 
     # mm "*Gasps* Victim blaming much?"
-    mm "*Gasps* Victim blaming much?"
+    mm "*倒吸一口冷气* 受害者有罪论吗？"
 
 # game/code/Book-1/Chapter-8w/s04.rpy:58
 translate chinese b1c08ws04_c1aacbe1:
 
     # "You reply to her attitude with an amused roll of your eyes."
-    "You reply to her attitude with an amused roll of your eyes."
+    "你对她的态度报以愉快的白眼。"
 
 # game/code/Book-1/Chapter-8w/s04.rpy:62
 translate chinese b1c08ws04_e8e0ec25:
 
     # mm "And no. I didn't know he sounded like a freight train when he slept. First time I'm even seeing him passed out."
-    mm "And no. I didn't know he sounded like a freight train when he slept. First time I'm even seeing him passed out."
+    mm "嗯回答你，不是的。我不知道他睡觉时像货运火车一样响。我第一次看到他昏睡过去。"
 
 # game/code/Book-1/Chapter-8w/s04.rpy:65
 translate chinese b1c08ws04_e0fc126b:
 
     # mct "Huh. You'd think they'd know each other better considering how buddy-buddy they seem."
-    mct "Huh. You'd think they'd know each other better considering how buddy-buddy they seem."
+    mct "啊。考虑到他们的亲密关系，你以为他们应该更了解对方。"
 
 # game/code/Book-1/Chapter-8w/s04.rpy:66
 translate chinese b1c08ws04_ea7f8e5e:
 
     # mc "Well, that's just unfortunate."
-    mc "Well, that's just unfortunate."
+    mc "嗯，那太不幸了。"
 
 # game/code/Book-1/Chapter-8w/s04.rpy:67
 translate chinese b1c08ws04_8f974146:
 
     # "Monika thins her lips and smirks at you behind your back. She drags out her words."
-    "Monika thins her lips and smirks at you behind your back. She drags out her words."
+    "莫妮卡抿着嘴唇，在你背后对你得意的笑。她拖长声音说道。"
 
 # game/code/Book-1/Chapter-8w/s04.rpy:70
 translate chinese b1c08ws04_5b75068d:
 
     # mm "{i}Anyway.{/i} So..."
-    mm "{i}Anyway.{/i} So..."
+    mm "{i}管他呢。{/i}所以..."
 
 # game/code/Book-1/Chapter-8w/s04.rpy:71
 translate chinese b1c08ws04_49533d54:
 
     # mm "You were with Silvia, weren't you?"
-    mm "You were with Silvia, weren't you?"
+    mm "你当时和西尔维娅在一起，对吧？"
 
 # game/code/Book-1/Chapter-8w/s04.rpy:74
 translate chinese b1c08ws04_d8c40648:
 
     # mc "How did you—?"
-    mc "How did you—?"
+    mc "你怎么--？"
 
 # game/code/Book-1/Chapter-8w/s04.rpy:76
 translate chinese b1c08ws04_48314d69:
 
     # "Monika looks away from your eyes and shrugs."
-    "Monika looks away from your eyes and shrugs."
+    "莫妮卡移开视线，耸了耸肩。"
 
 # game/code/Book-1/Chapter-8w/s04.rpy:78
 translate chinese b1c08ws04_25093977:
 
     # mm "Just a hunch."
-    mm "Just a hunch."
+    mm "只是直觉。"
 
 # game/code/Book-1/Chapter-8w/s04.rpy:82
 translate chinese b1c08ws04_8cde14ed:
 
     # mm "With the way you were looking at her after the whole room mess, I thought you might Mr. Nice Guy your way towards her at some point."
-    mm "With the way you were looking at her after the whole room mess, I thought you might Mr. Nice Guy your way towards her at some point."
+    mm "当时整个房间里乱糟糟的，从你看她的眼神看来，我想你可能会以你专属的好男人的方式去找她。"
 
 # game/code/Book-1/Chapter-8w/s04.rpy:91
 translate chinese b1c08ws04_fe73b478:
 
     # mm "Y'know, you're a decent bloke."
-    mm "Y'know, you're a decent bloke."
+    mm "知道吗，你是个挺正派的小伙子。"
 
 # game/code/Book-1/Chapter-8w/s04.rpy:94
 translate chinese b1c08ws04_87c2810c:
 
     # mc "Uhm, thanks?"
-    mc "Uhm, thanks?"
+    mc "呃，谢了？"
 
 # game/code/Book-1/Chapter-8w/s04.rpy:97
 translate chinese b1c08ws04_113b8f59:
 
     # mm "But don't think you gotta baby her. She can handle herself just fine. I've seen it."
-    mm "But don't think you gotta baby her. She can handle herself just fine. I've seen it."
+    mm "但别以为你就一定要照顾她。她能照顾好自己，我亲眼所见。"
 
 # game/code/Book-1/Chapter-8w/s04.rpy:98
 translate chinese b1c08ws04_2d6162be:
 
     # mm "So don't worry.{w} Worry about me instead."
-    mm "So don't worry.{w} Worry about me instead."
+    mm "所以不用担心。{w}还是担心担心我吧。"
 
 # game/code/Book-1/Chapter-8w/s04.rpy:102
 translate chinese b1c08ws04_69f4915e:
 
     # mm "If I don't get some sleep tonight, I'll shank someone come game time."
-    mm "If I don't get some sleep tonight, I'll shank someone come game time."
+    mm "如果今晚我睡不成觉，比赛时我就会拿刀捅人。"
 
 # game/code/Book-1/Chapter-8w/s04.rpy:103
 translate chinese b1c08ws04_809b0674:
 
     # mm "Can I sleep in your bed? I wanna get as far away from him as possible."
-    mm "Can I sleep in your bed? I wanna get as far away from him as possible."
+    mm "我能睡你的床吗？我想离他越远越好。"
 
 # game/code/Book-1/Chapter-8w/s04.rpy:105
 translate chinese b1c08ws04_e32e3c3d:
 
     # mm "And before you get your panties in a twist, don't worry, I'll keep my hands to myself."
-    mm "And before you get your panties in a twist, don't worry, I'll keep my hands to myself."
+    mm "在你胡思乱想之前，别担心，我会管好自己的手的。"
 
 # game/code/Book-1/Chapter-8w/s04.rpy:111
 translate chinese b1c08ws04_1425b94d:
 
     # mc "*Chuckles* I somehow doubt that, but sure."
-    mc "*Chuckles* I somehow doubt that, but sure."
+    mc "*咯咯笑* 我有点怀疑，但当然，你来吧。"
 
 # game/code/Book-1/Chapter-8w/s04.rpy:117
 translate chinese b1c08ws04_43e667de:
 
     # mc "*Chuckles* I'd love to help, but I'm not sure I'm gonna get much sleeping done with you over here."
-    mc "*Chuckles* I'd love to help, but I'm not sure I'm gonna get much sleeping done with you over here."
+    mc "*咯咯笑* 很乐意帮忙，但我不确定和你睡在一起我还能睡得着。"
 
 # game/code/Book-1/Chapter-8w/s04.rpy:119
 translate chinese b1c08ws04_17439158:
 
     # mm "Ugh, you're fuckin' brutal."
-    mm "Ugh, you're fuckin' brutal."
+    mm "嗯，你真他妈残忍。"
 
 # game/code/Book-1/Chapter-8w/s04.rpy:121
 translate chinese b1c08ws04_f082b7bb:
 
     # mm "I respect that, but also fuck you."
-    mm "I respect that, but also fuck you."
+    mm "我尊重这一点，但我也他妈鄙视你。"
 
 # game/code/Book-1/Chapter-8w/s04.rpy:128
 translate chinese b1c08ws04_continue_147ec6ac:
 
     # "Monika can't hide her giddy smile as she quickly takes over half your bed and relaxes."
-    "Monika can't hide her giddy smile as she quickly takes over half your bed and relaxes."
+    "莫妮卡掩饰不住她欣喜的笑容，因为她很快就占据了你一半的床，并放松下来。"
 
 # game/code/Book-1/Chapter-8w/s04.rpy:130
 translate chinese b1c08ws04_continue_243cdaf9:
 
     # mm "I love a man that truly knows me."
-    mm "I love a man that truly knows me."
+    mm "我爱一个真正了解我的男人。"
 
 # game/code/Book-1/Chapter-8w/s04.rpy:134
 translate chinese b1c08ws04_continue_ad6da898:
 
     # "Monika then pulls your covers over her and looks at you from underneath."
-    "Monika then pulls your covers over her and looks at you from underneath."
+    "莫妮卡随后把你的被子拉过来盖住自己，从下面看着你。"
 
 # game/code/Book-1/Chapter-8w/s04.rpy:136
 translate chinese b1c08ws04_continue_c26cd6f0:
 
     # mm "*Whispers* Thanks."
-    mm "*Whispers* Thanks."
+    mm "*低语* 谢谢。"
 
 # game/code/Book-1/Chapter-8w/s04.rpy:137
 translate chinese b1c08ws04_continue_52fa2175:
 
     # "You shake your head, amused at her antics."
-    "You shake your head, amused at her antics."
+    "你摇摇头，被她的滑稽动作逗乐了。"
 
 # game/code/Book-1/Chapter-8w/s04.rpy:141
 translate chinese b1c08ws04_continue_07529d13:
 
     # mm "So..."
-    mm "So..."
+    mm "所以..."
 
 # game/code/Book-1/Chapter-8w/s04.rpy:142
 translate chinese b1c08ws04_continue_cf98262e:
 
     # mm "How serious is your thing with Iona anyway?"
-    mm "How serious is your thing with Iona anyway?"
+    mm "你和欧娜到底有多认真？"
 
 # game/code/Book-1/Chapter-8w/s04.rpy:146
 translate chinese b1c08ws04_continue_1ce8210c:
 
     # mc "We're just...well acquainted friends. Let's put it that way."
-    mc "We're just...well acquainted friends. Let's put it that way."
+    mc "我们只是...熟识的朋友。这么说吧。"
 
 # game/code/Book-1/Chapter-8w/s04.rpy:147
 translate chinese b1c08ws04_continue_fccb9547:
 
     # mc "Why do you ask?"
-    mc "Why do you ask?"
+    mc "你为什么这么问？"
 
 # game/code/Book-1/Chapter-8w/s04.rpy:151
 translate chinese b1c08ws04_continue_a21d7a8c:
 
     # mc "As far as I can remember, you said you'd keep your hands to yourself, didn't you?"
-    mc "As far as I can remember, you said you'd keep your hands to yourself, didn't you?"
+    mc "据我所知，某人说过会管好自己的手，不是吗？"
 
 # game/code/Book-1/Chapter-8w/s04.rpy:153
 translate chinese b1c08ws04_continue_50cc3625:
 
     # mm "Of course."
-    mm "Of course."
+    mm "当然。"
 
 # game/code/Book-1/Chapter-8w/s04.rpy:156
 translate chinese b1c08ws04_continue_03430b1a:
 
     # mm "Though, you have to agree that the alternative would certainly be more fun."
-    mm "Though, you have to agree that the alternative would certainly be more fun."
+    mm "不过，你必须承认，另一个选项肯定会更有趣。"
 
 # game/code/Book-1/Chapter-8w/s04.rpy:166
 translate chinese b1c08ws04_continue_e80c5f50:
 
     # mc "Iona and I are...good friends. That's it."
-    mc "Iona and I are...good friends. That's it."
+    mc "欧娜和我...是好朋友。仅此而已。"
 
 # game/code/Book-1/Chapter-8w/s04.rpy:170
 translate chinese b1c08ws04_continue_ea5302c0:
 
     # mm "Does that mean that we're {i}not{/i} good friends?"
-    mm "Does that mean that we're {i}not{/i} good friends?"
+    mm "这是不是意味着我们{i}不是{/i}好朋友？"
 
 # game/code/Book-1/Chapter-8w/s04.rpy:173
 translate chinese b1c08ws04_continue_c569f380:
 
     # mc "*Chuckles* We are, and that's exactly why I think you'd agree, that we should get as much sleep as possible to keep our energy up for the big game."
-    mc "*Chuckles* We are, and that's exactly why I think you'd agree, that we should get as much sleep as possible to keep our energy up for the big game."
+    mc "*轻笑* 我们是好朋友，这正是我认为你会同意的原因，我们应该尽可能多睡一会，为这场重要的比赛储备能量。"
 
 # game/code/Book-1/Chapter-8w/s04.rpy:174
 translate chinese b1c08ws04_continue_8f48e89b:
 
     # mc "Like you said. We wouldn't want you getting stabby."
-    mc "Like you said. We wouldn't want you getting stabby."
+    mc "就像你说的。我们可不想让你被刺伤。"
 
 # game/code/Book-1/Chapter-8w/s04.rpy:177
 translate chinese b1c08ws04_continue_f3908147:
 
     # mm "I—! Don't use my words against me!"
-    mm "I—! Don't use my words against me!"
+    mm "我--！不要用我的话攻击我！"
 
 # game/code/Book-1/Chapter-8w/s04.rpy:181
 translate chinese b1c08ws04_continue_bc8d05cc:
 
     # mc "*Smiles* Good night, Monika."
-    mc "*Smiles* Good night, Monika."
+    mc "*微笑* 晚安，莫妮卡。"
 
 # game/code/Book-1/Chapter-8w/s04.rpy:193
 translate chinese b1c08ws04_sex_fd7cba27:
 
     # mc "Hm. You make a persuasive argument."
-    mc "Hm. You make a persuasive argument."
+    mc "嗯。你的论点很有说服力。"
 
 # game/code/Book-1/Chapter-8w/s04.rpy:195
 translate chinese b1c08ws04_sex_bde612a9:
 
     # mm "*Giggles* Oh I always do."
-    mm "*Giggles* Oh I always do."
+    mm "*咯咯笑* 哦，我向来这样。"
 
 # game/code/Book-1/Chapter-8w/s04.rpy:198
 translate chinese b1c08ws04_sex_fb44488f:
 
     # "Monika runs her hand down your chest, gently caressing and teasing you with her touch."
-    "Monika runs her hand down your chest, gently caressing and teasing you with her touch."
+    "莫妮卡的手在你的胸前滑动，温柔地爱抚你，挑逗你。"
 
 # game/code/Book-1/Chapter-8w/s04.rpy:201
 translate chinese b1c08ws04_sex_16ca74aa:
 
     # "She pinches your nipple playfully, making you start, before resting her other hand on your waist."
-    "She pinches your nipple playfully, making you start, before resting her other hand on your waist."
+    "她调皮地捏着你的乳头，让你开始兴奋，然后她把另一只手放在你的腰上。"
 
 # game/code/Book-1/Chapter-8w/s04.rpy:204
 translate chinese b1c08ws04_sex_0a7270e5:
 
     # "Monika giggles at your surprise then slides her hand over your growing bulge, feeling your warmth and massaging your arousal."
-    "Monika giggles at your surprise then slides her hand over your growing bulge, feeling your warmth and massaging your arousal."
+    "莫妮卡看到你惊讶的样子咯咯直笑，然后她的手在你不断隆起的部位滑动，感受着你的温暖，按摩着你的兴奋。"
 
 # game/code/Book-1/Chapter-8w/s04.rpy:207
 translate chinese b1c08ws04_sex_fc22140a:
 
     # "Her excitement is evident as nuzzles against your skin, her hot breath singeing you in pleasure and making you arch your back and push your hips into her."
-    "Her excitement is evident as nuzzles against your skin, her hot breath singeing you in pleasure and making you arch your back and push your hips into her."
+    "当她用鼻子蹭你的皮肤时，她的兴奋是显而易见的，她热乎乎的呼吸让你快乐地弓起背，将臀部向她的方向推去。"
 
 # game/code/Book-1/Chapter-8w/s04.rpy:210
 translate chinese b1c08ws04_sex_8e315aab:
 
     # mm "Y'know... I thought you were pretty big when I saw you on the bus."
-    mm "Y'know... I thought you were pretty big when I saw you on the bus."
+    mm "你知道吗...当我在大巴车上看到你的时候，就觉得你很大。"
 
 # game/code/Book-1/Chapter-8w/s04.rpy:211
 translate chinese b1c08ws04_sex_cabe49de:
 
     # mm "*Moans* Mm, but feeling you in my hand is a whole different experience."
-    mm "*Moans* Mm, but feeling you in my hand is a whole different experience."
+    mm "*呻吟* 嗯，但用手感受你的尺寸又是完全不同的体验。"
 
 # game/code/Book-1/Chapter-8w/s04.rpy:214
 translate chinese b1c08ws04_sex_b99cd40b:
 
     # mc "Don't tell me you planned this from the beginning."
-    mc "Don't tell me you planned this from the beginning."
+    mc "别告诉我你从一开始就计划好了。"
 
 # game/code/Book-1/Chapter-8w/s04.rpy:216
 translate chinese b1c08ws04_sex_4f766b2e:
 
     # mm "Shh..."
-    mm "Shh..."
+    mm "嘘..."
 
 # game/code/Book-1/Chapter-8w/s04.rpy:217
 translate chinese b1c08ws04_sex_ce11c5bb:
 
     # mm "Let's get rid of this, shall we?"
-    mm "Let's get rid of this, shall we?"
+    mm "让我们把这东西脱掉，好吗？"
 
 # game/code/Book-1/Chapter-8w/s04.rpy:226
 translate chinese b1c08ws04_sex_c14eb846:
