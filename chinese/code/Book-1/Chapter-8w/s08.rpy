@@ -4,61 +4,61 @@
 translate chinese b1c08ws08_640e23cb:
 
     # "The tension in the room is palpable. Everyone seems lost in thought, their faces etched with concern and worry."
-    "The tension in the room is palpable. Everyone seems lost in thought, their faces etched with concern and worry."
+    "房间里的紧张气氛显而易见。每个人似乎都陷入了沉思，脸上写满了担忧和焦虑。"
 
 # game/code/Book-1/Chapter-8w/s08.rpy:46
 translate chinese b1c08ws08_e06dfc17:
 
     # sm "I've tried calling him five times now. He's not picking up."
-    sm "I've tried calling him five times now. He's not picking up."
+    sm "我已经给他打了五次电话了。他不接电话。"
 
 # game/code/Book-1/Chapter-8w/s08.rpy:49
 translate chinese b1c08ws08_6dafac32:
 
     # ir "He wouldn't just ghost for hours like this."
-    ir "He wouldn't just ghost for hours like this."
+    ir "他不会像这样一连好几个小时不露面的。"
 
 # game/code/Book-1/Chapter-8w/s08.rpy:52
 translate chinese b1c08ws08_a84cad95:
 
     # oa "We should form a search party. Maybe call the police. He could be in trouble."
-    oa "We should form a search party. Maybe call the police. He could be in trouble."
+    oa "我们应该组建一个搜索队。也许应该报警。他可能有麻烦了。"
 
 # game/code/Book-1/Chapter-8w/s08.rpy:55
 translate chinese b1c08ws08_7bc97bfa:
 
     # mm "Call the cops so that they can figure out we pumped him full of drugs he couldn't handle?"
-    mm "Call the cops so that they can figure out we pumped him full of drugs he couldn't handle?"
+    mm "打电话给警察，然后让他们知道我们给他注射了他承受不来的药物？"
 
 # game/code/Book-1/Chapter-8w/s08.rpy:56
 translate chinese b1c08ws08_532f6b3f:
 
     # mm "Good one."
-    mm "Good one."
+    mm "好主意哈。"
 
 # game/code/Book-1/Chapter-8w/s08.rpy:59
 translate chinese b1c08ws08_d6c314e9:
 
     # oa "I told you all plenty of times that we don't have to do that. Now this is what we get."
-    oa "I told you all plenty of times that we don't have to do that. Now this is what we get."
+    oa "我告诉过你们很多次了，我们不需要那样做。结果呢，这就是我们的下场。"
 
 # game/code/Book-1/Chapter-8w/s08.rpy:62
 translate chinese b1c08ws08_474e2994:
 
     # ba "Enough! You're all acting like a buncha bleeding hearts. He's a grown man fuck's sake; he can take care of himself."
-    ba "Enough! You're all acting like a buncha bleeding hearts. He's a grown man fuck's sake; he can take care of himself."
+    ba "够了！瞧你们一个个婆婆妈妈、多愁善感的样子。他是个成年人了。他能照顾好自己。"
 
 # game/code/Book-1/Chapter-8w/s08.rpy:65
 translate chinese b1c08ws08_efed2a40:
 
     # ir "Bleeding hearts!? How the fuck are you so calm?"
-    ir "Bleeding hearts!? How the fuck are you so calm?"
+    ir "多愁善感!? 你他妈的怎么能这么冷静？"
 
 # game/code/Book-1/Chapter-8w/s08.rpy:66
 translate chinese b1c08ws08_d2b184ae:
 
     # ir "He looked like he was about to pass out during the match. What if he had a fucking heart attack and died!?"
-    ir "He looked like he was about to pass out during the match. What if he had a fucking heart attack and died!?"
+    ir "在比赛中，他看起来好像要晕过去了。如果他心脏病发作死了怎么办!?"
 
 # game/code/Book-1/Chapter-8w/s08.rpy:69
 translate chinese b1c08ws08_a39dd15f:
