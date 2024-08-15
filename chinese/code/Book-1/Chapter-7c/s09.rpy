@@ -580,7 +580,7 @@ translate chinese b1c07cs09_end_e3cee718:
 translate chinese b1c07cs09_e9f9fe94:
 
     # mct "There's no way this is an official part of the university. Diana or the police would've told me, otherwise."
-    mct "There's no way this is an official part of the university. Diana or the police would've told me, otherwise."
+    mct "这不可能是大学的官方活动。否则戴安娜或警察会告诉我的。"
 
 translate chinese strings:
 
