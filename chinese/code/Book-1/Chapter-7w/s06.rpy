@@ -722,5 +722,5 @@ translate chinese strings:
 
     # game/code/Book-1/Chapter-7w/s06.rpy:6
     old "15 minutes later"
-    new "15 minutes later"
+    new "15分钟后"
 
