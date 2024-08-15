@@ -620,5 +620,5 @@ translate chinese strings:
 translate chinese b1c07ws08_38ca3ef1:
 
     # "An involuntary laugh escapes her as she finally realizes what she was doing."
-    "An involuntary laugh escapes her as she finally realizes what she was doing."
+    "她终于意识到自己在做什么，不由自主地笑了起来。"
 
