@@ -34,3 +34,15 @@ translate portuguese strings:
     old "Page [page]"
     new ""
 
+# TODO: Translation updated at 2024-08-15 13:00
+
+translate portuguese strings:
+
+    # game/code/screens/gallery.rpy:102
+    old "None"
+    new ""
+
+    # game/code/screens/gallery.rpy:105
+    old "Close"
+    new ""
+

@@ -618,12 +618,6 @@ translate chinese b1c08cs10_ritual_664c730d:
     # "Her body reacts to your touch, and she writhes against her restraints."
     "她的身体对你的触碰了有反应，她扭动着身体想挣脱束缚。"
 
-# game/code/Book-1/Chapter-8c/s10.rpy:512
-translate chinese b1c08cs10_ritual_d6a14351:
-
-    # "You slide a finger inside her, and her body reacts immediately, her wetness slipping down your hand as she tightens around you."
-    "你把一根手指伸进她的下面，她的身体立即做出反应，当她紧紧地搂着你时，她的爱液顺着你的手向下滑落。"
-
 # game/code/Book-1/Chapter-8c/s10.rpy:515
 translate chinese b1c08cs10_ritual_adb80385:
 
@@ -779,12 +773,6 @@ translate chinese b1c08cs10_ritual_398e1fec:
 
     # ad "Blessed be! For our lovely maiden flower has bloomed under Narurra's light!"
     ad "上帝保佑！因为我们可爱的少女花已经在纳鲁拉的光芒下绽放了！"
-
-# game/code/Book-1/Chapter-8c/s10.rpy:639
-translate chinese b1c08cs10_ritual_02a6c859:
-
-    # ad "The sacrifice has cum, and now we must all celebrate!"
-    ad "祭品已经高潮，现在我们都要庆祝一下！"
 
 # game/code/Book-1/Chapter-8c/s10.rpy:641
 translate chinese b1c08cs10_ritual_2b16076a:
@@ -947,4 +935,18 @@ translate chinese strings:
     # game/code/Book-1/Chapter-8c/s10.rpy:175
     old "The ritual"
     new "仪式"
+
+# TODO: Translation updated at 2024-08-15 13:01
+
+# game/code/Book-1/Chapter-8c/s10.rpy:512
+translate chinese b1c08cs10_ritual_00e452bd:
+
+    # "You slide a finger inside, and her body reacts immediately. Her wetness slipping down your hand as she tightens around you."
+    "You slide a finger inside, and her body reacts immediately. Her wetness slipping down your hand as she tightens around you."
+
+# game/code/Book-1/Chapter-8c/s10.rpy:639
+translate chinese b1c08cs10_ritual_0e69e115:
+
+    # ad "Now we must all celebrate!"
+    ad "Now we must all celebrate!"
 

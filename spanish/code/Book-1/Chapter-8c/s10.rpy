@@ -618,12 +618,6 @@ translate spanish b1c08cs10_ritual_664c730d:
     # "Her body reacts to your touch, and she writhes against her restraints."
     "Su cuerpo reacciona a tu toque y se retuerce contra sus ataduras."
 
-# game/code/Book-1/Chapter-8c/s10.rpy:512
-translate spanish b1c08cs10_ritual_d6a14351:
-
-    # "You slide a finger inside her, and her body reacts immediately, her wetness slipping down your hand as she tightens around you."
-    "Deslizas un dedo dentro de ella y su cuerpo reacciona de inmediato, su humedad se desliza por tu mano mientras se aprieta a tu alrededor."
-
 # game/code/Book-1/Chapter-8c/s10.rpy:515
 translate spanish b1c08cs10_ritual_adb80385:
 
@@ -779,12 +773,6 @@ translate spanish b1c08cs10_ritual_398e1fec:
 
     # ad "Blessed be! For our lovely maiden flower has bloomed under Narurra's light!"
     ad "¡Sean bendecidos! ¡Porque nuestra hermosa doncella ha florecido bajo la luz de Narurra!"
-
-# game/code/Book-1/Chapter-8c/s10.rpy:639
-translate spanish b1c08cs10_ritual_02a6c859:
-
-    # ad "The sacrifice has cum, and now we must all celebrate!"
-    ad "¡El sacrificio ha llegado y ahora todos debemos celebrar!"
 
 # game/code/Book-1/Chapter-8c/s10.rpy:641
 translate spanish b1c08cs10_ritual_2b16076a:
@@ -947,4 +935,18 @@ translate spanish strings:
     # game/code/Book-1/Chapter-8c/s10.rpy:175
     old "The ritual"
     new "El ritual"
+
+# TODO: Translation updated at 2024-08-15 12:57
+
+# game/code/Book-1/Chapter-8c/s10.rpy:512
+translate spanish b1c08cs10_ritual_00e452bd:
+
+    # "You slide a finger inside, and her body reacts immediately. Her wetness slipping down your hand as she tightens around you."
+    "You slide a finger inside, and her body reacts immediately. Her wetness slipping down your hand as she tightens around you."
+
+# game/code/Book-1/Chapter-8c/s10.rpy:639
+translate spanish b1c08cs10_ritual_0e69e115:
+
+    # ad "Now we must all celebrate!"
+    ad "Now we must all celebrate!"
 

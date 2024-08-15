@@ -34,3 +34,15 @@ translate spanish strings:
     old "Page [page]"
     new "Page [page]"
 
+# TODO: Translation updated at 2024-08-15 12:57
+
+translate spanish strings:
+
+    # game/code/screens/gallery.rpy:102
+    old "None"
+    new "None"
+
+    # game/code/screens/gallery.rpy:105
+    old "Close"
+    new "Close"
+
