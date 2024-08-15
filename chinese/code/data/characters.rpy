@@ -80,28 +80,28 @@ translate chinese strings:
 
     # game/code/data/characters.rpy:25
     old "Tiana"
-    new "Tiana"
+    new "蒂安娜"
 
     # game/code/data/characters.rpy:26
     old "Erica"
-    new "Erica"
+    new "艾瑞卡"
 
     # game/code/data/characters.rpy:27
     old "Dori"
-    new "Dori"
+    new "多莉"
 
     # game/code/data/characters.rpy:44
     old "Hellena Acton"
-    new "Hellena Acton"
+    new "海伦娜·阿克顿"
 
     # game/code/data/characters.rpy:57
     old "Sloan"
-    new "Sloan"
+    new "斯隆"
 
     # game/code/data/characters.rpy:58
     old "Yvonne"
-    new "Yvonne"
+    new "伊冯娜"
 
     # game/code/data/characters.rpy:59
     old "Nerium"
-    new "Nerium"
+    new "纳瑞姆"
