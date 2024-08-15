@@ -322,215 +322,215 @@ translate chinese b1c08ws05_e9ab0246:
 translate chinese b1c08ws05_a3414c63:
 
     # ec "If you want to talk to our captain, that's her."
-    ec "If you want to talk to our captain, that's her."
+    ec "如果你想和我们的队长说话，那就是她了。"
 
 # game/code/Book-1/Chapter-8w/s05.rpy:204
 translate chinese b1c08ws05_665ece8c:
 
     # don "Don't be long! We'll be waiting for you."
-    don "Don't be long! We'll be waiting for you."
+    don "别去太久！我们会等你的。"
 
 # game/code/Book-1/Chapter-8w/s05.rpy:210
 translate chinese b1c08ws05_425b24fb:
 
     # mct "*Chuckles* I almost feel bad for sending them on a wild goose chase."
-    mct "*Chuckles* I almost feel bad for sending them on a wild goose chase."
+    mct "*嗤笑* 我都要为让她们白费力气而感到难过了。"
 
 # game/code/Book-1/Chapter-8w/s05.rpy:211
 translate chinese b1c08ws05_72c04c61:
 
     # mct "Guess it'll be a lesson to not be so trusting."
-    mct "Guess it'll be a lesson to not be so trusting."
+    mct "我想这是一个教训，不要那么轻信别人。"
 
 # game/code/Book-1/Chapter-8w/s05.rpy:216
 translate chinese b1c08ws05_a97e5fb9:
 
     # mct "Now... The captain."
-    mct "Now... The captain."
+    mct "现在...这个队长。"
 
 # game/code/Book-1/Chapter-8w/s05.rpy:217
 translate chinese b1c08ws05_2189b7e1:
 
     # "As you get closer, you can't help but feel a certain air of authority around the captain."
-    "As you get closer, you can't help but feel a certain air of authority around the captain."
+    "当你走近时，你会不由自主地感受到队长身上散发出的某种权威气息。"
 
 # game/code/Book-1/Chapter-8w/s05.rpy:218
 translate chinese b1c08ws05_57ddb6fb:
 
     # "She carries herself with an elegance that is both intimidating and admirable."
-    "She carries herself with an elegance that is both intimidating and admirable."
+    "她举止优雅，既令人生畏又令人钦佩。"
 
 # game/code/Book-1/Chapter-8w/s05.rpy:220
 translate chinese b1c08ws05_f7133653:
 
     # mct "I guess not everyone on the team is trying to make a fool of themselves."
-    mct "I guess not everyone on the team is trying to make a fool of themselves."
+    mct "看来一个团队中，并不是每个人都想让自己出丑。"
 
 # game/code/Book-1/Chapter-8w/s05.rpy:222
 translate chinese b1c08ws05_24f776cd:
 
     # mc "Morning. Name's [mcname], new member of The Winner's Volleyball Team. Mind if I join you?"
-    mc "Morning. Name's [mcname], new member of The Winner's Volleyball Team. Mind if I join you?"
+    mc "早上好。我是[mcname]，赢家排球队的新队员。介意我加入你们吗？"
 
 # game/code/Book-1/Chapter-8w/s05.rpy:225
 translate chinese b1c08ws05_45852579:
 
     # tw "Not at all."
-    tw "Not at all."
+    tw "完全不介意。"
 
 # game/code/Book-1/Chapter-8w/s05.rpy:232
 translate chinese b1c08ws05_c3b994d0:
 
     # mc "Appreciate it."
-    mc "Appreciate it."
+    mc "谢谢。"
 
 # game/code/Book-1/Chapter-8w/s05.rpy:234
 translate chinese b1c08ws05_474283db:
 
     # tw "My name's Tiana. Tiana Williams. I assume you know that I'm the captain of the Crowing College volleyball team?"
-    tw "My name's Tiana. Tiana Williams. I assume you know that I'm the captain of the Crowing College volleyball team?"
+    tw "我叫蒂安娜。蒂安娜·威廉姆斯。我想你知道我是皇冠学院排球队的队长吧？"
 
 # game/code/Book-1/Chapter-8w/s05.rpy:237
 translate chinese b1c08ws05_700d295e:
 
     # mc "I wouldn't be here if I didn't."
-    mc "I wouldn't be here if I didn't."
+    mc "如果不知道，我也就不会在这里了。"
 
 # game/code/Book-1/Chapter-8w/s05.rpy:239
 translate chinese b1c08ws05_01980f0e:
 
     # tw "*Smiles* Of course."
-    tw "*Smiles* Of course."
+    tw "*微笑* 当然。"
 
 # game/code/Book-1/Chapter-8w/s05.rpy:241
 translate chinese b1c08ws05_cc99b499:
 
     # tw "This is Jason and Angie. I wouldn't be able to keep this team going without their help."
-    tw "This is Jason and Angie. I wouldn't be able to keep this team going without their help."
+    tw "这是杰森和安吉。如果没有他们的帮助，我无法让这支球队继续前进。"
 
 # game/code/Book-1/Chapter-8w/s05.rpy:244
 translate chinese b1c08ws05_df1c024a:
 
     # mc "Nice to meet you all."
-    mc "Nice to meet you all."
+    mc "很高兴见到大家。"
 
 # game/code/Book-1/Chapter-8w/s05.rpy:245
 translate chinese b1c08ws05_cbb4f702:
 
     # mct "Interesting. They look and feel older. They're probably the core members of the team."
-    mct "Interesting. They look and feel older. They're probably the core members of the team."
+    mct "有意思。他们外表和给人的感觉都更成熟。他们可能是团队的核心成员。"
 
 # game/code/Book-1/Chapter-8w/s05.rpy:248
 translate chinese b1c08ws05_f458a7d8:
 
     # mc "Beyond chit-chatting though, I'm here for a reason."
-    mc "Beyond chit-chatting though, I'm here for a reason."
+    mc "除了闲聊，我来这里是有原因的。"
 
 # game/code/Book-1/Chapter-8w/s05.rpy:251
 translate chinese b1c08ws05_60820be4:
 
     # tw "Is it about some of our members spying on your team?"
-    tw "Is it about some of our members spying on your team?"
+    tw "是因为我们的一些成员在监视你的球队吗？"
 
 # game/code/Book-1/Chapter-8w/s05.rpy:254
 translate chinese b1c08ws05_ca3b5c0b:
 
     # mc "Uh, yes."
-    mc "Uh, yes."
+    mc "嗯，是的。"
 
 # game/code/Book-1/Chapter-8w/s05.rpy:255
 translate chinese b1c08ws05_eeef3bd4:
 
     # mc "Did you put them up to it?"
-    mc "Did you put them up to it?"
+    mc "是你让他们这么做的吗？"
 
 # game/code/Book-1/Chapter-8w/s05.rpy:258
 translate chinese b1c08ws05_a51a3a4d:
 
     # tw "No. I would never. We would never use underhanded tactics to win."
-    tw "No. I would never. We would never use underhanded tactics to win."
+    tw "没有。我绝不会这么做。我们绝不会使用卑劣手段来赢得比赛。"
 
 # game/code/Book-1/Chapter-8w/s05.rpy:259
 translate chinese b1c08ws05_0d53f25f:
 
     # tw "The trio that you encountered, they're...a troublesome bunch. Eager to make a name for themselves and not very eager to listen to me."
-    tw "The trio that you encountered, they're...a troublesome bunch. Eager to make a name for themselves and not very eager to listen to me."
+    tw "你遇到的那三个人，他们...是一群麻烦制造者。急于让自己出名，却不太愿意听我的。"
 
 # game/code/Book-1/Chapter-8w/s05.rpy:262
 translate chinese b1c08ws05_2b409652:
 
     # tw "They don't report to me and I had no hand in their little operation. However, they crossed a line by spying on your team."
-    tw "They don't report to me and I had no hand in their little operation. However, they crossed a line by spying on your team."
+    tw "他们不向我汇报，我也没有参与他们的小行动。然而，他们越界了，暗中监视你的团队。"
 
 # game/code/Book-1/Chapter-8w/s05.rpy:264
 translate chinese b1c08ws05_59244ba2:
 
     # mct "Huh, seems like their team is about as dysfunctional as ours. Perfect match."
-    mct "Huh, seems like their team is about as dysfunctional as ours. Perfect match."
+    mct "嗯，看来他们的团队和我们的一样不靠谱。多完美的比赛。"
 
 # game/code/Book-1/Chapter-8w/s05.rpy:267
 translate chinese b1c08ws05_786f94ab:
 
     # tw "I apologize for their behavior. I've already talked to them about this."
-    tw "I apologize for their behavior. I've already talked to them about this."
+    tw "我为他们的行为道歉。我已经和他们谈过了。"
 
 # game/code/Book-1/Chapter-8w/s05.rpy:268
 translate chinese b1c08ws05_a18c9a23:
 
     # mct "Hm. I'm not gonna gain much by antagonizing her. Getting her on my side is the best move here."
-    mct "Hm. I'm not gonna gain much by antagonizing her. Getting her on my side is the best move here."
+    mct "嗯。跟她对着干对我没有什么好处。让她站在我这边才是上策。"
 
 # game/code/Book-1/Chapter-8w/s05.rpy:277
 translate chinese b1c08ws05_2d6a6240:
 
     # mc "*Chuckles* It's alright, I doubt they really learned anything anyway."
-    mc "*Chuckles* It's alright, I doubt they really learned anything anyway."
+    mc "*咯咯笑* 没关系，反正我也不觉得他们真的了解到了什么。"
 
 # game/code/Book-1/Chapter-8w/s05.rpy:279
 translate chinese b1c08ws05_fbc5fe18:
 
     # "The captain looks at you with a gentle smile and softer eyes."
-    "The captain looks at you with a gentle smile and softer eyes."
+    "队长带着轻柔的微笑和温柔的眼神看着你。"
 
 # game/code/Book-1/Chapter-8w/s05.rpy:281
 translate chinese b1c08ws05_fadd83c3:
 
     # tw "That's...very understanding of you. Much more so than some of your other teammates."
-    tw "That's...very understanding of you. Much more so than some of your other teammates."
+    tw "你很...能体谅人。比你的其他队友更善解人意。"
 
 # game/code/Book-1/Chapter-8w/s05.rpy:282
 translate chinese b1c08ws05_b7c0f7d2:
 
     # tw "Let me buy you a drink. My treat for all the troubles."
-    tw "Let me buy you a drink. My treat for all the troubles."
+    tw "我请你喝一杯吧。所有的麻烦我请客。"
 
 # game/code/Book-1/Chapter-8w/s05.rpy:286
 translate chinese b1c08ws05_72a2486b:
 
     # tw "What's your poison?"
-    tw "What's your poison?"
+    tw "想喝什么？"
 
 # game/code/Book-1/Chapter-8w/s05.rpy:288
 translate chinese b1c08ws05_ec2b34aa:
 
     # mc "*Smiles* You're not trying to dull me before our match, are you?"
-    mc "*Smiles* You're not trying to dull me before our match, are you?"
+    mc "*微笑* 你不会是想在比赛前让我昏昏欲睡吧？"
 
 # game/code/Book-1/Chapter-8w/s05.rpy:292
 translate chinese b1c08ws05_aa6d7395:
 
     # tw "*Smirks* Of course not. If I really wanted to, I'd have much more effective ways of making you lose concentration."
-    tw "*Smirks* Of course not. If I really wanted to, I'd have much more effective ways of making you lose concentration."
+    tw "*笑* 当然不是。如果我真想让你分心，我有更有效的方法。"
 
 # game/code/Book-1/Chapter-8w/s05.rpy:294
 translate chinese b1c08ws05_43552777:
 
     # mc "*Chuckles* I'll have what you're having then."
-    mc "*Chuckles* I'll have what you're having then."
+    mc "*咯咯笑* 那我就点你点的。"
 
 # game/code/Book-1/Chapter-8w/s05.rpy:297
 translate chinese b1c08ws05_84a7bf1a:
 
     # tw "One negroni, please."
-    tw "One negroni, please."
+    tw "请来一杯内格罗尼酒。"
 
