@@ -942,11 +942,11 @@ translate chinese strings:
 translate chinese b1c08cs10_ritual_00e452bd:
 
     # "You slide a finger inside, and her body reacts immediately. Her wetness slipping down your hand as she tightens around you."
-    "You slide a finger inside, and her body reacts immediately. Her wetness slipping down your hand as she tightens around you."
+    "你把一根手指探进去，她的身体立即做出反应。她紧紧地搂着你，湿漉漉的爱液顺着你的手滑落。"
 
 # game/code/Book-1/Chapter-8c/s10.rpy:639
 translate chinese b1c08cs10_ritual_0e69e115:
 
     # ad "Now we must all celebrate!"
-    ad "Now we must all celebrate!"
+    ad "现在我们要集体庆祝！"
 
