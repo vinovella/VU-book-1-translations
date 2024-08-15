@@ -1306,97 +1306,97 @@ translate chinese b1c08ss04_room_db9978b8:
 translate chinese b1c08ss04_room_812ac105:
 
     # ass "We all play a part in it. We need each other."
-    ass "We all play a part in it. We need each other."
+    ass "我们都是团队的一部分。我们需要彼此。"
 
 # game/code/Book-1/Chapter-8s/s04.rpy:818
 translate chinese b1c08ss04_room_61b0e8d7:
 
     # mc "I never expected to be here, working with a crew like you guys. But I'm glad I did. It's like finding a family. A place to belong."
-    mc "I never expected to be here, working with a crew like you guys. But I'm glad I did. It's like finding a family. A place to belong."
+    mc "我从没想过会来这里，与你们这样的团队共事。但我很高兴我这么做了。感觉像找到了一个家。一个有归属感的地方。"
 
 # game/code/Book-1/Chapter-8s/s04.rpy:819
 translate chinese b1c08ss04_room_33d2c2fe:
 
     # mc "It makes me feel like we'll find our friends no matter what. And we won't let the Wasps get away with what they've done. We have each other's backs."
-    mc "It makes me feel like we'll find our friends no matter what. And we won't let the Wasps get away with what they've done. We have each other's backs."
+    mc "这让我觉得无论如何，我们都会找到我们的朋友。我们不会让黄蜂队逃脱罪责。我们互相支持。"
 
 # game/code/Book-1/Chapter-8s/s04.rpy:821
 translate chinese b1c08ss04_room_402f7af4:
 
     # "Your words fill Foxy and Asami with determination and comfort. You all feel united."
-    "Your words fill Foxy and Asami with determination and comfort. You all feel united."
+    "你的话让小狐和麻美充满了决心和安慰。你们都感到团结一致。"
 
 # game/code/Book-1/Chapter-8s/s04.rpy:823
 translate chinese b1c08ss04_room_61481b7c:
 
     # fox "We're lucky to have you, [mcname]. Your skills are what made this possible. We're in it together."
-    fox "We're lucky to have you, [mcname]. Your skills are what made this possible. We're in it together."
+    fox "我们很幸运有你，[mcname]。是你的技能让这一切成为可能。我们同舟共济。"
 
 # game/code/Book-1/Chapter-8s/s04.rpy:826
 translate chinese b1c08ss04_room_d0f6e549:
 
     # mc "Thank you both. I'm glad to be here. That I can help in some way."
-    mc "Thank you both. I'm glad to be here. That I can help in some way."
+    mc "谢谢你们两位。我很高兴来到这里。很高兴我能帮上忙。"
 
 # game/code/Book-1/Chapter-8s/s04.rpy:829
 translate chinese b1c08ss04_room_107c47d7:
 
     # fox "We'll get through this. I know we will."
-    fox "We'll get through this. I know we will."
+    fox "我们会熬过去的。我知道我们会的。"
 
 # game/code/Book-1/Chapter-8s/s04.rpy:833
 translate chinese b1c08ss04_room_3516db29:
 
     # "Everyone drifts into silence. Soft breathing and soft skin against fabric are the only sounds."
-    "Everyone drifts into silence. Soft breathing and soft skin against fabric are the only sounds."
+    "每个人都陷入了沉默。只有轻柔的呼吸声和布料摩擦皮肤的声音。"
 
 # game/code/Book-1/Chapter-8s/s04.rpy:834
 translate chinese b1c08ss04_room_7d021513:
 
     # "You lay on the floor on your bedding, feeling a sense of peace and gratitude for their presence, despite the situation."
-    "You lay on the floor on your bedding, feeling a sense of peace and gratitude for their presence, despite the situation."
+    "你躺在地板上的被褥上，尽管情况危急，但你的内心却充满了平静和感激之情。"
 
 # game/code/Book-1/Chapter-8s/s04.rpy:835
 translate chinese b1c08ss04_room_cc4c1f6f:
 
     # "As exhaustion settles in, your newfound bond reminds you that none of you are alone in this fight."
-    "As exhaustion settles in, your newfound bond reminds you that none of you are alone in this fight."
+    "当疲惫感袭来时，你们新建立的纽带会提醒你们，在这场战斗中，你们都不是孤军奋战。"
 
 # game/code/Book-1/Chapter-8s/s04.rpy:837
 translate chinese b1c08ss04_room_5175af6f:
 
     # "And as you fade into darkness, you find comfort in the sounds of their breathing, their very presence."
-    "And as you fade into darkness, you find comfort in the sounds of their breathing, their very presence."
+    "当你逐渐陷入黑暗时，她们的呼吸声和她们的存在带给你安慰，她们就在你身边。"
 
 # game/code/Book-1/Chapter-8s/s04.rpy:838
 translate chinese b1c08ss04_room_658d6b40:
 
     # "You feel a strong drive to protect all these people you've met. To stand by the ones who can fight, and defend the ones who can't."
-    "You feel a strong drive to protect all these people you've met. To stand by the ones who can fight, and defend the ones who can't."
+    "你有一种强烈的冲动，想要保护你遇到的所有人。支持那些有能力战斗的人，保护那些没有能力的人。"
 
 translate chinese strings:
 
     # game/code/Book-1/Chapter-8s/s04.rpy:49
     old "Return to Guns n' Rosette"
-    new "Return to Guns n' Rosette"
+    new "回到枪炮玫瑰酒吧"
 
     # game/code/Book-1/Chapter-8s/s04.rpy:170
     old "This is a dangerous game"
-    new "This is a dangerous game"
+    new "这个游戏很危险"
 
     # game/code/Book-1/Chapter-8s/s04.rpy:170
     old "They need to be taught a lesson"
-    new "They need to be taught a lesson"
+    new "他们需要得到教训"
 
     # game/code/Book-1/Chapter-8s/s04.rpy:170
     old "We have a backup plan"
-    new "We have a backup plan"
+    new "我们有一个备用计划"
 
     # game/code/Book-1/Chapter-8s/s04.rpy:500
     old "Anything for you, doll"
-    new "Anything for you, doll"
+    new "我愿意为你做任何事，宝贝"
 
     # game/code/Book-1/Chapter-8s/s04.rpy:500
     old "We should rest"
-    new "We should rest"
+    new "我们应该休息"
 
