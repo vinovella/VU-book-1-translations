@@ -1420,19 +1420,19 @@ translate chinese strings:
 
     # game/code/Book-1/Chapter-8/s01.rpy:730
     old "The Self-Help Group"
-    new "The Self-Help Group"
+    new "自助小组"
 
     # game/code/Book-1/Chapter-8/s01.rpy:731
     old "Zemfira's Group"
-    new "Zemfira's Group"
+    new "泽菲拉的组织"
 
     # game/code/Book-1/Chapter-8/s01.rpy:732
     old "The Winner's Group"
-    new "The Winner's Group"
+    new "赢家队"
 
     # game/code/Book-1/Chapter-8/s01.rpy:734
     old "The Cult"
-    new "The Cult"
+    new "邪教"
 
     # game/code/Book-1/Chapter-8/s01.rpy:6
     old "Another day\nAt Phoebe's place"
