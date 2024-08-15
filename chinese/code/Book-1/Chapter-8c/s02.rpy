@@ -184,7 +184,7 @@ translate chinese b1c08cs02_c792c6cb:
 translate chinese b1c08cs02_c4bee7a9:
 
     # ys "This is Nerium Welch. She's my best friend, though not friendly to many others."
-    ys "这位是奈里姆·韦尔奇。她是我最好的朋友，尽管对很多人都不友好。"
+    ys "这位是纳瑞姆·韦尔奇。她是我最好的朋友，尽管对很多人都不友好。"
 
 # game/code/Book-1/Chapter-8c/s02.rpy:146
 translate chinese b1c08cs02_ff698616:
