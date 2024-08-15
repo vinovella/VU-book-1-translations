@@ -520,105 +520,105 @@ translate chinese b1c08ws09_9e93f7bc:
 translate chinese b1c08ws09_95b5fd36:
 
     # "A twinge of disappointment courses through you, but you mask it with a charming smile. As much as you'd love to talk until the wee hours, reality beckons."
-    "A twinge of disappointment courses through you, but you mask it with a charming smile. As much as you'd love to talk until the wee hours, reality beckons."
+    "一股失望的刺痛感从你全身流过，但你用潇洒的微笑掩饰住了。尽管你很想聊到凌晨，但现实在召唤你。"
 
 # game/code/Book-1/Chapter-8w/s09.rpy:251
 translate chinese b1c08ws09_f1c0651d:
 
     # mc "Right. You're right. As much as I'd love to keep this conversation going, we do need to be ready to deal with Brigitta's inevitable shitrade."
-    mc "Right. You're right. As much as I'd love to keep this conversation going, we do need to be ready to deal with Brigitta's inevitable shitrade."
+    mc "对。你说得对。尽管我很想继续聊下去，但我们确实需要准备好应对布吉塔不可避免的扯淡。"
 
 # game/code/Book-1/Chapter-8w/s09.rpy:254
 translate chinese b1c08ws09_69c86a52:
 
     # "Olesya yawns and laughs as she stands, stretching her arms above her head."
-    "Olesya yawns and laughs as she stands, stretching her arms above her head."
+    "奥列西娅打了个哈欠，站起来，双臂伸过头顶，大笑起来。"
 
 # game/code/Book-1/Chapter-8w/s09.rpy:256
 translate chinese b1c08ws09_fcb3292e:
 
     # oa "*Laughs* Very good point."
-    oa "*Laughs* Very good point."
+    oa "*笑* 说得好。"
 
 # game/code/Book-1/Chapter-8w/s09.rpy:259
 translate chinese b1c08ws09_6d1fc21f:
 
     # "Just as you're about to reach for the doorknob, Olesya's hand stops you. She hesitates for a moment, as if gathering her thoughts."
-    "Just as you're about to reach for the doorknob, Olesya's hand stops you. She hesitates for a moment, as if gathering her thoughts."
+    "正当你准备去开门时，奥列西娅的手拦住了你。她犹豫了一会儿，似乎在整理思绪。"
 
 # game/code/Book-1/Chapter-8w/s09.rpy:261
 translate chinese b1c08ws09_7114df80:
 
     # oa "Wait."
-    oa "Wait."
+    oa "等等。"
 
 # game/code/Book-1/Chapter-8w/s09.rpy:263
 translate chinese b1c08ws09_e29b3ab1:
 
     # mc "Huh—?"
-    mc "Huh—?"
+    mc "咦--？"
 
 # game/code/Book-1/Chapter-8w/s09.rpy:267
 translate chinese b1c08ws09_705dc3c5:
 
     # "Before you finish your sentence, Olesya smiles shyly and leans in and gives you a quick, tender kiss."
-    "Before you finish your sentence, Olesya smiles shyly and leans in and gives you a quick, tender kiss."
+    "你的话音还没落，奥列西娅害羞地微笑着，倾身给了你一个快速而温柔的吻。"
 
 # game/code/Book-1/Chapter-8w/s09.rpy:270
 translate chinese b1c08ws09_2575f9ef:
 
     # oa "C'mon."
-    oa "C'mon."
+    oa "走吧。"
 
 # game/code/Book-1/Chapter-8w/s09.rpy:271
 translate chinese b1c08ws09_52304dba:
 
     # "The unexpected kiss leaves you at a loss for words. You're not sure where it came from, but the memory gets seared into your mind."
-    "The unexpected kiss leaves you at a loss for words. You're not sure where it came from, but the memory gets seared into your mind."
+    "突如其来的吻让你不知所措。你不知道这个吻因何而起，但记忆却深深地烙印在你的脑海中。"
 
 # game/code/Book-1/Chapter-8w/s09.rpy:274
 translate chinese b1c08ws09_e39ab2f2:
 
     # mc "*Smiles* Lead the way."
-    mc "*Smiles* Lead the way."
+    mc "*微笑* 带路。"
 
 # game/code/Book-1/Chapter-8w/s09.rpy:276
 translate chinese b1c08ws09_2e00e493:
 
     # "Olesya yawns, covering her mouth with her hand as she stifles a giggle. The night's weariness finally catching up to her."
-    "Olesya yawns, covering her mouth with her hand as she stifles a giggle. The night's weariness finally catching up to her."
+    "奥列西娅打了个哈欠，用手捂住嘴，努力不让自己笑出声来。一夜的疲累终于将她击倒。"
 
 # game/code/Book-1/Chapter-8w/s09.rpy:278
 translate chinese b1c08ws09_f046edfd:
 
     # oa "*Yawns* We should definitely do this again sometime. It was really nice talking to you."
-    oa "*Yawns* We should definitely do this again sometime. It was really nice talking to you."
+    oa "*打哈欠* 我们以后一定要再来一次。和你谈话真的很愉快。"
 
 # game/code/Book-1/Chapter-8w/s09.rpy:281
 translate chinese b1c08ws09_d84bb0c0:
 
     # mc "We should definitely have more nights like this."
-    mc "We should definitely have more nights like this."
+    mc "我们应该共度更多这样的夜晚。"
 
 # game/code/Book-1/Chapter-8w/s09.rpy:284
 translate chinese b1c08ws09_c3126cdd:
 
     # oa "After you, kind sir."
-    oa "After you, kind sir."
+    oa "您先请，尊贵的先生。"
 
 # game/code/Book-1/Chapter-8w/s09.rpy:286
 translate chinese b1c08ws09_b7706915:
 
     # "You chuckle at her playful tone, stepping through the door as she holds it open for you."
-    "You chuckle at her playful tone, stepping through the door as she holds it open for you."
+    "当她为你开门时，你听到她俏皮的语气不禁莞尔一笑，你越过门走了进去。"
 
 translate chinese strings:
 
     # game/code/Book-1/Chapter-8w/s09.rpy:152
     old "Respond sympathetically"
-    new "Respond sympathetically"
+    new "有同理心地回应"
 
     # game/code/Book-1/Chapter-8w/s09.rpy:152
     old "Respond Politely"
-    new "Respond Politely"
+    new "有同理心地回应"
 
