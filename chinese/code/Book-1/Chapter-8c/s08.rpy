@@ -2008,7 +2008,7 @@ translate chinese b1c08cs08_end_e1d845ce:
 translate chinese b1c08cs08_ll_punishment_1ad478f1:
 
     # ad "A spanking? You harsh minx."
-    ad "A spanking? You harsh minx."
+    ad "打屁股？你这个刻薄的小妖精。"
 
 translate chinese strings:
 
