@@ -244,161 +244,161 @@ translate chinese b1c08ws10_0240096b:
 translate chinese b1c08ws10_c46dc5bc:
 
     # mct "\"Report back\"? Report to who?"
-    mct "\"Report back\"? Report to who?"
+    mct "\"回去报告\"？向谁报告？"
 
 # game/code/Book-1/Chapter-8w/s10.rpy:112
 translate chinese b1c08ws10_e83ddea1:
 
     # sm "Brigitta, calm down. That's not what I'm saying. We're all here to win, but we have to be smart about it."
-    sm "Brigitta, calm down. That's not what I'm saying. We're all here to win, but we have to be smart about it."
+    sm "布吉塔，冷静点。我不是这个意思。我们都是来赢球的，但必须聪明地赢。"
 
 # game/code/Book-1/Chapter-8w/s10.rpy:115
 translate chinese b1c08ws10_03841299:
 
     # sl "I can get behind that. Being a bit more cautious can't hurt. Maybe we should get some medical supervision?"
-    sl "I can get behind that. Being a bit more cautious can't hurt. Maybe we should get some medical supervision?"
+    sl "我同意。谨慎一点没什么坏处。也许我们应该找医生来监督一下？"
 
 # game/code/Book-1/Chapter-8w/s10.rpy:118
 translate chinese b1c08ws10_3b05e2f4:
 
     # ba "Medical supervision? What's next, asking mommy and daddy for permission?"
-    ba "Medical supervision? What's next, asking mommy and daddy for permission?"
+    ba "医疗监督？下一步是什么，要征求爸爸妈妈的同意吗？"
 
 # game/code/Book-1/Chapter-8w/s10.rpy:121
 translate chinese b1c08ws10_d4b8f024:
 
     # mm "Well, some oversight wouldn't hurt. Someone making sure we're not killing ourselves isn't gonna hurt our performance."
-    mm "Well, some oversight wouldn't hurt. Someone making sure we're not killing ourselves isn't gonna hurt our performance."
+    mm "嗯，有人监督一下没什么坏处。有人确保我们不会把自己给害了，这也不会影响我们的表现。"
 
 # game/code/Book-1/Chapter-8w/s10.rpy:126
 translate chinese b1c08ws10_6fd93ff4:
 
     # sm "That's a good idea. I'll see what I can do about that."
-    sm "That's a good idea. I'll see what I can do about that."
+    sm "好主意。我看看我能做些什么。"
 
 # game/code/Book-1/Chapter-8w/s10.rpy:127
 translate chinese b1c08ws10_bfa39521:
 
     # sm "Regardless of the drugs, we're a team. We have to work as a unit, and that means trusting each other and not being at each other's throats for every mistake."
-    sm "Regardless of the drugs, we're a team. We have to work as a unit, and that means trusting each other and not being at each other's throats for every mistake."
+    sm "抛开药物不谈，我们是一个团队。我们必须团结一致，这意味着相互信任，而不是因为犯个错误就互相指责。"
 
 # game/code/Book-1/Chapter-8w/s10.rpy:130
 translate chinese b1c08ws10_105fc5f7:
 
     # ba "*Chuckles* Life lessons now, is it? From the team manager who hardly knows what it's like to be in the line of fire."
-    ba "*Chuckles* Life lessons now, is it? From the team manager who hardly knows what it's like to be in the line of fire."
+    ba "*嗤笑* 现在要上人生课了，是吗？这大道理还是来自一位几乎不知道身处火线是什么感觉的团队经理。"
 
 # game/code/Book-1/Chapter-8w/s10.rpy:131
 translate chinese b1c08ws10_9c527cea:
 
     # "Brigitta's words carry an edge, and you can't help but sense an underlying tension between her and Silvia."
-    "Brigitta's words carry an edge, and you can't help but sense an underlying tension between her and Silvia."
+    "布吉塔的话有些刺耳，你情不自禁地感觉到她和西尔维娅之间潜在的紧张关系。"
 
 # game/code/Book-1/Chapter-8w/s10.rpy:134
 translate chinese b1c08ws10_d74b4f91:
 
     # sm "You don't have to be on the court to understand teamwork, Brigitta."
-    sm "You don't have to be on the court to understand teamwork, Brigitta."
+    sm "你在球场上拼搏，不一定了解团队整体的管理，布吉塔。"
 
 # game/code/Book-1/Chapter-8w/s10.rpy:137
 translate chinese b1c08ws10_9b33828d:
 
     # ba "Sure, but it helps to know what you're actually managing, doesn't it?"
-    ba "Sure, but it helps to know what you're actually managing, doesn't it?"
+    ba "当然，但了解你实际管理地如何，还是有点帮助的，不是吗？"
 
 # game/code/Book-1/Chapter-8w/s10.rpy:141
 translate chinese b1c08ws10_f2330ac1:
 
     # "For a moment, it looks like Silvia might say something cutting, but she holds back, letting Brigitta's words hang in the air."
-    "For a moment, it looks like Silvia might say something cutting, but she holds back, letting Brigitta's words hang in the air."
+    "有那么一刻，西尔维娅似乎要说些刻薄的话，但她忍住了，没有接布吉塔的话。"
 
 # game/code/Book-1/Chapter-8w/s10.rpy:144
 translate chinese b1c08ws10_f763148a:
 
     # mm "Can we please focus on the issue at hand? We're all on edge, but sniping at each other isn't helping."
-    mm "Can we please focus on the issue at hand? We're all on edge, but sniping at each other isn't helping."
+    mm "我们能不能把注意力集中在手头的问题上？大家都很紧张，但互相攻击于事无补。"
 
 # game/code/Book-1/Chapter-8w/s10.rpy:148
 translate chinese b1c08ws10_9c2f3bb0:
 
     # ir "Agreed. Let's at least {i}try{/i} to act like adults."
-    ir "Agreed. Let's at least {i}try{/i} to act like adults."
+    ir "同意。让我们至少{i}试着{/i}表现得像个成年人。"
 
 # game/code/Book-1/Chapter-8w/s10.rpy:150
 translate chinese b1c08ws10_128fd580:
 
     # "You take a moment to study the room."
-    "You take a moment to study the room."
+    "你花点时间研究了一下这个房间。"
 
 # game/code/Book-1/Chapter-8w/s10.rpy:151
 translate chinese b1c08ws10_3556b8be:
 
     # "Your eyes drift from Silvia to Brigitta, their body language a silent exchange of unspoken thoughts."
-    "Your eyes drift from Silvia to Brigitta, their body language a silent exchange of unspoken thoughts."
+    "你的目光从西尔维娅转向布吉塔，她们的身体语言无声地交流着彼此的想法。"
 
 # game/code/Book-1/Chapter-8w/s10.rpy:153
 translate chinese b1c08ws10_7c39e92f:
 
     # mct "What history do these two have?"
-    mct "What history do these two have?"
+    mct "这两个人之间有什么故事？"
 
 # game/code/Book-1/Chapter-8w/s10.rpy:156
 translate chinese b1c08ws10_028f3f67:
 
     # ba "Whatever. Any other life lessons we should cover? Or can we finally wrap this up?"
-    ba "Whatever. Any other life lessons we should cover? Or can we finally wrap this up?"
+    ba "随便吧。我们还要讨论其他人生经验吗？还是说我们可以结束这个话题了？"
 
 # game/code/Book-1/Chapter-8w/s10.rpy:159
 translate chinese b1c08ws10_46c8112a:
 
     # sm "*Clears her throat* No, I think we've all said our piece. We need to be careful moving forward and think about the team's future. Not just winning, but also about our well-being."
-    sm "*Clears her throat* No, I think we've all said our piece. We need to be careful moving forward and think about the team's future. Not just winning, but also about our well-being."
+    sm "*清了清嗓子* 不，我想大家都已经各抒己见了。接下来我们要谨慎行事，考虑一下团队的未来。不仅仅是赢球，还有我们的健康。"
 
 # game/code/Book-1/Chapter-8w/s10.rpy:163
 translate chinese b1c08ws10_c4e92b7f:
 
     # ba "Fine, meeting adjourned then."
-    ba "Fine, meeting adjourned then."
+    ba "好吧，那散会吧。"
 
 # game/code/Book-1/Chapter-8w/s10.rpy:166
 translate chinese b1c08ws10_eeabbe83:
 
     # ba "I need a fucking drink."
-    ba "I need a fucking drink."
+    ba "我他妈要喝一杯。"
 
 # game/code/Book-1/Chapter-8w/s10.rpy:170
 translate chinese b1c08ws10_ccda73b1:
 
     # mct "Why do I feel like this is far from over?"
-    mct "Why do I feel like this is far from over?"
+    mct "为什么我觉得这件事远没有结束？"
 
 # game/code/Book-1/Chapter-8w/s10.rpy:174
 translate chinese b1c08ws10_d365be32:
 
     # mm "Well, that was...exhausting."
-    mm "Well, that was...exhausting."
+    mm "哎，这真是...累死人了。"
 
 # game/code/Book-1/Chapter-8w/s10.rpy:177
 translate chinese b1c08ws10_b82c986e:
 
     # sl "Right? Christ."
-    sl "Right? Christ."
+    sl "对吧？天啊。"
 
 # game/code/Book-1/Chapter-8w/s10.rpy:178
 translate chinese b1c08ws10_97c9c542:
 
     # sl "I think I'm gonna go for a run. I'm tired of sitting around worrying and bickering."
-    sl "I think I'm gonna go for a run. I'm tired of sitting around worrying and bickering."
+    sl "我想去跑跑步。我厌倦了坐在那里担心和争吵。"
 
 # game/code/Book-1/Chapter-8w/s10.rpy:181
 translate chinese b1c08ws10_c54dfc3c:
 
     # ir "Count me in. I could use some steps."
-    ir "Count me in. I could use some steps."
+    ir "算我一个。我也需要活动活动。"
 
 # game/code/Book-1/Chapter-8w/s10.rpy:188
 translate chinese b1c08ws10_6778327d:
 
     # "One by one, the team files out of the room, the atmosphere thick with a mix of relief and lingering tension."
-    "One by one, the team files out of the room, the atmosphere thick with a mix of relief and lingering tension."
+    "成员一个接一个地走出房间，空气中弥漫着一种解脱和紧张情绪交织在一起的复杂气氛。"
 
