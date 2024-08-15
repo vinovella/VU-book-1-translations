@@ -480,89 +480,89 @@ translate chinese strings:
 
     # game/code/data/ib_characters.rpy:48
     old "Hellena"
-    new "Hellena"
+    new "海伦娜"
 
     # game/code/data/ib_characters.rpy:48
     old "Acton"
-    new "Acton"
+    new "阿克顿"
 
     # game/code/data/ib_characters.rpy:48
     old "Gang leader of The Wasps"
-    new "Gang leader of The Wasps"
+    new "黄蜂帮的首领"
 
     # game/code/data/ib_characters.rpy:48
     old "Gabriella"
-    new "Gabriella"
+    new "凯碧"
 
     # game/code/data/ib_characters.rpy:48
     old "Eastwood"
-    new "Eastwood"
+    new "伊斯特伍德"
 
     # game/code/data/ib_characters.rpy:48
     old "Cafeteria Lady"
-    new "Cafeteria Lady"
+    new "自助餐厅女服务员"
 
     # game/code/data/ib_characters.rpy:48
     old "James"
-    new "James"
+    new "詹姆斯"
 
     # game/code/data/ib_characters.rpy:48
     old "Harlan"
-    new "Harlan"
+    new "哈兰"
 
     # game/code/data/ib_characters.rpy:48
     old "Professor & Alumnus"
-    new "Professor & Alumnus"
+    new "教授兼校友"
 
     # game/code/data/ib_characters.rpy:48
     old "Williams"
-    new "Williams"
+    new "威廉姆斯"
 
     # game/code/data/ib_characters.rpy:48
     old "CCC Student"
-    new "CCC Student"
+    new "CCC队学生"
 
     # game/code/data/ib_characters.rpy:48
     old "O'Neil"
-    new "O'Neil"
+    new "奥尼尔"
 
     # game/code/data/ib_characters.rpy:48
     old "Carmelo"
-    new "Carmelo"
+    new "卡梅洛"
 
     # game/code/data/ib_characters.rpy:48
     old "Kara"
-    new "Kara"
+    new "卡拉"
 
     # game/code/data/ib_characters.rpy:48
     old "De'leon"
-    new "De'leon"
+    new "德莱昂"
 
     # game/code/data/ib_characters.rpy:48
     old "Professor at Vinovella University"
-    new "Professor at Vinovella University"
+    new "维诺维拉大学教授"
 
     # game/code/data/ib_characters.rpy:48
     old "The Prophet"
-    new "The Prophet"
+    new "先知"
 
     # game/code/data/ib_characters.rpy:48
     old "Welch"
-    new "Welch"
+    new "韦尔奇"
 
     # game/code/data/ib_characters.rpy:48
     old "Forest ranger"
-    new "Forest ranger"
+    new "护林人"
 
     # game/code/data/ib_characters.rpy:48
     old "Sloan T."
-    new "Sloan T."
+    new "斯隆·T·"
 
     # game/code/data/ib_characters.rpy:48
     old "Andrews"
-    new "Andrews"
+    new "安德鲁斯"
 
     # game/code/data/ib_characters.rpy:48
     old "Sanders"
-    new "Sanders"
+    new "桑德斯"
 
