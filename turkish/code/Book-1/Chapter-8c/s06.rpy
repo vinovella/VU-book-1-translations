@@ -28,7 +28,7 @@ translate turkish b1c08cs06_334fefa5:
 translate turkish b1c08cs06_6ac9b8db:
 
     # "Nia's the only other one awake, stretching her body into slender, pleasing lines."
-    "Nia's the only other one awake, stretching her body into slender, pleasing lines."
+    "Nia uyanık olan diğer tek kişi, vücudunu ince ve hoş hatlar halinde geriyor."
 
 # game/code/Book-1/Chapter-8c/s06.rpy:38
 translate turkish b1c08cs06_ec07aec2:
@@ -1132,7 +1132,7 @@ translate turkish b1c08cs06_1eb5fd8d:
 translate turkish b1c08cs06_c1352376:
 
     # nv "*Giggles* Alright, alright."
-    nv "*Giggles* Alright, alright."
+    nv "*Kıkırdamalar* Tamam, tamam."
 
 # game/code/Book-1/Chapter-8c/s06.rpy:583
 translate turkish b1c08cs06_ffb1cd67:
