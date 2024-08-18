@@ -226,7 +226,7 @@ translate turkish b1c08ws01_a35cbcdd:
 translate turkish b1c08ws01_63cdc2be:
 
     # pjh "*Laughs* I know I can always count on you to help, Monika."
-    pjh "*Laughs* I know I can always count on you to help, Monika."
+    pjh "*Gülüyor* Yardımın için sana her zaman güvenebileceğimi biliyorum, Monika."
 
 # game/code/Book-1/Chapter-8w/s01.rpy:149
 translate turkish b1c08ws01_78789ae0:
