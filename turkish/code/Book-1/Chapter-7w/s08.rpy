@@ -604,7 +604,7 @@ translate turkish b1c07ws08_6ed97b0d:
 translate turkish b1c07ws08_38ca3ef1:
 
     # "An involuntary laugh escapes her as she finally realizes what she was doing."
-    "An involuntary laugh escapes her as she finally realizes what she was doing."
+    "Sonunda ne yaptığını anladığında istemsiz bir kahkaha atıyor."
 
 
 translate turkish strings:
