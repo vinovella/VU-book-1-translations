@@ -238,7 +238,7 @@ translate turkish b1c08s01_end_4e9968c0:
 translate turkish b1c08s01_end_d9be2b18:
 
     # pm "*Chuckles* I'll keep that in mind."
-    pm "*Chuckles* I'll keep that in mind."
+    pm "*Kıkırdama* Bunu aklımda tutacağım.."
 
 # game/code/Book-1/Chapter-8/s01.rpy:244
 translate turkish b1c08s01_end_3c065be5:
@@ -256,7 +256,7 @@ translate turkish b1c08s01_end_f0943bb8:
 translate turkish b1c08s01_end_44ee717c:
 
     # pm "*Sighs* I've missed you too, Matthew. More than I'd like to admit."
-    pm "*İç çekerim* Ben de seni özledim Matthew. İtiraf etmek istediğimden daha fazla."
+    pm "*İç çeker* Ben de seni özledim Matthew. İtiraf etmek istediğimden daha fazla."
 
 # game/code/Book-1/Chapter-8/s01.rpy:252
 translate turkish b1c08s01_end_87327dc4:
@@ -1397,47 +1397,47 @@ translate turkish strings:
 translate turkish b1c08s01_continue_c8c3fe90:
 
     # mc "Well, as for [b1c08s01_lowest_points_name!t], I didn't get to investigate them as much as I'd like."
-    mc "Well, as for [b1c08s01_lowest_points_name!t], I didn't get to investigate them as much as I'd like."
+    mc "iyi, b1c08s01_lowest_points_name!t]'e gelince, onları istediğim kadar inceleyemedim."
 
 # game/code/Book-1/Chapter-8/s01.rpy:184
 translate turkish b1c08s01_continue_c0880faa:
 
     # pm "To be honest, I think it's best if you keep investigating [b1c08s01_highest_points_name!t] and [b1c08s01_second_highest_points_name!t]."
-    pm "To be honest, I think it's best if you keep investigating [b1c08s01_highest_points_name!t] and [b1c08s01_second_highest_points_name!t]."
+    pm "Dürüst olmak gerekirse, [b1c08s01_highest_points_name!t] ve [b1c08s01_second_highest_points_name!t]'i araştırmaya devam etmenizin en iyisi olduğunu düşünüyorum."
 
 # game/code/Book-1/Chapter-8/s01.rpy:188
 translate turkish b1c08s01_continue_a71b8d4e:
 
     # mc "*Sighs* Yeah, I agree. But what about [b1c08s01_lowest_points_name!t]? Should we just ignore them?"
-    mc "*Sighs* Yeah, I agree. But what about [b1c08s01_lowest_points_name!t]? Should we just ignore them?"
+    mc "*İç çeker* Evet, katılıyorum. Peki ya [b1c08s01_lowest_points_name!t]? Onları görmezden mi gelmeliyiz?"
 
 # game/code/Book-1/Chapter-8/s01.rpy:195
 translate turkish b1c08s01_continue_5090907e:
 
     # pm "Tell you what, I'll do some digging into [b1c08s01_lowest_points_name!t] on my end. Two sets of eyes are better than one."
-    pm "Tell you what, I'll do some digging into [b1c08s01_lowest_points_name!t] on my end. Two sets of eyes are better than one."
+    pm "Bak ne diyeceğim, kendi tarafımda [b1c08s01_lowest_points_name!t] hakkında biraz araştırma yapacağım. İki çift göz bir taneden daha iyidir."
 
 # game/code/Book-1/Chapter-8/s01.rpy:224
 translate turkish b1c08s01_continue_89d0ffa1:
 
     # mc "Alright, I'll focus on [b1c08s01_highest_points_name!t] and [b1c08s01_second_highest_points_name!t]. But if something catches my eye about [b1c08s01_lowest_points_name!t], I'll dig deeper."
-    mc "Alright, I'll focus on [b1c08s01_highest_points_name!t] and [b1c08s01_second_highest_points_name!t]. But if something catches my eye about [b1c08s01_lowest_points_name!t], I'll dig deeper."
+    mc "Tamam, [b1c08s01_en_yüksek_puan_adı!t] ve [b1c08s01_ikinci_en_yüksek_puan_adı!t]'na odaklanacağım. Ancak [b1c08s01_lowest_points_name!t] hakkında bir şey dikkatimi çekerse, daha derine inerim."
 
 translate turkish strings:
 
     # game/code/Book-1/Chapter-8/s01.rpy:730
     old "The Self-Help Group"
-    new "The Self-Help Group"
+    new "Kendi Kendine Yardım Grubu"
 
     # game/code/Book-1/Chapter-8/s01.rpy:731
     old "Zemfira's Group"
-    new "Zemfira's Group"
+    new "Zemfira'nın Grubu"
 
     # game/code/Book-1/Chapter-8/s01.rpy:732
     old "The Winner's Group"
-    new "The Winner's Group"
+    new "Kazananlar Grubu"
 
     # game/code/Book-1/Chapter-8/s01.rpy:734
     old "The Cult"
-    new "The Cult"
+    new "Kült"
 
