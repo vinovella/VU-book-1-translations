@@ -1000,7 +1000,7 @@ translate turkish b1c08ss04_sex_17d618f8:
 translate turkish b1c08ss04_sex_19990650:
 
     # "Your cock twitches at her need for you."
-    "Your cock twitches at her need for you."
+    "Sana olan ihtiyacı yüzünden sikin seğiriyor."
 
 # game/code/Book-1/Chapter-8s/s04.rpy:575
 translate turkish b1c08ss04_sex_6cdc3e3f:
@@ -1012,7 +1012,7 @@ translate turkish b1c08ss04_sex_6cdc3e3f:
 translate turkish b1c08ss04_sex_bb85e479:
 
     # ass "Oh fuck yes, give me every inch, fuck me hard."
-    ass "Oh fuck yes, give me every inch, fuck me hard."
+    ass "Evet, her santimini ver bana, sertçe sik beni."
 
 # game/code/Book-1/Chapter-8s/s04.rpy:589
 translate turkish b1c08ss04_sex_ab0ba4f0:
@@ -1102,7 +1102,7 @@ translate turkish b1c08ss04_sex_d4df1554:
 translate turkish b1c08ss04_sex_64bd779a:
 
     # ass "Oh fuck!"
-    ass "Oh fuck!"
+    ass "Ah Siktirr!"
 
 # game/code/Book-1/Chapter-8s/s04.rpy:695
 translate turkish b1c08ss04_sex_60eb38f8:
@@ -1132,7 +1132,7 @@ translate turkish b1c08ss04_sex_4905a8d4:
 translate turkish b1c08ss04_sex_f689dbc0:
 
     # ass "I'm c-cumming!"
-    ass "I'm c-cumming!"
+    ass "Boşalıyorum!"
 
 # game/code/Book-1/Chapter-8s/s04.rpy:716
 translate turkish b1c08ss04_sex_cb160f8e:
