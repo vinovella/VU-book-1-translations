@@ -580,7 +580,7 @@ translate turkish b1c07cs09_end_e3cee718:
 translate turkish b1c07cs09_e9f9fe94:
 
     # mct "There's no way this is an official part of the university. Diana or the police would've told me, otherwise."
-    mct "There's no way this is an official part of the university. Diana or the police would've told me, otherwise."
+    mct "Bunun üniversitenin resmi bir parçası olmasına imkan yok. Aksi takdirde Diana ya da polis bana söylerdi."
     
 translate turkish strings:
 
