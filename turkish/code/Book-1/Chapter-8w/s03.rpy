@@ -256,7 +256,7 @@ translate turkish b1c08ws03_a5cb3ddd:
 translate turkish b1c08ws03_585ece96:
 
     # sm "*Chuckles* You're a real detective, huh?"
-    sm "*Chuckles* You're a real detective, huh?"
+    sm "*Kıkırdamalar* Sen gerçek bir dedektifsin, ha?"
 
 # game/code/Book-1/Chapter-8w/s03.rpy:169
 translate turkish b1c08ws03_17f8edf2:
