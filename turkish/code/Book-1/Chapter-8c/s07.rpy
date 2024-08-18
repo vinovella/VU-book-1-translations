@@ -730,7 +730,7 @@ translate turkish b1c08cs07_sex_5d4a2b95:
 translate turkish b1c08cs07_sex_3598c7dd:
 
     # mc "Heh. She's something alright."
-    mc "Heh. She's something alright."
+    mc "Heh. O iyi bir şey."
 
 # game/code/Book-1/Chapter-8c/s07.rpy:481
 translate turkish b1c08cs07_sex_8d44f7ac:
