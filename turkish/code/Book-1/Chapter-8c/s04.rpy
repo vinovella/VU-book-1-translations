@@ -340,7 +340,7 @@ translate turkish b1c08cs04_65ec37d0:
 translate turkish b1c08cs04_fc7b9f17:
 
     # ll "I guess sometimes parents just suck, huh?"
-    ll "I guess sometimes parents just suck, huh?"
+    ll "Sanırım bazen aileler berbat oluyor., ha?"
 
 # game/code/Book-1/Chapter-8c/s04.rpy:182
 translate turkish b1c08cs04_abd30fc1:
