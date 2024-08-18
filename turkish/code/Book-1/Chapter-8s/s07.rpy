@@ -292,7 +292,7 @@ translate turkish b1c08ss07_876dffef:
 translate turkish b1c08ss07_384934d0:
 
     # ha "There {i}is{/i} one thing I want to make clear first..."
-    ha "Önce açıklığa kavuşturmak istediğim {i}bir şey var..."
+    ha "Önce açıklığa kavuşturmak istediğim bir şey var..."
 
 # game/code/Book-1/Chapter-8s/s07.rpy:177
 translate turkish b1c08ss07_556ef92b:
@@ -892,7 +892,7 @@ translate turkish b1c08ss07_after_pegging_21a77af7:
 translate turkish b1c08ss07_after_pegging_c50ceb9f:
 
     # ha "Oh darling, you underestimate your worth. You see, I know you're close to Xasan. It was reported to me that you were trying to save him. And that makes you quite valuable to me."
-    Ha "Oh sevgilim, değerini hafife alıyorsun. Görüyorsun, Xasan'a yakın olduğunu biliyorum. Onu kurtarmaya çalıştığın bana bildirildi. Bu da seni benim için oldukça değerli kılıyor."
+    ha "Oh sevgilim, değerini hafife alıyorsun. Görüyorsun, Xasan'a yakın olduğunu biliyorum. Onu kurtarmaya çalıştığın bana bildirildi. Bu da seni benim için oldukça değerli kılıyor."
 
 # game/code/Book-1/Chapter-8s/s07.rpy:612
 translate turkish b1c08ss07_after_pegging_139c9a18:

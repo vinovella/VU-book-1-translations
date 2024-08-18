@@ -28,7 +28,7 @@ translate turkish b1c08ss10_01542393:
 translate turkish b1c08ss10_81a712dc:
 
     # ass "What? I'm just being honest."
-    eşek "Ne? Sadece dürüst oluyorum."
+    ass "Ne? Sadece dürüst oluyorum."
 
 # game/code/Book-1/Chapter-8s/s10.rpy:43
 translate turkish b1c08ss10_21a9ea3a:

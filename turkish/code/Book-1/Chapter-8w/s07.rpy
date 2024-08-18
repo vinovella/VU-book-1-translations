@@ -802,7 +802,7 @@ translate turkish b1c08ws07_47ff6fb7:
 translate turkish b1c08ws07_5952d7a2:
 
     # ba "Little off? {b}Little off!?{/b} You're dragging us all down!"
-    ba "Birazcık mı? {Birazcık! Hepimizi aşağı çekiyorsun!"
+    ba "Birazcık mı? Birazcık! Hepimizi aşağı çekiyorsun!"
 
 # game/code/Book-1/Chapter-8w/s07.rpy:576
 translate turkish b1c08ws07_14fe47ae:

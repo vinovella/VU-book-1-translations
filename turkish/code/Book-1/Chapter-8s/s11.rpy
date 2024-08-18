@@ -670,7 +670,7 @@ translate turkish b1c08ss11_mg_sex_1a2ef21f:
 translate turkish b1c08ss11_mg_sex_34c19645:
 
     # mc "Stay. {w}Please."
-    mc "Kal. {Lütfen."
+    mc "Kal. {w}Lütfen."
 
 # game/code/Book-1/Chapter-8s/s11.rpy:424
 translate turkish b1c08ss11_mg_sex_e310524e:

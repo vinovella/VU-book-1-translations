@@ -214,7 +214,7 @@ translate turkish b1c08ss09_642e3b09:
 translate turkish b1c08ss09_cd832d36:
 
     # ass "I'll say! Fleur and I are tending to their wounds while they recover, and all they wanna do is brag about the insults they shouted at Cade and complain about my nursing skills."
-    eşek "Söyleyeceğim! Fleur ve ben onlar iyileşirken yaralarıyla ilgileniyoruz ve tek yapmak istedikleri Cade'e ettikleri hakaretlerle övünmek ve hemşirelik becerilerimden şikayet etmek."
+    ass "Söyleyeceğim! Fleur ve ben onlar iyileşirken yaralarıyla ilgileniyoruz ve tek yapmak istedikleri Cade'e ettikleri hakaretlerle övünmek ve hemşirelik becerilerimden şikayet etmek."
 
 # game/code/Book-1/Chapter-8s/s09.rpy:122
 translate turkish b1c08ss09_2d415256:
@@ -454,7 +454,7 @@ translate turkish b1c08ss09_0b0df850:
 translate turkish b1c08ss09_fb07c5de:
 
     # fox "Perhaps, but he was only trying to—"
-    tilki "Belki, ama o sadece-"
+    fox "Belki, ama o sadece-"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:276
 translate turkish b1c08ss09_e3383c54:

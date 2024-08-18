@@ -1272,7 +1272,7 @@ translate turkish strings:
 
     # game/code/Book-1/Chapter-8w/s02.rpy:251
     old "Mime that you've \"wrestled\" a bear"
-    new "Bir ayıyla "güreştiğinizi" taklit edin"
+    new "Bir ayıyla \"güreştiğinizi\" taklit edin"
 
     # game/code/Book-1/Chapter-8w/s02.rpy:251
     old "Mime that you've sailed around the world"
@@ -1292,7 +1292,7 @@ translate turkish strings:
 
     # game/code/Book-1/Chapter-8w/s02.rpy:299
     old "Mime you \"breakdancing\""
-    new ""Breakdans" taklidi yap."
+    new "\"Breakdans\" taklidi yap."
 
     # game/code/Book-1/Chapter-8w/s02.rpy:353
     old "Mime that you can play the piano"
