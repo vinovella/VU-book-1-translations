@@ -196,13 +196,13 @@ translate turkish b1c08cs05_78c9ffe3:
 translate turkish b1c08cs05_a8acea92:
 
     # sta "Blessed be our Prophet, the face of love undying."
-    sta "Kutlu olsun Peygamberimiz, aşkın ölümsüz yüzü."
+    sta "Kutlu olsun The Prophetimiz, aşkın ölümsüz yüzü."
 
 # game/code/Book-1/Chapter-8c/s05.rpy:157
 translate turkish b1c08cs05_07d98e13:
 
     # sta "The Prophet has come here to carry out the will of Narurra."
-    sta "Peygamber buraya Narurra'nın isteğini yerine getirmek için geldi."
+    sta "The Prophet buraya Narurra'nın isteğini yerine getirmek için geldi."
 
 # game/code/Book-1/Chapter-8c/s05.rpy:164
 translate turkish b1c08cs05_93229a38:
@@ -220,31 +220,31 @@ translate turkish b1c08cs05_63fcc19f:
 translate turkish b1c08cs05_be3d04d3:
 
     # "The Prophet" "You poor thing."
-    "Peygamber" "Seni zavallı şey."
+    "The Prophet" "Seni zavallı şey."
 
 # game/code/Book-1/Chapter-8c/s05.rpy:201
 translate turkish b1c08cs05_2165b1a7:
 
     # "The Prophet" "Sweet aching lamb."
-    "The Prophet" "Sweet aching lamb."
+    "The Prophet" "Tatlı ağrıyan kuzu."
 
 # game/code/Book-1/Chapter-8c/s05.rpy:202
 translate turkish b1c08cs05_afd0fb11:
 
     # "The Prophet" "Do not be afraid. Your suffering is destined. There's nothing you can do."
-    "Peygamber" "Korkma. Acı çekmen kaderinde var. Yapabileceğin hiçbir şey yok."
+    "The Prophet" "Korkma. Acı çekmen kaderinde var. Yapabileceğin hiçbir şey yok."
 
 # game/code/Book-1/Chapter-8c/s05.rpy:203
 translate turkish b1c08cs05_46bf3bb8:
 
     # "The Prophet" "Draw strength from me. I am the white light that will guide our new spirit into this world."
-    "Peygamber" "Benden güç al. Ben yeni ruhumuza bu dünyada rehberlik edecek beyaz ışığım."
+    "The Prophet" "Benden güç al. Ben yeni ruhumuza bu dünyada rehberlik edecek beyaz ışığım."
 
 # game/code/Book-1/Chapter-8c/s05.rpy:206
 translate turkish b1c08cs05_217ae4cd:
 
     # "The Prophet" "I am the small death that harrows any baneful will sent our way."
-    "Peygamber" "Ben yolumuza çıkan her türlü uğursuzluğu kovalayan küçük ölümüm."
+    "The Prophet" "Ben yolumuza çıkan her türlü uğursuzluğu kovalayan küçük ölümüm."
 
 # game/code/Book-1/Chapter-8c/s05.rpy:212
 translate turkish b1c08cs05_d9611cc9:
@@ -256,7 +256,7 @@ translate turkish b1c08cs05_d9611cc9:
 translate turkish b1c08cs05_d063e13d:
 
     # "The Prophet" "I am the face of love's protective rage."
-    "Peygamber" "Ben aşkın koruyucu öfkesinin yüzüyüm."
+    "The Prophet" "Ben aşkın koruyucu öfkesinin yüzüyüm."
 
 # game/code/Book-1/Chapter-8c/s05.rpy:220
 translate turkish b1c08cs05_d2e3d764:
@@ -286,7 +286,7 @@ translate turkish b1c08cs05_63c59a7e:
 translate turkish b1c08cs05_8e9d4b99:
 
     # "The Prophet fucks Yvonne harder, drawing a heated and passionate orgasm from her."
-    "Peygamber Yvonne'u daha sert sikiyor, ondan ateşli ve tutkulu bir orgazm alıyor."
+    "The Prophet Yvonne'u daha sert sikiyor, ondan ateşli ve tutkulu bir orgazm alıyor."
 
 # game/code/Book-1/Chapter-8c/s05.rpy:274
 translate turkish b1c08cs05_22d46a69:
@@ -334,19 +334,19 @@ translate turkish b1c08cs05_b18a297e:
 translate turkish b1c08cs05_1d4707e0:
 
     # "Yvonne breathes heavily, still clinging to The Prophet. The air is thick with an otherworldly atmosphere, and the sharp scent of blood and sex drifts through the air."
-    "Yvonne ağır ağır nefes alıyor, hala Peygamber'e tutunuyor. Havada uhrevi bir atmosfer var ve keskin kan ve seks kokusu havada süzülüyor."
+    "Yvonne ağır ağır nefes alıyor, hala The Prophet'e tutunuyor. Havada uhrevi bir atmosfer var ve keskin kan ve seks kokusu havada süzülüyor."
 
 # game/code/Book-1/Chapter-8c/s05.rpy:311
 translate turkish b1c08cs05_2167cf81:
 
     # "The Prophet" "I can feel you pulsing all around me."
-    "The Prophet" "I can feel you pulsing all around me."
+    "The Prophet" "Her yanımda nabzının attığını hissedebiliyorum."
 
 # game/code/Book-1/Chapter-8c/s05.rpy:312
 translate turkish b1c08cs05_ef20d8b6:
 
     # "The Prophet" "What do you feel?"
-    "Peygamber" "Ne hissediyorsun?"
+    "The Prophet" "Ne hissediyorsun?"
 
 # game/code/Book-1/Chapter-8c/s05.rpy:318
 translate turkish b1c08cs05_2e2ae704:
@@ -364,7 +364,7 @@ translate turkish b1c08cs05_51b5ff8d:
 translate turkish b1c08cs05_2f4ff3b6:
 
     # "The Prophet" "Then we'll keep trying."
-    "Peygamber" "O zaman denemeye devam edeceğiz."
+    "The Prophet" "O zaman denemeye devam edeceğiz."
 
 # game/code/Book-1/Chapter-8c/s05.rpy:329
 translate turkish b1c08cs05_925b3bb1:
