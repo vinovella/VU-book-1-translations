@@ -418,7 +418,7 @@ translate turkish b1c08ss07_cb231cae:
 translate turkish b1c08ss07_cd6ca86d:
 
     # cjh "I'm-I'm sorry."
-    cjh "I'm-I'm sorry."
+    cjh "Öz-Özür dilerim.."
 
 # game/code/Book-1/Chapter-8s/s07.rpy:239
 translate turkish b1c08ss07_4c698d01:
@@ -940,7 +940,7 @@ translate turkish b1c08ss07_after_pegging_f7a1ab07:
 translate turkish b1c08ss07_after_pegging_4db62116:
 
     # mct "Ha! *Sarcastic* I wish."
-    mct "Ha! *Sarcastic* I wish."
+    mct "Ha! *Alaycı* Keşke."
 
 # game/code/Book-1/Chapter-8s/s07.rpy:627
 translate turkish b1c08ss07_after_pegging_b692304f:
