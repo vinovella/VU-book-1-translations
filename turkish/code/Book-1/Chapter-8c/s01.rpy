@@ -394,7 +394,7 @@ translate turkish b1c08cs01_ded8017b:
 translate turkish b1c08cs01_58616234:
 
     # ll "I-I guess."
-    ll "I-I guess."
+    ll "Sanırım."
 
 # game/code/Book-1/Chapter-8c/s01.rpy:219
 translate turkish b1c08cs01_82a36ce8:
@@ -562,7 +562,7 @@ translate turkish b1c08cs01_810d8170:
 translate turkish b1c08cs01_5628ac95:
 
     # ef "That's so fucking cool."
-    ef "That's so fucking cool."
+    ef "Bu çok havalı."
 
 # game/code/Book-1/Chapter-8c/s01.rpy:295
 translate turkish b1c08cs01_9566a4c5:
