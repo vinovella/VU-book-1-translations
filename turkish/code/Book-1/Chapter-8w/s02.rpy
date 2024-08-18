@@ -106,7 +106,7 @@ translate turkish b1c08ws02_c61c0fb0:
 translate turkish b1c08ws02_760baffb:
 
     # "She leans in closer, her lips caressing your ear as she whispers."
-    "She leans in closer, her lips caressing your ear as she whispers."
+    "Daha yakına eğiliyor, fısıldarken dudakları kulağınızı okşuyor."
 
 # game/code/Book-1/Chapter-8w/s02.rpy:62
 translate turkish b1c08ws02_46ce265c:
@@ -592,7 +592,7 @@ translate turkish b1c08ws02_6332973f:
 translate turkish b1c08ws02_58135cdc:
 
     # ba "*Snorts* He's taking a big ol' cock."
-    ba "*Snorts* He's taking a big ol' cock."
+    ba "*Homurdanmalar* Büyük bir yarak alıyor."
 
 # game/code/Book-1/Chapter-8w/s02.rpy:326
 translate turkish b1c08ws02_017a262f:
@@ -796,7 +796,7 @@ translate turkish b1c08ws02_8a12136b:
 translate turkish b1c08ws02_c660b6a2:
 
     # sl "{i}Everything{/i} else was true?"
-    sl "{i}Everything{/i} else was true?"
+    sl "{i}Diğer her şey{/i} doğru muydu?"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:449
 translate turkish b1c08ws02_47721f2e:
@@ -1036,7 +1036,7 @@ translate turkish b1c08ws02_74178b68:
 translate turkish b1c08ws02_8a954c56:
 
     # ir "*Giggles* I like feeling your warmth between my legs."
-    ir "*Giggles* I like feeling your warmth between my legs."
+    ir "*Kıkırdamalar* Bacaklarımın arasında sıcaklığını hissetmek hoşuma gidiyor."
 
 # game/code/Book-1/Chapter-8w/s02.rpy:560
 translate turkish b1c08ws02_23b6f24e:
@@ -1060,7 +1060,7 @@ translate turkish b1c08ws02_e522944f:
 translate turkish b1c08ws02_3d2efe80:
 
     # mct "*Chuckles* I'm just going to enjoy it while it lasts I suppose."
-    mct "*Chuckles* I'm just going to enjoy it while it lasts I suppose."
+    mct "*Kıkırdamalar* Sanırım sürdüğü sürece tadını çıkaracağım."
 
 # game/code/Book-1/Chapter-8w/s02.rpy:582
 translate turkish b1c08ws02_c9a3ad2f:
@@ -1240,7 +1240,7 @@ translate turkish b1c08ws02_29551211:
 translate turkish b1c08ws02_4515887d:
 
     # sl "I'm fine with that."
-    sl "I'm fine with that."
+    sl "Ben böyle iyiyim."
 
 # game/code/Book-1/Chapter-8w/s02.rpy:659
 translate turkish b1c08ws02_e836d526:
