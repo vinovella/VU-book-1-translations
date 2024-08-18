@@ -394,13 +394,13 @@ translate turkish b1c08cs10_ritual_f129b233:
 translate turkish b1c08cs10_ritual_d4c4484a:
 
     # nv "*Whispers* You're doing great."
-    nv "*Whispers* You're doing great."
+    nv "*Fısıltılar* Harika gidiyorsun."
 
 # game/code/Book-1/Chapter-8c/s10.rpy:382
 translate turkish b1c08cs10_ritual_b487e7db:
 
     # nv "*Whispers* Just keep letting your higher self guide you."
-    nv "*Whispers* Just keep letting your higher self guide you."
+    nv "*Fısıltılar* Sadece yüksek benliğinizin size rehberlik etmesine izin vermeye devam edin."
 
 # game/code/Book-1/Chapter-8c/s10.rpy:386
 translate turkish b1c08cs10_ritual_0df00203:
@@ -941,11 +941,11 @@ translate turkish strings:
 translate turkish b1c08cs10_ritual_00e452bd:
 
     # "You slide a finger inside, and her body reacts immediately. Her wetness slipping down your hand as she tightens around you."
-    "You slide a finger inside, and her body reacts immediately. Her wetness slipping down your hand as she tightens around you."
+    "Bir parmağını içeri kaydırıyorsun ve vücudu hemen tepki veriyor. Etrafınızda sıkılaşırken ıslaklığı elinizden aşağı kayıyor."
 
 # game/code/Book-1/Chapter-8c/s10.rpy:639
 translate turkish b1c08cs10_ritual_0e69e115:
 
     # ad "Now we must all celebrate!"
-    ad "Now we must all celebrate!"
+    ad "Şimdi hepimiz kutlamalıyız!"
 
