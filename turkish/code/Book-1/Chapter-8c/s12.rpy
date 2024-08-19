@@ -346,7 +346,7 @@ translate turkish b1c08cs12_42e6dd64:
 translate turkish b1c08cs12_2cdf7451:
 
     # mc "I {i}won't{/i}."
-    mc "I {i}won't{/i}."
+    mc "{i}Yapmayacağım{/i}."
 
 # game/code/Book-1/Chapter-8c/s12.rpy:205
 translate turkish b1c08cs12_45305515:
@@ -394,7 +394,7 @@ translate turkish b1c08cs12_6d6893d3:
 translate turkish b1c08cs12_d9f866d1:
 
     # mct "Do the best I can, one thing at a time..."
-    mct "Do the best I can, one thing at a time..."
+    mct "Elimden geleni yapıyorum, her seferinde bir şey..."
 
 translate turkish strings:
 
