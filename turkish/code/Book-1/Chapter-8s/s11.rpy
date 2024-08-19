@@ -832,7 +832,7 @@ translate turkish b1c08ss11_mg_sex_36f330a2:
 translate turkish b1c08ss11_mg_sex_ffd6a1df:
 
     # "Her walls tighten and convulse around you eagerly in response."
-    "Her walls tighten and convulse around you eagerly in response."
+    "Duvarları sıkılaşıyor ve yanıt olarak hevesle etrafınızda sarsılıyor."
 
 # game/code/Book-1/Chapter-8s/s11.rpy:508
 translate turkish b1c08ss11_mg_sex_1ac52fe5:
@@ -1048,7 +1048,7 @@ translate turkish b1c08ss11_mg_sex_e3825596:
 translate turkish b1c08ss11_mg_sex_395711b3:
 
     # mg "You're a quick learner, I'll give you that."
-    mg "You're a quick learner, I'll give you that."
+    mg "Çabuk öğreniyorsun, hakkını vereyim."
 
 # game/code/Book-1/Chapter-8s/s11.rpy:641
 translate turkish b1c08ss11_mg_sex_1fa118fe:
