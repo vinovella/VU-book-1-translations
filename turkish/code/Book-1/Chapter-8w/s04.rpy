@@ -10,13 +10,13 @@ translate turkish b1c08ws04_3f673793:
 translate turkish b1c08ws04_8e0070fb:
 
     # mc "*Chuckles* Sorry. Didn't mean to keep you up."
-    mc "*Chuckles* Üzgünüm. Seni ayakta tutmak istemedim."
+    mc "*Kıkırdama* Üzgünüm. Seni ayakta tutmak istemedim."
 
 # game/code/Book-1/Chapter-8w/s04.rpy:43
 translate turkish b1c08ws04_232db0e3:
 
     # mm "*Snorts* Don't flatter yourself, Charming."
-    mm "*Snorts* Don't flatter yourself, Charming."
+    mm "*Homurdanmalar* Kendini övme, Yakışıklı."
 
 # game/code/Book-1/Chapter-8w/s04.rpy:44
 translate turkish b1c08ws04_d95d6188:
@@ -46,7 +46,7 @@ translate turkish b1c08ws04_6f6001ee:
 translate turkish b1c08ws04_116f68e7:
 
     # mm "*Gasps* Victim blaming much?"
-    mm "*Gasps* Victim blaming much?"
+    mm "*Nefes nefese* Kurbanı suçlamak çok mu?"
 
 # game/code/Book-1/Chapter-8w/s04.rpy:58
 translate turkish b1c08ws04_c1aacbe1:
@@ -286,7 +286,7 @@ translate turkish b1c08ws04_continue_f3908147:
 translate turkish b1c08ws04_continue_bc8d05cc:
 
     # mc "*Smiles* Good night, Monika."
-    mc "*Smiles* İyi geceler, Monika."
+    mc "*Gülümsüyor* İyi geceler, Monika."
 
 # game/code/Book-1/Chapter-8w/s04.rpy:193
 translate turkish b1c08ws04_sex_fd7cba27:
@@ -298,7 +298,7 @@ translate turkish b1c08ws04_sex_fd7cba27:
 translate turkish b1c08ws04_sex_bde612a9:
 
     # mm "*Giggles* Oh I always do."
-    mm "*Giggles* Oh I always do."
+    mm "*Kıkırdamalar* Her zaman yaparım."
 
 # game/code/Book-1/Chapter-8w/s04.rpy:198
 translate turkish b1c08ws04_sex_fb44488f:
@@ -334,7 +334,7 @@ translate turkish b1c08ws04_sex_8e315aab:
 translate turkish b1c08ws04_sex_cabe49de:
 
     # mm "*Moans* Mm, but feeling you in my hand is a whole different experience."
-    mm "*Moans* Mm, ama seni elimde hissetmek bambaşka bir deneyim."
+    mm "*İnlemeler* Mm, ama seni elimde hissetmek bambaşka bir deneyim."
 
 # game/code/Book-1/Chapter-8w/s04.rpy:214
 translate turkish b1c08ws04_sex_b99cd40b:
@@ -358,7 +358,7 @@ translate turkish b1c08ws04_sex_ce11c5bb:
 translate turkish b1c08ws04_sex_c14eb846:
 
     # "Needily, Monika mounts you. She makes quick work of your pants and pulls them away, eager to see how hard you've gotten for her."
-    "Needily, Monika mounts you. Pantolonunu çabucak indirir ve çeker, onun için ne kadar sertleştiğini görmek ister."
+    "İhtiyaçla, Monika sana biner. Pantolonunu çabucak indirir ve çeker, onun için ne kadar sertleştiğini görmek ister."
 
 # game/code/Book-1/Chapter-8w/s04.rpy:228
 translate turkish b1c08ws04_sex_f99b2c51:
@@ -478,7 +478,7 @@ translate turkish b1c08ws04_sex_ba24f005:
 translate turkish b1c08ws04_sex_e7945248:
 
     # mc "*Chuckles* Life sure is full of surprises, isn't it?"
-    mc "*Chuckles* Hayat sürprizlerle dolu, değil mi?"
+    mc "*Kıkırdamalar* Hayat sürprizlerle dolu, değil mi?"
 
 # game/code/Book-1/Chapter-8w/s04.rpy:330
 translate turkish b1c08ws04_sex_663dd068:
@@ -574,7 +574,7 @@ translate turkish b1c08ws04_sex_04ba645d:
 translate turkish b1c08ws04_sex_1e2177b8:
 
     # mc "Meltdown?"
-    mc "Meltdown?"
+    mc "Erime mi?"
 
 # game/code/Book-1/Chapter-8w/s04.rpy:375
 translate turkish b1c08ws04_sex_5044b1fd:
@@ -592,7 +592,7 @@ translate turkish b1c08ws04_sex_cfc9510e:
 translate turkish b1c08ws04_sex_84a74e65:
 
     # mc "*Smirks* Did I tucker you out?"
-    mc "*Smirks* Did I tucker you out?"
+    mc "*Gülümsüyor* Seni bayılttım mı?"
 
 # game/code/Book-1/Chapter-8w/s04.rpy:383
 translate turkish b1c08ws04_sex_25b7c096:
