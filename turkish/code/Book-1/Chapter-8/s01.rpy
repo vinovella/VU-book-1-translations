@@ -1386,18 +1386,11 @@ translate turkish b1c08s01_recap_c08s_493c3197:
     # mc "Xasan then finally made me into a fighter for The Syndicate."
     mc "Xasan sonunda beni The Syndicate için bir savaşçı yaptı."
 
-translate turkish strings:
-
-    # game/code/Book-1/Chapter-8/s01.rpy:6
-    old "Another day\nAt Phoebe's place"
-    new "Başka bir gün\nPhoebe'nin yerinde"
-# TODO: Translation updated at 2024-08-18 17:17
-
 # game/code/Book-1/Chapter-8/s01.rpy:168
 translate turkish b1c08s01_continue_c8c3fe90:
 
     # mc "Well, as for [b1c08s01_lowest_points_name!t], I didn't get to investigate them as much as I'd like."
-    mc "iyi, b1c08s01_lowest_points_name!t]'e gelince, onları istediğim kadar inceleyemedim."
+    mc "iyi, [b1c08s01_lowest_points_name!t]'e gelince, onları istediğim kadar inceleyemedim."
 
 # game/code/Book-1/Chapter-8/s01.rpy:184
 translate turkish b1c08s01_continue_c0880faa:
@@ -1440,4 +1433,8 @@ translate turkish strings:
     # game/code/Book-1/Chapter-8/s01.rpy:734
     old "The Cult"
     new "Kült"
+
+    # game/code/Book-1/Chapter-8/s01.rpy:6
+    old "Another day\nAt Phoebe's place"
+    new "Başka bir gün\nPhoebe'nin yerinde"
 
