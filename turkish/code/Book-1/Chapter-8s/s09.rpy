@@ -1060,7 +1060,7 @@ translate turkish b1c08ss09_8b845d7f:
 translate turkish b1c08ss09_42b14830:
 
     # zp "Are you fucking serious?"
-    zp "Are you fucking serious?"
+    zp "Ciddi misin lan sen?"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:543
 translate turkish b1c08ss09_f19d678b:
