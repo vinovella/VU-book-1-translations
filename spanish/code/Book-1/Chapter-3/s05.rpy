@@ -654,11 +654,3 @@ translate spanish b1c03s05_6651ab87:
     # mc "Alright."
     mc "Está bien."
 
-# TODO: Translation updated at 2023-07-16 22:04
-
-translate spanish strings:
-
-    # game/code/Book-1/Chapter-3/s05.rpy:398
-    old "Save your game here"
-    new "Save your game here"
-
