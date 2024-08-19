@@ -644,229 +644,229 @@ translate turkish strings:
 
     # game/code/data/ib_descriptions.rpy:2
     old "The Winner's Volleyball team uses drugs to enhance themselves."
-    new "The Winner's Volleyball team uses drugs to enhance themselves."
+    new "Kazananların Voleybol takımı kendilerini geliştirmek için uyuşturucu kullanıyor."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Andrejz, Nerium, Sloan, Yvonne, and Ivy seem to be very high-ranking in theis cult."
-    new "Andrejz, Nerium, Sloan, Yvonne, and Ivy seem to be very high-ranking in theis cult."
+    new "Andrejz, Nerium, Sloan, Yvonne ve Ivy bu tarikatta çok yüksek rütbeli görünüyor."
 
     # game/code/data/ib_descriptions.rpy:2
     old "The cult worships a godly figure named Narurra. They have their own intricate lore of how this god came to be."
-    new "The cult worships a godly figure named Narurra. They have their own intricate lore of how this god came to be."
+    new "Tarikat Narurra adında tanrısal bir figüre tapıyor. Bu tanrının nasıl ortaya çıktığına dair kendi karmaşık hikayeleri var."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Recently ended a relationship with her boyfriend. Feeling vulnerable and burdened by managerial duties and recent events."
-    new "Recently ended a relationship with her boyfriend. Feeling vulnerable and burdened by managerial duties and recent events."
+    new "Yakın zamanda erkek arkadaşıyla ilişkisini bitirdi. Yönetim görevleri ve son olaylar nedeniyle kendini savunmasız ve yük altında hissediyor."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Designated as the backup leader in case of emergency during the rescue operation. Indicates trust and responsibility within The Syndicate."
-    new "Designated as the backup leader in case of emergency during the rescue operation. Indicates trust and responsibility within The Syndicate."
+    new "Kurtarma operasyonu sırasında acil durumlarda yedek lider olarak belirlendi. Sendika içindeki güven ve sorumluluğu gösterir."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Nia doesn't see how the self-help group is a cult, she's already too indoctrinated."
-    new "Nia doesn't see how the self-help group is a cult, she's already too indoctrinated."
+    new "Nia kendi kendine yardım grubunun nasıl bir tarikat olduğunu anlamıyor, zaten fazla telkin edilmiş."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Good friends with Monika."
-    new "Good friends with Monika."
+    new "Monika ile iyi arkadaş."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Simon knows about what I did with Monika at the hotel."
-    new "Simon knows about what I did with Monika at the hotel."
+    new "Simon, Monika ile otelde ne yaptığımı biliyor."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Regularly participates in drug use, familiar with the process."
-    new "Regularly participates in drug use, familiar with the process."
+    new "Düzenli olarak uyuşturucu kullanımına katılıyor, sürece aşina."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Irene believes her spiritual scrying hinted at the missing girls' disappearance."
-    new "Irene believes her spiritual scrying hinted at the missing girls' disappearance."
+    new "Irene ruhani falcılığının kayıp kızların kayboluşunu ima ettiğine inanıyor."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Reluctantly participates in drug use, appears uncomfortable with the situation."
-    new "Reluctantly participates in drug use, appears uncomfortable with the situation."
+    new "Uyuşturucu kullanımına isteksizce katılıyor, durumdan rahatsız görünüyor."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Iona knows about what I did with Monika at the hotel."
-    new "Iona knows about what I did with Monika at the hotel."
+    new "Iona otelde Monika ile ne yaptığımı biliyor."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Focused on gaining a strategic advantage in the upcoming tournament against CCC."
-    new "Focused on gaining a strategic advantage in the upcoming tournament against CCC."
+    new "CCC'ye karşı yapılacak turnuvada stratejik bir avantaj elde etmeye odaklanmış."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Good friends with Simon."
-    new "Good friends with Simon."
+    new "Simon ile iyi arkadaş."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Expresses strong dislike and distrust towards Olesya, referring to her as \"murderous\"."
-    new "Expresses strong dislike and distrust towards Olesya, referring to her as \"murderous\"."
+    new "Olesya'ya karşı güçlü bir hoşnutsuzluk ve güvensizlik ifade ediyor, ondan \"katil\" olarak bahsediyor."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Mentioned trouble in the theater group due to an incident involving Olesya."
-    new "Mentioned trouble in the theater group due to an incident involving Olesya."
+    new "Olesya'nın karıştığı bir olay nedeniyle tiyatro grubunda yaşanan sorunlardan bahsetti."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Participates in the team's drug use without visible discomfort."
-    new "Participates in the team's drug use without visible discomfort."
+    new "Takımın uyuşturucu kullanımına görünür bir rahatsızlık duymadan katılıyor."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Allegedly capitalized on Olesya's vulnerabilities during her addiction struggles, leading to animosity between them."
-    new "Allegedly capitalized on Olesya's vulnerabilities during her addiction struggles, leading to animosity between them."
+    new "Bağımlılıkla mücadelesi sırasında Olesya'nın zayıflıklarından faydalandığı ve aralarında düşmanlığa yol açtığı iddia edildi."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Half-sibling of Olesya."
-    new "Half-sibling of Olesya."
+    new "Olesya'nın üvey kardeşi."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Monika describes Olesya as being murderous."
-    new "Monika describes Olesya as being murderous."
+    new "Monika Olesya'yı cani olarak tanımlıyor."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Shows hesitation and discomfort regarding the team's drug use."
-    new "Shows hesitation and discomfort regarding the team's drug use."
+    new "Ekibin uyuşturucu kullanımı konusunda tereddüt ve rahatsızlık gösteriyor."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Olesya's drug use was the catalyst for the team's drug use."
-    new "Olesya's drug use was the catalyst for the team's drug use."
+    new "Olesya'nın uyuşturucu kullanımı ekibin uyuşturucu kullanımı için katalizör oldu."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Lost a leg in a car accident, which led to an opioid addiction and dependency on performance-enhancing drugs for volleyball."
-    new "Lost a leg in a car accident, which led to an opioid addiction and dependency on performance-enhancing drugs for volleyball."
+    new "Bir araba kazasında bir bacağını kaybetti, bu da opioid bağımlılığına ve voleybol için performans artırıcı ilaçlara bağımlı olmasına yol açtı."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Half-sibling of Monika"
-    new "Half-sibling of Monika"
+    new "Monika'nın üvey kardeşi"
 
     # game/code/data/ib_descriptions.rpy:2
     old "Advocates for and administers performance-enhancing drugs to the team, emphasizing a win-at-all-costs mentality"
-    new "Advocates for and administers performance-enhancing drugs to the team, emphasizing a win-at-all-costs mentality"
+    new "Her ne pahasına olursa olsun kazanma zihniyetini vurgulayarak performans artırıcı ilaçları savunur ve takıma uygular"
 
     # game/code/data/ib_descriptions.rpy:2
     old "Allegedly responsible for a change in the drug schedule for the volleyball team which might be due to my adverse reaction to the drug."
-    new "Allegedly responsible for a change in the drug schedule for the volleyball team which might be due to my adverse reaction to the drug."
+    new "Voleybol takımının ilaç programındaki bir değişiklikten sorumlu olduğu ve bunun ilaca verdiğim ters tepkiden kaynaklanabileceği iddiası."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Expresses strong frustration towards the team's performance and dependency on performance-enhancing drugs."
-    new "Expresses strong frustration towards the team's performance and dependency on performance-enhancing drugs."
+    new "Takımın performansına ve performans artırıcı ilaçlara olan bağımlılığına yönelik güçlü hayal kırıklığını ifade ediyor."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Indicates a need to \"report back\" about the loss, suggesting accountability to an external party."
-    new "Indicates a need to \"report back\" about the loss, suggesting accountability to an external party."
+    new "Dışarıdan bir tarafa hesap verme sorumluluğuna işaret ederek kayıp hakkında \"geri bildirimde bulunma\" ihtiyacını belirtir."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Brigitta knows about what I did with Monika at the hotel."
-    new "Brigitta knows about what I did with Monika at the hotel."
+    new "Brigitta, Monika ile otelde ne yaptığımı biliyor."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Reveals a history of violence and survival, indicating a tough upbringing."
-    new "Reveals a history of violence and survival, indicating a tough upbringing."
+    new "Şiddet ve hayatta kalma geçmişini ortaya koyarak zorlu bir yetiştirilme tarzına işaret ediyor."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Despite her tough exterior, she has a tendency to mediate conflicts, pointing to a deeper sense of responsibility towards others."
-    new "Despite her tough exterior, she has a tendency to mediate conflicts, pointing to a deeper sense of responsibility towards others."
+    new "Sert dış görünüşüne rağmen, çatışmalarda arabuluculuk yapma eğilimi var, bu da başkalarına karşı daha derin bir sorumluluk duygusuna işaret ediyor."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Reported missing."
-    new "Reported missing."
+    new "Kayıp olduğu bildirildi."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Allegedly kidnapped by Cade and taken to a warehouse controlled by The Wasps."
-    new "Allegedly kidnapped by Cade and taken to a warehouse controlled by The Wasps."
+    new "Cade tarafından kaçırıldığı ve Eşek Arıları tarafından kontrol edilen bir depoya götürüldüğü iddia ediliyor."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Xasan intends to bomb The Wasps."
-    new "Xasan intends to bomb The Wasps."
+    new "Xasan Eşek Arıları'nı bombalamaya niyetli."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Allegedly kidnapped Nirmala, Sabrina, and Q."
-    new "Allegedly kidnapped Nirmala, Sabrina, and Q."
+    new "Nirmala, Sabrina ve Q'nun kaçırıldığı iddia edildi."
 
     # game/code/data/ib_descriptions.rpy:2
     old "The self-help group seems to be putting significant pressure on her to get tattooed."
-    new "The self-help group seems to be putting significant pressure on her to get tattooed."
+    new "Kendi kendine yardım grubu, dövme yaptırması için ona büyük baskı yapıyor gibi görünüyor."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Lumi feels like she was a burden to her parents and hopes that the group will give her the confidence and strength to feel less like a burden."
-    new "Lumi feels like she was a burden to her parents and hopes that the group will give her the confidence and strength to feel less like a burden."
+    new "Lumi ailesine yük olduğunu hissediyor ve grubun ona daha az yük hissetmesi için güven ve güç vereceğini umuyor."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Lumi has decided to get tattooed."
-    new "Lumi has decided to get tattooed."
+    new "Lumi dövme yaptırmaya karar verdi."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Lives at the campground with Nerium, Yvonne, and Sloan. Manages the team of forest rangers and seems to guide them spiritually."
-    new "Lives at the campground with Nerium, Yvonne, and Sloan. Manages the team of forest rangers and seems to guide them spiritually."
+    new "Nerium, Yvonne ve Sloan ile birlikte kamp alanında yaşıyor. Orman korucuları ekibini yönetiyor ve onlara ruhani olarak rehberlik ediyor gibi görünüyor."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Member of the rival CCC volleyball team."
-    new "Member of the rival CCC volleyball team."
+    new "Rakip CCC voleybol takımının üyesi."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Tried to spy on us during practice."
-    new "Tried to spy on us during practice."
+    new "Antrenman sırasında bizi gözetlemeye çalıştı."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Tried to seduce me during the conference."
-    new "Tried to seduce me during the conference."
+    new "Konferans sırasında beni baştan çıkarmaya çalıştı."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Engages in manipulative and seductive behavior. Exhibits sadistic traits."
-    new "Engages in manipulative and seductive behavior. Exhibits sadistic traits."
+    new "Manipülatif ve baştan çıkarıcı davranışlarda bulunuyor. Sadist özellikler sergiliyor."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Hellena wants to strike a deal with the leader of The Syndicate."
-    new "Hellena wants to strike a deal with the leader of The Syndicate."
+    new "Hellena Sendika'nın lideriyle bir anlaşma yapmak istiyor."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Seen with The Syndicate. Potentially connected."
-    new "Seen with The Syndicate. Potentially connected."
+    new "Sendika ile birlikte görüldü. Potansiyel olarak bağlantılı."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Captain of the rival CCC volleyball team."
-    new "Captain of the rival CCC volleyball team."
+    new "Rakip CCC voleybol takımının kaptanı."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Acknowledges the misconduct of team members but denies involvement. Expresses desire for fair play."
-    new "Acknowledges the misconduct of team members but denies involvement. Expresses desire for fair play."
+    new "Takım üyelerinin hatalı davranışlarını kabul ediyor ancak olaya karıştığını reddediyor. Adil oyun arzusunu ifade ediyor."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Has known and had previous contact with Klara."
-    new "Has known and had previous contact with Klara."
+    new "Klara'yı tanıyor ve onunla daha önce temas kurmuş."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Found me unconscious and took me to her hotel room."
-    new "Found me unconscious and took me to her hotel room."
+    new "Beni baygın halde buldu ve otel odasına götürdü."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Assists The Winners with logistics. Helped pick out the hotel for the team's tournament."
-    new "Assists The Winners with logistics. Helped pick out the hotel for the team's tournament."
+    new "Kazananlara lojistik konusunda yardımcı oluyor. Takımın turnuvası için otel seçimine yardımcı oldu."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Involved in managing press and charity activities for the Winner's Group. Expected the team to attend a press conference."
-    new "Involved in managing press and charity activities for the Winner's Group. Expected the team to attend a press conference."
+    new "Kazananlar Grubu için basın ve yardım faaliyetlerinin yönetimine dahil oldu. Takımın bir basın toplantısına katılmasını bekledi."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Visits the campgrounds. Seems to know Andrejz and Ivy."
-    new "Visits the campgrounds. Seems to know Andrejz and Ivy."
+    new "Kamp alanlarını ziyaret ediyor. Andrejz ve Ivy'yi tanıyor gibi görünüyor."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Lives at the campground."
-    new "Lives at the campground."
+    new "Kamp alanında yaşıyor."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Lives at the campground with Nerium and Sloan. Used to be on fire watch duty before she was too pregnant."
-    new "Lives at the campground with Nerium and Sloan. Used to be on fire watch duty before she was too pregnant."
+    new "Nerium ve Sloan ile birlikte kamp alanında yaşıyor. Çok hamile kalmadan önce yangın nöbetçisiydi."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Lives at the campground with Yvonne and Nerium. Focuses on wildlife conservation."
-    new "Lives at the campground with Yvonne and Nerium. Focuses on wildlife conservation."
+    new "Yvonne ve Nerium ile kamp alanında yaşıyor. Vahşi yaşamı korumaya odaklanıyor."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Lives at the campground with Yvonne and Sloan. Manages and tracks the local flora."
-    new "Lives at the campground with Yvonne and Sloan. Manages and tracks the local flora."
+    new "Yvonne ve Sloan ile kamp alanında yaşıyor. Yerel bitki örtüsünü yönetir ve izler."
 
     # game/code/data/ib_descriptions.rpy:2
     old "A highly revered figure in the Children of Narurra cult."
-    new "A highly revered figure in the Children of Narurra cult."
+    new "Narurra'nın Çocukları tarikatında çok saygı duyulan bir figür."
 
