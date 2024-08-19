@@ -304,7 +304,7 @@ translate turkish b1c08ss05_613f3439:
 translate turkish b1c08ss05_42212ada:
 
     # xv "No. Way."
-    xv "No. Way."
+    xv "Yol yok."
 
 # game/code/Book-1/Chapter-8s/s05.rpy:218
 translate turkish b1c08ss05_d87b3072:
@@ -382,7 +382,7 @@ translate turkish b1c08ss05_7ba2ec2f:
 translate turkish b1c08ss05_741ff358:
 
     # "Then Foxy glances at you with a guilty look, choosing loyalty over logic."
-    "Then Foxy glances at you with a guilty look, choosing loyalty over logic."
+    "Sonra Foxy suçlu bir bakışla size bakıyor, sadakati mantığa tercih ediyor."
 
 # game/code/Book-1/Chapter-8s/s05.rpy:250
 translate turkish b1c08ss05_5db30b43:
