@@ -106,7 +106,7 @@ translate turkish b1c08ss08_2cca0b14:
 translate turkish b1c08ss08_e9a041ce:
 
     # ha "Just fuck me already you dirty little tease!"
-    ha "Just fuck me already you dirty little tease!"
+    ha "Sik beni artık seni küçük yaramaz!"
 
 # game/code/Book-1/Chapter-8s/s08.rpy:132
 translate turkish b1c08ss08_ed1191b6:
@@ -148,13 +148,13 @@ translate turkish b1c08ss08_d2ba22bb:
 translate turkish b1c08ss08_f126dd69:
 
     # mct "Just a little nudge in the right direction..."
-    mct "Just a little nudge in the right direction..."
+    mct "Sadece doğru yönde küçük bir dürtme..."
 
 # game/code/Book-1/Chapter-8s/s08.rpy:148
 translate turkish b1c08ss08_135b018a:
 
     # ha "Mm, I want you so badly though..."
-    ha "Mm, I want you so badly though..."
+    ha "Mm, Yine de seni çok istiyorum."
 
 # game/code/Book-1/Chapter-8s/s08.rpy:149
 translate turkish b1c08ss08_364ede22:
@@ -574,7 +574,7 @@ translate turkish b1c08ss08_no_sex_toy_cb7e64b4:
 translate turkish b1c08ss08_no_sex_toy_2b01013c:
 
     # ha "You certainly tuckered me out."
-    ha "You certainly tuckered me out."
+    ha "Beni kesinlikle yoruyorsun."
 
 # game/code/Book-1/Chapter-8s/s08.rpy:536
 translate turkish b1c08ss08_no_sex_toy_8cf4e458:
