@@ -286,7 +286,7 @@ translate turkish b1c08s02_at_garden_3413d080:
 translate turkish b1c08s02_at_garden_58c31cac:
 
     # jh "*Smiles* Often."
-    jh "*Smiles* Often."
+    jh "*Gülümsüyor* Genellikle."
 
 # game/code/Book-1/Chapter-8/s02.rpy:158
 translate turkish b1c08s02_at_garden_5be1b75d:
@@ -664,7 +664,7 @@ translate turkish b1c08s02_jh_kiss_73fa7724:
 translate turkish b1c08s02_jh_kiss_f207bfa4:
 
     # jh "*Snorts* I must seem like such a mess to you."
-    jh "*Snorts* I must seem like such a mess to you."
+    jh "*Homurdanmalar* Sana çok dağınık görünüyor olmalıyım."
 
 # game/code/Book-1/Chapter-8/s02.rpy:350
 translate turkish b1c08s02_jh_kiss_9ac867fc:
