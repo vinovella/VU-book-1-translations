@@ -400,13 +400,13 @@ translate turkish b1c08ss06_6b42d948:
 translate turkish b1c08ss06_f5ffc10b:
 
     # "Guard" "GET THOSE FUCKERS!"
-    "Guard" "GET THOSE FUCKERS!"
+    "Muhafız" "YAKALAYIN ŞU PIÇLERI!"
 
 # game/code/Book-1/Chapter-8s/s06.rpy:284
 translate turkish b1c08ss06_f6626f28:
 
     # "Guard" "What's so fuckin' funny to you, asshole?"
-    "Guard" "What's so fuckin' funny to you, asshole?"
+    "Muhafız" "Sana bu kadar komik gelen ne, göt herif?"
 
 # game/code/Book-1/Chapter-8s/s06.rpy:286
 translate turkish b1c08ss06_34f81d5d:
@@ -418,7 +418,7 @@ translate turkish b1c08ss06_34f81d5d:
 translate turkish b1c08ss06_d00dad00:
 
     # "Guard" "Tough words coming from someone I can grind underneath my heel."
-    "Guard" "Topuğumun altında ezebileceğim birinden gelen sert sözler."
+    "Muhafız" "Topuğumun altında ezebileceğim birinden gelen sert sözler."
 
 # game/code/Book-1/Chapter-8s/s06.rpy:297
 translate turkish b1c08ss06_30039d4d:
@@ -520,7 +520,7 @@ translate turkish b1c08ss06_7d580f6a:
 translate turkish b1c08ss06_28217709:
 
     # "Guard" "You're goin' to hell, little man."
-    "Guard" "You're goin' to hell, little man."
+    "Muhafız" "Cehenneme gideceksin, küçük adam."
 
 # game/code/Book-1/Chapter-8s/s06.rpy:379
 translate turkish b1c08ss06_27cc58d8:
