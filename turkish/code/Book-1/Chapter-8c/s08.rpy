@@ -694,7 +694,7 @@ translate turkish b1c08cs08_ll_talk_88cffe0a:
 translate turkish b1c08cs08_ll_talk_6f7095c8:
 
     # "A look of determination settles on her features."
-    "A look of determination settles on her features."
+    "Yüz hatlarına kararlı bir ifade yerleşiyor."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:382
 translate turkish b1c08cs08_ll_talk_d6d5a0ee:
@@ -1786,7 +1786,7 @@ translate turkish b1c08cs08_ll_spanking_d4275004:
 translate turkish b1c08cs08_ll_spanking_928f42ab:
 
     # ll "I...I want more."
-    ll "I...I want more."
+    ll "Daha...Daha fazlasını istiyorum."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:945
 translate turkish b1c08cs08_ll_spanking_42a1a9db:
@@ -1906,7 +1906,7 @@ translate turkish b1c08cs08_end_6383c8cc:
 translate turkish b1c08cs08_end_a5f61df0:
 
     # dk "{i}You{/i} did amazingly."
-    dk "{i}You{/i} did amazingly."
+    dk "{i}İnanılmaz{/i} bir iş çıkardınız."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:1057
 translate turkish b1c08cs08_end_0a4d6bbc:
@@ -2035,5 +2035,5 @@ translate turkish strings:
 translate turkish b1c08cs08_ll_punishment_1ad478f1:
 
     # ad "A spanking? You harsh minx."
-    ad "A spanking? You harsh minx."
+    ad "Şaplak mı? Seni sert sürtük."
 
