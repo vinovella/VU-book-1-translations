@@ -310,7 +310,7 @@ translate turkish b1c08cs02_after_choice_f6ba4d69:
 translate turkish b1c08cs02_after_choice_38acec9c:
 
     # dk "Mhm. Very much so."
-    dk "Mhm. Very much so."
+    dk "Mhm. Hem de çok.."
 
 # game/code/Book-1/Chapter-8c/s02.rpy:225
 translate turkish b1c08cs02_after_choice_6af6fb06:
