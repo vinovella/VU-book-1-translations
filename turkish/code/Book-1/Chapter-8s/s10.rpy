@@ -22,7 +22,7 @@ translate turkish b1c08ss10_d1199550:
 translate turkish b1c08ss10_01542393:
 
     # ffl "Jeez, don't say it like that!"
-    ffl "Jeez, don't say it like that!"
+    ffl "Tanrım, böyle söyleme!"
 
 # game/code/Book-1/Chapter-8s/s10.rpy:40
 translate turkish b1c08ss10_81a712dc:
@@ -670,7 +670,7 @@ translate turkish b1c08ss10_96698662:
 translate turkish b1c08ss10_04326e30:
 
     # zp "Oh fuck, I'm-I'm gonna cum!"
-    zp "Oh fuck, I'm-I'm gonna cum!"
+    zp "Siktir, boşalacağım.!"
 
 # game/code/Book-1/Chapter-8s/s10.rpy:354
 translate turkish b1c08ss10_b80cb6b6:
