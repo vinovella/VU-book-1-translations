@@ -118,7 +118,7 @@ translate turkish b1c08ws10_e7fd12db:
 translate turkish b1c08ws10_71008e80:
 
     # ba "*Snorts* How poetic."
-    ba "*Snorts* How poetic."
+    ba "*Homurdanmalar* Ne kadar şiirsel."
 
 # game/code/Book-1/Chapter-8w/s10.rpy:58
 translate turkish b1c08ws10_ae54e77d:
