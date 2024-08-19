@@ -22,7 +22,7 @@ translate turkish b1c08cs11_682e370e:
 translate turkish b1c08cs11_8d00e8ea:
 
     # ih "*Smirks* You'll see."
-    ih "*Smirks* You'll see."
+    ih "*Gülümsüyor* Göreceksin."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:56
 translate turkish b1c08cs11_e60e32e8:
@@ -298,7 +298,7 @@ translate turkish b1c08cs11_8ab21fd4:
 translate turkish b1c08cs11_ad67f554:
 
     # "Your full, aching cock and balls spasm with pleasure and yearning, begging for release."
-    "Your full, aching cock and balls spasm with pleasure and yearning, begging for release."
+    "Dolu, ağrıyan horozunuz ve toplarınız zevk ve özlemle spazm geçiriyor, serbest bırakılmak için yalvarıyor."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:225
 translate turkish b1c08cs11_6ec90f15:
@@ -622,7 +622,7 @@ translate turkish b1c08cs11_dfcbf0e6:
 translate turkish b1c08cs11_63d7f23d:
 
     # ih "Oh hush."
-    ih "Oh hush."
+    ih "Oh sus."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:362
 translate turkish b1c08cs11_eb39ec33:
