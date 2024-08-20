@@ -28,5 +28,5 @@ translate turkish strings:
 
     # game/code/screens/chapter_choice.rpy:84
     old "You cannot investigate this group anymore"
-    new "You cannot investigate this group anymore"
+    new "Bu grubu artık araştıramazsınız"
 
