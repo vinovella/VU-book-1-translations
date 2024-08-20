@@ -310,7 +310,7 @@ translate turkish b1c08ws06_6258cfe9:
 translate turkish b1c08ws06_1529c8d3:
 
     # sl "Ugh, that always stings like a bitch."
-    sl "Ugh, that always stings like a bitch."
+    sl "Ugh, Bu her zaman çok acıtır."
 
 # game/code/Book-1/Chapter-8w/s06.rpy:173
 translate turkish b1c08ws06_67094f8e:
