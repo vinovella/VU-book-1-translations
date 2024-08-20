@@ -76,11 +76,11 @@ translate turkish strings:
 
     # game/code/screens/menus.rpy:607
     old "Ren'Py Save Sync"
-    new "Ren'Py Save Sync"
+    new "Ren'Py Senkronizasyonu Kaydet"
 
     # game/code/screens/menus.rpy:620
     old "Manage your saves for Book 2"
-    new "Manage your saves for Book 2"
+    new "Kitap 2 için kayıtlarınızı yönetin"
 
     # game/code/screens/menus.rpy:649
     old "«"
@@ -92,9 +92,9 @@ translate turkish strings:
 
     # game/code/screens/menus.rpy:817
     old "Dialogue Box Opacity"
-    new "Dialogue Box Opacity"
+    new "Diyalog Kutusu Opaklığı"
 
     # game/code/screens/menus.rpy:824
     old "Master Volume"
-    new "Master Volume"
+    new "Ana Ses Düzeyi"
 
