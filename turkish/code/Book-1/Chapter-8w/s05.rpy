@@ -10,7 +10,7 @@ translate turkish b1c08ws05_6a2b0ef5:
 translate turkish b1c08ws05_91a36f77:
 
     # mct "*Yawns* The fuck is going on now?"
-    mct "*Yawns* The fuck is going on now?"
+    mct "*Esniyor* Neler oluyor şimdi?"
 
 # game/code/Book-1/Chapter-8w/s05.rpy:21
 translate turkish b1c08ws05_1354a6c6:
@@ -58,7 +58,7 @@ translate turkish b1c08ws05_5d94b3b8:
 translate turkish b1c08ws05_2d546709:
 
     # mc "I got no clue man."
-    mc "I got no clue man."
+    mc "Hiçbir fikrim yok dostum."
 
 # game/code/Book-1/Chapter-8w/s05.rpy:47
 translate turkish b1c08ws05_c77d6823:
@@ -100,7 +100,7 @@ translate turkish b1c08ws05_bb1e6059:
 translate turkish b1c08ws05_71a2aba4:
 
     # mc "*Chuckles* Guys, c'mon. What happened, happened. Right now, we gotta get ready for that conference thing."
-    mc "*Chuckles* Beyler, hadi. Olan oldu. Şimdi, şu konferans şeyine hazırlanmalıyız."
+    mc "*Kıkırdamalar* Beyler, hadi. Olan oldu. Şimdi, şu konferans şeyine hazırlanmalıyız."
 
 # game/code/Book-1/Chapter-8w/s05.rpy:69
 translate turkish b1c08ws05_0fbc3fbe:
@@ -172,7 +172,7 @@ translate turkish b1c08ws05_0855eb0b:
 translate turkish b1c08ws05_6682b168:
 
     # ec "*Giggles* Of course, we love to admire your team. Such talent."
-    ec "*Giggles* Elbette, takımınıza hayran olmayı seviyoruz. Böyle bir yetenek."
+    ec "*Kıkırdamalar* Elbette, takımınıza hayran olmayı seviyoruz. Böyle bir yetenek."
 
 # game/code/Book-1/Chapter-8w/s05.rpy:139
 translate turkish b1c08ws05_94f4a06c:
@@ -232,7 +232,7 @@ translate turkish b1c08ws05_a7c3bf5d:
 translate turkish b1c08ws05_2f6c5862:
 
     # mc "*Chuckles* Oh? Privately?"
-    mc "*Chuckles* Oh? Privately?"
+    mc "*Kıkırdamalar* Oh? Özel olarak mı?"
 
 # game/code/Book-1/Chapter-8w/s05.rpy:164
 translate turkish b1c08ws05_c0223fa7:
@@ -316,7 +316,7 @@ translate turkish b1c08ws05_1542480b:
 translate turkish b1c08ws05_e9ab0246:
 
     # ec "*Giggles* C'mon, let's go."
-    ec "*Giggles* C'mon, let's go."
+    ec "*Kıkırdamalar* Hadi, gidelim.."
 
 # game/code/Book-1/Chapter-8w/s05.rpy:199
 translate turkish b1c08ws05_a3414c63:
