@@ -24,7 +24,7 @@ translate turkish strings:
 
     # game/code/data/replay_room.rpy:16
     old "C04: Locker Room Fling With Iona"
-    new "C04: Iona ile Soyunma Odası Kaçamağı"
+    new "C04: Iona ile Kabinde Kaçamak"
 
     # game/code/data/replay_room.rpy:16
     old "You like partying."
