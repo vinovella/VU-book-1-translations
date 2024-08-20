@@ -80,7 +80,7 @@ translate turkish strings:
 
     # game/code/screens/menus.rpy:620
     old "Manage your saves for Book 2"
-    new "Kitap 2 için kayıtlarınızı yönetin"
+    new "Kitap2 kayıtlarınızı yönetin"
 
     # game/code/screens/menus.rpy:649
     old "«"
