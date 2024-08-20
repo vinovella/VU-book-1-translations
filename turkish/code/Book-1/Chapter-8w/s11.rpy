@@ -562,7 +562,7 @@ translate turkish b1c08ws11_70f02e57:
 translate turkish b1c08ws11_676882cf:
 
     # sm "*Softly* How have you been holding up, [mcname]?"
-    sm "*Softly* How have you been holding up, [mcname]?"
+    sm "*Yavaşça* Nasıl dayanıyorsun, [mcname]?"
 
 # game/code/Book-1/Chapter-8w/s11.rpy:450
 translate turkish b1c08ws11_4f07a3f3:
