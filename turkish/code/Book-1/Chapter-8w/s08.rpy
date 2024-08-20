@@ -292,7 +292,7 @@ translate turkish b1c08ws08_6c983f91:
 translate turkish b1c08ws08_5e0febf9:
 
     # mc "*Chuckles* I can't say you're wrong."
-    mc "*Chuckles* I can't say you're wrong."
+    mc "*Kıkırdamalar* Yanıldığını söyleyemem.."
 
 # game/code/Book-1/Chapter-8w/s08.rpy:183
 translate turkish b1c08ws08_e07161ad:
@@ -322,7 +322,7 @@ translate turkish b1c08ws08_dcae77da:
 translate turkish b1c08ws08_471e0c98:
 
     # tw "*Smirks* Noticed that, did you?"
-    tw "*Smirks* Noticed that, did you?"
+    tw "*Gülümsüyor* Bunu fark ettin, değil mi?"
 
 # game/code/Book-1/Chapter-8w/s08.rpy:196
 translate turkish b1c08ws08_365f313d:
@@ -604,7 +604,7 @@ translate turkish b1c08ws08_sex_c803146a:
 translate turkish b1c08ws08_sex_dc798966:
 
     # tw "Fuck me hard just like that."
-    tw "Fuck me hard just like that."
+    tw "Beni böyle sert sik."
 
 # game/code/Book-1/Chapter-8w/s08.rpy:373
 translate turkish b1c08ws08_sex_e3bfb7cb:
@@ -844,7 +844,7 @@ translate turkish b1c08ws08_end_0ca929f2:
 translate turkish b1c08ws08_end_f9ffb1d9:
 
     # tw "Don't be a stranger now."
-    tw "Don't be a stranger now."
+    tw "Artık yabancı olma."
 
 # game/code/Book-1/Chapter-8w/s08.rpy:517
 translate turkish b1c08ws08_end_42e6dd64:
