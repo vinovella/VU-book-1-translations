@@ -538,7 +538,7 @@ translate turkish b1c08ws09_69c86a52:
 translate turkish b1c08ws09_fcb3292e:
 
     # oa "*Laughs* Very good point."
-    oa "*Laughs* Very good point."
+    oa "*Gülüyor* Çok iyi bir noktaya değindin."
 
 # game/code/Book-1/Chapter-8w/s09.rpy:259
 translate turkish b1c08ws09_6d1fc21f:
@@ -610,7 +610,7 @@ translate turkish b1c08ws09_c3126cdd:
 translate turkish b1c08ws09_b7706915:
 
     # "You chuckle at her playful tone, stepping through the door as she holds it open for you."
-    "You chuckle at her playful tone, stepping through the door as she holds it open for you."
+    "Onun şakacı ses tonuna kıkırdıyor, kapıyı sizin için açık tutarken kapıdan içeri adım atıyorsunuz."
 
 translate turkish strings:
 
