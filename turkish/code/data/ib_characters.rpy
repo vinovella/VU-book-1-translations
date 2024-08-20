@@ -148,7 +148,7 @@ translate turkish strings:
 
     # game/code/data/ib_characters.rpy:9
     old "English Language & Literature"
-    new "English Language & Literature"
+    new "İngiliz Dili ve Edebiyatı"
 
     # game/code/data/ib_characters.rpy:9
     old "Flanagon"
@@ -307,7 +307,7 @@ translate turkish strings:
 
     # game/code/data/ib_characters.rpy:48
     old "Guide/Manager"
-    new "Guide/Manager"
+    new "Rehber/Yönetici"
 
     # game/code/data/ib_characters.rpy:48
     old "Grayson"
@@ -323,19 +323,19 @@ translate turkish strings:
 
     # game/code/data/ib_characters.rpy:48
     old "Rival Team Spy"
-    new "Rival Team Spy"
+    new "Rakip Takım Casusu"
 
     # game/code/data/ib_characters.rpy:48
     old "Winner's Club"
-    new "Winner's Club"
+    new "Kazananlar Kulübü"
 
     # game/code/data/ib_characters.rpy:48
     old "The Syndicate"
-    new "The Syndicate"
+    new "Sendika"
 
     # game/code/data/ib_characters.rpy:48
     old "Cult"
-    new "Cult"
+    new "Kült"
 
 # TODO: Translation updated at 2023-12-23 23:55
 
@@ -351,7 +351,7 @@ translate turkish strings:
 
     # game/code/data/ib_characters.rpy:48
     old "Gang leader of The Wasps"
-    new "Gang leader of The Wasps"
+    new "Eşek Arıları Çete Lideri"
 
     # game/code/data/ib_characters.rpy:48
     old "Gabriella"
@@ -363,7 +363,7 @@ translate turkish strings:
 
     # game/code/data/ib_characters.rpy:48
     old "Cafeteria Lady"
-    new "Cafeteria Lady"
+    new "Kafeterya Görevlisi"
 
     # game/code/data/ib_characters.rpy:48
     old "James"
@@ -375,7 +375,7 @@ translate turkish strings:
 
     # game/code/data/ib_characters.rpy:48
     old "Professor & Alumnus"
-    new "Professor & Alumnus"
+    new "Profesör & Mezun"
 
     # game/code/data/ib_characters.rpy:48
     old "Williams"
@@ -383,7 +383,7 @@ translate turkish strings:
 
     # game/code/data/ib_characters.rpy:48
     old "CCC Student"
-    new "CCC Student"
+    new "CCC Öğrencisi"
 
     # game/code/data/ib_characters.rpy:48
     old "O'Neil"
@@ -403,11 +403,11 @@ translate turkish strings:
 
     # game/code/data/ib_characters.rpy:48
     old "Professor at Vinovella University"
-    new "Professor at Vinovella University"
+    new "Vinovella Üniversitesi'nde Profesör"
 
     # game/code/data/ib_characters.rpy:48
     old "The Prophet"
-    new "The Prophet"
+    new "Peygamber"
 
     # game/code/data/ib_characters.rpy:48
     old "Welch"
@@ -415,7 +415,7 @@ translate turkish strings:
 
     # game/code/data/ib_characters.rpy:48
     old "Forest ranger"
-    new "Forest ranger"
+    new "Orman Korucusu"
 
     # game/code/data/ib_characters.rpy:48
     old "Sloan T."
