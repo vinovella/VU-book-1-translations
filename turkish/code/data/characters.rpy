@@ -100,7 +100,7 @@ translate turkish strings:
 
     # game/code/data/characters.rpy:35
     old "Past Corinne"
-    new "Past Corinne"
+    new "Geçmiş Corinne"
 
     # game/code/data/characters.rpy:36
     old "Ridley"
