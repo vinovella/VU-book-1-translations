@@ -4,7 +4,7 @@ translate turkish strings:
 
     # game/code/screens/language.rpy:7
     old "Switch Language"
-    new "Dili Değiştir."
+    new "Dili Değiştir"
 
 # TODO: Translation updated at 2023-12-09 01:25
 

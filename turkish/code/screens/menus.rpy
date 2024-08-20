@@ -52,11 +52,11 @@ translate turkish strings:
 
     # game/code/screens/menus.rpy:176
     old "Quit"
-    new "ÇIKIŞ"
+    new "Çıkış"
 
     # game/code/screens/menus.rpy:269
     old "Language"
-    new "DİL"
+    new "Dili Değiştir"
 
     # game/code/screens/menus.rpy:303
     old "Support us on Patreon"
@@ -80,7 +80,7 @@ translate turkish strings:
 
     # game/code/screens/menus.rpy:620
     old "Manage your saves for Book 2"
-    new "Kitap2 kayıtlarınızı yönetin"
+    new "Kitap 2 kayıtlarınızı yönetin"
 
     # game/code/screens/menus.rpy:649
     old "«"

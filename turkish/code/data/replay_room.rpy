@@ -52,7 +52,7 @@ translate turkish strings:
 
     # game/code/data/replay_room.rpy:16
     old "Call Ronja."
-   new "Ronja'yı ara."
+    new "Ronja'yı ara."
 
     # game/code/data/replay_room.rpy:16
     old "C06: Free Bone From Delphia"
