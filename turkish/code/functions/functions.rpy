@@ -24,17 +24,17 @@ translate turkish strings:
 
     # game/code/functions/functions.rpy:63
     old "You have updated a new character in the Investigation Board"
-    new "You have updated a new character in the Investigation Board"
+    new "Soruşturma Kurulunda yeni bir karakter güncellediniz"
 
     # game/code/functions/functions.rpy:315
     old "You've unlocked a new CG Gallery"
-    new "You've unlocked a new CG Gallery"
+    new "Yeni bir CG Galerisinin kilidini açtınız"
 
     # game/code/functions/functions.rpy:315
     old "You can watch the scene again in the Replay Room"
-    new "You can watch the scene again in the Replay Room"
+    new "Sahneyi Tekrar Odasında tekrar izleyebilirsiniz"
 
     # game/code/functions/functions.rpy:315
     old "You've unlocked a new bonus content"
-    new "You've unlocked a new bonus content"
+    new "Yeni bir bonus içeriğin kilidini açtınız"
 
