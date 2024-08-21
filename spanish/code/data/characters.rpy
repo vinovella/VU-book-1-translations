@@ -32,7 +32,7 @@ translate spanish strings:
 
     # game/code/data/characters.rpy:35
     old "Past Corinne"
-    new "Past Corinne"
+    new "Corinne del pasado"
 
     # game/code/data/characters.rpy:36
     old "Ridley"
