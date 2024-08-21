@@ -475,7 +475,7 @@ translate spanish strings:
 
     # game/code/data/ib_characters.rpy:48
     old "Gang leader of The Wasps"
-    new "Gang leader of The Wasps"
+    new "Líder de la banda de Las Avispas"
 
     # game/code/data/ib_characters.rpy:48
     old "Gabriella"
@@ -487,7 +487,7 @@ translate spanish strings:
 
     # game/code/data/ib_characters.rpy:48
     old "Cafeteria Lady"
-    new "Cafeteria Lady"
+    new "Señora de la cafetería"
 
     # game/code/data/ib_characters.rpy:48
     old "James"
@@ -499,7 +499,7 @@ translate spanish strings:
 
     # game/code/data/ib_characters.rpy:48
     old "Professor & Alumnus"
-    new "Professor & Alumnus"
+    new "Profesora y ex alumna"
 
     # game/code/data/ib_characters.rpy:48
     old "Williams"
@@ -527,11 +527,11 @@ translate spanish strings:
 
     # game/code/data/ib_characters.rpy:48
     old "Professor at Vinovella University"
-    new "Professor at Vinovella University"
+    new "Profesora de la Universidad Vinovella"
 
     # game/code/data/ib_characters.rpy:48
     old "The Prophet"
-    new "The Prophet"
+    new "El Profeta"
 
     # game/code/data/ib_characters.rpy:48
     old "Welch"
@@ -539,7 +539,7 @@ translate spanish strings:
 
     # game/code/data/ib_characters.rpy:48
     old "Forest ranger"
-    new "Forest ranger"
+    new "Guardabosques"
 
     # game/code/data/ib_characters.rpy:48
     old "Sloan T."
