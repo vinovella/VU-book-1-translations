@@ -942,11 +942,11 @@ translate spanish strings:
 translate spanish b1c08cs10_ritual_00e452bd:
 
     # "You slide a finger inside, and her body reacts immediately. Her wetness slipping down your hand as she tightens around you."
-    "You slide a finger inside, and her body reacts immediately. Her wetness slipping down your hand as she tightens around you."
+    "Le metes un dedo y su cuerpo reacciona de inmediato. Su humedad resbala por tu mano mientras ella se aprieta a tu alrededor."
 
 # game/code/Book-1/Chapter-8c/s10.rpy:639
 translate spanish b1c08cs10_ritual_0e69e115:
 
     # ad "Now we must all celebrate!"
-    ad "Now we must all celebrate!"
+    ad "¡Ahora todos debemos celebrarlo!"
 
