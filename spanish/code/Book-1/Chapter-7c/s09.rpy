@@ -580,7 +580,7 @@ translate spanish b1c07cs09_end_e3cee718:
 translate spanish b1c07cs09_e9f9fe94:
 
     # mct "There's no way this is an official part of the university. Diana or the police would've told me, otherwise."
-    mct "There's no way this is an official part of the university. Diana or the police would've told me, otherwise."
+    mct "Es imposible que esto sea un parte oficial de la universidad. Diana o la policía me lo habrían dicho."
 
 translate spanish strings:
 
