@@ -1030,7 +1030,7 @@ translate spanish b1c08cs08_ll_punishment_70cdc748:
 translate spanish b1c08cs08_ll_punishment_1ad478f1:
 
     # ad "A spanking? You harsh minx."
-    ad "A spanking? You harsh minx."
+    ad "¿Unos azotes? Eres una descarada."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:544
 translate spanish b1c08cs08_ll_punishment_dd373ad8:
