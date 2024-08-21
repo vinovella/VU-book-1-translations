@@ -1390,7 +1390,7 @@ translate spanish strings:
 
     # game/code/Book-1/Chapter-8/s01.rpy:6
     old "Another day\nAt Phoebe's place"
-    new "Another day\nAt Phoebe's place"
+    new "Otro día \nen casa de Phoebe."
 
 # TODO: Translation updated at 2024-07-30 11:40
 
