@@ -507,7 +507,7 @@ translate spanish strings:
 
     # game/code/data/ib_characters.rpy:48
     old "CCC Student"
-    new "CCC Student"
+    new "Estudiante del CCC"
 
     # game/code/data/ib_characters.rpy:48
     old "O'Neil"
