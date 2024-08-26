@@ -24,7 +24,7 @@ translate spanish strings:
 
     # game/code/screens/game_menus.rpy:104
     old "Naming save file:"
-    new "Nombre del archivo guardado:"
+    new "Nombre de Guardar:"
 
     # game/code/screens/game_menus.rpy:105
     old "Enabled"
