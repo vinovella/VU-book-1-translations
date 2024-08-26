@@ -76,7 +76,7 @@ translate turkish strings:
 
     # game/code/screens/menus.rpy:607
     old "Ren'Py Save Sync"
-    new "Ren'Py Senkronizasyonu Kaydet"
+    new "Senkronizasyonu kaydet"
 
     # game/code/screens/menus.rpy:620
     old "Manage your saves for Book 2"

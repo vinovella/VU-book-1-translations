@@ -1125,6 +1125,7 @@ translate turkish strings:
     # renpy/common/_errorhandling.rpym:673
     old "Parsing the script failed."
     new "Komut dosyası ayrıştırılamadı."
+
 # TODO: Translation updated at 2024-07-15 23:59
 
 translate turkish strings:

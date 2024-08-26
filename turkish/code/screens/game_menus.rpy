@@ -24,11 +24,11 @@ translate turkish strings:
 
     # game/code/screens/game_menus.rpy:104
     old "Naming save file:"
-    new "Kayıt dosyasını adlandır:"
+    new "İsim kaydet:"
 
     # game/code/screens/game_menus.rpy:105
     old "Enabled"
-    new "Etkinleştir"
+    new "Etkin"
 
     # game/code/screens/game_menus.rpy:107
     old "Disabled"
