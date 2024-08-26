@@ -40,7 +40,7 @@ translate spanish strings:
 
     # game/code/data/replay_room.rpy:16
     old "C04: Locker Room Fling With Iona"
-    new "C04: Aventura en el vestuario con Iona"
+    new "C04: Aventura con Iona"
 
     # game/code/data/replay_room.rpy:16
     old "You like partying."
@@ -140,7 +140,7 @@ translate spanish strings:
 
     # game/code/data/replay_room.rpy:16
     old "C07: Finish What Delphia Started"
-    new "C07: Termina lo que empezó Delphia"
+    new "C07: Sexo con Delphia"
 
     # game/code/data/replay_room.rpy:16
     old "Help Delphia."
@@ -260,7 +260,7 @@ translate spanish strings:
 
     # game/code/data/replay_room.rpy:16
     old "C08: Licking Morgan's Wounds"
-    new "C08: Lamiendo las heridas de Morgan"
+    new "C08: Sexo con Morgan"
 
     # game/code/data/replay_room.rpy:16
     old "Ask Morgan to stay."
@@ -276,7 +276,7 @@ translate spanish strings:
 
     # game/code/data/replay_room.rpy:16
     old "C08: Holding Moans With Monika"
-    new "C08: Sosteniendo los gemidos con Mónica"
+    new "C08: Sexo con Monika"
 
     # game/code/data/replay_room.rpy:16
     old "Give into the temptations."
@@ -296,11 +296,11 @@ translate spanish strings:
 
     # game/code/data/replay_room.rpy:16
     old "C09: Josie's First Time"
-    new "C09: La primera vez de Josie"
+    new "C09: Pasar tiempo con Josie"
 
     # game/code/data/replay_room.rpy:16
     old "C09: Josie's First Time (Trans)"
-    new "C09: La primera vez de Josie (Trans)"
+    new "C09: Pasar tiempo con Josie (Trans)"
 
     # game/code/data/replay_room.rpy:16
     old "C09: Satisfying Ronja"
