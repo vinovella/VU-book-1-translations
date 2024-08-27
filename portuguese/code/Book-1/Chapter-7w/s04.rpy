@@ -94,7 +94,7 @@ translate portuguese b1c07ws04_db48dd1a:
 translate portuguese b1c07ws04_a15c63c1:
 
     # ba "I know you're a rat. Coming out of nowhere, trying to get into our shit."
-    ba "Eu sei que você é um espião. Veio aqui do nada, tentando se introsar."
+    ba "Eu sei que você é um espião. Veio aqui do nada, tentando se entrosar."
 
 # game/code/Book-1/Chapter-7w/s04.rpy:77
 translate portuguese b1c07ws04_da24203a:
