@@ -46,3 +46,11 @@ translate portuguese strings:
     old "Close"
     new ""
 
+# TODO: Translation updated at 2024-08-29 18:12
+
+translate portuguese strings:
+
+    # game/code/screens/gallery.rpy:44
+    old "Character Filter: [character_filter]"
+    new ""
+

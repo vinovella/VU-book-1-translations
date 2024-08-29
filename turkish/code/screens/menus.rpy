@@ -98,3 +98,19 @@ translate turkish strings:
     old "Master Volume"
     new "Ana Ses Düzeyi"
 
+# TODO: Translation updated at 2024-08-29 18:10
+
+translate turkish strings:
+
+    # game/code/screens/menus.rpy:308
+    old "Wishlist Taboo University on Steam"
+    new "Wishlist Taboo University on Steam"
+
+    # game/code/screens/menus.rpy:824
+    old "Analytics"
+    new "Analytics"
+
+    # game/code/screens/menus.rpy:829
+    old "We only collect anonymous data about in-game choices."
+    new "We only collect anonymous data about in-game choices."
+

@@ -865,3 +865,111 @@ translate portuguese strings:
     old "A highly revered figure in the Children of Narurra cult."
     new ""
 
+# TODO: Translation updated at 2024-08-29 18:12
+
+translate portuguese strings:
+
+    # game/code/data/ib_descriptions.rpy:2
+    old "Bonded with Nia and Zemfira over their missing friends."
+    new ""
+
+    # game/code/data/ib_descriptions.rpy:2
+    old "Bonded with Silvia and Nia over their missing friends.."
+    new ""
+
+    # game/code/data/ib_descriptions.rpy:2
+    old "Bonded with Zemfira and Silvia over their missing friends."
+    new ""
+
+    # game/code/data/ib_descriptions.rpy:2
+    old "She is into rope play and watersports."
+    new ""
+
+    # game/code/data/ib_descriptions.rpy:2
+    old "Friends with Olesya."
+    new ""
+
+    # game/code/data/ib_descriptions.rpy:2
+    old "Iona is into voyeurism/public sex."
+    new ""
+
+    # game/code/data/ib_descriptions.rpy:2
+    old "Half-sibling of Monika."
+    new ""
+
+    # game/code/data/ib_descriptions.rpy:2
+    old "Friends with Josie."
+    new ""
+
+    # game/code/data/ib_descriptions.rpy:2
+    old "Has secret conversations with Prof. Harlan."
+    new ""
+
+    # game/code/data/ib_descriptions.rpy:2
+    old "Fleur likes to be soft dommed."
+    new ""
+
+    # game/code/data/ib_descriptions.rpy:2
+    old "Lilith helps Asami with the party planning, and Foxy with managing the fighters."
+    new ""
+
+    # game/code/data/ib_descriptions.rpy:2
+    old "The cult is pressuring Eliina to get pregnant."
+    new ""
+
+    # game/code/data/ib_descriptions.rpy:2
+    old "Winner's Club's party host."
+    new ""
+
+    # game/code/data/ib_descriptions.rpy:2
+    old "Has a file drawer in the employee section of the fight club."
+    new ""
+
+    # game/code/data/ib_descriptions.rpy:2
+    old "Keeps random trash in her file drawer."
+    new ""
+
+    # game/code/data/ib_descriptions.rpy:2
+    old "Gabbie has possession of Leia's phone."
+    new ""
+
+    # game/code/data/ib_descriptions.rpy:2
+    old "Gabbie had conflict with Leia."
+    new ""
+
+    # game/code/data/ib_descriptions.rpy:2
+    old "#1 suspect in Leia's disappearance."
+    new ""
+
+    # game/code/data/ib_descriptions.rpy:2
+    old "Knows that Brig passes out drugs to the Winners. Seems to encourage it."
+    new ""
+
+    # game/code/data/ib_descriptions.rpy:2
+    old "Something happened with Klara."
+    new ""
+
+    # game/code/data/ib_descriptions.rpy:2
+    old "Harlan had conflict with Klara."
+    new ""
+
+    # game/code/data/ib_descriptions.rpy:2
+    old "He is the #1 suspect in Klara's disappearance."
+    new ""
+
+    # game/code/data/ib_descriptions.rpy:2
+    old "Seems to be a high-ranking member of the cult."
+    new ""
+
+    # game/code/data/ib_descriptions.rpy:2
+    old "Had a conflict with a crazy ex or something."
+    new ""
+
+    # game/code/data/ib_descriptions.rpy:2
+    old "Kara did not have a crazy ex. She had conflict with Maria."
+    new ""
+
+    # game/code/data/ib_descriptions.rpy:2
+    old "Kara is #1 suspect in Maria's disappearance."
+    new ""
+

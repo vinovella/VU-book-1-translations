@@ -46,3 +46,11 @@ translate turkish strings:
     old "Close"
     new "Kapat"
 
+# TODO: Translation updated at 2024-08-29 18:10
+
+translate turkish strings:
+
+    # game/code/screens/gallery.rpy:44
+    old "Character Filter: [character_filter]"
+    new "Character Filter: [character_filter]"
+

@@ -90,3 +90,19 @@ translate spanish strings:
     old "Master Volume"
     new "Master Volume"
 
+# TODO: Translation updated at 2024-08-29 18:11
+
+translate spanish strings:
+
+    # game/code/screens/menus.rpy:308
+    old "Wishlist Taboo University on Steam"
+    new "Wishlist Taboo University on Steam"
+
+    # game/code/screens/menus.rpy:824
+    old "Analytics"
+    new "Analytics"
+
+    # game/code/screens/menus.rpy:829
+    old "We only collect anonymous data about in-game choices."
+    new "We only collect anonymous data about in-game choices."
+

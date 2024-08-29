@@ -90,3 +90,19 @@ translate portuguese strings:
     old "Master Volume"
     new ""
 
+# TODO: Translation updated at 2024-08-29 18:12
+
+translate portuguese strings:
+
+    # game/code/screens/menus.rpy:308
+    old "Wishlist Taboo University on Steam"
+    new ""
+
+    # game/code/screens/menus.rpy:824
+    old "Analytics"
+    new ""
+
+    # game/code/screens/menus.rpy:829
+    old "We only collect anonymous data about in-game choices."
+    new ""
+

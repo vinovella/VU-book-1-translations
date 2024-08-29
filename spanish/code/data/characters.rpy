@@ -109,3 +109,27 @@ translate spanish strings:
     # game/code/data/characters.rpy:59
     old "Nerium"
     new "Nerium"
+# TODO: Translation updated at 2024-08-29 18:11
+
+translate spanish strings:
+
+    # game/code/data/characters.rpy:75
+    old "Stacy"
+    new "Stacy"
+
+    # game/code/data/characters.rpy:76
+    old "Daisy"
+    new "Daisy"
+
+    # game/code/data/characters.rpy:77
+    old "Lyssa"
+    new "Lyssa"
+
+    # game/code/data/characters.rpy:78
+    old "Nari"
+    new "Nari"
+
+    # game/code/data/characters.rpy:79
+    old "Arlene"
+    new "Arlene"
+
