@@ -10,319 +10,319 @@ translate chinese b1c09s02_4046654a:
 translate chinese b1c09s02_484bf37b:
 
     # lw "Finally."
-    lw "Finally."
+    lw "终于醒了。"
 
 # game/code/Book-1/Chapter-9/s02.rpy:34
 translate chinese b1c09s02_7553e455:
 
     # jh "Are you okay, [mcname]?"
-    jh "Are you okay, [mcname]?"
+    jh "你没事吧，[mcname]？"
 
 # game/code/Book-1/Chapter-9/s02.rpy:38
 translate chinese b1c09s02_fcf67621:
 
     # lw "Did he scare himself awake again?"
-    lw "Did he scare himself awake again?"
+    lw "他又被自己吓醒了？"
 
 # game/code/Book-1/Chapter-9/s02.rpy:42
 translate chinese b1c09s02_99aaa204:
 
     # mct "What the fuck was that dream?"
-    mct "What the fuck was that dream?"
+    mct "刚他妈的是什么梦？"
 
 # game/code/Book-1/Chapter-9/s02.rpy:47
 translate chinese b1c09s02_fd9cbcd8:
 
     # mc "Yeah... Yeah, I'm alright. Sorry."
-    mc "Yeah... Yeah, I'm alright. Sorry."
+    mc "嗯...嗯，我没事。抱歉。"
 
 # game/code/Book-1/Chapter-9/s02.rpy:50
 translate chinese b1c09s02_9a24a49c:
 
     # jh "You certainly don't look it. Bad dreams?"
-    jh "You certainly don't look it. Bad dreams?"
+    jh "你看起来可不像没事。做噩梦了？"
 
 # game/code/Book-1/Chapter-9/s02.rpy:52
 translate chinese b1c09s02_c300082f:
 
     # mc "...Yeah."
-    mc "...Yeah."
+    mc "...是的。"
 
 # game/code/Book-1/Chapter-9/s02.rpy:55
 translate chinese b1c09s02_b843c762:
 
     # jh "Wanna talk about it?"
-    jh "Wanna talk about it?"
+    jh "想聊聊吗？"
 
 # game/code/Book-1/Chapter-9/s02.rpy:58
 translate chinese b1c09s02_f4f34315:
 
     # mc "Not much to talk about."
-    mc "Not much to talk about."
+    mc "没什么好说的。"
 
 # game/code/Book-1/Chapter-9/s02.rpy:64
 translate chinese b1c09s02_90918439:
 
     # mc "*Yawns* It's already fading away."
-    mc "*Yawns* It's already fading away."
+    mc "*打哈欠* 已经不那么难受了。"
 
 # game/code/Book-1/Chapter-9/s02.rpy:70
 translate chinese b1c09s02_77211fb1:
 
     # lw "Man, what sorta trauma did you go through to have nightmares like that?"
-    lw "Man, what sorta trauma did you go through to have nightmares like that?"
+    lw "天哪，你经历了什么创伤才会做那样的噩梦？"
 
 # game/code/Book-1/Chapter-9/s02.rpy:73
 translate chinese b1c09s02_e0ed3e93:
 
     # jh "Lara! That's not nice."
-    jh "Lara! That's not nice."
+    jh "劳拉！这可不好。"
 
 # game/code/Book-1/Chapter-9/s02.rpy:76
 translate chinese b1c09s02_3441b32f:
 
     # lw "What! Not like you're not thinking it."
-    lw "What! Not like you're not thinking it."
+    lw "怎么了！别说你不好奇啊。"
 
 # game/code/Book-1/Chapter-9/s02.rpy:79
 translate chinese b1c09s02_5121a898:
 
     # mc "*Chuckles* Has anyone ever told you that you're really nosy?"
-    mc "*Chuckles* Has anyone ever told you that you're really nosy?"
+    mc "*轻笑* 有没有人说过，你真的很八卦？"
 
 # game/code/Book-1/Chapter-9/s02.rpy:82
 translate chinese b1c09s02_736bf932:
 
     # lw "Yes. Don't dodge the question."
-    lw "Yes. Don't dodge the question."
+    lw "有啊。别回避我的问题。"
 
 # game/code/Book-1/Chapter-9/s02.rpy:85
 translate chinese b1c09s02_79cb95e2:
 
     # mc "*Smiles* Well, I'd tell you if I could understand the dreams myself."
-    mc "*Smiles* Well, I'd tell you if I could understand the dreams myself."
+    mc "*微笑* 好吧，如果我自己能理解这些梦，我会告诉你的。"
 
 # game/code/Book-1/Chapter-9/s02.rpy:86
 translate chinese b1c09s02_5e90fa87:
 
     # mc "They are...nonsensical. Clueless."
-    mc "They are...nonsensical. Clueless."
+    mc "我的梦...毫无意义。没一点头绪。"
 
 # game/code/Book-1/Chapter-9/s02.rpy:89
 translate chinese b1c09s02_caff6c6c:
 
     # lw "Interesting choice of wording."
-    lw "Interesting choice of wording."
+    lw "措辞很有意思。"
 
 # game/code/Book-1/Chapter-9/s02.rpy:92
 translate chinese b1c09s02_a84d362b:
 
     # jh "Lara, will you please stop interrogating the poor thing just after he woke up?"
-    jh "Lara, will you please stop interrogating the poor thing just after he woke up?"
+    jh "劳拉，你能不能别在这可怜的家伙刚醒后就审问他？"
 
 # game/code/Book-1/Chapter-9/s02.rpy:95
 translate chinese b1c09s02_3e12f6cc:
 
     # lw "Alright, fine."
-    lw "Alright, fine."
+    lw "好吧，没问题。"
 
 # game/code/Book-1/Chapter-9/s02.rpy:109
 translate chinese b1c09s02_dressed_d7058095:
 
     # mc "What's the occasion?"
-    mc "What's the occasion?"
+    mc "要去哪里吗？"
 
 # game/code/Book-1/Chapter-9/s02.rpy:111
 translate chinese b1c09s02_dressed_2e5ecc54:
 
     # jh "Oh, thos—"
-    jh "Oh, thos—"
+    jh "哦，那个--"
 
 # game/code/Book-1/Chapter-9/s02.rpy:116
 translate chinese b1c09s02_dressed_ce4e50db:
 
     # lw "Josie got invited to a party."
-    lw "Josie got invited to a party."
+    lw "乔西受邀去参加一个派对。"
 
 # game/code/Book-1/Chapter-9/s02.rpy:121
 translate chinese b1c09s02_dressed_85e5ee08:
 
     # jh "I...got invited to a party."
-    jh "I...got invited to a party."
+    jh "我...受邀去参加一个派对。"
 
 # game/code/Book-1/Chapter-9/s02.rpy:133
 translate chinese b1c09s02_dressed_047e878a:
 
     # mc "Oh, my. Did someone get asked out on a date?"
-    mc "Oh, my. Did someone get asked out on a date?"
+    mc "哦，天哪。有人约你出去吗？"
 
 # game/code/Book-1/Chapter-9/s02.rpy:138
 translate chinese b1c09s02_dressed_f932ab40:
 
     # mc "Oh. That's fun."
-    mc "Oh. That's fun."
+    mc "哦。真有趣。"
 
 # game/code/Book-1/Chapter-9/s02.rpy:139
 translate chinese b1c09s02_dressed_2e22477c:
 
     # mc "Someone asked you out?"
-    mc "Someone asked you out?"
+    mc "有人约你出去？"
 
 # game/code/Book-1/Chapter-9/s02.rpy:142
 translate chinese b1c09s02_dressed_0cb98186:
 
     # jh "God, no. Nothing like that."
-    jh "God, no. Nothing like that."
+    jh "天哪，没有。不是那样的。"
 
 # game/code/Book-1/Chapter-9/s02.rpy:145
 translate chinese b1c09s02_dressed_fed91ecb:
 
     # jh "It's just an end of semester party over The Winner's Mansion."
-    jh "It's just an end of semester party over The Winner's Mansion."
+    jh "只是赢家队的人举办的学期末派对而已。"
 
 # game/code/Book-1/Chapter-9/s02.rpy:146
 translate chinese b1c09s02_dressed_19459c3b:
 
     # jh "My friend, Olesya, invited me."
-    jh "My friend, Olesya, invited me."
+    jh "我的朋友奥列西娅邀请了我。"
 
 # game/code/Book-1/Chapter-9/s02.rpy:150
 translate chinese b1c09s02_dressed_d6c2f86e:
 
     # mct "Huh, Josie knows Olesya."
-    mct "Huh, Josie knows Olesya."
+    mct "哦，原来乔西认识奥列西娅。"
 
 # game/code/Book-1/Chapter-9/s02.rpy:156
 translate chinese b1c09s02_dressed_3e949ee1:
 
     # jh "I've just been fussing trying to figure out what to wear."
-    jh "I've just been fussing trying to figure out what to wear."
+    jh "我一直在纠结该穿什么。"
 
 # game/code/Book-1/Chapter-9/s02.rpy:158
 translate chinese b1c09s02_dressed_7ff0d019:
 
     # mc "Can't you just wear what you usually wear?"
-    mc "Can't you just wear what you usually wear?"
+    mc "你就不能穿平时穿的衣服吗？"
 
 # game/code/Book-1/Chapter-9/s02.rpy:162
 translate chinese b1c09s02_dressed_8e16981f:
 
     # lw "Exactly what I said."
-    lw "Exactly what I said."
+    lw "我也是这个意思。"
 
 # game/code/Book-1/Chapter-9/s02.rpy:165
 translate chinese b1c09s02_dressed_b0fe9c0b:
 
     # jh "Absolutely not. I don't know if you know of The Winners or not, but they can be ruthless."
-    jh "Absolutely not. I don't know if you know of The Winners or not, but they can be ruthless."
+    jh "绝对不行。我不知道你知不知道赢家队的人，但她们可是非常狠的。"
 
 # game/code/Book-1/Chapter-9/s02.rpy:166
 translate chinese b1c09s02_dressed_b4610c97:
 
     # jh "I like Olesya, but some of the others are so catty and backhanded."
-    jh "I like Olesya, but some of the others are so catty and backhanded."
+    jh "我喜欢奥列西娅，但其他一些人太斤斤计较，心胸狭隘。"
 
 # game/code/Book-1/Chapter-9/s02.rpy:169
 translate chinese b1c09s02_dressed_c2a60ed9:
 
     # mc "It sounds to me like you just don't want to go."
-    mc "It sounds to me like you just don't want to go."
+    mc "在我看来，你就是不想去。"
 
 # game/code/Book-1/Chapter-9/s02.rpy:178
 translate chinese b1c09s02_dressed_17a0a202:
 
     # jh "Ugh... I don't know."
-    jh "Ugh... I don't know."
+    jh "唉...我不知道。"
 
 # game/code/Book-1/Chapter-9/s02.rpy:179
 translate chinese b1c09s02_dressed_996d9148:
 
     # jh "I don't want to go because I don't want to leave Lara alo—"
-    jh "I don't want to go because I don't want to leave Lara alo—"
+    jh "我不想去，因为我不想离开劳拉--"
 
 # game/code/Book-1/Chapter-9/s02.rpy:182
 translate chinese b1c09s02_dressed_1a1f4f56:
 
     # lw "Na-uh! Don't you dare give me that excuse."
-    lw "Na-uh! Don't you dare give me that excuse."
+    lw "哎--别啊！别给我找这种借口。"
 
 # game/code/Book-1/Chapter-9/s02.rpy:186
 translate chinese b1c09s02_dressed_2e165a6f:
 
     # lw "First of all, I'm not alone. I have Mr. Pennywacker with me."
-    lw "First of all, I'm not alone. I have Mr. Pennywacker with me."
+    lw "首先，我不是一个人。咱们的迷人先生和我在一起。"
 
 # game/code/Book-1/Chapter-9/s02.rpy:187
 translate chinese b1c09s02_dressed_4f39f269:
 
     # lw "Second of all, I will not be the go-to excuse for your undiagnosed social anxiety."
-    lw "Second of all, I will not be the go-to excuse for your undiagnosed social anxiety."
+    lw "其次，我不会成为你未确诊社交焦虑症的替罪羊。"
 
 # game/code/Book-1/Chapter-9/s02.rpy:190
 translate chinese b1c09s02_dressed_ec08bfa7:
 
     # jh "That's a low-blow! That's not fair!"
-    jh "That's a low-blow! That's not fair!"
+    jh "太卑鄙了！这不公平！"
 
 # game/code/Book-1/Chapter-9/s02.rpy:193
 translate chinese b1c09s02_dressed_b440360d:
 
     # lw "All's fair in love and war, sweetheart."
-    lw "All's fair in love and war, sweetheart."
+    lw "亲爱的，爱情和战争中一切都是公平的。"
 
 # game/code/Book-1/Chapter-9/s02.rpy:196
 translate chinese b1c09s02_dressed_6f756ec3:
 
     # mc "*Snorts* That's really fucking corny."
-    mc "*Snorts* That's really fucking corny."
+    mc "*哼哼* 真他妈老套。"
 
 # game/code/Book-1/Chapter-9/s02.rpy:199
 translate chinese b1c09s02_dressed_42e4eb7d:
 
     # lw "You stay out of this."
-    lw "You stay out of this."
+    lw "你别管。"
 
 # game/code/Book-1/Chapter-9/s02.rpy:202
 translate chinese b1c09s02_dressed_744a05f5:
 
     # jh "{i}Anyway{/i}, I'm still not sure about leaving you."
-    jh "{i}Anyway{/i}, I'm still not sure about leaving you."
+    jh "{i}不管怎么说/i}，我还是不确定是否要离开你。"
 
 # game/code/Book-1/Chapter-9/s02.rpy:221
 translate chinese b1c09s02_dressed_81965071:
 
     # lw "I know. But I'm telling you to go."
-    lw "I know. But I'm telling you to go."
+    lw "我知道。但我还是希望你离开。"
 
 # game/code/Book-1/Chapter-9/s02.rpy:222
 translate chinese b1c09s02_dressed_99ba04ed:
 
     # lw "I can handle myself. Trust me."
-    lw "I can handle myself. Trust me."
+    lw "我能照顾好自己。相信我。"
 
 # game/code/Book-1/Chapter-9/s02.rpy:223
 translate chinese b1c09s02_dressed_56626296:
 
     # lw "And I also want to hear all the tea, and you can't deprive me of that."
-    lw "And I also want to hear all the tea, and you can't deprive me of that."
+    lw "我还想听你讲那些茶的故事，你不能剥夺我的这个权利。"
 
 # game/code/Book-1/Chapter-9/s02.rpy:247
 translate chinese b1c09s02_both_go_28ce5bc8:
 
     # mc "Why don't you both go?"
-    mc "Why don't you both go?"
+    mc "你们俩为什么不一起去呢？"
 
 # game/code/Book-1/Chapter-9/s02.rpy:250
 translate chinese b1c09s02_both_go_671e3500:
 
     # lw "{i}{b}What{/b}{/i}?"
-    lw "{i}{b}What{/b}{/i}?"
+    lw "{i}{b}什么{/b}{/i}?"
 
 # game/code/Book-1/Chapter-9/s02.rpy:251
 translate chinese b1c09s02_both_go_1a9be8cb:
 
     # lw "Absolutely no—"
-    lw "Absolutely no—"
+    lw "绝对不行--"
 
 # game/code/Book-1/Chapter-9/s02.rpy:254
 translate chinese b1c09s02_both_go_4149843f:
