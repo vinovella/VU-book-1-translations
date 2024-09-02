@@ -598,81 +598,81 @@ translate chinese b1c09s02_no_choice_a11409e1:
 translate chinese b1c09s02_no_choice_00dadcba:
 
     # mc "They really aren't {i}that{/i} bad."
-    mc "They really aren't {i}that{/i} bad."
+    mc "他们真的没{i}那么{/i}坏。"
 
 # game/code/Book-1/Chapter-9/s02.rpy:412
 translate chinese b1c09s02_no_choice_5034ac5a:
 
     # jh "I don't know... I just don't... I'm sorry."
-    jh "I don't know... I just don't... I'm sorry."
+    jh "我不知道这事...我只是...对不起。"
 
 # game/code/Book-1/Chapter-9/s02.rpy:415
 translate chinese b1c09s02_no_choice_a9dd99f2:
 
     # mct "Jeez, what did I do?"
-    mct "Jeez, what did I do?"
+    mct "天啊，我做了什么？"
 
 # game/code/Book-1/Chapter-9/s02.rpy:419
 translate chinese b1c09s02_no_choice_3f907884:
 
     # lw "Okay, well. It's okay."
-    lw "Okay, well. It's okay."
+    lw "哦，好吧，没事的。"
 
 # game/code/Book-1/Chapter-9/s02.rpy:420
 translate chinese b1c09s02_no_choice_88f1aa45:
 
     # lw "I want you to push yourself, but I don't want you to feel hurt either."
-    lw "I want you to push yourself, but I don't want you to feel hurt either."
+    lw "我希望你鞭策自己，但我也不希望你感到受伤。"
 
 # game/code/Book-1/Chapter-9/s02.rpy:421
 translate chinese b1c09s02_no_choice_30a12a7b:
 
     # lw "I'm sorry."
-    lw "I'm sorry."
+    lw "对不起。"
 
 # game/code/Book-1/Chapter-9/s02.rpy:424
 translate chinese b1c09s02_no_choice_e4eed1fc:
 
     # jh "It's okay. It's not your fault. I thought I might be able to. But I just don't really want to anymore."
-    jh "It's okay. It's not your fault. I thought I might be able to. But I just don't really want to anymore."
+    jh "没关系。这不是你的错。我以为我可以没事的，但我现在真的不想逼自己了。"
 
 # game/code/Book-1/Chapter-9/s02.rpy:426
 translate chinese b1c09s02_no_choice_5cc7bce2:
 
     # lw "What if we go bouldering instead?"
-    lw "What if we go bouldering instead?"
+    lw "如果我们去玩抱石呢？"
 
 # game/code/Book-1/Chapter-9/s02.rpy:428
 translate chinese b1c09s02_no_choice_7d1a1879:
 
     # jh "Oh, yeah... Yeah! I'd like that."
-    jh "Oh, yeah... Yeah! I'd like that."
+    jh "哦，好啊...好啊！我喜欢。"
 
 # game/code/Book-1/Chapter-9/s02.rpy:429
 translate chinese b1c09s02_no_choice_d98a3e29:
 
     # jh "I feel kinda shaky, right now. It'd be nice to go clear my mind."
-    jh "I feel kinda shaky, right now. It'd be nice to go clear my mind."
+    jh "我现在觉得有点发抖。如果能让我清醒一下就好了。"
 
 # game/code/Book-1/Chapter-9/s02.rpy:433
 translate chinese b1c09s02_no_choice_466ab65b:
 
     # lw "Alright. It's settled then. Once we're done with classes, we'll go to the gym."
-    lw "Alright. It's settled then. Once we're done with classes, we'll go to the gym."
+    lw "好吧。就这么定了。下课后，我们就去健身房。"
 
 # game/code/Book-1/Chapter-9/s02.rpy:436
 translate chinese b1c09s02_no_choice_766065bc:
 
     # jh "I'd like that."
-    jh "I'd like that."
+    jh "我很乐意。"
 
 translate chinese strings:
 
     # game/code/Book-1/Chapter-9/s02.rpy:232
     old "Why don't you both go?"
-    new "Why don't you both go?"
+    new "你们为什么不一起去呢？"
 
     # game/code/Book-1/Chapter-9/s02.rpy:232
     old "Lara's right"
-    new "Lara's right"
+    new "劳拉说得对"
 
