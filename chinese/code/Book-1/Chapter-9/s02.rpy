@@ -328,271 +328,271 @@ translate chinese b1c09s02_both_go_1a9be8cb:
 translate chinese b1c09s02_both_go_4149843f:
 
     # jh "Yeah! That's a good idea!"
-    jh "Yeah! That's a good idea!"
+    jh "是啊！这是个好主意！"
 
 # game/code/Book-1/Chapter-9/s02.rpy:258
 translate chinese b1c09s02_both_go_bfda6477:
 
     # lw "No it isn't! I don't want to go into that cesspit!"
-    lw "No it isn't! I don't want to go into that cesspit!"
+    lw "不，不好！我不想进那个粪坑！"
 
 # game/code/Book-1/Chapter-9/s02.rpy:261
 translate chinese b1c09s02_both_go_f06a0ba3:
 
     # jh "Oh, so you can push {i}me{/i} to go, but the moment I ask you, my {i}best friend{/i}, you vanish?"
-    jh "Oh, so you can push {i}me{/i} to go, but the moment I ask you, my {i}best friend{/i}, you vanish?"
+    jh "哦，所以你可以逼{i}我{/i}去，但我一开口向你求助，我{i}最好的朋友{/i}，你就退缩了？"
 
 # game/code/Book-1/Chapter-9/s02.rpy:264
 translate chinese b1c09s02_both_go_cb2c2165:
 
     # mc "*Smirks* Can dish it out, but can't take it."
-    mc "*Smirks* Can dish it out, but can't take it."
+    mc "*坏笑* 严于律人，宽于待己，是吧。"
 
 # game/code/Book-1/Chapter-9/s02.rpy:266
 translate chinese b1c09s02_both_go_f12daad9:
 
     # lw "You. Hush."
-    lw "You. Hush."
+    lw "你。安静。"
 
 # game/code/Book-1/Chapter-9/s02.rpy:269
 translate chinese b1c09s02_both_go_68cdd705:
 
     # lw "I {i}can't{/i} go. I'll probably get pinballed around until I end up in the pool drowning."
-    lw "I {i}can't{/i} go. I'll probably get pinballed around until I end up in the pool drowning."
+    lw "我{i}不能/i}去。我可能会像个球一样被弹来弹去，直到淹死在游泳池里。"
 
 # game/code/Book-1/Chapter-9/s02.rpy:272
 translate chinese b1c09s02_both_go_be3154b7:
 
     # jh "I'm not hearing it. If I can't use my social anxiety as an excuse, you can't use your blindness as an excuse."
-    jh "I'm not hearing it. If I can't use my social anxiety as an excuse, you can't use your blindness as an excuse."
+    jh "我不听。如果我不能用社交焦虑作为借口，你也不能用失明作为借口。"
 
 # game/code/Book-1/Chapter-9/s02.rpy:274
 translate chinese b1c09s02_both_go_0ffb9dbe:
 
     # lw "They're two completely different things!"
-    lw "They're two completely different things!"
+    lw "这完全是两码事！"
 
 # game/code/Book-1/Chapter-9/s02.rpy:276
 translate chinese b1c09s02_both_go_366d4539:
 
     # jh "*Gasp* Are you invalidating my mental health issues right now?"
-    jh "*Gasp* Are you invalidating my mental health issues right now?"
+    jh "*喘气* 你现在是在否定我的心理健康问题吗？"
 
 # game/code/Book-1/Chapter-9/s02.rpy:280
 translate chinese b1c09s02_both_go_6de108c4:
 
     # mc "Sure didn't stop you from bouldering either last I remember."
-    mc "Sure didn't stop you from bouldering either last I remember."
+    mc "我记得你也没因为失明而停止过攀岩。"
 
 # game/code/Book-1/Chapter-9/s02.rpy:283
 translate chinese b1c09s02_both_go_e1efda48:
 
     # lw "Oh my God, I can't believe this is happening."
-    lw "Oh my God, I can't believe this is happening."
+    lw "我的天，真不敢相信会发生这种事。"
 
 # game/code/Book-1/Chapter-9/s02.rpy:286
 translate chinese b1c09s02_both_go_6bea7c4f:
 
     # mc "Better start picking out your outfit, Lara."
-    mc "Better start picking out your outfit, Lara."
+    mc "最好开始挑你的衣服吧，劳拉。"
 
 # game/code/Book-1/Chapter-9/s02.rpy:290
 translate chinese b1c09s02_both_go_fe367219:
 
     # lw "Shut up. This is all because of you."
-    lw "Shut up. This is all because of you."
+    lw "闭嘴。都是因为你。"
 
 # game/code/Book-1/Chapter-9/s02.rpy:294
 translate chinese b1c09s02_both_go_446adb1b:
 
     # lw "I need to go to class. I'm late because of you two."
-    lw "I need to go to class. I'm late because of you two."
+    lw "我要去上课了。因为你们俩，我要迟到了。"
 
 # game/code/Book-1/Chapter-9/s02.rpy:303
 translate chinese b1c09s02_both_go_f47fe970:
 
     # jh "Do you want me to help walk you—"
-    jh "Do you want me to help walk you—"
+    jh "要不要我送你--"
 
 # game/code/Book-1/Chapter-9/s02.rpy:305
 translate chinese b1c09s02_both_go_fca25dc3:
 
     # lw "No. I'm angry with you right now."
-    lw "No. I'm angry with you right now."
+    lw "不，我现在对你很生气。"
 
 # game/code/Book-1/Chapter-9/s02.rpy:306
 translate chinese b1c09s02_both_go_6dcf0537:
 
     # lw "Anyway, I'll be fine. You stay here and rest up."
-    lw "Anyway, I'll be fine. You stay here and rest up."
+    lw "不管怎样，我会没事的。你留在这里休息。"
 
 # game/code/Book-1/Chapter-9/s02.rpy:310
 translate chinese b1c09s02_both_go_933bb491:
 
     # lw "As for you—"
-    lw "As for you—"
+    lw "至于你--"
 
 # game/code/Book-1/Chapter-9/s02.rpy:313
 translate chinese b1c09s02_both_go_c783ac6b:
 
     # mc "*Smiles* A little to the left."
-    mc "*Smiles* A little to the left."
+    mc "*微笑* 左边一点。"
 
 # game/code/Book-1/Chapter-9/s02.rpy:316
 translate chinese b1c09s02_both_go_9c754722:
 
     # lw "As for you, stop putting ideas into Josie's head."
-    lw "As for you, stop putting ideas into Josie's head."
+    lw "至于你，别再给乔西灌输思想了。"
 
 # game/code/Book-1/Chapter-9/s02.rpy:320
 translate chinese b1c09s02_both_go_a7f2fa2f:
 
     # mc "*Whispers* She's cute when she's angry."
-    mc "*Whispers* She's cute when she's angry."
+    mc "*低语* 她生气的时候很可爱。"
 
 # game/code/Book-1/Chapter-9/s02.rpy:322
 translate chinese b1c09s02_both_go_1ba87f61:
 
     # jh "*Giggles* She is. But she'd blow a gasket if she heard you say that."
-    jh "*Giggles* She is. But she'd blow a gasket if she heard you say that."
+    jh "*咯咯笑* 她是很可爱。不过她要是听到你这么说，可是会气炸的。"
 
 # game/code/Book-1/Chapter-9/s02.rpy:332
 translate chinese b1c09s02_lw_right_cba733f5:
 
     # mc "C'mon, Josie. Lara's right."
-    mc "C'mon, Josie. Lara's right."
+    mc "来吧，乔西。劳拉说得对。"
 
 # game/code/Book-1/Chapter-9/s02.rpy:333
 translate chinese b1c09s02_lw_right_74a2f1db:
 
     # mc "It's shitty to stay all cooped up. If you're not gonna put yourself out there now, when will you?"
-    mc "It's shitty to stay all cooped up. If you're not gonna put yourself out there now, when will you?"
+    mc "把自己关在屋子里太糟糕了。如果你现在都不把自己放出去，那什么时候才会呢？"
 
 # game/code/Book-1/Chapter-9/s02.rpy:334
 translate chinese b1c09s02_lw_right_8a85fec1:
 
     # mc "And Lara's a big girl, she can handle herself."
-    mc "And Lara's a big girl, she can handle herself."
+    mc "劳拉是个大姑娘了，她能照顾好自己。"
 
 # game/code/Book-1/Chapter-9/s02.rpy:337
 translate chinese b1c09s02_lw_right_41f7de82:
 
     # lw "Don't call me big. And don't call me girl. Matter of fact, don't refer to me at all."
-    lw "Don't call me big. And don't call me girl. Matter of fact, don't refer to me at all."
+    lw "别叫我大姑娘。也别叫我女孩。事实上，根本就不要提到我。"
 
 # game/code/Book-1/Chapter-9/s02.rpy:338
 translate chinese b1c09s02_lw_right_47b387e9:
 
     # lw "But also he's right. I can handle myself and you need to get out more."
-    lw "But also he's right. I can handle myself and you need to get out more."
+    lw "但他说的也对。我能照顾好自己，你需要多出去走走。"
 
 # game/code/Book-1/Chapter-9/s02.rpy:341
 translate chinese b1c09s02_lw_right_28a2651f:
 
     # lw "Stay cooped up any longer and you're gonna start growing mold."
-    lw "Stay cooped up any longer and you're gonna start growing mold."
+    lw "再把自己闷在屋子里，你会长霉的。"
 
 # game/code/Book-1/Chapter-9/s02.rpy:343
 translate chinese b1c09s02_lw_right_396656aa:
 
     # jh "Ew."
-    jh "Ew."
+    jh "恶心。"
 
 # game/code/Book-1/Chapter-9/s02.rpy:345
 translate chinese b1c09s02_lw_right_2712e1e6:
 
     # lw "Exactly."
-    lw "Exactly."
+    lw "没错。"
 
 # game/code/Book-1/Chapter-9/s02.rpy:351
 translate chinese b1c09s02_lw_right_6fb4f58c:
 
     # jh "*Sighs* Okay, fine. But let the record show that I'm only doing this because I'm being peer pressured."
-    jh "*Sighs* Okay, fine. But let the record show that I'm only doing this because I'm being peer pressured."
+    jh "*叹气* 好吧，好吧。但请记录在案，我这么做只是因为受到了同伴的压力。"
 
 # game/code/Book-1/Chapter-9/s02.rpy:354
 translate chinese b1c09s02_lw_right_bae02910:
 
     # lw "Sometimes you need a little pressure to create diamonds."
-    lw "Sometimes you need a little pressure to create diamonds."
+    lw "有时你需要一点压力来创造珍贵的钻石。"
 
 # game/code/Book-1/Chapter-9/s02.rpy:357
 translate chinese b1c09s02_lw_right_2a7dee64:
 
     # jh "Yeah and sometimes a little pressure causes you to crap yourself."
-    jh "Yeah and sometimes a little pressure causes you to crap yourself."
+    jh "是啊，有时一点压力也会让你自暴自弃。"
 
 # game/code/Book-1/Chapter-9/s02.rpy:361
 translate chinese b1c09s02_lw_right_32042651:
 
     # lw "*Smiles* Ew. Now who's being disgusting?"
-    lw "*Smiles* Ew. Now who's being disgusting?"
+    lw "*微笑* 恶心。现在是谁恶心了？"
 
 # game/code/Book-1/Chapter-9/s02.rpy:363
 translate chinese b1c09s02_lw_right_14bfeaf7:
 
     # jh "I was making a point!"
-    jh "I was making a point!"
+    jh "我在说重点！"
 
 # game/code/Book-1/Chapter-9/s02.rpy:375
 translate chinese b1c09s02_lw_right_0f56650d:
 
     # mc "I think we need to workshop your point making skills a little bit more."
-    mc "I think we need to workshop your point making skills a little bit more."
+    mc "我想我们需要多练习一下你的表达技巧。"
 
 # game/code/Book-1/Chapter-9/s02.rpy:378
 translate chinese b1c09s02_lw_right_f2cebb18:
 
     # lw "*Giggles* Never thought it'd happen, but [mcname] and I have agreed on two things this morning."
-    lw "*Giggles* Never thought it'd happen, but [mcname] and I have agreed on two things this morning."
+    lw "*咯咯笑* 没想到会这样，不过今天早上我和[mcname]在两件事上达成了一致。"
 
 # game/code/Book-1/Chapter-9/s02.rpy:383
 translate chinese b1c09s02_lw_right_f47fe970:
 
     # jh "Do you want me to help walk you—"
-    jh "Do you want me to help walk you—"
+    jh "你想让我陪你散步--"
 
 # game/code/Book-1/Chapter-9/s02.rpy:387
 translate chinese b1c09s02_lw_right_52c5a91b:
 
     # lw "I appreciate it. But I'll be fine. You rest up."
-    lw "I appreciate it. But I'll be fine. You rest up."
+    lw "我很感激。不过我会没事的。你好好休息。"
 
 # game/code/Book-1/Chapter-9/s02.rpy:388
 translate chinese b1c09s02_lw_right_5f8cdb15:
 
     # lw "Bye, you too."
-    lw "Bye, you too."
+    lw "再见，你也是。"
 
 # game/code/Book-1/Chapter-9/s02.rpy:393
 translate chinese b1c09s02_lw_right_d3290de8:
 
     # jh "She's so stubborn when she decides on something."
-    jh "She's so stubborn when she decides on something."
+    jh "她决定一件事的时候很固执。"
 
 # game/code/Book-1/Chapter-9/s02.rpy:395
 translate chinese b1c09s02_lw_right_dee77d1e:
 
     # mc "Kinda like someone else I know."
-    mc "Kinda like someone else I know."
+    mc "有点像我认识的另一个人。"
 
 # game/code/Book-1/Chapter-9/s02.rpy:398
 translate chinese b1c09s02_lw_right_931e1e00:
 
     # jh "This is unfair! You two are just ganging up on me now."
-    jh "This is unfair! You two are just ganging up on me now."
+    jh "这不公平！你们两个现在是在合伙对付我。"
 
 # game/code/Book-1/Chapter-9/s02.rpy:406
 translate chinese b1c09s02_no_choice_7897ff64:
 
     # mc "Yeah, Josie. I think you should go. It could be fun."
-    mc "Yeah, Josie. I think you should go. It could be fun."
+    mc "是啊，乔西。我觉得你应该去。会很有趣的。"
 
 # game/code/Book-1/Chapter-9/s02.rpy:408
 translate chinese b1c09s02_no_choice_a11409e1:
 
     # mc "I'm technically a part of The Winners. Well, a part of their volleyball group at least."
-    mc "I'm technically a part of The Winners. Well, a part of their volleyball group at least."
+    mc "严格来说，我是赢家队的一员。至少是他们排球队的一员。"
 
 # game/code/Book-1/Chapter-9/s02.rpy:409
 translate chinese b1c09s02_no_choice_00dadcba:
