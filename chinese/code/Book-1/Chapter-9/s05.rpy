@@ -4,31 +4,31 @@
 translate chinese replay_b1c09s05_f0d249da:
 
     # mc "*Deep sigh*"
-    mc "*Deep sigh*"
+    mc "*深深叹息*"
 
 # game/code/Book-1/Chapter-9/s05.rpy:80
 translate chinese replay_b1c09s05_e03aca3b:
 
     # "Tap, tap, tap..."
-    "Tap, tap, tap..."
+    "咚咚，咚咚，咚咚..."
 
 # game/code/Book-1/Chapter-9/s05.rpy:89
 translate chinese replay_b1c09s05_fb069e6a:
 
     # mc "Woah! Diana!?"
-    mc "Woah! Diana!?"
+    mc "喔！戴安娜!?"
 
 # game/code/Book-1/Chapter-9/s05.rpy:93
 translate chinese replay_b1c09s05_e470bcc7:
 
     # dm "Oh? I didn't scare you, did I?"
-    dm "Oh? I didn't scare you, did I?"
+    dm "哦？我没吓着你吧？"
 
 # game/code/Book-1/Chapter-9/s05.rpy:98
 translate chinese replay_b1c09s05_9ed15315:
 
     # dm "Don't mind me, do continue."
-    dm "Don't mind me, do continue."
+    dm "别管我，继续。"
 
 # game/code/Book-1/Chapter-9/s05.rpy:101
 translate chinese replay_b1c09s05_a50ae208:
