@@ -286,7 +286,7 @@ translate chinese b1c09s02_dressed_42e4eb7d:
 translate chinese b1c09s02_dressed_744a05f5:
 
     # jh "{i}Anyway{/i}, I'm still not sure about leaving you."
-    jh "{i}不管怎么说/i}，我还是不确定是否要离开你。"
+    jh "{i}不管怎么说{/i}，我还是不确定是否要离开你。"
 
 # game/code/Book-1/Chapter-9/s02.rpy:221
 translate chinese b1c09s02_dressed_81965071:
@@ -358,7 +358,7 @@ translate chinese b1c09s02_both_go_f12daad9:
 translate chinese b1c09s02_both_go_68cdd705:
 
     # lw "I {i}can't{/i} go. I'll probably get pinballed around until I end up in the pool drowning."
-    lw "我{i}不能/i}去。我可能会像个球一样被弹来弹去，直到淹死在游泳池里。"
+    lw "我{i}不能{/i}去。我可能会像个球一样被弹来弹去，直到淹死在游泳池里。"
 
 # game/code/Book-1/Chapter-9/s02.rpy:272
 translate chinese b1c09s02_both_go_be3154b7:

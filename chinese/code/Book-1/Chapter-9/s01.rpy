@@ -400,7 +400,7 @@ translate chinese b1c09s01_check_pm_391518b4:
 translate chinese b1c09s01_check_pm_db3e672a:
 
     # kc "All to find {i}us{/i}, you say. Do what needs to be done, you say."
-    kc "都是为了找到{i}我们{/i}，你说。做该做的事，你也这么说。
+    kc "都是为了找到{i}我们{/i}，你说。做该做的事，你也这么说。"
 
 # game/code/Book-1/Chapter-9/s01.rpy:439
 translate chinese b1c09s01_check_pm_be7b3b18:
