@@ -1464,35 +1464,17 @@ translate chinese b1c09s11_no_dk_d34e1971:
     # mc "*Groans* That's it, take it all."
     mc "*Groans* That's it, take it all."
 
-# game/code/Book-1/Chapter-9/s11.rpy:932
-translate chinese b1c09s11_no_dk_0c32c8e3:
-
-    # "Nia bobs her head faster, her eyes rolling back as she deepthroats your cock."
-    "Nia bobs her head faster, her eyes rolling back as she deepthroats your cock."
-
 # game/code/Book-1/Chapter-9/s11.rpy:933
 translate chinese b1c09s11_no_dk_eba2b32c_1:
 
     # nv "*Muffled moans* Mmm..."
     nv "*Muffled moans* Mmm..."
 
-# game/code/Book-1/Chapter-9/s11.rpy:936
-translate chinese b1c09s11_no_dk_337c6f2d:
-
-    # "You tighten your grip on her hair, thrusting your hips as you feel yourself getting closer."
-    "You tighten your grip on her hair, thrusting your hips as you feel yourself getting closer."
-
 # game/code/Book-1/Chapter-9/s11.rpy:943
 translate chinese b1c09s11_no_dk_18779fe3:
 
     # mc "*Groans* I'm gonna cum."
     mc "*Groans* I'm gonna cum."
-
-# game/code/Book-1/Chapter-9/s11.rpy:948
-translate chinese b1c09s11_no_dk_366dc032:
-
-    # "Nia pulls back slightly, stroking your cock with one hand as she licks your balls."
-    "Nia pulls back slightly, stroking your cock with one hand as she licks your balls."
 
 # game/code/Book-1/Chapter-9/s11.rpy:951
 translate chinese b1c09s11_no_dk_66966b04:
