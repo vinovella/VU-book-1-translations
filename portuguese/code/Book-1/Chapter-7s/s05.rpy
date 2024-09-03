@@ -544,7 +544,7 @@ translate portuguese b1c07ss05_2b7f4715:
 translate portuguese b1c07ss05_f1baa1c3:
 
     # qh "Get fucking lost, Cade."
-    qh "Vai fora, Cade."
+    qh "Se manda, Cade."
 
 # game/code/Book-1/Chapter-7s/s05.rpy:346
 translate portuguese b1c07ss05_8f2c27da:
