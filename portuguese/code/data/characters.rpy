@@ -82,10 +82,6 @@ translate portuguese strings:
     old "Lauren"
     new "Lauren"
 
-# TODO: Translation updated at 2023-07-14 22:47
-
-translate portuguese strings:
-
     # game/code/data/characters.rpy:10
     old "Klara"
     new "Klara"
@@ -241,27 +237,24 @@ translate portuguese strings:
     # game/code/data/characters.rpy:59
     old "Nerium"
     new "Nerium"
-# TODO: Translation updated at 2024-08-29 18:12
-
-translate portuguese strings:
 
     # game/code/data/characters.rpy:75
     old "Stacy"
-    new ""
+    new "Stacy"
 
     # game/code/data/characters.rpy:76
     old "Daisy"
-    new ""
+    new "Daisy"
 
     # game/code/data/characters.rpy:77
     old "Lyssa"
-    new ""
+    new "Lyssa"
 
     # game/code/data/characters.rpy:78
     old "Nari"
-    new ""
+    new "Nari"
 
     # game/code/data/characters.rpy:79
     old "Arlene"
-    new ""
+    new "Arlene"
 

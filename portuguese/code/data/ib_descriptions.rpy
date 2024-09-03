@@ -865,10 +865,6 @@ translate portuguese strings:
     old "A highly revered figure in the Children of Narurra cult."
     new ""
 
-# TODO: Translation updated at 2024-08-29 18:12
-
-translate portuguese strings:
-
     # game/code/data/ib_descriptions.rpy:2
     old "Bonded with Nia and Zemfira over their missing friends."
     new ""
