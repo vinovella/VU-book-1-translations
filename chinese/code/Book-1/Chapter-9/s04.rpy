@@ -10,85 +10,85 @@ translate chinese b1c09s04_43180039:
 translate chinese b1c09s04_f2ed3706:
 
     # "As you navigate the bustling corridors, the familiar yet unexpected voice slices through the morning chatter."
-    "As you navigate the bustling corridors, the familiar yet unexpected voice slices through the morning chatter."
+    "当你穿梭在熙熙攘攘的走廊时，熟悉而又意想不到的声音划破了清晨的热闹。"
 
 # game/code/Book-1/Chapter-9/s04.rpy:78
 translate chinese b1c09s04_12f84333:
 
     # rh "Good morning! It's always a pleasure to see you around."
-    rh "Good morning! It's always a pleasure to see you around."
+    rh "早上好！见到你总是很高兴。"
 
 # game/code/Book-1/Chapter-9/s04.rpy:79
 translate chinese b1c09s04_c1a55de8:
 
     # rh "Though I haven't seen you around as much as before. I was wondering where you were."
-    rh "Though I haven't seen you around as much as before. I was wondering where you were."
+    rh "虽然我不像以前那样经常见到你了。我还在想你去哪儿了呢。"
 
 # game/code/Book-1/Chapter-9/s04.rpy:82
 translate chinese b1c09s04_3a6dd16b:
 
     # mc "Oh, uh... Yeah. I had to go on a thing—"
-    mc "Oh, uh... Yeah. I had to go on a thing—"
+    mc "哦，呃...是啊，我得去办一件事--"
 
 # game/code/Book-1/Chapter-9/s04.rpy:84
 translate chinese b1c09s04_f921fe01:
 
     # rh "Thing?"
-    rh "Thing?"
+    rh "办事？"
 
 # game/code/Book-1/Chapter-9/s04.rpy:88
 translate chinese b1c09s04_f5759e5b:
 
     # mc "I went with the school volleyball team to the Crowning Championship Tournament."
-    mc "I went with the school volleyball team to the Crowning Championship Tournament."
+    mc "我和学校排球队一起参加了冠军联赛。"
 
 # game/code/Book-1/Chapter-9/s04.rpy:91
 translate chinese b1c09s04_757f2203:
 
     # rh "Oh! Of course. Silly me, I even watched snippets of it but forgot."
-    rh "Oh! Of course. Silly me, I even watched snippets of it but forgot."
+    rh "哦！当然。我真笨，我甚至看了一小段片段，却给忘了。"
 
 # game/code/Book-1/Chapter-9/s04.rpy:95
 translate chinese b1c09s04_f67fc988:
 
     # rh "I'm so sorry about what happened, [mcname]."
-    rh "I'm so sorry about what happened, [mcname]."
+    rh "对于发生的事我很抱歉，[mcname]。"
 
 # game/code/Book-1/Chapter-9/s04.rpy:96
 translate chinese b1c09s04_17351ab8:
 
     # "The warmth in her voice feels genuine, a comforting balm to the sting of recent events."
-    "The warmth in her voice feels genuine, a comforting balm to the sting of recent events."
+    "她声音里的温暖让人感觉很真诚，是对最近事件的一种安慰。"
 
 # game/code/Book-1/Chapter-9/s04.rpy:99
 translate chinese b1c09s04_b9149f5d:
 
     # mc "Eh. Thank you. It is what it is. We'll get 'em next time, though."
-    mc "Eh. Thank you. It is what it is. We'll get 'em next time, though."
+    mc "谢谢你。事情就是这样。不过，我们下次会抓住他们的。"
 
 # game/code/Book-1/Chapter-9/s04.rpy:102
 translate chinese b1c09s04_ae617985:
 
     # rh "That's the spirit."
-    rh "That's the spirit."
+    rh "就是这种精神。"
 
 # game/code/Book-1/Chapter-9/s04.rpy:103
 translate chinese b1c09s04_73ef235a:
 
     # rh "And...for what it's worth."
-    rh "And...for what it's worth."
+    rh "还有...值得一说的是。"
 
 # game/code/Book-1/Chapter-9/s04.rpy:107
 translate chinese b1c09s04_29127db9:
 
     # rh "You were very dominant in the field. I wish I was there to make sure you were taken care of appropriately afterwards."
-    rh "You were very dominant in the field. I wish I was there to make sure you were taken care of appropriately afterwards."
+    rh "你在场上很有统治力。真希望我当时在场，确保你事后得到适当的照顾。"
 
 # game/code/Book-1/Chapter-9/s04.rpy:111
 translate chinese b1c09s04_2f75153c:
 
     # mc "I went on a sort of...retreat."
-    mc "I went on a sort of...retreat."
+    mc "我去...闭关修炼了。"
 
 # game/code/Book-1/Chapter-9/s04.rpy:114
 translate chinese b1c09s04_6253c35d:
