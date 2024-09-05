@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-07-14 00:34
-
 translate spanish strings:
 
     # game/code/data/characters.rpy:6
@@ -109,7 +107,6 @@ translate spanish strings:
     # game/code/data/characters.rpy:59
     old "Nerium"
     new "Nerium"
-# TODO: Translation updated at 2024-08-29 18:11
 
 translate spanish strings:
 

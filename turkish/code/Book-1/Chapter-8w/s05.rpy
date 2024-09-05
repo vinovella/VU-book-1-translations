@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2024-07-15 23:59
-
 # game/code/Book-1/Chapter-8w/s05.rpy:10
 translate turkish b1c08ws05_6a2b0ef5:
 
@@ -533,3 +531,4 @@ translate turkish b1c08ws05_84a7bf1a:
 
     # tw "One negroni, please."
     tw "Bir negroni, lütfen."
+

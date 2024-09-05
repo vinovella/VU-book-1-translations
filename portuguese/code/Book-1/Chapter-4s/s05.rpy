@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-07-17 14:12
-
 # game/code/Book-1/Chapter-4s/s05.rpy:19
 translate portuguese b1c04ss05_9729e557:
 
@@ -1061,3 +1059,4 @@ translate portuguese strings:
     # game/code/Book-1/Chapter-4s/s05.rpy:9
     old "Couple hours later"
     new "Algumas horas depois"
+

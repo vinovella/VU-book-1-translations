@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-08-07 00:37
-
 # game/code/Book-1/Chapter-6w/s03.rpy:24
 translate turkish b1c06ws03_6b98694b:
 
@@ -629,3 +627,4 @@ translate turkish b1c06ws03_b99ec9dd:
 
     # mc "Still had to get help from your team."
     mc "Yine de ekibinizden yardım almam gerekiyordu."
+

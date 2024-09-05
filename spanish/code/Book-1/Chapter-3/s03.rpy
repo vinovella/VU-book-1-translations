@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-07-12 12:41
-
 # game/code/Book-1/Chapter-3/s03.rpy:14
 translate spanish b1c03s03_514265e2:
 
@@ -269,3 +267,4 @@ translate spanish b1c03s03_38d240be:
 
     # dm "Please find those girls, detective."
     dm "Por favor encuentre a esas chicas, detective."
+

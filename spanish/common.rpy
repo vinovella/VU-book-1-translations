@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-07-12 12:41
-
 translate spanish strings:
 
     # renpy/common/00accessibility.rpy:28
@@ -1126,8 +1124,6 @@ translate spanish strings:
     old "Parsing the script failed."
     new "Error al analizar el script."
 
-# TODO: Translation updated at 2024-05-04 22:44
-
 translate spanish strings:
 
     # renpy/common/00accessibility.rpy:120
@@ -1225,8 +1221,6 @@ translate spanish strings:
     # renpy/common/00updater.rpy:2090
     old "Retry"
     new "Retry"
-
-# TODO: Translation updated at 2024-07-15 23:58
 
 translate spanish strings:
 

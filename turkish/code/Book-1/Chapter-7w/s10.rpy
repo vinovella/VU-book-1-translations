@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-08-07 00:37
-
 # game/code/Book-1/Chapter-7w/s10.rpy:29
 translate turkish b1c07ws10_return_ed123500:
 
@@ -143,3 +141,4 @@ translate turkish b1c07ws10_return_24279348:
 
     # "You try to sleep, but it seems that your brain wants to remember one more important detail..."
     "Uyumaya çalışıyorsunuz ama beyniniz önemli bir detayı daha hatırlamak istiyor gibi görünüyor..."
+

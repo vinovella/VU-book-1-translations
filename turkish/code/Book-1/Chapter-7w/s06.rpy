@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-08-07 00:37
-
 # game/code/Book-1/Chapter-7w/s06.rpy:26
 translate turkish b1c07ws06_7abdc870:
 
@@ -723,3 +721,4 @@ translate turkish strings:
     # game/code/Book-1/Chapter-7w/s06.rpy:228
     old "I bet you could even become our team's coach someday"
     new "Eminim bir gün takımımızın koçu bile olabilirsin"
+

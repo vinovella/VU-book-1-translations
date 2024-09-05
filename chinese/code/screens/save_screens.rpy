@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2024-07-15 23:57
-
 translate chinese strings:
 
     # game/code/screens/save_screens.rpy:12
@@ -29,8 +27,6 @@ translate chinese strings:
     # game/code/screens/save_screens.rpy:156
     old "Download Saves"
     new "Download Saves"
-
-# TODO: Translation updated at 2024-08-29 18:09
 
 translate chinese strings:
 

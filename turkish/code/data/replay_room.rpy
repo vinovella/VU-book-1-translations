@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2024-08-15 12:58
-
 translate turkish strings:
 
     # game/code/data/replay_room.rpy:16
@@ -365,3 +363,4 @@ translate turkish strings:
     # game/code/data/replay_room.rpy:16
     old "C09: Zemfira & Nia Threesome"
     new "C09: Zemfira & Nia Üçlüsü"
+

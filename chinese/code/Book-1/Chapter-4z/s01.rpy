@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-05-26 11:42
-
 # game/code/Book-1/Chapter-4z/s01.rpy:13
 translate chinese b1c04zs01_10358d58:
 
@@ -753,6 +751,4 @@ translate chinese strings:
     # game/code/Book-1/Chapter-4z/s01.rpy:189
     old "Jeez, you sure talk a lot."
     new "天啊，你话真多。"
-
-
 

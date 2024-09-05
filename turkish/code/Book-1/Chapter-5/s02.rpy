@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-08-07 00:37
-
 # game/code/Book-1/Chapter-5/s02.rpy:13
 translate turkish b1c05s02_876bda80:
 
@@ -891,3 +889,4 @@ translate turkish strings:
     # game/code/Book-1/Chapter-5/s02.rpy:392
     old "Investigation Board Reorganized"
     new "Soruşturma Kurulu Yeniden Düzenlendi"
+

@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2024-07-15 23:59
-
 # game/code/Book-1/Chapter-8w/s06.rpy:8
 translate turkish b1c08ws06_39ecabba:
 
@@ -351,3 +349,4 @@ translate turkish strings:
     # game/code/Book-1/Chapter-8w/s06.rpy:79
     old "Go for it"
     new "Devam et."
+

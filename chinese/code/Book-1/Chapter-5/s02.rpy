@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-06-27 18:33
-
 # game/code/Book-1/Chapter-5/s02.rpy:13
 translate chinese b1c05s02_876bda80:
 
@@ -887,8 +885,6 @@ translate chinese strings:
     # game/code/Book-1/Chapter-5/s02.rpy:4
     old "The next morning\nPhoebe's Apartment"
     new "第二天早上\n菲比的公寓"
-
-# TODO: Translation updated at 2023-07-19 11:38
 
 translate chinese strings:
 

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2024-07-15 23:59
-
 translate turkish strings:
 
     # game/code/screens/save_screens.rpy:12
@@ -29,8 +27,6 @@ translate turkish strings:
     # game/code/screens/save_screens.rpy:156
     old "Download Saves"
     new "Kayıtları İndir"
-
-# TODO: Translation updated at 2024-08-29 18:10
 
 translate turkish strings:
 

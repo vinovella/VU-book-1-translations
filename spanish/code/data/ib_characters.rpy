@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-07-12 12:41
-
 translate spanish strings:
 
     # game/code/data/ib_characters.rpy:9
@@ -461,7 +459,6 @@ translate spanish strings:
     # game/code/data/ib_characters.rpy:48
     old "Bartender"
     new "Camarera"
-# TODO: Translation updated at 2024-05-04 22:44
 
 translate spanish strings:
 

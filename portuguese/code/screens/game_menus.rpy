@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-06-27 18:35
-
 translate portuguese strings:
 
     # game/code/screens/game_menus.rpy:18
@@ -269,8 +267,6 @@ translate portuguese strings:
     # game/code/screens/game_menus.rpy:614
     old "Calibrate"
     new "Calibrar"
-
-# TODO: Translation updated at 2024-05-04 22:41
 
 translate portuguese strings:
 

@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-07-12 12:41
-
 translate spanish strings:
 
     # game/code/functions.rpy:29
@@ -18,8 +16,6 @@ translate spanish strings:
     old "You have unlocked a new description in the Investigation Board"
     new "Has desbloqueado una nueva descripción en el Tablón de investigación."
 
-# TODO: Translation updated at 2024-05-04 22:44
-
 translate spanish strings:
 
     # game/code/functions/functions.rpy:281
@@ -33,8 +29,6 @@ translate spanish strings:
     # game/code/functions/functions.rpy:281
     old "You've unlocked a new bonus content"
     new "You've unlocked a new bonus content"
-
-# TODO: Translation updated at 2024-07-15 23:58
 
 translate spanish strings:
 

@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-07-12 12:41
-
 # game/code/Book-1/Chapter-4z/s02.rpy:8
 translate spanish b1c04zs02_3141a8de:
 

@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-07-12 12:41
-
 # game/code/Book-1/Chapter-6/s00.rpy:88
 translate spanish b1c06_start_52754740:
 
@@ -119,3 +117,4 @@ translate spanish b1c06_no_transition_da4b1de7:
 
     # mct "I should try to get closer to Zemfira. I feel like she might hold the answers to this."
     mct "Debería tratar de acercarme a Zemfira. Siento que ella podría tener las respuestas a esto."
+

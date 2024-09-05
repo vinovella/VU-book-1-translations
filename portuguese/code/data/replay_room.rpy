@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2024-08-15 13:00
-
 translate portuguese strings:
 
     # game/code/data/replay_room.rpy:16

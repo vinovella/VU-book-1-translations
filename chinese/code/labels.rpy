@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-05-26 11:42
-
 # game/code/labels.rpy:49
 translate chinese buzz_4377a2f7:
 

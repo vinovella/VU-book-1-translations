@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2024-07-15 23:59
-
 # game/code/Book-1/Chapter-8w/s11.rpy:42
 translate turkish b1c08ws11_f0462a87:
 
@@ -677,3 +675,4 @@ translate turkish b1c08ws11_924d5892:
 
     # "The world fades to black, a comforting darkness that wraps you in its silent embrace. But even as you lose yourself to sleep, a part of you whispers—a reminder that your investigation is far from over."
     "Dünya siyaha bürünüyor, sizi sessiz kucağında saran rahatlatıcı bir karanlık. Ancak kendinizi uykuya kaptırdığınızda bile, bir parçanız fısıldar - soruşturmanızın henüz bitmediğini hatırlatır."
+

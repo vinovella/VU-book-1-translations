@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-07-12 12:41
-
 translate spanish strings:
 
     # game/code/data/ib_descriptions.rpy:2
@@ -633,7 +631,6 @@ translate spanish strings:
     # game/code/data/ib_descriptions.rpy:2
     old "There seems to be some tension between her and Olesya."
     new "Parece haber cierta tensión entre ella y Olesya."
-# TODO: Translation updated at 2024-05-04 22:44
 
 translate spanish strings:
 
@@ -864,8 +861,6 @@ translate spanish strings:
     # game/code/data/ib_descriptions.rpy:2
     old "A highly revered figure in the Children of Narurra cult."
     new "Una figura muy venerada en el culto de los Hijos de Narurra."
-
-# TODO: Translation updated at 2024-08-29 18:11
 
 translate spanish strings:
 

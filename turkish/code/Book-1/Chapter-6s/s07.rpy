@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-08-07 00:37
-
 # game/code/Book-1/Chapter-6s/s07.rpy:47
 translate turkish b1c06ss07_039b4ff0:
 
@@ -539,3 +537,4 @@ translate turkish b1c06ss07_b06929e9:
 
     # ffl "Uhm, we should probably go to my bed, though. I don't want to mess up Eliina's side."
     ffl "Hımm, muhtemelen yatağıma gitmeliyiz. Eliina'nın tarafını berbat etmek istemiyorum."
+

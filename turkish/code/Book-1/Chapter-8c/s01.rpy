@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2024-07-15 23:59
-
 # game/code/Book-1/Chapter-8c/s01.rpy:18
 translate turkish b1c08cs01_70322560:
 
@@ -1077,3 +1075,4 @@ translate turkish strings:
     # game/code/Book-1/Chapter-8c/s01.rpy:207
     old "Take your time. We'll support you"
     new "Acele etmeyin. Sizi destekleyeceğiz"
+

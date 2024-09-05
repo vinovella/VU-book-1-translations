@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-08-07 00:37
-
 # game/code/Book-1/Chapter-7c/s10.rpy:39
 translate turkish b1c07cs10_1c28d06f:
 
@@ -579,3 +577,4 @@ translate turkish strings:
     # game/code/Book-1/Chapter-7c/s10.rpy:304
     old "Paint her pretty face"
     new "Onun güzel yüzünü boya"
+

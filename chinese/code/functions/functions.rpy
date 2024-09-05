@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-05-26 11:42
-
 translate chinese strings:
 
     # game/code/functions.rpy:46
@@ -17,8 +15,6 @@ translate chinese strings:
     # game/code/functions.rpy:131
     old "You have unlocked a new description in the Investigation Board"
     new "您在调查委员会中解锁了一个新描述"
-
-# TODO: Translation updated at 2024-07-15 23:57
 
 translate chinese strings:
 

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-08-07 00:37
-
 # game/code/Book-1/Chapter-5/s06.rpy:26
 translate turkish b1c05s06_913d66b6:
 
@@ -185,7 +183,6 @@ translate turkish b1c05s06_continue_32698b88:
 
     # pm "I know. That's the second time you've said that to me this morning."
     pm "Biliyorum. Bu sabah bunu bana ikinci kez söylüyorsun."
-
 
 # game/code/Book-1/Chapter-5/s06.rpy:166
 translate turkish b1c05s06_continue_6e11b645:

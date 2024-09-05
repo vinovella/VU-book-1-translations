@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-08-07 00:37
-
 # game/code/Book-1/Chapter-6w/s02.rpy:16
 translate turkish b1c06ws02_46874486:
 

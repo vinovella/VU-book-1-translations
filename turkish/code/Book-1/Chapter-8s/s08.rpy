@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2024-07-15 23:59
-
 # game/code/Book-1/Chapter-8s/s08.rpy:72
 translate turkish b1c08ss08_116446a3:
 
@@ -681,3 +679,4 @@ translate turkish strings:
     # game/code/Book-1/Chapter-8s/s08.rpy:322
     old "I don't need toys to fuck you"
     new "Seni becermek için oyuncağa ihtiyacım yok."
+

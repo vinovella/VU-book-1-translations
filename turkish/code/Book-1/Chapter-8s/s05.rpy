@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2024-07-15 23:59
-
 # game/code/Book-1/Chapter-8s/s05.rpy:56
 translate turkish b1c08ss05_45796a7d:
 
@@ -803,3 +801,4 @@ translate turkish strings:
     # game/code/Book-1/Chapter-8s/s05.rpy:277
     old "Fuck you, Xasan."
     new "Siktir git, Xasan."
+

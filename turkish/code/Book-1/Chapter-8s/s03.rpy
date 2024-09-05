@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2024-07-15 23:59
-
 # game/code/Book-1/Chapter-8s/s03.rpy:15
 translate turkish b1c08ss03_2c6b80cd:
 
@@ -603,3 +601,4 @@ translate turkish strings:
     # game/code/Book-1/Chapter-8s/s03.rpy:221
     old "After sailing for some time"
     new "Bir süre yelken açtıktan sonra"
+

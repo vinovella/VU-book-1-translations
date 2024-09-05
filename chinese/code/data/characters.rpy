@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-07-14 00:36
-
 translate chinese strings:
 
     # game/code/data/characters.rpy:6
@@ -105,7 +103,6 @@ translate chinese strings:
     # game/code/data/characters.rpy:59
     old "Nerium"
     new "纳瑞姆"
-# TODO: Translation updated at 2024-08-29 18:09
 
 translate chinese strings:
 

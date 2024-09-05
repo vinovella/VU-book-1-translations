@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-06-27 18:34
-
 # game/code/Book-1/Chapter-4z/s01.rpy:13
 translate portuguese b1c04zs01_10358d58:
 
@@ -753,3 +751,4 @@ translate portuguese strings:
     # game/code/Book-1/Chapter-4z/s01.rpy:189
     old "Jeez, you sure talk a lot."
     new "Nossa, você fala bastante."
+

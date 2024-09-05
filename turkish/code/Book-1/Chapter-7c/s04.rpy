@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-08-07 00:37
-
 # game/code/Book-1/Chapter-7c/s04.rpy:14
 translate turkish b1c07cs04_ca5a676e:
 
@@ -965,3 +963,4 @@ translate turkish strings:
     # game/code/Book-1/Chapter-7c/s04.rpy:126
     old "I see a strong, creative, resilient soul"
     new "Güçlü, yaratıcı ve dirençli bir ruh görüyorum"
+

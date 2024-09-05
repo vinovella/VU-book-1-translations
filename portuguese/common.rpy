@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-11-22 23:46
-
 translate portuguese strings:
 
     # renpy/common/00accessibility.rpy:28

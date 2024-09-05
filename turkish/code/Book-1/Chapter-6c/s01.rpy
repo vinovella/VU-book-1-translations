@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-08-07 00:37
-
 # game/code/Book-1/Chapter-6c/s01.rpy:15
 translate turkish b1c06cs01_2c14af6a:
 
@@ -917,3 +915,4 @@ translate turkish strings:
     # game/code/Book-1/Chapter-6c/s01.rpy:4
     old "The next morning\nAt the library"
     new "Ertesi sabah\nKütüphanede"
+

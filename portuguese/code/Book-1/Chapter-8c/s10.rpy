@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2024-05-04 22:41
-
 # game/code/Book-1/Chapter-8c/s10.rpy:185
 translate portuguese b1c08cs10_2c6d21c6:
 
@@ -936,8 +934,6 @@ translate portuguese strings:
     old "The ritual"
     new "O ritual"
     
-# TODO: Translation updated at 2024-08-15 13:00
-
 # game/code/Book-1/Chapter-8c/s10.rpy:512
 translate portuguese b1c08cs10_ritual_00e452bd:
 

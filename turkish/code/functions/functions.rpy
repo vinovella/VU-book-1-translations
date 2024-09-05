@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-07-25 01:21
-
 translate turkish strings:
 
     # game/code/functions/functions.rpy:29
@@ -17,8 +15,6 @@ translate turkish strings:
     # game/code/functions/functions.rpy:124
     old "You have unlocked a new description in the Investigation Board"
     new "Soruşturma Kurulu'nda yeni bir açıklamanın kilidini açtınız"
-
-# TODO: Translation updated at 2024-07-15 23:59
 
 translate turkish strings:
 

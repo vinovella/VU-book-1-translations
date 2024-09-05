@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-05-26 11:42
-
 translate chinese strings:
 
     # game/code/data/ib_characters.rpy:9
@@ -394,8 +392,6 @@ translate chinese strings:
     old "Bartender"
     new "调酒师"
 
-# TODO: Translation updated at 2023-06-27 18:33
-
 translate chinese strings:
 
     # game/code/data/ib_characters.rpy:48
@@ -466,15 +462,11 @@ translate chinese strings:
     old "Cult"
     new "异教"
 
-# TODO: Translation updated at 2023-07-14 23:29
-
 translate chinese strings:
 
     # game/code/data/ib_characters.rpy:9
     old "Andrzej"
     new "安杰"
-
-# TODO: Translation updated at 2024-07-15 23:57
 
 translate chinese strings:
 

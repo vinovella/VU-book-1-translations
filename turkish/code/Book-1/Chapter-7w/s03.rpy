@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-08-07 00:37
-
 # game/code/Book-1/Chapter-7w/s03.rpy:40
 translate turkish b1c07ws03_096d574e:
 
@@ -225,3 +223,4 @@ translate turkish strings:
     # game/code/Book-1/Chapter-7w/s03.rpy:80
     old "Ignore them and focus on Isa"
     new "Onları görmezden gelin ve Isa'ya odaklanın"
+

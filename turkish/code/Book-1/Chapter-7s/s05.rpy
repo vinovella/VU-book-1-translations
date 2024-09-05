@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-08-07 00:37
-
 # game/code/Book-1/Chapter-7s/s05.rpy:21
 translate turkish b1c07ss05_6402cc62:
 
@@ -865,3 +863,4 @@ translate turkish strings:
     # game/code/Book-1/Chapter-7s/s05.rpy:67
     old "This is kinda awkward"
     new "Bu biraz garip"
+

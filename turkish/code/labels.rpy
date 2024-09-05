@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-07-25 01:21
-
 # game/code/labels.rpy:49
 translate turkish buzz_4377a2f7:
 

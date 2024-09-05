@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2024-08-29 18:10
-
 # game/code/Book-1/Chapter-9/s15.rpy:200
 translate spanish b1c09s15_1211ed37:
 

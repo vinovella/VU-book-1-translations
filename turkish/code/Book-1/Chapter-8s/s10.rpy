@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2024-07-15 23:59
-
 # game/code/Book-1/Chapter-8s/s10.rpy:32
 translate turkish b1c08ss10_1bddcb8d:
 
@@ -809,3 +807,4 @@ translate turkish b1c08ss10_335c29c7:
 
     # mct "...The girls need to be found."
     mct "...Kızların bulunması gerekiyor."
+

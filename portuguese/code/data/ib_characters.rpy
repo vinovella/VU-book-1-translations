@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-07-14 22:47
-
 translate portuguese strings:
 
     # game/code/data/ib_characters.rpy:9

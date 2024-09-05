@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-05-26 11:42
-
 translate chinese strings:
 
     # game/code/screens/menus.rpy:20
@@ -65,8 +63,6 @@ translate chinese strings:
     # game/code/screens/menus.rpy:311
     old "Join us on Discord"
     new "在Discord上支持我们"
-
-# TODO: Translation updated at 2024-07-15 23:57
 
 translate chinese strings:
 

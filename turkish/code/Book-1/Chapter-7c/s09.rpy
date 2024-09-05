@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-08-07 00:37
-
 # game/code/Book-1/Chapter-7c/s09.rpy:44
 translate turkish b1c07cs09_a1063d9b:
 
@@ -603,3 +601,4 @@ translate turkish strings:
     # game/code/Book-1/Chapter-7c/s09.rpy:201
     old "Prioritize the investigation"
     new "Soruşturmaya öncelik verin"
+

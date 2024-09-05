@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-08-07 00:37
-
 # game/code/Book-1/Chapter-7w/s04.rpy:7
 translate turkish b1c07ws04_927b14a2:
 
@@ -533,3 +531,4 @@ translate turkish b1c07ws04_aa30840e:
 
     # mc "*Laughs* I think that was a mission well done, guys."
     mc "*Gülüyor* Bence bu iyi yapılmış bir görevdi arkadaşlar."
+

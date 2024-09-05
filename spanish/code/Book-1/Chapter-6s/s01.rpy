@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-07-12 12:41
-
 # game/code/Book-1/Chapter-6s/s01.rpy:21
 translate spanish b1c06ss01_30d41e05:
 

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-08-07 00:37
-
 # game/code/Book-1/Chapter-7w/s05.rpy:52
 translate turkish b1c07ws05_771b1eba:
 
@@ -1241,3 +1239,4 @@ translate turkish strings:
     # game/code/Book-1/Chapter-7w/s05.rpy:701
     old "Use the vibrator on Iona"
     new "Iona'da vibratörü kullanın"
+

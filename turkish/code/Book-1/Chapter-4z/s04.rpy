@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-08-07 00:37
-
 # game/code/Book-1/Chapter-4z/s04.rpy:16
 translate turkish b1c04zs04_2cb4fa87:
 
@@ -497,3 +495,4 @@ translate turkish strings:
     # game/code/Book-1/Chapter-4z/s04.rpy:4
     old "One hour later"
     new "Bir saat sonra"
+

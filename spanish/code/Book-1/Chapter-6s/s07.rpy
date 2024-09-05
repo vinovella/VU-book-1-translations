@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-07-12 12:41
-
 # game/code/Book-1/Chapter-6s/s07.rpy:47
 translate spanish b1c06ss07_039b4ff0:
 
@@ -539,3 +537,4 @@ translate spanish b1c06ss07_b06929e9:
 
     # ffl "Uhm, we should probably go to my bed, though. I don't want to mess up Eliina's side."
     ffl "Uhm, probablemente deberíamos ir a mi cama. No quiero desordenar la cama de Eliina."
+

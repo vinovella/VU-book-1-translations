@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-06-27 18:35
-
 translate portuguese strings:
 
     # game/code/screens/inv_board.rpy:86
@@ -41,3 +39,4 @@ translate portuguese strings:
     # game/code/screens/inv_board.rpy:155
     old "Name : [i.full_name!t]"
     new "Nome : [i.full_name!t]"
+

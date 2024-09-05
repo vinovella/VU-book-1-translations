@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2024-07-15 23:57
-
 # game/code/Book-1/Chapter-8c/s01.rpy:18
 translate chinese b1c08cs01_70322560:
 

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-08-07 00:37
-
 # game/code/Book-1/Chapter-5/s03.rpy:12
 translate turkish b1c05s03_8e2e28af:
 
@@ -281,3 +279,4 @@ translate turkish b1c05s03_55c72db2:
 
     # mct "Food usually relaxes people. Might make her open to discussing more details about that self-help community."
     mct "Yemek genellikle insanı rahatlatır. Bu, kendi kendine yardım topluluğuyla ilgili daha fazla ayrıntıyı tartışmaya açık hale getirebilir."
+

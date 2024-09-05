@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-06-27 18:34
-
 # game/code/Book-1/Chapter-5/s02.rpy:13
 translate portuguese b1c05s02_876bda80:
 
@@ -887,8 +885,6 @@ translate portuguese strings:
     # game/code/Book-1/Chapter-5/s02.rpy:4
     old "The next morning\nPhoebe's Apartment"
     new "Na manhã seguinte\nApartamento da Phoebe"
-
-# TODO: Translation updated at 2023-07-19 11:37
 
 translate portuguese strings:
 

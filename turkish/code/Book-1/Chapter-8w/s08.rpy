@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2024-07-15 23:59
-
 # game/code/Book-1/Chapter-8w/s08.rpy:42
 translate turkish b1c08ws08_640e23cb:
 
@@ -861,3 +859,4 @@ translate turkish strings:
     # game/code/Book-1/Chapter-8w/s08.rpy:234
     old "Hold back"
     new "Geri çekilin."
+

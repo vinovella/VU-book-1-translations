@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2024-07-15 23:59
-
 # game/code/Book-1/Chapter-8c/s02.rpy:20
 translate turkish b1c08cs02_4b70c4d1:
 
@@ -1055,3 +1053,4 @@ translate turkish strings:
     # game/code/Book-1/Chapter-8c/s02.rpy:187
     old "Whatever you want to teach me"
     new "Bana ne öğretmek istersen"
+

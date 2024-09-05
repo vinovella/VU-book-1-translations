@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-08-07 00:37
-
 # game/code/Book-1/Chapter-5/s07.rpy:15
 translate turkish b1c05s07_3a353dc8:
 
@@ -491,3 +489,4 @@ translate turkish b1c05s07_e94c3f92:
 
     # dm "Oh, I don't doubt that..."
     dm "Ah, buna hiç şüphem yok..."
+

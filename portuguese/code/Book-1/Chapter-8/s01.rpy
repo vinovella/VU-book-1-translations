@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2024-05-04 22:41
-
 # game/code/Book-1/Chapter-8/s01.rpy:27
 translate portuguese b1c08s01_99325c9f:
 
@@ -1391,8 +1389,6 @@ translate portuguese strings:
     # game/code/Book-1/Chapter-8/s01.rpy:6
     old "Another day\nAt Phoebe's place"
     new "Outro dia \nNa Casa da Phoebe."
-
-# TODO: Translation updated at 2024-07-30 11:38
 
 # game/code/Book-1/Chapter-8/s01.rpy:168
 translate portuguese b1c08s01_continue_c8c3fe90:

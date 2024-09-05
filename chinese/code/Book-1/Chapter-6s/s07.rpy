@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-06-27 18:33
-
 # game/code/Book-1/Chapter-6s/s07.rpy:49
 translate chinese b1c06ss07_039b4ff0:
 
@@ -539,3 +537,4 @@ translate chinese b1c06ss07_b06929e9:
 
     # ffl "Uhm, we should probably go to my bed, though. I don't want to mess up Eliina's side."
     ffl "呃，我们还是去我的床上吧。我不想把爱丽娜这边弄乱了。"
+

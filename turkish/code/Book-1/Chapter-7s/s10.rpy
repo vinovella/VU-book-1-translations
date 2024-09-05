@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-08-07 00:37
-
 # game/code/Book-1/Chapter-7s/s10.rpy:20
 translate turkish b1c07ss10_0b389657:
 
@@ -675,3 +673,4 @@ translate turkish strings:
     # game/code/Book-1/Chapter-7s/s10.rpy:274
     old "We're all monsters."
     new "Hepimiz canavarız."
+

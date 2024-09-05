@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-08-07 00:37
-
 # game/code/Book-1/Chapter-7s/s09.rpy:19
 translate turkish b1c07ss09_b1b9cf7f:
 
@@ -923,3 +921,4 @@ translate turkish strings:
     # game/code/Book-1/Chapter-7s/s09.rpy:4
     old "Back at the fight club"
     new "Dövüş kulübüne geri döndüm"
+

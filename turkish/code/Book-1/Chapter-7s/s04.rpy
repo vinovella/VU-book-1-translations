@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-08-07 00:37
-
 # game/code/Book-1/Chapter-7s/s04.rpy:19
 translate turkish b1c07ss04_22db45f7:
 
@@ -765,3 +763,4 @@ translate turkish strings:
     # game/code/Book-1/Chapter-7s/s04.rpy:252
     old "Comfort her"
     new "Onu rahatlat"
+

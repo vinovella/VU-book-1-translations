@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-06-27 18:33
-
 # game/code/Book-1/Chapter-6c/s05.rpy:38
 translate chinese b1c06cs05_948a3142:
 
@@ -545,3 +543,4 @@ translate chinese strings:
     # game/code/Book-1/Chapter-6c/s05.rpy:220
     old "Let her go"
     new "让她走"
+

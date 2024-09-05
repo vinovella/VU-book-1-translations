@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-07-12 12:41
-
 # game/code/Book-1/Chapter-4s/s05.rpy:19
 translate spanish b1c04ss05_9729e557:
 
@@ -1061,3 +1059,4 @@ translate spanish strings:
     # game/code/Book-1/Chapter-4s/s05.rpy:9
     old "Couple hours later"
     new "Un par de horas después"
+

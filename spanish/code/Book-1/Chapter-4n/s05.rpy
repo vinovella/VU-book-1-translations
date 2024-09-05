@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-07-12 12:41
-
 # game/code/Book-1/Chapter-4n/s05.rpy:22
 translate spanish b1c04ns05_42c91c6b:
 
@@ -680,10 +678,9 @@ translate spanish strings:
     old "No way"
     new "De ninguna manera"
 
-# TODO: Translation updated at 2023-07-19 13:11
-
 # game/code/Book-1/Chapter-4n/s05.rpy:29
 translate spanish b1c04ns05_bdf8cf21:
 
     # dk "Yes. The play is about the birth of my character."
     dk "Sí. La obra trata del nacimiento de mi personaje."
+

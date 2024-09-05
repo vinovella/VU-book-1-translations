@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2024-05-04 22:41
-
 # game/code/Book-1/Chapter-8c/s08.rpy:42
 translate portuguese b1c08cs08_ddad12e2:
 

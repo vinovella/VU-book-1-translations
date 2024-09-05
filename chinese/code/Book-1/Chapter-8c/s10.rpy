@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2024-07-15 23:57
-
 # game/code/Book-1/Chapter-8c/s10.rpy:185
 translate chinese b1c08cs10_2c6d21c6:
 
@@ -935,8 +933,6 @@ translate chinese strings:
     # game/code/Book-1/Chapter-8c/s10.rpy:175
     old "The ritual"
     new "仪式"
-
-# TODO: Translation updated at 2024-08-15 13:01
 
 # game/code/Book-1/Chapter-8c/s10.rpy:512
 translate chinese b1c08cs10_ritual_00e452bd:

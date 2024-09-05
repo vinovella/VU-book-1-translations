@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-06-27 18:33
-
 # game/code/Book-1/Chapter-6s/s02.rpy:12
 translate chinese b1c06ss02_2c2174e4:
 
@@ -651,3 +649,4 @@ translate chinese strings:
     # game/code/Book-1/Chapter-6s/s02.rpy:160
     old "Respond carefully"
     new "谨慎回应"
+

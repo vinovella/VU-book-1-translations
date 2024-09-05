@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-06-27 18:35
-
 translate portuguese strings:
 
     # game/code/data/ib_descriptions.rpy:2
@@ -633,7 +631,6 @@ translate portuguese strings:
     # game/code/data/ib_descriptions.rpy:2
     old "There seems to be some tension between her and Olesya."
     new "There seems to be some tension between her and Olesya."
-# TODO: Translation updated at 2024-05-04 22:41
 
 translate portuguese strings:
 

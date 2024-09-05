@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-05-26 11:42
-
 # game/code/Book-1/Chapter-4n/s05.rpy:22
 translate chinese b1c04ns05_42c91c6b:
 
@@ -680,10 +678,9 @@ translate chinese strings:
     old "No way"
     new "不可能"
 
-# TODO: Translation updated at 2023-07-19 13:16
-
 # game/code/Book-1/Chapter-4n/s05.rpy:29
 translate chinese b1c04ns05_bdf8cf21:
 
     # dk "Yes. The play is about the birth of my character."
     dk "对。这部戏讲述了我这个角色的诞生。"
+

@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2024-07-15 23:59
-
 # game/code/Book-1/Chapter-8c/s12.rpy:28
 translate turkish b1c08cs12_8209b349:
 
@@ -401,3 +399,4 @@ translate turkish strings:
     # game/code/Book-1/Chapter-8c/s12.rpy:4
     old "Back at the university library"
     new "Üniversite kütüphanesine dönüş"
+

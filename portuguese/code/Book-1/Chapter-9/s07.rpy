@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2024-08-29 18:12
-
 # game/code/Book-1/Chapter-9/s07.rpy:64
 translate portuguese b1c09s07_6b1bb9c9:
 

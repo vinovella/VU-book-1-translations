@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-05-26 11:42
-
 translate chinese strings:
 
     # game/code/screens/game_menus.rpy:18
@@ -273,3 +271,4 @@ translate chinese strings:
     # game/code/screens/game_menus.rpy:611
     old "Calibrate"
     new "校准"
+

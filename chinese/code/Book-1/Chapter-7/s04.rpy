@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-08-07 00:18
-
 # game/code/Book-1/Chapter-7/s04.rpy:18
 translate chinese b1c07s04_2bd7dc0b:
 

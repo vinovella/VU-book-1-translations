@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-06-27 18:34
-
 # game/code/Book-1/Chapter-3/s05.rpy:23
 translate portuguese b1c03s05_3639aff7:
 
@@ -653,8 +651,6 @@ translate portuguese b1c03s05_6651ab87:
 
     # mc "Alright."
     mc "Beleza."
-
-# TODO: Translation updated at 2023-07-14 22:47
 
 translate portuguese strings:
 

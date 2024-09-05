@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-08-07 00:37
-
 # game/code/Book-1/Chapter-7s/s11.rpy:13
 translate turkish b1c07ss11_81aff53b:
 
@@ -95,3 +93,4 @@ translate turkish b1c07ss11_6cca44cb:
 
     # mct "Anyway, I better get to bed so I can visit Cori tomorrow."
     mct "Neyse, yarın Cori'yi ziyaret edebilmek için yatsam iyi olur."
+

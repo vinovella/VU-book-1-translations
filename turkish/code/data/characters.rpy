@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-07-25 01:21
-
 translate turkish strings:
 
     # game/code/data/characters.rpy:6
@@ -237,7 +235,6 @@ translate turkish strings:
     # game/code/data/characters.rpy:59
     old "Nerium"
     new "Nerium"
-# TODO: Translation updated at 2024-08-29 18:10
 
 translate turkish strings:
 

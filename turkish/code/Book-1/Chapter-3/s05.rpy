@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-07-25 01:21
-
 # game/code/Book-1/Chapter-3/s05.rpy:23
 translate turkish b1c03s05_3639aff7:
 
@@ -653,8 +651,6 @@ translate turkish b1c03s05_6651ab87:
 
     # mc "Alright."
     mc "Pekala."
-
-# TODO: Translation updated at 2023-07-25 23:40
 
 translate turkish strings:
 

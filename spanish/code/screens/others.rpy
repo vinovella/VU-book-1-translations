@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-07-12 12:41
-
 translate spanish strings:
 
     # game/code/screens/others.rpy:8
@@ -37,3 +35,4 @@ translate spanish strings:
     # game/code/screens/others.rpy:213
     old "Coming Soon"
     new "Muy pronto"
+

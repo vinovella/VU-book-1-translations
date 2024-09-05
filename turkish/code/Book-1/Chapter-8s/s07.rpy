@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2024-07-15 23:59
-
 # game/code/Book-1/Chapter-8s/s07.rpy:45
 translate turkish b1c08ss07_d59b2491:
 
@@ -1219,3 +1217,4 @@ translate turkish strings:
     # game/code/Book-1/Chapter-8s/s07.rpy:569
     old "After an uncomfortable eternity watching the wall"
     new "Rahatsız edici bir sonsuzluktan sonra duvarı izlerken"
+

@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2024-07-15 23:59
-
 # game/code/Book-1/Chapter-8c/s11.rpy:50
 translate turkish b1c08cs11_d2c80bad:
 
@@ -653,3 +651,4 @@ translate turkish b1c08cs11_33a818c3:
 
     # "You're easily coaxed into sleep."
     "Uyumak için kolayca kandırılıyorsun."
+

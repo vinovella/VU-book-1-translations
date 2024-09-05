@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2024-07-15 23:59
-
 # game/code/Book-1/Chapter-8w/s04.rpy:38
 translate turkish b1c08ws04_3f673793:
 
@@ -617,3 +615,4 @@ translate turkish strings:
     # game/code/Book-1/Chapter-8w/s04.rpy:157
     old "Push Monika away"
     new "Monika'yı uzaklaştır"
+

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-07-14 23:29
-
 translate chinese strings:
 
     # game/code/data/ib_descriptions.rpy:2
@@ -85,8 +83,6 @@ translate chinese strings:
     # game/code/data/ib_descriptions.rpy:2
     old "A friend of Nia and Maria."
     new "妮娅和玛丽亚的朋友"
-
-# TODO: Translation updated at 2023-08-07 00:10
 
 translate chinese strings:
 
@@ -638,8 +634,6 @@ translate chinese strings:
     old "Ronja is married. And also cheating on her husband with me."
     new "Ronja is married. And also cheating on her husband with me."
 
-# TODO: Translation updated at 2024-07-15 23:57
-
 translate chinese strings:
 
     # game/code/data/ib_descriptions.rpy:2
@@ -869,8 +863,6 @@ translate chinese strings:
     # game/code/data/ib_descriptions.rpy:2
     old "A highly revered figure in the Children of Narurra cult."
     new "A highly revered figure in the Children of Narurra cult."
-
-# TODO: Translation updated at 2024-08-29 18:09
 
 translate chinese strings:
 

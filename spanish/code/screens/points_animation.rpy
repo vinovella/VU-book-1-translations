@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-12-26 12:28
-
 translate spanish strings:
 
     # game/code/screens/points_animation.rpy:64

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-08-07 00:37
-
 # game/code/Book-1/Chapter-7/s04.rpy:18
 translate turkish b1c07s04_2bd7dc0b:
 
@@ -641,3 +639,4 @@ translate turkish b1c07s04_b0fce1cf:
 
     # mct "Maybe I should take her up on her offer... I don't think she's gonna give me a choice regardless at this point."
     mct "Belki de onun teklifini kabul etmeliyim... Bu noktada bana seçim şansı vereceğini sanmıyorum."
+

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-08-07 00:37
-
 # game/code/Book-1/Chapter-7s/s01.rpy:35
 translate turkish b1c07ss01_89865fb0:
 
@@ -641,3 +639,4 @@ translate turkish strings:
     # game/code/Book-1/Chapter-7s/s01.rpy:6
     old "At the cafeteria\nAfter morning classes"
     new "Kafeteryada\nSabah derslerinden sonra"
+

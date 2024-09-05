@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-07-12 12:41
-
 # game/code/Book-1/Chapter-1/s02.rpy:13
 translate spanish b1c01s02_3ad1d948:
 
@@ -682,10 +680,9 @@ translate spanish strings:
     old "Do nothing"
     new "No hacer nada"
 
-# TODO: Translation updated at 2023-07-19 13:11
-
 # game/code/Book-1/Chapter-1/s02.rpy:98
 translate spanish b1c01s02_b49ee5e6:
 
     # sm "Despite being disowned, she managed to inherit her family's property and their large mansion 15 years after the war ended."
     sm "A pesar de ser repudiada, consiguió heredar los bienes de su familia y su gran mansión 15 años después de que terminara la guerra."
+

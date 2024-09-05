@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-06-27 18:35
-
 translate portuguese strings:
 
     # game/code/functions.rpy:29
@@ -18,8 +16,6 @@ translate portuguese strings:
     old "You have unlocked a new description in the Investigation Board"
     new "Você liberou uma nova descrição no Mural de Investigação"
 
-# TODO: Translation updated at 2024-05-04 22:41
-
 translate portuguese strings:
 
     # game/code/functions/functions.rpy:281
@@ -33,8 +29,6 @@ translate portuguese strings:
     # game/code/functions/functions.rpy:281
     old "You've unlocked a new bonus content"
     new ""
-
-# TODO: Translation updated at 2024-07-15 23:56
 
 translate portuguese strings:
 

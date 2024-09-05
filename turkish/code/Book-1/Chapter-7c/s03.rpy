@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-08-07 00:37
-
 # game/code/Book-1/Chapter-7c/s03.rpy:21
 translate turkish b1c07cs03_8f5a6f35:
 
@@ -623,3 +621,4 @@ translate turkish b1c07cs03_1a5e340b:
 
     # "You leave the studio without hearing a goodbye from Ezra."
     "Ezra'nın vedasını duymadan stüdyodan çıkarsın."
+

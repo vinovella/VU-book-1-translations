@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-08-07 00:32
-
 # game/code/Book-1/Chapter-7c/s03.rpy:21
 translate portuguese b1c07cs03_8f5a6f35:
 

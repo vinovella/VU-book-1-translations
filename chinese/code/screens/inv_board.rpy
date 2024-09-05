@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-05-26 11:42
-
 translate chinese strings:
 
     # game/code/screens/inv_board.rpy:77
@@ -41,3 +39,4 @@ translate chinese strings:
     # game/code/screens/inv_board.rpy:155
     old "Name : [i.full_name!t]"
     new "姓名 : [i.full_name!t]"
+

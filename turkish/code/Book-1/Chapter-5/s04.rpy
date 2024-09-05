@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-08-07 00:37
-
 # game/code/Book-1/Chapter-5/s04.rpy:17
 translate turkish b1c05s04_f68d903b:
 
@@ -527,3 +525,4 @@ translate turkish strings:
     # game/code/Book-1/Chapter-5/s04.rpy:6
     old "At the university"
     new "Üniversitede"
+

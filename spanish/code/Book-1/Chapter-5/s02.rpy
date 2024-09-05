@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-07-12 12:41
-
 # game/code/Book-1/Chapter-5/s02.rpy:13
 translate spanish b1c05s02_876bda80:
 
@@ -887,8 +885,6 @@ translate spanish strings:
     # game/code/Book-1/Chapter-5/s02.rpy:4
     old "The next morning\nPhoebe's Apartment"
     new "A la mañana siguiente,\nen el departamento de Phoebe"
-
-# TODO: Translation updated at 2023-07-19 11:40
 
 translate spanish strings:
 

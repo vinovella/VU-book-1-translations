@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-06-27 18:35
-
 translate portuguese strings:
 
     # game/code/screens/menus.rpy:20
@@ -66,8 +64,6 @@ translate portuguese strings:
     old "Join us on Discord"
     new "Entre no nosso Discord"
 
-# TODO: Translation updated at 2024-07-15 23:56
-
 translate portuguese strings:
 
     # game/code/screens/menus.rpy:584
@@ -89,8 +85,6 @@ translate portuguese strings:
     # game/code/screens/menus.rpy:824
     old "Master Volume"
     new ""
-
-# TODO: Translation updated at 2024-08-29 18:12
 
 translate portuguese strings:
 

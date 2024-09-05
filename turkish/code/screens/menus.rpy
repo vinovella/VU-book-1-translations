@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-07-25 01:21
-
 translate turkish strings:
 
     # game/code/screens/menus.rpy:20
@@ -66,8 +64,6 @@ translate turkish strings:
     old "Join us on Discord"
     new "Discord'da Bize Katılın"
 
-# TODO: Translation updated at 2024-07-15 23:59
-
 translate turkish strings:
 
     # game/code/screens/menus.rpy:584
@@ -97,8 +93,6 @@ translate turkish strings:
     # game/code/screens/menus.rpy:824
     old "Master Volume"
     new "Ana Ses Düzeyi"
-
-# TODO: Translation updated at 2024-08-29 18:10
 
 translate turkish strings:
 

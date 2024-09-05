@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-06-27 18:34
-
 # game/code/Book-1/Chapter-6w/s04.rpy:15
 translate portuguese b1c06ws04_d3992207:
 
@@ -983,3 +981,4 @@ translate portuguese strings:
     # game/code/Book-1/Chapter-6w/s04.rpy:306
     old "Remember about Sam"
     new "Lembrar da Sam"
+

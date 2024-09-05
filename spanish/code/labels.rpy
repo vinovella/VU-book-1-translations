@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-07-12 12:41
-
 # game/code/labels.rpy:49
 translate spanish buzz_4377a2f7:
 

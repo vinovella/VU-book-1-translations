@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2024-07-15 23:59
-
 # game/code/Book-1/Chapter-8w/s07.rpy:24
 translate turkish b1c08ws07_c5520782:
 
@@ -1025,3 +1023,4 @@ translate turkish b1c08ws07_0b19e87b:
 
     # "You'd be worried about your predicament, but your consciousness quickly slips away too, leaving you all alone."
     "İçinde bulunduğun durum için endişelenirsin, ama bilincin de hızla kayıp gider ve seni yapayalnız bırakır."
+

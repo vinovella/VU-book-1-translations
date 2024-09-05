@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-08-07 00:37
-
 # game/code/Book-1/Chapter-7w/s08.rpy:29
 translate turkish b1c07ws08_479c0a8e:
 
@@ -606,7 +604,6 @@ translate turkish b1c07ws08_38ca3ef1:
     # "An involuntary laugh escapes her as she finally realizes what she was doing."
     "Sonunda ne yaptığını anladığında istemsiz bir kahkaha atıyor."
 
-
 translate turkish strings:
 
     # game/code/Book-1/Chapter-7w/s08.rpy:12
@@ -620,3 +617,4 @@ translate turkish strings:
     # game/code/Book-1/Chapter-7w/s08.rpy:187
     old "I think you've had too much to drink"
     new "Sanırım çok fazla içki içtin"
+

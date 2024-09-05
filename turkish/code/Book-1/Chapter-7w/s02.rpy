@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-08-07 00:37
-
 # game/code/Book-1/Chapter-7w/s02.rpy:30
 translate turkish b1c07ws02_1ea0c31e:
 
@@ -415,3 +413,4 @@ translate turkish strings:
     # game/code/Book-1/Chapter-7w/s02.rpy:154
     old "Reply seriously"
     new "Ciddi bir şekilde yanıtla"
+

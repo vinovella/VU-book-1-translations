@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2024-07-15 23:59
-
 # game/code/Book-1/Chapter-8c/s07.rpy:47
 translate turkish b1c08cs07_759f4d2e:
 
@@ -863,3 +861,4 @@ translate turkish strings:
     # game/code/Book-1/Chapter-8c/s07.rpy:32
     old "After breakfast"
     new "Kahvaltıdan sonra"
+

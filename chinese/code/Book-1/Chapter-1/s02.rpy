@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-05-26 11:42
-
 # game/code/Book-1/Chapter-1/s02.rpy:13
 translate chinese b1c01s02_3ad1d948:
 
@@ -682,10 +680,9 @@ translate chinese strings:
     old "Do nothing"
     new "什么都不做"
 
-# TODO: Translation updated at 2023-07-19 13:16
-
 # game/code/Book-1/Chapter-1/s02.rpy:98
 translate chinese b1c01s02_b49ee5e6:
 
     # sm "Despite being disowned, she managed to inherit her family's property and their large mansion 15 years after the war ended."
     sm "尽管与家人断绝了关系，她还是在战争结束15年后继承了家族的财产和大豪宅。"
+

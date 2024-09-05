@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-08-07 00:37
-
 # game/code/Book-1/Chapter-7s/s12.rpy:49
 translate turkish b1c07ss12_debc3f50:
 
@@ -915,3 +913,4 @@ translate turkish strings:
     # game/code/Book-1/Chapter-7s/s12.rpy:467
     old "You're bluffing."
     new "Blöf yapıyorsun."
+

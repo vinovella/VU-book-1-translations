@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2024-07-15 23:59
-
 # game/code/Book-1/Chapter-8w/s10.rpy:13
 translate turkish b1c08ws10_ae9acccb:
 
@@ -401,3 +399,4 @@ translate turkish b1c08ws10_6778327d:
 
     # "One by one, the team files out of the room, the atmosphere thick with a mix of relief and lingering tension."
     "Teker teker, ekip odadan çıkıyor, atmosfer rahatlama ve kalıcı gerginlik karışımıyla yoğun."
+

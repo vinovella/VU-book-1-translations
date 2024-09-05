@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2024-07-15 23:59
-
 # game/code/Book-1/Chapter-8w/s01.rpy:19
 translate turkish b1c08ws01_e27aa7e1:
 
@@ -317,3 +315,4 @@ translate turkish b1c08ws01_97d6cbb9:
 
     # sa "*Amused sigh* Alright. Get settled!"
     sa "*Eğlenceli iç çekiş* Alright. Yerleşin!"
+

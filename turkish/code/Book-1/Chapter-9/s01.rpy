@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2024-08-29 18:10
-
 # game/code/Book-1/Chapter-9/s01.rpy:43
 translate turkish b1c09s01_a6f6f280:
 

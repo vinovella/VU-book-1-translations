@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-06-27 18:34
-
 # game/code/Book-1/Chapter-1/s02.rpy:13
 translate portuguese b1c01s02_3ad1d948:
 
@@ -682,10 +680,9 @@ translate portuguese strings:
     old "Do nothing"
     new "Fazer nada"
 
-# TODO: Translation updated at 2023-07-19 13:19
-
 # game/code/Book-1/Chapter-1/s02.rpy:98
 translate portuguese b1c01s02_b49ee5e6:
 
     # sm "Despite being disowned, she managed to inherit her family's property and their large mansion 15 years after the war ended."
     sm "Apesar de ter sido deserdada, ela conseguiu herdar a propriedade da família e a grande mansão 15 anos depois do fim da guerra."
+

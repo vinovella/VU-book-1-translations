@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2024-07-15 23:59
-
 # game/code/Book-1/Chapter-8s/s04.rpy:63
 translate turkish b1c08ss04_24c0d396:
 
@@ -1399,3 +1397,4 @@ translate turkish strings:
     # game/code/Book-1/Chapter-8s/s04.rpy:500
     old "We should rest"
     new "Dinlenmeliyiz"
+

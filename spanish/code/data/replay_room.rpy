@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2024-05-04 22:44
-
 translate spanish strings:
 
     # game/code/data/replay_room.rpy:15
@@ -13,8 +11,6 @@ translate spanish strings:
     # game/code/data/replay_room.rpy:15
     old "Phoebe Dream"
     new "El sueño de Phoebe"
-
-# TODO: Translation updated at 2024-08-15 12:57
 
 translate spanish strings:
 

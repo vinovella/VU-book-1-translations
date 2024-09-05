@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-05-26 11:42
-
 # game/code/Book-1/Chapter-4s/s05.rpy:19
 translate chinese b1c04ss05_9729e557:
 
@@ -1061,3 +1059,4 @@ translate chinese strings:
     # game/code/Book-1/Chapter-4s/s05.rpy:9
     old "Couple hours later"
     new "几小时后"
+

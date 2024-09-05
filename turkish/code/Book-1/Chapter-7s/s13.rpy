@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-08-07 00:37
-
 # game/code/Book-1/Chapter-7s/s13.rpy:29
 translate turkish b1c07ss13_return_4ea102af:
 
@@ -107,3 +105,4 @@ translate turkish b1c07ss13_return_dcc2f1ea:
 
     # mct "I'll find out what happened.{w} No matter what."
     mct "Ne olduğunu öğreneceğim.{w}Ne olursa olsun."
+

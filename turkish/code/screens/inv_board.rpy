@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-07-25 01:21
-
 translate turkish strings:
 
     # game/code/screens/inv_board.rpy:86
@@ -37,8 +35,6 @@ translate turkish strings:
     # game/code/screens/inv_board.rpy:193
     old "[i.desc!t]"
     new "[i.desc!t]"
-
-# TODO: Translation updated at 2023-07-25 23:40
 
 translate turkish strings:
 

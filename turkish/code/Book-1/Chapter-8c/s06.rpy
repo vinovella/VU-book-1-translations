@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2024-07-15 23:59
-
 # game/code/Book-1/Chapter-8c/s06.rpy:19
 translate turkish b1c08cs06_803e39f9:
 
@@ -1151,3 +1149,4 @@ translate turkish b1c08cs06_01c85351:
 
     # ih "You all go without me. I already had breakfast..."
     ih "Hepiniz bensiz gidin. Ben zaten kahvaltı yaptım..."
+

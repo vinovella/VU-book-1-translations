@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-08-07 00:37
-
 # game/code/Book-1/Chapter-7w/s01.rpy:24
 translate turkish b1c07ws01_3d6ee532:
 
@@ -443,3 +441,4 @@ translate turkish strings:
     # game/code/Book-1/Chapter-7w/s01.rpy:103
     old "Try to balance them both"
     new "İkisini de dengelemeye çalışın"
+

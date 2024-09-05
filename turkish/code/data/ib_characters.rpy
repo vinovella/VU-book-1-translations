@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-07-25 23:40
-
 translate turkish strings:
 
     # game/code/data/ib_characters.rpy:9
@@ -285,7 +283,6 @@ translate turkish strings:
     # game/code/data/ib_characters.rpy:48
     old "Bartender"
     new "Barmen"
-# TODO: Translation updated at 2023-08-07 00:37
 
 translate turkish strings:
 
@@ -336,8 +333,6 @@ translate turkish strings:
     # game/code/data/ib_characters.rpy:48
     old "Cult"
     new "Kült"
-
-# TODO: Translation updated at 2023-12-23 23:55
 
 translate turkish strings:
 

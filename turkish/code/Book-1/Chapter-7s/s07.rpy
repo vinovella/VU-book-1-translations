@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-08-07 00:37
-
 # game/code/Book-1/Chapter-7s/s07.rpy:24
 translate turkish b1c07ss07_f8bf4663:
 
@@ -1051,3 +1049,4 @@ translate turkish strings:
     # game/code/Book-1/Chapter-7s/s07.rpy:647
     old "That was...a lot."
     new "Bu çok fazlaydı."
+

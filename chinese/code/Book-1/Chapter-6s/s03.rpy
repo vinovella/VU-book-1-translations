@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-06-27 18:33
-
 # game/code/Book-1/Chapter-6s/s03.rpy:27
 translate chinese b1c06ss03_91b443f5:
 
@@ -753,3 +751,4 @@ translate chinese strings:
     # game/code/Book-1/Chapter-6s/s03.rpy:303
     old "Respond \"truthfully\""
     new "\"如实\"回答"
+

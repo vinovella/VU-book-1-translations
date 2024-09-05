@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-08-07 00:37
-
 # game/code/Book-1/Chapter-7/s01.rpy:31
 translate turkish b1c07s01_after_variables_f2c6d66d:
 
@@ -609,3 +607,4 @@ translate turkish strings:
     # game/code/Book-1/Chapter-7/s01.rpy:218
     old "I'm sorry, I can't"
     new "Üzgünüm, yapamam"
+

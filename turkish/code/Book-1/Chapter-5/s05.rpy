@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-08-07 00:37
-
 # game/code/Book-1/Chapter-5/s05.rpy:22
 translate turkish b1c05s05_6e1dbd5b:
 
@@ -511,3 +509,4 @@ translate turkish strings:
     # game/code/Book-1/Chapter-5/s05.rpy:173
     old "No thanks."
     new "Hayır, teşekkürler."
+

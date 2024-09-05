@@ -1,12 +1,8 @@
-﻿# TODO: Translation updated at 2023-07-12 12:41
-
 translate spanish strings:
 
     # game/code/screens/gallery.rpy:7
     old "Gallery"
     new "Galería"
-
-# TODO: Translation updated at 2024-05-04 22:44
 
 translate spanish strings:
 
@@ -34,8 +30,6 @@ translate spanish strings:
     old "Page [page]"
     new "Page [page]"
 
-# TODO: Translation updated at 2024-08-15 12:57
-
 translate spanish strings:
 
     # game/code/screens/gallery.rpy:102
@@ -45,8 +39,6 @@ translate spanish strings:
     # game/code/screens/gallery.rpy:105
     old "Close"
     new "Close"
-
-# TODO: Translation updated at 2024-08-29 18:11
 
 translate spanish strings:
 

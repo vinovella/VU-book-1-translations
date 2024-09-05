@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-08-07 00:18
-
 # game/code/Book-1/Chapter-7w/s08.rpy:29
 translate chinese b1c07ws08_479c0a8e:
 
@@ -613,8 +611,6 @@ translate chinese strings:
     # game/code/Book-1/Chapter-7w/s08.rpy:187
     old "I think you've had too much to drink"
     new "我想你喝多了"
-
-# TODO: Translation updated at 2024-08-07 22:56
 
 # game/code/Book-1/Chapter-7w/s08.rpy:183
 translate chinese b1c07ws08_38ca3ef1:

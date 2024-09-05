@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-06-27 18:34
-
 # game/code/Book-1/Chapter-6w/s03.rpy:24
 translate portuguese b1c06ws03_6b98694b:
 
@@ -629,3 +627,4 @@ translate portuguese b1c06ws03_b99ec9dd:
 
     # mc "Still had to get help from your team."
     mc "Ainda precisou de ajuda do seu time."
+

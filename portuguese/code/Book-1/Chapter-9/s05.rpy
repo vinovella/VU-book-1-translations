@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2024-08-29 18:12
-
 # game/code/Book-1/Chapter-9/s05.rpy:75
 translate portuguese replay_b1c09s05_f0d249da:
 

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2024-08-29 18:12
-
 translate portuguese strings:
 
     # game/code/credits/credit_sprites.rpy:27

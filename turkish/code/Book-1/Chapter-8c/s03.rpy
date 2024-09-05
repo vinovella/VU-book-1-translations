@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2024-08-18 17:34
-
 # game/code/Book-1/Chapter-8c/s03.rpy:35
 translate turkish b1c08cs03_7503bfa7:
 
@@ -1655,3 +1653,4 @@ translate turkish strings:
     # game/code/Book-1/Chapter-8c/s03.rpy:18
     old "Later that night\nAt the welcoming party"
     new "O gece daha sonra\nKarşılama partisinde"
+

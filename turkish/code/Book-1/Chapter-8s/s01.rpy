@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2024-07-15 23:59
-
 # game/code/Book-1/Chapter-8s/s01.rpy:22
 translate turkish b1c08ss01_66dde6ac:
 
@@ -479,3 +477,4 @@ translate turkish b1c08ss01_room_79e448f6:
 
     # "It seems to be the only words she can choke out with her intense emotions."
     "Yoğun duygularıyla boğarcasına söyleyebildiği tek kelime bu gibi görünüyor."
+

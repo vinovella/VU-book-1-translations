@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-06-27 18:34
-
 # game/code/Book-1/Chapter-3/s04.rpy:13
 translate portuguese b1c03s04_50069d93:
 
@@ -275,3 +273,4 @@ translate portuguese b1c03s04_06d2d210:
 
     # ij "Bye, [mcname]!"
     ij "Tchau, [mcname]!"
+

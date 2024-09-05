@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-09-14 03:08
-
 translate chinese strings:
 
     # renpy/common/00accessibility.rpy:28
@@ -1170,8 +1168,6 @@ translate chinese strings:
     old "mute main"
     new "将主要人物静音"
 
-# TODO: Translation updated at 2023-06-01 01:58
-
 translate chinese strings:
 
     # renpy/common/00director.rpy:1745
@@ -1285,8 +1281,6 @@ translate chinese strings:
     # renpy/common/00sync.rpy:612
     old "Continue"
     new "继续"
-
-# TODO: Translation updated at 2024-07-15 23:57
 
 translate chinese strings:
 

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-05-26 11:42
-
 # game/code/Book-1/Chapter-4n/s04.rpy:14
 translate chinese b1c04ns04_077d80b9:
 
@@ -627,8 +625,6 @@ translate chinese strings:
     # game/code/Book-1/Chapter-4n/s04.rpy:226
     old "Time passes."
     new "时光流逝"
-
-# TODO: Translation updated at 2023-06-27 18:33
 
 # game/code/Book-1/Chapter-4n/s04.rpy:208
 translate chinese b1c04ns04_b59b12cc:

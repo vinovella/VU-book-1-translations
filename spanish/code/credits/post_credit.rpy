@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2024-08-29 18:10
-
 # game/code/credits/post_credit.rpy:18
 translate spanish post_credit_scene_dcd1d6e8:
 

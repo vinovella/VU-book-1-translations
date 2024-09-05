@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2024-05-04 22:44
-
 # game/code/Book-1/Chapter-8c/s10.rpy:185
 translate spanish b1c08cs10_2c6d21c6:
 
@@ -935,8 +933,6 @@ translate spanish strings:
     # game/code/Book-1/Chapter-8c/s10.rpy:175
     old "The ritual"
     new "El ritual"
-
-# TODO: Translation updated at 2024-08-15 12:57
 
 # game/code/Book-1/Chapter-8c/s10.rpy:512
 translate spanish b1c08cs10_ritual_00e452bd:

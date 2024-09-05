@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2024-07-15 23:59
-
 # game/code/Book-1/Chapter-8w/s03.rpy:20
 translate turkish b1c08ws03_939b5974:
 
@@ -527,3 +525,4 @@ translate turkish strings:
     # game/code/Book-1/Chapter-8w/s03.rpy:8
     old "Some time later\nAt the hotel"
     new "Bir süre sonra\nOtelde"
+

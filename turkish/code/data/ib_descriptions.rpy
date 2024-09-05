@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-07-25 23:40
-
 translate turkish strings:
 
     # game/code/data/ib_descriptions.rpy:2
@@ -85,8 +83,6 @@ translate turkish strings:
     # game/code/data/ib_descriptions.rpy:2
     old "A friend of Nia and Maria."
     new "Nia ve Maria'nın bir arkadaşı."
-
-# TODO: Translation updated at 2023-08-07 00:37
 
 translate turkish strings:
 
@@ -638,8 +634,6 @@ translate turkish strings:
     old "Ronja is married. And also cheating on her husband with me."
     new "Ronja evli. Ayrıca kocasını da benimle aldatıyor."
 
-# TODO: Translation updated at 2024-07-15 23:59
-
 translate turkish strings:
 
     # game/code/data/ib_descriptions.rpy:2
@@ -869,8 +863,6 @@ translate turkish strings:
     # game/code/data/ib_descriptions.rpy:2
     old "A highly revered figure in the Children of Narurra cult."
     new "Narurra'nın Çocukları tarikatında çok saygı duyulan bir figür."
-
-# TODO: Translation updated at 2024-08-29 18:10
 
 translate turkish strings:
 

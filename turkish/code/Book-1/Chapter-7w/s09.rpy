@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-08-07 00:37
-
 # game/code/Book-1/Chapter-7w/s09.rpy:31
 translate turkish b1c07ws09_9a380ddf:
 
@@ -733,3 +731,4 @@ translate turkish strings:
     # game/code/Book-1/Chapter-7w/s09.rpy:52
     old "Try to get her to calm down"
     new "Onu sakinleştirmeye çalış"
+

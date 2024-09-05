@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-06-27 18:34
-
 # game/code/Book-1/Chapter-4s/s04.rpy:32
 translate portuguese b1c04ss04_01936d89:
 
