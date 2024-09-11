@@ -2,13 +2,13 @@
 translate chinese b1c09s07_6b1bb9c9:
 
     # mct "I should check in with everyone before the party tonight. I'm sure Isa's super busy with everything."
-    mct "I should check in with everyone before the party tonight. I'm sure Isa's super busy with everything."
+    mct "今晚聚会之前，我应该和大家报个平安。我相信艾萨一定忙得不可开交。"
 
 # game/code/Book-1/Chapter-9/s07.rpy:70
 translate chinese b1c09s07_78776097:
 
     # ima "No, I needed that staff {i}today{/i} I ordered them for TODAY!"
-    ima "No, I needed that staff {i}today{/i} I ordered them for TODAY!"
+    ima "不，我{i}今天{/i}就需要那个工作人员，我订的就是今天！"
 
 # game/code/Book-1/Chapter-9/s07.rpy:72
 translate chinese b1c09s07_0db4d85d:
