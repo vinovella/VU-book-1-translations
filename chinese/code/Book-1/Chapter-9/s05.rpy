@@ -908,325 +908,325 @@ translate chinese b1c09s05_femdom_end_2abb0402:
 translate chinese b1c09s05_femdom_end_a4c4fa44:
 
     # dm "Such a good boy."
-    dm "Such a good boy."
+    dm "真是个好孩子。"
 
 # game/code/Book-1/Chapter-9/s05.rpy:602
 translate chinese b1c09s05_femdom_end_50d7bab9:
 
     # dm "*Moans softly* I can't wait to show you what you get when you're a good boy for me."
-    dm "*Moans softly* I can't wait to show you what you get when you're a good boy for me."
+    dm "*轻声呻吟* 我迫不及待地想让你知道，当你成为我的好孩子时，你会得到什么。"
 
 # game/code/Book-1/Chapter-9/s05.rpy:608
 translate chinese b1c09s05_cum_menu_f7cce1d0:
 
     # dm "Hm... How about this? I'll forgive you, but only if you clean me up with your tongue."
-    dm "Hm... How about this? I'll forgive you, but only if you clean me up with your tongue."
+    dm "嗯...这样如何？我会原谅你，但前提是你得用舌头帮我清理干净。"
 
 # game/code/Book-1/Chapter-9/s05.rpy:609
 translate chinese b1c09s05_cum_menu_3f79e844:
 
     # dm "What do you say?"
-    dm "What do you say?"
+    dm "你说呢？"
 
 # game/code/Book-1/Chapter-9/s05.rpy:618
 translate chinese b1c09s05_cum_menu_1ec2efeb:
 
     # dm "Good boy. Go on now."
-    dm "Good boy. Go on now."
+    dm "好孩子。现在开始吧。"
 
 # game/code/Book-1/Chapter-9/s05.rpy:620
 translate chinese b1c09s05_cum_menu_bdef8b5a:
 
     # dm "Yes... *Moans* Get me nice and clean."
-    dm "Yes... *Moans* Get me nice and clean."
+    dm "是的...*呻吟* 把我弄得干干净净。"
 
 # game/code/Book-1/Chapter-9/s05.rpy:627
 translate chinese b1c09s05_cum_menu_b12d0433:
 
     # mc "I... No. I don't want to do that."
-    mc "I... No. I don't want to do that."
+    mc "我...不，我不想这么做。"
 
 # game/code/Book-1/Chapter-9/s05.rpy:630
 translate chinese b1c09s05_cum_menu_4a432def:
 
     # dm "Oh? Were you lying when you said that you wanted to be my good boy then?"
-    dm "Oh? Were you lying when you said that you wanted to be my good boy then?"
+    dm "哦？你之前说你想做我的好孩子，是在撒谎吗？"
 
 # game/code/Book-1/Chapter-9/s05.rpy:633
 translate chinese b1c09s05_cum_menu_d88be344:
 
     # mc "...No. But I just don't want to do that."
-    mc "...No. But I just don't want to do that."
+    mc "...不是，但我就是不想那么做。"
 
 # game/code/Book-1/Chapter-9/s05.rpy:636
 translate chinese b1c09s05_cum_menu_37d81979:
 
     # dm "*Sighs* Disappointing."
-    dm "*Sighs* Disappointing."
+    dm "*叹息* 真扫兴。"
 
 # game/code/Book-1/Chapter-9/s05.rpy:648
 translate chinese b1c09s05_end_ac123d20:
 
     # "Sometime later, after basking in each other's afterglow and cleaning up as best as you could."
-    "Sometime later, after basking in each other's afterglow and cleaning up as best as you could."
+    "一段时间之后，你们沉浸在彼此带来的余韵中，尽你所能地打扫干净。"
 
 # game/code/Book-1/Chapter-9/s05.rpy:654
 translate chinese b1c09s05_end_50656797:
 
     # dm "*Clears her throat* I actually wanted to talk to you about something, that's why I uh...came here."
-    dm "*Clears her throat* I actually wanted to talk to you about something, that's why I uh...came here."
+    dm "*清了清嗓子* 其实我想和你谈点事，所以才...来了这里。"
 
 # game/code/Book-1/Chapter-9/s05.rpy:658
 translate chinese b1c09s05_end_8ec5a577:
 
     # mc "Before you got distracted, you mean."
-    mc "Before you got distracted, you mean."
+    mc "你是说，在你分心之前？"
 
 # game/code/Book-1/Chapter-9/s05.rpy:661
 translate chinese b1c09s05_end_0e479941:
 
     # dm "*Chuckles* Perhaps. But I'm not solely responsible for that."
-    dm "*Chuckles* Perhaps. But I'm not solely responsible for that."
+    dm "*咯咯笑* 也许吧。但这不是我一个人的责任。"
 
 # game/code/Book-1/Chapter-9/s05.rpy:662
 translate chinese b1c09s05_end_a92e0ea2:
 
     # dm "Anyway."
-    dm "Anyway."
+    dm "总之。"
 
 # game/code/Book-1/Chapter-9/s05.rpy:673
 translate chinese b1c09s05_end_noflirt_e05e84bf:
 
     # dm "*Clears her throat* It's good that I ran into you actually."
-    dm "*Clears her throat* It's good that I ran into you actually."
+    dm "*清清喉咙* 其实我遇到你是件好事。"
 
 # game/code/Book-1/Chapter-9/s05.rpy:674
 translate chinese b1c09s05_end_noflirt_e9ccbd26:
 
     # dm "I've been meaning to ask you about your progress on the case."
-    dm "I've been meaning to ask you about your progress on the case."
+    dm "我一直想问你案子的进展。"
 
 # game/code/Book-1/Chapter-9/s05.rpy:677
 translate chinese b1c09s05_end_noflirt_0ec3833f:
 
     # mct "Christ, not this again."
-    mct "Christ, not this again."
+    mct "天啊，又来了。"
 
 # game/code/Book-1/Chapter-9/s05.rpy:678
 translate chinese b1c09s05_end_noflirt_b2a47222:
 
     # mc "I can't share—"
-    mc "I can't share—"
+    mc "我不能透露--"
 
 # game/code/Book-1/Chapter-9/s05.rpy:684
 translate chinese b1c09s05_end_noflirt_b2648ea3:
 
     # dm "Yes, I know. But I think you can provide me at least {i}some{/i} details as to what is going on. It's been weeks."
-    dm "Yes, I know. But I think you can provide me at least {i}some{/i} details as to what is going on. It's been weeks."
+    dm "是的，我知道。但我想你至少可以告诉我{i}一些{/i}细节，让我知道到底发生了什么。已经过去好几个星期了。"
 
 # game/code/Book-1/Chapter-9/s05.rpy:685
 translate chinese b1c09s05_end_noflirt_64036342:
 
     # dm "Not to mention you disappearing out of nowhere. I was worried."
-    dm "Not to mention you disappearing out of nowhere. I was worried."
+    dm "更不用说你突然消失了。我很担心。"
 
 # game/code/Book-1/Chapter-9/s05.rpy:687
 translate chinese b1c09s05_end_noflirt_8de2f17e:
 
     # mc "*Sighs* There's nothing to worry about. I was investigating the key suspect groups."
-    mc "*Sighs* There's nothing to worry about. I was investigating the key suspect groups."
+    mc "*叹气* 没什么好担心的。我在调查主要的嫌疑团伙。"
 
 # game/code/Book-1/Chapter-9/s05.rpy:691
 translate chinese b1c09s05_end_noflirt_093b0063:
 
     # dm "Oh? Did you find any leads?"
-    dm "Oh? Did you find any leads?"
+    dm "哦，你找到什么线索了吗？"
 
 # game/code/Book-1/Chapter-9/s05.rpy:694
 translate chinese b1c09s05_end_noflirt_5b06220a:
 
     # mc "Nothing I can divulge. But I can tell that I'm making progress."
-    mc "Nothing I can divulge. But I can tell that I'm making progress."
+    mc "没什么可以透露的。但我可以告诉你，我正在取得进展。"
 
 # game/code/Book-1/Chapter-9/s05.rpy:700
 translate chinese b1c09s05_end_noflirt_a86d1851:
 
     # dm "Very well. That's good to hear at least."
-    dm "Very well. That's good to hear at least."
+    dm "很好。至少听到这个消息很高兴。"
 
 # game/code/Book-1/Chapter-9/s05.rpy:701
 translate chinese b1c09s05_end_noflirt_1152bcbe:
 
     # dm "Are you going to the party later today?"
-    dm "Are you going to the party later today?"
+    dm "今天晚些时候你会去参加聚会吗？"
 
 # game/code/Book-1/Chapter-9/s05.rpy:702
 translate chinese b1c09s05_end_noflirt_51d752b4:
 
     # dm "I believe it's being held at The Winners mansion, just like last time."
-    dm "I believe it's being held at The Winners mansion, just like last time."
+    dm "我相信会像上次一样，在赢家的房子里举行。"
 
 # game/code/Book-1/Chapter-9/s05.rpy:708
 translate chinese b1c09s05_end_noflirt_28aa47df:
 
     # mc "Uh, yes. I will."
-    mc "Uh, yes. I will."
+    mc "嗯，好的。我会去的。"
 
 # game/code/Book-1/Chapter-9/s05.rpy:714
 translate chinese b1c09s05_end_noflirt_1ad73843:
 
     # dm "Good, good. I wanted to let you know if you haven't already heard about it."
-    dm "Good, good. I wanted to let you know if you haven't already heard about it."
+    dm "好，很好。我就是想让你知道一下，如果你还没有听说这个消息的话。"
 
 # game/code/Book-1/Chapter-9/s05.rpy:715
 translate chinese b1c09s05_end_noflirt_e930c988:
 
     # dm "I strongly suggest talking to the students there, or maybe even any faculty there might be there."
-    dm "I strongly suggest talking to the students there, or maybe even any faculty there might be there."
+    dm "我强烈建议和那里的学生谈谈，甚至有可能的话，和在那里的教员谈谈。"
 
 # game/code/Book-1/Chapter-9/s05.rpy:716
 translate chinese b1c09s05_end_noflirt_3663c1aa:
 
     # dm "This is the first large party held since the poor girls went missing, so I want you to keep an eye on the people there and make sure it doesn't happen again."
-    dm "This is the first large party held since the poor girls went missing, so I want you to keep an eye on the people there and make sure it doesn't happen again."
+    dm "这是继可怜的女孩们失踪后举行的第一次大型聚会，所以我希望你能留意一下那里的人，确保这种事情不会再次发生。"
 
 # game/code/Book-1/Chapter-9/s05.rpy:717
 translate chinese b1c09s05_end_noflirt_4fbe02c4:
 
     # dm "I also think that the party will most likely loosen some tongues, what with all the booze and drugs spread around the place."
-    dm "I also think that the party will most likely loosen some tongues, what with all the booze and drugs spread around the place."
+    dm "我还认为，派对很可能会让一些人放松警惕，因为这里到处都是酒和毒品。"
 
 # game/code/Book-1/Chapter-9/s05.rpy:718
 translate chinese b1c09s05_end_noflirt_1dfaad2e:
 
     # mct "Drugs?"
-    mct "Drugs?"
+    mct "毒品？"
 
 # game/code/Book-1/Chapter-9/s05.rpy:721
 translate chinese b1c09s05_end_noflirt_f9d8f341:
 
     # mc "How do you know for sure drugs will be involved?"
-    mc "How do you know for sure drugs will be involved?"
+    mc "你怎么知道肯定会有毒品？"
 
 # game/code/Book-1/Chapter-9/s05.rpy:727
 translate chinese b1c09s05_end_noflirt_b7fff3d1:
 
     # dm "Well, yes. It's a college party, Matthew. It'd be surprising if it doesn't involve drugs of some sort."
-    dm "Well, yes. It's a college party, Matthew. It'd be surprising if it doesn't involve drugs of some sort."
+    dm "嗯，就是知道啊。这是大学派对，马修。如果不涉及某种毒品，那才奇怪呢。"
 
 # game/code/Book-1/Chapter-9/s05.rpy:728
 translate chinese b1c09s05_end_noflirt_ab5189db:
 
     # dm "I don't think that's much to be suspicious about there, but I suppose you can't be too careful. You know best."
-    dm "I don't think that's much to be suspicious about there, but I suppose you can't be too careful. You know best."
+    dm "我不认为这有什么值得怀疑的，但我想小心驶得万年船嘛。你最清楚了。"
 
 # game/code/Book-1/Chapter-9/s05.rpy:729
 translate chinese b1c09s05_end_noflirt_db0d062d:
 
     # dm "Regardless, do make sure to talk to the people there."
-    dm "Regardless, do make sure to talk to the people there."
+    dm "不管怎样，一定要和那里的人谈谈。"
 
 # game/code/Book-1/Chapter-9/s05.rpy:730
 translate chinese b1c09s05_end_noflirt_cae7a5af:
 
     # dm "I'd also go and ask around if I could, but I'd stick out like a sore thumb."
-    dm "I'd also go and ask around if I could, but I'd stick out like a sore thumb."
+    dm "如果可以的话，我也会去问问周围的人，不过到时我会很显眼。"
 
 # game/code/Book-1/Chapter-9/s05.rpy:737
 translate chinese b1c09s05_end_noflirt_33719cfe:
 
     # mc "I understand you're anxious. But I promise, I got this under control."
-    mc "I understand you're anxious. But I promise, I got this under control."
+    mc "我理解你的焦虑。但我保证，一切都在我的掌控之中。"
 
 # game/code/Book-1/Chapter-9/s05.rpy:738
 translate chinese b1c09s05_end_noflirt_a66d9ae6:
 
     # mc "I'll make sure to go to the party and ask around."
-    mc "I'll make sure to go to the party and ask around."
+    mc "我一定会去派对上打听一下。"
 
 # game/code/Book-1/Chapter-9/s05.rpy:740
 translate chinese b1c09s05_end_noflirt_f3ea107b:
 
     # dm "Thank you."
-    dm "Thank you."
+    dm "谢谢。"
 
 # game/code/Book-1/Chapter-9/s05.rpy:748
 translate chinese b1c09s05_end_noflirt_c3d1f5fb:
 
     # mct "Fucking great."
-    mct "Fucking great."
+    mct "操，太棒了。"
 
 # game/code/Book-1/Chapter-9/s05.rpy:750
 translate chinese b1c09s05_end_noflirt_04334789:
 
     # mc "It's not what it—"
-    mc "It's not what it—"
+    mc "不是你看到的--"
 
 # game/code/Book-1/Chapter-9/s05.rpy:755
 translate chinese b1c09s05_end_noflirt_09f1d4e0:
 
     # rh "Oh, no. Don't give me that bullshit."
-    rh "Oh, no. Don't give me that bullshit."
+    rh "哦，不。不要给我说废话。"
 
 # game/code/Book-1/Chapter-9/s05.rpy:756
 translate chinese b1c09s05_end_noflirt_8bc43581:
 
     # rh "It's {i}exactly{/i} what it looks like."
-    rh "It's {i}exactly{/i} what it looks like."
+    rh "事实{i}就是{/i}看起来的样子。"
 
 # game/code/Book-1/Chapter-9/s05.rpy:757
 translate chinese b1c09s05_end_noflirt_369c3f8f:
 
     # rh "The little minx got to you first this time, huh?"
-    rh "The little minx got to you first this time, huh?"
+    rh "这次你先被那个小妖精给耍了，是吧？"
 
 # game/code/Book-1/Chapter-9/s05.rpy:760
 translate chinese b1c09s05_end_noflirt_264f1232:
 
     # rh "Not bad, Diana. But we'll see who wins next time."
-    rh "Not bad, Diana. But we'll see who wins next time."
+    rh "不错，戴安娜。不过，我们还是看看下次谁会赢吧。"
 
 # game/code/Book-1/Chapter-9/s05.rpy:762
 translate chinese b1c09s05_end_noflirt_bfe462b9:
 
     # dm "Oh, I'm sure we will, old friend."
-    dm "Oh, I'm sure we will, old friend."
+    dm "哦，我相信下次赢的人就不是你了，老朋友。"
 
 translate chinese strings:
 
     # game/code/Book-1/Chapter-9/s05.rpy:159
     old "Let Diana take control"
-    new "Let Diana take control"
+    new "让戴安娜掌控一切"
 
     # game/code/Book-1/Chapter-9/s05.rpy:159
     old "Take control yourself"
-    new "Take control yourself"
+    new "控制你自己"
 
     # game/code/Book-1/Chapter-9/s05.rpy:159
     old "Stop Diana"
-    new "Stop Diana"
+    new "阻止戴安娜"
 
     # game/code/Book-1/Chapter-9/s05.rpy:249
     old "Worship her feet"
-    new "Worship her feet"
+    new "爱慕她的脚"
 
     # game/code/Book-1/Chapter-9/s05.rpy:249
     old "Worship her legs"
-    new "Worship her legs"
+    new "爱慕她的腿"
 
     # game/code/Book-1/Chapter-9/s05.rpy:554
     old "Cum"
-    new "Cum"
+    new "射精"
 
     # game/code/Book-1/Chapter-9/s05.rpy:554
     old "Hold it in"
-    new "Hold it in"
+    new "忍住"
 
     # game/code/Book-1/Chapter-9/s05.rpy:611
     old "Clean your cum off of Diana"
-    new "Clean your cum off of Diana"
+    new "把你的精液从戴安娜身上擦掉"
 
     # game/code/Book-1/Chapter-9/s05.rpy:611
     old "Refuse to clean your cum"
-    new "Refuse to clean your cum"
+    new "拒绝清洗你的精液"
 
