@@ -2,217 +2,217 @@
 translate chinese b1c09s09s_5cab02f3:
 
     # mct "Getting something to drink at the barbecue sounds like a great idea."
-    mct "Getting something to drink at the barbecue sounds like a great idea."
+    mct "在烧烤的时候喝点东西，听起来是个好主意。"
 
 # game/code/Book-1/Chapter-9/s09s.rpy:30
 translate chinese b1c09s09s_e9725111:
 
     # mct "I haven't spent much time around these guys, anyway."
-    mct "I haven't spent much time around these guys, anyway."
+    mct "反正我也没跟这些家伙相处过多久。"
 
 # game/code/Book-1/Chapter-9/s09s.rpy:37
 translate chinese b1c09s09s_69a0eee0:
 
     # ffl "We're so happy to see you!"
-    ffl "We're so happy to see you!"
+    ffl "见到你我们太高兴了！"
 
 # game/code/Book-1/Chapter-9/s09s.rpy:43
 translate chinese b1c09s09s_165fe84e:
 
     # xv "Hey, Rookie."
-    xv "Hey, Rookie."
+    xv "嘿，菜鸟。"
 
 # game/code/Book-1/Chapter-9/s09s.rpy:44
 translate chinese b1c09s09s_89b1fbda:
 
     # xv "Was wondering if you'd show."
-    xv "Was wondering if you'd show."
+    xv "我还在想你会不会来呢。"
 
 # game/code/Book-1/Chapter-9/s09s.rpy:46
 translate chinese b1c09s09s_7ae65861:
 
     # mct "That's the warmest greeting Xasan's ever given me."
-    mct "That's the warmest greeting Xasan's ever given me."
+    mct "这是哈桑给我的最热情的问候。"
 
 # game/code/Book-1/Chapter-9/s09s.rpy:48
 translate chinese b1c09s09s_ce71ab9b:
 
     # mc "I'm surprised to see you here. Didn't think this was your kind of scene."
-    mc "I'm surprised to see you here. Didn't think this was your kind of scene."
+    mc "真没想到会在这儿见到你。我以为你会你会不喜欢这种场合。"
 
 # game/code/Book-1/Chapter-9/s09s.rpy:51
 translate chinese b1c09s09s_711365ba:
 
     # xv "Eh, it's not. But the whole gang's here, y'know? Gotta keep 'em safe."
-    xv "Eh, it's not. But the whole gang's here, y'know? Gotta keep 'em safe."
+    xv "呃，是不喜欢。但所有人都在这里，你知道吗？我得保证他们的安全。"
 
 # game/code/Book-1/Chapter-9/s09s.rpy:53
 translate chinese b1c09s09s_8b013fa1:
 
     # mct "Ironic he says that after leaving me for dead with The Wasps..."
-    mct "Ironic he says that after leaving me for dead with The Wasps..."
+    mct "当时他把我丢在黄蜂队里等死，现在还这么说，真是讽刺..."
 
 # game/code/Book-1/Chapter-9/s09s.rpy:55
 translate chinese b1c09s09s_b6af02c9:
 
     # xv "You enjoy yourself now."
-    xv "You enjoy yourself now."
+    xv "你现在尽情享受吧。"
 
 # game/code/Book-1/Chapter-9/s09s.rpy:58
 translate chinese b1c09s09s_efc6f89c:
 
     # mct "He's got to be pretty damn buzzed to tell me to enjoy myself."
-    mct "He's got to be pretty damn buzzed to tell me to enjoy myself."
+    mct "他一定是喝多了，才会叫我好好享受。"
 
 # game/code/Book-1/Chapter-9/s09s.rpy:62
 translate chinese b1c09s09s_04816bf9:
 
     # zp "[mcname]. Didn't expect to see you here."
-    zp "[mcname]. Didn't expect to see you here."
+    zp "[mcname]。没想到会在这里见到你。"
 
 # game/code/Book-1/Chapter-9/s09s.rpy:65
 translate chinese b1c09s09s_0ad41076:
 
     # ass "Fleur, get over here! Our favorite song is playing!"
-    ass "Fleur, get over here! Our favorite song is playing!"
+    ass "芙蓉，快过来！我们最喜欢的歌正在放了！"
 
 # game/code/Book-1/Chapter-9/s09s.rpy:70
 translate chinese b1c09s09s_f3069953:
 
     # ass "Hi, [mcname]!"
-    ass "Hi, [mcname]!"
+    ass "嗨，[mcname]！"
 
 # game/code/Book-1/Chapter-9/s09s.rpy:77
 translate chinese b1c09s09s_c10c8126:
 
     # zp "[mcname]! Glad to see you here."
-    zp "[mcname]! Glad to see you here."
+    zp "[mcname]！很高兴在这里见到你。"
 
 # game/code/Book-1/Chapter-9/s09s.rpy:80
 translate chinese b1c09s09s_62a8c0b8:
 
     # mc "How are you doing?"
-    mc "How are you doing?"
+    mc "你好吗？"
 
 # game/code/Book-1/Chapter-9/s09s.rpy:83
 translate chinese b1c09s09s_83c8dd5b:
 
     # zp "Good. It's nice to have a night out somewhere other than the bar."
-    zp "Good. It's nice to have a night out somewhere other than the bar."
+    zp "很好。晚上能在酒吧以外的地方一起玩真好。"
 
 # game/code/Book-1/Chapter-9/s09s.rpy:85
 translate chinese b1c09s09s_21ef8da6:
 
     # zp "I wish Leia was here, though."
-    zp "I wish Leia was here, though."
+    zp "不过我希望莱娅也在这里。"
 
 # game/code/Book-1/Chapter-9/s09s.rpy:88
 translate chinese b1c09s09s_918fea83:
 
     # mc "I'm sorry."
-    mc "I'm sorry."
+    mc "对不起。"
 
 # game/code/Book-1/Chapter-9/s09s.rpy:92
 translate chinese b1c09s09s_0428baa1:
 
     # zp "She'd be the life of the party right now."
-    zp "She'd be the life of the party right now."
+    zp "如果她在的话，现在一定是派对的焦点。"
 
 # game/code/Book-1/Chapter-9/s09s.rpy:93
 translate chinese b1c09s09s_559d9c44:
 
     # zp "It feels...empty without her."
-    zp "It feels...empty without her."
+    zp "没有她，感觉...空荡荡的。"
 
 # game/code/Book-1/Chapter-9/s09s.rpy:96
 translate chinese b1c09s09s_be85f1e8:
 
     # mc "I understand. It's okay."
-    mc "I understand. It's okay."
+    mc "我理解。没关系。"
 
 # game/code/Book-1/Chapter-9/s09s.rpy:99
 translate chinese b1c09s09s_b8bf2eb6:
 
     # zp "Fuck it. She wouldn't want me moping around."
-    zp "Fuck it. She wouldn't want me moping around."
+    zp "去他妈的。她不会希望我闷闷不乐的。"
 
 # game/code/Book-1/Chapter-9/s09s.rpy:103
 translate chinese b1c09s09s_446e55b1:
 
     # zp "You wanna dance?"
-    zp "You wanna dance?"
+    zp "你想跳舞吗？"
 
 # game/code/Book-1/Chapter-9/s09s.rpy:106
 translate chinese b1c09s09s_5844ae44:
 
     # mc "Hell yeah."
-    mc "Hell yeah."
+    mc "当然想。"
 
 # game/code/Book-1/Chapter-9/s09s.rpy:124
 translate chinese b1c09s09s_f1c9bd2a:
 
     # "Everyone loses themselves in the upbeat music, enjoying the welcoming and luxurious atmosphere of the party."
-    "Everyone loses themselves in the upbeat music, enjoying the welcoming and luxurious atmosphere of the party."
+    "每个人都沉浸在欢快的音乐中，享受着派对的温馨和奢华。"
 
 # game/code/Book-1/Chapter-9/s09s.rpy:126
 translate chinese b1c09s09s_732a6cd2:
 
     # "Zem sidles her back up to you, pressing her body against yours."
-    "Zem sidles her back up to you, pressing her body against yours."
+    "泽菲拉侧身靠着你，把身体紧紧贴在你身上。"
 
 # game/code/Book-1/Chapter-9/s09s.rpy:131
 translate chinese b1c09s09s_3fc37a01:
 
     # "She grinds herself on you, teasing you as her body rubs against yours. It's difficult not to get hard."
-    "She grinds herself on you, teasing you as her body rubs against yours. It's difficult not to get hard."
+    "她在你身上磨蹭，挑逗你的身体。她的身体在你身上摩擦，你很难不硬起来。"
 
 # game/code/Book-1/Chapter-9/s09s.rpy:134
 translate chinese b1c09s09s_fcda9a76:
 
     # zp "*Giggles*"
-    zp "*Giggles*"
+    zp "*咯咯笑*"
 
 # game/code/Book-1/Chapter-9/s09s.rpy:137
 translate chinese b1c09s09s_3b6440ec:
 
     # ffl "Switch partners!"
-    ffl "Switch partners!"
+    ffl "换搭档！"
 
 # game/code/Book-1/Chapter-9/s09s.rpy:140
 translate chinese b1c09s09s_8c57eb73:
 
     # ffl "I was hoping I'd get to dance with you..."
-    ffl "I was hoping I'd get to dance with you..."
+    ffl "我还希望能和你跳舞呢..."
 
 # game/code/Book-1/Chapter-9/s09s.rpy:143
 translate chinese b1c09s09s_a02932e9:
 
     # mc "Mm, I was hoping the same."
-    mc "Mm, I was hoping the same."
+    mc "嗯，我也这么希望。"
 
 # game/code/Book-1/Chapter-9/s09s.rpy:152
 translate chinese b1c09s09s_470c64d9:
 
     # ffl "Here, sit!"
-    ffl "Here, sit!"
+    ffl "来，坐！"
 
 # game/code/Book-1/Chapter-9/s09s.rpy:172
 translate chinese b1c09s09s_23500a28:
 
     # ffl "I guess I'm doing a good job, huh?"
-    ffl "I guess I'm doing a good job, huh?"
+    ffl "我想我干得不错，是吧？"
 
 # game/code/Book-1/Chapter-9/s09s.rpy:175
 translate chinese b1c09s09s_007a6cfc:
 
     # mc "You are such a tease."
-    mc "You are such a tease."
+    mc "你真会逗我。"
 
 # game/code/Book-1/Chapter-9/s09s.rpy:187
 translate chinese b1c09s09s_b0fb99a7:
 
     # ffl "You don't mind if I sit here, do you?"
-    ffl "You don't mind if I sit here, do you?"
+    ffl "你不介意我坐这儿吧？"
 
 # game/code/Book-1/Chapter-9/s09s.rpy:190
 translate chinese b1c09s09s_c2eb53da:
