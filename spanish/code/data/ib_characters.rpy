@@ -30,7 +30,7 @@ translate spanish strings:
 
     # game/code/data/ib_characters.rpy:9
     old "Nia"
-    new "Nía"
+    new "Nia"
 
     # game/code/data/ib_characters.rpy:9
     old "Vann"
