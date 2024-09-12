@@ -518,297 +518,297 @@ translate chinese b1c09s08_gn_watching_9b37fd9b:
 translate chinese b1c09s08_gn_watching_9453645b:
 
     # "You thrust a few times onto Foxy's face, letting her lick and taste your balls."
-    "You thrust a few times onto Foxy's face, letting her lick and taste your balls."
+    "你对着小狐的脸插了几下，让她舔舐并品尝你的蛋蛋。"
 
 # game/code/Book-1/Chapter-9/s08.rpy:517
 translate chinese b1c09s08_gn_watching_8ee0a7c1:
 
     # "You then put your tip into Lilith's mouth and start jerking yourself off as her hot tongue slides against you, teasing your cum out."
-    "You then put your tip into Lilith's mouth and start jerking yourself off as her hot tongue slides against you, teasing your cum out."
+    "然后你把龟头放进莉莉丝的嘴里，她火热的舌头在你家伙上滑动，把你的精液挑逗出来。"
 
 # game/code/Book-1/Chapter-9/s08.rpy:522
 translate chinese b1c09s08_gn_watching_fd888b6f:
 
     # "You release on Lilith's tongue, though the orgasm is so strong it gets onto the rest of her face as well."
-    "You release on Lilith's tongue, though the orgasm is so strong it gets onto the rest of her face as well."
+    "你在莉莉丝的舌头上尽情释放，高潮来得如此猛烈，以至于你的精液也流到了她的脸上。"
 
 # game/code/Book-1/Chapter-9/s08.rpy:529
 translate chinese b1c09s08_gn_watching_8639b39f:
 
     # "Before you're done, you switch to Foxy's mouth and cum all over her face and tongue."
-    "Before you're done, you switch to Foxy's mouth and cum all over her face and tongue."
+    "在你结束之前，你换到了福克丝的嘴里，把精液射在她的脸上和舌头上。"
 
 # game/code/Book-1/Chapter-9/s08.rpy:538
 translate chinese b1c09s08_gn_watching_ebdf99f0:
 
     # "Lilith kisses Foxy, your cum seeping between their mouths, on their faces."
-    "Lilith kisses Foxy, your cum seeping between their mouths, on their faces."
+    "莉莉丝亲吻小狐。你的精液从她们的嘴间渗出，流到她们的脸上。"
 
 # game/code/Book-1/Chapter-9/s08.rpy:542
 translate chinese b1c09s08_gn_watching_d3c915b5:
 
     # gn "Mmm! You taste good."
-    gn "Mmm! You taste good."
+    gn "嗯！你的味道真好。"
 
 # game/code/Book-1/Chapter-9/s08.rpy:548
 translate chinese b1c09s08_gn_watching_a55532f5:
 
     # mc "Foxy's throat."
-    mc "Foxy's throat."
+    mc "小狐的喉咙。"
 
 # game/code/Book-1/Chapter-9/s08.rpy:551
 translate chinese b1c09s08_gn_watching_8a926a02:
 
     # gn "That's what I thought."
-    gn "That's what I thought."
+    gn "我也是这么想的。"
 
 # game/code/Book-1/Chapter-9/s08.rpy:552
 translate chinese b1c09s08_gn_watching_a23f32d2:
 
     # gn "Be a good pet and take it all, Fox."
-    gn "Be a good pet and take it all, Fox."
+    gn "小狐，做个乖宠物，把它全吞了。"
 
 # game/code/Book-1/Chapter-9/s08.rpy:555
 translate chinese b1c09s08_gn_watching_ebced3a1:
 
     # "You grab Foxy's head with both hands and thrust needily into her mouth. Her tongue teases the underside of your cock, begging for your hot load."
-    "You grab Foxy's head with both hands and thrust needily into her mouth. Her tongue teases the underside of your cock, begging for your hot load."
+    "你用双手抓住小狐的头，急切地往她嘴里塞。她的舌头挑逗着你的鸡巴底部，乞求着你滚烫的精液。"
 
 # game/code/Book-1/Chapter-9/s08.rpy:561
 translate chinese b1c09s08_gn_watching_bdef2818:
 
     # mc "F-fuck, I'm gonna—"
-    mc "F-fuck, I'm gonna—"
+    mc "操，我要--"
 
 # game/code/Book-1/Chapter-9/s08.rpy:566
 translate chinese b1c09s08_gn_watching_19bf497c:
 
     # "You sink yourself deep into Foxy's mouth and cum down her throat."
-    "You sink yourself deep into Foxy's mouth and cum down her throat."
+    "你深深地插入小狐的口中，将精液射入她的喉咙。"
 
 # game/code/Book-1/Chapter-9/s08.rpy:567
 translate chinese b1c09s08_gn_watching_64b9555c:
 
     # "Her mouth pulses as she greedily swallows every drop you give her. Her tongue teases the bottom of your cock to get every last bit you have to give."
-    "Her mouth pulses as she greedily swallows every drop you give her. Her tongue teases the bottom of your cock to get every last bit you have to give."
+    "随着她贪婪地吞下你的每一滴精液，她的嘴跟着一上一下的开合，她的舌头挑逗着你的鸡巴底部，来获取你的每一滴精液。"
 
 # game/code/Book-1/Chapter-9/s08.rpy:571
 translate chinese b1c09s08_gn_watching_7c5b8256:
 
     # mc "Fuck! That feels good."
-    mc "Fuck! That feels good."
+    mc "妈的！真他妈爽啊。"
 
 # game/code/Book-1/Chapter-9/s08.rpy:575
 translate chinese b1c09s08_gn_watching_d324fb48:
 
     # gn "Mm, that's it Foxy. Drink it all down."
-    gn "Mm, that's it Foxy. Drink it all down."
+    gn "嗯，就是这样，小狐。全部喝下去。"
 
 # game/code/Book-1/Chapter-9/s08.rpy:581
 translate chinese b1c09s08_gn_watching_f5c8dddb:
 
     # gn "Very good."
-    gn "Very good."
+    gn "很好。"
 
 # game/code/Book-1/Chapter-9/s08.rpy:583
 translate chinese b1c09s08_gn_watching_604c0520:
 
     # mc "Damn, you really know how to take it."
-    mc "Damn, you really know how to take it."
+    mc "该死，你真会吞啊。"
 
 # game/code/Book-1/Chapter-9/s08.rpy:586
 translate chinese b1c09s08_gn_watching_27add239:
 
     # fox "I like to keep myself ready for the unexpected. You never know when a moment like this might come along."
-    fox "I like to keep myself ready for the unexpected. You never know when a moment like this might come along."
+    fox "我喜欢随时做好准备，以防万一。你永远不知道这样的时刻何时会到来。"
 
 # game/code/Book-1/Chapter-9/s08.rpy:593
 translate chinese b1c09s08_gn_watching_a72ca71f:
 
     # gn "Well, we'd better get back to event planning."
-    gn "Well, we'd better get back to event planning."
+    gn "好了，我们还是回去做活动策划吧。"
 
 # game/code/Book-1/Chapter-9/s08.rpy:595
 translate chinese b1c09s08_gn_watching_b91266a3:
 
     # fox "That was a great stress relief, though."
-    fox "That was a great stress relief, though."
+    fox "这倒是个不错的减压方式。"
 
 # game/code/Book-1/Chapter-9/s08.rpy:598
 translate chinese b1c09s08_gn_watching_0fadd6c7:
 
     # gn "Slut."
-    gn "Slut."
+    gn "荡妇。"
 
 # game/code/Book-1/Chapter-9/s08.rpy:600
 translate chinese b1c09s08_gn_watching_0baa9e59:
 
     # fox "*Chuckles* C'mon. Let's go get some drinks and get back to planning."
-    fox "*Chuckles* C'mon. Let's go get some drinks and get back to planning."
+    fox "*咯咯笑* 来吧。我们去喝点东西，然后继续策划吧。"
 
 # game/code/Book-1/Chapter-9/s08.rpy:613
 translate chinese b1c09s08_after_sex_ac1455d8:
 
     # mct "Well, I guess this is as good a time as any to do some investigative work."
-    mct "Well, I guess this is as good a time as any to do some investigative work."
+    mct "我想我可以利用这个好时机趁机多做点调查。"
 
 # game/code/Book-1/Chapter-9/s08.rpy:616
 translate chinese b1c09s08_after_sex_a33bd886:
 
     # mct "I haven't spent much time exploring all of the camgirl rooms. There might be something there."
-    mct "I haven't spent much time exploring all of the camgirl rooms. There might be something there."
+    mct "我还没花多少时间去探索所有的直播女孩的房间。那里可能有什么线索。"
 
 # game/code/Book-1/Chapter-9/s08.rpy:618
 translate chinese b1c09s08_after_sex_6b9cc4e0:
 
     # "You wander the corridor until you see a room labeled STAFF."
-    "You wander the corridor until you see a room labeled STAFF."
+    "你沿着走廊一直走，直到你看到一间标有员工的房间。"
 
 # game/code/Book-1/Chapter-9/s08.rpy:622
 translate chinese b1c09s08_after_sex_06679e31:
 
     # mct "Doesn't look like there's anyone in here."
-    mct "Doesn't look like there's anyone in here."
+    mct "看起来这里没人。"
 
 # game/code/Book-1/Chapter-9/s08.rpy:625
 translate chinese b1c09s08_after_sex_8ecea9f1:
 
     # mct "I assume this is where Fleur helps manage the camgirls."
-    mct "I assume this is where Fleur helps manage the camgirls."
+    mct "我猜这是芙蓉管理直播女孩的地方。"
 
 # game/code/Book-1/Chapter-9/s08.rpy:627
 translate chinese b1c09s08_after_sex_8395e393:
 
     # mct "But I bet the higher ups in The Syndicate also keep stuff in here, though."
-    mct "But I bet the higher ups in The Syndicate also keep stuff in here, though."
+    mct "不过我敢打赌，辛迪加的高层也把东西放在这里。"
 
 # game/code/Book-1/Chapter-9/s08.rpy:634
 translate chinese b1c09s08_after_sex_a78f7c1e:
 
     # "Be sure to save me some martinis tonight, okay? -Gabbie"
-    "Be sure to save me some martinis tonight, okay? -Gabbie"
+    "今晚一定要给我留几杯马提尼酒，好吗？-凯碧"
 
 # game/code/Book-1/Chapter-9/s08.rpy:639
 translate chinese b1c09s08_after_sex_4beaf5aa:
 
     # mct "Gabbie? That has to be the lunch lady."
-    mct "Gabbie? That has to be the lunch lady."
+    mct "凯碧？一定是那位食堂女士。"
 
 # game/code/Book-1/Chapter-9/s08.rpy:641
 translate chinese b1c09s08_after_sex_b931c4bf:
 
     # mct "Silvia told me her name when I first came to VU. And I've seen that woman around."
-    mct "Silvia told me her name when I first came to VU. And I've seen that woman around."
+    mct "我刚来大学时，西尔维亚跟我说过她的名字。我在附近见过她。"
 
 # game/code/Book-1/Chapter-9/s08.rpy:647
 translate chinese b1c09s08_after_sex_989bf3d9:
 
     # mct "I just didn't know she was buddy-buddy enough with The Syndicate to access the staff rooms."
-    mct "I just didn't know she was buddy-buddy enough with The Syndicate to access the staff rooms."
+    mct "我只是不知道她和辛迪加的关系这么好，都可以进入员工休息室。"
 
 # game/code/Book-1/Chapter-9/s08.rpy:652
 translate chinese b1c09s08_after_sex_56d32d53:
 
     # mct "Damn, I need a password to get in."
-    mct "Damn, I need a password to get in."
+    mct "该死，我需要密码才能进去。"
 
 # game/code/Book-1/Chapter-9/s08.rpy:653
 translate chinese b1c09s08_after_sex_8ee17a55:
 
     # mct "Though I bet they'd have the password somewhere in this room in case someone forgot it..."
-    mct "Though I bet they'd have the password somewhere in this room in case someone forgot it..."
+    mct "不过我敢打赌，他们一定把密码藏在这间屋子的某个地方，以防有人忘记..."
 
 # game/code/Book-1/Chapter-9/s08.rpy:656
 translate chinese b1c09s08_after_sex_f17f711d:
 
     # mct "And that's as good a place to start as any."
-    mct "And that's as good a place to start as any."
+    mct "那就从这里开始吧。"
 
 # game/code/Book-1/Chapter-9/s08.rpy:660
 translate chinese b1c09s08_after_sex_b98a9d8a:
 
     # "You spot a drawer with Gabbie's name on it."
-    "You spot a drawer with Gabbie's name on it."
+    "你发现了一个写着凯碧名字的抽屉。"
 
 # game/code/Book-1/Chapter-9/s08.rpy:661
 translate chinese b1c09s08_after_sex_bfd0cc07:
 
     # mct "Huh. Gabbie must work here if she has a file drawer just for her. Maybe she tracks the finances of the bar or something?"
-    mct "Huh. Gabbie must work here if she has a file drawer just for her. Maybe she tracks the finances of the bar or something?"
+    mct "呵。如果凯碧有一个专属于她的抽屉的话，那她一定是在这里工作。也许她负责追踪酒吧的财务状况什么的？"
 
 # game/code/Book-1/Chapter-9/s08.rpy:663
 translate chinese b1c09s08_after_sex_a151b70a:
 
     # mct "Mm. Not really much here, just some bills and other stuff regarding the bar upkeep and whatnot."
-    mct "Mm. Not really much here, just some bills and other stuff regarding the bar upkeep and whatnot."
+    mct "嗯。这里其实没什么东西，只有一些账单和其他关于酒吧维护之类的东西。"
 
 # game/code/Book-1/Chapter-9/s08.rpy:668
 translate chinese b1c09s08_after_sex_326c8ed7:
 
     # mct "Huh. That's weird. Why'd she keep a broken cell phone around?"
-    mct "Huh. That's weird. Why'd she keep a broken cell phone around?"
+    mct "咦，真奇怪。她怎么会把一部坏掉的手机放在身边？"
 
 # game/code/Book-1/Chapter-9/s08.rpy:670
 translate chinese b1c09s08_after_sex_4bb5db7b:
 
     # mct "I guess it's pretty unique..."
-    mct "I guess it's pretty unique..."
+    mct "看来这很特别..."
 
 # game/code/Book-1/Chapter-9/s08.rpy:672
 translate chinese b1c09s08_after_sex_366578e5:
 
     # mct "I don't know. Maybe she kept it until she got a replacement and then forgot to throw it out, or had some sort of sentimental attachment to it."
-    mct "I don't know. Maybe she kept it until she got a replacement and then forgot to throw it out, or had some sort of sentimental attachment to it."
+    mct "我不知道。也许她一直留着，直到换了新手机，才忘了扔掉旧的。或者她对旧手机有某种感情。"
 
 # game/code/Book-1/Chapter-9/s08.rpy:676
 translate chinese b1c09s08_after_sex_b849e874:
 
     # mct "That's not really much of a find. Certainly not incriminating."
-    mct "That's not really much of a find. Certainly not incriminating."
+    mct "这不算什么发现。当然更不是罪证了。"
 
 # game/code/Book-1/Chapter-9/s08.rpy:677
 translate chinese b1c09s08_after_sex_adcb5de5:
 
     # mct "*Sigh* I'll need to figure out another method of digging up Syndicate dirt."
-    mct "*Sigh* I'll need to figure out another method of digging up Syndicate dirt."
+    mct "*叹气* 我得另想办法挖出辛迪加的污点。"
 
 # game/code/Book-1/Chapter-9/s08.rpy:680
 translate chinese b1c09s08_after_sex_dbdffec5:
 
     # mct "Anyway, I'd better get out of here before someone catches me."
-    mct "Anyway, I'd better get out of here before someone catches me."
+    mct "总之，我最好在被人抓到之前离开这里。"
 
 translate chinese strings:
 
     # game/code/Book-1/Chapter-9/s08.rpy:56
     old "At the Fight Ring"
-    new "At the Fight Ring"
+    new "在格斗场"
 
     # game/code/Book-1/Chapter-9/s08.rpy:161
     old "I'll take Foxy, but not Lilith watching"
-    new "I'll take Foxy, but not Lilith watching"
+    new "我选小狐，但莉莉丝不能看"
 
     # game/code/Book-1/Chapter-9/s08.rpy:161
     old "Lilith can stay"
-    new "Lilith can stay"
+    new "莉莉丝可以留下"
 
     # game/code/Book-1/Chapter-9/s08.rpy:161
     old "I'd rather not"
-    new "I'd rather not"
+    new "我宁愿不要"
 
     # game/code/Book-1/Chapter-9/s08.rpy:295
     old "Cum on Foxy's ass"
-    new "Cum on Foxy's ass"
+    new "射在小狐的屁股上"
 
     # game/code/Book-1/Chapter-9/s08.rpy:295
     old "Cum in Foxy's panties"
-    new "Cum in Foxy's panties"
+    new "射在小狐的内裤上"
 
     # game/code/Book-1/Chapter-9/s08.rpy:496
     old "On both of your faces"
-    new "On both of your faces"
+    new "射在你们的脸上"
 
     # game/code/Book-1/Chapter-9/s08.rpy:496
     old "Down Foxy's throat"
-    new "Down Foxy's throat"
+    new "射到小狐的喉咙里"
 
