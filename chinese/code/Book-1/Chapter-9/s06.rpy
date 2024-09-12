@@ -704,7 +704,7 @@ translate chinese b1c09s06_be_bottom_79de7289:
 translate chinese b1c09s06_be_top_f9b1323f:
 
     # mc "Who says {i}{b}I{/b}{/i} won't devour {i}you?{i}"
-    mc "谁说{i}{b}我{/b}{/i}不会把{i}你{i}给吃掉？"
+    mc "谁说{i}{b}我{/b}{/i}不会把{i}你{/i}给吃掉？"
 
 # game/code/Book-1/Chapter-9/s06.rpy:515
 translate chinese b1c09s06_be_top_e71d4dfe:
@@ -836,7 +836,7 @@ translate chinese b1c09s06_be_top_3c86cabe:
 translate chinese b1c09s06_be_top_4cd43893:
 
     # ij "Cum inside me, please cum inside!"
-    ij "射我里面，求你射我里面！
+    ij "射我里面，求你射我里面！"
 
 # game/code/Book-1/Chapter-9/s06.rpy:637
 translate chinese b1c09s06_be_top_6e9891f0:
