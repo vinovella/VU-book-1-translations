@@ -650,7 +650,7 @@ translate portuguese b1c08ss05_choice_95b61831:
 translate portuguese b1c08ss05_choice_03012300:
 
     # fox "I've always been a mediator. Just because I can fgang fis just to stop them."
-    fox ""
+    fox "Eu sempre servi de mediadora. Só porque eu sei lutar não quer dizer que não vou tentar impedir."
 
 # game/code/Book-1/Chapter-8s/s05.rpy:380
 translate portuguese b1c08ss05_choice_68649d5c:
