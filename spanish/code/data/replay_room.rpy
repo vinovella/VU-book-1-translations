@@ -12,8 +12,6 @@ translate spanish strings:
     old "Phoebe Dream"
     new "El sueño de Phoebe"
 
-translate spanish strings:
-
     # game/code/data/replay_room.rpy:16
     old "C01: Opening Cutscene"
     new "C01: Escena de apertura"
@@ -36,7 +34,7 @@ translate spanish strings:
 
     # game/code/data/replay_room.rpy:16
     old "C04: Locker Room Fling With Iona"
-    new "C04: Aventura con Iona en los vestuarios"
+    new "C04: Aventura con Iona"
 
     # game/code/data/replay_room.rpy:16
     old "You like partying."
@@ -136,7 +134,7 @@ translate spanish strings:
 
     # game/code/data/replay_room.rpy:16
     old "C07: Finish What Delphia Started"
-    new "C07: Termina lo que Delphia empezó"
+    new "C07: Sexo con Delphia"
 
     # game/code/data/replay_room.rpy:16
     old "Help Delphia."
@@ -256,7 +254,7 @@ translate spanish strings:
 
     # game/code/data/replay_room.rpy:16
     old "C08: Licking Morgan's Wounds"
-    new "C08: Lamiendo las heridas de Morgan"
+    new "C08: Sexo con Morgan"
 
     # game/code/data/replay_room.rpy:16
     old "Ask Morgan to stay."
