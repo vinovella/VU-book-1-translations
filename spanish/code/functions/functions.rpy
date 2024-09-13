@@ -20,19 +20,19 @@ translate spanish strings:
 
     # game/code/functions/functions.rpy:281
     old "You've unlocked a new CG Gallery"
-    new "You've unlocked a new CG Gallery"
+    new "Has desbloqueado una nueva Galería de CG"
 
     # game/code/functions/functions.rpy:281
     old "You can watch the scene again in the Replay Room"
-    new "You can watch the scene again in the Replay Room"
+    new "Puede volver a ver la escena en la sala de repeticiones"
 
     # game/code/functions/functions.rpy:281
     old "You've unlocked a new bonus content"
-    new "You've unlocked a new bonus content"
+    new "Has desbloqueado un nuevo contenido adicional"
 
 translate spanish strings:
 
     # game/code/functions/functions.rpy:63
     old "You have updated a new character in the Investigation Board"
-    new "You have updated a new character in the Investigation Board"
+    new "Has actualizado un nuevo personaje en el Tablón de Investigación"
 
