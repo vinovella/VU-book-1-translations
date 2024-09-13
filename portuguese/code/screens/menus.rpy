@@ -68,35 +68,35 @@ translate portuguese strings:
 
     # game/code/screens/menus.rpy:584
     old "Quick"
-    new ""
+    new "Rápido"
 
     # game/code/screens/menus.rpy:607
     old "Ren'Py Save Sync"
-    new ""
+    new "Sync de Save Ren'Py"
 
     # game/code/screens/menus.rpy:620
     old "Manage your saves for Book 2"
-    new ""
+    new "Gerencie seus saves para o Livro 2"
 
     # game/code/screens/menus.rpy:817
     old "Dialogue Box Opacity"
-    new ""
+    new "Opacidade da Caixa de diálogo"
 
     # game/code/screens/menus.rpy:824
     old "Master Volume"
-    new ""
+    new "Volume Geral"
 
 translate portuguese strings:
 
     # game/code/screens/menus.rpy:308
     old "Wishlist Taboo University on Steam"
-    new ""
+    new "Ponha Taboo University na sua lista de Desejos da Steam"
 
     # game/code/screens/menus.rpy:824
     old "Analytics"
-    new ""
+    new "Estatísticas"
 
     # game/code/screens/menus.rpy:829
     old "We only collect anonymous data about in-game choices."
-    new ""
+    new "Coletamos apenas dados anônimos sobre escolhas feitas no jogo."
 
