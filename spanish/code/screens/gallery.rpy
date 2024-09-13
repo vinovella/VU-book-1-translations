@@ -20,8 +20,6 @@ translate spanish strings:
     old "Page [page]"
     new "Página [page]"
 
-translate spanish strings:
-
     # game/code/screens/gallery.rpy:102
     old "None"
     new "Ninguno"
@@ -29,8 +27,6 @@ translate spanish strings:
     # game/code/screens/gallery.rpy:105
     old "Close"
     new "Cerrar"
-
-translate spanish strings:
 
     # game/code/screens/gallery.rpy:44
     old "Character Filter: [character_filter!t]"
