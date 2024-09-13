@@ -8,5 +8,5 @@ translate spanish strings:
 
     # game/code/screens/language.rpy:81
     old "Choose Language"
-    new "Choose Language"
+    new "Elegir idioma"
 
