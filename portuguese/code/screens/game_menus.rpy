@@ -272,9 +272,9 @@ translate portuguese strings:
 
     # game/code/screens/game_menus.rpy:142
     old "«"
-    new ""
+    new "«"
 
     # game/code/screens/game_menus.rpy:158
     old "»"
-    new ""
+    new "»"
 
