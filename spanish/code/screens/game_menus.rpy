@@ -22,7 +22,7 @@ translate spanish strings:
 
     # game/code/screens/game_menus.rpy:104
     old "Naming save file:"
-    new "Nombre de Guardar:"
+    new "Nombre del archivo de guardado:"
 
     # game/code/screens/game_menus.rpy:105
     old "Enabled"
@@ -230,7 +230,7 @@ translate spanish strings:
 
     # game/code/screens/game_menus.rpy:575
     old "Right Click"
-    new "Botón derecho del ratón"
+    new "Click derecho"
 
     # game/code/screens/game_menus.rpy:579
     old "Mouse Wheel Up\nClick Rollback Side"
@@ -254,7 +254,7 @@ translate spanish strings:
 
     # game/code/screens/game_menus.rpy:603
     old "D-Pad, Sticks"
-    new "D-Pad palos"
+    new "D-Pad, Palancas"
 
     # game/code/screens/game_menus.rpy:607
     old "Start, Guide"
