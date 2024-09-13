@@ -8,7 +8,7 @@ translate spanish b1c01s01_ebc5e62c:
 translate spanish b1c01s01_a1c8d635:
 
     # mom "Promise to be good. For me. Don't get into trouble, and eat well! You promise?"
-    mom "Promete portarte bien. Por mí. ¡No te metas en líos y aliméntate bien! ¿Lo prometes?"
+    mom "Promete portarte bien. Por mí. ¡No te metas en problemas y aliméntate bien! ¿Lo prometes?"
 
 # game/code/Book-1/Chapter-1/s01.rpy:20
 translate spanish b1c01s01_2897b762:
@@ -80,5 +80,5 @@ translate spanish strings:
 
     # game/code/Book-1/Chapter-1/s01.rpy:91
     old "Max"
-    new "máx."
+    new "Max"
 
