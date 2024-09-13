@@ -34,7 +34,7 @@ translate spanish strings:
 
     # game/code/data/ib_descriptions.rpy:2
     old "Went missing February 15th during the Winner's Club party"
-    new "Desapareció el 15 de febrero durante la fiesta del Club de Ganadores."
+    new "Desapareció el 15 de febrero durante la fiesta del Club de los Ganadores."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Used to be Nia's Guide."
@@ -62,7 +62,7 @@ translate spanish strings:
 
     # game/code/data/ib_descriptions.rpy:2
     old "Involved with the Winner's Club"
-    new "Involucrada con el Club de Ganadores."
+    new "Involucrada con el Club de los Ganadores."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Got mentoring from Diana Mills."
@@ -90,7 +90,7 @@ translate spanish strings:
 
     # game/code/data/ib_descriptions.rpy:2
     old "Does not have enough power within the Winner's Club to allow outsiders to come in or choose new candidates."
-    new "No tiene suficiente poder dentro del Club de Ganadores para permitir que personas externas entren o elijan nuevos candidatos."
+    new "No tiene suficiente poder dentro del Club de los Ganadores para permitir que personas externas entren o elijan nuevos candidatos."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Andrejz and Silvia used to date."
@@ -106,7 +106,7 @@ translate spanish strings:
 
     # game/code/data/ib_descriptions.rpy:2
     old "Friends with Simon."
-    new "Amiga de Simon."
+    new "Amiga de Simón."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Attends the shooting range often."
@@ -122,11 +122,11 @@ translate spanish strings:
 
     # game/code/data/ib_descriptions.rpy:2
     old "Has high enough clearance to enter the Guns n' Rosette bar through the employee only door."
-    new "Tiene suficiente altura para entrar en el bar Guns n' Rosette por la puerta sólo para empleados."
+    new "Tiene altura suficiente para entrar en el bar Guns n' Rosette por la puerta exclusiva para empleados."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Zemfira is technically a member of the Winner's Club, but prefers to be in her current group."
-    new "Zemfira es técnicamente miembro del Club de Ganadores, pero prefiere estar en su grupo actual."
+    new "Zemfira es técnicamente miembro del Club de los Ganadores, pero prefiere estar en su grupo actual."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Zemfira used to be friends with Brigitta, but had a falling out."
@@ -170,7 +170,7 @@ translate spanish strings:
 
     # game/code/data/ib_descriptions.rpy:2
     old "Theater actor. Knows Nia."
-    new "Actriz de teatro. Conoce a Nía."
+    new "Actriz de teatro. Conoce a Nia."
 
     # game/code/data/ib_descriptions.rpy:2
     old "She is the guide of Nia and me."
@@ -182,7 +182,7 @@ translate spanish strings:
 
     # game/code/data/ib_descriptions.rpy:2
     old "Friends with Zemfira."
-    new "Amigo de Zemfira."
+    new "Amiga de Zemfira."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Simon has asked Silvia out multiple times."
@@ -194,7 +194,7 @@ translate spanish strings:
 
     # game/code/data/ib_descriptions.rpy:2
     old "My roommate."
-    new "Es mi compañera de cuarto"
+    new "Es mi compañera de cuarto."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Transgender"
@@ -274,7 +274,7 @@ translate spanish strings:
 
     # game/code/data/ib_descriptions.rpy:2
     old "There seems to be some tension between her and Monika."
-    new "Parece haber cierta tensión entre ella y Monika."
+    new "Parece haber cierta tensión entre ella y Mónica."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Olesya is noticeably absent from the party. Need to find out why."
@@ -314,7 +314,7 @@ translate spanish strings:
 
     # game/code/data/ib_descriptions.rpy:2
     old "Fleur had an explicit stream of Sabrina on her Laptop."
-    new "Fleur tenía una transmisión explícita de Sabrina en su computadora portátil."
+    new "Fleur tenía un stream explícito de Sabrina en su computadora portátil."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Fleur is managing a server for some sort of streams."
@@ -326,7 +326,7 @@ translate spanish strings:
 
     # game/code/data/ib_descriptions.rpy:2
     old "Foxy is the hype-man for the fights."
-    new "Foxy es el bombo publicitario de las peleas."
+    new "Foxy es quien promociona las peleas."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Friends with Fleur and Zemfira."
@@ -334,7 +334,7 @@ translate spanish strings:
 
     # game/code/data/ib_descriptions.rpy:2
     old "Has seen me and Phoebe kissing in the park. Potential real identity explosion risk."
-    new "Me ha visto a Phoebe y a mí besándonos en el parque. Riesgo potencial de explosión de identidad real."
+    new "Nos ha visto a Phoebe y a mí besándonos en el parque. Riesgo potencial de explosión de su verdadera identidad."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Asami and Lilith are event coordinators for their group."
@@ -342,7 +342,7 @@ translate spanish strings:
 
     # game/code/data/ib_descriptions.rpy:2
     old "Friends with Zemfira and Fleur."
-    new "Amiga de Zemfira y Fleur."
+    new "Amigo de Zemfira y Fleur."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Was sentenced imprisonment because of physically assaulting someone."
@@ -374,7 +374,7 @@ translate spanish strings:
 
     # game/code/data/ib_descriptions.rpy:2
     old "Morgan is a fighter in an illegal fight club."
-    new "Morgan es un luchador en un club de lucha ilegal."
+    new "Morgan es una luchadora en un club de lucha ilegal."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Corinne has something to do with the amount of debt Morgan's in."
@@ -390,7 +390,7 @@ translate spanish strings:
 
     # game/code/data/ib_descriptions.rpy:2
     old "Friends with Morgan. Cori's assault victim."
-    new "Amigos con Morgan. La víctima de asalto de Cori."
+    new "Amiga de Morgan. La víctima de asalto de Cori."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Rory is indebted to the enemy gang Cade is involved with."
@@ -418,7 +418,7 @@ translate spanish strings:
 
     # game/code/data/ib_descriptions.rpy:2
     old "Friends with Quentin and Sabrina"
-    new "Amigos con Quentin y Sabrina"
+    new "Amiga con Quentin y Sabrina"
 
     # game/code/data/ib_descriptions.rpy:2
     old "Nirmala performs \"favors\" to pay off her betting debt."
@@ -426,7 +426,7 @@ translate spanish strings:
 
     # game/code/data/ib_descriptions.rpy:2
     old "Friends with Quentin and Nirmala."
-    new "Amigos de Quentin y Nirmala."
+    new "Amiga de Quentin y Nirmala."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Sabrina used to be in a gang with her ex, Cade."
@@ -442,7 +442,7 @@ translate spanish strings:
 
     # game/code/data/ib_descriptions.rpy:2
     old "Guided by Irene, and a higher rank than Lumi."
-    new "Guiado por Irene, y un rango más alto que Lumi."
+    new "Guiada por Irene, y tiene un rango más alto que Lumi."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Butcher's sister."
@@ -510,7 +510,7 @@ translate spanish strings:
 
     # game/code/data/ib_descriptions.rpy:2
     old "A {i}lover{/i} of Maria's. Ezra was very intimate with Maria and is lost without her."
-    new "Un {i}amante{/i} de María. Ezra era muy íntima con María y está perdida sin ella."
+    new "Una {i}amante{/i} de María. Ezra era muy íntima con María y está perdida sin ella."
 
     # game/code/data/ib_descriptions.rpy:2
     old "She told me that Maria was a part of intense {i}rituals{/i} within the self-help group and that she enjoyed participating in them."
@@ -522,11 +522,11 @@ translate spanish strings:
 
     # game/code/data/ib_descriptions.rpy:2
     old "Was previously involved with the Winner's Club."
-    new "Anteriormente estuvo involucrada con el Club de Ganadores."
+    new "Anteriormente estuvo involucrada con el Club de los Ganadores."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Stalks the Winner's Club."
-    new "Acecha el Club de Ganadores."
+    new "Acecha el Club de los Ganadores."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Hates Isa. Wants revenge."
@@ -538,7 +538,7 @@ translate spanish strings:
 
     # game/code/data/ib_descriptions.rpy:2
     old "Sam told that members of a rival team are in town and might be planning to spy on the Winner's Club."
-    new "Sam dijo que los miembros de un equipo rival están en la ciudad y podrían estar planeando espiar al Club de Ganadores."
+    new "Sam dijo que los miembros de un equipo rival están en la ciudad y podrían estar planeando espiar al Club de los Ganadores."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Sam's got some sort of plan in motion. It's clear she's playing a deep game."
@@ -554,7 +554,7 @@ translate spanish strings:
 
     # game/code/data/ib_descriptions.rpy:2
     old "Does she want Isa or does she want to hurt her?"
-    new "¿Quieres a Isa o quiere hacerle daño?"
+    new "¿Quiere a Isa o quiere hacerle daño?"
 
     # game/code/data/ib_descriptions.rpy:2
     old "Got kicked from the Winner's Club because she crashed an important party that Isa threw."
@@ -570,7 +570,7 @@ translate spanish strings:
 
     # game/code/data/ib_descriptions.rpy:2
     old "New member of the self-help group."
-    new "Nueva integrante del grupo de autoayuda."
+    new "Nuevo integrante del grupo de autoayuda."
 
     # game/code/data/ib_descriptions.rpy:2
     old "I have to convince Lumi to get a tattoo of the self-help group's symbol so I can advance in their ranking."
@@ -578,7 +578,7 @@ translate spanish strings:
 
     # game/code/data/ib_descriptions.rpy:2
     old "Guided by Irene."
-    new "Guiado por Irene."
+    new "Guiada por Irene."
 
     # game/code/data/ib_descriptions.rpy:2
     old "The self-help group seems to be putting significant pressure on her to get tattooed"
@@ -590,7 +590,7 @@ translate spanish strings:
 
     # game/code/data/ib_descriptions.rpy:2
     old "Member of The Winner's Club."
-    new "Miembro del Club de Ganadores."
+    new "Miembro del Club de los Ganadores."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Used to date Sam."
@@ -602,7 +602,7 @@ translate spanish strings:
 
     # game/code/data/ib_descriptions.rpy:2
     old "Isa orchestrated Sam's exile from the Winner's Club."
-    new "Isa orquestó el exilio de Sam del Club de Ganadores."
+    new "Isa orquestó el exilio de Sam del Club de los Ganadores."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Caught spying on our practice."
@@ -648,23 +648,23 @@ translate spanish strings:
 
     # game/code/data/ib_descriptions.rpy:2
     old "Recently ended a relationship with her boyfriend. Feeling vulnerable and burdened by managerial duties and recent events."
-    new "Recientemente terminó una relación con su novio. Sentirse vulnerable y agobiada por los deberes directivos y los acontecimientos recientes."
+    new "Ha terminado recientemente una relación con su novio. Se siente vulnerable y agobiada por las obligaciones directivas y los acontecimientos recientes."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Designated as the backup leader in case of emergency during the rescue operation. Indicates trust and responsibility within The Syndicate."
-    new "Designado como líder de respaldo en caso de emergencia durante la operación de rescate. Indica confianza y responsabilidad dentro de El Sindicato."
+    new "Designada como líder de respaldo en caso de emergencia durante la operación de rescate. Indica confianza y responsabilidad dentro de El Sindicato."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Nia doesn't see how the self-help group is a cult, she's already too indoctrinated."
-    new "Nia no ve cómo el grupo de autoayuda es una secta, ya está demasiado adoctrinada."
+    new "Nia no ve al grupo de autoayuda como una secta, ya está demasiado adoctrinada."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Good friends with Monika."
-    new "Una buena amiga de Mónica."
+    new "Un buen amigo de Mónica."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Simon knows about what I did with Monika at the hotel."
-    new "Simón sabe lo que hice con Monika en el hotel."
+    new "Simón sabe lo que hice con Mónica en el hotel."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Regularly participates in drug use, familiar with the process."
@@ -676,19 +676,19 @@ translate spanish strings:
 
     # game/code/data/ib_descriptions.rpy:2
     old "Reluctantly participates in drug use, appears uncomfortable with the situation."
-    new "Participa de mala gana en el consumo de drogas, parece incómodo con la situación."
+    new "Participa de mala gana en el consumo de drogas, parece incómoda con la situación."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Iona knows about what I did with Monika at the hotel."
-    new "Iona sabe lo que hice con Monika en el hotel."
+    new "Iona sabe lo que hice con Mónica en el hotel."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Focused on gaining a strategic advantage in the upcoming tournament against CCC."
-    new "Centrado en obtener una ventaja estratégica en el próximo torneo contra CCC."
+    new "Centrada en obtener una ventaja estratégica en el próximo torneo contra CCC."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Good friends with Simon."
-    new "Buenos amigos de Simón."
+    new "Una buena amiga de Simón."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Expresses strong dislike and distrust towards Olesya, referring to her as \"murderous\"."
@@ -712,7 +712,7 @@ translate spanish strings:
 
     # game/code/data/ib_descriptions.rpy:2
     old "Monika describes Olesya as being murderous."
-    new "Monika describe a Olesya como una asesina."
+    new "Mónica describe a Olesya como una asesina."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Shows hesitation and discomfort regarding the team's drug use."
@@ -732,7 +732,7 @@ translate spanish strings:
 
     # game/code/data/ib_descriptions.rpy:2
     old "Advocates for and administers performance-enhancing drugs to the team, emphasizing a win-at-all-costs mentality"
-    new "Defiende y administra drogas para mejorar el rendimiento del equipo, enfatizando una mentalidad de ganar a toda costa."
+    new "Defiende y administra al equipo drogas para mejorar el rendimiento, haciendo hincapié en una mentalidad de ganar a toda costa."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Allegedly responsible for a change in the drug schedule for the volleyball team which might be due to my adverse reaction to the drug."
@@ -748,7 +748,7 @@ translate spanish strings:
 
     # game/code/data/ib_descriptions.rpy:2
     old "Brigitta knows about what I did with Monika at the hotel."
-    new "Brigitta sabe lo que hice con Monika en el hotel."
+    new "Brigitta sabe lo que hice con Mónica en el hotel."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Reveals a history of violence and survival, indicating a tough upbringing."
@@ -764,11 +764,11 @@ translate spanish strings:
 
     # game/code/data/ib_descriptions.rpy:2
     old "Allegedly kidnapped by Cade and taken to a warehouse controlled by The Wasps."
-    new "Supuestamente secuestrado por Cade y llevado a un almacén controlado por Las Avispas."
+    new "Supuestamente secuestrada por Cade y llevada a un almacén controlado por Las Avispas."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Xasan intends to bomb The Wasps."
-    new "Xasan tiene la intención de bombardear Las Avispas."
+    new "Xasan tiene la intención de bombardear a Las Avispas."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Allegedly kidnapped Nirmala, Sabrina, and Q."
@@ -808,11 +808,11 @@ translate spanish strings:
 
     # game/code/data/ib_descriptions.rpy:2
     old "Hellena wants to strike a deal with the leader of The Syndicate."
-    new "Hellena quiere llegar a un acuerdo con el líder de EL Sindicato."
+    new "Hellena quiere llegar a un acuerdo con el líder de El Sindicato."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Seen with The Syndicate. Potentially connected."
-    new "Visto con El Sindicato. Potencialmente conectado."
+    new "Se le ha visto con El Sindicato. Potencialmente conectada."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Captain of the rival CCC volleyball team."
@@ -864,107 +864,108 @@ translate spanish strings:
 
 translate spanish strings:
 
-    # game/code/data/ib_descriptions.rpy:2
+   # game/code/data/ib_descriptions.rpy:2
     old "Bonded with Nia and Zemfira over their missing friends."
-    new "Bonded with Nia and Zemfira over their missing friends."
+    new "Unida a Nia y Zemfira por sus amigas desaparecidas."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Bonded with Silvia and Nia over their missing friends.."
-    new "Bonded with Silvia and Nia over their missing friends.."
+    new "Unida a Silvia y Nia por sus amigas desaparecidas."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Bonded with Zemfira and Silvia over their missing friends."
-    new "Bonded with Zemfira and Silvia over their missing friends."
+    new "Unida a Zemfira y Silvia por sus amigas desaparecidas."
 
     # game/code/data/ib_descriptions.rpy:2
     old "She is into rope play and watersports."
-    new "She is into rope play and watersports."
+    new "Le gustan los juegos de cuerdas y los deportes acuáticos."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Friends with Olesya."
-    new "Friends with Olesya."
+    new "Amigos de Olesya."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Iona is into voyeurism/public sex."
-    new "Iona is into voyeurism/public sex."
+    new "A Iona le gusta el voyeurismo y el sexo en público."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Half-sibling of Monika."
-    new "Half-sibling of Monika."
+    new "Media hermana de Mónica."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Friends with Josie."
-    new "Friends with Josie."
+    new "Amiga de Josie."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Has secret conversations with Prof. Harlan."
-    new "Has secret conversations with Prof. Harlan."
+    new "Tiene conversaciones secretas con el profesor Harlan."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Fleur likes to be soft dommed."
-    new "Fleur likes to be soft dommed."
+    new "A Fleur le gusta que la dominen suavemente."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Lilith helps Asami with the party planning, and Foxy with managing the fighters."
-    new "Lilith helps Asami with the party planning, and Foxy with managing the fighters."
+    new "Lilith ayuda a Asami con la planificación de la fiesta y a Foxy con la gestión de los luchadores."
 
     # game/code/data/ib_descriptions.rpy:2
     old "The cult is pressuring Eliina to get pregnant."
-    new "The cult is pressuring Eliina to get pregnant."
+    new "La secta está presionando a Eliina para que quede embarazada."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Winner's Club's party host."
-    new "Winner's Club's party host."
+    new "Anfitriona de la fiesta del Club de los Ganadores."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Has a file drawer in the employee section of the fight club."
-    new "Has a file drawer in the employee section of the fight club."
+    new "Tiene un archivador en la sección de empleados del club de lucha."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Keeps random trash in her file drawer."
-    new "Keeps random trash in her file drawer."
+    new "Guarda basura al azar en su cajón de archivos."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Gabbie has possession of Leia's phone."
-    new "Gabbie has possession of Leia's phone."
+    new "Gabbie tiene posesión del teléfono de Leia."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Gabbie had conflict with Leia."
-    new "Gabbie had conflict with Leia."
+    new "Gabbie tuvo un conflicto con Leia."
 
     # game/code/data/ib_descriptions.rpy:2
     old "#1 suspect in Leia's disappearance."
-    new "#1 suspect in Leia's disappearance."
+    new "Sospechosa número uno en la desaparición de Leia."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Knows that Brig passes out drugs to the Winners. Seems to encourage it."
-    new "Knows that Brig passes out drugs to the Winners. Seems to encourage it."
+    new "Sabe que Brig reparte drogas a los ganadores. Parece alentarlo."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Something happened with Klara."
-    new "Something happened with Klara."
+    new "Algo pasó con Klara."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Harlan had conflict with Klara."
-    new "Harlan had conflict with Klara."
+    new "Harlan tuvo un conflicto con Klara."
 
     # game/code/data/ib_descriptions.rpy:2
     old "He is the #1 suspect in Klara's disappearance."
-    new "He is the #1 suspect in Klara's disappearance."
+    new "Es el sospechoso número uno de la desaparición de Klara."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Seems to be a high-ranking member of the cult."
-    new "Seems to be a high-ranking member of the cult."
+    new "Parece ser un miembro de alto rango de la secta."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Had a conflict with a crazy ex or something."
-    new "Had a conflict with a crazy ex or something."
+    new "Tuvo un conflicto con un ex loco o algo así."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Kara did not have a crazy ex. She had conflict with Maria."
-    new "Kara did not have a crazy ex. She had conflict with Maria."
+    new "Kara no tenía un ex loco. Tuvo un conflicto con María."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Kara is #1 suspect in Maria's disappearance."
-    new "Kara is #1 suspect in Maria's disappearance."
+    new "Kara es la sospechosa número uno en la desaparición de María."
+
 
