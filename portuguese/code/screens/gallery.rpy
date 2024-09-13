@@ -8,41 +8,41 @@ translate portuguese strings:
 
     # game/code/screens/gallery.rpy:9
     old "CG Gallery"
-    new ""
+    new "Galeria CG"
 
     # game/code/screens/gallery.rpy:15
     old "Replay Room"
-    new ""
+    new "Sala de Replay"
 
     # game/code/screens/gallery.rpy:21
     old "Bonus Content"
-    new ""
+    new "Conteúdo Bônus"
 
     # game/code/screens/gallery.rpy:27
     old "Hints on"
-    new ""
+    new "Dicas ligadas"
 
     # game/code/screens/gallery.rpy:27
     old "Hints off"
-    new ""
+    new "Dicas desligadas"
 
     # game/code/screens/gallery.rpy:33
     old "Page [page]"
-    new ""
+    new "Página [page]"
 
 translate portuguese strings:
 
     # game/code/screens/gallery.rpy:102
     old "None"
-    new ""
+    new "Nada"
 
     # game/code/screens/gallery.rpy:105
     old "Close"
-    new ""
+    new "Fechar"
 
 translate portuguese strings:
 
     # game/code/screens/gallery.rpy:44
     old "Character Filter: [character_filter]"
-    new ""
+    new "Filtrar Personnagem: [character_filter]"
 
