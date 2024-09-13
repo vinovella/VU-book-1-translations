@@ -278,7 +278,7 @@ translate spanish strings:
 
     # game/code/data/ib_characters.rpy:9
     old "Leia"
-    new "Leía"
+    new "Leia"
 
     # game/code/data/ib_characters.rpy:9
     old "de la Cruz"
@@ -446,7 +446,7 @@ translate spanish strings:
 
     # game/code/data/ib_characters.rpy:48
     old "Cult"
-    new "Culto"
+    new "El Culto"
 
     # game/code/data/ib_characters.rpy:9
     old "Andrzej"
@@ -458,7 +458,7 @@ translate spanish strings:
 
     # game/code/data/ib_characters.rpy:48
     old "Bartender"
-    new "Camarera"
+    new "Camarero"
 
 translate spanish strings:
 
@@ -528,7 +528,7 @@ translate spanish strings:
 
     # game/code/data/ib_characters.rpy:48
     old "The Prophet"
-    new "El Profeta"
+    new "La Profeta"
 
     # game/code/data/ib_characters.rpy:48
     old "Welch"
