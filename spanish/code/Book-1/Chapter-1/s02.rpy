@@ -2,7 +2,7 @@
 translate spanish b1c01s02_3ad1d948:
 
     # sm "We are so honored you chose Vinovella University."
-    sm "Nos sentimos muy honrados de que haya elegido la Universidad Vinovella."
+    sm "Nos sentimos muy honrados de que hayas elegido la Universidad Vinovella."
 
 # game/code/Book-1/Chapter-1/s02.rpy:15
 translate spanish b1c01s02_7a254a7f:
@@ -224,7 +224,7 @@ translate spanish b1c01s02_54d2d4b0:
 translate spanish b1c01s02_ffaa290b:
 
     # sm "The one and only."
-    sm "El único e inigualable."
+    sm "La única e inigualable."
 
 # game/code/Book-1/Chapter-1/s02.rpy:112
 translate spanish b1c01s02_9a3bf744:
@@ -254,13 +254,13 @@ translate spanish b1c01s02_53b785b0:
 translate spanish b1c01s02_16aac6f9:
 
     # sm "She can help you find textbooks, articles, and anything else library-related."
-    sm "Ella puede ayudarlo a encontrar libros de texto, artículos y cualquier otra cosa relacionada con la biblioteca."
+    sm "Ella puede ayudarte a encontrar libros de texto, artículos y cualquier otra cosa relacionada con la biblioteca."
 
 # game/code/Book-1/Chapter-1/s02.rpy:132
 translate spanish b1c01s02_41f12698:
 
     # sm "You'll probably see her again when you pick up your textbooks for class. She's really nice."
-    sm "Probablemente la volverás a ver cuando recojas tus libros de texto para clase. Ella es muy simpática."
+    sm "Probablemente la volverás a ver cuando recojas tus libros de texto para la clase. Ella es muy simpática."
 
 # game/code/Book-1/Chapter-1/s02.rpy:139
 translate spanish b1c01s02_d0682b76:
@@ -482,7 +482,7 @@ translate spanish b1c01s02_59625e40:
 translate spanish b1c01s02_c7d9f250:
 
     # mct "Oh shit...!"
-    mct "Oh, mierda...!"
+    mct "¡Oh, mierda...!"
 
 # game/code/Book-1/Chapter-1/s02.rpy:268
 translate spanish b1c01s02m01_699878f6:
@@ -632,7 +632,7 @@ translate spanish b1c01s02m01_5b5d0966:
 translate spanish b1c01s02m01_96619ca0:
 
     # mc "She shouldn't have talked to you like that."
-    mc "Ella no debería haberte hablado así."
+    mc "Ella no debería haberte hablado de esa manera."
 
 # game/code/Book-1/Chapter-1/s02.rpy:389
 translate spanish b1c01s02m01_e5dc686b:
