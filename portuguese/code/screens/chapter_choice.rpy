@@ -12,15 +12,15 @@ translate portuguese strings:
 
     # game/code/screens/chapter_choice.rpy:23
     old "Investigate "
-    new ""
+    new "Investigar "
 
     # game/code/screens/chapter_choice.rpy:29
     old "You have already investigated "
-    new ""
+    new "Você já investigou "
 
 translate portuguese strings:
 
     # game/code/screens/chapter_choice.rpy:84
     old "You cannot investigate this group anymore"
-    new ""
+    new "VocÇe não pode mais investigar esse grupo"
 
