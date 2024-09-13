@@ -80,13 +80,13 @@ translate spanish b1c02s03_cdb3dad5:
 translate spanish b1c02s03_4db2cd25:
 
     # mo "Stop what?"
-    mo "¿Detener Qué?"
+    mo "¿Detener qué?"
 
 # game/code/Book-1/Chapter-2/s03.rpy:58
 translate spanish b1c02s03_9e68c61a:
 
     # pm "Us. This. Whatever's between us."
-    pm "A nosotros. Esto. Lo que sea que haya entre nosotros."
+    pm "Nosotros. Esto. Lo que sea que haya entre nosotros."
 
 # game/code/Book-1/Chapter-2/s03.rpy:61
 translate spanish b1c02s03_8ec8af18:
@@ -104,7 +104,7 @@ translate spanish b1c02s03_5de64578:
 translate spanish b1c02s03_b24455ba:
 
     # pm "You need to get information from students. Personal information. And you're expected to do whatever it takes to get that info."
-    pm "Necesita obtener información de los alumnos. Información personal. Y se espera que hagas lo que sea necesario para conseguir esa información."
+    pm "Necesitas obtener información de los alumnos. Información personal. Y se espera que hagas lo que sea necesario para conseguir esa información."
 
 # game/code/Book-1/Chapter-2/s03.rpy:68
 translate spanish b1c02s03_64e98aa4:
@@ -128,13 +128,13 @@ translate spanish b1c02s03_a7fd2898:
 translate spanish b1c02s03_dc29b406:
 
     # pm "Work comes first, [mcname]. But there are risks we have to consider, and petty emotions or drama can't interfere with this. Believe me, I'm proud that you were assigned this case—"
-    pm "El trabajo es lo primero, [mcname]. Pero hay riesgos que tenemos que considerar, y las pequeñas emociones o el drama no pueden interferir con esto. Créame, estoy orgullosa de que te hayan asignado este caso—"
+    pm "El trabajo es lo primero, [mcname]. Pero hay riesgos que tenemos que considerar, y las pequeñas emociones o el drama no pueden interferir con esto. Créeme, estoy orgullosa de que te hayan asignado este caso—"
 
 # game/code/Book-1/Chapter-2/s03.rpy:80
 translate spanish b1c02s03_0c5b2c6c:
 
     # mo "Did you do something to influence the Captain's decision? Is this just special treatment because of your influence?"
-    mo "¿Hiciste algo para influir en la decisión del Capitán? ¿Es este un trato especial debido a su influencia?"
+    mo "¿Hiciste algo para influir en la decisión del Capitán? ¿Es este un trato especial debido a tu influencia?"
 
 # game/code/Book-1/Chapter-2/s03.rpy:83
 translate spanish b1c02s03_5db710be:
@@ -194,7 +194,7 @@ translate spanish b1c02s03_24302dd0:
 translate spanish b1c02s03_0ea38a53:
 
     # pm "Before, I was just your teacher. But now, there are people's lives at stake. Our involvement could ruin our careers, and the integrity of the case."
-    pm "Antes, sólo era tu maestra. Pero ahora, hay vidas de personas en juego. Nuestra relación podría arruinar nuestras carreras, y la integridad del caso."
+    pm "Antes, sólo era tu profesora. Pero ahora, hay vidas de personas en juego. Nuestra relación podría arruinar nuestras carreras, y la integridad del caso."
 
 # game/code/Book-1/Chapter-2/s03.rpy:112
 translate spanish b1c02s03_ee317f1e:
