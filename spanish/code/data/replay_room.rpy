@@ -32,11 +32,11 @@ translate spanish strings:
 
     # game/code/data/replay_room.rpy:16
     old "C04: Painting Delphia"
-    new "C04: Delphia Pintando"
+    new "C04: Delphia Pintada"
 
     # game/code/data/replay_room.rpy:16
     old "C04: Locker Room Fling With Iona"
-    new "C04: Aventura con Iona"
+    new "C04: Aventura con Iona en los vestuarios"
 
     # game/code/data/replay_room.rpy:16
     old "You like partying."
@@ -60,7 +60,7 @@ translate spanish strings:
 
     # game/code/data/replay_room.rpy:16
     old "C06: Ronja Booty Call"
-    new "C06: Llamada de botín de Ronja"
+    new "C06: Llamada de culo de Ronja"
 
     # game/code/data/replay_room.rpy:16
     old "Call Ronja."
@@ -128,7 +128,7 @@ translate spanish strings:
 
     # game/code/data/replay_room.rpy:16
     old "C07: Bonding With Nia"
-    new "C07: Vinculación con Nia"
+    new "C07: Lazos con Nia"
 
     # game/code/data/replay_room.rpy:16
     old "C07: Getting Better Acquainted"
@@ -136,7 +136,7 @@ translate spanish strings:
 
     # game/code/data/replay_room.rpy:16
     old "C07: Finish What Delphia Started"
-    new "C07: Sexo con Delphia"
+    new "C07: Termina lo que Delphia empezó"
 
     # game/code/data/replay_room.rpy:16
     old "Help Delphia."
@@ -144,7 +144,7 @@ translate spanish strings:
 
     # game/code/data/replay_room.rpy:16
     old "C07: Seduce Irene"
-    new "C07: Seducir a Irene"
+    new "C07: Seduce a Irene"
 
     # game/code/data/replay_room.rpy:16
     old "Go all the way."
@@ -156,7 +156,7 @@ translate spanish strings:
 
     # game/code/data/replay_room.rpy:16
     old "Investigate the artist."
-    new "Investiga al artista."
+    new "Investiga a la artista."
 
     # game/code/data/replay_room.rpy:16
     old "C07: Karaoke With Nirmala"
@@ -212,7 +212,7 @@ translate spanish strings:
 
     # game/code/data/replay_room.rpy:16
     old "C08: Spiritual Awakening With Nia"
-    new "C08: Despertar espiritual con Nia"
+    new "C08: El despertar espiritual con Nia"
 
     # game/code/data/replay_room.rpy:16
     old "C08: Lumi's Punishment"
@@ -248,7 +248,7 @@ translate spanish strings:
 
     # game/code/data/replay_room.rpy:16
     old "C08: In The Boss's Bed"
-    new "C08: En la cama del jefe"
+    new "C08: En la cama de la jefa"
 
     # game/code/data/replay_room.rpy:16
     old "C08: Taking Care Of Zemfira"
@@ -256,7 +256,7 @@ translate spanish strings:
 
     # game/code/data/replay_room.rpy:16
     old "C08: Licking Morgan's Wounds"
-    new "C08: Sexo con Morgan"
+    new "C08: Lamiendo las heridas de Morgan"
 
     # game/code/data/replay_room.rpy:16
     old "Ask Morgan to stay."
@@ -272,7 +272,7 @@ translate spanish strings:
 
     # game/code/data/replay_room.rpy:16
     old "C08: Holding Moans With Monika"
-    new "C08: Sexo con Monika"
+    new "C08: Gimiendo con Mónica"
 
     # game/code/data/replay_room.rpy:16
     old "Give into the temptations."
@@ -324,7 +324,7 @@ translate spanish strings:
 
     # game/code/data/replay_room.rpy:16
     old "Investigate the Winners Club."
-    new "Investiga el Club de Ganadores."
+    new "Investiga el Club de los Ganadores."
 
     # game/code/data/replay_room.rpy:16
     old "C09: Flirting With Foxy & Lilith"
