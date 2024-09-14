@@ -32,7 +32,7 @@ translate spanish b1c04ns02_4dbd21d4:
 translate spanish b1c04ns02_bf872f5b:
 
     # rh "We're doing lab work on gallium and galinstan today, so you'll need a partner. Take a seat."
-    rh "Hoy estamos haciendo un trabajo de laboratorio sobre galio y galinstán, así que necesitarás un compañero. Toma asiento."
+    rh "Hoy estamos haciendo un trabajo de laboratorio sobre galio y galinstan, así que necesitarás un compañero. Toma asiento."
 
 # game/code/Book-1/Chapter-4n/s02.rpy:38
 translate spanish b1c04ns02_aa3fd575:
@@ -98,7 +98,7 @@ translate spanish b1c04ns02_ba8f114e:
 translate spanish b1c04ns02_86244a9d:
 
     # mc "I'm just messing around. I gotcha."
-    mc "Sólo estoy bromeando. Te tengo."
+    mc "Sólo estoy bromeando. Te entiendo."
 
 # game/code/Book-1/Chapter-4n/s02.rpy:69
 translate spanish b1c04ns02_9386a10a:
@@ -134,7 +134,7 @@ translate spanish b1c04ns02_36197466:
 translate spanish b1c04ns02_8783097d:
 
     # rh "You have an hour to perform your tests and write down your results."
-    rh "Tienen una hora para realizar sus pruebas y anotar tus resultados."
+    rh "Tienen una hora para realizar sus pruebas y anotar sus resultados."
 
 # game/code/Book-1/Chapter-4n/s02.rpy:90
 translate spanish b1c04ns02_b11935a2:
@@ -218,7 +218,7 @@ translate spanish b1c04ns02_4777addc:
 translate spanish b1c04ns02_8bd75584:
 
     # nv "Perfect. I was correct."
-    nv "Perfecto. yo estaba en lo correcto"
+    nv "Perfecto. yo estaba en lo correcto."
 
 # game/code/Book-1/Chapter-4n/s02.rpy:163
 translate spanish b1c04ns02_85207706:
@@ -530,13 +530,13 @@ translate spanish b1c04ns02_fc3219bf:
 translate spanish b1c04ns02_7568527c:
 
     # ef "I warned you. It's not my fault wise words fell on deaf ears."
-    ef "Te lo advertí. No es mi culpa que sabias palabras cayeran en oídos sordos."
+    ef "Te lo advertí. No es mi culpa que las sabias palabras cayeran en oídos sordos."
 
 # game/code/Book-1/Chapter-4n/s02.rpy:366
 translate spanish b1c04ns02_c048d9f4:
 
     # rh "Take this outside. Now!"
-    rh "Lleva esto afuera. ¡Ahora mismo!"
+    rh "Lleven esto afuera. ¡Inmediatamente!"
 
 # game/code/Book-1/Chapter-4n/s02.rpy:375
 translate spanish b1c04ns02_4b2f4592:
@@ -608,7 +608,7 @@ translate spanish b1c04ns02_0ac07d1d:
 translate spanish b1c04ns02_9012a9ac:
 
     # nv "And what was that like? That sounds like fun."
-    nv "¿Y cómo fue eso? Eso suena divertido."
+    nv "¿Y cómo estuvo eso? Suena divertido."
 
 # game/code/Book-1/Chapter-4n/s02.rpy:409
 translate spanish b1c04ns02_6235cb50:
@@ -656,7 +656,7 @@ translate spanish b1c04ns02_21d72db9:
 translate spanish b1c04ns02_1f41d141:
 
     # nv "I like making art that will be appreciated for a lifetime."
-    nv "Me gusta hacer arte que será apreciado toda la vida."
+    nv "Me gusta hacer arte que se apreciará toda la vida."
 
 # game/code/Book-1/Chapter-4n/s02.rpy:433
 translate spanish b1c04ns02_de1a2c3f:
@@ -686,7 +686,7 @@ translate spanish b1c04ns02_faeb5068:
 translate spanish b1c04ns02_fd71d60d:
 
     # nv "I know. It's mine."
-    nv "Lo sé. Es mio."
+    nv "Lo sé. Es mío."
 
 # game/code/Book-1/Chapter-4n/s02.rpy:449
 translate spanish b1c04ns02_6b0c3ab5:
@@ -728,7 +728,7 @@ translate spanish b1c04ns02_756d159c:
 translate spanish b1c04ns02_2a1909c4:
 
     # nv "I just think it's also important to have something that can't be corrupted. You do it because you love it. Nothing more."
-    nv "Creo que también es importante tener algo que no pueda corromperse. Lo haces porque te encanta. Nada mas."
+    nv "Creo que también es importante tener algo que no se pueda corromper. Lo haces porque te gusta. Nada más."
 
 # game/code/Book-1/Chapter-4n/s02.rpy:468
 translate spanish b1c04ns02_fcf340b6:
