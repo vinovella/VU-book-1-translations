@@ -8,7 +8,7 @@ translate spanish b1c04ns03_6f2bd419:
 translate spanish b1c04ns03_33c332da:
 
     # mct "Looks like there's one about a half mile from here."
-    mct "Parece que hay uno a media milla de aquí."
+    mct "Parece que hay una a media milla de aquí."
 
 # game/code/Book-1/Chapter-4n/s03.rpy:15
 translate spanish b1c04ns03_1b8f0569:
@@ -26,7 +26,7 @@ translate spanish b1c04ns03_3aab59db:
 translate spanish b1c04ns03_13492460:
 
     # mct "I should've asked Delphia where she expected me to get it from."
-    mct "Debería haberle preguntado a Delphia de dónde esperaba que lo sacara."
+    mct "Debería haberle preguntado a Delphia de dónde esperaba que la sacara."
 
 # game/code/Book-1/Chapter-4n/s03.rpy:21
 translate spanish b1c04ns03_70d1d6c2:
@@ -230,7 +230,7 @@ translate spanish b1c04ns03_2131991b:
 translate spanish b1c04ns03_9dc595bc:
 
     # mc "A cult? You believe in that stuff?"
-    mc "¿Un culto? ¿Crees en esas cosas?"
+    mc "¿Una secta? ¿Crees en esas cosas?"
 
 # game/code/Book-1/Chapter-4n/s03.rpy:125
 translate spanish b1c04ns03_326bd560:
@@ -302,19 +302,19 @@ translate spanish b1c04ns03_9f6efbda:
 translate spanish b1c04ns03_d8509999:
 
     # gd "I'll get ya the blood and send ya on your way.{w} Sally here will get ya ringed up."
-    gd "Te conseguiré la sangre y te sacaré de aquí.{w} Sally te llamará."
+    gd "Te conseguiré la sangre y te enviaré por tu camino.{w} Sally te llamará."
 
 # game/code/Book-1/Chapter-4n/s03.rpy:160
 translate spanish b1c04ns03_62dfce65:
 
     # sd "Cults exist here, y'know."
-    sd "Los cultos existen aquí, ya sabes."
+    sd "Las sectas existen aquí, ya sabes."
 
 # game/code/Book-1/Chapter-4n/s03.rpy:163
 translate spanish b1c04ns03_ad437d49:
 
     # sd "I was in one."
-    sd "Yo estaba en uno."
+    sd "Yo estaba en una."
 
 # game/code/Book-1/Chapter-4n/s03.rpy:172
 translate spanish b1c04ns03_bf85598f:
@@ -344,7 +344,7 @@ translate spanish b1c04ns03_715f5d1d:
 translate spanish b1c04ns03_2e8dae6c:
 
     # gd "Here ya go."
-    gd "Aqui tienes."
+    gd "Aquí tienes."
 
 # game/code/Book-1/Chapter-4n/s03.rpy:195
 translate spanish b1c04ns03_46db5837:
@@ -386,7 +386,7 @@ translate spanish b1c04ns03_4b81c702:
 translate spanish b1c04ns03_7005e8ff:
 
     # mct "I can't believe I just purchased pig's blood for some crazy theater girl like some errand boy."
-    mct "No puedo creer que acabe de comprar sangre de cerdo para una loca chica de teatro como si fuera el chico de los recados."
+    mct "No puedo creer que haya comprado sangre de cerdo para una loca chica de teatro como si fuera el chico de los recados."
 
 # game/code/Book-1/Chapter-4n/s03.rpy:220
 translate spanish b1c04ns03_c76d7bbc:
@@ -416,7 +416,7 @@ translate spanish b1c04ns03_17afbd89:
 translate spanish b1c04ns03_d8c2116d:
 
     # mct "Maybe I didn't lose that guy as well as I thought I did."
-    mct "Tal vez no perdí a ese tipo tan bien como pensé."
+    mct "Tal vez no perdí a ese tipo tan bien como creía."
 
 # game/code/Book-1/Chapter-4n/s03.rpy:230
 translate spanish b1c04ns03_595ef663:
@@ -446,19 +446,19 @@ translate spanish b1c04ns03_f2023c3f:
 translate spanish b1c04ns03_6522218a:
 
     # mct "Great. I should have plenty of time to make it to the seminar."
-    mct "Excelente. Tendría tiempo de sobra para llegar al seminario."
+    mct "Genial. Debería tener tiempo suficiente para llegar al seminario."
 
 # game/code/Book-1/Chapter-4n/s03.rpy:239
 translate spanish b1c04ns03_20b8c0d3:
 
     # mct "I swear I'm being tracked..."
-    mct "Juro que me están rastreando..."
+    mct "Juro que me están siguiendo..."
 
 # game/code/Book-1/Chapter-4n/s03.rpy:242
 translate spanish b1c04ns03_dad53505:
 
     # mct "And it's more concerning that I {i}feel{/i} the gaze, but don't see the stalker this time."
-    mct "Y es más preocupante que {i}siento{/i} la mirada, pero esta vez no veo al acosador."
+    mct "Y es más preocupante que {i}sienta{/i} la mirada, pero que esta vez no vea al acosador."
 
 # game/code/Book-1/Chapter-4n/s03.rpy:243
 translate spanish b1c04ns03_e534d3ee:
