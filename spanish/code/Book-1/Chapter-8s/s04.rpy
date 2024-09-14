@@ -1390,11 +1390,11 @@ translate spanish strings:
 translate spanish b1c08ss04_sex_e8f73632:
 
     # "She tastes so sweet. Her pussy twitches and greedily aches before you."
-    "She tastes so sweet. Her pussy twitches and greedily aches before you."
+    "Tiene un sabor tan dulce. Su coño se estremece y se agita con avidez frente a ti."
 
 # game/code/Book-1/Chapter-8s/s04.rpy:675
 translate spanish b1c08ss04_sex_4fd89c00:
 
     # "She grinds against your tongue, so desperate for more."
-    "She grinds against your tongue, so desperate for more."
+    "Rechina contra tu lengua, desesperada por más."
 
