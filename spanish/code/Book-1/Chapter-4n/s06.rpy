@@ -56,7 +56,7 @@ translate spanish b1c04ns06_6e61e15c:
 translate spanish b1c04ns06_a26e28db:
 
     # mc "What's the play about?"
-    mc "¿De qué trata la obra?"
+    mc "¿De qué se trata la obra?"
 
 # game/code/Book-1/Chapter-4n/s06.rpy:53
 translate spanish b1c04ns06_473712c0:
@@ -98,7 +98,7 @@ translate spanish b1c04ns06_ae4809e1:
 translate spanish b1c04ns06_b279742c:
 
     # mct "Oh, I remember her from chem class and the backstage area. I think her name is Monika?"
-    mct "Oh, la recuerdo de la clase de química y del backstage. ¿Creo que su nombre es Monika?"
+    mct "Oh, la recuerdo de la clase de química y de los camerinos. ¿Creo que su nombre es Mónica?"
 
 # game/code/Book-1/Chapter-4n/s06.rpy:78
 translate spanish b1c04ns06_c9746117:
@@ -122,13 +122,13 @@ translate spanish b1c04ns06_313a0460:
 translate spanish b01c04ns06m01_b6802e41:
 
     # mc "Wow, they're really going at it. I'm surprised he doesn't take her toga off and fuck her right here."
-    mc "Wow, realmente lo están haciendo. Me sorprende que no le quite la toga y se la folle aquí mismo."
+    mc "Wow, realmente lo están haciendo. Me sorprende que no le quite la toga y se la folle en este mismo lugar."
 
 # game/code/Book-1/Chapter-4n/s06.rpy:104
 translate spanish b01c04ns06m01_c5e8e9d3:
 
     # mc "Delphia must be thrilled to watch her 'parents' dry humping each other from backstage."
-    mc "Delphia debe estar encantada de ver a sus 'padres' follando en seco desde el backstage."
+    mc "Delphia debe estar encantada de ver a sus 'padres' follando en seco desde el camerino."
 
 # game/code/Book-1/Chapter-4n/s06.rpy:108
 translate spanish b01c04ns06m01_8921e5b5:
@@ -242,19 +242,19 @@ translate spanish b01c04ns06m01_933c76ba:
 translate spanish b01c04ns06m01_3ed7f88d:
 
     # dk "{font=fonts/Arial-Unicode.ttf}Ο Δίας με έχει φυλακίσει στα όρια του κρανίου του, {w}αλλά ελάχιστα ξέρει.{/font}"
-    dk "{font=fonts/Arial-Unicode.ttf}Ο Δίας με έχει φυλακίσει στα όρια του κρανίου του, {w}αλλά ελάχιστα ξέρει. {/font}"
+    dk "{font=fonts/Arial-Unicode.ttf}Ο Δίας με έχει φυλακίσει στα όρια του κρανίου του, {w}αλλά ελάχιστα ξέρει. (Júpiter me ha aprisionado en los confines de su cráneo, {w}pero él no sabe nada.) {/font}"
 
 # game/code/Book-1/Chapter-4n/s06.rpy:182
 translate spanish b01c04ns06m01_90bde31c:
 
     # dk "{font=fonts/Arial-Unicode.ttf}Δημιούργησε μια θεά του πολέμου, {w}ποιος θέλει τόσο πολύ.{/font}"
-    dk "{font=fonts/Arial-Unicode.ttf}Δημιούργησε μια θεά του πολέμου, {w}ποιος θέλει τόσο πολύ.{/font}"
+    dk "{font=fonts/Arial-Unicode.ttf}Δημιούργησε μια θεά του πολέμου, {w}ποιος θέλει τόσο πολύ. (Creó una diosa de la guerra, que tanto lo desea.){/font}"
 
 # game/code/Book-1/Chapter-4n/s06.rpy:184
 translate spanish b01c04ns06m01_5889a497:
 
     # dk "{font=fonts/Arial-Unicode.ttf}που λαχταρά την ικανότητα να εξερευνά, {w}και έτσι θα αναγκάσω τη δική μου γέννηση.{/font}"
-    dk "{font=fonts/Arial-Unicode.ttf}που λαχταρά την ικανότητα να εξερευνά, {w}και έτσι θα αναγκάσω τη δική μο υ γέννηση.{/font}"
+    dk "{font=fonts/Arial-Unicode.ttf}που λαχταρά την ικανότητα να εξερευνά, {w}και έτσι θα αναγκάσω τη δική μο υ γέννηση. (que anhela poder explorar, {w}y por eso forzaré mi propio nacimiento.){/font}"
 
 # game/code/Book-1/Chapter-4n/s06.rpy:188
 translate spanish b01c04ns06m01_36350808:
@@ -386,13 +386,13 @@ translate spanish b01c04ns06m01_fd8e04cb:
 translate spanish b01c04ns06m01_b39a3f52:
 
     # mct "Wow, they went all out with the thunder effects."
-    mct "Wow, hicieron todo lo posible con los efectos de los truenos."
+    mct "Vaya, se esforzaron bastante con los efectos de los truenos."
 
 # game/code/Book-1/Chapter-4n/s06.rpy:303
 translate spanish b01c04ns06m01_470f9ba9:
 
     # mct "Not to mention the fierce music."
-    mct "Por no hablar de la música feroz."
+    mct "Por no hablar de la intensa música."
 
 # game/code/Book-1/Chapter-4n/s06.rpy:315
 translate spanish b01c04ns06m01_c567ec72:
@@ -410,7 +410,7 @@ translate spanish b01c04ns06m01_b1beb4b1:
 translate spanish b01c04ns06m01_114f6f8e:
 
     # nv "Notice how the walls that surrounded Athena are gone now."
-    nv "Observe cómo los muros que rodeaban a Atenea ya no están."
+    nv "Observa cómo los muros que rodeaban a Atenea han desaparecido."
 
 # game/code/Book-1/Chapter-4n/s06.rpy:327
 translate spanish b01c04ns06m01_6a93b2dc:
@@ -434,13 +434,13 @@ translate spanish b01c04ns06m01_b9efc1df:
 translate spanish b01c04ns06m01_bc421157:
 
     # mc "Won't they come back for an encore?"
-    mc "¿No volverán para un bis?"
+    mc "¿No volverán para una repetición?"
 
 # game/code/Book-1/Chapter-4n/s06.rpy:349
 translate spanish b01c04ns06m01_c54a637e:
 
     # nv "Delphia doesn't believe in encores. She thinks they're conceited."
-    nv "Delphia no cree en los bises. Ella piensa que son engreídos."
+    nv "Delphia no cree en las repeticiones. Cree que son engreídos."
 
 # game/code/Book-1/Chapter-4n/s06.rpy:352
 translate spanish b01c04ns06m01_b0401bc9:
@@ -476,7 +476,7 @@ translate spanish b01c04ns06m01_ef1319e5:
 translate spanish b01c04ns06m01_d55c6bbe:
 
     # nv "Well that was fun to see!"
-    nv "Bueno, eso fue divertido de ver!"
+    nv "Bueno, ¡eso fue divertido de ver!"
 
 # game/code/Book-1/Chapter-4n/s06.rpy:371
 translate spanish b01c04ns06m01_c2108cc6:
