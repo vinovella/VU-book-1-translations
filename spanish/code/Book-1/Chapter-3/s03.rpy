@@ -62,7 +62,7 @@ translate spanish b1c03s03_0b8766fb:
 translate spanish b1c03s03_f299c409:
 
     # mct "Ugh, civilians. Does she think she's my boss?"
-    mct "Uf, civiles. ¿Se cree que es mi jefe?"
+    mct "Uf, civiles. ¿Se cree que es mi jefa?"
 
 # game/code/Book-1/Chapter-3/s03.rpy:58
 translate spanish b1c03s03_dc1fe683:
@@ -74,7 +74,7 @@ translate spanish b1c03s03_dc1fe683:
 translate spanish b1c03s03_d470fd30:
 
     # dm "I'm also the professor for History. As your Faculty Advisor, I'd advise you to attend my class, because I'm the only teacher who won't care what grade you get."
-    dm "También soy la profesora de Historia. Como su Consejera de Facultad, te aconsejo que asistas a mi clase, porque soy el único profesor al que no le importará la calificación que obtengas."
+    dm "También soy la profesora de Historia. Como consejera de tu facultad, te aconsejo que asistas a mi clase, porque soy la única profesora a la que no le importará la nota que obtengas."
 
 # game/code/Book-1/Chapter-3/s03.rpy:67
 translate spanish b1c03s03_a9d3f2b7:
@@ -92,7 +92,7 @@ translate spanish b1c03s03_2336add5:
 translate spanish b1c03s03_6aeb0cca:
 
     # dm "Silvia knew Klara Crawford. They were involved with the Winner's Club, which is a fraternity on campus."
-    dm "Silvia conocía a Klara Crawford. Estaban involucradas con el Club de Ganadores, que es una fraternidad en el campus."
+    dm "Silvia conocía a Klara Crawford. Estaban involucradas con el Club de los Ganadores, que es una fraternidad en el campus."
 
 # game/code/Book-1/Chapter-3/s03.rpy:72
 translate spanish b1c03s03_5bc6618b:
@@ -104,7 +104,7 @@ translate spanish b1c03s03_5bc6618b:
 translate spanish b1c03s03_176432c2:
 
     # mct "I remember Silvia saying she knew Klara... I bet I could join the volleyball team to get closer to Silvia, and the rest of the Winner's Club. I'll look around and see what they're about."
-    mct "Recuerdo que Silvia dijo que conocía a Klara... Apuesto a que podría unirme al equipo de voleibol para estar más cerca de Silvia y del resto del Club de Ganadores. Miraré alrededor y veré de qué se trata."
+    mct "Recuerdo que Silvia dijo que conocía a Klara... Apuesto a que podría unirme al equipo de voleibol para estar más cerca de Silvia y del resto del Club de los Ganadores. Miraré alrededor y veré de qué se trata."
 
 # game/code/Book-1/Chapter-3/s03.rpy:79
 translate spanish b1c03s03_c381c26e:
@@ -194,7 +194,7 @@ translate spanish b1c03s03_bab3f2da:
 translate spanish b1c03s03_6afe4154:
 
     # mct "It certainly gives her high standards."
-    mct "Ciertamente le da altos estándares."
+    mct "Ciertamente le da un alto nivel de exigencia."
 
 # game/code/Book-1/Chapter-3/s03.rpy:133
 translate spanish b1c03s03_b4151fbb:
