@@ -2026,11 +2026,11 @@ translate spanish strings:
 translate spanish b1c08cs08_ll_spanking_d643c708:
 
     # "She stands before you with a more confident expression, ready to take her punishment with dignity."
-    "She stands before you with a more confident expression, ready to take her punishment with dignity."
+    "Se presenta ante ti con una expresión más segura, dispuesta a asumir su castigo dignamente."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:891
 translate spanish b1c08cs08_ll_spanking_6c63b3c0:
 
     # "At Yvonne's silent cue, Sloan and Nerium also rise."
-    "At Yvonne's silent cue, Sloan and Nerium also rise."
+    "A la señal silenciosa de Yvonne, Sloan y Nerium también se levantan."
 
