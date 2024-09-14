@@ -564,5 +564,5 @@ translate spanish strings:
 translate spanish b1c08ss06_66242071:
 
     # "It's doubtful they've had more than a few moments out of these binds since their capture."
-    "It's doubtful they've had more than a few moments out of these binds since their capture."
+    "Es dudoso que hayan tenido más que unos pocos momentos fuera de estos amarres desde su captura."
 
