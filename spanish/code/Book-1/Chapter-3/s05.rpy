@@ -44,7 +44,7 @@ translate spanish b1c03s05_cbfc591a:
 translate spanish b1c03s05_640101dd:
 
     # lw "I'm not thrilled about having a new room mate."
-    lw "No estoy emocionada por tener un nuevo compañero de cuarto."
+    lw "No estoy emocionada por tener un nuevo compañero de habitación."
 
 # game/code/Book-1/Chapter-3/s05.rpy:53
 translate spanish b1c03s05_6a99a4d4:
@@ -134,7 +134,7 @@ translate spanish b1c03s05_695b2c74:
 translate spanish b1c03s05_f97f3811:
 
     # mc "Well, this will be a bit awkward, won't it? One of my new room mates knows me, and the other has already seen me naked."
-    mc "Bueno, esto será un poco incómodo, ¿no? Una de mis nuevas compañeras de cuarto me conoce, y la otra ya me ha visto desnudo."
+    mc "Bueno, esto será un poco incómodo, ¿no? Una de mis nuevas compañeras de habitación me conoce, y la otra ya me ha visto desnudo."
 
 # game/code/Book-1/Chapter-3/s05.rpy:104
 translate spanish b1c03s05_13556e6d:
@@ -170,7 +170,7 @@ translate spanish b1c03s05_fcf860aa:
 translate spanish b1c03s05_6d20d305:
 
     # mct "Well that backfired entirely."
-    mct "Bueno, eso fracasó por completo."
+    mct "Bueno, eso fue un completo fracaso."
 
 # game/code/Book-1/Chapter-3/s05.rpy:129
 translate spanish b1c03s05_2d09f85c:
@@ -194,13 +194,13 @@ translate spanish b1c03s05_2b5e23c5:
 translate spanish b1c03s05_6cded40f:
 
     # jh "Maybe if you could be trusted to {i}say{/i} it was okay."
-    jh "Tal vez si pudieras confiar en ti para {i}decir{/i} que estaba bien."
+    jh "Tal vez si pudiera confiar en ti para {i}decir{/i} que estaba bien."
 
 # game/code/Book-1/Chapter-3/s05.rpy:141
 translate spanish b1c03s05_5cc352a5:
 
     # lw "Oh, so we're just going with whatever's okay for [mcname], now?"
-    lw "Oh, ¿entonces vamos con lo que sea que esté bien para [mcname], ahora?"
+    lw "Oh, ¿entonces vamos con lo que sea que esté bien para [mcname]?"
 
 # game/code/Book-1/Chapter-3/s05.rpy:144
 translate spanish b1c03s05_a727415a:
@@ -416,7 +416,7 @@ translate spanish b1c03s05_b05413de:
 translate spanish b1c03s05_9131a2fd:
 
     # mc "Yeah, something like that."
-    mc "Si algo como eso."
+    mc "Sí, algo como eso."
 
 # game/code/Book-1/Chapter-3/s05.rpy:262
 translate spanish b1c03s05_9fe1de03:
@@ -506,7 +506,7 @@ translate spanish b1c03s05_4e61460f:
 translate spanish b1c03s05_38856fcf:
 
     # mc "Time will tell."
-    mc "El tiempo dirá."
+    mc "El tiempo lo dirá."
 
 # game/code/Book-1/Chapter-3/s05.rpy:308
 translate spanish b1c03s05_7dc449ac:
@@ -566,7 +566,7 @@ translate spanish b1c03s05_05b01327:
 translate spanish b1c03s05_bca75da2:
 
     # mc "Hold up. A blind girl taught you how to rock climb?"
-    mc "Espera. ¿Una chica ciega te enseñó a escalar?"
+    mc "Espera. ¿Una chica ciega te enseñó a hacer alpinismo?"
 
 # game/code/Book-1/Chapter-3/s05.rpy:336
 translate spanish b1c03s05_4c77ef90:
@@ -596,7 +596,7 @@ translate spanish b1c03s05_d114db31:
 translate spanish b1c03s05_7ee23090:
 
     # lw "Haha! Well, it's true, you {i}are{/i} a coward."
-    lw "¡Ja ja! Bueno, es verdad, {i}eres{/i} una cobarde."
+    lw "¡Jaja! Bueno, es verdad, {i}eres{/i} una cobarde."
 
 # game/code/Book-1/Chapter-3/s05.rpy:351
 translate spanish b1c03s05_e46735f5:
@@ -626,7 +626,7 @@ translate spanish b1c03s05_9c1dd0fa:
 translate spanish b1c03s05_ee2c73be:
 
     # mct "Lara probably wishes I'd pass {i}away.{/i}"
-    mct "Lara probablemente desearía que falleciera {i}. {/i}"
+    mct "Lara probablemente desearía que {i}desapareciera.{/i}"
 
 # game/code/Book-1/Chapter-3/s05.rpy:366
 translate spanish b1c03s05_f815cda3:
