@@ -32,7 +32,7 @@ translate spanish b1c04ns01_75dc0bdd:
 translate spanish b1c04ns01_43b1b27e:
 
     # mct "I bet she'd know more about Nia."
-    mct "Apuesto a que sabría más sobre Nia."
+    mct "Apuesto a que ella sabría más sobre Nia."
 
 # game/code/Book-1/Chapter-4n/s01.rpy:33
 translate spanish b1c04ns01_c509ab8a:
@@ -164,13 +164,13 @@ translate spanish b1c04ns01_cdf77422:
 translate spanish b1c04ns01_c9f3092e:
 
     # dk "Don't look at me like that. It's not like you sneaking into my dorm room to ask about a woman you haven't even met isn't any less questionable."
-    dk "No me mires así. No es como si colarte en mi dormitorio para preguntar por una mujer que ni siquiera conoces no fuera menos cuestionable."
+    dk "No me mires de esa manera. No es como si colarte en mi dormitorio para preguntar por una mujer que ni siquiera conoces no fuera menos cuestionable."
 
 # game/code/Book-1/Chapter-4n/s01.rpy:153
 translate spanish b1c04ns01_fd82c885:
 
     # mc "I didn't sneak in! I knocked multiple times but you couldn't hear it over your music."
-    mc "¡No me colé! Llamé a la puerta varias veces, pero no se oía con la música."
+    mc "¡No me colé! Toqué varias veces, pero no se oía con la música."
 
 # game/code/Book-1/Chapter-4n/s01.rpy:156
 translate spanish b1c04ns01_71b62e07:
@@ -212,19 +212,19 @@ translate spanish b1c04ns01_910b987c:
 translate spanish b1c04ns01_a3fe53e3:
 
     # dk "Nia's in chem class right now."
-    dk "Nia está en clase de química ahora mismo."
+    dk "Nia está en clase de química en este momento."
 
 # game/code/Book-1/Chapter-4n/s01.rpy:179
 translate spanish b1c04ns01_fafb15bc:
 
     # dk "The teacher's name is Ronja Hopkins."
-    dk "El nombre de la maestra es Ronja Hopkins."
+    dk "El nombre de la profesora es Ronja Hopkins."
 
 # game/code/Book-1/Chapter-4n/s01.rpy:180
 translate spanish b1c04ns01_0a68f23f:
 
     # dk "After you get the blood, you can bring the blood to me at the theater on campus."
-    dk "Después de obtener la sangre, puedes traérmela al teatro del campus."
+    dk "Después de obtener la sangre, puedes llevármela al teatro del campus."
 
 # game/code/Book-1/Chapter-4n/s01.rpy:183
 translate spanish b1c04ns01_3b5c56f2:
@@ -284,7 +284,7 @@ translate spanish b1c04ns01_11455b53:
 translate spanish b1c04ns01_842cf386:
 
     # dk "Nia. What do you want with her?"
-    dk "Nía. ¿Qué quieres con ella?"
+    dk "Nia. ¿Qué quieres con ella?"
 
 # game/code/Book-1/Chapter-4n/s01.rpy:210
 translate spanish b1c04ns01_7a85964e:
@@ -344,7 +344,7 @@ translate spanish b1c04ns01_e1b402ea:
 translate spanish b1c04ns01_9d97d990:
 
     # mc "Uh, yeah. I'll get it for you. Thanks for the info."
-    mc "Oh, sí. Yo te lo traigo. Gracias por la información."
+    mc "Oh, sí. Yo te la traigo. Gracias por la información."
 
 # game/code/Book-1/Chapter-4n/s01.rpy:236
 translate spanish b1c04ns01_a3b1a71e:
