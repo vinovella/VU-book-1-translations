@@ -106,12 +106,6 @@ translate turkish b1c08ws07_9e7f72d6:
     # "The crowd is already amped and ready, the air is charged with anticipation."
     "Kalabalık zaten heyecanlı ve hazır, hava beklentiyle dolu."
 
-# game/code/Book-1/Chapter-8w/s07.rpy:87
-translate turkish b1c08ws07_4ace5bf7:
-
-    # "Both teams eye each other as the referee talks things over with the captains."
-    "Hakem kaptanlarla konuşurken iki takım da birbirine bakıyor."
-
 # game/code/Book-1/Chapter-8w/s07.rpy:103
 translate turkish b1c08ws07_26b6775a:
 
@@ -598,12 +592,6 @@ translate turkish b1c08ws07_4960a53a:
     # sa "Alright, team, let's get back out there and take the final set. Stay focused, stay strong, and play like the winners we are."
     sa "Pekala takım, sahaya geri dönelim ve final setini alalım. Odaklanın, güçlü kalın ve kazanan bizmişiz gibi oynayın."
 
-# game/code/Book-1/Chapter-8w/s07.rpy:422
-translate turkish b1c08ws07_0e5f6808:
-
-    # "The CCC team serves, and the game is on once again"
-    "CCC takımı servis atıyor ve oyun bir kez daha başlıyor"
-
 # game/code/Book-1/Chapter-8w/s07.rpy:427
 translate turkish b1c08ws07_bc30ec1b:
 
@@ -1023,4 +1011,16 @@ translate turkish b1c08ws07_0b19e87b:
 
     # "You'd be worried about your predicament, but your consciousness quickly slips away too, leaving you all alone."
     "İçinde bulunduğun durum için endişelenirsin, ama bilincin de hızla kayıp gider ve seni yapayalnız bırakır."
+
+# game/code/Book-1/Chapter-8w/s07.rpy:89
+translate turkish b1c08ws07_cd88a85c:
+
+    # "Both teams eye each other."
+    "Both teams eye each other."
+
+# game/code/Book-1/Chapter-8w/s07.rpy:424
+translate turkish b1c08ws07_d8796b5f:
+
+    # "The CCC team serves, and the game is on once again."
+    "The CCC team serves, and the game is on once again."
 

@@ -832,12 +832,6 @@ translate spanish b1c08cs04_sex_5abaccd3:
     # "Her body still tenses around you, excitedly twitching and gripping your cock. She milks you dry of every last drop of cum."
     "Su cuerpo todavía se tensa a tu alrededor, moviéndose con entusiasmo y agarrando tu polla. Ella te ordeña hasta la última gota de semen."
 
-# game/code/Book-1/Chapter-8c/s04.rpy:492
-translate spanish b1c08cs04_sex_b6679e4b:
-
-    # "You pull out just as you and Lumi's bodies work themselves into oversensitivity."
-    "Te retiras justo cuando los cuerpos de Lumi y tú se vuelven hipersensibles."
-
 # game/code/Book-1/Chapter-8c/s04.rpy:498
 translate spanish b1c08cs04_sex_36d13bd6:
 
@@ -973,4 +967,10 @@ translate spanish strings:
     # game/code/Book-1/Chapter-8c/s04.rpy:232
     old "I'm not ready yet"
     new "No estoy listo todavía"
+
+# game/code/Book-1/Chapter-8c/s04.rpy:517
+translate spanish b1c08cs04_sex_dad6e589:
+
+    # "You pull out just as your bodies work themselves into oversensitivity."
+    "You pull out just as your bodies work themselves into oversensitivity."
 

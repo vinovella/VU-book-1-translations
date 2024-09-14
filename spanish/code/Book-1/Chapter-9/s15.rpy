@@ -670,12 +670,6 @@ translate spanish b1c09s15_sex_karaoke_end_d1f6e450:
     # "In response to seeing your pleasure, [c1.name] hums around your cock, her eyes locked with yours."
     "En respuesta a ver tu placer, [c1.name] tararea alrededor de tu polla, con sus ojos fijos en los tuyos."
 
-# game/code/Book-1/Chapter-9/s15.rpy:829
-translate spanish b1c09s15_sex_karaoke_end_aa6bfc90:
-
-    # "Meanwhile, [c2.name]'s nimble fingers dance along your balls and up your thighs, her nails leaving goosebumps in their wake."
-    "Mientras tanto, los ágiles dedos de [c2.name] bailan a lo largo de tus pelotas y suben por tus muslos, y sus uñas dejan la piel de gallina a su paso."
-
 # game/code/Book-1/Chapter-9/s15.rpy:830
 translate spanish b1c09s15_sex_karaoke_end_5ed57917:
 

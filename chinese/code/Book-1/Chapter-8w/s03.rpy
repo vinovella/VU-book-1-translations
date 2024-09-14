@@ -412,12 +412,6 @@ translate chinese b1c08ws03_91f4de83:
     # mc "Hey. It's not your fault."
     mc "嘿。这不是你的错。"
 
-# game/code/Book-1/Chapter-8w/s03.rpy:239
-translate chinese b1c08ws03_8b4b838b:
-
-    # "She catches you off guard with a kiss. It's a gentle warmth on your lips, but they carry a heaviness with so much emotion hidden behind."
-    "她的一个吻让你措手不及。唇齿间传递着轻柔的温暖，但背后却隐藏着沉重的情感。"
-
 # game/code/Book-1/Chapter-8w/s03.rpy:243
 translate chinese b1c08ws03_d7455b14:
 
@@ -525,4 +519,10 @@ translate chinese strings:
     # game/code/Book-1/Chapter-8w/s03.rpy:8
     old "Some time later\nAt the hotel"
     new "一段时间后\n在酒店"
+
+# game/code/Book-1/Chapter-8w/s03.rpy:241
+translate chinese b1c08ws03_470b68b1:
+
+    # "She catches you off guard with a kiss. It's a gentle warmth on your lips, but it carries a heaviness with so much emotion hidden behind."
+    "She catches you off guard with a kiss. It's a gentle warmth on your lips, but it carries a heaviness with so much emotion hidden behind."
 

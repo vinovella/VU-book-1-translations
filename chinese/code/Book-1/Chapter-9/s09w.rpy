@@ -454,12 +454,6 @@ translate chinese b1c09s09w_cheer_ima_21801bed:
     # mm "Now we're talking! Keep going, beautiful!"
     mm "太精彩了！继续，美女！"
 
-# game/code/Book-1/Chapter-9/s09w.rpy:365
-translate chinese b1c09s09w_cheer_ima_9afb766e:
-
-    # "Isa flirtatiously sticks her tongue out and flips you all off. Her bikini bottom barely continues to cover her."
-    "艾萨调皮地伸出舌头，朝你们抛媚眼。她的比基尼下装几乎无法遮住她的身体。"
-
 # game/code/Book-1/Chapter-9/s09w.rpy:369
 translate chinese b1c09s09w_cheer_ima_497ba8f5:
 
@@ -1389,4 +1383,10 @@ translate chinese strings:
     # game/code/Book-1/Chapter-9/s09w.rpy:510
     old "Just shut up"
     new "Just shut up"
+
+# game/code/Book-1/Chapter-9/s09w.rpy:365
+translate chinese b1c09s09w_cheer_ima_95ac0811:
+
+    # "Isa flirtatiously sticks her tongue out. Her bikini bottom barely continues to cover her."
+    "Isa flirtatiously sticks her tongue out. Her bikini bottom barely continues to cover her."
 

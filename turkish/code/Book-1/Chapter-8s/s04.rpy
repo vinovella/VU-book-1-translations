@@ -1054,23 +1054,11 @@ translate turkish b1c08ss04_sex_fdff6211:
     # mc "What a good slut you are. Let me take care of you, Asami."
     mc "Ne kadar iyi bir sürtüksün. Seninle ilgilenmeme izin ver, Asami."
 
-# game/code/Book-1/Chapter-8s/s04.rpy:648
-translate turkish b1c08ss04_sex_6c53dcda:
-
-    # "She tastes so sweet. Her pussy twitches and greedily tries to pull your fingers farther inside."
-    "Tadı çok tatlı. Amı seğiriyor ve açgözlülükle parmaklarını daha da içeri çekmeye çalışıyor."
-
 # game/code/Book-1/Chapter-8s/s04.rpy:651
 translate turkish b1c08ss04_sex_ff17caf7:
 
     # "You hit that sweet spot inside her, and her hips buck into your face."
     "İçindeki o tatlı noktaya vuruyorsun ve kalçaları yüzüne çarpıyor."
-
-# game/code/Book-1/Chapter-8s/s04.rpy:654
-translate turkish b1c08ss04_sex_66412271:
-
-    # "She grinds against your tongue and fingers, so desperate for more."
-    "Diline ve parmaklarına sürtünüyor, daha fazlası için o kadar çaresiz ki."
 
 # game/code/Book-1/Chapter-8s/s04.rpy:668
 translate turkish b1c08ss04_sex_89b61263:
@@ -1397,4 +1385,16 @@ translate turkish strings:
     # game/code/Book-1/Chapter-8s/s04.rpy:500
     old "We should rest"
     new "Dinlenmeliyiz"
+
+# game/code/Book-1/Chapter-8s/s04.rpy:669
+translate turkish b1c08ss04_sex_e8f73632:
+
+    # "She tastes so sweet. Her pussy twitches and greedily aches before you."
+    "She tastes so sweet. Her pussy twitches and greedily aches before you."
+
+# game/code/Book-1/Chapter-8s/s04.rpy:675
+translate turkish b1c08ss04_sex_4fd89c00:
+
+    # "She grinds against your tongue, so desperate for more."
+    "She grinds against your tongue, so desperate for more."
 

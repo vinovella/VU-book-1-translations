@@ -328,12 +328,6 @@ translate portuguese b1c08ss05_a5eb27fb:
     # xv "[mcname], your skills with the boat are invaluable, I'll admit that."
     xv "[mcname], o seu conhecimento com o barco é muito valioso, eu admito."
 
-# game/code/Book-1/Chapter-8s/s05.rpy:229
-translate portuguese b1c08ss05_829bf123:
-
-    # xv "We need someone reliable to stay with it and ensure our escape. It's too dangerous for you to be in the thick of it."
-    xv "Precisamos deixar alguém confiável pra garantir a nossa saída. É perigoso demais você ficar no meio disso."
-
 # game/code/Book-1/Chapter-8s/s05.rpy:232
 translate portuguese b1c08ss05_5c4c3c45:
 
@@ -646,12 +640,6 @@ translate portuguese b1c08ss05_choice_95b61831:
     # fox "Sorry I didn't step in, I jus—"
     fox "Desculpa eu não ter intervindo, eu só—"
 
-# game/code/Book-1/Chapter-8s/s05.rpy:379
-translate portuguese b1c08ss05_choice_03012300:
-
-    # fox "I've always been a mediator. Just because I can fgang fis just to stop them."
-    fox "Eu sempre servi de mediadora. Só porque eu sei lutar não quer dizer que não vou tentar impedir."
-
 # game/code/Book-1/Chapter-8s/s05.rpy:380
 translate portuguese b1c08ss05_choice_68649d5c:
 
@@ -801,4 +789,16 @@ translate portuguese strings:
     # game/code/Book-1/Chapter-8s/s05.rpy:277
     old "Fuck you, Xasan."
     new "Vai tomar no cu, Xasan."
+
+# game/code/Book-1/Chapter-8s/s05.rpy:231
+translate portuguese b1c08ss05_670a3234:
+
+    # xv "We need someone to stay with it and ensure our escape. It's too dangerous for you to be in the thick of it."
+    xv "We need someone to stay with it and ensure our escape. It's too dangerous for you to be in the thick of it."
+
+# game/code/Book-1/Chapter-8s/s05.rpy:384
+translate portuguese b1c08ss05_choice_c14c407e:
+
+    # fox "I've always been a mediator. Just because I can fight doesn't mean I won't try to stop them."
+    fox "I've always been a mediator. Just because I can fight doesn't mean I won't try to stop them."
 

@@ -166,12 +166,6 @@ translate turkish b1c08ws10_8e70be1a:
     # "The room falls quiet again, but this time, the silence feels different. The memory of the bitter loss is still fresh in everyone's mind."
     "Oda yine sessizliğe gömülüyor, ama bu kez sessizlik farklı hissettiriyor. Acı kaybın anısı herkesin zihninde hala taze."
 
-# game/code/Book-1/Chapter-8w/s10.rpy:75
-translate turkish b1c08ws10_7496e292:
-
-    # oa "We wouldn't have had to deal with any of this if just played without it. We don't need dangerous—"
-    oa "Sadece onsuz oynasaydık bunların hiçbiriyle uğraşmak zorunda kalmazdık. Tehlikeye ihtiyacımız yok-"
-
 # game/code/Book-1/Chapter-8w/s10.rpy:78
 translate turkish b1c08ws10_6e3bdfca:
 
@@ -399,4 +393,10 @@ translate turkish b1c08ws10_6778327d:
 
     # "One by one, the team files out of the room, the atmosphere thick with a mix of relief and lingering tension."
     "Teker teker, ekip odadan çıkıyor, atmosfer rahatlama ve kalıcı gerginlik karışımıyla yoğun."
+
+# game/code/Book-1/Chapter-8w/s10.rpy:79
+translate turkish b1c08ws10_777e1ea1:
+
+    # oa "We wouldn't have had to deal with any of this if we just played without it. We don't need dangerous—"
+    oa "We wouldn't have had to deal with any of this if we just played without it. We don't need dangerous—"
 

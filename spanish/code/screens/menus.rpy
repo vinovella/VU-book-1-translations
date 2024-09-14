@@ -94,4 +94,17 @@ translate spanish strings:
     old "Analytics"
     new "Análisis"
 
+translate spanish strings:
+
+    # game/code/screens/menus.rpy:834
+    old "We only collect data on in-game choices, no personal information is collected."
+    new "We only collect data on in-game choices, no personal information is collected."
+
+    # game/code/screens/menus.rpy:861
+    old "Connect Your Toy"
+    new "Connect Your Toy"
+
+    # game/code/screens/menus.rpy:907
+    old "Sex Voice Volume"
+    new "Sex Voice Volume"
 

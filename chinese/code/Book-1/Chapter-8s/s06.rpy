@@ -70,12 +70,6 @@ translate chinese b1c08ss06_5aee9d2b:
     # "The trio is delirious from pain, and stress. Blood and bruises mark their usually clean skin."
     "被捕的三个人因疼痛和压力而神志不清。他们一贯干净的皮肤上印有血迹和瘀伤。"
 
-# game/code/Book-1/Chapter-8s/s06.rpy:61
-translate chinese b1c08ss06_8d4b6fc2:
-
-    # "It's doubtful they've had more than a few moments out of these chairs since their capture."
-    "我怀疑自从他们被抓以来，他们离开这些椅子的时间应该不长。"
-
 # game/code/Book-1/Chapter-8s/s06.rpy:70
 translate chinese b1c08ss06_385b8406:
 
@@ -565,4 +559,10 @@ translate chinese strings:
     # game/code/Book-1/Chapter-8s/s06.rpy:126
     old "I can't let him do this"
     new "我不能让他这么做"
+
+# game/code/Book-1/Chapter-8s/s06.rpy:63
+translate chinese b1c08ss06_66242071:
+
+    # "It's doubtful they've had more than a few moments out of these binds since their capture."
+    "It's doubtful they've had more than a few moments out of these binds since their capture."
 

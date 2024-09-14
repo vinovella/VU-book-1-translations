@@ -4,12 +4,6 @@ translate chinese b1c08cs05_afd0feec:
     # "You open your eyes. It's quiet outside. Everyone seems to have gone to sleep."
     "你睁开眼睛。外面很安静。大家好像都睡着了。"
 
-# game/code/Book-1/Chapter-8c/s05.rpy:54
-translate chinese b1c08cs05_3f0bc523:
-
-    # "Lumi's still fast asleep, thoroughly worn out after last night."
-    "卢米还在呼呼大睡，经过昨晚的折腾，她已经筋疲力竭了。"
-
 # game/code/Book-1/Chapter-8c/s05.rpy:64
 translate chinese b1c08cs05_3d9c8545:
 
@@ -417,4 +411,10 @@ translate chinese strings:
     # game/code/Book-1/Chapter-8c/s05.rpy:30
     old "Later that night"
     new "那晚晚些时候"
+
+# game/code/Book-1/Chapter-8c/s05.rpy:56
+translate chinese b1c08cs05_0c2801b5:
+
+    # "Lumi's still fast asleep, thoroughly worn out after tonight's activities."
+    "Lumi's still fast asleep, thoroughly worn out after tonight's activities."
 

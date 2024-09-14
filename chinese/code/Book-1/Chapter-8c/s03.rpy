@@ -844,12 +844,6 @@ translate chinese b1c08cs03_fe7a4e85:
     # ih "Ah!"
     ih "啊！"
 
-# game/code/Book-1/Chapter-8c/s03.rpy:399
-translate chinese b1c08cs03_48997e2c:
-
-    # "Ivy's hips buck into her fingers as she makes herself cum. Her legs shake with the effort of staying upright."
-    "艾薇让自己高潮时，臀部把手指吞了进去。她的双腿因努力保持直立而颤抖着。"
-
 # game/code/Book-1/Chapter-8c/s03.rpy:402
 translate chinese b1c08cs03_bdc8887c:
 
@@ -1414,12 +1408,6 @@ translate chinese b1c08cs03_86786e23:
     # ij "Would you mind if we join?"
     ij "你介意我们加入吗？"
 
-# game/code/Book-1/Chapter-8c/s03.rpy:657
-translate chinese b1c08cs03_9ed47a40:
-
-    # ll "Yes! Let's spread the joy!"
-    ll "好啊，让我们一起分享快乐吧！"
-
 # game/code/Book-1/Chapter-8c/s03.rpy:658
 translate chinese b1c08cs03_707c1d35:
 
@@ -1653,4 +1641,16 @@ translate chinese strings:
     # game/code/Book-1/Chapter-8c/s03.rpy:18
     old "Later that night\nAt the welcoming party"
     new "那晚晚些时候\n在欢迎派对上"
+
+# game/code/Book-1/Chapter-8c/s03.rpy:413
+translate chinese b1c08cs03_fbaa59a8:
+
+    # "Nia and Lumi are distracted by watching the other women cum. They watch curiously and supportively as afterglow spreads up Ivy and Delphia's chests."
+    "Nia and Lumi are distracted by watching the other women cum. They watch curiously and supportively as afterglow spreads up Ivy and Delphia's chests."
+
+# game/code/Book-1/Chapter-8c/s03.rpy:670
+translate chinese b1c08cs03_53d70e0f:
+
+    # ll "No! Come, let's spread the joy!"
+    ll "No! Come, let's spread the joy!"
 

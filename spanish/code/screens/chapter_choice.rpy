@@ -24,3 +24,9 @@ translate spanish strings:
     old "You cannot investigate this group anymore"
     new "Ya no puedes investigar a este grupo"
 
+translate spanish strings:
+
+    # game/code/screens/chapter_choice.rpy:30
+    old "You have already investigated "
+    new "You have already investigated "
+

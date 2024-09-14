@@ -1054,23 +1054,11 @@ translate chinese b1c08ss04_sex_fdff6211:
     # mc "What a good slut you are. Let me take care of you, Asami."
     mc "真是个好荡妇。让我来照顾你吧，麻美。"
 
-# game/code/Book-1/Chapter-8s/s04.rpy:648
-translate chinese b1c08ss04_sex_6c53dcda:
-
-    # "She tastes so sweet. Her pussy twitches and greedily tries to pull your fingers farther inside."
-    "她的味道如此甜美。她下面的小穴抽搐着，贪婪地想把你的手指拉得更长。"
-
 # game/code/Book-1/Chapter-8s/s04.rpy:651
 translate chinese b1c08ss04_sex_ff17caf7:
 
     # "You hit that sweet spot inside her, and her hips buck into your face."
     "你击中了她里面的G点，她的臀部猛烈地撞击着你的脸。"
-
-# game/code/Book-1/Chapter-8s/s04.rpy:654
-translate chinese b1c08ss04_sex_66412271:
-
-    # "She grinds against your tongue and fingers, so desperate for more."
-    "她磨蹭着你的舌头和手指，渴望得到更多。"
 
 # game/code/Book-1/Chapter-8s/s04.rpy:668
 translate chinese b1c08ss04_sex_89b61263:
@@ -1397,4 +1385,16 @@ translate chinese strings:
     # game/code/Book-1/Chapter-8s/s04.rpy:500
     old "We should rest"
     new "我们应该休息"
+
+# game/code/Book-1/Chapter-8s/s04.rpy:669
+translate chinese b1c08ss04_sex_e8f73632:
+
+    # "She tastes so sweet. Her pussy twitches and greedily aches before you."
+    "She tastes so sweet. Her pussy twitches and greedily aches before you."
+
+# game/code/Book-1/Chapter-8s/s04.rpy:675
+translate chinese b1c08ss04_sex_4fd89c00:
+
+    # "She grinds against your tongue, so desperate for more."
+    "She grinds against your tongue, so desperate for more."
 

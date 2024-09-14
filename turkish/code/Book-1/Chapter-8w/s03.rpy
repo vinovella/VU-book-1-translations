@@ -412,12 +412,6 @@ translate turkish b1c08ws03_91f4de83:
     # mc "Hey. It's not your fault."
     mc "Hey. Bu senin hatan değil."
 
-# game/code/Book-1/Chapter-8w/s03.rpy:239
-translate turkish b1c08ws03_8b4b838b:
-
-    # "She catches you off guard with a kiss. It's a gentle warmth on your lips, but they carry a heaviness with so much emotion hidden behind."
-    "Seni bir öpücükle hazırlıksız yakalar. Dudaklarınızda nazik bir sıcaklık, ama arkasında çok fazla duygu saklı bir ağırlık taşıyorlar."
-
 # game/code/Book-1/Chapter-8w/s03.rpy:243
 translate turkish b1c08ws03_d7455b14:
 
@@ -525,4 +519,10 @@ translate turkish strings:
     # game/code/Book-1/Chapter-8w/s03.rpy:8
     old "Some time later\nAt the hotel"
     new "Bir süre sonra\nOtelde"
+
+# game/code/Book-1/Chapter-8w/s03.rpy:241
+translate turkish b1c08ws03_470b68b1:
+
+    # "She catches you off guard with a kiss. It's a gentle warmth on your lips, but it carries a heaviness with so much emotion hidden behind."
+    "She catches you off guard with a kiss. It's a gentle warmth on your lips, but it carries a heaviness with so much emotion hidden behind."
 

@@ -1324,12 +1324,6 @@ translate portuguese b1c08cs08_ll_punishment_d4d87a94:
     # ll "I suppose you're right..."
     ll "É, tem razão..."
 
-# game/code/Book-1/Chapter-8c/s08.rpy:703
-translate portuguese b1c08cs08_ll_spanking_d458906e:
-
-    # "She before you with a more confident expression, ready to take her punishment with dignity."
-    "E você ela fica diante de você com uma expressão confiante, pronta para receber sua punição com dignidade."
-
 # game/code/Book-1/Chapter-8c/s08.rpy:706
 translate portuguese b1c08cs08_ll_spanking_9822128a:
 
@@ -1599,12 +1593,6 @@ translate portuguese b1c08cs08_ll_spanking_8acdeff2:
 
     # ys "Just like you. We are all magnificent creatures."
     ys "Que nem você. Somos tomos criaturas magníficas."
-
-# game/code/Book-1/Chapter-8c/s08.rpy:858
-translate portuguese b1c08cs08_ll_spanking_6661d99c:
-
-    # "At Yvonne's silent que, Sloan and Nerium also rise."
-    "Com a deixa silenciosa da Yvonne, Sloan e Nerium também se levantam."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:861
 translate portuguese b1c08cs08_ll_spanking_e8d7836c:
@@ -2033,4 +2021,16 @@ translate portuguese strings:
     # game/code/Book-1/Chapter-8c/s08.rpy:552
     old "Of course. The punishment is out of love"
     new "Claro. A punição é de amor"
+
+# game/code/Book-1/Chapter-8c/s08.rpy:717
+translate portuguese b1c08cs08_ll_spanking_d643c708:
+
+    # "She stands before you with a more confident expression, ready to take her punishment with dignity."
+    "She stands before you with a more confident expression, ready to take her punishment with dignity."
+
+# game/code/Book-1/Chapter-8c/s08.rpy:891
+translate portuguese b1c08cs08_ll_spanking_6c63b3c0:
+
+    # "At Yvonne's silent cue, Sloan and Nerium also rise."
+    "At Yvonne's silent cue, Sloan and Nerium also rise."
 

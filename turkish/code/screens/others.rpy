@@ -36,3 +36,17 @@ translate turkish strings:
     old "Coming Soon"
     new "Yakında gelecek"
 
+translate turkish strings:
+
+    # game/code/screens/others.rpy:10
+    old "We collect only anonymized data to better understand which paths, characters, scenes, and fetishes are most popular and to identify areas for improvement."
+    new "We collect only anonymized data to better understand which paths, characters, scenes, and fetishes are most popular and to identify areas for improvement."
+
+    # game/code/screens/others.rpy:11
+    old "NO PERSONAL INFORMATION IS COLLECTED."
+    new "NO PERSONAL INFORMATION IS COLLECTED."
+
+    # game/code/screens/others.rpy:13
+    old "Would you like to enable this data collection?"
+    new "Would you like to enable this data collection?"
+

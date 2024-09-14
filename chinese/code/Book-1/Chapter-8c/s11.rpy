@@ -418,12 +418,6 @@ translate chinese b1c08cs11_dcac1483:
     # "You slide your hands down to her perfect ass and dig your fingers into her skin."
     "你的手滑到她完美的屁股上，手指抠进她的皮肤。"
 
-# game/code/Book-1/Chapter-8c/s11.rpy:270
-translate chinese b1c08cs11_66c949c3:
-
-    # "Ivy clings to you, and nuzzles into your shoulder. Her shallow breaths warm your shoulder."
-    "艾薇紧贴着你，偎依在你的肩头。她浅浅的呼吸温暖着你的肩膀。"
-
 # game/code/Book-1/Chapter-8c/s11.rpy:273
 translate chinese b1c08cs11_3bb4cde6:
 
@@ -459,12 +453,6 @@ translate chinese b1c08cs11_69d0dfcd:
 
     # "Ivy's orgasm rips through both of your bodies. Her walls convulse so tightly around you it almost hurts."
     "艾薇的高潮席卷了你们的身体。她的身体紧紧地包围着你，几乎把你弄疼了。"
-
-# game/code/Book-1/Chapter-8c/s11.rpy:295
-translate chinese b1c08cs11_ab8d606b:
-
-    # "The layered sensation of her warm body pressed against you, her body milking you so thoroughly—You can't hold back anymore."
-    "她的嫩肉一圈又一圈地紧紧贴过来，压在你身上，这种感觉让你欲仙欲死--你再也忍不住了。"
 
 # game/code/Book-1/Chapter-8c/s11.rpy:297
 translate chinese b1c08cs11_80d66ded:
@@ -651,4 +639,16 @@ translate chinese b1c08cs11_33a818c3:
 
     # "You're easily coaxed into sleep."
     "你很容易就睡着了。"
+
+# game/code/Book-1/Chapter-8c/s11.rpy:292
+translate chinese b1c08cs11_0f63ae30:
+
+    # "Ivy clings to you, and nuzzles into your shoulder. Her shallow breaths warm your skin."
+    "Ivy clings to you, and nuzzles into your shoulder. Her shallow breaths warm your skin."
+
+# game/code/Book-1/Chapter-8c/s11.rpy:321
+translate chinese b1c08cs11_418e2ba3:
+
+    # "The layered sensation of her warm body pressed against you, milking you so thoroughly—You can't hold back anymore."
+    "The layered sensation of her warm body pressed against you, milking you so thoroughly—You can't hold back anymore."
 

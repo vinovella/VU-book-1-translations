@@ -1054,23 +1054,11 @@ translate portuguese b1c08ss04_sex_fdff6211:
     # mc "What a good slut you are. Let me take care of you, Asami."
     mc "Que putinha boa você é. Deixa que eu cuido de você, Asami."
 
-# game/code/Book-1/Chapter-8s/s04.rpy:647
-translate portuguese b1c08ss04_sex_6c53dcda:
-
-    # "She tastes so sweet. Her pussy twitches and greedily tries to pull your fingers farther inside."
-    "Ela tem um gostinho tão doce. Sua boceta se contorce e gulosamente tenta sugar sua língua mais para dentro."
-
 # game/code/Book-1/Chapter-8s/s04.rpy:650
 translate portuguese b1c08ss04_sex_ff17caf7:
 
     # "You hit that sweet spot inside her, and her hips buck into your face."
     "Você acerta o ponto g dela, e ela joga os quadris na sua cara."
-
-# game/code/Book-1/Chapter-8s/s04.rpy:653
-translate portuguese b1c08ss04_sex_66412271:
-
-    # "She grinds against your tongue and fingers, so desperate for more."
-    "Ela se esfrega na sua língua, desesperada atrás de mais."
 
 # game/code/Book-1/Chapter-8s/s04.rpy:667
 translate portuguese b1c08ss04_sex_89b61263:
@@ -1397,4 +1385,16 @@ translate portuguese strings:
     # game/code/Book-1/Chapter-8s/s04.rpy:499
     old "We should rest"
     new "Temos que descansar"
+
+# game/code/Book-1/Chapter-8s/s04.rpy:669
+translate portuguese b1c08ss04_sex_e8f73632:
+
+    # "She tastes so sweet. Her pussy twitches and greedily aches before you."
+    "She tastes so sweet. Her pussy twitches and greedily aches before you."
+
+# game/code/Book-1/Chapter-8s/s04.rpy:675
+translate portuguese b1c08ss04_sex_4fd89c00:
+
+    # "She grinds against your tongue, so desperate for more."
+    "She grinds against your tongue, so desperate for more."
 

@@ -100,3 +100,17 @@ translate portuguese strings:
     old "We only collect anonymous data about in-game choices."
     new "Coletamos apenas dados anônimos sobre escolhas feitas no jogo."
 
+translate portuguese strings:
+
+    # game/code/screens/menus.rpy:834
+    old "We only collect data on in-game choices, no personal information is collected."
+    new "We only collect data on in-game choices, no personal information is collected."
+
+    # game/code/screens/menus.rpy:861
+    old "Connect Your Toy"
+    new "Connect Your Toy"
+
+    # game/code/screens/menus.rpy:907
+    old "Sex Voice Volume"
+    new "Sex Voice Volume"
+

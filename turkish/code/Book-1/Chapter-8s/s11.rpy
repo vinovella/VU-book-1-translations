@@ -862,12 +862,6 @@ translate turkish b1c08ss11_mg_sex_ada4e56d:
     # mg "F-fuck, you feel so good. I want you to cum in me. I need yo—"
     "Siktir, çok iyi hissediyorsun. İçime boşalmanı istiyorum. Sana ihtiyacım var-"
 
-# game/code/Book-1/Chapter-8s/s11.rpy:542
-translate turkish b1c08ss11_mg_sex_4803a357:
-
-    # mc "Oh I'll fill you up alright, when only I'm fucking done with you."
-    mc "Oh seni dolduracağım, sadece seninle işim bittiğinde."
-
 # game/code/Book-1/Chapter-8s/s11.rpy:552
 translate turkish b1c08ss11_mg_sex_ac30e7b0:
 
@@ -1253,4 +1247,10 @@ translate turkish strings:
     # game/code/Book-1/Chapter-8s/s11.rpy:367
     old "It's alright"
     new "Sorun yok."
+
+# game/code/Book-1/Chapter-8s/s11.rpy:560
+translate turkish b1c08ss11_mg_sex_ff70acc8:
+
+    # mc "Oh I'll fill you up alright, only when I'm fucking done with you."
+    mc "Oh I'll fill you up alright, only when I'm fucking done with you."
 

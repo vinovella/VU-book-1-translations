@@ -70,12 +70,6 @@ translate portuguese b1c08ss06_5aee9d2b:
     # "The trio is delirious from pain, and stress. Blood and bruises mark their usually clean skin."
     "Os três estão delirantes de dor e estresse. Sangue e machucados cobrem suas pele normalmente limpas."
 
-# game/code/Book-1/Chapter-8s/s06.rpy:61
-translate portuguese b1c08ss06_8d4b6fc2:
-
-    # "It's doubtful they've had more than a few moments out of these chairs since their capture."
-    "Duvido que eles tiveram mais de alguns momentos fora dessas cadeiras desde que foram capturados."
-
 # game/code/Book-1/Chapter-8s/s06.rpy:70
 translate portuguese b1c08ss06_385b8406:
 
@@ -565,4 +559,10 @@ translate portuguese strings:
     # game/code/Book-1/Chapter-8s/s06.rpy:126
     old "I can't let him do this"
     new "Não posso deixar ele fazer isso"
+
+# game/code/Book-1/Chapter-8s/s06.rpy:63
+translate portuguese b1c08ss06_66242071:
+
+    # "It's doubtful they've had more than a few moments out of these binds since their capture."
+    "It's doubtful they've had more than a few moments out of these binds since their capture."
 

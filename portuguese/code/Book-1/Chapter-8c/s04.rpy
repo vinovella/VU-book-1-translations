@@ -832,12 +832,6 @@ translate portuguese b1c08cs04_sex_5abaccd3:
     # "Her body still tenses around you, excitedly twitching and gripping your cock. She milks you dry of every last drop of cum."
     "O corpo dela ainda aperta à sua volta, tremendo de prazer e apertando o seu pau. Ela suga cada gota de sêmen de você."
 
-# game/code/Book-1/Chapter-8c/s04.rpy:492
-translate portuguese b1c08cs04_sex_b6679e4b:
-
-    # "You pull out just as you and Lumi's bodies work themselves into oversensitivity."
-    "Você tira seu pau dela quando seus corpos ficam extra sensíveis."
-
 # game/code/Book-1/Chapter-8c/s04.rpy:498
 translate portuguese b1c08cs04_sex_36d13bd6:
 
@@ -973,4 +967,10 @@ translate portuguese strings:
     # game/code/Book-1/Chapter-8c/s04.rpy:232
     old "I'm not ready yet"
     new "Ainda não estou pronto."
+
+# game/code/Book-1/Chapter-8c/s04.rpy:517
+translate portuguese b1c08cs04_sex_dad6e589:
+
+    # "You pull out just as your bodies work themselves into oversensitivity."
+    "You pull out just as your bodies work themselves into oversensitivity."
 

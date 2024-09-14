@@ -418,12 +418,6 @@ translate portuguese b1c08cs11_dcac1483:
     # "You slide your hands down to her perfect ass and dig your fingers into her skin."
     "Você desliza as mãos até a bundinha perfeita dela e crava seus dedos na pele."
 
-# game/code/Book-1/Chapter-8c/s11.rpy:269
-translate portuguese b1c08cs11_66c949c3:
-
-    # "Ivy clings to you, and nuzzles into your shoulder. Her shallow breaths warm your shoulder."
-    "Ivy se prende a você e se aconchega no seu ombro. Sua respiração fraca aquece seus ombro."
-
 # game/code/Book-1/Chapter-8c/s11.rpy:272
 translate portuguese b1c08cs11_3bb4cde6:
 
@@ -459,12 +453,6 @@ translate portuguese b1c08cs11_69d0dfcd:
 
     # "Ivy's orgasm rips through both of your bodies. Her walls convulse so tightly around you it almost hurts."
     "O orgasmo da Ivy percorre ambos seus corpos. As paredes convulsionam tanto ao seu redor que quase dói."
-
-# game/code/Book-1/Chapter-8c/s11.rpy:294
-translate portuguese b1c08cs11_ab8d606b:
-
-    # "The layered sensation of her warm body pressed against you, her body milking you so thoroughly—You can't hold back anymore."
-    "A sensação do corpo dela pressionando contra você, sugando tanto de você— e você não consegue mais se segurar."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:296
 translate portuguese b1c08cs11_80d66ded:
@@ -651,4 +639,16 @@ translate portuguese b1c08cs11_33a818c3:
 
     # "You're easily coaxed into sleep."
     "Você adormece facilmente."
+
+# game/code/Book-1/Chapter-8c/s11.rpy:292
+translate portuguese b1c08cs11_0f63ae30:
+
+    # "Ivy clings to you, and nuzzles into your shoulder. Her shallow breaths warm your skin."
+    "Ivy clings to you, and nuzzles into your shoulder. Her shallow breaths warm your skin."
+
+# game/code/Book-1/Chapter-8c/s11.rpy:321
+translate portuguese b1c08cs11_418e2ba3:
+
+    # "The layered sensation of her warm body pressed against you, milking you so thoroughly—You can't hold back anymore."
+    "The layered sensation of her warm body pressed against you, milking you so thoroughly—You can't hold back anymore."
 

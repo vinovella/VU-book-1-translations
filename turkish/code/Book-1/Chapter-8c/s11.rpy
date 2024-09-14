@@ -418,12 +418,6 @@ translate turkish b1c08cs11_dcac1483:
     # "You slide your hands down to her perfect ass and dig your fingers into her skin."
     "Ellerini onun mükemmel kıçına doğru kaydırıyorsun ve parmaklarını onun tenine sokuyorsun."
 
-# game/code/Book-1/Chapter-8c/s11.rpy:270
-translate turkish b1c08cs11_66c949c3:
-
-    # "Ivy clings to you, and nuzzles into your shoulder. Her shallow breaths warm your shoulder."
-    "Ivy sana yapışıyor ve omzuna sokuluyor. Sığ nefesleri omzunu ısıtıyor."
-
 # game/code/Book-1/Chapter-8c/s11.rpy:273
 translate turkish b1c08cs11_3bb4cde6:
 
@@ -459,12 +453,6 @@ translate turkish b1c08cs11_69d0dfcd:
 
     # "Ivy's orgasm rips through both of your bodies. Her walls convulse so tightly around you it almost hurts."
     "Ivy'nin orgazmı ikinizin de vücudunu parçalıyor. Duvarları etrafınızda o kadar sıkı sarsılıyor ki neredeyse acıtıyor."
-
-# game/code/Book-1/Chapter-8c/s11.rpy:295
-translate turkish b1c08cs11_ab8d606b:
-
-    # "The layered sensation of her warm body pressed against you, her body milking you so thoroughly—You can't hold back anymore."
-    "Sıcacık bedeninin sana bastırdığı katmanlı his, vücudu seni öyle bir sağıyor ki, artık kendini tutamıyorsun."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:297
 translate turkish b1c08cs11_80d66ded:
@@ -651,4 +639,16 @@ translate turkish b1c08cs11_33a818c3:
 
     # "You're easily coaxed into sleep."
     "Uyumak için kolayca kandırılıyorsun."
+
+# game/code/Book-1/Chapter-8c/s11.rpy:292
+translate turkish b1c08cs11_0f63ae30:
+
+    # "Ivy clings to you, and nuzzles into your shoulder. Her shallow breaths warm your skin."
+    "Ivy clings to you, and nuzzles into your shoulder. Her shallow breaths warm your skin."
+
+# game/code/Book-1/Chapter-8c/s11.rpy:321
+translate turkish b1c08cs11_418e2ba3:
+
+    # "The layered sensation of her warm body pressed against you, milking you so thoroughly—You can't hold back anymore."
+    "The layered sensation of her warm body pressed against you, milking you so thoroughly—You can't hold back anymore."
 

@@ -862,12 +862,6 @@ translate chinese b1c08ss07_after_pegging_79b5c832:
     # ha "Well, now that we've dealt with that little disturbance, it's time for you to do a little something for me."
     ha "好吧，既然我们已经解决了那个小麻烦，现在是时候让你为我做件事了。"
 
-# game/code/Book-1/Chapter-8s/s07.rpy:600
-translate chinese b1c08ss07_after_pegging_20c7bf65:
-
-    # "Your guarded expression reveals your skepticism, and you cross your arms to show your reluctance."
-    "你谨慎的表情显示出你的怀疑，你交叉双臂表示你的不情愿。"
-
 # game/code/Book-1/Chapter-8s/s07.rpy:601
 translate chinese b1c08ss07_after_pegging_bc654b23:
 
@@ -1217,4 +1211,10 @@ translate chinese strings:
     # game/code/Book-1/Chapter-8s/s07.rpy:569
     old "After an uncomfortable eternity watching the wall"
     new "在漫长的、让人倍感乏味的看墙角之后"
+
+# game/code/Book-1/Chapter-8s/s07.rpy:642
+translate chinese b1c08ss07_after_pegging_9c1ca661:
+
+    # "Your guarded expression reveals your skepticism."
+    "Your guarded expression reveals your skepticism."
 

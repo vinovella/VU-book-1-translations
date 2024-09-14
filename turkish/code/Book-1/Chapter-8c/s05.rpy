@@ -4,12 +4,6 @@ translate turkish b1c08cs05_afd0feec:
     # "You open your eyes. It's quiet outside. Everyone seems to have gone to sleep."
     "Gözlerini açıyorsun. Dışarısı sessiz. Herkes uyumuş gibi görünüyor."
 
-# game/code/Book-1/Chapter-8c/s05.rpy:54
-translate turkish b1c08cs05_3f0bc523:
-
-    # "Lumi's still fast asleep, thoroughly worn out after last night."
-    "Lumi hala derin uykuda, dün geceden sonra iyice yıpranmış."
-
 # game/code/Book-1/Chapter-8c/s05.rpy:64
 translate turkish b1c08cs05_3d9c8545:
 
@@ -417,4 +411,10 @@ translate turkish strings:
     # game/code/Book-1/Chapter-8c/s05.rpy:30
     old "Later that night"
     new "O gecenin ilerleyen saatlerinde"
+
+# game/code/Book-1/Chapter-8c/s05.rpy:56
+translate turkish b1c08cs05_0c2801b5:
+
+    # "Lumi's still fast asleep, thoroughly worn out after tonight's activities."
+    "Lumi's still fast asleep, thoroughly worn out after tonight's activities."
 

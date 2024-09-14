@@ -832,12 +832,6 @@ translate chinese b1c08cs04_sex_5abaccd3:
     # "Her body still tenses around you, excitedly twitching and gripping your cock. She milks you dry of every last drop of cum."
     "她的身体依然高度紧绷，兴奋地抽搐着，紧紧缠住你的鸡巴。她榨干了你最后一滴精液。"
 
-# game/code/Book-1/Chapter-8c/s04.rpy:493
-translate chinese b1c08cs04_sex_b6679e4b:
-
-    # "You pull out just as you and Lumi's bodies work themselves into oversensitivity."
-    "就在你和卢米的身体变得过度敏感的时候，你拔了出来。"
-
 # game/code/Book-1/Chapter-8c/s04.rpy:499
 translate chinese b1c08cs04_sex_36d13bd6:
 
@@ -973,4 +967,10 @@ translate chinese strings:
     # game/code/Book-1/Chapter-8c/s04.rpy:233
     old "I'm not ready yet"
     new "我还没准备好"
+
+# game/code/Book-1/Chapter-8c/s04.rpy:517
+translate chinese b1c08cs04_sex_dad6e589:
+
+    # "You pull out just as your bodies work themselves into oversensitivity."
+    "You pull out just as your bodies work themselves into oversensitivity."
 

@@ -832,12 +832,6 @@ translate turkish b1c08cs04_sex_5abaccd3:
     # "Her body still tenses around you, excitedly twitching and gripping your cock. She milks you dry of every last drop of cum."
     "Vücudu hala etrafınızda geriliyor, heyecanla seğiriyor ve horozunuzu kavrıyor. Seni son damlasına kadar sağıyor."
 
-# game/code/Book-1/Chapter-8c/s04.rpy:493
-translate turkish b1c08cs04_sex_b6679e4b:
-
-    # "You pull out just as you and Lumi's bodies work themselves into oversensitivity."
-    "Sen ve Lumi'nin bedenleri kendilerini aşırı duyarlılığa kaptırırken sen çekiliyorsun."
-
 # game/code/Book-1/Chapter-8c/s04.rpy:499
 translate turkish b1c08cs04_sex_36d13bd6:
 
@@ -973,4 +967,10 @@ translate turkish strings:
     # game/code/Book-1/Chapter-8c/s04.rpy:233
     old "I'm not ready yet"
     new "Henüz hazır değilim."
+
+# game/code/Book-1/Chapter-8c/s04.rpy:517
+translate turkish b1c08cs04_sex_dad6e589:
+
+    # "You pull out just as your bodies work themselves into oversensitivity."
+    "You pull out just as your bodies work themselves into oversensitivity."
 

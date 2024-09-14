@@ -4,12 +4,6 @@ translate portuguese b1c08cs06_803e39f9:
     # "You open your eyes. A faint hint of light seeps through your tent."
     "Você abre os os olhos. Um resquício de luz passa pela sua tenda."
 
-# game/code/Book-1/Chapter-8c/s06.rpy:21
-translate portuguese b1c08cs06_3f0bc523:
-
-    # "Lumi's still fast asleep, thoroughly worn out after last night."
-    "Lumi ainda está dormindo, completamente cansada da última noite."
-
 # game/code/Book-1/Chapter-8c/s06.rpy:33
 translate portuguese b1c08cs06_d334a147:
 
@@ -658,12 +652,6 @@ translate portuguese b1c08cs06_92c45575:
     # nv "What was her name?"
     nv "Qual era o nome dela?"
 
-# game/code/Book-1/Chapter-8c/s06.rpy:330
-translate portuguese b1c08cs06_37b6b90e:
-
-    # ys "Narrura."
-    ys "Narurra."
-
 # game/code/Book-1/Chapter-8c/s06.rpy:332
 translate portuguese b1c08cs06_fb08ac56:
 
@@ -1149,4 +1137,16 @@ translate portuguese b1c08cs06_01c85351:
 
     # ih "You all go without me. I already had breakfast..."
     ih "Vocês podem ir sem mim. Já tomei o café da manhã..."
+
+# game/code/Book-1/Chapter-8c/s06.rpy:23
+translate portuguese b1c08cs06_79b385e5:
+
+    # "Lumi's still gently asleep."
+    "Lumi's still gently asleep."
+
+# game/code/Book-1/Chapter-8c/s06.rpy:341
+translate portuguese b1c08cs06_6105367c:
+
+    # ys "Narurra."
+    ys "Narurra."
 

@@ -262,12 +262,6 @@ translate portuguese b1c08ws06_f64b5bda:
     # ir "Let's get this over with."
     ir "Vamos acabar comisso."
 
-# game/code/Book-1/Chapter-8w/s06.rpy:133
-translate portuguese b1c08ws06_6babed16:
-
-    # ba "Sit down. It'll be easier."
-    ba "Senta. Vai ser mais fácil."
-
 # game/code/Book-1/Chapter-8w/s06.rpy:140
 translate portuguese b1c08ws06_f6899a69:
 
@@ -349,4 +343,10 @@ translate portuguese strings:
     # game/code/Book-1/Chapter-8w/s06.rpy:79
     old "Go for it"
     new "Mandar ver"
+
+# game/code/Book-1/Chapter-8w/s06.rpy:137
+translate portuguese b1c08ws06_08e0644c:
+
+    # ba "C'mon, shirt off."
+    ba "C'mon, shirt off."
 

@@ -454,12 +454,6 @@ translate spanish b1c09s09w_cheer_ima_21801bed:
     # mm "Now we're talking! Keep going, beautiful!"
     mm "¡Ahora estamos hablando! ¡Sigue así, hermosa!"
 
-# game/code/Book-1/Chapter-9/s09w.rpy:365
-translate spanish b1c09s09w_cheer_ima_9afb766e:
-
-    # "Isa flirtatiously sticks her tongue out and flips you all off. Her bikini bottom barely continues to cover her."
-    "Isa les saca la lengua coquetamente y se la enseña a todos. La parte inferior de su bikini apenas sigue cubriéndola."
-
 # game/code/Book-1/Chapter-9/s09w.rpy:369
 translate spanish b1c09s09w_cheer_ima_497ba8f5:
 
@@ -1389,4 +1383,10 @@ translate spanish strings:
     # game/code/Book-1/Chapter-9/s09w.rpy:510
     old "Just shut up"
     new "Sólo cállate"
+
+# game/code/Book-1/Chapter-9/s09w.rpy:365
+translate spanish b1c09s09w_cheer_ima_95ac0811:
+
+    # "Isa flirtatiously sticks her tongue out. Her bikini bottom barely continues to cover her."
+    "Isa flirtatiously sticks her tongue out. Her bikini bottom barely continues to cover her."
 

@@ -70,12 +70,6 @@ translate turkish b1c08ws04_ea7f8e5e:
     # mc "Well, that's just unfortunate."
     mc "Şey, bu sadece talihsizlik."
 
-# game/code/Book-1/Chapter-8w/s04.rpy:67
-translate turkish b1c08ws04_8f974146:
-
-    # "Monika thins her lips and smirks at you behind your back. She drags out her words."
-    "Monika dudaklarını inceltiyor ve arkandan sırıtıyor. Sözlerini uzatıyor."
-
 # game/code/Book-1/Chapter-8w/s04.rpy:70
 translate turkish b1c08ws04_5b75068d:
 
@@ -304,23 +298,11 @@ translate turkish b1c08ws04_sex_fb44488f:
     # "Monika runs her hand down your chest, gently caressing and teasing you with her touch."
     "Monika elini göğsünde gezdiriyor, nazikçe okşuyor ve dokunuşuyla seni kızdırıyor."
 
-# game/code/Book-1/Chapter-8w/s04.rpy:201
-translate turkish b1c08ws04_sex_16ca74aa:
-
-    # "She pinches your nipple playfully, making you start, before resting her other hand on your waist."
-    "Meme ucunu şakacı bir şekilde çimdikliyor, diğer elini beline koymadan önce başlamanı sağlıyor."
-
 # game/code/Book-1/Chapter-8w/s04.rpy:204
 translate turkish b1c08ws04_sex_0a7270e5:
 
     # "Monika giggles at your surprise then slides her hand over your growing bulge, feeling your warmth and massaging your arousal."
     "Monika şaşkınlığınıza kıkırdıyor, sonra elini büyüyen çıkıntınızın üzerinde kaydırıyor, sıcaklığınızı hissediyor ve uyarılmanıza masaj yapıyor."
-
-# game/code/Book-1/Chapter-8w/s04.rpy:207
-translate turkish b1c08ws04_sex_fc22140a:
-
-    # "Her excitement is evident as nuzzles against your skin, her hot breath singeing you in pleasure and making you arch your back and push your hips into her."
-    "Heyecanı, tenine sokulurken, sıcak nefesi seni zevkle yakarken ve sırtını kamburlaştırıp kalçalarını ona doğru iterken belli oluyor."
 
 # game/code/Book-1/Chapter-8w/s04.rpy:210
 translate turkish b1c08ws04_sex_8e315aab:
@@ -453,12 +435,6 @@ translate turkish b1c08ws04_sex_1737dc29:
 
     # "Monika cums around your cock, greedily pulling you and begging for your cum. But with monumental effort, you manage to pull out of her just in time to cover her with your cum."
     "Monika sikinin etrafına boşalıyor, açgözlülükle seni çekiyor ve dölün için yalvarıyor. Ama muazzam bir çabayla, onu cum ile kaplamak için tam zamanında ondan çekmeyi başarırsınız."
-
-# game/code/Book-1/Chapter-8w/s04.rpy:313
-translate turkish b1c08ws04_sex_c3e85c46:
-
-    # "Her body goes limp on top of you as you feel her orgasm rip through her body. You grab her and hold her steady, breathless and satisfied in each other's arms."
-    "Orgazmının vücudunu parçaladığını hissettiğinizde vücudu üstünüzde gevşiyor. Onu yakalar ve birbirinizin kollarında sabit, nefessiz ve tatmin olmuş bir şekilde tutarsınız."
 
 # game/code/Book-1/Chapter-8w/s04.rpy:323
 translate turkish b1c08ws04_sex_14a3c03d:
@@ -615,4 +591,28 @@ translate turkish strings:
     # game/code/Book-1/Chapter-8w/s04.rpy:157
     old "Push Monika away"
     new "Monika'yı uzaklaştır"
+
+# game/code/Book-1/Chapter-8w/s04.rpy:73
+translate turkish b1c08ws04_4d33a885:
+
+    # "Monika thins her lips and smirks at you. She drags out her words."
+    "Monika thins her lips and smirks at you. She drags out her words."
+
+# game/code/Book-1/Chapter-8w/s04.rpy:218
+translate turkish b1c08ws04_sex_213eaa6c:
+
+    # "She pinches your nipple playfully, making you startle, before resting her other hand on your waist."
+    "She pinches your nipple playfully, making you startle, before resting her other hand on your waist."
+
+# game/code/Book-1/Chapter-8w/s04.rpy:224
+translate turkish b1c08ws04_sex_5c3af901:
+
+    # "Her excitement is evident as she nuzzles against your skin, her hot breath singeing you in pleasure and making you arch your back and push your hips into her."
+    "Her excitement is evident as she nuzzles against your skin, her hot breath singeing you in pleasure and making you arch your back and push your hips into her."
+
+# game/code/Book-1/Chapter-8w/s04.rpy:341
+translate turkish b1c08ws04_sex_a49d7f08:
+
+    # "Her body goes limp on top of you as you feel her orgasm rip through her. You grab her and hold her steady, breathless and satisfied in each other's arms."
+    "Her body goes limp on top of you as you feel her orgasm rip through her. You grab her and hold her steady, breathless and satisfied in each other's arms."
 

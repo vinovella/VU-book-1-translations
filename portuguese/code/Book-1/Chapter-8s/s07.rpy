@@ -862,12 +862,6 @@ translate portuguese b1c08ss07_after_pegging_79b5c832:
     # ha "Well, now that we've dealt with that little disturbance, it's time for you to do a little something for me."
     ha "Bem, agora que cuidamos desse pequeno incômodo, hora de você fazer algo por mim."
 
-# game/code/Book-1/Chapter-8s/s07.rpy:596
-translate portuguese b1c08ss07_after_pegging_20c7bf65:
-
-    # "Your guarded expression reveals your skepticism, and you cross your arms to show your reluctance."
-    "Sua expressão reservada revela seu ceticismo, e você cruza os braços para mostrar relutância. "
-
 # game/code/Book-1/Chapter-8s/s07.rpy:597
 translate portuguese b1c08ss07_after_pegging_bc654b23:
 
@@ -1217,4 +1211,10 @@ translate portuguese strings:
     # game/code/Book-1/Chapter-8s/s07.rpy:566
     old "After an uncomfortable eternity watching the wall"
     new "Após uma eternidade desconfortável olhando para a parede"
+
+# game/code/Book-1/Chapter-8s/s07.rpy:642
+translate portuguese b1c08ss07_after_pegging_9c1ca661:
+
+    # "Your guarded expression reveals your skepticism."
+    "Your guarded expression reveals your skepticism."
 

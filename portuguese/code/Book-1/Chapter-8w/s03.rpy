@@ -412,12 +412,6 @@ translate portuguese b1c08ws03_91f4de83:
     # mc "Hey. It's not your fault."
     mc "Ei. Não é culpa sua."
 
-# game/code/Book-1/Chapter-8w/s03.rpy:239
-translate portuguese b1c08ws03_8b4b838b:
-
-    # "She catches you off guard with a kiss. It's a gentle warmth on your lips, but they carry a heaviness with so much emotion hidden behind."
-    "Ela o pega desprevenido com um beijo. É um calor gentil em seus lábios, mas carregam um peso com tanta emoção por trás."
-
 # game/code/Book-1/Chapter-8w/s03.rpy:243
 translate portuguese b1c08ws03_d7455b14:
 
@@ -525,4 +519,10 @@ translate portuguese strings:
     # game/code/Book-1/Chapter-8w/s03.rpy:8
     old "Some time later\nAt the hotel"
     new "Certo tempo depois\nNo hotel"
+
+# game/code/Book-1/Chapter-8w/s03.rpy:241
+translate portuguese b1c08ws03_470b68b1:
+
+    # "She catches you off guard with a kiss. It's a gentle warmth on your lips, but it carries a heaviness with so much emotion hidden behind."
+    "She catches you off guard with a kiss. It's a gentle warmth on your lips, but it carries a heaviness with so much emotion hidden behind."
 

@@ -166,12 +166,6 @@ translate chinese b1c08ws10_8e70be1a:
     # "The room falls quiet again, but this time, the silence feels different. The memory of the bitter loss is still fresh in everyone's mind."
     "房间再次陷入寂静，但这一次，寂静的感觉不同了。每个人都对那次惨痛的失败记忆犹新。"
 
-# game/code/Book-1/Chapter-8w/s10.rpy:75
-translate chinese b1c08ws10_7496e292:
-
-    # oa "We wouldn't have had to deal with any of this if just played without it. We don't need dangerous—"
-    oa "如果没用药，我们就不需要处理这些问题。我们不需要危险的--"
-
 # game/code/Book-1/Chapter-8w/s10.rpy:78
 translate chinese b1c08ws10_6e3bdfca:
 
@@ -399,4 +393,10 @@ translate chinese b1c08ws10_6778327d:
 
     # "One by one, the team files out of the room, the atmosphere thick with a mix of relief and lingering tension."
     "成员一个接一个地走出房间，空气中弥漫着一种解脱和紧张情绪交织在一起的复杂气氛。"
+
+# game/code/Book-1/Chapter-8w/s10.rpy:79
+translate chinese b1c08ws10_777e1ea1:
+
+    # oa "We wouldn't have had to deal with any of this if we just played without it. We don't need dangerous—"
+    oa "We wouldn't have had to deal with any of this if we just played without it. We don't need dangerous—"
 

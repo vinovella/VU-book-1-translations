@@ -520,12 +520,6 @@ translate turkish b1c08ss10_cd88aa8e:
     # zp "So that we could do this."
     zp "Böylece bunu yapabiliriz."
 
-# game/code/Book-1/Chapter-8s/s10.rpy:266
-translate turkish b1c08ss10_3fe8cd51:
-
-    # "Zemfira passionately rips your clothes off. You're so lost in her passion, you don't dare question her."
-    "Zemfira tutkuyla elbiselerini yırtıyor. Onun tutkusunda öyle kaybolursun ki, onu sorgulamaya cesaret edemezsin."
-
 # game/code/Book-1/Chapter-8s/s10.rpy:269
 translate turkish b1c08ss10_feb88c50:
 
@@ -807,4 +801,10 @@ translate turkish b1c08ss10_335c29c7:
 
     # mct "...The girls need to be found."
     mct "...Kızların bulunması gerekiyor."
+
+# game/code/Book-1/Chapter-8s/s10.rpy:273
+translate turkish b1c08ss10_5ae95222:
+
+    # "Zemfira grabs you passionately."
+    "Zemfira grabs you passionately."
 

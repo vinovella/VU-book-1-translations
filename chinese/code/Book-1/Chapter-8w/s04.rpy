@@ -70,12 +70,6 @@ translate chinese b1c08ws04_ea7f8e5e:
     # mc "Well, that's just unfortunate."
     mc "嗯，那太不幸了。"
 
-# game/code/Book-1/Chapter-8w/s04.rpy:67
-translate chinese b1c08ws04_8f974146:
-
-    # "Monika thins her lips and smirks at you behind your back. She drags out her words."
-    "莫妮卡抿着嘴唇，在你背后对你得意的笑。她拖长声音说道。"
-
 # game/code/Book-1/Chapter-8w/s04.rpy:70
 translate chinese b1c08ws04_5b75068d:
 
@@ -304,23 +298,11 @@ translate chinese b1c08ws04_sex_fb44488f:
     # "Monika runs her hand down your chest, gently caressing and teasing you with her touch."
     "莫妮卡的手在你的胸前滑动，温柔地爱抚你，挑逗你。"
 
-# game/code/Book-1/Chapter-8w/s04.rpy:201
-translate chinese b1c08ws04_sex_16ca74aa:
-
-    # "She pinches your nipple playfully, making you start, before resting her other hand on your waist."
-    "她调皮地捏着你的乳头，让你开始兴奋，然后她把另一只手放在你的腰上。"
-
 # game/code/Book-1/Chapter-8w/s04.rpy:204
 translate chinese b1c08ws04_sex_0a7270e5:
 
     # "Monika giggles at your surprise then slides her hand over your growing bulge, feeling your warmth and massaging your arousal."
     "莫妮卡看到你惊讶的样子咯咯直笑，然后她的手在你不断隆起的部位滑动，感受着你的温暖，按摩着你的兴奋。"
-
-# game/code/Book-1/Chapter-8w/s04.rpy:207
-translate chinese b1c08ws04_sex_fc22140a:
-
-    # "Her excitement is evident as nuzzles against your skin, her hot breath singeing you in pleasure and making you arch your back and push your hips into her."
-    "当她用鼻子蹭你的皮肤时，她的兴奋是显而易见的，她热乎乎的呼吸让你快乐地弓起背，将臀部向她的方向推去。"
 
 # game/code/Book-1/Chapter-8w/s04.rpy:210
 translate chinese b1c08ws04_sex_8e315aab:
@@ -453,12 +435,6 @@ translate chinese b1c08ws04_sex_1737dc29:
 
     # "Monika cums around your cock, greedily pulling you and begging for your cum. But with monumental effort, you manage to pull out of her just in time to cover her with your cum."
     "莫妮卡缠着你的鸡巴，贪婪地拉着你，乞求你的精液。但你费了九牛二虎之力，总算及时从她体内抽出，将精液射在了她身上。"
-
-# game/code/Book-1/Chapter-8w/s04.rpy:313
-translate chinese b1c08ws04_sex_c3e85c46:
-
-    # "Her body goes limp on top of you as you feel her orgasm rip through her body. You grab her and hold her steady, breathless and satisfied in each other's arms."
-    "她压在你上位的身体开始变得瘫软，而你则感受到她高潮时身体传来的阵阵快感。你紧紧抱住她，让她喘不过气来，两人紧紧依偎，心满意足。"
 
 # game/code/Book-1/Chapter-8w/s04.rpy:323
 translate chinese b1c08ws04_sex_14a3c03d:
@@ -615,4 +591,28 @@ translate chinese strings:
     # game/code/Book-1/Chapter-8w/s04.rpy:157
     old "Push Monika away"
     new "推开莫妮卡"
+
+# game/code/Book-1/Chapter-8w/s04.rpy:73
+translate chinese b1c08ws04_4d33a885:
+
+    # "Monika thins her lips and smirks at you. She drags out her words."
+    "Monika thins her lips and smirks at you. She drags out her words."
+
+# game/code/Book-1/Chapter-8w/s04.rpy:218
+translate chinese b1c08ws04_sex_213eaa6c:
+
+    # "She pinches your nipple playfully, making you startle, before resting her other hand on your waist."
+    "She pinches your nipple playfully, making you startle, before resting her other hand on your waist."
+
+# game/code/Book-1/Chapter-8w/s04.rpy:224
+translate chinese b1c08ws04_sex_5c3af901:
+
+    # "Her excitement is evident as she nuzzles against your skin, her hot breath singeing you in pleasure and making you arch your back and push your hips into her."
+    "Her excitement is evident as she nuzzles against your skin, her hot breath singeing you in pleasure and making you arch your back and push your hips into her."
+
+# game/code/Book-1/Chapter-8w/s04.rpy:341
+translate chinese b1c08ws04_sex_a49d7f08:
+
+    # "Her body goes limp on top of you as you feel her orgasm rip through her. You grab her and hold her steady, breathless and satisfied in each other's arms."
+    "Her body goes limp on top of you as you feel her orgasm rip through her. You grab her and hold her steady, breathless and satisfied in each other's arms."
 

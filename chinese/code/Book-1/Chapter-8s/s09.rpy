@@ -328,12 +328,6 @@ translate chinese b1c08ss09_5d0250bf:
     # "You feel the women's gazes on you, scanning you for any hidden injuries or discomforts they could tend to."
     "你能感觉到女士们的目光在注视着你，扫视着你身上是否有她们可以处理的伤口。"
 
-# game/code/Book-1/Chapter-8s/s09.rpy:177
-translate chinese b1c08ss09_1fd63701:
-
-    # mc "No, no I'm fine. Just the hand."
-    mc "不，没事的，我很好。只是手受伤了。"
-
 # game/code/Book-1/Chapter-8s/s09.rpy:180
 translate chinese b1c08ss09_46c9561b:
 
@@ -1354,12 +1348,6 @@ translate chinese b1c08ss09_0cafc6af:
     # "You cannot outlast her. Morgan's savage blows keep repeating, and it seems you're locked in a cage of endless assault."
     "你不可能比她坚持得更久。摩根的野蛮殴打不断重复，你似乎被关在一个无休止攻击的笼子里。"
 
-# game/code/Book-1/Chapter-8s/s09.rpy:702
-translate chinese b1c08ss09_0ac59815:
-
-    # "Morgan's so focused on breaking through your defences, she loses track of her weak points."
-    "摩根一心只想突破你的防线，却忽略了她自己的弱点。"
-
 # game/code/Book-1/Chapter-8s/s09.rpy:703
 translate chinese b1c08ss09_03d90f24:
 
@@ -1581,4 +1569,16 @@ translate chinese strings:
     # game/code/Book-1/Chapter-8s/s09.rpy:343
     old "What does this matter?"
     new "这有什么关系？"
+
+# game/code/Book-1/Chapter-8s/s09.rpy:179
+translate chinese b1c08ss09_722183e0:
+
+    # mc "No, no I'm fine. Got a headache and a cut hand, that's about it."
+    mc "No, no I'm fine. Got a headache and a cut hand, that's about it."
+
+# game/code/Book-1/Chapter-8s/s09.rpy:707
+translate chinese b1c08ss09_e47325aa:
+
+    # "Morgan's so focused on breaking through your defenses, she loses track of her weak points."
+    "Morgan's so focused on breaking through your defenses, she loses track of her weak points."
 

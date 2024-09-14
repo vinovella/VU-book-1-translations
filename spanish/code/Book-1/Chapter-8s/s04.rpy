@@ -1054,23 +1054,11 @@ translate spanish b1c08ss04_sex_fdff6211:
     # mc "What a good slut you are. Let me take care of you, Asami."
     mc "Que buena puta eres. Déjame cuidar de ti, Asami."
 
-# game/code/Book-1/Chapter-8s/s04.rpy:647
-translate spanish b1c08ss04_sex_6c53dcda:
-
-    # "She tastes so sweet. Her pussy twitches and greedily tries to pull your fingers farther inside."
-    "Ella tiene un sabor tan dulce. Su coño se retuerce y con avidez trata de empujar tus dedos más adentro."
-
 # game/code/Book-1/Chapter-8s/s04.rpy:650
 translate spanish b1c08ss04_sex_ff17caf7:
 
     # "You hit that sweet spot inside her, and her hips buck into your face."
     "Llegas a ese punto dulce dentro de ella y sus caderas chocan contra tu cara."
-
-# game/code/Book-1/Chapter-8s/s04.rpy:653
-translate spanish b1c08ss04_sex_66412271:
-
-    # "She grinds against your tongue and fingers, so desperate for more."
-    "Ella se frota contra tu lengua y tus dedos, tan desesperada por más."
 
 # game/code/Book-1/Chapter-8s/s04.rpy:667
 translate spanish b1c08ss04_sex_89b61263:
@@ -1397,4 +1385,16 @@ translate spanish strings:
     # game/code/Book-1/Chapter-8s/s04.rpy:499
     old "We should rest"
     new "Deberíamos descansar"
+
+# game/code/Book-1/Chapter-8s/s04.rpy:669
+translate spanish b1c08ss04_sex_e8f73632:
+
+    # "She tastes so sweet. Her pussy twitches and greedily aches before you."
+    "She tastes so sweet. Her pussy twitches and greedily aches before you."
+
+# game/code/Book-1/Chapter-8s/s04.rpy:675
+translate spanish b1c08ss04_sex_4fd89c00:
+
+    # "She grinds against your tongue, so desperate for more."
+    "She grinds against your tongue, so desperate for more."
 

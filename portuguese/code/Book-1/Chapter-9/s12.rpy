@@ -418,12 +418,6 @@ translate portuguese b1c09s12_sex_c9588c21:
     # mc "*Smiles* Good girl."
     mc "*Sorriso* Boa garota."
 
-# game/code/Book-1/Chapter-9/s12.rpy:295
-translate portuguese b1c09s12_sex_18972076:
-
-    # "As your tongue teases her folds, Fleur's grip on the edge of the counter tightens, her nails digging into the wood."
-    "Você provoca a vagina dela, e Fleur aperta na cadeira, suas unhas cravando na madeira."
-
 # game/code/Book-1/Chapter-9/s12.rpy:297
 translate portuguese b1c09s12_sex_7e114488:
 
@@ -1083,4 +1077,10 @@ translate portuguese b1c09s12_sex_end_e0542038:
 
     # ffl "*Giggles* Oh God, don't say that!"
     ffl "*Risada* Meu Deus, não fala isso!"
+
+# game/code/Book-1/Chapter-9/s12.rpy:305
+translate portuguese b1c09s12_sex_5a5aa7ff:
+
+    # "As your tongue teases her folds, Fleur's grip on the edge of the chair tightens, her nails digging into the wood."
+    "As your tongue teases her folds, Fleur's grip on the edge of the chair tightens, her nails digging into the wood."
 

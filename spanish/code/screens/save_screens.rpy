@@ -50,3 +50,13 @@ translate spanish strings:
     old "Saves From Book"
     new "Guardar para libro"
 
+translate spanish strings:
+
+    # game/code/screens/save_screens.rpy:50
+    old "Saves For Book "
+    new "Saves For Book "
+
+    # game/code/screens/save_screens.rpy:50
+    old "Saves From Book "
+    new "Saves From Book "
+

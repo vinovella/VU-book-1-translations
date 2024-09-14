@@ -34,3 +34,9 @@ translate chinese strings:
     old "You've unlocked a new bonus content"
     new "You've unlocked a new bonus content"
 
+translate chinese strings:
+
+    # game/code/functions/functions.rpy:374
+    old "You've unlocked \"{}\" {}"
+    new "You've unlocked \"{}\" {}"
+

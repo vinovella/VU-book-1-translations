@@ -418,12 +418,6 @@ translate spanish b1c08cs11_dcac1483:
     # "You slide your hands down to her perfect ass and dig your fingers into her skin."
     "Deslizas tus manos hasta su culo perfecto y clavas tus dedos en su piel."
 
-# game/code/Book-1/Chapter-8c/s11.rpy:269
-translate spanish b1c08cs11_66c949c3:
-
-    # "Ivy clings to you, and nuzzles into your shoulder. Her shallow breaths warm your shoulder."
-    "Ivy se aferra a ti y acaricia tu hombro. Sus respiraciones superficiales calientan tu hombro."
-
 # game/code/Book-1/Chapter-8c/s11.rpy:272
 translate spanish b1c08cs11_3bb4cde6:
 
@@ -459,12 +453,6 @@ translate spanish b1c08cs11_69d0dfcd:
 
     # "Ivy's orgasm rips through both of your bodies. Her walls convulse so tightly around you it almost hurts."
     "El orgasmo de Ivy desgarra ambos cuerpos. Sus paredes se convulsionan con tanta fuerza a tu alrededor que casi duele."
-
-# game/code/Book-1/Chapter-8c/s11.rpy:294
-translate spanish b1c08cs11_ab8d606b:
-
-    # "The layered sensation of her warm body pressed against you, her body milking you so thoroughly—You can't hold back anymore."
-    "La sensación en capas de su cuerpo cálido presionado contra ti, su cuerpo ordeñandote tan a fondo... No puedes contenerte más."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:296
 translate spanish b1c08cs11_80d66ded:
@@ -651,4 +639,16 @@ translate spanish b1c08cs11_33a818c3:
 
     # "You're easily coaxed into sleep."
     "Te convencen fácilmente para que te duermas."
+
+# game/code/Book-1/Chapter-8c/s11.rpy:292
+translate spanish b1c08cs11_0f63ae30:
+
+    # "Ivy clings to you, and nuzzles into your shoulder. Her shallow breaths warm your skin."
+    "Ivy clings to you, and nuzzles into your shoulder. Her shallow breaths warm your skin."
+
+# game/code/Book-1/Chapter-8c/s11.rpy:321
+translate spanish b1c08cs11_418e2ba3:
+
+    # "The layered sensation of her warm body pressed against you, milking you so thoroughly—You can't hold back anymore."
+    "The layered sensation of her warm body pressed against you, milking you so thoroughly—You can't hold back anymore."
 

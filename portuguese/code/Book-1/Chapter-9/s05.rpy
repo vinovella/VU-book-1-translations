@@ -898,12 +898,6 @@ translate portuguese b1c09s05_femdom_end_1d8ad034:
     # dm "And you didn't cum either."
     dm "E nem gozou."
 
-# game/code/Book-1/Chapter-9/s05.rpy:599
-translate portuguese b1c09s05_femdom_end_2abb0402:
-
-    # "Her touch, what was once bliss, is not agony. You feel as if you could burst any moment, but you still hold on."
-    "O toque dela, que antes trazia êxtase, agora é agonizante. Você sente que poderia gozar a qualquer momento, mas ainda se segura."
-
 # game/code/Book-1/Chapter-9/s05.rpy:600
 translate portuguese b1c09s05_femdom_end_a4c4fa44:
 
@@ -1229,4 +1223,10 @@ translate portuguese strings:
     # game/code/Book-1/Chapter-9/s05.rpy:611
     old "Refuse to clean your cum"
     new "Se recusar a limpar seu sêmen"
+
+# game/code/Book-1/Chapter-9/s05.rpy:634
+translate portuguese b1c09s05_femdom_end_d8cd946f:
+
+    # "Her touch, what was once bliss, is now agony. You feel as if you could burst any moment, but you still hold on."
+    "Her touch, what was once bliss, is now agony. You feel as if you could burst any moment, but you still hold on."
 

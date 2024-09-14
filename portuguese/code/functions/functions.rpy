@@ -36,3 +36,9 @@ translate portuguese strings:
     old "You have updated a new character in the Investigation Board"
     new ""
 
+translate portuguese strings:
+
+    # game/code/functions/functions.rpy:374
+    old "You've unlocked \"{}\" {}"
+    new "You've unlocked \"{}\" {}"
+

@@ -1,9 +1,3 @@
-# game/code/Book-1/Chapter-9/s13.rpy:27
-translate chinese b1c09s13_550201bf:
-
-    # "[b1c09s13_bartender_name]" "What can I get you?"
-    "[b1c09s13_bartender_name]" "What can I get you?"
-
 # game/code/Book-1/Chapter-9/s13.rpy:29
 translate chinese b1c09s13_dbccd2a5:
 
@@ -1029,4 +1023,16 @@ translate chinese b1c09s13_jh_3a1b6051:
 
     # jh "I will, I promise. Thanks again, [mcname]."
     jh "I will, I promise. Thanks again, [mcname]."
+
+# game/code/Book-1/Chapter-9/s13.rpy:30
+translate chinese b1c09s13_8cdca3b5:
+
+    # "[b1c09s13_bartender_name!t]" "What can I get you?"
+    "[b1c09s13_bartender_name!t]" "What can I get you?"
+
+translate chinese strings:
+
+    # game/code/Book-1/Chapter-9/s13.rpy:18
+    old "Still Not Brandon"
+    new "Still Not Brandon"
 

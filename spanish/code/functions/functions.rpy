@@ -36,3 +36,9 @@ translate spanish strings:
     old "You have updated a new character in the Investigation Board"
     new "Has actualizado un nuevo personaje en el Tablón de Investigación"
 
+translate spanish strings:
+
+    # game/code/functions/functions.rpy:374
+    old "You've unlocked \"{}\" {}"
+    new "You've unlocked \"{}\" {}"
+

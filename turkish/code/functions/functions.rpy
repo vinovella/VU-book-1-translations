@@ -34,3 +34,9 @@ translate turkish strings:
     old "You've unlocked a new bonus content"
     new "Yeni bir bonus içeriğin kilidini açtınız"
 
+translate turkish strings:
+
+    # game/code/functions/functions.rpy:374
+    old "You've unlocked \"{}\" {}"
+    new "You've unlocked \"{}\" {}"
+

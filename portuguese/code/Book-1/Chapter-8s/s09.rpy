@@ -328,12 +328,6 @@ translate portuguese b1c08ss09_5d0250bf:
     # "You feel the women's gazes on you, scanning you for any hidden injuries or discomforts they could tend to."
     "Você sente que as mulheres olhando para você, procurando por algum machucado escondido ou desconforto que possam cuidar."
 
-# game/code/Book-1/Chapter-8s/s09.rpy:177
-translate portuguese b1c08ss09_1fd63701:
-
-    # mc "No, no I'm fine. Just the hand."
-    mc "Não, eu estou bem. Só a mão."
-
 # game/code/Book-1/Chapter-8s/s09.rpy:180
 translate portuguese b1c08ss09_46c9561b:
 
@@ -1354,12 +1348,6 @@ translate portuguese b1c08ss09_0cafc6af:
     # "You cannot outlast her. Morgan's savage blows keep repeating, and it seems you're locked in a cage of endless assault."
     "Você não pode aguentar mais que ela. Os ataques brutos da Morgan vão continuando, e parece que você está travado numa agressão sem fim."
 
-# game/code/Book-1/Chapter-8s/s09.rpy:702
-translate portuguese b1c08ss09_0ac59815:
-
-    # "Morgan's so focused on breaking through your defences, she loses track of her weak points."
-    "A Morgan está tão focada em penetrações defesas que perde noção dos próprios pontos fracos."
-
 # game/code/Book-1/Chapter-8s/s09.rpy:703
 translate portuguese b1c08ss09_03d90f24:
 
@@ -1581,4 +1569,16 @@ translate portuguese strings:
     # game/code/Book-1/Chapter-8s/s09.rpy:343
     old "What does this matter?"
     new "O que importa?"
+
+# game/code/Book-1/Chapter-8s/s09.rpy:179
+translate portuguese b1c08ss09_722183e0:
+
+    # mc "No, no I'm fine. Got a headache and a cut hand, that's about it."
+    mc "No, no I'm fine. Got a headache and a cut hand, that's about it."
+
+# game/code/Book-1/Chapter-8s/s09.rpy:707
+translate portuguese b1c08ss09_e47325aa:
+
+    # "Morgan's so focused on breaking through your defenses, she loses track of her weak points."
+    "Morgan's so focused on breaking through your defenses, she loses track of her weak points."
 

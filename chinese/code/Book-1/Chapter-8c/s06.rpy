@@ -4,12 +4,6 @@ translate chinese b1c08cs06_803e39f9:
     # "You open your eyes. A faint hint of light seeps through your tent."
     "你睁开眼睛。一缕微弱的光线从你的帐篷里透了进来。"
 
-# game/code/Book-1/Chapter-8c/s06.rpy:21
-translate chinese b1c08cs06_3f0bc523:
-
-    # "Lumi's still fast asleep, thoroughly worn out after last night."
-    "卢米还在熟睡，经过昨晚的折腾，她已经筋疲力竭了。"
-
 # game/code/Book-1/Chapter-8c/s06.rpy:33
 translate chinese b1c08cs06_d334a147:
 
@@ -658,12 +652,6 @@ translate chinese b1c08cs06_92c45575:
     # nv "What was her name?"
     nv "她叫什么名字？"
 
-# game/code/Book-1/Chapter-8c/s06.rpy:330
-translate chinese b1c08cs06_37b6b90e:
-
-    # ys "Narrura."
-    ys "纳鲁拉。"
-
 # game/code/Book-1/Chapter-8c/s06.rpy:332
 translate chinese b1c08cs06_fb08ac56:
 
@@ -1149,4 +1137,16 @@ translate chinese b1c08cs06_01c85351:
 
     # ih "You all go without me. I already had breakfast..."
     ih "你们去吃吧，不用管我。我已经吃过早饭了..."
+
+# game/code/Book-1/Chapter-8c/s06.rpy:23
+translate chinese b1c08cs06_79b385e5:
+
+    # "Lumi's still gently asleep."
+    "Lumi's still gently asleep."
+
+# game/code/Book-1/Chapter-8c/s06.rpy:341
+translate chinese b1c08cs06_6105367c:
+
+    # ys "Narurra."
+    ys "Narurra."
 

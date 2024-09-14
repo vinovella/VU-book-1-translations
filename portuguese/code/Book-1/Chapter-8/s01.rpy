@@ -118,12 +118,6 @@ translate portuguese b1c08s01_call_recaps_43b3b093:
     # pm "Anything else?"
     pm "Mais alguma coisa?"
 
-# game/code/Book-1/Chapter-8/s01.rpy:169
-translate portuguese b1c08s01_continue_ec576263:
-
-    # mc "I got some basic info, but no strong leads."
-    mc "Peguei uma informação básica, mas nenhuma pista importante."
-
 # game/code/Book-1/Chapter-8/s01.rpy:172
 translate portuguese b1c08s01_continue_d6c970b3:
 
@@ -225,12 +219,6 @@ translate portuguese b1c08s01_end_994dc447:
 
     # "After a long while of talking and planning."
     "Após uma longa conversa e planejamento."
-
-# game/code/Book-1/Chapter-8/s01.rpy:240
-translate portuguese b1c08s01_end_4e9968c0:
-
-    # mc "Next time we need at least double."
-    mc "Da próxima vez precisamos de pelo menos uma dupla."
 
 # game/code/Book-1/Chapter-8/s01.rpy:243
 translate portuguese b1c08s01_end_d9be2b18:
@@ -657,12 +645,6 @@ translate portuguese b1c08s01_recap_c08w_2308a15f:
 
     # mc "I will. I promise."
     mc "Eu vou. Prometo."
-
-# game/code/Book-1/Chapter-8/s01.rpy:429
-translate portuguese b1c08s01_recap_c06c_87178169:
-
-    # "You begin your recap on The Self-Help, going over everything that you've witnessed in great detail."
-    "Você começa a falar dos acontecimentos do grupo de Autoajuda, recapitulando tudo que você viu detalhadamente."
 
 # game/code/Book-1/Chapter-8/s01.rpy:431
 translate portuguese b1c08s01_recap_c06c_ba5d7fe4:
@@ -1216,12 +1198,6 @@ translate portuguese b1c08s01_recap_c07s_247d6338:
     # pm "That's...surprising."
     pm "Isso é... surpreendente."
 
-# game/code/Book-1/Chapter-8/s01.rpy:660
-translate portuguese b1c08s01_recap_c07s_b77d08ca:
-
-    # mc "Anyway. I finish up with Rory and meet up with Morgan."
-    mc "Bom. Eu resolvi as coisas com a Rory e me encontrei com a Morgan."
-
 # game/code/Book-1/Chapter-8/s01.rpy:661
 translate portuguese b1c08s01_recap_c07s_d9a4c3dd:
 
@@ -1240,12 +1216,6 @@ translate portuguese b1c08s01_recap_c07s_712456ab:
     # pm "The Syndicate? Interesting. I'll look into it."
     pm "O Sindicato? Interessante. Vou dar uma olhada."
 
-# game/code/Book-1/Chapter-8/s01.rpy:668
-translate portuguese b1c08s01_recap_c07s_59501dea:
-
-    # mc "Anyway. I finish up with Rory and meet up with Corrine."
-    mc "Bom. Eu resolvi as coisas com a Rory e me encontrei com a Corrine."
-
 # game/code/Book-1/Chapter-8/s01.rpy:669
 translate portuguese b1c08s01_recap_c07s_f45cf8a9:
 
@@ -1257,12 +1227,6 @@ translate portuguese b1c08s01_recap_c07s_7f1c6212:
 
     # mc "That's how I'll be able to take care of Morgan's debt and also get more info on the main group, which is called \"The Syndicate.\""
     mc "É assim que eu vou cuidar da dívida da Morgan e conseguir mais informação do grupo principal chamado \"O Sindicato\"."
-
-# game/code/Book-1/Chapter-8/s01.rpy:678
-translate portuguese b1c08s01_recap_c08s_112c578d:
-
-    # mc "The main way I got into The Syndicate was when some of their members were kidnapped by a rival group called The Wasps."
-    mc "A forma principal que eu consegui de entrar no Sindicato foi quando uns membros foram sequestrados por uma gangue rival chamada as Vespas."
 
 # game/code/Book-1/Chapter-8/s01.rpy:679
 translate portuguese b1c08s01_recap_c08s_2c55070e:
@@ -1437,4 +1401,64 @@ translate portuguese strings:
     # game/code/Book-1/Chapter-8/s01.rpy:734
     old "The Cult"
     new "O Culto"
+
+# game/code/Book-1/Chapter-8/s01.rpy:175
+translate portuguese b1c08s01_continue_8fbdda7e:
+
+    # mc "I got some leads, but I haven't had the time to go deeper into them."
+    mc "I got some leads, but I haven't had the time to go deeper into them."
+
+# game/code/Book-1/Chapter-8/s01.rpy:246
+translate portuguese b1c08s01_end_15b093d8:
+
+    # mc "Next time we need to at least double the amount of coffee we got."
+    mc "Next time we need to at least double the amount of coffee we got."
+
+# game/code/Book-1/Chapter-8/s01.rpy:435
+translate portuguese b1c08s01_recap_c06c_2d90b0b2:
+
+    # "You begin your recap on The Self-Help Group, going over everything that you've witnessed in great detail."
+    "You begin your recap on The Self-Help Group, going over everything that you've witnessed in great detail."
+
+# game/code/Book-1/Chapter-8/s01.rpy:666
+translate portuguese b1c08s01_recap_c07s_89a181b0:
+
+    # mc "I had a bit of a scuffle at Rory's with someone named Cade. Someone from a rival gang called The Wasps."
+    mc "I had a bit of a scuffle at Rory's with someone named Cade. Someone from a rival gang called The Wasps."
+
+# game/code/Book-1/Chapter-8/s01.rpy:667
+translate portuguese b1c08s01_recap_c07s_53eb8627:
+
+    # pm "Are you okay?"
+    pm "Are you okay?"
+
+# game/code/Book-1/Chapter-8/s01.rpy:668
+translate portuguese b1c08s01_recap_c07s_d1fd0311:
+
+    # mc "I'm fine. You should've seen the other guy. {w}Anyway. After Rory, I met up with Morgan."
+    mc "I'm fine. You should've seen the other guy. {w}Anyway. After Rory, I met up with Morgan."
+
+# game/code/Book-1/Chapter-8/s01.rpy:676
+translate portuguese b1c08s01_recap_c07s_89a181b0_1:
+
+    # mc "I had a bit of a scuffle at Rory's with someone named Cade. Someone from a rival gang called The Wasps."
+    mc "I had a bit of a scuffle at Rory's with someone named Cade. Someone from a rival gang called The Wasps."
+
+# game/code/Book-1/Chapter-8/s01.rpy:677
+translate portuguese b1c08s01_recap_c07s_53eb8627_1:
+
+    # pm "Are you okay?"
+    pm "Are you okay?"
+
+# game/code/Book-1/Chapter-8/s01.rpy:678
+translate portuguese b1c08s01_recap_c07s_083f51aa:
+
+    # mc "I'm fine. You should've seen the other guy. {w}Anyway. After Rory, I met up with Corrine."
+    mc "I'm fine. You should've seen the other guy. {w}Anyway. After Rory, I met up with Corrine."
+
+# game/code/Book-1/Chapter-8/s01.rpy:688
+translate portuguese b1c08s01_recap_c08s_745fd50b:
+
+    # mc "After all that, Cade and some goons from The Wasps decided to kidnap some Syndicate members. That was my ticket in with them."
+    mc "After all that, Cade and some goons from The Wasps decided to kidnap some Syndicate members. That was my ticket in with them."
 

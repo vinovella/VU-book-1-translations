@@ -46,3 +46,13 @@ translate portuguese strings:
     old "Character Filter: [character_filter]"
     new "Filtrar Personnagem: [character_filter]"
 
+translate portuguese strings:
+
+    # game/code/screens/gallery.rpy:21
+    old "Achievements"
+    new "Achievements"
+
+    # game/code/screens/gallery.rpy:45
+    old "Character Filter: [character_filter!t]"
+    new "Character Filter: [character_filter!t]"
+

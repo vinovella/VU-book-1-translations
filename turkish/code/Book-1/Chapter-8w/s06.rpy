@@ -262,12 +262,6 @@ translate turkish b1c08ws06_f64b5bda:
     # ir "Let's get this over with."
     ir "Hadi şu işi bitirelim."
 
-# game/code/Book-1/Chapter-8w/s06.rpy:133
-translate turkish b1c08ws06_6babed16:
-
-    # ba "Sit down. It'll be easier."
-    ba "Otur. Daha kolay olacak."
-
 # game/code/Book-1/Chapter-8w/s06.rpy:140
 translate turkish b1c08ws06_f6899a69:
 
@@ -349,4 +343,10 @@ translate turkish strings:
     # game/code/Book-1/Chapter-8w/s06.rpy:79
     old "Go for it"
     new "Devam et."
+
+# game/code/Book-1/Chapter-8w/s06.rpy:137
+translate turkish b1c08ws06_08e0644c:
+
+    # ba "C'mon, shirt off."
+    ba "C'mon, shirt off."
 

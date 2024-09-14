@@ -1324,12 +1324,6 @@ translate chinese b1c08cs08_ll_punishment_d4d87a94:
     # ll "I suppose you're right..."
     ll "你说得对..."
 
-# game/code/Book-1/Chapter-8c/s08.rpy:704
-translate chinese b1c08cs08_ll_spanking_d458906e:
-
-    # "She before you with a more confident expression, ready to take her punishment with dignity."
-    "她带着更自信的表情站在你面前，准备体面地接受惩罚。"
-
 # game/code/Book-1/Chapter-8c/s08.rpy:707
 translate chinese b1c08cs08_ll_spanking_9822128a:
 
@@ -1599,12 +1593,6 @@ translate chinese b1c08cs08_ll_spanking_8acdeff2:
 
     # ys "Just like you. We are all magnificent creatures."
     ys "我和你一样美丽。我们都是了不起的生物。"
-
-# game/code/Book-1/Chapter-8c/s08.rpy:859
-translate chinese b1c08cs08_ll_spanking_6661d99c:
-
-    # "At Yvonne's silent que, Sloan and Nerium also rise."
-    "在伊冯娜的无声支持中，斯隆和奈里姆也站了起来。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:862
 translate chinese b1c08cs08_ll_spanking_e8d7836c:
@@ -2033,4 +2021,16 @@ translate chinese strings:
     # game/code/Book-1/Chapter-8c/s08.rpy:553
     old "Of course. The punishment is out of love"
     new "当然。惩罚是出于爱"
+
+# game/code/Book-1/Chapter-8c/s08.rpy:717
+translate chinese b1c08cs08_ll_spanking_d643c708:
+
+    # "She stands before you with a more confident expression, ready to take her punishment with dignity."
+    "She stands before you with a more confident expression, ready to take her punishment with dignity."
+
+# game/code/Book-1/Chapter-8c/s08.rpy:891
+translate chinese b1c08cs08_ll_spanking_6c63b3c0:
+
+    # "At Yvonne's silent cue, Sloan and Nerium also rise."
+    "At Yvonne's silent cue, Sloan and Nerium also rise."
 

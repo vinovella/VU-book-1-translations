@@ -968,4 +968,3 @@ translate spanish strings:
     old "Kara is #1 suspect in Maria's disappearance."
     new "Kara es la sospechosa número uno en la desaparición de María."
 
-

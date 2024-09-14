@@ -862,12 +862,6 @@ translate turkish b1c08ss07_after_pegging_79b5c832:
     # ha "Well, now that we've dealt with that little disturbance, it's time for you to do a little something for me."
     ha "Pekala, şimdi bu küçük rahatsızlığı hallettiğimize göre, benim için küçük bir şey yapmanın zamanı geldi."
 
-# game/code/Book-1/Chapter-8s/s07.rpy:600
-translate turkish b1c08ss07_after_pegging_20c7bf65:
-
-    # "Your guarded expression reveals your skepticism, and you cross your arms to show your reluctance."
-    "Temkinli ifadeniz şüpheciliğinizi ortaya koyuyor ve isteksizliğinizi göstermek için kollarınızı kavuşturuyorsunuz."
-
 # game/code/Book-1/Chapter-8s/s07.rpy:601
 translate turkish b1c08ss07_after_pegging_bc654b23:
 
@@ -1217,4 +1211,10 @@ translate turkish strings:
     # game/code/Book-1/Chapter-8s/s07.rpy:569
     old "After an uncomfortable eternity watching the wall"
     new "Rahatsız edici bir sonsuzluktan sonra duvarı izlerken"
+
+# game/code/Book-1/Chapter-8s/s07.rpy:642
+translate turkish b1c08ss07_after_pegging_9c1ca661:
+
+    # "Your guarded expression reveals your skepticism."
+    "Your guarded expression reveals your skepticism."
 

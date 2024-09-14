@@ -32,3 +32,9 @@ translate spanish strings:
     old "Character Filter: [character_filter!t]"
     new "Filtro de personajes: [character_filter!t]"
 
+translate spanish strings:
+
+    # game/code/screens/gallery.rpy:21
+    old "Achievements"
+    new "Achievements"
+

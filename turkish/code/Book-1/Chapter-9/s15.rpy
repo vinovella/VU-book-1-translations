@@ -670,12 +670,6 @@ translate turkish b1c09s15_sex_karaoke_end_d1f6e450:
     # "In response to seeing your pleasure, [c1.name] hums around your cock, her eyes locked with yours."
     "In response to seeing your pleasure, [c1.name] hums around your cock, her eyes locked with yours."
 
-# game/code/Book-1/Chapter-9/s15.rpy:829
-translate turkish b1c09s15_sex_karaoke_end_aa6bfc90:
-
-    # "Meanwhile, [c2.name]'s nimble fingers dance along your balls and up your thighs, her nails leaving goosebumps in their wake."
-    "Meanwhile, [c2.name]'s nimble fingers dance along your balls and up your thighs, her nails leaving goosebumps in their wake."
-
 # game/code/Book-1/Chapter-9/s15.rpy:830
 translate turkish b1c09s15_sex_karaoke_end_5ed57917:
 

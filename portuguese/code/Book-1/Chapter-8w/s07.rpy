@@ -106,12 +106,6 @@ translate portuguese b1c08ws07_9e7f72d6:
     # "The crowd is already amped and ready, the air is charged with anticipation."
     "A multidão já está animada e pronta, o ar carregado de antecipação."
 
-# game/code/Book-1/Chapter-8w/s07.rpy:87
-translate portuguese b1c08ws07_4ace5bf7:
-
-    # "Both teams eye each other as the referee talks things over with the captains."
-    "Ambos os times se encaram enquanto o árbitro conversa com as capitãs."
-
 # game/code/Book-1/Chapter-8w/s07.rpy:103
 translate portuguese b1c08ws07_26b6775a:
 
@@ -598,12 +592,6 @@ translate portuguese b1c08ws07_4960a53a:
     # sa "Alright, team, let's get back out there and take the final set. Stay focused, stay strong, and play like the winners we are."
     sa "Beleza time, vamos voltar lá e conseguir esse último set. Fiquem focados, fiquem firmes e joguem como os vencedores que somos."
 
-# game/code/Book-1/Chapter-8w/s07.rpy:422
-translate portuguese b1c08ws07_0e5f6808:
-
-    # "The CCC team serves, and the game is on once again"
-    "FCC saca, e o jogo começa novamente."
-
 # game/code/Book-1/Chapter-8w/s07.rpy:427
 translate portuguese b1c08ws07_bc30ec1b:
 
@@ -1023,4 +1011,16 @@ translate portuguese b1c08ws07_0b19e87b:
 
     # "You'd be worried about your predicament, but your consciousness quickly slips away too, leaving you all alone."
     "Você estaria preocupado com seu problema, mas rapidamente perde a consciência, deixando-o sozinho."
+
+# game/code/Book-1/Chapter-8w/s07.rpy:89
+translate portuguese b1c08ws07_cd88a85c:
+
+    # "Both teams eye each other."
+    "Both teams eye each other."
+
+# game/code/Book-1/Chapter-8w/s07.rpy:424
+translate portuguese b1c08ws07_d8796b5f:
+
+    # "The CCC team serves, and the game is on once again."
+    "The CCC team serves, and the game is on once again."
 

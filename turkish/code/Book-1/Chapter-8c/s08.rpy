@@ -1324,12 +1324,6 @@ translate turkish b1c08cs08_ll_punishment_d4d87a94:
     # ll "I suppose you're right..."
     ll "Sanırım haklısın..."
 
-# game/code/Book-1/Chapter-8c/s08.rpy:704
-translate turkish b1c08cs08_ll_spanking_d458906e:
-
-    # "She before you with a more confident expression, ready to take her punishment with dignity."
-    "Daha kendinden emin bir ifadeyle karşınızda, cezasını onurlu bir şekilde çekmeye hazır."
-
 # game/code/Book-1/Chapter-8c/s08.rpy:707
 translate turkish b1c08cs08_ll_spanking_9822128a:
 
@@ -1599,12 +1593,6 @@ translate turkish b1c08cs08_ll_spanking_8acdeff2:
 
     # ys "Just like you. We are all magnificent creatures."
     ys "Tıpkı senin gibi. Hepimiz muhteşem yaratıklarız."
-
-# game/code/Book-1/Chapter-8c/s08.rpy:859
-translate turkish b1c08cs08_ll_spanking_6661d99c:
-
-    # "At Yvonne's silent que, Sloan and Nerium also rise."
-    "Yvonne'un sessiz kuyruğunda, Sloan ve Nerium da yükselir."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:862
 translate turkish b1c08cs08_ll_spanking_e8d7836c:
@@ -2033,4 +2021,16 @@ translate turkish b1c08cs08_ll_punishment_1ad478f1:
 
     # ad "A spanking? You harsh minx."
     ad "Şaplak mı? Seni sert sürtük."
+
+# game/code/Book-1/Chapter-8c/s08.rpy:717
+translate turkish b1c08cs08_ll_spanking_d643c708:
+
+    # "She stands before you with a more confident expression, ready to take her punishment with dignity."
+    "She stands before you with a more confident expression, ready to take her punishment with dignity."
+
+# game/code/Book-1/Chapter-8c/s08.rpy:891
+translate turkish b1c08cs08_ll_spanking_6c63b3c0:
+
+    # "At Yvonne's silent cue, Sloan and Nerium also rise."
+    "At Yvonne's silent cue, Sloan and Nerium also rise."
 

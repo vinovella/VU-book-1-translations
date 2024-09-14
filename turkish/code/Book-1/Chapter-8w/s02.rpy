@@ -250,18 +250,6 @@ translate turkish b1c08ws02_4b1e0f61:
     # "You try to focus on the rest of the team, Iona pulls away your attention at every point."
     "Takımın geri kalanına odaklanmaya çalışıyorsun, Iona her noktada dikkatini çekiyor."
 
-# game/code/Book-1/Chapter-8w/s02.rpy:133
-translate turkish b1c08ws02_91a413c2:
-
-    # "When you just about manage to control yourself, Iona pulls down your pants even more and takes out your hard cock."
-    "Kendini kontrol etmeyi başardığında, Iona pantolonunu daha da aşağı çeker ve sert aletini çıkarır."
-
-# game/code/Book-1/Chapter-8w/s02.rpy:138
-translate turkish b1c08ws02_236567b3:
-
-    # "She bites her lower lip and admires it before grabbing a hold of it and slowly stroking up and down your entire length."
-    "Alt dudağını ısırıyor ve onu tutmadan ve yavaşça tüm uzunluğunuzu yukarı ve aşağı okşamadan önce ona hayranlık duyuyor."
-
 # game/code/Book-1/Chapter-8w/s02.rpy:143
 translate turkish b1c08ws02_0fc4ad1f:
 
@@ -706,12 +694,6 @@ translate turkish b1c08ws02_8bf48cdb:
     # sl "No, it looks like he's... I don't know."
     sl "Hayır, görünüşe göre o... Bilmiyorum."
 
-# game/code/Book-1/Chapter-8w/s02.rpy:398
-translate turkish b1c08ws02_8cd199eb:
-
-    # oa "Ooh!, wait a minute, you're conducting an orchestra, is that it?"
-    oa "Ooh!, bir dakika, bir orkestra yönetiyorsun, öyle mi?"
-
 # game/code/Book-1/Chapter-8w/s02.rpy:405
 translate turkish b1c08ws02_cf50fb9b:
 
@@ -741,12 +723,6 @@ translate turkish b1c08ws02_38a16b70:
 
     # "You crave her touch more and more."
     "Onun dokunuşunu daha çok arzuluyorsun."
-
-# game/code/Book-1/Chapter-8w/s02.rpy:420
-translate turkish b1c08ws02_b07562f1:
-
-    # "Everyone takes a turn trying to figure out which of your mimes were true and which ones were lies."
-    "Herkes sırayla hangi pandomimlerin doğru hangilerinin yalan olduğunu anlamaya çalışsın."
 
 # game/code/Book-1/Chapter-8w/s02.rpy:422
 translate turkish b1c08ws02_58482b53:
@@ -975,12 +951,6 @@ translate turkish b1c08ws02_f98acb57:
 
     # "You groan out loud in pleasure, feeling yourself getting closer and closer to orgasm as your breathing becomes faster."
     "Zevkten yüksek sesle inliyorsun, nefes alıp verişin hızlandıkça orgazma daha da yaklaştığını hissediyorsun."
-
-# game/code/Book-1/Chapter-8w/s02.rpy:528
-translate turkish b1c08ws02_9d43e8e8:
-
-    # "Suddenly, the bus hits a bump in the road, causing Iona's you even further into her mouth. She almost chokes, but manages to hold on and continue taking you to your very base."
-    "Aniden, otobüs yolda bir tümseğe çarpıyor ve Iona'nın seni daha da fazla ağzına almasına neden oluyor. Neredeyse boğuluyordu, ama tutunmayı başarıyor ve seni en dibine kadar götürmeye devam ediyor."
 
 # game/code/Book-1/Chapter-8w/s02.rpy:537
 translate turkish b1c08ws02_4e167d92:
@@ -1303,4 +1273,40 @@ translate turkish strings:
     # game/code/Book-1/Chapter-8w/s02.rpy:353
     old "Mime that you conducted an orchestra"
     new "Bir orkestra yönetiyormuş gibi yapın"
+
+# game/code/Book-1/Chapter-8w/s02.rpy:154
+translate turkish b1c08ws02_1a4f6af9:
+
+    # "She bites her lower lip and admires your cock before grabbing a hold of it and slowly stroking up and down your entire length."
+    "She bites her lower lip and admires your cock before grabbing a hold of it and slowly stroking up and down your entire length."
+
+# game/code/Book-1/Chapter-8w/s02.rpy:428
+translate turkish b1c08ws02_b9360388:
+
+    # oa "Ooh! wait a minute, you're conducting an orchestra, is that it?"
+    oa "Ooh! wait a minute, you're conducting an orchestra, is that it?"
+
+# game/code/Book-1/Chapter-8w/s02.rpy:439
+translate turkish b1c08ws02_9741e484:
+
+    # "You finally sit back down and let the group figure out your lie."
+    "You finally sit back down and let the group figure out your lie."
+
+# game/code/Book-1/Chapter-8w/s02.rpy:441
+translate turkish b1c08ws02_0f91acf7:
+
+    # "You finally sit back down and let the group figure everything out."
+    "You finally sit back down and let the group figure everything out."
+
+# game/code/Book-1/Chapter-8w/s02.rpy:458
+translate turkish b1c08ws02_10845095:
+
+    # "Everyone takes a turn trying to figure out which of your mimes were true and which one was the lie."
+    "Everyone takes a turn trying to figure out which of your mimes were true and which one was the lie."
+
+# game/code/Book-1/Chapter-8w/s02.rpy:572
+translate turkish b1c08ws02_a1831067:
+
+    # "Suddenly, the bus hits a bump in the road, causing Iona to take you even further into her mouth. She almost chokes, but manages to hold on and continue taking you to your very base."
+    "Suddenly, the bus hits a bump in the road, causing Iona to take you even further into her mouth. She almost chokes, but manages to hold on and continue taking you to your very base."
 

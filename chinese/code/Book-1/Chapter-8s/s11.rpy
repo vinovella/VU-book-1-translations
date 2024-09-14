@@ -862,12 +862,6 @@ translate chinese b1c08ss11_mg_sex_ada4e56d:
     # mg "F-fuck, you feel so good. I want you to cum in me. I need yo—"
     mg "操--妈的，你让我好爽。我要你射在我里面。我要你--"
 
-# game/code/Book-1/Chapter-8s/s11.rpy:542
-translate chinese b1c08ss11_mg_sex_4803a357:
-
-    # mc "Oh I'll fill you up alright, when only I'm fucking done with you."
-    mc "哦，我会把你填满的，等我把你干完。"
-
 # game/code/Book-1/Chapter-8s/s11.rpy:552
 translate chinese b1c08ss11_mg_sex_ac30e7b0:
 
@@ -1253,4 +1247,10 @@ translate chinese strings:
     # game/code/Book-1/Chapter-8s/s11.rpy:367
     old "It's alright"
     new "没事的"
+
+# game/code/Book-1/Chapter-8s/s11.rpy:560
+translate chinese b1c08ss11_mg_sex_ff70acc8:
+
+    # mc "Oh I'll fill you up alright, only when I'm fucking done with you."
+    mc "Oh I'll fill you up alright, only when I'm fucking done with you."
 

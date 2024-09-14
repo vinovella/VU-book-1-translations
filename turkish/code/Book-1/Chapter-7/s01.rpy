@@ -448,12 +448,6 @@ translate turkish b1c07s01_after_variables_4fe3d819:
     # mc "Jo-Josie..."
     mc "Jo-Josie..."
 
-# game/code/Book-1/Chapter-7/s01.rpy:310
-translate turkish b1c07s01_after_variables_07808b11:
-
-    # jh "It'd be so awesome to go with you both! I'd—"
-    jh "İkinizle birlikte gitmek harika olurdu! ben-"
-
 # game/code/Book-1/Chapter-7/s01.rpy:312
 translate turkish b1c07s01_after_variables_5cd1ba2f:
 
@@ -507,18 +501,6 @@ translate turkish b1c07s01_after_variables_20ec8ec9:
 
     # jh "Bouldering isn't for everybody. And I'm sure you have a lot to catch up on with your studies as well."
     jh "Bouldering herkese göre değil. Ve eminim ki sizin de çalışmalarınızla tamamlamanız gereken çok şey vardır."
-
-# game/code/Book-1/Chapter-7/s01.rpy:350
-translate turkish b1c07s01_after_variables_0b6fa915:
-
-    # mc "I appreciate that. And I'm sorry I'm just flip-flopping on this. I know I said yes last time, but everything has picked up since then and...yeah."
-    mc "Bunu takdir ediyorum. Ve bu konuda sadece takla attığım için üzgünüm. Geçen sefer evet dediğimi biliyorum ama o zamandan bu yana her şey düzeldi ve... evet."
-
-# game/code/Book-1/Chapter-7/s01.rpy:353
-translate turkish b1c07s01_after_variables_0ba2ff8b:
-
-    # jh "I understand."
-    jh "Anladım."
 
 # game/code/Book-1/Chapter-7/s01.rpy:355
 translate turkish b1c07s01_after_variables_b7d0653a:

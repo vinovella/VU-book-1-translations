@@ -64,8 +64,6 @@ translate chinese strings:
     old "Join us on Discord"
     new "在Discord上支持我们"
 
-translate chinese strings:
-
     # game/code/screens/menus.rpy:584
     old "Quick"
     new "Quick"
@@ -93,4 +91,24 @@ translate chinese strings:
     # game/code/screens/menus.rpy:824
     old "Master Volume"
     new "Master Volume"
+
+    # game/code/screens/menus.rpy:308
+    old "Wishlist Taboo University on Steam"
+    new "Wishlist Taboo University on Steam"
+
+    # game/code/screens/menus.rpy:829
+    old "Analytics"
+    new "Analytics"
+
+    # game/code/screens/menus.rpy:834
+    old "We only collect data on in-game choices, no personal information is collected."
+    new "We only collect data on in-game choices, no personal information is collected."
+
+    # game/code/screens/menus.rpy:861
+    old "Connect Your Toy"
+    new "Connect Your Toy"
+
+    # game/code/screens/menus.rpy:907
+    old "Sex Voice Volume"
+    new "Sex Voice Volume"
 

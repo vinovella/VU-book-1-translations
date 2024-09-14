@@ -448,12 +448,6 @@ translate portuguese b1c07s01_after_variables_4fe3d819:
     # mc "Jo-Josie..."
     mc "Jo-Josie..."
 
-# game/code/Book-1/Chapter-7/s01.rpy:310
-translate portuguese b1c07s01_after_variables_07808b11:
-
-    # jh "It'd be so awesome to go with you both! I'd—"
-    jh "Seria tão legal ir com vocês dois! Eu—"
-
 # game/code/Book-1/Chapter-7/s01.rpy:312
 translate portuguese b1c07s01_after_variables_5cd1ba2f:
 
@@ -507,18 +501,6 @@ translate portuguese b1c07s01_after_variables_20ec8ec9:
 
     # jh "Bouldering isn't for everybody. And I'm sure you have a lot to catch up on with your studies as well."
     jh "Escalar paredes não é para todo mundo. E imagino que você tem que continuar os seus estudos."
-
-# game/code/Book-1/Chapter-7/s01.rpy:350
-translate portuguese b1c07s01_after_variables_0b6fa915:
-
-    # mc "I appreciate that. And I'm sorry I'm just flip-flopping on this. I know I said yes last time, but everything has picked up since then and...yeah."
-    mc "Eu agradeço. E desculpa eu ficar voltando atrás. Eu sei que falei sim da última vez, mas desde então as coisas aceleraram, e... é."
-
-# game/code/Book-1/Chapter-7/s01.rpy:353
-translate portuguese b1c07s01_after_variables_0ba2ff8b:
-
-    # jh "I understand."
-    jh "Eu entendo."
 
 # game/code/Book-1/Chapter-7/s01.rpy:355
 translate portuguese b1c07s01_after_variables_b7d0653a:

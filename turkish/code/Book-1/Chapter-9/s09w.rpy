@@ -454,12 +454,6 @@ translate turkish b1c09s09w_cheer_ima_21801bed:
     # mm "Now we're talking! Keep going, beautiful!"
     mm "Now we're talking! Keep going, beautiful!"
 
-# game/code/Book-1/Chapter-9/s09w.rpy:365
-translate turkish b1c09s09w_cheer_ima_9afb766e:
-
-    # "Isa flirtatiously sticks her tongue out and flips you all off. Her bikini bottom barely continues to cover her."
-    "Isa flirtatiously sticks her tongue out and flips you all off. Her bikini bottom barely continues to cover her."
-
 # game/code/Book-1/Chapter-9/s09w.rpy:369
 translate turkish b1c09s09w_cheer_ima_497ba8f5:
 
@@ -1389,4 +1383,10 @@ translate turkish strings:
     # game/code/Book-1/Chapter-9/s09w.rpy:510
     old "Just shut up"
     new "Just shut up"
+
+# game/code/Book-1/Chapter-9/s09w.rpy:365
+translate turkish b1c09s09w_cheer_ima_95ac0811:
+
+    # "Isa flirtatiously sticks her tongue out. Her bikini bottom barely continues to cover her."
+    "Isa flirtatiously sticks her tongue out. Her bikini bottom barely continues to cover her."
 

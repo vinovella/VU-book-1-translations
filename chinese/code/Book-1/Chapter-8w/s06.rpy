@@ -262,12 +262,6 @@ translate chinese b1c08ws06_f64b5bda:
     # ir "Let's get this over with."
     ir "让我们快点结束吧。"
 
-# game/code/Book-1/Chapter-8w/s06.rpy:133
-translate chinese b1c08ws06_6babed16:
-
-    # ba "Sit down. It'll be easier."
-    ba "坐下。这样会更容易。"
-
 # game/code/Book-1/Chapter-8w/s06.rpy:140
 translate chinese b1c08ws06_f6899a69:
 
@@ -349,4 +343,10 @@ translate chinese strings:
     # game/code/Book-1/Chapter-8w/s06.rpy:79
     old "Go for it"
     new "放手去做"
+
+# game/code/Book-1/Chapter-8w/s06.rpy:137
+translate chinese b1c08ws06_08e0644c:
+
+    # ba "C'mon, shirt off."
+    ba "C'mon, shirt off."
 

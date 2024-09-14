@@ -166,12 +166,6 @@ translate portuguese b1c08ws10_8e70be1a:
     # "The room falls quiet again, but this time, the silence feels different. The memory of the bitter loss is still fresh in everyone's mind."
     "Todos ficam em silêncio novamente, mas dessa vez o silêncio parece diferente. A memória da amarga derrota ainda fresca na memória de todos."
 
-# game/code/Book-1/Chapter-8w/s10.rpy:75
-translate portuguese b1c08ws10_7496e292:
-
-    # oa "We wouldn't have had to deal with any of this if just played without it. We don't need dangerous—"
-    oa "Não precisaríamos ter que lidar com isso se não se tivéssemos jogado sem drogas. Não precisamos dessas coisas perigosas—"
-
 # game/code/Book-1/Chapter-8w/s10.rpy:78
 translate portuguese b1c08ws10_6e3bdfca:
 
@@ -399,4 +393,10 @@ translate portuguese b1c08ws10_6778327d:
 
     # "One by one, the team files out of the room, the atmosphere thick with a mix of relief and lingering tension."
     "Um a um, o time vai saindo do lugar, a atmosfera cheia de uma mistura de alívio e tensão."
+
+# game/code/Book-1/Chapter-8w/s10.rpy:79
+translate portuguese b1c08ws10_777e1ea1:
+
+    # oa "We wouldn't have had to deal with any of this if we just played without it. We don't need dangerous—"
+    oa "We wouldn't have had to deal with any of this if we just played without it. We don't need dangerous—"
 
