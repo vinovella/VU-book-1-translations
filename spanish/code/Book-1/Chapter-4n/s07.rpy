@@ -32,7 +32,7 @@ translate spanish b1c04ns07_3ec249e0:
 translate spanish b1c04ns07_66ab5bb5:
 
     # mc "I'm something of an artist myself."
-    mc "Soy algo así como un artista yo mismo."
+    mc "Yo también soy una especie de artista."
 
 # game/code/Book-1/Chapter-4n/s07.rpy:29
 translate spanish b1c04ns07_ca390d45:
@@ -122,7 +122,7 @@ translate spanish b1c04ns07_9fecd03d:
 translate spanish b1c04ns07_6b3561f7:
 
     # nv "What do you see?"
-    nv "¿Que ves?"
+    nv "¿Qué ves?"
 
 # game/code/Book-1/Chapter-4n/s07.rpy:83
 translate spanish b1c04ns07_1b030d26:
@@ -302,7 +302,7 @@ translate spanish b1c04ns07_18d55dd6:
 translate spanish b1c04ns07_9fb20720:
 
     # nv "I think these two are supposed to go together. Like a story."
-    nv "Creo que se supone que estos dos van juntos. como una historia"
+    nv "Creo que se supone que estos dos van juntos. como una historia."
 
 # game/code/Book-1/Chapter-4n/s07.rpy:170
 translate spanish b1c04ns07_b62f9309:
@@ -416,7 +416,7 @@ translate spanish b1c04ns07_41e09149:
 translate spanish b1c04ns07_b21512f2:
 
     # mc "No! Nia, that's a great point of view! I was just taken aback by the intensity."
-    mc "¡No! Nia, ese es un gran punto de vista! Simplemente me sorprendió la intensidad."
+    mc "¡No! Nia, ese es un gran punto de vista. Simplemente me sorprendió la intensidad."
 
 # game/code/Book-1/Chapter-4n/s07.rpy:221
 translate spanish b1c04ns07_8e050917:
@@ -428,7 +428,7 @@ translate spanish b1c04ns07_8e050917:
 translate spanish b1c04ns07_4cc2fb85:
 
     # mc "It looks like a weapon of mass destruction. What if it was one of the machines that destroyed the planet in the first place?"
-    mc "Parece un arma de destrucción masiva. ¿Y si fuera una de las máquinas que destruyó el planeta en primer lugar?"
+    mc "Parece un arma de destrucción masiva. ¿Y si fuera una de las máquinas que destruyeron el planeta en primer lugar?"
 
 # game/code/Book-1/Chapter-4n/s07.rpy:225
 translate spanish b1c04ns07_92682687:
@@ -452,13 +452,13 @@ translate spanish b1c04ns07_5d6afa2d:
 translate spanish b1c04ns07_78ed3820:
 
     # nv "You don't hold someone like that unless you love them. You don't turn into someone like that unless you feel safe with them."
-    nv "No abrazas a alguien así a menos que lo ames. No te conviertes en alguien así a menos que te sientas seguro con ello."
+    nv "No abrazas a alguien de esa manera a menos que lo ames. No te conviertes en alguien así a menos que te sientas seguro con ello."
 
 # game/code/Book-1/Chapter-4n/s07.rpy:231
 translate spanish b1c04ns07_243bb4a5:
 
     # nv "Love like that transcends physical differences."
-    nv "Un amor así trasciende las diferencias físicas."
+    nv "Un amor como ése trasciende las diferencias físicas."
 
 # game/code/Book-1/Chapter-4n/s07.rpy:234
 translate spanish b1c04ns07_3f3829b8:
@@ -488,7 +488,7 @@ translate spanish b1c04ns07_3d32b8c0:
 translate spanish b1c04ns07_b9c73645:
 
     # mc "I'm just surprised there's literal robot porn in a museum."
-    mc "Estoy sorprendido de que haya porno robot literal en un museo."
+    mc "Me sorprende que haya literalmente porno de robots en un museo."
 
 # game/code/Book-1/Chapter-4n/s07.rpy:251
 translate spanish b1c04ns07_17af808b:
@@ -578,7 +578,7 @@ translate spanish b1c04ns07_a85db621:
 translate spanish b1c04ns07_aadea340:
 
     # mct "It's sort of cute when she tugs on my sleeve like that."
-    mct "Es un poco linda cuando tira de mi manga así."
+    mct "Es un poco linda cuando me tira de la manga de esa manera."
 
 # game/code/Book-1/Chapter-4n/s07.rpy:291
 translate spanish b1c04ns07_fd4ab1d8:
@@ -590,7 +590,7 @@ translate spanish b1c04ns07_fd4ab1d8:
 translate spanish b1c04ns07_73fcf18f:
 
     # mc "Are you—"
-    mc "Eres-"
+    mc "Estás-"
 
 # game/code/Book-1/Chapter-4n/s07.rpy:297
 translate spanish b1c04ns07_d792115e:
@@ -662,7 +662,7 @@ translate spanish b1c04ns07_2bffc7e1:
 translate spanish b1c04ns07_377db0de:
 
     # mc "Was Maria as artistic as you? Did she draw or tattoo?"
-    mc "¿Era María un artista como tú? ¿Dibujaba o tatuaba?"
+    mc "¿Era María una artista como tú? ¿Dibujaba o tatuaba?"
 
 # game/code/Book-1/Chapter-4n/s07.rpy:333
 translate spanish b1c04ns07_034f7932:
@@ -752,7 +752,7 @@ translate spanish b1c04ns07_86259b2e:
 translate spanish b1c04ns07_f1695c44:
 
     # mc "Sounds kinda fun, like a family you get to build yourself."
-    mc "Suena un poco divertido, como una familia que puedes construir tú mismo."
+    mc "Suena divertido, como una familia que construyes tú mismo."
 
 # game/code/Book-1/Chapter-4n/s07.rpy:372
 translate spanish b1c04ns07_f9a0fbed:
@@ -776,7 +776,7 @@ translate spanish b1c04ns07_2b5ee014:
 translate spanish b1c04ns07_10d2cb07:
 
     # nv "A family that I've chosen. A family that's good for me. I'd love to have that."
-    nv "Una familia que he elegido. Una familia que es buena para mí. Me encantaría tener eso."
+    nv "Una familia que yo haya elegido. Una familia que es buena para mí. Me encantaría tener eso."
 
 # game/code/Book-1/Chapter-4n/s07.rpy:382
 translate spanish b1c04ns07_5d828373:
