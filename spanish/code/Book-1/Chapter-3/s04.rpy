@@ -56,7 +56,7 @@ translate spanish b1c03s04_ecb67ebc:
 translate spanish b1c03s04_6b1cf0fb:
 
     # ij "Here ya go!"
-    ij "¡Aqui tienes!"
+    ij "¡Aquí tienes!"
 
 # game/code/Book-1/Chapter-3/s04.rpy:47
 translate spanish b1c03s04_a800cc06:
@@ -170,7 +170,7 @@ translate spanish b1c03s04_39ef19bf:
 translate spanish b1c03s04_f14cf644:
 
     # ij "That will give you the info you need to sign up."
-    ij "Eso le dará la información que necesita para registrarse."
+    ij "Eso te dará la información que necesita para registrarte."
 
 # game/code/Book-1/Chapter-3/s04.rpy:114
 translate spanish b1c03s04_98df5cd0:
@@ -212,7 +212,7 @@ translate spanish b1c03s04_5bc71be2:
 translate spanish b1c03s04_67e50d61:
 
     # ij "There are some...people, who think that the missing students are a lost cause, and we should move on with our lives."
-    ij "Hay algunas... personas que piensan que los estudiantes desaparecidos son una causa perdida y que debemos seguir adelante con nuestras vidas."
+    ij "Hay algunas... personas que piensan que las estudiantes desaparecidas son una causa perdida y que debemos seguir adelante con nuestras vidas."
 
 # game/code/Book-1/Chapter-3/s04.rpy:147
 translate spanish b1c03s04_1b9d5b5f:
