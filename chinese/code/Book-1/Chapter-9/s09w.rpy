@@ -788,605 +788,605 @@ translate chinese b1c09s09w_ba_show_56edf709:
 translate chinese b1c09s09w_ba_show_dc5008ab:
 
     # mc "Jesus, what the hell is wrong with you, psycho?"
-    mc "Jesus, what the hell is wrong with you, psycho?"
+    mc "天哪，神经病，你到底有什么毛病？"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:581
 translate chinese b1c09s09w_ba_show_67cdc6c5:
 
     # "Brigitta's punches are uncoordinated and don't land as hard as they would if she weren't buzzed."
-    "Brigitta's punches are uncoordinated and don't land as hard as they would if she weren't buzzed."
+    "布吉塔的出拳并不协调，而且如果她没喝醉的话，出拳绝对会比这还重。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:585
 translate chinese b1c09s09w_ba_show_7c636c2d:
 
     # "Her punches are more of an annoyance that'll leave slight bruising come tomorrow."
-    "Her punches are more of an annoyance that'll leave slight bruising come tomorrow."
+    "她的拳头更像是一种骚扰，让你明天会留下轻微的瘀伤。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:589
 translate chinese b1c09s09w_ba_show_712c029a:
 
     # "That said, it's clear she wishes she'd broken a bottle and shanked your ass instead."
-    "That said, it's clear she wishes she'd broken a bottle and shanked your ass instead."
+    "话虽如此，很明显她希望自己能摔碎一个瓶子，然后用瓶口扎你的屁股。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:591
 translate chinese b1c09s09w_ba_show_b3899ab4:
 
     # mm "Jesus Brig, get off him!"
-    mm "Jesus Brig, get off him!"
+    mm "天哪，布吉塔，快放开他！"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:595
 translate chinese b1c09s09w_ba_show_3bac3d6c:
 
     # sl "Damn, crazy bitch, this isn't worth it."
-    sl "Damn, crazy bitch, this isn't worth it."
+    sl "该死的，疯女人，这太不值得了。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:602
 translate chinese b1c09s09w_ba_show_a2dae0bf:
 
     # ba "Loser."
-    ba "Loser."
+    ba "废物。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:619
 translate chinese b1c09s09w_after_ba_07a4979f:
 
     # ir "What the fuck is her problem?!"
-    ir "What the fuck is her problem?!"
+    ir "她到底有什么毛病?!"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:626
 translate chinese b1c09s09w_after_ba_d292da0e:
 
     # oa "Hey, are you okay? That was scary."
-    oa "Hey, are you okay? That was scary."
+    oa "嘿，你没事吧？刚才真吓人。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:628
 translate chinese b1c09s09w_after_ba_962bdb22:
 
     # mc "Yeah, I'm good."
-    mc "Yeah, I'm good."
+    mc "嗯，我没事。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:630
 translate chinese b1c09s09w_after_ba_78f1ebb3:
 
     # mc "I should've expected that."
-    mc "I should've expected that."
+    mc "我早该料到。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:632
 translate chinese b1c09s09w_after_ba_844cee7c:
 
     # mc "What did I even do to set her off? Christ."
-    mc "What did I even do to set her off? Christ."
+    mc "我到底做了什么惹到她了？天哪。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:637
 translate chinese b1c09s09w_after_ba_30c8b3dd:
 
     # sm "Are you okay? I'm so sorry!"
-    sm "Are you okay? I'm so sorry!"
+    sm "你没事吧？真抱歉！"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:640
 translate chinese b1c09s09w_after_ba_76806823:
 
     # mc "It's fine, I'm alright."
-    mc "It's fine, I'm alright."
+    mc "没事，我很好。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:642
 translate chinese b1c09s09w_after_ba_2ee40b3d:
 
     # sm "I don't know what came over her."
-    sm "I don't know what came over her."
+    sm "我不知道她怎么了。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:643
 translate chinese b1c09s09w_after_ba_0594ce60:
 
     # mc "Seriously, I'm okay."
-    mc "Seriously, I'm okay."
+    mc "说真的，我没事。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:646
 translate chinese b1c09s09w_after_ba_3f6c987c:
 
     # ir "That was fucking awesome how you blocked her."
-    ir "That was fucking awesome how you blocked her."
+    ir "你能挡住她真是太好了。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:647
 translate chinese b1c09s09w_after_ba_a18660a5:
 
     # ir "I've felt Brigitta's punches. They suck."
-    ir "I've felt Brigitta's punches. They suck."
+    ir "我挨过布吉塔的拳头。太差劲了。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:651
 translate chinese b1c09s09w_after_ba_24e3d73a:
 
     # mc "Ha. Don't have to tell me twice."
-    mc "Ha. Don't have to tell me twice."
+    mc "哈。可不是。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:653
 translate chinese b1c09s09w_after_ba_2ee528b3:
 
     # mc "Damn, does she do that shit a lot?"
-    mc "Damn, does she do that shit a lot?"
+    mc "妈的，她经常干这种事吗？"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:656
 translate chinese b1c09s09w_after_ba_cafb37fc:
 
     # ima "I'm gonna go talk to that bitch. She'll be locked in a god damn straight jacket before I let her ruin this party!"
-    ima "I'm gonna go talk to that bitch. She'll be locked in a god damn straight jacket before I let her ruin this party!"
+    ima "我要去和那个婊子谈谈。在她毁了这个派对之前，我会把她关进该死的紧身衣里！"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:661
 translate chinese b1c09s09w_after_ba_3a803901:
 
     # sm "Here, for your face."
-    sm "Here, for your face."
+    sm "给你，擦脸。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:665
 translate chinese b1c09s09w_after_ba_83937a56:
 
     # ir "Well, I guess you didn't have to dance after all, huh?"
-    ir "Well, I guess you didn't have to dance after all, huh?"
+    ir "好吧，我想你根本不用跳舞了，是吧？"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:668
 translate chinese b1c09s09w_after_ba_9b8a3962:
 
     # oa "Now isn't the time!"
-    oa "Now isn't the time!"
+    oa "现在不是时候！"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:671
 translate chinese b1c09s09w_after_ba_11bbeb02:
 
     # ir "You're right, sorry."
-    ir "You're right, sorry."
+    ir "你说得对，抱歉。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:676
 translate chinese b1c09s09w_after_ba_ad02b00c:
 
     # sm "Sorry this happened. This party is supposed to be fun."
-    sm "Sorry this happened. This party is supposed to be fun."
+    sm "抱歉发生这种事。这场派对应该很有趣才对。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:680
 translate chinese b1c09s09w_after_ba_6f06b205:
 
     # mc "Hey, don't worry about it."
-    mc "Hey, don't worry about it."
+    mc "嘿，别担心。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:681
 translate chinese b1c09s09w_after_ba_28983831:
 
     # mc "I'm still able to give kisses, so that counts for something, right?"
-    mc "I'm still able to give kisses, so that counts for something, right?"
+    mc "我还能给你一个吻，这总有点意义吧？"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:693
 translate chinese b1c09s09w_after_ba_d5b5a4d4:
 
     # "Silvia presses her whole warmth into you, her lips passionate and worried, yet relieved you're okay."
-    "Silvia presses her whole warmth into you, her lips passionate and worried, yet relieved you're okay."
+    "西尔维娅将她的全部热情都倾注在你身上，她的嘴唇充满了激情和担忧，但同时也为你的平安感到宽慰。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:701
 translate chinese b1c09s09w_after_ba_24f263a3:
 
     # sm "*Whispers* I'm so glad you're okay. I'm sorry this happened."
-    sm "*Whispers* I'm so glad you're okay. I'm sorry this happened."
+    sm "*低语* 我很高兴你没事。很抱歉发生了这种事。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:704
 translate chinese b1c09s09w_after_ba_87e32c42:
 
     # mc "*Whispers* It's okay. I bet you liked seeing me in action, huh?"
-    mc "*Whispers* It's okay. I bet you liked seeing me in action, huh?"
+    mc "*低语* 没关系。我敢打赌你喜欢看我出手，对吧？"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:707
 translate chinese b1c09s09w_after_ba_a7ba5ea3:
 
     # sm "*Chuckles* You getting your ass handed to you by someone made of muscle and rage isn't exactly what's turning me on."
-    sm "*Chuckles* You getting your ass handed to you by someone made of muscle and rage isn't exactly what's turning me on."
+    sm "*轻笑* 你被一个肌肉发达、怒火中烧的人打得落花流水，这并不是让我兴奋的真正原因。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:710
 translate chinese b1c09s09w_after_ba_5d259318:
 
     # mc "But you are turned on?"
-    mc "But you are turned on?"
+    mc "这么说你确实兴奋了？"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:712
 translate chinese b1c09s09w_after_ba_0820ebe2:
 
     # sm "Well, let's just say the adrenaline got to me...and I'm really glad you're okay. And I want to make you feel even better when we get some time alone."
-    sm "Well, let's just say the adrenaline got to me...and I'm really glad you're okay. And I want to make you feel even better when we get some time alone."
+    sm "好吧，这么说吧，肾上腺素让我兴奋不已...我很高兴你没事。当我们独处的时候，我想让你感觉更好些。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:724
 translate chinese b1c09s09w_after_ba_ad02b00c_1:
 
     # sm "Sorry this happened. This party is supposed to be fun."
-    sm "Sorry this happened. This party is supposed to be fun."
+    sm "抱歉发生这种事，这个派对本该很有趣的。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:727
 translate chinese b1c09s09w_after_ba_5ccf97bd:
 
     # mc "No harm done."
-    mc "No harm done."
+    mc "没事，又没有受伤。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:730
 translate chinese b1c09s09w_after_ba_e5f4f8f2:
 
     # sm "I should go make sure everyone else is okay too."
-    sm "I should go make sure everyone else is okay too."
+    sm "我也去看看其他人是否也都没事。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:731
 translate chinese b1c09s09w_after_ba_1513ee0d:
 
     # sm "Isa and Brigitta could get into their own fight at this rate."
-    sm "Isa and Brigitta could get into their own fight at this rate."
+    sm "照这样下去，艾萨和布吉塔会打起来的。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:734
 translate chinese b1c09s09w_after_ba_5b7b09bd:
 
     # oa "I'll come with you."
-    oa "I'll come with you."
+    oa "我和你一起去。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:736
 translate chinese b1c09s09w_after_ba_0f4afbcf:
 
     # sm "Thank you. I could use all the backup I can get."
-    sm "Thank you. I could use all the backup I can get."
+    sm "谢谢。我希望能得到一切支持。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:741
 translate chinese b1c09s09w_after_ba_06604ada:
 
     # ir "I'm so fucking sorry—"
-    ir "I'm so fucking sorry—"
+    ir "我非常抱歉--"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:747
 translate chinese b1c09s09w_after_ba_772c6328:
 
     # mc "It's okay. I promise. You didn't do anything wrong. Brig's the one who attacked me."
-    mc "It's okay. I promise. You didn't do anything wrong. Brig's the one who attacked me."
+    mc "没关系。我保证。你没有做错任何事。是布吉塔攻击了我。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:749
 translate chinese b1c09s09w_after_ba_dde52972:
 
     # mc "It's okay. I promise. You didn't do anything wrong."
-    mc "It's okay. I promise. You didn't do anything wrong."
+    mc "没关系。我保证。你没有做错任何事。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:756
 translate chinese b1c09s09w_after_ba_fe22d0af:
 
     # ir "You want one?"
-    ir "You want one?"
+    ir "你要来一个吗？"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:759
 translate chinese b1c09s09w_after_ba_606e2d02:
 
     # mc "Sure."
-    mc "Sure."
+    mc "当然。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:762
 translate chinese b1c09s09w_after_ba_925f207a:
 
     # ir "It just feels like it's all my fault. I was being too...rowdy, I guess. Too much."
-    ir "It just feels like it's all my fault. I was being too...rowdy, I guess. Too much."
+    ir "感觉都是我的错。我太...不安分了，我想。太过分了。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:763
 translate chinese b1c09s09w_after_ba_65e257c9:
 
     # "Iona's voice strains with guilt."
-    "Iona's voice strains with guilt."
+    "欧娜的声音充满内疚。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:772
 translate chinese b1c09s09w_wc_available_07cf3c4c:
 
     # mc "Hey, it's alright."
-    mc "Hey, it's alright."
+    mc "嘿，没关系。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:777
 translate chinese b1c09s09w_wc_available_c631c268:
 
     # mc "You did nothing wrong. You're not to blame."
-    mc "You did nothing wrong. You're not to blame."
+    mc "你没有做错什么。你不应该受到责备。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:780
 translate chinese b1c09s09w_wc_available_69dd8d58:
 
     # ir "No, I am."
-    ir "No, I am."
+    ir "不，我应该被指责。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:784
 translate chinese b1c09s09w_wc_available_4b005d3f:
 
     # ir "I push too hard and I instigate so much shit."
-    ir "I push too hard and I instigate so much shit."
+    ir "我逼得太紧了，煽动了太多事端。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:785
 translate chinese b1c09s09w_wc_available_907bee5d:
 
     # ir "God, I—"
-    ir "God, I—"
+    ir "天啊，我--"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:786
 translate chinese b1c09s09w_wc_available_d2d5ba2b:
 
     # "Iona looks distressed."
-    "Iona looks distressed."
+    "欧娜看起来很痛苦。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:790
 translate chinese b1c09s09w_wc_available_f2329ffa:
 
     # ir "I need a fix."
-    ir "I need a fix."
+    ir "我需要点东西来缓解。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:793
 translate chinese b1c09s09w_wc_available_4f3415cb:
 
     # mc "I don't think—"
-    mc "I don't think—"
+    mc "我不认为--"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:799
 translate chinese b1c09s09w_wc_available_7a0e86b4:
 
     # mc "What is that?"
-    mc "What is that?"
+    mc "那是什么？"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:802
 translate chinese b1c09s09w_wc_available_baf79f14:
 
     # ir "Oh y'know. Just something to relax me a bit."
-    ir "Oh y'know. Just something to relax me a bit."
+    ir "哦，你知道的。只是为了让我放松一下。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:803
 translate chinese b1c09s09w_wc_available_4c2d41ed:
 
     # ir "Otherwise I get all emo and shit."
-    ir "Otherwise I get all emo and shit."
+    ir "否则我会变得情绪化。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:809
 translate chinese b1c09s09w_wc_available_a731aec3:
 
     # ir "What! Don't look at me like that."
-    ir "What! Don't look at me like that."
+    ir "怎么了！别这样看着我。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:812
 translate chinese b1c09s09w_wc_available_92c7c208:
 
     # mc "I just worry about you."
-    mc "I just worry about you."
+    mc "我只是担心你。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:815
 translate chinese b1c09s09w_wc_available_165b768a:
 
     # ir "Yeah. You sound like Klara."
-    ir "Yeah. You sound like Klara."
+    ir "是么。你听起来像克拉拉。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:818
 translate chinese b1c09s09w_wc_available_822aa5c3:
 
     # mc "How so?"
-    mc "How so?"
+    mc "为什么这么说？"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:821
 translate chinese b1c09s09w_wc_available_872e1732:
 
     # ir "She worried about me too."
-    ir "She worried about me too."
+    ir "她也担心我。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:822
 translate chinese b1c09s09w_wc_available_1b541c53:
 
     # ir "Not enough to stay though, I guess."
-    ir "Not enough to stay though, I guess."
+    ir "但我想她担心得还不够，所以才没留下来。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:825
 translate chinese b1c09s09w_wc_available_27a412f7:
 
     # mc "That's—"
-    mc "That's—"
+    mc "这--"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:828
 translate chinese b1c09s09w_wc_available_72767673:
 
     # ir "Sorry. I didn't— Well. I did."
-    ir "Sorry. I didn't— Well. I did."
+    ir "抱歉。我不是--好吧，我就是。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:829
 translate chinese b1c09s09w_wc_available_25d242f5:
 
     # ir "If she ran away, I'll never forgive her."
-    ir "If she ran away, I'll never forgive her."
+    ir "如果她跑了，我永远不会原谅她。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:830
 translate chinese b1c09s09w_wc_available_5f92e344:
 
     # ir "*Sigh* But running away is better than being dead or something."
-    ir "*Sigh* But running away is better than being dead or something."
+    ir "*叹气* 但是逃跑总比死掉什么的好。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:833
 translate chinese b1c09s09w_wc_available_14a59c1e:
 
     # ir "She wanted me to get clean, y'know? She thought I'd be an even better player if I were clean."
-    ir "She wanted me to get clean, y'know? She thought I'd be an even better player if I were clean."
+    ir "她希望我脱瘾，你知道吗？她觉得如果我戒掉了，我会打得更好。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:834
 translate chinese b1c09s09w_wc_available_ac575f02:
 
     # ir "Klara wanted us all to get clean. She hated the shit we do."
-    ir "Klara wanted us all to get clean. She hated the shit we do."
+    ir "克拉拉希望我们都把药给戒了。她讨厌我们做的那些事。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:835
 translate chinese b1c09s09w_wc_available_62423c33:
 
     # ir "You know she even reported us to Professor Harlan?"
-    ir "You know she even reported us to Professor Harlan?"
+    ir "你知道她甚至向哈兰教授举报了我们吗？"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:838
 translate chinese b1c09s09w_wc_available_a6a4c2f2:
 
     # mc "Holy shit. How are we all still here, then?"
-    mc "Holy shit. How are we all still here, then?"
+    mc "天哪。那我们还怎么在这里？"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:842
 translate chinese b1c09s09w_wc_available_86c84996:
 
     # ir "Harlan's cool with it. Whatever keeps us at the top, I guess."
-    ir "Harlan's cool with it. Whatever keeps us at the top, I guess."
+    ir "哈兰对此很淡定。我想，他觉得只要能让我们保持领先就行。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:843
 translate chinese b1c09s09w_wc_available_9ca2872c:
 
     # ir "I overheard them fighting about the drug use."
-    ir "I overheard them fighting about the drug use."
+    ir "我无意中听到他们为吃药的事争吵。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:846
 translate chinese b1c09s09w_wc_available_78605a60:
 
     # ir "I couldn't make out all the details, but she was furious that he didn't care."
-    ir "I couldn't make out all the details, but she was furious that he didn't care."
+    ir "我不清楚其中的细节，但她对他的毫不在乎很生气。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:847
 translate chinese b1c09s09w_wc_available_004063df:
 
     # ir "He seemed to just think that it was how the Winners Club was, and there wasn't much he could do about it."
-    ir "He seemed to just think that it was how the Winners Club was, and there wasn't much he could do about it."
+    ir "他似乎认为赢家俱乐部就是这样的，对此他无能为力。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:848
 translate chinese b1c09s09w_wc_available_24cd7708:
 
     # ir "I'm not sure if he meant that there wasn't much he {i}could{/i} do about it or if he meant there wasn't much he {i}wanted{/i} to do about it."
-    ir "I'm not sure if he meant that there wasn't much he {i}could{/i} do about it or if he meant there wasn't much he {i}wanted{/i} to do about it."
+    ir "我不确定他当时是说他对此{i}没能力{/i}做什么，还是说他对此{i}没想法{/i}做什么。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:851
 translate chinese b1c09s09w_wc_available_c145be7e:
 
     # mct "I overheard Brigitta and Harlan talking about Klara too."
-    mct "I overheard Brigitta and Harlan talking about Klara too."
+    mct "我无意中听到布吉塔和哈兰也在谈论克拉拉。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:852
 translate chinese b1c09s09w_wc_available_67dd58d7:
 
     # mct "It's obvious Klara and Harlan had a lot of issues. Harlan seems to have a lot tied up into the Winners Team."
-    mct "It's obvious Klara and Harlan had a lot of issues. Harlan seems to have a lot tied up into the Winners Team."
+    mct "显然，克拉拉和哈兰之间有很多问题。哈兰似乎与赢家团队关系匪浅。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:853
 translate chinese b1c09s09w_wc_available_fd374f27:
 
     # mct "And if Klara got in the way of that somehow..."
-    mct "And if Klara got in the way of that somehow..."
+    mct "如果克拉拉不知何故妨碍了这件事..."
 
 # game/code/Book-1/Chapter-9/s09w.rpy:859
 translate chinese b1c09s09w_wc_available_d2a60fa7:
 
     # mct "Shit. If Klara was in danger, they're all in danger."
-    mct "Shit. If Klara was in danger, they're all in danger."
+    mct "该死。如果克拉拉有危险，他们都有危险。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:860
 translate chinese b1c09s09w_wc_available_34a374d7:
 
     # mct "I'm not sure what kind of game Harlan's playing, but he has the Winners Club wrapped up in it. If it caused Klara to disappear, anyone else could be next."
-    mct "I'm not sure what kind of game Harlan's playing, but he has the Winners Club wrapped up in it. If it caused Klara to disappear, anyone else could be next."
+    mct "我不确定哈兰在玩什么把戏，但他把赢家俱乐部卷入了其中。如果这导致克拉拉失踪，下一个可能就是其他人。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:861
 translate chinese b1c09s09w_wc_available_9958ef9e:
 
     # mct "By either disappearing or...overdosing."
-    mct "By either disappearing or...overdosing."
+    mct "要么失踪，要么...吸毒过量。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:864
 translate chinese b1c09s09w_wc_available_3b6632fe:
 
     # mc "Hey, it wasn't your fault. Brig's just...the way she is. That's not your fault, though."
-    mc "Hey, it wasn't your fault. Brig's just...the way she is. That's not your fault, though."
+    mc "嘿，这不是你的错。布吉塔就是...她就是这样。不过这不是你的错。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:867
 translate chinese b1c09s09w_wc_available_4cb9f73c:
 
     # ir "I don't care anymore."
-    ir "I don't care anymore."
+    ir "我不在乎了。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:868
 translate chinese b1c09s09w_wc_available_d3e446c3:
 
     # ir "I'm just enjoying my high."
-    ir "I'm just enjoying my high."
+    ir "我只是在享受我的兴奋。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:872
 translate chinese b1c09s09w_wc_available_c85a321b:
 
     # ir "Hey, do you wanna do something a little risky with me and Isa?"
-    ir "Hey, do you wanna do something a little risky with me and Isa?"
+    ir "嘿，你想不想和我还有艾萨一起做点冒险的事？"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:875
 translate chinese b1c09s09w_wc_available_55310c42:
 
     # mc "Seriously?"
-    mc "Seriously?"
+    mc "说真的？"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:878
 translate chinese b1c09s09w_wc_available_8cba4295:
 
     # ir "*Giggles* Yeah! I'll go find Isa."
-    ir "*Giggles* Yeah! I'll go find Isa."
+    ir "*笑声* 当然了！我去找艾萨。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:881
 translate chinese b1c09s09w_wc_available_35199897:
 
     # mc "Haha, alright."
-    mc "Haha, alright."
+    mc "哈哈，好吧。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:886
 translate chinese b1c09s09w_wc_available_209faf25:
 
     # mc "Well, I'm gonna go see what else is here at the party. See ya around."
-    mc "Well, I'm gonna go see what else is here at the party. See ya around."
+    mc "好，我去看看派对上还有什么。回头见。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:889
 translate chinese b1c09s09w_wc_available_87b07b81:
 
     # ir "See ya."
-    ir "See ya."
+    ir "回见。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:898
 translate chinese b1c09s09w_no_wc_2f8ef655:
 
     # mc "I promise I'm okay. You didn't make Brig launch herself at me."
-    mc "I promise I'm okay. You didn't make Brig launch herself at me."
+    mc "我保证我没事。你挡住了布吉塔，没让她扑向我。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:900
 translate chinese b1c09s09w_no_wc_d232bafb:
 
     # mc "I promise I'm okay. You didn't make Brig be a bitch."
-    mc "I promise I'm okay. You didn't make Brig be a bitch."
+    mc "我保证我没事。你没让布吉塔变成一个疯子。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:901
 translate chinese b1c09s09w_no_wc_0bf7b969:
 
     # mc "I should probably get going, though."
-    mc "I should probably get going, though."
+    mc "我可能该走了。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:905
 translate chinese b1c09s09w_no_wc_bd70c90b:
 
     # ir "Yeah, I get it. Enjoy the rest of the party."
-    ir "Yeah, I get it. Enjoy the rest of the party."
+    ir "好，我懂了。祝你玩得愉快。"
 
 translate chinese strings:
 
     # game/code/Book-1/Chapter-9/s09w.rpy:220
     old "Cheer and holler"
-    new "Cheer and holler"
+    new "欢呼和呐喊"
 
     # game/code/Book-1/Chapter-9/s09w.rpy:220
     old "Clap"
-    new "Clap"
+    new "鼓掌"
 
     # game/code/Book-1/Chapter-9/s09w.rpy:317
     old "Show us what you got!"
-    new "Show us what you got!"
+    new "让我们看看你有什么本事！"
 
     # game/code/Book-1/Chapter-9/s09w.rpy:317
     old "Go get a drink"
-    new "Go get a drink"
+    new "去喝一杯"
 
     # game/code/Book-1/Chapter-9/s09w.rpy:510
     old "What'd I even do?"
-    new "What'd I even do?"
+    new "我到底做了什么？"
 
     # game/code/Book-1/Chapter-9/s09w.rpy:510
     old "Sorry"
-    new "Sorry"
+    new "抱歉"
 
     # game/code/Book-1/Chapter-9/s09w.rpy:510
     old "Just shut up"
-    new "Just shut up"
+    new "闭嘴"
 
