@@ -20,7 +20,7 @@ translate spanish b1c04ns04_56d533fb:
 translate spanish b1c04ns04_7190ef39:
 
     # ad "Please stay tuned while we wait for everyone to be seated."
-    ad "Estén atentos mientras esperamos que todos estén sentados."
+    ad "Permanezcan atentos mientras esperamos a que todos estén sentados."
 
 # game/code/Book-1/Chapter-4n/s04.rpy:32
 translate spanish b1c04ns04_f876a41c:
@@ -62,7 +62,7 @@ translate spanish b1c04ns04_0e051b0e:
 translate spanish b1c04ns04_ea5ffd3b:
 
     # nv "Wanna join me?"
-    nv "¿Quiere unirse a mí?"
+    nv "¿Quieres acompañarme?"
 
 # game/code/Book-1/Chapter-4n/s04.rpy:52
 translate spanish b1c04ns04_3941e665:
@@ -74,7 +74,7 @@ translate spanish b1c04ns04_3941e665:
 translate spanish b1c04ns04_bef51eee:
 
     # nv "They'll probably be talking about Guides, today. Ugh. I'm tired of hearing about it. I don't click with anyone here."
-    nv "Probablemente estarán hablando de Guías, hoy. Puaj. Estoy cansada de oír hablar de eso. No hago clic con nadie aquí."
+    nv "Probablemente hablarán sobre los Guías, hoy. Uf. Estoy cansada de oír hablar de eso. No conecto con nadie aquí."
 
 # game/code/Book-1/Chapter-4n/s04.rpy:59
 translate spanish b1c04ns04_a78c182e:
@@ -158,13 +158,13 @@ translate spanish b1c04ns04_f027b7ff:
 translate spanish b1c04ns04_fad4f0fe:
 
     # nv "Anyway, a Guide is...like a mentor. Someone who helps guide you on the path to being your best self."
-    nv "De todos modos, un Guía es... como un mentor. Alguien que te ayude a guiarte en el camino para ser tu mejor yo."
+    nv "De todos modos, un Guía es... como un mentor. Alguien que ayuda a guiarte en el camino para ser tu mejor yo."
 
 # game/code/Book-1/Chapter-4n/s04.rpy:98
 translate spanish b1c04ns04_4cdb0618:
 
     # nv "I'm curious. Why'd you join the seminar?"
-    nv "Soy curiosa. ¿Por qué te uniste al seminario?"
+    nv "Tengo curiosidad. ¿Por qué te uniste al seminario?"
 
 # game/code/Book-1/Chapter-4n/s04.rpy:101
 translate spanish b1c04ns04_adab05c8:
@@ -176,7 +176,7 @@ translate spanish b1c04ns04_adab05c8:
 translate spanish b1c04ns04_904b7bef:
 
     # mc "That journey with my father was...alright. But the self can always use improvement, right?"
-    mc "Ese viaje con mi padre estuvo... bien. Pero el yo siempre puede mejorar, ¿verdad?"
+    mc "Ese viaje con mi padre estuvo... bien. Pero siempre es posible mejorar, ¿no?"
 
 # game/code/Book-1/Chapter-4n/s04.rpy:105
 translate spanish b1c04ns04_c7ec8732:
@@ -212,7 +212,7 @@ translate spanish b1c04ns04_253a2e30:
 translate spanish b1c04ns04_2c20cf8d:
 
     # mc "Not at all. I guess we just see things differently. He wanted to teach me discipline. But sometimes it felt like what he really wanted was submission."
-    mc "De nada. Supongo que solo vemos las cosas de manera diferente. Quería enseñarme disciplina. Pero a veces sentía que lo que realmente quería era sumisión."
+    mc "Para nada. Supongo que solo vemos las cosas de manera diferente. Quería enseñarme disciplina. Pero a veces sentía que lo que realmente quería era sumisión."
 
 # game/code/Book-1/Chapter-4n/s04.rpy:123
 translate spanish b1c04ns04_0912df88:
@@ -272,7 +272,7 @@ translate spanish b1c04ns04_a31340dd:
 translate spanish b1c04ns04_9693d6e4:
 
     # mc "I don't know... Even {i}you{/i} think that I don't seem like the self-improvement type."
-    mc "No lo sé... Incluso {i}tú{/i} piensas que no parezco del tipo de superación personal."
+    mc "No sé... Incluso {i}tú{/i} piensas que no parezco del tipo de persona que se supera a sí misma."
 
 # game/code/Book-1/Chapter-4n/s04.rpy:149
 translate spanish b1c04ns04_04288e06:
@@ -440,13 +440,13 @@ translate spanish b1c04ns04_1460d3d6:
 translate spanish b1c04ns04_a0b82d21:
 
     # mc "Alright, alright. You know best."
-    mc "Bien, bien. Tu sabes mejor."
+    mc "Está bien, está bien. Tú lo sabes mejor."
 
 # game/code/Book-1/Chapter-4n/s04.rpy:220
 translate spanish b1c04ns04_76ab8cb5:
 
     # nv "Of course. I got you through Chem class, I can get you through a seminar hosted by Andrejz."
-    nv "Por supuesto. Te pasé la clase de química, puedo pasarte un seminario organizado por Andrejz."
+    nv "Por supuesto. Te saqué de la clase de química, puedo sacarte de un seminario organizado por Andrejz."
 
 # game/code/Book-1/Chapter-4n/s04.rpy:221
 translate spanish b1c04ns04_59070de6:
