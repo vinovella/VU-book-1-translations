@@ -14,7 +14,7 @@ translate spanish b1c04m2_b928fe36:
 translate spanish b1c04m2_004ac6d2:
 
     # mot "She's such a naughty girl, taking it deep when we could get caught at any moment."
-    mot "Es una chica tan traviesa, llevándoselo hasta el fondo cuando nos pueden pillar en cualquier momento."
+    mot "Es una chica tan traviesa, llevándoselo hasta el fondo cuando nos pueden atrapar en cualquier momento."
 
 # game/code/Book-1/Chapter-4/s02.rpy:63
 translate spanish b1c04m2_03ebbb29:
@@ -56,7 +56,7 @@ translate spanish b1c04m2_c71c7639:
 translate spanish b1c04m2_a53b0dc9:
 
     # jh "Lara! Hold still. I don't want to mess up your eyeliner."
-    jh "Lara! Quédate quieta. No quiero estropear tu delineador."
+    jh "¡Lara! Quédate quieta. No quiero estropear tu delineador."
 
 # game/code/Book-1/Chapter-4/s02.rpy:127
 translate spanish b1c04m2_de2beb3a:
@@ -152,7 +152,7 @@ translate spanish b1c04m2_44b4b0c6:
 translate spanish b1c04m2_02499597:
 
     # mc "I hope you guys have fun!"
-    mc "Espero que se diviertan, chicas!"
+    mc "¡Espero que se diviertan!"
 
 # game/code/Book-1/Chapter-4/s02.rpy:179
 translate spanish b1c04m2_44b4b0c6_1:
