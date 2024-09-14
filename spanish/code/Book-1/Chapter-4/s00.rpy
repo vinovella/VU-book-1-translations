@@ -32,7 +32,7 @@ translate spanish b1c04_inv_menu_d6fce2a4:
 translate spanish b1c04_inv_menu_c21727df:
 
     # mct "Nia's been investigated. Only Zemfira and Silvia left to go."
-    mct "Nia ha sido investigada. Solo quedaron Zemfira y Silvia para irse."
+    mct "Nia ha sido investigada. Sólo faltan Zemfira y Silvia."
 
 # game/code/Book-1/Chapter-4/s00.rpy:98
 translate spanish b1c04_inv_menu_91639aec:
@@ -62,7 +62,7 @@ translate spanish b1c04_nv_2b09920d:
 translate spanish b1c04_zp_bc462cb3:
 
     # mct "I don't know much about Zemfira yet. I'll investigate her lead next."
-    mct "No sé mucho sobre Zemfira todavía. Voy a investigar su pista a continuación."
+    mct "Todavía no sé mucho sobre Zemfira. Investigaré su pista a continuación."
 
 translate spanish strings:
 
@@ -72,7 +72,7 @@ translate spanish strings:
 
     # game/code/Book-1/Chapter-4/s00.rpy:148
     old "You have already investigated her"
-    new "ya la has investigado"
+    new "Ya la has investigado"
 
     # game/code/Book-1/Chapter-4/s00.rpy:156
     old "Investigate Silvia"
