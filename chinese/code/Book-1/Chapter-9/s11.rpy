@@ -2,7 +2,7 @@
 translate chinese b1c09s11_8b7f2afd:
 
     # "You stand near the pool, surrounded by the pumping music and students buzzing with excitement."
-    "You stand near the pool, surrounded by the pumping music and students buzzing with excitement."
+    "你站在泳池边，周围是欢快的音乐和学生们兴奋的嗡嗡声。"
 
 # game/code/Book-1/Chapter-9/s11.rpy:98
 translate chinese b1c09s11_dk_available_29b155df:
@@ -14,67 +14,67 @@ translate chinese b1c09s11_dk_available_29b155df:
 translate chinese b1c09s11_dk_available_3d9cbcbb:
 
     # "You feel Delphia's fingers lightly trace down your arm as she gets closer."
-    "You feel Delphia's fingers lightly trace down your arm as she gets closer."
+    "当德尔菲娅靠近你时，你感觉到她的手指轻轻地划过你的手臂。"
 
 # game/code/Book-1/Chapter-9/s11.rpy:109
 translate chinese b1c09s11_dk_available_3d15c271:
 
     # mc "Well, look who decided to grace me with her presence."
-    mc "Well, look who decided to grace me with her presence."
+    mc "好吧，看看是谁来给我面子了。"
 
 # game/code/Book-1/Chapter-9/s11.rpy:112
 translate chinese b1c09s11_dk_available_61997a27:
 
     # dk "*Smirks* Oh, please. If anything, I'm saving you from another dull conversation about crypto or whatever nonsense the rich people here are going on about."
-    dk "*Smirks* Oh, please. If anything, I'm saving you from another dull conversation about crypto or whatever nonsense the rich people here are going on about."
+    dk "*坏笑* 哦，拜托。如果真有什么意图，我是在救你哎，把你从一场关于加密货币或其他什么的无聊谈话中拯救出来，这里的富人们净讨论这些废话。"
 
 # game/code/Book-1/Chapter-9/s11.rpy:114
 translate chinese b1c09s11_dk_available_660ce4c9:
 
     # mc "*Smirks* And what makes your company any better?"
-    mc "*Smirks* And what makes your company any better?"
+    mc "*坏笑* 那你的公司有什么更好的地方吗？"
 
 # game/code/Book-1/Chapter-9/s11.rpy:115
 translate chinese b1c09s11_dk_available_9e43f064:
 
     # dk "Well, for one, I'm {i}much{/i} more interesting."
-    dk "Well, for one, I'm {i}much{/i} more interesting."
+    dk "嗯，首先，我{i}有趣多了{/i}。"
 
 # game/code/Book-1/Chapter-9/s11.rpy:118
 translate chinese b1c09s11_dk_available_fafd4e3e:
 
     # dk "*Whispers* And I think you know it."
-    dk "*Whispers* And I think you know it."
+    dk "*耳语* 我想你知道这一点。"
 
 # game/code/Book-1/Chapter-9/s11.rpy:119
 translate chinese b1c09s11_dk_available_798dff3d:
 
     # "You feel her words against your skin, sending a shiver down your spine."
-    "You feel her words against your skin, sending a shiver down your spine."
+    "你感觉她的气息喷到你的皮肤上，让你脊背一颤。"
 
 # game/code/Book-1/Chapter-9/s11.rpy:122
 translate chinese b1c09s11_dk_available_379fcd6e:
 
     # mc "You think?"
-    mc "You think?"
+    mc "你这么想？"
 
 # game/code/Book-1/Chapter-9/s11.rpy:124
 translate chinese b1c09s11_dk_available_60c4bc59:
 
     # dk "*Giggles* I know."
-    dk "*Giggles* I know."
+    dk "*咯咯笑* 我就是知道。"
 
 # game/code/Book-1/Chapter-9/s11.rpy:127
 translate chinese b1c09s11_dk_available_ce4608b2:
 
     # mc "And you're so humble."
-    mc "And you're so humble."
+    mc "你太谦虚了。"
 
 # game/code/Book-1/Chapter-9/s11.rpy:131
 translate chinese b1c09s11_dk_available_6f032e4a:
 
     # dk "So, what do you say we make tonight a little more...fun?"
-    dk "So, what do you say we make tonight a little more...fun?"
+    dk "那么，你觉得我们让今晚更...有趣一点怎么样？"
 
 # game/code/Book-1/Chapter-9/s11.rpy:133
 translate chinese b1c09s11_dk_available_7f88693a:
