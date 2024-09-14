@@ -152,7 +152,7 @@ translate spanish b01c03s02m01_4f7cacdd:
 translate spanish b01c03s02m01_bc62b25f:
 
     # mc "I think I understand. It must've been awful to feel that way. I'm glad you're okay, Joseph."
-    mc "Creo entender. Debe haber sido horrible sentirse así. Me alegro de que estés bien, Joseph."
+    mc "Creo que lo entiendo. Debe haber sido horrible sentirse de esa manera. Me alegro de que estés bien, Joseph."
 
 # game/code/Book-1/Chapter-3/s02.rpy:113
 translate spanish b01c03s02m01_2cda775d:
@@ -248,7 +248,7 @@ translate spanish b01c03s02m01_39c1a34f:
 translate spanish b01c03s02m01_4830f22d:
 
     # mc "No kidding. She just about scared the piss out of me with that temper of hers. I guess no one told her she was getting a new roommate today."
-    mc "En serio. Casi me asustó con ese temperamento suyo. Supongo que nadie le dijo que iba a tener un nuevo compañero de cuarto hoy."
+    mc "No me digas. Casi me mata del susto con ese temperamento suyo. Supongo que nadie le dijo que hoy tendría un nuevo compañero de habitación."
 
 # game/code/Book-1/Chapter-3/s02.rpy:158
 translate spanish b01c03s02m01_6ff02c22:
@@ -302,7 +302,7 @@ translate spanish b1c3s02_memory_cloud_222a815e:
 translate spanish b1c3s02_memory_cloud_7ec9e595:
 
     # jh "You could say we're pretty close... I'm your other roommate."
-    jh "Podrías decir que somos bastante cercanas... Soy tu otra compañera de cuarto."
+    jh "Podrías decir que somos bastante cercanas... Soy tu otra compañera de habitación."
 
 # game/code/Book-1/Chapter-3/s02.rpy:201
 translate spanish b1c3s02_memory_cloud_8581ee75:
@@ -386,7 +386,7 @@ translate spanish b1c3s02_memory_cloud_ef6808be:
 translate spanish b1c3s02_memory_cloud_f3f4dc06:
 
     # mc "Wow, I never saw it that way. It was nice having you around— to me, at least."
-    mc "Vaya, nunca lo vi así. Fue agradable tenerte cerca, al menos para mí."
+    mc "Vaya, nunca lo vi de esa manera. Fue agradable tenerte cerca, al menos para mí."
 
 # game/code/Book-1/Chapter-3/s02.rpy:237
 translate spanish b1c3s02_memory_cloud_ec743ad9:
@@ -410,7 +410,7 @@ translate spanish b1c3s02_memory_cloud_3fd35315:
 translate spanish b1c3s02_memory_cloud_19506e5c:
 
     # jh "Well, I'm sure you'll figure it out. Maybe you need to find someone who can help you through hard times, too."
-    jh "Bueno, estoy segura de que lo resolverás. Tal vez también necesite encontrar a alguien que pueda ayudarlo en los momentos difíciles."
+    jh "Bueno, estoy segura de que lo resolverás. Quizá tú también necesites encontrar a alguien que te ayude en los momentos difíciles."
 
 # game/code/Book-1/Chapter-3/s02.rpy:249
 translate spanish b1c3s02_memory_cloud_d61769c9:
