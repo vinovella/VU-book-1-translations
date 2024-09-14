@@ -794,11 +794,11 @@ translate spanish strings:
 translate spanish b1c08ss05_670a3234:
 
     # xv "We need someone to stay with it and ensure our escape. It's too dangerous for you to be in the thick of it."
-    xv "We need someone to stay with it and ensure our escape. It's too dangerous for you to be in the thick of it."
+    xv "Necesitamos a alguien que se quede con él y asegure nuestra huida. Es demasiado peligroso para ti estar en el centro."
 
 # game/code/Book-1/Chapter-8s/s05.rpy:384
 translate spanish b1c08ss05_choice_c14c407e:
 
     # fox "I've always been a mediator. Just because I can fight doesn't mean I won't try to stop them."
-    fox "I've always been a mediator. Just because I can fight doesn't mean I won't try to stop them."
+    fox "Siempre he sido un mediador. Que pueda luchar no significa que no intente detenerlos."
 
