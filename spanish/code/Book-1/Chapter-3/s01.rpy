@@ -14,7 +14,7 @@ translate spanish b1c03s01_d3ec48b3:
 translate spanish b1c03s01_caddc73b:
 
     # mct "Jesus, I'm just getting it out the ass, here."
-    mct "Jesús, solo lo estoy sacando del culo, aquí."
+    mct "Jesús, sólo estoy sacando el culo, aquí."
 
 # game/code/Book-1/Chapter-3/s01.rpy:57
 translate spanish b1c03s01_150d2fe1:
@@ -242,7 +242,7 @@ translate spanish b01c03s01m01_4141668c:
 translate spanish b01c03s01m01_c9cb7e62:
 
     # mc "Hey man, it's alright. Can never be too safe, right? Especially in these times. My name's [mcname]. I think we started off on the wrong foot."
-    mc "Hey hombre, está bien. Nunca puede ser demasiado seguro, ¿verdad? Especialmente en estos tiempos. Mi nombre es [mcname]. Creo que empezamos con el pie izquierdo."
+    mc "Hey hombre, está bien. Nunca se puede ser demasiado seguro, ¿verdad? Especialmente en estos tiempos. Mi nombre es [mcname]. Creo que empezamos con el pie izquierdo."
 
 # game/code/Book-1/Chapter-3/s01.rpy:190
 translate spanish b01c03s01m01_4ff2b99f:
@@ -284,7 +284,7 @@ translate spanish b01c03s01m01_8d060c2a:
 translate spanish b01c03s01m01_5af680d8:
 
     # mc "I'm sorry. I can't imagine what you're going through right now."
-    mc "Lo lamento. No puedo imaginar por lo que estás pasando ahora mismo."
+    mc "Lo lamento. No puedo imaginar por lo que estás pasando en este momento."
 
 # game/code/Book-1/Chapter-3/s01.rpy:211
 translate spanish b01c03s01m01_5bd31a98:
@@ -410,7 +410,7 @@ translate spanish b01c03s01m01_52c0bae5:
 translate spanish b01c03s01m01_ab24d65a:
 
     # sl "Y'know, most people I know wouldn't have been able to throw me off the way you did..."
-    sl "Parece que te ha dado un tirón de orejas. No es que pueda culparla. Todo el mundo está un poco nervioso después de... bueno."
+    sl "Sabes, la mayoría de la gente que conozco no habría sido capaz de despistarme como tú lo hiciste..."
 
 # game/code/Book-1/Chapter-3/s01.rpy:288
 translate spanish b01c03s01m01_8fa45a69:
@@ -422,7 +422,7 @@ translate spanish b01c03s01m01_8fa45a69:
 translate spanish b01c03s01m01_28520a5f:
 
     # dk "Excuse me, who are you, again?"
-    dk "Disculpe, ¿quién es usted, otra vez?"
+    dk "Disculpe, ¿quién eres tú?"
 
 # game/code/Book-1/Chapter-3/s01.rpy:294
 translate spanish b01c03s01m01_8514deaf:
@@ -470,13 +470,13 @@ translate spanish b01c03s01m01_8909a563:
 translate spanish b01c03s01m01_91c5b1cd:
 
     # mc "It's a pleasure to meet you, Miss Power."
-    mc "Es un placer conocerla, señorita Power."
+    mc "Es un placer conocerla, Señorita Power."
 
 # game/code/Book-1/Chapter-3/s01.rpy:319
 translate spanish b01c03s01m01_0a13d120:
 
     # zp "Oh, I'm sure."
-    zp "Estoy segura."
+    zp "Oh, seguro."
 
 # game/code/Book-1/Chapter-3/s01.rpy:322
 translate spanish b01c03s01m01_a2076498:
@@ -518,7 +518,7 @@ translate spanish b01c03s01m01_8d060c2a_1:
 translate spanish b01c03s01m01_5af680d8_1:
 
     # mc "I'm sorry. I can't imagine what you're going through right now."
-    mc "Lo lamento. No puedo imaginar por lo que estás pasando ahora mismo."
+    mc "Lo lamento. No puedo imaginar por lo que estás pasando en este momento."
 
 # game/code/Book-1/Chapter-3/s01.rpy:343
 translate spanish b01c03s01m01_5bd31a98_1:
