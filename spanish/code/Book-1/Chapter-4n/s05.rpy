@@ -92,7 +92,7 @@ translate spanish b1c04ns05_1e9a3b5a:
 translate spanish b1c04ns05_14d55860:
 
     # mc "It was alright. Nia seemed happy to see me, at least."
-    mc "Estaba bien. Nia parecía feliz de verme, al menos."
+    mc "Estuvo bien. Al menos, Nia parecía contenta de verme."
 
 # game/code/Book-1/Chapter-4n/s05.rpy:66
 translate spanish b1c04ns05_767d4770:
@@ -188,19 +188,19 @@ translate spanish b1c04ns05_8bc2ca47:
 translate spanish b1c04ns05_6a931a6f:
 
     # mc "Where...should I start?"
-    mc "¿Dónde debería empezar?"
+    mc "¿Dónde... debería empezar?"
 
 # game/code/Book-1/Chapter-4n/s05.rpy:105
 translate spanish b1c04ns05_782f94ce:
 
     # dk "Wherever you want."
-    dk "Donde quieras."
+    dk "Donde tú quieras."
 
 # game/code/Book-1/Chapter-4n/s05.rpy:106
 translate spanish b1c04ns05_bdd502eb:
 
     # dk "But I do need to be covered in a specific way."
-    dk "Pero necesito que me cubra de una manera específica."
+    dk "Pero necesito que me cubras de una manera específica."
 
 # game/code/Book-1/Chapter-4n/s05.rpy:109
 translate spanish b1c04ns05_42b91bcc:
@@ -218,19 +218,19 @@ translate spanish b1c04ns05_422d6ff5:
 translate spanish b1c04ns05_d8f42e36:
 
     # mc "There. Is that good enough?"
-    mc "Allá. ¿Es eso lo suficientemente bueno?"
+    mc "Ya está. ¿Es suficiente?"
 
 # game/code/Book-1/Chapter-4n/s05.rpy:133
 translate spanish b1c04ns05_f34ff2aa:
 
     # dk "I still need all this covered."
-    dk "Todavía necesito que se cubra todo esto."
+    dk "Todavía necesito que todo esto esté cubierto."
 
 # game/code/Book-1/Chapter-4n/s05.rpy:136
 translate spanish b1c04ns05_0b0a9152:
 
     # dk "About Nia..."
-    dk "Sobre Nía..."
+    dk "Sobre Nia..."
 
 # game/code/Book-1/Chapter-4n/s05.rpy:137
 translate spanish b1c04ns05_6b3f9900:
@@ -320,7 +320,7 @@ translate spanish b1c04ns05_c7e9c7af:
 translate spanish b1c04ns05_e2c91161:
 
     # dk "Nia gave me that tattoo."
-    dk "Nia me hizo ese tatuaje."
+    dk "Nia me hizo este tatuaje."
 
 # game/code/Book-1/Chapter-4n/s05.rpy:166
 translate spanish b1c04ns05_1bab5763:
@@ -362,7 +362,7 @@ translate spanish b1c04ns05_752adb73:
 translate spanish b1c04ns05_d3e37e3e:
 
     # mc "Are you...sure?"
-    mc "¿Está segura?"
+    mc "¿Estás... segura?"
 
 # game/code/Book-1/Chapter-4n/s05.rpy:198
 translate spanish b1c04ns05_0f77e732:
@@ -416,7 +416,7 @@ translate spanish b1c04ns05_e1551252:
 translate spanish b1c04ns05_c6868f81:
 
     # dk "It's complicated to explain. But I need time before the show for the blood to dry. Otherwise I'll be a slippery mess."
-    dk "Es complicado de explicar. Pero necesito tiempo antes del show para que la sangre se seque. De lo contrario, seré un desastre resbaladizo."
+    dk "Es complicado de explicar. Pero necesito tiempo antes del espectáculo para que la sangre se seque. De lo contrario seré un desastre resbaladizo."
 
 # game/code/Book-1/Chapter-4n/s05.rpy:221
 translate spanish b1c04ns05_321dbdd3:
@@ -440,7 +440,7 @@ translate spanish b1c04ns05_fc6b8055:
 translate spanish b1c04ns05_a4116bff:
 
     # dk "He has a lot of friends, and they all work together to watch over Nia. Make sure she attends her classes, doesn't stay in any one place too long, that sorta thing."
-    dk "Tiene muchos amigos y todos trabajan juntos para cuidar a Nia. Asegúrate de que asista a sus clases, que no se quede en ningún lugar demasiado tiempo, ese tipo de cosas."
+    dk "Tiene muchos amigos y todos colaboran para cuidar de Nia. Se aseguran de que asista a sus clases, de que no se quede demasiado tiempo en un mismo lugar, ese tipo de cosas."
 
 # game/code/Book-1/Chapter-4n/s05.rpy:244
 translate spanish b1c04ns05_f9eac134:
@@ -524,7 +524,7 @@ translate spanish b1c04ns05_0e1de061:
 translate spanish b1c04ns05_df2ff239:
 
     # dk "So much so, that they're hardly even stories to me, anymore."
-    dk "Tanto es así, que ya casi no son cuentos para mí."
+    dk "Tanto es así, que ya casi no son historias para mí."
 
 # game/code/Book-1/Chapter-4n/s05.rpy:275
 translate spanish b1c04ns05_15695c42:
@@ -536,7 +536,7 @@ translate spanish b1c04ns05_15695c42:
 translate spanish b1c04ns05_9e775069:
 
     # dk "Of course you wouldn't get it. That's alright, though."
-    dk "Por supuesto que no lo entenderías. Eso está bien, sin embargo."
+    dk "Por supuesto que no lo entenderías. Pero no pasa nada."
 
 # game/code/Book-1/Chapter-4n/s05.rpy:287
 translate spanish b1c04ns05_91d8a70c:
@@ -638,7 +638,7 @@ translate spanish b01c04ns05m01_896f777c:
 translate spanish b01c04ns05m01_45557851:
 
     # dk "Well, Nia likes to hang around art a lot. She'll probably be at the museum around the block right about now."
-    dk "Bueno, a Nia le gusta mucho andar con el arte. Probablemente estará en el museo a la vuelta de la esquina ahora mismo."
+    dk "Bueno, a Nia le gusta mucho el arte. Probablemente estará en el museo a la vuelta de la esquina en este momento."
 
 # game/code/Book-1/Chapter-4n/s05.rpy:344
 translate spanish b01c04ns05m01_302f4afc:
