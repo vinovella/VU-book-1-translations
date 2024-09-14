@@ -2,781 +2,781 @@
 translate chinese b1c09s09w_348053c8:
 
     # mct "Exploring the mansion sounds like a good start to any party."
-    mct "Exploring the mansion sounds like a good start to any party."
+    mct "对任何派对来说，探索豪宅听起来都是一个好的开始。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:31
 translate chinese b1c09s09w_c2b8e801:
 
     # oa "[mcname]! It's nice to see you."
-    oa "[mcname]! It's nice to see you."
+    oa "[mcname]！很高兴见到你。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:33
 translate chinese b1c09s09w_a481dbf4:
 
     # sm "Yes, we're so glad you're here!"
-    sm "Yes, we're so glad you're here!"
+    sm "是的，我们很高兴你来了！"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:36
 translate chinese b1c09s09w_e290266d:
 
     # sm "Hi, [mcname]! It's been a while."
-    sm "Hi, [mcname]! It's been a while."
+    sm "嗨，[mcname]！好久不见。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:39
 translate chinese b1c09s09w_b6099e73:
 
     # mc "I guess they got right into it, huh?"
-    mc "I guess they got right into it, huh?"
+    mc "看来大家都已经投入派对中了，对吧？"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:42
 translate chinese b1c09s09w_95c0f8d0:
 
     # oa "Ha! All Monika does is get into it. And Simon just likes to tag along."
-    oa "Ha! All Monika does is get into it. And Simon just likes to tag along."
+    oa "哈！莫妮卡所做的就是沉浸其中。西蒙只是喜欢跟着凑热闹。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:45
 translate chinese b1c09s09w_c7aaccd6:
 
     # sm "Olesya, don't sour your mood by thinking of a past feud."
-    sm "Olesya, don't sour your mood by thinking of a past feud."
+    sm "奥列西娅，不要老是想着过去的恩怨，使你的心情变糟。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:50
 translate chinese b1c09s09w_77c3e10a:
 
     # oa "I'd hardly say it's in the past..."
-    oa "I'd hardly say it's in the past..."
+    oa "我不认为这是过去的事..."
 
 # game/code/Book-1/Chapter-9/s09w.rpy:55
 translate chinese b1c09s09w_ce5df205:
 
     # mct "What does Silvia mean by a past feud?"
-    mct "What does Silvia mean by a past feud?"
+    mct "西尔维娅说的‘过去的恩怨’是什么意思？"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:60
 translate chinese b1c09s09w_5f375110:
 
     # ima "Eee! I was hoping I'd see you in here!"
-    ima "Eee! I was hoping I'd see you in here!"
+    ima "咦！我正希望在这里见到你呢！"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:62
 translate chinese b1c09s09w_5a864e58:
 
     # ima "Hey, it's nice to see you."
-    ima "Hey, it's nice to see you."
+    ima "嘿，很高兴见到你。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:63
 translate chinese b1c09s09w_aa8a8184:
 
     # ima "Are you enjoying the party?"
-    ima "Are you enjoying the party?"
+    ima "你喜欢这个派对吗？"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:65
 translate chinese b1c09s09w_7babd077:
 
     # mc "Yeah. You did a great job, Isa."
-    mc "Yeah. You did a great job, Isa."
+    mc "是的。你做得很好，艾萨。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:67
 translate chinese b1c09s09w_bc63ea55:
 
     # ima "I know."
-    ima "I know."
+    ima "我知道。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:69
 translate chinese b1c09s09w_77cc839d:
 
     # oa "Isa always plans the best parties."
-    oa "Isa always plans the best parties."
+    oa "艾萨总是能策划最好的派对。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:84
 translate chinese replay_b1c09s09w_22fa191b:
 
     # ir "WHOO! I feel great!"
-    ir "WHOO! I feel great!"
+    ir "喔！我感觉棒极了！"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:89
 translate chinese replay_b1c09s09w_066f64be:
 
     # ir "Are you fuckers ready for a strip tease?!"
-    ir "Are you fuckers ready for a strip tease?!"
+    ir "你们这群小坏蛋准备好看脱衣舞了吗?!"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:92
 translate chinese replay_b1c09s09w_a96851f9:
 
     # sl "Fuck yeah!"
-    sl "Fuck yeah!"
+    sl "哦耶！"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:94
 translate chinese replay_b1c09s09w_49e2c898:
 
     # mm "You read my mind!"
-    mm "You read my mind!"
+    mm "你看透了我的心思！"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:97
 translate chinese replay_b1c09s09w_55894af8:
 
     # oa "A strip tease?"
-    oa "A strip tease?"
+    oa "脱衣舞？"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:100
 translate chinese replay_b1c09s09w_db94a4f5:
 
     # ima "No more drinks for those three, okay? They'll ransack the place if they get any more blasted."
-    ima "No more drinks for those three, okay? They'll ransack the place if they get any more blasted."
+    ima "别再给这三个人酒了，好吗？他们再喝下去会闹事的。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:101
 translate chinese replay_b1c09s09w_9b49a262:
 
     # ima "If they ask for more, just give them grape juice and tell them it's wine."
-    ima "If they ask for more, just give them grape juice and tell them it's wine."
+    ima "如果他们再要，就给他们葡萄汁，然后告诉他们这是葡萄酒。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:107
 translate chinese replay_b1c09s09w_5293303d:
 
     # ir "That's fucking right! We're gonna have a strip off! We'll each do a little dance and take something off until we bitch out and can't anymore..."
-    ir "That's fucking right! We're gonna have a strip off! We'll each do a little dance and take something off until we bitch out and can't anymore..."
+    ir "太他妈对了！我们要脱衣舞会！我们每个人跳一小段舞，然后脱掉一件衣服，直到退出游戏，再也不能..."
 
 # game/code/Book-1/Chapter-9/s09w.rpy:108
 translate chinese replay_b1c09s09w_2a27881a:
 
     # ir "Or until there's nothing else to take off. Whoever takes off the least, LOSES!"
-    ir "Or until there's nothing else to take off. Whoever takes off the least, LOSES!"
+    ir "或者直到没有衣服可脱了。谁脱得最少，谁就输了！"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:109
 translate chinese replay_b1c09s09w_677747ab:
 
     # ir "And whoever takes off the most, gets another round of drinks!"
-    ir "And whoever takes off the most, gets another round of drinks!"
+    ir "脱得最多的人，可以再喝一轮酒！"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:112
 translate chinese replay_b1c09s09w_362d6e1e:
 
     # "Isa looks at the server and shakes her head no, indicating that Iona and the others are cut off."
-    "Isa looks at the server and shakes her head no, indicating that Iona and the others are cut off."
+    "艾萨看着服务生，摇了摇头，表示欧娜和其他人已经出局了。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:115
 translate chinese replay_b1c09s09w_0c76b422:
 
     # sl "And what happens if we lose?"
-    sl "And what happens if we lose?"
+    sl "如果我们输了会怎么样？"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:118
 translate chinese replay_b1c09s09w_946fd963:
 
     # ir "YA GET DUMPED IN THE POOL!"
-    ir "YA GET DUMPED IN THE POOL!"
+    ir "你们会被丢到泳池里！"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:122
 translate chinese replay_b1c09s09w_c33b8fbc:
 
     # ir "And I know who's ass {i}I'm{/i} hoping to see strip the most."
-    ir "And I know who's ass {i}I'm{/i} hoping to see strip the most."
+    ir "我知道{i}我最{/i}希望看到谁的屁股被脱光。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:126
 translate chinese replay_b1c09s09w_d8ce0219:
 
     # mct "I should really start wearing more layers around Iona."
-    mct "I should really start wearing more layers around Iona."
+    mct "在欧娜身边呆着，我真应该多穿几层衣服。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:129
 translate chinese replay_b1c09s09w_49024973:
 
     # ir "Everyone gather around! We'll let each contestant dance on this shaky ass table! I'm sure it'll be fine."
-    ir "Everyone gather around! We'll let each contestant dance on this shaky ass table! I'm sure it'll be fine."
+    ir "大家都过来！每位参赛者都要在这张摇摇晃晃的桌子上跳舞！我相信这没问题的。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:133
 translate chinese replay_b1c09s09w_8deec457:
 
     # mm "If it can hold {i}this{/i} fat ass, then it can hold anything, luv."
-    mm "If it can hold {i}this{/i} fat ass, then it can hold anything, luv."
+    mm "如果它能承受{i}这个{/i}丰满的屁股，那么它就能承受任何东西，亲爱的。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:136
 translate chinese replay_b1c09s09w_a1587353:
 
     # sl "Please. Like you could {i}afford{/i} a BBL."
-    sl "Please. Like you could {i}afford{/i} a BBL."
+    sl "得了吧。说的好像你有人家做屁股提拉手术的{i}那么丰满{/i}一样。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:138
 translate chinese replay_b1c09s09w_f5a66e35:
 
     # mm "Of course I can! How broke do you think I am?!"
-    mm "Of course I can! How broke do you think I am?!"
+    mm "当然可以！你以为我有多平?!"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:144
 translate chinese replay_b1c09s09w_90ef9711:
 
     # ba "Will you two shut up?"
-    ba "Will you two shut up?"
+    ba "你们两个能闭嘴吗？"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:151
 translate chinese replay_b1c09s09w_f774cf0e:
 
     # oa "I'll sit this one ou—"
-    oa "I'll sit this one ou—"
+    oa "这次我来坐着--"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:154
 translate chinese replay_b1c09s09w_24d4e0b7:
 
     # ir "Nah-uh! You get out of way too much partying, Olesya. You're participating in this one."
-    ir "Nah-uh! You get out of way too much partying, Olesya. You're participating in this one."
+    ir "不行！你逃了太多次派对了，奥列西娅。这次你必须参加。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:158
 translate chinese replay_b1c09s09w_32e18697:
 
     # mct "Shit. Olesya won't want to expose her leg like that..."
-    mct "Shit. Olesya won't want to expose her leg like that..."
+    mct "该死。奥列西娅不想这样露腿......"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:160
 translate chinese replay_b1c09s09w_8d9bee55:
 
     # mct "Olesya doesn't seem comfortable with that..."
-    mct "Olesya doesn't seem comfortable with that..."
+    mct "奥列西娅似乎不太愿意这样暴露她的腿..."
 
 # game/code/Book-1/Chapter-9/s09w.rpy:163
 translate chinese replay_b1c09s09w_5179dacb:
 
     # mct "Iona is too drunk and/or high to notice Olesya's discomfort, though."
-    mct "Iona is too drunk and/or high to notice Olesya's discomfort, though."
+    mct "不过，欧娜要么是喝得太醉，或要么就是太嗨了，她根本没注意到奥列西娅的不适。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:167
 translate chinese replay_b1c09s09w_4cd6842d:
 
     # ir "I'll go first!"
-    ir "I'll go first!"
+    ir "我先来！"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:173
 translate chinese replay_b1c09s09w_1991cf89:
 
     # "Iona stretches, warming her muscles up for her presentation."
-    "Iona stretches, warming her muscles up for her presentation."
+    "欧娜做了个伸展运动，为接下来的表现热身。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:176
 translate chinese replay_b1c09s09w_586cf048:
 
     # "Iona rolls her hips and moves in fluid, slow movements. It's mesmerizing and draws your eye down her body."
-    "Iona rolls her hips and moves in fluid, slow movements. It's mesmerizing and draws your eye down her body."
+    "欧娜扭动着臀部，动作流畅而缓慢。她的动作令人着迷，吸引你的视线不由自主地顺着她的身体往下移。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:178
 translate chinese replay_b1c09s09w_5f05341c:
 
     # "She is surprisingly coordinated for how intoxicated she is."
-    "She is surprisingly coordinated for how intoxicated she is."
+    "她醉得如此厉害，身体却出奇地协调。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:181
 translate chinese replay_b1c09s09w_ba382689:
 
     # mm "Is that all you've got, you spoiled nepo baby!?"
-    mm "Is that all you've got, you spoiled nepo baby!?"
+    mm "你就这点本事吗，你这个被宠坏的娇娇女!?"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:185
 translate chinese replay_b1c09s09w_d3fac956:
 
     # "Iona grins at you as she slides her clothes off, enjoying showing off for you."
-    "Iona grins at you as she slides her clothes off, enjoying showing off for you."
+    "欧娜一边脱衣服，一边对着你微笑，享受着在你面前炫耀的乐趣。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:232
 translate chinese replay_b1c09s09w_f7414b36:
 
     # "You clap politely for Iona's display."
-    "You clap politely for Iona's display."
+    "你礼貌地为欧娜的表演鼓掌。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:235
 translate chinese replay_b1c09s09w_7edbbfe8:
 
     # ir "Alright, someone else's turn!"
-    ir "Alright, someone else's turn!"
+    ir "好了，轮到其他人了！"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:246
 translate chinese b1c09s09w_cheer_ir_7ea0bbde:
 
     # "Iona's smile brightens at your response, encouraging her to do something much more risque."
-    "Iona's smile brightens at your response, encouraging her to do something much more risque."
+    "欧娜对你的回应报以灿烂的笑容，她像是受到鼓励般，做出更出格的事情。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:249
 translate chinese b1c09s09w_cheer_ir_c1b386ee:
 
     # "Iona sexily tugs at her top, starting to remove it. She lets her breasts bounce out as she completely removes the fabric."
-    "Iona sexily tugs at her top, starting to remove it. She lets her breasts bounce out as she completely removes the fabric."
+    "欧娜性感地扯了扯她的上衣，开始脱掉它。当她完全脱掉衣服时，她的乳房弹了出来。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:253
 translate chinese b1c09s09w_cheer_ir_5e83a790:
 
     # "She throws her bikini top at you."
-    "She throws her bikini top at you."
+    "她把比基尼上衣扔给你。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:255
 translate chinese b1c09s09w_cheer_ir_7211e477:
 
     # "You catch it eagerly, her scent wafting off the fabric as you hold it."
-    "You catch it eagerly, her scent wafting off the fabric as you hold it."
+    "你迫不及待地接住它，在你触到衣服的那一刻，她的气味从布料上飘散开来。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:260
 translate chinese b1c09s09w_cheer_ir_63f6573c:
 
     # "Iona licks her fingers and drags them down her body, massaging her aching pussy through her bikini bottoms while she gropes herself."
-    "Iona licks her fingers and drags them down her body, massaging her aching pussy through her bikini bottoms while she gropes herself."
+    "欧娜舔了舔手指，顺着身体向下，隔着比基尼按摩自己发痒的下面，同时摸索着自己。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:261
 translate chinese b1c09s09w_cheer_ir_9103051d:
 
     # "Her eyes lock onto you, thinking of all the naughty things you two have done together in the past, and obviously wishing you could do more together."
-    "Her eyes lock onto you, thinking of all the naughty things you two have done together in the past, and obviously wishing you could do more together."
+    "她的眼睛盯着你，想起你们俩过去一起做过的所有顽皮的回忆，显然希望你们能一起做更多的事情。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:265
 translate chinese b1c09s09w_cheer_ir_9f18989b:
 
     # mm "Whoo! *Laughs* Save some game for the rest of us, slut!"
-    mm "Whoo! *Laughs* Save some game for the rest of us, slut!"
+    mm "喔！*大笑* 荡妇，给我们其他人留点游戏吧！"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:269
 translate chinese b1c09s09w_cheer_ir_9a13c8b8:
 
     # ima "God damn! Get it, girl."
-    ima "God damn! Get it, girl."
+    ima "我操！来吧，宝贝儿。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:271
 translate chinese b1c09s09w_cheer_ir_d3a783b4:
 
     # "Iona slowly spins around, showing off her bare tits to everyone in the room."
-    "Iona slowly spins around, showing off her bare tits to everyone in the room."
+    "欧娜慢慢转过身，向房间里的所有人展示她裸露的胸部。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:272
 translate chinese b1c09s09w_cheer_ir_fd48cb8a:
 
     # "She faces you again and winks, giving you the notion that although everyone can see her, the show was really all for you."
-    "She faces you again and winks, giving you the notion that although everyone can see her, the show was really all for you."
+    "到面对你时，她向你眨眼，让你觉得虽然所有人都能看到她，但这场表演其实只为你而做。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:286
 translate chinese b1c09s09w_ima_show_554b433b:
 
     # ima "Me next, me next!"
-    ima "Me next, me next!"
+    ima "下一个是我，下一个是我！"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:289
 translate chinese b1c09s09w_ima_show_b82ab687:
 
     # "Isa starts off strong, shaking her ass for everyone."
-    "Isa starts off strong, shaking her ass for everyone."
+    "艾萨一开始就火力全开，在所有人面前抖着屁股。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:290
 translate chinese b1c09s09w_ima_show_e47d80ad:
 
     # "Isa gropes her ass with her hands, teasing the audience with her divine curves."
-    "Isa gropes her ass with her hands, teasing the audience with her divine curves."
+    "艾萨用手抚摸自己的屁股，用她那完美的曲线挑逗着观众。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:294
 translate chinese b1c09s09w_ima_show_439a4cb3:
 
     # mct "I have no idea how I'm going to compete with this when Iona makes me get on that damn table..."
-    mct "I have no idea how I'm going to compete with this when Iona makes me get on that damn table..."
+    mct "当欧娜让我上那该死的桌子时，我不知道自己该如何竞争..."
 
 # game/code/Book-1/Chapter-9/s09w.rpy:296
 translate chinese b1c09s09w_ima_show_25d89014:
 
     # mct "God damn, these Winners Club members like to party hard."
-    mct "God damn, these Winners Club members like to party hard."
+    mct "天哪，这些赢家俱乐部的成员真是喜欢狂欢。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:297
 translate chinese b1c09s09w_ima_show_571d8805:
 
     # mct "I guess it's a good thing that I'm gonna throw the competition so that Olesya doesn't have to get thrown in the pool."
-    mct "I guess it's a good thing that I'm gonna throw the competition so that Olesya doesn't have to get thrown in the pool."
+    mct "我想我退出比赛的话应该是件好事，这样奥列西娅就不用被扔到泳池里了。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:304
 translate chinese b1c09s09w_ima_show_fc77f8db:
 
     # "Isa wastes no time, freely removing her netted top and her overskirt, leaving her in only a two-piece."
-    "Isa wastes no time, freely removing her netted top and her overskirt, leaving her in only a two-piece."
+    "艾萨毫不迟疑地脱掉了网状上衣和超短裙，只穿着两件式内衣。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:307
 translate chinese b1c09s09w_ima_show_3a972a14:
 
     # ir "Yeah! Strip more!"
-    ir "Yeah! Strip more!"
+    ir "喔呼！再多脱一点！"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:310
 translate chinese b1c09s09w_ima_show_d3798c63:
 
     # mm "Give us more!"
-    mm "Give us more!"
+    mm "我们还要看！"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:316
 translate chinese b1c09s09w_ima_show_745000a0:
 
     # sl "Fuck us up, woman! Blow our minds!"
-    sl "Fuck us up, woman! Blow our minds!"
+    sl "女人，让我们爽一把！让我们大开眼界！"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:332
 translate chinese b1c09s09w_ima_show_4f735786:
 
     # mc "Thanks for the drink."
-    mc "Thanks for the drink."
+    mc "谢谢你的酒。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:335
 translate chinese b1c09s09w_ima_show_a96851f9:
 
     # sl "Fuck yeah!"
-    sl "Fuck yeah!"
+    sl "好哎！"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:338
 translate chinese b1c09s09w_ima_show_aa0599ca:
 
     # ir "That's right, show off for us, baby!"
-    ir "That's right, show off for us, baby!"
+    ir "没错，宝贝，给我们秀一下吧！"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:347
 translate chinese b1c09s09w_cheer_ima_4574bf9e:
 
     # mc "Show us what you got, Isa!"
-    mc "Show us what you got, Isa!"
+    mc "艾萨，让我们看看你的本事！"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:350
 translate chinese b1c09s09w_cheer_ima_06f6602f:
 
     # "Isa removes her bikini top, showing off her supple breasts to the crowd."
-    "Isa removes her bikini top, showing off her supple breasts to the crowd."
+    "艾萨脱下比基尼上衣，向众人展示她柔软的乳房。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:356
 translate chinese b1c09s09w_cheer_ima_3d316ff5:
 
     # "Isa dances in a tight circle on the table, letting everyone view her from every angle."
-    "Isa dances in a tight circle on the table, letting everyone view her from every angle."
+    "艾萨在桌子上转圈跳舞，让每个人都能从各个角度欣赏她。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:358
 translate chinese b1c09s09w_cheer_ima_17ff93b7:
 
     # "Her hips and arms move in slow, sensual rolling motions, causing the eye to run up and down her sexy body."
-    "Her hips and arms move in slow, sensual rolling motions, causing the eye to run up and down her sexy body."
+    "她的臀部和手臂缓慢而性感地在空中画圈，让众人的目光在她性感的身体上上下移动。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:362
 translate chinese b1c09s09w_cheer_ima_21801bed:
 
     # mm "Now we're talking! Keep going, beautiful!"
-    mm "Now we're talking! Keep going, beautiful!"
+    mm "太精彩了！继续，美女！"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:365
 translate chinese b1c09s09w_cheer_ima_9afb766e:
 
     # "Isa flirtatiously sticks her tongue out and flips you all off. Her bikini bottom barely continues to cover her."
-    "Isa flirtatiously sticks her tongue out and flips you all off. Her bikini bottom barely continues to cover her."
+    "艾萨调皮地伸出舌头，朝你们抛媚眼。她的比基尼下装几乎无法遮住她的身体。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:369
 translate chinese b1c09s09w_cheer_ima_497ba8f5:
 
     # "Isa turns her ass toward you."
-    "Isa turns her ass toward you."
+    "艾萨把屁股转向你。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:370
 translate chinese b1c09s09w_cheer_ima_afde404f:
 
     # "She bends over and gropes herself, massaging herself."
-    "She bends over and gropes herself, massaging herself."
+    "她弯下腰，开始抚摸自己，按摩自己。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:374
 translate chinese b1c09s09w_cheer_ima_4424aa57:
 
     # "Then she loops her thumbs through her bikini strings and starts to tug off her bottoms."
-    "Then she loops her thumbs through her bikini strings and starts to tug off her bottoms."
+    "然后她用拇指勾住比基尼的带子，开始拉开内裤的边缝。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:377
 translate chinese b1c09s09w_cheer_ima_49047b18:
 
     # mm "Holy shit! Now that's what we want to see!"
-    mm "Holy shit! Now that's what we want to see!"
+    mm "我靠！这才是我们想看的！"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:379
 translate chinese b1c09s09w_cheer_ima_6afac555:
 
     # ir "Hot damn!!"
-    ir "Hot damn!!"
+    ir "靠，真要命!!"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:382
 translate chinese b1c09s09w_cheer_ima_b70ca53f:
 
     # "Isa giggles and tugs her bottoms up, not quite willing to take them all the way off for the crowd."
-    "Isa giggles and tugs her bottoms up, not quite willing to take them all the way off for the crowd."
+    "艾萨咯咯地笑着，把内裤往上拉，不太愿意当着众人的面脱光。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:394
 translate chinese b1c09s09w_ba_show_cc65ba2a:
 
     # ima "That's all I got, people."
-    ima "That's all I got, people."
+    ima "我只能到这里了，各位。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:396
 translate chinese b1c09s09w_ba_show_240ada6d:
 
     # ir "Who's next?"
-    ir "Who's next?"
+    ir "下一个是谁？"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:402
 translate chinese b1c09s09w_ba_show_ad592de7:
 
     # ba "Me. You bitches aren't shit."
-    ba "Me. You bitches aren't shit."
+    ba "我。你们这群婊子真是一坨屎。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:405
 translate chinese b1c09s09w_ba_show_b4ccb29e:
 
     # ir "You're talking mad shit for a woman with a resting bitch face so bad it's like your face came out deformed that way."
-    ir "You're talking mad shit for a woman with a resting bitch face so bad it's like your face came out deformed that way."
+    ir "你这个女人，天天顶着张臭脸，简直就像畸形一样，竟然还好意思说这种疯话。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:411
 translate chinese b1c09s09w_ba_show_8d35da9f:
 
     # mct "Damn, she's starting {i}without{/i} certain items."
-    mct "Damn, she's starting {i}without{/i} certain items."
+    mct "该死，她开始跳了，{i}没有{/i}循规蹈矩地跳某些舞步。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:414
 translate chinese b1c09s09w_ba_show_bb23868e:
 
     # "Brigitta immediately squats and starts shaking her ass, losing herself in the music."
-    "Brigitta immediately squats and starts shaking her ass, losing herself in the music."
+    "布吉塔立刻蹲下来，开始扭动屁股，完全沉浸在音乐中。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:419
 translate chinese b1c09s09w_ba_show_978ca45d:
 
     # ir "Damn, Brigitta's starting out crazier than I did."
-    ir "Damn, Brigitta's starting out crazier than I did."
+    ir "该死，布吉塔比我还疯狂。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:420
 translate chinese b1c09s09w_ba_show_6fc95ef3:
 
     # ir "Gotta up my game."
-    ir "Gotta up my game."
+    ir "我得加把劲了。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:424
 translate chinese b1c09s09w_ba_show_395a71c0:
 
     # mc "I've seen your game, and you do it very well. You've got nothing to worry about."
-    mc "I've seen your game, and you do it very well. You've got nothing to worry about."
+    mc "我见识过你的实力，你跳得很好。没什么可担心的。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:426
 translate chinese b1c09s09w_ba_show_0c473f27:
 
     # mc "Brigitta certainly knows how to throw it back."
-    mc "Brigitta certainly knows how to throw it back."
+    mc "布吉塔当然知道如何反击。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:433
 translate chinese b1c09s09w_ba_show_412c352f:
 
     # "Brigitta's motions are fluid yet rash. She's way more fiery in the way she moves than Iona or Isa."
-    "Brigitta's motions are fluid yet rash. She's way more fiery in the way she moves than Iona or Isa."
+    "布吉塔的动作很流畅，但很轻率。她的动作比欧娜和艾萨要热情得多。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:442
 translate chinese b1c09s09w_ba_show_518f791d:
 
     # "Brig starts rubbing herself, using quick and aggressive movements."
-    "Brig starts rubbing herself, using quick and aggressive movements."
+    "布吉塔开始揉搓自己，动作迅速而激烈。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:446
 translate chinese b1c09s09w_ba_show_02a5361e:
 
     # "Brigitta rolls onto all fours and arches her back, showing off her ass."
-    "Brigitta rolls onto all fours and arches her back, showing off her ass."
+    "布吉塔四肢着地拱起背，炫耀她的翘臀。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:449
 translate chinese b1c09s09w_ba_show_96fc4cc4:
 
     # "Brig slides to her butt and stretches one of her legs."
-    "Brig slides to her butt and stretches one of her legs."
+    "布吉塔屁股在空中划过，伸展了她的一条腿。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:450
 translate chinese b1c09s09w_ba_show_d690ad92:
 
     # "A carefree, genuine smile melts the resting bitch face on Brig's features."
-    "A carefree, genuine smile melts the resting bitch face on Brig's features."
+    "布吉塔一向摆着的那张臭脸不复存在，绽放出一个无忧无虑，真诚的微笑"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:454
 translate chinese b1c09s09w_ba_show_7f597586:
 
     # mct "I think that's the most relaxed I've ever seen her."
-    mct "I think that's the most relaxed I've ever seen her."
+    mct "我想这是我见过她最放松的一次。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:456
 translate chinese b1c09s09w_ba_show_3f6d629a:
 
     # mct "Huh. She seems to be enjoying herself."
-    mct "Huh. She seems to be enjoying herself."
+    mct "啊。她似乎玩得很开心。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:459
 translate chinese b1c09s09w_ba_show_9e0ef681:
 
     # "Brigitta loses herself in the music, her movements staying fiery and quick, but a softer expression melts her usually rigid features."
-    "Brigitta loses herself in the music, her movements staying fiery and quick, but a softer expression melts her usually rigid features."
+    "布吉塔沉醉在音乐中，动作激烈而迅速，但柔和的表情却融化了她一贯坚硬的面容。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:466
 translate chinese b1c09s09w_ba_show_ca6f43af:
 
     # "She slaps herself on the ass hard enough it can be heard around the room."
-    "She slaps herself on the ass hard enough it can be heard around the room."
+    "她用力拍打自己的屁股，声音响彻整个房间。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:468
 translate chinese b1c09s09w_ba_show_b3acdd02:
 
     # sl "Holy fuck!"
-    sl "Holy fuck!"
+    sl "我操！"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:470
 translate chinese b1c09s09w_ba_show_0fd6ad03:
 
     # ir "HOT DAMN!"
-    ir "HOT DAMN!"
+    ir "靠啊！"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:477
 translate chinese b1c09s09w_ba_show_8efd82f3:
 
     # ba "Like what you see, perv?"
-    ba "Like what you see, perv?"
+    ba "喜欢你看到的吗，变态？"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:479
 translate chinese b1c09s09w_ba_show_db099e16:
 
     # ba "I bet you think this is alllll for you, dontcha?"
-    ba "I bet you think this is alllll for you, dontcha?"
+    ba "我敢说，你一定以为这一切都是给你准备的，对吧？"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:481
 translate chinese b1c09s09w_ba_show_7a988d68:
 
     # ba "But you're used to freezing in big crowds, aren't you?"
-    ba "But you're used to freezing in big crowds, aren't you?"
+    ba "但是你已经习惯在人群中躲起来，不是吗？"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:483
 translate chinese b1c09s09w_ba_show_d671eeaf:
 
     # ba "I bet you just came in here to see what stupid shit we'd do for you."
-    ba "I bet you just came in here to see what stupid shit we'd do for you."
+    ba "我打赌你来这里就是想看看，我们究竟能为你做些什么蠢事。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:486
 translate chinese b1c09s09w_ba_show_a711ffa7:
 
     # mc "Easy, Brig."
-    mc "Easy, Brig."
+    mc "放轻松，布吉塔。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:488
 translate chinese b1c09s09w_ba_show_6b141d80:
 
     # ir "It's just a party. We're all having fun. Right?"
-    ir "It's just a party. We're all having fun. Right?"
+    ir "这只是一个聚会。我们都很开心。对吗？"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:491
 translate chinese b1c09s09w_ba_show_1fe31ab6:
 
     # ba "You're just having the time of your life, aren't you?"
-    ba "You're just having the time of your life, aren't you?"
+    ba "你正享受着你人生中最美好的时光，不是吗？"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:493
 translate chinese b1c09s09w_ba_show_caf429e6:
 
     # ba "Watching us struggle while {i}everything{/i} gets handed to you just because you're the new pretty toy everyone likes."
-    ba "Watching us struggle while {i}everything{/i} gets handed to you just because you're the new pretty toy everyone likes."
+    ba "看着我们挣扎，而{i}一切{/i}都被送到你面前，只因为你是个人人都喜欢的漂亮新玩具。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:497
 translate chinese b1c09s09w_ba_show_8b17eaac:
 
     # ba "Listen here you naive little shit."
-    ba "Listen here you naive little shit."
+    ba "听着，你这个天真的小混蛋。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:498
 translate chinese b1c09s09w_ba_show_b5361eec:
 
     # ba "You're {i}lucky{/i} to have all the attention on you. Because it won't last forever."
-    ba "You're {i}lucky{/i} to have all the attention on you. Because it won't last forever."
+    ba "你很{i}幸运{/i}能得到所有人的关注。但这一切不会永远持续下去。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:499
 translate chinese b1c09s09w_ba_show_6332b4fd:
 
     # ba "You think you know the people around you, you think this 'club' will be there for you in your darkest moments."
-    ba "You think you know the people around you, you think this 'club' will be there for you in your darkest moments."
+    ba "你以为你了解身边的人，你以为这个‘俱乐部’会在你最黑暗的时刻陪伴着你。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:502
 translate chinese b1c09s09w_ba_show_9fa02de6:
 
     # ba "But then it's all dashed away the moment you take one wrong step."
-    ba "But then it's all dashed away the moment you take one wrong step."
+    ba "但一旦你走错一步，一切就都会烟消云散。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:503
 translate chinese b1c09s09w_ba_show_6a8ae5d2:
 
     # ba "And don't think I won't be right there, watching you fail, laughing my fucking ass off."
-    ba "And don't think I won't be right there, watching you fail, laughing my fucking ass off."
+    ba "别以为到时候我不会站在你面前，看着你失败的狼狈样子，我会笑得前仰后合。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:508
 translate chinese b1c09s09w_ba_show_b872e9ab:
 
     # ba "You came here just to see what an embarrassing spectacle we'd all make of ourselves, huh?"
-    ba "You came here just to see what an embarrassing spectacle we'd all make of ourselves, huh?"
+    ba "你到这里来就是想看看我们大家会出什么糗，是吧？"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:509
 translate chinese b1c09s09w_ba_show_8e14300d:
 
     # ba "Well I hope you're fucking happy."
-    ba "Well I hope you're fucking happy."
+    ba "好吧，我希望你他妈的开心。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:518
 translate chinese b1c09s09w_ba_show_c65f74d5:
 
     # mc "Did I do something wrong?"
-    mc "Did I do something wrong?"
+    mc "我做错什么了吗？"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:519
 translate chinese b1c09s09w_ba_show_6a931f48:
 
     # mc "Where is all of this coming from?"
-    mc "Where is all of this coming from?"
+    mc "你对我的这些不满从何而来？"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:522
 translate chinese b1c09s09w_ba_show_f6f99245:
 
     # ba "Don't fucking act like you don't know."
-    ba "Don't fucking act like you don't know."
+    ba "别他妈装得好像你不知道似的。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:524
 translate chinese b1c09s09w_ba_show_6312650e:
 
     # mm "Lay off him, cunt."
-    mm "Lay off him, cunt."
+    mm "放开他，贱人。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:526
 translate chinese b1c09s09w_ba_show_661a9233:
 
     # oa "We're all just trying to have fun, Brig."
-    oa "We're all just trying to have fun, Brig."
+    oa "我们只是想找点乐子，布吉塔。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:534
 translate chinese b1c09s09w_ba_show_00e73b8b:
 
     # mc "Brig, I'm sorry. I didn't mean to offend you."
-    mc "Brig, I'm sorry. I didn't mean to offend you."
+    mc "布吉塔，对不起。我不是有意要冒犯你的。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:535
 translate chinese b1c09s09w_ba_show_7cb97157:
 
     # mc "I'm trying to enjoy the party, the same as everyone else."
-    mc "I'm trying to enjoy the party, the same as everyone else."
+    mc "我只是想和其他人一样，享受这个派对。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:538
 translate chinese b1c09s09w_ba_show_bef9f7c7:
 
     # ba "Oh suuuure. That's why you're just gawking at all the rich, mentally fucked up group of us, isn't it?"
-    ba "Oh suuuure. That's why you're just gawking at all the rich, mentally fucked up group of us, isn't it?"
+    ba "哦，演的可真好。这就是为什么你总是呆呆地看着我们这些有钱、精神错乱的人，不是吗？"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:540
 translate chinese b1c09s09w_ba_show_e83d31de:
 
     # sm "Brig, c'mon. Let's just have a good time, okay?"
-    sm "Brig, c'mon. Let's just have a good time, okay?"
+    sm "布吉塔，别这样。让我们好好享受，好吗？"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:541
 translate chinese b1c09s09w_ba_show_6fd7aac4:
 
     # sm "He's being really nice."
-    sm "He's being really nice."
+    sm "他真的很好。"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:548
 translate chinese b1c09s09w_ba_show_8a02447c:
 
     # mc "Just shut up. What the fuck is your problem?"
-    mc "Just shut up. What the fuck is your problem?"
+    mc "闭嘴。你他妈的有什么毛病？"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:555
 translate chinese b1c09s09w_ba_show_56edf709:
