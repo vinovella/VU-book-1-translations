@@ -56,13 +56,13 @@ translate spanish b1c05s06_18414095:
 translate spanish b1c05s06_8721d3af:
 
     # jh "Ah, okay. Have a good time, [mcname]."
-    jh "Ah bien. Pásalo bien, [mcname]."
+    jh "Ah, bien. Pásalo bien, [mcname]."
 
 # game/code/Book-1/Chapter-5/s06.rpy:64
 translate spanish b1c05s06_d9a18cbc:
 
     # mc "Thanks Josie."
-    mc "Gracias Josi."
+    mc "Gracias Josie."
 
 # game/code/Book-1/Chapter-5/s06.rpy:75
 translate spanish b1c05s06_7ad2d86c:
@@ -116,13 +116,13 @@ translate spanish b1c05s06_108c7a10:
 translate spanish b1c05s06_de5099d3:
 
     # mc "Who are these two? I think I've seen this one around campus."
-    mc "¿Quiénes son estas dos? Creo que los he visto por el campus."
+    mc "¿Quiénes son estas dos? Creo que las he visto por el campus."
 
 # game/code/Book-1/Chapter-5/s06.rpy:112
 translate spanish b1c05s06_bc563db0:
 
     # mc "Never got her name, though."
-    mc "Aunque nunca supe sus nombre."
+    mc "Aunque nunca supe sus nombres."
 
 # game/code/Book-1/Chapter-5/s06.rpy:116
 translate spanish b1c05s06_b0eb2022:
@@ -188,7 +188,7 @@ translate spanish b1c05s06_continue_32698b88:
 translate spanish b1c05s06_continue_6e11b645:
 
     # mc "Just being respectful to my handler, Ms. Martinez."
-    mc "Sólo estoy siendo respetuoso con mi supervisora, la Sra. Martínez."
+    mc "Sólo estoy siendo respetuoso con mi supervisora, la Sra. Martinez."
 
 # game/code/Book-1/Chapter-5/s06.rpy:168
 translate spanish b1c05s06_continue_ac8702fa:
@@ -314,7 +314,7 @@ translate spanish b1c05s06_continue_5a51973d:
 translate spanish b1c05s06_continue_3b9447b0:
 
     # pm "It's alright, I'm not mad at you or anything. Promise."
-    pm "Está bien, no estoy enojada contigo ni nada. Lo promesa."
+    pm "Está bien, no estoy enojada contigo ni nada. Lo prometo."
 
 # game/code/Book-1/Chapter-5/s06.rpy:231
 translate spanish b1c05s06_continue_bef1d885:
@@ -368,7 +368,7 @@ translate spanish b1c05s06_continue_f048a09f:
 translate spanish b1c05s06_continue_d5fc6f7c:
 
     # mc "Alright, alright. I'll talk to you later, Phoebe. And I'll check out that location you mentioned."
-    mc "Bien bien. Hablaré contigo más tarde, Phoebe. Y revisaré esa ubicación que mencionaste."
+    mc "Bien, bien. Hablaré contigo más tarde, Phoebe. Y revisaré esa ubicación que mencionaste."
 
 # game/code/Book-1/Chapter-5/s06.rpy:256
 translate spanish b1c05s06_continue_0e00e1e2:
