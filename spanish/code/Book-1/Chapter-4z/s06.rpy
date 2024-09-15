@@ -2,7 +2,7 @@
 translate spanish b1c04zs06_2cb79faf:
 
     # zp "To your improved aim. Cheers."
-    zp "Por una puntería mejorada. Salud."
+    zp "Por una mejor puntería. Salud."
 
 # game/code/Book-1/Chapter-4z/s06.rpy:21
 translate spanish b1c04zs06_0ef0bd7e:
@@ -80,7 +80,7 @@ translate spanish b1c04zs06_c87c8fc8:
 translate spanish b1c04zs06_af2e85c7:
 
     # mct "I'll need to finesse my way into getting more information from her."
-    mct "Tendré que afinar mi camino para obtener más información de ella."
+    mct "Tendré que ingeniármelas para obtener más información de ella."
 
 # game/code/Book-1/Chapter-4z/s06.rpy:63
 translate spanish b1c04zs06_9a7f9828:
@@ -104,7 +104,7 @@ translate spanish b1c04zs06_7ff331de:
 translate spanish b1c04zs06_f414a9bf:
 
     # mc "So, I know you like games. Are you in computer science class to develop your own games?"
-    mc "Entonces, sé que te gustan los juegos. ¿Estás en clase de informática para desarrollar tus propios juegos?"
+    mc "Sé que te gustan los juegos. ¿Estás en clase de informática para desarrollar tus propios juegos?"
 
 # game/code/Book-1/Chapter-4z/s06.rpy:72
 translate spanish b1c04zs06_f7e2856a:
@@ -128,7 +128,7 @@ translate spanish b1c04zs06_f3f38b15:
 translate spanish b1c04zs06_76310e9c:
 
     # mc "Eh. I think I've got enough natural talent to get me through."
-    mc "Eh. Creo que tengo talento natural suficiente para salir adelante."
+    mc "Eh. Creo que tengo suficiente talento natural para salir adelante."
 
 # game/code/Book-1/Chapter-4z/s06.rpy:85
 translate spanish b1c04zs06_a3a4ef8c:
@@ -152,7 +152,7 @@ translate spanish b1c04zs06_6b139cec:
 translate spanish b1c04zs06_3a8d3f50:
 
     # zp "It was {i}not{/i} easy to teach myself."
-    zp "No fue {i}{/i} fácil enseñarme a mí misma."
+    zp "{i}No fue{/i} fácil enseñarme a mí misma."
 
 # game/code/Book-1/Chapter-4z/s06.rpy:95
 translate spanish b1c04zs06_ae77ba30:
@@ -170,7 +170,7 @@ translate spanish b1c04zs06_d5305909:
 translate spanish b1c04zs06_1f01c97e:
 
     # zp "I didn't take you for being competitive. I like your spirit."
-    zp "No te tomé por ser competitivo. Me gusta tu espíritu."
+    zp "No te tomé como alguien competitivo. Me gusta tu espíritu."
 
 # game/code/Book-1/Chapter-4z/s06.rpy:102
 translate spanish b1c04zs06_0586dc44:
@@ -212,7 +212,7 @@ translate spanish b1c04zs06_9699080d:
 translate spanish b1c04zs06_5956bc7b:
 
     # mc "Airgun fishing was how I dealt with the pent up rage."
-    mc "La pesca con pistola de aire fue la forma en que lidié con la rabia reprimida."
+    mc "La pesca con escopeta de aire comprimido era mi forma de lidiar con la rabia contenida."
 
 # game/code/Book-1/Chapter-4z/s06.rpy:118
 translate spanish b1c04zs06_78a158f0:
@@ -230,7 +230,7 @@ translate spanish b1c04zs06_85ff8b5e:
 translate spanish b1c04zs06_37e10a53:
 
     # mc "While we were on our sailing trip, it was difficult to be in that small of a space with him sometimes. There wasn't any escape."
-    mc "Mientras estábamos en nuestro viaje en velero, a veces era difícil estar en ese pequeño espacio con él. No había escapatoria."
+    mc "Mientras estábamos en nuestro viaje, a veces era difícil estar en ese pequeño espacio con él. No había escapatoria."
 
 # game/code/Book-1/Chapter-4z/s06.rpy:126
 translate spanish b1c04zs06_f212255e:
@@ -260,7 +260,7 @@ translate spanish b1c04zs06_eca7f16d:
 translate spanish b1c04zs06_63b1cf3f:
 
     # "{color=#ecd4c2}Stranger Girl{/color}" "Hey, I need you to check this."
-    "{color=#ecd4c2}Chica Extraña{/color}" "Oye, necesito que compruebes esto."
+    "{color=#ecd4c2}Chica Extraña{/color}" "Oye, necesito que revises esto."
 
 # game/code/Book-1/Chapter-4z/s06.rpy:141
 translate spanish b1c04zs06_c2287c61:
@@ -362,13 +362,13 @@ translate spanish b1c04zs06_b8a62d8d:
 translate spanish b1c04zs06_8bf65848:
 
     # zp "I'll manage them until she gets back."
-    zp "Me encargaré de ellos hasta que ella regrese."
+    zp "Me encargaré de ello hasta que ella regrese."
 
 # game/code/Book-1/Chapter-4z/s06.rpy:180
 translate spanish b1c04zs06_a4455eb9:
 
     # mct "Interesting. Leia seemed to be a ranking member in whatever sort of favor exchange system this is."
-    mct "Interesante. Leia parecía ser un miembro de alto rango en cualquier tipo de sistema de intercambio de favores."
+    mct "Interesante. Leia parecía ser un miembro de alto rango en cualquier clase de sistema de intercambio de favores que esto sea."
 
 # game/code/Book-1/Chapter-4z/s06.rpy:181
 translate spanish b1c04zs06_4540e1e0:
@@ -518,13 +518,13 @@ translate spanish b1c04zs06_e96c784b:
 translate spanish b1c04zs06_b6d0a73e:
 
     # zp "This was really fun, though. We should hang out like this again sometime."
-    zp "Pero ha sido muy divertido. Deberíamos volver a salir de esta manera alguna vez."
+    zp "Pero ha sido muy divertido. Deberíamos volver a pasar el rato de esta manera en algún otro momento."
 
 # game/code/Book-1/Chapter-4z/s06.rpy:240
 translate spanish b1c04zs06_111bb9fd:
 
     # mc "I'm down."
-    mc "Yo me apunto."
+    mc "Me apunto."
 
 translate spanish strings:
 
