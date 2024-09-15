@@ -146,7 +146,7 @@ translate spanish b1c05s05_9efc5149:
 translate spanish b1c05s05_1bc2b71c:
 
     # jh "Oh, I'm sorry. I didn't mean to bring up bad memories."
-    jh "Oh lo siento. No quise traer malos recuerdos."
+    jh "Oh, lo siento. No quise traer malos recuerdos."
 
 # game/code/Book-1/Chapter-5/s05.rpy:85
 translate spanish b1c05s05_65bf1171:
@@ -206,7 +206,7 @@ translate spanish b1c05s05_87d190b5:
 translate spanish b1c05s05_7b32f227:
 
     # mc "Thanks, Josie. You're a good friend."
-    mc "Gracias, Josi. Eres una buena amiga"
+    mc "Gracias, Josie. Eres una buena amiga"
 
 # game/code/Book-1/Chapter-5/s05.rpy:114
 translate spanish b1c05s05_f2e4150d:
@@ -314,7 +314,7 @@ translate spanish b1c05s05_acbbeaa3:
 translate spanish b1c05s05_21b5a32a:
 
     # jh "Exactly. She'll warm up to you."
-    jh "Exactamente. Ella se calentará contigo."
+    jh "Exactamente. Ella se encariñará contigo."
 
 # game/code/Book-1/Chapter-5/s05.rpy:157
 translate spanish b1c05s05_0f079f6b:
@@ -350,7 +350,7 @@ translate spanish b1c05s05_c4ca3a28:
 translate spanish b1c05s05_55722ab0:
 
     # jh "Do you, um... Do you want to go bouldering with us sometime?"
-    jh "Tú, um... ¿Quieres ir a boulder con nosotras alguna vez?"
+    jh "Tú, um... ¿Quieres ir a hacer escalada con nosotras alguna vez?"
 
 # game/code/Book-1/Chapter-5/s05.rpy:170
 translate spanish b1c05s05_c70aca49:
@@ -368,7 +368,7 @@ translate spanish b1c05s05_7ccf2401:
 translate spanish b1c05s05_205a2aaf:
 
     # mc "Sure, I'd love to go bouldering with you and Lara."
-    mc "Claro, me encantaría ir a boulder contigo y Lara."
+    mc "Claro, me encantaría ir a hacer escalada contigo y Lara."
 
 # game/code/Book-1/Chapter-5/s05.rpy:181
 translate spanish b1c05s05_e89c80fe:
@@ -410,7 +410,7 @@ translate spanish b1c05s05_c942543a:
 translate spanish b1c05s05_71d370c9:
 
     # jh "I'm sure we will!"
-    jh "¡Estoy segura de que lo haremos!"
+    jh "¡Estoy segura de que lo pasaremos bien!"
 
 # game/code/Book-1/Chapter-5/s05.rpy:201
 translate spanish b1c05s05_dafa8dd1:
@@ -422,7 +422,7 @@ translate spanish b1c05s05_dafa8dd1:
 translate spanish b1c05s05_fe89a5d4:
 
     # mc "Heh. Those are some high hopes, Josie."
-    mc "je. Je. Tienes depositadas mucha confianza, Josie."
+    mc "Je. Tienes muchas esperanzas, Josie."
 
 # game/code/Book-1/Chapter-5/s05.rpy:207
 translate spanish b1c05s05_74920eb6:
@@ -440,7 +440,7 @@ translate spanish b1c05s05_dd994c33:
 translate spanish b1c05s05_d8976ecf:
 
     # mc "I wish I could Josie, but I'm pretty busy right now."
-    mc "Ojalá pudiera Josie, pero estoy bastante ocupado ahora mismo."
+    mc "Ojalá pudiera Josie, pero estoy bastante ocupado en este momento."
 
 # game/code/Book-1/Chapter-5/s05.rpy:221
 translate spanish b1c05s05_e6bf843b:
