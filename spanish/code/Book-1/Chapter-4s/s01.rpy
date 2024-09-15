@@ -26,7 +26,7 @@ translate spanish b1c04ss01_1ac5d0e9:
 translate spanish b1c04ss01_6edb85f5:
 
     # mct "Where is the gym, anyway?"
-    mct "¿Dónde está el gimnasio, de todos modos?"
+    mct "¿Dónde está el gimnasio, por cierto?"
 
 # game/code/Book-1/Chapter-4s/s01.rpy:18
 translate spanish b1c04ss01_699878f6:
@@ -38,7 +38,7 @@ translate spanish b1c04ss01_699878f6:
 translate spanish b1c04ss01_9be4cf5a:
 
     # mc "Excuse me, do you know where the gym is?"
-    mc "Disculpe, ¿sabe dónde está el gimnasio?"
+    mc "Disculpa, ¿sabes dónde está el gimnasio?"
 
 # game/code/Book-1/Chapter-4s/s01.rpy:27
 translate spanish b1c04ss01_6364b84a:
@@ -62,7 +62,7 @@ translate spanish b1c04ss01_9979d0ba:
 translate spanish b1c04ss01_bda7e8f5:
 
     # ir "Oh, you must be new. I'm Iona."
-    ir "Oh, debes ser nuevo. Soy Iona"
+    ir "Oh, debes ser nuevo. Soy Iona."
 
 # game/code/Book-1/Chapter-4s/s01.rpy:37
 translate spanish b1c04ss01_a75fe74e:
@@ -176,13 +176,13 @@ translate spanish b1c04ss01_fa7d0a87:
 translate spanish b1c04ss01_9a0f95a8:
 
     # ir "The Winner's Club is hosting a party. What do you think?"
-    ir "El Club de Ganadores está organizando una fiesta. ¿Qué opinas?"
+    ir "El Club de los Ganadores está organizando una fiesta. ¿Qué opinas?"
 
 # game/code/Book-1/Chapter-4s/s01.rpy:89
 translate spanish b1c04ss01_e15eb299:
 
     # ir "Is it too soon to party like that?"
-    ir "¿Es demasiado pronto para una fiesta así?"
+    ir "¿Es demasiado pronto para una fiesta?"
 
 # game/code/Book-1/Chapter-4s/s01.rpy:92
 translate spanish b1c04ss01_47fd59f2:
