@@ -2,7 +2,7 @@
 translate spanish b1c05s03_8e2e28af:
 
     # mct "I bet the butcher shop is open by now."
-    mct "Apuesto a que la carnicería ya está abierta."
+    mct "Apuesto que la carnicería ya está abierta."
 
 # game/code/Book-1/Chapter-5/s03.rpy:13
 translate spanish b1c05s03_bfaf3577:
@@ -56,7 +56,7 @@ translate spanish b1c05s03_fbacb4fc:
 translate spanish b1c05s03_0b26bf2f:
 
     # mc "Nah. I just need something for my cooking class. I need two."
-    mc "No. Sólo necesito algo para mi clase de cocina. necesito dos."
+    mc "No. Sólo necesito algo para mi clase de cocina. Necesito dos."
 
 # game/code/Book-1/Chapter-5/s03.rpy:43
 translate spanish b1c05s03_0bb7ec52:
@@ -74,13 +74,13 @@ translate spanish b1c05s03_574c3754:
 translate spanish b1c05s03_53c852cb:
 
     # gd "Comin' right up, kiddo."
-    gd "Enseguida, niño."
+    gd "Enseguida, chico."
 
 # game/code/Book-1/Chapter-5/s03.rpy:51
 translate spanish b1c05s03_9a98a5e8:
 
     # mct "Again with the 'kiddo' business..."
-    mct "De nuevo con el asunto de los 'niños'..."
+    mct "De nuevo con el asunto del 'chico'..."
 
 # game/code/Book-1/Chapter-5/s03.rpy:54
 translate spanish b1c05s03_6444fb06:
@@ -152,7 +152,7 @@ translate spanish b1c05s03_2fb06af0:
 translate spanish b1c05s03_c098e6e8:
 
     # sd "It's nice to hear those ones are still around, in a way."
-    sd "En cierto modo, es agradable oír que esos siguen por aquí."
+    sd "En cierto modo, es agradable oír que aún existen."
 
 # game/code/Book-1/Chapter-5/s03.rpy:84
 translate spanish b1c05s03_dd26a554:
@@ -242,7 +242,7 @@ translate spanish b1c05s03_44d5fb0d:
 translate spanish b1c05s03_45ab2157:
 
     # gd "Here ya go!"
-    gd "¡Aqui tienes!"
+    gd "¡Aquí tienes!"
 
 # game/code/Book-1/Chapter-5/s03.rpy:124
 translate spanish b1c05s03_5fed6b4c:
@@ -260,7 +260,7 @@ translate spanish b1c05s03_b0007872:
 translate spanish b1c05s03_38258c58:
 
     # gd "Have a good day, kiddo."
-    gd "Que tengas un buen día, niño."
+    gd "Que tengas un buen día, chico."
 
 # game/code/Book-1/Chapter-5/s03.rpy:133
 translate spanish b1c05s03_2d825a13:
@@ -278,5 +278,5 @@ translate spanish b1c05s03_67b11055:
 translate spanish b1c05s03_55c72db2:
 
     # mct "Food usually relaxes people. Might make her open to discussing more details about that self-help community."
-    mct "La comida suele relajar a la gente. Podría abrirla a discutir más detalles sobre esa comunidad de autoayuda."
+    mct "La comida suele relajar a la gente. Podría hacer que se abriera a discutir más detalles sobre esa comunidad de autoayuda."
 
