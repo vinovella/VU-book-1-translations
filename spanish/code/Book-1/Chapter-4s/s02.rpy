@@ -128,7 +128,7 @@ translate spanish b1c04ss02_7a6c3708:
 translate spanish b1c04ss02_46a5954e:
 
     # sm "We could also hold a fundraiser and advertise that we're looking for team members through that."
-    sm "También podríamos realizar una recaudación de fondos y anunciar que estamos buscando miembros del equipo a través de eso."
+    sm "También podríamos organizar una recaudación de fondos y anunciar que buscamos miembros para el equipo."
 
 # game/code/Book-1/Chapter-4s/s02.rpy:94
 translate spanish b1c04ss02_0c8bbe21:
@@ -320,7 +320,7 @@ translate spanish b1c04ss02_52345c85:
 translate spanish b1c04ss02_ba5a7a2c:
 
     # sm "We're looking for a new captain, actually."
-    sm "Estamos buscando un nuevo capitán, en realidad."
+    sm "De hecho, estamos buscando un nuevo capitán."
 
 # game/code/Book-1/Chapter-4s/s02.rpy:186
 translate spanish b1c04ss02_068fcb63:
@@ -518,7 +518,7 @@ translate spanish b1c04ss02_afecd2b0:
 translate spanish b1c04ss02_d1bd82e0:
 
     # mc "Will do. I'll catch ya later."
-    mc "Lo haré. Te alcanzaré más tarde."
+    mc "Lo haré. Nos vemos luego."
 
 # game/code/Book-1/Chapter-4s/s02.rpy:296
 translate spanish b1c04ss02_fe562a3c:
