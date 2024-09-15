@@ -410,11 +410,11 @@ translate spanish strings:
 
     # game/code/Book-1/Chapter-8c/s05.rpy:30
     old "Later that night"
-    new "Más tarde aquella noche"
+    new "Más tarde esa noche"
 
 # game/code/Book-1/Chapter-8c/s05.rpy:56
 translate spanish b1c08cs05_0c2801b5:
 
     # "Lumi's still fast asleep, thoroughly worn out after tonight's activities."
-    "Lumi's still fast asleep, thoroughly worn out after tonight's activities."
+    "Lumi todavía está profundamente dormida, completamente agotada después de las actividades de esta noche."
 
