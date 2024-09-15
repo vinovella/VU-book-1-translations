@@ -104,13 +104,13 @@ translate spanish b1c04zs05_78b69783:
 translate spanish b1c04zs05_cc5c4256:
 
     # mct "Remember what Phoebe taught me..."
-    mct "Recuerda lo que Phoebe me enseñó..."
+    mct "Recuerda lo que Phoebe te enseñó..."
 
 # game/code/Book-1/Chapter-4z/s05.rpy:82
 translate spanish b1c04zs05_9612f105:
 
     # mct "Wide stance, tensed core."
-    mct "Postura amplia, núcleo tenso."
+    mct "Postura amplia, centro tenso."
 
 # game/code/Book-1/Chapter-4z/s05.rpy:83
 translate spanish b1c04zs05_e622d8ea:
@@ -158,7 +158,7 @@ translate spanish b1c04zs05_72d64f65:
 translate spanish b1c04zs05_8fb91095:
 
     # mc "But I went fishing with an airgun while I was sailing with my dad. I was a decent shot."
-    mc "Pero fui a pescar con una pistola de aire comprimido mientras viajaba en barco con mi padre. Tenía una puntería decente."
+    mc "Pero fui a pescar con una escopeta de aire comprimido mientras navegaba con mi padre. Tenía una puntería decente."
 
 # game/code/Book-1/Chapter-4z/s05.rpy:118
 translate spanish b1c04zs05_90523036:
@@ -176,7 +176,7 @@ translate spanish b1c04zs05_790efbe9:
 translate spanish b1c04zs05_cfa7971d:
 
     # mct "Phoebe would have a heart attack if she saw me shooting like this."
-    mct "A Phoebe le daría un infarto si me viera disparando así."
+    mct "A Phoebe le daría un infarto si me viera disparando de esta manera."
 
 # game/code/Book-1/Chapter-4z/s05.rpy:124
 translate spanish b1c04zs05_a5ab0b62:
@@ -194,7 +194,7 @@ translate spanish b1c04zs05_5aebbe73:
 translate spanish b1c04zs05_42e4e525:
 
     # mc "See? Complete {i}luck{/i}."
-    mc "¿Ves? Tuve {i}suerte{/i}."
+    mc "¿Lo ves? Tuve {i}suerte{/i}."
 
 # game/code/Book-1/Chapter-4z/s05.rpy:136
 translate spanish b1c04zs05_c6e36602:
@@ -230,7 +230,7 @@ translate spanish b1c04zs05_16e6541f:
 translate spanish b1c04zs05_7c78b15a:
 
     # zp "I have trouble not locking out my knees when I shoot. But it's important to keep your knees slightly bent."
-    zp "Tengo problemas para no bloquear mis rodillas cuando disparo. Pero es importante mantener las rodillas ligeramente flexionadas."
+    zp "Tengo problemas para no doblar las rodillas cuando disparo. Pero es importante mantener las rodillas ligeramente flexionadas."
 
 # game/code/Book-1/Chapter-4z/s05.rpy:149
 translate spanish b1c04zs05_62f1b4f0:
@@ -260,13 +260,13 @@ translate spanish b1c04zs05_9cc366cf:
 translate spanish b1c04zs05_4c535000:
 
     # mct "I think that's the first time she's smiled at me like that..."
-    mct "Creo que es la primera vez que me sonríe así..."
+    mct "Creo que es la primera vez que me sonríe de esa manera..."
 
 # game/code/Book-1/Chapter-4z/s05.rpy:177
 translate spanish b1c04zs05_38171375:
 
     # mct "Hopefully that means she's warming up."
-    mct "Esperemos que eso signifique que está calentando."
+    mct "Esperemos que eso signifique que está empezando a confiar en mí."
 
 # game/code/Book-1/Chapter-4z/s05.rpy:180
 translate spanish b1c04zs05_dbfddc0f:
@@ -296,7 +296,7 @@ translate spanish b1c04zs05_4b145bc6:
 translate spanish b1c04zs05_45e77416:
 
     # zp "All my current skills came from research and hours of grueling practice."
-    zp "Todas mis habilidades actuales provienen de la investigación y horas de práctica agotadora."
+    zp "Todas mis habilidades actuales proceden de la investigación y de horas de práctica agotadora."
 
 # game/code/Book-1/Chapter-4z/s05.rpy:189
 translate spanish b1c04zs05_8b69f38b:
@@ -320,7 +320,7 @@ translate spanish b1c04zs05_604eb1f7:
 translate spanish b1c04zs05_4c571407:
 
     # zp "I challenge myself because I always want to be improving myself."
-    zp "Me desafío a mí misma porque siempre quiero mejorarme a mí misma."
+    zp "Me planteo retos porque siempre quiero superarme."
 
 # game/code/Book-1/Chapter-4z/s05.rpy:198
 translate spanish b1c04zs05_642630c1:
@@ -338,7 +338,7 @@ translate spanish b1c04zs05_a7aa94d1:
 translate spanish b1c04zs05_45308e5e:
 
     # mc "I just got into guns. It's a little overwhelming at first. With all the different types of ammo, modifications, and models."
-    mc "Me acabo de meter en las armas. Es un poco abrumador al principio. Con todos los diferentes tipos de munición, modificaciones y modelos."
+    mc "Acabo de empezar con las armas. Es un poco abrumador al principio. Con todos los diferentes tipos de munición, modificaciones y modelos."
 
 # game/code/Book-1/Chapter-4z/s05.rpy:205
 translate spanish b1c04zs05_7ff6c5b6:
@@ -350,7 +350,7 @@ translate spanish b1c04zs05_7ff6c5b6:
 translate spanish b1c04zs05_bffe91db:
 
     # zp "I just flip off anyone who judges me while I'm learning. How else am I supposed to learn, if not by fucking around and finding out?"
-    zp "Simplemente, rechazo a cualquiera que me juzgue mientras aprendo. ¿Cómo voy a aprender si no es metiéndome en problemas y aprendiendo?"
+    zp "Simplemente, rechazo a cualquiera que me juzgue cuando estoy aprendiendo. ¿Cómo voy a aprender si no es metiéndome en problemas y aprendiendo?"
 
 # game/code/Book-1/Chapter-4z/s05.rpy:209
 translate spanish b1c04zs05_4e61d85c:
@@ -374,13 +374,13 @@ translate spanish b1c04zs05_f811506b:
 translate spanish b1c04zs05_0004cae7:
 
     # mc "And it wouldn't be condescending man-splaining."
-    mc "Y no sería una explicación condescendiente del hombre."
+    mc "Y no sería una explicación condescendiente."
 
 # game/code/Book-1/Chapter-4z/s05.rpy:219
 translate spanish b1c04zs05_1477427c:
 
     # zp "Oh, I still have a lot to learn myself. Just wait 'till you shoot next to real experts."
-    zp "Oh, todavía tengo mucho que aprender. Solo espera hasta que dispares junto a verdaderos expertos."
+    zp "A mí también me queda mucho por aprender. Espera a disparar junto a verdaderos expertos."
 
 # game/code/Book-1/Chapter-4z/s05.rpy:221
 translate spanish b1c04zs05_6db36d7e:
