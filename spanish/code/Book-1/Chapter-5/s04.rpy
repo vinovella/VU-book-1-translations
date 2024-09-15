@@ -44,7 +44,7 @@ translate spanish b1c05s04_58d2b9ad:
 translate spanish b1c05s04_7e16215c:
 
     # dm "Glad to hear it. The campus women are in a stir over you."
-    dm "Me alegra oírlo. Las mujeres del campus están como locas por ti."
+    dm "Me alegra oírlo. Las mujeres del campus están locas por ti."
 
 # game/code/Book-1/Chapter-5/s04.rpy:37
 translate spanish b1c05s04_f75090d8:
@@ -62,7 +62,7 @@ translate spanish b1c05s04_a527e69f:
 translate spanish b1c05s04_58957d2b:
 
     # dm "Mostly gossip about the new man around. But a few are quite smitten."
-    dm "La mayoría habla del nuevo chico. Pero algunas están bastante enamoradas."
+    dm "La mayoría habla del chico nuevo. Pero algunas están bastante enamoradas."
 
 # game/code/Book-1/Chapter-5/s04.rpy:43
 translate spanish b1c05s04_00a6ec78:
@@ -116,7 +116,7 @@ translate spanish b1c05s04_bb436e64:
 translate spanish b1c05s04_dee7bf44:
 
     # dm "That's a rather abrupt response. What have you gathered about the Winner's Club?"
-    dm "Esa es una respuesta bastante abrupta. ¿Qué has deducido sobre el Club de Ganadores?"
+    dm "Esa es una respuesta bastante abrupta. ¿Qué has deducido sobre el Club de los Ganadores?"
 
 # game/code/Book-1/Chapter-5/s04.rpy:71
 translate spanish b1c05s04_38164251:
@@ -182,7 +182,7 @@ translate spanish b1c05s04_a5d95c83:
 translate spanish b1c05s04_94751e3d:
 
     # mc "That's a bit harsh to say of your students, isn't it?"
-    mc "Eso es un poco duro para decir de sus estudiantes, ¿no?"
+    mc "Es un poco duro decir eso de tus alumnos, ¿no?"
 
 # game/code/Book-1/Chapter-5/s04.rpy:95
 translate spanish b1c05s04_e8b24d0c:
@@ -194,7 +194,7 @@ translate spanish b1c05s04_e8b24d0c:
 translate spanish b1c05s04_7a099f5e:
 
     # dm "The Winner's Club is just as, if not more, ruthless than I am."
-    dm "El Club de Ganadores es tan, si no más, despiadado que yo."
+    dm "El Club de los Ganadores es tan, si no más, despiadado que yo."
 
 # game/code/Book-1/Chapter-5/s04.rpy:97
 translate spanish b1c05s04_26f1f8a4:
@@ -212,7 +212,7 @@ translate spanish b1c05s04_22f23d3d:
 translate spanish b1c05s04_c29877d1:
 
     # dm "I've had students transfer to different schools after the embarrassment of being kicked out of the Winner's Club."
-    dm "He tenido estudiantes transferidos a diferentes escuelas después de la vergüenza de ser expulsados ​​del Club de Ganadores."
+    dm "He tenido estudiantes transferidos a diferentes escuelas después de la vergüenza de ser expulsados ​​del Club de los Ganadores."
 
 # game/code/Book-1/Chapter-5/s04.rpy:106
 translate spanish b1c05s04_d21bf845:
@@ -224,7 +224,7 @@ translate spanish b1c05s04_d21bf845:
 translate spanish b1c05s04_7382c6c3:
 
     # dm "Well...there is one."
-    dm "Bueno... hay uno."
+    dm "Bueno... hay una."
 
 # game/code/Book-1/Chapter-5/s04.rpy:110
 translate spanish b1c05s04_c9e24025:
@@ -254,7 +254,7 @@ translate spanish b1c05s04_8ce53b61:
 translate spanish b1c05s04_7bd51f4d:
 
     # mct "I'd better get into that inner circle by doing more than just joining the volleyball team. And that ex-Winner might be a good source of information."
-    mct "Será mejor que entre en ese círculo íntimo haciendo algo más que unirme al equipo de voleibol. Y ese ex-ganador podría ser una buena fuente de información."
+    mct "Será mejor que entre en ese círculo íntimo haciendo algo más que unirme al equipo de voleibol. Y esa ex-miembro podría ser una buena fuente de información."
 
 # game/code/Book-1/Chapter-5/s04.rpy:121
 translate spanish b1c05s04_73ae9f77:
@@ -320,7 +320,7 @@ translate spanish b1c05s04_8c91cca2:
 translate spanish b1c05s04_5d3b23be:
 
     # rh "You must be [mcname], correct? I believe we met in chemistry class."
-    rh "Debes ser [mcname], ¿correcto? Creo que nos conocimos en la clase de química."
+    rh "Debes ser [mcname], ¿verdad? Creo que nos conocimos en la clase de química."
 
 # game/code/Book-1/Chapter-5/s04.rpy:161
 translate spanish b1c05s04_25bd2a45:
@@ -494,7 +494,7 @@ translate spanish b1c05s04_775154ab:
 translate spanish b1c05s04_4c63ec9e:
 
     # dm "And why should I be swayed by a scandalous proposition such as this one?"
-    dm "¿Y por qué debería dejarme llevar por una proposición escandalosa como esta?"
+    dm "¿Y por qué debería dejarme influir por una propuesta escandalosa como ésta?"
 
 # game/code/Book-1/Chapter-5/s04.rpy:241
 translate spanish b1c05s04_480dfdd6:
