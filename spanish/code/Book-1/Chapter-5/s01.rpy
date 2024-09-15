@@ -8,7 +8,7 @@ translate spanish b1c05s01_3d8d5b43:
 translate spanish b1c05s01_370047a7:
 
     # mc "*whispers* Josie, hey Josie!"
-    mc "*susurra* ¡Josie, hola Josie!"
+    mc "*susurra* ¡ Josie, hey Josie!"
 
 # game/code/Book-1/Chapter-5/s01.rpy:12
 translate spanish b1c05s01_aa50b0c7:
@@ -224,7 +224,7 @@ translate spanish b1c05s01_9a41a33d:
 translate spanish b1c05s01_0d53e771:
 
     # jh "I-I can walk."
-    jh "Yo-yo puedo caminar."
+    jh "Yo... yo puedo caminar."
 
 # game/code/Book-1/Chapter-5/s01.rpy:132
 translate spanish b1c05s01_597eb346:
@@ -260,7 +260,7 @@ translate spanish b1c05s01_68ad7405:
 translate spanish b1c05s01_e146a587:
 
     # mc "Let's get you to the room before someone sees you like this."
-    mc "Vamos a llevarte a la habitación antes de que alguien te vea así."
+    mc "Vamos a llevarte a la habitación antes de que alguien te vea en este estado."
 
 # game/code/Book-1/Chapter-5/s01.rpy:150
 translate spanish b1c05s01_8589869d:
@@ -278,7 +278,7 @@ translate spanish b1c05s01_e0f92545:
 translate spanish b1c05s01_87ece85d:
 
     # jh "I'm glad it was you and not some creep or something."
-    jh "Me alegro de que fueras tú y no un asqueroso o algo así."
+    jh "Me alegro de que fueras tú y no un asqueroso o algo parecido."
 
 # game/code/Book-1/Chapter-5/s01.rpy:157
 translate spanish b1c05s01_d22c4035:
@@ -308,7 +308,7 @@ translate spanish b1c05s01_d6f74913:
 translate spanish b1c05s01_5bda3bf8:
 
     # jh "Yeah, me too."
-    jh "Sí yo también."
+    jh "Sí, yo también."
 
 # game/code/Book-1/Chapter-5/s01.rpy:175
 translate spanish b1c05s01_bf8c553b:
@@ -338,7 +338,7 @@ translate spanish b1c05s01_6887a08f:
 translate spanish b1c05s01_145841d2:
 
     # lw "He went to {i}find{/i} you?"
-    lw "¿Fue a {i}encontrarte{/i}?"
+    lw "¿Fue a {i}buscarte{/i}?"
 
 # game/code/Book-1/Chapter-5/s01.rpy:190
 translate spanish b1c05s01_0b16e592:
@@ -476,7 +476,7 @@ translate spanish b1c05s01_88eeb788:
 translate spanish b1c05s01_60e873b5:
 
     # jh "Don't be so dramatic."
-    jh "No seas tan dramático."
+    jh "No seas tan dramática."
 
 # game/code/Book-1/Chapter-5/s01.rpy:252
 translate spanish b1c05s01_61c55054:
@@ -518,7 +518,7 @@ translate spanish b1c05s01_1ce05f16:
 translate spanish b1c05s01_5529ded4:
 
     # "You notice Lara has her hands clenched into fists, and her face looks distressed."
-    "Notas que Lara tiene las manos cerradas en puños y su rostro se ve angustiado."
+    "Te das cuenta de que Lara tiene las manos apretadas en forma de puño y su cara parece angustiada."
 
 # game/code/Book-1/Chapter-5/s01.rpy:269
 translate spanish b1c05s01_165bfd11:
