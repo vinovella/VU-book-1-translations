@@ -32,7 +32,7 @@ translate spanish b1c04zs03_7afa64eb:
 translate spanish b1c04zs03_fbbe70bf:
 
     # mct "What purpose could she have, going into an empty classroom?"
-    mct "¿Qué propósito podría tener ella, yendo a un salón de clases vacío?"
+    mct "¿Qué propósito podía tener, entrar en una sala de clase vacía?"
 
 # game/code/Book-1/Chapter-4z/s03.rpy:52
 translate spanish b1c04zs03_91f8eb5d:
@@ -68,13 +68,13 @@ translate spanish b1c04zs03_a4490cec:
 translate spanish b1c04zs03_6c85cce6:
 
     # nr "Hey. You're the guy I saw talking with Z. You here to redeem the favor?"
-    nr "Ey. Eres el tipo que vi hablando con Z. ¿Estás aquí para redimir el favor?"
+    nr "Ey. Eres el chico que vi hablando con Z. ¿Estás aquí para canjear el favor?"
 
 # game/code/Book-1/Chapter-4z/s03.rpy:91
 translate spanish b01c04zs03m01_0fa5dbed:
 
     # mc "Yes, I want to redeem the favor."
-    mc "Sí, quiero redimir el favor."
+    mc "Sí, quiero canjear el favor."
 
 # game/code/Book-1/Chapter-4z/s03.rpy:92
 translate spanish b01c04zs03m01_f87982a2:
@@ -170,7 +170,7 @@ translate spanish b01c04zs03m01_9b7c3193:
 translate spanish b01c04zs03m01_b6cc4750:
 
     # "The sensation causes your dick to twitch a few times. You can tell Nirmala's enjoying the responses she elicits from you."
-    "La sensación hace que tu pene se mueva varias veces. Se nota que Nirmala disfruta de las respuestas que obtiene de usted."
+    "La sensación hace que tu pene se mueva varias veces. Se nota que Nirmala disfruta de las respuestas que obtiene de ti."
 
 # game/code/Book-1/Chapter-4z/s03.rpy:147
 translate spanish b01c04zs03m01_81df569c:
@@ -200,7 +200,7 @@ translate spanish b01c04zs03m01_38d9d2e3:
 translate spanish b01c04zs03m01_e149a694:
 
     # "You cup her face, urging her to take you a little deeper each time she sucks you farther in."
-    "Ahuecas su rostro, instándola a que te lleve un poco más profundo cada vez que te succiona más adentro."
+    "Le acercas la cara, instándola a que te penetre un poco más cada vez que te succiona."
 
 # game/code/Book-1/Chapter-4z/s03.rpy:174
 translate spanish b01c04zs03m01_9c89b7c1:
@@ -272,7 +272,7 @@ translate spanish b01c04zs03m01_bfd9caab:
 translate spanish b01c04zs03m01_7b9887d8:
 
     # "Nirmala deepthroats you again, bobbing her head in time with your thrusts. She swallows, tightening around you each time you bump against the back of her throat."
-    "Nirmala te vuelve a hacer garganta profunda, moviendo la cabeza al ritmo de tus embestidas. Ella traga, apretándose a tu alrededor cada vez que golpeas contra la parte posterior de su garganta."
+    "Nirmala vuelve a hacerte una garganta profunda, moviendo la cabeza al ritmo de tus embestidas. Traga, apretándose contra ti cada vez que chocas contra el fondo de su garganta."
 
 # game/code/Book-1/Chapter-4z/s03.rpy:202
 translate spanish b01c04zs03m01_ac4eee12:
@@ -296,7 +296,7 @@ translate spanish b01c04zs03m01_ac09747e:
 translate spanish b01c04zs03m01_0b1e67c9:
 
     # "Nirmala's eyes close as she's overcome with pleasure, and she bobs her head faster. Her blowjob becomes wetter, sloppier, with saliva dripping from her mouth and your dick."
-    "Los ojos de Nirmala se cierran cuando se siente abrumada por el placer y mueve la cabeza más rápido. Su mamada se vuelve más húmeda, más descuidada, con saliva goteando de su boca y tu polla."
+    "Los ojos de Nirmala se cierran cuando se siente abrumada por el placer y mueve la cabeza más rápido. Su mamada se vuelve más húmeda, más descuidada, con saliva goteando de su boca y de tu polla."
 
 # game/code/Book-1/Chapter-4z/s03.rpy:210
 translate spanish b01c04zs03m01_0eaea5d7:
@@ -320,7 +320,7 @@ translate spanish b01c04zs03m01_59899c46:
 translate spanish b01c04zs03m01_cc53827d:
 
     # "The feeling of her tightness all around you, and her intense orgasm sends you over the edge. You pin her head against the wall and cum down her throat."
-    "La sensación de su estrechez a tu alrededor y su intenso orgasmo te lleva al límite. Le clavas la cabeza contra la pared y te corres en su garganta."
+    "La sensación de su estrechez a tu alrededor y su intenso orgasmo te llevan al límite. Aprietas su cabeza contra la pared y te corres en su garganta."
 
 # game/code/Book-1/Chapter-4z/s03.rpy:220
 translate spanish b01c04zs03m01_2f4921f3:
@@ -344,7 +344,7 @@ translate spanish b01c04zs03m01_d3628fe4:
 translate spanish b01c04zs03m01_7288359f:
 
     # nr "Thanks, babe."
-    nr "Gracias bebé."
+    nr "Gracias, cariño."
 
 # game/code/Book-1/Chapter-4z/s03.rpy:235
 translate spanish b01c04zs03m01_6d5f8951:
@@ -386,7 +386,7 @@ translate spanish b01c04zs03m01_d9b4c156:
 translate spanish b01c04zs03m01_b7478935:
 
     # mct "Is Zemfira involved with some sort of sex ring?"
-    mct "¿Zemfira está involucrada con algún tipo de red sexual?"
+    mct "¿Está Zemfira involucrada en algún negocio sexual?"
 
 # game/code/Book-1/Chapter-4z/s03.rpy:256
 translate spanish b01c04zs03m01_b973dea9:
@@ -452,7 +452,7 @@ translate spanish b01c04zs03m01_7be80b46:
 translate spanish b01c04zs03m01_ac65f60c:
 
     # nr "Er...do you want to redeem the favor or not?"
-    nr "Er... ¿quieres redimir el favor o no?"
+    nr "Er... ¿quieres canjear el favor o no?"
 
 # game/code/Book-1/Chapter-4z/s03.rpy:285
 translate spanish b01c04zs03m01_e6048ec5:
@@ -518,7 +518,7 @@ translate spanish strings:
 
     # game/code/Book-1/Chapter-4z/s03.rpy:83
     old "Yes, I want to redeem the favor."
-    new "Sí, quiero redimir el favor."
+    new "Sí, quiero canjear el favor."
 
     # game/code/Book-1/Chapter-4z/s03.rpy:83
     old "I'm not sure. What is the favor?"
