@@ -44,7 +44,7 @@ translate spanish b1c04ss05_6b24bbad:
 translate spanish b1c04ss05_3e67714f:
 
     # sm "Before you meet everyone, I should let you know..."
-    sm "Antes de conocer a todos, debo hacerles saber..."
+    sm "Antes de que conozcas a todos, debo decirte..."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:52
 translate spanish b1c04ss05_c22d31ef:
@@ -74,7 +74,7 @@ translate spanish b1c04ss05_42492031:
 translate spanish b1c04ss05_9584898e:
 
     # sm "We're not called the Winner's Club for nothing."
-    sm "No nos llamamos el Club de Ganadores por nada."
+    sm "No nos llamamos el Club de los Ganadores por nada."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:76
 translate spanish b1c04ss05_394fdbd2:
@@ -86,7 +86,7 @@ translate spanish b1c04ss05_394fdbd2:
 translate spanish b1c04ss05_4368b21a:
 
     # mct "If gazes could burn people, I'd be on fire right now."
-    mct "Si las miradas pudieran quemar a la gente, estaría ardiendo ahora mismo."
+    mct "Si las miradas pudieran quemar a la gente, estaría ardiendo en este momento."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:85
 translate spanish b1c04ss05_c1fa3dec:
@@ -146,7 +146,7 @@ translate spanish b1c04ss05_dc87fe60:
 translate spanish b1c04ss05_96705436:
 
     # mc "I'd expect nothing less. I think you'll find I can hand it out as well as I can take it."
-    mc "No esperaría nada menos. Creo que descubrirá que puedo repartirlo tan bien como puedo tomarlo."
+    mc "No esperaba menos. Creo que descubrirás que puedo repartirlo tan bien como puedo recibirlo."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:129
 translate spanish b1c04ss05_f6ceca1f:
@@ -164,13 +164,13 @@ translate spanish b1c04ss05_17c54a33:
 translate spanish b1c04ss05_9d38cbf5:
 
     # mc "Look, I'm really sorry, I was just a little bit scattered."
-    mc "Mira, lo siento mucho, estaba un poco disperso."
+    mc "Mira, lo siento mucho, estaba un poco distraído."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:141
 translate spanish b1c04ss05_9009f3bb:
 
     # ba "We'll be the judge of what you can and can't handle."
-    ba "Seremos los jueces de lo que puede y no puede manejar."
+    ba "Nosotros juzgaremos lo que puedes y lo que no puedes soportar."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:143
 translate spanish b1c04ss05_b575eddd:
@@ -182,13 +182,13 @@ translate spanish b1c04ss05_b575eddd:
 translate spanish b1c04ss05_8ea49e58:
 
     # sm "Okay! Well, we should get the game going. Everyone, team up."
-    sm "¡Bueno! Bueno, deberíamos poner el juego en marcha. Todos, hagan equipo."
+    sm "¡Está bien! Bueno, deberíamos poner el juego en marcha. Todos, hagan equipo."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:162
 translate spanish b1c04ss05_2754fdf4:
 
     # sl "I'm with Brigitta and Monika!"
-    sl "Estoy con Brigitta y Monika!"
+    sl "¡Estoy con Brigitta y Mónica!"
 
 # game/code/Book-1/Chapter-4s/s05.rpy:165
 translate spanish b1c04ss05_1819ed63:
@@ -200,19 +200,19 @@ translate spanish b1c04ss05_1819ed63:
 translate spanish b1c04ss05_61d2e525:
 
     # sm "Don't worry about advanced volleyball rules for this round. The team will be testing your ability to strategize, react, and keep pace."
-    sm "No se preocupe por las reglas avanzadas de voleibol para esta ronda. El equipo pondrá a prueba su capacidad para elaborar estrategias, reaccionar y mantener el ritmo."
+    sm "No te preocupes por las reglas avanzadas del voleibol en este partido. El equipo pondrá a prueba tu capacidad para elaborar estrategias, reaccionar y mantener el ritmo."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:170
 translate spanish b1c04ss05_88416ef5:
 
     # sm "Here's the basics: Your team needs to score 25 points before the other team."
-    sm "Estos son los conceptos básicos: su equipo debe anotar 25 puntos antes que el otro equipo."
+    sm "Estos son los conceptos básicos: Tu equipo tiene que anotar 25 puntos antes que el otro equipo."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:171
 translate spanish b1c04ss05_de7c9dca:
 
     # sm "Keep the ball off the ground. {w}Don't touch the net. {w}Stay inside the court lines."
-    sm "Mantén la pelota fuera del suelo. {w}No toques la red. {w}Manténgase dentro de las líneas de la cancha."
+    sm "Mantén la pelota fuera del suelo. {w}No toques la red. {w}Mantente dentro de las líneas de la cancha."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:172
 translate spanish b1c04ss05_cfd12a19:
@@ -242,13 +242,13 @@ translate spanish b1c04ss05_d13a3a1c:
 translate spanish b1c04ss05_066a4779:
 
     # mct "Deep breath. Razor focus. Unrelenting strength."
-    mct "Respiracion profunda. Enfoque de navaja. Fuerza implacable."
+    mct "Respira hondo. Concéntrate. Fuerza implacable."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:197
 translate spanish b1c04ss05_784bcdae:
 
     # "You breathe deep, centering yourself. The weight of everyone's gazes sinks into your skin."
-    "Respiras profundo, centrándote. El peso de las miradas de todos se hunde en tu piel."
+    "Respiras hondo, centrándote. El peso de las miradas de todos se hunde en tu piel."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:198
 translate spanish b1c04ss05_17900366:
@@ -272,7 +272,7 @@ translate spanish b1c04ss05_98a49b28:
 translate spanish b1c04ss05_db00f5a6:
 
     # ir "Got it!"
-    ir "¡Entiendo!"
+    ir "¡La tengo!"
 
 # game/code/Book-1/Chapter-4s/s05.rpy:230
 translate spanish b1c04ss05_a3c288ec:
@@ -284,7 +284,7 @@ translate spanish b1c04ss05_a3c288ec:
 translate spanish b1c04ss05_550dd977:
 
     # "But Simon blocks her path. She tries to get the ball over him. but can't pop it higher than he can block."
-    "Pero Simon bloquea su camino. Ella intenta pasar la pelota por encima de él. pero no puede hacerlo estallar más alto de lo que puede bloquear."
+    "Pero Simón le bloquea el paso. Intenta pasarle la pelota por encima, pero no puede hacerlo más alto de lo que él bloquea."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:239
 translate spanish b1c04ss05_ad8b5e47:
@@ -296,7 +296,7 @@ translate spanish b1c04ss05_ad8b5e47:
 translate spanish b1c04ss05_ff30da9c:
 
     # "You dart forward to assist her. The determination to win fuels your heavy hit. Simon misses the ball, and it sails over the net."
-    "Te lanzas hacia adelante para ayudarla. La determinación de ganar alimenta tu gran éxito. Simon pierde la pelota y se va por encima de la red."
+    "Te lanzas hacia ella para ayudarla. La determinación de ganar alimenta tu fuerte golpe. Simón pierde la pelota vuela por encima de la red."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:255
 translate spanish b1c04ss05_fe46d501:
@@ -332,7 +332,7 @@ translate spanish b1c04ss05_e0ebc78a:
 translate spanish b1c04ss05_96cd04f9:
 
     # "The ball speeds at you, going mach Jesus. You try to grasp for it, but your timing is slower than the ball."
-    "El balón se te acerca a toda velocidad. Intentas agarrarla, pero tu movimiento es más lento que el de la pelota."
+    "La pelota se te acerca a toda velocidad. Intentas golpearla, pero tu sincronización es más lenta que la de la pelota."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:293
 translate spanish b1c04ss05_87062515:
@@ -374,7 +374,7 @@ translate spanish b1c04ss05_e79df68d:
 translate spanish b1c04ss05_27d251fc:
 
     # "You can feel a red welt swelling on your abdomen from the sting of the ball."
-    "Puede sentir una roncha roja que se hincha en su abdomen debido a la picadura de la pelota."
+    "Puedes notar que se produce una roncha roja en el abdomen debido al golpe de la pelota."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:311
 translate spanish b1c04ss05_55c4f6d0:
@@ -404,7 +404,7 @@ translate spanish b1c04ss05_e7c560c1:
 translate spanish b1c04ss05_491ff86d:
 
     # mct "Simon's a good blocker because he's taller, but I've noticed Monika and Brigitta are the main ones hitting the ball."
-    mct "Simón es un buen bloqueador porque es más alto, pero he notado que Monika y Brigitta son las principales golpeando la pelota."
+    mct "Simón es un buen bloqueador porque es más alto, pero he notado que Mónica y Brigitta son las principales golpeando la pelota."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:322
 translate spanish b1c04ss05_e77c7d4b:
@@ -416,7 +416,7 @@ translate spanish b1c04ss05_e77c7d4b:
 translate spanish b1c04ss05_8e64e6fc:
 
     # mct "Brigitta and Monika are probably worse blockers because they're shorter and better at hitting."
-    mct "Brigitta y Monika probablemente sean peores bloqueadoras porque son más bajas y mejores golpeando."
+    mct "Brigitta y Mónica probablemente sean peores bloqueadoras porque son más bajas y mejores golpeando."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:326
 translate spanish b1c04ss05_3784c1ca:
@@ -434,19 +434,19 @@ translate spanish b1c04ss05_6dd8b3fe:
 translate spanish b1c04ss05_8345ea9b:
 
     # "You hit the ball toward Simon, who's surprised by its velocity."
-    "Golpeas la pelota hacia Simón, quien se sorprende por su velocidad."
+    "Golpeas la pelota en dirección a Simón, que se sorprende por su velocidad."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:335
 translate spanish b1c04ss05_d95d6d73:
 
     # "Simon hits the ball, but it's a clumsy, frazzled hit. The ball goes backward, toward the end of the court."
-    "Simón golpea la pelota, pero es un golpe torpe y agotado. La pelota va hacia atrás, hacia el final de la cancha."
+    "Simon golpea la pelota, pero es un golpe torpe y descontrolado. La pelota va hacia atrás, hacia el final de la cancha."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:338
 translate spanish b1c04ss05_d9f25972:
 
     # "Monika darts forward to stop the ball from going outside the court. She nearly misses, but manages to pop the ball back toward the net."
-    "Monika se lanza hacia adelante para evitar que la pelota salga de la cancha. Casi falla, pero logra devolver la pelota hacia la red."
+    "Mónica se lanza hacia adelante para evitar que la pelota salga de la cancha. Casi falla, pero logra devolver la pelota hacia la red."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:341
 translate spanish b1c04ss05_a0188ee1:
@@ -458,7 +458,7 @@ translate spanish b1c04ss05_a0188ee1:
 translate spanish b1c04ss05_1cc98599:
 
     # "You block Brigitta's hits, keeping the ball on her side of the net."
-    "Bloqueas los golpes de Brigitta, manteniendo el balón en su lado de la red."
+    "Bloqueas los golpes de Brigitta, manteniendo la pelota en su lado de la red."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:358
 translate spanish b1c04ss05_927d8260:
@@ -518,7 +518,7 @@ translate spanish b1c04ss05_f0ee60a7:
 translate spanish b1c04ss05_7c787d00:
 
     # sm "[mcname], serve! We don't have all day."
-    sm "[mcname], ¡sirve! No tenemos todo el día."
+    sm "¡[mcname], sirve! No tenemos todo el día."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:400
 translate spanish b1c04ss05_72835a8d:
@@ -542,25 +542,25 @@ translate spanish b1c04ss05_111f4844:
 translate spanish b1c04ss05_42b56423:
 
     # mct "The last match told me that Brigitta is good at long range hits, but not short range ones. Brigitta's shortcoming is her temper."
-    mct "El último partido me dijo que Brigitta es buena en los golpes de largo alcance, pero no en los de corto alcance. El defecto de Brigitta es su temperamento."
+    mct "El último encuentro me dijo que Brigitta es buena en los golpes a larga distancia, pero no en los de corta distancia. El defecto de Brigitta es su temperamento."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:408
 translate spanish b1c04ss05_ad506938:
 
     # mct "I'd bet that Monika's better at short range hits."
-    mct "Apuesto a que Monika es mejor en golpes de corto alcance."
+    mct "Apuesto a que Mónica es mejor en golpes de corto alcance."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:409
 translate spanish b1c04ss05_d253c906:
 
     # mct "When all on the same team. Monika and Brigitta are a formidable pairing. That's probably why they chose to be on the same side in this game."
-    mct "Cuando todas están en el mismo equipo. Monika y Brigitta forman una pareja formidable. Probablemente por eso eligieron estar en el mismo bando en este partido."
+    mct "Cuando están en el mismo equipo. Mónica y Brigitta forman una pareja formidable. Probablemente por eso eligieron estar en el mismo equipo en este partido."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:410
 translate spanish b1c04ss05_b216285a:
 
     # mct "But when separated like this, Brigitta's pride and Simon's weakness fractures the smaller team."
-    mct "Pero cuando se separan así, el orgullo de Brigitta y la debilidad de Simon fracturan al equipo."
+    mct "Pero cuando se separan, el orgullo de Brigitta y la debilidad de Simón fracturan al equipo."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:413
 translate spanish b1c04ss05_d791f613:
@@ -596,7 +596,7 @@ translate spanish b1c04ss05_f60830c4:
 translate spanish b1c04ss05_0a3dd9c6:
 
     # ir "Got it. {w} [mcname]!"
-    ir "Entiendo. {w} ¡[mcname]!"
+    ir "La tengo. {w} ¡[mcname]!"
 
 # game/code/Book-1/Chapter-4s/s05.rpy:443
 translate spanish b1c04ss05_3dbd2a33:
@@ -620,7 +620,7 @@ translate spanish b1c04ss05_dc15b942:
 translate spanish b1c04ss05_d441c331:
 
     # "Monika skids to her hands and knees, kicking up sand as she attempts to catch the ball."
-    "Monika patina sobre sus manos y rodillas, levantando arena mientras intenta atrapar la pelota."
+    "Mónica patina sobre sus manos y rodillas, levantando arena mientras intenta atrapar la pelota."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:458
 translate spanish b1c04ss05_442f2435:
@@ -638,13 +638,13 @@ translate spanish b1c04ss05_2f9ee061:
 translate spanish b1c04ss05_b0f9aaca:
 
     # "Brigitta tries to hit the ball over the net, but you're prepared. You block her hit. The ball goes toward Simon."
-    "Brigitta intenta pasar el balón por encima de la red, pero estás preparado. Bloqueas su golpe. La pelota va hacia Simón."
+    "Brigitta intenta golpear la pelota por encima de la red, pero tú estás preparado. Bloqueas su golpe. La pelota va en dirección a Simón."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:468
 translate spanish b1c04ss05_a204d897:
 
     # "Simon catches the ball and tries to pop it toward Brigitta, but his hit is clumsy and weak. The ball doesn't have enough power behind its momentum."
-    "Simon atrapa la pelota e intenta lanzarla hacia Brigitta, pero su golpe es torpe y débil. La pelota no tiene suficiente poder detrás de su impulso."
+    "Simón atrapa la pelota e intenta lanzarla en dirección a Brigitta, pero su golpe es torpe y débil. La pelota no tiene suficiente poder detrás de su impulso."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:469
 translate spanish b1c04ss05_0800d1bd:
@@ -656,43 +656,43 @@ translate spanish b1c04ss05_0800d1bd:
 translate spanish b1c04ss05_9e5554a3:
 
     # "Olesya steps forward and hits the ball back to Simon. Simon blocks it."
-    "Olesya da un paso adelante y le devuelve el balón a Simón. Simón lo bloquea."
+    "Olesya da un paso adelante y le devuelve la pelota a Simón. Simón la bloquea."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:477
 translate spanish b1c04ss05_49b942b2:
 
     # "You catch the ball from Simon's block and hit it toward Brigitta, knowing her weakness is short-range."
-    "Atrapas el balón del bloqueo de Simón y la golpeas hacia Brigitta, sabiendo que su punto débil es el juego a corta distancia."
+    "Atrapas la pelota del bloqueo de Simón y la golpeas en dirección a Brigitta, sabiendo que su punto débil es el juego a corta distancia."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:481
 translate spanish b1c04ss05_1d279bf8:
 
     # "Brigitta scowls at you. She pops the ball backward, to Monika."
-    "Brigitta te frunce el ceño. Ella lanza la pelota hacia atrás, a Monika."
+    "Brigitta frunce el ceño. Lanza la pelota hacia atrás, en dirección a Mónica."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:482
 translate spanish b1c04ss05_3140a5e0:
 
     # "Brigitta knows she can't get the ball over you."
-    "Brigitta sabe que no te puede pasar el balón."
+    "Brigitta sabe que no te puede pasar la pelota."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:486
 translate spanish b1c04ss05_4c652725:
 
     # "Monika jumps up and slams her fist into the ball with such force, it sails high over your head. You and Olesya are powerless to block it."
-    "Monika se levanta de un salto y golpea la pelota con el puño con tanta fuerza que sale volando por encima de tu cabeza. Ni tú ni Olesya pueden impedirlo."
+    "Mónica se levanta de un salto y golpea la pelota con el puño con tanta fuerza que sale volando por encima de tu cabeza. Ni tú ni Olesya pueden impedirlo."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:488
 translate spanish b1c04ss05_5bf65c84:
 
     # mct "I definitely misjudged Monika's strength..."
-    mct "Definitivamente juzgué mal la fuerza de Monika..."
+    mct "Definitivamente juzgué mal la fuerza de Mónica..."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:493
 translate spanish b1c04ss05_038c70a1:
 
     # "Iona dives head first for the ball, sliding to the ground. She saves the ball and pops it to Olesya, who hits it toward you."
-    "Iona se lanza de cabeza hacia la pelota, deslizándose hasta el suelo. Ella salva la pelota y se la pasa a Olesya, quien la golpea hacia ti."
+    "Iona se lanza de cabeza por la pelota, deslizándose hasta el suelo. Salva la pelota y se la pasa a Olesya, que la golpea en dirección a ti."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:495
 translate spanish b1c04ss05_cb5ead79:
@@ -704,7 +704,7 @@ translate spanish b1c04ss05_cb5ead79:
 translate spanish b1c04ss05_a8234732:
 
     # sm "Point 3 for [mcname]'s team!"
-    sm "¡Punto 3 para el equipo de [mcname]!"
+    sm "¡3 puntos para el equipo de [mcname]!"
 
 # game/code/Book-1/Chapter-4s/s05.rpy:509
 translate spanish b1c04ss05_f45b3a4c:
@@ -746,7 +746,7 @@ translate spanish b1c04ss05_dd3d9cb9:
 translate spanish b1c04ss05_8a7fd52d:
 
     # "You take a moment to look at your teammates, who are also dewy from the precipitation of their ambitious efforts."
-    "Te tomas un momento para mirar a tus compañeros de equipo, quienes también están empapados por la precipitación de sus ambiciosos esfuerzos."
+    "Te tomas un momento para mirar a tus compañeras de equipo, quienes también están empapadas por la precipitación de sus ambiciosos esfuerzos."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:560
 translate spanish b1c04ss05_c204ad73:
@@ -854,7 +854,7 @@ translate spanish b1c04ss05_bd8a58b2:
 translate spanish b1c04ss05_e5388323:
 
     # sm "Point 24 to [mcname]'s team!"
-    sm "¡Punto 24 al equipo de [mcname]!"
+    sm "¡Punto 24 para el equipo de [mcname]!"
 
 # game/code/Book-1/Chapter-4s/s05.rpy:637
 translate spanish b1c04ss05_b24040ab:
@@ -884,7 +884,7 @@ translate spanish b1c04ss05_3e27a527:
 translate spanish b1c04ss05_19d8f01f:
 
     # "But this time. Monika serves the ball toward Iona."
-    "Pero esta vez. Monika sirve el balón hacia Iona."
+    "Pero esta vez. Mónica sirve la pelota en dirección a Iona."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:653
 translate spanish b1c04ss05_1b4d8516:
@@ -908,31 +908,31 @@ translate spanish b1c04ss05_efec6d4f:
 translate spanish b1c04ss05_ca99a2df:
 
     # "She dives into the ground, hitting the ball just before it collides with the ground."
-    "Se sumerge en el suelo, golpeando la pelota justo antes de que choque con el suelo."
+    "Se sumerge en el suelo, golpeando la pelota justo antes de que choque contra el suelo."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:667
 translate spanish b1c04ss05_297f40ba:
 
     # "She pops it back to Simon, and Simon hits it to Monika."
-    "Se la devuelve a Simón y Simón se la da a Monika."
+    "Se la devuelve a Simón y Simón se la da a Mónica."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:672
 translate spanish b1c04ss05_77dcb3e4:
 
     # "Before you can dart forward to block it, Monika hits the ball over the net, toward Olesya."
-    "Antes de que puedas lanzarte para bloquearlo, Monika golpea la pelota por encima de la red, hacia Olesya."
+    "Antes de que puedas lanzarte para bloquearlo, Mónica golpea la pelota por encima de la red, en dirección a Olesya."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:676
 translate spanish b1c04ss05_b8b3d752:
 
     # "Before Brigitta even has time to get up, Olesya pops the ball back to you."
-    "Antes de que Brigitta tenga tiempo de levantarse, Olesya te devuelve el balón."
+    "Antes de que Brigitta tenga tiempo de levantarse, Olesya te devuelve la pelota."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:678
 translate spanish b1c04ss05_2a40c702:
 
     # "You hit it over Simon's head."
-    "Lo golpeaste en la cabeza de Simón."
+    "Lo golpeaste sobre la cabeza de Simón."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:682
 translate spanish b1c04ss05_7a6db818:
@@ -1040,7 +1040,7 @@ translate spanish b1c04ss05_913d64ec:
 translate spanish b1c04ss05_6c1450cc:
 
     # sm "I'll get you registered with us, and your uniform made."
-    sm "Te registraré con nosotros y te haré el uniforme."
+    sm "Haré que te registren con nosotros y que te hagan el uniforme."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:753
 translate spanish b1c04ss05_f3bc892c:
