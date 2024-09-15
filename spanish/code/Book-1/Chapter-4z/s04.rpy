@@ -14,7 +14,7 @@ translate spanish b1c04zs04_81f456c2:
 translate spanish b1c04zs04_34adedd7:
 
     # mc "Hi, I'd like to sign up."
-    mc "Hola me gustaria inscribirme"
+    mc "Hola, me gustaría inscribirme."
 
 # game/code/Book-1/Chapter-4z/s04.rpy:25
 translate spanish b1c04zs04_722738a0:
@@ -116,7 +116,7 @@ translate spanish b1c04zs04_ab628c57:
 translate spanish b1c04zs04_50a2f09c:
 
     # pm "Isosceles is meant to be a bolder stance, and in the field, you'll be wearing body armor with this stance."
-    pm "Isosceles está destinado a ser una postura más audaz, y en el campo, usarás una armadura corporal con esta postura."
+    pm "Isósceles está pensada para ser una postura más atrevida, y en el campo, llevarás un chaleco antibalas con esta postura."
 
 # game/code/Book-1/Chapter-4z/s04.rpy:68
 translate spanish b1c04zs04_0d694e7a:
@@ -128,7 +128,7 @@ translate spanish b1c04zs04_0d694e7a:
 translate spanish b1c04zs04_72338154:
 
     # pm "We'll get to that next. But first, you should learn how to balance yourself without body armor."
-    pm "Llegaremos a eso más adelante. Pero primero, debes aprender a equilibrarte sin armadura."
+    pm "Llegaremos a eso más adelante. Pero primero, debes aprender a equilibrarte un chaleco antibalas."
 
 # game/code/Book-1/Chapter-4z/s04.rpy:72
 translate spanish b1c04zs04_8abfbcd7:
@@ -188,7 +188,7 @@ translate spanish b1c04zs04_f2e66dba:
 translate spanish b1c04zs04_fe917044:
 
     # pm "If you hit your mark, you'll get a little reward. Maybe a little more than just a kiss, if you're lucky."
-    pm "Si aciertas en tu marca, obtendrás una pequeña recompensa. Tal vez un poco más que un simple beso, si tienes suerte."
+    pm "Si das en el blanco, recibirás una pequeña recompensa. Quizá algo más que un beso, si tienes suerte."
 
 # game/code/Book-1/Chapter-4z/s04.rpy:101
 translate spanish b1c04zs04_665ddec7:
@@ -332,7 +332,7 @@ translate spanish b1c04zs04_adc70adc:
 translate spanish b1c04zs04_00c90500:
 
     # mct "Slow down, make sure I have proper form."
-    mct "Reduzca la velocidad, asegúrese de tener la forma adecuada."
+    mct "Reducir la velocidad, asegurarme de que tengo la postura correcta."
 
 # game/code/Book-1/Chapter-4z/s04.rpy:165
 translate spanish b1c04zs04_84aadf69:
@@ -410,7 +410,7 @@ translate spanish b1c04zs04_784b44e7:
 translate spanish b1c04zs04_c56306db:
 
     # pm "Now, keep your elbows slightly bent. Remember to breathe, and take your time lining up the sights. Accuracy is better than speed at this stage of your training."
-    pm "Ahora, mantén los codos ligeramente flexionados. Recuerde respirar y tómese su tiempo para alinear las vistas. La precisión es mejor que la velocidad en esta etapa de tu entrenamiento."
+    pm "Ahora, mantén los codos ligeramente flexionados. Recuerda respirar y tómate tu tiempo para alinear las miras. La precisión es mejor que la velocidad en esta etapa de tu entrenamiento."
 
 # game/code/Book-1/Chapter-4z/s04.rpy:206
 translate spanish b1c04zs04_f496bc2c:
@@ -450,8 +450,8 @@ translate spanish b1c04zs04_870bb158:
 # game/code/Book-1/Chapter-4z/s04.rpy:229
 translate spanish b1c04zs04_0c5bdd81:
 
-    # mo "Está bien, está bien. No me apetece hacer pesas ahora mismo."
-    mo "Bien bien. No tengo ganas de hacer press de banca en este momento."
+    # mo "It's okay, it's okay. I don't feel like doing weights right now."
+    mo "Está bien, está bien. No me apetece hacer pesas en este momento."
 
 # game/code/Book-1/Chapter-4z/s04.rpy:234
 translate spanish b1c04zs04_7bb024be:
