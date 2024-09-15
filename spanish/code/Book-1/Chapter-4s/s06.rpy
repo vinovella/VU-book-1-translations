@@ -20,7 +20,7 @@ translate spanish b1c04ss06_acf8cba1:
 translate spanish b1c04ss06_a735fc8a:
 
     # sm "A lot of what you did on the field out there usually takes months to develop."
-    sm "Mucho de lo que hiciste en el campo por lo general tarda meses en desarrollarse."
+    sm "Mucho de lo que hizo en la cancha por lo general tarda meses en desarrollarse."
 
 # game/code/Book-1/Chapter-4s/s06.rpy:39
 translate spanish b1c04ss06_9fd1a499:
@@ -74,7 +74,7 @@ translate spanish b1c04ss06_e27bb505:
 translate spanish b1c04ss06_42e1a7a0:
 
     # mc "Not that I didn't have my fair share of spiteful words."
-    mc "No es que no tuviera mi parte justa de palabras rencorosas."
+    mc "No es que no tuviera mi buena ración de palabras rencorosas."
 
 # game/code/Book-1/Chapter-4s/s06.rpy:65
 translate spanish b1c04ss06_82b678de:
@@ -92,7 +92,7 @@ translate spanish b1c04ss06_924c58e3:
 translate spanish b1c04ss06_9781e89d:
 
     # mc "She was very kind. Like you."
-    mc "Ella fue muy amable. Como usted."
+    mc "Ella era muy amable. Como tú."
 
 # game/code/Book-1/Chapter-4s/s06.rpy:74
 translate spanish b1c04ss06_8b5ded49:
@@ -116,7 +116,7 @@ translate spanish b1c04ss06_7bad173e:
 translate spanish b1c04ss06_6989487a:
 
     # mc "You grew up in foster care?"
-    mc "¿Creciste en un hogar de acogida?"
+    mc "¿Creciste en un orfanato?"
 
 # game/code/Book-1/Chapter-4s/s06.rpy:85
 translate spanish b1c04ss06_d307af04:
@@ -128,13 +128,13 @@ translate spanish b1c04ss06_d307af04:
 translate spanish b1c04ss06_f97b4197:
 
     # sm "I couldn't get to college fast enough."
-    sm "No podía llegar a la universidad lo suficientemente rápido."
+    sm "No podía llegar a la escuela lo suficientemente rápido."
 
 # game/code/Book-1/Chapter-4s/s06.rpy:95
 translate spanish b1c04ss06_540bc6fc:
 
     # sm "It was chaotic there. A lot of angry, troubled kids came through, and moved on in one way or another."
-    sm "Fue caótico allí. Llegaron muchos niños enojados y con problemas, y siguieron adelante de una forma u otra."
+    sm "Era un caos. Por allí pasaron muchos niños problemáticos y molestos, que siguieron adelante de una forma u otra."
 
 # game/code/Book-1/Chapter-4s/s06.rpy:98
 translate spanish b1c04ss06_822aa5c3:
@@ -152,7 +152,7 @@ translate spanish b1c04ss06_16d54a1c:
 translate spanish b1c04ss06_384aaff7:
 
     # sm "I tried not to let that get to me, but it's hard when I felt the same way they did. It's especially difficult to think that no one came for me, or wanted me. I was just left there. Nowhere else to go."
-    sm "Intenté que eso no me afectara, pero es difícil cuando yo sentía lo mismo que ellos. Es especialmente difícil pensar que nadie vino a por mí, ni me quería. Simplemente me dejaron allí. Sin ningún sitio al que ir."
+    sm "Intenté que eso no me afectara, pero es difícil cuando yo sentía lo mismo que ellos. Es especialmente difícil pensar que nadie vino por mí, ni me quería. Simplemente me dejaron allí. Sin ningún sitio al que ir."
 
 # game/code/Book-1/Chapter-4s/s06.rpy:105
 translate spanish b1c04ss06_36a4d46b:
@@ -170,13 +170,13 @@ translate spanish b1c04ss06_238d4dbd:
 translate spanish b1c04ss06_e4b5df7b:
 
     # sm "Like rejection, shame, confusion, anger... The works."
-    sm "Como el rechazo, la vergüenza, la confusión, la ira... Las obras."
+    sm "Como el rechazo, la vergüenza, la confusión, la ira... Todo."
 
 # game/code/Book-1/Chapter-4s/s06.rpy:114
 translate spanish b1c04ss06_24e250f8:
 
     # mc "That makes sense. It must've been difficult to feel like that."
-    mc "Eso tiene sentido. Debe haber sido difícil sentirse así."
+    mc "Eso tiene sentido. Debe haber sido difícil sentirse de esa manera."
 
 # game/code/Book-1/Chapter-4s/s06.rpy:117
 translate spanish b1c04ss06_10f31f33:
@@ -212,7 +212,7 @@ translate spanish b1c04ss06_e601abbd:
 translate spanish b1c04ss06_66bfbfc2:
 
     # sm "She absolutely is. She was one of the first people to accept me in the Winner's Club. I got in because of my modeling gigs, but it takes a while for people to adjust to a new member."
-    sm "Ella lo es absolutamente. Ella fue una de las primeras personas en aceptarme en el Club de los Ganadores. Entré por mis trabajos de modelo, pero a la gente le toma un tiempo adaptarse a un nuevo miembro."
+    sm "Ella lo es. Ella fue una de las primeras personas en aceptarme en el Club de los Ganadores. Entré por mis trabajos de modelo, pero a la gente le toma un tiempo adaptarse a un nuevo miembro."
 
 # game/code/Book-1/Chapter-4s/s06.rpy:132
 translate spanish b1c04ss06_83f3d709:
@@ -278,7 +278,7 @@ translate spanish b1c04ss06_21dc85dc:
 translate spanish b1c04ss06_b31ee273:
 
     # sm "I also view it as just holding down the fort until she comes home."
-    sm "También lo veo como mantener el fuerte hasta que ella regrese a casa."
+    sm "También lo veo como una forma de mantener el fuerte hasta que ella regrese a casa."
 
 # game/code/Book-1/Chapter-4s/s06.rpy:160
 translate spanish b1c04ss06_888b3e61:
@@ -290,13 +290,13 @@ translate spanish b1c04ss06_888b3e61:
 translate spanish b1c04ss06_1e3be8a8:
 
     # mc "Not at all. It's complicated, and everyone copes differently. I'm sure that was difficult to go through. I can't imagine what it's like to feel like the world is moving on without you and someone you care for."
-    mc "De nada. Es complicado, y todos lo afrontan de manera diferente. Estoy seguro de que fue difícil pasar por eso. No puedo imaginar lo que es sentir que el mundo sigue adelante sin ti y sin alguien a quien quieres."
+    mc "Para nada. Es complicado, y todos lo afrontan de manera diferente. Estoy seguro de que fue difícil pasar por eso. No puedo imaginar lo que es sentir que el mundo sigue adelante sin ti y sin alguien a quien quieres."
 
 # game/code/Book-1/Chapter-4s/s06.rpy:166
 translate spanish b1c04ss06_f2e62329:
 
     # sm "Exactly. I love this club. Klara really made it feel like home for me. The Winner's Club motivates me to exceed my limits and hold myself accountable."
-    sm "Exactamente. Me encanta este club. Klara realmente me hizo sentir como en casa. El Club de Ganadores me motiva a exceder mis límites y hacerme responsable."
+    sm "Exactamente. Me encanta este club. Klara realmente me hizo sentir como en casa. El Club de los Ganadores me motiva a exceder mis límites y hacerme responsable."
 
 # game/code/Book-1/Chapter-4s/s06.rpy:167
 translate spanish b1c04ss06_7460dd84:
@@ -308,7 +308,7 @@ translate spanish b1c04ss06_7460dd84:
 translate spanish b1c04ss06_3b1aac9b:
 
     # sm "But when I viewed it differently, it became more like an honor and a responsibility to Klara to keep things in order. Until she returns, of course."
-    sm "Pero cuando lo vi de otra manera, se volvió más como un honor y una responsabilidad para Klara mantener las cosas en orden. Hasta que ella regrese, por supuesto."
+    sm "Pero cuando lo vi de otra manera, se convirtió más en un honor y una responsabilidad hacia Klara para mantener las cosas en orden. Hasta que ella regrese, por supuesto."
 
 # game/code/Book-1/Chapter-4s/s06.rpy:179
 translate spanish b1c04ss06_1bf60051:
