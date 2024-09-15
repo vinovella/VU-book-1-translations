@@ -80,7 +80,7 @@ translate spanish b1c04ss04_e58e324d:
 translate spanish b1c04ss04_00bb5abd:
 
     # ir "Wouldn't want to lose that figure, right?"
-    ir "No querría perder esa figura, ¿verdad?"
+    ir "No querrías perder esa figura, ¿verdad?"
 
 # game/code/Book-1/Chapter-4s/s04.rpy:64
 translate spanish b1c04ss04_716019b8:
@@ -98,7 +98,7 @@ translate spanish b1c04ss04_74d9d55e:
 translate spanish b1c04ss04_dff408dc:
 
     # ir "Y'know, before you wash this off... I think I like you this way."
-    ir "Ya sabes, antes de que laves esto... Creo que me gustas así."
+    ir "Sabes, antes de que te laves esto... Creo que me gustas tal como estás."
 
 # game/code/Book-1/Chapter-4s/s04.rpy:84
 translate spanish b1c04ss04_cdb52e86:
@@ -122,7 +122,7 @@ translate spanish b1c04ss04m01_8d8e7fc4:
 translate spanish b1c04ss04m01_7b1f3d1d:
 
     # mc "I'm not really in the mood for this right now, Iona."
-    mc "No estoy de humor para esto ahora mismo, Iona."
+    mc "No estoy de humor para esto en este momento, Iona."
 
 # game/code/Book-1/Chapter-4s/s04.rpy:105
 translate spanish b1c04ss04m01_0dbcc2ff:
@@ -170,7 +170,7 @@ translate spanish b1c04ss04m01_bdac2713:
 translate spanish b1c04ss04m01_8ff03bcb:
 
     # "Iona presses you between her tits, and rubs you with her chest for a few strokes."
-    "Iona te aprieta entre sus tetas y te frota con el pecho durante unos cuantos golpes."
+    "Iona te aprieta entre sus tetas y te frota con su pecho durante algunas caricias."
 
 # game/code/Book-1/Chapter-4s/s04.rpy:177
 translate spanish b1c04ss04m01_308d7f12:
@@ -218,7 +218,7 @@ translate spanish b1c04ss04m01_183fed10:
 translate spanish b1c04ss04m01_08d28259:
 
     # mc "Keep going, just like that."
-    mc "Sigue así, así."
+    mc "Sigue así."
 
 # game/code/Book-1/Chapter-4s/s04.rpy:203
 translate spanish b1c04ss04m01_8ed06bcd:
@@ -236,13 +236,13 @@ translate spanish b1c04ss04m01_a3cce35d:
 translate spanish b1c04ss04m01_01d93121:
 
     # "You feel your muscles tightening, aching for release."
-    "Sientes que tus músculos se tensan, doliendo por liberarse."
+    "Sientes que tus músculos se tensan, ansiosos por liberarse."
 
 # game/code/Book-1/Chapter-4s/s04.rpy:215
 translate spanish b1c04ss04m01_a1229eea:
 
     # mc "I'm gonna cum."
-    mc "me voy a correr."
+    mc "Me voy a correr."
 
 # game/code/Book-1/Chapter-4s/s04.rpy:219
 translate spanish b1c04ss04m01_9a985c6b:
@@ -254,7 +254,7 @@ translate spanish b1c04ss04m01_9a985c6b:
 translate spanish b1c04ss04m01_3fc340dc:
 
     # "You press your tip against her skin as you cum onto her stomach. Iona presses herself against you, adding a sensual tightness and rubbing sensation."
-    "Presionas tu punta contra su piel mientras te corres en su estómago. Iona se presiona contra ti, añadiendo una sensual tirantez y una sensación de frotamiento."
+    "Aprietas la punta contra su piel mientras te corres en su vientre. Iona se aprieta contra ti, añadiendo una sensual sensación de tirantez y roce."
 
 # game/code/Book-1/Chapter-4s/s04.rpy:225
 translate spanish b1c04ss04m01_ae0f8f42:
