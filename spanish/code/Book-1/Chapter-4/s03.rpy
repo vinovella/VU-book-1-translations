@@ -26,7 +26,7 @@ translate spanish b1c04m3_7362a640:
 translate spanish b1c04m3_3ccec1b8:
 
     # jh "Hmph. Neither am I."
-    jh "Hmph. yo tampoco"
+    jh "Hmph. yo tampoco."
 
 # game/code/Book-1/Chapter-4/s03.rpy:37
 translate spanish b1c04m3_8c26cb31:
@@ -110,7 +110,7 @@ translate spanish b1c04m3_1fdf1583:
 translate spanish b1c04m3_e8a16714:
 
     # lw "I've been blind since birth, but my family didn't want that to hold me back, so they took me hiking, and eventually taught me to rock climb."
-    lw "He sido ciega desde que nací, pero mi familia no quería que eso me detuviera, así que me llevaron a caminar y finalmente me enseñaron a hacer escalada."
+    lw "He sido ciega desde mi nacimiento, pero mi familia no quería que eso me frenara, así que me llevaron a hacer senderismo y, con el tiempo, me enseñaron a escalar."
 
 # game/code/Book-1/Chapter-4/s03.rpy:80
 translate spanish b1c04m3_6b32c52b:
@@ -140,13 +140,13 @@ translate spanish b1c04m3_fb7e5eb2:
 translate spanish b1c04m3_5f290c33:
 
     # lw "What? I missed it! And I knew you'd enjoy it when you got into the swing of it."
-    lw "¿Qué? ¡Me lo perdi! Y sabía que lo disfrutarías cuando te cogieras el ritmo."
+    lw "¿Qué? ¡Me lo perdí! Y sabía que lo disfrutarías cuando le cogieras el ritmo."
 
 # game/code/Book-1/Chapter-4/s03.rpy:93
 translate spanish b1c04m3_58b17888:
 
     # lw "We started doing indoor rock climbing so Josie could practice. Y'know, those places with the fake mountain sides?"
-    lw "Empezamos a hacer escalada en roca bajo techo para que Josie pudiera practicar. Ya sabes, esos lugares con las laderas de las montañas falsas?"
+    lw "Empezamos a hacer escalada en interior para que Josie pudiera practicar. Ya sabes, ¿esos sitios con laderas de montaña falsas?"
 
 # game/code/Book-1/Chapter-4/s03.rpy:96
 translate spanish b1c04m3_528fca86:
