@@ -314,7 +314,7 @@ translate spanish b1c05s07_166af863:
 translate spanish b1c05s07_0291e51c:
 
     # dm "Ah."
-    dm "Ah"
+    dm "Ah."
 
 # game/code/Book-1/Chapter-5/s07.rpy:202
 translate spanish b1c05s07_4a7c2946:
@@ -386,13 +386,13 @@ translate spanish b1c05s07_ee1a9a21:
 translate spanish b1c05s07_8225140d:
 
     # mct "C'mon Diana, take a hint. Ronja could really help this investigation."
-    mct "Vamos Diana, toma una pista. Ronja realmente podría ayudar en esta investigación."
+    mct "Vamos Diana, capta la indirecta. Ronja realmente podría ayudar en esta investigación."
 
 # game/code/Book-1/Chapter-5/s07.rpy:236
 translate spanish b1c05s07_0f8afa30:
 
     # rh "See? Even he enjoyed our private meeting."
-    rh "¿Ves? Incluso él disfrutó de nuestra reunión privada."
+    rh "¿Lo ves? Incluso él disfrutó de nuestra reunión privada."
 
 # game/code/Book-1/Chapter-5/s07.rpy:238
 translate spanish b1c05s07_5c347a7f:
@@ -416,7 +416,7 @@ translate spanish b1c05s07_01abecc8:
 translate spanish b1c05s07_1d00d3aa:
 
     # rh "Not at all. Go ahead. I'm sure [mcname] would be fine with that, yes?"
-    rh "De nada. Adelante. Estoy segura de que [mcname] estaría bien con eso, ¿no?"
+    rh "Para nada. Adelante. Estoy segura de que [mcname] estaría bien con eso, ¿no?"
 
 # game/code/Book-1/Chapter-5/s07.rpy:247
 translate spanish b1c05s07_f4c901a0:
@@ -476,7 +476,7 @@ translate spanish b1c05s07_c48f30e5:
 translate spanish b1c05s07_30c39440:
 
     # mc "I can handle myself, Diana. I think Ronja's genuinely trying to help."
-    mc "Puedo manejarme sola, Diana. Creo que Ronja realmente está tratando de ayudar."
+    mc "Puedo manejarme por mi cuenta, Diana. Creo que Ronja realmente está tratando de ayudar."
 
 # game/code/Book-1/Chapter-5/s07.rpy:276
 translate spanish b1c05s07_1b72b18e:
