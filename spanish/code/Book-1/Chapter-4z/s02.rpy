@@ -2,13 +2,13 @@
 translate spanish b1c04zs02_3141a8de:
 
     # ffl "So you said you were sailing with your dad?"
-    ffl "¿Así que dijiste que ibas a viajar con tu padre?"
+    ffl "¿Dijiste que navegabas con tu padre?"
 
 # game/code/Book-1/Chapter-4z/s02.rpy:12
 translate spanish b1c04zs02_18c6e121:
 
     # mc "Yeah, he thought it'd be a good bonding experience."
-    mc "Sí, pensó que sería una buena experiencia para establecer lazos."
+    mc "Sí, pensó que sería una buena experiencia para estrechar lazos."
 
 # game/code/Book-1/Chapter-4z/s02.rpy:15
 translate spanish b1c04zs02_904fdbe7:
@@ -44,7 +44,7 @@ translate spanish b1c04zs02_1e529168:
 translate spanish b1c04zs02_c6967b03:
 
     # mc "Nah, I'm not different from anyone else. Mainly, I learned that champagne really {i}does{/i} cure seasickness."
-    mc "No, no soy diferente a los demás. Principalmente, aprendí que el champán realmente {i}{/i} cura el mareo."
+    mc "No, no soy diferente de los demás. Principalmente, aprendí que el champán realmente {i}cura{/i} el mareo."
 
 # game/code/Book-1/Chapter-4z/s02.rpy:33
 translate spanish b1c04zs02_84ee67ab:
@@ -68,13 +68,13 @@ translate spanish b1c04zs02_96d1ddfe:
 translate spanish b1c04zs02_a3d96989:
 
     # ffl "Just being friendly. You know how difficult the first day of classes can be."
-    ffl "Solo siendo amigable. Ya sabes lo difícil que puede ser el primer día de clases."
+    ffl "Sólo estoy siendo amable. Ya sabes lo difícil que puede ser el primer día de clase."
 
 # game/code/Book-1/Chapter-4z/s02.rpy:65
 translate spanish b1c04zs02_9299ee3b:
 
     # ffl "So! How did your online match go last night, Zemfira?"
-    ffl "¡Entonces! ¿Cómo fue tu partido en línea anoche, Zemfira?"
+    ffl "Entonces, ¿cómo estuvo tu juego en línea anoche, Zemfira?"
 
 # game/code/Book-1/Chapter-4z/s02.rpy:68
 translate spanish b1c04zs02_634f0524:
@@ -128,7 +128,7 @@ translate spanish b1c04zs02_7a183012:
 translate spanish b1c04zs02_783f59e5:
 
     # mc "A true role model."
-    mc "Un verdadero modelo a seguir."
+    mc "Una verdadera modelo a seguir."
 
 # game/code/Book-1/Chapter-4z/s02.rpy:96
 translate spanish b1c04zs02_c62e5288:
@@ -206,7 +206,7 @@ translate spanish b1c04zs02_09c40f0b:
 translate spanish b1c04zs02_677a9969:
 
     # gn "Fuck yeah, Zemfira. You'll probably get there sooner than a month."
-    gn "Mierda, sí, Zemfira. Probablemente llegue antes de un mes."
+    gn "Joder, sí, Zemfira. Probablemente llegarás antes de un mes."
 
 # game/code/Book-1/Chapter-4z/s02.rpy:133
 translate spanish b1c04zs02_ff5bbdb5:
@@ -236,7 +236,7 @@ translate spanish b1c04zs02_60400419:
 translate spanish b1c04zs02_35194c9f:
 
     # gn "How's music class coming along, Fleur? Is professor what's-his-face still a dick?"
-    gn "¿Cómo va la clase de música, Fleur? ¿El profesor \"cómo-se-llame\" sigue siendo un imbécil?"
+    gn "¿Cómo va la clase de música, Fleur? ¿El profesor \"cómo se llame\" sigue siendo un imbécil?"
 
 # game/code/Book-1/Chapter-4z/s02.rpy:156
 translate spanish b1c04zs02_57273615:
@@ -260,7 +260,7 @@ translate spanish b1c04zs02_925da76a:
 translate spanish b1c04zs02_da3d1811:
 
     # ffl "He gives us too much menial work. Doesn't want us to get too advanced and surpass his class before the semester is over."
-    ffl "Nos da demasiado trabajo de poca importancia. No quiere que avancemos demasiado y superemos su clase antes de que acabe el semestre."
+    ffl "Nos da demasiado trabajo de poca importancia. No quiere que avancemos demasiado y superemos su clase antes de que termine el semestre."
 
 # game/code/Book-1/Chapter-4z/s02.rpy:168
 translate spanish b1c04zs02_4071a36a:
@@ -278,7 +278,7 @@ translate spanish b1c04zs02_5dca44be:
 translate spanish b1c04zs02_2ed58c87:
 
     # ffl "Honestly? I don't think he's that cute. Unless you got a thing for decrepit and controlling."
-    ffl "¿Honestamente? No creo que sea tan lindo. A menos que tengas algo para decrépito y controlador."
+    ffl "¿Sinceramente? No creo que sea tan lindo. A menos que te gusten los decrépitos y controladores."
 
 # game/code/Book-1/Chapter-4z/s02.rpy:177
 translate spanish b1c04zs02_e9d83310:
@@ -344,7 +344,7 @@ translate spanish b1c04zs02_0c80c886:
 translate spanish b1c04zs02_e2baea8c:
 
     # zp "No problem."
-    zp "Ningún problema."
+    zp "No hay problema."
 
 # game/code/Book-1/Chapter-4z/s02.rpy:220
 translate spanish b1c04zs02_836d88cf:
@@ -398,7 +398,7 @@ translate spanish b1c04zs02_8399089f:
 translate spanish b1c04zs02_826085de:
 
     # mc "Someone you know?"
-    mc "¿Alguien que usted conoce?"
+    mc "¿Alguien que conoces?"
 
 # game/code/Book-1/Chapter-4z/s02.rpy:249
 translate spanish b1c04zs02_4f5220a1:
@@ -410,7 +410,7 @@ translate spanish b1c04zs02_4f5220a1:
 translate spanish b1c04zs02_dfdaf799:
 
     # ffl "So...what other games are you playing right now, Zem?"
-    ffl "Entonces... ¿A qué otros juegos estás jugando ahora mismo, Zem?"
+    ffl "Entonces... ¿A qué otros juegos estás jugando en este momento, Zem?"
 
 # game/code/Book-1/Chapter-4z/s02.rpy:255
 translate spanish b1c04zs02_fbacf6f1:
@@ -428,7 +428,7 @@ translate spanish b1c04zs02_3a8df084:
 translate spanish b1c04zs02_281eec41:
 
     # zp "Yeah... It's an up and coming first person shooter. There's not much of a player base behind it yet, so I'm hoping to get to the top quickly. Then it will be a matter of maintaining my position."
-    zp "Sí... Es un juego de acción en primera persona. Todavía no hay muchos jugadores detrás, así que espero llegar a la cima rápidamente. Entonces será cuestión de mantener mi posición."
+    zp "Sí... Es un juego de acción en primera persona. Todavía no hay muchos jugadores, así que espero llegar a la cima rápidamente. Entonces será cuestión de mantener mi posición."
 
 # game/code/Book-1/Chapter-4z/s02.rpy:267
 translate spanish b1c04zs02_8eb0d7c7:
