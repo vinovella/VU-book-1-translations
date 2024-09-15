@@ -237,8 +237,8 @@
     new "Zemfira isn't mad, but feels you could've been a bit more aggressive about defending her in that kind of situation. 0 points with Zemfira."
 
     # game/code/hints.rpy:11
-    old "She's super happy she won and gets to gloat."
-    new "She's super happy she won and gets to gloat."
+    old "She's super happy she won and gets to gloat. +1 point with Nirmala."
+    new "She's super happy she won and gets to gloat. +1 point with Nirmala."
 
     # game/code/hints.rpy:11
     old "She's a sore loser."

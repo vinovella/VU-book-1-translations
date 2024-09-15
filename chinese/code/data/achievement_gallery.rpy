@@ -97,8 +97,8 @@
     new "Play Asami's path."
 
     # game/code/data/achievement_gallery.rpy:5
-    old "13: What Did The Fox Moan"
-    new "13: What Did The Fox Moan"
+    old "13: What Did the Fox Moan"
+    new "13: What Did the Fox Moan"
 
     # game/code/data/achievement_gallery.rpy:5
     old "Play Foxy's path."
@@ -185,8 +185,8 @@
     new "Finished the Syndicate's Part 2."
 
     # game/code/data/achievement_gallery.rpy:5
-    old "24: Injecting The L"
-    new "24: Injecting The L"
+    old "24: Injecting the L"
+    new "24: Injecting the L"
 
     # game/code/data/achievement_gallery.rpy:5
     old "Lose the Winner's tournament."
@@ -253,8 +253,8 @@
     new "32: Top of the Class"
 
     # game/code/data/achievement_gallery.rpy:5
-    old "Get the maximum number of points."
-    new "Get the maximum number of points."
+    old "Earn 18+ points with a group."
+    new "Earn 18+ points with a group."
 
     # game/code/data/achievement_gallery.rpy:5
     old "33: Eskimo Sisters"
@@ -353,8 +353,8 @@
     new "Click the unclickable option in the nightmare."
 
     # game/code/data/achievement_gallery.rpy:5
-    old "45: Behind The Scenes"
-    new "45: Behind The Scenes"
+    old "45: Behind the Scenes"
+    new "45: Behind the Scenes"
 
     # game/code/data/achievement_gallery.rpy:5
     old "Play postcredit scene."

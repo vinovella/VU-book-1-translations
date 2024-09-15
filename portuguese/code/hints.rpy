@@ -239,7 +239,7 @@ translate portuguese strings:
     new ""
 
     # game/code/hints.rpy:11
-    old "She's super happy she won and gets to gloat."
+    old "She's super happy she won and gets to gloat. +1 point with Nirmala."
     new ""
 
     # game/code/hints.rpy:11
