@@ -8,7 +8,7 @@ translate spanish b1c06s01_8864c0d8:
 translate spanish b1c06s01_fb2df345:
 
     # mc "No, it's me."
-    mc "No soy yo."
+    mc "No, soy yo."
 
 # game/code/Book-1/Chapter-6/s01.rpy:59
 translate spanish b1c06s01_c86c867d:
@@ -56,7 +56,7 @@ translate spanish b1c06s01_35df1018:
 translate spanish b1c06s01_c35fee3d:
 
     # lw "And to not be burdened by me..."
-    lw "Y para no ser agobiado por mi..."
+    lw "Y para no ser agobiada por mi..."
 
 # game/code/Book-1/Chapter-6/s01.rpy:83
 translate spanish b1c06s01_80b64371:
@@ -68,7 +68,7 @@ translate spanish b1c06s01_80b64371:
 translate spanish b1c06s01_3789927a:
 
     # lw "*clears throat* Oh, by the way, the chancellor stopped by. She left a number for you to call."
-    lw "*se aclara la garganta* Oh, por cierto, el canciller pasó por aquí. Dejó un número para que llames."
+    lw "*se aclara la garganta* Por cierto, la rectora pasó por aquí. Dejó un número para que llames."
 
 # game/code/Book-1/Chapter-6/s01.rpy:87
 translate spanish b1c06s01_5c5cb43e:
@@ -110,7 +110,7 @@ translate spanish b1c06s01_5c69efd4:
 translate spanish b1c06s01_db183796:
 
     # mct "Then again, it's strange that she'd reach out at this hour, so maybe it is something important."
-    mct "Por otra parte, es extraño que se comunique con ella a esta hora, así que tal vez sea algo importante."
+    mct "Por otra parte, es extraño que me comunique con ella a esta hora, así que tal vez sea algo importante."
 
 # game/code/Book-1/Chapter-6/s01.rpy:106
 translate spanish b1c06s01_ed0a7c1d:
@@ -140,7 +140,7 @@ translate spanish b1c06s01_call_rh_93cb18bd:
 translate spanish b1c06s01_call_rh_46a90d7a:
 
     # rh "[mcname]! I was hoping you'd call."
-    rh "[mcname]! Esperaba que llamaras."
+    rh "¡[mcname]! Esperaba que llamaras."
 
 # game/code/Book-1/Chapter-6/s01.rpy:130
 translate spanish b1c06s01_call_rh_e29ab1d8:
@@ -230,7 +230,7 @@ translate spanish b1c06s01_call_rh_3b65cc01:
 translate spanish b1c06s01_call_rh_5fdc0b04:
 
     # mct "She asked me to rush over here and then doesn't even answer the door? That's weird."
-    mct "¿¿Me pidió que viniera rápido y luego ni siquiera abre la puerta? Eso es raro."
+    mct "Me pidió que viniera rápido y luego ni siquiera abre la puerta? Eso es raro."
 
 # game/code/Book-1/Chapter-6/s01.rpy:171
 translate spanish b1c06s01_call_rh_822a72b3:
@@ -338,7 +338,7 @@ translate spanish b1c06s01_call_rh_570c8725:
 translate spanish b1c06s01_call_rh_315153fc:
 
     # "You spank Ronja. The feeling her flesh quiver underneath your touch."
-    "Le pegas a Ronja. La sensación de su carne temblar bajo tu toque."
+    "Nalgueas a Ronja. Sientes su carne estremecerse bajo tu toque."
 
 # game/code/Book-1/Chapter-6/s01.rpy:269
 translate spanish b1c06s01_call_rh_b4e2e6e0:
@@ -464,7 +464,7 @@ translate spanish b1c06s01_call_rh_fcb37aa1:
 translate spanish b1c06s01_call_rh_20c69fce:
 
     # mc "Now open it so I can fuck you senseless without it causing trouble."
-    mc "Ahora ábrela para que pueda follarte sin sentido sin que cause problemas."
+    mc "Ahora ábrela para que pueda follarte sin que cause problemas."
 
 # game/code/Book-1/Chapter-6/s01.rpy:358
 translate spanish b1c06s01_call_rh_ac8f4e4b:
@@ -512,7 +512,7 @@ translate spanish b1c06s01_call_rh_a6dea5b6:
 translate spanish b1c06s01_call_rh_13c61fea:
 
     # rh "Mm, you taste good."
-    rh "Mm, sabes bien."
+    rh "Mm, tienes buen sabor."
 
 # game/code/Book-1/Chapter-6/s01.rpy:388
 translate spanish b1c06s01_call_rh_a72076dc:
@@ -548,7 +548,7 @@ translate spanish b1c06s01_call_rh_64b24cf1:
 translate spanish b1c06s01_call_rh_55623543:
 
     # mc "It's—she just needed—"
-    mc "Es—ella solo necesitaba—"
+    mc "Es... sólo necesitaba..."
 
 # game/code/Book-1/Chapter-6/s01.rpy:408
 translate spanish b1c06s01_call_rh_dc85626d:
@@ -602,7 +602,7 @@ translate spanish b1c06s01_call_rh_7f5913c7:
 translate spanish b1c06s01_call_rh_a49ed4f8:
 
     # mc "Okay."
-    mc "Bueno."
+    mc "De acuerdo."
 
 # game/code/Book-1/Chapter-6/s01.rpy:438
 translate spanish b1c06s01_call_rh_adfa9e8a:
@@ -620,7 +620,7 @@ translate spanish b1c06s01_call_rh_936e014e:
 translate spanish b1c06s01_call_rh_7e4f219d:
 
     # mct "Serves me right for not double checking the locks myself..."
-    mct "Me lo merezco por no comprobar las cerraduras yo mismo..."
+    mct "Me lo merezco por no comprobar yo mismo las cerraduras..."
 
 # game/code/Book-1/Chapter-6/s01.rpy:447
 translate spanish b1c06s01_call_rh_9f3070b9:
@@ -668,7 +668,7 @@ translate spanish b1c06s01_no_call_2201b1b8:
 translate spanish b1c06s01_no_call_a36de2ac:
 
     # mct "I'm too tired for this right now."
-    mct "Estoy demasiado cansado para esto ahora mismo."
+    mct "En este momento estoy demasiado cansado para esto."
 
 # game/code/Book-1/Chapter-6/s01.rpy:472
 translate spanish b1c06s01_no_call_91b5e3df:
