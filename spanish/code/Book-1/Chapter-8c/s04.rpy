@@ -972,5 +972,5 @@ translate spanish strings:
 translate spanish b1c08cs04_sex_dad6e589:
 
     # "You pull out just as your bodies work themselves into oversensitivity."
-    "You pull out just as your bodies work themselves into oversensitivity."
+    "Te retiras justo cuando sus cuerpos se vuelven hipersensibles."
 
