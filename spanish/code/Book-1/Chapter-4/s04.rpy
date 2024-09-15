@@ -8,7 +8,7 @@ translate spanish b1c04s04_37fb2337:
 translate spanish b1c04s04_b64a69ec:
 
     # mct "With all these groups, no wonder the investigation failed the first time. They're covert and shrewd. The members protect the soft underbellies of these communities."
-    mct "Con todos estos grupos, con razón la investigación fracasó la primera vez. Son encubiertos y astutos. Los miembros protegen los puntos débiles de estas comunidades."
+    mct "Con todos estos grupos, no es de extrañar que la investigación fracasara la primera vez. Actúan de forma encubierta y astuta. Sus miembros protegen los puntos débiles de estas comunidades."
 
 # game/code/Book-1/Chapter-4/s04.rpy:31
 translate spanish b1c04s04_56777004:
@@ -56,7 +56,7 @@ translate spanish b1c04s04_33f1dee8:
 translate spanish b1c04s04_d4d9969a:
 
     # mot "Phoebe!"
-    mot "Phoebe!"
+    mot "¡Phoebe!"
 
 # game/code/Book-1/Chapter-4/s04.rpy:75
 translate spanish b1c04s04_507fbe87:
@@ -92,7 +92,7 @@ translate spanish b1c04s04_85fa5e0c:
 translate spanish b1c04s04_3e727481:
 
     # "Josie ignores you. Instead, she delicately removes her pajamas and panties. Then she slides her night shirt off."
-    "Josie te ignora. En cambio, se quita delicadamente el pijama y las bragas. Luego se quita la camisa de dormir."
+    "Josie te ignora. En cambio, se quita delicadamente el pijama y los calzones. Luego se quita la camisa de dormir."
 
 # game/code/Book-1/Chapter-4/s04.rpy:105
 translate spanish b1c04s04_4869cf64:
@@ -116,7 +116,7 @@ translate spanish b1c04s04_32d843cc:
 translate spanish b1c04s04_1cc0e165:
 
     # mct "Is this a prank? She doesn't seem the type, but... Why is she being so quiet?"
-    mct "¿Es esto una broma? No parece del tipo, pero... ¿Por qué está tan callada?"
+    mct "¿Es esto una broma? No parece una broma, pero... ¿Por qué está tan callada?"
 
 # game/code/Book-1/Chapter-4/s04.rpy:112
 translate spanish b1c04s04_e8eba8cc:
@@ -140,7 +140,7 @@ translate spanish b1c04s04_2ae8870d:
 translate spanish b1c04s04_11bb0948:
 
     # mct "Something's seriously wrong with her. She can't just wander campus naked like that. I have to go after her."
-    mct "Algo anda muy mal con ella. No puede simplemente vagar por el campus desnuda así. Tengo que ir tras ella."
+    mct "Algo anda muy mal con ella. No puede simplemente vagar por el campus desnuda. Tengo que ir tras ella."
 
 # game/code/Book-1/Chapter-4/s04.rpy:127
 translate spanish b1c04s04_7d1a797d:
