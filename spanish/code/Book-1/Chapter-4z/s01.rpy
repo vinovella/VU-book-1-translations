@@ -2,7 +2,7 @@
 translate spanish b1c04zs01_10358d58:
 
     # mct "Diana gave me Zemfira's class schedule. I should check that to see where Zemfira's at, right now."
-    mct "Diana me dio el horario de clases de Zemfira. Debería revisar eso para ver dónde está Zemfira, ahora mismo."
+    mct "Diana me dio el horario de clases de Zemfira. Debería comprobarlo para ver dónde está Zemfira actualmente."
 
 # game/code/Book-1/Chapter-4z/s01.rpy:16
 translate spanish b1c04zs01_87cc21a4:
@@ -14,7 +14,7 @@ translate spanish b1c04zs01_87cc21a4:
 translate spanish b1c04zs01_3b5abb1d:
 
     # mct "I'll need to make sure I do this right, so she doesn't become hostile to me."
-    mct "Tendré que asegurarme de hacer esto bien, para que ella no se vuelva hostil hacia mí."
+    mct "Tendré que asegurarme de hacerlo bien, para que no se vuelva hostil conmigo."
 
 # game/code/Book-1/Chapter-4z/s01.rpy:26
 translate spanish b1c04zs01_1e26850c:
@@ -266,7 +266,7 @@ translate spanish b01c04zs01m01_9754fede:
 translate spanish b01c04zs01m01_ee18f9b3:
 
     # ffl "She just needs to go blow a few rounds in a target or two and she'll be all good."
-    ffl "Sólo tiene que hacer un par de disparos en un blanco y estará bien."
+    ffl "Sólo tiene que ir a hacer unos cuantos disparos en un campo de tiro o dos y estará bien."
 
 # game/code/Book-1/Chapter-4z/s01.rpy:159
 translate spanish b01c04zs01m01_70544d2a:
@@ -302,7 +302,7 @@ translate spanish b01c04zs01m01_db450a23:
 translate spanish b01c04zs01m01_178d157c:
 
     # ffl "Don't worry though. I doubt Zemfira would ever shoot a person."
-    ffl "Pero no te preocupes. Dudo que Zemfira le dispare alguna vez a una persona."
+    ffl "Pero no te preocupes. Dudo que alguna vez Zemfira le dispare a una persona."
 
 # game/code/Book-1/Chapter-4z/s01.rpy:174
 translate spanish b01c04zs01m01_b289456c:
@@ -326,7 +326,7 @@ translate spanish b01c04zs01m01_3f5b9b7d:
 translate spanish b01c04zs01m01_7352d470:
 
     # mct "I should devise a way to meet Zemfira at the range. That would be a good opportunity to talk to her one on one."
-    mct "Debería idear una forma de reunirme con Zemfira en el campo de tiro. Esa sería una buena oportunidad para hablar con ella uno a uno."
+    mct "Debería idear una manera de encontrarme con Zemfira en el campo de tiro. Sería una buena oportunidad para hablar con ella cara a cara."
 
 # game/code/Book-1/Chapter-4z/s01.rpy:183
 translate spanish b01c04zs01m01_33e1f6ec:
@@ -470,7 +470,7 @@ translate spanish b01c04zs01m02_29f3ea7d:
 translate spanish b01c04zs01m02_ae3b2795:
 
     # ffl "I'd be down to make a deal with the devil if it means I don't have to worry about money."
-    ffl "Estaría dispuesta a hacer un trato con el diablo si eso significa que no tengo que preocuparme por el dinero."
+    ffl "Estaría dispuesta a hacer un pacto con el diablo si eso significa que no tengo que preocuparme por el dinero."
 
 # game/code/Book-1/Chapter-4z/s01.rpy:254
 translate spanish b01c04zs01m02_738b72c4:
@@ -536,7 +536,7 @@ translate spanish b01c04zs01m02_a05fa2ea:
 translate spanish b01c04zs01m02_1d26a652:
 
     # mc "So I'm just sort of doing a little bit of everything. Things that I could see myself doing for the rest of my life, anyway."
-    mc "Así que solo estoy haciendo un poco de todo. Cosas que podría verme haciendo por el resto de mi vida, de todos modos."
+    mc "Así que solo estoy haciendo un poco de todo. Cosas que podría verme haciendo por el resto de mi vida."
 
 # game/code/Book-1/Chapter-4z/s01.rpy:277
 translate spanish b01c04zs01m02_0dbcf34d:
@@ -560,7 +560,7 @@ translate spanish b01c04zs01m02_f8bac0db:
 translate spanish b01c04zs01m02_c9318ec3:
 
     # ffl "Wow! That's incredible. You must be so well traveled."
-    ffl "¡Vaya! Eso es increíble. Debes de haber viajado mucho."
+    ffl "¡Wow! Eso es increíble. Debes de haber viajado mucho."
 
 # game/code/Book-1/Chapter-4z/s01.rpy:288
 translate spanish b01c04zs01m02_c7605aad:
@@ -638,13 +638,13 @@ translate spanish b01c04zs01m02_cd9e26c4:
 translate spanish b01c04zs01m02_a06689bf:
 
     # mc "But why are you looking so much into the dark web? I imagine seeing people's true colors can't be pleasant all the time."
-    mc "Pero, ¿por qué estás investigando tanto en la dark web? Me imagino que ver los verdaderos colores de las personas no puede ser agradable todo el tiempo."
+    mc "Pero, ¿por qué investigas tanto la web oscura? Imagino que ver los verdaderos colores de la gente no puede ser agradable todo el tiempo."
 
 # game/code/Book-1/Chapter-4z/s01.rpy:326
 translate spanish b01c04zs01m02_a23a5e0b:
 
     # ffl "You're right. It's not."
-    ffl "Tienes razón. No la tienes."
+    ffl "Tienes razón. No lo es."
 
 # game/code/Book-1/Chapter-4z/s01.rpy:327
 translate spanish b01c04zs01m02_f5e85a8b:
@@ -686,7 +686,7 @@ translate spanish b01c04zs01m02_70544125:
 translate spanish b01c04zs01m02_0661809a:
 
     # ffl "You'll need to download the Tor browser. Can't get very far without that."
-    ffl "Deberás descargar el navegador Tor. No puedo llegar muy lejos sin eso."
+    ffl "Necesitarás descargar el navegador Tor. No se puede llegar muy lejos sin eso."
 
 # game/code/Book-1/Chapter-4z/s01.rpy:344
 translate spanish b01c04zs01m02_7bc0ce71:
@@ -704,7 +704,7 @@ translate spanish b01c04zs01m02_6fd9d370:
 translate spanish b01c04zs01m02_8ee6a1dc:
 
     # "{color=988787}Professor{/color}" "Okay everyone, that's class over. Hopefully {i}some{/i} of you took notes."
-    "{color=988787}Profesor{/color}" "Bien, todos, se acabó la clase. Con suerte, {i}algunos{/i} de ustedes tomaron notas."
+    "{color=988787}Profesor{/color}" "Bien, se terminó la clase. Espero que {i}algunos{/i} hayan tomado notas."
 
 # game/code/Book-1/Chapter-4z/s01.rpy:354
 translate spanish b01c04zs01m02_1decfe1e:
@@ -742,7 +742,7 @@ translate spanish strings:
 
     # game/code/Book-1/Chapter-4z/s01.rpy:44
     old "Okay, sorry."
-    new "Está bien perdón."
+    new "Está bien, perdón."
 
     # game/code/Book-1/Chapter-4z/s01.rpy:189
     old "That sounds great!"
@@ -750,5 +750,5 @@ translate spanish strings:
 
     # game/code/Book-1/Chapter-4z/s01.rpy:189
     old "Jeez, you sure talk a lot."
-    new "Jeez, seguro que hablas mucho."
+    new "Vaya, sí que hablas mucho."
 
