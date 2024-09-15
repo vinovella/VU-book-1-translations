@@ -26,7 +26,7 @@ translate spanish b1c05s02_6741aa57:
 translate spanish b1c05s02_4774e31b:
 
     # pm "I {i}wish{/i} you were interrupting something interesting. But no, I was gathering the files so we could go over the case together."
-    pm "{i}Desearía{/i} que estuvieras interrumpiendo algo interesante. Pero no, estaba reuniendo los archivos para que pudiéramos revisar el caso juntos."
+    pm "{i}Ojalá{/i} estuvieras interrumpiendo algo interesante. Pero no, estaba reuniendo los archivos para que pudiéramos revisar juntos el caso."
 
 # game/code/Book-1/Chapter-5/s02.rpy:25
 translate spanish b1c05s02_56ddd73f:
@@ -44,13 +44,13 @@ translate spanish b1c05s02_1b90ec57:
 translate spanish b1c05s02_27549380:
 
     # mc "The basement? You gonna tie me up down there and drill me on shooting stances again?"
-    mc "¿El sótano? ¿Vas a atarme allí y entrenarme en posiciones de tiro otra vez?"
+    mc "¿El sótano? ¿Vas a atarme allí y a enseñarme posturas de disparo otra vez?"
 
 # game/code/Book-1/Chapter-5/s02.rpy:35
 translate spanish b1c05s02_8939abf2:
 
     # "The vibrant color of her lipstick catches your eye as she passes you. A playful smile tugs at her lips."
-    "El color vibrante de su barra de labios te llama la atención cuando pasa junto a ti. Una sonrisa juguetona tira de sus labios."
+    "El color vibrante de su lápiz labial te llama la atención cuando pasa a tu lado. Una sonrisa juguetona se dibuja en sus labios."
 
 # game/code/Book-1/Chapter-5/s02.rpy:38
 translate spanish b1c05s02_d399586c:
@@ -68,7 +68,7 @@ translate spanish b1c05s02_8a13720d:
 translate spanish b1c05s02_baec6c44:
 
     # mc "I'm always sharp, Martinez."
-    mc "Siempre estoy alerta, Martínez."
+    mc "Siempre estoy alerta, Martinez."
 
 # game/code/Book-1/Chapter-5/s02.rpy:54
 translate spanish b1c05s02_6b4021e4:
@@ -104,7 +104,7 @@ translate spanish b1c05s02_d0040111:
 translate spanish b1c05s02_12f9a076:
 
     # mc "Klara was captain of a volleyball team in the Vinovella University fraternity."
-    mc "Klara fue capitana de un equipo de voleibol en la fraternidad de la Universidad Vinovella."
+    mc "Klara era capitana de un equipo de voleibol en la fraternidad de la Universidad Vinovella."
 
 # game/code/Book-1/Chapter-5/s02.rpy:91
 translate spanish b1c05s02_6eb95e05:
@@ -122,7 +122,7 @@ translate spanish b1c05s02_d8de455f:
 translate spanish b1c05s02_84b89906:
 
     # pm "And I assume the volleyball team name is Winners?"
-    pm "¿Y supongo que el nombre del equipo de voleibol es Winners?"
+    pm "¿Y supongo que el nombre del equipo de voleibol es Ganadores?"
 
 # game/code/Book-1/Chapter-5/s02.rpy:100
 translate spanish b1c05s02_9da675f7:
@@ -140,7 +140,7 @@ translate spanish b1c05s02_48b7e164:
 translate spanish b1c05s02_13f4bcce:
 
     # mc "And Klara was close to a girl named Silvia Melsbach. In my investigation, I've been effective in forming a friendship with her."
-    mc "Y Klara estaba cerca de una chica llamada Silvia Melsbach. En mi investigación, he sido efectivo en formar una amistad con ella."
+    mc "Y Klara estaba muy unida a una chica llamada Silvia Melsbach. En mi investigación, he logrado entablar amistad con ella."
 
 # game/code/Book-1/Chapter-5/s02.rpy:105
 translate spanish b1c05s02_b2cdaacd:
@@ -242,7 +242,7 @@ translate spanish b1c05s02_5d3606bc:
 translate spanish b1c05s02_35519971:
 
     # mc "I know that Fleur, Nirmala, Foxy and Lilith are friends with Zemfira. I think they're tied to this group."
-    mc "Sé que Fleur, Nirmala, Foxy y Lilith son amigas de Zemfira. Creo que están atados a este grupo."
+    mc "Sé que Fleur, Nirmala, Foxy y Lilith son amigas de Zemfira. Creo que están vinculadas a este grupo."
 
 # game/code/Book-1/Chapter-5/s02.rpy:151
 translate spanish b1c05s02_14465fbf:
@@ -254,7 +254,7 @@ translate spanish b1c05s02_14465fbf:
 translate spanish b1c05s02_fc9a99d3:
 
     # mc "I don't think that's her real name, but that's what I've heard her called."
-    mc "No creo que ese sea su verdadero nombre, pero así es como la escuché llamarla."
+    mc "No creo que sea su verdadero nombre, pero así es como he oído que la llaman."
 
 # game/code/Book-1/Chapter-5/s02.rpy:160
 translate spanish b1c05s02_40abfe2b:
@@ -278,19 +278,19 @@ translate spanish b1c05s02_6dce2dbe:
 translate spanish b1c05s02_2a077756:
 
     # mc "I think I can get a lot from her, or otherwise use her to get closer to the others."
-    mc "Creo que puedo obtener mucho de ella, o usarla de otra manera para acercarme a los demás."
+    mc "Creo que puedo sacar mucho de ella, o utilizarla para acercarme a los demás."
 
 # game/code/Book-1/Chapter-5/s02.rpy:170
 translate spanish b1c05s02_c0dd7ffb:
 
     # pm "She sounds like a good gateway to the others. Focus on her and see how the others react."
-    pm "Suena como una buena puerta de entrada a los demás. Concéntrate en ella y observa cómo reaccionan los demás."
+    pm "Parece una buena puerta de entrada para los demás. Céntrate en ella y observa cómo reaccionan los demás."
 
 # game/code/Book-1/Chapter-5/s02.rpy:175
 translate spanish b1c05s02_58de23cb:
 
     # pm "Are they involved in anything?"
-    pm "¿Están involucrados en algo?"
+    pm "¿Están involucradas en algo?"
 
 # game/code/Book-1/Chapter-5/s02.rpy:178
 translate spanish b1c05s02_c51b9e6e:
@@ -302,7 +302,7 @@ translate spanish b1c05s02_c51b9e6e:
 translate spanish b1c05s02_18f4124c:
 
     # mc "But they're more attached to each other than anyone else. They're just buddies with other students around campus."
-    mc "Pero están más apegados el uno al otro que a cualquier otra persona. Son solo amigos de otros estudiantes en el campus."
+    mc "Pero están más apegadas la una a la otra que a cualquier otra persona. Son solo amigas de otros estudiantes en el campus."
 
 # game/code/Book-1/Chapter-5/s02.rpy:183
 translate spanish b1c05s02_976e0ac3:
@@ -332,7 +332,7 @@ translate spanish b1c05s02_76a9b0b0:
 translate spanish b1c05s02_603bdff3:
 
     # pm "Yeesh. Be careful out there. Spiritual brainwashing creeps me the fuck out."
-    pm "Sí. Ten cuidado ahí fuera. El lavado de cerebro espiritual me da escalofríos."
+    pm "Sí. Ten cuidado ahí fuera. El lavado de cerebro espiritual me pone los pelos de punta."
 
 # game/code/Book-1/Chapter-5/s02.rpy:197
 translate spanish b1c05s02_e6bfacd3:
@@ -362,19 +362,19 @@ translate spanish b1c05s02_f1245494:
 translate spanish b1c05s02_7187c543:
 
     # mc "There's also an artist that Maria was friends with. I think he could be a useful resource on Maria as well."
-    mc "También hay un artista del que María era amiga. Creo que también podría ser un recurso útil sobre María."
+    mc "También hay una artista de la que María era amiga. Creo que también podría ser un recurso útil sobre María."
 
 # game/code/Book-1/Chapter-5/s02.rpy:208
 translate spanish b1c05s02_bfc715ea:
 
     # mc "I'm not sure if Maria was closer to Nia, or this artist."
-    mc "No estoy seguro si María estaba más cerca de Nia o de este artista."
+    mc "No estoy seguro si María estaba más cerca de Nia o de esta artista."
 
 # game/code/Book-1/Chapter-5/s02.rpy:211
 translate spanish b1c05s02_1c467550:
 
     # pm "Interesting. I suggest you talk more to Sally. See if you can get a read on the group through her eyes. But the artist may also be a very valuable source of info..."
-    pm "Interesante. Te sugiero que hables más con Sally. A ver si puedes obtener una lectura del grupo a través de sus ojos. Pero el artista también puede ser una valiosa fuente de información..."
+    pm "Interesante. Te sugiero que hables más con Sally. A ver si puedes obtener una lectura del grupo a través de sus ojos. Pero la artista también puede ser una fuente muy valiosa de información..."
 
 # game/code/Book-1/Chapter-5/s02.rpy:214
 translate spanish b1c05s02_f55f0e46:
@@ -404,7 +404,7 @@ translate spanish b1c05s02_932e106e:
 translate spanish b1c05s02_17cb8e86:
 
     # mc "This guy is a higher-ranking member of the spiritual community. Nia looks up to him."
-    mc "Este tipo es un miembro de alto rango de la comunidad espiritual. Nia lo admira.."
+    mc "Este tipo es un miembro de alto rango de la comunidad espiritual. Nia lo admira."
 
 # game/code/Book-1/Chapter-5/s02.rpy:227
 translate spanish b1c05s02_3605bbc8:
@@ -440,13 +440,13 @@ translate spanish b1c05s02_09ce4d90:
 translate spanish b1c05s02_898e4b8e:
 
     # mc "I had a thought about that, actually.{w} There isn't one."
-    mc "Tuve un pensamiento sobre eso, en realidad. {w} No hay uno."
+    mc "Tuve un pensamiento sobre eso, en realidad. {w} No hay una conexión."
 
 # game/code/Book-1/Chapter-5/s02.rpy:249
 translate spanish b1c05s02_5c9b3666:
 
     # pm "Seriously? You don't think that three girls who went missing the same night {i}aren't{/i} connected?"
-    pm "¿En serio? ¿No crees que tres chicas que desaparecieron la misma noche {i} no {/i} están conectadas?"
+    pm "¿En serio? ¿No crees que tres chicas que desaparecieron la misma noche {i}no{/i} están conectadas?"
 
 # game/code/Book-1/Chapter-5/s02.rpy:252
 translate spanish b1c05s02_cd77588b:
@@ -464,7 +464,7 @@ translate spanish b1c05s02_24d92f57:
 translate spanish b1c05s02_5d1f58f1:
 
     # mc "I think we need to focus our sights on those individual communities, rather than looking for a single threat."
-    mc "Creo que debemos centrar nuestra atención en esas comunidades individuales, en lugar de buscar una sola amenaza."
+    mc "Creo que debemos centrar nuestras miras en esas comunidades individualmente, en lugar de buscar una única amenaza."
 
 # game/code/Book-1/Chapter-5/s02.rpy:260
 translate spanish b1c05s02_e72ae27c:
@@ -488,7 +488,7 @@ translate spanish b1c05s02_0ff5a94b:
 translate spanish b1c05s02_2c074eec:
 
     # mc "Ronja requires more investigation. And Greg is just Sally's brother. He helped Sally get back on her feet after she escaped her cult situation."
-    mc "Ronja requiere más investigación. Y Greg es solo el hermano de Sally. Ayudó a Sally a recuperarse después de que ella escapó de su situación de culto."
+    mc "Ronja requiere más investigación. Y Greg es solo el hermano de Sally. Ayudó a Sally a recuperarse después de que ella escapó de su situación con el culto."
 
 # game/code/Book-1/Chapter-5/s02.rpy:271
 translate spanish b1c05s02_98df67e7:
@@ -518,7 +518,7 @@ translate spanish b1c05s02_f800bed0:
 translate spanish b1c05s02_1d769c89:
 
     # mc "Next up is this section."
-    mc "El siguiente es este apartado."
+    mc "La siguiente es esta sección."
 
 # game/code/Book-1/Chapter-5/s02.rpy:297
 translate spanish b1c05s02_d8ab887c:
@@ -548,7 +548,7 @@ translate spanish b1c05s02_954741cf:
 translate spanish b1c05s02_cd17a7c3:
 
     # mc "After all, cults prey on those seeking healing."
-    mc "Después de todo, las sectas se aprovechan de aquellos que buscan curación."
+    mc "Al fin y al cabo, las sectas se aprovechan de quienes buscan la sanación."
 
 # game/code/Book-1/Chapter-5/s02.rpy:309
 translate spanish b1c05s02_41e706cd:
@@ -560,7 +560,7 @@ translate spanish b1c05s02_41e706cd:
 translate spanish b1c05s02_75f62cec:
 
     # mc "Any info on the self-help or the cult could lead to more information on Maria."
-    mc "Cualquier información sobre la autoayuda o el culto podría conducir a más información sobre María."
+    mc "Cualquier información sobre el grupo de autoayuda o la secta podría conducir a más información sobre María."
 
 # game/code/Book-1/Chapter-5/s02.rpy:313
 translate spanish b1c05s02_7c4e4781:
@@ -584,7 +584,7 @@ translate spanish b1c05s02_1e2e1c4c:
 translate spanish b1c05s02_3eb16bed:
 
     # mc "This is the entire Winner's volleyball team."
-    mc "Este es todo el equipo de voleibol de Winner."
+    mc "Este es todo el equipo de voleibol de los Ganadores."
 
 # game/code/Book-1/Chapter-5/s02.rpy:330
 translate spanish b1c05s02_6959b521:
@@ -596,7 +596,7 @@ translate spanish b1c05s02_6959b521:
 translate spanish b1c05s02_12a3c9d0:
 
     # mc "There's more to the Winner's Club, but I haven't had a chance to investigate their fraternity further."
-    mc "Hay más en el Club de Ganadores, pero no he tenido la oportunidad de investigar más a fondo su fraternidad."
+    mc "Hay más en el Club de los Ganadores, pero no he tenido la oportunidad de investigar más a fondo su fraternidad."
 
 # game/code/Book-1/Chapter-5/s02.rpy:336
 translate spanish b1c05s02_2e961bcf:
@@ -626,7 +626,7 @@ translate spanish b1c05s02_40b625fb:
 translate spanish b1c05s02_616826ee:
 
     # pm "So, what, you're just gonna seduce and use as many women as you want?"
-    pm "Entonces, ¿qué, vas a seducir y usar a tantas mujeres como quieras?"
+    pm "Entonces, ¿vas a seducir y utilizar a todas las mujeres que quieras?"
 
 # game/code/Book-1/Chapter-5/s02.rpy:351
 translate spanish b1c05s02_158788ee:
@@ -674,13 +674,13 @@ translate spanish b1c05s02_8a7a7cd0:
 translate spanish b1c05s02_3ecb4e80:
 
     # mc "But I miss you, Phoebe.{w} So much."
-    mc "Pero te extraño, Phoebe. {w} Tanto."
+    mc "Pero te extraño, Phoebe. {w} Demasiado."
 
 # game/code/Book-1/Chapter-5/s02.rpy:367
 translate spanish b1c05s02_735b5d46:
 
     # "Phoebe loses herself in your eyes, and you glance at her lips, remembering a time when you could have those lips anytime you wanted."
-    "Phoebe se pierde en tus ojos y miras sus labios, recordando una época en la que podías tener esos labios cuando quisieras."
+    "Phoebe se pierde en tus ojos y tú miras sus labios, recordando una época en la que podías tener esos labios cuando quisieras."
 
 # game/code/Book-1/Chapter-5/s02.rpy:370
 translate spanish b1c05s02_03cb8291:
@@ -734,7 +734,7 @@ translate spanish b1c05s02_f4740924:
 translate spanish b1c05s02_290a7473:
 
     # mc "Oh, there is one thing, though."
-    mc "Oh, hay una cosa, sin embargo."
+    mc "Oh, aunque hay una cosa."
 
 # game/code/Book-1/Chapter-5/s02.rpy:398
 translate spanish b1c05s02_8e9c6693:
@@ -752,7 +752,7 @@ translate spanish b1c05s02_c3fe13c3:
 translate spanish b1c05s02_20c468ec:
 
     # mc "I need an explanation for her, though I'm not sure what to say.{w} I'm worried she'll ask about it in front of someone and blow my cover, though."
-    mc "Necesito una explicación para ella, aunque no estoy seguro de qué decir. {w} Sin embargo, me preocupa que lo pregunte frente a alguien y me descubra."
+    mc "Necesito tener una explicación para ella, aunque no estoy seguro de qué decir.{w} Me preocupa que me lo pregunte delante de alguien y me descubra."
 
 # game/code/Book-1/Chapter-5/s02.rpy:405
 translate spanish b1c05s02_b9497439:
@@ -776,13 +776,13 @@ translate spanish b1c05s02_9951e21a:
 translate spanish b1c05s02_8d9b0541:
 
     # pm "You'd be surprised what you can convince people of if you're a good enough liar. Did she ever see your real mother?"
-    pm "Te sorprendería lo que puedes convencer a la gente si eres lo suficientemente bueno para mentir. ¿Alguna vez vio a tu verdadera madre?"
+    pm "Te sorprenderías de cómo puedes convencer a la gente si mientes bien. ¿Alguna vez vio a tu verdadera madre?"
 
 # game/code/Book-1/Chapter-5/s02.rpy:417
 translate spanish b1c05s02_77329a7d:
 
     # mc "I don't think so. We didn't hang out much outside of school or social gatherings. She didn't come over to my place or hang out with my family."
-    mc "No me parece. No salíamos mucho fuera de la escuela o de las reuniones sociales. Ella no vino a mi casa ni salió con mi familia."
+    mc "No lo creo. No salíamos mucho fuera de la escuela o de reuniones sociales. No venía a mi casa ni salía con mi familia."
 
 # game/code/Book-1/Chapter-5/s02.rpy:418
 translate spanish b1c05s02_6e7df188:
@@ -794,7 +794,7 @@ translate spanish b1c05s02_6e7df188:
 translate spanish b1c05s02_80a512c4:
 
     # pm "Alright, alright. Don't wear out your welcome, now."
-    pm "Bien bien. No gastes tu bienvenida, ahora."
+    pm "Está bien, está bien. No gastes tu bienvenida, ahora."
 
 # game/code/Book-1/Chapter-5/s02.rpy:423
 translate spanish b1c05s02_6dc4442d:
@@ -824,7 +824,7 @@ translate spanish b1c05s02_45b7e52e:
 translate spanish b1c05s02_06cda1a2:
 
     # pm "You'll get it when you're my age and in my position."
-    pm "Lo obtendrás cuando tengas mi edad y estés en mi posición."
+    pm "Lo entenderás cuando tengas mi edad y estés en mi posición."
 
 # game/code/Book-1/Chapter-5/s02.rpy:436
 translate spanish b1c05s02_59c180e5:
@@ -854,7 +854,7 @@ translate spanish b1c05s02_03afe053:
 translate spanish b1c05s02_55114c40:
 
     # pm "Alright, alright. You should get back to work, though."
-    pm "Bien bien. Sin embargo, deberías volver al trabajo."
+    pm "Bien, bien. Sin embargo, deberías volver al trabajo."
 
 # game/code/Book-1/Chapter-5/s02.rpy:450
 translate spanish b1c05s02_09c854b3:
@@ -872,7 +872,7 @@ translate spanish b1c05s02_86ce6050:
 translate spanish b1c05s02_dcca5a80:
 
     # pm "Alright, it's time you get back out there, Matthew."
-    pm "Muy bien, es hora de que vuelvas, Matthew."
+    pm "Muy bien, es hora de que regreses, Matthew."
 
 # game/code/Book-1/Chapter-5/s02.rpy:462
 translate spanish b1c05s02_40595152:
