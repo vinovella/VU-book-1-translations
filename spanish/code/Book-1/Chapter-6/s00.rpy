@@ -8,7 +8,7 @@ translate spanish b1c06_start_52754740:
 translate spanish b1c06_start_2a9e0b83:
 
     # mct "Barely got any actual investigation done the last couple days beyond juggling the school faculty."
-    mct "Apenas se hizo una investigación real en los últimos dos días más allá de hacer malabarismos con la facultad de la escuela."
+    mct "Apenas he investigado nada estos dos últimos días, aparte de hacer malabarismos con los profesores."
 
 # game/code/Book-1/Chapter-6/s00.rpy:92
 translate spanish b1c06_start_78427721:
@@ -32,13 +32,13 @@ translate spanish b1c06_start_fecc2e73:
 translate spanish b1c06_no_transition_8d65ef99:
 
     # mct "I had some pretty good days with the team recently.{w} Well, some of them anyway."
-    mct "Tuve algunos días bastante buenos con el equipo. Bueno, al menos algunos de ellos."
+    mct "Tuve algunos días bastante buenos recientemente con el equipo. Bueno, al menos algunos de ellos."
 
 # game/code/Book-1/Chapter-6/s00.rpy:145
 translate spanish b1c06_no_transition_c89cc400:
 
     # mct "I need to figure out a way to get closer to the more uptight members fast before I get stalled."
-    mct "Necesito encontrar una manera de acercarme rápidamente a los miembros más tensos antes de que me estanque."
+    mct "Tengo que encontrar la manera de acercarme a los miembros más tensos rápidamente antes de que me lo impidan."
 
 # game/code/Book-1/Chapter-6/s00.rpy:149
 translate spanish b1c06_no_transition_590b2790:
@@ -68,7 +68,7 @@ translate spanish b1c06_no_transition_fecc2e73:
 translate spanish b1c06_no_transition_d59a2c78:
 
     # mct "Gathered a lot of info on Nia and Delphia today. Not to mention Sally..."
-    mct "Reuní mucha información sobre Nia y Delphia hoy. Por no hablar de Sally..."
+    mct "Hoy reuní mucha información sobre Nia y Delphia. Sin mencionar a Sally..."
 
 # game/code/Book-1/Chapter-6/s00.rpy:164
 translate spanish b1c06_no_transition_811d3515:
@@ -110,7 +110,7 @@ translate spanish b1c06_no_transition_c63410b2:
 translate spanish b1c06_no_transition_62e97971:
 
     # mct "If Morgan is anything to go by, it sounds like some sort of underground fight club. But is that it?"
-    mct "Si Morgan es algo por lo que pasar, suena como una especie de club de lucha clandestino. ¿Pero es eso?"
+    mct "Si nos guiamos por Morgan, parece una especie de club de lucha clandestino. ¿Pero es eso?"
 
 # game/code/Book-1/Chapter-6/s00.rpy:185
 translate spanish b1c06_no_transition_da4b1de7:
