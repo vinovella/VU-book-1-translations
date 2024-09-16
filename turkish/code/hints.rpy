@@ -301,8 +301,8 @@
     new "She doesn't like feeling pitied, even if that wasn't your intention. 0 points with Zemfira."
 
     # game/code/hints.rpy:11
-    old "You match Sabrina and Q's energy."
-    new "You match Sabrina and Q's energy."
+    old "You match Sabrina and Q's energy. +1 point with Sabrina."
+    new "You match Sabrina and Q's energy. +1 point with Sabrina."
 
     # game/code/hints.rpy:11
     old "You think it's kinda awkward how Sabrina and Q act."

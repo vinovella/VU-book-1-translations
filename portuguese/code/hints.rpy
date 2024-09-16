@@ -303,7 +303,7 @@ translate portuguese strings:
     new ""
 
     # game/code/hints.rpy:11
-    old "You match Sabrina and Q's energy."
+    old "You match Sabrina and Q's energy. +1 point with Sabrina."
     new ""
 
     # game/code/hints.rpy:11
@@ -989,4 +989,3 @@ translate portuguese strings:
     # game/code/hints.rpy:11
     old "You keep going. You'll get to creampie {}."
     new ""
-
