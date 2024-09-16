@@ -20,7 +20,7 @@ translate spanish b1c06_start_78427721:
 translate spanish b1c06_start_fd6e0d5c:
 
     # mct "At least I got to meet Pheobe again. {w}I need to have some more concrete info next time we meet."
-    mct "Al menos conseguí ver a Phoebe de nuevo. {w}Necesito información más concreta la próxima vez que nos veamos."
+    mct "Al menos conseguí ver a Phoebe de nuevo. {w}Necesito información más concreta para la próxima vez que nos veamos."
 
 # game/code/Book-1/Chapter-6/s00.rpy:96
 translate spanish b1c06_start_fecc2e73:
