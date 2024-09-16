@@ -32,7 +32,7 @@ translate spanish b1c06ss01_8aee0ec7:
 translate spanish b1c06ss01_6a62af1a:
 
     # ffl "\"My brother in Christ, I would {i}prefer{/i} not to live in a gray, damp, sterile shithole for four years like some sort of political prisoner.\""
-    ffl "\"Mi hermano en Cristo, yo {i}preferiría{/i} no vivir en un agujero gris, húmedo y estéril durante cuatro años como una especie de preso político.\""
+    ffl "\"Mi hermano en Cristo, yo {i}preferiría{/i} no vivir en un agujero de mierda gris, húmedo y estéril durante cuatro años que en el de algún tipo de preso político.\""
 
 # game/code/Book-1/Chapter-6s/s01.rpy:35
 translate spanish b1c06ss01_40fbae91:
@@ -296,7 +296,7 @@ translate spanish b1c06ss01_5d536cf4:
 translate spanish b1c06ss01_bfd28876:
 
     # mc "Real shit? Might need to get that tattooed somewhere then."
-    mc "¿Mierda de verdad? Puede que tenga que tatuarse eso en alguna parte entonces."
+    mc "¿Mierda de verdad? Puede que tengas que tatuarte eso en alguna parte entonces."
 
 # game/code/Book-1/Chapter-6s/s01.rpy:154
 translate spanish b1c06ss01_30754aff:
@@ -362,7 +362,7 @@ translate spanish b1c06ss01_99be9322:
 translate spanish b1c06ss01_aaecc756:
 
     # ffl "Oh! Right. Almost completely forgot why we even came here."
-    ffl "¡Oh! Bien. Casi olvidé por completo por qué vinimos aquí."
+    ffl "¡Oh! Cierto. Casi olvido por completo por qué habíamos venido aquí."
 
 # game/code/Book-1/Chapter-6s/s01.rpy:189
 translate spanish b1c06ss01_d1e523b4:
@@ -373,7 +373,7 @@ translate spanish b1c06ss01_d1e523b4:
 # game/code/Book-1/Chapter-6s/s01.rpy:195
 translate spanish b1c06ss01_33ce0f13:
 
-    # ffl "Oop, not that one. "
+    # ffl "Oop, not that one."
     ffl "Vaya, ese no."
 
 # game/code/Book-1/Chapter-6s/s01.rpy:207
@@ -404,7 +404,7 @@ translate spanish b1c06ss01_3a41c014:
 translate spanish b1c06ss01_45d15e47:
 
     # ffl "Okay, okay, where was I?{w} Dark web, right.{w} So, first things first..."
-    ffl "Bien, bien, ¿dónde estaba? {w} Dark web, cierto. {w} Entonces, lo primero es lo primero..."
+    ffl "Bien, bien, ¿dónde estaba?{w} La web oscura, correcto. Así que, lo primero es lo primero..."
 
 # game/code/Book-1/Chapter-6s/s01.rpy:240
 translate spanish b1c06ss01_2613db14:
@@ -470,7 +470,7 @@ translate spanish b1c06ss01_1144589c:
 translate spanish b1c06ss01_2c2246d7:
 
     # mc "I... What?"
-    mc "Yo... ¡Qué?"
+    mc "Yo... ¿Qué?"
 
 # game/code/Book-1/Chapter-6s/s01.rpy:272
 translate spanish b1c06ss01_759e68f5:
@@ -566,13 +566,13 @@ translate spanish b1c06ss01_1f61d7e3:
 translate spanish b1c06ss01_7e085b30:
 
     # mc "Who would've ever thought?"
-    mc "¿Quién lo hubiera pensado alguna vez?"
+    mc "¿Quién lo hubiera pensado?"
 
 # game/code/Book-1/Chapter-6s/s01.rpy:319
 translate spanish b1c06ss01_92842b39:
 
     # ffl "Exactly.{w} Oh! I know. Do you know Guns n' Rosette?"
-    ffl "Exactamente. {w} ¡Oh! Lo sé. ¿Conoces a Guns n' Rosette?"
+    ffl "Exactamente.{w} ¡Oh! Lo sé. ¿Conoces Guns n' Rosette?"
 
 # game/code/Book-1/Chapter-6s/s01.rpy:321
 translate spanish b1c06ss01_5882a379:
@@ -602,7 +602,7 @@ translate spanish b1c06ss01_8251ffb4:
 translate spanish b1c06ss01_1307de82:
 
     # ffl "Uhm, hey. I'm so sorry, but I gotta run real quick. Gotta go take care of a thing."
-    ffl "Hola. Lo siento mucho, pero tengo que irme ahora. Tengo que ocuparme de una cosa."
+    ffl "Uhm. Lo siento mucho, pero tengo que irme ahora. Tengo que ocuparme de una cosa."
 
 # game/code/Book-1/Chapter-6s/s01.rpy:334
 translate spanish b1c06ss01_b4ec9aed:
@@ -626,7 +626,7 @@ translate spanish b1c06ss01_3d3a9387:
 translate spanish b1c06ss01_45ee6e05:
 
     # ffl "Whoops."
-    ffl "¡Vaya!"
+    ffl "¡Whoops!"
 
 # game/code/Book-1/Chapter-6s/s01.rpy:355
 translate spanish b1c06ss01_f748eb1b:
