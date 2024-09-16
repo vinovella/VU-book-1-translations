@@ -8,13 +8,13 @@ translate spanish b1c06cs03_cef2e190:
 translate spanish b1c06cs03_8121205b:
 
     # dk "This is [mcname]. He's my partner for today's project."
-    dk "Este es [mcname]. Es mi socio para el proyecto de hoy."
+    dk "Este es [mcname]. Es mi compañero para el proyecto de hoy."
 
 # game/code/Book-1/Chapter-6c/s03.rpy:25
 translate spanish b1c06cs03_8b836ea3:
 
     # kd "Oh, I see. Go to your desk, then. Class is starting now."
-    kd "Ah, ya veo. Ve a tu pupitre. La clase esta comenzando ahora."
+    kd "Ah, ya veo. Ve a tu pupitre, entonces. La clase está empezando ahora."
 
 # game/code/Book-1/Chapter-6c/s03.rpy:26
 translate spanish b1c06cs03_ceaef9d6:
@@ -26,7 +26,7 @@ translate spanish b1c06cs03_ceaef9d6:
 translate spanish b1c06cs03_8d742d42:
 
     # kd "On your desk, there's a lump of clay. We'll be transforming that into Greek inspired pots today."
-    kd "En tu pupitre, hay un trozo de arcilla. Hoy lo transformaremos en vasijas de inspiración Griega."
+    kd "En sus pupitres, hay un trozo de arcilla. Hoy lo transformaremos en vasijas de inspiración Griega."
 
 # game/code/Book-1/Chapter-6c/s03.rpy:37
 translate spanish b1c06cs03_d123f524:
@@ -80,7 +80,7 @@ translate spanish b1c06cs03_bc2b0df4:
 translate spanish b1c06cs03_1b68bdd1:
 
     # dk "Here, let me show you how to create the base of the pot."
-    dk "Aquí, déjame mostrarte cómo crear la base de la olla."
+    dk "Aquí, déjame mostrarte cómo crear la base de la vasija."
 
 # game/code/Book-1/Chapter-6c/s03.rpy:62
 translate spanish b1c06cs03_b1eb0924:
@@ -128,7 +128,7 @@ translate spanish b1c06cs03_25446b40:
 translate spanish b1c06cs03_eba93fb7:
 
     # dk "It's only fair, considering you've seen all of me."
-    dk "Es justo, considerando que me has visto toda."
+    dk "Es justo, teniendo en cuenta que has visto todo de mí."
 
 # game/code/Book-1/Chapter-6c/s03.rpy:101
 translate spanish b1c06cs03_db68ed73:
@@ -176,7 +176,7 @@ translate spanish b1c06cs03_a4339c2a:
 translate spanish b1c06cs03_6abf4005:
 
     # dk "Chop, chop. You form the pot itself, I'm going to work on the handles."
-    dk "Cortar, cortar. Tú moldea la olla, y yo me ocupo de las asas."
+    dk "Corta, corta. Tú moldeas la vasija, yo voy a trabajar en las manijas."
 
 # game/code/Book-1/Chapter-6c/s03.rpy:144
 translate spanish b1c06cs03_5807e6a8:
@@ -224,7 +224,7 @@ translate spanish b1c06cs03_0d853e36:
 translate spanish b1c06cs03_df32c464:
 
     # dk "My parents worshiped Dionysus. I've always been surrounded by Greek theology."
-    dk "Mis padres adoraban a Dionisio. Siempre me ha rodeada la teología Griega."
+    dk "Mis padres adoraban a Dionisio. Siempre he estado rodeada de teología griega."
 
 # game/code/Book-1/Chapter-6c/s03.rpy:162
 translate spanish b1c06cs03_c408abe1:
@@ -368,7 +368,7 @@ translate spanish b1c06cs03_ca57e0cc:
 translate spanish b1c06cs03_d5c9c517:
 
     # dk "We're finished assembling the pot."
-    dk "Terminamos de armar la olla."
+    dk "Terminamos de armar la vasija."
 
 # game/code/Book-1/Chapter-6c/s03.rpy:227
 translate spanish b1c06cs03_1cd4e0ca:
@@ -392,7 +392,7 @@ translate spanish b1c06cs03_c86cb7e8:
 translate spanish b1c06cs03_c188be08:
 
     # dk "I'm just saying. I understand the traditional way of coloring the pots is a bit much for our campus kiln, but still."
-    dk "Sólo digo. Entiendo que la forma tradicional de colorear las ollas es demasiado para nuestro horno del campus, pero aún así."
+    dk "Sólo digo. Entiendo que la forma tradicional de colorear las vasijas es demasiado para nuestro horno del campus, pero aún así."
 
 # game/code/Book-1/Chapter-6c/s03.rpy:238
 translate spanish b1c06cs03_08a71a94:
@@ -488,7 +488,7 @@ translate spanish b1c06cs03_b96430ee:
 translate spanish b1c06cs03_d4ce2a57:
 
     # mc "Why do I feel like they don't make it safely across..."
-    mc "¿Por qué siento que no logran cruzar con seguridad..."
+    mc "Por qué siento que no logran cruzar con seguridad..."
 
 # game/code/Book-1/Chapter-6c/s03.rpy:288
 translate spanish b1c06cs03_2aa1ed26:
@@ -734,7 +734,7 @@ translate spanish b1c06cs03_a4203633:
 translate spanish b1c06cs03_f960c063:
 
     # dk "Not yet.{w} But I know my moment will come. In time."
-    dk "Todavía no. {w} Pero sé que llegará mi momento. A tiempo."
+    dk "Todavía no. {w} Pero sé que llegará mi momento. Con el tiempo."
 
 # game/code/Book-1/Chapter-6c/s03.rpy:391
 translate spanish b1c06cs03_076f5363:
@@ -776,7 +776,7 @@ translate spanish b1c06cs03_cf124e8e:
 translate spanish b1c06cs03_974524ca:
 
     # kd "I'll let you all know when your pot has dried fully."
-    kd "Les avisaré a todos cuando su olla se haya secado por completo."
+    kd "Les avisaré a todos cuando sus vasijas se hayan secado por completo."
 
 # game/code/Book-1/Chapter-6c/s03.rpy:418
 translate spanish b1c06cs03_ea0ee161:
