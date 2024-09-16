@@ -50,7 +50,7 @@ translate spanish b1c06cs05_b699f1dc:
 translate spanish b1c06cs05_4fc493e9:
 
     # mc "Hey! What the fu—!?"
-    mc "¡Ey! ¡¿Qué diablos—!?"
+    mc "¡Ey! ¿¡Qué diablos—!?"
 
 # game/code/Book-1/Chapter-6c/s05.rpy:69
 translate spanish b1c06cs05_2a6a266e:
@@ -314,7 +314,7 @@ translate spanish b1c06cs05_order_a07a0a59:
 translate spanish b1c06cs05_order_a1c10abd:
 
     # dk "Do you really want me that {i}badly?{/i}"
-    dk "¿De verdad me quieres tanto {i}?{/i}"
+    dk "{i}¿De verdad me quieres tanto?{/i}"
 
 # game/code/Book-1/Chapter-6c/s05.rpy:251
 translate spanish b1c06cs05_order_f34c3481:
@@ -350,7 +350,7 @@ translate spanish b1c06cs05_order_cfc08047:
 translate spanish b1c06cs05_order_c12d2e90:
 
     # "She certainly knows how to make you squirm, but you can't let her win so easily."
-    "Ciertamente sabe cómo hacerte retorcerse, pero no puedes dejar que gane tan fácilmente."
+    "Sin duda sabe cómo hacer que te retuerzas, pero no puedes dejar que gane tan fácilmente."
 
 # game/code/Book-1/Chapter-6c/s05.rpy:275
 translate spanish b1c06cs05_order_0ef87126:
@@ -362,7 +362,7 @@ translate spanish b1c06cs05_order_0ef87126:
 translate spanish b1c06cs05_order_a4125aee:
 
     # "The feeling of her body against you is incredible"
-    "La sensación de su cuerpo contra ti es increíble."
+    "La sensación de su cuerpo contra el tuyo es increíble."
 
 # game/code/Book-1/Chapter-6c/s05.rpy:291
 translate spanish b1c06cs05_order_f29b4f26:
@@ -404,7 +404,7 @@ translate spanish b1c06cs05_order_62853702:
 translate spanish b1c06cs05_order_cc423e8a:
 
     # "Barely touching, yet so teasing, she runs her delicate tongue up and down your tip, making you buck to get just a bit more of her warmth."
-    "Apenas tocando, pero tan provocativa, pasa su delicada lengua arriba y abajo de tu punta, haciéndote retroceder para obtener un poco más de su calor."
+    "Apenas te toca, pero te provoca, y te pasa su delicada lengua por la punta, haciendo que te agites para sentir un poco más de su calor."
 
 # game/code/Book-1/Chapter-6c/s05.rpy:326
 translate spanish b1c06cs05_order_049d51c8:
@@ -416,7 +416,7 @@ translate spanish b1c06cs05_order_049d51c8:
 translate spanish b1c06cs05_order_fa4b5e90:
 
     # dk "You must've been really {i}deprived{/i} to cum that much."
-    dk "Debes haber estado realmente {i}privado{/i} para correrte tanto."
+    dk "Debes haber estado muy {i}privado{/i} para correrte tanto."
 
 # game/code/Book-1/Chapter-6c/s05.rpy:341
 translate spanish b1c06cs05_order_0ea6310e:
@@ -538,7 +538,7 @@ translate spanish strings:
 
     # game/code/Book-1/Chapter-6c/s05.rpy:220
     old "Order her to continue"
-    new "Ordenarle que continúe"
+    new "Ordénale que continúe"
 
     # game/code/Book-1/Chapter-6c/s05.rpy:220
     old "Let her go"
