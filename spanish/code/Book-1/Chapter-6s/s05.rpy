@@ -20,7 +20,7 @@ translate spanish b1c06ss05_b77de702:
 translate spanish b1c06ss05_17177b6a:
 
     # mct "Guns n' Rosette's, huh? Looks like I was right. It's a bar."
-    mct "Guns n' Rosette's, ¿eh? Parece que tenía razón. es un bar"
+    mct "Guns n' Rosette's, ¿eh? Parece que tenía razón. es un bar."
 
 # game/code/Book-1/Chapter-6s/s05.rpy:43
 translate spanish b1c06ss05_2d22cf30:
@@ -212,7 +212,7 @@ translate spanish b1c06ss05_46a52aed:
 translate spanish b1c06ss05_83911bfe:
 
     # mct "Betting on today's event?"
-    mct "¿Apuestas en el evento de hoy?"
+    mct "¿Apostando en el evento de hoy?"
 
 # game/code/Book-1/Chapter-6s/s05.rpy:156
 translate spanish b1c06ss05_00ce0fe6:
@@ -230,7 +230,7 @@ translate spanish b1c06ss05_37be1100:
 translate spanish b1c06ss05_ad8e171e:
 
     # nr "Hah! My k-kinda man."
-    nr "¡Ja! Mi k-un poco hombre."
+    nr "¡Ja! Mi U-un poco hombre."
 
 # game/code/Book-1/Chapter-6s/s05.rpy:163
 translate spanish b1c06ss05_09a9c0a3:
@@ -374,7 +374,7 @@ translate spanish b1c06ss05_pool_game_c5a82eba:
 translate spanish b1c06ss05_pool_game_9645ff9f:
 
     # rd "But you're cut off after this."
-    rd "Pero estás afuera después de esto."
+    rd "Pero se termina después de esto."
 
 # game/code/Book-1/Chapter-6s/s05.rpy:252
 translate spanish b1c06ss05_pool_game_af59f7b5:
@@ -386,7 +386,7 @@ translate spanish b1c06ss05_pool_game_af59f7b5:
 translate spanish b1c06ss05_pool_game_db2693fc:
 
     # rd "Nope. I'm not gonna hear you out. You're cut off."
-    rd "No. No voy a escucharte. Estás afuera."
+    rd "No. No voy a escucharte. Se terminó."
 
 # game/code/Book-1/Chapter-6s/s05.rpy:258
 translate spanish b1c06ss05_pool_game_0199b4d6:
@@ -470,7 +470,7 @@ translate spanish b1c06ss05_pool_game_7ecb6f9f:
 translate spanish b1c06ss05_pool_game_3b75e48e:
 
     # "You miss your shot."
-    "Pierdes tu tiro."
+    "Fallas el tiro."
 
 # game/code/Book-1/Chapter-6s/s05.rpy:322
 translate spanish b1c06ss05_pool_game_053cf7fb:
@@ -584,7 +584,7 @@ translate spanish b1c06ss05_pool_game_b968a221:
 translate spanish b1c06ss05_pool_game_1a2d67a6:
 
     # mc "I get it if you're not comfortable taking anything else off."
-    mc "Lo entiendo si no te sientes cómodo quitándote algo más."
+    mc "Lo entiendo si no te sientes cómoda quitándote algo más."
 
 # game/code/Book-1/Chapter-6s/s05.rpy:422
 translate spanish b1c06ss05_pool_game_c969a183:
@@ -674,7 +674,7 @@ translate spanish b1c06ss05_pool_game_298b1f5b:
 translate spanish b1c06ss05_pool_game_3dbad837:
 
     # nr "Fa-ir enough. Not—*hiccups* sure how good I'd be right now, anyways."
-    nr "Me parece bien. No… *hipo* seguro de lo bueno que sería ahora mismo, de todos modos."
+    nr "Me parece bien. No… *hipo* estoy segura de lo bueno que sería ahora, de todos modos."
 
 # game/code/Book-1/Chapter-6s/s05.rpy:465
 translate spanish b1c06ss05_pool_game_a92f3562:
@@ -734,7 +734,7 @@ translate spanish b1c06ss05_let_her_win_6a8c27d1:
 translate spanish b1c06ss05_let_her_win_faa02f5d:
 
     # nr "FUCK YEAH! I told you I was the better player!"
-    nr "¡Mierda SÍ! ¡Te dije que era la mejor jugadora!"
+    nr "¡MIERDA SÍ! ¡Te dije que era la mejor jugadora!"
 
 # game/code/Book-1/Chapter-6s/s05.rpy:510
 translate spanish b1c06ss05_let_her_win_dec24038:
@@ -776,7 +776,7 @@ translate spanish b1c06ss05_let_her_win_9eaca947:
 translate spanish b1c06ss05_let_her_win_6e1d1500:
 
     # rd "Hot damn!"
-    rd "¡Maldito calor!"
+    rd "¡Maldita sea!"
 
 # game/code/Book-1/Chapter-6s/s05.rpy:533
 translate spanish b1c06ss05_let_her_win_000cf1c0:
@@ -788,7 +788,7 @@ translate spanish b1c06ss05_let_her_win_000cf1c0:
 translate spanish b1c06ss05_let_her_win_3f2b2f0b:
 
     # nr "You're so...{i}muscled{/i}. I'm salivating."
-    nr "Eres tan... {i}musculoso{/i}. estoy salivando"
+    nr "Eres tan... {i}musculoso{/i}. estoy salivando."
 
 # game/code/Book-1/Chapter-6s/s05.rpy:541
 translate spanish b1c06ss05_let_her_win_4630d52f:
@@ -848,7 +848,7 @@ translate spanish b1c06ss05_let_her_win_d91faded:
 translate spanish b1c06ss05_let_her_win_82c6bf67:
 
     # nr "B-but wait! We haven't finished the game yet..."
-    nr "P-pero espera! Aún no hemos terminado el juego..."
+    nr "¡P-pero espera! Aún no hemos terminado el juego..."
 
 # game/code/Book-1/Chapter-6s/s05.rpy:571
 translate spanish b1c06ss05_let_her_win_6767c23e:
@@ -926,7 +926,7 @@ translate spanish b1c06ss05_win_b7096ea4:
 translate spanish b1c06ss05_enter_548b78eb:
 
     # nr "L-look! The show's about to start."
-    nr "M-mira! El espectáculo está a punto de comenzar."
+    nr "¡M-mira! El espectáculo está a punto de comenzar."
 
 # game/code/Book-1/Chapter-6s/s05.rpy:634
 translate spanish b1c06ss05_enter_d977694b:
@@ -950,7 +950,7 @@ translate spanish b1c06ss05_enter_3b6428ba:
 translate spanish b1c06ss05_enter_b2c89414:
 
     # mc "Hey, can I get some ice waters for me and Nirmala? And maybe a lemon..."
-    mc "Hey, ¿puedo tomar un poco de agua helada para mí y Nirmala? Y tal vez un limón ..."
+    mc "Hey, ¿puedo tomar un poco de agua helada para mí y Nirmala? Y tal vez un limón..."
 
 # game/code/Book-1/Chapter-6s/s05.rpy:645
 translate spanish b1c06ss05_enter_a20352d9:
@@ -1052,7 +1052,7 @@ translate spanish b1c06ss05_enter_499e3c10:
 translate spanish b1c06ss05_enter_8f3aea0c:
 
     # mct "I could hang around the bar and listen in on surrounding conversations."
-    mct "Podía pasar el rato en el bar y escuchar las conversaciones de los alrededores."
+    mct "Podría pasar el rato en el bar y escuchar las conversaciones de los alrededores."
 
 # game/code/Book-1/Chapter-6s/s05.rpy:696
 translate spanish b1c06ss05_enter_e46656ff:
