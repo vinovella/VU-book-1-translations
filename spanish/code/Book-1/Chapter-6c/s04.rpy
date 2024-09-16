@@ -44,7 +44,7 @@ translate spanish b1c06cs04_860b8065:
 translate spanish b1c06cs04_d973fbd3:
 
     # mct "Can she really blame him..."
-    mct "¿Puede ella realmente culparlo..."
+    mct "Puede ella realmente culparlo..."
 
 # game/code/Book-1/Chapter-6c/s04.rpy:44
 translate spanish b1c06cs04_50da35ab:
@@ -74,7 +74,7 @@ translate spanish b1c06cs04_b34da4b7:
 translate spanish b1c06cs04_addbcecb:
 
     # mc "Why do you need more pig's blood and...{i}cow hearts{/i} anyway?"
-    mc "¿Por qué necesitas más sangre de cerdo y... {i}corazones de vaca{/i} de todos modos?"
+    mc "¿Para qué necesitas más sangre de cerdo y... {i}corazones de vaca{/i}?"
 
 # game/code/Book-1/Chapter-6c/s04.rpy:59
 translate spanish b1c06cs04_1c7dedf1:
@@ -92,7 +92,7 @@ translate spanish b1c06cs04_4f8d3cb9:
 translate spanish b1c06cs04_b3ebf820:
 
     # dk "Help me out here and I'll send some extra points your way to move up the ladder."
-    dk "Ayúdame aquí y te enviaré algunos puntos extra para que puedas ascender en la escalera."
+    dk "Ayúdame y te daré algunos puntos extra para que asciendas."
 
 # game/code/Book-1/Chapter-6c/s04.rpy:68
 translate spanish b1c06cs04_6c241ae5:
@@ -122,7 +122,7 @@ translate spanish b1c06cs04_da12a56f:
 translate spanish b1c06cs04_f2961dc5:
 
     # mc "I'm sorry, what? You want me to keep him distracted so that you can rob the place?"
-    mc "¿Disculpa que? ¿Quieres que lo mantenga distraído para que puedas robar el lugar?"
+    mc "Lo siento, ¿qué? ¿Quieres que lo mantenga distraído para que puedas robar el lugar?"
 
 # game/code/Book-1/Chapter-6c/s04.rpy:83
 translate spanish b1c06cs04_3dd3a615:
@@ -260,7 +260,7 @@ translate spanish b1c06cs04_5b627ac8:
 translate spanish b1c06cs04_2c63ecee:
 
     # gd "Well, I'll be, you must'a made one mean dish out of it. What'd'ya make anyway?"
-    gd "Bueno, lo estaré, debes haber hecho un plato malo con eso. ¿Qué harías de todos modos?"
+    gd "Bueno, lo siento, debes haber hecho un mal plato con eso. ¿Qué hiciste?"
 
 # game/code/Book-1/Chapter-6c/s04.rpy:163
 translate spanish b1c06cs04_d11420dc:
@@ -410,7 +410,7 @@ translate spanish b1c06cs04_2c642241:
 translate spanish b1c06cs04_bd0e77f1:
 
     # gd "\"Appreciate the little things\"? Well ain't that some wisdom beyond yer years."
-    gd "\"¿Apreciar las pequeñas cosas\"? Bueno, ¿no es eso algo de sabiduría más allá de tus años?"
+    gd "¿\"Apreciar las pequeñas cosas\"? Bueno, ¿no es eso algo de sabiduría más allá de tus años?"
 
 # game/code/Book-1/Chapter-6c/s04.rpy:239
 translate spanish b1c06cs04_b96a7763:
@@ -446,7 +446,7 @@ translate spanish b1c06cs04_a4539c31:
 translate spanish b1c06cs04_778af9c2:
 
     # gd "*Chuckles* What, yer afraid of a little cancer?"
-    gd "*Risas* ¿Qué, tienes miedo de un poco de cáncer?"
+    gd "*Risas* ¿Qué, le tienes miedo a un poco de cáncer?"
 
 # game/code/Book-1/Chapter-6c/s04.rpy:257
 translate spanish b1c06cs04_f79318f3:
@@ -530,7 +530,7 @@ translate spanish b1c06cs04_m1_c2_8ab2662d:
 translate spanish b1c06cs04_m1_c2_eeab5831:
 
     # mc "The one you were talking about last time I came here."
-    mc "De la que hablabas la última vez que vine aquí."
+    mc "Del que hablabas la última vez que vine aquí."
 
 # game/code/Book-1/Chapter-6c/s04.rpy:355
 translate spanish b1c06cs04_m1_c2_72a31b33:
@@ -686,7 +686,7 @@ translate spanish b1c06cs04_m2_c3_d27806f0:
 translate spanish b1c06cs04_m2_c3_43ae8992:
 
     # gd "What the what of the what?"
-    gd "¿Qué qué de qué?"
+    gd "¿Qué de qué de qué?"
 
 # game/code/Book-1/Chapter-6c/s04.rpy:476
 translate spanish b1c06cs04_m2_c3_203960b3:
@@ -836,7 +836,7 @@ translate spanish b1c06cs04_m3_c3_c109f391:
 translate spanish b1c06cs04_end_7e733ae3:
 
     # dk "Got my stuff"
-    dk "Tengo mis cosas"
+    dk "Tengo mis cosas."
 
 # game/code/Book-1/Chapter-6c/s04.rpy:597
 translate spanish b1c06cs04_end_c837b79a:
@@ -920,7 +920,7 @@ translate spanish b1c06cs04_end_33846876:
 translate spanish b1c06cs04_end_ee0dca86:
 
     # gd "I swear. This city is going to hell in a handbasket."
-    gd "Lo juro. Esta ciudad se va al infierno en una canasta de mano."
+    gd "Lo juro. Esta ciudad se va al infierno en un santiamén."
 
 # game/code/Book-1/Chapter-6c/s04.rpy:637
 translate spanish b1c06cs04_end_7b4af4ea:
@@ -962,13 +962,13 @@ translate spanish b1c06cs04_end_b283bd7b:
 translate spanish b1c06cs04_end_6e6cafd1:
 
     # gd "If it's one of them cult bastards though..."
-    gd "Aunque si es uno de esos bastardos de culto..."
+    gd "Aunque si es uno de esos bastardos del culto..."
 
 # game/code/Book-1/Chapter-6c/s04.rpy:654
 translate spanish b1c06cs04_end_02437eca:
 
     # gd "Anyhoo. I better get back to it. I need to check what they got."
-    gd "Cualquier cosa Mejor vuelvo a ello. Necesito comprobar lo que tienen."
+    gd "En fin. Será mejor que vuelva a ello. Tengo que revisar lo que se llevaron."
 
 # game/code/Book-1/Chapter-6c/s04.rpy:657
 translate spanish b1c06cs04_end_c3b3a98b:
@@ -980,7 +980,7 @@ translate spanish b1c06cs04_end_c3b3a98b:
 translate spanish b1c06cs04_end_21266af5:
 
     # gd "Come again if you ever need more blood. Though buy some other stuff next time as well."
-    gd "Ven de nuevo si alguna vez necesitas más sangre. Aunque compre algunas otras cosas la próxima vez también."
+    gd "Ven de nuevo si alguna vez necesitas más sangre. Aunque compra algunas otras cosas la próxima vez también."
 
 # game/code/Book-1/Chapter-6c/s04.rpy:663
 translate spanish b1c06cs04_end_fd0320c6:
@@ -998,13 +998,13 @@ translate spanish b1c06cs04_end_3f103a03:
 translate spanish b1c06cs04_end_d60d1469:
 
     # mc "I did! He turned around at the last second."
-    mc "¡Hice! Se dio la vuelta en el último segundo."
+    mc "¡Lo hice! Se dio la vuelta en el último segundo."
 
 # game/code/Book-1/Chapter-6c/s04.rpy:677
 translate spanish b1c06cs04_end_f89e8739:
 
     # mct "If Delphia keeps this shit up, she'll get {i}me{/i} arrested."
-    mct "Si Delphia sigue con esta mierda, me arrestarán a {i}yo{/i}."
+    mct "Si Delphia sigue con esta mierda, hará que {i}me arresten{/i}."
 
 # game/code/Book-1/Chapter-6c/s04.rpy:680
 translate spanish b1c06cs04_end_0d100c3c:
@@ -1046,7 +1046,7 @@ translate spanish b1c06cs04_end_2f71341d:
 translate spanish b1c06cs04_end_b8f8d774:
 
     # dk "Oh, you learned that about him in the five minutes that you talked to him, did you?"
-    dk "Oh, aprendiste eso sobre él en los cinco minutos que hablaste con él, ¿verdad?"
+    dk "Oh, aprendiste eso de él en los cinco minutos que estuviste hablando con él, ¿verdad?"
 
 # game/code/Book-1/Chapter-6c/s04.rpy:703
 translate spanish b1c06cs04_end_9d0197b7:
