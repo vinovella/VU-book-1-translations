@@ -152,7 +152,7 @@ translate spanish b1c06ss07_c29e94b3:
 translate spanish b1c06ss07_8c63bd84:
 
     # mc "Do you want me to remove your panties?"
-    mc "¿Quieres que te quite las bragas?"
+    mc "¿Quieres que te quite los calzones?"
 
 # game/code/Book-1/Chapter-6s/s07.rpy:176
 translate spanish b1c06ss07_8c2e5ba0:
@@ -164,7 +164,7 @@ translate spanish b1c06ss07_8c2e5ba0:
 translate spanish b1c06ss07_15930442:
 
     # "You smirk at her bashful expression and hook your fingers to the edges of her panty before slowly, teasingly, removing her panties, keeping her on the edge of suspense."
-    "Sonríes ante su expresión tímida y enganchas tus dedos a los bordes de sus bragas antes de quitárselas lenta y burlonamente, manteniéndola al borde del suspenso."
+    "Sonríes ante su expresión tímida y enganchas tus dedos a los bordes de sus calzones antes de quitárselas lenta y burlonamente, manteniéndola al borde del suspenso."
 
 # game/code/Book-1/Chapter-6s/s07.rpy:187
 translate spanish b1c06ss07_f9936802:
@@ -188,7 +188,7 @@ translate spanish b1c06ss07_19f1406a:
 translate spanish b1c06ss07_bdfaee46:
 
     # "Your tongue laps at it, making sure to glide over her lips, encouraging her arousal and teasing her aching clit by ignoring it."
-    "Tu lengua la lame, asegurándose de deslizarse sobre sus labios, fomentando su excitación y provocando su dolorido clítoris ignorándolo."
+    "Tu lengua la lame, asegurándose de deslizarse sobre sus labios, alentando su excitación y burlándose de su dolorido clítoris al ignorarlo."
 
 # game/code/Book-1/Chapter-6s/s07.rpy:194
 translate spanish b1c06ss07_e14acf79:
@@ -344,7 +344,7 @@ translate spanish b1c06ss07_c6760454:
 translate spanish b1c06ss07_79af7885:
 
     # ffl "Hey... You have to cum outside. I'm not on any protection."
-    ffl "Oye... Tienes que correrte fuera. No estoy usando ningún tipo de protección.hh"
+    ffl "Oye... Tienes que correrte fuera. No estoy usando ningún tipo de protección."
 
 # game/code/Book-1/Chapter-6s/s07.rpy:296
 translate spanish b1c06ss07_5312685d:
@@ -356,13 +356,13 @@ translate spanish b1c06ss07_5312685d:
 translate spanish b1c06ss07_1b2d74ee:
 
     # ffl "*Giggles* Did I tucker you out?"
-    ffl "*Risitas* ¿Te arropé?"
+    ffl "*Risitas* ¿Te he puesto nervioso?"
 
 # game/code/Book-1/Chapter-6s/s07.rpy:312
 translate spanish b1c06ss07_579c44f6:
 
     # mc "What, me? Perish the thought."
-    mc "¿Por qué a mi? Dios nos libre."
+    mc "¿Qué, yo? Dios me libre."
 
 # game/code/Book-1/Chapter-6s/s07.rpy:315
 translate spanish b1c06ss07_f91b7436:
@@ -410,13 +410,13 @@ translate spanish b1c06ss07_f106968c:
 translate spanish b1c06ss07_2a9b021d:
 
     # ef "Woah, must've had a good time then if you forgot about me."
-    ef "Vaya, debes haberlo pasado un buen rato si te olvidaste de mí."
+    ef "Woah, debes haber pasado un buen rato entonces si te olvidaste de mí."
 
 # game/code/Book-1/Chapter-6s/s07.rpy:360
 translate spanish b1c06ss07_3cfb7d3e:
 
     # ffl "No! Well, no— I mean yes— I mean—"
-    ffl "¡No! Bueno, no, quiero decir que sí, quiero decir,"
+    ffl "¡No! Bueno, no, quiero decir que sí, quiero decir..."
 
 # game/code/Book-1/Chapter-6s/s07.rpy:362
 translate spanish b1c06ss07_b07fe460:
@@ -500,7 +500,7 @@ translate spanish b1c06ss07_23434e4b:
 translate spanish b1c06ss07_13301a34:
 
     # ef "I'm sorry, I'm sorry. I'm done."
-    ef "Lo siento lo siento. He terminado."
+    ef "Lo siento, lo siento. He terminado."
 
 # game/code/Book-1/Chapter-6s/s07.rpy:411
 translate spanish b1c06ss07_18e65aa6:
