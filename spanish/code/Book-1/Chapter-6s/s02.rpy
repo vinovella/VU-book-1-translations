@@ -56,7 +56,7 @@ translate spanish b1c06ss02_5771b30c:
 translate spanish b1c06ss02_0a7117c8:
 
     # xv "Don't fucking tell me to calm down, pretty boy."
-    xv "No me digas que me calme, carajo, niño bonito."
+    xv "No me digas que me calme, niño bonito."
 
 # game/code/Book-1/Chapter-6s/s02.rpy:45
 translate spanish b1c06ss02_db5c1a72:
@@ -68,7 +68,7 @@ translate spanish b1c06ss02_db5c1a72:
 translate spanish b1c06ss02_bedca4d1:
 
     # mc "I'm not lurking around her room!"
-    mc "¡No estoy al acecho en su habitación!"
+    mc "¡No estoy merodeando en su habitación!"
 
 # game/code/Book-1/Chapter-6s/s02.rpy:51
 translate spanish b1c06ss02_97261b40:
@@ -116,7 +116,7 @@ translate spanish b1c06ss02_d5272745:
 translate spanish b1c06ss02_3087ef00:
 
     # mc "Hey, man. That's Fleur's. Put it down."
-    mc "Eh, tío. Eso es de Fleur. Suéltalo."
+    mc "Eh, hombre. Eso es de Fleur. Suéltalo."
 
 # game/code/Book-1/Chapter-6s/s02.rpy:79
 translate spanish b1c06ss02_ca357bf3:
@@ -140,7 +140,7 @@ translate spanish b1c06ss02_da981cd4:
 translate spanish b1c06ss02_c7144a02:
 
     # xv "She and I have...study sessions, too."
-    xv "Ella y yo tenemos... también sesiones de estudio."
+    xv "Ella y yo también... tenemos sesiones de estudio."
 
 # game/code/Book-1/Chapter-6s/s02.rpy:88
 translate spanish b1c06ss02_e3cd2fac:
@@ -410,7 +410,7 @@ translate spanish b1c06ss02_4d6d1263:
 translate spanish b1c06ss02_89f3958e:
 
     # ffl "Sorry about that again. That's why I had to leave so abruptly."
-    ffl "Lo siento por eso de nuevo. Por eso tuve que irme tan abruptamente."
+    ffl "Lo siento de nuevo. Por eso tuve que irme tan apresuradamente."
 
 # game/code/Book-1/Chapter-6s/s02.rpy:232
 translate spanish b1c06ss02_7426e3cb:
@@ -452,7 +452,7 @@ translate spanish b1c06ss02_9099c9a8:
 translate spanish b1c06ss02_20c18872:
 
     # ffl "Oh, you're so right. He is pretty! I like that pet name."
-    ffl "Oh, tienes mucha razón. ¡Él es guapo! Me gusta ese nombre de mascota."
+    ffl "Oh, tienes mucha razón. ¡Él es bonito! Me gusta ese nombre de mascota."
 
 # game/code/Book-1/Chapter-6s/s02.rpy:250
 translate spanish b1c06ss02_56b818ca:
@@ -464,7 +464,7 @@ translate spanish b1c06ss02_56b818ca:
 translate spanish b1c06ss02_6ae3cf67:
 
     # xv "I won't."
-    xv "No lo haré"
+    xv "No lo haré."
 
 # game/code/Book-1/Chapter-6s/s02.rpy:255
 translate spanish b1c06ss02_fdbc9ad3:
@@ -488,7 +488,7 @@ translate spanish b1c06ss02_be757be0:
 translate spanish b1c06ss02_7fa97d32:
 
     # ffl "I gotta keep an eye out for ya."
-    ffl "Tengo que estar pendiente de ti."
+    ffl "Tengo que vigilarte."
 
 # game/code/Book-1/Chapter-6s/s02.rpy:269
 translate spanish b1c06ss02_7599fe2c:
@@ -542,7 +542,7 @@ translate spanish b1c06ss02_8c99e1a4:
 translate spanish b1c06ss02_a1723bcb:
 
     # ffl "T-thank you, but this is just my home-wear. It {i}is{/i} very comfy."
-    ffl "G-gracias, pero esto es solo mi ropa de casa. Es {i}es{/i} muy cómoda."
+    ffl "G-gracias, pero esto es solo mi ropa de casa. {i}Es{/i} muy cómoda."
 
 # game/code/Book-1/Chapter-6s/s02.rpy:295
 translate spanish b1c06ss02_cb077dca:
@@ -638,7 +638,7 @@ translate spanish b1c06ss02_231b80b0:
 translate spanish b1c06ss02_36305ef2:
 
     # ffl "O-okay."
-    ffl "O-bien."
+    ffl "B-bien."
 
 translate spanish strings:
 
@@ -648,5 +648,5 @@ translate spanish strings:
 
     # game/code/Book-1/Chapter-6s/s02.rpy:160
     old "Respond carefully"
-    new "Responda con cuidado"
+    new "Responder con cuidado"
 
