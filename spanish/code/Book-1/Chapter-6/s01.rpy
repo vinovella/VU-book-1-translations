@@ -350,7 +350,7 @@ translate spanish b1c06s01_call_rh_b4e2e6e0:
 translate spanish b1c06s01_call_rh_ed96df52:
 
     # rh "Have your way with me—I want you to {i}fuck{/i} me."
-    rh "Haz lo que quieras conmigo: quiero que me {i}folles{/i}."
+    rh "Haz lo que quieras conmigo... quiero que me {i}folles{/i}."
 
 # game/code/Book-1/Chapter-6/s01.rpy:291
 translate spanish b1c06s01_call_rh_526d0213:
@@ -572,7 +572,7 @@ translate spanish b1c06s01_call_rh_4985974a:
 translate spanish b1c06s01_call_rh_f26e5304:
 
     # dm "I was wondering if all this drama was about you being a whorish cumdump."
-    dm "Me preguntaba si todo este drama se trataba de que eras una prostituta."
+    dm "Me preguntaba si todo este drama se debía a que eres una prostituta."
 
 # game/code/Book-1/Chapter-6/s01.rpy:421
 translate spanish b1c06s01_call_rh_dd59acf3:
