@@ -260,7 +260,7 @@ translate chinese b1c09s11_dk_sex_c54a2a1b:
 translate chinese b1c09s11_dk_sex_5079fbcd:
 
     # dk "And what about you? It's rude to keep a lady waiting."
-    dk "那你呢？让女士久等可不太礼貌。
+    dk "那你呢？让女士久等可不太礼貌。"
 
 # game/code/Book-1/Chapter-9/s11.rpy:257
 translate chinese b1c09s11_dk_sex_53723b80:
