@@ -8,7 +8,7 @@ translate spanish b1c06ss04_continue_5f7e5bfd:
 translate spanish b1c06ss04_continue_9ae3365e:
 
     # mct "Oh, there she is. I was wondering where she was. She wasn't in computer class today."
-    mct "Oh, ahí está. Me preguntaba dónde estaba. Hoy no estaba en clase de informática."
+    mct "Oh, ahí está. Me preguntaba dónde estaba. Hoy no estuvo en clase de informática."
 
 # game/code/Book-1/Chapter-6s/s04.rpy:39
 translate spanish b1c06ss04_continue_a80f6c4c:
@@ -92,7 +92,7 @@ translate spanish b1c06ss04_continue_4d418ffd:
 translate spanish b1c06ss04_continue_42378e59:
 
     # zp "Oh, I am."
-    zp "Oh! Soy yo."
+    zp "Oh, Soy yo."
 
 # game/code/Book-1/Chapter-6s/s04.rpy:88
 translate spanish b1c06ss04_continue_369172ba:
@@ -122,7 +122,7 @@ translate spanish b1c06ss04_continue_640b2f87:
 translate spanish b1c06ss04_continue_76be844a:
 
     # zp "Have you two met? He's the new guy around here."
-    zp "¿Ustedes dos se conocieron? Es el chico nuevo por aquí."
+    zp "¿Ya se conocen ustedes dos? Este es el chico nuevo."
 
 # game/code/Book-1/Chapter-6s/s04.rpy:106
 translate spanish b1c06ss04_continue_7aff4a91:
@@ -200,7 +200,7 @@ translate spanish b1c06ss04_continue_48892505:
 translate spanish b1c06ss04_continue_8ebdb132:
 
     # mg "But the fourth match had two opponents. That's five total opponents, even if it was just four matches."
-    mg "Pero el cuarto partido tuvo dos oponentes. Son cinco oponentes en total, aunque sólo fueran cuatro partidos."
+    mg "Pero el cuarto encuentro tuvo dos oponentes. Son cinco oponentes en total, aunque sólo fueran cuatro encuentros."
 
 # game/code/Book-1/Chapter-6s/s04.rpy:142
 translate spanish b1c06ss04_continue_d55f0e2d:
@@ -260,7 +260,7 @@ translate spanish b1c06ss04_continue_8a9c2326:
 translate spanish b1c06ss04_continue_abe2b843:
 
     # mg "I think you should redeem those fucking favors, Zem. I deserve it. {i}You know I do.{/i}"
-    mg "Creo que deberías redimir esos putos favores, Zem. Me lo merezco. {i}Sabes que me lo merezco.{/i}"
+    mg "Creo que deberías canjear esos putos favores, Zem. Me lo merezco. {i}Sabes que me lo merezco.{/i}"
 
 # game/code/Book-1/Chapter-6s/s04.rpy:169
 translate spanish b1c06ss04_continue_19a53aeb:
@@ -428,7 +428,7 @@ translate spanish b1c06ss04_resp_aggressive_21ad5f05:
 translate spanish b1c06ss04_resp_aggressive_e3a3a1af:
 
     # mc "See? That wasn't so hard."
-    mc "¿Ves? Eso no fue tan difícil."
+    mc "¿Lo ves? Eso no fue tan difícil."
 
 # game/code/Book-1/Chapter-6s/s04.rpy:303
 translate spanish b1c06ss04_resp_aggressive_cb6ade50:
@@ -548,7 +548,7 @@ translate spanish b1c06ss04_resp_humor_2407566a:
 translate spanish b1c06ss04_resp_humor_3e226cb7:
 
     # mg "Why are you even here right now?"
-    mg "¿Por qué estás aquí ahora mismo?"
+    mg "¿Por qué estás aquí en este momento?"
 
 # game/code/Book-1/Chapter-6s/s04.rpy:363
 translate spanish b1c06ss04_resp_humor_2f5ce1a4:
@@ -608,7 +608,7 @@ translate spanish b1c06ss04_resp_humor_3cfdf34f:
 translate spanish b1c06ss04_resp_humor_93ec1ece:
 
     # zp "I agree that you deserve some sort of...recognition for the double match you did."
-    zp "Estoy de acuerdo en que te mereces algún tipo de... reconocimiento por la doble coincidencia que hiciste."
+    zp "Estoy de acuerdo en que mereces algún tipo de... reconocimiento por la doble jornada que hiciste."
 
 # game/code/Book-1/Chapter-6s/s04.rpy:391
 translate spanish b1c06ss04_resp_humor_043d148e:
@@ -626,7 +626,7 @@ translate spanish b1c06ss04_resp_humor_22159b16:
 translate spanish b1c06ss04_resp_humor_0b3da706:
 
     # mg "{i}Fuck{/i} the others! That's not my business. But the matches I've done are my business."
-    mg "{i}¡Que se vayan a la mierda{/i} los demás! Ese no es mi negocio. Pero las coincidencias que he hecho son asunto mío."
+    mg "{i}¡Que se vayan a la mierda{/i} los demás! Eso no es asunto mío. Pero los encuentros que he hecho sí son asunto mío."
 
 # game/code/Book-1/Chapter-6s/s04.rpy:397
 translate spanish b1c06ss04_resp_humor_12bb1b85:
@@ -716,7 +716,7 @@ translate spanish b1c06ss04_resp_humor_d3da5f63:
 translate spanish b1c06ss04_resp_humor_11e47f1d:
 
     # zp "Please. We can talk about this {i}later{/i}, okay? I promise."
-    zp "Por favor. Podemos hablar de esto {i}más tarde{/i}, Lo promeo, ¿de acuerdo?."
+    zp "Por favor. Podemos hablar de esto {i}más tarde{/i}, ¿de acuerdo? Te lo prometo."
 
 # game/code/Book-1/Chapter-6s/s04.rpy:444
 translate spanish b1c06ss04_resp_humor_32625a91:
@@ -872,7 +872,7 @@ translate spanish b1c06ss04_resp_diplomatic_2f880d4d:
 translate spanish b1c06ss04_resp_diplomatic_05eae1d9:
 
     # mg "Sorry, Zem. Just under a lot of stress."
-    mg "Lo siento, Zem. Estoy bajo mucha estrés."
+    mg "Lo siento, Zem. Estoy bajo mucho estrés."
 
 # game/code/Book-1/Chapter-6s/s04.rpy:533
 translate spanish b1c06ss04_resp_diplomatic_87e7e671:
@@ -896,7 +896,7 @@ translate spanish b1c06ss04_resp_diplomatic_bf0b91a1:
 translate spanish b1c06ss04_resp_diplomatic_371db66b:
 
     # mg "Yep. We're good here.{w} Pretty boy."
-    mg "Sí. Estamos bien aquí. {w} Chico guapo."
+    mg "Sí. Estamos bien aquí. {w} Niño bonito."
 
 # game/code/Book-1/Chapter-6s/s04.rpy:545
 translate spanish b1c06ss04_resp_diplomatic_6d589054:
@@ -938,7 +938,7 @@ translate spanish b1c06ss04_end_48eed803:
 translate spanish b1c06ss04_end_cc5aee40:
 
     # mc "No problem. Are you okay? Seems like a pretty heavy situation."
-    mc "Ningún problema. ¿Estás bien? Parece una situación bastante pesada."
+    mc "No hay problema. ¿Estás bien? Parece una situación bastante pesada."
 
 # game/code/Book-1/Chapter-6s/s04.rpy:571
 translate spanish b1c06ss04_end_f017b4a5:
@@ -980,7 +980,7 @@ translate spanish b1c06ss04_end_e9210e4e:
 translate spanish b1c06ss04_end_acbf38f0:
 
     # mc "I know that was really heavy. Do you wanna hang out for a bit and de-stress? We could go shooting again and get some food."
-    mc "Sé que eso fue muy pesado. ¿Quieres pasar un rato y desestresarte? Podríamos ir a disparar de nuevo y conseguir algo de comida."
+    mc "Sé que eso fue muy pesado. ¿Quieres salir un rato y desestresarte? Podríamos ir a disparar de nuevo y conseguir algo de comida."
 
 # game/code/Book-1/Chapter-6s/s04.rpy:591
 translate spanish b1c06ss04_end_803146d0:
