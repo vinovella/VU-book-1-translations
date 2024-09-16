@@ -321,8 +321,8 @@
     new "Play Diana and Ronja's paths."
 
     # game/code/data/achievement_gallery.rpy:5
-    old "41: Fetish Fanatic"
-    new "41: Fetish Fanatic"
+    old "41: Fetish Locator"
+    new "41: Fetish Locator"
 
     # game/code/data/achievement_gallery.rpy:5
     old "Experience all fetishes at the party."
