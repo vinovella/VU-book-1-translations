@@ -32,7 +32,7 @@ translate spanish b1c06cs02_0726b8f0:
 translate spanish b1c06cs02_9055d23f:
 
     # dk "One day, you'll look back on these entries and see how far you've come."
-    dk "Un día, mirarás hacia atrás en estas entradas y verás lo lejos que has llegado."
+    dk "Un día mirarás atrás y verás lo lejos que has llegado."
 
 # game/code/Book-1/Chapter-6c/s02.rpy:37
 translate spanish b1c06cs02_63e9f2d1:
@@ -56,7 +56,7 @@ translate spanish b1c06cs02_9469254d:
 translate spanish b1c06cs02_cd381a9f:
 
     # dk "Now, let's get started. We'll have to have these done in time for the next seminar."
-    dk "Ahora, empecemos. Tendremos que tener esto terminado para el próximo seminario."
+    dk "Ahora, empecemos. Tendremos que tener esto terminado para el siguiente seminario."
 
 # game/code/Book-1/Chapter-6c/s02.rpy:48
 translate spanish b1c06cs02_7eecf854:
@@ -338,7 +338,7 @@ translate spanish b1c06cs02_4f485e0c:
 translate spanish b1c06cs02_973524df:
 
     # dk "Read the first line in your workbook out loud, please."
-    dk "Lea en voz alta la primera línea de su libro de trabajo, por favor."
+    dk "Lee la primera línea de tu manual en voz alta, por favor."
 
 # game/code/Book-1/Chapter-6c/s02.rpy:178
 translate spanish b1c06cs02_3f8b65aa:
@@ -452,7 +452,7 @@ translate spanish b1c06cs02_25cc6272:
 translate spanish b1c06cs02_33096fe4:
 
     # dk "Alright, enough distractions. Write your answers in your workbooks and we'll move on to the next thing."
-    dk "Muy bien, basta de distracciones. Escriba sus respuestas en sus libros de trabajo y pasaremos a la siguiente."
+    dk "Muy bien, basta de distracciones. Escriban sus respuestas en sus libros de trabajo y pasaremos a lo siguiente."
 
 # game/code/Book-1/Chapter-6c/s02.rpy:247
 translate spanish b1c06cs02_55974826:
@@ -482,7 +482,7 @@ translate spanish b1c06cs02_f096ebaf:
 translate spanish b1c06cs02_f5a253a8:
 
     # dk "Bye Nia."
-    dk "Adiós Nía."
+    dk "Adiós Nia."
 
 # game/code/Book-1/Chapter-6c/s02.rpy:262
 translate spanish b1c06cs02_da454c36:
