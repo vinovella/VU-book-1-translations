@@ -2,7 +2,7 @@
 translate spanish b1c06cs06_57098f05:
 
     # mc "Hey, Nia."
-    mc "Hola, Nía."
+    mc "Hola, Nia."
 
 # game/code/Book-1/Chapter-6c/s06.rpy:18
 translate spanish b1c06cs06_a33bf603:
@@ -44,7 +44,7 @@ translate spanish b1c06cs06_1bf60051:
 translate spanish b1c06cs06_613ea805:
 
     # ef "Nia! I was hoping you'd show."
-    ef "¡Nía! Esperaba que aparecieras."
+    ef "¡Nia! Esperaba que aparecieras."
 
 # game/code/Book-1/Chapter-6c/s06.rpy:39
 translate spanish b1c06cs06_0a787c4a:
@@ -74,7 +74,7 @@ translate spanish b1c06cs06_455ce782:
 translate spanish b1c06cs06_f44cc626:
 
     # ij "Nia, it's a pleasure to see you."
-    ij "Nía, es un placer verte."
+    ij "Nia, es un placer verte."
 
 # game/code/Book-1/Chapter-6c/s06.rpy:56
 translate spanish b1c06cs06_7168ad17:
@@ -110,7 +110,7 @@ translate spanish b1c06cs06_44dc8ed6:
 translate spanish b1c06cs06_7c9cd54f:
 
     # nv "I uhh, forgot to mention the greeting kisses."
-    nv "Yo uhh, olvidé mencionar los besos de saludo."
+    nv "Yo uhh, olvidé mencionar los besos como saludo."
 
 # game/code/Book-1/Chapter-6c/s06.rpy:102
 translate spanish b1c06cs06_9b058248:
@@ -200,7 +200,7 @@ translate spanish b1c06cs06_a62c1298:
 translate spanish b1c06cs06_6633abb2:
 
     # mc "So how long have you guys been in the self-improvement group?"
-    mc "Entonces, ¿cuánto tiempo han estado en el grupo de superación personal?"
+    mc "Entonces, ¿cuánto tiempo lleváis en el grupo de autoayuda?"
 
 # game/code/Book-1/Chapter-6c/s06.rpy:154
 translate spanish b1c06cs06_38fe4888:
@@ -302,7 +302,7 @@ translate spanish b1c06cs06_6dd93526:
 translate spanish b1c06cs06_507fa2df:
 
     # ll "Irene! How are you?"
-    ll "Irene! ¿Cómo estás?"
+    ll "¡Irene! ¿Cómo estás?"
 
 # game/code/Book-1/Chapter-6c/s06.rpy:227
 translate spanish b1c06cs06_03406c63:
@@ -326,7 +326,7 @@ translate spanish b1c06cs06_19f0c970:
 translate spanish b1c06cs06_4a9d3e0a:
 
     # nv "We do that too. Listen, it's okay if you're not into it. Just let the others know."
-    nv "Nosotros también lo hacemos. Escucha, está bien si no te gusta. Sólo dile a los demás."
+    nv "Nosotros también lo hacemos. Escucha, está bien si no te gusta. Sólo házselo saber a las demás."
 
 # game/code/Book-1/Chapter-6c/s06.rpy:238
 translate spanish b1c06cs06_98e2ca0f:
@@ -338,7 +338,7 @@ translate spanish b1c06cs06_98e2ca0f:
 translate spanish b1c06cs06_bcfc8d18:
 
     # mc "No, no. It doesn't weird me out or anything. I just want to learn what I can."
-    mc "No no. No me extraña ni nada. Sólo quiero aprender lo que pueda."
+    mc "No, no. No me extraña ni nada. Sólo quiero aprender lo que pueda."
 
 # game/code/Book-1/Chapter-6c/s06.rpy:243
 translate spanish b1c06cs06_1285332d:
@@ -512,7 +512,7 @@ translate spanish b1c06cs06_9ed7b3ea:
 translate spanish b1c06cs06_47ddb78d:
 
     # dk "Right now, all you new members are at rank zero. This seminar is to introduce you to our community so you can decide if it's right for you."
-    dk "Ahora mismo, todos los nuevos miembros están en el rango cero. Este seminario es para presentarles nuestra comunidad y que puedan decidir si es adecuada para ustedes."
+    dk "Justo ahora, todos los nuevos miembros están en el rango cero. Este seminario es para presentarles nuestra comunidad y que puedan decidir si es adecuada para ustedes."
 
 # game/code/Book-1/Chapter-6c/s06.rpy:357
 translate spanish b1c06cs06_20db0fe9:
@@ -524,7 +524,7 @@ translate spanish b1c06cs06_20db0fe9:
 translate spanish b1c06cs06_a20af3a0:
 
     # dk "To further your journey to enlightenment, your Guides will have you do plenty of exercises and assignments."
-    dk "Para avanzar en su viaje hacia la iluminación, sus guías le pedirán que haga muchos ejercicios y tareas."
+    dk "Para avanzar en su viaje hacia la iluminación, sus guías le pedirán que hagan muchos ejercicios y tareas."
 
 # game/code/Book-1/Chapter-6c/s06.rpy:361
 translate spanish b1c06cs06_1e8d2c53:
@@ -830,13 +830,13 @@ translate spanish b1c06cs06_75443bfd:
 translate spanish b1c06cs06_418b5a6b:
 
     # mc "I'd like to be next."
-    mc "Me gustaría ser el próximo."
+    mc "Me gustaría ser el siguiente."
 
 # game/code/Book-1/Chapter-6c/s06.rpy:562
 translate spanish b1c06cs06_6a03c325:
 
     # ad "By all means, be my guest, then."
-    ad "Por todos los medios, sea mi invitado, entonces."
+    ad "Por supuesto, adelante."
 
 # game/code/Book-1/Chapter-6c/s06.rpy:569
 translate spanish b1c06cs06_10a79334:
@@ -1064,7 +1064,7 @@ translate spanish b1c06cs06_082dd33c:
 translate spanish b1c06cs06_861485e9:
 
     # ad "I'm sure there are many who are excited to talk to you."
-    ad "Estoy seguro de que hay muchos que están emocionados de hablar contigo."
+    ad "Seguro que hay muchos que están deseando hablar con usted."
 
 # game/code/Book-1/Chapter-6c/s06.rpy:696
 translate spanish b1c06cs06_90531da9:
@@ -1076,7 +1076,7 @@ translate spanish b1c06cs06_90531da9:
 translate spanish b1c06cs06_83052be0:
 
     # nv "Pretty good, right? Now we're onto the fun stuff."
-    nv "Bastante bien, ¿verdad? Ahora pasamos a lo divertido."
+    nv "Bastante bien, ¿verdad? Ahora pasamos a las cosas divertidas."
 
 # game/code/Book-1/Chapter-6c/s06.rpy:705
 translate spanish b1c06cs06_54b80ca8:
@@ -1130,7 +1130,7 @@ translate spanish b1c06cs06_69d43ab2:
 translate spanish b1c06cs06_3779d934:
 
     # ij "C'mon! Imagine a world where your insecurities are resolved and you discover all your truths?"
-    ij "¡Vamos! ¿Imaginas un mundo donde tus inseguridades se resuelvan y descubras todas tus verdades?"
+    ij "¡Vamos! ¿Imaginas un mundo en el que se resuelven tus inseguridades y descubres todas tus verdades?"
 
 # game/code/Book-1/Chapter-6c/s06.rpy:725
 translate spanish b1c06cs06_06e1d428:
@@ -1190,7 +1190,7 @@ translate spanish b1c06cs06_240a33bb:
 translate spanish b1c06cs06_8772c17f:
 
     # ij "Well, how much would you pay for a class that teaches you everything you need to know about how to navigate life?"
-    ij "Bueno, ¿cuánto pagarías por una clase que te enseñe todo lo que necesitas saber sobre cómo navegar por la vida?"
+    ij "Bueno, ¿cuánto pagarías por una clase que te enseñara todo lo que necesitas saber para desenvolverte en la vida?"
 
 # game/code/Book-1/Chapter-6c/s06.rpy:749
 translate spanish b1c06cs06_f958c469:
@@ -1250,7 +1250,7 @@ translate spanish b1c06cs06_14b7475c:
 translate spanish b1c06cs06_3d383448:
 
     # ad "And if you decide your journey takes you elsewhere, then I'm sure you'll flourish there too."
-    ad "Y si decide que su viaje la lleva a otro lugar, estoy seguro de que allí también prosperarán."
+    ad "Y si deciden que su viaje la lleva a otro lugar, estoy seguro de que allí también prosperarán."
 
 # game/code/Book-1/Chapter-6c/s06.rpy:779
 translate spanish b1c06cs06_68b8c509:
@@ -1262,7 +1262,7 @@ translate spanish b1c06cs06_68b8c509:
 translate spanish b1c06cs06_b8def6a2:
 
     # mct "Damn he lays it on thick."
-    mct "Maldita sea, lo pone en grueso."
+    mct "Maldita sea, lo pone difícil."
 
 # game/code/Book-1/Chapter-6c/s06.rpy:782
 translate spanish b1c06cs06_b99e31e4:
@@ -1286,13 +1286,13 @@ translate spanish b1c06cs06_81f5dddb:
 translate spanish b1c06cs06_14b40526:
 
     # ll "I want to see our community grow."
-    ll "Quiero ver crecer nuestra comunidad."
+    ll "Quiero ver crecer a nuestra comunidad."
 
 # game/code/Book-1/Chapter-6c/s06.rpy:796
 translate spanish b1c06cs06_c7136a81:
 
     # ad "Nia, my sweet. How did you like the seminar?"
-    ad "Nía, mi dulce. ¿Qué te pareció el seminario?"
+    ad "Nia, mi amor. ¿Qué te ha parecido el seminario?"
 
 # game/code/Book-1/Chapter-6c/s06.rpy:799
 translate spanish b1c06cs06_56986b31:
@@ -1352,7 +1352,7 @@ translate spanish b1c06cs06_9c2b7254:
 translate spanish b1c06cs06_5ca489cb:
 
     # mc "I'm {i}not.{/i} I was just surprised."
-    mc "Yo {i}no.{/i} Sólo me sorprendido."
+    mc "{i}No lo estoy.{/i} Sólo me sorprendió."
 
 # game/code/Book-1/Chapter-6c/s06.rpy:829
 translate spanish b1c06cs06_47d0d727:
@@ -1412,7 +1412,7 @@ translate spanish b1c06cs06_26e990e7:
 translate spanish b1c06cs06_a676436e:
 
     # mct "She is asking if I want to come over? This is weird timing."
-    mct "Ella está preguntando si quiero ir? Este es un momento extraño."
+    mct "¿Ella está preguntando si quiero ir? Este es un momento extraño."
 
 # game/code/Book-1/Chapter-6c/s06.rpy:852
 translate spanish b1c06cs06_8adf578a:
