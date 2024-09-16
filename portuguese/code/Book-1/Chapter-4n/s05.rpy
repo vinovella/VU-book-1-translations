@@ -682,5 +682,5 @@ translate portuguese strings:
 
     # game/code/Book-1/Chapter-4n/s05.rpy:295
     old "No way"
-    new "Não brinca"
+    new "Não, valeu"
 
