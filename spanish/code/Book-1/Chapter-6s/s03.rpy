@@ -8,7 +8,7 @@ translate spanish b1c06ss03_91b443f5:
 translate spanish b1c06ss03_5a86862f:
 
     # mc "Not at all."
-    mc "De nada."
+    mc "Para nada."
 
 # game/code/Book-1/Chapter-6s/s03.rpy:32
 translate spanish b1c06ss03_2845dea1:
@@ -86,7 +86,7 @@ translate spanish b1c06ss03_5489fcc8:
 translate spanish b1c06ss03_ee5bb87e:
 
     # ffl "What, like you’d show me how to move my feet?"
-    ffl "¿Qué, como si me enseñaras a mover los pies?"
+    ffl "¿Qué, como si me fueras a enseñar a mover los pies?"
 
 # game/code/Book-1/Chapter-6s/s03.rpy:73
 translate spanish b1c06ss03_5637c95e:
@@ -104,7 +104,7 @@ translate spanish b1c06ss03_a7340b65:
 translate spanish b1c06ss03_ca368f90:
 
     # ffl "{i}Merci beaucoup, lapinou{/i}."
-    ffl "{i}Merci beaucoup, lapinou{/i}."
+    ffl "{i}Merci beaucoup, lapinou (Muchas gracias, conejito.){/i}"
 
 # game/code/Book-1/Chapter-6s/s03.rpy:83
 translate spanish b1c06ss03_8d4426b1:
@@ -272,7 +272,7 @@ translate spanish b1c06ss03_9811e47c:
 translate spanish b1c06ss03_5f00a8ff:
 
     # "The moment you've stolen Asami's attention, Fleur restarts her groping, this time even more methodical and cautious. She undoes your jeans and brings out your cock."
-    "En el momento en que has robado la atención de Asami, Fleur reanuda su manoseo, esta vez aún más metódica y cautelosa. Te desabrocha los vaqueros y te saca la polla."
+    "En el momento en que has robado la atención de Asami, Fleur reanuda su manoseo, esta vez aún más metódica y cautelosa. Te desabrocha los jeans y te saca la polla."
 
 # game/code/Book-1/Chapter-6s/s03.rpy:197
 translate spanish b1c06ss03_a55f52a5:
@@ -350,7 +350,7 @@ translate spanish b1c06ss03_20509841:
 translate spanish b1c06ss03_e288b81a:
 
     # mct "\"In that case\"? What does she mean by that?"
-    mct "\"¿En ese caso\"? ¿Qué quiere decir con eso?"
+    mct "¿\"En ese caso\"? ¿Qué quiere decir con eso?"
 
 # game/code/Book-1/Chapter-6s/s03.rpy:238
 translate spanish b1c06ss03_e6734824:
@@ -368,7 +368,7 @@ translate spanish b1c06ss03_9882cd61:
 translate spanish b1c06ss03_abe90021:
 
     # ass "R.I.P. Welp, at least she's alive."
-    ass "ROTURA. Bueno, al menos está viva."
+    ass "Bueno, al menos está viva."
 
 # game/code/Book-1/Chapter-6s/s03.rpy:245
 translate spanish b1c06ss03_df3a7231:
@@ -404,7 +404,7 @@ translate spanish b1c06ss03_d4a4d91e:
 translate spanish b1c06ss03_cd25b136:
 
     # mct "I have to get her for this later."
-    mct "Tengo que ir a buscarla para esto más tarde."
+    mct "Tengo que buscarla para esto más tarde."
 
 # game/code/Book-1/Chapter-6s/s03.rpy:265
 translate spanish b1c06ss03_de60ef37:
@@ -506,7 +506,7 @@ translate spanish b1c06ss03_4970d968:
 translate spanish b1c06ss03_ef779741:
 
     # mc "That was uh...my mom."
-    mc "Esa fue eh... mi mamá."
+    mc "Esa era eh... mi mamá."
 
 # game/code/Book-1/Chapter-6s/s03.rpy:341
 translate spanish b1c06ss03_4f7ab923:
@@ -548,7 +548,7 @@ translate spanish b1c06ss03_7698b632:
 translate spanish b1c06ss03_2e21a59c:
 
     # ass "Alright Norman Bates, let's cool it with the casual incest. We have enough fuckups in this world as is."
-    ass "Muy bien, Norman Bates, tranquilicémoslo con el incesto casual. Ya tenemos suficientes cagadas en este mundo."
+    ass "Muy bien Norman Bates, vamos a tranquilizarnos con el incesto casual. Ya tenemos suficiente mierda en este mundo."
 
 # game/code/Book-1/Chapter-6s/s03.rpy:376
 translate spanish b1c06ss03_5a42b301:
@@ -566,7 +566,7 @@ translate spanish b1c06ss03_a4e73d5c:
 translate spanish b1c06ss03_7002213c:
 
     # ass "This is male manipulator behavior, my friend. Not a good look, [mcname]."
-    ass "Este es un comportamiento de manipulador masculino, amigo mío. No se ve bien, [mcname]."
+    ass "Este es el comportamiento de un hombre manipulador, amigo mío. No se ve nada bien, [mcname]."
 
 # game/code/Book-1/Chapter-6s/s03.rpy:385
 translate spanish b1c06ss03_a5ccf958:
@@ -590,7 +590,7 @@ translate spanish b1c06ss03_6b428827:
 translate spanish b1c06ss03_b55f78a3:
 
     # mc "Well she was certainly fun."
-    mc "Bueno, ella ciertamente fue divertida."
+    mc "Bueno, ella era muy divertida."
 
 # game/code/Book-1/Chapter-6s/s03.rpy:409
 translate spanish b1c06ss03_86d554ec:
