@@ -44,7 +44,7 @@ translate spanish b1c06ss06_ae3d9a5a:
 translate spanish b1c06ss06_e7aac591:
 
     # rd "The usual?"
-    rd "¿Lo normal?"
+    rd "¿Lo de siempre?"
 
 # game/code/Book-1/Chapter-6s/s06.rpy:27
 translate spanish b1c06ss06_e85cc540:
@@ -230,7 +230,7 @@ translate spanish b1c06ss06_34b46ceb:
 translate spanish b1c06ss06_64c1a09f:
 
     # mg "This your first time here?"
-    mg "¿Esta es tu primera vez aquí?"
+    mg "¿Es tu primera vez aquí?"
 
 # game/code/Book-1/Chapter-6s/s06.rpy:121
 translate spanish b1c06ss06_58c936ad:
@@ -572,7 +572,7 @@ translate spanish b1c06ss06_d71cd59b:
 translate spanish b1c06ss06_7c7c92fa:
 
     # nr "Don't keep me from feelin' the buzz, though."
-    nr "Sin embargo, no me impida sentir el zumbido."
+    nr "Sin embargo, no me impide sentir el zumbido."
 
 # game/code/Book-1/Chapter-6s/s06.rpy:292
 translate spanish b1c06ss06_de093638:
@@ -662,19 +662,19 @@ translate spanish b1c06ss06_d616fbc7:
 translate spanish b1c06ss06_60007519:
 
     # mc "Hey Ridley! Can I get a..."
-    mc "¡Hola, Ridley! Puedo pedirte un..."
+    mc "¡Oye, Ridley! Puedo pedirte un..."
 
 # game/code/Book-1/Chapter-6s/s06.rpy:344
 translate spanish b1c06ss06_3bb123a5:
 
     # ffl "A margarita. With extra fruit, please!"
-    ffl "una margarita ¡Con fruta extra, por favor!"
+    ffl "un margarita ¡Con fruta extra, por favor!"
 
 # game/code/Book-1/Chapter-6s/s06.rpy:347
 translate spanish b1c06ss06_04181dcd:
 
     # mc "A margarita with extra fruit?"
-    mc "¿Una margarita con fruta extra?"
+    mc "¿Un margarita con fruta extra?"
 
 # game/code/Book-1/Chapter-6s/s06.rpy:350
 translate spanish b1c06ss06_9ff1a4a0_1:
@@ -710,7 +710,7 @@ translate spanish b1c06ss06_0c251b66:
 translate spanish b1c06ss06_e7aabb00:
 
     # mc "You're not off the hook that easy, sweetheart."
-    mc "No estás libre de culpa tan fácilmente, cariño."
+    mc "No te librarás tan fácilmente, cariño."
 
 # game/code/Book-1/Chapter-6s/s06.rpy:373
 translate spanish b1c06ss06_8a49787f:
@@ -752,7 +752,7 @@ translate spanish b1c06ss06_62660152:
 translate spanish b1c06ss06_51a6ecb0:
 
     # ffl "W-well...um...I mean, I'm not saying you {i}shouldn't{/i} ravage me."
-    ffl "B-bueno... um... Quiero decir, no estoy diciendo que {i}no deberías{/i} devastarme."
+    ffl "B-bueno... um... Quiero decir, no estoy diciendo que {i}no deberías{/i} destrozarme."
 
 # game/code/Book-1/Chapter-6s/s06.rpy:394
 translate spanish b1c06ss06_09f2de35:
@@ -782,7 +782,7 @@ translate spanish b1c06ss06_119bd6f6:
 translate spanish b1c06ss06_eaaa1d0b:
 
     # ffl "My roommate's out for a bit right now."
-    ffl "Mi compañera de cuarto está fuera ahora mismo."
+    ffl "Mi compañera de cuarto está fuera en este momento."
 
 # game/code/Book-1/Chapter-6s/s06.rpy:406
 translate spanish b1c06ss06_133633a7:
