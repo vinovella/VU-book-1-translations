@@ -662,7 +662,7 @@ translate spanish b1c06ss06_d616fbc7:
 translate spanish b1c06ss06_60007519:
 
     # mc "Hey Ridley! Can I get a..."
-    mc "¡Hola, Ridley! Puedo pedirte un..."
+    mc "¡Oye, Ridley! Puedo pedirte un..."
 
 # game/code/Book-1/Chapter-6s/s06.rpy:344
 translate spanish b1c06ss06_3bb123a5:
