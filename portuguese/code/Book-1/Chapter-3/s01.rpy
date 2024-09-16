@@ -602,7 +602,7 @@ translate portuguese b01c03s01m01_377fdd40:
 translate portuguese b01c03s01m01_da8a03fa:
 
     # dk "Probably. He's pretty popular around campus--though I couldn't tell you why."
-    dk "Provavelmente. Ele é bem popular no campus--mas não faço ideia do porquê."
+    dk "Provavelmente. Ele é bem popular no campus— mas não faço ideia do porquê."
 
 # game/code/Book-1/Chapter-3/s01.rpy:385
 translate portuguese b01c03s01m01_7af14185:
@@ -640,5 +640,5 @@ translate portuguese strings:
 
     # game/code/Book-1/Chapter-3/s01.rpy:105
     old "Respond humorously"
-    new "Responder humorosamente"
+    new "Responder de forma humorada"
 
