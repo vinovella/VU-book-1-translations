@@ -2,55 +2,55 @@
 translate chinese b1c09s12_f67f91ab:
 
     # "You relax by the fire, enjoying the warmth and atmosphere of the party."
-    "You relax by the fire, enjoying the warmth and atmosphere of the party."
+    "你坐在火炉旁放松，享受着派对的温暖和轻松的氛围。"
 
 # game/code/Book-1/Chapter-9/s12.rpy:77
 translate chinese b1c09s12_3827748d:
 
     # "The night's filled with sounds of distant conversations and laughter punctuated by the crackling of fire."
-    "The night's filled with sounds of distant conversations and laughter punctuated by the crackling of fire."
+    "这个夜晚很放松，远处是大家愉悦的谈笑声，不时被近处火炉的噼啪声打断。"
 
 # game/code/Book-1/Chapter-9/s12.rpy:81
 translate chinese b1c09s12_37dd6d75:
 
     # "As night's darkness came, the area around you gradually thinned with the guests venturing off to explore the rest of the party within the mansion."
-    "As night's darkness came, the area around you gradually thinned with the guests venturing off to explore the rest of the party within the mansion."
+    "随着夜幕降临，周围的客人逐渐散去，离开去探索豪宅内的其他派对。"
 
 # game/code/Book-1/Chapter-9/s12.rpy:84
 translate chinese b1c09s12_9a235d13:
 
     # "For your part, you enjoy the soothing calm of the fire after a day of festivities."
-    "For your part, you enjoy the soothing calm of the fire after a day of festivities."
+    "经过一天的庆祝活动，你享受着火炉带来的舒缓和平静。"
 
 # game/code/Book-1/Chapter-9/s12.rpy:88
 translate chinese b1c09s12_8d215e32:
 
     # ffl "Pondering in silence, are we?"
-    ffl "Pondering in silence, are we?"
+    ffl "坐在这儿沉思呀，是吗？"
 
 # game/code/Book-1/Chapter-9/s12.rpy:91
 translate chinese b1c09s12_c364213c:
 
     # mc "Don't mind me. Just recharging before I go bring the house down."
-    mc "Don't mind me. Just recharging before I go bring the house down."
+    mc "不用管我。我只是在去狂欢之前补充下能量。"
 
 # game/code/Book-1/Chapter-9/s12.rpy:94
 translate chinese b1c09s12_06566a8d:
 
     # ffl "*Smirks* {i}Right...{/i}"
-    ffl "*Smirks* {i}Right...{/i}"
+    ffl "*笑* {i}这样啊...{/i}"
 
 # game/code/Book-1/Chapter-9/s12.rpy:98
 translate chinese b1c09s12_00f0a3f0:
 
     # ffl "Seat taken, mon ami?"
-    ffl "Seat taken, mon ami?"
+    ffl "有人坐吗，我的朋友？"
 
 # game/code/Book-1/Chapter-9/s12.rpy:101
 translate chinese b1c09s12_50ecbcd9:
 
     # mc "Pour toi, je faire une place spéciale."
-    mc "Pour toi, je faire une place spéciale."
+    mc "对于你，我给你留了个位置。"
 
 # game/code/Book-1/Chapter-9/s12.rpy:104
 translate chinese b1c09s12_76c93b18:
