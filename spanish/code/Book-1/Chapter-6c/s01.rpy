@@ -8,7 +8,7 @@ translate spanish b1c06cs01_2c14af6a:
 translate spanish b1c06cs01_2f20c812:
 
     # mct "Something about the Guides..."
-    mct "Algo sobre las guías..."
+    mct "Algo sobre los Guías..."
 
 # game/code/Book-1/Chapter-6c/s01.rpy:20
 translate spanish b1c06cs01_1311dbc4:
@@ -170,7 +170,7 @@ translate spanish b1c06cs01_1f114879:
 translate spanish b1c06cs01_a67b8ab3:
 
     # nv "That's what the Guide will help us with."
-    nv "En eso nos ayudará la Guía."
+    nv "En eso nos ayudará el Guía."
 
 # game/code/Book-1/Chapter-6c/s01.rpy:92
 translate spanish b1c06cs01_199cc8be:
@@ -254,7 +254,7 @@ translate spanish b1c06cs01_7fa220b1:
 translate spanish b1c06cs01_bf7f1a54:
 
     # nv "But your healing journey is totally up to you. {i}No one{/i} can take that right away from you. Anyone stupid enough to try will get banned from the group."
-    nv "Pero su viaje de sanación depende totalmente de usted. {i}Nadie{/i} puede quitarte ese derecho. Cualquiera lo suficientemente estúpido como para intentarlo será expulsado del grupo."
+    nv "Pero tu viaje de sanación depende totalmente de ti. {i}Nadie{/i} puede quitarte ese derecho. Cualquiera lo suficientemente estúpido como para intentarlo será expulsado del grupo."
 
 # game/code/Book-1/Chapter-6c/s01.rpy:121
 translate spanish b1c06cs01_81b740c0:
@@ -278,7 +278,7 @@ translate spanish b1c06cs01_1d5030ec:
 translate spanish b1c06cs01_a12b43ab:
 
     # nv "We all have our individual journeys, but a partner and a Guide make it so you don't have to make that journey alone."
-    nv "Todos tenemos nuestros viajes individuales, pero un compañero y un Guía lo hacen para que no tengas que hacer ese viaje solo."
+    nv "Todos tenemos nuestros viajes individuales, pero un compañero y un Guía hacen que no tengas que recorrerlo solo."
 
 # game/code/Book-1/Chapter-6c/s01.rpy:129
 translate spanish b1c06cs01_45f5d738:
@@ -296,7 +296,7 @@ translate spanish b1c06cs01_85a66c93:
 translate spanish b1c06cs01_4e7d5f29:
 
     # nv "For the most part. Sometimes the Guides use those more like guidelines than strict rules, though. Like I said, healing is complex."
-    nv "La mayor parte. Sin embargo, a veces las Guías las usan más como pautas que como reglas estrictas. Como dije, la sanación es compleja."
+    nv "La mayor parte. Sin embargo, a veces los Guías las usan más como pautas que como reglas estrictas. Como dije, la sanación es compleja."
 
 # game/code/Book-1/Chapter-6c/s01.rpy:138
 translate spanish b1c06cs01_9576454f:
@@ -338,7 +338,7 @@ translate spanish b1c06cs01_8f922723:
 translate spanish b1c06cs01_0a53cc50:
 
     # ij "Hi Nia! I'm well."
-    ij "¡Hola Nía! Estoy bien."
+    ij "¡Hola Nia! Estoy bien."
 
 # game/code/Book-1/Chapter-6c/s01.rpy:165
 translate spanish b1c06cs01_1b02778e:
@@ -380,7 +380,7 @@ translate spanish b1c06cs01_17d9efc8:
 translate spanish b1c06cs01_4e4ea5b0:
 
     # ij "Nia, come with me. I'll go over the workbook with you while Andre decides...what Guide to assign you."
-    ij "Nía, ven conmigo. Repasaré el libro de ejercicios contigo mientras Andre decide... qué guía asignarte."
+    ij "Nia, ven conmigo. Repasaré el libro de ejercicios contigo mientras Andre decide... qué guía asignarte."
 
 # game/code/Book-1/Chapter-6c/s01.rpy:183
 translate spanish b1c06cs01_857af703:
@@ -416,13 +416,13 @@ translate spanish b1c06cs01_5b6065b0:
 translate spanish b1c06cs01_689b5b9a:
 
     # mc "My...birthday?{w} Like, astrology?"
-    mc "¿Mi... cumpleaños?{w} ¿Como la astrología?"
+    mc "¿Mi... fecha de nacimiento?{w} ¿Como la astrología?"
 
 # game/code/Book-1/Chapter-6c/s01.rpy:210
 translate spanish b1c06cs01_b410ead0:
 
     # ad "*scoffs* You're giving me scorpio energy as we speak."
-    ad "*se burla* Me estás dando energía de escorpión mientras hablamos."
+    ad "*se burla* Me estás dando energía de Escorpio mientras hablamos."
 
 # game/code/Book-1/Chapter-6c/s01.rpy:213
 translate spanish b1c06cs01_3530d8c3:
@@ -554,7 +554,7 @@ translate spanish b1c06cs01_93231a3c:
 translate spanish b1c06cs01_fff308be:
 
     # mc "What if I forgave {i}myself{/i} for my sins? What if I was already saved? Does it make a difference if I am or am not?"
-    mc "¿Y si me perdonara a {i}mí mismo{/i} por mis pecados? ¿Y si ya me hubiese salvado? ¿Hay alguna diferencia si fui salvado o no?"
+    mc "¿Y si me perdonara {i}a mí mismo{/i} por mis pecados? ¿Y si ya estuviera salvado? ¿Hay alguna diferencia si lo estoy o no?"
 
 # game/code/Book-1/Chapter-6c/s01.rpy:314
 translate spanish b1c06cs01_bbd36abc:
@@ -644,7 +644,7 @@ translate spanish b1c06cs01_38f2737e:
 translate spanish b1c06cs01_3f02161b:
 
     # mc "What if my sins are permanent? That I'm damned with no hope for redemption?"
-    mc "¿Qué pasa si mis pecados son permanentes? ¿Que estoy condenado sin esperanza de redención?"
+    mc "¿Y si mis pecados son permanentes? ¿Que estoy condenado sin esperanza de redención?"
 
 # game/code/Book-1/Chapter-6c/s01.rpy:353
 translate spanish b1c06cs01_a820c310:
@@ -680,7 +680,7 @@ translate spanish b1c06cs01_ec46bee3:
 translate spanish b1c06cs01_b19c0f9e:
 
     # ad "Nia, darling. You always bring us those who need our guidance the most. What a thoughtful creature you are."
-    ad "Nía, cariño. Siempre nos traes a aquellos que más necesitan nuestra guía. Qué criatura tan pensativa eres."
+    ad "Nia, cariño. Siempre nos traes a aquellos que más necesitan nuestra guía. Qué criatura tan pensativa eres."
 
 # game/code/Book-1/Chapter-6c/s01.rpy:368
 translate spanish b1c06cs01_bc4610c1:
@@ -710,13 +710,13 @@ translate spanish b1c06cs01_b203a291:
 translate spanish b1c06cs01_a2a5e441:
 
     # ad "I think Delphia suits you both very well."
-    ad "Creo que Delphia les queda muy bien a los dos."
+    ad "Creo que Delphia les sienta muy bien a los dos."
 
 # game/code/Book-1/Chapter-6c/s01.rpy:386
 translate spanish b1c06cs01_1f7466d3:
 
     # ad "Her sovereign ways are sure to ground you, young soul."
-    ad "Sus formas soberanas seguramente te pondrán a tierra, alma joven."
+    ad "Sus formas soberanas seguro que te harán entender, alma joven."
 
 # game/code/Book-1/Chapter-6c/s01.rpy:389
 translate spanish b1c06cs01_127676ce:
@@ -758,7 +758,7 @@ translate spanish b1c06cs01_b837803d:
 translate spanish b1c06cs01_a71a66a2:
 
     # mct "It's nice to know something about her is normal.{w} Hopefully."
-    mct "Es bueno saber que algo sobre ella es normal. {w} Con suerte."
+    mct "Es bueno saber que algo en ella es normal.{w} Esperemos."
 
 # game/code/Book-1/Chapter-6c/s01.rpy:415
 translate spanish b1c06cs01_cebcd97b:
