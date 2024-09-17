@@ -14,19 +14,19 @@ translate spanish b1c07ss12_45b4b720:
 translate spanish b1c07ss12_4dbf102b:
 
     # cb "Thank fuck."
-    cb "Gracias carajo."
+    cb "Gracias, carajo."
 
 # game/code/Book-1/Chapter-7s/s12.rpy:59
 translate spanish b1c07ss12_e69d8425:
 
     # cb "I hope Morgan reads it..."
-    cb "Espero que Morgan lo lea..."
+    cb "Espero que Morgan la lea..."
 
 # game/code/Book-1/Chapter-7s/s12.rpy:60
 translate spanish b1c07ss12_5127a63a:
 
     # cb "How did Rory seem? Was she okay?"
-    cb "¿Cómo parecía Rory? ¿Estaba bien?"
+    cb "¿Cómo se veía Rory? ¿Estaba bien?"
 
 # game/code/Book-1/Chapter-7s/s12.rpy:64
 translate spanish b1c07ss12_f5e60a94:
@@ -62,19 +62,19 @@ translate spanish b1c07ss12_cf93899c:
 translate spanish b1c07ss12_4d324943:
 
     # mc "I'd figured as much. About the trans thing, I mean."
-    mc "Me lo imaginaba. Sobre lo trans, quiero decir."
+    mc "Ya me lo imaginaba. Sobre lo de ser trans, quiero decir."
 
 # game/code/Book-1/Chapter-7s/s12.rpy:84
 translate spanish b1c07ss12_3384817d:
 
     # cb "I'm not sure what kind of trouble she's in now, or if the gambling habit just stuck."
-    cb "No estoy seguro de en qué tipo de problemas se encuentra ahora, o si el hábito de apostar se le quedó."
+    cb "No estoy segura de en qué tipo de problemas se encuentra ahora, o si el hábito de apostar se le quedó."
 
 # game/code/Book-1/Chapter-7s/s12.rpy:86
 translate spanish b1c07ss12_f57f54d5:
 
     # cb "Regardless, thank you. I'm sure Morgan will protect Rory to the best of her ability."
-    cb "Independientemente, gracias. Estoy seguro de que Morgan protegerá a Rory lo mejor que pueda."
+    cb "Independientemente, gracias. Estoy segura de que Morgan protegerá a Rory lo mejor que pueda."
 
 # game/code/Book-1/Chapter-7s/s12.rpy:87
 translate spanish b1c07ss12_38174dc0:
@@ -116,7 +116,7 @@ translate spanish b1c07ss12_5cf435c7:
 translate spanish b1c07ss12_92ec2cd0:
 
     # cb "You'll need a way to rapidly build street cred. You can do that by proving yourself."
-    cb "Necesitará una forma de generar rápidamente credibilidad en la calle. Puedes hacerlo probándote a ti mismo."
+    cb "Necesitarás una forma de generar rápidamente credibilidad en la calle. Puedes hacerlo probándote a ti mismo."
 
 # game/code/Book-1/Chapter-7s/s12.rpy:103
 translate spanish b1c07ss12_f0852429:
@@ -140,13 +140,13 @@ translate spanish b1c07ss12_686179cb:
 translate spanish b1c07ss12_12037366:
 
     # cb "Xasan and Leia are the main ones who track people's accounts—who has debt and who doesn't."
-    cb "Xasan y Leia son los principales que rastrean las cuentas de las personas: quién tiene deudas y quién no."
+    cb "Xasan y Leia son los principales encargados de seguir las cuentas de la gente: ver quién tiene deudas y quién no."
 
 # game/code/Book-1/Chapter-7s/s12.rpy:117
 translate spanish b1c07ss12_e52a0231:
 
     # mc "Leia de la Cruz?"
-    mc "¿Lía de la Cruz?"
+    mc "¿Leia de la Cruz?"
 
 # game/code/Book-1/Chapter-7s/s12.rpy:120
 translate spanish b1c07ss12_e41080de:
@@ -158,7 +158,7 @@ translate spanish b1c07ss12_e41080de:
 translate spanish b1c07ss12_61a780e9:
 
     # mc "Leia isn't...she hasn't been with the Syndicate for a while. She's missing."
-    mc "Leia no está... ella no ha estado con el Sindicato por un tiempo. ella está desaparecida"
+    mc "Leia no está... ella no ha estado con el Sindicato por un tiempo. ella está desaparecida."
 
 # game/code/Book-1/Chapter-7s/s12.rpy:126
 translate spanish b1c07ss12_b296e66a:
@@ -212,7 +212,7 @@ translate spanish b1c07ss12_1a95f982:
 translate spanish b1c07ss12_6c57c1f4:
 
     # cb "They're always looking for poor fuckers to rope into their business. Taking on half of Morgan's debt should interest them."
-    cb "Siempre están buscando pobres cabrones para meterse en sus negocios. Asumir la mitad de la deuda de Morgan debería interesarles."
+    cb "Siempre están buscando pobres desgraciados para meterlos en su negocio. Asumir la mitad de la deuda de Morgan debería interesarles."
 
 # game/code/Book-1/Chapter-7s/s12.rpy:151
 translate spanish b1c07ss12_359668c6:
@@ -230,7 +230,7 @@ translate spanish b1c07ss12_afdd43d4:
 translate spanish b1c07ss12_4af8aacd:
 
     # cb "Much like that guy you encountered with Rory today."
-    cb "Muy parecido al tipo que te encontraste con Rory hoy."
+    cb "Muy parecido al tipo con el que te encontraste hoy con Rory."
 
 # game/code/Book-1/Chapter-7s/s12.rpy:157
 translate spanish b1c07ss12_b3ae73c8:
@@ -242,19 +242,19 @@ translate spanish b1c07ss12_b3ae73c8:
 translate spanish b1c07ss12_cf011dce:
 
     # cb "I tried to keep my troubles hidden from Morgan."
-    cb "Traté de ocultar mis problemas a Morgan."
+    cb "Traté de ocultarle a Morgan mis problemas."
 
 # game/code/Book-1/Chapter-7s/s12.rpy:160
 translate spanish b1c07ss12_69d2b1f4:
 
     # cb "But one day, Rory was on the list of debt collections. And you know how close they are."
-    cb "Pero un día, Rory estaba en la lista de cobros de deudas. Y sabes lo cerca que están."
+    cb "Pero un día, Rory estaba en la lista de cobros de deudas. Y sabes lo cercanas que ellas son."
 
 # game/code/Book-1/Chapter-7s/s12.rpy:163
 translate spanish b1c07ss12_958d9e7a:
 
     # cb "Almost as close as me and Morgan...used to be."
-    cb "Casi tan cerca como Morgan y yo solíamos ser."
+    cb "Casi tan cercanas como Morgan y yo... solíamos ser."
 
 # game/code/Book-1/Chapter-7s/s12.rpy:164
 translate spanish b1c07ss12_b46a4511:
@@ -278,7 +278,7 @@ translate spanish b1c07ss12_past_25624a90:
 translate spanish b1c07ss12_past_49d93e12:
 
     # mg "{i}What the hell happened to you, Cori? This is what it all led up to? Beating the fuck out of your friends, your sister?{/i}"
-    mg "{i}¿Qué diablos te pasó, Cori? ¿A esto condujo todo? ¿Golpeando a tus amigos, tu hermana? {/i}"
+    mg "{i}¿Qué demonios te ha pasado, Cori? ¿A esto te llevó todo? ¿Golpear a tus amigos, a tu hermana?{/i}"
 
 # game/code/Book-1/Chapter-7s/s12.rpy:190
 translate spanish b1c07ss12_past_c8b5a79f:
@@ -296,7 +296,7 @@ translate spanish b1c07ss12_past_070c3003:
 translate spanish b1c07ss12_past_35672c43:
 
     # cb "We all knew what we were getting into when we entered The Syndicate."
-    cb "Todos sabíamos en lo que nos estábamos metiendo cuando entramos en The Syndicate."
+    cb "Todos sabíamos en lo que nos estábamos metiendo cuando entramos en El Sindicato."
 
 # game/code/Book-1/Chapter-7s/s12.rpy:217
 translate spanish b1c07ss12_past_28feb008:
@@ -308,7 +308,7 @@ translate spanish b1c07ss12_past_28feb008:
 translate spanish b1c07ss12_past_756c3d11:
 
     # mg "{i}It doesn't matter! What happened to loyalty?! We're family! That should be more important than FIGHTING!{/i}"
-    mg "{i}¡No importa! ¡¿Qué pasó con la lealtad?! ¡Somos familia! ¡Eso debería ser más importante que LUCHAR! {/i}"
+    mg "{i}¡No importa! ¡¿Qué pasó con la lealtad?! ¡Somos familia! ¡Eso debería ser más importante que LUCHAR!{/i}"
 
 # game/code/Book-1/Chapter-7s/s12.rpy:223
 translate spanish b1c07ss12_past_1912b5a8:
@@ -350,7 +350,7 @@ translate spanish b1c07ss12_past_5bc793d1:
 translate spanish b1c07ss12_past_53cf567c:
 
     # cbp "{i}Xasan wanted me to make an example of late payers, Morg.{/i}"
-    cbp "{i}Xasan quería que diera un ejemplo de morosos, Morg.{/i}"
+    cbp "{i}Xasan quería que les diera un escarmiento a los morosos, Morg.{/i}"
 
 # game/code/Book-1/Chapter-7s/s12.rpy:266
 translate spanish b1c07ss12_past_11e773c1:
@@ -368,7 +368,7 @@ translate spanish b1c07ss12_past_e47b1c91:
 translate spanish b1c07ss12_past_d5d85c81:
 
     # cb "I didn't want to hurt her, even as she was hurting me. I understood we were both doing what we thought was right."
-    cb "No quería lastimarla, incluso cuando ella me estaba lastimando. Entendí que ambos estábamos haciendo lo que creíamos correcto."
+    cb "No quería lastimarla, incluso cuando ella me estaba lastimando. Entendí que ambas estábamos haciendo lo que creíamos correcto."
 
 # game/code/Book-1/Chapter-7s/s12.rpy:293
 translate spanish b1c07ss12_past_e6b385a5:
@@ -380,7 +380,7 @@ translate spanish b1c07ss12_past_e6b385a5:
 translate spanish b1c07ss12_past_af95f5a7:
 
     # cb "She beat the shit out of me pretty good. For all our sparing and practice-fighting, I had no idea she had it in her to do that kind of damage."
-    cb "Ella me sacó la mierda bastante bien. A pesar de todo nuestro respeto y práctica de lucha, no tenía idea de que ella pudiera hacer ese tipo de daño."
+    cb "Ella me dio una buena paliza. A pesar de nuestras prácticas de lucha, no tenía ni idea de que fuera capaz de hacer tanto daño."
 
 # game/code/Book-1/Chapter-7s/s12.rpy:331
 translate spanish b1c07ss12_past_726ea2c1:
@@ -398,7 +398,7 @@ translate spanish b1c07ss12_past_bc48c7f8:
 translate spanish b1c07ss12_past_3f51bfef:
 
     # mg "{i}You're supposed to be my sister. How did this happen to us?{/i}"
-    mg "{i}Se supone que eres mi hermana. ¿Cómo nos pasó esto a nosotros?{/i}"
+    mg "{i}Se supone que eres mi hermana. ¿Cómo nos pasó esto a nosotras?{/i}"
 
 # game/code/Book-1/Chapter-7s/s12.rpy:347
 translate spanish b1c07ss12_past_ec129d28:
@@ -434,13 +434,13 @@ translate spanish b1c07ss12_present_2115d8ee:
 translate spanish b1c07ss12_present_25f060a8:
 
     # cb "So in the end, Morgan inherited my debt anyway. It would've gone to her since I was arrested. I never got to explain to Morgan that I was in debt and was trying to get out without worrying her."
-    cb "Así que al final, Morgan heredó mi deuda de todos modos. Habría ido a ella desde que fui arrestado. Nunca pude explicarle a Morgan que estaba endeudado y que estaba tratando de salir sin preocuparla."
+    cb "Así que al final, Morgan heredó mi deuda de todos modos. Habría ido a ella desde que me arrestaron. Nunca pude explicarle a Morgan que estaba endeudada y que intentaba salir sin preocuparla."
 
 # game/code/Book-1/Chapter-7s/s12.rpy:391
 translate spanish b1c07ss12_present_1bcf648b:
 
     # cb "So that's why I want you to take on Morgan's debt. It's mine to begin with. I just want to right my wrongs."
-    cb "Por eso quiero que te hagas cargo de la deuda de Morgan. Es mío para empezar. Solo quiero corregir mis errores."
+    cb "Por eso quiero que te hagas cargo de la deuda de Morgan. Es mía para empezar. Sólo quiero corregir mis errores."
 
 # game/code/Book-1/Chapter-7s/s12.rpy:394
 translate spanish b1c07ss12_present_1d218e58:
@@ -476,7 +476,7 @@ translate spanish b1c07ss12_present_11455b53:
 translate spanish b1c07ss12_present_75974cf5:
 
     # cb "*laughs* You should see your face right now."
-    cb "*risas* Deberías ver tu cara ahora mismo."
+    cb "*risas* Deberías ver tu cara justo ahora."
 
 # game/code/Book-1/Chapter-7s/s12.rpy:413
 translate spanish b1c07ss12_present_a63cca2e:
@@ -488,19 +488,19 @@ translate spanish b1c07ss12_present_a63cca2e:
 translate spanish b1c07ss12_present_818c66cb:
 
     # cb "Listen, I'm just thankful you helped me, that's all."
-    cb "Escucha, estoy agradecido de que me hayas ayudado, eso es todo."
+    cb "Escucha, estoy agradecida de que me hayas ayudado, eso es todo."
 
 # game/code/Book-1/Chapter-7s/s12.rpy:420
 translate spanish b1c07ss12_present_a555e765:
 
     # mc "Heh, yeah. I mean, it wouldn't work anyway, you being handcuffed and all."
-    mc "Je, sí. Quiero decir, no funcionaría de todos modos, estando esposado y todo."
+    mc "Je, sí. Quiero decir, no funcionaría de todos modos, estando esposada y todo."
 
 # game/code/Book-1/Chapter-7s/s12.rpy:423
 translate spanish b1c07ss12_present_5f25116b:
 
     # "Cori spits out a paperclip from underneath her tongue and begins to pick her own cuff lock."
-    "Cori escupe un sujetapapeles debajo de su lengua y comienza a forzar su propio candado."
+    "Cori escupe un clip de debajo de la lengua y empieza a forzar la cerradura de sus esposas."
 
 # game/code/Book-1/Chapter-7s/s12.rpy:434
 translate spanish b1c07ss12_present_4bc32cc9:
@@ -524,13 +524,13 @@ translate spanish b1c07ss12_present_aeec16d2:
 translate spanish b1c07ss12_present_558c652b:
 
     # mc "With a skill like that, why're you still locked up?"
-    mc "Con una habilidad como esa, ¿por qué sigues encerrado?"
+    mc "Con una habilidad como esa, ¿por qué sigues encerrada?"
 
 # game/code/Book-1/Chapter-7s/s12.rpy:453
 translate spanish b1c07ss12_present_4ad51437:
 
     # cb "I just like to cause a little mischief here and there. Nothing that'd increase my sentencing, though."
-    cb "Solo me gusta causar un poco de travesura aquí y allá. Sin embargo, nada que aumentaría mi sentencia."
+    cb "Sólo me gusta hacer alguna travesura aquí y allá. Aunque nada que pueda aumentar mi condena."
 
 # game/code/Book-1/Chapter-7s/s12.rpy:454
 translate spanish b1c07ss12_present_c1a5cd44:
@@ -542,13 +542,13 @@ translate spanish b1c07ss12_present_c1a5cd44:
 translate spanish b1c07ss12_present_34673988:
 
     # cb "I'm humble enough to serve my time. For now, anyway."
-    cb "Soy lo suficientemente humilde para servir mi tiempo. Por ahora, de todos modos."
+    cb "Soy lo suficientemente humilde como para cumplir mi condena. Por ahora, al menos."
 
 # game/code/Book-1/Chapter-7s/s12.rpy:458
 translate spanish b1c07ss12_present_951d66d9:
 
     # cb "Anyways, I'm not cuffed anymore. So you and I can have a little fun."
-    cb "De todos modos, ya no estoy esposado. Para que tú y yo podamos divertirnos un poco."
+    cb "De todos modos, ya no estoy esposada. Para que tú y yo podamos divertirnos un poco."
 
 # game/code/Book-1/Chapter-7s/s12.rpy:461
 translate spanish b1c07ss12_present_21ee6c50:
@@ -590,7 +590,7 @@ translate spanish b1c07ss12_no_sex_805c394f:
 translate spanish b1c07ss12_no_sex_6e5cf9cb:
 
     # mc "I think you're full of shit."
-    mc "Creo que estás lleno de mierda."
+    mc "Creo que estás llena de mierda."
 
 # game/code/Book-1/Chapter-7s/s12.rpy:489
 translate spanish b1c07ss12_no_sex_6839bab9:
@@ -668,7 +668,7 @@ translate spanish b1c07ss12_sex_a34f4552:
 translate spanish b1c07ss12_sex_4c6d0054:
 
     # cb "Fuck me. Please? It's been so long..."
-    cb "jodeme ¿Por favor? Ha sido tan largo..."
+    cb "Fóllame ¿Por favor? Ha sido tan largo..."
 
 # game/code/Book-1/Chapter-7s/s12.rpy:562
 translate spanish b1c07ss12_sex_5f78c36a:
@@ -710,7 +710,7 @@ translate spanish b1c07ss12_sex_5e9b2c42:
 translate spanish b1c07ss12_sex_be50b27a:
 
     # mc "Cause then I'd need to stop fucking you."
-    mc "Porque entonces tendría que dejar de joderte."
+    mc "Porque entonces tendría que dejar de follarte."
 
 # game/code/Book-1/Chapter-7s/s12.rpy:600
 translate spanish b1c07ss12_sex_6d901119:
@@ -752,7 +752,7 @@ translate spanish b1c07ss12_sex_1ff391ea:
 translate spanish b1c07ss12_sex_47474409:
 
     # cb "Go faster. Please, I wanna cum on you. I'm so close!"
-    cb "Vaya más rápido. Por favor, quiero correrme sobre ti. ¡Estoy tan cerca!"
+    cb "Más rápido. Por favor, quiero correrme en ti. ¡Estoy tan cerca!"
 
 # game/code/Book-1/Chapter-7s/s12.rpy:634
 translate spanish b1c07ss12_sex_5734ce8d:
@@ -818,7 +818,7 @@ translate spanish b1c07ss12_sex_0890a1ae:
 translate spanish b1c07ss12_sex_4c830b32:
 
     # "You put your hands on her head and start face fucking her."
-    "Le pones las manos en la cabeza y empiezas a follarla con la cara."
+    "Le pones las manos en la cabeza y empiezas a follártela en la cara."
 
 # game/code/Book-1/Chapter-7s/s12.rpy:715
 translate spanish b1c07ss12_sex_6db4eb81:
@@ -896,13 +896,13 @@ translate spanish b1c07ss12_sex_05f18869:
 translate spanish b1c07ss12_sex_e095d627:
 
     # cb "Sure thing."
-    cb "Cosa segura."
+    cb "Por supuesto."
 
 # game/code/Book-1/Chapter-7s/s12.rpy:130
 translate spanish b1c07ss12_101d7545:
 
     # cb "No, I don't. I mean, nobody really {i}likes{/i} debt collectors, but I never saw anyone who'd wanna harm her."
-    cb "No, no lo hago. Quiero decir, a nadie {i}le gustan{/i} los cobradores de deudas, pero nunca vi a nadie que quisiera hacerle daño."
+    cb "No, no me gusta. A nadie le gustan los cobradores, pero nunca vi a nadie que quisiera hacerle daño."
 
 translate spanish strings:
 
