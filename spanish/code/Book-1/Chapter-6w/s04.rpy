@@ -86,7 +86,7 @@ translate spanish b1c06ws04_c777f4db:
 translate spanish b1c06ws04_173d057d:
 
     # ba "But he's {i}not{/i} part of the Winner's {i}{b}Club.{/b}{/i}"
-    ba "Pero él {i}no{/i} forma parte del {i}{b}Club de Ganadores.{/b}{/i}"
+    ba "Pero él {i}no{/i} forma parte del {i}{b}Club de los Ganadores.{/b}{/i}"
 
 # game/code/Book-1/Chapter-6w/s04.rpy:80
 translate spanish b1c06ws04_6a9f906d:
@@ -104,7 +104,7 @@ translate spanish b1c06ws04_c3d3282c:
 translate spanish b1c06ws04_ae5e57dc:
 
     # ba "Be popular, or rich.{w} You're neither."
-    ba "Sé popular o rico. {w} No lo eres."
+    ba "Ser popular o rico. {w} No lo eres."
 
 # game/code/Book-1/Chapter-6w/s04.rpy:87
 translate spanish b1c06ws04_a1f3456f:
@@ -146,7 +146,7 @@ translate spanish b1c06ws04_07b122b5:
 translate spanish b1c06ws04_afb70aac:
 
     # sm "That's uncalled for. He's not random! He's a part of our team."
-    sm "Eso está fuera de lugar. ¡Él no es al azar! Es parte de nuestro equipo."
+    sm "Eso está fuera de lugar. ¡Él no es un cualquiera! Es parte de nuestro equipo."
 
 # game/code/Book-1/Chapter-6w/s04.rpy:106
 translate spanish b1c06ws04_49429314:
@@ -200,7 +200,7 @@ translate spanish b1c06ws04_49bbbe75:
 translate spanish b1c06ws04_c20d653f:
 
     # ba "Beat it, pup. Silvia will explain."
-    ba "Mátalo, cachorro. Silvia te lo explicará."
+    ba "Lárgate, cachorro. Silvia te lo explicará."
 
 # game/code/Book-1/Chapter-6w/s04.rpy:135
 translate spanish b1c06ws04_97ecac3c:
@@ -272,7 +272,7 @@ translate spanish b1c06ws04_65d6f799:
 translate spanish b1c06ws04_1472ab9f:
 
     # sm "But here, they're just normal students. Everyone here gets it. We're all on the same wavelength, and there isn't a need to peacock your wealth or popularity around."
-    sm "Pero aquí, son estudiantes normales. Aquí todo el mundo lo entiende. Todos estamos en la misma onda y no hay necesidad de alardear de riqueza o popularidad."
+    sm "Pero aquí, son estudiantes normales. Aquí todo el mundo lo entiende. Todos estamos en la misma sintonía y no hay necesidad de alardear de riqueza o popularidad."
 
 # game/code/Book-1/Chapter-6w/s04.rpy:167
 translate spanish b1c06ws04_0f77c7dc:
@@ -542,7 +542,7 @@ translate spanish b1c06ws04_9b48fadb:
 translate spanish b1c06ws04_2b6f07a7:
 
     # sdl "So you're the new golden boy on the Winner's Team. Haven't gotten a close look at you yet."
-    sdl "Así que eres el nuevo chico dorado del Equipo de Ganadores. Todavía no te he visto de cerca."
+    sdl "Así que eres el nuevo chico dorado del Equipo de los Ganadores. Todavía no te he visto de cerca."
 
 # game/code/Book-1/Chapter-6w/s04.rpy:287
 translate spanish b1c06ws04_45114533:
@@ -596,7 +596,7 @@ translate spanish b1c06ws04_9c55aa6c:
 translate spanish b1c06ws04_14311342:
 
     # mct "This must be the same Sam that Diana mentioned earlier..."
-    mct "Este debe ser el mismo Sam que Diana mencionó antes..."
+    mct "Esta debe ser la misma Sam que Diana mencionó antes..."
 
 # game/code/Book-1/Chapter-6w/s04.rpy:308
 translate spanish b1c06ws04_e69ef931:
@@ -614,7 +614,7 @@ translate spanish b1c06ws04_memory_cloud_26f1f8a4:
 translate spanish b1c06ws04_memory_cloud_c29877d1:
 
     # dm "I've had students transfer to different schools after the embarrassment of being kicked out of the Winner's Club."
-    dm "He tenido estudiantes transferidos a diferentes escuelas después de la vergüenza de ser expulsados ​​del Club de Ganadores."
+    dm "He tenido estudiantes transferidos a diferentes escuelas después de la vergüenza de ser expulsados ​​del Club de los Ganadores."
 
 # game/code/Book-1/Chapter-6w/s04.rpy:325
 translate spanish b1c06ws04_memory_cloud_c9e24025:
@@ -650,7 +650,7 @@ translate spanish b1c06ws04_continue_b3cbe621:
 translate spanish b1c06ws04_continue_79216be3:
 
     # mct "How'd she know my name..."
-    mct "¿Cómo supo mi nombre..."
+    mct "Cómo supo mi nombre..."
 
 # game/code/Book-1/Chapter-6w/s04.rpy:357
 translate spanish b1c06ws04_continue_f7015deb:
@@ -938,7 +938,7 @@ translate spanish b1c06ws04_continue_af01eb39:
 translate spanish b1c06ws04_continue_e0a774aa:
 
     # sdl "An affinity for falling into my lap...I like that. And yes, they absolutely do."
-    sdl "Una afinidad por caer en mi regazo... eso me gusta. Y sí, absolutamente lo hacen."
+    sdl "Una afinidad por caer en mi regazo... eso me gusta. Y sí, absolutamente la tienen."
 
 # game/code/Book-1/Chapter-6w/s04.rpy:484
 translate spanish b1c06ws04_continue_63eec62e:
