@@ -56,7 +56,7 @@ translate spanish b1c07s04_ff9cc2ac:
 translate spanish b1c07s04_66886bd4:
 
     # rh "*Chuckling* If a young lady offers anal intercourse on a first date, does that or does that not make her a slut?"
-    rh "*Riéndose* Si una jovencita ofrece sexo anal en una primera cita, ¿eso la convierte o no en una zorra?"
+    rh "*Riéndose* Si una jovencita ofrece sexo anal en una primera cita, ¿eso la convierte o no en una puta?"
 
 # game/code/Book-1/Chapter-7/s04.rpy:47
 translate spanish b1c07s04_ea3b47e0:
@@ -176,7 +176,7 @@ translate spanish b1c07s04_0045d6fc:
 translate spanish b1c07s04_03680096:
 
     # rh "Please, sit. I'm just messing with you."
-    rh "Por favor sientate. Yo sólo estoy jugando contigo."
+    rh "Por favor, siéntate. Sólo te estoy molestando."
 
 # game/code/Book-1/Chapter-7/s04.rpy:107
 translate spanish b1c07s04_73ddfad8:
@@ -200,7 +200,7 @@ translate spanish b1c07s04_43f8508f:
 translate spanish b1c07s04_d110a9c5:
 
     # rh "*Smiles deviously* So then, why don't we do something about it soon, hm?"
-    rh "*Sonríe maliciosamente* Entonces, ¿por qué no hacemos algo al respecto pronto, hm?"
+    rh "*Sonríe maliciosamente*  Entonces, ¿por qué no hacemos algo pronto?"
 
 # game/code/Book-1/Chapter-7/s04.rpy:116
 translate spanish b1c07s04_8849df81:
@@ -260,13 +260,13 @@ translate spanish b1c07s04_ce546a61:
 translate spanish b1c07s04_2e30ab12:
 
     # mc "\"Overindulge\"?"
-    mc "\"¿Exceso de placer\"?"
+    mc "¿\"Exceso de placer\"?"
 
 # game/code/Book-1/Chapter-7/s04.rpy:145
 translate spanish b1c07s04_cb7cff03:
 
     # rh "Oh, you know. Those kids were all born with silver spoons in their mouths."
-    rh "Oh tú sabes. Todos esos niños nacieron con cucharas de plata en la boca."
+    rh "Oh, tú sabes. Todos esos niños nacieron con cucharas de plata en la boca."
 
 # game/code/Book-1/Chapter-7/s04.rpy:146
 translate spanish b1c07s04_5cc9f1be:
@@ -302,7 +302,7 @@ translate spanish b1c07s04_905d0f3b:
 translate spanish b1c07s04_4e4f13f5:
 
     # rh "Almost came up to you, but you looked like you were being swarmed enough, so I didn't want to overwhelm you even more."
-    rh "Casi se me acercó, pero parecía que estabas siendo lo suficientemente invadido, así que no quería abrumarte aún más."
+    rh "Casi me acerco a ti, pero parecía que ya te estaban acosando bastante, así que no quise agobiarte aún más."
 
 # game/code/Book-1/Chapter-7/s04.rpy:161
 translate spanish b1c07s04_8b06d8fa:
@@ -368,7 +368,7 @@ translate spanish b1c07s04_66a5117a:
 translate spanish b1c07s04_2ef62701:
 
     # rh "You know... I've heard of a bar that a lot of the students seem to be hanging out at."
-    rh "Sabes... He oído hablar de un bar que muchos de los estudiantes parecen pasar el tiempo."
+    rh "Sabes... He oído hablar de un bar donde los estudiantes pasan el rato."
 
 # game/code/Book-1/Chapter-7/s04.rpy:185
 translate spanish b1c07s04_218f8b6f:
@@ -404,13 +404,13 @@ translate spanish b1c07s04_e059a33d:
 translate spanish b1c07s04_2eeacace:
 
     # mct "Guns n' Rosette? It didn't seem like that was a casual hangout place. What's Ronja doing knowing about it?"
-    mct "¿Guns n´Rosette? No parecía que fuera un lugar de reunión informal. ¿Qué hace Ronja al saberlo?"
+    mct "¿Guns n' Rosette? No parecía que fuera un lugar de reunión casual. ¿Qué hace Ronja sabiéndolo?"
 
 # game/code/Book-1/Chapter-7/s04.rpy:202
 translate spanish b1c07s04_71c8478e:
 
     # rh "I heard one of my students talk about it. I think I've seen you around with her before. Short, hippie sort of—"
-    rh "Escuché a uno de mis estudiantes hablar sobre eso. Creo que te he visto con ella antes. Bajita, algo hippie..."
+    rh "Escuché a una de mis estudiantes hablar sobre eso. Creo que te he visto con ella antes. Bajita, algo hippie..."
 
 # game/code/Book-1/Chapter-7/s04.rpy:205
 translate spanish b1c07s04_aac9f0e1:
@@ -572,7 +572,7 @@ translate spanish b1c07s04_3fb92b45:
 translate spanish b1c07s04_a8b7661c:
 
     # mct "Is this getting messier and messier..."
-    mct "¿Se está volviendo cada vez más desordenado..."
+    mct "Se está volviendo cada vez más desordenado..."
 
 # game/code/Book-1/Chapter-7/s04.rpy:274
 translate spanish b1c07s04_214caf4e:
@@ -614,7 +614,7 @@ translate spanish b1c07s04_884cbb32:
 translate spanish b1c07s04_29e2d5ba:
 
     # rh "Don't be afraid to drop into my office if you ever have any...needs."
-    rh "No tenga miedo de pasar por mi oficina si alguna vez tiene alguna... necesidad."
+    rh "No tengas miedo de pasar por mi oficina si alguna vez tiene alguna... necesidad."
 
 # game/code/Book-1/Chapter-7/s04.rpy:291
 translate spanish b1c07s04_222deea3:
