@@ -182,7 +182,7 @@ translate spanish b1c06ws03_952e2bc1:
 translate spanish b1c06ws03_60b57f95:
 
     # sl "I still don't understand why they even bother letting those assholes play."
-    sl "Todavía no entiendo por qué se molestan en dejar jugar a esos pendejos."
+    sl "Sigo sin entender por qué se molestan en dejar jugar a esos imbéciles."
 
 # game/code/Book-1/Chapter-6w/s03.rpy:123
 translate spanish b1c06ws03_eb168ae4:
@@ -302,7 +302,7 @@ translate spanish b1c06ws03_d84408e4:
 translate spanish b1c06ws03_24e7adf2:
 
     # "Simon smoothly passes the ball to Monika on the side of the court, who's already expecting it."
-    "Simón le pasa la pelota con suavidad a Monika al costado de la cancha, quien ya la está esperando."
+    "Simón le pasa la pelota con suavidad a Mónica al costado de la cancha, quien ya la está esperando."
 
 # game/code/Book-1/Chapter-6w/s03.rpy:183
 translate spanish b1c06ws03_df58a2a2:
@@ -338,7 +338,7 @@ translate spanish b1c06ws03_17790827:
 translate spanish b1c06ws03_21a6f955:
 
     # "Her well-timed block sends the ball careening toward their court as both Simon and Monika fail to react in time."
-    "Su oportuno bloqueo hace que el balón salga disparado hacia su lado sin que Simón y Monika puedan reaccionar a tiempo."
+    "Su oportuno bloqueo hace que la pelota salga disparado hacia su lado sin que Simón y Mónica puedan reaccionar a tiempo."
 
 # game/code/Book-1/Chapter-6w/s03.rpy:199
 translate spanish b1c06ws03_347c1268:
@@ -392,7 +392,7 @@ translate spanish b1c06ws03_309fffc9:
 translate spanish b1c06ws03_169d9f55:
 
     # "You get back into the zone and take in everything you've learned about this team as you change your patterns to match up and counter what they've learned about you."
-    "Vuelve a la zona y asimila todo lo que has aprendido sobre este equipo a medida que cambias tus patrones para igualar y contrarrestar lo que han aprendido sobre ti."
+    "Regresas a la zona y asimilas todo lo que has aprendido sobre este equipo a medida que cambias tus patrones para igualar y contrarrestar lo que han aprendido sobre ti."
 
 # game/code/Book-1/Chapter-6w/s03.rpy:251
 translate spanish b1c06ws03_98c38598:
@@ -416,7 +416,7 @@ translate spanish b1c06ws03_7c55b1ac:
 translate spanish b1c06ws03_8eea011a:
 
     # mc "Could you not fuck me with your eyes right now?"
-    mc "¿No podrías follarme con tus ojos ahora mismo?"
+    mc "¿No podrías follarme con tus ojos en este momento?"
 
 # game/code/Book-1/Chapter-6w/s03.rpy:277
 translate spanish b1c06ws03_47f2ef41:
@@ -470,7 +470,7 @@ translate spanish b1c06ws03_f91ee99e:
 translate spanish b1c06ws03_816423d7:
 
     # "Neither Simon nor Monika are ready to block her."
-    "Ni Simón ni Monika están preparados para bloquearla."
+    "Ni Simón ni Mónica están preparados para bloquearla."
 
 # game/code/Book-1/Chapter-6w/s03.rpy:317
 translate spanish b1c06ws03_7a73e5de:
@@ -500,19 +500,19 @@ translate spanish b1c06ws03_c1a46f2c:
 translate spanish b1c06ws03_a8eff729:
 
     # mct "What the...?"
-    mct "Que...?"
+    mct "¿Qué...?"
 
 # game/code/Book-1/Chapter-6w/s03.rpy:349
 translate spanish b1c06ws03_aedfc135:
 
     # "You have no clue what just happened. Monika set the ball to Brigitta as she has done before, but the timing was different."
-    "No tienes idea de lo que acaba de pasar. Monika le pasó la pelota a Brigitta como lo había hecho antes, pero el momento era diferente."
+    "No tienes idea de lo que acaba de pasar. Mónica le pasó la pelota a Brigitta como lo había hecho antes, pero el momento era diferente."
 
 # game/code/Book-1/Chapter-6w/s03.rpy:350
 translate spanish b1c06ws03_fa33c1e7:
 
     # "Not to mention Simon came in running like he was going to hit the set instead of defending."
-    "Sin mencionar que Simón entró corriendo como si fuera a golpear el set en lugar de defender."
+    "Por no hablar de que Simon entró corriendo como si fuera a golpear el set en lugar de defender."
 
 # game/code/Book-1/Chapter-6w/s03.rpy:353
 translate spanish b1c06ws03_9fbb6f18:
@@ -530,7 +530,7 @@ translate spanish b1c06ws03_cfbb01dd:
 translate spanish b1c06ws03_cbb66571:
 
     # "You nod. Of course, you'll take the point back."
-    "Tú asientes. Por supuesto, retomará el punto."
+    "Asiente con la cabeza. Por supuesto, recuperarás el punto."
 
 # game/code/Book-1/Chapter-6w/s03.rpy:365
 translate spanish b1c06ws03_0ab37ab4:
@@ -554,7 +554,7 @@ translate spanish b1c06ws03_4e3b1552:
 translate spanish b1c06ws03_b572c121:
 
     # "Toning her speed and aggression and refining it into a spike that's incredibly hard to predict because of the subterfuge of Simon and Monika."
-    "Tonificando su velocidad y agresividad y refinándolas en un pico que es increíblemente difícil de predecir debido al subterfugio de Simón y Monika."
+    "Tonificando su velocidad y agresividad y refinándolas en un pico que es increíblemente difícil de predecir debido al subterfugio de Simón y Mónica."
 
 # game/code/Book-1/Chapter-6w/s03.rpy:375
 translate spanish b1c06ws03_fa3c5512:
