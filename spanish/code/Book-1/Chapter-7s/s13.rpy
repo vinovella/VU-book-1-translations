@@ -26,13 +26,13 @@ translate spanish b1c07ss13_return_fff77687:
 translate spanish b1c07ss13_return_d1f4c54f:
 
     # mct "After gaining her trust, Corinne offered to aid me in exchange for taking on some of her old debt."
-    mct "Después de ganarse su confianza, Corinne se ofreció a ayudarme a cambio de asumir parte de su antigua deuda."
+    mct "Después de ganarme su confianza, Corinne se ofreció a ayudarme a cambio de asumir parte de su antigua deuda."
 
 # game/code/Book-1/Chapter-7s/s13.rpy:49
 translate spanish b1c07ss13_return_d1268fa3:
 
     # mct "She knows a few tips on quickly advancing my standing with The Syndicate."
-    mct "Ella conoce algunos consejos para avanzar rápidamente en mi posición con The Syndicate."
+    mct "Ella conoce algunos consejos para avanzar rápidamente en mi posición con El Sindicato."
 
 # game/code/Book-1/Chapter-7s/s13.rpy:56
 translate spanish b1c07ss13_return_40244bfe:
@@ -104,5 +104,5 @@ translate spanish b1c07ss13_return_1a8bb28a:
 translate spanish b1c07ss13_return_dcc2f1ea:
 
     # mct "I'll find out what happened.{w} No matter what."
-    mct "Averiguaré qué pasó. {w} No importa cómo."
+    mct "Averiguaré qué pasó.{w} No importa cómo."
 
