@@ -26,7 +26,7 @@ translate spanish b1c07ss09_82208d09:
 translate spanish b1c07ss09_2063d392:
 
     # ass "Those servers are such a pain. She's a whiz with a computer, though. I'm sure she'll be done soon."
-    ass "Esos servidores son un dolor. Sin embargo, es una genio con la computadora. Estoy segura de que terminará pronto."
+    ass "Esos servidores son un dolor de cabeza. Ella es un genio con la computadora, sin embargo. Estoy segura de que terminará pronto."
 
 # game/code/Book-1/Chapter-7s/s09.rpy:36
 translate spanish b1c07ss09_13c96f0d:
@@ -188,7 +188,7 @@ translate spanish b1c07ss09_3fbff364:
 translate spanish b1c07ss09_5de43ee9:
 
     # mc "It was alright. Anyway, I'm here now. Still trying to figure things out."
-    mc "Estaba bien. De todos modos, estoy aquí ahora. Todavía estoy tratando de resolver las cosas."
+    mc "Estuvo bien. De todos modos, ahora estoy aquí. Todavía tratando de entender las cosas."
 
 # game/code/Book-1/Chapter-7s/s09.rpy:112
 translate spanish b1c07ss09_f0b9babe:
@@ -254,7 +254,7 @@ translate spanish b1c07ss09_662e8a97:
 translate spanish b1c07ss09_4d9fd177:
 
     # qh "God damn Wasps are everywhere nowadays, I swear."
-    qh "Maldita sea, las avispas están en todas partes hoy en día, lo juro."
+    qh "Maldita sea, las Avispas están en todas partes hoy en día, lo juro."
 
 # game/code/Book-1/Chapter-7s/s09.rpy:158
 translate spanish b1c07ss09_6789dbed:
@@ -290,7 +290,7 @@ translate spanish b1c07ss09_ba081dd9:
 translate spanish b1c07ss09_a08aa92b:
 
     # qh "I know! How many times is she gonna have to reject him for him to get it through his dipshit skull? Ass."
-    qh "¡Lo sé! ¿Cuántas veces va a tener que rechazarlo para que se entienda?"
+    qh "¡Ya lo sé! ¿Cuántas veces va a tener que rechazarlo para que se le meta en la cabeza? Imbécil."
 
 # game/code/Book-1/Chapter-7s/s09.rpy:191
 translate spanish b1c07ss09_40af2112:
@@ -302,7 +302,7 @@ translate spanish b1c07ss09_40af2112:
 translate spanish b1c07ss09_6febb14d:
 
     # sp "That she'd keep an eye out. She said she'd up security around the place as well."
-    sp "Que ella estaría atenta. Ella dijo que también pondría seguridad alrededor del lugar."
+    sp "Que estaría atenta. Ella dijo que también pondría seguridad alrededor del lugar."
 
 # game/code/Book-1/Chapter-7s/s09.rpy:194
 translate spanish b1c07ss09_f170493f:
@@ -344,7 +344,7 @@ translate spanish b1c07ss09_688a87bb:
 translate spanish b1c07ss09_3e2c82c9:
 
     # qh "I agree. Lord knows there's more alcohol to consume and shenanigans to get up to around here."
-    qh "Estoy de acuerdo. Dios sabe que hay más alcohol para consumir y travesuras para hacer por aquí."
+    qh "Estoy de acuerdo. Dios sabe que hay más alcohol que consumir y más travesuras que hacer por aquí."
 
 # game/code/Book-1/Chapter-7s/s09.rpy:217
 translate spanish b1c07ss09_134c7796:
@@ -356,7 +356,7 @@ translate spanish b1c07ss09_134c7796:
 translate spanish b1c07ss09_abd30fc1:
 
     # mc "For sure."
-    mc "Con seguridad."
+    mc "Seguro."
 
 # game/code/Book-1/Chapter-7s/s09.rpy:222
 translate spanish b1c07ss09_d3c0ba41:
@@ -368,7 +368,7 @@ translate spanish b1c07ss09_d3c0ba41:
 translate spanish b1c07ss09_f8f90328:
 
     # ass "Fleur! Here's your hotdog and drink."
-    ass "Fleur! Aquí está tu perrito caliente y tu bebida."
+    ass "¡Fleur! Aquí está tu perrito caliente y tu bebida."
 
 # game/code/Book-1/Chapter-7s/s09.rpy:227
 translate spanish b1c07ss09_a3c78d4a:
@@ -392,7 +392,7 @@ translate spanish b1c07ss09_95a66c77:
 translate spanish b1c07ss09_68a5dc6d:
 
     # ffl "When is the next match going to start? I thought I was going to miss it."
-    ffl "¿Cuándo va a empezar la próxima pelea? Pensé que me lo iba a perder."
+    ffl "¿Cuándo va a empezar la próxima pelea? Pensé que me la iba a perder."
 
 # game/code/Book-1/Chapter-7s/s09.rpy:250
 translate spanish b1c01ss09_fight_5e7629f9:
@@ -410,7 +410,7 @@ translate spanish b1c01ss09_fight_b04943e7:
 translate spanish b1c01ss09_fight_cb3da0ad:
 
     # ass "You are just in time!"
-    ass "¡Estas justo a tiempo!"
+    ass "Llegas justo a tiempo."
 
 # game/code/Book-1/Chapter-7s/s09.rpy:261
 translate spanish b1c01ss09_fight_6e717a2e:
@@ -434,7 +434,7 @@ translate spanish b1c01ss09_fight_983af822:
 translate spanish b1c01ss09_fight_b761221d:
 
     # fox "And Mad Dog's newest opponent, the Rapid Viper!"
-    fox "¡Y el nuevo oponente de Perro Rabioso, Víbora Rápida!"
+    fox "¡Y el nuevo oponente de Perro Rabioso, Rapid Viper!"
 
 # game/code/Book-1/Chapter-7s/s09.rpy:276
 translate spanish b1c01ss09_fight_a6a1dd39:
@@ -476,7 +476,7 @@ translate spanish b1c01ss09_fight_606e2d02:
 translate spanish b1c01ss09_fight_809c01d5:
 
     # "Morgan swings first and lands a hit on Rapid Viper's jaw."
-    "Morgan se balancea primero y le da un golpe en la mandíbula a Víbora Rápida."
+    "Morgan se balancea primero y le da un golpe en la mandíbula a Rapid Viper."
 
 # game/code/Book-1/Chapter-7s/s09.rpy:319
 translate spanish b1c01ss09_fight_a9e94ee8:
@@ -494,7 +494,7 @@ translate spanish b1c01ss09_fight_4aa0a548:
 translate spanish b1c01ss09_fight_b29734bd:
 
     # "Rapid Viper's kick drives Morgan off balance. She crashes to the ground."
-    "La patada de Víbora Rápida hace perder el equilibrio a Morgan. Ella se estrella contra el suelo."
+    "La patada de Rapid Viper hace perder el equilibrio a Morgan. Ella se estrella contra el suelo."
 
 # game/code/Book-1/Chapter-7s/s09.rpy:335
 translate spanish b1c01ss09_fight_0ba27a28:
@@ -512,7 +512,7 @@ translate spanish b1c01ss09_fight_6dfed452:
 translate spanish b1c01ss09_fight_6243eab7:
 
     # "The crowd holds its breath and time slows as Rapid Viper's leg starts dropping toward Morgan's body."
-    "La multitud contiene la respiración y el tiempo se ralentiza cuando la pierna de Víbora Rápida comienza a caer hacia el cuerpo de Morgan."
+    "El público contiene la respiración y el tiempo se ralentiza cuando la pierna de Rapid Viper empieza a caer hacia el cuerpo de Morgan."
 
 # game/code/Book-1/Chapter-7s/s09.rpy:354
 translate spanish b1c01ss09_fight_44052d4e:
@@ -542,7 +542,7 @@ translate spanish b1c01ss09_fight_498a9eee:
 translate spanish b1c01ss09_fight_897409d6:
 
     # "Frustrated, Rapid Viper attempts to punch Morgan, but she dodges it."
-    "Frustrada, Víbora Rápida intenta golpear a Morgan, pero ella lo esquiva."
+    "Frustrada, Rapid Viper intenta golpear a Morgan, pero ella lo esquiva."
 
 # game/code/Book-1/Chapter-7s/s09.rpy:380
 translate spanish b1c01ss09_fight_a4943f95:
@@ -560,7 +560,7 @@ translate spanish b1c01ss09_fight_37ae8bf7:
 translate spanish b1c01ss09_fight_7df0dd59:
 
     # ass "Leia would've loved this fight. Mad Dog and Rapid Viper are a good match as far as fighting goes."
-    ass "A Leia le hubiera encantado esta pelea. Perro Rabioso y Víbora Rápida son una buena pareja en lo que respecta a la lucha."
+    ass "A Leia le hubiera encantado esta pelea. Perro Rabioso y Rapid Viper son una buena pareja en lo que respecta a la lucha."
 
 # game/code/Book-1/Chapter-7s/s09.rpy:390
 translate spanish b1c01ss09_fight_10d3b175:
@@ -602,7 +602,7 @@ translate spanish b1c01ss09_fight_c5b06385:
 translate spanish b1c01ss09_fight_129f0fff:
 
     # "Foxy's guttural shout distracts you and the ladies from your conversation."
-    "El grito gutural de Foxy los distrae a usted y a las damas de su conversación."
+    "El grito gutural de Foxy te distrae a ti y a las damas de la conversación."
 
 # game/code/Book-1/Chapter-7s/s09.rpy:414
 translate spanish b1c01ss09_fight_0de46a0c:
@@ -710,7 +710,7 @@ translate spanish b1c01ss09_fight_end_460b4dbd:
 translate spanish b1c01ss09_fight_end_9f75775a:
 
     # ass "GREAT JOB FUCKASS, YOU RUINED IT FOR EVERYONE!"
-    ass "GRAN TRABAJO HIJA DE PUTA, ¡LO ARRUINASTE PARA TODOS!"
+    ass "GRAN TRABAJO HIJA DE PERRA, ¡LO ARRUINASTE PARA TODOS!"
 
 # game/code/Book-1/Chapter-7s/s09.rpy:500
 translate spanish b1c01ss09_fight_end_9ca5ff0a:
@@ -746,13 +746,13 @@ translate spanish b1c01ss09_fight_end_7c83ef02:
 translate spanish b1c01ss09_fight_end_c6357faa:
 
     # ass "Don't be an ass."
-    ass "No seas un asno."
+    ass "No seas tonta."
 
 # game/code/Book-1/Chapter-7s/s09.rpy:516
 translate spanish b1c01ss09_fight_end_d61774b7:
 
     # ass "For real, I'm glad you're okay, though. Viper is such a cunt. I'll make sure to ban Viper from this establishment."
-    ass "En serio, me alegro de que estés bien. Viper es una hija de puta. Me aseguraré de prohibirle a Viper la entrada a este establecimiento."
+    ass "En serio, me alegro de que estés bien. Viper es una hija de perra. Me aseguraré de prohibirle a Viper la entrada a este establecimiento."
 
 # game/code/Book-1/Chapter-7s/s09.rpy:519
 translate spanish b1c01ss09_fight_end_775fa1ef:
@@ -764,7 +764,7 @@ translate spanish b1c01ss09_fight_end_775fa1ef:
 translate spanish b1c01ss09_fight_end_a1189844:
 
     # mg "I feel so special."
-    mg "Me siento tan especial"
+    mg "Me siento tan especial."
 
 # game/code/Book-1/Chapter-7s/s09.rpy:523
 translate spanish b1c01ss09_fight_end_9aeaa266:
@@ -830,7 +830,7 @@ translate spanish b1c01ss09_fight_end_d6b5fc41:
 translate spanish b1c01ss09_fight_end_7f61cbd2:
 
     # mg "Aw, my hero. Thank you, I appreciate it. But I'm fine, I swear."
-    mg "Ay, mi héroe. Gracias lo aprecio. Pero estoy bien, lo juro."
+    mg "Ay, mi héroe. Gracias, lo aprecio. Pero estoy bien, lo juro."
 
 # game/code/Book-1/Chapter-7s/s09.rpy:555
 translate spanish b1c01ss09_fight_end_d1fba07c:
@@ -872,13 +872,13 @@ translate spanish b1c01ss09_fight_end_a9291d31:
 translate spanish b1c01ss09_fight_end_01a4d8ce:
 
     # mg "I'm fine. Seriously. They patched me up just fine. I think I'll just grab a few drinks and head home."
-    mg "Estoy bien. En serio. Me remendaron muy bien. Creo que tomaré unos tragos y me iré a casa."
+    mg "Estoy bien. De verdad. Me curaron muy bien. Creo que me tomaré unos tragos y me iré a casa."
 
 # game/code/Book-1/Chapter-7s/s09.rpy:577
 translate spanish b1c01ss09_fight_end_a19ddb20:
 
     # mct "I wonder how Cori would react to seeing Morgan like this..."
-    mct "Me pregunto cómo reaccionaría Cori al ver a Morgan así..."
+    mct "Me pregunto cómo reaccionaría Cori al ver a Morgan de esta manera..."
 
 # game/code/Book-1/Chapter-7s/s09.rpy:580
 translate spanish b1c01ss09_fight_end_3656a527:
@@ -902,7 +902,7 @@ translate spanish b1c01ss09_fight_end_2c93d425:
 translate spanish b1c01ss09_fight_end_224d49f8:
 
     # mg "Sure thing, boss."
-    mg "Claro, jefe."
+    mg "Claro, jefa."
 
 # game/code/Book-1/Chapter-7s/s09.rpy:592
 translate spanish b1c01ss09_fight_end_da14858d:
