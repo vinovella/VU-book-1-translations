@@ -110,7 +110,7 @@ translate spanish b1c07ss05_fd851518:
 translate spanish b1c07ss05_c85fea40:
 
     # zp "Uh, no...not yet. I'll update it when someone comes forward."
-    zp "Eh, no... todavía no. Lo actualizaré cuando alguien se presente."
+    zp "Eh, no... todavía no. La actualizaré cuando alguien se presente."
 
 # game/code/Book-1/Chapter-7s/s05.rpy:107
 translate spanish b1c07ss05_79dd9e3c:
@@ -458,7 +458,7 @@ translate spanish b1c07ss05_02fbd905:
 translate spanish b1c07ss05_e35ecc6e:
 
     # cjh "Hey, babygirl."
-    cjh "Hey niña."
+    cjh "Hey, niña."
 
 # game/code/Book-1/Chapter-7s/s05.rpy:309
 translate spanish b1c07ss05_f108891e:
@@ -650,13 +650,13 @@ translate spanish b1c07ss05_b8616054:
 translate spanish b1c07ss05_bcc4aaf6:
 
     # cjh "Why should I? Maybe I know who this letter's going to."
-    cjh "¿Por qué debería? Tal vez sé a quién va dirigida esta carta."
+    cjh "¿Por qué debería hacerlo? Quizá sepa a quién va dirigida esta carta."
 
 # game/code/Book-1/Chapter-7s/s05.rpy:425
 translate spanish b1c07ss05_3e315917:
 
     # mc "Don't give a shit if you do or don't. Give. It. Back."
-    mc "No me importa una mierda si lo haces o no. Devuélvelo."
+    mc "Me importa una mierda si lo sabes o no. Devuélvela."
 
 # game/code/Book-1/Chapter-7s/s05.rpy:428
 translate spanish b1c07ss05_7048a95b:
@@ -848,7 +848,7 @@ translate spanish b1c07ss05_686f09ce:
 translate spanish b1c07ss05_578eecb5:
 
     # nr "*laughs* Part of the reason I drag them to this bar instead of Guns n' Rosette is to keep them out of trouble!"
-    nr "*risas* ¡Parte de la razón por la que los arrastré a este bar en lugar de a Guns n Rosette es para evitar que se metan en problemas!"
+    nr "*risas* ¡Parte de la razón por la que los arrastré a este bar en lugar de a Guns n' Rosette es para evitar que se metan en problemas!"
 
 translate spanish strings:
 
