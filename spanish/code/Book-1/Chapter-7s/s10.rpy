@@ -26,7 +26,7 @@ translate spanish b1c07ss10_6f18ca84:
 translate spanish b1c07ss10_c028db30:
 
     # mg "Thanks, Rid. Real nice of ya to notice."
-    mg "Gracias, Rid. Muy amable de su parte darse cuenta."
+    mg "Gracias, Rid. Muy amable de tu parte por darte cuenta."
 
 # game/code/Book-1/Chapter-7s/s10.rpy:35
 translate spanish b1c07ss10_03ea3c48:
@@ -68,7 +68,7 @@ translate spanish b1c07ss10_c8f3be70:
 translate spanish b1c07ss10_608acbb5:
 
     # mg "I'm glad that's out of the way."
-    mg "Me alegro de haberlo quitado de en medio."
+    mg "Me alegro de que eso esté fuera del camino."
 
 # game/code/Book-1/Chapter-7s/s10.rpy:57
 translate spanish b1c07ss10_7a08052c:
@@ -224,13 +224,13 @@ translate spanish b1c07ss10_continue_21f4c042:
 translate spanish b1c07ss10_continue_30c22541:
 
     # mg "Rory's not really about violence. She's just a friend on hard times. Well, my best friend, rather."
-    mg "Rory no se trata realmente de violencia. Ella es sólo una amiga en tiempos difíciles. Bueno, mi mejor amigo, más bien."
+    mg "Rory no es realmente violenta. Es sólo una amiga en tiempos difíciles. Bueno, más bien mi mejor amiga."
 
 # game/code/Book-1/Chapter-7s/s10.rpy:142
 translate spanish b1c07ss10_continue_838c137d:
 
     # mc "So.{w}.. You mentioned some debt that you wanted my help with. And in exchange, you'd teach me to fight."
-    mc "Así que... {w}... Mencionaste una deuda con la que querías mi ayuda. Y a cambio, me enseñarías a pelear."
+    mc "Así que{w}... Mencionaste una deuda con la que querías mi ayuda. Y a cambio, me enseñarías a pelear."
 
 # game/code/Book-1/Chapter-7s/s10.rpy:145
 translate spanish b1c07ss10_continue_1d1efd89:
@@ -332,13 +332,13 @@ translate spanish b1c07ss10_continue_de3c1b34:
 translate spanish b1c07ss10_continue_8cb9f606:
 
     # mg "Well, there are a few ways to pay off debt, but we'll be doing fights and debt collections."
-    mg "Bueno, hay algunas formas de pagar la deuda, pero estaremos haciendo peleas y cobros de deudas."
+    mg "Bueno, hay varias maneras de pagar las deudas, pero vamos a hacer peleas y la recaudación de las deudas."
 
 # game/code/Book-1/Chapter-7s/s10.rpy:193
 translate spanish b1c07ss10_continue_57a713f4:
 
     # mc "So, is that where we track down people who are behind on payments to The Syndicate?"
-    mc "Entonces, ¿es ahí donde localizamos a la gente que se retrasa en los pagos al Sindicato?"
+    mc "Entonces, ¿es ahí donde localizamos a la gente que se retrasa con los pagos al Sindicato?"
 
 # game/code/Book-1/Chapter-7s/s10.rpy:196
 translate spanish b1c07ss10_continue_ed914c98:
@@ -380,7 +380,7 @@ translate spanish b1c07ss10_continue_b06307cd:
 translate spanish b1c07ss10_continue_4b2ebcc5:
 
     # mc "So who do we talk to about your debt? Xasan?"
-    mc "Entonces, ¿con quién hablamos sobre tu deuda? ¿Xasán?"
+    mc "Entonces, ¿con quién hablamos sobre tu deuda? ¿Xasan?"
 
 # game/code/Book-1/Chapter-7s/s10.rpy:212
 translate spanish b1c07ss10_continue_00f8434b:
@@ -428,7 +428,7 @@ translate spanish b1c07ss10_continue_17b426dc:
 translate spanish b1c07ss10_continue_ae0ce621:
 
     # mg "But... it's not gonna be easy. You saw my fight out there. It's brutal and dirty. These gigs aren't about fairness. They're about survival."
-    mg "Pero... no va a ser fácil. Tú viste mi pelea ahí afuera. Es brutal y sucia. Estos conciertos no se tratan de justicia. Se trata de supervivencia."
+    mg "Pero... no va a ser fácil. Viste mi pelea ahí fuera. Es brutal y sucia. Estas actuaciones no se tratan de justicia. Se tratan de supervivencia."
 
 # game/code/Book-1/Chapter-7s/s10.rpy:233
 translate spanish b1c07ss10_continue_4e6e563a:
@@ -632,13 +632,13 @@ translate spanish b1c07ss10_choice_1042cd01:
 translate spanish b1c07ss10_choice_4337cf7a:
 
     # mc "Of course. Call on me whenever you need me. I'll be there."
-    mc "Por supuesto. Llámame siempre que me necesites. Voy a estar allí."
+    mc "Por supuesto. Llámame cuando me necesites. Allí estaré."
 
 # game/code/Book-1/Chapter-7s/s10.rpy:332
 translate spanish b1c07ss10_choice_683a2ccc:
 
     # "Morgan stretches, and you hear her shoulders and spine pop in response."
-    "Morgan se estira, y escuchas que sus hombros y su columna vertebral se rompen en respuesta."
+    "Morgan se estira, y oyes cómo sus hombros y su columna vertebral crujen en respuesta."
 
 # game/code/Book-1/Chapter-7s/s10.rpy:338
 translate spanish b1c07ss10_choice_1373df75:
