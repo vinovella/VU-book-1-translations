@@ -200,7 +200,7 @@ translate spanish b1c07ss03_2aa178c1:
 translate spanish b1c07ss03_6a939120:
 
     # mc "Looks a bit extreme for just a warmup, dontcha think?"
-    mc "Parece un poco extremo para sólo un calentamiento, ¿no crees?"
+    mc "Parece un poco extremo para un simple calentamiento, ¿no crees?"
 
 # game/code/Book-1/Chapter-7s/s03.rpy:129
 translate spanish b1c07ss03_a595cf5a:
@@ -224,7 +224,7 @@ translate spanish b1c07ss03_ff0eeb6e:
 translate spanish b1c07ss03_4e37a8b5:
 
     # mc "*chuckles* Sounds like you need to hang out with different guys."
-    mc "*se ríe* Parece que necesitas salir con diferentes tipos."
+    mc "*se ríe* Parece que necesitas salir con tipos diferentes."
 
 # game/code/Book-1/Chapter-7s/s03.rpy:143
 translate spanish b1c07ss03_bdf7800f:
@@ -266,7 +266,7 @@ translate spanish b1c07ss03_de02362a:
 translate spanish b1c07ss03_76dcffca:
 
     # mg "Hold up, hotshot. You could break your hand doin' it like that."
-    mg "Espera, pez gordo. Podrías romperte la mano haciéndolo así."
+    mg "Espera, pez gordo. Podrías romperte la mano haciéndolo de esa manera."
 
 # game/code/Book-1/Chapter-7s/s03.rpy:164
 translate spanish b1c07ss03_b31083fc:
@@ -350,7 +350,7 @@ translate spanish b1c07ss03_24c1dcfa:
 translate spanish b1c07ss03_c3b65036:
 
     # mg "My half-sister found it. She used to bring me here to blow off some steam and shoot the shit. This was our safe space."
-    mg "Mi media hermana lo encontró. Solía ​​traerme aquí para desahogarme y disparar a la mierda. Este era nuestro espacio seguro."
+    mg "Mi hermanastra lo encontró. Solía ​​traerme aquí para desahogarme y disparar a la mierda. Este era nuestro espacio seguro."
 
 # game/code/Book-1/Chapter-7s/s03.rpy:219
 translate spanish b1c07ss03_711e5ae8:
@@ -404,7 +404,7 @@ translate spanish b1c07ss03_1988c356:
 translate spanish b1c07ss03_cc78f347:
 
     # mg "Nah. Because of—well. It's complicated. But I gotta take extra jobs here and there to pay it off."
-    mg "No. Debido a—bueno. Es complicado. Pero tengo que aceptar trabajos adicionales aquí y allá para pagarlo."
+    mg "No. Debido a... bueno. Es complicado. Pero tengo que aceptar trabajos adicionales aquí y allá para pagarlo."
 
 # game/code/Book-1/Chapter-7s/s03.rpy:243
 translate spanish b1c07ss03_ea633f28:
@@ -470,7 +470,7 @@ translate spanish b1c07ss03_e6cb0c0f:
 translate spanish b1c07ss03_c22da748:
 
     # mg "You sound stressed. Everything okay?"
-    mg "Suenas estresado. ¿Todo bien?"
+    mg "Suenas estresada. ¿Todo bien?"
 
 # game/code/Book-1/Chapter-7s/s03.rpy:282
 translate spanish b1c07ss03_a1333305:
@@ -506,7 +506,7 @@ translate spanish b1c07ss03_3bbbcff1:
 translate spanish b1c07ss03_3cb7a81e:
 
     # mg "Just a good friend of mine. Asked me to stop by later today."
-    mg "Sólo un buen amigo mío. Me pidió que pasara más tarde hoy."
+    mg "Sólo una buena amiga mía. Me pidió que pasara más tarde hoy."
 
 # game/code/Book-1/Chapter-7s/s03.rpy:299
 translate spanish b1c07ss03_bf68c286:
@@ -626,7 +626,7 @@ translate spanish b1c07ss03_869ea7d6:
 translate spanish b1c07ss03_5fcb1a74:
 
     # mg "We don't need guys like that around."
-    mg "No necesitamos tipos así alrededor."
+    mg "No necesitamos tipos así por aquí."
 
 # game/code/Book-1/Chapter-7s/s03.rpy:350
 translate spanish b1c07ss03_5caab8ff:
@@ -752,13 +752,13 @@ translate spanish b1c07ss03_489b3bd7:
 translate spanish b1c07ss03_9b5429fb:
 
     # mg "Yeah. The one who called me earlier? I need you to deliver the envelope. It's just some money to help with rent."
-    mg "Sí. ¿El que me llamó antes? Necesito que entregues el sobre. Es sólo algo de dinero para ayudar con el arriendo."
+    mg "Sí. ¿La que me llamó antes? Necesito que entregues el sobre. Es sólo algo de dinero para ayudar con el arriendo."
 
 # game/code/Book-1/Chapter-7s/s03.rpy:404
 translate spanish b1c07ss03_893543dc:
 
     # mg "Rory also mentioned needing some help with something. Didn't say what, but it shouldn't be too much for a guy like you to handle, right?"
-    mg "Rory también mencionó que necesitaba ayuda con algo. No dije qué, pero no debería ser demasiado para un tipo como tú, ¿verdad?"
+    mg "Rory también mencionó que necesitaba ayuda con algo. No dijo qué, pero no debería ser demasiado para alguien como tú, ¿verdad?"
 
 # game/code/Book-1/Chapter-7s/s03.rpy:405
 translate spanish b1c07ss03_d0d565ca:
@@ -770,19 +770,19 @@ translate spanish b1c07ss03_d0d565ca:
 translate spanish b1c07ss03_dbec6c74:
 
     # mc "Why can't you take it?"
-    mc "¿Por qué no puedes tomarlo?"
+    mc "¿Por qué no puedes llevarlo?"
 
 # game/code/Book-1/Chapter-7s/s03.rpy:412
 translate spanish b1c07ss03_343c42c1:
 
     # mg "I can, but not before my gig. I'll go there afterward regardless, but it'd help us both out if you could go beforehand, y'know?"
-    mg "Puedo, pero no antes de mi actuación. Iré allí después de todos modos, pero nos ayudarías a ambos si pudieras ir antes, ¿sabes?"
+    mg "Puedo, pero no antes de mi actuación. Iré allí después de todos modos, pero nos ayudarías a las dos si pudieras ir antes, ¿sabes?"
 
 # game/code/Book-1/Chapter-7s/s03.rpy:415
 translate spanish b1c07ss03_977e0d9b:
 
     # mc "Rory's in debt too?"
-    mc "¿Rory también está endeudado?"
+    mc "¿Rory también está endeudada?"
 
 # game/code/Book-1/Chapter-7s/s03.rpy:418
 translate spanish b1c07ss03_fafcebf9:
@@ -806,7 +806,7 @@ translate spanish b1c07ss03_11455b53:
 translate spanish b1c07ss03_1b5289a2:
 
     # mg "I'd find you. I'm very good at finding people. So you better not betray my trust, right?"
-    mg "Te encontraría. Soy muy buena encontrando gente. Así que será mejor que no traiciones mi confianza, ¿verdad?"
+    mg "Te encontraría. Soy muy buena encontrando gente. Así que será mejor que no traiciones mi confianza, ¿entendido?"
 
 # game/code/Book-1/Chapter-7s/s03.rpy:437
 translate spanish b1c07ss03_6a66963a:
@@ -842,7 +842,7 @@ translate spanish b1c07ss03_4c8061cb:
 translate spanish b1c07ss03_05a2927a:
 
     # mc "Sure thing, Morgan."
-    mc "Claro, Morgan."
+    mc "Por supuesto, Morgan."
 
 # game/code/Book-1/Chapter-7s/s03.rpy:452
 translate spanish b1c07ss03_d8c5cdda:
