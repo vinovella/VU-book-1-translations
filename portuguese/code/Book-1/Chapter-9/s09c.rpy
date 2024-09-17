@@ -530,7 +530,7 @@ translate portuguese b1c09s09c_cn_available_da6f34c8:
 translate portuguese b1c09s09c_cn_available_f123350c:
 
     # ef "Ever since Maria and Kara had their troubles."
-    ef "Desde que a Maria e Klara tiveram problemas."
+    ef "Desde que a Maria e Kara tiveram problemas."
 
 # game/code/Book-1/Chapter-9/s09c.rpy:347
 translate portuguese b1c09s09c_cn_available_57284db0:
@@ -554,19 +554,19 @@ translate portuguese b1c09s09c_cn_available_2da563ac:
 translate portuguese b1c09s09c_cn_available_7adcf978:
 
     # ef "I know! Everyone is so nice here. But Maria and Kara had some sort of issue with each other."
-    ef "Né! Todo mundo aqui é tão legal. Mas a Maria e a Klara tinham algum problema com a outra."
+    ef "Né! Todo mundo aqui é tão legal. Mas a Maria e a Kara tinham algum problema com a outra."
 
 # game/code/Book-1/Chapter-9/s09c.rpy:355
 translate portuguese b1c09s09c_cn_available_67ffd733:
 
     # ef "Or maybe Maria liked Kara {i}too{/i} much? I don't know..."
-    ef "Ou talvez a Maria gostava um pouquinho {i}demais{/i} da Klara? Sei lá..."
+    ef "Ou talvez a Maria gostava um pouquinho {i}demais{/i} da Kara? Sei lá..."
 
 # game/code/Book-1/Chapter-9/s09c.rpy:358
 translate portuguese b1c09s09c_cn_available_d175cb8f:
 
     # ef "All I know is that Maria would follow Kara around to the point it made Kara uncomfortable."
-    ef "Só sei que a Maria seguia a Klara tanto que deixou a Klara desconfortável."
+    ef "Só sei que a Maria seguia a Kara tanto que deixou a Kara desconfortável."
 
 # game/code/Book-1/Chapter-9/s09c.rpy:359
 translate portuguese b1c09s09c_cn_available_d0d8b519:
@@ -578,19 +578,19 @@ translate portuguese b1c09s09c_cn_available_d0d8b519:
 translate portuguese b1c09s09c_cn_available_76469479:
 
     # ef "But I do know that Kara was uncomfortable with Maria's behavior."
-    ef "Mas eu sei que a Klara não achou muito legal o comportamento da Maria."
+    ef "Mas eu sei que a Kara não achou muito legal o comportamento da Maria."
 
 # game/code/Book-1/Chapter-9/s09c.rpy:364
 translate portuguese b1c09s09c_cn_available_9982bbf7:
 
     # mct "Is that what Kara's letter was about?"
-    mct "Era isso o motivo da carta da Klara?"
+    mct "Era isso o motivo da carta da Kara?"
 
 # game/code/Book-1/Chapter-9/s09c.rpy:376
 translate portuguese b1c09s09c_cn_available_213b9419:
 
     # mct "That letter must've been addressed to Maria! Why would Maria be following Kara?"
-    mct "Aquela carta devia ser para a Maria! Por que a Maria seguiria a Klara?"
+    mct "Aquela carta devia ser para a Maria! Por que a Maria seguiria a Kara?"
 
 # game/code/Book-1/Chapter-9/s09c.rpy:377
 translate portuguese b1c09s09c_cn_available_52450cab:
@@ -608,7 +608,7 @@ translate portuguese b1c09s09c_cn_available_9bf839f5:
 translate portuguese b1c09s09c_cn_available_e0d8c182:
 
     # mct "That gives Kara a clear motive to make Maria disappear..."
-    mct "Isso daria um óbvio motivo para a Klara fazer Maria sumir..."
+    mct "Isso daria um óbvio motivo para a Kara fazer Maria sumir..."
 
 # game/code/Book-1/Chapter-9/s09c.rpy:394
 translate portuguese b1c09s09c_cn_available_bce806c0:
