@@ -2,7 +2,7 @@
 translate spanish b1c07ss07_f8bf4663:
 
     # "Fleur notices you immediately—almost as though she was excitedly keeping an eye on the doors for you."
-    "Fleur te nota de inmediato, casi como si estuviera vigilando las puertas con entusiasmo."
+    "Fleur se fija inmediatamente en ti, casi como si estuviera vigilando las puertas emocionada por si llegabas."
 
 # game/code/Book-1/Chapter-7s/s07.rpy:27
 translate spanish b1c07ss07_69dfb5d7:
@@ -50,13 +50,13 @@ translate spanish b1c07ss07_079186f3:
 translate spanish b1c07ss07_4e4a2535:
 
     # "Bouncer" "Of course it is."
-    "Gorila" "Por supuesto que lo es."
+    "Gorila" "Por supuesto que te conozco."
 
 # game/code/Book-1/Chapter-7s/s07.rpy:49
 translate spanish b1c07ss07_29499b1f:
 
     # "Bouncer" " But I don't like this guy. He tried to enter a couple days ago."
-    "Gorila" " Pero no me gusta este tipo. Intentó entrar hace un par de días."
+    "Gorila" "Pero no me gusta este tipo. Intentó entrar hace un par de días."
 
 # game/code/Book-1/Chapter-7s/s07.rpy:52
 translate spanish b1c07ss07_2e68f539:
@@ -182,7 +182,7 @@ translate spanish b1c07ss07_d3dc2ae2:
 translate spanish b1c07ss07_50f91c3b:
 
     # mc "What if I would refuse the kiss?"
-    mc "¿Y si rechazara el beso?"
+    mc "¿Y si hubiese rechazado el beso?"
 
 # game/code/Book-1/Chapter-7s/s07.rpy:142
 translate spanish b1c07ss07_ba96f3ae:
@@ -212,7 +212,7 @@ translate spanish b1c07ss07_a98b4885:
 translate spanish b1c07ss07_c03f9cf0:
 
     # mc "I'll say. I never would've guessed this place was back here."
-    mc "Nunca hubiera imaginado que este lugar estaba aquí atrás."
+    mc "Ya lo creo. Nunca hubiera imaginado que este lugar estaba aquí atrás."
 
 # game/code/Book-1/Chapter-7s/s07.rpy:176
 translate spanish b1c07ss07_4af0bc81:
@@ -224,7 +224,7 @@ translate spanish b1c07ss07_4af0bc81:
 translate spanish b1c07ss07_fight_ab93b512:
 
     # fox "Are you fuckers ready to SCREAM?!"
-    fox "¡¿Estáis listos para GRITAR?!"
+    fox "¡¿Están listos para GRITAR?!"
 
 # game/code/Book-1/Chapter-7s/s07.rpy:191
 translate spanish b1c07ss07_fight_ecc39508:
@@ -278,13 +278,13 @@ translate spanish b1c07ss07_fight_ff180a75:
 translate spanish b1c07ss07_fight_182e1ab1:
 
     # fox "First up, mister fire fists himself, Calamity Carnage!"
-    fox "¡Primero, el señor fuego se golpea a sí mismo, Carnicería Calamitosa!"
+    fox "¡Primero, el señor fuego se golpea a sí mismo, Calamity Carnage!"
 
 # game/code/Book-1/Chapter-7s/s07.rpy:218
 translate spanish b1c07ss07_fight_27afb685:
 
     # "As Calamity Carnage makes his rounds around the ring, the crowd chants his name."
-    "Mientras Carnicería calamitosa hace sus rondas alrededor del ring, la multitud corea su nombre."
+    "Mientras Calamity Carnage hace sus rondas alrededor del ring, la multitud corea su nombre."
 
 # game/code/Book-1/Chapter-7s/s07.rpy:222
 translate spanish b1c07ss07_fight_55fb65dc:
@@ -308,7 +308,7 @@ translate spanish b1c07ss07_fight_d58683d9:
 translate spanish b1c07ss07_fight_43b0965d:
 
     # "Though Calamity Carnage has more bravado, Morgan maintains a quiet confidence."
-    "Aunque Carnicería Calamitosa tiene más valentía, Morgan mantiene una confianza tranquila."
+    "Aunque Calamity Carnage tiene más valentía, Morgan mantiene una confianza tranquila."
 
 # game/code/Book-1/Chapter-7s/s07.rpy:236
 translate spanish b1c07ss07_fight_7b766a12:
@@ -326,13 +326,13 @@ translate spanish b1c07ss07_fight_2752f7b8:
 translate spanish b1c07ss07_fight_ea8d5d61:
 
     # fox "Alright fuckers, LET'S GO TO WAR! FIGHT! FIGHT! FIGHT!"
-    fox "¡Muy bien, VAMOS A LA GUERRA! ¡LUCHAR! ¡LUCHAR! ¡LUCHAR!"
+    fox "¡Muy bien, idiotas, VAMOS A LA GUERRA! ¡A LUCHAR! ¡A LUCHAR! ¡A LUCHAR!"
 
 # game/code/Book-1/Chapter-7s/s07.rpy:256
 translate spanish b1c07ss07_fight_d840f3c0:
 
     # "Calamity Carnage eagerly makes the first move, and jabs at Morgan's face."
-    "Carnicería Calamitosa ansiosamente hace el primer movimiento y golpea la cara de Morgan."
+    "Calamity Carnage ansiosamente hace el primer movimiento y golpea la cara de Morgan."
 
 # game/code/Book-1/Chapter-7s/s07.rpy:263
 translate spanish b1c07ss07_fight_b47cf7a9:
@@ -350,7 +350,7 @@ translate spanish b1c07ss07_fight_e3271b9e:
 translate spanish b1c07ss07_fight_024a6bf4:
 
     # fox "Whoa! Calamity Carnage might've made the first move, but Mad Dog landed the first blow."
-    fox "¡Guau! Carnicería Calamitosa podría haber hecho el primer movimiento, pero Perro Rabioso asestó el primer golpe."
+    fox "¡Guau! Calamity Carnage podría haber hecho el primer movimiento, pero Perro Rabioso asestó el primer golpe."
 
 # game/code/Book-1/Chapter-7s/s07.rpy:271
 translate spanish b1c07ss07_fight_d99b7652:
@@ -368,7 +368,7 @@ translate spanish b1c07ss07_fight_2258caea:
 translate spanish b1c07ss07_fight_90fa6017:
 
     # "The crowd shrieks, some calling out Calamity Carnage's name, and others shouting Mad Dog."
-    "La multitud grita, algunos gritan el nombre de Carnicería Calamitosa y otros gritan Perro Rabioso."
+    "La multitud grita, algunos gritan el nombre de Calamity Carnage y otros gritan Perro Rabioso."
 
 # game/code/Book-1/Chapter-7s/s07.rpy:287
 translate spanish b1c07ss07_fight_6e91caef:
@@ -560,7 +560,7 @@ translate spanish b1c07ss07_fight_2_742e676c:
 translate spanish b1c07ss07_fight_2_fc3e79ec:
 
     # ffl "Anyways, watch the show!"
-    ffl "De todos modos, ¡mira el programa!"
+    ffl "De todas formas, ¡mira el espectáculo!"
 
 # game/code/Book-1/Chapter-7s/s07.rpy:427
 translate spanish b1c07ss07_fight_2_dca2c357:
@@ -602,7 +602,7 @@ translate spanish b1c07ss07_fight_2_28515591:
 translate spanish b1c07ss07_fight_2_be9242fc:
 
     # "Morgan delivers a brutal roundhouse kick to Calamity Carnage."
-    "Morgan lanza una brutal patada giratoria a Carnicería Calamitosa."
+    "Morgan lanza una brutal patada giratoria a Calamity Carnage."
 
 # game/code/Book-1/Chapter-7s/s07.rpy:459
 translate spanish b1c07ss07_fight_2_bc79585f:
@@ -632,7 +632,7 @@ translate spanish b1c07ss07_fight_2_3ad2eeae:
 translate spanish b1c07ss07_fight_2_7f14f7f8:
 
     # "Morgan's faster, and her fists lands on Calamity Carnage's face before Calamity can land his blow."
-    "Morgan es más rápida, y sus puños aterrizan en la cara de Carnicería Calamitosa antes de que Calamity pueda asestar su golpe."
+    "Morgan es más rápida, y sus puños aterrizan en la cara de Calamity Carnage antes de que Calamity pueda asestar su golpe."
 
 # game/code/Book-1/Chapter-7s/s07.rpy:480
 translate spanish b1c07ss07_fight_2_e4aed552:
@@ -710,7 +710,7 @@ translate spanish b1c07ss07_fight_2_33f80073:
 translate spanish b1c07ss07_fight_2_dbd12caf:
 
     # ffl "Oh, so then should I crawl on top as well?"
-    ffl "Oh, entonces, ¿debería arrastrarme encima también?"
+    ffl "Oh, ¿entonces debo arrastrarme por encima también?"
 
 # game/code/Book-1/Chapter-7s/s07.rpy:521
 translate spanish b1c07ss07_fight_2_823911c1:
@@ -746,13 +746,13 @@ translate spanish b1c07ss07_fight_2_91b45acd:
 translate spanish b1c07ss07_fight_2_249ba013:
 
     # "Calamity Carnage's eyes roll back, and his body finally gives out."
-    "Los ojos de Carnicería Calamitosa se ponen en blanco y su cuerpo finalmente se rinde."
+    "Los ojos de Calamity Carnage se ponen en blanco y su cuerpo finalmente se rinde."
 
 # game/code/Book-1/Chapter-7s/s07.rpy:551
 translate spanish b1c07ss07_fight_2_9ebda9fd:
 
     # fox "Done! You're done."
-    fox "¡Hecho! Estás listo."
+    fox "¡Hecho! Has terminado."
 
 # game/code/Book-1/Chapter-7s/s07.rpy:564
 translate spanish b1c07ss07_fight_end_5db49dd0:
@@ -800,7 +800,7 @@ translate spanish b1c07ss07_fight_end_788b5470:
 translate spanish b1c07ss07_fight_end_cdd420d4:
 
     # "Asami throws her panty at Morgan."
-    "Asami le lanza su panty a Morgan."
+    "Asami le lanza su tanga a Morgan."
 
 # game/code/Book-1/Chapter-7s/s07.rpy:586
 translate spanish b1c07ss07_fight_end_657dbf86:
@@ -818,7 +818,7 @@ translate spanish b1c07ss07_fight_end_89befafb:
 translate spanish b1c07ss07_fight_end_261c6e94:
 
     # ffl "It's normal for people to throw their panties when their favored fighter wins. It's just a little over the top gag we like to do."
-    ffl "Es normal que la gente tire las bragas cuando gana su boxeador favorito. Es una broma un poco exagerada que nos gusta hacer."
+    ffl "Es normal que la gente arroje su ropa interior cuando gana su luchador favorito. Es una broma un poco exagerada que nos gusta hacer."
 
 # game/code/Book-1/Chapter-7s/s07.rpy:606
 translate spanish b1c07ss07_fight_end_17f807f5:
@@ -842,13 +842,13 @@ translate spanish b1c07ss07_fight_end_7f846677:
 translate spanish b1c07ss07_fight_end_65102e20:
 
     # ass "YEAAAAAH FUCK YEAH!"
-    ass "SÍ A LA MIERDA SÍ!"
+    ass "SÍIIII !A LA MIERDA SÍ!"
 
 # game/code/Book-1/Chapter-7s/s07.rpy:619
 translate spanish b1c07ss07_fight_end_de699ee7:
 
     # fox "Mad Dog will progress to the next round while Calamity Carnage is out of the ring for the night."
-    fox "Perro Rabioso avanzará a la siguiente ronda mientras Carnicería calamitosa está fuera del ring por la noche."
+    fox "Perro Rabioso avanzará a la siguiente ronda mientras Calamity Carnage está fuera del ring por la noche."
 
 # game/code/Book-1/Chapter-7s/s07.rpy:623
 translate spanish b1c07ss07_fight_end_8a63b411:
@@ -866,7 +866,7 @@ translate spanish b1c07ss07_fight_end_2f4aba66:
 translate spanish b1c07ss07_fight_end_a3f62540:
 
     # mc "Nah, I'm good. Thanks though."
-    mc "No, estoy bien. Aunque gracias."
+    mc "No, estoy bien. Pero gracias."
 
 # game/code/Book-1/Chapter-7s/s07.rpy:632
 translate spanish b1c07ss07_fight_end_b185bc8e:
@@ -884,7 +884,7 @@ translate spanish b1c07ss07_fight_end_e5e21432:
 translate spanish b1c07ss07_fight_end_e2dcd43e:
 
     # ffl "Hmm, I'll take a hot dog and a drink!"
-    ffl "¡Hmm, tomaré un perrito caliente y una bebida!"
+    ffl "Hmm, ¡tomaré un perrito caliente y una bebida!"
 
 # game/code/Book-1/Chapter-7s/s07.rpy:641
 translate spanish b1c07ss07_fight_end_f0f01d4d:
@@ -950,7 +950,7 @@ translate spanish b1c07ss07_fight_end_ca97e26f:
 translate spanish b1c07ss07_fight_end_598a1100:
 
     # qh "Hey girliepop, there's something up with the servers."
-    qh "Hey girliepop, algo pasa con los servidores."
+    qh "Hey chica, algo pasa con los servidores."
 
 # game/code/Book-1/Chapter-7s/s07.rpy:679
 translate spanish b1c07ss07_fight_end_7246bf3b:
@@ -962,7 +962,7 @@ translate spanish b1c07ss07_fight_end_7246bf3b:
 translate spanish b1c07ss07_fight_end_96133b85:
 
     # ffl "What? Right now?"
-    ffl "¿Qué? ¿Ahora mismo?"
+    ffl "¿Qué? ¿Justo ahora?"
 
 # game/code/Book-1/Chapter-7s/s07.rpy:684
 translate spanish b1c07ss07_fight_end_ec50fd47:
