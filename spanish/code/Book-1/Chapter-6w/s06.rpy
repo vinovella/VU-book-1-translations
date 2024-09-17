@@ -50,7 +50,7 @@ translate spanish b1c06ws06_continue_84abcd5b:
 translate spanish b1c06ws06_continue_09e2792c:
 
     # mc "Have you seen Silvia around? I was supposed to meet her here."
-    mc "¿Has visto a Silvia por aquí? Se suponía que me reuniría con ella aquí."
+    mc "¿Has visto a Silvia por aquí? Se suponía que me reuniría aquí con ella."
 
 # game/code/Book-1/Chapter-6w/s06.rpy:60
 translate spanish b1c06ws06_continue_2fd04aeb:
@@ -74,7 +74,7 @@ translate spanish b1c06ws06_continue_be39805f:
 translate spanish b1c06ws06_continue_47a2fb3f:
 
     # sm "[mcname]! Right on time. I just have a couple more—"
-    sm "[mcname]! Justo a tiempo. Sólo me faltan un par más..."
+    sm "¡[mcname]! Justo a tiempo. Sólo me faltan un par más..."
 
 # game/code/Book-1/Chapter-6w/s06.rpy:78
 translate spanish b1c06ws06_continue_a26a3a3f:
@@ -140,7 +140,7 @@ translate spanish b1c06ws06_continue_0d993511:
 translate spanish b1c06ws06_continue_eeacae53:
 
     # mc "Of course. Anytime."
-    mc "Por supuesto. En cualquier momento."
+    mc "Por supuesto. Cuando quieras."
 
 # game/code/Book-1/Chapter-6w/s06.rpy:137
 translate spanish b1c06ws06_continue_e0f3c5a5:
@@ -164,13 +164,13 @@ translate spanish b1c06ws06_continue_4d73e19b:
 translate spanish b1c06ws06_continue_259f064a:
 
     # mc "It's not that planned photos aren't you..."
-    mc "No es que las fotos pensadas no sean..."
+    mc "No es que las fotos planificadas no sean..."
 
 # game/code/Book-1/Chapter-6w/s06.rpy:148
 translate spanish b1c06ws06_continue_8eb49593:
 
     # mc "But there's something intimate and profound about unexpected shots like these."
-    mc "Pero hay algo íntimo y profundo en tomas inesperadas como estas."
+    mc "Pero hay algo íntimo y profundo en fotos inesperadas como estas."
 
 # game/code/Book-1/Chapter-6w/s06.rpy:151
 translate spanish b1c06ws06_continue_d31bddab:
@@ -182,7 +182,7 @@ translate spanish b1c06ws06_continue_d31bddab:
 translate spanish b1c06ws06_continue_efe5dfd4:
 
     # sm "A snapshot of time as it was instead of \"perfect\" situations tailor-made to be photographed."
-    sm "Una instantánea del momento tal y como era en lugar de situaciones \"perfectas\" hechas a medida para ser fotografiadas."
+    sm "Una instantánea del tiempo tal y como era en lugar de situaciones \"perfectas\" hechas a medida para ser fotografiadas."
 
 # game/code/Book-1/Chapter-6w/s06.rpy:156
 translate spanish b1c06ws06_continue_7c2caa85:
