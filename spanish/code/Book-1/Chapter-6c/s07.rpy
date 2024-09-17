@@ -14,7 +14,7 @@ translate spanish b1c06cs07_58cafaf7:
 translate spanish b1c06cs07_6d0dac9c:
 
     # mc "Hi, Miss Daniels. Thank you for inviting me here."
-    mc "Hola, señorita Daniels. Gracias por invitarme aquí."
+    mc "Hola, Señorita Daniels. Gracias por invitarme aquí."
 
 # game/code/Book-1/Chapter-6c/s07.rpy:53
 translate spanish b1c06cs07_28d4a678:
@@ -86,13 +86,13 @@ translate spanish b1c06cs07_36570508:
 translate spanish b1c06cs07_4af04c8c:
 
     # "She smells of patchouli and rain, lustful and wild."
-    "Huele a pachulí y lluvia, lujuriosa y salvaje."
+    "Huele a pachuli y a lluvia, lujuriosa y salvaje."
 
 # game/code/Book-1/Chapter-6c/s07.rpy:87
 translate spanish b1c06cs07_f8a5361a:
 
     # sd "It's been a while since I've been away from my son. Just a little apprehensive, I guess."
-    sd "Hacía tiempo que no me alejaba de mi hijo. Supongo que soy un poco aprensiva."
+    sd "Hacía tiempo que no me alejaba de mi hijo. Un poco aprensiva, supongo."
 
 # game/code/Book-1/Chapter-6c/s07.rpy:90
 translate spanish b1c06cs07_96a2c1ff:
@@ -146,19 +146,19 @@ translate spanish b1c06cs07_a6a0b97e:
 translate spanish b1c06cs07_f8d760e1:
 
     # sd "And then we'd all...{i}show our devotion.{/i}."
-    sd "Y entonces todos... {i}mostraremos nuestra devoción.{/i}."
+    sd "Y entonces todos... {i}mostraremos nuestra devoción.{/i}"
 
 # game/code/Book-1/Chapter-6c/s07.rpy:123
 translate spanish b1c06cs07_de75229f:
 
     # sd "*sigh* I miss that intimacy. It was so celestial and sacred to me."
-    sd "*suspiro* Extraño esa intimidad. Fue tan celestial y sagrado para mí."
+    sd "*suspiro* Extraño esa intimidad. Fue tan celestial y sagrada para mí."
 
 # game/code/Book-1/Chapter-6c/s07.rpy:126
 translate spanish b1c06cs07_8f68e4fc:
 
     # mc "Bare witness? What do you mean?"
-    mc "¿Testigo desnudo? ¿Qué quieres decir?"
+    mc "¿Testigo desnuda? ¿Qué quieres decir?"
 
 # game/code/Book-1/Chapter-6c/s07.rpy:129
 translate spanish b1c06cs07_66974336:
@@ -242,7 +242,7 @@ translate spanish b1c06cs07_f7dc861f:
 translate spanish b1c06cs07_d2a4182d:
 
     # mc "I understand. I'm just worried about the friends that I have there...have you heard of Maria Krall?"
-    mc "Entiendo. Sólo me preocupan los amigos que tengo allí... ¿has oído hablar de Maria Krall?"
+    mc "Entiendo. Sólo me preocupan los amigos que tengo allí... ¿has oído hablar de María Krall?"
 
 # game/code/Book-1/Chapter-6c/s07.rpy:158
 translate spanish b1c06cs07_26c0d3af:
@@ -302,7 +302,7 @@ translate spanish b1c06cs07_a59a83c1:
 translate spanish b1c06cs07_9af88ff7:
 
     # mct "I'm not sure that Sally's the most reliable source of information at this point...Maria was also directly involved with that artist."
-    mct "No estoy seguro de que Sally sea la fuente de información más confiable en este momento... María también estuvo directamente involucrada con ese artista."
+    mct "No estoy seguro de que Sally sea la fuente de información más confiable en este momento... María también estuvo directamente involucrada con esa artista."
 
 # game/code/Book-1/Chapter-6c/s07.rpy:184
 translate spanish b1c06cs07_5a3dc010:
@@ -356,7 +356,7 @@ translate spanish b1c06cs07_go_further_8c8d1c55:
 translate spanish b1c06cs07_go_further_0b507a7e:
 
     # sd "Tell me how much you want me."
-    sd "Dime cuánto me quieres."
+    sd "Dime cuánto me deseas."
 
 # game/code/Book-1/Chapter-6c/s07.rpy:237
 translate spanish b1c06cs07_go_further_90bfab2c:
@@ -410,7 +410,7 @@ translate spanish b1c06cs07_go_further_770d9408:
 translate spanish b1c06cs07_go_further_b7e43cb2:
 
     # "She rubs your tip against her silky panties, and your cock twitches, feeling her warmth so close."
-    "Frota tu punta contra sus sedosas bragas y tu polla se contrae, sintiendo su calor tan cerca."
+    "Frota tu punta contra sus sedosos calzones y tu polla se contrae, sintiendo su calor tan cerca."
 
 # game/code/Book-1/Chapter-6c/s07.rpy:276
 translate spanish b1c06cs07_go_further_84f781f1:
@@ -668,7 +668,7 @@ translate spanish b1c06cs07_continue_a68ec2e9:
 translate spanish b1c06cs07_continue_318dded9:
 
     # sd "Yes, yes! Your touch feels so sovereign, so holy."
-    sd "¡Sí Sí! Tu toque se siente tan soberano, tan sagrado."
+    sd "¡Sí, sí! Tu toque se siente tan soberano, tan sagrado."
 
 # game/code/Book-1/Chapter-6c/s07.rpy:452
 translate spanish b1c06cs07_continue_891a37b2:
@@ -740,7 +740,7 @@ translate spanish b1c06cs07_continue_4520bc0e:
 translate spanish b1c06cs07_continue_77dff32f:
 
     # "The words you two exchange make each other feel alive with ecstasy. Each so eager to elicit responses from the other, drowning in each other's raw desires."
-    "Las palabras que intercambian hacen que el otro se sienta lleno de éxtasis. Cada uno tan ansioso por obtener respuestas del otro, ahogándose en los deseos crudos del otro."
+    "Las palabras que intercambian hacen que el otro se sienta vivo de éxtasis. Cada uno tan ansioso por obtener respuestas del otro, ahogándose en sus deseos más descarnados."
 
 # game/code/Book-1/Chapter-6c/s07.rpy:477
 translate spanish b1c06cs07_continue_9d28cd94:
@@ -764,7 +764,7 @@ translate spanish b1c06cs07_continue_f3aa4158:
 translate spanish b1c06cs07_continue_4d2c873b:
 
     # "Every thrust envelops you in her flesh, her body a symphony of ecstasy. And every pull battles against her gluttonous desires, begging you to not go, to stay connected."
-    "Cada embestida te envuelve en su carne, su cuerpo una sinfonía de éxtasis. Y cada tirón lucha contra sus deseos glotones, rogándote que no corras, que te mantengas conectado."
+    "Cada embestida te envuelve en su carne, su cuerpo es una sinfonía de éxtasis. Y cada empujón lucha contra sus deseos insaciables, rogándote que no te vayas, que sigas conectado."
 
 # game/code/Book-1/Chapter-6c/s07.rpy:489
 translate spanish b1c06cs07_continue_b73b608e:
@@ -788,7 +788,7 @@ translate spanish b1c06cs07_continue_357f7467:
 translate spanish b1c06cs07_continue_cfeccd7d:
 
     # mc "Cum inside you?"
-    mc "¿correrme dentro de ti?"
+    mc "¿Correrme dentro de ti?"
 
 # game/code/Book-1/Chapter-6c/s07.rpy:500
 translate spanish b1c06cs07_continue_9b58f62d:
@@ -848,7 +848,7 @@ translate spanish b1c06cs07_continue_4ed57d23:
 translate spanish b1c06cs07_continue_40f4faef:
 
     # "Your own pleasure surges into an elated frenzy, a transcendent pleasure that makes your entire body sing with hymns in Sally's glory."
-    "Tu propio placer surge en un frenesí eufórico, un placer trascendente que hace que todo tu cuerpo cante con himnos en la gloria de Sally."
+    "Tu propio placer surge en un frenesí eufórico, un placer trascendente que hace que todo tu cuerpo cante con himnos a la gloria de Sally."
 
 # game/code/Book-1/Chapter-6c/s07.rpy:540
 translate spanish b1c06cs07_continue_47ed02bf:
@@ -890,7 +890,7 @@ translate spanish b1c06cs07_continue_05ce59b6:
 translate spanish b1c06cs07_continue_1aff8f49:
 
     # sd "Mm, it is."
-    sd "Lo es."
+    sd "Mm, lo es."
 
 # game/code/Book-1/Chapter-6c/s07.rpy:561
 translate spanish b1c06cs07_continue_28134942:
@@ -944,7 +944,7 @@ translate spanish b1c06cs07_continue_d19b6dc1:
 translate spanish b1c06cs07_continue_622d5bdc:
 
     # sd "After you've had a good rest, of course."
-    sd "Después de descansar bien, por supuesto."
+    sd "Después de un buen descanso, por supuesto."
 
 # game/code/Book-1/Chapter-6c/s07.rpy:583
 translate spanish b1c06cs07_continue_34c389e0:
@@ -1022,13 +1022,13 @@ translate spanish b1c06cs07_end_f523a499:
 translate spanish b1c06cs07_end_72d6a4f4:
 
     # mct "The artist is probably a better lead at this point."
-    mct "El artista es probablemente una mejor pista en este momento."
+    mct "La artista es probablemente una mejor pista en este momento."
 
 # game/code/Book-1/Chapter-6c/s07.rpy:626
 translate spanish b1c06cs07_end_0e068ecc:
 
     # mct "I can visit the museum later and get the artist's information, and go from there."
-    mct "Puedo visitar el museo más tarde y obtener la información del artista, e ir desde allí."
+    mct "Puedo visitar el museo más tarde y obtener la información de la artista, e ir desde allí."
 
 # game/code/Book-1/Chapter-6c/s07.rpy:628
 translate spanish b1c06cs07_end_15700701:
@@ -1082,7 +1082,7 @@ translate spanish b1c06cs07_end_67113149:
 translate spanish b1c06cs07_end_2bb131e3:
 
     # mc "No, I'm good Sally. Thank you, though."
-    mc "No, estoy bien Sally. De todas formas, gracias."
+    mc "No, estoy bien Sally. Gracias."
 
 # game/code/Book-1/Chapter-6c/s07.rpy:651
 translate spanish b1c06cs07_end_31695b5f:
