@@ -50,7 +50,7 @@ translate spanish b1c07s01_after_variables_29424ef9:
 translate spanish b1c07s01_after_variables_edf9291e:
 
     # mc "{i}{b}No!{/b}{/i} I'll find out what happened to you!"
-    mc "{i}{b}¡No!{/b}{/i} ¡Averiguaré qué te pasó!"
+    mc "{i}{b}¡No!{/b}{/i} ¡Averiguaré qué les pasó!"
 
 # game/code/Book-1/Chapter-7/s01.rpy:105
 translate spanish b1c07s01_after_variables_a40df27d:
@@ -236,7 +236,7 @@ translate spanish b1c07s01_after_variables_c25ac637:
 translate spanish b1c07s01_after_variables_103c5399:
 
     # lw "Hey. Do you want to come with Josie and me to go bouldering?"
-    lw "Ey. ¿Quieres venir con Josie y conmigo a hacer boulder?"
+    lw "Ey. ¿Quieres venir con Josie y conmigo a hacer escalada?"
 
 # game/code/Book-1/Chapter-7/s01.rpy:206
 translate spanish b1c07s01_after_variables_ad2687f4:
@@ -260,7 +260,7 @@ translate spanish b1c07s01_after_variables_9ba05b12:
 translate spanish b1c07s01_after_variables_50473680:
 
     # lw "Bouldering is one of the few things that I can actually keep up with."
-    lw "El boulder es una de las pocas cosas con las que puedo seguir el ritmo."
+    lw "La escalada es una de las pocas cosas con las que puedo seguir el ritmo."
 
 # game/code/Book-1/Chapter-7/s01.rpy:216
 translate spanish b1c07s01_after_variables_544aac89:
@@ -278,13 +278,13 @@ translate spanish b1c07s01_after_variables_f91dc4cf:
 translate spanish b1c07s01_after_variables_8b3da540:
 
     # mc "You know what? I'd love to go bouldering."
-    mc "¿Sabes qué? Me encantaría ir al boulder."
+    mc "¿Sabes qué? Me encantaría ir a escalar."
 
 # game/code/Book-1/Chapter-7/s01.rpy:227
 translate spanish b1c07s01_after_variables_38f16759:
 
     # mc "Lara, I'd love to go bouldering with you two."
-    mc "Lara, me encantaría hacer boulder con ustedes dos."
+    mc "Lara, me encantaría ir a hacer escalada con ustedes dos."
 
 # game/code/Book-1/Chapter-7/s01.rpy:229
 translate spanish b1c07s01_after_variables_d1c70a04:
@@ -308,7 +308,7 @@ translate spanish b1c07s01_after_variables_b8c73aae:
 translate spanish b1c07s01_after_variables_325990bf:
 
     # mc "It's not—"
-    mc "Que no es-"
+    mc "No es..."
 
 # game/code/Book-1/Chapter-7/s01.rpy:241
 translate spanish b1c07s01_after_variables_46dc3b88:
@@ -422,7 +422,7 @@ translate spanish b1c07s01_after_variables_69cdc342:
 translate spanish b1c07s01_after_variables_111db438:
 
     # jh "Anyway! Gosh, you guys keep distracting me! What were you two talking about? I heard something about bouldering. Gimme the deets."
-    jh "¡De todos modos! Dios mío, ¡ustedes siguen distrayéndome! ¿De qué estaban hablando ustedes dos? Escuché algo sobre boulder. Dame los detalles."
+    jh "¡De todos modos! Dios mío, ¡ustedes siguen distrayéndome! ¿De qué estaban hablando ustedes dos? Escuché algo sobre escaladas. Dame los detalles."
 
 # game/code/Book-1/Chapter-7/s01.rpy:296
 translate spanish b1c07s01_after_variables_286b5ab8:
@@ -434,7 +434,7 @@ translate spanish b1c07s01_after_variables_286b5ab8:
 translate spanish b1c07s01_after_variables_ab710227:
 
     # lw "Oh! Yeah. I asked [mcname] if he wanted to go bouldering with us."
-    lw "¡Oh! Sí. Le pregunté a [mcname] si quería hacer boulder con nosotros."
+    lw "¡Oh! Sí. Le pregunté a [mcname] si quería hacer escalada con nosotras."
 
 # game/code/Book-1/Chapter-7/s01.rpy:302
 translate spanish b1c07s01_after_variables_3974032e:
@@ -447,6 +447,12 @@ translate spanish b1c07s01_after_variables_4fe3d819:
 
     # mc "Jo-Josie..."
     mc "Jo-Josie..."
+
+# game/code/Book-1/Chapter-7/s01.rpy:310
+translate spanish b1c07s01_after_variables_07808b11:
+
+    # jh "It'd be so awesome to go with you both! I'd—"
+    jh "¡Sería genial ir con ustedes dos! Yo..."
 
 # game/code/Book-1/Chapter-7/s01.rpy:312
 translate spanish b1c07s01_after_variables_5cd1ba2f:
@@ -500,13 +506,25 @@ translate spanish b1c07s01_after_variables_5f65a1fe:
 translate spanish b1c07s01_after_variables_20ec8ec9:
 
     # jh "Bouldering isn't for everybody. And I'm sure you have a lot to catch up on with your studies as well."
-    jh "El boulder no es para todo el mundo. Y estoy segura de que tienes mucho para ponerte al día con tus estudios también."
+    jh "La escalada no es para todo el mundo. Y estoy segura de que tienes mucho para ponerte al día con tus estudios también."
+
+# game/code/Book-1/Chapter-7/s01.rpy:350
+translate spanish b1c07s01_after_variables_0b6fa915:
+
+    # mc "I appreciate that. And I'm sorry I'm just flip-flopping on this. I know I said yes last time, but everything has picked up since then and...yeah."
+    mc "Te lo agradezco. Y lo siento si estoy cambiando de opinión sobre esto. Sé que dije que sí la última vez, pero todo se ha acelerado desde entonces y... sí."
+
+# game/code/Book-1/Chapter-7/s01.rpy:353
+translate spanish b1c07s01_after_variables_0ba2ff8b:
+
+    # jh "I understand."
+    jh "Entiendo."
 
 # game/code/Book-1/Chapter-7/s01.rpy:355
 translate spanish b1c07s01_after_variables_b7d0653a:
 
     # mc "I appreciate that. And yeah. It's just there's a lot on my plate right now."
-    mc "Soy consciente de eso. Y si. Es sólo que hay mucho en mi plato ahora mismo."
+    mc "Soy consciente de eso. Y si. Es sólo que hay mucho en mi plato en este momento."
 
 # game/code/Book-1/Chapter-7/s01.rpy:360
 translate spanish b1c07s01_after_variables_3e79b0dd:
@@ -524,7 +542,7 @@ translate spanish b1c07s01_after_variables_85d475fe:
 translate spanish b1c07s01_after_variables_becbbec6:
 
     # mc "*Dramatically sighs* Alas, Lara managed to weather me down and convince me."
-    mc "*Suspira dramáticamente* Por desgracia, Lara logró resistirme y convencerme."
+    mc "*Suspira dramáticamente* Desgraciadamente, Lara consiguió persuadirme y convencerme."
 
 # game/code/Book-1/Chapter-7/s01.rpy:372
 translate spanish b1c07s01_after_variables_bca73ef9:
@@ -560,7 +578,7 @@ translate spanish b1c07s01_after_variables_794bc1ea:
 translate spanish b1c07s01_after_variables_2b3856dc:
 
     # mc "Okay, okay. I should go get cleaned up."
-    mc "Bien bien. Debería ir a limpiarme."
+    mc "Bien, bien. Debería ir a limpiarme."
 
 # game/code/Book-1/Chapter-7/s01.rpy:395
 translate spanish b1c07s01_after_variables_4d00b4ea:
@@ -572,7 +590,7 @@ translate spanish b1c07s01_after_variables_4d00b4ea:
 translate spanish b1c07s01_after_variables_d40c129d:
 
     # mc "Exactly. Gotta be in tip-top shape if I'm going bouldering."
-    mc "Exactamente. Tengo que estar en plena forma si voy a hacer boulder."
+    mc "Exactamente. Tengo que estar en plena forma si voy a hacer escalada."
 
 # game/code/Book-1/Chapter-7/s01.rpy:399
 translate spanish b1c07s01_after_variables_1b3cdc26:
@@ -584,7 +602,7 @@ translate spanish strings:
 
     # game/code/Book-1/Chapter-7/s01.rpy:218
     old "I'd love to go bouldering!"
-    new "¡Me encantaría hacer boulder!"
+    new "¡Me encantaría hacer escalada!"
 
     # game/code/Book-1/Chapter-7/s01.rpy:218
     old "I'm sorry, I can't"
