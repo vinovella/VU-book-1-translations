@@ -92,7 +92,7 @@ translate spanish b1c06ws07_8a95907d:
 translate spanish b1c06ws07_1bce9abd:
 
     # ir "I can {i}guarantee{/i} that it'll be more fun than going to sleep with blue balls tonight."
-    ir "Puedo {i}garantizar{/i} que será más divertido que ir a dormir con bolas azules esta noche."
+    ir "Puedo {i}garantizar{/i} que será más divertido que ir a dormir con las bolas azules esta noche."
 
 # game/code/Book-1/Chapter-6w/s07.rpy:77
 translate spanish b1c06ws07_e66598eb:
@@ -242,7 +242,7 @@ translate spanish b1c06ws07_4e9f123a:
 translate spanish b1c06ws07_5064cf3e:
 
     # "She builds one sensation on top of another, rolling waves of bliss that blend into one another..."
-    "Construye una sensación sobre otra, ondas onduladas de felicidad que se mezclan entre sí..."
+    "Construye una sensación sobre otra, olas de felicidad que se mezclan entre sí..."
 
 # game/code/Book-1/Chapter-6w/s07.rpy:164
 translate spanish b1c06ws07_4a2a1fe4:
@@ -344,7 +344,7 @@ translate spanish b1c06ws07_6cbb4388:
 translate spanish b1c06ws07_3c66ecd3:
 
     # mc "Don't you move, {i}sweetcheeks{/i}, I'm going to fuck you until you collapse, and then maybe I'll let you cum."
-    mc "No te muevas, {i}dulzura{/i}, te voy a follar hasta que te derrumbes, y entonces quizá te deje correrte."
+    mc "No te muevas, {i}dulzura{/i}, voy a follarte hasta que te derrumbes, y entonces quizá deje que te corras."
 
 # game/code/Book-1/Chapter-6w/s07.rpy:253
 translate spanish b1c06ws07_826de7d1:
@@ -386,7 +386,7 @@ translate spanish b1c06ws07_edcce57c:
 translate spanish b1c06ws07_79ff6b1a:
 
     # "Feeling the edge of your orgasm arrive, you push yourself in as far as you can inside of her and cum."
-    "Sintiendo llegar el borde de tu orgasmo, te empujas lo más que puedes dentro de ella y te corres."
+    "Sintiendo llegar el borde de tu orgasmo, te introduces todo lo que puedes dentro de ella y te corres."
 
 # game/code/Book-1/Chapter-6w/s07.rpy:278
 translate spanish b1c06ws07_e1b111a9:
@@ -404,7 +404,7 @@ translate spanish b1c06ws07_1022f1af:
 translate spanish b1c06ws07_1fe2efdf:
 
     # mc "Fuck. I didn't mean to cum inside."
-    mc "Mierda. No quise correrme adentro."
+    mc "Mierda. No quise correrme dentro."
 
 # game/code/Book-1/Chapter-6w/s07.rpy:285
 translate spanish b1c06ws07_aeed3199:
@@ -476,7 +476,7 @@ translate spanish strings:
 
     # game/code/Book-1/Chapter-6w/s07.rpy:68
     old "Go back to your dorm"
-    new "Vuelve a tu dormitorio"
+    new "Regresa a tu dormitorio"
 
     # game/code/Book-1/Chapter-6w/s07.rpy:168
     old "Fuck her mouth"
