@@ -564,7 +564,7 @@ translate portuguese strings:
 
     # game/code/Book-1/Chapter-6w/s05.rpy:223
     old "Keep Sam close. She could be useful in sniffing out secrets of the club."
-    new "Mater Sam por perto. Ela pode ser útil para descobrir segredos do clube."
+    new "Manter Sam por perto. Ela pode ser útil para descobrir segredos do clube."
 
     # game/code/Book-1/Chapter-6w/s05.rpy:223
     old "Investigate Isa instead. Sam's too shifty."
