@@ -134,7 +134,7 @@ translate spanish b1c07ss08_sex_a95dc499:
 translate spanish b1c07ss08_sex_eef445f4:
 
     # nr "God, you are so hot."
-    nr "Dios, eres tan caliente."
+    nr "Dios, eres tan sexy."
 
 # game/code/Book-1/Chapter-7s/s08.rpy:127
 translate spanish b1c07ss08_sex_c022fc96:
@@ -164,7 +164,7 @@ translate spanish b1c07ss08_sex_ff3a5d53:
 translate spanish b1c07ss08_sex_e6af0b02:
 
     # "Nirmala's warm, agile fingers have you out of your pants in no time."
-    "Los cálidos y ágiles dedos de Nirmala te sacarán de los pantalones en poco tiempo."
+    "Los dedos cálidos y ágiles de Nirmala te dejan sin pantalones en un santiamén."
 
 # game/code/Book-1/Chapter-7s/s08.rpy:151
 translate spanish b1c07ss08_sex_549f9d76:
@@ -272,7 +272,7 @@ translate spanish b1c07ss08_sex_585f115a:
 translate spanish b1c07ss08_sex_58c900e8:
 
     # "Nirmala repositions herself to ride you in the reverse cowgirl position."
-    "Nirmala se reposiciona para montarte en la posición de vaquera inversa."
+    "Nirmala se reposiciona para montarte en la posición de vaquera invertida."
 
 # game/code/Book-1/Chapter-7s/s08.rpy:254
 translate spanish b1c07ss08_sex_f6fe3a48:
@@ -350,7 +350,7 @@ translate spanish b1c07ss08_sex_8f90eb82:
 translate spanish b1c07ss08_sex_71e68b6d:
 
     # mc "All I've thought about since the last time I felt you was when I could feel you again. Nirmala, you have no idea how good you feel."
-    mc "Todo lo que he pensado desde la última vez que te sentí fue cuando podría volver a sentirte. Nirmala, no tienes idea de lo bien que te sientes."
+    mc "Desde la última vez que te sentí, sólo he pensado en cuándo podría volver a sentirte. Nirmala, no tienes ni idea de lo bien que te sientes."
 
 # game/code/Book-1/Chapter-7s/s08.rpy:310
 translate spanish b1c07ss08_sex_86a99459:
@@ -386,7 +386,7 @@ translate spanish b1c07ss08_sex_1d48b756_1:
 translate spanish b1c07ss08_sex_6058b1aa:
 
     # "You entangle your fingers in Nirmala's hair and buck your hips into her, cumming deep inside her."
-    "Enredas tus dedos en el cabello de Nirmala y empujas tus caderas hacia ella, corriéndote profundamente dentro de ella."
+    "Enredas tus dedos en el pelo de Nirmala y sacudes tus caderas contra ella, corriéndote en su interior."
 
 # game/code/Book-1/Chapter-7s/s08.rpy:329
 translate spanish b1c07ss08_sex_1a79fd6a:
@@ -416,7 +416,7 @@ translate spanish b1c07ss08_sex_cee5a66b:
 translate spanish b1c07ss08_sex_3b5a9b83:
 
     # nr "Well good."
-    nr "Muy bueno."
+    nr "Muy bien."
 
 # game/code/Book-1/Chapter-7s/s08.rpy:354
 translate spanish b1c07ss08_sex_f1f7b9f9:
@@ -434,7 +434,7 @@ translate spanish b1c07ss08_sex_723555c9:
 translate spanish b1c07ss08_sex_1af63a78:
 
     # mc "Okay, okay. I promise I will. Sorry it's taken so long."
-    mc "Bien, bien. Prometo que lo hare. Siento haber tardado tanto."
+    mc "Bien, bien. Prometo que lo haré. Siento haber tardado tanto."
 
 # game/code/Book-1/Chapter-7s/s08.rpy:359
 translate spanish b1c07ss08_sex_028fb71d:
