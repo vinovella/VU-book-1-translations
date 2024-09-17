@@ -56,7 +56,7 @@ translate spanish b1c07ss01_0e59864f:
 translate spanish b1c07ss01_2db1e593:
 
     # zp "I bet he's got nudes or something on there..."
-    zp "Apuesto a que tiene desnudos o algo así..."
+    zp "Apuesto a que tiene desnudos o algo allí..."
 
 # game/code/Book-1/Chapter-7s/s01.rpy:67
 translate spanish b1c07ss01_e4f9232d:
@@ -128,7 +128,7 @@ translate spanish b1c07ss01_afcc07ac:
 translate spanish b1c07ss01_2bd46ee7:
 
     # "Everyone" "*Laughing*."
-    "Todos" "*Reír*."
+    "Todos" "*Riendo*."
 
 # game/code/Book-1/Chapter-7s/s01.rpy:109
 translate spanish b1c07ss01_2b6b406d:
@@ -260,7 +260,7 @@ translate spanish b1c07ss01_4ae02b93:
 translate spanish b1c07ss01_40f6de1f:
 
     # ffl "Alright, alright. Shooting probably just isn't for me. I'm a dainty lady."
-    ffl "Bien bien. Disparar probablemente no sea para mí. Soy una dama delicada."
+    ffl "Bien, bien. Disparar probablemente no sea para mí. Soy una dama delicada."
 
 # game/code/Book-1/Chapter-7s/s01.rpy:171
 translate spanish b1c07ss01_70f6c4da:
@@ -398,7 +398,7 @@ translate spanish b1c07ss01_0fd35f86:
 translate spanish b1c07ss01_627d3c22:
 
     # ffl "Shoot. I should get to my next class too."
-    ffl "Mierda. Yo también debería ir a mi próxima clase."
+    ffl "Mierda. Yo también debería ir a mi siguiente clase."
 
 # game/code/Book-1/Chapter-7s/s01.rpy:241
 translate spanish b1c07ss01_c20f90fa:
@@ -416,7 +416,7 @@ translate spanish b1c07ss01_fa8b061f:
 translate spanish b1c07ss01_4059e95a:
 
     # mg "See ya, Fleur."
-    mg "Nos vemos, Flor."
+    mg "Nos vemos, Fleur."
 
 # game/code/Book-1/Chapter-7s/s01.rpy:250
 translate spanish b1c07ss01_4d9a5d86:
@@ -536,7 +536,7 @@ translate spanish b1c07ss01_c2c6f3f6:
 translate spanish b1c07ss01_7762b999:
 
     # mg "Actually, I'm takin' the rest of the day off. Figured I'd take a self care day."
-    mg "En realidad, me tomaré el resto del día libre. Pensé que tomaría un día de cuidado personal."
+    mg "En realidad, me tomo el resto del día libre. Pensé en tomarme un día de autocuidado."
 
 # game/code/Book-1/Chapter-7s/s01.rpy:303
 translate spanish b1c07ss01_c6acfc34:
@@ -560,7 +560,7 @@ translate spanish b1c07ss01_4081bd7e:
 translate spanish b1c07ss01_fa74ed46:
 
     # mg "I gotcha. Family's rough, eh?"
-    mg "Lo tengo. La familia es dura, ¿eh?"
+    mg "Lo entiendo. La familia es dura, ¿eh?"
 
 # game/code/Book-1/Chapter-7s/s01.rpy:312
 translate spanish b1c07ss01_bff42c4f:
@@ -602,7 +602,7 @@ translate spanish b1c07ss01_9cd5360b:
 translate spanish b1c07ss01_e1930534:
 
     # mg "Regardless, I'm lucky that I don't gotta deal with her shit anymore. Sorry to hear you're still tied to your asshole dad, though."
-    mg "Independientemente, tengo suerte de no tener que lidiar más con su mierda. Sin embargo, lamento escuchar que todavía estás atado a tu idiota de papá."
+    mg "En cualquier caso, tengo suerte de no tener que lidiar con su mierda nunca más. Siento oír que sigues atado al imbécil de tu padre."
 
 # game/code/Book-1/Chapter-7s/s01.rpy:327
 translate spanish b1c07ss01_8f974f09:
