@@ -110,7 +110,7 @@ translate spanish b1c07ss04_aac32684:
 translate spanish b1c07ss04_b5480731:
 
     # zp "See? Aim is much more accurate when you have the proper stance and breathwork."
-    zp "¿Ves? La puntería es mucho más precisa cuando tienes la postura adecuada y el trabajo de respiración."
+    zp "¿Lo ves? La puntería es mucho más precisa cuando tienes la postura y la respiración adecuada."
 
 # game/code/Book-1/Chapter-7s/s04.rpy:94
 translate spanish b1c07ss04_74c63ef8:
@@ -260,7 +260,7 @@ translate spanish b1c07ss04_dbae042d:
 translate spanish b1c07ss04_ae688f29:
 
     # mc "It's because I have such a good teacher."
-    mc "Es porque tengo una buena maestra."
+    mc "Es porque tengo una buena profesora."
 
 # game/code/Book-1/Chapter-7s/s04.rpy:166
 translate spanish b1c07ss04_991506b1:
@@ -338,7 +338,7 @@ translate spanish b1c07ss04_64926725:
 translate spanish b1c07ss04_7bdef73b:
 
     # mc "But you're great! Good enough to teach me. And I'm improving in leaps and bounds, if I do say so myself."
-    mc "¡Pero eres genial! Lo suficientemente buena como para enseñarme. Y estoy mejorando a pasos agigantados, por decirlo así."
+    mc "¡Pero eres genial! Lo suficientemente buena como para enseñarme. Y estoy mejorando a pasos agigantados, por decirlo de alguna manera."
 
 # game/code/Book-1/Chapter-7s/s04.rpy:233
 translate spanish b1c07ss04_0a03b6ce:
@@ -440,7 +440,7 @@ translate spanish b1c07ss04_cb82d5e8:
 translate spanish b1c07ss04_0e85389c:
 
     # zp "They're so controlling and forceful...makes me punish myself harshly when I don't hold up to my own standards. They barely need to lift a finger anymore."
-    zp "Son tan controladores y contundentes... me hacen castigarme duramente cuando no cumplo mis propios estándares. Apenas tienen que mover ya un dedo."
+    zp "Son tan controladores y autoritarios... me hacen castigarme duramente cuando no cumplo mis propias normas. Ya casi no necesitan mover un dedo."
 
 # game/code/Book-1/Chapter-7s/s04.rpy:284
 translate spanish b1c07ss04_0b6f4b76:
@@ -458,13 +458,13 @@ translate spanish b1c07ss04_9bf1875c:
 translate spanish b1c07ss04_1562ee28:
 
     # zp "They force me to be in that stupid Winner's Club, but I prefer to be in the current IRL game that I like to play."
-    zp "Me obligan a estar en ese estúpido Club de Ganadores, pero prefiero estar en el juego actual de la vida real que me gusta jugar."
+    zp "Me obligan a estar en ese estúpido Club de los Ganadores, pero prefiero estar en el juego actual de la vida real que me gusta jugar."
 
 # game/code/Book-1/Chapter-7s/s04.rpy:291
 translate spanish b1c07ss04_e1feb47b:
 
     # mc "You're in the Winner's Club?"
-    mc "¿Estás en el Club de Ganadores?"
+    mc "¿Estás en el Club de los Ganadores?"
 
 # game/code/Book-1/Chapter-7s/s04.rpy:294
 translate spanish b1c07ss04_d7bb33b2:
@@ -476,7 +476,7 @@ translate spanish b1c07ss04_d7bb33b2:
 translate spanish b1c07ss04_06beb562:
 
     # mc "It's funny you say that. I'm on the volleyball team, actually."
-    mc "Es gracioso que digas eso. Estoy en el equipo de voleibol, en realidad."
+    mc "Es gracioso que digas eso. De hecho, estoy en el equipo de voleibol."
 
 # game/code/Book-1/Chapter-7s/s04.rpy:300
 translate spanish b1c07ss04_8dc14d5d:
@@ -530,7 +530,7 @@ translate spanish b1c07ss04_774f2f9d:
 translate spanish b1c07ss04_42e02b08:
 
     # mc "How'd you...get into the Winner's Club, anyway?"
-    mc "¿Cómo... entraste en el Club de Ganadores, de todos modos?"
+    mc "¿Cómo... entraste en el Club de los Ganadores, de todos modos?"
 
 # game/code/Book-1/Chapter-7s/s04.rpy:326
 translate spanish b1c07ss04_cd26dd41:
@@ -542,7 +542,7 @@ translate spanish b1c07ss04_cd26dd41:
 translate spanish b1c07ss04_531ab39a:
 
     # zp "Yeah, pretty much. My parents pay for my spot in the club, but I barely go to it."
-    zp "Sí, bastante. Mis padres pagan mi lugar en el club, pero apenas voy."
+    zp "Sí, más o menos. Mis padres pagan mi cuota en el club, pero apenas voy."
 
 # game/code/Book-1/Chapter-7s/s04.rpy:330
 translate spanish b1c07ss04_b98d7774:
@@ -560,7 +560,7 @@ translate spanish b1c07ss04_f6476684:
 translate spanish b1c07ss04_59a6b54e:
 
     # zp "So officially, I'm in the Winner's Club. Realistically, I'm in my own group of people."
-    zp "Así que oficialmente, estoy en el Club de Ganadores. Siendo realista, estoy en mi propio grupo de personas."
+    zp "Así que oficialmente, estoy en el Club de los Ganadores. Siendo realista, estoy en mi propio grupo de personas."
 
 # game/code/Book-1/Chapter-7s/s04.rpy:338
 translate spanish b1c07ss04_1710e5e8:
@@ -584,7 +584,7 @@ translate spanish b1c07ss04_5e106f41:
 translate spanish b1c07ss04_0f37ef6f:
 
     # zp "That other missing girl? Nah. I'm not close to any of the pretentious pricks within the club. Most are too stuck up to make friends with, anyway."
-    zp "¿Esa otra chica desaparecida? No. No estoy cerca de ninguna de las idiotas pretenciosas dentro del club. La mayoría son demasiado engreídas para hacer amigos, de todos modos."
+    zp "¿Esa otra chica desaparecida? No. No soy amiga de ninguno de los imbéciles pretenciosos del club. De todos modos, la mayoría son demasiado engreídos para hacer amigos."
 
 # game/code/Book-1/Chapter-7s/s04.rpy:346
 translate spanish b1c07ss04_70e602d6:
@@ -596,7 +596,7 @@ translate spanish b1c07ss04_70e602d6:
 translate spanish b1c07ss04_8da8019e:
 
     # zp "It was much harder for me to lose Leia. She offered me a way out of the Winner's Club."
-    zp "Fue mucho más difícil para mí perder a Leia. Me ofreció una salida del Club de Ganadores."
+    zp "Fue mucho más difícil para mí perder a Leia. Me ofreció una salida del Club de los Ganadores."
 
 # game/code/Book-1/Chapter-7s/s04.rpy:352
 translate spanish b1c07ss04_531c061e:
@@ -608,7 +608,7 @@ translate spanish b1c07ss04_531c061e:
 translate spanish b1c07ss04_d889f82c:
 
     # mc "Ah, I see. That makes sense. I didn't realize the Winner's Club was so awful."
-    mc "Ah, ya veo. Eso tiene sentido. No sabía que el Club de Ganadores era tan horrible."
+    mc "Ah, ya veo. Eso tiene sentido. No sabía que el Club de los Ganadores era tan horrible."
 
 # game/code/Book-1/Chapter-7s/s04.rpy:358
 translate spanish b1c07ss04_23702480:
@@ -620,7 +620,7 @@ translate spanish b1c07ss04_23702480:
 translate spanish b1c07ss04_7a5e8766:
 
     # zp "But, my parents think I'm some sort of prized livestock, a way to prove their prestige by having such a prodigy of a daughter."
-    zp "Pero mis padres creen que soy una especie de pieza valiosa, una forma de demostrar su prestigio por tener una hija prodigiosa."
+    zp "Pero mis padres creen que soy una especie de pieza valiosa, una forma de demostrar su prestigio por tener una hija prodigio."
 
 # game/code/Book-1/Chapter-7s/s04.rpy:364
 translate spanish b1c07ss04_84195448:
@@ -668,7 +668,7 @@ translate spanish b1c07ss04_45a041af:
 translate spanish b1c07ss04_a0497b6d:
 
     # zp "I... Thank you. I really appreciate that."
-    zp "Te lo agradezco. Realmente aprecio eso."
+    zp "Te... lo agradezco. Realmente aprecio eso."
 
 # game/code/Book-1/Chapter-7s/s04.rpy:389
 translate spanish b1c07ss04_ac13ad9f:
@@ -704,7 +704,7 @@ translate spanish b1c07ss04_54c4a650:
 translate spanish b1c07ss04_7a4e4d8d:
 
     # mc "It's exhilarating to know how to wield something so powerful. It makes {i}me{/i} feel powerful."
-    mc "Es emocionante saber cómo manejar algo tan poderoso. Hace que {i}me{/i} se sienta poderoso."
+    mc "Es estimulante saber manejar algo tan poderoso. Me hace {i}sentir{/i} poderoso."
 
 # game/code/Book-1/Chapter-7s/s04.rpy:414
 translate spanish b1c07ss04_06a3988a:
