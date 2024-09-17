@@ -285,16 +285,16 @@
     new "36: Privates Investigator"
 
     # game/code/data/achievement_gallery.rpy:5
-    old "Unlock 10 characters on the investigation board."
-    new "Unlock 10 characters on the investigation board."
+    old "Unlock 20 characters on the investigation board."
+    new "Unlock 20 characters on the investigation board."
 
     # game/code/data/achievement_gallery.rpy:5
     old "37: Master Sleuth"
     new "37: Master Sleuth"
 
     # game/code/data/achievement_gallery.rpy:5
-    old "Unlock 20 characters on the investigation board."
-    new "Unlock 20 characters on the investigation board."
+    old "Unlock 40 characters on the investigation board."
+    new "Unlock 40 characters on the investigation board."
 
     # game/code/data/achievement_gallery.rpy:5
     old "38: Passion Detective"
