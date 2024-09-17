@@ -8,7 +8,7 @@ translate spanish b1c07ss02_c09d8645:
 translate spanish b1c07ss02_d56db755:
 
     # "Guard" "Cori Bunker, huh?"
-    "Guardia" "Cori búnker, ¿eh?"
+    "Guardia" "Cori Bunker, ¿eh?"
 
 # game/code/Book-1/Chapter-7s/s02.rpy:23
 translate spanish b1c07ss02_17bc6980:
@@ -62,7 +62,7 @@ translate spanish b1c07ss02_8cea8336:
 translate spanish b1c07ss02_595994bc:
 
     # "Guard" "She's one of our most mischievous inmates. We had to put her in solitary confinement because she wouldn't stop causing trouble with other prisoners and guards."
-    "Guardia" "Es una de nuestras prisioneras más traviesas. Tuvimos que ponerla en confinamiento solitario porque no dejaba de causar problemas con otros presos y guardias."
+    "Guardia" "Es una de nuestras reclusas más rebeldes. Tuvimos que ponerla en confinamiento en solitario porque no dejaba de causar problemas a otras presas y a los guardias."
 
 # game/code/Book-1/Chapter-7s/s02.rpy:46
 translate spanish b1c07ss02_0eeb51b4:
@@ -104,7 +104,7 @@ translate spanish b1c07ss02_89f24481:
 translate spanish b1c07ss02_ef6e1dfa:
 
     # mct "Well, no matter. I'm not here about Cori's assault regardless."
-    mct "Bueno, no importa. No estoy aquí por el asalto de Cori a pesar de todo."
+    mct "Bueno, no importa. A pesar de todo, no estoy aquí por el asalto de Cori."
 
 # game/code/Book-1/Chapter-7s/s02.rpy:70
 translate spanish b1c07ss02_ccc47384:
@@ -158,13 +158,13 @@ translate spanish b1c07ss02_0b8d3321:
 translate spanish b1c07ss02_f7bec4d0:
 
     # cb "Why is anyone anywhere?"
-    cb "¿Por qué hay alguien en cualquier lugar?"
+    cb "¿Por qué hay alguien en algún lugar?"
 
 # game/code/Book-1/Chapter-7s/s02.rpy:109
 translate spanish b1c07ss02_2c983ffb:
 
     # cb "I'm here because the fucker who handcuffed me caught me at a bad time. That's it."
-    cb "Estoy aquí porque el hijo de puta que me esposó me pilló en un mal momento. Eso es todo."
+    cb "Estoy aquí porque el hijo de puta que me esposó me atrapó en un mal momento. Eso es todo."
 
 # game/code/Book-1/Chapter-7s/s02.rpy:112
 translate spanish b1c07ss02_835c9741:
@@ -206,7 +206,7 @@ translate spanish b1c07ss02_f49f646e:
 translate spanish b1c07ss02_00e4bd8f:
 
     # cb "Hot? Unbothered? Coooool?"
-    cb "¿Caliente? ¿Insoportable? Genial?"
+    cb "¿Sexy? ¿Insoportable? ¿Genial?"
 
 # game/code/Book-1/Chapter-7s/s02.rpy:129
 translate spanish b1c07ss02_9cf58c25:
@@ -248,7 +248,7 @@ translate spanish b1c07ss02_d9d971be:
 translate spanish b1c07ss02_0566a923:
 
     # mc "Were you like this with the previous interrogators as well?"
-    mc "¿También eras así con los interrogadores anteriores?"
+    mc "¿También eras igual con los otros interrogadores?"
 
 # game/code/Book-1/Chapter-7s/s02.rpy:148
 translate spanish b1c07ss02_3d454928:
@@ -296,13 +296,13 @@ translate spanish b1c07ss02_7e726c9d:
 translate spanish b1c07ss02_63678b3e:
 
     # cb "Well, I have a little half sister. Morgan Garret."
-    cb "Bueno, tengo una media hermana pequeña. Morgan Garret."
+    cb "Bueno, tengo una hermanastra pequeña. Morgan Garret."
 
 # game/code/Book-1/Chapter-7s/s02.rpy:170
 translate spanish b1c07ss02_133dbc10:
 
     # mc "Your half sister is Morgan?"
-    mc "¿Tu media hermana es Morgan?"
+    mc "¿Tu hermanastra es Morgan?"
 
 # game/code/Book-1/Chapter-7s/s02.rpy:174
 translate spanish b1c07ss02_124a129f:
@@ -326,7 +326,7 @@ translate spanish b1c07ss02_71990dc4:
 translate spanish b1c07ss02_ddb0ee08:
 
     # mc "I can double check that your letters are getting sent out, if you want."
-    mc "Puedo verificar dos veces que sus cartas se están enviando, si lo desea."
+    mc "Si quieres, puedo verificar que se estén enviando tus cartas."
 
 # game/code/Book-1/Chapter-7s/s02.rpy:184
 translate spanish b1c07ss02_f3273dd8:
@@ -596,7 +596,7 @@ translate spanish b1c07ss02_3295ce60:
 translate spanish b1c07ss02_eb005c15:
 
     # "You sigh, and nod at Cori."
-    "Suspiras y asientes a Cori."
+    "Suspiras y asientes ante Cori."
 
 # game/code/Book-1/Chapter-7s/s02.rpy:306
 translate spanish b1c07ss02_c3de7263:
