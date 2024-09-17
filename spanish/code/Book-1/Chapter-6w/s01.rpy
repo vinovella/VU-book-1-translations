@@ -14,7 +14,7 @@ translate spanish b1c06ws01_c47d5fa1:
 translate spanish b1c06ws01_9c640aaa:
 
     # ir "Sup."
-    ir "Sorber."
+    ir "Sup."
 
 # game/code/Book-1/Chapter-6w/s01.rpy:44
 translate spanish b1c06ws01_77370155:
@@ -44,7 +44,7 @@ translate spanish b1c06ws01_0385d871:
 translate spanish b1c06ws01_b34e25bb:
 
     # ir "Sorry for barging in like this."
-    ir "Lo siento por irrumpir así."
+    ir "Lo siento por irrumpir de esta manera."
 
 # game/code/Book-1/Chapter-6w/s01.rpy:60
 translate spanish b1c06ws01_06b38160:
@@ -74,7 +74,7 @@ translate spanish b1c06ws01_a8fe1b8d:
 translate spanish b1c06ws01_3470d9f0:
 
     # lw "I'm blind, not deaf. And you sound like a 'roided out ork storming through this room."
-    lw "Estoy ciega, no sorda. Y suenas como un orko acorralado en esta habitación."
+    lw "Estoy ciega, no sorda. Y suenas como un orco acorralado en esta habitación."
 
 # game/code/Book-1/Chapter-6w/s01.rpy:76
 translate spanish b1c06ws01_19d56505:
@@ -134,7 +134,7 @@ translate spanish b1c06ws01_f28e7318:
 translate spanish b1c06ws01_ba42af9d:
 
     # lw "Gross..."
-    lw "Bruto..."
+    lw "Asco..."
 
 # game/code/Book-1/Chapter-6w/s01.rpy:102
 translate spanish b1c06ws01_2ecd17d3:
@@ -290,7 +290,7 @@ translate spanish b1c06ws01_c6f58da3:
 translate spanish b1c06ws01_26595a25:
 
     # mc "Yeah, she's a bit of a busy body. But she's not bad or anything. Just..."
-    mc "Sí, ella es un poco complicada. Pero no es tan mala como parece. Sólo..."
+    mc "Sí, ella es un poco entrometida. Pero no es tan mala como parece. Sólo..."
 
 # game/code/Book-1/Chapter-6w/s01.rpy:167
 translate spanish b1c06ws01_3606583a:
@@ -368,7 +368,7 @@ translate spanish b1c06ws01_cea8cddb:
 translate spanish b1c06ws01_085cccdd:
 
     # mc "Oh, by the way. You should probably get a pair of headphones with passthrough or something. It's really conspicuous when you move only one ear cup off to eavesdrop."
-    mc "Oh por cierto. Probablemente deberías conseguir un par de auriculares con transferencia o algo así. Es realmente llamativo cuando quitas solo un auricular para escuchar a escondidas."
+    mc "Oh por cierto. Probablemente deberías conseguir un par de auriculares con transferencia o algo así. Es realmente llamativo cuando te quitas solo un auricular para escuchar a escondidas."
 
 # game/code/Book-1/Chapter-6w/s01.rpy:213
 translate spanish b1c06ws01_9ccc5ed5:
