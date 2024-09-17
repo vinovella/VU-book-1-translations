@@ -20,7 +20,7 @@ translate spanish b1c06ws05_dc0ff26a:
 translate spanish b1c06ws05_8c9328fe:
 
     # sdl "You probably think {i}this{/i} is what got me thrown out of the Winner's Club."
-    sdl "Probablemente pienses que {i}esto{/i} fue lo que hizo que me expulsaran del Club de Ganadores."
+    sdl "Probablemente pienses que {i}esto{/i} fue lo que hizo que me expulsaran del Club de los Ganadores."
 
 # game/code/Book-1/Chapter-6w/s05.rpy:46
 translate spanish b1c06ws05_1e348b56:
@@ -50,7 +50,7 @@ translate spanish b1c06ws05_79d91a96:
 translate spanish b1c06ws05_d06864f3:
 
     # "{i}We might be apart, but our love is forever,{/i}"
-    "{i} Puede que estemos separados, pero nuestro amor es para siempre, {/i}"
+    "{i}Puede que estemos separados, pero nuestro amor es para siempre,{/i}"
 
 # game/code/Book-1/Chapter-6w/s05.rpy:58
 translate spanish b1c06ws05_cdf840f5:
@@ -68,7 +68,7 @@ translate spanish b1c06ws05_e6c39122:
 translate spanish b1c06ws05_0247a7de:
 
     # "{i}So that no matter where, far or near,{/i}"
-    "{i}Para que no importa dónde, lejos o cerca,{/i}"
+    "{i}Para que no importe dónde, lejos o cerca,{/i}"
 
 # game/code/Book-1/Chapter-6w/s05.rpy:62
 translate spanish b1c06ws05_6552abc8:
@@ -86,7 +86,7 @@ translate spanish b1c06ws05_1411bdc2:
 translate spanish b1c06ws05_5c7fdb0c:
 
     # "{i}I still want to make you feel like a goddess, never forgotten.{/i}"
-    "{i}Todavía quiero hacerte sentir como una diosa, nunca olvidada.{/i}"
+    "{i}Sigo queriendo hacerte sentir como una diosa, nunca olvidada.{/i}"
 
 # game/code/Book-1/Chapter-6w/s05.rpy:67
 translate spanish b1c06ws05_d2dd2d4d:
@@ -104,7 +104,7 @@ translate spanish b1c06ws05_ad9d4233:
 translate spanish b1c06ws05_1a124185:
 
     # "{i}I'd give anything to have you back,{/i}"
-    "{i} Daría cualquier cosa por tenerte de vuelta, {/i}"
+    "{i} Daría cualquier cosa por tenerte de vuelta,{/i}"
 
 # game/code/Book-1/Chapter-6w/s05.rpy:74
 translate spanish b1c06ws05_c8059229:
@@ -128,19 +128,19 @@ translate spanish b1c06ws05_f7db5dc3:
 translate spanish b1c06ws05_60e8e6e3:
 
     # "{i}There's a chronic burning in my brain,{/i}"
-    "{i}Hay un ardor crónico en mi cerebro, {/i}"
+    "{i}Hay un ardor crónico en mi cerebro,{/i}"
 
 # game/code/Book-1/Chapter-6w/s05.rpy:79
 translate spanish b1c06ws05_848099a0:
 
     # "{i}My own guilt screams my ears full,{/i}"
-    "{i} Mi propia culpa me grita a los oídos, {/i}"
+    "{i} Mi propia culpa me grita a los oídos,{/i}"
 
 # game/code/Book-1/Chapter-6w/s05.rpy:80
 translate spanish b1c06ws05_f10c6db3:
 
     # "{i}And I know, I'll never escape this pain,{/i}"
-    "{i} Y lo sé, nunca escaparé de este dolor, {/i}"
+    "{i} Y lo sé, nunca escaparé de este dolor,{/i}"
 
 # game/code/Book-1/Chapter-6w/s05.rpy:81
 translate spanish b1c06ws05_dd4d921f:
@@ -158,7 +158,7 @@ translate spanish b1c06ws05_bcd93b31:
 translate spanish b1c06ws05_e86babff:
 
     # mc "Of course.{w} I bet your affinity for the {i}arts,{/i} didn't sit well with the Winner's Club."
-    mc "Por supuesto.{w} Apuesto a que tu afinidad por las {i}artes,{/i} no sentó bien al Club de Ganadores."
+    mc "Por supuesto.{w} Apuesto a que tu afinidad por las {i}artes,{/i} no sentó bien al Club de los Ganadores."
 
 # game/code/Book-1/Chapter-6w/s05.rpy:96
 translate spanish b1c06ws05_1cbc607d:
@@ -170,7 +170,7 @@ translate spanish b1c06ws05_1cbc607d:
 translate spanish b1c06ws05_35126bba:
 
     # mc "I think it's a case of clashing personality types, rather than who's boring or interesting."
-    mc "Creo que se trata de tipos de personalidades opuestas, más que de quién es aburrido o interesante."
+    mc "Creo que se trata de tipos de personalidad opuestos, más que de quién es aburrido o interesante."
 
 # game/code/Book-1/Chapter-6w/s05.rpy:102
 translate spanish b1c06ws05_a9782191:
@@ -230,7 +230,7 @@ translate spanish b1c06ws05_d3496b79:
 translate spanish b1c06ws05_5c65ae27:
 
     # sdl "You're just a guy on your own who desperately wants into the Winner's Club?"
-    sdl "¿Eres un chico que solo quiere entrar en el Club de Ganadores?"
+    sdl "¿Eres un chico que solo quiere entrar en el Club de los Ganadores?"
 
 # game/code/Book-1/Chapter-6w/s05.rpy:130
 translate spanish b1c06ws05_6a9d6850:
@@ -416,13 +416,13 @@ translate spanish b1c06ws05_acb1655d:
 translate spanish b1c06ws05_188b9132:
 
     # sdl "Help me get back at Isa, and I'll help you get into Winner's Club."
-    sdl "Ayúdame a vengarme de Isa y te ayudaré a entrar en el Club de Ganadores."
+    sdl "Ayúdame a vengarme de Isa y te ayudaré a entrar en el Club de los Ganadores."
 
 # game/code/Book-1/Chapter-6w/s05.rpy:219
 translate spanish b1c06ws05_8993e2cb:
 
     # mct "Sam obviously has a lot of info on the Winner's Club, but Isa might know more"
-    mct "Sam obviamente tiene mucha información sobre el Club de Ganadores, pero Isa podría saber mucho más."
+    mct "Sam obviamente tiene mucha información sobre el Club de los Ganadores, pero Isa podría saber mucho más."
 
 # game/code/Book-1/Chapter-6w/s05.rpy:220
 translate spanish b1c06ws05_c008c3c1:
@@ -446,7 +446,7 @@ translate spanish b1c06ws05_3d604bf9:
 translate spanish b1c06ws05_7843d913:
 
     # sdl "R-really? With me?"
-    sdl "¿De verdad? ¿Conmigo?"
+    sdl "¿D-De verdad? ¿Conmigo?"
 
 # game/code/Book-1/Chapter-6w/s05.rpy:235
 translate spanish b1c06ws05_1b822232:
@@ -464,7 +464,7 @@ translate spanish b1c06ws05_a25205ed:
 translate spanish b1c06ws05_f1f5706e:
 
     # sdl "Well, then we've got no time to lose. Meet me tomorrow, and we'll go over the next steps."
-    sdl "Bueno, entonces no tenemos tiempo que perder. Nos vemos mañana, y vamos a repasar los próximos pasos."
+    sdl "Bueno, entonces no tenemos tiempo que perder. Nos vemos mañana, y vamos a repasar los siguientes pasos."
 
 # game/code/Book-1/Chapter-6w/s05.rpy:246
 translate spanish b1c06ws05_ebaab4fc:
@@ -518,7 +518,7 @@ translate spanish b1c06ws05_end_272b12a2:
 translate spanish b1c06ws05_end_5e3be64c:
 
     # mct "Although {i}eccentric{/i}, she seems like she knows a lot of secrets about the Winner's Club."
-    mct "Aunque {i}excéntrica{/i}, parece saber muchos secretos sobre el Club de Ganadores."
+    mct "Aunque {i}excéntrica{/i}, parece saber muchos secretos sobre el Club de los Ganadores."
 
 # game/code/Book-1/Chapter-6w/s05.rpy:288
 translate spanish b1c06ws05_end_d8abf9e5:
@@ -542,7 +542,7 @@ translate spanish b1c06ws05_end_06a00c36:
 translate spanish b1c06ws05_end_d1d8adb3:
 
     # mct "Isa's directly tied to the Winner's Club, so getting closer to her could get me into the club much faster."
-    mct "Isa está directamente relacionada con el Club de Ganadores, por lo que acercarme a ella me podría llevar al club mucho más rápido."
+    mct "Isa está directamente relacionada con el Club de los Ganadores, por lo que acercarme a ella me podría llevar al club mucho más rápido."
 
 # game/code/Book-1/Chapter-6w/s05.rpy:296
 translate spanish b1c06ws05_end_6aaee433:
@@ -564,7 +564,7 @@ translate spanish strings:
 
     # game/code/Book-1/Chapter-6w/s05.rpy:223
     old "Keep Sam close. She could be useful in sniffing out secrets of the club."
-    new "Mantén a Sam cerca. Ella podría ser útil para descubrir secretos del club."
+    new "Mantén a Sam cerca. Ella podría ser útil para descubrir los secretos del club."
 
     # game/code/Book-1/Chapter-6w/s05.rpy:223
     old "Investigate Isa instead. Sam's too shifty."
