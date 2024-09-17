@@ -56,7 +56,7 @@ translate spanish b1c07ss06_8bef699b:
 translate spanish b1c07ss06_9908b279:
 
     # mc "Uh, is Rory here?"
-    mc "¿Está Rory aquí?"
+    mc "Uh, ¿está Rory aquí?"
 
 # game/code/Book-1/Chapter-7s/s06.rpy:41
 translate spanish b1c07ss06_5b8e2b40:
@@ -194,7 +194,7 @@ translate spanish b1c07ss06_2c4d952d:
 translate spanish b1c07ss06_7d43bdf0:
 
     # "You notice Rory lock the door behind you after you're inside."
-    "Notas que Rory cierra la puerta detrás de ti después de que estás adentro."
+    "Notas que Rory cierra la puerta detrás de ti después de que estás dentro."
 
 # game/code/Book-1/Chapter-7s/s06.rpy:105
 translate spanish b1c07ss06_95957f45:
@@ -230,7 +230,7 @@ translate spanish b1c07ss06_119c42b2:
 translate spanish b1c07ss06_a29e8b0c:
 
     # mc "Sure, I guess."
-    mc "Seguro supongo."
+    mc "Seguro, supongo."
 
 # game/code/Book-1/Chapter-7s/s06.rpy:121
 translate spanish b1c07ss06_1f90c5bc:
@@ -290,13 +290,13 @@ translate spanish b1c07ss06_b272ac7a:
 translate spanish b1c07ss06_883e6c35:
 
     # rg "No, no. I'm sure it's nothing."
-    rg "No no. Estoy segura de que no es nada."
+    rg "No, no. Estoy segura de que no es nada."
 
 # game/code/Book-1/Chapter-7s/s06.rpy:158
 translate spanish b1c07ss06_fc9d6ceb:
 
     # rg "So, how long have you known Morgan? She must have some amount of interest in you to send you here."
-    rg "Entonces, ¿cuánto hace que conoces a Morgan? Ella debe tener cierto interés en ti para enviarte aquí."
+    rg "Entonces, ¿desde cuándo conoces a Morgan? Debe tener algún interés en ti para enviarte aquí."
 
 # game/code/Book-1/Chapter-7s/s06.rpy:161
 translate spanish b1c07ss06_84624849:
@@ -308,7 +308,7 @@ translate spanish b1c07ss06_84624849:
 translate spanish b1c07ss06_5b248f4e:
 
     # rg "I'm glad she's met a new friend. She normally keeps to herself."
-    rg "Me alegro de que haya conocido a un nuevo amigo. Normalmente es muy reservada."
+    rg "Me alegro de que haya conocido a una nueva amiga. Normalmente es muy reservada."
 
 # game/code/Book-1/Chapter-7s/s06.rpy:168
 translate spanish b1c07ss06_242b1af0:
@@ -326,7 +326,7 @@ translate spanish b1c07ss06_d8036e97:
 translate spanish b1c07ss06_57b3b414:
 
     # rg "She and I go way back. She uh..."
-    rg "Ella y yo nos remontamos. ella eh..."
+    rg "Ella y yo nos conocemos hace mucho. Ella..."
 
 # game/code/Book-1/Chapter-7s/s06.rpy:175
 translate spanish b1c07ss06_a2ce2d6e:
@@ -362,7 +362,7 @@ translate spanish b1c07ss06_cc874a83:
 translate spanish b1c07ss06_e9f98c4d:
 
     # mc "I can only imagine. I'm sorry you went through that."
-    mc "Sólo puedo imaginar. Lamento que hayas pasado por eso."
+    mc "Sólo lo puedo imaginar. Lamento que hayas pasado por eso."
 
 # game/code/Book-1/Chapter-7s/s06.rpy:189
 translate spanish b1c07ss06_76e4eaf3:
@@ -434,7 +434,7 @@ translate spanish b1c07ss06_3e5a868b:
 translate spanish b1c07ss06_9612d98c:
 
     # mct "Whatever Morgan's involved with sounds serious, though."
-    mct "Sin embargo, lo que sea que Morgan esté involucrada suena serio."
+    mct "Sea lo que sea con lo que Morgan está involucrada suena serio."
 
 # game/code/Book-1/Chapter-7s/s06.rpy:213
 translate spanish b1c07ss06_a4cef388:
@@ -488,7 +488,7 @@ translate spanish b1c07ss06_56d66fca:
 translate spanish b1c07ss06_029e2d2a:
 
     # rg "Are you...going to join the live events with her?"
-    rg "¿Vas a unirte a los eventos en vivo con ella?"
+    rg "¿Vas a... unirte a los eventos en vivo con ella?"
 
 # game/code/Book-1/Chapter-7s/s06.rpy:243
 translate spanish b1c07ss06_cc44a219:
@@ -548,13 +548,13 @@ translate spanish b1c07ss06_a5d5841a:
 translate spanish b1c07ss06_50de1963:
 
     # mc "I know. That's why I'm here. Cori wanted me to deliver an apology letter to you and Morgan."
-    mc "Lo sé. Es por eso que estoy aquí. Cori quería que les entregara una carta de disculpa a usted ya Morgan."
+    mc "Lo sé. Es por eso que estoy aquí. Cori quería que les entregara una carta de disculpa a ti y a Morgan."
 
 # game/code/Book-1/Chapter-7s/s06.rpy:271
 translate spanish b1c07ss06_63e711aa:
 
     # rg "Well, I guess I should read it, huh?"
-    rg "Bueno, supongo que debería leerlo, ¿eh?"
+    rg "Bueno, supongo que debería leerla, ¿eh?"
 
 # game/code/Book-1/Chapter-7s/s06.rpy:273
 translate spanish b1c07ss06_6ab0218d:
@@ -572,19 +572,19 @@ translate spanish b1c07ss06_9c7f89f4:
 translate spanish b1c07ss06_7e40e67b:
 
     # "Rory exhales, looking somber and exhausted."
-    "Rory exhala, luciendo sombrío y exhausto."
+    "Rory exhala, luciendo sombría y exhausta."
 
 # game/code/Book-1/Chapter-7s/s06.rpy:280
 translate spanish b1c07ss06_632e2bbc:
 
     # rg "I see."
-    rg "Veo."
+    rg "Ya veo."
 
 # game/code/Book-1/Chapter-7s/s06.rpy:286
 translate spanish b1c07ss06_32b188ee:
 
     # "The apartment is still and quiet as Rory reads."
-    "El apartamento está quieto y en silencio mientras Rory lee."
+    "El departamento está quieto y en silencio mientras Rory lee."
 
 # game/code/Book-1/Chapter-7s/s06.rpy:293
 translate spanish b1c07ss06_76b8c71d:
@@ -614,7 +614,7 @@ translate spanish b1c07ss06_e7147520:
 translate spanish b1c07ss06_89110d93:
 
     # rg "Cori wouldn't be in jail if I weren't in debt and she was sent to collect it from me. That's why things escalated, that's why she—"
-    rg "Cori no estaría en la cárcel si yo no estuviera endeudado y la enviaron a cobrarme. Es por eso que las cosas se intensificaron, es por eso que ella—"
+    rg "Cori no estaría en la cárcel si yo no estuviera endeudada y la enviaron a cobrarme. Es por eso que las cosas se intensificaron, es por eso que ella—"
 
 # game/code/Book-1/Chapter-7s/s06.rpy:304
 translate spanish b1c07ss06_38d63434:
@@ -674,13 +674,13 @@ translate spanish b1c07ss06_b6ceed2a:
 translate spanish b1c07ss06_4ac75e73:
 
     # mct "What the hell happened that involved all three of them? Why wasn't Morgan mentioned in the police report?"
-    mct "¿Qué diablos pasó que los involucró a los tres? ¿Por qué no se mencionó a Morgan en el informe policial?"
+    mct "¿Qué diablos pasó que las involucró a las tres? ¿Por qué no se mencionó a Morgan en el informe policial?"
 
 # game/code/Book-1/Chapter-7s/s06.rpy:328
 translate spanish b1c07ss06_a9e993eb:
 
     # rg "I guess I should write a thank you note. I want her to know there's no hard feelings. I understand."
-    rg "Supongo que debería escribir una nota de agradecimiento. Quiero que sepa que no hay resentimientos. Entiendo."
+    rg "Supongo que debería escribir una nota de agradecimiento. Quiero que sepa que no hay resentimientos. Y que lo entiendo."
 
 # game/code/Book-1/Chapter-7s/s06.rpy:331
 translate spanish b1c07ss06_5e76ade4:
@@ -698,7 +698,7 @@ translate spanish b1c07ss06_3fd13023:
 translate spanish b1c07ss06_e6de383c:
 
     # mc "Oh, she and I weren't super close, but I wanted to check up on her after she got in prison."
-    mc "Oh, ella y yo no éramos muy cercanas, pero quería ver cómo estaba después de que entrara en prisión."
+    mc "Oh, ella y yo no éramos muy cercanos, pero quería ver cómo estaba después de que entrara en prisión."
 
 # game/code/Book-1/Chapter-7s/s06.rpy:339
 translate spanish b1c07ss06_adf7bdbb:
@@ -752,7 +752,7 @@ translate spanish b1c07ss06_5b56422d:
 translate spanish b1c07ss06_cd4c7517:
 
     # rg "Yeah. I'll try. I can't force her to read it, but I'll try to get her to."
-    rg "Sí. Lo intentaré. No puedo obligarla a leerlo, pero intentaré que lo haga."
+    rg "Sí. Lo intentaré. No puedo obligarla a leerla, pero intentaré que lo haga."
 
 # game/code/Book-1/Chapter-7s/s06.rpy:364
 translate spanish b1c07ss06_b4eb07e0:
@@ -806,7 +806,7 @@ translate spanish b1c07ss06_cjh_6467dc16:
 translate spanish b1c07ss06_cjh_e1f17298:
 
     # mc "Yeah, we've had the unfortunate occurrence of meeting."
-    mc "Sí, hemos tenido la desafortunada ocurrencia de encontrarnos."
+    mc "Sí, hemos tenido la desgracia de encontrarnos."
 
 # game/code/Book-1/Chapter-7s/s06.rpy:400
 translate spanish b1c07ss06_cjh_1d9ddf3d:
@@ -824,7 +824,7 @@ translate spanish b1c07ss06_cjh_e3ae7694:
 translate spanish b1c07ss06_cjh_36afe575:
 
     # cjh "LET ME IN YOU LITTLE SHIT, I KNOW YOU'RE IN THERE!"
-    cjh "¡DÉJAME ENTRAR, PEQUEÑA MIERDA, SE QUE ESTÁS AHÍ!"
+    cjh "¡DÉJAME ENTRAR, PEQUEÑA MIERDA, SÉ QUE ESTÁS AHÍ!"
 
 # game/code/Book-1/Chapter-7s/s06.rpy:408
 translate spanish b1c07ss06_cjh_532e4299:
@@ -854,7 +854,7 @@ translate spanish b1c07ss06_cjh_d3a9059c:
 translate spanish b1c07ss06_cjh_cff1a967:
 
     # mct "Cori better give me extra brownie points for protecting Rory. I'd do it regardless, but still."
-    mct "Será mejor que Cori me dé puntos extra de brownie por proteger a Rory. Lo haría de todos modos, pero aún así."
+    mct "Será mejor que Cori me dé puntos extra por proteger a Rory. Lo haría a pesar de todo, pero aún así."
 
 # game/code/Book-1/Chapter-7s/s06.rpy:418
 translate spanish b1c07ss06_cjh_f01d5a41:
@@ -920,7 +920,7 @@ translate spanish b1c07ss06_cjh_133e9ef2:
 translate spanish b1c07ss06_cjh_ded96a86:
 
     # cjh "And what the fuck are you doin' here, huh? You sure got your fingers in a lot of pies for a new guy on the block."
-    cjh "¿Y qué mierda estás haciendo aquí, eh? Seguro que tienes los dedos en un montón de pasteles para ser el nuevo de la cuadra."
+    cjh "¿Y qué mierda haces tú aquí? Seguro que tienes los dedos en un montón de pasteles para ser el chico nuevo de la cuadra."
 
 # game/code/Book-1/Chapter-7s/s06.rpy:456
 translate spanish b1c07ss06_cjh_9556205e:
@@ -962,7 +962,7 @@ translate spanish b1c07ss06_cjh_aea55847:
 translate spanish b1c07ss06_cjh_1cacfe68:
 
     # cjh "Some friend, huh? Writing love letters to each other or something?"
-    cjh "Algún amigo, ¿eh? ¿Escribiéndose cartas de amor o algo así?"
+    cjh "A una amiga, ¿eh? ¿Escribiéndose cartas de amor o algo así?"
 
 # game/code/Book-1/Chapter-7s/s06.rpy:474
 translate spanish b1c07ss06_cjh_f4f5e075:
@@ -1016,7 +1016,7 @@ translate spanish b1c07ss06_cjh_0384f722:
 translate spanish b1c07ss06_cjh_56f7a908:
 
     # "But Cade twists in your grasp, causing you to miss your mark. Instead, he falls into you, and you both crash to the ground."
-    "Pero Cade se retuerce en tu agarre, lo que te hace perder el objetivo. En cambio, cae sobre ti y ambos caen al suelo."
+    "Pero Cade se retuerce en tu agarre, haciéndote fallar tu objetivo. En lugar de eso, cae sobre ti y ambos caen al suelo."
 
 # game/code/Book-1/Chapter-7s/s06.rpy:505
 translate spanish b1c07ss06_cjh_2a3e4452:
@@ -1082,7 +1082,7 @@ translate spanish b1c07ss06_cjh_7af5c87c:
 translate spanish b1c07ss06_cjh_d7b440a8:
 
     # mc "Two can fight dirty, asshole."
-    mc "Dos pueden pelear sucio, pendejo."
+    mc "Dos pueden pelear sucio, imbécil."
 
 # game/code/Book-1/Chapter-7s/s06.rpy:559
 translate spanish b1c07ss06_cjh_c9cfd496:
@@ -1244,7 +1244,7 @@ translate spanish b1c07ss06_cjh_fe8e291e:
 translate spanish b1c07ss06_cjh_87d35c04:
 
     # rg "I feel so guilty. I'm {i}endangering{/i} people, just because of this!"
-    rg "Me siento tan culpable. ¡Estoy {i}poniendo en peligro a{/i} personas, sólo por esto!"
+    rg "Me siento tan culpable. ¡Estoy {i}poniendo en peligro{/i} a personas, sólo por esto!"
 
 # game/code/Book-1/Chapter-7s/s06.rpy:686
 translate spanish b1c07ss06_cjh_a77fa41b:
@@ -1286,7 +1286,7 @@ translate spanish b1c07ss06_cjh_4486ad8f:
 translate spanish b1c07ss06_cjh_f66b6878:
 
     # rg "I must look so pathetic from an outsider's perspective."
-    rg "Debo parecer tan patético desde la perspectiva de un extraño."
+    rg "Debo parecer tan patética desde la perspectiva de un extraño."
 
 # game/code/Book-1/Chapter-7s/s06.rpy:707
 translate spanish b1c07ss06_cjh_f0fa7535:
@@ -1304,7 +1304,7 @@ translate spanish b1c07ss06_cjh_31954e0c:
 translate spanish b1c07ss06_cjh_2ffea47c:
 
     # rg "Because it's my own actions that keep me this way."
-    rg "Porque son mis propias acciones las que me mantienen así."
+    rg "Porque son mis propias acciones las que me mantienen de esta manera."
 
 # game/code/Book-1/Chapter-7s/s06.rpy:720
 translate spanish b1c07ss06_end_adbe8123:
@@ -1346,7 +1346,7 @@ translate spanish b1c07ss06_end_3db69cac:
 translate spanish b1c07ss06_end_a95926e8:
 
     # rg "But you didn't. So, thank you."
-    rg "Pero no lo hiciste. Así que gracias."
+    rg "Pero no lo hiciste. Así que, gracias."
 
 # game/code/Book-1/Chapter-7s/s06.rpy:738
 translate spanish b1c07ss06_end_ba050638:
@@ -1370,7 +1370,7 @@ translate spanish b1c07ss06_end_1d5c1090:
 translate spanish b1c07ss06_end_c1594b63:
 
     # mc "No problem. I should get going, though."
-    mc "Ningún problema. Sin embargo, debería irme."
+    mc "No hay problema. Sin embargo, debería irme."
 
 # game/code/Book-1/Chapter-7s/s06.rpy:747
 translate spanish b1c07ss06_end_6b7e8591:
