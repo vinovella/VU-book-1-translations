@@ -38,7 +38,7 @@ translate spanish b1c07ss11_00b09ef8:
 translate spanish b1c07ss11_cb45ac3b:
 
     # mct "I remember Q mentioning The Wasps earlier, but I'm not sure what he means by The Syndicate... I'll have to ask Corinne."
-    mct "Recuerdo que Q mencionó a The Wasps antes, pero no estoy seguro de qué quiere decir con The Syndicate... Tendré que preguntarle a Corinne."
+    mct "Recuerdo que Q mencionó a Las Avispas, pero no estoy seguro de qué quiere decir con El Sindicato... Tendré que preguntarle a Corinne."
 
 # game/code/Book-1/Chapter-7s/s11.rpy:33
 translate spanish b1c07ss11_b2cea8e6:
@@ -50,7 +50,7 @@ translate spanish b1c07ss11_b2cea8e6:
 translate spanish b1c07ss11_c634ce15:
 
     # nr "YOU BETTER BACK OFF!"
-    nr "¡SERÁ MEJOR QUE TE RETROCEDAS!"
+    nr "¡SERÁ MEJOR QUE RETROCEDAS!"
 
 # game/code/Book-1/Chapter-7s/s11.rpy:50
 translate spanish b1c07ss11_d802280a:
@@ -62,7 +62,7 @@ translate spanish b1c07ss11_d802280a:
 translate spanish b1c07ss11_9fb1f01d:
 
     # nr "FUCK OFF BEFORE I SHOVE THIS KNIFE SO FAR UP YOUR ASS YOU COUGH UP STEEL!"
-    nr "¡VETE A LA MIERDA ANTES DE QUE TE META ESTE CUCHILLO POR EL CULO HASTA QUE ESCUPAS ACERO!"
+    nr "¡VETE A LA MIERDA ANTES DE QUE TE META TANTO ESTE CUCHILLO POR EL CULO QUE TOSAS ACERO!"
 
 # game/code/Book-1/Chapter-7s/s11.rpy:67
 translate spanish b1c07ss11_81207e66:
