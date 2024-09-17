@@ -32,7 +32,7 @@ translate spanish b1c06ws02_d910965b:
 translate spanish b1c06ws02_aafbe2f1:
 
     # mc "Oh, hey. What's up?"
-    mc "Oh hola. ¿Qué pasa?"
+    mc "Oh, hola. ¿Qué pasa?"
 
 # game/code/Book-1/Chapter-6w/s02.rpy:72
 translate spanish b1c06ws02_4a1e17b7:
@@ -56,7 +56,7 @@ translate spanish b1c06ws02_dac37e24:
 translate spanish b1c06ws02_364164f2:
 
     # mc "Mhm. Iona told me that we were having a volleyball practice session today."
-    mc "mmm Iona me dijo que hoy íbamos a tener una sesión de práctica de voleibol."
+    mc "Mhm. Iona me dijo que hoy íbamos a tener una sesión de práctica de voleibol."
 
 # game/code/Book-1/Chapter-6w/s02.rpy:84
 translate spanish b1c06ws02_096d83b5:
@@ -314,7 +314,7 @@ translate spanish b1c06ws02_8e01b62b:
 translate spanish b1c06ws02_1880b7bd:
 
     # sm "*Laughing* And I kinda feel bad! Like, he has asked me out so many times now and I've tried to let him down easy, but he just {i}cannot{/i} take a hint to save his life."
-    sm "*Risas* ¡Y me siento mal! Al igual que, él me ha invitado a salir tantas veces y he tratado de decepcionarlo, pero él simplemente {i}no puede{/i} captar una indirecta para salvarse a sí mismo."
+    sm "*Risas* ¡Y me siento mal! Al igual que él me ha invitado a salir tantas veces y he tratado de decepcionarlo, pero él simplemente {i}no puede{/i} captar una indirecta para salvarse a sí mismo."
 
 # game/code/Book-1/Chapter-6w/s02.rpy:205
 translate spanish b1c06ws02_dd88904b:
