@@ -2,343 +2,343 @@
 translate chinese b1c09s13_dbccd2a5:
 
     # mc "Just some water, please."
-    mc "Just some water, please."
+    mc "请给我来点水。"
 
 # game/code/Book-1/Chapter-9/s13.rpy:45
 translate chinese b1c09s13_jh_lw_8cee2c28:
 
     # oa "Hey, guys!"
-    oa "Hey, guys!"
+    oa "嘿，伙计们！"
 
 # game/code/Book-1/Chapter-9/s13.rpy:51
 translate chinese b1c09s13_jh_lw_9d5cbcd0:
 
     # mct "Oh, Josie and Lara. It's so late, I didn't think they'd come."
-    mct "Oh, Josie and Lara. It's so late, I didn't think they'd come."
+    mct "哦，乔西和劳拉。这么晚了，没想到她们会来。"
 
 # game/code/Book-1/Chapter-9/s13.rpy:52
 translate chinese b1c09s13_jh_lw_e38431b7:
 
     # "You focus on them and listen to their voices in the distance."
-    "You focus on them and listen to their voices in the distance."
+    "你一直关注着她们，听着她们在远处的声音。"
 
 # game/code/Book-1/Chapter-9/s13.rpy:56
 translate chinese b1c09s13_jh_lw_3a46847f:
 
     # oa "Oh my gosh, what a surprise! I didn't expect Lara to come as well."
-    oa "Oh my gosh, what a surprise! I didn't expect Lara to come as well."
+    oa "天哪，真是惊喜！没想到劳拉也来了。"
 
 # game/code/Book-1/Chapter-9/s13.rpy:59
 translate chinese b1c09s13_jh_lw_bbdcf3a4:
 
     # oa "Josie finally help you get out of your cocoon?"
-    oa "Josie finally help you get out of your cocoon?"
+    oa "乔西终于帮你破茧而出了？"
 
 # game/code/Book-1/Chapter-9/s13.rpy:61
 translate chinese b1c09s13_jh_lw_87264032:
 
     # lw "Ha! I tried to help {i}her{/i} get out of her cocoon and this is the thanks I got in return."
-    lw "Ha! I tried to help {i}her{/i} get out of her cocoon and this is the thanks I got in return."
+    lw "哈！反倒是我试图帮助{i}她{/i}摆脱困境，而这就是我得到的回报。"
 
 # game/code/Book-1/Chapter-9/s13.rpy:63
 translate chinese b1c09s13_jh_lw_4343bef7:
 
     # oa "*Giggles* We love seeing friends helping each other."
-    oa "*Giggles* We love seeing friends helping each other."
+    oa "*咯咯笑* 我们就喜欢看到朋友们互相帮助。"
 
 # game/code/Book-1/Chapter-9/s13.rpy:65
 translate chinese b1c09s13_jh_lw_14bab92e:
 
     # lw "I'd say I got a raw deal, but sure."
-    lw "I'd say I got a raw deal, but sure."
+    lw "我只能说，我真是倒霉透了，但确实如此。"
 
 # game/code/Book-1/Chapter-9/s13.rpy:68
 translate chinese b1c09s13_jh_lw_d2c34e81:
 
     # jh "Don't worry about her, she's just a little grumpy."
-    jh "Don't worry about her, she's just a little grumpy."
+    jh "别担心她，她只是脾气有点暴躁。"
 
 # game/code/Book-1/Chapter-9/s13.rpy:70
 translate chinese b1c09s13_jh_lw_255fd5a3:
 
     # oa "*Smiles* Hey, it's okay. I know these parties are a lot on the senses. But!"
-    oa "*Smiles* Hey, it's okay. I know these parties are a lot on the senses. But!"
+    oa "*微笑* 嘿，没关系。我知道这些派对让人感官上过于刺激。但是！"
 
 # game/code/Book-1/Chapter-9/s13.rpy:73
 translate chinese b1c09s13_jh_lw_05f93db8:
 
     # oa "*Whistles*"
-    oa "*Whistles*"
+    oa "*吹口哨*"
 
 # game/code/Book-1/Chapter-9/s13.rpy:77
 translate chinese b1c09s13_jh_lw_7371970e:
 
     # oa "Nothing gets your senses to stop fussing like some good booze!"
-    oa "Nothing gets your senses to stop fussing like some good booze!"
+    oa "没有什么比美酒更能让你感觉舒服了！"
 
 # game/code/Book-1/Chapter-9/s13.rpy:81
 translate chinese b1c09s13_jh_lw_1f7a0e7b:
 
     # jh "Woah, that is...forward."
-    jh "Woah, that is...forward."
+    jh "哇，这...太前卫了。"
 
 # game/code/Book-1/Chapter-9/s13.rpy:84
 translate chinese b1c09s13_jh_lw_466d8d80:
 
     # lw "What's forward?"
-    lw "What's forward?"
+    lw "什么太前卫了？"
 
 # game/code/Book-1/Chapter-9/s13.rpy:86
 translate chinese b1c09s13_jh_lw_311db3b5:
 
     # oa "*Giggles* Yeah. Isa, our party planner, decided to go with some more...let's say {i}risque{/i} clothing options for the servers she hired."
-    oa "*Giggles* Yeah. Isa, our party planner, decided to go with some more...let's say {i}risque{/i} clothing options for the servers she hired."
+    oa "*咯咯笑* 是的。是我们的派对策划师艾萨，她决定为她雇佣的服务员准备一些...更{i}大胆的{/i}服装。"
 
 # game/code/Book-1/Chapter-9/s13.rpy:90
 translate chinese b1c09s13_jh_lw_56943909:
 
     # lw "Oh, huh. How's that not incredibly awkward?"
-    lw "Oh, huh. How's that not incredibly awkward?"
+    lw "哦，呵呵。这不会让人觉得无比尴尬吗？"
 
 # game/code/Book-1/Chapter-9/s13.rpy:92
 translate chinese b1c09s13_jh_lw_460f2152:
 
     # oa "*Shrugs* You get used to it surprisingly fast."
-    oa "*Shrugs* You get used to it surprisingly fast."
+    oa "*耸耸肩* 你很快就会习惯的。"
 
 # game/code/Book-1/Chapter-9/s13.rpy:93
 translate chinese b1c09s13_jh_lw_80a3f1f9:
 
     # oa "Here's your drinks."
-    oa "Here's your drinks."
+    oa "这是你的饮料。"
 
 # game/code/Book-1/Chapter-9/s13.rpy:96
 translate chinese b1c09s13_jh_lw_540beb12:
 
     # lw "No, thank you. I don't like being drunk."
-    lw "No, thank you. I don't like being drunk."
+    lw "不用了，谢谢。我不喜欢喝醉。"
 
 # game/code/Book-1/Chapter-9/s13.rpy:98
 translate chinese b1c09s13_jh_lw_87a0ef9f:
 
     # oa "Oh, we also got non-alcoholic ones. Would you like that?"
-    oa "Oh, we also got non-alcoholic ones. Would you like that?"
+    oa "哦，我们还有不含酒精的饮料。你要吗？"
 
 # game/code/Book-1/Chapter-9/s13.rpy:99
 translate chinese b1c09s13_jh_lw_12393c6f:
 
     # oa "Something, something, GABA something drink that's supposed to mellow you out like booze without making you drunk."
-    oa "Something, something, GABA something drink that's supposed to mellow you out like booze without making you drunk."
+    oa "有一种东西，一种叫GABA的东西，据说可以像酒一样让你变得放松，但不会让你喝醉。"
 
 # game/code/Book-1/Chapter-9/s13.rpy:103
 translate chinese b1c09s13_jh_lw_c719d35a:
 
     # lw "I..."
-    lw "I..."
+    lw "我..."
 
 # game/code/Book-1/Chapter-9/s13.rpy:105
 translate chinese b1c09s13_jh_lw_e4139961:
 
     # jh "Hey, it's okay if you don't want to, but I'm here. I'll make sure you're okay."
-    jh "Hey, it's okay if you don't want to, but I'm here. I'll make sure you're okay."
+    jh "嘿，如果你不想喝也没关系，但我在这里。我会确保你没事的。"
 
 # game/code/Book-1/Chapter-9/s13.rpy:109
 translate chinese b1c09s13_jh_lw_472e83ed:
 
     # lw "Okay."
-    lw "Okay."
+    lw "好吧。"
 
 # game/code/Book-1/Chapter-9/s13.rpy:112
 translate chinese b1c09s13_jh_lw_18e73290:
 
     # lw "I'll take the non-alcoholic one, please."
-    lw "I'll take the non-alcoholic one, please."
+    lw "请给我一杯不含酒精的。"
 
 # game/code/Book-1/Chapter-9/s13.rpy:115
 translate chinese b1c09s13_jh_lw_59d1c7a4:
 
     # oa "Here you go."
-    oa "Here you go."
+    oa "给你。"
 
 # game/code/Book-1/Chapter-9/s13.rpy:120
 translate chinese b1c09s13_jh_lw_ddd1f29a:
 
     # "???" "OLESYA! WHERE THE FUCK ARE YOU???"
-    "???" "OLESYA! WHERE THE FUCK ARE YOU???"
+    "???" "奥列西娅！你他妈在哪???"
 
 # game/code/Book-1/Chapter-9/s13.rpy:122
 translate chinese b1c09s13_jh_lw_65032546:
 
     # oa "Ugh, damn it."
-    oa "Ugh, damn it."
+    oa "唉，该死。"
 
 # game/code/Book-1/Chapter-9/s13.rpy:127
 translate chinese b1c09s13_jh_lw_89d5d289:
 
     # oa "Sorry, I need to go check that out. Are you guys good here?"
-    oa "Sorry, I need to go check that out. Are you guys good here?"
+    oa "抱歉，我得去看看。你们在这里没问题吧？"
 
 # game/code/Book-1/Chapter-9/s13.rpy:129
 translate chinese b1c09s13_jh_lw_4e5eb2cb:
 
     # jh "Yeah! Go ahead."
-    jh "Yeah! Go ahead."
+    jh "没问题！你去吧。"
 
 # game/code/Book-1/Chapter-9/s13.rpy:131
 translate chinese b1c09s13_jh_lw_6c3a8c2e:
 
     # oa "Thank you. You two have fun now!"
-    oa "Thank you. You two have fun now!"
+    oa "谢谢。你们俩好好玩！"
 
 # game/code/Book-1/Chapter-9/s13.rpy:136
 translate chinese b1c09s13_jh_lw_0a710d19:
 
     # lw "I'm not sure letting the one person we know here go was a great idea, Josie."
-    lw "I'm not sure letting the one person we know here go was a great idea, Josie."
+    lw "我不确定让我们唯一认识的人离开是个好主意，乔西。"
 
 # game/code/Book-1/Chapter-9/s13.rpy:138
 translate chinese b1c09s13_jh_lw_68b66c7e:
 
     # jh "It'll be fine..."
-    jh "It'll be fine..."
+    jh "会没事的..."
 
 # game/code/Book-1/Chapter-9/s13.rpy:141
 translate chinese b1c09s13_jh_lw_9d086078:
 
     # jh "I'm sure we'll find our way around."
-    jh "I'm sure we'll find our way around."
+    jh "我相信我们会找到办法的。"
 
 # game/code/Book-1/Chapter-9/s13.rpy:144
 translate chinese b1c09s13_jh_lw_fbb86606:
 
     # mct "Guess I should stop gawking and actually go meet them."
-    mct "Guess I should stop gawking and actually go meet them."
+    mct "我想我该停止发呆，是时候去见见她们了。"
 
 # game/code/Book-1/Chapter-9/s13.rpy:148
 translate chinese b1c09s13_jh_lw_699878f6:
 
     # mc "Hey!"
-    mc "Hey!"
+    mc "嘿！"
 
 # game/code/Book-1/Chapter-9/s13.rpy:152
 translate chinese b1c09s13_jh_lw_95ff6bcb:
 
     # jh "Oh! [mcname]!"
-    jh "Oh! [mcname]!"
+    jh "哦！[mcname]！"
 
 # game/code/Book-1/Chapter-9/s13.rpy:154
 translate chinese b1c09s13_jh_lw_264bf8dc:
 
     # mc "I was wondering when you guys would show."
-    mc "I was wondering when you guys would show."
+    mc "我还在想你们什么时候会来呢。"
 
 # game/code/Book-1/Chapter-9/s13.rpy:157
 translate chinese b1c09s13_jh_lw_365b666f:
 
     # lw "Blame her. Took forever to pick something out."
-    lw "Blame her. Took forever to pick something out."
+    lw "都怪她。挑衣服挑了半天。"
 
 # game/code/Book-1/Chapter-9/s13.rpy:160
 translate chinese b1c09s13_jh_lw_27684712:
 
     # jh "*Faux gasp* And you say I betray our friendship."
-    jh "*Faux gasp* And you say I betray our friendship."
+    jh "*假装倒吸一口冷气* 你还说我背叛了我们的友谊。"
 
 # game/code/Book-1/Chapter-9/s13.rpy:162
 translate chinese b1c09s13_jh_lw_24d0342f:
 
     # lw "What! I have never said that, blasphemer."
-    lw "What! I have never said that, blasphemer."
+    lw "什么！我可从来没说过这话，你这个亵渎神明的人。"
 
 # game/code/Book-1/Chapter-9/s13.rpy:165
 translate chinese b1c09s13_jh_lw_969e080f:
 
     # mc "*Smiles* Alright, you two need to calm down before you start getting biblical here."
-    mc "*Smiles* Alright, you two need to calm down before you start getting biblical here."
+    mc "*微笑* 好吧，你们两个先冷静一下，别在这里吵得像圣经故事一样。"
 
 # game/code/Book-1/Chapter-9/s13.rpy:169
 translate chinese b1c09s13_jh_lw_c108474a:
 
     # lw "Don't tell me to calm down."
-    lw "Don't tell me to calm down."
+    lw "别叫我冷静。"
 
 # game/code/Book-1/Chapter-9/s13.rpy:170
 translate chinese b1c09s13_jh_lw_a3e13053:
 
     # lw "Anyway, you're sorta right. I don't like being in the middle of a crowd. It makes me antsy."
-    lw "Anyway, you're sorta right. I don't like being in the middle of a crowd. It makes me antsy."
+    lw "不管怎么说，你有点说对了。我不喜欢置身于人群之中。这让我感到不安。"
 
 # game/code/Book-1/Chapter-9/s13.rpy:173
 translate chinese b1c09s13_jh_lw_aecdd501:
 
     # mc "Okay. You two wanna go up to the balcony? There's not a lot of people there."
-    mc "Okay. You two wanna go up to the balcony? There's not a lot of people there."
+    mc "好吧。你们两个想去阳台吗？那里人不多。"
 
 # game/code/Book-1/Chapter-9/s13.rpy:174
 translate chinese b1c09s13_jh_lw_edcf93ac:
 
     # mc "So, we can just hang out and talk without being in the middle of everything."
-    mc "So, we can just hang out and talk without being in the middle of everything."
+    mc "这样我们就可以一起出去走走，聊聊天，而不必置身于一切的中心。"
 
 # game/code/Book-1/Chapter-9/s13.rpy:177
 translate chinese b1c09s13_jh_lw_8b3f0d38:
 
     # jh "That sounds nice... But I don't really want to look like a hermit staying away from everyone."
-    jh "That sounds nice... But I don't really want to look like a hermit staying away from everyone."
+    jh "听起来不错...但我不想看起来像个远离人群的隐士。"
 
 # game/code/Book-1/Chapter-9/s13.rpy:179
 translate chinese b1c09s13_jh_lw_174bba80:
 
     # mc "Well, it's like they say, one's a hermit, two's a couple, three's a company."
-    mc "Well, it's like they say, one's a hermit, two's a couple, three's a company."
+    mc "嗯，就像人们说的那样，一个人是隐士，两个人是情侣，三个人是公司。"
 
 # game/code/Book-1/Chapter-9/s13.rpy:182
 translate chinese b1c09s13_jh_lw_62b2f7de:
 
     # lw "I have never heard anyone say that."
-    lw "I have never heard anyone say that."
+    lw "我从来没听人这么说过。"
 
 # game/code/Book-1/Chapter-9/s13.rpy:185
 translate chinese b1c09s13_jh_lw_6ca3ef71:
 
     # jh "*Chuckles* Alright, alright. Let's go."
-    jh "*Chuckles* Alright, alright. Let's go."
+    jh *轻笑* 好吧，好吧。我们走吧。"
 
 # game/code/Book-1/Chapter-9/s13.rpy:201
 translate chinese b1c09s13_jh_lw_0c7e7392:
 
     # jh "carefu—!"
-    jh "carefu—!"
+    jh "小心--！"
 
 # game/code/Book-1/Chapter-9/s13.rpy:213
 translate chinese b1c09s13_jh_lw_aaa0d9c6:
 
     # mc "*Smiles* Guess I finally caught you."
-    mc "*Smiles* Guess I finally caught you."
+    mc "*微笑* 看来我终于抓到你了。"
 
 # game/code/Book-1/Chapter-9/s13.rpy:215
 translate chinese b1c09s13_jh_lw_7f210bd3:
 
     # lw "*Blushes and clears her throat* I'm fine."
-    lw "*Blushes and clears her throat* I'm fine."
+    lw "*红着脸清了清嗓子* 我没事。"
 
 # game/code/Book-1/Chapter-9/s13.rpy:220
 translate chinese b1c09s13_jh_lw_5b33d201:
 
     # lw "Put me down!"
-    lw "Put me down!"
+    lw "放我下来！"
 
 # game/code/Book-1/Chapter-9/s13.rpy:222
 translate chinese b1c09s13_jh_lw_5d67ca67:
 
     # mc "Hey! Stop wiggling. It's safer and faster if I just carry you."
-    mc "Hey! Stop wiggling. It's safer and faster if I just carry you."
+    mc "嘿！别扭来扭去的。我直接抱你上去更安全、更快捷。"
 
 # game/code/Book-1/Chapter-9/s13.rpy:225
 translate chinese b1c09s13_jh_lw_b3232d4c:
 
     # lw "Are you saying that I can't climb up stairs?"
-    lw "Are you saying that I can't climb up stairs?"
+    lw "你是说我爬不上楼梯？"
 
 # game/code/Book-1/Chapter-9/s13.rpy:227
 translate chinese b1c09s13_jh_lw_cd554814:
