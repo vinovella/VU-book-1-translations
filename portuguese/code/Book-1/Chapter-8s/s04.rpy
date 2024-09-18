@@ -1390,11 +1390,11 @@ translate portuguese strings:
 translate portuguese b1c08ss04_sex_e8f73632:
 
     # "She tastes so sweet. Her pussy twitches and greedily aches before you."
-    "She tastes so sweet. Her pussy twitches and greedily aches before you."
+    "Ela tem um gostinho tão doce. Sua boceta se contorce gulosamente diante de você."
 
 # game/code/Book-1/Chapter-8s/s04.rpy:675
 translate portuguese b1c08ss04_sex_4fd89c00:
 
     # "She grinds against your tongue, so desperate for more."
-    "She grinds against your tongue, so desperate for more."
+    "Ela se esfrega na sua língua, desesperada por mais."
 
