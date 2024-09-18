@@ -302,7 +302,7 @@ translate chinese b1c09s13_jh_lw_62b2f7de:
 translate chinese b1c09s13_jh_lw_6ca3ef71:
 
     # jh "*Chuckles* Alright, alright. Let's go."
-    jh *轻笑* 好吧，好吧。我们走吧。"
+    jh "*轻笑* 好吧，好吧。我们走吧。"
 
 # game/code/Book-1/Chapter-9/s13.rpy:201
 translate chinese b1c09s13_jh_lw_0c7e7392:
