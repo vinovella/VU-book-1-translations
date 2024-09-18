@@ -104,7 +104,7 @@ translate spanish b1c07cs01_2aa33e88:
 translate spanish b1c07cs01_095d04da:
 
     # dk "Wake up on the wrong side of the bed?"
-    dk "¿Despertarse del lado equivocado de la cama?"
+    dk "¿Te despertaste del lado equivocado de la cama?"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:84
 translate spanish b1c07cs01_b5acaff2:
@@ -206,7 +206,7 @@ translate spanish b1c07cs01_abd088ad:
 translate spanish b1c07cs01_c92bdfc9:
 
     # mc "Heh, I'm lost. What's she mean she's here to guide us? I thought we already have Guides?"
-    mc "jeje, estoy perdido. ¿Qué quiere decir con que está aquí para guiarnos? Pensé que ya tenemos Guías?"
+    mc "Estoy perdido. ¿Qué quiere decir con que está aquí para guiarnos? Creía que ya teníamos Guías."
 
 # game/code/Book-1/Chapter-7c/s01.rpy:146
 translate spanish b1c07cs01_513adbdf:
@@ -230,7 +230,7 @@ translate spanish b1c07cs01_71e7a4b1:
 translate spanish b1c07cs01_0f894798:
 
     # mc "Ohh, that makes much more sense. Thank you, Nia."
-    mc "Ohh, eso tiene mucho más sentido. Gracias, Nía."
+    mc "Ohh, eso tiene mucho más sentido. Gracias, Nia."
 
 # game/code/Book-1/Chapter-7c/s01.rpy:156
 translate spanish b1c07cs01_d98837b1:
@@ -302,7 +302,7 @@ translate spanish b1c07cs01_0dea40c4:
 translate spanish b1c07cs01_3163fa94:
 
     # ad "We're so enthusiastic about advancing everyone's enlightenment. We want to give you every opportunity to learn about us, our practices, and yourself!"
-    ad "Estamos muy entusiasmados con el avance de la iluminación de todos. ¡Queremos brindarle todas las oportunidades para aprender sobre nosotros, nuestras prácticas y usted mismo!"
+    ad "Estamos muy entusiasmados con el avance de la iluminación de todos. Queremos brindarles todas las oportunidades para que aprendan sobre nosotros, nuestras prácticas y sobre ustedes mismos."
 
 # game/code/Book-1/Chapter-7c/s01.rpy:196
 translate spanish b1c07cs01_b9ce2f0d:
@@ -314,7 +314,7 @@ translate spanish b1c07cs01_b9ce2f0d:
 translate spanish b1c07cs01_d3ff7864:
 
     # ad "Our announcement is over, but please, feel free to mingle amongst yourselves. Ivy and I will be here to answer any questions you have."
-    ad "Nuestro anuncio ha terminado, pero por favor, siéntanse libres de mezclarse entre ustedes. Ivy y yo estaremos aquí para responder cualquier pregunta que tengas."
+    ad "Nuestro anuncio ha terminado, pero por favor, siéntanse libres de mezclarse entre ustedes. Ivy y yo estaremos aquí para responder cualquier pregunta que tengan."
 
 # game/code/Book-1/Chapter-7c/s01.rpy:208
 translate spanish b1c07cs01_7eb4fd0c:
@@ -470,13 +470,13 @@ translate spanish b1c07cs01_1dad576b:
 translate spanish b1c07cs01_584d0c79:
 
     # ad "Del, Ivy and I have some Guide topics to discuss with you, concerning the trip."
-    ad "Del, Ivy y yo tenemos algunos temas de la Guía para discutir con usted en relación con el viaje."
+    ad "Del, Ivy y yo tenemos algunos temas de la Guía para discutir contigo en relación con el viaje."
 
 # game/code/Book-1/Chapter-7c/s01.rpy:307
 translate spanish b1c07cs01_32dc3811:
 
     # dk "Sure. I can talk now."
-    dk "Seguro. Puedo hablar ahora."
+    dk "Seguro. Podemos hablar ahora."
 
 # game/code/Book-1/Chapter-7c/s01.rpy:310
 translate spanish b1c07cs01_616aa9c3:
@@ -548,7 +548,7 @@ translate spanish b1c07cs01_547d78c6:
 translate spanish b1c07cs01_bae4ac6b:
 
     # nv "Lumi! Happy to see you. We were just discussing the trip!"
-    nv "¡lumi! Feliz de verte. ¡Estábamos discutiendo el viaje!"
+    nv "¡Lumi! Feliz de verte. ¡Estábamos discutiendo el viaje!"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:345
 translate spanish b1c07cs01_6620d9a8:
@@ -692,7 +692,7 @@ translate spanish b1c07cs01_3b4f8e0e:
 translate spanish b1c07cs01_3c9f007a:
 
     # nv "Del! How was the discussion? Anything interesting?"
-    nv "¡Del!  ¿Qué tal el debate? ¿Algo interesante?"
+    nv "¡Del! ¿Qué tal la discusión? ¿Algo interesante?"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:416
 translate spanish b1c07cs01_bd1149f8:
@@ -872,7 +872,7 @@ translate spanish b1c07cs01_50b77ffc:
 translate spanish b1c07cs01_a8252cbe:
 
     # mc "Bye, Nia."
-    mc "Adiós, Nía."
+    mc "Adiós, Nia."
 
 # game/code/Book-1/Chapter-7c/s01.rpy:505
 translate spanish b1c07cs01_6b32d9f4:
