@@ -32,7 +32,7 @@ translate spanish b1c07cs09_656db40b:
 translate spanish b1c07cs09_3195d119:
 
     # mct "Maybe there's a lever or button or something?"
-    mct "¿Tal vez hay una palanca o un botón o algo así?"
+    mct "¿Quizá haya una palanca o un botón o algo?"
 
 # game/code/Book-1/Chapter-7c/s09.rpy:57
 translate spanish b1c07cs09_79751b6d:
@@ -56,7 +56,7 @@ translate spanish b1c07cs09_ead4a05f:
 translate spanish b1c07cs09_6b282be7:
 
     # mct "Shit shit! I need an excuse, I need—"
-    mct "Mierda mierda! Necesito una excusa, necesito—"
+    mct "Mierda, mierda! Necesito una excusa, necesito—"
 
 # game/code/Book-1/Chapter-7c/s09.rpy:74
 translate spanish b1c07cs09_3813be3e:
@@ -68,7 +68,7 @@ translate spanish b1c07cs09_3813be3e:
 translate spanish b1c07cs09_a05f146d:
 
     # mc "And I um, forgot my bag, so I had to come back anyway."
-    mc "Y olvidé mi bolso, así que tuve que volver de todos modos."
+    mc "Y olvidé mi bolso, así que de todos modos tuve que regresar."
 
 # game/code/Book-1/Chapter-7c/s09.rpy:78
 translate spanish b1c07cs09_4977dad7:
@@ -110,7 +110,7 @@ translate spanish b1c07cs09_9fef99c4:
 translate spanish b1c07cs09_d4bcf7bc:
 
     # mc "I didn't, but I knew you spent a lot of time at the library. You were so sexy earlier today on the rooftop."
-    mc "No lo hice, pero sabía que pasabas mucho tiempo en la biblioteca. Estabas tan sexy hoy en la azotea."
+    mc "No lo sabía, pero sabía que pasabas mucho tiempo en la biblioteca. Estabas tan sexy hoy en la azotea."
 
 # game/code/Book-1/Chapter-7c/s09.rpy:107
 translate spanish b1c07cs09_93b3762b:
@@ -152,7 +152,7 @@ translate spanish b1c07cs09_4f9d3575:
 translate spanish b1c07cs09_acf88568:
 
     # "You hear a light click sing through the air in response."
-    "Escuchas un ligero clic cantar en el aire en respuesta."
+    "Escuchas un ligero clic en el aire como respuesta."
 
 # game/code/Book-1/Chapter-7c/s09.rpy:127
 translate spanish b1c07cs09_8c8fa0f2:
@@ -242,7 +242,7 @@ translate spanish b1c07cs09_01739c5a:
 translate spanish b1c07cs09_c3a02aa3:
 
     # ij "I'm so glad you're here to share this with. I'm so glad you want me like this."
-    ij "Estoy tan contenta de que estés aquí para compartir esto. Estoy tan contenta de que me quieras así."
+    ij "Estoy tan contenta de que estés aquí para compartir esto. Estoy tan contenta de que me quieras."
 
 # game/code/Book-1/Chapter-7c/s09.rpy:192
 translate spanish b1c07cs09_cf0c69f0:
@@ -278,7 +278,7 @@ translate spanish b1c07cs09_choice_3656a527:
 translate spanish b1c07cs09_choice_e4da19c9:
 
     # ij "Yeah, no worries. The basement's a little spooky at night with no one else around anyway, yeah? Don't worry about it."
-    ij "Sí, no te preocupes. El sótano es un poco espeluznante por la noche sin nadie más alrededor de todos modos, ¿sí? No te preocupes por eso."
+    ij "Sí, no te preocupes. El sótano es un poco espeluznante por la noche sin nadie más alrededor de todos modos, ¿no? No te preocupes."
 
 # game/code/Book-1/Chapter-7c/s09.rpy:230
 translate spanish b1c07cs09_choice_3c195686:
@@ -386,7 +386,7 @@ translate spanish b1c07cs09_sex_d0244896:
 translate spanish b1c07cs09_sex_ad9f151c:
 
     # mc "You feel so fucking good. You like it when I use you like this?"
-    mc "Te sientes tan malditamente bien. ¿Te gusta cuando te uso así?"
+    mc "Te sientes tan malditamente bien. ¿Te gusta cuando te uso de esta manera?"
 
 # game/code/Book-1/Chapter-7c/s09.rpy:327
 translate spanish b1c07cs09_sex_f9555ed3:
@@ -452,7 +452,7 @@ translate spanish b1c07cs09_sex_34605ff5:
 translate spanish b1c07cs09_sex_55879844:
 
     # mc "You like that, Irene? You like when I take control of your body like this?"
-    mc "¿Te gusta eso, Irene? ¿Te gusta cuando tomo el control de tu cuerpo así?"
+    mc "¿Te gusta eso, Irene? ¿Te gusta cuando tomo el control de tu cuerpo?"
 
 # game/code/Book-1/Chapter-7c/s09.rpy:376
 translate spanish b1c07cs09_sex_4eaaf084:
@@ -500,7 +500,7 @@ translate spanish b1c07cs09_sex_27a22753:
 translate spanish b1c07cs09_sex_1fb9cadb:
 
     # mc "Good, me too."
-    mc "Bien yo tambien."
+    mc "Bien, yo también."
 
 # game/code/Book-1/Chapter-7c/s09.rpy:403
 translate spanish b1c07cs09_sex_184a1690:
@@ -530,7 +530,7 @@ translate spanish b1c07cs09_sex_afea47b4:
 translate spanish b1c07cs09_sex_d653e7ff:
 
     # ij "I had a wonderful time. I'll see ya around, okay?"
-    ij "Tuve un momento maravilloso. Nos estaremos viendo, ¿de acuerdo?"
+    ij "Me lo he pasado muy bien. Nos vemos, ¿de acuerdo?"
 
 # game/code/Book-1/Chapter-7c/s09.rpy:427
 translate spanish b1c07cs09_sex_90db3c57:
