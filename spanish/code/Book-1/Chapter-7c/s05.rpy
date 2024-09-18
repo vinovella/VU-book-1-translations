@@ -50,7 +50,7 @@ translate spanish b1c07cs05_8886579a:
 translate spanish b1c07cs05_c2c9404a:
 
     # dk "As you know, intimacy is one of the most important experiences of being human. We want to cultivate a space of intimacy and vulnerability between members."
-    dk "Como sabes, la intimidad es una de las experiencias más importantes del ser humano. Queremos cultivar un espacio de intimidad y vulnerabilidad entre los miembros."
+    dk "Como saben, la intimidad es una de las experiencias más importantes del ser humano. Queremos cultivar un espacio de intimidad y vulnerabilidad entre los miembros."
 
 # game/code/Book-1/Chapter-7c/s05.rpy:89
 translate spanish b1c07cs05_d66c9470:
@@ -62,7 +62,7 @@ translate spanish b1c07cs05_d66c9470:
 translate spanish b1c07cs05_2657fea1:
 
     # dk "So please, take a moment to connect with your peers. Irene and I have some things to discuss about today's session before we begin."
-    dk "Por lo tanto, tómese un momento para conectarse con sus compañeros. Irene y yo tenemos algunas cosas que discutir sobre la sesión de hoy antes de comenzar."
+    dk "Así que, por favor, tómense un momento para conectar con sus compañeros. Irene y yo tenemos algunas cosas que discutir sobre la sesión de hoy antes de empezar."
 
 # game/code/Book-1/Chapter-7c/s05.rpy:94
 translate spanish b1c07cs05_32f056ef:
@@ -170,7 +170,7 @@ translate spanish b1c07cs05_1ae72504:
 translate spanish b1c07cs05_ef46b1b5:
 
     # dk "Being naked is natural and shameless. It's not an inherently sexual act unless we make it so."
-    dk "Estar desnudo es natural y desvergonzado. No es un acto inherentemente sexual a menos que lo hagamos así."
+    dk "Estar desnudo es natural y desvergonzado. No es un acto inherentemente sexual a menos que lo hagamos de esa manera."
 
 # game/code/Book-1/Chapter-7c/s05.rpy:146
 translate spanish b1c07cs05_92ab61c5:
@@ -422,7 +422,7 @@ translate spanish b1c07cs05_43f8155e:
 translate spanish b1c07cs05_7e31cfa4:
 
     # dk "See? No one's uncomfortable."
-    dk "¿Ves? Nadie está incómoda."
+    dk "¿Lo ves? Nadie está incómoda."
 
 # game/code/Book-1/Chapter-7c/s05.rpy:292
 translate spanish b1c07cs05_9f6f5919:
@@ -488,7 +488,7 @@ translate spanish b1c07cs05_72459794:
 translate spanish b1c07cs05_990c1bd2:
 
     # ij "See? It's all good."
-    ij "¿Ves? Está todo bien."
+    ij "¿Lo ves? Está todo bien."
 
 # game/code/Book-1/Chapter-7c/s05.rpy:326
 translate spanish b1c07cs05_e3d0ac26:
@@ -524,7 +524,7 @@ translate spanish b1c07cs05_8fb97f8f:
 translate spanish b1c07cs05_f66d3bfa:
 
     # dk "Irene and I will set a further example by exploring each other's bodies. If anyone's uncomfortable with that, please feel free to let us know."
-    dk "Irene y yo daremos un ejemplo más explorando el cuerpo del otro. Si alguien se siente incómodo con eso, no dude en hacérnoslo saber."
+    dk "Irene y yo daremos un ejemplo más explorando el cuerpo de la otra. Si alguien se siente incómodo con eso, no dude en hacérnoslo saber."
 
 # game/code/Book-1/Chapter-7c/s05.rpy:345
 translate spanish b1c07cs05_61f76215:
@@ -590,7 +590,7 @@ translate spanish b1c07cs05_1ec6c134:
 translate spanish b1c07cs05_d99185a3:
 
     # ij "I was blessed with my member from higher powers."
-    ij "Fui bendecida con mi miembro por fuerzas superiores."
+    ij "Fui bendecida con un miembro por poderes superiores."
 
 # game/code/Book-1/Chapter-7c/s05.rpy:392
 translate spanish b1c07cs05_8443ec78:
@@ -614,7 +614,7 @@ translate spanish b1c07cs05_9bfcd76c:
 translate spanish b1c07cs05_b2626344:
 
     # ll "We accept you, Irene! I believe you!"
-    ll "¡Te aceptamos, Irene! ¡Te creo!"
+    ll "¡Te aceptamos, Irene! ¡Yo te creo!"
 
 # game/code/Book-1/Chapter-7c/s05.rpy:406
 translate spanish b1c07cs05_79d70739:
@@ -710,7 +710,7 @@ translate spanish b1c07cs05_ac24d5f2:
 translate spanish b1c07cs05_98de8e40:
 
     # ll "I am! I was pretty nervous at first, but Irene and Delphia really inspired me. They're both such great Guides."
-    ll "¡Lo soy! Estaba bastante nerviosa al principio, pero Irene y Delphia realmente me inspiraron. Ambas son grandes Guías."
+    ll "¡Lo estoy! Estaba bastante nerviosa al principio, pero Irene y Delphia realmente me inspiraron. Ambas son grandes Guías."
 
 # game/code/Book-1/Chapter-7c/s05.rpy:476
 translate spanish b1c07cs05_c5538393:
@@ -746,7 +746,7 @@ translate spanish b1c07cs05_fc476172:
 translate spanish b1c07cs05_eff6b1bf:
 
     # mc "You're anything but annoying. I'm sorry someone made you feel otherwise."
-    mc "Eres cualquier cosa menos molesta. Lamento que alguien te haya hecho sentir lo contrario."
+    mc "Eres cualquier cosa menos molesta. Siento que alguien te haya hecho sentir lo contrario."
 
 # game/code/Book-1/Chapter-7c/s05.rpy:493
 translate spanish b1c07cs05_07c592a4:
@@ -764,7 +764,7 @@ translate spanish b1c07cs05_2af0d95b:
 translate spanish b1c07cs05_3b32d172:
 
     # ll "You're so sweet. I'm so glad this group led me to you."
-    ll "Eres tan dulce. Estoy tan contenta de que este grupo me llevó a ti."
+    ll "Eres tan dulce. Estoy tan contenta de que este grupo me haya llevado hasta ti."
 
 # game/code/Book-1/Chapter-7c/s05.rpy:507
 translate spanish b1c07cs05_d9bfbc96:
@@ -788,7 +788,7 @@ translate spanish b1c07cs05_4ae97f49:
 translate spanish b1c07cs05_72c2ee1c:
 
     # ij "Lumi, if you're ready, I think we should get to our next class."
-    ij "Lumi, si estás lista, creo que deberíamos ir a nuestra próxima clase."
+    ij "Lumi, si estás lista, creo que deberíamos ir a nuestra siguiente clase."
 
 # game/code/Book-1/Chapter-7c/s05.rpy:520
 translate spanish b1c07cs05_01e577c2:
@@ -872,7 +872,7 @@ translate spanish b1c07cs05_c494303d:
 translate spanish b1c07cs05_fe0fddec:
 
     # nv "You're not a burden, Lumi. You're a delight to be around, and we'll be here for as long as needed to show you how much we care for you."
-    nv "No eres una carga, Lumi. Es un placer tenerla cerca y, sin importar el tiempo que sea necesario, le mostraremos cuánto nos preocupamos por usted."
+    nv "No eres una carga, Lumi. Es un placer tenerte cerca y, sin importar el tiempo que sea necesario, te mostraremos cuánto nos preocupamos por ti."
 
 translate spanish strings:
 
