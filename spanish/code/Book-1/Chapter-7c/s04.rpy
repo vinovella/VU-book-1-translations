@@ -122,7 +122,7 @@ translate spanish b1c07cs04_e4f58cae:
 translate spanish b1c07cs04_1bf0fc5e:
 
     # mc "Later? What's going on later?"
-    mc "¿Más tarde? ¿Qué va a pasar más tarde?"
+    mc "¿Más adelante? ¿Qué va a pasar más tarde?"
 
 # game/code/Book-1/Chapter-7c/s04.rpy:81
 translate spanish b1c07cs04_a6428060:
@@ -170,7 +170,7 @@ translate spanish b1c07cs04_94aa5ef5:
 translate spanish b1c07cs04_c54acd3e:
 
     # nv "I see...ambition, and blue skies."
-    nv "Ya veo... ambición y cielos azules."
+    nv "Yo veo... ambición y cielos azules."
 
 # game/code/Book-1/Chapter-7c/s04.rpy:118
 translate spanish b1c07cs04_237abb02:
@@ -224,13 +224,13 @@ translate spanish b1c07cs04_4fa7f761:
 translate spanish b1c07cs04_d78412f3:
 
     # nv "You really think my spirit is radiant?"
-    nv "¿De verdad crees que mi espíritu está radiante?"
+    nv "¿De verdad crees que mi espíritu es radiante?"
 
 # game/code/Book-1/Chapter-7c/s04.rpy:147
 translate spanish b1c07cs04_3d5871a3:
 
     # mc "I think every part of you is radiant."
-    mc "Creo que cada parte de ti está radiante."
+    mc "Creo que cada parte de ti es radiante."
 
 # game/code/Book-1/Chapter-7c/s04.rpy:149
 translate spanish b1c07cs04_04dee97b:
@@ -314,7 +314,7 @@ translate spanish b1c07cs04_4844aa6e:
 translate spanish b1c07cs04_da13335d:
 
     # dk "You're all of those things and more, love. But it's okay that you don't see that in yourself yet. You will with time."
-    dk "Eres todas esas cosas y más, amor. Pero está bien que todavía no veas eso en ti misma. Lo harás con el tiempo."
+    dk "Eres todas esas cosas y más, cariño. Pero está bien que todavía no veas eso en ti misma. Lo harás con el tiempo."
 
 # game/code/Book-1/Chapter-7c/s04.rpy:195
 translate spanish b1c07cs04_dbdf6176:
@@ -350,7 +350,7 @@ translate spanish b1c07cs04_4e417cd4:
 translate spanish b1c07cs04_339b9a5d:
 
     # dk "It's important to feel connected to those around us, wouldn't you say?"
-    dk "Es importante sentirse conectado con quienes nos rodean, ¿no crees?"
+    dk "Es importante sentirse conectado con los que nos rodean, ¿no les parece?"
 
 # game/code/Book-1/Chapter-7c/s04.rpy:220
 translate spanish b1c07cs04_22fb090c:
@@ -398,13 +398,13 @@ translate spanish b1c07cs04_c17ec094:
 translate spanish b1c07cs04_6d85112f:
 
     # nv "You're right, Del."
-    nv "Tienes razón Del."
+    nv "Tienes razón, Del."
 
 # game/code/Book-1/Chapter-7c/s04.rpy:244
 translate spanish b1c07cs04_f2301b69:
 
     # dk "Very good, Nia love. What does your heart tell you to do right now?"
-    dk "Muy bien, Nia amor. ¿Qué te dice tu corazón que hagas en este momento?"
+    dk "Muy bien Nia. ¿Qué te dice tu corazón que hagas en este momento?"
 
 # game/code/Book-1/Chapter-7c/s04.rpy:247
 translate spanish b1c07cs04_a9a9064e:
@@ -428,7 +428,7 @@ translate spanish b1c07cs04_a076b464:
 translate spanish b1c07cs04_fb2cc636:
 
     # "Nia whispers softly, her voice intimate and breathy."
-    "Nia susurra suavemente, su voz íntima y entrecortada."
+    "Nia susurra suavemente, con voz íntima y entrecortada."
 
 # game/code/Book-1/Chapter-7c/s04.rpy:264
 translate spanish b1c07cs04_c6fb2ce8:
@@ -458,7 +458,7 @@ translate spanish b1c07cs04_6e95a802:
 translate spanish b1c07cs04_40e3ecba:
 
     # "An electric current of passion passes through you and Nia."
-    "Una corriente eléctrica de pasión los atraviesa a ti y a Nia."
+    "Una corriente eléctrica de pasión los atraviesa a Nia y a ti."
 
 # game/code/Book-1/Chapter-7c/s04.rpy:276
 translate spanish b1c07cs04_2e68da17:
@@ -530,7 +530,7 @@ translate spanish b1c07cs04_d84440bf:
 translate spanish b1c07cs04_5412c2b2:
 
     # mct "Is this okay? All this touching...is it truly what either of us wants, or are we just going along with it because it's what's expected?"
-    mct "¿Esta bien? Todo este contacto... ¿es realmente lo que cualquiera de nosotros quiere, o simplemente estamos de acuerdo porque es lo que se espera?"
+    mct "¿Esto está bien? Todo esto de tocarse... ¿es realmente lo que alguno de los dos quiere, o simplemente le seguimos la corriente porque es lo que se espera de nosotros?"
 
 # game/code/Book-1/Chapter-7c/s04.rpy:314
 translate spanish b1c07cs04_e2e0d503:
@@ -566,13 +566,13 @@ translate spanish b1c07cs04_2a7c7486:
 translate spanish b1c07cs04_8fa9e8d0:
 
     # dk "Nia love, why don't you go to the rooftop garden and wait for us to catch up? The others are probably already there."
-    dk "Nia amor, ¿por qué no subes al jardín de la azotea y esperas a que nos pongamos al día? Probablemente los demás ya estén allí."
+    dk "Nia, cariño, ¿por qué no subes al jardín de la azotea y esperas a que nos pongamos al día? Probablemente las demás ya estén allí."
 
 # game/code/Book-1/Chapter-7c/s04.rpy:331
 translate spanish b1c07cs04_be6519d6:
 
     # dk "[mcname] and I need to have a little talk."
-    dk "[mcname] y yo necesitamos tener una pequeña charla."
+    dk "[mcname] y yo necesitamos tener una pequeña conversación."
 
 # game/code/Book-1/Chapter-7c/s04.rpy:334
 translate spanish b1c07cs04_1c39d568:
@@ -590,7 +590,7 @@ translate spanish b1c07cs04_2517b3d5:
 translate spanish b1c07cs04_85efbf98:
 
     # dk "We're just going to have a little one on one time. Please, don't worry yourself. Go meet the others."
-    dk "Sólo vamos a tener algo de tiempo a solas. Por favor, no te preocupes. Ve a reunirte con los demás."
+    dk "Sólo vamos a tener algo de tiempo a solas. Por favor, no te preocupes. Ve a reunirte con las demás."
 
 # game/code/Book-1/Chapter-7c/s04.rpy:345
 translate spanish b1c07cs04_e1214eb6:
@@ -608,7 +608,7 @@ translate spanish b1c07cs04_c7214920:
 translate spanish b1c07cs04_a8252cbe:
 
     # mc "Bye, Nia."
-    mc "Adiós, Nía."
+    mc "Adiós, Nia."
 
 # game/code/Book-1/Chapter-7c/s04.rpy:354
 translate spanish b1c07cs04_e50f69c5:
@@ -728,7 +728,7 @@ translate spanish b1c07cs04_4f671c67:
 translate spanish b1c07cs04_e18869da:
 
     # dk "Good. Then trust her to decide what she wants for herself. Do you trust yourself?"
-    dk "Bien. Entonces confíe en ella para decidir lo que quiere para sí misma. ¿Confías en ti mismo?"
+    dk "Bien. Entonces confía en ella para decidir lo que quiere para sí misma. ¿Confías en ti mismo?"
 
 # game/code/Book-1/Chapter-7c/s04.rpy:400
 translate spanish b1c07cs04_683b2392:
@@ -842,7 +842,7 @@ translate spanish b1c07cs04_538c1030:
 translate spanish b1c07cs04_12960733:
 
     # "Delphia smiles at your neediness and kisses your neck. Her soft tits press against your chest, and it makes your cock ache for more."
-    "Delphia sonríe ante tu necesidad y besa tu cuello. Sus suaves tetas presionan contra tu pecho, y hace que tu polla duela por más."
+    "Delphia sonríe ante tu necesidad y te besa el cuello. Sus suaves tetas te oprimen el pecho y hacen que tu polla pida más."
 
 # game/code/Book-1/Chapter-7c/s04.rpy:451
 translate spanish b1c07cs04_5eb1b946:
@@ -884,7 +884,7 @@ translate spanish b1c07cs04_e528be70:
 translate spanish b1c07cs04_f00335bc:
 
     # dk "It'll get you major brownie points with the higher ups, I guarantee it."
-    dk "Te dará grandes puntos de brownie con los de arriba, te lo garantizo."
+    dk "Te garantizo que ganarás muchos puntos con los de arriba."
 
 # game/code/Book-1/Chapter-7c/s04.rpy:467
 translate spanish b1c07cs04_1830bec9:
