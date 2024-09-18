@@ -2,7 +2,7 @@
 translate spanish b1c07cs03_8f5a6f35:
 
     # mct "Wow, this place is a mess. Do all artists work like this?"
-    mct "Vayan, este lugar es un desastre. ¿Todos los artistas trabajan así?"
+    mct "Vayan, este lugar es un desastre. ¿Todos los artistas trabajan de esta manera?"
 
 # game/code/Book-1/Chapter-7c/s03.rpy:26
 translate spanish b1c07cs03_9b82dc68:
@@ -14,7 +14,7 @@ translate spanish b1c07cs03_9b82dc68:
 translate spanish b1c07cs03_1c8ad253:
 
     # mct "I guess that's evidence enough that this artist and Maria knew each other well."
-    mct "Supongo que eso es evidencia suficiente de que este artista y María se conocían bien."
+    mct "Supongo que eso es evidencia suficiente de que esta artista y María se conocían bien."
 
 # game/code/Book-1/Chapter-7c/s03.rpy:30
 translate spanish b1c07cs03_89d50f97:
@@ -86,7 +86,7 @@ translate spanish b1c07cs03_bc208ab9:
 translate spanish b1c07cs03_4cfe5404:
 
     # "The artist stands before you, looking intensely into your eyes as though you're a work of art."
-    "El artista se para frente a ti, mirándote intensamente a los ojos como si fueras una obra de arte."
+    "La artista se para frente a ti, mirándote intensamente a los ojos como si fueras una obra de arte."
 
 # game/code/Book-1/Chapter-7c/s03.rpy:67
 translate spanish b1c07cs03_ebea14c4:
@@ -104,7 +104,7 @@ translate spanish b1c07cs03_85b44712:
 translate spanish b1c07cs03_90479546:
 
     # mc "I just came to ask a few questions about Maria Krall."
-    mc "Sólo he venido a hacer unas preguntas sobre Maria Krall."
+    mc "Sólo he venido a hacer unas preguntas sobre María Krall."
 
 # game/code/Book-1/Chapter-7c/s03.rpy:75
 translate spanish b1c07cs03_030706bf:
@@ -122,7 +122,7 @@ translate spanish b1c07cs03_e5eb39e0:
 translate spanish b1c07cs03_77f14b5c:
 
     # mc "I'm Matthew Cheney. I'm investigating the disappearance of your friend, Maria Krall."
-    mc "Soy Matthew Cheney. Estoy investigando la desaparición de tu amiga, Maria Krall."
+    mc "Soy Matthew Cheney. Estoy investigando la desaparición de tu amiga, María Krall."
 
 # game/code/Book-1/Chapter-7c/s03.rpy:84
 translate spanish b1c07cs03_db08c613:
@@ -176,13 +176,13 @@ translate spanish b1c07cs03_03e0b0ad:
 translate spanish b1c07cs03_087547b2:
 
     # mct "I guess it showcases an artist under severe art block. An artist without her muse."
-    mct "Supongo que muestra a un artista bajo un severo bloqueo artístico. Una artista sin su musa."
+    mct "Supongo que muestra a una artista bajo un severo bloqueo artístico. Una artista sin su musa."
 
 # game/code/Book-1/Chapter-7c/s03.rpy:136
 translate spanish b1c07cs03_e4f5bc31:
 
     # mct "It must be devastating for Ezra to have lost her inspiration and friend...or maybe more than a friend."
-    mct "Debe ser devastador para Ezra haber perdido su inspiración y su amiga... o tal vez más que un amiga."
+    mct "Debe ser devastador para Ezra haber perdido su inspiración y su amiga... o tal vez más que una amiga."
 
 # game/code/Book-1/Chapter-7c/s03.rpy:140
 translate spanish b1c07cs03_ab4a6d4f:
@@ -230,7 +230,7 @@ translate spanish b1c07cs03_1cb8b913:
 translate spanish b1c07cs03_22fe8d9b:
 
     # edo "I'm {i}not{/i} anywhere without her..."
-    edo "No estoy {i}{/i} en ninguna parte sin ella..."
+    edo "{i}No estoy{/i} en ninguna parte sin ella..."
 
 # game/code/Book-1/Chapter-7c/s03.rpy:160
 translate spanish b1c07cs03_4a054e23:
@@ -344,7 +344,7 @@ translate spanish b1c07cs03_c9ae4f45:
 translate spanish b1c07cs03_0c13da97:
 
     # edo "Ah, I see. I've been told my art has that effect on people. Someone tells me they like my art, I say I know."
-    edo "Ah, ya veo. Me han dicho que mi arte tiene ese efecto en la gente. Alguien me dice que le gusta mi arte, yo digo que lo sé."
+    edo "Ah, ya veo. Me han dicho que mi arte tiene ese efecto en la gente. Alguien me dice que le gusta mi arte, le digo que lo sé."
 
 # game/code/Book-1/Chapter-7c/s03.rpy:210
 translate spanish b1c07cs03_4b1597f6:
@@ -494,7 +494,7 @@ translate spanish b1c07cs03_b6e72954:
 translate spanish b1c07cs03_e88970e2:
 
     # mct "I'm getting the sense she spends as little time as possible in the reality where Maria's gone."
-    mct "Tengo la sensación de que pasa el menor tiempo posible en la realidad ddesde que María se fue."
+    mct "Tengo la sensación de que pasa el menor tiempo posible en la realidad desde que María se fue."
 
 # game/code/Book-1/Chapter-7c/s03.rpy:285
 translate spanish b1c07cs03_c58daea5:
@@ -536,7 +536,7 @@ translate spanish b1c07cs03_dc3a21bd:
 translate spanish b1c07cs03_d52e349b:
 
     # mc "Heh, you don't know the half of it."
-    mc "Je, no sabes ni la mitad."
+    mc "Je, no sabes ni la mitad de eso."
 
 # game/code/Book-1/Chapter-7c/s03.rpy:300
 translate spanish b1c07cs03_fbd334ae:
@@ -590,7 +590,7 @@ translate spanish b1c07cs03_34a97698:
 translate spanish b1c07cs03_83108df0:
 
     # mc "Do you—"
-    mc "Tú-"
+    mc "Tú..."
 
 # game/code/Book-1/Chapter-7c/s03.rpy:325
 translate spanish b1c07cs03_e5030d0f:
