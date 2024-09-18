@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2024-09-14 13:59
-
-translate portuguese strings:
+﻿translate portuguese strings:
 
     # game/code/hints.rpy:11
     old "You protect Silvia from getting splashed. +1 point with Silvia."
