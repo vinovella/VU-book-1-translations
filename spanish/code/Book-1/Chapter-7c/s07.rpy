@@ -20,7 +20,7 @@ translate spanish b1c07cs07_dac84971:
 translate spanish b1c07cs07_5aa22cdf:
 
     # mc "Hey, Nia. What's up?"
-    mc "Hola, Nía. ¿Qué pasa?"
+    mc "Hola, Nia. ¿Qué pasa?"
 
 # game/code/Book-1/Chapter-7c/s07.rpy:29
 translate spanish b1c07cs07_93e78917:
@@ -38,7 +38,7 @@ translate spanish b1c07cs07_6dbebe72:
 translate spanish b1c07cs07_9017d39a:
 
     # nv "It makes um, advancing through the self-help group easier."
-    nv "Hace um, avanzar a través del grupo de autoayuda más fácil."
+    nv "Hace um, que avanzar por el grupo de autoayuda sea más fácil."
 
 # game/code/Book-1/Chapter-7c/s07.rpy:34
 translate spanish b1c07cs07_f0a5a9d6:
@@ -230,7 +230,7 @@ translate spanish b1c07cs07_after_lunch_3ecc136f:
 translate spanish b1c07cs07_after_lunch_662e150f:
 
     # mc "I'm so sorry, Nia. I'm sorry that I don't have answers for your questions. I'm sorry that this is all confusing and painful for you to go through."
-    mc "Lo siento mucho, Nía. Lamento no tener respuestas para tus preguntas. Lamento que todo esto sea confuso y doloroso para ti."
+    mc "Lo siento mucho, Nia. Lamento no tener respuestas para tus preguntas. Lamento que todo esto sea confuso y doloroso para ti."
 
 # game/code/Book-1/Chapter-7c/s07.rpy:128
 translate spanish b1c07cs07_after_lunch_ee73dc30:
@@ -380,7 +380,7 @@ translate spanish b1c07cs07_after_lunch_294425fa:
 translate spanish b1c07cs07_after_lunch_7c53c710:
 
     # mc "You're so beautiful, Nia."
-    mc "Eres tan hermosa, Nía."
+    mc "Eres tan hermosa, Nia."
 
 # game/code/Book-1/Chapter-7c/s07.rpy:204
 translate spanish b1c07cs07_after_lunch_8f14a27d:
@@ -446,7 +446,7 @@ translate spanish b1c07cs07_after_lunch_4f3fa82e:
 translate spanish b1c07cs07_after_lunch_110b4645:
 
     # mc "I'm curious. Did you have trouble with the physical intimacy the self-help group demonstrates?"
-    mc "Soy curioso. ¿Tuvo problemas con la intimidad física que demuestra el grupo de autoayuda?"
+    mc "Tengo curiosidad. ¿Tuviste problemas con la intimidad física que demuestra el grupo de autoayuda?"
 
 # game/code/Book-1/Chapter-7c/s07.rpy:235
 translate spanish b1c07cs07_after_lunch_298106f1:
@@ -476,13 +476,13 @@ translate spanish b1c07cs07_after_lunch_5e453869:
 translate spanish b1c07cs07_after_lunch_bcc4623d:
 
     # nv "Nowadays, being so physically and emotionally intimate feels like I'm breaking the boundaries between myself and others."
-    nv "Hoy en día, ser tan íntimo física y emocionalmente se siente como si estuviera rompiendo los límites entre mí y los demás."
+    nv "Hoy en día, ser tan íntima física y emocionalmente se siente como si estuviera rompiendo los límites entre mí y los demás."
 
 # game/code/Book-1/Chapter-7c/s07.rpy:243
 translate spanish b1c07cs07_after_lunch_f0492f95:
 
     # mct "Sometimes it feels like the group has disguised intimacy with control...and I worry about how deep into that illusion Nia is."
-    mct "A veces parece que el grupo ha disfrazado la intimidad con control... y me preocupa lo profunda que está Nia en esa ilusión."
+    mct "A veces parece que el grupo ha disfrazado la intimidad con control... y me preocupa lo profundo que está Nia en esa ilusión."
 
 # game/code/Book-1/Chapter-7c/s07.rpy:245
 translate spanish b1c07cs07_after_lunch_b3b947df:
@@ -536,7 +536,7 @@ translate spanish b1c07cs07_after_lunch_919d84a3:
 translate spanish b1c07cs07_after_lunch_13d8a210:
 
     # mc "Agreed. No matter what happens, I'll be there for you as much as I can."
-    mc "De acuerdo. Pase lo que pase, estaré ahí para ti tanto como pueda."
+    mc "Estoy de acuerdo. Pase lo que pase, estaré ahí para ti tanto como pueda."
 
 # game/code/Book-1/Chapter-7c/s07.rpy:267
 translate spanish b1c07cs07_after_lunch_d48b3160:
@@ -584,7 +584,7 @@ translate spanish b1c07cs07_after_lunch_1c9b4d90:
 translate spanish b1c07cs07_after_lunch_6a7979fd:
 
     # mc "Bye, Nia. This was nice."
-    mc "Adiós, Nía. Esto fue agradable."
+    mc "Adiós, Nia. Esto fue agradable."
 
 # game/code/Book-1/Chapter-7c/s07.rpy:296
 translate spanish b1c07cs07_after_lunch_f70b85cf:
