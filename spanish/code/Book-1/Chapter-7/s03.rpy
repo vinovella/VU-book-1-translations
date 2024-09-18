@@ -8,7 +8,7 @@ translate spanish b1c07s03_14769e1d:
 translate spanish b1c07s03_f091fe2e:
 
     # mct "...Hopefully I still have that muscle memory."
-    mct "... Ojalá todavía tenga esa memoria muscular."
+    mct "...Ojalá todavía tenga esa memoria muscular."
 
 # game/code/Book-1/Chapter-7/s03.rpy:22
 translate spanish b1c07s03_fd21da91:
@@ -134,7 +134,7 @@ translate spanish b1c07s03_35983d29:
 translate spanish b1c07s03_3fcc58ce:
 
     # jh "Nope. Again, we're only bouldering, so the wall isn't that tall. Which means that it isn't that hard—even for her."
-    jh "No, no. Una vez más, sólo estamos boulder, por lo que la pared no es tan alta. Lo que significa que no es tan difícil, incluso para ella."
+    jh "No, no. Una vez más, sólo estamos haciendo boulder, por lo que la pared no es tan alta. Lo que significa que no es tan difícil, incluso para ella."
 
 # game/code/Book-1/Chapter-7/s03.rpy:89
 translate spanish b1c07s03_3471f780:
@@ -164,7 +164,7 @@ translate spanish b1c07s03_e65484d7:
 translate spanish b1c07s03_08f4663a:
 
     # jh "Ooh, oh! Look at that. First pointer. See how she puts the very tip of her foot on the holds and not her soles?"
-    jh "¡Ay, ay! Mira eso. Primer puntero. ¿Ves cómo pone la punta de su pie en las presas y no en las suelas?"
+    jh "¡Oh, oh! Mira eso. Primer punto. ¿Ves cómo pone la punta del pie en las presas y no en la planta del pie?"
 
 # game/code/Book-1/Chapter-7/s03.rpy:107
 translate spanish b1c07s03_7eac2298:
@@ -176,13 +176,13 @@ translate spanish b1c07s03_7eac2298:
 translate spanish b1c07s03_7081459e:
 
     # jh "So you should always try to step with your toes and not your soles. Sometimes it's not possible, but it's a good rule to keep in mind."
-    jh "Por lo tanto, siempre debe tratar de pisar con los dedos de los pies y no con las plantas de los pies. A veces no es posible, pero es una buena regla a tener en cuenta."
+    jh "Por lo tanto, siempre hay que intentar pisar con los dedos de los pies y no con la planta de los pies. A veces no es posible, pero es una buena regla a tener en cuenta."
 
 # game/code/Book-1/Chapter-7/s03.rpy:113
 translate spanish b1c07s03_93dfa314:
 
     # mc "Will do."
-    mc "Servirá."
+    mc "Lo haré."
 
 # game/code/Book-1/Chapter-7/s03.rpy:120
 translate spanish b1c07s03_292171f7:
@@ -194,7 +194,7 @@ translate spanish b1c07s03_292171f7:
 translate spanish b1c07s03_d0b68b6b:
 
     # jh "Alright! You're good!"
-    jh "¡Muy bien! ¡Estás bien!"
+    jh "¡Muy bien! ¡Ésta bien!"
 
 # game/code/Book-1/Chapter-7/s03.rpy:127
 translate spanish b1c07s03_428680de:
@@ -248,7 +248,7 @@ translate spanish b1c07s03_ddb96c64:
 translate spanish b1c07s03_bed0be43:
 
     # mc "Hey, could I do my climb right now? I wanna shove that arrogance in her face."
-    mc "Oye, ¿podría hacer mi ascenso ahora mismo? Quiero empujar esa arrogancia en su cara."
+    mc "Oye, ¿podría hacer mi escalada justo ahora? Quiero empujar esa arrogancia en su cara."
 
 # game/code/Book-1/Chapter-7/s03.rpy:154
 translate spanish b1c07s03_d470742c:
@@ -260,7 +260,7 @@ translate spanish b1c07s03_d470742c:
 translate spanish b1c07s03_8b1ee4b5:
 
     # mc "Let it get to me? Perish the thought."
-    mc "¿Dejar que me afecte? Olvídalo."
+    mc "¿Dejar que me afecten? Olvídalo."
 
 # game/code/Book-1/Chapter-7/s03.rpy:161
 translate spanish b1c07s03_c1afcb57:
@@ -350,7 +350,7 @@ translate spanish b1c07s03_ac979049:
 translate spanish b1c07s03_3af7b210:
 
     # lw "*Groans* Argh. Yeah, yeah. I'm fine. Just got a little spooked by how close you got. Thought you were further away than I realized."
-    lw "*gemidos* Argh. Si, si. Yo estoy bien. Sólo me asusté un poco por lo cerca que estabas. Pensé que estabas más lejos de lo que pensaba."
+    lw "*gemidos* Argh. Si, si. Yo estoy bien. Sólo me asusté un poco por lo cerca que estabas. Pensé que estabas más lejos de lo que creía."
 
 # game/code/Book-1/Chapter-7/s03.rpy:235
 translate spanish b1c07s03_85c64722:
@@ -368,13 +368,13 @@ translate spanish b1c07s03_f81e04ab:
 translate spanish b1c07s03_b6f5961c:
 
     # mc "Yeah, I may or may not have tried to grab you when you fell."
-    mc "Sí, puede que haya intentado o no agarrarte cuando te caíste."
+    mc "Sí, puede o no que haya intentado agarrarte cuando te caíste."
 
 # game/code/Book-1/Chapter-7/s03.rpy:244
 translate spanish b1c07s03_39ac98c5:
 
     # lw "Oh my God, never do that. That was a stupid mistake, [mcname]. You might've gotten really hurt."
-    lw "Dios mío, nunca hagas eso. Eso fue un error estúpido, [mcname]. Podrías haberte hecho mucho daño."
+    lw "Dios mío, nunca hagas eso. Ese fue un error estúpido, [mcname]. Podrías haberte hecho mucho daño."
 
 # game/code/Book-1/Chapter-7/s03.rpy:246
 translate spanish b1c07s03_29e1244f:
@@ -488,7 +488,7 @@ translate spanish b1c07s03_fdf27f07:
 translate spanish b1c07s03_2827bcc8:
 
     # mc "Aye, aye, cap'n."
-    mc "Sí, sí, capitán."
+    mc "A la orden, capitán."
 
 # game/code/Book-1/Chapter-7/s03.rpy:308
 translate spanish b1c07s03_2816521c:
@@ -506,7 +506,7 @@ translate spanish b1c07s03_cf5ba34c:
 translate spanish b1c07s03_d10bf7a3:
 
     # "Girl" "Matthew? Matthew! Hey!"
-    "Chica" "¿Matthew? ¡Mateo! ¡Hey!"
+    "Chica" "¿Matthew? ¡Matthew! ¡Hey!"
 
 # game/code/Book-1/Chapter-7/s03.rpy:318
 translate spanish b1c07s03_439dfed8:
@@ -554,7 +554,7 @@ translate spanish b1c07s03_1ede41cd:
 translate spanish b1c07s03_49243b3f:
 
     # lr "Nice to meet you!"
-    lr "¡Encantada de conocerlo!"
+    lr "¡Encantada de conocerla!"
 
 # game/code/Book-1/Chapter-7/s03.rpy:351
 translate spanish b1c07s03_4cb9562d:
@@ -740,7 +740,7 @@ translate spanish b1c07s03_66d2b328:
 translate spanish b1c07s03_dfeafe4a:
 
     # jh "Oh, right. I almost forgot!"
-    jh "Correcto. ¡Casi lo olvido!"
+    jh "Oh, verdad. ¡Casi lo olvido!"
 
 # game/code/Book-1/Chapter-7/s03.rpy:445
 translate spanish b1c07s03_d4e61341:
@@ -776,7 +776,7 @@ translate spanish b1c07s03_after_bouldering_e42a9575:
 translate spanish b1c07s03_after_bouldering_6df460bb:
 
     # mc "Jesus. No wonder you two are ripped. This is a hell of a workout."
-    mc "Jesús. No es de extrañar que ustedes dos estén destrozados. Este es un infierno de entrenamiento."
+    mc "Jesús. No es de extrañar que ustedes dos estén destrozadas. Este es un infierno de entrenamiento."
 
 # game/code/Book-1/Chapter-7/s03.rpy:481
 translate spanish b1c07s03_after_bouldering_85438455:
@@ -800,7 +800,7 @@ translate spanish b1c07s03_after_bouldering_19de7c27:
 translate spanish b1c07s03_after_bouldering_5d72186c:
 
     # mc "What? You already tapping out, Miss {i}Professional{/i}?"
-    mc "¿Qué? ¿Ya está haciendo tapping, señorita {i}Professional{/i}?"
+    mc "¿Qué? ¿Ya te estás rindiendo, Señorita {i}Profesional{/i}?"
 
 # game/code/Book-1/Chapter-7/s03.rpy:495
 translate spanish b1c07s03_after_bouldering_3863523b:
@@ -818,13 +818,13 @@ translate spanish b1c07s03_after_bouldering_2bc064c9:
 translate spanish b1c07s03_after_bouldering_d3e73bcc:
 
     # mc "Huffing and puffing? I can go for another hundred climbs with both of you strapped to my back!"
-    mc "¿Resoplando y resoplando? ¡Puedo hacer otras cien subidas con las dos atadas a mi espalda!"
+    mc "¿Resoplido y resoplido? ¡Puedo hacer otras cien subidas con las dos atadas a mi espalda!"
 
 # game/code/Book-1/Chapter-7/s03.rpy:504
 translate spanish b1c07s03_after_bouldering_fe95233e:
 
     # lw "Oh yeah? Do it. Lift up Josie right now."
-    lw "¿Oh sí? Hazlo. Levanta a Josie ahora mismo."
+    lw "¿Oh sí? Hazlo. Levanta a Josie justo ahora."
 
 # game/code/Book-1/Chapter-7/s03.rpy:510
 translate spanish b1c07s03_after_bouldering_76137921:
@@ -860,7 +860,7 @@ translate spanish b1c07s03_after_bouldering_583c05e2:
 translate spanish b1c07s03_after_bouldering_92312ff2:
 
     # "The surprise of her tender lips hit you like a bed of roses. First their warmth, sending jolts of pleasure down your spine, putting your hair on end."
-    "La sorpresa de sus tiernos labios te golpeó como un lecho de rosas. Primero su calidez, enviando sacudidas de placer por tu espalda, poniendo tu pelo de punta."
+    "La sorpresa de sus tiernos labios te golpea como un lecho de rosas. Primero su calor, que te recorre la espina dorsal y te pone los pelos de punta."
 
 # game/code/Book-1/Chapter-7/s03.rpy:555
 translate spanish b1c07s03_after_bouldering_59c1c316:
@@ -932,7 +932,7 @@ translate spanish b1c07s03_after_bouldering_121ae61c:
 translate spanish b1c07s03_after_bouldering_39eed285:
 
     # lw "I wish I had something to throw at you right now."
-    lw "Desearía tener algo que arrojarte ahora mismo."
+    lw "Desearía tener algo que arrojarte en este momento."
 
 # game/code/Book-1/Chapter-7/s03.rpy:595
 translate spanish b1c07s03_after_bouldering_e460df6c:
