@@ -62,7 +62,7 @@ translate portuguese b1c07s01_after_variables_a40df27d:
 translate portuguese b1c07s01_after_variables_89a3f8cb:
 
     # kc "If only that was enough."
-    kc "Ah, e isso fosse o bastante."
+    kc "Ah, se isso bastasse."
 
 # game/code/Book-1/Chapter-7/s01.rpy:122
 translate portuguese b1c07s01_after_variables_46f1afbc:
