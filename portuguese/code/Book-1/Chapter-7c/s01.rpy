@@ -916,7 +916,7 @@ translate portuguese strings:
 
     # game/code/Book-1/Chapter-7c/s01.rpy:120
     old "I'm already lost."
-    new "Já estou perdido."
+    new "Já me perdi."
 
     # game/code/Book-1/Chapter-7c/s01.rpy:237
     old "Kiss her hand"
