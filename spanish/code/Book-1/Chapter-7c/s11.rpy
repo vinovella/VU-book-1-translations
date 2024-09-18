@@ -50,13 +50,13 @@ translate spanish b1c07cs11_return_c88f2a80:
 translate spanish b1c07cs11_return_2adbb26d:
 
     # mct "Rituals that are supposedly so powerful they can give a woman a dick."
-    mct "Rituales que supuestamente son tan poderosos que pueden darle una polla a una mujer."
+    mct "Rituales que supuestamente son tan poderosos que pueden darle un pene a una mujer."
 
 # game/code/Book-1/Chapter-7c/s11.rpy:86
 translate spanish b1c07cs11_return_6a2cfdb5:
 
     # mct "Ezra's information on Maria's connection to the community was useful. I learned that the community holds some sort of rituals."
-    mct "La información de Ezra sobre la conexión de María con la comunidad fue útil. Aprendí que la comunidad tiene algún tipo de rituales."
+    mct "La información de Ezra sobre la conexión de María con la comunidad fue útil. Me enteré de que la comunidad celebra alguna clase de rituales."
 
 # game/code/Book-1/Chapter-7c/s11.rpy:87
 translate spanish b1c07cs11_return_c43b3fbb:
@@ -86,7 +86,7 @@ translate spanish b1c07cs11_return_00a9e348:
 translate spanish b1c07cs11_return_570af20a:
 
     # mct "Irene definitely seems to think her cock is a product of one of the rituals."
-    mct "Irene definitivamente parece pensar que su polla es producto de uno de los rituales."
+    mct "Irene definitivamente parece pensar que su pene es producto de uno de los rituales."
 
 # game/code/Book-1/Chapter-7c/s11.rpy:145
 translate spanish b1c07cs11_return_b08aeed8:
@@ -152,5 +152,5 @@ translate spanish strings:
 
     # game/code/Book-1/Chapter-7c/s11.rpy:124
     old "New information available in the investigating board"
-    new "Nueva información disponible en el tablón de anuncios"
+    new "Nueva información disponible en el tablón de investigación"
 
