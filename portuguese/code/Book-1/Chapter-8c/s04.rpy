@@ -962,7 +962,7 @@ translate portuguese strings:
 
     # game/code/Book-1/Chapter-8c/s04.rpy:232
     old "I want this too. Let me comfort you"
-    new "Eu também quero isso. Deixa eu te confortar."
+    new "Eu também quero isso. Deixa eu cuidar de você."
 
     # game/code/Book-1/Chapter-8c/s04.rpy:232
     old "I'm not ready yet"
@@ -972,5 +972,5 @@ translate portuguese strings:
 translate portuguese b1c08cs04_sex_dad6e589:
 
     # "You pull out just as your bodies work themselves into oversensitivity."
-    "You pull out just as your bodies work themselves into oversensitivity."
+    "Você tira seu pau dela quando seus corpos ficam extra sensíveis."
 
