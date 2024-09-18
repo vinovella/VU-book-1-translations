@@ -672,5 +672,5 @@ translate portuguese strings:
 
     # game/code/Book-1/Chapter-7s/s10.rpy:274
     old "We're all monsters."
-    new "Todos somos monstros."
+    new "Somos todos monstros."
 
