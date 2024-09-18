@@ -134,7 +134,7 @@ translate spanish b1c07cs06_sex_08e1ff58:
 translate spanish b1c07cs06_sex_ee37c49b:
 
     # "Delphia's moans intensify the harder and deeper you drive yourself into her. Her walls clench around you each time you pull out, as though begging you to stay inside."
-    "Los gemidos de Delphia se intensifican cuanto más fuerte y más profundo te hundes en ella. Sus paredes se aprietan a tu alrededor cada vez que sales, como si te rogaran que te quedes adentro."
+    "Los gemidos de Delphia se intensifican cuanto más la penetras. Sus paredes se estrechan a tu alrededor cada vez que te retiras, como rogándote que te quedes dentro."
 
 # game/code/Book-1/Chapter-7c/s06.rpy:140
 translate spanish b1c07cs06_sex_607706bd:
@@ -164,7 +164,7 @@ translate spanish b1c07cs06_sex_a1ad72da:
 translate spanish b1c07cs06_sex_b76141ce:
 
     # mc "You like feeling me deep inside you like that?"
-    mc "¿Te gusta sentirme así dentro de ti?"
+    mc "¿Te gusta sentirme dentro de ti?"
 
 # game/code/Book-1/Chapter-7c/s06.rpy:164
 translate spanish b1c07cs06_sex_fc1ae235:
@@ -284,7 +284,7 @@ translate spanish b1c07cs06_sex_7621448b:
 translate spanish b1c07cs06_sex_86f9bab7:
 
     # mc "Agreed."
-    mc "De acuerdo."
+    mc "Estoy de acuerdo."
 
 # game/code/Book-1/Chapter-7c/s06.rpy:259
 translate spanish b1c07cs06_sex_5f89f6d9:
@@ -332,13 +332,13 @@ translate spanish b1c07cs06_sex_5a160e29:
 translate spanish b1c07cs06_sex_3ea45f88:
 
     # mct "Is she just going to walk around like that for the rest of the day? With my cum in her panties?"
-    mct "¿Va a caminar así por el resto del día? ¿Con mi semen en sus bragas?"
+    mct "¿Va a caminar así por el resto del día? ¿Con mi semen en sus calzones?"
 
 # game/code/Book-1/Chapter-7c/s06.rpy:281
 translate spanish b1c07cs06_sex_d8975fbe:
 
     # dk "If you're wondering if I'm going to walk around with your cum in my panties {w}the answer is yes."
-    dk "Si te preguntas si voy a caminar con tu semen en mis bragas {w}, la respuesta es sí."
+    dk "Si te preguntas si voy a caminar con tu semen en mis calzones {w}, la respuesta es sí."
 
 # game/code/Book-1/Chapter-7c/s06.rpy:284
 translate spanish b1c07cs06_sex_fb4397af:
