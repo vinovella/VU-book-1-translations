@@ -2,145 +2,145 @@
 translate chinese b1c09s15_1211ed37:
 
     # "The room is quiet for a moment, the atmosphere still heavy with the echo of the somber discussion and the heartfelt toast."
-    "The room is quiet for a moment, the atmosphere still heavy with the echo of the somber discussion and the heartfelt toast."
+    "房间里安静了一会儿，空气中仍然弥漫着刚才沉闷的讨论和真心祝酒的声音。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:209
 translate chinese b1c09s15_bb40bb8d:
 
     # zp "Call me selfish but I'm really glad I got you and Nia to talk with."
-    zp "Call me selfish but I'm really glad I got you and Nia to talk with."
+    zp "你可以说我自私吧，但我真的很高兴能和你还有妮娅聊天。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:211
 translate chinese b1c09s15_267c5f98:
 
     # c1 "*Sighs* This might be selfish, but I'm glad that I have you and [c3.name] to talk with."
-    c1 "*Sighs* This might be selfish, but I'm glad that I have you and [c3.name] to talk with."
+    c1 "*叹气* 这可能有点自私，但我很高兴有你和[c3.name]可以聊天。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:214
 translate chinese b1c09s15_c8016065:
 
     # c1 "People try their best, but I know they don't get it, not really anyway. It's easier for them to move on."
-    c1 "People try their best, but I know they don't get it, not really anyway. It's easier for them to move on."
+    c1 "人们尽了最大的努力，但我知道他们不能理解，至少不能真正理解。他们更容易继续前进。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:217
 translate chinese b1c09s15_7a162bba:
 
     # c2 "I get it. I'm glad I got you and [c3.name] as well."
-    c2 "I get it. I'm glad I got you and [c3.name] as well."
+    c2 "我明白。我很高兴我有你还有[c3.name]。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:223
 translate chinese b1c09s15_8206dbd6:
 
     # c1 "Not to say that I don't appreciate having you here, of course."
-    c1 "Not to say that I don't appreciate having you here, of course."
+    c1 "当然，这并不是说我不感谢你的到来。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:225
 translate chinese b1c09s15_3724b1b9:
 
     # mc "Oh, I know. I'm just glad to offer what support I can."
-    mc "Oh, I know. I'm just glad to offer what support I can."
+    mc "哦，我知道。我只是很高兴能提供力所能及的支持。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:232
 translate chinese b1c09s15_67532eed:
 
     # zp "I appreciate that. I think we all do."
-    zp "I appreciate that. I think we all do."
+    zp "我很感激。我想我们都是。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:234
 translate chinese b1c09s15_9976d0be:
 
     # c1 "*Nods* Hm, good. I... You know how to make everything...less overwhelming. I'm grateful for that."
-    c1 "*Nods* Hm, good. I... You know how to make everything...less overwhelming. I'm grateful for that."
+    c1 "*点点头* 嗯，很好。我...你向来很明白...如何让一切不那么令人不知所措。我很感激这一点。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:240
 translate chinese b1c09s15_77d821e4:
 
     # mc "I'm glad. I don't have any great sage wisdom or whatever to give. But I can do the bare minimum of at least listening without judging."
-    mc "I'm glad. I don't have any great sage wisdom or whatever to give. But I can do the bare minimum of at least listening without judging."
+    mc "我很高兴。我没有伟大的智慧或任何东西可以奉献。但我至少能做到不评判地倾听。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:243
 translate chinese b1c09s15_f2e3b6ef:
 
     # c2 "Bare minimum it may be, but man is it hard to find."
-    c2 "Bare minimum it may be, but man is it hard to find."
+    c2 "说来可能只是最低要求，但实际还是很难做到的。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:249
 translate chinese b1c09s15_6937f480:
 
     # "An easy laugh goes through you three. You feel a comforting warmth as their laughter offer solace in the quiet of the room."
-    "An easy laugh goes through you three. You feel a comforting warmth as their laughter offer solace in the quiet of the room."
+    "你们三个都轻松地笑了。当她们的笑声在整个房间回荡时，你会感到一种安慰的温暖。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:255
 translate chinese b1c09s15_a6c7edff:
 
     # c2 "You know what we need? Shots. Shake off this gloom. What do you say?"
-    c2 "You know what we need? Shots. Shake off this gloom. What do you say?"
+    c2 "你知道我们需要什么吗？来几杯。摆脱这种阴郁。你觉得呢？"
 
 # game/code/Book-1/Chapter-9/s15.rpy:260
 translate chinese b1c09s15_b038267a:
 
     # mc "*Chuckles* That's certainly one way to change the vibe."
-    mc "*Chuckles* That's certainly one way to change the vibe."
+    mc " *轻笑* 这确实是改变气氛的一种方法。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:263
 translate chinese b1c09s15_88729636:
 
     # c1 "*Slightly amused* Didn't peg you for the spontaneous type, [c2.name]."
-    c1 "*Slightly amused* Didn't peg you for the spontaneous type, [c2.name]."
+    c1 "*略带好笑* 没想到你是那种随性的人，[c2.name]。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:270
 translate chinese b1c09s15_566f54af:
 
     # c2 "C'mon. Today's about forgetting our worries for a bit."
-    c2 "C'mon. Today's about forgetting our worries for a bit."
+    c2 "来吧。今天我们要暂时忘却烦恼。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:277
 translate chinese b1c09s15_4c8256dd:
 
     # c2 "{i}So let's forget about our worries!{/i}"
-    c2 "{i}So let's forget about our worries!{/i}"
+    c2 "{i}那就让我们忘掉烦恼吧！{/i}"
 
 # game/code/Book-1/Chapter-9/s15.rpy:282
 translate chinese b1c09s15_bc6aa8ea:
 
     # "[c2.name] pours the first round, the harsh liquid stings your nose as it sloshes into the glasses with a promise of temporary forgetfulness."
-    "[c2.name] pours the first round, the harsh liquid stings your nose as it sloshes into the glasses with a promise of temporary forgetfulness."
+    "[c2.name]倒上第一杯，辛辣的液体溅入杯中，刺激到了你的鼻子，让你暂时忘记了一切。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:291
 translate chinese b1c09s15_adb780de:
 
     # zp "To getting fucked up and feeling okay together!"
-    zp "To getting fucked up and feeling okay together!"
+    zp "为了酩酊大醉，为了美好的心情！"
 
 # game/code/Book-1/Chapter-9/s15.rpy:293
 translate chinese b1c09s15_a8579d6b:
 
     # c2 "To feeling okay together."
-    c2 "To feeling okay together."
+    c2 "为了美好的心情。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:333
 translate chinese b1c09s15_e6abea23:
 
     # "Amidst the shots, [c2.name] decides to kick things up a notch, her voice bubbling with excitement."
-    "Amidst the shots, [c2.name] decides to kick things up a notch, her voice bubbling with excitement."
+    "在喝酒的过程中，[c2.name]决定来点更刺激的，她的声音里充满了兴奋。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:336
 translate chinese b1c09s15_a0978087:
 
     # c2 "Oh, oh! Let's play \"Never Have I Ever.\" Everyone gets a turn, and if you've done it, you take a shot."
-    c2 "Oh, oh! Let's play \"Never Have I Ever.\" Everyone gets a turn, and if you've done it, you take a shot."
+    c2 "哦，哦！我们来玩\"我从来没有过\"吧。每个人都有机会，如果你曾经做过，就喝一杯。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:341
 translate chinese b1c09s15_da848e7f:
 
     # mc "Oh, alright. Uh... Never have I ever had a crush on a friend's sibling."
-    mc "Oh, alright. Uh... Never have I ever had a crush on a friend's sibling."
+    mc "哦，好吧。呃...我从未喜欢过朋友的兄弟姐妹。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:347
 translate chinese b1c09s15_4d5fa2b6:
 
     # "[c2.name] bursts into laughter, not even hesitating as she grabs her shot, a twinkle of rebelliousness in her eyes."
-    "[c2.name] bursts into laughter, not even hesitating as she grabs her shot, a twinkle of rebelliousness in her eyes."
+    "[c2.name]突然大笑起来，毫不犹豫地拿起酒杯，眼中闪烁着叛逆的光芒。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:348
 translate chinese b1c09s15_326e0e56:
