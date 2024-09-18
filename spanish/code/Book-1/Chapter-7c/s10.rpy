@@ -14,7 +14,7 @@ translate spanish b1c07cs10_7b53ec11:
 translate spanish b1c07cs10_3579ac31:
 
     # edo "As you can see, I've transferred your sketch to canvas."
-    edo "Como puede ver, he transferido su boceto al lienzo."
+    edo "Como puede ver, he transferido tu boceto al lienzo."
 
 # game/code/Book-1/Chapter-7c/s10.rpy:49
 translate spanish b1c07cs10_0e51ee7c:
@@ -152,7 +152,7 @@ translate spanish b1c07cs10_d91f4256:
 translate spanish b1c07cs10_b0cde4c2:
 
     # mc "F-fuck..."
-    mc "Mierda..."
+    mc "M-mierda..."
 
 # game/code/Book-1/Chapter-7c/s10.rpy:116
 translate spanish b1c07cs10_9f684130:
@@ -194,7 +194,7 @@ translate spanish b1c07cs10_dc2959cb:
 translate spanish b1c07cs10_945f1803:
 
     # "For a few moments, she's quiet. The only sound is of her soft breathing and the sounds of her strokes on the canvas."
-    "Por unos momentos, ella está tranquila. El único sonido es el de su respiración suave y los sonidos de sus caricias en el lienzo."
+    "Durante unos instantes, se queda en silencio. El único sonido es el de su suave respiración y el de sus pinceladas sobre el lienzo."
 
 # game/code/Book-1/Chapter-7c/s10.rpy:138
 translate spanish b1c07cs10_05754547:
@@ -320,7 +320,7 @@ translate spanish b1c07cs10_d80f8e6c:
 translate spanish b1c07cs10_f662b8ac:
 
     # "Distracted by the information about Maria, your cock begins to go limp."
-    "Distraído por la información sobre María, tu pene comienza a ponerse flácida."
+    "Distraído por la información sobre María, tu pene comienza a ponerse flácido."
 
 # game/code/Book-1/Chapter-7c/s10.rpy:185
 translate spanish b1c07cs10_da017304:
@@ -422,7 +422,7 @@ translate spanish b1c07cs10_55810251:
 translate spanish b1c07cs10_db9ebeb7:
 
     # edo "I bet you're super needy, hm? You wanna skull fuck me?"
-    edo "Apuesto a que estás súper necesitado, ¿eh? ¿Quieres que me folle el cráneo?"
+    edo "Apuesto a que estás súper necesitado, ¿eh? ¿Quieres follarme la cabeza?"
 
 # game/code/Book-1/Chapter-7c/s10.rpy:255
 translate spanish b1c07cs10_51c5f03b:
@@ -560,7 +560,7 @@ translate spanish b1c07cs10_1429d087:
 translate spanish b1c07cs10_fed07615:
 
     # edo "Thank you. I'll see you around, Matthew."
-    edo "Gracias. Te veré por aquí, Matthew."
+    edo "Gracias. Nos vemos por ahí, Matthew."
 
 # game/code/Book-1/Chapter-7c/s10.rpy:366
 translate spanish b1c07cs10_9b57b7ae:
@@ -576,5 +576,5 @@ translate spanish strings:
 
     # game/code/Book-1/Chapter-7c/s10.rpy:304
     old "Paint her pretty face"
-    new "Pinta su cara bonita"
+    new "Pinta su bonita cara"
 
