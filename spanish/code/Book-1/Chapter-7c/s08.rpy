@@ -20,7 +20,7 @@ translate spanish b1c07cs08_6772ed93:
 translate spanish b1c07cs08_71e25022:
 
     # mc "Hey Lumi, how are you?"
-    mc "Hola Lumi, ¿cómo estas?"
+    mc "Hola Lumi, ¿cómo estás?"
 
 # game/code/Book-1/Chapter-7c/s08.rpy:28
 translate spanish b1c07cs08_b2af0de1:
@@ -254,7 +254,7 @@ translate spanish b1c07cs08_1237f8b7:
 translate spanish b1c07cs08_0f8cf9ff:
 
     # ll "But like you said... Working up to that point is a nice thought. I'm not sure I could do it right now."
-    ll "Pero como dijiste... Trabajar hasta ese punto es un buen pensamiento. No estoy segura de poder hacerlo ahora mismo."
+    ll "Pero como dijiste... Trabajar hasta ese punto es un buen pensamiento. No estoy segura de poder hacerlo en este momento."
 
 # game/code/Book-1/Chapter-7c/s08.rpy:123
 translate spanish b1c07cs08_4a179a5b:
@@ -296,7 +296,7 @@ translate spanish b1c07cs08_4a0ae5e1:
 translate spanish b1c07cs08_ea952f70:
 
     # ll "Maybe it's wrong of me to feel like that, though? It feels like I'm turning away from my community."
-    ll "¿Quizás está mal de mi parte sentirme así? Siento que me estoy alejando de mi comunidad."
+    ll "Pero, ¿quizá esté mal que me sienta de esa manera? Siento que me estoy alejando de mi comunidad."
 
 # game/code/Book-1/Chapter-7c/s08.rpy:141
 translate spanish b1c07cs08_97fc83a0:
