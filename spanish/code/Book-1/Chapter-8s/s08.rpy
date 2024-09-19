@@ -20,7 +20,7 @@ translate spanish b1c08ss08_cf613308:
 translate spanish b1c08ss08_577038d0:
 
     # mct "Attacking her will have guards on me in seconds, and I doubt a woman like this gives second chances."
-    mct "Atacarla tendrá guardias sobre mí en segundos, y dudo que una mujer como esta me dé segundas oportunidades."
+    mct "Si la ataco, tendré guardias encima en segundos, y dudo que una mujer como ella dé segundas oportunidades."
 
 # game/code/Book-1/Chapter-8s/s08.rpy:83
 translate spanish b1c08ss08_19f7a46e:
@@ -68,7 +68,7 @@ translate spanish b1c08ss08_ee765da8:
 translate spanish b1c08ss08_c6596973:
 
     # "Instead of complying with her insatiable demands, you maneuver her higher so you can kiss her lovely tits."
-    "En lugar de cumplir con sus demandas insaciables, la maniobras más arriba para poder besar sus hermosas tetas."
+    "En lugar de acceder a sus insaciables demandas, la levantas para poder besar sus hermosas tetas."
 
 # game/code/Book-1/Chapter-8s/s08.rpy:115
 translate spanish b1c08ss08_bdcc3304:
@@ -128,7 +128,7 @@ translate spanish b1c08ss08_a82e0a54:
 translate spanish b1c08ss08_15b1114b:
 
     # ha "You terrible little tease. Do you really think it'll be easy to make me beg?"
-    ha "Eres un pequeño bromista terrible. ¿De verdad crees que será fácil hacerme suplicar?"
+    ha "Eres un pequeño provocador. ¿De verdad crees que será fácil hacerme suplicar?"
 
 # game/code/Book-1/Chapter-8s/s08.rpy:141
 translate spanish b1c08ss08_aac757a3:
@@ -212,7 +212,7 @@ translate spanish b1c08ss08_11f8d0b2:
 translate spanish b1c08ss08_541555ff:
 
     # mc "Just you wait. I'm not fucking done with you yet."
-    mc "Solo espera. Aún no he terminado contigo."
+    mc "Espera. Todavía no he terminado contigo."
 
 # game/code/Book-1/Chapter-8s/s08.rpy:188
 translate spanish b1c08ss08_b58ea4c5:
@@ -368,7 +368,7 @@ translate spanish b1c08ss08_sex_toy_3a94f5f7:
 translate spanish b1c08ss08_sex_toy_e1a71487:
 
     # mc "Good girl. That's just how I like my sluts to behave."
-    mc "Buena niña. Así es como me gusta que se comporten mis zorras."
+    mc "Buena niña. Así es como me gusta que se comporten mis putas."
 
 # game/code/Book-1/Chapter-8s/s08.rpy:366
 translate spanish b1c08ss08_sex_toy_96dd73c3:
@@ -398,7 +398,7 @@ translate spanish b1c08ss08_sex_toy_91434949:
 translate spanish b1c08ss08_sex_toy_1c30f353:
 
     # mc "Shut the fuck up. The only thing I want to hear from your whore mouth is you begging for more, understood?"
-    mc "Cierra la puta boca. Lo único que quiero oír de tu boca de puta es que suplicas por más, ¿entendido?"
+    mc "Cierra la puta boca. Lo único que quiero oír de tu puta boca es que suplicas por más, ¿entendido?"
 
 # game/code/Book-1/Chapter-8s/s08.rpy:380
 translate spanish b1c08ss08_sex_toy_6a8f5083:
@@ -488,7 +488,7 @@ translate spanish b1c08ss08_no_sex_toy_18d7a8d0:
 translate spanish b1c08ss08_no_sex_toy_77071442:
 
     # ha "F-fuck, you feel so god damn good. Keep going, just like that."
-    ha "Joder, te sientes tan jodidamente bien. Sigue adelante, así como así."
+    ha "Joder, te sientes tan jodidamente bien. Sigue así."
 
 # game/code/Book-1/Chapter-8s/s08.rpy:476
 translate spanish b1c08ss08_no_sex_toy_e78e382a:
@@ -512,7 +512,7 @@ translate spanish b1c08ss08_no_sex_toy_e559e5f5:
 translate spanish b1c08ss08_no_sex_toy_be18a418:
 
     # ha "Mmph!"
-    ha "¡¡Mmph!"
+    ha "¡Mmph!"
 
 # game/code/Book-1/Chapter-8s/s08.rpy:505
 translate spanish b1c08ss08_no_sex_toy_15fcd810:
@@ -536,7 +536,7 @@ translate spanish b1c08ss08_no_sex_toy_032a24b5:
 translate spanish b1c08ss08_no_sex_toy_fa7cd3bd:
 
     # ha "Yes. Yes! Breed me! Fill me up! I want to carry your cum for as long as possible, darling. Breed me!"
-    ha "Sí. ¡Sí! ¡embarázame! ¡Llename! Quiero cargar tu semen el mayor tiempo posible, cariño. ¡Críame!"
+    ha "Sí. ¡Sí! ¡embarázame! ¡Lléname! Quiero cargar tu semen el mayor tiempo posible, cariño. ¡Embarázame!"
 
 # game/code/Book-1/Chapter-8s/s08.rpy:516
 translate spanish b1c08ss08_no_sex_toy_feb7b875:
@@ -554,7 +554,7 @@ translate spanish b1c08ss08_no_sex_toy_869c0997:
 translate spanish b1c08ss08_no_sex_toy_37ace618:
 
     # "You can't help it; her body milks you dry so efficiently, you cum deep inside her."
-    "No puedes evitarlo; Su cuerpo te seca tan eficientemente que te corres profundamente dentro de ella."
+    "No puedes evitarlo; su cuerpo te ordeña con tanta eficacia que te corres en su interior."
 
 # game/code/Book-1/Chapter-8s/s08.rpy:531
 translate spanish b1c08ss08_no_sex_toy_1a3b86bd:
@@ -584,7 +584,7 @@ translate spanish b1c08ss08_no_sex_toy_8cf4e458:
 translate spanish b1c08ss08_no_sex_toy_f424e5c1:
 
     # mc "I can go as many times as it takes to please you."
-    mc "Puedo ir tantas veces como sea necesario para complacerte."
+    mc "Puedo hacerlo tantas veces como sea necesario para complacerte."
 
 # game/code/Book-1/Chapter-8s/s08.rpy:543
 translate spanish b1c08ss08_no_sex_toy_4005213f:
@@ -602,13 +602,13 @@ translate spanish b1c08ss08_no_sex_toy_fe4fd310:
 translate spanish b1c08ss08_no_sex_toy_00cbdf4f:
 
     # "Hellena quietly but abruptly falls asleep."
-    "Hellena se queda dormida tranquila pero de forma repentina."
+    "Hellena se queda dormida de repente."
 
 # game/code/Book-1/Chapter-8s/s08.rpy:549
 translate spanish b1c08ss08_no_sex_toy_31cd894d:
 
     # "You gently pull out of her."
-    "Te sales suavemente de ella."
+    "Te retiras suavemente de ella."
 
 # game/code/Book-1/Chapter-8s/s08.rpy:552
 translate spanish b1c08ss08_no_sex_toy_5cc2cb0f:
@@ -620,13 +620,13 @@ translate spanish b1c08ss08_no_sex_toy_5cc2cb0f:
 translate spanish b1c08ss08_no_sex_toy_d992016a:
 
     # mct "I could climb down that and get out of here."
-    mct "Podría bajar por eso y salir de aquí."
+    mct "Podría bajar por ahí y salir de aquí."
 
 # game/code/Book-1/Chapter-8s/s08.rpy:556
 translate spanish b1c08ss08_no_sex_toy_a1f1d638:
 
     # mct "If I could just get outside, I could orient myself and find the general direction home."
-    mct "Si pudiera salir, podría orientarme y encontrar la dirección general a casa."
+    mct "Si pudiera salir, podría orientarme y encontrar la dirección de vuelta a casa."
 
 # game/code/Book-1/Chapter-8s/s08.rpy:559
 translate spanish b1c08ss08_no_sex_toy_2bcd1a07:
@@ -662,7 +662,7 @@ translate spanish b1c08ss08_no_sex_toy_4bdc5aa0:
 translate spanish b1c08ss08_no_sex_toy_be551c1e:
 
     # mct "I'll have to get that patched up..."
-    mct "Tendré que arreglar eso..."
+    mct "Tendré que solucionar eso..."
 
 # game/code/Book-1/Chapter-8s/s08.rpy:580
 translate spanish b1c08ss08_no_sex_toy_2f4eef26:
