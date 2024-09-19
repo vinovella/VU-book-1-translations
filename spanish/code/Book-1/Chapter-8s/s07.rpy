@@ -862,12 +862,6 @@ translate spanish b1c08ss07_after_pegging_79b5c832:
     # ha "Well, now that we've dealt with that little disturbance, it's time for you to do a little something for me."
     ha "Bueno, ahora que hemos solucionado ese pequeño disturbio, es hora de que hagas algo por mí."
 
-# game/code/Book-1/Chapter-8s/s07.rpy:596
-translate spanish b1c08ss07_after_pegging_20c7bf65:
-
-    # "Your guarded expression reveals your skepticism, and you cross your arms to show your reluctance."
-    "Tu expresión cautelosa revela tu escepticismo y te cruzas de brazos para mostrar tu desgana."
-
 # game/code/Book-1/Chapter-8s/s07.rpy:597
 translate spanish b1c08ss07_after_pegging_bc654b23:
 

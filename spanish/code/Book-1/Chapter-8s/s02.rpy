@@ -571,6 +571,6 @@ translate spanish b1c08ss02_e229ef75:
 translate spanish strings:
 
     # game/code/Book-1/Chapter-8s/s02.rpy:6
-    old "At Guns 'n Rosette'"
-    new "En Guns 'n Rosette'"
+    old "At Guns n' Rosette"
+    new "En Guns 'n Rosette"
 

@@ -70,12 +70,6 @@ translate spanish b1c08ss06_5aee9d2b:
     # "The trio is delirious from pain, and stress. Blood and bruises mark their usually clean skin."
     "El trío delira por el dolor y el estrés. Sangre y hematomas marcan su piel normalmente limpia."
 
-# game/code/Book-1/Chapter-8s/s06.rpy:61
-translate spanish b1c08ss06_8d4b6fc2:
-
-    # "It's doubtful they've had more than a few moments out of these chairs since their capture."
-    "Es dudoso que hayan pasado más de unos momentos fuera de estas sillas desde su captura."
-
 # game/code/Book-1/Chapter-8s/s06.rpy:70
 translate spanish b1c08ss06_385b8406:
 
@@ -565,4 +559,10 @@ translate spanish strings:
     # game/code/Book-1/Chapter-8s/s06.rpy:126
     old "I can't let him do this"
     new "No puedo dejar que haga esto"
+
+# game/code/Book-1/Chapter-8s/s06.rpy:63
+translate spanish b1c08ss06_66242071:
+
+    # "It's doubtful they've had more than a few moments out of these binds since their capture."
+    "Es dudoso que hayan pasado más de unos momentos fuera de estas sillas desde su captura."
 
