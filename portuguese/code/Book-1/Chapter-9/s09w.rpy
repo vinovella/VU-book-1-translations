@@ -1388,5 +1388,5 @@ translate portuguese strings:
 translate portuguese b1c09s09w_cheer_ima_95ac0811:
 
     # "Isa flirtatiously sticks her tongue out. Her bikini bottom barely continues to cover her."
-    "Isa flirtatiously sticks her tongue out. Her bikini bottom barely continues to cover her."
+    "Isa sensualmente põe a língua para fora. Seu biquíni mal cobre alguma coisa."
 
