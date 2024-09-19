@@ -32,7 +32,7 @@ translate spanish b1c08ss07_1f359c4f:
 translate spanish b1c08ss07_ec87e53f:
 
     # mct "I should get out of here, and regroup with Zemfira. Is this some hideout The Syndicate has? Did they come back for me after I was knocked out?"
-    mct "Debería salir de aquí, y reagruparme con Zemfira. ¿Este es algún escondite que tiene el Sindicato? ¿Volvieron a por mi después de que me noquearan?"
+    mct "Debería salir de aquí, y reagruparme con Zemfira. ¿Este es algún escondite que tiene el Sindicato? ¿Volvieron por mi después de que me noquearan?"
 
 # game/code/Book-1/Chapter-8s/s07.rpy:64
 translate spanish b1c08ss07_b8c9ce23:
@@ -62,7 +62,7 @@ translate spanish b1c08ss07_e9feed86:
 translate spanish b1c08ss07_3a7f244b:
 
     # "As you open the door, you're met with the sight of a luxurious bathroom. Steam rises from a large, elegant bathtub."
-    "Al abrir la puerta, te encuentras con un baño de lujo. El vapor sale de una bañera grande y elegante."
+    "Al abrir la puerta, te encuentras con un lujoso baño. El vapor sale de una bañera grande y elegante."
 
 # game/code/Book-1/Chapter-8s/s07.rpy:79
 translate spanish b1c08ss07_7b543756:
@@ -92,7 +92,7 @@ translate spanish b1c08ss07_ece250f0:
 translate spanish b1c08ss07_a64802fa:
 
     # "Woman" "Don't worry, you're in my humble abode. My guards brought you here after they regrouped from that nasty little bomb your friend set up."
-    "Mujer" "No te preocupes, estás en mi humilde morada. Mis guardias te trajeron aquí después de que se reagruparon de esa pequeña y desagradable bomba que puso tu amigo."
+    "Mujer" "No te preocupes, estás en mi humilde morada. Mis guardias te trajeron aquí después de que se reagruparan de esa desagradable bombita que colocó tu amigo."
 
 # game/code/Book-1/Chapter-8s/s07.rpy:91
 translate spanish b1c08ss07_65262f8f:
@@ -152,13 +152,13 @@ translate spanish b1c08ss07_2d368fc0:
 translate spanish b1c08ss07_3726675e:
 
     # "Woman" "I'm simply a woman who appreciates beauty and talent when I see it. And from what I've gathered, you possess both."
-    "Mujer" "Simplemente soy una mujer que aprecia la belleza y el talento cuando lo veo. Y por lo que he reunido, posees ambos."
+    "Mujer" "Simplemente soy una mujer que aprecia la belleza y el talento cuando los ve. Y por lo que he visto, tú posees ambas cosas."
 
 # game/code/Book-1/Chapter-8s/s07.rpy:117
 translate spanish b1c08ss07_be972348:
 
     # "Woman" "I've heard a lot about you from my associates, you see."
-    "Mujer" "He oído hablar mucho de ti a mis socios, ¿sabes?"
+    "Mujer" "He oído a mis socios hablar mucho de ti."
 
 # game/code/Book-1/Chapter-8s/s07.rpy:123
 translate spanish b1c08ss07_ddfd3aec:
@@ -188,13 +188,13 @@ translate spanish b1c08ss07_087296fc:
 translate spanish b1c08ss07_440a3db6:
 
     # mct "Shit. Xasan's bomb definitely got a reaction, if the leader of The Wasps is taking hostages. She probably doesn't realize I'm not even a part of The Syndicate..."
-    mct "Mierda. La bomba de Xasan definitivamente tuvo una reacción, si el líder de Las Avispas está tomando rehenes. Probablemente no se da cuenta de que ni siquiera soy parte de el Sindicato..."
+    mct "Mierda. La bomba de Xasan definitivamente tuvo una reacción, si la líder de Las Avispas está tomando rehenes. Probablemente no se da cuenta de que ni siquiera soy parte de el Sindicato..."
 
 # game/code/Book-1/Chapter-8s/s07.rpy:141
 translate spanish b1c08ss07_722df162:
 
     # mct "And I'm sure Cade ran his fucking mouth about me, so of course she knows who I am, even if she doesn't know my level of importance to The Syndicate itself."
-    mct "Y estoy seguro de que Cade habló malditamente de mí, así que, por supuesto, ella sabe quién soy, incluso si no conoce mi nivel de importancia para el propio Sindicato."
+    mct "Y estoy seguro de que Cade habló mal de mí, así que claro que sabe quién soy, aunque no conozca mi nivel de importancia para el propio Sindicato."
 
 # game/code/Book-1/Chapter-8s/s07.rpy:143
 translate spanish b1c08ss07_7436e5e1:
@@ -248,7 +248,7 @@ translate spanish b1c08ss07_b4a38a7c:
 translate spanish b1c08ss07_3e320b1f:
 
     # ha "A deal, hm? Now there's an idea. It's certainly a tempting suggestion."
-    ha "Un trato, ¿eh? Ahora hay una idea. Sin duda es una sugerencia tentadora."
+    ha "Un acuerdo, ¿eh? Ahora hay una idea. Sin duda es una sugerencia tentadora."
 
 # game/code/Book-1/Chapter-8s/s07.rpy:160
 translate spanish b1c08ss07_3c0796e1:
@@ -314,13 +314,13 @@ translate spanish b1c08ss07_88f43a76:
 translate spanish b1c08ss07_4cae503a:
 
     # "Hellena smirks, relishing in the control she holds over the situation. She circles Cade, her eyes glinting with sadistic delight."
-    "Hellena sonríe, disfrutando del control que tiene sobre la situación. Rodea a Cade y sus ojos brillan con sádico deleite."
+    "Hellena sonríe, disfrutando del control que tiene sobre la situación. Rodea a Cade y sus ojos brillan con un deleite sádico."
 
 # game/code/Book-1/Chapter-8s/s07.rpy:188
 translate spanish b1c08ss07_a4e887cc:
 
     # ha "Ah, Cade. Acting without orders, endangering the fragile peace our rival gangs had established. Such recklessness cannot go unpunished."
-    ha "Ah, Cade. Actuar sin órdenes, poniendo en peligro la frágil paz que nuestras bandas rivales habían establecido. Semejante imprudencia no puede quedar impune."
+    ha "Ah, Cade. Actuando sin órdenes, poniendo en peligro la frágil paz que nuestras bandas rivales habían establecido. Tal imprudencia no puede quedar impune."
 
 # game/code/Book-1/Chapter-8s/s07.rpy:190
 translate spanish b1c08ss07_68866e34:
@@ -332,7 +332,7 @@ translate spanish b1c08ss07_68866e34:
 translate spanish b1c08ss07_8ec23ad7:
 
     # ha "You've been a horrible fiend, haven't you?"
-    ha "Has sido un demonio horrible, ¿no?"
+    ha "Has sido un demonio horrible, ¿verdad?"
 
 # game/code/Book-1/Chapter-8s/s07.rpy:195
 translate spanish b1c08ss07_71cd0d43:
@@ -380,7 +380,7 @@ translate spanish b1c08ss07_b33b3c13:
 translate spanish b1c08ss07_7dfd02cc:
 
     # ha "You think it's okay to just disobey me like that, you little fucking shitstain?"
-    ha "¿Crees que está bien desobedecerme de esa manera, maldita mierda?"
+    ha "¿Crees que está bien desobedecerme de esa manera, pedazo de mierda?"
 
 # game/code/Book-1/Chapter-8s/s07.rpy:222
 translate spanish b1c08ss07_ba9d69e6:
@@ -434,7 +434,7 @@ translate spanish b1c08ss07_9e7d7039:
 translate spanish b1c08ss07_5f558f4d:
 
     # mc "You fucking should be. You treat people like possessions, you piece of shit. I'm glad Hellena showed you a fraction of the pain and trauma Sabrina suffered because of you."
-    mc "Debería estarlo. Tratas a la gente como si fueran posesiones, pedazo de mierda. Me alegra que Hellena te haya mostrado una fracción del dolor y el trauma que sufrió Sabrina por tu culpa."
+    mc "Deberías estarlo. Tratas a la gente como si fueran posesiones, pedazo de mierda. Me alegra que Hellena te haya mostrado una fracción del dolor y el trauma que sufrió Sabrina por tu culpa."
 
 # game/code/Book-1/Chapter-8s/s07.rpy:260
 translate spanish b1c08ss07_4bdca006:
@@ -518,7 +518,7 @@ translate spanish b1c08ss07_c8d68710:
 translate spanish b1c08ss07_f4c1b9e2:
 
     # ha "I'm truly sorry about all this. You see, I didn't order Cade to abduct your precious cam workers, nor did I ever approve of him harassing Sabrina."
-    ha "Realmente lamento todo esto. Verás, no le ordené a Cade que secuestrara a tus preciosos trabajadores de la cámara, ni aprobé que acosara a Sabrina."
+    ha "Realmente lamento todo esto. Verás, no le ordené a Cade que secuestrara a tus preciosos trabajadores de las cámaras, ni aprobé que acosara a Sabrina."
 
 # game/code/Book-1/Chapter-8s/s07.rpy:295
 translate spanish b1c08ss07_70679ed2:
@@ -584,13 +584,13 @@ translate spanish b1c08ss07_958f578b:
 translate spanish b1c08ss07_0094506a:
 
     # ha "Because I'm not done with you yet, darling. Now be patient while I train my subject."
-    ha "Porque aún no he terminado contigo, cariño. Ahora tenga paciencia mientras entreno a mi sujeto."
+    ha "Porque aún no he terminado contigo, cariño. Ahora tenga paciencia mientras entreno a mi mascota."
 
 # game/code/Book-1/Chapter-8s/s07.rpy:345
 translate spanish b1c08ss07_03deb916:
 
     # mc "I don't mind at all. It doesn't phase me."
-    mc "No me importa en absoluto. No me pone en fase."
+    mc "No me importa en absoluto. No me molesta."
 
 # game/code/Book-1/Chapter-8s/s07.rpy:353
 translate spanish b1c08ss07_pegging_6e2ea810:
@@ -632,7 +632,7 @@ translate spanish b1c08ss07_pegging_55bb604d:
 translate spanish b1c08ss07_pegging_1aec4f49:
 
     # ha "You understand that you made me do this, baby? I can't let you get away with causing gang disputes like this."
-    ha "¿Entiendes que me obligaste a hacer esto, cariño? No puedo permitir que te salgas con la tuya provocando disputas entre pandillas como ésta."
+    ha "¿Entiendes que me obligaste a hacer esto, cariño? No puedo permitir que te salgas con la tuya provocando disputas como ésta entre pandillas."
 
 # game/code/Book-1/Chapter-8s/s07.rpy:370
 translate spanish b1c08ss07_pegging_efed6219:
@@ -728,13 +728,13 @@ translate spanish b1c08ss07_pegging_9df93410:
 translate spanish b1c08ss07_pegging_6bb09f88:
 
     # cjh "Use me as you must, my mistress. I am here to serve you."
-    cjh "Úsame como quieras, mi ama. Estoy aquí para servirte."
+    cjh "Úsame como quieras, mi señora. Estoy aquí para servirte."
 
 # game/code/Book-1/Chapter-8s/s07.rpy:461
 translate spanish b1c08ss07_pegging_91db54d8:
 
     # ha "That's what I like to hear, how much of a manwhore you are for me."
-    ha "Eso es lo que me gusta oír, lo puto que eres para mí."
+    ha "Eso es lo que me gusta oír, lo puta que eres para mí."
 
 # game/code/Book-1/Chapter-8s/s07.rpy:466
 translate spanish b1c08ss07_pegging_4df03df6:
@@ -818,7 +818,7 @@ translate spanish b1c08ss07_pegging_712e8f72:
 translate spanish b1c08ss07_pegging_2dea2bb1:
 
     # ha "Take him away!"
-    ha "¡Llévatelo!"
+    ha "¡Llévenselo!"
 
 # game/code/Book-1/Chapter-8s/s07.rpy:575
 translate spanish b1c08ss07_after_pegging_3bb287df:
@@ -862,6 +862,12 @@ translate spanish b1c08ss07_after_pegging_79b5c832:
     # ha "Well, now that we've dealt with that little disturbance, it's time for you to do a little something for me."
     ha "Bueno, ahora que hemos solucionado ese pequeño disturbio, es hora de que hagas algo por mí."
 
+# game/code/Book-1/Chapter-8s/s07.rpy:596
+translate spanish b1c08ss07_after_pegging_20c7bf65:
+
+    # "Your guarded expression reveals your skepticism, and you cross your arms to show your reluctance."
+    "Tu expresión cautelosa revela tu escepticismo y te cruzas de brazos para mostrar tu desgana."
+
 # game/code/Book-1/Chapter-8s/s07.rpy:597
 translate spanish b1c08ss07_after_pegging_bc654b23:
 
@@ -890,7 +896,7 @@ translate spanish b1c08ss07_after_pegging_c50ceb9f:
 translate spanish b1c08ss07_after_pegging_139c9a18:
 
     # mct "She perceives me as a significant player within The Syndicate. Maybe I can use her assumption to gain leverage and gather information."
-    mct "Ella me percibe como un actor importante dentro de el Sindicato. Tal vez pueda utilizar su suposición para ganar influencia y recopilar información."
+    mct "Ella me percibe como un actor importante dentro de El Sindicato. Tal vez pueda utilizar su suposición para ganar influencia y recopilar información."
 
 # game/code/Book-1/Chapter-8s/s07.rpy:609
 translate spanish b1c08ss07_after_pegging_47e2d7c7:
@@ -902,13 +908,13 @@ translate spanish b1c08ss07_after_pegging_47e2d7c7:
 translate spanish b1c08ss07_after_pegging_19af6901:
 
     # mc "You seem well off on your own. Why should I matter to you?"
-    mc "Pareces estar bien solo. ¿Por qué debería importarte?"
+    mc "Parece que estás bien sola. ¿Por qué debería importarte?"
 
 # game/code/Book-1/Chapter-8s/s07.rpy:613
 translate spanish b1c08ss07_after_pegging_62e42207:
 
     # "Hellena steps closer to you, a sly smile playing on her lips as she leans in."
-    "Hellena se acerca a ti, con una sonrisa astuta jugando en sus labios mientras se inclina."
+    "Hellena se acerca a ti, con una sonrisa maliciosa en los labios mientras se inclina hacia ti."
 
 # game/code/Book-1/Chapter-8s/s07.rpy:615
 translate spanish b1c08ss07_after_pegging_3a78c505:
@@ -950,7 +956,7 @@ translate spanish b1c08ss07_after_pegging_5a73b430:
 translate spanish b1c08ss07_after_pegging_7fe2ef01:
 
     # ha "Oh, aren't you a clever one? But no, I cannot. Trust can be a fragile thing, and I just haven't built up enough with you yet."
-    ha "Oh, ¿no eres inteligente? Pero no, no puedo. La confianza puede ser algo frágil y todavía no he construido lo suficiente contigo."
+    ha "Oh, ¿no eres inteligente? Pero no, no puedo. La confianza puede ser algo frágil y todavía no he construido la suficiente contigo."
 
 # game/code/Book-1/Chapter-8s/s07.rpy:629
 translate spanish b1c08ss07_after_pegging_1ad1eeb5:
@@ -974,13 +980,13 @@ translate spanish b1c08ss07_after_pegging_84a2f4b7:
 translate spanish b1c08ss07_after_pegging_54798a59:
 
     # ha "What I truly desire is for The Syndicate and Wasps to form an alliance of sorts. Together, we can create a profitable business venture that surpasses anything we've ever achieved individually."
-    ha "Lo que realmente deseo es que el Sindicato y las Avispas formen una especie de alianza. Juntos, podemos crear un negocio rentable que supere todo lo que hemos logrado individualmente."
+    ha "Lo que realmente deseo es que El Sindicato y las Avispas formen una especie de alianza. Juntos, podemos crear un negocio rentable que supere todo lo que hemos logrado individualmente."
 
 # game/code/Book-1/Chapter-8s/s07.rpy:637
 translate spanish b1c08ss07_after_pegging_60320699:
 
     # ha "But I need to talk to the leader of The Syndicate before I give up all the details."
-    ha "Pero necesito hablar con el líder de el Sindicato antes de revelar todos los detalles."
+    ha "Pero necesito hablar con el líder de El Sindicato antes de revelar todos los detalles."
 
 # game/code/Book-1/Chapter-8s/s07.rpy:644
 translate spanish b1c08ss07_after_pegging_eb710162:
@@ -998,7 +1004,7 @@ translate spanish b1c08ss07_after_pegging_041c7f80:
 translate spanish b1c08ss07_after_pegging_49d8dcf0:
 
     # mct "For all Hellena or I know, Xasan isn't even the only leader..."
-    mct "Por lo que Hellena y yo sabemos, Xasan ni siquiera es el único líder..."
+    mct "Por lo que Hellena o yo sabemos, Xasan ni siquiera es el único líder..."
 
 # game/code/Book-1/Chapter-8s/s07.rpy:654
 translate spanish b1c08ss07_after_pegging_eb4ab04f:
@@ -1040,7 +1046,7 @@ translate spanish b1c08ss07_after_pegging_8da8ac7b:
 translate spanish b1c08ss07_after_pegging_bb439cc4:
 
     # ha "After all, if The Syndicate had truly valued you, why would they have abandoned you so easily? Maybe I made the wrong assumption..."
-    ha "Después de todo, si el Sindicato realmente te hubiera valorado, ¿por qué te habrían abandonado tan fácilmente? Tal vez hice una suposición equivocada..."
+    ha "Después de todo, si El Sindicato realmente te hubiera valorado, ¿por qué te habrían abandonado tan fácilmente? Tal vez hice una suposición equivocada..."
 
 # game/code/Book-1/Chapter-8s/s07.rpy:667
 translate spanish b1c08ss07_after_pegging_a1a89ce6:
@@ -1064,13 +1070,13 @@ translate spanish b1c08ss07_after_pegging_c54aa594:
 translate spanish b1c08ss07_after_pegging_4d56ce60:
 
     # ha "Maybe the guards that your bomb wounded so badly would like to have a word with you..."
-    ha "Tal vez los guardias que tu bomba hirió tan gravemente quieran hablar contigo..."
+    ha "Quizá los guardias a los que heriste tan gravemente con tu bomba quieran hablar contigo..."
 
 # game/code/Book-1/Chapter-8s/s07.rpy:675
 translate spanish b1c08ss07_after_pegging_29afa216:
 
     # mct "I have to think of a way to distract her before this sadistic streak of hers takes over completely. She'll send me to the fucking wolves and watch as they rip me to shreds otherwise."
-    mct "Tengo que pensar en una manera de distraerla antes de que su vena sádica se apodere por completo. Ella me enviará con los malditos lobos y verá cómo me hacen trizas de lo contrario."
+    mct "Tengo que pensar en una forma de distraerla antes de que su vena sádica se apodere completamente de mí. Si no, me enviará a los malditos lobos y verá cómo me despedazan."
 
 # game/code/Book-1/Chapter-8s/s07.rpy:676
 translate spanish b1c08ss07_after_pegging_d8f13781:
@@ -1118,7 +1124,7 @@ translate spanish b1c08ss07_after_pegging_3645a6cd:
 translate spanish b1c08ss07_after_pegging_e760348f:
 
     # "The unexpected response catches Hellena pleasantly off guard. Her sadistic inclinations momentarily take a backseat as curiosity gets the better of her."
-    "La inesperada respuesta pilla a Hellena con la guardia baja. Sus inclinaciones sádicas pasan momentáneamente a un segundo plano a medida que la curiosidad se apodera de ella."
+    "La inesperada respuesta sorprende a Hellena. Sus inclinaciones sádicas pasan momentáneamente a un segundo plano cuando la curiosidad se apodera de ella."
 
 # game/code/Book-1/Chapter-8s/s07.rpy:690
 translate spanish b1c08ss07_after_pegging_f81b8841:
@@ -1211,6 +1217,8 @@ translate spanish strings:
     # game/code/Book-1/Chapter-8s/s07.rpy:566
     old "After an uncomfortable eternity watching the wall"
     new "Después de una eternidad incómoda mirando la pared"
+
+
 
 # game/code/Book-1/Chapter-8s/s07.rpy:642
 translate spanish b1c08ss07_after_pegging_9c1ca661:
