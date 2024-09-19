@@ -32,7 +32,7 @@ translate spanish b1c08ss02_a26225b4:
 translate spanish b1c08ss02_7b0e61dc:
 
     # xv "Everyone calm down. They may be fine, just got caught up somewhere. Zem will be here s—"
-    xv "Todos cálmense. Puede que estén bien, simplemente quedaron atrapados en alguna parte. Zem estará aquí..."
+    xv "Todas cálmense. Puede que estén bien, simplemente quedaron atrapados en alguna parte. Zem estará aquí..."
 
 # game/code/Book-1/Chapter-8s/s02.rpy:44
 translate spanish b1c08ss02_5610b929:
@@ -44,7 +44,7 @@ translate spanish b1c08ss02_5610b929:
 translate spanish b1c08ss02_55cc8e18:
 
     # xv "Why'd you bring this preppy trash in here?"
-    xv "¿Por qué trajiste esta basura de muy buen gusto aquí?"
+    xv "¿Por qué trajiste a esta basura pretenciosa aquí?"
 
 # game/code/Book-1/Chapter-8s/s02.rpy:50
 translate spanish b1c08ss02_c932015e:
@@ -74,7 +74,7 @@ translate spanish b1c08ss02_4d498032:
 translate spanish b1c08ss02_cdc65c90:
 
     # zp "I figured you'd want to drill him in person. Besides, we can trust him with this."
-    zp "Pensé que querrías perforarlo en persona. Además, podemos confiarle esto."
+    zp "Me imaginé que querrías hacérselo saber en persona. Además, podemos confiar en él con esto."
 
 # game/code/Book-1/Chapter-8s/s02.rpy:61
 translate spanish b1c08ss02_46ad2307:
@@ -170,7 +170,7 @@ translate spanish b1c08ss02_9dbf131e:
 translate spanish b1c08ss02_8bbee785:
 
     # ass "Yes."
-    ass "Sí."
+    ass "Si."
 
 # game/code/Book-1/Chapter-8s/s02.rpy:110
 translate spanish b1c08ss02_411f3b2f:
@@ -218,7 +218,7 @@ translate spanish b1c08ss02_0a214291:
 translate spanish b1c08ss02_712c277c:
 
     # mc "I know how."
-    mc "Se cómo."
+    mc "Sé cómo hacerlo."
 
 # game/code/Book-1/Chapter-8s/s02.rpy:133
 translate spanish b1c08ss02_dd6906fc:
@@ -272,7 +272,7 @@ translate spanish b1c08ss02_631169a6:
 translate spanish b1c08ss02_13e15399:
 
     # xv "The only thing we needed from him was the last time he saw the cam workers."
-    xv "Lo único que necesitábamos de él era la última vez que vio a los trabajadores de la cámara."
+    xv "Lo único que necesitábamos de él era la última vez que vio a los trabajadores de la cámaras."
 
 # game/code/Book-1/Chapter-8s/s02.rpy:158
 translate spanish b1c08ss02_c643c009:
@@ -290,7 +290,7 @@ translate spanish b1c08ss02_a73ae7e3:
 translate spanish b1c08ss02_58b37859:
 
     # xv "Exactly why we don't need some rando rookie clogging up our team."
-    xv "Exactamente por qué no necesitamos un novato desordenado obstruyendo nuestro equipo."
+    xv "Exactamente por eso no necesitamos un novato cualquiera obstruyendo nuestro equipo."
 
 # game/code/Book-1/Chapter-8s/s02.rpy:165
 translate spanish b1c08ss02_193d3985:
@@ -308,7 +308,7 @@ translate spanish b1c08ss02_484ac933:
 translate spanish b1c08ss02_92e68a6c:
 
     # fox "It might be worth it to just have him man the boat so the rest of us can focus on rescuing the cam workers."
-    fox "Podría valer la pena que él maneje el barco para que el resto de nosotros podamos concentrarnos en rescatar a los trabajadores de la cámara."
+    fox "Podría valer la pena que él maneje el barco para que el resto de nosotros podamos concentrarnos en rescatar a los trabajadores de las cámaras."
 
 # game/code/Book-1/Chapter-8s/s02.rpy:172
 translate spanish b1c08ss02_951b09d2:
@@ -362,7 +362,7 @@ translate spanish b1c08ss02_dcc97d26:
 translate spanish b1c08ss02_c9cbc723:
 
     # fox "Xasan, let me get him to drive the boat. We'll scout the place. I'll case him, okay?"
-    fox "Xasan, déjame que conduzca el barco. Exploraremos el lugar. Lo investigaré, ¿de acuerdo?"
+    fox "Xasan, deja que conduzca el barco. Exploraremos el lugar. Me encargaré de él, ¿de acuerdo?"
 
 # game/code/Book-1/Chapter-8s/s02.rpy:195
 translate spanish b1c08ss02_c85a06c6:
@@ -416,7 +416,7 @@ translate spanish b1c08ss02_80181119:
 translate spanish b1c08ss02_7cfe4f68:
 
     # mg "So what're we gonna do if the Wasps did this? We can't let them just get away with it."
-    mg "Entonces, ¿qué haremos si las Avispas hicieran esto? No podemos permitir que se salgan con la suya."
+    mg "Entonces, ¿qué vamos a hacer si las Avispas hicieron esto? No podemos dejar que se salgan con la suya."
 
 # game/code/Book-1/Chapter-8s/s02.rpy:222
 translate spanish b1c08ss02_81e7b995:
@@ -458,7 +458,7 @@ translate spanish b1c08ss02_48eeb63c:
 translate spanish b1c08ss02_11032089:
 
     # xv "But be careful. Just scout it out. Confirm if the cam workers are there. No matter what state they're in, just report back to me."
-    xv "Pero ten cuidado. Sólo exploralo. Confirma si los trabajadores de la cámara están allí. No importa en qué estado se encuentren, infórmame."
+    xv "Pero ten cuidado. Explóralo. Confirma si los trabajadores de las cámaras están allí. No importa en qué estado estén, sólo infórmame."
 
 # game/code/Book-1/Chapter-8s/s02.rpy:236
 translate spanish b1c08ss02_351e14f9:
@@ -572,11 +572,5 @@ translate spanish strings:
 
     # game/code/Book-1/Chapter-8s/s02.rpy:6
     old "At Guns 'n Rosette'"
-    new "En Guns 'n Rosette"
-
-translate spanish strings:
-
-    # game/code/Book-1/Chapter-8s/s02.rpy:8
-    old "At Guns n' Rosette"
-    new "En Guns 'n Rosette"
+    new "En Guns 'n Rosette'"
 
