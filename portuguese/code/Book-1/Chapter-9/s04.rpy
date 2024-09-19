@@ -1138,7 +1138,7 @@ translate portuguese strings:
 
     # game/code/Book-1/Chapter-9/s04.rpy:676
     old "Diana should feltch Ronja"
-    new "A Diana devia lamber a Ronja"
+    new "A Diana devia chupar a Ronja"
 
     # game/code/Book-1/Chapter-9/s04.rpy:676
     old "Ronja should keep the cum to herself"
