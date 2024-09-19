@@ -56,7 +56,7 @@ translate spanish b1c08ss10_960abe3f:
 translate spanish b1c08ss10_80803c7f:
 
     # "You can tell Fleur isn't thrilled at the thought of you being in the fight ring."
-    "Se nota que a Fleur no le entusiasma la idea de que estés en el ring de pelea."
+    "Se nota que a Fleur no le entusiasma la idea de que estés en el ring para pelear."
 
 # game/code/Book-1/Chapter-8s/s10.rpy:55
 translate spanish b1c08ss10_74884b21:
@@ -134,37 +134,37 @@ translate spanish b1c08ss10_0f723771:
 translate spanish b1c08ss10_7d4afb77:
 
     # "They love hearing your tale of being in Hellena's presence, and your quick escape from danger."
-    "Les encanta oír tu historia de estar en presencia de Hellena y tu rápida huida del peligro."
+    "Les encanta oír tu historia de haber estado en presencia de Hellena y tu rápida huida del peligro."
 
 # game/code/Book-1/Chapter-8s/s10.rpy:96
 translate spanish b1c08ss10_74ffce2d:
 
     # "The camaraderie among The Syndicate members provides a sense of comfort to you after these stressful hours."
-    "La camaradería entre los miembros de el Sindicato le brinda una sensación de comodidad después de estas horas estresantes."
+    "La camaradería entre los miembros de El Sindicato le brinda una sensación de comodidad después de estas horas estresantes."
 
 # game/code/Book-1/Chapter-8s/s10.rpy:98
 translate spanish b1c08ss10_4a1afccf:
 
     # "It's nice to forget the uncertainties and tensions within the gang for a while, and just focus on bonding with The Syndicate members—your fellow gang members, now."
-    "Es agradable olvidarse de las incertidumbres y tensiones dentro de la banda durante un tiempo, y centrarse simplemente en estrechar lazos con los miembros de el Sindicato, ahora tus compañeros de pandilla."
+    "Es agradable olvidarse de las incertidumbres y tensiones dentro de la pandilla durante un tiempo, y centrarse simplemente en estrechar lazos con los miembros de El Sindicato, ahora tus compañeros de pandilla."
 
 # game/code/Book-1/Chapter-8s/s10.rpy:99
 translate spanish b1c08ss10_fcd8ab6f:
 
     # "Q and the girls are safe, if still recuperating. You find solace in knowing that everyone is safe and sharing some form of happiness in this moment."
-    "Q y las chicas están a salvo, aunque todavía recuperándose. Te consuela saber que todos están a salvo y compartiendo algún tipo de felicidad en este momento."
+    "Q y las chicas están a salvo, aunque todavía se están recuperando. Te consuela saber que todos están a salvo y compartiendo algún tipo de felicidad en este momento."
 
 # game/code/Book-1/Chapter-8s/s10.rpy:101
 translate spanish b1c08ss10_7c9f6df5:
 
     # "An emotional whirlwind of relief and accomplishment washes over you at the sight of The Syndicate women enjoying your tale of escape and the journey home."
-    "Un torbellino emocional de alivio y logro te inunda al ver a las mujeres de el Sindicato disfrutando de tu historia de escape y el viaje a casa."
+    "Un torbellino emocional de alivio y logro te inunda al ver a las mujeres de El Sindicato disfrutando de tu historia de escape y el viaje a casa."
 
 # game/code/Book-1/Chapter-8s/s10.rpy:103
 translate spanish b1c08ss10_d175f183:
 
     # "This shared sense of appreciation and peace between you and the girls could last forever, and still be short lived."
-    "Este sentimiento compartido de aprecio y paz entre usted y las chicas podría durar para siempre y aun así ser de corta duración."
+    "Esta sensación compartida de aprecio y paz entre las chicas y tú podría durar para siempre, y aun así ser de corta duración."
 
 # game/code/Book-1/Chapter-8s/s10.rpy:109
 translate spanish b1c08ss10_e5bd7c79:
@@ -176,13 +176,13 @@ translate spanish b1c08ss10_e5bd7c79:
 translate spanish b1c08ss10_eaf8d7a8:
 
     # xv "You all did phenomenal, ladies. Everything worked out."
-    xv "Lo hicieron todos fenomenal, señoras. Todo salió bien."
+    xv "Lo hicieron fenomenal, señoritas. Todo salió bien."
 
 # game/code/Book-1/Chapter-8s/s10.rpy:115
 translate spanish b1c08ss10_92a78aba:
 
     # xv "Asami and Zem played a vital role in strategizing our approach."
-    xv "Asami y Zem desempeñaron un papel vital en la estrategia de nuestro enfoque."
+    xv "Asami y Zem desempeñaron un papel fundamental en la elaboración de nuestra estrategia."
 
 # game/code/Book-1/Chapter-8s/s10.rpy:118
 translate spanish b1c08ss10_78a7250a:
@@ -206,7 +206,7 @@ translate spanish b1c08ss10_7c648620:
 translate spanish b1c08ss10_53c6efce:
 
     # fox "It's thanks to [mcname] that I even knew a fraction of what I was doing."
-    fox "Es gracias a [mcname] que sabía incluso una fracción de lo que estaba haciendo."
+    fox "Gracias a [mcname] supe siquiera una fracción de lo que estaba haciendo."
 
 # game/code/Book-1/Chapter-8s/s10.rpy:129
 translate spanish b1c08ss10_66ecf9a7:
@@ -230,7 +230,7 @@ translate spanish b1c08ss10_1205d571:
 translate spanish b1c08ss10_75b8a04e:
 
     # xv "Everyone take the rest of the night off. It's been a rough few days and you all deserve a break."
-    xv "Todos tomen el resto de la noche libre. Han sido unos días difíciles y todos se merecen un descanso."
+    xv "Que todo el mundo se tome el resto de la noche libre. Han sido unos días duros y todos se merecen un descanso."
 
 # game/code/Book-1/Chapter-8s/s10.rpy:142
 translate spanish b1c08ss10_7ece59ef:
@@ -248,7 +248,7 @@ translate spanish b1c08ss10_113e9393:
 translate spanish b1c08ss10_7b43a73f:
 
     # "The brashness of the decision he made and the criticism he faced from his own people seems to weigh heavily on him."
-    "El descaro de la decisión que tomó y las críticas que enfrentó por parte de su propia gente parecen pesarle mucho."
+    "El descaro de la decisión que tomó y las críticas que recibió de los suyos parecen pesarle mucho."
 
 # game/code/Book-1/Chapter-8s/s10.rpy:147
 translate spanish b1c08ss10_782554a5:
@@ -320,7 +320,7 @@ translate spanish b1c08ss10_4e1b65e2:
 translate spanish b1c08ss10_918fea83:
 
     # mc "I'm sorry."
-    mc "Lo lamento."
+    mc "Lo siento."
 
 # game/code/Book-1/Chapter-8s/s10.rpy:177
 translate spanish b1c08ss10_effc92cf:
@@ -344,7 +344,7 @@ translate spanish b1c08ss10_0cac2de9:
 translate spanish b1c08ss10_8d89601a:
 
     # mc "Do you ever think...{w}That this is what caused her disappearance? This lifestyle?"
-    mc "¿Alguna vez pensaste...{w}Que esto fue lo que causó su desaparición? ¿Este estilo de vida?"
+    mc "¿Alguna vez pensaste...{w}que esto fue lo que causó su desaparición? ¿Este estilo de vida?"
 
 # game/code/Book-1/Chapter-8s/s10.rpy:189
 translate spanish b1c08ss10_71de4ef8:
@@ -410,7 +410,7 @@ translate spanish b1c08ss10_84f1b464:
 translate spanish b1c08ss10_042d910c:
 
     # zp "You think that's what I think about Leia's disappearance? That it's just a fucking {i}game{/i}?"
-    zp "¿Crees que eso es lo que pienso sobre la desaparición de Leia? ¿Que es sólo un puto {i}juego{/i}?"
+    zp "¿Crees que eso es lo que pienso sobre la desaparición de Leia? ¿Que es sólo un maldito {i}juego{/i}?"
 
 # game/code/Book-1/Chapter-8s/s10.rpy:213
 translate spanish b1c08ss10_b3cfb92a:
@@ -434,7 +434,7 @@ translate spanish b1c08ss10_752c28a7:
 translate spanish b1c08ss10_75080940:
 
     # zp "It's not always like this. When Leia introduced me to The Syndicate it was different..."
-    zp "No siempre es así. Cuando Leia me presentó al Sindicato fue diferente..."
+    zp "No siempre fue de esta manera. Cuando Leia me presentó al Sindicato era diferente..."
 
 # game/code/Book-1/Chapter-8s/s10.rpy:228
 translate spanish b1c08ss10_7830dc90:
@@ -520,6 +520,12 @@ translate spanish b1c08ss10_cd88aa8e:
     # zp "So that we could do this."
     zp "Para que podamos hacer esto."
 
+# game/code/Book-1/Chapter-8s/s10.rpy:266
+translate spanish b1c08ss10_3fe8cd51:
+
+    # "Zemfira passionately rips your clothes off. You're so lost in her passion, you don't dare question her."
+    "Zemfira te arranca la ropa con pasión. Estás tan perdido en su pasión que no te atreves a cuestionarla."
+
 # game/code/Book-1/Chapter-8s/s10.rpy:269
 translate spanish b1c08ss10_feb88c50:
 
@@ -542,7 +548,7 @@ translate spanish b1c08ss10_dc1ce951:
 translate spanish b1c08ss10_7c53d3cb:
 
     # "You adore this flustered, vulnerable side of Zem. Usually so aloof and incredulous, now intimate and excited."
-    "Adoras este lado nervioso y vulnerable de Zem. Generalmente tan distante e incrédula, ahora íntimo y excitado."
+    "Adoras este lado nervioso y vulnerable de Zem. Normalmente tan distante e incrédula, ahora íntima y emocionada."
 
 # game/code/Book-1/Chapter-8s/s10.rpy:278
 translate spanish b1c08ss10_bc526ecb:
@@ -602,7 +608,7 @@ translate spanish b1c08ss10_e119df09:
 translate spanish b1c08ss10_6ffc6750:
 
     # "You gently, teasingly, slide yourself inside Zemfira."
-    "Suavemente, burlonamente, te deslizas dentro de Zemfira."
+    "Te deslizas suave y burlonamente dentro de Zemfira."
 
 # game/code/Book-1/Chapter-8s/s10.rpy:318
 translate spanish b1c08ss10_2a943eb1:
@@ -626,7 +632,7 @@ translate spanish b1c08ss10_8cc3a6ba:
 translate spanish b1c08ss10_12a0da13:
 
     # "Zemfira needily wraps both legs around you, making your hands dart to hold her close so she doesn't fall."
-    "Zemfira, necesitada, te envuelve con ambas piernas, haciendo que tus manos se lancen para sujetarla cerca para que no se caiga."
+    "Zemfira te rodea con ambas piernas, haciendo que tus manos se lancen a sujetarla para que no se caiga."
 
 # game/code/Book-1/Chapter-8s/s10.rpy:338
 translate spanish b1c08ss10_88ef5d28:
@@ -802,9 +808,10 @@ translate spanish b1c08ss10_335c29c7:
     # mct "...The girls need to be found."
     mct "...Hay que encontrar a las chicas."
 
+
 # game/code/Book-1/Chapter-8s/s10.rpy:273
 translate spanish b1c08ss10_5ae95222:
 
     # "Zemfira grabs you passionately."
-    "Zemfira grabs you passionately."
+    "Zemfira te agarra apasionadamente."
 
