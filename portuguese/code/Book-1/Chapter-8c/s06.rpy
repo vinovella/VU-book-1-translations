@@ -1142,7 +1142,7 @@ translate portuguese b1c08cs06_01c85351:
 translate portuguese b1c08cs06_79b385e5:
 
     # "Lumi's still gently asleep."
-    "Lumi's still gently asleep."
+    "Lumi ainda está dormindo calmamente."
 
 # game/code/Book-1/Chapter-8c/s06.rpy:341
 translate portuguese b1c08cs06_6105367c:
