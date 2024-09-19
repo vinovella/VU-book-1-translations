@@ -2,7 +2,7 @@
 translate spanish b1c08ss05_45796a7d:
 
     # "As you and the others sail from the pier, your hearts fill with determination."
-    "Mientras usted y los demás navegan desde el muelle, sus corazones se llenan de determinación."
+    "Mientras tú y los demás navegan desde el muelle, sus corazones se llenan de determinación."
 
 # game/code/Book-1/Chapter-8s/s05.rpy:59
 translate spanish b1c08ss05_398a7924:
@@ -86,7 +86,7 @@ translate spanish b1c08ss05_05ac9ebc:
 translate spanish b1c08ss05_8c2cf2f7:
 
     # mct "Maybe if I let Foxy drive the boat, I can get a closer look in the bag."
-    mct "Tal vez si dejo que Foxy conduzca el barco, puedo ver más de cerca el interior de la bolsa."
+    mct "Tal vez si dejo que Foxy conduzca el barco, pueda echar un vistazo más de cerca en la maleta."
 
 # game/code/Book-1/Chapter-8s/s05.rpy:94
 translate spanish b1c08ss05_6fefa26d:
@@ -122,7 +122,7 @@ translate spanish b1c08ss05_c1a9e1d1:
 translate spanish b1c08ss05_63a2079a:
 
     # "You see some sort of rigged tech in the bag."
-    "Ves algún tipo de tecnología manipulada en la bolsa."
+    "Ves algún tipo de tecnología manipulada en la maleta."
 
 # game/code/Book-1/Chapter-8s/s05.rpy:122
 translate spanish b1c08ss05_2aa1863e:
@@ -224,7 +224,7 @@ translate spanish b1c08ss05_5458a0c3:
 translate spanish b1c08ss05_faf23405:
 
     # zp "We're the ones who'll be going in to get the cam workers while Xasan and Morgan take down the guards."
-    zp "Nosotros somos los que entraremos a buscar a los trabajadores de la cámara mientras Xasan y Morgan acaban con los guardias."
+    zp "Nosotros somos los que entraremos a buscar a los trabajadores de las cámaras mientras Xasan y Morgan acaban con los guardias."
 
 # game/code/Book-1/Chapter-8s/s05.rpy:181
 translate spanish b1c08ss05_b8ee8cdd:
@@ -272,7 +272,7 @@ translate spanish b1c08ss05_ce99b8b8:
 translate spanish b1c08ss05_21af936e:
 
     # xv "I fucking said no. We need someone ready to man the boat {i}as soon{/i} as the cam workers are safe."
-    xv "Dije que no. Necesitamos a alguien listo para tripular el barco {i}tan pronto{/i} como los trabajadores de la cámara estén a salvo."
+    xv "Dije que no. Necesitamos a alguien listo para tripular el barco {i}tan pronto{/i} como los trabajadores de las cámaras estén a salvo."
 
 # game/code/Book-1/Chapter-8s/s05.rpy:205
 translate spanish b1c08ss05_ee092386:
@@ -327,6 +327,12 @@ translate spanish b1c08ss05_a5eb27fb:
 
     # xv "[mcname], your skills with the boat are invaluable, I'll admit that."
     xv "[mcname], tus habilidades con el barco son invaluables, lo admito."
+
+# game/code/Book-1/Chapter-8s/s05.rpy:229
+translate spanish b1c08ss05_829bf123:
+
+    # xv "We need someone reliable to stay with it and ensure our escape. It's too dangerous for you to be in the thick of it."
+    xv "Necesitamos a alguien confiable que se quede con él y asegure nuestro escape. Es demasiado peligroso para ti estar en medio de esto."
 
 # game/code/Book-1/Chapter-8s/s05.rpy:232
 translate spanish b1c08ss05_5c4c3c45:
@@ -482,7 +488,7 @@ translate spanish b1c08ss05_choice_4a07f7da:
 translate spanish b1c08ss05_choice_ab2cb96b:
 
     # mc "I came here to help {i}you{/i}, and everyone else. That's exactly what I intend to do."
-    mc "Vine aquí para ayudarte {i}a ti{/i} y a todos los demás. Eso es exactamente lo que pretendo hacer."
+    mc "Vine aquí para {i}ayudarte{/i} y a todos los demás. Eso es exactamente lo que pretendo hacer."
 
 # game/code/Book-1/Chapter-8s/s05.rpy:303
 translate spanish b1c08ss05_choice_7196a067:
@@ -560,7 +566,7 @@ translate spanish b1c08ss05_choice_e7f00caa:
 translate spanish b1c08ss05_choice_31caa9bf:
 
     # "Xasan keeps calmly glaring at you. You want nothing more than to wipe that piggish, arrogant expression off his fucking face."
-    "Xasan sigue mirándote con calma. Lo único que quieres es borrar esa expresión arrogante y de cerdo de su puto rostro."
+    "Xasan sigue mirándote con calma. Lo único que quieres es borrarle esa expresión de cerdo arrogante de la puta cara."
 
 # game/code/Book-1/Chapter-8s/s05.rpy:340
 translate spanish b1c08ss05_choice_473fbac1:
@@ -620,7 +626,7 @@ translate spanish b1c08ss05_choice_6d6914d5:
 translate spanish b1c08ss05_choice_3f6a3df6:
 
     # xv "Excuse me if I don't think some sissy suburbanite poser understands a god damn thing about what it's like to lose people you care for."
-    xv "Discúlpame si no creo que un maricón pijo de los suburbios entienda una mierda de lo que es perder a gente a la que quieres."
+    xv "Discúlpame si no creo que un afeminado engreído de los suburbios entienda una mierda de lo que es perder a gente a la que te importa."
 
 # game/code/Book-1/Chapter-8s/s05.rpy:369
 translate spanish b1c08ss05_choice_3f6c1a90:
@@ -639,6 +645,12 @@ translate spanish b1c08ss05_choice_95b61831:
 
     # fox "Sorry I didn't step in, I jus—"
     fox "Lo siento, no intervine, yo solo..."
+
+# game/code/Book-1/Chapter-8s/s05.rpy:379
+translate spanish b1c08ss05_choice_03012300:
+
+    # fox "I've always been a mediator. Just because I can fgang fis just to stop them."
+    fox "Siempre he sido una mediadora. Solo porque puedo atraparlos es solo para detenerlos."
 
 # game/code/Book-1/Chapter-8s/s05.rpy:380
 translate spanish b1c08ss05_choice_68649d5c:
@@ -692,13 +704,13 @@ translate spanish b1c08ss05_choice_e9341967:
 translate spanish b1c08ss05_choice_25fb33cf:
 
     # "Xasan takes a final glance at the gang, his voice filled with confidence."
-    "Xasan echa un último vistazo a la pandilla, su voz llena de confianza."
+    "Xasan echa un último vistazo a la banda, con voz llena de confianza."
 
 # game/code/Book-1/Chapter-8s/s05.rpy:403
 translate spanish b1c08ss05_choice_c661d7b7:
 
     # xv "We're almost there, ladies. Stay sharp, stay together. We're bringing our people home."
-    xv "Ya casi llegamos, señoras. Manténganse alerta, permanezcan juntos. Estamos trayendo a nuestra gente a casa."
+    xv "Ya casi llegamos, señoras. Manténganse alerta, permanezcan juntas. Estamos trayendo a nuestra gente a casa."
 
 # game/code/Book-1/Chapter-8s/s05.rpy:413
 translate spanish b1c08ss05_choice_e1c43c13:
@@ -758,7 +770,7 @@ translate spanish b1c08ss05_choice_a14b880a:
 translate spanish b1c08ss05_choice_e53b66b9:
 
     # "You watch as the others navigate the surroundings, blending into the shadows."
-    "Observas cómo los demás navegan por los alrededores, mezclándose con las sombras."
+    "Observas cómo los demás se mueven por los alrededores, mezclándose entre las sombras."
 
 # game/code/Book-1/Chapter-8s/s05.rpy:441
 translate spanish b1c08ss05_choice_09d78f09:
@@ -800,5 +812,5 @@ translate spanish b1c08ss05_670a3234:
 translate spanish b1c08ss05_choice_c14c407e:
 
     # fox "I've always been a mediator. Just because I can fight doesn't mean I won't try to stop them."
-    fox "Siempre he sido un mediador. Que pueda luchar no significa que no intente detenerlos."
+    fox "Siempre he sido una mediadora. Que pueda luchar no significa que no intente detenerlos."
 
