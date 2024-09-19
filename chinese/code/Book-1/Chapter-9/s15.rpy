@@ -146,475 +146,475 @@ translate chinese b1c09s15_4d5fa2b6:
 translate chinese b1c09s15_326e0e56:
 
     # c2 "*Chuckles* That's messed up! You can't just bust something like that out as the first question!"
-    c2 "*Chuckles* That's messed up! You can't just bust something like that out as the first question!"
+    c2 "*嗤笑* 太离谱了！你不能把这种问题作为第一个问题！"
 
 # game/code/Book-1/Chapter-9/s15.rpy:354
 translate chinese b1c09s15_1462243b:
 
     # mc "*Shrugs* Why mess around with boring stuff?"
-    mc "*Shrugs* Why mess around with boring stuff?"
+    mc "*耸耸肩* 为什么要在无聊的问题上浪费时间呢？"
 
 # game/code/Book-1/Chapter-9/s15.rpy:355
 translate chinese b1c09s15_d9657270:
 
     # "[c1.name], with a slightly embarrassed yet daring grin, follows suit, the warmth of the room emboldening her."
-    "[c1.name], with a slightly embarrassed yet daring grin, follows suit, the warmth of the room emboldening her."
+    "[c1.name]略带尴尬却又大胆地笑着， 也跟着附和，房间里的温暖使她更有胆量了。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:362
 translate chinese b1c09s15_dadc90f0:
 
     # c2 "Wait, really?"
-    c2 "Wait, really?"
+    c2 "等等，真的吗？"
 
 # game/code/Book-1/Chapter-9/s15.rpy:365
 translate chinese b1c09s15_58f24d3d:
 
     # c1 "*Giggling* It was when I was really young, but yeah!"
-    c1 "*Giggling* It was when I was really young, but yeah!"
+    c1 "*咯咯笑* 那是我很小的时候了，不过确实是！"
 
 # game/code/Book-1/Chapter-9/s15.rpy:369
 translate chinese b1c09s15_a0f7d0e7:
 
     # "[c2.name] then leans forward with her eyes sparkling with mischief."
-    "[c2.name] then leans forward with her eyes sparkling with mischief."
+    "[c2.name]向前倾，眼中闪烁着调皮的光芒。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:372
 translate chinese b1c09s15_94cbdc7d:
 
     # c2 "Alright, my turn. Um... Never have I ever...made out with someone I just met."
-    c2 "Alright, my turn. Um... Never have I ever...made out with someone I just met."
+    c2 "好了，轮到我了。嗯...我从来没有...和刚认识的人亲热过。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:374
 translate chinese b1c09s15_c7f28bf7:
 
     # mc "Damn it."
-    mc "Damn it."
+    mc "该死。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:378
 translate chinese b1c09s15_2b26135d:
 
     # "You reach forward for your shot as you try to conceal a smile."
-    "You reach forward for your shot as you try to conceal a smile."
+    "你伸手去拿酒杯，试图掩饰嘴角的笑容。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:380
 translate chinese b1c09s15_a0d27bcb:
 
     # mc "Well, \"just met\" might be stretching it, but yeah, I've lived a little."
-    mc "Well, \"just met\" might be stretching it, but yeah, I've lived a little."
+    mc "好吧，\"刚认识\"这种说法可能有点牵强，但没错，我确实经历过。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:383
 translate chinese b1c09s15_3d35a735:
 
     # c1 "Woah."
-    c1 "Woah."
+    c1 "哇哦。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:388
 translate chinese b1c09s15_a4f69367:
 
     # mc "Oh, c'mon, don't tell me I'm alone here!"
-    mc "Oh, c'mon, don't tell me I'm alone here!"
+    mc "哦，拜托，别告诉我我是唯一一个经历过这种事的！"
 
 # game/code/Book-1/Chapter-9/s15.rpy:389
 translate chinese b1c09s15_93ae046f:
 
     # "[c2.name] looks away coyly and grabs a shot."
-    "[c2.name] looks away coyly and grabs a shot."
+    "[c2.name]害羞地别过头去，拿起杯子。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:395
 translate chinese b1c09s15_f190ed7a:
 
     # c1 "*Laughs* Oh my God, not you too!"
-    c1 "*Laughs* Oh my God, not you too!"
+    c1 "*大笑* 天哪，连你也这样！"
 
 # game/code/Book-1/Chapter-9/s15.rpy:398
 translate chinese b1c09s15_91daa283:
 
     # c2 "*Blushes* Let's just move on!"
-    c2 "*Blushes* Let's just move on!"
+    c2 "*脸红* 咱们还是继续吧！"
 
 # game/code/Book-1/Chapter-9/s15.rpy:404
 translate chinese b1c09s15_9afedbb0:
 
     # c1 "Okay, okay, my turn! Never have I ever...had a— Um..."
-    c1 "Okay, okay, my turn! Never have I ever...had a— Um..."
+    c1 "好吧，好吧，轮到我了！我从来没有...没有--嗯..."
 
 # game/code/Book-1/Chapter-9/s15.rpy:407
 translate chinese b1c09s15_3622a324:
 
     # c2 "What? What were you gonna say?"
-    c2 "What? What were you gonna say?"
+    c2 "什么呀？你想说什么？"
 
 # game/code/Book-1/Chapter-9/s15.rpy:414
 translate chinese b1c09s15_17f10fb2:
 
     # zp "*Blushes* It's fucked, I can't say it."
-    zp "*Blushes* It's fucked, I can't say it."
+    zp "*脸红* 糟糕，我说不出口。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:416
 translate chinese b1c09s15_fac8dd74:
 
     # c1 "*Blushes* I can't say it. I'm sorry."
-    c1 "*Blushes* I can't say it. I'm sorry."
+    c1 "*脸红* 我说不出口。对不起。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:422
 translate chinese b1c09s15_44835140:
 
     # c2 "Nooo! C'mon, it's okay. We won't judge."
-    c2 "Nooo! C'mon, it's okay. We won't judge."
+    c2 "不会啊！没关系，我们不会笑话你的。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:424
 translate chinese b1c09s15_636ec8fd:
 
     # mc "Yeah. It's okay."
-    mc "Yeah. It's okay."
+    mc "对，没关系。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:430
 translate chinese b1c09s15_708e0772:
 
     # c1 "Oh, God, okay. Never have I ever had a crush on someone in this room."
-    c1 "Oh, God, okay. Never have I ever had a crush on someone in this room."
+    c1 "天啊，好吧。我从来没有对这屋子里的人动过心。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:432
 translate chinese b1c09s15_6a31e6d1:
 
     # mct "...Well fuck."
-    mct "...Well fuck."
+    mct "...好吧，真是操蛋。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:436
 translate chinese b1c09s15_85786070:
 
     # "The question hangs in the air. You cast a glance at [c2.name]."
-    "The question hangs in the air. You cast a glance at [c2.name]."
+    "大家默不作声。你瞥了一眼[c2.name]。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:439
 translate chinese b1c09s15_c7236053:
 
     # c2 "Guess it's a night for honesty..."
-    c2 "Guess it's a night for honesty..."
+    c2 "我想今晚应该坦诚相待..."
 
 # game/code/Book-1/Chapter-9/s15.rpy:445
 translate chinese b1c09s15_ede5dc14:
 
     # "You silently down a shot."
-    "You silently down a shot."
+    "你默默地喝下一口。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:446
 translate chinese b1c09s15_2dce2e18:
 
     # "[c2.name] follows, her cheeks flushed with a mix of the alcohol and the thrill of the confession, her smile shy yet daring."
-    "[c2.name] follows, her cheeks flushed with a mix of the alcohol and the thrill of the confession, her smile shy yet daring."
+    "[c2.name]也喝了一口，她的脸颊因酒精和坦白的刺激而泛红，她的笑容既羞涩又大胆。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:457
 translate chinese b1c09s15_f47c7a4b:
 
     # "[c2.name] cuts the awkward silence with a barely muffled snicker."
-    "[c2.name] cuts the awkward silence with a barely muffled snicker."
+    "[c2.name]用几乎压不住的窃笑打破了尴尬的沉默。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:458
 translate chinese b1c09s15_7c2e5e2c:
 
     # c2 "*Laughs* Sorry, I'm sorry. It's just...all three of us taking a shot at that and the awkwardness is just... It broke me."
-    c2 "*Laughs* Sorry, I'm sorry. It's just...all three of us taking a shot at that and the awkwardness is just... It broke me."
+    c2 "*大笑* 对不起，对不起。只是...我们三个人都喝了，这种尴尬的气氛...让我受不了了。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:461
 translate chinese b1c09s15_5208ee58:
 
     # c1 "Damn it, you made me laugh too."
-    c1 "Damn it, you made me laugh too."
+    c1 "该死，你也让我笑了。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:470
 translate chinese b1c09s15_c8991335:
 
     # c2 "Alright! We need something new. Let me put on some music and get us another bottle."
-    c2 "Alright! We need something new. Let me put on some music and get us another bottle."
+    c2 "好吧！我们需要点新花样。我来放点音乐，再拿一瓶酒来。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:506
 translate chinese b1c09s15_53da28f7:
 
     # c2 "*Laughing* You're going down!"
-    c2 "*Laughing* You're going down!"
+    c2 "*笑* 你们要完蛋了！"
 
 # game/code/Book-1/Chapter-9/s15.rpy:510
 translate chinese b1c09s15_668f18a7:
 
     # nv "Silvia is going to kill us..."
-    nv "Silvia is going to kill us..."
+    nv "西尔维娅会杀了我们的..."
 
 # game/code/Book-1/Chapter-9/s15.rpy:512
 translate chinese b1c09s15_a7ebba8a:
 
     # zp "Let's grab a pic before she does then!"
-    zp "Let's grab a pic before she does then!"
+    zp "那就在她动手之前拍张照片吧！"
 
 # game/code/Book-1/Chapter-9/s15.rpy:517
 translate chinese b1c09s15_de566358:
 
     # c2 "C'mon! Let's get a picture!"
-    c2 "C'mon! Let's get a picture!"
+    c2 "来吧！我们拍张照片！"
 
 # game/code/Book-1/Chapter-9/s15.rpy:528
 translate chinese b1c09s15_d4482523:
 
     # "Flushed with excitement, [c1.name] perks up."
-    "Flushed with excitement, [c1.name] perks up."
+    "[c1.name]兴奋得脸都红了。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:531
 translate chinese b1c09s15_fde140e8:
 
     # c1 "Karaoke! Let's do it! It'll be fun!"
-    c1 "Karaoke! Let's do it! It'll be fun!"
+    c1 "卡拉OK！我们来唱歌吧！一定会很有趣！"
 
 # game/code/Book-1/Chapter-9/s15.rpy:537
 translate chinese b1c09s15_619f7607:
 
     # c2 "Yeah!"
-    c2 "Yeah!"
+    c2 "好啊！"
 
 # game/code/Book-1/Chapter-9/s15.rpy:539
 translate chinese b1c09s15_6f5fb738:
 
     # mc "Oh God, I'm probably gonna throw up or make your ears bleed, or both."
-    mc "Oh God, I'm probably gonna throw up or make your ears bleed, or both."
+    mc "天哪，我可能会吐，或者让你们耳朵出血，再或者两者兼而有之。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:546
 translate chinese b1c09s15_6353f48f:
 
     # c2 "Is it really karaoke if someone doesn't do that though?"
-    c2 "Is it really karaoke if someone doesn't do that though?"
+    c2 "如果有人不这样，这还算是卡拉OK吗？"
 
 # game/code/Book-1/Chapter-9/s15.rpy:582
 translate chinese b1c09s15_sex_db971b97:
 
     # mc "*singing* See you over there...{w=1.8}{nw}"
-    mc "*singing* See you over there...{w=1.8}{nw}"
+    mc "*唱歌* 我们在那边见...{w=1.8}{nw}"
 
 # game/code/Book-1/Chapter-9/s15.rpy:583
 translate chinese b1c09s15_sex_bfebbffd:
 
     # mc "*singing* Catch your eye and stare...{w=1.5}{nw}"
-    mc "*singing* Catch your eye and stare...{w=1.5}{nw}"
+    mc "*唱歌* 吸引你的目光...{w=1.5}{nw}"
 
 # game/code/Book-1/Chapter-9/s15.rpy:588
 translate chinese b1c09s15_sex_c69fc139:
 
     # mc "*singing* Little smile you wear...{w=3.5}{nw}"
-    mc "*singing* Little smile you wear...{w=3.5}{nw}"
+    mc "*唱歌* 你露出的微笑...{nw}"
 
 # game/code/Book-1/Chapter-9/s15.rpy:589
 translate chinese b1c09s15_sex_b190e466:
 
     # mc "*singing* I'm feeling something in my pants!{w=1.2}{nw}"
-    mc "*singing* I'm feeling something in my pants!{w=1.2}{nw}"
+    mc "*唱歌* 我感觉裤子里有东西！{w=1.2}{nw}"
 
 # game/code/Book-1/Chapter-9/s15.rpy:593
 translate chinese b1c09s15_sex_a629b2f3:
 
     # mc "*singing* Close the distance - BUT!{w=1.2}{nw}"
-    mc "*singing* Close the distance - BUT!{w=1.2}{nw}"
+    mc "*唱歌* 拉近距离--但是！{w=1.2}{nw}"
 
 # game/code/Book-1/Chapter-9/s15.rpy:595
 translate chinese b1c09s15_sex_86ad7449:
 
     # mc "*singing* Still so far apart...{w=1.2}{nw}"
-    mc "*singing* Still so far apart...{w=1.2}{nw}"
+    mc "*唱歌* 还是相隔甚远...{w=1.2}{nw}"
 
 # game/code/Book-1/Chapter-9/s15.rpy:597
 translate chinese b1c09s15_sex_b96b5c16:
 
     # mc "*singing* Playful tilt your brow...{w=2.7}{nw}"
-    mc "*singing* Playful tilt your brow...{w=2.7}{nw}"
+    mc "*唱歌* 调皮地扬起眉毛...{w=2.7}{nw}"
 
 # game/code/Book-1/Chapter-9/s15.rpy:598
 translate chinese b1c09s15_sex_dfb60db9:
 
     # mc "*singing* Let's get to it somewhere somehow!{w=1.5}{nw}"
-    mc "*singing* Let's get to it somewhere somehow!{w=1.5}{nw}"
+    mc "*唱歌* 让我们在某个地方以某种方式开始吧！{w=1.5}{nw}"
 
 # game/code/Book-1/Chapter-9/s15.rpy:602
 translate chinese b1c09s15_sex_1639beec:
 
     # mc "*singing* If it's not TABOO -{w=1.2}{nw}"
-    mc "*singing* If it's not TABOO -{w=1.2}{nw}"
+    mc "*唱歌* 如果这不是禁忌--{w=1.2}{nw}"
 
 # game/code/Book-1/Chapter-9/s15.rpy:606
 translate chinese b1c09s15_sex_c221c5b9:
 
     # mc "*singing* Then I'll show to you!{w=1.2}{nw}"
-    mc "*singing* Then I'll show to you!{w=1.2}{nw}"
+    mc "*唱歌* 那我就展示给你看！{w=1.2}{nw}"
 
 # game/code/Book-1/Chapter-9/s15.rpy:610
 translate chinese b1c09s15_sex_4843f5c1:
 
     # mc "*singing* Something from the world...{w=2.6}{nw}"
-    mc "*singing* Something from the world...{w=2.6}{nw}"
+    mc "*唱歌* 来自世界的...{w=2.6}{nw}"
 
 # game/code/Book-1/Chapter-9/s15.rpy:611
 translate chinese b1c09s15_sex_e79a018b:
 
     # mc "*singing* Of my BIG LOVE!{w=1.75}{nw}"
-    mc "*singing* Of my BIG LOVE!{w=1.75}{nw}"
+    mc "*唱歌* 我的大爱！{w=1.75}{nw}"
 
 # game/code/Book-1/Chapter-9/s15.rpy:615
 translate chinese b1c09s15_sex_ce49b3b3:
 
     # mc "*singing* Just a little tease...{w=1.2}{nw}"
-    mc "*singing* Just a little tease...{w=1.2}{nw}"
+    mc "*唱歌* 只是小小的挑逗...{w=1.2}{nw}"
 
 # game/code/Book-1/Chapter-9/s15.rpy:616
 translate chinese b1c09s15_sex_045a0b3c:
 
     # mc "*singing* Make you weak at knees...{w=1.4}{nw}"
-    mc "*singing* Make you weak at knees...{w=1.4}{nw}"
+    mc "*唱歌* 你的膝盖就站不动...{w=1.4}{nw}"
 
 # game/code/Book-1/Chapter-9/s15.rpy:618
 translate chinese b1c09s15_sex_3cc7f0c9:
 
     # mc "*singing* Oh it’s such a breeze...{w=1.2}{nw}"
-    mc "*singing* Oh it’s such a breeze...{w=1.2}{nw}"
+    mc "*唱歌* 哦，一切如此美妙...{w=1.2}{nw}"
 
 # game/code/Book-1/Chapter-9/s15.rpy:622
 translate chinese b1c09s15_sex_c7a636a6:
 
     # mc "*singing* Come and dance with me!{w=2.0}{nw}"
-    mc "*singing* Come and dance with me!{w=2.0}{nw}"
+    mc "*唱歌* 来和我一起跳舞吧！{w=2.0}{nw}"
 
 # game/code/Book-1/Chapter-9/s15.rpy:670
 translate chinese b1c09s15_sex_karaoke_end_5796dc7b:
 
     # mc "Careful. You okay?"
-    mc "Careful. You okay?"
+    mc "小心点。你还好吧？"
 
 # game/code/Book-1/Chapter-9/s15.rpy:676
 translate chinese b1c09s15_sex_karaoke_end_b06d9881:
 
     # "[c2.name] nods, her eyes locked on yours, and in a moment that feels like it's suspended outside of time, she leans in and kisses you."
-    "[c2.name] nods, her eyes locked on yours, and in a moment that feels like it's suspended outside of time, she leans in and kisses you."
+    "[c2.name]点点头，她的眼睛盯着你，在那一刻你感觉时间仿佛静止了，她靠过来，给了你一个吻。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:681
 translate chinese b1c09s15_sex_karaoke_end_cb31a8f0:
 
     # "It's a sweet thing. Delicate as crystal. A single moment of shared vulnerability and momentary escape from your burdens."
-    "It's a sweet thing. Delicate as crystal. A single moment of shared vulnerability and momentary escape from your burdens."
+    "这个吻很甜蜜。像水晶一样细腻。在这一刻，你们共享脆弱，共同卸下沉重的负担。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:684
 translate chinese b1c09s15_sex_karaoke_end_8335118f:
 
     # "[c1.name] catches your kiss from the side of her eyes. Her expression a mix of surprise and something softer, a gentle understanding."
-    "[c1.name] catches your kiss from the side of her eyes. Her expression a mix of surprise and something softer, a gentle understanding."
+    "[c1.name]从她的眼角捕捉到你们接吻。她的表情混杂着惊讶和温柔，那是一种温柔的理解。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:690
 translate chinese b1c09s15_sex_karaoke_end_20c34603:
 
     # "As [c2.name] pulls back, there's a fleeting look of apology, as if she's second-guessing her impulsiveness."
-    "As [c2.name] pulls back, there's a fleeting look of apology, as if she's second-guessing her impulsiveness."
+    "当[c2.name]向后退时，脸上闪过一丝歉意，似乎在为自己的冲动而后悔。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:692
 translate chinese b1c09s15_sex_karaoke_end_2f13d546:
 
     # zp "Uh... Sorry about that, hotshot. Don't know what got over me."
-    zp "Uh... Sorry about that, hotshot. Don't know what got over me."
+    zp "呃...抱歉，帅哥。不知道我是怎么了。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:694
 translate chinese b1c09s15_sex_karaoke_end_8348f348:
 
     # c2 "I... Sorry. I don't know what got over me."
-    c2 "I... Sorry. I don't know what got over me."
+    c2 "我...抱歉。我不知道自己是怎么了。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:696
 translate chinese b1c09s15_sex_karaoke_end_e989ff11:
 
     # mc "No... It's okay."
-    mc "No... It's okay."
+    mc "不...没关系。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:700
 translate chinese b1c09s15_sex_karaoke_end_0c83a716:
 
     # "[c2.name] stands and regains her composure with a coy smile as her blush deepens."
-    "[c2.name] stands and regains her composure with a coy smile as her blush deepens."
+    "[c2.name]站起身来，用调皮的微笑恢复了镇定，她的脸颊变得更红了。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:704
 translate chinese b1c09s15_sex_karaoke_end_3b177bc9:
 
     # "With a twinkle of mischief and a hint of curiosity in her eyes, [c1.name] turns towards you, her voice playful yet sincere."
-    "With a twinkle of mischief and a hint of curiosity in her eyes, [c1.name] turns towards you, her voice playful yet sincere."
+    "[c1.name]眼中闪烁着调皮和好奇的光芒，她转向你，声音俏皮而真诚。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:707
 translate chinese b1c09s15_sex_karaoke_end_40d12630:
 
     # c1 "I um... Didn't expect that. I suppose I should've."
-    c1 "I um... Didn't expect that. I suppose I should've."
+    c1 "我...没想到啊。 我想我应该预料到的。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:708
 translate chinese b1c09s15_sex_karaoke_end_a0626344:
 
     # c1 "...Can I get a kiss too?"
-    c1 "...Can I get a kiss too?"
+    c1 "...我能也得到一个吻吗？"
 
 # game/code/Book-1/Chapter-9/s15.rpy:713
 translate chinese b1c09s15_sex_karaoke_end_b00f3440:
 
     # "You're both caught off guard at her words."
-    "You're both caught off guard at her words."
+    "她的话让你们俩都措手不及。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:716
 translate chinese b1c09s15_sex_karaoke_end_18657cc5:
 
     # c1 "What? Didn't you say that we should feel okay together? Seems a little unfair that you only two get to share a kiss."
-    c1 "What? Didn't you say that we should feel okay together? Seems a little unfair that you only two get to share a kiss."
+    c1 "怎么了？ 你不是说我们在一起应该享有美好的心情吗？ 只让你们两个接吻似乎有点不公平。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:724
 translate chinese b1c09s15_sex_karaoke_end_d86e3840:
 
     # "She leans in, confident yet with a hint of hesitancy that melts into certainty. Just as you begin to lose yourself in her, she pulls away with a smile."
-    "She leans in, confident yet with a hint of hesitancy that melts into certainty. Just as you begin to lose yourself in her, she pulls away with a smile."
+    "她靠过来，自信中带着一丝犹豫，但很快就变得坚定。正当你迷失在她身上时，她微笑着抽身离开。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:730
 translate chinese b1c09s15_sex_karaoke_end_5a5b9f55:
 
     # c1 "*Smiles* It's strange, but...it feels really good to just...be with you both like this."
-    c1 "*Smiles* It's strange, but...it feels really good to just...be with you both like this."
+    c1 "*微笑* 很奇怪，但...这样和你们在一起感觉真的很好。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:734
 translate chinese b1c09s15_sex_karaoke_end_fe3c76f4:
 
     # zp "Yeah... I don't really know what I'm feeling right now, but it's not a bad feeling."
-    zp "Yeah... I don't really know what I'm feeling right now, but it's not a bad feeling."
+    zp "是啊...我也不知道我现在是什么感觉，但感觉还不错。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:736
 translate chinese b1c09s15_sex_karaoke_end_2ad4a654:
 
     # c2 "It does, doesn't it? Our own little world."
-    c2 "It does, doesn't it? Our own little world."
+    c2 "确实不错，不是吗？我们自己的小天地。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:742
 translate chinese b1c09s15_sex_karaoke_end_86d89879:
 
     # c2 "C'mon. Let's not let the night end just yet. Let's...explore this."
-    c2 "C'mon. Let's not let the night end just yet. Let's...explore this."
+    c2 "来吧。别让这美好的夜晚这么快结束。让我们...探索一下。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:747
 translate chinese b1c09s15_sex_karaoke_end_ea2df8ba:
 
     # "The three of you lay together, limbs entwined, fingers tracing patterns over each other's skin."
-    "The three of you lay together, limbs entwined, fingers tracing patterns over each other's skin."
+    "你们三个人躺在一起， 肢体交缠，手指在彼此的皮肤上画着图案。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:761
 translate chinese b1c09s15_sex_karaoke_end_f64856cc:
 
     # "As [c1.name]'s hand caresses your chest with feather-light touches, [c2.name]'s soft lips brush against your neck, sending shivers down your spine."
-    "As [c1.name]'s hand caresses your chest with feather-light touches, [c2.name]'s soft lips brush against your neck, sending shivers down your spine."
+    "[c1.name]的手轻抚你的胸膛，触感似羽毛般轻柔，[c2.name]柔软的嘴唇轻拂着你的脖子，让你忍不住脊背发颤。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:767
 translate chinese b1c09s15_sex_karaoke_end_520a9b9a:
 
     # c1 "My, my... Seems like somebody's really eager."
-    c1 "My, my... Seems like somebody's really eager."
+    c1 "哎呀...看来某人真的很饥渴啊。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:769
 translate chinese b1c09s15_sex_karaoke_end_5b5bbf04:
 
     # mc "And how is that my fault, exactly?"
-    mc "And how is that my fault, exactly?"
+    mc "这怎么能怪我呢？"
 
 # game/code/Book-1/Chapter-9/s15.rpy:783
 translate chinese b1c09s15_sex_karaoke_end_675922f4:
