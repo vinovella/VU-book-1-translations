@@ -92,7 +92,7 @@ translate spanish b1c08ss03_b0d6c1a0:
 translate spanish b1c08ss03_2a569673:
 
     # fox "I've heard them talk about you. You've made quite the impression with the cam workers."
-    fox "Los he oído hablar de ti. Has causado una gran impresión a los trabajadores de la cámara."
+    fox "Los he oído hablar de ti. Has causado una gran impresión a los trabajadores de las cámaras."
 
 # game/code/Book-1/Chapter-8s/s03.rpy:59
 translate spanish b1c08ss03_e41003c1:
@@ -176,7 +176,7 @@ translate spanish b1c08ss03_82d263b0:
 translate spanish b1c08ss03_0ace5b43:
 
     # fox "You certainly get around. Fleur, Asami, Zem, the cam workers..."
-    fox "Ciertamente te mueves. Fleur, Asami, Zem, los trabajadores de la cámara..."
+    fox "Ciertamente te mueves. Fleur, Asami, Zem, los trabajadores de las cámaras..."
 
 # game/code/Book-1/Chapter-8s/s03.rpy:96
 translate spanish b1c08ss03_1b78614b:
@@ -326,7 +326,7 @@ translate spanish b1c08ss03_b61c4883:
 translate spanish b1c08ss03_39e80311:
 
     # fox "This {i}little thing{/i} could beat your ass up."
-    fox "Esta {i}pequeña cosa{/i} podría darte una paliza."
+    fox "Esta {i}cosita{/i} podría darte una paliza."
 
 # game/code/Book-1/Chapter-8s/s03.rpy:159
 translate spanish b1c08ss03_6899659e:
@@ -392,7 +392,7 @@ translate spanish b1c08ss03_d5ae2301:
 translate spanish b1c08ss03_22f4230a:
 
     # fox "But despite my abilities, I've always been a mediator. Just because I can finish fights doesn't mean I like to start them."
-    fox "Pero a pesar de mis capacidades, siempre he sido un mediador. Sólo porque pueda terminar las peleas no significa que me guste empezarlas."
+    fox "Pero a pesar de mis habilidades, siempre he sido una mediadora. Que pueda terminar peleas no significa que me guste empezarlas."
 
 # game/code/Book-1/Chapter-8s/s03.rpy:182
 translate spanish b1c08ss03_b5acfd92:
@@ -572,7 +572,7 @@ translate spanish b1c08ss03_warehouse_ea274058:
 translate spanish b1c08ss03_warehouse_eb743a73:
 
     # mc "Yeah. Yeah, you're right."
-    mc "Sí. Si, tienes razón."
+    mc "Sí. Sí, tienes razón."
 
 # game/code/Book-1/Chapter-8s/s03.rpy:287
 translate spanish b1c08ss03_warehouse_b34ef6a6:
@@ -590,7 +590,7 @@ translate spanish b1c08ss03_warehouse_c044b317:
 translate spanish b1c08ss03_warehouse_12b16a21:
 
     # "You silently depart, leaving behind the warehouse, the scene of your friends' captivity, and a resolve burning in your hearts to bring them back safely."
-    "Te marchas en silencio, dejando atrás el almacén, la escena del cautiverio de tus amigos y la determinación ardiendo en tus corazones de traerlos de regreso sanos y salvos."
+    "Te marchas en silencio, dejando atrás el almacén, la escena del cautiverio de tus amigos y la determinación ardiente en sus corazones de traerlos de vuelta sanos y salvos."
 
 translate spanish strings:
 
