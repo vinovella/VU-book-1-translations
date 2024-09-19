@@ -14,7 +14,7 @@ translate spanish b1c08ss01_abfefc4a:
 translate spanish b1c08ss01_a4a6a958:
 
     # "You both decide to get ice cream first, despite the early morning hour."
-    "Ambos deciden tomar un helado primero, a pesar de que es temprano en la mañana."
+    "Ambos deciden tomar primero un helado, a pesar de lo temprano que es en la mañana."
 
 # game/code/Book-1/Chapter-8s/s01.rpy:50
 translate spanish b1c08ss01_f98d2246:
@@ -32,7 +32,7 @@ translate spanish b1c08ss01_d7a47df0:
 translate spanish b1c08ss01_21c32b15:
 
     # zp "It's nice...to relax with you. I guess what's what I feel. Like I don't need to wear some sort of mask with you."
-    zp "Es agradable... relajarme contigo. Supongo que es lo que siento. Como si no necesitara usar algún tipo de máscara contigo."
+    zp "Es agradable... relajarse contigo. Supongo que es lo que siento. Como si no necesitara llevar una especie de máscara contigo."
 
 # game/code/Book-1/Chapter-8s/s01.rpy:59
 translate spanish b1c08ss01_1629b171:
@@ -50,7 +50,7 @@ translate spanish b1c08ss01_cdb3cf8e:
 translate spanish b1c08ss01_bd659519:
 
     # zp "In case you haven't noticed, I'm not the easiest to get along with."
-    zp "En caso de que no lo hayas notado, no soy la persona más fácil de llevar."
+    zp "En caso de que no te hayas dado cuenta, no soy una persona con la que sea fácil llevarse bien."
 
 # game/code/Book-1/Chapter-8s/s01.rpy:68
 translate spanish b1c08ss01_9cd8f0a4:
@@ -68,7 +68,7 @@ translate spanish b1c08ss01_2c94c463:
 translate spanish b1c08ss01_bb105f85:
 
     # mc "Sure, not everyone gets along with that. But fuck 'em. You're not for everyone, but that doesn't matter."
-    mc "Claro, no todo el mundo se lleva bien con eso. Pero que se jodan. No eres para todos, pero eso no importa."
+    mc "Claro, no todo el mundo se lleva bien con eso. Pero que se vayan a la mierda. No eres para todos, pero eso no importa."
 
 # game/code/Book-1/Chapter-8s/s01.rpy:79
 translate spanish b1c08ss01_96ce03ff:
@@ -194,7 +194,7 @@ translate spanish b1c08ss01_room_acf029dd:
 translate spanish b1c08ss01_room_cd61df0f:
 
     # "Zemfira's usual fiery defiance seems to be replaced with a bashful young woman. She's jittery with anticipation of your touch."
-    "El habitual desafío ardiente de Zemfira parece ser reemplazado por una joven tímida. Está nerviosa por la anticipación de tu toque."
+    "La ardiente rebeldía habitual de Zemfira parece haber sido sustituida por una joven tímida. Está nerviosa por tu toque."
 
 # game/code/Book-1/Chapter-8s/s01.rpy:166
 translate spanish b1c08ss01_room_40ebbf1d:
@@ -206,13 +206,13 @@ translate spanish b1c08ss01_room_40ebbf1d:
 translate spanish b1c08ss01_room_2425c236:
 
     # mc "Sure. Some music would help—"
-    mc "Seguro. Un poco de música ayudaría..."
+    mc "Seguro. Un poco de música ayudaría a..."
 
 # game/code/Book-1/Chapter-8s/s01.rpy:172
 translate spanish b1c08ss01_room_e17831c6:
 
     # mc "—cover up any noise."
-    mc "—disimular cualquier ruido."
+    mc "... disimular cualquier ruido."
 
 # game/code/Book-1/Chapter-8s/s01.rpy:176
 translate spanish b1c08ss01_room_bdc6bcea:
@@ -224,7 +224,7 @@ translate spanish b1c08ss01_room_bdc6bcea:
 translate spanish b1c08ss01_room_44849109:
 
     # zp "Fuck it. Let them hear."
-    zp "Joder. Que escuchen."
+    zp "A la mierda. Que escuchen."
 
 # game/code/Book-1/Chapter-8s/s01.rpy:182
 translate spanish b1c08ss01_room_4f716ed0:
@@ -248,7 +248,7 @@ translate spanish b1c08ss01_room_82bc5e25:
 translate spanish b1c08ss01_room_c2e99a98:
 
     # mc "Hot? Exquisite? Tasty looking?"
-    mc "¿Caliente? ¿Exquisito? ¿De aspecto sabroso?"
+    mc "¿Sexy? ¿Exquisito? ¿De aspecto sabroso?"
 
 # game/code/Book-1/Chapter-8s/s01.rpy:204
 translate spanish b1c08ss01_room_e9fd78f1:
@@ -326,7 +326,7 @@ translate spanish b1c08ss01_room_258cf02b:
 translate spanish b1c08ss01_room_e98ad493:
 
     # "Her hips hungrily grind against your mouth, using you to get off."
-    "Sus caderas se frotan hambrientamente contra tu boca, usándote para correrte."
+    "Sus caderas rechinan hambrientas contra tu boca, utilizándote para excitarse."
 
 # game/code/Book-1/Chapter-8s/s01.rpy:245
 translate spanish b1c08ss01_room_1c0245b7:
@@ -350,7 +350,7 @@ translate spanish b1c08ss01_room_0fc7051b:
 translate spanish b1c08ss01_room_e755559c:
 
     # "Zem ignores the call, and you go back to teasingly licking her clit while she grinds herself against you needily."
-    "Zem ignora la llamada y tú vuelves a lamer su clítoris en broma mientras ella se aprieta contra ti con necesidad."
+    "Zem ignora la llamada y tú vuelves a lamerle el clítoris mientras ella se aprieta contra ti con necesidad."
 
 # game/code/Book-1/Chapter-8s/s01.rpy:261
 translate spanish b1c08ss01_room_faad7872:
