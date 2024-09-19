@@ -348,5 +348,5 @@ translate portuguese strings:
 translate portuguese b1c08ws06_08e0644c:
 
     # ba "C'mon, shirt off."
-    ba "C'mon, shirt off."
+    ba "Bora, tira a camisa."
 
