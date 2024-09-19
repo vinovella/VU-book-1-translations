@@ -8,7 +8,7 @@ translate spanish b1c08ss06_e197f8e6:
 translate spanish b1c08ss06_99dae586:
 
     # "As you scan your surroundings, you remain on high alert, ready to provide assistance if circumstances demand it."
-    "Mientras explora su entorno, permanece en alerta máxima, listo para brindar asistencia si las circunstancias lo exigen."
+    "Mientras examina su entorno, permanece en alerta máxima, listo para prestar ayuda si las circunstancias lo exigen."
 
 # game/code/Book-1/Chapter-8s/s06.rpy:15
 translate spanish b1c08ss06_7b3f8429:
@@ -70,6 +70,12 @@ translate spanish b1c08ss06_5aee9d2b:
     # "The trio is delirious from pain, and stress. Blood and bruises mark their usually clean skin."
     "El trío delira por el dolor y el estrés. Sangre y hematomas marcan su piel normalmente limpia."
 
+# game/code/Book-1/Chapter-8s/s06.rpy:61
+translate spanish b1c08ss06_8d4b6fc2:
+
+    # "It's doubtful they've had more than a few moments out of these chairs since their capture."
+    "Es dudoso que hayan pasado más de unos momentos fuera de estas sillas desde su captura."
+
 # game/code/Book-1/Chapter-8s/s06.rpy:70
 translate spanish b1c08ss06_385b8406:
 
@@ -92,7 +98,7 @@ translate spanish b1c08ss06_0481fcc2:
 translate spanish b1c08ss06_9f1a565a:
 
     # sp "S-sorry, he— I— It's my ankle."
-    sp "Lo-lo siento, él... yo... Es mi tobillo."
+    sp "Lo...lo siento, él... yo... Es mi tobillo."
 
 # game/code/Book-1/Chapter-8s/s06.rpy:99
 translate spanish b1c08ss06_457d1bea:
@@ -116,7 +122,7 @@ translate spanish b1c08ss06_cf3ba186:
 translate spanish b1c08ss06_f840a8f8:
 
     # "Xasan and Morgan remain vigilant outside the warehouse, keeping the coast clear as the Syndicate members and the cam workers stealthily but slowly make their way back to the boat."
-    "Xasan y Morgan permanecen vigilantes fuera del almacén, manteniendo la costa despejada mientras los miembros del Sindicato y los trabajadores de la cámara regresan sigilosamente pero lentamente al barco."
+    "Xasan y Morgan permanecen vigilantes fuera del almacén, manteniendo la costa despejada mientras los miembros del Sindicato y los trabajadores de las cámaras regresan sigilosamente pero lentamente al barco."
 
 # game/code/Book-1/Chapter-8s/s06.rpy:111
 translate spanish b1c08ss06_f5e1d8fd:
@@ -170,7 +176,7 @@ translate spanish b1c08ss06_f5dcfb40:
 translate spanish b1c08ss06_471c9a85:
 
     # sp "Didn't think I'd see your pretty face again."
-    sp "No pensé que volvería a ver tu cara bonita."
+    sp "No pensé que volvería a ver tu bonita cara."
 
 # game/code/Book-1/Chapter-8s/s06.rpy:143
 translate spanish b1c08ss06_efed01ef:
@@ -236,7 +242,7 @@ translate spanish b1c08ss06_d9bc13a7:
 translate spanish b1c08ss06_1764baec:
 
     # "Xasan narrowly misses getting a bat to the skull. He manages to use the opening to punch the guard in the stomach, stunning him."
-    "Xasan se salva por poco de recibir un golpe con el bate en el cráneo. Logra aprovechar el hueco para golpear al guardia en el estómago, aturdiéndolo."
+    "Xasan se salva por poco de recibir un golpe con el bate en el cráneo. Logra aprovechar el espacio para golpear al guardia en el estómago, aturdiéndolo."
 
 # game/code/Book-1/Chapter-8s/s06.rpy:191
 translate spanish b1c08ss06_713fb5a2:
@@ -254,7 +260,7 @@ translate spanish b1c08ss06_d00328d1:
 translate spanish b1c08ss06_a2903284:
 
     # "Xasan struggles to inhale, the air completely wiped from him."
-    "Xasan lucha por inhalar, el aire le ha desaparecido por completo."
+    "Xasan se esfuerza por respirar, el aire se le escapa por completo."
 
 # game/code/Book-1/Chapter-8s/s06.rpy:200
 translate spanish b1c08ss06_983b61be:
@@ -416,7 +422,7 @@ translate spanish b1c08ss06_d00dad00:
 translate spanish b1c08ss06_30039d4d:
 
     # "The guard grinds his heel into Xasan's chest. Xasan, too weak to fight anymore, groans in pain."
-    "El guardia golpea el pecho de Xasan con el talón. Xasan, demasiado débil para seguir luchando, gime de dolor."
+    "La guardia golpea el pecho de Xasan con el tacón. Xasan, demasiado débil para seguir luchando, gime de dolor."
 
 # game/code/Book-1/Chapter-8s/s06.rpy:300
 translate spanish b1c08ss06_f5212b77:
@@ -428,13 +434,13 @@ translate spanish b1c08ss06_f5212b77:
 translate spanish b1c08ss06_3585150d:
 
     # "Xasan's bomb explodes, splaying everyone."
-    "La bomba de Xasan explota y mata a todos."
+    "La bomba de Xasan explota, esparciendo a todo el mundo."
 
 # game/code/Book-1/Chapter-8s/s06.rpy:316
 translate spanish b1c08ss06_be82370a:
 
     # "Your ears ring, and your vision blurs. It's hard to think or focus on your surroundings. Your body struggles to recover from the blast."
-    "Te zumban los oídos y tu visión se vuelve borrosa. Es difícil pensar o concentrarse en lo que lo rodea. Tu cuerpo lucha por recuperarse de la explosión."
+    "Te zumban los oídos y tu visión se vuelve borrosa. Es difícil pensar o concentrarse en lo que te rodea. Tu cuerpo lucha por recuperarse de la explosión."
 
 # game/code/Book-1/Chapter-8s/s06.rpy:319
 translate spanish b1c08ss06_d621d664:
@@ -500,7 +506,7 @@ translate spanish b1c08ss06_2587d734:
 translate spanish b1c08ss06_fbe8dbb9:
 
     # "You find some solace in knowing that Q and the girls are safe."
-    "Encuentra algo de consuelo al saber que Q y las chicas están a salvo."
+    "Encuentras algo de consuelo al saber que Q y las chicas están a salvo."
 
 # game/code/Book-1/Chapter-8s/s06.rpy:373
 translate spanish b1c08ss06_7d580f6a:
@@ -518,19 +524,19 @@ translate spanish b1c08ss06_28217709:
 translate spanish b1c08ss06_27cc58d8:
 
     # mc "Already there."
-    mc "Ya ahí."
+    mc "Ya estoy allí."
 
 # game/code/Book-1/Chapter-8s/s06.rpy:381
 translate spanish b1c08ss06_3a2a70fd:
 
     # "The guard raises the bat above his head, readying to bring it down on your head."
-    "El guardia levanta el bate por encima de su cabeza, preparándose para dejártelo en la cabeza."
+    "El guardia levanta el bate por encima de tu cabeza, preparado para golpearte con él."
 
 # game/code/Book-1/Chapter-8s/s06.rpy:382
 translate spanish b1c08ss06_65e1efff:
 
     # "Maybe spitting at him wasn't the best way to de-escalate the situation."
-    "Quizás escupirle no fuera la mejor manera de calmar la situación."
+    "Tal vez escupirle no era la mejor manera de tranquilizar la situación."
 
 # game/code/Book-1/Chapter-8s/s06.rpy:384
 translate spanish b1c08ss06_6b647202:
@@ -559,10 +565,4 @@ translate spanish strings:
     # game/code/Book-1/Chapter-8s/s06.rpy:126
     old "I can't let him do this"
     new "No puedo dejar que haga esto"
-
-# game/code/Book-1/Chapter-8s/s06.rpy:63
-translate spanish b1c08ss06_66242071:
-
-    # "It's doubtful they've had more than a few moments out of these binds since their capture."
-    "Es dudoso que hayan tenido más que unos pocos momentos fuera de estos amarres desde su captura."
 
