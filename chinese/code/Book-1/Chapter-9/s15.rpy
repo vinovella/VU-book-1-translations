@@ -620,459 +620,459 @@ translate chinese b1c09s15_sex_karaoke_end_5b5bbf04:
 translate chinese b1c09s15_sex_karaoke_end_675922f4:
 
     # c2 "Fair. I wouldn't be able to hold back if I had two cute girls by my side either."
-    c2 "Fair. I wouldn't be able to hold back if I had two cute girls by my side either."
+    c2 "说得也是。如果身边有两个可爱的女孩，我也忍不住。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:786
 translate chinese b1c09s15_sex_karaoke_end_4dbfa3c8:
 
     # c1 "*Giggles* Doesn't seem like you can hold back with a cute guy and girl any better."
-    c1 "*Giggles* Doesn't seem like you can hold back with a cute guy and girl any better."
+    c1 "*咯咯笑* 看来你面对一个帅气男孩，外加一个可爱女孩，你还是忍不住。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:792
 translate chinese b1c09s15_sex_karaoke_end_246d444c:
 
     # c2 "Help me free him."
-    c2 "Help me free him."
+    c2 "帮我把他给解放了。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:797
 translate chinese b1c09s15_sex_karaoke_end_670b9956:
 
     # "As the last barrier of clothing falls away, your breath hitches in your throat, a rush of desire surging at the sight of their bare bodies bathed in the soft glow of the room."
-    "As the last barrier of clothing falls away, your breath hitches in your throat, a rush of desire surging at the sight of their bare bodies bathed in the soft glow of the room."
+    "当最后一层衣物被褪去，你的呼吸变得急促，看到她们赤裸的身体沐浴在房间柔和的灯光下，一股强烈的欲望涌上你的心头。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:798
 translate chinese b1c09s15_sex_karaoke_end_db2ca792:
 
     # "The two of them drape their eyes over you, alight with hunger and lust; it makes you shiver as they begin to touch all over your body."
-    "The two of them drape their eyes over you, alight with hunger and lust; it makes you shiver as they begin to touch all over your body."
+    "她们俩用充满饥渴和欲望的眼神看着你，当她们开始抚摸你的身子时，你不禁全身颤抖。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:806
 translate chinese b1c09s15_sex_karaoke_end_394e7cfd:
 
     # "While [c1.name] focuses her attention on your shaft and tip, lapping up your precum and overwhelming your senses."
-    "While [c1.name] focuses her attention on your shaft and tip, lapping up your precum and overwhelming your senses."
+    "[c1.name]将注意力集中在你的鸡巴和龟头上，她舔舐你的精液，让你的感官无法自持。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:814
 translate chinese b1c09s15_sex_karaoke_end_3d65359c:
 
     # "[c2.name]'s warm mouth slides down your thighs, teasing every inch of skin she encounters with a hunger that's both enticing and mesmerizing."
-    "[c2.name]'s warm mouth slides down your thighs, teasing every inch of skin she encounters with a hunger that's both enticing and mesmerizing."
+    "[c2.name]温暖的嘴唇滑下你的大腿，她用饥渴的双手挑逗着你的每一寸肌肤，既诱人又令人着迷。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:823
 translate chinese b1c09s15_sex_karaoke_end_ac4c2001:
 
     # "You groan in pleasure, barely able to form sentences as their efforts send waves of pleasure coursing through your veins."
-    "You groan in pleasure, barely able to form sentences as their efforts send waves of pleasure coursing through your veins."
+    "你快乐地呻吟着，几乎无法说出完整的句子，她们卖力的表现让你的血管里涌动着愉悦的浪潮。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:824
 translate chinese b1c09s15_sex_karaoke_end_d1f6e450:
 
     # "In response to seeing your pleasure, [c1.name] hums around your cock, her eyes locked with yours."
-    "In response to seeing your pleasure, [c1.name] hums around your cock, her eyes locked with yours."
+    "看到你愉悦的表情，[c1.name]在你的鸡巴上开始哼哼，她的眼睛紧盯着你的眼睛。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:830
 translate chinese b1c09s15_sex_karaoke_end_5ed57917:
 
     # "You can't help but thrust your hips ever so slightly into [c1.name]'s waiting mouth, craving more of her velvet warmth."
-    "You can't help but thrust your hips ever so slightly into [c1.name]'s waiting mouth, craving more of her velvet warmth."
+    "你情不自禁地将臀部轻轻挺入[c1.name]等待着的嘴里，渴望得到更多天鹅绒般的温暖。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:840
 translate chinese b1c09s15_sex_karaoke_end_58ca9b0b:
 
     # mc "God, you both feel so good."
-    mc "God, you both feel so good."
+    mc "天哪，你们俩都感觉太棒了。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:854
 translate chinese b1c09s15_sex_karaoke_end_9d873848:
 
     # c1 "*Giggles* So needy."
-    c1 "*Giggles* So needy."
+    c1 "*咯咯笑* 好急呀。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:860
 translate chinese b1c09s15_sex_karaoke_end_a78a9230:
 
     # c1 "[c2.name], c'mere. Let's do it together."
-    c1 "[c2.name], c'mere. Let's do it together."
+    c1 "[c2.name]，过来。我们一起来吧。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:863
 translate chinese b1c09s15_sex_karaoke_end_c3181fe0:
 
     # c2 "Oooh, yes."
-    c2 "Oooh, yes."
+    c2 "哦，好耶。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:879
 translate chinese b1c09s15_sex_karaoke_end_0e97c450:
 
     # "[c1.name]'s lips glide along your shaft, her tongue swirling around your sensitive tip with an expert finesse that sends jolts of ecstasy up your spine."
-    "[c1.name]'s lips glide along your shaft, her tongue swirling around your sensitive tip with an expert finesse that sends jolts of ecstasy up your spine."
+    "[c1.name]的嘴唇滑过你的柱身，她的舌头在你敏感的顶端打圈旋转，熟练的技巧让你的脊椎一阵阵酥麻。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:883
 translate chinese b1c09s15_sex_karaoke_end_61daa315:
 
     # "[c2.name], meanwhile, focuses on the other end of your shaft. Her soft lips and tongue roaming up and down, gently sucking and teasing you, making you twitch in pleasure."
-    "[c2.name], meanwhile, focuses on the other end of your shaft. Her soft lips and tongue roaming up and down, gently sucking and teasing you, making you twitch in pleasure."
+    "与此同时，[c2.name]则专注于你鸡巴的另一端。她柔软的嘴唇和舌头上下游动，轻轻吮吸和挑逗着你，让你忍不住在愉悦中抽搐。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:885
 translate chinese b1c09s15_sex_karaoke_end_2a1cdc30:
 
     # "The sensation is unlike anything you've ever experienced, two sets of soft lips working together in perfect harmony."
-    "The sensation is unlike anything you've ever experienced, two sets of soft lips working together in perfect harmony."
+    "这种感觉是你从未体验过的，两副柔软的嘴唇完美和谐地配合在一起。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:903
 translate chinese b1c09s15_sex_karaoke_end_38f95b76:
 
     # "Their tongues dancing along your length in a tantalizing rhythm that has you writhing beneath them."
-    "Their tongues dancing along your length in a tantalizing rhythm that has you writhing beneath them."
+    "她们的舌头沿着你的粗长有节奏地律动，你不禁在她们的攻击下扭动成一团。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:909
 translate chinese b1c09s15_sex_karaoke_end_ad9b86dd:
 
     # "The warmth and wetness of their mouths combined with the gentle scrape of their teeth against your skin makes you feel ravenous."
-    "The warmth and wetness of their mouths combined with the gentle scrape of their teeth against your skin makes you feel ravenous."
+    "她们嘴里的温暖和湿润，加上牙齿在你的皮肤上轻轻刮擦，让你感到饥渴难耐。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:913
 translate chinese b1c09s15_sex_karaoke_end_33aafbcd:
 
     # "You can't help but thrust between their waiting mouths, losing yourself in the pleasure they're offering."
-    "You can't help but thrust between their waiting mouths, losing yourself in the pleasure they're offering."
+    "你情不自禁地挺进她们等待着的嘴中，沉溺于她们带来的快乐。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:931
 translate chinese b1c09s15_sex_karaoke_end_89e191e2:
 
     # c1 "*Moans* Fuck."
-    c1 "*Moans* Fuck."
+    c1 "*呻吟* 操。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:932
 translate chinese b1c09s15_sex_karaoke_end_c3218fd1:
 
     # c1 "I need to feel you inside me."
-    c1 "I need to feel you inside me."
+    c1 "我需要感觉你在我身体里。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:959
 translate chinese b1c09s15_sex_karaoke_end_f4247557:
 
     # c1 "Fuuuck, [mcname], you feel so good."
-    c1 "Fuuuck, [mcname], you feel so good."
+    c1 "操啊啊，[mcname]，你让我好舒服。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:965
 translate chinese b1c09s15_sex_karaoke_end_6db4f262:
 
     # c2 "I can't believe you just stole him like that!"
-    c2 "I can't believe you just stole him like that!"
+    c2 "真不敢相信你竟然就这样把他抢走了！"
 
 # game/code/Book-1/Chapter-9/s15.rpy:968
 translate chinese b1c09s15_sex_karaoke_end_6a015a34:
 
     # c1 "*Gently moaning* Couldn't help myself."
-    c1 "*Gently moaning* Couldn't help myself."
+    c1 "*轻轻呻吟* 我情不自禁嘛。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:974
 translate chinese b1c09s15_sex_karaoke_end_c8442abe:
 
     # c2 "Slut."
-    c2 "Slut."
+    c2 "荡妇。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:985
 translate chinese b1c09s15_sex_karaoke_end_f548a597:
 
     # "[c1.name]'s hips rock back and forth needily, her pussy enveloping your length and tightening around you, sending waves of pleasure that leave both of you gasping for air."
-    "[c1.name]'s hips rock back and forth needily, her pussy enveloping your length and tightening around you, sending waves of pleasure that leave both of you gasping for air."
+    "[c1.name]的臀部前后摇摆，她的阴部紧紧包裹着你的鸡巴，并且还在不断收紧，一波波的快感让你们喘不过气来。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:992
 translate chinese b1c09s15_sex_karaoke_end_ae674f06:
 
     # "Her breasts bounce in time with her movements, her eyes locked in ecstacy as she grinds her clit on you with every thrust."
-    "Her breasts bounce in time with her movements, her eyes locked in ecstacy as she grinds her clit on you with every thrust."
+    "她的乳房随着她的动作上下扑腾着，她的眼睛紧闭，沉浸在极乐之中，每一次抽插都让她的阴蒂摩擦着你的鸡巴。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:1022
 translate chinese b1c09s15_sex_karaoke_end_d8648dcd:
 
     # "As she rides you, [c2.name]'s hands roam your body, her nails raking lightly along your upper body, teasing you and driving your need for her too."
-    "As she rides you, [c2.name]'s hands roam your body, her nails raking lightly along your upper body, teasing you and driving your need for her too."
+    "当她骑在你身上时，[c2.name]的手在你的身体上游走，她的指甲轻轻划过你的上半身，挑逗着你，也激发着你对她的渴望。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:1039
 translate chinese b1c09s15_sex_karaoke_end_f581953c:
 
     # mc "[c2.name], let me taste you. I want to make you feel good too."
-    mc "[c2.name], let me taste you. I want to make you feel good too."
+    mc "[c2.name]，让我尝尝你的味道。我也想让你爽。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:1042
 translate chinese b1c09s15_sex_karaoke_end_ae85843d:
 
     # c2 "Mm, I was hoping you'd say that."
-    c2 "Mm, I was hoping you'd say that."
+    c2 "嗯，我就希望你会这么说。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:1057
 translate chinese b1c09s15_sex_karaoke_end_d83f7204:
 
     # "[c1.name] leans forward, her breasts bouncing as she pushes herself down onto your cock, her moans muffled by [c2.name]'s lips."
-    "[c1.name] leans forward, her breasts bouncing as she pushes herself down onto your cock, her moans muffled by [c2.name]'s lips."
+    "[c1.name]的身体向前倾，随着她把自己向下压在你的鸡巴上时，她的乳房跟着上下跳动，她的呻吟被[c2.name]的嘴唇所掩盖。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:1063
 translate chinese b1c09s15_sex_karaoke_end_a8528ff8:
 
     # "Their tongues entangle above you, their bodies moving in perfect harmony, creating a symphony of moans that fill the room."
-    "Their tongues entangle above you, their bodies moving in perfect harmony, creating a symphony of moans that fill the room."
+    "她们的舌头在你上方缠绕在一起，她们的身体完美地融合，错落有致的呻吟声交织成一曲交响乐，回荡在房间中。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:1067
 translate chinese b1c09s15_sex_karaoke_end_3de587b5:
 
     # "You can't help but thrust up into [c1.name]'s welcoming depths harder, faster."
-    "You can't help but thrust up into [c1.name]'s welcoming depths harder, faster."
+    "面对[c1.name]为你热情敞开的洞穴，你情不自禁更加用力、更加快速地向上挺进。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:1096
 translate chinese b1c09s15_sex_karaoke_end_385f7868:
 
     # "The tightness of her pussy around your shaft rapidly building your orgasm as your tongue explores [c2.name]'s folds, licking and sucking on her quivering clit."
-    "The tightness of her pussy around your shaft rapidly building your orgasm as your tongue explores [c2.name]'s folds, licking and sucking on her quivering clit."
+    "当你的舌头探索[c2.name]的褶皱、舔舐和吮吸她颤抖的阴蒂时，她的肉洞紧贴着你的柱身，让你高潮的愉悦感迅速攀升。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:1102
 translate chinese b1c09s15_sex_karaoke_end_f91fd6bf:
 
     # "Their scents mingle in the air, [c2.name]'s juices mix on your tongue as they both moan above you."
-    "Their scents mingle in the air, [c2.name]'s juices mix on your tongue as they both moan above you."
+    "她们的气味在空中混合，[c2.name]的淫水在你的舌头上混合，两个情不自已的女孩都在你上方呻吟着。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:1112
 translate chinese b1c09s15_sex_karaoke_end_ffa41ca8:
 
     # c1 "*Loudly moaning* Oh fu-fuck, [mcname], don't stop!"
-    c1 "*Loudly moaning* Oh fu-fuck, [mcname], don't stop!"
+    c1 "*大声呻吟* 哦，天哪，[mcname]，继续干我，不要停！"
 
 # game/code/Book-1/Chapter-9/s15.rpy:1113
 translate chinese b1c09s15_sex_karaoke_end_35b863f7:
 
     # c2 "*Hitched moans* I-I, fuck, I'm gonna cum."
-    c2 "*Hitched moans* I-I, fuck, I'm gonna cum."
+    c2 "*闷哼* 我--我，我，我要高潮了。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:1128
 translate chinese b1c09s15_sex_karaoke_end_9f59a8e7:
 
     # "As if on cue, you feel [c2.name] greedily rub her clit on your tongue clench around your head as she cums on your face."
-    "As if on cue, you feel [c2.name] greedily rub her clit on your tongue clench around your head as she cums on your face."
+    "仿佛在暗示一样，你感觉到[c2.name]贪婪地在你的舌头上摩擦她的阴蒂，她的手紧紧抓住你的头，因为她要在你的脸上高潮。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:1132
 translate chinese b1c09s15_sex_karaoke_end_36061f14:
 
     # c2 "*Moaning* I-I'm cumming! Don't stop!"
-    c2 "*Moaning* I-I'm cumming! Don't stop!"
+    c2 "*呻吟着* 我--我要来了！不要停啊啊啊！"
 
 # game/code/Book-1/Chapter-9/s15.rpy:1136
 translate chinese b1c09s15_sex_karaoke_end_1141d512:
 
     # "As [c2.name] cums on your tongue, you grab [c1.name]'s ass and push yourself in to the hilt."
-    "As [c2.name] cums on your tongue, you grab [c1.name]'s ass and push yourself in to the hilt."
+    "当[c2.name]在你的舌头上高潮时，你抓住[c1.name]的屁股，将自己插入到最深处。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:1145
 translate chinese b1c09s15_sex_karaoke_end_880bde4b:
 
     # "Your flood her pussy with your cum."
-    "Your flood her pussy with your cum."
+    "你的精液瞬间涌入她的小穴。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:1146
 translate chinese b1c09s15_sex_karaoke_end_4fe4b79f:
 
     # "The feeling of you roughly flooding her walls with your cum causes her to clench and cum hard."
-    "The feeling of you roughly flooding her walls with your cum causes her to clench and cum hard."
+    "你粗暴地将精液灌入她的子宫，这让她的肉壁紧紧收缩，高潮一浪接着一浪。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:1155
 translate chinese b1c09s15_sex_karaoke_end_10de9ea6:
 
     # "The room is filled with soft moans as your collective orgasm rips through your bodies."
-    "The room is filled with soft moans as your collective orgasm rips through your bodies."
+    "你们集体达到了高潮，房间里充满了轻柔的呻吟声。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:1167
 translate chinese b1c09s15_sex_karaoke_end_90d5d8ab:
 
     # "As [c2.name]'s orgasm pulses over you, [c1.name] grinds herself harder on your cock"
-    "As [c2.name]'s orgasm pulses over you, [c1.name] grinds herself harder on your cock"
+    "当[c2.name]还因高潮在你身上跳动时，[c1.name]在你的鸡巴上磨蹭得更加用力。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:1168
 translate chinese b1c09s15_sex_karaoke_end_2eea37aa:
 
     # "Her eyes rolling back in ecstasy and her nails digging into your thighs as she follows [c2.name] over the edge."
-    "Her eyes rolling back in ecstasy and her nails digging into your thighs as she follows [c2.name] over the edge."
+    "她双眼翻白，陷入狂喜，指甲深深地陷入你的大腿，跟随[c2.name]一起到达高潮。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:1169
 translate chinese b1c09s15_sex_karaoke_end_1a2853ac:
 
     # "Their shared orgasms pulse through you, their wetness coating your cock and your face as they ride out their climaxes together, their bodies pressed flush against yours."
-    "Their shared orgasms pulse through you, their wetness coating your cock and your face as they ride out their climaxes together, their bodies pressed flush against yours."
+    "她们共同到达高潮，快感传遍你的全身，你的鸡巴和你的脸都被她们的爱液覆盖，她们的身体紧贴着你的身体。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:1179
 translate chinese b1c09s15_sex_karaoke_end_f200264f:
 
     # mc "*Whispers* Turn to the side, I'm not done with you yet."
-    mc "*Whispers* Turn to the side, I'm not done with you yet."
+    mc "*耳语* 转到一边去，我还没和你完事呢。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:1185
 translate chinese b1c09s15_sex_karaoke_end_4bbefc3f:
 
     # mc "Do you wanna taste [c2.name] as I fuck her, [c1.name]?"
-    mc "Do you wanna taste [c2.name] as I fuck her, [c1.name]?"
+    mc "[c1.name]，你想在我干[c2.name]的时候尝尝她的味道吗？"
 
 # game/code/Book-1/Chapter-9/s15.rpy:1188
 translate chinese b1c09s15_sex_karaoke_end_44023842:
 
     # c1 "Overstimulate her little clit as you fill her up? Yes, please."
-    c1 "Overstimulate her little clit as you fill her up? Yes, please."
+    c1 "在你填满她的时候让我刺激她的小阴蒂吗？好哎，求你了。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:1194
 translate chinese b1c09s15_sex_karaoke_end_e793a80f:
 
     # "Slowly, you guide your hard cock to [c2.name]'s wet pussy, her slickness dripping down her thighs as you tease her entrance."
-    "Slowly, you guide your hard cock to [c2.name]'s wet pussy, her slickness dripping down her thighs as you tease her entrance."
+    "慢慢地，你引导着坚硬的肉棒滑入[c2.name]湿润的小穴，当你还在她入口处戏谑挑逗时，滑腻的液体顺着她的大腿滴落下来。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:1200
 translate chinese b1c09s15_sex_karaoke_end_c20b37c5:
 
     # "[c2.name] gasps in anticipation, her breath catching in her throat as she feels your tip brush against her swollen folds."
-    "[c2.name] gasps in anticipation, her breath catching in her throat as she feels your tip brush against her swollen folds."
+    "[c2.name]期待地喘着粗气，当你的龟头在她肿胀的阴唇间轻轻摩擦时，她的呼吸在喉咙里哽住了。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:1208
 translate chinese b1c09s15_sex_karaoke_end_79077bcc:
 
     # "[c1.name] kneels down and buries her face between [c2.name]'s legs, lapping at her clit with abandon as you begin to push inside."
-    "[c1.name] kneels down and buries her face between [c2.name]'s legs, lapping at her clit with abandon as you begin to push inside."
+    "[c1.name]跪下来，把她的脸埋在[c2.name]的两腿之间，当你开始向内推进时，她放肆地舔着[c2.name]的阴蒂。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:1211
 translate chinese b1c09s15_sex_karaoke_end_9f979996:
 
     # "[c2.name] moans out loudly, arching her back against the intrusion of your cock and the teasing touch of [c1.name]'s tongue."
-    "[c2.name] moans out loudly, arching her back against the intrusion of your cock and the teasing touch of [c1.name]'s tongue."
+    "[c2.name]大声呻吟，弓起背来抵御你鸡巴的插入，以及[c1.name]舌头的挑逗。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:1220
 translate chinese b1c09s15_sex_karaoke_end_3833644b:
 
     # "Her walls envelop you completely, squeezing you greedily with every thrust as you fuck her nice and hard, filling the air with the sound of her wetness."
-    "Her walls envelop you completely, squeezing you greedily with every thrust as you fuck her nice and hard, filling the air with the sound of her wetness."
+    "她的肉壁完全包裹着你，在你用力地干她时，随着每一次抽插，她下面都贪婪地挤压着你，空气中充满了她黏腻的声音。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:1225
 translate chinese b1c09s15_sex_karaoke_end_0a6d39f7:
 
     # c2 "*Loudly moaning* Fu-uuck, [mcname], oh God yes! [c1.name], don't stop!"
-    c2 "*Loudly moaning* Fu-uuck, [mcname], oh God yes! [c1.name], don't stop!"
+    c2 "*大声呻吟* 操，[mcname]，哦，天啊，太爽了！[c1.name]，别停！"
 
 # game/code/Book-1/Chapter-9/s15.rpy:1237
 translate chinese b1c09s15_sex_karaoke_end_b8b080ff:
 
     # "[c2.name] bucks and writhes below you, her palms flat on the bed as she surrenders to the overwhelming sensations coursing through her body."
-    "[c2.name] bucks and writhes below you, her palms flat on the bed as she surrenders to the overwhelming sensations coursing through her body."
+    "[c2.name]在你身下来回扭动，手掌平放在床上，她全身被强烈的快感所淹没，无力抵抗。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:1247
 translate chinese b1c09s15_sex_karaoke_end_9100684c:
 
     # "Your hands grip her hips, guiding your cock even deeper inside her as [c1.name]'s mouth continues to work its magic on her swollen clit."
-    "Your hands grip her hips, guiding your cock even deeper inside her as [c1.name]'s mouth continues to work its magic on her swollen clit."
+    "你的双手抓住她的屁股，引导你的鸡巴更深地进入她的体内，而[c1.name]的嘴巴继续在她肿胀的阴蒂处攻城略地。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:1264
 translate chinese b1c09s15_sex_karaoke_end_5e838ea2:
 
     # mc "Fuck, I'm gonna cum, [c2.name]... I'm gonna fill you up."
-    mc "Fuck, I'm gonna cum, [c2.name]... I'm gonna fill you up."
+    mc "操，我要射了，[c2.name]...我要把你填满。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:1276
 translate chinese b1c09s15_sex_karaoke_end_4afcfc90:
 
     # "With a final, hard thrust, you bury yourself to the hilt and let go, your climax ripping through you as you fill her tight pussy with your hot, sticky cum."
-    "With a final, hard thrust, you bury yourself to the hilt and let go, your climax ripping through you as you fill her tight pussy with your hot, sticky cum."
+    "你最后猛地一冲，深深地插了进去然后释放，高潮如潮水般涌来，你热乎乎的、黏稠的精液灌满了她紧窄的小穴。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:1277
 translate chinese b1c09s15_sex_karaoke_end_82cd58f2:
 
     # "[c2.name]'s pussy contracts around your cock, milking every drop from you as she moans out her own orgasm."
-    "[c2.name]'s pussy contracts around your cock, milking every drop from you as she moans out her own orgasm."
+    "[c2.name]的小穴紧紧包裹着你的家伙，在她呻吟着达到高潮的同时，她也将你的精液一滴不剩地榨干。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:1282
 translate chinese b1c09s15_sex_karaoke_end_884a6cc3:
 
     # mc "*Panting* Fuck... that was... amazing."
-    mc "*Panting* Fuck... that was... amazing."
+    mc "*喘气* 操...太...爽了。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:1285
 translate chinese b1c09s15_sex_karaoke_end_e7ce4b67:
 
     # c2 "*Panting* Y-yeah..."
-    c2 "*Panting* Y-yeah..."
+    c2 "*喘气* 呼--是啊..."
 
 # game/code/Book-1/Chapter-9/s15.rpy:1290
 translate chinese b1c09s15_sex_karaoke_end_8d84178a:
 
     # mc "*Whispers* Finish it off, [c1.name]. I want to see you swallow every drop."
-    mc "*Whispers* Finish it off, [c1.name]. I want to see you swallow every drop."
+    mc "*低语* 收尾吧，[c1.name]。我想看你把每一滴都吞下去。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:1308
 translate chinese b1c09s15_end_648a9a03:
 
     # "The three of you lay together, bodies tangled and hearts beating in sync. A comfortable silence settles over the room, broken only by the occasional contented sigh or soft giggle."
-    "The three of you lay together, bodies tangled and hearts beating in sync. A comfortable silence settles over the room, broken only by the occasional contented sigh or soft giggle."
+    "你们三个躺在一起，身体纠缠在一起，心脏同步跳动着。房间里一片宁静，只有偶尔发出满足的叹息或轻声笑语来打破这种宁静。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:1309
 translate chinese b1c09s15_end_a8fd8b18:
 
     # "[c1.name] props herself up on one elbow, studying your faces with a tender smile."
-    "[c1.name] props herself up on one elbow, studying your faces with a tender smile."
+    "[c1.name]用一只胳膊肘支撑起身体，带着温柔的微笑端详着你们的脸。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:1316
 translate chinese b1c09s15_end_cfbc52a5:
 
     # c1 "As messed up as everything has been lately, I'm really glad I have you two in my life."
-    c1 "As messed up as everything has been lately, I'm really glad I have you two in my life."
+    c1 "虽然最近发生了很多事都一团乱，但我真的很高兴有你们两个在我身边。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:1317
 translate chinese b1c09s15_end_3770472a:
 
     # "[c2.name] nods, reaching over to give [c1.name]'s hand an affectionate squeeze."
-    "[c2.name] nods, reaching over to give [c1.name]'s hand an affectionate squeeze."
+    "[c2.name]点点头，伸手温柔地握住了[c1.name]的手。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:1323
 translate chinese b1c09s15_end_f8c7e4e9:
 
     # c2 "Me too."
-    c2 "Me too."
+    c2 "我也是。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:1324
 translate chinese b1c09s15_end_d9860491:
 
     # "You return their smiles, wrapping an arm around each of them and pulling them close into a tight hug."
-    "You return their smiles, wrapping an arm around each of them and pulling them close into a tight hug."
+    "你回以微笑，分别环住她们的手臂，紧紧地拥抱在一起。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:1337
 translate chinese b1c09s15_end_91b7044a:
 
     # "A jaw-cracking yawn escapes [c2.name], and she laughs sheepishly."
-    "A jaw-cracking yawn escapes [c2.name], and she laughs sheepishly."
+    "[c2.name]打了个哈欠，夸张到不可思议，然后她不好意思地笑了起来。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:1338
 translate chinese b1c09s15_end_254855e1:
 
     # c2 "Sorry, I guess all that fun really took it out of me."
-    c2 "Sorry, I guess all that fun really took it out of me."
+    c2 "抱歉，我想刚才是太开心了，所以没力气了。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:1340
 translate chinese b1c09s15_end_c546519e:
 
     # mc "*Yawns* Me too, but I wouldn't have it any other way."
-    mc "*Yawns* Me too, but I wouldn't have it any other way."
+    mc "*哈欠* 我也是，但我不后悔。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:1349
 translate chinese b1c09s15_end_0ac3d601:
 
     # "With a few more murmured words and gentle kisses, you settle back against the pillows, the solid warmth of your companions surrounding you."
-    "With a few more murmured words and gentle kisses, you settle back against the pillows, the solid warmth of your companions surrounding you."
+    "你又低声说了几句话，轻轻地吻了一下，然后重新倚靠在枕头上，你的同伴们坚实的温暖包围着你。"
 
 # game/code/Book-1/Chapter-9/s15.rpy:1350
 translate chinese b1c09s15_end_e073c227:
 
     # "One by one, your breathing slows and your eyelids grow heavy, until at last you drift off into a deep, peaceful slumber, cocooned in the sanctuary you've created together."
-    "One by one, your breathing slows and your eyelids grow heavy, until at last you drift off into a deep, peaceful slumber, cocooned in the sanctuary you've created together."
+    "你的呼吸逐渐变缓，眼皮越来越沉，直到最后坠入深沉而宁静的梦乡，蜷缩在你们共同创造的避风港里。"
 
 translate chinese strings:
 
     # game/code/Book-1/Chapter-9/s15.rpy:1117
     old "Cum with [c1.name]"
-    new "Cum with [c1.name]"
+    new "和[c1.name]一起高潮"
 
     # game/code/Book-1/Chapter-9/s15.rpy:1117
     old "Hold on longer"
-    new "Hold on longer"
+    new "再坚持一会儿"
 
