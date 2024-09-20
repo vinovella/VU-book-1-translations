@@ -1574,11 +1574,11 @@ translate portuguese strings:
 translate portuguese b1c08ss09_722183e0:
 
     # mc "No, no I'm fine. Got a headache and a cut hand, that's about it."
-    mc "No, no I'm fine. Got a headache and a cut hand, that's about it."
+    mc "Não, estou bem. Dor de cabeça e corte na mão, mas foi só isso."
 
 # game/code/Book-1/Chapter-8s/s09.rpy:707
 translate portuguese b1c08ss09_e47325aa:
 
     # "Morgan's so focused on breaking through your defenses, she loses track of her weak points."
-    "Morgan's so focused on breaking through your defenses, she loses track of her weak points."
+    "A Morgan está tão focada em penetrações defesas que perde noção dos próprios pontos fracos."
 
