@@ -8,13 +8,13 @@ translate spanish b1c08ss09_9bc40135:
 translate spanish b1c08ss09_d4665195:
 
     # "After escaping Hellena's domain, you managed to orient yourself and find your way home. You traveled through secluded alleyways and quiet streets, hoping to avoid detection by anyone."
-    "Después de escapar del dominio de Hellena, lograste orientarte y encontrar el camino a casa. Viajaste por callejones apartados y calles tranquilas, con la esperanza de evitar que nadie te detectara."
+    "Tras escapar de los dominios de Hellena, lograste orientarte y encontrar el camino a casa. Viajaste por callejones solitarios y calles tranquilas, con la esperanza de no ser detectado por nadie."
 
 # game/code/Book-1/Chapter-8s/s09.rpy:19
 translate spanish b1c08ss09_d8840204:
 
     # "Eventually, you made it to familiar territory."
-    "Finalmente, llegaste a territorio familiar."
+    "Finalmente, llegaste a un territorio familiar."
 
 # game/code/Book-1/Chapter-8s/s09.rpy:26
 translate spanish b1c08ss09_08c6d9ef:
@@ -32,13 +32,13 @@ translate spanish b1c08ss09_943b5966:
 translate spanish b1c08ss09_e29ae584:
 
     # mc "I'm good. I'm okay. I got out."
-    mc "Estoy bien. Estoy bien. Voy a salir."
+    mc "Estoy bien. Estoy bien. Conseguí escapar."
 
 # game/code/Book-1/Chapter-8s/s09.rpy:37
 translate spanish b1c08ss09_a8020941:
 
     # ffl "I— We were so worried about you. I'm so sorry—"
-    ffl "Yo... Estábamos muy preocupados por ti. Lo siento mucho-"
+    ffl "Yo... Estábamos muy preocupadas por ti. Lo siento mucho-"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:40
 translate spanish b1c08ss09_5d987c2d:
@@ -62,7 +62,7 @@ translate spanish b1c08ss09_cf0b0cf7:
 translate spanish b1c08ss09_a9265965:
 
     # mc "No, I—"
-    mc "No yo-"
+    mc "No, yo-"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:51
 translate spanish b1c08ss09_1c854379:
@@ -74,7 +74,7 @@ translate spanish b1c08ss09_1c854379:
 translate spanish b1c08ss09_22ff7f68:
 
     # ffl "Haven't we all been shaken up enough by this whole mess? We don't need anymore violence."
-    ffl "¿No nos ha conmocionado a todos lo suficiente todo este problema? No necesitamos más violencia."
+    ffl "¿No nos ha afectado bastante todo este problema? No necesitamos más violencia."
 
 # game/code/Book-1/Chapter-8s/s09.rpy:58
 translate spanish b1c08ss09_1fcbb720:
@@ -98,7 +98,7 @@ translate spanish b1c08ss09_e30c7256:
 translate spanish b1c08ss09_0136f253:
 
     # mc "Jesus. You put straight moonshine on this thing?"
-    mc "Jesús. ¿Le pusiste alcohol ilegal a esta cosa?"
+    mc "Jesús. ¿Le pusiste alcohol puro a esta cosa?"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:70
 translate spanish b1c08ss09_b9766c20:
@@ -116,13 +116,13 @@ translate spanish b1c08ss09_08ce9087:
 translate spanish b1c08ss09_04a6e34d:
 
     # mc "Really, it's not even that deep. Just a scrape—"
-    mc "En realidad, ni siquiera es tan profundo. Sólo un rasguño"
+    mc "En realidad, ni siquiera es tan profundo. Sólo un rasguño."
 
 # game/code/Book-1/Chapter-8s/s09.rpy:80
 translate spanish b1c08ss09_f9998d84:
 
     # ffl "Thank you for all you did. You rescued my friends. I was so worried. You're incredible."
-    ffl "Gracias por todo lo que hiciste. Rescataste a mis amigos. Estaba muy preocupada. Eres increible."
+    ffl "Gracias por todo lo que hiciste. Rescataste a mis amigos. Estaba tan preocupada. Eres increíble."
 
 # game/code/Book-1/Chapter-8s/s09.rpy:82
 translate spanish b1c08ss09_b46736c0:
@@ -212,7 +212,7 @@ translate spanish b1c08ss09_642e3b09:
 translate spanish b1c08ss09_cd832d36:
 
     # ass "I'll say! Fleur and I are tending to their wounds while they recover, and all they wanna do is brag about the insults they shouted at Cade and complain about my nursing skills."
-    ass "¡Yo diré! Fleur y yo estamos atendiendo sus heridas mientras se recuperan, y todo lo que quieren hacer es alardear de los insultos que le gritaron a Cade y quejarse de mis habilidades de enfermería."
+    ass "¡Ya lo creo! Fleur y yo estamos atendiendo sus heridas mientras se recuperan, y lo único que quieren hacer es alardear de los insultos que le gritaron a Cade y quejarse de mis dotes de enfermera."
 
 # game/code/Book-1/Chapter-8s/s09.rpy:122
 translate spanish b1c08ss09_2d415256:
@@ -242,7 +242,7 @@ translate spanish b1c08ss09_c7044b49:
 translate spanish b1c08ss09_7ff41de0:
 
     # ass "They're recovering, though. It'll take some time, but they'll be okay."
-    ass "Aunque se están recuperando. Tomará algún tiempo, pero estarán bien."
+    ass "Pero se están recuperando. Llevará algún tiempo, pero estarán bien."
 
 # game/code/Book-1/Chapter-8s/s09.rpy:135
 translate spanish b1c08ss09_44d6df54:
@@ -266,7 +266,7 @@ translate spanish b1c08ss09_1e20071f:
 translate spanish b1c08ss09_f5b67058:
 
     # zp "We didn't...the cam workers needed to..."
-    zp "Nosotros no... los trabajadores de la cámara necesitaban..."
+    zp "Nosotros no... los trabajadores de las cámaras necesitaban..."
 
 # game/code/Book-1/Chapter-8s/s09.rpy:148
 translate spanish b1c08ss09_3a3068bc:
@@ -290,7 +290,7 @@ translate spanish b1c08ss09_c2ec1dca:
 translate spanish b1c08ss09_6f79bc47:
 
     # mc "I know, I know. I got out, though."
-    mc "Lo sé, lo sé. Pero salí."
+    mc "Lo sé, lo sé. Pero me fui por mi cuenta."
 
 # game/code/Book-1/Chapter-8s/s09.rpy:160
 translate spanish b1c08ss09_bb0f66a3:
@@ -328,6 +328,12 @@ translate spanish b1c08ss09_5d0250bf:
     # "You feel the women's gazes on you, scanning you for any hidden injuries or discomforts they could tend to."
     "Sientes las miradas de las mujeres sobre ti, escudriñándote en busca de lesiones o molestias ocultas que puedan atender."
 
+# game/code/Book-1/Chapter-8s/s09.rpy:177
+translate spanish b1c08ss09_1fd63701:
+
+    # mc "No, no I'm fine. Just the hand."
+    mc "No, no, estoy bien. Sólo la mano."
+
 # game/code/Book-1/Chapter-8s/s09.rpy:180
 translate spanish b1c08ss09_46c9561b:
 
@@ -344,13 +350,13 @@ translate spanish b1c08ss09_b2ab10cc:
 translate spanish b1c08ss09_00b0fec1:
 
     # ass "Get plenty of rest and let us know if there's anything you need."
-    ass "Descanse lo suficiente y avísenos si necesita algo."
+    ass "Descansa lo suficiente y avísanos si necesitas algo."
 
 # game/code/Book-1/Chapter-8s/s09.rpy:192
 translate spanish b1c08ss09_71ffba61:
 
     # mc "I will, I will. I promise. But until then, I can at least go say hello to the others and talk to Xasan."
-    mc "Lo haré lo haré. Lo prometo. Pero hasta entonces, al menos puedo ir a saludar a los demás y hablar con Xasan."
+    mc "Lo haré, lo haré. Lo prometo. Pero hasta entonces, al menos puedo ir a saludar a los demás y hablar con Xasan."
 
 # game/code/Book-1/Chapter-8s/s09.rpy:200
 translate spanish b1c08ss09_76c14acd:
@@ -650,7 +656,7 @@ translate spanish b1c08ss09_bc5dfead:
 translate spanish b1c08ss09_d1ab8489:
 
     # mc "Considering I'm the fucking one who kept you safe, I'd say so."
-    mc "Considerando que soy yo quien te mantuvo a salvo, lo diría."
+    mc "Considerando que soy el maldito que te mantuvo a salvo, yo diría que sí."
 
 # game/code/Book-1/Chapter-8s/s09.rpy:363
 translate spanish b1c08ss09_495c4e0b:
@@ -668,13 +674,13 @@ translate spanish b1c08ss09_32c95a6d:
 translate spanish b1c08ss09_16f00a9b:
 
     # mc "Some way of protecting you have. Keeping everyone in the fuckin' dark and scaring everyone."
-    mc "Alguna forma de protegerte tienes. Manteniendo a todos en la maldita oscuridad y asustando a todos."
+    mc "Vaya forma de protección que tienes. Manteniendo a todo el mundo en la maldita oscuridad y asustando a todos."
 
 # game/code/Book-1/Chapter-8s/s09.rpy:370
 translate spanish b1c08ss09_19a65d94:
 
     # xv "Shut the fuck up, you ignorant limpdick."
-    xv "Cállate, idiota ignorante."
+    xv "Cierra la puta boca, ignorante."
 
 # game/code/Book-1/Chapter-8s/s09.rpy:377
 translate spanish b1c08ss09_9491a80e:
@@ -806,7 +812,7 @@ translate spanish b1c08ss09_7f6b0e75:
 translate spanish b1c08ss09_9fe126f2:
 
     # xv "Maybe you should consider your own role in The Syndicate before you start judging how it's run, Morgan."
-    xv "Quizás deberías considerar tu propio papel en el Sindicato antes de empezar a juzgar cómo se gestiona, Morgan."
+    xv "Quizás deberías considerar tu propio papel en El Sindicato antes de empezar a juzgar cómo se gestiona, Morgan."
 
 # game/code/Book-1/Chapter-8s/s09.rpy:434
 translate spanish b1c08ss09_2704da75:
@@ -824,7 +830,7 @@ translate spanish b1c08ss09_966f13c9:
 translate spanish b1c08ss09_33123e68:
 
     # xv "I did what I fucking had to, Morgan! This was to protect everyone here, including you!"
-    xv "¡Hice lo que tenía que hacer, Morgan! ¡Esto fue para proteger a todos aquí, incluida a ti!"
+    xv "¡Hice lo que tenía que hacer, Morgan! ¡Era para proteger a todos aquí, incluyéndote a ti!"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:443
 translate spanish b1c08ss09_5a715d15:
@@ -872,7 +878,7 @@ translate spanish b1c08ss09_9c309990:
 translate spanish b1c08ss09_a9864f3c:
 
     # zp "[mcname] barely knows anyone here, and yet he's risking everything for The Syndicate. He believes in us, and you let him down!"
-    zp "[mcname] apenas conoce a nadie aquí, y aún así está arriesgando todo por el Sindicato. ¡Cree en nosotros, y tú lo has decepcionado!"
+    zp "[mcname] apenas conoce a nadie aquí, y aún así está arriesgando todo por El Sindicato. ¡Cree en nosotros, y tú lo has decepcionado!"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:462
 translate spanish b1c08ss09_f3466e68:
@@ -890,7 +896,7 @@ translate spanish b1c08ss09_7b47b179:
 translate spanish b1c08ss09_f165a22e:
 
     # xv "Exactly. And he's not even one of us, Zem! He's a fuckin' stray off the street, and you think he's the second coming of Christ? Be fucking rational!"
-    xv "Exactamente. ¡Y ni siquiera es uno de nosotros, Zem! Es un maldito callejero, ¿y crees que es la segunda venida de Cristo? ¡Sé jodidamente racional!"
+    xv "Exactamente. ¡Y ni siquiera es uno de nosotros, Zem! Es un maldito callejero, ¿y crees que es la segunda venida de Cristo? ¡Sé racional maldita sea!"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:470
 translate spanish b1c08ss09_e6e18d0a:
@@ -902,13 +908,13 @@ translate spanish b1c08ss09_e6e18d0a:
 translate spanish b1c08ss09_fe9be33b:
 
     # zp "You didn't involve the rest of us, so [mcname] ended up picking up that slack and saving you when no one else knew what the fuck you were doing."
-    zp "No involucraste al resto de nosotros, así que [mcname] terminó tomando el relevo y salvándote cuando nadie más sabía qué carajo estabas haciendo."
+    zp "No involucraste al resto de nosotras, así que [mcname] terminó tomando el relevo y salvándote cuando nadie más sabía qué carajo estabas haciendo."
 
 # game/code/Book-1/Chapter-8s/s09.rpy:473
 translate spanish b1c08ss09_0727d09c:
 
     # zp "If that isn't what being a part of this gang is about, then I don't know what fucking is."
-    zp "Si de eso no se trata ser parte de esta pandilla, entonces no sé qué es joder."
+    zp "Si eso no es formar parte de esta pandilla, entonces no sé qué mierda es."
 
 # game/code/Book-1/Chapter-8s/s09.rpy:475
 translate spanish b1c08ss09_54f6903f:
@@ -968,7 +974,7 @@ translate spanish b1c08ss09_bc65a33d:
 translate spanish b1c08ss09_35ab6918:
 
     # xv "We all had to face trials to get into this gang. This is yours."
-    xv "Todos tuvimos que afrontar pruebas para entrar en esta pandilla. Esto es tuyo."
+    xv "Todos tuvimos que enfrentarnos a pruebas para entrar en esta pandilla. Esta es la suya."
 
 # game/code/Book-1/Chapter-8s/s09.rpy:504
 translate spanish b1c08ss09_42a4f2da:
@@ -992,19 +998,19 @@ translate spanish b1c08ss09_ec16bad7:
 translate spanish b1c08ss09_389bb602:
 
     # mg "Will this affect my debts to The Syndicate?"
-    mg "¿Esto afectará mis deudas con el Sindicato?"
+    mg "¿Esto afectará mis deudas con El Sindicato?"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:515
 translate spanish b1c08ss09_c9e5bfaf:
 
     # xv "Sure. Fine."
-    xv "Seguro. Bien."
+    xv "Claro que sí."
 
 # game/code/Book-1/Chapter-8s/s09.rpy:518
 translate spanish b1c08ss09_24483e3a:
 
     # xv "You'll get a heavy percentage removed from your debt."
-    xv "Se le eliminará un gran porcentaje de su deuda."
+    xv "Te quitarán un alto porcentaje de tu deuda."
 
 # game/code/Book-1/Chapter-8s/s09.rpy:521
 translate spanish b1c08ss09_52304604:
@@ -1034,7 +1040,7 @@ translate spanish b1c08ss09_96149a15:
 translate spanish b1c08ss09_ccc6f49d:
 
     # xv "Foxy, mediate the fight."
-    xv "Foxy, media en la pelea."
+    xv "Foxy, arbitra la pelea."
 
 # game/code/Book-1/Chapter-8s/s09.rpy:535
 translate spanish b1c08ss09_74f0c03a:
@@ -1064,7 +1070,7 @@ translate spanish b1c08ss09_f19d678b:
 translate spanish b1c08ss09_37ab4414:
 
     # mg "You got this."
-    mg "Lo tienes."
+    mg "Lo entiendes."
 
 # game/code/Book-1/Chapter-8s/s09.rpy:547
 translate spanish b1c08ss09_3c123913:
@@ -1082,7 +1088,7 @@ translate spanish b1c08ss09_61bc3540:
 translate spanish b1c08ss09_e568b56d:
 
     # mct "Corinne will be happy to hear that Morgan has less debt now, at least."
-    mct "A Corinne le alegrará saber que Morgan tiene menos deuda ahora, al menos."
+    mct "Corinne estará feliz de saber que al menos Morgan tiene ahora menos deudas."
 
 # game/code/Book-1/Chapter-8s/s09.rpy:556
 translate spanish b1c08ss09_bfe0d6d1:
@@ -1118,7 +1124,7 @@ translate spanish b1c08ss09_76076ef0:
 translate spanish b1c08ss09_4f6aac04:
 
     # fox "Fighters, ready your stances!"
-    fox "¡Luchadores, preparen sus posturas!"
+    fox "¡Luchadores, preparados!"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:573
 translate spanish b1c08ss09_12d3564c:
@@ -1130,7 +1136,7 @@ translate spanish b1c08ss09_12d3564c:
 translate spanish b1c08ss09_d709091b:
 
     # fox "And fight!"
-    fox "¡Y pelea!"
+    fox "¡Y a luchar!"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:578
 translate spanish b1c08ss09_0691aa58:
@@ -1142,7 +1148,7 @@ translate spanish b1c08ss09_0691aa58:
 translate spanish b1c08ss09_5a19ae1a:
 
     # "Her jaw is set, her muscles taut as she shifts around you. Morgan's fiery gaze holds a mix of determination and adrenaline as she squares her shoulders."
-    "Su mandíbula está apretada, sus músculos tensos mientras se mueve a tu alrededor. La mirada ardiente de Morgan contiene una mezcla de determinación y adrenalina mientras cuadra los hombros."
+    "Tiene la mandíbula apretada y los músculos tensos mientras se mueve a tu alrededor. La mirada ardiente de Morgan contiene una mezcla de determinación y adrenalina a medida que endereza los hombros."
 
 # game/code/Book-1/Chapter-8s/s09.rpy:584
 translate spanish b1c08ss09_aa653c38:
@@ -1160,7 +1166,7 @@ translate spanish b1c08ss09_ee00f449:
 translate spanish b1c08ss09_bb29d68c:
 
     # "The onslaught of Morgan's intense strikes seems to go on forever. You and her, locked in a dance of advance and evade. Evenly matched."
-    "El ataque de los intensos ataques de Morgan parece durar una eternidad. Tú y ella, encerrados en una danza de avance y evasión. Emparejado."
+    "La embestida de los intensos golpes de Morgan parece no tener fin. Ella y tú, atrapados en una danza de avances y evasiones. En igualdad de condiciones."
 
 # game/code/Book-1/Chapter-8s/s09.rpy:593
 translate spanish b1c08ss09_49dd175c:
@@ -1190,7 +1196,7 @@ translate spanish b1c08ss09_01987f78:
 translate spanish b1c08ss09_72709711:
 
     # mct "I can't go all out on Morgan. Corinne would have my head on a stick."
-    mct "No puedo arriesgarme con Morgan. Corinne me clavaría la cabeza en un palo."
+    mct "No puedo ir con todo con Morgan. Corinne clavaría mi cabeza en un palo."
 
 # game/code/Book-1/Chapter-8s/s09.rpy:600
 translate spanish b1c08ss09_ecfd8413:
@@ -1268,7 +1274,7 @@ translate spanish b1c08ss09_175a5f42:
 translate spanish b1c08ss09_745d3795:
 
     # "The fluid exchange of blows between you and Morgan seems endless. The intensity grows instead of dissipates, and you find yourself impressed with such an indomitable fighter."
-    "El fluido intercambio de golpes entre Morgan y tú parece interminable. La intensidad crece en lugar de disiparse, y te impresiona un luchador tan indomable."
+    "El fluido intercambio de golpes entre Morgan y tú parece interminable. La intensidad crece en lugar de disiparse, y te impresiona una luchadora tan indomable."
 
 # game/code/Book-1/Chapter-8s/s09.rpy:662
 translate spanish b1c08ss09_071d39c7:
@@ -1280,13 +1286,13 @@ translate spanish b1c08ss09_071d39c7:
 translate spanish b1c08ss09_a338de29:
 
     # "You stagger backward, seeing stars from the brutal shot."
-    "Te tambaleas hacia atrás y ves las estrellas del brutal disparo."
+    "Te tambaleas hacia atrás, viendo las estrellas por el brutal golpe."
 
 # game/code/Book-1/Chapter-8s/s09.rpy:669
 translate spanish b1c08ss09_70add9ab:
 
     # "You retaliate with a lightning fast front kick to her abdomen, but she evades it by lurching backward."
-    "Tomas represalias con una rápida patada frontal en su abdomen, pero ella la evade tirándose hacia atrás."
+    "Contraatacas con una patada frontal a su abdomen, pero ella la esquiva dando un salto hacia atrás."
 
 # game/code/Book-1/Chapter-8s/s09.rpy:670
 translate spanish b1c08ss09_c955ab67:
@@ -1298,7 +1304,7 @@ translate spanish b1c08ss09_c955ab67:
 translate spanish b1c08ss09_2a043018:
 
     # "Heavy breaths create rhythmic echoes throughout the fight club, punctuated by the sound of fleshy punches."
-    "Las respiraciones pesadas crean ecos rítmicos en todo el club de lucha, puntuados por el sonido de golpes carnosos."
+    "Las respiraciones pesadas crean ecos rítmicos en todo el club de lucha, puntuados por el sonido de los puñetazos encarnizados."
 
 # game/code/Book-1/Chapter-8s/s09.rpy:672
 translate spanish b1c08ss09_c3f6a1cb:
@@ -1322,13 +1328,13 @@ translate spanish b1c08ss09_f0c4ed68:
 translate spanish b1c08ss09_4378b0fe:
 
     # "You block the punches, but your strength is weakening with her upperhand."
-    "Bloqueas los golpes, pero tu fuerza se debilita con su ventaja."
+    "Bloqueas los golpes, pero tu fuerza se debilita con su superioridad."
 
 # game/code/Book-1/Chapter-8s/s09.rpy:686
 translate spanish b1c08ss09_c4284496:
 
     # mct "Fuck, fuck! If she keeps at this pace I'll have to tap out. I need to get myself free!"
-    mct "¡Joder, joder! Si ella mantiene este ritmo tendré que hacer tapping. ¡Necesito liberarme!"
+    mct "¡Mierda, mierda! Si sigue a este ritmo voy a tener que rendirme. ¡Necesito liberarme!"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:691
 translate spanish b1c08ss09_99d8e61f:
@@ -1340,13 +1346,19 @@ translate spanish b1c08ss09_99d8e61f:
 translate spanish b1c08ss09_6ba7b029:
 
     # "Her strikes hold a barbaric, crude strength that seems endless."
-    "Sus golpes tienen una fuerza bárbara y cruda que parece interminable."
+    "Sus golpes tienen una fuerza barbárica y brutal que parece no tener fin."
 
 # game/code/Book-1/Chapter-8s/s09.rpy:697
 translate spanish b1c08ss09_0cafc6af:
 
     # "You cannot outlast her. Morgan's savage blows keep repeating, and it seems you're locked in a cage of endless assault."
     "No puedes sobrevivir a ella. Los salvajes golpes de Morgan se repiten y parece que estás encerrado en una jaula de asalto interminable."
+
+# game/code/Book-1/Chapter-8s/s09.rpy:702
+translate spanish b1c08ss09_0ac59815:
+
+    # "Morgan's so focused on breaking through your defences, she loses track of her weak points."
+    "Morgan está tan concentrada en romper tus defensas que pierde la noción de sus puntos débiles."
 
 # game/code/Book-1/Chapter-8s/s09.rpy:703
 translate spanish b1c08ss09_03d90f24:
@@ -1394,7 +1406,7 @@ translate spanish b1c08ss09_28ebe209:
 translate spanish b1c08ss09_9f0bfbfc:
 
     # fox "Fighter's stop! Morgan has tapped out."
-    fox "¡Detente luchador! Morgan se ha desmayado."
+    fox "¡Detente! Morgan se ha desmayado."
 
 # game/code/Book-1/Chapter-8s/s09.rpy:725
 translate spanish b1c08ss09_35f44622:
@@ -1406,7 +1418,7 @@ translate spanish b1c08ss09_35f44622:
 translate spanish b1c08ss09_1b7ba4a7:
 
     # mg "Well I'll be damned. You beat me."
-    mg "BQue me condenen. Me ganaste."
+    mg "Que me condenen. Me ganaste."
 
 # game/code/Book-1/Chapter-8s/s09.rpy:729
 translate spanish b1c08ss09_0cfb97e0:
@@ -1454,13 +1466,13 @@ translate spanish b1c08ss09_c74d7821:
 translate spanish b1c08ss09_deadc7ad:
 
     # "You both face Xasan with a defiant expression. He may have made you fight against each other, but he did not destroy the comradery between you."
-    "Ambos miran a Xasan con expresión desafiante. Puede que los haya hecho luchar entre ustedes, pero no destruyó la camaradería que había entre ustedes."
+    "Ambos miran a Xasan con expresión desafiante. Puede que los haya hecho luchar entre ustedes, pero no destruyó la camaradería que había entre los dos."
 
 # game/code/Book-1/Chapter-8s/s09.rpy:745
 translate spanish b1c08ss09_5aac99c0:
 
     # "For the first time, Xasan seems to reconsider you. Something almost—almost, but not quite—like respect crosses his eyes."
-    "Por primera vez, Xasan parece reconsiderarte. Algo casi (casi, pero no del todo) parecido al respeto cruza sus ojos."
+    "Por primera vez, Xasan parece reconsiderarte. Algo casi parecido, pero no del todo, al respeto cruza sus ojos."
 
 # game/code/Book-1/Chapter-8s/s09.rpy:747
 translate spanish b1c08ss09_31ef0338:
@@ -1490,7 +1502,7 @@ translate spanish b1c08ss09_9d4285ea:
 translate spanish b1c08ss09_c64ff360:
 
     # mc "Can I take others' debts onto my own account?"
-    mc "¿Puedo tomar las deudas de otros en mi propia cuenta?"
+    mc "¿Puedo asumir las deudas de otros en mi propia cuenta?"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:760
 translate spanish b1c08ss09_71862f13:
@@ -1508,7 +1520,7 @@ translate spanish b1c08ss09_9bf8c187:
 translate spanish b1c08ss09_277684eb:
 
     # mg "Hey, are you—"
-    mg "Hola eres tu-"
+    mg "Oye, ¿estás...?"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:768
 translate spanish b1c08ss09_725b7ddb:
@@ -1520,7 +1532,7 @@ translate spanish b1c08ss09_725b7ddb:
 translate spanish b1c08ss09_0d092a12:
 
     # mg "Sure, but—"
-    mg "Seguro pero-"
+    mg "Seguro, pero-"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:773
 translate spanish b1c08ss09_f5ecc206:
@@ -1570,15 +1582,16 @@ translate spanish strings:
     old "What does this matter?"
     new "¿Qué importa esto?"
 
+
 # game/code/Book-1/Chapter-8s/s09.rpy:179
 translate spanish b1c08ss09_722183e0:
 
     # mc "No, no I'm fine. Got a headache and a cut hand, that's about it."
-    mc "No, no I'm fine. Got a headache and a cut hand, that's about it."
+    mc "No, no, estoy bien. Tengo dolor de cabeza y un corte en el brazo, eso es todo."
 
 # game/code/Book-1/Chapter-8s/s09.rpy:707
 translate spanish b1c08ss09_e47325aa:
 
     # "Morgan's so focused on breaking through your defenses, she loses track of her weak points."
-    "Morgan's so focused on breaking through your defenses, she loses track of her weak points."
+    "Morgan está tan concentrada en romper tus defensas, que pierde de vista sus puntos débiles."
 
