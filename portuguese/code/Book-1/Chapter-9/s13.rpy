@@ -1028,11 +1028,11 @@ translate portuguese b1c09s13_jh_3a1b6051:
 translate portuguese b1c09s13_8cdca3b5:
 
     # "[b1c09s13_bartender_name!t]" "What can I get you?"
-    "[b1c09s13_bartender_name!t]" "What can I get you?"
+    "[b1c09s13_bartender_name!t]" "O que você gostaria?"
 
 translate portuguese strings:
 
     # game/code/Book-1/Chapter-9/s13.rpy:18
     old "Still Not Brandon"
-    new "Still Not Brandon"
+    new "Ainda Não Brandon"
 
