@@ -1406,59 +1406,59 @@ translate portuguese strings:
 translate portuguese b1c08s01_continue_8fbdda7e:
 
     # mc "I got some leads, but I haven't had the time to go deeper into them."
-    mc "I got some leads, but I haven't had the time to go deeper into them."
+    mc "Consegui umas pistas, mas não tive tempo de ir muito a fundo."
 
 # game/code/Book-1/Chapter-8/s01.rpy:246
 translate portuguese b1c08s01_end_15b093d8:
 
     # mc "Next time we need to at least double the amount of coffee we got."
-    mc "Next time we need to at least double the amount of coffee we got."
+    mc "Da próxima vamos ter que dobrar a dose de café, no mínimo."
 
 # game/code/Book-1/Chapter-8/s01.rpy:435
 translate portuguese b1c08s01_recap_c06c_2d90b0b2:
 
     # "You begin your recap on The Self-Help Group, going over everything that you've witnessed in great detail."
-    "You begin your recap on The Self-Help Group, going over everything that you've witnessed in great detail."
+    "Você começa a falar dos acontecimentos do grupo de Autoajuda, recapitulando tudo que você viu detalhadamente."
 
 # game/code/Book-1/Chapter-8/s01.rpy:666
 translate portuguese b1c08s01_recap_c07s_89a181b0:
 
     # mc "I had a bit of a scuffle at Rory's with someone named Cade. Someone from a rival gang called The Wasps."
-    mc "I had a bit of a scuffle at Rory's with someone named Cade. Someone from a rival gang called The Wasps."
+    mc "Tive que brigar com um tal de Cade lá na Rory. É alguém de umam gangue rival chamada de Vespas."
 
 # game/code/Book-1/Chapter-8/s01.rpy:667
 translate portuguese b1c08s01_recap_c07s_53eb8627:
 
     # pm "Are you okay?"
-    pm "Are you okay?"
+    pm "Tudo bem com você?"
 
 # game/code/Book-1/Chapter-8/s01.rpy:668
 translate portuguese b1c08s01_recap_c07s_d1fd0311:
 
     # mc "I'm fine. You should've seen the other guy. {w}Anyway. After Rory, I met up with Morgan."
-    mc "I'm fine. You should've seen the other guy. {w}Anyway. After Rory, I met up with Morgan."
+    mc "Estou bem. Você devia ter visto o outro cara. {w}Bom. Depois da Rory, eu fui ver a Morgan."
 
 # game/code/Book-1/Chapter-8/s01.rpy:676
 translate portuguese b1c08s01_recap_c07s_89a181b0_1:
 
     # mc "I had a bit of a scuffle at Rory's with someone named Cade. Someone from a rival gang called The Wasps."
-    mc "I had a bit of a scuffle at Rory's with someone named Cade. Someone from a rival gang called The Wasps."
+    mc "Tive que brigar com um tal de Cade lá na Rory. É alguém de umam gangue rival chamada de Vespas."
 
 # game/code/Book-1/Chapter-8/s01.rpy:677
 translate portuguese b1c08s01_recap_c07s_53eb8627_1:
 
     # pm "Are you okay?"
-    pm "Are you okay?"
+    pm "Tudo bem com você?"
 
 # game/code/Book-1/Chapter-8/s01.rpy:678
 translate portuguese b1c08s01_recap_c07s_083f51aa:
 
     # mc "I'm fine. You should've seen the other guy. {w}Anyway. After Rory, I met up with Corrine."
-    mc "I'm fine. You should've seen the other guy. {w}Anyway. After Rory, I met up with Corrine."
+    mc "Estou bem. Você devia ter visto o outro cara. {w}Bom. Depois da Rory, eu fui ver a Corinne."
 
 # game/code/Book-1/Chapter-8/s01.rpy:688
 translate portuguese b1c08s01_recap_c08s_745fd50b:
 
     # mc "After all that, Cade and some goons from The Wasps decided to kidnap some Syndicate members. That was my ticket in with them."
-    mc "After all that, Cade and some goons from The Wasps decided to kidnap some Syndicate members. That was my ticket in with them."
+    mc "Depois disso tudo, o Cade e uns capangas das Vespas decidiram raptar certos membros do Sindicato. Essa era a minha chane com eles."
 
