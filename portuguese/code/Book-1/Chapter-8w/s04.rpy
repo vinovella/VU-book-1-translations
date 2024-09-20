@@ -596,23 +596,23 @@ translate portuguese strings:
 translate portuguese b1c08ws04_4d33a885:
 
     # "Monika thins her lips and smirks at you. She drags out her words."
-    "Monika thins her lips and smirks at you. She drags out her words."
+    "Monika dá um sorriso, e fala devagar."
 
 # game/code/Book-1/Chapter-8w/s04.rpy:218
 translate portuguese b1c08ws04_sex_213eaa6c:
 
     # "She pinches your nipple playfully, making you startle, before resting her other hand on your waist."
-    "She pinches your nipple playfully, making you startle, before resting her other hand on your waist."
+    "Ela belisca o seu mamilo de leve, assustando-o, e descansa a outra mão na sua cintura."
 
 # game/code/Book-1/Chapter-8w/s04.rpy:224
 translate portuguese b1c08ws04_sex_5c3af901:
 
     # "Her excitement is evident as she nuzzles against your skin, her hot breath singeing you in pleasure and making you arch your back and push your hips into her."
-    "Her excitement is evident as she nuzzles against your skin, her hot breath singeing you in pleasure and making you arch your back and push your hips into her."
+    "É evidente que ela está excitada quando massageia sua pele, a respiração quente queimando-o de prazer e fazendo você arquear as costas e enfiar o quadril contra ela."
 
 # game/code/Book-1/Chapter-8w/s04.rpy:341
 translate portuguese b1c08ws04_sex_a49d7f08:
 
     # "Her body goes limp on top of you as you feel her orgasm rip through her. You grab her and hold her steady, breathless and satisfied in each other's arms."
-    "Her body goes limp on top of you as you feel her orgasm rip through her. You grab her and hold her steady, breathless and satisfied in each other's arms."
+    "O corpo dela fica mole sobre você, e você sente o orgasmo dela cursando por ela toda. Você a abraça forte, ambos sem fôlego e satisfeitos um nos braços do outro."
 
