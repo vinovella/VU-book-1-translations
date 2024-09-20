@@ -602,7 +602,7 @@ translate portuguese b1c07ws08_6ed97b0d:
 translate portuguese b1c07ws08_38ca3ef1:
 
     # "An involuntary laugh escapes her as she finally realizes what she was doing."
-    "An involuntary laugh escapes her as she finally realizes what she was doing."
+    "Ela solta uma risda involuntária quando finalmente percebe o que estava fazendo."
 
 translate portuguese strings:
 
