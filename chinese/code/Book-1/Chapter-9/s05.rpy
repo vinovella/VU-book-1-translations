@@ -1222,11 +1222,11 @@ translate chinese strings:
 
     # game/code/Book-1/Chapter-9/s05.rpy:611
     old "Refuse to clean your cum"
-    new "拒绝清洗你的精液"
+    new "拒绝擦掉你的精液"
 
 # game/code/Book-1/Chapter-9/s05.rpy:634
 translate chinese b1c09s05_femdom_end_d8cd946f:
 
     # "Her touch, what was once bliss, is now agony. You feel as if you could burst any moment, but you still hold on."
-    "Her touch, what was once bliss, is now agony. You feel as if you could burst any moment, but you still hold on."
+    "她的触碰，曾经是幸福，现在却成了痛苦。你觉得自己随时都可能崩溃，但你还是坚持住了。"
 
