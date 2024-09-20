@@ -768,7 +768,7 @@ translate portuguese strings:
 
     # game/code/data/ib_descriptions.rpy:2
     old "Xasan intends to bomb The Wasps."
-    new "Xasan quer soltar uma bomba nas Vespas.
+    new "Xasan quer soltar uma bomba nas Vespas."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Allegedly kidnapped Nirmala, Sabrina, and Q."
@@ -965,4 +965,3 @@ translate portuguese strings:
     # game/code/data/ib_descriptions.rpy:2
     old "Kara is #1 suspect in Maria's disappearance."
     new "Kara é a suspeita #1 no desaparecimento da Maria."
-
