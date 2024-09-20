@@ -524,5 +524,5 @@ translate portuguese strings:
 translate portuguese b1c08ws03_470b68b1:
 
     # "She catches you off guard with a kiss. It's a gentle warmth on your lips, but it carries a heaviness with so much emotion hidden behind."
-    "She catches you off guard with a kiss. It's a gentle warmth on your lips, but it carries a heaviness with so much emotion hidden behind."
+    "Ela o pega desprevenido com um beijo. É um calor gentil em seus lábios, mas carrega certo peso com tanta emoção por trás."
 
