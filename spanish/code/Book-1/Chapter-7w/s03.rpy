@@ -26,7 +26,7 @@ translate spanish b1c07ws03_b7cd8ca8:
 translate spanish b1c07ws03_da393b59:
 
     # ima "Oh my God! I totes forgot! Silly me."
-    ima "¡Ay dios mío! ¡Se me olvidaron los bolsos! Tonto de mí."
+    ima "¡Ay dios mío! ¡Se me olvidaron los bolsos! Tonta de mí."
 
 # game/code/Book-1/Chapter-7w/s03.rpy:60
 translate spanish b1c07ws03_0dbf6a9f:
@@ -74,7 +74,7 @@ translate spanish b1c07ws03_88f721de:
 translate spanish b1c07ws03_13ab7cef:
 
     # ima "Oh, no. I haven't noticed anything, but we do have a lot of people coming and going. Maybe they're just maintenance or staff."
-    ima "Oh, no. No he notado nada, pero tenemos mucha gente yendo y viniendo. Tal vez sean solo mantenimiento o personal."
+    ima "Oh, no. No he notado nada, pero tenemos mucha gente entrando y saliendo. Tal vez sean de mantenimiento o del personal."
 
 # game/code/Book-1/Chapter-7w/s03.rpy:90
 translate spanish b1c07ws03_b087eda5:
@@ -134,7 +134,7 @@ translate spanish b1c07ws03_a3b9f264:
 translate spanish b1c07ws03_aa6b4e10:
 
     # mc "I know how dedicated you are and just thought I'd help out."
-    mc "Sé lo dedicado que eres y pensé en ayudarte."
+    mc "Sé lo dedicada que eres y pensé en ayudarte."
 
 # game/code/Book-1/Chapter-7w/s03.rpy:119
 translate spanish b1c07ws03_2227a707:
@@ -152,7 +152,7 @@ translate spanish b1c07ws03_9c40b7a3:
 translate spanish b1c07ws03_c3e0c7ad:
 
     # ima "But I'm so sorry. I don't need any help with this one."
-    ima "Pero lo siento mucho. No necesito ayuda con este."
+    ima "Pero lo siento mucho. No necesito ayuda con esto."
 
 # game/code/Book-1/Chapter-7w/s03.rpy:125
 translate spanish b1c07ws03_f729c41e:
@@ -164,7 +164,7 @@ translate spanish b1c07ws03_f729c41e:
 translate spanish b1c07ws03_e0213172:
 
     # ima "Though... There {i}are{/i} some things that I might need your help with later on after the party, I'm not sure."
-    ima "Aunque... Hay {i}algunas cosas{/i} con las que podría necesitar tu ayuda después de la fiesta, no estoy seguro."
+    ima "Aunque... Hay {i}algunas cosas{/i} con las que podría necesitar tu ayuda después de la fiesta, no estoy segura."
 
 # game/code/Book-1/Chapter-7w/s03.rpy:129
 translate spanish b1c07ws03_21f182ee:
@@ -182,13 +182,13 @@ translate spanish b1c07ws03_77cfa4ea:
 translate spanish b1c07ws03_b1c10f6a:
 
     # mc "Ah, right. Of course. I understand."
-    mc "Ah bien. Por supuesto. Entiendo."
+    mc "Ah, bien. Por supuesto. Entiendo."
 
 # game/code/Book-1/Chapter-7w/s03.rpy:138
 translate spanish b1c07ws03_f41ae997:
 
     # ir "[mcname]! You comin'!?"
-    ir "[mcname]! ¿¡Vienes!?"
+    ir "¡[mcname]! ¿¡Vienes!?"
 
 # game/code/Book-1/Chapter-7w/s03.rpy:141
 translate spanish b1c07ws03_0f4ef199:
@@ -200,7 +200,7 @@ translate spanish b1c07ws03_0f4ef199:
 translate spanish b1c07ws03_3a2c884b:
 
     # mc "It was fun talking to you though. Don't be a stranger."
-    mc "Sin embargo, fue divertido hablar contigo. No seas un extraño."
+    mc "Sin embargo, fue divertido hablar contigo. No seas una extraña."
 
 # game/code/Book-1/Chapter-7w/s03.rpy:145
 translate spanish b1c07ws03_9777ea29:
