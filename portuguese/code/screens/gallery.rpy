@@ -50,9 +50,9 @@ translate portuguese strings:
 
     # game/code/screens/gallery.rpy:21
     old "Achievements"
-    new "Achievements"
+    new "Conquistas"
 
     # game/code/screens/gallery.rpy:45
     old "Character Filter: [character_filter!t]"
-    new "Character Filter: [character_filter!t]"
+    new "Filtro de Personagem: [character_filter!t]"
 
