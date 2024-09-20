@@ -1082,5 +1082,5 @@ translate portuguese b1c09s12_sex_end_e0542038:
 translate portuguese b1c09s12_sex_5a5aa7ff:
 
     # "As your tongue teases her folds, Fleur's grip on the edge of the chair tightens, her nails digging into the wood."
-    "As your tongue teases her folds, Fleur's grip on the edge of the chair tightens, her nails digging into the wood."
+    "Você provoca a vagina dela, e Fleur aperta na cadeira, suas unhas cravando na madeira."
 
