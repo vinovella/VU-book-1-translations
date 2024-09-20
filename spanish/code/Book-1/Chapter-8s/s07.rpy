@@ -1212,8 +1212,6 @@ translate spanish strings:
     old "After an uncomfortable eternity watching the wall"
     new "Después de una eternidad incómoda mirando la pared"
 
-
-
 # game/code/Book-1/Chapter-8s/s07.rpy:642
 translate spanish b1c08ss07_after_pegging_9c1ca661:
 

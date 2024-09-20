@@ -497,3 +497,4 @@ translate portuguese strings:
     # game/code/Book-1/Chapter-6w/s07.rpy:293
     old "Yes, I want to taste you."
     new "Sim, eu quero te provar."
+

@@ -987,3 +987,4 @@ translate portuguese strings:
     # game/code/hints.rpy:11
     old "You keep going. You'll get to creampie {}."
     new "Você continua. Você goza dentro da {} depois."
+

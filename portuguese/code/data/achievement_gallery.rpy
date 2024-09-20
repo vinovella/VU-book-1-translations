@@ -350,7 +350,7 @@ translate portuguese strings:
 
     # game/code/data/achievement_gallery.rpy:5
     old "Click the unclickable option in the nightmare."
-    new "Clique na opção impossível de clicar no pesadelo.
+    new "Clique na opção impossível de clicar no pesadelo."
 
     # game/code/data/achievement_gallery.rpy:5
     old "45: Behind the Scenes"

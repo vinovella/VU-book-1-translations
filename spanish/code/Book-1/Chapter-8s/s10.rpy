@@ -520,12 +520,6 @@ translate spanish b1c08ss10_cd88aa8e:
     # zp "So that we could do this."
     zp "Para que podamos hacer esto."
 
-# game/code/Book-1/Chapter-8s/s10.rpy:266
-translate spanish b1c08ss10_3fe8cd51:
-
-    # "Zemfira passionately rips your clothes off. You're so lost in her passion, you don't dare question her."
-    "Zemfira te arranca la ropa con pasión. Estás tan perdido en su pasión que no te atreves a cuestionarla."
-
 # game/code/Book-1/Chapter-8s/s10.rpy:269
 translate spanish b1c08ss10_feb88c50:
 
@@ -807,7 +801,6 @@ translate spanish b1c08ss10_335c29c7:
 
     # mct "...The girls need to be found."
     mct "...Hay que encontrar a las chicas."
-
 
 # game/code/Book-1/Chapter-8s/s10.rpy:273
 translate spanish b1c08ss10_5ae95222:
