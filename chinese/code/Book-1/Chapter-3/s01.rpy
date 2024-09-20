@@ -632,7 +632,7 @@ translate chinese strings:
 
     # game/code/Book-1/Chapter-3/s01.rpy:105
     old "Respond aggressively"
-    new "积极地回应"
+    new "带侵略性地回应"
 
     # game/code/Book-1/Chapter-3/s01.rpy:105
     old "Respond diplomatically"
