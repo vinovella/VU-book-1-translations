@@ -1388,5 +1388,5 @@ translate chinese strings:
 translate chinese b1c09s09w_cheer_ima_95ac0811:
 
     # "Isa flirtatiously sticks her tongue out. Her bikini bottom barely continues to cover her."
-    "Isa flirtatiously sticks her tongue out. Her bikini bottom barely continues to cover her."
+    "艾萨充满挑逗意味地伸出舌头。她的比基尼下摆勉强能遮住下面。"
 
