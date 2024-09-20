@@ -104,13 +104,13 @@ translate portuguese strings:
 
     # game/code/screens/menus.rpy:834
     old "We only collect data on in-game choices, no personal information is collected."
-    new "We only collect data on in-game choices, no personal information is collected."
+    new "Só coletamos dados de escolhas dentro do jogo, nenhum dado pessoal é coletado."
 
     # game/code/screens/menus.rpy:861
     old "Connect Your Toy"
-    new "Connect Your Toy"
+    new "Conecte Seu Brinquedo"
 
     # game/code/screens/menus.rpy:907
     old "Sex Voice Volume"
-    new "Sex Voice Volume"
+    new "Volume da Voz de Sexo"
 
