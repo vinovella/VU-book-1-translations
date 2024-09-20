@@ -416,5 +416,5 @@ translate portuguese strings:
 translate portuguese b1c08cs05_0c2801b5:
 
     # "Lumi's still fast asleep, thoroughly worn out after tonight's activities."
-    "Lumi's still fast asleep, thoroughly worn out after tonight's activities."
+    "Lumi ainda está dormindo, completamente cansada das atividades dessa noite."
 
