@@ -62,7 +62,7 @@ translate spanish b1c08s01_892c5fa6:
 translate spanish b1c08s01_e25af486:
 
     # mc "...I really want to do something to you right now that we'll both regret."
-    mc "...Tengo muchas ganas de hacerte algo en este momento de lo que ambos nos arrepintaremos."
+    mc "...Tengo muchas ganas de hacerte algo en este momento de lo que ambos nos arrepentiremos."
 
 # game/code/Book-1/Chapter-8/s01.rpy:62
 translate spanish b1c08s01_d7367c10:
@@ -118,6 +118,12 @@ translate spanish b1c08s01_call_recaps_43b3b093:
     # pm "Anything else?"
     pm "¿Algo más?"
 
+# game/code/Book-1/Chapter-8/s01.rpy:169
+translate spanish b1c08s01_continue_ec576263:
+
+    # mc "I got some basic info, but no strong leads."
+    mc "Obtuve información básica, pero ninguna pista sólida."
+
 # game/code/Book-1/Chapter-8/s01.rpy:172
 translate spanish b1c08s01_continue_d6c970b3:
 
@@ -146,7 +152,7 @@ translate spanish b1c08s01_continue_5c20a690:
 translate spanish b1c08s01_continue_ab968188:
 
     # pm "We have to use your time efficiently. Spreading yourself too thin won't do us any good."
-    pm "Tenemos que utilizar su tiempo de manera eficiente. Extenderse demasiado no nos hará ningún bien."
+    pm "Tenemos que utilizar tu tiempo de manera eficiente. Extenderse demasiado no nos hará ningún bien."
 
 # game/code/Book-1/Chapter-8/s01.rpy:192
 translate spanish b1c08s01_continue_1ef7224b:
@@ -219,6 +225,12 @@ translate spanish b1c08s01_end_994dc447:
 
     # "After a long while of talking and planning."
     "Después de mucho tiempo hablando y planificando."
+
+# game/code/Book-1/Chapter-8/s01.rpy:240
+translate spanish b1c08s01_end_4e9968c0:
+
+    # mc "Next time we need at least double."
+    mc "La próxima vez necesitamos al menos el doble."
 
 # game/code/Book-1/Chapter-8/s01.rpy:243
 translate spanish b1c08s01_end_d9be2b18:
@@ -314,7 +326,7 @@ translate spanish b1c08s01_recap_c06w_6c945a10:
 translate spanish b1c08s01_recap_c06w_3c1601cd:
 
     # mc "She went from dismissing me when I first got into the team to gunning for me during the match."
-    mc "Pasó de despedirme cuando entré por primera vez al equipo a atacarme durante el partido."
+    mc "Pasó de rechazarme cuando llegué al equipo a atacarme durante el partido."
 
 # game/code/Book-1/Chapter-8/s01.rpy:287
 translate spanish b1c08s01_recap_c06w_fc14dfba:
@@ -338,7 +350,7 @@ translate spanish b1c08s01_recap_c06w_af27d015:
 translate spanish b1c08s01_recap_c06w_a43e2700:
 
     # pm "Who's that?"
-    pm "¿Quién es ese?"
+    pm "¿Quién es esa?"
 
 # game/code/Book-1/Chapter-8/s01.rpy:295
 translate spanish b1c08s01_recap_c06w_4ab1875e:
@@ -374,7 +386,7 @@ translate spanish b1c08s01_recap_c06w_08580245:
 translate spanish b1c08s01_recap_c06w_dc85cdf7:
 
     # pm "Looks can be deceiving, Matthew. I hope you're not going easy on a pretty face."
-    pm "Las apariencias engañan, Matthew. Espero que no te lo pongas fácil con una cara bonita."
+    pm "Las apariencias engañan, Matthew. Espero que no vayas tan fácil con una cara bonita."
 
 # game/code/Book-1/Chapter-8/s01.rpy:309
 translate spanish b1c08s01_recap_c06w_a53144d6:
@@ -386,7 +398,7 @@ translate spanish b1c08s01_recap_c06w_a53144d6:
 translate spanish b1c08s01_recap_c06w_05a8d97e:
 
     # pm "Alright, I'm just saying."
-    pm "Muy bien, solo digo."
+    pm "Está bien, sólo digo."
 
 # game/code/Book-1/Chapter-8/s01.rpy:314
 translate spanish b1c08s01_recap_c06w_5e401475:
@@ -476,7 +488,7 @@ translate spanish b1c08s01_recap_c07w_4b6b5df0:
 translate spanish b1c08s01_recap_c07w_39acfb1f:
 
     # mc "From what we could tell, they were trying to spy on us. Keyword being \"try.\""
-    mc "Por lo que pudimos ver, estaban tratando de espiarnos. La palabra clave es \"intentar\"."
+    mc "Por lo que pudimos ver, estaban tratando de espiarnos. La palabra clave es \"tratando\"."
 
 # game/code/Book-1/Chapter-8/s01.rpy:349
 translate spanish b1c08s01_recap_c07w_8a21b0e4:
@@ -620,13 +632,13 @@ translate spanish b1c08s01_recap_c08w_16565932:
 translate spanish b1c08s01_recap_c08w_b375f858:
 
     # mc "Yeah. Not sure how much of a connection they might have to the girls, but I know that Olesya was the catalyst for the team getting into doping."
-    mc "Sí. No estoy seguro de qué conexión podrían tener con las chicas, pero sé que Olesya fue el catalizador para que el equipo se doparara."
+    mc "Sí. No estoy seguro de la conexión que puedan tener con las chicas, pero sé que Olesya fue el catalizador para que el equipo se dopara."
 
 # game/code/Book-1/Chapter-8/s01.rpy:415
 translate spanish b1c08s01_recap_c08w_745c2e07:
 
     # mc "Or at least that's what it seemed like from her account."
-    mc "O al menos eso es lo que parecía según su cuenta."
+    mc "O al menos eso es lo que parecía según su relato."
 
 # game/code/Book-1/Chapter-8/s01.rpy:416
 translate spanish b1c08s01_recap_c08w_af833a21:
@@ -644,7 +656,13 @@ translate spanish b1c08s01_recap_c08w_b913e916:
 translate spanish b1c08s01_recap_c08w_2308a15f:
 
     # mc "I will. I promise."
-    mc "Lo haré. Lo prometo."
+    mc "Lo tendré. Lo prometo."
+
+# game/code/Book-1/Chapter-8/s01.rpy:429
+translate spanish b1c08s01_recap_c06c_87178169:
+
+    # "You begin your recap on The Self-Help, going over everything that you've witnessed in great detail."
+    "Comienzas tu recapitulación sobre El grupo de autoayuda, repasando todo lo que has presenciado con gran detalle."
 
 # game/code/Book-1/Chapter-8/s01.rpy:431
 translate spanish b1c08s01_recap_c06c_ba5d7fe4:
@@ -710,7 +728,7 @@ translate spanish b1c08s01_recap_c06c_87de5323:
 translate spanish b1c08s01_recap_c06c_09fedd84:
 
     # mc "This guy. Andrejz Dittmar. Hates my guts. He seems to run the group within the school, but I don't think he's the head honcho."
-    mc "Este chico. Andrejz Dittmar. Odia mis entrañas. Parece dirigir el grupo dentro de la escuela, pero no creo que sea el jefe."
+    mc "Este tipo. Andrejz Dittmar. Odia mis entrañas. Parece dirigir el grupo dentro de la escuela, pero no creo que sea el jefe."
 
 # game/code/Book-1/Chapter-8/s01.rpy:461
 translate spanish b1c08s01_recap_c06c_0e5a6974:
@@ -764,7 +782,7 @@ translate spanish b1c08s01_recap_c07c_858c84bf:
 translate spanish b1c08s01_recap_c07c_1b332867:
 
     # pm "This cult shit is creeping me the fuck out. I know it's not the mission, but hopefully we get enough info here to break them up."
-    pm "Esta mierda de culto me está asustando muchísimo. Sé que no es la misión, pero espero que obtengamos suficiente información aquí para dividirlos."
+    pm "Esta mierda de culto me está asustando muchísimo. Sé que no es la misión, pero espero que obtengamos suficiente información para acabar con ellos."
 
 # game/code/Book-1/Chapter-8/s01.rpy:491
 translate spanish b1c08s01_recap_c07c_9e0518a8:
@@ -806,7 +824,7 @@ translate spanish b1c08s01_recap_c07c_4d643ec4:
 translate spanish b1c08s01_recap_c07c_3cdcff99:
 
     # mc "She also talked about more...supernatural elements as well. Women growing penises for example."
-    mc "También habló de más... elementos sobrenaturales. A las mujeres les crece el pene, por ejemplo."
+    mc "También habló de más... elementos sobrenaturales. A las mujeres les crece un pene, por ejemplo."
 
 # game/code/Book-1/Chapter-8/s01.rpy:508
 translate spanish b1c08s01_recap_c07c_14103a24:
@@ -824,13 +842,13 @@ translate spanish b1c08s01_recap_c07c_26df1882:
 translate spanish b1c08s01_recap_c07c_356f072a:
 
     # mc "She also gave me info about a hidden entrance within the school library that panned out, so I wouldn't cast her off just yet."
-    mc "También me dio información sobre una entrada oculta dentro de la biblioteca de la escuela que se abrió, así que no la descartaría todavía."
+    mc "También me dio información sobre una entrada oculta en la biblioteca de la escuela que resultó ser cierta, así que yo no la descartaría todavía."
 
 # game/code/Book-1/Chapter-8/s01.rpy:517
 translate spanish b1c08s01_recap_c07c_c9ec2b2d:
 
     # mc "I got some info on the new lead I asked you to locate. Artist named Ezra. She was apparently Maria's lover."
-    mc "Tengo información sobre la nueva pista que te pedí que localizaras. Una artista llamado Ezra. Al parecer era la amante de María."
+    mc "Tengo información sobre la nueva pista que te pedí que localizaras. Una artista llamada Ezra. Al parecer era la amante de María."
 
 # game/code/Book-1/Chapter-8/s01.rpy:518
 translate spanish b1c08s01_recap_c07c_ed947340:
@@ -884,7 +902,7 @@ translate spanish b1c08s01_recap_c07c_7921d656:
 translate spanish b1c08s01_recap_c08c_a16db31d:
 
     # mc "It is."
-    mc "Lo es."
+    mc "Lo está."
 
 # game/code/Book-1/Chapter-8/s01.rpy:541
 translate spanish b1c08s01_recap_c08c_8df36d91:
@@ -908,7 +926,7 @@ translate spanish b1c08s01_recap_c08c_4ef8d392:
 translate spanish b1c08s01_recap_c08c_d90638b5:
 
     # mc "They took us to the commune."
-    mc "Nos llevaron a la comuna."
+    mc "Nos llevaron a la comunidad."
 
 # game/code/Book-1/Chapter-8/s01.rpy:549
 translate spanish b1c08s01_recap_c08c_f30b9c2f:
@@ -926,7 +944,7 @@ translate spanish b1c08s01_recap_c08c_23df35fb:
 translate spanish b1c08s01_recap_c08c_9cb14b64:
 
     # mc "We met several key figures. Sloan, a wildlife tracker, Yvonne, a heavily pregnant woman who everyone seemed to revere, and Nerium, who was in charge of flora research."
-    mc "Conocimos a varias figuras clave. Sloan, un rastreador de vida silvestre, Yvonne, una mujer muy embarazada a quien todos parecían venerar, y Nerium, que estaba a cargo de la investigación de la flora."
+    mc "Conocimos a varias figuras clave. Sloan, una rastreadora de vida silvestre, Yvonne, una mujer muy embarazada a quien todos parecían venerar, y Nerium, que estaba a cargo de la investigación de la flora."
 
 # game/code/Book-1/Chapter-8/s01.rpy:554
 translate spanish b1c08s01_recap_c08c_605e1f08:
@@ -950,7 +968,7 @@ translate spanish b1c08s01_recap_c08c_c1f43f89:
 translate spanish b1c08s01_recap_c08c_7c290776:
 
     # mc "I stumbled on some sort of...ritual. It was being done in an out of the way cave."
-    mc "Me encontré con una especie de... ritual. Se estaba haciendo en una cueva apartada."
+    mc "Me tropecé con una especie de... ritual. Se estaba realizando en una cueva apartada."
 
 # game/code/Book-1/Chapter-8/s01.rpy:563
 translate spanish b1c08s01_recap_c08c_60c77703:
@@ -1106,7 +1124,7 @@ translate spanish b1c08s01_recap_c07s_cc6096a1:
 translate spanish b1c08s01_recap_c07s_73b5dc62:
 
     # pm "Did you manage to get anything more about them?"
-    pm "¿Conseguiste conseguir algo más sobre ellos?"
+    pm "¿Conseguiste algo más sobre ellas?"
 
 # game/code/Book-1/Chapter-8/s01.rpy:629
 translate spanish b1c08s01_recap_c07s_4b60db16:
@@ -1124,7 +1142,7 @@ translate spanish b1c08s01_recap_c07s_5dcf3a8c:
 translate spanish b1c08s01_recap_c07s_17ade583:
 
     # mc "Beyond that, she's also a part of the underground fight club. Those are the \"events\" that everybody was so hush-hush about."
-    mc "Más allá de eso, ella también es parte del club de lucha clandestino. Esos son los \"acontecimientos\" sobre los que todo el mundo guardaba tan silencio."
+    mc "Más allá de eso, ella también es parte del club de lucha clandestino. Esos son los \"acontecimientos\" sobre los que todo el mundo guardaba tanto silencio."
 
 # game/code/Book-1/Chapter-8/s01.rpy:634
 translate spanish b1c08s01_recap_c07s_97cbb951:
@@ -1148,19 +1166,19 @@ translate spanish b1c08s01_recap_c07s_cc8a9a0a:
 translate spanish b1c08s01_recap_c07s_e1556d75:
 
     # mc "Opposite actually. She wanted me to deliver some money to someone named Rory."
-    mc "En realidad, lo contrario. Quería que le entregara algo de dinero a alguien llamado Rory."
+    mc "En realidad, lo contrario. Quería que le entregara algo de dinero a alguien llamada Rory."
 
 # game/code/Book-1/Chapter-8/s01.rpy:644
 translate spanish b1c08s01_recap_c07s_44860a71:
 
     # mc "Yeah. I went to where Corrine's locked up. She's certainly a handful."
-    mc "Sí. Fui a donde está encerrada Corrine. Ella es ciertamente un puñado."
+    mc "Sí. Fui a donde está encerrada Corrine. Ella es ciertamente un poco difícil de manejar."
 
 # game/code/Book-1/Chapter-8/s01.rpy:645
 translate spanish b1c08s01_recap_c07s_ba533024:
 
     # mc "But was surprisingly forthcoming when I agreed to help her out for information."
-    mc "Pero fue sorprendentemente comunicativo cuando acepté ayudarla a obtener información."
+    mc "Pero fue sorprendentemente comunicativa cuando acepté ayudarla a obtener información."
 
 # game/code/Book-1/Chapter-8/s01.rpy:646
 translate spanish b1c08s01_recap_c07s_5bb51c39:
@@ -1178,7 +1196,7 @@ translate spanish b1c08s01_recap_c07s_36347cb0:
 translate spanish b1c08s01_recap_c07s_0f2c6144:
 
     # mc "She wanted me to prove myself first. Gave me two letters to send off to someone named Rory."
-    mc "Ella quería que yo probara mi valía primero. Me dio dos cartas para enviárselas a alguien llamado Rory."
+    mc "Ella quería que yo probara mi valía primero. Me dio dos cartas para enviárselas a alguien llamada Rory."
 
 # game/code/Book-1/Chapter-8/s01.rpy:653
 translate spanish b1c08s01_recap_c07s_1177d435:
@@ -1198,6 +1216,12 @@ translate spanish b1c08s01_recap_c07s_247d6338:
     # pm "That's...surprising."
     pm "Eso es... sorprendente."
 
+# game/code/Book-1/Chapter-8/s01.rpy:660
+translate spanish b1c08s01_recap_c07s_b77d08ca:
+
+    # mc "Anyway. I finish up with Rory and meet up with Morgan."
+    mc "De todos modos. Termino con Rory y me encuentro con Morgan."
+
 # game/code/Book-1/Chapter-8/s01.rpy:661
 translate spanish b1c08s01_recap_c07s_d9a4c3dd:
 
@@ -1216,6 +1240,12 @@ translate spanish b1c08s01_recap_c07s_712456ab:
     # pm "The Syndicate? Interesting. I'll look into it."
     pm "¿El Sindicato? Interesante. Lo miraré."
 
+# game/code/Book-1/Chapter-8/s01.rpy:668
+translate spanish b1c08s01_recap_c07s_59501dea:
+
+    # mc "Anyway. I finish up with Rory and meet up with Corrine."
+    mc "De todos modos. Termino con Rory y me encuentro con Corrine."
+
 # game/code/Book-1/Chapter-8/s01.rpy:669
 translate spanish b1c08s01_recap_c07s_f45cf8a9:
 
@@ -1227,6 +1257,12 @@ translate spanish b1c08s01_recap_c07s_7f1c6212:
 
     # mc "That's how I'll be able to take care of Morgan's debt and also get more info on the main group, which is called \"The Syndicate.\""
     mc "Así es como podré encargarme de la deuda de Morgan y también obtener más información sobre el grupo principal, que se llama \"El Sindicato\"."
+
+# game/code/Book-1/Chapter-8/s01.rpy:678
+translate spanish b1c08s01_recap_c08s_112c578d:
+
+    # mc "The main way I got into The Syndicate was when some of their members were kidnapped by a rival group called The Wasps."
+    mc "La principal forma en que entré en El Sindicato fue cuando algunos de sus miembros fueron secuestrados por un grupo rival llamado Las Avispas."
 
 # game/code/Book-1/Chapter-8/s01.rpy:679
 translate spanish b1c08s01_recap_c08s_2c55070e:
@@ -1274,7 +1310,7 @@ translate spanish b1c08s01_recap_c08s_60ef7f67:
 translate spanish b1c08s01_recap_c08s_c0c0b2f5:
 
     # pm "Caught? How the hell were you caught? You came to help them, but they couldn't even help you?"
-    pm "¿Atraparon? ¿Cómo diablos te atraparon? ¿Viniste a ayudarlos, pero ellos ni siquiera pudieron ayudarte?"
+    pm "¿Te atraparon? ¿Cómo diablos te atraparon? ¿Viniste a ayudarlos, pero ellos ni siquiera pudieron ayudarte?"
 
 # game/code/Book-1/Chapter-8/s01.rpy:696
 translate spanish b1c08s01_recap_c08s_58614cd0:
@@ -1292,7 +1328,7 @@ translate spanish b1c08s01_recap_c08s_4084360c:
 translate spanish b1c08s01_recap_c08s_8f70c083:
 
     # mc "She was trying to get me to help her unite the gangs, that's all she talked about. I played along, but she started getting suspicious of my bullshit."
-    mc "Ella estaba tratando de que yo la ayudara a unir a las pandillas, eso es todo lo que habló. Le seguí el juego, pero ella empezó a sospechar de mis tonterías."
+    mc "Ella estaba intentando que la ayudara a unir a las pandillas, sólo hablaba de eso. Le seguí la corriente, pero empezó a sospechar de mis tonterías."
 
 # game/code/Book-1/Chapter-8/s01.rpy:702
 translate spanish b1c08s01_recap_c08s_76936d28:
@@ -1310,7 +1346,7 @@ translate spanish b1c08s01_recap_c08s_d26895c0:
 translate spanish b1c08s01_recap_c08s_a1510260:
 
     # mc "I managed to make it back to The Syndicate. But then I had to deal with Xasan's bullshit."
-    mc "Logré regresar a el Sindicato. Pero luego tuve que lidiar con las tonterías de Xasan."
+    mc "Logré regresar a El Sindicato. Pero luego tuve que lidiar con las tonterías de Xasan."
 
 # game/code/Book-1/Chapter-8/s01.rpy:707
 translate spanish b1c08s01_recap_c08s_c2bccec0:
@@ -1346,7 +1382,7 @@ translate spanish b1c08s01_recap_c08s_e9c2e727:
 translate spanish b1c08s01_recap_c08s_493c3197:
 
     # mc "Xasan then finally made me into a fighter for The Syndicate."
-    mc "Xasan finalmente me convirtió en un luchador de el Sindicato."
+    mc "Xasan finalmente me convirtió en un luchador de El Sindicato."
 
 translate spanish strings:
 
@@ -1401,6 +1437,8 @@ translate spanish strings:
     # game/code/Book-1/Chapter-8/s01.rpy:734
     old "The Cult"
     new "El culto"
+
+translate spanish strings:
 
 # game/code/Book-1/Chapter-8/s01.rpy:175
 translate spanish b1c08s01_continue_8fbdda7e:
