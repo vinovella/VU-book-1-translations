@@ -50,7 +50,7 @@ translate spanish b1c07ws05_b84be3ab:
 translate spanish b1c07ws05_b65b6b20:
 
     # ima "He's part of the team, babe."
-    ima "Es parte del equipo, nena."
+    ima "Es parte del equipo, cariño."
 
 # game/code/Book-1/Chapter-7w/s05.rpy:95
 translate spanish b1c07ws05_b97ae997:
@@ -62,7 +62,7 @@ translate spanish b1c07ws05_b97ae997:
 translate spanish b1c07ws05_2677e2d2:
 
     # ima "That was the mansion. And I didn't know him last time. Things change."
-    ima "Era la mansión. Y no lo conocía la última vez. Las cosas cambian."
+    ima "Era en la mansión. Y no lo conocía la última vez. Las cosas cambian."
 
 # game/code/Book-1/Chapter-7w/s05.rpy:101
 translate spanish b1c07ws05_f423c3b2:
@@ -98,7 +98,7 @@ translate spanish b1c07ws05_17dabcd7:
 translate spanish b1c07ws05_09108bed:
 
     # ba "Y'know what? Fuck all of you. If you wanna be buddy-buddy with that cunt, be my guest."
-    ba "¿Saben qué? Váyanse todos a la mierda. Si quieres ser amigo de este imbécil, adelante."
+    ba "¿Saben qué? Váyanse todos a la mierda. Si quieres ser amigos de este imbécil, adelante."
 
 # game/code/Book-1/Chapter-7w/s05.rpy:126
 translate spanish b1c07ws05_6a14a930:
@@ -152,7 +152,7 @@ translate spanish b1c07ws05_df06c236:
 translate spanish b1c07ws05_46691a50:
 
     # ima "Well, I guess the Winner's pool at least. *Giggles*"
-    ima "Bueno, supongo que al menos la piscina de los Ganadores. *Risas*"
+    ima "Bueno, supongo que al menos a la piscina de los Ganadores. *Risas*"
 
 # game/code/Book-1/Chapter-7w/s05.rpy:170
 translate spanish b1c07ws05_6907467e:
@@ -290,7 +290,7 @@ translate spanish b1c07ws05_bar_ir_cbcb08d8:
 translate spanish b1c07ws05_bar_ir_9c5cc5bf:
 
     # ir "You look hot as fuck tonight, by the way."
-    ir "Te ves caliente como la mierda esta noche, por cierto."
+    ir "Te ves sexy como la mierda esta noche, por cierto."
 
 # game/code/Book-1/Chapter-7w/s05.rpy:265
 translate spanish b1c07ws05_bar_ir_e0e2ce08:
@@ -308,7 +308,7 @@ translate spanish b1c07ws05_bar_ir_e95feb6d:
 translate spanish b1c07ws05_bar_ir_ce23f044:
 
     # "Brandon" "I already told you my name's not Brandon!"
-    "brandon" "¡Ya le dije que no me llamo Brandon!"
+    "Brandon" "¡Ya le dije que no me llamo Brandon!"
 
 # game/code/Book-1/Chapter-7w/s05.rpy:275
 translate spanish b1c07ws05_bar_ir_20581696:
@@ -320,7 +320,7 @@ translate spanish b1c07ws05_bar_ir_20581696:
 translate spanish b1c07ws05_bar_ir_b7818689:
 
     # "Not Brandon" "Here is your beer."
-    "No es Brandon" "Aquí está su cerveza."
+    "No Brandon" "Aquí está su cerveza."
 
 # game/code/Book-1/Chapter-7w/s05.rpy:281
 translate spanish b1c07ws05_bar_ir_bb0eeaf4:
@@ -332,7 +332,7 @@ translate spanish b1c07ws05_bar_ir_bb0eeaf4:
 translate spanish b1c07ws05_bar_ir_7813d167:
 
     # "Not Brandon" "Don't touch {i}anything{/i}. You are not allowed to serve anyone. Understand?"
-    "No es Brandon" "No toques {i}nada{/i}. No se le permite servir a nadie. ¿Entiende?"
+    "No Brandon" "No toques {i}nada{/i}. No se le permite servir a nadie. ¿Entiende?"
 
 # game/code/Book-1/Chapter-7w/s05.rpy:287
 translate spanish b1c07ws05_bar_ir_d6c27256:
@@ -344,7 +344,7 @@ translate spanish b1c07ws05_bar_ir_d6c27256:
 translate spanish b1c07ws05_bar_ir_7cd7b680:
 
     # "Not Brandon" "*Sighs* Please make sure she doesn't do anything that'll make me lose my license."
-    "No es Brandon" "*Suspira* Por favor, asegúrese de que no haga nada que me haga perder mi licencia."
+    "No Brandon" "*Suspira* Por favor, asegúrese de que no haga nada que me haga perder mi licencia."
 
 # game/code/Book-1/Chapter-7w/s05.rpy:293
 translate spanish b1c07ws05_bar_ir_2c36d7e6:
@@ -356,19 +356,19 @@ translate spanish b1c07ws05_bar_ir_2c36d7e6:
 translate spanish b1c07ws05_bar_ir_cf9e9230:
 
     # "Not Brandon" "Thank you."
-    "No es Brandon" "Gracias."
+    "No Brandon" "Gracias."
 
 # game/code/Book-1/Chapter-7w/s05.rpy:301
 translate spanish b1c07ws05_bar_ir_c7825b0d:
 
     # ir "Make me \"behave\"? My, my, wouldn't I love to see {i}that{/i}."
-    ir "¿Hacerme \"comportar\"? Vaya, vaya, no me encantaría ver {i}eso{/i}."
+    ir "¿Hacerme \"comportar\"? Vaya, vaya, me encantaría ver {i}eso{/i}."
 
 # game/code/Book-1/Chapter-7w/s05.rpy:304
 translate spanish b1c07ws05_bar_ir_42cc62da:
 
     # mc "Are you just always horny or like what is going on?"
-    mc "¿Estás siempre caliente o te gusta lo que está pasando?"
+    mc "¿Estás siempre excitada o te gusta lo que está pasando?"
 
 # game/code/Book-1/Chapter-7w/s05.rpy:307
 translate spanish b1c07ws05_bar_ir_f98b8209:
@@ -458,7 +458,7 @@ translate spanish b1c07ws05_bar_ir_880e0b1a:
 translate spanish b1c07ws05_bar_ir_167d0600:
 
     # ir "But I'm not gonna stop."
-    ir "Pero no voy a detener."
+    ir "Pero no voy a detenerme."
 
 # game/code/Book-1/Chapter-7w/s05.rpy:370
 translate spanish b1c07ws05_bar_ir_fd6e855a:
@@ -518,7 +518,7 @@ translate spanish b1c07ws05_bar_ir_5997fe5e:
 translate spanish b1c07ws05_bar_ir_64bef287:
 
     # mm "Oof. Rejected by the new guy. Sorry, love."
-    mm "Uf. Rechazado por el chico nuevo. Lo siento amor."
+    mm "Uf. Rechazado por el chico nuevo. Lo siento, amor."
 
 # game/code/Book-1/Chapter-7w/s05.rpy:404
 translate spanish b1c07ws05_bar_ir_a2b380aa:
@@ -554,7 +554,7 @@ translate spanish b1c07ws05_bar_ir_9c7e2d19:
 translate spanish b1c07ws05_bar_ir_2a4885a5:
 
     # mm "Exactly what I wanted. Thanks, love."
-    mm "Exactamente lo que quería. Gracias amor."
+    mm "Exactamente lo que quería. Gracias, amor."
 
 # game/code/Book-1/Chapter-7w/s05.rpy:428
 translate spanish b1c07ws05_bar_ir_42fa85f2:
@@ -572,7 +572,7 @@ translate spanish b1c07ws05_bar_ir_5756517b:
 translate spanish b1c07ws05_bar_ir_9e2f705b:
 
     # mc "Good call."
-    mc "Buena llamada."
+    mc "Buena idea."
 
 # game/code/Book-1/Chapter-7w/s05.rpy:438
 translate spanish b1c07ws05_bar_ir_ce884ea8:
@@ -638,7 +638,7 @@ translate spanish b1c07ws05_bar_sex_039f118e:
 translate spanish b1c07ws05_bar_sex_2e98fe1b:
 
     # ir "*Playfully moans*"
-    ir "*gime juguetonamente*"
+    ir "*Gime juguetonamente*"
 
 # game/code/Book-1/Chapter-7w/s05.rpy:495
 translate spanish b1c07ws05_bar_sex_a550c1a8:
@@ -650,7 +650,7 @@ translate spanish b1c07ws05_bar_sex_a550c1a8:
 translate spanish b1c07ws05_bar_sex_9adcad62:
 
     # "It catches you off guard at first, but you don't hesitate. Soon, her own wetness and your saliva coat her, leaving her dripping with desire."
-    "Al principio te pilla desprevenido, pero no lo dudes. Pronto, su propia humedad y tu saliva la cubren, dejándola goteando de deseo."
+    "Al principio te pilla desprevenido, pero no lo dudas. Pronto, su propia humedad y tu saliva la cubren, dejándola goteando de deseo."
 
 # game/code/Book-1/Chapter-7w/s05.rpy:508
 translate spanish b1c07ws05_bar_sex_d36e719b:
@@ -668,7 +668,7 @@ translate spanish b1c07ws05_bar_sex_05a49fbe:
 translate spanish b1c07ws05_bar_sex_2c7bf889:
 
     # ir "Yep, yep! Just tryna figure out my next great concoction!"
-    ir "¡Si si! ¡Sólo trato de descubrir mi próximo gran brebaje!"
+    ir "¡Si, si! ¡Sólo trato de descubrir mi próximo gran brebaje!"
 
 # game/code/Book-1/Chapter-7w/s05.rpy:518
 translate spanish b1c07ws05_bar_sex_a6a67c38:
@@ -698,7 +698,7 @@ translate spanish b1c07ws05_bar_sex_ff5172cb:
 translate spanish b1c07ws05_bar_sex_5e4398ce:
 
     # ir "*Gasped moan* Oh—!"
-    ir "*gemido jadeante* ¡Oh—!"
+    ir "*Gemido jadeante* ¡Oh—!"
 
 # game/code/Book-1/Chapter-7w/s05.rpy:547
 translate spanish b1c07ws05_bar_sex_19d38abd:
@@ -746,7 +746,7 @@ translate spanish b1c07ws05_bar_sex_2ea77132:
 translate spanish b1c07ws05_bar_sex_63513781:
 
     # mc "You were the one that wanted to play risky."
-    mc "Tú eras el que quería correr el riesgo."
+    mc "Tú eras la que quería correr el riesgo."
 
 # game/code/Book-1/Chapter-7w/s05.rpy:587
 translate spanish b1c07ws05_bar_sex_7c0550f5:
@@ -764,7 +764,7 @@ translate spanish b1c07ws05_bar_sex_511590a2:
 translate spanish b1c07ws05_bar_sex_5d3e63af:
 
     # ir "[mcname]— I— *Moans*"
-    ir "[mcname]—Yo— *gemidos*"
+    ir "[mcname]—Yo— *Gemidos*"
 
 # game/code/Book-1/Chapter-7w/s05.rpy:621
 translate spanish b1c07ws05_bar_sex_670f87d4:
@@ -806,7 +806,7 @@ translate spanish b1c07ws05_bar_sex_81aeb481:
 translate spanish b1c07ws05_bar_sex_70ada275:
 
     # ir "*Shakes her head* And {i}I'm{/i} the horny one."
-    ir "*Sacude la cabeza* Y {i}Yo soy{/i} la caliente."
+    ir "*Sacude la cabeza* Y {i}Yo soy{/i} la excitada."
 
 # game/code/Book-1/Chapter-7w/s05.rpy:652
 translate spanish b1c07ws05_bar_sex_0a5f37f0:
@@ -1112,7 +1112,7 @@ translate spanish b1c07ws05_iona_sex_4b3fd019:
 translate spanish b1c07ws05_iona_sex_a8eff729:
 
     # mct "What the...?"
-    mct "¿Que...?"
+    mct "¿Pero qué...?"
 
 # game/code/Book-1/Chapter-7w/s05.rpy:906
 translate spanish b1c07ws05_iona_sex_9ca9f694:
@@ -1202,13 +1202,13 @@ translate spanish b1c07ws05_bar_ir_d355694a:
 translate spanish b1c07ws05_bar_sex_e467b66c:
 
     # "You feel her convulsions and rising heat on your finger, making you even more motivated to claim your prize."
-    "Sientes sus convulsiones y su calor creciente en tu dedo, lo que te motiva aún más para reclamar tu precio."
+    "Sientes sus convulsiones y su calor creciente en tu dedo, lo que te motiva aún más para reclamar tu premio."
 
 # game/code/Book-1/Chapter-7w/s05.rpy:610
 translate spanish b1c07ws05_bar_sex_4f4b697b:
 
     # "You feel her convulsions and rising heat on your tongue, making you even more motivated to claim your prize."
-    "Sientes sus convulsiones y el aumento de calor en tu lengua, lo que te motiva aún más para reclamar tu precio."
+    "Sientes sus convulsiones y el aumento de calor en tu lengua, lo que te motiva aún más para reclamar tu premio."
 
 # game/code/Book-1/Chapter-7w/s05.rpy:829
 translate spanish b1c07ws05_iona_sex_fe01d4e4:
