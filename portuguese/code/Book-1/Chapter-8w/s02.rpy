@@ -1278,35 +1278,35 @@ translate portuguese strings:
 translate portuguese b1c08ws02_1a4f6af9:
 
     # "She bites her lower lip and admires your cock before grabbing a hold of it and slowly stroking up and down your entire length."
-    "She bites her lower lip and admires your cock before grabbing a hold of it and slowly stroking up and down your entire length."
+    "Ela morde o lábio e admira o seu pau, antes de agarrá-lo e lentamente subir e descer a mão por ele todo."
 
 # game/code/Book-1/Chapter-8w/s02.rpy:428
 translate portuguese b1c08ws02_b9360388:
 
     # oa "Ooh! wait a minute, you're conducting an orchestra, is that it?"
-    oa "Ooh! wait a minute, you're conducting an orchestra, is that it?"
+    oa "Aaah! Espera aí, você está conduzindo a orquestra, é isso?"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:439
 translate portuguese b1c08ws02_9741e484:
 
     # "You finally sit back down and let the group figure out your lie."
-    "You finally sit back down and let the group figure out your lie."
+    "Você finalmente se senta e deixa o grupo descobrir qual é a sua mentira."
 
 # game/code/Book-1/Chapter-8w/s02.rpy:441
 translate portuguese b1c08ws02_0f91acf7:
 
     # "You finally sit back down and let the group figure everything out."
-    "You finally sit back down and let the group figure everything out."
+    "Você finalmente se senta e deixa o grupo descobrir tudo."
 
 # game/code/Book-1/Chapter-8w/s02.rpy:458
 translate portuguese b1c08ws02_10845095:
 
     # "Everyone takes a turn trying to figure out which of your mimes were true and which one was the lie."
-    "Everyone takes a turn trying to figure out which of your mimes were true and which one was the lie."
+    "Cada um tem sua vez tentando descobrir quais das suas imitações eram verdade e qual era mentira."
 
 # game/code/Book-1/Chapter-8w/s02.rpy:572
 translate portuguese b1c08ws02_a1831067:
 
     # "Suddenly, the bus hits a bump in the road, causing Iona to take you even further into her mouth. She almost chokes, but manages to hold on and continue taking you to your very base."
-    "Suddenly, the bus hits a bump in the road, causing Iona to take you even further into her mouth. She almost chokes, but manages to hold on and continue taking you to your very base."
+    "De repente, o ônibus passa por algum quebra-molas, fazendo Iona engoli-lo ainda mais fundo. Ela quase engasga, mas consegue aguentar e continua engolindo até o fim."
 
