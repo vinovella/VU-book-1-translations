@@ -564,5 +564,5 @@ translate portuguese strings:
 translate portuguese b1c08ss06_66242071:
 
     # "It's doubtful they've had more than a few moments out of these binds since their capture."
-    "It's doubtful they've had more than a few moments out of these binds since their capture."
+    "Duvido que eles tiveram mais de alguns momentos fora dessas amarras desde que foram capturados."
 
