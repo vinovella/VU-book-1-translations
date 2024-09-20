@@ -1646,11 +1646,11 @@ translate portuguese strings:
 translate portuguese b1c08cs03_fbaa59a8:
 
     # "Nia and Lumi are distracted by watching the other women cum. They watch curiously and supportively as afterglow spreads up Ivy and Delphia's chests."
-    "Nia and Lumi are distracted by watching the other women cum. They watch curiously and supportively as afterglow spreads up Ivy and Delphia's chests."
+    "Nia e Lumi se distraem vendo as outras mulheres gozarem. Elas observam, curiosas e solidárias, enquanto o alívio se espalha pelos peitos de Ivy e Delphia."
 
 # game/code/Book-1/Chapter-8c/s03.rpy:670
 translate portuguese b1c08cs03_53d70e0f:
 
     # ll "No! Come, let's spread the joy!"
-    ll "No! Come, let's spread the joy!"
+    ll "Não! Vem, vamos compartilhar a alegria!"
 
