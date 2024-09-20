@@ -641,7 +641,7 @@ translate turkish strings:
     new "Kazananların Voleybol takımı kendilerini geliştirmek için uyuşturucu kullanıyor."
 
     # game/code/data/ib_descriptions.rpy:2
-    old "Andrejz, Nerium, Sloan, Yvonne, and Ivy seem to be very high-ranking in theis cult."
+    old "Andrejz, Nerium, Sloan, Yvonne, and Ivy seem to be very high-ranking in their cult."
     new "Andrejz, Nerium, Sloan, Yvonne ve Ivy bu tarikatta çok yüksek rütbeli görünüyor."
 
     # game/code/data/ib_descriptions.rpy:2
@@ -733,8 +733,8 @@ translate turkish strings:
     new "Monika'nın üvey kardeşi"
 
     # game/code/data/ib_descriptions.rpy:2
-    old "Advocates for and administers performance-enhancing drugs to the team, emphasizing a win-at-all-costs mentality"
-    new "Her ne pahasına olursa olsun kazanma zihniyetini vurgulayarak performans artırıcı ilaçları savunur ve takıma uygular"
+    old "Advocates for and administers performance-enhancing drugs to the team, emphasizing a win-at-all-costs mentality."
+    new "Her ne pahasına olursa olsun kazanma zihniyetini vurgulayarak performans artırıcı ilaçları savunur ve takıma uygular."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Allegedly responsible for a change in the drug schedule for the volleyball team which might be due to my adverse reaction to the drug."
@@ -871,8 +871,8 @@ translate turkish strings:
     new "Bonded with Nia and Zemfira over their missing friends."
 
     # game/code/data/ib_descriptions.rpy:2
-    old "Bonded with Silvia and Nia over their missing friends.."
-    new "Bonded with Silvia and Nia over their missing friends.."
+    old "Bonded with Silvia and Nia over their missing friends."
+    new "Bonded with Silvia and Nia over their missing friends."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Bonded with Zemfira and Silvia over their missing friends."

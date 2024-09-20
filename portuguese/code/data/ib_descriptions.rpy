@@ -639,7 +639,7 @@ translate portuguese strings:
     new "O time de voleibol dos Vencedores usa drogas para jogar melhor."
 
     # game/code/data/ib_descriptions.rpy:2
-    old "Andrejz, Nerium, Sloan, Yvonne, and Ivy seem to be very high-ranking in theis cult."
+    old "Andrejz, Nerium, Sloan, Yvonne, and Ivy seem to be very high-ranking in their cult."
     new "Andrejz, Nerium, Sloan, Yvonne, e Ivy parecem ser membros importantes de seu culto."
 
     # game/code/data/ib_descriptions.rpy:2
@@ -731,7 +731,7 @@ translate portuguese strings:
     new "Meia-irmã da Monika"
 
     # game/code/data/ib_descriptions.rpy:2
-    old "Advocates for and administers performance-enhancing drugs to the team, emphasizing a win-at-all-costs mentality"
+    old "Advocates for and administers performance-enhancing drugs to the team, emphasizing a win-at-all-costs mentality."
     new "Defende o uso e administra drogas para melhorar a performance do time, enfatizando a mentalidade de vencer a qualquer custo."
 
     # game/code/data/ib_descriptions.rpy:2
@@ -867,7 +867,7 @@ translate portuguese strings:
     new "Ficou amiga da Nia e Zemfira devido a suas amigas desaparecidas."
 
     # game/code/data/ib_descriptions.rpy:2
-    old "Bonded with Silvia and Nia over their missing friends.."
+    old "Bonded with Silvia and Nia over their missing friends."
     new "Ficou amiga da Silvia e Nia devido a suas amigas desaparecidas."
 
     # game/code/data/ib_descriptions.rpy:2

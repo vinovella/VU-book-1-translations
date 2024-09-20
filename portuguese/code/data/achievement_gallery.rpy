@@ -17,11 +17,11 @@ translate portuguese strings:
     new "Jogue o caminho da Iona."
 
     # game/code/data/achievement_gallery.rpy:5
-    old "03: Monica's Melons"
+    old "03: Monika's Melons"
     new "03: Melões da Monika"
 
     # game/code/data/achievement_gallery.rpy:5
-    old "Play Monica's path."
+    old "Play Monika's path."
     new "Jogue o caminho da Monika.."
 
     # game/code/data/achievement_gallery.rpy:5
@@ -269,7 +269,7 @@ translate portuguese strings:
     new "34: A Verdade te Libertará"
 
     # game/code/data/achievement_gallery.rpy:5
-    old "Kiss Pheobe and tell Fleur and Asami the truth."
+    old "Kiss Phoebe and tell Fleur and Asami the truth."
     new "Beije Phoebe e confesse para Fleur e Asami."
 
     # game/code/data/achievement_gallery.rpy:5
