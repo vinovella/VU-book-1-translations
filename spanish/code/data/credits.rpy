@@ -25,8 +25,12 @@
     new "TRANSLATIONS"
 
     # game/code/data/credits.rpy:3
-    old "Spanish translations by {a=https://steamcommunity.com/id/manubu/}Mustadio7813{/a}"
-    new "Spanish translations by {a=https://steamcommunity.com/id/manubu/}Mustadio7813{/a}"
+    old "Spanish translation by {a=https://steamcommunity.com/id/manubu/}Mustadio7813{/a}"
+    new "Spanish translation by {a=https://steamcommunity.com/id/manubu/}Mustadio7813{/a}"
+
+    # game/code/data/credits.rpy:3
+    old "Proofreading & Portuguese translation by .grubb (Discord)"
+    new "Proofreading & Portuguese translation by .grubb (Discord)"
 
     # game/code/data/credits.rpy:3
     old "ICONS"

@@ -308,7 +308,7 @@ translate spanish b1c08s02_at_garden_f1adf05b:
 translate spanish b1c08s02_at_garden_40ce7f9f:
 
     # lw "*Clears throat* I should probably head out. Got an early class tomorrow."
-    lw "*Se aclara la garganta* Probablemente debería salir. Mañana tengo clase temprano."
+    lw "*Se aclara la garganta* Probablemente debería irme. Tengo una clase temprano mañana."
 
 # game/code/Book-1/Chapter-8/s02.rpy:169
 translate spanish b1c08s02_at_garden_29b5b284:
@@ -530,7 +530,7 @@ translate spanish b1c08s02_at_garden_fbf6ce1f:
 translate spanish b1c08s02_jh_kiss_8712ed7c:
 
     # "It's a soft, lingering kiss, and you feel Josie's earlier tension melt away, leaving only the sweet vulnerability of the moment."
-    "Es un beso suave y prolongado, y sientes que la tensión anterior de Josie se desvanece, dejando solo la dulce vulnerabilidad del momento."
+    "Es un beso suave y prolongado, y sientes cómo la tensión previa de Josie se desvanece, dejando sólo la dulce vulnerabilidad del momento."
 
 # game/code/Book-1/Chapter-8/s02.rpy:288
 translate spanish b1c08s02_jh_kiss_93a1e2ba:
@@ -668,7 +668,7 @@ translate spanish b1c08s02_jh_kiss_f207bfa4:
 translate spanish b1c08s02_jh_kiss_9ac867fc:
 
     # mc "It's better to be messy and sure than throw yourself into something that'll hurt."
-    mc "Es mejor ser desordenada y segura que arrojarse a algo que te hará daño."
+    mc "Es mejor ser desordenado y seguro que arrojarse a algo que te hará daño."
 
 # game/code/Book-1/Chapter-8/s02.rpy:354
 translate spanish b1c08s02_jh_kiss_31891c8a:

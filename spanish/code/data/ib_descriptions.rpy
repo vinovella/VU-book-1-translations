@@ -639,7 +639,7 @@ translate spanish strings:
     new "El equipo Ganador de Voleibol usa drogas para mejorarse."
 
     # game/code/data/ib_descriptions.rpy:2
-    old "Andrejz, Nerium, Sloan, Yvonne, and Ivy seem to be very high-ranking in theis cult."
+    old "Andrejz, Nerium, Sloan, Yvonne, and Ivy seem to be very high-ranking in their cult."
     new "Andrejz, Nerium, Sloan, Yvonne e Ivy parecen ocupar un rango muy alto en este culto."
 
     # game/code/data/ib_descriptions.rpy:2
@@ -731,7 +731,7 @@ translate spanish strings:
     new "Media hermana de Mónica"
 
     # game/code/data/ib_descriptions.rpy:2
-    old "Advocates for and administers performance-enhancing drugs to the team, emphasizing a win-at-all-costs mentality"
+    old "Advocates for and administers performance-enhancing drugs to the team, emphasizing a win-at-all-costs mentality."
     new "Defiende y administra al equipo drogas para mejorar el rendimiento, haciendo hincapié en una mentalidad de ganar a toda costa."
 
     # game/code/data/ib_descriptions.rpy:2
@@ -869,7 +869,7 @@ translate spanish strings:
     new "Unida a Nia y Zemfira por sus amigas desaparecidas."
 
     # game/code/data/ib_descriptions.rpy:2
-    old "Bonded with Silvia and Nia over their missing friends.."
+    old "Bonded with Silvia and Nia over their missing friends."
     new "Unida a Silvia y Nia por sus amigas desaparecidas."
 
     # game/code/data/ib_descriptions.rpy:2

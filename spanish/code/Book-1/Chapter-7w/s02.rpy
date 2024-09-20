@@ -44,7 +44,7 @@ translate spanish b1c07ws02_5f852b2e:
 translate spanish b1c07ws02_9e2a3c70:
 
     # sdl "What you {i}should{/i} be asking is what information I have for you."
-    sdl "Lo que {i}debería{/i} estar preguntando es qué información tengo para usted."
+    sdl "Lo que {i}deberías{/i} estar preguntando es qué información tengo para ti."
 
 # game/code/Book-1/Chapter-7w/s02.rpy:71
 translate spanish b1c07ws02_36ea8101:
@@ -242,7 +242,7 @@ translate spanish b1c07ws02_ebf20fa0:
 translate spanish b1c07ws02_62570c58:
 
     # mc "Huh? You're the one that suggested giving a pissing man a blowjob!"
-    mc "¿Eh? ¡Tú eres la que sugirió hacerle una mamada a un hombre meando!"
+    mc "¿Eh? ¡Tú eres el que sugirió hacerle una mamada a un hombre que estaba orinando!"
 
 # game/code/Book-1/Chapter-7w/s02.rpy:183
 translate spanish b1c07ws02_a2125247:
@@ -278,7 +278,7 @@ translate spanish b1c07ws02_1245c5a1:
 translate spanish b1c07ws02_5ae4c7c4:
 
     # sdl "Doing anything to that pitiful party isn't going to change anything."
-    sdl "Hacer lo que sea en esa fiesta no va a cambiar nada."
+    sdl "Hacer cualquier cosa a ese lamentable partido no va a cambiar nada."
 
 # game/code/Book-1/Chapter-7w/s02.rpy:202
 translate spanish b1c07ws02_ddd9d77a:
@@ -398,7 +398,7 @@ translate spanish b1c07ws02_6e592c46:
 translate spanish b1c07ws02_9e64b776:
 
     # mc "*Chuckles* Not that I ever say no to such a generous reward, but I'd prefer to see you on your knees in a place that's {i}not{/i} the floor of a public bathroom."
-    mc "*Risas* No es que nunca diga que no a una recompensa tan generosa, pero preferiría verte de rodillas en un lugar que {i}no sea{/i} el suelo de un baño público."
+    mc "*Risas* No es que diga nunca que no a una recompensa tan generosa, pero preferiría verte de rodillas en un lugar que {i}no sea{/i} el suelo de un baño público."
 
 translate spanish strings:
 

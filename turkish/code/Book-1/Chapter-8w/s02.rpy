@@ -1160,7 +1160,7 @@ translate turkish b1c08ws02_567aeb0e:
 translate turkish b1c08ws02_e1e9a695:
 
     # ir "I don't mind being with the guys. I can bunk with [mcname] and Simon."
-    ir "Erkeklerle olmak umurumda değil. mcname] ve Simon ile takılabilirim."
+    ir "Erkeklerle olmak umurumda değil. [mcname] ve Simon ile takılabilirim."
 
 # game/code/Book-1/Chapter-8w/s02.rpy:634
 translate turkish b1c08ws02_2c4fa2a0:

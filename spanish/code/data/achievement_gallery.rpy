@@ -17,12 +17,12 @@
     new "Play Iona's path."
 
     # game/code/data/achievement_gallery.rpy:5
-    old "03: Monica's Melons"
-    new "03: Monica's Melons"
+    old "03: Monika's Melons"
+    new "03: Monika's Melons"
 
     # game/code/data/achievement_gallery.rpy:5
-    old "Play Monica's path."
-    new "Play Monica's path."
+    old "Play Monika's path."
+    new "Play Monika's path."
 
     # game/code/data/achievement_gallery.rpy:5
     old "04: Queen Bae"
@@ -269,8 +269,8 @@
     new "34: The Truth Will Free You"
 
     # game/code/data/achievement_gallery.rpy:5
-    old "Kiss Pheobe and tell Fleur and Asami the truth."
-    new "Kiss Pheobe and tell Fleur and Asami the truth."
+    old "Kiss Phoebe and tell Fleur and Asami the truth."
+    new "Kiss Phoebe and tell Fleur and Asami the truth."
 
     # game/code/data/achievement_gallery.rpy:5
     old "35: Junior Detective"
