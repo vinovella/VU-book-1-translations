@@ -20,25 +20,25 @@ translate portuguese strings:
 
     # game/code/functions/functions.rpy:281
     old "You've unlocked a new CG Gallery"
-    new ""
+    new "Você liberou uma nova Galeria de CG"
 
     # game/code/functions/functions.rpy:281
     old "You can watch the scene again in the Replay Room"
-    new ""
+    new "Você pode ver a cena novamente na Sala de Replay"
 
     # game/code/functions/functions.rpy:281
     old "You've unlocked a new bonus content"
-    new ""
+    new "Você liberou novo conteúdo extra"
 
 translate portuguese strings:
 
     # game/code/functions/functions.rpy:63
     old "You have updated a new character in the Investigation Board"
-    new ""
+    new "Você atualizou um personagem novo no Quadro de Investigação"
 
 translate portuguese strings:
 
     # game/code/functions/functions.rpy:374
     old "You've unlocked \"{}\" {}"
-    new "You've unlocked \"{}\" {}"
+    new "Você liberou \"{}\" {}"
 
