@@ -278,7 +278,7 @@ translate portuguese strings:
 
     # game/code/data/ib_characters.rpy:48
     old "Driver"
-    new "Driver"
+    new "Motorista"
 
     # game/code/data/ib_characters.rpy:48
     old "Bartender"
@@ -302,7 +302,7 @@ translate portuguese strings:
 
     # game/code/data/ib_characters.rpy:48
     old "Guide/Manager"
-    new "Guide/Manager"
+    new "Guia/Gerente"
 
     # game/code/data/ib_characters.rpy:48
     old "Grayson"
@@ -318,19 +318,19 @@ translate portuguese strings:
 
     # game/code/data/ib_characters.rpy:48
     old "Rival Team Spy"
-    new "Rival Team Spy"
+    new "Agente do Time Rival"
 
     # game/code/data/ib_characters.rpy:48
     old "Winner's Club"
-    new "Winner's Club"
+    new "Clube dos Vencedores"
 
     # game/code/data/ib_characters.rpy:48
     old "The Syndicate"
-    new "The Syndicate"
+    new "O Sindicato"
 
     # game/code/data/ib_characters.rpy:48
     old "Cult"
-    new "Cult"
+    new "Culto"
 
     # game/code/data/ib_characters.rpy:48
     old "Hellena"
@@ -342,7 +342,7 @@ translate portuguese strings:
 
     # game/code/data/ib_characters.rpy:48
     old "Gang leader of The Wasps"
-    new "Gang leader of The Wasps"
+    new "Líder da gangue das Vespas"
 
     # game/code/data/ib_characters.rpy:48
     old "Gabriella"
@@ -354,7 +354,7 @@ translate portuguese strings:
 
     # game/code/data/ib_characters.rpy:48
     old "Cafeteria Lady"
-    new "Cafeteria Lady"
+    new "Merendeira"
 
     # game/code/data/ib_characters.rpy:48
     old "James"
@@ -366,7 +366,7 @@ translate portuguese strings:
 
     # game/code/data/ib_characters.rpy:48
     old "Professor & Alumnus"
-    new "Professor & Alumnus"
+    new "Docente & Alumnus"
 
     # game/code/data/ib_characters.rpy:48
     old "Williams"
@@ -374,7 +374,7 @@ translate portuguese strings:
 
     # game/code/data/ib_characters.rpy:48
     old "CCC Student"
-    new "CCC Student"
+    new "Estudante da FCC"
 
     # game/code/data/ib_characters.rpy:48
     old "O'Neil"
@@ -394,11 +394,11 @@ translate portuguese strings:
 
     # game/code/data/ib_characters.rpy:48
     old "Professor at Vinovella University"
-    new "Professor at Vinovella University"
+    new "Docente na Universidade ViNovella"
 
     # game/code/data/ib_characters.rpy:48
     old "The Prophet"
-    new "The Prophet"
+    new "A Profeta"
 
     # game/code/data/ib_characters.rpy:48
     old "Welch"
@@ -406,7 +406,7 @@ translate portuguese strings:
 
     # game/code/data/ib_characters.rpy:48
     old "Forest ranger"
-    new "Forest ranger"
+    new "Guarda Florestal"
 
     # game/code/data/ib_characters.rpy:48
     old "Sloan T."
