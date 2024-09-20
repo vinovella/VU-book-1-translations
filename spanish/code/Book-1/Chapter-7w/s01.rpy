@@ -14,7 +14,7 @@ translate spanish b1c07ws01_9688e638:
 translate spanish b1c07ws01_d09bd306:
 
     # ir "Ow, what the—? Oh! [mcname]!"
-    ir "Ay, ¿qué...? ¡Oh! [mcname]!"
+    ir "Ay, ¿qué...? ¡Oh! ¡[mcname]!"
 
 # game/code/Book-1/Chapter-7w/s01.rpy:43
 translate spanish b1c07ws01_618ea763:
@@ -62,7 +62,7 @@ translate spanish b1c07ws01_3c1ab1d7:
 translate spanish b1c07ws01_b7940507:
 
     # sm "There you are. Good morning, [mcname]."
-    sm "Ahí tienes. Buenos días, [mcname]."
+    sm "Ahí estás. Buenos días, [mcname]."
 
 # game/code/Book-1/Chapter-7w/s01.rpy:81
 translate spanish b1c07ws01_aa03a0f1:
@@ -92,7 +92,7 @@ translate spanish b1c07ws01_0db9a34d:
 translate spanish b1c07ws01_6458842a:
 
     # ir "Speaking of fitting decently."
-    ir "Hablando de encajar decentemente."
+    ir "Hablando de quedar bien."
 
 # game/code/Book-1/Chapter-7w/s01.rpy:99
 translate spanish b1c07ws01_f9f38327:
@@ -182,7 +182,7 @@ translate spanish b1c07ws01_measurement_496f49ba:
 translate spanish b1c07ws01_measurement_05de308f:
 
     # sm "C'mon, hands spread!"
-    sm "¡Vamos, separa las manos!"
+    sm "¡Vamos, separa los brazos!"
 
 # game/code/Book-1/Chapter-7w/s01.rpy:176
 translate spanish b1c07ws01_measurement_c9945799:
@@ -212,7 +212,7 @@ translate spanish b1c07ws01_measurement_f1034048:
 translate spanish b1c07ws01_measurement_d36207ee:
 
     # ir "Of course I am.{w} Just look at my top. Thing fits me like a fine glove."
-    ir "Claro que sí.{w} Mira mi top. Me queda como un guante."
+    ir "Claro que sí.{w} Mira mi top. Me queda estupendamente."
 
 # game/code/Book-1/Chapter-7w/s01.rpy:212
 translate spanish b1c07ws01_measurement_cbbff0c9:
@@ -242,7 +242,7 @@ translate spanish b1c07ws01_measurement_4ee46041:
 translate spanish b1c07ws01_measurement_6832f759:
 
     # ir "*Wolf whistles* Damn, sweet cheeks. You look {i}fine{/i} in that."
-    ir "*Lobo silba* Maldita sea, mejillas dulces. Te ves {i}bien{/i} en eso."
+    ir "*Silbidos de lobo* Maldita sea, mejillas dulces. Te ves {i}bien{/i} en eso."
 
 # game/code/Book-1/Chapter-7w/s01.rpy:236
 translate spanish b1c07ws01_measurement_bfc1fa21:
@@ -392,7 +392,7 @@ translate spanish b1c07ws01_measurement_a313547f:
 translate spanish b1c07ws01_measurement_3d39b3d8:
 
     # ir "Goody two shoes.{w} Alright. See you two later then."
-    ir "Goody dos zapatos. {w} Muy bien. Nos vemos más tarde entonces."
+    ir "Buen viaje.{w} De acuerdo. Nos vemos más tarde entonces."
 
 # game/code/Book-1/Chapter-7w/s01.rpy:309
 translate spanish b1c07ws01_measurement_31bcec9e:
