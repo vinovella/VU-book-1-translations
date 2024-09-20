@@ -22,7 +22,7 @@ translate portuguese strings:
 
     # game/code/data/replay_room.rpy:16
     old "C04: Locker Room Fling With Iona"
-    new "C04: Brincando no Vestiário com Iona"
+    new "C04: No Vestiário com Iona"
 
     # game/code/data/replay_room.rpy:16
     old "You like partying."
@@ -122,7 +122,7 @@ translate portuguese strings:
 
     # game/code/data/replay_room.rpy:16
     old "C07: Finish What Delphia Started"
-    new "C07: Termine o que Delphia Começou"
+    new "C07: Acabe o que Delphia Começou"
 
     # game/code/data/replay_room.rpy:16
     old "Help Delphia."
@@ -334,7 +334,7 @@ translate portuguese strings:
 
     # game/code/data/replay_room.rpy:16
     old "C09: Naked Mile With Iona & Isa"
-    new "C09: Correndo Pelado Com Iona e Isa"
+    new "C09: Pelado Com Iona e Isa"
 
     # game/code/data/replay_room.rpy:16
     old "C09: Rope Play With Delphia"
