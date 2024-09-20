@@ -238,7 +238,7 @@ translate portuguese strings:
 
     # game/code/data/achievement_gallery.rpy:5
     old "Click the Butcher's street background character."
-    new "Clique no personagem de fundo na rua do Açougue."
+    new "Clique na pessoa ao fundo na rua do Açougue."
 
     # game/code/data/achievement_gallery.rpy:5
     old "31: Meat Lovers"
@@ -270,7 +270,7 @@ translate portuguese strings:
 
     # game/code/data/achievement_gallery.rpy:5
     old "Kiss Pheobe and tell Fleur and Asami the truth."
-    new "Beije Phoebe e fale para a verdade para Fleur e Asami."
+    new "Beije Phoebe e confesse para Fleur e Asami."
 
     # game/code/data/achievement_gallery.rpy:5
     old "35: Junior Detective"
