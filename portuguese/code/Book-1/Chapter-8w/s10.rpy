@@ -398,5 +398,5 @@ translate portuguese b1c08ws10_6778327d:
 translate portuguese b1c08ws10_777e1ea1:
 
     # oa "We wouldn't have had to deal with any of this if we just played without it. We don't need dangerous—"
-    oa "We wouldn't have had to deal with any of this if we just played without it. We don't need dangerous—"
+    oa "Não precisaríamos ter que lidar com isso se não se tivéssemos jogado sem drogas. Não precisamos dessas coisas perigosas—"
 
