@@ -308,7 +308,7 @@ translate spanish b1c07ws04_ae4e0390:
 translate spanish b1c07ws04_efd049ba:
 
     # ir "If I'm gonna be the right wing spiker, I think Simon should be the libero."
-    ir "Si voy a ser del ala derecha, creo que Simón debería ser el líbero."
+    ir "Si voy a ser el ala derecha, creo que Simón debería ser el líbero."
 
 # game/code/Book-1/Chapter-7w/s04.rpy:202
 translate spanish b1c07ws04_896c8d10:
@@ -320,7 +320,7 @@ translate spanish b1c07ws04_896c8d10:
 translate spanish b1c07ws04_a1bfb5c5:
 
     # mc "Great. And then Olesya can \"help\" Monika with defense."
-    mc "Excelente. Y luego Olesya puede \"ayudar\" a Monika con la defensa."
+    mc "Excelente. Y luego Olesya puede \"ayudar\" a Mónica con la defensa."
 
 # game/code/Book-1/Chapter-7w/s04.rpy:208
 translate spanish b1c07ws04_a20cefa7:
@@ -338,7 +338,7 @@ translate spanish b1c07ws04_f3b3d28f:
 translate spanish b1c07ws04_bb5030ad:
 
     # ir "I think it'd be better if Olesya and Monika help the others practice instead."
-    ir "Creo que sería mejor si Olesya y Monika ayudaran a los demás a practicar."
+    ir "Creo que sería mejor si Olesya y Mónica ayudaran a los demás a practicar."
 
 # game/code/Book-1/Chapter-7w/s04.rpy:220
 translate spanish b1c07ws04_2876efd9:
@@ -416,13 +416,13 @@ translate spanish b1c07ws04_a94823eb:
 translate spanish b1c07ws04_ba268cfb:
 
     # ba "This is fucking dumb. We have a mansion behind us and we're playing volleyball with shorts on."
-    ba "Esto es jodidamente tonto. Tenemos una mansión detrás de nosotros y estamos jugando voleibol con pantalones cortos."
+    ba "Esto es una estupidez. Tenemos una mansión detrás y estamos jugando voleibol con pantalones cortos."
 
 # game/code/Book-1/Chapter-7w/s04.rpy:325
 translate spanish b1c07ws04_5b78a41b:
 
     # ba "Of course people would look at us! Doesn't mean that they're fucking spies."
-    ba "¡Por supuesto que la gente nos miraría! No quiere decir que sean malditos espías."
+    ba "¡Por supuesto que la gente nos miraría! Eso no significa que sean unos malditos espías."
 
 # game/code/Book-1/Chapter-7w/s04.rpy:328
 translate spanish b1c07ws04_78b1e68e:
@@ -434,7 +434,7 @@ translate spanish b1c07ws04_78b1e68e:
 translate spanish b1c07ws04_52a488c3:
 
     # mc "{size=20}They might be spies, they might not be. Wouldn't you rather find out for yourself?{/size}"
-    mc "{size=20}Pueden ser espías, puede que no lo sean. ¿No preferirías averiguarlo por ti misma? {/size}"
+    mc "{size=20}Podrían ser espías, podrían no serlo. ¿No preferirías averiguarlo por ti misma?{/size}"
 
 # game/code/Book-1/Chapter-7w/s04.rpy:334
 translate spanish b1c07ws04_1481f17d:
@@ -452,7 +452,7 @@ translate spanish b1c07ws04_1ed2d51b:
 translate spanish b1c07ws04_f4791a71:
 
     # mc "{size=20}Monika, Simon, and Iona you three should cut their other escape off by going through the gate.{/size}"
-    mc "{size=20}Monika, Simón e Iona ustedes tres deben cortar su otro escape pasando por la puerta.{/size}"
+    mc "{size=20}Mónica, Simón e Iona ustedes tres deben cortar su otro escape pasando por la puerta.{/size}"
 
 # game/code/Book-1/Chapter-7w/s04.rpy:342
 translate spanish b1c07ws04_8793a23b:
@@ -524,11 +524,11 @@ translate spanish b1c07ws04_297eb6ba:
 translate spanish b1c07ws04_2d2e86d8:
 
     # sl "We showed those bastards not to mess with the Winners!"
-    sl "¡Les mostramos a esos bastardos que no se metan con los Ganadores!"
+    sl "¡Les enseñamos a esos bastardos a no meterse con los Ganadores!"
 
 # game/code/Book-1/Chapter-7w/s04.rpy:449
 translate spanish b1c07ws04_aa30840e:
 
     # mc "*Laughs* I think that was a mission well done, guys."
-    mc "*Risas* Creo que fue una misión bien hecha, muchachos."
+    mc "*Risas* Creo que fue una misión bien hecha, chicos."
 
