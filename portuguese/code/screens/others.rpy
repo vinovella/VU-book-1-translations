@@ -40,13 +40,13 @@ translate portuguese strings:
 
     # game/code/screens/others.rpy:10
     old "We collect only anonymized data to better understand which paths, characters, scenes, and fetishes are most popular and to identify areas for improvement."
-    new "We collect only anonymized data to better understand which paths, characters, scenes, and fetishes are most popular and to identify areas for improvement."
+    new "Só coletamos dados anônimos para entender melhor os caminhos, personagens, cenas e fetiches mais populares e papra identificar áreas que precisam de melhora."
 
     # game/code/screens/others.rpy:11
     old "NO PERSONAL INFORMATION IS COLLECTED."
-    new "NO PERSONAL INFORMATION IS COLLECTED."
+    new "NÃO COLETAMOS DADOS PESSOAIS."
 
     # game/code/screens/others.rpy:13
     old "Would you like to enable this data collection?"
-    new "Would you like to enable this data collection?"
+    new "Gostaria de habilitar essa coleta de dados?"
 
