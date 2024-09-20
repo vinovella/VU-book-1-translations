@@ -794,11 +794,11 @@ translate portuguese strings:
 translate portuguese b1c08ss05_670a3234:
 
     # xv "We need someone to stay with it and ensure our escape. It's too dangerous for you to be in the thick of it."
-    xv "We need someone to stay with it and ensure our escape. It's too dangerous for you to be in the thick of it."
+    xv "Precisamos de alguém aqui para garantir a rota de fuga. É perigoso demais você ficar no meio disso."
 
 # game/code/Book-1/Chapter-8s/s05.rpy:384
 translate portuguese b1c08ss05_choice_c14c407e:
 
     # fox "I've always been a mediator. Just because I can fight doesn't mean I won't try to stop them."
-    fox "I've always been a mediator. Just because I can fight doesn't mean I won't try to stop them."
+    fox "Sempre fui uma mediadora. Só porque sei brigar não quer dizer que não vou tentar parar brigas."
 
