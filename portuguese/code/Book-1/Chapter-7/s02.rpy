@@ -486,17 +486,17 @@ translate portuguese strings:
 translate portuguese b1c07s02_5fb9645a:
 
     # mct "I don't have time to mess around with both Ronja and Diana. I need to figure out who to potentially buddy up with, or at least tolerate."
-    mct "I don't have time to mess around with both Ronja and Diana. I need to figure out who to potentially buddy up with, or at least tolerate."
+    mct "Não tenho tempo de brincar com ambas Ronja e Diana. Preciso ver quem vou me aproximar, ou pelo menos tolerar."
 
 # game/code/Book-1/Chapter-7/s02.rpy:141
 translate portuguese b1c07s02_fcd0cea0:
 
     # mct "This could be a good opportunity to get closer to Diana and gather more information..."
-    mct "This could be a good opportunity to get closer to Diana and gather more information..."
+    mct "Essa pode ser uma boa oportunidade para me aproximar da Diana e conseguir mais informação..."
 
 # game/code/Book-1/Chapter-7/s02.rpy:143
 translate portuguese b1c07s02_4052dcaa:
 
     # mct "But then again, Ronja might be the better lead."
-    mct "But then again, Ronja might be the better lead."
+    mct "Mas pensando bem, talvez a Ronja tenha mais informações."
 
