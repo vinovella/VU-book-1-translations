@@ -630,339 +630,339 @@ translate portuguese strings:
 
     # game/code/data/ib_descriptions.rpy:2
     old "There seems to be some tension between her and Olesya."
-    new "There seems to be some tension between her and Olesya."
+    new "Parece que há certa animosidade entre ela e Olesya."
 
 translate portuguese strings:
 
     # game/code/data/ib_descriptions.rpy:2
     old "The Winner's Volleyball team uses drugs to enhance themselves."
-    new ""
+    new "O time de voleibol dos Vencedores usa drogas para jogar melhor."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Andrejz, Nerium, Sloan, Yvonne, and Ivy seem to be very high-ranking in theis cult."
-    new ""
+    new "Andrejz, Nerium, Sloan, Yvonne, e Ivy parecem ser membros importantes de seu culto."
 
     # game/code/data/ib_descriptions.rpy:2
     old "The cult worships a godly figure named Narurra. They have their own intricate lore of how this god came to be."
-    new ""
+    new "O culto adora uma deusa chamada Narurra. Eles têm sua própria história de como essa coisa nasceu."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Recently ended a relationship with her boyfriend. Feeling vulnerable and burdened by managerial duties and recent events."
-    new ""
+    new "Recentemente terminou o namoro com o namorado. Sentindo-se vulnerável e sobrecarregada com deveres de gerência e eventos recentes."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Designated as the backup leader in case of emergency during the rescue operation. Indicates trust and responsibility within The Syndicate."
-    new ""
+    new "Designada como líder reserva em caso de emergência durante a operação de resgate. Indica confiança e responsabilidade dentro do Sindicato."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Nia doesn't see how the self-help group is a cult, she's already too indoctrinated."
-    new ""
+    new "Nia não vê como o grupo de autoajuda é um culto, ela já está influenciada demais."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Good friends with Monika."
-    new ""
+    new "Bem amiga da Monika."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Simon knows about what I did with Monika at the hotel."
-    new ""
+    new "Simon sabe o que eu fiz com a Monika no hotel."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Regularly participates in drug use, familiar with the process."
-    new ""
+    new "Usa drogas regularmente, conhece processo."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Irene believes her spiritual scrying hinted at the missing girls' disappearance."
-    new ""
+    new "Irene acredita que sua leitura espiritual de espelhos indicou o desaparecimento das garotas."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Reluctantly participates in drug use, appears uncomfortable with the situation."
-    new ""
+    new "Está relutante em participar do uso de drogas, não parece gostar da situação."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Iona knows about what I did with Monika at the hotel."
-    new ""
+    new "Iona sabe o que eu fiz com a Monika no hotel."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Focused on gaining a strategic advantage in the upcoming tournament against CCC."
-    new ""
+    new "Focada em ganhar uma vantagem estratégica no próximo torneio contra FCC."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Good friends with Simon."
-    new ""
+    new "É bem amiga de Simon."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Expresses strong dislike and distrust towards Olesya, referring to her as \"murderous\"."
-    new ""
+    new "Aparecendo tá muito desdém e desconfiança da Olesya, chamando ela de \"homicida\"."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Mentioned trouble in the theater group due to an incident involving Olesya."
-    new ""
+    new "Mencionou um problema no grupo de teatro devido a um incidente envolvendo Olesya."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Participates in the team's drug use without visible discomfort."
-    new ""
+    new "Participa do uso de drogas do time sem desconforto visível."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Allegedly capitalized on Olesya's vulnerabilities during her addiction struggles, leading to animosity between them."
-    new ""
+    new "Aparentemente, usou a vulnerabilidade da Olesya durante sua luta com o vício, causando problemas entre elas."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Half-sibling of Olesya."
-    new ""
+    new "Meia-irmã da Olesya."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Monika describes Olesya as being murderous."
-    new ""
+    new "Monika descreve Olesya como homicida."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Shows hesitation and discomfort regarding the team's drug use."
-    new ""
+    new "Demonstra hesitação e desconforto com o uso de drogas do time."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Olesya's drug use was the catalyst for the team's drug use."
-    new ""
+    new "O uso de drogas da Olesya foi o estopim para o time usar drogas."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Lost a leg in a car accident, which led to an opioid addiction and dependency on performance-enhancing drugs for volleyball."
-    new ""
+    new "Perdeu uma perna em um acidente de carro, que levou ao vício em opioides e dependência de droga para melhorar desempenho de vôlei."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Half-sibling of Monika"
-    new ""
+    new "Meia-irmã da Monika"
 
     # game/code/data/ib_descriptions.rpy:2
     old "Advocates for and administers performance-enhancing drugs to the team, emphasizing a win-at-all-costs mentality"
-    new ""
+    new "Defende o uso e administra drogas para melhorar a performance do time, enfatizando a mentalidade de vencer a qualquer custo."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Allegedly responsible for a change in the drug schedule for the volleyball team which might be due to my adverse reaction to the drug."
-    new ""
+    new "Supostamente responsável por uma mudança no cronograma de uso de drogas do time de vôlei, que pode ser devido à minha reação adversa à droga."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Expresses strong frustration towards the team's performance and dependency on performance-enhancing drugs."
-    new ""
+    new "Demonstra muita frustração com a performance do time e a dependência nas drogas de desempenho."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Indicates a need to \"report back\" about the loss, suggesting accountability to an external party."
-    new ""
+    new "Indica a necessidade de \"reportar\" a derrota, o que sugere que deve explicações a alguém."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Brigitta knows about what I did with Monika at the hotel."
-    new ""
+    new "Brigitta sabe o que eu fiz com a Monika no hotel."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Reveals a history of violence and survival, indicating a tough upbringing."
-    new ""
+    new "Revela uma história de violência e sobrevivência, indicando uma infância difícil."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Despite her tough exterior, she has a tendency to mediate conflicts, pointing to a deeper sense of responsibility towards others."
-    new ""
+    new "Apesar do interior durão, ela tem a tendência de mediar conflitos, mostrando um profundo senso de responsabilidade com os outros."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Reported missing."
-    new ""
+    new "Paradeiro desconhecido."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Allegedly kidnapped by Cade and taken to a warehouse controlled by The Wasps."
-    new ""
+    new "Aparentemente sofreu rapto pelo Cade e está num armazém controlado pelas Vespas."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Xasan intends to bomb The Wasps."
-    new ""
+    new "Xasan quer soltar uma bomba nas Vespas.
 
     # game/code/data/ib_descriptions.rpy:2
     old "Allegedly kidnapped Nirmala, Sabrina, and Q."
-    new ""
+    new "Aparentemente sequestrou Nirmala, Sabrina, e Q."
 
     # game/code/data/ib_descriptions.rpy:2
     old "The self-help group seems to be putting significant pressure on her to get tattooed."
-    new ""
+    new "O grupo de autoajuda parece estar pressionando muito ela para fazer uma tatuagem."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Lumi feels like she was a burden to her parents and hopes that the group will give her the confidence and strength to feel less like a burden."
-    new ""
+    new "Lumi sente que era um estorvo para seus pais, e espera que o grupo dê a confiança e força que ela precisa para se sentir menos estorvo."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Lumi has decided to get tattooed."
-    new ""
+    new "Lumi decidiu fazer a tatuagem."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Lives at the campground with Nerium, Yvonne, and Sloan. Manages the team of forest rangers and seems to guide them spiritually."
-    new ""
+    new "Vive no acampamento com Nerium, Yvonne, e Sloan. Gerencia o time de guardas florestais e parece guiá-los espiritualmente."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Member of the rival CCC volleyball team."
-    new ""
+    new "Membro do time de vôlei rival da FCC."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Tried to spy on us during practice."
-    new ""
+    new "Tentou nos espiar durante o treino."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Tried to seduce me during the conference."
-    new ""
+    new "Tentou me seduzir durante a conferência."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Engages in manipulative and seductive behavior. Exhibits sadistic traits."
-    new ""
+    new "Tem um comportamento sedutor e manipulativo Exibe traços sadísticos."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Hellena wants to strike a deal with the leader of The Syndicate."
-    new ""
+    new "Hellena quer fazer acordo com o líder de Sindicato."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Seen with The Syndicate. Potentially connected."
-    new ""
+    new "Vi com o Sindicato. Potencialmente tem algo a ver."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Captain of the rival CCC volleyball team."
-    new ""
+    new "Capitã do time de vôlei rival da FCC."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Acknowledges the misconduct of team members but denies involvement. Expresses desire for fair play."
-    new ""
+    new "Reconhece a conduta errada dos membros do time, mas nega envolvimento. Expressa desejo de jogo justo."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Has known and had previous contact with Klara."
-    new ""
+    new "Conheceu e entrou em contato anteriormente com a Klara."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Found me unconscious and took me to her hotel room."
-    new ""
+    new "Me encontrou inconsciente e me levou ao seu quarto do hotel."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Assists The Winners with logistics. Helped pick out the hotel for the team's tournament."
-    new ""
+    new "Ajuda os Vencedores com logística. Ajudou a escolher o hotel para o torneio do time."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Involved in managing press and charity activities for the Winner's Group. Expected the team to attend a press conference."
-    new ""
+    new "Tem envolvimento de gerenciar eventos de caridade e imprensa para o grupo dos Vencedores. Espera que o time atenda a uma conferência de imprensa."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Visits the campgrounds. Seems to know Andrejz and Ivy."
-    new ""
+    new "Visita o acampamento. Parece conhecer Andrejz e Ivy."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Lives at the campground."
-    new ""
+    new "Vive no acampamento."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Lives at the campground with Nerium and Sloan. Used to be on fire watch duty before she was too pregnant."
-    new ""
+    new "Vive no acampamento com Nerium e Sloan. Cuidava de procurar incêndios antes da gravidez avançar muito."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Lives at the campground with Yvonne and Nerium. Focuses on wildlife conservation."
-    new ""
+    new "Vive no acampamento com Yvonne e Nerium. Focada em conservação da fauna."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Lives at the campground with Yvonne and Sloan. Manages and tracks the local flora."
-    new ""
+    new "Vive no acampamento com Yvonne e Sloan. Gerencia e fica a par da flora local."
 
     # game/code/data/ib_descriptions.rpy:2
     old "A highly revered figure in the Children of Narurra cult."
-    new ""
+    new "Uma figura muito reverenciada no culto dos Filhos de Narurra."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Bonded with Nia and Zemfira over their missing friends."
-    new ""
+    new "Ficou amiga da Nia e Zemfira devido a suas amigas desaparecidas."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Bonded with Silvia and Nia over their missing friends.."
-    new ""
+    new "Ficou amiga da Silvia e Nia devido a suas amigas desaparecidas."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Bonded with Zemfira and Silvia over their missing friends."
-    new ""
+    new "Ficou amiga da Zemfira e Silvia devido a suas amigas desaparecidas."
 
     # game/code/data/ib_descriptions.rpy:2
     old "She is into rope play and watersports."
-    new ""
+    new "Ela gosta de usar corda e urina sexualmente."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Friends with Olesya."
-    new ""
+    new "Amiga da Olesya."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Iona is into voyeurism/public sex."
-    new ""
+    new "Iona gosta de voyeur/sexo público."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Half-sibling of Monika."
-    new ""
+    new "Meia-irmã da Monika."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Friends with Josie."
-    new ""
+    new "Amiga da Josie."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Has secret conversations with Prof. Harlan."
-    new ""
+    new "Tem conversas secretas com o Prof. Harlan."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Fleur likes to be soft dommed."
-    new ""
+    new "Fleur gosta de ser dominada de leve."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Lilith helps Asami with the party planning, and Foxy with managing the fighters."
-    new ""
+    new "Lilith ajuda Asami a planejar festas e Foxy gerencia os lutadores."
 
     # game/code/data/ib_descriptions.rpy:2
     old "The cult is pressuring Eliina to get pregnant."
-    new ""
+    new "O culto está pressionando Eliina a engravidar."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Winner's Club's party host."
-    new ""
+    new "Anfitriã da festa do Clube dos Vencedores."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Has a file drawer in the employee section of the fight club."
-    new ""
+    new "Tem uma gaveta na seção de empregados no arquivo do clube da luta."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Keeps random trash in her file drawer."
-    new ""
+    new "Guarda o lixo aleatório na sua gaveta."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Gabbie has possession of Leia's phone."
-    new ""
+    new "Gabbie está com o telefone da Leia."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Gabbie had conflict with Leia."
-    new ""
+    new "Gabbie estava brigando com a Leia."
 
     # game/code/data/ib_descriptions.rpy:2
     old "#1 suspect in Leia's disappearance."
-    new ""
+    new "Suspeita #1 no desaparecimento da Leia."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Knows that Brig passes out drugs to the Winners. Seems to encourage it."
-    new ""
+    new "Sabe que a Brig dá drogas para os Vencedores. Parece estar encorajando."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Something happened with Klara."
-    new ""
+    new "Aconteceu alguma coisa com a Klara."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Harlan had conflict with Klara."
-    new ""
+    new "Harlan teve algum problema com a Klara."
 
     # game/code/data/ib_descriptions.rpy:2
     old "He is the #1 suspect in Klara's disappearance."
-    new ""
+    new "Ele é o suspeito #1 no desaparecimento da Klara."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Seems to be a high-ranking member of the cult."
-    new ""
+    new "Parece ser bem importante no culto."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Had a conflict with a crazy ex or something."
-    new ""
+    new "Brigou com uma ex maluca ou algo assim."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Kara did not have a crazy ex. She had conflict with Maria."
-    new ""
+    new "Kara não tinha uma ex maluca. Ela estava com problemas com a Maria."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Kara is #1 suspect in Maria's disappearance."
-    new ""
+    new "Kara é a suspeita #1 no desaparecimento da Maria."
 
