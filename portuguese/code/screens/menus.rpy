@@ -64,8 +64,6 @@ translate portuguese strings:
     old "Join us on Discord"
     new "Entre no nosso Discord"
 
-translate portuguese strings:
-
     # game/code/screens/menus.rpy:584
     old "Quick"
     new "Rápido"
@@ -86,8 +84,6 @@ translate portuguese strings:
     old "Master Volume"
     new "Volume Geral"
 
-translate portuguese strings:
-
     # game/code/screens/menus.rpy:308
     old "Wishlist Taboo University on Steam"
     new "Ponha Taboo University na sua lista de Desejos da Steam"
@@ -95,12 +91,6 @@ translate portuguese strings:
     # game/code/screens/menus.rpy:824
     old "Analytics"
     new "Estatísticas"
-
-    # game/code/screens/menus.rpy:829
-    old "We only collect anonymous data about in-game choices."
-    new "Coletamos apenas dados anônimos sobre escolhas feitas no jogo."
-
-translate portuguese strings:
 
     # game/code/screens/menus.rpy:834
     old "We only collect data on in-game choices, no personal information is collected."

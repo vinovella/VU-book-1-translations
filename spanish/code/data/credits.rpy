@@ -25,8 +25,8 @@
     new "TRANSLATIONS"
 
     # game/code/data/credits.rpy:3
-    old "Spanish transitions by {a=https://steamcommunity.com/id/manubu/}Mustadio7813{/a}"
-    new "Spanish transitions by {a=https://steamcommunity.com/id/manubu/}Mustadio7813{/a}"
+    old "Spanish translations by {a=https://steamcommunity.com/id/manubu/}Mustadio7813{/a}"
+    new "Spanish translations by {a=https://steamcommunity.com/id/manubu/}Mustadio7813{/a}"
 
     # game/code/data/credits.rpy:3
     old "ICONS"
