@@ -1228,5 +1228,5 @@ translate portuguese strings:
 translate portuguese b1c09s05_femdom_end_d8cd946f:
 
     # "Her touch, what was once bliss, is now agony. You feel as if you could burst any moment, but you still hold on."
-    "Her touch, what was once bliss, is now agony. You feel as if you could burst any moment, but you still hold on."
+    "O toque dela, que antes trazia êxtase, agora é agonizante. Você sente que poderia gozar a qualquer momento, mas ainda se segura."
 
