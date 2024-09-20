@@ -26,7 +26,7 @@ translate spanish b1c08ss11_c9cc490a:
 translate spanish b1c08ss11_e910bef4:
 
     # mg "Oh, you're here."
-    mg "Ah, estás aquí."
+    mg "Oh, estás aquí."
 
 # game/code/Book-1/Chapter-8s/s11.rpy:64
 translate spanish b1c08ss11_0ee3fe83:
@@ -38,7 +38,7 @@ translate spanish b1c08ss11_0ee3fe83:
 translate spanish b1c08ss11_6d0471c5:
 
     # mc "I understand. How are you holding up after...?"
-    mc "Entiendo. ¿Cómo te llevas después...?"
+    mc "Entiendo. ¿Cómo lo llevas después de...?"
 
 # game/code/Book-1/Chapter-8s/s11.rpy:70
 translate spanish b1c08ss11_617c4153:
@@ -128,7 +128,7 @@ translate spanish b1c08ss11_c4c6d64d:
 translate spanish b1c08ss11_e55a582b:
 
     # mg "You wanted a sore body, and to be a part of a gang that barely gives a shit about you?"
-    mg "¿Querías tener un cuerpo dolorido y ser parte de una pandilla a la que apenas le importas una mierda?"
+    mg "¿Querías tener el cuerpo dolorido y ser parte de una banda a la que apenas le importas?"
 
 # game/code/Book-1/Chapter-8s/s11.rpy:103
 translate spanish b1c08ss11_40d2eecd:
@@ -200,7 +200,7 @@ translate spanish b1c08ss11_b510daf5:
 translate spanish b1c08ss11_e02b8048:
 
     # mg "Yeah, me too. I never should've looked up to my sister as much as I did. I idolized her, y'know?"
-    mg "Sí yo también. Nunca debí haber admirado a mi hermana tanto como lo hice. La idolatraba, ¿sabes?"
+    mg "Sí, yo también. Nunca debí haber admirado a mi hermana tanto como lo hice. La idolatraba, ¿sabes?"
 
 # game/code/Book-1/Chapter-8s/s11.rpy:128
 translate spanish b1c08ss11_ff135d69:
@@ -260,7 +260,7 @@ translate spanish b1c08ss11_28f63b6d:
 translate spanish b1c08ss11_9511ba7a:
 
     # "She turns her head away from you, ashamed."
-    "Ella vuelve la cabeza, avergonzada."
+    "Gira la cabeza hacia otro lado, avergonzada."
 
 # game/code/Book-1/Chapter-8s/s11.rpy:178
 translate spanish b1c08ss11_599a9060:
@@ -344,7 +344,7 @@ translate spanish b1c08ss11_1297fd06:
 translate spanish b1c08ss11_bcc7d0aa:
 
     # mg "I wish I had the same confidence you do, hotshot."
-    mg "Ojalá tuviera la misma confianza que tú, pez gordo."
+    mg "Ojalá yo tuviera la misma confianza que tú."
 
 # game/code/Book-1/Chapter-8s/s11.rpy:208
 translate spanish b1c08ss11_f44d44c3:
@@ -374,7 +374,7 @@ translate spanish b1c08ss11_524c5ced:
 translate spanish b1c08ss11_db44ed6d:
 
     # "She demonstrates her teachings with powerful skill, making the entire room vibrate with her heavy strikes to the bag."
-    "Ella demuestra sus enseñanzas con poderosa habilidad, haciendo vibrar toda la habitación con sus fuertes golpes a la bolsa."
+    "Ella demuestra sus enseñanzas con una habilidad poderosa, haciendo vibrar toda la habitación con sus fuertes golpes a la bolsa."
 
 # game/code/Book-1/Chapter-8s/s11.rpy:229
 translate spanish b1c08ss11_632db87d:
@@ -386,7 +386,7 @@ translate spanish b1c08ss11_632db87d:
 translate spanish b1c08ss11_bfb78be4:
 
     # mg "You ready to test your new skills on me, hotshot?"
-    mg "¿Estás listo para probar tus nuevas habilidades conmigo, pez gordo?"
+    mg "¿Estás listo para probar tus nuevas habilidades conmigo?"
 
 # game/code/Book-1/Chapter-8s/s11.rpy:248
 translate spanish b1c08ss11_592a17f3:
@@ -464,13 +464,13 @@ translate spanish b1c08ss11_dc404fb4:
 translate spanish b1c08ss11_a8e8b978:
 
     # "You clench your jaw, a competitive spirit ignited in you by Morgan's harsh words."
-    "Aprietas la mandíbula, un espíritu competitivo encendido en ti por las duras palabras de Morgan."
+    "Aprietas la mandíbula, un espíritu competitivo se enciende en ti por las duras palabras de Morgan."
 
 # game/code/Book-1/Chapter-8s/s11.rpy:288
 translate spanish b1c08ss11_fa6bd6ef:
 
     # "You attack with a newfound fever, your movement sharper and more aggressive."
-    "Atacas con una fiebre recién descubierta, tus movimientos más agudos y agresivos."
+    "Atacas con una fiebre recién descubierta, tus movimientos som más agudos y agresivos."
 
 # game/code/Book-1/Chapter-8s/s11.rpy:292
 translate spanish b1c08ss11_eabc69c0:
@@ -488,7 +488,7 @@ translate spanish b1c08ss11_72a6290f:
 translate spanish b1c08ss11_e7c11103:
 
     # mc "There. Now we'll have matching bruises."
-    mc "Allá. Ahora tendremos moretones iguales."
+    mc "Ya está. Ahora tendremos moretones iguales."
 
 # game/code/Book-1/Chapter-8s/s11.rpy:301
 translate spanish b1c08ss11_15f1e0bd:
@@ -644,7 +644,7 @@ translate spanish b1c08ss11_no_sex_67c4c4b6:
 translate spanish b1c08ss11_no_sex_61ece262:
 
     # mc "Thanks again, Morgan."
-    mc "Gracias de nuevo Morgan."
+    mc "Gracias de nuevo, Morgan."
 
 # game/code/Book-1/Chapter-8s/s11.rpy:407
 translate spanish b1c08ss11_no_sex_cdc10aef:
@@ -740,7 +740,7 @@ translate spanish b1c08ss11_mg_sex_977e8438:
 translate spanish b1c08ss11_mg_sex_ae815e95:
 
     # mg "I can't wait to ride this cock within an inch of its life."
-    mg "No puedo esperar para montar esta polla a un centímetro de su vida."
+    mg "No puedo esperar a montar esta polla hasta el final."
 
 # game/code/Book-1/Chapter-8s/s11.rpy:464
 translate spanish b1c08ss11_mg_sex_f41f69a5:
@@ -848,7 +848,7 @@ translate spanish b1c08ss11_mg_sex_416e78a5:
 translate spanish b1c08ss11_mg_sex_b2d9f04e:
 
     # "Her eyes are filled with lust and connection, so needy to be fucked rough by you."
-    "Sus ojos están llenos de lujuria y conexión, muy necesitados de ser follados duro por ti."
+    "Sus ojos están llenos de lujuria y conexión, tan necesitada de que la folles duro."
 
 # game/code/Book-1/Chapter-8s/s11.rpy:536
 translate spanish b1c08ss11_mg_sex_61c7c669:
@@ -862,6 +862,12 @@ translate spanish b1c08ss11_mg_sex_ada4e56d:
     # mg "F-fuck, you feel so good. I want you to cum in me. I need yo—"
     mg "Joder, te sientes tan bien. Quiero que te corras dentro de mí. Te necesito-"
 
+# game/code/Book-1/Chapter-8s/s11.rpy:542
+translate spanish b1c08ss11_mg_sex_4803a357:
+
+    # mc "Oh I'll fill you up alright, when only I'm fucking done with you."
+    mc "Oh, cuando termine contigo, te llenaré por completo."
+
 # game/code/Book-1/Chapter-8s/s11.rpy:552
 translate spanish b1c08ss11_mg_sex_ac30e7b0:
 
@@ -872,7 +878,7 @@ translate spanish b1c08ss11_mg_sex_ac30e7b0:
 translate spanish b1c08ss11_mg_sex_c5a4c6ff:
 
     # "She moans, aroused and excited by your roughness."
-    "Ella gime, excitada y excitada por tu aspereza."
+    "Ella gime, excitada y exaltada por tu rudeza."
 
 # game/code/Book-1/Chapter-8s/s11.rpy:559
 translate spanish b1c08ss11_mg_sex_19ac9eda:
@@ -932,7 +938,7 @@ translate spanish b1c08ss11_mg_sex_42a6d9ec:
 translate spanish b1c08ss11_mg_sex_f58bfcf2:
 
     # mg "Mm, that feels so good, so filling."
-    mg "Mm, eso se siente tan bien, tan saciante."
+    mg "Mm, eso se siente tan bien, tan reconfortante."
 
 # game/code/Book-1/Chapter-8s/s11.rpy:590
 translate spanish b1c08ss11_mg_sex_d3cfc4e2:
@@ -1040,7 +1046,7 @@ translate spanish b1c08ss11_mg_sex_e3825596:
 translate spanish b1c08ss11_mg_sex_395711b3:
 
     # mg "You're a quick learner, I'll give you that."
-    mg "Aprendes rápido, te lo reconozco."
+    mg "Aprendes rápido, eso lo reconozco."
 
 # game/code/Book-1/Chapter-8s/s11.rpy:641
 translate spanish b1c08ss11_mg_sex_1fa118fe:
@@ -1252,5 +1258,5 @@ translate spanish strings:
 translate spanish b1c08ss11_mg_sex_ff70acc8:
 
     # mc "Oh I'll fill you up alright, only when I'm fucking done with you."
-    mc "Oh I'll fill you up alright, only when I'm fucking done with you."
+    mc "Oh, te llenaré muy bien, sólo cuando haya terminado contigo."
 
