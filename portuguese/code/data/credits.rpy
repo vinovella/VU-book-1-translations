@@ -32,7 +32,7 @@ translate portuguese strings:
 
     # game/code/data/credits.rpy:3
     old "Proofreading & Portuguese translation by .grubb (Discord)"
-    new "Proofreading & Portuguese translation by .grubb (Discord)"
+    new "Correção de texto e tradução de Português por .grubb (Discord)"
 
     # game/code/data/credits.rpy:3
     old "ICONS"
