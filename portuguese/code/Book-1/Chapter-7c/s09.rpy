@@ -578,7 +578,7 @@ translate portuguese b1c07cs09_end_e3cee718:
 translate portuguese b1c07cs09_e9f9fe94:
 
     # mct "There's no way this is an official part of the university. Diana or the police would've told me, otherwise."
-    mct "There's no way this is an official part of the university. Diana or the police would've told me, otherwise."
+    mct "Duvido isso ser parte oficial da Universidade. A Diana ou a polícia teriam me falado se fosse."
 
 translate portuguese strings:
 
