@@ -98,7 +98,7 @@ translate turkish b1c08ws10_230a5ce9:
 translate turkish b1c08ws10_e6dd1603:
 
     # ir "Exactly. We can't ignore that [mcname] had a hell of a debut. It's not his fault he wasn't used to our...special cocktail."
-    ir "Kesinlikle. mcname]'in müthiş bir çıkış yaptığını görmezden gelemeyiz. Bizim özel kokteylimize alışkın olmaması onun suçu değil."
+    ir "Kesinlikle. [mcname]'in müthiş bir çıkış yaptığını görmezden gelemeyiz. Bizim özel kokteylimize alışkın olmaması onun suçu değil."
 
 # game/code/Book-1/Chapter-8w/s10.rpy:49
 translate turkish b1c08ws10_60b96d73:
