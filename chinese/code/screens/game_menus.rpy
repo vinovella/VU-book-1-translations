@@ -21,8 +21,8 @@ translate chinese strings:
     new "加载"
 
     # game/code/screens/game_menus.rpy:104
-    old "Naming save file:"
-    new "命名保存文件："
+    old "Naming save file: [save_name_button_status!t]"
+    new "命名保存文件：[save_name_button_status!t]"
 
     # game/code/screens/game_menus.rpy:105
     old "Enabled"

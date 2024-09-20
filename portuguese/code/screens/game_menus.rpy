@@ -21,8 +21,8 @@ translate portuguese strings:
     new "Carregar"
 
     # game/code/screens/game_menus.rpy:104
-    old "Naming save file:"
-    new "Nomear arquivo de save:"
+    old "Naming save file: [save_name_button_status!t]"
+    new "Nomear arquivo de save: [save_name_button_status!t]"
 
     # game/code/screens/game_menus.rpy:105
     old "Enabled"
@@ -30,7 +30,7 @@ translate portuguese strings:
 
     # game/code/screens/game_menus.rpy:107
     old "Disabled"
-    new "desabilitado"
+    new "Desabilitado"
 
     # game/code/screens/game_menus.rpy:134
     old "{#file_time}%b %d %Y, %H:%M"

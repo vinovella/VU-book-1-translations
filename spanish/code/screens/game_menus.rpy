@@ -21,8 +21,8 @@ translate spanish strings:
     new "Cargar"
 
     # game/code/screens/game_menus.rpy:104
-    old "Naming save file:"
-    new "Nombre de guardado:"
+    old "Naming save file: [save_name_button_status!t]"
+    new "Nombre de guardado: [save_name_button_status!t]"
 
     # game/code/screens/game_menus.rpy:105
     old "Enabled"
