@@ -152,7 +152,7 @@ translate spanish b1c08cs03_4fbc5c4d:
 translate spanish b1c08cs03_05148851:
 
     # ih "My child, you are already healed. There is nothing wrong with any of us as we are."
-    ih "Hija mía, ya estás sanada. No hay nada malo en ninguno de nosotros tal como somos."
+    ih "Hija mía, ya estás sanada.  No hay nada malo en que ninguno de nosotros sea como es."
 
 # game/code/Book-1/Chapter-8c/s03.rpy:109
 translate spanish b1c08cs03_4766b4c5:
@@ -242,7 +242,7 @@ translate spanish b1c08cs03_1ed24bc4:
 translate spanish b1c08cs03_34572d53:
 
     # ad "Our true nature and oneness with all."
-    ad "Nuestra verdadera naturaleza y unidad con todos."
+    ad "Nuestra verdadera naturaleza y unidad con todo."
 
 # game/code/Book-1/Chapter-8c/s03.rpy:146
 translate spanish b1c08cs03_fcf518db:
@@ -296,7 +296,7 @@ translate spanish b1c08cs03_7b820552:
 translate spanish b1c08cs03_cc9bb9e5:
 
     # ad "Show them what we mean by the definition of vulnerability and acceptance."
-    ad "Muéstreles lo que queremos decir con la definición de vulnerabilidad y aceptación."
+    ad "Muéstrales lo que entendemos por definición de vulnerabilidad y aceptación."
 
 # game/code/Book-1/Chapter-8c/s03.rpy:170
 translate spanish b1c08cs03_88db9eb8:
@@ -356,7 +356,7 @@ translate spanish b1c08cs03_cac4c035:
 translate spanish b1c08cs03_c19d7eae:
 
     # nv "The artist that painted Maria would love those two."
-    nv "Al artista que pintó a María le encantarían esas dos."
+    nv "A la artista que pintó a María le encantarían esas dos."
 
 # game/code/Book-1/Chapter-8c/s03.rpy:200
 translate spanish b1c08cs03_3efd23d6:
@@ -488,7 +488,7 @@ translate spanish b1c08cs03_faa65c53:
 translate spanish b1c08cs03_3afb6572:
 
     # ad "We're all one, and we share. All your insecurities and fears will heal and be met with love by the majority—if you allow it."
-    ad "Todos somos uno y compartimos. Todas tus inseguridades y miedos sanarán y serán recibidos con amor por la mayoría, si tú lo permites."
+    ad "Todos somos uno y lo compartimos. Todas tus inseguridades y miedos sanarán y serán recibidos con amor por la mayoría, si tú lo permites."
 
 # game/code/Book-1/Chapter-8c/s03.rpy:273
 translate spanish b1c08cs03_9ce8246c:
@@ -728,7 +728,7 @@ translate spanish b1c08cs03_142ec5d1:
 translate spanish b1c08cs03_f12102bd:
 
     # ad "She needs help. Can't you see she needs help? Comfort her. Encourage our beautiful bud to bloom."
-    ad "Ella necesita ayuda. ¿No ves que necesita ayuda? Consuélala. Anima a nuestro hermoso capullo a florecer."
+    ad "Ella necesita ayuda. ¿No ven que necesita ayuda? Consuélenla. Animen a nuestro hermoso capullo a florecer."
 
 # game/code/Book-1/Chapter-8c/s03.rpy:428
 translate spanish b1c08cs03_42cfae22:
@@ -844,6 +844,12 @@ translate spanish b1c08cs03_fe7a4e85:
     # ih "Ah!"
     ih "¡Ah!"
 
+# game/code/Book-1/Chapter-8c/s03.rpy:517
+translate spanish b1c08cs03_48997e2c:
+
+    # "Ivy's hips buck into her fingers as she makes herself cum. Her legs shake with the effort of staying upright."
+    "Las caderas de Ivy se mueven entre sus dedos mientras se corre. Le tiemblan las piernas por el esfuerzo de mantenerse erguida."
+
 # game/code/Book-1/Chapter-8c/s03.rpy:521
 translate spanish b1c08cs03_bdc8887c:
 
@@ -914,7 +920,7 @@ translate spanish b1c08cs03_33d1e7ef:
 translate spanish b1c08cs03_af8e45b1:
 
     # mct "Well that was a concerning display. Why couldn't Lumi say no like Sloan and Nerium could? Why was it so important that she masturbate?"
-    mct "Bueno, esa fue una exhibición preocupante. ¿Por qué Lumi no podía decir que no como podían hacerlo Sloan y Nerium? ¿Por qué era tan importante que se masturbara?"
+    mct "Bueno, eso fue una muestra preocupante. ¿Por qué Lumi no podía decir que no como lo hicieron Sloan y Nerium? ¿Por qué era tan importante que se masturbara?"
 
 # game/code/Book-1/Chapter-8c/s03.rpy:568
 translate spanish b1c08cs03_db455820:
@@ -956,7 +962,7 @@ translate spanish b1c08cs03_68fb566d:
 translate spanish b1c08cs03_4f3da906:
 
     # ll "Thank you. I really appreciate you."
-    ll "Gracias. Te aprecio realmente."
+    ll "Muchas gracias. Te lo agradezco mucho."
 
 # game/code/Book-1/Chapter-8c/s03.rpy:595
 translate spanish b1c08cs03_b11afb98:
@@ -992,7 +998,7 @@ translate spanish b1c08cs03_1b2d95ac:
 translate spanish b1c08cs03_3547f3d6:
 
     # "Andre sees this as an opportunity, and steps forward with a demeanor that's equal parts preacher and pretentious philosopher."
-    "Andre ve esto como una oportunidad y da un paso adelante con un comportamiento que es a partes iguales predicador y filósofo pretencioso."
+    "André ve en ello una oportunidad y se acerca con una actitud a partes iguales de predicador y filósofo pretencioso."
 
 # game/code/Book-1/Chapter-8c/s03.rpy:614
 translate spanish b1c08cs03_2359621c:
@@ -1004,7 +1010,7 @@ translate spanish b1c08cs03_2359621c:
 translate spanish b1c08cs03_5173fda8:
 
     # ad "Look at how her parents affected her self-image. They thought they loved her, they {i}said{/i} they loved her, but look how their cruel and ignorant words hurt her."
-    ad "Mire cómo sus padres afectaron su imagen de sí misma. Creyeron que la amaban, {i}dijeron{/i} que la amaban, pero mira cómo la lastiman sus palabras crueles e ignorantes."
+    ad "Mira cómo sus padres afectaron su autoimagen. Pensaban que la amaban, {i}decían{/i} que la amaban, pero mira cómo la hirieron sus palabras crueles e ignorantes."
 
 # game/code/Book-1/Chapter-8c/s03.rpy:620
 translate spanish b1c08cs03_a471bda4:
@@ -1088,7 +1094,7 @@ translate spanish b1c08cs03_3487699c:
 translate spanish b1c08cs03_e18dd2a2:
 
     # nv "It's a nonsensical, horrible cycle. And I hate that I've trapped myself within it."
-    nv "Es un ciclo horrible y sin sentido. Y odio haberme atrapado dentro de él."
+    nv "Es un ciclo horrible y sin sentido. Y odio estar atrapada en él."
 
 # game/code/Book-1/Chapter-8c/s03.rpy:663
 translate spanish b1c08cs03_d1e3c3b3:
@@ -1400,13 +1406,19 @@ translate spanish b1c08cs03_84e3a694:
 translate spanish b1c08cs03_4305c822:
 
     # dk "Absolutely. Every time I see you in full, I'm reminded that art and beauty are inherent parts of you."
-    dk "Absolutamente. Cada vez que te veo en su totalidad, recuerdo que el arte y la belleza son partes inherentes a ti."
+    dk "Absolutamente. Cada vez que te veo en plenitud, me acuerdo de que el arte y la belleza son partes inherentes de ti."
 
 # game/code/Book-1/Chapter-8c/s03.rpy:835
 translate spanish b1c08cs03_86786e23:
 
     # ij "Would you mind if we join?"
     ij "¿Te importaría si nos unimos?"
+
+# game/code/Book-1/Chapter-8c/s03.rpy:838
+translate spanish b1c08cs03_9ed47a40:
+
+    # ll "Yes! Let's spread the joy!"
+    ll "¡Sí! ¡Difundamos la alegría!"
 
 # game/code/Book-1/Chapter-8c/s03.rpy:840
 translate spanish b1c08cs03_707c1d35:
@@ -1448,7 +1460,7 @@ translate spanish b1c08cs03_c9508c24:
 translate spanish b1c08cs03_00124994:
 
     # mc "That's one way to put it."
-    mc "Ésa es una forma de decirlo."
+    mc "Es una forma de decirlo."
 
 # game/code/Book-1/Chapter-8c/s03.rpy:869
 translate spanish b1c08cs03_43ca8d03:
@@ -1641,16 +1653,4 @@ translate spanish strings:
     # game/code/Book-1/Chapter-8c/s03.rpy:18
     old "Later that night\nAt the welcoming party"
     new "Más tarde esa noche\nEn la fiesta de bienvenida"
-
-# game/code/Book-1/Chapter-8c/s03.rpy:413
-translate spanish b1c08cs03_fbaa59a8:
-
-    # "Nia and Lumi are distracted by watching the other women cum. They watch curiously and supportively as afterglow spreads up Ivy and Delphia's chests."
-    "Nia y Lumi se distraen viendo cómo se corren las otras mujeres. Miran con curiosidad y apoyo como el resplandor se extiende por los pechos de Ivy y Delphia."
-
-# game/code/Book-1/Chapter-8c/s03.rpy:670
-translate spanish b1c08cs03_53d70e0f:
-
-    # ll "No! Come, let's spread the joy!"
-    ll "¡No! ¡Ven, repartamos la alegría!"
 
