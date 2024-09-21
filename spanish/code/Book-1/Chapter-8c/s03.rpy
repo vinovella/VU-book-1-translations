@@ -844,12 +844,6 @@ translate spanish b1c08cs03_fe7a4e85:
     # ih "Ah!"
     ih "¡Ah!"
 
-# game/code/Book-1/Chapter-8c/s03.rpy:517
-translate spanish b1c08cs03_48997e2c:
-
-    # "Ivy's hips buck into her fingers as she makes herself cum. Her legs shake with the effort of staying upright."
-    "Las caderas de Ivy se mueven entre sus dedos mientras se corre. Le tiemblan las piernas por el esfuerzo de mantenerse erguida."
-
 # game/code/Book-1/Chapter-8c/s03.rpy:521
 translate spanish b1c08cs03_bdc8887c:
 
@@ -1414,12 +1408,6 @@ translate spanish b1c08cs03_86786e23:
     # ij "Would you mind if we join?"
     ij "¿Te importaría si nos unimos?"
 
-# game/code/Book-1/Chapter-8c/s03.rpy:838
-translate spanish b1c08cs03_9ed47a40:
-
-    # ll "Yes! Let's spread the joy!"
-    ll "¡Sí! ¡Difundamos la alegría!"
-
 # game/code/Book-1/Chapter-8c/s03.rpy:840
 translate spanish b1c08cs03_707c1d35:
 
@@ -1653,4 +1641,16 @@ translate spanish strings:
     # game/code/Book-1/Chapter-8c/s03.rpy:18
     old "Later that night\nAt the welcoming party"
     new "Más tarde esa noche\nEn la fiesta de bienvenida"
+
+# game/code/Book-1/Chapter-8c/s03.rpy:413
+translate spanish b1c08cs03_fbaa59a8:
+
+    # "Nia and Lumi are distracted by watching the other women cum. They watch curiously and supportively as afterglow spreads up Ivy and Delphia's chests."
+    "Nia and Lumi are distracted by watching the other women cum. They watch curiously and supportively as afterglow spreads up Ivy and Delphia's chests."
+
+# game/code/Book-1/Chapter-8c/s03.rpy:670
+translate spanish b1c08cs03_53d70e0f:
+
+    # ll "No! Come, let's spread the joy!"
+    ll "No! Come, let's spread the joy!"
 

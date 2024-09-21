@@ -965,3 +965,4 @@ translate portuguese strings:
     # game/code/data/ib_descriptions.rpy:2
     old "Kara is #1 suspect in Maria's disappearance."
     new "Kara é a suspeita #1 no desaparecimento da Maria."
+

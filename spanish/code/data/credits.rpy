@@ -29,6 +29,10 @@
     new "Spanish translation by {a=https://steamcommunity.com/id/manubu/}Mustadio7813{/a}"
 
     # game/code/data/credits.rpy:3
+    old "Proofreading & Portuguese translations by .grubb (Discord)"
+    new "Proofreading & Portuguese translations by .grubb (Discord)"
+
+    # game/code/data/credits.rpy:3
     old "Proofreading & Portuguese translation by .grubb (Discord)"
     new "Proofreading & Portuguese translation by .grubb (Discord)"
 
