@@ -416,5 +416,5 @@ translate chinese strings:
 translate chinese b1c08cs05_0c2801b5:
 
     # "Lumi's still fast asleep, thoroughly worn out after tonight's activities."
-    "Lumi's still fast asleep, thoroughly worn out after tonight's activities."
+    "卢米还在熟睡，今晚的活动彻底把她累垮了。"
 
