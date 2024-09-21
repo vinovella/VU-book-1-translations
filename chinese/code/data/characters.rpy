@@ -108,19 +108,19 @@ translate chinese strings:
 
     # game/code/data/characters.rpy:75
     old "Stacy"
-    new "Stacy"
+    new "史黛西"
 
     # game/code/data/characters.rpy:76
     old "Daisy"
-    new "Daisy"
+    new "黛西"
 
     # game/code/data/characters.rpy:77
     old "Lyssa"
-    new "Lyssa"
+    new "丽莎"
 
     # game/code/data/characters.rpy:78
     old "Nari"
-    new "Nari"
+    new "纳莉"
 
     # game/code/data/characters.rpy:79
     old "Arlene"
