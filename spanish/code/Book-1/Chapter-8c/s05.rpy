@@ -4,6 +4,12 @@ translate spanish b1c08cs05_afd0feec:
     # "You open your eyes. It's quiet outside. Everyone seems to have gone to sleep."
     "Abres los ojos. Afuera está tranquilo. Todos parecen haberse ido a dormir."
 
+# game/code/Book-1/Chapter-8c/s05.rpy:56
+translate spanish b1c08cs05_0c2801b5:
+
+    # "Lumi's still fast asleep, thoroughly worn out after tonight's activities."
+    "Lumi todavía está profundamente dormida, completamente agotada después de las actividades de esta noche."
+
 # game/code/Book-1/Chapter-8c/s05.rpy:63
 translate spanish b1c08cs05_3d9c8545:
 
@@ -302,7 +308,7 @@ translate spanish b1c08cs05_cc441e6d:
 translate spanish b1c08cs05_56d1a8bf:
 
     # "Dark, thick blood flows over Yvonne and The Prophet. The Prophet's movements are now punctuated by a wet slapping sound."
-    "Sangre oscura y espesa fluye sobre Yvonne y La Profeta. Los movimientos del Profeta ahora están marcados por un sonido de bofetada húmeda."
+    "Sangre oscura y espesa fluye sobre Yvonne y La Profeta. Los movimientos de la Profeta ahora están marcados por un sonido de bofetada húmeda."
 
 # game/code/Book-1/Chapter-8c/s05.rpy:301
 translate spanish b1c08cs05_468e76c9:
@@ -338,7 +344,7 @@ translate spanish b1c08cs05_2167cf81:
 translate spanish b1c08cs05_ef20d8b6:
 
     # "The Prophet" "What do you feel?"
-    "El profeta" "¿Qué sientes?"
+    "La Profeta" "¿Qué sientes?"
 
 # game/code/Book-1/Chapter-8c/s05.rpy:317
 translate spanish b1c08cs05_2e2ae704:
@@ -398,7 +404,7 @@ translate spanish b1c08cs05_98007286:
 translate spanish b1c08cs05_15359d0a:
 
     # mct "I don't know what the fuck to make of that, but I'm afraid that Yvonne's situation won't have a happy ending, if it's anything like Sally."
-    mct "No sé qué carajo hacer con eso, pero me temo que la situación de Yvonne no tendrá un final feliz, si es que se parece en algo a Sally."
+    mct "No sé qué carajo hacer con eso, pero me temo que la situación de Yvonne no tendrá un final feliz, si es que se parece en algo a la de Sally."
 
 # game/code/Book-1/Chapter-8c/s05.rpy:344
 translate spanish b1c08cs05_aedde212:
@@ -411,10 +417,4 @@ translate spanish strings:
     # game/code/Book-1/Chapter-8c/s05.rpy:30
     old "Later that night"
     new "Más tarde esa noche"
-
-# game/code/Book-1/Chapter-8c/s05.rpy:56
-translate spanish b1c08cs05_0c2801b5:
-
-    # "Lumi's still fast asleep, thoroughly worn out after tonight's activities."
-    "Lumi todavía está profundamente dormida, completamente agotada después de las actividades de esta noche."
 
