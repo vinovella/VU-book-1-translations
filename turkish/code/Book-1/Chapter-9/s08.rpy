@@ -811,3 +811,4 @@ translate turkish strings:
     # game/code/Book-1/Chapter-9/s08.rpy:496
     old "Down Foxy's throat"
     new "Foxy'nin boğazından aşağı"
+

@@ -1035,3 +1035,4 @@ translate turkish strings:
     # game/code/Book-1/Chapter-9/s13.rpy:18
     old "Still Not Brandon"
     new "Hala Brandon Değil"
+

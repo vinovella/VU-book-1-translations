@@ -975,3 +975,4 @@ translate turkish strings:
     # game/code/Book-1/Chapter-9/s10.rpy:604
     old "We should head in"
     new "İçeri girmeliyiz"
+

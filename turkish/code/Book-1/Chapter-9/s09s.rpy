@@ -1025,3 +1025,4 @@ translate turkish strings:
     # game/code/Book-1/Chapter-9/s09s.rpy:477
     old "Fuck off, Xasan"
     new "Siktir git, Xasan."
+

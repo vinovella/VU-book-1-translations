@@ -639,3 +639,4 @@ translate turkish strings:
     # game/code/Book-1/Chapter-9/s01.rpy:151
     old "Check on Phoebe"
     new "Phoebe'yi kontrol et"
+

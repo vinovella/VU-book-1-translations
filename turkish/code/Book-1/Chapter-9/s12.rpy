@@ -1083,3 +1083,4 @@ translate turkish b1c09s12_sex_5a5aa7ff:
 
     # "As your tongue teases her folds, Fleur's grip on the edge of the chair tightens, her nails digging into the wood."
     "Senin dilin onun kıvrımlarını okşarken, Fleur sandalyenin kenarını sıkıca kavrıyor, tırnakları tahtaya batıyor."
+

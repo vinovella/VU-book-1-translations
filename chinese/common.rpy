@@ -1282,105 +1282,103 @@ translate chinese strings:
     old "Continue"
     new "继续"
 
-translate chinese strings:
-
     # renpy/common/00accessibility.rpy:120
     old "Accessibility Menu. Use up and down arrows to navigate, and enter to activate buttons and bars."
-    new "Accessibility Menu. Use up and down arrows to navigate, and enter to activate buttons and bars."
+    new "无障碍菜单。使用上下箭头导航，回车键激活按钮和栏。"
 
     # renpy/common/00accessibility.rpy:197
     old "Self-voicing support is limited when using a touch screen."
-    new "Self-voicing support is limited when using a touch screen."
+    new "使用触摸屏时，自发音支持受到限制。"
 
     # renpy/common/00director.rpy:1776
     old "Customize director.transforms to add more transforms."
-    new "Customize director.transforms to add more transforms."
+    new "自定义 director.transforms，添加更多变换。"
 
     # renpy/common/00director.rpy:1821
     old "Click to set."
-    new "Click to set."
+    new "点击设置。"
 
     # renpy/common/00director.rpy:1822
     old "Customize director.transitions to add more transitions."
-    new "Customize director.transitions to add more transitions."
+    new "自定义 director.transitions，添加更多转场效果。"
 
     # renpy/common/00director.rpy:1845
     old "Customize director.audio_channels to add more channels."
-    new "Customize director.audio_channels to add more channels."
+    new "自定义 director.audio_channels，以添加更多通道。"
 
     # renpy/common/00gui.rpy:454
     old "Are you sure you want to continue where you left off?"
-    new "Are you sure you want to continue where you left off?"
+    new "你确定要继续之前的工作吗？"
 
     # renpy/common/00preferences.rpy:438
     old "self voicing enable"
-    new "self voicing enable"
+    new "启用自配音"
 
     # renpy/common/00preferences.rpy:440
     old "self voicing disable"
-    new "self voicing disable"
+    new "自失声"
 
     # renpy/common/00preferences.rpy:455
     old "clipboard voicing enable"
-    new "clipboard voicing enable"
+    new "启用剪贴板发声"
 
     # renpy/common/00preferences.rpy:457
     old "clipboard voicing disable"
-    new "clipboard voicing disable"
+    new "剪贴板发声禁用"
 
     # renpy/common/00preferences.rpy:464
     old "debug voicing enable"
-    new "debug voicing enable"
+    new "调试语音使能"
 
     # renpy/common/00preferences.rpy:466
     old "debug voicing disable"
-    new "debug voicing disable"
+    new "调试语音禁用"
 
     # renpy/common/00preferences.rpy:586
     old "restore window position"
-    new "restore window position"
+    new "恢复窗口位置"
 
     # renpy/common/00preferences.rpy:595
     old "reset"
-    new "reset"
+    new "重置"
 
     # renpy/common/00speechbubble.rpy:408
     old "(clear retained bubbles)"
-    new "(clear retained bubbles)"
+    new "（清除保留的气泡）"
 
     # renpy/common/00updater.rpy:505
     old "No update methods found."
-    new "No update methods found."
+    new "未找到更新方法。"
 
     # renpy/common/00updater.rpy:552
     old "Could not download file list: "
-    new "Could not download file list: "
+    new "无法下载文件列表："
 
     # renpy/common/00updater.rpy:555
     old "File list digest does not match."
-    new "File list digest does not match."
+    new "文件列表摘要不匹配。"
 
     # renpy/common/00updater.rpy:2072
     old "Preparing to download the game data."
-    new "Preparing to download the game data."
+    new "准备下载游戏数据。"
 
     # renpy/common/00updater.rpy:2074
     old "Downloading the game data."
-    new "Downloading the game data."
+    new "下载游戏数据。"
 
     # renpy/common/00updater.rpy:2076
     old "The game data has been downloaded."
-    new "The game data has been downloaded."
+    new "游戏数据已下载。"
 
     # renpy/common/00updater.rpy:2078
     old "An error occured when trying to download game data:"
-    new "An error occured when trying to download game data:"
+    new "尝试下载游戏数据时出现错误："
 
     # renpy/common/00updater.rpy:2083
     old "This game cannot be run until the game data has been downloaded."
-    new "This game cannot be run until the game data has been downloaded."
+    new "在下载游戏数据之前，无法运行该游戏。"
 
     # renpy/common/00updater.rpy:2090
     old "Retry"
-    new "Retry"
+    new "重试"
 

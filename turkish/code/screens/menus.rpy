@@ -122,3 +122,9 @@ translate turkish strings:
     old "Sex Voice Volume"
     new "Sex Voice Volume"
 
+translate turkish strings:
+
+    # game/code/screens/menus.rpy:869
+    old "{u}Get your Lovense toy now{/u}"
+    new "{u}Get your Lovense toy now{/u}"
+

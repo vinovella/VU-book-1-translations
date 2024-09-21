@@ -657,3 +657,4 @@ translate turkish b1c09s14_f4cce571:
 
     # zp "No promises!"
     zp "Söz vermek yok!"
+

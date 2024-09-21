@@ -1143,3 +1143,4 @@ translate turkish strings:
     # game/code/Book-1/Chapter-9/s04.rpy:676
     old "Ronja should keep the cum to herself"
     new "Ronja dölünü kendine saklamalı"
+

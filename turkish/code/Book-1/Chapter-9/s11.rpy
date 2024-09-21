@@ -1545,3 +1545,4 @@ translate turkish strings:
     # game/code/Book-1/Chapter-9/s11.rpy:499
     old "Don't let her pee on you"
     new "Üzerine işemesine izin verme"
+

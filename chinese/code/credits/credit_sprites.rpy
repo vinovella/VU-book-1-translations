@@ -54,3 +54,9 @@ translate chinese strings:
     old "This game was only\nmade possible with\nall the support we have\nfrom our fans"
     new "多亏了\n粉丝们的\n全力支持，这款游戏才得以\n成功推出"
 
+translate chinese strings:
+
+    # game/code/credits/credit_sprites.rpy:39
+    old "Art -"
+    new "Art -"
+

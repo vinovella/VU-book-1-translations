@@ -93,3 +93,4 @@ translate turkish strings:
     # game/code/Book-1/Chapter-9/s09.rpy:31
     old "At the party"
     new "Partide"
+

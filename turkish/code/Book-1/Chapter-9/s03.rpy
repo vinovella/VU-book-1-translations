@@ -721,3 +721,4 @@ translate turkish strings:
     # game/code/Book-1/Chapter-9/s03.rpy:196
     old "Would it feel good if I used my hand?"
     new "Elimi kullansam iyi hisseder miyim?"
+

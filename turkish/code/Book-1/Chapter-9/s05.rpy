@@ -1229,3 +1229,4 @@ translate turkish b1c09s05_femdom_end_d8cd946f:
     
     # "Her touch, what was once bliss, is now agony. You feel as if you could burst any moment, but you still hold on."
     "Onun dokunuşu, bir zamanlar mutluluk olan şey, şimdi ıstırap. Her an patlayacakmış gibi hissediyorsun ama yine de dayanıyorsun."
+

@@ -923,3 +923,4 @@ translate turkish strings:
     # game/code/Book-1/Chapter-9/s06.rpy:356
     old "Who says I won't devour you?"
     new "Seni yiyip bitirmeyeceğimi kim söyledi?"
+

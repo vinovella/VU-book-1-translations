@@ -1075,3 +1075,4 @@ translate turkish strings:
     # game/code/Book-1/Chapter-9/s15.rpy:1117
     old "Hold on longer"
     new "Biraz daha dayanın"
+

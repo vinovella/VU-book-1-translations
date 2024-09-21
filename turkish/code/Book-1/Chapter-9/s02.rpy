@@ -673,3 +673,4 @@ translate turkish strings:
     # game/code/Book-1/Chapter-9/s02.rpy:232
     old "Lara's right"
     new "Lara haklı."
+

@@ -1389,3 +1389,4 @@ translate turkish b1c09s09w_cheer_ima_95ac0811:
 
     # "Isa flirtatiously sticks her tongue out. Her bikini bottom barely continues to cover her."
     "Isa çapkınca dilini dışarı çıkarır. Bikini altı onu zar zor örtmeye devam ediyor."
+
