@@ -66,15 +66,15 @@ translate chinese strings:
 
     # game/code/screens/menus.rpy:584
     old "Quick"
-    new "Quick"
+    new "快速反应"
 
     # game/code/screens/menus.rpy:607
     old "Ren'Py Save Sync"
-    new "Ren'Py Save Sync"
+    new "Ren'Py同步保存"
 
     # game/code/screens/menus.rpy:620
     old "Manage your saves for Book 2"
-    new "Manage your saves for Book 2"
+    new "为第二卷管理存档"
 
     # game/code/screens/menus.rpy:649
     old "«"
@@ -86,29 +86,29 @@ translate chinese strings:
 
     # game/code/screens/menus.rpy:817
     old "Dialogue Box Opacity"
-    new "Dialogue Box Opacity"
+    new "对话框不透明度"
 
     # game/code/screens/menus.rpy:824
     old "Master Volume"
-    new "Master Volume"
+    new "主音量"
 
     # game/code/screens/menus.rpy:308
     old "Wishlist Taboo University on Steam"
-    new "Wishlist Taboo University on Steam"
+    new "将《禁忌大学》加入Steam愿望单"
 
     # game/code/screens/menus.rpy:829
     old "Analytics"
-    new "Analytics"
+    new "分析"
 
     # game/code/screens/menus.rpy:834
     old "We only collect data on in-game choices, no personal information is collected."
-    new "We only collect data on in-game choices, no personal information is collected."
+    new "我们只收集游戏中的选项数据，不收集个人信息。"
 
     # game/code/screens/menus.rpy:861
     old "Connect Your Toy"
-    new "Connect Your Toy"
+    new "连接你的玩具"
 
     # game/code/screens/menus.rpy:907
     old "Sex Voice Volume"
-    new "Sex Voice Volume"
+    new "性爱语音音量"
 
