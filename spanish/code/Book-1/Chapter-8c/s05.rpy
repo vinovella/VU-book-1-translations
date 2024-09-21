@@ -4,11 +4,11 @@ translate spanish b1c08cs05_afd0feec:
     # "You open your eyes. It's quiet outside. Everyone seems to have gone to sleep."
     "Abres los ojos. Afuera está tranquilo. Todos parecen haberse ido a dormir."
 
-# game/code/Book-1/Chapter-8c/s05.rpy:54
-translate spanish b1c08cs05_3f0bc523:
+# game/code/Book-1/Chapter-8c/s05.rpy:56
+translate spanish b1c08cs05_0c2801b5:
 
-    # "Lumi's still fast asleep, thoroughly worn out after last night."
-    "Lumi todavía está profundamente dormida, completamente agotada después de anoche."
+    # "Lumi's still fast asleep, thoroughly worn out after tonight's activities."
+    "Lumi todavía está profundamente dormida, completamente agotada después de las actividades de esta noche."
 
 # game/code/Book-1/Chapter-8c/s05.rpy:63
 translate spanish b1c08cs05_3d9c8545:
