@@ -806,5 +806,5 @@ translate chinese b1c08ss10_335c29c7:
 translate chinese b1c08ss10_5ae95222:
 
     # "Zemfira grabs you passionately."
-    "Zemfira grabs you passionately."
+    "泽菲拉热情地抓住了你。"
 
