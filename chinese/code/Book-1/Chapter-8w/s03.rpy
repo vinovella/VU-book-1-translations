@@ -524,5 +524,5 @@ translate chinese strings:
 translate chinese b1c08ws03_470b68b1:
 
     # "She catches you off guard with a kiss. It's a gentle warmth on your lips, but it carries a heaviness with so much emotion hidden behind."
-    "She catches you off guard with a kiss. It's a gentle warmth on your lips, but it carries a heaviness with so much emotion hidden behind."
+    "她的一个吻让你措手不及。她的吻在你的唇上感觉轻柔而温暖，背后却隐藏着极其热烈的情感。"
 
