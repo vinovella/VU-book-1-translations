@@ -20,7 +20,7 @@ translate spanish b1c07ws07_4ff139ce:
 translate spanish b1c07ws07_302f903d:
 
     # mct "Sam!? What the hell is she doing here?"
-    mct "Sam!? ¿Qué diablos está haciendo ella aquí?"
+    mct "¿¡Sam!? ¿Qué diablos está haciendo ella aquí?"
 
 # game/code/Book-1/Chapter-7w/s07.rpy:42
 translate spanish b1c07ws07_2fc07b80:
@@ -68,7 +68,7 @@ translate spanish b1c07ws07_97c33a3e:
 translate spanish b1c07ws07_93cae4d2:
 
     # ima "Don't you dare call me that after everything you've done."
-    ima "No te atrevas a llamarme así después de todo lo que has hecho."
+    ima "No te atrevas a llamarme de esa manera después de todo lo que has hecho."
 
 # game/code/Book-1/Chapter-7w/s07.rpy:67
 translate spanish b1c07ws07_2b891974:
@@ -80,19 +80,19 @@ translate spanish b1c07ws07_2b891974:
 translate spanish b1c07ws07_5d878ea8:
 
     # "It's quiet for a moment as the words settle between them. They both look regretful."
-    "Hay silencio por un momento mientras las palabras se asientan entre ellos. Ambas se ven arrepentidas."
+    "Hay silencio por un momento mientras las palabras se asientan entre ellas. Ambas se ven arrepentidas."
 
 # game/code/Book-1/Chapter-7w/s07.rpy:71
 translate spanish b1c07ws07_e5667e4f:
 
     # sdl "C'mon sweetpea, you don't mean that. All is forgiven, sweetheart."
-    sdl "Vamos, dulce, no lo dices en serio. Todo está perdonado, cariño."
+    sdl "Vamos, dulzura, no lo dices en serio. Todo está perdonado, cariño."
 
 # game/code/Book-1/Chapter-7w/s07.rpy:72
 translate spanish b1c07ws07_c101a1a2:
 
     # sdl "I was meant to be yours. And you, mine."
-    sdl "Estaba destinado a ser tuya. Y tú mía."
+    sdl "Estaba destinada a ser tuya. Y tú, mía."
 
 # game/code/Book-1/Chapter-7w/s07.rpy:75
 translate spanish b1c07ws07_6bf5151c:
@@ -104,13 +104,13 @@ translate spanish b1c07ws07_6bf5151c:
 translate spanish b1c07ws07_3b54a5eb:
 
     # ima "All is {i}not{/i} forgiven. Because I don't forgive you."
-    ima "Todo está {i}no{/i} perdonado. Porque yo no te perdono."
+    ima "Todo {i}no{/i} está perdonado. Porque yo no te perdono."
 
 # game/code/Book-1/Chapter-7w/s07.rpy:81
 translate spanish b1c07ws07_0041e033:
 
     # sdl "Wasn't it the best you'd ever had? I know it was for me. I'd do anything for you, sweetpea."
-    sdl "¿No fue lo mejor que habías probado? Sé que fue para mí. Haría cualquier cosa por ti, cariño."
+    sdl "¿No fue el mejor que has probado? Sé que lo fue para mí. Haría cualquier cosa por ti, cariño."
 
 # game/code/Book-1/Chapter-7w/s07.rpy:84
 translate spanish b1c07ws07_d2d1e768:
@@ -284,7 +284,7 @@ translate spanish b1c07ws07_16c8bf60:
 translate spanish b1c07ws07_238f3f1f:
 
     # sdl "See you soon, my love."
-    sdl "Te veo pronto mi amor."
+    sdl "Te veo pronto, mi amor."
 
 # game/code/Book-1/Chapter-7w/s07.rpy:158
 translate spanish b1c07ws07_0f4a16a5:
@@ -296,13 +296,13 @@ translate spanish b1c07ws07_0f4a16a5:
 translate spanish b1c07ws07_1b02e4a1:
 
     # mct "The party's pretty much over, I need to go back to Sam's and figure out what the hell she's planning here."
-    mct "La fiesta ha terminado, tengo que volver a la casa de Sam y averiguar qué demonios está planeando aquí."
+    mct "La fiesta ha terminado, tengo que volver a casa de Sam y averiguar qué demonios está planeando aquí."
 
 # game/code/Book-1/Chapter-7w/s07.rpy:165
 translate spanish b1c07ws07_336cab7e:
 
     # mc "Hey! Isa! Everything alright!?"
-    mc "¡Ey! ¡Es un! ¿¡Todo bien!?"
+    mc "¡Ey! ¡Isa! ¿¡Todo bien!?"
 
 # game/code/Book-1/Chapter-7w/s07.rpy:168
 translate spanish b1c07ws07_8aea541a:
@@ -314,7 +314,7 @@ translate spanish b1c07ws07_8aea541a:
 translate spanish b1c07ws07_e6185c56:
 
     # "She dashes out of the gate, leaving both you and Isa confused."
-    "Ella sale corriendo por la puerta, dejándote a ti ya Isa confundidos."
+    "Ella sale corriendo por la puerta, dejándote a ti y a Isa confundidos."
 
 # game/code/Book-1/Chapter-7w/s07.rpy:177
 translate spanish b1c07ws07_9c2e9983:
