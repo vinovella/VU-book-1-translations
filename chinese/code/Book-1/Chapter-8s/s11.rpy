@@ -1252,5 +1252,5 @@ translate chinese strings:
 translate chinese b1c08ss11_mg_sex_ff70acc8:
 
     # mc "Oh I'll fill you up alright, only when I'm fucking done with you."
-    mc "Oh I'll fill you up alright, only when I'm fucking done with you."
+    mc "哦，我会好好满足你的，等我干完你再说。"
 
