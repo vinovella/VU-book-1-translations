@@ -2026,11 +2026,11 @@ translate chinese strings:
 translate chinese b1c08cs08_ll_spanking_d643c708:
 
     # "She stands before you with a more confident expression, ready to take her punishment with dignity."
-    "She stands before you with a more confident expression, ready to take her punishment with dignity."
+    "她站在你面前，表情更加自信，准备有尊严地接受惩罚。"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:891
 translate chinese b1c08cs08_ll_spanking_6c63b3c0:
 
     # "At Yvonne's silent cue, Sloan and Nerium also rise."
-    "At Yvonne's silent cue, Sloan and Nerium also rise."
+    "在伊冯娜无声的暗示下，斯隆和纳瑞姆也站了起来。"
 
