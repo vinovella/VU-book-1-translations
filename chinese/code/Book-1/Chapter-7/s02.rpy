@@ -486,17 +486,17 @@ translate chinese strings:
 translate chinese b1c07s02_5fb9645a:
 
     # mct "I don't have time to mess around with both Ronja and Diana. I need to figure out who to potentially buddy up with, or at least tolerate."
-    mct "I don't have time to mess around with both Ronja and Diana. I need to figure out who to potentially buddy up with, or at least tolerate."
+    mct "我可没时间和荣佳和戴安娜一起瞎折腾。我需要弄清楚潜在的合作对象，或者至少要容忍谁。"
 
 # game/code/Book-1/Chapter-7/s02.rpy:141
 translate chinese b1c07s02_fcd0cea0:
 
     # mct "This could be a good opportunity to get closer to Diana and gather more information..."
-    mct "This could be a good opportunity to get closer to Diana and gather more information..."
+    mct "这可能是个接近戴安娜的好机会，还可以收集更多信息..."
 
 # game/code/Book-1/Chapter-7/s02.rpy:143
 translate chinese b1c07s02_4052dcaa:
 
     # mct "But then again, Ronja might be the better lead."
-    mct "But then again, Ronja might be the better lead."
+    mct "但话说回来，荣佳可能是个更好的线索。"
 
