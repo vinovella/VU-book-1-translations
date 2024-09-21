@@ -398,5 +398,5 @@ translate chinese b1c08ws10_6778327d:
 translate chinese b1c08ws10_777e1ea1:
 
     # oa "We wouldn't have had to deal with any of this if we just played without it. We don't need dangerous—"
-    oa "We wouldn't have had to deal with any of this if we just played without it. We don't need dangerous—"
+    oa "如果我们没用它，只是单纯打比赛，就不用面对这些问题。我们不需要危险的--"
 
