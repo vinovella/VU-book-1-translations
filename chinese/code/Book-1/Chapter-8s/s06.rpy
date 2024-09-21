@@ -564,5 +564,5 @@ translate chinese strings:
 translate chinese b1c08ss06_66242071:
 
     # "It's doubtful they've had more than a few moments out of these binds since their capture."
-    "It's doubtful they've had more than a few moments out of these binds since their capture."
+    "自从他们被抓以来，我怀疑他们是否有过片刻不受束缚的时间。"
 
