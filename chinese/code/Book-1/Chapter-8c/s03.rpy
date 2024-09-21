@@ -1646,11 +1646,11 @@ translate chinese strings:
 translate chinese b1c08cs03_fbaa59a8:
 
     # "Nia and Lumi are distracted by watching the other women cum. They watch curiously and supportively as afterglow spreads up Ivy and Delphia's chests."
-    "Nia and Lumi are distracted by watching the other women cum. They watch curiously and supportively as afterglow spreads up Ivy and Delphia's chests."
+    "妮娅和卢米看着其他女人高潮，被分散了注意力。她们好奇地看着余韵在艾薇和德尔菲娅的胸前蔓延，表示支持。"
 
 # game/code/Book-1/Chapter-8c/s03.rpy:670
 translate chinese b1c08cs03_53d70e0f:
 
     # ll "No! Come, let's spread the joy!"
-    ll "No! Come, let's spread the joy!"
+    ll "不！来吧，让我们把欢乐传播出去！"
 
