@@ -596,23 +596,23 @@ translate chinese strings:
 translate chinese b1c08ws04_4d33a885:
 
     # "Monika thins her lips and smirks at you. She drags out her words."
-    "Monika thins her lips and smirks at you. She drags out her words."
+    "莫妮卡抿紧嘴唇，对你坏笑着。她拖长音，一字一顿地开口。"
 
 # game/code/Book-1/Chapter-8w/s04.rpy:218
 translate chinese b1c08ws04_sex_213eaa6c:
 
     # "She pinches your nipple playfully, making you startle, before resting her other hand on your waist."
-    "She pinches your nipple playfully, making you startle, before resting her other hand on your waist."
+    "她调皮地捏了捏你的乳头，让你吓了一跳，接着她把另一只手放在你的腰上。"
 
 # game/code/Book-1/Chapter-8w/s04.rpy:224
 translate chinese b1c08ws04_sex_5c3af901:
 
     # "Her excitement is evident as she nuzzles against your skin, her hot breath singeing you in pleasure and making you arch your back and push your hips into her."
-    "Her excitement is evident as she nuzzles against your skin, her hot breath singeing you in pleasure and making you arch your back and push your hips into her."
+    "当她用鼻子蹭你的皮肤时，她的兴奋显而易见，她呼出的热气让你浑身舒爽，你忍不住弓起背，将臀部往她身上顶。"
 
 # game/code/Book-1/Chapter-8w/s04.rpy:341
 translate chinese b1c08ws04_sex_a49d7f08:
 
     # "Her body goes limp on top of you as you feel her orgasm rip through her. You grab her and hold her steady, breathless and satisfied in each other's arms."
-    "Her body goes limp on top of you as you feel her orgasm rip through her. You grab her and hold her steady, breathless and satisfied in each other's arms."
+    "你感觉到她高潮来临，她的身子在你身上变得瘫软无力。你抓住她，把她稳稳地抱住，两人在彼此的怀抱中喘不过气来，却感到异常满足。"
 
