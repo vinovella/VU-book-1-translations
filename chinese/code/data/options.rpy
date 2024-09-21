@@ -8,5 +8,5 @@ translate chinese strings:
 
     # game/code/data/options.rpy:15
     old "Taboo University"
-    new "Taboo University"
+    new "禁忌大学"
 
