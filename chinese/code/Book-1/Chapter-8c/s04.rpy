@@ -972,5 +972,5 @@ translate chinese strings:
 translate chinese b1c08cs04_sex_dad6e589:
 
     # "You pull out just as your bodies work themselves into oversensitivity."
-    "You pull out just as your bodies work themselves into oversensitivity."
+    "就在你们的身体变得过度敏感时，你拔了出来。"
 
