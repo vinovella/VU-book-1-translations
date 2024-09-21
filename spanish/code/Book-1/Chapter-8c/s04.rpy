@@ -614,8 +614,8 @@ translate spanish b1c08cs04_sex_785bb643:
 translate spanish b1c08cs04_sex_2ca09078:
 
     # mc "I'm going to get you nice and ready for me before I {i}fuck you nice and deep{/i}."
-    mc "Voy a prepararte bien para mí antes de follarte profundamente{/i}."
-                                               {i}
+    mc "Voy a prepararte bien para mí antes de {i}follarte profundamente{/i}."
+
 # game/code/Book-1/Chapter-8c/s04.rpy:357
 translate spanish b1c08cs04_sex_8c805bf2:
 
@@ -832,11 +832,11 @@ translate spanish b1c08cs04_sex_5abaccd3:
     # "Her body still tenses around you, excitedly twitching and gripping your cock. She milks you dry of every last drop of cum."
     "Su cuerpo todavía se tensa a tu alrededor, moviéndose con entusiasmo y agarrando tu polla. Ella te ordeña hasta la última gota de semen."
 
-# game/code/Book-1/Chapter-8c/s04.rpy:492
-translate spanish b1c08cs04_sex_b6679e4b:
+# game/code/Book-1/Chapter-8c/s04.rpy:517
+translate spanish b1c08cs04_sex_dad6e589:
 
-    # "You pull out just as you and Lumi's bodies work themselves into oversensitivity."
-    "Te retiras justo cuando el cuerpo de Lumi y el tuyo se vuelven hipersensibles."
+    # "You pull out just as your bodies work themselves into oversensitivity."
+    "Te retiras justo cuando sus cuerpos se vuelven hipersensibles."
 
 # game/code/Book-1/Chapter-8c/s04.rpy:498
 translate spanish b1c08cs04_sex_36d13bd6:
