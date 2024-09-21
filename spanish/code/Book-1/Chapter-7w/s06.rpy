@@ -338,7 +338,7 @@ translate spanish b1c07ws06_41968476:
 translate spanish b1c07ws06_28e8dfb1:
 
     # mc "Y'know... I bet you could even become our team's coach someday."
-    mc "Sabes... Apuesto a que incluso podría convertirse en la entrenadora de nuestro equipo algún día."
+    mc "Sabes... Apuesto a que incluso podrías convertirte en la entrenadora de nuestro equipo algún día."
 
 # game/code/Book-1/Chapter-7w/s06.rpy:244
 translate spanish b1c07ws06_d601dcf1:
@@ -362,7 +362,7 @@ translate spanish b1c07ws06_7471de15:
 translate spanish b1c07ws06_e6b2621d:
 
     # sm "*Softly chuckles* I was just thinking how much I enjoy being with these goofballs."
-    sm "*Suavemente se ríe* Estaba pensando cuánto disfruto estar con estos tontos."
+    sm "*Se ríe suavemente* Estaba pensando cuánto disfruto estar con estos tontos."
 
 # game/code/Book-1/Chapter-7w/s06.rpy:257
 translate spanish b1c07ws06_e1d272df:
@@ -398,7 +398,7 @@ translate spanish b1c07ws06_4c603857:
 translate spanish b1c07ws06_03a13a28:
 
     # sm "*Softly chuckles* It's not the right word exactly."
-    sm "*Suavemente se ríe* No es exactamente la palabra correcta."
+    sm "*Se ríe suavemente* No es exactamente la palabra correcta."
 
 # game/code/Book-1/Chapter-7w/s06.rpy:276
 translate spanish b1c07ws06_cdec3462:
@@ -446,7 +446,7 @@ translate spanish b1c07ws06_70f793bd:
 translate spanish b1c07ws06_a8b74e8d:
 
     # sm "The opposite. They made me feel like I belonged for the first time in my life."
-    sm "Lo contrario. Me hicieron sentir que pertenecía por primera vez en mi vida."
+    sm "Todo lo contrario. Por primera vez en mi vida, me hicieron sentir como en casa."
 
 # game/code/Book-1/Chapter-7w/s06.rpy:296
 translate spanish b1c07ws06_711fcfb2:
@@ -476,7 +476,7 @@ translate spanish b1c07ws06_121632a2:
 translate spanish b1c07ws06_245288d4:
 
     # mct "Andrejz? Is that the same Andre I'm thinking of?"
-    mct "Andrejz? ¿Es el mismo Andre en el que estoy pensando?"
+    mct "¿Andrejz? ¿Es el mismo Andre en el que estoy pensando?"
 
 # game/code/Book-1/Chapter-7w/s06.rpy:309
 translate spanish b1c07ws06_5f7e9b0d:
@@ -566,7 +566,7 @@ translate spanish b1c07ws06_2c59407e:
 translate spanish b1c07ws06_3052ca86:
 
     # sm "Oh! Yes! I've been meaning to show you!"
-    sm "¡Oh! ¡Sí! ¡Quería enseñártela!"
+    sm "¡Oh! ¡Sí! ¡Quería enseñártelas!"
 
 # game/code/Book-1/Chapter-7w/s06.rpy:349
 translate spanish b1c07ws06_9e4e66b2:
@@ -578,7 +578,7 @@ translate spanish b1c07ws06_9e4e66b2:
 translate spanish b1c07ws06_c0b3fa18:
 
     # mc "Woah, that looks great! You look like you came straight out of a blockbuster from the 60s."
-    mc "¡Vaya, eso se ve genial! Pareces sacado de un éxito de taquilla de los años 60."
+    mc "¡Guau, eso se ve genial! Parece salido directamente de una superproducción de los años 60."
 
 # game/code/Book-1/Chapter-7w/s06.rpy:389
 translate spanish b1c07ws06_e4a3f40c:
@@ -608,7 +608,7 @@ translate spanish b1c07ws06_952abbc1:
 translate spanish b1c07ws06_73bdfdaa:
 
     # "She looks surprised at your wording. A cheeky smirk develops on her face."
-    "Ella se ve sorprendida por tu redacción. Una sonrisa descarada se desarrolla en su rostro."
+    "Parece sorprendida por tus palabras. Se le dibuja una sonrisa traviesa en su rostro."
 
 # game/code/Book-1/Chapter-7w/s06.rpy:432
 translate spanish b1c07ws06_7b0579db:
@@ -668,7 +668,7 @@ translate spanish b1c07ws06_c8bc6841:
 translate spanish b1c07ws06_aae796f4:
 
     # sm "*Chuckles* Playing around with Monika in the pool really tuckered me out."
-    sm "*Ríe* Jugar con Monika en la piscina realmente me dejó sin aliento."
+    sm "*Ríe* Jugar con Mónica en la piscina realmente me dejó sin aliento."
 
 # game/code/Book-1/Chapter-7w/s06.rpy:460
 translate spanish b1c07ws06_5e06cb8c:
@@ -698,17 +698,17 @@ translate spanish b1c07ws06_42b47caf:
 translate spanish b1c07ws06_23a3d009:
 
     # mc "Yeah, me too. I'm probably gonna head off as well."
-    mc "Sí yo también. Probablemente también me iré."
+    mc "Sí, yo también. Probablemente también me iré."
 
 translate spanish strings:
 
     # game/code/Book-1/Chapter-7w/s06.rpy:6
     old "15 minutes later"
-    new "15 minutos tarde"
+    new "15 minutos después"
 
     # game/code/Book-1/Chapter-7w/s06.rpy:113
     old "Try to hit near Monika's dart to make her feel better"
-    new "Intenta golpear cerca del dardo de Monika para que se sienta mejor."
+    new "Intenta golpear cerca del dardo de Mónica para que se sienta mejor"
 
     # game/code/Book-1/Chapter-7w/s06.rpy:113
     old "Aim for the bullseye to impress everyone"
@@ -720,5 +720,5 @@ translate spanish strings:
 
     # game/code/Book-1/Chapter-7w/s06.rpy:228
     old "I bet you could even become our team's coach someday"
-    new "Apuesto a que incluso podrías convertirte en la entrenadora de nuestro equipo algún día."
+    new "Apuesto a que incluso podrías convertirte en la entrenadora de nuestro equipo algún día"
 
