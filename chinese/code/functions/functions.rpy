@@ -20,23 +20,23 @@ translate chinese strings:
 
     # game/code/functions/functions.rpy:63
     old "You have updated a new character in the Investigation Board"
-    new "You have updated a new character in the Investigation Board"
+    new "您在调查委员会中更新了一个新角色"
 
     # game/code/functions/functions.rpy:315
     old "You've unlocked a new CG Gallery"
-    new "You've unlocked a new CG Gallery"
+    new "您已经解锁了一个新的CG 图库"
 
     # game/code/functions/functions.rpy:315
     old "You can watch the scene again in the Replay Room"
-    new "You can watch the scene again in the Replay Room"
+    new "您可以在回放室中再次观看该场景"
 
     # game/code/functions/functions.rpy:315
     old "You've unlocked a new bonus content"
-    new "You've unlocked a new bonus content"
+    new "您解锁了一个新的奖励内容"
 
 translate chinese strings:
 
     # game/code/functions/functions.rpy:374
     old "You've unlocked \"{}\" {}"
-    new "You've unlocked \"{}\" {}"
+    new "您已经解锁了\"{}\" {}"
 
