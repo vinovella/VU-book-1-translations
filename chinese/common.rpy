@@ -1272,7 +1272,7 @@ translate chinese strings:
 
     # renpy/common/00sync.rpy:605
     old "You can use this ID to download your save on another device.\nThis sync will expire in an hour.\nRen'Py Sync is supported by {a=https://www.renpy.org/sponsors.html}Ren'Py's Sponsors{/a}."
-    new "您可以使用此ID在另一台设备上下载您的保存文件。\n此同步将在一小时后过期。\Ren'Py同步由{a=https://www.renpy.org/sponsors.html}Ren'Py's Sponsors支持{/a}."
+    new "您可以使用此ID在另一台设备上下载您的保存文件。\n此同步将在一小时后过期。\nRen'Py同步由{a=https://www.renpy.org/sponsors.html}Ren'Py's Sponsors{/a}支持。"
 
     # renpy/common/00sync.rpy:631
     old "Sync Error"

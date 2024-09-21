@@ -104,8 +104,6 @@ translate chinese strings:
     old "Nerium"
     new "纳瑞姆"
 
-translate chinese strings:
-
     # game/code/data/characters.rpy:75
     old "Stacy"
     new "史黛西"
@@ -121,6 +119,10 @@ translate chinese strings:
     # game/code/data/characters.rpy:78
     old "Nari"
     new "纳莉"
+
+    # game/code/data/characters.rpy:79
+    old "Narurra"
+    new "Narurra"
 
     # game/code/data/characters.rpy:79
     old "Arlene"

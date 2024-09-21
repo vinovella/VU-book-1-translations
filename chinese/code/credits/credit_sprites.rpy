@@ -30,7 +30,7 @@ translate chinese strings:
 
     # game/code/credits/credit_sprites.rpy:115
     old "This game was only\nmade possible with\nall the support we have\nfrom Patreon"
-    new "这款游戏\n得以完成，离不开\nPatreon的\n大力支持"
+    new "这款游戏\n得以完成，\n离不开\nPatreon的\n大力支持"
 
     # game/code/credits/credit_sprites.rpy:123
     old "Huge thanks to\nall of our fans\nand everyone who\nsupported us and\nhelped to bring\nthis story to life"
@@ -48,13 +48,9 @@ translate chinese strings:
     old "If you liked the game, then please -\n{a=steam://openurl/https://store.steampowered.com/app/2459350/Taboo_University_Book_One/}Wishlist Taboo University on Steam{/a}"
     new "如果你喜欢这款游戏，请--\n{a=steam://openurl/https://store.steampowered.com/app/2459350/Taboo_University_Book_One/}在Steam上将《禁忌大学》加入愿望清单{/a}"
 
-translate chinese strings:
-
     # game/code/credits/credit_sprites.rpy:115
     old "This game was only\nmade possible with\nall the support we have\nfrom our fans"
-    new "多亏了\n粉丝们的\n全力支持，这款游戏才得以\n成功推出"
-
-translate chinese strings:
+    new "多亏了\n粉丝们的\n全力支持，\n这款游戏才得以\n成功推出"
 
     # game/code/credits/credit_sprites.rpy:39
     old "Art -"

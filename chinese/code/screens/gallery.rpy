@@ -4,8 +4,6 @@ translate chinese strings:
     old "Gallery"
     new "相册"
 
-translate chinese strings:
-
     # game/code/screens/gallery.rpy:9
     old "CG Gallery"
     new "CG图库"
@@ -30,8 +28,6 @@ translate chinese strings:
     old "Page [page]"
     new "第 [page]页"
 
-translate chinese strings:
-
     # game/code/screens/gallery.rpy:102
     old "None"
     new "无"
@@ -39,14 +35,6 @@ translate chinese strings:
     # game/code/screens/gallery.rpy:105
     old "Close"
     new "关闭"
-
-translate chinese strings:
-
-    # game/code/screens/gallery.rpy:44
-    old "Character Filter: [character_filter]"
-    new "角色筛选器: [character_filter]"
-
-translate chinese strings:
 
     # game/code/screens/gallery.rpy:21
     old "Achievements"
