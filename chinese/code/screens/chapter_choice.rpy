@@ -12,15 +12,15 @@ translate chinese strings:
 
     # game/code/screens/chapter_choice.rpy:23
     old "Investigate "
-    new "Investigate "
+    new "调查 "
 
     # game/code/screens/chapter_choice.rpy:29
     old "You have already investigated "
-    new "You have already investigated "
+    new "你已经调查了 "
 
 translate chinese strings:
 
     # game/code/screens/chapter_choice.rpy:84
     old "You cannot investigate this group anymore"
-    new "You cannot investigate this group anymore"
+    new "你无法再调查该团体"
 
