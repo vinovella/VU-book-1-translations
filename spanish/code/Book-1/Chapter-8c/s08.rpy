@@ -26,7 +26,7 @@ translate spanish b1c08cs08_d38d65bf:
 translate spanish b1c08cs08_24f31d7d:
 
     # ih "But the time I've spent with you has been so fulfilling and rewarding."
-    ih "Pero el tiempo que he pasado contigo ha sido muy satisfactorio y gratificante."
+    ih "Pero el tiempo que he pasado con ustedes ha sido tan satisfactorio y gratificante."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:51
 translate spanish b1c08cs08_3b174fca:
@@ -200,13 +200,13 @@ translate spanish b1c08cs08_3722dde3:
 translate spanish b1c08cs08_0409d225:
 
     # mc "Shh!"
-    mc "¡¡Shh!"
+    mc "¡Shh!"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:139
 translate spanish b1c08cs08_e63d7d5d:
 
     # ll "Sorry. No, no. I don't want to disappoint anyone. It's just that this is a really big decision and I—"
-    ll "Lo siento. No no. No quiero decepcionar a nadie. Es sólo que esta es una decisión realmente importante y yo..."
+    ll "Lo siento. No, no. No quiero decepcionar a nadie. Es sólo que esta es una decisión realmente importante y yo..."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:142
 translate spanish b1c08cs08_ca0f26b4:
@@ -386,7 +386,7 @@ translate spanish b1c08cs08_nv_mc_talk_8167ca51:
 translate spanish b1c08cs08_nv_mc_talk_969dd289:
 
     # nv "[mcname] and I are doing great, and I really hope to progress to the next step in our spiritual journey together."
-    nv "[mcname] y yo estamos muy bien y realmente espero avanzar al siguiente paso en nuestro viaje espiritual juntos."
+    nv "A [mcname] y a mí nos va muy bien, y realmente espero que podamos avanzar juntos hacia el siguiente paso en nuestro viaje espiritual."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:224
 translate spanish b1c08cs08_nv_mc_talk_1566d025:
@@ -476,7 +476,7 @@ translate spanish b1c08cs08_nv_mc_talk_0c8f6c38:
 translate spanish b1c08cs08_nv_mc_talk_2a4be3b0:
 
     # "The crowd gives polite and earnest applause to you and Nia."
-    "La multitud te da un aplauso cortés y sincero a ti y a Nia."
+    "La multitud te da un aplauso cortés y sincero a Nia y a ti."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:275
 translate spanish b1c08cs08_nv_mc_talk_2668a221:
@@ -500,13 +500,13 @@ translate spanish b1c08cs08_nv_mc_talk_deb4df22:
 translate spanish b1c08cs08_nv_mc_talk_7b92e04c:
 
     # "Ivy stands before you, smiling brightly. She takes both of your hands in hers."
-    "Ivy está frente a ti, sonriendo alegremente. Ella toma tus dos manos entre las suyas."
+    "Ivy está frente a ti, sonriendo alegremente. Ella toma sus manos entre las suyas."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:293
 translate spanish b1c08cs08_nv_mc_talk_b0d34a17:
 
     # ih "I am glad you seem to be improving well with us."
-    ih "Me alegra que parezca que estás mejorando bien con nosotros."
+    ih "Me alegro de verte mejorar con nosotros."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:296
 translate spanish b1c08cs08_nv_mc_talk_99f99ddc:
@@ -578,7 +578,7 @@ translate spanish b1c08cs08_nv_mc_talk_bf8471c7:
 translate spanish b1c08cs08_nv_mc_talk_adf21b41:
 
     # "She has to cover her mouth with her hand to hide her bubbling giggles."
-    "Tiene que taparse la boca con la mano para ocultar sus risitas burbujeantes."
+    "Tiene que taparse la boca con la mano para ocultar sus risitas chillonas."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:326
 translate spanish b1c08cs08_nv_mc_talk_f1da1e8f:
@@ -602,13 +602,13 @@ translate spanish b1c08cs08_nv_mc_talk_9251a1bb:
 translate spanish b1c08cs08_nv_mc_talk_be4fd03a:
 
     # mc "I've been kind and encouraging to her. She responded very positively to it."
-    mc "He sido amable y alentadora con ella. Ella respondió muy positivamente."
+    mc "He sido amable y la he animado. Ella ha respondido de manera muy positiva."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:338
 translate spanish b1c08cs08_nv_mc_talk_5ea64912:
 
     # "Delphia gives you a proud, kind smile."
-    "Delphia te da una sonrisa amable y orgullosa."
+    "Delphia te dedica una sonrisa orgullosa y amable."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:339
 translate spanish b1c08cs08_nv_mc_talk_4b3c1cdd:
@@ -680,25 +680,25 @@ translate spanish b1c08cs08_ll_talk_86b098a3:
 translate spanish b1c08cs08_ll_talk_6c3012db:
 
     # "Lumi pauses for a moment, unsure of herself. She averts her eyes from the crowd, unable to meet everyone's expectant gazes."
-    "Lumi hace una pausa por un momento, insegura de sí misma. Ella desvía la mirada de la multitud, incapaz de encontrar las miradas expectantes de todos."
+    "Lumi se detiene un momento, insegura de sí misma. Ella desvía la mirada de la multitud, incapaz de cumplir con las miradas expectantes de todo el mundo."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:378
 translate spanish b1c08cs08_ll_talk_88cffe0a:
 
     # ll "I'm not sure if I'm ready for the next steps in my spiritual journey. I'll leave that up to my Guides to decide..."
-    ll "No estoy seguro de estar preparado para los siguientes pasos en mi viaje espiritual. Dejaré que mis Guías decidan..."
+    ll "No estoy segura de estar preparada para los siguientes pasos en mi viaje espiritual. Dejaré que mis Guías decidan..."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:380
 translate spanish b1c08cs08_ll_talk_6f7095c8:
 
     # "A look of determination settles on her features."
-    "Una mirada de determinación se posa en sus rasgos."
+    "Una mirada de determinación se instala en sus semblantes."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:382
 translate spanish b1c08cs08_ll_talk_d6d5a0ee:
 
     # ll "But I {i}can{/i} say that I'm willing to do what it takes to {i}try{/i}. In my own time."
-    ll "Pero {i}puedo{/i} decir que estoy dispuesto a hacer lo que sea necesario para {i}intentar{/i}. En mi propio tiempo."
+    ll "Pero {i}puedo{/i} decir que estoy dispuesta a hacer lo que haga falta para {i}intentarlo{/i}. A mi propio ritmo."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:383
 translate spanish b1c08cs08_ll_talk_161cc3dc:
@@ -710,7 +710,7 @@ translate spanish b1c08cs08_ll_talk_161cc3dc:
 translate spanish b1c08cs08_ll_talk_3bf2c99e:
 
     # ll "This trip has been one of the best experiences in my life. Everyone I've met in this community has been so kind and patient."
-    ll "Este viaje ha sido una de las mejores experiencias de mi vida. Todos los que he conocido en esta comunidad han sido muy amables y pacientes."
+    ll "Este viaje ha sido una de las mejores experiencias de mi vida. Todas las personas que he conocido en esta comunidad han sido muy amables y pacientes."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:387
 translate spanish b1c08cs08_ll_talk_08d9aba1:
@@ -740,7 +740,7 @@ translate spanish b1c08cs08_ll_talk_d06977b7:
 translate spanish b1c08cs08_ll_talk_bbb2e476:
 
     # ll "Thank you so much, to those of you who have shown me kindness and acceptance."
-    ll "Muchas gracias a aquellos de ustedes que me han mostrado amabilidad y aceptación."
+    ll "Muchas gracias a los que me han mostrado amabilidad y aceptación."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:396
 translate spanish b1c08cs08_ll_talk_9e8a6350:
@@ -776,7 +776,7 @@ translate spanish b1c08cs08_ll_talk_ae2df3e4:
 translate spanish b1c08cs08_ll_talk_5776fdfd:
 
     # ll "But is it required that you mark me? To brand me like livestock?"
-    ll "¿Pero es necesario que me marques? ¿Para marcarme como ganado?"
+    ll "¿Pero es necesario que me marques? ¿Que me marquen como si fuera ganado?"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:412
 translate spanish b1c08cs08_ll_talk_fc975291:
@@ -788,19 +788,19 @@ translate spanish b1c08cs08_ll_talk_fc975291:
 translate spanish b1c08cs08_ll_talk_4c6df594:
 
     # ad "My sweet pet. Don't you want to be branded for me?"
-    ad "Mi dulce mascota. ¿No quieres que te marquen?"
+    ad "Mi dulce mascota. ¿No quieres que te marquen para mí?"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:416
 translate spanish b1c08cs08_ll_talk_a6861562:
 
     # ad "Don't you want to be branded for {i}all{/i} of us?"
-    ad "¿No quieres ser la marca de {i}todos{/i} nosotros?"
+    ad "¿No quieres que te marquen por {i}todos{/i} nosotros?"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:419
 translate spanish b1c08cs08_ll_talk_5bb98a18:
 
     # ll "It just...feels like there's a lot of power in that act. It's not that I don't want to, it's that I want more time to consider—"
-    ll "Simplemente... se siente como si hubiera mucho poder en ese acto. No es que no quiera, es que quiero más tiempo para considerar—"
+    ll "Simplemente... se siente como si hubiera mucho poder en ese acto. No es que no quiera, es que quiero más tiempo para considerar..."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:422
 translate spanish b1c08cs08_ll_talk_65299246:
@@ -818,7 +818,7 @@ translate spanish b1c08cs08_ll_talk_c616c150:
 translate spanish b1c08cs08_ll_talk_830bfcd1:
 
     # ad "We are all here to support you. Have we not shown you infinite kindness and acceptance while you've been in our care?"
-    ad "Todos estamos aquí para apoyarte. ¿No te hemos mostrado infinita bondad y aceptación mientras estuviste bajo nuestro cuidado?"
+    ad "Todos estamos aquí para apoyarte. ¿No te hemos mostrado infinita amabilidad y aceptación mientras has estado a nuestro cuidado?"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:431
 translate spanish b1c08cs08_ll_talk_8a47c774:
@@ -860,7 +860,7 @@ translate spanish b1c08cs08_ll_talk_91b19b90:
 translate spanish b1c08cs08_ll_talk_5fc11b6f:
 
     # ad "You are afraid because you are committed. You're giving this serious, genuine thought. That's good, Lumi. I'm so proud of you."
-    ad "Tienes miedo porque estás comprometida. Estás pensando seria y genuinamente. Eso es bueno, Lumi. Estoy tan orgulloso de ti."
+    ad "Tienes miedo porque estás comprometida. Estás pensando en esto seria y genuinamente. Eso es bueno, Lumi. Estoy muy orgulloso de ti."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:446
 translate spanish b1c08cs08_ll_talk_9227b5a9:
@@ -902,7 +902,7 @@ translate spanish b1c08cs08_ll_talk_d5d92908:
 translate spanish b1c08cs08_ll_talk_71161586:
 
     # "Lumi's eyes flash anxiously to the crowd, as if she'll find the answers there."
-    "Los ojos de Lumi brillan ansiosamente hacia la multitud, como si fuera a encontrar las respuestas allí."
+    "Lumi mira ansiosa a la multitud, como si allí fuera a encontrar las respuestas."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:461
 translate spanish b1c08cs08_ll_talk_582df0af:
@@ -932,7 +932,7 @@ translate spanish b1c08cs08_ll_talk_faa78869:
 translate spanish b1c08cs08_ll_talk_acc6513e:
 
     # "Andrejz abruptly releases Lumi and steps back as if she shoved him. A look of firm disappointment settles on his features."
-    "Andrejz suelta bruscamente a Lumi y da un paso atrás como si ella lo hubiera empujado. Una mirada de firme decepción se posa en sus rasgos."
+    "Andrejz suelta bruscamente a Lumi y da un paso atrás como si ella lo hubiera empujado. Una mirada de firme decepción se posa en su rostro."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:474
 translate spanish b1c08cs08_ll_talk_d64e10b9:
@@ -1004,7 +1004,7 @@ translate spanish b1c08cs08_ll_punishment_bcc92eb8:
 translate spanish b1c08cs08_ll_punishment_e0af6243:
 
     # "Your uncertainty grows with each step you take toward Lumi and the spiritual teachers."
-    "Tu incertidumbre crece con cada paso que das hacia Lumi y los maestros espirituales."
+    "Tu incertidumbre crece con cada paso que das en dirección a Lumi y a los maestros espirituales."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:530
 translate spanish b1c08cs08_ll_punishment_2fc4d0b7:
@@ -1106,13 +1106,13 @@ translate spanish b1c08cs08_ll_punishment_8dd5f09f:
 translate spanish b1c08cs08_ll_punishment_67edf839:
 
     # mc "Hasn't {i}he{/i} done enough to her esteem as is?"
-    mc "¿No ha {i}hecho{/i} ya bastante por su estima?"
+    mc "¿No ha {i}hecho{/i} bastante por su estima?"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:588
 translate spanish b1c08cs08_ll_punishment_f7deed9c:
 
     # ad "You see, everyone? Perfect example of rock bottom. This immature boy cannot even communicate and control his emotions properly."
-    ad "¿Ven todos? Un ejemplo perfecto de tocar fondo. Este chico inmaduro ni siquiera puede comunicarse y controlar sus emociones adecuadamente."
+    ad "¿Lo pueden ver todos? El ejemplo perfecto de tocar fondo. Este chico inmaduro ni siquiera puede comunicarse y controlar sus emociones correctamente."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:589
 translate spanish b1c08cs08_ll_punishment_0a430f1f:
@@ -1136,7 +1136,7 @@ translate spanish b1c08cs08_ll_punishment_9368e64c:
 translate spanish b1c08cs08_ll_punishment_7081620f:
 
     # ih "Unless you'd like both of your positions within this community revoked."
-    ih "A menos que desees que se revoquen tus dos puestos dentro de esta comunidad."
+    ih "A menos que quiera que le revoquen sus dos puestos dentro de esta comunidad."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:599
 translate spanish b1c08cs08_ll_punishment_639a3c0e:
@@ -1160,7 +1160,7 @@ translate spanish b1c08cs08_ll_punishment_9e7c514c:
 translate spanish b1c08cs08_ll_punishment_9fcca99c:
 
     # ad "I knew you could do it, my pet. So brave and resilient are you."
-    ad "Sabía que podías hacerlo, mi mascota. Qué valiente y resistente eres."
+    ad "Sabía que podías hacerlo, mi mascota. Eres tan valiente y fuerte."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:611
 translate spanish b1c08cs08_ll_punishment_8453b9c7:
@@ -1220,7 +1220,7 @@ translate spanish b1c08cs08_ll_punishment_b422f4f1:
 translate spanish b1c08cs08_ll_punishment_ba6cf4b8:
 
     # "You and Lumi face Ivy and Andre together, presenting a unified front, despite your less than desirable positions."
-    "Tú y Lumi se enfrentan a Ivy y Andre juntos, presentando un frente unificado, a pesar de sus posiciones poco deseables."
+    "Lumi y tú se enfrentan a Ivy y Andre juntos, presentando un frente unificado, a pesar de sus posiciones poco deseables."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:643
 translate spanish b1c08cs08_ll_punishment_bac0a4a1:
@@ -1232,7 +1232,7 @@ translate spanish b1c08cs08_ll_punishment_bac0a4a1:
 translate spanish b1c08cs08_ll_punishment_28a9cd86:
 
     # mct "To disrespect this will probably compromise my standing with this group, so it's best to go along. But I can do that in my own way."
-    mct "Faltarle el respeto a esto probablemente comprometerá mi posición en este grupo, por lo que es mejor aceptarlo. Pero puedo hacerlo a mi manera."
+    mct "No respetar esto probablemente comprometerá mi posición en este grupo, así que es mejor seguir la corriente. Pero puedo hacerlo a mi manera."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:647
 translate spanish b1c08cs08_ll_punishment_126df2c5:
@@ -1244,7 +1244,7 @@ translate spanish b1c08cs08_ll_punishment_126df2c5:
 translate spanish b1c08cs08_ll_punishment_8f217a61:
 
     # mct "I will choose how the punishment is enacted. And I choose that the punishment is out of genuine acceptance and love for Lumi."
-    mct "Yo elegiré cómo se aplica el castigo. Y elijo que el castigo sea por aceptación y amor genuinos por Lumi."
+    mct "Yo elijo cómo se aplica el castigo. Y elijo que el castigo sea por auténtica aceptación y amor a Lumi."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:651
 translate spanish b1c08cs08_ll_punishment_58beeb2c:
@@ -1298,7 +1298,7 @@ translate spanish b1c08cs08_ll_punishment_83a79485:
 translate spanish b1c08cs08_ll_punishment_ac09155f:
 
     # ll "Yes, I understand."
-    ll "Sí, entiendo."
+    ll "Sí, lo entiendo."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:671
 translate spanish b1c08cs08_ll_punishment_a4e4e877:
@@ -1330,6 +1330,12 @@ translate spanish b1c08cs08_ll_punishment_d4d87a94:
     # ll "I suppose you're right..."
     ll "Supongo que tienes razón..."
 
+# game/code/Book-1/Chapter-8c/s08.rpy:703
+translate spanish b1c08cs08_ll_spanking_d458906e:
+
+    # "She before you with a more confident expression, ready to take her punishment with dignity."
+    "Se presenta ante ti con una expresión más confiada, dispuesta a asumir dignamente su castigo."
+
 # game/code/Book-1/Chapter-8c/s08.rpy:706
 translate spanish b1c08cs08_ll_spanking_9822128a:
 
@@ -1346,7 +1352,7 @@ translate spanish b1c08cs08_ll_spanking_07f9ceee:
 translate spanish b1c08cs08_ll_spanking_54a52e86:
 
     # mc "Right. I'm right here with you."
-    mc "Bien. Estoy aquí contigo."
+    mc "Cierto. Estoy aquí contigo."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:714
 translate spanish b1c08cs08_ll_spanking_1dcbe2ce:
@@ -1358,7 +1364,7 @@ translate spanish b1c08cs08_ll_spanking_1dcbe2ce:
 translate spanish b1c08cs08_ll_spanking_7b5278b5:
 
     # "Lumi's hesitancy takes on a more flustered intensity as she looks at you seated before her."
-    "La vacilación de Lumi adquiere una intensidad más nerviosa cuando te mira sentado frente a ella."
+    "La vacilación de Lumi adquiere una intensidad más nerviosa cuando te mira sentado ante ella."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:720
 translate spanish b1c08cs08_ll_spanking_a01d8242:
@@ -1442,7 +1448,7 @@ translate spanish b1c08cs08_ll_spanking_01c5ac14:
 translate spanish b1c08cs08_ll_spanking_e8f16f61:
 
     # mc "Okay Lumi. I'm going to start now."
-    mc "Bueno Lumi. Voy a empezar ahora."
+    mc "Bien Lumi. Voy a empezar ahora."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:761
 translate spanish b1c08cs08_ll_spanking_c81e65aa:
@@ -1496,7 +1502,7 @@ translate spanish b1c08cs08_ll_spanking_ccb77054:
 translate spanish b1c08cs08_ll_spanking_12ea3f09:
 
     # "You hear it in her voice that she's almost at her limit."
-    "Se oye en su voz que está casi en su límite."
+    "Se escucha en su voz que está casi al límite."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:802
 translate spanish b1c08cs08_ll_spanking_1449595e:
@@ -1532,7 +1538,7 @@ translate spanish b1c08cs08_ll_spanking_6c7016e8:
 translate spanish b1c08cs08_ll_spanking_b4741130:
 
     # "Lumi covers her face, unable to speak further because she's so choked with emotion."
-    "Lumi se cubre la cara, incapaz de hablar más porque está muy ahogada por la emoción."
+    "Lumi se cubre la cara, incapaz de seguir hablando porque está tan ahogada por la emoción."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:825
 translate spanish b1c08cs08_ll_spanking_8ea2fa25:
@@ -1600,6 +1606,12 @@ translate spanish b1c08cs08_ll_spanking_8acdeff2:
     # ys "Just like you. We are all magnificent creatures."
     ys "Igual que tú. Todos somos criaturas magníficas."
 
+# game/code/Book-1/Chapter-8c/s08.rpy:858
+translate spanish b1c08cs08_ll_spanking_6661d99c:
+
+    # "At Yvonne's silent que, Sloan and Nerium also rise."
+    "Ante la silenciosa fila de Yvonne, Sloan y Nerium también se levantan."
+
 # game/code/Book-1/Chapter-8c/s08.rpy:861
 translate spanish b1c08cs08_ll_spanking_e8d7836c:
 
@@ -1628,7 +1640,7 @@ translate spanish b1c08cs08_ll_spanking_7e744a30:
 translate spanish b1c08cs08_ll_spanking_e893c505:
 
     # sta "And—No one should feel alone through ego death. No matter what."
-    sta "Y nadie debería sentirse sola debido a la muerte del ego. No importa qué."
+    sta "Y... nadie debe sentirse solo a través de la muerte del ego. Sin importar lo que pase."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:872
 translate spanish b1c08cs08_ll_spanking_60b6cd4c:
@@ -1652,7 +1664,7 @@ translate spanish b1c08cs08_ll_spanking_ed9e97b3:
 translate spanish b1c08cs08_ll_spanking_bfad6b91:
 
     # ll "I-I..."
-    ll "Yo-Yo..."
+    ll "Yo...Yo..."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:886
 translate spanish b1c08cs08_ll_spanking_2da78be3:
@@ -1700,7 +1712,7 @@ translate spanish b1c08cs08_ll_spanking_a001776b:
 translate spanish b1c08cs08_ll_spanking_575f4893:
 
     # mc "Hasn't she proved herself enough? She just—"
-    mc "¿No ha demostrado su valía lo suficiente? Ella solo-"
+    mc "¿No ha demostrado su valía lo suficiente? Ella solo..."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:907
 translate spanish b1c08cs08_ll_spanking_5469ace5:
@@ -1712,7 +1724,7 @@ translate spanish b1c08cs08_ll_spanking_5469ace5:
 translate spanish b1c08cs08_ll_spanking_9370b518:
 
     # "Lumi smiles softly and appreciatively at you. It's like you're looking at a different woman."
-    "Lumi te sonríe suave y apreciativamente. Es como si estuvieras mirando a una mujer diferente."
+    "Lumi te sonríe suave y apreciativamente. Es como si estuvieras viendo a una mujer diferente."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:911
 translate spanish b1c08cs08_ll_spanking_158504b5:
@@ -1742,7 +1754,7 @@ translate spanish b1c08cs08_ll_spanking_c6281b4a:
 translate spanish b1c08cs08_ll_spanking_ca02e87f:
 
     # ad "If you're so sure, why don't you try touching yourself again? See how your body feels."
-    ad "Si estás tan segura, ¿por qué no intentas tocarte otra vez? Mira cómo se siente tu cuerpo."
+    ad "Si estás tan segura, ¿por qué no intentas tocarte otra vez? Observa cómo se siente tu cuerpo."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:925
 translate spanish b1c08cs08_ll_spanking_e35e7eb3:
@@ -1760,13 +1772,13 @@ translate spanish b1c08cs08_ll_spanking_854c64a6:
 translate spanish b1c08cs08_ll_spanking_d630b83c:
 
     # ll "It feels...good. I feel good."
-    ll "Se siente bien. Me siento bien."
+    ll "Se siente... bien. Me siento bien."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:932
 translate spanish b1c08cs08_ll_spanking_3d0c4e16:
 
     # "The previous anxious, high-strung tension of earlier melts away into a more relaxed energy. The air is filled with visceral yearning for pleasure."
-    "La anterior tensión ansiosa y nerviosa de antes se disuelve en una energía más relajada. El aire está lleno de anhelo visceral de placer."
+    "La tensión previa, ansiosa y tensa, se funde en una energía más relajada. El aire se llena de un deseo obsesivo de placer."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:939
 translate spanish b1c08cs08_ll_spanking_d4275004:
@@ -1790,7 +1802,7 @@ translate spanish b1c08cs08_ll_spanking_42a1a9db:
 translate spanish b1c08cs08_ll_spanking_68e0dfc8:
 
     # ad "Let your body speak. Let it tell you what {i}it{/i} wants."
-    ad "Deja que tu cuerpo hable. Deja que te diga lo que {i}{/i} quiere."
+    ad "Deja que tu cuerpo hable. Deja que {i}te diga{/i} lo que quiere."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:947
 translate spanish b1c08cs08_ll_spanking_ff9345a9:
@@ -1802,7 +1814,7 @@ translate spanish b1c08cs08_ll_spanking_ff9345a9:
 translate spanish b1c08cs08_ll_spanking_28df24f3:
 
     # ll "I-I'm cumming—"
-    ll "Me-me estoy corriendo—"
+    ll "Me... me estoy corriendo—"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:985
 translate spanish b1c08cs08_ll_spanking_52e55d78:
@@ -1868,7 +1880,7 @@ translate spanish b1c08cs08_end_899281de:
 translate spanish b1c08cs08_end_2fd05136:
 
     # "You lock questioning eyes with Delphia, hoping she can convey some answer as to why you're not also advancing, or at least getting some acknowledgement to the part you played."
-    "Cierras los ojos inquisitivos con Delphia, esperando que ella pueda transmitirte alguna respuesta sobre por qué no estás avanzando, o al menos obteniendo algún reconocimiento por el papel que desempeñaste."
+    "Diriges una mirada interrogante a Delphia, esperando que pueda darte alguna respuesta sobre por qué no avanzas tú también, o al menos que reconozca el papel que has desempeñado."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:1041
 translate spanish b1c08cs08_end_c65f74d5:
@@ -1946,7 +1958,7 @@ translate spanish b1c08cs08_end_dcfd3f5c:
 translate spanish b1c08cs08_end_e20cd15a:
 
     # "Lumi sleepily leans into you. You hadn't thought about how this experience may be very exhausting, even if positive.{w} In a way, at least."
-    "Lumi, adormilada, se inclina hacia ti. No habías pensado en lo agotadora que puede ser esta experiencia, aunque sea positiva.{w} Al menos en cierto modo."
+    "Lumi se inclina adormilada hacia ti. No habías pensado que esta experiencia podría ser muy agotadora, aunque positiva.{w} En cierto modo, al menos."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:1074
 translate spanish b1c08cs08_end_5780b762:
@@ -1994,7 +2006,7 @@ translate spanish b1c08cs08_end_23a079ff:
 translate spanish b1c08cs08_end_e1d845ce:
 
     # "For better, or for worse."
-    "Para bien o para mal."
+    "Para bien, o para mal."
 
 translate spanish strings:
 
@@ -2012,7 +2024,7 @@ translate spanish strings:
 
     # game/code/Book-1/Chapter-8c/s08.rpy:552
     old "Some fucking show of kindness and acceptance"
-    new "Alguna puta muestra de bondad y aceptación"
+    new "Alguna maldita muestra de amabilidad y aceptación"
 
     # game/code/Book-1/Chapter-8c/s08.rpy:552
     old "I'll go easy on you, Lumi"
@@ -2021,6 +2033,7 @@ translate spanish strings:
     # game/code/Book-1/Chapter-8c/s08.rpy:552
     old "Of course. The punishment is out of love"
     new "Por supuesto. El castigo es por amor"
+
 
 # game/code/Book-1/Chapter-8c/s08.rpy:717
 translate spanish b1c08cs08_ll_spanking_d643c708:
