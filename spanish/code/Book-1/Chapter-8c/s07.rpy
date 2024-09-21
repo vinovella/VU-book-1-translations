@@ -122,7 +122,7 @@ translate spanish b1c08cs07_strip_ad77633b:
 translate spanish b1c08cs07_strip_b1506e71:
 
     # mct "And I'm still wondering if Andre's gonna jump out with a bucket of blood or something..."
-    mct "Y todavía me pregunto si Andre saltará con un cubo de sangre o algo así..."
+    mct "Y todavía me pregunto si Andre saltará con un balde de sangre o algo así..."
 
 # game/code/Book-1/Chapter-8c/s07.rpy:124
 translate spanish b1c08cs07_strip_a6bb8968:
@@ -176,7 +176,7 @@ translate spanish b1c08cs07_strip_4345b458:
 translate spanish b1c08cs07_strip_3f5fc9ca:
 
     # dk "So I'd say having Nia undress you would help."
-    dk "Así que diría que hacer que Nia te desnude ayudaría."
+    dk "Así que el hacer que Nia te ayude a desvestirte, ayudaría."
 
 # game/code/Book-1/Chapter-8c/s07.rpy:152
 translate spanish b1c08cs07_strip_5d759f87:
@@ -218,7 +218,7 @@ translate spanish b1c08cs07_strip_657013c5:
 translate spanish b1c08cs07_strip_dc6abe0a:
 
     # nv "May I take this off?"
-    nv "¿Puedo quitarme esto?"
+    nv "¿Puedo quitarte esto?"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:176
 translate spanish b1c08cs07_strip_9538b3b9:
@@ -326,7 +326,7 @@ translate spanish b1c08cs07_strip_ef9f8d11:
 translate spanish b1c08cs07_strip_1aba0afb:
 
     # "Her warm breath seeps onto your cock, which makes you twitch in response."
-    "Su cálido aliento se filtra sobre tu polla, lo que te hace contraerse en respuesta."
+    "Su cálido aliento se filtra en tu polla, lo que hace que te estremezcas en respuesta."
 
 # game/code/Book-1/Chapter-8c/s07.rpy:222
 translate spanish b1c08cs07_strip_065bf516:
@@ -368,7 +368,7 @@ translate spanish b1c08cs07_strip_37466391:
 translate spanish b1c08cs07_strip_18de757d:
 
     # dk "You are so eager to please, love."
-    dk "Tienes tantas ganas de complacer, amor."
+    dk "Tienes tantas ganas de complacer, cariño."
 
 # game/code/Book-1/Chapter-8c/s07.rpy:240
 translate spanish b1c08cs07_strip_44048f59:
@@ -380,7 +380,7 @@ translate spanish b1c08cs07_strip_44048f59:
 translate spanish b1c08cs07_strip_ed5a5269:
 
     # dk "Today, I want both of you to explore the intimacy between you. Find each other's sweet spots. Explore each other's desires."
-    dk "Hoy quiero que ambos exploren la intimidad entre ustedes. Encuentren los puntos dulces de cada uno. Explore los deseos de cada uno."
+    dk "Hoy quiero que ambos exploren la intimidad entre ustedes. Encuentren los puntos dulces de cada uno. Exploren los deseos de cada uno."
 
 # game/code/Book-1/Chapter-8c/s07.rpy:247
 translate spanish b1c08cs07_strip_e58a3ae2:
@@ -608,13 +608,13 @@ translate spanish b1c08cs07_sex_de206a99:
 translate spanish b1c08cs07_sex_0c587977:
 
     # "Her body immediately tightens and pulses around you."
-    "Su cuerpo inmediatamente se tensa y pulsa a tu alrededor."
+    "Inmediatamente, su cuerpo se tensa y palpita a tu alrededor."
 
 # game/code/Book-1/Chapter-8c/s07.rpy:406
 translate spanish b1c08cs07_sex_5486b161:
 
     # mc "You like that? You like being fucked raw by me?"
-    mc "¿Te gusta eso? ¿Te gusta que te folle crudo?"
+    mc "¿Te gusta? ¿Te gusta que te folle sin piedad?"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:407
 translate spanish b1c08cs07_sex_7c286ac4:
@@ -752,7 +752,7 @@ translate spanish b1c08cs07_sex_d250247e:
 translate spanish b1c08cs07_sex_e1ed60df:
 
     # nv "Like you aren't."
-    nv "Como si no lo fueras."
+    nv "Como si tú no lo estuvieras."
 
 # game/code/Book-1/Chapter-8c/s07.rpy:490
 translate spanish b1c08cs07_sex_a0241f40:
@@ -836,7 +836,7 @@ translate spanish b1c08cs07_sex_d62056b0:
 translate spanish b1c08cs07_sex_4253f1e0:
 
     # dk "No, not really. But {i}{b}I{/b}{/i} certainly could."
-    dk "No en realidad no. Pero {i}{b}yo{/b}{/i} ciertamente podría hacerlo."
+    dk "No en realidad no. Pero {i}{b}yo{/b}{/i} ciertamente podía hacerlo."
 
 # game/code/Book-1/Chapter-8c/s07.rpy:546
 translate spanish b1c08cs07_sex_7af8b2ea:
