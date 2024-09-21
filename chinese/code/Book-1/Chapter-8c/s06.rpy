@@ -1142,11 +1142,11 @@ translate chinese b1c08cs06_01c85351:
 translate chinese b1c08cs06_79b385e5:
 
     # "Lumi's still gently asleep."
-    "Lumi's still gently asleep."
+    "卢米还在轻柔地睡着。"
 
 # game/code/Book-1/Chapter-8c/s06.rpy:341
 translate chinese b1c08cs06_6105367c:
 
     # ys "Narurra."
-    ys "Narurra."
+    ys "纳鲁拉。"
 
