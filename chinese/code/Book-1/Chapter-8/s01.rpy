@@ -1404,59 +1404,59 @@ translate chinese strings:
 translate chinese b1c08s01_continue_8fbdda7e:
 
     # mc "I got some leads, but I haven't had the time to go deeper into them."
-    mc "I got some leads, but I haven't had the time to go deeper into them."
+    mc "我找到了一些线索，但还没来得及深入调查。"
 
 # game/code/Book-1/Chapter-8/s01.rpy:246
 translate chinese b1c08s01_end_15b093d8:
 
     # mc "Next time we need to at least double the amount of coffee we got."
-    mc "Next time we need to at least double the amount of coffee we got."
+    mc "下次我们至少需要喝两倍量的咖啡。"
 
 # game/code/Book-1/Chapter-8/s01.rpy:435
 translate chinese b1c08s01_recap_c06c_2d90b0b2:
 
     # "You begin your recap on The Self-Help Group, going over everything that you've witnessed in great detail."
-    "You begin your recap on The Self-Help Group, going over everything that you've witnessed in great detail."
+    "你开始回顾自助小组的经历，详细回顾你目睹的一切。"
 
 # game/code/Book-1/Chapter-8/s01.rpy:666
 translate chinese b1c08s01_recap_c07s_89a181b0:
 
     # mc "I had a bit of a scuffle at Rory's with someone named Cade. Someone from a rival gang called The Wasps."
-    mc "I had a bit of a scuffle at Rory's with someone named Cade. Someone from a rival gang called The Wasps."
+    mc "我在罗里的酒吧和一个叫凯德的人发生了一点冲突。他是敌对帮派黄蜂帮的人。"
 
 # game/code/Book-1/Chapter-8/s01.rpy:667
 translate chinese b1c08s01_recap_c07s_53eb8627:
 
     # pm "Are you okay?"
-    pm "Are you okay?"
+    pm "你还好吗？"
 
 # game/code/Book-1/Chapter-8/s01.rpy:668
 translate chinese b1c08s01_recap_c07s_d1fd0311:
 
     # mc "I'm fine. You should've seen the other guy. {w}Anyway. After Rory, I met up with Morgan."
-    mc "I'm fine. You should've seen the other guy. {w}Anyway. After Rory, I met up with Morgan."
+    mc "我没事。你真该看看另一个人的样子。{w}总之吧。在罗里之后，我遇到了摩根。"
 
 # game/code/Book-1/Chapter-8/s01.rpy:676
 translate chinese b1c08s01_recap_c07s_89a181b0_1:
 
     # mc "I had a bit of a scuffle at Rory's with someone named Cade. Someone from a rival gang called The Wasps."
-    mc "I had a bit of a scuffle at Rory's with someone named Cade. Someone from a rival gang called The Wasps."
+    mc "我在罗里的酒吧和一个叫凯德的人发生了一点冲突。他是敌对帮派黄蜂帮的人。"
 
 # game/code/Book-1/Chapter-8/s01.rpy:677
 translate chinese b1c08s01_recap_c07s_53eb8627_1:
 
     # pm "Are you okay?"
-    pm "Are you okay?"
+    pm "你还好吗？"
 
 # game/code/Book-1/Chapter-8/s01.rpy:678
 translate chinese b1c08s01_recap_c07s_083f51aa:
 
     # mc "I'm fine. You should've seen the other guy. {w}Anyway. After Rory, I met up with Corrine."
-    mc "I'm fine. You should've seen the other guy. {w}Anyway. After Rory, I met up with Corrine."
+    mc "我没事。你真该看看另一个人的样子。{w}总之吧。在罗里之后，我遇到了科琳。"
 
 # game/code/Book-1/Chapter-8/s01.rpy:688
 translate chinese b1c08s01_recap_c08s_745fd50b:
 
     # mc "After all that, Cade and some goons from The Wasps decided to kidnap some Syndicate members. That was my ticket in with them."
-    mc "After all that, Cade and some goons from The Wasps decided to kidnap some Syndicate members. That was my ticket in with them."
+    mc "经历了这一切后，凯德和黄蜂帮的一些打手决定绑架辛迪加的成员。这就是我加入辛迪加的原因。"
 
