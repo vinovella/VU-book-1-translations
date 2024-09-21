@@ -116,13 +116,13 @@ translate spanish b1c08cs01_1bec0b02:
 translate spanish b1c08cs01_c1f5716a:
 
     # mct "Now's a good time to make progress on Lumi and her tattoo, like Del said..."
-    mct "Ahora es un buen momento para avanzar en Lumi y su tatuaje, como dijo Del..."
+    mct "Ahora es un buen momento para avanzar con Lumi y su tatuaje, como dijo Del..."
 
 # game/code/Book-1/Chapter-8c/s01.rpy:94
 translate spanish b1c08cs01_70145e10:
 
     # mct "But I should start light. Lumi's so skittish, I don't want her to shut down."
-    mct "Pero debo empezar la luz. Lumi es tan asustadizo, no quiero que se bloquee."
+    mct "Pero debo empezar con cuidado. Lumi es tan asustadiza, no quiero que se bloquee."
 
 # game/code/Book-1/Chapter-8c/s01.rpy:101
 translate spanish b1c08cs01_7bace6b3:
@@ -152,7 +152,7 @@ translate spanish b1c08cs01_b8df62f7:
 translate spanish b1c08cs01_56727171:
 
     # mc "I guess I'm not sure what to expect. But I'm very open to whatever's planned. The experience itself with all of you will be fun."
-    mc "Supongo que no estoy seguro de qué esperar. Pero estoy muy abierto a lo que esté planeado. La experiencia en sí con todos ustedes será divertida."
+    mc "Supongo que no estoy seguro de qué esperar. Pero estoy muy abierto a lo que esté planeado. La experiencia en sí con todas ustedes será divertida."
 
 # game/code/Book-1/Chapter-8c/s01.rpy:116
 translate spanish b1c08cs01_01bf2e73:
@@ -230,13 +230,13 @@ translate spanish b1c08cs01_c5619050:
 translate spanish b1c08cs01_cfa6c47b:
 
     # "Nia pauses, Maria's name caught between her lips."
-    "Nia hace una pausa, el nombre de María atrapado entre sus labios."
+    "Nia hace una pausa, con el nombre de María entre los labios."
 
 # game/code/Book-1/Chapter-8c/s01.rpy:153
 translate spanish b1c08cs01_dd321216:
 
     # mct "She must've last been here with Maria."
-    mct "Ella debe haber estado aquí por última vez con María."
+    mct "Ella debe haber estado aquí la última vez con María."
 
 # game/code/Book-1/Chapter-8c/s01.rpy:156
 translate spanish b1c08cs01_60daab73:
@@ -308,7 +308,7 @@ translate spanish b1c08cs01_c08d813d:
 translate spanish b1c08cs01_7ba68d3b:
 
     # mc "Because you do. We all do."
-    mc "Porque lo haces. Todos lo hacemos."
+    mc "Porque sí lo haces. Todos lo hacemos."
 
 # game/code/Book-1/Chapter-8c/s01.rpy:186
 translate spanish b1c08cs01_3bceb13d:
@@ -416,7 +416,7 @@ translate spanish b1c08cs01_0915db4d:
 translate spanish b1c08cs01_02e1d64f:
 
     # mc "It's important to be sure about what you want."
-    mc "Es importante estar seguro de lo que quieres."
+    mc "Es importante estar segura de lo que quieres."
 
 # game/code/Book-1/Chapter-8c/s01.rpy:232
 translate spanish b1c08cs01_47052bb5:
@@ -542,7 +542,7 @@ translate spanish b1c08cs01_df61724e:
 translate spanish b1c08cs01_c4dfeca6:
 
     # ef "C'mon! I wanna hear."
-    ef "¡Vamos! Quiero oir."
+    ef "¡Vamos! Quiero escucharlo."
 
 # game/code/Book-1/Chapter-8c/s01.rpy:288
 translate spanish b1c08cs01_3671357f:
@@ -608,7 +608,7 @@ translate spanish b1c08cs01_b414ae06:
 translate spanish b1c08cs01_fa8d9380:
 
     # ij "For the scry session? I ended it there. I felt too unstable to continue the practice. But—Well, I shouldn't say."
-    ij "¿Para la sesión de adivinación? Lo terminé ahí. Me sentí demasiado inestable para continuar la práctica. Pero... Bueno, no debería decirlo."
+    ij "¿Para la sesión de adivinación? La terminé ahí. Me sentí demasiado inestable para continuar la práctica. Pero... Bueno, no debería decirlo."
 
 # game/code/Book-1/Chapter-8c/s01.rpy:328
 translate spanish b1c08cs01_537eac78:
@@ -704,7 +704,7 @@ translate spanish b1c08cs01_a794abe1:
 translate spanish b1c08cs01_40746f3b:
 
     # ef "I'll go talk to Nia. Make sure she's okay."
-    ef "Iré a hablar con Nia. Asegúrate de que esté bien."
+    ef "Iré a hablar con Nia. Me aseguraré de que esté bien."
 
 # game/code/Book-1/Chapter-8c/s01.rpy:368
 translate spanish b1c08cs01_9802febb:
@@ -740,7 +740,7 @@ translate spanish b1c08cs01_ed1722c7:
 translate spanish b1c08cs01_ff0f44ba:
 
     # mct "I wonder if Irene saw or heard something that led her to think that phrase had any connection to the missing girls."
-    mct "Me pregunto si Irene vio u escuchó algo que la llevó a pensar que esa frase tenía alguna conexión con las chicas desaparecidas."
+    mct "Me pregunto si Irene vio o escuchó algo que la llevó a pensar que esa frase tenía alguna conexión con las chicas desaparecidas."
 
 # game/code/Book-1/Chapter-8c/s01.rpy:382
 translate spanish b1c08cs01_e2153659:
@@ -764,7 +764,7 @@ translate spanish b1c08cs01_4b77f10b:
 translate spanish b1c08cs01_768306da:
 
     # ad "And you, I suppose."
-    ad "Y tú, supongo."
+    ad "Y a ti, supongo."
 
 # game/code/Book-1/Chapter-8c/s01.rpy:394
 translate spanish b1c08cs01_f08f1067:
@@ -830,7 +830,7 @@ translate spanish b1c08cs01_d037d43d:
 translate spanish b1c08cs01_5d8e445d:
 
     # dk "Well...[mcname] may or may not have been the one fucking me in the rooftop garden."
-    dk "Bueno...[mcname] Puede que haya sido o no quien me jodió en el jardín de la azotea."
+    dk "Bueno...[mcname] puede que haya sido o no quien me folló en el jardín de la azotea."
 
 # game/code/Book-1/Chapter-8c/s01.rpy:424
 translate spanish b1c08cs01_065273f9:
