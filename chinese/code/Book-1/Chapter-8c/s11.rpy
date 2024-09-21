@@ -644,11 +644,11 @@ translate chinese b1c08cs11_33a818c3:
 translate chinese b1c08cs11_0f63ae30:
 
     # "Ivy clings to you, and nuzzles into your shoulder. Her shallow breaths warm your skin."
-    "Ivy clings to you, and nuzzles into your shoulder. Her shallow breaths warm your skin."
+    "艾薇紧紧依偎着你，把头埋在你的肩膀上。她浅浅的呼吸温暖着你的肌肤。"
 
 # game/code/Book-1/Chapter-8c/s11.rpy:321
 translate chinese b1c08cs11_418e2ba3:
 
     # "The layered sensation of her warm body pressed against you, milking you so thoroughly—You can't hold back anymore."
-    "The layered sensation of her warm body pressed against you, milking you so thoroughly—You can't hold back anymore."
+    "她温暖的身体紧贴着你，给你带来层层叠叠的快感--你再也忍不住了。"
 
