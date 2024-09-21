@@ -32,7 +32,7 @@ translate spanish b1c07ws08_19f43256:
 translate spanish b1c07ws08_b4041b27:
 
     # mct "A serial alcoholic in making."
-    mct "Un alcohólico en serie en ciernes."
+    mct "Una alcohólica en serie en ciernes."
 
 # game/code/Book-1/Chapter-7w/s08.rpy:57
 translate spanish b1c07ws08_b49098b0:
@@ -92,13 +92,13 @@ translate spanish b1c07ws08_5bc5b83d:
 translate spanish b1c07ws08_2e10d10b:
 
     # "Even half drunk and desperately trying to snuff out her emotions, she still carries herself with a self-confident poise."
-    "Incluso medio borracha y tratando desesperadamente de sofocar sus emociones, todavía se comporta con un aplomo seguro de sí mismo."
+    "Incluso medio borracha y tratando desesperadamente de sofocar sus emociones, todavía se comporta con un aplomo segura de sí misma."
 
 # game/code/Book-1/Chapter-7w/s08.rpy:90
 translate spanish b1c07ws08_c0d3d8d4:
 
     # ima "If he couldn't get me to open up, you're not gonna be any better, Darling."
-    ima "Si no pudo lograr que me abriera, no vas a ser mejor, cariño."
+    ima "Si él no pudo conseguir que me abriera, tú no vas a ser mejor, cariño."
 
 # game/code/Book-1/Chapter-7w/s08.rpy:93
 translate spanish b1c07ws08_a51a1e0b:
@@ -152,7 +152,7 @@ translate spanish b1c07ws08_f1b50439:
 translate spanish b1c07ws08_1ff071ae:
 
     # "She replies casually, automatically, as if her thoughts aren't even here."
-    "Ella responde casualmente, automáticamente, como si sus pensamientos ni siquiera estuvieran aquí."
+    "Ella responde de manera casual y automática, como si sus pensamientos no estuvieran aquí."
 
 # game/code/Book-1/Chapter-7w/s08.rpy:125
 translate spanish b1c07ws08_555eebc3:
@@ -242,25 +242,25 @@ translate spanish b1c07ws08_dd6cea61:
 translate spanish b1c07ws08_c78e5594:
 
     # ima "Oh my God! Are you hard, right now?"
-    ima "¡Ay dios mío! ¿Estás duro, ahora mismo?"
+    ima "¡Ay dios mío! ¿Estás duro, justo ahora?"
 
 # game/code/Book-1/Chapter-7w/s08.rpy:186
 translate spanish b1c07ws08_5679ef56:
 
     # "For a second, you fear that you fucked up, but her voice sounds more amused with a hint of flattery over any type of anger."
-    "Por un segundo, temes que la cagaste, pero su voz suena más divertida con un dejo de adulación sobre cualquier tipo de enfado."
+    "Por un segundo, temes haber cometido un error, pero su voz suena más divertida, con una pizca de halago por encima de cualquier tipo de enojo."
 
 # game/code/Book-1/Chapter-7w/s08.rpy:192
 translate spanish b1c07ws08_4fa2d76f:
 
     # mc "And what if I am?"
-    mc "¿Y si lo soy?"
+    mc "¿Y qué pasa si lo estoy?"
 
 # game/code/Book-1/Chapter-7w/s08.rpy:193
 translate spanish b1c07ws08_2bfcc252:
 
     # mc "I'm here swimming naked with a badass and drop-dead gorgeous woman. Wouldn't it be a little odd if I {i}wasn't{/i} turned on?"
-    mc "Estoy aquí nadando desnudo con una mujer guapísima y guapísima. ¿No sería un poco extraño si {i}no estuviera{/i} encendido?"
+    mc "Estoy aquí nadando desnudo con una mujer increíblemente hermosa. ¿No sería {i}un poco raro{/i} que no me excitara?"
 
 # game/code/Book-1/Chapter-7w/s08.rpy:195
 translate spanish b1c07ws08_a035a2dc:
@@ -272,19 +272,19 @@ translate spanish b1c07ws08_a035a2dc:
 translate spanish b1c07ws08_cef8252c:
 
     # ima "I was going to say sorry for getting you like that, but if you're going to rizz me up so blatantly, you get nothing."
-    ima "Iba a decir que lo siento por ponerte así, pero si me vas a joder tan descaradamente, no obtienes nada."
+    ima "Iba a pedirte perdón por ponerte así, pero si me vas a vacilar tan descaradamente, no vas a conseguir nada."
 
 # game/code/Book-1/Chapter-7w/s08.rpy:201
 translate spanish b1c07ws08_ae1eac84:
 
     # mc "Fair enough. But don't think I don't see you rubbing your legs together. {i}If you really need some release so bad, just say the word.{/i}"
-    mc "Me parece bien. Pero no creas que no te veo frotándote las piernas. {i}Si realmente necesitas un poco de liberación, solo dilo.{/i}"
+    mc "Me parece bien. Pero no creas que no te veo frotándote las piernas. {i}Si realmente necesitas un poco de liberación, sólo dilo.{/i}"
 
 # game/code/Book-1/Chapter-7w/s08.rpy:204
 translate spanish b1c07ws08_e7ff7acb:
 
     # ima "You little—!"
-    ima "Tu pequeño-!"
+    ima "¡Tu pequeño...!"
 
 # game/code/Book-1/Chapter-7w/s08.rpy:210
 translate spanish b1c07ws08_fbe2b6a6:
@@ -296,7 +296,7 @@ translate spanish b1c07ws08_fbe2b6a6:
 translate spanish b1c07ws08_acb0a4a4:
 
     # ima "Oh, uh-huh. {i}Of course.{/i} Not the male manipulator."
-    ima "Oh, ajá. {i} Por supuesto. {/i} No el manipulador masculino."
+    ima "Oh, ajá. {i}Por supuesto.{/i} No el manipulador masculino."
 
 # game/code/Book-1/Chapter-7w/s08.rpy:217
 translate spanish b1c07ws08_449edecb:
@@ -308,7 +308,7 @@ translate spanish b1c07ws08_449edecb:
 translate spanish b1c07ws08_14bad149:
 
     # ima "About what?"
-    ima "¿Acerca de?"
+    ima "¿Sobre qué?"
 
 # game/code/Book-1/Chapter-7w/s08.rpy:223
 translate spanish b1c07ws08_1749dd42:
@@ -332,7 +332,7 @@ translate spanish b1c07ws08_d73d41f3:
 translate spanish b1c07ws08_719243fa:
 
     # ima "If this is all a tactic to get into my panties, trust me, there are easier ways."
-    ima "Si todo esto es una táctica para entrar en mis bragas, créeme, hay formas más fáciles."
+    ima "Si todo esto es una táctica para entrar en mis calzones, créeme, hay formas más fáciles."
 
 # game/code/Book-1/Chapter-7w/s08.rpy:233
 translate spanish b1c07ws08_72c6bc64:
@@ -356,7 +356,7 @@ translate spanish b1c07ws08_89370c00:
 translate spanish b1c07ws08_9ace2be0:
 
     # ima "Back there... Outside the gate. That was my ex."
-    ima "Allá atrás... Fuera de la puerta. ese era mi ex"
+    ima "Allá atrás... Fuera de la puerta. Esa era mi ex"
 
 # game/code/Book-1/Chapter-7w/s08.rpy:245
 translate spanish b1c07ws08_3e3e8091:
@@ -374,13 +374,13 @@ translate spanish b1c07ws08_4fb3b1f1:
 translate spanish b1c07ws08_85fd2cad:
 
     # mc "Is she trying to convince you to get back together?"
-    mc "¿Está tratando de convencerte de que vuelvan a estar juntos?"
+    mc "¿Está tratando de convencerte de que vuelvan a estar juntas?"
 
 # game/code/Book-1/Chapter-7w/s08.rpy:254
 translate spanish b1c07ws08_835e064b:
 
     # ima "In a way."
-    ima "En cierto sentido."
+    ima "En cierto modo."
 
 # game/code/Book-1/Chapter-7w/s08.rpy:257
 translate spanish b1c07ws08_0fd608bc:
@@ -392,7 +392,7 @@ translate spanish b1c07ws08_0fd608bc:
 translate spanish b1c07ws08_bccb2f31:
 
     # ima "She wants me to help her blow up The Winner's Club."
-    ima "Quiere que la ayude a volar The Winner's Club."
+    ima "Quiere que la ayude a hacer explotar El Club de los Ganadores."
 
 # game/code/Book-1/Chapter-7w/s08.rpy:261
 translate spanish b1c07ws08_546ebcfd:
@@ -422,7 +422,7 @@ translate spanish b1c07ws08_b20323c5:
 translate spanish b1c07ws08_db0174a5:
 
     # ima "I genuinely think she would blow it up with actual explosives if she had the resources."
-    ima "Realmente creo que lo haría estallar con explosivos reales si tuviera los recursos."
+    ima "Creo sinceramente que lo haría explotar con explosivos de verdad si tuviera los recursos."
 
 # game/code/Book-1/Chapter-7w/s08.rpy:273
 translate spanish b1c07ws08_457b7c5d:
@@ -434,13 +434,13 @@ translate spanish b1c07ws08_457b7c5d:
 translate spanish b1c07ws08_14970495:
 
     # ima "*Chuckles* Not since she got kicked from the Winner's and had to make it on her own instead of mooching off of me."
-    ima "*Ríe* No desde que la echaron del Winner's y tuvo que arreglárselas sola en lugar de irse de mí."
+    ima "*Ríe*  No desde que la echaron de los Ganadores y tuvo que arreglárselas sola en vez de pedirme ayuda a mí."
 
 # game/code/Book-1/Chapter-7w/s08.rpy:279
 translate spanish b1c07ws08_e5ce1e4f:
 
     # mc "Is that why she wants to...\"blow up\" the club?"
-    mc "¿Es por eso que quiere... \"volar\" el club?"
+    mc "¿Es por eso que quiere... \"explotar\" el club?"
 
 # game/code/Book-1/Chapter-7w/s08.rpy:282
 translate spanish b1c07ws08_e43772b1:
@@ -464,19 +464,19 @@ translate spanish b1c07ws08_26905dcf:
 translate spanish b1c07ws08_3131e216:
 
     # ima "And I'm not the type to {i}think{/i} myself out of a good situation. That was always more her forte."
-    ima "Y no soy del tipo que {i}piensa{/i} que estoy fuera de una buena situación. Ese siempre fue más su fuerte."
+    ima "Y no soy de las que {i}piensan{/i} en salir de una buena situación. Eso siempre fue más su fortaleza."
 
 # game/code/Book-1/Chapter-7w/s08.rpy:292
 translate spanish b1c07ws08_e9bf363f:
 
     # mc "Okay, but why did she get kicked from the club? What did she do?"
-    mc "Está bien, pero ¿por qué la echaron del club? ¿Que hizo ella?"
+    mc "Está bien, pero ¿por qué la echaron del club? ¿Qué hizo ella?"
 
 # game/code/Book-1/Chapter-7w/s08.rpy:295
 translate spanish b1c07ws08_a57f953a:
 
     # ima "I was throwing an important party. And she decided to crash it and accuse me of \"stealing her valor\". Whatever the fuck that means."
-    ima "Estaba organizando una fiesta importante. Y decidió romperlo y acusarme de \"robar su valor\". Lo que sea que eso signifique."
+    ima "Estaba organizando una fiesta importante. Y decidió colarse y acusarme de \"robar su valor\". Lo que sea que eso signifique."
 
 # game/code/Book-1/Chapter-7w/s08.rpy:297
 translate spanish b1c07ws08_8a07b618:
@@ -512,7 +512,7 @@ translate spanish b1c07ws08_e3f6525a:
 translate spanish b1c07ws08_6ba051cc:
 
     # ima "I guess I was the fool on that one. There's always a give and take. No one gets anything for free."
-    ima "Supongo que fui el tonto en eso. Siempre hay un toma y daca. Nadie recibe nada gratis."
+    ima "Supongo que fui la tonta en eso. Siempre hay un toma y daca. Nadie recibe nada gratis."
 
 # game/code/Book-1/Chapter-7w/s08.rpy:308
 translate spanish b1c07ws08_59d3ff99:
@@ -530,25 +530,25 @@ translate spanish b1c07ws08_0959c8f0:
 translate spanish b1c07ws08_b0b6c8d3:
 
     # ima "With the missing girls scandal and then the crashed party, the club members didn't need much more convincing to get rid of her. I didn't wanna be anywhere near her."
-    ima "Con el escándalo de las chicas desaparecidas y luego la fiesta colapsada, los miembros del club no necesitaron mucho más para convencerlos de deshacerse de ella. No quería estar cerca de ella."
+    ima "Con el escándalo de las chicas desaparecidas y luego la fiesta arruinada, los miembros del club no necesitaron mucho más para convencerse de que debían deshacerse de ella. No quería estar cerca de ella."
 
 # game/code/Book-1/Chapter-7w/s08.rpy:313
 translate spanish b1c07ws08_833ff455:
 
     # ima "And now she's crawling back to me begging that I take her back."
-    ima "Y ahora ella está arrastrándose hacia mí rogándome que la lleve de vuelta."
+    ima "Y ahora se arrastra hacia mí rogándome que la acepte de nuevo."
 
 # game/code/Book-1/Chapter-7w/s08.rpy:317
 translate spanish b1c07ws08_1de7a568:
 
     # mc "Will you?"
-    mc "¿Quieres?"
+    mc "¿Y tú quieres?"
 
 # game/code/Book-1/Chapter-7w/s08.rpy:320
 translate spanish b1c07ws08_56f68de4:
 
     # ima "I hate that I love pathetic, groveling women."
-    ima "Odio amar a las mujeres patéticas y serviles."
+    ima "Odio amar a las mujeres patéticas y rastreras."
 
 # game/code/Book-1/Chapter-7w/s08.rpy:321
 translate spanish b1c07ws08_7eea58bc:
@@ -578,7 +578,7 @@ translate spanish b1c07ws08_b4d0a39c:
 translate spanish b1c07ws08_9dd70e70:
 
     # ima "That's sweet, but no. I got it handled."
-    ima "Eso es dulce, pero no. Lo tengo manejado."
+    ima "Eso es dulce, pero no. Lo tengo controlado."
 
 # game/code/Book-1/Chapter-7w/s08.rpy:332
 translate spanish b1c07ws08_12ee94a3:
@@ -590,13 +590,13 @@ translate spanish b1c07ws08_12ee94a3:
 translate spanish b1c07ws08_25171259:
 
     # mc "Of course. If your ex decides to give you trouble again, feel free to call. I'll be there."
-    mc "Por supuesto. Si tu ex decide volver a causarte problemas, no dudes en llamar. Voy a estar allí."
+    mc "Por supuesto. Si tu ex decide darte problemas otra vez, no dudes en llamar. Allí estaré."
 
 # game/code/Book-1/Chapter-7w/s08.rpy:338
 translate spanish b1c07ws08_6ed97b0d:
 
     # ima "*Softly chuckles* Thank you."
-    ima "*Suavemente se ríe* Gracias."
+    ima "*Se ríe suavemente* Gracias."
 
 # game/code/Book-1/Chapter-7w/s08.rpy:183
 translate spanish b1c07ws08_38ca3ef1:
