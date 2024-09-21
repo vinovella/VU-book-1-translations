@@ -50,7 +50,7 @@ translate spanish b1c08cs06_a740fa18:
 translate spanish b1c08cs06_8056a203:
 
     # mc "*Chuckles* For me, it's because my stomach's empty."
-    mc "*Risas* Para mí, es porque mi estómago está vacío."
+    mc "*Risas* Para mí, es porque el estómago está vacío."
 
 # game/code/Book-1/Chapter-8c/s06.rpy:52
 translate spanish b1c08cs06_7d885f8e:
@@ -110,7 +110,7 @@ translate spanish b1c08cs06_7df68cf5:
 translate spanish b1c08cs06_aa5cd845:
 
     # nv "But I promise everyone here has the best of intentions."
-    nv "Pero prometo que todos aquí tienen las mejores intenciones."
+    nv "Pero te prometo que aquí todo el mundo tiene las mejores intenciones."
 
 # game/code/Book-1/Chapter-8c/s06.rpy:84
 translate spanish b1c08cs06_e348d186:
@@ -176,7 +176,7 @@ translate spanish b1c08cs06_836a691f:
 translate spanish b1c08cs06_19fa4c0b:
 
     # mc "I just mean that it seems like a lot to expect."
-    mc "Sólo quiero decir que parece mucho esperar."
+    mc "Sólo quiero decir que me parece esperar demasiado."
 
 # game/code/Book-1/Chapter-8c/s06.rpy:109
 translate spanish b1c08cs06_228fde19:
@@ -194,7 +194,7 @@ translate spanish b1c08cs06_c9da794d:
 translate spanish b1c08cs06_420a508a:
 
     # mc "Is that what you'd call last night? Pushing Lumi to go at her own pace?"
-    mc "¿Es así como llamarías anoche? ¿Empujar a Lumi a ir a su propio ritmo?"
+    mc "¿Es así como llamarías a lo de anoche? ¿Empujando a Lumi a ir a su propio ritmo?"
 
 # game/code/Book-1/Chapter-8c/s06.rpy:116
 translate spanish b1c08cs06_a79307df:
@@ -206,7 +206,7 @@ translate spanish b1c08cs06_a79307df:
 translate spanish b1c08cs06_920ac03d:
 
     # nv "And if anyone—including Lumi—truly said no, Andre and Ivy would listen. I truly believe that."
-    nv "Y si alguien -incluida Lumi- dijera realmente que no, Andre e Ivy le escucharían. Realmente lo creo."
+    nv "Y si alguien -incluida Lumi- dijera de verdad que no, André e Ivy le escucharían. Realmente lo creo."
 
 # game/code/Book-1/Chapter-8c/s06.rpy:118
 translate spanish b1c08cs06_5ea7d46e:
@@ -254,7 +254,7 @@ translate spanish b1c08cs06_f10e5a34:
 translate spanish b1c08cs06_82a7d135:
 
     # mct "I wish I knew how to protect these girls that this group has ensnared."
-    mct "Ojalá supiera cómo proteger a estas chicas que este grupo ha atrapado."
+    mct "Ojalá supiera cómo proteger a las chicas que este grupo ha atrapado."
 
 # game/code/Book-1/Chapter-8c/s06.rpy:137
 translate spanish b1c08cs06_11ac098d:
@@ -296,13 +296,13 @@ translate spanish b1c08cs06_c6bb78a3:
 translate spanish b1c08cs06_5b7c618d:
 
     # ih "Mhm. Morning, Nia."
-    ih "Mmmm. Buenos días, Nía."
+    ih "Mmmm. Buenos días, Nia."
 
 # game/code/Book-1/Chapter-8c/s06.rpy:156
 translate spanish b1c08cs06_d6e66e81:
 
     # mct "Jeez, that was a rather icy greeting. Nia hasn't done anything..."
-    mct "Dios, ese fue un saludo bastante gélido. Nia no ha hecho nada..."
+    mct "Dios, ese fue un saludo bastante frío. Nia no ha hecho nada..."
 
 # game/code/Book-1/Chapter-8c/s06.rpy:159
 translate spanish b1c08cs06_512d5762:
@@ -350,7 +350,7 @@ translate spanish b1c08cs06_198dd40d:
 translate spanish b1c08cs06_91421ee0:
 
     # nv "Me too! What did you think of last night?"
-    nv "¡Yo también! ¿Qué pensaste anoche?"
+    nv "¡Yo también! ¿Qué te pareció anoche?"
 
 # game/code/Book-1/Chapter-8c/s06.rpy:184
 translate spanish b1c08cs06_c974dda1:
@@ -392,7 +392,7 @@ translate spanish b1c08cs06_0f747084:
 translate spanish b1c08cs06_64a527a3:
 
     # mct "Why is she so attentive to me, but no one else? It seems like she even shuns Andre, though I don't understand why."
-    mct "¿Por qué ella está tan atenta conmigo y con nadie más? Parece que incluso evita a Andre, aunque no entiendo por qué."
+    mct "¿Por qué está tan atenta conmigo, pero con nadie más? Parece que incluso rehúye de André, aunque no entiendo por qué."
 
 # game/code/Book-1/Chapter-8c/s06.rpy:203
 translate spanish b1c08cs06_a64a9299:
@@ -488,13 +488,13 @@ translate spanish b1c08cs06_8bffd543:
 translate spanish b1c08cs06_f0a16c35:
 
     # ys "It is, but still. Once my precious baby is born, I'd like to resume my fire watch job again."
-    ys "Lo es, pero aún así. Una vez que nazca mi precioso bebé, me gustaría retomar mi trabajo de vigilancia contra incendios nuevamente."
+    ys "Así es, pero aún así. Una vez que nazca mi precioso bebé, me gustaría retomar de nuevo mi trabajo de vigilante de incendios."
 
 # game/code/Book-1/Chapter-8c/s06.rpy:239
 translate spanish b1c08cs06_9ceb32f2:
 
     # ys "And having an assistant to train on firewatch, and help me care for my baby would be very nice."
-    ys "Y sería muy agradable tener un asistente que me capacitara en vigilancia contra incendios y me ayudara a cuidar a mi bebé."
+    ys "Y tener un ayudante al que entrenar en la vigilancia de incendios y que me ayude a cuidar de mi bebé estaría muy bien."
 
 # game/code/Book-1/Chapter-8c/s06.rpy:242
 translate spanish b1c08cs06_84059336:
@@ -536,7 +536,7 @@ translate spanish b1c08cs06_23262cad:
 translate spanish b1c08cs06_00edbe18:
 
     # nv "What kind of training is required to be on fire watch, Yvonne?"
-    nv "¿Qué tipo de formación se requiere para estar en la guardia de incendios, Yvonne?"
+    nv "¿Qué tipo de formación se requiere para ser vigilante de incendios, Yvonne?"
 
 # game/code/Book-1/Chapter-8c/s06.rpy:264
 translate spanish b1c08cs06_254871fa:
@@ -566,7 +566,7 @@ translate spanish b1c08cs06_69057889:
 translate spanish b1c08cs06_6878f959:
 
     # ys "Oh! Don't be such a killjoy, Ivy. Nia asked."
-    ys "¡Oh! No seas aguafiestas, Ivy. -Preguntó Nía."
+    ys "¡Oh! No seas aguafiestas, Ivy. Nia preguntó."
 
 # game/code/Book-1/Chapter-8c/s06.rpy:275
 translate spanish b1c08cs06_c14d4e45:
@@ -788,7 +788,7 @@ translate spanish b1c08cs06_69e935a1:
 translate spanish b1c08cs06_11cb4140:
 
     # "You release into Ivy's hand, gripping your thighs hard to keep your cool."
-    "Te sueltas en la mano de Ivy, agarrando tus muslos con fuerza para mantener la calma."
+    "Te liberas en la mano de Ivy, agarrándote con fuerza los muslos para mantener la calma."
 
 # game/code/Book-1/Chapter-8c/s06.rpy:416
 translate spanish b1c08cs06_c3753e44:
@@ -830,7 +830,7 @@ translate spanish b1c08cs06_90a5c27b:
 translate spanish b1c08cs06_f578755b:
 
     # "A flirty, secretive smirk tugs at her mouth as she finishes swallowing your cum."
-    "Una sonrisa coqueta y secreta tira de su boca mientras termina de tragar tu semen."
+    "Una sonrisa coqueta y reservada se dibuja en su boca mientras termina de tragar tu semen."
 
 # game/code/Book-1/Chapter-8c/s06.rpy:447
 translate spanish b1c08cs06_6d4aa622:
@@ -878,7 +878,7 @@ translate spanish b1c08cs06_19fd6c64:
 translate spanish b1c08cs06_7f068ed4:
 
     # nv "I think it's almost sacred. Such an act of love feels so beautiful and healing."
-    nv "Creo que es casi sagrado. Un acto así de amor se siente tan hermoso y sanador."
+    nv "Creo que es casi sagrado. Un acto de amor como ese es tan hermoso y sanador."
 
 # game/code/Book-1/Chapter-8c/s06.rpy:478
 translate spanish b1c08cs06_de16ea7e:
@@ -902,7 +902,7 @@ translate spanish b1c08cs06_86a001be:
 translate spanish b1c08cs06_4af123ca:
 
     # ys "That's why whenever I see ravens or crows, I think of her."
-    ys "Por eso siempre que veo cuervos o grajos pienso en ella."
+    ys "Por eso, cada vez que veo cuervos o pajarillos, pienso en ella."
 
 # game/code/Book-1/Chapter-8c/s06.rpy:485
 translate spanish b1c08cs06_e63fc640:
@@ -914,7 +914,7 @@ translate spanish b1c08cs06_e63fc640:
 translate spanish b1c08cs06_bec22210:
 
     # ys "And then sacrificed her under a full moon."
-    ys "Y luego la sacrificó bajo la luna llena."
+    ys "Y luego la sacrificaban bajo la luna llena."
 
 # game/code/Book-1/Chapter-8c/s06.rpy:489
 translate spanish b1c08cs06_b07dfbc4:
@@ -968,7 +968,7 @@ translate spanish b1c08cs06_769e4aef:
 translate spanish b1c08cs06_e0c008e2:
 
     # ys "The maiden would be bred in hopes of baring the next child of Narurra."
-    ys "La doncella sería criada con la esperanza de dar a luz al próximo hijo de Narurra."
+    ys "La doncella sería embarazada con la esperanza de dar a luz al próximo hijo de Narurra."
 
 # game/code/Book-1/Chapter-8c/s06.rpy:512
 translate spanish b1c08cs06_c5c4b0cd:
@@ -1016,7 +1016,7 @@ translate spanish b1c08cs06_eab6be43:
 translate spanish b1c08cs06_0b388f72:
 
     # ys "That's true. There are a few variations of the story. But the one I told is my favorite."
-    ys "Eso es cierto. Hay algunas variaciones de la historia. Pero el que dije es mi favorito."
+    ys "Es cierto. Hay algunas variaciones de la historia. Pero la que conté es mi favorita."
 
 # game/code/Book-1/Chapter-8c/s06.rpy:532
 translate spanish b1c08cs06_8f4b2300:
@@ -1052,7 +1052,7 @@ translate spanish b1c08cs06_ad60e224:
 translate spanish b1c08cs06_9024f57b:
 
     # dk "I've been looking all over for you. Breakfast is ready! Come eat."
-    dk "Te he estado buscando por todas partes. ¡El desayuno esta listo! Ven a comer."
+    dk "Los he estado buscando por todas partes. ¡El desayuno está listo! Vamos a comer."
 
 # game/code/Book-1/Chapter-8c/s06.rpy:550
 translate spanish b1c08cs06_a6778112:
@@ -1112,7 +1112,7 @@ translate spanish b1c08cs06_abe5ce97:
 translate spanish b1c08cs06_1eb5fd8d:
 
     # mc "C'mon, Nia. Let's go."
-    mc "Vamos, Nía. Vamos."
+    mc "Vamos, Nia. Vamos."
 
 # game/code/Book-1/Chapter-8c/s06.rpy:579
 translate spanish b1c08cs06_c1352376:
@@ -1136,7 +1136,7 @@ translate spanish b1c08cs06_c014c647:
 translate spanish b1c08cs06_01c85351:
 
     # ih "You all go without me. I already had breakfast..."
-    ih "Todos ustedes se van sin mí. Ya desayuné..."
+    ih "Vayan todos sin mí. Ya he desayunado..."
 
 # game/code/Book-1/Chapter-8c/s06.rpy:23
 translate spanish b1c08cs06_79b385e5:
