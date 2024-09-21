@@ -32,7 +32,7 @@ translate spanish b1c07ws09_f0ce44f5:
 translate spanish b1c07ws09_59d3d169:
 
     # sdl "*Coughs* Right."
-    sdl "*Tose* Cierto."
+    sdl "*Tose* Verdad."
 
 # game/code/Book-1/Chapter-7w/s09.rpy:70
 translate spanish b1c07ws09_9b37cbf1:
@@ -44,7 +44,7 @@ translate spanish b1c07ws09_9b37cbf1:
 translate spanish b1c07ws09_4755cab6:
 
     # sdl "Make yourself comfortable."
-    sdl "Póngase cómodo."
+    sdl "Ponte cómodo."
 
 # game/code/Book-1/Chapter-7w/s09.rpy:76
 translate spanish b1c07ws09_9a56e862:
@@ -122,7 +122,7 @@ translate spanish b1c07ws09_bj_e42537c8:
 translate spanish b1c07ws09_bj_3da1faa2:
 
     # sdl "Doesn't answer my question."
-    sdl "No responde mi pregunta."
+    sdl "No responde a mi pregunta."
 
 # game/code/Book-1/Chapter-7w/s09.rpy:117
 translate spanish b1c07ws09_bj_f3757b53:
@@ -134,7 +134,7 @@ translate spanish b1c07ws09_bj_f3757b53:
 translate spanish b1c07ws09_bj_8ed63a9e:
 
     # mc "Don't tell me that you can only dish it out, Sweetheart."
-    mc "No me digas que sólo puedes repartirlo, cariño."
+    mc "No me digas que sólo puedes repartir, cariño."
 
 # game/code/Book-1/Chapter-7w/s09.rpy:123
 translate spanish b1c07ws09_bj_61e4ac18:
@@ -146,7 +146,7 @@ translate spanish b1c07ws09_bj_61e4ac18:
 translate spanish b1c07ws09_bj_f0eb21cb:
 
     # sdl "I simply wanted to give you a...treat. For a job well done. The treat I couldn't give earlier."
-    sdl "Simplemente quería darte un... regalo. Por un trabajo bien hecho. El regalo que no pude dar antes."
+    sdl "Simplemente quería darte un... regalo. Por un trabajo bien hecho. El regalo que no pude darte antes."
 
 # game/code/Book-1/Chapter-7w/s09.rpy:128
 translate spanish b1c07ws09_bj_63e83913:
@@ -260,7 +260,7 @@ translate spanish b1c07ws09_bj_32ac6c5a:
 translate spanish b1c07ws09_bj_c0ebe25d:
 
     # mc "Uh, sure? If you want to."
-    mc "¿Seguro? Si quieres."
+    mc "Uh, ¿seguro? Si quieres."
 
 # game/code/Book-1/Chapter-7w/s09.rpy:187
 translate spanish b1c07ws09_bj_4c8acffd:
@@ -458,7 +458,7 @@ translate spanish b1c07ws09_bj_7a3b90a3:
 translate spanish b1c07ws09_bj_874cc50d:
 
     # "Sam moans louder and louder, her throat gulping your cock hungrily."
-    "Sam gime más y más fuerte, su garganta tragando tu polla con avidez."
+    "Sam gime cada vez más fuerte, su garganta engulle tu polla con avidez."
 
 # game/code/Book-1/Chapter-7w/s09.rpy:312
 translate spanish b1c07ws09_bj_95672ec5:
@@ -494,13 +494,13 @@ translate spanish b1c07ws09_bj_4449fd5f:
 translate spanish b1c07ws09_bj_7decb5fd:
 
     # sdl "*Shivers* Ugh, I never expected it to taste like that..."
-    sdl "*Escalofríos* Ugh, nunca esperé que supiera así..."
+    sdl "*Escalofríos* Ugh, nunca esperé que tuviera ese sabor..."
 
 # game/code/Book-1/Chapter-7w/s09.rpy:337
 translate spanish b1c07ws09_bj_1a05e457:
 
     # mct "\"Never expected\"? Has she never given a blowjob before? ...I guess that explains some things."
-    mct "\"¿Nunca te lo esperabas\"? ¿Ella nunca ha hecho una mamada antes? ... Supongo que eso explica algunas cosas."
+    mct "¿\"Nunca te lo esperabas\"? ¿Ella nunca ha hecho una mamada antes? ... Supongo que eso explica algunas cosas."
 
 # game/code/Book-1/Chapter-7w/s09.rpy:340
 translate spanish b1c07ws09_bj_73e80589:
@@ -590,13 +590,13 @@ translate spanish b1c07ws09_talk_a281e2a2:
 translate spanish b1c07ws09_talk_894062c1:
 
     # sdl "They absolutely are the type to believe that people give enough of a shit about them to spy on them."
-    sdl "Absolutamente son del tipo que creen que a la gente le importan lo suficiente como para espiarlos."
+    sdl "Absolutamente son del tipo que creen que a la gente le importa lo suficiente como para espiarlos."
 
 # game/code/Book-1/Chapter-7w/s09.rpy:399
 translate spanish b1c07ws09_talk_83668885:
 
     # mc "...There {i}were{/i} actual spies there. Not to mention that you're actively spying on them."
-    mc "...Había {i}espías reales{/i} allí. Por no hablar de que estás espiando activamente a ellos."
+    mc "...Había {i}espías de verdad{/i} allí. Por no hablar de que estás espiando activamente a ellos."
 
 # game/code/Book-1/Chapter-7w/s09.rpy:402
 translate spanish b1c07ws09_talk_cf8bcd1e:
