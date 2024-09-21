@@ -794,11 +794,11 @@ translate chinese strings:
 translate chinese b1c08ss05_670a3234:
 
     # xv "We need someone to stay with it and ensure our escape. It's too dangerous for you to be in the thick of it."
-    xv "We need someone to stay with it and ensure our escape. It's too dangerous for you to be in the thick of it."
+    xv "我们需要有人守在那里，确保我们能逃走。你身处其中太危险了。"
 
 # game/code/Book-1/Chapter-8s/s05.rpy:384
 translate chinese b1c08ss05_choice_c14c407e:
 
     # fox "I've always been a mediator. Just because I can fight doesn't mean I won't try to stop them."
-    fox "I've always been a mediator. Just because I can fight doesn't mean I won't try to stop them."
+    fox "我一直是个调解人。虽然我会打架，但并不意味着我就会放任他们打下去。"
 
