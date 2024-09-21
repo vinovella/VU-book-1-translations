@@ -348,5 +348,5 @@ translate chinese strings:
 translate chinese b1c08ws06_08e0644c:
 
     # ba "C'mon, shirt off."
-    ba "C'mon, shirt off."
+    ba "来吧，把上衣脱了。"
 
