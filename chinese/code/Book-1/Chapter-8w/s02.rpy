@@ -1278,35 +1278,35 @@ translate chinese strings:
 translate chinese b1c08ws02_1a4f6af9:
 
     # "She bites her lower lip and admires your cock before grabbing a hold of it and slowly stroking up and down your entire length."
-    "She bites her lower lip and admires your cock before grabbing a hold of it and slowly stroking up and down your entire length."
+    "她咬住下唇，欣赏着你的肉棒，然后握住了大家伙，沿着你的整个柱身缓慢地上下抚摸。"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:428
 translate chinese b1c08ws02_b9360388:
 
     # oa "Ooh! wait a minute, you're conducting an orchestra, is that it?"
-    oa "Ooh! wait a minute, you're conducting an orchestra, is that it?"
+    oa "哦！等一下，你在指挥一支乐团，是吗？"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:439
 translate chinese b1c08ws02_9741e484:
 
     # "You finally sit back down and let the group figure out your lie."
-    "You finally sit back down and let the group figure out your lie."
+    "你终于坐了下来，让大伙儿来猜你的谎言。"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:441
 translate chinese b1c08ws02_0f91acf7:
 
     # "You finally sit back down and let the group figure everything out."
-    "You finally sit back down and let the group figure everything out."
+    "你终于坐了下来，让大伙儿来理清楚一切。"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:458
 translate chinese b1c08ws02_10845095:
 
     # "Everyone takes a turn trying to figure out which of your mimes were true and which one was the lie."
-    "Everyone takes a turn trying to figure out which of your mimes were true and which one was the lie."
+    "每个人都轮流猜测你的哪些动作是真的，哪些是假的。"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:572
 translate chinese b1c08ws02_a1831067:
 
     # "Suddenly, the bus hits a bump in the road, causing Iona to take you even further into her mouth. She almost chokes, but manages to hold on and continue taking you to your very base."
-    "Suddenly, the bus hits a bump in the road, causing Iona to take you even further into her mouth. She almost chokes, but manages to hold on and continue taking you to your very base."
+    "突然，公共汽车撞上了路上的一个凸起，欧娜含着你，将你带到了更深处。她差点要窒息了，但还是坚持了下来，继续将你带到最深处。"
 
