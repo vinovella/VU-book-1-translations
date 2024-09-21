@@ -26,7 +26,7 @@ translate spanish b1c08cs04_87fddfe2:
 translate spanish b1c08cs04_7ef72d5e:
 
     # mc "I...guess so. There's definitely room for improvement."
-    mc "Supongo que sí. Definitivamente hay margen de mejora."
+    mc "Supongo... que sí. Definitivamente hay margen de mejora."
 
 # game/code/Book-1/Chapter-8c/s04.rpy:52
 translate spanish b1c08cs04_8391a0eb:
@@ -164,7 +164,7 @@ translate spanish b1c08cs04_14f7099d:
 translate spanish b1c08cs04_80a91133:
 
     # mc "It wasn't fair of them to have you and then resent you for existing."
-    mc "No era justo por su parte tenerte y luego resentirse por existir."
+    mc "No fue justo que te tuvieran y luego se arrepintieran de que existieras."
 
 # game/code/Book-1/Chapter-8c/s04.rpy:111
 translate spanish b1c08cs04_5da88cc1:
@@ -182,13 +182,13 @@ translate spanish b1c08cs04_77f3d192:
 translate spanish b1c08cs04_9f5c5822:
 
     # ll "When I got to college, my parents were all too happy to see me off so they could travel again."
-    ll "Cuando llegué a la universidad, mis padres estaban muy felices de despedirme para poder viajar nuevamente."
+    ll "Cuando llegué a la universidad, mis padres estaban muy felices de poder despedirme para volver a viajar."
 
 # game/code/Book-1/Chapter-8c/s04.rpy:116
 translate spanish b1c08cs04_ef97338e:
 
     # mc "How did your presence affect them so much? I understand not traveling with a toddler, but deciding not to travel at all seems extreme."
-    mc "¿Cómo les afectó tanto tu presencia? Entiendo que no viajar con una niña pequeña, pero decidir no viajar parece extremo."
+    mc "¿Cómo les afectó tanto tu presencia? Entiendo que no viajen con una niña pequeña, pero decidir no viajar en absoluto me parece extremo."
 
 # game/code/Book-1/Chapter-8c/s04.rpy:119
 translate spanish b1c08cs04_c5a59062:
@@ -314,7 +314,7 @@ translate spanish b1c08cs04_6301cc28:
 translate spanish b1c08cs04_0039f74b:
 
     # mc "I told myself I wanted to because it'd keep the peace. Make him happy."
-    mc "Me dije a mí misma que quería hacerlo porque mantendría la paz. Le haría feliz."
+    mc "Me dije a mí mismo que quería hacerlo porque mantendría la paz. Le haría feliz."
 
 # game/code/Book-1/Chapter-8c/s04.rpy:170
 translate spanish b1c08cs04_aa72c2ee:
@@ -440,7 +440,7 @@ translate spanish b1c08cs04_ee8d0e6c:
 translate spanish b1c08cs04_0f185343:
 
     # ll "Yes. I'm sure. I want this, if you do too."
-    ll "Sí. Estoy seguro. Quiero esto, si tú también lo quieres."
+    ll "Sí. Estoy segura. Quiero esto, si tú también lo quieres."
 
 # game/code/Book-1/Chapter-8c/s04.rpy:231
 translate spanish b1c08cs04_1ccb9c88:
@@ -470,7 +470,7 @@ translate spanish b1c08cs04_a6707e56:
 translate spanish b1c08cs04_e24e14b6:
 
     # ll "Is it something I did? Did I come on too strong?"
-    ll "¿Es algo que hice? ¿Fui demasiado fuerte?"
+    ll "¿Es algo que hice? ¿Fui demasiado agresiva?"
 
 # game/code/Book-1/Chapter-8c/s04.rpy:254
 translate spanish b1c08cs04_70705b18:
@@ -602,7 +602,7 @@ translate spanish b1c08cs04_sex_087d3859:
 translate spanish b1c08cs04_sex_a6c6fb9a:
 
     # mc "That's right, hold yourself up for me. You're doing so well, Lumi."
-    mc "Así es, manténte en pie para mí. Lo estás haciendo muy bien, Lumi."
+    mc "Así es, manténte de esa manera para mí. Lo estás haciendo muy bien, Lumi."
 
 # game/code/Book-1/Chapter-8c/s04.rpy:346
 translate spanish b1c08cs04_sex_785bb643:
@@ -614,13 +614,13 @@ translate spanish b1c08cs04_sex_785bb643:
 translate spanish b1c08cs04_sex_2ca09078:
 
     # mc "I'm going to get you nice and ready for me before I {i}fuck you nice and deep{/i}."
-    mc "Voy a prepararte para mí antes de {i}follarte bien y profundamente{/i}."
+    mc "Voy a prepararte bien para mí antes de {i}follarte profundamente{/i}."
 
 # game/code/Book-1/Chapter-8c/s04.rpy:357
 translate spanish b1c08cs04_sex_8c805bf2:
 
     # ll "A-ah! You feel so go—"
-    ll "¡A-ah! Te sientes tan ve-"
+    ll "¡A-ah! Te sientes tan..."
 
 # game/code/Book-1/Chapter-8c/s04.rpy:362
 translate spanish b1c08cs04_sex_8ea9e0da:
@@ -788,7 +788,7 @@ translate spanish b1c08cs04_sex_9448b05c:
 translate spanish b1c08cs04_sex_beea91de:
 
     # "Her words are cut off by you fucking her harder."
-    "Sus palabras son cortadas cuando la follas más fuerte."
+    "Sus palabras se cortan cuando la follas más fuerte."
 
 # game/code/Book-1/Chapter-8c/s04.rpy:470
 translate spanish b1c08cs04_sex_f84cd6fe:
@@ -831,6 +831,12 @@ translate spanish b1c08cs04_sex_5abaccd3:
 
     # "Her body still tenses around you, excitedly twitching and gripping your cock. She milks you dry of every last drop of cum."
     "Su cuerpo todavía se tensa a tu alrededor, moviéndose con entusiasmo y agarrando tu polla. Ella te ordeña hasta la última gota de semen."
+
+# game/code/Book-1/Chapter-8c/s04.rpy:517
+translate spanish b1c08cs04_sex_dad6e589:
+
+    # "You pull out just as your bodies work themselves into oversensitivity."
+    "Te retiras justo cuando sus cuerpos se vuelven hipersensibles."
 
 # game/code/Book-1/Chapter-8c/s04.rpy:498
 translate spanish b1c08cs04_sex_36d13bd6:
@@ -926,7 +932,7 @@ translate spanish b1c08cs04_sex_5772d1a0:
 translate spanish b1c08cs04_sex_d9cb4beb:
 
     # mct "That wasn't heavily suspected of involvement in a missing persons case."
-    mct "No se sospechaba mucho que estuviera involucrado en un caso de personas desaparecidas."
+    mct "No se sospechaba mucho de su implicación en un caso de personas desaparecidas."
 
 # game/code/Book-1/Chapter-8c/s04.rpy:538
 translate spanish b1c08cs04_sex_3e74d0dc:
@@ -967,10 +973,4 @@ translate spanish strings:
     # game/code/Book-1/Chapter-8c/s04.rpy:232
     old "I'm not ready yet"
     new "No estoy listo todavía"
-
-# game/code/Book-1/Chapter-8c/s04.rpy:517
-translate spanish b1c08cs04_sex_dad6e589:
-
-    # "You pull out just as your bodies work themselves into oversensitivity."
-    "Te retiras justo cuando sus cuerpos se vuelven hipersensibles."
 
