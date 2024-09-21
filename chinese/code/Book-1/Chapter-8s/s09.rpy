@@ -1574,11 +1574,11 @@ translate chinese strings:
 translate chinese b1c08ss09_722183e0:
 
     # mc "No, no I'm fine. Got a headache and a cut hand, that's about it."
-    mc "No, no I'm fine. Got a headache and a cut hand, that's about it."
+    mc "不，不，我很好。只是有点头疼，手也破了点皮。"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:707
 translate chinese b1c08ss09_e47325aa:
 
     # "Morgan's so focused on breaking through your defenses, she loses track of her weak points."
-    "Morgan's so focused on breaking through your defenses, she loses track of her weak points."
+    "摩根一心想攻破你的防线，却忽略了自己的弱点。"
 
