@@ -86,7 +86,7 @@ translate turkish b1c09s06_b15a5734:
 translate turkish b1c09s06_ec66c4f5:
 
     # "Diary" "My self-discovery journey seems to be progressing at rapid speeds. Time feels like it's slipping through my fingers and I forget to eat. But I can tell I'm getting closer to the truth. So it is worth it."
-    "Günlük "Kendimi keşfetme yolculuğum hızla ilerliyor gibi görünüyor. Zaman sanki parmaklarımın arasından kayıp gidiyor ve yemek yemeyi unutuyorum. Ama gerçeğe yaklaştığımı söyleyebilirim. Yani buna değer."
+    "Günlük" "Kendimi keşfetme yolculuğum hızla ilerliyor gibi görünüyor. Zaman sanki parmaklarımın arasından kayıp gidiyor ve yemek yemeyi unutuyorum. Ama gerçeğe yaklaştığımı söyleyebilirim. Yani buna değer."
 
 # game/code/Book-1/Chapter-9/s06.rpy:128
 translate turkish b1c09s06_d54a935a:
@@ -98,13 +98,13 @@ translate turkish b1c09s06_d54a935a:
 translate turkish b1c09s06_3eaf9317:
 
     # "Diary" "We were born to make love in the name of Narurra. In the name of {i}me{/i}. Love is what fuels the very mechanism of this universe. I need more of it. I need those around me to need more of it."
-    "Günlük "Biz Narurra adına sevişmek için doğduk. Ben {i}me{/i} adına. Sevgi bu evrenin mekanizmasını besleyen şeydir. Daha fazlasına ihtiyacım var. Etrafımdakilerin de daha fazlasına ihtiyacı var."
+    "Günlük" "Biz Narurra adına sevişmek için doğduk. Ben {i}me{/i} adına. Sevgi bu evrenin mekanizmasını besleyen şeydir. Daha fazlasına ihtiyacım var. Etrafımdakilerin de daha fazlasına ihtiyacı var."
 
 # game/code/Book-1/Chapter-9/s06.rpy:130
 translate turkish b1c09s06_221750ae:
 
     # "Diary" "We need a child born in the name of Narurra. In the name of love."
-    "Diary "Narurra adına doğmuş bir çocuğa ihtiyacımız var. Aşk adına."
+    "Diary" "Narurra adına doğmuş bir çocuğa ihtiyacımız var. Aşk adına."
 
 # game/code/Book-1/Chapter-9/s06.rpy:133
 translate turkish b1c09s06_c50ac2ad:
@@ -122,7 +122,7 @@ translate turkish b1c09s06_13b1f5d7:
 translate turkish b1c09s06_908aa2f5:
 
     # "Diary" "The portrait of myself was delivered today. Finally, my essence can permeate my room and look upon us while we aspire to be the gods of creation."
-    "Günlük "Portrem bugün teslim edildi. Nihayet, özüm odama nüfuz edebilir ve biz yaratılış tanrıları olmayı arzularken bize bakabilir."
+    "Günlük" "Portrem bugün teslim edildi. Nihayet, özüm odama nüfuz edebilir ve biz yaratılış tanrıları olmayı arzularken bize bakabilir."
 
 # game/code/Book-1/Chapter-9/s06.rpy:138
 translate turkish b1c09s06_39f43625:
@@ -134,7 +134,7 @@ translate turkish b1c09s06_39f43625:
 translate turkish b1c09s06_5d3646d9:
 
     # "Diary" "Now this place is worthy of having a child birthed in its chamber."
-    "Günlük "Şimdi bu yer, odasında bir çocuk doğurmaya değer."
+    "Günlük" "Şimdi bu yer, odasında bir çocuk doğurmaya değer."
 
 # game/code/Book-1/Chapter-9/s06.rpy:146
 translate turkish b1c09s06_45f0b6a2:
@@ -146,13 +146,13 @@ translate turkish b1c09s06_45f0b6a2:
 translate turkish b1c09s06_85fe8587:
 
     # "Note" "DRAFT: YOU NEED TO STOP FOLLOWING ME. I HAVE DONE NOTHING TO DESERVE THIS. Your paranoia dominates your mind! Have I not done you enough by allowing you into this family?"
-    "Not "TASLAK: BENİ TAKİP ETMEYİ BIRAKMALISIN. BUNU HAK EDECEK HİÇBİR ŞEY YAPMADIM. Paranoyanız zihninize hükmediyor! Bu aileye girmene izin vererek sana yeterince şey yapmadım mı?"
+    "Not" "TASLAK: BENİ TAKİP ETMEYİ BIRAKMALISIN. BUNU HAK EDECEK HİÇBİR ŞEY YAPMADIM. Paranoyanız zihninize hükmediyor! Bu aileye girmene izin vererek sana yeterince şey yapmadım mı?"
 
 # game/code/Book-1/Chapter-9/s06.rpy:150
 translate turkish b1c09s06_9c580467:
 
     # "Note" "Love is not meant to be hoarded or jealously coveted. I have done nothing wrong. {i}LEAVE ME ALONE.{/i}"
-    "Not "Sevgi biriktirilmek ya da kıskançlıkla arzulanmak için değildir. Ben yanlış bir şey yapmadım. {BENİ YALNIZ BIRAKIN.{/i}"
+    "Not" "Sevgi biriktirilmek ya da kıskançlıkla arzulanmak için değildir. Ben yanlış bir şey yapmadım. {i}BENİ YALNIZ BIRAKIN.{/i}"
 
 # game/code/Book-1/Chapter-9/s06.rpy:153
 translate turkish b1c09s06_b2d46cd1:
@@ -704,7 +704,7 @@ translate turkish b1c09s06_be_bottom_79de7289:
 translate turkish b1c09s06_be_top_f9b1323f:
 
     # mc "Who says {i}{b}I{/b}{/i} won't devour {i}you?{/i}"
-    mc "Kim demiş {i}{b}Ben{/b}{/i} seni yutmayacağım diye?"{/i}"
+    mc "Kim demiş {i}{b}Ben{/b}{/i} seni yutmayacağım {i}diye?{/i}"
 
 # game/code/Book-1/Chapter-9/s06.rpy:515
 translate turkish b1c09s06_be_top_e71d4dfe:

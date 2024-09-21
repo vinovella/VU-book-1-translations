@@ -254,7 +254,7 @@ translate turkish b1c09s15_17f10fb2:
 translate turkish b1c09s15_fac8dd74:
 
     # c1 "*Blushes* I can't say it. I'm sorry."
-c1 "*Allık* Bunu söyleyemem.. Özür dilerim."
+    c1 "*Allık* Bunu söyleyemem.. Özür dilerim."
 
 # game/code/Book-1/Chapter-9/s15.rpy:422
 translate turkish b1c09s15_44835140:

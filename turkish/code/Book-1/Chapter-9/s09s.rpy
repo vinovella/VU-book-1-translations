@@ -872,7 +872,7 @@ translate turkish b1c09s09s_with_zp_22635dab:
 translate turkish b1c09s09s_with_zp_f9468498:
 
     # zp "You are being {i}distracting.{/i} Let me find the stain remover."
-    zp "Dikkatimi dağıtıyorsun.{/i} Leke çıkarıcıyı bulayım."
+    zp "Dikkatimi {i}dağıtıyorsun.{/i} Leke çıkarıcıyı bulayım."
 
 # game/code/Book-1/Chapter-9/s09s.rpy:616
 translate turkish b1c09s09s_with_zp_5beb8717:

@@ -518,7 +518,7 @@ translate turkish b1c09s09w_ba_show_b4ccb29e:
 translate turkish b1c09s09w_ba_show_8d35da9f:
 
     # mct "Damn, she's starting {i}without{/i} certain items."
-    mct "Kahretsin, {i}belli eşyalar{/i}olmadan {i}başlıyor."
+    mct "Kahretsin, {i}belli eşyalar{/i}olmadan başlıyor."
 
 # game/code/Book-1/Chapter-9/s09w.rpy:414
 translate turkish b1c09s09w_ba_show_bb23868e:
@@ -1082,7 +1082,7 @@ translate turkish b1c09s09w_wc_available_69dd8d58:
 translate turkish b1c09s09w_wc_available_4b005d3f:
 
     # ir "I push too hard and I instigate so much shit."
-ir "I push too hard and I instigate so much shit."
+    ir "I push too hard and I instigate so much shit."
 
 # game/code/Book-1/Chapter-9/s09w.rpy:785
 translate turkish b1c09s09w_wc_available_907bee5d:
@@ -1238,7 +1238,7 @@ translate turkish b1c09s09w_wc_available_004063df:
 translate turkish b1c09s09w_wc_available_24cd7708:
 
     # ir "I'm not sure if he meant that there wasn't much he {i}could{/i} do about it or if he meant there wasn't much he {i}wanted{/i} to do about it."
-    ir "Bu konuda yapabileceği{/i} pek bir şey olmadığını mı yoksa yapmak istediği{/i} pek bir şey olmadığını mı kastettiğinden emin değilim."
+    ir "Bu konuda {i}yapabileceği{/i} pek bir şey olmadığını mı yoksa yapmak {i}istediği{/i} pek bir şey olmadığını mı kastettiğinden emin değilim."
 
 # game/code/Book-1/Chapter-9/s09w.rpy:851
 translate turkish b1c09s09w_wc_available_c145be7e:

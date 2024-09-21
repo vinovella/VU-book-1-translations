@@ -356,7 +356,7 @@ translate turkish b1c09s02_both_go_f12daad9:
 translate turkish b1c09s02_both_go_68cdd705:
 
     # lw "I {i}can't{/i} go. I'll probably get pinballed around until I end up in the pool drowning."
-    lw "Ben {ben} gidemem. Muhtemelen havuzda boğulana kadar oradan oraya savrulacağım."
+    lw "Ben gidemem. Muhtemelen havuzda boğulana kadar oradan oraya savrulacağım."
 
 # game/code/Book-1/Chapter-9/s02.rpy:272
 translate turkish b1c09s02_both_go_be3154b7:

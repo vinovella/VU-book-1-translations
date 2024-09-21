@@ -83,7 +83,7 @@ translate turkish b1c09s09c_6f49e17c:
     nv "Bir ara uğramalısın-katılma teklifin hala geçerli."
 
 # game/code/Book-1/Chapter-9/s09c.rpy:90
-vtranslate turkish b1c09s09c_d4ca1297:
+translate turkish b1c09s09c_d4ca1297:
 
     # mct "Wish I had the time..."
     mct "Keşke zamanım olsaydı..."

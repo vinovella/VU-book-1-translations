@@ -446,7 +446,7 @@ translate turkish b1c09s04_bathroom_e8d18184:
 translate turkish b1c09s04_bathroom_e171cc91:
 
     # "Her eyes shine at your words. So completely enamored by you. So willing to give herself over to you."
-    Gözleri senin sözlerinle parlıyor. Senden öylesine etkilenmiş ki. Kendini sana teslim etmeye o kadar istekli ki.
+    "Gözleri senin sözlerinle parlıyor. Senden öylesine etkilenmiş ki. Kendini sana teslim etmeye o kadar istekli ki."
 
 # game/code/Book-1/Chapter-9/s04.rpy:350
 translate turkish b1c09s04_bathroom_675a389b:

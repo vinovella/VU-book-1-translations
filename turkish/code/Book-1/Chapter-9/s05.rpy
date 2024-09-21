@@ -524,7 +524,7 @@ translate turkish b1c09s05_mc_take_control_1e1044bd:
 translate turkish b1c09s05_mc_take_control_11addb8c:
 
     # "You kiss her, drawing even more blood into her already flushed face."
-    Onu öpüyorsun, zaten kızarmış yüzüne daha da fazla kan çekiyorsun.
+    "Onu öpüyorsun, zaten kızarmış yüzüne daha da fazla kan çekiyorsun."
 
 # game/code/Book-1/Chapter-9/s05.rpy:404
 translate turkish b1c09s05_mc_take_control_46e71cda:
