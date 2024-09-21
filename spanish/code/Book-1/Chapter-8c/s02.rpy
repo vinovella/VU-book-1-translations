@@ -2,7 +2,7 @@
 translate spanish b1c08cs02_4b70c4d1:
 
     # "After a short hike from the train station, you and the others arrive at the campgrounds."
-    "Después de una corta caminata desde la estación de tren, tú y los demás llegarán al campamento."
+    "Tras una corta caminata desde la estación de tren, tú y los demás llegan al campamento."
 
 # game/code/Book-1/Chapter-8c/s02.rpy:22
 translate spanish b1c08cs02_0f2136e1:
@@ -20,13 +20,13 @@ translate spanish b1c08cs02_84969a94:
 translate spanish b1c08cs02_23143e78:
 
     # mc "Is this an old campsite or something?"
-    mc "¿Es este un antiguo camping o algo así?"
+    mc "¿Es este un antiguo campamento o algo así?"
 
 # game/code/Book-1/Chapter-8c/s02.rpy:31
 translate spanish b1c08cs02_5fb895c2:
 
     # dk "It's something like that. The other members live here permanently and take care of the campgrounds."
-    dk "Es algo así. Los demás miembros viven aquí permanentemente y se ocupan del camping."
+    dk "Es algo así. Los demás miembros viven aquí permanentemente y se ocupan del campamento."
 
 # game/code/Book-1/Chapter-8c/s02.rpy:34
 translate spanish b1c08cs02_e6cb7fed:
@@ -92,7 +92,7 @@ translate spanish b1c08cs02_f62f58c3:
 translate spanish b1c08cs02_ce026c7a:
 
     # ih "Welcome, everyone! We are so happy to have you here. We hope that you'll have a wonderful time here."
-    ih "¡Bienvenidos, todos! Estamos muy felices de tenerlos aquí. Esperamos que la pasen muy bien aquí."
+    ih "¡Bienvenidos, todos! Estamos muy felices de tenerlos aquí. Esperamos que la pasen muy bien."
 
 # game/code/Book-1/Chapter-8c/s02.rpy:86
 translate spanish b1c08cs02_9f11cbe6:
@@ -194,13 +194,13 @@ translate spanish b1c08cs02_ff698616:
 translate spanish b1c08cs02_6125de31:
 
     # ys "And that's Sloan T. Andrews! The best wildlife conservation specialist this group has ever seen."
-    ys "¡Y esa es Sloan T. Andrews! El mejor especialista en conservación de vida silvestre que este grupo haya visto jamás."
+    ys "¡Y esa es Sloan T. Andrews! La mejor especialista en conservación de vida silvestre que este grupo haya visto jamás."
 
 # game/code/Book-1/Chapter-8c/s02.rpy:157
 translate spanish b1c08cs02_cd4b004d:
 
     # dk "It's not obvious that they're forest hermits at all, is it?"
-    dk "No es obvio en absoluto que sean ermitaños del bosque, ¿verdad?"
+    dk "No es obvio en absoluto que sean ermitañas del bosque, ¿verdad?"
 
 # game/code/Book-1/Chapter-8c/s02.rpy:159
 translate spanish b1c08cs02_d28d607e:
@@ -422,7 +422,7 @@ translate spanish b1c08cs02_after_choice_0fe3cd0d:
 translate spanish b1c08cs02_after_choice_e5770afb:
 
     # mct "Everyone seems quite fond of Yvonne."
-    mct "Todo el mundo parece tener mucho cariño por Yvonne."
+    mct "Todo el mundo parece tenerle mucho cariño a Yvonne."
 
 # game/code/Book-1/Chapter-8c/s02.rpy:294
 translate spanish b1c08cs02_after_choice_6c9624ae:
@@ -518,7 +518,7 @@ translate spanish b1c08cs02_after_choice_7a1155f6:
 translate spanish b1c08cs02_after_choice_7149fddb:
 
     # nv "This forest has folklore? That's incredible!"
-    nv "¿Este bosque tiene folklore? ¡Eso es increíble!"
+    nv "¿Este bosque tiene folclore? ¡Es increíble!"
 
 # game/code/Book-1/Chapter-8c/s02.rpy:331
 translate spanish b1c08cs02_after_choice_7bf55f53:
@@ -650,7 +650,7 @@ translate spanish b1c08cs02_after_choice_39dbf14d:
 translate spanish b1c08cs02_after_choice_69fd6b89:
 
     # ys "Oh we will! I'll make sure of it. It was lovely to meet you all as well."
-    ys "¡Oh, lo haremos! Me aseguraré de ello. Fue un placer conocerlos a todos también."
+    ys "¡Oh, lo tendremos! Me aseguraré de ello. Fue un placer conocerlos a todos también."
 
 # game/code/Book-1/Chapter-8c/s02.rpy:411
 translate spanish b1c08cs02_after_choice_b3c623d6:
@@ -758,7 +758,7 @@ translate spanish b1c08cs02_after_choice_2be31fee:
 translate spanish b1c08cs02_after_choice_a637b57e:
 
     # ll "Oh! Hi [mcname]. Hi Delphia."
-    ll "¡Oh! Hola [mcname]. Hola Delfia."
+    ll "¡Oh! Hola [mcname]. Hola Delphia."
 
 # game/code/Book-1/Chapter-8c/s02.rpy:475
 translate spanish b1c08cs02_after_choice_db23a707:
@@ -1034,7 +1034,7 @@ translate spanish b1c08cs02_after_choice_455b2cf9:
 translate spanish b1c08cs02_after_choice_8018cd30:
 
     # "You and Lumi drift into a light but restful nap, feeling comforted in each other's embrace."
-    "Tú y Lumi caen en una siesta ligera pero reparadora, sintiéndose reconfortados en el abrazo del otro."
+    "Lumi y tú caen en una siesta ligera pero reparadora, sintiéndose reconfortados en el abrazo del otro."
 
 translate spanish strings:
 
