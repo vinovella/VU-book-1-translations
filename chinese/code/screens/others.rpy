@@ -40,13 +40,13 @@ translate chinese strings:
 
     # game/code/screens/others.rpy:10
     old "We collect only anonymized data to better understand which paths, characters, scenes, and fetishes are most popular and to identify areas for improvement."
-    new "We collect only anonymized data to better understand which paths, characters, scenes, and fetishes are most popular and to identify areas for improvement."
+    new "我们只收集匿名数据，以更好地了解哪些路径、角色、场景和癖好最受欢迎，并确定需要改进的地方。"
 
     # game/code/screens/others.rpy:11
     old "NO PERSONAL INFORMATION IS COLLECTED."
-    new "NO PERSONAL INFORMATION IS COLLECTED."
+    new "不会收集任何个人信息"
 
     # game/code/screens/others.rpy:13
     old "Would you like to enable this data collection?"
-    new "Would you like to enable this data collection?"
+    new "您是否要启用此数据收集功能？"
 
