@@ -1390,11 +1390,11 @@ translate chinese strings:
 translate chinese b1c08ss04_sex_e8f73632:
 
     # "She tastes so sweet. Her pussy twitches and greedily aches before you."
-    "She tastes so sweet. Her pussy twitches and greedily aches before you."
+    "她的味道如此甜美。她的阴部在你面前抽搐着，饥渴到隐隐作痛。"
 
 # game/code/Book-1/Chapter-8s/s04.rpy:675
 translate chinese b1c08ss04_sex_4fd89c00:
 
     # "She grinds against your tongue, so desperate for more."
-    "She grinds against your tongue, so desperate for more."
+    "她扭动着，在你的舌前来回磨蹭，渴望得到更多。"
 
