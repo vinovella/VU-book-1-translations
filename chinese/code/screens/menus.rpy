@@ -116,5 +116,5 @@ translate chinese strings:
 
     # game/code/screens/menus.rpy:869
     old "{u}Get your Lovense toy now{/u}"
-    new "{u}Get your Lovense toy now{/u}"
+    new "{u}即刻取得你的Lovense玩具{/u}"
 
