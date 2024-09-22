@@ -1390,11 +1390,11 @@ translate turkish strings:
 translate turkish b1c08ss04_sex_e8f73632:
 
     # "She tastes so sweet. Her pussy twitches and greedily aches before you."
-    "She tastes so sweet. Her pussy twitches and greedily aches before you."
+    "Tadı çok tatlı. Amı seğiriyor ve senden önce açgözlülükle ağrıyor."
 
 # game/code/Book-1/Chapter-8s/s04.rpy:675
 translate turkish b1c08ss04_sex_4fd89c00:
 
     # "She grinds against your tongue, so desperate for more."
-    "She grinds against your tongue, so desperate for more."
+    "Daha fazlası için çaresizce diline sarılıyor."
 
