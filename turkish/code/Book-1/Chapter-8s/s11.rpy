@@ -1252,5 +1252,5 @@ translate turkish strings:
 translate turkish b1c08ss11_mg_sex_ff70acc8:
 
     # mc "Oh I'll fill you up alright, only when I'm fucking done with you."
-    mc "Oh I'll fill you up alright, only when I'm fucking done with you."
+    mc "Oh seni dolduracağım tamam, sadece seninle işim bittiğinde."
 
