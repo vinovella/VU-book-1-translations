@@ -20,9 +20,9 @@
     old "Des M. Astor (plays Ridley character) - therealdesastr"
     new "Des M. Astor (plays Ridley character) - therealdesastr"
 
-    # game/code/data/credits.rpy:3
-    old "TRANSLATIONS"
-    new "TRANSLATIONS"
+    # game/code/data/credits.rpy:13
+    old "PROOFREADING & TRANSLATIONS"
+    new "PROOFREADING & TRANSLATIONS"
 
     # game/code/data/credits.rpy:3
     old "Spanish translation by {a=https://steamcommunity.com/id/manubu/}Mustadio7813{/a}"

@@ -20,9 +20,9 @@
     old "Des M. Astor (plays Ridley character) - therealdesastr"
     new "Des M. Astor (Ridley karakterini canlandırıyor) - therealdesastr"
 
-    # game/code/data/credits.rpy:3
-    old "TRANSLATIONS"
-    new "ÇEVİRİLER"
+    # game/code/data/credits.rpy:13
+    old "PROOFREADING & TRANSLATIONS"
+    new "DÜZELTME VE ÇEVİRİLER"
 
     # game/code/data/credits.rpy:3
     old "Spanish translation by {a=https://steamcommunity.com/id/manubu/}Mustadio7813{/a}"
