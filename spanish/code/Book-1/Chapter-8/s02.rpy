@@ -170,7 +170,7 @@ translate spanish b1c08s02_fecb1bec:
 translate spanish b1c08s02_819984fd:
 
     # jh "So what do you think? Dinner with nature? Yay or nay?"
-    jh "¿Entonces, qué piensas? ¿Cena con la naturaleza? ¿Sí o no?"
+    jh "¿Entonces, qué piensan? ¿Cena con la naturaleza? ¿Sí o no?"
 
 # game/code/Book-1/Chapter-8/s02.rpy:104
 translate spanish b1c08s02_at_garden_3fa1c261:
@@ -212,7 +212,7 @@ translate spanish b1c08s02_at_garden_d7fed541:
 translate spanish b1c08s02_at_garden_f9f4ff02:
 
     # jh "*Sighs contently* I used to come here a lot during my first year. It was like an escape."
-    jh "*Suspiro contenta* Solía venir mucho aquí durante mi primer año. Era como un escape."
+    jh "*Suspira con satisfacción* Solía venir mucho aquí durante mi primer año. Era como un escape."
 
 # game/code/Book-1/Chapter-8/s02.rpy:127
 translate spanish b1c08s02_at_garden_97cfbc9b:
@@ -224,7 +224,7 @@ translate spanish b1c08s02_at_garden_97cfbc9b:
 translate spanish b1c08s02_at_garden_e7cc1b27:
 
     # jh "*Pauses* Oh, you know, the usual—stress, expectations, the fear of the unknown."
-    jh "*Pausa* Oh, ya sabes, lo habitual: el estrés, las expectativas, el miedo a lo desconocido."
+    jh "*Pausa* Oh, ya sabes, lo habitual... el estrés, las expectativas, el miedo a lo desconocido."
 
 # game/code/Book-1/Chapter-8/s02.rpy:131
 translate spanish b1c08s02_at_garden_aaa1fdbb:
@@ -554,7 +554,7 @@ translate spanish b1c08s02_jh_kiss_5fb1c166:
 translate spanish b1c08s02_jh_kiss_9d2ccebf:
 
     # jh "*Breathy* I wondered what this would've felt like for so long..."
-    jh "*Respirando* Me preguntaba cómo se habría sentido esto durante tanto tiempo..."
+    jh "*Respirando* Durante tanto tiempo me preguntaba cómo se sentiría..."
 
 # game/code/Book-1/Chapter-8/s02.rpy:298
 translate spanish b1c08s02_jh_kiss_2f2b2b7f:
@@ -762,5 +762,5 @@ translate spanish strings:
 
     # game/code/Book-1/Chapter-8/s02.rpy:246
     old "Politely decline."
-    new "Declinar cortésmente."
+    new "Rechaza cortésmente."
 
