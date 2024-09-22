@@ -824,7 +824,7 @@ translate turkish b1c09s06_be_top_e3b8dff4:
 translate turkish b1c09s06_be_top_ed18d0cd:
 
     # ij "Oh, oh I'm gonna cum!"
-    ij "Oh, oh I'm gonna cum!"
+    ij "Oh, oh boşalacağım!"
 
 # game/code/Book-1/Chapter-9/s06.rpy:629
 translate turkish b1c09s06_be_top_3c86cabe:
