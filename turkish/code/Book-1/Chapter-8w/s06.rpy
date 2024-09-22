@@ -348,5 +348,5 @@ translate turkish strings:
 translate turkish b1c08ws06_08e0644c:
 
     # ba "C'mon, shirt off."
-    ba "C'mon, shirt off."
+    ba "Hadi, gömleğini çıkar."
 
