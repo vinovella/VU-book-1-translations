@@ -278,7 +278,7 @@ translate turkish b1c09s11_dk_sex_6c44b871:
 translate turkish b1c09s11_dk_sex_f6c49257:
 
     # mc "Just a dripping wet slut aching to get fucked."
-    mc "Just a dripping wet slut aching to get fucked."
+    mc "Sadece sikilmek için can atan ıslak bir sürtük."
 
 # game/code/Book-1/Chapter-9/s11.rpy:273
 translate turkish b1c09s11_dk_sex_4811b0c0:
