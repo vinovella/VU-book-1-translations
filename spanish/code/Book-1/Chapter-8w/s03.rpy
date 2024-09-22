@@ -224,7 +224,7 @@ translate spanish b1c08ws03_2bb6e4ed:
 translate spanish b1c08ws03_dc569910:
 
     # "Silvia laughs. It's a quiet laugh. Delicate. As if afraid that it'll be crushed if she's too loud, too uncontrolled."
-    "Silvia se ríe. Es una risa tranquila. Delicada. Como si tuviera miedo de ser aplastada si ella hace demasiado ruido, demasiado descontrolada."
+    "Silvia se ríe. Es una risa tranquila. Delicada. Como si temiera que la aplastaran si es demasiado ruidosa, descontrolada."
 
 # game/code/Book-1/Chapter-8w/s03.rpy:155
 translate spanish b1c08ws03_b85746b1:
@@ -338,7 +338,7 @@ translate spanish b1c08ws03_8d236351:
 translate spanish b1c08ws03_a43901f4:
 
     # mc "Huh, first I'm hearing of this. Are we going?"
-    mc "Eh, primero escucho esto. ¿Estamos yendo?"
+    mc "Eh, es la primera vez que oigo hablar de esto. ¿Vamos a ir?"
 
 # game/code/Book-1/Chapter-8w/s03.rpy:209
 translate spanish b1c08ws03_e3034845:
@@ -362,7 +362,7 @@ translate spanish b1c08ws03_bdb3bc24:
 translate spanish b1c08ws03_3accffc2:
 
     # sm "*Sighs* And I should technically be with Shontae right now doing my managerial duties."
-    sm "*Suspira* Y técnicamente debería estar con Shontae ahora mismo cumpliendo con mis deberes gerenciales."
+    sm "*Suspira* Y técnicamente debería estar con Shontae en este momento cumpliendo con mis deberes gerenciales."
 
 # game/code/Book-1/Chapter-8w/s03.rpy:217
 translate spanish b1c08ws03_ab212675:
@@ -398,7 +398,7 @@ translate spanish b1c08ws03_d3374ad1:
 translate spanish b1c08ws03_3cd1d52b:
 
     # mc "I know how it can feel like you're personally responsible for everything, but you're not."
-    mc "Sé lo que puede parecer que eres personalmente responsable de todo, pero no lo eres."
+    mc "Sé que puedes sentirte como si fueras personalmente responsable de todo, pero no es así."
 
 # game/code/Book-1/Chapter-8w/s03.rpy:231
 translate spanish b1c08ws03_4ad75764:
@@ -411,6 +411,12 @@ translate spanish b1c08ws03_91f4de83:
 
     # mc "Hey. It's not your fault."
     mc "Ey. No es tu culpa."
+
+# game/code/Book-1/Chapter-8w/s03.rpy:239
+translate spanish b1c08ws03_8b4b838b:
+
+    # "She catches you off guard with a kiss. It's a gentle warmth on your lips, but they carry a heaviness with so much emotion hidden behind."
+    "Ella te pilla con la guardia baja con un beso. Es una calidez suave en tus labios, pero llevan una pesadez con tanta emoción escondida detrás."
 
 # game/code/Book-1/Chapter-8w/s03.rpy:243
 translate spanish b1c08ws03_d7455b14:
@@ -482,7 +488,7 @@ translate spanish b1c08ws03_b17a5622:
 translate spanish b1c08ws03_a275db12:
 
     # sm "I'm...scared."
-    sm "Tengo miedo."
+    sm "Tengo... miedo."
 
 # game/code/Book-1/Chapter-8w/s03.rpy:274
 translate spanish b1c08ws03_6aef84e1:
@@ -519,10 +525,4 @@ translate spanish strings:
     # game/code/Book-1/Chapter-8w/s03.rpy:8
     old "Some time later\nAt the hotel"
     new "Algún tiempo después\nEn el hotel"
-
-# game/code/Book-1/Chapter-8w/s03.rpy:241
-translate spanish b1c08ws03_470b68b1:
-
-    # "She catches you off guard with a kiss. It's a gentle warmth on your lips, but it carries a heaviness with so much emotion hidden behind."
-    "She catches you off guard with a kiss. It's a gentle warmth on your lips, but it carries a heaviness with so much emotion hidden behind."
 
