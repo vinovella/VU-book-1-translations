@@ -152,5 +152,5 @@ translate chinese strings:
 
     # game/code/Book-1/Chapter-7c/s11.rpy:124
     old "New information available in the investigating board"
-    new "调查委员会有新信息"
+    new "调查板有新信息"
 
