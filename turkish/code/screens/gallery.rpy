@@ -44,15 +44,15 @@ translate turkish strings:
 
     # game/code/screens/gallery.rpy:44
     old "Character Filter: [character_filter]"
-    new "Character Filter: [character_filter]"
+    new "Karakter Filtresi: [character_filter]"
 
 translate turkish strings:
 
     # game/code/screens/gallery.rpy:21
     old "Achievements"
-    new "Achievements"
+    new "Başarılar"
 
     # game/code/screens/gallery.rpy:45
     old "Character Filter: [character_filter!t]"
-    new "Character Filter: [character_filter!t]"
+    new "Karakter Filtresi: [character_filter!t]"
 
