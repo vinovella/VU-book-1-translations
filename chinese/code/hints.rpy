@@ -750,7 +750,7 @@
 
     # game/code/hints.rpy:11
     old "{font=fonts/GypsyCurse.ttf}ALL PLAY AND NO WORK MAKES MATTHEW A KILLER.{/font}"
-    new "{font=fonts/GypsyCurse.ttf}只享乐不工作，马修只会杀杀乐。{/font}"
+    new "只享乐不工作，马修只会杀杀乐。"
 
     # game/code/hints.rpy:11
     old "She's already doomed."
@@ -981,10 +981,18 @@
     new "德尔菲娅不会在你身上撒尿。你直接操她。"
 
     # game/code/hints.rpy:11
-    old "You creampie {} and make her cum as well."
-    new "你内射{}，让她也高潮。"
+    old "You creampie Zemfira and make her cum as well."
+    new "你内射泽菲拉，让她也高潮。"
 
     # game/code/hints.rpy:11
-    old "You keep going. You'll get to creampie {}."
-    new "你继续下去。之后你会内射{}的。"
+    old "You creampie Nia and make her cum as well."
+    new "你内射妮娅，让她也高潮。"
+
+    # game/code/hints.rpy:11
+    old "You keep going. You'll get to creampie Zemfira."
+    new "你继续下去。之后你会内射泽菲拉的。"
+
+    # game/code/hints.rpy:11
+    old "You keep going. You'll get to creampie Silvia."
+    new "你继续下去。之后你会内射西尔维娅的。"
 

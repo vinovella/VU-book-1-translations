@@ -351,3 +351,4 @@ translate turkish post_credit_scene_81334a09:
 
     # "Everyone" "Hurray!"
     "Herkes" "Yaşasın!"
+

@@ -1012,7 +1012,6 @@ translate spanish b1c08ws07_0b19e87b:
     # "You'd be worried about your predicament, but your consciousness quickly slips away too, leaving you all alone."
     "Estarías preocupado por tu situación, pero tu conciencia también se desvanece rápidamente, dejándote solo."
 
-
 # game/code/Book-1/Chapter-8w/s07.rpy:89
 translate spanish b1c08ws07_cd88a85c:
 

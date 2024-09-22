@@ -981,10 +981,18 @@ translate portuguese strings:
     new "Delphia não urina em você. Os dois só transam."
 
     # game/code/hints.rpy:11
-    old "You creampie {} and make her cum as well."
-    new "Você goza dentro da {}, trazendo ela ao orgasmo também."
+    old "You creampie Zemfira and make her cum as well."
+    new "Você goza dentro da Zemfira, trazendo ela ao orgasmo também."
 
     # game/code/hints.rpy:11
-    old "You keep going. You'll get to creampie {}."
-    new "Você continua. Você goza dentro da {} depois."
+    old "You creampie Nia and make her cum as well."
+    new "Você goza dentro da Nia, trazendo ela ao orgasmo também."
+
+    # game/code/hints.rpy:11
+    old "You keep going. You'll get to creampie Zemfira."
+    new "Você continua. Você goza dentro da Zemfira depois."
+
+    # game/code/hints.rpy:11
+    old "You keep going. You'll get to creampie Silvia."
+    new "Você continua. Você goza dentro da Silvia depois."
 

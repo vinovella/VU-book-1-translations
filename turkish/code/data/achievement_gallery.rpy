@@ -359,3 +359,4 @@
     # game/code/data/achievement_gallery.rpy:5
     old "Play postcredit scene."
     new "Postcredit sahnesini oynat."
+

@@ -344,8 +344,6 @@ translate spanish strings:
     old "Go for it"
     new "Hazlo"
 
-
-
 # game/code/Book-1/Chapter-8w/s06.rpy:137
 translate spanish b1c08ws06_08e0644c:
 

@@ -981,10 +981,18 @@
     new "Delphia doesn't pee on you. You just fuck her instead."
 
     # game/code/hints.rpy:11
-    old "You creampie {} and make her cum as well."
-    new "You creampie {} and make her cum as well."
+    old "You creampie Zemfira and make her cum as well."
+    new "You creampie Zemfira and make her cum as well."
 
     # game/code/hints.rpy:11
-    old "You keep going. You'll get to creampie {}."
-    new "You keep going. You'll get to creampie {}."
+    old "You creampie Nia and make her cum as well."
+    new "You creampie Nia and make her cum as well."
+
+    # game/code/hints.rpy:11
+    old "You keep going. You'll get to creampie Zemfira."
+    new "You keep going. You'll get to creampie Zemfira."
+
+    # game/code/hints.rpy:11
+    old "You keep going. You'll get to creampie Silvia."
+    new "You keep going. You'll get to creampie Silvia."
 

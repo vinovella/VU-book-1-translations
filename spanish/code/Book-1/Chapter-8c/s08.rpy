@@ -2022,7 +2022,6 @@ translate spanish strings:
     old "Of course. The punishment is out of love"
     new "Por supuesto. El castigo es por amor"
 
-
 # game/code/Book-1/Chapter-8c/s08.rpy:717
 translate spanish b1c08cs08_ll_spanking_d643c708:
 

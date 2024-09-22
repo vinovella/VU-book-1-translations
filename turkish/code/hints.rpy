@@ -981,9 +981,18 @@ translate turkish strings:
     new "Delphia senin üzerine işemez. Onun yerine onu becer."
 
     # game/code/hints.rpy:11
-    old "You creampie {} and make her cum as well."
-    new "Sen {}'e boşal ve onu da boşalt."
+    old "You creampie Zemfira and make her cum as well."
+    new "Sen Zemfira'e boşal ve onu da boşalt."
 
     # game/code/hints.rpy:11
-    old "You keep going. You'll get to creampie {}."
-    new "Devam et. Boşalacaksın {}."
+    old "You creampie Nia and make her cum as well."
+    new "Sen Nia'e boşal ve onu da boşalt."
+
+    # game/code/hints.rpy:11
+    old "You keep going. You'll get to creampie Zemfira."
+    new "Devam et. Boşalacaksın Zemfira."
+
+    # game/code/hints.rpy:11
+    old "You keep going. You'll get to creampie Silvia."
+    new "Devam et. Boşalacaksın Silvia."
+

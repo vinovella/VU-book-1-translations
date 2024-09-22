@@ -1274,8 +1274,6 @@ translate spanish strings:
     old "Mime that you conducted an orchestra"
     new "Haz una mímica de que diriges una orquesta"
 
-
-
 # game/code/Book-1/Chapter-8w/s02.rpy:154
 translate spanish b1c08ws02_1a4f6af9:
 
