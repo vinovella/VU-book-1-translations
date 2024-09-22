@@ -14,7 +14,7 @@ translate spanish b1c08ws06_65c1115a:
 translate spanish b1c08ws06_40aea990:
 
     # mc "What's going on that's so sec—"
-    mc "¿Qué está pasando que es tan seg...?"
+    mc "Qué está pasando que es tan..."
 
 # game/code/Book-1/Chapter-8w/s06.rpy:16
 translate spanish b1c08ws06_845eb9f1:
@@ -38,7 +38,7 @@ translate spanish b1c08ws06_3578c1a5:
 translate spanish b1c08ws06_53ce1d55:
 
     # ir "If we're gonna do this, we're gonna do it as a team or not at all."
-    ir "Si vamos a hacer esto, lo haremos en equipo o no lo haremos."
+    ir "Si vamos a hacer esto, lo haremos como un equipo o no lo haremos."
 
 # game/code/Book-1/Chapter-8w/s06.rpy:26
 translate spanish b1c08ws06_7df1145a:
@@ -80,7 +80,7 @@ translate spanish b1c08ws06_85c29601:
 translate spanish b1c08ws06_5604bc01:
 
     # mm "Oh please, not this again. We're The Winners. We'll do what it takes to win no matter what. We always have."
-    mm "Oh, por favor, esto otra vez no. Somos los ganadores. Haremos lo que sea necesario para ganar pase lo que pase. Nosotros siempre lo hacemos."
+    mm "Oh, por favor, esto otra vez no. Somos Los Ganadores. Haremos lo que sea necesario para ganar pase lo que pase. Nosotros siempre lo hacemos."
 
 # game/code/Book-1/Chapter-8w/s06.rpy:42
 translate spanish b1c08ws06_e5c39a9a:
@@ -188,7 +188,7 @@ translate spanish b1c08ws06_2d5f4eaf:
 translate spanish b1c08ws06_1df02881:
 
     # mc "I've seen what we can do out in the field."
-    mc "He visto lo que podemos hacer en el campo."
+    mc "He visto lo que podemos hacer en la cancha."
 
 # game/code/Book-1/Chapter-8w/s06.rpy:92
 translate spanish b1c08ws06_2de5daed:
@@ -261,6 +261,12 @@ translate spanish b1c08ws06_f64b5bda:
 
     # ir "Let's get this over with."
     ir "Terminemos con esto."
+
+# game/code/Book-1/Chapter-8w/s06.rpy:133
+translate spanish b1c08ws06_6babed16:
+
+    # ba "Sit down. It'll be easier."
+    ba "Siéntate. Será más fácil."
 
 # game/code/Book-1/Chapter-8w/s06.rpy:140
 translate spanish b1c08ws06_f6899a69:
@@ -344,9 +350,11 @@ translate spanish strings:
     old "Go for it"
     new "Hazlo"
 
+
+
 # game/code/Book-1/Chapter-8w/s06.rpy:137
 translate spanish b1c08ws06_08e0644c:
 
     # ba "C'mon, shirt off."
-    ba "C'mon, shirt off."
+    ba "Vamos, quítate la camisa."
 
