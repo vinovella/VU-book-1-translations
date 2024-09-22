@@ -578,5 +578,5 @@ translate turkish strings:
 
     # game/code/Book-1/Chapter-8s/s02.rpy:8
     old "At Guns n' Rosette"
-    new "At Guns n' Rosette"
+    new "Guns n' Rosette'de "
 
