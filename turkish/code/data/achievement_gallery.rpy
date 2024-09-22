@@ -26,7 +26,7 @@
 
     # game/code/data/achievement_gallery.rpy:5
     old "04: Queen Bae"
-    new "04: Queen Bae"
+    new "04: Kraliçe Bae"
 
     # game/code/data/achievement_gallery.rpy:5
     old "Play Isa's path."
@@ -42,7 +42,7 @@
 
     # game/code/data/achievement_gallery.rpy:5
     old "06: Blood and Boners"
-    new "06: Blood and Boners"
+    new "06: Kan ve Kemikler"
 
     # game/code/data/achievement_gallery.rpy:5
     old "Play Delphia's path."
@@ -234,7 +234,7 @@
 
     # game/code/data/achievement_gallery.rpy:5
     old "30: Hacker's Delight"
-    new "30: Hacker's Delight"
+    new "30: Hacker'ın Lokumu"
 
     # game/code/data/achievement_gallery.rpy:5
     old "Click the Butcher's street background character."
