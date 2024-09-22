@@ -176,7 +176,7 @@ translate spanish b1c08cs11_422ab299:
 translate spanish b1c08cs11_8ee537aa:
 
     # ih "Fuck yes. Breed me like the filthy whore I am. Fill me up. Make me your good little cumdump."
-    ih "Joder, sí. Cógeme como la puta asquerosa que soy. Lléname. Conviérteme en tu pequeño depósito de semen."
+    ih "Joder, sí. Fóllame como la puta asquerosa que soy. Lléname. Conviérteme en tu pequeño depósito de semen."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:156
 translate spanish b1c08cs11_01e8e7d9:
@@ -194,13 +194,13 @@ translate spanish b1c08cs11_87b7ba46:
 translate spanish b1c08cs11_48f37e91:
 
     # "The sensation is intoxicating—her warmth enveloping you, molding to every inch of you."
-    "La sensación es embriagadora: su calidez te envuelve y se adapta a cada centímetro de ti."
+    "La sensación es embriagadora... su calidez te envuelve y se adapta a cada centímetro de ti."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:164
 translate spanish b1c08cs11_0283e31c:
 
     # "The air thick with the scent of lust and pine, the moon above as if blessing this unholy union."
-    "El aire está denso con el aroma de la lujuria y el pino, la luna arriba como si bendijera esta unión impía."
+    "El aire espeso con el olor de la lujuria y el pino, la luna por lo alto como si bendijera esta unión impía."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:167
 translate spanish b1c08cs11_06470ff1:
@@ -266,7 +266,7 @@ translate spanish b1c08cs11_f9c2c70a:
 translate spanish b1c08cs11_c5c02c60:
 
     # "You lift your hand and bring it down on her ass with a resounding smack, the red welt forming almost instantly."
-    "Levantas la mano y la bajas sobre su trasero con un golpe sonoro, la roncha roja se forma casi al instante."
+    "Levanta la mano y se la pone en el culo con un sonoro golpe, formándose casi al instante una roncha roja."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:204
 translate spanish b1c08cs11_380ed44e:
@@ -332,7 +332,7 @@ translate spanish b1c08cs11_bd012710:
 translate spanish b1c08cs11_dbcef61f:
 
     # ih "I want you to. I want to feel your seed in me days after."
-    ih "Quiero que lo hagas. Quiero sentir tu semilla adentro de mí días después."
+    ih "Quiero que lo hagas. Quiero sentir tu semilla dentro de mí días después."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:239
 translate spanish b1c08cs11_6ea548bb:
@@ -356,7 +356,7 @@ translate spanish b1c08cs11_4e71724b:
 translate spanish b1c08cs11_16802c37:
 
     # "You feel her muscles clench around you, as if trying to milk you right then and there."
-    "Sientes que sus músculos se tensan a tu alrededor, como si intentara ordeñarte en ese mismo momento."
+    "Sientes cómo sus músculos se aprietan a tu alrededor, como si quisieran ordeñarte en ese mismo instante."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:245
 translate spanish b1c08cs11_ae426b27:
@@ -418,6 +418,12 @@ translate spanish b1c08cs11_dcac1483:
     # "You slide your hands down to her perfect ass and dig your fingers into her skin."
     "Deslizas tus manos hasta su culo perfecto y clavas tus dedos en su piel."
 
+# game/code/Book-1/Chapter-8c/s11.rpy:269
+translate spanish b1c08cs11_66c949c3:
+
+    # "Ivy clings to you, and nuzzles into your shoulder. Her shallow breaths warm your shoulder."
+    "Ivy se aferra a ti y acaricia tu hombro. Sus respiraciones superficiales calientan tu hombro."
+
 # game/code/Book-1/Chapter-8c/s11.rpy:272
 translate spanish b1c08cs11_3bb4cde6:
 
@@ -453,6 +459,12 @@ translate spanish b1c08cs11_69d0dfcd:
 
     # "Ivy's orgasm rips through both of your bodies. Her walls convulse so tightly around you it almost hurts."
     "El orgasmo de Ivy desgarra ambos cuerpos. Sus paredes se convulsionan con tanta fuerza a tu alrededor que casi duele."
+
+# game/code/Book-1/Chapter-8c/s11.rpy:294
+translate spanish b1c08cs11_ab8d606b:
+
+    # "The layered sensation of her warm body pressed against you, her body milking you so thoroughly—You can't hold back anymore."
+    "La sensación en capas de su cuerpo caliente apretado contra ti, su cuerpo ordeñándote tan a fondo... No puedes contenerte más."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:296
 translate spanish b1c08cs11_80d66ded:
@@ -536,7 +548,7 @@ translate spanish b1c08cs11_461bf4b2:
 translate spanish b1c08cs11_5da57e64:
 
     # ih "I hope the full moon bears fruit."
-    ih "Espero que la luna llena dé frutos."
+    ih "Espero que la luna llena dé sus frutos."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:332
 translate spanish b1c08cs11_b2b9e19d:
@@ -602,7 +614,7 @@ translate spanish b1c08cs11_071cb4ec:
 translate spanish b1c08cs11_dfcbf0e6:
 
     # mc "Is what we just did considered {i}humbling{/i}?"
-    mc "¿Lo que acabamos de hacer se considera {i}humillante{/i}?"
+    mc "¿Lo que acabamos de hacer se considera {i}humilde{/i}?"
 
 # game/code/Book-1/Chapter-8c/s11.rpy:357
 translate spanish b1c08cs11_63d7f23d:
@@ -639,16 +651,4 @@ translate spanish b1c08cs11_33a818c3:
 
     # "You're easily coaxed into sleep."
     "Te convencen fácilmente para que te duermas."
-
-# game/code/Book-1/Chapter-8c/s11.rpy:292
-translate spanish b1c08cs11_0f63ae30:
-
-    # "Ivy clings to you, and nuzzles into your shoulder. Her shallow breaths warm your skin."
-    "Ivy se aferra a ti y se acurruca en tu hombro. Su respiración superficial te acaricia la piel."
-
-# game/code/Book-1/Chapter-8c/s11.rpy:321
-translate spanish b1c08cs11_418e2ba3:
-
-    # "The layered sensation of her warm body pressed against you, milking you so thoroughly—You can't hold back anymore."
-    "La sensación de su cálido cuerpo apretado contra ti, ordeñándote tan a fondo... No puedes contenerte más."
 
