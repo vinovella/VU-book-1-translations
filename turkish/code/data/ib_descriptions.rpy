@@ -868,105 +868,105 @@ translate turkish strings:
 
     # game/code/data/ib_descriptions.rpy:2
     old "Bonded with Nia and Zemfira over their missing friends."
-    new "Bonded with Nia and Zemfira over their missing friends."
+    new "Kayıp arkadaşları için Nia ve Zemfira ile bağ kurdu."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Bonded with Silvia and Nia over their missing friends."
-    new "Bonded with Silvia and Nia over their missing friends."
+    new "Kayıp arkadaşları için Silvia ve Nia ile bağ kurdu."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Bonded with Zemfira and Silvia over their missing friends."
-    new "Bonded with Zemfira and Silvia over their missing friends."
+    new "Kayıp arkadaşları için Zemfira ve Silvia ile bağ kurdu."
 
     # game/code/data/ib_descriptions.rpy:2
     old "She is into rope play and watersports."
-    new "She is into rope play and watersports."
+    new "İp oyunları ve su sporlarıyla ilgileniyor."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Friends with Olesya."
-    new "Friends with Olesya."
+    new "Olesya ile arkadaş."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Iona is into voyeurism/public sex."
-    new "Iona is into voyeurism/public sex."
+    new "Iona röntgencilik/halka açık seksle ilgileniyor."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Half-sibling of Monika."
-    new "Half-sibling of Monika."
+    new "Monika'nın üvey kardeşi."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Friends with Josie."
-    new "Friends with Josie."
+    new "Josie ile arkadaş"
 
     # game/code/data/ib_descriptions.rpy:2
     old "Has secret conversations with Prof. Harlan."
-    new "Has secret conversations with Prof. Harlan."
+    new "Prof. Harlan ile gizli konuşmalar yapıyor."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Fleur likes to be soft dommed."
-    new "Fleur likes to be soft dommed."
+    new "Fleur yumuşak dommed seviyor."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Lilith helps Asami with the party planning, and Foxy with managing the fighters."
-    new "Lilith helps Asami with the party planning, and Foxy with managing the fighters."
+    new "Lilith parti planlamasında Asami'ye yardım ediyor ve Foxy de savaşçıları yönetiyor."
 
     # game/code/data/ib_descriptions.rpy:2
     old "The cult is pressuring Eliina to get pregnant."
-    new "The cult is pressuring Eliina to get pregnant."
+    new "Tarikat Eliina'ya hamile kalması için baskı yapıyor."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Winner's Club's party host."
-    new "Winner's Club's party host."
+    new "Kazananlar Kulübü'nün parti sunucusu."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Has a file drawer in the employee section of the fight club."
-    new "Has a file drawer in the employee section of the fight club."
+    new "Dövüş kulübünün çalışanlar bölümünde bir dosya çekmecesi var."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Keeps random trash in her file drawer."
-    new "Keeps random trash in her file drawer."
+    new "Dosya çekmecesinde rastgele çöpler bulunduruyor."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Gabbie has possession of Leia's phone."
-    new "Gabbie has possession of Leia's phone."
+    new "Gabbie, Leia'nın telefonuna sahip."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Gabbie had conflict with Leia."
-    new "Gabbie had conflict with Leia."
+    new "Gabbie, Leia ile anlaşmazlık yaşadı."
 
     # game/code/data/ib_descriptions.rpy:2
     old "#1 suspect in Leia's disappearance."
-    new "#1 suspect in Leia's disappearance."
+    new "#1 Leia'nın kaybolmasında bir numaralı şüpheli."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Knows that Brig passes out drugs to the Winners. Seems to encourage it."
-    new "Knows that Brig passes out drugs to the Winners. Seems to encourage it."
+    new "Brig'in Kazananlar'a uyuşturucu dağıttığını biliyor. Bunu teşvik ediyor gibi görünüyor."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Something happened with Klara."
-    new "Something happened with Klara."
+    new "Klara'ya bir şey oldu."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Harlan had conflict with Klara."
-    new "Harlan had conflict with Klara."
+    new "Harlan Klara ile anlaşmazlık yaşadı."
 
     # game/code/data/ib_descriptions.rpy:2
     old "He is the #1 suspect in Klara's disappearance."
-    new "He is the #1 suspect in Klara's disappearance."
+    new "Klara'nın kaybolmasında 1 numaralı şüpheli o."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Seems to be a high-ranking member of the cult."
-    new "Seems to be a high-ranking member of the cult."
+    new "Tarikatın yüksek rütbeli bir üyesi gibi görünüyor."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Had a conflict with a crazy ex or something."
-    new "Had a conflict with a crazy ex or something."
+    new "Çılgın eski sevgilisiyle bir anlaşmazlık yaşadı."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Kara did not have a crazy ex. She had conflict with Maria."
-    new "Kara did not have a crazy ex. She had conflict with Maria."
+    new "Kara'nın çılgın bir eski sevgilisi yoktu. Maria ile anlaşmazlık yaşadı."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Kara is #1 suspect in Maria's disappearance."
-    new "Kara is #1 suspect in Maria's disappearance."
+    new "Kara, Maria'nın kayboluşunda #1 numaralı şüpheli."
 
