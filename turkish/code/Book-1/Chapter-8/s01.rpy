@@ -1404,7 +1404,7 @@ translate turkish strings:
 translate turkish b1c08s01_continue_8fbdda7e:
 
     # mc "I got some leads, but I haven't had the time to go deeper into them."
-    mc "I got some leads, but I haven't had the time to go deeper into them."
+    mc "Bazı ipuçlarım var ama onları derinlemesine inceleyecek zamanım olmadı."
 
 # game/code/Book-1/Chapter-8/s01.rpy:246
 translate turkish b1c08s01_end_15b093d8:
@@ -1416,47 +1416,47 @@ translate turkish b1c08s01_end_15b093d8:
 translate turkish b1c08s01_recap_c06c_2d90b0b2:
 
     # "You begin your recap on The Self-Help Group, going over everything that you've witnessed in great detail."
-    "You begin your recap on The Self-Help Group, going over everything that you've witnessed in great detail."
+    "Bir dahaki sefere aldığımız kahve miktarını en az iki katına çıkarmalıyız."
 
 # game/code/Book-1/Chapter-8/s01.rpy:666
 translate turkish b1c08s01_recap_c07s_89a181b0:
 
     # mc "I had a bit of a scuffle at Rory's with someone named Cade. Someone from a rival gang called The Wasps."
-    mc "I had a bit of a scuffle at Rory's with someone named Cade. Someone from a rival gang called The Wasps."
+    mc "Rory'nin evinde Cade adında biriyle biraz itişip kakıştım. Eşekarısı denen rakip çeteden biriyle."
 
 # game/code/Book-1/Chapter-8/s01.rpy:667
 translate turkish b1c08s01_recap_c07s_53eb8627:
 
     # pm "Are you okay?"
-    pm "Are you okay?"
+    pm "Sen iyi misin?"
 
 # game/code/Book-1/Chapter-8/s01.rpy:668
 translate turkish b1c08s01_recap_c07s_d1fd0311:
 
     # mc "I'm fine. You should've seen the other guy. {w}Anyway. After Rory, I met up with Morgan."
-    mc "I'm fine. You should've seen the other guy. {w}Anyway. After Rory, I met up with Morgan."
+    mc "Ben iyiyim. Diğer adamı görmeliydin. {Neyse. Rory'den sonra Morgan'la buluştum."
 
 # game/code/Book-1/Chapter-8/s01.rpy:676
 translate turkish b1c08s01_recap_c07s_89a181b0_1:
 
     # mc "I had a bit of a scuffle at Rory's with someone named Cade. Someone from a rival gang called The Wasps."
-    mc "I had a bit of a scuffle at Rory's with someone named Cade. Someone from a rival gang called The Wasps."
+    mc "Rory'nin evinde Cade adında biriyle biraz itişip kakıştım. Eşekarısı denen rakip çeteden biriyle."
 
 # game/code/Book-1/Chapter-8/s01.rpy:677
 translate turkish b1c08s01_recap_c07s_53eb8627_1:
 
     # pm "Are you okay?"
-    pm "Are you okay?"
+    pm "Sen iyi misin?"
 
 # game/code/Book-1/Chapter-8/s01.rpy:678
 translate turkish b1c08s01_recap_c07s_083f51aa:
 
     # mc "I'm fine. You should've seen the other guy. {w}Anyway. After Rory, I met up with Corrine."
-    mc "I'm fine. You should've seen the other guy. {w}Anyway. After Rory, I met up with Corrine."
+    mc "Ben iyiyim. Diğer adamı görmeliydin. {Neyse. Rory'den sonra Corrine ile buluştum."
 
 # game/code/Book-1/Chapter-8/s01.rpy:688
 translate turkish b1c08s01_recap_c08s_745fd50b:
 
     # mc "After all that, Cade and some goons from The Wasps decided to kidnap some Syndicate members. That was my ticket in with them."
-    mc "After all that, Cade and some goons from The Wasps decided to kidnap some Syndicate members. That was my ticket in with them."
+    mc "Tüm bunlardan sonra, Cade ve Eşekarısı'ndan bazı serseriler bazı Sendika üyelerini kaçırmaya karar verdi. Bu benim onlara giriş biletimdi."
 
