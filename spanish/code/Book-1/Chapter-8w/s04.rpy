@@ -2,7 +2,7 @@
 translate spanish b1c08ws04_3f673793:
 
     # mm "Well, well, well. Took you long enough."
-    mm "Bien, bien, bien. Te tomo bastante tiempo."
+    mm "Bien, bien, bien. Te tomó bastante tiempo."
 
 # game/code/Book-1/Chapter-8w/s04.rpy:39
 translate spanish b1c08ws04_8e0070fb:
@@ -32,7 +32,7 @@ translate spanish b1c08ws04_668caeda:
 translate spanish b1c08ws04_b8efc5bc:
 
     # mc "Why'd you pick to bunk with us if you knew he snored like that anyway?"
-    mc "¿Por qué elegiste dormir con nosotros si sabías que él roncaba así de todos modos?"
+    mc "¿Por qué elegiste dormir con nosotros si sabías que roncaba de esa manera?"
 
 # game/code/Book-1/Chapter-8w/s04.rpy:52
 translate spanish b1c08ws04_6f6001ee:
@@ -44,7 +44,7 @@ translate spanish b1c08ws04_6f6001ee:
 translate spanish b1c08ws04_116f68e7:
 
     # mm "*Gasps* Victim blaming much?"
-    mm "*Jadea* ¿Víctima culpando mucho?"
+    mm "*Jadea* ¿Mucha culpa de quién es la víctima?"
 
 # game/code/Book-1/Chapter-8w/s04.rpy:57
 translate spanish b1c08ws04_c1aacbe1:
@@ -56,7 +56,7 @@ translate spanish b1c08ws04_c1aacbe1:
 translate spanish b1c08ws04_e8e0ec25:
 
     # mm "And no. I didn't know he sounded like a freight train when he slept. First time I'm even seeing him passed out."
-    mm "Y no. No sabía que sonaba como un tren de carga cuando dormía. Es la primera vez que lo veo desmayado."
+    mm "Y no. No sabía que sonaba como un tren de carga cuando dormía. Es la primera vez que lo veo durmiendo."
 
 # game/code/Book-1/Chapter-8w/s04.rpy:64
 translate spanish b1c08ws04_e0fc126b:
@@ -69,6 +69,12 @@ translate spanish b1c08ws04_ea7f8e5e:
 
     # mc "Well, that's just unfortunate."
     mc "Bueno, eso es simplemente desafortunado."
+
+# game/code/Book-1/Chapter-8w/s04.rpy:66
+translate spanish b1c08ws04_8f974146:
+
+    # "Monika thins her lips and smirks at you behind your back. She drags out her words."
+    "Mónica frunce los labios y te sonríe a tus espaldas. Ella prolonga sus palabras."
 
 # game/code/Book-1/Chapter-8w/s04.rpy:69
 translate spanish b1c08ws04_5b75068d:
@@ -212,7 +218,7 @@ translate spanish b1c08ws04_continue_07529d13:
 translate spanish b1c08ws04_continue_cf98262e:
 
     # mm "How serious is your thing with Iona anyway?"
-    mm "¿Qué tan serio es tu asunto con Iona de todos modos?"
+    mm "¿Qué tan serio es tu asunto con Iona?"
 
 # game/code/Book-1/Chapter-8w/s04.rpy:145
 translate spanish b1c08ws04_continue_1ce8210c:
@@ -298,11 +304,23 @@ translate spanish b1c08ws04_sex_fb44488f:
     # "Monika runs her hand down your chest, gently caressing and teasing you with her touch."
     "Mónica pasa su mano por tu pecho, acariciándote suavemente y provocándote con su toque."
 
+# game/code/Book-1/Chapter-8w/s04.rpy:200
+translate spanish b1c08ws04_sex_16ca74aa:
+
+    # "She pinches your nipple playfully, making you start, before resting her other hand on your waist."
+    "Ella pellizca tu pezón juguetonamente, haciéndote sobresaltar, antes de apoyar su otra mano en tu cintura."
+
 # game/code/Book-1/Chapter-8w/s04.rpy:203
 translate spanish b1c08ws04_sex_0a7270e5:
 
     # "Monika giggles at your surprise then slides her hand over your growing bulge, feeling your warmth and massaging your arousal."
     "Mónica se ríe ante tu sorpresa y luego desliza su mano sobre tu creciente bulto, sintiendo tu calidez y masajeando tu excitación."
+
+# game/code/Book-1/Chapter-8w/s04.rpy:206
+translate spanish b1c08ws04_sex_fc22140a:
+
+    # "Her excitement is evident as nuzzles against your skin, her hot breath singeing you in pleasure and making you arch your back and push your hips into her."
+    "Su excitación es evidente mientras se acaricia contra tu piel, su aliento caliente te chamusca de placer y te hace arquear la espalda y empujar tus caderas hacia ella."
 
 # game/code/Book-1/Chapter-8w/s04.rpy:209
 translate spanish b1c08ws04_sex_8e315aab:
@@ -436,6 +454,12 @@ translate spanish b1c08ws04_sex_1737dc29:
     # "Monika cums around your cock, greedily pulling you and begging for your cum. But with monumental effort, you manage to pull out of her just in time to cover her with your cum."
     "Mónica se corre alrededor de tu polla, tirando de ti con avidez y rogando por tu semen. Pero con un esfuerzo monumental, logras salir de ella justo a tiempo para cubrirla con tu semen."
 
+# game/code/Book-1/Chapter-8w/s04.rpy:312
+translate spanish b1c08ws04_sex_c3e85c46:
+
+    # "Her body goes limp on top of you as you feel her orgasm rip through her body. You grab her and hold her steady, breathless and satisfied in each other's arms."
+    "Su cuerpo se queda flácido sobre ti al sentir cómo el orgasmo le desgarra el cuerpo. La agarras y la mantienes firme, sin aliento y satisfecha en los brazos del otro."
+
 # game/code/Book-1/Chapter-8w/s04.rpy:320
 translate spanish b1c08ws04_sex_14a3c03d:
 
@@ -482,7 +506,7 @@ translate spanish b1c08ws04_sex_41b47d8c:
 translate spanish b1c08ws04_sex_d0a81245:
 
     # "Monika shakes with laughter, her body warm against yours."
-    "Mónica tiembla de risa, su cuerpo cálido junto al tuyo."
+    "Mónica tiembla de risa, con su cuerpo cálido junto al tuyo."
 
 # game/code/Book-1/Chapter-8w/s04.rpy:340
 translate spanish b1c08ws04_sex_d400e8b4:
@@ -548,7 +572,7 @@ translate spanish b1c08ws04_sex_04ba645d:
 translate spanish b1c08ws04_sex_1e2177b8:
 
     # mc "Meltdown?"
-    mc "¿Derretimiento?"
+    mc "¿Colapso?"
 
 # game/code/Book-1/Chapter-8w/s04.rpy:372
 translate spanish b1c08ws04_sex_5044b1fd:
@@ -586,33 +610,9 @@ translate spanish strings:
 
     # game/code/Book-1/Chapter-8w/s04.rpy:156
     old "Give into Monika's temptations"
-    new "Cede a las tentaciones de Mónica."
+    new "Cede a las tentaciones de Mónica"
 
     # game/code/Book-1/Chapter-8w/s04.rpy:156
     old "Push Monika away"
     new "Aleja a Mónica"
-
-# game/code/Book-1/Chapter-8w/s04.rpy:73
-translate spanish b1c08ws04_4d33a885:
-
-    # "Monika thins her lips and smirks at you. She drags out her words."
-    "Monika thins her lips and smirks at you. She drags out her words."
-
-# game/code/Book-1/Chapter-8w/s04.rpy:218
-translate spanish b1c08ws04_sex_213eaa6c:
-
-    # "She pinches your nipple playfully, making you startle, before resting her other hand on your waist."
-    "She pinches your nipple playfully, making you startle, before resting her other hand on your waist."
-
-# game/code/Book-1/Chapter-8w/s04.rpy:224
-translate spanish b1c08ws04_sex_5c3af901:
-
-    # "Her excitement is evident as she nuzzles against your skin, her hot breath singeing you in pleasure and making you arch your back and push your hips into her."
-    "Her excitement is evident as she nuzzles against your skin, her hot breath singeing you in pleasure and making you arch your back and push your hips into her."
-
-# game/code/Book-1/Chapter-8w/s04.rpy:341
-translate spanish b1c08ws04_sex_a49d7f08:
-
-    # "Her body goes limp on top of you as you feel her orgasm rip through her. You grab her and hold her steady, breathless and satisfied in each other's arms."
-    "Her body goes limp on top of you as you feel her orgasm rip through her. You grab her and hold her steady, breathless and satisfied in each other's arms."
 
