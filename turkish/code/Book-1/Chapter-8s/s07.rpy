@@ -1216,5 +1216,5 @@ translate turkish strings:
 translate turkish b1c08ss07_after_pegging_9c1ca661:
 
     # "Your guarded expression reveals your skepticism."
-    "Your guarded expression reveals your skepticism."
+    "İhtiyatlı ifadeniz şüpheciliğinizi ortaya koyuyor."
 
