@@ -564,5 +564,5 @@ translate turkish strings:
 translate turkish b1c08ss06_66242071:
 
     # "It's doubtful they've had more than a few moments out of these binds since their capture."
-    "It's doubtful they've had more than a few moments out of these binds since their capture."
+    "Yakalandıklarından beri bu bağların dışında birkaç dakikadan fazla zaman geçirdikleri şüpheli."
 
