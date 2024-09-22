@@ -460,11 +460,17 @@ translate spanish b1c08cs11_69d0dfcd:
     # "Ivy's orgasm rips through both of your bodies. Her walls convulse so tightly around you it almost hurts."
     "El orgasmo de Ivy desgarra ambos cuerpos. Sus paredes se convulsionan con tanta fuerza a tu alrededor que casi duele."
 
-# game/code/Book-1/Chapter-8c/s11.rpy:294
-translate spanish b1c08cs11_ab8d606b:
+# game/code/Book-1/Chapter-8c/s11.rpy:292
+translate spanish b1c08cs11_0f63ae30:
 
-    # "The layered sensation of her warm body pressed against you, her body milking you so thoroughly—You can't hold back anymore."
-    "La sensación en capas de su cuerpo caliente apretado contra ti, su cuerpo ordeñándote tan a fondo... No puedes contenerte más."
+    # "Ivy clings to you, and nuzzles into your shoulder. Her shallow breaths warm your skin."
+    "Ivy se aferra a ti y se acurruca en tu hombro. Su respiración superficial te acaricia la piel."
+
+# game/code/Book-1/Chapter-8c/s11.rpy:321
+translate spanish b1c08cs11_418e2ba3:
+
+    # "The layered sensation of her warm body pressed against you, milking you so thoroughly—You can't hold back anymore."
+    "La sensación de su cálido cuerpo apretado contra ti, ordeñándote tan a fondo... No puedes contenerte más."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:296
 translate spanish b1c08cs11_80d66ded:
