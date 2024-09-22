@@ -134,7 +134,7 @@ translate spanish b1c08ws01_5aed0ba4:
 translate spanish b1c08ws01_005ca607:
 
     # pjh "*Grunts*"
-    pjh "*gruñidos*"
+    pjh "*Gruñidos*"
 
 # game/code/Book-1/Chapter-8w/s01.rpy:111
 translate spanish b1c08ws01_b9dc6fe9:
@@ -158,7 +158,7 @@ translate spanish b1c08ws01_eb239fdc:
 translate spanish b1c08ws01_b6a4d03a:
 
     # sm "Hm? Oh, Professor Harlan. He's an alumnus of VU and the Winners actually."
-    sm "¿Mmm? Ah, profesor Harlan. En realidad, es un alumno de VU y de los Ganadores."
+    sm "¿Mmm? Ah, el profesor Harlan. En realidad, es un alumno de VU y de los Ganadores."
 
 # game/code/Book-1/Chapter-8w/s01.rpy:125
 translate spanish b1c08ws01_a31340dd:
@@ -170,7 +170,7 @@ translate spanish b1c08ws01_a31340dd:
 translate spanish b1c08ws01_26528d76:
 
     # mc "{i}He{/i} was in the Winners? Guy looks like he'd be a predator to up-and-coming actors."
-    mc "¿{i}Él{/i} estaba en los Ganadores? El tipo parece un depredador de actores prometedores."
+    mc "¿{i}Él{/i} estaba en los Ganadores? El tipo parece un depredador de jóvenes prometedores."
 
 # game/code/Book-1/Chapter-8w/s01.rpy:129
 translate spanish b1c08ws01_667f2210:
@@ -212,7 +212,7 @@ translate spanish b1c08ws01_9248243d:
 translate spanish b1c08ws01_b9183bd8:
 
     # pjh "*Grunts* I need one of you to break my back in at least four places. Who's up for it?"
-    pjh "*gruñe* Necesito que alguno de ustedes me rompa la espalda en al menos cuatro lugares. ¿Quién se apunta?"
+    pjh "*Gruñe* Necesito que alguno de ustedes me rompa la espalda en al menos cuatro lugares. ¿Quién se apunta?"
 
 # game/code/Book-1/Chapter-8w/s01.rpy:144
 translate spanish b1c08ws01_a35cbcdd:
@@ -230,7 +230,7 @@ translate spanish b1c08ws01_63cdc2be:
 translate spanish b1c08ws01_78789ae0:
 
     # pjh "Alright. I'm not very good with these speech things and I have to go soon anyway, so I'll leave that up to Miss Shontae here."
-    pjh "De acuerdo. No soy muy bueno con estas cosas del discurso y tengo que irme pronto de todos modos, así que se lo dejaré a la señorita Shontae."
+    pjh "De acuerdo. No soy muy bueno con estas cosas del discurso y tengo que irme pronto de todos modos, así que se lo dejaré a la Señorita Shontae."
 
 # game/code/Book-1/Chapter-8w/s01.rpy:150
 translate spanish b1c08ws01_299c22e5:
