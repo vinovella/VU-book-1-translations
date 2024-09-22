@@ -1410,7 +1410,7 @@ translate turkish b1c08s01_continue_8fbdda7e:
 translate turkish b1c08s01_end_15b093d8:
 
     # mc "Next time we need to at least double the amount of coffee we got."
-    mc "Next time we need to at least double the amount of coffee we got."
+    mc "Bir dahaki sefere aldığımız kahve miktarını en az iki katına çıkarmalıyız."
 
 # game/code/Book-1/Chapter-8/s01.rpy:435
 translate turkish b1c08s01_recap_c06c_2d90b0b2:
