@@ -806,5 +806,5 @@ translate turkish b1c08ss10_335c29c7:
 translate turkish b1c08ss10_5ae95222:
 
     # "Zemfira grabs you passionately."
-    "Zemfira grabs you passionately."
+    "Zemfira seni tutkuyla yakalar."
 
