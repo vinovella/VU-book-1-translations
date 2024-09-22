@@ -416,5 +416,5 @@ translate turkish strings:
 translate turkish b1c08cs05_0c2801b5:
 
     # "Lumi's still fast asleep, thoroughly worn out after tonight's activities."
-    "Lumi's still fast asleep, thoroughly worn out after tonight's activities."
+    "Lumi hala derin uykuda, bu geceki aktivitelerden sonra iyice bitkin düşmüş."
 
