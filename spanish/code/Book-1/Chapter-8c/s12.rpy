@@ -218,7 +218,7 @@ translate spanish b1c08cs12_54ce99e5:
 translate spanish b1c08cs12_7a77c6d1:
 
     # mc "You said their \"passion\" was because they cared. They pushed Lumi because they cared. That Lumi needed that push."
-    mc "Dijiste que su \"pasión\" era porque les importaba. Empujaron a Lumi porque les importaba. Esa Lumi necesitaba ese empujón."
+    mc "Dijiste que su \"pasión\" era porque les importaba. Empujaron a Lumi porque les importaba. Que Lumi necesitaba ese empujón."
 
 # game/code/Book-1/Chapter-8c/s12.rpy:158
 translate spanish b1c08cs12_fdf5bd3f:
@@ -230,7 +230,7 @@ translate spanish b1c08cs12_fdf5bd3f:
 translate spanish b1c08cs12_bdf0d0a8:
 
     # nv "No... He— It's not the same. He pushes me for his own gain, he keeps me down so that he can control me."
-    nv "No... Él... No es lo mismo. Me empuja para su propio beneficio, me mantiene abajo para poder controlarme."
+    nv "No... Él... No es lo mismo. Me presiona para su propio beneficio, me mantiene oprimida para poder controlarme."
 
 # game/code/Book-1/Chapter-8c/s12.rpy:162
 translate spanish b1c08cs12_af89c2be:
@@ -242,7 +242,7 @@ translate spanish b1c08cs12_af89c2be:
 translate spanish b1c08cs12_3d74f4b0:
 
     # mct "How can she not see that they're trying to control her just the same?"
-    mct "¿Cómo es posible que no se dé cuenta de que de todos modos están intentando controlarla?"
+    mct "¿Cómo es posible que no vea que intentan controlarla de la misma manera?"
 
 # game/code/Book-1/Chapter-8c/s12.rpy:167
 translate spanish b1c08cs12_9f9a989a:
@@ -356,7 +356,7 @@ translate spanish b1c08cs12_45305515:
 translate spanish b1c08cs12_b75d44c8:
 
     # mct "Lumi? Delphia?"
-    mct "¿Lumi? ¿Delfia?"
+    mct "¿Lumi? ¿Delphia?"
 
 # game/code/Book-1/Chapter-8c/s12.rpy:207
 translate spanish b1c08cs12_d0420439:
