@@ -830,7 +830,7 @@ translate turkish b1c09s04_continue_a42829d9:
 translate turkish b1c09s04_continue_e868cc44:
 
     # mc "Mm. So fucking greedy."
-    mc "Mm. So fucking greedy."
+    mc "Mm. Çok açgözlüsün."
 
 # game/code/Book-1/Chapter-9/s04.rpy:611
 translate turkish b1c09s04_continue_22ac683b:
