@@ -104,7 +104,7 @@ translate spanish b1c08ws05_71a2aba4:
 translate spanish b1c08ws05_0fbc3fbe:
 
     # sl "Exactly. Shontae's gonna be on our collective asses if we aren't out there."
-    sl "Exactamente. Shontae estará sobre nuestros traseros colectivos si no estamos ahí afuera."
+    sl "Exactamente. Shontae estará sobre nuestros traseros si no estamos ahí afuera."
 
 # game/code/Book-1/Chapter-8w/s05.rpy:78
 translate spanish b1c08ws05_e28ad1e8:
@@ -170,13 +170,13 @@ translate spanish b1c08ws05_0855eb0b:
 translate spanish b1c08ws05_6682b168:
 
     # ec "*Giggles* Of course, we love to admire your team. Such talent."
-    ec "*Risitas* Por supuesto, nos encanta admirar a tu equipo. Qué talento."
+    ec "*Risitas* Por supuesto, nos encanta admirar a su equipo. Tanto talento."
 
 # game/code/Book-1/Chapter-8w/s05.rpy:139
 translate spanish b1c08ws05_94f4a06c:
 
     # don "And such...form."
-    don "Y tal... forma."
+    don "Y tan... en forma."
 
 # game/code/Book-1/Chapter-8w/s05.rpy:142
 translate spanish b1c08ws05_8ba7909e:
@@ -242,7 +242,7 @@ translate spanish b1c08ws05_c0223fa7:
 translate spanish b1c08ws05_cf8582d1:
 
     # mc "Penthouse suite four. Tell the concierge that Mr. Cassidy sent you."
-    mc "Penthouse suite cuatro. Dígale al conserje que le envía el Señor Cassidy."
+    mc "Penthouse suite cuatro. Dígale al conserje que las envía el Sr. Cassidy."
 
 # game/code/Book-1/Chapter-8w/s05.rpy:169
 translate spanish b1c08ws05_685366de:
@@ -368,7 +368,7 @@ translate spanish b1c08ws05_f7133653:
 translate spanish b1c08ws05_24f776cd:
 
     # mc "Morning. Name's [mcname], new member of The Winner's Volleyball Team. Mind if I join you?"
-    mc "Mañana. Nombre [mcname], nuevo miembro del equipo de voleibol Los Ganadores. ¿Te importa si me uno a ti?"
+    mc "Buenos días. Me llamo [mcname], soy el nuevo miembro del equipo de voleibol de Los Ganadores. ¿Te importa si me uno a ti?"
 
 # game/code/Book-1/Chapter-8w/s05.rpy:225
 translate spanish b1c08ws05_45852579:
@@ -404,7 +404,7 @@ translate spanish b1c08ws05_01980f0e:
 translate spanish b1c08ws05_cc99b499:
 
     # tw "This is Jason and Angie. I wouldn't be able to keep this team going without their help."
-    tw "Estos son Jason y Angie. No podría mantener este equipo sin su ayuda."
+    tw "Ellos son Jason y Angie. No podría mantener este equipo sin su ayuda."
 
 # game/code/Book-1/Chapter-8w/s05.rpy:244
 translate spanish b1c08ws05_df1c024a:
@@ -500,7 +500,7 @@ translate spanish b1c08ws05_fadd83c3:
 translate spanish b1c08ws05_b7c0f7d2:
 
     # tw "Let me buy you a drink. My treat for all the troubles."
-    tw "Permítame pagarle un trago. Mi regalo por todos los problemas."
+    tw "Déjame invitarte a un trago. Es mi regalo por todos los problemas."
 
 # game/code/Book-1/Chapter-8w/s05.rpy:286
 translate spanish b1c08ws05_72a2486b:
