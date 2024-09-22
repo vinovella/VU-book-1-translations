@@ -230,7 +230,7 @@ translate turkish b1c09s03_use_mouth_ab5775f7:
 translate turkish b1c09s03_use_mouth_df66f4ed:
 
     # "She can't get enough of you."
-    "She can't get enough of you."
+    "Sana doyamıyor."
 
 # game/code/Book-1/Chapter-9/s03.rpy:288
 translate turkish b1c09s03_use_hand_f60f2e0d:
