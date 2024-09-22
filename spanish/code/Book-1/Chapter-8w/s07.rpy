@@ -80,13 +80,13 @@ translate spanish b1c08ws07_b999d420:
 translate spanish b1c08ws07_866a6488:
 
     # ba "We are The Winners. We don't back down; we don't falter. We go out there, and we crush them. Are you with me!?"
-    ba "Nosotros somos los ganadores. No retrocedemos; no flaqueamos. Salimos y los aplastamos. ¿¡Están conmigo!?"
+    ba "Nosotros somos Los Ganadores. No retrocedemos; no flaqueamos. Salimos y los aplastamos. ¿¡Están conmigo!?"
 
 # game/code/Book-1/Chapter-8w/s07.rpy:65
 translate spanish b1c08ws07_f8b30177:
 
     # "The team responds in unison, their voices filled with determination."
-    "El equipo responde al unísono, sus voces llenas de determinación."
+    "El equipo responde al unísono, con voces llenas de determinación."
 
 # game/code/Book-1/Chapter-8w/s07.rpy:77
 translate spanish b1c08ws07_d7eedc62:
@@ -105,6 +105,12 @@ translate spanish b1c08ws07_9e7f72d6:
 
     # "The crowd is already amped and ready, the air is charged with anticipation."
     "La multitud ya está entusiasmada y lista, el aire está cargado de anticipación."
+
+# game/code/Book-1/Chapter-8w/s07.rpy:87
+translate spanish b1c08ws07_4ace5bf7:
+
+    # "Both teams eye each other as the referee talks things over with the captains."
+    "Ambos equipos se miran mientras el árbitro habla con los capitanes."
 
 # game/code/Book-1/Chapter-8w/s07.rpy:103
 translate spanish b1c08ws07_26b6775a:
@@ -296,7 +302,7 @@ translate spanish b1c08ws07_da241500:
 translate spanish b1c08ws07_b70c788e:
 
     # "Your body tenses to try and save the ball but Iona blurs past you, diving for the ball before passing it to Olesya, who sets it up for Brigitta."
-    "Tu cuerpo se tensa para intentar salvar la pelota, pero Iona pasa a tu lado y se lanza hacia la pelota antes de pasárselo a Olesya, quien se lo prepara a Brigitta."
+    "Tu cuerpo se tensa para intentar salvar la pelota, pero Iona pasa a tu lado y se lanza hacia la pelota antes de pasársela a Olesya, quien se la prepara a Brigitta."
 
 # game/code/Book-1/Chapter-8w/s07.rpy:224
 translate spanish b1c08ws07_fec771e4:
@@ -308,7 +314,7 @@ translate spanish b1c08ws07_fec771e4:
 translate spanish b1c08ws07_21ad62fd:
 
     # "The CCC team scrambles, barely managing to keep the ball in play."
-    "El equipo del CCC se revuelca y apenas logra mantener la pelota en juego."
+    "El equipo CCC se revuelca y apenas logra mantener la pelota en juego."
 
 # game/code/Book-1/Chapter-8w/s07.rpy:232
 translate spanish b1c08ws07_6329d7de:
@@ -326,7 +332,7 @@ translate spanish b1c08ws07_bffd9180:
 translate spanish b1c08ws07_018b548b:
 
     # "The crowd erupts, and The Winners celebrate."
-    "La multitud estalla y los ganadores celebran."
+    "La multitud estalla y Los Ganadores celebran."
 
 # game/code/Book-1/Chapter-8w/s07.rpy:242
 translate spanish b1c08ws07_3e233128:
@@ -356,7 +362,7 @@ translate spanish b1c08ws07_06ca024a:
 translate spanish b1c08ws07_f6401650:
 
     # "You catch Tiana's eye for a second, exchanging a glance of understanding and respect."
-    "Captas la mirada de Tiana por un segundo e intercambias una mirada de comprensión y respeto."
+    "Por un segundo captas la mirada de Tiana e intercambias una mirada de comprensión y respeto."
 
 # game/code/Book-1/Chapter-8w/s07.rpy:273
 translate spanish b1c08ws07_8413477d:
@@ -440,7 +446,7 @@ translate spanish b1c08ws07_a9d6699a:
 translate spanish b1c08ws07_f0a1da03:
 
     # "You can see and feel the way the CCC team is showing more and more weariness, but The Winners march on."
-    "Puedes ver y sentir cómo el equipo CCC muestra cada vez más cansancio, pero los ganadores siguen adelante."
+    "Puedes ver y sentir cómo el equipo CCC muestra cada vez más cansancio, pero Los Ganadores siguen adelante."
 
 # game/code/Book-1/Chapter-8w/s07.rpy:322
 translate spanish b1c08ws07_be7368ef:
@@ -458,7 +464,7 @@ translate spanish b1c08ws07_de10fc0c:
 translate spanish b1c08ws07_3c852f48:
 
     # "Just as you were about to return the ball, a sudden tightening feeling in your chest stops you in your tracks."
-    "Justo cuando estaba a punto de devolver la pelota, una repentina sensación de opresión en el pecho te detiene en seco."
+    "Justo cuando estabas a punto de devolver la pelota, una repentina sensación de opresión en el pecho te detiene en seco."
 
 # game/code/Book-1/Chapter-8w/s07.rpy:345
 translate spanish b1c08ws07_c3e082c1:
@@ -488,7 +494,7 @@ translate spanish b1c08ws07_470f7f6c:
 translate spanish b1c08ws07_f1e7ca00:
 
     # "The last score marks The Winner's second set of the match."
-    "El último resultado marca el segundo set del partido de Los Ganadores."
+    "El último resultado marca el segundo set del partido para Los Ganadores."
 
 # game/code/Book-1/Chapter-8w/s07.rpy:364
 translate spanish b1c08ws07_58cc1e88:
@@ -591,6 +597,12 @@ translate spanish b1c08ws07_4960a53a:
 
     # sa "Alright, team, let's get back out there and take the final set. Stay focused, stay strong, and play like the winners we are."
     sa "Muy bien, equipo, volvamos ahí fuera y llevémonos el último set. Concéntrense, sean fuertes y jueguen como los ganadores que son."
+
+# game/code/Book-1/Chapter-8w/s07.rpy:422
+translate spanish b1c08ws07_0e5f6808:
+
+    # "The CCC team serves, and the game is on once again"
+    "El equipo CCC sirve y el juego vuelve a comenzar."
 
 # game/code/Book-1/Chapter-8w/s07.rpy:427
 translate spanish b1c08ws07_bc30ec1b:
@@ -734,7 +746,7 @@ translate spanish b1c08ws07_cb1b2e0a:
 translate spanish b1c08ws07_7a0b158d:
 
     # "And this is just what the CCC team was waiting for."
-    "Y esto es justo lo que estaba esperando el equipo de CCC."
+    "Y esto es justo lo que estaba esperando el equipo CCC."
 
 # game/code/Book-1/Chapter-8w/s07.rpy:555
 translate spanish b1c08ws07_f3742234:
@@ -920,7 +932,7 @@ translate spanish b1c08ws07_0666a978:
 translate spanish b1c08ws07_f96e3ee0:
 
     # ba "You call yourself a Winner? You're nothing but a liability."
-    ba "¿Te llamas ganador? No eres más que una carga."
+    ba "¿Te llamas Ganador? No eres más que una carga."
 
 # game/code/Book-1/Chapter-8w/s07.rpy:649
 translate spanish b1c08ws07_cb080f5d:
@@ -944,7 +956,7 @@ translate spanish b1c08ws07_549dded7:
 translate spanish b1c08ws07_0a32eb99:
 
     # mct "I need...to go. If I pass out here...too many questions."
-    mct "Tengo... que irme. Si me desmayo aquí... demasiadas preguntas."
+    mct "Necesito... irme. Si me desmayo aquí... habrá demasiadas preguntas."
 
 # game/code/Book-1/Chapter-8w/s07.rpy:657
 translate spanish b1c08ws07_b71f2c39:
@@ -1012,15 +1024,16 @@ translate spanish b1c08ws07_0b19e87b:
     # "You'd be worried about your predicament, but your consciousness quickly slips away too, leaving you all alone."
     "Estarías preocupado por tu situación, pero tu conciencia también se desvanece rápidamente, dejándote solo."
 
+
 # game/code/Book-1/Chapter-8w/s07.rpy:89
 translate spanish b1c08ws07_cd88a85c:
 
     # "Both teams eye each other."
-    "Both teams eye each other."
+    "Los dos equipos se miran."
 
 # game/code/Book-1/Chapter-8w/s07.rpy:424
 translate spanish b1c08ws07_d8796b5f:
 
     # "The CCC team serves, and the game is on once again."
-    "The CCC team serves, and the game is on once again."
+    "El equipo CCC sirve y el partido comienza de nuevo."
 
