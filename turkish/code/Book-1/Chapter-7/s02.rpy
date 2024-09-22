@@ -486,17 +486,17 @@ translate turkish strings:
 translate turkish b1c07s02_5fb9645a:
 
     # mct "I don't have time to mess around with both Ronja and Diana. I need to figure out who to potentially buddy up with, or at least tolerate."
-    mct "I don't have time to mess around with both Ronja and Diana. I need to figure out who to potentially buddy up with, or at least tolerate."
+    mct "Hem Ronja hem de Diana ile uğraşacak vaktim yok. Potansiyel olarak kiminle arkadaşlık edeceğimi ya da en azından hoş göreceğimi bulmam gerekiyor."
 
 # game/code/Book-1/Chapter-7/s02.rpy:141
 translate turkish b1c07s02_fcd0cea0:
 
     # mct "This could be a good opportunity to get closer to Diana and gather more information..."
-    mct "This could be a good opportunity to get closer to Diana and gather more information..."
+    mct "Bu Diana'ya yaklaşmak ve daha fazla bilgi toplamak için iyi bir fırsat olabilir..."
 
 # game/code/Book-1/Chapter-7/s02.rpy:143
 translate turkish b1c07s02_4052dcaa:
 
     # mct "But then again, Ronja might be the better lead."
-    mct "But then again, Ronja might be the better lead."
+    mct "Ama yine de Ronja daha iyi bir lider olabilir."
 
