@@ -122,9 +122,9 @@ translate chinese strings:
 
     # game/code/data/characters.rpy:79
     old "Narurra"
-    new "Narurra"
+    new "纳鲁拉"
 
     # game/code/data/characters.rpy:79
     old "Arlene"
-    new "Arlene"
+    new "阿琳"
 
