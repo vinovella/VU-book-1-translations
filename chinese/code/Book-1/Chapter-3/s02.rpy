@@ -440,7 +440,7 @@ translate chinese strings:
 
     # game/code/Book-1/Chapter-3/s02.rpy:15
     old "You have unlocked the Investigation Board."
-    new "你已经解锁了调查委员会。"
+    new "你已经解锁了调查板。"
 
     # game/code/Book-1/Chapter-3/s02.rpy:60
     old "Josephine?"
