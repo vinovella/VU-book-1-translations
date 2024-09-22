@@ -116,7 +116,7 @@ translate spanish b1c08ws11_659c759f:
 translate spanish b1c08ws11_fcf97dbc:
 
     # "You continue to help move the luggage, moving methodically through the maze of bags and equipment. The process is almost robotic, a series of motions to distract from the lingering tension."
-    "Sigues ayudando a mover el equipaje, moviéndote metódicamente por el laberinto de maletas y equipamiento. El proceso es casi robótico, una serie de movimientos para distraer la atención de la tensión persistente."
+    "Sigues ayudando a mover el equipaje, moviéndote metódicamente por el laberinto de maletas y equipos. El proceso es casi robótico, una serie de movimientos para distraer la atención de la tensión persistente."
 
 # game/code/Book-1/Chapter-8w/s11.rpy:131
 translate spanish b1c08ws11_b1d78072:
@@ -152,7 +152,7 @@ translate spanish b1c08ws11_51a1cc2c:
 translate spanish b1c08ws11_63ad3eb7:
 
     # mc "Hey, Silvia. What's up?"
-    mc "Hola Silvia. ¿Qué pasa?"
+    mc "Hola, Silvia. ¿Qué pasa?"
 
 # game/code/Book-1/Chapter-8w/s11.rpy:150
 translate spanish b1c08ws11_cfb2d94e:
@@ -188,7 +188,7 @@ translate spanish b1c08ws11_4d67f524:
 translate spanish b1c08ws11_a6b74642:
 
     # "Silvia takes the lead, guiding you through the sprawling hallways of the mansion. The atmosphere feels less stifling, but the weight of recent events still lingers, a ghost you can't quite shake off."
-    "Silvia toma la iniciativa y te guía por los extensos pasillos de la mansión. La atmósfera se siente menos sofocante, pero el peso de los acontecimientos recientes aún persiste, un fantasma del que no puedes deshacerte del todo."
+    "Silvia toma la iniciativa y te guía por los extensos pasillos de la mansión. El ambiente es menos sofocante, pero el peso de los acontecimientos recientes aún persiste, como un fantasma del que no puedes deshacerte."
 
 # game/code/Book-1/Chapter-8w/s11.rpy:169
 translate spanish b1c08ws11_1baccb42:
@@ -302,7 +302,7 @@ translate spanish b1c08ws11_664d7a9e:
 translate spanish b1c08ws11_213f1772:
 
     # "Your words seem to affect her deeply, drawing a complex mix of emotions across her face—pain, relief, and a desperate sort of hope."
-    "Tus palabras parecen afectarla profundamente, dibujando una compleja mezcla de emociones en su rostro: dolor, alivio y una especie de esperanza desesperada."
+    "Tus palabras parecen afectarla profundamente, dibujando una compleja mezcla de emociones en su rostro... dolor, alivio y una especie de esperanza desesperada."
 
 # game/code/Book-1/Chapter-8w/s11.rpy:226
 translate spanish b1c08ws11_9e525da8:
@@ -350,7 +350,7 @@ translate spanish b1c08ws11_04d1046a:
 translate spanish b1c08ws11_8b781a00:
 
     # mc "Silvia, you don't have to find all the answers right now. Neither do I."
-    mc "Silvia, no tienes que encontrar todas las respuestas ahora mismo. Ni yo tampoco."
+    mc "Silvia, no tienes que encontrar todas las respuestas en este momento. Ni yo tampoco."
 
 # game/code/Book-1/Chapter-8w/s11.rpy:253
 translate spanish b1c08ws11_832a4ecd:
@@ -362,7 +362,7 @@ translate spanish b1c08ws11_832a4ecd:
 translate spanish b1c08ws11_74101d08:
 
     # "Your eyes lock with Silvia's, and in that moment, the electricity between you two is palpable, as if the air itself is thickening."
-    "Tus ojos se cruzan con los de Silvia y, en ese momento, la electricidad entre ustedes dos es palpable, como si el aire mismo se estuviera espesando."
+    "Tus ojos se cruzan con los de Silvia y, en ese momento, la electricidad entre ustedes dos es palpable, como si el mismo aire se estuviera espesando."
 
 # game/code/Book-1/Chapter-8w/s11.rpy:259
 translate spanish b1c08ws11_554c7a8e:
@@ -440,7 +440,7 @@ translate spanish b1c08ws11_5951971e:
 translate spanish b1c08ws11_94a51547:
 
     # "Silvia shudders as you pull her pants off, revealing all of her silky, naked body."
-    "Silvia se estremece cuando le quitas los pantalones, dejando al descubierto todo su cuerpo sedoso y desnudo."
+    "Silvia se estremece cuando le quitas los pantalones, revelando todo su sedoso cuerpo desnudo."
 
 # game/code/Book-1/Chapter-8w/s11.rpy:318
 translate spanish b1c08ws11_5d193759:
@@ -452,7 +452,7 @@ translate spanish b1c08ws11_5d193759:
 translate spanish b1c08ws11_9536baab:
 
     # "You slide inside Silvia slowly, and feel her needily tighten, pulling you farther in."
-    "Te deslizas dentro de Silvia lentamente y sientes cómo se aprieta necesitadamente, empujándote más hacia adentro."
+    "Te deslizas dentro de Silvia lentamente y sientes cómo se aprieta necesitadamente, empujándote más hacia dentro."
 
 # game/code/Book-1/Chapter-8w/s11.rpy:326
 translate spanish b1c08ws11_4976ee6e:
@@ -476,7 +476,7 @@ translate spanish b1c08ws11_a0d644cb:
 translate spanish b1c08ws11_dd19f4db:
 
     # "Silvia's arms tighten around you as if she's afraid you'll slip through her fingers. The hug is more than just a physical embrace; it's an emotional lifeline for both of you."
-    "Los brazos de Silvia te rodean con fuerza, como si tuviera miedo de que se te escaparas entre los dedos. El abrazo es más que un simple abrazo físico; es un salvavidas emocional para ambos."
+    "Silvia te abraza con fuerza, como si tuviera miedo de que pudieras escaparte de sus manos. El abrazo es algo más que un abrazo físico, es un salvavidas emocional para los dos."
 
 # game/code/Book-1/Chapter-8w/s11.rpy:389
 translate spanish b1c08ws11_5092e87e:
@@ -494,7 +494,7 @@ translate spanish b1c08ws11_909659df:
 translate spanish b1c08ws11_dfbc6d03:
 
     # "Silvia's answering moans tell you how much she's enjoying you taking control."
-    "Los gemidos de respuesta de Silvia te dicen cuánto disfruta que usted tome el control."
+    "Los gemidos de Silvia te dicen lo mucho que le gusta que tomes el control."
 
 # game/code/Book-1/Chapter-8w/s11.rpy:410
 translate spanish b1c08ws11_17a722aa:
@@ -524,7 +524,7 @@ translate spanish b1c08ws11_80b2277a:
 translate spanish b1c08ws11_3fd7d693:
 
     # "You rest inside Silvia and give her a soft kiss on the forehead while you both ride the aftershocks of your orgasms."
-    "Descansas dentro de Silvia y le das un suave beso en la frente mientras ambas cabalgan las réplicas de sus orgasmos."
+    "Descansas dentro de Silvia y le das un suave beso en la frente mientras ambos cabalgan las réplicas de sus orgasmos."
 
 # game/code/Book-1/Chapter-8w/s11.rpy:431
 translate spanish b1c08ws11_7704b4d8:
@@ -542,7 +542,7 @@ translate spanish b1c08ws11_3e095316:
 translate spanish b1c08ws11_13fbea70:
 
     # "Lying in each other's arms, the atmosphere is one of absolute serenity. The room is filled with the soft glow of a bedside lamp, casting a warm light over the two of you."
-    "Acostados uno en brazos del otro, el ambiente es de absoluta serenidad. La habitación se llena con el suave brillo de una lámpara de noche, proyectando una luz cálida sobre ustedes dos."
+    "Acostados el uno en brazos del otro, el ambiente es de absoluta serenidad. La habitación se llena del suave resplandor de una lámpara de cabecera, que proyecta una cálida luz sobre los dos."
 
 # game/code/Book-1/Chapter-8w/s11.rpy:442
 translate spanish b1c08ws11_ce360f81:
@@ -590,7 +590,7 @@ translate spanish b1c08ws11_9816a29d:
 translate spanish b1c08ws11_726772ca:
 
     # sm "I don't want to rock the boat by demanding too many changes, too fast, and pissing everyone off."
-    sm "No quiero causar problemas exigiendo demasiados cambios, demasiado rápido y molestando a todos."
+    sm "No quiero agitar el barco exigiendo muchos cambios, demasiado rápido, y haciendo enojar a todo el mundo."
 
 # game/code/Book-1/Chapter-8w/s11.rpy:461
 translate spanish b1c08ws11_1a25e202:
@@ -608,7 +608,7 @@ translate spanish b1c08ws11_1122ad40:
 translate spanish b1c08ws11_da527279:
 
     # sm "*Smiles* Thank you, [mcname]. That means a lot."
-    sm "*sonríe* Gracias, [mcname]. Eso significa mucho."
+    sm "*Sonríe* Gracias, [mcname]. Eso significa mucho."
 
 # game/code/Book-1/Chapter-8w/s11.rpy:470
 translate spanish b1c08ws11_329e3604:
@@ -644,7 +644,7 @@ translate spanish b1c08ws11_ef8ac5c0:
 translate spanish b1c08ws11_505e59dd:
 
     # "The atmosphere feels soothing, wrapping around you both like a comforting embrace."
-    "La atmósfera se siente relajante y los envuelve a ambos como un abrazo reconfortante."
+    "La atmósfera se siente relajante y los envuelve a los dos en un abrazo reconfortante."
 
 # game/code/Book-1/Chapter-8w/s11.rpy:489
 translate spanish b1c08ws11_162fe921:
@@ -668,11 +668,11 @@ translate spanish b1c08ws11_af5acc21:
 translate spanish b1c08ws11_1653df28:
 
     # "Your eyes finally close, giving in to the weight of exhaustion. As you drift off, Silvia's soft breathing lulls you further into sleep. For this brief moment, you allow yourself the luxury of peace and comfort."
-    "Tus ojos finalmente se cierran, cediendo al peso del cansancio. A medida que te quedas dormido, la suave respiración de Silvia te adormece aún más. Por este breve momento, te permites el lujo de la paz y el confort."
+    "Tus ojos se cierran por fin, cediendo al peso del cansancio. Mientras te quedas dormido, la suave respiración de Silvia te adormece aún más. Durante este breve momento, te permites el lujo de la paz y la comodidad."
 
 # game/code/Book-1/Chapter-8w/s11.rpy:501
 translate spanish b1c08ws11_924d5892:
 
     # "The world fades to black, a comforting darkness that wraps you in its silent embrace. But even as you lose yourself to sleep, a part of you whispers—a reminder that your investigation is far from over."
-    "El mundo se vuelve negro, una oscuridad reconfortante que te envuelve en su abrazo silencioso. Pero incluso cuando te quedas dormido, una parte de ti susurra, un recordatorio de que tu investigación está lejos de terminar."
+    "El mundo se vuelve negro, una oscuridad reconfortante que te envuelve en su abrazo silencioso. Pero incluso cuando te quedas dormido, una parte de ti susurra un recordatorio de que tu investigación está lejos de terminar."
 
