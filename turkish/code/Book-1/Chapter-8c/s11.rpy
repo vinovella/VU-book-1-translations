@@ -644,11 +644,11 @@ translate turkish b1c08cs11_33a818c3:
 translate turkish b1c08cs11_0f63ae30:
 
     # "Ivy clings to you, and nuzzles into your shoulder. Her shallow breaths warm your skin."
-    "Ivy clings to you, and nuzzles into your shoulder. Her shallow breaths warm your skin."
+    "Ivy sana yapışıyor ve omzuna sokuluyor. Sığ nefesleri tenini ısıtıyor."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:321
 translate turkish b1c08cs11_418e2ba3:
 
     # "The layered sensation of her warm body pressed against you, milking you so thoroughly—You can't hold back anymore."
-    "The layered sensation of her warm body pressed against you, milking you so thoroughly—You can't hold back anymore."
+    "Sıcak bedeninin sana bastırdığı, seni iyice sağdığı o katmanlı his... Artık kendini tutamıyorsun."
 
