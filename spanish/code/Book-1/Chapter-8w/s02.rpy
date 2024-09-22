@@ -80,7 +80,7 @@ translate spanish b1c08ws02_037a636d:
 translate spanish b1c08ws02_81742c1f:
 
     # "As Iona talked, her hand drifts up higher on your thigh. You can't help but shiver at the teasing sensation."
-    "Mientras Iona hablaba, su mano sube más arriba de tu muslo. No puedes evitar estremecerte ante la sensación de provocación."
+    "Mientras Iona habla, su mano se desliza por tu muslo. No puedes evitar estremecerte ante la provocación."
 
 # game/code/Book-1/Chapter-8w/s02.rpy:48
 translate spanish b1c08ws02_7fcd3951:
@@ -140,7 +140,7 @@ translate spanish b1c08ws02_66a5117a:
 translate spanish b1c08ws02_8690219b:
 
     # "Suddenly, Simon stands and claps his hands together to get everyone's attention."
-    "De repente, Simon se levanta y aplaude para llamar la atención de todos."
+    "De repente, Simón se levanta y aplaude para llamar la atención de todos."
 
 # game/code/Book-1/Chapter-8w/s02.rpy:81
 translate spanish b1c08ws02_1c2510e3:
@@ -188,7 +188,7 @@ translate spanish b1c08ws02_ca827e8f:
 translate spanish b1c08ws02_d25f6ab1:
 
     # "While you're distracted by Simon, Iona sneakily undid your pants and snuck her hand inside them."
-    "Mientras Simon te distrae, Iona te desabrochó los pantalones disimuladamente y metió la mano dentro de ellos."
+    "Mientras Simón te distrae, Iona te desabrochó los pantalones disimuladamente y metió la mano dentro de ellos."
 
 # game/code/Book-1/Chapter-8w/s02.rpy:104
 translate spanish b1c08ws02_8ebbd318:
@@ -248,7 +248,19 @@ translate spanish b1c08ws02_daf833db:
 translate spanish b1c08ws02_4b1e0f61:
 
     # "You try to focus on the rest of the team, Iona pulls away your attention at every point."
-    "Intentas concentrarte en el resto del equipo, Iona te desvía la atención en todo momento."
+    "Intentas centrarte en el resto del equipo, pero Iona te desvía la atención en todo momento."
+
+# game/code/Book-1/Chapter-8w/s02.rpy:131
+translate spanish b1c08ws02_91a413c2:
+
+    # "When you just about manage to control yourself, Iona pulls down your pants even more and takes out your hard cock."
+    "Cuando casi consigues controlarte, Iona te baja aún más los pantalones y te saca la polla dura."
+
+# game/code/Book-1/Chapter-8w/s02.rpy:136
+translate spanish b1c08ws02_236567b3:
+
+    # "She bites her lower lip and admires it before grabbing a hold of it and slowly stroking up and down your entire length."
+    "Se muerde el labio inferior y lo admira antes de agarrarlo y acariciarlo lentamente de arriba a abajo por toda su longitud."
 
 # game/code/Book-1/Chapter-8w/s02.rpy:141
 translate spanish b1c08ws02_0fc4ad1f:
@@ -314,7 +326,7 @@ translate spanish b1c08ws02_804ad2ac:
 translate spanish b1c08ws02_252d1a23:
 
     # "You hear a couple laughs coming from upfront after Monika's outburst."
-    "Se oye un par de risas desde el principio después del arrebato de Monika."
+    "Se oyen un par de risas procedentes de la parte delantera tras el arrebato de Mónica."
 
 # game/code/Book-1/Chapter-8w/s02.rpy:175
 translate spanish b1c08ws02_7d1be091:
@@ -500,7 +512,7 @@ translate spanish b1c08ws02_dc1530ec:
 translate spanish b1c08ws02_4cdc7c33:
 
     # "You mimic the movements of steering a boat and looking out at the horizon."
-    "Imitas los movimientos de dirigir un barco y mirar al horizonte."
+    "Imitas los movimientos del timón de un barco y miras al horizonte."
 
 # game/code/Book-1/Chapter-8w/s02.rpy:276
 translate spanish b1c08ws02_aa17b84f:
@@ -518,7 +530,7 @@ translate spanish b1c08ws02_9d9c4038:
 translate spanish b1c08ws02_59086667:
 
     # sm "Wait, wait, I know! You've gone sailing! That's it, right?"
-    sm "Espera, espera, ¡lo sé! ¡Te has ido a navegar! Eso es todo, ¿verdad?"
+    sm "Espera, espera, ¡lo sé! ¡Te has ido a navegar! Eso es, ¿verdad?"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:283
 translate spanish b1c08ws02_fd549469:
@@ -566,7 +578,7 @@ translate spanish b1c08ws02_2aa93211:
 translate spanish b1c08ws02_5859c710:
 
     # "You mimic the movements of eating hot dogs rapidly, your hands moving to your mouth in quick succession."
-    "Imitas los movimientos de comer perritos calientes rápidamente, con las manos llevándose a la boca en rápida sucesión."
+    "Imitas los movimientos de comer perritos calientes rápidamente, con las manos llevándose las manos a la boca en rápida sucesión."
 
 # game/code/Book-1/Chapter-8w/s02.rpy:318
 translate spanish b1c08ws02_6332973f:
@@ -694,6 +706,12 @@ translate spanish b1c08ws02_8bf48cdb:
     # sl "No, it looks like he's... I don't know."
     sl "No, parece que él... No lo sé."
 
+# game/code/Book-1/Chapter-8w/s02.rpy:396
+translate spanish b1c08ws02_8cd199eb:
+
+    # oa "Ooh!, wait a minute, you're conducting an orchestra, is that it?"
+    oa "¡Ooh!, espera un momento, estás dirigiendo una orquesta, ¿no es así?"
+
 # game/code/Book-1/Chapter-8w/s02.rpy:403
 translate spanish b1c08ws02_cf50fb9b:
 
@@ -723,6 +741,12 @@ translate spanish b1c08ws02_38a16b70:
 
     # "You crave her touch more and more."
     "Anhelas su toque cada vez más."
+
+# game/code/Book-1/Chapter-8w/s02.rpy:418
+translate spanish b1c08ws02_b07562f1:
+
+    # "Everyone takes a turn trying to figure out which of your mimes were true and which ones were lies."
+    "Todos se turnan para intentar descubrir cuáles de tus mímicas eran ciertas y cuáles eran mentiras."
 
 # game/code/Book-1/Chapter-8w/s02.rpy:420
 translate spanish b1c08ws02_58482b53:
@@ -932,7 +956,7 @@ translate spanish b1c08ws02_5ed2d8c8:
 translate spanish b1c08ws02_b8199613:
 
     # mm "*Chuckles* I'm no bloody tattle-tail. You two have fun."
-    mm "*Risas* No soy ninguna maldita chismosa. Ustedes dos tienen diversión."
+    mm "*Risas*  No soy una maldita chismosa. Ustedes dos diviértanse."
 
 # game/code/Book-1/Chapter-8w/s02.rpy:513
 translate spanish b1c08ws02_cec0db95:
@@ -951,6 +975,12 @@ translate spanish b1c08ws02_f98acb57:
 
     # "You groan out loud in pleasure, feeling yourself getting closer and closer to orgasm as your breathing becomes faster."
     "Gimes en voz alta de placer y sientes que te acercas cada vez más al orgasmo a medida que tu respiración se acelera."
+
+# game/code/Book-1/Chapter-8w/s02.rpy:526
+translate spanish b1c08ws02_9d43e8e8:
+
+    # "Suddenly, the bus hits a bump in the road, causing Iona's you even further into her mouth. She almost chokes, but manages to hold on and continue taking you to your very base."
+    "De repente, el autobús golpea un bache en la carretera, haciendo que Iona lo meta aún más en su boca. Casi se atraganta, pero se las arregla para aguantar y seguir tomándote hasta el fondo."
 
 # game/code/Book-1/Chapter-8w/s02.rpy:535
 translate spanish b1c08ws02_4e167d92:
@@ -998,7 +1028,7 @@ translate spanish b1c08ws02_492d0498:
 translate spanish b1c08ws02_74178b68:
 
     # "She instead pulls her pants up and smears it onto her panties."
-    "En lugar de eso, se sube los pantalones y se lo unta en los calzones."
+    "En lugar de eso, se sube su ropa y se lo unta en los calzones."
 
 # game/code/Book-1/Chapter-8w/s02.rpy:555
 translate spanish b1c08ws02_8a954c56:
@@ -1016,7 +1046,7 @@ translate spanish b1c08ws02_23b6f24e:
 translate spanish b1c08ws02_afc7a609:
 
     # "You can feel your cum seeping through the fabric of her pants as Iona rests her head on your shoulder."
-    "Puedes sentir tu semen filtrándose a través de la tela de sus pantalones mientras Iona apoya su cabeza en tu hombro."
+    "Puedes sentir tu semen filtrándose a través de la tela de sus calzones mientras Iona apoya la cabeza en tu hombro."
 
 # game/code/Book-1/Chapter-8w/s02.rpy:562
 translate spanish b1c08ws02_e522944f:
@@ -1040,13 +1070,13 @@ translate spanish b1c08ws02_c9a3ad2f:
 translate spanish b1c08ws02_9e8fc198:
 
     # "When suddenly, the shrill sound of a phone rings out."
-    "Cuando de repente suena el sonido estridente de un teléfono."
+    "Cuando, de repente, suena el estridente sonido de un teléfono."
 
 # game/code/Book-1/Chapter-8w/s02.rpy:581
 translate spanish b1c08ws02_595540ce:
 
     # sm "Excuse me, everyone. I need to take this call. It's the hotel."
-    sm "Disculpen a todos. Necesito atender esta llamada. Es el hotel."
+    sm "Disculpen todos. Necesito atender esta llamada. Es del hotel."
 
 # game/code/Book-1/Chapter-8w/s02.rpy:583
 translate spanish b1c08ws02_2762ddce:
@@ -1214,7 +1244,7 @@ translate spanish b1c08ws02_4515887d:
 translate spanish b1c08ws02_e836d526:
 
     # "The group bickers some more about potential room arrangements, but they all eventually settle on your idea and calm down."
-    "El grupo discute un poco más sobre posibles arreglos de la habitación, pero eventualmente todos aceptan tu idea y se calman."
+    "El grupo discute un poco más sobre la posible distribución de las habitaciones, pero al final todos se deciden por tu idea y se tranquilizan."
 
 # game/code/Book-1/Chapter-8w/s02.rpy:657
 translate spanish b1c08ws02_eb7f8d53:
@@ -1240,7 +1270,7 @@ translate spanish strings:
 
     # game/code/Book-1/Chapter-8w/s02.rpy:249
     old "Mime that you've \"wrestled\" a bear"
-    new "Haz mímica de que has \"luchado\" con un oso"
+    new "Haz una mímica de que has \"luchado\" con un oso"
 
     # game/code/Book-1/Chapter-8w/s02.rpy:249
     old "Mime that you've sailed around the world"
@@ -1274,17 +1304,19 @@ translate spanish strings:
     old "Mime that you conducted an orchestra"
     new "Haz una mímica de que diriges una orquesta"
 
+
+
 # game/code/Book-1/Chapter-8w/s02.rpy:154
 translate spanish b1c08ws02_1a4f6af9:
 
     # "She bites her lower lip and admires your cock before grabbing a hold of it and slowly stroking up and down your entire length."
-    "She bites her lower lip and admires your cock before grabbing a hold of it and slowly stroking up and down your entire length."
+    "Se muerde el labio inferior y lo admira antes de agarrarlo y acariciarlo lentamente de arriba a abajo por toda su longitud."
 
 # game/code/Book-1/Chapter-8w/s02.rpy:428
 translate spanish b1c08ws02_b9360388:
 
     # oa "Ooh! wait a minute, you're conducting an orchestra, is that it?"
-    oa "Ooh! wait a minute, you're conducting an orchestra, is that it?"
+    oa "¡Ooh! espera un momento, estás dirigiendo una orquesta, ¿no es así?"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:439
 translate spanish b1c08ws02_9741e484:
@@ -1296,17 +1328,17 @@ translate spanish b1c08ws02_9741e484:
 translate spanish b1c08ws02_0f91acf7:
 
     # "You finally sit back down and let the group figure everything out."
-    "You finally sit back down and let the group figure everything out."
+    "Finalmente vuelves a sentarte y dejas que el grupo descubra tus mentiras."
 
 # game/code/Book-1/Chapter-8w/s02.rpy:458
 translate spanish b1c08ws02_10845095:
 
     # "Everyone takes a turn trying to figure out which of your mimes were true and which one was the lie."
-    "Everyone takes a turn trying to figure out which of your mimes were true and which one was the lie."
+    "Todos se turnan para intentar descubrir cuáles de tus mímicas eran ciertas y cuáles eran mentiras."
 
 # game/code/Book-1/Chapter-8w/s02.rpy:572
 translate spanish b1c08ws02_a1831067:
 
     # "Suddenly, the bus hits a bump in the road, causing Iona to take you even further into her mouth. She almost chokes, but manages to hold on and continue taking you to your very base."
-    "Suddenly, the bus hits a bump in the road, causing Iona to take you even further into her mouth. She almost chokes, but manages to hold on and continue taking you to your very base."
+    "De repente, el autobús golpea un bache en la carretera, haciendo que Iona lo meta aún más en su boca. Casi se atraganta, pero se las arregla para aguantar y seguir tomándote hasta el fondo."
 
