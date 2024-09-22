@@ -1016,11 +1016,11 @@ translate turkish b1c08ws07_0b19e87b:
 translate turkish b1c08ws07_cd88a85c:
 
     # "Both teams eye each other."
-    "Both teams eye each other."
+    "İki takım da birbirine bakıyor."
 
 # game/code/Book-1/Chapter-8w/s07.rpy:424
 translate turkish b1c08ws07_d8796b5f:
 
     # "The CCC team serves, and the game is on once again."
-    "The CCC team serves, and the game is on once again."
+    "CCC takımı servis atıyor ve oyun bir kez daha başlıyor."
 
