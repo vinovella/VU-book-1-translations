@@ -54,5 +54,5 @@ translate chinese strings:
 
     # game/code/credits/credit_sprites.rpy:39
     old "Art -"
-    new "Art -"
+    new "艺术--"
 
