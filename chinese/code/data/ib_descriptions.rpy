@@ -88,55 +88,55 @@ translate chinese strings:
 
     # game/code/data/ib_descriptions.rpy:2
     old "The group that Klara was involved with. A prestigious and exclusive fraternity of rich and/or famous kids."
-    new "The group that Klara was involved with. A prestigious and exclusive fraternity of rich and/or famous kids."
+    new "克拉拉加入的团体。一个著名且排外的兄弟会，由富家子弟和/或社会名流组成。"
 
     # game/code/data/ib_descriptions.rpy:2
     old "The three girls went missing at one of their private parties."
-    new "The three girls went missing at one of their private parties."
+    new "三个女孩在一次私人派对上失踪了。"
 
     # game/code/data/ib_descriptions.rpy:2
     old "A gang that Leia was involved with."
-    new "A gang that Leia was involved with."
+    new "莱娅参与的一个帮派。"
 
     # game/code/data/ib_descriptions.rpy:2
     old "The gang profits from a betting system that involves 'favors' and illegal fighting."
-    new "The gang profits from a betting system that involves 'favors' and illegal fighting."
+    new "该团伙从赌博系统中获利，该系统涉及‘恩情’和非法打斗。"
 
     # game/code/data/ib_descriptions.rpy:2
     old "The cult that Maria was involved with."
-    new "The cult that Maria was involved with."
+    new "玛丽亚参与的一个邪教。"
 
     # game/code/data/ib_descriptions.rpy:2
     old "The lower ranks of the cult are disguised as a self-improvement group."
-    new "The lower ranks of the cult are disguised as a self-improvement group."
+    new "邪教组织的低等成员伪装成自我提升团体。"
 
     # game/code/data/ib_descriptions.rpy:2
     old "The cult encourages sexual activities and holds breeding rituals."
-    new "The cult encourages sexual activities and holds breeding rituals."
+    new "该邪教鼓励性活动，并举行繁殖仪式。"
 
     # game/code/data/ib_descriptions.rpy:2
     old "The cult tried to take Sally's child away."
-    new "The cult tried to take Sally's child away."
+    new "该邪教试图夺走莎莉的孩子。"
 
     # game/code/data/ib_descriptions.rpy:2
     old "Modeled for the artist."
-    new "Modeled for the artist."
+    new "为艺术家做模特。"
 
     # game/code/data/ib_descriptions.rpy:2
     old "Maria was a substantial member of the inner circle in the self-help group."
-    new "Maria was a substantial member of the inner circle in the self-help group."
+    new "玛丽亚是自助小组核心成员。"
 
     # game/code/data/ib_descriptions.rpy:2
     old "Was a part of intense {i}rituals{/i} within the self-help group and enjoyed participating in them."
-    new "Was a part of intense {i}rituals{/i} within the self-help group and enjoyed participating in them."
+    new "参与过自助小组的激烈{i}仪式{/i}，并乐于参与其中。"
 
     # game/code/data/ib_descriptions.rpy:2
     old "Leia used to track people's debt to the Syndicate."
-    new "Leia used to track people's debt to the Syndicate."
+    new "莱娅曾负责追踪人们欠下辛迪加的债务。"
 
     # game/code/data/ib_descriptions.rpy:2
     old "Captain of the volleyball team."
-    new "Captain of the volleyball team."
+    new "排球队队长。"
 
     # game/code/data/ib_descriptions.rpy:2
     old "Orphaned. Was involved with a bad crowd."
