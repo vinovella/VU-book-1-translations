@@ -68,7 +68,7 @@ translate turkish strings:
 
     # game/code/screens/menus.rpy:584
     old "Quick"
-    new "Quick"
+    new "Hızlı"
 
     # game/code/screens/menus.rpy:607
     old "Ren'Py Save Sync"
