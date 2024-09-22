@@ -344,7 +344,7 @@ translate turkish b1c09s02_both_go_f06a0ba3:
 translate turkish b1c09s02_both_go_cb2c2165:
 
     # mc "*Smirks* Can dish it out, but can't take it."
-    mc "*Smirks* Can dish it out, but can't take it."
+    mc "*Küçümsüyor* Yapabilir ama kaldıramaz."
 
 # game/code/Book-1/Chapter-9/s02.rpy:266
 translate turkish b1c09s02_both_go_f12daad9:
