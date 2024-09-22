@@ -866,7 +866,7 @@ translate turkish b1c09s09s_with_zp_9de0d8ca:
 translate turkish b1c09s09s_with_zp_22635dab:
 
     # zp "Mm, it's so hard to keep my hands off you."
-    zp "Mm, it's so hard to keep my hands off you."
+    zp "Mm, ellerimi senden uzak tutmak çok zor."
 
 # game/code/Book-1/Chapter-9/s09s.rpy:609
 translate turkish b1c09s09s_with_zp_f9468498:
