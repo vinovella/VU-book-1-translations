@@ -2026,11 +2026,11 @@ translate turkish b1c08cs08_ll_punishment_1ad478f1:
 translate turkish b1c08cs08_ll_spanking_d643c708:
 
     # "She stands before you with a more confident expression, ready to take her punishment with dignity."
-    "She stands before you with a more confident expression, ready to take her punishment with dignity."
+    "Daha kendinden emin bir ifadeyle karşınızda duruyor, cezasını onurlu bir şekilde çekmeye hazır."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:891
 translate turkish b1c08cs08_ll_spanking_6c63b3c0:
 
     # "At Yvonne's silent cue, Sloan and Nerium also rise."
-    "At Yvonne's silent cue, Sloan and Nerium also rise."
+    "Yvonne'un sessiz işaretiyle Sloan ve Nerium da ayağa kalkıyor."
 
