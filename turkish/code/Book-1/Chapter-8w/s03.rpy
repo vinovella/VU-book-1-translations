@@ -98,7 +98,7 @@ translate turkish b1c08ws03_b717f728:
 translate turkish b1c08ws03_1e668ed1:
 
     # mm "OH MY GOD!"
-    mm "OH MY GOD!"
+    mm "AMAN TANRIM!"
 
 # game/code/Book-1/Chapter-8w/s03.rpy:66
 translate turkish b1c08ws03_b695748c:
@@ -524,5 +524,5 @@ translate turkish strings:
 translate turkish b1c08ws03_470b68b1:
 
     # "She catches you off guard with a kiss. It's a gentle warmth on your lips, but it carries a heaviness with so much emotion hidden behind."
-    "She catches you off guard with a kiss. It's a gentle warmth on your lips, but it carries a heaviness with so much emotion hidden behind."
+    "Sizi bir öpücükle hazırlıksız yakalıyor. Dudaklarında nazik bir sıcaklık var, ama ardında saklı çok fazla duyguyla birlikte bir ağırlık taşıyor"
 
