@@ -170,7 +170,7 @@ translate turkish b1c09s08_sex_1e8af1b4:
 translate turkish b1c09s08_sex_63800e87:
 
     # fox "If you catch my drift."
-    fox "If you catch my drift."
+    fox "Eğer anladıysan."
 
 # game/code/Book-1/Chapter-9/s08.rpy:160
 translate turkish b1c09s08_sex_567702d9:
