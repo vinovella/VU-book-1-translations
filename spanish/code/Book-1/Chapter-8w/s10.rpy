@@ -2,7 +2,7 @@
 translate spanish b1c08ws10_ae9acccb:
 
     # mc "I couldn't just rush back. I had to make sure I was alone first, so nobody would—"
-    mc "No podía simplemente regresar corriendo. Primero tenía que asegurarme de estar solo, para que nadie..."
+    mc "No podía volver corriendo. Primero tenía que asegurarme de que estaba solo, para que nadie..."
 
 # game/code/Book-1/Chapter-8w/s10.rpy:16
 translate spanish b1c08ws10_a74ed1b6:
@@ -122,7 +122,7 @@ translate spanish b1c08ws10_71008e80:
 translate spanish b1c08ws10_ae54e77d:
 
     # oa "The tournament is important, but I think we're missing the point here. We should be more concerned about [mcname]'s health. It was his first time using the drugs, it could've been even worse."
-    oa "El torneo es importante, pero creo que no estamos en lo cierto. Deberíamos estar más preocupados por la salud de [mcname]. Era la primera vez que consumía drogas, podría haber sido incluso peor."
+    oa "El torneo es importante, pero creo que nos estamos equivocando. Deberíamos preocuparnos más por la salud de [mcname]. Era su primera vez consumiendo drogas, podría haber sido incluso peor."
 
 # game/code/Book-1/Chapter-8w/s10.rpy:61
 translate spanish b1c08ws10_7acfd1df:
@@ -140,7 +140,7 @@ translate spanish b1c08ws10_3266c000:
 translate spanish b1c08ws10_7225795d:
 
     # mc "I appreciate the concern, I really do."
-    mc "Aprecio la preocupación, de verdad."
+    mc "Agradezco la preocupación, de verdad."
 
 # game/code/Book-1/Chapter-8w/s10.rpy:67
 translate spanish b1c08ws10_9f611483:
@@ -152,7 +152,7 @@ translate spanish b1c08ws10_9f611483:
 translate spanish b1c08ws10_518adcdb:
 
     # mc "I did it because I wanted us to win. I thought I could deal with it. I couldn't."
-    mc "Lo hice porque quería que ganáramos. Pensé que podría lidiar con eso. No pude."
+    mc "Lo hice porque quería que ganáramos. Pensé que podría lidiar con eso. Pero no pude."
 
 # game/code/Book-1/Chapter-8w/s10.rpy:71
 translate spanish b1c08ws10_99046264:
@@ -165,6 +165,12 @@ translate spanish b1c08ws10_8e70be1a:
 
     # "The room falls quiet again, but this time, the silence feels different. The memory of the bitter loss is still fresh in everyone's mind."
     "La habitación vuelve a quedar en silencio, pero esta vez el silencio se siente diferente. El recuerdo de la amarga derrota todavía está fresco en la mente de todos."
+
+# game/code/Book-1/Chapter-8w/s10.rpy:75
+translate spanish b1c08ws10_7496e292:
+
+    # oa "We wouldn't have had to deal with any of this if just played without it. We don't need dangerous—"
+    oa "No habríamos tenido que lidiar con nada de esto si hubiésemos jugado sin él. No necesitamos peligrosos..."
 
 # game/code/Book-1/Chapter-8w/s10.rpy:78
 translate spanish b1c08ws10_6e3bdfca:
@@ -344,7 +350,7 @@ translate spanish b1c08ws10_028f3f67:
 translate spanish b1c08ws10_46c8112a:
 
     # sm "*Clears her throat* No, I think we've all said our piece. We need to be careful moving forward and think about the team's future. Not just winning, but also about our well-being."
-    sm "*Se aclara la garganta* No, creo que todos hemos dicho lo nuestro. Hay que tener cuidado en avanzar y pensar en el futuro del equipo. No sólo en ganar, sino también de nuestro bienestar."
+    sm "*Se aclara la garganta* No, creo que todos hemos dicho lo nuestro. Hay que tener cuidado en avanzar y pensar en el futuro del equipo. No sólo en ganar, sino también en nuestro bienestar."
 
 # game/code/Book-1/Chapter-8w/s10.rpy:163
 translate spanish b1c08ws10_c4e92b7f:
@@ -393,10 +399,4 @@ translate spanish b1c08ws10_6778327d:
 
     # "One by one, the team files out of the room, the atmosphere thick with a mix of relief and lingering tension."
     "Uno por uno, el equipo sale de la habitación, la atmósfera está espesa con una mezcla de alivio y tensión persistente."
-
-# game/code/Book-1/Chapter-8w/s10.rpy:79
-translate spanish b1c08ws10_777e1ea1:
-
-    # oa "We wouldn't have had to deal with any of this if we just played without it. We don't need dangerous—"
-    oa "We wouldn't have had to deal with any of this if we just played without it. We don't need dangerous—"
 
