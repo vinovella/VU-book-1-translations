@@ -1278,35 +1278,35 @@ translate turkish strings:
 translate turkish b1c08ws02_1a4f6af9:
 
     # "She bites her lower lip and admires your cock before grabbing a hold of it and slowly stroking up and down your entire length."
-    "She bites her lower lip and admires your cock before grabbing a hold of it and slowly stroking up and down your entire length."
+    "Alt dudağını ısırıyor ve sikini tutup yavaşça tüm uzunluğunu aşağı yukarı okşamadan önce hayranlıkla seyrediyor."
 
 # game/code/Book-1/Chapter-8w/s02.rpy:428
 translate turkish b1c08ws02_b9360388:
 
     # oa "Ooh! wait a minute, you're conducting an orchestra, is that it?"
-    oa "Ooh! wait a minute, you're conducting an orchestra, is that it?"
+    oa "Ooh! bir dakika, bir orkestra yönetiyorsun, öyle mi?"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:439
 translate turkish b1c08ws02_9741e484:
 
     # "You finally sit back down and let the group figure out your lie."
-    "You finally sit back down and let the group figure out your lie."
+    "Sonunda yerine otur ve grubun yalanını anlamasına izin ver."
 
 # game/code/Book-1/Chapter-8w/s02.rpy:441
 translate turkish b1c08ws02_0f91acf7:
 
     # "You finally sit back down and let the group figure everything out."
-    "You finally sit back down and let the group figure everything out."
+    "Sonunda yerine otur ve grubun her şeyi anlamasına izin ver."
 
 # game/code/Book-1/Chapter-8w/s02.rpy:458
 translate turkish b1c08ws02_10845095:
 
     # "Everyone takes a turn trying to figure out which of your mimes were true and which one was the lie."
-    "Everyone takes a turn trying to figure out which of your mimes were true and which one was the lie."
+    "Herkes sırayla hangi taklidinizin doğru, hangisinin yalan olduğunu anlamaya çalışıyor."
 
 # game/code/Book-1/Chapter-8w/s02.rpy:572
 translate turkish b1c08ws02_a1831067:
 
     # "Suddenly, the bus hits a bump in the road, causing Iona to take you even further into her mouth. She almost chokes, but manages to hold on and continue taking you to your very base."
-    "Suddenly, the bus hits a bump in the road, causing Iona to take you even further into her mouth. She almost chokes, but manages to hold on and continue taking you to your very base."
+    "Otobüs aniden yoldaki bir tümseğe çarpıyor ve Iona'nın seni daha da fazla ağzına almasına neden oluyor. Neredeyse boğulacaktı ama tutunmayı başardı ve seni en dibine kadar almaya devam etti."
 
