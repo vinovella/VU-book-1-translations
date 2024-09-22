@@ -254,7 +254,7 @@ translate turkish replay_b1c09s10_eacf912b:
 translate turkish replay_b1c09s10_28ec9ff6:
 
     # ima "We're just flustered sluts, that's all."
-    ima "We're just flustered sluts, that's all."
+    ima "Biz sadece telaşlı sürtükleriz, hepsi bu."
 
 # game/code/Book-1/Chapter-9/s10.rpy:261
 translate turkish replay_b1c09s10_38e90fe9:
