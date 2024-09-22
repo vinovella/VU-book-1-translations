@@ -2,215 +2,215 @@
 
     # game/code/hints.rpy:11
     old "You protect Silvia from getting splashed. +1 point with Silvia."
-    new "You protect Silvia from getting splashed. +1 point with Silvia."
+    new "你保护西尔维娅不被溅到。与西尔维娅的关系+1分"
 
     # game/code/hints.rpy:11
     old "You do nothing and watch the show. 0 points with Silvia."
-    new "You do nothing and watch the show. 0 points with Silvia."
+    new "你什么也不做，只是在一旁吃瓜。与西尔维娅的关系+0分"
 
     # game/code/hints.rpy:11
     old "You respond aggressively. +1 point with Delphia."
-    new "You respond aggressively. +1 point with Delphia."
+    new "你反应激烈。与德尔菲娅的关系+1分"
 
     # game/code/hints.rpy:11
     old "You respond diplomatically. +1 point with Simon."
-    new "You respond diplomatically. +1 point with Simon."
+    new "你反应圆滑。与西蒙的关系+1分"
 
     # game/code/hints.rpy:11
     old "You respond humorously. +1 point with Zemfira."
-    new "You respond humorously. +1 point with Zemfira."
+    new "你反应幽默。与泽菲拉的关系+1分"
 
     # game/code/hints.rpy:11
     old "Josie is biologically female."
-    new "Josie is biologically female."
+    new "乔西在生理上是女性。"
 
     # game/code/hints.rpy:11
     old "Josie was born biologically male, and has transitioned to be female."
-    new "Josie was born biologically male, and has transitioned to be female."
+    new "乔西出生时是男性，后来变性为女性。"
 
     # game/code/hints.rpy:11
     old "You show interest in Delphia's performance and get to watch it with Nia. +1 point with Delphia."
-    new "You show interest in Delphia's performance and get to watch it with Nia. +1 point with Delphia."
+    new "你对德尔菲娅的表演感兴趣，并和妮娅一起观看了。与德尔菲娅的关系+1分"
 
     # game/code/hints.rpy:11
     old "You don't watch Delphia's show. 0 points with Delphia."
-    new "You don't watch Delphia's show. 0 points with Delphia."
+    new "你没有观看德尔菲娅的表演。与德尔菲娅的关系+0分"
 
     # game/code/hints.rpy:11
     old "You respond with crass humor. Nia doesn't really like it. 0 points with Nia."
-    new "You respond with crass humor. Nia doesn't really like it. 0 points with Nia."
+    new "你用粗俗的幽默来回应。妮娅并不喜欢。与妮娅的关系+0分。"
 
     # game/code/hints.rpy:11
     old "You respond with open curiosity. Nia likes it. +1 point with Nia."
-    new "You respond with open curiosity. Nia likes it. +1 point with Nia."
+    new "你表现出开放的好奇心。妮娅很喜欢。与妮娅的关系+1分。"
 
     # game/code/hints.rpy:11
     old "You agree with and encourage Iona. +1 point with Iona."
-    new "You agree with and encourage Iona. +1 point with Iona."
+    new "你赞同欧娜，并鼓励她。与欧娜的关系+1分。"
 
     # game/code/hints.rpy:11
     old "You don't agree with Iona. 0 points with Iona."
-    new "You don't agree with Iona. 0 points with Iona."
+    new "你不赞同欧娜。与欧娜的关系+0分。"
 
     # game/code/hints.rpy:11
     old "You rebuff Iona. -1 point with Iona."
-    new "You rebuff Iona. -1 point with Iona."
+    new "你拒绝了欧娜。与欧娜的关系-1分。"
 
     # game/code/hints.rpy:11
     old "Iona gives you a blowjob. +1 point with Iona."
-    new "Iona gives you a blowjob. +1 point with Iona."
+    new "欧娜给你口交。与欧娜的关系+1分。"
 
     # game/code/hints.rpy:11
     old "Zemfira doesn't care. 0 points with Zemfira."
-    new "Zemfira doesn't care. 0 points with Zemfira."
+    new "泽菲拉不在乎。与泽菲拉的关系+0分。"
 
     # game/code/hints.rpy:11
     old "Fucked up thing to say. -1 point with Zemfira."
-    new "Fucked up thing to say. -1 point with Zemfira."
+    new "说错话了。与泽菲拉的关系-1分。"
 
     # game/code/hints.rpy:11
     old "Zemfira's chill. 0 points with Zemfira."
-    new "Zemfira's chill. 0 points with Zemfira."
+    new "泽菲拉很冷静。与泽菲拉的关系+0分。"
 
     # game/code/hints.rpy:11
     old "Fleur likes that you're encouraging. +1 point with Fleur."
-    new "Fleur likes that you're encouraging. +1 point with Fleur."
+    new "芙蓉喜欢你鼓励她。与芙蓉的关系+1分。"
 
     # game/code/hints.rpy:11
     old "Fleur moves onto other topics. 0 points with Fleur."
-    new "Fleur moves onto other topics. 0 points with Fleur."
+    new "芙蓉转移话题。与芙蓉的关系+0分。"
 
     # game/code/hints.rpy:11
     old "You have no clue what you're talking about, but you do get a blowjob."
-    new "You have no clue what you're talking about, but you do get a blowjob."
+    new "你完全不知道自己在说什么，但确实得到了口交。"
 
     # game/code/hints.rpy:11
     old "You fumble the lead and don't get a blowjob."
-    new "You fumble the lead and don't get a blowjob."
+    new "你搞砸了，没有得到口交。"
 
     # game/code/hints.rpy:11
     old "You agree to go bouldering with Josie and Lara. This puts you in Josie and Lara's path."
-    new "You agree to go bouldering with Josie and Lara. This puts you in Josie and Lara's path."
+    new "你同意和乔西还有劳拉一起去攀岩。这使你进入了乔西和劳拉的路径。"
 
     # game/code/hints.rpy:11
     old "You rebuff Josie. This doesn't yet take you out of Josie and Lara's path."
-    new "You rebuff Josie. This doesn't yet take you out of Josie and Lara's path."
+    new "你拒绝了乔西。这并没有让你脱离乔西和劳拉的路径。"
 
     # game/code/hints.rpy:11
     old "Silvia doesn't like you badmouthing the team. 0 points with Silvia."
-    new "Silvia doesn't like you badmouthing the team. 0 points with Silvia."
+    new "西尔维娅不喜欢你你说球队的坏话。与西尔维娅的关系+0分。"
 
     # game/code/hints.rpy:11
     old "You crack a joke, but it doesn't make Silvia feel better. 0 points with Silvia."
-    new "You crack a joke, but it doesn't make Silvia feel better. 0 points with Silvia."
+    new "你开了一个玩笑，但没能让西尔维娅好受点。与西尔维娅的关系+0分。"
 
     # game/code/hints.rpy:11
     old "Silvia appreciates your honesty and vulnerability. +1 point with Silvia."
-    new "Silvia appreciates your honesty and vulnerability. +1 point with Silvia."
+    new "西尔维娅欣赏你的诚实和脆弱。与西尔维娅的关系+1分。"
 
     # game/code/hints.rpy:11
     old "You will go with Iona and have sex with her behind the tiki bar."
-    new "You will go with Iona and have sex with her behind the tiki bar."
+    new "你会和欧娜一起去，在夏威夷风情酒吧后面和她做爱。"
 
     # game/code/hints.rpy:11
     old "No sex with Iona. 0 points with Iona."
-    new "No sex with Iona. 0 points with Iona."
+    new "没有和欧娜发生性关系。与欧娜的关系+0分。"
 
     # game/code/hints.rpy:11
     old "You fuck Iona's mouth. +1 point with Iona."
-    new "You fuck Iona's mouth. +1 point with Iona."
+    new "你操欧娜的嘴。与欧娜的关系+1分。"
 
     # game/code/hints.rpy:11
     old "Iona just keeps sucking you off. 0 points with Iona."
-    new "Iona just keeps sucking you off. 0 points with Iona."
+    new "欧娜不停地为你口交。与欧娜的关系+0分。"
 
     # game/code/hints.rpy:11
     old "You fuck Iona roughly. +1 point with Iona."
-    new "You fuck Iona roughly. +1 point with Iona."
+    new "你粗暴地操欧娜。与欧娜的关系+1分。"
 
     # game/code/hints.rpy:11
     old "You don't fuck Iona roughly. 0 points with Iona."
-    new "You don't fuck Iona roughly. 0 points with Iona."
+    new "你没有粗暴地操欧娜。与欧娜的关系+0分。"
 
     # game/code/hints.rpy:11
     old "You gain +1 points with Iona."
-    new "You gain +1 points with Iona."
+    new "你与欧娜的关系+1分。"
 
     # game/code/hints.rpy:11
     old "You gain no points."
-    new "You gain no points."
+    new "你没有获得任何分数。"
 
     # game/code/hints.rpy:11
     old "Correct question. 2 out of 3 correct questions will give you a sex scene with Delphia."
-    new "Correct question. 2 out of 3 correct questions will give you a sex scene with Delphia."
+    new "答对问题。3道题答对2道，你将和德尔菲娅上演一场性爱戏。"
 
     # game/code/hints.rpy:11
     old "Incorrect question."
-    new "Incorrect question."
+    new "答错问题。"
 
     # game/code/hints.rpy:11
     old "Call Ronja and go to her office for a sex scene. This opens Ronja's path for you."
-    new "Call Ronja and go to her office for a sex scene. This opens Ronja's path for you."
+    new "打电话给荣佳，去她的办公室和她做爱。这会为你打开荣佳的路径。"
 
     # game/code/hints.rpy:11
     old "Don't call Ronja. No sex scene. This closes Ronja's path for you."
-    new "Don't call Ronja. No sex scene. This closes Ronja's path for you."
+    new "不打电话给荣佳。没有性爱场景。这会为你关闭荣佳的路径。"
 
     # game/code/hints.rpy:11
     old "Delphia stops and you both go back to campus."
-    new "Delphia stops and you both go back to campus."
+    new "德尔菲娅停了下来，你们两个都回到了校园。"
 
     # game/code/hints.rpy:11
     old "Delphia gives you a handjob."
-    new "Delphia gives you a handjob."
+    new "黛尔菲娅给你打手枪。"
 
     # game/code/hints.rpy:11
     old "She finishes you off with a blowjob. +1 point with Delphia."
-    new "She finishes you off with a blowjob. +1 point with Delphia."
+    new "她给你口交收尾。和德尔菲娅的关系+1分。"
 
     # game/code/hints.rpy:11
     old "You both go back to campus. 0 points with Delphia."
-    new "You both go back to campus. 0 points with Delphia."
+    new "你们俩都回到校园。和德尔菲娅的关系+0分。"
 
     # game/code/hints.rpy:11
     old "Talk comfortingly to Nia. 0 points with Nia."
-    new "Talk comfortingly to Nia. 0 points with Nia."
+    new "安慰妮娅。和妮娅的关系+0分。"
 
     # game/code/hints.rpy:11
     old "Physically comfort Nia. +1 point with Nia."
-    new "Physically comfort Nia. +1 point with Nia."
+    new "在身体上安慰妮娅。和妮娅的关系+1分。"
 
     # game/code/hints.rpy:11
     old "Choose to investigate Sally further. Sex with Sally. This puts you on Sally's path."
-    new "Choose to investigate Sally further. Sex with Sally. This puts you on Sally's path."
+    new "选择进一步调查莎莉。与莎莉发生性关系。这会让你走上莎莉的路径。"
 
     # game/code/hints.rpy:11
     old "Investigate the Artist. Closes Sally's path for you. This puts you on Ezra's path."
-    new "Investigate the Artist. Closes Sally's path for you. This puts you on Ezra's path."
+    new "调查画家。这会为你关闭莎莉的路径。这会让你走上以斯拉的路径。"
 
     # game/code/hints.rpy:11
     old "Worship Sally's body like the goddess she is. +1 point with Sally."
-    new "Worship Sally's body like the goddess she is. +1 point with Sally."
+    new "像崇拜女神一样崇拜莎莉的身体。与莎莉的关系+1分。"
 
     # game/code/hints.rpy:11
     old "Get rough with Sally. She likes it, but not as much as being worshiped. 0 points with Sally."
-    new "Get rough with Sally. She likes it, but not as much as being worshiped. 0 points with Sally."
+    new "对莎莉粗暴一点。她喜欢这样，但更喜欢被崇拜。与莎莉的关系+0分。"
 
     # game/code/hints.rpy:11
     old "Xasan likes 'em bold. +1 point with Xasan."
-    new "Xasan likes 'em bold. +1 point with Xasan."
+    new "哈桑喜欢大胆的人。和哈桑关系+1分。"
 
     # game/code/hints.rpy:11
     old "Xasan thinks you're weak. 0 points with Xasan."
-    new "Xasan thinks you're weak. 0 points with Xasan."
+    new "哈桑认为你很软弱。和哈桑关系+0分。"
 
     # game/code/hints.rpy:11
     old "You let Fleur continue feeling up your thigh. She will give you a handjob. +1 point with Fleur."
-    new "You let Fleur continue feeling up your thigh. She will give you a handjob. +1 point with Fleur."
+    new "你任由芙蓉继续抚摸你的大腿。她会给你打手枪。和芙蓉关系+1分。"
 
     # game/code/hints.rpy:11
     old "You stop Fleur from feeling up your thigh."
-    new "You stop Fleur from feeling up your thigh."
+    new "你阻止芙蓉抚摸你的大腿。"
 
     # game/code/hints.rpy:11
     old "You turn the question around on Asami. Fleur thinks you're acting weird. -1 point with Fleur."
