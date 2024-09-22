@@ -32,7 +32,7 @@ translate spanish b1c08ws09_ea0117dd:
 translate spanish b1c08ws09_b9b7f42c:
 
     # "You take a few steps forward, intending to claim a quiet corner for yourself, but then you notice her—Olesya."
-    "Das unos pasos hacia adelante, con la intención de reclamar un rincón tranquilo para ti, pero entonces te fijas en ella: Olesya."
+    "Das unos pasos hacia adelante, con la intención de reclamar un rincón tranquilo para ti, pero entonces te fijas en ella... Olesya."
 
 # game/code/Book-1/Chapter-8w/s09.rpy:30
 translate spanish b1c08ws09_e5e4940f:
@@ -158,7 +158,7 @@ translate spanish b1c08ws09_0e9f361a:
 translate spanish b1c08ws09_12ae99f1:
 
     # "Olesya's eyes meet yours, and she smiles—a small, genuine uplift of her lips that makes her eyes shine even in the rooftop's dim light."
-    "Los ojos de Olesya se encuentran con los tuyos y sonríe: un pequeño y genuino levantamiento de sus labios que hace que sus ojos brillen incluso en la tenue luz de la azotea."
+    "Los ojos de Olesya se cruzan con los tuyos y sonríe, una pequeña y genuina sonrisa que hace brillar sus ojos incluso en la penumbra de la azotea."
 
 # game/code/Book-1/Chapter-8w/s09.rpy:93
 translate spanish b1c08ws09_812e38e2:
@@ -182,7 +182,7 @@ translate spanish b1c08ws09_d25984fa:
 translate spanish b1c08ws09_eeb98062:
 
     # "You smile back at her. Her genuine concern catching you off guard."
-    "Le devuelves la sonrisa. Su genuina preocupación te pilló con la guardia baja."
+    "Le devuelves la sonrisa. Su genuina preocupación te atrapa con la guardia baja."
 
 # game/code/Book-1/Chapter-8w/s09.rpy:102
 translate spanish b1c08ws09_512eae0d:
@@ -194,7 +194,7 @@ translate spanish b1c08ws09_512eae0d:
 translate spanish b1c08ws09_8696d72a:
 
     # oa "{size=20}I knew we shouldn't have taken those drugs anyway.{/size}"
-    oa "{size=20}Sabía que no deberíamos haber tomado esos medicamentos de todos modos.{/size}"
+    oa "{size=20}De todos modos, sabía que no deberíamos haber tomado esas drogas.{/size}"
 
 # game/code/Book-1/Chapter-8w/s09.rpy:107
 translate spanish b1c08ws09_cddce01d:
@@ -224,7 +224,7 @@ translate spanish b1c08ws09_84b68073:
 translate spanish b1c08ws09_ec71f3f7:
 
     # oa "And... Ugh, I guess it's just easier to show you."
-    oa "Y... Uf, supongo que es más fácil mostrárselo."
+    oa "Y... Ugh, supongo que es más fácil mostrarte."
 
 # game/code/Book-1/Chapter-8w/s09.rpy:123
 translate spanish b1c08ws09_ee1e3e5b:
@@ -332,7 +332,7 @@ translate spanish b1c08ws09_bc0497bf:
 translate spanish b1c08ws09_ddc5d5b1:
 
     # oa "*Sighs* I've made my peace with my demons. I just wish you all didn't have to deal with it too."
-    oa "*Suspira* He hecho las paces con mis demonios. Sólo desearía que ustedes no tuvieran que lidiar con eso también."
+    oa "*Suspira* He hecho las paces con mis demonios. Sólo desearía que todos ustedes no tuvieran que lidiar con eso también."
 
 # game/code/Book-1/Chapter-8w/s09.rpy:173
 translate spanish b1c08ws09_df540deb:
@@ -362,7 +362,7 @@ translate spanish b1c08ws09_fc223158:
 translate spanish b1c08ws09_75610801:
 
     # oa "Honestly, I'm sort of surprised that Monika didn't tattle already."
-    oa "Honestamente, estoy un poco sorprendido de que Mónica no lo hubiera contado ya."
+    oa "Honestamente, estoy un poco sorprendida de que Mónica no lo hubiera contado ya."
 
 # game/code/Book-1/Chapter-8w/s09.rpy:187
 translate spanish b1c08ws09_3daaba2e:
@@ -374,7 +374,7 @@ translate spanish b1c08ws09_3daaba2e:
 translate spanish b1c08ws09_28f1f669:
 
     # oa "Well, you two bunked right?"
-    oa "Bueno, ¿ustedes dos se durmieron juntos, verdad?"
+    oa "Bueno, ¿ustedes dos durmieron juntos, verdad?"
 
 # game/code/Book-1/Chapter-8w/s09.rpy:191
 translate spanish b1c08ws09_0996cb3f:
@@ -428,7 +428,7 @@ translate spanish b1c08ws09_e18d737b:
 translate spanish b1c08ws09_49431eab:
 
     # "Her fists tighten again, knuckles white with the force of her grip. You can almost feel the heat of her anger."
-    "Sus puños se aprietan de nuevo, los nudillos blancos por la fuerza del agarre. Casi puedes sentir el calor de su ira."
+    "Vuelve a apretar los puños, con los nudillos blancos por la fuerza de su agarre. Casi puedes sentir el calor de su enojo."
 
 # game/code/Book-1/Chapter-8w/s09.rpy:209
 translate spanish b1c08ws09_d72fe19c:
@@ -440,7 +440,7 @@ translate spanish b1c08ws09_d72fe19c:
 translate spanish b1c08ws09_88a6d96b:
 
     # oa "She rallied people against me, and I was ousted from the club during my lowest."
-    oa "Ella reunió a la gente en mi contra y me expulsaron del club durante mi peor momento."
+    oa "Ella hizo que la gente se pusiera en mi contra y me expulsaron del club durante mi peor momento."
 
 # game/code/Book-1/Chapter-8w/s09.rpy:215
 translate spanish b1c08ws09_64701557:
@@ -482,7 +482,7 @@ translate spanish b1c08ws09_3862091f:
 translate spanish b1c08ws09_8683fe82:
 
     # "As if on cue, a weary yawn escapes your lips. A sudden reminder that you need more rest than you've gotten."
-    "Como si fuera una señal, un bostezo cansado se escapa de tus labios. Un recordatorio repentino de que necesitas más descanso del que ha disfrutado."
+    "De repente, un bostezo se escapa de tus labios. Un repentino recordatorio de que necesitas más descanso del que has tenido."
 
 # game/code/Book-1/Chapter-8w/s09.rpy:236
 translate spanish b1c08ws09_56f2c6a0:
@@ -554,7 +554,7 @@ translate spanish b1c08ws09_7114df80:
 translate spanish b1c08ws09_e29b3ab1:
 
     # mc "Huh—?"
-    mc "Eh-?"
+    mc "¿Eh-?"
 
 # game/code/Book-1/Chapter-8w/s09.rpy:267
 translate spanish b1c08ws09_705dc3c5:
@@ -618,5 +618,5 @@ translate spanish strings:
 
     # game/code/Book-1/Chapter-8w/s09.rpy:152
     old "Respond Politely"
-    new "Responda cortésmente"
+    new "Responder cortésmente"
 
