@@ -98,7 +98,7 @@ translate turkish replay_b1c09s09w_22fa191b:
 translate turkish replay_b1c09s09w_066f64be:
 
     # ir "Are you fuckers ready for a strip tease?!"
-    ir "Are you fuckers ready for a strip tease?!"
+    ir "Siz sikikler striptiz yapmaya hazır mısınız?!"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:92
 translate turkish replay_b1c09s09w_a96851f9:
@@ -668,7 +668,7 @@ translate turkish b1c09s09w_ba_show_caf429e6:
 translate turkish b1c09s09w_ba_show_8b17eaac:
 
     # ba "Listen here you naive little shit."
-    ba "Listen here you naive little shit."
+    ba "Burayı dinle seni saf küçük bok."
 
 # game/code/Book-1/Chapter-9/s09w.rpy:498
 translate turkish b1c09s09w_ba_show_b5361eec:
@@ -722,7 +722,7 @@ translate turkish b1c09s09w_ba_show_6a931f48:
 translate turkish b1c09s09w_ba_show_f6f99245:
 
     # ba "Don't fucking act like you don't know."
-    ba "Don't fucking act like you don't know."
+    ba "Bilmiyormuş gibi davranma."
 
 # game/code/Book-1/Chapter-9/s09w.rpy:524
 translate turkish b1c09s09w_ba_show_6312650e:
@@ -1082,7 +1082,7 @@ translate turkish b1c09s09w_wc_available_69dd8d58:
 translate turkish b1c09s09w_wc_available_4b005d3f:
 
     # ir "I push too hard and I instigate so much shit."
-    ir "I push too hard and I instigate so much shit."
+    ir "Çok zorluyorum ve çok fazla boku kışkırtıyorum."
 
 # game/code/Book-1/Chapter-9/s09w.rpy:785
 translate turkish b1c09s09w_wc_available_907bee5d:
@@ -1124,7 +1124,7 @@ translate turkish b1c09s09w_wc_available_baf79f14:
 translate turkish b1c09s09w_wc_available_4c2d41ed:
 
     # ir "Otherwise I get all emo and shit."
-    ir "Otherwise I get all emo and shit."
+    ir "Aksi takdirde emo falan oluyorum."
 
 # game/code/Book-1/Chapter-9/s09w.rpy:809
 translate turkish b1c09s09w_wc_available_a731aec3:
