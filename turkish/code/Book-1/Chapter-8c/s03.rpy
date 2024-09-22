@@ -1646,11 +1646,11 @@ translate turkish strings:
 translate turkish b1c08cs03_fbaa59a8:
 
     # "Nia and Lumi are distracted by watching the other women cum. They watch curiously and supportively as afterglow spreads up Ivy and Delphia's chests."
-    "Nia and Lumi are distracted by watching the other women cum. They watch curiously and supportively as afterglow spreads up Ivy and Delphia's chests."
+    "Nia ve Lumi diğer kadınların boşalmasını izleyerek dikkatlerini dağıtırlar. Ivy ve Delphia'nın göğüslerine yayılan parıltıyı merakla ve destekleyici bir şekilde izliyorlar"
 
 # game/code/Book-1/Chapter-8c/s03.rpy:670
 translate turkish b1c08cs03_53d70e0f:
 
     # ll "No! Come, let's spread the joy!"
-    ll "No! Come, let's spread the joy!"
+    ll "Hayır! Gelin, neşeyi yayalım!"
 
