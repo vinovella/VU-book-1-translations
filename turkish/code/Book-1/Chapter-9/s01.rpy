@@ -380,7 +380,7 @@ translate turkish b1c09s01_check_pm_03d2c956:
 translate turkish b1c09s01_check_pm_5c9e82b5:
 
     # kc "Pretty rotten fucking deal, isn't it?"
-    kc "Pretty rotten fucking deal, isn't it?"
+    kc "Oldukça berbat bir anlaşma, değil mi?"
 
 # game/code/Book-1/Chapter-9/s01.rpy:430
 translate turkish b1c09s01_check_pm_cc757e11:
