@@ -26,7 +26,7 @@ translate spanish b1c08cs09_e9aceaf2:
 translate spanish b1c08cs09_d3c11706:
 
     # "Morning dawns in the commune cabin, the image of a peaceful sanctuary if not for the tense conflict inside."
-    "La mañana amanece en la cabaña de la comuna, la imagen de un santuario pacífico si no fuera por el tenso conflicto en su interior."
+    "Amanece en la cabaña de la comunidad, la imagen de un santuario pacífico si no fuera por el tenso conflicto que se vive en su interior."
 
 # game/code/Book-1/Chapter-8c/s09.rpy:33
 translate spanish b1c08cs09_115544fb:
@@ -56,7 +56,7 @@ translate spanish b1c08cs09_ad24fe67:
 translate spanish b1c08cs09_3fb795c4:
 
     # ad "It's unfortunate she was paired with an obtuse nitwit."
-    ad "Es desafortunado que la emparejaran con un idiota obtuso."
+    ad "Lástima que la emparejaran con un imbécil estúpido."
 
 # game/code/Book-1/Chapter-8c/s09.rpy:47
 translate spanish b1c08cs09_00cab8e4:
@@ -206,7 +206,7 @@ translate spanish b1c08cs09_9400a54f:
 translate spanish b1c08cs09_b41786b5:
 
     # ih "Exactly. Is it not the very complex path to spirituality we seek to understand?"
-    ih "Exactamente. ¿No es el muy complejo camino hacia la espiritualidad lo que buscamos comprender?"
+    ih "Exactamente. ¿No es el complejísimo camino hacia la espiritualidad lo que buscamos entender?"
 
 # game/code/Book-1/Chapter-8c/s09.rpy:107
 translate spanish b1c08cs09_cdd81105:
@@ -590,7 +590,7 @@ translate spanish b1c08cs09_body_paint_db594d98:
 translate spanish b1c08cs09_body_paint_9f193271:
 
     # ih "For body painting."
-    ih "Para pintura corporal."
+    ih "Para hacer una pintura corporal."
 
 # game/code/Book-1/Chapter-8c/s09.rpy:270
 translate spanish b1c08cs09_body_paint_dd2fe3d8:
@@ -626,7 +626,7 @@ translate spanish b1c08cs09_body_paint_a6790f30:
 translate spanish b1c08cs09_body_paint_7dd3b870:
 
     # ih "*Clears her throat* Right. And then, we have viridian. A representation of Earth, through which we're birthed, and to which we will return."
-    ih "*Se aclara la garganta* Cierto. Y luego tenemos viridian. Una representación de la Tierra, a través de la cual nacemos y a la que regresaremos."
+    ih "*Se aclara la garganta* Cierto. Y luego tenemos el viridian. Una representación de la Tierra, a través de la cual nacemos y a la que regresaremos."
 
 # game/code/Book-1/Chapter-8c/s09.rpy:281
 translate spanish b1c08cs09_body_paint_a1f00515:
@@ -836,13 +836,13 @@ translate spanish b1c08cs09_body_paint_3539a257:
 translate spanish b1c08cs09_body_paint_f712ee28:
 
     # mc "I-I didn't mean to offend you. I just think you shouldn't shoulder the burden of someone else's mood. Especially someone that isn't being fair to you."
-    mc "N-no quise ofenderte. Simplemente creo que no deberías cargar con la carga del estado de ánimo de otra persona. Especialmente alguien que no está siendo justa contigo."
+    mc "No quise ofenderte. Simplemente creo que no deberías cargar con la carga del estado de ánimo de otra persona. Especialmente alguien que no está siendo justa contigo."
 
 # game/code/Book-1/Chapter-8c/s09.rpy:361
 translate spanish b1c08cs09_body_paint_5509085c:
 
     # nv "But I respect her a lot, and it hurts when she doesn't even acknowledge me all the same."
-    nv "Pero la respeto mucho y me duele cuando de todos modos ni siquiera me reconoce."
+    nv "Pero yo la respeto mucho, y me duele cuando ella ni siquiera me reconoce de todos modos."
 
 # game/code/Book-1/Chapter-8c/s09.rpy:362
 translate spanish b1c08cs09_body_paint_4550b6a2:
@@ -872,7 +872,7 @@ translate spanish b1c08cs09_body_paint_b46ec674:
 translate spanish b1c08cs09_body_paint_baab3561:
 
     # nv "I...guess you're right. It's just...easier said than done, you know?"
-    nv "Supongo... que estas en lo correcto. Es sólo que... es más fácil decirlo que hacerlo, ¿sabes?"
+    nv "Yo... supongo que tienes razón. Es sólo que... es más fácil decirlo que hacerlo, ¿sabes?"
 
 # game/code/Book-1/Chapter-8c/s09.rpy:374
 translate spanish b1c08cs09_body_paint_d7f0a013:
@@ -956,7 +956,7 @@ translate spanish b1c08cs09_body_paint_fe0fb166:
 translate spanish b1c08cs09_body_paint_38cf15d9:
 
     # nv "*Giggles* You're right. If after all this you end up drawing a stickman on me, Del will probably burn you at the stake."
-    nv "*risas* Tienes razón. Si después de todo esto terminas dibujándome un muñeco, Del probablemente te queme en la hoguera."
+    nv "*Risas* Tienes razón. Si después de todo esto terminas dibujándome un muñeco, Del probablemente te queme en la hoguera."
 
 # game/code/Book-1/Chapter-8c/s09.rpy:410
 translate spanish b1c08cs09_body_paint_b4b9741a:
@@ -998,7 +998,7 @@ translate spanish b1c08cs09_body_paint_699878f6:
 translate spanish b1c08cs09_body_paint_69622171:
 
     # nv "C'mon, I'll direct you. Let's work on the paint first, then we'll practice the dance."
-    nv "Vamos, te dirijo. Primero trabajemos en la pintura y luego practicaremos el baile."
+    nv "Vamos, yo te dirigiré. Vamos a trabajar en la pintura en primer lugar, y luego practicaremos el baile."
 
 # game/code/Book-1/Chapter-8c/s09.rpy:439
 translate spanish b1c08cs09_body_paint_74c498aa:
@@ -1058,13 +1058,13 @@ translate spanish b1c08cs09_body_paint_5075f688:
 translate spanish b1c08cs09_body_paint_b9e0ee9a:
 
     # "You spend the rest of the day in peaceful collaboration as you and Nia work to create the perfect body paint design for tonight."
-    "Pasas el resto del día en colaboración pacífica mientras tú y Nia trabajan para crear el diseño de pintura corporal perfecto para esta noche."
+    "Pasas el resto del día en colaboración pacífica mientras Nia y tú trabajan para crear el diseño de pintura corporal perfecto para esta noche."
 
 # game/code/Book-1/Chapter-8c/s09.rpy:471
 translate spanish b1c08cs09_body_paint_505141cd:
 
     # "And after hours of designing her body paint, you and Nia then work on the dance..."
-    "Y después de horas de diseñar su pintura corporal, tú y Nia trabajan en el baile..."
+    "Y después de horas de diseñar su pintura corporal, Nia y tú trabajan en el baile..."
 
 translate spanish strings:
 
