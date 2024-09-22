@@ -182,7 +182,7 @@ translate spanish b1c08cs10_7ebad30f:
 translate spanish b1c08cs10_f9c0a61e:
 
     # nv "It takes so much courage to bring that amount of prosperity to both yourself and the ones you love... It takes so much passion and love."
-    nv "Se necesita mucho coraje para traer esa cantidad de prosperidad tanto a ti como a tus seres queridos... Se necesita tanta pasión y amor."
+    nv "Se necesita mucho valor para traer esa cantidad de prosperidad tanto para ti mismo como para las personas que amas... Se necesita mucha pasión y amor."
 
 # game/code/Book-1/Chapter-8c/s10.rpy:290
 translate spanish b1c08cs10_0a1c99d8:
@@ -242,7 +242,7 @@ translate spanish b1c08cs10_43895d40:
 translate spanish b1c08cs10_c1b1e7c4:
 
     # "Ivy ushers you toward Nia without further explanation."
-    "Ivy te lleva hacia Nia sin más explicaciones."
+    "Ivy te lleva con Nia sin más explicaciones."
 
 # game/code/Book-1/Chapter-8c/s10.rpy:311
 translate spanish b1c08cs10_ae8cc892:
@@ -332,7 +332,7 @@ translate spanish b1c08cs10_039fb9f1:
 translate spanish b1c08cs10_f268f2f5:
 
     # nv "But first, we must undress, and display Narurra's lover capturing her."
-    nv "Pero primero debemos desnudarnos y mostrar al amante de Narurra capturándola."
+    nv "Pero primero, debemos desnudarnos, y mostrar cómo la captura el amante de Narurra."
 
 # game/code/Book-1/Chapter-8c/s10.rpy:347
 translate spanish b1c08cs10_392a9b8d:
@@ -344,7 +344,7 @@ translate spanish b1c08cs10_392a9b8d:
 translate spanish b1c08cs10_ritual_34b7faf3:
 
     # "The air becomes thick with the pressure of a storm. Still, but full of vibrating energy."
-    "El aire se vuelve espeso con la presión de una tormenta. Aún así, pero lleno de energía vibrante."
+    "El aire se vuelve denso con la presión de una tormenta. Tranquilo, pero lleno de una energía vibrante."
 
 # game/code/Book-1/Chapter-8c/s10.rpy:358
 translate spanish b1c08cs10_ritual_9311626a:
@@ -356,7 +356,7 @@ translate spanish b1c08cs10_ritual_9311626a:
 translate spanish b1c08cs10_ritual_69e4e2af:
 
     # "You follow Nia's lead easily, as though you can read her mind."
-    "Sigues el ejemplo de Nia fácilmente, como si pudieras leer su mente."
+    "Sigues fácilmente el ejemplo de Nia, como si pudieras leer su mente."
 
 # game/code/Book-1/Chapter-8c/s10.rpy:367
 translate spanish b1c08cs10_ritual_d4133181:
@@ -470,7 +470,7 @@ translate spanish b1c08cs10_ritual_28dd71d3:
 translate spanish b1c08cs10_ritual_e656a2d3:
 
     # "With deliberate care and respect, you firmly tie Nia's body to the cross."
-    "Con cuidado y respeto deliberados, atas firmemente el cuerpo de Nia a la cruz."
+    "Con deliberado cuidado y respeto, atas firmemente el cuerpo de Nia a la cruz."
 
 # game/code/Book-1/Chapter-8c/s10.rpy:454
 translate spanish b1c08cs10_ritual_00c852a4:
@@ -542,7 +542,7 @@ translate spanish b1c08cs10_ritual_c1d6dc39:
 translate spanish b1c08cs10_ritual_41497a5e:
 
     # "You slowly step toward Nia, an obsessive reverence pulsing in your veins."
-    "Lentamente das un paso hacia Nia, una reverencia obsesiva palpitando en tus venas."
+    "Lentamente te acercas a Nia, con una obsesiva reverencia latiendo en tus venas."
 
 # game/code/Book-1/Chapter-8c/s10.rpy:483
 translate spanish b1c08cs10_ritual_7b237315:
@@ -560,7 +560,7 @@ translate spanish b1c08cs10_ritual_25eb0783:
 translate spanish b1c08cs10_ritual_5e16d830:
 
     # "The words get caught in your throat. You don't have the words to express your emotions, your justification for why this sacrifice must be."
-    "Las palabras se quedan atrapadas en tu garganta. No tienes las palabras para expresar tus emociones, tu justificación de por qué debe ser este sacrificio."
+    "Las palabras se te atascan en la garganta. No tienes palabras para expresar tus emociones, tu justificación de por qué debe ser este sacrificio."
 
 # game/code/Book-1/Chapter-8c/s10.rpy:489
 translate spanish b1c08cs10_ritual_9b49a751:
@@ -620,7 +620,7 @@ translate spanish b1c08cs10_ritual_664c730d:
 translate spanish b1c08cs10_ritual_adb80385:
 
     # "Nia looks as though she's in a trance, and the only thing she notices is you, and the fire you light in her."
-    "Nia parece estar en trance y lo único que nota eres a ti y el fuego que enciendes en ella."
+    "Nia parece estar en trance, y lo único que nota es a ti, y el fuego que enciendes en ella."
 
 # game/code/Book-1/Chapter-8c/s10.rpy:516
 translate spanish b1c08cs10_ritual_4172ee51:
@@ -656,7 +656,7 @@ translate spanish b1c08cs10_ritual_62ba9eb1:
 translate spanish b1c08cs10_ritual_1c2e6879:
 
     # ih "Experiencing that which the maiden goes through will bring us all closer together under Narurra's full moon."
-    ih "Experimentar lo que pasa la doncella nos acercará a todos bajo la luna llena de Narurra."
+    ih "Experimentar aquello por lo que pasa la doncella nos acercará a todos bajo la luna llena de Narurra."
 
 # game/code/Book-1/Chapter-8c/s10.rpy:544
 translate spanish b1c08cs10_ritual_b0ce7ecb:
@@ -680,19 +680,19 @@ translate spanish b1c08cs10_ritual_988a7978:
 translate spanish b1c08cs10_ritual_52e3f800:
 
     # ad "You can't fade if you are a part of the whole, so become one with each other!"
-    ad "No pueden desvanecerse si son parte del todo, ¡así que vuélvanse uno con los demás!"
+    ad "No puedes desvanecerte si formas parte del todo, así que ¡conviértete en uno con los demás!"
 
 # game/code/Book-1/Chapter-8c/s10.rpy:567
 translate spanish b1c08cs10_ritual_d6178682:
 
     # "People gravitate toward each other in the crowd, finding partners to kiss, rub, or touch."
-    "Las personas gravitan entre sí entre la multitud y encuentran compañeros a quienes besar, frotar o tocar."
+    "La gente se mueve entre la multitud, buscando compañeros a los que besar, frotar o tocar."
 
 # game/code/Book-1/Chapter-8c/s10.rpy:574
 translate spanish b1c08cs10_ritual_b18fdd5c:
 
     # "Sloan's cadenced pounding stops so she can participate in showing her devotion to Narurra."
-    "Los golpes cadenciados de Sloan se detienen para que pueda participar y mostrar su devoción por Narurra."
+    "El golpeteo rítmico de Sloan se detiene para que pueda participar en la muestra de su devoción a Narurra."
 
 # game/code/Book-1/Chapter-8c/s10.rpy:592
 translate spanish b1c08cs10_ritual_e2823177:
@@ -752,7 +752,7 @@ translate spanish b1c08cs10_ritual_433cadc9:
 translate spanish b1c08cs10_ritual_d017c983:
 
     # nv "God, that feels so good. Keep going, keep going—"
-    nv "Dios, que se siente tan bien. Continúa, continúa..."
+    nv "Dios, eso se siente tan bien. Sigue, sigue..."
 
 # game/code/Book-1/Chapter-8c/s10.rpy:627
 translate spanish b1c08cs10_ritual_0d5cdd30:
@@ -794,13 +794,13 @@ translate spanish b1c08cs10_ritual_23993845:
 translate spanish b1c08cs10_ritual_49834806:
 
     # "A celebratory moan goes over the crowd, though most are too busy exploring each other's bodies to truly stop."
-    "Un gemido de celebración recorre la multitud, aunque la mayoría está demasiado ocupada explorando los cuerpos de los demás como para detenerse realmente."
+    "Un gemido de celebración recorre la multitud, aunque la mayoría está demasiado ocupado explorando los cuerpos de los demás como para detenerse realmente."
 
 # game/code/Book-1/Chapter-8c/s10.rpy:663
 translate spanish b1c08cs10_ritual_ea2d5e9b:
 
     # ys "I-I'm cum—"
-    ys "Me-me he corrido—"
+    ys "Me... me estoy corriendo—"
 
 # game/code/Book-1/Chapter-8c/s10.rpy:667
 translate spanish b1c08cs10_ritual_bb8f7088:
