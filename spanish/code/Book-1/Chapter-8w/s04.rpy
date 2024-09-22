@@ -70,12 +70,6 @@ translate spanish b1c08ws04_ea7f8e5e:
     # mc "Well, that's just unfortunate."
     mc "Bueno, eso es simplemente desafortunado."
 
-# game/code/Book-1/Chapter-8w/s04.rpy:66
-translate spanish b1c08ws04_8f974146:
-
-    # "Monika thins her lips and smirks at you behind your back. She drags out her words."
-    "Mónica frunce los labios y te sonríe a tus espaldas. Ella prolonga sus palabras."
-
 # game/code/Book-1/Chapter-8w/s04.rpy:69
 translate spanish b1c08ws04_5b75068d:
 
@@ -304,23 +298,11 @@ translate spanish b1c08ws04_sex_fb44488f:
     # "Monika runs her hand down your chest, gently caressing and teasing you with her touch."
     "Mónica pasa su mano por tu pecho, acariciándote suavemente y provocándote con su toque."
 
-# game/code/Book-1/Chapter-8w/s04.rpy:200
-translate spanish b1c08ws04_sex_16ca74aa:
-
-    # "She pinches your nipple playfully, making you start, before resting her other hand on your waist."
-    "Ella pellizca tu pezón juguetonamente, haciéndote sobresaltar, antes de apoyar su otra mano en tu cintura."
-
 # game/code/Book-1/Chapter-8w/s04.rpy:203
 translate spanish b1c08ws04_sex_0a7270e5:
 
     # "Monika giggles at your surprise then slides her hand over your growing bulge, feeling your warmth and massaging your arousal."
     "Mónica se ríe ante tu sorpresa y luego desliza su mano sobre tu creciente bulto, sintiendo tu calidez y masajeando tu excitación."
-
-# game/code/Book-1/Chapter-8w/s04.rpy:206
-translate spanish b1c08ws04_sex_fc22140a:
-
-    # "Her excitement is evident as nuzzles against your skin, her hot breath singeing you in pleasure and making you arch your back and push your hips into her."
-    "Su excitación es evidente mientras se acaricia contra tu piel, su aliento caliente te chamusca de placer y te hace arquear la espalda y empujar tus caderas hacia ella."
 
 # game/code/Book-1/Chapter-8w/s04.rpy:209
 translate spanish b1c08ws04_sex_8e315aab:
@@ -453,12 +435,6 @@ translate spanish b1c08ws04_sex_1737dc29:
 
     # "Monika cums around your cock, greedily pulling you and begging for your cum. But with monumental effort, you manage to pull out of her just in time to cover her with your cum."
     "Mónica se corre alrededor de tu polla, tirando de ti con avidez y rogando por tu semen. Pero con un esfuerzo monumental, logras salir de ella justo a tiempo para cubrirla con tu semen."
-
-# game/code/Book-1/Chapter-8w/s04.rpy:312
-translate spanish b1c08ws04_sex_c3e85c46:
-
-    # "Her body goes limp on top of you as you feel her orgasm rip through her body. You grab her and hold her steady, breathless and satisfied in each other's arms."
-    "Su cuerpo se queda flácido sobre ti al sentir cómo el orgasmo le desgarra el cuerpo. La agarras y la mantienes firme, sin aliento y satisfecha en los brazos del otro."
 
 # game/code/Book-1/Chapter-8w/s04.rpy:320
 translate spanish b1c08ws04_sex_14a3c03d:
@@ -615,4 +591,28 @@ translate spanish strings:
     # game/code/Book-1/Chapter-8w/s04.rpy:156
     old "Push Monika away"
     new "Aleja a Mónica"
+
+# game/code/Book-1/Chapter-8w/s04.rpy:73
+translate spanish b1c08ws04_4d33a885:
+
+    # "Monika thins her lips and smirks at you. She drags out her words."
+    "Monika thins her lips and smirks at you. She drags out her words."
+
+# game/code/Book-1/Chapter-8w/s04.rpy:218
+translate spanish b1c08ws04_sex_213eaa6c:
+
+    # "She pinches your nipple playfully, making you startle, before resting her other hand on your waist."
+    "She pinches your nipple playfully, making you startle, before resting her other hand on your waist."
+
+# game/code/Book-1/Chapter-8w/s04.rpy:224
+translate spanish b1c08ws04_sex_5c3af901:
+
+    # "Her excitement is evident as she nuzzles against your skin, her hot breath singeing you in pleasure and making you arch your back and push your hips into her."
+    "Her excitement is evident as she nuzzles against your skin, her hot breath singeing you in pleasure and making you arch your back and push your hips into her."
+
+# game/code/Book-1/Chapter-8w/s04.rpy:341
+translate spanish b1c08ws04_sex_a49d7f08:
+
+    # "Her body goes limp on top of you as you feel her orgasm rip through her. You grab her and hold her steady, breathless and satisfied in each other's arms."
+    "Her body goes limp on top of you as you feel her orgasm rip through her. You grab her and hold her steady, breathless and satisfied in each other's arms."
 

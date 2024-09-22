@@ -1330,12 +1330,6 @@ translate spanish b1c08cs08_ll_punishment_d4d87a94:
     # ll "I suppose you're right..."
     ll "Supongo que tienes razón..."
 
-# game/code/Book-1/Chapter-8c/s08.rpy:703
-translate spanish b1c08cs08_ll_spanking_d458906e:
-
-    # "She before you with a more confident expression, ready to take her punishment with dignity."
-    "Se presenta ante ti con una expresión más confiada, dispuesta a asumir dignamente su castigo."
-
 # game/code/Book-1/Chapter-8c/s08.rpy:706
 translate spanish b1c08cs08_ll_spanking_9822128a:
 
@@ -1605,12 +1599,6 @@ translate spanish b1c08cs08_ll_spanking_8acdeff2:
 
     # ys "Just like you. We are all magnificent creatures."
     ys "Igual que tú. Todos somos criaturas magníficas."
-
-# game/code/Book-1/Chapter-8c/s08.rpy:858
-translate spanish b1c08cs08_ll_spanking_6661d99c:
-
-    # "At Yvonne's silent que, Sloan and Nerium also rise."
-    "Ante la silenciosa fila de Yvonne, Sloan y Nerium también se levantan."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:861
 translate spanish b1c08cs08_ll_spanking_e8d7836c:

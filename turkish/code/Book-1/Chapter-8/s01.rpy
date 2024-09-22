@@ -1434,7 +1434,7 @@ translate turkish b1c08s01_recap_c07s_53eb8627:
 translate turkish b1c08s01_recap_c07s_d1fd0311:
 
     # mc "I'm fine. You should've seen the other guy. {w}Anyway. After Rory, I met up with Morgan."
-    mc "Ben iyiyim. Diğer adamı görmeliydin. {Neyse. Rory'den sonra Morgan'la buluştum."
+    mc "Ben iyiyim. Diğer adamı görmeliydin. {w}Neyse. Rory'den sonra Morgan'la buluştum."
 
 # game/code/Book-1/Chapter-8/s01.rpy:676
 translate turkish b1c08s01_recap_c07s_89a181b0_1:
@@ -1452,7 +1452,7 @@ translate turkish b1c08s01_recap_c07s_53eb8627_1:
 translate turkish b1c08s01_recap_c07s_083f51aa:
 
     # mc "I'm fine. You should've seen the other guy. {w}Anyway. After Rory, I met up with Corrine."
-    mc "Ben iyiyim. Diğer adamı görmeliydin. {Neyse. Rory'den sonra Corrine ile buluştum."
+    mc "Ben iyiyim. Diğer adamı görmeliydin. {w}Neyse. Rory'den sonra Corrine ile buluştum."
 
 # game/code/Book-1/Chapter-8/s01.rpy:688
 translate turkish b1c08s01_recap_c08s_745fd50b:

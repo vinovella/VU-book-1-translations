@@ -412,12 +412,6 @@ translate spanish b1c08ws03_91f4de83:
     # mc "Hey. It's not your fault."
     mc "Ey. No es tu culpa."
 
-# game/code/Book-1/Chapter-8w/s03.rpy:239
-translate spanish b1c08ws03_8b4b838b:
-
-    # "She catches you off guard with a kiss. It's a gentle warmth on your lips, but they carry a heaviness with so much emotion hidden behind."
-    "Ella te pilla con la guardia baja con un beso. Es una calidez suave en tus labios, pero llevan una pesadez con tanta emoción escondida detrás."
-
 # game/code/Book-1/Chapter-8w/s03.rpy:243
 translate spanish b1c08ws03_d7455b14:
 
@@ -525,4 +519,10 @@ translate spanish strings:
     # game/code/Book-1/Chapter-8w/s03.rpy:8
     old "Some time later\nAt the hotel"
     new "Algún tiempo después\nEn el hotel"
+
+# game/code/Book-1/Chapter-8w/s03.rpy:241
+translate spanish b1c08ws03_470b68b1:
+
+    # "She catches you off guard with a kiss. It's a gentle warmth on your lips, but it carries a heaviness with so much emotion hidden behind."
+    "She catches you off guard with a kiss. It's a gentle warmth on your lips, but it carries a heaviness with so much emotion hidden behind."
 

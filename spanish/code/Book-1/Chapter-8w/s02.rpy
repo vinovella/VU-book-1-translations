@@ -250,18 +250,6 @@ translate spanish b1c08ws02_4b1e0f61:
     # "You try to focus on the rest of the team, Iona pulls away your attention at every point."
     "Intentas centrarte en el resto del equipo, pero Iona te desvía la atención en todo momento."
 
-# game/code/Book-1/Chapter-8w/s02.rpy:131
-translate spanish b1c08ws02_91a413c2:
-
-    # "When you just about manage to control yourself, Iona pulls down your pants even more and takes out your hard cock."
-    "Cuando casi consigues controlarte, Iona te baja aún más los pantalones y te saca la polla dura."
-
-# game/code/Book-1/Chapter-8w/s02.rpy:136
-translate spanish b1c08ws02_236567b3:
-
-    # "She bites her lower lip and admires it before grabbing a hold of it and slowly stroking up and down your entire length."
-    "Se muerde el labio inferior y lo admira antes de agarrarlo y acariciarlo lentamente de arriba a abajo por toda su longitud."
-
 # game/code/Book-1/Chapter-8w/s02.rpy:141
 translate spanish b1c08ws02_0fc4ad1f:
 
@@ -706,12 +694,6 @@ translate spanish b1c08ws02_8bf48cdb:
     # sl "No, it looks like he's... I don't know."
     sl "No, parece que él... No lo sé."
 
-# game/code/Book-1/Chapter-8w/s02.rpy:396
-translate spanish b1c08ws02_8cd199eb:
-
-    # oa "Ooh!, wait a minute, you're conducting an orchestra, is that it?"
-    oa "¡Ooh!, espera un momento, estás dirigiendo una orquesta, ¿no es así?"
-
 # game/code/Book-1/Chapter-8w/s02.rpy:403
 translate spanish b1c08ws02_cf50fb9b:
 
@@ -741,12 +723,6 @@ translate spanish b1c08ws02_38a16b70:
 
     # "You crave her touch more and more."
     "Anhelas su toque cada vez más."
-
-# game/code/Book-1/Chapter-8w/s02.rpy:418
-translate spanish b1c08ws02_b07562f1:
-
-    # "Everyone takes a turn trying to figure out which of your mimes were true and which ones were lies."
-    "Todos se turnan para intentar descubrir cuáles de tus mímicas eran ciertas y cuáles eran mentiras."
 
 # game/code/Book-1/Chapter-8w/s02.rpy:420
 translate spanish b1c08ws02_58482b53:
@@ -975,12 +951,6 @@ translate spanish b1c08ws02_f98acb57:
 
     # "You groan out loud in pleasure, feeling yourself getting closer and closer to orgasm as your breathing becomes faster."
     "Gimes en voz alta de placer y sientes que te acercas cada vez más al orgasmo a medida que tu respiración se acelera."
-
-# game/code/Book-1/Chapter-8w/s02.rpy:526
-translate spanish b1c08ws02_9d43e8e8:
-
-    # "Suddenly, the bus hits a bump in the road, causing Iona's you even further into her mouth. She almost chokes, but manages to hold on and continue taking you to your very base."
-    "De repente, el autobús golpea un bache en la carretera, haciendo que Iona lo meta aún más en su boca. Casi se atraganta, pero se las arregla para aguantar y seguir tomándote hasta el fondo."
 
 # game/code/Book-1/Chapter-8w/s02.rpy:535
 translate spanish b1c08ws02_4e167d92:

@@ -50,15 +50,15 @@
 
     # game/code/data/achievement_gallery.rpy:5
     old "07: Bagging Bookworms"
-new "07: Kitap Kurtlarını Torbalamak"
+    new "07: Kitap Kurtlarını Torbalamak"
 
     # game/code/data/achievement_gallery.rpy:5
     old "Play Irene's path."
-new "Irene'nin yolunu oyna."
+    new "Irene'nin yolunu oyna."
 
     # game/code/data/achievement_gallery.rpy:5
     old "08: Innocence Irrelevant"
-new "08: Masumiyet İlgisiz"
+    new "08: Masumiyet İlgisiz"
 
     # game/code/data/achievement_gallery.rpy:5
     old "Play Lumi's path."

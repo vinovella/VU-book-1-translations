@@ -418,12 +418,6 @@ translate spanish b1c08cs11_dcac1483:
     # "You slide your hands down to her perfect ass and dig your fingers into her skin."
     "Deslizas tus manos hasta su culo perfecto y clavas tus dedos en su piel."
 
-# game/code/Book-1/Chapter-8c/s11.rpy:269
-translate spanish b1c08cs11_66c949c3:
-
-    # "Ivy clings to you, and nuzzles into your shoulder. Her shallow breaths warm your shoulder."
-    "Ivy se aferra a ti y acaricia tu hombro. Sus respiraciones superficiales calientan tu hombro."
-
 # game/code/Book-1/Chapter-8c/s11.rpy:272
 translate spanish b1c08cs11_3bb4cde6:
 

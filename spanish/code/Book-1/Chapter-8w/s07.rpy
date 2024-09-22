@@ -106,12 +106,6 @@ translate spanish b1c08ws07_9e7f72d6:
     # "The crowd is already amped and ready, the air is charged with anticipation."
     "La multitud ya está entusiasmada y lista, el aire está cargado de anticipación."
 
-# game/code/Book-1/Chapter-8w/s07.rpy:87
-translate spanish b1c08ws07_4ace5bf7:
-
-    # "Both teams eye each other as the referee talks things over with the captains."
-    "Ambos equipos se miran mientras el árbitro habla con los capitanes."
-
 # game/code/Book-1/Chapter-8w/s07.rpy:103
 translate spanish b1c08ws07_26b6775a:
 
@@ -597,12 +591,6 @@ translate spanish b1c08ws07_4960a53a:
 
     # sa "Alright, team, let's get back out there and take the final set. Stay focused, stay strong, and play like the winners we are."
     sa "Muy bien, equipo, volvamos ahí fuera y llevémonos el último set. Concéntrense, sean fuertes y jueguen como los ganadores que son."
-
-# game/code/Book-1/Chapter-8w/s07.rpy:422
-translate spanish b1c08ws07_0e5f6808:
-
-    # "The CCC team serves, and the game is on once again"
-    "El equipo CCC sirve y el juego vuelve a comenzar."
 
 # game/code/Book-1/Chapter-8w/s07.rpy:427
 translate spanish b1c08ws07_bc30ec1b:
