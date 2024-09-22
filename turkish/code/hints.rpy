@@ -750,7 +750,7 @@ translate turkish strings:
 
     # game/code/hints.rpy:11
     old "{font=fonts/GypsyCurse.ttf}ALL PLAY AND NO WORK MAKES MATTHEW A KILLER.{/font}"
-    new "{font=fonts/GypsyCurse.ttf}ALL PLAY AND NO WORK MAKES MATTHEW A KILLER.{/font}"
+    new "{font=fonts/GypsyCurse.ttf}HEP OYUN, HİÇ İŞ YOK MATTHEW'U BİR KATİL YAPAR{/font}"
 
     # game/code/hints.rpy:11
     old "She's already doomed."
@@ -758,7 +758,7 @@ translate turkish strings:
 
     # game/code/hints.rpy:11
     old "Why bother?"
-    new "Why bother?"
+    new "Neden zahmet ediyorsunuz?"
 
     # game/code/hints.rpy:11
     old "She gave you up."
