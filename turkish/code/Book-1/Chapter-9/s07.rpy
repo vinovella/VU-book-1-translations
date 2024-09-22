@@ -302,7 +302,7 @@ translate turkish b1c09s07_ima_sex_71d99193:
 translate turkish b1c09s07_ima_sex_da987390:
 
     # ima "Just...please, I need release."
-    ima "Just...please, I need release."
+    ima "Sadece...lütfen, serbest bırakılmaya ihtiyacım var."
 
 # game/code/Book-1/Chapter-9/s07.rpy:274
 translate turkish b1c09s07_ima_sex_e7e1e87c:
