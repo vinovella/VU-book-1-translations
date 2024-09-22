@@ -188,7 +188,7 @@ translate turkish b1c08ws10_b94141a7:
 translate turkish b1c08ws10_85ee7c1a:
 
     # sm "Brigitta, {i}{b}enough{/b}{/i}."
-    sm "Brigitta, {i}{b}enough{/b}{/i}."
+    sm "Brigitta, {i}{b}yeter{/b}{/i}."
 
 # game/code/Book-1/Chapter-8w/s10.rpy:91
 translate turkish b1c08ws10_000a975d:
@@ -398,5 +398,5 @@ translate turkish b1c08ws10_6778327d:
 translate turkish b1c08ws10_777e1ea1:
 
     # oa "We wouldn't have had to deal with any of this if we just played without it. We don't need dangerous—"
-    oa "We wouldn't have had to deal with any of this if we just played without it. We don't need dangerous—"
+    oa "Sadece onsuz oynasaydık bunların hiçbiriyle uğraşmak zorunda kalmazdık. Tehlikeye ihtiyacımız yok-"
 
