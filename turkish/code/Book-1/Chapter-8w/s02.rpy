@@ -128,13 +128,13 @@ translate turkish b1c08ws02_8cdf797c:
 translate turkish b1c08ws02_371a81f3:
 
     # ir "Ugh, fine."
-    ir "Ugh, fine."
+    ir "Ugh, iyi."
 
 # game/code/Book-1/Chapter-8w/s02.rpy:73
 translate turkish b1c08ws02_66a5117a:
 
     # mc "*Chuckles*"
-    mc "*Chuckles*"
+    mc "*Kıkırdar*"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:80
 translate turkish b1c08ws02_8690219b:
@@ -596,7 +596,7 @@ translate turkish b1c08ws02_1022c59c:
 translate turkish b1c08ws02_28607b4f:
 
     # sl "Fuck yeah."
-    sl "Fuck yeah."
+    sl "İşte bu!."
 
 # game/code/Book-1/Chapter-8w/s02.rpy:342
 translate turkish b1c08ws02_52176372:
