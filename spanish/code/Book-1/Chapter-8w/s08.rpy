@@ -32,7 +32,7 @@ translate spanish b1c08ws08_7bc97bfa:
 translate spanish b1c08ws08_532f6b3f:
 
     # mm "Good one."
-    mm "Bueno."
+    mm "Muy buena."
 
 # game/code/Book-1/Chapter-8w/s08.rpy:59
 translate spanish b1c08ws08_d6c314e9:
@@ -56,7 +56,7 @@ translate spanish b1c08ws08_efed2a40:
 translate spanish b1c08ws08_d2b184ae:
 
     # ir "He looked like he was about to pass out during the match. What if he had a fucking heart attack and died!?"
-    ir "Parecía que estaba a punto de desmayarse durante el partido. ¿¡Qué pasaría si tuviera un puto ataque al corazón y muriera!?"
+    ir "Parecía a punto de desmayarse durante el partido. ¿¡Qué pasa si tuvo un maldito ataque al corazón y muere!?"
 
 # game/code/Book-1/Chapter-8w/s08.rpy:69
 translate spanish b1c08ws08_a39dd15f:
@@ -218,7 +218,7 @@ translate spanish b1c08ws08_bf499815:
 translate spanish b1c08ws08_22d27346:
 
     # tw "*Smiles* I know we ran you ragged, but I didn't think it was to the point of making you pass out."
-    tw "*Sonríe* Sé que te hemos agotado, pero no creo que hasta el punto de hacerte desmayar."
+    tw "*Sonríe*  Sé que te hemos agotado, pero no creo que hasta el punto de hacerte desmayar."
 
 # game/code/Book-1/Chapter-8w/s08.rpy:148
 translate spanish b1c08ws08_860518b4:
@@ -284,7 +284,7 @@ translate spanish b1c08ws08_a17d57c3:
 translate spanish b1c08ws08_6c983f91:
 
     # tw "Well, you should be more careful. I know it's easy to get worked up about it, but at the end of the day, it's just a game. Being alive matters more."
-    tw "Bueno, deberías tener más cuidado. Sé que es fácil enojarse por eso, pero al final del día, es sólo un juego. Estar vivo importa más."
+    tw "Deberías tener más cuidado. Sé que es fácil exaltarse por ello, pero al fin y al cabo, es sólo un juego. Estar vivo es mucho más importante."
 
 # game/code/Book-1/Chapter-8w/s08.rpy:181
 translate spanish b1c08ws08_5e0febf9:
@@ -344,7 +344,7 @@ translate spanish b1c08ws08_f8fd90b3:
 translate spanish b1c08ws08_5957fe32:
 
     # "As she sits, Tiana's ass rubs against your thigh, sending a shiver through your body."
-    "Mientras se sienta, el trasero de Tiana se frota contra tu muslo, provocando un escalofrío por todo tu cuerpo."
+    "Al sentarse, el trasero de Tiana se frota contra tu muslo, provocándote un escalofrío."
 
 # game/code/Book-1/Chapter-8w/s08.rpy:206
 translate spanish b1c08ws08_2fbf1107:
@@ -422,13 +422,13 @@ translate spanish b1c08ws08_55af2f58:
 translate spanish b1c08ws08_8c2f425e:
 
     # "The air between you two practically cackles with expectant energy."
-    "El aire entre ustedes dos prácticamente se ríe con energía expectante."
+    "El aire entre los dos prácticamente cruje con energía expectante."
 
 # game/code/Book-1/Chapter-8w/s08.rpy:232
 translate spanish b1c08ws08_f1689055:
 
     # mct "I doubt there's anything to gain from Tiana concerning the investigation... Though I wouldn't mind some company."
-    mct "Dudo que Tiana pueda ganar algo con respecto a la investigación... Aunque no me importaría tener compañía."
+    mct "Dudo que Tiana tenga algo que ganar con la investigación... Aunque no me importaría algo de compañía."
 
 # game/code/Book-1/Chapter-8w/s08.rpy:240
 translate spanish b1c08ws08_30501bf3:
@@ -464,7 +464,7 @@ translate spanish b1c08ws08_133bb31f:
 translate spanish b1c08ws08_a21217f7:
 
     # tw "Not exactly the best at deciphering signals."
-    tw "No es exactamente el mejor para descifrar señales."
+    tw "No es precisamente el mejor descifrando señales."
 
 # game/code/Book-1/Chapter-8w/s08.rpy:265
 translate spanish b1c08ws08_1852cc21:
@@ -512,7 +512,7 @@ translate spanish b1c08ws08_sex_fb4278b3:
 translate spanish b1c08ws08_sex_00ce0628:
 
     # "Tiana teasingly tugs along the waistband of your shorts."
-    "Tiana tira burlonamente de la cintura de tus pantalones cortos."
+    "Tiana tira de la pretina de tus pantalones cortos."
 
 # game/code/Book-1/Chapter-8w/s08.rpy:287
 translate spanish b1c08ws08_sex_c91c3784:
@@ -542,7 +542,7 @@ translate spanish b1c08ws08_sex_80bdc14f:
 translate spanish b1c08ws08_sex_e3bef3fe:
 
     # "You both moan into each other as she begins to stroke you. Her hands feel warm and soft. Everything is heightened between you two and you lose your sense of time as you give into her passion."
-    "Ambos gimen el uno contra el otro cuando ella comienza a acariciarlos. Sus manos se sienten cálidas y suaves. Todo se intensifica entre ustedes dos y pierden el sentido del tiempo al ceder a su pasión."
+    "Los dos gimen mientras ella empieza a acariciarte. Sus manos son cálidas y suaves. Todo se intensifica entre ustedes dos y pierden la noción del tiempo al entregarse a su pasión."
 
 # game/code/Book-1/Chapter-8w/s08.rpy:333
 translate spanish b1c08ws08_sex_cb90b687:
@@ -566,7 +566,7 @@ translate spanish b1c08ws08_sex_41f969a8:
 translate spanish b1c08ws08_sex_6fcef406:
 
     # "Tiana falls onto you and grabs you for support as a loud moan of pleasure escapes her at your surprise."
-    "Tiana cae sobre ti y te agarra para que la apoyes mientras un fuerte gemido de placer se le escapa ante tu sorpresa."
+    "Tiana cae sobre ti y te agarra para apoyarse mientras se le escapa un sonoro gemido de placer ante tu sorpresa."
 
 # game/code/Book-1/Chapter-8w/s08.rpy:346
 translate spanish b1c08ws08_sex_8b43ab42:
