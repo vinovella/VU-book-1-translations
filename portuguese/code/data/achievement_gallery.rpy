@@ -94,7 +94,7 @@ translate portuguese strings:
 
     # game/code/data/achievement_gallery.rpy:5
     old "Play Asami's path."
-    new "Play Asami's path."
+    new "Jogue o caminho da Asami."
 
     # game/code/data/achievement_gallery.rpy:5
     old "13: What Did the Fox Moan"
