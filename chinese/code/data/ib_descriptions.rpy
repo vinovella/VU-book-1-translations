@@ -140,303 +140,303 @@ translate chinese strings:
 
     # game/code/data/ib_descriptions.rpy:2
     old "Orphaned. Was involved with a bad crowd."
-    new "Orphaned. Was involved with a bad crowd."
+    new "孤儿。曾与不良人群交往过。"
 
     # game/code/data/ib_descriptions.rpy:2
     old "Took over Klara's responsibilities in the volleyball team."
-    new "Took over Klara's responsibilities in the volleyball team."
+    new "接替克拉拉在排球队中的职责。"
 
     # game/code/data/ib_descriptions.rpy:2
     old "Simon has asked her out multiple times."
-    new "Simon has asked her out multiple times."
+    new "西蒙曾多次约她出去。"
 
     # game/code/data/ib_descriptions.rpy:2
     old "Does not have enough power within the Winner's Club to allow outsiders to come in or choose new candidates."
-    new "Does not have enough power within the Winner's Club to allow outsiders to come in or choose new candidates."
+    new "在赢家俱乐部中没有足够的影响力，无法让外人加入或选择新成员。"
 
     # game/code/data/ib_descriptions.rpy:2
     old "Andrejz and Silvia used to date."
-    new "Andrejz and Silvia used to date."
+    new "安杰和西尔维娅曾经约会过。"
 
     # game/code/data/ib_descriptions.rpy:2
     old "Silvia has a past that she's not entirely comfortable discussing. She used to be part of the self-help group and dated Andrejz."
-    new "Silvia has a past that she's not entirely comfortable discussing. She used to be part of the self-help group and dated Andrejz."
+    new "西尔维娅有一段她不太愿意谈论的过去。她曾经是自助小组的一员，还和安杰斯约会过。"
 
     # game/code/data/ib_descriptions.rpy:2
     old "Attends the shooting range often."
-    new "Attends the shooting range often."
+    new "经常去射击场。"
 
     # game/code/data/ib_descriptions.rpy:2
     old "Controlling family."
-    new "Controlling family."
+    new "掌控家族。"
 
     # game/code/data/ib_descriptions.rpy:2
     old "Took over Leia's responsibilities within a secret PVP community."
-    new "Took over Leia's responsibilities within a secret PVP community."
+    new "在一个秘密的PVP社区中，接管了莱娅的职责。"
 
     # game/code/data/ib_descriptions.rpy:2
     old "Has high enough clearance to enter the Guns n' Rosette bar through the employee only door."
-    new "Has high enough clearance to enter the Guns n' Rosette bar through the employee only door."
+    new "拥有足够的权限，可以通过员工专用门进入枪炮与玫瑰酒吧。"
 
     # game/code/data/ib_descriptions.rpy:2
     old "Zemfira is technically a member of the Winner's Club, but prefers to be in her current group."
-    new "Zemfira is technically a member of the Winner's Club, but prefers to be in her current group."
+    new "泽菲拉严格意义上来说是赢家俱乐部的成员，但她更喜欢待在现在的团体里。"
 
     # game/code/data/ib_descriptions.rpy:2
     old "Zemfira used to be friends with Brigitta, but had a falling out."
-    new "Zemfira used to be friends with Brigitta, but had a falling out."
+    new "泽菲拉曾经和布吉塔是朋友，但后来闹翻了。"
 
     # game/code/data/ib_descriptions.rpy:2
     old "Interested in tattoos and art. Dislikes her major."
-    new "Interested in tattoos and art. Dislikes her major."
+    new "对纹身和艺术感兴趣。不喜欢她的专业。"
 
     # game/code/data/ib_descriptions.rpy:2
     old "Part of a self-help group."
-    new "Part of a self-help group."
+    new "参加了一个自助小组。"
 
     # game/code/data/ib_descriptions.rpy:2
     old "Close friends with Maria."
-    new "Close friends with Maria."
+    new "和玛丽亚是好朋友。"
 
     # game/code/data/ib_descriptions.rpy:2
     old "Has a forceful brother named Xasan."
-    new "Has a forceful brother named Xasan."
+    new "有一个名叫哈桑的强势哥哥。"
 
     # game/code/data/ib_descriptions.rpy:2
     old "Part of an inner circle within the self-help group."
-    new "Part of an inner circle within the self-help group."
+    new "自助小组的核心成员之一。"
 
     # game/code/data/ib_descriptions.rpy:2
     old "Good friends with Delphia."
-    new "Good friends with Delphia."
+    new "与德尔菲娅是好朋友。"
 
     # game/code/data/ib_descriptions.rpy:2
     old "Nia seems to have been severely affected by Maria's disappearance."
-    new "Nia seems to have been severely affected by Maria's disappearance."
+    new "玛丽亚的失踪似乎严重影响了妮娅。"
 
     # game/code/data/ib_descriptions.rpy:2
     old "Theater actor. Knows Nia."
-    new "Theater actor. Knows Nia."
+    new "戏剧演员。认识妮娅。"
 
     # game/code/data/ib_descriptions.rpy:2
     old "She is the guide of Nia and me."
-    new "She is the guide of Nia and me."
+    new "她是妮娅和我的向导。"
 
     # game/code/data/ib_descriptions.rpy:2
     old "Has a tattoo that's similar to the logo on the self-help workbooks."
-    new "Has a tattoo that's similar to the logo on the self-help workbooks."
+    new "身上有纹身，和自助工作手册上的标志相似。"
 
     # game/code/data/ib_descriptions.rpy:2
     old "Simon has asked Silvia out multiple times."
-    new "Simon has asked Silvia out multiple times."
+    new "西蒙曾多次约西尔维娅出去。"
 
     # game/code/data/ib_descriptions.rpy:2
     old "Josie sleepwalks."
-    new "Josie sleepwalks."
+    new "乔西梦游。"
 
     # game/code/data/ib_descriptions.rpy:2
     old "Saw me and Ronja together in our late night tryst."
-    new "Saw me and Ronja together in our late night tryst."
+    new "看到我和荣佳深夜幽会。"
 
     # game/code/data/ib_descriptions.rpy:2
     old "Signs on new members of the self-help group."
-    new "Signs on new members of the self-help group."
+    new "在自助小组的新成员名单上签名。"
 
     # game/code/data/ib_descriptions.rpy:2
     old "Irene is Eliina's Guide."
-    new "Irene is Eliina's Guide."
+    new "艾琳是爱丽娜的向导。"
 
     # game/code/data/ib_descriptions.rpy:2
     old "Irene is also Lumi's Guide."
-    new "Irene is also Lumi's Guide."
+    new "艾琳也是卢米的向导。"
 
     # game/code/data/ib_descriptions.rpy:2
     old "Irene knows about a secret entrance in the library."
-    new "Irene knows about a secret entrance in the library."
+    new "艾琳知道图书馆的秘密入口。"
 
     # game/code/data/ib_descriptions.rpy:2
     old "On the volleyball team."
-    new "On the volleyball team."
+    new "是排球队的。"
 
     # game/code/data/ib_descriptions.rpy:2
     old "Iona uses cocaine. I wonder where she gets her supply from?"
-    new "Iona uses cocaine. I wonder where she gets her supply from?"
+    new "欧娜吸食可卡因。我想知道她从哪里搞到毒品的？"
 
     # game/code/data/ib_descriptions.rpy:2
     old "Swim and volleyball coach. Mentors Silvia."
-    new "Swim and volleyball coach. Mentors Silvia."
+    new "游泳和排球教练。向导是西尔维娅。"
 
     # game/code/data/ib_descriptions.rpy:2
     old "Volleyball teammate."
-    new "Volleyball teammate."
+    new "排球队友。"
 
     # game/code/data/ib_descriptions.rpy:2
     old "Theater actor."
-    new "Theater actor."
+    new "戏剧演员。"
 
     # game/code/data/ib_descriptions.rpy:2
     old "There seems to be some tension between her and Olesya."
-    new "There seems to be some tension between her and Olesya."
+    new "她和奥列西娅之间似乎有些紧张。"
 
     # game/code/data/ib_descriptions.rpy:2
     old "There seems to be some tension between her and Monika."
-    new "There seems to be some tension between her and Monika."
+    new "她与莫妮卡之间似乎有些紧张。""
 
     # game/code/data/ib_descriptions.rpy:2
     old "Olesya is noticeably absent from the party. Need to find out why."
-    new "Olesya is noticeably absent from the party. Need to find out why."
+    new "奥列西娅明显缺席了聚会。需要找出原因。"
 
     # game/code/data/ib_descriptions.rpy:2
     old "Apparently was almost expelled due to some trouble with \"illicit substances\", at least according to Ronja."
-    new "Apparently was almost expelled due to some trouble with \"illicit substances\", at least according to Ronja."
+    new "显然，她因为\"非法药物\"的问题差点被开除，至少荣佳是这么说的。"
 
     # game/code/data/ib_descriptions.rpy:2
     old "Actively hostile."
-    new "Actively hostile."
+    new "态度非常恶劣。"
 
     # game/code/data/ib_descriptions.rpy:2
     old "Attends a place called \"Guns n' Rosette\"."
-    new "Attends a place called \"Guns n' Rosette\"."
+    new "去了一个叫\"枪炮与玫瑰\"的地方。"
 
     # game/code/data/ib_descriptions.rpy:2
     old "Fleur has an unknown responsibility."
-    new "Fleur has an unknown responsibility."
+    new "芙蓉有不为人知的职责。"
 
     # game/code/data/ib_descriptions.rpy:2
     old "Fleur and Lilith were childhood friends."
-    new "Fleur and Lilith were childhood friends."
+    new "芙蓉和莉莉丝是儿时好友。"
 
     # game/code/data/ib_descriptions.rpy:2
     old "Fleur is friends with Asami."
-    new "Fleur is friends with Asami."
+    new "芙蓉和麻美是朋友。"
 
     # game/code/data/ib_descriptions.rpy:2
     old "Has the clearance to enter the back room of the Guns n' Rosette bar."
-    new "Has the clearance to enter the back room of the Guns n' Rosette bar."
+    new "有进入枪炮与玫瑰酒吧后面房间的权限。"
 
     # game/code/data/ib_descriptions.rpy:2
     old "Fleur is friends and roommates with Eliina."
-    new "Fleur is friends and roommates with Eliina."
+    new "芙蓉是爱丽娜的朋友和室友。"
 
     # game/code/data/ib_descriptions.rpy:2
     old "Fleur had an explicit stream of Sabrina on her Laptop."
-    new "Fleur had an explicit stream of Sabrina on her Laptop."
+    new "芙蓉的笔记本电脑上有一段萨布丽娜的露骨视频。"
 
     # game/code/data/ib_descriptions.rpy:2
     old "Fleur is managing a server for some sort of streams."
-    new "Fleur is managing a server for some sort of streams."
+    new "芙蓉正在管理一个服务器，用于播放某种视频。"
 
     # game/code/data/ib_descriptions.rpy:2
     old "Foxy is higher in ranking than Fleur. Has enough clearance to let people into the fight club."
-    new "Foxy is higher in ranking than Fleur. Has enough clearance to let people into the fight club."
+    new "小狐的排名比芙蓉高。她有足够的权限让人们进入搏击俱乐部。"
 
     # game/code/data/ib_descriptions.rpy:2
     old "Foxy is the hype-man for the fights."
-    new "Foxy is the hype-man for the fights."
+    new "小狐是搏击比赛的宣传人。""
 
     # game/code/data/ib_descriptions.rpy:2
     old "Friends with Fleur and Zemfira."
-    new "Friends with Fleur and Zemfira."
+    new "与芙蓉和泽菲拉是朋友。"
 
     # game/code/data/ib_descriptions.rpy:2
     old "Has seen me and Phoebe kissing in the park. Potential real identity explosion risk."
-    new "Has seen me and Phoebe kissing in the park. Potential real identity explosion risk."
+    new "在公园里看到我和菲比接吻。真实身份有很大风险会暴露。"
 
     # game/code/data/ib_descriptions.rpy:2
     old "Asami and Lilith are event coordinators for their group."
-    new "Asami and Lilith are event coordinators for their group."
+    new "麻美和莉莉丝是她们小组的活动协调员。"
 
     # game/code/data/ib_descriptions.rpy:2
     old "Friends with Zemfira and Fleur."
-    new "Friends with Zemfira and Fleur."
+    new "与泽菲拉和芙蓉是朋友。"
 
     # game/code/data/ib_descriptions.rpy:2
     old "Was sentenced imprisonment because of physically assaulting someone."
-    new "Was sentenced imprisonment because of physically assaulting someone."
+    new "因殴打他人而被判入狱。"
 
     # game/code/data/ib_descriptions.rpy:2
     old "Morgan and Corinne are half sisters."
-    new "Morgan and Corinne are half sisters."
+    new "摩根和科琳是同父异母的姐妹。"
 
     # game/code/data/ib_descriptions.rpy:2
     old "Corinne will exchange information if I help her get in contact with Morgan."
-    new "Corinne will exchange information if I help her get in contact with Morgan."
+    new "如果我能帮助科琳与摩根取得联系，她就会提供信息。"
 
     # game/code/data/ib_descriptions.rpy:2
     old "Corinne Bunker was part of the Syndicate."
-    new "Corinne Bunker was part of the Syndicate."
+    new "科琳·邦克曾是辛迪加的一员。"
 
     # game/code/data/ib_descriptions.rpy:2
     old "Knows Zemfira."
-    new "Knows Zemfira."
+    new "认识泽菲拉。"
 
     # game/code/data/ib_descriptions.rpy:2
     old "Morgan is involved in matches."
-    new "Morgan is involved in matches."
+    new "摩根参与了比赛。"
 
     # game/code/data/ib_descriptions.rpy:2
     old "Morgan knows Nirmala."
-    new "Morgan knows Nirmala."
+    new "摩根认识尼玛拉。"
 
     # game/code/data/ib_descriptions.rpy:2
     old "Morgan is a fighter in an illegal fight club."
-    new "Morgan is a fighter in an illegal fight club."
+    new "摩根是非法搏击俱乐部的拳手。"
 
     # game/code/data/ib_descriptions.rpy:2
     old "Corinne has something to do with the amount of debt Morgan's in."
-    new "Corinne has something to do with the amount of debt Morgan's in."
+    new "科琳与摩根的债务有关。"
 
     # game/code/data/ib_descriptions.rpy:2
     old "Morgan is willing to help you if you help her with her debt."
-    new "Morgan is willing to help you if you help her with her debt."
+    new "如果你帮助摩根偿还债务，她愿意帮助你。"
 
     # game/code/data/ib_descriptions.rpy:2
     old "Morgan is indebted to an organization called The Syndicate."
-    new "Morgan is indebted to an organization called The Syndicate."
+    new "摩根欠一个名为辛迪加的组织钱。"
 
     # game/code/data/ib_descriptions.rpy:2
     old "Friends with Morgan. Cori's assault victim."
-    new "Friends with Morgan. Cori's assault victim."
+    new "是摩根的朋友。也是科琳袭击的受害者。"
 
     # game/code/data/ib_descriptions.rpy:2
     old "Rory is indebted to the enemy gang Cade is involved with."
-    new "Rory is indebted to the enemy gang Cade is involved with."
+    new "罗里欠了凯德所参与的帮派的债。"
 
     # game/code/data/ib_descriptions.rpy:2
     old "Cade is involved with a gang."
-    new "Cade is involved with a gang."
+    new "凯德参与了一个帮派。"
 
     # game/code/data/ib_descriptions.rpy:2
     old "Sabrina's ex-boyfriend."
-    new "Sabrina's ex-boyfriend."
+    new "萨布丽娜的前男友。"
 
     # game/code/data/ib_descriptions.rpy:2
     old "Cade is the \"collector\" for a gang."
-    new "Cade is the \"collector\" for a gang."
+    new "凯德是一个帮派的\"收账人\"。"
 
     # game/code/data/ib_descriptions.rpy:2
     old "Cade is the \"collector\" for a gang called The Wasps."
-    new "Cade is the \"collector\" for a gang called The Wasps."
+    new "凯德是一个名为黄蜂的帮派的\"收账人\"。"
 
     # game/code/data/ib_descriptions.rpy:2
     old "Connected to Zemfira. Performs \"favors\"."
-    new "Connected to Zemfira. Performs \"favors\"."
+    new "与泽菲拉有关。提供\"人情\"。"
 
     # game/code/data/ib_descriptions.rpy:2
     old "Friends with Quentin and Sabrina"
-    new "Friends with Quentin and Sabrina"
+    new "与昆汀和萨布丽娜是朋友。"
 
     # game/code/data/ib_descriptions.rpy:2
     old "Nirmala performs \"favors\" to pay off her betting debt."
-    new "Nirmala performs \"favors\" to pay off her betting debt."
+    new "尼玛拉用\"人情\"来偿还她的赌债。"
 
     # game/code/data/ib_descriptions.rpy:2
     old "Friends with Quentin and Nirmala."
-    new "Friends with Quentin and Nirmala."
+    new "与昆汀和尼玛拉是朋友。"
 
     # game/code/data/ib_descriptions.rpy:2
     old "Sabrina used to be in a gang with her ex, Cade."
-    new "Sabrina used to be in a gang with her ex, Cade."
+    new "萨布丽娜曾与前男友凯德一起混过帮派。"
 
     # game/code/data/ib_descriptions.rpy:2
     old "Friends with Nirmala and Sabrina."
