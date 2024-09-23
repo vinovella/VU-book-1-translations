@@ -108,5 +108,5 @@ translate portuguese strings:
 
     # game/code/screens/menus.rpy:869
     old "{u}Get your Lovense toy now{/u}"
-    new "{u}Get your Lovense toy now{/u}"
+    new "{u}Compre o seu brinquedo Lovense agora{/u}"
 
