@@ -92,7 +92,7 @@ translate spanish b1c09s01_check_jh_f32d9aeb:
 translate spanish b1c09s01_check_jh_5f8f9c5a:
 
     # "???" "Gone through so much, yet still so kind and hopeful."
-    "???" "He pasado por mucho y aún así soy tan amable y esperanzado."
+    "???" "Ha pasado por tantas cosas, pero sigue teniendo tanta amabilidad y esperanza."
 
 # game/code/Book-1/Chapter-9/s01.rpy:208
 translate spanish b1c09s01_check_jh_c6add97b:
@@ -104,13 +104,13 @@ translate spanish b1c09s01_check_jh_c6add97b:
 translate spanish b1c09s01_check_jh_7716f679:
 
     # kc "Isn't that right, hotshot?"
-    kc "¿No es cierto, campeón?"
+    kc "¿No es cierto, chico sexy?"
 
 # game/code/Book-1/Chapter-9/s01.rpy:215
 translate spanish b1c09s01_check_jh_49c16564:
 
     # "???" "For being such a distinguished investigator, you sure cast her off easy."
-    "???" "Por ser un investigador tan distinguido, seguro que la descartaste fácilmente."
+    "???" "Para ser un investigador tan distinguido, seguro que la descartaste fácilmente."
 
 # game/code/Book-1/Chapter-9/s01.rpy:219
 translate spanish b1c09s01_check_jh_76655700:
@@ -128,7 +128,7 @@ translate spanish b1c09s01_check_jh_474d4fd5:
 translate spanish b1c09s01_check_jh_fc9d8157:
 
     # kc "Oh, c'mon... You don't {i}really{/i} expect me to believe that little lie you tell yourself, do you?"
-    kc "Oh, vamos... No {i}realmente{/i} esperas que crea esa pequeña mentira que te dices a ti mismo, ¿verdad?"
+    kc "Oh, vamos... No {i}esperarás{/i} que me crea esa mentirijilla que te dices a ti mismo, ¿verdad?"
 
 # game/code/Book-1/Chapter-9/s01.rpy:232
 translate spanish b1c09s01_check_jh_c60bc500:
@@ -140,7 +140,7 @@ translate spanish b1c09s01_check_jh_c60bc500:
 translate spanish b1c09s01_check_jh_a2d5d211:
 
     # kc "*Whispers* You sure those aren't the words of a little something down below?"
-    kc "*Susurros* ¿Estás seguro de que esas no son las palabras de algo de abajo?"
+    kc "*Susurros* ¿Seguro que no son las palabras del pequeño de ahí abajo?"
 
 # game/code/Book-1/Chapter-9/s01.rpy:241
 translate spanish b1c09s01_check_jh_89fc7556:
@@ -152,13 +152,13 @@ translate spanish b1c09s01_check_jh_89fc7556:
 translate spanish b1c09s01_check_jh_cb08565e:
 
     # ldc "Unsullied and pure, just perfect for you to pump your load into, just like Zemfira, hm?"
-    ldc "Inmaculada y pura, simplemente perfecta para que bombees tu carga, como Zemfira, ¿eh?"
+    ldc "Inmaculada y pura, perfecta para que bombees tu carga en ella, como Zemfira, ¿eh?"
 
 # game/code/Book-1/Chapter-9/s01.rpy:250
 translate spanish b1c09s01_check_jh_5e20532c:
 
     # kc "A nice tight cunt for you to fuck as you please, just like Iona, hm?"
-    kc "Un bonito coño apretado para que lo folles como quieras, como Iona, ¿eh?"
+    kc "Un buen coño apretado para que te lo folles como quieras, como Iona, ¿eh?"
 
 # game/code/Book-1/Chapter-9/s01.rpy:253
 translate spanish b1c09s01_check_jh_dff328c3:
@@ -206,7 +206,7 @@ translate spanish b1c09s01_check_jh_b9a7b872:
 translate spanish b1c09s01_check_jh_3e4576ed:
 
     # kc "What's the hold up, hotshot?"
-    kc "¿No es cierto, campeón?"
+    kc "¿No es cierto, chico sexy?"
 
 # game/code/Book-1/Chapter-9/s01.rpy:277
 translate spanish b1c09s01_check_jh_c3f576c3:
@@ -302,7 +302,7 @@ translate spanish b1c09s01_check_lw_f4b55c9a:
 translate spanish b1c09s01_check_lw_f4b00827:
 
     # mfk "Save a poor blind girl—"
-    mfk "Salva a una pobre niña ciega."
+    mfk "Salva a una pobre chica ciega."
 
 # game/code/Book-1/Chapter-9/s01.rpy:364
 translate spanish b1c09s01_check_lw_3e23b18b:
@@ -344,7 +344,7 @@ translate spanish b1c09s01_check_pm_0a140272:
 translate spanish b1c09s01_check_pm_4154f693:
 
     # "???" "Still loves you."
-    "???" "Todavía te amo."
+    "???" "Todavía te ama."
 
 # game/code/Book-1/Chapter-9/s01.rpy:411
 translate spanish b1c09s01_check_pm_9a6b356f:
@@ -434,7 +434,7 @@ translate spanish b1c09s01_cn_dialogues_fc32e388:
 translate spanish b1c09s01_cn_dialogues_36993424:
 
     # mfk "Little by little broke her down until she was wrapped around your finger, doing whatever you want and thanking you for it."
-    mfk "Poco a poco la fue rompiendo hasta quedar envuelta alrededor de tu dedo, haciendo lo que quisiera y agradeciéndote por ello."
+    mfk "Poco a poco la fuiste destrozando hasta que quedó envuelta alrededor de tu dedo, haciendo lo que tú quisieras y agradeciéndote por ello."
 
 # game/code/Book-1/Chapter-9/s01.rpy:494
 translate spanish b1c09s01_cn_dialogues_af32720e:
@@ -584,7 +584,7 @@ translate spanish b1c09s01_wc_dialogues_37f523aa:
 translate spanish b1c09s01_wc_dialogues_0db442a9:
 
     # kc "Laugh with them, bicker with them."
-    kc "Ríete con ellos, discute con ellos."
+    kc "Reír con ellos, discutir con ellos."
 
 # game/code/Book-1/Chapter-9/s01.rpy:692
 translate spanish b1c09s01_wc_dialogues_22449d41:
@@ -602,7 +602,7 @@ translate spanish b1c09s01_wc_dialogues_162bc34f:
 translate spanish b1c09s01_wc_dialogues_6f9faffe:
 
     # kc "Make them mean something, hotshot."
-    kc "Haz que signifiquen algo, campeón."
+    kc "Haz que signifiquen algo, chico sexy."
 
 # game/code/Book-1/Chapter-9/s01.rpy:709
 translate spanish b1c09s01_wc_dialogues_fe55f0af:
@@ -630,13 +630,13 @@ translate spanish strings:
 
     # game/code/Book-1/Chapter-9/s01.rpy:151
     old "Check on Josie"
-    new "Revisa a josie"
+    new "Comprueba cómo está Josie"
 
     # game/code/Book-1/Chapter-9/s01.rpy:151
     old "Check on Lara"
-    new "Mira a Lara"
+    new "Comprueba cómo está Lara"
 
     # game/code/Book-1/Chapter-9/s01.rpy:151
     old "Check on Phoebe"
-    new "Comprueba cómo está Phoebe."
+    new "Comprueba cómo está Phoebe"
 
