@@ -278,7 +278,7 @@ translate portuguese strings:
 
     # game/code/data/ib_characters.rpy:48
     old "Driver"
-    new "Motorista"
+    new "Driver"
 
     # game/code/data/ib_characters.rpy:48
     old "Bartender"
