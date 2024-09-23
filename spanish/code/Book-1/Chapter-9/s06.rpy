@@ -14,7 +14,7 @@ translate spanish b1c09s06_23fee738:
 translate spanish b1c09s06_a9ad00bd:
 
     # mct "Why else would they need a whole underground catacomb-like space?"
-    mct "¿Para qué si no iban a necesitar todo un espacio subterráneo parecido a una catacumba?"
+    mct "¿ Si no para qué iban a necesitar todo un espacio subterráneo similar a una catacumba?"
 
 # game/code/Book-1/Chapter-9/s06.rpy:78
 translate spanish b1c09s06_b10e063b:
@@ -152,7 +152,7 @@ translate spanish b1c09s06_85fe8587:
 translate spanish b1c09s06_9c580467:
 
     # "Note" "Love is not meant to be hoarded or jealously coveted. I have done nothing wrong. {i}LEAVE ME ALONE.{/i}"
-    "Nota" "El amor no debe ser atesorado ni codiciado celosamente. No he hecho nada malo. {i}DÉJAME SOLO.{/i}"
+    "Nota" "El amor no debe ser atesorado ni codiciado celosamente. No he hecho nada malo. {i}DÉJAME SOLA.{/i}"
 
 # game/code/Book-1/Chapter-9/s06.rpy:153
 translate spanish b1c09s06_b2d46cd1:
@@ -320,7 +320,7 @@ translate spanish b1c09s06_ij_arrives_f950f374:
 translate spanish b1c09s06_ij_arrives_1dae2ef1:
 
     # ij "Well, our whole family is about loving and accepting each other as we are."
-    ij "Bueno, toda nuestra familia se trata de amarnos y aceptarnos tal como somos."
+    ij "Bueno, toda nuestra familia consiste en amarnos y aceptarnos tal como somos."
 
 # game/code/Book-1/Chapter-9/s06.rpy:249
 translate spanish b1c09s06_ij_arrives_79107af2:
@@ -494,7 +494,7 @@ translate spanish b1c09s06_sex_b224269a:
 translate spanish b1c09s06_sex_75fbd060:
 
     # ij "You taste so good. It drives me insane."
-    ij "Sabes tan bien. Me vuelve loca."
+    ij "Tienes tan buen sabor. Me vuelve loca."
 
 # game/code/Book-1/Chapter-9/s06.rpy:352
 translate spanish b1c09s06_sex_e36b80ce:
@@ -578,7 +578,7 @@ translate spanish b1c09s06_be_bottom_859495a0:
 translate spanish b1c09s06_be_bottom_d67a7ffd:
 
     # mc "Not nervous, just excited. But I can take it."
-    mc "No nervioso, sólo emocionado. Pero puedo soportarlo."
+    mc "No estoy nervioso, sólo emocionado. Pero puedo soportarlo."
 
 # game/code/Book-1/Chapter-9/s06.rpy:420
 translate spanish b1c09s06_be_bottom_b0139e72:
@@ -674,7 +674,7 @@ translate spanish b1c09s06_be_bottom_31684f7c:
 translate spanish b1c09s06_be_bottom_8a85bbed:
 
     # "Irene blushes, suddenly flustered despite rearranging your guts two seconds ago."
-    "Irene se sonroja, repentinamente nerviosa a pesar de reorganizar sus tripas hace dos segundos."
+    "Irene se sonroja, repentinamente nerviosa a pesar de reorganizar tus tripas hace dos segundos."
 
 # game/code/Book-1/Chapter-9/s06.rpy:490
 translate spanish b1c09s06_be_bottom_da3b539d:
@@ -692,7 +692,7 @@ translate spanish b1c09s06_be_bottom_7c2822c2:
 translate spanish b1c09s06_be_bottom_2f84ff14:
 
     # ij "Man, it's tiring being a top! I'm ready for a switch if you are."
-    ij "¡Hombre, es agotador ser un top! Estoy lista para un cambio si tú lo estás."
+    ij "Tío, ¡es agotador ser un líder! Estoy lista para un cambio si tú lo estás."
 
 # game/code/Book-1/Chapter-9/s06.rpy:498
 translate spanish b1c09s06_be_bottom_79de7289:
@@ -734,7 +734,7 @@ translate spanish b1c09s06_be_top_35628cd6:
 translate spanish b1c09s06_be_top_d01427df:
 
     # ij "Please, I want you inside."
-    ij "Por favor, te quiero adentro."
+    ij "Por favor, te quiero dentro."
 
 # game/code/Book-1/Chapter-9/s06.rpy:538
 translate spanish b1c09s06_be_top_afac72f3:
@@ -752,7 +752,7 @@ translate spanish b1c09s06_be_top_5067f78b:
 translate spanish b1c09s06_be_top_56751775:
 
     # "Irene moans, her body constricting to draw you farther inside."
-    "Irene gime, su cuerpo se contrae para atraerte más hacia adentro."
+    "Irene gime, su cuerpo se contrae para atraerte más hacia su interior."
 
 # game/code/Book-1/Chapter-9/s06.rpy:549
 translate spanish b1c09s06_be_top_19afd689:
@@ -806,7 +806,7 @@ translate spanish b1c09s06_be_top_e5f60a6a:
 translate spanish b1c09s06_be_top_19fe2ae5:
 
     # ij "You feel so good. I feel so full and sensitive—I can feel it every time you throb inside me. It makes me feel so—"
-    ij "Te sientes tan bien. Me siento tan plena y sensible que puedo sentirlo cada vez que palpitas dentro de mí. Me hace sentir tan—"
+    ij "Te sientes tan bien. Me siento tan plena y sensible que puedo sentirlo cada vez que palpitas dentro de mí. Me hace sentir tan..."
 
 # game/code/Book-1/Chapter-9/s06.rpy:618
 translate spanish b1c09s06_be_top_f511450c:
@@ -890,7 +890,7 @@ translate spanish b1c09s06_sex_end_17d05e01:
 translate spanish b1c09s06_sex_end_4ddd4e98:
 
     # mc "Even if they do, I dare them to prove anything."
-    mc "Incluso si lo hacen, los desafío a que prueben cualquier cosa."
+    mc "Aunque lo hagan, los desafío a que demuestren lo contrario."
 
 # game/code/Book-1/Chapter-9/s06.rpy:667
 translate spanish b1c09s06_sex_end_b24c8051:
@@ -908,13 +908,13 @@ translate spanish b1c09s06_sex_end_a8eda96a:
 translate spanish b1c09s06_sex_end_32449e0e:
 
     # "You both quickly get dressed and sneak back up to the library, the evidence of your lovemaking stained into the professor's floor."
-    "Ambos se visten rápidamente y regresan sigilosamente a la biblioteca, la evidencia de su acto sexual manchada en el piso de la profesora."
+    "Los dos se visten rápidamente y se escabullen de nuevo a la biblioteca, con las pruebas de que han hecho el amor estampadas en el suelo de la profesora."
 
 translate spanish strings:
 
     # game/code/Book-1/Chapter-9/s06.rpy:61
     old "Later at the university library"
-    new "Más tarde en la biblioteca de la universidad."
+    new "Más tarde en la biblioteca de la universidad"
 
     # game/code/Book-1/Chapter-9/s06.rpy:356
     old "Take me as you wish"
