@@ -86,7 +86,7 @@ translate spanish b1c09s03_1e0781db:
 translate spanish b1c09s03_c115cd95:
 
     # "You pull Josie's shirt off, revealing her bare chest."
-    "Le quitas la camisa a Josie, dejando al descubierto su pecho desnudo."
+    "Le quitas la camiseta a Josie, dejando sus pechos al descubierto."
 
 # game/code/Book-1/Chapter-9/s03.rpy:154
 translate spanish b1c09s03_60d14b7e:
@@ -188,7 +188,7 @@ translate spanish b1c09s03_use_mouth_f5491ca2:
 translate spanish b1c09s03_use_mouth_8acad9e5:
 
     # jh "O-oh! I didn't think..."
-    jh "¡Oh! No pensé..."
+    jh "¡O-oh! No pensé que..."
 
 # game/code/Book-1/Chapter-9/s03.rpy:214
 translate spanish b1c09s03_use_mouth_396a0b44:
@@ -236,7 +236,7 @@ translate spanish b1c09s03_use_mouth_df66f4ed:
 translate spanish b1c09s03_use_hand_f60f2e0d:
 
     # mc "Would it feel best if I used my hand?"
-    mc "¿Se sentiría mejor si usara mi mano?"
+    mc "¿Se sentiría bien si usara mi mano?"
 
 # game/code/Book-1/Chapter-9/s03.rpy:290
 translate spanish b1c09s03_use_hand_feeb412d:
@@ -296,7 +296,7 @@ translate spanish b1c09s03_continue_6129d23a:
 translate spanish b1c09s03_continue_c049a19b:
 
     # jh "It's just that I've never done this before. So I'm worried I won't be...good."
-    jh "Es sólo que nunca había hecho esto antes. Así que me preocupa no estar... bien."
+    jh "Es sólo que nunca he hecho esto antes. Así que me preocupa no ser... buena."
 
 # game/code/Book-1/Chapter-9/s03.rpy:368
 translate spanish b1c09s03_continue_6c290409:
@@ -362,7 +362,7 @@ translate spanish b1c09s03_continue_b5eeddf5:
 translate spanish b1c09s03_continue_2a2a111a:
 
     # "She makes it very hard to be slow and gentle, as her body throbs with need, and you can feel her body heating up with want."
-    "Ella hace que sea muy difícil ser lento y suave, ya que su cuerpo palpita de necesidad, y se puede sentir su cuerpo se calienta con el deseo."
+    "Ella hace que sea muy difícil ser lento y suave, ya que su cuerpo palpita de necesidad, y se puede sentir que su cuerpo se calienta con el deseo."
 
 # game/code/Book-1/Chapter-9/s03.rpy:437
 translate spanish b1c09s03_continue_36be3bcf:
@@ -494,7 +494,7 @@ translate spanish b1c09s03_continue_64977194:
 translate spanish b1c09s03_continue_b7dc2e12:
 
     # "You pull away from her thighs, and Josie instinctively lays on her back and takes you into her warm hand."
-    "Te alejas de sus muslos y Josie instintivamente se acuesta boca arriba y te toma en su cálida mano."
+    "Te alejas de sus muslos y Josie, instintivamente, se acuesta boca arriba y te toma entre sus cálidas manos."
 
 # game/code/Book-1/Chapter-9/s03.rpy:544
 translate spanish b1c09s03_continue_54771d9f:
@@ -548,7 +548,7 @@ translate spanish b1c09s03_after_sex_019aaaf8:
 translate spanish b1c09s03_after_sex_e1831eb7:
 
     # mc "I know you can. Let me take care of it, though."
-    mc "Sé que puedes. Pero déjame encargarme de ello."
+    mc "Sé que puedes. Pero deja que yo me haga cargo."
 
 # game/code/Book-1/Chapter-9/s03.rpy:589
 translate spanish b1c09s03_after_sex_3468ea18:
@@ -566,13 +566,13 @@ translate spanish b1c09s03_after_sex_67fe7676:
 translate spanish b1c09s03_after_sex_beb2a778:
 
     # jh "Oh yes. That felt so relaxing and blissful."
-    jh "Oh sí. Eso se sintió tan relajante y feliz."
+    jh "Ah, sí. Eso se sintió tan relajante y placentero."
 
 # game/code/Book-1/Chapter-9/s03.rpy:596
 translate spanish b1c09s03_after_sex_c00dbeab:
 
     # jh "I'm really glad it's you I'm having these new experiences with."
-    jh "Me alegra mucho que seas contigo con quien estoy teniendo estas nuevas experiencias."
+    jh "Me alegra mucho que sea contigo con quien estoy teniendo estas nuevas experiencias."
 
 # game/code/Book-1/Chapter-9/s03.rpy:603
 translate spanish b1c09s03_after_sex_47a789de:
@@ -710,7 +710,7 @@ translate spanish b1c09s03_after_sex_4534bf73:
 translate spanish b1c09s03_after_sex_25c6af4e:
 
     # "You and Josie get dressed together and go about your day."
-    "Tú y Josie se visten juntos y continúan con su día."
+    "Josie y tú se visten juntos y continúan con su día."
 
 translate spanish strings:
 
