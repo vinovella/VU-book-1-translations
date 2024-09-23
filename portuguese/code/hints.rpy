@@ -998,17 +998,17 @@ translate portuguese strings:
 
     # game/code/hints.rpy:11
     old "Skip sex scene. This can close Delphia's path for you."
-    new "Skip sex scene. This can close Delphia's path for you."
+    new "Pula a próxima cena. Isso pode fechar o caminho da Delphia."
 
     # game/code/hints.rpy:11
     old "Sex scene with Asami. +1 point with Asami."
-    new "Sex scene with Asami. +1 point with Asami."
+    new "Cena de sexo com a Asami. +1 ponto com a Asami."
 
     # game/code/hints.rpy:11
     old "Leads to a scuffle with Xasan. If you're deep into The Syndicate's story, Zemfira then cleans you up and rubs your cock between her thighs."
-    new "Leads to a scuffle with Xasan. If you're deep into The Syndicate's story, Zemfira then cleans you up and rubs your cock between her thighs."
+    new "Leva a uma briga com Xasan. Se avançou bem na história do Sindicato, Zenfira te limpa e esfrega seu pau na coxa."
 
     # game/code/hints.rpy:11
     old "You match Brig's energy. If you're on The Winner's path, Brigitta spits on you."
-    new "You match Brig's energy. If you're on The Winner's path, Brigitta spits on you."
+    new "Você usa o mesmo tom da Brig. Se está no caminho dos Vencedores, Brigitta cospe em você."
 
