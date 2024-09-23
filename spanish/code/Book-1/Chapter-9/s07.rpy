@@ -14,7 +14,7 @@ translate spanish b1c09s07_78776097:
 translate spanish b1c09s07_0db4d85d:
 
     # ima "Okay, so fucking find replacements! It's not my fault you—"
-    ima "¡Bien, entonces busca reemplazos! No es mi culpa que tú—"
+    ima "¡Bien, entonces busca reemplazos! No es mi culpa que tú..."
 
 # game/code/Book-1/Chapter-9/s07.rpy:76
 translate spanish b1c09s07_4804d19f:
@@ -110,7 +110,7 @@ translate spanish b1c09s07_c100207c:
 translate spanish b1c09s07_d6d4a887:
 
     # ima "A little sweaty musk radiating off you won't do you any harm."
-    ima "Un poco de almizcle sudoroso que irradia no te hará ningún daño."
+    ima "Un poco de almizcle sudoroso emanando de ti no te hará ningún daño."
 
 # game/code/Book-1/Chapter-9/s07.rpy:118
 translate spanish b1c09s07_30ff87d1:
@@ -140,7 +140,7 @@ translate spanish b1c09s07_b162422b:
 translate spanish b1c09s07_5cb6b836:
 
     # mc "You're welcome. I'm glad I could help. How did the replacement calls go?"
-    mc "De nada. Me alegro de poder ayudar. ¿Cómo fueron las llamadas de reemplazo?"
+    mc "No hay de qué. Me alegro de haber podido ayudar. ¿Cómo estuvieron las llamadas de reemplazo?"
 
 # game/code/Book-1/Chapter-9/s07.rpy:164
 translate spanish b1c09s07_07dd3ca2:
@@ -164,7 +164,7 @@ translate spanish b1c09s07_ab4b9829:
 translate spanish b1c09s07_9e230b48:
 
     # mct "I shouldn't play her game. I'm too close to Sam, if she finds out about this... She's too volatile for me to know what she'd do."
-    mct "No debería seguir su juego. Soy demasiado cercano a Sam, si ella se entera de esto... Es demasiado volátil para que yo sepa qué haría."
+    mct "No debería entrar en su juego. Soy demasiado cercano a Sam, si se entera de esto... Ella es demasiado volátil para que yo sepa lo que haría."
 
 # game/code/Book-1/Chapter-9/s07.rpy:185
 translate spanish b1c09s07_01eda2a0:
@@ -242,7 +242,7 @@ translate spanish b1c09s07_ima_sex_13fce089:
 translate spanish b1c09s07_ima_sex_fb7841c9:
 
     # "You grip Isa closer, and elicit a delicate, needy moan from her lips."
-    "Agarras a Isa más cerca y provocas un gemido delicado y necesitado de sus labios."
+    "Acercas a Isa y provocas un delicado gemido de necesidad en sus labios."
 
 # game/code/Book-1/Chapter-9/s07.rpy:237
 translate spanish b1c09s07_ima_sex_7c8f52c9:
@@ -386,7 +386,7 @@ translate spanish b1c09s07_ima_sex_c7ebbfc5:
 translate spanish b1c09s07_ima_sex_c0ccb6c1:
 
     # "When you're sure the cum is deep enough inside Isa that it won't leak, you pull out."
-    "Cuando estás seguro de que el semen está lo suficientemente profundo dentro de Isa como para que no se escape, lo retiras."
+    "Cuando estás seguro de que el semen está lo suficientemente dentro de Isa como para no gotear, te retiras."
 
 # game/code/Book-1/Chapter-9/s07.rpy:363
 translate spanish b1c09s07_ima_sex_22c37299:
@@ -476,7 +476,7 @@ translate spanish b1c09s07_after_a64e8bc0:
 translate spanish b1c09s07_after_f07a0127:
 
     # ima "Shit, I should take this. It's probably for the party. I trust you can see yourself out?"
-    ima "Mierda, debería aceptar esto. Probablemente sea para la fiesta. ¿Confío en que puedas salir por ti mismo?"
+    ima "Mierda, debería responder esto. Probablemente sea para la fiesta. ¿Confío en que puedas salir por ti mismo?"
 
 # game/code/Book-1/Chapter-9/s07.rpy:464
 translate spanish b1c09s07_after_f4487604:
@@ -620,7 +620,7 @@ translate spanish b1c09s07_after_2d2c8ca9:
 translate spanish b1c09s07_after_8101b4fe:
 
     # "???" "But what I don't understand is why you went against the protocol I have laid out for you; why you waited until the last minute to give it out when I explicitly told you not to."
-    "???" "Pero lo que no entiendo es por qué has ido en contra del protocolo que te he marcado; por qué has esperado hasta el último momento para entregarlo cuando te había dicho explícitamente que no lo hicieras."
+    "???" "Pero lo que no entiendo es por qué has ido en contra del protocolo que te he marcado; por qué has esperado hasta el último momento para entregarlo cuando te he dicho explícitamente que no lo hicieras."
 
 # game/code/Book-1/Chapter-9/s07.rpy:537
 translate spanish b1c09s07_after_66c2d355:
@@ -680,7 +680,7 @@ translate spanish b1c09s07_after_e5645a03:
 translate spanish b1c09s07_after_9096dedb:
 
     # pjh "Right, right, [mcname]. Was this about him? Did you develop a little crush and forget to do—"
-    pjh "Correcto, correcto, [mcname]. ¿Se trataba de él? ¿Te enamoraste un poco y te olvidaste de hacer...?"
+    pjh "Bien, bien, [mcname]. ¿Se trataba de él? ¿Te enamoraste un poco y te olvidaste de hacer...?"
 
 # game/code/Book-1/Chapter-9/s07.rpy:565
 translate spanish b1c09s07_after_a28fc767:
@@ -722,7 +722,7 @@ translate spanish b1c09s07_after_71ff1673:
 translate spanish b1c09s07_after_716e92fb:
 
     # pjh "*Chuckles* I didn't think you would."
-    pjh "*Risas* No pensé que lo harías."
+    pjh "*Risas* No pensé que te gustaría."
 
 # game/code/Book-1/Chapter-9/s07.rpy:580
 translate spanish b1c09s07_after_bf6632d3:
@@ -796,5 +796,5 @@ translate spanish strings:
 
     # game/code/Book-1/Chapter-9/s07.rpy:174
     old "Ya gotta pay extra for that, Sweetheart"
-    new "Tienes que pagar extra por eso, cariño"
+    new "Tienes que pagar extra por eso, cariño."
 
