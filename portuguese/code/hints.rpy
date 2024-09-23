@@ -485,8 +485,8 @@ translate portuguese strings:
     new "Iona continua a servir. 0 pontos com a Iona."
 
     # game/code/hints.rpy:11
-    old "You go with Iona and have a fun time with her before coming back to the party. You can potentially earn a point with her on this path."
-    new "Você decide ir se divertir um pouco com a Iona antes de voltar para a festa. Você pode ganhar um ponto com ela nesse caminho."
+    old "You go with Iona and have a fun time with her before coming back to the party."
+    new "Você decide ir se divertir um pouco com a Iona antes de voltar para a festa."
 
     # game/code/hints.rpy:11
     old "You stay at the party."
@@ -669,8 +669,8 @@ translate portuguese strings:
     new "Você não impressiona ninguém. 0 pontos."
 
     # game/code/hints.rpy:11
-    old "You rebel against the community's customs, but at a great cost to the investigation, Ivy and Nia's regards. Delphia appreciates your strong will, though. -2 points with Ivy, -1 point with Nia, +1 point with Delphia."
-    new "Você se rebela contra os costumes da comunidade, mas botando a investigação em perigo e decepcionando Ivy e Nia. Mas a Delphia aprecia sua ousadia. -2 pontos com a Ivy, -1 ponto com a Nia, +1 ponto com a Delphia."
+    old "You rebel against the community's customs, but at a great cost to the investigation, Ivy and Nia's regards. Delphia appreciates your strong will, though. -1 points with Ivy, -1 point with Nia, +1 point with Delphia."
+    new "Você se rebela contra os costumes da comunidade, mas botando a investigação em perigo e decepcionando Ivy e Nia. Mas a Delphia aprecia sua ousadia. -1 pontos com a Ivy, -1 ponto com a Nia, +1 ponto com a Delphia."
 
     # game/code/hints.rpy:11
     old "She appreciates your kindness. +1 point with Lumi."
@@ -885,15 +885,15 @@ translate portuguese strings:
     new "Você goza na garganta da Foxy."
 
     # game/code/hints.rpy:11
-    old "You hang out with the self-help group."
+    old "You hang out with The Self-Help Group."
     new "Você visita o grupo de autoajuda."
 
     # game/code/hints.rpy:11
-    old "You hang out with the Syndicate members."
+    old "You hang out with The Syndicate members."
     new "Você visita os membros do Sindicato."
 
     # game/code/hints.rpy:11
-    old "You hang out with the Winner's Club."
+    old "You hang out with The Winner's Club."
     new "Você visita o clube dos vencedores."
 
     # game/code/hints.rpy:11
@@ -995,4 +995,20 @@ translate portuguese strings:
     # game/code/hints.rpy:11
     old "You keep going. You'll get to creampie Silvia."
     new "Você continua. Você goza dentro da Silvia depois."
+
+    # game/code/hints.rpy:11
+    old "Skip sex scene. This can close Delphia's path for you."
+    new "Skip sex scene. This can close Delphia's path for you."
+
+    # game/code/hints.rpy:11
+    old "Sex scene with Asami. +1 point with Asami."
+    new "Sex scene with Asami. +1 point with Asami."
+
+    # game/code/hints.rpy:11
+    old "Leads to a scuffle with Xasan. If you're deep into The Syndicate's story, Zemfira then cleans you up and rubs your cock between her thighs."
+    new "Leads to a scuffle with Xasan. If you're deep into The Syndicate's story, Zemfira then cleans you up and rubs your cock between her thighs."
+
+    # game/code/hints.rpy:11
+    old "You match Brig's energy. If you're on The Winner's path, Brigitta spits on you."
+    new "You match Brig's energy. If you're on The Winner's path, Brigitta spits on you."
 

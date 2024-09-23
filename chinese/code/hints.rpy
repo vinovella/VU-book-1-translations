@@ -485,8 +485,8 @@
     new "欧娜继续服务。与欧娜的关系+0分。"
 
     # game/code/hints.rpy:11
-    old "You go with Iona and have a fun time with her before coming back to the party. You can potentially earn a point with her on this path."
-    new "你和欧娜一起玩得很开心，然后回到派对上。在这条路径上，你和她的关系可能会赢得1分。"
+    old "You go with Iona and have a fun time with her before coming back to the party."
+    new "你和欧娜一起玩得很开心，然后回到派对上。"
 
     # game/code/hints.rpy:11
     old "You stay at the party."
@@ -669,8 +669,8 @@
     new "你没有打动任何人。0分。"
 
     # game/code/hints.rpy:11
-    old "You rebel against the community's customs, but at a great cost to the investigation, Ivy and Nia's regards. Delphia appreciates your strong will, though. -2 points with Ivy, -1 point with Nia, +1 point with Delphia."
-    new "你反抗了社区的习俗，但对于调查、以及艾薇和妮亚的关怀都因此付出了巨大代价。不过德尔菲娅欣赏你的坚强意志。和艾薇的关系-2分，和妮娅的关系-1分，和德尔菲娅的关系+1分。"
+    old "You rebel against the community's customs, but at a great cost to the investigation, Ivy and Nia's regards. Delphia appreciates your strong will, though. -1 points with Ivy, -1 point with Nia, +1 point with Delphia."
+    new "你反抗了社区的习俗，但对于调查、以及艾薇和妮亚的关怀都因此付出了巨大代价。不过德尔菲娅欣赏你的坚强意志。和艾薇的关系-1分，和妮娅的关系-1分，和德尔菲娅的关系+1分。"
 
     # game/code/hints.rpy:11
     old "She appreciates your kindness. +1 point with Lumi."
@@ -885,15 +885,15 @@
     new "射在小狐的喉咙里。"
 
     # game/code/hints.rpy:11
-    old "You hang out with the self-help group."
+    old "You hang out with the Self-Help Group."
     new "你和自助小组成员一起玩。"
 
     # game/code/hints.rpy:11
-    old "You hang out with the Syndicate members."
+    old "You hang out with The Syndicate members."
     new "你和辛迪加成员一起玩。"
 
     # game/code/hints.rpy:11
-    old "You hang out with the Winner's Club."
+    old "You hang out with The Winner's Club."
     new "你和赢家俱乐部的人一起玩。"
 
     # game/code/hints.rpy:11
@@ -995,4 +995,24 @@
     # game/code/hints.rpy:11
     old "You keep going. You'll get to creampie Silvia."
     new "你继续下去。之后你会内射西尔维娅的。"
+
+    # game/code/hints.rpy:11
+    old "Skip sex scene. This can close Delphia's path for you."
+    new "Skip sex scene. This can close Delphia's path for you."
+
+    # game/code/hints.rpy:11
+    old "Sex scene with Asami. +1 point with Asami."
+    new "Sex scene with Asami. +1 point with Asami."
+
+    # game/code/hints.rpy:11
+    old "You hang out with The Self-Help Group."
+    new "You hang out with The Self-Help Group."
+
+    # game/code/hints.rpy:11
+    old "Leads to a scuffle with Xasan. If you're deep into The Syndicate's story, Zemfira then cleans you up and rubs your cock between her thighs."
+    new "Leads to a scuffle with Xasan. If you're deep into The Syndicate's story, Zemfira then cleans you up and rubs your cock between her thighs."
+
+    # game/code/hints.rpy:11
+    old "You match Brig's energy. If you're on The Winner's path, Brigitta spits on you."
+    new "You match Brig's energy. If you're on The Winner's path, Brigitta spits on you."
 

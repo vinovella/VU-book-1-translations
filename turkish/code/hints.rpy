@@ -485,8 +485,8 @@ translate turkish strings:
     new "Iona servis atmaya devam ediyor. Iona ile 0 sayı."
 
     # game/code/hints.rpy:11
-    old "You go with Iona and have a fun time with her before coming back to the party. You can potentially earn a point with her on this path."
-    new "Iona ile git ve partiye geri dönmeden önce onunla eğlenceli vakit geçir. Bu yolda onunla potansiyel olarak bir puan kazanabilirsin."
+    old "You go with Iona and have a fun time with her before coming back to the party."
+    new "Iona ile git ve partiye geri dönmeden önce onunla eğlenceli vakit geçir."
 
     # game/code/hints.rpy:11
     old "You stay at the party."
@@ -669,8 +669,8 @@ translate turkish strings:
     new "Kimseyi etkilemiyorsun. 0 puan."
 
     # game/code/hints.rpy:11
-    old "You rebel against the community's customs, but at a great cost to the investigation, Ivy and Nia's regards. Delphia appreciates your strong will, though. -2 points with Ivy, -1 point with Nia, +1 point with Delphia."
-    new "Topluluğun geleneklerine karşı isyan ediyorsun, ancak soruşturmaya, Ivy ve Nia'nın saygılarına büyük bir bedel ödüyorsun. Yine de Delphia güçlü iradeni takdir ediyor. Ivy ile -2 puan, Nia ile -1 puan, Delphia ile +1 puan."
+    old "You rebel against the community's customs, but at a great cost to the investigation, Ivy and Nia's regards. Delphia appreciates your strong will, though. -1 points with Ivy, -1 point with Nia, +1 point with Delphia."
+    new "Topluluğun geleneklerine karşı isyan ediyorsun, ancak soruşturmaya, Ivy ve Nia'nın saygılarına büyük bir bedel ödüyorsun. Yine de Delphia güçlü iradeni takdir ediyor. Ivy ile -1 puan, Nia ile -1 puan, Delphia ile +1 puan."
 
     # game/code/hints.rpy:11
     old "She appreciates your kindness. +1 point with Lumi."
@@ -885,15 +885,15 @@ translate turkish strings:
     new "Foxy'nin boğazına boşal."
 
     # game/code/hints.rpy:11
-    old "You hang out with the self-help group."
+    old "You hang out with The Self-Help group."
     new "Kendi kendine yardım grubuyla takılıyorsun."
 
     # game/code/hints.rpy:11
-    old "You hang out with the Syndicate members."
+    old "You hang out with The Syndicate members."
     new "Sendika üyeleriyle takılıyorsun."
 
     # game/code/hints.rpy:11
-    old "You hang out with the Winner's Club."
+    old "You hang out with The Winner's Club."
     new "Kazananlar Kulübü ile takılıyorsun."
 
     # game/code/hints.rpy:11
@@ -995,4 +995,24 @@ translate turkish strings:
     # game/code/hints.rpy:11
     old "You keep going. You'll get to creampie Silvia."
     new "Devam et. Boşalacaksın Silvia."
+
+    # game/code/hints.rpy:11
+    old "Skip sex scene. This can close Delphia's path for you."
+    new "Skip sex scene. This can close Delphia's path for you."
+
+    # game/code/hints.rpy:11
+    old "Sex scene with Asami. +1 point with Asami."
+    new "Sex scene with Asami. +1 point with Asami."
+
+    # game/code/hints.rpy:11
+    old "You hang out with The Self-Help Group."
+    new "You hang out with The Self-Help Group."
+
+    # game/code/hints.rpy:11
+    old "Leads to a scuffle with Xasan. If you're deep into The Syndicate's story, Zemfira then cleans you up and rubs your cock between her thighs."
+    new "Leads to a scuffle with Xasan. If you're deep into The Syndicate's story, Zemfira then cleans you up and rubs your cock between her thighs."
+
+    # game/code/hints.rpy:11
+    old "You match Brig's energy. If you're on The Winner's path, Brigitta spits on you."
+    new "You match Brig's energy. If you're on The Winner's path, Brigitta spits on you."
 
