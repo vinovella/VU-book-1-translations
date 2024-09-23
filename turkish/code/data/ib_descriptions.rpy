@@ -1,20 +1,20 @@
 translate turkish strings:
 
     # game/code/data/ib_descriptions.rpy:2
-    old "Went missing February 15th during the Winner's Club party"
-    new "15 Şubat'ta Winner's Club partisinde kayboldu"
+    old "Went missing February 15th during the Winner's Club party."
+    new "15 Şubat'ta Winner's Club partisinde kayboldu."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Used to be Nia's Guide."
     new "Eskiden Nia'nın Rehberiydi."
 
     # game/code/data/ib_descriptions.rpy:2
-    old "Worked as a part-time model and actress"
-    new "Yarı zamanlı model ve oyuncu olarak çalıştı"
+    old "Worked as a part-time model and actress."
+    new "Yarı zamanlı model ve oyuncu olarak çalıştı."
 
     # game/code/data/ib_descriptions.rpy:2
-    old "Involved with the Winner's Club"
-    new "Winner's Club'da çalışıyor"
+    old "Involved with the Winner's Club."
+    new "Winner's Club'da çalışıyor."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Got mentoring from Diana Mills."
@@ -423,8 +423,8 @@ translate turkish strings:
     new "Zemfira'ya bağlanıldı. \"iyilik\" yapıyor."
 
     # game/code/data/ib_descriptions.rpy:2
-    old "Friends with Quentin and Sabrina"
-    new "Quentin ve Sabrina ile Arkadaşlar"
+    old "Friends with Quentin and Sabrina."
+    new "Quentin ve Sabrina ile Arkadaşlar."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Nirmala performs \"favors\" to pay off her betting debt."

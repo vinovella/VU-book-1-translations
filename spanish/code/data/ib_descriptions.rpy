@@ -33,7 +33,7 @@ translate spanish strings:
     new "El culto trató de llevarse al hijo de Sally."
 
     # game/code/data/ib_descriptions.rpy:2
-    old "Went missing February 15th during the Winner's Club party"
+    old "Went missing February 15th during the Winner's Club party."
     new "Desapareció el 15 de febrero durante la fiesta del Club de los Ganadores."
 
     # game/code/data/ib_descriptions.rpy:2
@@ -53,7 +53,7 @@ translate spanish strings:
     new "Era parte de intensos {i}rituales{/i} dentro del grupo de autoayuda y disfrutaba participar en ellos."
 
     # game/code/data/ib_descriptions.rpy:2
-    old "Worked as a part-time model and actress"
+    old "Worked as a part-time model and actress."
     new "Trabajó como modelo y actriz a tiempo parcial."
 
     # game/code/data/ib_descriptions.rpy:2
@@ -61,7 +61,7 @@ translate spanish strings:
     new "Leia solía rastrear la deuda de la gente con el Sindicato."
 
     # game/code/data/ib_descriptions.rpy:2
-    old "Involved with the Winner's Club"
+    old "Involved with the Winner's Club."
     new "Involucrada con el Club de los Ganadores."
 
     # game/code/data/ib_descriptions.rpy:2
@@ -417,8 +417,8 @@ translate spanish strings:
     new "Conectada con Zemfira. Realiza \"favores\"."
 
     # game/code/data/ib_descriptions.rpy:2
-    old "Friends with Quentin and Sabrina"
-    new "Amiga con Quentin y Sabrina"
+    old "Friends with Quentin and Sabrina."
+    new "Amiga con Quentin y Sabrina."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Nirmala performs \"favors\" to pay off her betting debt."

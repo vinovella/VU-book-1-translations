@@ -1,20 +1,20 @@
 translate chinese strings:
 
     # game/code/data/ib_descriptions.rpy:2
-    old "Went missing February 15th during the Winner's Club party"
-    new "2月15日，在赢家俱乐部聚会期间失踪"
+    old "Went missing February 15th during the Winner's Club party."
+    new "2月15日，在赢家俱乐部聚会期间失踪。"
 
     # game/code/data/ib_descriptions.rpy:2
     old "Used to be Nia's Guide."
     new "曾是妮娅的向导。"
 
     # game/code/data/ib_descriptions.rpy:2
-    old "Worked as a part-time model and actress"
-    new "做过兼职模特和演员"
+    old "Worked as a part-time model and actress."
+    new "做过兼职模特和演员。"
 
     # game/code/data/ib_descriptions.rpy:2
-    old "Involved with the Winner's Club"
-    new "加入了赢家者俱乐部"
+    old "Involved with the Winner's Club."
+    new "加入了赢家者俱乐部。"
 
     # game/code/data/ib_descriptions.rpy:2
     old "Got mentoring from Diana Mills."
@@ -423,7 +423,7 @@ translate chinese strings:
     new "与泽菲拉有关。提供\"人情\"。"
 
     # game/code/data/ib_descriptions.rpy:2
-    old "Friends with Quentin and Sabrina"
+    old "Friends with Quentin and Sabrina."
     new "与昆汀和萨布丽娜是朋友。"
 
     # game/code/data/ib_descriptions.rpy:2

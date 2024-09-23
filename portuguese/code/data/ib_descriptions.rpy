@@ -33,8 +33,8 @@ translate portuguese strings:
     new "O culto tentou levar a criança da Sally."
 
     # game/code/data/ib_descriptions.rpy:2
-    old "Went missing February 15th during the Winner's Club party"
-    new "Sumiu em 15 de fevereiro durante a festa do Clube dos Vencedores"
+    old "Went missing February 15th during the Winner's Club party."
+    new "Sumiu em 15 de fevereiro durante a festa do Clube dos Vencedores."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Used to be Nia's Guide."
@@ -53,7 +53,7 @@ translate portuguese strings:
     new "Fazia parte de intensos {i}rituais{/i} dentro do grupo de autoajuda e gostava de participar neles."
 
     # game/code/data/ib_descriptions.rpy:2
-    old "Worked as a part-time model and actress"
+    old "Worked as a part-time model and actress."
     new "Trabalhava em meio período como modelo e atriz."
 
     # game/code/data/ib_descriptions.rpy:2
@@ -61,7 +61,7 @@ translate portuguese strings:
     new "Leia antigamente cuidava das dívidas das pessoas com o Sindicato."
 
     # game/code/data/ib_descriptions.rpy:2
-    old "Involved with the Winner's Club"
+    old "Involved with the Winner's Club."
     new "Envolvida com o Clube dos Vencedores."
 
     # game/code/data/ib_descriptions.rpy:2
@@ -417,7 +417,7 @@ translate portuguese strings:
     new "Tem relação com Zemfira. Faz \"favores\"."
 
     # game/code/data/ib_descriptions.rpy:2
-    old "Friends with Quentin and Sabrina"
+    old "Friends with Quentin and Sabrina."
     new "Amiga de Quentin e Sabrina."
 
     # game/code/data/ib_descriptions.rpy:2
