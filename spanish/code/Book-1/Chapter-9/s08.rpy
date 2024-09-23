@@ -338,7 +338,7 @@ translate spanish b1c09s08_no_gn_39ff5116:
 translate spanish b1c09s08_no_gn_126966b1:
 
     # "The faint wet sounds of Foxy frantically fingering herself to orgasm sends you over the edge."
-    "Los débiles sonidos húmedos de Foxy tocándose frenéticamente hasta el orgasmo te llevan al límite."
+    "Los débiles sonidos húmedos de Foxy metiéndose los dedos frenéticamente hasta el orgasmo te ponen al límite."
 
 # game/code/Book-1/Chapter-9/s08.rpy:323
 translate spanish b1c09s08_no_gn_22945392:
@@ -548,13 +548,13 @@ translate spanish b1c09s08_gn_watching_ebdf99f0:
 translate spanish b1c09s08_gn_watching_d3c915b5:
 
     # gn "Mmm! You taste good."
-    gn "¡Mmm! Sabes bien."
+    gn "¡Mmm! Tienes buen sabor."
 
 # game/code/Book-1/Chapter-9/s08.rpy:548
 translate spanish b1c09s08_gn_watching_a55532f5:
 
     # mc "Foxy's throat."
-    mc "La garganta de Foxy."
+    mc "En la garganta de Foxy."
 
 # game/code/Book-1/Chapter-9/s08.rpy:551
 translate spanish b1c09s08_gn_watching_8a926a02:
