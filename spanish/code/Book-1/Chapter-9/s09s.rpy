@@ -8,7 +8,7 @@ translate spanish b1c09s09s_5cab02f3:
 translate spanish b1c09s09s_e9725111:
 
     # mct "I haven't spent much time around these guys, anyway."
-    mct "De todos modos, no he pasado mucho tiempo con estos tipos."
+    mct "De todos modos, no he pasado mucho tiempo con esta gente."
 
 # game/code/Book-1/Chapter-9/s09s.rpy:37
 translate spanish b1c09s09s_69a0eee0:
@@ -32,7 +32,7 @@ translate spanish b1c09s09s_89b1fbda:
 translate spanish b1c09s09s_7ae65861:
 
     # mct "That's the warmest greeting Xasan's ever given me."
-    mct "Ése es el saludo más cálido que Xasan me ha dado jamás."
+    mct "Ése es el saludo más cálido que Xasan me ha dado."
 
 # game/code/Book-1/Chapter-9/s09s.rpy:48
 translate spanish b1c09s09s_ce71ab9b:
@@ -152,7 +152,7 @@ translate spanish b1c09s09s_5844ae44:
 translate spanish b1c09s09s_f1c9bd2a:
 
     # "Everyone loses themselves in the upbeat music, enjoying the welcoming and luxurious atmosphere of the party."
-    "Todos se pierden en la alegre música, disfrutando del ambiente acogedor y lujoso de la fiesta."
+    "Todo el mundo se pierde con la música alegre, disfrutando del ambiente acogedor y lujoso de la fiesta."
 
 # game/code/Book-1/Chapter-9/s09s.rpy:126
 translate spanish b1c09s09s_732a6cd2:
@@ -170,7 +170,7 @@ translate spanish b1c09s09s_3fc37a01:
 translate spanish b1c09s09s_fcda9a76:
 
     # zp "*Giggles*"
-    zp "*risas*"
+    zp "*Risas*"
 
 # game/code/Book-1/Chapter-9/s09s.rpy:137
 translate spanish b1c09s09s_3b6440ec:
@@ -308,7 +308,7 @@ translate spanish b1c09s09s_tf_available_cf650cae:
 translate spanish b1c09s09s_tf_available_736d7457:
 
     # ffl "Actually, it wasn't Xasan's doing."
-    ffl "En realidad, no fue obra de Xasan."
+    ffl "En realidad, no fue cosa de Xasan."
 
 # game/code/Book-1/Chapter-9/s09s.rpy:238
 translate spanish b1c09s09s_tf_available_655d5691:
@@ -392,7 +392,7 @@ translate spanish b1c09s09s_tf_available_3e9afc4c:
 translate spanish b1c09s09s_tf_available_eb3c3e3e:
 
     # ffl "I remember Leia got really drunk one night and found me in the staff room at the bar."
-    ffl "Recuerdo que una noche, Leia se emborrachó y me encontró en la sala de profesores del bar."
+    ffl "Recuerdo que Leia se emborrachó mucho una noche y me encontró en la sala de personal del bar."
 
 # game/code/Book-1/Chapter-9/s09s.rpy:269
 translate spanish b1c09s09s_tf_available_5e7ad00a:
@@ -428,19 +428,19 @@ translate spanish b1c09s09s_tf_available_d6012032:
 translate spanish b1c09s09s_tf_available_38f50949:
 
     # ffl "I tried to help her find it. She seemed adamant that it had been lost in the staff room."
-    ffl "Intenté ayudarla a encontrarlo. Parecía inflexible en que se había perdido en la sala de profesores."
+    ffl "Intenté ayudarla a encontrarlo. Parecía inflexible en que se había perdido en la sala de personal."
 
 # game/code/Book-1/Chapter-9/s09s.rpy:285
 translate spanish b1c09s09s_tf_available_1d23dbcd:
 
     # ffl "Even commented on it being broken. I heard her say 'That bitch broke my phone.' I think so, anyway. Her speech was very slurred."
-    ffl "Incluso comentó que estaba roto. La escuché decir: \"Esa perra rompió mi teléfono\". Creo que sí, de todos modos. Su discurso era muy confuso."
+    ffl "Incluso comentó que estaba roto. La escuché decir: \"Esa perra rompió mi teléfono\". Eso creo de todos modos. Sus palabras eran muy confusas."
 
 # game/code/Book-1/Chapter-9/s09s.rpy:286
 translate spanish b1c09s09s_tf_available_2a74d2d1:
 
     # ffl "It was a cool phone. It had flames on it. Leia loved it."
-    ffl "Era un teléfono genial. Tenía llamas. A Leia le encantaba."
+    ffl "Era un teléfono genial. Tenía flamas. A Leia le encantaba."
 
 # game/code/Book-1/Chapter-9/s09s.rpy:299
 translate spanish b1c09s09s_tf_available_ef36456a:
@@ -476,7 +476,7 @@ translate spanish b1c09s09s_tf_available_92d8c6ab:
 translate spanish b1c09s09s_tf_available_0433cbe8:
 
     # ffl "Sorry, I was yapping your ear off again."
-    ffl "Lo siento, te estaba gritando otra vez."
+    ffl "Lo siento, te estaba gritando al oído otra vez."
 
 # game/code/Book-1/Chapter-9/s09s.rpy:328
 translate spanish b1c09s09s_tf_available_7609ed29:
@@ -536,13 +536,13 @@ translate spanish b1c09s09s_no_tf_573aec21:
 translate spanish b1c09s09s_no_tf_1b53fb27:
 
     # ffl "Exactly. We're enjoying ourselves for once."
-    ffl "Exactamente. Nos estamos divirtiendo por una vez."
+    ffl "Exactamente. Por una vez nos estamos divirtiendo."
 
 # game/code/Book-1/Chapter-9/s09s.rpy:371
 translate spanish b1c09s09s_no_tf_735f0198:
 
     # ffl "Ugh, sorry for chatting your ear off like that."
-    ffl "Uf, perdón por hablar así."
+    ffl "Ugh, lo siento por hablar contigo de esa manera."
 
 # game/code/Book-1/Chapter-9/s09s.rpy:374
 translate spanish b1c09s09s_no_tf_c07b27a1:
@@ -554,7 +554,7 @@ translate spanish b1c09s09s_no_tf_c07b27a1:
 translate spanish b1c09s09s_no_tf_ca8b087e:
 
     # ffl "I'm gonna get a drink. Do you want anything?"
-    ffl "Voy a tomar una copa. ¿Quieres algo?"
+    ffl "Voy a tomar un trago. ¿Quieres algo?"
 
 # game/code/Book-1/Chapter-9/s09s.rpy:381
 translate spanish b1c09s09s_no_tf_606e2d02:
@@ -686,7 +686,7 @@ translate spanish b1c09s09s_no_tf_74b52012:
 translate spanish b1c09s09s_no_tf_aa446ab8:
 
     # mc "Sure, Xasan."
-    mc "Claro, Xasan."
+    mc "Seguro, Xasan."
 
 # game/code/Book-1/Chapter-9/s09s.rpy:454
 translate spanish b1c09s09s_no_tf_4d16d9e4:
@@ -698,7 +698,7 @@ translate spanish b1c09s09s_no_tf_4d16d9e4:
 translate spanish b1c09s09s_no_tf_dfcd0c3f:
 
     # xv "Here, let's do a toast."
-    xv "Toma, hagamos un brindis."
+    xv "Aquí, hagamos un brindis."
 
 # game/code/Book-1/Chapter-9/s09s.rpy:461
 translate spanish b1c09s09s_no_tf_4df6ee6a:
@@ -734,7 +734,7 @@ translate spanish b1c09s09s_no_tf_d24fac32:
 translate spanish b1c09s09s_no_tf_8c2a2f06:
 
     # xv "To the win, y'know?"
-    xv "Para ganar, ¿sabes?"
+    xv "Por la victoria, ¿sabes?"
 
 # game/code/Book-1/Chapter-9/s09s.rpy:476
 translate spanish b1c09s09s_no_tf_4459322c:
@@ -752,7 +752,7 @@ translate spanish b1c09s09s_no_tf_8211ffe8:
 translate spanish b1c09s09s_no_tf_42846970:
 
     # mc "Lay off the booze, buddy. You're buzzed."
-    mc "Deja el alcohol, amigo. Estás emocionado."
+    mc "Deja el alcohol, amigo. Estás borracho."
 
 # game/code/Book-1/Chapter-9/s09s.rpy:505
 translate spanish b1c09s09s_no_tf_d4322f17:
@@ -806,7 +806,7 @@ translate spanish b1c09s09s_no_tf_be933d30:
 translate spanish b1c09s09s_with_zp_ea78b53f:
 
     # mc "Here, take mine, so you don't have to wear that."
-    mc "Toma, toma la mía, para que no tengas que usar eso."
+    mc "Aquí, toma la mía, para que no tengas que usar eso."
 
 # game/code/Book-1/Chapter-9/s09s.rpy:567
 translate spanish b1c09s09s_with_zp_b2a1aaf8:
@@ -818,7 +818,7 @@ translate spanish b1c09s09s_with_zp_b2a1aaf8:
 translate spanish b1c09s09s_with_zp_828dce8c:
 
     # zp "But maybe you'd like to walk me to my dorm so I can return your shirt to you... properly?"
-    zp "Pero tal vez quieras acompañarme a mi dormitorio para que pueda devolverte tu camisa... ¿correctamente?"
+    zp "Pero, ¿quizá te gustaría acompañarme a mi dormitorio para que pueda devolverte tu camisa... como es debido?"
 
 # game/code/Book-1/Chapter-9/s09s.rpy:571
 translate spanish b1c09s09s_with_zp_1a58c656:
@@ -992,7 +992,7 @@ translate spanish b1c09s09s_with_zp_725d5f71:
 translate spanish b1c09s09s_with_zp_a7737be3:
 
     # mc "C'mon. We don't want you going back out to the party looking absolutely ravaged, do we?"
-    mc "Venga, vamos. No queremos que vuelvas a la fiesta con un aspecto absolutamente destrozado, ¿verdad?"
+    mc "Venga, vamos. No queremos que regreses a la fiesta con un aspecto absolutamente destrozado, ¿verdad?"
 
 # game/code/Book-1/Chapter-9/s09s.rpy:702
 translate spanish b1c09s09s_with_zp_455c793e:
