@@ -20,7 +20,7 @@ translate spanish b1c09s09_continue_cfb75340:
 translate spanish b1c09s09_continue_2eac4c0f:
 
     # ima "[mcname]! I'm so happy you made it."
-    ima "[mcname]! Estoy tan feliz de que lo hayas logrado."
+    ima "¡[mcname]! Estoy tan feliz de que lo hayas conseguido."
 
 # game/code/Book-1/Chapter-9/s09.rpy:67
 translate spanish b1c09s09_continue_3da544d8:
@@ -38,7 +38,7 @@ translate spanish b1c09s09_continue_9354a747:
 translate spanish b1c09s09_continue_c31165c6:
 
     # "Isa gives a flirty smirk."
-    "Isa da una sonrisa coqueta."
+    "Isa dedica una sonrisa coqueta."
 
 # game/code/Book-1/Chapter-9/s09.rpy:76
 translate spanish b1c09s09_continue_320c0ebf:
