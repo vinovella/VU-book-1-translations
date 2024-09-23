@@ -32,7 +32,7 @@ translate chinese b1c09s09c_858ba839:
 translate chinese b1c09s09c_da5f1074:
 
     # ef "*Chuckles* C'mon, Andre! Lighten up. It's a party!"
-    ef "*咯咯笑* 来吧，安德烈！放松点。这是个派对！"
+    ef "*咯咯笑* 来吧，安杰！放松点。这是个派对！"
 
 # game/code/Book-1/Chapter-9/s09c.rpy:66
 translate chinese b1c09s09c_e330c4d9:
@@ -548,7 +548,7 @@ translate chinese b1c09s09c_cn_available_f0874cd9:
 translate chinese b1c09s09c_cn_available_2da563ac:
 
     # mct "If you ignore Andrejz and Ivy's weird bullshit."
-    mct "如果你忽略安德烈兹和艾薇的怪事的话。"
+    mct "如果你忽略安杰斯和艾薇的怪事的话。"
 
 # game/code/Book-1/Chapter-9/s09c.rpy:354
 translate chinese b1c09s09c_cn_available_7adcf978:
