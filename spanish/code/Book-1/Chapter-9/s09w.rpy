@@ -1384,7 +1384,6 @@ translate spanish strings:
     old "Just shut up"
     new "Sólo cállate"
 
-
 # game/code/Book-1/Chapter-9/s09w.rpy:365
 translate spanish b1c09s09w_cheer_ima_95ac0811:
 
