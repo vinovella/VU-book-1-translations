@@ -26,7 +26,7 @@ translate spanish b1c09s09c_14fe748c:
 translate spanish b1c09s09c_858ba839:
 
     # ad "You inconsiderate wretch! I'm all wet!"
-    ad "¡Desdichado desconsiderado! ¡Estoy todo mojado!"
+    ad "¡Inútil desconsiderado! ¡Estoy todo mojado!"
 
 # game/code/Book-1/Chapter-9/s09c.rpy:57
 translate spanish b1c09s09c_da5f1074:
@@ -92,7 +92,7 @@ translate spanish b1c09s09c_d4ca1297:
 translate spanish b1c09s09c_082b9d1c:
 
     # mc "I'll think about it. Thanks for inviting me in the first place, though."
-    mc "Lo pensaré. Pero gracias por invitarme en primer lugar."
+    mc "Me lo pensaré. Gracias por invitarme en primer lugar, de todos modos."
 
 # game/code/Book-1/Chapter-9/s09c.rpy:101
 translate spanish b1c09s09c_7578d584:
@@ -128,7 +128,7 @@ translate spanish b1c09s09c_519e3938:
 translate spanish b1c09s09c_d57ac263:
 
     # "Irene excitedly wraps her arms around you, her whole body pressing into you."
-    "Irene con entusiasmo te rodea con sus brazos, todo su cuerpo presionándote."
+    "Irene, excitada, te rodea con sus brazos, apretando todo su cuerpo contra ti."
 
 # game/code/Book-1/Chapter-9/s09c.rpy:128
 translate spanish b1c09s09c_f81f7bce:
@@ -152,7 +152,7 @@ translate spanish b1c09s09c_6be64180:
 translate spanish b1c09s09c_9b7c97e2:
 
     # mc "It's nice to finally be here. What have you all been up to?"
-    mc "Es bueno estar finalmente aquí. ¿Qué habéis estado haciendo todos?"
+    mc "Me alegro de estar aquí por fin. ¿Qué han estado haciendo?"
 
 # game/code/Book-1/Chapter-9/s09c.rpy:142
 translate spanish b1c09s09c_2adc9848:
@@ -200,7 +200,7 @@ translate spanish b1c09s09c_5bc5b869:
 translate spanish b1c09s09c_6b359c39:
 
     # nv "You are such a show off."
-    nv "Eres todo un alarde."
+    nv "Eres tan presumida."
 
 # game/code/Book-1/Chapter-9/s09c.rpy:163
 translate spanish b1c09s09c_41134d4c:
@@ -218,7 +218,7 @@ translate spanish b1c09s09c_6b7799f9:
 translate spanish b1c09s09c_6c6b266f:
 
     # "Delphia manages to drink most of it, but a small trickle of alcohol runs down her chin, and into the crevice of her chest."
-    "Delphia logra beber la mayor parte, pero un pequeño hilo de alcohol corre por su barbilla y llega a la grieta de su pecho."
+    "Delphia consigue bebérselo casi todo, pero un pequeño chorro de alcohol le resbala por la barbilla hasta la hendidura del pecho."
 
 # game/code/Book-1/Chapter-9/s09c.rpy:185
 translate spanish b1c09s09c_e9138431:
@@ -314,7 +314,7 @@ translate spanish b1c09s09c_bc1c8a0e:
 translate spanish b1c09s09c_fb2d5d53:
 
     # ef "Thanks for being a good sport for all our shenanigans."
-    ef "Gracias por ser un buen deporte para todas nuestras travesuras."
+    ef "Gracias por aguantar nuestras travesuras."
 
 # game/code/Book-1/Chapter-9/s09c.rpy:253
 translate spanish b1c09s09c_cdc98550:
@@ -398,7 +398,7 @@ translate spanish b1c09s09c_cn_available_83bf64cc:
 translate spanish b1c09s09c_cn_available_5c489b5e:
 
     # ef "The way you and Nia do."
-    ef "Como lo hacen tú y Nia."
+    ef "Como lo hacen Nia y tú."
 
 # game/code/Book-1/Chapter-9/s09c.rpy:295
 translate spanish b1c09s09c_cn_available_2f2c3f54:
@@ -464,7 +464,7 @@ translate spanish b1c09s09c_cn_available_3e1aa8a0:
 translate spanish b1c09s09c_cn_available_624f4d7d:
 
     # mct "What the fuck do I even say to something like that?"
-    mct "¿Qué carajo le digo a algo así?"
+    mct "¿Qué mierda le puedo decir a algo como eso?"
 
 # game/code/Book-1/Chapter-9/s09c.rpy:323
 translate spanish b1c09s09c_cn_available_57cc7fb4:
@@ -476,7 +476,7 @@ translate spanish b1c09s09c_cn_available_57cc7fb4:
 translate spanish b1c09s09c_cn_available_739b7be1:
 
     # ef "Of course they wouldn't! But Irene and the other Guides do think that because I'm so self-aware."
-    ef "¡Por supuesto que no lo harían! Pero Irene y los otros Guías sí piensan eso porque soy muy consciente de mí misma."
+    ef "Claro que no. Pero Irene y los otros Guías sí piensan eso porque soy muy consciente de mí misma."
 
 # game/code/Book-1/Chapter-9/s09c.rpy:327
 translate spanish b1c09s09c_cn_available_06b830dd:
@@ -524,7 +524,7 @@ translate spanish b1c09s09c_cn_available_8b975684:
 translate spanish b1c09s09c_cn_available_da6f34c8:
 
     # ef "Like, they're a lot more secretive—or it feels like it."
-    ef "Son mucho más reservados, o así lo parece."
+    ef "Son mucho más reservados, o eso parece."
 
 # game/code/Book-1/Chapter-9/s09c.rpy:345
 translate spanish b1c09s09c_cn_available_f123350c:
@@ -578,7 +578,7 @@ translate spanish b1c09s09c_cn_available_d0d8b519:
 translate spanish b1c09s09c_cn_available_76469479:
 
     # ef "But I do know that Kara was uncomfortable with Maria's behavior."
-    ef "Pero sí sé que Kara se sentía incómoda con el comportamiento de María."
+    ef "Pero sé que Kara estaba incómoda con el comportamiento de María."
 
 # game/code/Book-1/Chapter-9/s09c.rpy:364
 translate spanish b1c09s09c_cn_available_9982bbf7:
