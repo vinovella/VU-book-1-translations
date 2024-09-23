@@ -170,7 +170,7 @@ translate spanish replay_b1c09s10_3d8fa82f:
 translate spanish replay_b1c09s10_323e2691:
 
     # ima "Right now! Iona and I found some masks so no one can tell it's us."
-    ima "¡En este momento! Iona y yo encontramos algunas máscaras para que nadie pueda decir que somos nosotras."
+    ima "¡Inmediatamente! Iona y yo encontramos algunas máscaras para que nadie pueda decir que somos nosotros."
 
 # game/code/Book-1/Chapter-9/s10.rpy:179
 translate spanish replay_b1c09s10_3fca8536:
@@ -200,7 +200,7 @@ translate spanish replay_b1c09s10_00f46089:
 translate spanish replay_b1c09s10_00b9a9d9:
 
     # "Isa helps Iona strip down the rest of the way, gazing into her eyes with excitement."
-    "Isa ayuda a Iona a desnudarse el resto del camino, mirándola a los ojos con emoción."
+    "Isa ayuda a Iona a desnudarse hasta el final, mirándola a los ojos con emoción."
 
 # game/code/Book-1/Chapter-9/s10.rpy:214
 translate spanish replay_b1c09s10_156adb97:
@@ -506,7 +506,7 @@ translate spanish b1c09s10_naked_run_7cb2c7d2:
 translate spanish b1c09s10_naked_run_f12b8e05:
 
     # "You throw Brig over your shoulder. She lets out a little squeal of rage, immediately tense and angry in your grasp."
-    "Arrojas a Brig por encima del hombro. Ella suelta un pequeño grito de rabia, inmediatamente tensa y furiosa en tus garras."
+    "Te arrojas a Brig por encima del hombro. La chica suelta un pequeño chillido de rabia y se pone inmediatamente tensa y furiosa en tus brazos."
 
 # game/code/Book-1/Chapter-9/s10.rpy:477
 translate spanish b1c09s10_naked_run_60555b85:
@@ -554,7 +554,7 @@ translate spanish b1c09s10_naked_run_399b736b:
 translate spanish b1c09s10_naked_run_4c5bdb70:
 
     # "You approach the edge of the pool, and dump her ass in."
-    "Te acercas al borde de la piscina y le metes el culo dentro."
+    "Te acercas al borde de la piscina y lanzas su culo al agua."
 
 # game/code/Book-1/Chapter-9/s10.rpy:499
 translate spanish b1c09s10_naked_run_42cf47b5:
@@ -662,7 +662,7 @@ translate spanish b1c09s10_sex_1adba329:
 translate spanish b1c09s10_sex_d9b75fe2:
 
     # ir "Something about showing off my body for everyone to see gets me so... Horny."
-    ir "Algo sobre mostrar mi cuerpo para que todos lo vean me pone tan... excitada."
+    ir "Algo sobre mostrar mi cuerpo para que todos lo vean me pone tan... caliente."
 
 # game/code/Book-1/Chapter-9/s10.rpy:601
 translate spanish b1c09s10_sex_4cd38214:
@@ -926,7 +926,7 @@ translate spanish b1c09s10_ir_sex_7cabd840:
 translate spanish b1c09s10_ir_sex_17c60e3a:
 
     # ir "It might be my idea, but you're the one who goes along with it! *Giggles*"
-    ir "Puede que sea idea mía, ¡pero tú eres quien la acepta! *risas*"
+    ir "¡Puede que sea idea mía, pero eres tú quien la lleva a cabo! *Risas*"
 
 # game/code/Book-1/Chapter-9/s10.rpy:813
 translate spanish b1c09s10_ir_sex_d3be4f92:
