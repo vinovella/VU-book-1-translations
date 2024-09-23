@@ -1099,7 +1099,7 @@ translate chinese b1c08s01_recap_c06s_3ba80ee7:
 # game/code/Book-1/Chapter-8/s01.rpy:607
 translate chinese b1c08s01_recap_c06s_70b644bd:
 
-    # mc "Morgan Garret and Corrine Bunker are half-siblings."
+    # mc "Morgan Garret and Corinne Bunker are half-siblings."
     mc "摩根·加勒特和科琳·邦克是同父异母的姐妹。"
 
 # game/code/Book-1/Chapter-8/s01.rpy:610
@@ -1129,7 +1129,7 @@ translate chinese b1c08s01_recap_c07s_12ae29e8:
 # game/code/Book-1/Chapter-8/s01.rpy:624
 translate chinese b1c08s01_recap_c07s_cc6096a1:
 
-    # pm "Morgan and Corrine seem to be pretty intertwined with this group."
+    # pm "Morgan and Corinne seem to be pretty intertwined with this group."
     pm "摩根和科琳似乎和这伙人关系密切。"
 
 # game/code/Book-1/Chapter-8/s01.rpy:625
@@ -1183,7 +1183,7 @@ translate chinese b1c08s01_recap_c07s_e1556d75:
 # game/code/Book-1/Chapter-8/s01.rpy:644
 translate chinese b1c08s01_recap_c07s_44860a71:
 
-    # mc "Yeah. I went to where Corrine's locked up. She's certainly a handful."
+    # mc "Yeah. I went to where Corinne's locked up. She's certainly a handful."
     mc "我去了柯琳被关的地方。她确实很难缠。"
 
 # game/code/Book-1/Chapter-8/s01.rpy:645
@@ -1219,7 +1219,7 @@ translate chinese b1c08s01_recap_c07s_1177d435:
 # game/code/Book-1/Chapter-8/s01.rpy:655
 translate chinese b1c08s01_recap_c07s_fb410473:
 
-    # mc "Apparently that's that's the person Corrine beat up before she got locked up. She wanted to apologize."
+    # mc "Apparently that's that's the person Corinne beat up before she got locked up. She wanted to apologize."
     mc "显然就是柯琳被关监狱之前打的那个人。她想向他道歉。"
 
 # game/code/Book-1/Chapter-8/s01.rpy:656
@@ -1451,7 +1451,7 @@ translate chinese b1c08s01_recap_c07s_53eb8627_1:
 # game/code/Book-1/Chapter-8/s01.rpy:678
 translate chinese b1c08s01_recap_c07s_083f51aa:
 
-    # mc "I'm fine. You should've seen the other guy. {w}Anyway. After Rory, I met up with Corrine."
+    # mc "I'm fine. You should've seen the other guy. {w}Anyway. After Rory, I met up with Corinne."
     mc "我没事。你真该看看另一个人的样子。{w}总之吧。在罗里之后，我遇到了科琳。"
 
 # game/code/Book-1/Chapter-8/s01.rpy:688

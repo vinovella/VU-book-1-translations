@@ -295,8 +295,8 @@ translate turkish b1c09s09s_tf_available_4fb86c1f:
 # game/code/Book-1/Chapter-9/s09s.rpy:231
 translate turkish b1c09s09s_tf_available_355c7200:
 
-    # ffl "She despised how the Morgan and Corrine debt was handled."
-    ffl "Morgan ve Corrine borcunun ele alınış şeklinden nefret ediyordu."
+    # ffl "She despised how the Morgan and Corinne debt was handled."
+    ffl "Morgan ve Corinne borcunun ele alınış şeklinden nefret ediyordu."
 
 # game/code/Book-1/Chapter-9/s09s.rpy:234
 translate turkish b1c09s09s_tf_available_cf650cae:

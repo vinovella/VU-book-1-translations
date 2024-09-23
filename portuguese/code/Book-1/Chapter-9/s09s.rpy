@@ -295,8 +295,8 @@ translate portuguese b1c09s09s_tf_available_4fb86c1f:
 # game/code/Book-1/Chapter-9/s09s.rpy:231
 translate portuguese b1c09s09s_tf_available_355c7200:
 
-    # ffl "She despised how the Morgan and Corrine debt was handled."
-    ffl "Ela odiava a maneira que cuidaram da dívida da Morgan e da Corrine."
+    # ffl "She despised how the Morgan and Corinne debt was handled."
+    ffl "Ela odiava a maneira que cuidaram da dívida da Morgan e da Corinne."
 
 # game/code/Book-1/Chapter-9/s09s.rpy:234
 translate portuguese b1c09s09s_tf_available_cf650cae:

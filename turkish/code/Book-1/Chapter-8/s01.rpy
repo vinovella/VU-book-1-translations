@@ -1069,8 +1069,8 @@ translate turkish b1c08s01_recap_c06s_3ba80ee7:
 # game/code/Book-1/Chapter-8/s01.rpy:607
 translate turkish b1c08s01_recap_c06s_70b644bd:
 
-    # mc "Morgan Garret and Corrine Bunker are half-siblings."
-    mc "Morgan Garret ve Corrine Bunker üvey kardeşler."
+    # mc "Morgan Garret and Corinne Bunker are half-siblings."
+    mc "Morgan Garret ve Corinne Bunker üvey kardeşler."
 
 # game/code/Book-1/Chapter-8/s01.rpy:610
 translate turkish b1c08s01_recap_c06s_66de37ed:
@@ -1099,8 +1099,8 @@ translate turkish b1c08s01_recap_c07s_12ae29e8:
 # game/code/Book-1/Chapter-8/s01.rpy:624
 translate turkish b1c08s01_recap_c07s_cc6096a1:
 
-    # pm "Morgan and Corrine seem to be pretty intertwined with this group."
-    pm "Morgan ve Corrine bu grupla oldukça iç içe geçmiş görünüyor."
+    # pm "Morgan and Corinne seem to be pretty intertwined with this group."
+    pm "Morgan ve Corinne bu grupla oldukça iç içe geçmiş görünüyor."
 
 # game/code/Book-1/Chapter-8/s01.rpy:625
 translate turkish b1c08s01_recap_c07s_73b5dc62:
@@ -1153,8 +1153,8 @@ translate turkish b1c08s01_recap_c07s_e1556d75:
 # game/code/Book-1/Chapter-8/s01.rpy:644
 translate turkish b1c08s01_recap_c07s_44860a71:
 
-    # mc "Yeah. I went to where Corrine's locked up. She's certainly a handful."
-    mc "Evet. Corrine'in kilitli olduğu yere gittim. Kesinlikle ele avuca sığmıyor."
+    # mc "Yeah. I went to where Corinne's locked up. She's certainly a handful."
+    mc "Evet. Corinne'in kilitli olduğu yere gittim. Kesinlikle ele avuca sığmıyor."
 
 # game/code/Book-1/Chapter-8/s01.rpy:645
 translate turkish b1c08s01_recap_c07s_ba533024:
@@ -1189,8 +1189,8 @@ translate turkish b1c08s01_recap_c07s_1177d435:
 # game/code/Book-1/Chapter-8/s01.rpy:655
 translate turkish b1c08s01_recap_c07s_fb410473:
 
-    # mc "Apparently that's that's the person Corrine beat up before she got locked up. She wanted to apologize."
-    mc "Görünüşe göre Corrine'in hapse girmeden önce dövdüğü kişi buymuş. Özür dilemek istedi."
+    # mc "Apparently that's that's the person Corinne beat up before she got locked up. She wanted to apologize."
+    mc "Görünüşe göre Corinne'in hapse girmeden önce dövdüğü kişi buymuş. Özür dilemek istedi."
 
 # game/code/Book-1/Chapter-8/s01.rpy:656
 translate turkish b1c08s01_recap_c07s_247d6338:
@@ -1451,8 +1451,8 @@ translate turkish b1c08s01_recap_c07s_53eb8627_1:
 # game/code/Book-1/Chapter-8/s01.rpy:678
 translate turkish b1c08s01_recap_c07s_083f51aa:
 
-    # mc "I'm fine. You should've seen the other guy. {w}Anyway. After Rory, I met up with Corrine."
-    mc "Ben iyiyim. Diğer adamı görmeliydin. {w}Neyse. Rory'den sonra Corrine ile buluştum."
+    # mc "I'm fine. You should've seen the other guy. {w}Anyway. After Rory, I met up with Corinne."
+    mc "Ben iyiyim. Diğer adamı görmeliydin. {w}Neyse. Rory'den sonra Corinne ile buluştum."
 
 # game/code/Book-1/Chapter-8/s01.rpy:688
 translate turkish b1c08s01_recap_c08s_745fd50b:

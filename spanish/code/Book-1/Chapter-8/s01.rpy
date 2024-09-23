@@ -1069,8 +1069,8 @@ translate spanish b1c08s01_recap_c06s_3ba80ee7:
 # game/code/Book-1/Chapter-8/s01.rpy:607
 translate spanish b1c08s01_recap_c06s_70b644bd:
 
-    # mc "Morgan Garret and Corrine Bunker are half-siblings."
-    mc "Morgan Garret y Corrine Bunker son hermanastras."
+    # mc "Morgan Garret and Corinne Bunker are half-siblings."
+    mc "Morgan Garret y Corinne Bunker son hermanastras."
 
 # game/code/Book-1/Chapter-8/s01.rpy:610
 translate spanish b1c08s01_recap_c06s_66de37ed:
@@ -1099,8 +1099,8 @@ translate spanish b1c08s01_recap_c07s_12ae29e8:
 # game/code/Book-1/Chapter-8/s01.rpy:624
 translate spanish b1c08s01_recap_c07s_cc6096a1:
 
-    # pm "Morgan and Corrine seem to be pretty intertwined with this group."
-    pm "Morgan y Corrine parecen estar bastante entrelazadas con este grupo."
+    # pm "Morgan and Corinne seem to be pretty intertwined with this group."
+    pm "Morgan y Corinne parecen estar bastante entrelazadas con este grupo."
 
 # game/code/Book-1/Chapter-8/s01.rpy:625
 translate spanish b1c08s01_recap_c07s_73b5dc62:
@@ -1153,8 +1153,8 @@ translate spanish b1c08s01_recap_c07s_e1556d75:
 # game/code/Book-1/Chapter-8/s01.rpy:644
 translate spanish b1c08s01_recap_c07s_44860a71:
 
-    # mc "Yeah. I went to where Corrine's locked up. She's certainly a handful."
-    mc "Sí. Fui a donde está encerrada Corrine. Ella es ciertamente un poco difícil de manejar."
+    # mc "Yeah. I went to where Corinne's locked up. She's certainly a handful."
+    mc "Sí. Fui a donde está encerrada Corinne. Ella es ciertamente un poco difícil de manejar."
 
 # game/code/Book-1/Chapter-8/s01.rpy:645
 translate spanish b1c08s01_recap_c07s_ba533024:
@@ -1189,8 +1189,8 @@ translate spanish b1c08s01_recap_c07s_1177d435:
 # game/code/Book-1/Chapter-8/s01.rpy:655
 translate spanish b1c08s01_recap_c07s_fb410473:
 
-    # mc "Apparently that's that's the person Corrine beat up before she got locked up. She wanted to apologize."
-    mc "Aparentemente esa es la persona a la que Corrine golpeó antes de ser encerrada. Ella quería disculparse."
+    # mc "Apparently that's that's the person Corinne beat up before she got locked up. She wanted to apologize."
+    mc "Aparentemente esa es la persona a la que Corinne golpeó antes de ser encerrada. Ella quería disculparse."
 
 # game/code/Book-1/Chapter-8/s01.rpy:656
 translate spanish b1c08s01_recap_c07s_247d6338:
@@ -1453,8 +1453,8 @@ translate spanish b1c08s01_recap_c07s_53eb8627_1:
 # game/code/Book-1/Chapter-8/s01.rpy:678
 translate spanish b1c08s01_recap_c07s_083f51aa:
 
-    # mc "I'm fine. You should've seen the other guy. {w}Anyway. After Rory, I met up with Corrine."
-    mc "Estoy bien. Deberías haber visto al otro tipo. {w}De todos modos. Después de Rory, me encontré con Corrine."
+    # mc "I'm fine. You should've seen the other guy. {w}Anyway. After Rory, I met up with Corinne."
+    mc "Estoy bien. Deberías haber visto al otro tipo. {w}De todos modos. Después de Rory, me encontré con Corinne."
 
 # game/code/Book-1/Chapter-8/s01.rpy:688
 translate spanish b1c08s01_recap_c08s_745fd50b:
