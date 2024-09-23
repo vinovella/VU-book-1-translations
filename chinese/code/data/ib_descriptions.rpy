@@ -280,7 +280,7 @@ translate chinese strings:
 
     # game/code/data/ib_descriptions.rpy:2
     old "There seems to be some tension between her and Monika."
-    new "她与莫妮卡之间似乎有些紧张。""
+    new "她与莫妮卡之间似乎有些紧张。"
 
     # game/code/data/ib_descriptions.rpy:2
     old "Olesya is noticeably absent from the party. Need to find out why."
@@ -332,7 +332,7 @@ translate chinese strings:
 
     # game/code/data/ib_descriptions.rpy:2
     old "Foxy is the hype-man for the fights."
-    new "小狐是搏击比赛的宣传人。""
+    new "小狐是搏击比赛的宣传人。"
 
     # game/code/data/ib_descriptions.rpy:2
     old "Friends with Fleur and Zemfira."
