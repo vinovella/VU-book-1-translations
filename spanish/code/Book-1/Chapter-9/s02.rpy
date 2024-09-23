@@ -104,13 +104,13 @@ translate spanish b1c09s02_79cb95e2:
 translate spanish b1c09s02_5e90fa87:
 
     # mc "They are...nonsensical. Clueless."
-    mc "Son... absurdos. Despistado."
+    mc "No tienen... sentido. Carecen de lógica."
 
 # game/code/Book-1/Chapter-9/s02.rpy:89
 translate spanish b1c09s02_caff6c6c:
 
     # lw "Interesting choice of wording."
-    lw "Interesante elección de redacción."
+    lw "Interesante elección de palabras."
 
 # game/code/Book-1/Chapter-9/s02.rpy:92
 translate spanish b1c09s02_a84d362b:
@@ -134,7 +134,7 @@ translate spanish b1c09s02_dressed_d7058095:
 translate spanish b1c09s02_dressed_2e5ecc54:
 
     # jh "Oh, thos—"
-    jh "Oh, esos—"
+    jh "Oh, eso..."
 
 # game/code/Book-1/Chapter-9/s02.rpy:116
 translate spanish b1c09s02_dressed_ce4e50db:
@@ -212,13 +212,13 @@ translate spanish b1c09s02_dressed_8e16981f:
 translate spanish b1c09s02_dressed_b0fe9c0b:
 
     # jh "Absolutely not. I don't know if you know of The Winners or not, but they can be ruthless."
-    jh "En absoluto. No sé si conoces a Los Ganadores o no, pero pueden ser despiadados."
+    jh "Por supuesto que no. No sé si conoces a Los Ganadores, pero pueden ser despiadados."
 
 # game/code/Book-1/Chapter-9/s02.rpy:166
 translate spanish b1c09s02_dressed_b4610c97:
 
     # jh "I like Olesya, but some of the others are so catty and backhanded."
-    jh "Me gusta Olesya, pero algunas de las otras son muy maliciosas y ambiguas."
+    jh "Me agrada Olesya, pero algunas de las otras son tan maliciosas y malintencionadas."
 
 # game/code/Book-1/Chapter-9/s02.rpy:169
 translate spanish b1c09s02_dressed_c2a60ed9:
@@ -236,13 +236,13 @@ translate spanish b1c09s02_dressed_17a0a202:
 translate spanish b1c09s02_dressed_996d9148:
 
     # jh "I don't want to go because I don't want to leave Lara alo—"
-    jh "No quiero ir porque no quiero dejar a Lara sola—"
+    jh "No quiero ir porque no quiero dejar a Lara sola."
 
 # game/code/Book-1/Chapter-9/s02.rpy:182
 translate spanish b1c09s02_dressed_1a1f4f56:
 
     # lw "Na-uh! Don't you dare give me that excuse."
-    lw "Na-uh! No te atrevas a darme esa excusa."
+    lw "¡Na-uh! No te atrevas a darme esa excusa."
 
 # game/code/Book-1/Chapter-9/s02.rpy:186
 translate spanish b1c09s02_dressed_2e165a6f:
@@ -296,7 +296,7 @@ translate spanish b1c09s02_dressed_81965071:
 translate spanish b1c09s02_dressed_99ba04ed:
 
     # lw "I can handle myself. Trust me."
-    lw "Puedo manejarme sola. Confía en mí."
+    lw "Puedo arreglármelas sola. Confía en mí."
 
 # game/code/Book-1/Chapter-9/s02.rpy:223
 translate spanish b1c09s02_dressed_56626296:
@@ -314,7 +314,7 @@ translate spanish b1c09s02_both_go_28ce5bc8:
 translate spanish b1c09s02_both_go_671e3500:
 
     # lw "{i}{b}What{/b}{/i}?"
-    lw "{i}{b}¿Qué{/b}{/i}?"
+    lw "{i}{b}¿Qué?{/b}{/i}"
 
 # game/code/Book-1/Chapter-9/s02.rpy:251
 translate spanish b1c09s02_both_go_1a9be8cb:
@@ -344,7 +344,7 @@ translate spanish b1c09s02_both_go_f06a0ba3:
 translate spanish b1c09s02_both_go_cb2c2165:
 
     # mc "*Smirks* Can dish it out, but can't take it."
-    mc "*Sonríe* Puedo repartirlo, pero no puedo soportarlo."
+    mc "*Sonríe* Puede repartirlo, pero no puede soportarlo."
 
 # game/code/Book-1/Chapter-9/s02.rpy:266
 translate spanish b1c09s02_both_go_f12daad9:
@@ -356,13 +356,13 @@ translate spanish b1c09s02_both_go_f12daad9:
 translate spanish b1c09s02_both_go_68cdd705:
 
     # lw "I {i}can't{/i} go. I'll probably get pinballed around until I end up in the pool drowning."
-    lw "No {i}no puedo ir{/i}. Probablemente me den vueltas hasta que termine ahogándome en la piscina."
+    lw "No, {i}no puedo ir{/i}. Probablemente me den vueltas hasta que termine ahogándome en la piscina."
 
 # game/code/Book-1/Chapter-9/s02.rpy:272
 translate spanish b1c09s02_both_go_be3154b7:
 
     # jh "I'm not hearing it. If I can't use my social anxiety as an excuse, you can't use your blindness as an excuse."
-    jh "No lo escucho. Si no puedo usar mi ansiedad social como excusa, tú no puedes usar tu ceguera como excusa."
+    jh "No lo estoy escuchando. Si no puedo usar mi ansiedad social como excusa, tú no puedes usar tu ceguera como excusa."
 
 # game/code/Book-1/Chapter-9/s02.rpy:274
 translate spanish b1c09s02_both_go_0ffb9dbe:
@@ -392,7 +392,7 @@ translate spanish b1c09s02_both_go_e1efda48:
 translate spanish b1c09s02_both_go_6bea7c4f:
 
     # mc "Better start picking out your outfit, Lara."
-    mc "Será mejor que empieces a elegir tu conjunto, Lara."
+    mc "Será mejor que empieces a elegir tu atuendo, Lara."
 
 # game/code/Book-1/Chapter-9/s02.rpy:290
 translate spanish b1c09s02_both_go_fe367219:
@@ -428,7 +428,7 @@ translate spanish b1c09s02_both_go_6dcf0537:
 translate spanish b1c09s02_both_go_933bb491:
 
     # lw "As for you—"
-    lw "En cuanto a ti—"
+    lw "En cuanto a ti..."
 
 # game/code/Book-1/Chapter-9/s02.rpy:313
 translate spanish b1c09s02_both_go_c783ac6b:
@@ -518,7 +518,7 @@ translate spanish b1c09s02_lw_right_bae02910:
 translate spanish b1c09s02_lw_right_2a7dee64:
 
     # jh "Yeah and sometimes a little pressure causes you to crap yourself."
-    jh "Sí, y a veces un poco de presión te hace cagarte."
+    jh "Sí, y a veces un poco de presión hace que te cagues encima."
 
 # game/code/Book-1/Chapter-9/s02.rpy:361
 translate spanish b1c09s02_lw_right_32042651:
@@ -536,7 +536,7 @@ translate spanish b1c09s02_lw_right_14bfeaf7:
 translate spanish b1c09s02_lw_right_0f56650d:
 
     # mc "I think we need to workshop your point making skills a little bit more."
-    mc "Creo que necesitamos mejorar un poco más tus habilidades para expresar puntos."
+    mc "Creo que tenemos que trabajar un poco más tus habilidades de argumentación."
 
 # game/code/Book-1/Chapter-9/s02.rpy:378
 translate spanish b1c09s02_lw_right_f2cebb18:
@@ -566,13 +566,13 @@ translate spanish b1c09s02_lw_right_5f8cdb15:
 translate spanish b1c09s02_lw_right_d3290de8:
 
     # jh "She's so stubborn when she decides on something."
-    jh "Es muy testaruda cuando decide algo."
+    jh "Es tan testaruda cuando se decide por algo."
 
 # game/code/Book-1/Chapter-9/s02.rpy:395
 translate spanish b1c09s02_lw_right_dee77d1e:
 
     # mc "Kinda like someone else I know."
-    mc "Algo así como alguien más que conozco."
+    mc "Más o menos como alguien que conozco."
 
 # game/code/Book-1/Chapter-9/s02.rpy:398
 translate spanish b1c09s02_lw_right_931e1e00:
