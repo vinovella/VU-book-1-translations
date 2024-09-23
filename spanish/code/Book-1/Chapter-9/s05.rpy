@@ -38,7 +38,7 @@ translate spanish replay_b1c09s05_a50ae208:
 translate spanish replay_b1c09s05_cbdfbf67:
 
     # dm "No. I don't think we will. All students should be in class by now, and the hallway was pretty much abandoned when I came in here."
-    dm "No, no creo que lo hagamos. Todos los estudiantes ya deberían estar en clase, y el pasillo estaba prácticamente abandonado cuando entré aquí."
+    dm "No, no creo que lo hagan. Todos los estudiantes ya deberían estar en clase, y el pasillo estaba prácticamente abandonado cuando entré aquí."
 
 # game/code/Book-1/Chapter-9/s05.rpy:108
 translate spanish replay_b1c09s05_809cca2c:
@@ -398,7 +398,7 @@ translate spanish b1c09s05_footfetish_b1b091ae:
 translate spanish b1c09s05_after_footfetish_48fb6591:
 
     # "Every inch you crawl up her body, you kiss along the curves of her inner thighs. Hesitant to keep your mouth away from her for even a moment."
-    "Cada centímetro que subes por su cuerpo, besas las curvas de la parte interna de sus muslos. Dudando en mantener tu boca alejada de ella ni siquiera por un momento."
+    "Cada centímetro que subes por su cuerpo, besas las curvas del interior de sus muslos. No te atreves a separar tu boca de ella ni un instante."
 
 # game/code/Book-1/Chapter-9/s05.rpy:330
 translate spanish b1c09s05_after_footfetish_95947ae3:
@@ -446,7 +446,7 @@ translate spanish b1c09s05_after_footfetish_fab3c717:
 translate spanish b1c09s05_after_footfetish_0f9c1521:
 
     # "She pulls you by your cock and guides it into her pussy, so needy for you, yet also in complete control. The feeling of your tip breaking the seal of her entrance is divine."
-    "Ella te tira de la polla y la guía hacia su coño, tan necesitada de ti, pero también con total control. La sensación de tu punta rompiendo el sello de su entrada es divina."
+    "Ella te tira de la polla y la guía hacia su coño, tan necesitada de ti, pero también con control total. La sensación de tu punta rompiendo el sello de su entrada es divina."
 
 # game/code/Book-1/Chapter-9/s05.rpy:352
 translate spanish b1c09s05_after_footfetish_c2773e7a:
@@ -464,7 +464,7 @@ translate spanish b1c09s05_after_footfetish_dda18c1d:
 translate spanish b1c09s05_after_footfetish_88baf988:
 
     # dm "*Staggered moans* F-fuck! Mm... Just like that."
-    dm "*Gemidos tambaleantes* ¡J-joder! Mmm..."
+    dm "*Gemidos tambaleantes* ¡J-joder! Mm... Justo así."
 
 # game/code/Book-1/Chapter-9/s05.rpy:366
 translate spanish b1c09s05_after_footfetish_e9f5fd03:
@@ -566,7 +566,7 @@ translate spanish b1c09s05_mc_take_control_71cc3394:
 translate spanish b1c09s05_mc_take_control_91a7c264:
 
     # "Her scent is intoxicating. It surges an almost primal feeling within you. To just rip her panties off of her and ravish her completely."
-    "Su olor es embriagador. Surge un sentimiento casi primario dentro de ti. Simplemente arrancarle los calzones y violarla por completo."
+    "Su aroma es embriagador. Surge un sentimiento casi primitivo dentro de ti. De simplemente arrancarle los calzones y violarla por completo."
 
 # game/code/Book-1/Chapter-9/s05.rpy:424
 translate spanish b1c09s05_mc_take_control_38db9e3a:
@@ -590,7 +590,7 @@ translate spanish b1c09s05_mc_take_control_30015929:
 translate spanish b1c09s05_mc_take_control_c036423e:
 
     # dm "*Smirks as she blushes* What if I did?"
-    dm "*Sonríe mientras se sonroja* ¿Y si lo hiciera?"
+    dm "*Sonríe mientras se sonroja* ¿Y si lo hubiera hecho?"
 
 # game/code/Book-1/Chapter-9/s05.rpy:435
 translate spanish b1c09s05_mc_take_control_f81f910c:
@@ -650,7 +650,7 @@ translate spanish b1c09s05_dm_eatingout_fe9e9c31:
 translate spanish b1c09s05_dm_eatingout_6fb2da0d:
 
     # dm "*Staggered moans* F-fuck..."
-    dm "*Gimecidos tambaleados* J-joder..."
+    dm "*Gemidos entrecortados* J-joder..."
 
 # game/code/Book-1/Chapter-9/s05.rpy:478
 translate spanish b1c09s05_dm_eatingout_75de4b39:
@@ -668,7 +668,7 @@ translate spanish b1c09s05_dm_eatingout_9ee6203c:
 translate spanish b1c09s05_dm_eatingout_10de3a74:
 
     # dm "*Deep moans* Ke-keep going. Fuck. You call me a slut, but you're the one eating me out like you've been starved."
-    dm "*Gemidos profundos* Si-sigue adelante. Mierda. Me llamas puta, pero eres tú quien me come como si te hubieran matado de hambre."
+    dm "*Gemidos profundos* Si... continúa. Mierda. Me llamas puta, pero eres tú quien me come como si te hubieran matado de hambre."
 
 # game/code/Book-1/Chapter-9/s05.rpy:485
 translate spanish b1c09s05_dm_eatingout_723b1673:
@@ -812,7 +812,7 @@ translate spanish b1c09s05_dm_sex_0f2a347b:
 translate spanish b1c09s05_dm_sex_9c405c14:
 
     # dm "That you'll listen to me."
-    dm "Que me escuches."
+    dm "Que me escuchas."
 
 # game/code/Book-1/Chapter-9/s05.rpy:553
 translate spanish b1c09s05_femdom_end_1a6444fe:
@@ -890,13 +890,19 @@ translate spanish b1c09s05_femdom_end_fab0eae6:
 translate spanish b1c09s05_femdom_end_fe419cb8:
 
     # dm "You did so good for me."
-    dm "Lo hiciste muy bien por mí."
+    dm "Lo hiciste muy bien para mí."
 
 # game/code/Book-1/Chapter-9/s05.rpy:597
 translate spanish b1c09s05_femdom_end_1d8ad034:
 
     # dm "And you didn't cum either."
     dm "Y tampoco te corriste."
+
+# game/code/Book-1/Chapter-9/s05.rpy:599
+translate spanish b1c09s05_femdom_end_2abb0402:
+
+    # "Her touch, what was once bliss, is not agony. You feel as if you could burst any moment, but you still hold on."
+    "Su tacto, lo que antes era dicha, ya no es agonía. Te sientes como si pudieras estallar en cualquier momento, pero sigues aguantando."
 
 # game/code/Book-1/Chapter-9/s05.rpy:600
 translate spanish b1c09s05_femdom_end_a4c4fa44:
@@ -926,13 +932,13 @@ translate spanish b1c09s05_cum_menu_3f79e844:
 translate spanish b1c09s05_cum_menu_1ec2efeb:
 
     # dm "Good boy. Go on now."
-    dm "Buen chico. Continúe ahora."
+    dm "Buen chico. Continúa ahora."
 
 # game/code/Book-1/Chapter-9/s05.rpy:620
 translate spanish b1c09s05_cum_menu_bdef8b5a:
 
     # dm "Yes... *Moans* Get me nice and clean."
-    dm "Sí... *Gime* Hazme agradable y limpia."
+    dm "Sí... *Gime* Hazme sentir agradable y limpia."
 
 # game/code/Book-1/Chapter-9/s05.rpy:627
 translate spanish b1c09s05_cum_menu_b12d0433:
@@ -962,7 +968,7 @@ translate spanish b1c09s05_cum_menu_37d81979:
 translate spanish b1c09s05_end_ac123d20:
 
     # "Sometime later, after basking in each other's afterglow and cleaning up as best as you could."
-    "Algún tiempo después, después de disfrutar del resplandor del otro y limpiarse lo mejor que pudieron."
+    "Un poco más tarde, después de disfrutar del resplandor del otro y limpiarse lo mejor posible."
 
 # game/code/Book-1/Chapter-9/s05.rpy:654
 translate spanish b1c09s05_end_50656797:
@@ -1118,13 +1124,13 @@ translate spanish b1c09s05_end_noflirt_ab5189db:
 translate spanish b1c09s05_end_noflirt_db0d062d:
 
     # dm "Regardless, do make sure to talk to the people there."
-    dm "De todos modos, asegúrese de hablar con la gente de allí."
+    dm "De todos modos, asegúrate de hablar con la gente de allí."
 
 # game/code/Book-1/Chapter-9/s05.rpy:730
 translate spanish b1c09s05_end_noflirt_cae7a5af:
 
     # dm "I'd also go and ask around if I could, but I'd stick out like a sore thumb."
-    dm "También iría a preguntar por ahí si pudiera, pero sobresaldría como un pulgar dolorido."
+    dm "También iría a preguntar por ahí si pudiera, pero sobresaldría como un pulgar adolorido."
 
 # game/code/Book-1/Chapter-9/s05.rpy:737
 translate spanish b1c09s05_end_noflirt_33719cfe:
@@ -1214,7 +1220,7 @@ translate spanish strings:
 
     # game/code/Book-1/Chapter-9/s05.rpy:554
     old "Hold it in"
-    new "Mantenlo dentro"
+    new "Manténgalo adentro"
 
     # game/code/Book-1/Chapter-9/s05.rpy:611
     old "Clean your cum off of Diana"
@@ -1223,10 +1229,4 @@ translate spanish strings:
     # game/code/Book-1/Chapter-9/s05.rpy:611
     old "Refuse to clean your cum"
     new "Negarse a limpiar su semen"
-
-# game/code/Book-1/Chapter-9/s05.rpy:634
-translate spanish b1c09s05_femdom_end_d8cd946f:
-
-    # "Her touch, what was once bliss, is now agony. You feel as if you could burst any moment, but you still hold on."
-    "Her touch, what was once bliss, is now agony. You feel as if you could burst any moment, but you still hold on."
 
