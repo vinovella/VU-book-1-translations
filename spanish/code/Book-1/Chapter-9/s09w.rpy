@@ -38,7 +38,7 @@ translate spanish b1c09s09w_95c0f8d0:
 translate spanish b1c09s09w_c7aaccd6:
 
     # sm "Olesya, don't sour your mood by thinking of a past feud."
-    sm "Olesya, no te agries el ánimo pensando en una enemistad pasada."
+    sm "Olesya, no amargues tu humor pensando en una enemistad pasada."
 
 # game/code/Book-1/Chapter-9/s09w.rpy:50
 translate spanish b1c09s09w_77c3e10a:
@@ -122,7 +122,7 @@ translate spanish replay_b1c09s09w_55894af8:
 translate spanish replay_b1c09s09w_db94a4f5:
 
     # ima "No more drinks for those three, okay? They'll ransack the place if they get any more blasted."
-    ima "No más bebidas para esos tres, ¿de acuerdo? Van a saquear el lugar si se ponen más borrachos."
+    ima "No más tragos para esos tres, ¿de acuerdo? Van a saquear el lugar si se ponen más borrachos."
 
 # game/code/Book-1/Chapter-9/s09w.rpy:101
 translate spanish replay_b1c09s09w_9b49a262:
@@ -152,7 +152,7 @@ translate spanish replay_b1c09s09w_677747ab:
 translate spanish replay_b1c09s09w_362d6e1e:
 
     # "Isa looks at the server and shakes her head no, indicating that Iona and the others are cut off."
-    "Isa mira a la camarera y niega con la cabeza, indicando que Iona y los demás están cortados."
+    "Isa mira a la camarera y niega con la cabeza, indicando que no hay más trago para Iona y los demás."
 
 # game/code/Book-1/Chapter-9/s09w.rpy:115
 translate spanish replay_b1c09s09w_0c76b422:
@@ -170,7 +170,7 @@ translate spanish replay_b1c09s09w_946fd963:
 translate spanish replay_b1c09s09w_c33b8fbc:
 
     # ir "And I know who's ass {i}I'm{/i} hoping to see strip the most."
-    ir "Y sé de quién es el culo {i}que más{/i} quiero ver desnudo."
+    ir "Y sé de quién es el trasero {i}que más{/i} quiero ver desnudo."
 
 # game/code/Book-1/Chapter-9/s09w.rpy:126
 translate spanish replay_b1c09s09w_d8ce0219:
@@ -260,7 +260,7 @@ translate spanish replay_b1c09s09w_586cf048:
 translate spanish replay_b1c09s09w_5f05341c:
 
     # "She is surprisingly coordinated for how intoxicated she is."
-    "Está sorprendentemente coordinada para lo intoxicada que está."
+    "Es sorprendentemente coordinada para lo intoxicada que está."
 
 # game/code/Book-1/Chapter-9/s09w.rpy:181
 translate spanish replay_b1c09s09w_ba382689:
@@ -344,7 +344,7 @@ translate spanish b1c09s09w_cheer_ir_d3a783b4:
 translate spanish b1c09s09w_cheer_ir_fd48cb8a:
 
     # "She faces you again and winks, giving you the notion that although everyone can see her, the show was really all for you."
-    "Ella te mira de nuevo y te guiña un ojo, dándote la idea de que, aunque todos pueden verla, el espectáculo fue realmente solo para ti."
+    "Ella te mira de nuevo y te guiña un ojo, dándote la idea de que, aunque todos pueden verla, el espectáculo era realmente solo para ti."
 
 # game/code/Book-1/Chapter-9/s09w.rpy:286
 translate spanish b1c09s09w_ima_show_554b433b:
@@ -368,7 +368,7 @@ translate spanish b1c09s09w_ima_show_e47d80ad:
 translate spanish b1c09s09w_ima_show_439a4cb3:
 
     # mct "I have no idea how I'm going to compete with this when Iona makes me get on that damn table..."
-    mct "No tengo idea de cómo voy a competir con esto cuando Iona me haga subirme a esa maldita mesa..."
+    mct "No tengo ni idea de cómo voy a competir con esto cuando Iona me haga subir a esa maldita mesa..."
 
 # game/code/Book-1/Chapter-9/s09w.rpy:296
 translate spanish b1c09s09w_ima_show_25d89014:
@@ -454,6 +454,12 @@ translate spanish b1c09s09w_cheer_ima_21801bed:
     # mm "Now we're talking! Keep going, beautiful!"
     mm "¡Ahora estamos hablando! ¡Sigue así, hermosa!"
 
+# game/code/Book-1/Chapter-9/s09w.rpy:365
+translate spanish b1c09s09w_cheer_ima_9afb766e:
+
+    # "Isa flirtatiously sticks her tongue out and flips you all off. Her bikini bottom barely continues to cover her."
+    "Isa les saca la lengua coquetamente y se la enseña a todos. La parte inferior de su bikini apenas sigue cubriéndola."
+
 # game/code/Book-1/Chapter-9/s09w.rpy:369
 translate spanish b1c09s09w_cheer_ima_497ba8f5:
 
@@ -500,7 +506,7 @@ translate spanish b1c09s09w_ba_show_cc65ba2a:
 translate spanish b1c09s09w_ba_show_240ada6d:
 
     # ir "Who's next?"
-    ir "¿Quién es el siguiente?"
+    ir "¿Quién sigue?"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:402
 translate spanish b1c09s09w_ba_show_ad592de7:
@@ -578,13 +584,13 @@ translate spanish b1c09s09w_ba_show_96fc4cc4:
 translate spanish b1c09s09w_ba_show_d690ad92:
 
     # "A carefree, genuine smile melts the resting bitch face on Brig's features."
-    "Una sonrisa genuina y despreocupada derrite la cara de perra en reposo en los rasgos de Brig."
+    "Una sonrisa genuina y despreocupada derrite la cara de perra en reposo en el rostro de Brig."
 
 # game/code/Book-1/Chapter-9/s09w.rpy:454
 translate spanish b1c09s09w_ba_show_7f597586:
 
     # mct "I think that's the most relaxed I've ever seen her."
-    mct "Creo que es lo más relajada que la he visto jamás."
+    mct "Creo que es la vez que más relajada la he visto."
 
 # game/code/Book-1/Chapter-9/s09w.rpy:456
 translate spanish b1c09s09w_ba_show_3f6d629a:
@@ -698,7 +704,7 @@ translate spanish b1c09s09w_ba_show_6a8ae5d2:
 translate spanish b1c09s09w_ba_show_b872e9ab:
 
     # ba "You came here just to see what an embarrassing spectacle we'd all make of ourselves, huh?"
-    ba "Viniste aquí sólo para ver qué espectáculo vergonzoso que haríamos todos, ¿eh?"
+    ba "Viniste aquí sólo para ver qué espectáculo vergonzoso daríamos todos, ¿eh?"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:509
 translate spanish b1c09s09w_ba_show_8e14300d:
@@ -764,7 +770,7 @@ translate spanish b1c09s09w_ba_show_e83d31de:
 translate spanish b1c09s09w_ba_show_6fd7aac4:
 
     # sm "He's being really nice."
-    sm "Está siendo muy amable."
+    sm "El está siendo muy amable."
 
 # game/code/Book-1/Chapter-9/s09w.rpy:548
 translate spanish b1c09s09w_ba_show_8a02447c:
@@ -788,7 +794,7 @@ translate spanish b1c09s09w_ba_show_dc5008ab:
 translate spanish b1c09s09w_ba_show_67cdc6c5:
 
     # "Brigitta's punches are uncoordinated and don't land as hard as they would if she weren't buzzed."
-    "Los golpes de Brigitta no están coordinados y no aterrizan tan fuerte como lo harían si no la golpearan."
+    "Los golpes de Brigitta son descoordinados y no golpean tan fuerte como lo harían si no estuviera borracha."
 
 # game/code/Book-1/Chapter-9/s09w.rpy:585
 translate spanish b1c09s09w_ba_show_7c636c2d:
@@ -824,7 +830,7 @@ translate spanish b1c09s09w_ba_show_a2dae0bf:
 translate spanish b1c09s09w_after_ba_07a4979f:
 
     # ir "What the fuck is her problem?!"
-    ir "¡¿Cuál carajo es su problema?!"
+    ir "¡¿Cuál es su maldito problema?!"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:626
 translate spanish b1c09s09w_after_ba_d292da0e:
@@ -878,13 +884,13 @@ translate spanish b1c09s09w_after_ba_0594ce60:
 translate spanish b1c09s09w_after_ba_3f6c987c:
 
     # ir "That was fucking awesome how you blocked her."
-    ir "Fue increíble cómo la bloqueaste."
+    ir "Fue impresionante cómo la bloqueaste."
 
 # game/code/Book-1/Chapter-9/s09w.rpy:647
 translate spanish b1c09s09w_after_ba_a18660a5:
 
     # ir "I've felt Brigitta's punches. They suck."
-    ir "He sentido los golpes de Brigitta. Apesta."
+    ir "He sentido los golpes de Brigitta. Apestan."
 
 # game/code/Book-1/Chapter-9/s09w.rpy:651
 translate spanish b1c09s09w_after_ba_24e3d73a:
@@ -908,13 +914,13 @@ translate spanish b1c09s09w_after_ba_cafb37fc:
 translate spanish b1c09s09w_after_ba_3a803901:
 
     # sm "Here, for your face."
-    sm "Toma, por tu cara."
+    sm "Toma, para tu cara."
 
 # game/code/Book-1/Chapter-9/s09w.rpy:665
 translate spanish b1c09s09w_after_ba_83937a56:
 
     # ir "Well, I guess you didn't have to dance after all, huh?"
-    ir "Bueno, supongo que después de todo no tenías que bailar, ¿eh?"
+    ir "Bueno, supongo que después de todo no tienes que bailar, ¿eh?"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:668
 translate spanish b1c09s09w_after_ba_9b8a3962:
@@ -950,7 +956,7 @@ translate spanish b1c09s09w_after_ba_28983831:
 translate spanish b1c09s09w_after_ba_d5b5a4d4:
 
     # "Silvia presses her whole warmth into you, her lips passionate and worried, yet relieved you're okay."
-    "Silvia presiona toda su calidez contra ti, sus labios apasionados y preocupados, pero aliviados de que estés bien."
+    "Silvia presiona todo su calidez contra ti, sus labios son apasionados y preocupados, aunque aliviados de que estés bien."
 
 # game/code/Book-1/Chapter-9/s09w.rpy:701
 translate spanish b1c09s09w_after_ba_24f263a3:
@@ -968,7 +974,7 @@ translate spanish b1c09s09w_after_ba_87e32c42:
 translate spanish b1c09s09w_after_ba_a7ba5ea3:
 
     # sm "*Chuckles* You getting your ass handed to you by someone made of muscle and rage isn't exactly what's turning me on."
-    sm "*Risas* Que alguien hecho de músculos y rabia te entregue el culo no es exactamente lo que me excita."
+    sm "*Risas* Que alguien hecho de músculos y de rabia te golpee en el culo no es exactamente lo que me excita."
 
 # game/code/Book-1/Chapter-9/s09w.rpy:710
 translate spanish b1c09s09w_after_ba_5d259318:
@@ -992,7 +998,7 @@ translate spanish b1c09s09w_after_ba_ad02b00c_1:
 translate spanish b1c09s09w_after_ba_5ccf97bd:
 
     # mc "No harm done."
-    mc "No se ha hecho ningún daño."
+    mc "No ha habido ningún daño."
 
 # game/code/Book-1/Chapter-9/s09w.rpy:730
 translate spanish b1c09s09w_after_ba_e5f4f8f2:
@@ -1004,7 +1010,7 @@ translate spanish b1c09s09w_after_ba_e5f4f8f2:
 translate spanish b1c09s09w_after_ba_1513ee0d:
 
     # sm "Isa and Brigitta could get into their own fight at this rate."
-    sm "Isa y Brigitta podrían meterse en su propia pelea a este ritmo."
+    sm "Isa y Brigitta podrían meterse en su propia pelea a este paso."
 
 # game/code/Book-1/Chapter-9/s09w.rpy:734
 translate spanish b1c09s09w_after_ba_5b7b09bd:
@@ -1088,7 +1094,7 @@ translate spanish b1c09s09w_wc_available_4b005d3f:
 translate spanish b1c09s09w_wc_available_907bee5d:
 
     # ir "God, I—"
-    ir "Dios, yo—"
+    ir "Dios, yo..."
 
 # game/code/Book-1/Chapter-9/s09w.rpy:786
 translate spanish b1c09s09w_wc_available_d2d5ba2b:
@@ -1202,7 +1208,7 @@ translate spanish b1c09s09w_wc_available_ac575f02:
 translate spanish b1c09s09w_wc_available_62423c33:
 
     # ir "You know she even reported us to Professor Harlan?"
-    ir "¿Sabes que incluso nos denunció ante el profesor Harlan?"
+    ir "¿Sabes que incluso nos denunció ante el Profesor Harlan?"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:838
 translate spanish b1c09s09w_wc_available_a6a4c2f2:
@@ -1232,7 +1238,7 @@ translate spanish b1c09s09w_wc_available_78605a60:
 translate spanish b1c09s09w_wc_available_004063df:
 
     # ir "He seemed to just think that it was how the Winners Club was, and there wasn't much he could do about it."
-    ir "Parecía pensar que así era el Club de Ganadores y que no había mucho que pudiera hacer al respecto."
+    ir "Parecía pensar que así era el Club de los Ganadores y que no había mucho que pudiera hacer al respecto."
 
 # game/code/Book-1/Chapter-9/s09w.rpy:848
 translate spanish b1c09s09w_wc_available_24cd7708:
@@ -1250,7 +1256,7 @@ translate spanish b1c09s09w_wc_available_c145be7e:
 translate spanish b1c09s09w_wc_available_67dd58d7:
 
     # mct "It's obvious Klara and Harlan had a lot of issues. Harlan seems to have a lot tied up into the Winners Team."
-    mct "Es obvio que Klara y Harlan tenían muchos problemas. Harlan parece tener muchas cosas relacionadas con el equipo de ganadores."
+    mct "Es obvio que Klara y Harlan tenían muchos problemas. Harlan parece tener muchas cosas relacionadas con el equipo de los Ganadores."
 
 # game/code/Book-1/Chapter-9/s09w.rpy:853
 translate spanish b1c09s09w_wc_available_fd374f27:
@@ -1268,7 +1274,7 @@ translate spanish b1c09s09w_wc_available_d2a60fa7:
 translate spanish b1c09s09w_wc_available_34a374d7:
 
     # mct "I'm not sure what kind of game Harlan's playing, but he has the Winners Club wrapped up in it. If it caused Klara to disappear, anyone else could be next."
-    mct "No estoy seguro de qué tipo de juego está jugando Harlan, pero tiene al Club de Ganadores involucrado en él. Si eso provocó que Klara desapareciera, cualquier otra persona podría ser la siguiente."
+    mct "No estoy seguro de qué tipo de juego está jugando Harlan, pero tiene al Club de los Ganadores involucrado en él. Si eso provocó que Klara desapareciera, cualquier otra persona podría ser la siguiente."
 
 # game/code/Book-1/Chapter-9/s09w.rpy:861
 translate spanish b1c09s09w_wc_available_9958ef9e:
@@ -1384,9 +1390,10 @@ translate spanish strings:
     old "Just shut up"
     new "Sólo cállate"
 
+
 # game/code/Book-1/Chapter-9/s09w.rpy:365
 translate spanish b1c09s09w_cheer_ima_95ac0811:
 
     # "Isa flirtatiously sticks her tongue out. Her bikini bottom barely continues to cover her."
-    "Isa flirtatiously sticks her tongue out. Her bikini bottom barely continues to cover her."
+    "Isa saca la lengua coquetamente. La parte de abajo de su bikini apenas consigue cubrirla."
 
