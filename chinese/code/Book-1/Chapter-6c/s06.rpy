@@ -602,7 +602,7 @@ translate chinese b1c06cs06_ed6f65bc:
 translate chinese b1c06cs06_c0f74032:
 
     # nv "This is a safe community. I know it might be scary at first, but everyone here is very accepting and unconditional, just as Andre said."
-    nv "这是一个安全的社区。我知道一开始可能会很害怕，但这里的每个人都非常包容，无条件地接纳我们，就像安德烈说的那样。"
+    nv "这是一个安全的社区。我知道一开始可能会很害怕，但这里的每个人都非常包容，无条件地接纳我们，就像安杰斯说的那样。"
 
 # game/code/Book-1/Chapter-6c/s06.rpy:418
 translate chinese b1c06cs06_ba461581:
