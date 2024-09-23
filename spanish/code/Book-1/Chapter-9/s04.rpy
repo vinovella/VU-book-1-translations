@@ -8,7 +8,7 @@ translate spanish b1c09s04_43180039:
 translate spanish b1c09s04_f2ed3706:
 
     # "As you navigate the bustling corridors, the familiar yet unexpected voice slices through the morning chatter."
-    "Mientras recorres los bulliciosos pasillos, una voz familiar pero inesperada se abre paso entre la charla matutina."
+    "Mientras recorres los bulliciosos pasillos, una voz familiar pero inesperada se abre paso entre las conversaciones matutina."
 
 # game/code/Book-1/Chapter-9/s04.rpy:78
 translate spanish b1c09s04_12f84333:
@@ -98,7 +98,7 @@ translate spanish b1c09s04_6253c35d:
 translate spanish b1c09s04_2bc1e24c:
 
     # mc "Well, it was more like a spiritual get away. Spend some time out in nature, connect with other students, stuff like that."
-    mc "Bueno, fue más como una escapada espiritual. Pasa algún tiempo en la naturaleza, conéctate con otros estudiantes y cosas así."
+    mc "Bueno, era más como una escapada espiritual. Pasar algún tiempo en la naturaleza, conectar con otros estudiantes, cosas así."
 
 # game/code/Book-1/Chapter-9/s04.rpy:120
 translate spanish b1c09s04_993c1957:
@@ -146,7 +146,7 @@ translate spanish b1c09s04_1beba082:
 translate spanish b1c09s04_885e2074:
 
     # rh "Though I do wish I was there so that we could get spiritually acquainted with each other as well."
-    rh "Aunque desearía estar allí para que también pudiéramos conocernos espiritualmente."
+    rh "Aunque me gustaría haber estado allí para poder conocernos mejor espiritualmente."
 
 # game/code/Book-1/Chapter-9/s04.rpy:142
 translate spanish b1c09s04_e64c3f1f:
@@ -170,7 +170,7 @@ translate spanish b1c09s04_84c5eed4:
 translate spanish b1c09s04_07919a45:
 
     # rh "Oh my, I didn't realize you were friends with trouble makers like that."
-    rh "Dios mío, no me di cuenta de que eras amigo de alborotadores como esos."
+    rh "Vaya, no me había dado cuenta de que eras amigo de gente tan problemática."
 
 # game/code/Book-1/Chapter-9/s04.rpy:152
 translate spanish b1c09s04_14b89c1e:
@@ -620,13 +620,13 @@ translate spanish b1c09s04_watersports_bec69323:
 translate spanish b1c09s04_watersports_d319ecd4:
 
     # rh "*Gasps for air* I-I'm sorry. I couldn't breathe—"
-    rh "*Jadea por aire* L-lo siento. No podía respirar"
+    rh "*Jadea por aire* L-lo siento. No podía respirar."
 
 # game/code/Book-1/Chapter-9/s04.rpy:493
 translate spanish b1c09s04_watersports_5c922fed:
 
     # mc "Shh, it's okay. I'll just fuck your piss covered mouth nice and hard to make up for it."
-    mc "Shh, está bien. Me follaré bien y duro tu boca cubierta de orina para compensarlo."
+    mc "Shh, está bien. Te follaré bien fuerte la boca cubierta de orina para compensarte."
 
 # game/code/Book-1/Chapter-9/s04.rpy:496
 translate spanish b1c09s04_watersports_caab3fee:
@@ -638,7 +638,7 @@ translate spanish b1c09s04_watersports_caab3fee:
 translate spanish b1c09s04_watersports_55f6c66a:
 
     # rh "Make me take you nice and deep. Give me bruises to remember you by."
-    rh "Haz que te tome agradable y profundo. Dame moretones para recordarte."
+    rh "Oblígame a tomarte bien profundo. Dame moretones para recordarte."
 
 # game/code/Book-1/Chapter-9/s04.rpy:501
 translate spanish b1c09s04_watersports_e2d53f5e:
@@ -686,13 +686,13 @@ translate spanish b1c09s04_continue_8d1821e2:
 translate spanish b1c09s04_continue_16405dc3:
 
     # mc "Today, I'm gonna fuck this sopping wet cunt of yours and fill you up."
-    mc "Hoy, voy a follarme este coño tuyo empapado y te llenaré."
+    mc "Hoy me voy a follar este coño húmedo que tienes y te voy a llenar."
 
 # game/code/Book-1/Chapter-9/s04.rpy:535
 translate spanish b1c09s04_continue_8206379d:
 
     # mc "And you're gonna walk around with it dripping all over your legs, understood? No panties."
-    mc "Y vas a caminar con eso goteando por todas tus piernas, ¿entendido? Sin bragas."
+    mc "Y vas a caminar con él goteando por todas tus piernas, ¿entendido? Sin calzones."
 
 # game/code/Book-1/Chapter-9/s04.rpy:538
 translate spanish b1c09s04_continue_a0cd557b:
@@ -734,13 +734,13 @@ translate spanish b1c09s04_continue_969a623a:
 translate spanish b1c09s04_continue_254b34a3:
 
     # mc "While you're with me, you're my whore. You talk about me, you think about me, and you take whatever the fuck I'm doing to you. Understood?"
-    mc "Mientras estés conmigo, eres mi puta. Hablas de mí, piensas en mí y aceptas cualquier mierda que te esté haciendo. ¿Comprendido?"
+    mc "Mientras estés conmigo, eres mi puta. Hablas de mí, piensas en mí y aceptas cualquier mierda que te esté haciendo. ¿Lo entiendes?"
 
 # game/code/Book-1/Chapter-9/s04.rpy:555
 translate spanish b1c09s04_continue_e18866a7:
 
     # rh "Yes, Sir. I'm sorry."
-    rh "Sí, señor. Lo lamento."
+    rh "Sí, Señor. Lo lamento."
 
 # game/code/Book-1/Chapter-9/s04.rpy:564
 translate spanish b1c09s04_continue_87e26eb2:
@@ -794,7 +794,7 @@ translate spanish b1c09s04_continue_8add06fa:
 translate spanish b1c09s04_continue_c5850eed:
 
     # rh "*Moans* Yes, Sir."
-    rh "*Gime* Sí, señor."
+    rh "*Gime* Sí, Señor."
 
 # game/code/Book-1/Chapter-9/s04.rpy:589
 translate spanish b1c09s04_continue_c50fdc01:
@@ -878,7 +878,7 @@ translate spanish b1c09s04_continue_ffae38c3:
 translate spanish b1c09s04_continue_9a5715af:
 
     # rh "*Staggered moans* Please let me cum. Please let me milk your cock. Please, Sir."
-    rh "*Gimecidos tambaleados* Por favor, deja que me corra. Por favor déjame ordeñar tu polla. Por favor, señor."
+    rh "*Gemidos agitados* Por favor, deja que me corra. Por favor, déjame ordeñar tu polla. Por favor, Señor."
 
 # game/code/Book-1/Chapter-9/s04.rpy:634
 translate spanish b1c09s04_continue_2e3175c6:
@@ -914,13 +914,13 @@ translate spanish b1c09s04_continue_12fe6a70:
 translate spanish b1c09s04_continue_d4e09359:
 
     # rh "*Choked moans* P-please, cum. C-cum together."
-    rh "*Gimecidos ahogados* P-por favor, córrete. C-corrámonos juntos."
+    rh "*Gemidos ahogados* P-por favor, córrete. C-corrámonos juntos."
 
 # game/code/Book-1/Chapter-9/s04.rpy:648
 translate spanish b1c09s04_continue_0c7699ad:
 
     # "You cum in unison. Her pussy milking you for every drop as the waves of her orgasm take her."
-    "Te corres al unísono. Su coño te ordeña por cada gota mientras las olas de su orgasmo la llevan."
+    "Se corren al unísono. Su coño te ordeña hasta la última gota mientras las olas de su orgasmo se apoderan de ella."
 
 # game/code/Book-1/Chapter-9/s04.rpy:649
 translate spanish b1c09s04_continue_85c554e6:
@@ -974,7 +974,7 @@ translate spanish b1c09s04_continue_fa19ce48:
 translate spanish b1c09s04_continue_060256c1:
 
     # rh "If that's okay with you of course, sweetheart."
-    rh "Si te parece bien, claro, cariño."
+    rh "Si te parece bien, por supuesto, cariño."
 
 # game/code/Book-1/Chapter-9/s04.rpy:682
 translate spanish b1c09s04_continue_fc651aa2:
@@ -1010,7 +1010,7 @@ translate spanish b1c09s04_continue_974bf763:
 translate spanish b1c09s04_continue_c8de5e14:
 
     # "She licks Ronja clinically. What Diana lacks in passion, she makes up for with precise flicks and touches to tease down Ronja from her high horse."
-    "Lame clínicamente a Ronja. Lo que a Diana le falta de pasión, lo compensa con movimientos y toques precisos para sacar a Ronja de su caballo."
+    "Ella lame a Ronja clínicamente. Lo que a Diana le falta de pasión, lo compensa con movimientos y toques precisos para hacer bajar a Ronja de su pedestal."
 
 # game/code/Book-1/Chapter-9/s04.rpy:705
 translate spanish b1c09s04_continue_cf91da8a:
@@ -1034,7 +1034,7 @@ translate spanish b1c09s04_continue_d93fc4a3:
 translate spanish b1c09s04_continue_b6c30c71:
 
     # rh "Yes, Sir."
-    rh "Sí, señor."
+    rh "Sí, Señor."
 
 # game/code/Book-1/Chapter-9/s04.rpy:726
 translate spanish b1c09s04_continue_5e1698a3:
@@ -1058,7 +1058,7 @@ translate spanish b1c09s04_continue_43292790:
 translate spanish b1c09s04_continue_e87be3a5:
 
     # rh "Please, like {i}you{/i} wouldn't be here if I didn't come first."
-    rh "Por favor, {i}tú{/i} no estaría aquí si yo no hubiera venido primero."
+    rh "Por favor, {i}tú{/i} no estarías aquí si yo no hubiera venido primero."
 
 # game/code/Book-1/Chapter-9/s04.rpy:741
 translate spanish b1c09s04_continue_8294aba2:
@@ -1142,5 +1142,5 @@ translate spanish strings:
 
     # game/code/Book-1/Chapter-9/s04.rpy:676
     old "Ronja should keep the cum to herself"
-    new "Ronja debería guardarse el semen para ella misma."
+    new "Ronja debería guardarse el semen para ella misma"
 
