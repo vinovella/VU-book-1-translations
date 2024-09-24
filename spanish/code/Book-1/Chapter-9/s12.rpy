@@ -418,12 +418,6 @@ translate spanish b1c09s12_sex_c9588c21:
     # mc "*Smiles* Good girl."
     mc "*Sonríe* Buena chica."
 
-# game/code/Book-1/Chapter-9/s12.rpy:295
-translate spanish b1c09s12_sex_18972076:
-
-    # "As your tongue teases her folds, Fleur's grip on the edge of the counter tightens, her nails digging into the wood."
-    "Mientras tu lengua juguetea con sus pliegues, el agarre de Fleur en el borde del mostrador se aprieta, sus uñas se clavan en la madera."
-
 # game/code/Book-1/Chapter-9/s12.rpy:297
 translate spanish b1c09s12_sex_7e114488:
 
@@ -1083,4 +1077,10 @@ translate spanish b1c09s12_sex_end_e0542038:
 
     # ffl "*Giggles* Oh God, don't say that!"
     ffl "*Risitas* ¡Oh Dios, no digas eso!"
+
+# game/code/Book-1/Chapter-9/s12.rpy:305
+translate spanish b1c09s12_sex_5a5aa7ff:
+
+    # "As your tongue teases her folds, Fleur's grip on the edge of the chair tightens, her nails digging into the wood."
+    "As your tongue teases her folds, Fleur's grip on the edge of the chair tightens, her nails digging into the wood."
 

@@ -1,9 +1,3 @@
-# game/code/Book-1/Chapter-9/s13.rpy:27
-translate spanish b1c09s13_550201bf:
-
-    # "[b1c09s13_bartender_name]" "What can I get you?"
-    "[b1c09s13_bartender_name]" "¿Qué puedo ofrecerte?"
-
 # game/code/Book-1/Chapter-9/s13.rpy:29
 translate spanish b1c09s13_dbccd2a5:
 
@@ -1030,10 +1024,15 @@ translate spanish b1c09s13_jh_3a1b6051:
     # jh "I will, I promise. Thanks again, [mcname]."
     jh "Lo haré, lo prometo. Gracias de nuevo, [mcname]."
 
-
 translate spanish strings:
 
     # game/code/Book-1/Chapter-9/s13.rpy:18
     old "Still Not Brandon"
     new "Sigue sin ser Brandon"
+
+# game/code/Book-1/Chapter-9/s13.rpy:30
+translate spanish b1c09s13_8cdca3b5:
+
+    # "[b1c09s13_bartender_name!t]" "What can I get you?"
+    "[b1c09s13_bartender_name!t]" "What can I get you?"
 
