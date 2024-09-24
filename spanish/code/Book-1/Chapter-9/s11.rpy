@@ -2,7 +2,7 @@
 translate spanish b1c09s11_8b7f2afd:
 
     # "You stand near the pool, surrounded by the pumping music and students buzzing with excitement."
-    "Te quedas cerca de la piscina, rodeado de música y estudiantes entusiasmados."
+    "Te quedas cerca de la piscina, rodeado de la música y de estudiantes animados."
 
 # game/code/Book-1/Chapter-9/s11.rpy:98
 translate spanish b1c09s11_dk_available_29b155df:
@@ -26,7 +26,7 @@ translate spanish b1c09s11_dk_available_3d15c271:
 translate spanish b1c09s11_dk_available_61997a27:
 
     # dk "*Smirks* Oh, please. If anything, I'm saving you from another dull conversation about crypto or whatever nonsense the rich people here are going on about."
-    dk "*sonríe* Oh, por favor. En todo caso, te estoy salvando de otra conversación aburrida sobre criptografía o cualquier tontería de la que estén hablando los ricos aquí."
+    dk "*Sonríe* Por favor. En todo caso, te estoy salvando de otra aburrida conversación sobre cripto o cualquier tontería de las que hablan los ricos aquí."
 
 # game/code/Book-1/Chapter-9/s11.rpy:114
 translate spanish b1c09s11_dk_available_660ce4c9:
@@ -62,7 +62,7 @@ translate spanish b1c09s11_dk_available_379fcd6e:
 translate spanish b1c09s11_dk_available_60c4bc59:
 
     # dk "*Giggles* I know."
-    dk "*risas* Lo sé."
+    dk "*Risas* Lo sé."
 
 # game/code/Book-1/Chapter-9/s11.rpy:127
 translate spanish b1c09s11_dk_available_ce4608b2:
@@ -128,7 +128,7 @@ translate spanish b1c09s11_dk_available_da6a499f:
 translate spanish b1c09s11_dk_available_c58d3e85:
 
     # mc "*Smirks* You too."
-    mc "*sonríe* Tú también."
+    mc "*Sonríe* Tú también."
 
 # game/code/Book-1/Chapter-9/s11.rpy:183
 translate spanish b1c09s11_dk_sex_a8c4c090:
@@ -218,7 +218,7 @@ translate spanish b1c09s11_dk_sex_9f03426d:
 translate spanish b1c09s11_dk_sex_8ee21d95:
 
     # "You watch as she removes her clothes, her movements slow and deliberate, teasing you with each piece."
-    "Observas cómo se quita la ropa, sus movimientos lentos y deliberados, provocándote con cada parte."
+    "Observas cómo se quita la ropa, sus movimientos son lentos y deliberados, burlándose de ti con cada prenda."
 
 # game/code/Book-1/Chapter-9/s11.rpy:232
 translate spanish b1c09s11_dk_sex_db3c0102:
@@ -236,7 +236,7 @@ translate spanish b1c09s11_dk_sex_e088cd5a:
 translate spanish b1c09s11_dk_sex_3462cb87:
 
     # dk "If you got such a problem with it, why don't you {i}try{/i} and fuck the brattiness out of me?"
-    dk "Si tienes tanto problema con eso, ¿por qué no {i}intentas{/i} follarme y sacarme esa malcriadez?"
+    dk "Si tanto te molesta, ¿por qué no {i}intentas{/i} follarme y sacarme la prepotencia?"
 
 # game/code/Book-1/Chapter-9/s11.rpy:243
 translate spanish b1c09s11_dk_sex_f1b1ace9:
@@ -290,7 +290,7 @@ translate spanish b1c09s11_dk_sex_4811b0c0:
 translate spanish b1c09s11_dk_sex_250bed19:
 
     # mc "*Smirks* Comfortable?"
-    mc "*sonríe* ¿Cómoda?"
+    mc "*Sonríe* ¿Cómoda?"
 
 # game/code/Book-1/Chapter-9/s11.rpy:284
 translate spanish b1c09s11_dk_sex_9bcf6dad:
@@ -398,13 +398,13 @@ translate spanish b1c09s11_dk_sex_2adeb7dc:
 translate spanish b1c09s11_dk_sex_98114065:
 
     # mc "Still a brat, huh?"
-    mc "Sigue siendo una mocosa, ¿eh?"
+    mc "Sigues siendo una mocosa, ¿eh?"
 
 # game/code/Book-1/Chapter-9/s11.rpy:340
 translate spanish b1c09s11_dk_sex_e8fd4d41:
 
     # dk "*Strained* I'll always be a brat."
-    dk "*tenso* Siempre seré una mocosa."
+    dk "*Tensa* Siempre seré una mocosa."
 
 # game/code/Book-1/Chapter-9/s11.rpy:350
 translate spanish b1c09s11_dk_sex_d76927eb:
@@ -542,7 +542,7 @@ translate spanish b1c09s11_dk_sex_04040f47:
 translate spanish b1c09s11_dk_sex_aac595ba:
 
     # mc "*Smirks* Better."
-    mc "*sonríe* Mejor."
+    mc "*Sonríe* Mejor."
 
 # game/code/Book-1/Chapter-9/s11.rpy:435
 translate spanish b1c09s11_dk_sex_06d54336:
@@ -656,7 +656,7 @@ translate spanish b1c09s11_dk_sex_ec92e264:
 translate spanish b1c09s11_dk_sex_2730fb5b:
 
     # mc "*Smirks* Did you just pee?"
-    mc "*sonríe* ¿Acabas de orinar?"
+    mc "*Sonríe* ¿Acabas de orinar?"
 
 # game/code/Book-1/Chapter-9/s11.rpy:487
 translate spanish b1c09s11_dk_sex_c51aa238:
@@ -704,7 +704,7 @@ translate spanish b1c09s11_dk_sex_5a644273:
 translate spanish b1c09s11_dk_sex_a57118c5:
 
     # "You see Delphia's eyes widen, the edge of challenge igniting in her gaze, her body halting its natural response."
-    "Ves los ojos de Delphia abrirse, el borde del desafío encendiéndose en su mirada, su cuerpo deteniendo su respuesta natural."
+    "Ves que los ojos de Delphia se abren de par en par, el borde del desafío encendiéndose en su mirada, su cuerpo deteniendo su respuesta natural."
 
 # game/code/Book-1/Chapter-9/s11.rpy:515
 translate spanish b1c09s11_dk_sex_b05d665b:
@@ -866,7 +866,7 @@ translate spanish b1c09s11_more_watersports_64eb3680:
 translate spanish b1c09s11_after_watersports_1131d0d0:
 
     # mc "I'm gonna fuck you into the bed slut."
-    mc "Te voy a follar hasta meterte en la cama, zorra."
+    mc "Te voy a follar en la cama zorra."
 
 # game/code/Book-1/Chapter-9/s11.rpy:609
 translate spanish b1c09s11_after_watersports_b3a3e00e:
@@ -974,7 +974,7 @@ translate spanish b1c09s11_after_watersports_7c1f7fb6:
 translate spanish b1c09s11_after_watersports_aaeb4c21:
 
     # "Slowly, gently, you undo the ropes around Delphia's body and massage her where they had bound her."
-    "Lenta y suavemente, deshaces las cuerdas que rodean el cuerpo de Delphia y la masajeas donde la habían atado."
+    "Despacio, con suavidad, deshaces las cuerdas que rodean el cuerpo de Delphia y masajeas donde la habías atado."
 
 # game/code/Book-1/Chapter-9/s11.rpy:674
 translate spanish b1c09s11_after_watersports_6dfa35dd:
@@ -1016,7 +1016,7 @@ translate spanish b1c09s11_after_watersports_b33db25f:
 translate spanish b1c09s11_after_watersports_20997c42:
 
     # "You hear the distant sounds of the party outside, muffled by the walls, as irrelevant to your current world as the stars outside the window."
-    "Oyes los sonidos lejanos de la fiesta de fuera, amortiguados por las paredes, tan irrelevantes para tu mundo actual como las estrellas al otro lado de la ventana."
+    "Oyes los sonidos lejanos de la fiesta en el exterior, amortiguados por las paredes, tan irrelevantes para tu mundo actual como las estrellas al otro lado de la ventana."
 
 # game/code/Book-1/Chapter-9/s11.rpy:693
 translate spanish b1c09s11_after_watersports_fcb8eee3:
@@ -1118,7 +1118,7 @@ translate spanish b1c09s11_no_dk_e0087a24:
 translate spanish b1c09s11_no_dk_16ddb9e9:
 
     # mc "*Smirks* Is that all you've got?"
-    mc "*sonríe* ¿Eso es todo lo que tienes?"
+    mc "*Sonríe* ¿Eso es todo lo que tienes?"
 
 # game/code/Book-1/Chapter-9/s11.rpy:751
 translate spanish b1c09s11_no_dk_13b3dc04:
@@ -1226,13 +1226,13 @@ translate spanish b1c09s11_no_dk_d0754e17:
 translate spanish b1c09s11_no_dk_894a1f95:
 
     # "You smile and run your hands up and down her back, feeling her warmth through her dress."
-    "Sonríes y pasas las manos por su espalda, sintiendo su calidez a través de su vestido."
+    "Sonríes y le pasas las manos por la espalda, sintiendo su calor a través de su vestimenta."
 
 # game/code/Book-1/Chapter-9/s11.rpy:796
 translate spanish b1c09s11_no_dk_ef5bd849:
 
     # mc "*Smirks* Oh? Really?"
-    mc "*sonríe* ¿Ah? ¿De verdad?"
+    mc "*Sonríe* ¿Ah? ¿De verdad?"
 
 # game/code/Book-1/Chapter-9/s11.rpy:799
 translate spanish b1c09s11_no_dk_d66376e2:
@@ -1496,7 +1496,7 @@ translate spanish b1c09s11_no_dk_237c309f:
 translate spanish b1c09s11_no_dk_39ceeded:
 
     # mc "You're incredible. But you're not gonna leave me like this are you?"
-    mc "Eres increíble. Pero no me vas a dejar así, ¿verdad?"
+    mc "Eres increíble. Pero no vas a dejarme de esta manera, ¿verdad?"
 
 # game/code/Book-1/Chapter-9/s11.rpy:967
 translate spanish b1c09s11_no_dk_d81284d4:
@@ -1526,7 +1526,7 @@ translate spanish b1c09s11_no_dk_38d0f59b:
 translate spanish b1c09s11_no_dk_b3fd293d:
 
     # "She leads you back to the party, sharing a secret smile as you blend into the crowd."
-    "Ella te lleva de regreso a la fiesta y comparte una sonrisa secreta mientras te mezclas con la multitud."
+    "Ella te lleva de regreso a la fiesta, compartiendo una sonrisa secreta mientras se mezclan entre la multitud."
 
 translate spanish strings:
 
