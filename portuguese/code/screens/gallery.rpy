@@ -36,11 +36,3 @@ translate portuguese strings:
     old "Character Filter: [character_filter!t]"
     new "Filtro de Personagem: [character_filter!t]"
 
-    # game/code/screens/gallery.rpy:9
-    old "replay"
-    new "replay"
-
-    # game/code/screens/gallery.rpy:15
-    old "achievement"
-    new "conquista"
-

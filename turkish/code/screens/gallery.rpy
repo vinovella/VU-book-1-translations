@@ -36,11 +36,3 @@ translate turkish strings:
     old "Character Filter: [character_filter!t]"
     new "Karakter Filtresi: [character_filter!t]"
 
-    # game/code/screens/gallery.rpy:9
-    old "replay"
-    new "tekrar oynat"
-
-    # game/code/screens/gallery.rpy:15
-    old "achievement"
-    new "başarı"
-

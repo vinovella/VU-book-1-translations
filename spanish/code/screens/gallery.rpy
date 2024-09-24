@@ -32,19 +32,7 @@ translate spanish strings:
     old "Character Filter: [character_filter!t]"
     new "Filtro de personajes: [character_filter!t]"
 
-translate spanish strings:
-
     # game/code/screens/gallery.rpy:21
     old "Achievements"
     new "Achievements"
-
-translate spanish strings:
-
-    # game/code/screens/gallery.rpy:9
-    old "replay"
-    new "replay"
-
-    # game/code/screens/gallery.rpy:15
-    old "achievement"
-    new "achievement"
 

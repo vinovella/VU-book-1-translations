@@ -20,13 +20,13 @@ translate chinese strings:
     old "You have updated a new character in the Investigation Board"
     new "您在调查板中更新了一个新角色"
 
-    # game/code/functions/functions.rpy:374
-    old "You've unlocked \""
-    new "您已经解锁了 \""
+translate chinese strings:
 
-    old "achievement"
-    new "成就"
+    # game/code/functions/functions.rpy:393
+    old "You've unlocked the replay: "
+    new "You've unlocked the replay: "
 
-    old "replay"
-    new "回放"
+    # game/code/functions/functions.rpy:395
+    old "You've unlocked the achievement: "
+    new "You've unlocked the achievement: "
 

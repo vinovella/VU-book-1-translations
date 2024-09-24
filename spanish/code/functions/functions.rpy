@@ -16,7 +16,13 @@ translate spanish strings:
     old "You have updated a new character in the Investigation Board"
     new "Has actualizado un nuevo personaje en el Tablón de Investigación"
 
-    # game/code/functions/functions.rpy:386
-    old "You've unlocked \""
-    new "You've unlocked \""
+translate spanish strings:
+
+    # game/code/functions/functions.rpy:393
+    old "You've unlocked the replay: "
+    new "You've unlocked the replay: "
+
+    # game/code/functions/functions.rpy:395
+    old "You've unlocked the achievement: "
+    new "You've unlocked the achievement: "
 

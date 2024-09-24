@@ -16,7 +16,13 @@ translate turkish strings:
     old "You have updated a new character in the Investigation Board"
     new "Soruşturma Kurulunda yeni bir karakter güncellediniz"
 
-    # game/code/functions/functions.rpy:386
-    old "You've unlocked \""
-    new "Kilidi açtınız \""
+translate turkish strings:
+
+    # game/code/functions/functions.rpy:393
+    old "You've unlocked the replay: "
+    new "You've unlocked the replay: "
+
+    # game/code/functions/functions.rpy:395
+    old "You've unlocked the achievement: "
+    new "You've unlocked the achievement: "
 
