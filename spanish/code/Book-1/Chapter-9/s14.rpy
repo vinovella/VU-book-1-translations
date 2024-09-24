@@ -20,7 +20,7 @@ translate spanish b1c09s14_ab1eb8d7:
 translate spanish b1c09s14_c24e0072:
 
     # "???" "*Sighs somberly* Yeah... It's too bad you don't realize you're in the good times until they're gone."
-    "???" "*Suspira sombríamente* Sí... Es una lástima que no te des cuenta de que estás en los buenos tiempos hasta que se acaban."
+    "???" "*Suspira sombríamente* Sí... Es una pena que no te des cuenta de que estás en los buenos tiempos hasta que se han ido."
 
 # game/code/Book-1/Chapter-9/s14.rpy:19
 translate spanish b1c09s14_4d916e4d:
@@ -32,7 +32,7 @@ translate spanish b1c09s14_4d916e4d:
 translate spanish b1c09s14_be34d118:
 
     # mct "What's Nia doing in Silvia's room?"
-    mct "¿Qué hace Nia en el cuarto de Silvia?"
+    mct "¿Qué hace Nia en la habitación de Silvia?"
 
 # game/code/Book-1/Chapter-9/s14.rpy:27
 translate spanish b1c09s14_8f1db7e7:
@@ -104,7 +104,7 @@ translate spanish b1c09s14_ee12be68:
 translate spanish b1c09s14_3a3ea2fa:
 
     # sm "Oh! [mcname]!"
-    sm "¡Oh! [mcname]!"
+    sm "¡Oh! ¡[mcname]!"
 
 # game/code/Book-1/Chapter-9/s14.rpy:63
 translate spanish b1c09s14_a19d6a09:
@@ -128,7 +128,7 @@ translate spanish b1c09s14_ea4beda1:
 translate spanish b1c09s14_64837f69:
 
     # mc "I heard your voice and wanted to check in."
-    mc "Escuché tu voz y quise registrarme."
+    mc "Escuché tu voz y quería saber cómo estabas."
 
 # game/code/Book-1/Chapter-9/s14.rpy:78
 translate spanish b1c09s14_8d9a70ba:
@@ -146,7 +146,7 @@ translate spanish b1c09s14_5f7b4f22:
 translate spanish b1c09s14_f2f0f799:
 
     # mc "I heard Nia's voice and wanted to check in."
-    mc "Escuché la voz de Nia y quise comprobarlo."
+    mc "Escuché la voz de Nia quería saber cómo estabas."
 
 # game/code/Book-1/Chapter-9/s14.rpy:84
 translate spanish b1c09s14_efc64682:
@@ -164,7 +164,7 @@ translate spanish b1c09s14_afebdf6c:
 translate spanish b1c09s14_9c8fa37b:
 
     # mc "I heard Zemfira's voice and wanted to check in."
-    mc "Escuché la voz de Zemfira y quise comprobarlo."
+    mc "Escuché la voz de Zemfira quería saber cómo estabas."
 
 # game/code/Book-1/Chapter-9/s14.rpy:91
 translate spanish b1c09s14_e5934e40:
@@ -374,7 +374,7 @@ translate spanish b1c09s14_00537085:
 translate spanish b1c09s14_54c29070:
 
     # sm "All we can realistically do is to keep them in our heart and make sure that we're there when they get back."
-    sm "Lo único que podemos hacer de manera realista es mantenerlos en nuestro corazón y asegurarnos de que estemos ahí cuando regresen."
+    sm "Lo único que podemos hacer de manera realista es mantenerlas en nuestro corazón y asegurarnos de que estemos ahí cuando regresen."
 
 # game/code/Book-1/Chapter-9/s14.rpy:202
 translate spanish b1c09s14_f3104ebc:
@@ -386,7 +386,7 @@ translate spanish b1c09s14_f3104ebc:
 translate spanish b1c09s14_67f29be8:
 
     # sm "*Smiles* Hm. I remember the first time I met her."
-    sm "*sonríe* Mmm. Recuerdo la primera vez que la conocí."
+    sm "*Sonríe* Mmm. Recuerdo la primera vez que la conocí."
 
 # game/code/Book-1/Chapter-9/s14.rpy:205
 translate spanish b1c09s14_76bb6af5:
@@ -404,7 +404,7 @@ translate spanish b1c09s14_fc351676:
 translate spanish b1c09s14_fe0e8b94:
 
     # nv "Not even just people, animals, bugs even."
-    nv "Ni solo con personas, animales e incluso insectos."
+    nv "No solo con personas, animales, e incluso insectos."
 
 # game/code/Book-1/Chapter-9/s14.rpy:210
 translate spanish b1c09s14_a63e932b:
@@ -416,7 +416,7 @@ translate spanish b1c09s14_a63e932b:
 translate spanish b1c09s14_0abf533a:
 
     # sm "*Smiles* I understand that. Klara was like that for me."
-    sm "*sonríe* Lo entiendo. Klara era así para mí."
+    sm "*Sonríe* Lo entiendo. Klara era así para mí."
 
 # game/code/Book-1/Chapter-9/s14.rpy:214
 translate spanish b1c09s14_0c3e2def:
@@ -434,7 +434,7 @@ translate spanish b1c09s14_348efcfd:
 translate spanish b1c09s14_92fb6907:
 
     # sm "*Smiles* Thank you. And you're right, it is bullshit."
-    sm "*sonríe* Gracias. Y tienes razón, es una tontería."
+    sm "*Sonríe* Gracias. Y tienes razón, es una tontería."
 
 # game/code/Book-1/Chapter-9/s14.rpy:222
 translate spanish b1c09s14_ba73ac0b:
@@ -452,7 +452,7 @@ translate spanish b1c09s14_be425dce:
 translate spanish b1c09s14_bbb4eef5:
 
     # zp "She was a hardass is what she was. I felt like my damn legs were gonna fall off when I tried out for the volleyball team way back."
-    zp "Ella era una dura, eso era lo que era. Sentí que se me iban a caer las malditas piernas cuando hice la prueba para el equipo de voleibol hace mucho tiempo."
+    zp "Ella era dura, eso es lo que era. Sentí como si se me fueran a caer las malditas piernas cuando hice la prueba para el equipo de voleibol hace tiempo."
 
 # game/code/Book-1/Chapter-9/s14.rpy:228
 translate spanish b1c09s14_59af76e2:
@@ -464,13 +464,13 @@ translate spanish b1c09s14_59af76e2:
 translate spanish b1c09s14_d613dc32:
 
     # sm "She can be tough on you. Right up to the brink until, before you know it, you've crossed that threshold. Everything that looked so insurmountable, gone."
-    sm "Puede ser dura contigo. Justo hasta el borde hasta que, antes de que te des cuenta, has cruzado ese umbral. Todo lo que parecía insuperable, se ha ido."
+    sm "Puede ser dura contigo. Hasta el borde hasta que, antes de que te des cuenta, has cruzado ese umbral. Todo lo que parecía insuperable, se ha ido."
 
 # game/code/Book-1/Chapter-9/s14.rpy:232
 translate spanish b1c09s14_375d84c4:
 
     # sm "Breaking up with my ex, finally starting modeling, becoming the volleyball team's manager."
-    sm "Romper con mi ex, finalmente empezar a modelar y convertirme en la manager del equipo de voleibol."
+    sm "Romper con mi ex, finalmente empezar a modelar y convertirme en la directora del equipo de voleibol."
 
 # game/code/Book-1/Chapter-9/s14.rpy:233
 translate spanish b1c09s14_63ff3260:
@@ -518,7 +518,7 @@ translate spanish b1c09s14_11d7eddb:
 translate spanish b1c09s14_3feb6b99:
 
     # mc "...I didn't know them. But for what it's worth, I have hope that they'll be back too."
-    mc "...No las conocía. Pero por si sirve de algo, tengo la esperanza de que ellas también regresen."
+    mc "...No las conocía. Pero si sirve de algo, tengo la esperanza de que ellas también regresarán."
 
 # game/code/Book-1/Chapter-9/s14.rpy:248
 translate spanish b1c09s14_d9235d29:
@@ -530,7 +530,7 @@ translate spanish b1c09s14_d9235d29:
 translate spanish b1c09s14_c6b4269f:
 
     # sm "*Smiles* I hope so too."
-    sm "*sonríe* Yo también lo espero."
+    sm "*Sonríe* Yo también lo espero."
 
 # game/code/Book-1/Chapter-9/s14.rpy:252
 translate spanish b1c09s14_bccebb1e:
@@ -578,7 +578,7 @@ translate spanish b1c09s14_340ab653:
 translate spanish b1c09s14_440698ff:
 
     # nv "*Yawns* Okay, guys. I should get back now. I'm feeling very tired."
-    nv "*Bosteza* Está bien, chicos. Debería volver ahora. Me siento muy cansada."
+    nv "*Bosteza* Está bien, chicos. Debería regresar ahora. Me siento muy cansada."
 
 # game/code/Book-1/Chapter-9/s14.rpy:289
 translate spanish b1c09s14_268cf9bd:
@@ -590,7 +590,7 @@ translate spanish b1c09s14_268cf9bd:
 translate spanish b1c09s14_ac0d4ed6:
 
     # nv "*Smiles* I'd like to, but I don't want to mess up my sleep. It can make me feel very deregulated."
-    nv "*Sonríe* Me gustaría, pero no quiero arruinar mi sueño. Puede hacerme sentir muy desregulado."
+    nv "*Sonríe* Me gustaría, pero no quiero estropear mi sueño. Puede hacerme sentir muy poco relajada."
 
 # game/code/Book-1/Chapter-9/s14.rpy:295
 translate spanish b1c09s14_722f424f:
@@ -602,7 +602,7 @@ translate spanish b1c09s14_722f424f:
 translate spanish b1c09s14_2f7ffbf9:
 
     # nv "Thank you. I'd like to hang out like this again though."
-    nv "Gracias. Aunque me gustaría volver a pasar el rato así."
+    nv "Gracias. Aunque me gustaría volver a pasar el rato juntos de esta manera."
 
 # game/code/Book-1/Chapter-9/s14.rpy:301
 translate spanish b1c09s14_12a31d8f:
@@ -644,7 +644,7 @@ translate spanish b1c09s14_633fefd1:
 translate spanish b1c09s14_e241435c:
 
     # zp "Later, you three. Don't make a mess without me now."
-    zp "Nos vemos, ustedes tres. No hagas un desastre sin mí ahora."
+    zp "Nos vemos, ustedes tres. No hagan un desastre sin mí ahora."
 
 # game/code/Book-1/Chapter-9/s14.rpy:322
 translate spanish b1c09s14_0ad55202:
