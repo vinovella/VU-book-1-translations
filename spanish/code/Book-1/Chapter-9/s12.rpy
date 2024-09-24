@@ -266,13 +266,13 @@ translate spanish b1c09s12_91b95df9:
 translate spanish b1c09s12_9c6f5036:
 
     # ffl "Fair, but! You both looked like you were about to fall over dead."
-    ffl "Justo, pero! Ambos parecían como si estuvieran a punto de caer muertos."
+    ffl "¡Justo, pero! Ambos parecían como si estuvieran a punto de caer muertos."
 
 # game/code/Book-1/Chapter-9/s12.rpy:196
 translate spanish b1c09s12_3b2023af:
 
     # mc "*With a silly French accent* Oh, mon cher, you wound me with such words!"
-    mc "*Con un tonto acento francés* ¡Oh, mon cher (cariño mío), me hieres con esas palabras!"
+    mc "*Con un tonto acento francés* ¡Oh, mon cher (Oh, cariño mío), me hieres con esas palabras!"
 
 # game/code/Book-1/Chapter-9/s12.rpy:199
 translate spanish b1c09s12_299c43e0:
@@ -398,7 +398,7 @@ translate spanish b1c09s12_sex_5a1245c4:
 translate spanish b1c09s12_sex_318b5e8b:
 
     # mc "We wouldn't want someone interrupting us now, would we?"
-    mc "No querríamos que alguien nos interrumpiera ahora, ¿verdad?"
+    mc "No nos gustaría que alguien nos interrumpiera ahora, ¿verdad?"
 
 # game/code/Book-1/Chapter-9/s12.rpy:284
 translate spanish b1c09s12_sex_aad555df:
@@ -416,13 +416,19 @@ translate spanish b1c09s12_sex_af200ed0:
 translate spanish b1c09s12_sex_c9588c21:
 
     # mc "*Smiles* Good girl."
-    mc "*sonríe* Buena chica."
+    mc "*Sonríe* Buena chica."
+
+# game/code/Book-1/Chapter-9/s12.rpy:295
+translate spanish b1c09s12_sex_18972076:
+
+    # "As your tongue teases her folds, Fleur's grip on the edge of the counter tightens, her nails digging into the wood."
+    "Mientras tu lengua juguetea con sus pliegues, el agarre de Fleur en el borde del mostrador se aprieta, sus uñas se clavan en la madera."
 
 # game/code/Book-1/Chapter-9/s12.rpy:297
 translate spanish b1c09s12_sex_7e114488:
 
     # "Her breathing becomes labored and raspy as she struggles to stifle her moans."
-    "Su respiración se vuelve dificultosa y ronca mientras lucha por reprimir sus gemidos."
+    "Su respiración se vuelve agitada y áspera mientras lucha por contener sus gemidos."
 
 # game/code/Book-1/Chapter-9/s12.rpy:298
 translate spanish b1c09s12_sex_808d64a9:
@@ -722,7 +728,7 @@ translate spanish b1c09s12_sex_f5568d5c:
 translate spanish b1c09s12_sex_3d55b5b1:
 
     # mc "Just my needy little slut. Isn't that right?"
-    mc "Sólo mi pequeña zorra necesitada. ¿No es así?"
+    mc "Sólo eres mi pequeña zorra necesitada. ¿No es así?"
 
 # game/code/Book-1/Chapter-9/s12.rpy:465
 translate spanish b1c09s12_sex_ba3c1666:
@@ -740,7 +746,7 @@ translate spanish b1c09s12_sex_6f86ff58:
 translate spanish b1c09s12_sex_de1ccd8a:
 
     # mc "I want you to stay bent over and push your ass out for me, okay?"
-    mc "Quiero que te quedes inclinado y saques tu trasero por mí, ¿de acuerdo?"
+    mc "Quiero que te quedes inclinada y saques tu trasero para mí, ¿de acuerdo?"
 
 # game/code/Book-1/Chapter-9/s12.rpy:477
 translate spanish b1c09s12_sex_7b6eb2df:
@@ -752,19 +758,19 @@ translate spanish b1c09s12_sex_7b6eb2df:
 translate spanish b1c09s12_sex_c9588c21_1:
 
     # mc "*Smiles* Good girl."
-    mc "*sonríe* Buena chica."
+    mc "*Sonríe* Buena chica."
 
 # game/code/Book-1/Chapter-9/s12.rpy:488
 translate spanish b1c09s12_sex_8ef8602a:
 
     # mc "I'm going to make sure you're marked by me inside and out before I'm done with you."
-    mc "Me aseguraré de que estés marcada por mí por dentro y por fuera antes de terminar contigo."
+    mc "Me aseguraré de marcarte por dentro y por fuera antes de terminar contigo."
 
 # game/code/Book-1/Chapter-9/s12.rpy:493
 translate spanish b1c09s12_sex_73a7b170:
 
     # mc "Marked as my little slut; remind everyone that you belong just to me."
-    mc "Marcada como mi putita; recuerda a todos que me perteneces solo a mí."
+    mc "Marcada como mi putita; recuérdale a todo el mundo que sólo me perteneces a mí."
 
 # game/code/Book-1/Chapter-9/s12.rpy:494
 translate spanish b1c09s12_sex_be7c80ba:
@@ -842,7 +848,7 @@ translate spanish b1c09s12_sex_19493d59:
 translate spanish b1c09s12_sex_5dd260f9:
 
     # "Fleur's heart races as your hardness pushes against her aching core, her body quivering and tightening in need."
-    "El corazón de Fleur se acelera cuando tu dureza empuja contra su dolorido núcleo, su cuerpo temblando y tensándose por la necesidad."
+    "El corazón de Fleur se acelera cuando tu dureza empuja contra su núcleo dolorido, su cuerpo se estremece y se tensa de necesidad."
 
 # game/code/Book-1/Chapter-9/s12.rpy:552
 translate spanish b1c09s12_sex_7039c8c6:
@@ -968,7 +974,7 @@ translate spanish b1c09s12_sex_end_95c7633a:
 translate spanish b1c09s12_sex_end_ecc7c66d:
 
     # ffl "Mmhm. *Content sigh* ...I've never done something like that before."
-    ffl "Mmmm. *Suspiro de contenido* ...Nunca había hecho algo como esto."
+    ffl "Mmmm. *Suspiro contenido* ...Nunca había hecho algo como esto."
 
 # game/code/Book-1/Chapter-9/s12.rpy:660
 translate spanish b1c09s12_sex_end_844f7090:
@@ -998,7 +1004,7 @@ translate spanish b1c09s12_sex_end_d662b8b1:
 translate spanish b1c09s12_sex_end_efd1220a:
 
     # ffl "I want to explore this more. But next time, somewhere with a bit more privacy."
-    ffl "Quiero explorar esto más. Pero la próxima vez, en algún lugar con un poco más de privacidad."
+    ffl "Quiero explorar más esto. Pero la próxima vez, en algún lugar con un poco más de privacidad."
 
 # game/code/Book-1/Chapter-9/s12.rpy:674
 translate spanish b1c09s12_sex_end_50ea3f57:
@@ -1052,7 +1058,7 @@ translate spanish b1c09s12_sex_end_843cc070:
 translate spanish b1c09s12_sex_end_8168faeb:
 
     # mc "*Smiles* There."
-    mc "*sonríe* Ahí."
+    mc "*Sonríe* Ahí."
 
 # game/code/Book-1/Chapter-9/s12.rpy:702
 translate spanish b1c09s12_sex_end_044c5f79:
@@ -1077,10 +1083,4 @@ translate spanish b1c09s12_sex_end_e0542038:
 
     # ffl "*Giggles* Oh God, don't say that!"
     ffl "*Risitas* ¡Oh Dios, no digas eso!"
-
-# game/code/Book-1/Chapter-9/s12.rpy:305
-translate spanish b1c09s12_sex_5a5aa7ff:
-
-    # "As your tongue teases her folds, Fleur's grip on the edge of the chair tightens, her nails digging into the wood."
-    "As your tongue teases her folds, Fleur's grip on the edge of the chair tightens, her nails digging into the wood."
 
