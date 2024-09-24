@@ -398,5 +398,5 @@ translate spanish b1c08ws10_6778327d:
 translate spanish b1c08ws10_777e1ea1:
 
     # oa "We wouldn't have had to deal with any of this if we just played without it. We don't need dangerous—"
-    oa "We wouldn't have had to deal with any of this if we just played without it. We don't need dangerous—"
+    oa "No habríamos tenido que lidiar con nada de esto si hubiéramos jugado sin él. No necesitamos peligros-"
 
