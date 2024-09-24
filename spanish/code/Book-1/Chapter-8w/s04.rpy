@@ -596,23 +596,23 @@ translate spanish strings:
 translate spanish b1c08ws04_4d33a885:
 
     # "Monika thins her lips and smirks at you. She drags out her words."
-    "Monika thins her lips and smirks at you. She drags out her words."
+    "Mónica frunce los labios y te sonríe. Arrastra las palabras."
 
 # game/code/Book-1/Chapter-8w/s04.rpy:218
 translate spanish b1c08ws04_sex_213eaa6c:
 
     # "She pinches your nipple playfully, making you startle, before resting her other hand on your waist."
-    "She pinches your nipple playfully, making you startle, before resting her other hand on your waist."
+    "Te pellizca el pezón juguetonamente, haciéndote sobresaltar, antes de colocar la otra mano en tu cintura."
 
 # game/code/Book-1/Chapter-8w/s04.rpy:224
 translate spanish b1c08ws04_sex_5c3af901:
 
     # "Her excitement is evident as she nuzzles against your skin, her hot breath singeing you in pleasure and making you arch your back and push your hips into her."
-    "Her excitement is evident as she nuzzles against your skin, her hot breath singeing you in pleasure and making you arch your back and push your hips into her."
+    "Su excitación es evidente cuando se acurruca contra tu piel, su aliento caliente te chamusca de placer y te hace arquear la espalda y empujar tus caderas hacia ella."
 
 # game/code/Book-1/Chapter-8w/s04.rpy:341
 translate spanish b1c08ws04_sex_a49d7f08:
 
     # "Her body goes limp on top of you as you feel her orgasm rip through her. You grab her and hold her steady, breathless and satisfied in each other's arms."
-    "Her body goes limp on top of you as you feel her orgasm rip through her. You grab her and hold her steady, breathless and satisfied in each other's arms."
+    "Su cuerpo se desploma sobre ti al sentir cómo la atraviesa el orgasmo. La agarras y la mantienes firme, sin aliento y satisfecha en los brazos del otro."
 
