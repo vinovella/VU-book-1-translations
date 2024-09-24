@@ -226,7 +226,7 @@ translate turkish strings:
 
     # game/code/data/replay_room.rpy:16
     old "C08: Hellfire Hellena"
-    new "C08: Hellfire Hellena"
+    new "C08: Cehennem Ateşi Hellena"
 
     # game/code/data/replay_room.rpy:16
     old "You don't mind at all."
