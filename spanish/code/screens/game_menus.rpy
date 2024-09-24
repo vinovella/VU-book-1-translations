@@ -268,8 +268,6 @@ translate spanish strings:
     old "Calibrate"
     new "Calibrar"
 
-translate spanish strings:
-
     # game/code/screens/game_menus.rpy:142
     old "«"
     new "«"
