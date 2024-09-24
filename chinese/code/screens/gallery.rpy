@@ -4,17 +4,9 @@ translate chinese strings:
     old "Gallery"
     new "相册"
 
-    # game/code/screens/gallery.rpy:9
-    old "CG Gallery"
-    new "CG图库"
-
     # game/code/screens/gallery.rpy:15
     old "Replay Room"
     new "回放室"
-
-    # game/code/screens/gallery.rpy:21
-    old "Bonus Content"
-    new "奖励内容"
 
     # game/code/screens/gallery.rpy:27
     old "Hints on"

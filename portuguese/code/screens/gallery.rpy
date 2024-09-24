@@ -4,19 +4,9 @@ translate portuguese strings:
     old "Gallery"
     new "Galeria"
 
-translate portuguese strings:
-
-    # game/code/screens/gallery.rpy:9
-    old "CG Gallery"
-    new "Galeria CG"
-
     # game/code/screens/gallery.rpy:15
     old "Replay Room"
     new "Sala de Replay"
-
-    # game/code/screens/gallery.rpy:21
-    old "Bonus Content"
-    new "Conteúdo Bônus"
 
     # game/code/screens/gallery.rpy:27
     old "Hints on"
@@ -30,8 +20,6 @@ translate portuguese strings:
     old "Page [page]"
     new "Página [page]"
 
-translate portuguese strings:
-
     # game/code/screens/gallery.rpy:102
     old "None"
     new "Nada"
@@ -40,14 +28,6 @@ translate portuguese strings:
     old "Close"
     new "Fechar"
 
-translate portuguese strings:
-
-    # game/code/screens/gallery.rpy:44
-    old "Character Filter: [character_filter]"
-    new "Filtrar Personnagem: [character_filter]"
-
-translate portuguese strings:
-
     # game/code/screens/gallery.rpy:21
     old "Achievements"
     new "Conquistas"
@@ -55,4 +35,12 @@ translate portuguese strings:
     # game/code/screens/gallery.rpy:45
     old "Character Filter: [character_filter!t]"
     new "Filtro de Personagem: [character_filter!t]"
+
+    # game/code/screens/gallery.rpy:9
+    old "replay"
+    new "replay"
+
+    # game/code/screens/gallery.rpy:15
+    old "achievement"
+    new "conquista"
 
