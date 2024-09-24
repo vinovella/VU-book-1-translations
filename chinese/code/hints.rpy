@@ -998,21 +998,21 @@
 
     # game/code/hints.rpy:11
     old "Skip sex scene. This can close Delphia's path for you."
-    new "Skip sex scene. This can close Delphia's path for you."
+    new "跳过性爱场景。这将为你关闭德尔菲娅的路径。"
 
     # game/code/hints.rpy:11
     old "Sex scene with Asami. +1 point with Asami."
-    new "Sex scene with Asami. +1 point with Asami."
+    new "与麻美的性爱场景。和麻美的关系+1分。"
 
     # game/code/hints.rpy:11
     old "You hang out with The Self-Help Group."
-    new "You hang out with The Self-Help Group."
+    new "你与自助小组一起玩。"
 
     # game/code/hints.rpy:11
     old "Leads to a scuffle with Xasan. If you're deep into The Syndicate's story, Zemfira then cleans you up and rubs your cock between her thighs."
-    new "Leads to a scuffle with Xasan. If you're deep into The Syndicate's story, Zemfira then cleans you up and rubs your cock between her thighs."
+    new "导致与哈桑发生冲突。如果你深入了解辛迪加的故事，泽菲拉会帮你清理干净，并用她的大腿摩擦你的肉棒。"
 
     # game/code/hints.rpy:11
     old "You match Brig's energy. If you're on The Winner's path, Brigitta spits on you."
-    new "You match Brig's energy. If you're on The Winner's path, Brigitta spits on you."
+    new "你和布吉塔的能量相当。如果你选择赢家们的路径，布吉塔会朝你吐口水。"
 
