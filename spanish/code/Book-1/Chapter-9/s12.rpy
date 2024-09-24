@@ -1082,5 +1082,5 @@ translate spanish b1c09s12_sex_end_e0542038:
 translate spanish b1c09s12_sex_5a5aa7ff:
 
     # "As your tongue teases her folds, Fleur's grip on the edge of the chair tightens, her nails digging into the wood."
-    "As your tongue teases her folds, Fleur's grip on the edge of the chair tightens, her nails digging into the wood."
+    "Mientras tu lengua le acaricia los pliegues, Fleur se agarra con fuerza al borde de la silla, clavando las uñas en la madera."
 
