@@ -1222,11 +1222,11 @@ translate spanish strings:
 
     # game/code/Book-1/Chapter-9/s05.rpy:611
     old "Refuse to clean your cum"
-    new "Negarse a limpiar su semen"
+    new "Negarse a limpiar tu semen"
 
 # game/code/Book-1/Chapter-9/s05.rpy:632
 translate spanish b1c09s05_femdom_end_d8cd946f:
 
     # "Her touch, what was once bliss, is now agony. You feel as if you could burst any moment, but you still hold on."
-    "Her touch, what was once bliss, is now agony. You feel as if you could burst any moment, but you still hold on."
+    "Su tacto, lo que antes era dicha, ahora es agonía. Sientes que vas a estallar en cualquier momento, pero sigues resistiendo."
 
