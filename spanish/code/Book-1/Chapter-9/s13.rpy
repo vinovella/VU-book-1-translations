@@ -1,3 +1,9 @@
+# game/code/Book-1/Chapter-9/s13.rpy:27
+translate spanish b1c09s13_550201bf:
+
+    # "[b1c09s13_bartender_name]" "What can I get you?"
+    "[b1c09s13_bartender_name]" "¿Qué puedo ofrecerte?"
+
 # game/code/Book-1/Chapter-9/s13.rpy:29
 translate spanish b1c09s13_dbccd2a5:
 
@@ -26,7 +32,7 @@ translate spanish b1c09s13_jh_lw_e38431b7:
 translate spanish b1c09s13_jh_lw_3a46847f:
 
     # oa "Oh my gosh, what a surprise! I didn't expect Lara to come as well."
-    oa "¡Dios mío, qué sorpresa! No esperaba que Lara viniera también."
+    oa "¡Dios mío, qué sorpresa! No esperaba que también viniera Lara."
 
 # game/code/Book-1/Chapter-9/s13.rpy:59
 translate spanish b1c09s13_jh_lw_bbdcf3a4:
@@ -62,7 +68,7 @@ translate spanish b1c09s13_jh_lw_d2c34e81:
 translate spanish b1c09s13_jh_lw_255fd5a3:
 
     # oa "*Smiles* Hey, it's okay. I know these parties are a lot on the senses. But!"
-    oa "*sonríe* Oye, está bien. Sé que estas fiestas son mucho para los sentidos."
+    oa "*Sonríe* Oye, está bien. Sé que estas fiestas son mucho para los sentidos."
 
 # game/code/Book-1/Chapter-9/s13.rpy:73
 translate spanish b1c09s13_jh_lw_05f93db8:
@@ -176,7 +182,7 @@ translate spanish b1c09s13_jh_lw_65032546:
 translate spanish b1c09s13_jh_lw_89d5d289:
 
     # oa "Sorry, I need to go check that out. Are you guys good here?"
-    oa "Lo siento, necesito ir a comprobarlo. ¿Están bien aquí?"
+    oa "Lo siento, necesito ir a revisar. ¿Están bien aquí?"
 
 # game/code/Book-1/Chapter-9/s13.rpy:129
 translate spanish b1c09s13_jh_lw_4e5eb2cb:
@@ -188,7 +194,7 @@ translate spanish b1c09s13_jh_lw_4e5eb2cb:
 translate spanish b1c09s13_jh_lw_6c3a8c2e:
 
     # oa "Thank you. You two have fun now!"
-    oa "Gracias. ¡Ustedes dos diviértanse ahora!"
+    oa "Gracias. ¡Ahora diviértanse!"
 
 # game/code/Book-1/Chapter-9/s13.rpy:136
 translate spanish b1c09s13_jh_lw_0a710d19:
@@ -308,7 +314,7 @@ translate spanish b1c09s13_jh_lw_6ca3ef71:
 translate spanish b1c09s13_jh_lw_0c7e7392:
 
     # jh "carefu—!"
-    jh "¡cuidado!"
+    jh "¡cuidado...!"
 
 # game/code/Book-1/Chapter-9/s13.rpy:213
 translate spanish b1c09s13_jh_lw_aaa0d9c6:
@@ -338,7 +344,7 @@ translate spanish b1c09s13_jh_lw_5d67ca67:
 translate spanish b1c09s13_jh_lw_b3232d4c:
 
     # lw "Are you saying that I can't climb up stairs?"
-    lw "¿Estás diciendo que no puedo subir escaleras?"
+    lw "¿Estás diciendo que no puedo subir las escaleras?"
 
 # game/code/Book-1/Chapter-9/s13.rpy:227
 translate spanish b1c09s13_jh_lw_cd554814:
@@ -368,7 +374,7 @@ translate spanish b1c09s13_jh_lw_51e86f77:
 translate spanish b1c09s13_jh_lw_48dab64f:
 
     # mc "There you go."
-    mc "Ahí tienes."
+    mc "Ya está."
 
 # game/code/Book-1/Chapter-9/s13.rpy:252
 translate spanish b1c09s13_jh_lw_ee514272:
@@ -452,7 +458,7 @@ translate spanish b1c09s13_jh_lw_fd97cf75:
 translate spanish b1c09s13_jh_lw_cb8bdfe8:
 
     # mc "*Smiles* It is pretty cool. I remember my Mom telling me about Andromeda."
-    mc "*sonríe* Es genial. Recuerdo que mi mamá me habló de Andrómeda."
+    mc "*Sonríe* Es genial. Recuerdo que mi mamá me habló de Andrómeda."
 
 # game/code/Book-1/Chapter-9/s13.rpy:282
 translate spanish b1c09s13_jh_lw_dab5d409:
@@ -464,7 +470,7 @@ translate spanish b1c09s13_jh_lw_dab5d409:
 translate spanish b1c09s13_jh_lw_cccb514f:
 
     # jh "And all of that happened because her mother bragged about how she had the most beautiful daughter."
-    jh "Y todo eso sucedió porque su madre se jactaba de tener la hija más hermosa."
+    jh "Y todo eso ocurrió porque su madre presumía de tener a la hija más hermosa."
 
 # game/code/Book-1/Chapter-9/s13.rpy:285
 translate spanish b1c09s13_jh_lw_d6357e75:
@@ -488,7 +494,7 @@ translate spanish b1c09s13_jh_lw_f4ad4b6a:
 translate spanish b1c09s13_jh_lw_11e4bea2:
 
     # lw "I sometimes wish I could go back and listen to these stories as they were first told."
-    lw "A veces desearía poder volver atrás y escuchar estas historias tal como fueron contadas por primera vez."
+    lw "A veces me gustaría poder volver atrás y escuchar estas historias tal y como se contaron la primera vez."
 
 # game/code/Book-1/Chapter-9/s13.rpy:302
 translate spanish b1c09s13_jh_lw_61b8be13:
@@ -542,7 +548,7 @@ translate spanish b1c09s13_jh_lw_803a62eb:
 translate spanish b1c09s13_jh_lw_9b3fe2b0:
 
     # jh "*Whispers* She's usually out cold around this time when I'm around. But it's rare for her to let down her guard like this outside our room."
-    jh "*Susurros* Generalmente está inconsciente a esta hora cuando yo estoy cerca. Pero es raro que baje la guardia de esta manera fuera de nuestra habitación."
+    jh "*Susurros* Normalmente está dormida a esta hora cuando yo estoy cerca. Pero es raro que baje la guardia de esta manera fuera de nuestra habitación."
 
 # game/code/Book-1/Chapter-9/s13.rpy:325
 translate spanish b1c09s13_jh_lw_94c09809:
@@ -560,7 +566,7 @@ translate spanish b1c09s13_jh_lw_253a742c:
 translate spanish b1c09s13_jh_lw_e629ed4c:
 
     # mc "Are you sure I'm not in the way? What with me barging in on your dorm and—"
-    mc "¿Estás segura de que no estoy en el camino? ¿Qué pasa conmigo irrumpiendo en tu dormitorio y...?"
+    mc "¿Estás segura de que no estorbo? Conmigo irrumpiendo en tu dormitorio y..."
 
 # game/code/Book-1/Chapter-9/s13.rpy:332
 translate spanish b1c09s13_jh_lw_e47c0107:
@@ -668,7 +674,7 @@ translate spanish b1c09s13_jh_lw_0ea52058:
 translate spanish b1c09s13_jh_lw_99357554:
 
     # "You watch them for a moment, their silhouettes framed against the starry sky."
-    "Las observas por un momento, sus siluetas enmarcadas contra el cielo estrellado."
+    "Las observas un momento, con sus siluetas enmarcadas en el cielo estrellado."
 
 # game/code/Book-1/Chapter-9/s13.rpy:379
 translate spanish b1c09s13_jh_lw_9a87fa1a:
@@ -716,7 +722,7 @@ translate spanish b1c09s13_jh_f07049d5:
 translate spanish b1c09s13_jh_16cca1cd:
 
     # jh "I'm, uh...not totally sure this is my scene either, if I'm being honest."
-    jh "Yo tampoco estoy totalmente segura de que esta sea mi escena, si te soy sincera."
+    jh "Yo, eh... tampoco estoy totalmente segura de que este sea mi ambiente, si te soy sincera."
 
 # game/code/Book-1/Chapter-9/s13.rpy:407
 translate spanish b1c09s13_jh_127b0bee:
@@ -734,7 +740,7 @@ translate spanish b1c09s13_jh_7790d296:
 translate spanish b1c09s13_jh_7d82ceaa:
 
     # jh "Oh, um...thanks."
-    jh "Ah... gracias."
+    jh "Oh, um... gracias."
 
 # game/code/Book-1/Chapter-9/s13.rpy:434
 translate spanish b1c09s13_jh_5018b3e2:
@@ -776,7 +782,7 @@ translate spanish b1c09s13_jh_5371b69f:
 translate spanish b1c09s13_jh_5b742d01:
 
     # oa "Oh my God! So he's the guy you were talking about?"
-    oa "¡Ay dios mío! ¿Entonces él es el tipo del que hablabas?"
+    oa "¡Ay dios mío! ¿Entonces él es el chico del que hablabas?"
 
 # game/code/Book-1/Chapter-9/s13.rpy:454
 translate spanish b1c09s13_jh_c885d64e:
@@ -806,7 +812,7 @@ translate spanish b1c09s13_jh_3f989b97:
 translate spanish b1c09s13_jh_aeafbde4:
 
     # oa "Sorry, I need to go check that out.{w} Are you guys good here?"
-    oa "Lo siento, tengo que ir a comprobarlo.{w} ¿Están bien aquí?"
+    oa "Lo siento, tengo que ir a revisar.{w} ¿Están bien aquí?"
 
 # game/code/Book-1/Chapter-9/s13.rpy:469
 translate spanish b1c09s13_jh_4e5eb2cb:
@@ -818,7 +824,7 @@ translate spanish b1c09s13_jh_4e5eb2cb:
 translate spanish b1c09s13_jh_6c3a8c2e:
 
     # oa "Thank you. You two have fun now!"
-    oa "Gracias. ¡Ustedes dos diviértanse ahora!"
+    oa "Gracias. ¡Ahora diviértanse!"
 
 # game/code/Book-1/Chapter-9/s13.rpy:476
 translate spanish b1c09s13_jh_f21151e4:
@@ -842,7 +848,7 @@ translate spanish b1c09s13_jh_0cd521f9:
 translate spanish b1c09s13_jh_1d15ad41:
 
     # mc "Why don't we go somewhere a bit quieter then? Get you out of the thick of it for a bit."
-    mc "¿Por qué no vamos a algún lugar un poco más tranquilo entonces? Sacarte del meollo del asunto por un rato."
+    mc "¿Por qué no vamos a un sitio más tranquilo? Para sacarte del bullicio por un rato."
 
 # game/code/Book-1/Chapter-9/s13.rpy:484
 translate spanish b1c09s13_jh_16c787f9:
@@ -908,7 +914,7 @@ translate spanish b1c09s13_jh_fc102f37:
 translate spanish b1c09s13_jh_4f57b68b:
 
     # jh "*Smiles* Yeah."
-    jh "*sonríe* Sí."
+    jh "*Sonríe* Sí."
 
 # game/code/Book-1/Chapter-9/s13.rpy:521
 translate spanish b1c09s13_jh_56078b33:
@@ -926,13 +932,13 @@ translate spanish b1c09s13_jh_e1cd637a:
 translate spanish b1c09s13_jh_2afc4eb9:
 
     # jh "I thought I'd be okay being alone, but I honestly would've preferred just gorging on some greasy food with her instead. *Chuckles*"
-    jh "Pensé que estaría bien estando sola, pero honestamente hubiera preferido simplemente atiborrarme de algo de comida grasosa con ella. *risas*"
+    jh "Pensé que estaría bien estando sola, pero honestamente hubiera preferido simplemente atiborrarme de algo de comida grasosa con ella. *Risas*"
 
 # game/code/Book-1/Chapter-9/s13.rpy:526
 translate spanish b1c09s13_jh_bc4f4240:
 
     # mc "Y'know, you can head out of here whenever you'd like. No need to stick around if you're not feeling it."
-    mc "Ya sabes, puedes salir de aquí cuando quieras. No es necesario que te quedes si no lo sientes."
+    mc "Ya sabes, puedes irte de aquí cuando quieras. No hace falta que te quedes si no te sientes bien."
 
 # game/code/Book-1/Chapter-9/s13.rpy:528
 translate spanish b1c09s13_jh_e493aab1:
@@ -1024,15 +1030,10 @@ translate spanish b1c09s13_jh_3a1b6051:
     # jh "I will, I promise. Thanks again, [mcname]."
     jh "Lo haré, lo prometo. Gracias de nuevo, [mcname]."
 
-# game/code/Book-1/Chapter-9/s13.rpy:30
-translate spanish b1c09s13_8cdca3b5:
-
-    # "[b1c09s13_bartender_name!t]" "What can I get you?"
-    "[b1c09s13_bartender_name!t]" "What can I get you?"
 
 translate spanish strings:
 
     # game/code/Book-1/Chapter-9/s13.rpy:18
     old "Still Not Brandon"
-    new "Still Not Brandon"
+    new "Sigue sin ser Brandon"
 
