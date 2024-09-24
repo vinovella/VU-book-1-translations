@@ -1290,13 +1290,13 @@ translate spanish b1c08ws02_b9360388:
 translate spanish b1c08ws02_9741e484:
 
     # "You finally sit back down and let the group figure out your lie."
-    "You finally sit back down and let the group figure out your lie."
+    "Finalmente te vuelves a sentar y dejas que el grupo descubra tu mentira."
 
 # game/code/Book-1/Chapter-8w/s02.rpy:441
 translate spanish b1c08ws02_0f91acf7:
 
     # "You finally sit back down and let the group figure everything out."
-    "Finalmente vuelves a sentarte y dejas que el grupo descubra tus mentiras."
+    "Finalmente te vuelves a sentar y dejas que el grupo descubra tus mentiras."
 
 # game/code/Book-1/Chapter-8w/s02.rpy:458
 translate spanish b1c08ws02_10845095:
