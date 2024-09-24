@@ -524,5 +524,5 @@ translate spanish strings:
 translate spanish b1c08ws03_470b68b1:
 
     # "She catches you off guard with a kiss. It's a gentle warmth on your lips, but it carries a heaviness with so much emotion hidden behind."
-    "She catches you off guard with a kiss. It's a gentle warmth on your lips, but it carries a heaviness with so much emotion hidden behind."
+    "Te sorprende con un beso. Es una suave calidez en tus labios, pero lleva una pesadez con tanta emoción oculta detrás."
 
