@@ -20,9 +20,9 @@ translate portuguese strings:
 
     # game/code/functions/functions.rpy:393
     old "You've unlocked the replay: "
-    new "You've unlocked the replay: "
+    new "Você liberou o replay: "
 
     # game/code/functions/functions.rpy:395
     old "You've unlocked the achievement: "
-    new "You've unlocked the achievement: "
+    new "Você liberou a conquista: "
 
