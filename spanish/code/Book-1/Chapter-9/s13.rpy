@@ -1034,5 +1034,5 @@ translate spanish strings:
 translate spanish b1c09s13_8cdca3b5:
 
     # "[b1c09s13_bartender_name!t]" "What can I get you?"
-    "[b1c09s13_bartender_name!t]" "What can I get you?"
+    "[b1c09s13_bartender_name!t]" "¿Qué puedo ofrecerte?"
 
