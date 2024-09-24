@@ -38,7 +38,7 @@ translate spanish strings:
 
     # game/code/screens/game_menus.rpy:134
     old "Empty Slot"
-    new "Ranura vacía"
+    new "Ranura Vacía"
 
     # game/code/screens/game_menus.rpy:148
     old "<"
@@ -142,7 +142,7 @@ translate spanish strings:
 
     # game/code/screens/game_menus.rpy:507
     old "Gamepad"
-    new "mando"
+    new "Mando"
 
     # game/code/screens/game_menus.rpy:520
     old "Enter"
@@ -182,7 +182,7 @@ translate spanish strings:
 
     # game/code/screens/game_menus.rpy:537
     old "Skips dialogue while held down."
-    new "Salta el diálogo mientras se mantiene presionado."
+    new "Salta los diálogos mientras se mantiene presionado."
 
     # game/code/screens/game_menus.rpy:540
     old "Tab"
