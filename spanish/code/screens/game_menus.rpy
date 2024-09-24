@@ -21,8 +21,8 @@ translate spanish strings:
     new "Cargar"
 
     # game/code/screens/game_menus.rpy:104
-    old "Naming save file: [save_name_button_status!t]"
-    new "Nombre de guardado: [save_name_button_status!t]"
+    old "Naming save file:"
+    new "Nombre del archivo de guardado:"
 
     # game/code/screens/game_menus.rpy:105
     old "Enabled"
@@ -38,7 +38,7 @@ translate spanish strings:
 
     # game/code/screens/game_menus.rpy:134
     old "Empty Slot"
-    new "Ranura vacía"
+    new "Ranura Vacía"
 
     # game/code/screens/game_menus.rpy:148
     old "<"
@@ -142,7 +142,7 @@ translate spanish strings:
 
     # game/code/screens/game_menus.rpy:507
     old "Gamepad"
-    new "mando"
+    new "Mando"
 
     # game/code/screens/game_menus.rpy:520
     old "Enter"
@@ -182,7 +182,7 @@ translate spanish strings:
 
     # game/code/screens/game_menus.rpy:537
     old "Skips dialogue while held down."
-    new "Salta el diálogo mientras se mantiene presionado."
+    new "Salta los diálogos mientras se mantiene presionado."
 
     # game/code/screens/game_menus.rpy:540
     old "Tab"
@@ -267,6 +267,8 @@ translate spanish strings:
     # game/code/screens/game_menus.rpy:614
     old "Calibrate"
     new "Calibrar"
+
+translate spanish strings:
 
     # game/code/screens/game_menus.rpy:142
     old "«"
