@@ -998,21 +998,21 @@ translate turkish strings:
 
     # game/code/hints.rpy:11
     old "Skip sex scene. This can close Delphia's path for you."
-    new "Skip sex scene. This can close Delphia's path for you."
+    new "Seks sahnesini atla. Bu senin için Delphia'nın yolunu kapatabilir."
 
     # game/code/hints.rpy:11
     old "Sex scene with Asami. +1 point with Asami."
-    new "Sex scene with Asami. +1 point with Asami."
+    new "Asami ile seks sahnesi. Asami ile +1 puan."
 
     # game/code/hints.rpy:11
     old "You hang out with The Self-Help Group."
-    new "You hang out with The Self-Help Group."
+    new "Kendi Kendine Yardım Grubu'yla takılıyorsun."
 
     # game/code/hints.rpy:11
     old "Leads to a scuffle with Xasan. If you're deep into The Syndicate's story, Zemfira then cleans you up and rubs your cock between her thighs."
-    new "Leads to a scuffle with Xasan. If you're deep into The Syndicate's story, Zemfira then cleans you up and rubs your cock between her thighs."
+    new "Xasan ile bir itiş kakışa yol açar. Syndicate'in hikayesinin derinliklerindeyseniz, Zemfira sizi temizler ve sikinizi kalçalarının arasına alır."
 
     # game/code/hints.rpy:11
     old "You match Brig's energy. If you're on The Winner's path, Brigitta spits on you."
-    new "You match Brig's energy. If you're on The Winner's path, Brigitta spits on you."
+    new "Brig'in enerjisiyle eşleşiyorsun. Eğer Kazanan'ın yolundaysanız, Brigitta size tükürür."
 
