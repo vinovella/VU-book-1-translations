@@ -74,13 +74,13 @@ translate spanish post_credit_scene_9a90e9be:
 translate spanish post_credit_scene_0ba046f9:
 
     # dd "Game is over! You girls did a great job!"
-    dd "¡Se acabó el juego! ¡Chicas, hicieron un gran trabajo!"
+    dd "¡Se terminó el juego! ¡Chicas, han hecho un gran trabajo!"
 
 # game/code/credits/post_credit.rpy:66
 translate spanish post_credit_scene_ac66a262:
 
     # jh "What? That's all? But I wanted more! I didn't even get to—"
-    jh "¿Qué? ¿Eso es todo? ¡Pero quería más! Ni siquiera llegué a—"
+    jh "¿Qué? ¿Eso es todo? ¡Pero quería más! Ni siquiera llegué a..."
 
 # game/code/credits/post_credit.rpy:69
 translate spanish post_credit_scene_d234482c:
@@ -158,7 +158,7 @@ translate spanish post_credit_scene_9cbdd380:
 translate spanish post_credit_scene_1ace28b0:
 
     # nv "We just finished filming the new scene. I still have [mcname]'s cum in me."
-    nv "Acabamos de terminar de filmar la nueva escena. Todavía tengo el semen de [mcname] dentro de mí."
+    nv "Terminamos de filmar la nueva escena. Todavía tengo semen de [mcname] dentro de mí."
 
 # game/code/credits/post_credit.rpy:110
 translate spanish post_credit_scene_bcd33c69:
@@ -272,7 +272,7 @@ translate spanish post_credit_scene_27d327ee:
 translate spanish post_credit_scene_311f7591:
 
     # sy "Hmmm... I like Nari, she is so beautiful and kinky! I can't wait to—"
-    sy "Hmmm... Me gusta Nari, ¡es tan hermosa y morbosa! No puedo esperar para—"
+    sy "Hmmm... Me gusta Nari, ¡es tan hermosa y pervertida! No puedo esperar para..."
 
 # game/code/credits/post_credit.rpy:176
 translate spanish post_credit_scene_25c5138e:
@@ -296,7 +296,7 @@ translate spanish post_credit_scene_1e68459c:
 translate spanish post_credit_scene_5e7ba83b:
 
     # sy "Whoever I mention gets summoned right?"
-    sy "Quienquiera que mencione será convocado, ¿verdad?"
+    sy "Quienquiera que mencione será convocada, ¿verdad?"
 
 # game/code/credits/post_credit.rpy:184
 translate spanish post_credit_scene_1d60f48c:
