@@ -302,7 +302,7 @@ translate spanish b1c09s14_01d15e24:
 translate spanish b1c09s14_6016bea1:
 
     # zp "It's such bullshit. Fuck the cops, fuck this school."
-    zp "Es una mierda. A la mierda los policías, a la mierda esta escuela."
+    zp "Es una mierda. A la mierda los policías, a la mierda esta universidad."
 
 # game/code/Book-1/Chapter-9/s14.rpy:177
 translate spanish b1c09s14_b2b9e19d:
@@ -320,7 +320,7 @@ translate spanish b1c09s14_efaa9dd3:
 translate spanish b1c09s14_88d4ca01:
 
     # zp "And then this school has the audacity to even act like they care."
-    zp "Y luego esta escuela tiene la audacia de incluso actuar como si les importara."
+    zp "Y luego esta universidad tiene la audacia de actuar como si les importara."
 
 # game/code/Book-1/Chapter-9/s14.rpy:183
 translate spanish b1c09s14_1d8b9789:
@@ -338,7 +338,7 @@ translate spanish b1c09s14_2c16e9a4:
 translate spanish b1c09s14_937d8f77:
 
     # sm "I...don't know the whole story. But it is very frustrating hearing nothing from the school about what happened."
-    sm "Yo... no conozco toda la historia. Pero es muy frustrante no saber nada por parte de la escuela sobre lo sucedido."
+    sm "Yo... no conozco toda la historia. Pero es muy frustrante no saber nada por parte de la universidad sobre lo sucedido."
 
 # game/code/Book-1/Chapter-9/s14.rpy:190
 translate spanish b1c09s14_649bc55e:
