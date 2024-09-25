@@ -798,15 +798,15 @@ translate spanish strings:
 
     # game/code/Book-1/Chapter-9/s08.rpy:295
     old "Cum on Foxy's ass"
-    new "Semen en el culo de Foxy"
+    new "Corrida en el culo de Foxy"
 
     # game/code/Book-1/Chapter-9/s08.rpy:295
     old "Cum in Foxy's panties"
-    new "Semen en los calzones de Foxy"
+    new "Corrida en los calzones de Foxy"
 
     # game/code/Book-1/Chapter-9/s08.rpy:496
     old "On both of your faces"
-    new "En ambas caras"
+    new "En la cara de ambas"
 
     # game/code/Book-1/Chapter-9/s08.rpy:496
     old "Down Foxy's throat"
