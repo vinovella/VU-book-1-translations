@@ -38,7 +38,7 @@ translate spanish b1c09s04_f921fe01:
 translate spanish b1c09s04_f5759e5b:
 
     # mc "I went with the school volleyball team to the Crowning Championship Tournament."
-    mc "Fui con el equipo de voleibol de la escuela al Torneo del Campeonato de Coronación."
+    mc "Fui con el equipo de voleibol de la universidad al Torneo del Campeonato de Coronación."
 
 # game/code/Book-1/Chapter-9/s04.rpy:91
 translate spanish b1c09s04_757f2203:
@@ -530,7 +530,7 @@ translate spanish b1c09s04_dm_appear_8e00dc1d:
 translate spanish b1c09s04_dm_appear_71a84615:
 
     # dm "*Whispers* The things I have to do for this school..."
-    dm "*Susurros* Las cosas que tengo que hacer por esta escuela..."
+    dm "*Susurros* Las cosas que tengo que hacer por esta universidad..."
 
 # game/code/Book-1/Chapter-9/s04.rpy:406
 translate spanish b1c09s04_dm_appear_f96d3faa:
@@ -1052,7 +1052,7 @@ translate spanish b1c09s04_continue_ce3f0a1b:
 translate spanish b1c09s04_continue_43292790:
 
     # dm "Someone has to, before a student comes in here and sues the school."
-    dm "Alguien tiene que hacerlo antes de que un estudiante venga aquí y demande a la escuela."
+    dm "Alguien tiene que hacerlo antes de que un estudiante venga aquí y demande a la universidad."
 
 # game/code/Book-1/Chapter-9/s04.rpy:738
 translate spanish b1c09s04_continue_e87be3a5:
