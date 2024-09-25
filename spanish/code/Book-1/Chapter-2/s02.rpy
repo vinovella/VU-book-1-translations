@@ -146,7 +146,7 @@ translate spanish b1c02s02_bf47d6c6:
 translate spanish b1c02s02_fd74ac8f:
 
     # pm "We'll need to do something about your looks, too. I don't want my son to get bullied at school for looking like a nerd."
-    pm "Tendremos que hacer algo con tu apariencia también. No quiero que mi hijo sea intimidado en la escuela por parecer un nerd."
+    pm "Tendremos que hacer algo con tu apariencia también. No quiero que mi hijo sea intimidado en la universidad por parecer un nerd."
 
 # game/code/Book-1/Chapter-2/s02.rpy:117
 translate spanish b1c02s02_3bb36766:
