@@ -98,7 +98,7 @@ translate spanish b1c05s04_75c9b6c0:
 translate spanish b1c05s04_19ced7cb:
 
     # mc "This has nothing to do with school?"
-    mc "¿Esto no tiene nada que ver con la escuela?"
+    mc "¿Esto no tiene nada que ver con la universidad?"
 
 # game/code/Book-1/Chapter-5/s04.rpy:64
 translate spanish b1c05s04_1cecfd2e:
@@ -212,7 +212,7 @@ translate spanish b1c05s04_22f23d3d:
 translate spanish b1c05s04_c29877d1:
 
     # dm "I've had students transfer to different schools after the embarrassment of being kicked out of the Winner's Club."
-    dm "He tenido estudiantes transferidos a diferentes escuelas después de la vergüenza de ser expulsados ​​del Club de los Ganadores."
+    dm "He tenido estudiantes transferidos a diferentes universidades después de la vergüenza de ser expulsados ​​del Club de los Ganadores."
 
 # game/code/Book-1/Chapter-5/s04.rpy:106
 translate spanish b1c05s04_d21bf845:
