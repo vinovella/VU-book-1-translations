@@ -44,7 +44,7 @@ translate spanish b1c07s02_b0d7e02c:
 translate spanish b1c07s02_3eccbbf0:
 
     # mct "Josie or Lara wouldn't knock. But who else would show up at this hour?"
-    mct "Josie o Lara no tocarían. Pero, ¿quién más aparecería a esta hora?"
+    mct "Josie o Lara no golpearían. Pero, ¿quién más aparecería a esta hora?"
 
 # game/code/Book-1/Chapter-7/s02.rpy:66
 translate spanish b1c07s02_b4b568b8:
@@ -206,7 +206,7 @@ translate spanish b1c07s02_f463d0a9:
 translate spanish b1c07s02_569bc776:
 
     # dm "Good night, Matthew."
-    dm "Buenas noches Mateo."
+    dm "Buenas noches, Matthew."
 
 # game/code/Book-1/Chapter-7/s02.rpy:184
 translate spanish b1c07s02_date_48e4db56:
@@ -224,7 +224,7 @@ translate spanish b1c07s02_date_5352c08b:
 translate spanish b1c07s02_date_a84f099e:
 
     # mc "I can't believe you convinced me to come here. It's probably past midnight at this point."
-    mc "No puedo creer que me hayas convencido de venir aquí. Probablemente sea pasada la medianoche en este punto."
+    mc "No puedo creer que me hayas convencido de venir aquí. Probablemente en este punto sea pasada la medianoche."
 
 # game/code/Book-1/Chapter-7/s02.rpy:192
 translate spanish b1c07s02_date_b82f740d:
@@ -248,7 +248,7 @@ translate spanish b1c07s02_date_c0945c1e:
 translate spanish b1c07s02_date_3720d147:
 
     # mc "Are you sure they haven't gotten to {i}you{/i}? The way you're holding onto me isn't very professional, Diana."
-    mc "¿Estás seguro de que no han llegado a {i} ti {/i}? La forma en que me estás sujetando no es muy profesional, Diana."
+    mc "¿Estás segura de que no han afectado a {i} ti {/i}? La forma en que me estás sujetando no es muy profesional, Diana."
 
 # game/code/Book-1/Chapter-7/s02.rpy:208
 translate spanish b1c07s02_date_684e5b9c:
@@ -290,7 +290,7 @@ translate spanish b1c07s02_date_4429b947:
 translate spanish b1c07s02_date_461ea5d5:
 
     # "Pain and pleasure mix as she nibbles on your lower lip, pulling you with her as she breaks the kiss."
-    "El dolor y el placer se mezclan cuando ella te mordisquea el labio inferior, tirando de ti con ella mientras rompe el beso."
+    "El dolor y placer se mezclan cuando te mordisquea el labio inferior, tirando de ti mientras rompe el beso."
 
 # game/code/Book-1/Chapter-7/s02.rpy:228
 translate spanish b1c07s02_date_695bad71:
@@ -326,19 +326,19 @@ translate spanish b1c07s02_hj_8da8561e:
 translate spanish b1c07s02_hj_565d1ed0:
 
     # "Your touch elicits an unrestrained moan of pleasure from Diana as she pushes her body further into yours."
-    "Tu toque provoca un gemido desenfrenado de placer de Diana mientras empuja su cuerpo más hacia el tuyo."
+    "Tu toque arranca un gemido de placer incontenible a Diana, que empuja su cuerpo aún más contra el tuyo."
 
 # game/code/Book-1/Chapter-7/s02.rpy:261
 translate spanish b1c07s02_hj_eb783248:
 
     # "Her warm neck beckons you to it and her elegant scent pierces your buzzed mind with every kiss."
-    "Su cálido cuello te invita a hacerlo y su elegante aroma penetra tu mente zumbada con cada beso."
+    "Su cálido cuello te invita a hacerlo y su elegante aroma penetra tu mente mareada con cada beso."
 
 # game/code/Book-1/Chapter-7/s02.rpy:263
 translate spanish b1c07s02_hj_639cf16c:
 
     # "You let your hand glide down the side of Diana's curvy body before grasping her soft, supple thigh {i}{b}hard{/b}{/i}."
-    "Dejas que tu mano se deslice por el costado del cuerpo curvilíneo de Diana antes de agarrar su muslo suave y flexible {i}{b}fuerte{/b}{/i}."
+    "Dejas que tu mano se deslice por el costado del cuerpo curvilíneo de Diana antes de agarrar su muslo suave y flexible {i}{b}con fuerza{/b}{/i}."
 
 # game/code/Book-1/Chapter-7/s02.rpy:264
 translate spanish b1c07s02_hj_17fbced7:
@@ -350,7 +350,7 @@ translate spanish b1c07s02_hj_17fbced7:
 translate spanish b1c07s02_hj_761bc9b8:
 
     # "Diana parts her legs further as you run your hand up her thigh, meeting her damp, silken panties."
-    "Diana separa aún más sus piernas mientras pasas tu mano por su muslo, encontrando sus bragas húmedas y sedosas."
+    "Diana separa aún más sus piernas mientras pasas tu mano por su muslo, encontrando sus calzones húmedos y sedosos."
 
 # game/code/Book-1/Chapter-7/s02.rpy:269
 translate spanish b1c07s02_hj_45f7aecd:
@@ -368,7 +368,7 @@ translate spanish b1c07s02_hj_538918b3:
 translate spanish b1c07s02_hj_79031e8f:
 
     # "Her searing warmth and tightness almost feel painful yet her body greedily sucks you in further."
-    "Su calor abrasador y su estrechez casi se sienten dolorosos, pero su cuerpo te succiona con avidez aún más."
+    "Su calor abrasador y su estrechez casi se sienten dolorosos, pero su cuerpo te succiona con avidez."
 
 # game/code/Book-1/Chapter-7/s02.rpy:291
 translate spanish b1c07s02_hj_366b6b66:
@@ -410,7 +410,7 @@ translate spanish b1c07s02_hj_995cb345:
 translate spanish b1c07s02_hj_490d19d5:
 
     # "You feel her contractions on your fingers getting more erratic, you feel the way her body twitches in your arms. She's about as close as you."
-    "Sientes que sus contracciones en tus dedos se vuelven más erráticas, sientes la forma en que su cuerpo se contrae en tus brazos. Ella es tan cercana como tú."
+    "Sientes cómo sus contracciones en tus dedos se vuelven más erráticas, sientes cómo su cuerpo se retuerce en tus brazos. Está tan cerca como tú."
 
 # game/code/Book-1/Chapter-7/s02.rpy:317
 translate spanish b1c07s02_hj_ce072457:
@@ -440,7 +440,7 @@ translate spanish b1c07s02_hj_d4ed4f9f:
 translate spanish b1c07s02_hj_6df30cbe:
 
     # dm "I didn't expect you to be able to make me cum like that."
-    dm "No esperaba que fueras capaz de hacerme correrme así."
+    dm "No esperaba que fueras capaz de hacerme correr de esa manera."
 
 # game/code/Book-1/Chapter-7/s02.rpy:328
 translate spanish b1c07s02_hj_f6488e43:
@@ -458,7 +458,7 @@ translate spanish b1c07s02_hj_39d46d30:
 translate spanish b1c07s02_hj_a07b121c:
 
     # dm "Waste not, want not, right?"
-    dm "No desperdicies, no quieras, ¿verdad?"
+    dm "Quien no malgasta, no quiere, ¿verdad?"
 
 translate spanish strings:
 
@@ -472,7 +472,7 @@ translate spanish strings:
 
     # game/code/Book-1/Chapter-7/s02.rpy:134
     old "Go with Diana"
-    new "ir con diana"
+    new "Ir con Diana"
 
     # game/code/Book-1/Chapter-7/s02.rpy:134
     old "Rebuff Diana"
