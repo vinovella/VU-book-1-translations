@@ -710,7 +710,7 @@ translate spanish b1c08s01_recap_c06c_87de5323:
 translate spanish b1c08s01_recap_c06c_09fedd84:
 
     # mc "This guy. Andrejz Dittmar. Hates my guts. He seems to run the group within the school, but I don't think he's the head honcho."
-    mc "Este tipo. Andrejz Dittmar. Odia mis entrañas. Parece dirigir el grupo dentro de la escuela, pero no creo que sea el jefe."
+    mc "Este tipo. Andrejz Dittmar. Odia mis entrañas. Parece dirigir el grupo dentro de la universidad, pero no creo que sea el jefe."
 
 # game/code/Book-1/Chapter-8/s01.rpy:461
 translate spanish b1c08s01_recap_c06c_0e5a6974:
@@ -824,7 +824,7 @@ translate spanish b1c08s01_recap_c07c_26df1882:
 translate spanish b1c08s01_recap_c07c_356f072a:
 
     # mc "She also gave me info about a hidden entrance within the school library that panned out, so I wouldn't cast her off just yet."
-    mc "También me dio información sobre una entrada oculta en la biblioteca de la escuela que resultó ser cierta, así que yo no la descartaría todavía."
+    mc "También me dio información sobre una entrada oculta en la biblioteca de la universidad que resultó ser cierta, así que yo no la descartaría todavía."
 
 # game/code/Book-1/Chapter-8/s01.rpy:517
 translate spanish b1c08s01_recap_c07c_c9ec2b2d:
