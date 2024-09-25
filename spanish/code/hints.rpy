@@ -786,7 +786,7 @@ translate spanish strings:
 
     # game/code/hints.rpy:11
     old "You throat fuck Ronja."
-    new "Fóllate la garganta, Ronja."
+    new "Fóllate la garganta de Ronja."
 
     # game/code/hints.rpy:11
     old "Ronja stops talking about her husband and you close off netori/cuckholding content with her."
@@ -798,7 +798,7 @@ translate spanish strings:
 
     # game/code/hints.rpy:11
     old "Diana eats Ronja's cum."
-    new "Diana come el semen de Ronja."
+    new "Diana se come el semen de Ronja."
 
     # game/code/hints.rpy:11
     old "Ronja keeps your cum to herself."
@@ -898,7 +898,7 @@ translate spanish strings:
 
     # game/code/hints.rpy:11
     old "Iona's goaded on by your strong response, and takes off a little more."
-    new "Iona se siente incitada por tu fuerte respuesta y se escapa un poco más."
+    new "Iona se siente incitada por tu fuerte respuesta y se anima un poco más."
 
     # game/code/hints.rpy:11
     old "Iona gets off the stage and lets someone else on."
@@ -954,7 +954,7 @@ translate spanish strings:
 
     # game/code/hints.rpy:11
     old "Go fuck Delphia with rope and piss play."
-    new "Folla a Delphia con cuerdas y juegos de orina."
+    new "Follas a Delphia con cuerdas y juegos de orina."
 
     # game/code/hints.rpy:11
     old "You stick around, dance with Nia, and get a blowjob from her instead."
@@ -1002,7 +1002,7 @@ translate spanish strings:
 
     # game/code/hints.rpy:11
     old "You hang out with The Winner's Club."
-    new "Pasas el rato con The Winner's Club."
+    new "Pasas el rato con el Club de los Ganadores."
 
     # game/code/hints.rpy:11
     old "Leads to a scuffle with Xasan. If you're deep into The Syndicate's story, Zemfira then cleans you up and rubs your cock between her thighs."
