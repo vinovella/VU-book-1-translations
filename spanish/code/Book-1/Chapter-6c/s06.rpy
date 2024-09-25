@@ -704,7 +704,7 @@ translate spanish b1c06cs06_6d505dc3:
 translate spanish b1c06cs06_a8f6e7c1:
 
     # nv "Family told me what my interests I should have. What school I should go to. What career I should pursue."
-    nv "Mi familia me decía qué intereses debía tener. A qué escuela debía ir. Qué carrera debía seguir."
+    nv "Mi familia me decía qué intereses debía tener. A qué universidad debía ir. Qué carrera debía seguir."
 
 # game/code/Book-1/Chapter-6c/s06.rpy:481
 translate spanish b1c06cs06_88552535:
