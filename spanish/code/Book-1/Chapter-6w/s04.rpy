@@ -968,7 +968,7 @@ translate spanish strings:
 
     # game/code/Book-1/Chapter-6w/s04.rpy:140
     old "Advocate for Silvia"
-    new "Defensor de Silvia"
+    new "Defiende a Silvia"
 
     # game/code/Book-1/Chapter-6w/s04.rpy:140
     old "Crack a joke"
