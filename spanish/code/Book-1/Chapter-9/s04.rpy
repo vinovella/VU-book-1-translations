@@ -1122,7 +1122,7 @@ translate spanish strings:
 
     # game/code/Book-1/Chapter-9/s04.rpy:421
     old "Piss down Ronja's throat"
-    new "Mear en la garganta de Ronja"
+    new "Orina en la garganta de Ronja"
 
     # game/code/Book-1/Chapter-9/s04.rpy:421
     old "Fuck her throat harder"
