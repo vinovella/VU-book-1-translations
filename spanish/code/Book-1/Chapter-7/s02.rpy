@@ -32,7 +32,7 @@ translate spanish b1c07s02_dd9db4fa:
 translate spanish b1c07s02_fe0443e4:
 
     # mct "Josie texted me saying she set up our little bouldering this week, so the extra sleep would be nice."
-    mct "Josie me envió un mensaje de texto diciendo que instaló nuestro pequeño boulder esta semana, por lo que el sueño extra sería bueno."
+    mct "Josie me mandó un mensaje diciendo que había preparado nuestro pequeño entrenamiento de escalada esta semana, así que el sueño extra estaría bien."
 
 # game/code/Book-1/Chapter-7/s02.rpy:48
 translate spanish b1c07s02_b0d7e02c:
@@ -464,11 +464,11 @@ translate spanish strings:
 
     # game/code/Book-1/Chapter-7/s02.rpy:110
     old "I don't believe you, Diana"
-    new "no te creo diana"
+    new "No te creo, Diana"
 
     # game/code/Book-1/Chapter-7/s02.rpy:110
     old "Don't say anything"
-    new "no digas nada"
+    new "No digas nada"
 
     # game/code/Book-1/Chapter-7/s02.rpy:134
     old "Go with Diana"
