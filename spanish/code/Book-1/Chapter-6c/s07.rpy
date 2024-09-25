@@ -1132,7 +1132,7 @@ translate spanish strings:
 
     # game/code/Book-1/Chapter-6c/s07.rpy:188
     old "Investigate the Artist's direct connection to Maria"
-    new "Investigar la conexión directa del Artista con María"
+    new "Investigar la conexión directa de la Artista con María"
 
     # game/code/Book-1/Chapter-6c/s07.rpy:301
     old "Worship her"
