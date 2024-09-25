@@ -1560,7 +1560,7 @@ translate spanish strings:
 
     # game/code/Book-1/Chapter-8s/s09.rpy:343
     old "I still saved your ass"
-    new "Todavía te salvé el culo"
+    new "Aún así te salvé el culo"
 
     # game/code/Book-1/Chapter-8s/s09.rpy:343
     old "I'm alright. It worked out"
