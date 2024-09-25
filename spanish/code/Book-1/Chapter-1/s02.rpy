@@ -20,7 +20,7 @@ translate spanish b1c01s02_25c38e4a:
 translate spanish b1c01s02_2afbaee8:
 
     # sm "Of course! This school is rising through the ranks. We've had students who graduated here go on to do great things."
-    sm "¡Por supuesto! Esta escuela está subiendo de rango. Hemos tenido estudiantes que se graduaron aquí y han hecho grandes cosas."
+    sm "¡Por supuesto! Esta universidad está subiendo de nivel. Hemos tenido estudiantes que se graduaron aquí y han hecho grandes cosas."
 
 # game/code/Book-1/Chapter-1/s02.rpy:22
 translate spanish b1c01s02_73c7a96d:
@@ -266,7 +266,7 @@ translate spanish b1c01s02_41f12698:
 translate spanish b1c01s02_d0682b76:
 
     # sm "And that's Mrs. Mills. She's very involved with our school."
-    sm "Y ella es la Sra. Mills. Está muy involucrada con nuestra escuela."
+    sm "Y ella es la Sra. Mills. Está muy involucrada con nuestra universidad."
 
 # game/code/Book-1/Chapter-1/s02.rpy:141
 translate spanish b1c01s02_f7670830:
