@@ -614,7 +614,7 @@ translate spanish b1c06ws04_memory_cloud_26f1f8a4:
 translate spanish b1c06ws04_memory_cloud_c29877d1:
 
     # dm "I've had students transfer to different schools after the embarrassment of being kicked out of the Winner's Club."
-    dm "He tenido estudiantes transferidos a diferentes escuelas después de la vergüenza de ser expulsados ​​del Club de los Ganadores."
+    dm "He tenido estudiantes transferidos a diferentes universidades después de la vergüenza de ser expulsados ​​del Club de los Ganadores."
 
 # game/code/Book-1/Chapter-6w/s04.rpy:325
 translate spanish b1c06ws04_memory_cloud_c9e24025:
