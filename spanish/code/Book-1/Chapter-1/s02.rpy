@@ -266,7 +266,7 @@ translate spanish b1c01s02_41f12698:
 translate spanish b1c01s02_d0682b76:
 
     # sm "And that's Mrs. Mills. She's very involved with our school."
-    sm "Y ella es la Sra. Mills. Está muy involucrada con nuestra escuela."
+    sm "Y ella es la Sra. Mills. Está muy involucrada con nuestra universidad."
 
 # game/code/Book-1/Chapter-1/s02.rpy:141
 translate spanish b1c01s02_f7670830:
