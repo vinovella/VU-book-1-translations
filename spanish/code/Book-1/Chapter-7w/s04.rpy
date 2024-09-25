@@ -110,7 +110,7 @@ translate spanish b1c07ws04_90e35095:
 translate spanish b1c07ws04_b46893f7:
 
     # ir "*Sighs*"
-    ir "*suspira*"
+    ir "*Suspira*"
 
 # game/code/Book-1/Chapter-7w/s04.rpy:86
 translate spanish b1c07ws04_49f8d63e:
