@@ -24,9 +24,9 @@ translate chinese strings:
 
     # game/code/functions/functions.rpy:393
     old "You've unlocked the replay: "
-    new "You've unlocked the replay: "
+    new "您已解锁了回放："
 
     # game/code/functions/functions.rpy:395
     old "You've unlocked the achievement: "
-    new "You've unlocked the achievement: "
+    new "您已解锁了成就："
 
