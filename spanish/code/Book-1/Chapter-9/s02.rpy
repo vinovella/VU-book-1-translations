@@ -524,7 +524,7 @@ translate spanish b1c09s02_lw_right_2a7dee64:
 translate spanish b1c09s02_lw_right_32042651:
 
     # lw "*Smiles* Ew. Now who's being disgusting?"
-    lw "*sonríe* ¡Ew! ¿Ahora quién está siendo asquerosa?"
+    lw "*Sonríe* ¡Ew! ¿Ahora quién está siendo asquerosa?"
 
 # game/code/Book-1/Chapter-9/s02.rpy:363
 translate spanish b1c09s02_lw_right_14bfeaf7:
