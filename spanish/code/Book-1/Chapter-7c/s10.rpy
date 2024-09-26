@@ -176,7 +176,7 @@ translate spanish b1c07cs10_035aabff:
 translate spanish b1c07cs10_34c5fcab:
 
     # edo "Good. Let me know if you need more help. I need you nice and hard for me, okay?"
-    edo "Bien. Dejame saber si necesitas mas ayuda. Te necesito bien duro para mí, ¿de acuerdo?"
+    edo "Hazme saber si necesitas más ayuda. Te necesito bien duro para mí, ¿de acuerdo?"
 
 # game/code/Book-1/Chapter-7c/s10.rpy:126
 translate spanish b1c07cs10_733bea9f:
@@ -470,7 +470,7 @@ translate spanish b1c07cs10_c214cbf1:
 translate spanish b1c07cs10_85b03afe:
 
     # "Ezra expertly takes you to the hilt with every thrust. Her eyes greedily beg for more."
-    "Ezra le lleva expertamente hasta la punta con cada embestida. Sus ojos piden más con avidez."
+    "Ezra le lleva expertamente hasta la empuñadura con cada embestida. Sus ojos piden más con codicia."
 
 # game/code/Book-1/Chapter-7c/s10.rpy:303
 translate spanish b1c07cs10_a1229eea:
@@ -482,7 +482,7 @@ translate spanish b1c07cs10_a1229eea:
 translate spanish b1c07cs10_c3ab16d2:
 
     # "You release down Ezra's throat. She eagerly swallows every drop you give her."
-    "Liberas la garganta de Ezra. Ella se traga ansiosamente cada gota que le das."
+    "Lo liberas en la garganta de Ezra. Ella traga con avidez cada gota que le das."
 
 # game/code/Book-1/Chapter-7c/s10.rpy:311
 translate spanish b1c07cs10_ab1bff4b:
