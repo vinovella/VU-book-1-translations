@@ -28,8 +28,6 @@ translate spanish strings:
     old "Download Saves"
     new "Descargar archivos guardados"
 
-translate spanish strings:
-
     # game/code/screens/save_screens.rpy:28
     old "{color=#d18fe7}Taboo University Book One{/color} ends here"
     new "{color=#d18fe7}Taboo University Libro Uno{/color} termina aquí"
@@ -43,20 +41,10 @@ translate spanish strings:
     new "Esto te permitirá empezar el {color=#d18fe7}Libro Dos{/color} sin perder tu progreso."
 
     # game/code/screens/save_screens.rpy:50
-    old "Saves For Book"
-    new "Guardar para libro"
-
-    # game/code/screens/save_screens.rpy:50
-    old "Saves From Book"
-    new "Guardar para libro"
-
-translate spanish strings:
-
-    # game/code/screens/save_screens.rpy:50
     old "Saves For Book "
-    new "Saves For Book "
+    new "Guardar en el libro "
 
     # game/code/screens/save_screens.rpy:50
     old "Saves From Book "
-    new "Saves From Book "
+    new "Guardar desde el libro "
 
