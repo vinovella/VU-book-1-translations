@@ -14,11 +14,11 @@ translate spanish strings:
 
     # game/code/screens/lovense.rpy:28
     old "Please make sure both Taboo University and Lovense Remote app are on the same LAN"
-    new "Asegúrate de que tanto Taboo University como la aplicación remota Lovense están en la misma red LAN."
+    new "Asegúrate de que tanto Taboo University como la aplicación remota Lovense están en la misma red LAN"
 
     # game/code/screens/lovense.rpy:29
     old "Follow the steps to enable Game Mode in Lovense Remote app and connect your toy to the game"
-    new "Sigue los pasos para activar el Modo Juego en la aplicación Remota Lovense y conecta tu juguete al juego."
+    new "Sigue los pasos para activar el Modo Juego en la aplicación Remota Lovense y conecta tu juguete al juego"
 
     # game/code/screens/lovense.rpy:36
     old "1. Click on the \"Discover\" tab"
