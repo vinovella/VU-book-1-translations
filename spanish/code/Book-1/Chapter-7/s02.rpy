@@ -248,7 +248,7 @@ translate spanish b1c07s02_date_c0945c1e:
 translate spanish b1c07s02_date_3720d147:
 
     # mc "Are you sure they haven't gotten to {i}you{/i}? The way you're holding onto me isn't very professional, Diana."
-    mc "¿Estás segura de que no han afectado a {i} ti {/i}? La forma en que me estás sujetando no es muy profesional, Diana."
+    mc "¿Estás segura de que no te han afectado {i}a ti{/i}? La forma en que me estás sujetando no es muy profesional, Diana."
 
 # game/code/Book-1/Chapter-7/s02.rpy:208
 translate spanish b1c07s02_date_684e5b9c:
