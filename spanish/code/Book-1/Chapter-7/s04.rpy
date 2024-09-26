@@ -68,7 +68,7 @@ translate spanish b1c07s04_ea3b47e0:
 translate spanish b1c07s04_0f50e2e4:
 
     # "Both" "*Laughs*"
-    "Ambos" "*Risas*"
+    "Ambas" "*Risas*"
 
 # game/code/Book-1/Chapter-7/s04.rpy:52
 translate spanish b1c07s04_4f86c7c5:
@@ -476,7 +476,7 @@ translate spanish b1c07s04_c8f25a84:
 translate spanish b1c07s04_89f7a74d:
 
     # rh "*Snorts* Certainly not how it looks to me. They barely even did an investigation, for Pete's sake!"
-    rh "*resopla* Ciertamente no es lo que me parece a mí. ¡Apenas hicieron una investigación, por el amor de Dios!"
+    rh "*Resopla* Ciertamente no es lo que me parece a mí. ¡Apenas hicieron una investigación, por el amor de Dios!"
 
 # game/code/Book-1/Chapter-7/s04.rpy:235
 translate spanish b1c07s04_0c8c5df9:
@@ -614,13 +614,13 @@ translate spanish b1c07s04_884cbb32:
 translate spanish b1c07s04_29e2d5ba:
 
     # rh "Don't be afraid to drop into my office if you ever have any...needs."
-    rh "No tengas miedo de pasar por mi oficina si alguna vez tiene alguna... necesidad."
+    rh "No tengas miedo de pasar por mi oficina si alguna vez tienes alguna... necesidad."
 
 # game/code/Book-1/Chapter-7/s04.rpy:291
 translate spanish b1c07s04_222deea3:
 
     # mct "...Between Ronja and Diana, I honestly don't know who's more batshit."
-    mct "... Entre Ronja y Diana, honestamente no sé quién es más idiota."
+    mct "...Entre Ronja y Diana, honestamente no sé quién es más idiota."
 
 # game/code/Book-1/Chapter-7/s04.rpy:294
 translate spanish b1c07s04_6822858f:
