@@ -2,7 +2,7 @@
 translate spanish b1c07cs03_8f5a6f35:
 
     # mct "Wow, this place is a mess. Do all artists work like this?"
-    mct "Vayan, este lugar es un desastre. ¿Todos los artistas trabajan de esta manera?"
+    mct "Vaya, este lugar es un desastre. ¿Todos los artistas trabajan de esta manera?"
 
 # game/code/Book-1/Chapter-7c/s03.rpy:26
 translate spanish b1c07cs03_9b82dc68:
