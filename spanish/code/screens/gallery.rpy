@@ -34,5 +34,5 @@ translate spanish strings:
 
     # game/code/screens/gallery.rpy:21
     old "Achievements"
-    new "Achievements"
+    new "Logros"
 
