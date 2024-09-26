@@ -11,8 +11,8 @@ translate spanish strings:
 translate spanish strings:
 
     # game/code/screens/chapter_choice.rpy:23
-    old "Investigate "
-    new "Investiga "
+    old "Investigate"
+    new "Investiga"
 
     # game/code/screens/chapter_choice.rpy:29
     old "You have already investigated"
@@ -27,6 +27,6 @@ translate spanish strings:
 translate spanish strings:
 
     # game/code/screens/chapter_choice.rpy:30
-    old "You have already investigated "
-    new "You have already investigated "
+    old "You have already investigated"
+    new "Ya lo has investigado"
 
