@@ -152,7 +152,7 @@ translate spanish b1c09s01_check_jh_89fc7556:
 translate spanish b1c09s01_check_jh_cb08565e:
 
     # ldc "Unsullied and pure, just perfect for you to pump your load into, just like Zemfira, hm?"
-    ldc "Inmaculada y pura, perfecta para que bombees tu carga en ella, como Zemfira, ¿eh?"
+    ldc "Inmaculada y pura, perfecta para que bombees tu carga en ella, al igual que con Zemfira ¿eh?"
 
 # game/code/Book-1/Chapter-9/s01.rpy:250
 translate spanish b1c09s01_check_jh_5e20532c:
