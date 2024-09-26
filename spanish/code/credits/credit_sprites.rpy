@@ -52,5 +52,5 @@ translate spanish strings:
 
     # game/code/credits/credit_sprites.rpy:115
     old "This game was only\nmade possible with\nall the support we have\nfrom our fans"
-    new "This game was only\nmade possible with\nall the support we have\nfrom our fans"
+    new "Este juego sólo ha sido posible gracias a todo el apoyo de nuestros seguidores."
 
