@@ -98,19 +98,19 @@ translate spanish strings:
 
     # game/code/screens/menus.rpy:834
     old "We only collect data on in-game choices, no personal information is collected."
-    new "We only collect data on in-game choices, no personal information is collected."
+    new "Sólo recopilamos datos sobre las elecciones dentro del juego, no se recopila información personal."
 
     # game/code/screens/menus.rpy:861
     old "Connect Your Toy"
-    new "Connect Your Toy"
+    new "Conecta tu juguete"
 
     # game/code/screens/menus.rpy:907
     old "Sex Voice Volume"
-    new "Sex Voice Volume"
+    new "Volumen de voz sexual"
 
 translate spanish strings:
 
     # game/code/screens/menus.rpy:869
     old "{u}Get your Lovense toy now{/u}"
-    new "{u}Get your Lovense toy now{/u}"
+    new "{u}Consiga ahora su juguete Lovense{/u}"
 
