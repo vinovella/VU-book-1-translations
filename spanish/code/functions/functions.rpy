@@ -20,9 +20,9 @@ translate spanish strings:
 
     # game/code/functions/functions.rpy:393
     old "You've unlocked the replay: "
-    new "You've unlocked the replay: "
+    new "Has desbloqueado una repetición: "
 
     # game/code/functions/functions.rpy:395
     old "You've unlocked the achievement: "
-    new "You've unlocked the achievement: "
+    new "Has desbloqueado un logro: "
 
