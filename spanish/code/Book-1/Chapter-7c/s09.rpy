@@ -56,7 +56,7 @@ translate spanish b1c07cs09_ead4a05f:
 translate spanish b1c07cs09_6b282be7:
 
     # mct "Shit shit! I need an excuse, I need—"
-    mct "Mierda, mierda! Necesito una excusa, necesito—"
+    mct "¡Mierda, mierda! Necesito una excusa, necesito—"
 
 # game/code/Book-1/Chapter-7c/s09.rpy:74
 translate spanish b1c07cs09_3813be3e:
@@ -74,7 +74,7 @@ translate spanish b1c07cs09_a05f146d:
 translate spanish b1c07cs09_4977dad7:
 
     # ij "Couldn't wait until tomorrow, huh?"
-    ij "No podía esperar hasta mañana, ¿eh?"
+    ij "No podías esperar hasta mañana, ¿eh?"
 
 # game/code/Book-1/Chapter-7c/s09.rpy:81
 translate spanish b1c07cs09_36b1277b:
@@ -464,7 +464,7 @@ translate spanish b1c07cs09_sex_4eaaf084:
 translate spanish b1c07cs09_sex_8f9d009c:
 
     # ij "Yes, please! It feels so good when you rub me like that."
-    ij "¡Sí, por favor! Se siente tan bien cuando me frotas así."
+    ij "¡Sí, por favor! Se siente tan bien cuando me frotas de esa manera."
 
 # game/code/Book-1/Chapter-7c/s09.rpy:387
 translate spanish b1c07cs09_sex_3f81601e:
@@ -476,7 +476,7 @@ translate spanish b1c07cs09_sex_3f81601e:
 translate spanish b1c07cs09_sex_5b4867af:
 
     # ij "Ohh, it feels so good! Keep going just like that, I'm going to cum!"
-    ij "¡Oh, se siente tan bien! ¡Sigue así, que me voy a correr!"
+    ij "¡Oh, se siente tan bien! ¡Continúa, que me voy a correr!"
 
 # game/code/Book-1/Chapter-7c/s09.rpy:391
 translate spanish b1c07cs09_sex_d8d5fdc4:
@@ -560,19 +560,19 @@ translate spanish b1c07cs09_end_2690836b:
 translate spanish b1c07cs09_end_af86ec02:
 
     # mct "I'd better go back to Ezra. Maria might've told her something useful about the secret entrances. Who knows if that's even the only secret on the campus?"
-    mct "Será mejor que vuelva con Ezra. María podría haberle dicho algo útil sobre las entradas secretas. ¿Quién sabe si ese es el único secreto en el campus?"
+    mct "Será mejor que regrese con Ezra. María podría haberle dicho algo útil sobre las entradas secretas. ¿Quién sabe si ese es el único secreto en el campus?"
 
 # game/code/Book-1/Chapter-7c/s09.rpy:444
 translate spanish b1c07cs09_end_a58d27dc:
 
     # mct "Hopefully Ezra and Maria had a close enough connection that Maria told her some details that'll help."
-    mct "Con suerte, Ezra y María tenían una conexión lo suficientemente cercana como para que María le contara algunos detalles que la ayudarán."
+    mct "Esperemos que Ezra y María tuvieran una conexión lo suficientemente cercana como para que María le contara algunos detalles que le ayudaran."
 
 # game/code/Book-1/Chapter-7c/s09.rpy:447
 translate spanish b1c07cs09_end_e3cee718:
 
     # mct "Well, I better get back to my dorm. I'll continue this later."
-    mct "Bueno, será mejor que vuelva a mi dormitorio. Continuaré con esto más tarde."
+    mct "Bueno, será mejor que regrese a mi dormitorio. Continuaré con esto más tarde."
 
 # game/code/Book-1/Chapter-7c/s09.rpy:158
 translate spanish b1c07cs09_e9f9fe94:
