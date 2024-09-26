@@ -54,9 +54,9 @@ translate spanish strings:
 
     # game/code/screens/save_screens.rpy:50
     old "Saves For Book "
-    new "Saves For Book "
+    new "Guardar en el libro"
 
     # game/code/screens/save_screens.rpy:50
-    old "Saves From Book "
-    new "Saves From Book "
+    old "Saves From Book"
+    new "Guardar desde el libro"
 
