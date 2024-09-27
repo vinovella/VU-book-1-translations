@@ -26,13 +26,13 @@ translate spanish b1c07ws03_b7cd8ca8:
 translate spanish b1c07ws03_da393b59:
 
     # ima "Oh my God! I totes forgot! Silly me."
-    ima "¡Ay dios mío! ¡Se me olvidaron los bolsos! Tonta de mí."
+    ima "¡Dios mío! ¡Lo olvidé! Tonta de mí."
 
 # game/code/Book-1/Chapter-7w/s03.rpy:60
 translate spanish b1c07ws03_0dbf6a9f:
 
     # ima "That was {i}so{/i} messy. Ugh, I don't know what Silvia was thinking."
-    ima "Eso fue {i}muy{/i} complicado. Uf, no sé en qué estaba pensando Silvia."
+    ima "Eso fue {i}tan{/i} desastroso. Uf, no sé en qué estaba pensando Silvia."
 
 # game/code/Book-1/Chapter-7w/s03.rpy:64
 translate spanish b1c07ws03_e1772bef:
@@ -116,13 +116,13 @@ translate spanish b1c07ws03_6c7ce9b0:
 translate spanish b1c07ws03_f550001e:
 
     # ima "You *are* coming to the party, aren't you?"
-    ima "*vas* a venir a la fiesta, ¿verdad?"
+    ima "Vas a venir a la fiesta, ¿verdad?"
 
 # game/code/Book-1/Chapter-7w/s03.rpy:113
 translate spanish b1c07ws03_05bf5c47:
 
     # mc "Won't miss it for the world. Though that's not what I wanted to talk about."
-    mc "No te lo perderás por nada del mundo. Aunque no es de eso de lo que quería hablar."
+    mc "No me la perdería por nada del mundo. Aunque no es de eso de lo que quería hablar."
 
 # game/code/Book-1/Chapter-7w/s03.rpy:115
 translate spanish b1c07ws03_a3b9f264:
@@ -212,13 +212,13 @@ translate spanish b1c07ws03_9777ea29:
 translate spanish b1c07ws03_f84d02c4:
 
     # mct "What the hell are they doing? How many times have they gone back and forth now?"
-    mct "¿Qué demonios están haciendo? ¿Cuántas veces han ido y venido ahora?"
+    mct "¿Qué demonios están haciendo? ¿Cuántas veces han ido y venido hasta ahora?"
 
 translate spanish strings:
 
     # game/code/Book-1/Chapter-7w/s03.rpy:80
     old "Ask Isa about the suspicious people"
-    new "Pregúntale a Isa sobre las personas sospechosas."
+    new "Pregúntale a Isa sobre las personas sospechosas"
 
     # game/code/Book-1/Chapter-7w/s03.rpy:80
     old "Ignore them and focus on Isa"
