@@ -2,7 +2,7 @@
 translate spanish b1c07ws08_479c0a8e:
 
     # ima "Ugh, I guess Brandon decided to split already."
-    ima "Ugh, supongo que Brandon ya decidió separarse."
+    ima "Ugh, supongo que Brandon decidió irse ya."
 
 # game/code/Book-1/Chapter-7w/s08.rpy:38
 translate spanish b1c07ws08_e0a11af1:
@@ -14,7 +14,7 @@ translate spanish b1c07ws08_e0a11af1:
 translate spanish b1c07ws08_b75549b0:
 
     # "She puts back the drink like a serial alcoholic."
-    "Devuelve la bebida como una alcohólica en serie."
+    "Se toma la botella como una alcohólica en serie."
 
 # game/code/Book-1/Chapter-7w/s08.rpy:49
 translate spanish b1c07ws08_40a2662d:
@@ -44,7 +44,7 @@ translate spanish b1c07ws08_b49098b0:
 translate spanish b1c07ws08_0e31bb18:
 
     # "A cheeky smirk appears on her face as her face flushes from the alcohol hitting her system. She replies in an amused way, but there's a heaviness that hangs off her words."
-    "Una sonrisa descarada aparece en su rostro mientras su rostro se sonroja por el alcohol que golpea su sistema. Ella responde de una manera divertida, pero hay una pesadez que cuelga de sus palabras."
+    "Una sonrisa pícara se dibuja en su rostro, enrojecido por el alcohol. Responde de manera divertida, pero hay una pesadez en sus palabras."
 
 # game/code/Book-1/Chapter-7w/s08.rpy:62
 translate spanish b1c07ws08_09e757ed:
@@ -92,7 +92,7 @@ translate spanish b1c07ws08_5bc5b83d:
 translate spanish b1c07ws08_2e10d10b:
 
     # "Even half drunk and desperately trying to snuff out her emotions, she still carries herself with a self-confident poise."
-    "Incluso medio borracha y tratando desesperadamente de sofocar sus emociones, todavía se comporta con un aplomo segura de sí misma."
+    "Incluso medio borracha y tratando desesperadamente de apagar sus emociones, sigue comportándose con aplomo y confianza en sí misma."
 
 # game/code/Book-1/Chapter-7w/s08.rpy:90
 translate spanish b1c07ws08_c0d3d8d4:
@@ -140,19 +140,19 @@ translate spanish b1c07ws08_74538c10:
 translate spanish b1c07ws08_a15e4e50:
 
     # "Her words are open and cold. Implying that she wouldn't care no matter what you choose. But the shimmer in her eyes tells you otherwise."
-    "Sus palabras son abiertas y frías. Lo que implica que a ella no le importaría sin importar lo que elijas. Pero el brillo en sus ojos te dice lo contrario."
+    "Sus palabras son abiertas y frías. Da a entender que no le importará lo que elijas. Pero el brillo de sus ojos te dice lo contrario."
 
 # game/code/Book-1/Chapter-7w/s08.rpy:113
 translate spanish b1c07ws08_f1b50439:
 
     # mc "*Chuckle* Don't think I can give you much of a show when I only got this little thing on."
-    mc "*Risas* No creas que puedo darte un gran espectáculo cuando solo tengo esta cosita puesta."
+    mc "*Risas* No creo que pueda darte un gran espectáculo cuando sólo tengo esta cosita puesta."
 
 # game/code/Book-1/Chapter-7w/s08.rpy:123
 translate spanish b1c07ws08_1ff071ae:
 
     # "She replies casually, automatically, as if her thoughts aren't even here."
-    "Ella responde de manera casual y automática, como si sus pensamientos no estuvieran aquí."
+    "Responde despreocupada, automáticamente, como si sus pensamientos no estuvieran aquí."
 
 # game/code/Book-1/Chapter-7w/s08.rpy:125
 translate spanish b1c07ws08_555eebc3:
@@ -212,7 +212,7 @@ translate spanish b1c07ws08_0e170791:
 translate spanish b1c07ws08_6c663a21:
 
     # "Try as you might, however, you can't prevent Isa's body from affecting your own."
-    "Sin embargo, por mucho que lo intente, no podrá evitar que el cuerpo de Isa afecte al suyo."
+    "Sin embargo, por mucho que lo intentes, no puedes evitar que el cuerpo de Isa afecte al tuyo."
 
 # game/code/Book-1/Chapter-7w/s08.rpy:168
 translate spanish b1c07ws08_24c18824:
@@ -224,7 +224,7 @@ translate spanish b1c07ws08_24c18824:
 translate spanish b1c07ws08_d3b63ae7:
 
     # "Seeing her body glide against you was electric enough, seeing her all but present herself to you frees you of any control you had of your more stubborn parts."
-    "Ver su cuerpo deslizarse contra ti fue lo suficientemente eléctrico, verla prácticamente presentarse ante ti te libera de cualquier control que tuvieras sobre tus partes más obstinadas."
+    "Ver su cuerpo deslizarse contra ti ya era suficientemente eléctrico, pero verla presentarse ante ti te libera de cualquier control que tuvieras sobre tus partes más obstinadas."
 
 # game/code/Book-1/Chapter-7w/s08.rpy:177
 translate spanish b1c07ws08_95d96455:
@@ -356,13 +356,13 @@ translate spanish b1c07ws08_89370c00:
 translate spanish b1c07ws08_9ace2be0:
 
     # ima "Back there... Outside the gate. That was my ex."
-    ima "Allá atrás... Fuera de la puerta. Esa era mi ex"
+    ima "Allá atrás... Fuera de la puerta. Esa era mi ex."
 
 # game/code/Book-1/Chapter-7w/s08.rpy:245
 translate spanish b1c07ws08_3e3e8091:
 
     # mc "Hm. I figured considering the way she sucked your soul out."
-    mc "Hm. Pensé considerando la forma en que te chupó el alma."
+    mc "Hm. Me lo imaginé considerando la forma en que te chupó el alma."
 
 # game/code/Book-1/Chapter-7w/s08.rpy:248
 translate spanish b1c07ws08_4fb3b1f1:
@@ -416,7 +416,7 @@ translate spanish b1c07ws08_7db10597:
 translate spanish b1c07ws08_b20323c5:
 
     # "You both laugh. At that moment, Isa seems more open with you than ever before."
-    "Ambos se ríen. En ese momento, Isa parece más abierta contigo que nunca."
+    "Ambos se ríen. En ese momento, Isa parece más abierta que nunca contigo."
 
 # game/code/Book-1/Chapter-7w/s08.rpy:270
 translate spanish b1c07ws08_db0174a5:
