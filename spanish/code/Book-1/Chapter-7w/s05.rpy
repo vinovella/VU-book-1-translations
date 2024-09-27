@@ -80,7 +80,7 @@ translate spanish b1c07ws05_11c02f2c:
 translate spanish b1c07ws05_903d73c3:
 
     # sm "Guys, please. We're here to have a nice time and relax, can we not fight?"
-    sm "Chicos, por favor. Estamos aquí para pasar un buen rato y relajarnos, ¿no podemos pelearnos?"
+    sm "Chicos, por favor. Estamos aquí para pasar un buen rato y relajarnos, ¿podemos no pelearnos?"
 
 # game/code/Book-1/Chapter-7w/s05.rpy:111
 translate spanish b1c07ws05_63ab528b:
@@ -416,7 +416,7 @@ translate spanish b1c07ws05_bar_ir_eba98cc3:
 translate spanish b1c07ws05_bar_ir_67c721d5:
 
     # mm "Anything that will fuck me up."
-    mm "Cualquier cosa que me joda."
+    mm "Cualquier cosa que me haga mierda."
 
 # game/code/Book-1/Chapter-7w/s05.rpy:345
 translate spanish b1c07ws05_bar_ir_a8d5e9d9:
@@ -476,7 +476,7 @@ translate spanish b1c07ws05_bar_ir_c1e7916e:
 translate spanish b1c07ws05_bar_ir_1d8bc34c:
 
     # mc "A \"thing\"?"
-    mc "¿Un \"algo\"?"
+    mc "¿\"Algo\"?"
 
 # game/code/Book-1/Chapter-7w/s05.rpy:380
 translate spanish b1c07ws05_bar_ir_1440e779:
@@ -542,7 +542,7 @@ translate spanish b1c07ws05_bar_ir_2b5bc923:
 translate spanish b1c07ws05_bar_ir_e4db595b:
 
     # ir "No clue."
-    ir "No hay pista."
+    ir "Ni idea."
 
 # game/code/Book-1/Chapter-7w/s05.rpy:420
 translate spanish b1c07ws05_bar_ir_9c7e2d19:
@@ -608,7 +608,7 @@ translate spanish b1c07ws05_bar_ir_4b2a10a5:
 translate spanish b1c07ws05_bar_ir_0ca6072e:
 
     # mc "Knowing you, I'll have to ask for some clarification before I say anything."
-    mc "Conociéndote, tendré que pedir una aclaración antes de decir nada."
+    mc "Conociéndote, tendré que pedir una aclaración antes de decir algo."
 
 # game/code/Book-1/Chapter-7w/s05.rpy:466
 translate spanish b1c07ws05_bar_sex_b0dee8b2:
