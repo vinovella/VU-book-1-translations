@@ -14,13 +14,13 @@ translate spanish b1c07ws04_abcd4060:
 translate spanish b1c07ws04_026133c5:
 
     # mc "What, jealous?"
-    mc "¿Qué, celoso?"
+    mc "¿Qué, celosa?"
 
 # game/code/Book-1/Chapter-7w/s04.rpy:17
 translate spanish b1c07ws04_ac889ec3:
 
     # ir "Do you want me to be?"
-    ir "¿Quieres que lo sea?"
+    ir "¿Quieres que lo esté?"
 
 # game/code/Book-1/Chapter-7w/s04.rpy:21
 translate spanish b1c07ws04_00eda64c:
