@@ -392,7 +392,7 @@ translate spanish b1c07ws06_f82c5032:
 translate spanish b1c07ws06_4c603857:
 
     # mc "Interesting choice of word."
-    mc "Interesante elección de palabra."
+    mc "Interesante elección de palabras."
 
 # game/code/Book-1/Chapter-7w/s06.rpy:274
 translate spanish b1c07ws06_03a13a28:
