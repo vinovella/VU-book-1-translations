@@ -1014,9 +1014,9 @@ translate spanish strings:
 
     # game/code/hints.rpy:11
     old "Investigate Sam. Closes Isa's path for you. This puts you on Sam's path."
-    new "Investigate Sam. Closes Isa's path for you. This puts you on Sam's path."
+    new "Investigar a Sam. Te cierra el camino con Isa. Esto te pone en la ruta de Sam."
 
     # game/code/hints.rpy:11
     old "Investigate Isa. Closes Sam's path for you. This puts you on Isa's path."
-    new "Investigate Isa. Closes Sam's path for you. This puts you on Isa's path."
+    new "Investigar a Isa. Cierra el camino de Sam para ti. Esto te pone en la ruta de Isa."
 
