@@ -50,7 +50,7 @@ translate spanish strings:
 
     # game/code/data/achievement_gallery.rpy:5
     old "07: Bagging Bookworms"
-    new "07: Embolsar a los ratones de biblioteca"
+    new "07: Embolsar ratones de biblioteca"
 
     # game/code/data/achievement_gallery.rpy:5
     old "Play Irene's path."
@@ -238,7 +238,7 @@ translate spanish strings:
 
     # game/code/data/achievement_gallery.rpy:5
     old "Click the Butcher's street background character."
-    new "Haz clic en el personaje de fondo de la calle del Carnicero."
+    new "Haz clic en el personaje de la calle del Carnicero."
 
     # game/code/data/achievement_gallery.rpy:5
     old "31: Meat Lovers"
