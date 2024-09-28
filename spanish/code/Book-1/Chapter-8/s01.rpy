@@ -50,7 +50,7 @@ translate spanish b1c08s01_53ff10b1:
 translate spanish b1c08s01_4aab9dc2:
 
     # mc "Promised Josie and Lara I'd be over for Monopolli and makeup night."
-    mc "Les prometí a Josie y Lara que iría a Monopolli y a la noche de maquillaje."
+    mc "Les prometí a Josie y Lara que iría a la noche de Monopolli y a la de maquillaje."
 
 # game/code/Book-1/Chapter-8/s01.rpy:56
 translate spanish b1c08s01_892c5fa6:
@@ -236,7 +236,7 @@ translate spanish b1c08s01_end_3c065be5:
 translate spanish b1c08s01_end_f0943bb8:
 
     # mc "I've missed you, y'know."
-    mc "Te he extrañado, ¿sabes?"
+    mc "Te he extrañado, ¿sabes?."
 
 # game/code/Book-1/Chapter-8/s01.rpy:251
 translate spanish b1c08s01_end_44ee717c:
@@ -290,7 +290,7 @@ translate spanish b1c08s01_recap_c06w_b0060573:
 translate spanish b1c08s01_recap_c06w_247fab1e:
 
     # mc "Brigitta, Iona, Monika, Simon, Olesya, and Me."
-    mc "Brigitta, Iona, Monika, Simon, Olesya y yo."
+    mc "Brigitta, Iona, Mónica, Simon, Olesya y yo."
 
 # game/code/Book-1/Chapter-8/s01.rpy:278
 translate spanish b1c08s01_recap_c06w_a6a1049b:
@@ -482,7 +482,7 @@ translate spanish b1c08s01_recap_c07w_39acfb1f:
 translate spanish b1c08s01_recap_c07w_8a21b0e4:
 
     # mc "I helped scare them straight."
-    mc "Ayudé a asustarlos directamente."
+    mc "Ayudé a asustarlos."
 
 # game/code/Book-1/Chapter-8/s01.rpy:352
 translate spanish b1c08s01_recap_c07w_a0a5e311:
@@ -1376,7 +1376,7 @@ translate spanish b1c08s01_continue_a71b8d4e:
 translate spanish b1c08s01_continue_5090907e:
 
     # pm "Tell you what, I'll do some digging into [b1c08s01_lowest_points_name!t] on my end. Two sets of eyes are better than one."
-    pm "Te diré una cosa, investigaré un poco en [b1c08s01_lowest_points_name!t] por mi parte. Dos pares de ojos ven mejor que uno."
+    pm "Te diré una cosa, yo también investigaré un poco en [b1c08s01_lowest_points_name!t]. Dos pares de ojos ven mejor que uno."
 
 # game/code/Book-1/Chapter-8/s01.rpy:224
 translate spanish b1c08s01_continue_89d0ffa1:
