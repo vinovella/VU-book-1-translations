@@ -14,7 +14,7 @@ translate spanish b1c08ws04_8e0070fb:
 translate spanish b1c08ws04_232db0e3:
 
     # mm "*Snorts* Don't flatter yourself, Charming."
-    mm "*Resopla* No te hagas ilusiones, Encantador."
+    mm "*Resopla* No te hagas ilusiones, Encanto."
 
 # game/code/Book-1/Chapter-8w/s04.rpy:43
 translate spanish b1c08ws04_d95d6188:
@@ -260,7 +260,7 @@ translate spanish b1c08ws04_continue_ea5302c0:
 translate spanish b1c08ws04_continue_c569f380:
 
     # mc "*Chuckles* We are, and that's exactly why I think you'd agree, that we should get as much sleep as possible to keep our energy up for the big game."
-    mc "*Risas* Lo somos, y es exactamente por eso que creo que estarías de acuerdo, que debemos dormir lo más posible para mantener nuestra energía para el gran juego."
+    mc "*Risas*  Así es, y precisamente por eso creo que estarás de acuerdo en que debemos dormir todo lo posible para mantenernos con energía para el gran partido."
 
 # game/code/Book-1/Chapter-8w/s04.rpy:173
 translate spanish b1c08ws04_continue_8f48e89b:
@@ -344,13 +344,13 @@ translate spanish b1c08ws04_sex_c14eb846:
 translate spanish b1c08ws04_sex_f99b2c51:
 
     # mm "Good boy, nice and hard for me."
-    mm "Buen chico, simpático y duro para mí."
+    mm "Buen chico, agradable y duro para mí."
 
 # game/code/Book-1/Chapter-8w/s04.rpy:251
 translate spanish b1c08ws04_sex_5cdc5191:
 
     # "Monika slides her wetness on top of your shaft, pushing herself onto you as she grinds against you, rubbing her slick clit up and down the length of your hard cock."
-    "Mónica desliza su humedad sobre tu eje, empujándose hacia ti mientras se frota contra ti, frotando su resbaladizo clítoris hacia arriba y hacia abajo a lo largo de tu dura polla."
+    "Monika desliza su humedad sobre tu pene, empujándose contra ti mientras se restriega contra ti, frotando su clítoris resbaladizo de arriba abajo a lo largo de tu dura polla."
 
 # game/code/Book-1/Chapter-8w/s04.rpy:258
 translate spanish b1c08ws04_sex_68cced9d:
@@ -482,7 +482,7 @@ translate spanish b1c08ws04_sex_41b47d8c:
 translate spanish b1c08ws04_sex_d0a81245:
 
     # "Monika shakes with laughter, her body warm against yours."
-    "Mónica tiembla de risa, con su cuerpo cálido junto al tuyo."
+    "Mónica se ríe a carcajadas, con su cuerpo caliente contra el tuyo."
 
 # game/code/Book-1/Chapter-8w/s04.rpy:340
 translate spanish b1c08ws04_sex_d400e8b4:
