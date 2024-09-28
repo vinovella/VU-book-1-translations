@@ -32,7 +32,7 @@ translate spanish b1c08ws05_e80890c3:
 translate spanish b1c08ws05_d8207dc5:
 
     # sl "I can't help it, asshole. I got a deviated septum!"
-    sl "No puedo evitarlo, imbécil. ¡Tengo el tabique desviado!"
+    sl "No puedo evitarlo, Idiota. ¡Tengo el tabique desviado!"
 
 # game/code/Book-1/Chapter-8w/s05.rpy:37
 translate spanish b1c08ws05_1fdf4034:
@@ -86,7 +86,7 @@ translate spanish b1c08ws05_4ba56598:
 translate spanish b1c08ws05_8b63dfac:
 
     # sl "I'm literally like 10 feet away and you were moaning like a damn banshee."
-    sl "Estaba literalmente a 10 pies de distancia y tú gemías como una maldita alma en pena."
+    sl "Estaba literalmente a 10 pasos de distancia y tú gemías como una maldita alma en pena."
 
 # game/code/Book-1/Chapter-8w/s05.rpy:63
 translate spanish b1c08ws05_bb1e6059:
@@ -98,7 +98,7 @@ translate spanish b1c08ws05_bb1e6059:
 translate spanish b1c08ws05_71a2aba4:
 
     # mc "*Chuckles* Guys, c'mon. What happened, happened. Right now, we gotta get ready for that conference thing."
-    mc "*Risas* Chicos, vamos. Lo que pasó, pasó. Ahora mismo tenemos que prepararnos para esa conferencia."
+    mc "*Risas* Chicos, vamos. Lo que pasó, pasó. En este momento tenemos que prepararnos para esa conferencia."
 
 # game/code/Book-1/Chapter-8w/s05.rpy:69
 translate spanish b1c08ws05_0fbc3fbe:
@@ -170,13 +170,13 @@ translate spanish b1c08ws05_0855eb0b:
 translate spanish b1c08ws05_6682b168:
 
     # ec "*Giggles* Of course, we love to admire your team. Such talent."
-    ec "*Risitas* Por supuesto, nos encanta admirar a su equipo. Tanto talento."
+    ec "*Risitas*  Por supuesto, nos encanta admirar a su equipo. Cuánto talento."
 
 # game/code/Book-1/Chapter-8w/s05.rpy:139
 translate spanish b1c08ws05_94f4a06c:
 
     # don "And such...form."
-    don "Y tan... en forma."
+    don "Y con tanta... forma."
 
 # game/code/Book-1/Chapter-8w/s05.rpy:142
 translate spanish b1c08ws05_8ba7909e:
@@ -290,7 +290,7 @@ translate spanish b1c08ws05_08b4c891:
 translate spanish b1c08ws05_78fbc2da:
 
     # don "Bet you want to try and get some info out of her don't you?"
-    don "Apuesto a que quieres intentar sacarle algo de información, ¿no?"
+    don "Apuesto a que quiere intentar sacarle algo de información, ¿no?"
 
 # game/code/Book-1/Chapter-8w/s05.rpy:186
 translate spanish b1c08ws05_bd972fac:
@@ -338,7 +338,7 @@ translate spanish b1c08ws05_425b24fb:
 translate spanish b1c08ws05_72c04c61:
 
     # mct "Guess it'll be a lesson to not be so trusting."
-    mct "Supongo que será una lección para no confiar tanto."
+    mct "Supongo que será una lección para no ser tan confiadas."
 
 # game/code/Book-1/Chapter-8w/s05.rpy:216
 translate spanish b1c08ws05_a97e5fb9:
@@ -398,7 +398,7 @@ translate spanish b1c08ws05_700d295e:
 translate spanish b1c08ws05_01980f0e:
 
     # tw "*Smiles* Of course."
-    tw "*sonríe* Por supuesto."
+    tw "*Sonríe* Por supuesto."
 
 # game/code/Book-1/Chapter-8w/s05.rpy:241
 translate spanish b1c08ws05_cc99b499:
@@ -410,7 +410,7 @@ translate spanish b1c08ws05_cc99b499:
 translate spanish b1c08ws05_df1c024a:
 
     # mc "Nice to meet you all."
-    mc "Encantado de conocerlos a todos."
+    mc "Encantado de conocerlos a los dos."
 
 # game/code/Book-1/Chapter-8w/s05.rpy:245
 translate spanish b1c08ws05_cbb4f702:
@@ -428,7 +428,7 @@ translate spanish b1c08ws05_f458a7d8:
 translate spanish b1c08ws05_60820be4:
 
     # tw "Is it about some of our members spying on your team?"
-    tw "¿Se trata de que algunos de nuestros miembros espían a su equipo?"
+    tw "¿Se trata de que algunos de nuestros miembros espían a tu equipo?"
 
 # game/code/Book-1/Chapter-8w/s05.rpy:254
 translate spanish b1c08ws05_ca3b5c0b:
