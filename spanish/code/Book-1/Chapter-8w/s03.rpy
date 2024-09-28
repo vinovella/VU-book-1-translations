@@ -80,7 +80,7 @@ translate spanish b1c08ws03_090728f9:
 translate spanish b1c08ws03_2faf26db:
 
     # "You rub your brow in tired amusement."
-    "Te frotas la frente con cansada diversión."
+    "Te frotas la frente con un gesto de cansancio."
 
 # game/code/Book-1/Chapter-8w/s03.rpy:58
 translate spanish b1c08ws03_d1266bce:

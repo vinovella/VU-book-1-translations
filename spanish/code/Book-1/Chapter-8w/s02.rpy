@@ -2,13 +2,13 @@
 translate spanish b1c08ws02_4358e980:
 
     # "The bus rumbles down the highway, carrying the team to their next tournament."
-    "El autobús avanza ruidosamente por la carretera y lleva al equipo a su próximo torneo."
+    "El autobús avanza por la autopista, llevando al equipo a su siguiente torneo."
 
 # game/code/Book-1/Chapter-8w/s02.rpy:16
 translate spanish b1c08ws02_02d66e79:
 
     # "They seem remarkably relaxed now that they're finally on the road."
-    "Parecen notablemente relajados ahora que finalmente están de viaje."
+    "Parecen muy relajados ahora que por fin están en la carretera."
 
 # game/code/Book-1/Chapter-8w/s02.rpy:19
 translate spanish b1c08ws02_ddd0922d:
@@ -134,7 +134,7 @@ translate spanish b1c08ws02_371a81f3:
 translate spanish b1c08ws02_66a5117a:
 
     # mc "*Chuckles*"
-    mc "*risas*"
+    mc "*Risas*"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:78
 translate spanish b1c08ws02_8690219b:
@@ -146,7 +146,7 @@ translate spanish b1c08ws02_8690219b:
 translate spanish b1c08ws02_1c2510e3:
 
     # sl "Alright, sluts! Listen up! How about we play a game of Two Truths and a Lie mixed with Charades? We've got time to kill before we reach the tournament and Brig said she's down."
-    sl "¡Muy bien, zorras! ¡ Escuchen ! ¿Qué tal si jugamos un juego de Dos Verdades y una Mentira mezclado con Charadas? Tenemos tiempo que matar antes de llegar al torneo y Brig ha dicho que se apunta."
+    sl "¡Muy bien, zorras! ¡Escuchen! ¿Qué tal si jugamos un juego de Dos Verdades y una Mentira mezclado con Charadas? Tenemos tiempo que matar antes de llegar al torneo y Brig ha dicho que se apunta."
 
 # game/code/Book-1/Chapter-8w/s02.rpy:84
 translate spanish b1c08ws02_64e5aa15:
@@ -224,7 +224,7 @@ translate spanish b1c08ws02_3844f5af:
 translate spanish b1c08ws02_45d9357f:
 
     # sl "Great. I'll start us off then."
-    sl "Excelente. Entonces empezaré con nosotros."
+    sl "Excelente. Entonces empezaré yo."
 
 # game/code/Book-1/Chapter-8w/s02.rpy:121
 translate spanish b1c08ws02_589d1b54:
@@ -260,7 +260,7 @@ translate spanish b1c08ws02_0fc4ad1f:
 translate spanish b1c08ws02_f43140ec:
 
     # "You know you should put an end to this, but you can't help but be turned on by the risk of it either."
-    "Sabes que debes poner fin a esto, pero tampoco puedes evitar sentirte excitado por el riesgo."
+    "Sabes que debes poner fin a esto, pero tampoco puedes evitar sentirte emocionado por el riesgo."
 
 # game/code/Book-1/Chapter-8w/s02.rpy:150
 translate spanish b1c08ws02_d2dce9b4:
@@ -464,7 +464,7 @@ translate spanish b1c08ws02_dd73f62b:
 translate spanish b1c08ws02_58dd1f40:
 
     # sl "That's correct. And remember, they should be interesting or funny. We want to keep this entertaining."
-    sl "Eso es correcto. Y recuerda, deben ser interesantes o divertidos. Queremos que esto sea entretenido."
+    sl "Eso es correcto. Y recuerda, deben ser interesantes o divertidas. Queremos que esto sea entretenido."
 
 # game/code/Book-1/Chapter-8w/s02.rpy:248
 translate spanish b1c08ws02_a411b581:
@@ -626,7 +626,7 @@ translate spanish b1c08ws02_aab83b68:
 translate spanish b1c08ws02_d13e11ff:
 
     # "You mimic the movements of playing a piano, your fingers dancing in the air."
-    "Imitas los movimientos de tocar el piano, tus dedos bailando en el aire."
+    "Imitas los movimientos de tocar un piano, con los dedos bailando en el aire."
 
 # game/code/Book-1/Chapter-8w/s02.rpy:360
 translate spanish b1c08ws02_055431c8:
@@ -1076,7 +1076,7 @@ translate spanish b1c08ws02_8d5f5a85:
 translate spanish b1c08ws02_42fdbdb4:
 
     # "Expressions of frustration and concern ripple through the group."
-    "Expresiones de frustración y preocupación recorren el grupo."
+    "Expresiones de frustración y preocupación recorren a todo el grupo."
 
 # game/code/Book-1/Chapter-8w/s02.rpy:600
 translate spanish b1c08ws02_d052456f:

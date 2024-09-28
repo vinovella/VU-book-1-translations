@@ -68,7 +68,7 @@ translate spanish b1c07ws10_return_4eceb409:
 translate spanish b1c07ws10_return_ed505f56:
 
     # mct "She seems to have a lot of power for a student, and seems to be connected to the club deeper than through {i}just{/i} the volleyball team."
-    mct "Parece tener mucho poder para ser una estudiante, y parece estar más conectada con el club que a través de {i}sólo{/i} el equipo de voleibol."
+    mct "Ella parece tener mucho poder para ser una estudiante, y parece estar conectada al club de manera más profunda que a través de {i}sólo{/i} el equipo de voleibol."
 
 # game/code/Book-1/Chapter-7w/s10.rpy:105
 translate spanish b1c07ws10_return_4475e55b:

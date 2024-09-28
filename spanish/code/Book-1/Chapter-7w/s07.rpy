@@ -218,7 +218,7 @@ translate spanish b1c07ws07_29a91e90:
 translate spanish b1c07ws07_ab88e157:
 
     # sdl "You can break, come undone."
-    sdl "Puedes romper, deshacerte."
+    sdl "Puedes romperte, desmoronarte."
 
 # game/code/Book-1/Chapter-7w/s07.rpy:134
 translate spanish b1c07ws07_2a586002:
@@ -230,7 +230,7 @@ translate spanish b1c07ws07_2a586002:
 translate spanish b1c07ws07_e7810184:
 
     # sdl "Disappear. Leave me behind. The only thing I ask..."
-    sdl "Desaparece. Déjame atrás. Lo único que pido..."
+    sdl "Desaparecer. Dejarme atrás. Lo único que pido..."
 
 # game/code/Book-1/Chapter-7w/s07.rpy:137
 translate spanish b1c07ws07_870928fb:

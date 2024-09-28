@@ -308,7 +308,7 @@ translate spanish b1c08ws01_0adb92e7:
 translate spanish b1c08ws01_19b313ff:
 
     # "A chuckle escapes from everyone in the group."
-    "Una risa se escapa de todos en el grupo."
+    "A todos los miembros del grupo se les escapa una risita."
 
 # game/code/Book-1/Chapter-8w/s01.rpy:190
 translate spanish b1c08ws01_97d6cbb9:
