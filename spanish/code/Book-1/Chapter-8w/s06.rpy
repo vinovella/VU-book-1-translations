@@ -8,7 +8,7 @@ translate spanish b1c08ws06_39ecabba:
 translate spanish b1c08ws06_65c1115a:
 
     # ir "You'll see soon enough. I'm not gonna do anything to sway you one way or another."
-    ir "Lo verás muy pronto. No haré nada para convencerte de un modo u otro."
+    ir "Pronto lo verás. De todas formas, no voy a hacer nada para convencerte."
 
 # game/code/Book-1/Chapter-8w/s06.rpy:12
 translate spanish b1c08ws06_40aea990:
@@ -236,7 +236,7 @@ translate spanish b1c08ws06_f3360a97:
 translate spanish b1c08ws06_58ea9b15:
 
     # mc "I didn't expect this... But, we're The Winners. We'll do whatever it takes to crush our opponents. Right?"
-    mc "No esperaba esto... Pero somos los ganadores. Haremos lo que sea necesario para aplastar a nuestros oponentes. ¿Bien?"
+    mc "No esperaba esto... Pero somos Los Ganadores. Haremos lo que sea necesario para aplastar a nuestros oponentes. ¿Bien?"
 
 # game/code/Book-1/Chapter-8w/s06.rpy:118
 translate spanish b1c08ws06_7de3549e:
