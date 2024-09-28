@@ -342,7 +342,7 @@ translate spanish strings:
 
     # game/code/data/achievement_gallery.rpy:5
     old "Get blue balled by Nia and Zemfira at the party."
-    new "Nia y Zemfira te dejen con las bolas azules en la fiesta."
+    new "Estás con las bolas azules gracias Nia y Zemfira."
 
     # game/code/data/achievement_gallery.rpy:5
     old "44: Escaping the Matrix"
@@ -350,7 +350,7 @@ translate spanish strings:
 
     # game/code/data/achievement_gallery.rpy:5
     old "Click the unclickable option in the nightmare."
-    new "Haz clic en la opción no seleccionable de la pesadilla."
+    new "Haz clic en la opción no clicable de la pesadilla."
 
     # game/code/data/achievement_gallery.rpy:5
     old "45: Behind the Scenes"
