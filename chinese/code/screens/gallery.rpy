@@ -36,3 +36,7 @@ translate chinese strings:
     old "Character Filter: [character_filter!t]"
     new "角色筛选器：[character_filter!t]"
 
+    # renpy/common/00gallery.rpy:610
+    old "Prev"
+    new "上一页"
+

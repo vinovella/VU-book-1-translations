@@ -36,3 +36,7 @@ translate portuguese strings:
     old "Character Filter: [character_filter!t]"
     new "Filtro de Personagem: [character_filter!t]"
 
+    # renpy/common/00gallery.rpy:610
+    old "Prev"
+    new "Anter."
+

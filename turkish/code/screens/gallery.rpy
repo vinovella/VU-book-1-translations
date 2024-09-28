@@ -36,3 +36,7 @@ translate turkish strings:
     old "Character Filter: [character_filter!t]"
     new "Karakter Filtresi: [character_filter!t]"
 
+    # renpy/common/00gallery.rpy:647
+    old "Prev"
+    new "Önceki"
+

@@ -36,3 +36,7 @@ translate spanish strings:
     old "Achievements"
     new "Logros"
 
+    # renpy/common/00gallery.rpy:647
+    old "Prev"
+    new "Anterior"
+
