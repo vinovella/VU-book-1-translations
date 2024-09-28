@@ -32,7 +32,7 @@ translate spanish b1c08ws08_7bc97bfa:
 translate spanish b1c08ws08_532f6b3f:
 
     # mm "Good one."
-    mm "Muy buena."
+    mm "Muy buena idea la tuya."
 
 # game/code/Book-1/Chapter-8w/s08.rpy:59
 translate spanish b1c08ws08_d6c314e9:
@@ -56,7 +56,7 @@ translate spanish b1c08ws08_efed2a40:
 translate spanish b1c08ws08_d2b184ae:
 
     # ir "He looked like he was about to pass out during the match. What if he had a fucking heart attack and died!?"
-    ir "Parecía a punto de desmayarse durante el partido. ¿¡Qué pasa si tuvo un maldito ataque al corazón y muere!?"
+    ir "Parecía a punto de desmayarse durante el juego. ¿¡Qué pasa si tuvo un maldito ataque al corazón y muere!?"
 
 # game/code/Book-1/Chapter-8w/s08.rpy:69
 translate spanish b1c08ws08_a39dd15f:
@@ -254,7 +254,7 @@ translate spanish b1c08ws08_df0b7686:
 translate spanish b1c08ws08_395eb657:
 
     # tw "Look, I don't want to pry, but if you were in some kind of trouble, you can tell me."
-    tw "Mira, no quiero entrometerme, pero si estuvieras en algún tipo de problema, puedes decírmelo."
+    tw "Mira, no quiero entrometerme, pero si tuviste algún problema, puedes decírmelo."
 
 # game/code/Book-1/Chapter-8w/s08.rpy:170
 translate spanish b1c08ws08_06ad219d:
@@ -386,13 +386,13 @@ translate spanish b1c08ws08_f71c8d53:
 translate spanish b1c08ws08_05ee22cb:
 
     # tw "You aren't like any of the other The Winners people I've interacted with."
-    tw "No eres como ninguna otra gente de Los Ganadores con la que he interactuado."
+    tw "No eres como ninguna de las otras personas de Los Ganadores con las que he interactuado."
 
 # game/code/Book-1/Chapter-8w/s08.rpy:222
 translate spanish b1c08ws08_8533756f:
 
     # mc "Isn't there more to all of us if you dig deep enough?"
-    mc "¿No hay más para todos nosotros si profundizamos lo suficiente?"
+    mc "¿No hay algo más en todos nosotros si indagamos lo suficiente?"
 
 # game/code/Book-1/Chapter-8w/s08.rpy:223
 translate spanish b1c08ws08_0f2dca4d:
@@ -416,7 +416,7 @@ translate spanish b1c08ws08_fd01dcb1:
 translate spanish b1c08ws08_55af2f58:
 
     # mc "I've been known to take a chance or two."
-    mc "Se me conoce por arriesgarme un par de veces."
+    mc "Soy conocido por correr algún que otro riesgo."
 
 # game/code/Book-1/Chapter-8w/s08.rpy:231
 translate spanish b1c08ws08_8c2f425e:
@@ -464,7 +464,7 @@ translate spanish b1c08ws08_133bb31f:
 translate spanish b1c08ws08_a21217f7:
 
     # tw "Not exactly the best at deciphering signals."
-    tw "No es precisamente el mejor descifrando señales."
+    tw "No es exactamente el mejor descifrando señales."
 
 # game/code/Book-1/Chapter-8w/s08.rpy:265
 translate spanish b1c08ws08_1852cc21:
@@ -524,7 +524,7 @@ translate spanish b1c08ws08_sex_c91c3784:
 translate spanish b1c08ws08_sex_c142bc87:
 
     # "Your cock stiffens almost painfully at the feeling of her fingers on it."
-    "Tu polla se pone rígida casi dolorosamente al sentir sus dedos sobre ella."
+    "Tu polla se endurece casi dolorosamente al sentir sus dedos sobre ella."
 
 # game/code/Book-1/Chapter-8w/s08.rpy:293
 translate spanish b1c08ws08_sex_e8c1facc:
@@ -602,7 +602,7 @@ translate spanish b1c08ws08_sex_c803146a:
 translate spanish b1c08ws08_sex_dc798966:
 
     # tw "Fuck me hard just like that."
-    tw "Fóllame fuerte así."
+    tw "Fóllame fuerte."
 
 # game/code/Book-1/Chapter-8w/s08.rpy:372
 translate spanish b1c08ws08_sex_e3bfb7cb:
@@ -686,7 +686,7 @@ translate spanish b1c08ws08_sex_62993a1b:
 translate spanish b1c08ws08_sex_3f7409fa:
 
     # "You angle your cock up to Tiana's pussy and push yourself in."
-    "Inclinas tu polla hacia el coño de Tiana y te empujas hacia adentro."
+    "Inclinas la polla hacia el coño de Tiana y te introduces."
 
 # game/code/Book-1/Chapter-8w/s08.rpy:424
 translate spanish b1c08ws08_sex_92fff278:
@@ -734,13 +734,13 @@ translate spanish b1c08ws08_sex_04df111e:
 translate spanish b1c08ws08_sex_0197e257:
 
     # mc "Tiana— I"
-    mc "Tiana—yo"
+    mc "Tiana... yo"
 
 # game/code/Book-1/Chapter-8w/s08.rpy:455
 translate spanish b1c08ws08_sex_7f749059:
 
     # "Tiana grabs you and bucks against your cock wildly to make sure you have no option but to fill her up with all your cum."
-    "Tiana te agarra y golpea tu polla salvajemente para asegurarse de que no tengas otra opción que llenarla con todo tu semen."
+    "Tiana te agarra y se agita contra tu polla salvajemente para asegurarse de que no tienes más opción que llenarla con todo tu semen."
 
 # game/code/Book-1/Chapter-8w/s08.rpy:459
 translate spanish b1c08ws08_sex_4d568008:
@@ -764,7 +764,7 @@ translate spanish b1c08ws08_sex_1fab95c3:
 translate spanish b1c08ws08_sex_7aa91262:
 
     # mc "*Breathy chuckle* Yeah..."
-    mc "*Risita entrecortada* Sí..."
+    mc "*Risa ahogada* Sí..."
 
 # game/code/Book-1/Chapter-8w/s08.rpy:474
 translate spanish b1c08ws08_sex_c6be33b4:
@@ -788,7 +788,7 @@ translate spanish b1c08ws08_end_3ea48173:
 translate spanish b1c08ws08_end_d6263ef9:
 
     # mc "I should probably get going though. My team's probably wondering where I am by now."
-    mc "Probablemente debería irme. Probablemente mi equipo se esté preguntando dónde estoy ahora."
+    mc "Probablemente debería irme. Mi equipo se debe estar preguntando dónde estoy ahora."
 
 # game/code/Book-1/Chapter-8w/s08.rpy:494
 translate spanish b1c08ws08_end_c77093ac:
@@ -830,7 +830,7 @@ translate spanish b1c08ws08_end_38d21925:
 translate spanish b1c08ws08_end_be71a2e6:
 
     # mc "Sounds perfect. Thanks again, Tiana."
-    mc "Se escucha perfecto. Gracias de nuevo, Tiana."
+    mc "Suena perfecto. Gracias de nuevo, Tiana."
 
 # game/code/Book-1/Chapter-8w/s08.rpy:510
 translate spanish b1c08ws08_end_0ca929f2:
