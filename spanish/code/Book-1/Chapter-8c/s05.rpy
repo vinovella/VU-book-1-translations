@@ -32,7 +32,7 @@ translate spanish b1c08cs05_3d42eb4c:
 translate spanish b1c08cs05_c9c7c7f7:
 
     # mct "Who knows that they could be hiding in some secret cave? Especially if it has something to do with Maria..."
-    mct "¿Quién sabe que podrían estar escondiéndose en alguna cueva secreta? Especialmente si tiene algo que ver con María..."
+    mct "¿Quién sabe que podrían estar escondidos en alguna cueva secreta? Especialmente si tiene algo que ver con María..."
 
 # game/code/Book-1/Chapter-8c/s05.rpy:74
 translate spanish b1c08cs05_ef1644d7:
@@ -200,7 +200,7 @@ translate spanish b1c08cs05_a8acea92:
 translate spanish b1c08cs05_07d98e13:
 
     # sta "The Prophet has come here to carry out the will of Narurra."
-    sta "El Profeta ha venido aquí para cumplir la voluntad de Narurra."
+    sta "La Profeta ha venido aquí para cumplir la voluntad de Narurra."
 
 # game/code/Book-1/Chapter-8c/s05.rpy:163
 translate spanish b1c08cs05_93229a38:
@@ -350,7 +350,7 @@ translate spanish b1c08cs05_ef20d8b6:
 translate spanish b1c08cs05_2e2ae704:
 
     # ys "Nothing. I just came. There's no contractions yet."
-    ys "Nada. Acabo de correrme. Aún no hay contracciones."
+    ys "Nada. Me acabo de correr. Y aún no hay contracciones."
 
 # game/code/Book-1/Chapter-8c/s05.rpy:318
 translate spanish b1c08cs05_51b5ff8d:
