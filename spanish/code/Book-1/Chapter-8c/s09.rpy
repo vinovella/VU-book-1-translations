@@ -2,7 +2,7 @@
 translate spanish b1c08cs09_032cd161:
 
     # mct "Delphia said she'd talk to Ivy and Andre this morning..."
-    mct "Delphia dijo que hablaría con Ivy y Andre esta mañana..."
+    mct "Delphia dijo que hablaría con Ivy y André esta mañana..."
 
 # game/code/Book-1/Chapter-8c/s09.rpy:16
 translate spanish b1c08cs09_2f35362e:
@@ -26,7 +26,7 @@ translate spanish b1c08cs09_e9aceaf2:
 translate spanish b1c08cs09_d3c11706:
 
     # "Morning dawns in the commune cabin, the image of a peaceful sanctuary if not for the tense conflict inside."
-    "Amanece en la cabaña de la comunidad, la imagen de un santuario pacífico si no fuera por el tenso conflicto que se vive en su interior."
+    "Amanece en la cabaña de la comunidad, sería la imagen de un santuario pacífico si no fuera por el tenso conflicto que se vive en su interior."
 
 # game/code/Book-1/Chapter-8c/s09.rpy:33
 translate spanish b1c08cs09_115544fb:
@@ -80,7 +80,7 @@ translate spanish b1c08cs09_6825affd:
 translate spanish b1c08cs09_c3f8f02d:
 
     # "A smirk crosses your lips as you lock eyes with Andre, knowing it infuriates him that Ivy prefers your company to his."
-    "Una sonrisa cruza tus labios mientras miras a Andre, sabiendo que le enfurece que Ivy prefiera tu compañía a la suya."
+    "Una sonrisa cruza tus labios mientras miras a André, sabiendo que le enfurece que Ivy prefiera tu compañía a la suya."
 
 # game/code/Book-1/Chapter-8c/s09.rpy:61
 translate spanish b1c08cs09_f5821d8a:
@@ -110,7 +110,7 @@ translate spanish b1c08cs09_9005aa69:
 translate spanish b1c08cs09_cfbbf64f:
 
     # ih "*Chuckles* I have seen Andre nit-pick many participants over the years."
-    ih "*Risas* He visto a Andre criticar a muchos participantes a lo largo de los años."
+    ih "*Risas* He visto a André criticar a muchos participantes a lo largo de los años."
 
 # game/code/Book-1/Chapter-8c/s09.rpy:71
 translate spanish b1c08cs09_06123ed4:
@@ -134,7 +134,7 @@ translate spanish b1c08cs09_9257c3c3:
 translate spanish b1c08cs09_400a7aac:
 
     # "Andre and Delphia's discussion distracts you and Ivy."
-    "La discusión de Andre y Delphia te distrae a ti y a Ivy."
+    "La discusión de André y Delphia te distrae a ti y a Ivy."
 
 # game/code/Book-1/Chapter-8c/s09.rpy:79
 translate spanish b1c08cs09_6a4bb3c3:
@@ -164,13 +164,13 @@ translate spanish b1c08cs09_73caa730:
 translate spanish b1c08cs09_f79b2ab8:
 
     # "Ivy gives an impatient huff, bored of Andre and Delphia's bickering."
-    "Ivy da un resoplido impaciente, aburrida de las discusiones de Andre y Delphia."
+    "Ivy da un resoplido impaciente, aburrida de las discusiones de André y Delphia."
 
 # game/code/Book-1/Chapter-8c/s09.rpy:89
 translate spanish b1c08cs09_b6f4a197:
 
     # ih "Andre, darling. Don't you think you're being a bit harsh? [mcname] hasn't done anything blatantly offensive."
-    ih "Andre, cariño. ¿No crees que estás siendo un poco duro? [mcname] no ha hecho nada descaradamente ofensivo."
+    ih "André, cariño. ¿No crees que estás siendo un poco duro? [mcname] no ha hecho nada descaradamente ofensivo."
 
 # game/code/Book-1/Chapter-8c/s09.rpy:90
 translate spanish b1c08cs09_015d10ef:
@@ -194,7 +194,7 @@ translate spanish b1c08cs09_085de283:
 translate spanish b1c08cs09_bed3820c:
 
     # ih "Who truly decides readiness, Andre?"
-    ih "¿Quién decide realmente la preparación, Andre?"
+    ih "¿Quién decide realmente la preparación, André?"
 
 # game/code/Book-1/Chapter-8c/s09.rpy:102
 translate spanish b1c08cs09_9400a54f:
@@ -212,7 +212,7 @@ translate spanish b1c08cs09_b41786b5:
 translate spanish b1c08cs09_cdd81105:
 
     # "Andre averts his gaze, frustrated and ashamed."
-    "Andre desvía la mirada, frustrado y avergonzado."
+    "André desvía la mirada, frustrado y avergonzado."
 
 # game/code/Book-1/Chapter-8c/s09.rpy:111
 translate spanish b1c08cs09_43c3f623:
@@ -260,13 +260,13 @@ translate spanish b1c08cs09_e6631837:
 translate spanish b1c08cs09_2fa56644:
 
     # "Nia tugs on your hand and gets you to stand with her."
-    "Nia tira de tu mano y te hace pararte con ella."
+    "Nia te tira de la mano y hace que te pongas de pie con ella."
 
 # game/code/Book-1/Chapter-8c/s09.rpy:128
 translate spanish b1c08cs09_eddeb0e8:
 
     # nv "C'mon. We should have some say in our spiritual journey together, rather than letting these people tell us what we can and can't do."
-    nv "Vamos. Deberíamos tener algo que decir en nuestro viaje espiritual juntos, en lugar de dejar que estas personas nos digan lo que podemos y no podemos hacer."
+    nv "Vamos. Deberíamos tener algo que decir en nuestro viaje espiritual, en lugar de dejar que estas personas nos digan lo que podemos y no podemos hacer."
 
 # game/code/Book-1/Chapter-8c/s09.rpy:130
 translate spanish b1c08cs09_7b7d6be9:
@@ -284,13 +284,13 @@ translate spanish b1c08cs09_d9befa0e:
 translate spanish b1c08cs09_0b67996f:
 
     # nv "We won't know our limits unless we push them, Andre. And what better time than now"
-    nv "No conoceremos nuestros límites a menos que los superemos, Andre. Y que mejor momento que ahora."
+    nv "No conoceremos nuestros límites a menos que los superemos, André. Y que mejor momento que ahora."
 
 # game/code/Book-1/Chapter-8c/s09.rpy:144
 translate spanish b1c08cs09_e7d16713:
 
     # nv "While we are here where everyone can witness our virtue and devotion to this place, this {i}community{/i}?"
-    nv "¿Mientras estemos aquí donde todos puedan ser testigos de nuestra virtud y devoción a este lugar, esta {i}comunidad{/i}?"
+    nv "¿Mientras estemos aquí donde todos puedan ser testigos de nuestra virtud y devoción a este lugar, a esta {i}comunidad{/i}?"
 
 # game/code/Book-1/Chapter-8c/s09.rpy:147
 translate spanish b1c08cs09_5b70737f:
@@ -314,7 +314,7 @@ translate spanish b1c08cs09_a01defb0:
 translate spanish b1c08cs09_013d86b5:
 
     # "Andre rubs his temples, as if burdened by the weight of a decision that really isn't even up to him. It's up to Narurra, if what Ivy says holds any weight."
-    "Andre se frota las sienes, como si estuviera agobiado por el peso de una decisión que en realidad ni siquiera depende de él. Depende de Narurra si lo que dice Ivy tiene algún peso."
+    "André se frota las sienes, como si estuviera agobiado por el peso de una decisión que en realidad ni siquiera depende de él. Depende de Narurra si lo que dice Ivy tiene algún peso."
 
 # game/code/Book-1/Chapter-8c/s09.rpy:156
 translate spanish b1c08cs09_c9076ddc:
@@ -338,25 +338,25 @@ translate spanish b1c08cs09_f139370a:
 translate spanish b1c08cs09_4d9b909c:
 
     # ih "You understand the importance of having a {i}a proper man{/i} with us during our holy rituals, don't you, Andre?"
-    ih "Entiendes la importancia de tener {i}un hombre de verdad{/i} con nosotros durante nuestros rituales sagrados, ¿no es así, Andre?"
+    ih "Entiendes la importancia de tener {i}un hombre de verdad{/i} con nosotros durante nuestros rituales sagrados, ¿no es así, André?"
 
 # game/code/Book-1/Chapter-8c/s09.rpy:166
 translate spanish b1c08cs09_6a99c843:
 
     # "Andre's esteem disintegrates before your very eyes."
-    "La estima de Andre se desintegra ante tus propios ojos."
+    "La estima de André se desintegra ante tus propios ojos."
 
 # game/code/Book-1/Chapter-8c/s09.rpy:168
 translate spanish b1c08cs09_b65d9c21:
 
     # mct "A \"proper man\"? What the hell does she mean by that? What do I have that Andre doesn't?"
-    mct "¿Un \"hombre de verdad\"? ¿Qué diablos quiere decir con eso? ¿Qué tengo yo que Andre no tenga?"
+    mct "¿Un \"hombre de verdad\"? ¿Qué diablos quiere decir con eso? ¿Qué tengo yo que André no tenga?"
 
 # game/code/Book-1/Chapter-8c/s09.rpy:169
 translate spanish b1c08cs09_dde0017c:
 
     # mct "And why is Ivy so hostile towards Andre anyway? It's like she resents him or something."
-    mct "¿Y por qué Ivy es tan hostil con Andre? Es como si estuviera resentida con él o algo así."
+    mct "¿Y por qué Ivy es tan hostil con André? Es como si estuviera resentida con él o algo así."
 
 # game/code/Book-1/Chapter-8c/s09.rpy:173
 translate spanish b1c08cs09_821a77c7:
@@ -368,7 +368,7 @@ translate spanish b1c08cs09_821a77c7:
 translate spanish b1c08cs09_39f1e6a7:
 
     # ih "Andre, let's not delay Delphia's pupils any further."
-    ih "Andre, no retrasemos más a los alumnos de Delphia."
+    ih "André, no retrasemos más a los alumnos de Delphia."
 
 # game/code/Book-1/Chapter-8c/s09.rpy:177
 translate spanish b1c08cs09_6d496e5d:
@@ -398,7 +398,7 @@ translate spanish b1c08cs09_aee102b5:
 translate spanish b1c08cs09_2eb467d7:
 
     # "Andre's demeanor becomes miserable and bleak. Ivy's words seem to have genuinely affected him. You're thankful he's at least listening, now."
-    "El comportamiento de Andre se vuelve miserable y sombrío. Las palabras de Ivy parecen haberlo afectado genuinamente. Estás agradecido de que al menos te esté escuchando ahora."
+    "El comportamiento de André se vuelve miserable y sombrío. Las palabras de Ivy parecen haberlo afectado genuinamente. Estás agradecido de que al menos te esté escuchando ahora."
 
 # game/code/Book-1/Chapter-8c/s09.rpy:187
 translate spanish b1c08cs09_cf204e16:
@@ -410,7 +410,7 @@ translate spanish b1c08cs09_cf204e16:
 translate spanish b1c08cs09_bb676701:
 
     # nv "Thank you, Andre. We both appreciate you trusting us with this opportunity."
-    nv "Gracias, Andre. Ambos apreciamos que nos hayas confiado esta oportunidad."
+    nv "Gracias, André. Ambos apreciamos que nos hayas confiado esta oportunidad."
 
 # game/code/Book-1/Chapter-8c/s09.rpy:192
 translate spanish b1c08cs09_9915952a:
@@ -482,7 +482,7 @@ translate spanish b1c08cs09_87aa1f2d:
 translate spanish b1c08cs09_1fb62bcb:
 
     # "Andre seems too despondent to reply. Delphia gently guides him out of the cabin, leaving you and Nia under Ivy's instruction."
-    "Andre parece demasiado abatido para responder. Delphia lo guía suavemente fuera de la cabaña, dejándote a ti y a Nia bajo las instrucciones de Ivy."
+    "André parece demasiado abatido para responder. Delphia lo guía suavemente fuera de la cabaña, dejándote a ti y a Nia bajo las instrucciones de Ivy."
 
 # game/code/Book-1/Chapter-8c/s09.rpy:222
 translate spanish b1c08cs09_d4d6838b:
@@ -542,7 +542,7 @@ translate spanish b1c08cs09_body_paint_7148b39d:
 translate spanish b1c08cs09_body_paint_142bc14e:
 
     # ih "Let's start with crimson. The first thought in your mind is probably blood, and it symbolizes that, yes."
-    ih "Empecemos por el carmesí. El primer pensamiento que viene a tu mente probablemente sea sangre, y simboliza eso, sí."
+    ih "Empecemos por el carmesí. El primer pensamiento que viene a tu mente probablemente sea sangre, y simboliza eso."
 
 # game/code/Book-1/Chapter-8c/s09.rpy:255
 translate spanish b1c08cs09_body_paint_056cd9fe:
@@ -554,7 +554,7 @@ translate spanish b1c08cs09_body_paint_056cd9fe:
 translate spanish b1c08cs09_body_paint_2702d252:
 
     # ih "The red of a mother's blood as she gives her own life and body to birth a child is the same as the red of a sexy lipstick, or the red of the apple Eve ate."
-    ih "El rojo de la sangre de una madre que da su propia vida y su cuerpo para dar a luz a un niño es el mismo que el rojo de un lápiz labial sexy o el rojo de la manzana que se comió Eva."
+    ih "El rojo de la sangre de una madre que da su propia vida y su cuerpo para dar a luz a un bebé es el mismo que el rojo de un lápiz labial sexy o el rojo de la manzana que se comió Eva."
 
 # game/code/Book-1/Chapter-8c/s09.rpy:259
 translate spanish b1c08cs09_body_paint_6bf2f6c1:
@@ -626,7 +626,7 @@ translate spanish b1c08cs09_body_paint_a6790f30:
 translate spanish b1c08cs09_body_paint_7dd3b870:
 
     # ih "*Clears her throat* Right. And then, we have viridian. A representation of Earth, through which we're birthed, and to which we will return."
-    ih "*Se aclara la garganta* Cierto. Y luego tenemos el viridian. Una representación de la Tierra, a través de la cual nacemos y a la que regresaremos."
+    ih "*Se aclara la garganta* Bien. Y luego tenemos el viridian. Una representación de la Tierra, a través de la cual nacemos y a la que regresaremos."
 
 # game/code/Book-1/Chapter-8c/s09.rpy:281
 translate spanish b1c08cs09_body_paint_a1f00515:
@@ -842,7 +842,7 @@ translate spanish b1c08cs09_body_paint_f712ee28:
 translate spanish b1c08cs09_body_paint_5509085c:
 
     # nv "But I respect her a lot, and it hurts when she doesn't even acknowledge me all the same."
-    nv "Pero yo la respeto mucho, y me duele cuando ella ni siquiera me reconoce de todos modos."
+    nv "Pero la respeto mucho, y me duele que ni siquiera me reconozca."
 
 # game/code/Book-1/Chapter-8c/s09.rpy:362
 translate spanish b1c08cs09_body_paint_4550b6a2:
@@ -896,13 +896,13 @@ translate spanish b1c08cs09_body_paint_458c9a79:
 translate spanish b1c08cs09_body_paint_13b620a1:
 
     # mc "Especially after Andre made a whole ordeal out of everything."
-    mc "Especialmente después de que Andre hizo de todo un calvario."
+    mc "Especialmente después de que André hizo de todo un calvario."
 
 # game/code/Book-1/Chapter-8c/s09.rpy:387
 translate spanish b1c08cs09_body_paint_962b2a1c:
 
     # mc "She probably has it pretty rough right now, being put in the middle of Delphia and Andre like that."
-    mc "Probablemente lo tiene bastante difícil en este momento, al estar atrapada con Delphia y Andre de esa manera."
+    mc "Probablemente lo tiene bastante difícil en este momento, al estar atrapada con Delphia y André de esa manera."
 
 # game/code/Book-1/Chapter-8c/s09.rpy:389
 translate spanish b1c08cs09_body_paint_a113a752:
