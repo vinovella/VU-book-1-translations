@@ -44,7 +44,7 @@ translate turkish b1c04m3_80f2b63e:
 translate turkish b1c04m3_39b06eda:
 
     # lw "It's only fair, considering how much [mcname] snores."
-    lw "[Mcname]'nin ne kadar horladığı dikkate alınırsa bu adil."
+    lw "[mcname]'nin ne kadar horladığı dikkate alınırsa bu adil."
 
 # game/code/Book-1/Chapter-4/s03.rpy:47
 translate turkish b1c04m3_1f45056d:

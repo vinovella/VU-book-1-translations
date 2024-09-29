@@ -50,7 +50,7 @@ translate spanish strings:
 
     # game/code/data/achievement_gallery.rpy:5
     old "07: Bagging Bookworms"
-    new "07: Embolsar a los ratones de biblioteca"
+    new "07: Embolsar ratones de biblioteca"
 
     # game/code/data/achievement_gallery.rpy:5
     old "Play Irene's path."
@@ -238,7 +238,7 @@ translate spanish strings:
 
     # game/code/data/achievement_gallery.rpy:5
     old "Click the Butcher's street background character."
-    new "Haz clic en el personaje de fondo de la calle del Carnicero."
+    new "Haz clic en el personaje de la calle del Carnicero."
 
     # game/code/data/achievement_gallery.rpy:5
     old "31: Meat Lovers"
@@ -270,7 +270,7 @@ translate spanish strings:
 
     # game/code/data/achievement_gallery.rpy:5
     old "Kiss Phoebe and tell Fleur and Asami the truth."
-    new "Besa a Phoebe y cuéntales la verdad a Fleur y Asami."
+    new "Besa a Phoebe y confiesa la verdad."
 
     # game/code/data/achievement_gallery.rpy:5
     old "35: Junior Detective"
@@ -278,7 +278,7 @@ translate spanish strings:
 
     # game/code/data/achievement_gallery.rpy:5
     old "Unlock a character on the investigation board."
-    new "Desbloquea un personaje en el tablero de investigación."
+    new "Desbloquea un personaje."
 
     # game/code/data/achievement_gallery.rpy:5
     old "36: Privates Investigator"
@@ -286,7 +286,7 @@ translate spanish strings:
 
     # game/code/data/achievement_gallery.rpy:5
     old "Unlock 20 characters on the investigation board."
-    new "Desbloquea 20 personajes en el tablero de investigación."
+    new "Desbloquea 20 personajes."
 
     # game/code/data/achievement_gallery.rpy:5
     old "37: Master Sleuth"
@@ -294,7 +294,7 @@ translate spanish strings:
 
     # game/code/data/achievement_gallery.rpy:5
     old "Unlock 40 characters on the investigation board."
-    new "Desbloquea 40 personajes en el tablero de investigación."
+    new "Desbloquea 40 personajes."
 
     # game/code/data/achievement_gallery.rpy:5
     old "38: Passion Detective"
@@ -342,7 +342,7 @@ translate spanish strings:
 
     # game/code/data/achievement_gallery.rpy:5
     old "Get blue balled by Nia and Zemfira at the party."
-    new "Consigue que Nia y Zemfira te dejen con las bolas azules en la fiesta."
+    new "Estás con las bolas azules gracias Nia y Zemfira."
 
     # game/code/data/achievement_gallery.rpy:5
     old "44: Escaping the Matrix"
@@ -350,7 +350,7 @@ translate spanish strings:
 
     # game/code/data/achievement_gallery.rpy:5
     old "Click the unclickable option in the nightmare."
-    new "Haga clic en la opción en la que no se puede hacer clic en la pesadilla."
+    new "Haz clic en la opción no clicable de la pesadilla."
 
     # game/code/data/achievement_gallery.rpy:5
     old "45: Behind the Scenes"

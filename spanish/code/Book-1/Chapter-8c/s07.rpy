@@ -122,7 +122,7 @@ translate spanish b1c08cs07_strip_ad77633b:
 translate spanish b1c08cs07_strip_b1506e71:
 
     # mct "And I'm still wondering if Andre's gonna jump out with a bucket of blood or something..."
-    mct "Y todavía me pregunto si Andre saltará con un balde de sangre o algo así..."
+    mct "Y todavía me pregunto si André saltará con un balde de sangre o algo así..."
 
 # game/code/Book-1/Chapter-8c/s07.rpy:124
 translate spanish b1c08cs07_strip_a6bb8968:
@@ -182,7 +182,7 @@ translate spanish b1c08cs07_strip_3f5fc9ca:
 translate spanish b1c08cs07_strip_5d759f87:
 
     # nv "*Giggles* Do you want me to help?"
-    nv "*risas* ¿Quieres que te ayude?"
+    nv "*Risas* ¿Quieres que te ayude?"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:160
 translate spanish b1c08cs07_strip_f0ba2483:
@@ -392,7 +392,7 @@ translate spanish b1c08cs07_strip_e58a3ae2:
 translate spanish b1c08cs07_strip_ca207c46:
 
     # "Del leaves you and Nia naked, yearning for each other."
-    "Del los deja a ti y a Nia desnudos, anhelándonos el uno al otro."
+    "Del los deja a ti y a Nia desnudos, anhelándose el uno al otro."
 
 # game/code/Book-1/Chapter-8c/s07.rpy:256
 translate spanish b1c08cs07_strip_1c7ad07c:
@@ -416,7 +416,7 @@ translate spanish b1c08cs07_strip_03dde6d3:
 translate spanish b1c08cs07_strip_15036f60:
 
     # nv "In time. But first...{w} I want to explore this."
-    nv "En su momento. Pero primero... Quiero explorar esto."
+    nv "A su debido tiempo. Pero primero... Quiero explorar esto."
 
 # game/code/Book-1/Chapter-8c/s07.rpy:267
 translate spanish b1c08cs07_strip_837818c0:
@@ -488,7 +488,7 @@ translate spanish b1c08cs07_strip_a594b397:
 translate spanish b1c08cs07_strip_698e7000:
 
     # nv "I want to worship each other's bodies, to make each other feel good, and whole."
-    nv "Quiero adorar los cuerpos de los demás, hacernos sentir bien y completos."
+    nv "Quiero que adoremos el cuerpo del otro, que nos hagamos sentir bien y completos."
 
 # game/code/Book-1/Chapter-8c/s07.rpy:318
 translate spanish b1c08cs07_strip_e5a8add4:
@@ -572,7 +572,7 @@ translate spanish b1c08cs07_sex_0758627c:
 translate spanish b1c08cs07_sex_2642577f:
 
     # "You lift Nia up by her hips so she's on all fours. She's dripping for you, so wet and creamy."
-    "Levantas a Nia por las caderas para que esté a cuatro patas. Ella está goteando por ti, tan húmeda y cremosa."
+    "Levantas a Nia por las caderas para que se ponga a cuatro patas. Está goteando para ti, húmeda y resbaladiza."
 
 # game/code/Book-1/Chapter-8c/s07.rpy:388
 translate spanish b1c08cs07_sex_4e356444:
@@ -620,7 +620,7 @@ translate spanish b1c08cs07_sex_5486b161:
 translate spanish b1c08cs07_sex_7c286ac4:
 
     # nv "Yes! I want to feel as much of you as possible."
-    nv "¡Sí! Quiero sentir lo más de ti posible."
+    nv "¡Sí! Quiero sentir lo más posible de ti."
 
 # game/code/Book-1/Chapter-8c/s07.rpy:414
 translate spanish b1c08cs07_sex_7ce0fdd0:
@@ -716,7 +716,7 @@ translate spanish b1c08cs07_sex_68934356:
 translate spanish b1c08cs07_sex_c6ba2d88:
 
     # mc "Me either. It feels... so good to be connected with you. In every way. Mind, body, soul."
-    mc "Yo tampoco. Se siente... tan bien estar conectado contigo. En todos los sentidos. Mente, cuerpo y alma."
+    mc "Yo tampoco puedo esperar. Se siente... tan bien estar conectado contigo. En todos los sentidos. Mente, cuerpo y alma."
 
 # game/code/Book-1/Chapter-8c/s07.rpy:474
 translate spanish b1c08cs07_sex_5d4a2b95:

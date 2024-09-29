@@ -40,3 +40,7 @@ translate spanish strings:
     old "Prev"
     new "Anterior"
 
+    # game/code/screens/gallery.rpy:142
+    old "Next"
+    new "Próximo"
+

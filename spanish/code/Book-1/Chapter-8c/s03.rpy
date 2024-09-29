@@ -158,7 +158,7 @@ translate spanish b1c08cs03_05148851:
 translate spanish b1c08cs03_4766b4c5:
 
     # ih "And as for ranks, all our journeys are never ending."
-    ih "Y en cuanto a rangos, todos nuestros viajes no tienen fin."
+    ih "Y en cuanto a los rangos, todos nuestros viajes no tienen fin."
 
 # game/code/Book-1/Chapter-8c/s03.rpy:111
 translate spanish b1c08cs03_81499515:
@@ -860,7 +860,7 @@ translate spanish b1c08cs03_531e9a17:
 translate spanish b1c08cs03_158601fc:
 
     # "Nia and Lumi are distracted by watching the other women cum. They watch curiously and supportively as afterglow spreads up Ivy and Delpiha's chests."
-    "Nia y Lumi se distraen viendo correrse a las otras mujeres. Observan con curiosidad y apoyo cómo el resplandor se extiende por los pechos de Ivy y Delpiha."
+    "Nia y Lumi se distraen viendo correrse a las otras mujeres. Observan con curiosidad y apoyo cómo el resplandor se extiende por los pechos de Ivy y Delphia."
 
 # game/code/Book-1/Chapter-8c/s03.rpy:534
 translate spanish b1c08cs03_050726d4:
@@ -956,7 +956,7 @@ translate spanish b1c08cs03_68fb566d:
 translate spanish b1c08cs03_4f3da906:
 
     # ll "Thank you. I really appreciate you."
-    ll "Muchas gracias. Te lo agradezco mucho."
+    ll "Gracias. Realmente te lo agradezco."
 
 # game/code/Book-1/Chapter-8c/s03.rpy:595
 translate spanish b1c08cs03_b11afb98:
@@ -1148,7 +1148,7 @@ translate spanish b1c08cs03_4487b01e:
 translate spanish b1c08cs03_e6116568:
 
     # "Andre's eyes find yours, and you feel the weight of his gaze sink into you, as if he's digging for something buried deep within your soul."
-    "Los ojos de Andre encuentran los tuyos y sientes el peso de su mirada hundirse en ti, como si estuviera excavando en busca de algo enterrado en lo más profundo de tu alma."
+    "Los ojos de André encuentran los tuyos y sientes el peso de su mirada hundirse en ti, como si estuviera excavando en busca de algo enterrado en lo más profundo de tu alma."
 
 # game/code/Book-1/Chapter-8c/s03.rpy:700
 translate spanish b1c08cs03_c8e2f930:
@@ -1160,7 +1160,7 @@ translate spanish b1c08cs03_c8e2f930:
 translate spanish b1c08cs03_e8be8eeb:
 
     # "You pause, collecting your thoughts before answering. This is a delicate moment, and the weight of Andre's question hangs heavy in the air."
-    "Haces una pausa y ordenas tus pensamientos antes de responder. Este es un momento delicado y el peso de la pregunta de Andre flota en el aire."
+    "Haces una pausa y ordenas tus pensamientos antes de responder. Este es un momento delicado y el peso de la pregunta de André flota en el aire."
 
 # game/code/Book-1/Chapter-8c/s03.rpy:704
 translate spanish b1c08cs03_31fab8a1:
@@ -1196,7 +1196,7 @@ translate spanish b1c08cs03_8122d7c5:
 translate spanish b1c08cs03_918dcf8b:
 
     # "You hesitate, sensing the passive aggression laced through Andre's words. But you repeat it anyway, unsure of what else to do in this charged atmosphere."
-    "Dudas, sintiendo la agresión pasiva entrelazada a través de las palabras de Andre. Pero lo repites de todos modos, sin saber qué más hacer en esta atmósfera cargada."
+    "Dudas, sintiendo la agresión pasiva entrelazada a través de las palabras de André. Pero lo repites de todos modos, sin saber qué más hacer en esta atmósfera cargada."
 
 # game/code/Book-1/Chapter-8c/s03.rpy:720
 translate spanish b1c08cs03_7fde698b:
@@ -1250,7 +1250,7 @@ translate spanish b1c08cs03_e74b8e69:
 translate spanish b1c08cs03_c2ad6b97:
 
     # "Andre's eyes sweep the crowd one last time, a final scrutinizing gaze before he steps back, dismissing the crowd."
-    "Los ojos de Andre recorren a la multitud por última vez, una última mirada escrutadora antes de dar un paso atrás, desestimando a la multitud."
+    "Los ojos de André recorren a la multitud por última vez, una última mirada escrutadora antes de dar un paso atrás, desestimando a la multitud."
 
 # game/code/Book-1/Chapter-8c/s03.rpy:748
 translate spanish b1c08cs03_fb1439d7:
@@ -1316,13 +1316,13 @@ translate spanish b1c08cs03_0793b72b:
 translate spanish b1c08cs03_70d10eed:
 
     # "You all hold hands and dance in a circle. Nia and Lumi giggle and laugh freely, enjoying the freeing feeling of dancing naked among friends."
-    "Todos se toman de la mano y bailan en círculo. Nia y Lumi se ríen y ríen libremente, disfrutando de la sensación liberadora de bailar desnudas entre amigos."
+    "Todos se toman de las manos y bailan en círculo. Nia y Lumi ríen y se divierten libremente, disfrutando de la sensación liberadora de bailar desnudas entre amigos."
 
 # game/code/Book-1/Chapter-8c/s03.rpy:797
 translate spanish b1c08cs03_373de20b:
 
     # "As you spin closer to Ivy and Andre, you overhear bits of their conversation."
-    "A medida que te acercas a Ivy y Andre, escuchas fragmentos de su conversación."
+    "A medida que te acercas a Ivy y André, escuchas fragmentos de su conversación."
 
 # game/code/Book-1/Chapter-8c/s03.rpy:799
 translate spanish b1c08cs03_6d6c35b9:
@@ -1376,7 +1376,7 @@ translate spanish b1c08cs03_d79327b4:
 translate spanish b1c08cs03_7bc85c3f:
 
     # "You swing back into hearing distance of Andre and Ivy."
-    "Vuelves a estar a una distancia de escucha de Andre e Ivy."
+    "Vuelves a estar a una distancia de escucha de André e Ivy."
 
 # game/code/Book-1/Chapter-8c/s03.rpy:821
 translate spanish b1c08cs03_09d65694:
@@ -1406,7 +1406,7 @@ translate spanish b1c08cs03_4305c822:
 translate spanish b1c08cs03_86786e23:
 
     # ij "Would you mind if we join?"
-    ij "¿Te importaría si nos unimos?"
+    ij "¿Te importa si nos unimos?"
 
 # game/code/Book-1/Chapter-8c/s03.rpy:840
 translate spanish b1c08cs03_707c1d35:
@@ -1652,5 +1652,5 @@ translate spanish b1c08cs03_fbaa59a8:
 translate spanish b1c08cs03_53d70e0f:
 
     # ll "No! Come, let's spread the joy!"
-    ll "¡No! ¡Ven, vamos a difundir la alegría!"
+    ll "¡No! ¡ Vamos, difundamos la alegría!"
 

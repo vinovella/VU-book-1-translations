@@ -40,3 +40,7 @@ translate turkish strings:
     old "Prev"
     new "Önceki"
 
+    # game/code/screens/gallery.rpy:142
+    old "Next"
+    new "Sonraki"
+

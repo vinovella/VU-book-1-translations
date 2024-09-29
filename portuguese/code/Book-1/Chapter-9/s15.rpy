@@ -13,8 +13,8 @@ translate portuguese b1c09s15_bb40bb8d:
 # game/code/Book-1/Chapter-9/s15.rpy:211
 translate portuguese b1c09s15_267c5f98:
 
-    # c1 "*Sighs* This might be selfish, but I'm glad that I have you and [c3.name] to talk with."
-    c1 "*Suspiro* Posso estar sendo egoísta, mas ainda bem que tenho você e [c3.name] para conversar."
+    # c1 "*Sighs* This might be selfish, but I'm glad that I have you and [c3.name!t] to talk with."
+    c1 "*Suspiro* Posso estar sendo egoísta, mas ainda bem que tenho você e [c3.name!t] para conversar."
 
 # game/code/Book-1/Chapter-9/s15.rpy:214
 translate portuguese b1c09s15_c8016065:
@@ -25,8 +25,8 @@ translate portuguese b1c09s15_c8016065:
 # game/code/Book-1/Chapter-9/s15.rpy:217
 translate portuguese b1c09s15_7a162bba:
 
-    # c2 "I get it. I'm glad I got you and [c3.name] as well."
-    c2 "Eu entendo. E também acho legal que você tem [c3.name] te ajudando."
+    # c2 "I get it. I'm glad I got you and [c3.name!t] as well."
+    c2 "Eu entendo. E também acho legal que você tem [c3.name!t] te ajudando."
 
 # game/code/Book-1/Chapter-9/s15.rpy:223
 translate portuguese b1c09s15_8206dbd6:
@@ -85,8 +85,8 @@ translate portuguese b1c09s15_b038267a:
 # game/code/Book-1/Chapter-9/s15.rpy:263
 translate portuguese b1c09s15_88729636:
 
-    # c1 "*Slightly amused* Didn't peg you for the spontaneous type, [c2.name]."
-    c1 "*Interessada* Não achei que você fosse do tipo espontâneo, [c2.name]."
+    # c1 "*Slightly amused* Didn't peg you for the spontaneous type, [c2.name!t]."
+    c1 "*Interessada* Não achei que você fosse do tipo espontâneo, [c2.name!t]."
 
 # game/code/Book-1/Chapter-9/s15.rpy:270
 translate portuguese b1c09s15_566f54af:
@@ -103,8 +103,8 @@ translate portuguese b1c09s15_4c8256dd:
 # game/code/Book-1/Chapter-9/s15.rpy:282
 translate portuguese b1c09s15_bc6aa8ea:
 
-    # "[c2.name] pours the first round, the harsh liquid stings your nose as it sloshes into the glasses with a promise of temporary forgetfulness."
-    "[c2.name] põe o primeiro drinque, o líquido queima seu nariz ao entrar nos copos com a promessa de temporariamente esquecer as coisas."
+    # "[c2.name!t] pours the first round, the harsh liquid stings your nose as it sloshes into the glasses with a promise of temporary forgetfulness."
+    "[c2.name!t] põe o primeiro drinque, o líquido queima seu nariz ao entrar nos copos com a promessa de temporariamente esquecer as coisas."
 
 # game/code/Book-1/Chapter-9/s15.rpy:291
 translate portuguese b1c09s15_adb780de:
@@ -121,8 +121,8 @@ translate portuguese b1c09s15_a8579d6b:
 # game/code/Book-1/Chapter-9/s15.rpy:333
 translate portuguese b1c09s15_e6abea23:
 
-    # "Amidst the shots, [c2.name] decides to kick things up a notch, her voice bubbling with excitement."
-    "Entre bebidas, [c2.name] decide dar uma apimenta da nas coisas, sua voz cheia de empolgação."
+    # "Amidst the shots, [c2.name!t] decides to kick things up a notch, her voice bubbling with excitement."
+    "Entre bebidas, [c2.name!t] decide dar uma apimenta da nas coisas, sua voz cheia de empolgação."
 
 # game/code/Book-1/Chapter-9/s15.rpy:336
 translate portuguese b1c09s15_a0978087:
@@ -139,8 +139,8 @@ translate portuguese b1c09s15_da848e7f:
 # game/code/Book-1/Chapter-9/s15.rpy:347
 translate portuguese b1c09s15_4d5fa2b6:
 
-    # "[c2.name] bursts into laughter, not even hesitating as she grabs her shot, a twinkle of rebelliousness in her eyes."
-    "[c2.name] começa a rir, nem pensa duas vezes antes de pegar a dose, um brilhozinho rebelde em seus olhos."
+    # "[c2.name!t] bursts into laughter, not even hesitating as she grabs her shot, a twinkle of rebelliousness in her eyes."
+    "[c2.name!t] começa a rir, nem pensa duas vezes antes de pegar a dose, um brilhozinho rebelde em seus olhos."
 
 # game/code/Book-1/Chapter-9/s15.rpy:348
 translate portuguese b1c09s15_326e0e56:
@@ -157,8 +157,8 @@ translate portuguese b1c09s15_1462243b:
 # game/code/Book-1/Chapter-9/s15.rpy:355
 translate portuguese b1c09s15_d9657270:
 
-    # "[c1.name], with a slightly embarrassed yet daring grin, follows suit, the warmth of the room emboldening her."
-    "[c1.name], com um leve mas ousado sorriso, faz o mesmo, o clima no quarto a encorajando."
+    # "[c1.name!t], with a slightly embarrassed yet daring grin, follows suit, the warmth of the room emboldening her."
+    "[c1.name!t], com um leve mas ousado sorriso, faz o mesmo, o clima no quarto a encorajando."
 
 # game/code/Book-1/Chapter-9/s15.rpy:362
 translate portuguese b1c09s15_dadc90f0:
@@ -175,8 +175,8 @@ translate portuguese b1c09s15_58f24d3d:
 # game/code/Book-1/Chapter-9/s15.rpy:369
 translate portuguese b1c09s15_a0f7d0e7:
 
-    # "[c2.name] then leans forward with her eyes sparkling with mischief."
-    "[c2.name] então se aproxima, com um olhar de travessura no rosto."
+    # "[c2.name!t] then leans forward with her eyes sparkling with mischief."
+    "[c2.name!t] então se aproxima, com um olhar de travessura no rosto."
 
 # game/code/Book-1/Chapter-9/s15.rpy:372
 translate portuguese b1c09s15_94cbdc7d:
@@ -217,8 +217,8 @@ translate portuguese b1c09s15_a4f69367:
 # game/code/Book-1/Chapter-9/s15.rpy:389
 translate portuguese b1c09s15_93ae046f:
 
-    # "[c2.name] looks away coyly and grabs a shot."
-    "[c2.name] desvia o olhar timidamente e toma uma dose."
+    # "[c2.name!t] looks away coyly and grabs a shot."
+    "[c2.name!t] desvia o olhar timidamente e toma uma dose."
 
 # game/code/Book-1/Chapter-9/s15.rpy:395
 translate portuguese b1c09s15_f190ed7a:
@@ -283,8 +283,8 @@ translate portuguese b1c09s15_6a31e6d1:
 # game/code/Book-1/Chapter-9/s15.rpy:436
 translate portuguese b1c09s15_85786070:
 
-    # "The question hangs in the air. You cast a glance at [c2.name]."
-    "A pergunta paira no ar. Você olha para [c2.name]."
+    # "The question hangs in the air. You cast a glance at [c2.name!t]."
+    "A pergunta paira no ar. Você olha para [c2.name!t]."
 
 # game/code/Book-1/Chapter-9/s15.rpy:439
 translate portuguese b1c09s15_c7236053:
@@ -301,14 +301,14 @@ translate portuguese b1c09s15_ede5dc14:
 # game/code/Book-1/Chapter-9/s15.rpy:446
 translate portuguese b1c09s15_2dce2e18:
 
-    # "[c2.name] follows, her cheeks flushed with a mix of the alcohol and the thrill of the confession, her smile shy yet daring."
-    "[c2.name] também toma, suas bochechas vermelhas com uma mistura de álcool e empolgação da confissão, seu sorriso tímido mas ousado."
+    # "[c2.name!t] follows, her cheeks flushed with a mix of the alcohol and the thrill of the confession, her smile shy yet daring."
+    "[c2.name!t] também toma, suas bochechas vermelhas com uma mistura de álcool e empolgação da confissão, seu sorriso tímido mas ousado."
 
 # game/code/Book-1/Chapter-9/s15.rpy:457
 translate portuguese b1c09s15_f47c7a4b:
 
-    # "[c2.name] cuts the awkward silence with a barely muffled snicker."
-    "[c2.name] quebra o silêncio esquisito com uma risada mal contida."
+    # "[c2.name!t] cuts the awkward silence with a barely muffled snicker."
+    "[c2.name!t] quebra o silêncio esquisito com uma risada mal contida."
 
 # game/code/Book-1/Chapter-9/s15.rpy:458
 translate portuguese b1c09s15_7c2e5e2c:
@@ -355,8 +355,8 @@ translate portuguese b1c09s15_de566358:
 # game/code/Book-1/Chapter-9/s15.rpy:528
 translate portuguese b1c09s15_d4482523:
 
-    # "Flushed with excitement, [c1.name] perks up."
-    "Empolgada, [c1.name] exclama."
+    # "Flushed with excitement, [c1.name!t] perks up."
+    "Empolgada, [c1.name!t] exclama."
 
 # game/code/Book-1/Chapter-9/s15.rpy:531
 translate portuguese b1c09s15_fde140e8:
@@ -487,8 +487,8 @@ translate portuguese b1c09s15_sex_karaoke_end_5796dc7b:
 # game/code/Book-1/Chapter-9/s15.rpy:676
 translate portuguese b1c09s15_sex_karaoke_end_b06d9881:
 
-    # "[c2.name] nods, her eyes locked on yours, and in a moment that feels like it's suspended outside of time, she leans in and kisses you."
-    "[c2.name] concorda, olhando nos seus olhos, e num momento que parece congelado no tempo, ela se aproxima e o beija."
+    # "[c2.name!t] nods, her eyes locked on yours, and in a moment that feels like it's suspended outside of time, she leans in and kisses you."
+    "[c2.name!t] concorda, olhando nos seus olhos, e num momento que parece congelado no tempo, ela se aproxima e o beija."
 
 # game/code/Book-1/Chapter-9/s15.rpy:681
 translate portuguese b1c09s15_sex_karaoke_end_cb31a8f0:
@@ -499,14 +499,14 @@ translate portuguese b1c09s15_sex_karaoke_end_cb31a8f0:
 # game/code/Book-1/Chapter-9/s15.rpy:684
 translate portuguese b1c09s15_sex_karaoke_end_8335118f:
 
-    # "[c1.name] catches your kiss from the side of her eyes. Her expression a mix of surprise and something softer, a gentle understanding."
-    "[c1.name] vê seu beijo no canto dos olhos. Sua expressão uma mistura de surpresa e algo mais suave, um gentil entendimento."
+    # "[c1.name!t] catches your kiss from the side of her eyes. Her expression a mix of surprise and something softer, a gentle understanding."
+    "[c1.name!t] vê seu beijo no canto dos olhos. Sua expressão uma mistura de surpresa e algo mais suave, um gentil entendimento."
 
 # game/code/Book-1/Chapter-9/s15.rpy:690
 translate portuguese b1c09s15_sex_karaoke_end_20c34603:
 
-    # "As [c2.name] pulls back, there's a fleeting look of apology, as if she's second-guessing her impulsiveness."
-    "[c2.name] recua, um leve olhar de arrependimento, como se estivesse arrependida da impulsividade."
+    # "As [c2.name!t] pulls back, there's a fleeting look of apology, as if she's second-guessing her impulsiveness."
+    "[c2.name!t] recua, um leve olhar de arrependimento, como se estivesse arrependida da impulsividade."
 
 # game/code/Book-1/Chapter-9/s15.rpy:692
 translate portuguese b1c09s15_sex_karaoke_end_2f13d546:
@@ -529,14 +529,14 @@ translate portuguese b1c09s15_sex_karaoke_end_e989ff11:
 # game/code/Book-1/Chapter-9/s15.rpy:700
 translate portuguese b1c09s15_sex_karaoke_end_0c83a716:
 
-    # "[c2.name] stands and regains her composure with a coy smile as her blush deepens."
-    "[c2.name] se levanta e se recompõe com um sorriso tímido, seu rosto ficando mais corado."
+    # "[c2.name!t] stands and regains her composure with a coy smile as her blush deepens."
+    "[c2.name!t] se levanta e se recompõe com um sorriso tímido, seu rosto ficando mais corado."
 
 # game/code/Book-1/Chapter-9/s15.rpy:704
 translate portuguese b1c09s15_sex_karaoke_end_3b177bc9:
 
-    # "With a twinkle of mischief and a hint of curiosity in her eyes, [c1.name] turns towards you, her voice playful yet sincere."
-    "Com um brilho de travessura e curiosidade nos olhos, [c1.name] vira para você, sua voz brincalhona mas sincera."
+    # "With a twinkle of mischief and a hint of curiosity in her eyes, [c1.name!t] turns towards you, her voice playful yet sincere."
+    "Com um brilho de travessura e curiosidade nos olhos, [c1.name!t] vira para você, sua voz brincalhona mas sincera."
 
 # game/code/Book-1/Chapter-9/s15.rpy:707
 translate portuguese b1c09s15_sex_karaoke_end_40d12630:
@@ -601,8 +601,8 @@ translate portuguese b1c09s15_sex_karaoke_end_ea2df8ba:
 # game/code/Book-1/Chapter-9/s15.rpy:761
 translate portuguese b1c09s15_sex_karaoke_end_f64856cc:
 
-    # "As [c1.name]'s hand caresses your chest with feather-light touches, [c2.name]'s soft lips brush against your neck, sending shivers down your spine."
-    "[c1.name] acaricia seu peito com toques leves, e os lábios macios da [c2.name] tocam no seu pescoço, causando arrepios."
+    # "As [c1.name!t]'s hand caresses your chest with feather-light touches, [c2.name!t]'s soft lips brush against your neck, sending shivers down your spine."
+    "[c1.name!t] acaricia seu peito com toques leves, e os lábios macios da [c2.name!t] tocam no seu pescoço, causando arrepios."
 
 # game/code/Book-1/Chapter-9/s15.rpy:767
 translate portuguese b1c09s15_sex_karaoke_end_520a9b9a:
@@ -649,14 +649,14 @@ translate portuguese b1c09s15_sex_karaoke_end_db2ca792:
 # game/code/Book-1/Chapter-9/s15.rpy:806
 translate portuguese b1c09s15_sex_karaoke_end_394e7cfd:
 
-    # "While [c1.name] focuses her attention on your shaft and tip, lapping up your precum and overwhelming your senses."
-    "Enquanto [c1.name] se foca no seu pau e na ponta, lambendo seus fluidos e sobrecarregando seus sentidos."
+    # "While [c1.name!t] focuses her attention on your shaft and tip, lapping up your precum and overwhelming your senses."
+    "Enquanto [c1.name!t] se foca no seu pau e na ponta, lambendo seus fluidos e sobrecarregando seus sentidos."
 
 # game/code/Book-1/Chapter-9/s15.rpy:814
 translate portuguese b1c09s15_sex_karaoke_end_3d65359c:
 
-    # "[c2.name]'s warm mouth slides down your thighs, teasing every inch of skin she encounters with a hunger that's both enticing and mesmerizing."
-    "A boca quente da [c2.name] vai descendo pelas suas coxas, provocando cada centímetro que encontra com uma fome sedutora e hipnotizante."
+    # "[c2.name!t]'s warm mouth slides down your thighs, teasing every inch of skin she encounters with a hunger that's both enticing and mesmerizing."
+    "A boca quente da [c2.name!t] vai descendo pelas suas coxas, provocando cada centímetro que encontra com uma fome sedutora e hipnotizante."
 
 # game/code/Book-1/Chapter-9/s15.rpy:823
 translate portuguese b1c09s15_sex_karaoke_end_ac4c2001:
@@ -667,14 +667,14 @@ translate portuguese b1c09s15_sex_karaoke_end_ac4c2001:
 # game/code/Book-1/Chapter-9/s15.rpy:824
 translate portuguese b1c09s15_sex_karaoke_end_d1f6e450:
 
-    # "In response to seeing your pleasure, [c1.name] hums around your cock, her eyes locked with yours."
-    "Em resposta ao prazer que você sente, [c1.name] geme no seu pau, olhando diretamente nos seus olhos."
+    # "In response to seeing your pleasure, [c1.name!t] hums around your cock, her eyes locked with yours."
+    "Em resposta ao prazer que você sente, [c1.name!t] geme no seu pau, olhando diretamente nos seus olhos."
 
 # game/code/Book-1/Chapter-9/s15.rpy:830
 translate portuguese b1c09s15_sex_karaoke_end_5ed57917:
 
-    # "You can't help but thrust your hips ever so slightly into [c1.name]'s waiting mouth, craving more of her velvet warmth."
-    "Você acaba enfiando os quadris bem de leve na boca ansiosa da [c1.name], querendo mais e mais do seu toque."
+    # "You can't help but thrust your hips ever so slightly into [c1.name!t]'s waiting mouth, craving more of her velvet warmth."
+    "Você acaba enfiando os quadris bem de leve na boca ansiosa da [c1.name!t], querendo mais e mais do seu toque."
 
 # game/code/Book-1/Chapter-9/s15.rpy:840
 translate portuguese b1c09s15_sex_karaoke_end_58ca9b0b:
@@ -691,8 +691,8 @@ translate portuguese b1c09s15_sex_karaoke_end_9d873848:
 # game/code/Book-1/Chapter-9/s15.rpy:860
 translate portuguese b1c09s15_sex_karaoke_end_a78a9230:
 
-    # c1 "[c2.name], c'mere. Let's do it together."
-    c1 "[c2.name], vem aqui. Vamos juntas."
+    # c1 "[c2.name!t], c'mere. Let's do it together."
+    c1 "[c2.name!t], vem aqui. Vamos juntas."
 
 # game/code/Book-1/Chapter-9/s15.rpy:863
 translate portuguese b1c09s15_sex_karaoke_end_c3181fe0:
@@ -703,14 +703,14 @@ translate portuguese b1c09s15_sex_karaoke_end_c3181fe0:
 # game/code/Book-1/Chapter-9/s15.rpy:879
 translate portuguese b1c09s15_sex_karaoke_end_0e97c450:
 
-    # "[c1.name]'s lips glide along your shaft, her tongue swirling around your sensitive tip with an expert finesse that sends jolts of ecstasy up your spine."
-    "[c1.name] passa os lábios pelo seu pau, a língua massageando a cabecinha sensível com tamanha habilidade que causa ondas de êxtase."
+    # "[c1.name!t]'s lips glide along your shaft, her tongue swirling around your sensitive tip with an expert finesse that sends jolts of ecstasy up your spine."
+    "[c1.name!t] passa os lábios pelo seu pau, a língua massageando a cabecinha sensível com tamanha habilidade que causa ondas de êxtase."
 
 # game/code/Book-1/Chapter-9/s15.rpy:883
 translate portuguese b1c09s15_sex_karaoke_end_61daa315:
 
-    # "[c2.name], meanwhile, focuses on the other end of your shaft. Her soft lips and tongue roaming up and down, gently sucking and teasing you, making you twitch in pleasure."
-    "[c2.name], por sua vez, está focada do outro lado de seu pau. Lábios macios e língua subindo e descendo, dando leves chupadinhas, provocando-o e causando arrepios de prazer."
+    # "[c2.name!t], meanwhile, focuses on the other end of your shaft. Her soft lips and tongue roaming up and down, gently sucking and teasing you, making you twitch in pleasure."
+    "[c2.name!t], por sua vez, está focada do outro lado de seu pau. Lábios macios e língua subindo e descendo, dando leves chupadinhas, provocando-o e causando arrepios de prazer."
 
 # game/code/Book-1/Chapter-9/s15.rpy:885
 translate portuguese b1c09s15_sex_karaoke_end_2a1cdc30:
@@ -775,8 +775,8 @@ translate portuguese b1c09s15_sex_karaoke_end_c8442abe:
 # game/code/Book-1/Chapter-9/s15.rpy:985
 translate portuguese b1c09s15_sex_karaoke_end_f548a597:
 
-    # "[c1.name]'s hips rock back and forth needily, her pussy enveloping your length and tightening around you, sending waves of pleasure that leave both of you gasping for air."
-    "[c1.name] move os quadris com vontade, a boceta envolvendo e apertando seu pau, causando ondas de prazer que deixa ambos ofegantes."
+    # "[c1.name!t]'s hips rock back and forth needily, her pussy enveloping your length and tightening around you, sending waves of pleasure that leave both of you gasping for air."
+    "[c1.name!t] move os quadris com vontade, a boceta envolvendo e apertando seu pau, causando ondas de prazer que deixa ambos ofegantes."
 
 # game/code/Book-1/Chapter-9/s15.rpy:992
 translate portuguese b1c09s15_sex_karaoke_end_ae674f06:
@@ -787,14 +787,14 @@ translate portuguese b1c09s15_sex_karaoke_end_ae674f06:
 # game/code/Book-1/Chapter-9/s15.rpy:1022
 translate portuguese b1c09s15_sex_karaoke_end_d8648dcd:
 
-    # "As she rides you, [c2.name]'s hands roam your body, her nails raking lightly along your upper body, teasing you and driving your need for her too."
-    "Enquanto ela monta em você, as mãos da [c2.name] percorrem seu corpo suas unhas arranhando seu peito de leve, provocando-o e aumentando seu desejo por ela."
+    # "As she rides you, [c2.name!t]'s hands roam your body, her nails raking lightly along your upper body, teasing you and driving your need for her too."
+    "Enquanto ela monta em você, as mãos da [c2.name!t] percorrem seu corpo suas unhas arranhando seu peito de leve, provocando-o e aumentando seu desejo por ela."
 
 # game/code/Book-1/Chapter-9/s15.rpy:1039
 translate portuguese b1c09s15_sex_karaoke_end_f581953c:
 
-    # mc "[c2.name], let me taste you. I want to make you feel good too."
-    mc "[c2.name], deixa eu dar uma provadinha. Quero que você se diverta também."
+    # mc "[c2.name!t], let me taste you. I want to make you feel good too."
+    mc "[c2.name!t], deixa eu dar uma provadinha. Quero que você se diverta também."
 
 # game/code/Book-1/Chapter-9/s15.rpy:1042
 translate portuguese b1c09s15_sex_karaoke_end_ae85843d:
@@ -805,8 +805,8 @@ translate portuguese b1c09s15_sex_karaoke_end_ae85843d:
 # game/code/Book-1/Chapter-9/s15.rpy:1057
 translate portuguese b1c09s15_sex_karaoke_end_d83f7204:
 
-    # "[c1.name] leans forward, her breasts bouncing as she pushes herself down onto your cock, her moans muffled by [c2.name]'s lips."
-    "[c1.name] se aproxima, seus seios balançando enquanto ela vai descendo no seu pau, seus gemidos abafados pela boca da [c2.name]."
+    # "[c1.name!t] leans forward, her breasts bouncing as she pushes herself down onto your cock, her moans muffled by [c2.name!t]'s lips."
+    "[c1.name!t] se aproxima, seus seios balançando enquanto ela vai descendo no seu pau, seus gemidos abafados pela boca da [c2.name!t]."
 
 # game/code/Book-1/Chapter-9/s15.rpy:1063
 translate portuguese b1c09s15_sex_karaoke_end_a8528ff8:
@@ -817,20 +817,20 @@ translate portuguese b1c09s15_sex_karaoke_end_a8528ff8:
 # game/code/Book-1/Chapter-9/s15.rpy:1067
 translate portuguese b1c09s15_sex_karaoke_end_3de587b5:
 
-    # "You can't help but thrust up into [c1.name]'s welcoming depths harder, faster."
-    "Você não consegue resistir e enfia na boquinha da [c1.name] com mais força e mais rápido."
+    # "You can't help but thrust up into [c1.name!t]'s welcoming depths harder, faster."
+    "Você não consegue resistir e enfia na boquinha da [c1.name!t] com mais força e mais rápido."
 
 # game/code/Book-1/Chapter-9/s15.rpy:1096
 translate portuguese b1c09s15_sex_karaoke_end_385f7868:
 
-    # "The tightness of her pussy around your shaft rapidly building your orgasm as your tongue explores [c2.name]'s folds, licking and sucking on her quivering clit."
-    "A boceta dela aperta no seu pau, rapidamente aproximando seu orgasmo enquanto sua língua explora a boceta da [c2.name], lambendo e chupando o clitóris."
+    # "The tightness of her pussy around your shaft rapidly building your orgasm as your tongue explores [c2.name!t]'s folds, licking and sucking on her quivering clit."
+    "A boceta dela aperta no seu pau, rapidamente aproximando seu orgasmo enquanto sua língua explora a boceta da [c2.name!t], lambendo e chupando o clitóris."
 
 # game/code/Book-1/Chapter-9/s15.rpy:1102
 translate portuguese b1c09s15_sex_karaoke_end_f91fd6bf:
 
-    # "Their scents mingle in the air, [c2.name]'s juices mix on your tongue as they both moan above you."
-    "Seus cheiros se misturam, [c2.name] acaba melando sua língua enquanto ambas gemem acima de você."
+    # "Their scents mingle in the air, [c2.name!t]'s juices mix on your tongue as they both moan above you."
+    "Seus cheiros se misturam, [c2.name!t] acaba melando sua língua enquanto ambas gemem acima de você."
 
 # game/code/Book-1/Chapter-9/s15.rpy:1112
 translate portuguese b1c09s15_sex_karaoke_end_ffa41ca8:
@@ -847,8 +847,8 @@ translate portuguese b1c09s15_sex_karaoke_end_35b863f7:
 # game/code/Book-1/Chapter-9/s15.rpy:1128
 translate portuguese b1c09s15_sex_karaoke_end_9f59a8e7:
 
-    # "As if on cue, you feel [c2.name] greedily rub her clit on your tongue clench around your head as she cums on your face."
-    "Como se esperando sua deixa, [c2.name] se esfrega com força na sua língua e aperta a sua cabeça enquanto goza no seu rosto."
+    # "As if on cue, you feel [c2.name!t] greedily rub her clit on your tongue clench around your head as she cums on your face."
+    "Como se esperando sua deixa, [c2.name!t] se esfrega com força na sua língua e aperta a sua cabeça enquanto goza no seu rosto."
 
 # game/code/Book-1/Chapter-9/s15.rpy:1132
 translate portuguese b1c09s15_sex_karaoke_end_36061f14:
@@ -859,8 +859,8 @@ translate portuguese b1c09s15_sex_karaoke_end_36061f14:
 # game/code/Book-1/Chapter-9/s15.rpy:1136
 translate portuguese b1c09s15_sex_karaoke_end_1141d512:
 
-    # "As [c2.name] cums on your tongue, you grab [c1.name]'s ass and push yourself in to the hilt."
-    "[c2.name] goza na sua língua, e você agarra a bunda da [c1.name], enfiando até o fim."
+    # "As [c2.name!t] cums on your tongue, you grab [c1.name!t]'s ass and push yourself in to the hilt."
+    "[c2.name!t] goza na sua língua, e você agarra a bunda da [c1.name!t], enfiando até o fim."
 
 # game/code/Book-1/Chapter-9/s15.rpy:1145
 translate portuguese b1c09s15_sex_karaoke_end_880bde4b:
@@ -883,14 +883,14 @@ translate portuguese b1c09s15_sex_karaoke_end_10de9ea6:
 # game/code/Book-1/Chapter-9/s15.rpy:1167
 translate portuguese b1c09s15_sex_karaoke_end_90d5d8ab:
 
-    # "As [c2.name]'s orgasm pulses over you, [c1.name] grinds herself harder on your cock"
-    "O orgasmo da [c2.name] pulsa sobre você, enquanto [c1.name] se esfrega mais forte no seu pau."
+    # "As [c2.name!t]'s orgasm pulses over you, [c1.name!t] grinds herself harder on your cock"
+    "O orgasmo da [c2.name!t] pulsa sobre você, enquanto [c1.name!t] se esfrega mais forte no seu pau."
 
 # game/code/Book-1/Chapter-9/s15.rpy:1168
 translate portuguese b1c09s15_sex_karaoke_end_2eea37aa:
 
-    # "Her eyes rolling back in ecstasy and her nails digging into your thighs as she follows [c2.name] over the edge."
-    "Ela revira os olhos de êxtase, as unhas cravando nas suas coxas enquanto acompanha [c2.name] ao orgasmo."
+    # "Her eyes rolling back in ecstasy and her nails digging into your thighs as she follows [c2.name!t] over the edge."
+    "Ela revira os olhos de êxtase, as unhas cravando nas suas coxas enquanto acompanha [c2.name!t] ao orgasmo."
 
 # game/code/Book-1/Chapter-9/s15.rpy:1169
 translate portuguese b1c09s15_sex_karaoke_end_1a2853ac:
@@ -907,8 +907,8 @@ translate portuguese b1c09s15_sex_karaoke_end_f200264f:
 # game/code/Book-1/Chapter-9/s15.rpy:1185
 translate portuguese b1c09s15_sex_karaoke_end_4bbefc3f:
 
-    # mc "Do you wanna taste [c2.name] as I fuck her, [c1.name]?"
-    mc "Quer dar uma provadinha na [c2.name] enquanto eu como ela, [c1.name]?"
+    # mc "Do you wanna taste [c2.name!t] as I fuck her, [c1.name!t]?"
+    mc "Quer dar uma provadinha na [c2.name!t] enquanto eu como ela, [c1.name!t]?"
 
 # game/code/Book-1/Chapter-9/s15.rpy:1188
 translate portuguese b1c09s15_sex_karaoke_end_44023842:
@@ -919,26 +919,26 @@ translate portuguese b1c09s15_sex_karaoke_end_44023842:
 # game/code/Book-1/Chapter-9/s15.rpy:1194
 translate portuguese b1c09s15_sex_karaoke_end_e793a80f:
 
-    # "Slowly, you guide your hard cock to [c2.name]'s wet pussy, her slickness dripping down her thighs as you tease her entrance."
-    "Você lentamente guia seu pau até a boceta molhada da [c2.name], sua boceta pingando e escorrendo pelas coxas à med da que você provoca a entrada."
+    # "Slowly, you guide your hard cock to [c2.name!t]'s wet pussy, her slickness dripping down her thighs as you tease her entrance."
+    "Você lentamente guia seu pau até a boceta molhada da [c2.name!t], sua boceta pingando e escorrendo pelas coxas à med da que você provoca a entrada."
 
 # game/code/Book-1/Chapter-9/s15.rpy:1200
 translate portuguese b1c09s15_sex_karaoke_end_c20b37c5:
 
-    # "[c2.name] gasps in anticipation, her breath catching in her throat as she feels your tip brush against her swollen folds."
-    "[c2.name] se arrepia em antecipação, um nó se formando na garganta enquanto ela sente a cabeça do seu pau se esfregando por dentro."
+    # "[c2.name!t] gasps in anticipation, her breath catching in her throat as she feels your tip brush against her swollen folds."
+    "[c2.name!t] se arrepia em antecipação, um nó se formando na garganta enquanto ela sente a cabeça do seu pau se esfregando por dentro."
 
 # game/code/Book-1/Chapter-9/s15.rpy:1208
 translate portuguese b1c09s15_sex_karaoke_end_79077bcc:
 
-    # "[c1.name] kneels down and buries her face between [c2.name]'s legs, lapping at her clit with abandon as you begin to push inside."
-    "[c1.name] se ajoelha e enfia a cara entre as pernas da [c2.name], lambendo o clitóris sem parar enquanto você enfia."
+    # "[c1.name!t] kneels down and buries her face between [c2.name!t]'s legs, lapping at her clit with abandon as you begin to push inside."
+    "[c1.name!t] se ajoelha e enfia a cara entre as pernas da [c2.name!t], lambendo o clitóris sem parar enquanto você enfia."
 
 # game/code/Book-1/Chapter-9/s15.rpy:1211
 translate portuguese b1c09s15_sex_karaoke_end_9f979996:
 
-    # "[c2.name] moans out loudly, arching her back against the intrusion of your cock and the teasing touch of [c1.name]'s tongue."
-    "[c2.name] geme alto, arqueando as costas contra a intrusão do seu pau e o toque provocante da língua da [c1.name]."
+    # "[c2.name!t] moans out loudly, arching her back against the intrusion of your cock and the teasing touch of [c1.name!t]'s tongue."
+    "[c2.name!t] geme alto, arqueando as costas contra a intrusão do seu pau e o toque provocante da língua da [c1.name!t]."
 
 # game/code/Book-1/Chapter-9/s15.rpy:1220
 translate portuguese b1c09s15_sex_karaoke_end_3833644b:
@@ -949,26 +949,26 @@ translate portuguese b1c09s15_sex_karaoke_end_3833644b:
 # game/code/Book-1/Chapter-9/s15.rpy:1225
 translate portuguese b1c09s15_sex_karaoke_end_0a6d39f7:
 
-    # c2 "*Loudly moaning* Fu-uuck, [mcname], oh God yes! [c1.name], don't stop!"
-    c2 "*Gemido alto* Po-rra, [mcname], issooo! [c1.name], não para!"
+    # c2 "*Loudly moaning* Fu-uuck, [mcname], oh God yes! [c1.name!t], don't stop!"
+    c2 "*Gemido alto* Po-rra, [mcname], issooo! [c1.name!t], não para!"
 
 # game/code/Book-1/Chapter-9/s15.rpy:1237
 translate portuguese b1c09s15_sex_karaoke_end_b8b080ff:
 
-    # "[c2.name] bucks and writhes below you, her palms flat on the bed as she surrenders to the overwhelming sensations coursing through her body."
-    "[c2.name] se contorce abaixo, suas mãos pressionadas na cama, rendendo-se às sensações cursando pelo corpo."
+    # "[c2.name!t] bucks and writhes below you, her palms flat on the bed as she surrenders to the overwhelming sensations coursing through her body."
+    "[c2.name!t] se contorce abaixo, suas mãos pressionadas na cama, rendendo-se às sensações cursando pelo corpo."
 
 # game/code/Book-1/Chapter-9/s15.rpy:1247
 translate portuguese b1c09s15_sex_karaoke_end_9100684c:
 
-    # "Your hands grip her hips, guiding your cock even deeper inside her as [c1.name]'s mouth continues to work its magic on her swollen clit."
-    "Você agarra os quadris dela, guiando seu pau ainda mais fundo enquanto [c1.name] continua a fazer sua mágica no clitóris inchado dela."
+    # "Your hands grip her hips, guiding your cock even deeper inside her as [c1.name!t]'s mouth continues to work its magic on her swollen clit."
+    "Você agarra os quadris dela, guiando seu pau ainda mais fundo enquanto [c1.name!t] continua a fazer sua mágica no clitóris inchado dela."
 
 # game/code/Book-1/Chapter-9/s15.rpy:1264
 translate portuguese b1c09s15_sex_karaoke_end_5e838ea2:
 
-    # mc "Fuck, I'm gonna cum, [c2.name]... I'm gonna fill you up."
-    mc "Porra, [c2.name], eu vou  gozar... Vou te encher todinha."
+    # mc "Fuck, I'm gonna cum, [c2.name!t]... I'm gonna fill you up."
+    mc "Porra, [c2.name!t], eu vou  gozar... Vou te encher todinha."
 
 # game/code/Book-1/Chapter-9/s15.rpy:1276
 translate portuguese b1c09s15_sex_karaoke_end_4afcfc90:
@@ -979,8 +979,8 @@ translate portuguese b1c09s15_sex_karaoke_end_4afcfc90:
 # game/code/Book-1/Chapter-9/s15.rpy:1277
 translate portuguese b1c09s15_sex_karaoke_end_82cd58f2:
 
-    # "[c2.name]'s pussy contracts around your cock, milking every drop from you as she moans out her own orgasm."
-    "A boceta da [c2.name] se contrai no seu pau, sugando até a última gota enquanto geme com o próprio orgasmo."
+    # "[c2.name!t]'s pussy contracts around your cock, milking every drop from you as she moans out her own orgasm."
+    "A boceta da [c2.name!t] se contrai no seu pau, sugando até a última gota enquanto geme com o próprio orgasmo."
 
 # game/code/Book-1/Chapter-9/s15.rpy:1282
 translate portuguese b1c09s15_sex_karaoke_end_884a6cc3:
@@ -997,8 +997,8 @@ translate portuguese b1c09s15_sex_karaoke_end_e7ce4b67:
 # game/code/Book-1/Chapter-9/s15.rpy:1290
 translate portuguese b1c09s15_sex_karaoke_end_8d84178a:
 
-    # mc "*Whispers* Finish it off, [c1.name]. I want to see you swallow every drop."
-    mc "*Sussurro* Termina, [c1.name]. Quero ver você engolir até a última gota."
+    # mc "*Whispers* Finish it off, [c1.name!t]. I want to see you swallow every drop."
+    mc "*Sussurro* Termina, [c1.name!t]. Quero ver você engolir até a última gota."
 
 # game/code/Book-1/Chapter-9/s15.rpy:1308
 translate portuguese b1c09s15_end_648a9a03:
@@ -1009,8 +1009,8 @@ translate portuguese b1c09s15_end_648a9a03:
 # game/code/Book-1/Chapter-9/s15.rpy:1309
 translate portuguese b1c09s15_end_a8fd8b18:
 
-    # "[c1.name] props herself up on one elbow, studying your faces with a tender smile."
-    "[c1.name] se levanta com um cotovelo, observando seus rostos com um sorriso carinhoso."
+    # "[c1.name!t] props herself up on one elbow, studying your faces with a tender smile."
+    "[c1.name!t] se levanta com um cotovelo, observando seus rostos com um sorriso carinhoso."
 
 # game/code/Book-1/Chapter-9/s15.rpy:1316
 translate portuguese b1c09s15_end_cfbc52a5:
@@ -1021,8 +1021,8 @@ translate portuguese b1c09s15_end_cfbc52a5:
 # game/code/Book-1/Chapter-9/s15.rpy:1317
 translate portuguese b1c09s15_end_3770472a:
 
-    # "[c2.name] nods, reaching over to give [c1.name]'s hand an affectionate squeeze."
-    "[c2.name] concorda, se aproximando e carinhosamente apertando a mão da [c1.name]."
+    # "[c2.name!t] nods, reaching over to give [c1.name!t]'s hand an affectionate squeeze."
+    "[c2.name!t] concorda, se aproximando e carinhosamente apertando a mão da [c1.name!t]."
 
 # game/code/Book-1/Chapter-9/s15.rpy:1323
 translate portuguese b1c09s15_end_f8c7e4e9:
@@ -1039,8 +1039,8 @@ translate portuguese b1c09s15_end_d9860491:
 # game/code/Book-1/Chapter-9/s15.rpy:1337
 translate portuguese b1c09s15_end_91b7044a:
 
-    # "A jaw-cracking yawn escapes [c2.name], and she laughs sheepishly."
-    "Um grande bocejo escapa da [c2.name], e ela ri timidamente."
+    # "A jaw-cracking yawn escapes [c2.name!t], and she laughs sheepishly."
+    "Um grande bocejo escapa da [c2.name!t], e ela ri timidamente."
 
 # game/code/Book-1/Chapter-9/s15.rpy:1338
 translate portuguese b1c09s15_end_254855e1:
@@ -1069,8 +1069,8 @@ translate portuguese b1c09s15_end_e073c227:
 translate portuguese strings:
 
     # game/code/Book-1/Chapter-9/s15.rpy:1117
-    old "Cum with [c1.name]"
-    new "Gozar com a [c1.name]"
+    old "Cum with [c1.name!t]"
+    new "Gozar com a [c1.name!t]"
 
     # game/code/Book-1/Chapter-9/s15.rpy:1117
     old "Hold on longer"

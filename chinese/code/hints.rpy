@@ -1016,3 +1016,11 @@
     old "You match Brig's energy. If you're on The Winner's path, Brigitta spits on you."
     new "你和布吉塔的能量相当。如果你选择赢家们的路径，布吉塔会朝你吐口水。"
 
+    # game/code/hints.rpy:11
+    old "Investigate Sam. Closes Isa's path for you. This puts you on Sam's path."
+    new "调查萨姆。将为你关闭艾萨的路径。你将走上萨姆的路径。"
+
+    # game/code/hints.rpy:11
+    old "Investigate Isa. Closes Sam's path for you. This puts you on Isa's path."
+    new "调查艾萨。将为你关闭萨姆的路径。你将走上艾萨的路径。"
+

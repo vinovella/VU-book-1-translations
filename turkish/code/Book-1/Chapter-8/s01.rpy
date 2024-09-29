@@ -752,7 +752,7 @@ translate turkish b1c08s01_recap_c06c_087bdf8b:
 translate turkish b1c08s01_recap_c07c_a38dd632:
 
     # mc "Sometime after the seminar, a new person came by, Ivy. She said that she's some sort of \"regional manager.\" No not sure what exactly that means, but we at least know that this isn't an isolated group."
-    "Seminerden bir süre sonra yeni biri geldi, Ivy. Bir çeşit "bölge müdürü" olduğunu söyledi. Bunun tam olarak ne anlama geldiğinden emin değiliz, ama en azından bunun izole bir grup olmadığını biliyoruz."
+    "Seminerden bir süre sonra yeni biri geldi, Ivy. Bir çeşit \"bölge müdürü\" olduğunu söyledi. Bunun tam olarak ne anlama geldiğinden emin değiliz, ama en azından bunun izole bir grup olmadığını biliyoruz."
 
 # game/code/Book-1/Chapter-8/s01.rpy:484
 translate turkish b1c08s01_recap_c07c_858c84bf:
@@ -1376,7 +1376,7 @@ translate turkish b1c08s01_continue_5090907e:
 translate turkish b1c08s01_continue_89d0ffa1:
 
     # mc "Alright, I'll focus on [b1c08s01_highest_points_name!t] and [b1c08s01_second_highest_points_name!t]. But if something catches my eye about [b1c08s01_lowest_points_name!t], I'll dig deeper."
-    mc "Tamam, [b1c08s01_en_yüksek_puan_adı!t] ve [b1c08s01_ikinci_en_yüksek_puan_adı!t]'na odaklanacağım. Ancak [b1c08s01_lowest_points_name!t] hakkında bir şey dikkatimi çekerse, daha derine inerim."
+    mc "Tamam, [b1c08s01_highest_points_name!t] ve [b1c08s01_second_highest_points_name!t]'na odaklanacağım. Ancak [b1c08s01_lowest_points_name!t] hakkında bir şey dikkatimi çekerse, daha derine inerim."
 
 translate turkish strings:
 

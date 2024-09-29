@@ -1012,3 +1012,11 @@ translate spanish strings:
     old "You match Brig's energy. If you're on The Winner's path, Brigitta spits on you."
     new "Coincides con la energía de Brig. Si estás en el camino de los Ganadores, Brigitta te escupe."
 
+    # game/code/hints.rpy:11
+    old "Investigate Sam. Closes Isa's path for you. This puts you on Sam's path."
+    new "Investigar a Sam. Te cierra el camino con Isa. Esto te pone en la ruta de Sam."
+
+    # game/code/hints.rpy:11
+    old "Investigate Isa. Closes Sam's path for you. This puts you on Isa's path."
+    new "Investigar a Isa. Cierra el camino de Sam para ti. Esto te pone en la ruta de Isa."
+

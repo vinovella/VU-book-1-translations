@@ -110,7 +110,7 @@ translate spanish b1c08cs01_bcaa7d5a:
 translate spanish b1c08cs01_1bec0b02:
 
     # mc "Thank you for saving me a seat, you two."
-    mc "Gracias por guardarme un asiento, a las dos."
+    mc "Gracias a las dos por guardarme un asiento."
 
 # game/code/Book-1/Chapter-8c/s01.rpy:93
 translate spanish b1c08cs01_c1f5716a:
@@ -224,7 +224,7 @@ translate spanish b1c08cs01_2a62c4ad:
 translate spanish b1c08cs01_c5619050:
 
     # nv "I was last here with—"
-    nv "La última vez que estuve aquí con..."
+    nv "La última vez estuve aquí con..."
 
 # game/code/Book-1/Chapter-8c/s01.rpy:150
 translate spanish b1c08cs01_cfa6c47b:
@@ -398,7 +398,7 @@ translate spanish b1c08cs01_58616234:
 translate spanish b1c08cs01_82a36ce8:
 
     # ll "I'm still thinking."
-    ll "Todavía estoy pensando."
+    ll "Todavía lo estoy pensando."
 
 # game/code/Book-1/Chapter-8c/s01.rpy:222
 translate spanish b1c08cs01_60a0bc31:
@@ -530,7 +530,7 @@ translate spanish b1c08cs01_70b37859:
 translate spanish b1c08cs01_c929a4eb:
 
     # ef "Wow! You never told me this. What happened the second time?"
-    ef "¡Vaya! Nunca me dijiste esto. ¿Qué pasó la segunda vez?"
+    ef "¡Guau! Nunca me dijiste esto. ¿Qué pasó la segunda vez?"
 
 # game/code/Book-1/Chapter-8c/s01.rpy:282
 translate spanish b1c08cs01_df61724e:
@@ -620,7 +620,7 @@ translate spanish b1c08cs01_537eac78:
 translate spanish b1c08cs01_7f578597:
 
     # ef "What happened next, what happened next?"
-    ef "¿Qué pasó después, qué pasó después?"
+    ef "¿Qué pasó después?"
 
 # game/code/Book-1/Chapter-8c/s01.rpy:332
 translate spanish b1c08cs01_27282f2f:
@@ -668,7 +668,7 @@ translate spanish b1c08cs01_658efa24:
 translate spanish b1c08cs01_9e82e7a1:
 
     # mc "It could've meant nothing at all."
-    mc "Podría haber significado nada en absoluto."
+    mc "Podría no haber significado nada en absoluto."
 
 # game/code/Book-1/Chapter-8c/s01.rpy:355
 translate spanish b1c08cs01_b50ed790:
@@ -752,7 +752,7 @@ translate spanish b1c08cs01_e2153659:
 translate spanish b1c08cs01_d264014b:
 
     # ad "Of course, my pet. I just came to check in with all my delicate rose petals."
-    ad "Por supuesto, mi mascota. Solo vine a ver todos mis delicados pétalos de rosa."
+    ad "Por supuesto, mi mascota. Solo vine a ver cómo estaban todos mis delicados pétalos de rosa."
 
 # game/code/Book-1/Chapter-8c/s01.rpy:388
 translate spanish b1c08cs01_4b77f10b:

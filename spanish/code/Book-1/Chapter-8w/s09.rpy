@@ -242,7 +242,7 @@ translate spanish b1c08ws09_a0a80a33:
 translate spanish b1c08ws09_a7557ab7:
 
     # oa "I lost my leg in a car accident when I was younger. Recovery was...difficult, to say the least."
-    oa "Perdí una pierna en un accidente automovilístico cuando era más joven. La recuperación fue... difícil, por decir lo menos."
+    oa "Perdí la pierna en un accidente automovilístico cuando era más joven. La recuperación fue... difícil, por no decir otra cosa."
 
 # game/code/Book-1/Chapter-8w/s09.rpy:129
 translate spanish b1c08ws09_ed5bcaa4:
@@ -272,7 +272,7 @@ translate spanish b1c08ws09_e7593bda:
 translate spanish b1c08ws09_4803761d:
 
     # oa "I started abusing it to deal with the pain. Just a constant pity party while being high out of my mind so I didn't have to deal with my emotions."
-    oa "Empecé a abusar de ella para lidiar con el dolor. Sólo una constante fiesta de lástima mientras me drogaba para no tener que lidiar con mis emociones."
+    oa "Empecé a abusar de ello para lidiar con el dolor. Sólo una constante fiesta de lástima mientras me drogaba para no tener que lidiar con mis emociones."
 
 # game/code/Book-1/Chapter-8w/s09.rpy:141
 translate spanish b1c08ws09_01080a33:
@@ -512,7 +512,7 @@ translate spanish b1c08ws09_2bee44c8:
 translate spanish b1c08ws09_9e93f7bc:
 
     # oa "Yikes, it's getting late. Or, it {i}is{/i} late actually. We should update the team and get some rest. We have a big day ahead of us."
-    oa "Vaya, se hace tarde. O bien, {i}es{/i} tarde. Deberíamos actualizar el equipo y descansar un poco. Tenemos un gran día por delante."
+    oa "Vaya, se hace tarde. O bien, {i}es{/i} tarde. Debemos actualizar al equipo y descansar un poco. Tenemos un gran día por delante."
 
 # game/code/Book-1/Chapter-8w/s09.rpy:249
 translate spanish b1c08ws09_95b5fd36:
@@ -584,7 +584,7 @@ translate spanish b1c08ws09_e39ab2f2:
 translate spanish b1c08ws09_2e00e493:
 
     # "Olesya yawns, covering her mouth with her hand as she stifles a giggle. The night's weariness finally catching up to her."
-    "Olesya bosteza, tapándose la boca con la mano mientras reprime una risita. El cansancio de la noche finalmente la alcanzó."
+    "Olesya bosteza y se cubre la boca con la mano mientras reprime una risita. El cansancio de la noche finalmente la alcanza."
 
 # game/code/Book-1/Chapter-8w/s09.rpy:278
 translate spanish b1c08ws09_f046edfd:

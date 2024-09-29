@@ -176,7 +176,7 @@ translate spanish b1c08cs04_5da88cc1:
 translate spanish b1c08cs04_77f3d192:
 
     # ll "But being around people who take my side feels nice."
-    ll "Pero estar rodeado de gente que está de mi lado es agradable."
+    ll "Pero estar rodeada de gente que está de mi lado es agradable."
 
 # game/code/Book-1/Chapter-8c/s04.rpy:113
 translate spanish b1c08cs04_9f5c5822:
@@ -218,13 +218,13 @@ translate spanish b1c08cs04_8c2e761e:
 translate spanish b1c08cs04_54fffd9e:
 
     # ll "It's not like they could afford a babysitter to watch me while they went off."
-    ll "No es que pudieran permitirse el lujo de tener una niñera que me cuidara mientras se marchaban."
+    ll "No es que pudieran permitirse una niñera que me cuidara mientras ellos se iban."
 
 # game/code/Book-1/Chapter-8c/s04.rpy:130
 translate spanish b1c08cs04_3121cb6b:
 
     # ll "And I think they'd feel guilty if they left me for a long period of time... I think, anyway. When I was younger."
-    ll "Y creo que se sentirían culpables si me dejaran por un largo período de tiempo... Creo que, de todos modos. Cuando era más joven."
+    ll "Y creo que se sentirían culpables si me dejaran por un largo período de tiempo... De todos modos, es lo que creo."
 
 # game/code/Book-1/Chapter-8c/s04.rpy:131
 translate spanish b1c08cs04_9efe4531:
@@ -674,7 +674,7 @@ translate spanish b1c08cs04_sex_9fe84b6e:
 translate spanish b1c08cs04_sex_44b28b4c:
 
     # "Her body twitches and grips your fingers eagerly, wanting to draw more of you inside her."
-    "Su cuerpo se contrae y agarra tus dedos con entusiasmo, queriendo atraer más de ti dentro de ella."
+    "Su cuerpo se retuerce y agarra tus dedos con avidez, deseando que la penetres más."
 
 # game/code/Book-1/Chapter-8c/s04.rpy:387
 translate spanish b1c08cs04_sex_ad8f5e28:
@@ -788,7 +788,7 @@ translate spanish b1c08cs04_sex_9448b05c:
 translate spanish b1c08cs04_sex_beea91de:
 
     # "Her words are cut off by you fucking her harder."
-    "Sus palabras se cortan cuando la follas más fuerte."
+    "Sus palabras se cortan porque la follas cada vez con más fuerza."
 
 # game/code/Book-1/Chapter-8c/s04.rpy:470
 translate spanish b1c08cs04_sex_f84cd6fe:
@@ -824,7 +824,7 @@ translate spanish b1c08cs04_sex_9f122435:
 translate spanish b1c08cs04_sex_87e75992:
 
     # "You fill Lumi up nicely, cumming deep inside her."
-    "Llenas muy bien a Lumi y te corres profundamente dentro de ella."
+    "Llenas a Lumi, corriéndote profundamente dentro de ella."
 
 # game/code/Book-1/Chapter-8c/s04.rpy:488
 translate spanish b1c08cs04_sex_5abaccd3:

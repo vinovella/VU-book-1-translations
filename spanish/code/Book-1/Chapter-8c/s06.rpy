@@ -614,7 +614,7 @@ translate spanish b1c08cs06_c34bd908:
 translate spanish b1c08cs06_d0c13dd8:
 
     # "Ivy discreetly reaches her hand to your thigh, her fingers delicately tugging at the fabric there."
-    "Ivy discretamente lleva su mano a tu muslo, sus dedos tiran delicadamente de la tela allí."
+    "Ivy discretamente lleva su mano a tu muslo, sus dedos tiran delicadamente de la tela."
 
 # game/code/Book-1/Chapter-8c/s06.rpy:298
 translate spanish b1c08cs06_6e9d822b:
@@ -1034,7 +1034,7 @@ translate spanish b1c08cs06_109a894f:
 translate spanish b1c08cs06_fb25c92c:
 
     # ys "Well, it's a sad, long story. But I've been praying to Narurra for a long time for rebirth. To feel cleansed. When I got pregnant, I'd hoped that my baby was Narurra's answer to my prayer."
-    ys "Bueno, es una larga y triste historia. Pero llevo mucho tiempo rezándole a Narurra por su renacimiento. Sentirse limpio. Cuando quedé embarazada, esperaba que mi bebé fuera la respuesta de Narurra a mi oración."
+    ys "Bueno, es una triste y larga historia. Pero he estado rezando a Narurra durante mucho tiempo para renacer. Para sentirme limpia. Cuando me quedé embarazada, esperaba que mi bebé fuera la respuesta de Narurra a mi plegaria."
 
 # game/code/Book-1/Chapter-8c/s06.rpy:541
 translate spanish b1c08cs06_de84f83d:
@@ -1118,7 +1118,7 @@ translate spanish b1c08cs06_1eb5fd8d:
 translate spanish b1c08cs06_c1352376:
 
     # nv "*Giggles* Alright, alright."
-    nv "*Risas* Está bien, está bien."
+    nv "*Risas* Está bien."
 
 # game/code/Book-1/Chapter-8c/s06.rpy:583
 translate spanish b1c08cs06_ffb1cd67:

@@ -14,7 +14,7 @@ translate spanish b1c08cs02_0f2136e1:
 translate spanish b1c08cs02_84969a94:
 
     # mct "Well, at least we won't need to deal with setting up tents."
-    mct "Bueno, al menos no tendremos que ocuparnos de montar tiendas de campaña."
+    mct "Bueno, al menos no tendremos que ocuparnos de montar las tiendas de campaña."
 
 # game/code/Book-1/Chapter-8c/s02.rpy:28
 translate spanish b1c08cs02_23143e78:
@@ -122,7 +122,7 @@ translate spanish b1c08cs02_ca0062de:
 translate spanish b1c08cs02_fb93d5ad:
 
     # ih "Please, Andre."
-    ih "Por favor, André."
+    ih "Por favor, Andre."
 
 # game/code/Book-1/Chapter-8c/s02.rpy:110
 translate spanish b1c08cs02_d1778366:
@@ -446,7 +446,7 @@ translate spanish b1c08cs02_after_choice_31650041:
 translate spanish b1c08cs02_after_choice_7d2ddce1:
 
     # ys "I can't wait to go stargazing with my baby for the first time."
-    ys "No puedo esperar para ir a contemplar las estrellas con mi bebé por primera vez."
+    ys "Estoy deseando salir a ver las estrellas con mi bebé por primera vez."
 
 # game/code/Book-1/Chapter-8c/s02.rpy:302
 translate spanish b1c08cs02_after_choice_69780181:
@@ -488,7 +488,7 @@ translate spanish b1c08cs02_after_choice_7520c467:
 translate spanish b1c08cs02_after_choice_1e029f31:
 
     # mc "Like ghosts or something?"
-    mc "¿Como fantasmas o algo así?"
+    mc "¿Cómo fantasmas o algo así?"
 
 # game/code/Book-1/Chapter-8c/s02.rpy:319
 translate spanish b1c08cs02_after_choice_69fd0ec5:
@@ -500,7 +500,7 @@ translate spanish b1c08cs02_after_choice_69fd0ec5:
 translate spanish b1c08cs02_after_choice_0704e655:
 
     # mct "Irene also mentioned receiving messages or omens..."
-    mct "Irene también mencionó recibir mensajes o augurios..."
+    mct "Irene también mencionó recibir mensajes o presagios..."
 
 # game/code/Book-1/Chapter-8c/s02.rpy:323
 translate spanish b1c08cs02_after_choice_4f13bd61:
@@ -638,7 +638,7 @@ translate spanish b1c08cs02_after_choice_0d3b09fa:
 translate spanish b1c08cs02_after_choice_ef89aea0:
 
     # dk "And you're with Lumi, as discussed."
-    dk "Y usted está con Lumi, como se discutió."
+    dk "Y tú estás con Lumi, como se discutió."
 
 # game/code/Book-1/Chapter-8c/s02.rpy:404
 translate spanish b1c08cs02_after_choice_39dbf14d:
@@ -710,7 +710,7 @@ translate spanish b1c08cs02_after_choice_d1810c9e:
 translate spanish b1c08cs02_after_choice_7c8b1f05:
 
     # ad "Think of it as an introductory dinner party. We'll all get acquainted and socialize by the campfire."
-    ad "Piensen en ello como una cena de presentación. Todos nos conoceremos y socializaremos junto a la fogata."
+    ad "Piensen en ello como una cena de presentación. Todos nos conoceremos y socializaremos junto a la hoguera."
 
 # game/code/Book-1/Chapter-8c/s02.rpy:449
 translate spanish b1c08cs02_after_choice_5d3516a9:
@@ -896,7 +896,7 @@ translate spanish b1c08cs02_after_choice_b6480f15:
 translate spanish b1c08cs02_after_choice_ffa4e2b9:
 
     # ll "I'm so anxious most of the time, I forget to giggle."
-    ll "Estoy tan ansiosa la mayor parte del tiempo que me olvido de reírme."
+    ll "Estoy tan ansiosa la mayor parte del tiempo que olvido reírme."
 
 # game/code/Book-1/Chapter-8c/s02.rpy:542
 translate spanish b1c08cs02_after_choice_5fd02c3d:

@@ -862,8 +862,6 @@ translate spanish strings:
     old "A highly revered figure in the Children of Narurra cult."
     new "Una figura muy venerada en el culto de los Hijos de Narurra."
 
-translate spanish strings:
-
    # game/code/data/ib_descriptions.rpy:2
     old "Bonded with Nia and Zemfira over their missing friends."
     new "Unida a Nia y Zemfira por sus amigas desaparecidas."
