@@ -50,7 +50,7 @@ translate spanish b1c08s02_af67b450:
 translate spanish b1c08s02_c8ecab88:
 
     # jh "Ugh, I'm hungry. How about we go get something to eat? There's a good Chinese place nearby."
-    jh "Uf, tengo hambre. ¿Qué tal si vamos a comer algo? Hay un buen lugar chino cerca."
+    jh "Ugh, tengo hambre. ¿Qué tal si vamos a comer algo? Hay un buen lugar de comida china cerca."
 
 # game/code/Book-1/Chapter-8/s02.rpy:40
 translate spanish b1c08s02_c7309df2:
@@ -398,7 +398,7 @@ translate spanish b1c08s02_at_garden_91d8a70c:
 translate spanish b1c08s02_at_garden_b814f3f3:
 
     # jh "*Hesitates* Yeah, I'm fine. It's just...different without Lara here, y'know?"
-    jh "*Duda* Sí, estoy bien. Es simplemente... diferente sin Lara aquí, ¿sabes?"
+    jh "*Titubea* Sí, estoy bien. Es simplemente... diferente sin Lara aquí, ¿sabes?"
 
 # game/code/Book-1/Chapter-8/s02.rpy:213
 translate spanish b1c08s02_at_garden_e3e60241:
@@ -692,7 +692,7 @@ translate spanish b1c08s02_jh_kiss_cacdc57c:
 translate spanish b1c08s02_jh_kiss_4222a5ef:
 
     # mc "Complicated doesn't scare me. Simple's overrated anyway."
-    mc "Lo complicado no me asusta. Lo simple está sobrevalorado de todos modos."
+    mc "Lo complicado no me asusta. De todas formas, lo sencillo está sobrevalorado."
 
 # game/code/Book-1/Chapter-8/s02.rpy:366
 translate spanish b1c08s02_jh_kiss_fef1c7cc:
