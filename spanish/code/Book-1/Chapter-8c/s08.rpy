@@ -2,7 +2,7 @@
 translate spanish b1c08cs08_ddad12e2:
 
     # "After a long day and a filling dinner, Ivy and Andre decide to finish the night off with another sermon."
-    "Después de un largo día y una cena abundante, Ivy y Andre deciden terminar la noche con otro sermón."
+    "Después de un largo día y una cena abundante, Ivy y André deciden terminar la noche con otro sermón."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:44
 translate spanish b1c08cs08_09dfcd09:
@@ -44,13 +44,13 @@ translate spanish b1c08cs08_9414c7fb:
 translate spanish b1c08cs08_84a7fd33:
 
     # ih "Yvonne, as I'm sure you've noticed, is pregnant with a miracle child."
-    ih "Yvonne, como seguramente habrás notado, está embarazada de un niño milagroso."
+    ih "Yvonne, como seguramente habrán notado, está embarazada de un bebé milagroso."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:63
 translate spanish b1c08cs08_3f69bef4:
 
     # "Ivy casts a nasty glare at Andre."
-    "Ivy le lanza una mirada desagradable a Andre."
+    "Ivy le lanza una mirada desagradable a André."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:65
 translate spanish b1c08cs08_a5838d2c:
@@ -68,7 +68,7 @@ translate spanish b1c08cs08_e07476df:
 translate spanish b1c08cs08_0338463e:
 
     # ys "Blessed be me and my child by Narurra."
-    ys "Benditos seamos yo y mi hijo por Narurra."
+    ys "Benditos seamos yo y mi bebé por Narurra."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:74
 translate spanish b1c08cs08_5eb12dc9:
@@ -152,7 +152,7 @@ translate spanish b1c08cs08_0cbcc25b:
 translate spanish b1c08cs08_b1e44293:
 
     # "While Ivy and Andre continue the sermon, you whisper to Lumi."
-    "Mientras Ivy y Andre continúan el sermón, le susurras a Lumi."
+    "Mientras Ivy y André continúan el sermón, le susurras a Lumi."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:116
 translate spanish b1c08cs08_6dbf6aae:
@@ -182,7 +182,7 @@ translate spanish b1c08cs08_4238201a:
 translate spanish b1c08cs08_84b84fee:
 
     # mc "Tonight would be a good time to announce your decision. And I think it'd be best if it was a positive answer."
-    mc "Esta noche sería un buen momento para anunciar su decisión. Y creo que sería mejor si fuera una respuesta positiva."
+    mc "Esta noche sería un buen momento para anunciar tu decisión. Y creo que sería mejor si fuera una respuesta positiva."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:130
 translate spanish b1c08cs08_c988a918:
@@ -374,7 +374,7 @@ translate spanish b1c08cs08_nv_mc_talk_3be732bf:
 translate spanish b1c08cs08_nv_mc_talk_42943132:
 
     # dk "Nia, would you like to start us off?"
-    dk "Nia, ¿te gustaría empezar con nosotros?"
+    dk "Nia, ¿te gustaría empezar?"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:218
 translate spanish b1c08cs08_nv_mc_talk_8167ca51:
@@ -464,7 +464,7 @@ translate spanish b1c08cs08_nv_mc_talk_bc8638ed:
 translate spanish b1c08cs08_nv_mc_talk_9ba5d249:
 
     # mc "I'm very thankful for the kindness everyone has shown me while I've been here, though."
-    mc "Estoy muy agradecido por la amabilidad que todos me han mostrado mientras estuve aquí."
+    mc "No obstante, estoy muy agradecido por la amabilidad que todos me han demostrado mientras he estado aquí."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:267
 translate spanish b1c08cs08_nv_mc_talk_0c8f6c38:
@@ -758,7 +758,7 @@ translate spanish b1c08cs08_ll_talk_99ff474a:
 translate spanish b1c08cs08_ll_talk_0b945ca3:
 
     # "The crowd's cheering and applause dies down, and Andre faces Lumi expectantly."
-    "Los vítores y aplausos de la multitud disminuyen y Andre mira expectante a Lumi."
+    "Los vítores y aplausos de la multitud disminuyen y André mira expectante a Lumi."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:405
 translate spanish b1c08cs08_ll_talk_b6145eb9:
@@ -776,13 +776,13 @@ translate spanish b1c08cs08_ll_talk_ae2df3e4:
 translate spanish b1c08cs08_ll_talk_5776fdfd:
 
     # ll "But is it required that you mark me? To brand me like livestock?"
-    ll "¿Pero es necesario que me marques? ¿Que me marquen como si fuera ganado?"
+    ll "¿Pero es necesario marcarme? ¿Que me marquen como si fuera ganado?"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:412
 translate spanish b1c08cs08_ll_talk_fc975291:
 
     # "Andre gives Lumi an abnormally patient smile."
-    "Andre le da a Lumi una sonrisa anormalmente paciente."
+    "André le da a Lumi una sonrisa anormalmente paciente."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:414
 translate spanish b1c08cs08_ll_talk_4c6df594:
@@ -794,7 +794,7 @@ translate spanish b1c08cs08_ll_talk_4c6df594:
 translate spanish b1c08cs08_ll_talk_a6861562:
 
     # ad "Don't you want to be branded for {i}all{/i} of us?"
-    ad "¿No quieres que te marquen por {i}todos{/i} nosotros?"
+    ad "¿No quieres que te marquen para {i}todos{/i} nosotros?"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:419
 translate spanish b1c08cs08_ll_talk_5bb98a18:
@@ -908,7 +908,7 @@ translate spanish b1c08cs08_ll_talk_71161586:
 translate spanish b1c08cs08_ll_talk_582df0af:
 
     # "Then she looks back at Andre, still unsure of how to respond in such a public display."
-    "Luego vuelve a mirar a Andre, todavía insegura de cómo responder ante una exhibición tan pública."
+    "Luego vuelve a mirar a André, todavía insegura de cómo responder ante una exhibición tan pública."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:463
 translate spanish b1c08cs08_ll_talk_19b58bca:
@@ -1220,7 +1220,7 @@ translate spanish b1c08cs08_ll_punishment_b422f4f1:
 translate spanish b1c08cs08_ll_punishment_ba6cf4b8:
 
     # "You and Lumi face Ivy and Andre together, presenting a unified front, despite your less than desirable positions."
-    "Lumi y tú se enfrentan a Ivy y Andre juntos, presentando un frente unificado, a pesar de sus posiciones poco deseables."
+    "Lumi y tú se enfrentan a Ivy y André juntos, presentando un frente unificado, a pesar de sus posiciones poco deseables."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:643
 translate spanish b1c08cs08_ll_punishment_bac0a4a1:
@@ -1238,7 +1238,7 @@ translate spanish b1c08cs08_ll_punishment_28a9cd86:
 translate spanish b1c08cs08_ll_punishment_126df2c5:
 
     # mct "Regardless of Andre or Ivy's intentions, I'm the one who will be enacting the punishment."
-    mct "Independientemente de las intenciones de Andre o Ivy, seré yo quien implementará el castigo."
+    mct "Independientemente de las intenciones de André o Ivy, seré yo quien implementará el castigo."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:648
 translate spanish b1c08cs08_ll_punishment_8f217a61:
@@ -1310,7 +1310,7 @@ translate spanish b1c08cs08_ll_punishment_a4e4e877:
 translate spanish b1c08cs08_ll_punishment_a3eba46d:
 
     # ih "Andre, get [mcname] a chair so we can begin."
-    ih "Andre, tráele a [mcname] una silla para que podamos empezar."
+    ih "André, tráele a [mcname] una silla para que podamos empezar."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:680
 translate spanish b1c08cs08_ll_punishment_ee4aac44:
@@ -1346,7 +1346,7 @@ translate spanish b1c08cs08_ll_spanking_07f9ceee:
 translate spanish b1c08cs08_ll_spanking_54a52e86:
 
     # mc "Right. I'm right here with you."
-    mc "Cierto. Estoy aquí contigo."
+    mc "Así es. Estoy aquí contigo."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:714
 translate spanish b1c08cs08_ll_spanking_1dcbe2ce:
@@ -1382,7 +1382,7 @@ translate spanish b1c08cs08_ll_spanking_11ccb503:
 translate spanish b1c08cs08_ll_spanking_a2d7f63d:
 
     # "Ivy puts a firm hand on Andre's arm to shut him up."
-    "Ivy pone una mano firme en el brazo de Andre para hacerle callar."
+    "Ivy pone una mano firme en el brazo de André para hacerle callar."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:731
 translate spanish b1c08cs08_ll_spanking_4c9ef7dd:
@@ -1478,7 +1478,7 @@ translate spanish b1c08cs08_ll_spanking_37db77d9:
 translate spanish b1c08cs08_ll_spanking_6369d387:
 
     # "Lumi looks very worried she can't take anymore. Your palm is sore from how long Ivy and Andre have made you spank her."
-    "Lumi parece muy preocupada porque no puede soportar más. Te duele la palma de la mano por el tiempo que Ivy y Andre te hicieron azotarla."
+    "Lumi parece muy preocupada porque no puede soportar más. Te duele la palma de la mano por el tiempo que Ivy y André te hicieron azotarla."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:796
 translate spanish b1c08cs08_ll_spanking_95c7633a:
@@ -1520,7 +1520,7 @@ translate spanish b1c08cs08_ll_spanking_5b69e72c:
 translate spanish b1c08cs08_ll_spanking_5d0fce23:
 
     # ll "I-I'm sorry! I can't take it anymore."
-    ll "¡Lo-lo siento! No lo soporto más."
+    ll "¡Lo... lo siento! No lo soporto más."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:820
 translate spanish b1c08cs08_ll_spanking_6c7016e8:
@@ -1670,7 +1670,7 @@ translate spanish b1c08cs08_ll_spanking_9ace8e5a:
 translate spanish b1c08cs08_ll_spanking_9cdfe85b:
 
     # ll "Andre, I'm ready to get tattooed."
-    ll "Andre, estoy lista para tatuarme."
+    ll "André, estoy lista para tatuarme."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:894
 translate spanish b1c08cs08_ll_spanking_a2eb2660:
@@ -1886,7 +1886,7 @@ translate spanish b1c08cs08_end_1e56c17f:
 translate spanish b1c08cs08_end_d262902d:
 
     # dk "I'll talk to Andre and Ivy about your rank tomorrow."
-    dk "Mañana hablaré con Andre e Ivy sobre tu rango."
+    dk "Mañana hablaré con André e Ivy sobre tu rango."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:1049
 translate spanish b1c08cs08_end_6383c8cc:
@@ -1916,7 +1916,7 @@ translate spanish b1c08cs08_end_9d417c89:
 translate spanish b1c08cs08_end_4a059acd:
 
     # dk "I know that Ivy will agree. Not so sure about Andre."
-    dk "Sé que Ivy estará de acuerdo. No estoy tan segura de Andre."
+    dk "Sé que Ivy estará de acuerdo. No estoy tan segura de André."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:1059
 translate spanish b1c08cs08_end_a1666568:
@@ -1970,7 +1970,7 @@ translate spanish b1c08cs08_end_7be6483f:
 translate spanish b1c08cs08_end_5938e9e8:
 
     # mc "Goodnight, Del. I'll be up tomorrow when you go for that talk."
-    mc "Buenas noches, Del. Me levantaré mañana cuando vayas a esa conversación."
+    mc "Buenas noches, Del. Me levantaré temprano mañana cuando vayas a esa conversación."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:1086
 translate spanish b1c08cs08_end_4b7d39fe:
@@ -2004,7 +2004,7 @@ translate spanish strings:
 
     # game/code/Book-1/Chapter-8c/s08.rpy:231
     old "Love is what holds us together. It's a god we must obey"
-    new "El amor es lo que nos mantiene unidos. Es un dios al que debemos obedecer"
+    new "El amor es lo que nos mantiene unidos. Es una diosa al que debemos obedecer"
 
     # game/code/Book-1/Chapter-8c/s08.rpy:231
     old "I didn't think I'd make it this far"
@@ -2032,5 +2032,5 @@ translate spanish b1c08cs08_ll_spanking_d643c708:
 translate spanish b1c08cs08_ll_spanking_6c63b3c0:
 
     # "At Yvonne's silent cue, Sloan and Nerium also rise."
-    "A la señal silenciosa de Yvonne, Sloan y Nerium también se levantan."
+    "A la señal silenciosa de Yvonne, Sloan y Nerium también se ponen de pie."
 
