@@ -62,7 +62,7 @@ translate spanish b1c08cs10_9d5e2145:
 translate spanish b1c08cs10_3f029d75:
 
     # nv "Yes. And we dressed how you asked, too."
-    nv "Sí. Y también nos vestimos como me pediste."
+    nv "Sí. Y también nos vestimos como pediste."
 
 # game/code/Book-1/Chapter-8c/s10.rpy:241
 translate spanish b1c08cs10_7b4955e2:
@@ -92,7 +92,7 @@ translate spanish b1c08cs10_2ac7aef0:
 translate spanish b1c08cs10_aba4738b:
 
     # ih "Get up there and speak."
-    ih "Sube ahí y habla."
+    ih "Ve allí y habla."
 
 # game/code/Book-1/Chapter-8c/s10.rpy:257
 translate spanish b1c08cs10_b27ab0f2:
@@ -140,7 +140,7 @@ translate spanish b1c08cs10_bc0af98b:
 translate spanish b1c08cs10_5a35c205:
 
     # nv "It makes me wonder... What if Narurra was never redeemed? What if she already was? What if the answer to those questions is how she became a goddess?"
-    nv "Me hace preguntarme... ¿Y si Narurra nunca fuera redimida? ¿Y si ya lo era? ¿Y si la respuesta a esas preguntas fuera cómo se convirtió en diosa?"
+    nv "Me hace preguntarme... ¿Y si Narurra nunca fue redimida? ¿Y si ya lo estaba? ¿Y si la respuesta a esas preguntas es cómo se convirtió en diosa?"
 
 # game/code/Book-1/Chapter-8c/s10.rpy:277
 translate spanish b1c08cs10_53dd20d1:
@@ -218,7 +218,7 @@ translate spanish b1c08cs10_22cbf3f6:
 translate spanish b1c08cs10_b2b29c47:
 
     # ih "She must emulate being a martyr just as Narurra did."
-    ih "Debe emular el hecho de ser una mártir tal como lo hizo Narurra."
+    ih "Ella debe emular ser una mártir como lo hizo Narurra."
 
 # game/code/Book-1/Chapter-8c/s10.rpy:303
 translate spanish b1c08cs10_acd4fb5a:
@@ -356,7 +356,7 @@ translate spanish b1c08cs10_ritual_9311626a:
 translate spanish b1c08cs10_ritual_69e4e2af:
 
     # "You follow Nia's lead easily, as though you can read her mind."
-    "Sigues fácilmente el ejemplo de Nia, como si pudieras leer su mente."
+    "Sigues fácilmente las indicaciones de Nia, como si pudieras leer su mente."
 
 # game/code/Book-1/Chapter-8c/s10.rpy:367
 translate spanish b1c08cs10_ritual_d4133181:
@@ -398,7 +398,7 @@ translate spanish b1c08cs10_ritual_d4c4484a:
 translate spanish b1c08cs10_ritual_b487e7db:
 
     # nv "*Whispers* Just keep letting your higher self guide you."
-    nv "*Susurros* Sigue dejando que tu yo superior te guíe."
+    nv "*Susurros* Sigue dejándote guiar por tu yo superior."
 
 # game/code/Book-1/Chapter-8c/s10.rpy:386
 translate spanish b1c08cs10_ritual_0df00203:
@@ -476,7 +476,7 @@ translate spanish b1c08cs10_ritual_e656a2d3:
 translate spanish b1c08cs10_ritual_00c852a4:
 
     # "Andre and Ivy start a low, rhythmic chant."
-    "Andre e Ivy comienzan un canto rítmico y bajo."
+    "André e Ivy comienzan un canto rítmico y bajo."
 
 # game/code/Book-1/Chapter-8c/s10.rpy:460
 translate spanish b1c08cs10_ritual_66b49976:
@@ -494,7 +494,7 @@ translate spanish b1c08cs10_ritual_f6ea6218:
 translate spanish b1c08cs10_ritual_bdc159c1:
 
     # nv "*Mumbles* I'm on fire, I'm on fire, I'm on fire..."
-    nv "*murmura* Estoy en llamas, estoy en llamas, estoy en llamas..."
+    nv "*Murmura* Estoy en llamas, estoy en llamas, estoy en llamas..."
 
 # game/code/Book-1/Chapter-8c/s10.rpy:465
 translate spanish b1c08cs10_ritual_19ffab03:
@@ -686,7 +686,7 @@ translate spanish b1c08cs10_ritual_52e3f800:
 translate spanish b1c08cs10_ritual_d6178682:
 
     # "People gravitate toward each other in the crowd, finding partners to kiss, rub, or touch."
-    "La gente se mueve entre la multitud, buscando compañeros a los que besar, frotar o tocar."
+    "La gente se mueve entre la multitud, buscando compañeras a los que besar, frotar o tocar."
 
 # game/code/Book-1/Chapter-8c/s10.rpy:574
 translate spanish b1c08cs10_ritual_b18fdd5c:
@@ -722,7 +722,7 @@ translate spanish b1c08cs10_ritual_cf59df1c:
 translate spanish b1c08cs10_ritual_84a1560d:
 
     # mc "You are so beautiful, Nia. {w}That's right, feel good for me."
-    mc "Eres tan hermosa, Nia. {w}Así es, siéntete bien por mí."
+    mc "Eres tan hermosa, Nia. {w}Así es, siéntete bien para mí."
 
 # game/code/Book-1/Chapter-8c/s10.rpy:616
 translate spanish b1c08cs10_ritual_00146cec:
@@ -734,7 +734,7 @@ translate spanish b1c08cs10_ritual_00146cec:
 translate spanish b1c08cs10_ritual_502db14b:
 
     # nv "I-It feels so good, I'm—I'm—"
-    nv "Se-se siente tan bien, estoy—estoy—"
+    nv "Se... se siente tan bien, estoy—estoy—"
 
 # game/code/Book-1/Chapter-8c/s10.rpy:622
 translate spanish b1c08cs10_ritual_9ccc3ca2:
@@ -776,13 +776,13 @@ translate spanish b1c08cs10_ritual_398e1fec:
 translate spanish b1c08cs10_ritual_2b16076a:
 
     # "Andre and Ivy lock eyes, an unspoken conversation being held between them."
-    "Andre e Ivy se miran a los ojos y mantienen una conversación tácita entre ellos."
+    "André e Ivy se miran a los ojos y mantienen una conversación tácita entre ellos."
 
 # game/code/Book-1/Chapter-8c/s10.rpy:643
 translate spanish b1c08cs10_ritual_e5cc95fc:
 
     # "After a moment, Andre looks defeated, but addresses the crowd once more."
-    "Después de un momento, Andre parece derrotado, pero se dirige a la multitud una vez más."
+    "Después de un momento, André parece derrotado, pero se dirige a la multitud una vez más."
 
 # game/code/Book-1/Chapter-8c/s10.rpy:645
 translate spanish b1c08cs10_ritual_23993845:
@@ -794,7 +794,7 @@ translate spanish b1c08cs10_ritual_23993845:
 translate spanish b1c08cs10_ritual_49834806:
 
     # "A celebratory moan goes over the crowd, though most are too busy exploring each other's bodies to truly stop."
-    "Un gemido de celebración recorre la multitud, aunque la mayoría está demasiado ocupado explorando los cuerpos de los demás como para detenerse realmente."
+    "Un gemido de celebración recorre la multitud, aunque la mayoría está demasiado ocupada explorando los cuerpos de las demás como para detenerse realmente."
 
 # game/code/Book-1/Chapter-8c/s10.rpy:663
 translate spanish b1c08cs10_ritual_ea2d5e9b:
