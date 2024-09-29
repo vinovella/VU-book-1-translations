@@ -8,7 +8,7 @@ translate spanish b1c08ws11_f0462a87:
 translate spanish b1c08ws11_dbc88d9e:
 
     # "Even Iona's usual mischievous spirit seems dampened by the lost match."
-    "Incluso el habitual espíritu travieso de Iona parece debilitado por el partido perdido."
+    "Incluso el habitual espíritu travieso de Iona parece debilitado por el juego perdido."
 
 # game/code/Book-1/Chapter-8w/s11.rpy:68
 translate spanish b1c08ws11_b277d51d:
@@ -50,7 +50,7 @@ translate spanish b1c08ws11_588fc319:
 translate spanish b1c08ws11_9e69040e:
 
     # ba "You fucking {i}what{/i}?!"
-    ba "¡¿Maldito {i}qué{/i}?"
+    ba "¡¿Qué mierda?!"
 
 # game/code/Book-1/Chapter-8w/s11.rpy:94
 translate spanish b1c08ws11_81e6be92:
@@ -92,7 +92,7 @@ translate spanish b1c08ws11_6e656600:
 translate spanish b1c08ws11_017910f6:
 
     # mc "Here, let me help you with that."
-    mc "Toma, déjame ayudarte con eso."
+    mc "Déjame ayudarte con eso."
 
 # game/code/Book-1/Chapter-8w/s11.rpy:120
 translate spanish b1c08ws11_4782cae5:
@@ -260,7 +260,7 @@ translate spanish b1c08ws11_21b96ee6:
 translate spanish b1c08ws11_fc862652:
 
     # mc "What is there to apologize for?"
-    mc "¿Por qué hay que disculparse?"
+    mc "¿De qué hay que disculparse?"
 
 # game/code/Book-1/Chapter-8w/s11.rpy:209
 translate spanish b1c08ws11_eff6ddbb:
@@ -278,7 +278,7 @@ translate spanish b1c08ws11_73da9690:
 translate spanish b1c08ws11_e82712d7:
 
     # sm "I do. I really do. You've been through so much, and I...I wasn't there for you. I didn't back you up when I should have."
-    sm "Sí. Realmente tengo que hacerlo. Has pasado por mucho y yo... yo no estaba ahí para ti. No te apoyé cuando debería haberlo hecho."
+    sm "Sí, tengo que hacerlo. De verdad. Has pasado por mucho, y yo... no estuve ahí para ti. No te apoyé cuando debería haberlo hecho."
 
 # game/code/Book-1/Chapter-8w/s11.rpy:216
 translate spanish b1c08ws11_5e09ac0b:
@@ -296,7 +296,7 @@ translate spanish b1c08ws11_9dfaafcb:
 translate spanish b1c08ws11_664d7a9e:
 
     # mc "It's been a hard time for all of us. I get it. I do. But I also know that what we're going through is bigger than just me. You had other obligations."
-    mc "Ha sido un momento difícil para todos nosotros. Lo entiendo. Sí. Pero también sé que lo que estamos pasando es más grande que solo yo. Tenías otras obligaciones."
+    mc "Han sido tiempos difíciles para todos nosotros. Lo entiendo. De verdad. Pero también sé que lo que estamos pasando es más grande que sólo yo. Tenías otras obligaciones."
 
 # game/code/Book-1/Chapter-8w/s11.rpy:225
 translate spanish b1c08ws11_213f1772:
@@ -326,7 +326,7 @@ translate spanish b1c08ws11_38e48814:
 translate spanish b1c08ws11_345eac50:
 
     # sm "I tried to run away from one thing like a coward, and ignored the issues I saw just to save myself some peace of mind."
-    sm "Intenté huir de algo como una cobarde e ignoré los problemas que veía sólo para tranquilizarme un poco."
+    sm "Intenté huir de todo como una cobarde e ignoré los problemas que veía sólo para poder tranquilizarme."
 
 # game/code/Book-1/Chapter-8w/s11.rpy:237
 translate spanish b1c08ws11_941e52ef:
@@ -428,7 +428,7 @@ translate spanish b1c08ws11_bff1369b:
 translate spanish b1c08ws11_18695581:
 
     # "You start to undress the rest of the way as you kiss to the other side of her chest, teasing her with your tongue and lips."
-    "Empiezas a desvestirte el resto del camino mientras besas el otro lado de su pecho, provocándola con tu lengua y labios."
+    "Empiezas a desvestirte el resto del camino mientras besas el otro lado de su pecho, provocándola con tu lengua y los labios."
 
 # game/code/Book-1/Chapter-8w/s11.rpy:313
 translate spanish b1c08ws11_5951971e:
@@ -452,7 +452,7 @@ translate spanish b1c08ws11_5d193759:
 translate spanish b1c08ws11_9536baab:
 
     # "You slide inside Silvia slowly, and feel her needily tighten, pulling you farther in."
-    "Te deslizas dentro de Silvia lentamente y sientes cómo se aprieta necesitadamente, empujándote más hacia dentro."
+    "Te deslizas lentamente en el interior de Silvia y sientes cómo se contrae, empujándote más adentro."
 
 # game/code/Book-1/Chapter-8w/s11.rpy:326
 translate spanish b1c08ws11_4976ee6e:
@@ -506,7 +506,7 @@ translate spanish b1c08ws11_17a722aa:
 translate spanish b1c08ws11_2f4ce43c:
 
     # "Silvia clings to you, so blissed out and greedy to feel as much of you as possible."
-    "Silvia se aferra a ti, tan feliz y ávida de sentir lo más de ti posible."
+    "Silvia se aferra a ti, tan feliz y ávida de sentirte tanto como sea posible."
 
 # game/code/Book-1/Chapter-8w/s11.rpy:417
 translate spanish b1c08ws11_295dc9ab:
@@ -638,7 +638,7 @@ translate spanish b1c08ws11_6d068275:
 translate spanish b1c08ws11_ef8ac5c0:
 
     # sm "Simple is good. Sometimes, it's exactly what we need to keep going."
-    sm "Lo sencillo es bueno. A veces, es exactamente lo que necesitamos para seguir adelante."
+    sm "Lo simple es bueno. A veces, es exactamente lo que necesitamos para seguir adelante."
 
 # game/code/Book-1/Chapter-8w/s11.rpy:487
 translate spanish b1c08ws11_505e59dd:
@@ -662,7 +662,7 @@ translate spanish b1c08ws11_cf1f6eb7:
 translate spanish b1c08ws11_af5acc21:
 
     # sm "*Happy, indistinct mumbles*"
-    sm "*Feliz, murmullos confusos*"
+    sm "*Murmullos alegres e ininteligibles*"
 
 # game/code/Book-1/Chapter-8w/s11.rpy:499
 translate spanish b1c08ws11_1653df28:
