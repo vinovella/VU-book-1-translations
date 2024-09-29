@@ -13,8 +13,8 @@ translate turkish b1c09s15_bb40bb8d:
 # game/code/Book-1/Chapter-9/s15.rpy:211
 translate turkish b1c09s15_267c5f98:
 
-    # c1 "*Sighs* This might be selfish, but I'm glad that I have you and [c3.name] to talk with."
-    c1 "*İç çekiyor* Bu bencilce olabilir, ama seninle ve [c3.name] ile konuşabildiğim için mutluyum."
+    # c1 "*Sighs* This might be selfish, but I'm glad that I have you and [c3.name!t] to talk with."
+    c1 "*İç çekiyor* Bu bencilce olabilir, ama seninle ve [c3.name!t] ile konuşabildiğim için mutluyum."
 
 # game/code/Book-1/Chapter-9/s15.rpy:214
 translate turkish b1c09s15_c8016065:
@@ -25,8 +25,8 @@ translate turkish b1c09s15_c8016065:
 # game/code/Book-1/Chapter-9/s15.rpy:217
 translate turkish b1c09s15_7a162bba:
 
-    # c2 "I get it. I'm glad I got you and [c3.name] as well."
-    c2 "Anladım. Sana ve [c3.name]'e de sahip olduğum için mutluyum."
+    # c2 "I get it. I'm glad I got you and [c3.name!t] as well."
+    c2 "Anladım. Sana ve [c3.name!t]'e de sahip olduğum için mutluyum."
 
 # game/code/Book-1/Chapter-9/s15.rpy:223
 translate turkish b1c09s15_8206dbd6:
@@ -85,8 +85,8 @@ translate turkish b1c09s15_b038267a:
 # game/code/Book-1/Chapter-9/s15.rpy:263
 translate turkish b1c09s15_88729636:
 
-    # c1 "*Slightly amused* Didn't peg you for the spontaneous type, [c2.name]."
-    c1 "*Hafifçe eğlendi* Spontane bir tip olduğunu düşünmemiştim, [c2.name]."
+    # c1 "*Slightly amused* Didn't peg you for the spontaneous type, [c2.name!t]."
+    c1 "*Hafifçe eğlendi* Spontane bir tip olduğunu düşünmemiştim, [c2.name!t]."
 
 # game/code/Book-1/Chapter-9/s15.rpy:270
 translate turkish b1c09s15_566f54af:
@@ -103,8 +103,8 @@ translate turkish b1c09s15_4c8256dd:
 # game/code/Book-1/Chapter-9/s15.rpy:282
 translate turkish b1c09s15_bc6aa8ea:
 
-    # "[c2.name] pours the first round, the harsh liquid stings your nose as it sloshes into the glasses with a promise of temporary forgetfulness."
-    "[c2.name] ilk kadehi doldurur, sert sıvı geçici bir unutkanlık vaadiyle bardaklara akarken burnunuza batar."
+    # "[c2.name!t] pours the first round, the harsh liquid stings your nose as it sloshes into the glasses with a promise of temporary forgetfulness."
+    "[c2.name!t] ilk kadehi doldurur, sert sıvı geçici bir unutkanlık vaadiyle bardaklara akarken burnunuza batar."
 
 # game/code/Book-1/Chapter-9/s15.rpy:291
 translate turkish b1c09s15_adb780de:
@@ -121,8 +121,8 @@ translate turkish b1c09s15_a8579d6b:
 # game/code/Book-1/Chapter-9/s15.rpy:333
 translate turkish b1c09s15_e6abea23:
 
-    # "Amidst the shots, [c2.name] decides to kick things up a notch, her voice bubbling with excitement."
-    "Atışların ortasında, [c2.name] heyecanla köpüren sesiyle bir çentik atmaya karar verir."
+    # "Amidst the shots, [c2.name!t] decides to kick things up a notch, her voice bubbling with excitement."
+    "Atışların ortasında, [c2.name!t] heyecanla köpüren sesiyle bir çentik atmaya karar verir."
 
 # game/code/Book-1/Chapter-9/s15.rpy:336
 translate turkish b1c09s15_a0978087:
@@ -139,8 +139,8 @@ translate turkish b1c09s15_da848e7f:
 # game/code/Book-1/Chapter-9/s15.rpy:347
 translate turkish b1c09s15_4d5fa2b6:
 
-    # "[c2.name] bursts into laughter, not even hesitating as she grabs her shot, a twinkle of rebelliousness in her eyes."
-    "[c2.name] kahkahalara boğuldu, atışını yaparken tereddüt bile etmedi, gözlerinde bir isyankarlık pırıltısı."
+    # "[c2.name!t] bursts into laughter, not even hesitating as she grabs her shot, a twinkle of rebelliousness in her eyes."
+    "[c2.name!t] kahkahalara boğuldu, atışını yaparken tereddüt bile etmedi, gözlerinde bir isyankarlık pırıltısı."
 
 # game/code/Book-1/Chapter-9/s15.rpy:348
 translate turkish b1c09s15_326e0e56:
@@ -157,8 +157,8 @@ translate turkish b1c09s15_1462243b:
 # game/code/Book-1/Chapter-9/s15.rpy:355
 translate turkish b1c09s15_d9657270:
 
-    # "[c1.name], with a slightly embarrassed yet daring grin, follows suit, the warmth of the room emboldening her."
-    "[c1.name], biraz mahcup ama cesur bir sırıtışla, odanın sıcaklığı onu cesaretlendirerek aynı şeyi yapıyor."
+    # "[c1.name!t], with a slightly embarrassed yet daring grin, follows suit, the warmth of the room emboldening her."
+    "[c1.name!t], biraz mahcup ama cesur bir sırıtışla, odanın sıcaklığı onu cesaretlendirerek aynı şeyi yapıyor."
 
 # game/code/Book-1/Chapter-9/s15.rpy:362
 translate turkish b1c09s15_dadc90f0:
@@ -175,8 +175,8 @@ translate turkish b1c09s15_58f24d3d:
 # game/code/Book-1/Chapter-9/s15.rpy:369
 translate turkish b1c09s15_a0f7d0e7:
 
-    # "[c2.name] then leans forward with her eyes sparkling with mischief."
-    "[c2.name] sonra gözleri fesatlıkla parlayarak öne doğru eğilir."
+    # "[c2.name!t] then leans forward with her eyes sparkling with mischief."
+    "[c2.name!t] sonra gözleri fesatlıkla parlayarak öne doğru eğilir."
 
 # game/code/Book-1/Chapter-9/s15.rpy:372
 translate turkish b1c09s15_94cbdc7d:
@@ -217,8 +217,8 @@ translate turkish b1c09s15_a4f69367:
 # game/code/Book-1/Chapter-9/s15.rpy:389
 translate turkish b1c09s15_93ae046f:
 
-    # "[c2.name] looks away coyly and grabs a shot."
-    "[c2.name] cilveli bir şekilde uzaklara bakar ve bir atış yapar."
+    # "[c2.name!t] looks away coyly and grabs a shot."
+    "[c2.name!t] cilveli bir şekilde uzaklara bakar ve bir atış yapar."
 
 # game/code/Book-1/Chapter-9/s15.rpy:395
 translate turkish b1c09s15_f190ed7a:
@@ -283,8 +283,8 @@ translate turkish b1c09s15_6a31e6d1:
 # game/code/Book-1/Chapter-9/s15.rpy:436
 translate turkish b1c09s15_85786070:
 
-    # "The question hangs in the air. You cast a glance at [c2.name]."
-    "Soru havada asılı duruyor. Sen [c2.name]'e bir bakış at."
+    # "The question hangs in the air. You cast a glance at [c2.name!t]."
+    "Soru havada asılı duruyor. Sen [c2.name!t]'e bir bakış at."
 
 # game/code/Book-1/Chapter-9/s15.rpy:439
 translate turkish b1c09s15_c7236053:
@@ -301,14 +301,14 @@ translate turkish b1c09s15_ede5dc14:
 # game/code/Book-1/Chapter-9/s15.rpy:446
 translate turkish b1c09s15_2dce2e18:
 
-    # "[c2.name] follows, her cheeks flushed with a mix of the alcohol and the thrill of the confession, her smile shy yet daring."
-    "[c2.name] takip ediyor, yanakları alkolün ve itirafın heyecanının karışımıyla kızarmış, gülümsemesi utangaç ama cesur."
+    # "[c2.name!t] follows, her cheeks flushed with a mix of the alcohol and the thrill of the confession, her smile shy yet daring."
+    "[c2.name!t] takip ediyor, yanakları alkolün ve itirafın heyecanının karışımıyla kızarmış, gülümsemesi utangaç ama cesur."
 
 # game/code/Book-1/Chapter-9/s15.rpy:457
 translate turkish b1c09s15_f47c7a4b:
 
-    # "[c2.name] cuts the awkward silence with a barely muffled snicker."
-    "[c2.name] garip sessizliği zorlukla boğuk bir kısık sesle keser."
+    # "[c2.name!t] cuts the awkward silence with a barely muffled snicker."
+    "[c2.name!t] garip sessizliği zorlukla boğuk bir kısık sesle keser."
 
 # game/code/Book-1/Chapter-9/s15.rpy:458
 translate turkish b1c09s15_7c2e5e2c:
@@ -355,8 +355,8 @@ translate turkish b1c09s15_de566358:
 # game/code/Book-1/Chapter-9/s15.rpy:528
 translate turkish b1c09s15_d4482523:
 
-    # "Flushed with excitement, [c1.name] perks up."
-    "Heyecandan kızarmış, [c1.name] neşelenir."
+    # "Flushed with excitement, [c1.name!t] perks up."
+    "Heyecandan kızarmış, [c1.name!t] neşelenir."
 
 # game/code/Book-1/Chapter-9/s15.rpy:531
 translate turkish b1c09s15_fde140e8:
@@ -487,8 +487,8 @@ translate turkish b1c09s15_sex_karaoke_end_5796dc7b:
 # game/code/Book-1/Chapter-9/s15.rpy:676
 translate turkish b1c09s15_sex_karaoke_end_b06d9881:
 
-    # "[c2.name] nods, her eyes locked on yours, and in a moment that feels like it's suspended outside of time, she leans in and kisses you."
-    "[c2.name] başını sallıyor, gözleri seninkilere kilitleniyor ve zamanın dışında asılı kalmış gibi hissettiren bir anda eğilip seni öpüyor."
+    # "[c2.name!t] nods, her eyes locked on yours, and in a moment that feels like it's suspended outside of time, she leans in and kisses you."
+    "[c2.name!t] başını sallıyor, gözleri seninkilere kilitleniyor ve zamanın dışında asılı kalmış gibi hissettiren bir anda eğilip seni öpüyor."
 
 # game/code/Book-1/Chapter-9/s15.rpy:681
 translate turkish b1c09s15_sex_karaoke_end_cb31a8f0:
@@ -499,14 +499,14 @@ translate turkish b1c09s15_sex_karaoke_end_cb31a8f0:
 # game/code/Book-1/Chapter-9/s15.rpy:684
 translate turkish b1c09s15_sex_karaoke_end_8335118f:
 
-    # "[c1.name] catches your kiss from the side of her eyes. Her expression a mix of surprise and something softer, a gentle understanding."
-    "[c1.name] öpücüğünüzü gözlerinin yanından yakalıyor. Yüz ifadesi şaşkınlık ve daha yumuşak bir şeyin karışımı, nazik bir anlayış."
+    # "[c1.name!t] catches your kiss from the side of her eyes. Her expression a mix of surprise and something softer, a gentle understanding."
+    "[c1.name!t] öpücüğünüzü gözlerinin yanından yakalıyor. Yüz ifadesi şaşkınlık ve daha yumuşak bir şeyin karışımı, nazik bir anlayış."
 
 # game/code/Book-1/Chapter-9/s15.rpy:690
 translate turkish b1c09s15_sex_karaoke_end_20c34603:
 
-    # "As [c2.name] pulls back, there's a fleeting look of apology, as if she's second-guessing her impulsiveness."
-    "[c2.name] geri çekilirken, sanki düşüncesizliğini ikinci kez değerlendiriyormuş gibi kısacık bir özür bakışı var."
+    # "As [c2.name!t] pulls back, there's a fleeting look of apology, as if she's second-guessing her impulsiveness."
+    "[c2.name!t] geri çekilirken, sanki düşüncesizliğini ikinci kez değerlendiriyormuş gibi kısacık bir özür bakışı var."
 
 # game/code/Book-1/Chapter-9/s15.rpy:692
 translate turkish b1c09s15_sex_karaoke_end_2f13d546:
@@ -529,14 +529,14 @@ translate turkish b1c09s15_sex_karaoke_end_e989ff11:
 # game/code/Book-1/Chapter-9/s15.rpy:700
 translate turkish b1c09s15_sex_karaoke_end_0c83a716:
 
-    # "[c2.name] stands and regains her composure with a coy smile as her blush deepens."
-    "[c2.name] ayağa kalkar ve kızarıklığı derinleşirken nazlı bir gülümsemeyle soğukkanlılığını yeniden kazanır."
+    # "[c2.name!t] stands and regains her composure with a coy smile as her blush deepens."
+    "[c2.name!t] ayağa kalkar ve kızarıklığı derinleşirken nazlı bir gülümsemeyle soğukkanlılığını yeniden kazanır."
 
 # game/code/Book-1/Chapter-9/s15.rpy:704
 translate turkish b1c09s15_sex_karaoke_end_3b177bc9:
 
-    # "With a twinkle of mischief and a hint of curiosity in her eyes, [c1.name] turns towards you, her voice playful yet sincere."
-    "Gözlerinde muzip bir pırıltı ve bir parça merakla, [c1.name] size doğru dönüyor, sesi şakacı ama samimi."
+    # "With a twinkle of mischief and a hint of curiosity in her eyes, [c1.name!t] turns towards you, her voice playful yet sincere."
+    "Gözlerinde muzip bir pırıltı ve bir parça merakla, [c1.name!t] size doğru dönüyor, sesi şakacı ama samimi."
 
 # game/code/Book-1/Chapter-9/s15.rpy:707
 translate turkish b1c09s15_sex_karaoke_end_40d12630:
@@ -601,8 +601,8 @@ translate turkish b1c09s15_sex_karaoke_end_ea2df8ba:
 # game/code/Book-1/Chapter-9/s15.rpy:761
 translate turkish b1c09s15_sex_karaoke_end_f64856cc:
 
-    # "As [c1.name]'s hand caresses your chest with feather-light touches, [c2.name]'s soft lips brush against your neck, sending shivers down your spine."
-    "[c1.name]'in eli tüy kadar hafif dokunuşlarla göğsünüzü okşarken, [c2.name]'in yumuşak dudakları boynunuza sürtünerek omurganızdan aşağı ürperti gönderiyor."
+    # "As [c1.name!t]'s hand caresses your chest with feather-light touches, [c2.name!t]'s soft lips brush against your neck, sending shivers down your spine."
+    "[c1.name!t]'in eli tüy kadar hafif dokunuşlarla göğsünüzü okşarken, [c2.name!t]'in yumuşak dudakları boynunuza sürtünerek omurganızdan aşağı ürperti gönderiyor."
 
 # game/code/Book-1/Chapter-9/s15.rpy:767
 translate turkish b1c09s15_sex_karaoke_end_520a9b9a:
@@ -649,14 +649,14 @@ translate turkish b1c09s15_sex_karaoke_end_db2ca792:
 # game/code/Book-1/Chapter-9/s15.rpy:806
 translate turkish b1c09s15_sex_karaoke_end_394e7cfd:
 
-    # "While [c1.name] focuses her attention on your shaft and tip, lapping up your precum and overwhelming your senses."
-    "[c1.name] dikkatini şaftına ve ucuna odaklarken, prekumunu yalayıp duyularını alt üst ederken."
+    # "While [c1.name!t] focuses her attention on your shaft and tip, lapping up your precum and overwhelming your senses."
+    "[c1.name!t] dikkatini şaftına ve ucuna odaklarken, prekumunu yalayıp duyularını alt üst ederken."
 
 # game/code/Book-1/Chapter-9/s15.rpy:814
 translate turkish b1c09s15_sex_karaoke_end_3d65359c:
 
-    # "[c2.name]'s warm mouth slides down your thighs, teasing every inch of skin she encounters with a hunger that's both enticing and mesmerizing."
-    "[c2.name]'in sıcacık ağzı, hem baştan çıkarıcı hem de büyüleyici bir açlıkla karşılaştığı her santim deriyle alay ederek kalçalarınızdan aşağı kayıyor."
+    # "[c2.name!t]'s warm mouth slides down your thighs, teasing every inch of skin she encounters with a hunger that's both enticing and mesmerizing."
+    "[c2.name!t]'in sıcacık ağzı, hem baştan çıkarıcı hem de büyüleyici bir açlıkla karşılaştığı her santim deriyle alay ederek kalçalarınızdan aşağı kayıyor."
 
 # game/code/Book-1/Chapter-9/s15.rpy:823
 translate turkish b1c09s15_sex_karaoke_end_ac4c2001:
@@ -667,14 +667,14 @@ translate turkish b1c09s15_sex_karaoke_end_ac4c2001:
 # game/code/Book-1/Chapter-9/s15.rpy:824
 translate turkish b1c09s15_sex_karaoke_end_d1f6e450:
 
-    # "In response to seeing your pleasure, [c1.name] hums around your cock, her eyes locked with yours."
-    "Zevkinizi görmeye karşılık olarak, [c1.name] sikinizin etrafında mırıldanıyor, gözleri sizinkilere kilitlenmiş."
+    # "In response to seeing your pleasure, [c1.name!t] hums around your cock, her eyes locked with yours."
+    "Zevkinizi görmeye karşılık olarak, [c1.name!t] sikinizin etrafında mırıldanıyor, gözleri sizinkilere kilitlenmiş."
 
 # game/code/Book-1/Chapter-9/s15.rpy:830
 translate turkish b1c09s15_sex_karaoke_end_5ed57917:
 
-    # "You can't help but thrust your hips ever so slightly into [c1.name]'s waiting mouth, craving more of her velvet warmth."
-    "Elinde olmadan kalçalarını [c1.name]'in bekleyen ağzına doğru hafifçe itiyorsun, kadife sıcaklığından daha fazlasını arzuluyorsun."
+    # "You can't help but thrust your hips ever so slightly into [c1.name!t]'s waiting mouth, craving more of her velvet warmth."
+    "Elinde olmadan kalçalarını [c1.name!t]'in bekleyen ağzına doğru hafifçe itiyorsun, kadife sıcaklığından daha fazlasını arzuluyorsun."
 
 # game/code/Book-1/Chapter-9/s15.rpy:840
 translate turkish b1c09s15_sex_karaoke_end_58ca9b0b:
@@ -691,8 +691,8 @@ translate turkish b1c09s15_sex_karaoke_end_9d873848:
 # game/code/Book-1/Chapter-9/s15.rpy:860
 translate turkish b1c09s15_sex_karaoke_end_a78a9230:
 
-    # c1 "[c2.name], c'mere. Let's do it together."
-    c1 "[c2.name], c'mere. Hadi birlikte yapalım."
+    # c1 "[c2.name!t], c'mere. Let's do it together."
+    c1 "[c2.name!t], c'mere. Hadi birlikte yapalım."
 
 # game/code/Book-1/Chapter-9/s15.rpy:863
 translate turkish b1c09s15_sex_karaoke_end_c3181fe0:
@@ -703,14 +703,14 @@ translate turkish b1c09s15_sex_karaoke_end_c3181fe0:
 # game/code/Book-1/Chapter-9/s15.rpy:879
 translate turkish b1c09s15_sex_karaoke_end_0e97c450:
 
-    # "[c1.name]'s lips glide along your shaft, her tongue swirling around your sensitive tip with an expert finesse that sends jolts of ecstasy up your spine."
-    "[c1.name]'in dudakları şaftınız boyunca kayıyor, dili hassas ucunuzun etrafında omurganıza coşku sarsıntıları gönderen uzman bir incelikle dönüyor."
+    # "[c1.name!t]'s lips glide along your shaft, her tongue swirling around your sensitive tip with an expert finesse that sends jolts of ecstasy up your spine."
+    "[c1.name!t]'in dudakları şaftınız boyunca kayıyor, dili hassas ucunuzun etrafında omurganıza coşku sarsıntıları gönderen uzman bir incelikle dönüyor."
 
 # game/code/Book-1/Chapter-9/s15.rpy:883
 translate turkish b1c09s15_sex_karaoke_end_61daa315:
 
-    # "[c2.name], meanwhile, focuses on the other end of your shaft. Her soft lips and tongue roaming up and down, gently sucking and teasing you, making you twitch in pleasure."
-    "[c2.name], bu arada, şaftınızın diğer ucuna odaklanır. Yumuşak dudakları ve dili yukarı aşağı dolaşıyor, sizi nazikçe emiyor ve alay ediyor, zevk içinde seğirmenizi sağlıyor."
+    # "[c2.name!t], meanwhile, focuses on the other end of your shaft. Her soft lips and tongue roaming up and down, gently sucking and teasing you, making you twitch in pleasure."
+    "[c2.name!t], bu arada, şaftınızın diğer ucuna odaklanır. Yumuşak dudakları ve dili yukarı aşağı dolaşıyor, sizi nazikçe emiyor ve alay ediyor, zevk içinde seğirmenizi sağlıyor."
 
 # game/code/Book-1/Chapter-9/s15.rpy:885
 translate turkish b1c09s15_sex_karaoke_end_2a1cdc30:
@@ -775,8 +775,8 @@ translate turkish b1c09s15_sex_karaoke_end_c8442abe:
 # game/code/Book-1/Chapter-9/s15.rpy:985
 translate turkish b1c09s15_sex_karaoke_end_f548a597:
 
-    # "[c1.name]'s hips rock back and forth needily, her pussy enveloping your length and tightening around you, sending waves of pleasure that leave both of you gasping for air."
-    "[c1.name]'in kalçaları muhtaç bir şekilde ileri geri sallanıyor, amcığı uzunluğunuzu sarıyor ve etrafınızda sıkılıyor, ikinizi de nefes nefese bırakan zevk dalgaları gönderiyor."
+    # "[c1.name!t]'s hips rock back and forth needily, her pussy enveloping your length and tightening around you, sending waves of pleasure that leave both of you gasping for air."
+    "[c1.name!t]'in kalçaları muhtaç bir şekilde ileri geri sallanıyor, amcığı uzunluğunuzu sarıyor ve etrafınızda sıkılıyor, ikinizi de nefes nefese bırakan zevk dalgaları gönderiyor."
 
 # game/code/Book-1/Chapter-9/s15.rpy:992
 translate turkish b1c09s15_sex_karaoke_end_ae674f06:
@@ -787,14 +787,14 @@ translate turkish b1c09s15_sex_karaoke_end_ae674f06:
 # game/code/Book-1/Chapter-9/s15.rpy:1022
 translate turkish b1c09s15_sex_karaoke_end_d8648dcd:
 
-    # "As she rides you, [c2.name]'s hands roam your body, her nails raking lightly along your upper body, teasing you and driving your need for her too."
-    "Seni sürerken, [c2.name]'in elleri vücudunda dolaşıyor, tırnakları vücudunun üst kısmında hafifçe geziniyor, seni kızdırıyor ve senin de ona olan ihtiyacını artırıyor."
+    # "As she rides you, [c2.name!t]'s hands roam your body, her nails raking lightly along your upper body, teasing you and driving your need for her too."
+    "Seni sürerken, [c2.name!t]'in elleri vücudunda dolaşıyor, tırnakları vücudunun üst kısmında hafifçe geziniyor, seni kızdırıyor ve senin de ona olan ihtiyacını artırıyor."
 
 # game/code/Book-1/Chapter-9/s15.rpy:1039
 translate turkish b1c09s15_sex_karaoke_end_f581953c:
 
-    # mc "[c2.name], let me taste you. I want to make you feel good too."
-    mc "[c2.name], seni tatmama izin ver. Ben de seni iyi hissettirmek istiyorum."
+    # mc "[c2.name!t], let me taste you. I want to make you feel good too."
+    mc "[c2.name!t], seni tatmama izin ver. Ben de seni iyi hissettirmek istiyorum."
 
 # game/code/Book-1/Chapter-9/s15.rpy:1042
 translate turkish b1c09s15_sex_karaoke_end_ae85843d:
@@ -805,8 +805,8 @@ translate turkish b1c09s15_sex_karaoke_end_ae85843d:
 # game/code/Book-1/Chapter-9/s15.rpy:1057
 translate turkish b1c09s15_sex_karaoke_end_d83f7204:
 
-    # "[c1.name] leans forward, her breasts bouncing as she pushes herself down onto your cock, her moans muffled by [c2.name]'s lips."
-    "[c1.name] öne doğru eğilir, kendini sikine doğru iterken göğüsleri zıplar, inlemeleri [c2.name]'in dudakları tarafından boğulur."
+    # "[c1.name!t] leans forward, her breasts bouncing as she pushes herself down onto your cock, her moans muffled by [c2.name!t]'s lips."
+    "[c1.name!t] öne doğru eğilir, kendini sikine doğru iterken göğüsleri zıplar, inlemeleri [c2.name!t]'in dudakları tarafından boğulur."
 
 # game/code/Book-1/Chapter-9/s15.rpy:1063
 translate turkish b1c09s15_sex_karaoke_end_a8528ff8:
@@ -817,20 +817,20 @@ translate turkish b1c09s15_sex_karaoke_end_a8528ff8:
 # game/code/Book-1/Chapter-9/s15.rpy:1067
 translate turkish b1c09s15_sex_karaoke_end_3de587b5:
 
-    # "You can't help but thrust up into [c1.name]'s welcoming depths harder, faster."
-    "Yardım edemezsin ama [c1.name]'in sıcak derinliklerine daha sert, daha hızlı itersin."
+    # "You can't help but thrust up into [c1.name!t]'s welcoming depths harder, faster."
+    "Yardım edemezsin ama [c1.name!t]'in sıcak derinliklerine daha sert, daha hızlı itersin."
 
 # game/code/Book-1/Chapter-9/s15.rpy:1096
 translate turkish b1c09s15_sex_karaoke_end_385f7868:
 
-    # "The tightness of her pussy around your shaft rapidly building your orgasm as your tongue explores [c2.name]'s folds, licking and sucking on her quivering clit."
-    "Diliniz [c2.name]'in kıvrımlarını keşfederken, titreyen klitorisini yalayıp emerken, amının sikinizin etrafındaki sıkılığı hızla orgazmınızı artırıyor."
+    # "The tightness of her pussy around your shaft rapidly building your orgasm as your tongue explores [c2.name!t]'s folds, licking and sucking on her quivering clit."
+    "Diliniz [c2.name!t]'in kıvrımlarını keşfederken, titreyen klitorisini yalayıp emerken, amının sikinizin etrafındaki sıkılığı hızla orgazmınızı artırıyor."
 
 # game/code/Book-1/Chapter-9/s15.rpy:1102
 translate turkish b1c09s15_sex_karaoke_end_f91fd6bf:
 
-    # "Their scents mingle in the air, [c2.name]'s juices mix on your tongue as they both moan above you."
-    "Kokuları havada birbirine karışıyor, [c2.name]'in suları dilinize karışıyor, ikisi de üstünüzde inliyor."
+    # "Their scents mingle in the air, [c2.name!t]'s juices mix on your tongue as they both moan above you."
+    "Kokuları havada birbirine karışıyor, [c2.name!t]'in suları dilinize karışıyor, ikisi de üstünüzde inliyor."
 
 # game/code/Book-1/Chapter-9/s15.rpy:1112
 translate turkish b1c09s15_sex_karaoke_end_ffa41ca8:
@@ -847,8 +847,8 @@ translate turkish b1c09s15_sex_karaoke_end_35b863f7:
 # game/code/Book-1/Chapter-9/s15.rpy:1128
 translate turkish b1c09s15_sex_karaoke_end_9f59a8e7:
 
-    # "As if on cue, you feel [c2.name] greedily rub her clit on your tongue clench around your head as she cums on your face."
-    "Sanki bir işaretmiş gibi, [c2.name]'in açgözlülükle klitorisini dilinize sürttüğünü ve yüzünüze boşalırken başınızın etrafında kenetlendiğini hissediyorsunuz."
+    # "As if on cue, you feel [c2.name!t] greedily rub her clit on your tongue clench around your head as she cums on your face."
+    "Sanki bir işaretmiş gibi, [c2.name!t]'in açgözlülükle klitorisini dilinize sürttüğünü ve yüzünüze boşalırken başınızın etrafında kenetlendiğini hissediyorsunuz."
 
 # game/code/Book-1/Chapter-9/s15.rpy:1132
 translate turkish b1c09s15_sex_karaoke_end_36061f14:
@@ -859,8 +859,8 @@ translate turkish b1c09s15_sex_karaoke_end_36061f14:
 # game/code/Book-1/Chapter-9/s15.rpy:1136
 translate turkish b1c09s15_sex_karaoke_end_1141d512:
 
-    # "As [c2.name] cums on your tongue, you grab [c1.name]'s ass and push yourself in to the hilt."
-    "[c2.name] diline boşaldığında, [c1.name]'in kıçını kavrıyorsun ve kendini sonuna kadar itiyorsun."
+    # "As [c2.name!t] cums on your tongue, you grab [c1.name!t]'s ass and push yourself in to the hilt."
+    "[c2.name!t] diline boşaldığında, [c1.name!t]'in kıçını kavrıyorsun ve kendini sonuna kadar itiyorsun."
 
 # game/code/Book-1/Chapter-9/s15.rpy:1145
 translate turkish b1c09s15_sex_karaoke_end_880bde4b:
@@ -883,14 +883,14 @@ translate turkish b1c09s15_sex_karaoke_end_10de9ea6:
 # game/code/Book-1/Chapter-9/s15.rpy:1167
 translate turkish b1c09s15_sex_karaoke_end_90d5d8ab:
 
-    # "As [c2.name]'s orgasm pulses over you, [c1.name] grinds herself harder on your cock"
-    "[c2.name]'in orgazmı üzerinizde titreşirken, [c1.name] kendini horozunuza daha sert sürtüyor"
+    # "As [c2.name!t]'s orgasm pulses over you, [c1.name!t] grinds herself harder on your cock"
+    "[c2.name!t]'in orgazmı üzerinizde titreşirken, [c1.name!t] kendini horozunuza daha sert sürtüyor"
 
 # game/code/Book-1/Chapter-9/s15.rpy:1168
 translate turkish b1c09s15_sex_karaoke_end_2eea37aa:
 
-    # "Her eyes rolling back in ecstasy and her nails digging into your thighs as she follows [c2.name] over the edge."
-    "[c2.name]'i uçurumun kenarına kadar takip ederken gözleri kendinden geçmiş bir şekilde geri dönüyor ve tırnakları uyluklarına batıyor."
+    # "Her eyes rolling back in ecstasy and her nails digging into your thighs as she follows [c2.name!t] over the edge."
+    "[c2.name!t]'i uçurumun kenarına kadar takip ederken gözleri kendinden geçmiş bir şekilde geri dönüyor ve tırnakları uyluklarına batıyor."
 
 # game/code/Book-1/Chapter-9/s15.rpy:1169
 translate turkish b1c09s15_sex_karaoke_end_1a2853ac:
@@ -907,8 +907,8 @@ translate turkish b1c09s15_sex_karaoke_end_f200264f:
 # game/code/Book-1/Chapter-9/s15.rpy:1185
 translate turkish b1c09s15_sex_karaoke_end_4bbefc3f:
 
-    # mc "Do you wanna taste [c2.name] as I fuck her, [c1.name]?"
-    mc "Ben onu becerirken [c2.name]'in tadına bakmak ister misin, [c1.name]?"
+    # mc "Do you wanna taste [c2.name!t] as I fuck her, [c1.name!t]?"
+    mc "Ben onu becerirken [c2.name!t]'in tadına bakmak ister misin, [c1.name!t]?"
 
 # game/code/Book-1/Chapter-9/s15.rpy:1188
 translate turkish b1c09s15_sex_karaoke_end_44023842:
@@ -919,26 +919,26 @@ translate turkish b1c09s15_sex_karaoke_end_44023842:
 # game/code/Book-1/Chapter-9/s15.rpy:1194
 translate turkish b1c09s15_sex_karaoke_end_e793a80f:
 
-    # "Slowly, you guide your hard cock to [c2.name]'s wet pussy, her slickness dripping down her thighs as you tease her entrance."
-    "Yavaşça, sert sikini [c2.name]'in ıslak amına doğru yönlendiriyorsun, sen onun girişini kızdırırken kayganlığı kalçalarından aşağı damlıyor."
+    # "Slowly, you guide your hard cock to [c2.name!t]'s wet pussy, her slickness dripping down her thighs as you tease her entrance."
+    "Yavaşça, sert sikini [c2.name!t]'in ıslak amına doğru yönlendiriyorsun, sen onun girişini kızdırırken kayganlığı kalçalarından aşağı damlıyor."
 
 # game/code/Book-1/Chapter-9/s15.rpy:1200
 translate turkish b1c09s15_sex_karaoke_end_c20b37c5:
 
-    # "[c2.name] gasps in anticipation, her breath catching in her throat as she feels your tip brush against her swollen folds."
-    "[c2.name] beklentiyle nefesini tutuyor, ucunuzun şişmiş kıvrımlarına değdiğini hissettiğinde nefesi boğazında düğümleniyor."
+    # "[c2.name!t] gasps in anticipation, her breath catching in her throat as she feels your tip brush against her swollen folds."
+    "[c2.name!t] beklentiyle nefesini tutuyor, ucunuzun şişmiş kıvrımlarına değdiğini hissettiğinde nefesi boğazında düğümleniyor."
 
 # game/code/Book-1/Chapter-9/s15.rpy:1208
 translate turkish b1c09s15_sex_karaoke_end_79077bcc:
 
-    # "[c1.name] kneels down and buries her face between [c2.name]'s legs, lapping at her clit with abandon as you begin to push inside."
-    "[c1.name] diz çöker ve yüzünü [c2.name]'in bacaklarının arasına gömer, siz içeri itmeye başlarken klitorisini hoyratça yalamaya başlar."
+    # "[c1.name!t] kneels down and buries her face between [c2.name!t]'s legs, lapping at her clit with abandon as you begin to push inside."
+    "[c1.name!t] diz çöker ve yüzünü [c2.name!t]'in bacaklarının arasına gömer, siz içeri itmeye başlarken klitorisini hoyratça yalamaya başlar."
 
 # game/code/Book-1/Chapter-9/s15.rpy:1211
 translate turkish b1c09s15_sex_karaoke_end_9f979996:
 
-    # "[c2.name] moans out loudly, arching her back against the intrusion of your cock and the teasing touch of [c1.name]'s tongue."
-    "[c2.name] yüksek sesle inliyor, senin aletinin girişine ve [c1.name]'in dilinin alaycı dokunuşuna karşı sırtını eğiyor."
+    # "[c2.name!t] moans out loudly, arching her back against the intrusion of your cock and the teasing touch of [c1.name!t]'s tongue."
+    "[c2.name!t] yüksek sesle inliyor, senin aletinin girişine ve [c1.name!t]'in dilinin alaycı dokunuşuna karşı sırtını eğiyor."
 
 # game/code/Book-1/Chapter-9/s15.rpy:1220
 translate turkish b1c09s15_sex_karaoke_end_3833644b:
@@ -949,26 +949,26 @@ translate turkish b1c09s15_sex_karaoke_end_3833644b:
 # game/code/Book-1/Chapter-9/s15.rpy:1225
 translate turkish b1c09s15_sex_karaoke_end_0a6d39f7:
 
-    # c2 "*Loudly moaning* Fu-uuck, [mcname], oh God yes! [c1.name], don't stop!"
-    c2 "*Yüksek sesle inleme* Fu-uuck, [mcname], oh Tanrım evet! [c1.name], durma!"
+    # c2 "*Loudly moaning* Fu-uuck, [mcname], oh God yes! [c1.name!t], don't stop!"
+    c2 "*Yüksek sesle inleme* Fu-uuck, [mcname], oh Tanrım evet! [c1.name!t], durma!"
 
 # game/code/Book-1/Chapter-9/s15.rpy:1237
 translate turkish b1c09s15_sex_karaoke_end_b8b080ff:
 
-    # "[c2.name] bucks and writhes below you, her palms flat on the bed as she surrenders to the overwhelming sensations coursing through her body."
-    "[c2.name] altınızda kıvranıyor ve kıvranıyor, avuç içleri yatağın üzerinde düz bir şekilde vücudundan geçen ezici hislere teslim oluyor."
+    # "[c2.name!t] bucks and writhes below you, her palms flat on the bed as she surrenders to the overwhelming sensations coursing through her body."
+    "[c2.name!t] altınızda kıvranıyor ve kıvranıyor, avuç içleri yatağın üzerinde düz bir şekilde vücudundan geçen ezici hislere teslim oluyor."
 
 # game/code/Book-1/Chapter-9/s15.rpy:1247
 translate turkish b1c09s15_sex_karaoke_end_9100684c:
 
-    # "Your hands grip her hips, guiding your cock even deeper inside her as [c1.name]'s mouth continues to work its magic on her swollen clit."
-    "Ellerin kalçalarını kavrıyor, [c1.name]'in ağzı şişmiş klitorisinde sihrini konuşturmaya devam ederken sikini onun içinde daha da derinlere yönlendiriyor."
+    # "Your hands grip her hips, guiding your cock even deeper inside her as [c1.name!t]'s mouth continues to work its magic on her swollen clit."
+    "Ellerin kalçalarını kavrıyor, [c1.name!t]'in ağzı şişmiş klitorisinde sihrini konuşturmaya devam ederken sikini onun içinde daha da derinlere yönlendiriyor."
 
 # game/code/Book-1/Chapter-9/s15.rpy:1264
 translate turkish b1c09s15_sex_karaoke_end_5e838ea2:
 
-    # mc "Fuck, I'm gonna cum, [c2.name]... I'm gonna fill you up."
-    mc "Siktir, boşalacağım, [c2.name]... Seni dolduracağım."
+    # mc "Fuck, I'm gonna cum, [c2.name!t]... I'm gonna fill you up."
+    mc "Siktir, boşalacağım, [c2.name!t]... Seni dolduracağım."
 
 # game/code/Book-1/Chapter-9/s15.rpy:1276
 translate turkish b1c09s15_sex_karaoke_end_4afcfc90:
@@ -979,8 +979,8 @@ translate turkish b1c09s15_sex_karaoke_end_4afcfc90:
 # game/code/Book-1/Chapter-9/s15.rpy:1277
 translate turkish b1c09s15_sex_karaoke_end_82cd58f2:
 
-    # "[c2.name]'s pussy contracts around your cock, milking every drop from you as she moans out her own orgasm."
-    "[c2.name]'in amcığı sikinin etrafında kasılıyor, kendi orgazmını inlerken senden her damlayı sağıyor."
+    # "[c2.name!t]'s pussy contracts around your cock, milking every drop from you as she moans out her own orgasm."
+    "[c2.name!t]'in amcığı sikinin etrafında kasılıyor, kendi orgazmını inlerken senden her damlayı sağıyor."
 
 # game/code/Book-1/Chapter-9/s15.rpy:1282
 translate turkish b1c09s15_sex_karaoke_end_884a6cc3:
@@ -997,8 +997,8 @@ translate turkish b1c09s15_sex_karaoke_end_e7ce4b67:
 # game/code/Book-1/Chapter-9/s15.rpy:1290
 translate turkish b1c09s15_sex_karaoke_end_8d84178a:
 
-    # mc "*Whispers* Finish it off, [c1.name]. I want to see you swallow every drop."
-    mc "*Fısıldar* Bitir şunu, [c1.name]. Her damlasını yuttuğunu görmek istiyorum."
+    # mc "*Whispers* Finish it off, [c1.name!t]. I want to see you swallow every drop."
+    mc "*Fısıldar* Bitir şunu, [c1.name!t]. Her damlasını yuttuğunu görmek istiyorum."
 
 # game/code/Book-1/Chapter-9/s15.rpy:1308
 translate turkish b1c09s15_end_648a9a03:
@@ -1009,8 +1009,8 @@ translate turkish b1c09s15_end_648a9a03:
 # game/code/Book-1/Chapter-9/s15.rpy:1309
 translate turkish b1c09s15_end_a8fd8b18:
 
-    # "[c1.name] props herself up on one elbow, studying your faces with a tender smile."
-    "[c1.name] bir dirseğinin üzerinde yükseliyor, şefkatli bir gülümsemeyle yüzlerinizi inceliyor."
+    # "[c1.name!t] props herself up on one elbow, studying your faces with a tender smile."
+    "[c1.name!t] bir dirseğinin üzerinde yükseliyor, şefkatli bir gülümsemeyle yüzlerinizi inceliyor."
 
 # game/code/Book-1/Chapter-9/s15.rpy:1316
 translate turkish b1c09s15_end_cfbc52a5:
@@ -1021,8 +1021,8 @@ translate turkish b1c09s15_end_cfbc52a5:
 # game/code/Book-1/Chapter-9/s15.rpy:1317
 translate turkish b1c09s15_end_3770472a:
 
-    # "[c2.name] nods, reaching over to give [c1.name]'s hand an affectionate squeeze."
-    "[c2.name] başını sallar, [c1.name]'in elini şefkatle sıkmak için uzanır."
+    # "[c2.name!t] nods, reaching over to give [c1.name!t]'s hand an affectionate squeeze."
+    "[c2.name!t] başını sallar, [c1.name!t]'in elini şefkatle sıkmak için uzanır."
 
 # game/code/Book-1/Chapter-9/s15.rpy:1323
 translate turkish b1c09s15_end_f8c7e4e9:
@@ -1039,8 +1039,8 @@ translate turkish b1c09s15_end_d9860491:
 # game/code/Book-1/Chapter-9/s15.rpy:1337
 translate turkish b1c09s15_end_91b7044a:
 
-    # "A jaw-cracking yawn escapes [c2.name], and she laughs sheepishly."
-    "Çene çatlatan bir esneme [c2.name]'den kaçıyor ve koyun gibi gülüyor."
+    # "A jaw-cracking yawn escapes [c2.name!t], and she laughs sheepishly."
+    "Çene çatlatan bir esneme [c2.name!t]'den kaçıyor ve koyun gibi gülüyor."
 
 # game/code/Book-1/Chapter-9/s15.rpy:1338
 translate turkish b1c09s15_end_254855e1:
@@ -1069,8 +1069,8 @@ translate turkish b1c09s15_end_e073c227:
 translate turkish strings:
 
     # game/code/Book-1/Chapter-9/s15.rpy:1117
-    old "Cum with [c1.name]"
-    new "[c1.name] ile boşal"
+    old "Cum with [c1.name!t]"
+    new "[c1.name!t] ile boşal"
 
     # game/code/Book-1/Chapter-9/s15.rpy:1117
     old "Hold on longer"
