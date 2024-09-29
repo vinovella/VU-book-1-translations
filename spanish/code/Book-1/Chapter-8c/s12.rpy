@@ -2,13 +2,13 @@
 translate spanish b1c08cs12_8209b349:
 
     # "The images won't leave your mind. Ever since you got back, they've been a slideshow of disgust and misery."
-    "Las imágenes no abandonarán tu mente. Desde que regresaste, han sido una presentación de diapositivas de disgusto y miseria."
+    "Las imágenes no abandonan tu mente. Desde que regresaste, han sido una presentación de diapositivas de disgusto y miseria."
 
 # game/code/Book-1/Chapter-8c/s12.rpy:44
 translate spanish b1c08cs12_bf527bf6:
 
     # "Like a spectator to your own life, detached yet trapped in a narrative you didn't script."
-    "Como un espectador de tu propia vida, desapegado pero atrapado en una narrativa que no escribiste."
+    "Como un espectador de tu propia vida, distante pero atrapado en una narrativa que no escribiste."
 
 # game/code/Book-1/Chapter-8c/s12.rpy:46
 translate spanish b1c08cs12_694e5826:
@@ -134,7 +134,7 @@ translate spanish b1c08cs12_34a961a9:
 translate spanish b1c08cs12_650c34eb:
 
     # mc "You'll figure it out. You just have to push yourself."
-    mc "Lo resolverás. Sólo tienes que esforzarte."
+    mc "Lo descubrirás. Sólo tienes que esforzarte."
 
 # game/code/Book-1/Chapter-8c/s12.rpy:117
 translate spanish b1c08cs12_34602a79:
@@ -218,7 +218,7 @@ translate spanish b1c08cs12_54ce99e5:
 translate spanish b1c08cs12_7a77c6d1:
 
     # mc "You said their \"passion\" was because they cared. They pushed Lumi because they cared. That Lumi needed that push."
-    mc "Dijiste que su \"pasión\" era porque les importaba. Empujaron a Lumi porque les importaba. Que Lumi necesitaba ese empujón."
+    mc "Dijiste que su \"pasión\" era porque le importabas. Empujaron a Lumi porque les importaba. Que Lumi necesitaba ese empujón."
 
 # game/code/Book-1/Chapter-8c/s12.rpy:158
 translate spanish b1c08cs12_fdf5bd3f:
@@ -242,7 +242,7 @@ translate spanish b1c08cs12_af89c2be:
 translate spanish b1c08cs12_3d74f4b0:
 
     # mct "How can she not see that they're trying to control her just the same?"
-    mct "¿Cómo es posible que no vea que intentan controlarla de la misma manera?"
+    mct "¿Cómo es posible que no se dé cuenta de que intentan controlarla?"
 
 # game/code/Book-1/Chapter-8c/s12.rpy:167
 translate spanish b1c08cs12_9f9a989a:
