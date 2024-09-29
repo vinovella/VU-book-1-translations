@@ -20,13 +20,13 @@ translate spanish b1c08ws10_94c5cc5d:
 translate spanish b1c08ws10_b7215c2f:
 
     # "Your fists clench instinctively, but you swallow the sharp retort that almost escapes your lips. It's crucial to maintain your cover, regardless of how difficult some might make it."
-    "Aprietas los puños instintivamente, pero te tragas la aguda respuesta que casi se escapa de tus labios. Es crucial mantener su cobertura, independientemente de lo difícil que algunos puedan hacerlo."
+    "Aprietas los puños instintivamente, pero te tragas la aguda respuesta que casi se escapa de tus labios. Es crucial mantener la cobertura, independientemente de lo difícil que algunos puedan hacerlo."
 
 # game/code/Book-1/Chapter-8w/s10.rpy:23
 translate spanish b1c08ws10_81e7e380:
 
     # mc "It wasn't ideal. I'll admit that. I couldn't get as far away as I wanted to."
-    mc "No fue ideal. Lo admito. No pude llegar tan lejos como quería."
+    mc "No era lo ideal. Lo admito. No pude alejarme tanto como quería."
 
 # game/code/Book-1/Chapter-8w/s10.rpy:24
 translate spanish b1c08ws10_83c4559a:
