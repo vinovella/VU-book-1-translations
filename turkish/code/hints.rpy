@@ -1018,9 +1018,9 @@ translate turkish strings:
 
     # game/code/hints.rpy:11
     old "Investigate Sam. Closes Isa's path for you. This puts you on Sam's path."
-    new "Investigate Sam. Closes Isa's path for you. This puts you on Sam's path."
+    new "Sam'i araştır. Isa'nın yolunu senin için kapatır. Bu seni Sam'in yoluna sokar."
 
     # game/code/hints.rpy:11
     old "Investigate Isa. Closes Sam's path for you. This puts you on Isa's path."
-    new "Investigate Isa. Closes Sam's path for you. This puts you on Isa's path."
+    new "Isa'yı araştır. Sam'in yolunu senin için kapatır. Bu seni Isa'nın yoluna sokar."
 
