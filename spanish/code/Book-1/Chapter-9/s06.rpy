@@ -128,7 +128,7 @@ translate spanish b1c09s06_908aa2f5:
 translate spanish b1c09s06_39f43625:
 
     # mct "This is her room? Seems kind of self-absorbed to have an entire self-portrait painted of yourself like that..."
-    mct "¿Esta es su habitación? Parece un poco ensimismado tener un autorretrato completo pintado de ti mismo de esa manera..."
+    mct "¿Esta es su habitación? Parece un poco egocéntrico tener un autorretrato entero de uno mismo pintado de esa manera..."
 
 # game/code/Book-1/Chapter-9/s06.rpy:141
 translate spanish b1c09s06_5d3646d9:
@@ -170,7 +170,7 @@ translate spanish b1c09s06_58f6276a:
 translate spanish b1c09s06_b6612422:
 
     # mct "Though, this could be addressed to a crazy ex or something. Not really important for my investigation."
-    mct "Sin embargo, esto podría estar dirigido a un ex loco o algo así. No es realmente importante para mi investigación."
+    mct "Sin embargo, esto podría estar dirigido a un ex novio o algo así. No es realmente importante para mi investigación."
 
 # game/code/Book-1/Chapter-9/s06.rpy:161
 translate spanish b1c09s06_658ddf0a:
@@ -506,7 +506,7 @@ translate spanish b1c09s06_sex_e36b80ce:
 translate spanish b1c09s06_sex_19aa6dff:
 
     # ij "I could eat you all up right now if you let me."
-    ij "Podría comerlos a todos en este momento si me dejan."
+    ij "Podría comerte completamente en este momento si me lo permitieras."
 
 # game/code/Book-1/Chapter-9/s06.rpy:371
 translate spanish b1c09s06_be_bottom_ca4deb98:
@@ -572,7 +572,7 @@ translate spanish b1c09s06_be_bottom_e8d7815a:
 translate spanish b1c09s06_be_bottom_859495a0:
 
     # ij "*Giggles* Are you nervous? Don't worry, I'll go slow."
-    ij "*risas* ¿Estás nervioso? No te preocupes, iré despacio."
+    ij "*Risas* ¿Estás nervioso? No te preocupes, iré despacio."
 
 # game/code/Book-1/Chapter-9/s06.rpy:416
 translate spanish b1c09s06_be_bottom_d67a7ffd:
@@ -590,7 +590,7 @@ translate spanish b1c09s06_be_bottom_b0139e72:
 translate spanish b1c09s06_be_bottom_cae0187b:
 
     # "Irene's hand around your cock, and the warmth of her inside you makes you melt, and you relax enough to let her sink even deeper inside you, hitting every glorious sweet spot."
-    "La mano de Irene alrededor de tu polla y el calor de ella dentro de ti hacen que te derritas y te relajas lo suficiente como para dejar que se hunda aún más profundamente dentro de ti, alcanzando cada glorioso punto dulce."
+    "La mano de Irene alrededor de tu polla y el calor de ella dentro de ti hacen que te derritas y te relajes lo suficiente como para dejar que se hunda aún más profundamente dentro de ti, alcanzando cada glorioso punto dulce."
 
 # game/code/Book-1/Chapter-9/s06.rpy:430
 translate spanish b1c09s06_be_bottom_8d372e5e:
@@ -680,7 +680,7 @@ translate spanish b1c09s06_be_bottom_8a85bbed:
 translate spanish b1c09s06_be_bottom_da3b539d:
 
     # ij "Really? I'm so glad. That was actually my... Well, there haven't been many lovers who let me..."
-    ij "¿De verdad? Estoy muy feliz. Ese fue en realidad mi... Bueno, no ha habido muchos amantes que me hayan dejado..."
+    ij "¿De verdad? Me alegro mucho. En realidad ese era mi... Bueno, no ha habido muchos amantes que me hayan dejado..."
 
 # game/code/Book-1/Chapter-9/s06.rpy:492
 translate spanish b1c09s06_be_bottom_7c2822c2:
@@ -854,7 +854,7 @@ translate spanish b1c09s06_be_top_6040d42b:
 translate spanish b1c09s06_be_top_d07f1a6a:
 
     # ij "*Giggles* Do I look nice and full of you?"
-    ij "*Risitas* ¿Me veo bien y llena de ti?"
+    ij "*Risitas* ¿Me veo agradable y llena de ti?"
 
 # game/code/Book-1/Chapter-9/s06.rpy:647
 translate spanish b1c09s06_be_top_0d5abfe5:
