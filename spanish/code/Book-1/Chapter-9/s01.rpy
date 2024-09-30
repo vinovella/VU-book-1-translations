@@ -2,7 +2,7 @@
 translate spanish b1c09s01_a6f6f280:
 
     # mc "*Groans*"
-    mc "*Gime*"
+    mc "*Gemidos*"
 
 # game/code/Book-1/Chapter-9/s01.rpy:51
 translate spanish b1c09s01_6907467e:
@@ -188,7 +188,7 @@ translate spanish b1c09s01_check_jh_268753d3:
 translate spanish b1c09s01_check_jh_02b5deea:
 
     # "???" "Give up the pretenses and just have fun. All these sluts. Practically throwing themselves at you."
-    "???" "Deja las pretensiones y diviértete. Todas estas putas. Prácticamente arrojándose hacia ti."
+    "???" "Deja las pretensiones y diviértete. Todas estas putas. Prácticamente arrojándose sobre ti."
 
 # game/code/Book-1/Chapter-9/s01.rpy:269
 translate spanish b1c09s01_check_jh_1d2a71a1:
@@ -380,7 +380,7 @@ translate spanish b1c09s01_check_pm_03d2c956:
 translate spanish b1c09s01_check_pm_5c9e82b5:
 
     # kc "Pretty rotten fucking deal, isn't it?"
-    kc "Un maldito trato, ¿no?"
+    kc "Un trato de mierda, ¿no?"
 
 # game/code/Book-1/Chapter-9/s01.rpy:430
 translate spanish b1c09s01_check_pm_cc757e11:
@@ -392,13 +392,13 @@ translate spanish b1c09s01_check_pm_cc757e11:
 translate spanish b1c09s01_check_pm_391518b4:
 
     # kc "You, gallivanting around, fucking everything that moves all for your little investigation."
-    kc "Tú, vagando por ahí follando todo lo que se mueve todo por tu pequeña investigación."
+    kc "Tú, deambulando por ahí, follándote todo lo que se mueve en beneficio de tu pequeña investigación."
 
 # game/code/Book-1/Chapter-9/s01.rpy:435
 translate spanish b1c09s01_check_pm_db3e672a:
 
     # kc "All to find {i}us{/i}, you say. Do what needs to be done, you say."
-    kc "Todo para {i}encontrarnos{/i}, dices. Haz lo que hay que hacer, dices."
+    kc "Todo para encontrarnos, dices. Hay que hacer lo que hay que hacer, dices."
 
 # game/code/Book-1/Chapter-9/s01.rpy:439
 translate spanish b1c09s01_check_pm_be7b3b18:
@@ -440,13 +440,13 @@ translate spanish b1c09s01_cn_dialogues_36993424:
 translate spanish b1c09s01_cn_dialogues_af32720e:
 
     # mfk "What righteousness. Is this your justice, Matthew?"
-    mfk "¡Qué justicia! ¿Es esta tu justicia, Matthew?"
+    mfk "Qué rectitud. ¿Esta es tu justicia, Matthew?"
 
 # game/code/Book-1/Chapter-9/s01.rpy:516
 translate spanish b1c09s01_cn_dialogues_159744c9:
 
     # mfk "Save the chosen few, use and abandon the rest."
-    mfk "Salva a los pocos elegidos, usa y abandona al resto."
+    mfk "Salvar a los pocos elegidos, usar y abandonar al resto."
 
 # game/code/Book-1/Chapter-9/s01.rpy:522
 translate spanish b1c09s01_cn_dialogues_674270ca:
