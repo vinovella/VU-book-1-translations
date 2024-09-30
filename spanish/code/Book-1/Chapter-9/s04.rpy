@@ -26,13 +26,13 @@ translate spanish b1c09s04_c1a55de8:
 translate spanish b1c09s04_3a6dd16b:
 
     # mc "Oh, uh... Yeah. I had to go on a thing—"
-    mc "Oh, eh... Sí. Tenía que seguir con algo..."
+    mc "Oh, uh... Sí. Tenía que hacer una cosa..."
 
 # game/code/Book-1/Chapter-9/s04.rpy:84
 translate spanish b1c09s04_f921fe01:
 
     # rh "Thing?"
-    rh "¿Algo?"
+    rh "¿Una cosa?"
 
 # game/code/Book-1/Chapter-9/s04.rpy:88
 translate spanish b1c09s04_f5759e5b:
@@ -164,7 +164,7 @@ translate spanish b1c09s04_0bc9a6b6:
 translate spanish b1c09s04_84c5eed4:
 
     # mc "It is now. But you know how friends are. They get into all sorts of trouble, and you're the one that has to go and bust them out."
-    mc "Lo está ahora. Pero ya sabes cómo son los amigos. Se meten en todo tipo de problemas y tú eres el que tiene que ir a sacarlos."
+    mc "Lo está ahora. Pero ya sabes cómo son los amigos. Se meten en todo tipo de problemas, y tú eres el que tiene que ir y sacarlos del problema."
 
 # game/code/Book-1/Chapter-9/s04.rpy:151
 translate spanish b1c09s04_07919a45:
@@ -200,7 +200,7 @@ translate spanish b1c09s04_da3e8365:
 translate spanish b1c09s04_ba1bd058:
 
     # rh "I'm sure you and the team will show them why you're called The Winners next time."
-    rh "Estoy segura de que la próxima vez usted y el equipo les mostrarán por qué los llaman Los Ganadores."
+    rh "Estoy segura de que la próxima vez tú y el equipo les mostrarán por qué los llaman Los Ganadores."
 
 # game/code/Book-1/Chapter-9/s04.rpy:167
 translate spanish b1c09s04_f7f257f3:
@@ -224,7 +224,7 @@ translate spanish b1c09s04_7c095c91:
 translate spanish b1c09s04_832e9e46:
 
     # rh "I was wondering if I could borrow your time for a bit."
-    rh "Me preguntaba si podría prestarme un momento de su tiempo."
+    rh "Me preguntaba si podría prestarme un momento de tu tiempo."
 
 # game/code/Book-1/Chapter-9/s04.rpy:172
 translate spanish b1c09s04_5b6108f6:
@@ -278,7 +278,7 @@ translate spanish b1c09s04_bathroom_5153ed4e:
 translate spanish b1c09s04_bathroom_8921e117:
 
     # rh "Not right now they won't. Pretty much everyone should be in class by now."
-    rh "No ahora no lo harán. Casi todo el mundo debería estar ya en clase."
+    rh "No, ahora no lo harán. Casi todo el mundo debería estar ya en clase."
 
 # game/code/Book-1/Chapter-9/s04.rpy:214
 translate spanish b1c09s04_bathroom_c2d0925d:
@@ -380,7 +380,7 @@ translate spanish b1c09s04_bathroom_d264ff49:
 translate spanish b1c09s04_bathroom_451b55c5:
 
     # mc "You better not get me expelled, slut."
-    mc "Será mejor que no hagas que me expulsen, zorra."
+    mc "Será mejor que no hagas que me expulsen, puta."
 
 # game/code/Book-1/Chapter-9/s04.rpy:320
 translate spanish b1c09s04_bathroom_3ba5de78:
@@ -410,7 +410,7 @@ translate spanish b1c09s04_bathroom_8dbc689d:
 translate spanish b1c09s04_bathroom_efc2de9b:
 
     # rh "Make me your little whore. Slap me, fuck me, piss on me. Show me how a real man takes care of me."
-    rh "Hazme tu putita. Aboféame, fóllame, oríname. Muéstrame cómo me cuida un hombre de verdad."
+    rh "Hazme tu putita. Abofetéame, fóllame, oríname encima. Enséñame cómo me cuida un hombre de verdad."
 
 # game/code/Book-1/Chapter-9/s04.rpy:330
 translate spanish b1c09s04_bathroom_08803243:
@@ -446,7 +446,7 @@ translate spanish b1c09s04_bathroom_e8d18184:
 translate spanish b1c09s04_bathroom_e171cc91:
 
     # "Her eyes shine at your words. So completely enamored by you. So willing to give herself over to you."
-    "Sus ojos brillan ante tus palabras. Tan completamente enamorado de ti. Tan dispuesta a entregarse a ti."
+    "Sus ojos brillan ante tus palabras. Tan completamente enamorada de ti. Tan dispuesta a entregarse a ti."
 
 # game/code/Book-1/Chapter-9/s04.rpy:350
 translate spanish b1c09s04_bathroom_675a389b:
@@ -500,7 +500,7 @@ translate spanish b1c09s04_dm_appear_7cac8374:
 translate spanish b1c09s04_dm_appear_ea58b7bc:
 
     # mc "Dia—"
-    mc "Dia—"
+    mc "Dia..."
 
 # game/code/Book-1/Chapter-9/s04.rpy:392
 translate spanish b1c09s04_dm_appear_97761c24:
@@ -548,7 +548,7 @@ translate spanish b1c09s04_dm_appear_3856bace:
 translate spanish b1c09s04_dm_appear_d12355cf:
 
     # rh "N-no. I'm sorry. I didn't want you to stop. Please, keep going."
-    rh "N-no. Lo lamento. No quería que te detuvieras. Por favor, continúa."
+    rh "N-no. Lo siento. No quería que te detuvieras. Por favor, continúa."
 
 # game/code/Book-1/Chapter-9/s04.rpy:420
 translate spanish b1c09s04_dm_appear_fbca48cd:
@@ -692,7 +692,7 @@ translate spanish b1c09s04_continue_16405dc3:
 translate spanish b1c09s04_continue_8206379d:
 
     # mc "And you're gonna walk around with it dripping all over your legs, understood? No panties."
-    mc "Y vas a caminar con él goteando por todas tus piernas, ¿entendido? Sin calzones."
+    mc "Y vas a caminar con él goteando por todas tus piernas, ¿lo entiendes? Sin calzones."
 
 # game/code/Book-1/Chapter-9/s04.rpy:538
 translate spanish b1c09s04_continue_a0cd557b:
@@ -740,7 +740,7 @@ translate spanish b1c09s04_continue_254b34a3:
 translate spanish b1c09s04_continue_e18866a7:
 
     # rh "Yes, Sir. I'm sorry."
-    rh "Sí, Señor. Lo lamento."
+    rh "Sí, Señor. Lo siento."
 
 # game/code/Book-1/Chapter-9/s04.rpy:564
 translate spanish b1c09s04_continue_87e26eb2:
@@ -836,7 +836,7 @@ translate spanish b1c09s04_continue_e868cc44:
 translate spanish b1c09s04_continue_22ac683b:
 
     # "Her heat is all encompassing. It feels as if your whole being is warmed by her. But that isn't enough. She needs more of you. Her folds twitch and grip you in deeper."
-    "Su calor lo abarca todo. Se siente como si ella calentara todo tu ser. Pero eso no es suficiente. Ella necesita más de ti. Sus pliegues se contraen y te atrapan más profundamente."
+    "Su calor lo abarca todo. Se siente como si ella calentara todo tu ser. Pero eso no es suficiente. Ella necesita más de ti. Sus pliegues se contraen y te atrapan profundamente."
 
 # game/code/Book-1/Chapter-9/s04.rpy:613
 translate spanish b1c09s04_continue_7fdc27c4:
@@ -956,7 +956,7 @@ translate spanish b1c09s04_continue_059a7a10:
 translate spanish b1c09s04_continue_e270a1ed:
 
     # rh "*Smirks* Oh, I'm sure he will."
-    rh "*Sonríe* Oh, estoy segura de que lo hará."
+    rh "*Sonríe* Oh, estoy segura de que le gustará."
 
 # game/code/Book-1/Chapter-9/s04.rpy:671
 translate spanish b1c09s04_continue_abd13409:
@@ -1028,7 +1028,7 @@ translate spanish b1c09s04_continue_b9ed1ef5:
 translate spanish b1c09s04_continue_d93fc4a3:
 
     # mc "No. That cum is for you. Push it in deeper and keep it inside."
-    mc "No. Ese semen es para ti. Empújelo más profundamente y manténgalo adentro."
+    mc "No. Ese semen es para ti. Empújalo más profundo y mantenlo todo dentro."
 
 # game/code/Book-1/Chapter-9/s04.rpy:721
 translate spanish b1c09s04_continue_b6c30c71:
@@ -1064,7 +1064,7 @@ translate spanish b1c09s04_continue_e87be3a5:
 translate spanish b1c09s04_continue_8294aba2:
 
     # dm "Don't you dare drag me down to your level, slut."
-    dm "No te atrevas a arrastrarme a tu nivel, zorra."
+    dm "No te atrevas a arrastrarme a tu nivel, puta."
 
 # game/code/Book-1/Chapter-9/s04.rpy:745
 translate spanish b1c09s04_continue_2cab44eb:
@@ -1082,7 +1082,7 @@ translate spanish b1c09s04_continue_a330f5b7:
 translate spanish b1c09s04_continue_50fb3999:
 
     # rh "Excuse me."
-    rh "Disculpe."
+    rh "Discúlpame."
 
 # game/code/Book-1/Chapter-9/s04.rpy:754
 translate spanish b1c09s04_continue_e29f9844:
@@ -1126,7 +1126,7 @@ translate spanish strings:
 
     # game/code/Book-1/Chapter-9/s04.rpy:421
     old "Fuck her throat harder"
-    new "Fóllale la garganta más fuerte"
+    new "Fóllale más fuerte la garganta"
 
     # game/code/Book-1/Chapter-9/s04.rpy:545
     old "Stop talking about your husband"
