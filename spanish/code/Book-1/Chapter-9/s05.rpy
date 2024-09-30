@@ -116,7 +116,7 @@ translate spanish replay_b1c09s05_0034abe3:
 translate spanish replay_b1c09s05_a24e545c:
 
     # "Her touch is maddening. Her assertiveness, the risk of someone coming in, her neediness for you."
-    "Su toque es enloquecedor. Su asertividad, el riesgo de que alguien entre, su necesidad por ti."
+    "Su tacto es enloquecedor. Su asertividad, el riesgo de que alguien entre, su necesidad de ti."
 
 # game/code/Book-1/Chapter-9/s05.rpy:157
 translate spanish replay_b1c09s05_23c4361e:
@@ -164,7 +164,7 @@ translate spanish replay_b1c09s05_bef099fd:
 translate spanish b1c09s05_dm_take_control_908de70f:
 
     # mct "...I'll have to go with Diana for now, and see what she does."
-    mct "...Tendré que ir con Diana por ahora y ver qué hace."
+    mct "...Tendré que ir con Diana por ahora, y ver lo que hace."
 
 # game/code/Book-1/Chapter-9/s05.rpy:195
 translate spanish b1c09s05_dm_take_control_05013452:
@@ -392,7 +392,7 @@ translate spanish b1c09s05_footfetish_972f56d5:
 translate spanish b1c09s05_footfetish_b1b091ae:
 
     # "You stop, for now. As much as you savor the moment, she asked you for something else."
-    "Detente, por ahora. Por mucho que saborees el momento, ella te pidió algo más."
+    "Te detienes, por ahora. Por mucho que saborees el momento, ella te pidió algo más."
 
 # game/code/Book-1/Chapter-9/s05.rpy:323
 translate spanish b1c09s05_after_footfetish_48fb6591:
@@ -848,7 +848,7 @@ translate spanish b1c09s05_femdom_end_2e74d693:
 translate spanish b1c09s05_femdom_end_109471d1:
 
     # dm "*Smiles* Tsk, tsk, tsk. Bad boy. I told you not to cum, didn't I?"
-    dm "*sonríe* Tsk, tsk, tsk. Chico malo. Te dije que no te corrieras, ¿no?"
+    dm "*Sonríe* Tsk, tsk, tsk. Chico malo. Te dije que no te corrieras, ¿no?"
 
 # game/code/Book-1/Chapter-9/s05.rpy:573
 translate spanish b1c09s05_femdom_end_ca08a726:
@@ -962,7 +962,7 @@ translate spanish b1c09s05_cum_menu_37d81979:
 translate spanish b1c09s05_end_ac123d20:
 
     # "Sometime later, after basking in each other's afterglow and cleaning up as best as you could."
-    "Un poco más tarde, después de disfrutar del resplandor del otro y limpiarse lo mejor posible."
+    "Un poco más tarde, después de disfrutar del resplandor del otro y de limpiarse lo mejor posible."
 
 # game/code/Book-1/Chapter-9/s05.rpy:654
 translate spanish b1c09s05_end_50656797:
@@ -1070,19 +1070,19 @@ translate spanish b1c09s05_end_noflirt_28aa47df:
 translate spanish b1c09s05_end_noflirt_1ad73843:
 
     # dm "Good, good. I wanted to let you know if you haven't already heard about it."
-    dm "Bien, bien. Quería avisarte si aún no habías oído hablar de ello."
+    dm "Bien, bien. Quería avisarte por si aún no te habías enterado."
 
 # game/code/Book-1/Chapter-9/s05.rpy:715
 translate spanish b1c09s05_end_noflirt_e930c988:
 
     # dm "I strongly suggest talking to the students there, or maybe even any faculty there might be there."
-    dm "Recomiendo encarecidamente hablar con los estudiantes de allí, o tal vez incluso con cualquier profesorado que pueda haber allí."
+    dm "Sugiero encarecidamente hablar con los estudiantes que estén allí, o incluso con los profesores que puedan haber allí."
 
 # game/code/Book-1/Chapter-9/s05.rpy:716
 translate spanish b1c09s05_end_noflirt_3663c1aa:
 
     # dm "This is the first large party held since the poor girls went missing, so I want you to keep an eye on the people there and make sure it doesn't happen again."
-    dm "Esta es la primera gran fiesta que se celebra desde que desaparecieron las pobres niñas, así que quiero que vigiles a la gente que está allí y te asegures de que no vuelva a suceder."
+    dm "Esta es la primera gran fiesta que se celebra desde que desaparecieron las pobres chicas, así que quiero que vigiles a la gente que está allí y te asegures de que no vuelva a suceder."
 
 # game/code/Book-1/Chapter-9/s05.rpy:717
 translate spanish b1c09s05_end_noflirt_4fbe02c4:
@@ -1100,7 +1100,7 @@ translate spanish b1c09s05_end_noflirt_1dfaad2e:
 translate spanish b1c09s05_end_noflirt_f9d8f341:
 
     # mc "How do you know for sure drugs will be involved?"
-    mc "¿Cómo se sabe con seguridad que habrá drogas involucradas?"
+    mc "¿Cómo sabes con seguridad que habrá drogas?"
 
 # game/code/Book-1/Chapter-9/s05.rpy:727
 translate spanish b1c09s05_end_noflirt_b7fff3d1:
@@ -1154,7 +1154,7 @@ translate spanish b1c09s05_end_noflirt_c3d1f5fb:
 translate spanish b1c09s05_end_noflirt_04334789:
 
     # mc "It's not what it—"
-    mc "No es lo que—"
+    mc "No es lo que..."
 
 # game/code/Book-1/Chapter-9/s05.rpy:755
 translate spanish b1c09s05_end_noflirt_09f1d4e0:
@@ -1210,11 +1210,11 @@ translate spanish strings:
 
     # game/code/Book-1/Chapter-9/s05.rpy:554
     old "Cum"
-    new "Semen"
+    new "Córrete"
 
     # game/code/Book-1/Chapter-9/s05.rpy:554
     old "Hold it in"
-    new "Manténgalo adentro"
+    new "Mantenlo dentro"
 
     # game/code/Book-1/Chapter-9/s05.rpy:611
     old "Clean your cum off of Diana"
