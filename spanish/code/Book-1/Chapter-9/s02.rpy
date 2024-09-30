@@ -68,7 +68,7 @@ translate spanish b1c09s02_90918439:
 translate spanish b1c09s02_77211fb1:
 
     # lw "Man, what sorta trauma did you go through to have nightmares like that?"
-    lw "Hombre, ¿qué tipo de trauma pasaste para tener pesadillas como esa?"
+    lw "Hombre, ¿qué clase de trauma sufriste para tener ese tipo de pesadillas?"
 
 # game/code/Book-1/Chapter-9/s02.rpy:73
 translate spanish b1c09s02_e0ed3e93:
@@ -434,7 +434,7 @@ translate spanish b1c09s02_both_go_933bb491:
 translate spanish b1c09s02_both_go_c783ac6b:
 
     # mc "*Smiles* A little to the left."
-    mc "*sonríe* Un poco hacia la izquierda."
+    mc "*Sonríe* Un poco hacia la izquierda."
 
 # game/code/Book-1/Chapter-9/s02.rpy:316
 translate spanish b1c09s02_both_go_9c754722:
@@ -482,7 +482,7 @@ translate spanish b1c09s02_lw_right_41f7de82:
 translate spanish b1c09s02_lw_right_47b387e9:
 
     # lw "But also he's right. I can handle myself and you need to get out more."
-    lw "Pero también tiene razón. Puedo manejarme sola y necesitas salir más."
+    lw "Pero también tienes razón. Puedo manejarme sola y necesitas salir más."
 
 # game/code/Book-1/Chapter-9/s02.rpy:341
 translate spanish b1c09s02_lw_right_28a2651f:
@@ -626,7 +626,7 @@ translate spanish b1c09s02_no_choice_88f1aa45:
 translate spanish b1c09s02_no_choice_30a12a7b:
 
     # lw "I'm sorry."
-    lw "Lo lamento."
+    lw "Lo siento."
 
 # game/code/Book-1/Chapter-9/s02.rpy:424
 translate spanish b1c09s02_no_choice_e4eed1fc:

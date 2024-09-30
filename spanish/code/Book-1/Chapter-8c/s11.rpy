@@ -20,7 +20,7 @@ translate spanish b1c08cs11_682e370e:
 translate spanish b1c08cs11_8d00e8ea:
 
     # ih "*Smirks* You'll see."
-    ih "*sonríe* Ya verás."
+    ih "*Sonríe* Ya verás."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:55
 translate spanish b1c08cs11_e60e32e8:
@@ -110,7 +110,7 @@ translate spanish b1c08cs11_d9b7911f:
 translate spanish b1c08cs11_bc6fbc01:
 
     # mc "Don't worry, I'll make it unforgettable."
-    mc "No te preocupes, lo haré inolvidable."
+    mc "No te preocupes, haré que sea inolvidable."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:108
 translate spanish b1c08cs11_fc985520:
@@ -512,7 +512,7 @@ translate spanish b1c08cs11_16d161e6:
 translate spanish b1c08cs11_df79aa35:
 
     # ih "Hah! Too true. Most of the people there barely know how to please a woman."
-    ih "¡Ja! Demasiado cierto. La mayoría de la gente apenas sabe cómo complacer a una mujer."
+    ih "¡Ja! Muy cierto. La mayoría de la gente allí apenas sabe cómo complacer a una mujer."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:317
 translate spanish b1c08cs11_92925b13:
@@ -596,7 +596,7 @@ translate spanish b1c08cs11_af053edd:
 translate spanish b1c08cs11_714bef83:
 
     # "As you both start walking back, your hands find each other naturally, fingers entwining."
-    "Cuando ambos comienzan a caminar de regreso, sus manos se encuentran de forma natural, los dedos se entrelazan."
+    "Cuando ambos comienzan a caminar de regreso, sus manos se encuentran de forma natural, y los dedos se entrelazan."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:351
 translate spanish b1c08cs11_07c64b35:
