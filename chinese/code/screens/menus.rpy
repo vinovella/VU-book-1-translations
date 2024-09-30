@@ -112,9 +112,11 @@ translate chinese strings:
     old "Sex Voice Volume"
     new "性爱语音音量"
 
-translate chinese strings:
-
     # game/code/screens/menus.rpy:869
     old "{u}Get your Lovense toy now{/u}"
     new "{u}即刻取得你的Lovense玩具{/u}"
+
+    # game/code/screens/menus.rpy:307
+    old "Buy Taboo University on Steam"
+    new "购买《禁忌大学》入Steam"
 

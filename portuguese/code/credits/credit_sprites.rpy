@@ -48,9 +48,11 @@ translate portuguese strings:
     old "If you liked the game, then please -\n{a=steam://openurl/https://store.steampowered.com/app/2459350/Taboo_University_Book_One/}Wishlist Taboo University on Steam{/a}"
     new "Se gostou do jogo, por favor -\n{a=steam://openurl/https://store.steampowered.com/app/2459350/Taboo_University_Book_One/}Adicionem Taboo University na Lista de Desejos da Steam{/a}"
 
-translate portuguese strings:
-
     # game/code/credits/credit_sprites.rpy:115
     old "This game was only\nmade possible with\nall the support we have\nfrom our fans"
     new "Esse jogo só foi\npossível com todo o\napoio que temos\nde nossos fãs "
+
+    # game/code/credits/credit_sprites.rpy:168
+    old "If you liked the game, then please -\n{a=steam://openurl/https://store.steampowered.com/app/2459350/Taboo_University_Book_One/}Buy Taboo University on Steam{/a}"
+    new "Se gostou do jogo, por favor -\n{a=steam://openurl/https://store.steampowered.com/app/2459350/Taboo_University_Book_One/}Ponha Taboo University na sua comprar da Steam{/a}"
 

@@ -48,9 +48,11 @@ translate turkish strings:
     old "If you liked the game, then please -\n{a=steam://openurl/https://store.steampowered.com/app/2459350/Taboo_University_Book_One/}Wishlist Taboo University on Steam{/a}"
     new "Eğer oyunu beğendiyseniz, lütfen -\n{a=steam://openurl/https://store.steampowered.com/app/2459350/Taboo_University_Book_One/}İstek Listesi Taboo University Steam'de{/a}"
 
-translate turkish strings:
-
     # game/code/credits/credit_sprites.rpy:115
     old "This game was only\nmade possible with\nall the support we have\nfrom our fans"
     new "Bu oyun ancak\ntaraftarlarımızdan\naldığımız desteklerle\nmümkün oldu"
+
+    # game/code/credits/credit_sprites.rpy:168
+    old "If you liked the game, then please -\n{a=steam://openurl/https://store.steampowered.com/app/2459350/Taboo_University_Book_One/}Buy Taboo University on Steam{/a}"
+    new "Eğer oyunu beğendiyseniz, lütfen -\n{a=steam://openurl/https://store.steampowered.com/app/2459350/Taboo_University_Book_One/}Steam'de Tabu Üniversitesi Satın almak{/a}"
 

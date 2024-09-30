@@ -104,9 +104,11 @@ translate portuguese strings:
     old "Sex Voice Volume"
     new "Volume da Voz de Sexo"
 
-translate portuguese strings:
-
     # game/code/screens/menus.rpy:869
     old "{u}Get your Lovense toy now{/u}"
     new "{u}Compre o seu brinquedo Lovense agora{/u}"
+
+    # game/code/screens/menus.rpy:307
+    old "Buy Taboo University on Steam"
+    new "Ponha Taboo University na sua comprar da Steam"
 

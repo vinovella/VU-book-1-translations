@@ -64,8 +64,6 @@ translate spanish strings:
     old "Join us on Discord"
     new "Únete a nosotros en Discord"
 
-translate spanish strings:
-
     # game/code/screens/menus.rpy:584
     old "Quick"
     new "Rápido"
@@ -94,8 +92,6 @@ translate spanish strings:
     old "Analytics"
     new "Análisis"
 
-translate spanish strings:
-
     # game/code/screens/menus.rpy:834
     old "We only collect data on in-game choices, no personal information is collected."
     new "Sólo recopilamos datos sobre las elecciones dentro del juego, no se recopila información personal."
@@ -108,9 +104,11 @@ translate spanish strings:
     old "Sex Voice Volume"
     new "Volumen de voz sexual"
 
-translate spanish strings:
-
     # game/code/screens/menus.rpy:869
     old "{u}Get your Lovense toy now{/u}"
     new "{u}Consiga ahora su juguete Lovense{/u}"
+
+    # game/code/screens/menus.rpy:307
+    old "Buy Taboo University on Steam"
+    new "Añade Taboo University a tu comprar en Steam"
 

@@ -56,3 +56,7 @@ translate chinese strings:
     old "Art -"
     new "艺术--"
 
+    # game/code/credits/credit_sprites.rpy:168
+    old "If you liked the game, then please -\n{a=steam://openurl/https://store.steampowered.com/app/2459350/Taboo_University_Book_One/}Buy Taboo University on Steam{/a}"
+    new "如果你喜欢这款游戏，请--\n{a=steam://openurl/https://store.steampowered.com/app/2459350/Taboo_University_Book_One/}购买《禁忌大学》入Steam{/a}"
+

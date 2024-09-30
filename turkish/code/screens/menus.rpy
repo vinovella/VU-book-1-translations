@@ -108,8 +108,6 @@ translate turkish strings:
     old "We only collect anonymous data about in-game choices."
     new "Yalnızca oyun içi seçimler hakkında anonim veriler topluyoruz."
 
-translate turkish strings:
-
     # game/code/screens/menus.rpy:834
     old "We only collect data on in-game choices, no personal information is collected."
     new "Yalnızca oyun içi seçimlerle ilgili veri topluyoruz, kişisel bilgi toplanmıyor."
@@ -122,9 +120,11 @@ translate turkish strings:
     old "Sex Voice Volume"
     new "Seks Ses Düzeyi"
 
-translate turkish strings:
-
     # game/code/screens/menus.rpy:869
     old "{u}Get your Lovense toy now{/u}"
     new "{u}Lovense oyuncağınızı şimdi alın{/u}"
+
+    # game/code/screens/menus.rpy:307
+    old "Buy Taboo University on Steam"
+    new "Steam'de Tabu Üniversitesi Satın almak"
 
