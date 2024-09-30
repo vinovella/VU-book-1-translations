@@ -92,7 +92,7 @@ translate spanish b1c09s03_c115cd95:
 translate spanish b1c09s03_60d14b7e:
 
     # mc "No bra today, hm? Was that just for me?"
-    mc "Sin sostén hoy, ¿eh? ¿Eso fue sólo para mí?"
+    mc "Sin sostén hoy, ¿eh? ¿Era sólo para mí?"
 
 # game/code/Book-1/Chapter-9/s03.rpy:156
 translate spanish b1c09s03_760dd98b:
@@ -260,7 +260,7 @@ translate spanish b1c09s03_use_hand_60504cde:
 translate spanish b1c09s03_use_hand_09d75caf:
 
     # "She's already wet for you as you slide your fingers slowly inside. Her walls pulse and draw your fingers in farther."
-    "Ella ya está mojada para ti mientras deslizas tus dedos lentamente hacia adentro. Sus paredes pulsan y atraen más tus dedos."
+    "Ya está húmeda cuando deslizas lentamente los dedos en su interior. Sus paredes palpitan y atraen aún más tus dedos."
 
 # game/code/Book-1/Chapter-9/s03.rpy:319
 translate spanish b1c09s03_use_hand_ecd9180e:
@@ -386,13 +386,13 @@ translate spanish b1c09s03_continue_f49f6147:
 translate spanish b1c09s03_continue_558a37b4:
 
     # "Her dick leaks precum, and she can't help but touch herself as you thigh fuck her."
-    "Su polla gotea líquido preseminal y no puede evitar tocarse mientras tú la follas con los muslos."
+    "Su polla gotea líquido preseminal y no puede evitar tocarse mientras tú la follas por los muslos."
 
 # game/code/Book-1/Chapter-9/s03.rpy:460
 translate spanish b1c09s03_continue_7c3cc814:
 
     # "She feels herself up with her other hand, lusting for your touch."
-    "Se siente levantada con la otra mano, deseando tu toque."
+    "Se siente con la otra mano, deseando tu toque."
 
 # game/code/Book-1/Chapter-9/s03.rpy:469
 translate spanish b1c09s03_continue_1729f00b:
@@ -428,7 +428,7 @@ translate spanish b1c09s03_continue_d813016d:
 translate spanish b1c09s03_continue_2e7bf6c3:
 
     # "You can't help yourself, the needy little things she does pushes you over the edge. You grab her hips and thrust harder."
-    "No puedes evitarlo, las pequeñas cosas necesitadas que ella hace te llevan al límite. Agarras sus caderas y empujas más fuerte."
+    "No puedes evitarlo, las pequeñas cosas que hace te llevan al límite. Agarras sus caderas y empujas con más fuerza."
 
 # game/code/Book-1/Chapter-9/s03.rpy:499
 translate spanish b1c09s03_continue_a0c99add:
@@ -470,7 +470,7 @@ translate spanish b1c09s03_continue_a6395e92:
 translate spanish b1c09s03_continue_09575d09:
 
     # "Josie makes a lovely mess of herself and the bed as she cums all over."
-    "Josie hace un hermoso desastre con ella y la cama mientras se corre por todas partes."
+    "Josie hace un hermoso desastre de sí misma y de la cama mientras se corre por todas partes."
 
 # game/code/Book-1/Chapter-9/s03.rpy:535
 translate spanish b1c09s03_continue_a6a981c7:
