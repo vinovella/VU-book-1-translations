@@ -14,7 +14,7 @@ translate spanish b1c09s09w_c2b8e801:
 translate spanish b1c09s09w_a481dbf4:
 
     # sm "Yes, we're so glad you're here!"
-    sm "¡Sí, estamos muy contentos de que estés aquí!"
+    sm "Sí, ¡nos alegramos mucho de que estés aquí!"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:36
 translate spanish b1c09s09w_e290266d:
@@ -176,7 +176,7 @@ translate spanish replay_b1c09s09w_c33b8fbc:
 translate spanish replay_b1c09s09w_d8ce0219:
 
     # mct "I should really start wearing more layers around Iona."
-    mct "Realmente debería empezar a usar más capas alrededor de Iona."
+    mct "Realmente debería empezar a usar más ropa alrededor de Iona."
 
 # game/code/Book-1/Chapter-9/s09w.rpy:129
 translate spanish replay_b1c09s09w_49024973:
@@ -254,7 +254,7 @@ translate spanish replay_b1c09s09w_1991cf89:
 translate spanish replay_b1c09s09w_586cf048:
 
     # "Iona rolls her hips and moves in fluid, slow movements. It's mesmerizing and draws your eye down her body."
-    "Iona mueve las caderas y se mueve con movimientos fluidos y lentos. Es fascinante y atrae la atención por su cuerpo."
+    "Iona gira las caderas y se mueve con fluidez y lentitud. Es hipnotizante y atrae la mirada hacia su cuerpo."
 
 # game/code/Book-1/Chapter-9/s09w.rpy:178
 translate spanish replay_b1c09s09w_5f05341c:
@@ -296,7 +296,7 @@ translate spanish b1c09s09w_cheer_ir_7ea0bbde:
 translate spanish b1c09s09w_cheer_ir_c1b386ee:
 
     # "Iona sexily tugs at her top, starting to remove it. She lets her breasts bounce out as she completely removes the fabric."
-    "Iona tira sexymente de su sostén, y comienza a quitárselo. Deja que sus pechos reboten mientras se quita completamente la tela."
+    "Iona tira sexymente de su sostén, y comienza a quitárselo. Dejando que sus pechos reboten mientras se quita completamente la tela."
 
 # game/code/Book-1/Chapter-9/s09w.rpy:253
 translate spanish b1c09s09w_cheer_ir_5e83a790:
@@ -320,7 +320,7 @@ translate spanish b1c09s09w_cheer_ir_63f6573c:
 translate spanish b1c09s09w_cheer_ir_9103051d:
 
     # "Her eyes lock onto you, thinking of all the naughty things you two have done together in the past, and obviously wishing you could do more together."
-    "Sus ojos se fijan en ti, pensando en todas las cosas malas que han hecho juntos en el pasado y, obviamente, deseando poder hacer más juntos."
+    "Sus ojos se fijan en ti, pensando en todas las cosas malas que han hecho juntos en el pasado y, obviamente, deseando poder hacer más cosas juntos."
 
 # game/code/Book-1/Chapter-9/s09w.rpy:265
 translate spanish b1c09s09w_cheer_ir_9f18989b:
@@ -350,7 +350,7 @@ translate spanish b1c09s09w_cheer_ir_fd48cb8a:
 translate spanish b1c09s09w_ima_show_554b433b:
 
     # ima "Me next, me next!"
-    ima "¡Yo soy la siguiente, yo soy la siguiente!"
+    ima "¡Yo soy la siguiente!"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:289
 translate spanish b1c09s09w_ima_show_b82ab687:
@@ -386,7 +386,7 @@ translate spanish b1c09s09w_ima_show_571d8805:
 translate spanish b1c09s09w_ima_show_fc77f8db:
 
     # "Isa wastes no time, freely removing her netted top and her overskirt, leaving her in only a two-piece."
-    "Isa no pierde el tiempo y se quita libremente el top de malla y la sobrefalda, quedándose sólo en dos piezas."
+    "Isa no pierde el tiempo y se quita libremente el top de malla y el vestido, quedándose sólo en dos piezas."
 
 # game/code/Book-1/Chapter-9/s09w.rpy:307
 translate spanish b1c09s09w_ima_show_3a972a14:
@@ -488,7 +488,7 @@ translate spanish b1c09s09w_cheer_ima_6afac555:
 translate spanish b1c09s09w_cheer_ima_b70ca53f:
 
     # "Isa giggles and tugs her bottoms up, not quite willing to take them all the way off for the crowd."
-    "Isa se ríe y se levanta el trasero, sin querer quitárselos del todo para la multitud."
+    "Isa suelta una risita y levanta sus calzones, no muy dispuesta a quitárselos del todo para el público."
 
 # game/code/Book-1/Chapter-9/s09w.rpy:394
 translate spanish b1c09s09w_ba_show_cc65ba2a:
@@ -530,7 +530,7 @@ translate spanish b1c09s09w_ba_show_bb23868e:
 translate spanish b1c09s09w_ba_show_978ca45d:
 
     # ir "Damn, Brigitta's starting out crazier than I did."
-    ir "Maldita sea, Brigitta está empezando más loca que yo."
+    ir "Maldición, Brigitta está empezando más loca que yo."
 
 # game/code/Book-1/Chapter-9/s09w.rpy:420
 translate spanish b1c09s09w_ba_show_6fc95ef3:
@@ -770,7 +770,7 @@ translate spanish b1c09s09w_ba_show_6fd7aac4:
 translate spanish b1c09s09w_ba_show_8a02447c:
 
     # mc "Just shut up. What the fuck is your problem?"
-    mc "Sólo cállate. ¿Cuál carajo es tu problema?"
+    mc "Cállate. ¿Cuál es tu maldito problema?"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:555
 translate spanish b1c09s09w_ba_show_56edf709:
@@ -902,7 +902,7 @@ translate spanish b1c09s09w_after_ba_2ee528b3:
 translate spanish b1c09s09w_after_ba_cafb37fc:
 
     # ima "I'm gonna go talk to that bitch. She'll be locked in a god damn straight jacket before I let her ruin this party!"
-    ima "Voy a ir a hablar con esa perra. ¡La encerrarán en una maldita camisa de fuerza antes de que la deje arruinar esta fiesta!"
+    ima "Voy a hablar con esa perra. ¡Estará encerrada en una maldita camisa de fuerza antes de que la deje arruinar esta fiesta!"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:661
 translate spanish b1c09s09w_after_ba_3a803901:
@@ -968,7 +968,7 @@ translate spanish b1c09s09w_after_ba_87e32c42:
 translate spanish b1c09s09w_after_ba_a7ba5ea3:
 
     # sm "*Chuckles* You getting your ass handed to you by someone made of muscle and rage isn't exactly what's turning me on."
-    sm "*Risas* Que alguien hecho de músculos y de rabia te golpee en el culo no es exactamente lo que me excita."
+    sm "*Risas* Que alguien hecho de músculos y de rabia te golpee el culo no es exactamente lo que me excita."
 
 # game/code/Book-1/Chapter-9/s09w.rpy:710
 translate spanish b1c09s09w_after_ba_5d259318:
@@ -1298,7 +1298,7 @@ translate spanish b1c09s09w_wc_available_d3e446c3:
 translate spanish b1c09s09w_wc_available_c85a321b:
 
     # ir "Hey, do you wanna do something a little risky with me and Isa?"
-    ir "Oye, ¿quieres hacer algo un poco arriesgado entre Isa y yo?"
+    ir "Oye, ¿quieres hacer algo un poco arriesgado conmigo e Isa?"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:875
 translate spanish b1c09s09w_wc_available_55310c42:
@@ -1322,7 +1322,7 @@ translate spanish b1c09s09w_wc_available_35199897:
 translate spanish b1c09s09w_wc_available_209faf25:
 
     # mc "Well, I'm gonna go see what else is here at the party. See ya around."
-    mc "Bueno, voy a ir a ver qué más hay aquí en la fiesta. Nos vemos por ahí."
+    mc "Bueno, voy a ir a ver qué más hay en la fiesta. Nos vemos por ahí."
 
 # game/code/Book-1/Chapter-9/s09w.rpy:889
 translate spanish b1c09s09w_wc_available_87b07b81:
@@ -1334,7 +1334,7 @@ translate spanish b1c09s09w_wc_available_87b07b81:
 translate spanish b1c09s09w_no_wc_2f8ef655:
 
     # mc "I promise I'm okay. You didn't make Brig launch herself at me."
-    mc "Prometo que estoy bien. No hiciste que Brig se lanzara hacia mí."
+    mc "Te prometo que estoy bien. No hiciste que Brig se lanzara sobre mí."
 
 # game/code/Book-1/Chapter-9/s09w.rpy:900
 translate spanish b1c09s09w_no_wc_d232bafb:
