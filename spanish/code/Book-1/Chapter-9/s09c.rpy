@@ -20,7 +20,7 @@ translate spanish b1c09s09c_928d39a6:
 translate spanish b1c09s09c_14fe748c:
 
     # mct "Besides, I haven't spent much time with this clique."
-    mct "Además, no he pasado mucho tiempo con esta camarilla."
+    mct "Además, no he pasado mucho tiempo con esta pandilla."
 
 # game/code/Book-1/Chapter-9/s09c.rpy:54
 translate spanish b1c09s09c_858ba839:
@@ -32,7 +32,7 @@ translate spanish b1c09s09c_858ba839:
 translate spanish b1c09s09c_da5f1074:
 
     # ef "*Chuckles* C'mon, Andre! Lighten up. It's a party!"
-    ef "*Risas* ¡Vamos, Andre! Relájate. ¡Es una fiesta!"
+    ef "*Risas* ¡Vamos, André! Relájate. ¡Es una fiesta!"
 
 # game/code/Book-1/Chapter-9/s09c.rpy:66
 translate spanish b1c09s09c_e330c4d9:
@@ -74,7 +74,7 @@ translate spanish b1c09s09c_1c523d45:
 translate spanish b1c09s09c_0b150c85:
 
     # nv "Lumi is a new member of our self-help group."
-    nv "Lumi es un nuevo miembro de nuestro grupo de autoayuda."
+    nv "Lumi es la miembro más reciente de nuestro grupo de autoayuda."
 
 # game/code/Book-1/Chapter-9/s09c.rpy:88
 translate spanish b1c09s09c_6f49e17c:
@@ -92,13 +92,13 @@ translate spanish b1c09s09c_d4ca1297:
 translate spanish b1c09s09c_082b9d1c:
 
     # mc "I'll think about it. Thanks for inviting me in the first place, though."
-    mc "Me lo pensaré. Gracias por invitarme en primer lugar, de todos modos."
+    mc "Me lo pensaré. De todos modos, gracias por invitarme."
 
 # game/code/Book-1/Chapter-9/s09c.rpy:101
 translate spanish b1c09s09c_7578d584:
 
     # nv "Well you're here now. Come say hi to everyone!"
-    nv "Bueno, ya estás aquí. ¡Ven a saludar a todos!"
+    nv "Bueno, ya estás aquí. ¡Ven a saludar a todas!"
 
 # game/code/Book-1/Chapter-9/s09c.rpy:112
 translate spanish b1c09s09c_55bc72f7:
@@ -194,7 +194,7 @@ translate spanish b1c09s09c_c5380072:
 translate spanish b1c09s09c_5bc5b869:
 
     # dk "Nia, sweetheart, would you mind serving me my drink yourself?"
-    dk "Nia, cariño, ¿te importaría servirme mi bebida tú misma?"
+    dk "Nia, cariño, ¿te importaría servirme tú misma la bebida?"
 
 # game/code/Book-1/Chapter-9/s09c.rpy:160
 translate spanish b1c09s09c_6b359c39:
@@ -296,7 +296,7 @@ translate spanish b1c09s09c_29a51cb8:
 translate spanish b1c09s09c_bd1e086a:
 
     # ef "Lumi's come so far in her healing journey. I'm really proud of her."
-    ef "Lumi ha llegado tan lejos en su viaje de curación. Estoy realmente orgulloso de ella."
+    ef "Lumi ha llegado tan lejos en su viaje de sanación. Estoy realmente orgullosa de ella."
 
 # game/code/Book-1/Chapter-9/s09c.rpy:246
 translate spanish b1c09s09c_70defa5e:
@@ -344,7 +344,7 @@ translate spanish b1c09s09c_cn_available_aae13c79:
 translate spanish b1c09s09c_cn_available_a9a93adf:
 
     # ef "I miss being celebrated like that..."
-    ef "Extraño que me celebren de esa manera..."
+    ef "Echo de menos que me celebren de esa manera..."
 
 # game/code/Book-1/Chapter-9/s09c.rpy:271
 translate spanish b1c09s09c_cn_available_6b8ddaaa:
@@ -356,7 +356,7 @@ translate spanish b1c09s09c_cn_available_6b8ddaaa:
 translate spanish b1c09s09c_cn_available_b93ba0c4:
 
     # ef "Well, Lumi's my spiritual partner. We're both healing under Irene's guidance.{w} But Lumi's rank is advancing so fast...and I've stagnated."
-    ef "Bueno, Lumi es mi compañera espiritual. Ambas estamos sanando bajo la guía de Irene.{w} Pero el rango de Lumi está avanzando tan rápido ... y me he estancado."
+    ef "Bueno, Lumi es mi compañera espiritual. Las dos estamos sanando bajo la guía de Irene.{w} Pero el rango de Lumi está avanzando tan rápido ... y me he estancado."
 
 # game/code/Book-1/Chapter-9/s09c.rpy:279
 translate spanish b1c09s09c_cn_available_17e75a99:
@@ -392,7 +392,7 @@ translate spanish b1c09s09c_cn_available_28fa7aee:
 translate spanish b1c09s09c_cn_available_83bf64cc:
 
     # ef "I just wish I could share in it with her more often."
-    ef "Sólo desearía poder compartirlo con ella más a menudo."
+    ef "Sólo desearía poder compartirlo más a menudo con ella."
 
 # game/code/Book-1/Chapter-9/s09c.rpy:291
 translate spanish b1c09s09c_cn_available_5c489b5e:
@@ -404,7 +404,7 @@ translate spanish b1c09s09c_cn_available_5c489b5e:
 translate spanish b1c09s09c_cn_available_2f2c3f54:
 
     # mc "Of course. I understand."
-    mc "Por supuesto. Entiendo."
+    mc "Por supuesto. Lo entiendo."
 
 # game/code/Book-1/Chapter-9/s09c.rpy:298
 translate spanish b1c09s09c_cn_available_0eb03979:
@@ -452,7 +452,7 @@ translate spanish b1c09s09c_cn_available_939a39ca:
 translate spanish b1c09s09c_cn_available_7c4ea88b:
 
     # ef "And it's not like I'd be alone. I'd have all of you!"
-    ef "Y no es como si estuviera sola. ¡Los tendría a todos!"
+    ef "Y no es como si estuviera sola. ¡Los tendría a todos ustedes!"
 
 # game/code/Book-1/Chapter-9/s09c.rpy:320
 translate spanish b1c09s09c_cn_available_3e1aa8a0:
@@ -602,7 +602,7 @@ translate spanish b1c09s09c_cn_available_52450cab:
 translate spanish b1c09s09c_cn_available_9bf839f5:
 
     # mct "If so, I could see someone in the higher ranks taking issue with Maria, especially if she wouldn't back down."
-    mct "Si es así, podría ver a alguien en los rangos superiores discrepar con María, especialmente si ella no se echa para atrás."
+    mct "Si es así, podría pensar que alguien de los rangos superiores se opusiera a María, sobre todo si no se echaba para atrás."
 
 # game/code/Book-1/Chapter-9/s09c.rpy:381
 translate spanish b1c09s09c_cn_available_e0d8c182:
