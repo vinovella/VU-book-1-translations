@@ -36,8 +36,6 @@ translate turkish strings:
     old "Coming Soon"
     new "Yakında gelecek"
 
-translate turkish strings:
-
     # game/code/screens/others.rpy:10
     old "We collect only anonymized data to better understand which paths, characters, scenes, and fetishes are most popular and to identify areas for improvement."
     new "Hangi yolların, karakterlerin, sahnelerin ve fetişlerin en popüler olduğunu daha iyi anlamak ve iyileştirme alanlarını belirlemek için yalnızca anonimleştirilmiş veriler topluyoruz."
@@ -49,4 +47,48 @@ translate turkish strings:
     # game/code/screens/others.rpy:13
     old "Would you like to enable this data collection?"
     new "Bu veri toplamayı etkinleştirmek ister misiniz?"
+
+    # game/code/screens/others.rpy:55
+    old "Touch input supported"
+    new "Dokunmatik giriş destekleniyor"
+
+    # game/code/screens/others.rpy:56
+    old "Navigation"
+    new "Navigasyon"
+
+    # game/code/screens/others.rpy:57
+    old "Pause Menu"
+    new "Menüyü Duraklat"
+
+    # game/code/screens/others.rpy:58
+    old "Quick Save"
+    new "Hızlı Kaydet"
+
+    # game/code/screens/others.rpy:60
+    old "Roll Back"
+    new "Geri Al"
+
+    # game/code/screens/others.rpy:63
+    old "{b}A{/b} - Select"
+    new "{b}A{/b} - Seçin"
+
+    # game/code/screens/others.rpy:64
+    old "{b}B{/b} - Go Back"
+    new "{b}B{/b} - Geri Dön"
+
+    # game/code/screens/others.rpy:65
+    old "{b}X{/b} - Skip"
+    new "{b}X{/b} - Atla"
+
+    # game/code/screens/others.rpy:66
+    old "{b}Y{/b} - Hide UI"
+    new "{b}Y{/b} - Gizle"
+
+    # game/code/screens/others.rpy:67
+    old "Roll Forward"
+    new "İleri Sar"
+
+    # game/code/screens/others.rpy:70
+    old "You can find this layout in the {b}Help{/b} menu"
+    new "Bu düzeni {b} Yardım {/b} menüsünde bulabilirsiniz"
 

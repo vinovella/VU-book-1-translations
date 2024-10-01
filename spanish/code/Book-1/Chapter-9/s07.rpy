@@ -796,5 +796,5 @@ translate spanish strings:
 
     # game/code/Book-1/Chapter-9/s07.rpy:174
     old "Ya gotta pay extra for that, Sweetheart"
-    new "Tienes que pagar extra por eso, cariño."
+    new "Tienes que pagar extra por eso, cariño"
 
