@@ -236,7 +236,7 @@ translate spanish b1c09s07_ima_sex_96779f80:
 translate spanish b1c09s07_ima_sex_13fce089:
 
     # "Isa's wetness floods your tongue as you lick and tease her. You feel her hands pull you closer, and her hips move into your tongue, begging for more."
-    "La humedad de Isa inunda tu lengua mientras la lames y la provocas. Sientes que sus manos te acercan más y sus caderas se mueven hacia tu lengua, pidiendo más."
+    "La humedad de Isa inunda tu lengua mientras la lames y la provocas. Sientes cómo sus manos te acercan y sus caderas se mueven hacia tu lengua, pidiendo más."
 
 # game/code/Book-1/Chapter-9/s07.rpy:232
 translate spanish b1c09s07_ima_sex_fb7841c9:
@@ -290,7 +290,7 @@ translate spanish b1c09s07_ima_sex_e6205a8d:
 translate spanish b1c09s07_ima_sex_aebbdf80:
 
     # mc "What, am I too big for you?"
-    mc "¿Qué, soy demasiado grande para ti?"
+    mc "Qué, ¿soy demasiado grande para ti?"
 
 # game/code/Book-1/Chapter-9/s07.rpy:268
 translate spanish b1c09s07_ima_sex_71d99193:
@@ -350,7 +350,7 @@ translate spanish b1c09s07_ima_sex_b22ec60e:
 translate spanish b1c09s07_ima_sex_751d000d:
 
     # ima "*Giggles* My, so eager, hm?"
-    ima "*Risitas* Vaya, qué ansiosa, ¿eh?"
+    ima "*Risitas* Vaya, qué impaciente, ¿eh?"
 
 # game/code/Book-1/Chapter-9/s07.rpy:345
 translate spanish b1c09s07_ima_sex_bb90a73e:
@@ -440,7 +440,7 @@ translate spanish b1c09s07_ima_sex_fff03a0f:
 translate spanish b1c09s07_ima_sex_363b85e6:
 
     # ima "*Giggles* C'mon, you. There are some towels in the living room of the mansion."
-    ima "*Risas* Vamos, tú. Hay algunas toallas en el salón de la mansión."
+    ima "*Risas* Vamos. Hay algunas toallas en la sala de estar de la mansión."
 
 # game/code/Book-1/Chapter-9/s07.rpy:430
 translate spanish b1c09s07_ima_sex_1500cb77:
@@ -626,7 +626,7 @@ translate spanish b1c09s07_after_8101b4fe:
 translate spanish b1c09s07_after_66c2d355:
 
     # "???" "We're lucky that no one else showed any adverse reactions."
-    "???" "Tenemos suerte de que nadie más mostró reacciones adversas."
+    "???" "Tuvimos suerte de que nadie más mostrara reacciones adversas."
 
 # game/code/Book-1/Chapter-9/s07.rpy:540
 translate spanish b1c09s07_after_f8dee0f0:
