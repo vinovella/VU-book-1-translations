@@ -82,7 +82,7 @@ translate turkish strings:
 
     # game/code/screens/others.rpy:66
     old "{b}Y{/b} - Hide UI"
-    new "{b}Y{/b} - Gizle"
+    new "{b}Y{/b} - Gizle UI"
 
     # game/code/screens/others.rpy:67
     old "Roll Forward"
