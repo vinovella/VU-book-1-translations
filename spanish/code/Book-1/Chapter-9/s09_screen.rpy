@@ -10,5 +10,5 @@ translate spanish strings:
 
     # game/code/Book-1/Chapter-9/s09_screen.rpy:61
     old "Explore the mansion"
-    new "Explora la mansión"
+    new "Explorar la mansión"
 
