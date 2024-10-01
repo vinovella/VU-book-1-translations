@@ -50,45 +50,45 @@ translate portuguese strings:
 
     # game/code/screens/others.rpy:55
     old "Touch input supported"
-    new "Touch input supported"
+    new "Compatível com toque"
 
     # game/code/screens/others.rpy:56
     old "Navigation"
-    new "Navigation"
+    new "Navegação"
 
     # game/code/screens/others.rpy:57
     old "Pause Menu"
-    new "Pause Menu"
+    new "Menu de Pausa"
 
     # game/code/screens/others.rpy:58
     old "Quick Save"
-    new "Quick Save"
+    new "Save Rápido"
 
     # game/code/screens/others.rpy:60
     old "Roll Back"
-    new "Roll Back"
+    new "Recuar"
 
     # game/code/screens/others.rpy:63
     old "{b}A{/b} - Select"
-    new "{b}A{/b} - Select"
+    new "{b}A{/b} - Escolher"
 
     # game/code/screens/others.rpy:64
     old "{b}B{/b} - Go Back"
-    new "{b}B{/b} - Go Back"
+    new "{b}B{/b} - Voltar"
 
     # game/code/screens/others.rpy:65
     old "{b}X{/b} - Skip"
-    new "{b}X{/b} - Skip"
+    new "{b}X{/b} - Pular"
 
     # game/code/screens/others.rpy:66
     old "{b}Y{/b} - Hide UI"
-    new "{b}Y{/b} - Hide UI"
+    new "{b}Y{/b} - Esconder UI"
 
     # game/code/screens/others.rpy:67
     old "Roll Forward"
-    new "Roll Forward"
+    new "Avançar"
 
     # game/code/screens/others.rpy:70
     old "You can find this layout in the {b}Help{/b} menu"
-    new "You can find this layout in the {b}Help{/b} menu"
+    new "Você pode encontrar esse layout no menu {b}Ajuda{/b}"
 
