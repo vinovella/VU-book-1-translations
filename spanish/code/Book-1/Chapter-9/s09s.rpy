@@ -662,7 +662,7 @@ translate spanish b1c09s09s_no_tf_21b54884:
 translate spanish b1c09s09s_no_tf_90b2b2ef:
 
     # mct "He's obviously buzzed... But the gesture is nice."
-    mct "Obviamente está emocionado... Pero el gesto es agradable."
+    mct "Obviamente está borracho... Pero el gesto es bonito."
 
 # game/code/Book-1/Chapter-9/s09s.rpy:445
 translate spanish b1c09s09s_no_tf_82ab8fbf:
@@ -710,7 +710,7 @@ translate spanish b1c09s09s_no_tf_4df6ee6a:
 translate spanish b1c09s09s_no_tf_b9225849:
 
     # mct "Man, he's obviously a bit buzzed."
-    mct "Hombre, obviamente está un poco emocionado."
+    mct "Tío, obviamente está un poco borracho."
 
 # game/code/Book-1/Chapter-9/s09s.rpy:466
 translate spanish b1c09s09s_no_tf_47d1cf91:
@@ -764,7 +764,7 @@ translate spanish b1c09s09s_no_tf_d4322f17:
 translate spanish b1c09s09s_no_tf_799422ce:
 
     # mc "I'm just saying. You're all over the place."
-    mc "Sólo digo. Estás por todos lados."
+    mc "Sólo lo digo. Estás por todas partes."
 
 # game/code/Book-1/Chapter-9/s09s.rpy:511
 translate spanish b1c09s09s_no_tf_0f10c4cb:
@@ -962,7 +962,7 @@ translate spanish b1c09s09s_with_zp_f19953b8:
 translate spanish b1c09s09s_with_zp_b883b5c0:
 
     # zp "I want you. I wan—"
-    zp "Te deseo. quiero—"
+    zp "Te deseo a ti. Quiero..."
 
 # game/code/Book-1/Chapter-9/s09s.rpy:690
 translate spanish b1c09s09s_with_zp_977c1d33:
