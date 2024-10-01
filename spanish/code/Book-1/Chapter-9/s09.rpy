@@ -8,7 +8,7 @@ translate spanish b1c09s09_continue_d255b5b7:
 translate spanish b1c09s09_continue_a1edf7db:
 
     # mct "Isa sure knows how to please the guests."
-    mct "Isa seguro que sabe complacer a los invitados."
+    mct "Isa sí que sabe cómo complacer a los invitados."
 
 # game/code/Book-1/Chapter-9/s09.rpy:58
 translate spanish b1c09s09_continue_cfb75340:
@@ -20,7 +20,7 @@ translate spanish b1c09s09_continue_cfb75340:
 translate spanish b1c09s09_continue_2eac4c0f:
 
     # ima "[mcname]! I'm so happy you made it."
-    ima "¡[mcname]! Estoy tan feliz de que lo hayas conseguido."
+    ima "¡[mcname]! Me alegro mucho de que hayas venido."
 
 # game/code/Book-1/Chapter-9/s09.rpy:67
 translate spanish b1c09s09_continue_3da544d8:
@@ -44,7 +44,7 @@ translate spanish b1c09s09_continue_c31165c6:
 translate spanish b1c09s09_continue_320c0ebf:
 
     # ima "The servants are here to {i}serve{/i}, after all."
-    ima "Después de todo, los sirvientes están aquí para {i}servir{/i}."
+    ima "Después de todo, los camareros están aquí para {i}servir{/i}."
 
 # game/code/Book-1/Chapter-9/s09.rpy:83
 translate spanish b1c09s09_continue_dacf72b8:
@@ -68,7 +68,7 @@ translate spanish b1c09s09_continue_d10e222d:
 translate spanish b1c09s09_continue_5103a23d:
 
     # ima "*Giggles* I love to surprise people."
-    ima "*risas* Me encanta sorprender a la gente."
+    ima "*Risas* Me encanta sorprender a la gente."
 
 # game/code/Book-1/Chapter-9/s09.rpy:99
 translate spanish b1c09s09_continue_a3ef0aca:
