@@ -26,7 +26,7 @@ translate spanish strings:
 
     # game/code/screens/others.rpy:187
     old "The content explored should not be treated as an endorsement of particular fetishes, kinks, or patterns of behaviour."
-    new "El contenido explorado no debe tratarse como una aprobación de fetiches, torceduras o patrones de comportamiento particulares."
+    new "El contenido explorado no debe considerarse como una aprobación de determinados fetiches, perversiones o patrones de comportamiento."
 
     # game/code/screens/others.rpy:189
     old "Enjoy!"
@@ -38,57 +38,57 @@ translate spanish strings:
 
     # game/code/screens/others.rpy:10
     old "We collect only anonymized data to better understand which paths, characters, scenes, and fetishes are most popular and to identify areas for improvement."
-    new "We collect only anonymized data to better understand which paths, characters, scenes, and fetishes are most popular and to identify areas for improvement."
+    new "Sólo recopilamos datos anónimos para comprender mejor qué rutas, personajes, escenas y fetiches son los más populares e identificar las áreas a mejorar."
 
     # game/code/screens/others.rpy:11
     old "NO PERSONAL INFORMATION IS COLLECTED."
-    new "NO PERSONAL INFORMATION IS COLLECTED."
+    new "NO SE RECOPILA INFORMACIÓN PERSONAL."
 
     # game/code/screens/others.rpy:13
     old "Would you like to enable this data collection?"
-    new "Would you like to enable this data collection?"
+    new "¿Le gustaría habilitar esta recopilación de datos?"
 
     # game/code/screens/others.rpy:55
     old "Touch input supported"
-    new "Touch input supported"
+    new "Compatible con entrada táctil"
 
     # game/code/screens/others.rpy:56
     old "Navigation"
-    new "Navigation"
+    new "Navegación"
 
     # game/code/screens/others.rpy:57
     old "Pause Menu"
-    new "Pause Menu"
+    new "Menú de pausa"
 
     # game/code/screens/others.rpy:58
     old "Quick Save"
-    new "Quick Save"
+    new "Guardado rápido"
 
     # game/code/screens/others.rpy:60
     old "Roll Back"
-    new "Roll Back"
+    new "Retroceso"
 
     # game/code/screens/others.rpy:63
     old "{b}A{/b} - Select"
-    new "{b}A{/b} - Select"
+    new "{b}A{/b} - Seleccionar"
 
     # game/code/screens/others.rpy:64
     old "{b}B{/b} - Go Back"
-    new "{b}B{/b} - Go Back"
+    new "{b}B{/b} - Regresar"
 
     # game/code/screens/others.rpy:65
     old "{b}X{/b} - Skip"
-    new "{b}X{/b} - Skip"
+    new "{b}X{/b} - Saltar"
 
     # game/code/screens/others.rpy:66
     old "{b}Y{/b} - Hide UI"
-    new "{b}Y{/b} - Hide UI"
+    new "{b}Y{/b} - Ocultar interfaz de usuario"
 
     # game/code/screens/others.rpy:67
     old "Roll Forward"
-    new "Roll Forward"
+    new "Avanzar"
 
     # game/code/screens/others.rpy:70
     old "You can find this layout in the {b}Help{/b} menu"
-    new "You can find this layout in the {b}Help{/b} menu"
+    new "Puede encontrar este diseño en el menú {b}Ayuda{/b}."
 
