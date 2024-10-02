@@ -8,7 +8,7 @@ translate spanish b1c09s10_f42c1f0a:
 translate spanish b1c09s10_9e0a1b4a:
 
     # mct "I've made some good progress today. This party paid off. I'll have something to report to Phoebe."
-    mct "He hecho algunos buenos progresos hoy. Esta fiesta dio sus frutos. Tendré algo que informarle a Phoebe."
+    mct "Hoy he hecho algunos progresos. Esta fiesta valió la pena. Tendré algo que informarle a Phoebe."
 
 # game/code/Book-1/Chapter-9/s10.rpy:73
 translate spanish b1c09s10_f3ca6163:
@@ -26,7 +26,7 @@ translate spanish b1c09s10_018bb459:
 translate spanish replay_b1c09s10_ed33b826:
 
     # ir "Guess who!"
-    ir "¡Adivina quién!"
+    ir "¡Adivina quién es!"
 
 # game/code/Book-1/Chapter-9/s10.rpy:98
 translate spanish replay_b1c09s10_ed1539b2:
@@ -116,7 +116,7 @@ translate spanish replay_b1c09s10_f804d49f:
 translate spanish replay_b1c09s10_4b7b63cb:
 
     # ir "Oh, handsome. I've already seen how big you are. You've nothing to prove."
-    ir "Ah, guapo. Ya he visto lo grande que eres. No tienes nada que demostrar."
+    ir "Oh, qué galán. Ya he visto lo grande que eres. No tienes nada que demostrar."
 
 # game/code/Book-1/Chapter-9/s10.rpy:148
 translate spanish replay_b1c09s10_6067ffa7:
@@ -140,7 +140,7 @@ translate spanish replay_b1c09s10_8fa0b987:
 translate spanish replay_b1c09s10_0c5d7e03:
 
     # ima "Or a taste, for that matter?"
-    ima "¿O una probada, en todo caso?"
+    ima "¿O una probadita?"
 
 # game/code/Book-1/Chapter-9/s10.rpy:165
 translate spanish replay_b1c09s10_878aa8a3:
@@ -194,7 +194,7 @@ translate spanish replay_b1c09s10_b8ab4a8c:
 translate spanish replay_b1c09s10_00f46089:
 
     # "The girls rush to strip off their clothes, enthused to streak."
-    "Las chicas se apresuran a quitarse la ropa, entusiasmadas por correr."
+    "Las chicas se apresuran a quitarse la ropa, entusiasmadas por el espectáculo."
 
 # game/code/Book-1/Chapter-9/s10.rpy:210
 translate spanish replay_b1c09s10_00b9a9d9:
@@ -230,7 +230,7 @@ translate spanish replay_b1c09s10_ef6f7f7b:
 translate spanish replay_b1c09s10_0abc356f:
 
     # ir "Don't think we forgot about you."
-    ir "No creas que nos olvidamos de ti."
+    ir "No creas que nos hemos olvidado de ti."
 
 # game/code/Book-1/Chapter-9/s10.rpy:247
 translate spanish replay_b1c09s10_d727250d:
@@ -350,7 +350,7 @@ translate spanish b1c09s10_naked_run_8c8b38fd:
 translate spanish b1c09s10_naked_run_0d022b7b:
 
     # mc "What the fuck is your problem, Brig?"
-    mc "¿Cuál carajo es tu problema, Brig?"
+    mc "¿Cuál es tu maldito problema, Brig?"
 
 # game/code/Book-1/Chapter-9/s10.rpy:361
 translate spanish b1c09s10_naked_run_4b248b9a:
@@ -410,7 +410,7 @@ translate spanish b1c09s10_naked_run_cbfbaf41:
 translate spanish b1c09s10_naked_run_b9a3c51c:
 
     # ba "Oh, {i}I'm{/i} the bitch? You think you're so fucking perfect, don't you?"
-    ba "Oh, ¿{i}soy{/i} la perra? Crees que eres tan jodidamente perfecto, ¿no?"
+    ba "Oh, ¿{i}yo soy{/i} la perra? Crees que eres tan jodidamente perfecto, ¿no?"
 
 # game/code/Book-1/Chapter-9/s10.rpy:386
 translate spanish b1c09s10_naked_run_d43ef60e:
@@ -458,7 +458,7 @@ translate spanish b1c09s10_naked_run_b5b7dfbd:
 translate spanish b1c09s10_naked_run_51684bc3:
 
     # ba "Admit it, you want everyone to suck you off because you have MASSIVE main character syndrome and expect everything to be handed to you."
-    ba "Admítelo, quieres que todos te la chupen porque tienes un síndrome MASIVO del personaje principal y esperas que te entreguen todo."
+    ba "Admítelo, quieres que todos te la chupen porque tienes un síndrome MASIVO de personaje principal y esperas que te entreguen todo."
 
 # game/code/Book-1/Chapter-9/s10.rpy:406
 translate spanish b1c09s10_naked_run_edb82c02:
@@ -482,7 +482,7 @@ translate spanish b1c09s10_naked_run_45d0df86:
 translate spanish b1c09s10_naked_run_9966c849:
 
     # "Both of you let your bodies communicate the pent up frustration."
-    "Ambos permitieron que sus cuerpos comunicaran la frustración reprimida."
+    "Ambos dejan que sus cuerpos comuniquen la frustración reprimida."
 
 # game/code/Book-1/Chapter-9/s10.rpy:441
 translate spanish b1c09s10_naked_run_eafead2e:
@@ -506,13 +506,13 @@ translate spanish b1c09s10_naked_run_7cb2c7d2:
 translate spanish b1c09s10_naked_run_f12b8e05:
 
     # "You throw Brig over your shoulder. She lets out a little squeal of rage, immediately tense and angry in your grasp."
-    "Te arrojas a Brig por encima del hombro. La chica suelta un pequeño chillido de rabia y se pone inmediatamente tensa y furiosa en tus brazos."
+    "Arrojas a Brig por encima del hombro. Ella suelta un pequeño chillido de rabia, inmediatamente tensa y furiosa en tus garras."
 
 # game/code/Book-1/Chapter-9/s10.rpy:477
 translate spanish b1c09s10_naked_run_60555b85:
 
     # ba "Hey! What the hell are you doing?!"
-    ba "¡Ey! ¡¿Qué diablos estás haciendo?!"
+    ba "¡Oye! ¡¿Qué demonios estás haciendo?!"
 
 # game/code/Book-1/Chapter-9/s10.rpy:479
 translate spanish b1c09s10_naked_run_0fb6fd01:
@@ -746,7 +746,7 @@ translate spanish b1c09s10_ir_sex_06648eca:
 translate spanish b1c09s10_ir_sex_5923caf6:
 
     # "Her sweet musk drives you insane, and makes you thrust into her needily."
-    "Su dulce almizcle te vuelve loco y te hace empujarla con necesidad."
+    "Su dulce almizcle te vuelve loco y te hace empujarla con fuerza."
 
 # game/code/Book-1/Chapter-9/s10.rpy:667
 translate spanish b1c09s10_ir_sex_63ec3e3e:
@@ -824,7 +824,7 @@ translate spanish b1c09s10_ir_sex_26abb917:
 translate spanish b1c09s10_ir_sex_23a49253:
 
     # "Iona rides out her wave of orgasm while you continue fucking her, moaning your name and melting against you."
-    "Iona aguanta su oleada de orgasmos mientras tú sigues follándola, gimiendo tu nombre y derritiéndose contra ti."
+    "Iona aguanta su oleada de orgasmos mientras tú sigues follándola, mientras gime tu nombre y se derrite junto a ti."
 
 # game/code/Book-1/Chapter-9/s10.rpy:751
 translate spanish b1c09s10_ir_sex_be9be1b9:
@@ -896,7 +896,7 @@ translate spanish b1c09s10_ir_sex_d0842aa6:
 translate spanish b1c09s10_ir_sex_331d17b6:
 
     # ir "Maybe next time."
-    ir "Tal vez la próxima vez."
+    ir "Quizá la próxima vez."
 
 # game/code/Book-1/Chapter-9/s10.rpy:796
 translate spanish b1c09s10_ir_sex_87e26eb2:
@@ -944,7 +944,7 @@ translate spanish b1c09s10_ir_sex_bfee0796:
 translate spanish b1c09s10_ir_sex_4e25cc02:
 
     # "You and Iona chase each other back to her room where you can get dressed, laughing and carefree the entire way."
-    "Iona y tú se persiguen mutuamente hasta su habitación, donde pueden vestirse, riendo y sin preocupaciones durante todo el camino."
+    "Iona y tú se persiguen mutuamente hasta su habitación, donde pueden vestirse, riendo y despreocupados todo el camino."
 
 translate spanish strings:
 
