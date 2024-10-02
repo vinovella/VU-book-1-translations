@@ -2,7 +2,7 @@
 translate spanish b1c09s15_1211ed37:
 
     # "The room is quiet for a moment, the atmosphere still heavy with the echo of the somber discussion and the heartfelt toast."
-    "La sala queda en silencio por un momento, la atmósfera aún está cargada con el eco de la sombría discusión y el sincero brindis."
+    "La habitación se queda en silencio por un momento, la atmósfera aún está cargada con el eco de la sombría discusión y el sincero brindis."
 
 # game/code/Book-1/Chapter-9/s15.rpy:209
 translate spanish b1c09s15_bb40bb8d:
@@ -20,7 +20,7 @@ translate spanish b1c09s15_267c5f98:
 translate spanish b1c09s15_c8016065:
 
     # c1 "People try their best, but I know they don't get it, not really anyway. It's easier for them to move on."
-    c1 "La gente hace lo mejor que puede, pero sé que no lo consiguen, al menos no en realidad. Es más fácil para ellos seguir adelante."
+    c1 "La gente hace lo que puede, pero sé que no lo consiguen, no realmente. Para ellos es más fácil seguir adelante."
 
 # game/code/Book-1/Chapter-9/s15.rpy:217
 translate spanish b1c09s15_7a162bba:
@@ -68,7 +68,7 @@ translate spanish b1c09s15_f2e3b6ef:
 translate spanish b1c09s15_6937f480:
 
     # "An easy laugh goes through you three. You feel a comforting warmth as their laughter offer solace in the quiet of the room."
-    "Una risa fácil los recorre a los tres. Sientes una calidez reconfortante mientras sus risas ofrecen consuelo en la tranquilidad de la habitación."
+    "Una risa relajada los recorre a los tres. Sientes un calor reconfortante cuando sus risas ofrecen consuelo en el silencio de la habitación."
 
 # game/code/Book-1/Chapter-9/s15.rpy:255
 translate spanish b1c09s15_a6c7edff:
@@ -110,7 +110,7 @@ translate spanish b1c09s15_bc6aa8ea:
 translate spanish b1c09s15_adb780de:
 
     # zp "To getting fucked up and feeling okay together!"
-    zp "¡Para joder y sentirnos bien juntos!"
+    zp "¡Para jodernos y sentirnos bien juntos!"
 
 # game/code/Book-1/Chapter-9/s15.rpy:293
 translate spanish b1c09s15_a8579d6b:
@@ -254,7 +254,7 @@ translate spanish b1c09s15_17f10fb2:
 translate spanish b1c09s15_fac8dd74:
 
     # c1 "*Blushes* I can't say it. I'm sorry."
-    c1 "*Se sonroja* No puedo decirlo. Lo lamento."
+    c1 "*Se sonroja* No puedo decirlo. Lo siento."
 
 # game/code/Book-1/Chapter-9/s15.rpy:422
 translate spanish b1c09s15_44835140:
@@ -950,7 +950,7 @@ translate spanish b1c09s15_sex_karaoke_end_3833644b:
 translate spanish b1c09s15_sex_karaoke_end_0a6d39f7:
 
     # c2 "*Loudly moaning* Fu-uuck, [mcname], oh God yes! [c1.name!t], don't stop!"
-    c2 "*Gemidos fuertes* Mi-eeerda, [mcname], ¡oh Dios, sí! [c1.name!t], ¡no pares!"
+    c2 "*Gemidos fuertes* Mi-eeerda, [mcname], ¡oh Dios, sí! ¡[c1.name!t], no pares!"
 
 # game/code/Book-1/Chapter-9/s15.rpy:1237
 translate spanish b1c09s15_sex_karaoke_end_b8b080ff:
@@ -1058,7 +1058,7 @@ translate spanish b1c09s15_end_c546519e:
 translate spanish b1c09s15_end_0ac3d601:
 
     # "With a few more murmured words and gentle kisses, you settle back against the pillows, the solid warmth of your companions surrounding you."
-    "Con algunas palabras murmuradas y unos besos suaves, te recuestas en las almohadas, rodeado del calor de tus compañeras."
+    "Con algunas palabras murmuradas y besos suaves, te recuestas en las almohadas, rodeado del calor de tus compañeras."
 
 # game/code/Book-1/Chapter-9/s15.rpy:1350
 translate spanish b1c09s15_end_e073c227:
