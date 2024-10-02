@@ -92,7 +92,7 @@ translate spanish b1c09s13_jh_lw_466d8d80:
 translate spanish b1c09s13_jh_lw_311db3b5:
 
     # oa "*Giggles* Yeah. Isa, our party planner, decided to go with some more...let's say {i}risque{/i} clothing options for the servers she hired."
-    oa "*Risas* Sí. Isa, nuestra organizadora de fiestas, decidió optar por algunas opciones de ropa más... digamos {i}arriesgadas{/i} para los camareros que contrató."
+    oa "*Risas* Sí. Isa, nuestra organizadora de fiestas, decidió optar por algunas opciones de ropa más... digamos {i}arriesgadas{/i} para las camareras que contrató."
 
 # game/code/Book-1/Chapter-9/s13.rpy:90
 translate spanish b1c09s13_jh_lw_56943909:
