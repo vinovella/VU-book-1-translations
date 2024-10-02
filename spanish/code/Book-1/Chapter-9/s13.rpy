@@ -176,7 +176,7 @@ translate spanish b1c09s13_jh_lw_65032546:
 translate spanish b1c09s13_jh_lw_89d5d289:
 
     # oa "Sorry, I need to go check that out. Are you guys good here?"
-    oa "Lo siento, necesito ir a revisar. ¿Están bien aquí?"
+    oa "Lo siento, tengo que ir a ver qué ocurre. ¿Ustedes van a estar bien aquí?"
 
 # game/code/Book-1/Chapter-9/s13.rpy:129
 translate spanish b1c09s13_jh_lw_4e5eb2cb:
@@ -308,7 +308,7 @@ translate spanish b1c09s13_jh_lw_6ca3ef71:
 translate spanish b1c09s13_jh_lw_0c7e7392:
 
     # jh "carefu—!"
-    jh "¡cuidado...!"
+    jh "¡Cuidado...!"
 
 # game/code/Book-1/Chapter-9/s13.rpy:213
 translate spanish b1c09s13_jh_lw_aaa0d9c6:
@@ -584,7 +584,7 @@ translate spanish b1c09s13_jh_lw_e3cc8025:
 translate spanish b1c09s13_jh_lw_87fe0b86:
 
     # jh "You don't know how much that means just yet, but It's special."
-    jh "No sabes cuánto significa eso todavía, pero es especial."
+    jh "Aún no sabes cuánto significa, pero es especial."
 
 # game/code/Book-1/Chapter-9/s13.rpy:342
 translate spanish b1c09s13_jh_lw_934d8d0d:
@@ -842,7 +842,7 @@ translate spanish b1c09s13_jh_0cd521f9:
 translate spanish b1c09s13_jh_1d15ad41:
 
     # mc "Why don't we go somewhere a bit quieter then? Get you out of the thick of it for a bit."
-    mc "¿Por qué no vamos a un sitio más tranquilo? Para sacarte del bullicio por un rato."
+    mc "¿Por qué no vamos a un lugar más tranquilo? Para sacarte del bullicio por un rato."
 
 # game/code/Book-1/Chapter-9/s13.rpy:484
 translate spanish b1c09s13_jh_16c787f9:
@@ -860,7 +860,7 @@ translate spanish b1c09s13_jh_cdefd78f:
 translate spanish b1c09s13_jh_ad1c6456:
 
     # mc "How about up on the balcony? Bit more low-key up there."
-    mc "¿Qué tal en el balcón? Un poco más discreto ahí arriba."
+    mc "¿Qué tal en el balcón? Es un poco más tranquilo allí arriba."
 
 # game/code/Book-1/Chapter-9/s13.rpy:491
 translate spanish b1c09s13_jh_8f129526:
@@ -962,7 +962,7 @@ translate spanish b1c09s13_jh_6047f397:
 translate spanish b1c09s13_jh_24a35be3:
 
     # jh "But I'm just not quite myself without Lara here. Maybe next time."
-    jh "Pero no soy yo misma sin Lara aquí. Tal vez la próxima vez."
+    jh "Pero no soy yo misma sin Lara aquí. Quizás la próxima vez."
 
 # game/code/Book-1/Chapter-9/s13.rpy:538
 translate spanish b1c09s13_jh_e7741c72:
