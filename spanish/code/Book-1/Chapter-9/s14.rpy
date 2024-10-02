@@ -62,7 +62,7 @@ translate spanish b1c09s14_89ef4bff:
 translate spanish b1c09s14_561e42e9:
 
     # "???" "They have to be. Leia wouldn't go down without a fight."
-    "???" "Tienen que serlo. Leia no caería sin luchar."
+    "???" "Tienen que estarlo. Leia no caería sin luchar."
 
 # game/code/Book-1/Chapter-9/s14.rpy:39
 translate spanish b1c09s14_5647ee38:
@@ -86,7 +86,7 @@ translate spanish b1c09s14_54d17e14:
 translate spanish b1c09s14_6cbe0776:
 
     # mct "I should check in on them and make sure they're okay."
-    mct "Debería revisarlas y asegurarme de que están bien."
+    mct "Debería ver cómo están y asegurarme de que están bien."
 
 # game/code/Book-1/Chapter-9/s14.rpy:55
 translate spanish b1c09s14_e85d6350:
@@ -416,7 +416,7 @@ translate spanish b1c09s14_a63e932b:
 translate spanish b1c09s14_0abf533a:
 
     # sm "*Smiles* I understand that. Klara was like that for me."
-    sm "*Sonríe* Lo entiendo. Klara era así para mí."
+    sm "*Sonríe*  Lo entiendo. Klara era igual conmigo."
 
 # game/code/Book-1/Chapter-9/s14.rpy:214
 translate spanish b1c09s14_0c3e2def:
@@ -488,7 +488,7 @@ translate spanish b1c09s14_bc6e6603:
 translate spanish b1c09s14_02b0db20:
 
     # zp "Leia could shred you up if she wanted, and everyone knew it."
-    zp "Leia podría destrozarte si quisiera, y todos lo sabían."
+    zp "Leia podía destrozarte si quería, y todos lo sabían."
 
 # game/code/Book-1/Chapter-9/s14.rpy:240
 translate spanish b1c09s14_b5080b5c:
@@ -584,7 +584,7 @@ translate spanish b1c09s14_440698ff:
 translate spanish b1c09s14_268cf9bd:
 
     # sm "Whaaat? C'mon, stay a little longer. School's mostly done anyway."
-    sm "¿Qué? Vamos, quédate un poco más. De todos modos, la escuela ya casi ha terminado."
+    sm "¿Qué? Vamos, quédate un poco más. De todos modos, la universidad ya casi ha terminado."
 
 # game/code/Book-1/Chapter-9/s14.rpy:293
 translate spanish b1c09s14_ac0d4ed6:
