@@ -182,7 +182,7 @@ translate spanish b1c07ss08_sex_f3a14ba9:
 translate spanish b1c07ss08_sex_71c2a8ac:
 
     # "You feel Nirmala's tongue circle your tip. Each time she takes you deeper, she swallows, adding extra tension and friction."
-    "Sientes que la lengua de Nirmala rodea tu punta. Cada vez que te lleva más profundo, traga, agregando tensión y fricción adicionales."
+    "Sientes cómo la lengua de Nirmala rodea tu punta. Cada vez que te lleva más adentro, ella traga, añadiendo tensión y fricción adicionales."
 
 # game/code/Book-1/Chapter-7s/s08.rpy:171
 translate spanish b1c07ss08_sex_b5978483:
@@ -218,7 +218,7 @@ translate spanish b1c07ss08_sex_36db4391:
 translate spanish b1c07ss08_sex_fb079aae:
 
     # nr "Now that you're nice and lubed up for me, it's time for the fun part."
-    nr "Ahora que eres bueno y estás lubricado para mí, es hora de la parte divertida."
+    nr "Ahora que estás bien lubricado para mí, es hora de la parte divertida."
 
 # game/code/Book-1/Chapter-7s/s08.rpy:197
 translate spanish b1c07ss08_sex_4044a41b:
@@ -398,7 +398,7 @@ translate spanish b1c07ss08_sex_1a79fd6a:
 translate spanish b1c07ss08_sex_468b3b51:
 
     # nr "God damn. That was good."
-    nr "Maldita sea. Eso era bueno."
+    nr "Maldita sea. Eso estuvo bien."
 
 # game/code/Book-1/Chapter-7s/s08.rpy:347
 translate spanish b1c07ss08_sex_66999202:
@@ -458,7 +458,7 @@ translate spanish b1c07ss08_sex_0994ec8a:
 translate spanish b1c07ss08_sex_fff03a0f:
 
     # mc "Happy to be of service."
-    mc "Feliz de estar de servicio."
+    mc "Encantado de poder servirle."
 
 # game/code/Book-1/Chapter-7s/s08.rpy:369
 translate spanish b1c07ss08_sex_5a077d5c:
