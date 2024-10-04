@@ -176,7 +176,7 @@ translate spanish b1c07ss06_a8243ac2:
 translate spanish b1c07ss06_91ce3310:
 
     # mc "One's for Morgan."
-    mc "Uno es para Morgan."
+    mc "Una es para Morgan."
 
 # game/code/Book-1/Chapter-7s/s06.rpy:92
 translate spanish b1c07ss06_94b696cf:
@@ -542,7 +542,7 @@ translate spanish b1c07ss06_5cf6297b:
 translate spanish b1c07ss06_a5d5841a:
 
     # rg "Cori, though...she and I have a bit of a past."
-    rg "Cori, sin embargo... ella y yo tenemos un poco de pasado."
+    rg "Cori, sin embargo... ella y yo tenemos un pasado un poco complicado."
 
 # game/code/Book-1/Chapter-7s/s06.rpy:267
 translate spanish b1c07ss06_50de1963:
@@ -584,7 +584,7 @@ translate spanish b1c07ss06_632e2bbc:
 translate spanish b1c07ss06_32b188ee:
 
     # "The apartment is still and quiet as Rory reads."
-    "El departamento está quieto y en silencio mientras Rory lee."
+    "El departamento está tranquilo y en silencio mientras Rory lee."
 
 # game/code/Book-1/Chapter-7s/s06.rpy:293
 translate spanish b1c07ss06_76b8c71d:
@@ -614,7 +614,7 @@ translate spanish b1c07ss06_e7147520:
 translate spanish b1c07ss06_89110d93:
 
     # rg "Cori wouldn't be in jail if I weren't in debt and she was sent to collect it from me. That's why things escalated, that's why she—"
-    rg "Cori no estaría en la cárcel si yo no estuviera endeudada y la enviaron a cobrarme. Es por eso que las cosas se intensificaron, es por eso que ella—"
+    rg "Cori no estaría en la cárcel si yo no tuviera una deuda y la hubieran enviado a cobrármela. Por eso las cosas se intensificaron, por eso ella..."
 
 # game/code/Book-1/Chapter-7s/s06.rpy:304
 translate spanish b1c07ss06_38d63434:
@@ -638,7 +638,7 @@ translate spanish b1c07ss06_99c49387:
 translate spanish b1c07ss06_f912b515:
 
     # rg "No, it's not that. I wasn't ever not safe exactly. Cori was just doing what she needed to. Morgan was there, too. She defended me..."
-    rg "No, no es eso. Nunca estuve a salvo exactamente. Cori solo estaba haciendo lo que necesitaba. Morgan también estaba allí. Ella me defendió..."
+    rg "No, no es eso. Nunca estuve a salvo exactamente. Cori sólo estaba haciendo lo que tenía que hacer. Morgan también estaba allí. Ella me defendió..."
 
 # game/code/Book-1/Chapter-7s/s06.rpy:312
 translate spanish b1c07ss06_1effcb37:
@@ -668,7 +668,7 @@ translate spanish b1c07ss06_f78a1b26:
 translate spanish b1c07ss06_b6ceed2a:
 
     # rg "Cori isn't {i}bad{/i}. She was just doing what she needed to. We all were."
-    rg "Cori no es {i}mala{/i}. Ella sólo estaba haciendo lo que necesitaba. Todos lo hacíamos."
+    rg "Cori no es {i}mala{/i}. Ella sólo estaba haciendo lo que tenía que hacer. Todos lo hacíamos."
 
 # game/code/Book-1/Chapter-7s/s06.rpy:325
 translate spanish b1c07ss06_4ac75e73:
@@ -692,13 +692,13 @@ translate spanish b1c07ss06_5e76ade4:
 translate spanish b1c07ss06_3fd13023:
 
     # "Rory gets up to look for the materials to make her own letter to Corinne."
-    "Rory se levanta a buscar los materiales para hacer su propia carta a Corinne."
+    "Rory se levanta a buscar los materiales para hacerle su propia carta a Corinne."
 
 # game/code/Book-1/Chapter-7s/s06.rpy:338
 translate spanish b1c07ss06_e6de383c:
 
     # mc "Oh, she and I weren't super close, but I wanted to check up on her after she got in prison."
-    mc "Oh, ella y yo no éramos muy cercanos, pero quería ver cómo estaba después de que entrara en prisión."
+    mc "Oh, ella y yo no éramos muy cercanas, pero quería saber cómo estaba después de que entrara en prisión."
 
 # game/code/Book-1/Chapter-7s/s06.rpy:339
 translate spanish b1c07ss06_adf7bdbb:
@@ -770,7 +770,7 @@ translate spanish b1c07ss06_2499a032:
 translate spanish b1c07ss06_cjh_81f146ca:
 
     # "A loud bang at the front door startles you and Rory."
-    "Un fuerte golpe en la puerta principal los sobresalta a ti y a Rory."
+    "Un fuerte golpe en la puerta principal los sobresalta a Rory y a ti."
 
 # game/code/Book-1/Chapter-7s/s06.rpy:382
 translate spanish b1c07ss06_cjh_1b28ce6a:
@@ -782,7 +782,7 @@ translate spanish b1c07ss06_cjh_1b28ce6a:
 translate spanish b1c07ss06_cjh_dbee40ee:
 
     # mct "That's Cade's voice. I recognize it from the gun range lobby."
-    mct "Esa es la voz de Cade. Lo reconozco del vestíbulo del campo de tiro."
+    mct "Esa es la voz de Cade. Lo reconozco del bar del campo de tiro."
 
 # game/code/Book-1/Chapter-7s/s06.rpy:388
 translate spanish b1c07ss06_cjh_01188bdb:
@@ -992,7 +992,7 @@ translate spanish b1c07ss06_cjh_66a42485:
 translate spanish b1c07ss06_cjh_a8e16b97:
 
     # mct "I can't leave Rory alone with a guy like this. Who the hell knows what he'd do to her."
-    mct "No puedo dejar a Rory sola con un tipo así. Quién diablos sabe lo que le haría."
+    mct "No puedo dejar a Rory sola con un tipo como él. Quién diablos sabe lo que le haría."
 
 # game/code/Book-1/Chapter-7s/s06.rpy:488
 translate spanish b1c07ss06_cjh_f460fd0d:
@@ -1340,7 +1340,7 @@ translate spanish b1c07ss06_end_e4db2b1c:
 translate spanish b1c07ss06_end_3db69cac:
 
     # rg "Thank you. So much. For everything. I wouldn't have blamed you if you'd just run the other way."
-    rg "Muchas gracias por todo. No te habría culpado si hubieras corrido hacia el otro lado."
+    rg "Muchas gracias por todo. No te hubiera culpado si hubieras corrido en otra dirección."
 
 # game/code/Book-1/Chapter-7s/s06.rpy:735
 translate spanish b1c07ss06_end_a95926e8:
