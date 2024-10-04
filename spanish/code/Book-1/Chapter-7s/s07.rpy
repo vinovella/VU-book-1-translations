@@ -464,7 +464,7 @@ translate spanish b1c07ss07_fight_2_0b47b8f3:
 translate spanish b1c07ss07_fight_2_8e1f0e1f:
 
     # ffl "Well, y'know, it's just...doing some tasks to make up for the lost money. Labor versus resources, y'know?"
-    ffl "Bueno, ya sabes, es sólo... hacer algunas tareas para compensar el dinero perdido. Mano de obra versus recursos, ¿sabes?"
+    ffl "Bueno, ya sabes, es sólo... hacer algunas tareas para compensar el dinero perdido. Mano de obra versus recursos, ¿sabes?."
 
 # game/code/Book-1/Chapter-7s/s07.rpy:347
 translate spanish b1c07ss07_fight_2_3495b0d1:
@@ -650,7 +650,7 @@ translate spanish b1c07ss07_fight_2_52567b68:
 translate spanish b1c07ss07_fight_2_de34906f:
 
     # ass "Nice ride ya got there."
-    ass "Buen viaje, ya llegaste."
+    ass "Es un buen transporte el que tienes ahí."
 
 # game/code/Book-1/Chapter-7s/s07.rpy:491
 translate spanish b1c07ss07_fight_2_b638af09:
@@ -668,7 +668,7 @@ translate spanish b1c07ss07_fight_2_fc39c3fd:
 translate spanish b1c07ss07_fight_2_d4e5a996:
 
     # ffl "Sorry, what I {i}meant{/i} to say was that he's the best ride ever."
-    ffl "Lo siento, lo que {i}quise decir{/i} fue que es el mejor viaje de la historia."
+    ffl "Perdón, {i}lo que quise decir{/i} es que es el mejor paseo de todos."
 
 # game/code/Book-1/Chapter-7s/s07.rpy:499
 translate spanish b1c07ss07_fight_2_db45bf1f:
@@ -728,7 +728,7 @@ translate spanish b1c07ss07_fight_2_a0f4f575:
 translate spanish b1c07ss07_fight_2_e9642077:
 
     # "Back in the ring, Morgan doubles down on Calamity. She has him trapped against the wall."
-    "De vuelta en el ring, Morgan apuesta por Calamity. Lo tiene atrapado contra la pared."
+    "De vuelta en el ring, Morgan doblega a Calamity. Ella lo tiene atrapado contra la pared."
 
 # game/code/Book-1/Chapter-7s/s07.rpy:536
 translate spanish b1c07ss07_fight_2_cbca79d6:
@@ -932,7 +932,7 @@ translate spanish b1c07ss07_fight_end_c1f00e27:
 translate spanish b1c07ss07_fight_end_248c1e94:
 
     # mc "It was kind of a lot."
-    mc "Fue mucho."
+    mc "Eso fue... mucho."
 
 # game/code/Book-1/Chapter-7s/s07.rpy:667
 translate spanish b1c07ss07_fight_end_4a118152:
@@ -998,7 +998,7 @@ translate spanish b1c07ss07_fight_end_140b44fe:
 translate spanish b1c07ss07_fight_end_b8ce5867:
 
     # sp "Don't worry! We'll have your precious flower back to you in no time. Isn't that right, Q?"
-    sp "¡No te preocupes! Le devolveremos su preciosa flor en poco tiempo. ¿No es así, Q?"
+    sp "¡No te preocupes! Le devolveremos tu preciosa flor en poco tiempo. ¿No es así, Q?"
 
 # game/code/Book-1/Chapter-7s/s07.rpy:700
 translate spanish b1c07ss07_fight_end_2c44dcdf:
