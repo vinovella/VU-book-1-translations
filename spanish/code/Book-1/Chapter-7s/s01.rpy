@@ -632,7 +632,7 @@ translate spanish b1c07ss01_e802c1e8:
 translate spanish b1c07ss01_e6814725:
 
     # mct "Time to visit Cori."
-    mct "Tiempo para visitar Cori."
+    mct "Tiempo para visitar a Cori."
 
 translate spanish strings:
 
