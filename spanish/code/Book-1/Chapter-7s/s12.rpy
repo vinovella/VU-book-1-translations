@@ -38,7 +38,7 @@ translate spanish b1c07ss12_f5e60a94:
 translate spanish b1c07ss12_84a3cd8f:
 
     # mc "Seems to be in a little trouble, though. I had to fight off a debt collector named Cade that showed up."
-    mc "Sin embargo, parece estar en un pequeño problema. Tuve que luchar contra un cobrador de deudas llamado Cade que apareció."
+    mc "Sin embargo, parece estar en problemas. Tuve que luchar contra un cobrador de deudas que apareció que se llamaba Cade."
 
 # game/code/Book-1/Chapter-7s/s12.rpy:73
 translate spanish b1c07ss12_465932f6:
@@ -56,7 +56,7 @@ translate spanish b1c07ss12_0d718607:
 translate spanish b1c07ss12_cf93899c:
 
     # cb "Rory originally got into gambling to pay off her surgeries. She's trans, y'know."
-    cb "Rory originalmente se metió en el juego para pagar sus cirugías. Ella es trans, ya sabes."
+    cb "Rory originalmente se metió en el juego para pagar sus cirugías. Ya sabes que ella es trans."
 
 # game/code/Book-1/Chapter-7s/s12.rpy:81
 translate spanish b1c07ss12_4d324943:
@@ -122,7 +122,7 @@ translate spanish b1c07ss12_92ec2cd0:
 translate spanish b1c07ss12_f0852429:
 
     # cb "Taking on Morgan's debt will help, as it'll prove you're willing to work for the organization."
-    cb "Asumir la deuda de Morgan ayudará, ya que demostrará que está dispuesto a trabajar para la organización."
+    cb "Asumir la deuda de Morgan ayudará, ya que demostrará que estás dispuesto a trabajar para la organización."
 
 # game/code/Book-1/Chapter-7s/s12.rpy:106
 translate spanish b1c07ss12_962636ff:
@@ -170,7 +170,7 @@ translate spanish b1c07ss12_b296e66a:
 translate spanish b1c07ss12_2ff644f0:
 
     # mc "Do you know anything about that? Was there anyone who might've had ill will toward Leia?"
-    mc "¿Sabes algo de eso? ¿Había alguien que pudiera haber tenido mala voluntad hacia Leia?"
+    mc "¿Sabes algo de eso? ¿Había alguien que pudiera tener mala intención con Leia?"
 
 # game/code/Book-1/Chapter-7s/s12.rpy:134
 translate spanish b1c07ss12_93c5ddf6:
@@ -218,7 +218,7 @@ translate spanish b1c07ss12_6c57c1f4:
 translate spanish b1c07ss12_359668c6:
 
     # cb "She's in debt because of me, y'know. I was...I have a gambling habit. Real nasty business, that is."
-    cb "Está endeudada por mi culpa, ¿sabes? Yo era... tengo un hábito de juego. Asunto realmente desagradable, eso es."
+    cb "Está endeudada por mi culpa, ¿sabes? Yo era... tengo un hábito de juego. Un asunto realmente desagradable, eso es."
 
 # game/code/Book-1/Chapter-7s/s12.rpy:152
 translate spanish b1c07ss12_afdd43d4:
@@ -278,7 +278,7 @@ translate spanish b1c07ss12_past_25624a90:
 translate spanish b1c07ss12_past_49d93e12:
 
     # mg "{i}What the hell happened to you, Cori? This is what it all led up to? Beating the fuck out of your friends, your sister?{/i}"
-    mg "{i}¿Qué demonios te ha pasado, Cori? ¿A esto te llevó todo? ¿Golpear a tus amigos, a tu hermana?{/i}"
+    mg "{i}¿Qué demonios te ha pasado, Cori? ¿A esto te llevó todo? ¿A golpear a tus amigos y a tu hermana?{/i}"
 
 # game/code/Book-1/Chapter-7s/s12.rpy:190
 translate spanish b1c07ss12_past_c8b5a79f:
@@ -608,7 +608,7 @@ translate spanish b1c07ss12_no_sex_2c6c6aa1:
 translate spanish b1c07ss12_no_sex_adc1b720:
 
     # cb "Gotta keep you coming back for more, right?"
-    cb "Tienes que hacer que vuelvas por más, ¿verdad?"
+    cb "Tengo que hacer que vuelvas a por más, ¿verdad?"
 
 # game/code/Book-1/Chapter-7s/s12.rpy:500
 translate spanish b1c07ss12_no_sex_2ddd67e9:
@@ -626,13 +626,13 @@ translate spanish b1c07ss12_no_sex_29c057f2:
 translate spanish b1c07ss12_no_sex_f3f78ef6:
 
     # "The guards seem more annoyed with Cori than concerned."
-    "Los guardias parecen más molestos con Cori que preocupados."
+    "Los guardias parecen más molestos que preocupados con Cori."
 
 # game/code/Book-1/Chapter-7s/s12.rpy:507
 translate spanish b1c07ss12_no_sex_54c6cdf4:
 
     # "You chuckle to yourself and get up to leave."
-    "Te ríes de ti mismo y te levantas para irte."
+    "Te ríes entre dientes y te levantas para irte."
 
 # game/code/Book-1/Chapter-7s/s12.rpy:530
 translate spanish b1c07ss12_sex_958d8fc3:
@@ -662,13 +662,13 @@ translate spanish b1c07ss12_sex_47fcbf0e:
 translate spanish b1c07ss12_sex_a34f4552:
 
     # "You feel Cori up, feeling her chest heave with trepidation."
-    "Sientes a Cori levantada, sintiendo su pecho palpitar con inquietud."
+    "Levantas a Cori y sientes que su pecho se agita con ansiedad."
 
 # game/code/Book-1/Chapter-7s/s12.rpy:556
 translate spanish b1c07ss12_sex_4c6d0054:
 
     # cb "Fuck me. Please? It's been so long..."
-    cb "Fóllame ¿Por favor? Ha sido tan largo..."
+    cb "Fóllame. ¿Por favor? Ha pasado tanto tiempo..."
 
 # game/code/Book-1/Chapter-7s/s12.rpy:562
 translate spanish b1c07ss12_sex_5f78c36a:
@@ -716,13 +716,13 @@ translate spanish b1c07ss12_sex_be50b27a:
 translate spanish b1c07ss12_sex_6d901119:
 
     # "Cori closes her eyes in pleasure. You feel another wave of wetness flow over your cock."
-    "Cori cierra los ojos con placer. Sientes otra ola de humedad fluir sobre tu polla."
+    "Cori cierra los ojos sintiéndose complacida. Siente otra oleada de humedad fluir sobre tu polla."
 
 # game/code/Book-1/Chapter-7s/s12.rpy:604
 translate spanish b1c07ss12_sex_5a373256:
 
     # "Cori moves her hips in time with yours, getting you as deep into her as possible."
-    "Cori mueve sus caderas al mismo tiempo que las tuyas, adentrándote lo más profundo posible en ella."
+    "Cori mueve sus caderas al ritmo de las tuyas, para que la penetres lo más profundamente posible."
 
 # game/code/Book-1/Chapter-7s/s12.rpy:610
 translate spanish b1c07ss12_sex_ca187f79:
@@ -842,7 +842,7 @@ translate spanish b1c07ss12_sex_34408c40:
 translate spanish b1c07ss12_sex_4d789a26:
 
     # cb "Maybe I'll give the guards a few days off of my bullshit since you wore me out so good."
-    cb "Tal vez le dé a los guardias unos días libres de mi mierda ya que me has agotado tanto."
+    cb "Tal vez les dé a los guardias unos días libres de mi mierda ya que me dejaste muy agotada."
 
 # game/code/Book-1/Chapter-7s/s12.rpy:736
 translate spanish b1c07ss12_sex_80793333:
@@ -854,7 +854,7 @@ translate spanish b1c07ss12_sex_80793333:
 translate spanish b1c07ss12_sex_5c68b9ed:
 
     # cb "If they knew, they'd probably think you were doing them a service, anyway."
-    cb "Si lo supieran, probablemente pensarían que les estás haciendo un servicio, de todos modos."
+    cb "Si lo supieran, probablemente pensarían que les estás haciendo un favor."
 
 # game/code/Book-1/Chapter-7s/s12.rpy:742
 translate spanish b1c07ss12_sex_2474fb83:
