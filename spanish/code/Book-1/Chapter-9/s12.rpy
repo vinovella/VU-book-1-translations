@@ -86,7 +86,7 @@ translate spanish b1c09s12_9051fee8:
 translate spanish b1c09s12_098d8fea:
 
     # "Needily she tastes you, rubbing herself over your body and teasing you to touch her, feel her."
-    "Ella te prueba con necesidad, frotándose sobre tu cuerpo y provocándote para que la toques, la sientas."
+    "Te saborea con necesidad, restregándose por tu cuerpo y provocándote para que la toques, para que la sientas."
 
 # game/code/Book-1/Chapter-9/s12.rpy:125
 translate spanish b1c09s12_7e96ac8a:
@@ -218,7 +218,7 @@ translate spanish b1c09s12_9347073c:
 translate spanish b1c09s12_6a393b09:
 
     # ffl "You're going to get hurt, [mcname]."
-    ffl "Te vas a lastimar, [mcname]."
+    ffl "Vas a salir lastimado, [mcname]."
 
 # game/code/Book-1/Chapter-9/s12.rpy:178
 translate spanish b1c09s12_88352d7b:
@@ -374,7 +374,7 @@ translate spanish b1c09s12_fdd98da7:
 translate spanish b1c09s12_9dd06b59:
 
     # mc "Come with me."
-    mc "Venga conmigo."
+    mc "Ven conmigo."
 
 # game/code/Book-1/Chapter-9/s12.rpy:265
 translate spanish b1c09s12_sex_4a8bdd65:
@@ -446,7 +446,7 @@ translate spanish b1c09s12_sex_2d8acf52:
 translate spanish b1c09s12_sex_df4fd932:
 
     # ffl "I like it when you call me names like good girl..."
-    ffl "Me gusta cuando me insultas como buena chica..."
+    ffl "Me gusta cuando me dices cosas como buena chica..."
 
 # game/code/Book-1/Chapter-9/s12.rpy:303
 translate spanish b1c09s12_sex_441ccc96:
@@ -644,7 +644,7 @@ translate spanish b1c09s12_sex_3d9b5282:
 translate spanish b1c09s12_sex_bed19d0f:
 
     # ffl "*Moans out* Yes! I was a brat on purpose."
-    ffl "*Gime* ¡Sí! Fui una malcriada a propósito."
+    ffl "*Gime* ¡Sí! Fui una mocosa malcriada a propósito."
 
 # game/code/Book-1/Chapter-9/s12.rpy:431
 translate spanish b1c09s12_sex_08cbca0e:
@@ -722,7 +722,7 @@ translate spanish b1c09s12_sex_f5568d5c:
 translate spanish b1c09s12_sex_3d55b5b1:
 
     # mc "Just my needy little slut. Isn't that right?"
-    mc "Sólo eres mi pequeña zorra necesitada. ¿No es así?"
+    mc "Sólo eres mi pequeña putita necesitada. ¿No es así?"
 
 # game/code/Book-1/Chapter-9/s12.rpy:465
 translate spanish b1c09s12_sex_ba3c1666:
@@ -800,7 +800,7 @@ translate spanish b1c09s12_sex_2c83a815:
 translate spanish b1c09s12_sex_0b74d074:
 
     # mc "Is that what you want, you needy little slut?"
-    mc "¿Es eso lo que quieres, pequeña zorra necesitada?"
+    mc "¿Es eso lo que quieres, putita necesitada?"
 
 # game/code/Book-1/Chapter-9/s12.rpy:522
 translate spanish b1c09s12_sex_247c6cc4:
@@ -854,7 +854,7 @@ translate spanish b1c09s12_sex_7039c8c6:
 translate spanish b1c09s12_sex_e3c31382:
 
     # "The sensations of you filling her to the hilt sends waves of pleasure coursing through her."
-    "Las sensaciones de que la llenas hasta el fondo envían oleadas de placer que la recorren."
+    "La sensación de que la llenes hasta el fondo le envía oleadas de placer que la atraviesan por completo."
 
 # game/code/Book-1/Chapter-9/s12.rpy:561
 translate spanish b1c09s12_sex_7a3cc6b1:
@@ -1022,7 +1022,7 @@ translate spanish b1c09s12_sex_end_92ec7d0e:
 translate spanish b1c09s12_sex_end_60cd8fe6:
 
     # ffl "*Sighs* I'd love to stay here with you longer, but we should get ready before someone comes by."
-    ffl "*Suspira* Me encantaría quedarme aquí contigo más tiempo, pero debemos prepararnos antes de que alguien venga."
+    ffl "*Suspira* Me encantaría quedarme aquí contigo más tiempo, pero deberíamos vestirnos antes de que venga alguien."
 
 # game/code/Book-1/Chapter-9/s12.rpy:686
 translate spanish b1c09s12_sex_end_cfd1fa04:
