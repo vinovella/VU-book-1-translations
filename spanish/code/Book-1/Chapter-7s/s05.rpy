@@ -752,7 +752,7 @@ translate spanish b1c07ss05_228a328d:
 translate spanish b1c07ss05_3c9b55e5:
 
     # nr "Aww, you're so sweet."
-    nr "Aww eres tan dulce."
+    nr "Aww, eres tan dulce."
 
 # game/code/Book-1/Chapter-7s/s05.rpy:478
 translate spanish b1c07ss05_6d8dbab2:
