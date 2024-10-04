@@ -242,7 +242,7 @@ translate spanish b1c07ss09_2d101e5a:
 translate spanish b1c07ss09_6c1b7fb1:
 
     # qh "Ah, [mcname] got well acquainted with Cade earlier today, didn't ya buddy?"
-    qh "Ah, [mcname] conoció bien a Cade hoy, ¿no es así, amigo?"
+    qh "Ah, [mcname] conoció bien a Cade esta mañana, ¿no es así amigo?"
 
 # game/code/Book-1/Chapter-7s/s09.rpy:149
 translate spanish b1c07ss09_662e8a97:
@@ -260,7 +260,7 @@ translate spanish b1c07ss09_4d9fd177:
 translate spanish b1c07ss09_6789dbed:
 
     # mct "Wasps?"
-    mct "¿Avispas?"
+    mct "¿Las Avispas?"
 
 # game/code/Book-1/Chapter-7s/s09.rpy:168
 translate spanish b1c07ss09_145dc344:
@@ -422,7 +422,7 @@ translate spanish b1c01ss09_fight_6e717a2e:
 translate spanish b1c01ss09_fight_b0afaa31:
 
     # "The crowd roars with approval of Morgan."
-    "La multitud ruge con la aprobación de Morgan."
+    "La multitud ruge con la aparición de Morgan."
 
 # game/code/Book-1/Chapter-7s/s09.rpy:268
 translate spanish b1c01ss09_fight_983af822:
@@ -530,7 +530,7 @@ translate spanish b1c01ss09_fight_c2882d2a:
 translate spanish b1c01ss09_fight_dc98db51:
 
     # "Both fighters recover quickly, barely out of breath."
-    "Ambas luchadoras se recuperan rápidamente, apenas sin aliento."
+    "Ambas luchadoras se recuperan rápidamente, prácticamente sin aliento."
 
 # game/code/Book-1/Chapter-7s/s09.rpy:368
 translate spanish b1c01ss09_fight_498a9eee:
@@ -554,13 +554,13 @@ translate spanish b1c01ss09_fight_a4943f95:
 translate spanish b1c01ss09_fight_37ae8bf7:
 
     # ass "FUCK YEAH! YOU GOT THIS, MAD DOG! TAKE THAT BITCH DOWN!"
-    ass "¡MIERDA SÍ! ¡TÚ TIENES ESTO, PERRO RABIOSO! ¡TOMA A ESA PERRA!"
+    ass "¡MIERDA! ¡LO TIENES, PERRO RABIOSO! ¡DERRIBA A ESA PERRA!"
 
 # game/code/Book-1/Chapter-7s/s09.rpy:389
 translate spanish b1c01ss09_fight_7df0dd59:
 
     # ass "Leia would've loved this fight. Mad Dog and Rapid Viper are a good match as far as fighting goes."
-    ass "A Leia le hubiera encantado esta pelea. Perro Rabioso y Rapid Viper son una buena pareja en lo que respecta a la lucha."
+    ass "A Leia le habría encantado esta pelea. Perro Rabioso y Rapid Viper son una buena pareja en lo que respecta a la lucha."
 
 # game/code/Book-1/Chapter-7s/s09.rpy:390
 translate spanish b1c01ss09_fight_10d3b175:
@@ -644,7 +644,7 @@ translate spanish b1c01ss09_fight_735ecbdb:
 translate spanish b1c01ss09_fight_42adaf83:
 
     # mc "Why'd Viper do something so rash? Especially when you can get caught so quickly..."
-    mc "¿Por qué Viper hizo algo tan precipitado? Especialmente cuando te pueden atrapar tan rápido..."
+    mc "¿Por qué Viper haría algo tan imprudente? Especialmente cuando te pueden atrapar rápidamente..."
 
 # game/code/Book-1/Chapter-7s/s09.rpy:438
 translate spanish b1c01ss09_fight_e46c177a:
@@ -812,7 +812,7 @@ translate spanish b1c01ss09_fight_end_cfaafd7a:
 translate spanish b1c01ss09_fight_end_9013910f:
 
     # ass "Damn, that's gonna be a bitch to clean up."
-    ass "Maldita sea, eso va a ser una mierda de limpiar."
+    ass "Maldita sea, eso va a ser complicado de limpiar."
 
 # game/code/Book-1/Chapter-7s/s09.rpy:542
 translate spanish b1c01ss09_fight_end_e5132e40:
@@ -848,7 +848,7 @@ translate spanish b1c01ss09_fight_end_f36c6db3:
 translate spanish b1c01ss09_fight_end_b9710271:
 
     # ass "I'll catch up to you later."
-    ass "Te alcanzaré más tarde."
+    ass "Te veré más tarde."
 
 # game/code/Book-1/Chapter-7s/s09.rpy:564
 translate spanish b1c01ss09_fight_end_55fac4b6:
@@ -908,7 +908,7 @@ translate spanish b1c01ss09_fight_end_224d49f8:
 translate spanish b1c01ss09_fight_end_da14858d:
 
     # mc "Alright, well I should get going. Good fight tonight, Morgan."
-    mc "Está bien, bueno, debería irme. Buena pelea esta noche, Morgan."
+    mc "Está bien, bueno, debería irme. Buena pelea la de esta noche, Morgan."
 
 # game/code/Book-1/Chapter-7s/s09.rpy:595
 translate spanish b1c01ss09_fight_end_cf782f07:
