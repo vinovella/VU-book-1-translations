@@ -62,7 +62,7 @@ translate spanish b1c07ss03_8cc105c3:
 translate spanish b1c07ss03_99118f84:
 
     # mc "Whoa, is that old boxing equipment?"
-    mc "Vaya, ¿es ese viejo equipo de boxeo?"
+    mc "Vaya, ¿es un viejo equipo de boxeo?"
 
 # game/code/Book-1/Chapter-7s/s03.rpy:50
 translate spanish b1c07ss03_52724671:
@@ -104,7 +104,7 @@ translate spanish b1c07ss03_8be016bb:
 translate spanish b1c07ss03_a637be33:
 
     # mg "I got curious. We haven't talked much, but my friends talk about you all the time."
-    mg "Me dio curiosidad. No hemos hablado mucho, pero mis amigos hablan de ti todo el tiempo."
+    mg "Me dio curiosidad. No hemos hablado mucho, pero mis amigas hablan de ti todo el tiempo."
 
 # game/code/Book-1/Chapter-7s/s03.rpy:75
 translate spanish b1c07ss03_d6a35660:
@@ -116,7 +116,7 @@ translate spanish b1c07ss03_d6a35660:
 translate spanish b1c07ss03_0c0ba256:
 
     # mc "And what do your friends say about me?"
-    mc "¿Y qué dicen tus amigos de mí?"
+    mc "¿Y qué dicen tus amigas de mí?"
 
 # game/code/Book-1/Chapter-7s/s03.rpy:81
 translate spanish b1c07ss03_67278643:
@@ -140,7 +140,7 @@ translate spanish b1c07ss03_caeed35e:
 translate spanish b1c07ss03_9a1d81ee:
 
     # mg "Haha, it's not my place to snitch on my friends. Even if you {i}are{/i} very handsome."
-    mg "Jaja, no me corresponde delatar a mis amigos. Incluso si {i}eres{/i} muy guapo."
+    mg "Jaja, no me corresponde delatar a mis amigas. Incluso si {i}eres{/i} muy guapo."
 
 # game/code/Book-1/Chapter-7s/s03.rpy:92
 translate spanish b1c07ss03_2fd463bf:
@@ -218,13 +218,13 @@ translate spanish b1c07ss03_a306e1de:
 translate spanish b1c07ss03_ff0eeb6e:
 
     # mg "Impressive. I don't know many guys who are flexible enough for this."
-    mg "Impresionante. No conozco a muchos tipos que sean lo suficientemente flexibles para esto."
+    mg "Impresionante. No conozco a muchos chicos que sean lo suficientemente flexibles para esto."
 
 # game/code/Book-1/Chapter-7s/s03.rpy:140
 translate spanish b1c07ss03_4e37a8b5:
 
     # mc "*chuckles* Sounds like you need to hang out with different guys."
-    mc "*se ríe* Parece que necesitas salir con tipos diferentes."
+    mc "*se ríe* Parece que necesitas salir con chicos diferentes."
 
 # game/code/Book-1/Chapter-7s/s03.rpy:143
 translate spanish b1c07ss03_bdf7800f:
@@ -350,7 +350,7 @@ translate spanish b1c07ss03_24c1dcfa:
 translate spanish b1c07ss03_c3b65036:
 
     # mg "My half-sister found it. She used to bring me here to blow off some steam and shoot the shit. This was our safe space."
-    mg "Mi hermanastra lo encontró. Solía ​​traerme aquí para desahogarme y disparar a la mierda. Este era nuestro espacio seguro."
+    mg "Mi hermanastra lo encontró. Ella solía traerme aquí para desahogarme y hablar de cosas. Este era nuestro espacio seguro."
 
 # game/code/Book-1/Chapter-7s/s03.rpy:219
 translate spanish b1c07ss03_711e5ae8:
@@ -392,7 +392,7 @@ translate spanish b1c07ss03_527e9dbf:
 translate spanish b1c07ss03_722a1e46:
 
     # mg "Anyway. She's outta my life now. She got out, and now I'm buried in debt."
-    mg "De todos modos. Ella está fuera de mi vida ahora. Salió, y ahora estoy enterrada en deudas."
+    mg "En fin. Ella está fuera de mi vida ahora. Ella salió, y ahora estoy enterrada en deudas."
 
 # game/code/Book-1/Chapter-7s/s03.rpy:239
 translate spanish b1c07ss03_1988c356:
@@ -428,7 +428,7 @@ translate spanish b1c07ss03_d847dd47:
 translate spanish b1c07ss03_12e4fd56:
 
     # mct "Corinne Bunker is sending Morgan letters? I guess that's further confirmation that Corinne is the half sister Morgan was talking about."
-    mct "¿Corinne Bunker está enviando cartas a Morgan? Supongo que es una confirmación más de que Corinne es la media hermana de la que hablaba Morgan."
+    mct "¿Corinne Bunker está enviando cartas a Morgan? Supongo que es una confirmación más de que Corinne es la hermanastra de la que hablaba Morgan."
 
 # game/code/Book-1/Chapter-7s/s03.rpy:252
 translate spanish b1c07ss03_b6678921:
@@ -458,13 +458,13 @@ translate spanish b1c07ss03_13d9f1a5:
 translate spanish b1c07ss03_c3dd526d:
 
     # mg "Oh, tonight? I've got a—"
-    mg "¿Esta noche? Tengo un-"
+    mg "¿Esta noche? Tengo un..."
 
 # game/code/Book-1/Chapter-7s/s03.rpy:277
 translate spanish b1c07ss03_e6cb0c0f:
 
     # mg "—a gig tonight, but I can stop by after that."
-    mg "—un concierto esta noche, pero puedo pasar después de eso."
+    mg "...un concierto esta noche, pero puedo pasar después de eso."
 
 # game/code/Book-1/Chapter-7s/s03.rpy:280
 translate spanish b1c07ss03_c22da748:
@@ -776,7 +776,7 @@ translate spanish b1c07ss03_dbec6c74:
 translate spanish b1c07ss03_343c42c1:
 
     # mg "I can, but not before my gig. I'll go there afterward regardless, but it'd help us both out if you could go beforehand, y'know?"
-    mg "Puedo, pero no antes de mi actuación. Iré allí después de todos modos, pero nos ayudarías a las dos si pudieras ir antes, ¿sabes?"
+    mg "Puedo, pero no antes de mi actuación. Iré después, pero nos ayudaría a los dos si pudieras ir antes, ¿sabes?"
 
 # game/code/Book-1/Chapter-7s/s03.rpy:415
 translate spanish b1c07ss03_977e0d9b:
@@ -788,7 +788,7 @@ translate spanish b1c07ss03_977e0d9b:
 translate spanish b1c07ss03_fafcebf9:
 
     # mg "It's...a long story. But that's Rory's rent money, and it'd be great if you could help out."
-    mg "Es una larga historia. Pero ese es el dinero del arriendo de Rory, y sería genial si pudieras ayudar."
+    mg "Es... una larga historia. Pero ese es el dinero del arriendo de Rory, y sería genial si pudieras ayudar."
 
 # game/code/Book-1/Chapter-7s/s03.rpy:430
 translate spanish b1c07ss03_8abe2004:
