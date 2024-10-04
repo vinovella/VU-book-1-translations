@@ -74,7 +74,7 @@ translate spanish b1c07ss04_842260fe:
 translate spanish b1c07ss04_f872f11f:
 
     # zp "This particular gun has a pretty mean kickback, so you'll want to lean into it so it doesn't throw off your balance."
-    zp "Esta pistola en particular tiene un contragolpe bastante malo, por lo que querrás inclinarte hacia ella para que no perder el equilibrio."
+    zp "Esta pistola en particular tiene un contragolpe bastante malo, por lo que querrás inclinarte hacia ella para no perder el equilibrio."
 
 # game/code/Book-1/Chapter-7s/s04.rpy:73
 translate spanish b1c07ss04_99a6dbdf:
@@ -530,7 +530,7 @@ translate spanish b1c07ss04_774f2f9d:
 translate spanish b1c07ss04_42e02b08:
 
     # mc "How'd you...get into the Winner's Club, anyway?"
-    mc "¿Cómo... entraste en el Club de los Ganadores, de todos modos?"
+    mc "¿Cómo... entraste en el Club de Ganadores?"
 
 # game/code/Book-1/Chapter-7s/s04.rpy:326
 translate spanish b1c07ss04_cd26dd41:
