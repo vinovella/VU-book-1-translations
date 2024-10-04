@@ -32,7 +32,7 @@ translate spanish b1c07ss10_c028db30:
 translate spanish b1c07ss10_03ea3c48:
 
     # rd "Free drinks, on the house."
-    rd "Bebidas gratis, invita la casa."
+    rd "Bebidas gratis, la casa invita."
 
 # game/code/Book-1/Chapter-7s/s10.rpy:41
 translate spanish b1c07ss10_8f61ba76:
@@ -176,7 +176,7 @@ translate spanish b1c07ss10_6752070a:
 translate spanish b1c07ss10_5a3ee729:
 
     # rd "You sure you're okay, Morgan? Seemed like a tough fight tonight."
-    rd "¿Seguro que estás bien, Morgan? Parecía una pelea dura esta noche."
+    rd "¿Seguro que estás bien, Morgan? Parecía una pelea difícil la de esta noche."
 
 # game/code/Book-1/Chapter-7s/s10.rpy:110
 translate spanish b1c07ss10_602e39b4:
@@ -194,7 +194,7 @@ translate spanish b1c07ss10_dcc64699:
 translate spanish b1c07ss10_e74034ea:
 
     # mg "Ya caught me. But I {i}promise{/i} I'm fine."
-    mg "Me atrapaste. Pero {i}prometo{/i} que estoy bien."
+    mg "Me atrapaste. Pero {i}lo prometo{/i} estoy bien."
 
 # game/code/Book-1/Chapter-7s/s10.rpy:120
 translate spanish b1c07ss10_822a9d05:
@@ -314,7 +314,7 @@ translate spanish b1c07ss10_continue_615e67b3:
 translate spanish b1c07ss10_continue_080240d4:
 
     # mc "And I want to help you, too. I consider you a friend. But ya gotta let me in."
-    mc "Y yo también quiero ayudarte. Te considero un amiga. Pero tienes que dejarme entrar."
+    mc "Y yo también quiero ayudarte. Te considero una amiga. Pero tienes que dejarme entrar."
 
 # game/code/Book-1/Chapter-7s/s10.rpy:181
 translate spanish b1c07ss10_continue_23abddef:
@@ -338,7 +338,7 @@ translate spanish b1c07ss10_continue_8cb9f606:
 translate spanish b1c07ss10_continue_57a713f4:
 
     # mc "So, is that where we track down people who are behind on payments to The Syndicate?"
-    mc "Entonces, ¿es ahí donde localizamos a la gente que se retrasa con los pagos al Sindicato?"
+    mc "Entonces, ¿es ahí donde localizamos a la gente que se retrasa con los pagos del Sindicato?"
 
 # game/code/Book-1/Chapter-7s/s10.rpy:196
 translate spanish b1c07ss10_continue_ed914c98:
@@ -428,13 +428,13 @@ translate spanish b1c07ss10_continue_17b426dc:
 translate spanish b1c07ss10_continue_ae0ce621:
 
     # mg "But... it's not gonna be easy. You saw my fight out there. It's brutal and dirty. These gigs aren't about fairness. They're about survival."
-    mg "Pero... no va a ser fácil. Viste mi pelea ahí fuera. Es brutal y sucia. Estas actuaciones no se tratan de justicia. Se tratan de supervivencia."
+    mg "Pero... no va a ser fácil. Viste mi pelea ahí fuera. Es brutal y sucia. Estas actuaciones no se trata de justicia. Se trata de supervivencia."
 
 # game/code/Book-1/Chapter-7s/s10.rpy:233
 translate spanish b1c07ss10_continue_4e6e563a:
 
     # mg "You ready for that sort of mentality? It wears on a person. But if you fight bravely and stay honest, you'll be fine."
-    mg "¿Estás preparado para este tipo de actitud? Desgasta a una persona. Pero si luchas con valentía y te mantienes honesto, estarás bien."
+    mg "¿Estás preparado para ese tipo de mentalidad? Desgasta a una persona. Pero si luchas con valentía y te mantienes honesto, estarás bien."
 
 # game/code/Book-1/Chapter-7s/s10.rpy:234
 translate spanish b1c07ss10_continue_bdf7800f:
@@ -446,7 +446,7 @@ translate spanish b1c07ss10_continue_bdf7800f:
 translate spanish b1c07ss10_continue_e877febe:
 
     # mct "She's joking with me now, at least."
-    mct "Ella está bromeando conmigo ahora, al menos."
+    mct "Al menos ella bromea conmigo ahora."
 
 # game/code/Book-1/Chapter-7s/s10.rpy:238
 translate spanish b1c07ss10_continue_93d98008:
@@ -458,7 +458,7 @@ translate spanish b1c07ss10_continue_93d98008:
 translate spanish b1c07ss10_continue_87a6f654:
 
     # mg "Good. We'll get you registered with Xasan. You'll assist me in debt collections. We'll meet at my hideout regularly, and I'll teach you to fight for The Syndicate."
-    mg "Bien. Te registraremos con Xasan. Me ayudarás en el cobro de las deudas. Nos encontraremos en mi escondite con regularidad y te enseñaré a luchar por El Sindicato."
+    mg "Bien. Te registraremos con Xasan. Me ayudarás en el cobro de las deudas. Nos reuniremos en mi escondite regularmente, y te enseñaré a luchar por el Sindicato."
 
 # game/code/Book-1/Chapter-7s/s10.rpy:242
 translate spanish b1c07ss10_continue_37c1bbd9:
@@ -626,7 +626,7 @@ translate spanish b1c07ss10_choice_e16155b8:
 translate spanish b1c07ss10_choice_1042cd01:
 
     # mg "Thank you again for helping with Rory."
-    mg "Gracias de nuevo por ayudar con Rory."
+    mg "Gracias de nuevo por ayudarme con Rory."
 
 # game/code/Book-1/Chapter-7s/s10.rpy:329
 translate spanish b1c07ss10_choice_4337cf7a:
