@@ -50,13 +50,13 @@ translate spanish b1c07ss13_return_9f6bf72c:
 translate spanish b1c07ss13_return_2ffb3744:
 
     # mct "Xasan seems to be the ringleader of The Syndicate, or something like it, anyway."
-    mct "Xasan parece ser el cabecilla de El Sindicato, o algo así, de todos modos."
+    mct "Xasan parece ser el cabecilla de El Sindicato, o algo parecido."
 
 # game/code/Book-1/Chapter-7s/s13.rpy:112
 translate spanish b1c07ss13_return_d66a6dcb:
 
     # mct "And Zemfira's also in the middle of it, helping to manage the accounts of those indebted to the organization."
-    mct "Y Zemfira también está en el medio, ayudando a administrar las cuentas de los endeudados con la organización."
+    mct "Y Zemfira también está en medio, ayudando a gestionar las cuentas de las personas que están endeudadas con la organización."
 
 # game/code/Book-1/Chapter-7s/s13.rpy:118
 translate spanish b1c07ss13_return_751b5fbd:
@@ -92,7 +92,7 @@ translate spanish b1c07ss13_return_bd21ee9f:
 translate spanish b1c07ss13_return_56cbdd57:
 
     # mct "The people that I've spoken to seem to miss and care for Leia, but also aren't very surprised that something like this happened."
-    mct "Las personas con las que he hablado parecen extrañar y cuidar a Leia, pero tampoco están muy sorprendidas de que algo así haya sucedido."
+    mct "Las personas con las que he hablado parecen echar de menos y preocuparse por Leia, pero tampoco están muy sorprendidas de que haya ocurrido algo como eso."
 
 # game/code/Book-1/Chapter-7s/s13.rpy:142
 translate spanish b1c07ss13_return_1a8bb28a:
