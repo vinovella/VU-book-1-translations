@@ -56,7 +56,7 @@ translate spanish b1c09s11_dk_available_798dff3d:
 translate spanish b1c09s11_dk_available_379fcd6e:
 
     # mc "You think?"
-    mc "¿Crees?"
+    mc "¿Tú crees?"
 
 # game/code/Book-1/Chapter-9/s11.rpy:124
 translate spanish b1c09s11_dk_available_60c4bc59:
@@ -200,7 +200,7 @@ translate spanish b1c09s11_dk_sex_26114ae6:
 translate spanish b1c09s11_dk_sex_4ac5e3c5:
 
     # "You feel Delphia's eyes on you, daring you to take charge."
-    "Sientes los ojos de Delphia sobre ti, desafiándote a tomar el mando."
+    "Sientes los ojos de Delphia sobre ti, desafiándote a tomar el control."
 
 # game/code/Book-1/Chapter-9/s11.rpy:218
 translate spanish b1c09s11_dk_sex_f489e24c:
@@ -278,7 +278,7 @@ translate spanish b1c09s11_dk_sex_6c44b871:
 translate spanish b1c09s11_dk_sex_f6c49257:
 
     # mc "Just a dripping wet slut aching to get fucked."
-    mc "Sólo eres una zorra mojada y deseosa de ser follada."
+    mc "Sólo eres una puta mojada deseando ser follada."
 
 # game/code/Book-1/Chapter-9/s11.rpy:273
 translate spanish b1c09s11_dk_sex_4811b0c0:
@@ -464,7 +464,7 @@ translate spanish b1c09s11_dk_sex_233c9d98:
 translate spanish b1c09s11_dk_sex_21659722:
 
     # "You watch Delphia writhe against the bed, her wrists reddening as she struggles against them."
-    "Ves a Delphia retorcerse contra la cama, sus muñecas enrojecen mientras lucha contra ellas."
+    "Ves a Delphia retorcerse contra la cama, con sus muñecas enrojecidas mientras lucha contra ellas."
 
 # game/code/Book-1/Chapter-9/s11.rpy:382
 translate spanish b1c09s11_dk_sex_eb4320fd:
@@ -596,7 +596,7 @@ translate spanish b1c09s11_dk_sex_be614d3d:
 translate spanish b1c09s11_dk_sex_16862bbe:
 
     # mc "It's so fun though."
-    mc "Aunque es muy divertido."
+    mc "Pero es muy divertido hacerlo."
 
 # game/code/Book-1/Chapter-9/s11.rpy:459
 translate spanish b1c09s11_dk_sex_d661e227:
@@ -788,7 +788,7 @@ translate spanish b1c09s11_more_watersports_5a0efd0b:
 translate spanish b1c09s11_more_watersports_91c88482:
 
     # mc "*Whispers* If I'm yours, then you're just mine too, slut."
-    mc "*Susurra* Si soy tuyo, entonces tú también eres mía, zorra."
+    mc "*Susurra* Si soy tuyo, entonces tú también eres mía, puta."
 
 # game/code/Book-1/Chapter-9/s11.rpy:562
 translate spanish b1c09s11_more_watersports_e91c1daf:
@@ -866,7 +866,7 @@ translate spanish b1c09s11_more_watersports_64eb3680:
 translate spanish b1c09s11_after_watersports_1131d0d0:
 
     # mc "I'm gonna fuck you into the bed slut."
-    mc "Te voy a follar en la cama zorra."
+    mc "Te voy a follar hasta dejarte inconsciente en la cama puta."
 
 # game/code/Book-1/Chapter-9/s11.rpy:609
 translate spanish b1c09s11_after_watersports_b3a3e00e:
@@ -1214,7 +1214,7 @@ translate spanish b1c09s11_no_dk_6946a134:
 translate spanish b1c09s11_no_dk_fe36fe6e:
 
     # "Nia giggles and rests her head on your shoulder, her breath warm against your neck."
-    "Nia se ríe y apoya la cabeza en tu hombro, su cálido aliento contra tu cuello."
+    "Nia suelta una risita y apoya la cabeza en tu hombro, con su cálido aliento acariciándote el cuello."
 
 # game/code/Book-1/Chapter-9/s11.rpy:792
 translate spanish b1c09s11_no_dk_d0754e17:
