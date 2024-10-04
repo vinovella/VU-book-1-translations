@@ -296,7 +296,7 @@ translate spanish b1c06cs01_85a66c93:
 translate spanish b1c06cs01_4e7d5f29:
 
     # nv "For the most part. Sometimes the Guides use those more like guidelines than strict rules, though. Like I said, healing is complex."
-    nv "La mayor parte. Sin embargo, a veces los Guías las usan más como pautas que como reglas estrictas. Como dije, la sanación es compleja."
+    nv "La mayor parte. Sin embargo, a veces los Guías los usan más como pautas que como reglas estrictas. Como dije, la sanación es compleja."
 
 # game/code/Book-1/Chapter-6c/s01.rpy:138
 translate spanish b1c06cs01_9576454f:
@@ -380,7 +380,7 @@ translate spanish b1c06cs01_17d9efc8:
 translate spanish b1c06cs01_4e4ea5b0:
 
     # ij "Nia, come with me. I'll go over the workbook with you while Andre decides...what Guide to assign you."
-    ij "Nia, ven conmigo. Repasaré el libro de ejercicios contigo mientras Andre decide... qué guía asignarte."
+    ij "Nia, ven conmigo. Repasaré el libro de ejercicios contigo mientras André decide... qué guía asignarte."
 
 # game/code/Book-1/Chapter-6c/s01.rpy:183
 translate spanish b1c06cs01_857af703:
@@ -662,7 +662,7 @@ translate spanish b1c06cs01_3b31b250:
 translate spanish b1c06cs01_dba7e178:
 
     # ad "We shall see, won't we?"
-    ad "Veremos, ¿no?"
+    ad "Ya lo veremos, ¿no?"
 
 # game/code/Book-1/Chapter-6c/s01.rpy:360
 translate spanish b1c06cs01_0d75275b:
@@ -770,7 +770,7 @@ translate spanish b1c06cs01_cebcd97b:
 translate spanish b1c06cs01_dd094651:
 
     # dk "One can only hope he can be enlightened, Andre."
-    dk "Uno sólo puede esperar que se ilumine, Andre."
+    dk "Uno sólo puede esperar que se ilumine, André."
 
 # game/code/Book-1/Chapter-6c/s01.rpy:421
 translate spanish b1c06cs01_18a0cbcc:
@@ -848,7 +848,7 @@ translate spanish b1c06cs01_8d3bd75b:
 translate spanish b1c06cs01_0c119c30:
 
     # dk "We're so happy to have you take another Guide, Nia. Even better that it's me."
-    dk "Estamos muy contentos de que tomes otra Guía, Nia. Aún mejor que sea yo."
+    dk "Estamos muy contentos de que tengas otra Guía, Nia. Aún mejor que sea yo."
 
 # game/code/Book-1/Chapter-6c/s01.rpy:459
 translate spanish b1c06cs01_6fe31c29:
@@ -866,7 +866,7 @@ translate spanish b1c06cs01_102b5aa3:
 translate spanish b1c06cs01_83e2e80e:
 
     # dk "Firstly, we have to get you acquainted with your workbooks. Nia, you've obviously done most of the curriculum before, but [mcname] hasn't."
-    dk "En primer lugar, tenemos que familiarizarlo con sus libros de trabajo. Nia, obviamente has hecho la mayor parte del plan de estudios antes, pero [mcname] no."
+    dk "En primer lugar, tenemos que hacer que se familiaricen con sus libros. Nia, es obvio que ya has hecho la mayor parte del plan de estudios, pero [mcname] no."
 
 # game/code/Book-1/Chapter-6c/s01.rpy:464
 translate spanish b1c06cs01_45272d02:
