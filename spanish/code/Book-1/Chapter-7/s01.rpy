@@ -200,7 +200,7 @@ translate spanish b1c07s01_after_variables_0bf607c2:
 translate spanish b1c07s01_after_variables_4332acaa:
 
     # lw "She came home early just to check up on me and bring me something to eat."
-    lw "Llegó temprano a casa sólo para ver cómo estaba y traerme algo de comer."
+    lw "Ella vino a casa temprano sólo para ver cómo estaba y para traerme algo para comer."
 
 # game/code/Book-1/Chapter-7/s01.rpy:189
 translate spanish b1c07s01_after_variables_4f421953:
@@ -314,7 +314,7 @@ translate spanish b1c07s01_after_variables_325990bf:
 translate spanish b1c07s01_after_variables_46dc3b88:
 
     # jh "*Yawns*"
-    jh "*bostezos*"
+    jh "*Bostezos*"
 
 # game/code/Book-1/Chapter-7/s01.rpy:245
 translate spanish b1c07s01_after_variables_2c0f983b:
@@ -350,7 +350,7 @@ translate spanish b1c07s01_after_variables_b0f0c2ef:
 translate spanish b1c07s01_after_variables_e5112166:
 
     # lw "I always have your back."
-    lw "Siempre tengo tu espalda."
+    lw "Siempre te cubro las espaldas."
 
 # game/code/Book-1/Chapter-7/s01.rpy:264
 translate spanish b1c07s01_after_variables_5e5991d4:
@@ -416,7 +416,7 @@ translate spanish b1c07s01_after_variables_44459e53:
 translate spanish b1c07s01_after_variables_69cdc342:
 
     # jh "I'm not! A bunch of people I don't know talking about stuff that doesn't matter to me with music loud enough to give me tinnitus at 25 isn't my definition of fun."
-    jh "¡No lo hago! Un grupo de personas que no conozco hablando de cosas que no me importan con música lo suficientemente alta como para provocarme tinnitus a los 25 no es mi definición de diversión."
+    jh "¡No lo hago! Un grupo de personas que no conozco hablando de cosas que no me importan con música lo suficientemente alta como para provocarme tinnitus a los 25 años no es mi definición de diversión."
 
 # game/code/Book-1/Chapter-7/s01.rpy:292
 translate spanish b1c07s01_after_variables_111db438:
