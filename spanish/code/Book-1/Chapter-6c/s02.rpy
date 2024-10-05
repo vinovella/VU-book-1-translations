@@ -92,7 +92,7 @@ translate spanish b1c06cs02_ac94c112:
 translate spanish b1c06cs02_060c45ad:
 
     # dk "Andre wasn't kidding about your...inquisitive nature."
-    dk "Andre no estaba bromeando sobre tu... naturaleza inquisitiva."
+    dk "André no estaba bromeando sobre tu... naturaleza inquisitiva."
 
 # game/code/Book-1/Chapter-6c/s02.rpy:68
 translate spanish b1c06cs02_6fd5ee9f:
@@ -122,7 +122,7 @@ translate spanish b1c06cs02_c067cbde:
 translate spanish b1c06cs02_08ef0c85:
 
     # dk "If you need more time, that's understandable. We can go at a slower pace if you want."
-    dk "Si necesita más tiempo, es comprensible. Podemos ir a un ritmo más lento si quieres."
+    dk "Si necesitas más tiempo, es comprensible. Podemos ir a un ritmo más lento si quieres."
 
 # game/code/Book-1/Chapter-6c/s02.rpy:81
 translate spanish b1c06cs02_bf95ff07:
@@ -146,7 +146,7 @@ translate spanish b1c06cs02_4dc78620:
 translate spanish b1c06cs02_24d36869:
 
     # dk "It's okay if you can't answer it right away. Trust can require time."
-    dk "Está bien si no puede responder de inmediato. La confianza puede requerir tiempo."
+    dk "Está bien si no puedes responder de inmediato. La confianza puede requerir tiempo."
 
 # game/code/Book-1/Chapter-6c/s02.rpy:89
 translate spanish b1c06cs02_b15361de:
@@ -338,7 +338,7 @@ translate spanish b1c06cs02_4f485e0c:
 translate spanish b1c06cs02_973524df:
 
     # dk "Read the first line in your workbook out loud, please."
-    dk "Lee la primera línea de tu manual en voz alta, por favor."
+    dk "Lee la primera línea de tu libro en voz alta, por favor."
 
 # game/code/Book-1/Chapter-6c/s02.rpy:178
 translate spanish b1c06cs02_3f8b65aa:
@@ -542,7 +542,7 @@ translate spanish b1c06cs02_1ff52d75:
 translate spanish b1c06cs02_0830b83f:
 
     # dk "Regardless, I need a partner for my class anyway."
-    dk "Independientemente, necesito un compañero para mi clase de todos modos."
+    dk "De todos modos, necesito un compañero para mi clase."
 
 # game/code/Book-1/Chapter-6c/s02.rpy:288
 translate spanish b1c06cs02_d68b747e:
