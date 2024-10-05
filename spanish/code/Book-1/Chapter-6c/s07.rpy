@@ -146,19 +146,19 @@ translate spanish b1c06cs07_a6a0b97e:
 translate spanish b1c06cs07_f8d760e1:
 
     # sd "And then we'd all...{i}show our devotion.{/i}."
-    sd "Y entonces todos... {i}mostraremos nuestra devoción.{/i}"
+    sd "Y entonces todos... {i}mostraríamos nuestra devoción{/i}."
 
 # game/code/Book-1/Chapter-6c/s07.rpy:123
 translate spanish b1c06cs07_de75229f:
 
     # sd "*sigh* I miss that intimacy. It was so celestial and sacred to me."
-    sd "*suspiro* Extraño esa intimidad. Fue tan celestial y sagrada para mí."
+    sd "*suspiro* Extraño esa intimidad. Era tan celestial y sagrada para mí."
 
 # game/code/Book-1/Chapter-6c/s07.rpy:126
 translate spanish b1c06cs07_8f68e4fc:
 
     # mc "Bare witness? What do you mean?"
-    mc "¿Testigo desnuda? ¿Qué quieres decir?"
+    mc "¿Qué quieres decir?"
 
 # game/code/Book-1/Chapter-6c/s07.rpy:129
 translate spanish b1c06cs07_66974336:
@@ -380,7 +380,7 @@ translate spanish b1c06cs07_go_further_caa8b32e:
 translate spanish b1c06cs07_go_further_387108a8:
 
     # sd "Tell me what your thoughts are about."
-    sd "Dime de qué se trata tu pensamiento."
+    sd "Dime en qué pensabas."
 
 # game/code/Book-1/Chapter-6c/s07.rpy:254
 translate spanish b1c06cs07_go_further_a4d9cc87:
