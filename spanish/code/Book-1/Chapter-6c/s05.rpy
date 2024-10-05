@@ -158,7 +158,7 @@ translate spanish b1c06cs05_continue_508b9d65:
 translate spanish b1c06cs05_continue_25a4ef45:
 
     # dk "You weren't {i}completely{/i} lying in class, huh?"
-    dk "No estabas {i}completamente{/i} mintiendo en clase, ¿eh?"
+    dk "No estabas mintiendo {i}del todo{/i} en clase, ¿eh?"
 
 # game/code/Book-1/Chapter-6c/s05.rpy:151
 translate spanish b1c06cs05_continue_3255dd56:
@@ -248,7 +248,7 @@ translate spanish b1c06cs05_continue_c046cdab:
 translate spanish b1c06cs05_continue_767d867a:
 
     # "You're close, very close, but right on the verge of your climax, she stops."
-    "Estás cerca, muy cerca, pero justo al borde de tu clímax, ella se detiene."
+    "Estás cerca, muy cerca, pero justo al borde del clímax, ella se detiene."
 
 # game/code/Book-1/Chapter-6c/s05.rpy:204
 translate spanish b1c06cs05_continue_177d3eb2:
@@ -272,7 +272,7 @@ translate spanish b1c06cs05_continue_96235f48:
 translate spanish b1c06cs05_continue_073c185b:
 
     # dk "Well, I think that's adequate thanks for the help, don't you think?"
-    dk "Bueno, creo que eso es suficiente gracias por la ayuda, ¿no crees?"
+    dk "Bueno, creo que es un agradecimiento suficiente por la ayuda, ¿no crees?"
 
 # game/code/Book-1/Chapter-6c/s05.rpy:214
 translate spanish b1c06cs05_continue_97511a3a:
@@ -470,7 +470,7 @@ translate spanish b1c06cs05_end_f16c798b:
 translate spanish b1c06cs05_end_35720f82:
 
     # dk "Also, don't forget that there's a seminar in about an hour. You and Nia should bring your workbooks."
-    dk "Además, no olvide que hay un seminario en aproximadamente una hora. Tú y Nia deben traer sus libros de trabajo."
+    dk "Además, no olvides que hay un seminario en aproximadamente una hora. Tú y Nia deben traer sus libros de trabajo."
 
 # game/code/Book-1/Chapter-6c/s05.rpy:383
 translate spanish b1c06cs05_end_a01c0c74:
@@ -500,7 +500,7 @@ translate spanish b1c06cs05_end_ea2fce25:
 translate spanish b1c06cs05_end_4dbfbc40:
 
     # dk "It was kinda fun. Admit it."
-    dk "Fue un poco divertido. Admitelo."
+    dk "Fue un poco divertido. Admítelo."
 
 # game/code/Book-1/Chapter-6c/s05.rpy:400
 translate spanish b1c06cs05_end_de9972dc:
