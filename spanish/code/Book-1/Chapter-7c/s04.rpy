@@ -782,13 +782,13 @@ translate spanish b1c07cs04_3d708957:
 translate spanish b1c07cs04_3566688b:
 
     # dk "Andre and Ivy talked to me about Lumi earlier today."
-    dk "Andre e Ivy me hablaron sobre Lumi hoy."
+    dk "André e Ivy me hablaron hoy temprano de Lumi."
 
 # game/code/Book-1/Chapter-7c/s04.rpy:424
 translate spanish b1c07cs04_725bf671:
 
     # mct "Lumi..."
-    mct "Lu..."
+    mct "Lumi..."
 
 # game/code/Book-1/Chapter-7c/s04.rpy:425
 translate spanish b1c07cs04_cd5c0b13:
@@ -878,7 +878,7 @@ translate spanish b1c07cs04_087b34da:
 translate spanish b1c07cs04_e528be70:
 
     # dk "I told Andre and Lumi that you'd love to spend more time with other members, and this would be the perfect opportunity."
-    dk "Les dije a Andre y Lumi que te encantaría pasar más tiempo con otros miembros y que esta sería la oportunidad perfecta."
+    dk "Les dije a André y a Lumi que te encantaría pasar más tiempo con otros miembros y que esta sería la oportunidad perfecta."
 
 # game/code/Book-1/Chapter-7c/s04.rpy:466
 translate spanish b1c07cs04_f00335bc:
