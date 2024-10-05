@@ -338,7 +338,7 @@ translate spanish b1c08cs08_c18b7413:
 translate spanish b1c08cs08_090467e3:
 
     # "Andre lets the crowd sit in contemplative silence for a moment, allowing his words to hang over people's heads."
-    "Andre deja que la multitud se siente en silencio contemplativo por un momento, permitiendo que sus palabras cuelguen sobre las cabezas de las personas."
+    "André deja que la multitud se siente en silencio contemplativo por un momento, permitiendo que sus palabras cuelguen sobre las cabezas de las personas."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:192
 translate spanish b1c08cs08_3436cde7:
