@@ -200,7 +200,7 @@ translate spanish b1c06cs06_a62c1298:
 translate spanish b1c06cs06_6633abb2:
 
     # mc "So how long have you guys been in the self-improvement group?"
-    mc "Entonces, ¿cuánto tiempo lleváis en el grupo de autoayuda?"
+    mc "Entonces, ¿cuánto tiempo llevan en el grupo de autoayuda?"
 
 # game/code/Book-1/Chapter-6c/s06.rpy:154
 translate spanish b1c06cs06_38fe4888:
@@ -536,7 +536,7 @@ translate spanish b1c06cs06_1e8d2c53:
 translate spanish b1c06cs06_5e00ddee:
 
     # ad "And when you're {i}my{/i} rank, you'll find benefits so sweet, so delicious, it'll rival Eve eating the apple of Eden."
-    ad "Y cuando sean {i}mi{/i} rango, encontrarás beneficios tan dulces, tan deliciosos, que rivalizarás con Eva comiendo la manzana del Edén."
+    ad "Y cuando estén en {i}mi{/i} rango, encontrarán beneficios tan dulces, tan deliciosos, que rivalizarán con Eva comiendo la manzana del Edén."
 
 # game/code/Book-1/Chapter-6c/s06.rpy:372
 translate spanish b1c06cs06_2894b204:
@@ -572,7 +572,7 @@ translate spanish b1c06cs06_99828400:
 translate spanish b1c06cs06_63f66684:
 
     # ad "Would you like to start your presentation first?"
-    ad "¿Le gustaría comenzar su presentación primero?"
+    ad "¿Le gustaría comenzar primero con su presentación?"
 
 # game/code/Book-1/Chapter-6c/s06.rpy:394
 translate spanish b1c06cs06_377deaff:
@@ -602,7 +602,7 @@ translate spanish b1c06cs06_ed6f65bc:
 translate spanish b1c06cs06_c0f74032:
 
     # nv "This is a safe community. I know it might be scary at first, but everyone here is very accepting and unconditional, just as Andre said."
-    nv "Esta es una comunidad segura. Sé que puede dar miedo al principio, pero todos aquí son muy comprensivos e incondicionales, tal como dijo Andre."
+    nv "Esta es una comunidad segura. Sé que puede dar miedo al principio, pero todos aquí son muy comprensivos e incondicionales, tal como dijo André."
 
 # game/code/Book-1/Chapter-6c/s06.rpy:418
 translate spanish b1c06cs06_ba461581:
@@ -662,7 +662,7 @@ translate spanish b1c06cs06_d1a8ab6a:
 translate spanish b1c06cs06_487d9faf:
 
     # ad "Who would like to go next?"
-    ad "¿A quién le gustaría ser el siguiente?"
+    ad "¿Quién quiere ser el siguiente?"
 
 # game/code/Book-1/Chapter-6c/s06.rpy:452
 translate spanish b1c06cs06_8c9b93b2:
@@ -968,7 +968,7 @@ translate spanish b1c06cs06_29ae4cb2:
 translate spanish b1c06cs06_47f99828:
 
     # ad "Throughout each of your journeys, there will be milestones that you will achieve through the teachings of your Guide."
-    ad "A lo largo de cada uno de sus viajes, habrán hitos que alcanzarán a través de las enseñanzas de su Guía."
+    ad "A lo largo de cada uno de sus viajes, habrán hitos que alcanzarán a través de las enseñanzas de sus Guías."
 
 # game/code/Book-1/Chapter-6c/s06.rpy:625
 translate spanish b1c06cs06_ef72ff20:
@@ -1172,7 +1172,7 @@ translate spanish b1c06cs06_19cbd11d:
 translate spanish b1c06cs06_de338ee6:
 
     # ij "Our donation center lets you donate however much you want—but you're still getting the same value."
-    ij "Nuestro centro de donaciones le permite donar la cantidad que desee, pero sigues obteniendo el mismo beneficio."
+    ij "Nuestro centro de donaciones te permite donar la cantidad que desees, pero sigues obteniendo el mismo beneficio."
 
 # game/code/Book-1/Chapter-6c/s06.rpy:740
 translate spanish b1c06cs06_231ee8fa:
@@ -1358,7 +1358,7 @@ translate spanish b1c06cs06_5ca489cb:
 translate spanish b1c06cs06_47d0d727:
 
     # nv "He's very new to the kind of community we have, Andre. He's just going through an adjustment period."
-    nv "Es muy nuevo en el tipo de comunidad que tenemos, Andre. Está pasando por un período de adaptación."
+    nv "Es muy nuevo en el tipo de comunidad que tenemos, André. Está pasando por un período de adaptación."
 
 # game/code/Book-1/Chapter-6c/s06.rpy:830
 translate spanish b1c06cs06_52c46e36:
@@ -1376,7 +1376,7 @@ translate spanish b1c06cs06_bfbd9d79:
 translate spanish b1c06cs06_67a43ffa:
 
     # nv "Right?"
-    nv "¿Bien?"
+    nv "¿Verdad?"
 
 # game/code/Book-1/Chapter-6c/s06.rpy:838
 translate spanish b1c06cs06_9b19589f:
@@ -1388,7 +1388,7 @@ translate spanish b1c06cs06_9b19589f:
 translate spanish b1c06cs06_576c9a98:
 
     # mct "I'd never donate that much to any cause, but that's not my business. And Andre has no right to accuse me of judging her."
-    mct "Nunca donaría tanto a ninguna causa, pero ese no es mi negocio. Y Andre no tiene derecho a acusarme de juzgarla."
+    mct "Nunca donaría tanto a ninguna causa, pero eso no es mi problema. Y André no tiene derecho a acusarme de juzgarla."
 
 # game/code/Book-1/Chapter-6c/s06.rpy:843
 translate spanish b1c06cs06_c7d1aa29:
