@@ -164,7 +164,7 @@ translate spanish b1c06cs03_6b285331:
 translate spanish b1c06cs03_952b811f:
 
     # "Both" "*Laughing*"
-    "Ambos" "*Reír*"
+    "Ambos" "*Riendo*"
 
 # game/code/Book-1/Chapter-6c/s03.rpy:138
 translate spanish b1c06cs03_a4339c2a:
@@ -188,7 +188,7 @@ translate spanish b1c06cs03_5807e6a8:
 translate spanish b1c06cs03_36a67c34:
 
     # dk "I felt a call to study our ancestors, and the gods they worshiped."
-    dk "Sentí un llamado a estudiar a nuestros antepasados ​​y los dioses que adoraban."
+    dk "Sentí la llamada de estudiar a nuestros antepasados y los dioses que adoraban."
 
 # game/code/Book-1/Chapter-6c/s03.rpy:148
 translate spanish b1c06cs03_32a972ff:
@@ -272,7 +272,7 @@ translate spanish b1c06cs03_c18865c8:
 translate spanish b1c06cs03_fcea9f58:
 
     # dk "*Laughing*"
-    dk "*Reír*"
+    dk "*Riendo*"
 
 # game/code/Book-1/Chapter-6c/s03.rpy:185
 translate spanish b1c06cs03_5e712796:
@@ -410,7 +410,7 @@ translate spanish b1c06cs03_eb03a2ee:
 translate spanish b1c06cs03_aec72b59:
 
     # dk "A kiln is basically a specialized oven that bakes our clay until it's dry."
-    dk "Un horno es básicamente un horno especializado que hornea nuestra arcilla hasta que se seca."
+    dk "Un hornillo es básicamente un horno especializado que cocina nuestra arcilla hasta que está seca."
 
 # game/code/Book-1/Chapter-6c/s03.rpy:245
 translate spanish b1c06cs03_f2316b97:
@@ -434,7 +434,7 @@ translate spanish b1c06cs03_234a4045:
 translate spanish b1c06cs03_952b811f_1:
 
     # "Both" "*Laughing*"
-    "Ambos" "*Reír*"
+    "Ambos" "*Riendo*"
 
 # game/code/Book-1/Chapter-6c/s03.rpy:259
 translate spanish b1c06cs03_c211e58b:
@@ -452,7 +452,7 @@ translate spanish b1c06cs03_c8428738:
 translate spanish b1c06cs03_327f658e:
 
     # dk "Have you heard of it?"
-    dk "¿Has oido de esto?"
+    dk "¿Has oído hablar de esa historia?"
 
 # game/code/Book-1/Chapter-6c/s03.rpy:265
 translate spanish b1c06cs03_9139b053:
@@ -488,7 +488,7 @@ translate spanish b1c06cs03_b96430ee:
 translate spanish b1c06cs03_d4ce2a57:
 
     # mc "Why do I feel like they don't make it safely across..."
-    mc "Por qué siento que no logran cruzar con seguridad..."
+    mc "¿Por qué siento que no logran cruzar de forma segura..."
 
 # game/code/Book-1/Chapter-6c/s03.rpy:288
 translate spanish b1c06cs03_2aa1ed26:
