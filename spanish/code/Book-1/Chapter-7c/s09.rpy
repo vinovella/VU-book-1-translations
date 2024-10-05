@@ -20,7 +20,7 @@ translate spanish b1c07cs09_5812830c:
 translate spanish b1c07cs09_19b9880c:
 
     # mct "Andre and Ivy must've used that."
-    mct "Andre e Ivy deben haber usado eso."
+    mct "André e Ivy deben haber usado eso."
 
 # game/code/Book-1/Chapter-7c/s09.rpy:53
 translate spanish b1c07cs09_656db40b:
@@ -542,13 +542,13 @@ translate spanish b1c07cs09_sex_90db3c57:
 translate spanish b1c07cs09_end_7978b93f:
 
     # mct "This is a huge find. Who knows what kind of activities that location is used for? That has to be where Ivy and Andre disappeared to."
-    mct "Este es un gran hallazgo. ¿Quién sabe para qué tipo de actividades se utiliza ese lugar? Por allí tienen que haber desaparecido Ivy y Andre."
+    mct "Este es un gran hallazgo. ¿Quién sabe para qué tipo de actividades se utiliza ese lugar? Por allí tienen que haber desaparecido Ivy y André."
 
 # game/code/Book-1/Chapter-7c/s09.rpy:437
 translate spanish b1c07cs09_end_3896c50a:
 
     # mct "I'll have to come back another night when there's less chance of me being caught. I barely escaped Irene's notice, and for all I know, Ivy and Andre are still down there."
-    mct "Tendré que volver otra noche cuando haya menos posibilidades de que me atrapen. Apenas escapé de la atención de Irene, y por lo que sé, Ivy y Andre todavía están ahí abajo."
+    mct "Tendré que volver otra noche cuando haya menos posibilidades de que me atrapen. Apenas escapé de la atención de Irene, y por lo que sé, Ivy y André todavía están ahí abajo."
 
 # game/code/Book-1/Chapter-7c/s09.rpy:440
 translate spanish b1c07cs09_end_2690836b:
