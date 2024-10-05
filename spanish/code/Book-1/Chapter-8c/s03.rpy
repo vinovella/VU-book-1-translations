@@ -206,7 +206,7 @@ translate spanish b1c08cs03_1534a732:
 translate spanish b1c08cs03_2a0cfbe6:
 
     # ih "And with that, I'll let Andre take over the main event of our welcoming ceremony."
-    ih "Y con eso, dejaré que Andre se haga cargo del evento principal de nuestra ceremonia de bienvenida."
+    ih "Y con eso, dejaré que André se haga cargo del evento principal de nuestra ceremonia de bienvenida."
 
 # game/code/Book-1/Chapter-8c/s03.rpy:132
 translate spanish b1c08cs03_fe14df1f:
@@ -416,19 +416,19 @@ translate spanish b1c08cs03_ebea25db:
 translate spanish b1c08cs03_9c350ed2:
 
     # ih "Andre, I think that's enough. Let the newcomers have a chance."
-    ih "Andre, creo que es suficiente. Dejemos que los recién llegados tengan una oportunidad."
+    ih "André, creo que es suficiente. Dejemos que los recién llegados tengan una oportunidad."
 
 # game/code/Book-1/Chapter-8c/s03.rpy:235
 translate spanish b1c08cs03_0c7cc8e6:
 
     # "Andre looks at Ivy with a mixture of embarrassment and guilt. He clears his throat and continues with the ceremony."
-    "Andre mira a Ivy con una mezcla de vergüenza y culpa. Se aclara la garganta y continúa con la ceremonia."
+    "André mira a Ivy con una mezcla de vergüenza y culpa. Se aclara la garganta y continúa con la ceremonia."
 
 # game/code/Book-1/Chapter-8c/s03.rpy:237
 translate spanish b1c08cs03_c0a9103e:
 
     # "Andre scans the crowd, and locks eyes with Lumi. He puts out a hand in a gesture of invitation."
-    "Andre escanea a la multitud y mira a Lumi. Extiende una mano en gesto de invitación."
+    "André escanea a la multitud y mira a Lumi. Extiende una mano en gesto de invitación."
 
 # game/code/Book-1/Chapter-8c/s03.rpy:240
 translate spanish b1c08cs03_3912ad09:
@@ -476,7 +476,7 @@ translate spanish b1c08cs03_f25514f5:
 translate spanish b1c08cs03_e58c9b96:
 
     # "Andre crosses his arms and gives Lumi a gentle but firm expression."
-    "Andre se cruza de brazos y le da a Lumi una expresión gentil pero firme."
+    "André se cruza de brazos y le da a Lumi una expresión gentil pero firme."
 
 # game/code/Book-1/Chapter-8c/s03.rpy:268
 translate spanish b1c08cs03_faa65c53:
@@ -494,7 +494,7 @@ translate spanish b1c08cs03_3afb6572:
 translate spanish b1c08cs03_9ce8246c:
 
     # "Lumi anxiously looks away, unable to meet Andre's eyes."
-    "Lumi mira ansiosamente hacia otro lado, incapaz de mirar a Andre a los ojos."
+    "Lumi mira ansiosamente hacia otro lado, incapaz de mirar a André a los ojos."
 
 # game/code/Book-1/Chapter-8c/s03.rpy:276
 translate spanish b1c08cs03_23ef6090:
@@ -572,7 +572,7 @@ translate spanish b1c08cs03_dcd53bf1:
 translate spanish b1c08cs03_b0a37b4c:
 
     # "Lumi delicately removes the rest of her clothes. Andre looks at her approvingly."
-    "Lumi se quita delicadamente el resto de su ropa. Andre la mira con aprobación."
+    "Lumi se quita delicadamente el resto de su ropa. André la mira con aprobación."
 
 # game/code/Book-1/Chapter-8c/s03.rpy:322
 translate spanish b1c08cs03_a90461a4:
@@ -722,7 +722,7 @@ translate spanish b1c08cs03_23efab9b:
 translate spanish b1c08cs03_142ec5d1:
 
     # "Andre addresses the crowd, his voice firm. There's an underlying, accusatory tone to his voice, almost as though the crowd is at fault."
-    "Andre se dirige a la multitud con voz firme. Hay un tono acusatorio subyacente en su voz, casi como si la multitud tuviera la culpa."
+    "André se dirige a la multitud con voz firme. Hay un tono acusatorio subyacente en su voz, casi como si la multitud tuviera la culpa."
 
 # game/code/Book-1/Chapter-8c/s03.rpy:424
 translate spanish b1c08cs03_f12102bd:
@@ -878,7 +878,7 @@ translate spanish b1c08cs03_74b21c5d:
 translate spanish b1c08cs03_fdfca605:
 
     # "Andre goes quiet and looks annoyed for a moment."
-    "Andre se queda callado y parece molesto por un momento."
+    "André se queda callado y parece molesto por un momento."
 
 # game/code/Book-1/Chapter-8c/s03.rpy:543
 translate spanish b1c08cs03_6af60296:
@@ -1028,7 +1028,7 @@ translate spanish b1c08cs03_dab10493:
 translate spanish b1c08cs03_5cc73f46:
 
     # "The crowd is silent, considering Andre's words with somber care."
-    "La multitud guarda silencio, considerando las palabras de Andre con sombría atención."
+    "La multitud guarda silencio, considerando las palabras de André con sombría atención."
 
 # game/code/Book-1/Chapter-8c/s03.rpy:630
 translate spanish b1c08cs03_cbfd332a:
@@ -1064,7 +1064,7 @@ translate spanish b1c08cs03_f600e64a:
 translate spanish b1c08cs03_5e344215:
 
     # "Andre looks at Nia with a proud smile. He gently bows, giving her room to speak."
-    "Andre mira a Nia con una sonrisa orgullosa. Él se inclina suavemente, dándole espacio para hablar."
+    "André mira a Nia con una sonrisa orgullosa. Él se inclina suavemente, dándole espacio para hablar."
 
 # game/code/Book-1/Chapter-8c/s03.rpy:650
 translate spanish b1c08cs03_b0e37bb2:
