@@ -170,7 +170,7 @@ translate spanish b1c07s02_c281eb4e:
 translate spanish b1c07s02_cc96dcdd:
 
     # mc "Alright. Give me a second to change then."
-    mc "Está bien. Dame un segundo para cambiarme entonces."
+    mc "Está bien. Entonces dame un segundo para cambiarme."
 
 # game/code/Book-1/Chapter-7/s02.rpy:143
 translate spanish b1c07s02_2e43a0aa:
@@ -452,7 +452,7 @@ translate spanish b1c07s02_hj_f6488e43:
 translate spanish b1c07s02_hj_39d46d30:
 
     # dm "*Laughs* We're both guilty of being entirely unprofessional then."
-    dm "*Risas* Ambos somos culpables de ser completamente poco profesionales entonces."
+    dm "*Risas* Entonces ambos somos culpables de ser totalmente poco profesionales."
 
 # game/code/Book-1/Chapter-7/s02.rpy:340
 translate spanish b1c07s02_hj_a07b121c:
