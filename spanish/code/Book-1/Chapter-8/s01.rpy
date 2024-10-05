@@ -872,7 +872,7 @@ translate spanish b1c08s01_recap_c07c_8872c7f0:
 translate spanish b1c08s01_recap_c07c_d5aa0162:
 
     # mc "She seems to be a little more apprehensive than the others. And I bet Andre wants to test me somehow. They're trying to kill two birds by getting me to manipulate her to give herself to the cult."
-    mc "Parece un poco más aprensiva que los demás. Y apuesto a que Andre quiere ponerme a prueba de alguna manera. Están intentando matar dos pájaros de un tiro al conseguir que la manipule para que se entregue al culto."
+    mc "Parece un poco más aprensiva que los demás. Y apuesto a que André quiere ponerme a prueba de alguna manera. Están intentando matar dos pájaros de un tiro al conseguir que la manipule para que se entregue al culto."
 
 # game/code/Book-1/Chapter-8/s01.rpy:532
 translate spanish b1c08s01_recap_c07c_7921d656:
