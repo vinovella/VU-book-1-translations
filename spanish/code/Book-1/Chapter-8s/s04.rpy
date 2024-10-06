@@ -50,7 +50,7 @@ translate spanish b1c08ss04_bb23e774:
 translate spanish b1c08ss04_8b0aca1d:
 
     # "But determination to rescue and protect them fuels you regardless."
-    "Pero la determinación de rescatarlos y protegerlos te impulsa de todos modos."
+    "Pero la determinación de rescatarlos y protegerlos te impulsa a pesar de todo."
 
 # game/code/Book-1/Chapter-8s/s04.rpy:87
 translate spanish b1c08ss04_23ae095d:
@@ -134,7 +134,7 @@ translate spanish b1c08ss04_cc08591d:
 translate spanish b1c08ss04_3856866a:
 
     # xv "Zem has agreed t—"
-    xv "Zem ha aceptado t—"
+    xv "Zem ha aceptado..."
 
 # game/code/Book-1/Chapter-8s/s04.rpy:120
 translate spanish b1c08ss04_dbd4d92a:
@@ -416,7 +416,7 @@ translate spanish b1c08ss04_8812630d:
 translate spanish b1c08ss04_a89b6e37:
 
     # xv "We'll sneak in under the cover of dark. [mcname] will man the boat."
-    xv "Nos colaremos al amparo de la oscuridad. [mcname] tripulará el barco."
+    xv "Nos escabulliremos al amparo de la oscuridad. [mcname] será el encargado del barco."
 
 # game/code/Book-1/Chapter-8s/s04.rpy:250
 translate spanish b1c08ss04_7aabf3e7:
@@ -488,7 +488,7 @@ translate spanish b1c08ss04_5625c1fd:
 translate spanish b1c08ss04_cbc34146:
 
     # xv "We'll head out just before dawn. Be prepared, collected, and guarded. Under the cover of night, we make our stand, and rescue Q and those girls."
-    xv "Saldremos poco antes del amanecer. Esté preparado, sereno y vigilado. Al amparo de la noche, nos enfrentamos y rescatamos a Q y a esas chicas."
+    xv "Saldremos poco antes del amanecer. Esté preparado, sereno y alerta. Al amparo de la noche, nos enfrentamos y rescatamos a Q y a esas chicas."
 
 # game/code/Book-1/Chapter-8s/s04.rpy:277
 translate spanish b1c08ss04_5b95e55d:
@@ -518,7 +518,7 @@ translate spanish b1c08ss04_e677605d:
 translate spanish b1c08ss04_535cc41b:
 
     # "Zem jumps into action, already on to the next thing."
-    "Zem entra en acción y pasa a lo siguiente."
+    "Zem salta a la acción, y ya está pensando en lo siguiente."
 
 # game/code/Book-1/Chapter-8s/s04.rpy:287
 translate spanish b1c08ss04_23fed92f:
@@ -776,7 +776,7 @@ translate spanish b1c08ss04_zp_left_9995437f:
 translate spanish b1c08ss04_zp_left_c6720da7:
 
     # fox "We're gonna rock their shit and get the cam workers back safely."
-    fox "Vamos a sacudir su mierda y traer de vuelta a salvo a los trabajadores de la cámara."
+    fox "Vamos a sacudir su mierda y traer de vuelta a salvo a los trabajadores de las cámaras."
 
 # game/code/Book-1/Chapter-8s/s04.rpy:434
 translate spanish b1c08ss04_zp_left_b8e2a1a4:
@@ -800,7 +800,7 @@ translate spanish b1c08ss04_zp_left_dccaf697:
 translate spanish b1c08ss04_zp_left_c9c60c71:
 
     # ass "You go ahead. We're holed up in room 17. There's blankets and whatnot for you."
-    ass "Adelante. Estamos escondidos en la habitación 17. Hay mantas y otras cosas para ti."
+    ass "Adelante. Estamos alojados en la habitación 17. Hay mantas y otras cosas para ti."
 
 # game/code/Book-1/Chapter-8s/s04.rpy:452
 translate spanish b1c08ss04_zp_left_00136b6b:
@@ -866,7 +866,7 @@ translate spanish b1c08ss04_zp_left_b892590b:
 translate spanish b1c08ss04_zp_left_e4c05963:
 
     # ass "And that shot did fuck all. You wanna help me out?"
-    ass "Y ese disparo lo jodió todo. ¿Quieres ayudarme?"
+    ass "Y ese trago lo jodió todo. ¿Quieres ayudarme?"
 
 # game/code/Book-1/Chapter-8s/s04.rpy:495
 translate spanish b1c08ss04_zp_left_6548b0d0:
@@ -914,7 +914,7 @@ translate spanish b1c08ss04_zp_left_08b2faae:
 translate spanish b1c08ss04_zp_left_d720b0e8:
 
     # ass "Thank you for being here. You make it feel less hopeless."
-    ass "Gracias por estar aquí. Lo haces sentir menos desesperado."
+    ass "Gracias por estar aquí. Haces que parezca menos desesperanzador."
 
 # game/code/Book-1/Chapter-8s/s04.rpy:529
 translate spanish b1c08ss04_zp_left_e60c083a:
@@ -1178,13 +1178,13 @@ translate spanish b1c08ss04_sex_ed8baffd:
 translate spanish b1c08ss04_sex_b9c0f8d2:
 
     # "In that brief moment, despite the world outside teetering on the verge of turmoil, you find solace and strength in your shared vulnerability."
-    "En ese breve momento, a pesar de que el mundo exterior está al borde de la confusión, encuentras consuelo y fuerza en tu vulnerabilidad compartida."
+    "En ese breve momento, a pesar de que el mundo exterior está al borde de la confusión, encuentran consuelo y fuerza en tu vulnerabilidad compartida."
 
 # game/code/Book-1/Chapter-8s/s04.rpy:755
 translate spanish b1c08ss04_room_8f98acb8:
 
     # ass "*Whispers* Damn it, I asked them to move a makeshift mattress in here."
-    ass "*Susurros* Maldita sea, les pedí que trajeran un colchón improvisado aquí."
+    ass "*Susurros* Maldita sea, les pedí que trajeran un colchón provisional aquí."
 
 # game/code/Book-1/Chapter-8s/s04.rpy:758
 translate spanish b1c08ss04_room_b3b2228d:
@@ -1334,7 +1334,7 @@ translate spanish b1c08ss04_room_107c47d7:
 translate spanish b1c08ss04_room_3516db29:
 
     # "Everyone drifts into silence. Soft breathing and soft skin against fabric are the only sounds."
-    "Todos se quedan en silencio. La respiración suave y la piel suave contra la tela son los únicos sonidos."
+    "Todo el mundo se queda en silencio. La respiración suave y el roce de la piel contra la tela son los únicos sonidos."
 
 # game/code/Book-1/Chapter-8s/s04.rpy:831
 translate spanish b1c08ss04_room_7d021513:
@@ -1352,13 +1352,13 @@ translate spanish b1c08ss04_room_cc4c1f6f:
 translate spanish b1c08ss04_room_5175af6f:
 
     # "And as you fade into darkness, you find comfort in the sounds of their breathing, their very presence."
-    "Y a medida que te desvaneces en la oscuridad, encuentras consuelo en los sonidos de su respiración, en su sola presencia."
+    "Y mientras te desvaneces en la oscuridad, encuentras consuelo en el sonido de sus respiraciones, en su mera presencia."
 
 # game/code/Book-1/Chapter-8s/s04.rpy:835
 translate spanish b1c08ss04_room_658d6b40:
 
     # "You feel a strong drive to protect all these people you've met. To stand by the ones who can fight, and defend the ones who can't."
-    "Sientes un fuerte impulso por proteger a todas estas personas que has conocido. Apoyar a los que pueden luchar y defender a los que no pueden."
+    "Sientes un fuerte impulso de proteger a todas las personas que has conocido. Estar al lado de los que pueden luchar y defender a los que no pueden."
 
 translate spanish strings:
 
