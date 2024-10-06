@@ -272,7 +272,7 @@ translate spanish b1c08ss02_631169a6:
 translate spanish b1c08ss02_13e15399:
 
     # xv "The only thing we needed from him was the last time he saw the cam workers."
-    xv "Lo único que necesitábamos de él era la última vez que vio a los trabajadores de la cámaras."
+    xv "Lo único que necesitábamos de él era la última vez que vio a los trabajadores de las cámaras."
 
 # game/code/Book-1/Chapter-8s/s02.rpy:158
 translate spanish b1c08ss02_c643c009:
@@ -560,7 +560,7 @@ translate spanish b1c08ss02_4db13ba7:
 translate spanish b1c08ss02_56bba2c6:
 
     # mc "Of course. I'll be there."
-    mc "Por supuesto. Voy a estar allí."
+    mc "Por supuesto. Allí estaré."
 
 # game/code/Book-1/Chapter-8s/s02.rpy:290
 translate spanish b1c08ss02_e229ef75:
