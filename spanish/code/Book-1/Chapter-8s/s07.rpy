@@ -20,7 +20,7 @@ translate spanish b1c08ss07_6cf5dc13:
 translate spanish b1c08ss07_ff637e36:
 
     # "You find yourself lying on an opulent bed, surrounded by exquisite furnishings. Confusion clouds your mind as you try to make sense of your surroundings."
-    "Te encuentras acostado en una cama opulenta, rodeado de muebles exquisitos. La confusión nubla tu mente mientras intentas darle sentido a lo que te rodea."
+    "Te encuentras acostado en una cama lujosa, rodeado de un mobiliario elegante. La confusión nubla tu mente mientras intentas comprender lo que te rodea."
 
 # game/code/Book-1/Chapter-8s/s07.rpy:57
 translate spanish b1c08ss07_1f359c4f:
@@ -104,7 +104,7 @@ translate spanish b1c08ss07_65262f8f:
 translate spanish b1c08ss07_b8e28c45:
 
     # "The woman chuckles, sounding equal parts seductive and menacing."
-    "La mujer se ríe, sonando a partes iguales seductora y amenazadora."
+    "La mujer se ríe, sonando seductora y amenazadora a partes iguales."
 
 # game/code/Book-1/Chapter-8s/s07.rpy:96
 translate spanish b1c08ss07_5ef0cdb8:
@@ -122,7 +122,7 @@ translate spanish b1c08ss07_a3623188:
 translate spanish b1c08ss07_d209002d:
 
     # "She moves closer to you, her gaze filled with a playful intensity."
-    "Ella se acerca a ti, su mirada llena de una intensidad juguetona."
+    "Ella se acerca a ti, con una mirada llena de una intensidad juguetona."
 
 # game/code/Book-1/Chapter-8s/s07.rpy:105
 translate spanish b1c08ss07_0b25ffe2:
@@ -188,7 +188,7 @@ translate spanish b1c08ss07_087296fc:
 translate spanish b1c08ss07_440a3db6:
 
     # mct "Shit. Xasan's bomb definitely got a reaction, if the leader of The Wasps is taking hostages. She probably doesn't realize I'm not even a part of The Syndicate..."
-    mct "Mierda. La bomba de Xasan definitivamente tuvo una reacción, si la líder de Las Avispas está tomando rehenes. Probablemente no se da cuenta de que ni siquiera soy parte de el Sindicato..."
+    mct "Mierda. La bomba de Xasan definitivamente tuvo una reacción, si la líder de Las Avispas está tomando rehenes. Probablemente no se da cuenta de que ni siquiera soy parte de El Sindicato..."
 
 # game/code/Book-1/Chapter-8s/s07.rpy:141
 translate spanish b1c08ss07_722df162:
@@ -302,7 +302,7 @@ translate spanish b1c08ss07_556ef92b:
 translate spanish b1c08ss07_9898f5d2:
 
     # "In response to Hellena's command, the door bursts open, and Cade is forcefully thrown into the room. He stumbles, his face bruised and battered, clearly beaten and defeated."
-    "En respuesta a la orden de Hellena, la puerta se abre de golpe y Cade es arrojado con fuerza a la habitación. Tropieza, con el rostro magullado y maltratado, claramente golpeado y derrotado."
+    "En respuesta a la orden de Hellena, la puerta se abre de golpe y Cade es arrojado a la fuerza a la habitación. Se tambalea, con la cara magullada y maltrecha, claramente golpeado y derrotado."
 
 # game/code/Book-1/Chapter-8s/s07.rpy:184
 translate spanish b1c08ss07_88f43a76:
@@ -404,7 +404,7 @@ translate spanish b1c08ss07_dfe2541f:
 translate spanish b1c08ss07_3020f735:
 
     # ha "You may think you can possess her, but the truth is that {i}{b}I{/b}{/i} own you. I take care of you. I give you power within my gang. And {i}this{/i} is how you abuse it?"
-    ha "Puedes pensar que puedes poseerla, pero la verdad es que {i}{b}yo{/b}{/i} soy tu dueña. Yo te cuido. Te doy poder dentro de mi pandilla. ¿Y {i}así{/i} es como se abusa de ello?"
+    ha "Puedes pensar que puedes poseerla, pero la verdad es que {i}{b}yo{/b}{/i} soy tu dueña. Yo te cuido. Te doy poder dentro de mi pandilla. ¿Y {i}así{/i} es como se abusa de él?"
 
 # game/code/Book-1/Chapter-8s/s07.rpy:232
 translate spanish b1c08ss07_cb231cae:
@@ -758,7 +758,7 @@ translate spanish b1c08ss07_pegging_3386b1e3:
 translate spanish b1c08ss07_pegging_b61bcf42:
 
     # ha "Look at you, so helpless, taking all of my cock on the floor. Such a dirty little thing you are for me."
-    ha "Mírate, tan indefenso, tomando toda mi polla en el suelo. Qué cosita tan sucia eres para mí."
+    ha "Mírate, tan indefenso, tomando toda mi polla en la cama. Qué cosita tan sucia eres para mí."
 
 # game/code/Book-1/Chapter-8s/s07.rpy:488
 translate spanish b1c08ss07_pegging_1adfa8ab:
