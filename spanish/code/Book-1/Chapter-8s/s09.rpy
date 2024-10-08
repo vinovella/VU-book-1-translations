@@ -548,7 +548,7 @@ translate spanish b1c08ss09_637b8e9e:
 translate spanish b1c08ss09_12628b0a:
 
     # xv "Those Wasps needed to be taught a lesson. But I didn't want to involve anyone else in case the plan failed. I {i}told{/i} you all I'd make a diversion if something went wrong. That's exactly what I did."
-    xv "A esas avispas había que darles una lección. Pero no quería involucrar a nadie más en caso de que el plan fracasara. {i}Les dije{/i} a todos que haría un desvío si algo salía mal. Eso es exactamente lo que hice."
+    xv "A esas Avispas había que darles una lección. Pero no quería involucrar a nadie más en caso de que el plan fracasara. {i}Les dije{/i} a todos que haría un desvío si algo salía mal. Eso es exactamente lo que hice."
 
 # game/code/Book-1/Chapter-8s/s09.rpy:320
 translate spanish b1c08ss09_f49a0a1f:
@@ -656,7 +656,7 @@ translate spanish b1c08ss09_d1ab8489:
 translate spanish b1c08ss09_495c4e0b:
 
     # xv "I didn't give a shit if I got caught protecting everyone here! And yet you come back here and expect everyone to get on their goddamn knees and suck you off?"
-    xv "¡Me importaba una mierda si me pillaban protegiendo a todos aquí! ¿Y aun así vuelves aquí y esperas que todos se arrodillen y te la chupen?"
+    xv "¡Me importaba una mierda si me atrapaban protegiendo a todos aquí! ¿Y aun así vuelves aquí y esperas que todos se arrodillen y te la chupen?"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:364
 translate spanish b1c08ss09_32c95a6d:
@@ -872,7 +872,7 @@ translate spanish b1c08ss09_9c309990:
 translate spanish b1c08ss09_a9864f3c:
 
     # zp "[mcname] barely knows anyone here, and yet he's risking everything for The Syndicate. He believes in us, and you let him down!"
-    zp "[mcname] apenas conoce a nadie aquí, y aún así está arriesgando todo por El Sindicato. ¡Cree en nosotros, y tú lo has decepcionado!"
+    zp "[mcname] apenas conoce a la gente de aquí, y aún así lo está arriesgando todo por El Sindicato. ¡Cree en nosotros, y tú lo has decepcionado!"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:462
 translate spanish b1c08ss09_f3466e68:
@@ -1154,7 +1154,7 @@ translate spanish b1c08ss09_aa653c38:
 translate spanish b1c08ss09_ee00f449:
 
     # "You block and evade with impressive agility, your movements precise and calculated."
-    "Bloqueas y evades con una agilidad impresionante, tus movimientos precisos y calculados."
+    "Bloqueas y evades con una agilidad impresionante, tus movimientos son precisos y calculados."
 
 # game/code/Book-1/Chapter-8s/s09.rpy:589
 translate spanish b1c08ss09_bb29d68c:
@@ -1550,7 +1550,7 @@ translate spanish b1c08ss09_6a2eab55:
 translate spanish b1c08ss09_3baf6099:
 
     # mc "Hey, don't worry about that. I can handle it. Let's focus on the celebration, huh?"
-    mc "Oye, no te preocupes por eso. Puedo manejarlo. Centrémonos en la celebración, ¿eh?"
+    mc "Oye, no te preocupes por eso. Puedo manejarlo. Centrémonos en la celebración."
 
 translate spanish strings:
 
