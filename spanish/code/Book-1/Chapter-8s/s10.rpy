@@ -266,7 +266,7 @@ translate spanish b1c08ss10_8232a32d:
 translate spanish b1c08ss10_045eeab2:
 
     # ass "They're gonna be so pissed we're ruining their beauty sleep."
-    ass "Estarán tan enojados que arruinaremos su sueño reparador."
+    ass "Se van a enojar mucho porque les arruinaremos el sueño reparador."
 
 # game/code/Book-1/Chapter-8s/s10.rpy:156
 translate spanish b1c08ss10_7c553bbe:
@@ -374,7 +374,7 @@ translate spanish b1c08ss10_837a195c:
 translate spanish b1c08ss10_5698f0fc:
 
     # mc "Getting beaten wasn't serious?"
-    mc "¿Que te golpearan no era nada grave?"
+    mc "¿Que te dieran una golpiza no es algo grave?"
 
 # game/code/Book-1/Chapter-8s/s10.rpy:200
 translate spanish b1c08ss10_aba765ed:
@@ -494,7 +494,7 @@ translate spanish b1c08ss10_510062e0:
 translate spanish b1c08ss10_5294a9e5:
 
     # "A flurry of butterflies and fireworks erupts in your stomach. Her kiss is vulnerable and inviting, wanting you to want her as much as she wants you."
-    "Una ráfaga de mariposas y fuegos artificiales estalla en tu estómago. Su beso es vulnerable e incitante, deseando que la desees tanto como ella a ti."
+    "Una ráfaga de mariposas y fuegos artificiales estallan en tu estómago. Su beso es vulnerable e incitante, deseando que la desees tanto como ella a ti."
 
 # game/code/Book-1/Chapter-8s/s10.rpy:255
 translate spanish b1c08ss10_1fd911ea:
