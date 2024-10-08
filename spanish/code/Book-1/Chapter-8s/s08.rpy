@@ -164,7 +164,7 @@ translate spanish b1c08ss08_364ede22:
 translate spanish b1c08ss08_4170cc0b:
 
     # "You teasingly bite her nipple, and then immediately roll your tongue over her sensitive flesh."
-    "Muerdes su pezón en broma y luego inmediatamente pasas tu lengua sobre su carne sensible."
+    "Le muerdes el pezón y luego pasas la lengua por su carne sensible."
 
 # game/code/Book-1/Chapter-8s/s08.rpy:153
 translate spanish b1c08ss08_5e33709f:
@@ -392,7 +392,7 @@ translate spanish b1c08ss08_sex_toy_34e80f9a:
 translate spanish b1c08ss08_sex_toy_91434949:
 
     # "She squeals in surprise at first before her breath catches in her throat and her hoarse gasps for breath mingle with her uncontrollable moans."
-    "Ella grita de sorpresa al principio antes de que se le corte el aliento en la garganta y sus roncos jadeos se mezclen con sus gemidos incontrolables."
+    "Ella grita sorprendida al principio, antes de que se le corte la respiración y sus roncos jadeos se mezclen con sus gemidos incontrolables."
 
 # game/code/Book-1/Chapter-8s/s08.rpy:378
 translate spanish b1c08ss08_sex_toy_1c30f353:
@@ -440,7 +440,7 @@ translate spanish b1c08ss08_sex_toy_ad9e44ff:
 translate spanish b1c08ss08_sex_toy_be5d8f92:
 
     # mc "Then arch your back like a good little whore and spread yourself for me."
-    mc "Luego arquea la espalda como una buena putita y abrete para mí."
+    mc "Luego arquea la espalda como una buena putita y ábrete para mí."
 
 # game/code/Book-1/Chapter-8s/s08.rpy:399
 translate spanish b1c08ss08_sex_toy_7d69585c:
