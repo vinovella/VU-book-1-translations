@@ -104,7 +104,7 @@ translate spanish b1c08cs02_9f11cbe6:
 translate spanish b1c08cs02_130b659e:
 
     # ih "Andre, take the others and give them a tour of the grounds."
-    ih "Andre, lleva a los demás y dales un recorrido por el terreno."
+    ih "André, lleva a los demás y dales un recorrido por el terreno."
 
 # game/code/Book-1/Chapter-8c/s02.rpy:92
 translate spanish b1c08cs02_10d1113c:
@@ -122,7 +122,7 @@ translate spanish b1c08cs02_ca0062de:
 translate spanish b1c08cs02_fb93d5ad:
 
     # ih "Please, Andre."
-    ih "Por favor, Andre."
+    ih "Por favor, André."
 
 # game/code/Book-1/Chapter-8c/s02.rpy:110
 translate spanish b1c08cs02_d1778366:

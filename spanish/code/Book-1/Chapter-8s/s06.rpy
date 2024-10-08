@@ -32,7 +32,7 @@ translate spanish b1c08ss06_86b80386:
 translate spanish b1c08ss06_1969d5c1:
 
     # "Her gaze is unwavering as their body goes limp in her grasp, effectively knocked out."
-    "Su mirada es inquebrantable mientras su cuerpo queda inerte bajo sus manos, efectivamente noqueado."
+    "Su mirada es inquebrantable mientras su cuerpo se queda inerte en sus garras, prácticamente inconsciente."
 
 # game/code/Book-1/Chapter-8s/s06.rpy:37
 translate spanish b1c08ss06_04eab8c5:
@@ -50,7 +50,7 @@ translate spanish b1c08ss06_336a8108:
 translate spanish b1c08ss06_56ae7fbe:
 
     # xv "Help me get these guys hidden. We don't want others finding them like this."
-    xv "Ayúdame a esconder a estos tipos. No queremos que otros los encuentren de esta manera."
+    xv "Ayúdame a esconder a estos tipos. No queremos que otros los encuentren."
 
 # game/code/Book-1/Chapter-8s/s06.rpy:48
 translate spanish b1c08ss06_f168d7dc:
@@ -428,7 +428,7 @@ translate spanish b1c08ss06_f5212b77:
 translate spanish b1c08ss06_3585150d:
 
     # "Xasan's bomb explodes, splaying everyone."
-    "La bomba de Xasan explota, esparciendo a todo el mundo."
+    "La bomba de Xasan explota, haciendo volar a todo el mundo."
 
 # game/code/Book-1/Chapter-8s/s06.rpy:316
 translate spanish b1c08ss06_be82370a:
@@ -564,5 +564,5 @@ translate spanish strings:
 translate spanish b1c08ss06_66242071:
 
     # "It's doubtful they've had more than a few moments out of these binds since their capture."
-    "Es dudoso que hayan pasado más de unos momentos fuera de estas sillas desde su captura."
+    "Es dudoso que hayan tenido más que unos pocos momentos fuera de estas ataduras desde que los capturaron."
 

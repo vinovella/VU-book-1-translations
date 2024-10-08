@@ -692,7 +692,7 @@ translate spanish b1c08ss05_choice_e9341967:
 translate spanish b1c08ss05_choice_25fb33cf:
 
     # "Xasan takes a final glance at the gang, his voice filled with confidence."
-    "Xasan echa un último vistazo a la banda, con voz llena de confianza."
+    "Xasan echa un último vistazo a la pandilla, con voz llena de confianza."
 
 # game/code/Book-1/Chapter-8s/s05.rpy:403
 translate spanish b1c08ss05_choice_c661d7b7:
@@ -716,7 +716,7 @@ translate spanish b1c08ss05_choice_ed473442:
 translate spanish b1c08ss05_choice_73718195:
 
     # xv "Stay put and keep your head down. We don't want to draw any unnecessary attention. Stay with the boat."
-    xv "Quédate quieto y mantén la cabeza gacha. No queremos llamar la atención innecesariamente. Quédate con el barco."
+    xv "Quédate quieto y mantén la cabeza gacha. No queremos llamar la atención innecesariamente. Quédate en el barco."
 
 # game/code/Book-1/Chapter-8s/s05.rpy:424
 translate spanish b1c08ss05_choice_05ef63d8:

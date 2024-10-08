@@ -338,7 +338,7 @@ translate spanish b1c07s04_bb03fe14:
 translate spanish b1c07s04_7efdf3bb:
 
     # rh "I mostly stayed as long as I did because of that charismatic Andre fellow."
-    rh "Principalmente me quedé tanto tiempo debido a ese carismático Andre."
+    rh "Principalmente me quedé tanto tiempo debido a ese carismático André."
 
 # game/code/Book-1/Chapter-7/s04.rpy:176
 translate spanish b1c07s04_92e930c0:

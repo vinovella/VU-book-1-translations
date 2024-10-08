@@ -860,7 +860,7 @@ translate spanish b1c08cs01_80628ff9:
 translate spanish b1c08cs01_529cbaf4:
 
     # mct "Let that rub salt into Andre's bloody wounds."
-    mct "Dejemos que eso eche sal en las sangrientas heridas de Andre."
+    mct "Dejemos que eso eche sal en las sangrientas heridas de André."
 
 # game/code/Book-1/Chapter-8c/s01.rpy:439
 translate spanish b1c08cs01_fada12bf:
@@ -890,7 +890,7 @@ translate spanish b1c08cs01_52e9c989:
 translate spanish b1c08cs01_2c8f2b58:
 
     # "Andre interrupts their reminiscing, saving everyone from the tiresome topic."
-    "Andre interrumpe sus recuerdos, salvando a todos del tema aburrido."
+    "André interrumpe sus recuerdos, salvando a todos del tema aburrido."
 
 # game/code/Book-1/Chapter-8c/s01.rpy:453
 translate spanish b1c08cs01_723b1bb5:

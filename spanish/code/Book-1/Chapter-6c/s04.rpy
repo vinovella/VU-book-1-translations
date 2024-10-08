@@ -578,7 +578,7 @@ translate spanish b1c06cs04_m1_c3_26654a56:
 translate spanish b1c06cs04_m1_c3_7623c8b7:
 
     # gd "Now all I got is Sally and that kid, and I'm happy with just that."
-    gd "Ahora todo lo que tengo es a Sally y ese niño, y estoy feliz sólo con eso."
+    gd "Ahora todo lo que tengo es a Sally y a ese niño, y estoy feliz sólo con eso."
 
 # game/code/Book-1/Chapter-6c/s04.rpy:380
 translate spanish b1c06cs04_m1_c3_6b2e1c1d:
@@ -614,7 +614,7 @@ translate spanish b1c06cs04_m2_c1_4ced29dc:
 translate spanish b1c06cs04_m2_c1_ab856d21:
 
     # gd "And lemme guess, you're wondering where the kid is from?"
-    gd "Y déjame adivinar, ¿te estás preguntando de dónde es el niño?"
+    gd "Y déjame adivinar, ¿te estás preguntando de quién es el niño?"
 
 # game/code/Book-1/Chapter-6c/s04.rpy:431
 translate spanish b1c06cs04_m2_c1_30ea57d4:
@@ -692,7 +692,7 @@ translate spanish b1c06cs04_m2_c3_43ae8992:
 translate spanish b1c06cs04_m2_c3_203960b3:
 
     # mc "*Chuckles* Not a fan of Monty Python then."
-    mc "*Risas* Entonces no soy fan de Monty Python."
+    mc "*Risas* Entonces no eres fan de los Monty Python."
 
 # game/code/Book-1/Chapter-6c/s04.rpy:479
 translate spanish b1c06cs04_m2_c3_916a76fc:
@@ -716,7 +716,7 @@ translate spanish b1c06cs04_m2_c3_9b825691:
 translate spanish b1c06cs04_m2_c3_c23c7e42:
 
     # mc "Comedy. British comedy specifically. They did sketches and stuff like that. Pretty funny."
-    mc "Comedia. Específicamente la comedia británica. Hicieron bocetos y cosas así. Muy gracioso."
+    mc "Comedia. Comedia británica específicamente. Hacían espectáculos y cosas así. Bastante divertido."
 
 # game/code/Book-1/Chapter-6c/s04.rpy:491
 translate spanish b1c06cs04_m2_c3_47c0683f:
@@ -914,7 +914,7 @@ translate spanish b1c06cs04_end_1259de14:
 translate spanish b1c06cs04_end_33846876:
 
     # gd "You god-dang menace! Stay the hell away from my shop!"
-    gd "¡Maldita amenaza! ¡Mantente alejado de mi tienda!"
+    gd "¡Maldita amenaza! ¡Mantente alejada de mi tienda!"
 
 # game/code/Book-1/Chapter-6c/s04.rpy:634
 translate spanish b1c06cs04_end_ee0dca86:
@@ -950,7 +950,7 @@ translate spanish b1c06cs04_end_b14526ce:
 translate spanish b1c06cs04_end_6eb567bf:
 
     # gd "I didn't get a good look at what the fella stole, but I don't think it was money."
-    gd "No vi bien lo que robó el tipo, pero no creo que fuera dinero."
+    gd "No vi bien lo que robó, pero no creo que fuera dinero."
 
 # game/code/Book-1/Chapter-6c/s04.rpy:650
 translate spanish b1c06cs04_end_b283bd7b:
@@ -986,7 +986,7 @@ translate spanish b1c06cs04_end_21266af5:
 translate spanish b1c06cs04_end_fd0320c6:
 
     # mc "*Chuckles* I'll see about it."
-    mc "*Risas* Lo veré."
+    mc "*Risas* Ya veremos."
 
 # game/code/Book-1/Chapter-6c/s04.rpy:671
 translate spanish b1c06cs04_end_3f103a03:
@@ -1046,7 +1046,7 @@ translate spanish b1c06cs04_end_2f71341d:
 translate spanish b1c06cs04_end_b8f8d774:
 
     # dk "Oh, you learned that about him in the five minutes that you talked to him, did you?"
-    dk "Oh, aprendiste eso de él en los cinco minutos que estuviste hablando con él, ¿verdad?"
+    dk "Oh, aprendiste eso de él en los cinco minutos que estuvieron hablando, ¿verdad?"
 
 # game/code/Book-1/Chapter-6c/s04.rpy:703
 translate spanish b1c06cs04_end_9d0197b7:

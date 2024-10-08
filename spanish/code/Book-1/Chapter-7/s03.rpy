@@ -350,7 +350,7 @@ translate spanish b1c07s03_ac979049:
 translate spanish b1c07s03_3af7b210:
 
     # lw "*Groans* Argh. Yeah, yeah. I'm fine. Just got a little spooked by how close you got. Thought you were further away than I realized."
-    lw "*gemidos* Argh. Si, si. Yo estoy bien. Sólo me asusté un poco por lo cerca que estabas. Pensé que estabas más lejos de lo que creía."
+    lw "*Gemidos* Argh. Si, si. Yo estoy bien. Sólo me asusté un poco por lo cerca que estabas. Pensé que estabas más lejos de lo que creía."
 
 # game/code/Book-1/Chapter-7/s03.rpy:235
 translate spanish b1c07s03_85c64722:
@@ -368,7 +368,7 @@ translate spanish b1c07s03_f81e04ab:
 translate spanish b1c07s03_b6f5961c:
 
     # mc "Yeah, I may or may not have tried to grab you when you fell."
-    mc "Sí, puede o no que haya intentado agarrarte cuando te caíste."
+    mc "Sí, puede o no que haya intentado agarrarte cuando te estabas cayendo."
 
 # game/code/Book-1/Chapter-7/s03.rpy:244
 translate spanish b1c07s03_39ac98c5:
@@ -494,7 +494,7 @@ translate spanish b1c07s03_2827bcc8:
 translate spanish b1c07s03_2816521c:
 
     # lw "You better learn a thing or two instead of just ogling her."
-    lw "Será mejor que aprendas una cosa o dos en lugar de simplemente mirarla con los ojos."
+    lw "Será mejor que aprendas un par de cosas en vez de limitarte a mirarla."
 
 # game/code/Book-1/Chapter-7/s03.rpy:311
 translate spanish b1c07s03_cf5ba34c:
@@ -566,7 +566,7 @@ translate spanish b1c07s03_4cb9562d:
 translate spanish b1c07s03_064dd7ea:
 
     # lr "It's so good to see you, though! I didn't think we'd never meet again."
-    lr "¡Es tan bueno verte, sin embargo! No pensé que nunca nos volveríamos a encontrar."
+    lr "¡Me alegro tanto de verte! No pensé que nos volveríamos a ver."
 
 # game/code/Book-1/Chapter-7/s03.rpy:356
 translate spanish b1c07s03_c344696a:
@@ -812,13 +812,13 @@ translate spanish b1c07s03_after_bouldering_3863523b:
 translate spanish b1c07s03_after_bouldering_2bc064c9:
 
     # lw "Not to mention, it's certainly not me that I'm hearing all that huffing and puffing from."
-    lw "Sin mencionar que ciertamente no soy yo de quien estoy escuchando todo ese resoplido y resoplido."
+    lw "Sin mencionar que ciertamente no soy yo de quien estoy escuchando todo ese resoplido y jadeo."
 
 # game/code/Book-1/Chapter-7/s03.rpy:501
 translate spanish b1c07s03_after_bouldering_d3e73bcc:
 
     # mc "Huffing and puffing? I can go for another hundred climbs with both of you strapped to my back!"
-    mc "¿Resoplido y resoplido? ¡Puedo hacer otras cien subidas con las dos atadas a mi espalda!"
+    mc "¿Resoplido y jadeo? ¡Puedo hacer otras cien subidas con las dos atadas a mi espalda!"
 
 # game/code/Book-1/Chapter-7/s03.rpy:504
 translate spanish b1c07s03_after_bouldering_fe95233e:
@@ -902,7 +902,7 @@ translate spanish b1c07s03_after_bouldering_85d742b3:
 translate spanish b1c07s03_after_bouldering_8c62f377:
 
     # lw "Thank him? For what? Almost getting himself killed?"
-    lw "¿Darle las gracias? ¿Por qué? ¿Por casi hacerse matar?"
+    lw "¿Agradeciéndole? ¿Por qué? ¿Por casi hacerse matar?"
 
 # game/code/Book-1/Chapter-7/s03.rpy:578
 translate spanish b1c07s03_after_bouldering_3679da7d:

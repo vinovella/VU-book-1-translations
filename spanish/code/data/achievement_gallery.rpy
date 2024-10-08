@@ -110,7 +110,7 @@ translate spanish strings:
 
     # game/code/data/achievement_gallery.rpy:5
     old "Play Morgan's path."
-    new "Juega el camino de Morgan."
+    new "Juega la ruta de Morgan."
 
     # game/code/data/achievement_gallery.rpy:5
     old "15: Feared Straight"
@@ -290,7 +290,7 @@ translate spanish strings:
 
     # game/code/data/achievement_gallery.rpy:5
     old "37: Master Sleuth"
-    new "37: Maestro detective"
+    new "37: Detective maestro"
 
     # game/code/data/achievement_gallery.rpy:5
     old "Unlock 40 characters on the investigation board."

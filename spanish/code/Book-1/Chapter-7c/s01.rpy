@@ -92,7 +92,7 @@ translate spanish b1c07cs01_dd0d9d9f:
 translate spanish b1c07cs01_7beb5ffd:
 
     # nv "Not really. It must be something big for Andre to get us up this early, though."
-    nv "La verdad es que no. Debe ser algo grande para que Andre nos levante tan temprano."
+    nv "La verdad es que no. Debe ser algo grande para que André nos levante tan temprano."
 
 # game/code/Book-1/Chapter-7c/s01.rpy:78
 translate spanish b1c07cs01_2aa33e88:
@@ -416,7 +416,7 @@ translate spanish b1c07cs01_c2ea8e9e:
 translate spanish b1c07cs01_b061ef77:
 
     # "Andre clears his throat."
-    "Andre se aclara la garganta."
+    "André se aclara la garganta."
 
 # game/code/Book-1/Chapter-7c/s01.rpy:274
 translate spanish b1c07cs01_04155cd8:
@@ -566,7 +566,7 @@ translate spanish b1c07cs01_8b6665bd:
 translate spanish b1c07cs01_82717f3f:
 
     # nv "Of course! Andre would never put us at risk."
-    nv "¡Por supuesto! Andre nunca nos pondría en riesgo."
+    nv "¡Por supuesto! André nunca nos pondría en riesgo."
 
 # game/code/Book-1/Chapter-7c/s01.rpy:354
 translate spanish b1c07cs01_64fcfec4:
@@ -620,7 +620,7 @@ translate spanish b1c07cs01_250af1b7:
 translate spanish b1c07cs01_88b138dd:
 
     # "Andre seems to be all over Ivy. He's overly affectionate, as though trying to charm her."
-    "Andre parece estar encima de Ivy. Es demasiado cariñoso, como si tratara de encantarla."
+    "André parece estar encima de Ivy. Es demasiado cariñoso, como si tratara de encantarla."
 
 # game/code/Book-1/Chapter-7c/s01.rpy:376
 translate spanish b1c07cs01_ff5ca826:
@@ -650,7 +650,7 @@ translate spanish b1c07cs01_d9953768:
 translate spanish b1c07cs01_ee5c923f:
 
     # mct "Well, I can't fault their description of Andre, even if it's harsh."
-    mct "Bueno, no me puedo quejar de su descripción de Andre, incluso si es dura."
+    mct "Bueno, no me puedo quejar de su descripción de André, incluso si es dura."
 
 # game/code/Book-1/Chapter-7c/s01.rpy:389
 translate spanish b1c07cs01_4140037c:
@@ -674,7 +674,7 @@ translate spanish b1c07cs01_6b00cfe7:
 translate spanish b1c07cs01_e0d25d86:
 
     # mct "Andre wants another go with Ivy? I wonder what that means..."
-    mct "¿Andre quiere otra oportunidad con Ivy? Me pregunto qué significa eso..."
+    mct "¿André quiere otra oportunidad con Ivy? Me pregunto qué significa eso..."
 
 # game/code/Book-1/Chapter-7c/s01.rpy:407
 translate spanish b1c07cs01_a4fc93a8:
@@ -740,7 +740,7 @@ translate spanish b1c07cs01_18dd2669:
 translate spanish b1c07cs01_8d0e70fc:
 
     # "Your eyes dart around the library, looking for any sign of Andre and Ivy. But there's nothing."
-    "Tus ojos recorren la biblioteca en busca de alguna señal de Andre e Ivy. Pero no hay nada."
+    "Tus ojos recorren la biblioteca en busca de alguna señal de André e Ivy. Pero no hay nada."
 
 # game/code/Book-1/Chapter-7c/s01.rpy:441
 translate spanish b1c07cs01_9d75bfa3:
@@ -878,7 +878,7 @@ translate spanish b1c07cs01_a8252cbe:
 translate spanish b1c07cs01_6b32d9f4:
 
     # mct "I would've seen Andre and Ivy leave if they'd taken the main entrance..."
-    mct "Habría visto salir a Andre e Ivy si hubieran tomado la entrada principal..."
+    mct "Habría visto salir a André e Ivy si hubieran tomado la entrada principal..."
 
 # game/code/Book-1/Chapter-7c/s01.rpy:507
 translate spanish b1c07cs01_9b178051:
