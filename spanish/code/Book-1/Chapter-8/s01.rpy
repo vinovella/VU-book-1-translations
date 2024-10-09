@@ -242,7 +242,7 @@ translate spanish b1c08s01_end_f0943bb8:
 translate spanish b1c08s01_end_44ee717c:
 
     # pm "*Sighs* I've missed you too, Matthew. More than I'd like to admit."
-    pm "*Suspira* Yo también te extrañé, Matthew. Más de lo que me gustaría admitir."
+    pm "*Suspira* Yo también te he extrañado, Matthew. Más de lo que me gustaría admitir."
 
 # game/code/Book-1/Chapter-8/s01.rpy:252
 translate spanish b1c08s01_end_87327dc4:
@@ -374,7 +374,7 @@ translate spanish b1c08s01_recap_c06w_08580245:
 translate spanish b1c08s01_recap_c06w_dc85cdf7:
 
     # pm "Looks can be deceiving, Matthew. I hope you're not going easy on a pretty face."
-    pm "Las apariencias engañan, Matthew. Espero que no vayas tan fácil con una cara bonita."
+    pm "Las apariencias engañan, Matthew. Espero que no seas demasiado suave con una cara bonita."
 
 # game/code/Book-1/Chapter-8/s01.rpy:309
 translate spanish b1c08s01_recap_c06w_a53144d6:
