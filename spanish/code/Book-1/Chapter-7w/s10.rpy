@@ -110,7 +110,7 @@ translate spanish b1c07ws10_return_aca297a9:
 translate spanish b1c07ws10_return_9053d5b0:
 
     # mct "Her disappearance has to be connected to something that happened in the club then."
-    mct "Su desaparición tiene que estar relacionada con algo que sucedió entonces en el club."
+    mct "Su desaparición tiene que estar relacionada con algo que ocurrió ese día en el club."
 
 # game/code/Book-1/Chapter-7w/s10.rpy:174
 translate spanish b1c07ws10_return_d67cc149:
