@@ -176,7 +176,7 @@ translate spanish b1c07ws07_26a05b74:
 translate spanish b1c07ws07_74331247:
 
     # sdl "Freeing myself from you, and— You freeing yourself of me...it doesn't work. We are conjoined."
-    sdl "Liberándome de ti, y— Tú liberándote de mí... no funciona. Estamos unidas."
+    sdl "Liberándome de ti, y... Tú liberándote de mí... no funciona. Estamos unidas."
 
 # game/code/Book-1/Chapter-7w/s07.rpy:119
 translate spanish b1c07ws07_f4c01b94:
