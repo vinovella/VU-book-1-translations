@@ -56,7 +56,7 @@ translate spanish b1c08ss11_8e61c4b8:
 translate spanish b1c08ss11_23df9fbf:
 
     # mg "We're just a couple of stray mutts in a dog fight, right? Christ."
-    mg "Sólo somos un par de perros callejeros en una pelea de perros, ¿verdad? Cristo."
+    mg "Sólo somos un par de perros callejeros en una pelea de perros, ¿verdad? Por Dios."
 
 # game/code/Book-1/Chapter-8s/s11.rpy:77
 translate spanish b1c08ss11_13c940dc:
@@ -128,7 +128,7 @@ translate spanish b1c08ss11_c4c6d64d:
 translate spanish b1c08ss11_e55a582b:
 
     # mg "You wanted a sore body, and to be a part of a gang that barely gives a shit about you?"
-    mg "¿Querías tener el cuerpo dolorido y ser parte de una banda a la que apenas le importas?"
+    mg "¿Querías tener el cuerpo dolorido y ser parte de una pandilla a la que apenas le importas?"
 
 # game/code/Book-1/Chapter-8s/s11.rpy:103
 translate spanish b1c08ss11_40d2eecd:
@@ -422,7 +422,7 @@ translate spanish b1c08ss11_f97dd21c:
 translate spanish b1c08ss11_f6f49447:
 
     # mc "I know, I'm just...getting into it."
-    mc "Lo sé, sólo estoy... entrando en ello."
+    mc "Lo sé, sólo estoy... metiéndome en ello."
 
 # game/code/Book-1/Chapter-8s/s11.rpy:262
 translate spanish b1c08ss11_60936575:
@@ -1118,7 +1118,7 @@ translate spanish b1c08ss11_mg_sex_5293ddee:
 translate spanish b1c08ss11_mg_sex_4924cc68:
 
     # mg "Hah! As if."
-    mg "¡Ja! Como si."
+    mg "¡Ja! Como si lo estuvieras pensando."
 
 # game/code/Book-1/Chapter-8s/s11.rpy:679
 translate spanish b1c08ss11_mg_sex_bd96d7b7:
@@ -1136,7 +1136,7 @@ translate spanish b1c08ss11_mg_sex_b06e2b06:
 translate spanish b1c08ss11_mg_sex_0eee9592:
 
     # mg "Well, I should bounce, Rory's—"
-    mg "Bueno, debería rebotar, Rory..."
+    mg "Bueno, debería irme, Rory..."
 
 # game/code/Book-1/Chapter-8s/s11.rpy:698
 translate spanish b1c08ss11_mg_sex_d9bc6c78:
@@ -1154,7 +1154,7 @@ translate spanish b1c08ss11_mg_sex_4672250d:
 translate spanish b1c08ss11_mg_sex_f7acb05f:
 
     # "Morgan pats your cheek, trying to ground herself and you in the present moment."
-    "Morgan te da unas palmaditas en la mejilla, intentando conectarse contigo y a sí misma con el momento presente."
+    "Morgan te da unas palmaditas en la mejilla, intentando conectarse contigo y consigo misma en el momento presente."
 
 # game/code/Book-1/Chapter-8s/s11.rpy:705
 translate spanish b1c08ss11_mg_sex_8bb044e3:
