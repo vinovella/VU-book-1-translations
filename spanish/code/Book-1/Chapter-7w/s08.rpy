@@ -32,7 +32,7 @@ translate spanish b1c07ws08_19f43256:
 translate spanish b1c07ws08_b4041b27:
 
     # mct "A serial alcoholic in making."
-    mct "Una alcohólica en serie en ciernes."
+    mct "Un alcohólico en serie en proceso."
 
 # game/code/Book-1/Chapter-7w/s08.rpy:57
 translate spanish b1c07ws08_b49098b0:
@@ -104,7 +104,7 @@ translate spanish b1c07ws08_c0d3d8d4:
 translate spanish b1c07ws08_a51a1e0b:
 
     # mc "I think you have a fundamental misunderstanding of what therapy means."
-    mc "Creo que tienes un malentendido fundamental de lo que significa la terapia."
+    mc "Creo que tienes un profundo malentendido de lo que significa la terapia."
 
 # game/code/Book-1/Chapter-7w/s08.rpy:96
 translate spanish b1c07ws08_28a1bc91:
@@ -176,7 +176,7 @@ translate spanish b1c07ws08_1afff42e:
 translate spanish b1c07ws08_f5c8abbc:
 
     # "She falls with total confidence. Twirling mid-air to allow the water to encompass her from behind."
-    "Ella cae con total confianza. Girando en el aire para permitir que el agua la rodeara por detrás."
+    "Ella cae con total confianza. Girando en el aire para permitir que el agua la rodee por detrás."
 
 # game/code/Book-1/Chapter-7w/s08.rpy:141
 translate spanish b1c07ws08_f3060f75:
@@ -458,7 +458,7 @@ translate spanish b1c07ws08_2106564f:
 translate spanish b1c07ws08_26905dcf:
 
     # ima "I like the people here. We might not be all buddy-buddy all the time, but we still have a connection."
-    ima "Me gusta la gente de aquí. Puede que no seamos todos amigos-amigos todo el tiempo, pero aún tenemos una conexión."
+    ima "Me gusta la gente de aquí. Puede que no seamos todos buenos amigos todo el tiempo, pero aún tenemos una conexión."
 
 # game/code/Book-1/Chapter-7w/s08.rpy:289
 translate spanish b1c07ws08_3131e216:
@@ -612,7 +612,7 @@ translate spanish strings:
 
     # game/code/Book-1/Chapter-7w/s08.rpy:187
     old "What if I am?"
-    new "¿Qué pasa si lo soy?"
+    new "¿Qué pasa si lo estoy?"
 
     # game/code/Book-1/Chapter-7w/s08.rpy:187
     old "I think you've had too much to drink"
