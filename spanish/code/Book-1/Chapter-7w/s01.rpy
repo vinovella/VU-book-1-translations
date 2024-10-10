@@ -128,7 +128,7 @@ translate spanish b1c07ws01_9c44d1be:
 translate spanish b1c07ws01_b802d1fe:
 
     # mc "*Chuckles* I think that'd be a little more suited for an adult establishment over a volleyball field, Iona."
-    mc "*Risas* Creo que eso sería más adecuado para un establecimiento para adultos que para un campo de voleibol, Iona."
+    mc "*Risas* Creo que eso sería más adecuado para un establecimiento para adultos que para una cancha de voleibol, Iona."
 
 # game/code/Book-1/Chapter-7w/s01.rpy:125
 translate spanish b1c07ws01_089eb1e2:
@@ -230,7 +230,7 @@ translate spanish b1c07ws01_measurement_568d0f7b:
 translate spanish b1c07ws01_measurement_7ffc09c4:
 
     # sm "Alright. Please try it out."
-    sm "Está bien. Por favor, pruébalo."
+    sm "Está bien. Por favor, pruébatelo."
 
 # game/code/Book-1/Chapter-7w/s01.rpy:230
 translate spanish b1c07ws01_measurement_4ee46041:
@@ -242,7 +242,7 @@ translate spanish b1c07ws01_measurement_4ee46041:
 translate spanish b1c07ws01_measurement_6832f759:
 
     # ir "*Wolf whistles* Damn, sweet cheeks. You look {i}fine{/i} in that."
-    ir "*Silbidos de lobo* Maldita sea, mejillas dulces. Te ves {i}bien{/i} en eso."
+    ir "*Silbidos* Maldita sea, mejillas dulces. Te ves {i}bien{/i} en eso."
 
 # game/code/Book-1/Chapter-7w/s01.rpy:236
 translate spanish b1c07ws01_measurement_bfc1fa21:
