@@ -56,7 +56,7 @@ translate spanish b1c07ws06_dd533ef0:
 translate spanish b1c07ws06_fa39562b:
 
     # sm "Oh, well aren't you a hot shot now?"
-    sm "Oh, bueno, ¿no eres un buen tirador ahora?"
+    sm "Oh, bueno, ¿ahora no eres un pez gordo?"
 
 # game/code/Book-1/Chapter-7w/s06.rpy:74
 translate spanish b1c07ws06_22f59e75:
@@ -476,7 +476,7 @@ translate spanish b1c07ws06_121632a2:
 translate spanish b1c07ws06_245288d4:
 
     # mct "Andrejz? Is that the same Andre I'm thinking of?"
-    mct "¿Andrejz? ¿Es el mismo Andre en el que estoy pensando?"
+    mct "¿Andrejz? ¿Es el mismo André en el que estoy pensando?"
 
 # game/code/Book-1/Chapter-7w/s06.rpy:309
 translate spanish b1c07ws06_5f7e9b0d:
