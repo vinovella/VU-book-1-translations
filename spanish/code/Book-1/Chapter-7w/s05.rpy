@@ -98,7 +98,7 @@ translate spanish b1c07ws05_17dabcd7:
 translate spanish b1c07ws05_09108bed:
 
     # ba "Y'know what? Fuck all of you. If you wanna be buddy-buddy with that cunt, be my guest."
-    ba "¿Saben qué? Váyanse todos a la mierda. Si quieres ser amigos de este imbécil, adelante."
+    ba "¿Saben qué? Váyanse todos a la mierda. Si quieren ser amigos de este imbécil, adelante."
 
 # game/code/Book-1/Chapter-7w/s05.rpy:126
 translate spanish b1c07ws05_6a14a930:
@@ -188,7 +188,7 @@ translate spanish b1c07ws05_ae23eef4:
 translate spanish b1c07ws05_a687940b:
 
     # "Everyone in the group chuckles with an easy friendliness."
-    "Todos los miembros del grupo se ríen con facilidad."
+    "Todos los miembros del grupo se ríen amistosamente."
 
 # game/code/Book-1/Chapter-7w/s05.rpy:194
 translate spanish b1c07ws05_5af0cc3e:
