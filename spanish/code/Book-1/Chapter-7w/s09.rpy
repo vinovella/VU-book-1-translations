@@ -476,7 +476,7 @@ translate spanish b1c07ws09_bj_69fbcff6:
 translate spanish b1c07ws09_bj_9b772f3a:
 
     # "She clumsily gulps it all down, leaking from the sides of her mouth as she desperately tries to swallow all of it while licking and sucking your now softening shaft."
-    "Torpemente lo traga todo, goteando por los lados de su boca mientras trata desesperadamente de tragarlo todo mientras lame y chupa tu eje que ahora se está ablandando."
+    "Se lo traga todo torpemente, goteando por los lados de la boca mientras trata desesperadamente de tragárselo todo y, al mismo tiempo, lame y chupa tu pene, que ahora se está ablandando."
 
 # game/code/Book-1/Chapter-7w/s09.rpy:324
 translate spanish b1c07ws09_bj_79f2cacc:
