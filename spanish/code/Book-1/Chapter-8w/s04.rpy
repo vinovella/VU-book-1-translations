@@ -350,7 +350,7 @@ translate spanish b1c08ws04_sex_f99b2c51:
 translate spanish b1c08ws04_sex_5cdc5191:
 
     # "Monika slides her wetness on top of your shaft, pushing herself onto you as she grinds against you, rubbing her slick clit up and down the length of your hard cock."
-    "Monika desliza su humedad sobre tu pene, empujándose contra ti mientras se restriega contra ti, frotando su clítoris resbaladizo de arriba abajo a lo largo de tu dura polla."
+    "Mónica desliza su humedad sobre tu pene, empujándose contra ti mientras se restriega contra ti, frotando su clítoris resbaladizo de arriba abajo a lo largo de tu dura polla."
 
 # game/code/Book-1/Chapter-8w/s04.rpy:258
 translate spanish b1c08ws04_sex_68cced9d:
@@ -416,7 +416,7 @@ translate spanish b1c08ws04_sex_0c3355f1:
 translate spanish b1c08ws04_sex_245da889:
 
     # "You grab onto her and dig your fingers into her skin as you start to fuck her harder and faster, pushing her higher and higher until she's blissed out on top of you. She pushes back with every thrust, begging for your cum."
-    "La agarras y clavas tus dedos en su piel mientras comienzas a follarla más fuerte y más rápido, empujándola cada vez más alto hasta que esté feliz encima de ti. Ella empuja hacia atrás con cada embestida, rogando por tu semen."
+    "Te agarras a ella y le clavas los dedos en la piel mientras empiezas a follártela más fuerte y más rápido, empujándola cada vez más alto hasta que se desmaya encima de ti. Ella empuja hacia atrás con cada embestida, rogando por tu semen."
 
 # game/code/Book-1/Chapter-8w/s04.rpy:300
 translate spanish b1c08ws04_sex_e8c0777b:
