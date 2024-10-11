@@ -1124,7 +1124,7 @@ translate spanish b1c08ws02_facbf5ae:
 translate spanish b1c08ws02_91fcd0b7:
 
     # sa "Silvia, I assume we have more than one room, yes? How can we split it up?"
-    sa "Silvia, supongo que tenemos más de una habitación, ¿no? ¿Cómo podemos dividirlo?"
+    sa "Silvia, supongo que tenemos más de una habitación, ¿no? ¿Cómo podemos dividirla?"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:616
 translate spanish b1c08ws02_e6968ffd:
