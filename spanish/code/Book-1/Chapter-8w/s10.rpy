@@ -20,7 +20,7 @@ translate spanish b1c08ws10_94c5cc5d:
 translate spanish b1c08ws10_b7215c2f:
 
     # "Your fists clench instinctively, but you swallow the sharp retort that almost escapes your lips. It's crucial to maintain your cover, regardless of how difficult some might make it."
-    "Aprietas los puños instintivamente, pero te tragas la aguda respuesta que casi se escapa de tus labios. Es crucial mantener la cobertura, independientemente de lo difícil que algunos puedan hacerlo."
+    "Aprietas los puños instintivamente, pero te tragas la aguda respuesta que casi se escapa de tus labios. Es crucial mantener la tapadera, independientemente de lo difícil que algunos puedan hacerlo."
 
 # game/code/Book-1/Chapter-8w/s10.rpy:23
 translate spanish b1c08ws10_81e7e380:
@@ -38,7 +38,7 @@ translate spanish b1c08ws10_83c4559a:
 translate spanish b1c08ws10_7a0e5030:
 
     # mc "That means everything, {i}everything we all worked so hard for{/i}, would be gone in a second."
-    mc "Eso significa que todo, {i}todo por lo que trabajamos tan duro{/i}, desaparecería en un segundo."
+    mc "Eso significa que todo, {i}todo por lo que hemos trabajado tan duro{/i}, habría desaparecido en un segundo."
 
 # game/code/Book-1/Chapter-8w/s10.rpy:28
 translate spanish b1c08ws10_73a418f6:
@@ -86,7 +86,7 @@ translate spanish b1c08ws10_61b5aae3:
 translate spanish b1c08ws10_c4796f08:
 
     # mm "Look, yeah the match was disrupted, but we all had our moments."
-    mm "Mira, sí, el partido fue interrumpido, pero todos tuvimos nuestros momentos."
+    mm "Es cierto que el partido se interrumpió, pero todos tuvimos nuestros momentos."
 
 # game/code/Book-1/Chapter-8w/s10.rpy:43
 translate spanish b1c08ws10_230a5ce9:
@@ -272,7 +272,7 @@ translate spanish b1c08ws10_6fd93ff4:
 translate spanish b1c08ws10_bfa39521:
 
     # sm "Regardless of the drugs, we're a team. We have to work as a unit, and that means trusting each other and not being at each other's throats for every mistake."
-    sm "Independientemente de las drogas, somos un equipo. Tenemos que trabajar como una unidad, y eso significa confiar unos en otros y no estar a la altura de cada error."
+    sm "Independientemente de las drogas, somos un equipo. Tenemos que trabajar como una unidad, y eso significa confiar los unos en los otros y no estar echándonos la culpa de cada error."
 
 # game/code/Book-1/Chapter-8w/s10.rpy:130
 translate spanish b1c08ws10_105fc5f7:
@@ -350,7 +350,7 @@ translate spanish b1c08ws10_46c8112a:
 translate spanish b1c08ws10_c4e92b7f:
 
     # ba "Fine, meeting adjourned then."
-    ba "Bien, entonces se levantó la sesión."
+    ba "Bien, entonces se levanta la sesión."
 
 # game/code/Book-1/Chapter-8w/s10.rpy:166
 translate spanish b1c08ws10_eeabbe83:
@@ -392,7 +392,7 @@ translate spanish b1c08ws10_c54dfc3c:
 translate spanish b1c08ws10_6778327d:
 
     # "One by one, the team files out of the room, the atmosphere thick with a mix of relief and lingering tension."
-    "Uno por uno, el equipo sale de la habitación, la atmósfera está espesa con una mezcla de alivio y tensión persistente."
+    "Uno a uno, los miembros del equipo abandonan la habitación en un ambiente cargado de alivio y tensión."
 
 # game/code/Book-1/Chapter-8w/s10.rpy:79
 translate spanish b1c08ws10_777e1ea1:
