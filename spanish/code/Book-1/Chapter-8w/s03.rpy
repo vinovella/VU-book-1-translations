@@ -152,7 +152,7 @@ translate spanish b1c08ws03_fee7c9b4:
 translate spanish b1c08ws03_1e79854c:
 
     # sl "Cool. The CCCunts are apparently also bunking here, so be careful."
-    sl "Genial. Al parecer, los CCCunts también se alojan aquí, así que ten cuidado."
+    sl "Genial. Al parecer, las zorras de los CCC también se alojan aquí, así que ten cuidado."
 
 # game/code/Book-1/Chapter-8w/s03.rpy:101
 translate spanish b1c08ws03_71727b82:
