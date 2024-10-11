@@ -38,7 +38,7 @@ translate spanish b1c08ws11_5aa8eac9:
 translate spanish b1c08ws11_131cb34e:
 
     # "Silvia and Olesya, not wanting to listen to the bratty bickering of the team, go to unlock the mansion doors and start moving luggage inside."
-    "Silvia y Olesya, que no quieren escuchar las discusiones malcriadas del equipo, van a abrir las puertas de la mansión y comienzan a mover el equipaje hacia adentro."
+    "Silvia y Olesya, que no quieren escuchar las discusiones del equipo, van a abrir las puertas de la mansión y empiezan a llevar el equipaje al interior."
 
 # game/code/Book-1/Chapter-8w/s11.rpy:87
 translate spanish b1c08ws11_588fc319:
@@ -80,7 +80,7 @@ translate spanish b1c08ws11_47e2671a:
 translate spanish b1c08ws11_4c328375:
 
     # mct "I've just about had it with her bitchy attitude."
-    mct "Ya casi me harté de su actitud maliciosa."
+    mct "Estoy cansado de su actitud de mierda."
 
 # game/code/Book-1/Chapter-8w/s11.rpy:113
 translate spanish b1c08ws11_6e656600:
@@ -122,7 +122,7 @@ translate spanish b1c08ws11_fcf97dbc:
 translate spanish b1c08ws11_b1d78072:
 
     # "Your eyes meet Silvia's a couple of times as you work, but she seems lost in thought. She gives you a half-smile before returning to her task, her eyes clouded with something you can't quite place."
-    "Tus ojos se encuentran con los de Silvia un par de veces mientras trabajas, pero ella parece perdida en sus pensamientos. Ella te da una media sonrisa antes de regresar a su tarea, sus ojos se nublaron con algo que no puedes identificar."
+    "Tus ojos se cruzan con los ojos de Silvia un par de veces mientras trabajas, pero ella parece pérdida en sus pensamientos. Te dedica una sonrisa a medias antes de regresar a su tarea, con los ojos nublados por algo que no logras descifrar."
 
 # game/code/Book-1/Chapter-8w/s11.rpy:134
 translate spanish b1c08ws11_6ac21637:
@@ -458,7 +458,7 @@ translate spanish b1c08ws11_9536baab:
 translate spanish b1c08ws11_4976ee6e:
 
     # "Silvia's face is a portrait of pure bliss, every touch and movement a brushstroke on the canvas of your shared intimacy."
-    "El rostro de Silvia es un retrato de pura felicidad, cada toque y movimiento es una pincelada sobre el lienzo de vuestra intimidad compartida."
+    "El rostro de Silvia es un retrato de pura felicidad, cada caricia y cada movimiento una pincelada en el lienzo de su intimidad compartida."
 
 # game/code/Book-1/Chapter-8w/s11.rpy:329
 translate spanish b1c08ws11_1cb6c6e2:
@@ -542,7 +542,7 @@ translate spanish b1c08ws11_3e095316:
 translate spanish b1c08ws11_13fbea70:
 
     # "Lying in each other's arms, the atmosphere is one of absolute serenity. The room is filled with the soft glow of a bedside lamp, casting a warm light over the two of you."
-    "Acostados el uno en brazos del otro, el ambiente es de absoluta serenidad. La habitación se llena del suave resplandor de una lámpara de cabecera, que proyecta una cálida luz sobre los dos."
+    "Acostados el uno en los brazos del otro, el ambiente es de absoluta serenidad. La habitación se llena del suave resplandor de una lámpara de cabecera, que proyecta una cálida luz sobre los dos."
 
 # game/code/Book-1/Chapter-8w/s11.rpy:442
 translate spanish b1c08ws11_ce360f81:
@@ -668,7 +668,7 @@ translate spanish b1c08ws11_af5acc21:
 translate spanish b1c08ws11_1653df28:
 
     # "Your eyes finally close, giving in to the weight of exhaustion. As you drift off, Silvia's soft breathing lulls you further into sleep. For this brief moment, you allow yourself the luxury of peace and comfort."
-    "Tus ojos se cierran por fin, cediendo al peso del cansancio. Mientras te quedas dormido, la suave respiración de Silvia te adormece aún más. Durante este breve momento, te permites el lujo de la paz y la comodidad."
+    "Tus ojos se cierran por fin, cediendo al peso del cansancio. Mientras te quedas dormido, la suave respiración de Silvia te adormece aún más. Durante este breve momento, te permites el lujo de la paz y la tranquilidad."
 
 # game/code/Book-1/Chapter-8w/s11.rpy:501
 translate spanish b1c08ws11_924d5892:
