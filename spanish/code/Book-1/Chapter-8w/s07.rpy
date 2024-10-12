@@ -290,7 +290,7 @@ translate spanish b1c08ws07_6346df40:
 translate spanish b1c08ws07_da241500:
 
     # "One of the members you don't recognize returns the ball with a strong hit."
-    "Uno de los integrantes que no reconoces devuelve la pelota con un fuerte golpe."
+    "Uno de los miembros que no reconoces devuelve la pelota con un fuerte golpe."
 
 # game/code/Book-1/Chapter-8w/s07.rpy:220
 translate spanish b1c08ws07_b70c788e:
@@ -866,7 +866,7 @@ translate spanish b1c08ws07_02131a5f:
 translate spanish b1c08ws07_7c094662:
 
     # "And it doesn't help that the CCC doesn't hesitate at all to exploit every weakness."
-    "Y no ayuda que CCC no dude en explotar cada debilidad."
+    "Y no ayuda que los miembros del equipo CCC no duden en absoluto en explotar cualquier punto débil."
 
 # game/code/Book-1/Chapter-8w/s07.rpy:616
 translate spanish b1c08ws07_8fe1d54a:
@@ -902,7 +902,7 @@ translate spanish b1c08ws07_734298ec:
 translate spanish b1c08ws07_2b9eaa14:
 
     # "They try hard and get close, but the CCC takes their second set, and with the morale of The Winner's tarnished completely, the CCC takes their third set and wins the game as well."
-    "Se esfuerzan y se acercan, pero CCC se lleva su segundo set, y con la moral de Los Ganadores completamente empañada, CCC se lleva su tercer set y gana también el juego."
+    "Se esfuerzan y se acercan, pero el equipo CCC se lleva su segundo set, y con la moral de Los Ganadores completamente empañada, CCC se lleva su tercer set y gana también el juego."
 
 # game/code/Book-1/Chapter-8w/s07.rpy:642
 translate spanish b1c08ws07_df8cebad:
