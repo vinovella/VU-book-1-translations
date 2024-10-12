@@ -38,7 +38,7 @@ translate spanish b1c08ws09_b9b7f42c:
 translate spanish b1c08ws09_e5e4940f:
 
     # "She's standing near the edge of the rooftop, her focus lost in the distance."
-    "Ella está parada cerca del borde de la azotea, su concentración perdida en la distancia."
+    "Ella está de pie cerca del borde de la azotea, su atención perdida en la distancia."
 
 # game/code/Book-1/Chapter-8w/s09.rpy:33
 translate spanish b1c08ws09_9ccce985:
@@ -62,7 +62,7 @@ translate spanish b1c08ws09_334a54ca:
 translate spanish b1c08ws09_a03304df:
 
     # "Startled, Olesya whips around to face you. Her eyes widen when they meet yours. A complex swirl of emotions dance across her face before she grabs onto you."
-    "Sorprendida, Olesya se da vuelta para mirarte. Sus ojos se abren cuando se encuentran con los tuyos. Un complejo remolino de emociones baila en su rostro antes de agarrarte."
+    "Olesya se sobresalta y se gira para mirarte. Sus ojos se abren de par en par cuando se cruzan con los tuyos. Un complejo remolino de emociones baila por su rostro antes de aferrarse a ti."
 
 # game/code/Book-1/Chapter-8w/s09.rpy:46
 translate spanish b1c08ws09_a93c49e2:
