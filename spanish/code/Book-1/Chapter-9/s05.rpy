@@ -182,7 +182,7 @@ translate spanish b1c09s05_dm_take_control_09b29128:
 translate spanish b1c09s05_dm_take_control_f80d37de:
 
     # dm "Getting hard for me."
-    dm "Se está poniendo duro para mí."
+    dm "Se está poniendo dura para mí."
 
 # game/code/Book-1/Chapter-9/s05.rpy:198
 translate spanish b1c09s05_dm_take_control_23f65ba5:
