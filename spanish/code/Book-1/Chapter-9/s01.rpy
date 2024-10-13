@@ -14,7 +14,7 @@ translate spanish b1c09s01_6907467e:
 translate spanish b1c09s01_d589752a:
 
     # mct "{i}What the {b}fuck{/b}?{/i}"
-    mct "{i}¿Qué {b}mierda{/b}?{/i}"
+    mct "{i}{b}¿Qué mierda{/b}?{/i}"
 
 # game/code/Book-1/Chapter-9/s01.rpy:87
 translate spanish b1c09s01_647420b4:
