@@ -14,7 +14,7 @@ translate spanish b1c09s06_23fee738:
 translate spanish b1c09s06_a9ad00bd:
 
     # mct "Why else would they need a whole underground catacomb-like space?"
-    mct "¿ Si no para qué iban a necesitar todo un espacio subterráneo similar a una catacumba?"
+    mct "¿Si no para qué iban a necesitar todo un espacio subterráneo similar a una catacumba?"
 
 # game/code/Book-1/Chapter-9/s06.rpy:78
 translate spanish b1c09s06_b10e063b:
@@ -176,7 +176,7 @@ translate spanish b1c09s06_b6612422:
 translate spanish b1c09s06_658ddf0a:
 
     # "You put the letter and diary back where you found it, careful to cover up your tracks."
-    "Dejas la carta y el diario donde los encontraste, con cuidado de cubrir tus huellas."
+    "Dejas la carta y el diario donde los encontraste, teniendo cuidado de ocultar tus huellas."
 
 # game/code/Book-1/Chapter-9/s06.rpy:166
 translate spanish b1c09s06_7bd14985:
@@ -314,7 +314,7 @@ translate spanish b1c09s06_ij_arrives_8a3ee078:
 translate spanish b1c09s06_ij_arrives_f950f374:
 
     # ij "Oh. I'm sorry, I just thought..."
-    ij "Oh. Lo siento, solo pensé..."
+    ij "Oh. Lo siento, sólo pensé..."
 
 # game/code/Book-1/Chapter-9/s06.rpy:246
 translate spanish b1c09s06_ij_arrives_1dae2ef1:
@@ -692,7 +692,7 @@ translate spanish b1c09s06_be_bottom_7c2822c2:
 translate spanish b1c09s06_be_bottom_2f84ff14:
 
     # ij "Man, it's tiring being a top! I'm ready for a switch if you are."
-    ij "Tío, ¡es agotador ser un líder! Estoy lista para un cambio si tú lo estás."
+    ij "Hombre, ¡es agotador ser un líder! Estoy lista para un cambio si tú lo estás."
 
 # game/code/Book-1/Chapter-9/s06.rpy:498
 translate spanish b1c09s06_be_bottom_79de7289:
@@ -890,7 +890,7 @@ translate spanish b1c09s06_sex_end_17d05e01:
 translate spanish b1c09s06_sex_end_4ddd4e98:
 
     # mc "Even if they do, I dare them to prove anything."
-    mc "Aunque lo hagan, los desafío a que demuestren lo contrario."
+    mc "Aunque lo hagan, los desafío a que demuestren algo."
 
 # game/code/Book-1/Chapter-9/s06.rpy:667
 translate spanish b1c09s06_sex_end_b24c8051:
