@@ -716,7 +716,7 @@ translate spanish b1c09s04_continue_f438b571:
 translate spanish b1c09s04_continue_c2e64d5e:
 
     # rh "I'll carry it around, just like you want."
-    rh "Lo llevaré contigo, como quieras."
+    rh "Lo llevaré por ahí, tal como tú quieres."
 
 # game/code/Book-1/Chapter-9/s04.rpy:543
 translate spanish b1c09s04_continue_2bf871cd:
