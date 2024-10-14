@@ -194,7 +194,7 @@ translate spanish replay_b1c09s09w_8deec457:
 translate spanish replay_b1c09s09w_a1587353:
 
     # sl "Please. Like you could {i}afford{/i} a BBL."
-    sl "Por favor. Como si pudieras {i}permitirte{/i} una BBL."
+    sl "Por favor. Como si pudieras {i}permitirte{/i} un levantamiento de glúteos brasileño."
 
 # game/code/Book-1/Chapter-9/s09w.rpy:138
 translate spanish replay_b1c09s09w_f5a66e35:
@@ -380,7 +380,7 @@ translate spanish b1c09s09w_ima_show_25d89014:
 translate spanish b1c09s09w_ima_show_571d8805:
 
     # mct "I guess it's a good thing that I'm gonna throw the competition so that Olesya doesn't have to get thrown in the pool."
-    mct "Supongo que es bueno que abandone la competencia para que Olesya no tenga que ser arrojada a la piscina."
+    mct "Supongo que es bueno que yo decida competir para que Olesya no tenga que tirarse a la piscina."
 
 # game/code/Book-1/Chapter-9/s09w.rpy:304
 translate spanish b1c09s09w_ima_show_fc77f8db:
