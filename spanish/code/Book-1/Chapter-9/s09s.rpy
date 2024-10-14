@@ -242,7 +242,7 @@ translate spanish b1c09s09s_tf_available_f207d5e2:
 translate spanish b1c09s09s_tf_available_c2d1fc84:
 
     # ffl "But it was the roughest on Zem. I know it's hard on her, taking over the debts."
-    ffl "Pero fue lo más duro para Zem. Sé que es duro para ella hacerse cargo de las deudas."
+    ffl "Pero fue más duro para Zem. Sé que es duro para ella hacerse cargo de las deudas."
 
 # game/code/Book-1/Chapter-9/s09s.rpy:211
 translate spanish b1c09s09s_tf_available_bbf5b371:
@@ -386,7 +386,7 @@ translate spanish b1c09s09s_tf_available_d44c0497:
 translate spanish b1c09s09s_tf_available_3e9afc4c:
 
     # ffl "Leia developed a pretty heavy drinking habit to cope with some of the stress. Though, I think she also just liked to drink."
-    ffl "Leia desarrolló un hábito bastante excesivo de beber para afrontar parte del estrés. Aunque creo que a ella también le gustaba beber."
+    ffl "Leia desarrolló un hábito de beber bastante fuerte para sobrellevar parte del estrés. Aunque creo que también le gustaba beber."
 
 # game/code/Book-1/Chapter-9/s09s.rpy:268
 translate spanish b1c09s09s_tf_available_eb3c3e3e:
@@ -890,7 +890,7 @@ translate spanish b1c09s09s_with_zp_8b0e7e6d:
 translate spanish b1c09s09s_with_zp_339643b6:
 
     # mc "Would now be a good time to ask for my shirt back?"
-    mc "¿Sería ahora un buen momento para pedir que me devuelvan la camisa?"
+    mc "¿Sería ahora un buen momento para pedir que me devuelvas la camisa?"
 
 # game/code/Book-1/Chapter-9/s09s.rpy:627
 translate spanish b1c09s09s_with_zp_8f367de3:
@@ -962,7 +962,7 @@ translate spanish b1c09s09s_with_zp_f19953b8:
 translate spanish b1c09s09s_with_zp_b883b5c0:
 
     # zp "I want you. I wan—"
-    zp "Te deseo a ti. Quiero..."
+    zp "Te quiero a ti. Quiero..."
 
 # game/code/Book-1/Chapter-9/s09s.rpy:690
 translate spanish b1c09s09s_with_zp_977c1d33:
@@ -980,7 +980,7 @@ translate spanish b1c09s09s_with_zp_7cf02626:
 translate spanish b1c09s09s_with_zp_da942c35:
 
     # zp "Ugh! You're right, you're right."
-    zp "¡Puaj! Tienes razón, tienes razón."
+    zp "¡Uf! Tienes razón, tienes razón."
 
 # game/code/Book-1/Chapter-9/s09s.rpy:695
 translate spanish b1c09s09s_with_zp_725d5f71:
