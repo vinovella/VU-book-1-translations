@@ -212,7 +212,7 @@ translate spanish b1c09s08_no_gn_4f481c87:
 translate spanish b1c09s08_no_gn_2aa364e4:
 
     # gn "Hah! I told you he wouldn't go for it. Fucking limpdick. Have fun with {i}that one{/i}, Foxy."
-    gn "¡Ja! Te dije que no lo aceptaría. Maldita polla fláccida. Diviértete con {i}eso{/i}, Foxy."
+    gn "¡Ja! Te dije que no aceptaría. Maldita polla fláccida. Diviértete con {i}eso{/i}, Foxy."
 
 # game/code/Book-1/Chapter-9/s08.rpy:194
 translate spanish b1c09s08_no_gn_c857021a:
@@ -506,7 +506,7 @@ translate spanish b1c09s08_gn_watching_d8e678ca:
 translate spanish b1c09s08_gn_watching_400ab06c:
 
     # mc "B-both of you."
-    mc "U-ustedes dos."
+    mc "L-Las caras de ambas."
 
 # game/code/Book-1/Chapter-9/s08.rpy:507
 translate spanish b1c09s08_gn_watching_9b37fd9b:
@@ -620,7 +620,7 @@ translate spanish b1c09s08_gn_watching_604c0520:
 translate spanish b1c09s08_gn_watching_27add239:
 
     # fox "I like to keep myself ready for the unexpected. You never know when a moment like this might come along."
-    fox "Me gusta mantenerme preparada para lo inesperado. Nunca se sabe cuándo podría llegar un momento como este."
+    fox "Me gusta estar preparada para lo inesperado. Nunca se sabe cuándo puede llegar un momento así."
 
 # game/code/Book-1/Chapter-9/s08.rpy:593
 translate spanish b1c09s08_gn_watching_a72ca71f:
@@ -704,7 +704,7 @@ translate spanish b1c09s08_after_sex_b931c4bf:
 translate spanish b1c09s08_after_sex_989bf3d9:
 
     # mct "I just didn't know she was buddy-buddy enough with The Syndicate to access the staff rooms."
-    mct "Simplemente no sabía que ella era lo suficientemente amiga de El Sindicato como para acceder a las salas de profesores."
+    mct "Simplemente no sabía que ella era lo suficientemente amiga de El Sindicato como para acceder a las salas del personal."
 
 # game/code/Book-1/Chapter-9/s08.rpy:652
 translate spanish b1c09s08_after_sex_56d32d53:
