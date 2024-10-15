@@ -440,7 +440,7 @@ translate spanish b1c09s10_naked_run_5e3b62fd:
 translate spanish b1c09s10_naked_run_d175b6c2:
 
     # ba "Well I. Fucking. Won't."
-    ba "Bueno yo. Joder. No."
+    ba "Bueno, yo no lo haré."
 
 # game/code/Book-1/Chapter-9/s10.rpy:398
 translate spanish b1c09s10_naked_run_5c000877:
@@ -506,7 +506,7 @@ translate spanish b1c09s10_naked_run_7cb2c7d2:
 translate spanish b1c09s10_naked_run_f12b8e05:
 
     # "You throw Brig over your shoulder. She lets out a little squeal of rage, immediately tense and angry in your grasp."
-    "Arrojas a Brig por encima del hombro. Ella suelta un pequeño chillido de rabia, inmediatamente tensa y furiosa en tus garras."
+    "Te arrojas a Brig por encima del hombro. Ella suelta un pequeño chillido de rabia, inmediatamente tensa y furiosa en tus garras."
 
 # game/code/Book-1/Chapter-9/s10.rpy:477
 translate spanish b1c09s10_naked_run_60555b85:
@@ -536,7 +536,7 @@ translate spanish b1c09s10_naked_run_8446841d:
 translate spanish b1c09s10_naked_run_88d57ff0:
 
     # "Her muscled thighs and strong core make it difficult to stay balanced as you traverse the stairs."
-    "Sus muslos musculosos y su núcleo fuerte hacen que sea difícil mantener el equilibrio al bajar las escaleras."
+    "Sus musculosos muslos y su fuerte abdomen hacen que sea difícil mantener el equilibrio al bajar las escaleras."
 
 # game/code/Book-1/Chapter-9/s10.rpy:488
 translate spanish b1c09s10_naked_run_57457742:
@@ -584,13 +584,13 @@ translate spanish b1c09s10_naked_run_547dc7f7:
 translate spanish b1c09s10_naked_run_d925791b:
 
     # "You all laugh it off."
-    "Todos ustedes se ríen."
+    "Todos se ríen."
 
 # game/code/Book-1/Chapter-9/s10.rpy:529
 translate spanish b1c09s10_naked_run_290ad3c2:
 
     # ima "Let's streak around the pool. Ready?"
-    ima "Vamos a correr alrededor de la piscina. ¿Listo?"
+    ima "Vamos a correr alrededor de la piscina. ¿Listos?"
 
 # game/code/Book-1/Chapter-9/s10.rpy:531
 translate spanish b1c09s10_naked_run_375eaefd:
@@ -602,7 +602,7 @@ translate spanish b1c09s10_naked_run_375eaefd:
 translate spanish b1c09s10_naked_run_4454862b:
 
     # "You run freely with Iona, reveling in the exhilarating act."
-    "Corres libremente con Iona, deleitándote con el emocionante acto."
+    "Corres libremente con Iona, deleitándote con el emocionante espectáculo."
 
 # game/code/Book-1/Chapter-9/s10.rpy:566
 translate spanish b1c09s10_naked_run_db08e8bc:
@@ -860,7 +860,7 @@ translate spanish b1c09s10_ir_sex_68848fed:
 translate spanish b1c09s10_ir_sex_6c1a2b68:
 
     # ir "It feels so dirty yet exhilarating."
-    ir "Se siente tan sucio pero estimulante."
+    ir "Se siente tan sucio y a la vez estimulante."
 
 # game/code/Book-1/Chapter-9/s10.rpy:777
 translate spanish b1c09s10_ir_sex_35216061:
@@ -896,7 +896,7 @@ translate spanish b1c09s10_ir_sex_d0842aa6:
 translate spanish b1c09s10_ir_sex_331d17b6:
 
     # ir "Maybe next time."
-    ir "Quizá la próxima vez."
+    ir "Quizás la próxima vez."
 
 # game/code/Book-1/Chapter-9/s10.rpy:796
 translate spanish b1c09s10_ir_sex_87e26eb2:
@@ -958,7 +958,7 @@ translate spanish strings:
 
     # game/code/Book-1/Chapter-9/s10.rpy:127
     old "What if I do want to see you both?"
-    new "¿Qué pasa si quiero verlas a ambas?"
+    new "¿Qué pasa si quiero verlas a las dos?"
 
     # game/code/Book-1/Chapter-9/s10.rpy:420
     old "Talk with your body"
