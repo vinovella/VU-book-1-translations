@@ -44,7 +44,7 @@ translate spanish b1c09s12_06566a8d:
 translate spanish b1c09s12_00f0a3f0:
 
     # ffl "Seat taken, mon ami?"
-    ffl "¿Asiento ocupado, amigo mío?"
+    ffl "¿Asiento ocupado, mon ami (amigo mío)?"
 
 # game/code/Book-1/Chapter-9/s12.rpy:101
 translate spanish b1c09s12_50ecbcd9:
@@ -932,7 +932,7 @@ translate spanish b1c09s12_sex_161f86a4:
 translate spanish b1c09s12_sex_0db00b52:
 
     # mc "You did so well, my little flower blossom."
-    mc "Lo hiciste muy bien, mi pequeña flor."
+    mc "Lo hiciste muy bien, mi florecilla."
 
 # game/code/Book-1/Chapter-9/s12.rpy:614
 translate spanish b1c09s12_sex_273fa2d0:
