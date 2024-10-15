@@ -374,7 +374,7 @@ translate spanish b1c09s11_dk_sex_265ff933:
 translate spanish b1c09s11_dk_sex_fb1bfb2f:
 
     # dk "*Voice quivers* F-fuck."
-    dk "*La voz tiembla* J-Joder."
+    dk "*Voz temblorosa* J-Joder."
 
 # game/code/Book-1/Chapter-9/s11.rpy:327
 translate spanish b1c09s11_dk_sex_46de485b:
@@ -692,7 +692,7 @@ translate spanish b1c09s11_dk_sex_2b35a5ab:
 translate spanish b1c09s11_dk_sex_78e3f661:
 
     # dk "Keep you {i}all{/i} to myself."
-    dk "Mantengo {i}todo{/i} para mí."
+    dk "Te marqué {i}todo{/i} para mí."
 
 # game/code/Book-1/Chapter-9/s11.rpy:512
 translate spanish b1c09s11_dk_sex_5a644273:
@@ -770,7 +770,7 @@ translate spanish b1c09s11_more_watersports_62870fd7:
 translate spanish b1c09s11_more_watersports_1f166002:
 
     # mc "*Smirks* It's only fair I return the favor."
-    mc "*Sonríe* Es justo que le devuelva el favor."
+    mc "*Sonríe* Es justo que te devuelva el favor."
 
 # game/code/Book-1/Chapter-9/s11.rpy:551
 translate spanish b1c09s11_more_watersports_25acae1b:
