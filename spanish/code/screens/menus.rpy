@@ -18,11 +18,11 @@ translate spanish strings:
 
     # game/code/screens/menus.rpy:24
     old "Q.SAVE"
-    new "Q.GUARDAR"
+    new "GUARDADO RÁPIDO"
 
     # game/code/screens/menus.rpy:25
     old "Q.LOAD"
-    new "Q.CARGAR"
+    new "CARGADO RÁPIDO"
 
     # game/code/screens/menus.rpy:26
     old "PREFS"
@@ -110,5 +110,5 @@ translate spanish strings:
 
     # game/code/screens/menus.rpy:307
     old "Buy Taboo University on Steam"
-    new "Añade Taboo University a tu comprar en Steam"
+    new "Compra Taboo University en Steam"
 
