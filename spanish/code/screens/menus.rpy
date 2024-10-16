@@ -74,7 +74,7 @@ translate spanish strings:
 
     # game/code/screens/menus.rpy:620
     old "Manage your saves for Book 2"
-    new "Gestiona tus archivos guardados para el Libro 2"
+    new "Guardar para libro 2"
 
     # game/code/screens/menus.rpy:817
     old "Dialogue Box Opacity"
