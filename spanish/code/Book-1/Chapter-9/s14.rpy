@@ -350,7 +350,7 @@ translate spanish b1c09s14_649bc55e:
 translate spanish b1c09s14_4536d0f5:
 
     # zp "It's all about the optics. Can't have all the precious donations dry up now. Gotta make sure all the gullible-ass parents keep the money rolling."
-    zp "Se trata de la óptica. No podemos dejar que todas las preciosas donaciones se agoten ahora. Tengo que asegurarme de que todos los padres crédulos sigan con el dinero."
+    zp "Se trata de la óptica. No puede ser que todas las donaciones se terminen ahora. Hay que asegurarse de que todos los padres ingenuos sigan aportando dinero."
 
 # game/code/Book-1/Chapter-9/s14.rpy:194
 translate spanish b1c09s14_c396ad03:
@@ -404,7 +404,7 @@ translate spanish b1c09s14_fc351676:
 translate spanish b1c09s14_fe0e8b94:
 
     # nv "Not even just people, animals, bugs even."
-    nv "No solo con personas, animales, e incluso insectos."
+    nv "No solo a la gente, a los animales, incluso a los insectos."
 
 # game/code/Book-1/Chapter-9/s14.rpy:210
 translate spanish b1c09s14_a63e932b:
@@ -452,7 +452,7 @@ translate spanish b1c09s14_be425dce:
 translate spanish b1c09s14_bbb4eef5:
 
     # zp "She was a hardass is what she was. I felt like my damn legs were gonna fall off when I tried out for the volleyball team way back."
-    zp "Ella era dura, eso es lo que era. Sentí como si se me fueran a caer las malditas piernas cuando hice la prueba para el equipo de voleibol hace tiempo."
+    zp "Ella era una chica dura, eso es lo que era. Sentí como si se me fueran a caer las malditas piernas cuando hice la prueba para el equipo de voleibol hace tiempo."
 
 # game/code/Book-1/Chapter-9/s14.rpy:228
 translate spanish b1c09s14_59af76e2:
@@ -476,7 +476,7 @@ translate spanish b1c09s14_375d84c4:
 translate spanish b1c09s14_63ff3260:
 
     # sm "All things I wanted for myself, but I just...didn't really allow myself to believe that I could. Not truly anyway."
-    sm "Todas las cosas que quería para mí, pero simplemente... realmente no me permitía creer que podía. Al menos no del todo."
+    sm "Todas son cosas que quería para mí, pero... no me permitía creer que podía. Al menos no realmente."
 
 # game/code/Book-1/Chapter-9/s14.rpy:236
 translate spanish b1c09s14_bc6e6603:
@@ -536,7 +536,7 @@ translate spanish b1c09s14_c6b4269f:
 translate spanish b1c09s14_bccebb1e:
 
     # sm "Here's to the girls getting back safe and sound."
-    sm "Por que las chicas regresen sanas y salvas."
+    sm "Brindo por que las chicas regresen sanas y salvas."
 
 # game/code/Book-1/Chapter-9/s14.rpy:264
 translate spanish b1c09s14_636bd628:
@@ -602,7 +602,7 @@ translate spanish b1c09s14_722f424f:
 translate spanish b1c09s14_2f7ffbf9:
 
     # nv "Thank you. I'd like to hang out like this again though."
-    nv "Gracias. Aunque me gustaría volver a pasar el rato juntos de esta manera."
+    nv "Gracias. Aunque me gustaría volver a pasar el rato de esta manera."
 
 # game/code/Book-1/Chapter-9/s14.rpy:301
 translate spanish b1c09s14_12a31d8f:
@@ -632,7 +632,7 @@ translate spanish b1c09s14_eb471459:
 translate spanish b1c09s14_222694eb:
 
     # zp "'Cause I plan on going tonight till I pass out or the sun's up, whichever comes first."
-    zp "Porque planeo ir esta noche hasta que me desmaye o salga el sol, lo que ocurra primero."
+    zp "Porque planeo continuar esta noche hasta que me desmaye o salga el sol, lo que ocurra primero."
 
 # game/code/Book-1/Chapter-9/s14.rpy:318
 translate spanish b1c09s14_633fefd1:
