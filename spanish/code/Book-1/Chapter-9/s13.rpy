@@ -92,7 +92,7 @@ translate spanish b1c09s13_jh_lw_466d8d80:
 translate spanish b1c09s13_jh_lw_311db3b5:
 
     # oa "*Giggles* Yeah. Isa, our party planner, decided to go with some more...let's say {i}risque{/i} clothing options for the servers she hired."
-    oa "*Risas* Sí. Isa, nuestra organizadora de fiestas, decidió optar por algunas opciones de ropa más... digamos {i}arriesgadas{/i} para las camareras que contrató."
+    oa "*Risas* Sí. Isa, nuestra organizadora de fiestas, decidió optar por algunas opciones de ropa digamos... más {i}arriesgadas{/i} para las camareras que contrató."
 
 # game/code/Book-1/Chapter-9/s13.rpy:90
 translate spanish b1c09s13_jh_lw_56943909:
@@ -248,7 +248,7 @@ translate spanish b1c09s13_jh_lw_27684712:
 translate spanish b1c09s13_jh_lw_24d0342f:
 
     # lw "What! I have never said that, blasphemer."
-    lw "¡Qué! Nunca he dicho eso, blasfemo."
+    lw "¡Qué! Nunca he dicho eso, blasfema."
 
 # game/code/Book-1/Chapter-9/s13.rpy:165
 translate spanish b1c09s13_jh_lw_969e080f:
@@ -482,7 +482,7 @@ translate spanish b1c09s13_jh_lw_fc728362:
 translate spanish b1c09s13_jh_lw_f4ad4b6a:
 
     # lw "*Laughs* Damn. Girlie just {i}cannot{/i} catch a break."
-    lw "*Risas* Maldita sea. La chica simplemente {i}no{/i} puede tomar un descanso."
+    lw "*Risas* Maldita sea. La chica simplemente {i}no{/i} puede tener un descanso."
 
 # game/code/Book-1/Chapter-9/s13.rpy:297
 translate spanish b1c09s13_jh_lw_11e4bea2:
@@ -686,7 +686,7 @@ translate spanish b1c09s13_jh_de9094d5:
 translate spanish b1c09s13_jh_71bd1f68:
 
     # mct "Oh, it's Josie. It's so late, I didn't think she'd come."
-    mct "Ah, es Josie. Es tan tarde que no pensé que vendría."
+    mct "Oh, es Josie. Es tan tarde, no pensé que vendría."
 
 # game/code/Book-1/Chapter-9/s13.rpy:395
 translate spanish b1c09s13_jh_e38431b7:
@@ -704,13 +704,13 @@ translate spanish b1c09s13_jh_7defd3b7:
 translate spanish b1c09s13_jh_e05aba1c:
 
     # oa "I'm so glad you could make it! Did Lara not wanna come?"
-    oa "¡Me alegro mucho que hayas podido venir! ¿Lara no quería venir?"
+    oa "¡Me alegro de que hayas podido venir! ¿Lara no quiso venir?"
 
 # game/code/Book-1/Chapter-9/s13.rpy:404
 translate spanish b1c09s13_jh_f07049d5:
 
     # jh "Yeah, she...wasn't really feeling up for such a big party."
-    jh "Sí, ella... no se sentía con ganas de una fiesta tan grande."
+    jh "Sí, ella... no se sentía con ánimos para una fiesta tan grande."
 
 # game/code/Book-1/Chapter-9/s13.rpy:405
 translate spanish b1c09s13_jh_16cca1cd:
@@ -836,7 +836,7 @@ translate spanish b1c09s13_jh_89413d8b:
 translate spanish b1c09s13_jh_0cd521f9:
 
     # mc "Nothing to be sorry about."
-    mc "No hay nada de qué lamentarse."
+    mc "No hay nada de qué disculparse."
 
 # game/code/Book-1/Chapter-9/s13.rpy:481
 translate spanish b1c09s13_jh_1d15ad41:
@@ -932,7 +932,7 @@ translate spanish b1c09s13_jh_2afc4eb9:
 translate spanish b1c09s13_jh_bc4f4240:
 
     # mc "Y'know, you can head out of here whenever you'd like. No need to stick around if you're not feeling it."
-    mc "Ya sabes, puedes irte de aquí cuando quieras. No hace falta que te quedes si no te sientes bien."
+    mc "Ya sabes, puedes irte de aquí cuando quieras. No hace falta que te quedes si no te sientes cómoda."
 
 # game/code/Book-1/Chapter-9/s13.rpy:528
 translate spanish b1c09s13_jh_e493aab1:
@@ -944,7 +944,7 @@ translate spanish b1c09s13_jh_e493aab1:
 translate spanish b1c09s13_jh_dcbd11f0:
 
     # mc "I get that, but Olesya is your friend. She'd understand if you really weren't feeling it."
-    mc "Lo entiendo, pero Olesya es tu amiga. Ella lo entendería si realmente no lo sintieras."
+    mc "Lo entiendo, pero Olesya es tu amiga. Ella lo entendería si realmente no te sintieras cómoda."
 
 # game/code/Book-1/Chapter-9/s13.rpy:532
 translate spanish b1c09s13_jh_09bced48:
@@ -974,7 +974,7 @@ translate spanish b1c09s13_jh_e7741c72:
 translate spanish b1c09s13_jh_79b78411:
 
     # jh "That's really sweet of you, but I should probably go find Olesya first and let her know I'm heading out."
-    jh "Es muy amable de tu parte, pero probablemente debería ir a buscar a Olesya primero y avisarle que me voy."
+    jh "Eso es muy dulce de tu parte, pero probablemente debería ir a buscar a Olesya primero y decirle que me voy."
 
 # game/code/Book-1/Chapter-9/s13.rpy:542
 translate spanish b1c09s13_jh_62cda82c:
