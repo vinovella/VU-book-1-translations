@@ -22,11 +22,11 @@ translate spanish strings:
 
     # game/code/screens/save_screens.rpy:152
     old "Upload Saves"
-    new "Subir archivos guardados"
+    new "Subir archivos guardados."
 
     # game/code/screens/save_screens.rpy:156
     old "Download Saves"
-    new "Descargar archivos guardados"
+    new "Descargar archivos guardados."
 
     # game/code/screens/save_screens.rpy:28
     old "{color=#d18fe7}Taboo University Book One{/color} ends here"
