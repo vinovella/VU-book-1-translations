@@ -18,11 +18,11 @@ translate spanish strings:
 
     # game/code/screens/menus.rpy:24
     old "Q.SAVE"
-    new "Q.GUARDAR"
+    new "GUARDADO RÁPIDO"
 
     # game/code/screens/menus.rpy:25
     old "Q.LOAD"
-    new "Q.CARGAR"
+    new "CARGADO RÁPIDO"
 
     # game/code/screens/menus.rpy:26
     old "PREFS"
@@ -74,7 +74,7 @@ translate spanish strings:
 
     # game/code/screens/menus.rpy:620
     old "Manage your saves for Book 2"
-    new "Guardar para libro 2"
+    new "Gestiona tus archivos guardados para el Libro 2"
 
     # game/code/screens/menus.rpy:817
     old "Dialogue Box Opacity"
@@ -110,5 +110,5 @@ translate spanish strings:
 
     # game/code/screens/menus.rpy:307
     old "Buy Taboo University on Steam"
-    new "Añade Taboo University a tu comprar en Steam"
+    new "Compra Taboo University en Steam"
 
