@@ -2,7 +2,7 @@
 translate spanish b1c09s15_1211ed37:
 
     # "The room is quiet for a moment, the atmosphere still heavy with the echo of the somber discussion and the heartfelt toast."
-    "La habitación se queda en silencio por un momento, la atmósfera aún está cargada con el eco de la sombría discusión y el sincero brindis."
+    "La habitación se queda en silencio por un momento, el ambiente sigue cargado con el eco de la sombría discusión y el emotivo brindis."
 
 # game/code/Book-1/Chapter-9/s15.rpy:209
 translate spanish b1c09s15_bb40bb8d:
@@ -104,7 +104,7 @@ translate spanish b1c09s15_4c8256dd:
 translate spanish b1c09s15_bc6aa8ea:
 
     # "[c2.name!t] pours the first round, the harsh liquid stings your nose as it sloshes into the glasses with a promise of temporary forgetfulness."
-    "[c2.name!t] vierte la primera ronda, el líquido áspero te pica la nariz mientras se derrama en los vasos con una promesa de olvido temporal."
+    "[c2.name!t]  sirve la primera ronda, el líquido áspero pica en la nariz mientras se derrama en los vasos como promesa de un olvido temporal."
 
 # game/code/Book-1/Chapter-9/s15.rpy:291
 translate spanish b1c09s15_adb780de:
@@ -530,7 +530,7 @@ translate spanish b1c09s15_sex_karaoke_end_e989ff11:
 translate spanish b1c09s15_sex_karaoke_end_0c83a716:
 
     # "[c2.name!t] stands and regains her composure with a coy smile as her blush deepens."
-    "[c2.name!t] se pone de pie y recupera la compostura con una sonrisa tímida mientras su sonrojo se intensifica."
+    "[c2.name!t] se pone de pies y recupera la compostura con una sonrisa tímida mientras sus mejillas coloradas se ponen más rojas."
 
 # game/code/Book-1/Chapter-9/s15.rpy:704
 translate spanish b1c09s15_sex_karaoke_end_3b177bc9:
@@ -584,7 +584,7 @@ translate spanish b1c09s15_sex_karaoke_end_fe3c76f4:
 translate spanish b1c09s15_sex_karaoke_end_2ad4a654:
 
     # c2 "It does, doesn't it? Our own little world."
-    c2 "Lo hace, ¿no? Nuestro pequeño mundo."
+    c2 "Sí, ¿verdad? Es nuestro pequeño mundo."
 
 # game/code/Book-1/Chapter-9/s15.rpy:742
 translate spanish b1c09s15_sex_karaoke_end_86d89879:
@@ -650,7 +650,7 @@ translate spanish b1c09s15_sex_karaoke_end_db2ca792:
 translate spanish b1c09s15_sex_karaoke_end_394e7cfd:
 
     # "While [c1.name!t] focuses her attention on your shaft and tip, lapping up your precum and overwhelming your senses."
-    "Mientras que [c1.name!t] centra su atención en tu eje y tu punta, lamiendo tu líquido preseminal y abrumando tus sentidos."
+    "Mientras que [c1.name!t] centra su atención en tu pene y tu punta, lamiendo tu líquido preseminal y abrumando tus sentidos."
 
 # game/code/Book-1/Chapter-9/s15.rpy:814
 translate spanish b1c09s15_sex_karaoke_end_3d65359c:
@@ -728,7 +728,7 @@ translate spanish b1c09s15_sex_karaoke_end_38f95b76:
 translate spanish b1c09s15_sex_karaoke_end_ad9b86dd:
 
     # "The warmth and wetness of their mouths combined with the gentle scrape of their teeth against your skin makes you feel ravenous."
-    "El calor y la humedad de sus bocas combinados con el suave roce de sus dientes contra tu piel te hacen sentir hambriento."
+    "El calor y la humedad de sus bocas, combinados con el suave roce de sus dientes contra tu piel, te hacen sentir hambriento."
 
 # game/code/Book-1/Chapter-9/s15.rpy:913
 translate spanish b1c09s15_sex_karaoke_end_33aafbcd:
@@ -782,7 +782,7 @@ translate spanish b1c09s15_sex_karaoke_end_f548a597:
 translate spanish b1c09s15_sex_karaoke_end_ae674f06:
 
     # "Her breasts bounce in time with her movements, her eyes locked in ecstacy as she grinds her clit on you with every thrust."
-    "Sus pechos rebotan al ritmo de sus movimientos, sus ojos fijos en éxtasis mientras aprieta su clítoris contra ti con cada embestida."
+    "Sus pechos rebotan al ritmo de sus movimientos, sus ojos fijos en éxtasis mientras te aprieta con su clítoris con cada embestida."
 
 # game/code/Book-1/Chapter-9/s15.rpy:1022
 translate spanish b1c09s15_sex_karaoke_end_d8648dcd:
@@ -830,7 +830,7 @@ translate spanish b1c09s15_sex_karaoke_end_385f7868:
 translate spanish b1c09s15_sex_karaoke_end_f91fd6bf:
 
     # "Their scents mingle in the air, [c2.name!t]'s juices mix on your tongue as they both moan above you."
-    "Sus aromas se mezclan en el aire, los jugos de [c2.name!t] se mezclan en tu lengua mientras ambas gimen sobre ti."
+    "Sus aromas se mezclan en el aire, los jugos de [c2.name!t] se mezclan en tu lengua mientras las dos gimen sobre ti."
 
 # game/code/Book-1/Chapter-9/s15.rpy:1112
 translate spanish b1c09s15_sex_karaoke_end_ffa41ca8:
