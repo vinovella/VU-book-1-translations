@@ -1,117 +1,97 @@
-﻿
 # game/code/Book-1/Chapter-6w/s05.rpy:31
 translate french b1c06ws05_859a4eec:
-
     # mct "Jesus!"
-    mct "Jesus!"
+    mct "Jésus !"
 
 # game/code/Book-1/Chapter-6w/s05.rpy:37
 translate french b1c06ws05_89906bd5:
-
     # sdl "Don't look at that."
-    sdl "Don't look at that."
+    sdl "Ne regarde pas ça."
 
 # game/code/Book-1/Chapter-6w/s05.rpy:40
 translate french b1c06ws05_dc0ff26a:
-
     # mc "Sorry."
-    mc "Sorry."
+    mc "Désolé."
 
 # game/code/Book-1/Chapter-6w/s05.rpy:45
 translate french b1c06ws05_8c9328fe:
-
     # sdl "You probably think {i}this{/i} is what got me thrown out of the Winner's Club."
-    sdl "You probably think {i}this{/i} is what got me thrown out of the Winner's Club."
+    sdl "Tu penses probablement que {i}ça{/i} c'est ce qui m'a fait expulser du Club des Gagnants."
 
 # game/code/Book-1/Chapter-6w/s05.rpy:48
 translate french b1c06ws05_1e348b56:
-
     # mc "The thought crossed my mind. Not everyone is very accepting of occult interests."
-    mc "The thought crossed my mind. Not everyone is very accepting of occult interests."
+    mc "L'idée m'a traversé l'esprit. Tout le monde n'accepte pas forcément les intérêts occultes."
 
 # game/code/Book-1/Chapter-6w/s05.rpy:53
 translate french b1c06ws05_470eb094:
-
     # sdl "Well, you'd be wrong. I didn't start practicing voodoo until after I was kicked out."
-    sdl "Well, you'd be wrong. I didn't start practicing voodoo until after I was kicked out."
+    sdl "Eh bien, tu te trompes. Je n'ai commencé à pratiquer le vaudou qu'après avoir été expulsée."
 
 # game/code/Book-1/Chapter-6w/s05.rpy:55
 translate french b1c06ws05_c25733ec:
-
     # sdl "Though I've always been drawn to the darker side of things."
-    sdl "Though I've always been drawn to the darker side of things."
+    sdl "Bien que j'aie toujours été attirée par le côté obscur des choses."
 
 # game/code/Book-1/Chapter-6w/s05.rpy:57
 translate french b1c06ws05_79d91a96:
-
     # mct "Huh!"
-    mct "Huh!"
+    mct "Hein !"
 
 # game/code/Book-1/Chapter-6w/s05.rpy:59
 translate french b1c06ws05_d06864f3:
-
     # "{i}We might be apart, but our love is forever,{/i}"
-    "{i}We might be apart, but our love is forever,{/i}"
+    "{i}Nous pourrions être séparés, mais notre amour est éternel,{/i}"
 
 # game/code/Book-1/Chapter-6w/s05.rpy:60
 translate french b1c06ws05_cdf840f5:
-
     # "{i}It expands universally,{/i}"
-    "{i}It expands universally,{/i}"
+    "{i}Il s'étend universellement,{/i}"
 
 # game/code/Book-1/Chapter-6w/s05.rpy:61
 translate french b1c06ws05_e6c39122:
-
     # "{i}My love for you is in every breath, every step, every laugh, every tear,{/i}"
-    "{i}My love for you is in every breath, every step, every laugh, every tear,{/i}"
+    "{i}Mon amour pour toi est dans chaque souffle, chaque pas, chaque rire, chaque larme,{/i}"
 
 # game/code/Book-1/Chapter-6w/s05.rpy:63
 translate french b1c06ws05_0247a7de:
-
     # "{i}So that no matter where, far or near,{/i}"
-    "{i}So that no matter where, far or near,{/i}"
+    "{i}Ainsi, peu importe où, loin ou près,{/i}"
 
 # game/code/Book-1/Chapter-6w/s05.rpy:64
 translate french b1c06ws05_6552abc8:
-
     # "{i}You'll always know that I love you.{/i}"
-    "{i}You'll always know that I love you.{/i}"
+    "{i}Tu sauras toujours que je t'aime.{/i}"
 
 # game/code/Book-1/Chapter-6w/s05.rpy:65
 translate french b1c06ws05_1411bdc2:
-
     # "{i}Because I think of you often,{/i}"
-    "{i}Because I think of you often,{/i}"
+    "{i}Parce que je pense souvent à toi,{/i}"
 
 # game/code/Book-1/Chapter-6w/s05.rpy:66
 translate french b1c06ws05_5c7fdb0c:
-
     # "{i}I still want to make you feel like a goddess, never forgotten.{/i}"
-    "{i}I still want to make you feel like a goddess, never forgotten.{/i}"
+    "{i}Je veux toujours te faire sentir comme une déesse, jamais oubliée.{/i}"
 
 # game/code/Book-1/Chapter-6w/s05.rpy:69
 translate french b1c06ws05_d2dd2d4d:
-
     # mct "Huh. I didn't take Sam for a poet."
-    mct "Huh. I didn't take Sam for a poet."
+    mct "Huh. Je n'aurais pas pris Sam pour une poète."
 
 # game/code/Book-1/Chapter-6w/s05.rpy:73
 translate french b1c06ws05_ad9d4233:
-
     # mct "Then again, I suppose she's creative in a sense."
-    mct "Then again, I suppose she's creative in a sense."
+    mct "C'est vrai, je suppose qu'elle est créative d'une certaine manière."
 
 # game/code/Book-1/Chapter-6w/s05.rpy:75
 translate french b1c06ws05_1a124185:
-
     # "{i}I'd give anything to have you back,{/i}"
-    "{i}I'd give anything to have you back,{/i}"
+    "{i}Je donnerais n'importe quoi pour te retrouver,{/i}"
 
 # game/code/Book-1/Chapter-6w/s05.rpy:76
 translate french b1c06ws05_c8059229:
-
     # "{i}And if my burning soul was worth anything, I'd trade it for what I lack.{/i}"
-    "{i}And if my burning soul was worth anything, I'd trade it for what I lack.{/i}"
+    "{i}Et si mon âme enflammée avait de la valeur, je l'échangerais contre ce qui me manque.{/i}"
 
 # game/code/Book-1/Chapter-6w/s05.rpy:77
 translate french b1c06ws05_15cf6c7c:
