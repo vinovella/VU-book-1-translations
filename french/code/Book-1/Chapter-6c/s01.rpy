@@ -14,19 +14,19 @@ translate french b1c06cs01_2f20c812:
 translate french b1c06cs01_1311dbc4:
 
     # nv "Hey! I was hoping you'd show up soon."
-    nv "Hé ! J'espérais que tu arriverais bientôt."
+    nv "Hé! J'espérais que tu arriverais bientôt."
 
 # game/code/Book-1/Chapter-6c/s01.rpy:23
 translate french b1c06cs01_1b8eec2d:
 
     # nv "We're getting our Guide assigned today!"
-    nv "On va nous attribuer notre Guide aujourd'hui !"
+    nv "On va nous attribuer notre Guide aujourd'hui!"
 
 # game/code/Book-1/Chapter-6c/s01.rpy:26
 translate french b1c06cs01_bb1790c0:
 
     # mc "Oh. Remind me, what exactly does the Guide do again?"
-    mc "Oh. Rappelle-moi, que fait exactement le Guide déjà ?"
+    mc "Oh. Rappelle-moi, que fait exactement le Guide déjà?"
 
 # game/code/Book-1/Chapter-6c/s01.rpy:31
 translate french b1c06cs01_2b6685c0:
@@ -38,7 +38,7 @@ translate french b1c06cs01_2b6685c0:
 translate french b1c06cs01_f2c48737:
 
     # mc "What does that entail, exactly?"
-    mc "Qu'est-ce que cela implique, exactement ?"
+    mc "Qu'est-ce que cela implique, exactement?"
 
 # game/code/Book-1/Chapter-6c/s01.rpy:37
 translate french b1c06cs01_8d9d19d5:
@@ -56,7 +56,7 @@ translate french b1c06cs01_53eb9833:
 translate french b1c06cs01_760809bf:
 
     # nv "Before Maria disappeared?"
-    nv "Avant que Maria ne disparaisse ?"
+    nv "Avant que Maria ne disparaisse?"
 
 # game/code/Book-1/Chapter-6c/s01.rpy:44
 translate french b1c06cs01_9b8bb9a0:
@@ -86,7 +86,7 @@ translate french b1c06cs01_601927c8:
 translate french b1c06cs01_31bd8e03:
 
     # nv "But hey, now I get to help you on this journey too, right? So maybe it was all meant to happen this way."
-    nv "Mais bon, maintenant je peux t'aider dans ce voyage aussi, non ? Alors peut-être que tout cela devait arriver ainsi."
+    nv "Mais bon, maintenant je peux t'aider dans ce voyage aussi, non? Alors peut-être que tout cela devait arriver ainsi."
 
 # game/code/Book-1/Chapter-6c/s01.rpy:54
 translate french b1c06cs01_55ab4d00:
@@ -110,7 +110,7 @@ translate french b1c06cs01_0b7853d2:
 translate french b1c06cs01_1548740e:
 
     # nv "No! No, it's not difficult at all. Well, maybe a little."
-    nv "Non ! Non, ce n'est pas du tout difficile. Enfin, peut-être un peu."
+    nv "Non! Non, ce n'est pas du tout difficile. Enfin, peut-être un peu."
 
 # game/code/Book-1/Chapter-6c/s01.rpy:64
 translate french b1c06cs01_474f420f:
@@ -140,19 +140,19 @@ translate french b1c06cs01_632ef36a:
 translate french b1c06cs01_11c907fc:
 
     # mc "What are we healing from, exactly? I'm not sure I get this."
-    mc "De quoi guérissons-nous exactement ? Je ne suis pas sûr de comprendre."
+    mc "De quoi guérissons-nous exactement? Je ne suis pas sûr de comprendre."
 
 # game/code/Book-1/Chapter-6c/s01.rpy:77
 translate french b1c06cs01_3a162890:
 
     # nv "Everyone's different, right? But we all have our wounds. You can't exist and not get hurt."
-    nv "Tout le monde est différent, non ? Mais on a tous nos blessures. Tu ne peux pas exister sans te blesser."
+    nv "Tout le monde est différent, non? Mais on a tous nos blessures. Tu ne peux pas exister sans te blesser."
 
 # game/code/Book-1/Chapter-6c/s01.rpy:80
 translate french b1c06cs01_07f0cbf2:
 
     # mc "I mean, aren't we all works in progress at all times? At some point you just have to accept yourself for who you are and where you're at."
-    mc "Je veux dire, ne sommes-nous pas tous des œuvres en cours ? À un moment donné, il faut juste s'accepter tel qu'on est, là où on en est."
+    mc "Je veux dire, ne sommes-nous pas tous des œuvres en cours? À un moment donné, il faut juste s'accepter tel qu'on est, là où on en est."
 
 # game/code/Book-1/Chapter-6c/s01.rpy:83
 translate french b1c06cs01_c5cb329a:
@@ -176,7 +176,7 @@ translate french b1c06cs01_a67b8ab3:
 translate french b1c06cs01_199cc8be:
 
     # mc "What if I realize I like myself as I am, and don't need anymore healing? What happens then?"
-    mc "Et si je me rends compte que je m'aime comme je suis, et que je n'ai plus besoin de guérison ? Que se passe-t-il alors ?"
+    mc "Et si je me rends compte que je m'aime comme je suis, et que je n'ai plus besoin de guérison? Que se passe-t-il alors?"
 
 # game/code/Book-1/Chapter-6c/s01.rpy:97
 translate french b1c06cs01_7023a1bf:
@@ -194,7 +194,7 @@ translate french b1c06cs01_e7c49df0:
 translate french b1c06cs01_d263e864:
 
     # nv "Why are you asking these questions? Are you skeptical of the group, or of yourself?"
-    nv "Pourquoi poses-tu ces questions ? Es-tu sceptique à propos du groupe, ou de toi-même ?"
+    nv "Pourquoi poses-tu ces questions? Es-tu sceptique à propos du groupe, ou de toi-même?"
 
 # game/code/Book-1/Chapter-6c/s01.rpy:103
 translate french b1c06cs01_210bb508:
@@ -212,7 +212,7 @@ translate french b1c06cs01_139537a9:
 translate french b1c06cs01_5c337704:
 
     # mc "You...like it?"
-    mc "Tu...aimes ça ?"
+    mc "Tu...aimes ça?"
 
 # game/code/Book-1/Chapter-6c/s01.rpy:112
 translate french b1c06cs01_adfdfa96:
@@ -224,7 +224,7 @@ translate french b1c06cs01_adfdfa96:
 translate french b1c06cs01_28af21eb:
 
     # nv "You're not offensive at all by asking questions. Our community loves inquisitive minds! We encourage it."
-    nv "Tu n'es pas du tout offensant en posant des questions. Notre communauté adore les esprits curieux ! Nous les encourageons."
+    nv "Tu n'es pas du tout offensant en posant des questions. Notre communauté adore les esprits curieux! Nous les encourageons."
 
 # game/code/Book-1/Chapter-6c/s01.rpy:116
 translate french b1c06cs01_ab09efa5:
@@ -272,7 +272,7 @@ translate french b1c06cs01_bb0eeaf4:
 translate french b1c06cs01_1d5030ec:
 
     # nv "No need to thank me! We have to look out for each other. We're in this together."
-    nv "Pas besoin de me remercier ! Nous devons veiller les uns sur les autres. Nous sommes dans le même bateau."
+    nv "Pas besoin de me remercier! Nous devons veiller les uns sur les autres. Nous sommes dans le même bateau."
 
 # game/code/Book-1/Chapter-6c/s01.rpy:130
 translate french b1c06cs01_a12b43ab:
@@ -290,7 +290,7 @@ translate french b1c06cs01_45f5d738:
 translate french b1c06cs01_85a66c93:
 
     # mc "And you do all that using the workbooks?"
-    mc "Et vous faites tout ça avec les manuels ?"
+    mc "Et vous faites tout ça avec les manuels?"
 
 # game/code/Book-1/Chapter-6c/s01.rpy:137
 translate french b1c06cs01_4e7d5f29:
@@ -332,13 +332,13 @@ translate french b1c06cs01_a55c92ce:
 translate french b1c06cs01_8f922723:
 
     # nv "Irene! How are you?"
-    nv "Irene ! Comment vas-tu ?"
+    nv "Irene! Comment vas-tu?"
 
 # game/code/Book-1/Chapter-6c/s01.rpy:162
 translate french b1c06cs01_0a53cc50:
 
     # ij "Hi Nia! I'm well."
-    ij "Salut Nia ! Je vais bien."
+    ij "Salut Nia! Je vais bien."
 
 # game/code/Book-1/Chapter-6c/s01.rpy:167
 translate french b1c06cs01_1b02778e:
@@ -350,19 +350,19 @@ translate french b1c06cs01_1b02778e:
 translate french b1c06cs01_9e6f11df:
 
     # mc "Me?"
-    mc "Moi ?"
+    mc "Moi?"
 
 # game/code/Book-1/Chapter-6c/s01.rpy:173
 translate french b1c06cs01_6c7dd27a:
 
     # ij "Is something wrong?"
-    ij "Quelque chose ne va pas ?"
+    ij "Quelque chose ne va pas?"
 
 # game/code/Book-1/Chapter-6c/s01.rpy:176
 translate french b1c06cs01_bdd58e60:
 
     # ad "Shh!"
-    ad "Chut !"
+    ad "Chut!"
 
 # game/code/Book-1/Chapter-6c/s01.rpy:178
 translate french b1c06cs01_985ab7d6:
@@ -410,13 +410,13 @@ translate french b1c06cs01_297ec969:
 translate french b1c06cs01_5b6065b0:
 
     # ad "What's your date of birth?"
-    ad "Quelle est ta date de naissance ?"
+    ad "Quelle est ta date de naissance?"
 
 # game/code/Book-1/Chapter-6c/s01.rpy:209
 translate french b1c06cs01_689b5b9a:
 
     # mc "My...birthday?{w} Like, astrology?"
-    mc "Mon... anniversaire ?{w} Comme en astrologie ?"
+    mc "Mon... anniversaire?{w} Comme en astrologie?"
 
 # game/code/Book-1/Chapter-6c/s01.rpy:212
 translate french b1c06cs01_b410ead0:
@@ -428,13 +428,13 @@ translate french b1c06cs01_b410ead0:
 translate french b1c06cs01_3530d8c3:
 
     # mct "*internally groans* Is he fucking with me right now?"
-    mct "*grogne intérieurement* Il se fout de moi, là ?"
+    mct "*grogne intérieurement* Il se fout de moi, là?"
 
 # game/code/Book-1/Chapter-6c/s01.rpy:218
 translate french b1c06cs01_c6357fdc:
 
     # mc "Is that bad?"
-    mc "C’est mauvais ?"
+    mc "C’est mauvais?"
 
 # game/code/Book-1/Chapter-6c/s01.rpy:221
 translate french b1c06cs01_0e25f161:
@@ -446,7 +446,7 @@ translate french b1c06cs01_0e25f161:
 translate french b1c06cs01_eff35d81:
 
     # mc "Well, what's your astrology sign?"
-    mc "Et toi, quel est ton signe astrologique ?"
+    mc "Et toi, quel est ton signe astrologique?"
 
 # game/code/Book-1/Chapter-6c/s01.rpy:227
 translate french b1c06cs01_4dc31d87:
@@ -470,7 +470,7 @@ translate french b1c06cs01_c7c6150e:
 translate french b1c06cs01_cb4b6475:
 
     # mct "His reflection?"
-    mct "Son reflet ?"
+    mct "Son reflet?"
 
 # game/code/Book-1/Chapter-6c/s01.rpy:243
 translate french b1c06cs01_bdf737a4:
@@ -482,7 +482,7 @@ translate french b1c06cs01_bdf737a4:
 translate french b1c06cs01_6ba51b72:
 
     # ad "Hm. You're a seeker, aren't you?"
-    ad "Hm. Tu es un chercheur, n'est-ce pas ?"
+    ad "Hm. Tu es un chercheur, n'est-ce pas?"
 
 # game/code/Book-1/Chapter-6c/s01.rpy:279
 translate french b1c06cs01_c5659e07:
@@ -494,19 +494,19 @@ translate french b1c06cs01_c5659e07:
 translate french b1c06cs01_0a8bd05c:
 
     # mc "Is it good to be a seeker?"
-    mc "C'est bien d'être un chercheur ?"
+    mc "C'est bien d'être un chercheur?"
 
 # game/code/Book-1/Chapter-6c/s01.rpy:286
 translate french b1c06cs01_811e152f:
 
     # ad "What if I told you it wasn't?"
-    ad "Et si je te disais que ça ne l'était pas ?"
+    ad "Et si je te disais que ça ne l'était pas?"
 
 # game/code/Book-1/Chapter-6c/s01.rpy:288
 translate french b1c06cs01_eb1b1117:
 
     # mct "What kind of game is he playing?"
-    mct "À quel jeu il joue ?"
+    mct "À quel jeu il joue?"
 
 # game/code/Book-1/Chapter-6c/s01.rpy:291
 translate french b1c06cs01_fdd3a3c7:
@@ -524,7 +524,7 @@ translate french b1c06cs01_d17a52cd:
 translate french b1c06cs01_822aa5c3:
 
     # mc "How so?"
-    mc "Comment ça ?"
+    mc "Comment ça?"
 
 # game/code/Book-1/Chapter-6c/s01.rpy:300
 translate french b1c06cs01_5a76cac6:
@@ -536,7 +536,7 @@ translate french b1c06cs01_5a76cac6:
 translate french b1c06cs01_c710bd85:
 
     # ad "Do you believe you can atone for your sins?"
-    ad "Crois-tu que tu peux expier tes péchés ?"
+    ad "Crois-tu que tu peux expier tes péchés?"
 
 # game/code/Book-1/Chapter-6c/s01.rpy:305
 translate french b1c06cs01_4a98742d:
@@ -554,7 +554,7 @@ translate french b1c06cs01_93231a3c:
 translate french b1c06cs01_fff308be:
 
     # mc "What if I forgave {i}myself{/i} for my sins? What if I was already saved? Does it make a difference if I am or am not?"
-    mc "Et si je me pardonnais {i}moi-même{/i} mes péchés ? Et si j'étais déjà sauvé ? Est-ce que cela fait une différence si je le suis ou non ?"
+    mc "Et si je me pardonnais {i}moi-même{/i} mes péchés? Et si j'étais déjà sauvé? Est-ce que cela fait une différence si je le suis ou non?"
 
 # game/code/Book-1/Chapter-6c/s01.rpy:316
 translate french b1c06cs01_bbd36abc:
@@ -572,7 +572,7 @@ translate french b1c06cs01_1e0b0712:
 translate french b1c06cs01_85d54857:
 
     # ad "Tell me, young soul. What is it you're here to heal?"
-    ad "Dis-moi, jeune âme. Qu'es-tu venu guérir ici ?"
+    ad "Dis-moi, jeune âme. Qu'es-tu venu guérir ici?"
 
 # game/code/Book-1/Chapter-6c/s01.rpy:325
 translate french b1c06cs01_31eb53df:
@@ -596,31 +596,31 @@ translate french b1c06cs01_5a6a287c:
 translate french b1c06cs01_61667d1b:
 
     # ad "What do you hope to discover as truth? What do you desire?"
-    ad "Qu'espères-tu découvrir comme vérité ? Que désires-tu ?"
+    ad "Qu'espères-tu découvrir comme vérité? Que désires-tu?"
 
 # game/code/Book-1/Chapter-6c/s01.rpy:334
 translate french b1c06cs01_ed8bc01d:
 
     # ad "Security? Women? Power?"
-    ad "La sécurité ? Les femmes ? Le pouvoir ?"
+    ad "La sécurité? Les femmes? Le pouvoir?"
 
 # game/code/Book-1/Chapter-6c/s01.rpy:337
 translate french b1c06cs01_c4dfc082:
 
     # mc "Can't I have it all?"
-    mc "Je ne peux pas tout avoir ?"
+    mc "Je ne peux pas tout avoir?"
 
 # game/code/Book-1/Chapter-6c/s01.rpy:340
 translate french b1c06cs01_36a8f2cf:
 
     # ad "*laughs* Ah! Greed is a sin, is it not?"
-    ad "*rit* Ah ! La cupidité est un péché, n'est-ce pas ?"
+    ad "*rit* Ah! La cupidité est un péché, n'est-ce pas?"
 
 # game/code/Book-1/Chapter-6c/s01.rpy:343
 translate french b1c06cs01_1c8dc8de:
 
     # ad "Or is it your opinion that you're free of all sin?"
-    ad "Ou penses-tu être exempt de tout péché ?"
+    ad "Ou penses-tu être exempt de tout péché?"
 
 # game/code/Book-1/Chapter-6c/s01.rpy:346
 translate french b1c06cs01_e8bd9b65:
@@ -644,13 +644,13 @@ translate french b1c06cs01_38f2737e:
 translate french b1c06cs01_3f02161b:
 
     # mc "What if my sins are permanent? That I'm damned with no hope for redemption?"
-    mc "Et si mes péchés étaient permanents ? Que je suis condamné sans espoir de rédemption ?"
+    mc "Et si mes péchés étaient permanents? Que je suis condamné sans espoir de rédemption?"
 
 # game/code/Book-1/Chapter-6c/s01.rpy:355
 translate french b1c06cs01_a820c310:
 
     # ad "Is that your fear? That there's no redemption for you?"
-    ad "Est-ce ta peur ? Qu'il n'y ait pas de rédemption pour toi ?"
+    ad "Est-ce ta peur? Qu'il n'y ait pas de rédemption pour toi?"
 
 # game/code/Book-1/Chapter-6c/s01.rpy:358
 translate french b1c06cs01_3b31b250:
@@ -662,7 +662,7 @@ translate french b1c06cs01_3b31b250:
 translate french b1c06cs01_dba7e178:
 
     # ad "We shall see, won't we?"
-    ad "Nous verrons bien, n'est-ce pas ?"
+    ad "Nous verrons bien, n'est-ce pas?"
 
 # game/code/Book-1/Chapter-6c/s01.rpy:362
 translate french b1c06cs01_0d75275b:
@@ -722,7 +722,7 @@ translate french b1c06cs01_1f7466d3:
 translate french b1c06cs01_127676ce:
 
     # ad "Delphia! We have the perfect candidates for you."
-    ad "Delphia ! Nous avons les candidats parfaits pour toi."
+    ad "Delphia! Nous avons les candidats parfaits pour toi."
 
 # game/code/Book-1/Chapter-6c/s01.rpy:396
 translate french b1c06cs01_3b16cd11:
@@ -734,13 +734,13 @@ translate french b1c06cs01_3b16cd11:
 translate french b1c06cs01_c9f286f2:
 
     # dk "Ah, what are the odds we'd end up together?"
-    dk "Ah, quelles étaient les chances qu'on se retrouve ensemble ?"
+    dk "Ah, quelles étaient les chances qu'on se retrouve ensemble?"
 
 # game/code/Book-1/Chapter-6c/s01.rpy:402
 translate french b1c06cs01_3f0bff09:
 
     # nv "Delphia! Oh my gosh. I can't believe you're my Guide this time! I can't wait to start this journey with you."
-    nv "Delphia ! Oh là là. Je n'arrive pas à croire que tu sois ma Guide cette fois-ci ! J'ai hâte de commencer ce voyage avec toi."
+    nv "Delphia! Oh là là. Je n'arrive pas à croire que tu sois ma Guide cette fois-ci! J'ai hâte de commencer ce voyage avec toi."
 
 # game/code/Book-1/Chapter-6c/s01.rpy:405
 translate french b1c06cs01_03e03217:
@@ -764,7 +764,7 @@ translate french b1c06cs01_a71a66a2:
 translate french b1c06cs01_cebcd97b:
 
     # ad "I think Delphia's vigor for life will inspire your journey, and guide you to enlightenment. Don't you?"
-    ad "Je pense que la vigueur de Delphia pour la vie inspirera ton voyage et te guidera vers l'illumination. Pas vrai ?"
+    ad "Je pense que la vigueur de Delphia pour la vie inspirera ton voyage et te guidera vers l'illumination. Pas vrai?"
 
 # game/code/Book-1/Chapter-6c/s01.rpy:420
 translate french b1c06cs01_dd094651:
@@ -776,7 +776,7 @@ translate french b1c06cs01_dd094651:
 translate french b1c06cs01_18a0cbcc:
 
     # mc "This is gonna be a long journey, isn't it?"
-    mc "Ça va être un long voyage, pas vrai ?"
+    mc "Ça va être un long voyage, pas vrai?"
 
 # game/code/Book-1/Chapter-6c/s01.rpy:426
 translate french b1c06cs01_a8a16663:
@@ -794,7 +794,7 @@ translate french b1c06cs01_2adc55bf:
 translate french b1c06cs01_cd21ba60:
 
     # mc "So what's our first assignment?"
-    mc "Alors, quelle est notre première mission ?"
+    mc "Alors, quelle est notre première mission?"
 
 # game/code/Book-1/Chapter-6c/s01.rpy:436
 translate french b1c06cs01_4e637069:
@@ -818,7 +818,7 @@ translate french b1c06cs01_19cf3f9a:
 translate french b1c06cs01_b265e344:
 
     # dk "Is that sarcasm on your lips, new blood?"
-    dk "Est-ce du sarcasme que je perçois sur tes lèvres, petit nouveau ?"
+    dk "Est-ce du sarcasme que je perçois sur tes lèvres, petit nouveau?"
 
 # game/code/Book-1/Chapter-6c/s01.rpy:445
 translate french b1c06cs01_ba5845ba:
@@ -842,7 +842,7 @@ translate french b1c06cs01_6fb1465c:
 translate french b1c06cs01_8d3bd75b:
 
     # nv "I can't wait to start!"
-    nv "J'ai hâte de commencer !"
+    nv "J'ai hâte de commencer!"
 
 # game/code/Book-1/Chapter-6c/s01.rpy:458
 translate french b1c06cs01_0c119c30:
@@ -860,7 +860,7 @@ translate french b1c06cs01_6fe31c29:
 translate french b1c06cs01_102b5aa3:
 
     # nv "So what's first?"
-    nv "Alors, par quoi commence-t-on ?"
+    nv "Alors, par quoi commence-t-on?"
 
 # game/code/Book-1/Chapter-6c/s01.rpy:465
 translate french b1c06cs01_83e2e80e:
@@ -915,3 +915,4 @@ translate french strings:
     # game/code/Book-1/Chapter-6c/s01.rpy:6
     old "The next morning\nAt the library"
     new "Le lendemain matin\nÀ la bibliothèque"
+

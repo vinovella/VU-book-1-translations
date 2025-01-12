@@ -2,7 +2,7 @@
 translate french b1c04ns04_077d80b9:
 
     # ad "Hello, everyone!"
-    ad "Bonjour, tout le monde !"
+    ad "Bonjour, tout le monde!"
 
 # game/code/Book-1/Chapter-4n/s04.rpy:17
 translate french b1c04ns04_d8e7be62:
@@ -62,7 +62,7 @@ translate french b1c04ns04_0e051b0e:
 translate french b1c04ns04_ea5ffd3b:
 
     # nv "Wanna join me?"
-    nv "Tu veux me rejoindre ?"
+    nv "Tu veux me rejoindre?"
 
 # game/code/Book-1/Chapter-4n/s04.rpy:54
 translate french b1c04ns04_3941e665:
@@ -110,13 +110,13 @@ translate french b1c04ns04_62680906:
 translate french b1c04ns04_e65f7f7b:
 
     # nv "What's that?"
-    nv "Quelle question ?"
+    nv "Quelle question?"
 
 # game/code/Book-1/Chapter-4n/s04.rpy:78
 translate french b1c04ns04_c7ec488a:
 
     # mc "What's a Guide?"
-    mc "C'est quoi un Guide ?"
+    mc "C'est quoi un Guide?"
 
 # game/code/Book-1/Chapter-4n/s04.rpy:81
 translate french b1c04ns04_fde96147:
@@ -128,7 +128,7 @@ translate french b1c04ns04_fde96147:
 translate french b1c04ns04_f6b3da79:
 
     # mc "Is it that obvious?"
-    mc "C'est aussi évident que ça ?"
+    mc "C'est aussi évident que ça?"
 
 # game/code/Book-1/Chapter-4n/s04.rpy:87
 translate french b1c04ns04_b00412a6:
@@ -164,7 +164,7 @@ translate french b1c04ns04_fad4f0fe:
 translate french b1c04ns04_4cdb0618:
 
     # nv "I'm curious. Why'd you join the seminar?"
-    nv "Je suis curieuse. Pourquoi tu as rejoint le séminaire ?"
+    nv "Je suis curieuse. Pourquoi tu as rejoint le séminaire?"
 
 # game/code/Book-1/Chapter-4n/s04.rpy:103
 translate french b1c04ns04_adab05c8:
@@ -176,7 +176,7 @@ translate french b1c04ns04_adab05c8:
 translate french b1c04ns04_904b7bef:
 
     # mc "That journey with my father was...alright. But the self can always use improvement, right?"
-    mc "Ce voyage avec mon père était... correct. Mais soi-même peut toujours s'améliorer, non ?"
+    mc "Ce voyage avec mon père était... correct. Mais soi-même peut toujours s'améliorer, non?"
 
 # game/code/Book-1/Chapter-4n/s04.rpy:107
 translate french b1c04ns04_c7ec8732:
@@ -206,7 +206,7 @@ translate french b1c04ns04_47727138:
 translate french b1c04ns04_253a2e30:
 
     # nv "What kind of issues? If you don't mind me asking."
-    nv "Quels genres de problèmes ? Si ça ne te dérange pas que je demande."
+    nv "Quels genres de problèmes? Si ça ne te dérange pas que je demande."
 
 # game/code/Book-1/Chapter-4n/s04.rpy:122
 translate french b1c04ns04_2c20cf8d:
@@ -224,7 +224,7 @@ translate french b1c04ns04_0912df88:
 translate french b1c04ns04_066ef972:
 
     # nv "He has some points. I should ensure a secure financial future, but I also want to {i}live{/i}, y'know?"
-    nv "Il a des arguments. Je devrais assurer un avenir financier stable, mais je veux aussi {i}vivre{/i}, tu sais ?"
+    nv "Il a des arguments. Je devrais assurer un avenir financier stable, mais je veux aussi {i}vivre{/i}, tu sais?"
 
 # game/code/Book-1/Chapter-4n/s04.rpy:131
 translate french b1c04ns04_0978a7bc:
@@ -242,7 +242,7 @@ translate french b1c04ns04_197f977a:
 translate french b1c04ns04_f7d1a5a9:
 
     # nv "I guess we're a pretty sorry pair, right?"
-    nv "Je suppose qu'on est un sacré duo, non ?"
+    nv "Je suppose qu'on est un sacré duo, non?"
 
 # game/code/Book-1/Chapter-4n/s04.rpy:140
 translate french b1c04ns04_aac27661:
@@ -266,7 +266,7 @@ translate french b1c04ns04_db4dcd64:
 translate french b1c04ns04_a31340dd:
 
     # mc "Really?"
-    mc "Vraiment ?"
+    mc "Vraiment?"
 
 # game/code/Book-1/Chapter-4n/s04.rpy:148
 translate french b1c04ns04_9693d6e4:
@@ -278,7 +278,7 @@ translate french b1c04ns04_9693d6e4:
 translate french b1c04ns04_04288e06:
 
     # nv "You're here, aren't you? There must be some part of you that wants to grow."
-    nv "Tu es là, non ? Il doit y avoir une partie de toi qui veut grandir."
+    nv "Tu es là, non? Il doit y avoir une partie de toi qui veut grandir."
 
 # game/code/Book-1/Chapter-4n/s04.rpy:152
 translate french b1c04ns04_0cdbd9ac:
@@ -332,7 +332,7 @@ translate french b1c04ns04_e14a21fd:
 translate french b1c04ns04_7b1e44be:
 
     # nv "What?!{w} That's not for you to decide! Choosing a guide is a very personal matter."
-    nv "Quoi ?!{w} Ce n'est pas à toi de décider ! Choisir un guide est une affaire très personnelle."
+    nv "Quoi?!{w} Ce n'est pas à toi de décider! Choisir un guide est une affaire très personnelle."
 
 # game/code/Book-1/Chapter-4n/s04.rpy:176
 translate french b1c04ns04_f7e035ce:
@@ -356,7 +356,7 @@ translate french b1c04ns04_84998cba:
 translate french b1c04ns04_2e002f7f:
 
     # mc "If Maria comes back?"
-    mc "Si Maria revient ?"
+    mc "Si Maria revient?"
 
 # game/code/Book-1/Chapter-4n/s04.rpy:186
 translate french b1c04ns04_882e592b:
@@ -398,13 +398,13 @@ translate french b1c04ns04_1bf60051:
 translate french b1c04ns04_10f479b5:
 
     # ad "Alright, everyone! We're ready to begin the seminar. Please find a seat. Today, as I mentioned, we'll be discussing the six steps to happiness."
-    ad "D'accord, tout le monde ! Nous sommes prêts à commencer le séminaire. Veuillez prendre un siège. Aujourd'hui, comme je l'ai mentionné, nous allons discuter des six étapes du bonheur."
+    ad "D'accord, tout le monde! Nous sommes prêts à commencer le séminaire. Veuillez prendre un siège. Aujourd'hui, comme je l'ai mentionné, nous allons discuter des six étapes du bonheur."
 
 # game/code/Book-1/Chapter-4n/s04.rpy:202
 translate french b1c04ns04_02ada02a:
 
     # ad "Why only six? Well, we don't want to overwhelm you!"
-    ad "Pourquoi seulement six ? Eh bien, nous ne voulons pas vous accabler !"
+    ad "Pourquoi seulement six? Eh bien, nous ne voulons pas vous accabler!"
 
 # game/code/Book-1/Chapter-4n/s04.rpy:204
 translate french b1c04ns04_a603b74a:
@@ -416,7 +416,7 @@ translate french b1c04ns04_a603b74a:
 translate french b1c04ns04_2d963a5b:
 
     # mc "Surely you can't narrow it to six steps and have it be {i}plausible{/i}."
-    mc "Tu ne peux pas réduire ça à six étapes et que ce soit {i}plausible{/i}, non ?"
+    mc "Tu ne peux pas réduire ça à six étapes et que ce soit {i}plausible{/i}, non?"
 
 # game/code/Book-1/Chapter-4n/s04.rpy:210
 translate french b1c04ns04_b59b12cc:
@@ -428,7 +428,7 @@ translate french b1c04ns04_b59b12cc:
 translate french b1c04ns04_bfcbc100:
 
     # mc "Oh. So is everyone but himself aware that he's laying it on thick?"
-    mc "Ah. Donc, tout le monde sauf lui est conscient qu'il en fait trop ?"
+    mc "Ah. Donc, tout le monde sauf lui est conscient qu'il en fait trop?"
 
 # game/code/Book-1/Chapter-4n/s04.rpy:216
 translate french b1c04ns04_1460d3d6:
@@ -482,7 +482,7 @@ translate french b1c04ns04_517a3400:
 translate french b1c04ns04_910a494e:
 
     # nv "C'mon. It wasn't so bad. You learned the meaning of happiness, right?"
-    nv "Allez. Ce n'était pas si mal. Tu as appris la signification du bonheur, non ?"
+    nv "Allez. Ce n'était pas si mal. Tu as appris la signification du bonheur, non?"
 
 # game/code/Book-1/Chapter-4n/s04.rpy:252
 translate french b1c04ns04_62eaa21e:
@@ -524,25 +524,25 @@ translate french b1c04ns04_e00ddf22:
 translate french b1c04ns04_b9d0ddb4:
 
     # ij "Did you enjoy the seminar?"
-    ij "Le séminaire vous a plu ?"
+    ij "Le séminaire vous a plu?"
 
 # game/code/Book-1/Chapter-4n/s04.rpy:274
 translate french b1c04ns04_9e55cb47:
 
     # nv "I did! I thought the speech on self-esteem was helpful."
-    nv "Oui ! Je pensais que le discours sur l'estime de soi était utile."
+    nv "Oui! Je pensais que le discours sur l'estime de soi était utile."
 
 # game/code/Book-1/Chapter-4n/s04.rpy:277
 translate french b1c04ns04_1b50f671:
 
     # ij "Great! I think my favorite bit was his presentation on barriers, and how we often create our own cages."
-    ij "Super ! Je pense que ma partie préférée était sa présentation sur les barrières, et comment nous créons souvent nos propres cages."
+    ij "Super! Je pense que ma partie préférée était sa présentation sur les barrières, et comment nous créons souvent nos propres cages."
 
 # game/code/Book-1/Chapter-4n/s04.rpy:278
 translate french b1c04ns04_72879183:
 
     # ij "Anyway, what can I help you guys with?"
-    ij "Bref, en quoi puis-je vous aider ?"
+    ij "Bref, en quoi puis-je vous aider?"
 
 # game/code/Book-1/Chapter-4n/s04.rpy:281
 translate french b1c04ns04_6f5aa662:
@@ -560,7 +560,7 @@ translate french b1c04ns04_4b57f19f:
 translate french b1c04ns04_564a5bfa:
 
     # ij "Really? I see. Let me find the applications..."
-    ij "Vraiment ? Je vois. Laissez-moi trouver les formulaires..."
+    ij "Vraiment? Je vois. Laissez-moi trouver les formulaires..."
 
 # game/code/Book-1/Chapter-4n/s04.rpy:289
 translate french b1c04ns04_0da07654:
@@ -596,7 +596,7 @@ translate french b1c04ns04_7772a353:
 translate french b1c04ns04_c7b69dff:
 
     # mc "Well...how do you feel?"
-    mc "Eh bien... comment tu te sens ?"
+    mc "Eh bien... comment tu te sens?"
 
 # game/code/Book-1/Chapter-4n/s04.rpy:309
 translate french b1c04ns04_b2a2cf56:
@@ -614,13 +614,13 @@ translate french b1c04ns04_8e618418:
 translate french b1c04ns04_d4235fef:
 
     # nv "Is that bad of me?"
-    nv "Est-ce si mal de ma part ?"
+    nv "Est-ce si mal de ma part?"
 
 # game/code/Book-1/Chapter-4n/s04.rpy:318
 translate french b1c04ns04_8e45bd45:
 
     # mc "No! No. You're doing great. You're doing what's best for you. That's the most important thing."
-    mc "Non ! Non. Tu vas très bien. Tu fais ce qui est le mieux pour toi. C'est ça, le plus important."
+    mc "Non! Non. Tu vas très bien. Tu fais ce qui est le mieux pour toi. C'est ça, le plus important."
 
 # game/code/Book-1/Chapter-4n/s04.rpy:319
 translate french b1c04ns04_071054a1:

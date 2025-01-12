@@ -3,13 +3,13 @@
 translate french b1c02s02_85b670d8:
 
     # mo "Why am I here?"
-    mo "Pourquoi suis-je ici ?"
+    mo "Pourquoi suis-je ici?"
 
 # game/code/Book-1/Chapter-2/s02.rpy:31
 translate french b1c02s02_4fd5b6c4:
 
     # mo "Is there something wrong?"
-    mo "Y a-t-il un problème ?"
+    mo "Y a-t-il un problème?"
 
 # game/code/Book-1/Chapter-2/s02.rpy:33
 translate french b1c02s02_871af13a:
@@ -21,7 +21,7 @@ translate french b1c02s02_871af13a:
 translate french b1c02s02_deb9ccbe:
 
     # mo "Oh, but that was a month ago. Isn't that a cold case by now?"
-    mo "Oh, mais cela remonte à un mois. Ce n'est pas déjà une affaire classée ?"
+    mo "Oh, mais cela remonte à un mois. Ce n'est pas déjà une affaire classée?"
 
 # game/code/Book-1/Chapter-2/s02.rpy:39
 translate french b1c02s02_a31ca70f:
@@ -45,7 +45,7 @@ translate french b1c02s02_86eaf334:
 translate french b1c02s02_cc2d7473:
 
     # mo "This is where they were last seen?"
-    mo "C'est ici qu'elles ont été vues pour la dernière fois ?"
+    mo "C'est ici qu'elles ont été vues pour la dernière fois?"
 
 # game/code/Book-1/Chapter-2/s02.rpy:56
 translate french b1c02s02_0da1cec9:
@@ -57,7 +57,7 @@ translate french b1c02s02_0da1cec9:
 translate french b1c02s02_363f2d92:
 
     # mo "Who's my contact?"
-    mo "Qui est mon contact ?"
+    mo "Qui est mon contact?"
 
 # game/code/Book-1/Chapter-2/s02.rpy:62
 translate french b1c02s02_4f01ff16:
@@ -75,7 +75,7 @@ translate french b1c02s02_0a0d2189:
 translate french b1c02s02_ea7c088b:
 
     # mo "Understood. Does anyone at the university know my true identity?"
-    mo "Compris. Quelqu'un à l'université connaît-il ma véritable identité ?"
+    mo "Compris. Quelqu'un à l'université connaît-il ma véritable identité?"
 
 # game/code/Book-1/Chapter-2/s02.rpy:76
 translate french b1c02s02_524eec0a:
@@ -135,7 +135,7 @@ translate french b1c02s02_cad3654e:
 translate french b1c02s02_d27b0022:
 
     # mo "You sure you could pull that off?"
-    mo "Tu es sûre que tu pourrais réussir ça ?"
+    mo "Tu es sûre que tu pourrais réussir ça?"
 
 # game/code/Book-1/Chapter-2/s02.rpy:113
 translate french b1c02s02_bf47d6c6:
@@ -177,12 +177,11 @@ translate french b1c02s02_8210ee9a:
 translate french b1c02s02_cb30dea0:
 
     # mo "Are we...good?"
-    mo "On est... bien ?"
+    mo "On est... bien?"
 
 # game/code/Book-1/Chapter-2/s02.rpy:144
 translate french b1c02s02_af22c296:
 
     # pm "Yeah...we're good."
     pm "Oui... ça va."
-
 

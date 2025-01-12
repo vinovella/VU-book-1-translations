@@ -3,19 +3,19 @@
 translate french b1c03s03_514265e2:
 
     # dm "Hello, [mcname]. Take a seat. How's your first day going?"
-    dm "Bonjour, [mcname]. Prenez un siège. Comment se passe votre première journée ?"
+    dm "Bonjour, [mcname]. Prenez un siège. Comment se passe votre première journée?"
 
 # game/code/Book-1/Chapter-3/s03.rpy:20
 translate french b1c03s03_d9cdae03:
 
     # mc "I'd rather not discuss it. What papers do you have for me?"
-    mc "Je préfère ne pas en discuter. Quels documents avez-vous pour moi ?"
+    mc "Je préfère ne pas en discuter. Quels documents avez-vous pour moi?"
 
 # game/code/Book-1/Chapter-3/s03.rpy:27
 translate french b1c03s03_75dce804:
 
     # mct "Is she doing that pose on purpose?"
-    mct "Est-ce qu'elle fait cette pose exprès ?"
+    mct "Est-ce qu'elle fait cette pose exprès?"
 
 # game/code/Book-1/Chapter-3/s03.rpy:31
 translate french b1c03s03_5a77bba3:
@@ -45,7 +45,7 @@ translate french b1c03s03_52c86e56:
 translate french b1c03s03_c2d1927e:
 
     # mct "No shit... What's she gonna do? Try to control me with a remote?"
-    mct "Sans blague... Qu'est-ce qu'elle va faire ? Essayer de me contrôler avec une télécommande ?"
+    mct "Sans blague... Qu'est-ce qu'elle va faire? Essayer de me contrôler avec une télécommande?"
 
 # game/code/Book-1/Chapter-3/s03.rpy:47
 translate french b1c03s03_3bab4d4f:
@@ -57,13 +57,13 @@ translate french b1c03s03_3bab4d4f:
 translate french b1c03s03_0b8766fb:
 
     # dm "Publicly, I'm your faculty advisor. Privately, I'm your on-campus contact for the investigation, and the only faculty member who knows why you're really here. Is that understood?"
-    dm "Officiellement, je suis votre conseiller pédagogique. En privé, je suis votre contact sur le campus pour l'enquête, et le seul membre du personnel qui sait pourquoi vous êtes vraiment ici. Est-ce clair ?"
+    dm "Officiellement, je suis votre conseiller pédagogique. En privé, je suis votre contact sur le campus pour l'enquête, et le seul membre du personnel qui sait pourquoi vous êtes vraiment ici. Est-ce clair?"
 
 # game/code/Book-1/Chapter-3/s03.rpy:53
 translate french b1c03s03_f299c409:
 
     # mct "Ugh, civilians. Does she think she's my boss?"
-    mct "Pff, les civils. Elle pense être ma patronne ?"
+    mct "Pff, les civils. Elle pense être ma patronne?"
 
 # game/code/Book-1/Chapter-3/s03.rpy:61
 translate french b1c03s03_dc1fe683:
@@ -87,7 +87,7 @@ translate french b1c03s03_a9d3f2b7:
 translate french b1c03s03_2336add5:
 
     # mc "What other info do you know about the missing persons?"
-    mc "Quelles autres informations avez-vous sur les disparus ?"
+    mc "Quelles autres informations avez-vous sur les disparus?"
 
 # game/code/Book-1/Chapter-3/s03.rpy:74
 translate french b1c03s03_6aeb0cca:
@@ -111,13 +111,13 @@ translate french b1c03s03_176432c2:
 translate french b1c03s03_c381c26e:
 
     # mc "By the way, do you know much about Zemfira?"
-    mc "Au fait, savez-vous quelque chose sur Zemfira ?"
+    mc "Au fait, savez-vous quelque chose sur Zemfira?"
 
 # game/code/Book-1/Chapter-3/s03.rpy:85
 translate french b1c03s03_c51af57d:
 
     # dm "Zemfira Power? Why are you asking about her?"
-    dm "Zemfira Power ? Pourquoi posez-vous des questions sur elle ?"
+    dm "Zemfira Power? Pourquoi posez-vous des questions sur elle?"
 
 # game/code/Book-1/Chapter-3/s03.rpy:88
 translate french b1c03s03_0bb22a96:
@@ -141,7 +141,7 @@ translate french b1c03s03_fd7df820:
 translate french b1c03s03_ea287552:
 
     # mct "She's majoring in computer science and design? Interesting."
-    mct "Elle se spécialise en informatique et en design ? Intéressant."
+    mct "Elle se spécialise en informatique et en design? Intéressant."
 
 # game/code/Book-1/Chapter-3/s03.rpy:107
 translate french b1c03s03_94610e22:
@@ -153,7 +153,7 @@ translate french b1c03s03_94610e22:
 translate french b1c03s03_b7702acb:
 
     # mc "Leia, law, Maria, history, and Klara economy...That's a wide range of subjects. What else did the girls have in common?"
-    mc "Leia, droit, Maria, histoire, et Klara, économie... Cela couvre un large éventail de sujets. Qu'avaient-elles d'autre en commun ?"
+    mc "Leia, droit, Maria, histoire, et Klara, économie... Cela couvre un large éventail de sujets. Qu'avaient-elles d'autre en commun?"
 
 # game/code/Book-1/Chapter-3/s03.rpy:113
 translate french b1c03s03_b1f26c2c:
@@ -177,7 +177,7 @@ translate french b1c03s03_17399c03:
 translate french b1c03s03_d7666f7c:
 
     # mct "What's a diplomatic way to say that someone sounds like a hardass?"
-    mct "Quelle est une manière diplomatique de dire que quelqu'un semble être un tyran ?"
+    mct "Quelle est une manière diplomatique de dire que quelqu'un semble être un tyran?"
 
 # game/code/Book-1/Chapter-3/s03.rpy:127
 translate french b1c03s03_af7a7854:
@@ -231,7 +231,7 @@ translate french b1c03s03_613639ee:
 translate french b1c03s03_89197513:
 
     # dm "That should be enough information for someone as skilled as you, correct?"
-    dm "Cela devrait suffire pour quelqu'un d'aussi compétent que vous, n'est-ce pas ?"
+    dm "Cela devrait suffire pour quelqu'un d'aussi compétent que vous, n'est-ce pas?"
 
 # game/code/Book-1/Chapter-3/s03.rpy:153
 translate french b1c03s03_35dce81c:

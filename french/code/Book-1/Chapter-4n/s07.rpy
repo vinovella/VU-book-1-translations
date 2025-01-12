@@ -14,7 +14,7 @@ translate french b1c04ns07_b79dd0d3:
 translate french b1c04ns07_00998095:
 
     # nv "Hey, you!"
-    nv "Hey, toi !"
+    nv "Hey, toi!"
 
 # game/code/Book-1/Chapter-4n/s07.rpy:26
 translate french b1c04ns07_0277ece9:
@@ -44,7 +44,7 @@ translate french b1c04ns07_ca390d45:
 translate french b1c04ns07_3a7aae02:
 
     # nv "You wanna look at the artwork together?"
-    nv "Tu veux qu'on regarde les œuvres ensemble ?"
+    nv "Tu veux qu'on regarde les œuvres ensemble?"
 
 # game/code/Book-1/Chapter-4n/s07.rpy:37
 translate french b1c04ns07_8b8a764a:
@@ -56,7 +56,7 @@ translate french b1c04ns07_8b8a764a:
 translate french b1c04ns07_213d1925:
 
     # mc "Do you know what exhibit they're hosting?"
-    mc "Tu sais quelle exposition ils accueillent ?"
+    mc "Tu sais quelle exposition ils accueillent?"
 
 # game/code/Book-1/Chapter-4n/s07.rpy:45
 translate french b1c04ns07_a207db96:
@@ -80,7 +80,7 @@ translate french b1c04ns07_29817074:
 translate french b1c04ns07_80610e4e:
 
     # mc "Sensual? Nudity? I can't imagine how you make pollution sexy."
-    mc "Sensuel ? Nudité ? Je ne vois pas comment on peut rendre la pollution sexy."
+    mc "Sensuel? Nudité? Je ne vois pas comment on peut rendre la pollution sexy."
 
 # game/code/Book-1/Chapter-4n/s07.rpy:63
 translate french b1c04ns07_f5552f90:
@@ -104,7 +104,7 @@ translate french b1c04ns07_b2f10a37:
 translate french b1c04ns07_63765b59:
 
     # mc "Have you seen this exhibit before?"
-    mc "Tu as déjà vu cette exposition ?"
+    mc "Tu as déjà vu cette exposition?"
 
 # game/code/Book-1/Chapter-4n/s07.rpy:78
 translate french b1c04ns07_0348104f:
@@ -122,7 +122,7 @@ translate french b1c04ns07_9fecd03d:
 translate french b1c04ns07_6b3561f7:
 
     # nv "What do you see?"
-    nv "Qu'est-ce que tu vois ?"
+    nv "Qu'est-ce que tu vois?"
 
 # game/code/Book-1/Chapter-4n/s07.rpy:85
 translate french b1c04ns07_1b030d26:
@@ -146,7 +146,7 @@ translate french b1c04ns07_5a19cb4a:
 translate french b1c04ns07_c163b649:
 
     # nv "It must be pretty freeing to be the last person on Earth, right?"
-    nv "Ça doit être assez libérateur d'être la dernière personne sur Terre, non ?"
+    nv "Ça doit être assez libérateur d'être la dernière personne sur Terre, non?"
 
 # game/code/Book-1/Chapter-4n/s07.rpy:95
 translate french b1c04ns07_394097f3:
@@ -158,7 +158,7 @@ translate french b1c04ns07_394097f3:
 translate french b1c04ns07_2642c7cd:
 
     # nv "Really? I see a woman who's completely free. She's inherited the ruins of the world to do with as she pleases. It's kind of exciting, don't you think?"
-    nv "Vraiment ? Moi, je vois une femme totalement libre. Elle a hérité des ruines du monde et peut en faire ce qu'elle veut. C'est assez excitant, tu ne trouves pas ?"
+    nv "Vraiment? Moi, je vois une femme totalement libre. Elle a hérité des ruines du monde et peut en faire ce qu'elle veut. C'est assez excitant, tu ne trouves pas?"
 
 # game/code/Book-1/Chapter-4n/s07.rpy:101
 translate french b1c04ns07_8cc105c3:
@@ -170,13 +170,13 @@ translate french b1c04ns07_8cc105c3:
 translate french b1c04ns07_82334cd0:
 
     # nv "C'mon, there's lots more to see!"
-    nv "Allez, il y a plein d'autres choses à voir !"
+    nv "Allez, il y a plein d'autres choses à voir!"
 
 # game/code/Book-1/Chapter-4n/s07.rpy:107
 translate french b1c04ns07_79c6f7f4:
 
     # nv "Oh! I did a tattoo like this once. It had a lot more designs on it. The canvas wanted smoke to surround the woman."
-    nv "Oh ! J'ai fait un tatouage comme ça une fois. Il y avait beaucoup plus de motifs dessus. La personne voulait que de la fumée entoure la femme."
+    nv "Oh! J'ai fait un tatouage comme ça une fois. Il y avait beaucoup plus de motifs dessus. La personne voulait que de la fumée entoure la femme."
 
 # game/code/Book-1/Chapter-4n/s07.rpy:110
 translate french b1c04ns07_0f661770:
@@ -188,7 +188,7 @@ translate french b1c04ns07_0f661770:
 translate french b1c04ns07_ede58866:
 
     # mc "How long did it take you to complete?"
-    mc "Combien de temps ça t'a pris pour le terminer ?"
+    mc "Combien de temps ça t'a pris pour le terminer?"
 
 # game/code/Book-1/Chapter-4n/s07.rpy:116
 translate french b1c04ns07_8e91c325:
@@ -200,7 +200,7 @@ translate french b1c04ns07_8e91c325:
 translate french b1c04ns07_a87964ee:
 
     # mc "You really care about the tattoos you create, don't you?"
-    mc "Tu tiens vraiment aux tatouages que tu crées, pas vrai ?"
+    mc "Tu tiens vraiment aux tatouages que tu crées, pas vrai?"
 
 # game/code/Book-1/Chapter-4n/s07.rpy:122
 translate french b1c04ns07_2add3137:
@@ -218,7 +218,7 @@ translate french b1c04ns07_5d9b836d:
 translate french b1c04ns07_784202e1:
 
     # mc "And by canvas you mean...?"
-    mc "Et par « toile », tu veux dire... ?"
+    mc "Et par toile, tu veux dire...?"
 
 # game/code/Book-1/Chapter-4n/s07.rpy:129
 translate french b1c04ns07_611d5c8a:
@@ -254,7 +254,7 @@ translate french b1c04ns07_14dff858:
 translate french b1c04ns07_b745ce37:
 
     # nv "What do you think of this piece?"
-    nv "Que penses-tu de cette œuvre ?"
+    nv "Que penses-tu de cette œuvre?"
 
 # game/code/Book-1/Chapter-4n/s07.rpy:149
 translate french b1c04ns07_41302292:
@@ -266,7 +266,7 @@ translate french b1c04ns07_41302292:
 translate french b1c04ns07_b3ae6103:
 
     # nv "That's very insightful!"
-    nv "C'est très perspicace !"
+    nv "C'est très perspicace!"
 
 # game/code/Book-1/Chapter-4n/s07.rpy:155
 translate french b1c04ns07_a188ce1a:
@@ -284,7 +284,7 @@ translate french b1c04ns07_ba32af6a:
 translate french b1c04ns07_b8bf6b5f:
 
     # mc "Interesting. Sounds dramatic. What do you think she'll be reborn as?"
-    mc "Intéressant. Ça semble dramatique. En quoi penses-tu qu'elle renaîtra ?"
+    mc "Intéressant. Ça semble dramatique. En quoi penses-tu qu'elle renaîtra?"
 
 # game/code/Book-1/Chapter-4n/s07.rpy:162
 translate french b1c04ns07_310175bb:
@@ -326,7 +326,7 @@ translate french b1c04ns07_2b5be256:
 translate french b1c04ns07_63c3e8d5:
 
     # nv "Let's go see the next one!"
-    nv "Allons voir la suivante !"
+    nv "Allons voir la suivante!"
 
 # game/code/Book-1/Chapter-4n/s07.rpy:186
 translate french b1c04ns07_cde10a6e:
@@ -350,7 +350,7 @@ translate french b1c04ns07_a0531f7d:
 translate french b1c04ns07_3b88f2c8:
 
     # mc "No! No, I want to hear your thoughts."
-    mc "Non ! Non, je veux entendre tes réflexions."
+    mc "Non! Non, je veux entendre tes réflexions."
 
 # game/code/Book-1/Chapter-4n/s07.rpy:199
 translate french b1c04ns07_d6144031:
@@ -368,7 +368,7 @@ translate french b1c04ns07_52f3d09d:
 translate french b1c04ns07_34f8e9f1:
 
     # nv "And you see how she's turning her body toward it? I think she loves the machine too."
-    nv "Et tu vois comment elle tourne son corps vers lui ? Je pense qu'elle aime aussi la machine."
+    nv "Et tu vois comment elle tourne son corps vers lui? Je pense qu'elle aime aussi la machine."
 
 # game/code/Book-1/Chapter-4n/s07.rpy:206
 translate french b1c04ns07_ea0ca233:
@@ -410,25 +410,25 @@ translate french b1c04ns07_2fd2d602:
 translate french b1c04ns07_41e09149:
 
     # nv "I knew it was stupid!"
-    nv "Je savais que c'était stupide !"
+    nv "Je savais que c'était stupide!"
 
 # game/code/Book-1/Chapter-4n/s07.rpy:220
 translate french b1c04ns07_b21512f2:
 
     # mc "No! Nia, that's a great point of view! I was just taken aback by the intensity."
-    mc "Non ! Nia, c'est un excellent point de vue ! J'étais juste surpris(e) par l'intensité."
+    mc "Non! Nia, c'est un excellent point de vue! J'étais juste surpris(e) par l'intensité."
 
 # game/code/Book-1/Chapter-4n/s07.rpy:223
 translate french b1c04ns07_8e050917:
 
     # mc "I agree with your view, but what if the robot was more sinister?"
-    mc "Je suis d'accord avec ton point de vue, mais si le robot était plus sinistre ?"
+    mc "Je suis d'accord avec ton point de vue, mais si le robot était plus sinistre?"
 
 # game/code/Book-1/Chapter-4n/s07.rpy:226
 translate french b1c04ns07_4cc2fb85:
 
     # mc "It looks like a weapon of mass destruction. What if it was one of the machines that destroyed the planet in the first place?"
-    mc "Il ressemble à une arme de destruction massive. Et si c'était l'une des machines qui ont détruit la planète au départ ?"
+    mc "Il ressemble à une arme de destruction massive. Et si c'était l'une des machines qui ont détruit la planète au départ?"
 
 # game/code/Book-1/Chapter-4n/s07.rpy:227
 translate french b1c04ns07_92682687:
@@ -482,7 +482,7 @@ translate french b1c04ns07_1582d1cc:
 translate french b1c04ns07_3d32b8c0:
 
     # nv "What? Can't handle a little lust?"
-    nv "Quoi ? Tu ne supportes pas un peu de désir ?"
+    nv "Quoi? Tu ne supportes pas un peu de désir?"
 
 # game/code/Book-1/Chapter-4n/s07.rpy:252
 translate french b1c04ns07_b9c73645:
@@ -500,13 +500,13 @@ translate french b1c04ns07_17af808b:
 translate french b1c04ns07_83d7c55c:
 
     # nv "*Laughs* And now you're getting hard?"
-    nv "*Rit* Et maintenant tu bandes ?"
+    nv "*Rit* Et maintenant tu bandes?"
 
 # game/code/Book-1/Chapter-4n/s07.rpy:259
 translate french b1c04ns07_c6b07860:
 
     # mc "God! No I'm not!"
-    mc "Mon Dieu ! Non, ce n'est pas le cas !"
+    mc "Mon Dieu! Non, ce n'est pas le cas!"
 
 # game/code/Book-1/Chapter-4n/s07.rpy:260
 translate french b1c04ns07_513e5334:
@@ -524,7 +524,7 @@ translate french b1c04ns07_dec4429d:
 translate french b1c04ns07_24883462:
 
     # mc "Is there any deeper meaning to this? Or is it just a mechanical being fucking a woman?"
-    mc "Y a-t-il un sens plus profond à cela ? Ou est-ce juste un être mécanique qui baise une femme ?"
+    mc "Y a-t-il un sens plus profond à cela? Ou est-ce juste un être mécanique qui baise une femme?"
 
 # game/code/Book-1/Chapter-4n/s07.rpy:269
 translate french b1c04ns07_97908749:
@@ -596,13 +596,13 @@ translate french b1c04ns07_73fcf18f:
 translate french b1c04ns07_d792115e:
 
     # mc "Oh! That's...Maria."
-    mc "Oh ! C'est...Maria."
+    mc "Oh! C'est...Maria."
 
 # game/code/Book-1/Chapter-4n/s07.rpy:302
 translate french b1c04ns07_32bbd92f:
 
     # mc "She's the friend who gave you a preview of this exhibit, isn't she?"
-    mc "C'est l'amie qui t'a donné un aperçu de cette exposition, n'est-ce pas ?"
+    mc "C'est l'amie qui t'a donné un aperçu de cette exposition, n'est-ce pas?"
 
 # game/code/Book-1/Chapter-4n/s07.rpy:305
 translate french b1c04ns07_cd6e018d:
@@ -662,7 +662,7 @@ translate french b1c04ns07_2bffc7e1:
 translate french b1c04ns07_377db0de:
 
     # mc "Was Maria as artistic as you? Did she draw or tattoo?"
-    mc "Maria était-elle aussi artistique que toi ? Elle dessinait ou tatouait ?"
+    mc "Maria était-elle aussi artistique que toi? Elle dessinait ou tatouait?"
 
 # game/code/Book-1/Chapter-4n/s07.rpy:335
 translate french b1c04ns07_034f7932:
@@ -698,13 +698,13 @@ translate french b1c04ns07_af768295:
 translate french b1c04ns07_c6123a2a:
 
     # mc "Oh? What's it mean to be a substantial member within the group?"
-    mc "Oh ? Qu'est-ce que ça signifie d'être un membre important dans le groupe ?"
+    mc "Oh? Qu'est-ce que ça signifie d'être un membre important dans le groupe?"
 
 # game/code/Book-1/Chapter-4n/s07.rpy:349
 translate french b1c04ns07_6b6af28b:
 
     # nv "Why? Are you hoping to make your way to the top?"
-    nv "Pourquoi ? Tu espères te hisser au sommet ?"
+    nv "Pourquoi? Tu espères te hisser au sommet?"
 
 # game/code/Book-1/Chapter-4n/s07.rpy:352
 translate french b1c04ns07_71fd8dc3:
@@ -764,7 +764,7 @@ translate french b1c04ns07_f9a0fbed:
 translate french b1c04ns07_671e1814:
 
     # mct "Spiritual journey? That's an interesting way to describe it."
-    mct "Parcours spirituel ? C'est une façon intéressante de le décrire."
+    mct "Parcours spirituel? C'est une façon intéressante de le décrire."
 
 # game/code/Book-1/Chapter-4n/s07.rpy:380
 translate french b1c04ns07_2b5ee014:
@@ -806,12 +806,11 @@ translate french b1c04ns07_cf0f5164:
 translate french b1c04ns07_679fb911:
 
     # mc "You want me to walk you back to campus?"
-    mc "Tu veux que je te raccompagne au campus ?"
+    mc "Tu veux que je te raccompagne au campus?"
 
 # game/code/Book-1/Chapter-4n/s07.rpy:397
 translate french b1c04ns07_abda34a4:
 
     # nv "Sure, I'd like that."
     nv "Bien sûr, j'aimerais ça."
-
 

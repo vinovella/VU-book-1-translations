@@ -14,7 +14,7 @@ translate french b1c04zs03_7c3109ff:
 translate french b1c04zs03_9c31ec99:
 
     # mc "Sorry!"
-    mc "Désolé !"
+    mc "Désolé!"
 
 # game/code/Book-1/Chapter-4z/s03.rpy:46
 translate french b1c04zs03_79dba188:
@@ -26,13 +26,13 @@ translate french b1c04zs03_79dba188:
 translate french b1c04zs03_7afa64eb:
 
     # mct "Where is she going now?"
-    mct "Où va-t-elle maintenant ?"
+    mct "Où va-t-elle maintenant?"
 
 # game/code/Book-1/Chapter-4z/s03.rpy:56
 translate french b1c04zs03_fbbe70bf:
 
     # mct "What purpose could she have, going into an empty classroom?"
-    mct "Quel intérêt peut-elle avoir à entrer dans une salle de classe vide ?"
+    mct "Quel intérêt peut-elle avoir à entrer dans une salle de classe vide?"
 
 # game/code/Book-1/Chapter-4z/s03.rpy:59
 translate french b1c04zs03_91f8eb5d:
@@ -44,7 +44,7 @@ translate french b1c04zs03_91f8eb5d:
 translate french b1c04zs03_1c02e5af:
 
     # mct "Is she waiting for someone? Why would she be waiting in here?"
-    mct "Est-ce qu'elle attend quelqu'un ? Pourquoi attendrait-elle ici ?"
+    mct "Est-ce qu'elle attend quelqu'un? Pourquoi attendrait-elle ici?"
 
 # game/code/Book-1/Chapter-4z/s03.rpy:65
 translate french b1c04zs03_4b36854b:
@@ -68,7 +68,7 @@ translate french b1c04zs03_a4490cec:
 translate french b1c04zs03_6c85cce6:
 
     # nr "Hey. You're the guy I saw talking with Z. You here to redeem the favor?"
-    nr "Hey. T'es le gars que j'ai vu parler avec Z. Tu viens réclamer la faveur ?"
+    nr "Hey. T'es le gars que j'ai vu parler avec Z. Tu viens réclamer la faveur?"
 
 # game/code/Book-1/Chapter-4z/s03.rpy:96
 translate french b01c04zs03m01_0fa5dbed:
@@ -98,7 +98,7 @@ translate french b01c04zs03m01_4f02147b:
 translate french b01c04zs03m01_0fdf68b2:
 
     # mct "Uhh, should I stop her? What's she doing?"
-    mct "Euh, je devrais l'arrêter ? Qu'est-ce qu'elle fait ?"
+    mct "Euh, je devrais l'arrêter? Qu'est-ce qu'elle fait?"
 
 # game/code/Book-1/Chapter-4z/s03.rpy:110
 translate french b01c04zs03m01_62f36a60:
@@ -116,7 +116,7 @@ translate french b01c04zs03m01_9622371e:
 translate french b01c04zs03m01_11455b53:
 
     # mc "What?"
-    mc "Quoi ?"
+    mc "Quoi?"
 
 # game/code/Book-1/Chapter-4z/s03.rpy:124
 translate french b01c04zs03m01_81c503cd:
@@ -182,7 +182,7 @@ translate french b01c04zs03m01_81df569c:
 translate french b01c04zs03m01_8314f6b0:
 
     # nr "You like it deep, don't you? I can tell."
-    nr "Tu aimes ça profondément, n'est-ce pas ? Je peux le dire."
+    nr "Tu aimes ça profondément, n'est-ce pas? Je peux le dire."
 
 # game/code/Book-1/Chapter-4z/s03.rpy:169
 translate french b01c04zs03m01_34ad62af:
@@ -356,13 +356,13 @@ translate french b01c04zs03m01_6d5f8951:
 translate french b01c04zs03m01_21107879:
 
     # mc "Do you do this often?"
-    mc "Est-ce que tu fais ça souvent ?"
+    mc "Est-ce que tu fais ça souvent?"
 
 # game/code/Book-1/Chapter-4z/s03.rpy:277
 translate french b01c04zs03m01_f23e85ec:
 
     # nr "I might if you're around more often. Did you like the blowjob?"
-    nr "Je pourrais le faire si tu es là plus souvent. As-tu aimé la pipe ?"
+    nr "Je pourrais le faire si tu es là plus souvent. As-tu aimé la pipe?"
 
 # game/code/Book-1/Chapter-4z/s03.rpy:280
 translate french b01c04zs03m01_8bf6cf57:
@@ -386,7 +386,7 @@ translate french b01c04zs03m01_d9b4c156:
 translate french b01c04zs03m01_b7478935:
 
     # mct "Is Zemfira involved with some sort of sex ring?"
-    mct "Est-ce que Zemfira est impliqué dans une sorte de réseau sexuel ?"
+    mct "Est-ce que Zemfira est impliqué dans une sorte de réseau sexuel?"
 
 # game/code/Book-1/Chapter-4z/s03.rpy:295
 translate french b01c04zs03m01_b973dea9:
@@ -398,7 +398,7 @@ translate french b01c04zs03m01_b973dea9:
 translate french b01c04zs03m01_d622ca48:
 
     # mct "If Zemfira is involved with this, and Leia was close to Zemfira...does that mean Leia was involved with this as well?"
-    mct "Si Zemfira est impliquée dans cela et que Leia était proche de Zemfira... cela signifie-t-il que Leia était également impliquée dans cela ?"
+    mct "Si Zemfira est impliquée dans cela et que Leia était proche de Zemfira... cela signifie-t-il que Leia était également impliquée dans cela?"
 
 # game/code/Book-1/Chapter-4z/s03.rpy:298
 translate french b01c04zs03m01_3c4a3e3e:
@@ -434,13 +434,13 @@ translate french b01c04zs03m01_749392a5:
 translate french b01c04zs03m01_59ad9e07:
 
     # mc "I'm not sure. What's the favor?"
-    mc "Je ne suis pas sûr. Quelle est la faveur ?"
+    mc "Je ne suis pas sûr. Quelle est la faveur?"
 
 # game/code/Book-1/Chapter-4z/s03.rpy:317
 translate french b01c04zs03m01_0b26c9db:
 
     # nr "It's...you don't know what you want?"
-    nr "C'est...tu ne sais pas ce que tu veux ?"
+    nr "C'est...tu ne sais pas ce que tu veux?"
 
 # game/code/Book-1/Chapter-4z/s03.rpy:320
 translate french b01c04zs03m01_7be80b46:
@@ -452,13 +452,13 @@ translate french b01c04zs03m01_7be80b46:
 translate french b01c04zs03m01_ac65f60c:
 
     # nr "Er...do you want to redeem the favor or not?"
-    nr "Euh...tu veux réclamer la faveur ou pas ?"
+    nr "Euh...tu veux réclamer la faveur ou pas?"
 
 # game/code/Book-1/Chapter-4z/s03.rpy:324
 translate french b01c04zs03m01_e6048ec5:
 
     # nr "...Do you know what the favors are even?"
-    nr "...Tu sais au moins ce que sont les faveurs ?"
+    nr "...Tu sais au moins ce que sont les faveurs?"
 
 # game/code/Book-1/Chapter-4z/s03.rpy:325
 translate french b01c04zs03m01_928b0ded:
@@ -470,31 +470,31 @@ translate french b01c04zs03m01_928b0ded:
 translate french b01c04zs03m01_aa687c83:
 
     # mc "Is...this some sort of sex thing?"
-    mc "Est-ce...un genre de truc sexuel ?"
+    mc "Est-ce...un genre de truc sexuel?"
 
 # game/code/Book-1/Chapter-4z/s03.rpy:331
 translate french b01c04zs03m01_788861f9:
 
     # nr "...{w} What ever gave you that idea?"
-    nr "...{w} Qu'est-ce qui te fait penser ça ?"
+    nr "...{w} Qu'est-ce qui te fait penser ça?"
 
 # game/code/Book-1/Chapter-4z/s03.rpy:334
 translate french b01c04zs03m01_52a06051:
 
     # mc "Hey, wait!"
-    mc "Hé, attends !"
+    mc "Hé, attends!"
 
 # game/code/Book-1/Chapter-4z/s03.rpy:335
 translate french b01c04zs03m01_9252aa90:
 
     # mc "You mean, like... aren't you talking about exchanging sexual favors?"
-    mc "Tu veux dire, genre... tu ne parles pas d'échanger des faveurs sexuelles ?"
+    mc "Tu veux dire, genre... tu ne parles pas d'échanger des faveurs sexuelles?"
 
 # game/code/Book-1/Chapter-4z/s03.rpy:337
 translate french b01c04zs03m01_e2f587e3:
 
     # nr "No idea what you're talking about! I gotta go."
-    nr "Aucune idée de ce dont tu parles ! Je dois y aller."
+    nr "Aucune idée de ce dont tu parles! Je dois y aller."
 
 # game/code/Book-1/Chapter-4z/s03.rpy:343
 translate french b01c04zs03m01_4b623aaf:
@@ -522,4 +522,5 @@ translate french strings:
 
     # game/code/Book-1/Chapter-4z/s03.rpy:89
     old "I'm not sure. What is the favor?"
-    new "Je ne suis pas sûr. Quelle est la faveur ?"
+    new "Je ne suis pas sûr. Quelle est la faveur?"
+

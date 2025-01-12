@@ -9,7 +9,7 @@ translate french b1c02s03_f6d5f94e:
 translate french b1c02s03_06623a34:
 
     # mo "Does my hair look okay?"
-    mo "Mes cheveux sont-ils bien coiffés ?"
+    mo "Mes cheveux sont-ils bien coiffés?"
 
 # game/code/Book-1/Chapter-2/s03.rpy:22
 translate french b1c02s03_5554a8ca:
@@ -21,7 +21,7 @@ translate french b1c02s03_5554a8ca:
 translate french b1c02s03_c6eea2c6:
 
     # mo "C'mon, Phoebe. Do you really think they'd be able to fuck up my looks that badly?"
-    mo "Allez, Phoebe. Tu penses vraiment qu'ils pourraient ruiner mon apparence à ce point ?"
+    mo "Allez, Phoebe. Tu penses vraiment qu'ils pourraient ruiner mon apparence à ce point?"
 
 # game/code/Book-1/Chapter-2/s03.rpy:28
 translate french b1c02s03_c4cef518:
@@ -81,7 +81,7 @@ translate french b1c02s03_cdb3dad5:
 translate french b1c02s03_4db2cd25:
 
     # mo "Stop what?"
-    mo "Arrêter quoi ?"
+    mo "Arrêter quoi?"
 
 # game/code/Book-1/Chapter-2/s03.rpy:61
 translate french b1c02s03_9e68c61a:
@@ -93,7 +93,7 @@ translate french b1c02s03_9e68c61a:
 translate french b1c02s03_8ec8af18:
 
     # mo "I don't understand. Did I do something wrong?"
-    mo "Je ne comprends pas. J'ai fait quelque chose de mal ?"
+    mo "Je ne comprends pas. J'ai fait quelque chose de mal?"
 
 # game/code/Book-1/Chapter-2/s03.rpy:67
 translate french b1c02s03_5de64578:
@@ -111,7 +111,7 @@ translate french b1c02s03_b24455ba:
 translate french b1c02s03_64e98aa4:
 
     # mo "So...? Why should that change anything between us?"
-    mo "Alors...? Pourquoi cela devrait-il changer quoi que ce soit entre nous ?"
+    mo "Alors...? Pourquoi cela devrait-il changer quoi que ce soit entre nous?"
 
 # game/code/Book-1/Chapter-2/s03.rpy:74
 translate french b1c02s03_c18d9e04:
@@ -135,19 +135,19 @@ translate french b1c02s03_dc29b406:
 translate french b1c02s03_0c5b2c6c:
 
     # mo "Did you do something to influence the Captain's decision? Is this just special treatment because of your influence?"
-    mo "As-tu fait quelque chose pour influencer la décision du capitaine ? Est-ce juste un traitement de faveur grâce à ton influence ?"
+    mo "As-tu fait quelque chose pour influencer la décision du capitaine? Est-ce juste un traitement de faveur grâce à ton influence?"
 
 # game/code/Book-1/Chapter-2/s03.rpy:87
 translate french b1c02s03_5db710be:
 
     # pm "Of course not! No. I...was against it."
-    pm "Bien sûr que non ! Non. J'étais...contre."
+    pm "Bien sûr que non! Non. J'étais...contre."
 
 # game/code/Book-1/Chapter-2/s03.rpy:90
 translate french b1c02s03_96f78792:
 
     # mo "Why were you against it? I noticed you were tense at the briefing, but I figured you were just being professional around the Captain."
-    mo "Pourquoi étais-tu contre ? J'ai remarqué que tu étais tendu lors du briefing, mais je pensais que tu faisais simplement preuve de professionnalisme devant le capitaine."
+    mo "Pourquoi étais-tu contre? J'ai remarqué que tu étais tendu lors du briefing, mais je pensais que tu faisais simplement preuve de professionnalisme devant le capitaine."
 
 # game/code/Book-1/Chapter-2/s03.rpy:93
 translate french b1c02s03_7bbda538:
@@ -159,7 +159,7 @@ translate french b1c02s03_7bbda538:
 translate french b1c02s03_423e3f93:
 
     # mo "Why should that affect us? We're adults. I don't see why we can't do both."
-    mo "Pourquoi cela devrait-il nous affecter ? Nous sommes adultes. Je ne vois pas pourquoi nous ne pourrions pas faire les deux."
+    mo "Pourquoi cela devrait-il nous affecter? Nous sommes adultes. Je ne vois pas pourquoi nous ne pourrions pas faire les deux."
 
 # game/code/Book-1/Chapter-2/s03.rpy:99
 translate french b1c02s03_b17a16b2:
@@ -171,7 +171,7 @@ translate french b1c02s03_b17a16b2:
 translate french b1c02s03_4d8131e4:
 
     # mo "That didn't stop us before. What changed?"
-    mo "Ça ne nous a pas arrêtés avant. Qu'est-ce qui a changé ?"
+    mo "Ça ne nous a pas arrêtés avant. Qu'est-ce qui a changé?"
 
 # game/code/Book-1/Chapter-2/s03.rpy:106
 translate french b1c02s03_ae1160f1:
@@ -183,7 +183,7 @@ translate french b1c02s03_ae1160f1:
 translate french b1c02s03_5670b886:
 
     # mo "So what if I have a mission?"
-    mo "Et alors si j'ai une mission ?"
+    mo "Et alors si j'ai une mission?"
 
 # game/code/Book-1/Chapter-2/s03.rpy:112
 translate french b1c02s03_24302dd0:
@@ -213,7 +213,7 @@ translate french b1c02s03_640ca505:
 translate french b1c02s03_3a4c7af0:
 
     # pm "Alright, [mcname]. It's time for school. One more kiss for mom?"
-    pm "Bien, [mcname]. C'est l'heure d'aller à l'école. Un dernier bisou pour maman ?"
+    pm "Bien, [mcname]. C'est l'heure d'aller à l'école. Un dernier bisou pour maman?"
 
 # game/code/Book-1/Chapter-2/s03.rpy:134
 translate french b1c02s03_88ae7914:

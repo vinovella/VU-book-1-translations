@@ -2,7 +2,7 @@
 translate french b1c07ss12_debc3f50:
 
     # cb "So, how'd you get on?"
-    cb "Alors, comment ça s'est passé ?"
+    cb "Alors, comment ça s'est passé?"
 
 # game/code/Book-1/Chapter-7s/s12.rpy:54
 translate french b1c07ss12_45b4b720:
@@ -26,7 +26,7 @@ translate french b1c07ss12_e69d8425:
 translate french b1c07ss12_5127a63a:
 
     # cb "How did Rory seem? Was she okay?"
-    cb "Comment semblait Rory ? Elle allait bien ?"
+    cb "Comment semblait Rory? Elle allait bien?"
 
 # game/code/Book-1/Chapter-7s/s12.rpy:64
 translate french b1c07ss12_f5e60a94:
@@ -80,7 +80,7 @@ translate french b1c07ss12_f57f54d5:
 translate french b1c07ss12_38174dc0:
 
     # cb "But we all make our own choices, y'know?"
-    cb "Mais on fait tous nos propres choix, tu sais ?"
+    cb "Mais on fait tous nos propres choix, tu sais?"
 
 # game/code/Book-1/Chapter-7s/s12.rpy:90
 translate french b1c07ss12_e5544801:
@@ -104,7 +104,7 @@ translate french b1c07ss12_407020e4:
 translate french b1c07ss12_9764ebf0:
 
     # mc "Fighting? Like, illegally?"
-    mc "Te battre ? Genre, illégalement ?"
+    mc "Te battre? Genre, illégalement?"
 
 # game/code/Book-1/Chapter-7s/s12.rpy:100
 translate french b1c07ss12_5cf435c7:
@@ -128,7 +128,7 @@ translate french b1c07ss12_f0852429:
 translate french b1c07ss12_962636ff:
 
     # mc "Organization?"
-    mc "Organisation ?"
+    mc "Organisation?"
 
 # game/code/Book-1/Chapter-7s/s12.rpy:109
 translate french b1c07ss12_686179cb:
@@ -146,13 +146,13 @@ translate french b1c07ss12_12037366:
 translate french b1c07ss12_e52a0231:
 
     # mc "Leia de la Cruz?"
-    mc "Leia de la Cruz ?"
+    mc "Leia de la Cruz?"
 
 # game/code/Book-1/Chapter-7s/s12.rpy:120
 translate french b1c07ss12_e41080de:
 
     # cb "Yep. You know her?"
-    cb "Ouais. Tu la connais ?"
+    cb "Ouais. Tu la connais?"
 
 # game/code/Book-1/Chapter-7s/s12.rpy:123
 translate french b1c07ss12_61a780e9:
@@ -170,7 +170,7 @@ translate french b1c07ss12_b296e66a:
 translate french b1c07ss12_2ff644f0:
 
     # mc "Do you know anything about that? Was there anyone who might've had ill will toward Leia?"
-    mc "Tu sais quelque chose à ce sujet ? Il y avait-il quelqu'un qui aurait pu en vouloir à Leia ?"
+    mc "Tu sais quelque chose à ce sujet? Il y avait-il quelqu'un qui aurait pu en vouloir à Leia?"
 
 # game/code/Book-1/Chapter-7s/s12.rpy:132
 translate french b1c07ss12_101d7545:
@@ -188,7 +188,7 @@ translate french b1c07ss12_93c5ddf6:
 translate french b1c07ss12_a56f175e:
 
     # cb "She's why you came to see me, isn't it?"
-    cb "C'est pour elle que tu es venu me voir, n'est-ce pas ?"
+    cb "C'est pour elle que tu es venu me voir, n'est-ce pas?"
 
 # game/code/Book-1/Chapter-7s/s12.rpy:141
 translate french b1c07ss12_e334e13f:
@@ -314,7 +314,7 @@ translate french b1c07ss12_past_28feb008:
 translate french b1c07ss12_past_756c3d11:
 
     # mg "{i}It doesn't matter! What happened to loyalty?! We're family! That should be more important than FIGHTING!{/i}"
-    mg "{i}Peu importe ! Qu'est-il arrivé à la loyauté ?! On est une famille ! Ça devrait être plus important que se BATTRE !{/i}"
+    mg "{i}Peu importe! Qu'est-il arrivé à la loyauté?! On est une famille! Ça devrait être plus important que se BATTRE!{/i}"
 
 # game/code/Book-1/Chapter-7s/s12.rpy:223
 translate french b1c07ss12_past_1912b5a8:
@@ -326,7 +326,7 @@ translate french b1c07ss12_past_1912b5a8:
 translate french b1c07ss12_past_3a9d4a11:
 
     # mg "{i}Bullshit! That's what it's always been about with you! All you do is fight, and now you're so out of control you're fighting the people you love most.{/i}"
-    mg "{i}C'est des conneries! C'est toujours ce que ça a été avec toi ! Tout ce que tu fais, c'est te battre, et maintenant tu es tellement hors de contrôle que tu te bats contre les gens que tu aimes le plus.{/i}"
+    mg "{i}C'est des conneries! C'est toujours ce que ça a été avec toi! Tout ce que tu fais, c'est te battre, et maintenant tu es tellement hors de contrôle que tu te bats contre les gens que tu aimes le plus.{/i}"
 
 # game/code/Book-1/Chapter-7s/s12.rpy:237
 translate french b1c07ss12_past_8e5d1409:
@@ -338,13 +338,13 @@ translate french b1c07ss12_past_8e5d1409:
 translate french b1c07ss12_past_230e81f1:
 
     # cbp "{i}I gotta do my job, Morgan!{/i}"
-    cbp "{i}Je dois faire mon travail, Morgan !{/i}"
+    cbp "{i}Je dois faire mon travail, Morgan!{/i}"
 
 # game/code/Book-1/Chapter-7s/s12.rpy:246
 translate french b1c07ss12_past_3ed5962e:
 
     # cbp "{i}Please! I don't want to fight you! I'm trying to protect you.{/i}"
-    cbp "{i}S'il te plaît ! Je ne veux pas me battre contre toi ! J'essaie de te protéger.{/i}"
+    cbp "{i}S'il te plaît! Je ne veux pas me battre contre toi! J'essaie de te protéger.{/i}"
 
 # game/code/Book-1/Chapter-7s/s12.rpy:259
 translate french b1c07ss12_past_5bc793d1:
@@ -362,7 +362,7 @@ translate french b1c07ss12_past_53cf567c:
 translate french b1c07ss12_past_11e773c1:
 
     # mg "{i}I don't give a FUCK what Xasan wants!{/i}"
-    mg "{i}Je m'en fous de ce que veut Xasan !{/i}"
+    mg "{i}Je m'en fous de ce que veut Xasan!{/i}"
 
 # game/code/Book-1/Chapter-7s/s12.rpy:290
 translate french b1c07ss12_past_e47b1c91:
@@ -392,19 +392,19 @@ translate french b1c07ss12_past_af95f5a7:
 translate french b1c07ss12_past_726ea2c1:
 
     # rg "{i}Morgan, stop!{/i}"
-    rg "{i}Morgan, arrête !{/i}"
+    rg "{i}Morgan, arrête!{/i}"
 
 # game/code/Book-1/Chapter-7s/s12.rpy:338
 translate french b1c07ss12_past_bc48c7f8:
 
     # mg "{i}Why the fuck did you make me do this?!{/i}"
-    mg "{i}Pourquoi diable m'as-tu forcée à faire ça ?!{/i}"
+    mg "{i}Pourquoi diable m'as-tu forcée à faire ça?!{/i}"
 
 # game/code/Book-1/Chapter-7s/s12.rpy:339
 translate french b1c07ss12_past_3f51bfef:
 
     # mg "{i}You're supposed to be my sister. How did this happen to us?{/i}"
-    mg "{i}Tu es censée être ma sœur. Comment on en est arrivées là ?{/i}"
+    mg "{i}Tu es censée être ma sœur. Comment on en est arrivées là?{/i}"
 
 # game/code/Book-1/Chapter-7s/s12.rpy:347
 translate french b1c07ss12_past_ec129d28:
@@ -416,13 +416,13 @@ translate french b1c07ss12_past_ec129d28:
 translate french b1c07ss12_past_d0b3e04c:
 
     # rg "{i}M-Morg you gotta go. The cops are here. I-I'll keep you out of the police report. But you gotta go!{/i}"
-    rg "{i}M-Morg, tu dois y aller. Les flics sont là. J-Je vais te garder hors du rapport de police. Mais tu dois partir !{/i}"
+    rg "{i}M-Morg, tu dois y aller. Les flics sont là. J-Je vais te garder hors du rapport de police. Mais tu dois partir!{/i}"
 
 # game/code/Book-1/Chapter-7s/s12.rpy:362
 translate french b1c07ss12_past_77c01f0d:
 
     # mg "{i}Fuck. Okay. I'll talk to you later Rory, alright?{/i}"
-    mg "{i}Putain. D'accord. Je te parlerai plus tard Rory, d'accord ?{/i}"
+    mg "{i}Putain. D'accord. Je te parlerai plus tard Rory, d'accord?{/i}"
 
 # game/code/Book-1/Chapter-7s/s12.rpy:382
 translate french b1c07ss12_present_f3f48bd5:
@@ -470,13 +470,13 @@ translate french b1c07ss12_present_fd13687a:
 translate french b1c07ss12_present_4c393404:
 
     # cb "You wanna fuck?"
-    cb "Tu veux baiser ?"
+    cb "Tu veux baiser?"
 
 # game/code/Book-1/Chapter-7s/s12.rpy:410
 translate french b1c07ss12_present_11455b53:
 
     # mc "What?"
-    mc "Quoi ?"
+    mc "Quoi?"
 
 # game/code/Book-1/Chapter-7s/s12.rpy:413
 translate french b1c07ss12_present_75974cf5:
@@ -488,7 +488,7 @@ translate french b1c07ss12_present_75974cf5:
 translate french b1c07ss12_present_a63cca2e:
 
     # mct "Is she just joking around? Hard to tell with Corinne."
-    mct "Est-ce qu'elle rigole juste ? Difficile à dire avec Corinne."
+    mct "Est-ce qu'elle rigole juste? Difficile à dire avec Corinne."
 
 # game/code/Book-1/Chapter-7s/s12.rpy:420
 translate french b1c07ss12_present_818c66cb:
@@ -530,7 +530,7 @@ translate french b1c07ss12_present_aeec16d2:
 translate french b1c07ss12_present_558c652b:
 
     # mc "With a skill like that, why're you still locked up?"
-    mc "Avec une compétence pareille, pourquoi es-tu encore enfermée ?"
+    mc "Avec une compétence pareille, pourquoi es-tu encore enfermée?"
 
 # game/code/Book-1/Chapter-7s/s12.rpy:456
 translate french b1c07ss12_present_4ad51437:
@@ -590,7 +590,7 @@ translate french b1c07ss12_no_sex_30003b90:
 translate french b1c07ss12_no_sex_805c394f:
 
     # cb "Huh?"
-    cb "Hein ?"
+    cb "Hein?"
 
 # game/code/Book-1/Chapter-7s/s12.rpy:492
 translate french b1c07ss12_no_sex_6e5cf9cb:
@@ -614,7 +614,7 @@ translate french b1c07ss12_no_sex_2c6c6aa1:
 translate french b1c07ss12_no_sex_adc1b720:
 
     # cb "Gotta keep you coming back for more, right?"
-    cb "Faut te donner envie de revenir pour en avoir plus, pas vrai ?"
+    cb "Faut te donner envie de revenir pour en avoir plus, pas vrai?"
 
 # game/code/Book-1/Chapter-7s/s12.rpy:506
 translate french b1c07ss12_no_sex_2ddd67e9:
@@ -626,7 +626,7 @@ translate french b1c07ss12_no_sex_2ddd67e9:
 translate french b1c07ss12_no_sex_29c057f2:
 
     # "Guard" "God damnit, you did it again!"
-    "Garde" "Bon sang, tu l'as encore fait !"
+    "Garde" "Bon sang, tu l'as encore fait!"
 
 # game/code/Book-1/Chapter-7s/s12.rpy:510
 translate french b1c07ss12_no_sex_f3f78ef6:
@@ -656,7 +656,7 @@ translate french b1c07ss12_sex_4e451237:
 translate french b1c07ss12_sex_6e5a3e75:
 
     # cb "Mm!"
-    cb "Mm !"
+    cb "Mm!"
 
 # game/code/Book-1/Chapter-7s/s12.rpy:563
 translate french b1c07ss12_sex_47fcbf0e:
@@ -674,7 +674,7 @@ translate french b1c07ss12_sex_a34f4552:
 translate french b1c07ss12_sex_4c6d0054:
 
     # cb "Fuck me. Please? It's been so long..."
-    cb "Baise-moi. S'il te plaît ? Ça fait si longtemps..."
+    cb "Baise-moi. S'il te plaît? Ça fait si longtemps..."
 
 # game/code/Book-1/Chapter-7s/s12.rpy:574
 translate french b1c07ss12_sex_5f78c36a:
@@ -704,13 +704,13 @@ translate french b1c07ss12_sex_15aec069:
 translate french b1c07ss12_sex_1905726a:
 
     # cb "Oh! That feels so good—"
-    cb "Oh ! Ça fait tellement de bien—"
+    cb "Oh! Ça fait tellement de bien—"
 
 # game/code/Book-1/Chapter-7s/s12.rpy:609
 translate french b1c07ss12_sex_5e9b2c42:
 
     # mc "Shh. You don't want the guards to hear, do you?"
-    mc "Chut. Tu ne veux pas que les gardes entendent, n'est-ce pas ?"
+    mc "Chut. Tu ne veux pas que les gardes entendent, n'est-ce pas?"
 
 # game/code/Book-1/Chapter-7s/s12.rpy:612
 translate french b1c07ss12_sex_be50b27a:
@@ -758,7 +758,7 @@ translate french b1c07ss12_sex_1ff391ea:
 translate french b1c07ss12_sex_47474409:
 
     # cb "Go faster. Please, I wanna cum on you. I'm so close!"
-    cb "Va plus vite. S'il te plaît, je veux jouir sur toi. Je suis si proche !"
+    cb "Va plus vite. S'il te plaît, je veux jouir sur toi. Je suis si proche!"
 
 # game/code/Book-1/Chapter-7s/s12.rpy:659
 translate french b1c07ss12_sex_5734ce8d:
@@ -782,7 +782,7 @@ translate french b1c07ss12_sex_f73e4fed:
 translate french b1c07ss12_sex_3bb6a1b4:
 
     # cb "I'm cumming!"
-    cb "Je jouis !"
+    cb "Je jouis!"
 
 # game/code/Book-1/Chapter-7s/s12.rpy:679
 translate french b1c07ss12_sex_b6c22b3f:
@@ -913,3 +913,4 @@ translate french strings:
     # game/code/Book-1/Chapter-7s/s12.rpy:470
     old "You're bluffing."
     new "Tu bluffes."
+

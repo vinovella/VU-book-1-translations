@@ -8,7 +8,7 @@ translate french b1c08s02_ef0dfda3:
 translate french b1c08s02_64eef1ac:
 
     # jh "Nuh-uh! You didn't outclimb me at all! For all your muscles and showboating, you almost killed yourself {i}and{/i} Lara!"
-    jh "Non, non ! Tu ne m'as pas dépassée en escalade du tout ! Avec tous tes muscles et ta fanfaronnade, tu t'es presque tué {i}et{/i} Lara !"
+    jh "Non, non! Tu ne m'as pas dépassée en escalade du tout! Avec tous tes muscles et ta fanfaronnade, tu t'es presque tué {i}et{/i} Lara!"
 
 # game/code/Book-1/Chapter-8/s02.rpy:28
 translate french b1c08s02_99b53b06:
@@ -26,7 +26,7 @@ translate french b1c08s02_226805f2:
 translate french b1c08s02_17b11bb0:
 
     # mc "*Mock gasp* What is this? Could I possibly be hearing a hint of jealousy? Are you jealous because I didn't lift you, Lara?"
-    mc "*Feint de s'étonner* Qu'est-ce que c'est ? J'entends une petite touche de jalousie ? Tu es jalouse parce que je ne t'ai pas soulevée, Lara ?"
+    mc "*Feint de s'étonner* Qu'est-ce que c'est? J'entends une petite touche de jalousie? Tu es jalouse parce que je ne t'ai pas soulevée, Lara?"
 
 # game/code/Book-1/Chapter-8/s02.rpy:35
 translate french b1c08s02_14997808:
@@ -50,49 +50,49 @@ translate french b1c08s02_af67b450:
 translate french b1c08s02_c8ecab88:
 
     # jh "Ugh, I'm hungry. How about we go get something to eat? There's a good Chinese place nearby."
-    jh "Beurk, j'ai faim. On va manger quelque chose ? Il y a un bon resto chinois pas loin."
+    jh "Beurk, j'ai faim. On va manger quelque chose? Il y a un bon resto chinois pas loin."
 
 # game/code/Book-1/Chapter-8/s02.rpy:45
 translate french b1c08s02_c7309df2:
 
     # jh "Oh! And we could go to the garden on the roof. We could eat there."
-    jh "Oh ! Et on pourrait aller au jardin sur le toit. On pourrait manger là-bas."
+    jh "Oh! Et on pourrait aller au jardin sur le toit. On pourrait manger là-bas."
 
 # game/code/Book-1/Chapter-8/s02.rpy:48
 translate french b1c08s02_ba6b0cba:
 
     # lw "So now you're taking [mcname] to another of our spots, huh?"
-    lw "Alors maintenant tu emmènes [mcname] dans un autre de nos coins, hein ?"
+    lw "Alors maintenant tu emmènes [mcname] dans un autre de nos coins, hein?"
 
 # game/code/Book-1/Chapter-8/s02.rpy:51
 translate french b1c08s02_88c53824:
 
     # jh "It's a nice spot! I can't {i}not{/i} share it."
-    jh "C'est un joli coin ! Je ne peux pas {i}ne pas{/i} le partager."
+    jh "C'est un joli coin! Je ne peux pas {i}ne pas{/i} le partager."
 
 # game/code/Book-1/Chapter-8/s02.rpy:55
 translate french b1c08s02_2eb62f13:
 
     # mct "Garden on the roof? Is she talking about the same one as the self-help group?"
-    mct "Jardin sur le toit ? Elle parle du même que celui du groupe de soutien ?"
+    mct "Jardin sur le toit? Elle parle du même que celui du groupe de soutien?"
 
 # game/code/Book-1/Chapter-8/s02.rpy:58
 translate french b1c08s02_73419859:
 
     # mc "We have a garden on the roof?"
-    mc "On a un jardin sur le toit ?"
+    mc "On a un jardin sur le toit?"
 
 # game/code/Book-1/Chapter-8/s02.rpy:61
 translate french b1c08s02_fa22f380:
 
     # jh "Oh yeah! It's pretty cool. I was a part of this self-help group when I first got into uni. They loved going up there. It was their little Eden, I guess."
-    jh "Oh ouais ! C'est plutôt cool. J'ai fait partie d'un groupe de soutien quand je suis arrivée à l'université. Ils adoraient y monter. C'était leur petit Eden, je suppose."
+    jh "Oh ouais! C'est plutôt cool. J'ai fait partie d'un groupe de soutien quand je suis arrivée à l'université. Ils adoraient y monter. C'était leur petit Eden, je suppose."
 
 # game/code/Book-1/Chapter-8/s02.rpy:64
 translate french b1c08s02_b900bde8:
 
     # mc "What uh... What was the self-help group about?"
-    mc "Euh... C'était quoi ce groupe de soutien ?"
+    mc "Euh... C'était quoi ce groupe de soutien?"
 
 # game/code/Book-1/Chapter-8/s02.rpy:67
 translate french b1c08s02_9248902e:
@@ -140,25 +140,25 @@ translate french b1c08s02_47cd0a21:
 translate french b1c08s02_5ba22f49:
 
     # jh "I'll be fine!"
-    jh "Ça va aller !"
+    jh "Ça va aller!"
 
 # game/code/Book-1/Chapter-8/s02.rpy:85
 translate french b1c08s02_2bef185e:
 
     # mc "We have a rooftop garden?"
-    mc "On a un jardin sur le toit ?"
+    mc "On a un jardin sur le toit?"
 
 # game/code/Book-1/Chapter-8/s02.rpy:88
 translate french b1c08s02_2f02766c:
 
     # jh "Yeah! It's pretty cool. I was a part of this self-help group for a while when I first got to uni. We'd go up there pretty often."
-    jh "Ouais ! C'est plutôt cool. J'ai fait partie de ce groupe de soutien pendant un moment quand je suis arrivée à l'université. On y allait assez souvent."
+    jh "Ouais! C'est plutôt cool. J'ai fait partie de ce groupe de soutien pendant un moment quand je suis arrivée à l'université. On y allait assez souvent."
 
 # game/code/Book-1/Chapter-8/s02.rpy:91
 translate french b1c08s02_4784493f:
 
     # mct "Self-help group? I wonder if she's talking about the same one I went to?"
-    mct "Groupe de soutien ? Je me demande si elle parle du même que celui auquel je suis allé."
+    mct "Groupe de soutien? Je me demande si elle parle du même que celui auquel je suis allé."
 
 # game/code/Book-1/Chapter-8/s02.rpy:94
 translate french b1c08s02_fecb1bec:
@@ -170,7 +170,7 @@ translate french b1c08s02_fecb1bec:
 translate french b1c08s02_819984fd:
 
     # jh "So what do you think? Dinner with nature? Yay or nay?"
-    jh "Alors, qu'en penses-tu ? Dîner avec la nature ? Oui ou non ?"
+    jh "Alors, qu'en penses-tu? Dîner avec la nature? Oui ou non?"
 
 # game/code/Book-1/Chapter-8/s02.rpy:109
 translate french b1c08s02_at_garden_3fa1c261:
@@ -206,7 +206,7 @@ translate french b1c08s02_at_garden_9936ea25:
 translate french b1c08s02_at_garden_d7fed541:
 
     # mc "Why don't we take a seat over there? Seems like a perfect spot, and relatively obscured if anyone else comes in."
-    mc "Pourquoi ne pas nous asseoir là-bas ? Ça semble être un endroit parfait, et relativement à l'abri si quelqu'un d'autre entre."
+    mc "Pourquoi ne pas nous asseoir là-bas? Ça semble être un endroit parfait, et relativement à l'abri si quelqu'un d'autre entre."
 
 # game/code/Book-1/Chapter-8/s02.rpy:129
 translate french b1c08s02_at_garden_f9f4ff02:
@@ -218,7 +218,7 @@ translate french b1c08s02_at_garden_f9f4ff02:
 translate french b1c08s02_at_garden_97cfbc9b:
 
     # mc "Really? What were you escaping from?"
-    mc "Vraiment ? De quoi tu voulais échapper ?"
+    mc "Vraiment? De quoi tu voulais échapper?"
 
 # game/code/Book-1/Chapter-8/s02.rpy:135
 translate french b1c08s02_at_garden_e7cc1b27:
@@ -254,7 +254,7 @@ translate french b1c08s02_at_garden_e0268b40:
 translate french b1c08s02_at_garden_44732e92:
 
     # jh "And now we have all three of us!"
-    jh "Et maintenant, nous avons nous trois !"
+    jh "Et maintenant, nous avons nous trois!"
 
 # game/code/Book-1/Chapter-8/s02.rpy:151
 translate french b1c08s02_at_garden_5bf2d686:
@@ -278,7 +278,7 @@ translate french b1c08s02_at_garden_206e4476:
 translate french b1c08s02_at_garden_3413d080:
 
     # mc "...You ever look up at the sky and wonder what's out there?"
-    mc "...Tu lèves jamais les yeux vers le ciel et tu te demandes ce qu'il y a là-bas ?"
+    mc "...Tu lèves jamais les yeux vers le ciel et tu te demandes ce qu'il y a là-bas?"
 
 # game/code/Book-1/Chapter-8/s02.rpy:162
 translate french b1c08s02_at_garden_58c31cac:
@@ -314,7 +314,7 @@ translate french b1c08s02_at_garden_40ce7f9f:
 translate french b1c08s02_at_garden_29b5b284:
 
     # mc "You sure? We were just getting to the deep, existential stuff."
-    mc "T'es sûr ? On commençait à aborder des sujets profonds et existentiels."
+    mc "T'es sûr? On commençait à aborder des sujets profonds et existentiels."
 
 # game/code/Book-1/Chapter-8/s02.rpy:177
 translate french b1c08s02_at_garden_5269916c:
@@ -326,7 +326,7 @@ translate french b1c08s02_at_garden_5269916c:
 translate french b1c08s02_at_garden_f9c5e850:
 
     # jh "Are you sure? I can come with yo—"
-    jh "T'es sûr ? Je peux venir avec to—"
+    jh "T'es sûr? Je peux venir avec to—"
 
 # game/code/Book-1/Chapter-8/s02.rpy:187
 translate french b1c08s02_at_garden_6b5be6a9:
@@ -344,7 +344,7 @@ translate french b1c08s02_at_garden_487ca2a7:
 translate french b1c08s02_at_garden_d15c40da:
 
     # jh "I... Okay. Just text me when you get back, okay?"
-    jh "Je... D'accord. Envoie-moi un message quand tu reviens, d'accord ?"
+    jh "Je... D'accord. Envoie-moi un message quand tu reviens, d'accord?"
 
 # game/code/Book-1/Chapter-8/s02.rpy:195
 translate french b1c08s02_at_garden_a4377336:
@@ -368,7 +368,7 @@ translate french b1c08s02_at_garden_8e8cc5c8:
 translate french b1c08s02_at_garden_3462f6f4:
 
     # mct "I wonder what's wrong? Did she feel awkward with me and Josie here? She seemed alright before..."
-    mct "Je me demande ce qui ne va pas. Est-ce qu'elle s'est sentie mal à l'aise avec Josie et moi ici ? Elle avait l'air bien avant..."
+    mct "Je me demande ce qui ne va pas. Est-ce qu'elle s'est sentie mal à l'aise avec Josie et moi ici? Elle avait l'air bien avant..."
 
 # game/code/Book-1/Chapter-8/s02.rpy:206
 translate french b1c08s02_at_garden_5a67c36a:
@@ -392,13 +392,13 @@ translate french b1c08s02_at_garden_9683181a:
 translate french b1c08s02_at_garden_91d8a70c:
 
     # mc "You okay?"
-    mc "Ça va ?"
+    mc "Ça va?"
 
 # game/code/Book-1/Chapter-8/s02.rpy:217
 translate french b1c08s02_at_garden_b814f3f3:
 
     # jh "*Hesitates* Yeah, I'm fine. It's just...different without Lara here, y'know?"
-    jh "*Hésite* Ouais, ça va. C'est juste... différent sans Lara ici, tu sais ?"
+    jh "*Hésite* Ouais, ça va. C'est juste... différent sans Lara ici, tu sais?"
 
 # game/code/Book-1/Chapter-8/s02.rpy:218
 translate french b1c08s02_at_garden_e3e60241:
@@ -440,13 +440,13 @@ translate french b1c08s02_at_garden_6697f23e:
 translate french b1c08s02_at_garden_acf2bbd4:
 
     # jh "Do you...{i}want{/i} to be my rock?"
-    jh "Est-ce que...{i}tu{/i} veux être mon rocher ?"
+    jh "Est-ce que...{i}tu{/i} veux être mon rocher?"
 
 # game/code/Book-1/Chapter-8/s02.rpy:240
 translate french b1c08s02_at_garden_3b94aaae:
 
     # mc "Do {i}you{/i} want me to be your rock?"
-    mc "Est-ce que {i}tu{/i} veux que je sois ton rocher ?"
+    mc "Est-ce que {i}tu{/i} veux que je sois ton rocher?"
 
 # game/code/Book-1/Chapter-8/s02.rpy:243
 translate french b1c08s02_at_garden_ecdd609b:
@@ -458,7 +458,7 @@ translate french b1c08s02_at_garden_ecdd609b:
 translate french b1c08s02_at_garden_8fefc1f6:
 
     # jh "*Softly* Can I...can I kiss you, [mcname]?"
-    jh "*Doucement* Est-ce que... je peux t'embrasser, [mcname] ?"
+    jh "*Doucement* Est-ce que... je peux t'embrasser, [mcname]?"
 
 # game/code/Book-1/Chapter-8/s02.rpy:248
 translate french b1c08s02_at_garden_9c24ef09:
@@ -542,7 +542,7 @@ translate french b1c08s02_jh_kiss_93a1e2ba:
 translate french b1c08s02_jh_kiss_6915da6d:
 
     # mc "Much better than last time, hm?"
-    mc "Bien mieux que la dernière fois, hein ?"
+    mc "Bien mieux que la dernière fois, hein?"
 
 # game/code/Book-1/Chapter-8/s02.rpy:300
 translate french b1c08s02_jh_kiss_5fb1c166:
@@ -614,7 +614,7 @@ translate french b1c08s02_jh_kiss_a1fac6d0:
 translate french b1c08s02_jh_kiss_95c7633a:
 
     # mc "Are you okay?"
-    mc "Ça va ?"
+    mc "Ça va?"
 
 # game/code/Book-1/Chapter-8/s02.rpy:337
 translate french b1c08s02_jh_kiss_bd9b7d2e:
@@ -704,7 +704,7 @@ translate french b1c08s02_jh_kiss_fef1c7cc:
 translate french b1c08s02_jh_kiss_d8ebb5f1:
 
     # jh "*Soft laugh* How do you always know what to say?"
-    jh "*Rire doux* Comment tu sais toujours quoi dire ?"
+    jh "*Rire doux* Comment tu sais toujours quoi dire?"
 
 # game/code/Book-1/Chapter-8/s02.rpy:378
 translate french b1c08s02_jh_kiss_cea57119:

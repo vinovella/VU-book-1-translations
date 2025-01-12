@@ -62,7 +62,7 @@ translate french b1c07ss13_return_d66a6dcb:
 translate french b1c07ss13_return_751b5fbd:
 
     # mct "Does Zem fully understand what she's involved with? She described it all as a {i}game{/i} but this is much more dangerous than that..."
-    mct "Est-ce que Zem comprend vraiment dans quoi elle est impliquée ? Elle a décrit tout ça comme un {i}jeu{/i}, mais c'est bien plus dangereux que ça..."
+    mct "Est-ce que Zem comprend vraiment dans quoi elle est impliquée? Elle a décrit tout ça comme un {i}jeu{/i}, mais c'est bien plus dangereux que ça..."
 
 # game/code/Book-1/Chapter-7s/s13.rpy:118
 translate french b1c07ss13_return_cfd9036c:
@@ -86,7 +86,7 @@ translate french b1c07ss13_return_28ee85fb:
 translate french b1c07ss13_return_bd21ee9f:
 
     # mct "I wonder if Cade's organization had anything to do with Leia's disappearance?"
-    mct "Je me demande si l'organisation de Cade a quelque chose à voir avec la disparition de Leia ?"
+    mct "Je me demande si l'organisation de Cade a quelque chose à voir avec la disparition de Leia?"
 
 # game/code/Book-1/Chapter-7s/s13.rpy:133
 translate french b1c07ss13_return_56cbdd57:
@@ -105,3 +105,4 @@ translate french b1c07ss13_return_dcc2f1ea:
 
     # mct "I'll find out what happened.{w} No matter what."
     mct "Je découvrirai ce qui s'est passé.{w} Peu importe comment."
+

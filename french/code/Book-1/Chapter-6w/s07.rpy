@@ -38,13 +38,13 @@ translate french b1c06ws07_ea80f284:
 translate french b1c06ws07_901ba29f:
 
     # ir "She has a great ass, doesn't she?"
-    ir "Elle a un super cul, n'est-ce pas ?"
+    ir "Elle a un super cul, n'est-ce pas?"
 
 # game/code/Book-1/Chapter-6w/s07.rpy:54
 translate french b1c06ws07_11455b53:
 
     # mc "What?"
-    mc "Quoi ?"
+    mc "Quoi?"
 
 # game/code/Book-1/Chapter-6w/s07.rpy:56
 translate french b1c06ws07_cd2c1b55:
@@ -86,7 +86,7 @@ translate french b1c06ws07_fd062430:
 translate french b1c06ws07_8a95907d:
 
     # ir "What do you say we go behind this bar and you let me help you finish what Silvia started, hm?"
-    ir "Que dirais-tu qu'on aille derrière ce bar et que tu me laisses t'aider à finir ce que Silvia a commencé, hm ?"
+    ir "Que dirais-tu qu'on aille derrière ce bar et que tu me laisses t'aider à finir ce que Silvia a commencé, hm?"
 
 # game/code/Book-1/Chapter-6w/s07.rpy:77
 translate french b1c06ws07_1bce9abd:
@@ -128,7 +128,7 @@ translate french b1c06ws07_39bb54ef:
 translate french b1c06ws07_dfb29445:
 
     # ir "You're a real fucking tease, you know that, right?"
-    ir "Tu es vraiment une sacrée teigne, tu sais ça, non ?"
+    ir "Tu es vraiment une sacrée teigne, tu sais ça, non?"
 
 # game/code/Book-1/Chapter-6w/s07.rpy:111
 translate french b1c06ws07_17c31aea:
@@ -284,13 +284,13 @@ translate french b1c06ws07_92f563a8:
 translate french b1c06ws07_eec2c3f0:
 
     # ir "*panting* Ah, ah, not yet.{w} You were gonna cum, weren't you?"
-    ir "*haletant* Ah, ah, pas encore.{w} Tu allais jouir, pas vrai ?"
+    ir "*haletant* Ah, ah, pas encore.{w} Tu allais jouir, pas vrai?"
 
 # game/code/Book-1/Chapter-6w/s07.rpy:232
 translate french b1c06ws07_98b7a0d6:
 
     # ir "But I stopped.{w} Doesn't it infuriate you? Doesn't that make you want to hold me down and fuck my mouth until you cum?"
-    ir "Mais je me suis arrêtée.{w} Ça ne t'énerve pas ? Ça ne te donne pas envie de me tenir et de baiser ma bouche jusqu'à ce que tu jouisses ?"
+    ir "Mais je me suis arrêtée.{w} Ça ne t'énerve pas? Ça ne te donne pas envie de me tenir et de baiser ma bouche jusqu'à ce que tu jouisses?"
 
 # game/code/Book-1/Chapter-6w/s07.rpy:238
 translate french b1c06ws07_b97f8555:
@@ -308,7 +308,7 @@ translate french b1c06ws07_5c0c85fb:
 translate french b1c06ws07_da5b4e21:
 
     # ir "Come on! Do it. I'm so fucking wet. I want to feel you fuck me."
-    ir "Allez ! Fais-le. Je suis tellement mouillée. Je veux sentir que tu me baises."
+    ir "Allez! Fais-le. Je suis tellement mouillée. Je veux sentir que tu me baises."
 
 # game/code/Book-1/Chapter-6w/s07.rpy:247
 translate french b1c06ws07_bc9ee36b:
@@ -368,7 +368,7 @@ translate french b1c06ws07_6009142b_1:
 translate french b1c06ws07_1404b6cb:
 
     # ir "F-fuckI'mcumming!"
-    ir "Putain, je jouis !"
+    ir "Putain, je jouis!"
 
 # game/code/Book-1/Chapter-6w/s07.rpy:307
 translate french b1c06ws07_3f159ad6:
@@ -428,7 +428,7 @@ translate french b1c06ws07_17543337:
 translate french b1c06ws07_caff1ee4:
 
     # ir "Jeez, you're greedy. Hardly left any for me!"
-    ir " Bon sang, tu es gourmand. Il ne m'en reste presque pas ! "
+    ir " Bon sang, tu es gourmand. Il ne m'en reste presque pas! "
 
 # game/code/Book-1/Chapter-6w/s07.rpy:348
 translate french b1c06ws07_5c07512d:
@@ -464,7 +464,7 @@ translate french b1c06ws07_524e9104:
 translate french b1c06ws07_c1e6be5e:
 
     # ir "Anyways, I should get to bed as well.{w} See ya around, [mcname]!"
-    ir "Quoi qu'il en soit, je devrais aussi me coucher.{w} À bientôt, [mcname] !"
+    ir "Quoi qu'il en soit, je devrais aussi me coucher.{w} À bientôt, [mcname]!"
 
 # game/code/Book-1/Chapter-6w/s07.rpy:379
 translate french b1c06ws07_fd2fd6ff:

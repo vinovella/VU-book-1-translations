@@ -8,7 +8,7 @@ translate french b1c06ss02_2c2174e4:
 translate french b1c06ss02_84115249:
 
     # mct "I feel kinda weird just waiting here. Maybe I should go look for her?"
-    mct "Je me sens un peu bizarre à rester ici. Peut-être que je devrais aller la chercher ?"
+    mct "Je me sens un peu bizarre à rester ici. Peut-être que je devrais aller la chercher?"
 
 # game/code/Book-1/Chapter-6s/s02.rpy:19
 translate french b1c06ss02_aa99deb7:
@@ -32,25 +32,25 @@ translate french b1c06ss02_02d2a970:
 translate french b1c06ss02_4eabd2d5:
 
     # xv "{i}What the fuck are you doing in Fleur's room?{/i}"
-    xv "{i}Qu'est-ce que tu fous dans la chambre de Fleur ?{/i}"
+    xv "{i}Qu'est-ce que tu fous dans la chambre de Fleur?{/i}"
 
 # game/code/Book-1/Chapter-6s/s02.rpy:38
 translate french b1c06ss02_1a863451:
 
     # xv "Where the hell is Fleur?"
-    xv "Où est Fleur ?"
+    xv "Où est Fleur?"
 
 # game/code/Book-1/Chapter-6s/s02.rpy:40
 translate french b1c06ss02_3dd3b46c:
 
     # xv "You here doing some pervy shit?"
-    xv "T'es ici pour faire des trucs louches ?"
+    xv "T'es ici pour faire des trucs louches?"
 
 # game/code/Book-1/Chapter-6s/s02.rpy:42
 translate french b1c06ss02_5771b30c:
 
     # mc "What? No! Jesus dude, calm down—"
-    mc "Quoi ? Non ! Bon sang, mec, calme-toi—"
+    mc "Quoi? Non! Bon sang, mec, calme-toi—"
 
 # game/code/Book-1/Chapter-6s/s02.rpy:47
 translate french b1c06ss02_0a7117c8:
@@ -62,13 +62,13 @@ translate french b1c06ss02_0a7117c8:
 translate french b1c06ss02_db5c1a72:
 
     # xv "After all these disappearances, you think I'm gonna sit back while some sus outsider lurks around Fleur's room?"
-    xv "Avec toutes ces disparitions, tu crois que je vais rester là à rien faire pendant qu'un étranger louche rôde autour de la chambre de Fleur ?"
+    xv "Avec toutes ces disparitions, tu crois que je vais rester là à rien faire pendant qu'un étranger louche rôde autour de la chambre de Fleur?"
 
 # game/code/Book-1/Chapter-6s/s02.rpy:51
 translate french b1c06ss02_bedca4d1:
 
     # mc "I'm not lurking around her room!"
-    mc "Je ne rôde pas autour de sa chambre !"
+    mc "Je ne rôde pas autour de sa chambre!"
 
 # game/code/Book-1/Chapter-6s/s02.rpy:54
 translate french b1c06ss02_97261b40:
@@ -86,7 +86,7 @@ translate french b1c06ss02_b89e2179:
 translate french b1c06ss02_be2a837f:
 
     # mc "How do you know Fleur, anyway? She didn't mention you'd be stopping by."
-    mc "Comment tu connais Fleur, d'ailleurs ? Elle n'a pas mentionné que tu passerais."
+    mc "Comment tu connais Fleur, d'ailleurs? Elle n'a pas mentionné que tu passerais."
 
 # game/code/Book-1/Chapter-6s/s02.rpy:64
 translate french b1c06ss02_f0cf7001:
@@ -104,7 +104,7 @@ translate french b1c06ss02_2338f8ac:
 translate french b1c06ss02_ebe5b095:
 
     # mc "Something urgent, I assume?"
-    mc "Quelque chose d'urgent, je suppose ?"
+    mc "Quelque chose d'urgent, je suppose?"
 
 # game/code/Book-1/Chapter-6s/s02.rpy:73
 translate french b1c06ss02_d5272745:
@@ -122,7 +122,7 @@ translate french b1c06ss02_3087ef00:
 translate french b1c06ss02_ca357bf3:
 
     # xv "Tough guy, huh?"
-    xv "Dur à cuire, hein ?"
+    xv "Dur à cuire, hein?"
 
 # game/code/Book-1/Chapter-6s/s02.rpy:83
 translate french b1c06ss02_15e61517:
@@ -146,7 +146,7 @@ translate french b1c06ss02_c7144a02:
 translate french b1c06ss02_e3cd2fac:
 
     # mc "Trying to piss me off? You'll have to try harder than that."
-    mc "Tu essaies de m'énerver ? Il va falloir faire mieux que ça."
+    mc "Tu essaies de m'énerver? Il va falloir faire mieux que ça."
 
 # game/code/Book-1/Chapter-6s/s02.rpy:94
 translate french b1c06ss02_c45b83e2:
@@ -170,7 +170,7 @@ translate french b1c06ss02_4ce6b79a:
 translate french b1c06ss02_4b815fe5:
 
     # mc "What are you even doing that you can't do on your own phone or computer?"
-    mc "Qu'est-ce que tu fais que tu ne peux pas faire sur ton propre téléphone ou ordinateur ?"
+    mc "Qu'est-ce que tu fais que tu ne peux pas faire sur ton propre téléphone ou ordinateur?"
 
 # game/code/Book-1/Chapter-6s/s02.rpy:104
 translate french b1c06ss02_825da303:
@@ -242,19 +242,19 @@ translate french b1c06ss02_545d91c7:
 translate french b1c06ss02_07f4132a:
 
     # mc "You thought I wouldn't notice?"
-    mc "Tu pensais que je ne remarquerais pas ?"
+    mc "Tu pensais que je ne remarquerais pas?"
 
 # game/code/Book-1/Chapter-6s/s02.rpy:158
 translate french b1c06ss02_96aa3794:
 
     # mct "The butcher's shop...?"
-    mct "La boucherie... ?"
+    mct "La boucherie...?"
 
 # game/code/Book-1/Chapter-6s/s02.rpy:160
 translate french b1c06ss02_d46cfa65:
 
     # mc "Were you fucking following me?"
-    mc "Tu me suivais, bordel ?"
+    mc "Tu me suivais, bordel?"
 
 # game/code/Book-1/Chapter-6s/s02.rpy:163
 translate french b1c06ss02_5b57fd93:
@@ -296,7 +296,7 @@ translate french b1c06ss02_7e75e2cc:
 translate french b1c06ss02_a7bdb298:
 
     # xv "What did my dear baby sister tell you about me? I assume that I'm controlling? Horrible?"
-    xv "Qu'est-ce que ma chère petite sœur t'a dit sur moi ? Je suppose que je suis autoritaire ? Horrible ?"
+    xv "Qu'est-ce que ma chère petite sœur t'a dit sur moi? Je suppose que je suis autoritaire? Horrible?"
 
 # game/code/Book-1/Chapter-6s/s02.rpy:181
 translate french b1c06ss02_e64ac661:
@@ -332,7 +332,7 @@ translate french b1c06ss02_3de945e5:
 translate french b1c06ss02_611cc7c9:
 
     # xv "You think my baby sister's too stupid to think for herself? That it?"
-    xv "Tu penses que ma petite sœur est trop stupide pour penser par elle-même ? C'est ça ?"
+    xv "Tu penses que ma petite sœur est trop stupide pour penser par elle-même? C'est ça?"
 
 # game/code/Book-1/Chapter-6s/s02.rpy:203
 translate french b1c06ss02_9f581b69:
@@ -356,7 +356,7 @@ translate french b1c06ss02_3a8ce3af:
 translate french b1c06ss02_236fc170:
 
     # ffl "Oh! Hi Xasan. I didn't expect to see you here."
-    ffl "Oh ! Salut Xasan. Je ne m'attendais pas à te voir ici."
+    ffl "Oh! Salut Xasan. Je ne m'attendais pas à te voir ici."
 
 # game/code/Book-1/Chapter-6s/s02.rpy:219
 translate french b1c06ss02_1bc615ef:
@@ -374,13 +374,13 @@ translate french b1c06ss02_686a3fb4:
 translate french b1c06ss02_c69b0f35:
 
     # xv "Did you get that situation handled?"
-    xv "As-tu réglé cette situation ?"
+    xv "As-tu réglé cette situation?"
 
 # game/code/Book-1/Chapter-6s/s02.rpy:227
 translate french b1c06ss02_7fa515dd:
 
     # mct "Situation handled? Where exactly did Fleur go?"
-    mct "Situation réglée ? Où est-ce que Fleur est allée exactement ?"
+    mct "Situation réglée? Où est-ce que Fleur est allée exactement?"
 
 # game/code/Book-1/Chapter-6s/s02.rpy:228
 translate french b1c06ss02_f3b74154:
@@ -446,13 +446,13 @@ translate french b1c06ss02_3c4bb386:
 translate french b1c06ss02_9099c9a8:
 
     # xv "Something funny, pretty boy?"
-    xv "Un truc drôle, joli garçon ?"
+    xv "Un truc drôle, joli garçon?"
 
 # game/code/Book-1/Chapter-6s/s02.rpy:254
 translate french b1c06ss02_20c18872:
 
     # ffl "Oh, you're so right. He is pretty! I like that pet name."
-    ffl "Oh, tu as tellement raison. Il est joli ! J'aime bien ce petit surnom."
+    ffl "Oh, tu as tellement raison. Il est joli! J'aime bien ce petit surnom."
 
 # game/code/Book-1/Chapter-6s/s02.rpy:257
 translate french b1c06ss02_56b818ca:
@@ -476,13 +476,13 @@ translate french b1c06ss02_fdbc9ad3:
 translate french b1c06ss02_2fbc58fe:
 
     # xv "Keep an eye on this ruffian for me, okay?"
-    xv "Garde un œil sur ce voyou pour moi, d'accord ?"
+    xv "Garde un œil sur ce voyou pour moi, d'accord?"
 
 # game/code/Book-1/Chapter-6s/s02.rpy:271
 translate french b1c06ss02_be757be0:
 
     # ffl "Ya hear that, pretty boy?"
-    ffl "Tu as entendu ça, joli garçon ?"
+    ffl "Tu as entendu ça, joli garçon?"
 
 # game/code/Book-1/Chapter-6s/s02.rpy:274
 translate french b1c06ss02_7fa97d32:
@@ -500,7 +500,7 @@ translate french b1c06ss02_7599fe2c:
 translate french b1c06ss02_0e76af9e:
 
     # ffl "Is there a difference?"
-    ffl "Y a-t-il une différence ?"
+    ffl "Y a-t-il une différence?"
 
 # game/code/Book-1/Chapter-6s/s02.rpy:282
 translate french b1c06ss02_7be80b46:
@@ -512,13 +512,13 @@ translate french b1c06ss02_7be80b46:
 translate french b1c06ss02_33c16c90:
 
     # ffl "Well, I'm too hungry to study now!"
-    ffl "Eh bien, j'ai trop faim pour étudier maintenant !"
+    ffl "Eh bien, j'ai trop faim pour étudier maintenant!"
 
 # game/code/Book-1/Chapter-6s/s02.rpy:288
 translate french b1c06ss02_8f86260a:
 
     # ffl "You...wanna get lunch together?"
-    ffl "Tu...veux déjeuner ensemble ?"
+    ffl "Tu...veux déjeuner ensemble?"
 
 # game/code/Book-1/Chapter-6s/s02.rpy:291
 translate french b1c06ss02_de9335b2:
@@ -530,13 +530,13 @@ translate french b1c06ss02_de9335b2:
 translate french b1c06ss02_f0ba6038:
 
     # ffl "C-cool! I should change outfits for lunch."
-    ffl "C-cool ! Je devrais me changer pour le déjeuner."
+    ffl "C-cool! Je devrais me changer pour le déjeuner."
 
 # game/code/Book-1/Chapter-6s/s02.rpy:297
 translate french b1c06ss02_8c99e1a4:
 
     # mc "Really? I think you're cute as is. You look very comfy."
-    mc "Vraiment ? Je te trouve mignonne comme ça. Tu as l'air très à l'aise."
+    mc "Vraiment? Je te trouve mignonne comme ça. Tu as l'air très à l'aise."
 
 # game/code/Book-1/Chapter-6s/s02.rpy:299
 translate french b1c06ss02_a1723bcb:
@@ -548,7 +548,7 @@ translate french b1c06ss02_a1723bcb:
 translate french b1c06ss02_cb077dca:
 
     # mc "You want me to step outside so you can change?"
-    mc "Tu veux que je sorte pour que tu puisses te changer ?"
+    mc "Tu veux que je sorte pour que tu puisses te changer?"
 
 # game/code/Book-1/Chapter-6s/s02.rpy:305
 translate french b1c06ss02_5a8a0fda:
@@ -590,7 +590,7 @@ translate french b1c06ss02_11614697:
 translate french b1c06ss02_24987d0c:
 
     # ffl "No! Don't turn around. *Giggles*"
-    ffl "Non ! Ne te retourne pas. *Rit*"
+    ffl "Non! Ne te retourne pas. *Rit*"
 
 # game/code/Book-1/Chapter-6s/s02.rpy:332
 translate french b1c06ss02_b8fcfa3b:
@@ -608,7 +608,7 @@ translate french b1c06ss02_7bd1e588:
 translate french b1c06ss02_0bf38a59:
 
     # ffl "*Giggles* Opening the door for me all mannerly-like? Xasan was right, you {i}must be{/i} a ruffian."
-    ffl "*Rit* Tu ouvres la porte pour moi avec tant de politesse ? Xasan avait raison, tu {i}dois être{/i} un voyou."
+    ffl "*Rit* Tu ouvres la porte pour moi avec tant de politesse? Xasan avait raison, tu {i}dois être{/i} un voyou."
 
 # game/code/Book-1/Chapter-6s/s02.rpy:341
 translate french b1c06ss02_2bd91fad:
@@ -626,13 +626,13 @@ translate french b1c06ss02_1a1e027a:
 translate french b1c06ss02_08a5ade2:
 
     # ffl "*Flustered giggling* H-hey! That tickled."
-    ffl "*Rire nerveux* H-hey ! Ça chatouille."
+    ffl "*Rire nerveux* H-hey! Ça chatouille."
 
 # game/code/Book-1/Chapter-6s/s02.rpy:349
 translate french b1c06ss02_231b80b0:
 
     # mc "*Chuckles* How about I make up for it by buying you lunch?"
-    mc "*Rit* Que dirais-tu si je me rattrapais en t'offrant le déjeuner ?"
+    mc "*Rit* Que dirais-tu si je me rattrapais en t'offrant le déjeuner?"
 
 # game/code/Book-1/Chapter-6s/s02.rpy:351
 translate french b1c06ss02_36305ef2:
@@ -649,3 +649,4 @@ translate french strings:
     # game/code/Book-1/Chapter-6s/s02.rpy:165
     old "Respond carefully"
     new "Répondre prudemment"
+

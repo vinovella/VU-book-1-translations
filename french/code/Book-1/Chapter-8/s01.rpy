@@ -2,7 +2,7 @@
 translate french b1c08s01_99325c9f:
 
     # pm "Making connections in your mind palace, rookie?"
-    pm "Faire des connexions dans ton palais mental, débutant ?"
+    pm "Faire des connexions dans ton palais mental, débutant?"
 
 # game/code/Book-1/Chapter-8/s01.rpy:35
 translate french b1c08s01_b92349e4:
@@ -44,7 +44,7 @@ translate french b1c08s01_2ae687cb:
 translate french b1c08s01_53ff10b1:
 
     # pm "Got someplace more important to be?"
-    pm "Tu as un endroit plus important où aller ?"
+    pm "Tu as un endroit plus important où aller?"
 
 # game/code/Book-1/Chapter-8/s01.rpy:56
 translate french b1c08s01_4aab9dc2:
@@ -86,7 +86,7 @@ translate french b1c08s01_eca0cc9b:
 translate french b1c08s01_ca5a404b:
 
     # mc "Where do you want to start?"
-    mc "Par où veux-tu commencer ?"
+    mc "Par où veux-tu commencer?"
 
 # game/code/Book-1/Chapter-8/s01.rpy:76
 translate french b1c08s01_e02faaaf:
@@ -98,7 +98,7 @@ translate french b1c08s01_e02faaaf:
 translate french b1c08s01_call_recaps_b8b0fc47:
 
     # pm "How are things going with the other groups?"
-    pm "Comment ça se passe avec les autres groupes ?"
+    pm "Comment ça se passe avec les autres groupes?"
 
 # game/code/Book-1/Chapter-8/s01.rpy:154
 translate french b1c08s01_call_recaps_22b02b8a:
@@ -116,7 +116,7 @@ translate french b1c08s01_call_recaps_52affa06:
 translate french b1c08s01_call_recaps_43b3b093:
 
     # pm "Anything else?"
-    pm "Autre chose ?"
+    pm "Autre chose?"
 
 # game/code/Book-1/Chapter-8/s01.rpy:174
 translate french b1c08s01_continue_c8c3fe90:
@@ -146,7 +146,7 @@ translate french b1c08s01_continue_394be9e3:
 translate french b1c08s01_continue_744920d2:
 
     # mc "You think so? Sometimes it feels like I'm chasing ghosts."
-    mc "Tu crois ça ? Parfois, on dirait que je poursuis des fantômes."
+    mc "Tu crois ça? Parfois, on dirait que je poursuis des fantômes."
 
 # game/code/Book-1/Chapter-8/s01.rpy:186
 translate french b1c08s01_continue_5c20a690:
@@ -170,7 +170,7 @@ translate french b1c08s01_continue_ab968188:
 translate french b1c08s01_continue_a71b8d4e:
 
     # mc "*Sighs* Yeah, I agree. But what about [b1c08s01_lowest_points_name!t]? Should we just ignore them?"
-    mc "*Soupire* Ouais, je suis d'accord. Mais qu'en est-il de [b1c08s01_lowest_points_name!t] ? On devrait juste les ignorer ?"
+    mc "*Soupire* Ouais, je suis d'accord. Mais qu'en est-il de [b1c08s01_lowest_points_name!t]? On devrait juste les ignorer?"
 
 # game/code/Book-1/Chapter-8/s01.rpy:198
 translate french b1c08s01_continue_1ef7224b:
@@ -224,7 +224,7 @@ translate french b1c08s01_continue_c85d955f:
 translate french b1c08s01_continue_d8dc1134:
 
     # mc "Do you ever wonder if what we're doing is ethical? Lying, manipulating, all in the name of justice?"
-    mc "Te demandes-tu parfois si ce qu'on fait est éthique ? Mentir, manipuler, tout cela au nom de la justice ?"
+    mc "Te demandes-tu parfois si ce qu'on fait est éthique? Mentir, manipuler, tout cela au nom de la justice?"
 
 # game/code/Book-1/Chapter-8/s01.rpy:226
 translate french b1c08s01_continue_dc914b7f:
@@ -380,7 +380,7 @@ translate french b1c08s01_recap_c06w_af27d015:
 translate french b1c08s01_recap_c06w_a43e2700:
 
     # pm "Who's that?"
-    pm "Qui est-ce ?"
+    pm "Qui est-ce?"
 
 # game/code/Book-1/Chapter-8/s01.rpy:301
 translate french b1c08s01_recap_c06w_4ab1875e:
@@ -446,7 +446,7 @@ translate french b1c08s01_recap_c07w_dc1b9154:
 translate french b1c08s01_recap_c07w_5b64a60e:
 
     # pm "Isa?"
-    pm "Isa ?"
+    pm "Isa?"
 
 # game/code/Book-1/Chapter-8/s01.rpy:334
 translate french b1c08s01_recap_c07w_1f0ce4e9:
@@ -458,7 +458,7 @@ translate french b1c08s01_recap_c07w_1f0ce4e9:
 translate french b1c08s01_recap_c07w_763f0c52:
 
     # pm "Did she manage the party where the girls—?"
-    pm "C'est elle qui a organisé la fête où les filles— ?"
+    pm "C'est elle qui a organisé la fête où les filles—?"
 
 # game/code/Book-1/Chapter-8/s01.rpy:338
 translate french b1c08s01_recap_c07w_a87a337b:
@@ -560,13 +560,13 @@ translate french b1c08s01_recap_c08w_3d51aca1:
 translate french b1c08s01_recap_c08w_187ed6fe:
 
     # mc "Were you watching the stream?"
-    mc "Tu regardais le stream ?"
+    mc "Tu regardais le stream?"
 
 # game/code/Book-1/Chapter-8/s01.rpy:379
 translate french b1c08s01_recap_c08w_e3f52edc:
 
     # pm "Yeah, what happened out there?"
-    pm "Ouais, qu'est-ce qui s'est passé là-bas ?"
+    pm "Ouais, qu'est-ce qui s'est passé là-bas?"
 
 # game/code/Book-1/Chapter-8/s01.rpy:380
 translate french b1c08s01_recap_c08w_0c2704ad:
@@ -608,7 +608,7 @@ translate french b1c08s01_recap_c08w_1556d0e8:
 translate french b1c08s01_recap_c08w_4dfc9560:
 
     # pm "How are you feeling? Do you need medical attention?"
-    pm "Comment tu te sens ? As-tu besoin d'une assistance médicale ?"
+    pm "Comment tu te sens? As-tu besoin d'une assistance médicale?"
 
 # game/code/Book-1/Chapter-8/s01.rpy:399
 translate french b1c08s01_recap_c08w_b932c656:
@@ -620,7 +620,7 @@ translate french b1c08s01_recap_c08w_b932c656:
 translate french b1c08s01_recap_c08w_9c17d83c:
 
     # pm "Are you sure you're okay?"
-    pm "Tu es sûr que ça va ?"
+    pm "Tu es sûr que ça va?"
 
 # game/code/Book-1/Chapter-8/s01.rpy:406
 translate french b1c08s01_recap_c08w_0d6b1e27:
@@ -644,7 +644,7 @@ translate french b1c08s01_recap_c08w_2e2e9a0f:
 translate french b1c08s01_recap_c08w_081a6612:
 
     # pm "What's your next move?"
-    pm "Quelle est ta prochaine étape ?"
+    pm "Quelle est ta prochaine étape?"
 
 # game/code/Book-1/Chapter-8/s01.rpy:414
 translate french b1c08s01_recap_c08w_a184ac4d:
@@ -656,7 +656,7 @@ translate french b1c08s01_recap_c08w_a184ac4d:
 translate french b1c08s01_recap_c08w_16565932:
 
     # pm "Monika and Olesya?"
-    pm "Monika et Olesya ?"
+    pm "Monika et Olesya?"
 
 # game/code/Book-1/Chapter-8/s01.rpy:420
 translate french b1c08s01_recap_c08w_b375f858:
@@ -722,7 +722,7 @@ translate french b1c08s01_recap_c06c_ffa3f1ce:
 translate french b1c08s01_recap_c06c_d73e54a5:
 
     # pm "Did you get anything about Delphia?"
-    pm "As-tu appris quelque chose sur Delphia ?"
+    pm "As-tu appris quelque chose sur Delphia?"
 
 # game/code/Book-1/Chapter-8/s01.rpy:449
 translate french b1c08s01_recap_c06c_280a4fb3:
@@ -740,7 +740,7 @@ translate french b1c08s01_recap_c06c_94b67483:
 translate french b1c08s01_recap_c06c_c3a66dd3:
 
     # pm "What do you mean \"unique\"?"
-    pm "Que veux-tu dire par \"unique\" ?"
+    pm "Que veux-tu dire par \"unique\"?"
 
 # game/code/Book-1/Chapter-8/s01.rpy:456
 translate french b1c08s01_recap_c06c_439b7c67:
@@ -764,7 +764,7 @@ translate french b1c08s01_recap_c06c_09fedd84:
 translate french b1c08s01_recap_c06c_0e5a6974:
 
     # pm "Why not?"
-    pm "Pourquoi pas ?"
+    pm "Pourquoi pas?"
 
 # game/code/Book-1/Chapter-8/s01.rpy:470
 translate french b1c08s01_recap_c06c_620204c1:
@@ -776,7 +776,7 @@ translate french b1c08s01_recap_c06c_620204c1:
 translate french b1c08s01_recap_c06c_4dca1776:
 
     # pm "Maybe he wants you to quit by yourself to make it seem more natural?"
-    pm "Peut-être qu'il veut que tu démissionnes de toi-même pour que ça paraisse plus naturel ?"
+    pm "Peut-être qu'il veut que tu démissionnes de toi-même pour que ça paraisse plus naturel?"
 
 # game/code/Book-1/Chapter-8/s01.rpy:477
 translate french b1c08s01_recap_c06c_029286f1:
@@ -902,7 +902,7 @@ translate french b1c08s01_recap_c07c_e93a944c:
 translate french b1c08s01_recap_c07c_43b3b093:
 
     # pm "Anything else?"
-    pm "Quelque chose d'autre ?"
+    pm "Quelque chose d'autre?"
 
 # game/code/Book-1/Chapter-8/s01.rpy:532
 translate french b1c08s01_recap_c07c_ebc29e32:
@@ -914,7 +914,7 @@ translate french b1c08s01_recap_c07c_ebc29e32:
 translate french b1c08s01_recap_c07c_8872c7f0:
 
     # pm "What? Why?"
-    pm "Quoi ? Pourquoi ?"
+    pm "Quoi? Pourquoi?"
 
 # game/code/Book-1/Chapter-8/s01.rpy:535
 translate french b1c08s01_recap_c07c_d5aa0162:
@@ -950,7 +950,7 @@ translate french b1c08s01_recap_c08c_5456d560:
 translate french b1c08s01_recap_c08c_4ef8d392:
 
     # pm "What happened?"
-    pm "Que s'est-il passé ?"
+    pm "Que s'est-il passé?"
 
 # game/code/Book-1/Chapter-8/s01.rpy:554
 translate french b1c08s01_recap_c08c_d90638b5:
@@ -1016,7 +1016,7 @@ translate french b1c08s01_recap_c08c_9ead6c49:
 translate french b1c08s01_recap_c08c_afe5c35c:
 
     # pm "Who's the leader? Did you see them?"
-    pm "Qui est le leader ? Tu les as vus ?"
+    pm "Qui est le leader? Tu les as vus?"
 
 # game/code/Book-1/Chapter-8/s01.rpy:575
 translate french b1c08s01_recap_c08c_33549518:
@@ -1124,7 +1124,7 @@ translate french b1c08s01_recap_c06s_70b644bd:
 translate french b1c08s01_recap_c06s_66de37ed:
 
     # pm "Really? That's interesting, I didn't get any info about that."
-    pm "Vraiment ? C'est intéressant, je n'ai pas eu d'infos à ce sujet."
+    pm "Vraiment? C'est intéressant, je n'ai pas eu d'infos à ce sujet."
 
 # game/code/Book-1/Chapter-8/s01.rpy:619
 translate french b1c08s01_recap_c06s_4dd67904:
@@ -1154,7 +1154,7 @@ translate french b1c08s01_recap_c07s_cc6096a1:
 translate french b1c08s01_recap_c07s_73b5dc62:
 
     # pm "Did you manage to get anything more about them?"
-    pm "Tu as réussi à obtenir d'autres infos à leur sujet ?"
+    pm "Tu as réussi à obtenir d'autres infos à leur sujet?"
 
 # game/code/Book-1/Chapter-8/s01.rpy:635
 translate french b1c08s01_recap_c07s_4b60db16:
@@ -1190,7 +1190,7 @@ translate french b1c08s01_recap_c07s_ea721304:
 translate french b1c08s01_recap_c07s_cc8a9a0a:
 
     # pm "Did she want you to collect some money?"
-    pm "Elle voulait que tu récupères de l'argent ?"
+    pm "Elle voulait que tu récupères de l'argent?"
 
 # game/code/Book-1/Chapter-8/s01.rpy:646
 translate french b1c08s01_recap_c07s_e1556d75:
@@ -1232,7 +1232,7 @@ translate french b1c08s01_recap_c07s_0f2c6144:
 translate french b1c08s01_recap_c07s_1177d435:
 
     # pm "Who's Rory?"
-    pm "Qui est Rory ?"
+    pm "Qui est Rory?"
 
 # game/code/Book-1/Chapter-8/s01.rpy:661
 translate french b1c08s01_recap_c07s_fb410473:
@@ -1256,7 +1256,7 @@ translate french b1c08s01_recap_c07s_89a181b0:
 translate french b1c08s01_recap_c07s_53eb8627:
 
     # pm "Are you okay?"
-    pm "Tu vas bien ?"
+    pm "Tu vas bien?"
 
 # game/code/Book-1/Chapter-8/s01.rpy:668
 translate french b1c08s01_recap_c07s_d1fd0311:
@@ -1280,7 +1280,7 @@ translate french b1c08s01_recap_c07s_6b33b908:
 translate french b1c08s01_recap_c07s_712456ab:
 
     # pm "The Syndicate? Interesting. I'll look into it."
-    pm "Le Syndicat ? Intéressant. Je vais me renseigner."
+    pm "Le Syndicat? Intéressant. Je vais me renseigner."
 
 # game/code/Book-1/Chapter-8/s01.rpy:676
 translate french b1c08s01_recap_c07s_89a181b0_1:
@@ -1292,7 +1292,7 @@ translate french b1c08s01_recap_c07s_89a181b0_1:
 translate french b1c08s01_recap_c07s_53eb8627_1:
 
     # pm "Are you okay?"
-    pm "Tu vas bien ?"
+    pm "Tu vas bien?"
 
 # game/code/Book-1/Chapter-8/s01.rpy:678
 translate french b1c08s01_recap_c07s_083f51aa:
@@ -1346,7 +1346,7 @@ translate french b1c08s01_recap_c08s_086a00f3:
 translate french b1c08s01_recap_c08s_953c853a:
 
     # pm "What!?"
-    pm "Quoi !?"
+    pm "Quoi!?"
 
 # game/code/Book-1/Chapter-8/s01.rpy:699
 translate french b1c08s01_recap_c08s_406d815d:
@@ -1364,7 +1364,7 @@ translate french b1c08s01_recap_c08s_60ef7f67:
 translate french b1c08s01_recap_c08s_c0c0b2f5:
 
     # pm "Caught? How the hell were you caught? You came to help them, but they couldn't even help you?"
-    pm "Attrapé ? Comment tu t'es fait attraper ? T'es venu les aider, mais eux, ils n'ont même pas pu t'aider ?"
+    pm "Attrapé? Comment tu t'es fait attraper? T'es venu les aider, mais eux, ils n'ont même pas pu t'aider?"
 
 # game/code/Book-1/Chapter-8/s01.rpy:706
 translate french b1c08s01_recap_c08s_58614cd0:
@@ -1388,7 +1388,7 @@ translate french b1c08s01_recap_c08s_8f70c083:
 translate french b1c08s01_recap_c08s_76936d28:
 
     # pm "How the hell did you escape?"
-    pm "Comment diable tu t'es échappé ?"
+    pm "Comment diable tu t'es échappé?"
 
 # game/code/Book-1/Chapter-8/s01.rpy:715
 translate french b1c08s01_recap_c08s_d26895c0:

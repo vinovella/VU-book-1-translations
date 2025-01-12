@@ -26,7 +26,7 @@ translate french b1c08cs12_17422f74:
 translate french b1c08cs12_db6c5194:
 
     # nv "Hey. You okay?"
-    nv "Hé. Ça va ?"
+    nv "Hé. Ça va?"
 
 # game/code/Book-1/Chapter-8c/s12.rpy:63
 translate french b1c08cs12_72e7214e:
@@ -98,7 +98,7 @@ translate french b1c08cs12_f6a29d0a:
 translate french b1c08cs12_f8948c7a:
 
     # mct "Would she even understand at this point? Can I even convince her?"
-    mct "Est-ce qu'elle comprendrait même à ce stade ? Est-ce que je pourrais la convaincre ?"
+    mct "Est-ce qu'elle comprendrait même à ce stade? Est-ce que je pourrais la convaincre?"
 
 # game/code/Book-1/Chapter-8c/s12.rpy:96
 translate french b1c08cs12_2485f494:
@@ -116,7 +116,7 @@ translate french b1c08cs12_59061e58:
 translate french b1c08cs12_4c062380:
 
     # nv "Doubts? Doubts about what?"
-    nv "Des doutes ? Des doutes sur quoi ?"
+    nv "Des doutes? Des doutes sur quoi?"
 
 # game/code/Book-1/Chapter-8c/s12.rpy:103
 translate french b1c08cs12_cd7507e6:
@@ -128,7 +128,7 @@ translate french b1c08cs12_cd7507e6:
 translate french b1c08cs12_34a961a9:
 
     # nv "I...don't understand. What do you mean?"
-    nv "Je... ne comprends pas. Qu'est-ce que tu veux dire ?"
+    nv "Je... ne comprends pas. Qu'est-ce que tu veux dire?"
 
 # game/code/Book-1/Chapter-8c/s12.rpy:115
 translate french b1c08cs12_650c34eb:
@@ -152,7 +152,7 @@ translate french b1c08cs12_517d9077:
 translate french b1c08cs12_2ce7dbf0:
 
     # mc "I think that's a bit of a reductive way to put it, don't you think?"
-    mc "Je pense que c'est une manière réductrice de le dire, tu ne trouves pas ?"
+    mc "Je pense que c'est une manière réductrice de le dire, tu ne trouves pas?"
 
 # game/code/Book-1/Chapter-8c/s12.rpy:138
 translate french b1c08cs12_c441b517:
@@ -206,13 +206,13 @@ translate french b1c08cs12_8a5bb4d8:
 translate french b1c08cs12_764ca862:
 
     # mc "...Does your brother care?"
-    mc "...Est-ce que ton frère se soucie de toi ?"
+    mc "...Est-ce que ton frère se soucie de toi?"
 
 # game/code/Book-1/Chapter-8c/s12.rpy:156
 translate french b1c08cs12_54ce99e5:
 
     # nv "...What is that supposed to mean?"
-    nv "...Qu'est-ce que ça veut dire ?"
+    nv "...Qu'est-ce que ça veut dire?"
 
 # game/code/Book-1/Chapter-8c/s12.rpy:159
 translate french b1c08cs12_7a77c6d1:
@@ -224,7 +224,7 @@ translate french b1c08cs12_7a77c6d1:
 translate french b1c08cs12_fdf5bd3f:
 
     # mc "Isn't that pretty much what your brother does to you?"
-    mc "N'est-ce pas un peu ce que ton frère te fait ?"
+    mc "N'est-ce pas un peu ce que ton frère te fait?"
 
 # game/code/Book-1/Chapter-8c/s12.rpy:163
 translate french b1c08cs12_bdf0d0a8:
@@ -242,7 +242,7 @@ translate french b1c08cs12_af89c2be:
 translate french b1c08cs12_3d74f4b0:
 
     # mct "How can she not see that they're trying to control her just the same?"
-    mct "Comment peut-elle ne pas voir qu'ils essaient de la contrôler de la même manière ?"
+    mct "Comment peut-elle ne pas voir qu'ils essaient de la contrôler de la même manière?"
 
 # game/code/Book-1/Chapter-8c/s12.rpy:169
 translate french b1c08cs12_9f9a989a:
@@ -350,37 +350,37 @@ translate french b1c08cs12_2cdf7451:
 translate french b1c08cs12_45305515:
 
     # mct "How the fuck am I going to untangle this one?"
-    mct "Comment diable vais-je démêler ça ?"
+    mct "Comment diable vais-je démêler ça?"
 
 # game/code/Book-1/Chapter-8c/s12.rpy:208
 translate french b1c08cs12_b75d44c8:
 
     # mct "Lumi? Delphia?"
-    mct "Lumi ? Delphia ?"
+    mct "Lumi? Delphia?"
 
 # game/code/Book-1/Chapter-8c/s12.rpy:209
 translate french b1c08cs12_d0420439:
 
     # mct "...Nia?"
-    mct "...Nia ?"
+    mct "...Nia?"
 
 # game/code/Book-1/Chapter-8c/s12.rpy:213
 translate french b1c08cs12_27fb9989:
 
     # mct "How the hell is she gonna react when this all blows over?"
-    mct "Comment diable va-t-elle réagir quand tout ça sera fini ?"
+    mct "Comment diable va-t-elle réagir quand tout ça sera fini?"
 
 # game/code/Book-1/Chapter-8c/s12.rpy:214
 translate french b1c08cs12_673fede7:
 
     # mct "When she realizes that the group may not be as saintly as she thinks?"
-    mct "Quand elle réalisera que le groupe n'est peut-être pas aussi saint qu'elle le pense ?"
+    mct "Quand elle réalisera que le groupe n'est peut-être pas aussi saint qu'elle le pense?"
 
 # game/code/Book-1/Chapter-8c/s12.rpy:215
 translate french b1c08cs12_f6701780:
 
     # mct "That maybe Maria was too lost in the group to see it for what it is?"
-    mct "Que peut-être Maria était trop perdue dans le groupe pour le voir tel qu'il est ?"
+    mct "Que peut-être Maria était trop perdue dans le groupe pour le voir tel qu'il est?"
 
 # game/code/Book-1/Chapter-8c/s12.rpy:219
 translate french b1c08cs12_6d6893d3:

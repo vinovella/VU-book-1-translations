@@ -26,7 +26,7 @@ translate french b1c03s05_1a70d852:
 translate french b1c03s05_0bc08194:
 
     # mc "Hey... What's going on?"
-    mc "Hey... Que se passe-t-il ?"
+    mc "Hey... Que se passe-t-il?"
 
 # game/code/Book-1/Chapter-3/s05.rpy:43
 translate french b1c03s05_b5f86a49:
@@ -38,7 +38,7 @@ translate french b1c03s05_b5f86a49:
 translate french b1c03s05_cbfc591a:
 
     # jh "Lara!"
-    jh "Lara !"
+    jh "Lara!"
 
 # game/code/Book-1/Chapter-3/s05.rpy:52
 translate french b1c03s05_640101dd:
@@ -62,7 +62,7 @@ translate french b1c03s05_258cf705:
 translate french b1c03s05_8b8ae807:
 
     # jh "Look, I used to know him. He's a good guy, alright?"
-    jh "Écoute, je le connaissais avant. C'est un bon gars, d'accord ?"
+    jh "Écoute, je le connaissais avant. C'est un bon gars, d'accord?"
 
 # game/code/Book-1/Chapter-3/s05.rpy:69
 translate french b1c03s05_d6fe4e2e:
@@ -92,7 +92,7 @@ translate french b1c03s05_58088bbe:
 translate french b1c03s05_e67d7678:
 
     # jh "Everyone pipe down!"
-    jh "Tout le monde, du calme !"
+    jh "Tout le monde, du calme!"
 
 # game/code/Book-1/Chapter-3/s05.rpy:87
 translate french b1c03s05_4ac9f887:
@@ -134,7 +134,7 @@ translate french b1c03s05_695b2c74:
 translate french b1c03s05_f97f3811:
 
     # mc "Well, this will be a bit awkward, won't it? One of my new room mates knows me, and the other has already seen me naked."
-    mc "Eh bien, ça va être un peu gênant, non ? L'un de mes nouveaux colocataires me connaît déjà, et l'autre m'a déjà vu nu."
+    mc "Eh bien, ça va être un peu gênant, non? L'un de mes nouveaux colocataires me connaît déjà, et l'autre m'a déjà vu nu."
 
 # game/code/Book-1/Chapter-3/s05.rpy:106
 translate french b1c03s05_13556e6d:
@@ -146,13 +146,13 @@ translate french b1c03s05_13556e6d:
 translate french b1c03s05_be30ec21:
 
     # lw "Jesus, you were fully naked?!"
-    lw "Jesus, tu étais complètement nu ?!"
+    lw "Jesus, tu étais complètement nu?!"
 
 # game/code/Book-1/Chapter-3/s05.rpy:112
 translate french b1c03s05_e8fea151:
 
     # mc "Wait, what? How could you not see that I was naked?"
-    mc "Attends, quoi ? Comment as-tu pu ne pas voir que j'étais nu ?"
+    mc "Attends, quoi? Comment as-tu pu ne pas voir que j'étais nu?"
 
 # game/code/Book-1/Chapter-3/s05.rpy:115
 translate french b1c03s05_af03efe4:
@@ -164,7 +164,7 @@ translate french b1c03s05_af03efe4:
 translate french b1c03s05_fcf860aa:
 
     # mc "You're blind and go climbing?! I guess you don't have a bad bitch attitude without reason."
-    mc "Tu es aveugle et tu fais de l'escalade ?! J'imagine que ton attitude badass n'est pas sans raison."
+    mc "Tu es aveugle et tu fais de l'escalade?! J'imagine que ton attitude badass n'est pas sans raison."
 
 # game/code/Book-1/Chapter-3/s05.rpy:128
 translate french b1c03s05_6d20d305:
@@ -188,7 +188,7 @@ translate french b1c03s05_d20be7fd:
 translate french b1c03s05_2b5e23c5:
 
     # lw "Wait a damn minute, shouldn't I be the one to say whether it's okay or not?"
-    lw "Attends une minute, ce ne serait pas à moi de dire si c'est okay ou pas ?"
+    lw "Attends une minute, ce ne serait pas à moi de dire si c'est okay ou pas?"
 
 # game/code/Book-1/Chapter-3/s05.rpy:140
 translate french b1c03s05_6cded40f:
@@ -200,7 +200,7 @@ translate french b1c03s05_6cded40f:
 translate french b1c03s05_5cc352a5:
 
     # lw "Oh, so we're just going with whatever's okay for [mcname], now?"
-    lw "Oh, donc on va juste avec ce qui est okay pour [mcname], maintenant ?"
+    lw "Oh, donc on va juste avec ce qui est okay pour [mcname], maintenant?"
 
 # game/code/Book-1/Chapter-3/s05.rpy:146
 translate french b1c03s05_a727415a:
@@ -212,13 +212,13 @@ translate french b1c03s05_a727415a:
 translate french b1c03s05_730eaa33:
 
     # mc "Uh, hey guys, why don't we focus on organizing the room?"
-    mc "Euh, hé les gars, pourquoi on ne se concentre pas sur l'organisation de la chambre ?"
+    mc "Euh, hé les gars, pourquoi on ne se concentre pas sur l'organisation de la chambre?"
 
 # game/code/Book-1/Chapter-3/s05.rpy:152
 translate french b1c03s05_b307b52f:
 
     # mc "Who sleeps where?"
-    mc "Qui dort où ?"
+    mc "Qui dort où?"
 
 # game/code/Book-1/Chapter-3/s05.rpy:155
 translate french b1c03s05_a68207e4:
@@ -248,7 +248,7 @@ translate french b1c03s05_68bd8346:
 translate french b1c03s05_555dab8a:
 
     # mc "I can take the single bed, and you guys take the bunk?"
-    mc "Je peux prendre le lit simple, et vous prenez les couchettes ?"
+    mc "Je peux prendre le lit simple, et vous prenez les couchettes?"
 
 # game/code/Book-1/Chapter-3/s05.rpy:171
 translate french b1c03s05_942897eb:
@@ -266,13 +266,13 @@ translate french b1c03s05_568927c4:
 translate french b1c03s05_ab645cf5:
 
     # mc "Wait, Josie haven't you done rock climbing before?"
-    mc "Attends, Josie, tu n'as pas déjà fait de l'escalade ?"
+    mc "Attends, Josie, tu n'as pas déjà fait de l'escalade?"
 
 # game/code/Book-1/Chapter-3/s05.rpy:180
 translate french b1c03s05_c517fbd6:
 
     # jh "Yeah, but I didn't sleep hanging off the side of a mountain!"
-    jh "Oui, mais je ne dormais pas suspendue à une falaise !"
+    jh "Oui, mais je ne dormais pas suspendue à une falaise!"
 
 # game/code/Book-1/Chapter-3/s05.rpy:183
 translate french b1c03s05_f8a8542e:
@@ -350,7 +350,7 @@ translate french b1c03s05_ab546146:
 translate french b1c03s05_7b56b451:
 
     # mc "Okay... So do you guys want to move the beds around instead? That way we wouldn't need to move your things around."
-    mc "Okay... Vous voulez qu'on bouge les lits à la place ? Comme ça, on n'a pas besoin de déplacer vos affaires."
+    mc "Okay... Vous voulez qu'on bouge les lits à la place? Comme ça, on n'a pas besoin de déplacer vos affaires."
 
 # game/code/Book-1/Chapter-3/s05.rpy:224
 translate french b1c03s05_1219eed1:
@@ -368,7 +368,7 @@ translate french b1c03s05_bab95e07:
 translate french b1c03s05_d4f89731:
 
     # mc "Great. I'll take the top bunk, Josie can take the bottom, and Lara takes the single. Sound good?"
-    mc "Super. Je prends la couchette du haut, Josie celle du bas, et Lara prend le lit simple. Ça vous va ?"
+    mc "Super. Je prends la couchette du haut, Josie celle du bas, et Lara prend le lit simple. Ça vous va?"
 
 # game/code/Book-1/Chapter-3/s05.rpy:233
 translate french b1c03s05_d9a7c924:
@@ -386,7 +386,7 @@ translate french b1c03s05_64f9ea4e:
 translate french b1c03s05_55a698eb:
 
     # jh "[mcname], would you grab the front of the bed?"
-    jh "[mcname], tu veux bien attraper le devant du lit ?"
+    jh "[mcname], tu veux bien attraper le devant du lit?"
 
 # game/code/Book-1/Chapter-3/s05.rpy:244
 translate french b1c03s05_606e2d02:
@@ -398,7 +398,7 @@ translate french b1c03s05_606e2d02:
 translate french b1c03s05_afe9b4bd:
 
     # lw "So, uh, you guys knew each other before now?"
-    lw "Alors, euh, vous vous connaissiez avant ?"
+    lw "Alors, euh, vous vous connaissiez avant?"
 
 # game/code/Book-1/Chapter-3/s05.rpy:250
 translate french b1c03s05_f2d94662:
@@ -410,7 +410,7 @@ translate french b1c03s05_f2d94662:
 translate french b1c03s05_b05413de:
 
     # jh "Yeah. Around five-ish years ago, I think?"
-    jh "Oui. Il y a environ cinq ans, je crois ?"
+    jh "Oui. Il y a environ cinq ans, je crois?"
 
 # game/code/Book-1/Chapter-3/s05.rpy:258
 translate french b1c03s05_9131a2fd:
@@ -464,13 +464,13 @@ translate french b1c03s05_1a9fd18c:
 translate french b1c03s05_ffd5b65d:
 
     # lw "So, what did {i}you{/i} think of Josie back then, [mcname]?"
-    lw "Alors, qu'est-ce que {i}toi{/i} tu pensais de Josie à l'époque, [mcname] ?"
+    lw "Alors, qu'est-ce que {i}toi{/i} tu pensais de Josie à l'époque, [mcname]?"
 
 # game/code/Book-1/Chapter-3/s05.rpy:289
 translate french b1c03s05_5c43aeca:
 
     # mc "What is this, highschool?"
-    mc "Qu'est-ce que c'est, le lycée ?"
+    mc "Qu'est-ce que c'est, le lycée?"
 
 # game/code/Book-1/Chapter-3/s05.rpy:292
 translate french b1c03s05_6df5cd28:
@@ -494,13 +494,13 @@ translate french b1c03s05_0ac13c06:
 translate french b1c03s05_c4cb4eae:
 
     # lw "So are you saying that it's on your mind now?"
-    lw "Tu es en train de dire que c'est dans tes pensées maintenant ?"
+    lw "Tu es en train de dire que c'est dans tes pensées maintenant?"
 
 # game/code/Book-1/Chapter-3/s05.rpy:304
 translate french b1c03s05_4e61460f:
 
     # mct "What kind of reaction is Lara looking for? This is embarrassing Josie."
-    mct "Quelle genre de réaction Lara attend-elle ? C'est embarrassant pour Josie."
+    mct "Quelle genre de réaction Lara attend-elle? C'est embarrassant pour Josie."
 
 # game/code/Book-1/Chapter-3/s05.rpy:308
 translate french b1c03s05_38856fcf:
@@ -518,7 +518,7 @@ translate french b1c03s05_7dc449ac:
 translate french b1c03s05_55fdb302:
 
     # mc "Uh, when did you guys meet?"
-    mc "Euh, quand est-ce que vous vous êtes rencontrées ?"
+    mc "Euh, quand est-ce que vous vous êtes rencontrées?"
 
 # game/code/Book-1/Chapter-3/s05.rpy:315
 translate french b1c03s05_6b659e8f:
@@ -554,31 +554,31 @@ translate french b1c03s05_ce14dfdf:
 translate french b1c03s05_a1cf4fd8:
 
     # lw "I'm sure you miss having some sort of social life, huh Josie?"
-    lw "Je suis sûre que ta vie sociale te manque, hein Josie ?"
+    lw "Je suis sûre que ta vie sociale te manque, hein Josie?"
 
 # game/code/Book-1/Chapter-3/s05.rpy:332
 translate french b1c03s05_05b01327:
 
     # jh "Har har. I'm happiest when I'm helping someone. Plus, it's not like you're boring, Lara. You taught me how to rock climb!"
-    jh "Har har. Je suis la plus heureuse quand j'aide quelqu'un. Et puis, ce n'est pas comme si tu étais ennuyeuse, Lara. Tu m'as appris à faire de l'escalade !"
+    jh "Har har. Je suis la plus heureuse quand j'aide quelqu'un. Et puis, ce n'est pas comme si tu étais ennuyeuse, Lara. Tu m'as appris à faire de l'escalade!"
 
 # game/code/Book-1/Chapter-3/s05.rpy:335
 translate french b1c03s05_bca75da2:
 
     # mc "Hold up. A blind girl taught you how to rock climb?"
-    mc "Attends. Une fille aveugle t'a appris à faire de l'escalade ?"
+    mc "Attends. Une fille aveugle t'a appris à faire de l'escalade?"
 
 # game/code/Book-1/Chapter-3/s05.rpy:338
 translate french b1c03s05_4c77ef90:
 
     # jh "Isn't that grand?"
-    jh "N'est-ce pas grandiose ?"
+    jh "N'est-ce pas grandiose?"
 
 # game/code/Book-1/Chapter-3/s05.rpy:341
 translate french b1c03s05_b7fe7c35:
 
     # mc "Seriously? I never would've figured that out."
-    mc "Sérieusement ? Je n'aurais jamais deviné ça."
+    mc "Sérieusement? Je n'aurais jamais deviné ça."
 
 # game/code/Book-1/Chapter-3/s05.rpy:344
 translate french b1c03s05_44859988:
@@ -590,19 +590,19 @@ translate french b1c03s05_44859988:
 translate french b1c03s05_d114db31:
 
     # jh "Oh shut up, Lara. You can't {i}see{/i} how high up we actually are!"
-    jh "Oh, tais-toi, Lara. Tu ne peux pas {i}voir{/i} à quelle hauteur on est vraiment !"
+    jh "Oh, tais-toi, Lara. Tu ne peux pas {i}voir{/i} à quelle hauteur on est vraiment!"
 
 # game/code/Book-1/Chapter-3/s05.rpy:350
 translate french b1c03s05_7ee23090:
 
     # lw "Haha! Well, it's true, you {i}are{/i} a coward."
-    lw "Haha ! Eh bien, c'est vrai, tu {i}es{/i} une trouillarde."
+    lw "Haha! Eh bien, c'est vrai, tu {i}es{/i} une trouillarde."
 
 # game/code/Book-1/Chapter-3/s05.rpy:353
 translate french b1c03s05_e46735f5:
 
     # lw "But it turned out the best for both of us, right?"
-    lw "Mais ça a bien tourné pour nous deux, non ?"
+    lw "Mais ça a bien tourné pour nous deux, non?"
 
 # game/code/Book-1/Chapter-3/s05.rpy:358
 translate french b1c03s05_4d1c7985:
@@ -651,3 +651,4 @@ translate french b1c03s05_6651ab87:
 
     # mc "Alright."
     mc "D'accord."
+

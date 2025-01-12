@@ -86,7 +86,7 @@ translate french b1c07cs01_eeacdb89:
 translate french b1c07cs01_dd0d9d9f:
 
     # mc "Do you know what the announcement is about?"
-    mc "Tu sais de quoi il s'agit dans l'annonce ?"
+    mc "Tu sais de quoi il s'agit dans l'annonce?"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:77
 translate french b1c07cs01_7beb5ffd:
@@ -104,7 +104,7 @@ translate french b1c07cs01_2aa33e88:
 translate french b1c07cs01_095d04da:
 
     # dk "Wake up on the wrong side of the bed?"
-    dk "Tu t'es levé du mauvais pied ?"
+    dk "Tu t'es levé du mauvais pied?"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:86
 translate french b1c07cs01_b5acaff2:
@@ -116,7 +116,7 @@ translate french b1c07cs01_b5acaff2:
 translate french b1c07cs01_7bb8c326:
 
     # ad "Ladies and gentlemen! Today, I have a {i}very{/i} special guest!"
-    ad "Mesdames et messieurs ! Aujourd'hui, j'ai un {i}très{/i} invité spécial !"
+    ad "Mesdames et messieurs! Aujourd'hui, j'ai un {i}très{/i} invité spécial!"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:96
 translate french b1c07cs01_f450d0fa:
@@ -128,7 +128,7 @@ translate french b1c07cs01_f450d0fa:
 translate french b1c07cs01_4ee4a8a0:
 
     # mct "A remote location? Strange."
-    mct "Un endroit isolé ? Étrange."
+    mct "Un endroit isolé? Étrange."
 
 # game/code/Book-1/Chapter-7c/s01.rpy:102
 translate french b1c07cs01_05b462b9:
@@ -170,7 +170,7 @@ translate french b1c07cs01_22bb2f01:
 translate french b1c07cs01_f381d7f5:
 
     # mc "What the hell is she talking about? I'm already lost."
-    mc "De quoi diable parle-t-elle ? Je suis déjà perdu."
+    mc "De quoi diable parle-t-elle? Je suis déjà perdu."
 
 # game/code/Book-1/Chapter-7c/s01.rpy:130
 translate french b1c07cs01_7609231c:
@@ -206,7 +206,7 @@ translate french b1c07cs01_abd088ad:
 translate french b1c07cs01_c92bdfc9:
 
     # mc "Heh, I'm lost. What's she mean she's here to guide us? I thought we already have Guides?"
-    mc "Heh, je suis perdu. Qu'est-ce qu'elle veut dire en disant qu'elle est ici pour nous guider ? Je croyais qu'on avait déjà des Guides ?"
+    mc "Heh, je suis perdu. Qu'est-ce qu'elle veut dire en disant qu'elle est ici pour nous guider? Je croyais qu'on avait déjà des Guides?"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:150
 translate french b1c07cs01_513adbdf:
@@ -242,7 +242,7 @@ translate french b1c07cs01_d98837b1:
 translate french b1c07cs01_7a229b2b:
 
     # ih "I'd like to personally invite all of you to our idyllic little estate. We're holding an advancing ceremony, just for you!"
-    ih "J'aimerais vous inviter personnellement dans notre petit domaine idyllique. Nous organisons une cérémonie de progression, rien que pour vous !"
+    ih "J'aimerais vous inviter personnellement dans notre petit domaine idyllique. Nous organisons une cérémonie de progression, rien que pour vous!"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:172
 translate french b1c07cs01_db497a6b:
@@ -302,13 +302,13 @@ translate french b1c07cs01_0dea40c4:
 translate french b1c07cs01_3163fa94:
 
     # ad "We're so enthusiastic about advancing everyone's enlightenment. We want to give you every opportunity to learn about us, our practices, and yourself!"
-    ad "Nous sommes tellement enthousiastes à l'idée de faire progresser l'illumination de chacun. Nous voulons vous donner toutes les opportunités d'en apprendre plus sur nous, nos pratiques, et sur vous-même !"
+    ad "Nous sommes tellement enthousiastes à l'idée de faire progresser l'illumination de chacun. Nous voulons vous donner toutes les opportunités d'en apprendre plus sur nous, nos pratiques, et sur vous-même!"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:200
 translate french b1c07cs01_b9ce2f0d:
 
     # ih "Thank you so much for being here. I hope to see everyone at our other location!"
-    ih "Merci beaucoup d'être ici. J'espère voir tout le monde dans notre autre lieu !"
+    ih "Merci beaucoup d'être ici. J'espère voir tout le monde dans notre autre lieu!"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:203
 translate french b1c07cs01_d3ff7864:
@@ -332,7 +332,7 @@ translate french b1c07cs01_fbe7b95b:
 translate french b1c07cs01_5e2fce06:
 
     # nv "I'm so excited to go on this trip! It'll be so fun!"
-    nv "Je suis tellement excitée à l'idée de partir en voyage ! Ça va être tellement amusant !"
+    nv "Je suis tellement excitée à l'idée de partir en voyage! Ça va être tellement amusant!"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:223
 translate french b1c07cs01_ca2f0125:
@@ -350,7 +350,7 @@ translate french b1c07cs01_4517ea25:
 translate french b1c07cs01_57e6836c:
 
     # ih "And who is this promising new soul?"
-    ih "Et qui est cette nouvelle âme prometteuse ?"
+    ih "Et qui est cette nouvelle âme prometteuse?"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:239
 translate french b1c07cs01_2f36512e:
@@ -374,7 +374,7 @@ translate french b1c07cs01_8e4f5b86:
 translate french b1c07cs01_cdd2ec08:
 
     # mc "It is customary to kiss your superiors on the lips, correct?"
-    mc "Il est d'usage d'embrasser ses supérieurs sur les lèvres, n'est-ce pas ?"
+    mc "Il est d'usage d'embrasser ses supérieurs sur les lèvres, n'est-ce pas?"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:258
 translate french b1c07cs01_1be98bcb:
@@ -434,19 +434,19 @@ translate french b1c07cs01_c82163a9:
 translate french b1c07cs01_6243373b:
 
     # ih "Have you forgotten your manners?"
-    ih "As-tu oublié tes manières ?"
+    ih "As-tu oublié tes manières?"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:294
 translate french b1c07cs01_c82a389c:
 
     # ih "Such a lovely face is wasted without proper manners, hm?"
-    ih "Un si joli visage est gâché sans de bonnes manières, hm ?"
+    ih "Un si joli visage est gâché sans de bonnes manières, hm?"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:297
 translate french b1c07cs01_4b3d06f4:
 
     # mc "My manners?"
-    mc "Mes manières ?"
+    mc "Mes manières?"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:300
 translate french b1c07cs01_a47d0183:
@@ -482,7 +482,7 @@ translate french b1c07cs01_32dc3811:
 translate french b1c07cs01_616aa9c3:
 
     # dk "Guide work. Probably just some prep work for the trip. I'll be back soon, okay?"
-    dk "Travail lié au Guide. Probablement juste des préparatifs pour le voyage. Je serai de retour bientôt, d'accord ?"
+    dk "Travail lié au Guide. Probablement juste des préparatifs pour le voyage. Je serai de retour bientôt, d'accord?"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:319
 translate french b1c07cs01_af552576:
@@ -500,13 +500,13 @@ translate french b1c07cs01_0f4ae907:
 translate french b1c07cs01_72cadd50:
 
     # nv "How do you feel about the trip?"
-    nv "Comment te sens-tu à propos du voyage ?"
+    nv "Comment te sens-tu à propos du voyage?"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:328
 translate french b1c07cs01_44168de7:
 
     # nv "Are you excited?"
-    nv "Es-tu excité ?"
+    nv "Es-tu excité?"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:331
 translate french b1c07cs01_b3c4e5dd:
@@ -518,7 +518,7 @@ translate french b1c07cs01_b3c4e5dd:
 translate french b1c07cs01_9262d8d1:
 
     # nv "Oh, I'm so happy! I've never been to the other location before."
-    nv "Oh, je suis tellement heureuse ! Je ne suis jamais allée à l'autre endroit."
+    nv "Oh, je suis tellement heureuse! Je ne suis jamais allée à l'autre endroit."
 
 # game/code/Book-1/Chapter-7c/s01.rpy:335
 translate french b1c07cs01_c147a18f:
@@ -542,19 +542,19 @@ translate french b1c07cs01_be3964a3:
 translate french b1c07cs01_547d78c6:
 
     # ll "What's so funny?"
-    ll "Qu'est-ce qui est si drôle ?"
+    ll "Qu'est-ce qui est si drôle?"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:348
 translate french b1c07cs01_bae4ac6b:
 
     # nv "Lumi! Happy to see you. We were just discussing the trip!"
-    nv "Lumi ! Heureuse de te voir. On parlait juste du voyage !"
+    nv "Lumi! Heureuse de te voir. On parlait juste du voyage!"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:351
 translate french b1c07cs01_6620d9a8:
 
     # ll "I'm kinda nervous about it. Do you think they'll have enough housing for all of us? Or resources?"
-    ll "Je suis un peu nerveuse à ce sujet. Penses-tu qu'ils auront assez de logements pour nous tous ? Ou de ressources ?"
+    ll "Je suis un peu nerveuse à ce sujet. Penses-tu qu'ils auront assez de logements pour nous tous? Ou de ressources?"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:354
 translate french b1c07cs01_8b6665bd:
@@ -566,7 +566,7 @@ translate french b1c07cs01_8b6665bd:
 translate french b1c07cs01_82717f3f:
 
     # nv "Of course! Andre would never put us at risk."
-    nv "Bien sûr ! Andre ne nous mettrait jamais en danger."
+    nv "Bien sûr! Andre ne nous mettrait jamais en danger."
 
 # game/code/Book-1/Chapter-7c/s01.rpy:360
 translate french b1c07cs01_64fcfec4:
@@ -632,7 +632,7 @@ translate french b1c07cs01_ff5ca826:
 translate french b1c07cs01_f5b4728b:
 
     # ch "God, do you see the way he's fawning all over her?"
-    ch "Mon Dieu, tu vois comment il la couve de tout son être ?"
+    ch "Mon Dieu, tu vois comment il la couve de tout son être?"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:388
 translate french b1c07cs01_6e703677:
@@ -644,7 +644,7 @@ translate french b1c07cs01_6e703677:
 translate french b1c07cs01_d9953768:
 
     # ch "And he always has his fuckin' tits out. Like button up your shirt, slut! Damn."
-    ch "Et il a toujours ses putains de seins à l'air. Bordel, ferme ta chemise, salope ! Merde."
+    ch "Et il a toujours ses putains de seins à l'air. Bordel, ferme ta chemise, salope! Merde."
 
 # game/code/Book-1/Chapter-7c/s01.rpy:394
 translate french b1c07cs01_ee5c923f:
@@ -656,7 +656,7 @@ translate french b1c07cs01_ee5c923f:
 translate french b1c07cs01_4140037c:
 
     # mct "Why doesn't Ivy tell him to piss off if she's not reciprocating?"
-    mct "Pourquoi Ivy ne lui dit-elle pas de se casser si elle ne lui rend pas ses avances ?"
+    mct "Pourquoi Ivy ne lui dit-elle pas de se casser si elle ne lui rend pas ses avances?"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:398
 translate french b1c07cs01_7b9363b5:
@@ -674,13 +674,13 @@ translate french b1c07cs01_6b00cfe7:
 translate french b1c07cs01_e0d25d86:
 
     # mct "Andre wants another go with Ivy? I wonder what that means..."
-    mct "Andre veut une autre chance avec Ivy ? Je me demande ce que ça signifie..."
+    mct "Andre veut une autre chance avec Ivy? Je me demande ce que ça signifie..."
 
 # game/code/Book-1/Chapter-7c/s01.rpy:413
 translate french b1c07cs01_a4fc93a8:
 
     # dk "Miss me?"
-    dk "Tu m'as manqué ?"
+    dk "Tu m'as manqué?"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:416
 translate french b1c07cs01_3b4f8e0e:
@@ -692,7 +692,7 @@ translate french b1c07cs01_3b4f8e0e:
 translate french b1c07cs01_3c9f007a:
 
     # nv "Del! How was the discussion? Anything interesting?"
-    nv "Del ! Comment s'est passée la discussion ? Quelque chose d'intéressant ?"
+    nv "Del! Comment s'est passée la discussion? Quelque chose d'intéressant?"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:422
 translate french b1c07cs01_bd1149f8:
@@ -704,13 +704,13 @@ translate french b1c07cs01_bd1149f8:
 translate french b1c07cs01_ce6483d9:
 
     # ll "Do you know if we'll have enough housing and resources for everyone? I'm a little nervous about traveling without knowing..."
-    ll "Tu sais si nous aurons assez de logement et de ressources pour tout le monde ? Je suis un peu nerveuse à l'idée de voyager sans savoir..."
+    ll "Tu sais si nous aurons assez de logement et de ressources pour tout le monde? Je suis un peu nerveuse à l'idée de voyager sans savoir..."
 
 # game/code/Book-1/Chapter-7c/s01.rpy:428
 translate french b1c07cs01_1320f216:
 
     # dk "Absolutely! The community will have plenty to share with everyone. We'd never let anyone go without needs."
-    dk "Absolument ! La communauté aura suffisamment à partager avec tout le monde. On ne laisserait jamais quelqu'un sans rien."
+    dk "Absolument! La communauté aura suffisamment à partager avec tout le monde. On ne laisserait jamais quelqu'un sans rien."
 
 # game/code/Book-1/Chapter-7c/s01.rpy:431
 translate french b1c07cs01_da5b627e:
@@ -728,7 +728,7 @@ translate french b1c07cs01_b265e42e:
 translate french b1c07cs01_6011910e:
 
     # mct "They're gone? Where'd they go?"
-    mct "Ils sont partis ? Où sont-ils allés ?"
+    mct "Ils sont partis? Où sont-ils allés?"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:444
 translate french b1c07cs01_18dd2669:
@@ -752,7 +752,7 @@ translate french b1c07cs01_9d75bfa3:
 translate french b1c07cs01_4776e7ad:
 
     # ll "Are you okay? You look a little down."
-    ll "Ça va ? Tu as l'air un peu abattu."
+    ll "Ça va? Tu as l'air un peu abattu."
 
 # game/code/Book-1/Chapter-7c/s01.rpy:453
 translate french b1c07cs01_ca67581e:
@@ -764,7 +764,7 @@ translate french b1c07cs01_ca67581e:
 translate french b1c07cs01_cce6bd83:
 
     # ll "Are you nervous about the trip, too?"
-    ll "Tu es nerveux à propos du voyage, toi aussi ?"
+    ll "Tu es nerveux à propos du voyage, toi aussi?"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:458
 translate french b1c07cs01_e8d9e285:
@@ -788,7 +788,7 @@ translate french b1c07cs01_f27f3f98:
 translate french b1c07cs01_e1a84db0:
 
     # ll "Same for me. I understand. But we'll look out for each other, right?"
-    ll "C'est pareil pour moi. Je comprends. Mais on veillera les uns sur les autres, d'accord ?"
+    ll "C'est pareil pour moi. Je comprends. Mais on veillera les uns sur les autres, d'accord?"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:468
 translate french b1c07cs01_0817892e:
@@ -812,7 +812,7 @@ translate french b1c07cs01_688fb789:
 translate french b1c07cs01_7beeb819:
 
     # nv "See you later!"
-    nv "À plus tard !"
+    nv "À plus tard!"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:480
 translate french b1c07cs01_3b4d7608:
@@ -854,7 +854,7 @@ translate french b1c07cs01_00db7c6b:
 translate french b1c07cs01_8a0e9d62:
 
     # nv "I should get going too. But I'm so happy we got to spend some time together. You got classes today?"
-    nv "Je devrais y aller aussi. Mais je suis tellement contente qu'on ait pu passer du temps ensemble. Tu as des cours aujourd'hui ?"
+    nv "Je devrais y aller aussi. Mais je suis tellement contente qu'on ait pu passer du temps ensemble. Tu as des cours aujourd'hui?"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:502
 translate french b1c07cs01_b04fa015:
@@ -912,7 +912,7 @@ translate french strings:
 
     # game/code/Book-1/Chapter-7c/s01.rpy:122
     old "What the hell is she talking about?"
-    new "De quoi diable parle-t-elle ?"
+    new "De quoi diable parle-t-elle?"
 
     # game/code/Book-1/Chapter-7c/s01.rpy:122
     old "I'm already lost."
@@ -925,3 +925,4 @@ translate french strings:
     # game/code/Book-1/Chapter-7c/s01.rpy:241
     old "Shake hands"
     new "Se serrer la main"
+

@@ -20,7 +20,7 @@ translate french b1c06cs04_5c0bf65d:
 translate french b1c06cs04_ae10678f:
 
     # mc "Okay... And why exactly am I tagging along on this little adventure?"
-    mc "D'accord... Et pourquoi exactement je t'accompagne dans cette petite aventure ?"
+    mc "D'accord... Et pourquoi exactement je t'accompagne dans cette petite aventure?"
 
 # game/code/Book-1/Chapter-6c/s04.rpy:33
 translate french b1c06cs04_3cb55e9c:
@@ -50,7 +50,7 @@ translate french b1c06cs04_d973fbd3:
 translate french b1c06cs04_50da35ab:
 
     # mc "He banned you from the shop 'cause of your contacts? Seriously?"
-    mc "Il t'a bannie de son magasin à cause de tes lentilles ? Sérieusement ?"
+    mc "Il t'a bannie de son magasin à cause de tes lentilles? Sérieusement?"
 
 # game/code/Book-1/Chapter-6c/s04.rpy:49
 translate french b1c06cs04_84031ef3:
@@ -74,7 +74,7 @@ translate french b1c06cs04_b34da4b7:
 translate french b1c06cs04_addbcecb:
 
     # mc "Why do you need more pig's blood and...{i}cow hearts{/i} anyway?"
-    mc "Pourquoi as-tu encore besoin de sang de porc et de... {i}cœurs de vache{/i} ?"
+    mc "Pourquoi as-tu encore besoin de sang de porc et de... {i}cœurs de vache{/i}?"
 
 # game/code/Book-1/Chapter-6c/s04.rpy:61
 translate french b1c06cs04_1c7dedf1:
@@ -98,7 +98,7 @@ translate french b1c06cs04_b3ebf820:
 translate french b1c06cs04_6c241ae5:
 
     # mc "And what exactly am I supposed to help with?"
-    mc "Et je suis censé aider à quoi exactement ?"
+    mc "Et je suis censé aider à quoi exactement?"
 
 # game/code/Book-1/Chapter-6c/s04.rpy:73
 translate french b1c06cs04_024a14cd:
@@ -110,7 +110,7 @@ translate french b1c06cs04_024a14cd:
 translate french b1c06cs04_bed60b39:
 
     # mc "Chat him up for what?"
-    mc "Lui parler pour quoi faire ?"
+    mc "Lui parler pour quoi faire?"
 
 # game/code/Book-1/Chapter-6c/s04.rpy:79
 translate french b1c06cs04_da12a56f:
@@ -122,7 +122,7 @@ translate french b1c06cs04_da12a56f:
 translate french b1c06cs04_f2961dc5:
 
     # mc "I'm sorry, what? You want me to keep him distracted so that you can rob the place?"
-    mc "Pardon, quoi ? Tu veux que je le distraie pour que tu puisses cambrioler l'endroit ?"
+    mc "Pardon, quoi? Tu veux que je le distraie pour que tu puisses cambrioler l'endroit?"
 
 # game/code/Book-1/Chapter-6c/s04.rpy:85
 translate french b1c06cs04_3dd3a615:
@@ -134,13 +134,13 @@ translate french b1c06cs04_3dd3a615:
 translate french b1c06cs04_c8b38e20:
 
     # dk "The stuff that I need is shit he'd throw away anyway! He's keeping it back there 'cause he's paranoid of me."
-    dk "Les trucs dont j'ai besoin sont des machins qu'il jetterait de toute façon ! Il les garde là derrière parce qu'il est paranoïaque à mon sujet."
+    dk "Les trucs dont j'ai besoin sont des machins qu'il jetterait de toute façon! Il les garde là derrière parce qu'il est paranoïaque à mon sujet."
 
 # game/code/Book-1/Chapter-6c/s04.rpy:89
 translate french b1c06cs04_9787ae64:
 
     # mc "Is it paranoia or the health department?"
-    mc "C'est de la paranoïa ou c'est à cause des services sanitaires ?"
+    mc "C'est de la paranoïa ou c'est à cause des services sanitaires?"
 
 # game/code/Book-1/Chapter-6c/s04.rpy:92
 translate french b1c06cs04_718313a4:
@@ -182,7 +182,7 @@ translate french b1c06cs04_c5ef9e9b:
 translate french b1c06cs04_124b0333:
 
     # dk "What do you say?"
-    dk "Alors, qu'est-ce que tu en dis ?"
+    dk "Alors, qu'est-ce que tu en dis?"
 
 # game/code/Book-1/Chapter-6c/s04.rpy:106
 translate french b1c06cs04_0a09a129:
@@ -224,7 +224,7 @@ translate french b1c06cs04_244af857:
 translate french b1c06cs04_73a102f6:
 
     # gd "Oh, hey, kiddo. Back again eh?"
-    gd "Oh, salut, gamin. Encore de retour, hein ?"
+    gd "Oh, salut, gamin. Encore de retour, hein?"
 
 # game/code/Book-1/Chapter-6c/s04.rpy:148
 translate french b1c06cs04_dc61c42b:
@@ -236,7 +236,7 @@ translate french b1c06cs04_dc61c42b:
 translate french b1c06cs04_eaed4a57:
 
     # gd "Well god-dang, you went through a whole gallon?"
-    gd "Eh bien, sacré nom d'un chien, t'as vidé un gallon entier ?"
+    gd "Eh bien, sacré nom d'un chien, t'as vidé un gallon entier?"
 
 # game/code/Book-1/Chapter-6c/s04.rpy:155
 translate french b1c06cs04_6d46393c:
@@ -260,7 +260,7 @@ translate french b1c06cs04_5b627ac8:
 translate french b1c06cs04_2c63ecee:
 
     # gd "Well, I'll be, you must'a made one mean dish out of it. What'd'ya make anyway?"
-    gd "Eh bien, ma parole, tu as dû faire un sacré plat avec ça. Qu'est-ce que t'as fait, au juste ?"
+    gd "Eh bien, ma parole, tu as dû faire un sacré plat avec ça. Qu'est-ce que t'as fait, au juste?"
 
 # game/code/Book-1/Chapter-6c/s04.rpy:165
 translate french b1c06cs04_d11420dc:
@@ -278,7 +278,7 @@ translate french b1c06cs04_2dfba6a8:
 translate french b1c06cs04_71ee6a2c:
 
     # gd "Sausages? How'd you even make sausage outta blood? I thought you were gon' use 'em for some sorta sauce or somethin'."
-    gd "Des saucisses ? Comment as-tu fait pour faire des saucisses avec du sang ? Je pensais que tu allais les utiliser pour une sorte de sauce ou quelque chose comme ça."
+    gd "Des saucisses? Comment as-tu fait pour faire des saucisses avec du sang? Je pensais que tu allais les utiliser pour une sorte de sauce ou quelque chose comme ça."
 
 # game/code/Book-1/Chapter-6c/s04.rpy:174
 translate french b1c06cs04_cd6b2379:
@@ -296,7 +296,7 @@ translate french b1c06cs04_51567145:
 translate french b1c06cs04_7073079b:
 
     # gd "Huh, who knew you could do so much with blood? Them Europeans sure are an interestin' bunch."
-    gd "Ah, qui aurait cru qu'on pouvait faire autant de choses avec du sang ? Ces Européens sont vraiment fascinants."
+    gd "Ah, qui aurait cru qu'on pouvait faire autant de choses avec du sang? Ces Européens sont vraiment fascinants."
 
 # game/code/Book-1/Chapter-6c/s04.rpy:181
 translate french b1c06cs04_a9f1c48e:
@@ -308,7 +308,7 @@ translate french b1c06cs04_a9f1c48e:
 translate french b1c06cs04_d0690b97:
 
     # gd "Anyway, you got places to be. How much blood you need?"
-    gd "Bref, tu dois avoir d'autres choses à faire. Combien de sang il te faut ?"
+    gd "Bref, tu dois avoir d'autres choses à faire. Combien de sang il te faut?"
 
 # game/code/Book-1/Chapter-6c/s04.rpy:187
 translate french b1c06cs04_80f249cb:
@@ -326,7 +326,7 @@ translate french b1c06cs04_4dd0d0c7:
 translate french b1c06cs04_23ddf41f:
 
     # mc "Say, where's Sally anyway? She not around today?"
-    mc "Au fait, où est Sally ? Elle n'est pas là aujourd'hui ?"
+    mc "Au fait, où est Sally? Elle n'est pas là aujourd'hui?"
 
 # game/code/Book-1/Chapter-6c/s04.rpy:198
 translate french b1c06cs04_28a7bb8d:
@@ -338,19 +338,19 @@ translate french b1c06cs04_28a7bb8d:
 translate french b1c06cs04_8f1daef7:
 
     # gd "Why you askin'? You're not growin' sweet on my Sally now, are ya?"
-    gd "Pourquoi tu demandes ? Tu ne commencerais pas à craquer pour ma Sally, par hasard ?"
+    gd "Pourquoi tu demandes? Tu ne commencerais pas à craquer pour ma Sally, par hasard?"
 
 # game/code/Book-1/Chapter-6c/s04.rpy:203
 translate french b1c06cs04_8abf9820:
 
     # mc "*Chuckles* She seems like a lovely woman, but I think I'm a little too young for her, don't you?"
-    mc "*Rire* Elle semble être une femme charmante, mais je pense être un peu trop jeune pour elle, non ?"
+    mc "*Rire* Elle semble être une femme charmante, mais je pense être un peu trop jeune pour elle, non?"
 
 # game/code/Book-1/Chapter-6c/s04.rpy:206
 translate french b1c06cs04_90f236ec:
 
     # gd "What, you think my Sally's too old to find a good man?"
-    gd "Quoi ? Tu crois que ma Sally est trop vieille pour trouver un bon gars ?"
+    gd "Quoi? Tu crois que ma Sally est trop vieille pour trouver un bon gars?"
 
 # game/code/Book-1/Chapter-6c/s04.rpy:209
 translate french b1c06cs04_297c08ce:
@@ -410,7 +410,7 @@ translate french b1c06cs04_2c642241:
 translate french b1c06cs04_bd0e77f1:
 
     # gd "\"Appreciate the little things\"? Well ain't that some wisdom beyond yer years."
-    gd "\"Apprécie les petites choses\" ? Eh bien, c'est une sagesse au-delà de ton âge."
+    gd "\"Apprécie les petites choses\"? Eh bien, c'est une sagesse au-delà de ton âge."
 
 # game/code/Book-1/Chapter-6c/s04.rpy:241
 translate french b1c06cs04_b96a7763:
@@ -434,7 +434,7 @@ translate french b1c06cs04_1998fb6e:
 translate french b1c06cs04_befeed05:
 
     # gd "You smoke? Wanna hang around and talk?"
-    gd "Tu fumes ? Tu veux traîner un peu et discuter ?"
+    gd "Tu fumes? Tu veux traîner un peu et discuter?"
 
 # game/code/Book-1/Chapter-6c/s04.rpy:251
 translate french b1c06cs04_a4539c31:
@@ -446,7 +446,7 @@ translate french b1c06cs04_a4539c31:
 translate french b1c06cs04_778af9c2:
 
     # gd "*Chuckles* What, yer afraid of a little cancer?"
-    gd "*Rire* Quoi, t'as peur d'un peu de cancer ?"
+    gd "*Rire* Quoi, t'as peur d'un peu de cancer?"
 
 # game/code/Book-1/Chapter-6c/s04.rpy:259
 translate french b1c06cs04_f79318f3:
@@ -458,7 +458,7 @@ translate french b1c06cs04_f79318f3:
 translate french b1c06cs04_42c10265:
 
     # gd "*Laughs* Fair enough!"
-    gd "*Rire* Ça se tient !"
+    gd "*Rire* Ça se tient!"
 
 # game/code/Book-1/Chapter-6c/s04.rpy:285
 translate french b1c06cs04_3697fcfe:
@@ -476,7 +476,7 @@ translate french b1c06cs04_1c885fbf:
 translate french b1c06cs04_m1_c1_db029eaf:
 
     # mc "How old is Sally?"
-    mc "Quel âge a Sally ?"
+    mc "Quel âge a Sally?"
 
 # game/code/Book-1/Chapter-6c/s04.rpy:329
 translate french b1c06cs04_m1_c1_b1d27c9a:
@@ -494,7 +494,7 @@ translate french b1c06cs04_m1_c1_24fc9235:
 translate french b1c06cs04_m1_c1_a9cfcaca:
 
     # gd "And I look old?"
-    gd "Et moi, je fais vieux ?"
+    gd "Et moi, je fais vieux?"
 
 # game/code/Book-1/Chapter-6c/s04.rpy:338
 translate french b1c06cs04_m1_c1_e95ac42f:
@@ -506,7 +506,7 @@ translate french b1c06cs04_m1_c1_e95ac42f:
 translate french b1c06cs04_m1_c1_d18752b1:
 
     # gd "*Choking laugh* You sumbitch. I'm not that old!"
-    gd "*Rire étranglé* Espèce d'enfoiré. Je suis pas si vieux !"
+    gd "*Rire étranglé* Espèce d'enfoiré. Je suis pas si vieux!"
 
 # game/code/Book-1/Chapter-6c/s04.rpy:343
 translate french b1c06cs04_m1_c1_66a5117a:
@@ -518,13 +518,13 @@ translate french b1c06cs04_m1_c1_66a5117a:
 translate french b1c06cs04_m1_c2_a7832afa:
 
     # mc "What happened with you and that cult anyway?"
-    mc "Qu'est-ce qui s'est passé avec cette secte, au fait ?"
+    mc "Qu'est-ce qui s'est passé avec cette secte, au fait?"
 
 # game/code/Book-1/Chapter-6c/s04.rpy:354
 translate french b1c06cs04_m1_c2_8ab2662d:
 
     # gd "Cult? What cult?"
-    gd "Une secte ? Quelle secte ?"
+    gd "Une secte? Quelle secte?"
 
 # game/code/Book-1/Chapter-6c/s04.rpy:357
 translate french b1c06cs04_m1_c2_eeab5831:
@@ -554,19 +554,19 @@ translate french b1c06cs04_m1_c2_857dc552:
 translate french b1c06cs04_m1_c3_020143aa:
 
     # mc "You got a better half, Greg?"
-    mc "Tu as une moitié, Greg ?"
+    mc "Tu as une moitié, Greg?"
 
 # game/code/Book-1/Chapter-6c/s04.rpy:375
 translate french b1c06cs04_m1_c3_23e614c5:
 
     # gd "Better half? Why would I need a better half when I'm the bestest half I need?"
-    gd "Une moitié ? Pourquoi j'aurais besoin d'une moitié alors que je suis déjà la meilleure moitié qu'il me faut ?"
+    gd "Une moitié? Pourquoi j'aurais besoin d'une moitié alors que je suis déjà la meilleure moitié qu'il me faut?"
 
 # game/code/Book-1/Chapter-6c/s04.rpy:378
 translate french b1c06cs04_m1_c3_b6e18ac5:
 
     # mc "*Chuckles* Right, but you never had a special lady to go back to at night?"
-    mc "*Rires* Oui, mais t'as jamais eu une femme spéciale à retrouver le soir ?"
+    mc "*Rires* Oui, mais t'as jamais eu une femme spéciale à retrouver le soir?"
 
 # game/code/Book-1/Chapter-6c/s04.rpy:381
 translate french b1c06cs04_m1_c3_26654a56:
@@ -602,7 +602,7 @@ translate french b1c06cs04_m1_c3_394a545a:
 translate french b1c06cs04_m2_c1_099ffae5:
 
     # mc "By the way, is Sally married or...?"
-    mc "Au fait, est-ce que Sally est mariée ou... ?"
+    mc "Au fait, est-ce que Sally est mariée ou...?"
 
 # game/code/Book-1/Chapter-6c/s04.rpy:435
 translate french b1c06cs04_m2_c1_4ced29dc:
@@ -614,7 +614,7 @@ translate french b1c06cs04_m2_c1_4ced29dc:
 translate french b1c06cs04_m2_c1_ab856d21:
 
     # gd "And lemme guess, you're wondering where the kid is from?"
-    gd "Et laisse-moi deviner, tu te demandes d'où vient l'enfant ?"
+    gd "Et laisse-moi deviner, tu te demandes d'où vient l'enfant?"
 
 # game/code/Book-1/Chapter-6c/s04.rpy:439
 translate french b1c06cs04_m2_c1_30ea57d4:
@@ -638,7 +638,7 @@ translate french b1c06cs04_m2_c1_a7d00c3b:
 translate french b1c06cs04_m2_c2_086e506c:
 
     # mc "How'd you get into the butchering business, anyway?"
-    mc "Comment tu es entré dans le métier de boucher, au fait ?"
+    mc "Comment tu es entré dans le métier de boucher, au fait?"
 
 # game/code/Book-1/Chapter-6c/s04.rpy:458
 translate french b1c06cs04_m2_c2_e883d879:
@@ -680,13 +680,13 @@ translate french b1c06cs04_m2_c2_da6c037e:
 translate french b1c06cs04_m2_c3_d27806f0:
 
     # mc "Do you know the airspeed velocity of an unladen swallow, Greg?"
-    mc "Tu connais la vitesse de vol d'un hirondelle sans charge, Greg ?"
+    mc "Tu connais la vitesse de vol d'un hirondelle sans charge, Greg?"
 
 # game/code/Book-1/Chapter-6c/s04.rpy:481
 translate french b1c06cs04_m2_c3_43ae8992:
 
     # gd "What the what of the what?"
-    gd "Quoi quoi de quoi ?"
+    gd "Quoi quoi de quoi?"
 
 # game/code/Book-1/Chapter-6c/s04.rpy:484
 translate french b1c06cs04_m2_c3_203960b3:
@@ -698,7 +698,7 @@ translate french b1c06cs04_m2_c3_203960b3:
 translate french b1c06cs04_m2_c3_916a76fc:
 
     # gd "Is that a TV show or somethin'?"
-    gd "C'est une émission de télé ou quoi ?"
+    gd "C'est une émission de télé ou quoi?"
 
 # game/code/Book-1/Chapter-6c/s04.rpy:490
 translate french b1c06cs04_m2_c3_e0b65a23:
@@ -710,7 +710,7 @@ translate french b1c06cs04_m2_c3_e0b65a23:
 translate french b1c06cs04_m2_c3_9b825691:
 
     # gd "What was it about?"
-    gd "C'était de quoi ?"
+    gd "C'était de quoi?"
 
 # game/code/Book-1/Chapter-6c/s04.rpy:496
 translate french b1c06cs04_m2_c3_c23c7e42:
@@ -740,19 +740,19 @@ translate french b1c06cs04_after_m2_befc581d:
 translate french b1c06cs04_after_m2_faf908fa:
 
     # mct "Hmm... What should I ask next?"
-    mct "Hmm... Que devrais-je lui demander ensuite ?"
+    mct "Hmm... Que devrais-je lui demander ensuite?"
 
 # game/code/Book-1/Chapter-6c/s04.rpy:544
 translate french b1c06cs04_m3_c1_14eb0d48:
 
     # mc "You into any sports?"
-    mc "Tu t'intéresses à un sport en particulier ?"
+    mc "Tu t'intéresses à un sport en particulier?"
 
 # game/code/Book-1/Chapter-6c/s04.rpy:547
 translate french b1c06cs04_m3_c1_fa30b531:
 
     # gd "Sports? I ain't really ever been into sports."
-    gd "Le sport ? Je n'ai jamais vraiment été fan de sport."
+    gd "Le sport? Je n'ai jamais vraiment été fan de sport."
 
 # game/code/Book-1/Chapter-6c/s04.rpy:548
 translate french b1c06cs04_m3_c1_8a650512:
@@ -770,7 +770,7 @@ translate french b1c06cs04_m3_c1_1e2d2556:
 translate french b1c06cs04_m3_c2_75bc4ff2:
 
     # mc "Heard anything interesting lately?"
-    mc "T'as entendu quelque chose d'intéressant récemment ?"
+    mc "T'as entendu quelque chose d'intéressant récemment?"
 
 # game/code/Book-1/Chapter-6c/s04.rpy:563
 translate french b1c06cs04_m3_c2_93c76499:
@@ -794,13 +794,13 @@ translate french b1c06cs04_m3_c2_125b275f:
 translate french b1c06cs04_m3_c3_2837656c:
 
     # mc "Have you heard about the missing girls?"
-    mc "Tu as entendu parler des filles disparues ?"
+    mc "Tu as entendu parler des filles disparues?"
 
 # game/code/Book-1/Chapter-6c/s04.rpy:580
 translate french b1c06cs04_m3_c3_acfd72d3:
 
     # gd "Missing girls? The ones from the university?"
-    gd "Des filles disparues ? Celles de l'université ?"
+    gd "Des filles disparues? Celles de l'université?"
 
 # game/code/Book-1/Chapter-6c/s04.rpy:581
 translate french b1c06cs04_m3_c3_7e4b5053:
@@ -902,19 +902,19 @@ translate french b1c06cs04_end_95d96455:
 translate french b1c06cs04_end_8a4a9293:
 
     # gd "Wait, what are you—? Hey! What is that!?"
-    gd "Attends, qu'est-ce que tu— ? Hé ! Qu'est-ce que c'est !?"
+    gd "Attends, qu'est-ce que tu—? Hé! Qu'est-ce que c'est!?"
 
 # game/code/Book-1/Chapter-6c/s04.rpy:639
 translate french b1c06cs04_end_1259de14:
 
     # gd "Thief!!"
-    gd "Voleur !!"
+    gd "Voleur!!"
 
 # game/code/Book-1/Chapter-6c/s04.rpy:644
 translate french b1c06cs04_end_33846876:
 
     # gd "You god-dang menace! Stay the hell away from my shop!"
-    gd "Sale menaces ! Reste loin de ma boutique !"
+    gd "Sale menaces! Reste loin de ma boutique!"
 
 # game/code/Book-1/Chapter-6c/s04.rpy:645
 translate french b1c06cs04_end_ee0dca86:
@@ -938,7 +938,7 @@ translate french b1c06cs04_end_3c592da7:
 translate french b1c06cs04_end_bfe13a00:
 
     # mc "Aren't you gonna call the cops?"
-    mc "Tu vas pas appeler la police ?"
+    mc "Tu vas pas appeler la police?"
 
 # game/code/Book-1/Chapter-6c/s04.rpy:657
 translate french b1c06cs04_end_b14526ce:
@@ -992,13 +992,13 @@ translate french b1c06cs04_end_fd0320c6:
 translate french b1c06cs04_end_3f103a03:
 
     # dk "What the fuck happened? I told you to keep him distracted!"
-    dk "Qu'est-ce qui s'est passé ? Je t'avais dit de le distraire !"
+    dk "Qu'est-ce qui s'est passé? Je t'avais dit de le distraire!"
 
 # game/code/Book-1/Chapter-6c/s04.rpy:685
 translate french b1c06cs04_end_d60d1469:
 
     # mc "I did! He turned around at the last second."
-    mc "Je l'ai fait ! Il s'est retourné à la dernière seconde."
+    mc "Je l'ai fait! Il s'est retourné à la dernière seconde."
 
 # game/code/Book-1/Chapter-6c/s04.rpy:688
 translate french b1c06cs04_end_f89e8739:
@@ -1046,7 +1046,7 @@ translate french b1c06cs04_end_2f71341d:
 translate french b1c06cs04_end_b8f8d774:
 
     # dk "Oh, you learned that about him in the five minutes that you talked to him, did you?"
-    dk "Oh, tu as appris ça sur lui en cinq minutes de conversation, c'est ça ?"
+    dk "Oh, tu as appris ça sur lui en cinq minutes de conversation, c'est ça?"
 
 # game/code/Book-1/Chapter-6c/s04.rpy:714
 translate french b1c06cs04_end_9d0197b7:
@@ -1137,3 +1137,4 @@ translate french strings:
     # game/code/Book-1/Chapter-6c/s04.rpy:518
     old "Ask about the missing girls."
     new "Demander à propos des filles disparues."
+

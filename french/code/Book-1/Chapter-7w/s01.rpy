@@ -2,7 +2,7 @@
 translate french b1c07ws01_3d6ee532:
 
     # mct "Wonder why Iona called me out to the gym so early away from practice?"
-    mct "Je me demande pourquoi Iona m'a appelé à la salle de sport si tôt, loin de l'entraînement ?"
+    mct "Je me demande pourquoi Iona m'a appelé à la salle de sport si tôt, loin de l'entraînement?"
 
 # game/code/Book-1/Chapter-7w/s01.rpy:30
 translate french b1c07ws01_9688e638:
@@ -14,25 +14,25 @@ translate french b1c07ws01_9688e638:
 translate french b1c07ws01_d09bd306:
 
     # ir "Ow, what the—? Oh! [mcname]!"
-    ir "Aïe, c'est quoi ça— ? Oh ! [mcname] !"
+    ir "Aïe, c'est quoi ça—? Oh! [mcname]!"
 
 # game/code/Book-1/Chapter-7w/s01.rpy:45
 translate french b1c07ws01_618ea763:
 
     # ir "Why the hell did it take you so long to come here? I was just about to go haul your ass here."
-    ir "Pourquoi diable as-tu mis autant de temps à venir ici ? J'étais sur le point de venir te chercher."
+    ir "Pourquoi diable as-tu mis autant de temps à venir ici? J'étais sur le point de venir te chercher."
 
 # game/code/Book-1/Chapter-7w/s01.rpy:48
 translate french b1c07ws01_540b7512:
 
     # mc "I just woke up! Cut me some slack."
-    mc "Je viens de me réveiller ! Laisse-moi tranquille."
+    mc "Je viens de me réveiller! Laisse-moi tranquille."
 
 # game/code/Book-1/Chapter-7w/s01.rpy:51
 translate french b1c07ws01_53053d6b:
 
     # mc "Why did you even ask me to come here?"
-    mc "Pourquoi m'as-tu même demandé de venir ici ?"
+    mc "Pourquoi m'as-tu même demandé de venir ici?"
 
 # game/code/Book-1/Chapter-7w/s01.rpy:54
 translate french b1c07ws01_6864fbed:
@@ -44,19 +44,19 @@ translate french b1c07ws01_6864fbed:
 translate french b1c07ws01_124c30ae:
 
     # ir "C'mon!"
-    ir "Allez !"
+    ir "Allez!"
 
 # game/code/Book-1/Chapter-7w/s01.rpy:60
 translate french b1c07ws01_bdd2f0cf:
 
     # mc "Hey, where—!?"
-    mc "Hé, où— !?"
+    mc "Hé, où—!?"
 
 # game/code/Book-1/Chapter-7w/s01.rpy:77
 translate french b1c07ws01_3c1ab1d7:
 
     # ir "Tada! It's time to finally get you dressed up in the Winner's colors!"
-    ir "Tada ! Il est temps de te vêtir enfin des couleurs du gagnant !"
+    ir "Tada! Il est temps de te vêtir enfin des couleurs du gagnant!"
 
 # game/code/Book-1/Chapter-7w/s01.rpy:80
 translate french b1c07ws01_b7940507:
@@ -86,7 +86,7 @@ translate french b1c07ws01_24822aa2:
 translate french b1c07ws01_6902ab38:
 
     # sm "But Shontae wanted you to get your uniform now before practice, and we had some extras, so, surprise dressing day!"
-    sm "Mais Shontae voulait que tu reçoives ton uniforme maintenant avant l'entraînement, et nous avions quelques extras, donc, surprise, jour d'essayage !"
+    sm "Mais Shontae voulait que tu reçoives ton uniforme maintenant avant l'entraînement, et nous avions quelques extras, donc, surprise, jour d'essayage!"
 
 # game/code/Book-1/Chapter-7w/s01.rpy:95
 translate french b1c07ws01_0db9a34d:
@@ -122,7 +122,7 @@ translate french b1c07ws01_dcfb1982:
 translate french b1c07ws01_49a70ce2:
 
     # ir "Oh so {i}that's{/i} how it is, huh? Alright, hotshot. I'm game."
-    ir "Ah donc {i}c'est{/i} comme ça, hein ? Très bien, petit génie. Je suis partante."
+    ir "Ah donc {i}c'est{/i} comme ça, hein? Très bien, petit génie. Je suis partante."
 
 # game/code/Book-1/Chapter-7w/s01.rpy:118
 translate french b1c07ws01_9c44d1be:
@@ -188,7 +188,7 @@ translate french b1c07ws01_measurement_496f49ba:
 translate french b1c07ws01_measurement_05de308f:
 
     # sm "C'mon, hands spread!"
-    sm "Allez, mains écartées !"
+    sm "Allez, mains écartées!"
 
 # game/code/Book-1/Chapter-7w/s01.rpy:181
 translate french b1c07ws01_measurement_c9945799:
@@ -200,7 +200,7 @@ translate french b1c07ws01_measurement_c9945799:
 translate french b1c07ws01_measurement_af3144e0:
 
     # ir "Don't you think [mcname] should remove his shirt for a more accurate measurement, Silvia?"
-    ir "Tu ne penses pas que [mcname] devrait enlever son t-shirt pour une mesure plus précise, Silvia ?"
+    ir "Tu ne penses pas que [mcname] devrait enlever son t-shirt pour une mesure plus précise, Silvia?"
 
 # game/code/Book-1/Chapter-7w/s01.rpy:208
 translate french b1c07ws01_measurement_69f76bbc:
@@ -212,13 +212,13 @@ translate french b1c07ws01_measurement_69f76bbc:
 translate french b1c07ws01_measurement_a79af823:
 
     # ir "You heard her! C'mon, take it off."
-    ir "Tu l'as entendue ! Allez, enlève-le."
+    ir "Tu l'as entendue! Allez, enlève-le."
 
 # game/code/Book-1/Chapter-7w/s01.rpy:214
 translate french b1c07ws01_measurement_f1034048:
 
     # mc "Well aren't you just a bastion of properly fitted clothing?"
-    mc "Eh bien, tu n'es vraiment qu'un modèle de vêtements bien ajustés, toi ?"
+    mc "Eh bien, tu n'es vraiment qu'un modèle de vêtements bien ajustés, toi?"
 
 # game/code/Book-1/Chapter-7w/s01.rpy:218
 translate french b1c07ws01_measurement_d36207ee:
@@ -296,7 +296,7 @@ translate french b1c07ws01_measurement_ec9d059a:
 translate french b1c07ws01_measurement_a2e62047:
 
     # sm "Oh yeah! You talking about slacking off reminded me. Did you tell [mcname] about the party?"
-    sm "Oh, ouais ! Ton histoire de paresse m'a rappelé quelque chose. Tu as parlé à [mcname] de la fête ?"
+    sm "Oh, ouais! Ton histoire de paresse m'a rappelé quelque chose. Tu as parlé à [mcname] de la fête?"
 
 # game/code/Book-1/Chapter-7w/s01.rpy:267
 translate french b1c07ws01_measurement_4b853079:
@@ -308,7 +308,7 @@ translate french b1c07ws01_measurement_4b853079:
 translate french b1c07ws01_measurement_e579b600:
 
     # mc "What party?"
-    mc "Quelle fête ?"
+    mc "Quelle fête?"
 
 # game/code/Book-1/Chapter-7w/s01.rpy:273
 translate french b1c07ws01_measurement_651a71c5:
@@ -326,7 +326,7 @@ translate french b1c07ws01_measurement_802c2b8a:
 translate french b1c07ws01_measurement_ae63c567:
 
     # mct "Hm. I wonder if Sam knows about this party?"
-    mct "Hm. Je me demande si Sam sait pour cette fête ?"
+    mct "Hm. Je me demande si Sam sait pour cette fête?"
 
 # game/code/Book-1/Chapter-7w/s01.rpy:282
 translate french b1c07ws01_measurement_6cf5102d:
@@ -338,19 +338,19 @@ translate french b1c07ws01_measurement_6cf5102d:
 translate french b1c07ws01_measurement_bb42be23:
 
     # ir "You gonna be there, sweet cheeks?"
-    ir "Tu vas être là, jolie fesse ?"
+    ir "Tu vas être là, jolie fesse?"
 
 # game/code/Book-1/Chapter-7w/s01.rpy:289
 translate french b1c07ws01_measurement_66022634:
 
     # mc "Is Shontae gonna be alright with this?"
-    mc "Shontae va être d'accord avec ça ?"
+    mc "Shontae va être d'accord avec ça?"
 
 # game/code/Book-1/Chapter-7w/s01.rpy:293
 translate french b1c07ws01_measurement_78e2d47d:
 
     # sm "Why wouldn't she be good with it? We're boosting morale!"
-    sm "Pourquoi elle ne serait pas d'accord ? On remonte le moral !"
+    sm "Pourquoi elle ne serait pas d'accord? On remonte le moral!"
 
 # game/code/Book-1/Chapter-7w/s01.rpy:294
 translate french b1c07ws01_measurement_ebf50642:
@@ -392,7 +392,7 @@ translate french b1c07ws01_measurement_8413ee93:
 translate french b1c07ws01_measurement_5a1c4472:
 
     # ir "A'ight, I gotta run to practice. You coming?"
-    ir "Ouais, je dois filer à l'entraînement. Tu viens ?"
+    ir "Ouais, je dois filer à l'entraînement. Tu viens?"
 
 # game/code/Book-1/Chapter-7w/s01.rpy:312
 translate french b1c07ws01_measurement_a313547f:
@@ -441,3 +441,4 @@ translate french strings:
     # game/code/Book-1/Chapter-7w/s01.rpy:105
     old "Try to balance them both"
     new "Essayez d'équilibrer les deux"
+

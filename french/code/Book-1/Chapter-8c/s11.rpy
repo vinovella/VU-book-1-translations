@@ -2,7 +2,7 @@
 translate french b1c08cs11_d2c80bad:
 
     # mc "Where are we going?"
-    mc "Où allons-nous ?"
+    mc "Où allons-nous?"
 
 # game/code/Book-1/Chapter-8c/s11.rpy:53
 translate french b1c08cs11_1b709d0e:
@@ -104,7 +104,7 @@ translate french b1c08cs11_6c487a51:
 translate french b1c08cs11_d9b7911f:
 
     # mc "Then allow me to give you what you want. You've been craving this moment, haven't you?"
-    mc "Alors permets-moi de te donner ce que tu veux. Tu as eu envie de ce moment, n'est-ce pas ?"
+    mc "Alors permets-moi de te donner ce que tu veux. Tu as eu envie de ce moment, n'est-ce pas?"
 
 # game/code/Book-1/Chapter-8c/s11.rpy:112
 translate french b1c08cs11_bc6fbc01:
@@ -140,19 +140,19 @@ translate french b1c08cs11_9e9c87ea:
 translate french b1c08cs11_06e95a4a:
 
     # ih "I need more. More, more, more!"
-    ih "J'ai besoin de plus. Plus, plus, plus !"
+    ih "J'ai besoin de plus. Plus, plus, plus!"
 
 # game/code/Book-1/Chapter-8c/s11.rpy:143
 translate french b1c08cs11_671fb87c:
 
     # ih "Don't stop, [mcname]. Make me scream your name!"
-    ih "Ne t'arrête pas, [mcname]. Fais-moi crier ton nom !"
+    ih "Ne t'arrête pas, [mcname]. Fais-moi crier ton nom!"
 
 # game/code/Book-1/Chapter-8c/s11.rpy:158
 translate french b1c08cs11_f8854714:
 
     # mc "You want more, huh?"
-    mc "Tu en veux plus, hein ?"
+    mc "Tu en veux plus, hein?"
 
 # game/code/Book-1/Chapter-8c/s11.rpy:159
 translate french b1c08cs11_7ca186c1:
@@ -170,7 +170,7 @@ translate french b1c08cs11_740ac406:
 translate french b1c08cs11_422ab299:
 
     # mc "You want me to give you a nice hard fuck, Ivy?"
-    mc "Tu veux que je te fasse une bonne baise bien dure, Ivy ?"
+    mc "Tu veux que je te fasse une bonne baise bien dure, Ivy?"
 
 # game/code/Book-1/Chapter-8c/s11.rpy:166
 translate french b1c08cs11_8ee537aa:
@@ -212,7 +212,7 @@ translate french b1c08cs11_06470ff1:
 translate french b1c08cs11_4fd2194d:
 
     # mc "Does it excite you? Us making our own little secret in the middle of this forest?"
-    mc "Ça vous excite ? Nous faisons notre propre petit secret au milieu de cette forêt ?"
+    mc "Ça vous excite? Nous faisons notre propre petit secret au milieu de cette forêt?"
 
 # game/code/Book-1/Chapter-8c/s11.rpy:181
 translate french b1c08cs11_8cda9839:
@@ -272,7 +272,7 @@ translate french b1c08cs11_c5c02c60:
 translate french b1c08cs11_380ed44e:
 
     # ih "F-fuck!"
-    ih "P-Putain !"
+    ih "P-Putain!"
 
 # game/code/Book-1/Chapter-8c/s11.rpy:230
 translate french b1c08cs11_3efa9226:
@@ -314,7 +314,7 @@ translate french b1c08cs11_e260e1c2:
 translate french b1c08cs11_b020f93b:
 
     # ih "God that feels so good!"
-    ih "Mon Dieu, ça fait du bien !"
+    ih "Mon Dieu, ça fait du bien!"
 
 # game/code/Book-1/Chapter-8c/s11.rpy:257
 translate french b1c08cs11_353ada4d:
@@ -338,7 +338,7 @@ translate french b1c08cs11_dbcef61f:
 translate french b1c08cs11_6ea548bb:
 
     # mc "Yeah? Is that what you want?"
-    mc "Ouais ? C'est ce que tu veux ?"
+    mc "Ouais? C'est ce que tu veux?"
 
 # game/code/Book-1/Chapter-8c/s11.rpy:269
 translate french b1c08cs11_702119c6:
@@ -452,7 +452,7 @@ translate french b1c08cs11_c30a682c:
 translate french b1c08cs11_fd2d2d05:
 
     # ih "Ah! I'm cumming!"
-    ih "Ah ! Je jouis !"
+    ih "Ah! Je jouis!"
 
 # game/code/Book-1/Chapter-8c/s11.rpy:328
 translate french b1c08cs11_69d0dfcd:
@@ -464,7 +464,7 @@ translate french b1c08cs11_69d0dfcd:
 translate french b1c08cs11_418e2ba3:
 
     # "The layered sensation of her warm body pressed against you, milking you so thoroughly—You can't hold back anymore."
-    "La sensation superposée de son corps chaud pressé contre vous, vous traitant si soigneusement : vous ne pouvez plus vous retenir."
+    "La sensation superposée de son corps chaud pressé contre vous, vous traitant si soigneusement: vous ne pouvez plus vous retenir."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:332
 translate french b1c08cs11_80d66ded:
@@ -512,7 +512,7 @@ translate french b1c08cs11_16d161e6:
 translate french b1c08cs11_df79aa35:
 
     # ih "Hah! Too true. Most of the people there barely know how to please a woman."
-    ih " Hah ! Trop vrai. La plupart des gens là-bas savent à peine comment plaire à une femme. "
+    ih " Hah! Trop vrai. La plupart des gens là-bas savent à peine comment plaire à une femme. "
 
 # game/code/Book-1/Chapter-8c/s11.rpy:356
 translate french b1c08cs11_92925b13:
@@ -542,7 +542,7 @@ translate french b1c08cs11_381e75a4:
 translate french b1c08cs11_461bf4b2:
 
     # ih "Such a beautiful night, isn't it? A night for new beginnings, perhaps."
-    ih "Une si belle nuit, n'est-ce pas ? Une nuit pour un nouveau départ, peut-être."
+    ih "Une si belle nuit, n'est-ce pas? Une nuit pour un nouveau départ, peut-être."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:368
 translate french b1c08cs11_5da57e64:
@@ -554,7 +554,7 @@ translate french b1c08cs11_5da57e64:
 translate french b1c08cs11_b2b9e19d:
 
     # mc "What do you mean?"
-    mc "Que veux-tu dire ?"
+    mc "Que veux-tu dire?"
 
 # game/code/Book-1/Chapter-8c/s11.rpy:374
 translate french b1c08cs11_a2733890:
@@ -578,19 +578,19 @@ translate french b1c08cs11_00c22424:
 translate french b1c08cs11_40a8c349:
 
     # mc "Rest? After what we just did? Hardly."
-    mc "Du repos ? Après ce qu'on vient de faire ? À peine."
+    mc "Du repos? Après ce qu'on vient de faire? À peine."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:383
 translate french b1c08cs11_9ad116e7:
 
     # ih "*Laughs* Save some of that energy for me for next time, will you?"
-    ih "*Rit* Garde un peu de cette énergie pour moi la prochaine fois, d'accord ?"
+    ih "*Rit* Garde un peu de cette énergie pour moi la prochaine fois, d'accord?"
 
 # game/code/Book-1/Chapter-8c/s11.rpy:387
 translate french b1c08cs11_af053edd:
 
     # ih "Are you excited to go home tomorrow?"
-    ih "Es-tu excité de rentrer chez toi demain ?"
+    ih "Es-tu excité de rentrer chez toi demain?"
 
 # game/code/Book-1/Chapter-8c/s11.rpy:388
 translate french b1c08cs11_714bef83:
@@ -602,7 +602,7 @@ translate french b1c08cs11_714bef83:
 translate french b1c08cs11_07c64b35:
 
     # mc "You mean sleep in a real bed? Yeah."
-    mc "Tu veux dire dormir dans un vrai lit ? Ouais."
+    mc "Tu veux dire dormir dans un vrai lit? Ouais."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:393
 translate french b1c08cs11_071cb4ec:
@@ -614,7 +614,7 @@ translate french b1c08cs11_071cb4ec:
 translate french b1c08cs11_dfcbf0e6:
 
     # mc "Is what we just did considered {i}humbling{/i}?"
-    mc "Ce qu'on vient de faire, c'est considéré comme de l'{i}humilité{/i} ?"
+    mc "Ce qu'on vient de faire, c'est considéré comme de l'{i}humilité{/i}?"
 
 # game/code/Book-1/Chapter-8c/s11.rpy:396
 translate french b1c08cs11_63d7f23d:

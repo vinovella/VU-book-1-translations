@@ -33,7 +33,7 @@ translate french b1c08cs05_3d42eb4c:
 translate french b1c08cs05_c9c7c7f7:
 
     # mct "Who knows what that they could be hiding in some secret cave? Especially if it has something to do with Maria..."
-    mct "Qui sait ce qu'ils pourraient cacher dans une grotte secrète ? Surtout si cela a quelque chose à voir avec Maria..."
+    mct "Qui sait ce qu'ils pourraient cacher dans une grotte secrète? Surtout si cela a quelque chose à voir avec Maria..."
 
 # game/code/Book-1/Chapter-8c/s05.rpy:80
 translate french b1c08cs05_ef1644d7:
@@ -177,7 +177,7 @@ translate french b1c08cs05_a865d2ea:
 translate french b1c08cs05_1b45b516:
 
     # ys "*Whispers* That's my good baby. We're so excited to meet you. Please come out now, okay? Momma needs you."
-    ys "*Chuchote* C'est mon bon bébé. Nous sommes tellement impatients de te rencontrer. Sors maintenant, d'accord ? Maman a besoin de toi."
+    ys "*Chuchote* C'est mon bon bébé. Nous sommes tellement impatients de te rencontrer. Sors maintenant, d'accord? Maman a besoin de toi."
 
 # game/code/Book-1/Chapter-8c/s05.rpy:154
 translate french b1c08cs05_bd89807c:
@@ -297,7 +297,7 @@ translate french b1c08cs05_22d46a69:
 translate french b1c08cs05_f3482fb3:
 
     # sta "Youthful spirit, heed our call! Follow the sound of our voice!"
-    sta "Esprit juvénile, écoute notre appel ! Suis le son de notre voix !"
+    sta "Esprit juvénile, écoute notre appel! Suis le son de notre voix!"
 
 # game/code/Book-1/Chapter-8c/s05.rpy:308
 translate french b1c08cs05_cc441e6d:
@@ -345,7 +345,7 @@ translate french b1c08cs05_2167cf81:
 translate french b1c08cs05_ef20d8b6:
 
     # "The Prophet" "What do you feel?"
-    "Le Prophète" "Que ressens-tu ?"
+    "Le Prophète" "Que ressens-tu?"
 
 # game/code/Book-1/Chapter-8c/s05.rpy:342
 translate french b1c08cs05_2e2ae704:
@@ -375,19 +375,19 @@ translate french b1c08cs05_925b3bb1:
 translate french b1c08cs05_68889a90:
 
     # mct "Are they trying to induce Yvonne's labor?"
-    mct "Essaient-ils d'induire le travail d'Yvonne ?"
+    mct "Essaient-ils d'induire le travail d'Yvonne?"
 
 # game/code/Book-1/Chapter-8c/s05.rpy:362
 translate french b1c08cs05_bed57b36:
 
     # mct "Christ, is this what Sally went through?"
-    mct "Putain, est-ce ce que Sally a traversé ?"
+    mct "Putain, est-ce ce que Sally a traversé?"
 
 # game/code/Book-1/Chapter-8c/s05.rpy:363
 translate french b1c08cs05_e8c3dcd0:
 
     # mct "Is...that what Yvonne has to look forward to?"
-    mct "Est-ce...ce qui attend Yvonne ?"
+    mct "Est-ce...ce qui attend Yvonne?"
 
 # game/code/Book-1/Chapter-8c/s05.rpy:368
 translate french b1c08cs05_0abcfe8b:

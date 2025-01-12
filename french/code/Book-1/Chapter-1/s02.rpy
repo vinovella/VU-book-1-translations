@@ -21,7 +21,7 @@ translate french b1c01s02_25c38e4a:
 translate french b1c01s02_2afbaee8:
 
     # sm "Of course! This school is rising through the ranks. We've had students who graduated here go on to do great things."
-    sm "Bien sûr ! Cette école grimpe dans les classements. Des étudiants diplômés d'ici ont accompli de grandes choses."
+    sm "Bien sûr! Cette école grimpe dans les classements. Des étudiants diplômés d'ici ont accompli de grandes choses."
 
 # game/code/Book-1/Chapter-1/s02.rpy:25
 translate french b1c01s02_73c7a96d:
@@ -57,7 +57,7 @@ translate french b1c01s02_6fb1465c:
 translate french b1c01s02_32fbef45:
 
     # sm "It's horrible, isn't it?"
-    sm "C'est horrible, n'est-ce pas ?"
+    sm "C'est horrible, n'est-ce pas?"
 
 # game/code/Book-1/Chapter-1/s02.rpy:49
 translate french b1c01s02_fbba06b7:
@@ -99,7 +99,7 @@ translate french b1c01s02_dfbff173:
 translate french b1c01s02_db5279f1:
 
     # sm "I'm sure you'll feel at home here in no time!"
-    sm "Je suis sûre que tu te sentiras chez toi ici en un rien de temps !"
+    sm "Je suis sûre que tu te sentiras chez toi ici en un rien de temps!"
 
 # game/code/Book-1/Chapter-1/s02.rpy:69
 translate french b1c01s02_9c553107:
@@ -117,7 +117,7 @@ translate french b1c01s02_80983362:
 translate french b1c01s02_e665b6da:
 
     # mc "What's your favorite part about being here?"
-    mc "Quelle est ta partie préférée d'être ici ?"
+    mc "Quelle est ta partie préférée d'être ici?"
 
 # game/code/Book-1/Chapter-1/s02.rpy:76
 translate french b1c01s02_d41341a7:
@@ -129,7 +129,7 @@ translate french b1c01s02_d41341a7:
 translate french b1c01s02_7d010a14:
 
     # mc "What happened?"
-    mc "Que s'est-il passé ?"
+    mc "Que s'est-il passé?"
 
 # game/code/Book-1/Chapter-1/s02.rpy:81
 translate french b1c01s02_77e8531e:
@@ -153,7 +153,7 @@ translate french b1c01s02_7e193dd1:
 translate french b1c01s02_44cb40af:
 
     # sm "Not quite. Let me finish the story!"
-    sm "Pas vraiment. Laisse-moi finir l'histoire !"
+    sm "Pas vraiment. Laisse-moi finir l'histoire!"
 
 # game/code/Book-1/Chapter-1/s02.rpy:90
 translate french b1c01s02_e2a8717d:
@@ -189,7 +189,7 @@ translate french b1c01s02_14cac3d2:
 translate french b1c01s02_9c83e1d0:
 
     # sm "Right? I was fascinated when I found this out!"
-    sm "N'est-ce pas ? J'étais fascinée quand je l'ai découvert !"
+    sm "N'est-ce pas? J'étais fascinée quand je l'ai découvert!"
 
 # game/code/Book-1/Chapter-1/s02.rpy:102
 translate french b1c01s02_b49ee5e6:
@@ -213,7 +213,7 @@ translate french b1c01s02_5fe92781:
 translate french b1c01s02_2a9308a8:
 
     # mc "What happened to the college?"
-    mc "Qu'est-il arrivé à l'école ?"
+    mc "Qu'est-il arrivé à l'école?"
 
 # game/code/Book-1/Chapter-1/s02.rpy:110
 translate french b1c01s02_64c197a3:
@@ -225,7 +225,7 @@ translate french b1c01s02_64c197a3:
 translate french b1c01s02_54d2d4b0:
 
     # mc "This used to be the mansion? We're in the same exact same place?"
-    mc "C'était le manoir avant ? Nous sommes au même endroit ?"
+    mc "C'était le manoir avant? Nous sommes au même endroit?"
 
 # game/code/Book-1/Chapter-1/s02.rpy:115
 translate french b1c01s02_ffaa290b:
@@ -285,7 +285,7 @@ translate french b1c01s02_f7670830:
 translate french b1c01s02_25960661:
 
     # dm "Silvia! Hang on a moment. I need to talk with you."
-    dm "Silvia ! Attends une minute. Je dois te parler."
+    dm "Silvia! Attends une minute. Je dois te parler."
 
 # game/code/Book-1/Chapter-1/s02.rpy:151
 translate french b1c01s02_4181e254:
@@ -297,13 +297,13 @@ translate french b1c01s02_4181e254:
 translate french b1c01s02_ac5088bb:
 
     # sm "Hi, Mrs. Mills! Okay, no problem. I'll stop by later."
-    sm "Bonjour, Mme Mills ! Pas de problème. Je passerai plus tard."
+    sm "Bonjour, Mme Mills! Pas de problème. Je passerai plus tard."
 
 # game/code/Book-1/Chapter-1/s02.rpy:156
 translate french b1c01s02_329fa7de:
 
     # sm "I was just showing our newest recruit around!"
-    sm "Je faisais juste visiter à notre nouvelle recrue !"
+    sm "Je faisais juste visiter à notre nouvelle recrue!"
 
 # game/code/Book-1/Chapter-1/s02.rpy:158
 translate french b1c01s02_6ba017c9:
@@ -369,7 +369,7 @@ translate french b1c01s02_4fb8ccd0:
 translate french b1c01s02_b3dc47bb:
 
     # mc "Not much of a bookworm, huh?"
-    mc "Pas vraiment un rat de bibliothèque, hein ?"
+    mc "Pas vraiment un rat de bibliothèque, hein?"
 
 # game/code/Book-1/Chapter-1/s02.rpy:189
 translate french b1c01s02_ba746c5c:
@@ -381,7 +381,7 @@ translate french b1c01s02_ba746c5c:
 translate french b1c01s02_f21f76c1:
 
     # mc "What do you play?"
-    mc "Tu joues à quoi ?"
+    mc "Tu joues à quoi?"
 
 # game/code/Book-1/Chapter-1/s02.rpy:193
 translate french b1c01s02_f9b0c0f8:
@@ -393,19 +393,19 @@ translate french b1c01s02_f9b0c0f8:
 translate french b1c01s02_3b0296d8:
 
     # mc "Sounds like fun! Maybe I'll sit in on one of your games sometime."
-    mc "Ça a l'air sympa ! Peut-être que j'assisterai à l'un de vos matchs un de ces jours."
+    mc "Ça a l'air sympa! Peut-être que j'assisterai à l'un de vos matchs un de ces jours."
 
 # game/code/Book-1/Chapter-1/s02.rpy:199
 translate french b1c01s02_06cc6f4b:
 
     # sm "Oh! Remind me to give you the key to your dorm after the tour."
-    sm "Oh ! Rappelle-moi de te donner la clé de ton dortoir après la visite."
+    sm "Oh! Rappelle-moi de te donner la clé de ton dortoir après la visite."
 
 # game/code/Book-1/Chapter-1/s02.rpy:204
 translate french b1c01s02_02df390c:
 
     # mc "Speaking of dorm rooms... Is the room big, at least?"
-    mc "En parlant des chambres... Elle est grande, au moins ?"
+    mc "En parlant des chambres... Elle est grande, au moins?"
 
 # game/code/Book-1/Chapter-1/s02.rpy:206
 translate french b1c01s02_5667721a:
@@ -435,7 +435,7 @@ translate french b1c01s02_559012ed:
 translate french b1c01s02_7804a3da:
 
     # mc "I guess when you put a bunch of young adults in a room with food, we all become animals, right?"
-    mc "Je suppose que quand on met un tas de jeunes adultes dans une pièce avec de la nourriture, on devient tous des animaux, non ?"
+    mc "Je suppose que quand on met un tas de jeunes adultes dans une pièce avec de la nourriture, on devient tous des animaux, non?"
 
 # game/code/Book-1/Chapter-1/s02.rpy:228
 translate french b1c01s02_bcb93833:
@@ -471,7 +471,7 @@ translate french b1c01s02_15dc14b7:
 translate french b1c01s02_f425f0b1:
 
     # mc "Does she make good food, at least?"
-    mc "Elle fait au moins de la bonne nourriture ?"
+    mc "Elle fait au moins de la bonne nourriture?"
 
 # game/code/Book-1/Chapter-1/s02.rpy:245
 translate french b1c01s02_4f196be6:
@@ -489,37 +489,37 @@ translate french b1c01s02_59625e40:
 translate french b1c01s02_c7d9f250:
 
     # mct "Oh shit...!"
-    mct "Oh merde... !"
+    mct "Oh merde...!"
 
 # game/code/Book-1/Chapter-1/s02.rpy:273
 translate french b1c01s02m01_699878f6:
 
     # mc "Hey!"
-    mc "Hé !"
+    mc "Hé!"
 
 # game/code/Book-1/Chapter-1/s02.rpy:282
 translate french b1c01s02m01_2adcf819:
 
     # sm "Are you okay?"
-    sm "Ça va ?"
+    sm "Ça va?"
 
 # game/code/Book-1/Chapter-1/s02.rpy:320
 translate french b1c01s02m01_67ffc962:
 
     # "{color=#aa0323}Girl{/color}" "Eat glass, fuckhead!" (who_outlines=[(1, "#e1e1e1", 0, 0)], kerning=1)
-    "{color=#aa0323}Fille{/color}" "Bouffe du verre, abruti !" (who_outlines=[(1, "#e1e1e1", 0, 0)], kerning=1)
+    "{color=#aa0323}Fille{/color}" "Bouffe du verre, abruti!" (who_outlines=[(1, "#e1e1e1", 0, 0)], kerning=1)
 
 # game/code/Book-1/Chapter-1/s02.rpy:323
 translate french b1c01s02m01_b1c8c4cf:
 
     # mc "You bumped into me!"
-    mc "Tu m'as bousculé !"
+    mc "Tu m'as bousculé!"
 
 # game/code/Book-1/Chapter-1/s02.rpy:326
 translate french b1c01s02m01_19423bb9:
 
     # "{color=#aa0323}Girl{/color}" "Then get out of the way! I don't need to take shit from you!" (who_outlines=[(1, "#e1e1e1", 0, 0)], kerning=1)
-    "{color=#aa0323}Fille{/color}" "Alors pousse-toi ! Je n'ai pas besoin de supporter tes conneries !" (who_outlines=[(1, "#e1e1e1", 0, 0)], kerning=1)
+    "{color=#aa0323}Fille{/color}" "Alors pousse-toi! Je n'ai pas besoin de supporter tes conneries!" (who_outlines=[(1, "#e1e1e1", 0, 0)], kerning=1)
 
 # game/code/Book-1/Chapter-1/s02.rpy:329
 translate french b1c01s02m01_fcd063cb:
@@ -531,7 +531,7 @@ translate french b1c01s02m01_fcd063cb:
 translate french b1c01s02m01_d4b25dae:
 
     # mc "Are you speaking from experience?"
-    mc "Tu parles d'expérience ?"
+    mc "Tu parles d'expérience?"
 
 # game/code/Book-1/Chapter-1/s02.rpy:334
 translate french b1c01s02m01_b15fc823:
@@ -549,7 +549,7 @@ translate french b1c01s02m01_3d68af3b:
 translate french b1c01s02m01_2e5d93b8:
 
     # mc "Well, I suppose the next stop was my dorm room anyway, right?"
-    mc "Bon, je suppose que la prochaine étape était ma chambre de toute façon, non ?"
+    mc "Bon, je suppose que la prochaine étape était ma chambre de toute façon, non?"
 
 # game/code/Book-1/Chapter-1/s02.rpy:344
 translate french b1c01s02m01_421feb14:
@@ -591,13 +591,13 @@ translate french b1c01s02m01_53fd5d2e:
 translate french b1c01s02m01_fb98ea55:
 
     # sm "I gotta take this. I'll catch up with you later!"
-    sm "Je dois prendre ça. On se rattrape plus tard !"
+    sm "Je dois prendre ça. On se rattrape plus tard!"
 
 # game/code/Book-1/Chapter-1/s02.rpy:376
 translate french b1c01s02m01_e8645057:
 
     # sm "What the hell, Zemfira?! This is cashmere!"
-    sm "Qu'est-ce que tu fais, Zemfira ?! C'est du cachemire !"
+    sm "Qu'est-ce que tu fais, Zemfira?! C'est du cachemire!"
 
 # game/code/Book-1/Chapter-1/s02.rpy:379
 translate french b1c01s02m01_5183cb89:
@@ -615,7 +615,7 @@ translate french b1c01s02m01_538c28b0:
 translate french b1c01s02m01_842771f7:
 
     # sm "How dare you!"
-    sm "Comment oses-tu !"
+    sm "Comment oses-tu!"
 
 # game/code/Book-1/Chapter-1/s02.rpy:387
 translate french b1c01s02m01_79cb0441:
@@ -633,7 +633,7 @@ translate french b1c01s02m01_6b1e6fa2:
 translate french b1c01s02m01_5b5d0966:
 
     # mc "What crawled up her ass and died?"
-    mc "Qu'est-ce qui a bien pu lui arriver ?"
+    mc "Qu'est-ce qui a bien pu lui arriver?"
 
 # game/code/Book-1/Chapter-1/s02.rpy:394
 translate french b1c01s02m01_96619ca0:
@@ -651,13 +651,13 @@ translate french b1c01s02m01_e5dc686b:
 translate french b1c01s02m01_26aeaae3:
 
     # sm "Are you okay? I'm sorry this happened."
-    sm "Ça va ? Je suis désolée que ça se soit passé comme ça."
+    sm "Ça va? Je suis désolée que ça se soit passé comme ça."
 
 # game/code/Book-1/Chapter-1/s02.rpy:402
 translate french b1c01s02m01_7f4b0078:
 
     # mc "Yeah, I'm fine. What about you?"
-    mc "Oui, ça va. Et toi ?"
+    mc "Oui, ça va. Et toi?"
 
 # game/code/Book-1/Chapter-1/s02.rpy:404
 translate french b1c01s02m01_9c42561e:
@@ -669,13 +669,13 @@ translate french b1c01s02m01_9c42561e:
 translate french b1c01s02m01_a3911224:
 
     # sm "It was really nice to meet you! It's unfortunate I have to leave early. I'm sure we'll see each other around, though."
-    sm "C'était vraiment sympa de te rencontrer ! C'est dommage que je doive partir si tôt. Mais je suis sûre qu'on se croisera à nouveau."
+    sm "C'était vraiment sympa de te rencontrer! C'est dommage que je doive partir si tôt. Mais je suis sûre qu'on se croisera à nouveau."
 
 # game/code/Book-1/Chapter-1/s02.rpy:411
 translate french b1c01s02m01_bd6d1c70:
 
     # sm "Oh! Before I forget. Here's your dorm key."
-    sm "Oh ! Avant que j'oublie. Voici la clé de ta chambre."
+    sm "Oh! Avant que j'oublie. Voici la clé de ta chambre."
 
 translate french strings:
 
@@ -686,5 +686,4 @@ translate french strings:
 # game/code/Book-1/Chapter-1/s02.rpy:258
     old "Do nothing"
     new "Ne rien faire"
-
 

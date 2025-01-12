@@ -32,13 +32,13 @@ translate french b1c04zs01_4f521b7b:
 translate french b1c04zs01_97783d9b:
 
     # zp "What do you think you're doing?"
-    zp "Qu'est-ce que tu crois faire ?"
+    zp "Qu'est-ce que tu crois faire?"
 
 # game/code/Book-1/Chapter-4z/s01.rpy:35
 translate french b1c04zs01_05500ff6:
 
     # mc "Huh?"
-    mc "Hein ?"
+    mc "Hein?"
 
 # game/code/Book-1/Chapter-4z/s01.rpy:38
 translate french b1c04zs01_9574db5a:
@@ -50,7 +50,7 @@ translate french b1c04zs01_9574db5a:
 translate french b1c04zs01_4cad93bd:
 
     # mc "By who?"
-    mc "Par qui ?"
+    mc "Par qui?"
 
 # game/code/Book-1/Chapter-4z/s01.rpy:44
 translate french b1c04zs01_aef91850:
@@ -68,7 +68,7 @@ translate french b01c04zs01m01_e90bcaa1:
 translate french b01c04zs01m01_1722bf70:
 
     # zp "Does it look like I care? This seat is still reserved for her. Find another one, new boy."
-    zp "Tu crois que ça me fait quelque chose ? Ce siège lui est toujours réservé. Trouve-toi une autre place, le nouveau."
+    zp "Tu crois que ça me fait quelque chose? Ce siège lui est toujours réservé. Trouve-toi une autre place, le nouveau."
 
 # game/code/Book-1/Chapter-4z/s01.rpy:62
 translate french b01c04zs01m01_55c76c2d:
@@ -104,7 +104,7 @@ translate french b01c04zs01m01_7943cc94:
 translate french b01c04zs01m01_6910fbcc:
 
     # mc "Yikes. Was it that obvious?"
-    mc "Oups. C'était si évident que ça ?"
+    mc "Oups. C'était si évident que ça?"
 
 # game/code/Book-1/Chapter-4z/s01.rpy:87
 translate french b01c04zs01m01_c600771c:
@@ -152,7 +152,7 @@ translate french b01c04zs01m01_0e2209b7:
 translate french b01c04zs01m01_30acc7d2:
 
     # mc "Sheesh. No kidding. Did you know Leia?"
-    mc "Eh ben. Sans blague. Tu connaissais Leia ?"
+    mc "Eh ben. Sans blague. Tu connaissais Leia?"
 
 # game/code/Book-1/Chapter-4z/s01.rpy:114
 translate french b01c04zs01m01_d78fce74:
@@ -212,7 +212,7 @@ translate french b01c04zs01m01_03ba894c:
 translate french b01c04zs01m01_c3922695:
 
     # mc "Honest to God! I was just trying to be friendly."
-    mc "Je le jure ! Je voulais juste être sympa."
+    mc "Je le jure! Je voulais juste être sympa."
 
 # game/code/Book-1/Chapter-4z/s01.rpy:134
 translate french b01c04zs01m01_d532485f:
@@ -272,7 +272,7 @@ translate french b01c04zs01m01_ee18f9b3:
 translate french b01c04zs01m01_70544d2a:
 
     # mc "She shoots firearms?"
-    mc "Elle tire avec des armes à feu ?"
+    mc "Elle tire avec des armes à feu?"
 
 # game/code/Book-1/Chapter-4z/s01.rpy:158
 translate french b01c04zs01m01_c960e37d:
@@ -344,7 +344,7 @@ translate french b01c04zs01m01_10e05e80:
 translate french b01c04zs01m01_685ca2aa:
 
     # ffl "So... why are you taking Computer Science? I'm hoping to develop a new music software that makes it easier to bring musical ideas to life."
-    ffl "Alors... pourquoi tu fais de l'informatique ? Moi, j'espère développer un nouveau logiciel de musique qui facilite la réalisation des idées musicales."
+    ffl "Alors... pourquoi tu fais de l'informatique? Moi, j'espère développer un nouveau logiciel de musique qui facilite la réalisation des idées musicales."
 
 # game/code/Book-1/Chapter-4z/s01.rpy:191
 translate french b01c04zs01m02_1a6de71f:
@@ -374,13 +374,13 @@ translate french b01c04zs01m02_707c95aa:
 translate french b01c04zs01m02_08292196:
 
     # mc "We should probably focus on class, don't you think?"
-    mc "On devrait probablement se concentrer sur le cours, tu ne crois pas ?"
+    mc "On devrait probablement se concentrer sur le cours, tu ne crois pas?"
 
 # game/code/Book-1/Chapter-4z/s01.rpy:206
 translate french b01c04zs01m02_6e8862b6:
 
     # ffl "What's there to focus on? Most of it is easy work. Besides, the professor gives us detailed notes for our classwork. Showing up here is mainly for attendance."
-    ffl "Sur quoi se concentrer ? La plupart du travail est facile. En plus, le professeur nous donne des notes détaillées pour les devoirs. Venir ici, c'est surtout pour l'assiduité."
+    ffl "Sur quoi se concentrer? La plupart du travail est facile. En plus, le professeur nous donne des notes détaillées pour les devoirs. Venir ici, c'est surtout pour l'assiduité."
 
 # game/code/Book-1/Chapter-4z/s01.rpy:207
 translate french b01c04zs01m02_d8f11529_1:
@@ -392,7 +392,7 @@ translate french b01c04zs01m02_d8f11529_1:
 translate french b01c04zs01m02_d47077b4:
 
     # "{color=#6023dc}Girl{/color}" "Hey! Can you guys shut it so I can hear what the professor's saying?" (who_outlines=[(1, "#e1e1e1", 0, 0)], kerning=1)
-    "{color=#6023dc}Fille{/color}" "Hé ! Vous pouvez vous taire que je puisse entendre ce que dit le professeur ?" (who_outlines=[(1, "#e1e1e1", 0, 0)], kerning=1)
+    "{color=#6023dc}Fille{/color}" "Hé! Vous pouvez vous taire que je puisse entendre ce que dit le professeur?" (who_outlines=[(1, "#e1e1e1", 0, 0)], kerning=1)
 
 # game/code/Book-1/Chapter-4z/s01.rpy:218
 translate french b01c04zs01m02_03b7571d:
@@ -410,7 +410,7 @@ translate french b01c04zs01m02_9b50be82:
 translate french b01c04zs01m02_fab9e21c:
 
     # ffl "I know how to play the flute and guitar. I'm also practicing singing!"
-    ffl "Je sais jouer de la flûte et de la guitare. Et je m'entraîne aussi au chant !"
+    ffl "Je sais jouer de la flûte et de la guitare. Et je m'entraîne aussi au chant!"
 
 # game/code/Book-1/Chapter-4z/s01.rpy:223
 translate french b01c04zs01m02_75110e3a:
@@ -458,13 +458,13 @@ translate french b01c04zs01m02_8dc37035:
 translate french b01c04zs01m02_3bea1169:
 
     # mc "Who cares about popularity if you're making something that you like, right?"
-    mc "Peu importe la popularité si tu fais quelque chose que tu aimes, non ?"
+    mc "Peu importe la popularité si tu fais quelque chose que tu aimes, non?"
 
 # game/code/Book-1/Chapter-4z/s01.rpy:243
 translate french b01c04zs01m02_29f3ea7d:
 
     # ffl "Exactly! And if I really need the money or something, I can pump out a cliche indie-folk-punk album every other year and just chill off of that while working on the stuff that I actually care about."
-    ffl "Exactement ! Et si j'ai vraiment besoin d'argent ou autre, je peux sortir un album cliché de folk-punk-indé tous les deux ans et me détendre avec ça tout en travaillant sur les choses qui me tiennent vraiment à cœur."
+    ffl "Exactement! Et si j'ai vraiment besoin d'argent ou autre, je peux sortir un album cliché de folk-punk-indé tous les deux ans et me détendre avec ça tout en travaillant sur les choses qui me tiennent vraiment à cœur."
 
 # game/code/Book-1/Chapter-4z/s01.rpy:244
 translate french b01c04zs01m02_ae3b2795:
@@ -482,7 +482,7 @@ translate french b01c04zs01m02_738b72c4:
 translate french b01c04zs01m02_be34fd76:
 
     # mc "How did you get started with music? Were your parents musicians?"
-    mc "Comment as-tu commencé la musique ? Tes parents étaient musiciens ?"
+    mc "Comment as-tu commencé la musique? Tes parents étaient musiciens?"
 
 # game/code/Book-1/Chapter-4z/s01.rpy:251
 translate french b01c04zs01m02_58d3325a:
@@ -542,7 +542,7 @@ translate french b01c04zs01m02_1d26a652:
 translate french b01c04zs01m02_0dbcf34d:
 
     # ffl "That's interesting. You're not sure what you want to do?"
-    ffl "C'est intéressant. Tu ne sais pas ce que tu veux faire ?"
+    ffl "C'est intéressant. Tu ne sais pas ce que tu veux faire?"
 
 # game/code/Book-1/Chapter-4z/s01.rpy:271
 translate french b01c04zs01m02_092db497:
@@ -554,19 +554,19 @@ translate french b01c04zs01m02_092db497:
 translate french b01c04zs01m02_f8bac0db:
 
     # mc "Really? Well, I guess not. Not yet, anyway. I spent the last year sailing the world with my dad."
-    mc "Vraiment ? Eh bien, je suppose que non. Pas encore, en tout cas. J'ai passé l'année dernière à naviguer autour du monde avec mon père."
+    mc "Vraiment? Eh bien, je suppose que non. Pas encore, en tout cas. J'ai passé l'année dernière à naviguer autour du monde avec mon père."
 
 # game/code/Book-1/Chapter-4z/s01.rpy:277
 translate french b01c04zs01m02_c9318ec3:
 
     # ffl "Wow! That's incredible. You must be so well traveled."
-    ffl "Wow ! C'est incroyable. Tu dois être tellement expérimenté en voyages."
+    ffl "Wow! C'est incroyable. Tu dois être tellement expérimenté en voyages."
 
 # game/code/Book-1/Chapter-4z/s01.rpy:281
 translate french b01c04zs01m02_c7605aad:
 
     # ffl "Oh! I got a notification..."
-    ffl "Oh ! J'ai reçu une notification..."
+    ffl "Oh! J'ai reçu une notification..."
 
 # game/code/Book-1/Chapter-4z/s01.rpy:285
 translate french b01c04zs01m02_a269872d:
@@ -590,7 +590,7 @@ translate french b01c04zs01m02_96d8f380:
 translate french b01c04zs01m02_a77fc9b8:
 
     # ffl "Hey, have you heard of the dark web?"
-    ffl "Hé, tu as entendu parler du dark web ?"
+    ffl "Hé, tu as entendu parler du dark web?"
 
 # game/code/Book-1/Chapter-4z/s01.rpy:301
 translate french b01c04zs01m02_33ae9abd:
@@ -608,13 +608,13 @@ translate french b01c04zs01m02_ae85b13d:
 translate french b01c04zs01m02_58e61225:
 
     # ffl "It's really interesting! But people hype it up way too much."
-    ffl "C'est vraiment intéressant ! Mais les gens en font beaucoup trop."
+    ffl "C'est vraiment intéressant! Mais les gens en font beaucoup trop."
 
 # game/code/Book-1/Chapter-4z/s01.rpy:308
 translate french b01c04zs01m02_e4a6a15e:
 
     # mc "I thought you could run into some fucked people on the dark web, though?"
-    mc "Je pensais qu'on pouvait croiser des gens bizarres sur le dark web, non ?"
+    mc "Je pensais qu'on pouvait croiser des gens bizarres sur le dark web, non?"
 
 # game/code/Book-1/Chapter-4z/s01.rpy:311
 translate french b01c04zs01m02_5402e489:
@@ -626,7 +626,7 @@ translate french b01c04zs01m02_5402e489:
 translate french b01c04zs01m02_0f24340f:
 
     # ffl "Even if I don't agree with them, it's interesting to see people's true colors, y'know?"
-    ffl "Même si je ne suis pas d'accord avec eux, c'est intéressant de voir leur vrai visage, tu vois ?"
+    ffl "Même si je ne suis pas d'accord avec eux, c'est intéressant de voir leur vrai visage, tu vois?"
 
 # game/code/Book-1/Chapter-4z/s01.rpy:315
 translate french b01c04zs01m02_cd9e26c4:
@@ -638,7 +638,7 @@ translate french b01c04zs01m02_cd9e26c4:
 translate french b01c04zs01m02_a06689bf:
 
     # mc "But why are you looking so much into the dark web? I imagine seeing people's true colors can't be pleasant all the time."
-    mc "Mais pourquoi tu t'intéresses autant au dark web ? J'imagine que voir le vrai visage des gens ne doit pas être agréable tout le temps."
+    mc "Mais pourquoi tu t'intéresses autant au dark web? J'imagine que voir le vrai visage des gens ne doit pas être agréable tout le temps."
 
 # game/code/Book-1/Chapter-4z/s01.rpy:319
 translate french b01c04zs01m02_a23a5e0b:
@@ -668,13 +668,13 @@ translate french b01c04zs01m02_5d1f1368:
 translate french b01c04zs01m02_97c9cfb5:
 
     # ffl "So...you wanna study it with me?"
-    ffl "Alors...tu veux l'étudier avec moi ?"
+    ffl "Alors...tu veux l'étudier avec moi?"
 
 # game/code/Book-1/Chapter-4z/s01.rpy:330
 translate french b01c04zs01m02_adeb8018:
 
     # mc "Sure! It sounds fun."
-    mc "Bien sûr ! Ça a l'air amusant."
+    mc "Bien sûr! Ça a l'air amusant."
 
 # game/code/Book-1/Chapter-4z/s01.rpy:333
 translate french b01c04zs01m02_70544125:
@@ -698,7 +698,7 @@ translate french b01c04zs01m02_7bc0ce71:
 translate french b01c04zs01m02_6fd9d370:
 
     # mc "Sure! I'd appreciate the help."
-    mc "Bien sûr ! J'apprécierais ton aide."
+    mc "Bien sûr! J'apprécierais ton aide."
 
 # game/code/Book-1/Chapter-4z/s01.rpy:343
 translate french b01c04zs01m02_8ee6a1dc:
@@ -710,7 +710,7 @@ translate french b01c04zs01m02_8ee6a1dc:
 translate french b01c04zs01m02_1decfe1e:
 
     # ffl "Oh! I know. You should come to lunch with me and Zemfira! That should smooth things over."
-    ffl "Oh ! J'ai une idée. Tu devrais venir déjeuner avec moi et Zemfira ! Ça devrait arranger les choses."
+    ffl "Oh! J'ai une idée. Tu devrais venir déjeuner avec moi et Zemfira! Ça devrait arranger les choses."
 
 # game/code/Book-1/Chapter-4z/s01.rpy:348
 translate french b01c04zs01m02_bcdf2fa1:
@@ -728,7 +728,7 @@ translate french b01c04zs01m02_578c63aa:
 translate french b01c04zs01m02_ee352d34:
 
     # mc "I'd love to join you for lunch!"
-    mc "J'adorerais me joindre à vous pour le déjeuner !"
+    mc "J'adorerais me joindre à vous pour le déjeuner!"
 
 translate french strings:
 
@@ -746,8 +746,9 @@ translate french strings:
 
     # game/code/Book-1/Chapter-4z/s01.rpy:184
     old "That sounds great!"
-    new "Ça a l'air génial !"
+    new "Ça a l'air génial!"
 
     # game/code/Book-1/Chapter-4z/s01.rpy:184
     old "Jeez, you sure talk a lot."
     new "Eh bien, tu parles beaucoup, c'est sûr."
+

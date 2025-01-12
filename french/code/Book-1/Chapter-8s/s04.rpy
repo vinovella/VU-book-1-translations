@@ -38,7 +38,7 @@ translate french b1c08ss04_06da3b4e:
 translate french b1c08ss04_852810a2:
 
     # mct "Who would Xasan even need to report to?"
-    mct "À qui Xasan aurait-il besoin de rendre des comptes ?"
+    mct "À qui Xasan aurait-il besoin de rendre des comptes?"
 
 # game/code/Book-1/Chapter-8s/s04.rpy:85
 translate french b1c08ss04_bb23e774:
@@ -128,7 +128,7 @@ translate french b1c08ss04_43040db6:
 translate french b1c08ss04_cc08591d:
 
     # fox "Zem's in charge if something happens to you? You've just {i}decided{/i} this without the rest of us?"
-    fox "Zem est en charge si quelque chose t'arrive ? Tu as juste {i}décidé{/i} ça sans nous consulter ?"
+    fox "Zem est en charge si quelque chose t'arrive? Tu as juste {i}décidé{/i} ça sans nous consulter?"
 
 # game/code/Book-1/Chapter-8s/s04.rpy:119
 translate french b1c08ss04_3856866a:
@@ -176,7 +176,7 @@ translate french b1c08ss04_c1af1e5b:
 translate french b1c08ss04_db15ebea:
 
     # fox "We need to focus on the safety of those who are still here!"
-    fox "Nous devons nous concentrer sur la sécurité de ceux qui sont encore ici !"
+    fox "Nous devons nous concentrer sur la sécurité de ceux qui sont encore ici!"
 
 # game/code/Book-1/Chapter-8s/s04.rpy:142
 translate french b1c08ss04_84e06f5e:
@@ -194,7 +194,7 @@ translate french b1c08ss04_b28ec88f:
 translate french b1c08ss04_399460b9:
 
     # fox "What if Q and those girls are a trap for the rest of us?"
-    fox "Et si Q et ces filles étaient un piège pour le reste d'entre nous ?"
+    fox "Et si Q et ces filles étaient un piège pour le reste d'entre nous?"
 
 # game/code/Book-1/Chapter-8s/s04.rpy:149
 translate french b1c08ss04_8c701f46:
@@ -230,7 +230,7 @@ translate french b1c08ss04_7f00c0d1:
 translate french b1c08ss04_87cb9584:
 
     # fox "So that rich brat is who we're subjected to if anything happens to you? This is a shitfucked plan, Xasan!"
-    fox "Donc ce petit riche est celui à qui on devra obéir si quelque chose t'arrive ? Ce plan est complètement foutu, Xasan !"
+    fox "Donc ce petit riche est celui à qui on devra obéir si quelque chose t'arrive? Ce plan est complètement foutu, Xasan!"
 
 # game/code/Book-1/Chapter-8s/s04.rpy:166
 translate french b1c08ss04_7b4a7a16:
@@ -290,7 +290,7 @@ translate french b1c08ss04_fa7e8c08:
 translate french b1c08ss04_e4bccc08:
 
     # fox "You're really just gonna go with this?"
-    fox "Tu vas vraiment aller dans ce sens ?"
+    fox "Tu vas vraiment aller dans ce sens?"
 
 # game/code/Book-1/Chapter-8s/s04.rpy:198
 translate french b1c08ss04_85af9e73:
@@ -374,13 +374,13 @@ translate french b1c08ss04_1693a8cb:
 translate french b1c08ss04_461fa063:
 
     # mct "How is our team going to handle this mission smoothly if we're already fractured?"
-    mct "Comment notre équipe va-t-elle gérer cette mission correctement si nous sommes déjà fracturés ?"
+    mct "Comment notre équipe va-t-elle gérer cette mission correctement si nous sommes déjà fracturés?"
 
 # game/code/Book-1/Chapter-8s/s04.rpy:241
 translate french b1c08ss04_b170a2e1:
 
     # mct "Zem's a good woman, but does she understand the weight of this situation?"
-    mct "Zem est une bonne femme, mais est-ce qu'elle comprend la gravité de cette situation ?"
+    mct "Zem est une bonne femme, mais est-ce qu'elle comprend la gravité de cette situation?"
 
 # game/code/Book-1/Chapter-8s/s04.rpy:244
 translate french b1c08ss04_63c7233d:
@@ -458,7 +458,7 @@ translate french b1c08ss04_0daa20b4:
 translate french b1c08ss04_a2ce2dd8:
 
     # mct "Though, what kind of distraction would Xasan have to cause to get everyone's attention off us and onto himself?"
-    mct "Mais quel genre de distraction Xasan devrait-il créer pour détourner l'attention de nous et la porter sur lui ?"
+    mct "Mais quel genre de distraction Xasan devrait-il créer pour détourner l'attention de nous et la porter sur lui?"
 
 # game/code/Book-1/Chapter-8s/s04.rpy:270
 translate french b1c08ss04_951a61a4:
@@ -566,7 +566,7 @@ translate french b1c08ss04_9398b8d6:
 translate french b1c08ss04_zp_left_2221b5da:
 
     # fox "Hey, Asami. How are you feeling?"
-    fox "Hé, Asami. Comment tu te sens ?"
+    fox "Hé, Asami. Comment tu te sens?"
 
 # game/code/Book-1/Chapter-8s/s04.rpy:327
 translate french b1c08ss04_zp_left_c235ceb6:
@@ -578,7 +578,7 @@ translate french b1c08ss04_zp_left_c235ceb6:
 translate french b1c08ss04_zp_left_3bd6e8c0:
 
     # ass "I assume you found them?"
-    ass "Je suppose que vous les avez trouvés ?"
+    ass "Je suppose que vous les avez trouvés?"
 
 # game/code/Book-1/Chapter-8s/s04.rpy:333
 translate french b1c08ss04_zp_left_605b7255:
@@ -590,7 +590,7 @@ translate french b1c08ss04_zp_left_605b7255:
 translate french b1c08ss04_zp_left_dff4ab8f:
 
     # ass "How...bad was it?"
-    ass "C'était...grave ?"
+    ass "C'était...grave?"
 
 # game/code/Book-1/Chapter-8s/s04.rpy:339
 translate french b1c08ss04_zp_left_3c75f5cd:
@@ -680,7 +680,7 @@ translate french b1c08ss04_zp_left_ab31a3e8:
 translate french b1c08ss04_zp_left_8b11e748:
 
     # ass "How was Xasan?"
-    ass "Comment allait Xasan ?"
+    ass "Comment allait Xasan?"
 
 # game/code/Book-1/Chapter-8s/s04.rpy:386
 translate french b1c08ss04_zp_left_d5373401:
@@ -704,7 +704,7 @@ translate french b1c08ss04_zp_left_13bb27be:
 translate french b1c08ss04_zp_left_9b74c5ce:
 
     # mc "How's Fleur holding up? I know she's close with Q and the girls."
-    mc "Comment va Fleur ? Je sais qu'elle est proche de Q et des filles."
+    mc "Comment va Fleur? Je sais qu'elle est proche de Q et des filles."
 
 # game/code/Book-1/Chapter-8s/s04.rpy:397
 translate french b1c08ss04_zp_left_9fd048ac:
@@ -824,7 +824,7 @@ translate french b1c08ss04_zp_left_b9710c73:
 translate french b1c08ss04_zp_left_d6bfae07:
 
     # mc "You sure you're okay?"
-    mc "Tu es sûr que ça va ?"
+    mc "Tu es sûr que ça va?"
 
 # game/code/Book-1/Chapter-8s/s04.rpy:476
 translate french b1c08ss04_zp_left_c8f57321:
@@ -866,7 +866,7 @@ translate french b1c08ss04_zp_left_b892590b:
 translate french b1c08ss04_zp_left_e4c05963:
 
     # ass "And that shot did fuck all. You wanna help me out?"
-    ass "Et cette injection n'a rien fait. Tu veux m'aider ?"
+    ass "Et cette injection n'a rien fait. Tu veux m'aider?"
 
 # game/code/Book-1/Chapter-8s/s04.rpy:501
 translate french b1c08ss04_zp_left_6548b0d0:
@@ -920,7 +920,7 @@ translate french b1c08ss04_zp_left_d720b0e8:
 translate french b1c08ss04_zp_left_e60c083a:
 
     # mct "Do any of these people understand the games they're playing here?"
-    mct "Est-ce que ces gens comprennent les jeux auxquels ils jouent ici ?"
+    mct "Est-ce que ces gens comprennent les jeux auxquels ils jouent ici?"
 
 # game/code/Book-1/Chapter-8s/s04.rpy:543
 translate french b1c08ss04_zp_left_4fba2db3:
@@ -1040,7 +1040,7 @@ translate french b1c08ss04_sex_e6484dcb:
 translate french b1c08ss04_sex_36400b1e:
 
     # mc "You like giving it up so easily for me, don't you?"
-    mc "Tu aimes abandonner si facilement pour moi, n'est-ce pas ?"
+    mc "Tu aimes abandonner si facilement pour moi, n'est-ce pas?"
 
 # game/code/Book-1/Chapter-8s/s04.rpy:633
 translate french b1c08ss04_sex_006bed23:
@@ -1076,7 +1076,7 @@ translate french b1c08ss04_sex_4fd89c00:
 translate french b1c08ss04_sex_89b61263:
 
     # mc "You want more of me, don't you?"
-    mc "Tu veux plus de moi, n'est-ce pas ?"
+    mc "Tu veux plus de moi, n'est-ce pas?"
 
 # game/code/Book-1/Chapter-8s/s04.rpy:703
 translate french b1c08ss04_sex_0691fc9f:
@@ -1100,13 +1100,13 @@ translate french b1c08ss04_sex_d4df1554:
 translate french b1c08ss04_sex_64bd779a:
 
     # ass "Oh fuck!"
-    ass "Oh putain !"
+    ass "Oh putain!"
 
 # game/code/Book-1/Chapter-8s/s04.rpy:731
 translate french b1c08ss04_sex_60eb38f8:
 
     # ass "I'm so close to cumming!"
-    ass "Je suis si près d'éjaculer !"
+    ass "Je suis si près d'éjaculer!"
 
 # game/code/Book-1/Chapter-8s/s04.rpy:740
 translate french b1c08ss04_sex_01f21c66:
@@ -1118,7 +1118,7 @@ translate french b1c08ss04_sex_01f21c66:
 translate french b1c08ss04_sex_e11d9012:
 
     # "Your body takes over, pounding ravenously into Asami."
-    « Votre corps prend le dessus, martelant voracement Asami. »
+    "Votre corps prend le dessus, martelant voracement Asami."
 
 # game/code/Book-1/Chapter-8s/s04.rpy:752
 translate french b1c08ss04_sex_4905a8d4:
@@ -1130,7 +1130,7 @@ translate french b1c08ss04_sex_4905a8d4:
 translate french b1c08ss04_sex_f689dbc0:
 
     # ass "I'm c-cumming!"
-    ass "Je jouis !"
+    ass "Je jouis!"
 
 # game/code/Book-1/Chapter-8s/s04.rpy:758
 translate french b1c08ss04_sex_cb160f8e:
@@ -1214,7 +1214,7 @@ translate french b1c08ss04_room_6be12686:
 translate french b1c08ss04_room_9b2629d0:
 
     # fox "Oh, there you two are. What time is it?"
-    fox "Oh, vous y êtes tous les deux. Quelle heure est-il ?"
+    fox "Oh, vous y êtes tous les deux. Quelle heure est-il?"
 
 # game/code/Book-1/Chapter-8s/s04.rpy:821
 translate french b1c08ss04_room_020fc6d9:
@@ -1225,8 +1225,8 @@ translate french b1c08ss04_room_020fc6d9:
 # game/code/Book-1/Chapter-8s/s04.rpy:824
 translate french b1c08ss04_room_c809c199:
 
-    # fox "Vous êtes restés debout aussi tard ?"
-    fox "Vous êtes restés debout aussi tard ?"
+    # fox "Vous êtes restés debout aussi tard?"
+    fox "Vous êtes restés debout aussi tard?"
 
 # game/code/Book-1/Chapter-8s/s04.rpy:827
 translate french b1c08ss04_room_3bd59324:
@@ -1243,14 +1243,14 @@ translate french b1c08ss04_room_9692153f:
 # game/code/Book-1/Chapter-8s/s04.rpy:833
 translate french b1c08ss04_room_f5d5f107:
 
-    # ass "Non, on n'a pas juste bu !"
-    ass "Non, on n'a pas juste bu !"
+    # ass "Non, on n'a pas juste bu!"
+    ass "Non, on n'a pas juste bu!"
 
 # game/code/Book-1/Chapter-8s/s04.rpy:837
 translate french b1c08ss04_room_47ba3536:
 
-    # fox "Conversation philosophique, alors ?"
-    fox "Conversation philosophique, alors ?"
+    # fox "Conversation philosophique, alors?"
+    fox "Conversation philosophique, alors?"
 
 # game/code/Book-1/Chapter-8s/s04.rpy:840
 translate french b1c08ss04_room_6b12be24:
@@ -1261,20 +1261,20 @@ translate french b1c08ss04_room_6b12be24:
 # game/code/Book-1/Chapter-8s/s04.rpy:846
 translate french b1c08ss04_room_27f1c8c7:
 
-    # ass "Hé les gars ?"
-    ass "Hé les gars ?"
+    # ass "Hé les gars?"
+    ass "Hé les gars?"
 
 # game/code/Book-1/Chapter-8s/s04.rpy:849
 translate french b1c08ss04_room_582359ea:
 
-    # mc "Hm ?"
-    mc "Hm ?"
+    # mc "Hm?"
+    mc "Hm?"
 
 # game/code/Book-1/Chapter-8s/s04.rpy:852
 translate french b1c08ss04_room_c850ee65:
 
-    # fox "Qu'est-ce qu'il y a ?"
-    fox "Qu'est-ce qu'il y a ?"
+    # fox "Qu'est-ce qu'il y a?"
+    fox "Qu'est-ce qu'il y a?"
 
 # game/code/Book-1/Chapter-8s/s04.rpy:855
 translate french b1c08ss04_room_675bc551:
@@ -1297,8 +1297,8 @@ translate french b1c08ss04_room_5b7159dd:
 # game/code/Book-1/Chapter-8s/s04.rpy:864
 translate french b1c08ss04_room_db9978b8:
 
-    # ass "C'est des moments comme ceux-ci qui me font réaliser à quel point chacun de nous est important pour notre famille de fortune, tu sais ?"
-    ass "C'est des moments comme ceux-ci qui me font réaliser à quel point chacun de nous est important pour notre famille de fortune, tu sais ?"
+    # ass "C'est des moments comme ceux-ci qui me font réaliser à quel point chacun de nous est important pour notre famille de fortune, tu sais?"
+    ass "C'est des moments comme ceux-ci qui me font réaliser à quel point chacun de nous est important pour notre famille de fortune, tu sais?"
 
 # game/code/Book-1/Chapter-8s/s04.rpy:865
 translate french b1c08ss04_room_812ac105:

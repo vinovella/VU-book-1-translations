@@ -2,7 +2,7 @@
 translate french b1c04zs05_d8451613:
 
     # "{color=#662727}Salesman{/color}" "What gun would you like to use?" (who_outlines=[(1, "#e1e1e1", 0, 0)], kerning=1)
-    "{color=#662727}Vendeur{/color}" "Quelle arme voulez-vous utiliser ?" (who_outlines=[(1, "#e1e1e1", 0, 0)], kerning=1)
+    "{color=#662727}Vendeur{/color}" "Quelle arme voulez-vous utiliser?" (who_outlines=[(1, "#e1e1e1", 0, 0)], kerning=1)
 
 # game/code/Book-1/Chapter-4z/s05.rpy:12
 translate french b1c04zs05_11707453:
@@ -14,7 +14,7 @@ translate french b1c04zs05_11707453:
 translate french b1c04zs05_1d035b62:
 
     # "{color=#662727}Salesman{/color}" "Have you shot before?" (who_outlines=[(1, "#e1e1e1", 0, 0)], kerning=1)
-    "{color=#662727}Vendeur{/color}" "Avez-vous déjà tiré ?" (who_outlines=[(1, "#e1e1e1", 0, 0)], kerning=1)
+    "{color=#662727}Vendeur{/color}" "Avez-vous déjà tiré?" (who_outlines=[(1, "#e1e1e1", 0, 0)], kerning=1)
 
 # game/code/Book-1/Chapter-4z/s05.rpy:18
 translate french b1c04zs05_f800bed0:
@@ -26,7 +26,7 @@ translate french b1c04zs05_f800bed0:
 translate french b1c04zs05_eb5cf4de:
 
     # "{color=#662727}Salesman{/color}" "Great. Would you like a tutor for the range?" (who_outlines=[(1, "#e1e1e1", 0, 0)], kerning=1)
-    "{color=#662727}Vendeur{/color}" "Très bien. Voulez-vous un instructeur pour le stand ?" (who_outlines=[(1, "#e1e1e1", 0, 0)], kerning=1)
+    "{color=#662727}Vendeur{/color}" "Très bien. Voulez-vous un instructeur pour le stand?" (who_outlines=[(1, "#e1e1e1", 0, 0)], kerning=1)
 
 # game/code/Book-1/Chapter-4z/s05.rpy:23
 translate french b1c04zs05_47d1b165:
@@ -44,7 +44,7 @@ translate french b1c04zs05_522fb869:
 translate french b1c04zs05_cb6b1036:
 
     # "{color=#662727}Salesman{/color}" "Have a good time!" (who_outlines=[(1, "#e1e1e1", 0, 0)], kerning=1)
-    "{color=#662727}Vendeur{/color}" "Amusez-vous bien !" (who_outlines=[(1, "#e1e1e1", 0, 0)], kerning=1)
+    "{color=#662727}Vendeur{/color}" "Amusez-vous bien!" (who_outlines=[(1, "#e1e1e1", 0, 0)], kerning=1)
 
 # game/code/Book-1/Chapter-4z/s05.rpy:30
 translate french b1c04zs05_a64e8bc0:
@@ -134,19 +134,19 @@ translate french b1c04zs05_14eaff91:
 translate french b1c04zs05_fa4c4e16:
 
     # mc "Hey. What's up?"
-    mc "Hey. Quoi de neuf ?"
+    mc "Hey. Quoi de neuf?"
 
 # game/code/Book-1/Chapter-4z/s05.rpy:111
 translate french b1c04zs05_0ddf7037:
 
     # zp "Are you a professional or something? Those shots were incredibly accurate."
-    zp "Vous êtes un professionnel ou quelque chose comme ça ? Ces tirs étaient incroyablement précis."
+    zp "Vous êtes un professionnel ou quelque chose comme ça? Ces tirs étaient incroyablement précis."
 
 # game/code/Book-1/Chapter-4z/s05.rpy:114
 translate french b1c04zs05_ca038d37:
 
     # mc "Hah! No. It was pure luck."
-    mc "Hah ! Non. C'était de la pure chance."
+    mc "Hah! Non. C'était de la pure chance."
 
 # game/code/Book-1/Chapter-4z/s05.rpy:115
 translate french b1c04zs05_72d64f65:
@@ -164,13 +164,13 @@ translate french b1c04zs05_8fb91095:
 translate french b1c04zs05_90523036:
 
     # zp "Interesting. Did you have a lot of practice?"
-    zp "Intéressant. Vous avez beaucoup pratiqué ?"
+    zp "Intéressant. Vous avez beaucoup pratiqué?"
 
 # game/code/Book-1/Chapter-4z/s05.rpy:123
 translate french b1c04zs05_790efbe9:
 
     # mc "Oh, no. Real shit? I have no idea how I shot off those rounds perfectly."
-    mc "Oh, non. Sérieusement ? Je n'ai aucune idée de comment j'ai réussi ces tirs parfaits."
+    mc "Oh, non. Sérieusement? Je n'ai aucune idée de comment j'ai réussi ces tirs parfaits."
 
 # game/code/Book-1/Chapter-4z/s05.rpy:125
 translate french b1c04zs05_cfa7971d:
@@ -194,7 +194,7 @@ translate french b1c04zs05_5aebbe73:
 translate french b1c04zs05_42e4e525:
 
     # mc "See? Complete {i}luck{/i}."
-    mc "Tu vois ? Pure {i}chance{/i}."
+    mc "Tu vois? Pure {i}chance{/i}."
 
 # game/code/Book-1/Chapter-4z/s05.rpy:138
 translate french b1c04zs05_c6e36602:
@@ -284,7 +284,7 @@ translate french b1c04zs05_fd7f8dca:
 translate french b1c04zs05_39d6457c:
 
     # mc "Where'd you learn to shoot?"
-    mc "Où as-tu appris à tirer ?"
+    mc "Où as-tu appris à tirer?"
 
 # game/code/Book-1/Chapter-4z/s05.rpy:189
 translate french b1c04zs05_4b145bc6:
@@ -350,19 +350,19 @@ translate french b1c04zs05_7ff6c5b6:
 translate french b1c04zs05_bffe91db:
 
     # zp "I just flip off anyone who judges me while I'm learning. How else am I supposed to learn, if not by fucking around and finding out?"
-    zp "J'envoie balader tous ceux qui me jugent pendant que j'apprends. Comment suis-je censée apprendre autrement qu'en expérimentant et en découvrant ?"
+    zp "J'envoie balader tous ceux qui me jugent pendant que j'apprends. Comment suis-je censée apprendre autrement qu'en expérimentant et en découvrant?"
 
 # game/code/Book-1/Chapter-4z/s05.rpy:211
 translate french b1c04zs05_4e61d85c:
 
     # mc "Exactly! If one more testosterone-fueled, midlife-crisis, recently divorced man with anger issues and a steroid addiction gives me a condescending look I'm gonna blow a fuckin' gasket."
-    mc "Exactement ! Si un autre homme en pleine crise de la quarantaine, récemment divorcé, bourré de testostérone, avec des problèmes de colère et accro aux stéroïdes me regarde de haut, je vais exploser !"
+    mc "Exactement! Si un autre homme en pleine crise de la quarantaine, récemment divorcé, bourré de testostérone, avec des problèmes de colère et accro aux stéroïdes me regarde de haut, je vais exploser!"
 
 # game/code/Book-1/Chapter-4z/s05.rpy:214
 translate french b1c04zs05_9bb35c1b:
 
     # zp "You get it! Seriously. People like that need to pull the stick out of their ass."
-    zp "Tu comprends ! Sérieusement. Ces gens-là doivent vraiment se décoincer."
+    zp "Tu comprends! Sérieusement. Ces gens-là doivent vraiment se décoincer."
 
 # game/code/Book-1/Chapter-4z/s05.rpy:217
 translate french b1c04zs05_f811506b:
@@ -410,7 +410,7 @@ translate french b1c04zs05_86fb524c:
 translate french b1c04zs05_1e2e4e68:
 
     # zp "Sure! That sounds fun."
-    zp "Bien sûr ! Ça a l'air sympa."
+    zp "Bien sûr! Ça a l'air sympa."
 
 # game/code/Book-1/Chapter-4z/s05.rpy:235
 translate french b1c04zs05_e395007d:
@@ -422,7 +422,7 @@ translate french b1c04zs05_e395007d:
 translate french b1c04zs05_2f0b2a6c:
 
     # mc "20 shots?! That's expecting a lot."
-    mc "20 tirs ?! Ça en demande beaucoup."
+    mc "20 tirs?! Ça en demande beaucoup."
 
 # game/code/Book-1/Chapter-4z/s05.rpy:241
 translate french b1c04zs05_91e31ef4:
@@ -446,7 +446,7 @@ translate french b1c04zs05_eff50908:
 translate french b1c04zs05_2dbb201f:
 
     # mc "You certainly know how to overdeliver, don't you?"
-    mc "Tu sais vraiment en faire plus que demandé, n'est-ce pas ?"
+    mc "Tu sais vraiment en faire plus que demandé, n'est-ce pas?"
 
 # game/code/Book-1/Chapter-4z/s05.rpy:253
 translate french b1c04zs05_01a404cf:
@@ -459,3 +459,4 @@ translate french b1c04zs05_39de506d:
 
     # mc "On it."
     mc "C'est parti."
+

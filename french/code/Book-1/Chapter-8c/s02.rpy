@@ -20,7 +20,7 @@ translate french b1c08cs02_84969a94:
 translate french b1c08cs02_23143e78:
 
     # mc "Is this an old campsite or something?"
-    mc "C'est un ancien campement ou quelque chose comme ça ?"
+    mc "C'est un ancien campement ou quelque chose comme ça?"
 
 # game/code/Book-1/Chapter-8c/s02.rpy:33
 translate french b1c08cs02_5fb895c2:
@@ -44,7 +44,7 @@ translate french b1c08cs02_c207abdc:
 translate french b1c08cs02_d886509f:
 
     # nv "I can't wait to meet everyone!"
-    nv "J'ai hâte de rencontrer tout le monde !"
+    nv "J'ai hâte de rencontrer tout le monde!"
 
 # game/code/Book-1/Chapter-8c/s02.rpy:43
 translate french b1c08cs02_12dc9e0c:
@@ -92,13 +92,13 @@ translate french b1c08cs02_f62f58c3:
 translate french b1c08cs02_ce026c7a:
 
     # ih "Welcome, everyone! We are so happy to have you here. We hope that you'll have a wonderful time here."
-    ih "Bienvenue à tous ! Nous sommes ravis de vous avoir ici. Nous espérons que vous passerez un merveilleux moment ici."
+    ih "Bienvenue à tous! Nous sommes ravis de vous avoir ici. Nous espérons que vous passerez un merveilleux moment ici."
 
 # game/code/Book-1/Chapter-8c/s02.rpy:88
 translate french b1c08cs02_9f11cbe6:
 
     # ih "After a tour of the grounds, you're all invited to a special gathering tonight! A time when we'll introduce ourselves properly and socialize."
-    ih "Après une visite des lieux, vous êtes tous invités à un rassemblement spécial ce soir ! Un moment où nous nous présenterons correctement et socialiserons."
+    ih "Après une visite des lieux, vous êtes tous invités à un rassemblement spécial ce soir! Un moment où nous nous présenterons correctement et socialiserons."
 
 # game/code/Book-1/Chapter-8c/s02.rpy:91
 translate french b1c08cs02_130b659e:
@@ -146,13 +146,13 @@ translate french b1c08cs02_1f3cc75a:
 translate french b1c08cs02_2996e8a2:
 
     # nw "Do you want some water?"
-    nw "Tu veux de l'eau ?"
+    nw "Tu veux de l'eau?"
 
 # game/code/Book-1/Chapter-8c/s02.rpy:127
 translate french b1c08cs02_460bdba5:
 
     # ys "You worry too much! I'm fine."
-    ys "Tu t'inquiètes trop ! Ça va."
+    ys "Tu t'inquiètes trop! Ça va."
 
 # game/code/Book-1/Chapter-8c/s02.rpy:133
 translate french b1c08cs02_075e0206:
@@ -164,7 +164,7 @@ translate french b1c08cs02_075e0206:
 translate french b1c08cs02_dbc2bc3c:
 
     # ys "Hi!{w} I'm Yvonne Sanders. It's nice to meet you all."
-    ys "Salut !{w} Je suis Yvonne Sanders. Ravi de vous rencontrer tous."
+    ys "Salut!{w} Je suis Yvonne Sanders. Ravi de vous rencontrer tous."
 
 # game/code/Book-1/Chapter-8c/s02.rpy:139
 translate french b1c08cs02_5de6f086:
@@ -176,7 +176,7 @@ translate french b1c08cs02_5de6f086:
 translate french b1c08cs02_c792c6cb:
 
     # ys "And it's been such a long time since we've had guests!"
-    ys "Ça fait tellement longtemps qu'on n'a pas eu de visiteurs !"
+    ys "Ça fait tellement longtemps qu'on n'a pas eu de visiteurs!"
 
 # game/code/Book-1/Chapter-8c/s02.rpy:144
 translate french b1c08cs02_c4bee7a9:
@@ -194,13 +194,13 @@ translate french b1c08cs02_ff698616:
 translate french b1c08cs02_6125de31:
 
     # ys "And that's Sloan T. Andrews! The best wildlife conservation specialist this group has ever seen."
-    ys "Et voici Sloan T. Andrews ! Le meilleur spécialiste de la conservation de la faune que ce groupe ait jamais vu."
+    ys "Et voici Sloan T. Andrews! Le meilleur spécialiste de la conservation de la faune que ce groupe ait jamais vu."
 
 # game/code/Book-1/Chapter-8c/s02.rpy:159
 translate french b1c08cs02_cd4b004d:
 
     # dk "It's not obvious that they're forest hermits at all, is it?"
-    dk "Ce n'est pas évident qu'ils sont des ermites de la forêt, n'est-ce pas ?"
+    dk "Ce n'est pas évident qu'ils sont des ermites de la forêt, n'est-ce pas?"
 
 # game/code/Book-1/Chapter-8c/s02.rpy:161
 translate french b1c08cs02_d28d607e:
@@ -224,7 +224,7 @@ translate french b1c08cs02_b4e70ce1:
 translate french b1c08cs02_dffe94d0:
 
     # ys "It is so nice to see fresh faces here!"
-    ys "C'est tellement agréable de voir des visages frais ici !"
+    ys "C'est tellement agréable de voir des visages frais ici!"
 
 # game/code/Book-1/Chapter-8c/s02.rpy:173
 translate french b1c08cs02_794b56c6:
@@ -242,13 +242,13 @@ translate french b1c08cs02_9558d33a:
 translate french b1c08cs02_39c6a99c:
 
     # nv "If you don't mind me asking, how far along are you?"
-    nv "Si cela ne te dérange pas, combien de temps es-tu enceinte ?"
+    nv "Si cela ne te dérange pas, combien de temps es-tu enceinte?"
 
 # game/code/Book-1/Chapter-8c/s02.rpy:182
 translate french b1c08cs02_8d00f637:
 
     # ys "Oh, very!{w} I'm so excited to meet my little lovebug."
-    ys "Oh, tellement !{w} Je suis tellement excitée de rencontrer mon petit cœur."
+    ys "Oh, tellement!{w} Je suis tellement excitée de rencontrer mon petit cœur."
 
 # game/code/Book-1/Chapter-8c/s02.rpy:185
 translate french b1c08cs02_1af6d598:
@@ -260,7 +260,7 @@ translate french b1c08cs02_1af6d598:
 translate french b1c08cs02_5914f073:
 
     # sta "And what about you, [mcname]? What are you excited to learn here?"
-    sta "Et toi, [mcname] ? Qu'est-ce que tu es impatient d'apprendre ici ?"
+    sta "Et toi, [mcname]? Qu'est-ce que tu es impatient d'apprendre ici?"
 
 # game/code/Book-1/Chapter-8c/s02.rpy:194
 translate french b1c08cs02_7d0f0cd0:
@@ -302,7 +302,7 @@ translate french b1c08cs02_after_choice_30462b99:
 translate french b1c08cs02_after_choice_f6ba4d69:
 
     # sta "Oh? Sounds like you have some experience."
-    sta "Oh ? On dirait que tu as de l'expérience."
+    sta "Oh? On dirait que tu as de l'expérience."
 
 # game/code/Book-1/Chapter-8c/s02.rpy:228
 translate french b1c08cs02_after_choice_38acec9c:
@@ -326,7 +326,7 @@ translate french b1c08cs02_after_choice_58acb21b:
 translate french b1c08cs02_after_choice_3a09806a:
 
     # ih "Sloan, darling, I think there's some unfinished reports that need filing, hm?"
-    ih "Sloan, chérie, je pense qu'il y a des rapports non finis à classer, hm ?"
+    ih "Sloan, chérie, je pense qu'il y a des rapports non finis à classer, hm?"
 
 # game/code/Book-1/Chapter-8c/s02.rpy:237
 translate french b1c08cs02_after_choice_732b3ebb:
@@ -338,7 +338,7 @@ translate french b1c08cs02_after_choice_732b3ebb:
 translate french b1c08cs02_after_choice_06a9d171:
 
     # sta "But I'll see you later, okay?"
-    sta "Mais on se voit plus tard, d'accord ?"
+    sta "Mais on se voit plus tard, d'accord?"
 
 # game/code/Book-1/Chapter-8c/s02.rpy:246
 translate french b1c08cs02_after_choice_b9710c73:
@@ -386,13 +386,13 @@ translate french b1c08cs02_after_choice_29753e79:
 translate french b1c08cs02_after_choice_31a818e7:
 
     # nv "What kinds of jobs do you all do here?"
-    nv "Quels types de travail faites-vous ici ?"
+    nv "Quels types de travail faites-vous ici?"
 
 # game/code/Book-1/Chapter-8c/s02.rpy:273
 translate french b1c08cs02_after_choice_a97545b2:
 
     # ys "Oh, we're in the forestry industry! Sloan tracks the local wildlife, as I mentioned, and Nerium manages the local flora!"
-    ys "Oh, nous sommes dans l'industrie forestière ! Sloan suit la faune locale, comme je l'ai mentionné, et Nerium gère la flore locale !"
+    ys "Oh, nous sommes dans l'industrie forestière! Sloan suit la faune locale, comme je l'ai mentionné, et Nerium gère la flore locale!"
 
 # game/code/Book-1/Chapter-8c/s02.rpy:274
 translate french b1c08cs02_after_choice_f216e1b0:
@@ -410,13 +410,13 @@ translate french b1c08cs02_after_choice_6079ed57:
 translate french b1c08cs02_after_choice_f36c9588:
 
     # ih "Is there anything else I can get you? Are you sure you're not hungry?"
-    ih "Y a-t-il autre chose que je puisse te donner ? Tu es sûr de ne pas avoir faim ?"
+    ih "Y a-t-il autre chose que je puisse te donner? Tu es sûr de ne pas avoir faim?"
 
 # game/code/Book-1/Chapter-8c/s02.rpy:293
 translate french b1c08cs02_after_choice_0fe3cd0d:
 
     # ys "No, I'm okay! Just happy to talk with the newcomers."
-    ys "Non, ça va ! Je suis juste contente de parler avec les nouveaux venus."
+    ys "Non, ça va! Je suis juste contente de parler avec les nouveaux venus."
 
 # game/code/Book-1/Chapter-8c/s02.rpy:296
 translate french b1c08cs02_after_choice_e5770afb:
@@ -458,13 +458,13 @@ translate french b1c08cs02_after_choice_69780181:
 translate french b1c08cs02_after_choice_42dd8fb0:
 
     # ih "Oh, don't scare the newcomers by mentioning it that way!"
-    ih "Oh, ne fais pas peur aux nouveaux en en parlant de cette manière !"
+    ih "Oh, ne fais pas peur aux nouveaux en en parlant de cette manière!"
 
 # game/code/Book-1/Chapter-8c/s02.rpy:313
 translate french b1c08cs02_after_choice_2426dc6e:
 
     # ys "*Giggles* Well it's fun! And I deserve to have a little fun!"
-    ys "*Rires* Eh bien, c'est amusant ! Et je mérite de m'amuser un peu !"
+    ys "*Rires* Eh bien, c'est amusant! Et je mérite de m'amuser un peu!"
 
 # game/code/Book-1/Chapter-8c/s02.rpy:314
 translate french b1c08cs02_after_choice_25a6f441:
@@ -488,7 +488,7 @@ translate french b1c08cs02_after_choice_7520c467:
 translate french b1c08cs02_after_choice_1e029f31:
 
     # mc "Like ghosts or something?"
-    mc "Comme des fantômes ou quelque chose du genre ?"
+    mc "Comme des fantômes ou quelque chose du genre?"
 
 # game/code/Book-1/Chapter-8c/s02.rpy:324
 translate french b1c08cs02_after_choice_69fd0ec5:
@@ -518,7 +518,7 @@ translate french b1c08cs02_after_choice_7a1155f6:
 translate french b1c08cs02_after_choice_7149fddb:
 
     # nv "This forest has folklore? That's incredible!"
-    nv "Cette forêt a des légendes ? C'est incroyable !"
+    nv "Cette forêt a des légendes? C'est incroyable!"
 
 # game/code/Book-1/Chapter-8c/s02.rpy:336
 translate french b1c08cs02_after_choice_7bf55f53:
@@ -548,7 +548,7 @@ translate french b1c08cs02_after_choice_4170441a:
 translate french b1c08cs02_after_choice_056fd317:
 
     # mc "And if you're an unworthy presence?"
-    mc "Et si tu es une présence indigne ?"
+    mc "Et si tu es une présence indigne?"
 
 # game/code/Book-1/Chapter-8c/s02.rpy:347
 translate french b1c08cs02_after_choice_35912c61:
@@ -566,7 +566,7 @@ translate french b1c08cs02_after_choice_b63adfa6:
 translate french b1c08cs02_after_choice_3f36c64c:
 
     # ys "Oh, take a joke you two!"
-    ys "Oh, prenez une blague vous deux !"
+    ys "Oh, prenez une blague vous deux!"
 
 # game/code/Book-1/Chapter-8c/s02.rpy:355
 translate french b1c08cs02_after_choice_4ef3a527:
@@ -578,7 +578,7 @@ translate french b1c08cs02_after_choice_4ef3a527:
 translate french b1c08cs02_after_choice_e77263fb:
 
     # nv "So you believe the legends?"
-    nv "Tu crois aux légendes ?"
+    nv "Tu crois aux légendes?"
 
 # game/code/Book-1/Chapter-8c/s02.rpy:361
 translate french b1c08cs02_after_choice_1f951fed:
@@ -614,7 +614,7 @@ translate french b1c08cs02_after_choice_9e553aa5:
 translate french b1c08cs02_after_choice_c20e783e:
 
     # mct "Is that professor De'leon from the university?"
-    mct "C'est le professeur De'leon de l'université ?"
+    mct "C'est le professeur De'leon de l'université?"
 
 # game/code/Book-1/Chapter-8c/s02.rpy:391
 translate french b1c08cs02_after_choice_01964da6:
@@ -650,7 +650,7 @@ translate french b1c08cs02_after_choice_39dbf14d:
 translate french b1c08cs02_after_choice_69fd6b89:
 
     # ys "Oh we will! I'll make sure of it. It was lovely to meet you all as well."
-    ys "Oh, on le fera ! Je m'assurerai de cela. C'était un plaisir de vous rencontrer tous aussi."
+    ys "Oh, on le fera! Je m'assurerai de cela. C'était un plaisir de vous rencontrer tous aussi."
 
 # game/code/Book-1/Chapter-8c/s02.rpy:416
 translate french b1c08cs02_after_choice_b3c623d6:
@@ -698,7 +698,7 @@ translate french b1c08cs02_after_choice_a8252cbe:
 translate french b1c08cs02_after_choice_2a34ccb8:
 
     # ad "Okay everyone! Listen up, I have an important announcement."
-    ad "D'accord tout le monde ! Écoutez bien, j'ai une annonce importante."
+    ad "D'accord tout le monde! Écoutez bien, j'ai une annonce importante."
 
 # game/code/Book-1/Chapter-8c/s02.rpy:448
 translate french b1c08cs02_after_choice_d1810c9e:
@@ -734,7 +734,7 @@ translate french b1c08cs02_after_choice_3db47026:
 translate french b1c08cs02_after_choice_021ea0f1:
 
     # mc "Is everyone associated with this group a massive flirt?"
-    mc "Est-ce que tout le monde dans ce groupe est un grand séducteur ?"
+    mc "Est-ce que tout le monde dans ce groupe est un grand séducteur?"
 
 # game/code/Book-1/Chapter-8c/s02.rpy:464
 translate french b1c08cs02_after_choice_bd25dc5b:
@@ -758,7 +758,7 @@ translate french b1c08cs02_after_choice_2be31fee:
 translate french b1c08cs02_after_choice_a637b57e:
 
     # ll "Oh! Hi [mcname]. Hi Delphia."
-    ll "Oh ! Salut [mcname]. Salut Delphia."
+    ll "Oh! Salut [mcname]. Salut Delphia."
 
 # game/code/Book-1/Chapter-8c/s02.rpy:480
 translate french b1c08cs02_after_choice_db23a707:
@@ -788,7 +788,7 @@ translate french b1c08cs02_after_choice_97ee1406:
 translate french b1c08cs02_after_choice_6ffad9ba:
 
     # mc "Man, these are kinda close sleeping quarters, huh?"
-    mc "Mec, ces quartiers de sommeil sont un peu serrés, non ?"
+    mc "Mec, ces quartiers de sommeil sont un peu serrés, non?"
 
 # game/code/Book-1/Chapter-8c/s02.rpy:497
 translate french b1c08cs02_after_choice_69db8aa5:
@@ -824,7 +824,7 @@ translate french b1c08cs02_after_choice_1e97288d:
 translate french b1c08cs02_after_choice_a0a4e4de:
 
     # ll "Oh, really?"
-    ll "Oh, vraiment ?"
+    ll "Oh, vraiment?"
 
 # game/code/Book-1/Chapter-8c/s02.rpy:514
 translate french b1c08cs02_after_choice_9b6c0739:
@@ -950,13 +950,13 @@ translate french b1c08cs02_after_choice_dc2c50b1:
 translate french b1c08cs02_after_choice_1330e873:
 
     # mc "Do you want to take a nap together? I'll be here with you to keep you safe."
-    mc "Tu veux faire une sieste ensemble ? Je serai là avec toi pour te protéger."
+    mc "Tu veux faire une sieste ensemble? Je serai là avec toi pour te protéger."
 
 # game/code/Book-1/Chapter-8c/s02.rpy:569
 translate french b1c08cs02_after_choice_52c213e6:
 
     # ll "I'd love to. But are you sure? You don't have to do that for me. I know I'm a pest for being so—"
-    ll "J'adorerais. Mais tu es sûr ? Tu n'es pas obligé de faire ça pour moi. Je sais que je suis une plaie à être aussi—"
+    ll "J'adorerais. Mais tu es sûr? Tu n'es pas obligé de faire ça pour moi. Je sais que je suis une plaie à être aussi—"
 
 # game/code/Book-1/Chapter-8c/s02.rpy:572
 translate french b1c08cs02_after_choice_4fd3cb53:
@@ -980,7 +980,7 @@ translate french b1c08cs02_after_choice_fd81e1d3:
 translate french b1c08cs02_after_choice_def0ad19:
 
     # mc "What is it?"
-    mc "Qu'est-ce qu'il y a ?"
+    mc "Qu'est-ce qu'il y a?"
 
 # game/code/Book-1/Chapter-8c/s02.rpy:584
 translate french b1c08cs02_after_choice_a2989e19:
@@ -998,7 +998,7 @@ translate french b1c08cs02_after_choice_d8aba020:
 translate french b1c08cs02_after_choice_633db4d8:
 
     # ll "Is it okay if we cuddle?"
-    ll "Est-ce que ça te va si on se câline ?"
+    ll "Est-ce que ça te va si on se câline?"
 
 # game/code/Book-1/Chapter-8c/s02.rpy:591
 translate french b1c08cs02_after_choice_c1f67788:

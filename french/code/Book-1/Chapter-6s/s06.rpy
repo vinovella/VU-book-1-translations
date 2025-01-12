@@ -2,7 +2,7 @@
 translate french b1c06ss06_dc3c5c5b:
 
     # mc "Can I get a pop? Something caffeinated."
-    mc "Je peux avoir un soda ? Quelque chose de caféiné."
+    mc "Je peux avoir un soda? Quelque chose de caféiné."
 
 # game/code/Book-1/Chapter-6s/s06.rpy:12
 translate french b1c06ss06_9ff1a4a0:
@@ -20,7 +20,7 @@ translate french b1c06ss06_4499b260:
 translate french b1c06ss06_9c0831bf:
 
     # mg "Heeyy, pretty boy! Didn't expect to see you here."
-    mg "Heeyy, beau gosse ! Je ne m'attendais pas à te voir ici."
+    mg "Heeyy, beau gosse! Je ne m'attendais pas à te voir ici."
 
 # game/code/Book-1/Chapter-6s/s06.rpy:19
 translate french b1c06ss06_268bd606:
@@ -38,13 +38,13 @@ translate french b1c06ss06_036c8d10:
 translate french b1c06ss06_ae3d9a5a:
 
     # mg "What's up?"
-    mg "Quoi de neuf ?"
+    mg "Quoi de neuf?"
 
 # game/code/Book-1/Chapter-6s/s06.rpy:26
 translate french b1c06ss06_e7aac591:
 
     # rd "The usual?"
-    rd "Comme d'habitude ?"
+    rd "Comme d'habitude?"
 
 # game/code/Book-1/Chapter-6s/s06.rpy:29
 translate french b1c06ss06_e85cc540:
@@ -92,7 +92,7 @@ translate french b1c06ss06_0a131026:
 translate french b1c06ss06_f3a36f49:
 
     # mc "Don't worry about it. We all have bad days, right?"
-    mc "Ne t'inquiète pas pour ça. On a tous des mauvais jours, pas vrai ?"
+    mc "Ne t'inquiète pas pour ça. On a tous des mauvais jours, pas vrai?"
 
 # game/code/Book-1/Chapter-6s/s06.rpy:51
 translate french b1c06ss06_c2d935a8:
@@ -104,7 +104,7 @@ translate french b1c06ss06_c2d935a8:
 translate french b1c06ss06_cee4915c:
 
     # mg "Anyways, I'm sorry about that. We good?"
-    mg "Bref, je suis désolée pour ça. On est bons ?"
+    mg "Bref, je suis désolée pour ça. On est bons?"
 
 # game/code/Book-1/Chapter-6s/s06.rpy:58
 translate french b1c06ss06_5bd7aab6:
@@ -134,7 +134,7 @@ translate french b1c06ss06_e9e81e59:
 translate french b1c06ss06_f3df56b2:
 
     # rd "You wanna drink it straight from the tap?"
-    rd "Tu veux le boire directement à la source ?"
+    rd "Tu veux le boire directement à la source?"
 
 # game/code/Book-1/Chapter-6s/s06.rpy:72
 translate french b1c06ss06_5b80ab9a:
@@ -164,7 +164,7 @@ translate french b1c06ss06_26381c40:
 translate french b1c06ss06_025a4b7e:
 
     # mg "Friends?"
-    mg "Amis ?"
+    mg "Amis?"
 
 # game/code/Book-1/Chapter-6s/s06.rpy:91
 translate french b1c06ss06_8cc19c03:
@@ -176,7 +176,7 @@ translate french b1c06ss06_8cc19c03:
 translate french b1c06ss06_54bb2999:
 
     # mg "So. How do you know Zemfira?"
-    mg "Alors. Comment tu connais Zemfira ?"
+    mg "Alors. Comment tu connais Zemfira?"
 
 # game/code/Book-1/Chapter-6s/s06.rpy:97
 translate french b1c06ss06_7bf4a7a8:
@@ -194,7 +194,7 @@ translate french b1c06ss06_051acca5:
 translate french b1c06ss06_946c1de7:
 
     # mg "Lemme guess. Simon?"
-    mg "Laisse-moi deviner. Simon ?"
+    mg "Laisse-moi deviner. Simon?"
 
 # game/code/Book-1/Chapter-6s/s06.rpy:104
 translate french b1c06ss06_c9f82a00:
@@ -212,7 +212,7 @@ translate french b1c06ss06_8ab23d7f:
 translate french b1c06ss06_e5ebbbc3:
 
     # mg "But you're not super close with Zem?"
-    mg "Mais tu n'es pas super proche de Zem ?"
+    mg "Mais tu n'es pas super proche de Zem?"
 
 # game/code/Book-1/Chapter-6s/s06.rpy:114
 translate french b1c06ss06_293af416:
@@ -230,7 +230,7 @@ translate french b1c06ss06_34b46ceb:
 translate french b1c06ss06_64c1a09f:
 
     # mg "This your first time here?"
-    mg "C'est ta première fois ici ?"
+    mg "C'est ta première fois ici?"
 
 # game/code/Book-1/Chapter-6s/s06.rpy:123
 translate french b1c06ss06_58c936ad:
@@ -248,7 +248,7 @@ translate french b1c06ss06_11203ea7:
 translate french b1c06ss06_55c18b91:
 
     # mg "Art piece, huh?"
-    mg "Une œuvre d'art, hein ?"
+    mg "Une œuvre d'art, hein?"
 
 # game/code/Book-1/Chapter-6s/s06.rpy:132
 translate french b1c06ss06_cc4afb85:
@@ -260,7 +260,7 @@ translate french b1c06ss06_cc4afb85:
 translate french b1c06ss06_d5626083:
 
     # mc "You don't think so?"
-    mc "Tu ne penses pas ?"
+    mc "Tu ne penses pas?"
 
 # game/code/Book-1/Chapter-6s/s06.rpy:137
 translate french b1c06ss06_3790eb0b:
@@ -284,7 +284,7 @@ translate french b1c06ss06_87b7e426:
 translate french b1c06ss06_776cc60b:
 
     # mc "Yeah? I can tell that you work out."
-    mc "Ah ouais ? Je vois bien que tu fais de l'exercice."
+    mc "Ah ouais? Je vois bien que tu fais de l'exercice."
 
 # game/code/Book-1/Chapter-6s/s06.rpy:146
 translate french b1c06ss06_857e83a3:
@@ -302,7 +302,7 @@ translate french b1c06ss06_6f441995:
 translate french b1c06ss06_3e10bdae:
 
     # mc "Did she inspire you to follow in her footsteps?"
-    mc "Elle t'a inspirée à suivre ses traces ?"
+    mc "Elle t'a inspirée à suivre ses traces?"
 
 # game/code/Book-1/Chapter-6s/s06.rpy:158
 translate french b1c06ss06_50f763e7:
@@ -332,13 +332,13 @@ translate french b1c06ss06_87e11171:
 translate french b1c06ss06_0622f4e3:
 
     # mct "Corinne? As in Corinne Bunker?"
-    mct "Corinne ? Comme dans Corinne Bunker ?"
+    mct "Corinne? Comme dans Corinne Bunker?"
 
 # game/code/Book-1/Chapter-6s/s06.rpy:172
 translate french b1c06ss06_e03a28fd:
 
     # mct "They're {i}sisters{/i}?"
-    mct "Elles sont {i}sœurs{/i} ?"
+    mct "Elles sont {i}sœurs{/i}?"
 
 # game/code/Book-1/Chapter-6s/s06.rpy:176
 translate french b1c06ss06_3047459e:
@@ -380,7 +380,7 @@ translate french b1c06ss06_55083708:
 translate french b1c06ss06_c3253662:
 
     # mg "Eh. That's life, right? It's a bitch and then you keep going."
-    mg "Eh. C'est la vie, non ? Une vraie garce, et puis on continue."
+    mg "Eh. C'est la vie, non? Une vraie garce, et puis on continue."
 
 # game/code/Book-1/Chapter-6s/s06.rpy:191
 translate french b1c06ss06_ea4ff881:
@@ -404,7 +404,7 @@ translate french b1c06ss06_3ff2a613:
 translate french b1c06ss06_45b3111b:
 
     # mg "Hey sugar, can I get a water? Gotta hydrate before the event, y'know."
-    mg "Hé, chérie, tu peux me donner un verre d'eau ? Il faut que je m'hydrate avant l'événement, tu sais."
+    mg "Hé, chérie, tu peux me donner un verre d'eau? Il faut que je m'hydrate avant l'événement, tu sais."
 
 # game/code/Book-1/Chapter-6s/s06.rpy:203
 translate french b1c06ss06_5469f882:
@@ -416,7 +416,7 @@ translate french b1c06ss06_5469f882:
 translate french b1c06ss06_e98f6699:
 
     # mct "Event?"
-    mct "Événement ?"
+    mct "Événement?"
 
 # game/code/Book-1/Chapter-6s/s06.rpy:207
 translate french b1c06ss06_0704de24:
@@ -440,13 +440,13 @@ translate french b1c06ss06_49128b00:
 translate french b1c06ss06_84c4f598:
 
     # mct "I also know that Corinne is likely involved with some organization that could be connected to Leia's case. Is Morgan also involved in some sort of crime organization?"
-    mct "Je sais aussi que Corinne est probablement impliquée dans une organisation qui pourrait être liée à l'affaire de Leia. Est-ce que Morgan est aussi impliquée dans un genre d'organisation criminelle ?"
+    mct "Je sais aussi que Corinne est probablement impliquée dans une organisation qui pourrait être liée à l'affaire de Leia. Est-ce que Morgan est aussi impliquée dans un genre d'organisation criminelle?"
 
 # game/code/Book-1/Chapter-6s/s06.rpy:215
 translate french b1c06ss06_177c4076:
 
     # mct "Or does she just like the thrill of a street fight? Her involvement with the organization isn't guaranteed..."
-    mct "Ou est-ce qu'elle aime juste l'adrénaline d'un combat de rue ? Son implication dans l'organisation n'est pas garantie..."
+    mct "Ou est-ce qu'elle aime juste l'adrénaline d'un combat de rue? Son implication dans l'organisation n'est pas garantie..."
 
 # game/code/Book-1/Chapter-6s/s06.rpy:224
 translate french b1c06ss06_e9f20abe:
@@ -524,43 +524,43 @@ translate french b1c06ss06_fc0ce45e:
 translate french b1c06ss06_82ce495b:
 
     # mg "You two know each other?"
-    mg "Vous deux vous connaissez ?"
+    mg "Vous deux vous connaissez?"
 
 # game/code/Book-1/Chapter-6s/s06.rpy:272
 translate french b1c06ss06_9645fbc9:
 
     # nr "Yeah! [mcname] and I have seen each other around a bit."
-    nr "Ouais ! [mcname] et moi on s'est croisés un peu."
+    nr "Ouais! [mcname] et moi on s'est croisés un peu."
 
 # game/code/Book-1/Chapter-6s/s06.rpy:274
 translate french b1c06ss06_5e3f9e9d:
 
     # nr "Yeah! I know [mcname]."
-    nr "Ouais ! Je connais [mcname]."
+    nr "Ouais! Je connais [mcname]."
 
 # game/code/Book-1/Chapter-6s/s06.rpy:277
 translate french b1c06ss06_8eb2d200:
 
     # nr "*giggles* He's kinda cute, right?"
-    nr "*rire* Il est plutôt mignon, non ?"
+    nr "*rire* Il est plutôt mignon, non?"
 
 # game/code/Book-1/Chapter-6s/s06.rpy:280
 translate french b1c06ss06_c680c884:
 
     # mg "Hey, where are you going? You gonna come back to the show?"
-    mg "Hé, tu vas où ? Tu vas revenir au show ?"
+    mg "Hé, tu vas où? Tu vas revenir au show?"
 
 # game/code/Book-1/Chapter-6s/s06.rpy:283
 translate french b1c06ss06_fd338319:
 
     # nr "I'm just goin' to the bathroom. Wh-what's it matter to ya? Haven't you heard of an IBS girlie before?"
-    nr "Je vais juste aux toilettes. Qu'est-ce que ça peut te faire ? Tu n'as jamais entendu parler d'une fille avec le syndrome de l'intestin irritable ?"
+    nr "Je vais juste aux toilettes. Qu'est-ce que ça peut te faire? Tu n'as jamais entendu parler d'une fille avec le syndrome de l'intestin irritable?"
 
 # game/code/Book-1/Chapter-6s/s06.rpy:286
 translate french b1c06ss06_07894037:
 
     # mg "You're blasted, girl. Has Rid cut you off yet?"
-    mg "Tu es bien pompette, ma fille. Rid t'a déjà coupée ?"
+    mg "Tu es bien pompette, ma fille. Rid t'a déjà coupée?"
 
 # game/code/Book-1/Chapter-6s/s06.rpy:291
 translate french b1c06ss06_d71cd59b:
@@ -596,7 +596,7 @@ translate french b1c06ss06_54ad06ad:
 translate french b1c06ss06_fda8f0aa:
 
     # mc "You're telling me. Will she be alright?"
-    mc "Tu m'étonnes. Elle va s'en sortir ?"
+    mc "Tu m'étonnes. Elle va s'en sortir?"
 
 # game/code/Book-1/Chapter-6s/s06.rpy:305
 translate french b1c06ss06_7ba5994e:
@@ -620,13 +620,13 @@ translate french b1c06ss06_cb67bdd7:
 translate french b1c06ss06_97c57515:
 
     # mc "Hey! I didn't expect to see you here."
-    mc "Hé ! Je ne m'attendais pas à te voir ici."
+    mc "Hé! Je ne m'attendais pas à te voir ici."
 
 # game/code/Book-1/Chapter-6s/s06.rpy:323
 translate french b1c06ss06_ca631b89:
 
     # ffl "Oh my gosh! I'm so happy to see you! *Giggles* You didn't follow me here, did you?"
-    ffl "Oh mon dieu ! Je suis tellement contente de te voir ! *Rire* Tu ne m'as pas suivie ici, si ?"
+    ffl "Oh mon dieu! Je suis tellement contente de te voir! *Rire* Tu ne m'as pas suivie ici, si?"
 
 # game/code/Book-1/Chapter-6s/s06.rpy:327
 translate french b1c06ss06_23f54f14:
@@ -644,13 +644,13 @@ translate french b1c06ss06_6913b116:
 translate french b1c06ss06_5add9bd7:
 
     # mc "You want a drink? My treat."
-    mc "Tu veux un verre ? C'est moi qui invite."
+    mc "Tu veux un verre? C'est moi qui invite."
 
 # game/code/Book-1/Chapter-6s/s06.rpy:334
 translate french b1c06ss06_5437d935:
 
     # ffl "Buying me lunch and a drink on the same day? You're spoiling me."
-    ffl "M'acheter le déjeuner et un verre le même jour ? Tu me gâtes."
+    ffl "M'acheter le déjeuner et un verre le même jour? Tu me gâtes."
 
 # game/code/Book-1/Chapter-6s/s06.rpy:337
 translate french b1c06ss06_d616fbc7:
@@ -662,19 +662,19 @@ translate french b1c06ss06_d616fbc7:
 translate french b1c06ss06_60007519:
 
     # mc "Hey Ridley! Can I get a..."
-    mc "Hé Ridley ! Je peux avoir un..."
+    mc "Hé Ridley! Je peux avoir un..."
 
 # game/code/Book-1/Chapter-6s/s06.rpy:346
 translate french b1c06ss06_3bb123a5:
 
     # ffl "A margarita. With extra fruit, please!"
-    ffl "Une margarita. Avec des fruits en plus, s'il te plaît !"
+    ffl "Une margarita. Avec des fruits en plus, s'il te plaît!"
 
 # game/code/Book-1/Chapter-6s/s06.rpy:349
 translate french b1c06ss06_04181dcd:
 
     # mc "A margarita with extra fruit?"
-    mc "Une margarita avec des fruits en plus ?"
+    mc "Une margarita avec des fruits en plus?"
 
 # game/code/Book-1/Chapter-6s/s06.rpy:352
 translate french b1c06ss06_9ff1a4a0_1:
@@ -686,7 +686,7 @@ translate french b1c06ss06_9ff1a4a0_1:
 translate french b1c06ss06_77c3dc15:
 
     # mc "So, where'd you come from? I didn't even see you enter the bar."
-    mc "Alors, d'où viens-tu ? Je ne t'ai même pas vue entrer dans le bar."
+    mc "Alors, d'où viens-tu? Je ne t'ai même pas vue entrer dans le bar."
 
 # game/code/Book-1/Chapter-6s/s06.rpy:358
 translate french b1c06ss06_d215e4ba:
@@ -758,7 +758,7 @@ translate french b1c06ss06_51a6ecb0:
 translate french b1c06ss06_09f2de35:
 
     # mc "Is that so?"
-    mc "C'est bien ça ?"
+    mc "C'est bien ça?"
 
 # game/code/Book-1/Chapter-6s/s06.rpy:399
 translate french b1c06ss06_a0d97676:
@@ -776,7 +776,7 @@ translate french b1c06ss06_9edfa4c4:
 translate french b1c06ss06_119bd6f6:
 
     # ffl "D-do you wanna come back to my place?"
-    ffl "T-tu veux venir chez moi ?"
+    ffl "T-tu veux venir chez moi?"
 
 # game/code/Book-1/Chapter-6s/s06.rpy:407
 translate french b1c06ss06_eaaa1d0b:
@@ -806,7 +806,7 @@ translate french b1c06ss06_end_b2e9e06a:
 translate french b1c06ss06_end_dbc6a595:
 
     # ffl "Of course! I understand. Maybe some other time."
-    ffl "Bien sûr ! Je comprends. Peut-être une autre fois."
+    ffl "Bien sûr! Je comprends. Peut-être une autre fois."
 
 # game/code/Book-1/Chapter-6s/s06.rpy:432
 translate french b1c06ss06_end_faf355f5:
@@ -818,7 +818,7 @@ translate french b1c06ss06_end_faf355f5:
 translate french b1c06ss06_end_5360a602:
 
     # ffl "Will you be okay to walk home?"
-    ffl "Tu vas pouvoir rentrer chez toi à pied ?"
+    ffl "Tu vas pouvoir rentrer chez toi à pied?"
 
 # game/code/Book-1/Chapter-6s/s06.rpy:437
 translate french b1c06ss06_end_1d4479fc:
@@ -830,7 +830,7 @@ translate french b1c06ss06_end_1d4479fc:
 translate french b1c06ss06_end_c8882e23:
 
     # ffl "Well, I'll see ya around. Bye [mcname]!"
-    ffl "Bon, je te verrai plus tard. Salut [mcname] !"
+    ffl "Bon, je te verrai plus tard. Salut [mcname]!"
 
 # game/code/Book-1/Chapter-6s/s06.rpy:443
 translate french b1c06ss06_end_67ea6e1e:
@@ -855,3 +855,4 @@ translate french strings:
     # game/code/Book-1/Chapter-6s/s06.rpy:409
     old "Go home"
     new "Rentrer chez soi"
+

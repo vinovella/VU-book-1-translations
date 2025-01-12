@@ -1,7 +1,7 @@
 # game/code/Book-1/Chapter-6w/s03.rpy:26
 translate french b1c06ws03_6b98694b:
     # sm "Okay, I have some stuff to talk about with Shontae before we begin training. I'll see you in a bit!"
-    sm "D'accord, j'ai des trucs à discuter avec Shontae avant qu'on commence l'entraînement. À tout de suite !"
+    sm "D'accord, j'ai des trucs à discuter avec Shontae avant qu'on commence l'entraînement. À tout de suite!"
 
 # game/code/Book-1/Chapter-6w/s03.rpy:31
 translate french b1c06ws03_00bc0926:
@@ -21,7 +21,7 @@ translate french b1c06ws03_22d68503:
 # game/code/Book-1/Chapter-6w/s03.rpy:45
 translate french b1c06ws03_ea01e2a0:
     # ba "Hah! Yeah, you keep doing that, pretty boy. See where the bare minimum gets you around here."
-    ba "Hah ! Ouais, continue comme ça, joli garçon. On verra où ça te mène avec le minimum syndical ici."
+    ba "Hah! Ouais, continue comme ça, joli garçon. On verra où ça te mène avec le minimum syndical ici."
 
 # game/code/Book-1/Chapter-6w/s03.rpy:46
 translate french b1c06ws03_87487bf2:
@@ -41,7 +41,7 @@ translate french b1c06ws03_44e4357b:
 # game/code/Book-1/Chapter-6w/s03.rpy:57
 translate french b1c06ws03_9120cc2c:
     # sa "Everyone! I need you here."
-    sa "Tout le monde ! J'ai besoin de vous ici."
+    sa "Tout le monde! J'ai besoin de vous ici."
 
 # game/code/Book-1/Chapter-6w/s03.rpy:62
 translate french b1c06ws03_64984d93:
@@ -51,7 +51,7 @@ translate french b1c06ws03_64984d93:
 # game/code/Book-1/Chapter-6w/s03.rpy:67
 translate french b1c06ws03_95be683a:
     # mct "She's really determined to be a pain in my ass, isn't she?"
-    mct "Elle est vraiment déterminée à être une douleur dans mon cul, pas vrai ?"
+    mct "Elle est vraiment déterminée à être une douleur dans mon cul, pas vrai?"
 
 # game/code/Book-1/Chapter-6w/s03.rpy:69
 translate french b1c06ws03_9e0c48fe:
@@ -111,12 +111,12 @@ translate french b1c06ws03_21aef05f:
 # game/code/Book-1/Chapter-6w/s03.rpy:93
 translate french b1c06ws03_9171e487:
     # mct "What's it gonna take to make peace with her?"
-    mct "Qu'est-ce qu'il va falloir pour faire la paix avec elle ?"
+    mct "Qu'est-ce qu'il va falloir pour faire la paix avec elle?"
 
 # game/code/Book-1/Chapter-6w/s03.rpy:100
 translate french b1c06ws03_026edaf0:
     # sa "Alright, everyone here? Good."
-    sa "Alors, tout le monde est là ? Bien."
+    sa "Alors, tout le monde est là? Bien."
 
 # game/code/Book-1/Chapter-6w/s03.rpy:102
 translate french b1c06ws03_46e42405:
@@ -216,7 +216,7 @@ translate french b1c06ws03_5a22531b:
 # game/code/Book-1/Chapter-6w/s03.rpy:158
 translate french b1c06ws03_9e908fdc:
     # sa "Alright, let's get to it!"
-    sa "Très bien, on y va !"
+    sa "Très bien, on y va!"
 
 # game/code/Book-1/Chapter-6w/s03.rpy:165
 translate french b1c06ws03_1a0a41ae:
@@ -321,7 +321,7 @@ translate french b1c06ws03_570b20dd:
 # game/code/Book-1/Chapter-6w/s03.rpy:217
 translate french b1c06ws03_309fffc9:
     # ir "You know what that's like, right?"
-    ir "Tu sais ce que c'est, n'est-ce pas ?"
+    ir "Tu sais ce que c'est, n'est-ce pas?"
 
 # game/code/Book-1/Chapter-6w/s03.rpy:224
 translate french b1c06ws03_169d9f55:
@@ -336,7 +336,7 @@ translate french b1c06ws03_98c38598:
 # game/code/Book-1/Chapter-6w/s03.rpy:256
 translate french b1c06ws03_6a598d32:
     # ir "Woo! Fuck yeah, bitches! How you like them apples?"
-    ir "Woo ! Putain ouais, les salopes ! Comment vous aimez ces pommes ?"
+    ir "Woo! Putain ouais, les salopes! Comment vous aimez ces pommes?"
 
 # game/code/Book-1/Chapter-6w/s03.rpy:273
 translate french b1c06ws03_7c55b1ac:
@@ -346,7 +346,7 @@ translate french b1c06ws03_7c55b1ac:
 # game/code/Book-1/Chapter-6w/s03.rpy:276
 translate french b1c06ws03_8eea011a:
     # mc "Could you not fuck me with your eyes right now?"
-    mc "Tu pourrais arrêter de me baiser du regard maintenant ?"
+    mc "Tu pourrais arrêter de me baiser du regard maintenant?"
 
 # game/code/Book-1/Chapter-6w/s03.rpy:279
 translate french b1c06ws03_47f2ef41:
@@ -366,7 +366,7 @@ translate french b1c06ws03_0326754d:
 # game/code/Book-1/Chapter-6w/s03.rpy:289
 translate french b1c06ws03_9dbcecef:
     # mc "In nature, mischief-makers usually get punished, don't they?"
-    mc "Dans la nature, les fauteurs de troubles se font généralement punir, n'est-ce pas ?"
+    mc "Dans la nature, les fauteurs de troubles se font généralement punir, n'est-ce pas?"
 
 # game/code/Book-1/Chapter-6w/s03.rpy:292
 translate french b1c06ws03_e3401db5:
@@ -416,7 +416,7 @@ translate french b1c06ws03_c1a46f2c:
 # game/code/Book-1/Chapter-6w/s03.rpy:348
 translate french b1c06ws03_a8eff729:
     # mct "What the...?"
-    mct "Quoi... ?"
+    mct "Quoi...?"
 
 # game/code/Book-1/Chapter-6w/s03.rpy:351
 translate french b1c06ws03_aedfc135:
@@ -436,7 +436,7 @@ translate french b1c06ws03_9fbb6f18:
 # game/code/Book-1/Chapter-6w/s03.rpy:358
 translate french b1c06ws03_cfbb01dd:
     # ir "Hey, hey!{w} It's just a surprise spike. We'll take that point back."
-    ir "Hé, hé !{w} C'est juste une attaque surprise. On récupérera ce point."
+    ir "Hé, hé!{w} C'est juste une attaque surprise. On récupérera ce point."
 
 # game/code/Book-1/Chapter-6w/s03.rpy:359
 translate french b1c06ws03_cbb66571:
@@ -486,7 +486,7 @@ translate french b1c06ws03_f8cf111f:
 # game/code/Book-1/Chapter-6w/s03.rpy:393
 translate french b1c06ws03_f251c7e4:
     # ba "SUCK MY ASS YOU CUNTS!"
-    ba "SUCEZ MON CUL, ESPÈCES DE CONNARDS !"
+    ba "SUCEZ MON CUL, ESPÈCES DE CONNARDS!"
 
 # game/code/Book-1/Chapter-6w/s03.rpy:396
 translate french b1c06ws03_926900a9:
@@ -511,7 +511,7 @@ translate french b1c06ws03_5b7eac0e:
 # game/code/Book-1/Chapter-6w/s03.rpy:407
 translate french b1c06ws03_22790f83:
     # ba "See? I told you you'd get slaughtered. *Chuckles*"
-    ba "Tu vois ? Je t'avais dit que tu allais te faire massacrer. *Rit*"
+    ba "Tu vois? Je t'avais dit que tu allais te faire massacrer. *Rit*"
 
 # game/code/Book-1/Chapter-6w/s03.rpy:415
 translate french b1c06ws03_ef9bddd8:
@@ -522,3 +522,4 @@ translate french b1c06ws03_ef9bddd8:
 translate french b1c06ws03_b99ec9dd:
     # mc "Still had to get help from your team."
     mc "Tu as quand même dû obtenir de l'aide de ton équipe."
+

@@ -14,7 +14,7 @@ translate french b1c07cs05_bf7f7354:
 translate french b1c07cs05_034613f4:
 
     # dk "Irene, darling!"
-    dk "Irene, chérie !"
+    dk "Irene, chérie!"
 
 # game/code/Book-1/Chapter-7c/s05.rpy:56
 translate french b1c07cs05_84fc8ee8:
@@ -74,13 +74,13 @@ translate french b1c07cs05_32f056ef:
 translate french b1c07cs05_91d8a70c:
 
     # mc "You okay?"
-    mc "Ça va ?"
+    mc "Ça va?"
 
 # game/code/Book-1/Chapter-7c/s05.rpy:102
 translate french b1c07cs05_2342c1a3:
 
     # ll "Yeah, I guess. Just worried I won't be able to be vulnerable enough, y'know?"
-    ll "Ouais, je suppose. J'ai juste peur de ne pas être assez vulnérable, tu sais ?"
+    ll "Ouais, je suppose. J'ai juste peur de ne pas être assez vulnérable, tu sais?"
 
 # game/code/Book-1/Chapter-7c/s05.rpy:104
 translate french b1c07cs05_c76a2026:
@@ -104,7 +104,7 @@ translate french b1c07cs05_c84f69ca:
 translate french b1c07cs05_d33098bf:
 
     # mct "How am I gonna convince her to get a tattoo if she's so anxious?"
-    mct "Comment je vais la convaincre de se faire tatouer si elle est aussi anxieuse ?"
+    mct "Comment je vais la convaincre de se faire tatouer si elle est aussi anxieuse?"
 
 # game/code/Book-1/Chapter-7c/s05.rpy:113
 translate french b1c07cs05_685c5e08:
@@ -122,7 +122,7 @@ translate french b1c07cs05_3ac0053d:
 translate french b1c07cs05_dec3a679:
 
     # nv "We're here for you though, Lumi!"
-    nv "On est là pour toi, Lumi !"
+    nv "On est là pour toi, Lumi!"
 
 # game/code/Book-1/Chapter-7c/s05.rpy:122
 translate french b1c07cs05_98910beb:
@@ -224,7 +224,7 @@ translate french b1c07cs05_302f8b38:
 translate french b1c07cs05_6c07f969:
 
     # ll "What if someone walks in here? Won't they see us?"
-    ll "Et si quelqu'un entre ici ? Ils ne nous verront pas ?"
+    ll "Et si quelqu'un entre ici? Ils ne nous verront pas?"
 
 # game/code/Book-1/Chapter-7c/s05.rpy:180
 translate french b1c07cs05_76445abc:
@@ -326,19 +326,19 @@ translate french b1c07cs05_fccb4517:
 translate french b1c07cs05_ba4aa7a4:
 
     # ij "Very good, Lumi! I know how difficult new experiences can be sometimes. But doesn't this feel good?"
-    ij "Très bien, Lumi ! Je sais à quel point les nouvelles expériences peuvent être difficiles parfois. Mais est-ce que ça ne fait pas du bien ?"
+    ij "Très bien, Lumi! Je sais à quel point les nouvelles expériences peuvent être difficiles parfois. Mais est-ce que ça ne fait pas du bien?"
 
 # game/code/Book-1/Chapter-7c/s05.rpy:236
 translate french b1c07cs05_c8800538:
 
     # ll "It does! I feel so light and free! I can feel myself connecting with my own body and everything around me!"
-    ll "Oui, je me sens tellement légère et libre ! Je sens que je me connecte à mon propre corps et à tout ce qui m'entoure !"
+    ll "Oui, je me sens tellement légère et libre! Je sens que je me connecte à mon propre corps et à tout ce qui m'entoure!"
 
 # game/code/Book-1/Chapter-7c/s05.rpy:239
 translate french b1c07cs05_7f7f1e4c:
 
     # ll "Nia, you gotta try this! It's so fun!"
-    ll "Nia, tu dois essayer ça ! C'est trop fun !"
+    ll "Nia, tu dois essayer ça! C'est trop fun!"
 
 # game/code/Book-1/Chapter-7c/s05.rpy:245
 translate french b1c07cs05_cd9a160a:
@@ -362,13 +362,13 @@ translate french b1c07cs05_aaaeba6c:
 translate french b1c07cs05_4bdc5aa0:
 
     # mct "Shit!"
-    mct "Merde !"
+    mct "Merde!"
 
 # game/code/Book-1/Chapter-7c/s05.rpy:267
 translate french b1c07cs05_0bb9ffac:
 
     # dk "What's wrong? Do you feel an {i}ache{/i} for all the attractive women you're surrounded by?"
-    dk "Qu'est-ce qui ne va pas ? Tu ressens une {i}douleur{/i} pour toutes les femmes attirantes qui t'entourent ?"
+    dk "Qu'est-ce qui ne va pas? Tu ressens une {i}douleur{/i} pour toutes les femmes attirantes qui t'entourent?"
 
 # game/code/Book-1/Chapter-7c/s05.rpy:269
 translate french b1c07cs05_65325ac6:
@@ -392,7 +392,7 @@ translate french b1c07cs05_848789eb:
 translate french b1c07cs05_f60d50fe:
 
     # dk "It's completely natural to be aroused by all the beautiful women you're around, isn't it?"
-    dk "C'est tout à fait naturel d'être excité par toutes les belles femmes autour de toi, non ?"
+    dk "C'est tout à fait naturel d'être excité par toutes les belles femmes autour de toi, non?"
 
 # game/code/Book-1/Chapter-7c/s05.rpy:279
 translate french b1c07cs05_76158505:
@@ -404,7 +404,7 @@ translate french b1c07cs05_76158505:
 translate french b1c07cs05_d0185c13:
 
     # dk "Ladies, do you feel uncomfortable?"
-    dk "Mesdames, vous vous sentez mal à l'aise ?"
+    dk "Mesdames, vous vous sentez mal à l'aise?"
 
 # game/code/Book-1/Chapter-7c/s05.rpy:285
 translate french b1c07cs05_03dcccd7:
@@ -428,7 +428,7 @@ translate french b1c07cs05_43f8155e:
 translate french b1c07cs05_7e31cfa4:
 
     # dk "See? No one's uncomfortable."
-    dk "Tu vois ? Personne n'est mal à l'aise."
+    dk "Tu vois? Personne n'est mal à l'aise."
 
 # game/code/Book-1/Chapter-7c/s05.rpy:304
 translate french b1c07cs05_9f6f5919:
@@ -440,7 +440,7 @@ translate french b1c07cs05_9f6f5919:
 translate french b1c07cs05_94a09ac5:
 
     # mc "Ouch!"
-    mc "Aïe !"
+    mc "Aïe!"
 
 # game/code/Book-1/Chapter-7c/s05.rpy:312
 translate french b1c07cs05_cb00d17c:
@@ -458,7 +458,7 @@ translate french b1c07cs05_1784f5ec:
 translate french b1c07cs05_6a0f4720:
 
     # ij "This is about freedom and comfort. What truer way to be free than to let your body express itself?"
-    ij "C'est une question de liberté et de confort. Quelle meilleure manière d'être libre que de laisser ton corps s'exprimer ?"
+    ij "C'est une question de liberté et de confort. Quelle meilleure manière d'être libre que de laisser ton corps s'exprimer?"
 
 # game/code/Book-1/Chapter-7c/s05.rpy:320
 translate french b1c07cs05_094d0a03:
@@ -476,7 +476,7 @@ translate french b1c07cs05_4365b0d3:
 translate french b1c07cs05_11b22f76:
 
     # ij "No. They'd have said something if they were uncomfortable, right?"
-    ij "Non. Ils auraient dit quelque chose si ça les dérangeait, non ?"
+    ij "Non. Ils auraient dit quelque chose si ça les dérangeait, non?"
 
 # game/code/Book-1/Chapter-7c/s05.rpy:328
 translate french b1c07cs05_acc26762:
@@ -494,7 +494,7 @@ translate french b1c07cs05_72459794:
 translate french b1c07cs05_990c1bd2:
 
     # ij "See? It's all good."
-    ij "Tu vois ? Tout va bien."
+    ij "Tu vois? Tout va bien."
 
 # game/code/Book-1/Chapter-7c/s05.rpy:338
 translate french b1c07cs05_e3d0ac26:
@@ -560,13 +560,13 @@ translate french b1c07cs05_d338f21b:
 translate french b1c07cs05_e4cb0d61:
 
     # mct "Does Irene have a...boner?"
-    mct "Irene a... une érection ?"
+    mct "Irene a... une érection?"
 
 # game/code/Book-1/Chapter-7c/s05.rpy:383
 translate french b1c07cs05_b547085b:
 
     # dk "You ready to give them a show?"
-    dk "Prêt à leur donner un spectacle ?"
+    dk "Prêt à leur donner un spectacle?"
 
 # game/code/Book-1/Chapter-7c/s05.rpy:386
 translate french b1c07cs05_b60820d1:
@@ -602,7 +602,7 @@ translate french b1c07cs05_d99185a3:
 translate french b1c07cs05_8443ec78:
 
     # mct "Does she mean she was born with it and feels lucky to be intersex? Or is she delusional enough to think that a higher power gave her a dick later in life?"
-    mct "Veut-elle dire qu'elle est née avec et se sent chanceuse d'être intersexe ? Ou est-elle assez délirante pour penser qu'une puissance supérieure lui a donné un sexe plus tard dans sa vie ?"
+    mct "Veut-elle dire qu'elle est née avec et se sent chanceuse d'être intersexe? Ou est-elle assez délirante pour penser qu'une puissance supérieure lui a donné un sexe plus tard dans sa vie?"
 
 # game/code/Book-1/Chapter-7c/s05.rpy:407
 translate french b1c07cs05_c9ca13cb:
@@ -620,7 +620,7 @@ translate french b1c07cs05_9bfcd76c:
 translate french b1c07cs05_b2626344:
 
     # ll "We accept you, Irene! I believe you!"
-    ll "Nous t'acceptons, Irene ! Je te crois !"
+    ll "Nous t'acceptons, Irene! Je te crois!"
 
 # game/code/Book-1/Chapter-7c/s05.rpy:418
 translate french b1c07cs05_79d70739:
@@ -668,13 +668,13 @@ translate french b1c07cs05_a5041a91:
 translate french b1c07cs05_a6172b6e:
 
     # ll "It makes me want to dance! To embrace my newfound freedom and connection!"
-    ll "Cela me donne envie de danser ! De célébrer ma nouvelle liberté et ma connexion !"
+    ll "Cela me donne envie de danser! De célébrer ma nouvelle liberté et ma connexion!"
 
 # game/code/Book-1/Chapter-7c/s05.rpy:466
 translate french b1c07cs05_e09adba6:
 
     # ll "Nia, dance with me!"
-    ll "Nia, danse avec moi !"
+    ll "Nia, danse avec moi!"
 
 # game/code/Book-1/Chapter-7c/s05.rpy:469
 translate french b1c07cs05_8d6757a2:
@@ -686,7 +686,7 @@ translate french b1c07cs05_8d6757a2:
 translate french b1c07cs05_851495af:
 
     # ll "Will you dance with me, then?"
-    ll "Tu veux danser avec moi, alors ?"
+    ll "Tu veux danser avec moi, alors?"
 
 # game/code/Book-1/Chapter-7c/s05.rpy:473
 translate french b1c07cs05_8bb2dd9b:
@@ -704,19 +704,19 @@ translate french b1c07cs05_32bef39a:
 translate french b1c07cs05_59cede71:
 
     # ll "Are you having fun?"
-    ll "Tu t'amuses ?"
+    ll "Tu t'amuses?"
 
 # game/code/Book-1/Chapter-7c/s05.rpy:483
 translate french b1c07cs05_ac24d5f2:
 
     # mc "Of course. Are you? You seemed nervous at first."
-    mc "Bien sûr. Et toi ? Tu avais l'air nerveuse au début."
+    mc "Bien sûr. Et toi? Tu avais l'air nerveuse au début."
 
 # game/code/Book-1/Chapter-7c/s05.rpy:486
 translate french b1c07cs05_98de8e40:
 
     # ll "I am! I was pretty nervous at first, but Irene and Delphia really inspired me. They're both such great Guides."
-    ll "Je le suis ! J'étais assez nerveuse au début, mais Irene et Delphia m'ont vraiment inspirée. Elles sont toutes les deux de super Guides."
+    ll "Je le suis! J'étais assez nerveuse au début, mais Irene et Delphia m'ont vraiment inspirée. Elles sont toutes les deux de super Guides."
 
 # game/code/Book-1/Chapter-7c/s05.rpy:491
 translate french b1c07cs05_c5538393:
@@ -746,7 +746,7 @@ translate french b1c07cs05_5358708f:
 translate french b1c07cs05_fc476172:
 
     # ll "I love that idea! Cause you're right, I struggle a lot with opening up. I've been told that I can be kind of annoying sometimes."
-    ll "J'adore cette idée ! Parce que tu as raison, j'ai du mal à m'ouvrir. On m'a dit que je pouvais être un peu agaçante parfois."
+    ll "J'adore cette idée! Parce que tu as raison, j'ai du mal à m'ouvrir. On m'a dit que je pouvais être un peu agaçante parfois."
 
 # game/code/Book-1/Chapter-7c/s05.rpy:507
 translate french b1c07cs05_eff6b1bf:
@@ -800,7 +800,7 @@ translate french b1c07cs05_72c2ee1c:
 translate french b1c07cs05_01e577c2:
 
     # mc "Busy day?"
-    mc "Journée bien remplie ?"
+    mc "Journée bien remplie?"
 
 # game/code/Book-1/Chapter-7c/s05.rpy:538
 translate french b1c07cs05_aed9ee40:
@@ -812,7 +812,7 @@ translate french b1c07cs05_aed9ee40:
 translate french b1c07cs05_dea30ec0:
 
     # nv "Del, do you have any more exercises for me? My next class isn't super soon, but I do want enough time to get some lunch."
-    nv "Del, tu as d'autres exercices pour moi ? Mon prochain cours n'est pas tout de suite, mais j'aimerais avoir assez de temps pour déjeuner."
+    nv "Del, tu as d'autres exercices pour moi? Mon prochain cours n'est pas tout de suite, mais j'aimerais avoir assez de temps pour déjeuner."
 
 # game/code/Book-1/Chapter-7c/s05.rpy:545
 translate french b1c07cs05_e3110cb4:
@@ -842,20 +842,19 @@ translate french b1c07cs05_365c3ba0:
 translate french b1c07cs05_8693503b:
 
     # mct "Again?"
-    mct "Encore ?"
+    mct "Encore?"
 
 # game/code/Book-1/Chapter-7c/s05.rpy:560
 translate french b1c07cs05_2de9758c:
 
     # dk "Irene, will you see these wonderful ladies out? I'd like some alone time with our boy."
-    dk "Irene, tu veux raccompagner ces merveilleuses dames ? J'aimerais passer un moment seul avec notre garçon."
+    dk "Irene, tu veux raccompagner ces merveilleuses dames? J'aimerais passer un moment seul avec notre garçon."
 
 # game/code/Book-1/Chapter-7c/s05.rpy:564
 translate french b1c07cs05_ea2f28e8:
 
     # ij "Sure, Del."
-    ij "Bien
-
+    ij "Bien, Del."
 
 # game/code/Book-1/Chapter-7c/s05.rpy:567
 translate french b1c07cs05_fb81053b:
@@ -867,7 +866,7 @@ translate french b1c07cs05_fb81053b:
 translate french b1c07cs05_a9481f62:
 
     # ll "Bye, [mcname]!"
-    ll "Au revoir, [mcname] !"
+    ll "Au revoir, [mcname]!"
 
 # game/code/Book-1/Chapter-7c/s05.rpy:573
 translate french b1c07cs05_c494303d:

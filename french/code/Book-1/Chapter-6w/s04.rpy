@@ -1,12 +1,12 @@
 # game/code/Book-1/Chapter-6w/s04.rpy:17
 translate french b1c06ws04_d3992207:
     # sm "You did fantastic!"
-    sm "Tu as fait un super travail !"
+    sm "Tu as fait un super travail!"
 
 # game/code/Book-1/Chapter-6w/s04.rpy:21
 translate french b1c06ws04_ec2b0174:
     # mc "Really? We got whipped. We didn't win."
-    mc "Vraiment ? On s'est fait écraser. On n'a pas gagné."
+    mc "Vraiment? On s'est fait écraser. On n'a pas gagné."
 
 # game/code/Book-1/Chapter-6w/s04.rpy:25
 translate french b1c06ws04_6985cfb6:
@@ -41,7 +41,7 @@ translate french b1c06ws04_2f993ac7:
 # game/code/Book-1/Chapter-6w/s04.rpy:40
 translate french b1c06ws04_061b4b6e:
     # sm "So...why don't you come in? Brig throws the best victory parties. She loves to gloat."
-    sm "Alors... pourquoi tu ne viens pas ? Brig fait les meilleures fêtes de victoire. Elle adore se vanter."
+    sm "Alors... pourquoi tu ne viens pas? Brig fait les meilleures fêtes de victoire. Elle adore se vanter."
 
 # game/code/Book-1/Chapter-6w/s04.rpy:42
 translate french b1c06ws04_34af8967:
@@ -56,7 +56,7 @@ translate french b1c06ws04_012952be:
 # game/code/Book-1/Chapter-6w/s04.rpy:73
 translate french b1c06ws04_c0ab5045:
     # ba "What are you doing, Silvia? You know the rules."
-    ba "Que fais-tu, Silvia ? Tu connais les règles."
+    ba "Que fais-tu, Silvia? Tu connais les règles."
 
 # game/code/Book-1/Chapter-6w/s04.rpy:75
 translate french b1c06ws04_d57f026a:
@@ -81,7 +81,7 @@ translate french b1c06ws04_6a9f906d:
 # game/code/Book-1/Chapter-6w/s04.rpy:85
 translate french b1c06ws04_c3d3282c:
     # mc "Well, what do I need to do?"
-    mc "Eh bien, qu'est-ce que je dois faire ?"
+    mc "Eh bien, qu'est-ce que je dois faire?"
 
 # game/code/Book-1/Chapter-6w/s04.rpy:88
 translate french b1c06ws04_ae5e57dc:
@@ -96,7 +96,7 @@ translate french b1c06ws04_a1f3456f:
 # game/code/Book-1/Chapter-6w/s04.rpy:92
 translate french b1c06ws04_24b3caa6:
     # ir "Brigitta, stop being that way. He can join!"
-    ir "Brigitta, arrête de te comporter comme ça. Il peut rejoindre !"
+    ir "Brigitta, arrête de te comporter comme ça. Il peut rejoindre!"
 
 # game/code/Book-1/Chapter-6w/s04.rpy:95
 translate french b1c06ws04_5d7abd3e:
@@ -111,7 +111,7 @@ translate french b1c06ws04_ef0a05dd:
 # game/code/Book-1/Chapter-6w/s04.rpy:99
 translate french b1c06ws04_80dd6dec:
     # ima "What are you thinking, inviting him here?"
-    ima "Qu'est-ce que tu penses, l'invitant ici ?"
+    ima "Qu'est-ce que tu penses, l'invitant ici?"
 
 # game/code/Book-1/Chapter-6w/s04.rpy:102
 translate french b1c06ws04_07b122b5:
@@ -121,7 +121,7 @@ translate french b1c06ws04_07b122b5:
 # game/code/Book-1/Chapter-6w/s04.rpy:105
 translate french b1c06ws04_afb70aac:
     # sm "That's uncalled for. He's not random! He's a part of our team."
-    sm "C'est déplacé. Il n'est pas n'importe qui ! Il fait partie de notre équipe."
+    sm "C'est déplacé. Il n'est pas n'importe qui! Il fait partie de notre équipe."
 
 # game/code/Book-1/Chapter-6w/s04.rpy:108
 translate french b1c06ws04_49429314:
@@ -151,12 +151,12 @@ translate french b1c06ws04_0bfd0dca:
 # game/code/Book-1/Chapter-6w/s04.rpy:119
 translate french b1c06ws04_7e8d0b70:
     # mc "What do you mean ruin it?"
-    mc "Que veux-tu dire par 'le gâcher' ?"
+    mc "Que veux-tu dire par 'le gâcher'?"
 
 # game/code/Book-1/Chapter-6w/s04.rpy:122
 translate french b1c06ws04_b9f5ade4:
     # ba "You didn't explain to him, did you?"
-    ba "Tu ne lui as pas expliqué, n'est-ce pas ?"
+    ba "Tu ne lui as pas expliqué, n'est-ce pas?"
 
 # game/code/Book-1/Chapter-6w/s04.rpy:128
 translate french b1c06ws04_49bbbe75:
@@ -186,7 +186,7 @@ translate french b1c06ws04_d82ac828:
 # game/code/Book-1/Chapter-6w/s04.rpy:150
 translate french b1c06ws04_f2d03612:
     # mc "No! No. Silvia, listen to me."
-    mc "Non ! Non. Silvia, écoute-moi."
+    mc "Non! Non. Silvia, écoute-moi."
 
 # game/code/Book-1/Chapter-6w/s04.rpy:153
 translate french b1c06ws04_4964c833:
@@ -206,7 +206,7 @@ translate french b1c06ws04_16854831:
 # game/code/Book-1/Chapter-6w/s04.rpy:157
 translate french b1c06ws04_16701e81:
     # mc "But you? You didn't deserve that at all."
-    mc "Mais toi ? Tu ne méritais pas ça du tout."
+    mc "Mais toi? Tu ne méritais pas ça du tout."
 
 # game/code/Book-1/Chapter-6w/s04.rpy:160
 translate french b1c06ws04_b135b9ed:
@@ -246,7 +246,7 @@ translate french b1c06ws04_d4b48b87:
 # game/code/Book-1/Chapter-6w/s04.rpy:177
 translate french b1c06ws04_9bed599f:
     # sm "That's not fair! They're not {i}bitches{/i}..."
-    sm "Ce n'est pas juste ! Ce ne sont pas des {i}salope{/i}..."
+    sm "Ce n'est pas juste! Ce ne sont pas des {i}salope{/i}..."
 
 # game/code/Book-1/Chapter-6w/s04.rpy:178
 translate french b1c06ws04_b00fe6d9:
@@ -266,7 +266,7 @@ translate french b1c06ws04_a82e9960:
 # game/code/Book-1/Chapter-6w/s04.rpy:192
 translate french b1c06ws04_7a9a4d21:
     # sm "I...what?"
-    sm "Je... quoi ?"
+    sm "Je... quoi?"
 
 # game/code/Book-1/Chapter-6w/s04.rpy:195
 translate french b1c06ws04_91c667ce:
@@ -346,12 +346,12 @@ translate french b1c06ws04_ec19682d:
 # game/code/Book-1/Chapter-6w/s04.rpy:233
 translate french b1c06ws04_e5bbbc2b:
     # mc "Is it something I did wrong?"
-    mc "Est-ce que j'ai fait quelque chose de mal ?"
+    mc "Est-ce que j'ai fait quelque chose de mal?"
 
 # game/code/Book-1/Chapter-6w/s04.rpy:235
 translate french b1c06ws04_cc2eef2a:
     # sm "No! No, it's just the way things are here."
-    sm "Non ! Non, c'est juste comme ça ici."
+    sm "Non! Non, c'est juste comme ça ici."
 
 # game/code/Book-1/Chapter-6w/s04.rpy:236
 translate french b1c06ws04_88335711_2:
@@ -391,7 +391,7 @@ translate french b1c06ws04_216f6332:
 # game/code/Book-1/Chapter-6w/s04.rpy:253
 translate french b1c06ws04_9a9e96d2:
     # sm "You will be! I promise. Iona and Olesya like you fine."
-    sm "Tu le seras ! Je te le promets. Iona et Olesya t'aiment bien."
+    sm "Tu le seras! Je te le promets. Iona et Olesya t'aiment bien."
 
 # game/code/Book-1/Chapter-6w/s04.rpy:254
 translate french b1c06ws04_5c2ebc47:
@@ -441,12 +441,12 @@ translate french b1c06ws04_28d83047:
 # game/code/Book-1/Chapter-6w/s04.rpy:284
 translate french b1c06ws04_1c4da4c3:
     # mc "Oh! Hello."
-    mc "Oh ! Salut."
+    mc "Oh! Salut."
 
 # game/code/Book-1/Chapter-6w/s04.rpy:285
 translate french b1c06ws04_9b48fadb:
     # mc "...Don't think I've seen you around before. You here for the party?"
-    mc "...Je ne crois pas t'avoir vue ici avant. Tu es là pour la fête ?"
+    mc "...Je ne crois pas t'avoir vue ici avant. Tu es là pour la fête?"
 
 # game/code/Book-1/Chapter-6w/s04.rpy:288
 translate french b1c06ws04_2b6f07a7:
@@ -466,7 +466,7 @@ translate french b1c06ws04_f82b7758:
 # game/code/Book-1/Chapter-6w/s04.rpy:296
 translate french b1c06ws04_035b99bd:
     # sdl "You want in that mansion, dontcha?"
-    sdl "Tu veux entrer dans ce manoir, hein ?"
+    sdl "Tu veux entrer dans ce manoir, hein?"
 
 # game/code/Book-1/Chapter-6w/s04.rpy:297
 translate french b1c06ws04_576b3e33:
@@ -476,7 +476,7 @@ translate french b1c06ws04_576b3e33:
 # game/code/Book-1/Chapter-6w/s04.rpy:300
 translate french b1c06ws04_fe2a6f3a:
     # mc "Uh...so who are you, exactly? How are you involved with the Club?"
-    mc "Euh...alors, qui es-tu exactement ? Comment es-tu impliquée dans le club ?"
+    mc "Euh...alors, qui es-tu exactement? Comment es-tu impliquée dans le club?"
 
 # game/code/Book-1/Chapter-6w/s04.rpy:303
 translate french b1c06ws04_a31e1424:
@@ -486,7 +486,7 @@ translate french b1c06ws04_a31e1424:
 # game/code/Book-1/Chapter-6w/s04.rpy:304
 translate french b1c06ws04_52d3c81b:
     # mct "Did she just sniff me?"
-    mct "Elle vient de me renifler ?"
+    mct "Elle vient de me renifler?"
 
 # game/code/Book-1/Chapter-6w/s04.rpy:306
 translate french b1c06ws04_9c55aa6c:
@@ -531,7 +531,7 @@ translate french b1c06ws04_continue_cadea0df:
 # game/code/Book-1/Chapter-6w/s04.rpy:354
 translate french b1c06ws04_continue_d0a978f2:
     # mc "Someone kicked you out?"
-    mc "Quelqu'un t'a expulsée ?"
+    mc "Quelqu'un t'a expulsée?"
 
 # game/code/Book-1/Chapter-6w/s04.rpy:357
 translate french b1c06ws04_continue_b3cbe621:
@@ -586,7 +586,7 @@ translate french b1c06ws04_continue_e7573090:
 # game/code/Book-1/Chapter-6w/s04.rpy:375
 translate french b1c06ws04_continue_bb01ceb4:
     # sdl "You're hungry to prove yourself, aren't you?"
-    sdl "Tu as faim de prouver ta valeur, n'est-ce pas ?"
+    sdl "Tu as faim de prouver ta valeur, n'est-ce pas?"
 
 # game/code/Book-1/Chapter-6w/s04.rpy:376
 translate french b1c06ws04_continue_8ce3291b:
@@ -606,7 +606,7 @@ translate french b1c06ws04_continue_59058822:
 # game/code/Book-1/Chapter-6w/s04.rpy:382
 translate french b1c06ws04_continue_fba1b472:
     # sdl "Anything?"
-    sdl "N'importe quoi ?"
+    sdl "N'importe quoi?"
 
 # game/code/Book-1/Chapter-6w/s04.rpy:384
 translate french b1c06ws04_continue_762ead47:
@@ -621,17 +621,17 @@ translate french b1c06ws04_continue_4799845f:
 # game/code/Book-1/Chapter-6w/s04.rpy:396
 translate french b1c06ws04_continue_39c85533:
     # sdl "So you really don't know how to rise through the ranks, do you?"
-    sdl "Alors tu ne sais vraiment pas comment gravir les échelons, n'est-ce pas ?"
+    sdl "Alors tu ne sais vraiment pas comment gravir les échelons, n'est-ce pas?"
 
 # game/code/Book-1/Chapter-6w/s04.rpy:398
 translate french b1c06ws04_continue_c321fae0:
     # mc "I mean, it'll just take a little time, right? I'm sure as long as I do good on the team and socialize where they let me—"
-    mc "Je veux dire, ça prendra juste un peu de temps, non ? Je suis sûr qu'en faisant bien mon travail dans l'équipe et en socialisant là où ils me laissent—"
+    mc "Je veux dire, ça prendra juste un peu de temps, non? Je suis sûr qu'en faisant bien mon travail dans l'équipe et en socialisant là où ils me laissent—"
 
 # game/code/Book-1/Chapter-6w/s04.rpy:407
 translate french b1c06ws04_continue_14ddfa01:
     # sdl "Hah! You sweet innocent soul."
-    sdl "Hah ! Toi, pauvre âme innocente."
+    sdl "Hah! Toi, pauvre âme innocente."
 
 # game/code/Book-1/Chapter-6w/s04.rpy:408
 translate french b1c06ws04_continue_3978eaf5:
@@ -651,7 +651,7 @@ translate french b1c06ws04_continue_cb0b3435:
 # game/code/Book-1/Chapter-6w/s04.rpy:421
 translate french b1c06ws04_continue_8d4a0d8a:
     # mc "And how can I trust you?"
-    mc "Et comment puis-je te faire confiance ?"
+    mc "Et comment puis-je te faire confiance?"
 
 # game/code/Book-1/Chapter-6w/s04.rpy:424
 translate french b1c06ws04_continue_0b678737:
@@ -736,7 +736,7 @@ translate french b1c06ws04_continue_c5025ad5:
 # game/code/Book-1/Chapter-6w/s04.rpy:459
 translate french b1c06ws04_continue_f9fa9504:
     # mc "*clears throat* Okay, so what now? I'll hear you out, if you can prove you know as much as you say."
-    mc "*se raclant la gorge* D'accord, et maintenant ? Je t'écoute, si tu peux prouver que tu sais autant que tu dis."
+    mc "*se raclant la gorge* D'accord, et maintenant? Je t'écoute, si tu peux prouver que tu sais autant que tu dis."
 
 # game/code/Book-1/Chapter-6w/s04.rpy:462
 translate french b1c06ws04_continue_c2f8834d:
@@ -756,7 +756,7 @@ translate french b1c06ws04_continue_3e6ac6a5:
 # game/code/Book-1/Chapter-6w/s04.rpy:469
 translate french b1c06ws04_continue_a12a2276:
     # mc "Your dorm?"
-    mc "Ta chambre ?"
+    mc "Ta chambre?"
 
 # game/code/Book-1/Chapter-6w/s04.rpy:472
 translate french b1c06ws04_continue_2da78cdf:
@@ -766,7 +766,7 @@ translate french b1c06ws04_continue_2da78cdf:
 # game/code/Book-1/Chapter-6w/s04.rpy:475
 translate french b1c06ws04_continue_39f12975:
     # mc "How do you know about that?"
-    mc "Comment tu sais ça ?"
+    mc "Comment tu sais ça?"
 
 # game/code/Book-1/Chapter-6w/s04.rpy:478
 translate french b1c06ws04_continue_b453c994:
@@ -786,7 +786,7 @@ translate french b1c06ws04_continue_e0a774aa:
 # game/code/Book-1/Chapter-6w/s04.rpy:486
 translate french b1c06ws04_continue_63eec62e:
     # mc "And what do you know, exactly?"
-    mc "Et qu'est-ce que tu sais exactement ?"
+    mc "Et qu'est-ce que tu sais exactement?"
 
 # game/code/Book-1/Chapter-6w/s04.rpy:489
 translate french b1c06ws04_continue_665f768b:
@@ -803,20 +803,21 @@ translate french b1c06ws04_continue_97b5c76b:
     # mct "She's diabolical. I'll need to be extra careful about my true identity around her."
     mct "Elle est diabolique. Je devrai être particulièrement prudent avec ma véritable identité près d'elle."
 
-# Translation strings update:
+translate french strings:
 
-# game/code/Book-1/Chapter-6w/s04.rpy:142
+    # game/code/Book-1/Chapter-6w/s04.rpy:142
     old "Advocate for Silvia"
     new "Plaider pour Silvia"
 
-# game/code/Book-1/Chapter-6w/s04.rpy:142
+    # game/code/Book-1/Chapter-6w/s04.rpy:142
     old "Crack a joke"
     new "Faire une blague"
 
-# game/code/Book-1/Chapter-6w/s04.rpy:142
+    # game/code/Book-1/Chapter-6w/s04.rpy:142
     old "Be authentic with Silvia"
     new "Sois authentique avec Silvia"
 
-# game/code/Book-1/Chapter-6w/s04.rpy:308
+    # game/code/Book-1/Chapter-6w/s04.rpy:308
     old "Remember about Sam"
     new "Souviens-toi de Sam"
+

@@ -32,19 +32,19 @@ translate french b1c07cs09_656db40b:
 translate french b1c07cs09_3195d119:
 
     # mct "Maybe there's a lever or button or something?"
-    mct "Peut-être qu'il y a un levier ou un bouton ou quelque chose ?"
+    mct "Peut-être qu'il y a un levier ou un bouton ou quelque chose?"
 
 # game/code/Book-1/Chapter-7c/s09.rpy:62
 translate french b1c07cs09_79751b6d:
 
     # mct "Damn. There's gotta be something. Maybe behind some of the books?"
-    mct "Merde. Il doit y avoir quelque chose. Peut-être derrière certains livres ?"
+    mct "Merde. Il doit y avoir quelque chose. Peut-être derrière certains livres?"
 
 # game/code/Book-1/Chapter-7c/s09.rpy:68
 translate french b1c07cs09_a69a16d6:
 
     # ij "What are you doing?"
-    ij "Que fais-tu ?"
+    ij "Que fais-tu?"
 
 # game/code/Book-1/Chapter-7c/s09.rpy:71
 translate french b1c07cs09_ead4a05f:
@@ -56,7 +56,7 @@ translate french b1c07cs09_ead4a05f:
 translate french b1c07cs09_6b282be7:
 
     # mct "Shit shit! I need an excuse, I need—"
-    mct "Merde merde ! J'ai besoin d'une excuse, j'ai besoin—"
+    mct "Merde merde! J'ai besoin d'une excuse, j'ai besoin—"
 
 # game/code/Book-1/Chapter-7c/s09.rpy:80
 translate french b1c07cs09_3813be3e:
@@ -74,7 +74,7 @@ translate french b1c07cs09_a05f146d:
 translate french b1c07cs09_4977dad7:
 
     # ij "Couldn't wait until tomorrow, huh?"
-    ij "Tu ne pouvais pas attendre jusqu'à demain, hein ?"
+    ij "Tu ne pouvais pas attendre jusqu'à demain, hein?"
 
 # game/code/Book-1/Chapter-7c/s09.rpy:87
 translate french b1c07cs09_36b1277b:
@@ -104,7 +104,7 @@ translate french b1c07cs09_f862b06f:
 translate french b1c07cs09_9fef99c4:
 
     # ij "Oh? How'd you know I'd be here?"
-    ij "Oh ? Comment savais-tu que je serais ici ?"
+    ij "Oh? Comment savais-tu que je serais ici?"
 
 # game/code/Book-1/Chapter-7c/s09.rpy:113
 translate french b1c07cs09_d4bcf7bc:
@@ -122,7 +122,7 @@ translate french b1c07cs09_93b3762b:
 translate french b1c07cs09_ca9c92ab:
 
     # ij "R-really? You thought I was...attractive?"
-    ij "V-vraiment ? Tu pensais que j'étais...attirante ?"
+    ij "V-vraiment? Tu pensais que j'étais...attirante?"
 
 # game/code/Book-1/Chapter-7c/s09.rpy:121
 translate french b1c07cs09_0cb6bab7:
@@ -182,7 +182,7 @@ translate french b1c07cs09_023d0ec7:
 translate french b1c07cs09_c1a48133:
 
     # mc "What even is this place?"
-    mc "C'est quoi cet endroit ?"
+    mc "C'est quoi cet endroit?"
 
 # game/code/Book-1/Chapter-7c/s09.rpy:160
 translate french b1c07cs09_67df22ad:
@@ -206,7 +206,7 @@ translate french b1c07cs09_e9f9fe94:
 translate french b1c07cs09_d77ebd01:
 
     # ij "Don't tell anyone I told you about it, though. It's for faculty members only."
-    ij "Ne dis à personne que je t'en ai parlé, d'accord ? C'est réservé aux membres du corps enseignant."
+    ij "Ne dis à personne que je t'en ai parlé, d'accord? C'est réservé aux membres du corps enseignant."
 
 # game/code/Book-1/Chapter-7c/s09.rpy:168
 translate french b1c07cs09_e768c828:
@@ -230,7 +230,7 @@ translate french b1c07cs09_43055936:
 translate french b1c07cs09_2429ca71:
 
     # mc "Whoa, what is this place?"
-    mc "Whoa, c'est quoi cet endroit ?"
+    mc "Whoa, c'est quoi cet endroit?"
 
 # game/code/Book-1/Chapter-7c/s09.rpy:178
 translate french b1c07cs09_765a693a:
@@ -254,7 +254,7 @@ translate french b1c07cs09_c3a02aa3:
 translate french b1c07cs09_cf0c69f0:
 
     # ij "Do you want to go further with me?"
-    ij "Tu veux aller plus loin avec moi ?"
+    ij "Tu veux aller plus loin avec moi?"
 
 # game/code/Book-1/Chapter-7c/s09.rpy:216
 translate french b1c07cs09_choice_83e8e833:
@@ -284,13 +284,13 @@ translate french b1c07cs09_choice_3656a527:
 translate french b1c07cs09_choice_e4da19c9:
 
     # ij "Yeah, no worries. The basement's a little spooky at night with no one else around anyway, yeah? Don't worry about it."
-    ij "Ouais, pas de soucis. De toute façon, le sous-sol est un peu effrayant la nuit quand il n'y a personne d'autre, n'est-ce pas ? Ne t'inquiète pas pour ça."
+    ij "Ouais, pas de soucis. De toute façon, le sous-sol est un peu effrayant la nuit quand il n'y a personne d'autre, n'est-ce pas? Ne t'inquiète pas pour ça."
 
 # game/code/Book-1/Chapter-7c/s09.rpy:239
 translate french b1c07cs09_choice_3c195686:
 
     # ij "Remember, don't tell anyone I showed you that, okay? It's kind of for authorized people only."
-    ij "N'oubliez pas, ne dites à personne que je vous ai montré ça, d'accord ? C'est en quelque sorte réservé aux personnes autorisées."
+    ij "N'oubliez pas, ne dites à personne que je vous ai montré ça, d'accord? C'est en quelque sorte réservé aux personnes autorisées."
 
 # game/code/Book-1/Chapter-7c/s09.rpy:240
 translate french b1c07cs09_choice_535fc771:
@@ -392,7 +392,7 @@ translate french b1c07cs09_sex_d0244896:
 translate french b1c07cs09_sex_ad9f151c:
 
     # mc "You feel so fucking good. You like it when I use you like this?"
-    mc "Tu te sens tellement bien. Tu aimes quand je t'utilise comme ça ?"
+    mc "Tu te sens tellement bien. Tu aimes quand je t'utilise comme ça?"
 
 # game/code/Book-1/Chapter-7c/s09.rpy:354
 translate french b1c07cs09_sex_f9555ed3:
@@ -446,7 +446,7 @@ translate french b1c07cs09_sex_3cfb0867:
 translate french b1c07cs09_sex_5ed776e5:
 
     # ij "Harder, please, harder! I want you to give it all to me."
-    ij "Plus fort, s'il te plaît, plus fort ! Je veux que tu me donnes tout."
+    ij "Plus fort, s'il te plaît, plus fort! Je veux que tu me donnes tout."
 
 # game/code/Book-1/Chapter-7c/s09.rpy:402
 translate french b1c07cs09_sex_34605ff5:
@@ -458,7 +458,7 @@ translate french b1c07cs09_sex_34605ff5:
 translate french b1c07cs09_sex_55879844:
 
     # mc "You like that, Irene? You like when I take control of your body like this?"
-    mc "Tu aimes ça, Irène ? Tu aimes quand je prends le contrôle de ton corps comme ça ?"
+    mc "Tu aimes ça, Irène? Tu aimes quand je prends le contrôle de ton corps comme ça?"
 
 # game/code/Book-1/Chapter-7c/s09.rpy:409
 translate french b1c07cs09_sex_4eaaf084:
@@ -470,7 +470,7 @@ translate french b1c07cs09_sex_4eaaf084:
 translate french b1c07cs09_sex_8f9d009c:
 
     # ij "Yes, please! It feels so good when you rub me like that."
-    ij "Oui, s'il te plaît ! C'est si bon quand tu me frottes comme ça."
+    ij "Oui, s'il te plaît! C'est si bon quand tu me frottes comme ça."
 
 # game/code/Book-1/Chapter-7c/s09.rpy:422
 translate french b1c07cs09_sex_3f81601e:
@@ -482,7 +482,7 @@ translate french b1c07cs09_sex_3f81601e:
 translate french b1c07cs09_sex_5b4867af:
 
     # ij "Ohh, it feels so good! Keep going just like that, I'm going to cum!"
-    ij "Ohh, ça fait du bien ! Continue comme ça, je vais jouir !"
+    ij "Ohh, ça fait du bien! Continue comme ça, je vais jouir!"
 
 # game/code/Book-1/Chapter-7c/s09.rpy:426
 translate french b1c07cs09_sex_d8d5fdc4:
@@ -500,7 +500,7 @@ translate french b1c07cs09_sex_6e522b84:
 translate french b1c07cs09_sex_27a22753:
 
     # ij "I'm cumming, I'm cumming!"
-    ij "Je jouis, je jouis !"
+    ij "Je jouis, je jouis!"
 
 # game/code/Book-1/Chapter-7c/s09.rpy:437
 translate french b1c07cs09_sex_1fb9cadb:
@@ -518,7 +518,7 @@ translate french b1c07cs09_sex_184a1690:
 translate french b1c07cs09_sex_6f92c032:
 
     # mc "Just what we needed, right?"
-    mc "Juste ce dont nous avions besoin, n'est-ce pas ?"
+    mc "Juste ce dont nous avions besoin, n'est-ce pas?"
 
 # game/code/Book-1/Chapter-7c/s09.rpy:449
 translate french b1c07cs09_sex_842f8c78:
@@ -536,7 +536,7 @@ translate french b1c07cs09_sex_afea47b4:
 translate french b1c07cs09_sex_d653e7ff:
 
     # ij "I had a wonderful time. I'll see ya around, okay?"
-    ij "J'ai passé un moment merveilleux. À bientôt, d'accord ?"
+    ij "J'ai passé un moment merveilleux. À bientôt, d'accord?"
 
 # game/code/Book-1/Chapter-7c/s09.rpy:474
 translate french b1c07cs09_sex_90db3c57:
@@ -548,7 +548,7 @@ translate french b1c07cs09_sex_90db3c57:
 translate french b1c07cs09_end_7978b93f:
 
     # mct "This is a huge find. Who knows what kind of activities that location is used for? That has to be where Ivy and Andre disappeared to."
-    mct "C'est une découverte énorme. Qui sait à quel genre d'activités cet endroit est utilisé ? C'est sûrement là qu'Ivy et Andre ont disparu."
+    mct "C'est une découverte énorme. Qui sait à quel genre d'activités cet endroit est utilisé? C'est sûrement là qu'Ivy et Andre ont disparu."
 
 # game/code/Book-1/Chapter-7c/s09.rpy:485
 translate french b1c07cs09_end_3896c50a:
@@ -566,7 +566,7 @@ translate french b1c07cs09_end_2690836b:
 translate french b1c07cs09_end_af86ec02:
 
     # mct "I'd better go back to Ezra. Maria might've told her something useful about the secret entrances. Who knows if that's even the only secret on the campus?"
-    mct "Je ferais mieux de retourner auprès d'Ezra. Maria lui a peut-être dit quelque chose d'utile à propos des entrées secrètes. Qui sait si c'est même le seul secret du campus ?"
+    mct "Je ferais mieux de retourner auprès d'Ezra. Maria lui a peut-être dit quelque chose d'utile à propos des entrées secrètes. Qui sait si c'est même le seul secret du campus?"
 
 # game/code/Book-1/Chapter-7c/s09.rpy:492
 translate french b1c07cs09_end_a58d27dc:
@@ -601,3 +601,4 @@ translate french strings:
     # game/code/Book-1/Chapter-7c/s09.rpy:208
     old "Prioritize the investigation"
     new "Donner la priorité à l'enquête"
+

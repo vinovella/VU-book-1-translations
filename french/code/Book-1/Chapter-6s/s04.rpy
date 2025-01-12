@@ -38,7 +38,7 @@ translate french b1c06ss04_continue_9993ab10:
 translate french b1c06ss04_continue_365e8cfe:
 
     # zp "The way I see it, if he can't respect my time, why should I respect his?"
-    zp "Si tu veux mon avis, s'il ne respecte pas mon temps, pourquoi devrais-je respecter le sien ?"
+    zp "Si tu veux mon avis, s'il ne respecte pas mon temps, pourquoi devrais-je respecter le sien?"
 
 # game/code/Book-1/Chapter-6s/s04.rpy:56
 translate french b1c06ss04_continue_e995868d:
@@ -50,7 +50,7 @@ translate french b1c06ss04_continue_e995868d:
 translate french b1c06ss04_continue_eb334c92:
 
     # mc "But don't you still want to attend the class to keep your grades up?"
-    mc "Mais tu ne veux pas aller en cours pour maintenir tes notes ?"
+    mc "Mais tu ne veux pas aller en cours pour maintenir tes notes?"
 
 # game/code/Book-1/Chapter-6s/s04.rpy:61
 translate french b1c06ss04_continue_6734066f:
@@ -62,7 +62,7 @@ translate french b1c06ss04_continue_6734066f:
 translate french b1c06ss04_continue_fcd03f0e:
 
     # zp "You smoke?"
-    zp "Tu fumes ?"
+    zp "Tu fumes?"
 
 # game/code/Book-1/Chapter-6s/s04.rpy:76
 translate french b1c06ss04_continue_d18894e0:
@@ -74,7 +74,7 @@ translate french b1c06ss04_continue_d18894e0:
 translate french b1c06ss04_continue_8aa1b0d1:
 
     # mc "What do you usually do when you skip class?"
-    mc "Qu'est-ce que tu fais d'habitude quand tu sèches les cours ?"
+    mc "Qu'est-ce que tu fais d'habitude quand tu sèches les cours?"
 
 # game/code/Book-1/Chapter-6s/s04.rpy:82
 translate french b1c06ss04_continue_ae20be61:
@@ -86,7 +86,7 @@ translate french b1c06ss04_continue_ae20be61:
 translate french b1c06ss04_continue_4d418ffd:
 
     # mc "*chuckles* You? No way. I took you for more of a busy body personality type."
-    mc "*Rires* Toi ? Pas possible. Je te voyais comme une hyperactive."
+    mc "*Rires* Toi? Pas possible. Je te voyais comme une hyperactive."
 
 # game/code/Book-1/Chapter-6s/s04.rpy:87
 translate french b1c06ss04_continue_42378e59:
@@ -122,13 +122,13 @@ translate french b1c06ss04_continue_640b2f87:
 translate french b1c06ss04_continue_76be844a:
 
     # zp "Have you two met? He's the new guy around here."
-    zp "Vous vous êtes rencontrés ? C'est le nouveau ici."
+    zp "Vous vous êtes rencontrés? C'est le nouveau ici."
 
 # game/code/Book-1/Chapter-6s/s04.rpy:106
 translate french b1c06ss04_continue_7aff4a91:
 
     # mc "I think I saw you in computer class, right?"
-    mc "Je crois t'avoir vue en cours d'informatique, non ?"
+    mc "Je crois t'avoir vue en cours d'informatique, non?"
 
 # game/code/Book-1/Chapter-6s/s04.rpy:109
 translate french b1c06ss04_continue_44f8b254:
@@ -152,7 +152,7 @@ translate french b1c06ss04_continue_3a14c968:
 translate french b1c06ss04_continue_5cb8f295:
 
     # zp "You heading to the dorms?"
-    zp "Tu te diriges vers les dortoirs ?"
+    zp "Tu te diriges vers les dortoirs?"
 
 # game/code/Book-1/Chapter-6s/s04.rpy:122
 translate french b1c06ss04_continue_65add543:
@@ -164,19 +164,19 @@ translate french b1c06ss04_continue_65add543:
 translate french b1c06ss04_continue_95d63ea6:
 
     # mg "Can you validate these matches?"
-    mg "Tu peux valider ces correspondances ?"
+    mg "Tu peux valider ces correspondances?"
 
 # game/code/Book-1/Chapter-6s/s04.rpy:126
 translate french b1c06ss04_continue_d6f46411:
 
     # mct "What does she mean by matches?"
-    mct "Qu'est-ce qu'elle entend par correspondances ?"
+    mct "Qu'est-ce qu'elle entend par correspondances?"
 
 # game/code/Book-1/Chapter-6s/s04.rpy:130
 translate french b1c06ss04_continue_4c6664c8:
 
     # zp "Shh! Keep it down. No need to be so loud."
-    zp "Chut ! Parle moins fort. Pas besoin d'être si bruyant."
+    zp "Chut! Parle moins fort. Pas besoin d'être si bruyant."
 
 # game/code/Book-1/Chapter-6s/s04.rpy:132
 translate french b1c06ss04_continue_f958d349:
@@ -206,7 +206,7 @@ translate french b1c06ss04_continue_8ebdb132:
 translate french b1c06ss04_continue_d55f0e2d:
 
     # mct "What on earth are they talking about? Morgan has {i}opponents{/i}?"
-    mct "De quoi parlent-ils ? Morgan a des {i}adversaires{/i} ?"
+    mct "De quoi parlent-ils? Morgan a des {i}adversaires{/i}?"
 
 # game/code/Book-1/Chapter-6s/s04.rpy:145
 translate french b1c06ss04_continue_a8f88583:
@@ -218,13 +218,13 @@ translate french b1c06ss04_continue_a8f88583:
 translate french b1c06ss04_continue_ea40d6ea:
 
     # mg "What the fuck, Zem? I thought we were cool."
-    mg "C'est quoi ce bordel, Zem ? Je pensais qu'on s'entendait bien."
+    mg "C'est quoi ce bordel, Zem? Je pensais qu'on s'entendait bien."
 
 # game/code/Book-1/Chapter-6s/s04.rpy:151
 translate french b1c06ss04_continue_8e731dd5:
 
     # zp "We are! Look, if you wanna take it up with—"
-    zp "On s'entend bien ! Écoute, si tu veux en parler avec—"
+    zp "On s'entend bien! Écoute, si tu veux en parler avec—"
 
 # game/code/Book-1/Chapter-6s/s04.rpy:154
 translate french b1c06ss04_continue_d6fa515f:
@@ -242,7 +242,7 @@ translate french b1c06ss04_continue_36224ec0:
 translate french b1c06ss04_continue_c7e5818d:
 
     # zp "Morgan, please. Can we talk about this later?"
-    zp "Morgan, s'il te plaît. On peut en parler plus tard ?"
+    zp "Morgan, s'il te plaît. On peut en parler plus tard?"
 
 # game/code/Book-1/Chapter-6s/s04.rpy:161
 translate french b1c06ss04_continue_d2822a58:
@@ -266,7 +266,7 @@ translate french b1c06ss04_continue_abe2b843:
 translate french b1c06ss04_continue_19a53aeb:
 
     # zp "Of course I do, but I can't redeem those matches regardless! Trust me, maybe we can bring this up tonight when—"
-    zp "Bien sûr que je le sais, mais je ne peux pas encaisser ces matchs, quoi qu'il en soit ! Fais-moi confiance, on pourra peut-être en parler ce soir quand—"
+    zp "Bien sûr que je le sais, mais je ne peux pas encaisser ces matchs, quoi qu'il en soit! Fais-moi confiance, on pourra peut-être en parler ce soir quand—"
 
 # game/code/Book-1/Chapter-6s/s04.rpy:172
 translate french b1c06ss04_continue_e40c36ff:
@@ -290,13 +290,13 @@ translate french b1c06ss04_resp_aggressive_135b4e5a:
 translate french b1c06ss04_resp_aggressive_cc2399cd:
 
     # mg "Oh? And what're you gonna do about it, pretty boy?"
-    mg "Oh ? Et qu'est-ce que tu comptes faire, beau gosse ?"
+    mg "Oh? Et qu'est-ce que tu comptes faire, beau gosse?"
 
 # game/code/Book-1/Chapter-6s/s04.rpy:205
 translate french b1c06ss04_resp_aggressive_7965f932:
 
     # mg "What, you got a prissy bodyguard now, Zem? Scared that the big spooky pugilists will push you around?"
-    mg "Quoi, tu t'es trouvé un garde du corps coincé, Zem ? T'as peur que les grands méchants pugilistes te bousculent ?"
+    mg "Quoi, tu t'es trouvé un garde du corps coincé, Zem? T'as peur que les grands méchants pugilistes te bousculent?"
 
 # game/code/Book-1/Chapter-6s/s04.rpy:212
 translate french b1c06ss04_resp_aggressive_06314b67:
@@ -326,7 +326,7 @@ translate french b1c06ss04_resp_aggressive_f7c2ed39:
 translate french b1c06ss04_resp_aggressive_1e706a20:
 
     # zp "Morgan! Fucking stop!"
-    zp "Morgan ! Arrête bordel !"
+    zp "Morgan! Arrête bordel!"
 
 # game/code/Book-1/Chapter-6s/s04.rpy:237
 translate french b1c06ss04_resp_aggressive_d3641f5f:
@@ -344,7 +344,7 @@ translate french b1c06ss04_resp_aggressive_5075f6cb:
 translate french b1c06ss04_resp_aggressive_eeebfd8c:
 
     # mg "Get the fuck off me!"
-    mg "Dégage de là !"
+    mg "Dégage de là!"
 
 # game/code/Book-1/Chapter-6s/s04.rpy:252
 translate french b1c06ss04_resp_aggressive_94b288cb:
@@ -356,7 +356,7 @@ translate french b1c06ss04_resp_aggressive_94b288cb:
 translate french b1c06ss04_resp_aggressive_5c636d87:
 
     # zp "It's fine, you're forgiven. Just stop causing a scene, both of you!"
-    zp "C'est bon, t'es pardonnée. Arrêtez juste de faire un scandale, tous les deux !"
+    zp "C'est bon, t'es pardonnée. Arrêtez juste de faire un scandale, tous les deux!"
 
 # game/code/Book-1/Chapter-6s/s04.rpy:261
 translate french b1c06ss04_resp_aggressive_5236f2d0:
@@ -392,7 +392,7 @@ translate french b1c06ss04_resp_aggressive_e8bfd3e1:
 translate french b1c06ss04_resp_aggressive_8a9f9112:
 
     # mc "But there are consequences to every action, right?"
-    mc "Mais chaque action a des conséquences, non ?"
+    mc "Mais chaque action a des conséquences, non?"
 
 # game/code/Book-1/Chapter-6s/s04.rpy:286
 translate french b1c06ss04_resp_aggressive_e2729438:
@@ -416,19 +416,19 @@ translate french b1c06ss04_resp_aggressive_a8f578d6:
 translate french b1c06ss04_resp_aggressive_856d4f76:
 
     # mg "Well regardless, are we good?"
-    mg "Enfin bref, on est bons ?"
+    mg "Enfin bref, on est bons?"
 
 # game/code/Book-1/Chapter-6s/s04.rpy:296
 translate french b1c06ss04_resp_aggressive_21ad5f05:
 
     # zp "Yes! We're good, now stop making a scene!"
-    zp "Oui ! Tout va bien, maintenant arrête de faire une scène !"
+    zp "Oui! Tout va bien, maintenant arrête de faire une scène!"
 
 # game/code/Book-1/Chapter-6s/s04.rpy:299
 translate french b1c06ss04_resp_aggressive_e3a3a1af:
 
     # mc "See? That wasn't so hard."
-    mc "Tu vois ? Ce n'était pas si difficile."
+    mc "Tu vois? Ce n'était pas si difficile."
 
 # game/code/Book-1/Chapter-6s/s04.rpy:306
 translate french b1c06ss04_resp_aggressive_cb6ade50:
@@ -440,7 +440,7 @@ translate french b1c06ss04_resp_aggressive_cb6ade50:
 translate french b1c06ss04_resp_aggressive_1e1e74ed:
 
     # mc "Because of my devilishly good looks?"
-    mc "À cause de mon charme démoniaque ?"
+    mc "À cause de mon charme démoniaque?"
 
 # game/code/Book-1/Chapter-6s/s04.rpy:312
 translate french b1c06ss04_resp_aggressive_998a3d38:
@@ -488,7 +488,7 @@ translate french b1c06ss04_resp_aggressive_02085d2e:
 translate french b1c06ss04_resp_aggressive_e8d13d93:
 
     # mg "We good?"
-    mg "On est bons ?"
+    mg "On est bons?"
 
 # game/code/Book-1/Chapter-6s/s04.rpy:332
 translate french b1c06ss04_resp_aggressive_3bbb06bc:
@@ -518,7 +518,7 @@ translate french b1c06ss04_resp_aggressive_8e873dde:
 translate french b1c06ss04_resp_aggressive_e9df575b:
 
     # zp "Sure thing. We'll go over this later, okay?"
-    zp "Pas de souci. On verra ça plus tard, d'accord ?"
+    zp "Pas de souci. On verra ça plus tard, d'accord?"
 
 # game/code/Book-1/Chapter-6s/s04.rpy:346
 translate french b1c06ss04_resp_aggressive_3b2c35cd:
@@ -536,19 +536,19 @@ translate french b1c06ss04_resp_humor_896dc980:
 translate french b1c06ss04_resp_humor_48d6d46e:
 
     # mc "You don't want to beat up a little girl, do you?"
-    mc "Tu ne veux quand même pas frapper une petite fille, si ?"
+    mc "Tu ne veux quand même pas frapper une petite fille, si?"
 
 # game/code/Book-1/Chapter-6s/s04.rpy:360
 translate french b1c06ss04_resp_humor_2407566a:
 
     # zp "Am I supposed to be the little girl?"
-    zp "Je suis censée être la petite fille ?"
+    zp "Je suis censée être la petite fille?"
 
 # game/code/Book-1/Chapter-6s/s04.rpy:363
 translate french b1c06ss04_resp_humor_3e226cb7:
 
     # mg "Why are you even here right now?"
-    mg "Pourquoi tu es là, maintenant ?"
+    mg "Pourquoi tu es là, maintenant?"
 
 # game/code/Book-1/Chapter-6s/s04.rpy:366
 translate french b1c06ss04_resp_humor_2f5ce1a4:
@@ -560,7 +560,7 @@ translate french b1c06ss04_resp_humor_2f5ce1a4:
 translate french b1c06ss04_resp_humor_2bb09f81:
 
     # mg "And does it {i}look{/i} like you're fucking helping?"
-    mg "Et ça {i}ressemble{/i} à de l'aide, ça ?"
+    mg "Et ça {i}ressemble{/i} à de l'aide, ça?"
 
 # game/code/Book-1/Chapter-6s/s04.rpy:371
 translate french b1c06ss04_resp_humor_6c71a9ce:
@@ -578,7 +578,7 @@ translate french b1c06ss04_resp_humor_189db675:
 translate french b1c06ss04_resp_humor_ef71dabb:
 
     # zp "Obviously?"
-    zp "Clairement ?"
+    zp "Clairement?"
 
 # game/code/Book-1/Chapter-6s/s04.rpy:379
 translate french b1c06ss04_resp_humor_980f2da9:
@@ -626,7 +626,7 @@ translate french b1c06ss04_resp_humor_22159b16:
 translate french b1c06ss04_resp_humor_0b3da706:
 
     # mg "{i}Fuck{/i} the others! That's not my business. But the matches I've done are my business."
-    mg "{i}Merde{/i} pour les autres ! Ça, c'est pas mon problème. Mais les matchs que j'ai faits, c'est mon problème."
+    mg "{i}Merde{/i} pour les autres! Ça, c'est pas mon problème. Mais les matchs que j'ai faits, c'est mon problème."
 
 # game/code/Book-1/Chapter-6s/s04.rpy:400
 translate french b1c06ss04_resp_humor_12bb1b85:
@@ -638,13 +638,13 @@ translate french b1c06ss04_resp_humor_12bb1b85:
 translate french b1c06ss04_resp_humor_c5fc6299:
 
     # zp "I'm not fucking afraid of you!"
-    zp "Je n'ai absolument pas peur de toi !"
+    zp "Je n'ai absolument pas peur de toi!"
 
 # game/code/Book-1/Chapter-6s/s04.rpy:410
 translate french b1c06ss04_resp_humor_03f3e2cd:
 
     # mg "Oh, so now it's about fear, is it?"
-    mg "Ah, donc maintenant il est question de peur, c'est ça ?"
+    mg "Ah, donc maintenant il est question de peur, c'est ça?"
 
 # game/code/Book-1/Chapter-6s/s04.rpy:413
 translate french b1c06ss04_resp_humor_fedd2ec4:
@@ -668,7 +668,7 @@ translate french b1c06ss04_resp_humor_ee162ddc:
 translate french b1c06ss04_resp_humor_5ff214e3:
 
     # mg "What about you, pretty boy? You gonna talk about how scary I am, too?"
-    mg "Et toi, beau gosse ? Tu vas aussi parler de à quel point je fais peur ?"
+    mg "Et toi, beau gosse? Tu vas aussi parler de à quel point je fais peur?"
 
 # game/code/Book-1/Chapter-6s/s04.rpy:423
 translate french b1c06ss04_resp_humor_7ffe297f:
@@ -692,13 +692,13 @@ translate french b1c06ss04_resp_humor_951b9036:
 translate french b1c06ss04_resp_humor_c79c323c:
 
     # mg "And it seems you've made up your mind. So what's it matter?"
-    mg "Et on dirait que tu as pris ta décision. Alors, qu'est-ce que ça change ?"
+    mg "Et on dirait que tu as pris ta décision. Alors, qu'est-ce que ça change?"
 
 # game/code/Book-1/Chapter-6s/s04.rpy:435
 translate french b1c06ss04_resp_humor_facb3f39:
 
     # mg "What's any of it matter?"
-    mg "Qu'est-ce que ça change de toute façon ?"
+    mg "Qu'est-ce que ça change de toute façon?"
 
 # game/code/Book-1/Chapter-6s/s04.rpy:438
 translate french b1c06ss04_resp_humor_3be22d78:
@@ -716,7 +716,7 @@ translate french b1c06ss04_resp_humor_d3da5f63:
 translate french b1c06ss04_resp_humor_11e47f1d:
 
     # zp "Please. We can talk about this {i}later{/i}, okay? I promise."
-    zp "S'il te plaît. On peut en parler {i}plus tard{/i}, d'accord ? Je te le promets."
+    zp "S'il te plaît. On peut en parler {i}plus tard{/i}, d'accord? Je te le promets."
 
 # game/code/Book-1/Chapter-6s/s04.rpy:447
 translate french b1c06ss04_resp_humor_32625a91:
@@ -764,7 +764,7 @@ translate french b1c06ss04_resp_humor_a019a42b:
 translate french b1c06ss04_resp_humor_7af0ef85:
 
     # mc "Are you...okay? What was that about?"
-    mc "Tu vas...bien ? C'était quoi, ça ?"
+    mc "Tu vas...bien? C'était quoi, ça?"
 
 # game/code/Book-1/Chapter-6s/s04.rpy:473
 translate french b1c06ss04_resp_humor_bf024376:
@@ -788,7 +788,7 @@ translate french b1c06ss04_resp_humor_d6416b63:
 translate french b1c06ss04_resp_humor_6089ed9a:
 
     # mc "I get it. Everybody's got their demons, right?"
-    mc "Je comprends. Tout le monde a ses démons, non ?"
+    mc "Je comprends. Tout le monde a ses démons, non?"
 
 # game/code/Book-1/Chapter-6s/s04.rpy:484
 translate french b1c06ss04_resp_humor_dd6f6fab:
@@ -842,7 +842,7 @@ translate french b1c06ss04_resp_diplomatic_286e7118:
 translate french b1c06ss04_resp_diplomatic_57c3ead3:
 
     # mg "Are you?"
-    mg "Vraiment ?"
+    mg "Vraiment?"
 
 # game/code/Book-1/Chapter-6s/s04.rpy:518
 translate french b1c06ss04_resp_diplomatic_68cb4da6:
@@ -854,13 +854,13 @@ translate french b1c06ss04_resp_diplomatic_68cb4da6:
 translate french b1c06ss04_resp_diplomatic_c142b7f8:
 
     # mg "You're right, you don't. So why are you here?"
-    mg "Tu as raison, tu ne sais pas. Alors pourquoi es-tu là ?"
+    mg "Tu as raison, tu ne sais pas. Alors pourquoi es-tu là?"
 
 # game/code/Book-1/Chapter-6s/s04.rpy:524
 translate french b1c06ss04_resp_diplomatic_9f56f8b8:
 
     # mc "Just trying to help. I consider Zemfira a friend. And I'm hoping you and I could be friends, too...?"
-    mc "J'essaie juste d'aider. Je considère Zemfira comme une amie. Et j'espère qu'on pourrait être amis, toi et moi aussi... ?"
+    mc "J'essaie juste d'aider. Je considère Zemfira comme une amie. Et j'espère qu'on pourrait être amis, toi et moi aussi...?"
 
 # game/code/Book-1/Chapter-6s/s04.rpy:530
 translate french b1c06ss04_resp_diplomatic_2f880d4d:
@@ -890,7 +890,7 @@ translate french b1c06ss04_resp_diplomatic_57f1605b:
 translate french b1c06ss04_resp_diplomatic_bf0b91a1:
 
     # mc "So, are we good here?"
-    mc "Alors, tout est réglé ici ?"
+    mc "Alors, tout est réglé ici?"
 
 # game/code/Book-1/Chapter-6s/s04.rpy:545
 translate french b1c06ss04_resp_diplomatic_371db66b:
@@ -938,13 +938,13 @@ translate french b1c06ss04_end_48eed803:
 translate french b1c06ss04_end_cc5aee40:
 
     # mc "No problem. Are you okay? Seems like a pretty heavy situation."
-    mc "Pas de problème. Ça va ? Ça semblait être une situation assez lourde."
+    mc "Pas de problème. Ça va? Ça semblait être une situation assez lourde."
 
 # game/code/Book-1/Chapter-6s/s04.rpy:574
 translate french b1c06ss04_end_f017b4a5:
 
     # zp "*sigh* It's a bit complex. But we all made our choices, right?"
-    zp "*soupir* C'est un peu complexe. Mais on a tous fait nos choix, non ?"
+    zp "*soupir* C'est un peu complexe. Mais on a tous fait nos choix, non?"
 
 # game/code/Book-1/Chapter-6s/s04.rpy:575
 translate french b1c06ss04_end_d1aad57c:
@@ -956,7 +956,7 @@ translate french b1c06ss04_end_d1aad57c:
 translate french b1c06ss04_end_fdbf20ef:
 
     # zp "We've all got our demons, right?"
-    zp "On a tous nos démons, non ?"
+    zp "On a tous nos démons, non?"
 
 # game/code/Book-1/Chapter-6s/s04.rpy:581
 translate french b1c06ss04_end_16ff254b:
@@ -980,7 +980,7 @@ translate french b1c06ss04_end_e9210e4e:
 translate french b1c06ss04_end_acbf38f0:
 
     # mc "I know that was really heavy. Do you wanna hang out for a bit and de-stress? We could go shooting again and get some food."
-    mc "Je sais que c'était vraiment intense. Tu veux qu'on traîne un peu pour se détendre ? On pourrait retourner tirer et manger un morceau."
+    mc "Je sais que c'était vraiment intense. Tu veux qu'on traîne un peu pour se détendre? On pourrait retourner tirer et manger un morceau."
 
 # game/code/Book-1/Chapter-6s/s04.rpy:594
 translate french b1c06ss04_end_803146d0:
@@ -992,7 +992,7 @@ translate french b1c06ss04_end_803146d0:
 translate french b1c06ss04_end_0b858123:
 
     # mc "Oh? That sounds like fun! Where's it at?"
-    mc "Oh ? Ça a l'air sympa ! Où ça se passe ?"
+    mc "Oh? Ça a l'air sympa! Où ça se passe?"
 
 # game/code/Book-1/Chapter-6s/s04.rpy:600
 translate french b1c06ss04_end_d7fbac59:
@@ -1076,10 +1076,11 @@ translate french b1c06ss04_end_eaf47e36:
 translate french b1c06ss04_end_bb0170c1:
 
     # mct "I wonder if Morgan will be at this live event as well? I guess I'll find out."
-    mct "Je me demande si Morgan sera aussi à cet événement en direct ? Je suppose que je vais le découvrir."
+    mct "Je me demande si Morgan sera aussi à cet événement en direct? Je suppose que je vais le découvrir."
 
 # game/code/Book-1/Chapter-6s/s04.rpy:26
 translate french strings:
 
-    # old "In the evening"
+    old "In the evening"
     new "Dans la soirée"
+

@@ -8,13 +8,13 @@ translate french b1c04ss02_c128c635:
 translate french b1c04ss02_78a5b3f7:
 
     # sm "What? I've already made my reservation. What do you mean you can't do a session that day?"
-    sm "Quoi ? J'ai déjà fait ma réservation. Que voulez-vous dire par le fait que vous ne pouvez pas faire de séance ce jour-là ?"
+    sm "Quoi? J'ai déjà fait ma réservation. Que voulez-vous dire par le fait que vous ne pouvez pas faire de séance ce jour-là?"
 
 # game/code/Book-1/Chapter-4s/s02.rpy:29
 translate french b1c04ss02_31820389:
 
     # sm "Alright. Well, do you know anyone who can?"
-    sm "D'accord. Eh bien, connaissez-vous quelqu'un qui pourrait ?"
+    sm "D'accord. Eh bien, connaissez-vous quelqu'un qui pourrait?"
 
 # game/code/Book-1/Chapter-4s/s02.rpy:37
 translate french b1c04ss02_02ee62a9:
@@ -26,13 +26,13 @@ translate french b1c04ss02_02ee62a9:
 translate french b1c04ss02_428b9e84:
 
     # sm "Ugh!"
-    sm "Mince !"
+    sm "Mince!"
 
 # game/code/Book-1/Chapter-4s/s02.rpy:44
 translate french b1c04ss02_e27cbdeb:
 
     # mc "Trouble?"
-    mc "Des ennuis ?"
+    mc "Des ennuis?"
 
 # game/code/Book-1/Chapter-4s/s02.rpy:47
 translate french b1c04ss02_39d3f267:
@@ -50,13 +50,13 @@ translate french b1c04ss02_29f70de8:
 translate french b1c04ss02_95182730:
 
     # mc "That sucks. Does that happen often?"
-    mc "C'est nul. Ça arrive souvent ?"
+    mc "C'est nul. Ça arrive souvent?"
 
 # game/code/Book-1/Chapter-4s/s02.rpy:54
 translate french b1c04ss02_de71f3e4:
 
     # sm "Photographers, right? Artists that are always chasing their passion often breeze past others, I guess."
-    sm "Les photographes, n'est-ce pas ? Les artistes qui poursuivent toujours leur passion ont tendance à négliger les autres, je suppose."
+    sm "Les photographes, n'est-ce pas? Les artistes qui poursuivent toujours leur passion ont tendance à négliger les autres, je suppose."
 
 # game/code/Book-1/Chapter-4s/s02.rpy:57
 translate french b1c04ss02_88030c73:
@@ -68,7 +68,7 @@ translate french b1c04ss02_88030c73:
 translate french b1c04ss02_e963666e:
 
     # sm "Oh yeah! I do it as a side-gig. I find it rather fun."
-    sm "Oh oui ! Je le fais comme activité secondaire. Je trouve ça plutôt amusant."
+    sm "Oh oui! Je le fais comme activité secondaire. Je trouve ça plutôt amusant."
 
 # game/code/Book-1/Chapter-4s/s02.rpy:63
 translate french b1c04ss02_0f33d4cf:
@@ -80,7 +80,7 @@ translate french b1c04ss02_0f33d4cf:
 translate french b1c04ss02_b2297244:
 
     # sm "Hey! I need to talk with you."
-    sm "Hé ! J'ai besoin de te parler."
+    sm "Hé! J'ai besoin de te parler."
 
 # game/code/Book-1/Chapter-4s/s02.rpy:72
 translate french b1c04ss02_e42d2ab0:
@@ -104,7 +104,7 @@ translate french b1c04ss02_9731f435:
 translate french b1c04ss02_ad82d930:
 
     # sa "What's up? You seem stressed."
-    sa "Quoi de neuf ? Tu sembles stressé."
+    sa "Quoi de neuf? Tu sembles stressé."
 
 # game/code/Book-1/Chapter-4s/s02.rpy:87
 translate french b1c04ss02_e17b2f37:
@@ -116,7 +116,7 @@ translate french b1c04ss02_e17b2f37:
 translate french b1c04ss02_04042ef2:
 
     # sa "Damn. Alright. Do you have any backup plans?"
-    sa "Mince. D'accord. Tu as des plans de secours ?"
+    sa "Mince. D'accord. Tu as des plans de secours?"
 
 # game/code/Book-1/Chapter-4s/s02.rpy:93
 translate french b1c04ss02_7a6c3708:
@@ -146,13 +146,13 @@ translate french b1c04ss02_1f506f51:
 translate french b1c04ss02_f2cefc1a:
 
     # sm "Oh, awesome! Here, let me get the application..."
-    sm "Oh, génial ! Tiens, laisse-moi te donner le formulaire..."
+    sm "Oh, génial! Tiens, laisse-moi te donner le formulaire..."
 
 # game/code/Book-1/Chapter-4s/s02.rpy:106
 translate french b1c04ss02_9e67beeb:
 
     # sa "You look like you'd make a good candidate for the team. Have you played sports before?"
-    sa "Tu as l'air d'être un bon candidat pour l'équipe. As-tu déjà pratiqué du sport ?"
+    sa "Tu as l'air d'être un bon candidat pour l'équipe. As-tu déjà pratiqué du sport?"
 
 # game/code/Book-1/Chapter-4s/s02.rpy:109
 translate french b1c04ss02_d05ecd18:
@@ -164,7 +164,7 @@ translate french b1c04ss02_d05ecd18:
 translate french b1c04ss02_dbf680cf:
 
     # sm "This is perfect timing! Maybe we won't need to go through the fuss of hosting a fundraiser or ad campaign."
-    sm "C'est le moment parfait ! Peut-être qu'on n'aura pas besoin de passer par la collecte de fonds ou la campagne publicitaire."
+    sm "C'est le moment parfait! Peut-être qu'on n'aura pas besoin de passer par la collecte de fonds ou la campagne publicitaire."
 
 # game/code/Book-1/Chapter-4s/s02.rpy:115
 translate french b1c04ss02_0ce99635:
@@ -236,7 +236,7 @@ translate french b1c04ss02_04e85f4a:
 translate french b1c04ss02_1091f62e:
 
     # sm "Do you know the rules of volleyball?"
-    sm "Tu connais les règles du volley ?"
+    sm "Tu connais les règles du volley?"
 
 # game/code/Book-1/Chapter-4s/s02.rpy:149
 translate french b1c04ss02_f800bed0:
@@ -260,7 +260,7 @@ translate french b1c04ss02_3d8bf696:
 translate french b1c04ss02_6f1f74f1:
 
     # sm "How would you describe your physical condition?"
-    sm "Comment décrirais-tu ta condition physique ?"
+    sm "Comment décrirais-tu ta condition physique?"
 
 # game/code/Book-1/Chapter-4s/s02.rpy:161
 translate french b1c04ss02_8e386fd5:
@@ -278,7 +278,7 @@ translate french b1c04ss02_8a4b6c73:
 translate french b1c04ss02_5ad35c1b:
 
     # mc "What are tryouts like?"
-    mc "Comment se passent les essais ?"
+    mc "Comment se passent les essais?"
 
 # game/code/Book-1/Chapter-4s/s02.rpy:171
 translate french b1c04ss02_b5c6a0fb:
@@ -290,13 +290,13 @@ translate french b1c04ss02_b5c6a0fb:
 translate french b1c04ss02_df40bcdf:
 
     # sm "Have you ever worked in a team setting?"
-    sm "As-tu déjà travaillé en équipe ?"
+    sm "As-tu déjà travaillé en équipe?"
 
 # game/code/Book-1/Chapter-4s/s02.rpy:175
 translate french b1c04ss02_c5ae77a5:
 
     # mc "Does sailing around the world with my dad count?"
-    mc "Est-ce que faire le tour du monde en bateau avec mon père ça compte ?"
+    mc "Est-ce que faire le tour du monde en bateau avec mon père ça compte?"
 
 # game/code/Book-1/Chapter-4s/s02.rpy:178
 translate french b1c04ss02_f5f24a84:
@@ -332,7 +332,7 @@ translate french b1c04ss02_068fcb63:
 translate french b1c04ss02_744de314:
 
     # mc "Oh? I'm intrigued."
-    mc "Oh ? Je suis intrigué."
+    mc "Oh? Je suis intrigué."
 
 # game/code/Book-1/Chapter-4s/s02.rpy:194
 translate french b1c04ss02_b11056b2:
@@ -368,7 +368,7 @@ translate french b1c04ss02_a347c747:
 translate french b1c04ss02_cda4e19a:
 
     # sm "Great! You're all set."
-    sm "Super ! Tu es prêt."
+    sm "Super! Tu es prêt."
 
 # game/code/Book-1/Chapter-4s/s02.rpy:214
 translate french b1c04ss02_8cfa9ead:
@@ -380,13 +380,13 @@ translate french b1c04ss02_8cfa9ead:
 translate french b1c04ss02_4a67df76:
 
     # sl "Hey, guys!"
-    sl "Hé, les gars !"
+    sl "Hé, les gars!"
 
 # game/code/Book-1/Chapter-4s/s02.rpy:222
 translate french b1c04ss02_2e497e4e:
 
     # sm "Hey, Simon. Have you met [mcname]?"
-    sm "Hé, Simon. Tu as rencontré [mcname] ?"
+    sm "Hé, Simon. Tu as rencontré [mcname]?"
 
 # game/code/Book-1/Chapter-4s/s02.rpy:228
 translate french b1c04ss02_7a98ab76:
@@ -398,7 +398,7 @@ translate french b1c04ss02_7a98ab76:
 translate french b1c04ss02_802600e1:
 
     # sm "Simon did what?!"
-    sm "Simon a fait quoi ?!"
+    sm "Simon a fait quoi?!"
 
 # game/code/Book-1/Chapter-4s/s02.rpy:234
 translate french b1c04ss02_074073ea:
@@ -434,7 +434,7 @@ translate french b1c04ss02_7fa187c2:
 translate french b1c04ss02_db977e29:
 
     # mc "It made for an entertaining situation, though. No hard feelings, right?"
-    mc "Ça a rendu la situation divertissante, quand même. Pas de rancune, hein ?"
+    mc "Ça a rendu la situation divertissante, quand même. Pas de rancune, hein?"
 
 # game/code/Book-1/Chapter-4s/s02.rpy:252
 translate french b1c04ss02_d5057029:
@@ -446,7 +446,7 @@ translate french b1c04ss02_d5057029:
 translate french b1c04ss02_484221d2:
 
     # sm "Well, that's an interesting introduction to each other, isn't it?"
-    sm "Eh bien, c'est une introduction intéressante, non ?"
+    sm "Eh bien, c'est une introduction intéressante, non?"
 
 # game/code/Book-1/Chapter-4s/s02.rpy:256
 translate french b1c04ss02_4d1616da:
@@ -464,7 +464,7 @@ translate french b1c04ss02_9b06fdbe:
 translate french b1c04ss02_57c62f23:
 
     # sm "Speaking of which... Simon, how's practice going?"
-    sm "À propos... Simon, comment se passe l'entraînement ?"
+    sm "À propos... Simon, comment se passe l'entraînement?"
 
 # game/code/Book-1/Chapter-4s/s02.rpy:263
 translate french b1c04ss02_e92dd8ff:
@@ -482,7 +482,7 @@ translate french b1c04ss02_779868c4:
 translate french b1c04ss02_d28cd95d:
 
     # sm "That's great! You can show [mcname] to the locker room, then."
-    sm "C'est génial ! Tu peux montrer le vestiaire à [mcname], alors."
+    sm "C'est génial! Tu peux montrer le vestiaire à [mcname], alors."
 
 # game/code/Book-1/Chapter-4s/s02.rpy:270
 translate french b1c04ss02_8863f73f:
@@ -494,7 +494,7 @@ translate french b1c04ss02_8863f73f:
 translate french b1c04ss02_bcab19e1:
 
     # sl "Well, good luck with your tryouts!"
-    sl "Eh bien, bonne chance pour tes essais !"
+    sl "Eh bien, bonne chance pour tes essais!"
 
 # game/code/Book-1/Chapter-4s/s02.rpy:273
 translate french b1c04ss02_a64e8bc0:

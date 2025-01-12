@@ -27,7 +27,7 @@ translate french b1c08ss02_6d55ab0f:
 translate french b1c08ss02_a26225b4:
 
     # mg "Of course they didn't fucking run. Are you out of your goddamn mind, Foxy?"
-    mg "Bien sûr qu'ils ne se sont pas échappés. T'es complètement fou, Foxy ?"
+    mg "Bien sûr qu'ils ne se sont pas échappés. T'es complètement fou, Foxy?"
 
 # game/code/Book-1/Chapter-8s/s02.rpy:41
 translate french b1c08ss02_7b0e61dc:
@@ -39,13 +39,13 @@ translate french b1c08ss02_7b0e61dc:
 translate french b1c08ss02_5610b929:
 
     # xv "Zem, what the fuck?"
-    xv "Zem, c'est quoi ce bordel ?"
+    xv "Zem, c'est quoi ce bordel?"
 
 # game/code/Book-1/Chapter-8s/s02.rpy:49
 translate french b1c08ss02_55cc8e18:
 
     # xv "Why'd you bring this preppy trash in here?"
-    xv "Pourquoi t'as amené ce déchet préppy ici ?"
+    xv "Pourquoi t'as amené ce déchet préppy ici?"
 
 # game/code/Book-1/Chapter-8s/s02.rpy:52
 translate french b1c08ss02_c932015e:
@@ -57,7 +57,7 @@ translate french b1c08ss02_c932015e:
 translate french b1c08ss02_5845f083:
 
     # xv "You couldn't've just gotten the story from him and reported here?"
-    xv "T'aurais pas pu juste obtenir l'histoire de lui et venir la rapporter ici ?"
+    xv "T'aurais pas pu juste obtenir l'histoire de lui et venir la rapporter ici?"
 
 # game/code/Book-1/Chapter-8s/s02.rpy:56
 translate french b1c08ss02_86801896:
@@ -117,7 +117,7 @@ translate french b1c08ss02_4eef8b28:
 translate french b1c08ss02_56ea604e:
 
     # xv "Fuck. Fuck. Cade was with them? That fucker's crazy. He might've caught them when they were going home."
-    xv "Putain. Putain. Cade était avec eux ? Ce connard est fou. Il les a peut-être attrapés lorsqu'ils rentraient chez eux."
+    xv "Putain. Putain. Cade était avec eux? Ce connard est fou. Il les a peut-être attrapés lorsqu'ils rentraient chez eux."
 
 # game/code/Book-1/Chapter-8s/s02.rpy:84
 translate french b1c08ss02_dfbcb890:
@@ -129,7 +129,7 @@ translate french b1c08ss02_dfbcb890:
 translate french b1c08ss02_c086bcbe:
 
     # xv "Where would that obsessive freak even take them?"
-    xv "Où ce monstre obsessionnel pourrait-il les emmener ?"
+    xv "Où ce monstre obsessionnel pourrait-il les emmener?"
 
 # game/code/Book-1/Chapter-8s/s02.rpy:90
 translate french b1c08ss02_21be95f3:
@@ -153,7 +153,7 @@ translate french b1c08ss02_94859de1:
 translate french b1c08ss02_a7826cdd:
 
     # xv "We'll start there, then. Where is the place?"
-    xv "On va commencer par là, alors. Où est cet endroit ?"
+    xv "On va commencer par là, alors. Où est cet endroit?"
 
 # game/code/Book-1/Chapter-8s/s02.rpy:103
 translate french b1c08ss02_25df7f16:
@@ -183,13 +183,13 @@ translate french b1c08ss02_411f3b2f:
 translate french b1c08ss02_32b03cbc:
 
     # mct "Cam workers? Is that what they do? Why is Foxy talking about them like employees rather than missing persons?"
-    mct "Travailleurs de la cam ? C'est ce qu'ils font ? Pourquoi Foxy en parle comme d'employés plutôt que de personnes disparues ?"
+    mct "Travailleurs de la cam? C'est ce qu'ils font? Pourquoi Foxy en parle comme d'employés plutôt que de personnes disparues?"
 
 # game/code/Book-1/Chapter-8s/s02.rpy:118
 translate french b1c08ss02_1e6677a4:
 
     # mg "So what, we just cut them loose?"
-    mg "Alors quoi, on les laisse partir ?"
+    mg "Alors quoi, on les laisse partir?"
 
 # game/code/Book-1/Chapter-8s/s02.rpy:121
 translate french b1c08ss02_7aff2b65:
@@ -207,7 +207,7 @@ translate french b1c08ss02_def6f6fc:
 translate french b1c08ss02_86065d63:
 
     # xv "Fuck! No one here knows how to drive a fucking boat."
-    xv "Putain ! Personne ici sait piloter un putain de bateau."
+    xv "Putain! Personne ici sait piloter un putain de bateau."
 
 # game/code/Book-1/Chapter-8s/s02.rpy:130
 translate french b1c08ss02_0a214291:
@@ -237,13 +237,13 @@ translate french b1c08ss02_4b70efb2:
 translate french b1c08ss02_43ef6e9a:
 
     # xv "How can we trust you?"
-    xv "Comment pouvons-nous te faire confiance ?"
+    xv "Comment pouvons-nous te faire confiance?"
 
 # game/code/Book-1/Chapter-8s/s02.rpy:144
 translate french b1c08ss02_440a3a58:
 
     # mc "Why would I lie? I care about them. I can drive the boat, Xasan."
-    mc "Pourquoi mentirais-je ? Je me soucie d'eux. Je peux conduire le bateau, Xasan."
+    mc "Pourquoi mentirais-je? Je me soucie d'eux. Je peux conduire le bateau, Xasan."
 
 # game/code/Book-1/Chapter-8s/s02.rpy:147
 translate french b1c08ss02_5f59af39:
@@ -279,7 +279,7 @@ translate french b1c08ss02_13e15399:
 translate french b1c08ss02_c643c009:
 
     # zp "You don't wanna involve anymore Syndicate members? Fine. But we could still use some discreet extra hands for the rescue."
-    zp "Tu ne veux plus impliquer d'autres membres du Syndicat ? Très bien. Mais on pourrait quand même avoir besoin de quelques mains discrètes pour le sauvetage."
+    zp "Tu ne veux plus impliquer d'autres membres du Syndicat? Très bien. Mais on pourrait quand même avoir besoin de quelques mains discrètes pour le sauvetage."
 
 # game/code/Book-1/Chapter-8s/s02.rpy:161
 translate french b1c08ss02_a73ae7e3:
@@ -327,13 +327,13 @@ translate french b1c08ss02_430277ec:
 translate french b1c08ss02_f9dd2c65:
 
     # mg "So you're gonna risk the mission by not involving him at all, and spreading us thin? How the fuck does that make sense?"
-    mg "Tu vas risquer la mission en ne l'impliquant pas du tout et en nous éparpillant ? Ça a quel putain de sens ?"
+    mg "Tu vas risquer la mission en ne l'impliquant pas du tout et en nous éparpillant? Ça a quel putain de sens?"
 
 # game/code/Book-1/Chapter-8s/s02.rpy:183
 translate french b1c08ss02_a99dfaf0:
 
     # xv "It could be a bigger risk to involve a god damn stranger!"
-    xv "Ça pourrait être un plus grand risque d'impliquer un putain de inconnu !"
+    xv "Ça pourrait être un plus grand risque d'impliquer un putain de inconnu!"
 
 # game/code/Book-1/Chapter-8s/s02.rpy:186
 translate french b1c08ss02_ab74ffb8:
@@ -357,13 +357,13 @@ translate french b1c08ss02_d756eb4e:
 translate french b1c08ss02_dcc97d26:
 
     # ass "He's proven himself to most of the rest of us! If Zem and Fleur trust him, so do I."
-    ass "Il s'est prouvé à la plupart d'entre nous ! Si Zem et Fleur lui font confiance, moi aussi."
+    ass "Il s'est prouvé à la plupart d'entre nous! Si Zem et Fleur lui font confiance, moi aussi."
 
 # game/code/Book-1/Chapter-8s/s02.rpy:196
 translate french b1c08ss02_c9cbc723:
 
     # fox "Xasan, let me get him to drive the boat. We'll scout the place. I'll case him, okay?"
-    fox "Xasan, laisse-moi lui faire piloter le bateau. On va explorer l'endroit. Je vais le surveiller, d'accord ?"
+    fox "Xasan, laisse-moi lui faire piloter le bateau. On va explorer l'endroit. Je vais le surveiller, d'accord?"
 
 # game/code/Book-1/Chapter-8s/s02.rpy:197
 translate french b1c08ss02_c85a06c6:
@@ -417,7 +417,7 @@ translate french b1c08ss02_80181119:
 translate french b1c08ss02_7cfe4f68:
 
     # mg "So what're we gonna do if the Wasps did this? We can't let them just get away with it."
-    mg "Alors, on fait quoi si les Wasps ont fait ça ? On peut pas les laisser s'en tirer comme ça."
+    mg "Alors, on fait quoi si les Wasps ont fait ça? On peut pas les laisser s'en tirer comme ça."
 
 # game/code/Book-1/Chapter-8s/s02.rpy:224
 translate french b1c08ss02_81e7b995:
@@ -489,7 +489,7 @@ translate french b1c08ss02_3a6939d5:
 translate french b1c08ss02_cc60de1b:
 
     # mct "What exactly does he mean? What equipment would we need?"
-    mct "Que veut-il dire exactement ? De quel équipement aurions-nous besoin ?"
+    mct "Que veut-il dire exactement? De quel équipement aurions-nous besoin?"
 
 # game/code/Book-1/Chapter-8s/s02.rpy:251
 translate french b1c08ss02_163c3bfc:
@@ -507,7 +507,7 @@ translate french b1c08ss02_8ea79953:
 translate french b1c08ss02_3a8d28d2:
 
     # mc "So, you know how to get the boat?"
-    mc "Donc, tu sais comment obtenir le bateau ?"
+    mc "Donc, tu sais comment obtenir le bateau?"
 
 # game/code/Book-1/Chapter-8s/s02.rpy:266
 translate french b1c08ss02_d78e5ea3:
@@ -525,7 +525,7 @@ translate french b1c08ss02_984a5436:
 translate french b1c08ss02_9cd950a4:
 
     # mc "Oh, like rescuing kidnapped gang members?"
-    mc "Oh, comme sauver des membres de gang kidnappés ?"
+    mc "Oh, comme sauver des membres de gang kidnappés?"
 
 # game/code/Book-1/Chapter-8s/s02.rpy:275
 translate french b1c08ss02_57e00f2e:
@@ -537,7 +537,7 @@ translate french b1c08ss02_57e00f2e:
 translate french b1c08ss02_d863d7fe:
 
     # fox "You sure you can handle this kind of pressure?"
-    fox "T'es sûr de pouvoir gérer ce genre de pression ?"
+    fox "T'es sûr de pouvoir gérer ce genre de pression?"
 
 # game/code/Book-1/Chapter-8s/s02.rpy:279
 translate french b1c08ss02_3c095249:
@@ -549,7 +549,7 @@ translate french b1c08ss02_3c095249:
 translate french b1c08ss02_d9f3fd78:
 
     # fox "That's what I like to hear. Alright, I've got a few things I gotta do before tonight, but meet me at the pier this evening, okay?"
-    fox "C'est ce que j'aime entendre. D'accord, j'ai quelques trucs à faire avant ce soir, mais retrouve-moi au quai ce soir, d'accord ?"
+    fox "C'est ce que j'aime entendre. D'accord, j'ai quelques trucs à faire avant ce soir, mais retrouve-moi au quai ce soir, d'accord?"
 
 # game/code/Book-1/Chapter-8s/s02.rpy:283
 translate french b1c08ss02_4db13ba7:
@@ -568,7 +568,6 @@ translate french b1c08ss02_e229ef75:
 
     # mct "Hopefully it's a boat I can actually fucking drive..."
     mct "J'espère que c'est un bateau que je peux vraiment conduire..."
-
 
 translate french strings:
 

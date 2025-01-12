@@ -14,7 +14,7 @@ translate french b1c07cs04_1376f1c8:
 translate french b1c07cs04_3003131b:
 
     # dk "Come in!"
-    dk "Entre !"
+    dk "Entre!"
 
 # game/code/Book-1/Chapter-7c/s04.rpy:30
 translate french b1c07cs04_946de3f2:
@@ -26,7 +26,7 @@ translate french b1c07cs04_946de3f2:
 translate french b1c07cs04_d6e44639:
 
     # dk "*laughs* Don't be shy, come in, come in! Hurry up and close that door!"
-    dk "*rit* Ne sois pas timide, entre, entre ! Dépêche-toi et ferme cette porte !"
+    dk "*rit* Ne sois pas timide, entre, entre! Dépêche-toi et ferme cette porte!"
 
 # game/code/Book-1/Chapter-7c/s04.rpy:40
 translate french b1c07cs04_2f388ab2:
@@ -38,7 +38,7 @@ translate french b1c07cs04_2f388ab2:
 translate french b1c07cs04_9e7ec65b:
 
     # mc "Are we having a sleepover?"
-    mc "On fait une soirée pyjama ?"
+    mc "On fait une soirée pyjama?"
 
 # game/code/Book-1/Chapter-7c/s04.rpy:46
 translate french b1c07cs04_007fda0c:
@@ -50,13 +50,13 @@ translate french b1c07cs04_007fda0c:
 translate french b1c07cs04_f1a22266:
 
     # dk "Exactly. Now strip!"
-    dk "Exactement. Maintenant, déshabille-toi !"
+    dk "Exactement. Maintenant, déshabille-toi!"
 
 # game/code/Book-1/Chapter-7c/s04.rpy:52
 translate french b1c07cs04_82253c55:
 
     # mc "Like, all the way?"
-    mc "Genre, jusqu'au bout ?"
+    mc "Genre, jusqu'au bout?"
 
 # game/code/Book-1/Chapter-7c/s04.rpy:54
 translate french b1c07cs04_7c6772ad:
@@ -98,7 +98,7 @@ translate french b1c07cs04_44a0eb46:
 translate french b1c07cs04_8953b04a:
 
     # mc "See something you like?"
-    mc "Tu vois quelque chose qui te plaît ?"
+    mc "Tu vois quelque chose qui te plaît?"
 
 # game/code/Book-1/Chapter-7c/s04.rpy:74
 translate french b1c07cs04_07964221:
@@ -122,7 +122,7 @@ translate french b1c07cs04_e4f58cae:
 translate french b1c07cs04_1bf0fc5e:
 
     # mc "Later? What's going on later?"
-    mc "Plus tard ? Qu'est-ce qui se passe plus tard ?"
+    mc "Plus tard? Qu'est-ce qui se passe plus tard?"
 
 # game/code/Book-1/Chapter-7c/s04.rpy:84
 translate french b1c07cs04_a6428060:
@@ -140,7 +140,7 @@ translate french b1c07cs04_5a60f995:
 translate french b1c07cs04_764e8cca:
 
     # mc "Okay. So what's the exercise, then?"
-    mc "D'accord. Alors, quel est l'exercice, alors ?"
+    mc "D'accord. Alors, quel est l'exercice, alors?"
 
 # game/code/Book-1/Chapter-7c/s04.rpy:91
 translate french b1c07cs04_c02bb706:
@@ -164,7 +164,7 @@ translate french b1c07cs04_62088156:
 translate french b1c07cs04_94aa5ef5:
 
     # dk "What does each of you see?"
-    dk "Que voyez-vous chacun ?"
+    dk "Que voyez-vous chacun?"
 
 # game/code/Book-1/Chapter-7c/s04.rpy:118
 translate french b1c07cs04_c54acd3e:
@@ -182,7 +182,7 @@ translate french b1c07cs04_237abb02:
 translate french b1c07cs04_b9cbafce:
 
     # nv "Is that a good answer?"
-    nv "C'est une bonne réponse ?"
+    nv "C'est une bonne réponse?"
 
 # game/code/Book-1/Chapter-7c/s04.rpy:126
 translate french b1c07cs04_5e6e5a2a:
@@ -194,7 +194,7 @@ translate french b1c07cs04_5e6e5a2a:
 translate french b1c07cs04_af8283b2:
 
     # dk "And you?"
-    dk "Et toi ?"
+    dk "Et toi?"
 
 # game/code/Book-1/Chapter-7c/s04.rpy:136
 translate french b1c07cs04_d834bb3e:
@@ -224,7 +224,7 @@ translate french b1c07cs04_4fa7f761:
 translate french b1c07cs04_d78412f3:
 
     # nv "You really think my spirit is radiant?"
-    nv "Tu penses vraiment que mon esprit est radieux ?"
+    nv "Tu penses vraiment que mon esprit est radieux?"
 
 # game/code/Book-1/Chapter-7c/s04.rpy:151
 translate french b1c07cs04_3d5871a3:
@@ -248,25 +248,25 @@ translate french b1c07cs04_369a681a:
 translate french b1c07cs04_f6245021:
 
     # nv "You're such a flirt!"
-    nv "Tu es un vrai dragueur !"
+    nv "Tu es un vrai dragueur!"
 
 # game/code/Book-1/Chapter-7c/s04.rpy:165
 translate french b1c07cs04_d3ed53c5:
 
     # nv "This is supposed to be serious!"
-    nv "C'est censé être sérieux !"
+    nv "C'est censé être sérieux!"
 
 # game/code/Book-1/Chapter-7c/s04.rpy:168
 translate french b1c07cs04_f920527a:
 
     # mc "Who says I'm not serious?"
-    mc "Qui dit que je ne suis pas sérieux ?"
+    mc "Qui dit que je ne suis pas sérieux?"
 
 # game/code/Book-1/Chapter-7c/s04.rpy:172
 translate french b1c07cs04_292f527b:
 
     # nv "Stop being such a flatterer! C'mon, focus on the session!"
-    nv "Arrête d'être aussi flatteur ! Allez, concentre-toi sur la séance !"
+    nv "Arrête d'être aussi flatteur! Allez, concentre-toi sur la séance!"
 
 # game/code/Book-1/Chapter-7c/s04.rpy:179
 translate french b1c07cs04_26249e39:
@@ -284,13 +284,13 @@ translate french b1c07cs04_80933fee:
 translate french b1c07cs04_2cf7f50b:
 
     # mc "Did I say something wrong? I'm sorry—"
-    mc "Ai-je dit quelque chose de mal ? Je suis désolé—"
+    mc "Ai-je dit quelque chose de mal? Je suis désolé—"
 
 # game/code/Book-1/Chapter-7c/s04.rpy:189
 translate french b1c07cs04_3f7bee3c:
 
     # nv "No! No, it's just..."
-    nv "Non ! Non, c'est juste..."
+    nv "Non! Non, c'est juste..."
 
 # game/code/Book-1/Chapter-7c/s04.rpy:190
 translate french b1c07cs04_f637171a:
@@ -326,7 +326,7 @@ translate french b1c07cs04_dbdf6176:
 translate french b1c07cs04_84c4731d:
 
     # dk "I'm rarely wrong, Nia. Do you want to continue the session or stop here?"
-    dk "J'ai rarement tort, Nia. Veux-tu continuer la séance ou arrêter ici ?"
+    dk "J'ai rarement tort, Nia. Veux-tu continuer la séance ou arrêter ici?"
 
 # game/code/Book-1/Chapter-7c/s04.rpy:207
 translate french b1c07cs04_1ae6e167:
@@ -350,7 +350,7 @@ translate french b1c07cs04_4e417cd4:
 translate french b1c07cs04_339b9a5d:
 
     # dk "It's important to feel connected to those around us, wouldn't you say?"
-    dk "Il est important de se sentir connecté à ceux qui nous entourent, tu ne trouves pas ?"
+    dk "Il est important de se sentir connecté à ceux qui nous entourent, tu ne trouves pas?"
 
 # game/code/Book-1/Chapter-7c/s04.rpy:231
 translate french b1c07cs04_22fb090c:
@@ -404,7 +404,7 @@ translate french b1c07cs04_6d85112f:
 translate french b1c07cs04_f2301b69:
 
     # dk "Very good, Nia love. What does your heart tell you to do right now?"
-    dk "Très bien, ma chère Nia. Que te dit ton cœur à faire maintenant ?"
+    dk "Très bien, ma chère Nia. Que te dit ton cœur à faire maintenant?"
 
 # game/code/Book-1/Chapter-7c/s04.rpy:258
 translate french b1c07cs04_a9a9064e:
@@ -416,7 +416,7 @@ translate french b1c07cs04_a9a9064e:
 translate french b1c07cs04_1c5b74ea:
 
     # dk "And what does your heart say?"
-    dk "Et que dit ton cœur ?"
+    dk "Et que dit ton cœur?"
 
 # game/code/Book-1/Chapter-7c/s04.rpy:264
 translate french b1c07cs04_a076b464:
@@ -434,7 +434,7 @@ translate french b1c07cs04_fb2cc636:
 translate french b1c07cs04_c6fb2ce8:
 
     # nv "Is it okay if I kiss you?"
-    nv "Est-ce que ça va si je t'embrasse ?"
+    nv "Est-ce que ça va si je t'embrasse?"
 
 # game/code/Book-1/Chapter-7c/s04.rpy:276
 translate french b1c07cs04_a8342857:
@@ -530,7 +530,7 @@ translate french b1c07cs04_d84440bf:
 translate french b1c07cs04_5412c2b2:
 
     # mct "Is this okay? All this touching...is it truly what either of us wants, or are we just going along with it because it's what's expected?"
-    mct "Est-ce que c'est okay ? Tout ce toucher... est-ce vraiment ce que l'un de nous veut, ou est-ce qu'on suit juste le mouvement parce que c'est ce qu'on attend de nous ?"
+    mct "Est-ce que c'est okay? Tout ce toucher... est-ce vraiment ce que l'un de nous veut, ou est-ce qu'on suit juste le mouvement parce que c'est ce qu'on attend de nous?"
 
 # game/code/Book-1/Chapter-7c/s04.rpy:328
 translate french b1c07cs04_e2e0d503:
@@ -548,7 +548,7 @@ translate french b1c07cs04_087e9f39:
 translate french b1c07cs04_ecf0649c:
 
     # dk "Of course not! You were perfect, Nia."
-    dk "Bien sûr que non ! Tu étais parfaite, Nia."
+    dk "Bien sûr que non! Tu étais parfaite, Nia."
 
 # game/code/Book-1/Chapter-7c/s04.rpy:337
 translate french b1c07cs04_8f0eccef:
@@ -560,13 +560,13 @@ translate french b1c07cs04_8f0eccef:
 translate french b1c07cs04_2a7c7486:
 
     # dk "You're having a hard time relaxing, aren't you?"
-    dk "Tu as du mal à te détendre, n'est-ce pas ?"
+    dk "Tu as du mal à te détendre, n'est-ce pas?"
 
 # game/code/Book-1/Chapter-7c/s04.rpy:344
 translate french b1c07cs04_8fa9e8d0:
 
     # dk "Nia love, why don't you go to the rooftop garden and wait for us to catch up? The others are probably already there."
-    dk "Ma chère Nia, pourquoi ne vas-tu pas dans le jardin sur le toit et nous attendre là-bas ? Les autres sont probablement déjà arrivés."
+    dk "Ma chère Nia, pourquoi ne vas-tu pas dans le jardin sur le toit et nous attendre là-bas? Les autres sont probablement déjà arrivés."
 
 # game/code/Book-1/Chapter-7c/s04.rpy:345
 translate french b1c07cs04_be6519d6:
@@ -578,13 +578,13 @@ translate french b1c07cs04_be6519d6:
 translate french b1c07cs04_1c39d568:
 
     # nv "I didn't get him in trouble did I?"
-    nv "Je ne l'ai pas mis dans l'embarras, si ?"
+    nv "Je ne l'ai pas mis dans l'embarras, si?"
 
 # game/code/Book-1/Chapter-7c/s04.rpy:351
 translate french b1c07cs04_2517b3d5:
 
     # dk "Absolutely not! No one is in trouble."
-    dk "Absolument pas ! Personne n'est dans l'embarras."
+    dk "Absolument pas! Personne n'est dans l'embarras."
 
 # game/code/Book-1/Chapter-7c/s04.rpy:352
 translate french b1c07cs04_85efbf98:
@@ -614,7 +614,7 @@ translate french b1c07cs04_a8252cbe:
 translate french b1c07cs04_e50f69c5:
 
     # dk "You tensed up. Something on your mind, lover boy?"
-    dk "Tu t'es tendu. Quelque chose te tracasse, mon beau ?"
+    dk "Tu t'es tendu. Quelque chose te tracasse, mon beau?"
 
 # game/code/Book-1/Chapter-7c/s04.rpy:370
 translate french b1c07cs04_17f4a3ca:
@@ -632,7 +632,7 @@ translate french b1c07cs04_60f22ff6:
 translate french b1c07cs04_14362db1:
 
     # dk "Do new experiences scare you?"
-    dk "Les nouvelles expériences te font-elles peur ?"
+    dk "Les nouvelles expériences te font-elles peur?"
 
 # game/code/Book-1/Chapter-7c/s04.rpy:378
 translate french b1c07cs04_2364ab7f:
@@ -644,7 +644,7 @@ translate french b1c07cs04_2364ab7f:
 translate french b1c07cs04_7f71f886:
 
     # dk "Then what are you saying?"
-    dk "Alors, que veux-tu dire ?"
+    dk "Alors, que veux-tu dire?"
 
 # game/code/Book-1/Chapter-7c/s04.rpy:388
 translate french b1c07cs04_7eb47ab3:
@@ -656,13 +656,13 @@ translate french b1c07cs04_7eb47ab3:
 translate french b1c07cs04_e108b2bc:
 
     # dk "Mmm, let's see if I can give some pointers for that, mm?"
-    dk "Mmm, voyons si je peux te donner quelques conseils pour ça, hm ?"
+    dk "Mmm, voyons si je peux te donner quelques conseils pour ça, hm?"
 
 # game/code/Book-1/Chapter-7c/s04.rpy:394
 translate french b1c07cs04_b9feea43:
 
     # dk "You need to relax and open your mind, y'know?"
-    dk "Tu dois te détendre et ouvrir ton esprit, tu sais ?"
+    dk "Tu dois te détendre et ouvrir ton esprit, tu sais?"
 
 # game/code/Book-1/Chapter-7c/s04.rpy:395
 translate french b1c07cs04_faa19146:
@@ -674,7 +674,7 @@ translate french b1c07cs04_faa19146:
 translate french b1c07cs04_b726f5fa:
 
     # dk "You seemed to be enjoying yourself until the very end, though. What happened? Remember, you did nothing wrong. I just want to know what happened so I can understand you."
-    dk "Tu semblais t'amuser jusqu'à la fin, pourtant. Que s'est-il passé ? Rappelle-toi, tu n'as rien fait de mal. Je veux juste comprendre ce qui s'est passé pour te comprendre mieux."
+    dk "Tu semblais t'amuser jusqu'à la fin, pourtant. Que s'est-il passé? Rappelle-toi, tu n'as rien fait de mal. Je veux juste comprendre ce qui s'est passé pour te comprendre mieux."
 
 # game/code/Book-1/Chapter-7c/s04.rpy:399
 translate french b1c07cs04_bda2961b:
@@ -692,7 +692,7 @@ translate french b1c07cs04_4d57ece2:
 translate french b1c07cs04_76109964:
 
     # dk "Mm, I see. Do you not trust her to make her own decisions?"
-    dk "Mmm, je vois. Tu ne lui fais pas confiance pour prendre ses propres décisions ?"
+    dk "Mmm, je vois. Tu ne lui fais pas confiance pour prendre ses propres décisions?"
 
 # game/code/Book-1/Chapter-7c/s04.rpy:406
 translate french b1c07cs04_f8d82be8:
@@ -716,7 +716,7 @@ translate french b1c07cs04_a9b96202:
 translate french b1c07cs04_d39340aa:
 
     # dk "Did she?"
-    dk "L'a-t-elle fait ?"
+    dk "L'a-t-elle fait?"
 
 # game/code/Book-1/Chapter-7c/s04.rpy:413
 translate french b1c07cs04_4f671c67:
@@ -728,7 +728,7 @@ translate french b1c07cs04_4f671c67:
 translate french b1c07cs04_e18869da:
 
     # dk "Good. Then trust her to decide what she wants for herself. Do you trust yourself?"
-    dk "Bien. Alors fais-lui confiance pour décider ce qu'elle veut pour elle-même. Te fais-tu confiance ?"
+    dk "Bien. Alors fais-lui confiance pour décider ce qu'elle veut pour elle-même. Te fais-tu confiance?"
 
 # game/code/Book-1/Chapter-7c/s04.rpy:417
 translate french b1c07cs04_683b2392:
@@ -746,7 +746,7 @@ translate french b1c07cs04_66817b95:
 translate french b1c07cs04_73c99031:
 
     # mc "Love, huh? Seems a little fast."
-    mc "L'amour, hein ? Ça semble un peu rapide."
+    mc "L'amour, hein? Ça semble un peu rapide."
 
 # game/code/Book-1/Chapter-7c/s04.rpy:424
 translate french b1c07cs04_b1d2f2de:
@@ -800,7 +800,7 @@ translate french b1c07cs04_cd5c0b13:
 translate french b1c07cs04_8094f9f5:
 
     # mc "I'll have to get a tattoo when I advance?"
-    mc "Je devrai me faire tatouer quand je vais avancer ?"
+    mc "Je devrai me faire tatouer quand je vais avancer?"
 
 # game/code/Book-1/Chapter-7c/s04.rpy:451
 translate french b1c07cs04_b41f6357:
@@ -860,7 +860,7 @@ translate french b1c07cs04_514a9629:
 translate french b1c07cs04_813e7ec4:
 
     # mc "I... have to convince her to get a tattoo?"
-    mc "Je... dois la convaincre de se faire tatouer ?"
+    mc "Je... dois la convaincre de se faire tatouer?"
 
 # game/code/Book-1/Chapter-7c/s04.rpy:476
 translate french b1c07cs04_c8d5cad9:
@@ -914,7 +914,7 @@ translate french b1c07cs04_63e27a6b:
 translate french b1c07cs04_7e38e542:
 
     # mct "A tattoo isn't a life or death situation, but what if a serial kidnapper or psychopath took those girls? That's more important than a tattoo."
-    mct "Un tatouage n'est pas une question de vie ou de mort, mais et si un kidnappeur en série ou un psychopathe avait pris ces filles ? C'est plus important qu'un tatouage."
+    mct "Un tatouage n'est pas une question de vie ou de mort, mais et si un kidnappeur en série ou un psychopathe avait pris ces filles? C'est plus important qu'un tatouage."
 
 # game/code/Book-1/Chapter-7c/s04.rpy:495
 translate french b1c07cs04_f7f52c2d:
@@ -938,7 +938,7 @@ translate french b1c07cs04_89a3cc50:
 translate french b1c07cs04_3e8680f6:
 
     # mc "What, you don't wanna finish what you started?"
-    mc "Quoi, tu ne veux pas finir ce que tu as commencé ?"
+    mc "Quoi, tu ne veux pas finir ce que tu as commencé?"
 
 # game/code/Book-1/Chapter-7c/s04.rpy:507
 translate french b1c07cs04_e062b79c:
@@ -963,3 +963,4 @@ translate french strings:
     # game/code/Book-1/Chapter-7c/s04.rpy:129
     old "I see a strong, creative, resilient soul"
     new "Je vois une âme forte, créative et résiliente"
+

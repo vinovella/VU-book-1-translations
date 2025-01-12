@@ -38,7 +38,7 @@ translate french b1c08cs06_ec07aec2:
 translate french b1c08cs06_0af191b4:
 
     # mc "Good morning, Nia. I almost didn't {i}see{/i} you!"
-    mc "Bonjour, Nia. Je t'ai presque {i}pas{/i} vue !"
+    mc "Bonjour, Nia. Je t'ai presque {i}pas{/i} vue!"
 
 # game/code/Book-1/Chapter-8c/s06.rpy:44
 translate french b1c08cs06_0bae4729:
@@ -68,13 +68,13 @@ translate french b1c08cs06_7d885f8e:
 translate french b1c08cs06_a03b2511:
 
     # mc "Because it's easiest to go under the rib cage rather than through it?"
-    mc "Parce que c'est plus facile de passer sous les côtes plutôt que par-dessus ?"
+    mc "Parce que c'est plus facile de passer sous les côtes plutôt que par-dessus?"
 
 # game/code/Book-1/Chapter-8c/s06.rpy:61
 translate french b1c08cs06_b85299e8:
 
     # nv "What? Ew! No, through feeding him good food!"
-    nv "Quoi ? Beurk ! Non, en lui donnant de la bonne nourriture !"
+    nv "Quoi? Beurk! Non, en lui donnant de la bonne nourriture!"
 
 # game/code/Book-1/Chapter-8c/s06.rpy:64
 translate french b1c08cs06_6b3b54dd:
@@ -98,7 +98,7 @@ translate french b1c08cs06_3d810fa2:
 translate french b1c08cs06_6e847b77:
 
     # nv "What did you think of the welcoming party?"
-    nv "Qu'as-tu pensé de la fête de bienvenue ?"
+    nv "Qu'as-tu pensé de la fête de bienvenue?"
 
 # game/code/Book-1/Chapter-8c/s06.rpy:76
 translate french b1c08cs06_bc44ce5f:
@@ -122,19 +122,19 @@ translate french b1c08cs06_aa5cd845:
 translate french b1c08cs06_e348d186:
 
     # mc "How can you be so sure?"
-    mc "Comment peux-tu en être aussi sûre ?"
+    mc "Comment peux-tu en être aussi sûre?"
 
 # game/code/Book-1/Chapter-8c/s06.rpy:89
 translate french b1c08cs06_c4597e22:
 
     # nv "Hm? What do you mean?"
-    nv "Hm ? Que veux-tu dire ?"
+    nv "Hm? Que veux-tu dire?"
 
 # game/code/Book-1/Chapter-8c/s06.rpy:93
 translate french b1c08cs06_98b9b742:
 
     # nv "Why wouldn't I trust them? These people, this way of experiencing the world... It's given me a new, exciting direction in life."
-    nv "Pourquoi ne leur ferais-je pas confiance ? Ces gens, cette façon de voir le monde... Cela m'a donné une nouvelle direction excitante dans la vie."
+    nv "Pourquoi ne leur ferais-je pas confiance? Ces gens, cette façon de voir le monde... Cela m'a donné une nouvelle direction excitante dans la vie."
 
 # game/code/Book-1/Chapter-8c/s06.rpy:94
 translate french b1c08cs06_327900d7:
@@ -164,13 +164,13 @@ translate french b1c08cs06_fa69c627:
 translate french b1c08cs06_a9a0ed6e:
 
     # nv "Are you?"
-    nv "Et toi ?"
+    nv "Et toi?"
 
 # game/code/Book-1/Chapter-8c/s06.rpy:106
 translate french b1c08cs06_85d475fe:
 
     # mc "Of course!"
-    mc "Bien sûr !"
+    mc "Bien sûr!"
 
 # game/code/Book-1/Chapter-8c/s06.rpy:107
 translate french b1c08cs06_836a691f:
@@ -200,7 +200,7 @@ translate french b1c08cs06_c9da794d:
 translate french b1c08cs06_420a508a:
 
     # mc "Is that what you'd call last night? Pushing Lumi to go at her own pace?"
-    mc "C'est ça que tu appellerais la soirée dernière ? Pousser Lumi à aller à son rythme ?"
+    mc "C'est ça que tu appellerais la soirée dernière? Pousser Lumi à aller à son rythme?"
 
 # game/code/Book-1/Chapter-8c/s06.rpy:118
 translate french b1c08cs06_a79307df:
@@ -284,7 +284,7 @@ translate french b1c08cs06_53ed337e:
 translate french b1c08cs06_a25e1156:
 
     # ih "Oh, [mcname]!"
-    ih "Oh, [mcname] !"
+    ih "Oh, [mcname]!"
 
 # game/code/Book-1/Chapter-8c/s06.rpy:151
 translate french b1c08cs06_190a7cbb:
@@ -314,7 +314,7 @@ translate french b1c08cs06_d6e66e81:
 translate french b1c08cs06_512d5762:
 
     # ih "[mcname], won't you join us for breakfast?"
-    ih "[mcname], tu ne veux pas nous rejoindre pour le petit déjeuner ?"
+    ih "[mcname], tu ne veux pas nous rejoindre pour le petit déjeuner?"
 
 # game/code/Book-1/Chapter-8c/s06.rpy:163
 translate french b1c08cs06_6c397e7e:
@@ -332,19 +332,19 @@ translate french b1c08cs06_fc3b5f67:
 translate french b1c08cs06_956fee38:
 
     # mct "How can Nia just smile and take that kind of treatment? Does she even register that Ivy is being kind of rude?"
-    mct "Comment Nia peut-elle sourire et accepter ce genre de traitement ? Elle ne remarque même pas qu'Ivy est un peu impolie ?"
+    mct "Comment Nia peut-elle sourire et accepter ce genre de traitement? Elle ne remarque même pas qu'Ivy est un peu impolie?"
 
 # game/code/Book-1/Chapter-8c/s06.rpy:171
 translate french b1c08cs06_249b30e4:
 
     # nv "C'mon. You wanted breakfast, right?"
-    nv "Allez, tu voulais le petit déjeuner, non ?"
+    nv "Allez, tu voulais le petit déjeuner, non?"
 
 # game/code/Book-1/Chapter-8c/s06.rpy:178
 translate french b1c08cs06_1c828107:
 
     # ys "Hello! Good morning, everyone!"
-    ys "Bonjour ! Bonjour à tous !"
+    ys "Bonjour! Bonjour à tous!"
 
 # game/code/Book-1/Chapter-8c/s06.rpy:182
 translate french b1c08cs06_198dd40d:
@@ -356,7 +356,7 @@ translate french b1c08cs06_198dd40d:
 translate french b1c08cs06_91421ee0:
 
     # nv "Me too! What did you think of last night?"
-    nv "Moi aussi ! Qu'as-tu pensé de la soirée d'hier ?"
+    nv "Moi aussi! Qu'as-tu pensé de la soirée d'hier?"
 
 # game/code/Book-1/Chapter-8c/s06.rpy:186
 translate french b1c08cs06_c974dda1:
@@ -368,7 +368,7 @@ translate french b1c08cs06_c974dda1:
 translate french b1c08cs06_82ee28d2:
 
     # ih "Anything in particular you'd like to drink or eat?"
-    ih "Quelque chose en particulier que tu aimerais boire ou manger ?"
+    ih "Quelque chose en particulier que tu aimerais boire ou manger?"
 
 # game/code/Book-1/Chapter-8c/s06.rpy:189
 translate french b1c08cs06_d3af1fef:
@@ -398,7 +398,7 @@ translate french b1c08cs06_0f747084:
 translate french b1c08cs06_64a527a3:
 
     # mct "Why is she so attentive to me, but no one else? It seems like she even shuns Andre, though I don't understand why."
-    mct "Pourquoi est-elle si attentionnée envers moi, mais pas envers les autres ? On dirait qu'elle évite même Andre, bien que je ne comprenne pas pourquoi."
+    mct "Pourquoi est-elle si attentionnée envers moi, mais pas envers les autres? On dirait qu'elle évite même Andre, bien que je ne comprenne pas pourquoi."
 
 # game/code/Book-1/Chapter-8c/s06.rpy:205
 translate french b1c08cs06_a64a9299:
@@ -416,19 +416,19 @@ translate french b1c08cs06_eb3517f7:
 translate french b1c08cs06_f87239e6:
 
     # ys "I can't wait to be able to continue my yoga practice!"
-    ys "J'ai hâte de pouvoir reprendre ma pratique du yoga !"
+    ys "J'ai hâte de pouvoir reprendre ma pratique du yoga!"
 
 # game/code/Book-1/Chapter-8c/s06.rpy:212
 translate french b1c08cs06_184cb8dd:
 
     # nv "You practice yoga as well?"
-    nv "Tu pratiques aussi le yoga ?"
+    nv "Tu pratiques aussi le yoga?"
 
 # game/code/Book-1/Chapter-8c/s06.rpy:216
 translate french b1c08cs06_4aa3de46:
 
     # ys "You too?!"
-    ys "Toi aussi ?!"
+    ys "Toi aussi?!"
 
 # game/code/Book-1/Chapter-8c/s06.rpy:219
 translate french b1c08cs06_94fc2832:
@@ -470,7 +470,7 @@ translate french b1c08cs06_02a25150:
 translate french b1c08cs06_0b6788ca:
 
     # ys "I'm sure you'll get an opportunity to live here permanently someday!"
-    ys "Je suis sûre que tu auras l'opportunité de vivre ici définitivement un jour !"
+    ys "Je suis sûre que tu auras l'opportunité de vivre ici définitivement un jour!"
 
 # game/code/Book-1/Chapter-8c/s06.rpy:232
 translate french b1c08cs06_405855bf:
@@ -512,7 +512,7 @@ translate french b1c08cs06_84059336:
 translate french b1c08cs06_c6d58ea6:
 
     # mc "Have you thought of a name for the baby yet?"
-    mc "As-tu déjà pensé à un nom pour le bébé ?"
+    mc "As-tu déjà pensé à un nom pour le bébé?"
 
 # game/code/Book-1/Chapter-8c/s06.rpy:250
 translate french b1c08cs06_fcb0d07f:
@@ -540,13 +540,13 @@ translate french b1c08cs06_23262cad:
 translate french b1c08cs06_00edbe18:
 
     # nv "What kind of training is required to be on fire watch, Yvonne?"
-    nv "Quel type de formation est nécessaire pour être en surveillance contre les incendies, Yvonne ?"
+    nv "Quel type de formation est nécessaire pour être en surveillance contre les incendies, Yvonne?"
 
 # game/code/Book-1/Chapter-8c/s06.rpy:266
 translate french b1c08cs06_254871fa:
 
     # ys "Oh, not much at all! Just some directional knowledge. *Chuckles* Honestly, I'll probably mostly be talking your ear off about legends and folklore."
-    ys "Oh, pas grand-chose ! Juste quelques connaissances en orientation. *Rit* Honnêtement, je vais probablement surtout te parler de légendes et de folklore."
+    ys "Oh, pas grand-chose! Juste quelques connaissances en orientation. *Rit* Honnêtement, je vais probablement surtout te parler de légendes et de folklore."
 
 # game/code/Book-1/Chapter-8c/s06.rpy:269
 translate french b1c08cs06_e21cd74d:
@@ -558,7 +558,7 @@ translate french b1c08cs06_e21cd74d:
 translate french b1c08cs06_f861e934:
 
     # nv "I'd love to hear the stories of this forest!"
-    nv "J'adorerais entendre les histoires de cette forêt !"
+    nv "J'adorerais entendre les histoires de cette forêt!"
 
 # game/code/Book-1/Chapter-8c/s06.rpy:274
 translate french b1c08cs06_69057889:
@@ -570,7 +570,7 @@ translate french b1c08cs06_69057889:
 translate french b1c08cs06_6878f959:
 
     # ys "Oh! Don't be such a killjoy, Ivy. Nia asked."
-    ys "Oh ! Ne sois pas une rabat-joie, Ivy. Nia a posé la question."
+    ys "Oh! Ne sois pas une rabat-joie, Ivy. Nia a posé la question."
 
 # game/code/Book-1/Chapter-8c/s06.rpy:277
 translate french b1c08cs06_c14d4e45:
@@ -606,7 +606,7 @@ translate french b1c08cs06_3ae47556:
 translate french b1c08cs06_b06e505e:
 
     # ys "Sweet lamb, are we not created in their image?"
-    ys "Douce agnelle, ne sommes-nous pas créés à leur image ?"
+    ys "Douce agnelle, ne sommes-nous pas créés à leur image?"
 
 # game/code/Book-1/Chapter-8c/s06.rpy:295
 translate french b1c08cs06_c34bd908:
@@ -654,7 +654,7 @@ translate french b1c08cs06_c499f134:
 translate french b1c08cs06_92c45575:
 
     # nv "What was her name?"
-    nv "Quel était son nom ?"
+    nv "Quel était son nom?"
 
 # game/code/Book-1/Chapter-8c/s06.rpy:341
 translate french b1c08cs06_6105367c:
@@ -810,7 +810,7 @@ translate french b1c08cs06_c3753e44:
 translate french b1c08cs06_454c8ebf:
 
     # nv "But what could the animals do?"
-    nv "Mais que pouvaient faire les animaux ?"
+    nv "Mais que pouvaient faire les animaux?"
 
 # game/code/Book-1/Chapter-8c/s06.rpy:439
 translate french b1c08cs06_b4b07049:
@@ -846,7 +846,7 @@ translate french b1c08cs06_f578755b:
 translate french b1c08cs06_6d4aa622:
 
     # nv "They {i}ate{/i} her? How does that help?"
-    nv "Ils l'ont {i}mangée{/i} ? Comment cela peut-il aider ?"
+    nv "Ils l'ont {i}mangée{/i}? Comment cela peut-il aider?"
 
 # game/code/Book-1/Chapter-8c/s06.rpy:470
 translate french b1c08cs06_64378a21:
@@ -882,7 +882,7 @@ translate french b1c08cs06_7317a6e8:
 translate french b1c08cs06_19fd6c64:
 
     # mc "That's a bit morbid, isn't it?"
-    mc "C'est un peu morbide, non ?"
+    mc "C'est un peu morbide, non?"
 
 # game/code/Book-1/Chapter-8c/s06.rpy:497
 translate french b1c08cs06_7f068ed4:
@@ -900,7 +900,7 @@ translate french b1c08cs06_de16ea7e:
 translate french b1c08cs06_56879a26:
 
     # nv "Is that the end of the story?"
-    nv "C'est la fin de l'histoire ?"
+    nv "C'est la fin de l'histoire?"
 
 # game/code/Book-1/Chapter-8c/s06.rpy:504
 translate french b1c08cs06_86a001be:
@@ -930,19 +930,19 @@ translate french b1c08cs06_bec22210:
 translate french b1c08cs06_b07dfbc4:
 
     # nv "Like...they died?"
-    nv "Comme... elles sont mortes ?"
+    nv "Comme... elles sont mortes?"
 
 # game/code/Book-1/Chapter-8c/s06.rpy:513
 translate french b1c08cs06_9bf2d7dd:
 
     # ih "Yvonne, what did I say about scaring the newcomers?"
-    ih "Yvonne, que t'ai-je dit à propos de faire peur aux nouveaux venus ?"
+    ih "Yvonne, que t'ai-je dit à propos de faire peur aux nouveaux venus?"
 
 # game/code/Book-1/Chapter-8c/s06.rpy:516
 translate french b1c08cs06_e2314801:
 
     # ys "Sorry! Sorry. I love my theatrics."
-    ys "Désolée ! Désolée. J'aime bien mes théâtrales."
+    ys "Désolée! Désolée. J'aime bien mes théâtrales."
 
 # game/code/Book-1/Chapter-8c/s06.rpy:519
 translate french b1c08cs06_3c667dc8:
@@ -954,19 +954,19 @@ translate french b1c08cs06_3c667dc8:
 translate french b1c08cs06_7fa75d08:
 
     # nv "Shared? What do you mean?"
-    nv "Partagées ? Que veux-tu dire ?"
+    nv "Partagées? Que veux-tu dire?"
 
 # game/code/Book-1/Chapter-8c/s06.rpy:524
 translate french b1c08cs06_12583a0c:
 
     # ys "Everyone would {i}partake{/i} of her, of course! A little party for everyone to let loose and explore each other's bodies!"
-    ys "Tout le monde {i}partagerait{/i} avec elle, bien sûr ! Une petite fête pour que tout le monde se lâche et explore les corps des uns et des autres !"
+    ys "Tout le monde {i}partagerait{/i} avec elle, bien sûr! Une petite fête pour que tout le monde se lâche et explore les corps des uns et des autres!"
 
 # game/code/Book-1/Chapter-8c/s06.rpy:528
 translate french b1c08cs06_b5df1407:
 
     # mc "So a giant orgy?"
-    mc "Donc une grande orgie ?"
+    mc "Donc une grande orgie?"
 
 # game/code/Book-1/Chapter-8c/s06.rpy:531
 translate french b1c08cs06_769e4aef:
@@ -984,7 +984,7 @@ translate french b1c08cs06_e0c008e2:
 translate french b1c08cs06_c5c4b0cd:
 
     # ys "That's an old ritual. But my, it does sound like the definition of freedom, nature, and love, doesn't it?"
-    ys "C'est un ancien rituel. Mais mon dieu, cela ressemble bien à la définition de la liberté, de la nature et de l'amour, n'est-ce pas ?"
+    ys "C'est un ancien rituel. Mais mon dieu, cela ressemble bien à la définition de la liberté, de la nature et de l'amour, n'est-ce pas?"
 
 # game/code/Book-1/Chapter-8c/s06.rpy:536
 translate french b1c08cs06_450598b3:
@@ -996,7 +996,7 @@ translate french b1c08cs06_450598b3:
 translate french b1c08cs06_c16d083c:
 
     # nv "Are you also a disciple of Narurra?"
-    nv "Es-tu aussi une disciple de Narurra ?"
+    nv "Es-tu aussi une disciple de Narurra?"
 
 # game/code/Book-1/Chapter-8c/s06.rpy:542
 translate french b1c08cs06_559e491e:
@@ -1038,7 +1038,7 @@ translate french b1c08cs06_8f4b2300:
 translate french b1c08cs06_109a894f:
 
     # mc "A rebirth? How do you mean?"
-    mc "Une renaissance ? Que veux-tu dire ?"
+    mc "Une renaissance? Que veux-tu dire?"
 
 # game/code/Book-1/Chapter-8c/s06.rpy:559
 translate french b1c08cs06_fb25c92c:
@@ -1056,13 +1056,13 @@ translate french b1c08cs06_de84f83d:
 translate french b1c08cs06_ad60e224:
 
     # dk "There you two are!"
-    dk "Vous voilà, vous deux !"
+    dk "Vous voilà, vous deux!"
 
 # game/code/Book-1/Chapter-8c/s06.rpy:570
 translate french b1c08cs06_9024f57b:
 
     # dk "I've been looking all over for you. Breakfast is ready! Come eat."
-    dk "Je vous ai cherchés partout. Le petit-déjeuner est prêt ! Venez manger."
+    dk "Je vous ai cherchés partout. Le petit-déjeuner est prêt! Venez manger."
 
 # game/code/Book-1/Chapter-8c/s06.rpy:571
 translate french b1c08cs06_a6778112:
@@ -1092,7 +1092,7 @@ translate french b1c08cs06_f11b1655:
 translate french b1c08cs06_fd3017db:
 
     # nv "Ew! Don't be gross."
-    nv "Beurk ! Ne sois pas dégoûtant."
+    nv "Beurk! Ne sois pas dégoûtant."
 
 # game/code/Book-1/Chapter-8c/s06.rpy:587
 translate french b1c08cs06_66b69da9:
@@ -1104,7 +1104,7 @@ translate french b1c08cs06_66b69da9:
 translate french b1c08cs06_3e66b0cd:
 
     # nv "Thank you for the lovely story! I'd love to learn more sometime."
-    nv "Merci pour cette jolie histoire ! J'aimerais en apprendre plus un jour."
+    nv "Merci pour cette jolie histoire! J'aimerais en apprendre plus un jour."
 
 # game/code/Book-1/Chapter-8c/s06.rpy:593
 translate french b1c08cs06_9e311b9b:
@@ -1116,7 +1116,7 @@ translate french b1c08cs06_9e311b9b:
 translate french b1c08cs06_abe5ce97:
 
     # mct "Is that a promise?"
-    mct "C'est une promesse ?"
+    mct "C'est une promesse?"
 
 # game/code/Book-1/Chapter-8c/s06.rpy:597
 translate french b1c08cs06_1eb5fd8d:
@@ -1134,7 +1134,7 @@ translate french b1c08cs06_c1352376:
 translate french b1c08cs06_ffb1cd67:
 
     # ys "Mm, breakfast sounds good! I think I'll join you."
-    ys "Mmm, le petit-déjeuner a l'air délicieux ! Je pense que je vais vous rejoindre."
+    ys "Mmm, le petit-déjeuner a l'air délicieux! Je pense que je vais vous rejoindre."
 
 # game/code/Book-1/Chapter-8c/s06.rpy:608
 translate french b1c08cs06_c014c647:
@@ -1147,3 +1147,4 @@ translate french b1c08cs06_01c85351:
 
     # ih "You all go without me. I already had breakfast..."
     ih "Allez tous sans moi. J'ai déjà pris le petit-déjeuner..."
+

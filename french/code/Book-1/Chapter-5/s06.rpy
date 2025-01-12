@@ -2,13 +2,13 @@
 translate french b1c05s06_913d66b6:
 
     # pm "Get up, lazy!! I've got info for you."
-    pm "Debout, feignant !! J'ai des infos pour toi."
+    pm "Debout, feignant!! J'ai des infos pour toi."
 
 # game/code/Book-1/Chapter-5/s06.rpy:32
 translate french b1c05s06_e8a96cea:
 
     # mct "Lazy?! It's 6am!"
-    mct "Feignant ?! Il est 6 heures du matin !"
+    mct "Feignant?! Il est 6 heures du matin!"
 
 # game/code/Book-1/Chapter-5/s06.rpy:34
 translate french b1c05s06_f75cbad9:
@@ -32,7 +32,7 @@ translate french b1c05s06_1d1f6e16:
 translate french b1c05s06_795def89:
 
     # jh "It's a little early to be going out. Everything okay?"
-    jh "C'est un peu tôt pour sortir. Tout va bien ?"
+    jh "C'est un peu tôt pour sortir. Tout va bien?"
 
 # game/code/Book-1/Chapter-5/s06.rpy:55
 translate french b1c05s06_617d4820:
@@ -44,7 +44,7 @@ translate french b1c05s06_617d4820:
 translate french b1c05s06_fd458a23:
 
     # jh "Oh! It's been such a long time since I've seen her. How is she?"
-    jh "Oh ! Ça fait tellement longtemps que je ne l'ai pas vue. Comment va-t-elle ?"
+    jh "Oh! Ça fait tellement longtemps que je ne l'ai pas vue. Comment va-t-elle?"
 
 # game/code/Book-1/Chapter-5/s06.rpy:61
 translate french b1c05s06_18414095:
@@ -92,7 +92,7 @@ translate french b1c05s06_93aa3eb8:
 translate french b1c05s06_d816a66c:
 
     # mc "*chuckles* Why, when I know you enjoy it?"
-    mc "*rit* Pourquoi, alors que je sais que ça te plaît ?"
+    mc "*rit* Pourquoi, alors que je sais que ça te plaît?"
 
 # game/code/Book-1/Chapter-5/s06.rpy:91
 translate french b1c05s06_b4a9a828:
@@ -116,7 +116,7 @@ translate french b1c05s06_108c7a10:
 translate french b1c05s06_de5099d3:
 
     # mc "Who are these two? I think I've seen this one around campus."
-    mc "Qui sont ces deux-là ? Je crois avoir vu celle-ci sur le campus."
+    mc "Qui sont ces deux-là? Je crois avoir vu celle-ci sur le campus."
 
 # game/code/Book-1/Chapter-5/s06.rpy:114
 translate french b1c05s06_bc563db0:
@@ -248,7 +248,7 @@ translate french b1c05s06_continue_38c71b20:
 translate french b1c05s06_continue_d5d64dfb:
 
     # mc "Is there any notable leader or figure involved?"
-    mc "Y a-t-il un chef ou une figure notable impliqué(e) ?"
+    mc "Y a-t-il un chef ou une figure notable impliqué(e)?"
 
 # game/code/Book-1/Chapter-5/s06.rpy:208
 translate french b1c05s06_continue_ea43dbdb:
@@ -272,7 +272,7 @@ translate french b1c05s06_continue_3dd47e76:
 translate french b1c05s06_continue_50127757:
 
     # pm "When are you meeting? Maybe I could drive you."
-    pm "Quand as-tu rendez-vous ? Peut-être que je pourrais t'y emmener."
+    pm "Quand as-tu rendez-vous? Peut-être que je pourrais t'y emmener."
 
 # game/code/Book-1/Chapter-5/s06.rpy:216
 translate french b1c05s06_continue_9b7a03ba:
@@ -326,7 +326,7 @@ translate french b1c05s06_continue_bef1d885:
 translate french b1c05s06_continue_ea693ab7:
 
     # pm "We're adults, remember? And the missing girls are more important right now."
-    pm "Nous sommes adultes, tu te souviens ? Et les filles disparues sont plus importantes en ce moment."
+    pm "Nous sommes adultes, tu te souviens? Et les filles disparues sont plus importantes en ce moment."
 
 # game/code/Book-1/Chapter-5/s06.rpy:237
 translate french b1c05s06_continue_4464c53c:
@@ -380,7 +380,7 @@ translate french b1c05s06_continue_0e00e1e2:
 translate french b1c05s06_continue_46c1a1f7:
 
     # mc "Thanks Phoebe. Bye!"
-    mc "Merci, Phoebe. Au revoir !"
+    mc "Merci, Phoebe. Au revoir!"
 
 translate french strings:
 

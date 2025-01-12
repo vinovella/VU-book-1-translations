@@ -3,13 +3,13 @@
 translate french b1c04m3_eb12edca:
 
     # jh "Are you kidding me?! I don't have a death wish."
-    jh "Tu te moques de moi ?! Je n'ai pas envie de mourir."
+    jh "Tu te moques de moi?! Je n'ai pas envie de mourir."
 
 # game/code/Book-1/Chapter-4/s03.rpy:15
 translate french b1c04m3_7e86c7d9:
 
     # lw "C'mon! Live a little. We'll have an amazing view at the top."
-    lw "Allez ! Profite un peu. On aura une vue incroyable au sommet."
+    lw "Allez! Profite un peu. On aura une vue incroyable au sommet."
 
 # game/code/Book-1/Chapter-4/s03.rpy:17
 translate french b1c04m3_97b41595:
@@ -21,7 +21,7 @@ translate french b1c04m3_97b41595:
 translate french b1c04m3_7362a640:
 
     # lw "Ha! I'm not gonna back down on this, Josie."
-    lw "Ha ! Je ne vais pas céder là-dessus, Josie."
+    lw "Ha! Je ne vais pas céder là-dessus, Josie."
 
 # game/code/Book-1/Chapter-4/s03.rpy:21
 translate french b1c04m3_3ccec1b8:
@@ -33,13 +33,13 @@ translate french b1c04m3_3ccec1b8:
 translate french b1c04m3_8c26cb31:
 
     # mc "What's going on?"
-    mc "Que se passe-t-il ?"
+    mc "Que se passe-t-il?"
 
 # game/code/Book-1/Chapter-4/s03.rpy:43
 translate french b1c04m3_80f2b63e:
 
     # jh "Oh! I'm sorry. We shouldn't have been so loud."
-    jh "Oh ! Désolée. Nous n'aurions pas dû être si bruyantes."
+    jh "Oh! Désolée. Nous n'aurions pas dû être si bruyantes."
 
 # game/code/Book-1/Chapter-4/s03.rpy:46
 translate french b1c04m3_39b06eda:
@@ -57,7 +57,7 @@ translate french b1c04m3_1f45056d:
 translate french b1c04m3_d2dbc589:
 
     # jh "No! That's not true, [mcname]. You don't—"
-    jh "Non ! Ce n'est pas vrai, [mcname]. Tu ne—"
+    jh "Non! Ce n'est pas vrai, [mcname]. Tu ne—"
 
 # game/code/Book-1/Chapter-4/s03.rpy:55
 translate french b1c04m3_cf31033c:
@@ -93,7 +93,7 @@ translate french b1c04m3_5e0626ef:
 translate french b1c04m3_08333da7:
 
     # mc "Are you guys going rock climbing?"
-    mc "Vous allez faire de l'escalade ?"
+    mc "Vous allez faire de l'escalade?"
 
 # game/code/Book-1/Chapter-4/s03.rpy:73
 translate french b1c04m3_3ae90c90:
@@ -105,7 +105,7 @@ translate french b1c04m3_3ae90c90:
 translate french b1c04m3_1fdf1583:
 
     # mc "How did you guys start rock climbing, anyway? If I didn't know Lara was capable of spitefully defying God, I wouldn't believe it."
-    mc "Comment avez-vous commencé l'escalade, au fait ? Si je ne savais pas que Lara est capable de défier Dieu par pur esprit de contradiction, je ne le croirais pas."
+    mc "Comment avez-vous commencé l'escalade, au fait? Si je ne savais pas que Lara est capable de défier Dieu par pur esprit de contradiction, je ne le croirais pas."
 
 # game/code/Book-1/Chapter-4/s03.rpy:79
 translate french b1c04m3_e8a16714:
@@ -141,13 +141,13 @@ translate french b1c04m3_fb7e5eb2:
 translate french b1c04m3_5f290c33:
 
     # lw "What? I missed it! And I knew you'd enjoy it when you got into the swing of it."
-    lw "Quoi ? J'ai raté ça ! Et je savais que tu aimerais ça une fois que tu prendrais le coup."
+    lw "Quoi? J'ai raté ça! Et je savais que tu aimerais ça une fois que tu prendrais le coup."
 
 # game/code/Book-1/Chapter-4/s03.rpy:95
 translate french b1c04m3_58b17888:
 
     # lw "We started doing indoor rock climbing so Josie could practice. Y'know, those places with the fake mountain sides?"
-    lw "On a commencé l'escalade en salle pour que Josie puisse s'entraîner. Tu sais, ces endroits avec des parois de montagne artificielles ?"
+    lw "On a commencé l'escalade en salle pour que Josie puisse s'entraîner. Tu sais, ces endroits avec des parois de montagne artificielles?"
 
 # game/code/Book-1/Chapter-4/s03.rpy:98
 translate french b1c04m3_528fca86:
@@ -183,7 +183,7 @@ translate french b1c04m3_97b017e3:
 translate french b1c04m3_df16b3ae:
 
     # jh "See you!"
-    jh "À plus !"
+    jh "À plus!"
 
 # game/code/Book-1/Chapter-4/s03.rpy:115
 translate french b1c04m3_dd002af2:

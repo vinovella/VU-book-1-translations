@@ -38,19 +38,19 @@ translate french b1c04ss03_061e5290:
 translate french b1c04ss03_12d47155:
 
     # sa "Shall we begin?"
-    sa "On commence ?"
+    sa "On commence?"
 
 # game/code/Book-1/Chapter-4s/s03.rpy:37
 translate french b1c04ss03_28ff40c3:
 
     # mc "Sure. You said pushups were first on the list?"
-    mc "Bien sûr. Vous avez dit que les pompes étaient les premières sur la liste ?"
+    mc "Bien sûr. Vous avez dit que les pompes étaient les premières sur la liste?"
 
 # game/code/Book-1/Chapter-4s/s03.rpy:40
 translate french b1c04ss03_598fd5b7:
 
     # sa "Correct. Do you know how to do a proper push up?"
-    sa "C'est exact. Tu sais faire une pompe correctement ?"
+    sa "C'est exact. Tu sais faire une pompe correctement?"
 
 # game/code/Book-1/Chapter-4s/s03.rpy:43
 translate french b1c04ss03_dbf6bb2e:
@@ -74,7 +74,7 @@ translate french b1c04ss03_76d8f4db:
 translate french b1c04ss03_63608a74:
 
     # mct "Fifty push ups in two minutes?!"
-    mct "Cinquante pompes en deux minutes ?!"
+    mct "Cinquante pompes en deux minutes?!"
 
 # game/code/Book-1/Chapter-4s/s03.rpy:53
 translate french b1c04ss03_52534450:
@@ -86,7 +86,7 @@ translate french b1c04ss03_52534450:
 translate french b1c04ss03_1d375bef:
 
     # sa "That an issue for you?"
-    sa "Ça pose problème pour toi ?"
+    sa "Ça pose problème pour toi?"
 
 # game/code/Book-1/Chapter-4s/s03.rpy:59
 translate french b1c04ss03_13be5dc1:
@@ -152,7 +152,7 @@ translate french b1c04ss03_2dacc7fd:
 translate french b1c04ss03_802759a4:
 
     # mc "Thanks. What's next?"
-    mc "Merci. Quelle est la suite ?"
+    mc "Merci. Quelle est la suite?"
 
 # game/code/Book-1/Chapter-4s/s03.rpy:99
 translate french b1c04ss03_40984cf9:
@@ -170,7 +170,7 @@ translate french b1c04ss03_50446452:
 translate french b1c04ss03_657fed4e:
 
     # mc "Wow, you guys really don't mess around, do ya?"
-    mc "Wow, vous ne plaisantez vraiment pas, hein ?"
+    mc "Wow, vous ne plaisantez vraiment pas, hein?"
 
 # game/code/Book-1/Chapter-4s/s03.rpy:114
 translate french b1c04ss03_2496f0cb:
@@ -200,7 +200,7 @@ translate french b1c04ss03_54d76038:
 translate french b1c04ss03_e31eaf5d:
 
     # sm "Rooting for you!"
-    sm "Je suis avec toi !"
+    sm "Je suis avec toi!"
 
 # game/code/Book-1/Chapter-4s/s03.rpy:151
 translate french b1c04ss03_1d9b1159:
@@ -218,7 +218,7 @@ translate french b1c04ss03_d6825927:
 translate french b1c04ss03_547b2a01:
 
     # sa "Your father have you run laps on your sailing trip as well?"
-    sa "Ton père te faisait aussi courir des tours pendant ton voyage en bateau ?"
+    sa "Ton père te faisait aussi courir des tours pendant ton voyage en bateau?"
 
 # game/code/Book-1/Chapter-4s/s03.rpy:160
 translate french b1c04ss03_975c190e:
@@ -266,7 +266,7 @@ translate french b1c04ss03_154f5e82:
 translate french b1c04ss03_d540dfe2:
 
     # mc "What's next?"
-    mc "Quelle est la suite ?"
+    mc "Quelle est la suite?"
 
 # game/code/Book-1/Chapter-4s/s03.rpy:191
 translate french b1c04ss03_77aebd6f:
@@ -296,7 +296,7 @@ translate french b1c04ss03_ad28faaa:
 translate french b1c04ss03_f726d0cb:
 
     # sa "You sure you don't want a longer break?"
-    sa "Tu es sûr de ne pas vouloir une pause plus longue ?"
+    sa "Tu es sûr de ne pas vouloir une pause plus longue?"
 
 # game/code/Book-1/Chapter-4s/s03.rpy:204
 translate french b1c04ss03_deb02804:
@@ -326,7 +326,7 @@ translate french b1c04ss03_943ea890:
 translate french b1c04ss03_24b63f6b:
 
     # mc "What? I barely moved them."
-    mc "Quoi ? Je les ai à peine bougés."
+    mc "Quoi? Je les ai à peine bougés."
 
 # game/code/Book-1/Chapter-4s/s03.rpy:229
 translate french b1c04ss03_99a21259:
@@ -356,7 +356,7 @@ translate french b1c04ss03_e62bc87a:
 translate french b1c04ss03_b493127a:
 
     # mc "Start over?"
-    mc "Recommencer ?"
+    mc "Recommencer?"
 
 # game/code/Book-1/Chapter-4s/s03.rpy:244
 translate french b1c04ss03_2fbf0b16:
@@ -470,7 +470,7 @@ translate french b1c04ss03_26a6e696:
 translate french b1c04ss03_b2f59532:
 
     # mc "Did I pass?"
-    mc "Est-ce que j'ai réussi ?"
+    mc "Est-ce que j'ai réussi?"
 
 # game/code/Book-1/Chapter-4s/s03.rpy:318
 translate french b1c04ss03_4b134f9b:
@@ -500,7 +500,7 @@ translate french b1c04ss03_0a9562c1:
 translate french b1c04ss03_d378413a:
 
     # sm "Hi! How's it going?"
-    sm "Salut ! Ça va ?"
+    sm "Salut! Ça va?"
 
 # game/code/Book-1/Chapter-4s/s03.rpy:349
 translate french b1c04ss03_a2be20e2:
@@ -518,13 +518,13 @@ translate french b1c04ss03_e456942f:
 translate french b1c04ss03_a9bccc44:
 
     # sa "Are his times suitable for the team?"
-    sa "Ses temps conviennent-ils à l'équipe ?"
+    sa "Ses temps conviennent-ils à l'équipe?"
 
 # game/code/Book-1/Chapter-4s/s03.rpy:357
 translate french b1c04ss03_e43ba33d:
 
     # sm "Yeah, these are great!"
-    sm "Oui, ils sont excellents !"
+    sm "Oui, ils sont excellents!"
 
 # game/code/Book-1/Chapter-4s/s03.rpy:359
 translate french b1c04ss03_3f8ef442:
@@ -536,7 +536,7 @@ translate french b1c04ss03_3f8ef442:
 translate french b1c04ss03_0bec8f86:
 
     # mc "I did? Great!"
-    mc "J'ai réussi ? Super !"
+    mc "J'ai réussi? Super!"
 
 # game/code/Book-1/Chapter-4s/s03.rpy:367
 translate french b1c04ss03_2ba25dff:
@@ -572,7 +572,7 @@ translate french b1c04ss03_5d8e1638:
 translate french b1c04ss03_fc66536e:
 
     # sm "Bye, Coach!"
-    sm "Au revoir, Coach !"
+    sm "Au revoir, Coach!"
 
 # game/code/Book-1/Chapter-4s/s03.rpy:382
 translate french b1c04ss03_0aa37b2a:
@@ -584,7 +584,7 @@ translate french b1c04ss03_0aa37b2a:
 translate french b1c04ss03_d6604915:
 
     # sm "That was great! Your times are similar to our best player. I think you've got a good chance of making the team."
-    sm "C'était génial ! Tes temps sont similaires à ceux de notre meilleur joueur. Je pense que tu as une bonne chance d'intégrer l'équipe."
+    sm "C'était génial! Tes temps sont similaires à ceux de notre meilleur joueur. Je pense que tu as une bonne chance d'intégrer l'équipe."
 
 # game/code/Book-1/Chapter-4s/s03.rpy:388
 translate french b1c04ss03_abb96135:
@@ -639,3 +639,4 @@ translate french b1c04ss03_665477ea:
 
     # mct "Well, I better get changed back into my clothes."
     mct "Bon, je ferais mieux de me changer et de remettre mes vêtements."
+

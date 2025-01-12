@@ -134,13 +134,13 @@ translate french b1c08cs08_69a9c175:
 translate french b1c08cs08_af46c177:
 
     # mct "What the hell was that about?"
-    mct "C'était quoi ce délire ?"
+    mct "C'était quoi ce délire?"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:111
 translate french b1c08cs08_d6bef4c1:
 
     # dk "What did you do to attract {i}her{/i} attention? She's practically feverish with desire."
-    dk "Qu'est-ce que tu as fait pour attirer l'attention de {i}lui{/i} ? Elle est pratiquement fiévreuse de désir."
+    dk "Qu'est-ce que tu as fait pour attirer l'attention de {i}lui{/i}? Elle est pratiquement fiévreuse de désir."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:114
 translate french b1c08cs08_0cbcc25b:
@@ -158,7 +158,7 @@ translate french b1c08cs08_b1e44293:
 translate french b1c08cs08_6dbf6aae:
 
     # mc "Have you thought anymore about that tattoo?"
-    mc "As-tu réfléchi davantage à ce tatouage ?"
+    mc "As-tu réfléchi davantage à ce tatouage?"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:122
 translate french b1c08cs08_b7095039:
@@ -188,19 +188,19 @@ translate french b1c08cs08_84b84fee:
 translate french b1c08cs08_c988a918:
 
     # mc "You don't want to disappoint these people and their god, do you?"
-    mc "Tu ne veux pas décevoir ces gens et leur dieu, n'est-ce pas ?"
+    mc "Tu ne veux pas décevoir ces gens et leur dieu, n'est-ce pas?"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:135
 translate french b1c08cs08_3722dde3:
 
     # ll "No!"
-    ll "Non !"
+    ll "Non!"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:138
 translate french b1c08cs08_0409d225:
 
     # mc "Shh!"
-    mc "Chut !"
+    mc "Chut!"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:141
 translate french b1c08cs08_e63d7d5d:
@@ -308,7 +308,7 @@ translate french b1c08cs08_57cfa1fa:
 translate french b1c08cs08_c5efe9af:
 
     # ad "And if you don't follow the faith of Narurra, that is fine. You will still find peace, love, and freedom!"
-    ad "Et si vous ne suivez pas la foi de Narurra, ce n'est pas grave. Vous trouverez quand même la paix, l'amour et la liberté !"
+    ad "Et si vous ne suivez pas la foi de Narurra, ce n'est pas grave. Vous trouverez quand même la paix, l'amour et la liberté!"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:184
 translate french b1c08cs08_af396652:
@@ -332,7 +332,7 @@ translate french b1c08cs08_2e7b88a3:
 translate french b1c08cs08_c18b7413:
 
     # ad "So before we move on, I ask you: What have you done today that was in the name of love?"
-    ad "Alors avant de continuer, je vous demande : Qu'avez-vous fait aujourd'hui au nom de l'amour ?"
+    ad "Alors avant de continuer, je vous demande : Qu'avez-vous fait aujourd'hui au nom de l'amour?"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:191
 translate french b1c08cs08_090467e3:
@@ -350,7 +350,7 @@ translate french b1c08cs08_3436cde7:
 translate french b1c08cs08_e44edb53:
 
     # ad "Now! Shall we discuss ranks? Who'd like to go first?"
-    ad "Maintenant ! Discutons des rangs. Qui veut commencer ?"
+    ad "Maintenant! Discutons des rangs. Qui veut commencer?"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:204
 translate french b1c08cs08_nv_mc_talk_9fb79254:
@@ -374,7 +374,7 @@ translate french b1c08cs08_nv_mc_talk_3be732bf:
 translate french b1c08cs08_nv_mc_talk_42943132:
 
     # dk "Nia, would you like to start us off?"
-    dk "Nia, voudrais-tu commencer ?"
+    dk "Nia, voudrais-tu commencer?"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:220
 translate french b1c08cs08_nv_mc_talk_8167ca51:
@@ -530,7 +530,7 @@ translate french b1c08cs08_nv_mc_talk_268d12da:
 translate french b1c08cs08_nv_mc_talk_a49e4bcb:
 
     # dk "How have you been doing with Lumi, by the way?"
-    dk "Comment ça se passe avec Lumi, au fait ?"
+    dk "Comment ça se passe avec Lumi, au fait?"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:310
 translate french b1c08cs08_nv_mc_talk_1fc12a38:
@@ -554,13 +554,13 @@ translate french b1c08cs08_nv_mc_talk_69d83e31:
 translate french b1c08cs08_nv_mc_talk_e283e5ec:
 
     # dk "Well what methods have you been using?"
-    dk "Eh bien, quelles méthodes as-tu utilisées ?"
+    dk "Eh bien, quelles méthodes as-tu utilisées?"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:323
 translate french b1c08cs08_nv_mc_talk_675af75b:
 
     # mc "A little bit of tough love. Trying to push her to open up, y'know?"
-    mc "Un peu d'amour dur. Essayer de la pousser à s'ouvrir, tu sais ?"
+    mc "Un peu d'amour dur. Essayer de la pousser à s'ouvrir, tu sais?"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:324
 translate french b1c08cs08_nv_mc_talk_2e61bdce:
@@ -584,7 +584,7 @@ translate french b1c08cs08_nv_mc_talk_adf21b41:
 translate french b1c08cs08_nv_mc_talk_f1da1e8f:
 
     # dk "My dear, sweet boy. Have you tried {i}being nice{/i} to the girl?"
-    dk "Mon cher, doux garçon. As-tu essayé d'{i}être gentil{/i} avec la fille ?"
+    dk "Mon cher, doux garçon. As-tu essayé d'{i}être gentil{/i} avec la fille?"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:335
 translate french b1c08cs08_nv_mc_talk_750de4d7:
@@ -650,19 +650,19 @@ translate french b1c08cs08_nv_mc_talk_3e2e308f:
 translate french b1c08cs08_ll_talk_3033974e:
 
     # ad "And what about you, my pet?"
-    ad "Et toi, mon chéri ?"
+    ad "Et toi, mon chéri?"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:368
 translate french b1c08cs08_ll_talk_488aca5f:
 
     # ad "Would you like to come share your progress?"
-    ad "Voudrais-tu venir partager tes progrès ?"
+    ad "Voudrais-tu venir partager tes progrès?"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:372
 translate french b1c08cs08_ll_talk_9fbd6547:
 
     # ll "Yes! I'd love to."
-    ll "Oui ! J'adorerais."
+    ll "Oui! J'adorerais."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:376
 translate french b1c08cs08_ll_talk_310a11d4:
@@ -764,7 +764,7 @@ translate french b1c08cs08_ll_talk_0b945ca3:
 translate french b1c08cs08_ll_talk_b6145eb9:
 
     # ad "And have you thought about getting that tattoo we talked about?"
-    ad "Et as-tu réfléchi à te faire ce tatouage dont on parlait ?"
+    ad "Et as-tu réfléchi à te faire ce tatouage dont on parlait?"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:413
 translate french b1c08cs08_ll_talk_ae2df3e4:
@@ -776,7 +776,7 @@ translate french b1c08cs08_ll_talk_ae2df3e4:
 translate french b1c08cs08_ll_talk_5776fdfd:
 
     # ll "But is it required that you mark me? To brand me like livestock?"
-    ll "Mais est-ce nécessaire que tu me marques ? Me brandir comme du bétail ?"
+    ll "Mais est-ce nécessaire que tu me marques? Me brandir comme du bétail?"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:417
 translate french b1c08cs08_ll_talk_fc975291:
@@ -788,13 +788,13 @@ translate french b1c08cs08_ll_talk_fc975291:
 translate french b1c08cs08_ll_talk_4c6df594:
 
     # ad "My sweet pet. Don't you want to be branded for me?"
-    ad "Ma douce petite. Tu ne veux pas être marquée pour moi ?"
+    ad "Ma douce petite. Tu ne veux pas être marquée pour moi?"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:421
 translate french b1c08cs08_ll_talk_a6861562:
 
     # ad "Don't you want to be branded for {i}all{/i} of us?"
-    ad "Tu ne veux pas être marquée pour {i}nous tous{/i} ?"
+    ad "Tu ne veux pas être marquée pour {i}nous tous{/i}?"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:424
 translate french b1c08cs08_ll_talk_5bb98a18:
@@ -806,19 +806,19 @@ translate french b1c08cs08_ll_talk_5bb98a18:
 translate french b1c08cs08_ll_talk_65299246:
 
     # ad "And how are you ever going to progress past this issue if you hesitate?"
-    ad "Et comment vas-tu avancer dans cette question si tu hésites ?"
+    ad "Et comment vas-tu avancer dans cette question si tu hésites?"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:430
 translate french b1c08cs08_ll_talk_c616c150:
 
     # ad "Lumi, my pet. What could you possibly be afraid of? What is there to lose?"
-    ad "Lumi, mon petit. De quoi pourrais-tu avoir peur ? Qu'est-ce qu'il y a à perdre ?"
+    ad "Lumi, mon petit. De quoi pourrais-tu avoir peur? Qu'est-ce qu'il y a à perdre?"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:432
 translate french b1c08cs08_ll_talk_830bfcd1:
 
     # ad "We are all here to support you. Have we not shown you infinite kindness and acceptance while you've been in our care?"
-    ad "Nous sommes tous ici pour te soutenir. Ne t'avons-nous pas montré une gentillesse et une acceptation infinies pendant que tu étais sous notre soin ?"
+    ad "Nous sommes tous ici pour te soutenir. Ne t'avons-nous pas montré une gentillesse et une acceptation infinies pendant que tu étais sous notre soin?"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:436
 translate french b1c08cs08_ll_talk_8a47c774:
@@ -890,13 +890,13 @@ translate french b1c08cs08_ll_talk_3df76080:
 translate french b1c08cs08_ll_talk_a7c9f3d4:
 
     # ad "So what do you say, my pet?"
-    ad "Alors, qu'en dis-tu, mon petit ?"
+    ad "Alors, qu'en dis-tu, mon petit?"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:468
 translate french b1c08cs08_ll_talk_d5d92908:
 
     # ad "Are you ready to let go of this burden and get the tattoo that symbolizes your new life?"
-    ad "Es-tu prête à lâcher ce fardeau et à te faire tatouer, symbole de ta nouvelle vie ?"
+    ad "Es-tu prête à lâcher ce fardeau et à te faire tatouer, symbole de ta nouvelle vie?"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:470
 translate french b1c08cs08_ll_talk_71161586:
@@ -938,7 +938,7 @@ translate french b1c08cs08_ll_talk_acc6513e:
 translate french b1c08cs08_ll_talk_d64e10b9:
 
     # ad "What have we done wrong for you to disappoint us like this, Lumi?"
-    ad "Qu'avons-nous fait de mal pour que tu nous déçoives ainsi, Lumi ?"
+    ad "Qu'avons-nous fait de mal pour que tu nous déçoives ainsi, Lumi?"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:491
 translate french b1c08cs08_ll_talk_1c710991:
@@ -950,13 +950,13 @@ translate french b1c08cs08_ll_talk_1c710991:
 translate french b1c08cs08_ll_talk_475f791e:
 
     # ll "N-nothing! It's my own fault. You've all been wonderful. It's just a big decision and I want to be sure."
-    ll "R-rien ! C'est de ma faute. Vous avez tous été merveilleux. C'est juste une grande décision et je veux être sûre."
+    ll "R-rien! C'est de ma faute. Vous avez tous été merveilleux. C'est juste une grande décision et je veux être sûre."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:497
 translate french b1c08cs08_ll_talk_6b54b059:
 
     # ih "Perhaps a punishment is in order?"
-    ih "Peut-être qu'une punition est nécessaire ?"
+    ih "Peut-être qu'une punition est nécessaire?"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:503
 translate french b1c08cs08_ll_talk_6d16051f:
@@ -968,7 +968,7 @@ translate french b1c08cs08_ll_talk_6d16051f:
 translate french b1c08cs08_ll_talk_d2a33807:
 
     # ad "What kind of punishment is appropriate for our Lumi?"
-    ad "Quel genre de punition est approprié pour notre Lumi ?"
+    ad "Quel genre de punition est approprié pour notre Lumi?"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:516
 translate french b1c08cs08_ll_punishment_44a2e48c:
@@ -998,7 +998,7 @@ translate french b1c08cs08_ll_punishment_6377f2c4:
 translate french b1c08cs08_ll_punishment_bcc92eb8:
 
     # mct "What the fuck are they even going to have me do?"
-    mct "Mais qu'est-ce qu'ils vont me faire faire ?"
+    mct "Mais qu'est-ce qu'ils vont me faire faire?"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:537
 translate french b1c08cs08_ll_punishment_e0af6243:
@@ -1010,7 +1010,7 @@ translate french b1c08cs08_ll_punishment_e0af6243:
 translate french b1c08cs08_ll_punishment_2fc4d0b7:
 
     # mc "What do you want me to do?"
-    mc "Qu'est-ce que vous voulez que je fasse ?"
+    mc "Qu'est-ce que vous voulez que je fasse?"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:543
 translate french b1c08cs08_ll_punishment_65b67fb5:
@@ -1028,7 +1028,7 @@ translate french b1c08cs08_ll_punishment_70cdc748:
 translate french b1c08cs08_ll_punishment_1ad478f1:
 
     # ad "A spanking? You harsh minx."
-    ad "Une fessée ? Espèce de dure coquine."
+    ad "Une fessée? Espèce de dure coquine."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:555
 translate french b1c08cs08_ll_punishment_dd373ad8:
@@ -1040,7 +1040,7 @@ translate french b1c08cs08_ll_punishment_dd373ad8:
 translate french b1c08cs08_ll_punishment_251a29f5:
 
     # ih "Can you help her see reason, or are you just as feeble as she is?"
-    ih "Peux-tu l'aider à retrouver la raison, ou es-tu aussi faible qu'elle ?"
+    ih "Peux-tu l'aider à retrouver la raison, ou es-tu aussi faible qu'elle?"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:559
 translate french b1c08cs08_ll_punishment_6b06f056:
@@ -1064,13 +1064,13 @@ translate french b1c08cs08_ll_punishment_e2bf61d3:
 translate french b1c08cs08_ll_punishment_cf9ba612:
 
     # mc "This is some fucking show of kindness and acceptance!{w} Do you have any idea how difficult this has been for her?"
-    mc "C'est une putain de démonstration de gentillesse et d'acceptation !{w} As-tu une idée à quel point cela a été difficile pour elle ?"
+    mc "C'est une putain de démonstration de gentillesse et d'acceptation!{w} As-tu une idée à quel point cela a été difficile pour elle?"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:576
 translate french b1c08cs08_ll_punishment_d9046119:
 
     # mc "You preach about acceptance and understanding, but then pressure your most fragile members to do things they're not ready for!"
-    mc "Vous prêchez l'acceptation et la compréhension, mais vous faites ensuite pression sur vos membres les plus fragiles pour qu'ils fassent des choses pour lesquelles ils ne sont pas prêts !"
+    mc "Vous prêchez l'acceptation et la compréhension, mais vous faites ensuite pression sur vos membres les plus fragiles pour qu'ils fassent des choses pour lesquelles ils ne sont pas prêts!"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:582
 translate french b1c08cs08_ll_punishment_c4d9c846:
@@ -1094,25 +1094,25 @@ translate french b1c08cs08_ll_punishment_e0f14f35:
 translate french b1c08cs08_ll_punishment_800605ee:
 
     # ih "Are you also ungrateful for all the hospitality we've shown you?"
-    ih « Etes-vous également ingrat pour toute l'hospitalité que nous vous avons témoignée ?
+    ih "Etes-vous également ingrat pour toute l'hospitalité que nous vous avons témoignée?"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:592
 translate french b1c08cs08_ll_punishment_8dd5f09f:
 
     # mc "I don't appreciate you forcing young women into public displays they're not comfortable with. She said no!"
-    mc "Je n'apprécie pas que vous forciez des jeunes femmes à participer à des manifestations publiques avec lesquelles elles ne sont pas à l'aise. Elle a dit non !"
+    mc "Je n'apprécie pas que vous forciez des jeunes femmes à participer à des manifestations publiques avec lesquelles elles ne sont pas à l'aise. Elle a dit non!"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:595
 translate french b1c08cs08_ll_punishment_67edf839:
 
     # mc "Hasn't {i}he{/i} done enough to her esteem as is?"
-    mc "N'a-t-il pas fait assez pour son estime ?"
+    mc "N'a-t-il pas fait assez pour son estime?"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:600
 translate french b1c08cs08_ll_punishment_f7deed9c:
 
     # ad "You see, everyone? Perfect example of rock bottom. This immature boy cannot even communicate and control his emotions properly."
-    ad "Vous voyez, tout le monde ? Parfait exemple de fond. Ce garçon immature ne peut même pas communiquer et contrôler correctement ses émotions."
+    ad "Vous voyez, tout le monde? Parfait exemple de fond. Ce garçon immature ne peut même pas communiquer et contrôler correctement ses émotions."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:601
 translate french b1c08cs08_ll_punishment_0a430f1f:
@@ -1142,7 +1142,7 @@ translate french b1c08cs08_ll_punishment_7081620f:
 translate french b1c08cs08_ll_punishment_639a3c0e:
 
     # mct "Fuck. Fuck!"
-    mct "Putain. Putain !"
+    mct "Putain. Putain!"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:614
 translate french b1c08cs08_ll_punishment_1e242612:
@@ -1286,13 +1286,13 @@ translate french b1c08cs08_ll_punishment_9496ed79:
 translate french b1c08cs08_ll_punishment_2bea97d8:
 
     # ih "Of course, Lumi's punishment is merely a re-directional action. *Laughs* After all, we're not a prison!"
-    ih "Bien sûr, la punition de Lumi n'est qu'une action de réorientation. *Rit* Après tout, nous ne sommes pas une prison !"
+    ih "Bien sûr, la punition de Lumi n'est qu'une action de réorientation. *Rit* Après tout, nous ne sommes pas une prison!"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:681
 translate french b1c08cs08_ll_punishment_83a79485:
 
     # ih "Do you understand, Lumi?"
-    ih "Tu comprends, Lumi ?"
+    ih "Tu comprends, Lumi?"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:684
 translate french b1c08cs08_ll_punishment_ac09155f:
@@ -1322,7 +1322,7 @@ translate french b1c08cs08_ll_punishment_ee4aac44:
 translate french b1c08cs08_ll_punishment_2db6c3fd:
 
     # ih "It's a much better experience if you can feel it, hm?"
-    ih "C'est bien plus agréable si tu peux le sentir, hein ?"
+    ih "C'est bien plus agréable si tu peux le sentir, hein?"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:700
 translate french b1c08cs08_ll_punishment_d4d87a94:
@@ -1346,7 +1346,7 @@ translate french b1c08cs08_ll_spanking_9822128a:
 translate french b1c08cs08_ll_spanking_07f9ceee:
 
     # ll "We're in it together, right?"
-    ll "On est dans le même bateau, n'est-ce pas ?"
+    ll "On est dans le même bateau, n'est-ce pas?"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:724
 translate french b1c08cs08_ll_spanking_54a52e86:
@@ -1496,7 +1496,7 @@ translate french b1c08cs08_ll_spanking_95c7633a:
 translate french b1c08cs08_ll_spanking_ccb77054:
 
     # ll "I-I'm fine! I want more! Spank me more."
-    ll "Je-je vais bien ! J'en veux plus ! Donne-moi plus de fessée."
+    ll "Je-je vais bien! J'en veux plus! Donne-moi plus de fessée."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:826
 translate french b1c08cs08_ll_spanking_12ea3f09:
@@ -1526,13 +1526,13 @@ translate french b1c08cs08_ll_spanking_5b69e72c:
 translate french b1c08cs08_ll_spanking_5d0fce23:
 
     # ll "I-I'm sorry! I can't take it anymore."
-    ll "Je-je suis désolé ! Je n'en peux plus."
+    ll "Je-je suis désolé! Je n'en peux plus."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:853
 translate french b1c08cs08_ll_spanking_6c7016e8:
 
     # ll "I did all I could. It stings! Just give me a little break and I—"
-    ll "J'ai fait tout ce que j'ai pu. Ça pique ! Donne-moi juste une petite pause et je—"
+    ll "J'ai fait tout ce que j'ai pu. Ça pique! Donne-moi juste une petite pause et je—"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:856
 translate french b1c08cs08_ll_spanking_b4741130:
@@ -1646,7 +1646,7 @@ translate french b1c08cs08_ll_spanking_e893c505:
 translate french b1c08cs08_ll_spanking_60b6cd4c:
 
     # ll "Y-you really think I did good?"
-    ll "Tu penses vraiment que j'ai bien fait ?"
+    ll "Tu penses vraiment que j'ai bien fait?"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:908
 translate french b1c08cs08_ll_spanking_57bb33bb:
@@ -1700,19 +1700,19 @@ translate french b1c08cs08_ll_spanking_33bcc729:
 translate french b1c08cs08_ll_spanking_c525060e:
 
     # ad "But, are you sure you're ready? I certainly wouldn't want you to regret this later..."
-    ad "Mais, es-tu sûre d'être prête ? Je ne voudrais surtout pas que tu regrettes cela plus tard..."
+    ad "Mais, es-tu sûre d'être prête? Je ne voudrais surtout pas que tu regrettes cela plus tard..."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:934
 translate french b1c08cs08_ll_spanking_a001776b:
 
     # ll "Well, what can I do to prove myself? I want to make it clear I'm ready for this."
-    ll "Eh bien, que puis-je faire pour prouver ma valeur ? Je veux montrer que je suis prête pour ça."
+    ll "Eh bien, que puis-je faire pour prouver ma valeur? Je veux montrer que je suis prête pour ça."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:937
 translate french b1c08cs08_ll_spanking_575f4893:
 
     # mc "Hasn't she proved herself enough? She just—"
-    mc "Ne s'est-elle pas suffisamment prouvée ? Elle vient de—"
+    mc "Ne s'est-elle pas suffisamment prouvée? Elle vient de—"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:940
 translate french b1c08cs08_ll_spanking_5469ace5:
@@ -1754,7 +1754,7 @@ translate french b1c08cs08_ll_spanking_c6281b4a:
 translate french b1c08cs08_ll_spanking_ca02e87f:
 
     # ad "If you're so sure, why don't you try touching yourself again? See how your body feels."
-    ad "Si tu en es si sûre, pourquoi ne pas essayer de te toucher à nouveau ? Vois comment ton corps réagit."
+    ad "Si tu en es si sûre, pourquoi ne pas essayer de te toucher à nouveau? Vois comment ton corps réagit."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:963
 translate french b1c08cs08_ll_spanking_e35e7eb3:
@@ -1820,7 +1820,7 @@ translate french b1c08cs08_ll_spanking_28df24f3:
 translate french b1c08cs08_ll_spanking_52e55d78:
 
     # ad "That's it, Lumi!"
-    ad "C'est ça, Lumi !"
+    ad "C'est ça, Lumi!"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:1032
 translate french b1c08cs08_ll_spanking_4c3ab442:
@@ -1850,7 +1850,7 @@ translate french b1c08cs08_ll_spanking_506b68ff:
 translate french b1c08cs08_end_29e9d581:
 
     # ad "That was an incredible experience to witness, ladies!"
-    ad "C'était une expérience incroyable à vivre, mesdames !"
+    ad "C'était une expérience incroyable à vivre, mesdames!"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:1068
 translate french b1c08cs08_end_577c5ddb:
@@ -1862,7 +1862,7 @@ translate french b1c08cs08_end_577c5ddb:
 translate french b1c08cs08_end_3f9721aa:
 
     # ad "Lumi is ready to advance to the next rank! She will be tattooed as soon as possible when we return home."
-    ad "Lumi est prête à passer au niveau suivant ! Elle sera tatouée dès que possible lorsque nous rentrerons chez nous."
+    ad "Lumi est prête à passer au niveau suivant! Elle sera tatouée dès que possible lorsque nous rentrerons chez nous."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:1077
 translate french b1c08cs08_end_296bdbaf:
@@ -1886,7 +1886,7 @@ translate french b1c08cs08_end_2fd05136:
 translate french b1c08cs08_end_c65f74d5:
 
     # mc "Did I do something wrong?"
-    mc "Ai-je fait quelque chose de mal ?"
+    mc "Ai-je fait quelque chose de mal?"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:1097
 translate french b1c08cs08_end_1e56c17f:
@@ -1934,7 +1934,7 @@ translate french b1c08cs08_end_4a059acd:
 translate french b1c08cs08_end_a1666568:
 
     # dk "But no matter! I'm sure my womanly charms can persuade him one way or another."
-    dk "Mais peu importe ! Je suis sûre que mes charmes féminins sauront le persuader d'une manière ou d'une autre."
+    dk "Mais peu importe! Je suis sûre que mes charmes féminins sauront le persuader d'une manière ou d'une autre."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:1115
 translate french b1c08cs08_end_925722b3:
@@ -1952,7 +1952,7 @@ translate french b1c08cs08_end_35555edd:
 translate french b1c08cs08_end_dcfd3f5c:
 
     # ll "[mcname]? I think I'm ready to go to sleep now. Will you walk me to bed?"
-    ll "[mcname]? Je pense que je suis prête à aller dormir maintenant. Tu veux bien me raccompagner au lit ?"
+    ll "[mcname]? Je pense que je suis prête à aller dormir maintenant. Tu veux bien me raccompagner au lit?"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:1124
 translate french b1c08cs08_end_e20cd15a:

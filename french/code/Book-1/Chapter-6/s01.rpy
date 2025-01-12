@@ -3,7 +3,7 @@
 translate french b1c06s01_8864c0d8:
 
     # lw "Josie?"
-    lw "Josie ?"
+    lw "Josie?"
 
 # game/code/Book-1/Chapter-6/s01.rpy:58
 translate french b1c06s01_fb2df345:
@@ -33,7 +33,7 @@ translate french b1c06s01_2fa17be9:
 translate french b1c06s01_e15fe2a5:
 
     # mc "Where is Josie? She's not normally out this late."
-    mc "Où est Josie ? Elle ne sort pas habituellement aussi tard."
+    mc "Où est Josie? Elle ne sort pas habituellement aussi tard."
 
 # game/code/Book-1/Chapter-6/s01.rpy:73
 translate french b1c06s01_0e58fed8:
@@ -81,13 +81,13 @@ translate french b1c06s01_5c5cb43e:
 translate french b1c06s01_b1d1e7c6:
 
     # lw "Are you in trouble or something?"
-    lw "Tu as des ennuis ou quelque chose comme ça ?"
+    lw "Tu as des ennuis ou quelque chose comme ça?"
 
 # game/code/Book-1/Chapter-6/s01.rpy:95
 translate french b1c06s01_275c1536:
 
     # mc "You wish. Where's the number?"
-    mc "Tu rêves. Où est le numéro ?"
+    mc "Tu rêves. Où est le numéro?"
 
 # game/code/Book-1/Chapter-6/s01.rpy:98
 translate french b1c06s01_55a9b6ab:
@@ -117,7 +117,7 @@ translate french b1c06s01_db183796:
 translate french b1c06s01_ed0a7c1d:
 
     # mct "Regardless, if I ignore Ronja it might piss her off. But going to her office at this hour, regardless of the reason, might also piss off Diana. Who do I want to piss off less?"
-    mct "Peu importe, si j'ignore Ronja, ça pourrait l'énerver. Mais aller à son bureau à cette heure-ci, quelle qu'en soit la raison, pourrait aussi énerver Diana. Qui ai-je le moins envie d'énerver ?"
+    mct "Peu importe, si j'ignore Ronja, ça pourrait l'énerver. Mais aller à son bureau à cette heure-ci, quelle qu'en soit la raison, pourrait aussi énerver Diana. Qui ai-je le moins envie d'énerver?"
 
 # game/code/Book-1/Chapter-6/s01.rpy:123
 translate french b1c06s01_call_rh_3dcec546:
@@ -141,7 +141,7 @@ translate french b1c06s01_call_rh_93cb18bd:
 translate french b1c06s01_call_rh_46a90d7a:
 
     # rh "[mcname]! I was hoping you'd call."
-    rh "[mcname] ! J'espérais que tu appellerais."
+    rh "[mcname]! J'espérais que tu appellerais."
 
 # game/code/Book-1/Chapter-6/s01.rpy:139
 translate french b1c06s01_call_rh_e29ab1d8:
@@ -165,7 +165,7 @@ translate french b1c06s01_call_rh_670ba855:
 translate french b1c06s01_call_rh_a69f911a:
 
     # mc "I'm on my way. Is everything okay?"
-    mc "J'arrive. Tout va bien ?"
+    mc "J'arrive. Tout va bien?"
 
 # game/code/Book-1/Chapter-6/s01.rpy:149
 translate french b1c06s01_call_rh_94937786:
@@ -207,7 +207,7 @@ translate french b1c06s01_call_rh_f68e3766:
 translate french b1c06s01_call_rh_02cd4679:
 
     # lw "Everything okay?"
-    lw "Tout va bien ?"
+    lw "Tout va bien?"
 
 # game/code/Book-1/Chapter-6/s01.rpy:166
 translate french b1c06s01_call_rh_99e50296:
@@ -231,19 +231,19 @@ translate french b1c06s01_call_rh_3b65cc01:
 translate french b1c06s01_call_rh_5fdc0b04:
 
     # mct "She asked me to rush over here and then doesn't even answer the door? That's weird."
-    mct "Elle m'a demandé de me dépêcher de venir ici et elle ne répond même pas à la porte ? C'est bizarre."
+    mct "Elle m'a demandé de me dépêcher de venir ici et elle ne répond même pas à la porte? C'est bizarre."
 
 # game/code/Book-1/Chapter-6/s01.rpy:180
 translate french b1c06s01_call_rh_822a72b3:
 
     # mct "Maybe she left and is on her way back?"
-    mct "Peut-être qu'elle est partie et qu'elle revient ?"
+    mct "Peut-être qu'elle est partie et qu'elle revient?"
 
 # game/code/Book-1/Chapter-6/s01.rpy:188
 translate french b1c06s01_call_rh_c6f1863c:
 
     # mc "Whoa!"
-    mc "Whoa !"
+    mc "Whoa!"
 
 # game/code/Book-1/Chapter-6/s01.rpy:194
 translate french b1c06s01_call_rh_bcc98cb4:
@@ -345,7 +345,7 @@ translate french b1c06s01_call_rh_315153fc:
 translate french b1c06s01_call_rh_b4e2e6e0:
 
     # rh "Ah! Yes! Spank me."
-    rh "Ah ! Oui ! Donnez-moi une fessée."
+    rh "Ah! Oui! Donnez-moi une fessée."
 
 # game/code/Book-1/Chapter-6/s01.rpy:298
 translate french b1c06s01_call_rh_ed96df52:
@@ -363,7 +363,7 @@ translate french b1c06s01_call_rh_526d0213:
 translate french b1c06s01_call_rh_edb68ac5:
 
     # rh "Ah! Fuck, fuck, fuck!"
-    rh "Ah ! Putain, putain, putain !"
+    rh "Ah! Putain, putain, putain!"
 
 # game/code/Book-1/Chapter-6/s01.rpy:321
 translate french b1c06s01_call_rh_b2d7fe2a:
@@ -519,7 +519,7 @@ translate french b1c06s01_call_rh_13c61fea:
 translate french b1c06s01_call_rh_a72076dc:
 
     # rh "You want a drink? I have some wine in the drawer."
-    rh "Tu veux un verre ? J'ai du vin dans le tiroir."
+    rh "Tu veux un verre? J'ai du vin dans le tiroir."
 
 # game/code/Book-1/Chapter-6/s01.rpy:438
 translate french b1c06s01_call_rh_79712347:
@@ -579,7 +579,7 @@ translate french b1c06s01_call_rh_f26e5304:
 translate french b1c06s01_call_rh_dd59acf3:
 
     # rh "Hah! You know me so well."
-    rh "Hah ! Tu me connais si bien."
+    rh "Hah! Tu me connais si bien."
 
 # game/code/Book-1/Chapter-6/s01.rpy:478
 translate french b1c06s01_call_rh_c8acc6db:
@@ -591,7 +591,7 @@ translate french b1c06s01_call_rh_c8acc6db:
 translate french b1c06s01_call_rh_74b74168:
 
     # mct "Next time?"
-    mct "La prochaine fois ?"
+    mct "La prochaine fois?"
 
 # game/code/Book-1/Chapter-6/s01.rpy:484
 translate french b1c06s01_call_rh_7f5913c7:
@@ -615,7 +615,7 @@ translate french b1c06s01_call_rh_adfa9e8a:
 translate french b1c06s01_call_rh_936e014e:
 
     # mc "How'd she know we were in here?"
-    mc "Comment savait-elle qu'on était là ?"
+    mc "Comment savait-elle qu'on était là?"
 
 # game/code/Book-1/Chapter-6/s01.rpy:497
 translate french b1c06s01_call_rh_7e4f219d:
@@ -633,7 +633,7 @@ translate french b1c06s01_call_rh_9f3070b9:
 translate french b1c06s01_call_rh_93c0f70d:
 
     # mc "You mean she has a sixth sense for the kind of trouble you're up to?"
-    mc "Tu veux dire qu'elle a un sixième sens pour les ennuis que tu provoques ?"
+    mc "Tu veux dire qu'elle a un sixième sens pour les ennuis que tu provoques?"
 
 # game/code/Book-1/Chapter-6/s01.rpy:506
 translate french b1c06s01_call_rh_30b4993e:
@@ -675,7 +675,7 @@ translate french b1c06s01_no_call_a36de2ac:
 translate french b1c06s01_no_call_91b5e3df:
 
     # lw "Not going to call her, then?"
-    lw "Tu ne vas pas l'appeler, alors ?"
+    lw "Tu ne vas pas l'appeler, alors?"
 
 # game/code/Book-1/Chapter-6/s01.rpy:529
 translate french b1c06s01_no_call_5ad4d2bf:
@@ -746,3 +746,4 @@ translate french strings:
     # game/code/Book-1/Chapter-6/s01.rpy:110
     old "Don't call Ronja"
     new "Ne pas appeler Ronja"
+

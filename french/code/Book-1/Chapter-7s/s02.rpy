@@ -8,7 +8,7 @@ translate french b1c07ss02_c09d8645:
 translate french b1c07ss02_d56db755:
 
     # "Guard" "Cori Bunker, huh?"
-    "Guard" "Cori Bunker, hein ?"
+    "Guard" "Cori Bunker, hein?"
 
 # game/code/Book-1/Chapter-7s/s02.rpy:25
 translate french b1c07ss02_17bc6980:
@@ -26,7 +26,7 @@ translate french b1c07ss02_3922d01e:
 translate french b1c07ss02_ef16fecf:
 
     # mc "They were questioning her?"
-    mc "Ils l'interrogeaient ?"
+    mc "Ils l'interrogeaient?"
 
 # game/code/Book-1/Chapter-7s/s02.rpy:33
 translate french b1c07ss02_db004851:
@@ -68,7 +68,7 @@ translate french b1c07ss02_595994bc:
 translate french b1c07ss02_0eeb51b4:
 
     # mc "Is she dangerous?"
-    mc "Elle est dangereuse ?"
+    mc "Elle est dangereuse?"
 
 # game/code/Book-1/Chapter-7s/s02.rpy:51
 translate french b1c07ss02_c55967ae:
@@ -116,7 +116,7 @@ translate french b1c07ss02_ccc47384:
 translate french b1c07ss02_1c6a6b5e:
 
     # cb "Seriously? More questioning? You pigs can't get enough of me, huh?"
-    cb "Sérieusement ? Encore des questions ? Vous cochons ne pouvez pas en avoir assez de moi, hein ?"
+    cb "Sérieusement? Encore des questions? Vous cochons ne pouvez pas en avoir assez de moi, hein?"
 
 # game/code/Book-1/Chapter-7s/s02.rpy:86
 translate french b1c07ss02_a96e24c5:
@@ -128,7 +128,7 @@ translate french b1c07ss02_a96e24c5:
 translate french b1c07ss02_bf6de2c3:
 
     # cb "They gave me fresh meat to play with, eh?"
-    cb "Ils m'ont donné de la viande fraîche à jouer, hein ?"
+    cb "Ils m'ont donné de la viande fraîche à jouer, hein?"
 
 # game/code/Book-1/Chapter-7s/s02.rpy:95
 translate french b1c07ss02_f47a0be8:
@@ -140,7 +140,7 @@ translate french b1c07ss02_f47a0be8:
 translate french b1c07ss02_86b9fe2c:
 
     # cb "What about it?"
-    cb "Qu'en est-il ?"
+    cb "Qu'en est-il?"
 
 # game/code/Book-1/Chapter-7s/s02.rpy:100
 translate french b1c07ss02_7e780bf3:
@@ -152,13 +152,13 @@ translate french b1c07ss02_7e780bf3:
 translate french b1c07ss02_0b8d3321:
 
     # mc "Why do you think you're here?"
-    mc "Pourquoi tu penses être ici ?"
+    mc "Pourquoi tu penses être ici?"
 
 # game/code/Book-1/Chapter-7s/s02.rpy:106
 translate french b1c07ss02_f7bec4d0:
 
     # cb "Why is anyone anywhere?"
-    cb "Pourquoi quelqu'un est-il n'importe où ?"
+    cb "Pourquoi quelqu'un est-il n'importe où?"
 
 # game/code/Book-1/Chapter-7s/s02.rpy:111
 translate french b1c07ss02_2c983ffb:
@@ -170,7 +170,7 @@ translate french b1c07ss02_2c983ffb:
 translate french b1c07ss02_835c9741:
 
     # cb "Why are {i}you{/i} here?"
-    cb "Pourquoi est-ce que {i}tu{/i} es ici ?"
+    cb "Pourquoi est-ce que {i}tu{/i} es ici?"
 
 # game/code/Book-1/Chapter-7s/s02.rpy:115
 translate french b1c07ss02_f759457f:
@@ -188,7 +188,7 @@ translate french b1c07ss02_08577cff:
 translate french b1c07ss02_60da8027:
 
     # mc "Did you know Leia de la Cruz?"
-    mc "Tu connaissais Leia de la Cruz ?"
+    mc "Tu connaissais Leia de la Cruz?"
 
 # game/code/Book-1/Chapter-7s/s02.rpy:122
 translate french b1c07ss02_6e16eff7:
@@ -200,13 +200,13 @@ translate french b1c07ss02_6e16eff7:
 translate french b1c07ss02_f49f646e:
 
     # mc "Are you always so...?"
-    mc "Tu es toujours aussi... ?"
+    mc "Tu es toujours aussi...?"
 
 # game/code/Book-1/Chapter-7s/s02.rpy:128
 translate french b1c07ss02_00e4bd8f:
 
     # cb "Hot? Unbothered? Coooool?"
-    cb "Sexy ? Imperturbable ? Trop cool ?"
+    cb "Sexy? Imperturbable? Trop cool?"
 
 # game/code/Book-1/Chapter-7s/s02.rpy:131
 translate french b1c07ss02_9cf58c25:
@@ -248,13 +248,13 @@ translate french b1c07ss02_d9d971be:
 translate french b1c07ss02_0566a923:
 
     # mc "Were you like this with the previous interrogators as well?"
-    mc "Tu étais comme ça avec les interrogateurs précédents aussi ?"
+    mc "Tu étais comme ça avec les interrogateurs précédents aussi?"
 
 # game/code/Book-1/Chapter-7s/s02.rpy:150
 translate french b1c07ss02_3d454928:
 
     # cb "Would you like to stay and find out?"
-    cb "Tu veux rester et découvrir ?"
+    cb "Tu veux rester et découvrir?"
 
 # game/code/Book-1/Chapter-7s/s02.rpy:153
 translate french b1c07ss02_fca52711:
@@ -266,19 +266,19 @@ translate french b1c07ss02_fca52711:
 translate french b1c07ss02_498c7d4b:
 
     # cb "Not willing to give a little to get a little, eh? Fine then. Get lost so I can get back to my cell."
-    cb "Pas envie de donner un peu pour recevoir un peu, hein ? Très bien. Fiche le camp pour que je puisse retourner dans ma cellule."
+    cb "Pas envie de donner un peu pour recevoir un peu, hein? Très bien. Fiche le camp pour que je puisse retourner dans ma cellule."
 
 # game/code/Book-1/Chapter-7s/s02.rpy:159
 translate french b1c07ss02_9b5047b7:
 
     # mc "What would you want in exchange for being cooperative?"
-    mc "Qu'est-ce que tu voudrais en échange de ta coopération ?"
+    mc "Qu'est-ce que tu voudrais en échange de ta coopération?"
 
 # game/code/Book-1/Chapter-7s/s02.rpy:162
 translate french b1c07ss02_ab760283:
 
     # cb "I can have...anything?"
-    cb "Je peux avoir... n'importe quoi ?"
+    cb "Je peux avoir... n'importe quoi?"
 
 # game/code/Book-1/Chapter-7s/s02.rpy:165
 translate french b1c07ss02_3d4dbea5:
@@ -302,19 +302,19 @@ translate french b1c07ss02_63678b3e:
 translate french b1c07ss02_133dbc10:
 
     # mc "Your half sister is Morgan?"
-    mc "Ta demi-sœur c'est Morgan ?"
+    mc "Ta demi-sœur c'est Morgan?"
 
 # game/code/Book-1/Chapter-7s/s02.rpy:176
 translate french b1c07ss02_124a129f:
 
     # cb "You know her?"
-    cb "Tu la connais ?"
+    cb "Tu la connais?"
 
 # game/code/Book-1/Chapter-7s/s02.rpy:177
 translate french b1c07ss02_888f4355:
 
     # cb "How is she? Is she okay? Is she still in uni? She's..."
-    cb "Comment elle va ? Elle va bien ? Elle est toujours à l'université ? Elle est..."
+    cb "Comment elle va? Elle va bien? Elle est toujours à l'université? Elle est..."
 
 # game/code/Book-1/Chapter-7s/s02.rpy:180
 translate french b1c07ss02_71990dc4:
@@ -344,7 +344,7 @@ translate french b1c07ss02_68c4b534:
 translate french b1c07ss02_16a6f68b:
 
     # cb "Alright, you want info about my case or whatever? I'll help."
-    cb "D'accord, tu veux des infos sur mon cas ou quoi ? Je vais aider."
+    cb "D'accord, tu veux des infos sur mon cas ou quoi? Je vais aider."
 
 # game/code/Book-1/Chapter-7s/s02.rpy:195
 translate french b1c07ss02_910414f1:
@@ -356,7 +356,7 @@ translate french b1c07ss02_910414f1:
 translate french b1c07ss02_f6c0bb23:
 
     # mc "I'd expect nothing less. What is it?"
-    mc "Je n'en attendais pas moins. Qu'est-ce que c'est ?"
+    mc "Je n'en attendais pas moins. Qu'est-ce que c'est?"
 
 # game/code/Book-1/Chapter-7s/s02.rpy:201
 translate french b1c07ss02_35b470c9:
@@ -368,7 +368,7 @@ translate french b1c07ss02_35b470c9:
 translate french b1c07ss02_b305ff35:
 
     # mc "Is she in trouble?"
-    mc "Elle a des ennuis ?"
+    mc "Elle a des ennuis?"
 
 # game/code/Book-1/Chapter-7s/s02.rpy:207
 translate french b1c07ss02_3148b78f:
@@ -440,7 +440,7 @@ translate french b1c07ss02_534d183a:
 translate french b1c07ss02_a411d94b:
 
     # mc "{i}Half?!{/i} I don't even know how much it is!"
-    mc "{i}La moitié?!{/i} Je ne sais même pas combien c'est !"
+    mc "{i}La moitié?!{/i} Je ne sais même pas combien c'est!"
 
 # game/code/Book-1/Chapter-7s/s02.rpy:237
 translate french b1c07ss02_eca43eba:
@@ -482,7 +482,7 @@ translate french b1c07ss02_a7cf9ea1:
 translate french b1c07ss02_ee47fb1a:
 
     # mc "You had those on you?"
-    mc "Tu avais ça sur toi ?"
+    mc "Tu avais ça sur toi?"
 
 # game/code/Book-1/Chapter-7s/s02.rpy:258
 translate french b1c07ss02_d0383e9e:
@@ -494,7 +494,7 @@ translate french b1c07ss02_d0383e9e:
 translate french b1c07ss02_720a54ee:
 
     # mc "Morgan?"
-    mc "Morgan ?"
+    mc "Morgan?"
 
 # game/code/Book-1/Chapter-7s/s02.rpy:264
 translate french b1c07ss02_c01ae12c:
@@ -554,7 +554,7 @@ translate french b1c07ss02_e91cd64b:
 translate french b1c07ss02_1cb1f9bf:
 
     # mc "And what, end up back here?"
-    mc "Et quoi, finir de nouveau ici ?"
+    mc "Et quoi, finir de nouveau ici?"
 
 # game/code/Book-1/Chapter-7s/s02.rpy:294
 translate french b1c07ss02_0a9c16e0:
@@ -572,7 +572,7 @@ translate french b1c07ss02_cf6d36ed:
 translate french b1c07ss02_80e59f92:
 
     # cb "And if that time is best spent visiting {i}old acquaintances{/i} then who am I to resist?"
-    cb "Et si ce temps est mieux passé à rendre visite à des {i}anciens amis{/i}, qui suis-je pour résister ?"
+    cb "Et si ce temps est mieux passé à rendre visite à des {i}anciens amis{/i}, qui suis-je pour résister?"
 
 # game/code/Book-1/Chapter-7s/s02.rpy:299
 translate french b1c07ss02_02d96d25:
@@ -651,3 +651,4 @@ translate french strings:
     # game/code/Book-1/Chapter-7s/s02.rpy:9
     old "At the prison"
     new "A la prison"
+

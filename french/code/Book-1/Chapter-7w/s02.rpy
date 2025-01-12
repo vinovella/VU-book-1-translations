@@ -26,13 +26,13 @@ translate french b1c07ws02_4e18cf0a:
 translate french b1c07ws02_bdc77e43:
 
     # sdl "*Giggles* Whoops, looks like I caught you with your pants down, huh?"
-    sdl "*Rires* Oups, on dirait que je t'ai pris la main dans le sac, hein ?"
+    sdl "*Rires* Oups, on dirait que je t'ai pris la main dans le sac, hein?"
 
 # game/code/Book-1/Chapter-7w/s02.rpy:61
 translate french b1c07ws02_a886721f:
 
     # mc "How the hell did you find me here?"
-    mc "Comment diable tu m'as trouvé ici ?"
+    mc "Comment diable tu m'as trouvé ici?"
 
 # game/code/Book-1/Chapter-7w/s02.rpy:67
 translate french b1c07ws02_5f852b2e:
@@ -50,7 +50,7 @@ translate french b1c07ws02_9e2a3c70:
 translate french b1c07ws02_36ea8101:
 
     # mc "And what might this \"information\" be exactly?"
-    mc "Et qu'est-ce que cette \"information\" pourrait être exactement ?"
+    mc "Et qu'est-ce que cette \"information\" pourrait être exactement?"
 
 # game/code/Book-1/Chapter-7w/s02.rpy:76
 translate french b1c07ws02_537d83cd:
@@ -80,13 +80,13 @@ translate french b1c07ws02_231618e1:
 translate french b1c07ws02_030cd4fe:
 
     # mc "Sam, what the hell am I supposed to do with information like that?"
-    mc "Sam, qu'est-ce que je suis censé faire avec une information pareille ?"
+    mc "Sam, qu'est-ce que je suis censé faire avec une information pareille?"
 
 # game/code/Book-1/Chapter-7w/s02.rpy:90
 translate french b1c07ws02_f9e9c02b:
 
     # sdl "Well that's not {i}all{/i} the info I had! My God. You didn't even give me any time to say my piece."
-    sdl "Eh bien, ce n'est pas {i}toute{/i} l'information que j'avais ! Mon Dieu. Tu ne m'as même pas laissé le temps de m'exprimer."
+    sdl "Eh bien, ce n'est pas {i}toute{/i} l'information que j'avais! Mon Dieu. Tu ne m'as même pas laissé le temps de m'exprimer."
 
 # game/code/Book-1/Chapter-7w/s02.rpy:93
 translate french b1c07ws02_8cc584a1:
@@ -134,13 +134,13 @@ translate french b1c07ws02_a19d51e2:
 translate french b1c07ws02_2437741a:
 
     # sdl "Huh? Have you been stalking her as well!?"
-    sdl "Hein ? Tu l'as aussi suivie !?"
+    sdl "Hein? Tu l'as aussi suivie!?"
 
 # game/code/Book-1/Chapter-7w/s02.rpy:113
 translate french b1c07ws02_d8067973:
 
     # mc "Wha—? No! What?"
-    mc "Quoi— ? Non ! Quoi ?"
+    mc "Quoi—? Non! Quoi?"
 
 # game/code/Book-1/Chapter-7w/s02.rpy:116
 translate french b1c07ws02_60828bb4:
@@ -158,7 +158,7 @@ translate french b1c07ws02_650bd32f:
 translate french b1c07ws02_299e0d5f:
 
     # mc "I— Y'know what? Good for you."
-    mc "Je— Tu sais quoi ? Tant mieux pour toi."
+    mc "Je— Tu sais quoi? Tant mieux pour toi."
 
 # game/code/Book-1/Chapter-7w/s02.rpy:122
 translate french b1c07ws02_9744cbee:
@@ -212,7 +212,7 @@ translate french b1c07ws02_6e592c46:
 translate french b1c07ws02_11455b53:
 
     # mc "What?"
-    mc "Quoi ?"
+    mc "Quoi?"
 
 # game/code/Book-1/Chapter-7w/s02.rpy:148
 translate french b1c07ws02_9e93cb10:
@@ -230,7 +230,7 @@ translate french b1c07ws02_643b2efd:
 translate french b1c07ws02_0121fa8e:
 
     # sdl "Should I suck your dick now?"
-    sdl "Je devrais te sucer la bite maintenant ?"
+    sdl "Je devrais te sucer la bite maintenant?"
 
 # game/code/Book-1/Chapter-7w/s02.rpy:164
 translate french b1c07ws02_9e64b776:
@@ -242,7 +242,7 @@ translate french b1c07ws02_9e64b776:
 translate french b1c07ws02_7a76b8fe:
 
     # sdl "Oh? How noble of you."
-    sdl "Oh ? Comme c'est noble de ta part."
+    sdl "Oh? Comme c'est noble de ta part."
 
 # game/code/Book-1/Chapter-7w/s02.rpy:170
 translate french b1c07ws02_12d4b0b5:
@@ -260,13 +260,13 @@ translate french b1c07ws02_36108300:
 translate french b1c07ws02_ebf20fa0:
 
     # sdl "Ew, what the hell? Why would you say that?"
-    sdl "Beurk, c'est quoi ça ? Pourquoi tu dis ça ?"
+    sdl "Beurk, c'est quoi ça? Pourquoi tu dis ça?"
 
 # game/code/Book-1/Chapter-7w/s02.rpy:184
 translate french b1c07ws02_62570c58:
 
     # mc "Huh? You're the one that suggested giving a pissing man a blowjob!"
-    mc "Hein ? C'est toi qui as suggéré de faire une pipe à un homme en train de pisser !"
+    mc "Hein? C'est toi qui as suggéré de faire une pipe à un homme en train de pisser!"
 
 # game/code/Book-1/Chapter-7w/s02.rpy:187
 translate french b1c07ws02_a2125247:
@@ -278,13 +278,13 @@ translate french b1c07ws02_a2125247:
 translate french b1c07ws02_6da975fb:
 
     # mc "Sam, seriously? Now's not the time."
-    mc "Sam, sérieusement ? Ce n'est pas le moment."
+    mc "Sam, sérieusement? Ce n'est pas le moment."
 
 # game/code/Book-1/Chapter-7w/s02.rpy:197
 translate french b1c07ws02_74b006fc:
 
     # sdl "Ugh, why do you gotta be such a buzzkill? I'm just joking around."
-    sdl "Ugh, pourquoi tu dois toujours être un rabat-joie ? Je rigole juste."
+    sdl "Ugh, pourquoi tu dois toujours être un rabat-joie? Je rigole juste."
 
 # game/code/Book-1/Chapter-7w/s02.rpy:202
 translate french b1c07ws02_42dcedad:
@@ -332,7 +332,7 @@ translate french b1c07ws02_24566ada:
 translate french b1c07ws02_34102f3e:
 
     # mc "This is really useful info. Why am I just hearing this?"
-    mc "C'est vraiment des infos utiles. Pourquoi j'entends ça seulement maintenant ?"
+    mc "C'est vraiment des infos utiles. Pourquoi j'entends ça seulement maintenant?"
 
 # game/code/Book-1/Chapter-7w/s02.rpy:218
 translate french b1c07ws02_d10f29f3:
@@ -362,19 +362,19 @@ translate french b1c07ws02_1543184b:
 translate french b1c07ws02_9a1b8475:
 
     # mc "Hm. Alright, I see your point. Still, how am I supposed to explain where I got this info? I can't just tell them you gave it to me."
-    mc "Hm. D'accord, je vois ton point de vue. Mais comment je suis censé expliquer d'où je tiens ces infos ? Je ne peux pas juste leur dire que c'est toi qui me les as données."
+    mc "Hm. D'accord, je vois ton point de vue. Mais comment je suis censé expliquer d'où je tiens ces infos? Je ne peux pas juste leur dire que c'est toi qui me les as données."
 
 # game/code/Book-1/Chapter-7w/s02.rpy:230
 translate french b1c07ws02_ba329edd:
 
     # sdl "Oh c'mon! Be mysterious! They love a good mystery."
-    sdl "Allez, sois mystérieux ! Ils adorent un bon mystère."
+    sdl "Allez, sois mystérieux! Ils adorent un bon mystère."
 
 # game/code/Book-1/Chapter-7w/s02.rpy:233
 translate french b1c07ws02_55310c42:
 
     # mc "Seriously?"
-    mc "Sérieusement ?"
+    mc "Sérieusement?"
 
 # game/code/Book-1/Chapter-7w/s02.rpy:236
 translate french b1c07ws02_69fa3930:
@@ -398,7 +398,7 @@ translate french b1c07ws02_1f9364f9:
 translate french b1c07ws02_f59e3b62:
 
     # sdl "Ba-bye!"
-    sdl "Ba-bye !"
+    sdl "Ba-bye!"
 
 translate french strings:
 

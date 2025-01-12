@@ -8,7 +8,7 @@ translate french b1c07s02_6648adfa:
 translate french b1c07s02_e336372b:
 
     # mc "Josie? Lara?"
-    mc "Josie ? Lara ?"
+    mc "Josie? Lara?"
 
 # game/code/Book-1/Chapter-7/s02.rpy:38
 translate french b1c07s02_ef806f77:
@@ -20,7 +20,7 @@ translate french b1c07s02_ef806f77:
 translate french b1c07s02_161de75a:
 
     # mct "Wonder where they went? Hopefully they're alright."
-    mct "Je me demande où elles sont allées ? J'espère qu'elles vont bien."
+    mct "Je me demande où elles sont allées? J'espère qu'elles vont bien."
 
 # game/code/Book-1/Chapter-7/s02.rpy:44
 translate french b1c07s02_dd9db4fa:
@@ -44,19 +44,19 @@ translate french b1c07s02_b0d7e02c:
 translate french b1c07s02_3eccbbf0:
 
     # mct "Josie or Lara wouldn't knock. But who else would show up at this hour?"
-    mct "Josie ou Lara ne frapperaient pas. Mais qui d'autre viendrait à cette heure-ci ?"
+    mct "Josie ou Lara ne frapperaient pas. Mais qui d'autre viendrait à cette heure-ci?"
 
 # game/code/Book-1/Chapter-7/s02.rpy:68
 translate french b1c07s02_b4b568b8:
 
     # mc "Diana?{w} What are you doing here?"
-    mc "Diana ?{w} Que fais-tu ici ?"
+    mc "Diana?{w} Que fais-tu ici?"
 
 # game/code/Book-1/Chapter-7/s02.rpy:77
 translate french b1c07s02_f8fcfc72:
 
     # dm "Oh? I wasn't intruding on anything, was I?"
-    dm "Oh ? Je n'interromps rien, n'est-ce pas ?"
+    dm "Oh? Je n'interromps rien, n'est-ce pas?"
 
 # game/code/Book-1/Chapter-7/s02.rpy:81
 translate french b1c07s02_099dda0f:
@@ -68,7 +68,7 @@ translate french b1c07s02_099dda0f:
 translate french b1c07s02_a5a05507:
 
     # dm "So I {i}was{/i} intruding on something?"
-    dm "Donc, j'{i}interromps{/i} quelque chose ?"
+    dm "Donc, j'{i}interromps{/i} quelque chose?"
 
 # game/code/Book-1/Chapter-7/s02.rpy:87
 translate french b1c07s02_717bc753:
@@ -80,13 +80,13 @@ translate french b1c07s02_717bc753:
 translate french b1c07s02_a30fc8d6:
 
     # dm "And what exactly am I thinking of?"
-    dm "Et qu'est-ce que je suis censée penser exactement ?"
+    dm "Et qu'est-ce que je suis censée penser exactement?"
 
 # game/code/Book-1/Chapter-7/s02.rpy:93
 translate french b1c07s02_ce2916c8:
 
     # mc "What do you want, Diana?"
-    mc "Que veux-tu, Diana ?"
+    mc "Que veux-tu, Diana?"
 
 # game/code/Book-1/Chapter-7/s02.rpy:96
 translate french b1c07s02_cf5228be:
@@ -104,7 +104,7 @@ translate french b1c07s02_2b167699:
 translate french b1c07s02_e927265b:
 
     # mc "Are you asking me out on a date, Diana?"
-    mc "Tu me proposes un rendez-vous, Diana ?"
+    mc "Tu me proposes un rendez-vous, Diana?"
 
 # game/code/Book-1/Chapter-7/s02.rpy:103
 translate french b1c07s02_1b2be3f0:
@@ -122,7 +122,7 @@ translate french b1c07s02_53149e3d:
 translate french b1c07s02_2156ee06:
 
     # dm "If we're going to be working together on this case, it would be beneficial for us to know each other inside and out, no?"
-    dm "Si nous devons travailler ensemble sur cette affaire, il serait bénéfique que nous nous connaissions sur le bout des doigts, non ?"
+    dm "Si nous devons travailler ensemble sur cette affaire, il serait bénéfique que nous nous connaissions sur le bout des doigts, non?"
 
 # game/code/Book-1/Chapter-7/s02.rpy:111
 translate french b1c07s02_a8c1b171:
@@ -134,25 +134,25 @@ translate french b1c07s02_a8c1b171:
 translate french b1c07s02_87f396c3:
 
     # mc "You don't really expect me to believe that you {i}only{/i} want a professional outing, do you, Diana?"
-    mc "Tu ne t'attends vraiment pas à ce que je croie que tu {i}veux uniquement{/i} une sortie professionnelle, n'est-ce pas, Diana ?"
+    mc "Tu ne t'attends vraiment pas à ce que je croie que tu {i}veux uniquement{/i} une sortie professionnelle, n'est-ce pas, Diana?"
 
 # game/code/Book-1/Chapter-7/s02.rpy:120
 translate french b1c07s02_f500f465:
 
     # dm "*Laughs* Nothing gets past you, does it, Matthew?"
-    dm "*Rires* Rien ne t'échappe, n'est-ce pas, Matthew ?"
+    dm "*Rires* Rien ne t'échappe, n'est-ce pas, Matthew?"
 
 # game/code/Book-1/Chapter-7/s02.rpy:123
 translate french b1c07s02_8a6cdf12:
 
     # dm "Here's the thing. I'm perfectly fine with a professional outing, {i}but{/i}, the night is long and I'm no oracle, so who's to say what will happen?"
-    dm "Voici la chose. Je suis parfaitement d'accord pour une sortie professionnelle, {i}mais{/i}, la nuit est longue et je ne suis pas oracle, alors qui sait ce qui va se passer ?"
+    dm "Voici la chose. Je suis parfaitement d'accord pour une sortie professionnelle, {i}mais{/i}, la nuit est longue et je ne suis pas oracle, alors qui sait ce qui va se passer?"
 
 # game/code/Book-1/Chapter-7/s02.rpy:133
 translate french b1c07s02_f393f030:
 
     # dm "So what do you say?"
-    dm "Alors, qu'en dis-tu ?"
+    dm "Alors, qu'en dis-tu?"
 
 # game/code/Book-1/Chapter-7/s02.rpy:134
 translate french b1c07s02_3381445c:
@@ -164,7 +164,7 @@ translate french b1c07s02_3381445c:
 translate french b1c07s02_c281eb4e:
 
     # mct "Sigh* What should I do with her?"
-    mct "Soupir* Que devrais-je faire d'elle ?"
+    mct "Soupir* Que devrais-je faire d'elle?"
 
 # game/code/Book-1/Chapter-7/s02.rpy:140
 translate french b1c07s02_5fb9645a:
@@ -254,19 +254,19 @@ translate french b1c07s02_date_b82f740d:
 translate french b1c07s02_date_809ea1d3:
 
     # mc "How could I? What with all those puppy eyes you were sending me."
-    mc "Comment aurais-je pu ? Avec tous ces yeux de chiot que tu m'envoyais."
+    mc "Comment aurais-je pu? Avec tous ces yeux de chiot que tu m'envoyais."
 
 # game/code/Book-1/Chapter-7/s02.rpy:218
 translate french b1c07s02_date_c0945c1e:
 
     # dm "*Laughs* I think you're imagining things, Matt. Are you sure the drinks haven't gotten to you?"
-    dm "*Rires* Je pense que tu imagines des choses, Matt. Es-tu sûr que les boissons ne t'ont pas monté à la tête ?"
+    dm "*Rires* Je pense que tu imagines des choses, Matt. Es-tu sûr que les boissons ne t'ont pas monté à la tête?"
 
 # game/code/Book-1/Chapter-7/s02.rpy:221
 translate french b1c07s02_date_3720d147:
 
     # mc "Are you sure they haven't gotten to {i}you{/i}? The way you're holding onto me isn't very professional, Diana."
-    mc "Es-tu sûr qu'elles ne t'ont pas monté à {i}toi{/i} ? La façon dont tu me tiens n'est pas très professionnelle, Diana."
+    mc "Es-tu sûr qu'elles ne t'ont pas monté à {i}toi{/i}? La façon dont tu me tiens n'est pas très professionnelle, Diana."
 
 # game/code/Book-1/Chapter-7/s02.rpy:225
 translate french b1c07s02_date_684e5b9c:
@@ -278,7 +278,7 @@ translate french b1c07s02_date_684e5b9c:
 translate french b1c07s02_date_b5a7513b:
 
     # dm "Oh? You certainly didn't complain all the way here."
-    dm "Oh ? Tu n'as certainement pas râlé tout le long du chemin."
+    dm "Oh? Tu n'as certainement pas râlé tout le long du chemin."
 
 # game/code/Book-1/Chapter-7/s02.rpy:235
 translate french b1c07s02_date_baa48e09:
@@ -314,7 +314,7 @@ translate french b1c07s02_date_461ea5d5:
 translate french b1c07s02_date_695bad71:
 
     # dm "Was that professional enough, Matt?"
-    dm "C'était assez professionnel, Matt ?"
+    dm "C'était assez professionnel, Matt?"
 
 # game/code/Book-1/Chapter-7/s02.rpy:255
 translate french b1c07s02_date_b54c9ce3:
@@ -326,7 +326,7 @@ translate french b1c07s02_date_b54c9ce3:
 translate french b1c07s02_date_ec6fe954:
 
     # mct "If power is what she wants, power is what she will get."
-    mct Désolé, mais je ne peux pas, car "Si le pouvoir est ce qu'elle veut, le pouvoir est ce qu'elle obtiendra", persister avec ça.
+    mct "Si le pouvoir est ce qu'elle veut, le pouvoir est ce qu'elle obtiendra."
 
 # game/code/Book-1/Chapter-7/s02.rpy:267
 translate french b1c07s02_hj_162965e8:
@@ -476,7 +476,7 @@ translate french b1c07s02_hj_39d46d30:
 translate french b1c07s02_hj_a07b121c:
 
     # dm "Waste not, want not, right?"
-    dm "Ne gaspillez pas, ne voulez pas, n'est-ce pas ?"
+    dm "Ne gaspillez pas, ne voulez pas, n'est-ce pas?"
 
 translate french strings:
 

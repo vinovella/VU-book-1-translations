@@ -2,7 +2,7 @@
 translate french b1c06cs07_5c6d3504:
 
     # mct "Guess I caught her just before she was going to bed?"
-    mct "Je suppose que je l'ai attrapée juste avant qu'elle ne se couche ?"
+    mct "Je suppose que je l'ai attrapée juste avant qu'elle ne se couche?"
 
 # game/code/Book-1/Chapter-6c/s07.rpy:52
 translate french b1c06cs07_58cafaf7:
@@ -26,7 +26,7 @@ translate french b1c06cs07_28d4a678:
 translate french b1c06cs07_1ed5a6e2:
 
     # mc "Are you in danger, miss?"
-    mc "Êtes-vous en danger, mademoiselle ?"
+    mc "Êtes-vous en danger, mademoiselle?"
 
 # game/code/Book-1/Chapter-6c/s07.rpy:64
 translate french b1c06cs07_a16a4de2:
@@ -50,7 +50,7 @@ translate french b1c06cs07_787b1182:
 translate french b1c06cs07_36c492b1:
 
     # mc "So...what did you want to talk about? Are you okay?"
-    mc "Alors... de quoi voulais-tu parler ? Tout va bien ?"
+    mc "Alors... de quoi voulais-tu parler? Tout va bien?"
 
 # game/code/Book-1/Chapter-6c/s07.rpy:75
 translate french b1c06cs07_c90e8efa:
@@ -62,7 +62,7 @@ translate french b1c06cs07_c90e8efa:
 translate french b1c06cs07_46ae8ba5:
 
     # sd "Want some? It's aged to divine perfection."
-    sd "Tu en veux ? C'est vieilli à la perfection divine."
+    sd "Tu en veux? C'est vieilli à la perfection divine."
 
 # game/code/Book-1/Chapter-6c/s07.rpy:85
 translate french b1c06cs07_f2380652:
@@ -98,7 +98,7 @@ translate french b1c06cs07_f8a5361a:
 translate french b1c06cs07_96a2c1ff:
 
     # mc "I understand. Where is your son?"
-    mc "Je comprends. Où est votre fils ?"
+    mc "Je comprends. Où est votre fils?"
 
 # game/code/Book-1/Chapter-6c/s07.rpy:98
 translate french b1c06cs07_a6c322c5:
@@ -128,7 +128,7 @@ translate french b1c06cs07_c1cca789:
 translate french b1c06cs07_6b78732e:
 
     # mc "Are you sure? I don't want to intrude..."
-    mc "Vous êtes sûre ? Je ne veux pas m'imposer..."
+    mc "Vous êtes sûre? Je ne veux pas m'imposer..."
 
 # game/code/Book-1/Chapter-6c/s07.rpy:117
 translate french b1c06cs07_4980c489:
@@ -158,7 +158,7 @@ translate french b1c06cs07_de75229f:
 translate french b1c06cs07_8f68e4fc:
 
     # mc "Bare witness? What do you mean?"
-    mc "Se témoigner ? Qu'est-ce que tu veux dire ?"
+    mc "Se témoigner? Qu'est-ce que tu veux dire?"
 
 # game/code/Book-1/Chapter-6c/s07.rpy:134
 translate french b1c06cs07_66974336:
@@ -194,13 +194,13 @@ translate french b1c06cs07_37f1f632:
 translate french b1c06cs07_6f0dff23:
 
     # mc "Was the cult dangerous?"
-    mc "Le culte était-il dangereux ?"
+    mc "Le culte était-il dangereux?"
 
 # game/code/Book-1/Chapter-6c/s07.rpy:144
 translate french b1c06cs07_27f0b20f:
 
     # sd "Dangerous? No. Well...not during their time of worship, anyway."
-    sd "Dangereux ? Non. Enfin... pas pendant leur temps de culte, en tout cas."
+    sd "Dangereux? Non. Enfin... pas pendant leur temps de culte, en tout cas."
 
 # game/code/Book-1/Chapter-6c/s07.rpy:145
 translate french b1c06cs07_1ee6a068:
@@ -212,7 +212,7 @@ translate french b1c06cs07_1ee6a068:
 translate french b1c06cs07_682f19c9:
 
     # mc "And the rest of the time?"
-    mc "Et le reste du temps ?"
+    mc "Et le reste du temps?"
 
 # game/code/Book-1/Chapter-6c/s07.rpy:150
 translate french b1c06cs07_7949b23a:
@@ -224,7 +224,7 @@ translate french b1c06cs07_7949b23a:
 translate french b1c06cs07_87919094:
 
     # mct "Then why did she invite me over?"
-    mct "Alors pourquoi m'a-t-elle invité ?"
+    mct "Alors pourquoi m'a-t-elle invité?"
 
 # game/code/Book-1/Chapter-6c/s07.rpy:157
 translate french b1c06cs07_43185334:
@@ -242,7 +242,7 @@ translate french b1c06cs07_f7dc861f:
 translate french b1c06cs07_d2a4182d:
 
     # mc "I understand. I'm just worried about the friends that I have there...have you heard of Maria Krall?"
-    mc "Je comprends. Je m'inquiète juste pour les amis que j'ai là-bas... avez-vous entendu parler de Maria Krall ?"
+    mc "Je comprends. Je m'inquiète juste pour les amis que j'ai là-bas... avez-vous entendu parler de Maria Krall?"
 
 # game/code/Book-1/Chapter-6c/s07.rpy:163
 translate french b1c06cs07_26c0d3af:
@@ -260,13 +260,13 @@ translate french b1c06cs07_780c268c:
 translate french b1c06cs07_296a5ecc:
 
     # mc "Did I say something funny?"
-    mc "Ai-je dit quelque chose de drôle ?"
+    mc "Ai-je dit quelque chose de drôle?"
 
 # game/code/Book-1/Chapter-6c/s07.rpy:174
 translate french b1c06cs07_01896aa4:
 
     # sd "No! No, I wasn't laughing at the disappearance, or your friends. I just know that the cult is relatively harmless."
-    sd "Non ! Non, je ne riais pas de la disparition ou de vos amis. Je sais juste que le culte est relativement inoffensif."
+    sd "Non! Non, je ne riais pas de la disparition ou de vos amis. Je sais juste que le culte est relativement inoffensif."
 
 # game/code/Book-1/Chapter-6c/s07.rpy:175
 translate french b1c06cs07_b2436a26:
@@ -278,7 +278,7 @@ translate french b1c06cs07_b2436a26:
 translate french b1c06cs07_5b541995:
 
     # mc "It's harmless? Then why did you have to leave?"
-    mc "C'est inoffensif ? Alors pourquoi avez-vous dû partir ?"
+    mc "C'est inoffensif? Alors pourquoi avez-vous dû partir?"
 
 # game/code/Book-1/Chapter-6c/s07.rpy:183
 translate french b1c06cs07_c202efc1:
@@ -332,7 +332,7 @@ translate french b1c06cs07_go_further_f9e71a18:
 translate french b1c06cs07_go_further_11b3aa9b:
 
     # sd "You want another?"
-    sd "Tu en veux un autre ?"
+    sd "Tu en veux un autre?"
 
 # game/code/Book-1/Chapter-6c/s07.rpy:218
 translate french b1c06cs07_go_further_ee7353f7:
@@ -344,7 +344,7 @@ translate french b1c06cs07_go_further_ee7353f7:
 translate french b1c06cs07_go_further_d0f83d3a:
 
     # sd "You're interested in my {i}experiences{/i}, hm?"
-    sd "Tu t'intéresses à mes {i}expériences{/i}, hein ?"
+    sd "Tu t'intéresses à mes {i}expériences{/i}, hein?"
 
 # game/code/Book-1/Chapter-6c/s07.rpy:221
 translate french b1c06cs07_go_further_8c8d1c55:
@@ -566,7 +566,7 @@ translate french b1c06cs07_continue_81ee70aa:
 translate french b1c06cs07_continue_6744ce8f:
 
     # sd "Can you feel it? Can you feel the merging of our souls into one?"
-    sd "Peux-tu le sentir ? Peux-tu sentir nos âmes fusionner en une seule ?"
+    sd "Peux-tu le sentir? Peux-tu sentir nos âmes fusionner en une seule?"
 
 # game/code/Book-1/Chapter-6c/s07.rpy:426
 translate french b1c06cs07_continue_ea8e7405:
@@ -608,7 +608,7 @@ translate french b1c06cs07_continue_22176fda:
 translate french b1c06cs07_continue_2ecb58eb:
 
     # sd "Rapturous? Divine? Ethereal?"
-    sd "Ravissant ? Divin ? Éthéré ?"
+    sd "Ravissant? Divin? Éthéré?"
 
 # game/code/Book-1/Chapter-6c/s07.rpy:444
 translate french b1c06cs07_continue_e334e13f:
@@ -632,13 +632,13 @@ translate french b1c06cs07_continue_859e7893:
 translate french b1c06cs07_continue_ab77e62c:
 
     # sd "Yes! Bite me, tease me, leave bruises!"
-    sd "Oui ! Mord-moi, taquine-moi, laisse des marques !"
+    sd "Oui! Mord-moi, taquine-moi, laisse des marques!"
 
 # game/code/Book-1/Chapter-6c/s07.rpy:465
 translate french b1c06cs07_continue_b57b7e02:
 
     # sd "Yes! Sanctify me, deliver me to redemption."
-    sd "Oui ! Sanctifie-moi, conduis-moi à la rédemption."
+    sd "Oui! Sanctifie-moi, conduis-moi à la rédemption."
 
 # game/code/Book-1/Chapter-6c/s07.rpy:468
 translate french b1c06cs07_continue_bc4d2b46:
@@ -656,25 +656,25 @@ translate french b1c06cs07_continue_5ce93bf0:
 translate french b1c06cs07_continue_b201f3ac:
 
     # sd "Yes, yes! Your touch feels so ruthless and erotic, so {i}right{/i}."
-    sd "Oui, oui ! Ton toucher est si impitoyable et érotique, si {i}juste{/i}."
+    sd "Oui, oui! Ton toucher est si impitoyable et érotique, si {i}juste{/i}."
 
 # game/code/Book-1/Chapter-6c/s07.rpy:478
 translate french b1c06cs07_continue_a68ec2e9:
 
     # sd "Take me. Take my body, everything you want!"
-    sd "Prends-moi. Prends mon corps, tout ce que tu veux !"
+    sd "Prends-moi. Prends mon corps, tout ce que tu veux!"
 
 # game/code/Book-1/Chapter-6c/s07.rpy:484
 translate french b1c06cs07_continue_318dded9:
 
     # sd "Yes, yes! Your touch feels so sovereign, so holy."
-    sd "Oui, oui ! Ton toucher semble si souverain, si sacré."
+    sd "Oui, oui! Ton toucher semble si souverain, si sacré."
 
 # game/code/Book-1/Chapter-6c/s07.rpy:485
 translate french b1c06cs07_continue_891a37b2:
 
     # sd "Take what's yours. Take my faith and spirit, my everything! And make me anew in your image."
-    sd "Prends ce qui t'appartient. Prends ma foi et mon esprit, tout ce que je suis ! Et recrée-moi à ton image."
+    sd "Prends ce qui t'appartient. Prends ma foi et mon esprit, tout ce que je suis! Et recrée-moi à ton image."
 
 # game/code/Book-1/Chapter-6c/s07.rpy:490
 translate french b1c06cs07_continue_5bfe78af:
@@ -788,7 +788,7 @@ translate french b1c06cs07_continue_357f7467:
 translate french b1c06cs07_continue_cfeccd7d:
 
     # mc "Cum inside you?"
-    mc "Jouir en toi ?"
+    mc "Jouir en toi?"
 
 # game/code/Book-1/Chapter-6c/s07.rpy:539
 translate french b1c06cs07_continue_9b58f62d:
@@ -866,7 +866,7 @@ translate french b1c06cs07_continue_c728369b:
 translate french b1c06cs07_continue_04f2df4f:
 
     # sd "O-oh, I can feel you! I can feel you!"
-    sd "O-oh, je te sens ! Je te sens !"
+    sd "O-oh, je te sens! Je te sens!"
 
 # game/code/Book-1/Chapter-6c/s07.rpy:598
 translate french b1c06cs07_continue_832902c6:
@@ -992,7 +992,7 @@ translate french b1c06cs07_continue_aedd4ce3:
 translate french b1c06cs07_end_887c8198:
 
     # sd "Gotta go?"
-    sd "Tu dois partir ?"
+    sd "Tu dois partir?"
 
 # game/code/Book-1/Chapter-6c/s07.rpy:670
 translate french b1c06cs07_end_c240f5a6:
@@ -1016,7 +1016,7 @@ translate french b1c06cs07_end_8732f9d5:
 translate french b1c06cs07_end_f523a499:
 
     # sd "Mm, I hope so.{w} Goodbye, [mcname]!"
-    sd "Mm, j'espère bien.{w} Au revoir, [mcname] !"
+    sd "Mm, j'espère bien.{w} Au revoir, [mcname]!"
 
 # game/code/Book-1/Chapter-6c/s07.rpy:683
 translate french b1c06cs07_end_72d6a4f4:
@@ -1040,7 +1040,7 @@ translate french b1c06cs07_end_15700701:
 translate french b1c06cs07_end_0f7b678e:
 
     # sd "What? Why?"
-    sd "Quoi ? Pourquoi ?"
+    sd "Quoi? Pourquoi?"
 
 # game/code/Book-1/Chapter-6c/s07.rpy:691
 translate french b1c06cs07_end_e9e15328:
@@ -1052,7 +1052,7 @@ translate french b1c06cs07_end_e9e15328:
 translate french b1c06cs07_end_417edd19:
 
     # sd "Classes? Oh...I'm sorry. I was inconsiderate with your time."
-    sd "Des cours ? Oh...je suis désolée. J'ai été négligente avec ton temps."
+    sd "Des cours? Oh...je suis désolée. J'ai été négligente avec ton temps."
 
 # game/code/Book-1/Chapter-6c/s07.rpy:695
 translate french b1c06cs07_end_2e9d4be5:
@@ -1076,7 +1076,7 @@ translate french b1c06cs07_end_fd437ee4:
 translate french b1c06cs07_end_67113149:
 
     # sd "You sure you don't wanna stay? Finish your wine?"
-    sd "Tu es sûr de ne pas vouloir rester ? Finir ton vin ?"
+    sd "Tu es sûr de ne pas vouloir rester? Finir ton vin?"
 
 # game/code/Book-1/Chapter-6c/s07.rpy:708
 translate french b1c06cs07_end_2bb131e3:
@@ -1141,3 +1141,4 @@ translate french strings:
     # game/code/Book-1/Chapter-6c/s07.rpy:325
     old "Fuck her brains out"
     new "La faire jouir intensément"
+

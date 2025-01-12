@@ -8,7 +8,7 @@ translate french b1c07ss10_0b389657:
 translate french b1c07ss10_c1800c92:
 
     # mc "You want a drink?"
-    mc "Tu veux un verre ?"
+    mc "Tu veux un verre?"
 
 # game/code/Book-1/Chapter-7s/s10.rpy:28
 translate french b1c07ss10_dd9390ca:
@@ -104,7 +104,7 @@ translate french b1c07ss10_e1417a3f:
 translate french b1c07ss10_c5f1181a:
 
     # mg "You beat the shit out of him, I assume?"
-    mg "Tu lui as foutu une raclée, je suppose ?"
+    mg "Tu lui as foutu une raclée, je suppose?"
 
 # game/code/Book-1/Chapter-7s/s10.rpy:73
 translate french b1c07ss10_1bf60051:
@@ -116,7 +116,7 @@ translate french b1c07ss10_1bf60051:
 translate french b1c07ss10_c16a46f5:
 
     # mg "Good.{w} Did you figure out why he was there?"
-    mg "Bien.{w} Tu as compris pourquoi il était là ?"
+    mg "Bien.{w} Tu as compris pourquoi il était là?"
 
 # game/code/Book-1/Chapter-7s/s10.rpy:79
 translate french b1c07ss10_c5a996f9:
@@ -128,7 +128,7 @@ translate french b1c07ss10_c5a996f9:
 translate french b1c07ss10_fc7acb99:
 
     # mg "Why, what's up with her?"
-    mg "Pourquoi, qu'est-ce qu'il y a avec elle ?"
+    mg "Pourquoi, qu'est-ce qu'il y a avec elle?"
 
 # game/code/Book-1/Chapter-7s/s10.rpy:85
 translate french b1c07ss10_512edf1a:
@@ -164,7 +164,7 @@ translate french b1c07ss10_f3a9868f:
 translate french b1c07ss10_426643af:
 
     # mc "Who knows? Maybe we'll face each other someday."
-    mc "Qui sait ? Peut-être qu'on se croisera un jour."
+    mc "Qui sait? Peut-être qu'on se croisera un jour."
 
 # game/code/Book-1/Chapter-7s/s10.rpy:106
 translate french b1c07ss10_6752070a:
@@ -176,7 +176,7 @@ translate french b1c07ss10_6752070a:
 translate french b1c07ss10_5a3ee729:
 
     # rd "You sure you're okay, Morgan? Seemed like a tough fight tonight."
-    rd "Tu es sûr que ça va, Morgan ? Ça semblait être un sacré combat ce soir."
+    rd "Tu es sûr que ça va, Morgan? Ça semblait être un sacré combat ce soir."
 
 # game/code/Book-1/Chapter-7s/s10.rpy:112
 translate french b1c07ss10_602e39b4:
@@ -200,13 +200,13 @@ translate french b1c07ss10_e74034ea:
 translate french b1c07ss10_822a9d05:
 
     # rd "You take care of her, alright? I've gotta clean up the bar and close up."
-    rd "Prends soin d'elle, d'accord ? Je dois nettoyer le bar et fermer."
+    rd "Prends soin d'elle, d'accord? Je dois nettoyer le bar et fermer."
 
 # game/code/Book-1/Chapter-7s/s10.rpy:123
 translate french b1c07ss10_ca536613:
 
     # rd "But you let me know if you two need anything, okay?"
-    rd "Mais fais-moi savoir si vous avez besoin de quoi que ce soit, d'accord ?"
+    rd "Mais fais-moi savoir si vous avez besoin de quoi que ce soit, d'accord?"
 
 # game/code/Book-1/Chapter-7s/s10.rpy:126
 translate french b1c07ss10_0d47ffef:
@@ -248,7 +248,7 @@ translate french b1c07ss10_continue_a78fe546:
 translate french b1c07ss10_continue_259188ef:
 
     # mc "Well, does this mysterious group have a name?"
-    mc "Alors, ce groupe mystérieux a-t-il un nom ?"
+    mc "Alors, ce groupe mystérieux a-t-il un nom?"
 
 # game/code/Book-1/Chapter-7s/s10.rpy:155
 translate french b1c07ss10_continue_2d220021:
@@ -302,13 +302,13 @@ translate french b1c07ss10_continue_d2a5e94b:
 translate french b1c07ss10_continue_254158bc:
 
     # mg "Are you sure learning to fight is worth the consequences?"
-    mg "Es-tu sûr que l'apprentissage du combat en vaut la peine, avec toutes les conséquences ?"
+    mg "Es-tu sûr que l'apprentissage du combat en vaut la peine, avec toutes les conséquences?"
 
 # game/code/Book-1/Chapter-7s/s10.rpy:179
 translate french b1c07ss10_continue_615e67b3:
 
     # mc "Yeah! I {i}want{/i} this, Morgan. I want to fight."
-    mc "Ouais ! Je {i}veux{/i} ça, Morgan. Je veux me battre."
+    mc "Ouais! Je {i}veux{/i} ça, Morgan. Je veux me battre."
 
 # game/code/Book-1/Chapter-7s/s10.rpy:180
 translate french b1c07ss10_continue_080240d4:
@@ -326,7 +326,7 @@ translate french b1c07ss10_continue_23abddef:
 translate french b1c07ss10_continue_de3c1b34:
 
     # mc "So, how can I help? You mentioned the debt. How do we pay it down?"
-    mc "Alors, comment puis-je aider ? Tu as parlé de la dette. Comment la remboursons-nous ?"
+    mc "Alors, comment puis-je aider? Tu as parlé de la dette. Comment la remboursons-nous?"
 
 # game/code/Book-1/Chapter-7s/s10.rpy:189
 translate french b1c07ss10_continue_8cb9f606:
@@ -338,7 +338,7 @@ translate french b1c07ss10_continue_8cb9f606:
 translate french b1c07ss10_continue_57a713f4:
 
     # mc "So, is that where we track down people who are behind on payments to The Syndicate?"
-    mc "Alors, c'est là qu'on retrouve les personnes qui ont du retard dans leurs paiements envers The Syndicate ?"
+    mc "Alors, c'est là qu'on retrouve les personnes qui ont du retard dans leurs paiements envers The Syndicate?"
 
 # game/code/Book-1/Chapter-7s/s10.rpy:198
 translate french b1c07ss10_continue_ed914c98:
@@ -380,7 +380,7 @@ translate french b1c07ss10_continue_b06307cd:
 translate french b1c07ss10_continue_4b2ebcc5:
 
     # mc "So who do we talk to about your debt? Xasan?"
-    mc "Alors, à qui on parle pour ta dette ? Xasan ?"
+    mc "Alors, à qui on parle pour ta dette? Xasan?"
 
 # game/code/Book-1/Chapter-7s/s10.rpy:214
 translate french b1c07ss10_continue_00f8434b:
@@ -392,7 +392,7 @@ translate french b1c07ss10_continue_00f8434b:
 translate french b1c07ss10_continue_5f6582b6:
 
     # mc "Do I need some sort of account, or...?"
-    mc "Ai-je besoin d'un compte, ou... ?"
+    mc "Ai-je besoin d'un compte, ou...?"
 
 # game/code/Book-1/Chapter-7s/s10.rpy:220
 translate french b1c07ss10_continue_0f816fd0:
@@ -404,7 +404,7 @@ translate french b1c07ss10_continue_0f816fd0:
 translate french b1c07ss10_continue_cfd67002:
 
     # mc "They're the ones who manage accounts?"
-    mc "Ce sont eux qui gèrent les comptes ?"
+    mc "Ce sont eux qui gèrent les comptes?"
 
 # game/code/Book-1/Chapter-7s/s10.rpy:226
 translate french b1c07ss10_continue_fa9dde75:
@@ -416,7 +416,7 @@ translate french b1c07ss10_continue_fa9dde75:
 translate french b1c07ss10_continue_986cd3ce:
 
     # mc "When can I start?"
-    mc "Quand puis-je commencer ?"
+    mc "Quand puis-je commencer?"
 
 # game/code/Book-1/Chapter-7s/s10.rpy:232
 translate french b1c07ss10_continue_17b426dc:
@@ -434,7 +434,7 @@ translate french b1c07ss10_continue_ae0ce621:
 translate french b1c07ss10_continue_4e6e563a:
 
     # mg "You ready for that sort of mentality? It wears on a person. But if you fight bravely and stay honest, you'll be fine."
-    mg "Tu es prêt pour ce genre de mentalité ? Ça épuise une personne. Mais si tu te bats courageusement et restes honnête, tout ira bien."
+    mg "Tu es prêt pour ce genre de mentalité? Ça épuise une personne. Mais si tu te bats courageusement et restes honnête, tout ira bien."
 
 # game/code/Book-1/Chapter-7s/s10.rpy:236
 translate french b1c07ss10_continue_bdf7800f:
@@ -464,7 +464,7 @@ translate french b1c07ss10_continue_87a6f654:
 translate french b1c07ss10_continue_37c1bbd9:
 
     # mg "Sound good?"
-    mg "Ça te va ?"
+    mg "Ça te va?"
 
 # game/code/Book-1/Chapter-7s/s10.rpy:247
 translate french b1c07ss10_continue_c6a52e0b:
@@ -476,7 +476,7 @@ translate french b1c07ss10_continue_c6a52e0b:
 translate french b1c07ss10_continue_a4af04db:
 
     # mc "You have a bad bruise forming there. Are you okay? Should we get some ice for that?"
-    mc "Tu as un gros bleu qui se forme là. Ça va ? On devrait mettre de la glace ?"
+    mc "Tu as un gros bleu qui se forme là. Ça va? On devrait mettre de la glace?"
 
 # game/code/Book-1/Chapter-7s/s10.rpy:254
 translate french b1c07ss10_continue_694bed88:
@@ -500,19 +500,19 @@ translate french b1c07ss10_continue_a0beb797:
 translate french b1c07ss10_continue_c553bc12:
 
     # mc "I understand. It must be hard. Do you even like what you do?"
-    mc "Je comprends. Ça doit être dur. Tu aimes ce que tu fais ?"
+    mc "Je comprends. Ça doit être dur. Tu aimes ce que tu fais?"
 
 # game/code/Book-1/Chapter-7s/s10.rpy:263
 translate french b1c07ss10_continue_da1fd346:
 
     # mg "No? Yes? I don't know. It's like, when I'm out of it, I question what the fuck I'm even doing with myself."
-    mg "Non ? Oui ? Je sais pas. C'est comme si, quand je suis déconnectée, je me demande ce que je fous avec ma vie."
+    mg "Non? Oui? Je sais pas. C'est comme si, quand je suis déconnectée, je me demande ce que je fous avec ma vie."
 
 # game/code/Book-1/Chapter-7s/s10.rpy:271
 translate french b1c07ss10_choice_37ffd9b8:
 
     # mg "But when I'm in a fight? I feel powerful and in control. I have to hold myself back from taking it too far."
-    mg "Mais quand je suis en combat ? Je me sens puissante et en contrôle. Je dois me retenir de ne pas aller trop loin."
+    mg "Mais quand je suis en combat? Je me sens puissante et en contrôle. Je dois me retenir de ne pas aller trop loin."
 
 # game/code/Book-1/Chapter-7s/s10.rpy:272
 translate french b1c07ss10_choice_e3bd6e6b:
@@ -530,7 +530,7 @@ translate french b1c07ss10_choice_06e2209f:
 translate french b1c07ss10_choice_eb99cf09:
 
     # mc "You're only doing what you have to, right? There's no shame in that."
-    mc "Tu fais juste ce que tu dois faire, non ? Il n'y a pas de honte à cela."
+    mc "Tu fais juste ce que tu dois faire, non? Il n'y a pas de honte à cela."
 
 # game/code/Book-1/Chapter-7s/s10.rpy:288
 translate french b1c07ss10_choice_f0a675f2:
@@ -548,7 +548,7 @@ translate french b1c07ss10_choice_bd7e7299:
 translate french b1c07ss10_choice_2279cf25:
 
     # mc "Hey, we've all got monsters inside us, right?"
-    mc "Hé, on a tous des monstres à l'intérieur de nous, non ?"
+    mc "Hé, on a tous des monstres à l'intérieur de nous, non?"
 
 # game/code/Book-1/Chapter-7s/s10.rpy:297
 translate french b1c07ss10_choice_d34fcbc3:
@@ -602,7 +602,7 @@ translate french b1c07ss10_choice_292a66e2:
 translate french b1c07ss10_choice_87d9dd37:
 
     # mc "Do you want me to walk you home?"
-    mc "Tu veux que je te raccompagne chez toi ?"
+    mc "Tu veux que je te raccompagne chez toi?"
 
 # game/code/Book-1/Chapter-7s/s10.rpy:323
 translate french b1c07ss10_choice_e8d84f5a:
@@ -650,7 +650,7 @@ translate french b1c07ss10_choice_1373df75:
 translate french b1c07ss10_choice_0887dda5:
 
     # mg "Hah! Like I have the money for that."
-    mg "Hah ! Comme si j'avais l'argent pour ça."
+    mg "Hah! Comme si j'avais l'argent pour ça."
 
 # game/code/Book-1/Chapter-7s/s10.rpy:348
 translate french b1c07ss10_choice_b08c9b77:
@@ -673,3 +673,4 @@ translate french strings:
     # game/code/Book-1/Chapter-7s/s10.rpy:276
     old "We're all monsters."
     new "Nous sommes tous des monstres."
+

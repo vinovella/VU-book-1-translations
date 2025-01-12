@@ -20,7 +20,7 @@ translate french b1c04ns01_f4fea6ed:
 translate french b1c04ns01_9232514b:
 
     # mct "Oh, what's this?"
-    mct "Oh, qu'est-ce que c'est ?"
+    mct "Oh, qu'est-ce que c'est?"
 
 # game/code/Book-1/Chapter-4n/s01.rpy:26
 translate french b1c04ns01_75dc0bdd:
@@ -44,7 +44,7 @@ translate french b1c04ns01_c509ab8a:
 translate french b1c04ns01_5a3c0fbd:
 
     # mct "Christ! It looks like a horror movie in here."
-    mct "Bon sang ! On dirait un film d'horreur ici."
+    mct "Bon sang! On dirait un film d'horreur ici."
 
 # game/code/Book-1/Chapter-4n/s01.rpy:96
 translate french b1c04ns01_858562f4:
@@ -74,7 +74,7 @@ translate french b1c04ns01_3264a4de:
 translate french b1c04ns01_ae9696be:
 
     # dk "You're [mcname], right? What do you want?"
-    dk "Tu es [mcname], c'est ça ? Que veux-tu ?"
+    dk "Tu es [mcname], c'est ça? Que veux-tu?"
 
 # game/code/Book-1/Chapter-4n/s01.rpy:119
 translate french b1c04ns01_fe0d8f13:
@@ -92,13 +92,13 @@ translate french b1c04ns01_dc0ff26a:
 translate french b1c04ns01_4dc621bf:
 
     # mc "Uh, I was wondering if you knew Nia well?"
-    mc "Euh, je me demandais si tu connaissais bien Nia ?"
+    mc "Euh, je me demandais si tu connaissais bien Nia?"
 
 # game/code/Book-1/Chapter-4n/s01.rpy:126
 translate french b1c04ns01_7cf913b3:
 
     # dk "Why? You into her or something?"
-    dk "Pourquoi ? Tu es intéressé par elle ou quelque chose comme ça ?"
+    dk "Pourquoi? Tu es intéressé par elle ou quelque chose comme ça?"
 
 # game/code/Book-1/Chapter-4n/s01.rpy:129
 translate french b1c04ns01_e334e13f:
@@ -116,31 +116,31 @@ translate french b1c04ns01_b6be6460:
 translate french b1c04ns01_bece8c93:
 
     # dk "Maybe I do. But what do I get in exchange? What's in it for me?"
-    dk "Peut-être que oui. Mais qu'est-ce que j'y gagne en échange ? Qu'est-ce que ça m'apporte ?"
+    dk "Peut-être que oui. Mais qu'est-ce que j'y gagne en échange? Qu'est-ce que ça m'apporte?"
 
 # game/code/Book-1/Chapter-4n/s01.rpy:144
 translate french b1c04ns01_884867ad:
 
     # mct "Her voice is so husky and breathless... Is she okay?"
-    mct "Sa voix est si rauque et haletante... Est-ce qu'elle va bien ?"
+    mct "Sa voix est si rauque et haletante... Est-ce qu'elle va bien?"
 
 # game/code/Book-1/Chapter-4n/s01.rpy:152
 translate french b1c04ns01_28dc88bf:
 
     # dk "Perhaps a vial of your blood?"
-    dk "Peut-être un flacon de ton sang ?"
+    dk "Peut-être un flacon de ton sang?"
 
 # game/code/Book-1/Chapter-4n/s01.rpy:155
 translate french b1c04ns01_22b74c1e:
 
     # mc "Uhh, what?"
-    mc "Euh, quoi ?"
+    mc "Euh, quoi?"
 
 # game/code/Book-1/Chapter-4n/s01.rpy:156
 translate french b1c04ns01_54e6f545:
 
     # mc "You're joking, right?"
-    mc "Tu plaisantes, non ?"
+    mc "Tu plaisantes, non?"
 
 # game/code/Book-1/Chapter-4n/s01.rpy:159
 translate french b1c04ns01_70d7baa2:
@@ -152,7 +152,7 @@ translate french b1c04ns01_70d7baa2:
 translate french b1c04ns01_0912e43e:
 
     # mc "W-what? Why do you need pig's blood?"
-    mc "Q-quoi ? Pourquoi as-tu besoin de sang de cochon ?"
+    mc "Q-quoi? Pourquoi as-tu besoin de sang de cochon?"
 
 # game/code/Book-1/Chapter-4n/s01.rpy:164
 translate french b1c04ns01_cdf77422:
@@ -170,7 +170,7 @@ translate french b1c04ns01_c9f3092e:
 translate french b1c04ns01_fd82c885:
 
     # mc "I didn't sneak in! I knocked multiple times but you couldn't hear it over your music."
-    mc "Je ne suis pas entré en douce ! J'ai frappé plusieurs fois, mais tu ne pouvais pas l'entendre avec ta musique."
+    mc "Je ne suis pas entré en douce! J'ai frappé plusieurs fois, mais tu ne pouvais pas l'entendre avec ta musique."
 
 # game/code/Book-1/Chapter-4n/s01.rpy:173
 translate french b1c04ns01_71b62e07:
@@ -188,7 +188,7 @@ translate french b1c04ns01_ae839f16:
 translate french b1c04ns01_df354c64:
 
     # dk "Do you want the info about her or not?"
-    dk "Tu veux des infos sur elle ou pas ?"
+    dk "Tu veux des infos sur elle ou pas?"
 
 # game/code/Book-1/Chapter-4n/s01.rpy:187
 translate french b1c04ns01_cb86559f:
@@ -230,7 +230,7 @@ translate french b1c04ns01_0a68f23f:
 translate french b1c04ns01_3b5c56f2:
 
     # mc "What do you even need pig's blood for?"
-    mc "Pourquoi as-tu même besoin de sang de cochon ?"
+    mc "Pourquoi as-tu même besoin de sang de cochon?"
 
 # game/code/Book-1/Chapter-4n/s01.rpy:203
 translate french b1c04ns01_7bb718ae:
@@ -248,7 +248,7 @@ translate french b1c04ns01_2394d0ea:
 translate french b1c04ns01_8ae9b3bd:
 
     # mc "Wouldn't they supply you with fake blood?"
-    mc "Ils ne pourraient pas te fournir du faux sang ?"
+    mc "Ils ne pourraient pas te fournir du faux sang?"
 
 # game/code/Book-1/Chapter-4n/s01.rpy:211
 translate french b1c04ns01_252c4414:
@@ -266,25 +266,25 @@ translate french b1c04ns01_b946a135:
 translate french b1c04ns01_3a553609:
 
     # mc "Do I even want to know what that's about?"
-    mc "Est-ce que j'ai vraiment envie de savoir de quoi il s'agit ?"
+    mc "Est-ce que j'ai vraiment envie de savoir de quoi il s'agit?"
 
 # game/code/Book-1/Chapter-4n/s01.rpy:219
 translate french b1c04ns01_909272da:
 
     # dk "Probably not. {w} What do you wanna talk to her about, anyway?"
-    dk "Probablement pas. {w} De quoi veux-tu lui parler, de toute façon ?"
+    dk "Probablement pas. {w} De quoi veux-tu lui parler, de toute façon?"
 
 # game/code/Book-1/Chapter-4n/s01.rpy:220
 translate french b1c04ns01_11455b53:
 
     # mc "What?"
-    mc "Quoi ?"
+    mc "Quoi?"
 
 # game/code/Book-1/Chapter-4n/s01.rpy:222
 translate french b1c04ns01_842cf386:
 
     # dk "Nia. What do you want with her?"
-    dk "Nia. Qu'est-ce que tu veux avec elle ?"
+    dk "Nia. Qu'est-ce que tu veux avec elle?"
 
 # game/code/Book-1/Chapter-4n/s01.rpy:225
 translate french b1c04ns01_7a85964e:
@@ -314,7 +314,7 @@ translate french b1c04ns01_7c973e62:
 translate french b1c04ns01_729a0537:
 
     # mc "And you know what her type is because...?"
-    mc "Et tu sais quel est son type parce que... ?"
+    mc "Et tu sais quel est son type parce que...?"
 
 # game/code/Book-1/Chapter-4n/s01.rpy:238
 translate french b1c04ns01_54da846b:

@@ -8,7 +8,7 @@ translate french b1c07ss06_a440e6e2:
 translate french b1c07ss06_489b3bd7:
 
     # mc "Rory?"
-    mc "Rory ?"
+    mc "Rory?"
 
 # game/code/Book-1/Chapter-7s/s06.rpy:24
 translate french b1c07ss06_ecf18235:
@@ -56,7 +56,7 @@ translate french b1c07ss06_8bef699b:
 translate french b1c07ss06_9908b279:
 
     # mc "Uh, is Rory here?"
-    mc "Euh, Rory est ici ?"
+    mc "Euh, Rory est ici?"
 
 # game/code/Book-1/Chapter-7s/s06.rpy:42
 translate french b1c07ss06_5b8e2b40:
@@ -86,7 +86,7 @@ translate french b1c07ss06_b4a82557:
 translate french b1c07ss06_23c62da2:
 
     # rg "What are you here for?"
-    rg "Pourquoi tu es ici ?"
+    rg "Pourquoi tu es ici?"
 
 # game/code/Book-1/Chapter-7s/s06.rpy:53
 translate french b1c07ss06_ba3ab24e:
@@ -98,19 +98,19 @@ translate french b1c07ss06_ba3ab24e:
 translate french b1c07ss06_9c053302:
 
     # rg "Morg sent you?"
-    rg "Morg t'a envoyé ?"
+    rg "Morg t'a envoyé?"
 
 # game/code/Book-1/Chapter-7s/s06.rpy:57
 translate french b1c07ss06_2decbb4c:
 
     # mct "Damn. Who put the fear of god in her?"
-    mct "Merde. Qui lui a foutu la trouille ?"
+    mct "Merde. Qui lui a foutu la trouille?"
 
 # game/code/Book-1/Chapter-7s/s06.rpy:59
 translate french b1c07ss06_5beb7855:
 
     # mc "Yeah. Didn't she tell you?"
-    mc "Ouais. Elle ne t'a pas dit ?"
+    mc "Ouais. Elle ne t'a pas dit?"
 
 # game/code/Book-1/Chapter-7s/s06.rpy:62
 translate french b1c07ss06_75af0afd:
@@ -134,19 +134,19 @@ translate french b1c07ss06_a59b5546:
 translate french b1c07ss06_2b175832:
 
     # rg "Cori sent you?"
-    rg "Cori t'a envoyé ?"
+    rg "Cori t'a envoyé?"
 
 # game/code/Book-1/Chapter-7s/s06.rpy:72
 translate french b1c07ss06_2e10ed20:
 
     # rg "What does Cori want with me?"
-    rg "Qu'est-ce que Cori me veut ?"
+    rg "Qu'est-ce que Cori me veut?"
 
 # game/code/Book-1/Chapter-7s/s06.rpy:75
 translate french b1c07ss06_611d94ca:
 
     # rg "Is she out of prison?!"
-    rg "Elle est sortie de prison ?!"
+    rg "Elle est sortie de prison?!"
 
 # game/code/Book-1/Chapter-7s/s06.rpy:76
 translate french b1c07ss06_839c5885:
@@ -158,7 +158,7 @@ translate french b1c07ss06_839c5885:
 translate french b1c07ss06_4985a426:
 
     # mc "What? No. Look, she just wanted to give you a letter."
-    mc "Quoi ? Non. Écoute, elle voulait juste te donner une lettre."
+    mc "Quoi? Non. Écoute, elle voulait juste te donner une lettre."
 
 # game/code/Book-1/Chapter-7s/s06.rpy:81
 translate french b1c07ss06_36f3819d:
@@ -170,7 +170,7 @@ translate french b1c07ss06_36f3819d:
 translate french b1c07ss06_a8243ac2:
 
     # rg "Why are there two?"
-    rg "Pourquoi il y en a deux ?"
+    rg "Pourquoi il y en a deux?"
 
 # game/code/Book-1/Chapter-7s/s06.rpy:88
 translate french b1c07ss06_91ce3310:
@@ -206,7 +206,7 @@ translate french b1c07ss06_95957f45:
 translate french b1c07ss06_7e2cc2fc:
 
     # rg "Just wanna be safe, y'know?"
-    rg "Je veux juste être sûr, tu sais ?"
+    rg "Je veux juste être sûr, tu sais?"
 
 # game/code/Book-1/Chapter-7s/s06.rpy:108
 translate french b1c07ss06_824fb5a5:
@@ -224,7 +224,7 @@ translate french b1c07ss06_7252723c:
 translate french b1c07ss06_119c42b2:
 
     # rg "You want some tea?"
-    rg "Tu veux du thé ?"
+    rg "Tu veux du thé?"
 
 # game/code/Book-1/Chapter-7s/s06.rpy:116
 translate french b1c07ss06_a29e8b0c:
@@ -236,19 +236,19 @@ translate french b1c07ss06_a29e8b0c:
 translate french b1c07ss06_1f90c5bc:
 
     # mct "Man, how did Morgan meet this girl? They seem like total opposites."
-    mct "Mec, comment Morgan a-t-elle rencontré cette fille ? Elles semblent être des opposés totaux."
+    mct "Mec, comment Morgan a-t-elle rencontré cette fille? Elles semblent être des opposés totaux."
 
 # game/code/Book-1/Chapter-7s/s06.rpy:122
 translate french b1c07ss06_11b1d1ee:
 
     # mct "How did someone like Rory get involved with people like Morgan and Corinne?"
-    mct "Comment quelqu'un comme Rory a-t-elle pu se retrouver avec des gens comme Morgan et Corinne ?"
+    mct "Comment quelqu'un comme Rory a-t-elle pu se retrouver avec des gens comme Morgan et Corinne?"
 
 # game/code/Book-1/Chapter-7s/s06.rpy:134
 translate french b1c07ss06_35ded558:
 
     # rg "So um, Morgan sent you?"
-    rg "Alors, euh, Morgan t'a envoyé ?"
+    rg "Alors, euh, Morgan t'a envoyé?"
 
 # game/code/Book-1/Chapter-7s/s06.rpy:137
 translate french b1c07ss06_927f59f4:
@@ -260,7 +260,7 @@ translate french b1c07ss06_927f59f4:
 translate french b1c07ss06_3831e8d3:
 
     # rg "Oh? She told you about her live events?"
-    rg "Oh ? Elle t'a parlé de ses événements en direct ?"
+    rg "Oh? Elle t'a parlé de ses événements en direct?"
 
 # game/code/Book-1/Chapter-7s/s06.rpy:144
 translate french b1c07ss06_3f973409:
@@ -284,7 +284,7 @@ translate french b1c07ss06_0e095488:
 translate french b1c07ss06_b272ac7a:
 
     # mc "Is there something you and her were supposed to do? Maybe I can help?"
-    mc "Il y a quelque chose que toi et elle deviez faire ? Peut-être que je peux aider ?"
+    mc "Il y a quelque chose que toi et elle deviez faire? Peut-être que je peux aider?"
 
 # game/code/Book-1/Chapter-7s/s06.rpy:155
 translate french b1c07ss06_883e6c35:
@@ -296,13 +296,13 @@ translate french b1c07ss06_883e6c35:
 translate french b1c07ss06_fc9d6ceb:
 
     # rg "So, how long have you known Morgan? She must have some amount of interest in you to send you here."
-    rg "Alors, ça fait combien de temps que tu connais Morgan ? Elle doit avoir un certain intérêt pour toi pour t'envoyer ici."
+    rg "Alors, ça fait combien de temps que tu connais Morgan? Elle doit avoir un certain intérêt pour toi pour t'envoyer ici."
 
 # game/code/Book-1/Chapter-7s/s06.rpy:160
 translate french b1c07ss06_84624849:
 
     # mc "Really? Well, I don't know her super well. But I'd say we're friends."
-    mc "Vraiment ? Eh bien, je ne la connais pas super bien. Mais je dirais qu'on est amis."
+    mc "Vraiment? Eh bien, je ne la connais pas super bien. Mais je dirais qu'on est amis."
 
 # game/code/Book-1/Chapter-7s/s06.rpy:164
 translate french b1c07ss06_5b248f4e:
@@ -314,7 +314,7 @@ translate french b1c07ss06_5b248f4e:
 translate french b1c07ss06_242b1af0:
 
     # mc "Really? She seems pretty sociable to me."
-    mc "Vraiment ? Elle me semble assez sociable."
+    mc "Vraiment? Elle me semble assez sociable."
 
 # game/code/Book-1/Chapter-7s/s06.rpy:170
 translate french b1c07ss06_d8036e97:
@@ -350,7 +350,7 @@ translate french b1c07ss06_e093b02c:
 translate french b1c07ss06_b391cad8:
 
     # mct "What do I even say to that?"
-    mct "Que dire face à ça ?"
+    mct "Que dire face à ça?"
 
 # game/code/Book-1/Chapter-7s/s06.rpy:182
 translate french b1c07ss06_cc874a83:
@@ -392,7 +392,7 @@ translate french b1c07ss06_b8afe755:
 translate french b1c07ss06_5de97642:
 
     # mc "Speaking of the debt...is she in some kind of trouble? Maybe I could help—"
-    mc "En parlant de la dette... Est-ce qu'elle est en difficulté ? Peut-être que je pourrais aider—"
+    mc "En parlant de la dette... Est-ce qu'elle est en difficulté? Peut-être que je pourrais aider—"
 
 # game/code/Book-1/Chapter-7s/s06.rpy:199
 translate french b1c07ss06_1d20ecc2:
@@ -482,13 +482,13 @@ translate french b1c07ss06_dc231984:
 translate french b1c07ss06_56d66fca:
 
     # rg "Really? That's great. She's a fantastic teacher."
-    rg "Vraiment ? C'est génial. C'est une enseignante fantastique."
+    rg "Vraiment? C'est génial. C'est une enseignante fantastique."
 
 # game/code/Book-1/Chapter-7s/s06.rpy:239
 translate french b1c07ss06_029e2d2a:
 
     # rg "Are you...going to join the live events with her?"
-    rg "Tu vas...participer aux événements en direct avec elle ?"
+    rg "Tu vas...participer aux événements en direct avec elle?"
 
 # game/code/Book-1/Chapter-7s/s06.rpy:242
 translate french b1c07ss06_cc44a219:
@@ -506,13 +506,13 @@ translate french b1c07ss06_282f860d:
 translate french b1c07ss06_3858e6f5:
 
     # rg "So...Cori sent you?"
-    rg "Donc...Cori t'a envoyé ?"
+    rg "Donc...Cori t'a envoyé?"
 
 # game/code/Book-1/Chapter-7s/s06.rpy:248
 translate french b1c07ss06_4e78440d:
 
     # rg "Are you...friends with her or something?"
-    rg "Tu es...ami avec elle ou quelque chose comme ça ?"
+    rg "Tu es...ami avec elle ou quelque chose comme ça?"
 
 # game/code/Book-1/Chapter-7s/s06.rpy:251
 translate french b1c07ss06_3f3add07:
@@ -524,13 +524,13 @@ translate french b1c07ss06_3f3add07:
 translate french b1c07ss06_06db12b4:
 
     # rg "Are you friends with Morgan?"
-    rg "Tu es ami avec Morgan ?"
+    rg "Tu es ami avec Morgan?"
 
 # game/code/Book-1/Chapter-7s/s06.rpy:258
 translate french b1c07ss06_48eed50f:
 
     # mc "Um, I don't know Morgan as well, but I've seen her around. Is that a problem?"
-    mc "Euh, je ne connais pas Morgan aussi bien, mais je l'ai vue de temps en temps. Est-ce un problème ?"
+    mc "Euh, je ne connais pas Morgan aussi bien, mais je l'ai vue de temps en temps. Est-ce un problème?"
 
 # game/code/Book-1/Chapter-7s/s06.rpy:261
 translate french b1c07ss06_5cf6297b:
@@ -554,7 +554,7 @@ translate french b1c07ss06_50de1963:
 translate french b1c07ss06_63e711aa:
 
     # rg "Well, I guess I should read it, huh?"
-    rg "Eh bien, je suppose que je devrais la lire, hein ?"
+    rg "Eh bien, je suppose que je devrais la lire, hein?"
 
 # game/code/Book-1/Chapter-7s/s06.rpy:272
 translate french b1c07ss06_6ab0218d:
@@ -608,7 +608,7 @@ translate french b1c07ss06_946828be:
 translate french b1c07ss06_e7147520:
 
     # mct "Jesus, what exactly did she do?"
-    mct "Jésus, qu'est-ce qu'elle a fait exactement ?"
+    mct "Jésus, qu'est-ce qu'elle a fait exactement?"
 
 # game/code/Book-1/Chapter-7s/s06.rpy:302
 translate french b1c07ss06_89110d93:
@@ -632,7 +632,7 @@ translate french b1c07ss06_cffb00fe:
 translate french b1c07ss06_99c49387:
 
     # mc "It all worked out, didn't it?{w} You're safe now."
-    mc "Tout s'est bien terminé, non ?{w} Tu es en sécurité maintenant."
+    mc "Tout s'est bien terminé, non?{w} Tu es en sécurité maintenant."
 
 # game/code/Book-1/Chapter-7s/s06.rpy:310
 translate french b1c07ss06_f912b515:
@@ -650,7 +650,7 @@ translate french b1c07ss06_1effcb37:
 translate french b1c07ss06_042b05db:
 
     # mc "{i}Morgan{/i} was there?"
-    mc "{i}Morgan{/i} était là ?"
+    mc "{i}Morgan{/i} était là?"
 
 # game/code/Book-1/Chapter-7s/s06.rpy:317
 translate french b1c07ss06_29688a0b:
@@ -674,7 +674,7 @@ translate french b1c07ss06_b6ceed2a:
 translate french b1c07ss06_4ac75e73:
 
     # mct "What the hell happened that involved all three of them? Why wasn't Morgan mentioned in the police report?"
-    mct "Qu'est-ce qui s'est passé qui impliquait les trois ? Pourquoi Morgan n'est-elle pas mentionnée dans le rapport de police ?"
+    mct "Qu'est-ce qui s'est passé qui impliquait les trois? Pourquoi Morgan n'est-elle pas mentionnée dans le rapport de police?"
 
 # game/code/Book-1/Chapter-7s/s06.rpy:327
 translate french b1c07ss06_a9e993eb:
@@ -734,7 +734,7 @@ translate french b1c07ss06_d29f27b8:
 translate french b1c07ss06_9951cb09:
 
     # rg "You'll deliver this to Cori?"
-    rg "Tu vas livrer ça à Cori ?"
+    rg "Tu vas livrer ça à Cori?"
 
 # game/code/Book-1/Chapter-7s/s06.rpy:354
 translate french b1c07ss06_606e2d02:
@@ -746,7 +746,7 @@ translate french b1c07ss06_606e2d02:
 translate french b1c07ss06_5b56422d:
 
     # mc "You'll make sure Morgan at least gets her letter from Corinne?"
-    mc "Tu vas t'assurer que Morgan reçoive au moins sa lettre de Corinne ?"
+    mc "Tu vas t'assurer que Morgan reçoive au moins sa lettre de Corinne?"
 
 # game/code/Book-1/Chapter-7s/s06.rpy:360
 translate french b1c07ss06_cd4c7517:
@@ -776,7 +776,7 @@ translate french b1c07ss06_cjh_81f146ca:
 translate french b1c07ss06_cjh_1b28ce6a:
 
     # cjh "Rory Grayson! Get your ass out here!"
-    cjh "Rory Grayson ! Sors de là, espèce de..."
+    cjh "Rory Grayson! Sors de là, espèce de..."
 
 # game/code/Book-1/Chapter-7s/s06.rpy:382
 translate french b1c07ss06_cjh_dbee40ee:
@@ -788,19 +788,19 @@ translate french b1c07ss06_cjh_dbee40ee:
 translate french b1c07ss06_cjh_01188bdb:
 
     # rg "Oh god, what do I do, what do I do?"
-    rg "Oh mon dieu, que faire, que faire ?"
+    rg "Oh mon dieu, que faire, que faire?"
 
 # game/code/Book-1/Chapter-7s/s06.rpy:390
 translate french b1c07ss06_cjh_acde0eed:
 
     # mc "Why the hell is Cade here?"
-    mc "Pourquoi diable Cade est-il ici ?"
+    mc "Pourquoi diable Cade est-il ici?"
 
 # game/code/Book-1/Chapter-7s/s06.rpy:393
 translate french b1c07ss06_cjh_6467dc16:
 
     # rg "You know Cade?"
-    rg "Tu connais Cade ?"
+    rg "Tu connais Cade?"
 
 # game/code/Book-1/Chapter-7s/s06.rpy:396
 translate french b1c07ss06_cjh_e1f17298:
@@ -812,7 +812,7 @@ translate french b1c07ss06_cjh_e1f17298:
 translate french b1c07ss06_cjh_1d9ddf3d:
 
     # mc "But how do you know Cade?"
-    mc "Mais comment connais-tu Cade ?"
+    mc "Mais comment connais-tu Cade?"
 
 # game/code/Book-1/Chapter-7s/s06.rpy:402
 translate french b1c07ss06_cjh_e3ae7694:
@@ -824,25 +824,25 @@ translate french b1c07ss06_cjh_e3ae7694:
 translate french b1c07ss06_cjh_36afe575:
 
     # cjh "LET ME IN YOU LITTLE SHIT, I KNOW YOU'RE IN THERE!"
-    cjh "LAISSE-MOI ENTRER, PETIT CON, JE SAIS QUE TU ES LÀ-DEDANS !"
+    cjh "LAISSE-MOI ENTRER, PETIT CON, JE SAIS QUE TU ES LÀ-DEDANS!"
 
 # game/code/Book-1/Chapter-7s/s06.rpy:407
 translate french b1c07ss06_cjh_532e4299:
 
     # mct "Does that mean Cade knows I'm here, too?"
-    mct "Cela signifie-t-il que Cade sait que je suis ici aussi ?"
+    mct "Cela signifie-t-il que Cade sait que je suis ici aussi?"
 
 # game/code/Book-1/Chapter-7s/s06.rpy:409
 translate french b1c07ss06_cjh_cbe890d2:
 
     # mct "Is that why Rory wanted Morgan to come instead? So she could fight him off?"
-    mct "C'est pour ça que Rory voulait que Morgan vienne à la place ? Pour qu'elle puisse le repousser ?"
+    mct "C'est pour ça que Rory voulait que Morgan vienne à la place? Pour qu'elle puisse le repousser?"
 
 # game/code/Book-1/Chapter-7s/s06.rpy:410
 translate french b1c07ss06_cjh_c5d4d047:
 
     # mct "Fuck, what have I gotten myself in the middle of?"
-    mct "Merde, dans quoi est-ce que je me suis embarqué ?"
+    mct "Merde, dans quoi est-ce que je me suis embarqué?"
 
 # game/code/Book-1/Chapter-7s/s06.rpy:412
 translate french b1c07ss06_cjh_d3a9059c:
@@ -860,7 +860,7 @@ translate french b1c07ss06_cjh_cff1a967:
 translate french b1c07ss06_cjh_f01d5a41:
 
     # cjh "C'mere, little piggy. If you don't open this door I'm gonna blow it THE FUCK DOWN!"
-    cjh "Viens ici, petit cochon. Si tu n'ouvres pas cette porte, je vais la DÉFONCER !"
+    cjh "Viens ici, petit cochon. Si tu n'ouvres pas cette porte, je vais la DÉFONCER!"
 
 # game/code/Book-1/Chapter-7s/s06.rpy:419
 translate french b1c07ss06_cjh_55dbe08c:
@@ -878,25 +878,25 @@ translate french b1c07ss06_cjh_8db4a894:
 translate french b1c07ss06_cjh_03fdc903:
 
     # mc "You're just gonna let him in?!"
-    mc "Tu vas juste le laisser entrer ?!"
+    mc "Tu vas juste le laisser entrer?!"
 
 # game/code/Book-1/Chapter-7s/s06.rpy:428
 translate french b1c07ss06_cjh_89f0284f:
 
     # rg "I don't know what else to do! Cade's serious, and I can't pay for the damage repairs!"
-    rg "Je ne sais pas quoi faire d'autre ! Cade est sérieux, et je ne peux pas payer les réparations des dégâts !"
+    rg "Je ne sais pas quoi faire d'autre! Cade est sérieux, et je ne peux pas payer les réparations des dégâts!"
 
 # game/code/Book-1/Chapter-7s/s06.rpy:431
 translate french b1c07ss06_cjh_ed4db80e:
 
     # mc "Well hospital bills are gonna be more expensive!"
-    mc "Les factures d'hôpital seront bien plus chères !"
+    mc "Les factures d'hôpital seront bien plus chères!"
 
 # game/code/Book-1/Chapter-7s/s06.rpy:434
 translate french b1c07ss06_cjh_51b8def2:
 
     # rg "I can deal with wounds far better than I can deal with my shitty landlord!!"
-    rg "Je peux gérer des blessures bien mieux que mon propriétaire de merde !!"
+    rg "Je peux gérer des blessures bien mieux que mon propriétaire de merde!!"
 
 # game/code/Book-1/Chapter-7s/s06.rpy:444
 translate french b1c07ss06_cjh_d1c43af5:
@@ -920,13 +920,13 @@ translate french b1c07ss06_cjh_133e9ef2:
 translate french b1c07ss06_cjh_ded96a86:
 
     # cjh "And what the fuck are you doin' here, huh? You sure got your fingers in a lot of pies for a new guy on the block."
-    cjh "Et qu'est-ce que tu fous ici, hein ? T'as l'air de mettre ton nez partout pour un nouveau dans le quartier."
+    cjh "Et qu'est-ce que tu fous ici, hein? T'as l'air de mettre ton nez partout pour un nouveau dans le quartier."
 
 # game/code/Book-1/Chapter-7s/s06.rpy:455
 translate french b1c07ss06_cjh_9556205e:
 
     # mc "What makes you think I'm new?"
-    mc "Qu'est-ce qui te fait penser que je suis nouveau ?"
+    mc "Qu'est-ce qui te fait penser que je suis nouveau?"
 
 # game/code/Book-1/Chapter-7s/s06.rpy:458
 translate french b1c07ss06_cjh_75befc84:
@@ -938,13 +938,13 @@ translate french b1c07ss06_cjh_75befc84:
 translate french b1c07ss06_cjh_8d959f92:
 
     # mct "Gangs...plural? So there are multiple?"
-    mct "Des gangs... au pluriel ? Donc il y en a plusieurs ?"
+    mct "Des gangs... au pluriel? Donc il y en a plusieurs?"
 
 # game/code/Book-1/Chapter-7s/s06.rpy:462
 translate french b1c07ss06_cjh_292d0e24:
 
     # cjh "So what's your deal? You tryna get with Sabrina? You tryna steal my woman?"
-    cjh "Alors, c'est quoi ton problème ? T'essaies de te rapprocher de Sabrina ? T'essaies de me voler ma femme ?"
+    cjh "Alors, c'est quoi ton problème? T'essaies de te rapprocher de Sabrina? T'essaies de me voler ma femme?"
 
 # game/code/Book-1/Chapter-7s/s06.rpy:465
 translate french b1c07ss06_cjh_47d585f3:
@@ -962,7 +962,7 @@ translate french b1c07ss06_cjh_aea55847:
 translate french b1c07ss06_cjh_1cacfe68:
 
     # cjh "Some friend, huh? Writing love letters to each other or something?"
-    cjh "Un bon ami, hein ? Vous vous écrivez des lettres d'amour ou quoi ?"
+    cjh "Un bon ami, hein? Vous vous écrivez des lettres d'amour ou quoi?"
 
 # game/code/Book-1/Chapter-7s/s06.rpy:473
 translate french b1c07ss06_cjh_f4f5e075:
@@ -986,7 +986,7 @@ translate french b1c07ss06_cjh_bf0e2542:
 translate french b1c07ss06_cjh_66a42485:
 
     # cjh "No can do, pal. We've all got debts to pay, eh? Rory's time is up."
-    cjh "Impossible, mon pote. On a tous des dettes à régler, hein ? Le temps de Rory est écoulé."
+    cjh "Impossible, mon pote. On a tous des dettes à régler, hein? Le temps de Rory est écoulé."
 
 # game/code/Book-1/Chapter-7s/s06.rpy:483
 translate french b1c07ss06_cjh_a8e16b97:
@@ -1004,7 +1004,7 @@ translate french b1c07ss06_cjh_f460fd0d:
 translate french b1c07ss06_cjh_4bdc5aa0:
 
     # mct "Shit!"
-    mct "Merde !"
+    mct "Merde!"
 
 # game/code/Book-1/Chapter-7s/s06.rpy:495
 translate french b1c07ss06_cjh_0384f722:
@@ -1034,7 +1034,7 @@ translate french b1c07ss06_cjh_abaaa70d:
 translate french b1c07ss06_cjh_cbcd2f09:
 
     # cjh "How about a little lesson in manners, eh?"
-    cjh "Que dirais-tu d'une petite leçon de savoir-vivre, hein ?"
+    cjh "Que dirais-tu d'une petite leçon de savoir-vivre, hein?"
 
 # game/code/Book-1/Chapter-7s/s06.rpy:513
 translate french b1c07ss06_cjh_8ae3320e:
@@ -1052,7 +1052,7 @@ translate french b1c07ss06_cjh_2e92fbf6:
 translate french b1c07ss06_cjh_c4a6497f:
 
     # cjh "Mm, maybe we'll start with the face, eh? How about I carve my initials there so you never forget your manners, hm?"
-    cjh "Mm, peut-être qu'on commencera par le visage, hein ? Que dirais-tu si je gravais mes initiales là pour que tu n'oublies jamais les bonnes manières, hein ?"
+    cjh "Mm, peut-être qu'on commencera par le visage, hein? Que dirais-tu si je gravais mes initiales là pour que tu n'oublies jamais les bonnes manières, hein?"
 
 # game/code/Book-1/Chapter-7s/s06.rpy:530
 translate french b1c07ss06_cjh_35bef1db:
@@ -1070,7 +1070,7 @@ translate french b1c07ss06_cjh_da1cc558:
 translate french b1c07ss06_cjh_85b68629:
 
     # cjh "FUCK!"
-    cjh "PUTAIN !"
+    cjh "PUTAIN!"
 
 # game/code/Book-1/Chapter-7s/s06.rpy:540
 translate french b1c07ss06_cjh_7af5c87c:
@@ -1106,7 +1106,7 @@ translate french b1c07ss06_cjh_1f5cd065:
 translate french b1c07ss06_cjh_d9f26089:
 
     # mc "Don't fuck with me or Rory again. Are we fucking clear?"
-    mc "Ne viens plus nous emmerder, Rory ou moi. Est-ce que c'est clair ?"
+    mc "Ne viens plus nous emmerder, Rory ou moi. Est-ce que c'est clair?"
 
 # game/code/Book-1/Chapter-7s/s06.rpy:597
 translate french b1c07ss06_cjh_7105c237:
@@ -1154,7 +1154,7 @@ translate french b1c07ss06_cjh_c85f276e:
 translate french b1c07ss06_cjh_eedab8dd:
 
     # mc "Jesus fucking christ, what kind of shitshow are you involved with, Rory?"
-    mc "Nom de dieu, Rory, dans quel bordel tu t'es encore embarquée ?"
+    mc "Nom de dieu, Rory, dans quel bordel tu t'es encore embarquée?"
 
 # game/code/Book-1/Chapter-7s/s06.rpy:631
 translate french b1c07ss06_cjh_a2dc9f03:
@@ -1166,7 +1166,7 @@ translate french b1c07ss06_cjh_a2dc9f03:
 translate french b1c07ss06_cjh_012183b9:
 
     # rg "Oh! Let me help you with that."
-    rg "Oh ! Laisse-moi t'aider avec ça."
+    rg "Oh! Laisse-moi t'aider avec ça."
 
 # game/code/Book-1/Chapter-7s/s06.rpy:643
 translate french b1c07ss06_cjh_3d38c9e7:
@@ -1214,7 +1214,7 @@ translate french b1c07ss06_cjh_9f02beea:
 translate french b1c07ss06_cjh_cb43cba8:
 
     # mct "An {i}enemy{/i} gang? That's an interesting way to word it."
-    mct "Un gang {i}rival{/i} ? Voilà une manière intéressante de le formuler."
+    mct "Un gang {i}rival{/i}? Voilà une manière intéressante de le formuler."
 
 # game/code/Book-1/Chapter-7s/s06.rpy:673
 translate french b1c07ss06_cjh_65408452:
@@ -1244,13 +1244,13 @@ translate french b1c07ss06_cjh_fe8e291e:
 translate french b1c07ss06_cjh_87d35c04:
 
     # rg "I feel so guilty. I'm {i}endangering{/i} people, just because of this!"
-    rg "Je me sens tellement coupable. Je {i}mets en danger{/i} des gens, juste à cause de ça !"
+    rg "Je me sens tellement coupable. Je {i}mets en danger{/i} des gens, juste à cause de ça!"
 
 # game/code/Book-1/Chapter-7s/s06.rpy:687
 translate french b1c07ss06_cjh_a77fa41b:
 
     # mc "Hey, it's alright. I didn't fare too bad, right?"
-    mc "Hey, c'est bon. Je m'en suis pas trop mal sorti, non ?"
+    mc "Hey, c'est bon. Je m'en suis pas trop mal sorti, non?"
 
 # game/code/Book-1/Chapter-7s/s06.rpy:690
 translate french b1c07ss06_cjh_757f5337:
@@ -1292,13 +1292,13 @@ translate french b1c07ss06_cjh_f66b6878:
 translate french b1c07ss06_cjh_f0fa7535:
 
     # mc "It's more complicated than pathetic or not pathetic, isn't it?"
-    mc "C'est plus compliqué que simplement pathétique ou pas, non ?"
+    mc "C'est plus compliqué que simplement pathétique ou pas, non?"
 
 # game/code/Book-1/Chapter-7s/s06.rpy:711
 translate french b1c07ss06_cjh_31954e0c:
 
     # rg "I guess. I just...Cori got jail time for what she did to me. But her being jailed didn't really change my life, did it?"
-    rg "Je suppose. C'est juste que... Cori a pris de la prison pour ce qu'elle m'a fait. Mais qu'elle soit en prison, ça n'a pas vraiment changé ma vie, pas vrai ?"
+    rg "Je suppose. C'est juste que... Cori a pris de la prison pour ce qu'elle m'a fait. Mais qu'elle soit en prison, ça n'a pas vraiment changé ma vie, pas vrai?"
 
 # game/code/Book-1/Chapter-7s/s06.rpy:713
 translate french b1c07ss06_cjh_2ffea47c:
@@ -1322,7 +1322,7 @@ translate french b1c07ss06_end_aed33e58:
 translate french b1c07ss06_end_3b0dc4f7:
 
     # mc "Everyone's got their own fair share of shit to deal with, right? So I don't judge you."
-    mc "Tout le monde a sa propre dose de merdes à gérer, non ? Alors je ne te juge pas."
+    mc "Tout le monde a sa propre dose de merdes à gérer, non? Alors je ne te juge pas."
 
 # game/code/Book-1/Chapter-7s/s06.rpy:731
 translate french b1c07ss06_end_67e9058f:
@@ -1376,13 +1376,13 @@ translate french b1c07ss06_end_c1594b63:
 translate french b1c07ss06_end_6b7e8591:
 
     # mc "Will you be okay?"
-    mc "Ça ira ?"
+    mc "Ça ira?"
 
 # game/code/Book-1/Chapter-7s/s06.rpy:751
 translate french b1c07ss06_end_730f6dac:
 
     # rg "Yeah! Yes. I'll be fine. Please, don't worry about me."
-    rg "Ouais ! Oui. Ça ira. S'il te plaît, ne t'inquiète pas pour moi."
+    rg "Ouais! Oui. Ça ira. S'il te plaît, ne t'inquiète pas pour moi."
 
 # game/code/Book-1/Chapter-7s/s06.rpy:754
 translate french b1c07ss06_end_dd1a93b1:

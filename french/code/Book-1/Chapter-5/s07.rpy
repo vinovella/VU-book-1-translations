@@ -8,13 +8,13 @@ translate french b1c05s07_3a353dc8:
 translate french b1c05s07_3d5dad3e:
 
     # rh "Oh!"
-    rh "Oh !"
+    rh "Oh!"
 
 # game/code/Book-1/Chapter-5/s07.rpy:37
 translate french b1c05s07_43180039:
 
     # rh "[mcname]!"
-    rh "[mcname] !"
+    rh "[mcname]!"
 
 # game/code/Book-1/Chapter-5/s07.rpy:40
 translate french b1c05s07_e32731e7:
@@ -50,25 +50,25 @@ translate french b1c05s07_f6adfcba:
 translate french b1c05s07_0acc8671:
 
     # mc "My grades?"
-    mc "Mes notes ?"
+    mc "Mes notes?"
 
 # game/code/Book-1/Chapter-5/s07.rpy:68
 translate french b1c05s07_7da95034:
 
     # mct "What grades? I haven't even sat on an exam yet."
-    mct "Quelles notes ? Je n'ai même pas encore passé un examen."
+    mct "Quelles notes? Je n'ai même pas encore passé un examen."
 
 # game/code/Book-1/Chapter-5/s07.rpy:71
 translate french b1c05s07_56e8300e:
 
     # mc "Is there something wrong?"
-    mc "Y a-t-il un problème ?"
+    mc "Y a-t-il un problème?"
 
 # game/code/Book-1/Chapter-5/s07.rpy:74
 translate french b1c05s07_5f95d361:
 
     # rh "No, no! In fact, you're doing {i}very well{/i}."
-    rh "Non, non ! En fait, vous vous en sortez {i}très bien{/i}."
+    rh "Non, non! En fait, vous vous en sortez {i}très bien{/i}."
 
 # game/code/Book-1/Chapter-5/s07.rpy:75
 translate french b1c05s07_9998a85c:
@@ -92,7 +92,7 @@ translate french b1c05s07_4b6a49bc:
 translate french b1c05s07_78ed294e:
 
     # rh "Actually, would you mind following me to my class? I'd be able to go over your options more...thoroughly, there."
-    rh "En fait, cela vous dérangerait-il de me suivre dans ma classe ? Je pourrais détailler vos options plus... en profondeur, là-bas."
+    rh "En fait, cela vous dérangerait-il de me suivre dans ma classe? Je pourrais détailler vos options plus... en profondeur, là-bas."
 
 # game/code/Book-1/Chapter-5/s07.rpy:85
 translate french b1c05s07_5f919acb:
@@ -182,7 +182,7 @@ translate french b1c05s07_8c1dbf86:
 translate french b1c05s07_6376d571:
 
     # rh "Oh, I'm sure you can. Have you applied to any of the sports clubs that we have available here?"
-    rh "Oh, je suis sûre que oui. Avez-vous postulé pour l'un des clubs sportifs que nous proposons ici ?"
+    rh "Oh, je suis sûre que oui. Avez-vous postulé pour l'un des clubs sportifs que nous proposons ici?"
 
 # game/code/Book-1/Chapter-5/s07.rpy:137
 translate french b1c05s07_c53f255b:
@@ -194,7 +194,7 @@ translate french b1c05s07_c53f255b:
 translate french b1c05s07_fab0c8b1:
 
     # rh "Oh? That's good to hear! It's a very prestigious club."
-    rh "Oh ? C'est une bonne nouvelle ! C'est un club très prestigieux."
+    rh "Oh? C'est une bonne nouvelle! C'est un club très prestigieux."
 
 # game/code/Book-1/Chapter-5/s07.rpy:141
 translate french b1c05s07_348a3a6f:
@@ -206,13 +206,13 @@ translate french b1c05s07_348a3a6f:
 translate french b1c05s07_ad888ad6:
 
     # mct "What's her game here?"
-    mct "Quel est son jeu ici ?"
+    mct "Quel est son jeu ici?"
 
 # game/code/Book-1/Chapter-5/s07.rpy:157
 translate french b1c05s07_944480f5:
 
     # rh "A big strong man like you wouldn't mind me sitting on your lap, would you?"
-    rh "Un grand homme fort comme vous ne verrait pas d'inconvénient à ce que je m'assoie sur vos genoux, n'est-ce pas ?"
+    rh "Un grand homme fort comme vous ne verrait pas d'inconvénient à ce que je m'assoie sur vos genoux, n'est-ce pas?"
 
 # game/code/Book-1/Chapter-5/s07.rpy:159
 translate french b1c05s07_e73cbee8:
@@ -230,7 +230,7 @@ translate french b1c05s07_22f5d9e5:
 translate french b1c05s07_091f4e8b:
 
     # mc "You're very {i}wicked{/i}, aren't you, Ms. Hopkins?"
-    mc "Vous êtes vraiment {i}méchante{/i}, n'est-ce pas, Mme Hopkins ?"
+    mc "Vous êtes vraiment {i}méchante{/i}, n'est-ce pas, Mme Hopkins?"
 
 # game/code/Book-1/Chapter-5/s07.rpy:165
 translate french b1c05s07_17538a6a:
@@ -296,7 +296,7 @@ translate french b1c05s07_f8a89839:
 translate french b1c05s07_d6528adf:
 
     # rh "One moment!"
-    rh "Un instant !"
+    rh "Un instant!"
 
 # game/code/Book-1/Chapter-5/s07.rpy:205
 translate french b1c05s07_4ec6a496:
@@ -308,7 +308,7 @@ translate french b1c05s07_4ec6a496:
 translate french b1c05s07_166af863:
 
     # dm "Ronja? Why was the do—"
-    dm "Ronja ? Pourquoi la por—"
+    dm "Ronja? Pourquoi la por—"
 
 # game/code/Book-1/Chapter-5/s07.rpy:215
 translate french b1c05s07_0291e51c:
@@ -350,7 +350,7 @@ translate french b1c05s07_368adb5e:
 translate french b1c05s07_4965ac8d:
 
     # mct "What have I stepped in, here?"
-    mct "Dans quoi est-ce que je me suis embarqué, ici ?"
+    mct "Dans quoi est-ce que je me suis embarqué, ici?"
 
 # game/code/Book-1/Chapter-5/s07.rpy:238
 translate french b1c05s07_b724e6a7:
@@ -368,7 +368,7 @@ translate french b1c05s07_8a531fde:
 translate french b1c05s07_755f63ce:
 
     # dm "Have you maybe thought that there are perhaps better ways to do it than to corner him?"
-    dm "Avez-vous pensé qu'il y a peut-être de meilleures façons de faire que de le coincer ?"
+    dm "Avez-vous pensé qu'il y a peut-être de meilleures façons de faire que de le coincer?"
 
 # game/code/Book-1/Chapter-5/s07.rpy:243
 translate french b1c05s07_decf3d5e:
@@ -380,7 +380,7 @@ translate french b1c05s07_decf3d5e:
 translate french b1c05s07_ee1a9a21:
 
     # mc "Diana, I was just interested in the advanced courses. I figured it could help me along my {i}path{/i}, y'know?"
-    mc "Diana, je m'intéressais juste aux cours avancés. Je me disais que ça pourrait m'aider sur mon {i}chemin{/i}, tu vois ?"
+    mc "Diana, je m'intéressais juste aux cours avancés. Je me disais que ça pourrait m'aider sur mon {i}chemin{/i}, tu vois?"
 
 # game/code/Book-1/Chapter-5/s07.rpy:248
 translate french b1c05s07_8225140d:
@@ -392,7 +392,7 @@ translate french b1c05s07_8225140d:
 translate french b1c05s07_0f8afa30:
 
     # rh "See? Even he enjoyed our private meeting."
-    rh "Tu vois ? Même lui a apprécié notre rencontre privée."
+    rh "Tu vois? Même lui a apprécié notre rencontre privée."
 
 # game/code/Book-1/Chapter-5/s07.rpy:253
 translate french b1c05s07_5c347a7f:
@@ -416,13 +416,13 @@ translate french b1c05s07_01abecc8:
 translate french b1c05s07_1d00d3aa:
 
     # rh "Not at all. Go ahead. I'm sure [mcname] would be fine with that, yes?"
-    rh "Pas du tout. Vas-y. Je suis sûre que [mcname] serait d'accord avec ça, non ?"
+    rh "Pas du tout. Vas-y. Je suis sûre que [mcname] serait d'accord avec ça, non?"
 
 # game/code/Book-1/Chapter-5/s07.rpy:262
 translate french b1c05s07_f4c901a0:
 
     # mct "Am I supposed to agree? What kind of game are they playing?"
-    mct "Suis-je censé être d'accord ? À quel genre de jeu jouent-elles ?"
+    mct "Suis-je censé être d'accord? À quel genre de jeu jouent-elles?"
 
 # game/code/Book-1/Chapter-5/s07.rpy:263
 translate french b1c05s07_6a1fd9a1:
@@ -440,7 +440,7 @@ translate french b1c05s07_1bf60051_1:
 translate french b1c05s07_c7eb0675:
 
     # dm "Great... Well, in that case, [mcname]?"
-    dm "Parfait... Eh bien, dans ce cas, [mcname] ?"
+    dm "Parfait... Eh bien, dans ce cas, [mcname]?"
 
 # game/code/Book-1/Chapter-5/s07.rpy:278
 translate french b1c05s07_95bb73c5:

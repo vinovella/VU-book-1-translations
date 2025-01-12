@@ -8,7 +8,7 @@ translate french b1c08cs01_70322560:
 translate french b1c08cs01_ccc1ba49:
 
     # ll "Over here, [mcname]! We saved you a seat!"
-    ll "Ici, [mcname]! On t'a réservé une place !"
+    ll "Ici, [mcname]! On t'a réservé une place!"
 
 # game/code/Book-1/Chapter-8c/s01.rpy:30
 translate french b1c08cs01_de88cf3d:
@@ -74,13 +74,13 @@ translate french b1c08cs01_f7040e7a:
 translate french b1c08cs01_82b74191:
 
     # mc "You'd know best, mm?"
-    mc "Tu serais bien la mieux placée pour savoir, non ?"
+    mc "Tu serais bien la mieux placée pour savoir, non?"
 
 # game/code/Book-1/Chapter-8c/s01.rpy:70
 translate french b1c08cs01_2f992ab4:
 
     # ij "A kiss in greeting?"
-    ij "Un baiser en guise de salut ?"
+    ij "Un baiser en guise de salut?"
 
 # game/code/Book-1/Chapter-8c/s01.rpy:73
 translate french b1c08cs01_9d4c15b8:
@@ -128,7 +128,7 @@ translate french b1c08cs01_70145e10:
 translate french b1c08cs01_7bace6b3:
 
     # ef "I'm so freaking excited, you guys!"
-    ef "Je suis trop excitée, vous les gars !"
+    ef "Je suis trop excitée, vous les gars!"
 
 # game/code/Book-1/Chapter-8c/s01.rpy:106
 translate french b1c08cs01_a56a928b:
@@ -140,13 +140,13 @@ translate french b1c08cs01_a56a928b:
 translate french b1c08cs01_e4825f89:
 
     # nv "Me too. It can be so difficult to properly connect at uni. But out in the forest, where all we have is each other? It sounds so relaxing."
-    nv "Moi aussi. C'est tellement difficile de vraiment se connecter à l'université. Mais dehors dans la forêt, où on n'a que nous les uns les autres ? Ça a l'air tellement relaxant."
+    nv "Moi aussi. C'est tellement difficile de vraiment se connecter à l'université. Mais dehors dans la forêt, où on n'a que nous les uns les autres? Ça a l'air tellement relaxant."
 
 # game/code/Book-1/Chapter-8c/s01.rpy:112
 translate french b1c08cs01_b8df62f7:
 
     # ij "What are you most excited for, [mcname]?"
-    ij "Qu'est-ce qui t'excite le plus, [mcname] ?"
+    ij "Qu'est-ce qui t'excite le plus, [mcname]?"
 
 # game/code/Book-1/Chapter-8c/s01.rpy:115
 translate french b1c08cs01_56727171:
@@ -158,7 +158,7 @@ translate french b1c08cs01_56727171:
 translate french b1c08cs01_01bf2e73:
 
     # nv "What about you, Lumi? Anything you're super excited for?"
-    nv "Et toi, Lumi ? Y a-t-il quelque chose qui t'excite particulièrement ?"
+    nv "Et toi, Lumi? Y a-t-il quelque chose qui t'excite particulièrement?"
 
 # game/code/Book-1/Chapter-8c/s01.rpy:121
 translate french b1c08cs01_7fef8af7:
@@ -212,7 +212,7 @@ translate french b1c08cs01_258bcc97:
 translate french b1c08cs01_da22d331:
 
     # mc "Have you been on one of these trips before?"
-    mc "As-tu déjà participé à l'un de ces voyages ?"
+    mc "As-tu déjà participé à l'un de ces voyages?"
 
 # game/code/Book-1/Chapter-8c/s01.rpy:148
 translate french b1c08cs01_2a62c4ad:
@@ -272,7 +272,7 @@ translate french b1c08cs01_670b4c29:
 translate french b1c08cs01_00c517cc:
 
     # nv "Lumi, have you given any more thought to getting the tattoo? It's a significant part of our group, and it might really help you feel like you belong here."
-    nv "Lumi, as-tu réfléchi davantage à l'idée de te faire tatouer ? C'est une partie importante de notre groupe, et cela pourrait vraiment t'aider à te sentir ici chez toi."
+    nv "Lumi, as-tu réfléchi davantage à l'idée de te faire tatouer? C'est une partie importante de notre groupe, et cela pourrait vraiment t'aider à te sentir ici chez toi."
 
 # game/code/Book-1/Chapter-8c/s01.rpy:173
 translate french b1c08cs01_47c7017f:
@@ -326,13 +326,13 @@ translate french b1c08cs01_982a37b0:
 translate french b1c08cs01_03b3fb7e:
 
     # ll "Will it hurt?"
-    ll "Est-ce que ça va faire mal ?"
+    ll "Est-ce que ça va faire mal?"
 
 # game/code/Book-1/Chapter-8c/s01.rpy:195
 translate french b1c08cs01_1a103194:
 
     # nv "No! No, there's numbing creams for that. And if you get it on a fleshy part of your body, you'll barely feel it."
-    nv "Non ! Non, il y a des crèmes anesthésiantes pour ça. Et si tu le fais sur une zone charnue de ton corps, tu ne le sentiras presque pas."
+    nv "Non! Non, il y a des crèmes anesthésiantes pour ça. Et si tu le fais sur une zone charnue de ton corps, tu ne le sentiras presque pas."
 
 # game/code/Book-1/Chapter-8c/s01.rpy:197
 translate french b1c08cs01_d418a08c:
@@ -386,7 +386,7 @@ translate french b1c08cs01_efe8f33b:
 translate french b1c08cs01_ded8017b:
 
     # mc "I mean, what's the point in taking forever? All it's doing is wasting time, right?"
-    mc "Je veux dire, à quoi ça sert de traîner ? Tout ce que ça fait, c'est perdre du temps, non ?"
+    mc "Je veux dire, à quoi ça sert de traîner? Tout ce que ça fait, c'est perdre du temps, non?"
 
 # game/code/Book-1/Chapter-8c/s01.rpy:219
 translate french b1c08cs01_58616234:
@@ -452,25 +452,25 @@ translate french b1c08cs01_b368f01c:
 translate french b1c08cs01_72e55823:
 
     # dk "Ugh! My ancestral spirits were so unhelpful that day. That's part of why I stopped using tarot cards."
-    dk "Ugh ! Mes esprits ancestraux étaient tellement inutiles ce jour-là. C'est en partie pour ça que j'ai arrêté d'utiliser les cartes de tarot."
+    dk "Ugh! Mes esprits ancestraux étaient tellement inutiles ce jour-là. C'est en partie pour ça que j'ai arrêté d'utiliser les cartes de tarot."
 
 # game/code/Book-1/Chapter-8c/s01.rpy:253
 translate french b1c08cs01_5e7c6d86:
 
     # ij "Are you sure your poor tarot reading wasn't because you didn't take the time to learn the craft properly?"
-    ij "Es-tu sûr que ta mauvaise lecture de tarot n'était pas à cause du fait que tu n'as pas pris le temps d'apprendre correctement l'art ?"
+    ij "Es-tu sûr que ta mauvaise lecture de tarot n'était pas à cause du fait que tu n'as pas pris le temps d'apprendre correctement l'art?"
 
 # game/code/Book-1/Chapter-8c/s01.rpy:256
 translate french b1c08cs01_55303991:
 
     # dk "Well my ancestors and spirit guides should be able to communicate with me regardless!"
-    dk "Eh bien, mes ancêtres et mes guides spirituels devraient être capables de communiquer avec moi quoi qu'il arrive !"
+    dk "Eh bien, mes ancêtres et mes guides spirituels devraient être capables de communiquer avec moi quoi qu'il arrive!"
 
 # game/code/Book-1/Chapter-8c/s01.rpy:259
 translate french b1c08cs01_739175a4:
 
     # ij "Oh come on. If you hold a phone upside down you can't expect to hear the other person clearly! It's the same for tarot cards."
-    ij "Oh, allez. Si tu tiens un téléphone à l'envers, tu ne peux pas t'attendre à entendre l'autre personne clairement ! C'est pareil pour les cartes de tarot."
+    ij "Oh, allez. Si tu tiens un téléphone à l'envers, tu ne peux pas t'attendre à entendre l'autre personne clairement! C'est pareil pour les cartes de tarot."
 
 # game/code/Book-1/Chapter-8c/s01.rpy:260
 translate french b1c08cs01_a230b536:
@@ -488,7 +488,7 @@ translate french b1c08cs01_3638afa9:
 translate french b1c08cs01_31d1df6f:
 
     # mc "What's scrying?"
-    mc "Qu'est-ce que la divination par cristal ?"
+    mc "Qu'est-ce que la divination par cristal?"
 
 # game/code/Book-1/Chapter-8c/s01.rpy:269
 translate french b1c08cs01_2356cbbc:
@@ -530,7 +530,7 @@ translate french b1c08cs01_70b37859:
 translate french b1c08cs01_c929a4eb:
 
     # ef "Wow! You never told me this. What happened the second time?"
-    ef "Waouh ! Tu ne m'as jamais raconté ça. Que s'est-il passé la deuxième fois ?"
+    ef "Waouh! Tu ne m'as jamais raconté ça. Que s'est-il passé la deuxième fois?"
 
 # game/code/Book-1/Chapter-8c/s01.rpy:286
 translate french b1c08cs01_df61724e:
@@ -542,7 +542,7 @@ translate french b1c08cs01_df61724e:
 translate french b1c08cs01_c4dfeca6:
 
     # ef "C'mon! I wanna hear."
-    ef "Allez ! Je veux entendre."
+    ef "Allez! Je veux entendre."
 
 # game/code/Book-1/Chapter-8c/s01.rpy:292
 translate french b1c08cs01_3671357f:
@@ -566,7 +566,7 @@ translate french b1c08cs01_5628ac95:
 translate french b1c08cs01_9566a4c5:
 
     # ij "Well I didn't think it was cool! It was distressing."
-    ij "Eh bien, je ne pensais pas que c'était génial ! C'était angoissant."
+    ij "Eh bien, je ne pensais pas que c'était génial! C'était angoissant."
 
 # game/code/Book-1/Chapter-8c/s01.rpy:305
 translate french b1c08cs01_b55c283e:
@@ -578,13 +578,13 @@ translate french b1c08cs01_b55c283e:
 translate french b1c08cs01_a82ab13d:
 
     # ll "Don't patronize me! I'm not scared, it's just..."
-    ll "Ne me prends pas de haut ! Je n'ai pas peur, c'est juste..."
+    ll "Ne me prends pas de haut! Je n'ai pas peur, c'est juste..."
 
 # game/code/Book-1/Chapter-8c/s01.rpy:312
 translate french b1c08cs01_91d8a70c:
 
     # mc "You okay?"
-    mc "Ça va ?"
+    mc "Ça va?"
 
 # game/code/Book-1/Chapter-8c/s01.rpy:315
 translate french b1c08cs01_4b791082:
@@ -602,25 +602,25 @@ translate french b1c08cs01_7a6a4064:
 translate french b1c08cs01_b414ae06:
 
     # nv "What happened next?"
-    nv "Que s'est-il passé ensuite ?"
+    nv "Que s'est-il passé ensuite?"
 
 # game/code/Book-1/Chapter-8c/s01.rpy:328
 translate french b1c08cs01_fa8d9380:
 
     # ij "For the scry session? I ended it there. I felt too unstable to continue the practice. But—Well, I shouldn't say."
-    ij "Pour la session de divination ? Je l'ai arrêtée là. Je me sentais trop instable pour continuer la pratique. Mais—Eh bien, je ne devrais pas dire."
+    ij "Pour la session de divination? Je l'ai arrêtée là. Je me sentais trop instable pour continuer la pratique. Mais—Eh bien, je ne devrais pas dire."
 
 # game/code/Book-1/Chapter-8c/s01.rpy:332
 translate french b1c08cs01_537eac78:
 
     # ef "C'mon!! Do NOT leave us hanging like that!"
-    ef "Allez!! Ne nous laisse pas dans le suspense comme ça !"
+    ef "Allez!! Ne nous laisse pas dans le suspense comme ça!"
 
 # game/code/Book-1/Chapter-8c/s01.rpy:333
 translate french b1c08cs01_7f578597:
 
     # ef "What happened next, what happened next?"
-    ef "Que s'est-il passé ensuite, que s'est-il passé ensuite ?"
+    ef "Que s'est-il passé ensuite, que s'est-il passé ensuite?"
 
 # game/code/Book-1/Chapter-8c/s01.rpy:336
 translate french b1c08cs01_27282f2f:
@@ -710,13 +710,13 @@ translate french b1c08cs01_40746f3b:
 translate french b1c08cs01_9802febb:
 
     # mct "Still...Irene seems to think there's some truth to what she heard. Were the missing girls—or at least Maria—harrowing Hell in some way?"
-    mct "Quand même... Irene semble penser qu'il y a une part de vérité dans ce qu'elle a entendu. Est-ce que les filles disparues — ou du moins Maria — faisaient quelque chose pour harceler l'Enfer d'une manière ou d'une autre ?"
+    mct "Quand même... Irene semble penser qu'il y a une part de vérité dans ce qu'elle a entendu. Est-ce que les filles disparues — ou du moins Maria — faisaient quelque chose pour harceler l'Enfer d'une manière ou d'une autre?"
 
 # game/code/Book-1/Chapter-8c/s01.rpy:373
 translate french b1c08cs01_ad5562ae:
 
     # mct "What does that even look like or mean?"
-    mct "À quoi ça ressemble, ou qu'est-ce que ça veut dire ?"
+    mct "À quoi ça ressemble, ou qu'est-ce que ça veut dire?"
 
 # game/code/Book-1/Chapter-8c/s01.rpy:377
 translate french b1c08cs01_00a01e1a:
@@ -746,7 +746,7 @@ translate french b1c08cs01_ff0f44ba:
 translate french b1c08cs01_e2153659:
 
     # dk "Hello, Andre. Are all the preparations for the trip in order?"
-    dk "Bonjour, Andre. Toutes les préparations pour le voyage sont-elles en ordre ?"
+    dk "Bonjour, Andre. Toutes les préparations pour le voyage sont-elles en ordre?"
 
 # game/code/Book-1/Chapter-8c/s01.rpy:389
 translate french b1c08cs01_d264014b:
@@ -782,13 +782,13 @@ translate french b1c08cs01_58071ddb:
 translate french b1c08cs01_34914d8e:
 
     # dk "All this talk of silly ghost stories. You'd think we were going on a paranormal ghost hunt, not a spiritual getaway!"
-    dk "Toutes ces histoires de fantômes ridicules. On dirait qu'on part en chasse aux fantômes paranormale, pas en retraite spirituelle !"
+    dk "Toutes ces histoires de fantômes ridicules. On dirait qu'on part en chasse aux fantômes paranormale, pas en retraite spirituelle!"
 
 # game/code/Book-1/Chapter-8c/s01.rpy:407
 translate french b1c08cs01_95ff6bc2:
 
     # dk "Why not talk about {i}other{/i} sorts of encounters? Like intimate ones..."
-    dk "Pourquoi ne pas parler de {i}d'autres{/i} types de rencontres ? Comme celles intimes..."
+    dk "Pourquoi ne pas parler de {i}d'autres{/i} types de rencontres? Comme celles intimes..."
 
 # game/code/Book-1/Chapter-8c/s01.rpy:408
 translate french b1c08cs01_b4932451:
@@ -812,7 +812,7 @@ translate french b1c08cs01_4ee1edce:
 translate french b1c08cs01_9b7ea890:
 
     # dk "Irene! You wonderful minx. I had no idea."
-    dk "Irene ! Quelle merveilleuse coquine. Je n'avais aucune idée."
+    dk "Irene! Quelle merveilleuse coquine. Je n'avais aucune idée."
 
 # game/code/Book-1/Chapter-8c/s01.rpy:422
 translate french b1c08cs01_082425e7:
@@ -854,7 +854,7 @@ translate french b1c08cs01_a08e0315:
 translate french b1c08cs01_80628ff9:
 
     # dk "Mm. The smell of books and those big comfy chairs? I'm sure that was a relaxing experience."
-    dk "Mm. L'odeur des livres et ces grandes chaises confortables ? Je suis sûr que ça a été une expérience relaxante."
+    dk "Mm. L'odeur des livres et ces grandes chaises confortables? Je suis sûr que ça a été une expérience relaxante."
 
 # game/code/Book-1/Chapter-8c/s01.rpy:438
 translate french b1c08cs01_529cbaf4:
@@ -926,7 +926,7 @@ translate french b1c08cs01_d644f5fb:
 translate french b1c08cs01_d927862e:
 
     # ad "Since [mcname] has had his way with some of the ladies present, maybe he'd like a chance with some of our male newcomers?"
-    ad "Puisque [mcname] a eu son tour avec certaines des dames présentes, peut-être qu'il aimerait avoir une chance avec certains de nos nouveaux venus masculins ?"
+    ad "Puisque [mcname] a eu son tour avec certaines des dames présentes, peut-être qu'il aimerait avoir une chance avec certains de nos nouveaux venus masculins?"
 
 # game/code/Book-1/Chapter-8c/s01.rpy:471
 translate french b1c08cs01_157cc6d9:
@@ -944,7 +944,7 @@ translate french b1c08cs01_204baebb:
 translate french b1c08cs01_c8e2906e:
 
     # ad "Maybe you'd like to volunteer?"
-    ad "Peut-être que tu voudrais te porter volontaire ?"
+    ad "Peut-être que tu voudrais te porter volontaire?"
 
 # game/code/Book-1/Chapter-8c/s01.rpy:477
 translate french b1c08cs01_b036ba3e:
@@ -998,7 +998,7 @@ translate french b1c08cs01_1c9038cc:
 translate french b1c08cs01_ce7849be:
 
     # dk "And we don't want to hinder that, do we?"
-    dk "Et nous ne voulons pas entraver cela, n'est-ce pas ?"
+    dk "Et nous ne voulons pas entraver cela, n'est-ce pas?"
 
 # game/code/Book-1/Chapter-8c/s01.rpy:498
 translate french b1c08cs01_fd7e1ffb:
@@ -1034,7 +1034,7 @@ translate french b1c08cs01_9f5b107f:
 translate french b1c08cs01_60892367:
 
     # mc "Hey. You okay?"
-    mc "Hé. Ça va ?"
+    mc "Hé. Ça va?"
 
 # game/code/Book-1/Chapter-8c/s01.rpy:517
 translate french b1c08cs01_db4f7301:

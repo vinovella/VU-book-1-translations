@@ -15,7 +15,7 @@ translate french b1c03s04_dbaba21d:
 translate french b1c03s04_ff241226:
 
     # mc "Hey, you're Irene, right? I'm [mcname]. I'm here to pick up my textbooks."
-    mc "Salut, tu es Irene, c'est ça ? Je suis [mcname]. Je viens récupérer mes manuels."
+    mc "Salut, tu es Irene, c'est ça? Je suis [mcname]. Je viens récupérer mes manuels."
 
 # game/code/Book-1/Chapter-3/s04.rpy:24
 translate french b1c03s04_e0dcdb34:
@@ -57,7 +57,7 @@ translate french b1c03s04_ecb67ebc:
 translate french b1c03s04_6b1cf0fb:
 
     # ij "Here ya go!"
-    ij "Voilà !"
+    ij "Voilà!"
 
 # game/code/Book-1/Chapter-3/s04.rpy:49
 translate french b1c03s04_a800cc06:
@@ -69,7 +69,7 @@ translate french b1c03s04_a800cc06:
 translate french b1c03s04_6ef1afe0:
 
     # ij "You've already heard about them, huh?"
-    ij "Tu as déjà entendu parler d'eux, hein ?"
+    ij "Tu as déjà entendu parler d'eux, hein?"
 
 # game/code/Book-1/Chapter-3/s04.rpy:59
 translate french b1c03s04_f94a6def:
@@ -87,7 +87,7 @@ translate french b1c03s04_38d7da4b:
 translate french b1c03s04_10b508c9:
 
     # mc "Nia Vann? How so?"
-    mc "Nia Vann ? Comment ça ?"
+    mc "Nia Vann? Comment ça?"
 
 # game/code/Book-1/Chapter-3/s04.rpy:68
 translate french b1c03s04_316d576f:
@@ -99,13 +99,13 @@ translate french b1c03s04_316d576f:
 translate french b1c03s04_4bd12778:
 
     # mct "Journey? Guides? {w}What is this?"
-    mct "Parcours ? Guides ? {w}Qu'est-ce que c'est que ça ?"
+    mct "Parcours? Guides? {w}Qu'est-ce que c'est que ça?"
 
 # game/code/Book-1/Chapter-3/s04.rpy:79
 translate french b1c03s04_8fbd1158:
 
     # mc "You and Maria were in the same community?"
-    mc "Toi et Maria faisiez partie de la même communauté ?"
+    mc "Toi et Maria faisiez partie de la même communauté?"
 
 # game/code/Book-1/Chapter-3/s04.rpy:82
 translate french b1c03s04_20912340:
@@ -123,7 +123,7 @@ translate french b1c03s04_32860207:
 translate french b1c03s04_42b2a3b5:
 
     # mc "What will happen to Nia if she doesn't take a new guide?"
-    mc "Qu'arrivera-t-il à Nia si elle ne prend pas un nouveau guide ?"
+    mc "Qu'arrivera-t-il à Nia si elle ne prend pas un nouveau guide?"
 
 # game/code/Book-1/Chapter-3/s04.rpy:93
 translate french b1c03s04_551e5575:
@@ -135,7 +135,7 @@ translate french b1c03s04_551e5575:
 translate french b1c03s04_677b709b:
 
     # mc "So you'll be looking for a new member, then?"
-    mc "Donc, vous chercherez un nouveau membre, alors ?"
+    mc "Donc, vous chercherez un nouveau membre, alors?"
 
 # game/code/Book-1/Chapter-3/s04.rpy:99
 translate french b1c03s04_092f3987:
@@ -195,7 +195,7 @@ translate french b1c03s04_d417f3fe:
 translate french b1c03s04_f36a6260:
 
     # mc "Do you have guides on staff or do I need to provide my own?"
-    mc "Avez-vous des guides dans l'équipe ou dois-je en trouver un moi-même ?"
+    mc "Avez-vous des guides dans l'équipe ou dois-je en trouver un moi-même?"
 
 # game/code/Book-1/Chapter-3/s04.rpy:130
 translate french b1c03s04_994c68c9:
@@ -207,7 +207,7 @@ translate french b1c03s04_994c68c9:
 translate french b1c03s04_5bc71be2:
 
     # mc "What are they doing?"
-    mc "Que font-ils ?"
+    mc "Que font-ils?"
 
 # game/code/Book-1/Chapter-3/s04.rpy:143
 translate french b1c03s04_67e50d61:
@@ -219,7 +219,7 @@ translate french b1c03s04_67e50d61:
 translate french b1c03s04_1b9d5b5f:
 
     # mc "A party?"
-    mc "Une fête ?"
+    mc "Une fête?"
 
 # game/code/Book-1/Chapter-3/s04.rpy:152
 translate french b1c03s04_91aa7703:
@@ -231,7 +231,7 @@ translate french b1c03s04_91aa7703:
 translate french b1c03s04_6c006e2e:
 
     # mc "How do you feel about that?"
-    mc "Qu'en penses-tu ?"
+    mc "Qu'en penses-tu?"
 
 # game/code/Book-1/Chapter-3/s04.rpy:161
 translate french b1c03s04_67b4a176:
@@ -249,7 +249,7 @@ translate french b1c03s04_845da647:
 translate french b1c03s04_e1b68f31:
 
     # ij "Hey! Find empty space to paste your posters. That pillar is taken."
-    ij "Hey ! Trouvez un espace vide pour coller vos affiches. Ce pilier est déjà pris."
+    ij "Hey! Trouvez un espace vide pour coller vos affiches. Ce pilier est déjà pris."
 
 # game/code/Book-1/Chapter-3/s04.rpy:177
 translate french b1c03s04_83f94a12:
@@ -273,4 +273,5 @@ translate french b1c03s04_8aba41c8:
 translate french b1c03s04_06d2d210:
 
     # ij "Bye, [mcname]!"
-    ij "Au revoir, [mcname] !"
+    ij "Au revoir, [mcname]!"
+

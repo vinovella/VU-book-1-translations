@@ -14,19 +14,19 @@ translate french b1c07ws07_7732d473:
 translate french b1c07ws07_4ff139ce:
 
     # mct "What is going on?"
-    mct "Que se passe-t-il ?"
+    mct "Que se passe-t-il?"
 
 # game/code/Book-1/Chapter-7w/s07.rpy:42
 translate french b1c07ws07_302f903d:
 
     # mct "Sam!? What the hell is she doing here?"
-    mct "Sam !? Qu'est-ce qu'elle fait ici ?"
+    mct "Sam!? Qu'est-ce qu'elle fait ici?"
 
 # game/code/Book-1/Chapter-7w/s07.rpy:44
 translate french b1c07ws07_2fc07b80:
 
     # mct "Isn't that the crazy stalker girl? Sam, I think. What's she doing with Isa?"
-    mct "Ce n'est pas cette fille un peu folle, la harceleuse ? Sam, je crois. Qu'est-ce qu'elle fait avec Isa ?"
+    mct "Ce n'est pas cette fille un peu folle, la harceleuse? Sam, je crois. Qu'est-ce qu'elle fait avec Isa?"
 
 # game/code/Book-1/Chapter-7w/s07.rpy:46
 translate french b1c07ws07_24cdb866:
@@ -44,13 +44,13 @@ translate french b1c07ws07_9dc2b730:
 translate french b1c07ws07_04fc4764:
 
     # ima "*Hushed* Don't make me repeat myself, Sam. I said I was done with you! Why the hell are you here?"
-    ima "*À voix basse* Ne me fais pas me répéter, Sam. J'ai dit que j'en avais fini avec toi ! Pourquoi tu es là ?"
+    ima "*À voix basse* Ne me fais pas me répéter, Sam. J'ai dit que j'en avais fini avec toi! Pourquoi tu es là?"
 
 # game/code/Book-1/Chapter-7w/s07.rpy:56
 translate french b1c07ws07_73c8dc13:
 
     # sdl "Can't I visit my one and only? Is that such a crime?"
-    sdl "Je ne peux pas rendre visite à mon unique amour ? C'est un crime ?"
+    sdl "Je ne peux pas rendre visite à mon unique amour? C'est un crime?"
 
 # game/code/Book-1/Chapter-7w/s07.rpy:59
 translate french b1c07ws07_6adb39e9:
@@ -62,7 +62,7 @@ translate french b1c07ws07_6adb39e9:
 translate french b1c07ws07_97c33a3e:
 
     # mct "What the hell happened between these two?"
-    mct "Qu'est-ce qui s'est passé entre ces deux-là ?"
+    mct "Qu'est-ce qui s'est passé entre ces deux-là?"
 
 # game/code/Book-1/Chapter-7w/s07.rpy:66
 translate french b1c07ws07_93cae4d2:
@@ -110,7 +110,7 @@ translate french b1c07ws07_3b54a5eb:
 translate french b1c07ws07_0041e033:
 
     # sdl "Wasn't it the best you'd ever had? I know it was for me. I'd do anything for you, sweetpea."
-    sdl "Ce n'était pas la meilleure chose que tu aies jamais eue ? Je sais que ça l'était pour moi. Je ferais n'importe quoi pour toi, ma douce."
+    sdl "Ce n'était pas la meilleure chose que tu aies jamais eue? Je sais que ça l'était pour moi. Je ferais n'importe quoi pour toi, ma douce."
 
 # game/code/Book-1/Chapter-7w/s07.rpy:86
 translate french b1c07ws07_d2d1e768:
@@ -122,13 +122,13 @@ translate french b1c07ws07_d2d1e768:
 translate french b1c07ws07_4f337b5a:
 
     # sdl "*Whispers* No one?"
-    sdl "*Chuchote* Personne ?"
+    sdl "*Chuchote* Personne?"
 
 # game/code/Book-1/Chapter-7w/s07.rpy:100
 translate french b1c07ws07_a8eff729:
 
     # mct "What the...?"
-    mct "Qu'est-ce que... ?"
+    mct "Qu'est-ce que...?"
 
 # game/code/Book-1/Chapter-7w/s07.rpy:101
 translate french b1c07ws07_db97aac8:
@@ -140,7 +140,7 @@ translate french b1c07ws07_db97aac8:
 translate french b1c07ws07_134fc7b4:
 
     # ima "You—!? How dare you—!?"
-    ima "Toi— !? Comment oses-tu— !?"
+    ima "Toi—!? Comment oses-tu—!?"
 
 # game/code/Book-1/Chapter-7w/s07.rpy:107
 translate french b1c07ws07_d4b96c70:
@@ -158,13 +158,13 @@ translate french b1c07ws07_c406001a:
 translate french b1c07ws07_aa18735d:
 
     # ima "Get away from me! None of that matters now. None of what we had {i}matters{/i}!"
-    ima "Éloigne-toi de moi ! Rien de tout cela n'a d'importance maintenant. Rien de ce que nous avions {i}n'a d'importance{/i} !"
+    ima "Éloigne-toi de moi! Rien de tout cela n'a d'importance maintenant. Rien de ce que nous avions {i}n'a d'importance{/i}!"
 
 # game/code/Book-1/Chapter-7w/s07.rpy:114
 translate french b1c07ws07_e70ae56b:
 
     # mct "What they had? Were they a couple?"
-    mct "Ce qu'elles avaient ? Elles étaient en couple ?"
+    mct "Ce qu'elles avaient? Elles étaient en couple?"
 
 # game/code/Book-1/Chapter-7w/s07.rpy:117
 translate french b1c07ws07_26a05b74:
@@ -182,13 +182,13 @@ translate french b1c07ws07_74331247:
 translate french b1c07ws07_f4c01b94:
 
     # ima "\"Betrayal and forgiveness can be akin to falling in love,\" didn't you say that, Sam?"
-    ima "\"La trahison et le pardon peuvent être semblables à tomber amoureux,\" n'est-ce pas ce que tu as dit, Sam ?"
+    ima "\"La trahison et le pardon peuvent être semblables à tomber amoureux,\" n'est-ce pas ce que tu as dit, Sam?"
 
 # game/code/Book-1/Chapter-7w/s07.rpy:124
 translate french b1c07ws07_c9303893:
 
     # sdl "Yes! You reme—!"
-    sdl "Oui ! Tu te sou— !"
+    sdl "Oui! Tu te sou—!"
 
 # game/code/Book-1/Chapter-7w/s07.rpy:127
 translate french b1c07ws07_03ce9413:
@@ -302,7 +302,7 @@ translate french b1c07ws07_1b02e4a1:
 translate french b1c07ws07_336cab7e:
 
     # mc "Hey! Isa! Everything alright!?"
-    mc "Hé ! Isa ! Tout va bien !?"
+    mc "Hé! Isa! Tout va bien!?"
 
 # game/code/Book-1/Chapter-7w/s07.rpy:170
 translate french b1c07ws07_8aea541a:
@@ -320,19 +320,19 @@ translate french b1c07ws07_e6185c56:
 translate french b1c07ws07_9c2e9983:
 
     # mc "What the hell was that? What's going on here?"
-    mc "C'était quoi ça ? Qu'est-ce qui se passe ici ?"
+    mc "C'était quoi ça? Qu'est-ce qui se passe ici?"
 
 # game/code/Book-1/Chapter-7w/s07.rpy:182
 translate french b1c07ws07_9601d831:
 
     # ima "It's alright! I just... Let me come up."
-    ima "Ça va ! Je juste... Laisse-moi monter."
+    ima "Ça va! Je juste... Laisse-moi monter."
 
 # game/code/Book-1/Chapter-7w/s07.rpy:185
 translate french b1c07ws07_5f8cea4c:
 
     # mc "What happened? Are you okay?"
-    mc "Que s'est-il passé ? Ça va ?"
+    mc "Que s'est-il passé? Ça va?"
 
 # game/code/Book-1/Chapter-7w/s07.rpy:188
 translate french b1c07ws07_968d1244:

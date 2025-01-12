@@ -26,7 +26,7 @@ translate french b1c07ss01_cd8a4a49:
 translate french b1c07ss01_2b62ec8c:
 
     # mg "Well if it isn't Zem's guard dog!"
-    mg "Eh bien, si ce n'est pas le chien de garde de Zem !"
+    mg "Eh bien, si ce n'est pas le chien de garde de Zem!"
 
 # game/code/Book-1/Chapter-7s/s01.rpy:54
 translate french b1c07ss01_877d5e80:
@@ -38,13 +38,13 @@ translate french b1c07ss01_877d5e80:
 translate french b1c07ss01_fbd9161e:
 
     # ffl "How's your morning classes been? Ugh, computer science sucked today."
-    ffl "Comment se sont passées tes classes du matin ? Ugh, l'informatique c'était nul aujourd'hui."
+    ffl "Comment se sont passées tes classes du matin? Ugh, l'informatique c'était nul aujourd'hui."
 
 # game/code/Book-1/Chapter-7s/s01.rpy:60
 translate french b1c07ss01_d854dc9c:
 
     # zp "Tell me about it! That professor can be such a dick."
-    zp "Dis-moi à propos ! Ce prof peut être vraiment un connard."
+    zp "Dis-moi à propos! Ce prof peut être vraiment un connard."
 
 # game/code/Book-1/Chapter-7s/s01.rpy:63
 translate french b1c07ss01_0e59864f:
@@ -68,7 +68,7 @@ translate french b1c07ss01_e4f9232d:
 translate french b1c07ss01_d9a6669d:
 
     # mg "Wow! Those are some big words from such a sweet little thing."
-    mg "Wow ! Ce sont de grands mots venant d'une si petite chose douce."
+    mg "Wow! Ce sont de grands mots venant d'une si petite chose douce."
 
 # game/code/Book-1/Chapter-7s/s01.rpy:78
 translate french b1c07ss01_36f28561:
@@ -80,7 +80,7 @@ translate french b1c07ss01_36f28561:
 translate french b1c07ss01_327353c9:
 
     # ffl "C'mon! I'm just joking!"
-    ffl "Allez ! Je rigole juste !"
+    ffl "Allez! Je rigole juste!"
 
 # game/code/Book-1/Chapter-7s/s01.rpy:84
 translate french b1c07ss01_d94cdfc8:
@@ -110,7 +110,7 @@ translate french b1c07ss01_65c889b8:
 translate french b1c07ss01_d7043aa4:
 
     # ffl "I'm mischievous? Have you seen half the stuff Morgan and Zemfira do?"
-    ffl "Je suis espiègle ? As-tu vu la moitié des trucs que Morgan et Zemfira font ?"
+    ffl "Je suis espiègle? As-tu vu la moitié des trucs que Morgan et Zemfira font?"
 
 # game/code/Book-1/Chapter-7s/s01.rpy:100
 translate french b1c07ss01_2fd6bf35:
@@ -134,19 +134,19 @@ translate french b1c07ss01_2bd46ee7:
 translate french b1c07ss01_2b6b406d:
 
     # ffl "Oh! Do you need any help with the latest assignment? I'm down to help out if you need."
-    ffl "Oh ! Tu as besoin d'aide pour le dernier devoir ? Je suis dispo pour t'aider si tu veux."
+    ffl "Oh! Tu as besoin d'aide pour le dernier devoir? Je suis dispo pour t'aider si tu veux."
 
 # game/code/Book-1/Chapter-7s/s01.rpy:115
 translate french b1c07ss01_5eae8a58:
 
     # zp "Hey, do you wanna go shooting later today? I was thinking we could meet up after classes."
-    zp "Hé, tu veux aller tirer plus tard aujourd'hui ? Je pensais qu'on pourrait se retrouver après les cours."
+    zp "Hé, tu veux aller tirer plus tard aujourd'hui? Je pensais qu'on pourrait se retrouver après les cours."
 
 # game/code/Book-1/Chapter-7s/s01.rpy:118
 translate french b1c07ss01_0b57b5b7:
 
     # mc "Of course! I'd love to."
-    mc "Bien sûr ! J'adorerais."
+    mc "Bien sûr! J'adorerais."
 
 # game/code/Book-1/Chapter-7s/s01.rpy:121
 translate french b1c07ss01_79d79bfc:
@@ -182,7 +182,7 @@ translate french b1c07ss01_b36ade5a:
 translate french b1c07ss01_9c3735ca:
 
     # ffl "You guys go shooting?"
-    ffl "Vous allez tirer ?"
+    ffl "Vous allez tirer?"
 
 # game/code/Book-1/Chapter-7s/s01.rpy:140
 translate french b1c07ss01_153ddddc:
@@ -206,7 +206,7 @@ translate french b1c07ss01_3206b95b:
 translate french b1c07ss01_678e461f:
 
     # ffl "I just don't like super violent things! There's nothing crazy about that."
-    ffl "Je n'aime pas les choses super violentes ! Il n'y a rien de fou là-dedans."
+    ffl "Je n'aime pas les choses super violentes! Il n'y a rien de fou là-dedans."
 
 # game/code/Book-1/Chapter-7s/s01.rpy:152
 translate french b1c07ss01_f9a5cd65:
@@ -218,7 +218,7 @@ translate french b1c07ss01_f9a5cd65:
 translate french b1c07ss01_37cd6f1a:
 
     # ffl "It's metal and explosions! You know there's so much more to it than just metal."
-    ffl "C'est du métal et des explosions ! Tu sais qu'il y a bien plus que du métal."
+    ffl "C'est du métal et des explosions! Tu sais qu'il y a bien plus que du métal."
 
 # game/code/Book-1/Chapter-7s/s01.rpy:157
 translate french b1c07ss01_e706fb91:
@@ -236,7 +236,7 @@ translate french b1c07ss01_b0f6d575:
 translate french b1c07ss01_f728770e:
 
     # ffl "Also, the shots are so loud! It hurt my ears."
-    ffl "Et les tirs sont tellement bruyants ! Ça m'a fait mal aux oreilles."
+    ffl "Et les tirs sont tellement bruyants! Ça m'a fait mal aux oreilles."
 
 # game/code/Book-1/Chapter-7s/s01.rpy:163
 translate french b1c07ss01_460dbde2:
@@ -290,13 +290,13 @@ translate french b1c07ss01_0b7740f6:
 translate french b1c07ss01_b5fd75aa:
 
     # ffl "Bye Zemfira! I'll talk to you later."
-    ffl "Bye Zemfira ! On se parle plus tard."
+    ffl "Bye Zemfira! On se parle plus tard."
 
 # game/code/Book-1/Chapter-7s/s01.rpy:190
 translate french b1c07ss01_6479c36b:
 
     # mg "Bye Zem!"
-    mg "Bye Zem !"
+    mg "Bye Zem!"
 
 # game/code/Book-1/Chapter-7s/s01.rpy:192
 translate french b1c07ss01_cb67bdd7:
@@ -362,13 +362,13 @@ translate french b1c07ss01_45c01766:
 translate french b1c07ss01_7034dde0:
 
     # ffl "Oh! There's a live event happening at the bar tonight! You should come."
-    ffl "Oh ! Il y a un événement live au bar ce soir ! Tu devrais venir."
+    ffl "Oh! Il y a un événement live au bar ce soir! Tu devrais venir."
 
 # game/code/Book-1/Chapter-7s/s01.rpy:228
 translate french b1c07ss01_b5f94dfa:
 
     # ffl "Unless you're busy...?"
-    ffl "À moins que tu sois occupé... ?"
+    ffl "À moins que tu sois occupé...?"
 
 # game/code/Book-1/Chapter-7s/s01.rpy:230
 translate french b1c07ss01_88a8cecd:
@@ -380,7 +380,7 @@ translate french b1c07ss01_88a8cecd:
 translate french b1c07ss01_4048b72a:
 
     # ffl "Morgan will be there. It'll be fun!"
-    ffl "Morgan sera là. Ce sera amusant !"
+    ffl "Morgan sera là. Ce sera amusant!"
 
 # game/code/Book-1/Chapter-7s/s01.rpy:235
 translate french b1c07ss01_347dfbae:
@@ -410,7 +410,7 @@ translate french b1c07ss01_c20f90fa:
 translate french b1c07ss01_fa8b061f:
 
     # ffl "Bye Morgan!"
-    ffl "Bye Morgan !"
+    ffl "Bye Morgan!"
 
 # game/code/Book-1/Chapter-7s/s01.rpy:247
 translate french b1c07ss01_4059e95a:
@@ -428,7 +428,7 @@ translate french b1c07ss01_4d9a5d86:
 translate french b1c07ss01_deb2ace5:
 
     # mg "You wanna hang out with me, too?"
-    mg "Tu veux traîner avec moi aussi ?"
+    mg "Tu veux traîner avec moi aussi?"
 
 # game/code/Book-1/Chapter-7s/s01.rpy:258
 translate french b1c07ss01_279d35dc:
@@ -440,7 +440,7 @@ translate french b1c07ss01_279d35dc:
 translate french b1c07ss01_7e36ac39:
 
     # mc "What, like a date?"
-    mc "Quoi, comme un rendez-vous ?"
+    mc "Quoi, comme un rendez-vous?"
 
 # game/code/Book-1/Chapter-7s/s01.rpy:264
 translate french b1c07ss01_9ea6c813:
@@ -488,7 +488,7 @@ translate french b1c07ss01_b9710c73:
 translate french b1c07ss01_bdbf3c5f:
 
     # mc "So, where exactly are we going?"
-    mc "Alors, où est-ce qu'on va exactement ?"
+    mc "Alors, où est-ce qu'on va exactement?"
 
 # game/code/Book-1/Chapter-7s/s01.rpy:283
 translate french b1c07ss01_ec5c9adb:
@@ -500,13 +500,13 @@ translate french b1c07ss01_ec5c9adb:
 translate french b1c07ss01_f1e4d584:
 
     # mc "Are you gonna make me wear a blindfold?"
-    mc "Tu vas me faire porter un bandeau sur les yeux ?"
+    mc "Tu vas me faire porter un bandeau sur les yeux?"
 
 # game/code/Book-1/Chapter-7s/s01.rpy:289
 translate french b1c07ss01_5def0807:
 
     # mg "Do you {i}want{/i} me to make you wear a blindfold?"
-    mg "Tu {i}veux{/i} que je te fasse porter un bandeau sur les yeux ?"
+    mg "Tu {i}veux{/i} que je te fasse porter un bandeau sur les yeux?"
 
 # game/code/Book-1/Chapter-7s/s01.rpy:290
 translate french b1c07ss01_5b1401a0:
@@ -530,7 +530,7 @@ translate french b1c07ss01_8016e74b:
 translate french b1c07ss01_c2c6f3f6:
 
     # mc "What class do you got next?"
-    mc "T'as quel cours après ?"
+    mc "T'as quel cours après?"
 
 # game/code/Book-1/Chapter-7s/s01.rpy:304
 translate french b1c07ss01_7762b999:
@@ -542,7 +542,7 @@ translate french b1c07ss01_7762b999:
 translate french b1c07ss01_c6acfc34:
 
     # mg "You?"
-    mg "Et toi ?"
+    mg "Et toi?"
 
 # game/code/Book-1/Chapter-7s/s01.rpy:307
 translate french b1c07ss01_71442fa8:
@@ -560,7 +560,7 @@ translate french b1c07ss01_4081bd7e:
 translate french b1c07ss01_fa74ed46:
 
     # mg "I gotcha. Family's rough, eh?"
-    mg "Je vois. La famille, c'est pas facile, hein ?"
+    mg "Je vois. La famille, c'est pas facile, hein?"
 
 # game/code/Book-1/Chapter-7s/s01.rpy:314
 translate french b1c07ss01_bff42c4f:
@@ -608,7 +608,7 @@ translate french b1c07ss01_e1930534:
 translate french b1c07ss01_8f974f09:
 
     # mc "Eh, at least I don't live with him anymore, right?"
-    mc "Eh, au moins je ne vis plus avec lui, non ?"
+    mc "Eh, au moins je ne vis plus avec lui, non?"
 
 # game/code/Book-1/Chapter-7s/s01.rpy:331
 translate french b1c07ss01_abf649ba:
@@ -639,3 +639,4 @@ translate french strings:
     # game/code/Book-1/Chapter-7s/s01.rpy:8
     old "At the cafeteria\nAfter morning classes"
     new "A la cafétéria\nAprès les cours du matin"
+

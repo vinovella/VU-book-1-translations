@@ -26,12 +26,12 @@ translate french b1c06ws02_d910965b:
 # game/code/Book-1/Chapter-6w/s02.rpy:71
 translate french b1c06ws02_aafbe2f1:
     # mc "Oh, hey. What's up?"
-    mc "Oh, salut. Quoi de neuf ?"
+    mc "Oh, salut. Quoi de neuf?"
 
 # game/code/Book-1/Chapter-6w/s02.rpy:74
 translate french b1c06ws02_4a1e17b7:
     # sm "Nothin' much. Heading to the mansion. {w}I'm guessing you're going as well?"
-    sm "Pas grand-chose. Je vais au manoir. {w}Je suppose que tu y vas aussi ?"
+    sm "Pas grand-chose. Je vais au manoir. {w}Je suppose que tu y vas aussi?"
 
 # game/code/Book-1/Chapter-6w/s02.rpy:77
 translate french b1c06ws02_ccfcfc63:
@@ -51,12 +51,12 @@ translate french b1c06ws02_364164f2:
 # game/code/Book-1/Chapter-6w/s02.rpy:86
 translate french b1c06ws02_096d83b5:
     # sm "Oh no, I forgot to tell you! I'm sorry."
-    sm "Oh non, j'ai oublié de te le dire ! Désolée."
+    sm "Oh non, j'ai oublié de te le dire! Désolée."
 
 # game/code/Book-1/Chapter-6w/s02.rpy:89
 translate french b1c06ws02_9fb142a9:
     # mc "No, no. Don't feel bad! It's okay. You're busy. It's totally understandable."
-    mc "Non, non. Ne te sens pas mal ! C'est ok. Tu es occupée. C'est totalement compréhensible."
+    mc "Non, non. Ne te sens pas mal! C'est ok. Tu es occupée. C'est totalement compréhensible."
 
 # game/code/Book-1/Chapter-6w/s02.rpy:92
 translate french b1c06ws02_ecb851e6:
@@ -66,7 +66,7 @@ translate french b1c06ws02_ecb851e6:
 # game/code/Book-1/Chapter-6w/s02.rpy:94
 translate french b1c06ws02_46bed535:
     # sm "You wanna walk together?"
-    sm "Tu veux qu'on marche ensemble ?"
+    sm "Tu veux qu'on marche ensemble?"
 
 # game/code/Book-1/Chapter-6w/s02.rpy:97
 translate french b1c06ws02_d53ea818:
@@ -96,7 +96,7 @@ translate french b1c06ws02_93d3b878:
 # game/code/Book-1/Chapter-6w/s02.rpy:114
 translate french b1c06ws02_faddd103:
     # mc "Where's she now?"
-    mc "Où est-elle maintenant ?"
+    mc "Où est-elle maintenant?"
 
 # game/code/Book-1/Chapter-6w/s02.rpy:117
 translate french b1c06ws02_60d92491:
@@ -121,12 +121,12 @@ translate french b1c06ws02_e877b6e1:
 # game/code/Book-1/Chapter-6w/s02.rpy:135
 translate french b1c06ws02_700e6051:
     # mc "You alright?"
-    mc "Ça va ?"
+    mc "Ça va?"
 
 # game/code/Book-1/Chapter-6w/s02.rpy:138
 translate french b1c06ws02_b03e192a:
     # sm "Hm? Yeah. Just...memories."
-    sm "Hm ? Ouais. Juste... des souvenirs."
+    sm "Hm? Ouais. Juste... des souvenirs."
 
 # game/code/Book-1/Chapter-6w/s02.rpy:139
 translate french b1c06ws02_2b6bfa8a:
@@ -151,7 +151,7 @@ translate french b1c06ws02_19fb2957:
 # game/code/Book-1/Chapter-6w/s02.rpy:149
 translate french b1c06ws02_08dd754c:
     # sm "What do you mean?"
-    sm "Qu'est-ce que tu veux dire ?"
+    sm "Qu'est-ce que tu veux dire?"
 
 # game/code/Book-1/Chapter-6w/s02.rpy:152
 translate french b1c06ws02_de247c98:
@@ -161,7 +161,7 @@ translate french b1c06ws02_de247c98:
 # game/code/Book-1/Chapter-6w/s02.rpy:155
 translate french b1c06ws02_3f73edb9:
     # sm "What? I'm not...well, I guess I am."
-    sm "Quoi ? Je ne suis pas... enfin, je suppose que je le suis."
+    sm "Quoi? Je ne suis pas... enfin, je suppose que je le suis."
 
 # game/code/Book-1/Chapter-6w/s02.rpy:158
 translate french b1c06ws02_d5d06052:
@@ -171,7 +171,7 @@ translate french b1c06ws02_d5d06052:
 # game/code/Book-1/Chapter-6w/s02.rpy:159
 translate french b1c06ws02_e152c1b6:
     # sm "We're having a good time! I wanna enjoy that."
-    sm "On passe un bon moment ! Je veux profiter de ça."
+    sm "On passe un bon moment! Je veux profiter de ça."
 
 # game/code/Book-1/Chapter-6w/s02.rpy:162
 translate french b1c06ws02_58489072:
@@ -196,7 +196,7 @@ translate french b1c06ws02_03c6ed35:
 # game/code/Book-1/Chapter-6w/s02.rpy:170
 translate french b1c06ws02_f836b6d2:
     # mc "Now, what were you gonna say?"
-    mc "Alors, que voulais-tu dire ?"
+    mc "Alors, que voulais-tu dire?"
 
 # game/code/Book-1/Chapter-6w/s02.rpy:173
 translate french b1c06ws02_ab5259d4:
@@ -211,7 +211,7 @@ translate french b1c06ws02_aefa505b:
 # game/code/Book-1/Chapter-6w/s02.rpy:177
 translate french b1c06ws02_64bfce6f:
     # mc "Oh right, your modeling gig. Is the photographer gonna show today?"
-    mc "Ah oui, ton job de mannequin. Le photographe va venir aujourd'hui ?"
+    mc "Ah oui, ton job de mannequin. Le photographe va venir aujourd'hui?"
 
 # game/code/Book-1/Chapter-6w/s02.rpy:180
 translate french b1c06ws02_c5433e7d:
@@ -226,7 +226,7 @@ translate french b1c06ws02_1ef19d66:
 # game/code/Book-1/Chapter-6w/s02.rpy:186
 translate french b1c06ws02_5db080d1:
     # sm "I know! Fool me once I guess."
-    sm "Je sais ! On m'a eu une fois, je suppose."
+    sm "Je sais! On m'a eu une fois, je suppose."
 
 # game/code/Book-1/Chapter-6w/s02.rpy:189
 translate french b1c06ws02_31a45b5a:
@@ -241,7 +241,7 @@ translate french b1c06ws02_ed2b47ee:
 # game/code/Book-1/Chapter-6w/s02.rpy:195
 translate french b1c06ws02_a68aaee6:
     # mc "Is there no one else you could ask for help with? Maybe in the club?"
-    mc "Il n'y a personne d'autre à qui tu pourrais demander de l'aide ? Peut-être dans le club ?"
+    mc "Il n'y a personne d'autre à qui tu pourrais demander de l'aide? Peut-être dans le club?"
 
 # game/code/Book-1/Chapter-6w/s02.rpy:197
 translate french b1c06ws02_dde068c0:
@@ -261,7 +261,7 @@ translate french b1c06ws02_8e01b62b:
 # game/code/Book-1/Chapter-6w/s02.rpy:204
 translate french b1c06ws02_1880b7bd:
     # sm "*Laughing* And I kinda feel bad! Like, he has asked me out so many times now and I've tried to let him down easy, but he just {i}cannot{/i} take a hint to save his life."
-    sm "*Riant* Et je me sens un peu mal ! Il m'a demandé de sortir avec lui tellement de fois maintenant et j'ai essayé de lui refuser doucement, mais il {i}ne peut{/i} tout simplement pas comprendre."
+    sm "*Riant* Et je me sens un peu mal! Il m'a demandé de sortir avec lui tellement de fois maintenant et j'ai essayé de lui refuser doucement, mais il {i}ne peut{/i} tout simplement pas comprendre."
 
 # game/code/Book-1/Chapter-6w/s02.rpy:207
 translate french b1c06ws02_dd88904b:
@@ -276,7 +276,7 @@ translate french b1c06ws02_c3f45591:
 # game/code/Book-1/Chapter-6w/s02.rpy:213
 translate french b1c06ws02_0916d60d:
     # sm "Exactly!"
-    sm "Exactement !"
+    sm "Exactement!"
 
 # game/code/Book-1/Chapter-6w/s02.rpy:216
 translate french b1c06ws02_0f981949:
@@ -291,12 +291,12 @@ translate french b1c06ws02_f46ba39e:
 # game/code/Book-1/Chapter-6w/s02.rpy:220
 translate french b1c06ws02_398e1b45:
     # sm "You would? Thank you so much! I'd really appreciate that."
-    sm "Tu le ferais ? Merci beaucoup ! J'apprécierais vraiment."
+    sm "Tu le ferais? Merci beaucoup! J'apprécierais vraiment."
 
 # game/code/Book-1/Chapter-6w/s02.rpy:223
 translate french b1c06ws02_18714b7a:
     # mc "Of course. When are you doing the photoshoot?"
-    mc "Bien sûr. Quand fais-tu la séance photo ?"
+    mc "Bien sûr. Quand fais-tu la séance photo?"
 
 # game/code/Book-1/Chapter-6w/s02.rpy:226
 translate french b1c06ws02_2b40ecc9:
@@ -347,3 +347,4 @@ translate french b1c06ws02_77a48f9e:
 translate french strings:
     old "Twenty minutes later"
     new "Vingt minutes plus tard"
+

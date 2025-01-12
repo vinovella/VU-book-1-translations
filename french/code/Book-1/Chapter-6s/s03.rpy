@@ -14,7 +14,7 @@ translate french b1c06ss03_5a86862f:
 translate french b1c06ss03_2845dea1:
 
     # ffl "Something about corners feels so {i}cozy{/i}, doesn’t it?"
-    ffl "Il y a quelque chose dans les coins qui est tellement {i}confortable{/i}, non ?"
+    ffl "Il y a quelque chose dans les coins qui est tellement {i}confortable{/i}, non?"
 
 # game/code/Book-1/Chapter-6s/s03.rpy:42
 translate french b1c06ss03_658e1e89:
@@ -26,19 +26,19 @@ translate french b1c06ss03_658e1e89:
 translate french b1c06ss03_50d03b98:
 
     # ffl "*Giggles* Feels like a fort, y’know?"
-    ffl "*Rit* Ça fait comme un fort, tu vois ?"
+    ffl "*Rit* Ça fait comme un fort, tu vois?"
 
 # game/code/Book-1/Chapter-6s/s03.rpy:46
 translate french b1c06ss03_4c79a107:
 
     # mc "I guess I see what you mean. Did you have a lot of sleep overs as a kid?"
-    mc "Je pense comprendre ce que tu veux dire. Tu faisais souvent des soirées pyjama quand tu étais enfant ?"
+    mc "Je pense comprendre ce que tu veux dire. Tu faisais souvent des soirées pyjama quand tu étais enfant?"
 
 # game/code/Book-1/Chapter-6s/s03.rpy:49
 translate french b1c06ss03_ce0bef45:
 
     # ffl "Hah! No. I was usually isolated as a--"
-    ffl "Ahah ! Non. J'étais généralement isolée en tant que--"
+    ffl "Ahah! Non. J'étais généralement isolée en tant que--"
 
 # game/code/Book-1/Chapter-6s/s03.rpy:61
 translate french b1c06ss03_7b0ebc54:
@@ -56,7 +56,7 @@ translate french b1c06ss03_f148919c:
 translate french b1c06ss03_50185917:
 
     # ffl "Hah! Well, there are worse ways to go, I suppose."
-    ffl "Ahah ! Eh bien, il y a de pires façons de partir, je suppose."
+    ffl "Ahah! Eh bien, il y a de pires façons de partir, je suppose."
 
 # game/code/Book-1/Chapter-6s/s03.rpy:67
 translate french b1c06ss03_d3e1d33a:
@@ -74,7 +74,7 @@ translate french b1c06ss03_ef2d01b5:
 translate french b1c06ss03_05477f1d:
 
     # ffl "Really?"
-    ffl "Vraiment ?"
+    ffl "Vraiment?"
 
 # game/code/Book-1/Chapter-6s/s03.rpy:74
 translate french b1c06ss03_5489fcc8:
@@ -86,7 +86,7 @@ translate french b1c06ss03_5489fcc8:
 translate french b1c06ss03_ee5bb87e:
 
     # ffl "What, like you’d show me how to move my feet?"
-    ffl "Quoi, comme si tu me montrais comment bouger mes pieds ?"
+    ffl "Quoi, comme si tu me montrais comment bouger mes pieds?"
 
 # game/code/Book-1/Chapter-6s/s03.rpy:80
 translate french b1c06ss03_5637c95e:
@@ -110,7 +110,7 @@ translate french b1c06ss03_ca368f90:
 translate french b1c06ss03_8d4426b1:
 
     # mc "Is your family French?"
-    mc "Ta famille est française ?"
+    mc "Ta famille est française?"
 
 # game/code/Book-1/Chapter-6s/s03.rpy:93
 translate french b1c06ss03_1600f269:
@@ -128,7 +128,7 @@ translate french b1c06ss03_43519c98:
 translate french b1c06ss03_b8898a96:
 
     # mc "Gaia?"
-    mc "Gaia ?"
+    mc "Gaia?"
 
 # game/code/Book-1/Chapter-6s/s03.rpy:100
 translate french b1c06ss03_fb3272ed:
@@ -146,13 +146,13 @@ translate french b1c06ss03_110ebc5f:
 translate french b1c06ss03_371541e9:
 
     # mc "Hm, why am I not surprised you grew up as a socially isolated hermit?"
-    mc "Hm, pourquoi ça ne m’étonne pas que tu aies grandi en ermite socialement isolée ?"
+    mc "Hm, pourquoi ça ne m’étonne pas que tu aies grandi en ermite socialement isolée?"
 
 # game/code/Book-1/Chapter-6s/s03.rpy:108
 translate french b1c06ss03_e8587819:
 
     # ffl "What does that mean!?"
-    ffl "Qu’est-ce que ça veut dire !?"
+    ffl "Qu’est-ce que ça veut dire!?"
 
 # game/code/Book-1/Chapter-6s/s03.rpy:110
 translate french b1c06ss03_128d8e46:
@@ -164,7 +164,7 @@ translate french b1c06ss03_128d8e46:
 translate french b1c06ss03_3c5eece6:
 
     # ffl "*Giggles* You taking a dig at me, pretty boy?"
-    ffl "*Rit* Tu te moques de moi, joli garçon ?"
+    ffl "*Rit* Tu te moques de moi, joli garçon?"
 
 # game/code/Book-1/Chapter-6s/s03.rpy:120
 translate french b1c06ss03_1dd69f61:
@@ -194,13 +194,13 @@ translate french b1c06ss03_4dd2f14c:
 translate french b1c06ss03_b2ea1c3c:
 
     # ass "Fleur!"
-    ass "Fleur !"
+    ass "Fleur!"
 
 # game/code/Book-1/Chapter-6s/s03.rpy:168
 translate french b1c06ss03_fe438c90:
 
     # ffl "Oh! Asami! What's up?"
-    ffl "Oh ! Asami ! Quoi de neuf ?"
+    ffl "Oh! Asami! Quoi de neuf?"
 
 # game/code/Book-1/Chapter-6s/s03.rpy:175
 translate french b1c06ss03_0985a172:
@@ -212,7 +212,7 @@ translate french b1c06ss03_0985a172:
 translate french b1c06ss03_c385b439:
 
     # ass "So, what are you two up to? Having a little midday date, are we?"
-    ass "Alors, qu’est-ce que vous faites ? Un petit rendez-vous à midi, c’est ça ?"
+    ass "Alors, qu’est-ce que vous faites? Un petit rendez-vous à midi, c’est ça?"
 
 # game/code/Book-1/Chapter-6s/s03.rpy:180
 translate french b1c06ss03_419e4546:
@@ -230,7 +230,7 @@ translate french b1c06ss03_371a63dd:
 translate french b1c06ss03_0d557bb4:
 
     # ass "There’s nothing like {i}eating out{/i} for lunch, hm?"
-    ass "Rien ne vaut un bon {i}repas à l’extérieur{/i} pour le déjeuner, hein ?"
+    ass "Rien ne vaut un bon {i}repas à l’extérieur{/i} pour le déjeuner, hein?"
 
 # game/code/Book-1/Chapter-6s/s03.rpy:189
 translate french b1c06ss03_64dab699:
@@ -242,7 +242,7 @@ translate french b1c06ss03_64dab699:
 translate french b1c06ss03_91535ca2:
 
     # ass "You seem familiar. Have I met you before?"
-    ass "Tu me sembles familier. On s’est déjà rencontrés ?"
+    ass "Tu me sembles familier. On s’est déjà rencontrés?"
 
 # game/code/Book-1/Chapter-6s/s03.rpy:199
 translate french b1c06ss03_82eff0a6:
@@ -266,7 +266,7 @@ translate french b1c06ss03_e578a1c6:
 translate french b1c06ss03_9811e47c:
 
     # mc "You two friends?"
-    mc "Vous êtes amies ?"
+    mc "Vous êtes amies?"
 
 # game/code/Book-1/Chapter-6s/s03.rpy:214
 translate french b1c06ss03_5f00a8ff:
@@ -301,8 +301,8 @@ translate french b1c06ss03_9cdec228:
 # game/code/Book-1/Chapter-6s/s03.rpy:226
 translate french b1c06ss03_d8139fc0:
 
-    # mc "Je m'appelle [mcname]. Vous êtes amies toutes les deux ?"
-    mc "Je m'appelle [mcname]. Vous êtes amies toutes les deux ?"
+    # mc "Je m'appelle [mcname]. Vous êtes amies toutes les deux?"
+    mc "Je m'appelle [mcname]. Vous êtes amies toutes les deux?"
 
 # game/code/Book-1/Chapter-6s/s03.rpy:233
 translate french b1c06ss03_9a99638b:
@@ -319,20 +319,20 @@ translate french b1c06ss03_9d4a6058:
 # game/code/Book-1/Chapter-6s/s03.rpy:238
 translate french b1c06ss03_f2103592:
 
-    # mct "Je me demande si Asami a un lien avec Zemfira ?"
-    mct "Je me demande si Asami a un lien avec Zemfira ?"
+    # mct "Je me demande si Asami a un lien avec Zemfira?"
+    mct "Je me demande si Asami a un lien avec Zemfira?"
 
 # game/code/Book-1/Chapter-6s/s03.rpy:240
 translate french b1c06ss03_a506ed7c:
 
-    # mc "Est-ce que tu es aussi amie avec Zemfira ?"
-    mc "Est-ce que tu es aussi amie avec Zemfira ?"
+    # mc "Est-ce que tu es aussi amie avec Zemfira?"
+    mc "Est-ce que tu es aussi amie avec Zemfira?"
 
 # game/code/Book-1/Chapter-6s/s03.rpy:249
 translate french b1c06ss03_c288bc86:
 
     # ass "Oh? Does he know about Zemfira?"
-    ass "Oh ? Il connaît Zemfira ?"
+    ass "Oh? Il connaît Zemfira?"
 
 # game/code/Book-1/Chapter-6s/s03.rpy:252
 translate french b1c06ss03_24638e9e:
@@ -350,13 +350,13 @@ translate french b1c06ss03_20509841:
 translate french b1c06ss03_e288b81a:
 
     # mct "\"In that case\"? What does she mean by that?"
-    mct "\"Dans ce cas\" ? Qu'est-ce qu'elle veut dire par là ?"
+    mct "\"Dans ce cas\"? Qu'est-ce qu'elle veut dire par là?"
 
 # game/code/Book-1/Chapter-6s/s03.rpy:259
 translate french b1c06ss03_e6734824:
 
     # ass "Where is she anyway? I haven't seen her all day."
-    ass "Où est-elle d'ailleurs ? Je ne l'ai pas vue de toute la journée."
+    ass "Où est-elle d'ailleurs? Je ne l'ai pas vue de toute la journée."
 
 # game/code/Book-1/Chapter-6s/s03.rpy:262
 translate french b1c06ss03_9882cd61:
@@ -374,7 +374,7 @@ translate french b1c06ss03_abe90021:
 translate french b1c06ss03_df3a7231:
 
     # mct "Is there a chance of her {i}not{/i} being alive?"
-    mct "Y a-t-il une chance qu'elle ne soit {i}pas{/i} en vie ?"
+    mct "Y a-t-il une chance qu'elle ne soit {i}pas{/i} en vie?"
 
 # game/code/Book-1/Chapter-6s/s03.rpy:273
 translate french b1c06ss03_70e2454a:
@@ -410,7 +410,7 @@ translate french b1c06ss03_cd25b136:
 translate french b1c06ss03_de60ef37:
 
     # ass "Anyway, what about you two though?"
-    ass "Bref, et vous deux alors ?"
+    ass "Bref, et vous deux alors?"
 
 # game/code/Book-1/Chapter-6s/s03.rpy:292
 translate french b1c06ss03_aa06544b:
@@ -428,7 +428,7 @@ translate french b1c06ss03_d5892089:
 translate french b1c06ss03_a16a0c6f:
 
     # ass "Oh! I remember now! Weren't you at the park with some girl a couple days back? I saw you two tonguing."
-    ass "Oh ! Je me souviens maintenant ! Vous n'étiez pas au parc avec une fille il y a quelques jours ? Je vous ai vus vous embrasser à pleine bouche."
+    ass "Oh! Je me souviens maintenant! Vous n'étiez pas au parc avec une fille il y a quelques jours? Je vous ai vus vous embrasser à pleine bouche."
 
 # game/code/Book-1/Chapter-6s/s03.rpy:313
 translate french b1c06ss03_71fd11a1:
@@ -452,7 +452,7 @@ translate french b1c06ss03_b2f095b7:
 translate french b1c06ss03_4f1ef755:
 
     # ffl "Oh? I haven't heard about her. Who is she?"
-    ffl "Oh ? Je n'ai pas entendu parler d'elle. Qui est-ce ?"
+    ffl "Oh? Je n'ai pas entendu parler d'elle. Qui est-ce?"
 
 # game/code/Book-1/Chapter-6s/s03.rpy:331
 translate french b1c06ss03_2b04186c:
@@ -464,13 +464,13 @@ translate french b1c06ss03_2b04186c:
 translate french b1c06ss03_a1ac2187:
 
     # mc "What were you doing spying on me?"
-    mc "Que faisais-tu à m'espionner ?"
+    mc "Que faisais-tu à m'espionner?"
 
 # game/code/Book-1/Chapter-6s/s03.rpy:342
 translate french b1c06ss03_eee59bb3:
 
     # ass "{i}Spying{/i} on you? Please."
-    ass "{i}Espionner{/i} toi ? S'il te plaît."
+    ass "{i}Espionner{/i} toi? S'il te plaît."
 
 # game/code/Book-1/Chapter-6s/s03.rpy:345
 translate french b1c06ss03_546458fc:
@@ -524,7 +524,7 @@ translate french b1c06ss03_059d6602:
 translate french b1c06ss03_1840cae2:
 
     # mc "*Chuckles* Oh that? That was my mom."
-    mc "*Rire* Ça ? C'était ma mère."
+    mc "*Rire* Ça? C'était ma mère."
 
 # game/code/Book-1/Chapter-6s/s03.rpy:387
 translate french b1c06ss03_122ee095:
@@ -536,13 +536,13 @@ translate french b1c06ss03_122ee095:
 translate french b1c06ss03_e6abede6:
 
     # ass "Wait, seriously? You kiss your mom on the lips!? Ew!"
-    ass "Attends, sérieusement ? Tu embrasses ta mère sur les lèvres ? Beurk !"
+    ass "Attends, sérieusement? Tu embrasses ta mère sur les lèvres? Beurk!"
 
 # game/code/Book-1/Chapter-6s/s03.rpy:401
 translate french b1c06ss03_7698b632:
 
     # mc "What's a lil' peck among family?"
-    mc "C'est quoi un petit bisou entre membres de la famille ?"
+    mc "C'est quoi un petit bisou entre membres de la famille?"
 
 # game/code/Book-1/Chapter-6s/s03.rpy:404
 translate french b1c06ss03_2e21a59c:
@@ -560,7 +560,7 @@ translate french b1c06ss03_5a42b301:
 translate french b1c06ss03_a4e73d5c:
 
     # mc "Oh c'mon. It was just a peck! I was saying goodbye. It's normal!"
-    mc "Allez, c'était juste un bisou ! Je disais au revoir. C'est normal !"
+    mc "Allez, c'était juste un bisou! Je disais au revoir. C'est normal!"
 
 # game/code/Book-1/Chapter-6s/s03.rpy:411
 translate french b1c06ss03_7002213c:
@@ -572,7 +572,7 @@ translate french b1c06ss03_7002213c:
 translate french b1c06ss03_a5ccf958:
 
     # ffl "*Giggles* Yeah! If you're gonna tongue your mother, at least own up to it."
-    ffl "*Rires* Ouais ! Si tu veux rouler des pelles à ta mère, assume-le au moins."
+    ffl "*Rires* Ouais! Si tu veux rouler des pelles à ta mère, assume-le au moins."
 
 # game/code/Book-1/Chapter-6s/s03.rpy:419
 translate french b1c06ss03_25678521:
@@ -620,13 +620,13 @@ translate french b1c06ss03_5f601453:
 translate french b1c06ss03_b8b9a268:
 
     # ffl "What?! No! Not like that! Just as family, like you said!"
-    ffl "Quoi ?! Non ! Pas comme ça ! Juste en famille, comme tu disais !"
+    ffl "Quoi?! Non! Pas comme ça! Juste en famille, comme tu disais!"
 
 # game/code/Book-1/Chapter-6s/s03.rpy:450
 translate french b1c06ss03_8a4524a3:
 
     # ffl "You’re being very hypocritical right now. I’m trying to take your side!"
-    ffl "Tu es vraiment hypocrite là. J'essaie de te défendre !"
+    ffl "Tu es vraiment hypocrite là. J'essaie de te défendre!"
 
 # game/code/Book-1/Chapter-6s/s03.rpy:453
 translate french b1c06ss03_6120a0e6:
@@ -650,7 +650,7 @@ translate french b1c06ss03_832044a6:
 translate french b1c06ss03_b274a3bc:
 
     # ffl "Aw, well, alright. This was fun, though!"
-    ffl "Oh, d'accord. C'était sympa, quand même !"
+    ffl "Oh, d'accord. C'était sympa, quand même!"
 
 # game/code/Book-1/Chapter-6s/s03.rpy:464
 translate french b1c06ss03_0f63abe7:
@@ -704,7 +704,7 @@ translate french b1c06ss03_93595889:
 translate french b1c06ss03_25c5f551:
 
     # ffl "That a promise?"
-    ffl "C'est une promesse ?"
+    ffl "C'est une promesse?"
 
 # game/code/Book-1/Chapter-6s/s03.rpy:498
 translate french b1c06ss03_702cf03a:
@@ -728,7 +728,7 @@ translate french b1c06ss03_2bb8b9a9:
 translate french b1c06ss03_e401204a:
 
     # ffl "Bye!"
-    ffl "Salut !"
+    ffl "Salut!"
 
 translate french strings:
 
@@ -746,10 +746,9 @@ translate french strings:
 
     # game/code/Book-1/Chapter-6s/s03.rpy:332
     old "Respond with a deflection"
-    new "Répondre en esquivant
+    new "Répondre en esquivant"
 
     # game/code/Book-1/Chapter-6s/s03.rpy:332
     old "Respond \"truthfully\""
     new "Répondre \"honnêtement\""
-
 

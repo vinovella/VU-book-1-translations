@@ -3,7 +3,7 @@
 translate french b1c06cs03_cef2e190:
 
     # kd "Delphia, who's this?"
-    kd "Delphia, qui est-ce ?"
+    kd "Delphia, qui est-ce?"
 
 # game/code/Book-1/Chapter-6c/s03.rpy:24
 translate french b1c06cs03_8121205b:
@@ -51,13 +51,13 @@ translate french b1c06cs03_1553abb8:
 translate french b1c06cs03_80419b66:
 
     # dk "Do you know how to paint at all?"
-    dk "Tu sais peindre tout court ?"
+    dk "Tu sais peindre tout court?"
 
 # game/code/Book-1/Chapter-6c/s03.rpy:48
 translate french b1c06cs03_a6ab5e45:
 
     # mc "What? Do I not look like the artistic type?"
-    mc "Quoi ? Je n'ai pas l'air du type artistique ?"
+    mc "Quoi? Je n'ai pas l'air du type artistique?"
 
 # game/code/Book-1/Chapter-6c/s03.rpy:51
 translate french b1c06cs03_3197c80e:
@@ -93,7 +93,7 @@ translate french b1c06cs03_b1eb0924:
 translate french b1c06cs03_832f60c5:
 
     # dk "I assume you know how to keep something wet?"
-    dk "Je suppose que tu sais comment garder quelque chose humide ?"
+    dk "Je suppose que tu sais comment garder quelque chose humide?"
 
 # game/code/Book-1/Chapter-6c/s03.rpy:70
 translate french b1c06cs03_8b05ed94:
@@ -105,13 +105,13 @@ translate french b1c06cs03_8b05ed94:
 translate french b1c06cs03_1e69eaa7:
 
     # dk "So...how big is it?"
-    dk "Alors... c'est grand comment ?"
+    dk "Alors... c'est grand comment?"
 
 # game/code/Book-1/Chapter-6c/s03.rpy:79
 translate french b1c06cs03_88f92857:
 
     # mc "How big is what?"
-    mc "Qu'est-ce qui est grand ?"
+    mc "Qu'est-ce qui est grand?"
 
 # game/code/Book-1/Chapter-6c/s03.rpy:86
 translate french b1c06cs03_5e13bf91:
@@ -141,7 +141,7 @@ translate french b1c06cs03_db68ed73:
 translate french b1c06cs03_7cd0d05c:
 
     # dk "There?"
-    dk "Là ?"
+    dk "Là?"
 
 # game/code/Book-1/Chapter-6c/s03.rpy:114
 translate french b1c06cs03_180e83da:
@@ -153,7 +153,7 @@ translate french b1c06cs03_180e83da:
 translate french b1c06cs03_7cd0d05c_1:
 
     # dk "There?"
-    dk "Là ?"
+    dk "Là?"
 
 # game/code/Book-1/Chapter-6c/s03.rpy:121
 translate french b1c06cs03_6b285331:
@@ -183,7 +183,7 @@ translate french b1c06cs03_6abf4005:
 translate french b1c06cs03_5807e6a8:
 
     # mc "So what got you interested in Greek studies?"
-    mc "Qu'est-ce qui t'a intéressé aux études grecques ?"
+    mc "Qu'est-ce qui t'a intéressé aux études grecques?"
 
 # game/code/Book-1/Chapter-6c/s03.rpy:149
 translate french b1c06cs03_36a67c34:
@@ -201,7 +201,7 @@ translate french b1c06cs03_32a972ff:
 translate french b1c06cs03_d53f1239:
 
     # mc "Felt a call? That's an interesting choice of words. Got a career in mind?"
-    mc "Un appel ? C'est un choix de mots intéressant. Tu as une carrière en tête ?"
+    mc "Un appel? C'est un choix de mots intéressant. Tu as une carrière en tête?"
 
 # game/code/Book-1/Chapter-6c/s03.rpy:155
 translate french b1c06cs03_750ec451:
@@ -243,7 +243,7 @@ translate french b1c06cs03_9ed1bbac:
 translate french b1c06cs03_5f66e47a:
 
     # dk "Fitting, huh? Am I so predictable?"
-    dk "Approprié, hein ? Je suis si prévisible ?"
+    dk "Approprié, hein? Je suis si prévisible?"
 
 # game/code/Book-1/Chapter-6c/s03.rpy:172
 translate french b1c06cs03_77cdb5b2:
@@ -255,7 +255,7 @@ translate french b1c06cs03_77cdb5b2:
 translate french b1c06cs03_db827c6c:
 
     # dk "What can I say? Being a daughter of chaos incarnate appeals to me."
-    dk "Que puis-je dire ? Être une fille du chaos incarné me séduit."
+    dk "Que puis-je dire? Être une fille du chaos incarné me séduit."
 
 # game/code/Book-1/Chapter-6c/s03.rpy:176
 translate french b1c06cs03_69c64976:
@@ -267,7 +267,7 @@ translate french b1c06cs03_69c64976:
 translate french b1c06cs03_c18865c8:
 
     # mc "And you think...you were birthed from her loins?"
-    mc "Et tu penses...que tu es née de ses entrailles ?"
+    mc "Et tu penses...que tu es née de ses entrailles?"
 
 # game/code/Book-1/Chapter-6c/s03.rpy:184
 translate french b1c06cs03_fcea9f58:
@@ -279,7 +279,7 @@ translate french b1c06cs03_fcea9f58:
 translate french b1c06cs03_5e712796:
 
     # kd "Shh!"
-    kd "Chut !"
+    kd "Chut!"
 
 # game/code/Book-1/Chapter-6c/s03.rpy:190
 translate french b1c06cs03_f0eeda9a:
@@ -345,7 +345,7 @@ translate french b1c06cs03_7fa21faf:
 translate french b1c06cs03_f13d2a39:
 
     # mc "So, to take the joke further, how good of a mother was Eris?"
-    mc "Donc, pour pousser la blague plus loin, à quel point Éris était-elle une bonne mère ?"
+    mc "Donc, pour pousser la blague plus loin, à quel point Éris était-elle une bonne mère?"
 
 # game/code/Book-1/Chapter-6c/s03.rpy:218
 translate french b1c06cs03_54d01c17:
@@ -357,13 +357,13 @@ translate french b1c06cs03_54d01c17:
 translate french b1c06cs03_3cae1624:
 
     # dk "Oh! You're done. We just need a few finishing touches now."
-    dk "Oh ! Tu as fini. Il ne reste plus que quelques touches finales."
+    dk "Oh! Tu as fini. Il ne reste plus que quelques touches finales."
 
 # game/code/Book-1/Chapter-6c/s03.rpy:225
 translate french b1c06cs03_ca57e0cc:
 
     # dk "Aaaand, there!"
-    dk "Eeeet voilà !"
+    dk "Eeeet voilà!"
 
 # game/code/Book-1/Chapter-6c/s03.rpy:227
 translate french b1c06cs03_d5c9c517:
@@ -405,7 +405,7 @@ translate french b1c06cs03_08a71a94:
 translate french b1c06cs03_eb03a2ee:
 
     # mc "Kiln?"
-    mc "Four ?"
+    mc "Four?"
 
 # game/code/Book-1/Chapter-6c/s03.rpy:245
 translate french b1c06cs03_aec72b59:
@@ -441,7 +441,7 @@ translate french b1c06cs03_952b811f_1:
 translate french b1c06cs03_c211e58b:
 
     # mc "What are you going to paint on it?"
-    mc "Qu'est-ce que tu vas peindre dessus ?"
+    mc "Qu'est-ce que tu vas peindre dessus?"
 
 # game/code/Book-1/Chapter-6c/s03.rpy:263
 translate french b1c06cs03_c8428738:
@@ -453,7 +453,7 @@ translate french b1c06cs03_c8428738:
 translate french b1c06cs03_327f658e:
 
     # dk "Have you heard of it?"
-    dk "Tu en as entendu parler ?"
+    dk "Tu en as entendu parler?"
 
 # game/code/Book-1/Chapter-6c/s03.rpy:267
 translate french b1c06cs03_9139b053:
@@ -471,7 +471,7 @@ translate french b1c06cs03_c9a0f8d7:
 translate french b1c06cs03_e2230559:
 
     # dk "The frog is hesitant...it asks, 'How do I know you won't sting me?'"
-    dk "La grenouille hésite... elle demande : 'Comment savoir que tu ne me piqueras pas ?'"
+    dk "La grenouille hésite... elle demande : 'Comment savoir que tu ne me piqueras pas?'"
 
 # game/code/Book-1/Chapter-6c/s03.rpy:275
 translate french b1c06cs03_f539e560:
@@ -501,7 +501,7 @@ translate french b1c06cs03_2aa1ed26:
 translate french b1c06cs03_8fe53af8:
 
     # dk "As they both drown, the frog asks, 'Why did you sting me?'"
-    dk "Alors qu'ils se noient tous les deux, la grenouille demande : 'Pourquoi m'as-tu piquée ?'"
+    dk "Alors qu'ils se noient tous les deux, la grenouille demande : 'Pourquoi m'as-tu piquée?'"
 
 # game/code/Book-1/Chapter-6c/s03.rpy:293
 translate french b1c06cs03_304edfd7:
@@ -525,7 +525,7 @@ translate french b1c06cs03_bd40afc4:
 translate french b1c06cs03_822aa5c3:
 
     # mc "How so?"
-    mc "Comment ça ?"
+    mc "Comment ça?"
 
 # game/code/Book-1/Chapter-6c/s03.rpy:306
 translate french b1c06cs03_ce6b97a8:
@@ -555,7 +555,7 @@ translate french b1c06cs03_41571c8f:
 translate french b1c06cs03_d3ddd642:
 
     # mc "Respect is an interesting word. Why respect?"
-    mc "Respect est un mot intéressant. Pourquoi respect ?"
+    mc "Respect est un mot intéressant. Pourquoi respect?"
 
 # game/code/Book-1/Chapter-6c/s03.rpy:316
 translate french b1c06cs03_b3a77ea6:
@@ -579,7 +579,7 @@ translate french b1c06cs03_8bda9d26:
 translate french b1c06cs03_ca445483:
 
     # dk "Perhaps. But aren't we all self-destructive beings fumbling around, trying to love ourselves and each other?"
-    dk "Peut-être. Mais ne sommes-nous pas tous des êtres autodestructeurs tâtonnant, essayant de nous aimer et de nous aimer les uns les autres ?"
+    dk "Peut-être. Mais ne sommes-nous pas tous des êtres autodestructeurs tâtonnant, essayant de nous aimer et de nous aimer les uns les autres?"
 
 # game/code/Book-1/Chapter-6c/s03.rpy:326
 translate french b1c06cs03_322a2160:
@@ -603,7 +603,7 @@ translate french b1c06cs03_2236935e:
 translate french b1c06cs03_a3dad740:
 
     # dk "Why not both? You can be an asshole and still be deserving of second chances."
-    dk "Pourquoi pas les deux ? On peut être un connard et mériter tout de même une seconde chance."
+    dk "Pourquoi pas les deux? On peut être un connard et mériter tout de même une seconde chance."
 
 # game/code/Book-1/Chapter-6c/s03.rpy:337
 translate french b1c06cs03_ca82a1db:
@@ -633,7 +633,7 @@ translate french b1c06cs03_69b9af23:
 translate french b1c06cs03_56682fbd:
 
     # dk "Well, can we really blame someone for a nature they were born with?"
-    dk "Eh bien, peut-on vraiment blâmer quelqu'un pour une nature avec laquelle il est né ?"
+    dk "Eh bien, peut-on vraiment blâmer quelqu'un pour une nature avec laquelle il est né?"
 
 # game/code/Book-1/Chapter-6c/s03.rpy:346
 translate french b1c06cs03_d87d2de5:
@@ -687,7 +687,7 @@ translate french b1c06cs03_27c47a49:
 translate french b1c06cs03_9331825a:
 
     # mc "How so? They rid the world of vermin."
-    mc "Comment ça ? Ils débarrassent le monde de la vermine."
+    mc "Comment ça? Ils débarrassent le monde de la vermine."
 
 # game/code/Book-1/Chapter-6c/s03.rpy:370
 translate french b1c06cs03_9536fcbe:
@@ -729,7 +729,7 @@ translate french b1c06cs03_b1a801de:
 translate french b1c06cs03_a4203633:
 
     # mc "And...has anyone looked at your sins and still told you how beautiful you are?"
-    mc "Et... quelqu'un a-t-il déjà regardé vos péchés et vous a-t-il quand même dit à quel point vous êtes belle ?"
+    mc "Et... quelqu'un a-t-il déjà regardé vos péchés et vous a-t-il quand même dit à quel point vous êtes belle?"
 
 # game/code/Book-1/Chapter-6c/s03.rpy:390
 translate french b1c06cs03_f960c063:
@@ -747,7 +747,7 @@ translate french b1c06cs03_076f5363:
 translate french b1c06cs03_50dbd168:
 
     # dk "We're in a Greek studies class, are we not?"
-    dk "Nous sommes dans un cours d'études grecques, non ?"
+    dk "Nous sommes dans un cours d'études grecques, non?"
 
 # game/code/Book-1/Chapter-6c/s03.rpy:399
 translate french b1c06cs03_54649f70:
@@ -789,19 +789,19 @@ translate french b1c06cs03_ea0ee161:
 translate french b1c06cs03_61698e2c:
 
     # dk "Would you help me with something?"
-    dk "Pourrais-tu m'aider avec quelque chose ?"
+    dk "Pourrais-tu m'aider avec quelque chose?"
 
 # game/code/Book-1/Chapter-6c/s03.rpy:425
 translate french b1c06cs03_a85b6752:
 
     # mc "Does it involve blood or your naked body?"
-    mc "Cela implique-t-il du sang ou ton corps nu ?"
+    mc "Cela implique-t-il du sang ou ton corps nu?"
 
 # game/code/Book-1/Chapter-6c/s03.rpy:428
 translate french b1c06cs03_b1c6ba82:
 
     # dk "Do you wish it did?"
-    dk "Tu souhaiterais que ce soit le cas ?"
+    dk "Tu souhaiterais que ce soit le cas?"
 
 # game/code/Book-1/Chapter-6c/s03.rpy:431
 translate french b1c06cs03_2485f494:
@@ -819,7 +819,7 @@ translate french b1c06cs03_bc390523:
 translate french b1c06cs03_823a982d:
 
     # mc "For what?"
-    mc "Pour quoi faire ?"
+    mc "Pour quoi faire?"
 
 # game/code/Book-1/Chapter-6c/s03.rpy:440
 translate french b1c06cs03_41d26283:

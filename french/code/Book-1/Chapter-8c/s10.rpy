@@ -8,13 +8,13 @@ translate french b1c08cs10_2c6d21c6:
 translate french b1c08cs10_68b60fb2:
 
     # nv "Do you think we're ready?"
-    nv "Penses-tu que nous sommes prêts ?"
+    nv "Penses-tu que nous sommes prêts?"
 
 # game/code/Book-1/Chapter-8c/s10.rpy:193
 translate french b1c08cs10_b4f5ff91:
 
     # mc "I'm sure of it. We're doing this so we can advance in rank, right? Delphia has an awful lot of faith in us—I trust that."
-    mc "Je n'en doute pas. Nous faisons cela pour pouvoir avancer en grade, n'est-ce pas ? Delphia a énormément de foi en nous—je lui fais confiance."
+    mc "Je n'en doute pas. Nous faisons cela pour pouvoir avancer en grade, n'est-ce pas? Delphia a énormément de foi en nous—je lui fais confiance."
 
 # game/code/Book-1/Chapter-8c/s10.rpy:197
 translate french b1c08cs10_95400718:
@@ -56,7 +56,7 @@ translate french b1c08cs10_feb51cbe:
 translate french b1c08cs10_9d5e2145:
 
     # ih "Did you finish the painting?"
-    ih "Avez-vous terminé la peinture ?"
+    ih "Avez-vous terminé la peinture?"
 
 # game/code/Book-1/Chapter-8c/s10.rpy:236
 translate french b1c08cs10_3f029d75:
@@ -68,7 +68,7 @@ translate french b1c08cs10_3f029d75:
 translate french b1c08cs10_7b4955e2:
 
     # mct "What the hell is that thing?"
-    mct "C'est quoi ce truc ?"
+    mct "C'est quoi ce truc?"
 
 # game/code/Book-1/Chapter-8c/s10.rpy:249
 translate french b1c08cs10_2a1c4a4b:
@@ -140,7 +140,7 @@ translate french b1c08cs10_bc0af98b:
 translate french b1c08cs10_5a35c205:
 
     # nv "It makes me wonder... What if Narurra was never redeemed? What if she already was? What if the answer to those questions is how she became a goddess?"
-    nv "Cela me fait me demander... Et si Narurra n'a jamais été rachetée ? Et si elle l'était déjà ? Et si la réponse à ces questions était comment elle est devenue une déesse ?"
+    nv "Cela me fait me demander... Et si Narurra n'a jamais été rachetée? Et si elle l'était déjà? Et si la réponse à ces questions était comment elle est devenue une déesse?"
 
 # game/code/Book-1/Chapter-8c/s10.rpy:279
 translate french b1c08cs10_53dd20d1:
@@ -212,7 +212,7 @@ translate french b1c08cs10_76e60d54:
 translate french b1c08cs10_22cbf3f6:
 
     # ih "This ritual is about the sacrifice that Narurra made to achieve godhood, yes? Then Nia must be crucified on the cross."
-    ih "Ce rituel concerne le sacrifice que Narurra a fait pour atteindre la divinité, n'est-ce pas ? Alors Nia doit être crucifiée sur la croix."
+    ih "Ce rituel concerne le sacrifice que Narurra a fait pour atteindre la divinité, n'est-ce pas? Alors Nia doit être crucifiée sur la croix."
 
 # game/code/Book-1/Chapter-8c/s10.rpy:302
 translate french b1c08cs10_b2b29c47:
@@ -248,13 +248,13 @@ translate french b1c08cs10_c1b1e7c4:
 translate french b1c08cs10_ae8cc892:
 
     # mct "What is going on?!"
-    mct "Que se passe-t-il ?!"
+    mct "Que se passe-t-il?!"
 
 # game/code/Book-1/Chapter-8c/s10.rpy:318
 translate french b1c08cs10_d398ec9b:
 
     # nv "It is my belief that my spiritual partner and I are ready for the next steps in our enlightenment!"
-    nv "Je crois que mon partenaire spirituel et moi sommes prêts pour les prochaines étapes de notre illumination !"
+    nv "Je crois que mon partenaire spirituel et moi sommes prêts pour les prochaines étapes de notre illumination!"
 
 # game/code/Book-1/Chapter-8c/s10.rpy:321
 translate french b1c08cs10_44752b0b:
@@ -266,7 +266,7 @@ translate french b1c08cs10_44752b0b:
 translate french b1c08cs10_1dd47ee0:
 
     # nv "*Whispers* Did Ivy say what to do next?"
-    nv "*Chuchote* Ivy a dit ce qu'on doit faire maintenant ?"
+    nv "*Chuchote* Ivy a dit ce qu'on doit faire maintenant?"
 
 # game/code/Book-1/Chapter-8c/s10.rpy:326
 translate french b1c08cs10_033ff6b3:
@@ -284,7 +284,7 @@ translate french b1c08cs10_197bc9ad:
 translate french b1c08cs10_77192c4c:
 
     # mc "A what?!"
-    mc "Un quoi ?!"
+    mc "Un quoi?!"
 
 # game/code/Book-1/Chapter-8c/s10.rpy:333
 translate french b1c08cs10_0dd9620d:
@@ -536,7 +536,7 @@ translate french b1c08cs10_ritual_587e92bd:
 translate french b1c08cs10_ritual_c1d6dc39:
 
     # sta "What do you have to say for yourself, wolf?"
-    sta "Qu'as-tu à dire pour toi, loup ?"
+    sta "Qu'as-tu à dire pour toi, loup?"
 
 # game/code/Book-1/Chapter-8c/s10.rpy:489
 translate french b1c08cs10_ritual_41497a5e:
@@ -572,7 +572,7 @@ translate french b1c08cs10_ritual_9b49a751:
 translate french b1c08cs10_ritual_3e179204:
 
     # mc "I was never good or evil, for who could blame my yearning for such a beautiful creature?"
-    mc "Je n'ai jamais été bon ou mauvais, car qui pourrait blâmer mon désir d'une si belle créature ?"
+    mc "Je n'ai jamais été bon ou mauvais, car qui pourrait blâmer mon désir d'une si belle créature?"
 
 # game/code/Book-1/Chapter-8c/s10.rpy:500
 translate french b1c08cs10_ritual_be584cdb:
@@ -632,7 +632,7 @@ translate french b1c08cs10_ritual_adb80385:
 translate french b1c08cs10_ritual_4172ee51:
 
     # nv "*Moans* I'm on fire, I'm on fire, I'm on fire—Ah!"
-    nv "*Gémit* Je suis en feu, je suis en feu, je suis en feu—Ah !"
+    nv "*Gémit* Je suis en feu, je suis en feu, je suis en feu—Ah!"
 
 # game/code/Book-1/Chapter-8c/s10.rpy:528
 translate french b1c08cs10_ritual_4ed89cb4:
@@ -650,7 +650,7 @@ translate french b1c08cs10_ritual_80d7e5b2:
 translate french b1c08cs10_ritual_233a7591:
 
     # ih "Rejoice! All who bear witness to the rebirth of our lovely goddess, through this worthy maiden."
-    ih "Réjouissez-vous ! Tous ceux qui témoignent de la renaissance de notre charmante déesse, à travers cette digne jeune fille."
+    ih "Réjouissez-vous! Tous ceux qui témoignent de la renaissance de notre charmante déesse, à travers cette digne jeune fille."
 
 # game/code/Book-1/Chapter-8c/s10.rpy:545
 translate french b1c08cs10_ritual_62ba9eb1:
@@ -686,7 +686,7 @@ translate french b1c08cs10_ritual_988a7978:
 translate french b1c08cs10_ritual_52e3f800:
 
     # ad "You can't fade if you are a part of the whole, so become one with each other!"
-    ad "Vous ne pouvez pas disparaître si vous êtes une partie du tout, alors devenez un avec les autres !"
+    ad "Vous ne pouvez pas disparaître si vous êtes une partie du tout, alors devenez un avec les autres!"
 
 # game/code/Book-1/Chapter-8c/s10.rpy:578
 translate french b1c08cs10_ritual_d6178682:
@@ -752,7 +752,7 @@ translate french b1c08cs10_ritual_9ccc3ca2:
 translate french b1c08cs10_ritual_433cadc9:
 
     # nv "I'm on fire, it feels so good! More, more, more!"
-    nv "Je suis en feu, c'est tellement agréable ! Encore, encore, encore !"
+    nv "Je suis en feu, c'est tellement agréable! Encore, encore, encore!"
 
 # game/code/Book-1/Chapter-8c/s10.rpy:639
 translate french b1c08cs10_ritual_d017c983:
@@ -776,13 +776,13 @@ translate french b1c08cs10_ritual_af4de3ae:
 translate french b1c08cs10_ritual_398e1fec:
 
     # ad "Blessed be! For our lovely maiden flower has bloomed under Narurra's light!"
-    ad "Béni soit-il ! Car notre belle fleur de la jeune fille a éclos sous la lumière de Narurra !"
+    ad "Béni soit-il! Car notre belle fleur de la jeune fille a éclos sous la lumière de Narurra!"
 
 # game/code/Book-1/Chapter-8c/s10.rpy:654
 translate french b1c08cs10_ritual_0e69e115:
 
     # ad "Now we must all celebrate!"
-    ad "Maintenant, nous devons tous célébrer !"
+    ad "Maintenant, nous devons tous célébrer!"
 
 # game/code/Book-1/Chapter-8c/s10.rpy:656
 translate french b1c08cs10_ritual_2b16076a:
@@ -800,7 +800,7 @@ translate french b1c08cs10_ritual_e5cc95fc:
 translate french b1c08cs10_ritual_23993845:
 
     # ad "Nia and [mcname] have proven themselves well in this dramatic performance. Let us celebrate their rise in rank!"
-    ad "Nia et [mcname] se sont bien prouvés dans cette performance dramatique. Célébrons leur ascension en rang !"
+    ad "Nia et [mcname] se sont bien prouvés dans cette performance dramatique. Célébrons leur ascension en rang!"
 
 # game/code/Book-1/Chapter-8c/s10.rpy:662
 translate french b1c08cs10_ritual_49834806:
@@ -842,13 +842,13 @@ translate french b1c08cs10_ritual_204edce6:
 translate french b1c08cs10_ritual_670909ee:
 
     # nv "Did we rise in rank?"
-    nv "Est-ce que nous avons monté en rang ?"
+    nv "Est-ce que nous avons monté en rang?"
 
 # game/code/Book-1/Chapter-8c/s10.rpy:726
 translate french b1c08cs10_ritual_a3342072:
 
     # mc "You were really lost in it, weren't you? But yes, we rose in rank."
-    mc "Tu t'es vraiment perdue dedans, n'est-ce pas ? Mais oui, nous avons monté en rang."
+    mc "Tu t'es vraiment perdue dedans, n'est-ce pas? Mais oui, nous avons monté en rang."
 
 # game/code/Book-1/Chapter-8c/s10.rpy:730
 translate french b1c08cs10_ritual_4babb897:
@@ -878,7 +878,7 @@ translate french b1c08cs10_ritual_72e225db:
 translate french b1c08cs10_ritual_a0790b0e:
 
     # ih "Nia, why don't you take a break?"
-    ih "Nia, pourquoi ne prends-tu pas une pause ?"
+    ih "Nia, pourquoi ne prends-tu pas une pause?"
 
 # game/code/Book-1/Chapter-8c/s10.rpy:743
 translate french b1c08cs10_ritual_92347803:
@@ -932,7 +932,7 @@ translate french b1c08cs10_ritual_d32cf9ff:
 translate french b1c08cs10_ritual_1e8affd2:
 
     # ih "You still haven't gotten your own release, have you?"
-    ih "Tu n'as pas encore eu ta propre libération, n'est-ce pas ?"
+    ih "Tu n'as pas encore eu ta propre libération, n'est-ce pas?"
 
 # game/code/Book-1/Chapter-8c/s10.rpy:769
 translate french b1c08cs10_ritual_c6773be6:

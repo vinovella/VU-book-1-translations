@@ -80,7 +80,7 @@ translate french b1c04ss05_9584898e:
 translate french b1c04ss05_394fdbd2:
 
     # sm "Hey everyone! Come meet our potential new recruit!"
-    sm "Hé tout le monde ! Venez rencontrer notre potentielle nouvelle recrue !"
+    sm "Hé tout le monde! Venez rencontrer notre potentielle nouvelle recrue!"
 
 # game/code/Book-1/Chapter-4s/s05.rpy:85
 translate french b1c04ss05_4368b21a:
@@ -110,7 +110,7 @@ translate french b1c04ss05_3ffa824b:
 translate french b1c04ss05_c884b3b4:
 
     # oa "Hi! It's wonderful to meet you. I've heard a lot about you from the others."
-    oa "Salut ! C'est merveilleux de te rencontrer. J'ai beaucoup entendu parler de toi par les autres."
+    oa "Salut! C'est merveilleux de te rencontrer. J'ai beaucoup entendu parler de toi par les autres."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:109
 translate french b1c04ss05_eef6eb91:
@@ -182,13 +182,13 @@ translate french b1c04ss05_b575eddd:
 translate french b1c04ss05_8ea49e58:
 
     # sm "Okay! Well, we should get the game going. Everyone, team up."
-    sm "D'accord ! Bon, on devrait commencer la partie. Tout le monde, formez vos équipes."
+    sm "D'accord! Bon, on devrait commencer la partie. Tout le monde, formez vos équipes."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:165
 translate french b1c04ss05_2754fdf4:
 
     # sl "I'm with Brigitta and Monika!"
-    sl "Je suis avec Brigitta et Monika !"
+    sl "Je suis avec Brigitta et Monika!"
 
 # game/code/Book-1/Chapter-4s/s05.rpy:168
 translate french b1c04ss05_1819ed63:
@@ -224,7 +224,7 @@ translate french b1c04ss05_cfd12a19:
 translate french b1c04ss05_e024a765:
 
     # sm "Good luck!"
-    sm "Bonne chance !"
+    sm "Bonne chance!"
 
 # game/code/Book-1/Chapter-4s/s05.rpy:192
 translate french b1c04ss05_06e68f5a:
@@ -272,7 +272,7 @@ translate french b1c04ss05_98a49b28:
 translate french b1c04ss05_db00f5a6:
 
     # ir "Got it!"
-    ir "Je l'ai !"
+    ir "Je l'ai!"
 
 # game/code/Book-1/Chapter-4s/s05.rpy:233
 translate french b1c04ss05_a3c288ec:
@@ -302,7 +302,7 @@ translate french b1c04ss05_ff30da9c:
 translate french b1c04ss05_fe46d501:
 
     # sm "1 Point to [mcname]'s team!"
-    sm "1 Point pour l'équipe de [mcname] !"
+    sm "1 Point pour l'équipe de [mcname]!"
 
 # game/code/Book-1/Chapter-4s/s05.rpy:261
 translate french b1c04ss05_2db5f325:
@@ -320,7 +320,7 @@ translate french b1c04ss05_e7683786:
 translate french b1c04ss05_dded1e62:
 
     # mc "That's what teammates are for, right?"
-    mc "C'est à ça que servent les coéquipiers, non ?"
+    mc "C'est à ça que servent les coéquipiers, non?"
 
 # game/code/Book-1/Chapter-4s/s05.rpy:269
 translate french b1c04ss05_e0ebc78a:
@@ -344,7 +344,7 @@ translate french b1c04ss05_87062515:
 translate french b1c04ss05_a1d21898:
 
     # sm "1 point to Brigitta's team!"
-    sm "1 point pour l'équipe de Brigitta !"
+    sm "1 point pour l'équipe de Brigitta!"
 
 # game/code/Book-1/Chapter-4s/s05.rpy:302
 translate french b1c04ss05_ed87329c:
@@ -362,7 +362,7 @@ translate french b1c04ss05_a8d94adc:
 translate french b1c04ss05_fc8b536c:
 
     # oa "Hey, are you alright? Brigitta can hit harder than a 'roided out rhino."
-    oa "Hé, ça va ? Brigitta frappe plus fort qu'un rhinocéros sous stéroïdes."
+    oa "Hé, ça va? Brigitta frappe plus fort qu'un rhinocéros sous stéroïdes."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:310
 translate french b1c04ss05_e79df68d:
@@ -488,7 +488,7 @@ translate french b1c04ss05_86066459:
 translate french b1c04ss05_f020f4cb:
 
     # sm "1 point to [mcname]'s team!"
-    sm "1 point pour l'équipe de [mcname] !"
+    sm "1 point pour l'équipe de [mcname]!"
 
 # game/code/Book-1/Chapter-4s/s05.rpy:384
 translate french b1c04ss05_502f6694:
@@ -500,7 +500,7 @@ translate french b1c04ss05_502f6694:
 translate french b1c04ss05_34e5779c:
 
     # oa "And then blocking Brigitta! That was a great move."
-    oa "Et ensuite bloquer Brigitta ! C'était un excellent coup."
+    oa "Et ensuite bloquer Brigitta! C'était un excellent coup."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:390
 translate french b1c04ss05_37970446:
@@ -518,7 +518,7 @@ translate french b1c04ss05_f0ee60a7:
 translate french b1c04ss05_7c787d00:
 
     # sm "[mcname], serve! We don't have all day."
-    sm "[mcname], sers ! On n'a pas toute la journée."
+    sm "[mcname], sers! On n'a pas toute la journée."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:403
 translate french b1c04ss05_72835a8d:
@@ -590,19 +590,19 @@ translate french b1c04ss05_4835ee31:
 translate french b1c04ss05_f60830c4:
 
     # oa "Iona!"
-    oa "Iona !"
+    oa "Iona!"
 
 # game/code/Book-1/Chapter-4s/s05.rpy:444
 translate french b1c04ss05_0a3dd9c6:
 
     # ir "Got it. {w} [mcname]!"
-    ir "Je l'ai. {w} [mcname] !"
+    ir "Je l'ai. {w} [mcname]!"
 
 # game/code/Book-1/Chapter-4s/s05.rpy:446
 translate french b1c04ss05_3dbd2a33:
 
     # mc "Here!"
-    mc "Ici !"
+    mc "Ici!"
 
 # game/code/Book-1/Chapter-4s/s05.rpy:451
 translate french b1c04ss05_de668c3f:
@@ -698,25 +698,25 @@ translate french b1c04ss05_038c70a1:
 translate french b1c04ss05_cb5ead79:
 
     # mct "Think fast, think fast! Simon's an excellent blocker, targeting him won't help...but Brigitta is sure to be tired at this point. She has lower stamina in short-range matches."
-    mct "Réfléchis vite, réfléchis vite ! Simon est un excellent bloqueur, le cibler ne servira à rien... mais Brigitta doit être fatiguée à ce stade. Elle a moins d'endurance dans les matchs à courte distance."
+    mct "Réfléchis vite, réfléchis vite! Simon est un excellent bloqueur, le cibler ne servira à rien... mais Brigitta doit être fatiguée à ce stade. Elle a moins d'endurance dans les matchs à courte distance."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:510
 translate french b1c04ss05_a8234732:
 
     # sm "Point 3 for [mcname]'s team!"
-    sm "Point 3 pour l'équipe de [mcname] !"
+    sm "Point 3 pour l'équipe de [mcname]!"
 
 # game/code/Book-1/Chapter-4s/s05.rpy:512
 translate french b1c04ss05_f45b3a4c:
 
     # ba "Fuck!"
-    ba "Merde !"
+    ba "Merde!"
 
 # game/code/Book-1/Chapter-4s/s05.rpy:515
 translate french b1c04ss05_8e16ee11:
 
     # ir "Great match!"
-    ir "Super match !"
+    ir "Super match!"
 
 # game/code/Book-1/Chapter-4s/s05.rpy:523
 translate french b1c04ss05_93d6203e:
@@ -824,7 +824,7 @@ translate french b1c04ss05_520eb8d3:
 translate french b1c04ss05_87d498cb:
 
     # mc "Sound good?"
-    mc "Ça vous va ?"
+    mc "Ça vous va?"
 
 # game/code/Book-1/Chapter-4s/s05.rpy:603
 translate french b1c04ss05_9b63d711:
@@ -854,19 +854,19 @@ translate french b1c04ss05_bd8a58b2:
 translate french b1c04ss05_e5388323:
 
     # sm "Point 24 to [mcname]'s team!"
-    sm "Point 24 pour l'équipe de [mcname] !"
+    sm "Point 24 pour l'équipe de [mcname]!"
 
 # game/code/Book-1/Chapter-4s/s05.rpy:640
 translate french b1c04ss05_b24040ab:
 
     # ir "Fuck yeah!"
-    ir "Putain, ouais !"
+    ir "Putain, ouais!"
 
 # game/code/Book-1/Chapter-4s/s05.rpy:644
 translate french b1c04ss05_d927123d:
 
     # oa "Just one more!"
-    oa "Encore un !"
+    oa "Encore un!"
 
 # game/code/Book-1/Chapter-4s/s05.rpy:646
 translate french b1c04ss05_d425ebc1:
@@ -944,25 +944,25 @@ translate french b1c04ss05_7a6db818:
 translate french b1c04ss05_bddefb4a:
 
     # sm "Game! [mcname]'s team wins!"
-    sm "Match ! L'équipe de [mcname] gagne !"
+    sm "Match! L'équipe de [mcname] gagne!"
 
 # game/code/Book-1/Chapter-4s/s05.rpy:693
 translate french b1c04ss05_d446c387:
 
     # oa "Woo!"
-    oa "Youhou !"
+    oa "Youhou!"
 
 # game/code/Book-1/Chapter-4s/s05.rpy:697
 translate french b1c04ss05_2ad7d3e4:
 
     # ir "Hah! Suck our dicks!"
-    ir "Hah ! Vous pouvez vous brosser !"
+    ir "Hah! Vous pouvez vous brosser!"
 
 # game/code/Book-1/Chapter-4s/s05.rpy:708
 translate french b1c04ss05_23a16382:
 
     # sm "You did great!"
-    sm "Tu as assuré !"
+    sm "Tu as assuré!"
 
 # game/code/Book-1/Chapter-4s/s05.rpy:711
 translate french b1c04ss05_ea98baa1:
@@ -986,13 +986,13 @@ translate french b1c04ss05_ef87be58:
 translate french b1c04ss05_404955fa:
 
     # mc "I'm on the team?"
-    mc "Je suis dans l'équipe ?"
+    mc "Je suis dans l'équipe?"
 
 # game/code/Book-1/Chapter-4s/s05.rpy:726
 translate french b1c04ss05_547c511c:
 
     # ir "Well no shit! You busted their fucking balls! That was awesome."
-    ir "Pas de doute ! Tu les as éclatés ! C'était génial."
+    ir "Pas de doute! Tu les as éclatés! C'était génial."
 
 # game/code/Book-1/Chapter-4s/s05.rpy:728
 translate french b1c04ss05_3830d257:
@@ -1004,19 +1004,19 @@ translate french b1c04ss05_3830d257:
 translate french b1c04ss05_7fe46520:
 
     # ir "Woo! Celebration party, fuckers!"
-    ir "Youhou ! Fête de célébration, les mecs !"
+    ir "Youhou! Fête de célébration, les mecs!"
 
 # game/code/Book-1/Chapter-4s/s05.rpy:735
 translate french b1c04ss05_a258be76:
 
     # oa "Hell yeah!"
-    oa "Carrément !"
+    oa "Carrément!"
 
 # game/code/Book-1/Chapter-4s/s05.rpy:738
 translate french b1c04ss05_ff599270:
 
     # mc "Is Brigitta okay?"
-    mc "Brigitta va bien ?"
+    mc "Brigitta va bien?"
 
 # game/code/Book-1/Chapter-4s/s05.rpy:741
 translate french b1c04ss05_c679ecbd:
@@ -1046,7 +1046,7 @@ translate french b1c04ss05_6c1450cc:
 translate french b1c04ss05_f3bc892c:
 
     # sm "You want to get some drinks? Celebrate your victory?"
-    sm "Tu veux prendre un verre ? Fêter ta victoire ?"
+    sm "Tu veux prendre un verre? Fêter ta victoire?"
 
 # game/code/Book-1/Chapter-4s/s05.rpy:758
 translate french b1c04ss05_5d587207:
@@ -1059,3 +1059,4 @@ translate french strings:
     # game/code/Book-1/Chapter-4s/s05.rpy:11
     old "Couple hours later"
     new "Quelques heures plus tard"
+

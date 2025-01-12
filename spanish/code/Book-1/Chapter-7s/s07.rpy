@@ -842,7 +842,7 @@ translate spanish b1c07ss07_fight_end_7f846677:
 translate spanish b1c07ss07_fight_end_65102e20:
 
     # ass "YEAAAAAH FUCK YEAH!"
-    ass "SÍIIII !A LA MIERDA SÍ!"
+    ass "SÍIIII!A LA MIERDA SÍ!"
 
 # game/code/Book-1/Chapter-7s/s07.rpy:619
 translate spanish b1c07ss07_fight_end_de699ee7:

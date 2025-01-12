@@ -50,7 +50,7 @@ translate french b1c07ss05_1af93950:
 translate french b1c07ss05_670b14f0:
 
     # sp "You don't wanna scare this precious little cutie away now, do you?"
-    sp "Tu ne veux pas effrayer cette adorable petite mignonne, hein ?"
+    sp "Tu ne veux pas effrayer cette adorable petite mignonne, hein?"
 
 # game/code/Book-1/Chapter-7s/s05.rpy:68
 translate french b1c07ss05_63d52776:
@@ -74,7 +74,7 @@ translate french b1c07ss05_613de212:
 translate french b1c07ss05_b449a5d4:
 
     # qh "Oooh, is that a challenge?"
-    qh "Oooh, est-ce un défi ?"
+    qh "Oooh, est-ce un défi?"
 
 # game/code/Book-1/Chapter-7s/s05.rpy:83
 translate french b1c07ss05_ac889233:
@@ -92,7 +92,7 @@ translate french b1c07ss05_f3bd3ced:
 translate french b1c07ss05_d41a00a1:
 
     # sp "Is that a challenge, dollface?"
-    sp "C'est un défi, jolie poupée ?"
+    sp "C'est un défi, jolie poupée?"
 
 # game/code/Book-1/Chapter-7s/s05.rpy:95
 translate french b1c07ss05_b3da844e:
@@ -104,7 +104,7 @@ translate french b1c07ss05_b3da844e:
 translate french b1c07ss05_fd851518:
 
     # nr "So, did you update my account since the last favor that I performed?"
-    nr "Alors, as-tu mis à jour mon compte depuis le dernier service que j'ai rendu ?"
+    nr "Alors, as-tu mis à jour mon compte depuis le dernier service que j'ai rendu?"
 
 # game/code/Book-1/Chapter-7s/s05.rpy:108
 translate french b1c07ss05_c85fea40:
@@ -116,7 +116,7 @@ translate french b1c07ss05_c85fea40:
 translate french b1c07ss05_79dd9e3c:
 
     # nr "What? You mean no one's come forward?"
-    nr "Quoi ? Tu veux dire que personne ne s'est manifesté ?"
+    nr "Quoi? Tu veux dire que personne ne s'est manifesté?"
 
 # game/code/Book-1/Chapter-7s/s05.rpy:114
 translate french b1c07ss05_b8a36488:
@@ -158,7 +158,7 @@ translate french b1c07ss05_d5bf2254:
 translate french b1c07ss05_a2d4e7cf:
 
     # mc "Sure thing! Today was fun. Can't wait till next time."
-    mc "Bien sûr ! Aujourd'hui était fun. J'ai hâte à la prochaine fois."
+    mc "Bien sûr! Aujourd'hui était fun. J'ai hâte à la prochaine fois."
 
 # game/code/Book-1/Chapter-7s/s05.rpy:141
 translate french b1c07ss05_025b7672:
@@ -182,13 +182,13 @@ translate french b1c07ss05_0b057a0d:
 translate french b1c07ss05_c4afbf03:
 
     # mc "Nirmala? What's wrong?"
-    mc "Nirmala ? Qu'est-ce qui va pas ?"
+    mc "Nirmala? Qu'est-ce qui va pas?"
 
 # game/code/Book-1/Chapter-7s/s05.rpy:157
 translate french b1c07ss05_eba6c600:
 
     # nr "Why haven't you told Zemfira you redeemed that favor yet?"
-    nr "Pourquoi ne lui as-tu pas dit à Zemfira que tu as récupéré cette faveur ?"
+    nr "Pourquoi ne lui as-tu pas dit à Zemfira que tu as récupéré cette faveur?"
 
 # game/code/Book-1/Chapter-7s/s05.rpy:160
 translate french b1c07ss05_4e8f28ae:
@@ -206,13 +206,13 @@ translate french b1c07ss05_251f3d0e:
 translate french b1c07ss05_85bebbc7:
 
     # nr "Well? I'm {i}waiting{/i} for an answer."
-    nr "Alors ? Je suis {i}en train d'attendre{/i} une réponse."
+    nr "Alors? Je suis {i}en train d'attendre{/i} une réponse."
 
 # game/code/Book-1/Chapter-7s/s05.rpy:168
 translate french b1c07ss05_1cf362fc:
 
     # nr "Is it because I wasn't {i}good enough{/i} for you? Is that it?"
-    nr "Est-ce parce que je n'étais pas {i}assez bien{/i} pour toi ? C'est ça ?"
+    nr "Est-ce parce que je n'étais pas {i}assez bien{/i} pour toi? C'est ça?"
 
 # game/code/Book-1/Chapter-7s/s05.rpy:171
 translate french b1c07ss05_ba8e5e49:
@@ -224,25 +224,25 @@ translate french b1c07ss05_ba8e5e49:
 translate french b1c07ss05_5bc07229:
 
     # mct "Shit, what do I even do here?"
-    mct "Merde, qu'est-ce que je fais ici ?"
+    mct "Merde, qu'est-ce que je fais ici?"
 
 # game/code/Book-1/Chapter-7s/s05.rpy:176
 translate french b1c07ss05_b0a5e947:
 
     # nr "I gave you the best head in the game and it {i}wasn't good enough for you?!{/i}"
-    nr "Je t'ai donné la meilleure fellation du jeu et ce n'était {i}pas assez bien pour toi ?!{/i}"
+    nr "Je t'ai donné la meilleure fellation du jeu et ce n'était {i}pas assez bien pour toi?!{/i}"
 
 # game/code/Book-1/Chapter-7s/s05.rpy:179
 translate french b1c07ss05_cc798e5c:
 
     # mc "It's complicated!"
-    mc "C'est compliqué !"
+    mc "C'est compliqué!"
 
 # game/code/Book-1/Chapter-7s/s05.rpy:182
 translate french b1c07ss05_774203f6:
 
     # nr "How?!"
-    nr "Comment ?!"
+    nr "Comment?!"
 
 # game/code/Book-1/Chapter-7s/s05.rpy:185
 translate french b1c07ss05_37ac8a02:
@@ -272,7 +272,7 @@ translate french b1c07ss05_ee51b7d4:
 translate french b1c07ss05_7c432b8a:
 
     # qh "Trouble in paradise?"
-    qh "Des ennuis au paradis ?"
+    qh "Des ennuis au paradis?"
 
 # game/code/Book-1/Chapter-7s/s05.rpy:204
 translate french b1c07ss05_bea30332:
@@ -290,7 +290,7 @@ translate french b1c07ss05_41400c7c:
 translate french b1c07ss05_8b112361:
 
     # sp "So how do you know Zemfira? You seem pretty buddy-buddy to be getting {i}private{/i} shooting lessons from her."
-    sp "Alors comment tu connais Zemfira ? Vous avez l'air plutôt copains pour recevoir des leçons de tir {i}privées{/i} de sa part."
+    sp "Alors comment tu connais Zemfira? Vous avez l'air plutôt copains pour recevoir des leçons de tir {i}privées{/i} de sa part."
 
 # game/code/Book-1/Chapter-7s/s05.rpy:214
 translate french b1c07ss05_4f735786:
@@ -308,13 +308,13 @@ translate french b1c07ss05_e8fd53de:
 translate french b1c07ss05_b76c5bf5:
 
     # sp "Aw, how romantic to meet through uni!"
-    sp "Oh, comme c'est romantique de se rencontrer à l'université !"
+    sp "Oh, comme c'est romantique de se rencontrer à l'université!"
 
 # game/code/Book-1/Chapter-7s/s05.rpy:225
 translate french b1c07ss05_2b666dd6:
 
     # mc "How do you know Zem?"
-    mc "Comment tu connais Zem ?"
+    mc "Comment tu connais Zem?"
 
 # game/code/Book-1/Chapter-7s/s05.rpy:228
 translate french b1c07ss05_55b396c4:
@@ -332,7 +332,7 @@ translate french b1c07ss05_c2a3cb20:
 translate french b1c07ss05_2609ab08:
 
     # sp "It's so fun working with my bestie!"
-    sp "C'est tellement amusant de travailler avec ma meilleure amie !"
+    sp "C'est tellement amusant de travailler avec ma meilleure amie!"
 
 # game/code/Book-1/Chapter-7s/s05.rpy:237
 translate french b1c07ss05_2048ec8c:
@@ -356,7 +356,7 @@ translate french b1c07ss05_58f700fa:
 translate french b1c07ss05_b73bcc2b:
 
     # qh "Hah! True enough."
-    qh "Hah ! C'est vrai."
+    qh "Hah! C'est vrai."
 
 # game/code/Book-1/Chapter-7s/s05.rpy:249
 translate french b1c07ss05_de40c90f:
@@ -368,13 +368,13 @@ translate french b1c07ss05_de40c90f:
 translate french b1c07ss05_f992373b:
 
     # nr "Oh, they {i}so{/i} are!"
-    nr "Oh, elles le sont {i}tellement{/i} !"
+    nr "Oh, elles le sont {i}tellement{/i}!"
 
 # game/code/Book-1/Chapter-7s/s05.rpy:255
 translate french b1c07ss05_578eecb5:
 
     # nr "*laughs* Part of the reason I drag them to this bar instead of Guns n' Rosette is to keep them out of trouble!"
-    nr "*rire* Une des raisons pour lesquelles je les traîne dans ce bar au lieu de Guns n' Rosette, c'est pour les empêcher de faire des bêtises !"
+    nr "*rire* Une des raisons pour lesquelles je les traîne dans ce bar au lieu de Guns n' Rosette, c'est pour les empêcher de faire des bêtises!"
 
 # game/code/Book-1/Chapter-7s/s05.rpy:258
 translate french b1c07ss05_38ca9b03:
@@ -392,7 +392,7 @@ translate french b1c07ss05_1ee4def5:
 translate french b1c07ss05_045d59ac:
 
     # mc "So how did all of you meet?"
-    mc "Alors, comment vous êtes-vous rencontrés ?"
+    mc "Alors, comment vous êtes-vous rencontrés?"
 
 # game/code/Book-1/Chapter-7s/s05.rpy:270
 translate french b1c07ss05_681dbb2d:
@@ -458,7 +458,7 @@ translate french b1c07ss05_24da4761:
 translate french b1c07ss05_02fbd905:
 
     # mct "Who's this? Q seems on edge."
-    mct "C'est qui ça ? Q semble nerveuse."
+    mct "C'est qui ça? Q semble nerveuse."
 
 # game/code/Book-1/Chapter-7s/s05.rpy:308
 translate french b1c07ss05_e35ecc6e:
@@ -470,13 +470,13 @@ translate french b1c07ss05_e35ecc6e:
 translate french b1c07ss05_f108891e:
 
     # sp "H-hey!"
-    sp "H-hey !"
+    sp "H-hey!"
 
 # game/code/Book-1/Chapter-7s/s05.rpy:314
 translate french b1c07ss05_e206365d:
 
     # sp "Get off me, Cade!"
-    sp "Lâche-moi, Cade !"
+    sp "Lâche-moi, Cade!"
 
 # game/code/Book-1/Chapter-7s/s05.rpy:317
 translate french b1c07ss05_1084b945:
@@ -488,13 +488,13 @@ translate french b1c07ss05_1084b945:
 translate french b1c07ss05_0a3ab28d:
 
     # sp "Get the fuck off me, asshole! I'm not in your gang anymore and I'm sure as shit not your girlfriend!"
-    sp "Lâche-moi putain, connard ! Je ne fais plus partie de ton gang et je suis certainement pas ta copine !"
+    sp "Lâche-moi putain, connard! Je ne fais plus partie de ton gang et je suis certainement pas ta copine!"
 
 # game/code/Book-1/Chapter-7s/s05.rpy:322
 translate french b1c07ss05_00785fc3:
 
     # mct "Gang? Sabrina was a part of a gang, and Cade is still in it?"
-    mct "Un gang ? Sabrina faisait partie d'un gang, et Cade y est toujours ?"
+    mct "Un gang? Sabrina faisait partie d'un gang, et Cade y est toujours?"
 
 # game/code/Book-1/Chapter-7s/s05.rpy:330
 translate french b1c07ss05_f8465660:
@@ -518,7 +518,7 @@ translate french b1c07ss05_b88bc29b:
 translate french b1c07ss05_e3d4970f:
 
     # cjh "How much does a guy gotta pay to get your {i}services{/i} anyway?"
-    cjh "Combien un gars doit payer pour avoir tes {i}services{/i}, de toute façon ?"
+    cjh "Combien un gars doit payer pour avoir tes {i}services{/i}, de toute façon?"
 
 # game/code/Book-1/Chapter-7s/s05.rpy:340
 translate french b1c07ss05_cd18f96a:
@@ -536,13 +536,13 @@ translate french b1c07ss05_d20303b5:
 translate french b1c07ss05_11647c44:
 
     # sp "FUCK OFF, CADE!"
-    sp "VA TE FAIRE FOUTRE, CADE !"
+    sp "VA TE FAIRE FOUTRE, CADE!"
 
 # game/code/Book-1/Chapter-7s/s05.rpy:346
 translate french b1c07ss05_2b7f4715:
 
     # sp "I am not gonna let you talk shit about my best friend!"
-    sp "Je vais pas te laisser dire des conneries sur ma meilleure amie !"
+    sp "Je vais pas te laisser dire des conneries sur ma meilleure amie!"
 
 # game/code/Book-1/Chapter-7s/s05.rpy:349
 translate french b1c07ss05_f1baa1c3:
@@ -560,7 +560,7 @@ translate french b1c07ss05_8f2c27da:
 translate french b1c07ss05_792fa527:
 
     # cjh "You'll {i}what{/i}, prissy?"
-    cjh "Tu vas {i}quoi{/i}, petit prétentieux ?"
+    cjh "Tu vas {i}quoi{/i}, petit prétentieux?"
 
 # game/code/Book-1/Chapter-7s/s05.rpy:356
 translate french b1c07ss05_d5233dac:
@@ -584,19 +584,19 @@ translate french b1c07ss05_928b0ded:
 translate french b1c07ss05_d685edb2:
 
     # mc "Hey! Hey, we don't need to—"
-    mc "Hé ! Hé, on n'a pas besoin de—"
+    mc "Hé! Hé, on n'a pas besoin de—"
 
 # game/code/Book-1/Chapter-7s/s05.rpy:376
 translate french b1c07ss05_aa25bb5c:
 
     # cjh "Who the fuck are you?"
-    cjh "C'est qui, toi ?"
+    cjh "C'est qui, toi?"
 
 # game/code/Book-1/Chapter-7s/s05.rpy:379
 translate french b1c07ss05_82b5eb0d:
 
     # cjh "You tryna replace me already, whore?"
-    cjh "Tu essaies de me remplacer déjà, salope ?"
+    cjh "Tu essaies de me remplacer déjà, salope?"
 
 # game/code/Book-1/Chapter-7s/s05.rpy:382
 translate french b1c07ss05_7c27ca08:
@@ -614,7 +614,7 @@ translate french b1c07ss05_d27ff0ae:
 translate french b1c07ss05_5529c729:
 
     # "Bartender" "No fighting in the bar, people! Take it out—"
-    "Bartender" "Pas de bagarres dans le bar, les gens ! Sortez ça—"
+    "Bartender" "Pas de bagarres dans le bar, les gens! Sortez ça—"
 
 # game/code/Book-1/Chapter-7s/s05.rpy:393
 translate french b1c07ss05_50c71e63:
@@ -632,7 +632,7 @@ translate french b1c07ss05_3f015ca4:
 translate french b1c07ss05_887b7d23:
 
     # sp "Get your fucking hands off him!"
-    sp "Fichez-lui la paix, espèce de connard !"
+    sp "Fichez-lui la paix, espèce de connard!"
 
 # game/code/Book-1/Chapter-7s/s05.rpy:401
 translate french b1c07ss05_c635c30e:
@@ -644,7 +644,7 @@ translate french b1c07ss05_c635c30e:
 translate french b1c07ss05_ae266652:
 
     # cjh "You're somebody's mailman, huh?"
-    cjh "Tu es le facteur de quelqu'un, hein ?"
+    cjh "Tu es le facteur de quelqu'un, hein?"
 
 # game/code/Book-1/Chapter-7s/s05.rpy:423
 translate french b1c07ss05_b8616054:
@@ -656,7 +656,7 @@ translate french b1c07ss05_b8616054:
 translate french b1c07ss05_bcc4aaf6:
 
     # cjh "Why should I? Maybe I know who this letter's going to."
-    cjh "Pourquoi je devrais ? Peut-être que je sais à qui va cette lettre."
+    cjh "Pourquoi je devrais? Peut-être que je sais à qui va cette lettre."
 
 # game/code/Book-1/Chapter-7s/s05.rpy:429
 translate french b1c07ss05_3e315917:
@@ -698,7 +698,7 @@ translate french b1c07ss05_9d323b51:
 translate french b1c07ss05_35ddd8da:
 
     # sp "Just leave, Cade! Jesus fuck."
-    sp "Laisse tomber, Cade ! Putain."
+    sp "Laisse tomber, Cade! Putain."
 
 # game/code/Book-1/Chapter-7s/s05.rpy:454
 translate french b1c07ss05_7cee7035:
@@ -710,7 +710,7 @@ translate french b1c07ss05_7cee7035:
 translate french b1c07ss05_1947ff50:
 
     # nr "Don't be sorry, babe! That asshole had it comin'."
-    nr "Ne sois pas désolée, bébé ! Ce connard l'avait bien cherché."
+    nr "Ne sois pas désolée, bébé! Ce connard l'avait bien cherché."
 
 # game/code/Book-1/Chapter-7s/s05.rpy:460
 translate french b1c07ss05_b19cbc49:
@@ -764,7 +764,7 @@ translate french b1c07ss05_3c9b55e5:
 translate french b1c07ss05_6d8dbab2:
 
     # nr "How about we buy you another round of drinks as thanks?"
-    nr "Et si on t'offrait un autre verre pour te remercier ?"
+    nr "Et si on t'offrait un autre verre pour te remercier?"
 
 # game/code/Book-1/Chapter-7s/s05.rpy:485
 translate french b1c07ss05_6127794f:
@@ -776,7 +776,7 @@ translate french b1c07ss05_6127794f:
 translate french b1c07ss05_32ad4105:
 
     # sp "Aw, but the fun was just getting started!"
-    sp "Ah, mais le plaisir ne faisait que commencer !"
+    sp "Ah, mais le plaisir ne faisait que commencer!"
 
 # game/code/Book-1/Chapter-7s/s05.rpy:491
 translate french b1c07ss05_6677cdd3:
@@ -788,7 +788,7 @@ translate french b1c07ss05_6677cdd3:
 translate french b1c07ss05_3efe6e5e:
 
     # sp "That's what makes it so fun!"
-    sp "C'est ce qui rend ça si amusant !"
+    sp "C'est ce qui rend ça si amusant!"
 
 # game/code/Book-1/Chapter-7s/s05.rpy:497
 translate french b1c07ss05_a48d5d61:
@@ -800,13 +800,13 @@ translate french b1c07ss05_a48d5d61:
 translate french b1c07ss05_938a45db:
 
     # nr "Before you go, are you going to be attending the live event tonight? The three of us are gonna stop by."
-    nr "Avant que tu partes, tu vas assister à l'événement en direct ce soir ? Nous trois allons passer."
+    nr "Avant que tu partes, tu vas assister à l'événement en direct ce soir? Nous trois allons passer."
 
 # game/code/Book-1/Chapter-7s/s05.rpy:503
 translate french b1c07ss05_b8d35dc5:
 
     # nr "It'd also be a good time to talk to Zemfira, y'know?"
-    nr "Ce serait aussi un bon moment pour parler à Zemfira, tu sais ?"
+    nr "Ce serait aussi un bon moment pour parler à Zemfira, tu sais?"
 
 # game/code/Book-1/Chapter-7s/s05.rpy:506
 translate french b1c07ss05_6cda05b6:
@@ -818,7 +818,7 @@ translate french b1c07ss05_6cda05b6:
 translate french b1c07ss05_195c68d4:
 
     # sp "Cool! Hopefully we'll see ya there."
-    sp "Cool ! On espère te voir là-bas."
+    sp "Cool! On espère te voir là-bas."
 
 # game/code/Book-1/Chapter-7s/s05.rpy:512
 translate french b1c07ss05_e57ca5cc:
@@ -842,7 +842,7 @@ translate french b1c07ss05_d6f6aee0:
 translate french b1c07ss05_271f3926:
 
     # nr "Bye, [mcname]!"
-    nr "Bye, [mcname] !"
+    nr "Bye, [mcname]!"
 
 # game/code/Book-1/Chapter-7s/s05.rpy:524
 translate french b1c07ss05_686f09ce:
@@ -863,3 +863,4 @@ translate french strings:
     # game/code/Book-1/Chapter-7s/s05.rpy:69
     old "This is kinda awkward"
     new "C'est un peu gênant"
+

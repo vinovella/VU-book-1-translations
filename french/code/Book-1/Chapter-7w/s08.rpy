@@ -50,7 +50,7 @@ translate french b1c07ws08_0e31bb18:
 translate french b1c07ws08_09e757ed:
 
     # ima "Aww, but then how am I gonna numb myself?"
-    ima "Aww, mais comment vais-je m'anesthésier alors ?"
+    ima "Aww, mais comment vais-je m'anesthésier alors?"
 
 # game/code/Book-1/Chapter-7w/s08.rpy:73
 translate french b1c07ws08_d5f67f8e:
@@ -74,7 +74,7 @@ translate french b1c07ws08_33ea14be:
 translate french b1c07ws08_f5bcdecd:
 
     # mc "Have you thought about {i}talking{/i} instead?"
-    mc "As-tu pensé à {i}parler{/i} à la place ?"
+    mc "As-tu pensé à {i}parler{/i} à la place?"
 
 # game/code/Book-1/Chapter-7w/s08.rpy:83
 translate french b1c07ws08_f133ae25:
@@ -86,7 +86,7 @@ translate french b1c07ws08_f133ae25:
 translate french b1c07ws08_5bc5b83d:
 
     # ima "Please. What are you, my therapist?"
-    ima "S'il te plaît. Qu'est-ce que tu es, mon thérapeute ?"
+    ima "S'il te plaît. Qu'est-ce que tu es, mon thérapeute?"
 
 # game/code/Book-1/Chapter-7w/s08.rpy:89
 translate french b1c07ws08_2e10d10b:
@@ -134,7 +134,7 @@ translate french b1c07ws08_72b387da:
 translate french b1c07ws08_74538c10:
 
     # ima "You wanna join?"
-    ima "Tu veux te joindre à moi ?"
+    ima "Tu veux te joindre à moi?"
 
 # game/code/Book-1/Chapter-7w/s08.rpy:118
 translate french b1c07ws08_a15e4e50:
@@ -164,7 +164,7 @@ translate french b1c07ws08_555eebc3:
 translate french b1c07ws08_5216049d:
 
     # mc "What happened out there, Isa?"
-    mc "Que s'est-il passé là-bas, Isa ?"
+    mc "Que s'est-il passé là-bas, Isa?"
 
 # game/code/Book-1/Chapter-7w/s08.rpy:139
 translate french b1c07ws08_1afff42e:
@@ -188,7 +188,7 @@ translate french b1c07ws08_f3060f75:
 translate french b1c07ws08_6579a9a4:
 
     # ima "C'mon!"
-    ima "Allez !"
+    ima "Allez!"
 
 # game/code/Book-1/Chapter-7w/s08.rpy:155
 translate french b1c07ws08_9d0f870a:
@@ -236,7 +236,7 @@ translate french b1c07ws08_95d96455:
 translate french b1c07ws08_dd6cea61:
 
     # ima "Huh?"
-    ima "Hein ?"
+    ima "Hein?"
 
 # game/code/Book-1/Chapter-7w/s08.rpy:190
 translate french b1c07ws08_38ca3ef1:
@@ -248,7 +248,7 @@ translate french b1c07ws08_38ca3ef1:
 translate french b1c07ws08_c78e5594:
 
     # ima "Oh my God! Are you hard, right now?"
-    ima "Oh mon Dieu ! T'es excité, là ?"
+    ima "Oh mon Dieu! T'es excité, là?"
 
 # game/code/Book-1/Chapter-7w/s08.rpy:194
 translate french b1c07ws08_5679ef56:
@@ -260,13 +260,13 @@ translate french b1c07ws08_5679ef56:
 translate french b1c07ws08_4fa2d76f:
 
     # mc "And what if I am?"
-    mc "Et si c'était le cas ?"
+    mc "Et si c'était le cas?"
 
 # game/code/Book-1/Chapter-7w/s08.rpy:202
 translate french b1c07ws08_2bfcc252:
 
     # mc "I'm here swimming naked with a badass and drop-dead gorgeous woman. Wouldn't it be a little odd if I {i}wasn't{/i} turned on?"
-    mc "Je nage ici nu avec une femme géniale et incroyablement sexy. Ce ne serait pas un peu bizarre si je n'étais pas excité ?"
+    mc "Je nage ici nu avec une femme géniale et incroyablement sexy. Ce ne serait pas un peu bizarre si je n'étais pas excité?"
 
 # game/code/Book-1/Chapter-7w/s08.rpy:204
 translate french b1c07ws08_a035a2dc:
@@ -290,7 +290,7 @@ translate french b1c07ws08_ae1eac84:
 translate french b1c07ws08_e7ff7acb:
 
     # ima "You little—!"
-    ima "Espèce de petit— !"
+    ima "Espèce de petit—!"
 
 # game/code/Book-1/Chapter-7w/s08.rpy:220
 translate french b1c07ws08_fbe2b6a6:
@@ -308,19 +308,19 @@ translate french b1c07ws08_acb0a4a4:
 translate french b1c07ws08_449edecb:
 
     # mc "How do you feel now?"
-    mc "Comment tu te sens maintenant ?"
+    mc "Comment tu te sens maintenant?"
 
 # game/code/Book-1/Chapter-7w/s08.rpy:230
 translate french b1c07ws08_14bad149:
 
     # ima "About what?"
-    ima "À propos de quoi ?"
+    ima "À propos de quoi?"
 
 # game/code/Book-1/Chapter-7w/s08.rpy:233
 translate french b1c07ws08_1749dd42:
 
     # mc "You're not making this easy on me, are you?"
-    mc "Tu ne me facilites pas la tâche, hein ?"
+    mc "Tu ne me facilites pas la tâche, hein?"
 
 # game/code/Book-1/Chapter-7w/s08.rpy:236
 translate french b1c07ws08_fde9c906:
@@ -332,7 +332,7 @@ translate french b1c07ws08_fde9c906:
 translate french b1c07ws08_d73d41f3:
 
     # ima "I barely know you, why would I share how I feel with you?"
-    ima "Je te connais à peine, pourquoi je partagerais mes sentiments avec toi ?"
+    ima "Je te connais à peine, pourquoi je partagerais mes sentiments avec toi?"
 
 # game/code/Book-1/Chapter-7w/s08.rpy:240
 translate french b1c07ws08_719243fa:
@@ -380,7 +380,7 @@ translate french b1c07ws08_4fb3b1f1:
 translate french b1c07ws08_85fd2cad:
 
     # mc "Is she trying to convince you to get back together?"
-    mc "Elle essaie de te convaincre de vous remettre ensemble ?"
+    mc "Elle essaie de te convaincre de vous remettre ensemble?"
 
 # game/code/Book-1/Chapter-7w/s08.rpy:264
 translate french b1c07ws08_835e064b:
@@ -404,7 +404,7 @@ translate french b1c07ws08_bccb2f31:
 translate french b1c07ws08_546ebcfd:
 
     # mc "...Literally or figuratively?"
-    mc "...Littéralement ou figurativement ?"
+    mc "...Littéralement ou figurativement?"
 
 # game/code/Book-1/Chapter-7w/s08.rpy:273
 translate french b1c07ws08_3c8cb570:
@@ -434,7 +434,7 @@ translate french b1c07ws08_db0174a5:
 translate french b1c07ws08_457b7c5d:
 
     # mc "{i}Does{/i} she have the resources?"
-    mc "{i}Est-ce que{/i} elle a les ressources ?"
+    mc "{i}Est-ce que{/i} elle a les ressources?"
 
 # game/code/Book-1/Chapter-7w/s08.rpy:286
 translate french b1c07ws08_14970495:
@@ -446,7 +446,7 @@ translate french b1c07ws08_14970495:
 translate french b1c07ws08_e5ce1e4f:
 
     # mc "Is that why she wants to...\"blow up\" the club?"
-    mc "C'est pour ça qu'elle veut... \"faire sauter\" le club ?"
+    mc "C'est pour ça qu'elle veut... \"faire sauter\" le club?"
 
 # game/code/Book-1/Chapter-7w/s08.rpy:292
 translate french b1c07ws08_e43772b1:
@@ -458,7 +458,7 @@ translate french b1c07ws08_e43772b1:
 translate french b1c07ws08_2106564f:
 
     # mc "Hm. What do you think?"
-    mc "Hm. Et toi, qu'en penses-tu ?"
+    mc "Hm. Et toi, qu'en penses-tu?"
 
 # game/code/Book-1/Chapter-7w/s08.rpy:298
 translate french b1c07ws08_26905dcf:
@@ -476,7 +476,7 @@ translate french b1c07ws08_3131e216:
 translate french b1c07ws08_e9bf363f:
 
     # mc "Okay, but why did she get kicked from the club? What did she do?"
-    mc "D'accord, mais pourquoi elle a été virée du club ? Qu'est-ce qu'elle a fait ?"
+    mc "D'accord, mais pourquoi elle a été virée du club? Qu'est-ce qu'elle a fait?"
 
 # game/code/Book-1/Chapter-7w/s08.rpy:305
 translate french b1c07ws08_a57f953a:
@@ -488,13 +488,13 @@ translate french b1c07ws08_a57f953a:
 translate french b1c07ws08_8a07b618:
 
     # mc "Was this the party with those missing girls?"
-    mc "C'était la fête avec les filles disparues ?"
+    mc "C'était la fête avec les filles disparues?"
 
 # game/code/Book-1/Chapter-7w/s08.rpy:308
 translate french b1c07ws08_c2b2f674:
 
     # ima "Huh? Uh, yeah. God that party was such a clusterfuck."
-    ima "Hein ? Euh, ouais. Mon dieu, cette fête était un vrai bordel."
+    ima "Hein? Euh, ouais. Mon dieu, cette fête était un vrai bordel."
 
 # game/code/Book-1/Chapter-7w/s08.rpy:309
 translate french b1c07ws08_f3b9ae73:
@@ -548,7 +548,7 @@ translate french b1c07ws08_833ff455:
 translate french b1c07ws08_1de7a568:
 
     # mc "Will you?"
-    mc "Est-ce que tu vas le faire ?"
+    mc "Est-ce que tu vas le faire?"
 
 # game/code/Book-1/Chapter-7w/s08.rpy:330
 translate french b1c07ws08_56f68de4:
@@ -578,7 +578,7 @@ translate french b1c07ws08_3e73b407:
 translate french b1c07ws08_b4d0a39c:
 
     # mc "*Chuckles* Do you want some help?"
-    mc "*Rit* Tu veux de l'aide ?"
+    mc "*Rit* Tu veux de l'aide?"
 
 # game/code/Book-1/Chapter-7w/s08.rpy:342
 translate french b1c07ws08_9dd70e70:

@@ -50,7 +50,7 @@ translate french b1c04ns03_261427d5:
 translate french b1c04ns03_c225a3e1:
 
     # mct "Is that guy tailing me?"
-    mct "Est-ce que ce type me suit ?"
+    mct "Est-ce que ce type me suit?"
 
 # game/code/Book-1/Chapter-4n/s03.rpy:40
 translate french b1c04ns03_00273ffa:
@@ -80,13 +80,13 @@ translate french b1c04ns03_36397457:
 translate french b1c04ns03_13c56df2:
 
     # mct "Interesting. Who would be following me?"
-    mct "Intéressant. Qui pourrait bien me suivre ?"
+    mct "Intéressant. Qui pourrait bien me suivre?"
 
 # game/code/Book-1/Chapter-4n/s03.rpy:50
 translate french b1c04ns03_30df187f:
 
     # mct "Could Delphia have sent someone to make sure that I got the blood for her?"
-    mct "Est-ce que Delphia aurait envoyé quelqu'un pour s'assurer que j'ai récupéré le sang pour elle ?"
+    mct "Est-ce que Delphia aurait envoyé quelqu'un pour s'assurer que j'ai récupéré le sang pour elle?"
 
 # game/code/Book-1/Chapter-4n/s03.rpy:59
 translate french b1c04ns03_23e4ecc3:
@@ -158,13 +158,13 @@ translate french b1c04ns03_f4379d28:
 translate french b1c04ns03_c6f2a717:
 
     # sd "Hello. What can I do for you today?"
-    sd "Bonjour. Que puis-je faire pour vous aujourd'hui ?"
+    sd "Bonjour. Que puis-je faire pour vous aujourd'hui?"
 
 # game/code/Book-1/Chapter-4n/s03.rpy:96
 translate french b1c04ns03_d5ef3fdd:
 
     # mc "I'm looking for pig's blood. Do you have any?"
-    mc "Je cherche du sang de cochon. En avez-vous ?"
+    mc "Je cherche du sang de cochon. En avez-vous?"
 
 # game/code/Book-1/Chapter-4n/s03.rpy:99
 translate french b1c04ns03_b2f287d2:
@@ -188,7 +188,7 @@ translate french b1c04ns03_ec66f22f:
 translate french b1c04ns03_073fb99a:
 
     # gd "Whatcha needin' it for?"
-    gd "Pourquoi en avez-vous besoin ?"
+    gd "Pourquoi en avez-vous besoin?"
 
 # game/code/Book-1/Chapter-4n/s03.rpy:110
 translate french b1c04ns03_4134ad4f:
@@ -218,7 +218,7 @@ translate french b1c04ns03_71aa5431:
 translate french b1c04ns03_e8f24259:
 
     # mct "Kiddo? Is he joking?"
-    mct "Gamin ? Est-ce qu'il rigole ?"
+    mct "Gamin? Est-ce qu'il rigole?"
 
 # game/code/Book-1/Chapter-4n/s03.rpy:123
 translate french b1c04ns03_2131991b:
@@ -230,7 +230,7 @@ translate french b1c04ns03_2131991b:
 translate french b1c04ns03_9dc595bc:
 
     # mc "A cult? You believe in that stuff?"
-    mc "Un culte ? Vous croyez à ces choses-là ?"
+    mc "Un culte? Vous croyez à ces choses-là?"
 
 # game/code/Book-1/Chapter-4n/s03.rpy:129
 translate french b1c04ns03_326bd560:
@@ -284,7 +284,7 @@ translate french b1c04ns03_00e1afc7:
 translate french b1c04ns03_4a8f5bcf:
 
     # gd "How much blood ya need?"
-    gd "De combien de sang as-tu besoin ?"
+    gd "De combien de sang as-tu besoin?"
 
 # game/code/Book-1/Chapter-4n/s03.rpy:150
 translate french b1c04ns03_21d3cf41:
@@ -356,7 +356,7 @@ translate french b1c04ns03_46db5837:
 translate french b1c04ns03_abb8efb2:
 
     # gd "But make sure you cook that blood up real good. Don't want no spread of disease, ya hear?"
-    gd "Mais assure-toi de bien cuire ce sang. Je ne veux pas de propagation de maladies, tu m'entends ?"
+    gd "Mais assure-toi de bien cuire ce sang. Je ne veux pas de propagation de maladies, tu m'entends?"
 
 # game/code/Book-1/Chapter-4n/s03.rpy:205
 translate french b1c04ns03_9efa0005:
@@ -374,7 +374,7 @@ translate french b1c04ns03_38258c58:
 translate french b1c04ns03_2d825a13:
 
     # sd "Come again!"
-    sd "Reviens nous voir !"
+    sd "Reviens nous voir!"
 
 # game/code/Book-1/Chapter-4n/s03.rpy:214
 translate french b1c04ns03_4b81c702:

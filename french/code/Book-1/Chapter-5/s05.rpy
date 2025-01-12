@@ -2,7 +2,7 @@
 translate french b1c05s05_6e1dbd5b:
 
     # jh "Hey, [mcname]! Where ya been all day?"
-    jh "Hé, [mcname] ! Où étais-tu passé toute la journée ?"
+    jh "Hé, [mcname]! Où étais-tu passé toute la journée?"
 
 # game/code/Book-1/Chapter-5/s05.rpy:27
 translate french b1c05s05_ee1dc9af:
@@ -26,7 +26,7 @@ translate french b1c05s05_00a8c3ab:
 translate french b1c05s05_eaaa5955:
 
     # mc "Speaking of which, how are you?"
-    mc "Au fait, comment vas-tu ?"
+    mc "Au fait, comment vas-tu?"
 
 # game/code/Book-1/Chapter-5/s05.rpy:38
 translate french b1c05s05_04e80ab8:
@@ -44,7 +44,7 @@ translate french b1c05s05_abb96135:
 translate french b1c05s05_494cf79f:
 
     # mc "Where's Lara?"
-    mc "Où est Lara ?"
+    mc "Où est Lara?"
 
 # game/code/Book-1/Chapter-5/s05.rpy:46
 translate french b1c05s05_60e47831:
@@ -62,7 +62,7 @@ translate french b1c05s05_774e071e:
 translate french b1c05s05_eac0093d:
 
     # mc "Oh, well do you need a study buddy? I can help out if you want."
-    mc "Oh, tu as besoin d'un camarade d'étude ? Je peux t'aider si tu veux."
+    mc "Oh, tu as besoin d'un camarade d'étude? Je peux t'aider si tu veux."
 
 # game/code/Book-1/Chapter-5/s05.rpy:53
 translate french b1c05s05_37efce22:
@@ -74,7 +74,7 @@ translate french b1c05s05_37efce22:
 translate french b1c05s05_66627cba:
 
     # jh "Come sit!"
-    jh "Viens t'asseoir !"
+    jh "Viens t'asseoir!"
 
 # game/code/Book-1/Chapter-5/s05.rpy:58
 translate french b1c05s05_aa3a7bf8:
@@ -86,13 +86,13 @@ translate french b1c05s05_aa3a7bf8:
 translate french b1c05s05_634cf10b:
 
     # mc "Ah, you're not gonna let that go, huh?"
-    mc "Ah, tu ne vas pas lâcher ça, hein ?"
+    mc "Ah, tu ne vas pas lâcher ça, hein?"
 
 # game/code/Book-1/Chapter-5/s05.rpy:64
 translate french b1c05s05_e71bd4b6:
 
     # jh "Nope. I think it's super interesting! What's there to be ashamed of?"
-    jh "Non. Je trouve ça super intéressant ! Pourquoi en avoir honte ?"
+    jh "Non. Je trouve ça super intéressant! Pourquoi en avoir honte?"
 
 # game/code/Book-1/Chapter-5/s05.rpy:65
 translate french b1c05s05_2ba7bbf8:
@@ -104,7 +104,7 @@ translate french b1c05s05_2ba7bbf8:
 translate french b1c05s05_27c971fd:
 
     # mc "Well what if I'm a criminal? I could've done something bad."
-    mc "Et si j'étais un criminel ? J'aurais pu faire quelque chose de mal."
+    mc "Et si j'étais un criminel? J'aurais pu faire quelque chose de mal."
 
 # game/code/Book-1/Chapter-5/s05.rpy:71
 translate french b1c05s05_e76c43c5:
@@ -158,7 +158,7 @@ translate french b1c05s05_65bf1171:
 translate french b1c05s05_f7802034:
 
     # jh "How's your mom? Did they separate?"
-    jh "Et ta mère, comment va-t-elle ? Ils se sont séparés ?"
+    jh "Et ta mère, comment va-t-elle? Ils se sont séparés?"
 
 # game/code/Book-1/Chapter-5/s05.rpy:93
 translate french b1c05s05_e2014b90:
@@ -182,7 +182,7 @@ translate french b1c05s05_af14d894:
 translate french b1c05s05_5f588392:
 
     # mc "Well, he wasn't the best, wasn't the worst. He's human, y'know?"
-    mc "Eh bien, il n'était ni le meilleur, ni le pire. C'est un humain, tu sais ?"
+    mc "Eh bien, il n'était ni le meilleur, ni le pire. C'est un humain, tu sais?"
 
 # game/code/Book-1/Chapter-5/s05.rpy:101
 translate french b1c05s05_9d70fd4d:
@@ -290,7 +290,7 @@ translate french b1c05s05_e2fdbca9:
 translate french b1c05s05_ddea310a:
 
     # mc "She's a rather stubborn girl, isn't she?"
-    mc "C'est une fille plutôt têtue, n'est-ce pas ?"
+    mc "C'est une fille plutôt têtue, n'est-ce pas?"
 
 # game/code/Book-1/Chapter-5/s05.rpy:150
 translate french b1c05s05_34b98730:
@@ -350,7 +350,7 @@ translate french b1c05s05_c4ca3a28:
 translate french b1c05s05_55722ab0:
 
     # jh "Do you, um... Do you want to go bouldering with us sometime?"
-    jh "Est-ce que, euh... tu voudrais venir faire de l'escalade avec nous un jour ?"
+    jh "Est-ce que, euh... tu voudrais venir faire de l'escalade avec nous un jour?"
 
 # game/code/Book-1/Chapter-5/s05.rpy:172
 translate french b1c05s05_c70aca49:
@@ -386,7 +386,7 @@ translate french b1c05s05_557926ef:
 translate french b1c05s05_9ba01b2d:
 
     # jh "R-really?!"
-    jh "V-vraiment ?!"
+    jh "V-vraiment?!"
 
 # game/code/Book-1/Chapter-5/s05.rpy:188
 translate french b1c05s05_78d4be90:
@@ -398,7 +398,7 @@ translate french b1c05s05_78d4be90:
 translate french b1c05s05_f9ee4b87:
 
     # jh "I'll set it up with Lara. This'll be a blast!"
-    jh "Je vais organiser ça avec Lara. Ce sera génial !"
+    jh "Je vais organiser ça avec Lara. Ce sera génial!"
 
 # game/code/Book-1/Chapter-5/s05.rpy:194
 translate french b1c05s05_c942543a:
@@ -410,7 +410,7 @@ translate french b1c05s05_c942543a:
 translate french b1c05s05_71d370c9:
 
     # jh "I'm sure we will!"
-    jh "Je suis sûr qu'on le fera !"
+    jh "Je suis sûr qu'on le fera!"
 
 # game/code/Book-1/Chapter-5/s05.rpy:203
 translate french b1c05s05_dafa8dd1:
@@ -428,7 +428,7 @@ translate french b1c05s05_fe89a5d4:
 translate french b1c05s05_74920eb6:
 
     # jh "C'mon! Don't be so negative. I'm sure we'll all have fun."
-    jh "Allez ! Ne sois pas si négatif. Je suis sûr qu'on s'amusera tous."
+    jh "Allez! Ne sois pas si négatif. Je suis sûr qu'on s'amusera tous."
 
 # game/code/Book-1/Chapter-5/s05.rpy:215
 translate french b1c05s05_dd994c33:
@@ -504,8 +504,9 @@ translate french strings:
 
     # game/code/Book-1/Chapter-5/s05.rpy:175
     old "Sure, I'd love to!"
-    new "Bien sûr, j'adorerais !"
+    new "Bien sûr, j'adorerais!"
 
     # game/code/Book-1/Chapter-5/s05.rpy:175
     old "No thanks."
     new "Non merci."
+

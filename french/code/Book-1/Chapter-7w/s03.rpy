@@ -14,19 +14,19 @@ translate french b1c07ws03_71bf5612:
 translate french b1c07ws03_7a99ff30:
 
     # ima "Yes?"
-    ima "Oui ?"
+    ima "Oui?"
 
 # game/code/Book-1/Chapter-7w/s03.rpy:56
 translate french b1c07ws03_b7cd8ca8:
 
     # mc "*Chuckles* I guess you don't remember me. You threw me out of the mansion, remember?"
-    mc "*Rit* Je suppose que tu ne te souviens pas de moi. Tu m'as jeté dehors de la maison, tu te souviens ?"
+    mc "*Rit* Je suppose que tu ne te souviens pas de moi. Tu m'as jeté dehors de la maison, tu te souviens?"
 
 # game/code/Book-1/Chapter-7w/s03.rpy:59
 translate french b1c07ws03_da393b59:
 
     # ima "Oh my God! I totes forgot! Silly me."
-    ima "Oh mon Dieu ! J'ai totalement oublié ! Quelle idiote."
+    ima "Oh mon Dieu! J'ai totalement oublié! Quelle idiote."
 
 # game/code/Book-1/Chapter-7w/s03.rpy:62
 translate french b1c07ws03_0dbf6a9f:
@@ -38,7 +38,7 @@ translate french b1c07ws03_0dbf6a9f:
 translate french b1c07ws03_e1772bef:
 
     # ima "Anyhoo, nice to properly meet you. I hope there's no bad blood between us, uhm...?"
-    ima "Bref, ravi de te rencontrer correctement. J'espère qu'il n'y a pas de rancune entre nous, euh... ?"
+    ima "Bref, ravi de te rencontrer correctement. J'espère qu'il n'y a pas de rancune entre nous, euh...?"
 
 # game/code/Book-1/Chapter-7w/s03.rpy:69
 translate french b1c07ws03_ee12be68:
@@ -62,13 +62,13 @@ translate french b1c07ws03_6907467e:
 translate french b1c07ws03_a472e723:
 
     # ima "Everything okay?"
-    ima "Tout va bien ?"
+    ima "Tout va bien?"
 
 # game/code/Book-1/Chapter-7w/s03.rpy:87
 translate french b1c07ws03_88f721de:
 
     # mc "There are some people walking around that I've seen going back and forth a few times. Know anything about them?"
-    mc "Il y a des gens qui traînent, et je les ai vus aller et venir plusieurs fois. Tu sais quelque chose à leur sujet ?"
+    mc "Il y a des gens qui traînent, et je les ai vus aller et venir plusieurs fois. Tu sais quelque chose à leur sujet?"
 
 # game/code/Book-1/Chapter-7w/s03.rpy:90
 translate french b1c07ws03_13ab7cef:
@@ -98,7 +98,7 @@ translate french b1c07ws03_66a5117a:
 translate french b1c07ws03_961ff73c:
 
     # mc "Hm? Yes, yeah. Don't worry, there's no bad blood."
-    mc "Hm ? Oui, t'inquiète, il n'y a pas de rancune."
+    mc "Hm? Oui, t'inquiète, il n'y a pas de rancune."
 
 # game/code/Book-1/Chapter-7w/s03.rpy:108
 translate french b1c07ws03_fab1cfe4:
@@ -116,7 +116,7 @@ translate french b1c07ws03_6c7ce9b0:
 translate french b1c07ws03_f550001e:
 
     # ima "You *are* coming to the party, aren't you?"
-    ima "Tu *viens* à la fête, n'est-ce pas ?"
+    ima "Tu *viens* à la fête, n'est-ce pas?"
 
 # game/code/Book-1/Chapter-7w/s03.rpy:117
 translate french b1c07ws03_05bf5c47:
@@ -140,7 +140,7 @@ translate french b1c07ws03_aa6b4e10:
 translate french b1c07ws03_2227a707:
 
     # ima "Aw, that's so sweet!"
-    ima "Oh, c'est tellement mignon !"
+    ima "Oh, c'est tellement mignon!"
 
 # game/code/Book-1/Chapter-7w/s03.rpy:125
 translate french b1c07ws03_9c40b7a3:
@@ -158,7 +158,7 @@ translate french b1c07ws03_c3e0c7ad:
 translate french b1c07ws03_f729c41e:
 
     # ima "You should focus on your training. The tournament is coming up fast!"
-    ima "Tu devrais te concentrer sur ton entraînement. Le tournoi approche vite !"
+    ima "Tu devrais te concentrer sur ton entraînement. Le tournoi approche vite!"
 
 # game/code/Book-1/Chapter-7w/s03.rpy:132
 translate french b1c07ws03_e0213172:
@@ -188,7 +188,7 @@ translate french b1c07ws03_b1c10f6a:
 translate french b1c07ws03_f41ae997:
 
     # ir "[mcname]! You comin'!?"
-    ir "[mcname]! Tu viens !?"
+    ir "[mcname]! Tu viens!?"
 
 # game/code/Book-1/Chapter-7w/s03.rpy:145
 translate french b1c07ws03_0f4ef199:
@@ -206,13 +206,13 @@ translate french b1c07ws03_3a2c884b:
 translate french b1c07ws03_9777ea29:
 
     # ima "You too! Ciao!"
-    ima "Toi aussi ! Ciao !"
+    ima "Toi aussi! Ciao!"
 
 # game/code/Book-1/Chapter-7w/s03.rpy:154
 translate french b1c07ws03_f84d02c4:
 
     # mct "What the hell are they doing? How many times have they gone back and forth now?"
-    mct "Qu'est-ce qu'ils foutent ? Combien de fois ont-ils fait des allers-retours maintenant ?"
+    mct "Qu'est-ce qu'ils foutent? Combien de fois ont-ils fait des allers-retours maintenant?"
 
 translate french strings:
 

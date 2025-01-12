@@ -8,7 +8,7 @@ translate french b1c08ss03_2c6b80cd:
 translate french b1c08ss03_aad0a585:
 
     # mct "I haven't worked anything like this before...but it can't be {i}that{/i} different, right?"
-    mct "Je n'ai jamais travaillé sur quelque chose de ce genre... mais ça ne peut pas être {i}si{/i} différent, non ?"
+    mct "Je n'ai jamais travaillé sur quelque chose de ce genre... mais ça ne peut pas être {i}si{/i} différent, non?"
 
 # game/code/Book-1/Chapter-8s/s03.rpy:27
 translate french b1c08ss03_e36e6a3f:
@@ -38,7 +38,7 @@ translate french b1c08ss03_50658579:
 translate french b1c08ss03_4ab70f22:
 
     # fox "Is it good to go?"
-    fox "C'est prêt à partir ?"
+    fox "C'est prêt à partir?"
 
 # game/code/Book-1/Chapter-8s/s03.rpy:43
 translate french b1c08ss03_86cdcd95:
@@ -104,7 +104,7 @@ translate french b1c08ss03_e41003c1:
 translate french b1c08ss03_b89ad304:
 
     # fox "Where'd you learn to drive boats?"
-    fox "Où as-tu appris à conduire des bateaux ?"
+    fox "Où as-tu appris à conduire des bateaux?"
 
 # game/code/Book-1/Chapter-8s/s03.rpy:65
 translate french b1c08ss03_ff5a671e:
@@ -146,7 +146,7 @@ translate french b1c08ss03_f058b6ab:
 translate french b1c08ss03_1c41b77a:
 
     # fox "How'd you meet Nirmala?"
-    fox "Comment as-tu rencontré Nirmala ?"
+    fox "Comment as-tu rencontré Nirmala?"
 
 # game/code/Book-1/Chapter-8s/s03.rpy:84
 translate french b1c08ss03_e018bb48:
@@ -206,7 +206,7 @@ translate french b1c08ss03_e5e39d86:
 translate french b1c08ss03_6f82e72c:
 
     # fox "Hah! You're funny. Xasan is a suspicious individual. He's very protective of us and our little family of misfits."
-    fox "Hah ! T'es marrant. Xasan est un individu méfiant. Il est très protecteur envers nous et notre petite famille de marginaux."
+    fox "Hah! T'es marrant. Xasan est un individu méfiant. Il est très protecteur envers nous et notre petite famille de marginaux."
 
 # game/code/Book-1/Chapter-8s/s03.rpy:107
 translate french b1c08ss03_3c0ef04f:
@@ -230,7 +230,7 @@ translate french b1c08ss03_8b63de21:
 translate french b1c08ss03_5df80252:
 
     # mc "Are they only cam workers to you?"
-    mc "Ce sont juste des travailleurs de la cam pour toi ?"
+    mc "Ce sont juste des travailleurs de la cam pour toi?"
 
 # game/code/Book-1/Chapter-8s/s03.rpy:117
 translate french b1c08ss03_24d34cf7:
@@ -254,7 +254,7 @@ translate french b1c08ss03_0cb5954e:
 translate french b1c08ss03_6223a0ed:
 
     # mc "That's kind of shallow, isn't it?"
-    mc "C'est un peu superficiel, non ?"
+    mc "C'est un peu superficiel, non?"
 
 # game/code/Book-1/Chapter-8s/s03.rpy:129
 translate french b1c08ss03_5ffa7ec5:
@@ -272,7 +272,7 @@ translate french b1c08ss03_6dedde6a:
 translate french b1c08ss03_9ee24de4:
 
     # fox "What do you mean?"
-    fox "Qu'est-ce que tu veux dire ?"
+    fox "Qu'est-ce que tu veux dire?"
 
 # game/code/Book-1/Chapter-8s/s03.rpy:138
 translate french b1c08ss03_c576e9e0:
@@ -302,13 +302,13 @@ translate french b1c08ss03_fefc537a:
 translate french b1c08ss03_0e9013c7:
 
     # mc "Why is that?"
-    mc "Pourquoi ça ?"
+    mc "Pourquoi ça?"
 
 # game/code/Book-1/Chapter-8s/s03.rpy:149
 translate french b1c08ss03_8670e759:
 
     # fox "I mean, you see my face, right?"
-    fox "Je veux dire, tu vois ma tête, non ?"
+    fox "Je veux dire, tu vois ma tête, non?"
 
 # game/code/Book-1/Chapter-8s/s03.rpy:150
 translate french b1c08ss03_10452464:
@@ -320,7 +320,7 @@ translate french b1c08ss03_10452464:
 translate french b1c08ss03_b61c4883:
 
     # mc "No way. A little thing like you?"
-    mc "Pas possible. Une petite chose comme toi ?"
+    mc "Pas possible. Une petite chose comme toi?"
 
 # game/code/Book-1/Chapter-8s/s03.rpy:158
 translate french b1c08ss03_39e80311:
@@ -362,7 +362,7 @@ translate french b1c08ss03_6e34847b:
 translate french b1c08ss03_a1af331c:
 
     # fox "You probably think I'm a monster for that, huh?"
-    fox "Tu penses probablement que je suis un monstre pour ça, hein ?"
+    fox "Tu penses probablement que je suis un monstre pour ça, hein?"
 
 # game/code/Book-1/Chapter-8s/s03.rpy:173
 translate french b1c08ss03_50fa2669:
@@ -422,7 +422,7 @@ translate french b1c08ss03_c13771dd:
 translate french b1c08ss03_c0201f80:
 
     # fox "I survived, didn't I? Isn't that what matters?"
-    fox "J'ai survécu, non ? N'est-ce pas ça qui compte ?"
+    fox "J'ai survécu, non? N'est-ce pas ça qui compte?"
 
 # game/code/Book-1/Chapter-8s/s03.rpy:195
 translate french b1c08ss03_c60ee507:
@@ -440,7 +440,7 @@ translate french b1c08ss03_112658e0:
 translate french b1c08ss03_edc80ac7:
 
     # fox "Too many mistakes can happen when there's a lot of excitement, y'know? Violence, anger, survival...those are all part of life."
-    fox "Trop d'erreurs peuvent se produire quand il y a trop d'excitation, tu sais ? La violence, la colère, la survie... tout ça fait partie de la vie."
+    fox "Trop d'erreurs peuvent se produire quand il y a trop d'excitation, tu sais? La violence, la colère, la survie... tout ça fait partie de la vie."
 
 # game/code/Book-1/Chapter-8s/s03.rpy:200
 translate french b1c08ss03_aa4d897a:
@@ -470,7 +470,7 @@ translate french b1c08ss03_90e927d2:
 translate french b1c08ss03_efa7d7aa:
 
     # fox "And the ones who like seeing and inflicting pain? I make sure they get what they fucking deserve."
-    fox "Et ceux qui aiment voir et infliger de la douleur ? Je m'assure qu'ils reçoivent ce qu'ils méritent."
+    fox "Et ceux qui aiment voir et infliger de la douleur? Je m'assure qu'ils reçoivent ce qu'ils méritent."
 
 # game/code/Book-1/Chapter-8s/s03.rpy:211
 translate french b1c08ss03_f332ab04:
@@ -494,7 +494,7 @@ translate french b1c08ss03_warehouse_a18833a6:
 translate french b1c08ss03_warehouse_1de1d6cf:
 
     # mc "You think they'd be visible from the windows?"
-    mc "Tu penses qu'on pourrait les voir depuis les fenêtres ?"
+    mc "Tu penses qu'on pourrait les voir depuis les fenêtres?"
 
 # game/code/Book-1/Chapter-8s/s03.rpy:242
 translate french b1c08ss03_warehouse_ff9c392a:
@@ -530,7 +530,7 @@ translate french b1c08ss03_warehouse_e1cd6157:
 translate french b1c08ss03_warehouse_09cd61be:
 
     # mc "We're just...gonna leave them?"
-    mc "On va juste... les laisser ?"
+    mc "On va juste... les laisser?"
 
 # game/code/Book-1/Chapter-8s/s03.rpy:265
 translate french b1c08ss03_warehouse_8d8edb58:

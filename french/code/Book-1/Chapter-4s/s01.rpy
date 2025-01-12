@@ -26,19 +26,19 @@ translate french b1c04ss01_1ac5d0e9:
 translate french b1c04ss01_6edb85f5:
 
     # mct "Where is the gym, anyway?"
-    mct "Où est le gymnase, au fait ?"
+    mct "Où est le gymnase, au fait?"
 
 # game/code/Book-1/Chapter-4s/s01.rpy:20
 translate french b1c04ss01_699878f6:
 
     # mc "Hey!"
-    mc "Hé !"
+    mc "Hé!"
 
 # game/code/Book-1/Chapter-4s/s01.rpy:23
 translate french b1c04ss01_9be4cf5a:
 
     # mc "Excuse me, do you know where the gym is?"
-    mc "Excuse-moi, sais-tu où se trouve le gymnase ?"
+    mc "Excuse-moi, sais-tu où se trouve le gymnase?"
 
 # game/code/Book-1/Chapter-4s/s01.rpy:29
 translate french b1c04ss01_6364b84a:
@@ -68,13 +68,13 @@ translate french b1c04ss01_bda7e8f5:
 translate french b1c04ss01_a75fe74e:
 
     # ir "So...when did you start here?"
-    ir "Alors... quand as-tu commencé ici ?"
+    ir "Alors... quand as-tu commencé ici?"
 
 # game/code/Book-1/Chapter-4s/s01.rpy:42
 translate french b1c04ss01_312048d2:
 
     # mc "Is it that obvious that I'm new?"
-    mc "C'est si évident que je suis nouveau ?"
+    mc "C'est si évident que je suis nouveau?"
 
 # game/code/Book-1/Chapter-4s/s01.rpy:45
 translate french b1c04ss01_3078a4a9:
@@ -92,13 +92,13 @@ translate french b1c04ss01_4cd6de59:
 translate french b1c04ss01_d7d08026:
 
     # mc "I was thinking about joining the volleyball team. Do you know much about them?"
-    mc "Je pensais rejoindre l'équipe de volley. Tu en sais beaucoup à leur sujet ?"
+    mc "Je pensais rejoindre l'équipe de volley. Tu en sais beaucoup à leur sujet?"
 
 # game/code/Book-1/Chapter-4s/s01.rpy:52
 translate french b1c04ss01_7e57bbfe:
 
     # ir "Oh yeah! I'm on the volleyball team."
-    ir "Oh oui ! Je fais partie de l'équipe de volley."
+    ir "Oh oui! Je fais partie de l'équipe de volley."
 
 # game/code/Book-1/Chapter-4s/s01.rpy:57
 translate french b1c04ss01_53b187f3:
@@ -110,7 +110,7 @@ translate french b1c04ss01_53b187f3:
 translate french b1c04ss01_8cc0a348:
 
     # mc "How long have you been on the team?"
-    mc "Depuis combien de temps fais-tu partie de l'équipe ?"
+    mc "Depuis combien de temps fais-tu partie de l'équipe?"
 
 # game/code/Book-1/Chapter-4s/s01.rpy:61
 translate french b1c04ss01_65775263:
@@ -122,7 +122,7 @@ translate french b1c04ss01_65775263:
 translate french b1c04ss01_835b55f6:
 
     # mc "So I won't get bullied for being bad, right?"
-    mc "Donc je ne vais pas me faire harceler parce que je suis mauvais, hein ?"
+    mc "Donc je ne vais pas me faire harceler parce que je suis mauvais, hein?"
 
 # game/code/Book-1/Chapter-4s/s01.rpy:67
 translate french b1c04ss01_94defcf1:
@@ -134,7 +134,7 @@ translate french b1c04ss01_94defcf1:
 translate french b1c04ss01_5f074df5:
 
     # mc "Damn. I'll really need to bring my A-game, huh?"
-    mc "Merde. Je vais vraiment devoir donner le meilleur de moi-même, hein ?"
+    mc "Merde. Je vais vraiment devoir donner le meilleur de moi-même, hein?"
 
 # game/code/Book-1/Chapter-4s/s01.rpy:73
 translate french b1c04ss01_f2a1aab0:
@@ -164,7 +164,7 @@ translate french b1c04ss01_e3284066:
 translate french b1c04ss01_1843e971:
 
     # ir "Yeah? I guess we'll see."
-    ir "Ouais ? On verra bien."
+    ir "Ouais? On verra bien."
 
 # game/code/Book-1/Chapter-4s/s01.rpy:84
 translate french b1c04ss01_fa7d0a87:
@@ -176,19 +176,19 @@ translate french b1c04ss01_fa7d0a87:
 translate french b1c04ss01_9a0f95a8:
 
     # ir "The Winner's Club is hosting a party. What do you think?"
-    ir "Le Winner's Club organise une fête. Qu'en penses-tu ?"
+    ir "Le Winner's Club organise une fête. Qu'en penses-tu?"
 
 # game/code/Book-1/Chapter-4s/s01.rpy:91
 translate french b1c04ss01_e15eb299:
 
     # ir "Is it too soon to party like that?"
-    ir "C'est trop tôt pour faire la fête comme ça ?"
+    ir "C'est trop tôt pour faire la fête comme ça?"
 
 # game/code/Book-1/Chapter-4s/s01.rpy:94
 translate french b1c04ss01_47fd59f2:
 
     # ir "I'm curious. What's your opinion on the matter?"
-    ir "Je suis curieuse. Quel est ton avis sur la question ?"
+    ir "Je suis curieuse. Quel est ton avis sur la question?"
 
 # game/code/Book-1/Chapter-4s/s01.rpy:102
 translate french b01c04ss01m01_87271f56:
@@ -200,13 +200,13 @@ translate french b01c04ss01m01_87271f56:
 translate french b01c04ss01m01_2bbed842:
 
     # mc "The campus deserves something {i}good{/i} to happen, y'know?"
-    mc "Le campus mérite que quelque chose de {i}bon{/i} se passe, tu sais ?"
+    mc "Le campus mérite que quelque chose de {i}bon{/i} se passe, tu sais?"
 
 # game/code/Book-1/Chapter-4s/s01.rpy:106
 translate french b01c04ss01m01_7aadf7f8:
 
     # ir "Exactly! I agree."
-    ir "Exactement ! Je suis d'accord."
+    ir "Exactement! Je suis d'accord."
 
 # game/code/Book-1/Chapter-4s/s01.rpy:109
 translate french b01c04ss01m01_f608fda1:
@@ -266,13 +266,13 @@ translate french b01c04ss01m01_d5e11792:
 translate french b01c04ss01m01_d57980ae:
 
     # mc "Don't you think it's disregarding the severity of the situation?"
-    mc "Tu ne penses pas que c'est minimiser la gravité de la situation ?"
+    mc "Tu ne penses pas que c'est minimiser la gravité de la situation?"
 
 # game/code/Book-1/Chapter-4s/s01.rpy:139
 translate french b01c04ss01m01_1ddf8f80:
 
     # ir "How so? We can't live in fear or sorrow for the rest of our lives."
-    ir "Comment ça ? On ne peut pas vivre dans la peur ou la tristesse pour le reste de nos vies."
+    ir "Comment ça? On ne peut pas vivre dans la peur ou la tristesse pour le reste de nos vies."
 
 # game/code/Book-1/Chapter-4s/s01.rpy:142
 translate french b01c04ss01m01_f2c160cd:
@@ -284,7 +284,7 @@ translate french b01c04ss01m01_f2c160cd:
 translate french b01c04ss01m01_36a8895c:
 
     # ir "Klara, Leia, and Maria wouldn't care, and if they did, dontcha think that'd be selfish of them?"
-    ir "Klara, Leia et Maria s'en ficheraient, et si elles s'en souciaient, tu ne penses pas que ce serait égoïste de leur part ?"
+    ir "Klara, Leia et Maria s'en ficheraient, et si elles s'en souciaient, tu ne penses pas que ce serait égoïste de leur part?"
 
 # game/code/Book-1/Chapter-4s/s01.rpy:146
 translate french b01c04ss01m01_3be9d37c:
@@ -362,22 +362,21 @@ translate french b01c04ss01m01_7208f608:
 translate french b01c04ss01m01_67936760:
 
     # ir "I gotta go change and get ready for practice. See ya later!"
-    ir "Je dois aller me changer et me préparer pour l'entraînement. À plus tard !"
+    ir "Je dois aller me changer et me préparer pour l'entraînement. À plus tard!"
 
 # game/code/Book-1/Chapter-4s/s01.rpy:179
 translate french b01c04ss01m01_c7a91f16:
 
     # mc "Thanks for showing me where the gym is. Bye, Iona!"
-    mc "Merci de m'avoir montré où est la salle de sport. Salut, Iona !"
+    mc "Merci de m'avoir montré où est la salle de sport. Salut, Iona!"
 
 translate french strings:
 
     # game/code/Book-1/Chapter-4s/s01.rpy:95
     old "I like the idea of a party!"
-    new "J'aime l'idée d'une fête !"
+    new "J'aime l'idée d'une fête!"
 
     # game/code/Book-1/Chapter-4s/s01.rpy:95
     old "Isn't it kinda disrespectful?"
-    new "N'est-ce pas un peu irrespectueux ?"
-
+    new "N'est-ce pas un peu irrespectueux?"
 

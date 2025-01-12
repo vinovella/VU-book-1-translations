@@ -2,19 +2,19 @@
 translate french b1c07ws09_9a380ddf:
 
     # mc "Sam?"
-    mc "Sam ?"
+    mc "Sam?"
 
 # game/code/Book-1/Chapter-7w/s09.rpy:49
 translate french b1c07ws09_00e2fe02:
 
     # mc "Sa—?"
-    mc "Sa— ?"
+    mc "Sa—?"
 
 # game/code/Book-1/Chapter-7w/s09.rpy:53
 translate french b1c07ws09_7f6bbbe0:
 
     # mc "*Muffled* Sam!?"
-    mc "*Étouffé* Sam !?"
+    mc "*Étouffé* Sam!?"
 
 # game/code/Book-1/Chapter-7w/s09.rpy:72
 translate french b1c07ws09_db02a5a0:
@@ -80,7 +80,7 @@ translate french b1c07ws09_bj_a5bc808f:
 translate french b1c07ws09_bj_234acca8:
 
     # "Her body feels stiff against you, does she even want to do this?"
-    "Son corps est raide contre toi, est-ce qu'elle veut vraiment faire ça ?"
+    "Son corps est raide contre toi, est-ce qu'elle veut vraiment faire ça?"
 
 # game/code/Book-1/Chapter-7w/s09.rpy:110
 translate french b1c07ws09_bj_9073ddee:
@@ -110,7 +110,7 @@ translate french b1c07ws09_bj_8c6f4900:
 translate french b1c07ws09_bj_75870511:
 
     # sdl "What the... What was that!?"
-    sdl "Qu'est-ce que... C'était quoi ça !?"
+    sdl "Qu'est-ce que... C'était quoi ça!?"
 
 # game/code/Book-1/Chapter-7w/s09.rpy:123
 translate french b1c07ws09_bj_e42537c8:
@@ -152,7 +152,7 @@ translate french b1c07ws09_bj_f0eb21cb:
 translate french b1c07ws09_bj_63e83913:
 
     # mc "What exact—?"
-    mc "Qu'est-ce que— ?"
+    mc "Qu'est-ce que—?"
 
 # game/code/Book-1/Chapter-7w/s09.rpy:143
 translate french b1c07ws09_bj_d545d738:
@@ -200,7 +200,7 @@ translate french b1c07ws09_bj_1737c53a:
 translate french b1c07ws09_bj_ec461fba:
 
     # mct "...Stud?"
-    mct "...Beau gosse ?"
+    mct "...Beau gosse?"
 
 # game/code/Book-1/Chapter-7w/s09.rpy:173
 translate french b1c07ws09_bj_fadff0d7:
@@ -212,13 +212,13 @@ translate french b1c07ws09_bj_fadff0d7:
 translate french b1c07ws09_bj_8699ef4d:
 
     # mc "What— Sam, what are you doing?"
-    mc "Quoi— Sam, qu'est-ce que tu fais ?"
+    mc "Quoi— Sam, qu'est-ce que tu fais?"
 
 # game/code/Book-1/Chapter-7w/s09.rpy:180
 translate french b1c07ws09_bj_54a5c025:
 
     # sdl "Oh? I assume that's what I was supposed to do..."
-    sdl "Oh ? Je suppose que c'est ce que je devais faire..."
+    sdl "Oh? Je suppose que c'est ce que je devais faire..."
 
 # game/code/Book-1/Chapter-7w/s09.rpy:183
 translate french b1c07ws09_bj_dbe58da7:
@@ -236,31 +236,31 @@ translate french b1c07ws09_bj_5f450667:
 translate french b1c07ws09_bj_2e660352:
 
     # sdl "I should get you more comfortable. Would you like that?"
-    sdl "Je devrais te rendre plus à l'aise. Tu voudrais ça ?"
+    sdl "Je devrais te rendre plus à l'aise. Tu voudrais ça?"
 
 # game/code/Book-1/Chapter-7w/s09.rpy:191
 translate french b1c07ws09_bj_a7858dbb:
 
     # sdl "Oh? Would you look at that?"
-    sdl "Oh ? Regarde ça."
+    sdl "Oh? Regarde ça."
 
 # game/code/Book-1/Chapter-7w/s09.rpy:193
 translate french b1c07ws09_bj_6bb7e160:
 
     # sdl "Maybe I should remove my dress too, hm? It isn't fair for you to be the only one naked."
-    sdl "Peut-être que je devrais enlever ma robe aussi, hm ? Ce n'est pas juste que tu sois le seul nu."
+    sdl "Peut-être que je devrais enlever ma robe aussi, hm? Ce n'est pas juste que tu sois le seul nu."
 
 # game/code/Book-1/Chapter-7w/s09.rpy:195
 translate french b1c07ws09_bj_32ac6c5a:
 
     # sdl "Would you like that?"
-    sdl "Tu voudrais ça ?"
+    sdl "Tu voudrais ça?"
 
 # game/code/Book-1/Chapter-7w/s09.rpy:198
 translate french b1c07ws09_bj_c0ebe25d:
 
     # mc "Uh, sure? If you want to."
-    mc "Euh, bien sûr ? Si tu veux."
+    mc "Euh, bien sûr? Si tu veux."
 
 # game/code/Book-1/Chapter-7w/s09.rpy:201
 translate french b1c07ws09_bj_4c8acffd:
@@ -284,7 +284,7 @@ translate french b1c07ws09_bj_336f9482:
 translate french b1c07ws09_bj_f452f774:
 
     # mct "What...is she even wearing?"
-    mct "Qu'est-ce qu'elle porte... au juste ?"
+    mct "Qu'est-ce qu'elle porte... au juste?"
 
 # game/code/Book-1/Chapter-7w/s09.rpy:210
 translate french b1c07ws09_bj_0c887a9a:
@@ -302,7 +302,7 @@ translate french b1c07ws09_bj_bd710938:
 translate french b1c07ws09_bj_bb8e12ac:
 
     # mct "What the hell is this girl doing?"
-    mct "Qu'est-ce que cette fille fait ?"
+    mct "Qu'est-ce que cette fille fait?"
 
 # game/code/Book-1/Chapter-7w/s09.rpy:219
 translate french b1c07ws09_bj_3393ac9b:
@@ -314,7 +314,7 @@ translate french b1c07ws09_bj_3393ac9b:
 translate french b1c07ws09_bj_91d8a70c:
 
     # mc "You okay?"
-    mc "Ça va ?"
+    mc "Ça va?"
 
 # game/code/Book-1/Chapter-7w/s09.rpy:226
 translate french b1c07ws09_bj_66da2971:
@@ -362,13 +362,13 @@ translate french b1c07ws09_bj_d2c4b676:
 translate french b1c07ws09_bj_51a87e8f:
 
     # sdl "Do you want to shove that fat dick down my throat, Stud?"
-    sdl "Tu veux enfoncer ce gros sexe dans ma gorge, beau gosse ?"
+    sdl "Tu veux enfoncer ce gros sexe dans ma gorge, beau gosse?"
 
 # game/code/Book-1/Chapter-7w/s09.rpy:257
 translate french b1c07ws09_bj_ea9564e1:
 
     # mc "Uhm, yes?"
-    mc "Euh, oui ?"
+    mc "Euh, oui?"
 
 # game/code/Book-1/Chapter-7w/s09.rpy:260
 translate french b1c07ws09_bj_59ce19be:
@@ -410,7 +410,7 @@ translate french b1c07ws09_bj_a872577a:
 translate french b1c07ws09_bj_28b76aea:
 
     # mc "You want to be a little slut? Take it then."
-    mc "Tu veux être une petite salope ? Prends-le alors."
+    mc "Tu veux être une petite salope? Prends-le alors."
 
 # game/code/Book-1/Chapter-7w/s09.rpy:299
 translate french b1c07ws09_bj_1a141807:
@@ -464,7 +464,7 @@ translate french b1c07ws09_bj_874cc50d:
 translate french b1c07ws09_bj_95672ec5:
 
     # mc "I am going to cum!"
-    mc "Je vais jouir !"
+    mc "Je vais jouir!"
 
 # game/code/Book-1/Chapter-7w/s09.rpy:345
 translate french b1c07ws09_bj_69fbcff6:
@@ -500,7 +500,7 @@ translate french b1c07ws09_bj_7decb5fd:
 translate french b1c07ws09_bj_1a05e457:
 
     # mct "\"Never expected\"? Has she never given a blowjob before? ...I guess that explains some things."
-    mct "\"Jamais prévu\" ? N'a-t-elle jamais fait de pipe auparavant ? ... Je suppose que cela explique certaines choses."
+    mct "\"Jamais prévu\"? N'a-t-elle jamais fait de pipe auparavant? ... Je suppose que cela explique certaines choses."
 
 # game/code/Book-1/Chapter-7w/s09.rpy:372
 translate french b1c07ws09_bj_73e80589:
@@ -572,7 +572,7 @@ translate french b1c07ws09_talk_307d7e6e:
 translate french b1c07ws09_talk_6a077ba7:
 
     # mct "Is she...patting my head?"
-    mct "Est-ce qu'elle... me tapote la tête ?"
+    mct "Est-ce qu'elle... me tapote la tête?"
 
 # game/code/Book-1/Chapter-7w/s09.rpy:430
 translate french b1c07ws09_talk_03b54b94:
@@ -608,13 +608,13 @@ translate french b1c07ws09_talk_cf8bcd1e:
 translate french b1c07ws09_talk_ca77a3bc:
 
     # mc "What!? {i}You{/i} orchestrated that? How?"
-    mc "Quoi !? {i}Vous{/i} avez orchestré ça ? Comment ?"
+    mc "Quoi!? {i}Vous{/i} avez orchestré ça? Comment?"
 
 # game/code/Book-1/Chapter-7w/s09.rpy:448
 translate french b1c07ws09_talk_e2cfaa11:
 
     # sdl "I couldn't share all my secrets now, could I?"
-    sdl « Je ne pouvais pas partager tous mes secrets maintenant, n'est-ce pas ?
+    sdl "Je ne pouvais pas partager tous mes secrets maintenant, n'est-ce pas?"
 
 # game/code/Book-1/Chapter-7w/s09.rpy:449
 translate french b1c07ws09_talk_8f05b65f:
@@ -638,7 +638,7 @@ translate french b1c07ws09_talk_72fd3260:
 translate french b1c07ws09_talk_564f694a:
 
     # sdl "The tournament is coming up soon, yes?"
-    sdl "Le tournoi arrive bientôt, n'est-ce pas ?"
+    sdl "Le tournoi arrive bientôt, n'est-ce pas?"
 
 # game/code/Book-1/Chapter-7w/s09.rpy:457
 translate french b1c07ws09_talk_b24aa697:
@@ -710,7 +710,7 @@ translate french b1c07ws09_talk_9859cd4b:
 translate french b1c07ws09_talk_ce58cfa1:
 
     # sdl "Having seen your performance compared to her, you would definitely take her position, and maybe even the captain title!"
-    sdl "Après avoir vu votre performance par rapport à elle, vous prendriez certainement sa position, et peut-être même le titre de capitaine !"
+    sdl "Après avoir vu votre performance par rapport à elle, vous prendriez certainement sa position, et peut-être même le titre de capitaine!"
 
 # game/code/Book-1/Chapter-7w/s09.rpy:482
 translate french b1c07ws09_talk_c0093e7f:

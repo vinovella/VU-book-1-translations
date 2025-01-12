@@ -44,7 +44,7 @@ translate french b1c04s04_0da6bfcf:
 translate french b1c04s04_f6519130:
 
     # mot "No! What? When did she go missing?!"
-    mot "Non ! Quoi ? Quand a-t-elle disparu ?!"
+    mot "Non! Quoi? Quand a-t-elle disparu?!"
 
 # game/code/Book-1/Chapter-4/s04.rpy:70
 translate french b1c04s04_33f1dee8:
@@ -56,13 +56,13 @@ translate french b1c04s04_33f1dee8:
 translate french b1c04s04_d4d9969a:
 
     # mot "Phoebe!"
-    mot "Phoebe !"
+    mot "Phoebe!"
 
 # game/code/Book-1/Chapter-4/s04.rpy:76
 translate french b1c04s04_507fbe87:
 
     # mot "Phoebe, where are you?!"
-    mot "Phoebe, où es-tu ?!"
+    mot "Phoebe, où es-tu?!"
 
 # game/code/Book-1/Chapter-4/s04.rpy:88
 translate french b1c04s04_2109ec15:
@@ -98,7 +98,7 @@ translate french b1c04s04_3e727481:
 translate french b1c04s04_4869cf64:
 
     # mct "What the hell?"
-    mct "C'est quoi ce délire ?"
+    mct "C'est quoi ce délire?"
 
 # game/code/Book-1/Chapter-4/s04.rpy:110
 translate french b1c04s04_561695c8:
@@ -116,7 +116,7 @@ translate french b1c04s04_32d843cc:
 translate french b1c04s04_1cc0e165:
 
     # mct "Is this a prank? She doesn't seem the type, but... Why is she being so quiet?"
-    mct "C'est une blague ? Elle n'a pas l'air d'être le genre, mais... Pourquoi est-elle si silencieuse ?"
+    mct "C'est une blague? Elle n'a pas l'air d'être le genre, mais... Pourquoi est-elle si silencieuse?"
 
 # game/code/Book-1/Chapter-4/s04.rpy:116
 translate french b1c04s04_e8eba8cc:
@@ -128,7 +128,7 @@ translate french b1c04s04_e8eba8cc:
 translate french b1c04s04_c6f06d91:
 
     # mc "*whispers* Josie? Where are you—"
-    mc "*chuchote* Josie ? Où vas-tu—"
+    mc "*chuchote* Josie? Où vas-tu—"
 
 # game/code/Book-1/Chapter-4/s04.rpy:121
 translate french b1c04s04_2ae8870d:
@@ -152,7 +152,7 @@ translate french b1c04s04_7d1a797d:
 translate french b1c04s04_50bc0521:
 
     # mct "Where is that girl going at this hour? And why the hell is she naked?"
-    mct "Où va cette fille à cette heure ? Et pourquoi diable est-elle nue ?"
+    mct "Où va cette fille à cette heure? Et pourquoi diable est-elle nue?"
 
 # game/code/Book-1/Chapter-4/s04.rpy:134
 translate french b1c04s04_6bfa0198:

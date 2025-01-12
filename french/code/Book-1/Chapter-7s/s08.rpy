@@ -8,7 +8,7 @@ translate french b1c07ss08_bbe15f9c:
 translate french b1c07ss08_3534f4f6:
 
     # nr "Did you talk to Zemfira yet?"
-    nr "Tu as parlé à Zemfira ?"
+    nr "Tu as parlé à Zemfira?"
 
 # game/code/Book-1/Chapter-7s/s08.rpy:59
 translate french b1c07ss08_4e446706:
@@ -20,19 +20,19 @@ translate french b1c07ss08_4e446706:
 translate french b1c07ss08_e54f6b7b:
 
     # nr "Ugh! Come with me."
-    nr "Pouah ! Viens avec moi."
+    nr "Pouah! Viens avec moi."
 
 # game/code/Book-1/Chapter-7s/s08.rpy:65
 translate french b1c07ss08_c6f1863c:
 
     # mc "Whoa!"
-    mc "Wouah !"
+    mc "Wouah!"
 
 # game/code/Book-1/Chapter-7s/s08.rpy:69
 translate french b1c07ss08_01096e6c:
 
     # nr "Hey handsome. You looking for some company?"
-    nr "Hé, beau gosse. Tu cherches de la compagnie ?"
+    nr "Hé, beau gosse. Tu cherches de la compagnie?"
 
 # game/code/Book-1/Chapter-7s/s08.rpy:70
 translate french b1c07ss08_6e1e9cee:
@@ -44,7 +44,7 @@ translate french b1c07ss08_6e1e9cee:
 translate french b1c07ss08_0a7ee38d:
 
     # mc "Who could resist? Of course I want you."
-    mc "Qui pourrait résister ? Bien sûr que je te veux."
+    mc "Qui pourrait résister? Bien sûr que je te veux."
 
 # game/code/Book-1/Chapter-7s/s08.rpy:80
 translate french b1c07ss08_b6ee711b:
@@ -92,7 +92,7 @@ translate french b1c07ss08_sex_b6045419:
 translate french b1c07ss08_sex_821d5b50:
 
     # mc "Q and Sabrina did that?"
-    mc "Q et Sabrina ont fait ça ?"
+    mc "Q et Sabrina ont fait ça?"
 
 # game/code/Book-1/Chapter-7s/s08.rpy:117
 translate french b1c07ss08_sex_27ea3e9d:
@@ -104,7 +104,7 @@ translate french b1c07ss08_sex_27ea3e9d:
 translate french b1c07ss08_sex_cd82c9f9:
 
     # nr "All you have to do is talk to Zemfira and tell her you redeemed my favor. That's it! Why haven't you done it?"
-    nr "Tout ce que tu as à faire, c'est parler à Zemfira et lui dire que tu as racheté ma faveur. C'est tout ! Pourquoi ne l'as-tu pas fait ?"
+    nr "Tout ce que tu as à faire, c'est parler à Zemfira et lui dire que tu as racheté ma faveur. C'est tout! Pourquoi ne l'as-tu pas fait?"
 
 # game/code/Book-1/Chapter-7s/s08.rpy:121
 translate french b1c07ss08_sex_07af4f82:
@@ -116,7 +116,7 @@ translate french b1c07ss08_sex_07af4f82:
 translate french b1c07ss08_sex_0ce46563:
 
     # nr "Is it because you weren't satisfied with my performance? Is that it?"
-    nr "C'est parce que tu n'as pas été satisfait de ma performance ? C'est ça ?"
+    nr "C'est parce que tu n'as pas été satisfait de ma performance? C'est ça?"
 
 # game/code/Book-1/Chapter-7s/s08.rpy:127
 translate french b1c07ss08_sex_e6c17069:
@@ -140,7 +140,7 @@ translate french b1c07ss08_sex_eef445f4:
 translate french b1c07ss08_sex_c022fc96:
 
     # nr "I bet you know how to show me a good time, hm?"
-    nr "Je parie que tu sais comment me faire passer un bon moment, hein ?"
+    nr "Je parie que tu sais comment me faire passer un bon moment, hein?"
 
 # game/code/Book-1/Chapter-7s/s08.rpy:139
 translate french b1c07ss08_sex_72034e3f:
@@ -176,7 +176,7 @@ translate french b1c07ss08_sex_549f9d76:
 translate french b1c07ss08_sex_f3a14ba9:
 
     # nr "Mm, you're so eager. I must really excite you, huh?"
-    nr "Mm, tu es tellement pressé. Je dois vraiment t'exciter, hein ?"
+    nr "Mm, tu es tellement pressé. Je dois vraiment t'exciter, hein?"
 
 # game/code/Book-1/Chapter-7s/s08.rpy:184
 translate french b1c07ss08_sex_71c2a8ac:
@@ -194,7 +194,7 @@ translate french b1c07ss08_sex_b5978483:
 translate french b1c07ss08_sex_56720359:
 
     # nr "You want me to go deeper?"
-    nr "Tu veux que j'aille plus loin ?"
+    nr "Tu veux que j'aille plus loin?"
 
 # game/code/Book-1/Chapter-7s/s08.rpy:197
 translate french b1c07ss08_sex_13f49cab:
@@ -290,7 +290,7 @@ translate french b1c07ss08_sex_56004800:
 translate french b1c07ss08_sex_11455b53:
 
     # mc "What?"
-    mc "Quoi ?"
+    mc "Quoi?"
 
 # game/code/Book-1/Chapter-7s/s08.rpy:300
 translate french b1c07ss08_sex_f5209a8b:
@@ -320,7 +320,7 @@ translate french b1c07ss08_sex_620a797e:
 translate french b1c07ss08_sex_ee811f67:
 
     # mc "You like bouncing on my cock, don't you, slut?"
-    mc "Tu aimes rebondir sur ma bite, hein, salope ?"
+    mc "Tu aimes rebondir sur ma bite, hein, salope?"
 
 # game/code/Book-1/Chapter-7s/s08.rpy:323
 translate french b1c07ss08_sex_8c17e0b3:
@@ -356,13 +356,13 @@ translate french b1c07ss08_sex_71e68b6d:
 translate french b1c07ss08_sex_86a99459:
 
     # mc "Nirmala, you're such a good girl for me. That's all you want, isn't it? Is to be fucked and pleased?"
-    mc "Nirmala, tu es une si bonne fille pour moi. C'est tout ce que tu veux, n'est-ce pas ? Être baisée et satisfaite ?"
+    mc "Nirmala, tu es une si bonne fille pour moi. C'est tout ce que tu veux, n'est-ce pas? Être baisée et satisfaite?"
 
 # game/code/Book-1/Chapter-7s/s08.rpy:348
 translate french b1c07ss08_sex_6e741c14:
 
     # nr "Oh, oh I'm going to cum!"
-    nr "Oh, oh je vais jouir !"
+    nr "Oh, oh je vais jouir!"
 
 # game/code/Book-1/Chapter-7s/s08.rpy:349
 translate french b1c07ss08_sex_74fc6761:
@@ -404,7 +404,7 @@ translate french b1c07ss08_sex_468b3b51:
 translate french b1c07ss08_sex_66999202:
 
     # nr "Am I wrong to assume you're pleased with my performance?"
-    nr "Ai-je tort de supposer que tu es satisfait de ma performance ?"
+    nr "Ai-je tort de supposer que tu es satisfait de ma performance?"
 
 # game/code/Book-1/Chapter-7s/s08.rpy:395
 translate french b1c07ss08_sex_cee5a66b:
@@ -440,7 +440,7 @@ translate french b1c07ss08_sex_1af63a78:
 translate french b1c07ss08_sex_028fb71d:
 
     # mct "There's an app? Interesting. Maybe I can avoid questions if I figure out a way to get the app instead."
-    mct "Il y a une application ? Intéressant. Peut-être que je peux éviter les questions si je trouve un moyen d'obtenir l'application à la place."
+    mct "Il y a une application? Intéressant. Peut-être que je peux éviter les questions si je trouve un moyen d'obtenir l'application à la place."
 
 # game/code/Book-1/Chapter-7s/s08.rpy:407
 translate french b1c07ss08_sex_e3e59181:
@@ -464,7 +464,7 @@ translate french b1c07ss08_sex_fff03a0f:
 translate french b1c07ss08_sex_5a077d5c:
 
     # nr "Well, I better get going. I'll see ya around, alright?"
-    nr "Bon, je ferais bien d'y aller. On se voit bientôt, d'accord ?"
+    nr "Bon, je ferais bien d'y aller. On se voit bientôt, d'accord?"
 
 # game/code/Book-1/Chapter-7s/s08.rpy:418
 translate french b1c07ss08_sex_606e2d02:
@@ -481,3 +481,4 @@ translate french strings:
     # game/code/Book-1/Chapter-7s/s08.rpy:71
     old "Sorry sweetheart, I'm busy."
     new "Désolé chérie, je suis occupé."
+

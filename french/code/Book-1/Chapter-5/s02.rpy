@@ -8,7 +8,7 @@ translate french b1c05s02_876bda80:
 translate french b1c05s02_5456b87c:
 
     # pm "Matthew! You're earlier than I expected."
-    pm "Matthew ! Tu es plus tôt que je ne l'avais prévu."
+    pm "Matthew! Tu es plus tôt que je ne l'avais prévu."
 
 # game/code/Book-1/Chapter-5/s02.rpy:22
 translate french b1c05s02_4321f21e:
@@ -44,7 +44,7 @@ translate french b1c05s02_1b90ec57:
 translate french b1c05s02_27549380:
 
     # mc "The basement? You gonna tie me up down there and drill me on shooting stances again?"
-    mc "Le sous-sol ? Tu vas m'attacher là-bas et me faire répéter les postures de tir encore une fois ?"
+    mc "Le sous-sol? Tu vas m'attacher là-bas et me faire répéter les postures de tir encore une fois?"
 
 # game/code/Book-1/Chapter-5/s02.rpy:40
 translate french b1c05s02_8939abf2:
@@ -92,7 +92,7 @@ translate french b1c05s02_4637cf13:
 translate french b1c05s02_71d26b31:
 
     # pm "So, what have you discovered so far?"
-    pm "Alors, qu'as-tu découvert jusqu'ici ?"
+    pm "Alors, qu'as-tu découvert jusqu'ici?"
 
 # game/code/Book-1/Chapter-5/s02.rpy:84
 translate french b1c05s02_d0040111:
@@ -110,7 +110,7 @@ translate french b1c05s02_12f9a076:
 translate french b1c05s02_6eb95e05:
 
     # pm "What's the fraternity's name?"
-    pm "Quel est le nom de la fraternité ?"
+    pm "Quel est le nom de la fraternité?"
 
 # game/code/Book-1/Chapter-5/s02.rpy:99
 translate french b1c05s02_d8de455f:
@@ -122,7 +122,7 @@ translate french b1c05s02_d8de455f:
 translate french b1c05s02_84b89906:
 
     # pm "And I assume the volleyball team name is Winners?"
-    pm "Et je suppose que l'équipe de volley s'appelle les Winners ?"
+    pm "Et je suppose que l'équipe de volley s'appelle les Winners?"
 
 # game/code/Book-1/Chapter-5/s02.rpy:105
 translate french b1c05s02_9da675f7:
@@ -170,7 +170,7 @@ translate french b1c05s02_68c39d01:
 translate french b1c05s02_4120f267:
 
     # pm "What about this one? Anything on her?"
-    pm "Et celle-ci ? Tu as quelque chose sur elle ?"
+    pm "Et celle-ci? Tu as quelque chose sur elle?"
 
 # game/code/Book-1/Chapter-5/s02.rpy:127
 translate french b1c05s02_30990710:
@@ -182,7 +182,7 @@ translate french b1c05s02_30990710:
 translate french b1c05s02_7f3c32d3:
 
     # pm "What's next?"
-    pm "Et après ?"
+    pm "Et après?"
 
 # game/code/Book-1/Chapter-5/s02.rpy:133
 translate french b1c05s02_1e290d7f:
@@ -200,7 +200,7 @@ translate french b1c05s02_961ed9e4:
 translate french b1c05s02_d438f37b:
 
     # pm "Who gave you the info?"
-    pm "Qui t'a donné ces informations ?"
+    pm "Qui t'a donné ces informations?"
 
 # game/code/Book-1/Chapter-5/s02.rpy:140
 translate french b1c05s02_4b9cd37a:
@@ -218,7 +218,7 @@ translate french b1c05s02_89ae3b97:
 translate french b1c05s02_c4f15973:
 
     # pm "Person versus person? That's a strange description."
-    pm "Personne contre personne ? C'est une description étrange."
+    pm "Personne contre personne? C'est une description étrange."
 
 # game/code/Book-1/Chapter-5/s02.rpy:147
 translate french b1c05s02_d60f1be7:
@@ -248,7 +248,7 @@ translate french b1c05s02_35519971:
 translate french b1c05s02_14465fbf:
 
     # pm "There's a girl named Foxy?"
-    pm "Il y a une fille qui s'appelle Foxy ?"
+    pm "Il y a une fille qui s'appelle Foxy?"
 
 # game/code/Book-1/Chapter-5/s02.rpy:159
 translate french b1c05s02_fc9a99d3:
@@ -290,7 +290,7 @@ translate french b1c05s02_c0dd7ffb:
 translate french b1c05s02_58de23cb:
 
     # pm "Are they involved in anything?"
-    pm "Est-ce qu'ils sont impliqués dans quelque chose ?"
+    pm "Est-ce qu'ils sont impliqués dans quelque chose?"
 
 # game/code/Book-1/Chapter-5/s02.rpy:183
 translate french b1c05s02_c51b9e6e:
@@ -320,7 +320,7 @@ translate french b1c05s02_6ab2b4bd:
 translate french b1c05s02_aa2c4e2b:
 
     # pm "A self-help group? Like some sort of spiritual community?"
-    pm "Un groupe d'entraide ? Comme une sorte de communauté spirituelle ?"
+    pm "Un groupe d'entraide? Comme une sorte de communauté spirituelle?"
 
 # game/code/Book-1/Chapter-5/s02.rpy:196
 translate french b1c05s02_76a9b0b0:
@@ -392,7 +392,7 @@ translate french b1c05s02_b9a0b337:
 translate french b1c05s02_09ce4d90:
 
     # pm "So what do you think is the connection between the three groups?"
-    pm "Alors, quel lien vois-tu entre les trois groupes ?"
+    pm "Alors, quel lien vois-tu entre les trois groupes?"
 
 # game/code/Book-1/Chapter-5/s02.rpy:251
 translate french b1c05s02_898e4b8e:
@@ -404,7 +404,7 @@ translate french b1c05s02_898e4b8e:
 translate french b1c05s02_5c9b3666:
 
     # pm "Seriously? You don't think that three girls who went missing the same night {i}aren't{/i} connected?"
-    pm "Sérieusement ? Tu ne penses pas que trois filles disparues la même nuit {i}ne soient pas{/i} liées ?"
+    pm "Sérieusement? Tu ne penses pas que trois filles disparues la même nuit {i}ne soient pas{/i} liées?"
 
 # game/code/Book-1/Chapter-5/s02.rpy:257
 translate french b1c05s02_cd77588b:
@@ -440,7 +440,7 @@ translate french b1c05s02_1c376aab:
 translate french b1c05s02_0ff5a94b:
 
     # pm "Diana's obviously your on-campus contact. But what about Ronja Hopkins and Greg Daniels?"
-    pm "Diana est évidemment ton contact sur le campus. Mais qu'en est-il de Ronja Hopkins et Greg Daniels ?"
+    pm "Diana est évidemment ton contact sur le campus. Mais qu'en est-il de Ronja Hopkins et Greg Daniels?"
 
 # game/code/Book-1/Chapter-5/s02.rpy:273
 translate french b1c05s02_2c074eec:
@@ -458,13 +458,13 @@ translate french b1c05s02_98df67e7:
 translate french b1c05s02_4d5609f6:
 
     # pm "Hypothetically, you think these people are connected, right?"
-    pm "Hypothétiquement, tu penses que ces personnes sont liées, n'est-ce pas ?"
+    pm "Hypothétiquement, tu penses que ces personnes sont liées, n'est-ce pas?"
 
 # game/code/Book-1/Chapter-5/s02.rpy:285
 translate french b1c05s02_c0867b85:
 
     # pm "In something that's illegal or at lead shady?"
-    pm "Dans quelque chose d'illégal ou au moins douteux ?"
+    pm "Dans quelque chose d'illégal ou au moins douteux?"
 
 # game/code/Book-1/Chapter-5/s02.rpy:288
 translate french b1c05s02_f800bed0:
@@ -488,7 +488,7 @@ translate french b1c05s02_d8ab887c:
 translate french b1c05s02_4ae26e4b:
 
     # pm "Even Sally and Greg?"
-    pm "Même Sally et Greg ?"
+    pm "Même Sally et Greg?"
 
 # game/code/Book-1/Chapter-5/s02.rpy:308
 translate french b1c05s02_652fd347:
@@ -536,7 +536,7 @@ translate french b1c05s02_f36e5aec:
 translate french b1c05s02_1e2e1c4c:
 
     # pm "And them?"
-    pm "Et eux ?"
+    pm "Et eux?"
 
 # game/code/Book-1/Chapter-5/s02.rpy:333
 translate french b1c05s02_3eb16bed:
@@ -560,7 +560,7 @@ translate french b1c05s02_12a3c9d0:
 translate french b1c05s02_2e961bcf:
 
     # pm "So, do you have any suspects?"
-    pm "Alors, as-tu des suspects ?"
+    pm "Alors, as-tu des suspects?"
 
 # game/code/Book-1/Chapter-5/s02.rpy:344
 translate french b1c05s02_0ab7b9af:
@@ -572,7 +572,7 @@ translate french b1c05s02_0ab7b9af:
 translate french b1c05s02_83c9a756:
 
     # pm "How close is {i}close{/i}?"
-    pm "À quel point, exactement, veux-tu te rapprocher ?"
+    pm "À quel point, exactement, veux-tu te rapprocher?"
 
 # game/code/Book-1/Chapter-5/s02.rpy:350
 translate french b1c05s02_40b625fb:
@@ -584,7 +584,7 @@ translate french b1c05s02_40b625fb:
 translate french b1c05s02_616826ee:
 
     # pm "So, what, you're just gonna seduce and use as many women as you want?"
-    pm "Alors quoi, tu comptes juste séduire et utiliser autant de femmes que tu veux ?"
+    pm "Alors quoi, tu comptes juste séduire et utiliser autant de femmes que tu veux?"
 
 # game/code/Book-1/Chapter-5/s02.rpy:356
 translate french b1c05s02_158788ee:
@@ -674,7 +674,7 @@ translate french b1c05s02_98d19c29:
 translate french b1c05s02_266c1a70:
 
     # pm "Anyway, are there any other details to report?"
-    pm "Bref, y a-t-il d'autres détails à signaler ?"
+    pm "Bref, y a-t-il d'autres détails à signaler?"
 
 # game/code/Book-1/Chapter-5/s02.rpy:392
 translate french b1c05s02_fca52711:
@@ -698,7 +698,7 @@ translate french b1c05s02_290a7473:
 translate french b1c05s02_8e9c6693:
 
     # pm "What is it?"
-    pm "Qu'est-ce que c'est ?"
+    pm "Qu'est-ce que c'est?"
 
 # game/code/Book-1/Chapter-5/s02.rpy:406
 translate french b1c05s02_c3fe13c3:
@@ -734,7 +734,7 @@ translate french b1c05s02_9951e21a:
 translate french b1c05s02_8d9b0541:
 
     # pm "You'd be surprised what you can convince people of if you're a good enough liar. Did she ever see your real mother?"
-    pm "Tu serais surpris de ce que tu peux faire croire aux gens si tu es un bon menteur. Est-ce qu'elle a déjà vu ta vraie mère ?"
+    pm "Tu serais surpris de ce que tu peux faire croire aux gens si tu es un bon menteur. Est-ce qu'elle a déjà vu ta vraie mère?"
 
 # game/code/Book-1/Chapter-5/s02.rpy:422
 translate french b1c05s02_77329a7d:
@@ -800,7 +800,7 @@ translate french b1c05s02_f6382147:
 translate french b1c05s02_6db449c2:
 
     # pm "Hah! That was a low blow. Not that I expect anything else."
-    pm "Ah ! C'était un coup bas. Mais je ne m'attends pas à autre chose de ta part."
+    pm "Ah! C'était un coup bas. Mais je ne m'attends pas à autre chose de ta part."
 
 # game/code/Book-1/Chapter-5/s02.rpy:451
 translate french b1c05s02_03afe053:
@@ -847,3 +847,4 @@ translate french strings:
     # game/code/Book-1/Chapter-5/s02.rpy:397
     old "Investigation Board Reorganized"
     new "Tableau d'enquête réorganisé"
+

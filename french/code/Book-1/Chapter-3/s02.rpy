@@ -15,25 +15,25 @@ translate french b1c03s02_44d109bf:
 translate french b1c03s02_18214a6d:
 
     # "{color=d07318}Girl{/color}" "Hey, Matthew!"
-    "{color=d07318}Fille{/color}" "Hé, Matthew !"
+    "{color=d07318}Fille{/color}" "Hé, Matthew!"
 
 # game/code/Book-1/Chapter-3/s02.rpy:41
 translate french b1c03s02_d15201a3:
 
     # "{color=d07318}Girl{/color}" "Oh my gosh! It's been years. What are you doing here?"
-    "{color=d07318}Fille{/color}" "Oh mon dieu ! Ça fait des années. Que fais-tu ici ?"
+    "{color=d07318}Fille{/color}" "Oh mon dieu! Ça fait des années. Que fais-tu ici?"
 
 # game/code/Book-1/Chapter-3/s02.rpy:48
 translate french b1c03s02_a5f64812:
 
     # mct "How does this girl know my real name?"
-    mct "Comment cette fille connaît-elle mon vrai nom ?"
+    mct "Comment cette fille connaît-elle mon vrai nom?"
 
 # game/code/Book-1/Chapter-3/s02.rpy:50
 translate french b1c03s02_29b0eaff:
 
     # mc "Uhh... hello?"
-    mc "Euh... bonjour ?"
+    mc "Euh... bonjour?"
 
 # game/code/Book-1/Chapter-3/s02.rpy:53
 translate french b1c03s02_2ba5337c:
@@ -57,13 +57,13 @@ translate french b1c03s02_bb65873e:
 translate french b01c03s02m01_bcc3cf58:
 
     # mc "Josephine, right? Wow. You look..."
-    mc "Joséphine, c'est ça ? Wow. Tu as l'air..."
+    mc "Joséphine, c'est ça? Wow. Tu as l'air..."
 
 # game/code/Book-1/Chapter-3/s02.rpy:67
 translate french b01c03s02m01_eac0c75f:
 
     # "{color=d07318}Girl{/color}" "You can call me Josie. I went through quite a change, huh?"
-    "{color=d07318}Fille{/color}" "Tu peux m'appeler Josie. J'ai bien changé, non ?"
+    "{color=d07318}Fille{/color}" "Tu peux m'appeler Josie. J'ai bien changé, non?"
 
 # game/code/Book-1/Chapter-3/s02.rpy:70
 translate french b01c03s02m01_69c25b65:
@@ -117,13 +117,13 @@ translate french b01c03s02m01_6c291c4d:
 translate french b01c03s02m01_24ea03d0:
 
     # mc "Joseph, right? Wow, you look..."
-    mc "Joseph, c'est ça ? Wow, tu as l'air..."
+    mc "Joseph, c'est ça? Wow, tu as l'air..."
 
 # game/code/Book-1/Chapter-3/s02.rpy:97
 translate french b01c03s02m01_2ee5706f:
 
     # "{color=d07318}Girl{/color}" "Quite a change, huh?"
-    "{color=d07318}Fille{/color}" "Sacré changement, non ?"
+    "{color=d07318}Fille{/color}" "Sacré changement, non?"
 
 # game/code/Book-1/Chapter-3/s02.rpy:100
 translate french b01c03s02m01_033a7848:
@@ -135,7 +135,7 @@ translate french b01c03s02m01_033a7848:
 translate french b01c03s02m01_f4bba1b5:
 
     # "{color=d07318}Girl{/color}" "Woman? Yeah... It's a long story. I was going through a lot, and went through a change. I felt like I didn't recognize myself in the mirror, y'know?"
-    "{color=d07318}Fille{/color}" "Une femme ? Ouais... C'est une longue histoire. J'ai traversé beaucoup de choses et j'ai changé. J'avais l'impression de ne pas me reconnaître dans le miroir, tu vois ?"
+    "{color=d07318}Fille{/color}" "Une femme? Ouais... C'est une longue histoire. J'ai traversé beaucoup de choses et j'ai changé. J'avais l'impression de ne pas me reconnaître dans le miroir, tu vois?"
 
 # game/code/Book-1/Chapter-3/s02.rpy:106
 translate french b01c03s02m01_f1792e04:
@@ -177,7 +177,7 @@ translate french b01c03s02m01_a1835044:
 translate french b01c03s02m01_e1b697c7:
 
     # jh "It's been so long, Matthew. What, around five years?"
-    jh "Ça fait tellement longtemps, Matthew. Quoi, environ cinq ans ?"
+    jh "Ça fait tellement longtemps, Matthew. Quoi, environ cinq ans?"
 
 # game/code/Book-1/Chapter-3/s02.rpy:129
 translate french b01c03s02m01_3e63eeb6:
@@ -195,7 +195,7 @@ translate french b01c03s02m01_6cb9149b:
 translate french b01c03s02m01_df10f225:
 
     # jh "Why are you using a different name?"
-    jh "Pourquoi utilises-tu un autre nom ?"
+    jh "Pourquoi utilises-tu un autre nom?"
 
 # game/code/Book-1/Chapter-3/s02.rpy:137
 translate french b01c03s02m01_c860a082:
@@ -207,7 +207,7 @@ translate french b01c03s02m01_c860a082:
 translate french b01c03s02m01_540cf4ca:
 
     # jh "Is it your first day?"
-    jh "C'est ton premier jour ?"
+    jh "C'est ton premier jour?"
 
 # game/code/Book-1/Chapter-3/s02.rpy:142
 translate french b01c03s02m01_db0929c2:
@@ -219,7 +219,7 @@ translate french b01c03s02m01_db0929c2:
 translate french b01c03s02m01_203f69ee:
 
     # jh "Who's your dorm mate?"
-    jh "Qui est ta colocataire ?"
+    jh "Qui est ta colocataire?"
 
 # game/code/Book-1/Chapter-3/s02.rpy:148
 translate french b01c03s02m01_424f09ef:
@@ -231,7 +231,7 @@ translate french b01c03s02m01_424f09ef:
 translate french b01c03s02m01_b0dda818:
 
     # jh "Jesus. I'm sorry— I mean, it's funny, but I'm sorry your first day here has been chaotic. What's your room number?"
-    jh "Oh, désolé— enfin, c'est drôle, mais je suis désolé que ton premier jour ici ait été chaotique. Quel est ton numéro de chambre ?"
+    jh "Oh, désolé— enfin, c'est drôle, mais je suis désolé que ton premier jour ici ait été chaotique. Quel est ton numéro de chambre?"
 
 # game/code/Book-1/Chapter-3/s02.rpy:153
 translate french b01c03s02m01_a1c96a1f:
@@ -261,7 +261,7 @@ translate french b01c03s02m01_6ff02c22:
 translate french b01c03s02m01_8ce2e56b:
 
     # jh "And she screamed at you before storming out?"
-    jh "Et elle t'a crié dessus avant de partir en trombe ?"
+    jh "Et elle t'a crié dessus avant de partir en trombe?"
 
 # game/code/Book-1/Chapter-3/s02.rpy:166
 translate french b01c03s02m01_a87a337b:
@@ -291,13 +291,13 @@ translate french b01c03s02m01_1305e685:
 translate french b1c3s02_memory_cloud_72672372:
 
     # mct "Was that her in the picture?"
-    mct "C'était elle sur la photo ?"
+    mct "C'était elle sur la photo?"
 
 # game/code/Book-1/Chapter-3/s02.rpy:199
 translate french b1c3s02_memory_cloud_222a815e:
 
     # mc "Oh! I saw you in the rock climbing pictures. Do you know Lara well?"
-    mc "Oh ! Je t'ai vu sur les photos d'escalade. Tu connais bien Lara ?"
+    mc "Oh! Je t'ai vu sur les photos d'escalade. Tu connais bien Lara?"
 
 # game/code/Book-1/Chapter-3/s02.rpy:202
 translate french b1c3s02_memory_cloud_7ec9e595:
@@ -309,7 +309,7 @@ translate french b1c3s02_memory_cloud_7ec9e595:
 translate french b1c3s02_memory_cloud_8581ee75:
 
     # mct "Fuck! I live in room with someone who knows my real name!"
-    mct "Merde ! Je vis dans une chambre avec quelqu'un qui connaît mon vrai nom !"
+    mct "Merde! Je vis dans une chambre avec quelqu'un qui connaît mon vrai nom!"
 
 # game/code/Book-1/Chapter-3/s02.rpy:205
 translate french b1c3s02_memory_cloud_f6da4c7d:
@@ -321,7 +321,7 @@ translate french b1c3s02_memory_cloud_f6da4c7d:
 translate french b1c3s02_memory_cloud_dcd53db5:
 
     # mc "What's it like being friends with an attack dog?"
-    mc "C'est comment d'être ami avec un chien de garde ?"
+    mc "C'est comment d'être ami avec un chien de garde?"
 
 # game/code/Book-1/Chapter-3/s02.rpy:211
 translate french b1c3s02_memory_cloud_189832e7:
@@ -333,7 +333,7 @@ translate french b1c3s02_memory_cloud_189832e7:
 translate french b1c3s02_memory_cloud_01af776e:
 
     # jh "It's important to have someone to help you through the hard times in life, right?"
-    jh "C'est important d'avoir quelqu'un pour t'aider dans les moments difficiles de la vie, non ?"
+    jh "C'est important d'avoir quelqu'un pour t'aider dans les moments difficiles de la vie, non?"
 
 # game/code/Book-1/Chapter-3/s02.rpy:215
 translate french b1c3s02_memory_cloud_402eb75f:
@@ -345,7 +345,7 @@ translate french b1c3s02_memory_cloud_402eb75f:
 translate french b1c3s02_memory_cloud_bf37e062:
 
     # jh "Wow! Becoming a worldly man, I see. Y'know...it's nice talking with you again. It's very nostalgic."
-    jh "Wow ! Devenir un homme du monde, je vois. Tu sais... ça fait plaisir de te reparler. C'est très nostalgique."
+    jh "Wow! Devenir un homme du monde, je vois. Tu sais... ça fait plaisir de te reparler. C'est très nostalgique."
 
 # game/code/Book-1/Chapter-3/s02.rpy:221
 translate french b1c3s02_memory_cloud_56e11b5f:
@@ -357,7 +357,7 @@ translate french b1c3s02_memory_cloud_56e11b5f:
 translate french b1c3s02_memory_cloud_424e3f1d:
 
     # mc "Really? I never knew."
-    mc "Vraiment ? Je ne savais pas."
+    mc "Vraiment? Je ne savais pas."
 
 # game/code/Book-1/Chapter-3/s02.rpy:227
 translate french b1c3s02_memory_cloud_b1527049:
@@ -399,7 +399,7 @@ translate french b1c3s02_memory_cloud_ec743ad9:
 translate french b1c3s02_memory_cloud_722c3b10:
 
     # jh "I mean, you're here, right? What's your chosen career nowadays?"
-    jh "Je veux dire, tu es là, non ? Quelle est ta carrière choisie maintenant ?"
+    jh "Je veux dire, tu es là, non? Quelle est ta carrière choisie maintenant?"
 
 # game/code/Book-1/Chapter-3/s02.rpy:246
 translate french b1c3s02_memory_cloud_3fd35315:
@@ -417,7 +417,7 @@ translate french b1c3s02_memory_cloud_19506e5c:
 translate french b1c3s02_memory_cloud_d61769c9:
 
     # mc "That's the goal, isn't it?"
-    mc "C'est l'objectif, non ?"
+    mc "C'est l'objectif, non?"
 
 # game/code/Book-1/Chapter-3/s02.rpy:258
 translate french b1c3s02_memory_cloud_3d40f511:
@@ -429,13 +429,13 @@ translate french b1c3s02_memory_cloud_3d40f511:
 translate french b1c3s02_memory_cloud_dffca17b:
 
     # jh "I understand! I'll go see about Lara's attitude problem."
-    jh "Je comprends ! Je vais aller m'occuper du problème d'attitude de Lara."
+    jh "Je comprends! Je vais aller m'occuper du problème d'attitude de Lara."
 
 # game/code/Book-1/Chapter-3/s02.rpy:264
 translate french b1c3s02_memory_cloud_97050df8:
 
     # mc "Later, Josie!"
-    mc "À plus, Josie !"
+    mc "À plus, Josie!"
 
 translate french strings:
 
@@ -454,3 +454,4 @@ translate french strings:
     # game/code/Book-1/Chapter-3/s02.rpy:179
     old "Remember the painting"
     new "Souviens-toi de la peinture"
+

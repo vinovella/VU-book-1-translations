@@ -1,9 +1,8 @@
-
 # game/code/Book-1/Chapter-4/s00.rpy:88
 translate french b1c04_inv_menu_6d50f296:
 
     # mct "Hmm. I should figure out a game plan. Where should I start?"
-    mct "Hmm. Je devrais établir un plan. Par où commencer ?"
+    mct "Hmm. Je devrais établir un plan. Par où commencer?"
 
 # game/code/Book-1/Chapter-4/s00.rpy:89
 translate french b1c04_inv_menu_8c3899a1:

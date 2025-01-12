@@ -16,7 +16,7 @@ translate french b1c06ws01_9c640aaa:
 # game/code/Book-1/Chapter-6w/s01.rpy:46
 translate french b1c06ws01_77370155:
     # mc "Oh, Hi Iona. What's up?"
-    mc "Oh, salut Iona. Quoi de neuf ?"
+    mc "Oh, salut Iona. Quoi de neuf?"
 
 # game/code/Book-1/Chapter-6w/s01.rpy:47
 translate french b1c06ws01_0d7a2525:
@@ -46,7 +46,7 @@ translate french b1c06ws01_06b38160:
 # game/code/Book-1/Chapter-6w/s01.rpy:68
 translate french b1c06ws01_7816b529:
     # lw "Hey! What are you doing?"
-    lw "Hé ! Que fais-tu ?"
+    lw "Hé! Que fais-tu?"
 
 # game/code/Book-1/Chapter-6w/s01.rpy:69
 translate french b1c06ws01_f5a8e2b8:
@@ -81,7 +81,7 @@ translate french b1c06ws01_0a78693f:
 # game/code/Book-1/Chapter-6w/s01.rpy:85
 translate french b1c06ws01_7e835477:
     # mc "You mentioned practice? No one told me we had practice today."
-    mc "Vous avez mentionné l'entraînement ? Personne ne m'a dit que nous avions un entraînement aujourd'hui."
+    mc "Vous avez mentionné l'entraînement? Personne ne m'a dit que nous avions un entraînement aujourd'hui."
 
 # game/code/Book-1/Chapter-6w/s01.rpy:88
 translate french b1c06ws01_80e6d354:
@@ -116,7 +116,7 @@ translate french b1c06ws01_ba42af9d:
 # game/code/Book-1/Chapter-6w/s01.rpy:104
 translate french b1c06ws01_2ecd17d3:
     # mc "Does the team have a schedule or something?"
-    mc "L'équipe a un emploi du temps ou quelque chose du genre ?"
+    mc "L'équipe a un emploi du temps ou quelque chose du genre?"
 
 # game/code/Book-1/Chapter-6w/s01.rpy:107
 translate french b1c06ws01_a47e80b1:
@@ -131,7 +131,7 @@ translate french b1c06ws01_7d627e0f:
 # game/code/Book-1/Chapter-6w/s01.rpy:113
 translate french b1c06ws01_52c3c2d6:
     # mc "And no one's ever forgotten to show up?"
-    mc "Et personne n'a jamais oublié de venir ?"
+    mc "Et personne n'a jamais oublié de venir?"
 
 # game/code/Book-1/Chapter-6w/s01.rpy:116
 translate french b1c06ws01_a137863a:
@@ -141,7 +141,7 @@ translate french b1c06ws01_a137863a:
 # game/code/Book-1/Chapter-6w/s01.rpy:117
 translate french b1c06ws01_7e044245:
     # ir "If you can't keep a simple schedule in mind and show up on time, are you {i}really{/i} suited to play with the best?"
-    ir "Si tu ne peux pas garder un emploi du temps simple en tête et arriver à l'heure, es-tu {i}vraiment{/i} fait pour jouer avec les meilleurs ?"
+    ir "Si tu ne peux pas garder un emploi du temps simple en tête et arriver à l'heure, es-tu {i}vraiment{/i} fait pour jouer avec les meilleurs?"
 
 # game/code/Book-1/Chapter-6w/s01.rpy:118
 translate french b1c06ws01_68c8d914:
@@ -156,7 +156,7 @@ translate french b1c06ws01_054c5ee0:
 # game/code/Book-1/Chapter-6w/s01.rpy:122
 translate french b1c06ws01_2b1fc14a:
     # mct "Wonder what other \"hidden tests\" there are?"
-    mct "Je me demande quels autres \"tests cachés\" il y a ?"
+    mct "Je me demande quels autres \"tests cachés\" il y a?"
 
 # game/code/Book-1/Chapter-6w/s01.rpy:126
 translate french b1c06ws01_8d401251:
@@ -176,7 +176,7 @@ translate french b1c06ws01_a560ad9b:
 # game/code/Book-1/Chapter-6w/s01.rpy:132
 translate french b1c06ws01_955c7626:
     # ir "Hah! Nah. That's for newbies."
-    ir "Hah ! Non. C'est pour les débutants."
+    ir "Hah! Non. C'est pour les débutants."
 
 # game/code/Book-1/Chapter-6w/s01.rpy:133
 translate french b1c06ws01_59a43347:
@@ -186,7 +186,7 @@ translate french b1c06ws01_59a43347:
 # game/code/Book-1/Chapter-6w/s01.rpy:136
 translate french b1c06ws01_311b5209:
     # mc "What's an inner member?"
-    mc "C'est quoi un membre interne ?"
+    mc "C'est quoi un membre interne?"
 
 # game/code/Book-1/Chapter-6w/s01.rpy:138
 translate french b1c06ws01_c95d78a9:
@@ -211,7 +211,7 @@ translate french b1c06ws01_a73006c2:
 # game/code/Book-1/Chapter-6w/s01.rpy:152
 translate french b1c06ws01_71f63404:
     # lw "My God, I didn't know when she'd leave. Who the hell was that?"
-    lw "Mon Dieu, je ne savais pas quand elle partirait. C'était qui ce gars ?"
+    lw "Mon Dieu, je ne savais pas quand elle partirait. C'était qui ce gars?"
 
 # game/code/Book-1/Chapter-6w/s01.rpy:155
 translate french b1c06ws01_39d70096:
@@ -231,7 +231,7 @@ translate french b1c06ws01_c4d5de40:
 # game/code/Book-1/Chapter-6w/s01.rpy:163
 translate french b1c06ws01_9ba099b3:
     # lw "I don't care if she's surgically sewn to your hip. She was rummaging through our stuff!"
-    lw "Je me fiche qu'elle soit cousue à ta hanche. Elle fouillait dans nos affaires !"
+    lw "Je me fiche qu'elle soit cousue à ta hanche. Elle fouillait dans nos affaires!"
 
 # game/code/Book-1/Chapter-6w/s01.rpy:164
 translate french b1c06ws01_c6f58da3:
@@ -246,17 +246,17 @@ translate french b1c06ws01_26595a25:
 # game/code/Book-1/Chapter-6w/s01.rpy:169
 translate french b1c06ws01_3606583a:
     # lw "Fussy? A whore?"
-    lw "Chiante ? Une salope ?"
+    lw "Chiante? Une salope?"
 
 # game/code/Book-1/Chapter-6w/s01.rpy:171
 translate french b1c06ws01_8a880ef9:
     # mc "Jesus, Lara!"
-    mc "Jésus, Lara !"
+    mc "Jésus, Lara!"
 
 # game/code/Book-1/Chapter-6w/s01.rpy:173
 translate french b1c06ws01_f6ea14ce:
     # lw "C'mon! You can't tell me you didn't notice her being {i}in heat{/i} for you. Don't play dumb."
-    lw "Allez ! Tu ne peux pas me dire que tu n'as pas remarqué qu'elle était {i}en chaleur{/i} pour toi. Ne fais pas l'innocent."
+    lw "Allez! Tu ne peux pas me dire que tu n'as pas remarqué qu'elle était {i}en chaleur{/i} pour toi. Ne fais pas l'innocent."
 
 # game/code/Book-1/Chapter-6w/s01.rpy:176
 translate french b1c06ws01_8cb03d4a:
@@ -291,7 +291,7 @@ translate french b1c06ws01_6336810d:
 # game/code/Book-1/Chapter-6w/s01.rpy:197
 translate french b1c06ws01_c6e487ad:
     # lw "Hey!"
-    lw "Hé !"
+    lw "Hé!"
 
 # game/code/Book-1/Chapter-6w/s01.rpy:200
 translate french b1c06ws01_ec550ec8:
@@ -317,3 +317,4 @@ translate french b1c06ws01_9ccc5ed5:
 translate french b1c06ws01_9b64e055:
     # mc "*Laughs* Of course."
     mc "*Rit* Bien sûr."
+

@@ -26,7 +26,7 @@ translate french b1c07cs10_0e51ee7c:
 translate french b1c07cs10_10276201:
 
     # mc "I live to serve. We can't leave your art unfinished, can we?"
-    mc "Je vis pour servir. On ne peut pas laisser ton art inachevé, n'est-ce pas ?"
+    mc "Je vis pour servir. On ne peut pas laisser ton art inachevé, n'est-ce pas?"
 
 # game/code/Book-1/Chapter-7c/s10.rpy:61
 translate french b1c07cs10_8edf7eef:
@@ -44,7 +44,7 @@ translate french b1c07cs10_6ac22c6d:
 translate french b1c07cs10_68a507f3:
 
     # mc "Straight down to business, eh?"
-    mc "Directement au travail, hein ?"
+    mc "Directement au travail, hein?"
 
 # game/code/Book-1/Chapter-7c/s10.rpy:67
 translate french b1c07cs10_bc39b0e8:
@@ -80,7 +80,7 @@ translate french b1c07cs10_165f4bda:
 translate french b1c07cs10_134961a1:
 
     # mc "Even my boxers? Why?"
-    mc "Même mon boxer ? Pourquoi ?"
+    mc "Même mon boxer? Pourquoi?"
 
 # game/code/Book-1/Chapter-7c/s10.rpy:83
 translate french b1c07cs10_0619854a:
@@ -92,13 +92,13 @@ translate french b1c07cs10_0619854a:
 translate french b1c07cs10_4e246bf8:
 
     # edo "Because I need to see everything about my subject, of course!"
-    edo "Parce que j'ai besoin de voir tout de mon sujet, bien sûr !"
+    edo "Parce que j'ai besoin de voir tout de mon sujet, bien sûr!"
 
 # game/code/Book-1/Chapter-7c/s10.rpy:85
 translate french b1c07cs10_8b8dc69c:
 
     # edo "You said you were here to help finish the project, right? So then remove your boxers!"
-    edo "Tu as dit que tu étais là pour aider à finir le projet, non ? Alors enlève ton boxer !"
+    edo "Tu as dit que tu étais là pour aider à finir le projet, non? Alors enlève ton boxer!"
 
 # game/code/Book-1/Chapter-7c/s10.rpy:88
 translate french b1c07cs10_5f9f2d61:
@@ -164,7 +164,7 @@ translate french b1c07cs10_9f684130:
 translate french b1c07cs10_37977e51:
 
     # edo "There, that's not so bad, is it? Think you can keep that up for me?"
-    edo "Voilà, ce n'est pas si mal, n'est-ce pas ? Tu penses pouvoir tenir ça pour moi ?"
+    edo "Voilà, ce n'est pas si mal, n'est-ce pas? Tu penses pouvoir tenir ça pour moi?"
 
 # game/code/Book-1/Chapter-7c/s10.rpy:139
 translate french b1c07cs10_035aabff:
@@ -176,7 +176,7 @@ translate french b1c07cs10_035aabff:
 translate french b1c07cs10_34c5fcab:
 
     # edo "Good. Let me know if you need more help. I need you nice and hard for me, okay?"
-    edo "Bien. Fais-moi savoir si tu as besoin de plus d'aide. J'ai besoin que tu sois bien dur pour moi, d'accord ?"
+    edo "Bien. Fais-moi savoir si tu as besoin de plus d'aide. J'ai besoin que tu sois bien dur pour moi, d'accord?"
 
 # game/code/Book-1/Chapter-7c/s10.rpy:143
 translate french b1c07cs10_733bea9f:
@@ -200,7 +200,7 @@ translate french b1c07cs10_945f1803:
 translate french b1c07cs10_05754547:
 
     # edo "Maria was always a very free spirit. But you knew that, yes?"
-    edo "Maria était toujours un esprit très libre. Mais tu savais ça, n'est-ce pas ?"
+    edo "Maria était toujours un esprit très libre. Mais tu savais ça, n'est-ce pas?"
 
 # game/code/Book-1/Chapter-7c/s10.rpy:157
 translate french b1c07cs10_f9d85b6c:
@@ -230,7 +230,7 @@ translate french b1c07cs10_3fd2fa34:
 translate french b1c07cs10_b2aba0e3:
 
     # mc "Like what?"
-    mc "Comme quoi ?"
+    mc "Comme quoi?"
 
 # game/code/Book-1/Chapter-7c/s10.rpy:168
 translate french b1c07cs10_30c06bc9:
@@ -254,7 +254,7 @@ translate french b1c07cs10_fc969881:
 translate french b1c07cs10_dae302b5:
 
     # mc "Cult-like? How so?"
-    mc "De type sectaire ? Comment ça ?"
+    mc "De type sectaire? Comment ça?"
 
 # game/code/Book-1/Chapter-7c/s10.rpy:178
 translate french b1c07cs10_feeb1d97:
@@ -272,7 +272,7 @@ translate french b1c07cs10_cbcc9d09:
 translate french b1c07cs10_4b9cb0e4:
 
     # mc "Shit. How intense are we talking here?"
-    mc "Merde. À quel point c'est intense ?"
+    mc "Merde. À quel point c'est intense?"
 
 # game/code/Book-1/Chapter-7c/s10.rpy:183
 translate french b1c07cs10_a187d717:
@@ -284,13 +284,13 @@ translate french b1c07cs10_a187d717:
 translate french b1c07cs10_1e7e00df:
 
     # mct "I need to figure out how dangerous those rituals might've been. Would the community hurt someone for their cause?"
-    mct "Je dois comprendre à quel point ces rituels auraient pu être dangereux. Est-ce que la communauté pourrait faire du mal à quelqu'un pour leur cause ?"
+    mct "Je dois comprendre à quel point ces rituels auraient pu être dangereux. Est-ce que la communauté pourrait faire du mal à quelqu'un pour leur cause?"
 
 # game/code/Book-1/Chapter-7c/s10.rpy:185
 translate french b1c07cs10_b1737154:
 
     # mct "Or was Maria just excitedly exaggerating the details?"
-    mct "Ou est-ce que Maria exagérait simplement les détails avec enthousiasme ?"
+    mct "Ou est-ce que Maria exagérait simplement les détails avec enthousiasme?"
 
 # game/code/Book-1/Chapter-7c/s10.rpy:190
 translate french b1c07cs10_48a9c457:
@@ -326,7 +326,7 @@ translate french b1c07cs10_f662b8ac:
 translate french b1c07cs10_da017304:
 
     # edo "Need more help?"
-    edo "Besoin de plus d'aide ?"
+    edo "Besoin de plus d'aide?"
 
 # game/code/Book-1/Chapter-7c/s10.rpy:205
 translate french b1c07cs10_afdffd0d:
@@ -356,7 +356,7 @@ translate french b1c07cs10_cefc424b:
 translate french b1c07cs10_def052a8:
 
     # edo "You think you can hold that for a few minutes while I work?"
-    edo "Tu penses pouvoir tenir ça quelques minutes pendant que je travaille ?"
+    edo "Tu penses pouvoir tenir ça quelques minutes pendant que je travaille?"
 
 # game/code/Book-1/Chapter-7c/s10.rpy:243
 translate french b1c07cs10_f800bed0:
@@ -422,13 +422,13 @@ translate french b1c07cs10_55810251:
 translate french b1c07cs10_db9ebeb7:
 
     # edo "I bet you're super needy, hm? You wanna skull fuck me?"
-    edo "Je parie que tu es super needy, hein ? Tu veux me baiser la tête ?"
+    edo "Je parie que tu es super needy, hein? Tu veux me baiser la tête?"
 
 # game/code/Book-1/Chapter-7c/s10.rpy:280
 translate french b1c07cs10_51c5f03b:
 
     # mc "Can I?"
-    mc "Je peux ?"
+    mc "Je peux?"
 
 # game/code/Book-1/Chapter-7c/s10.rpy:282
 translate french b1c07cs10_5fb7add9:
@@ -577,3 +577,4 @@ translate french strings:
     # game/code/Book-1/Chapter-7c/s10.rpy:339
     old "Paint her pretty face"
     new "Peignez son joli visage"
+

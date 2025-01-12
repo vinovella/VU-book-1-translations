@@ -128,7 +128,7 @@ translate french b1c07ws10_return_30969239:
 translate french b1c07ws10_return_968efb32:
 
     # mct "If they're willing to spy on us, who knows what else they'd be willing to do?"
-    mct "Si ils sont prêts à nous espionner, qui sait ce qu'ils seraient prêts à faire d'autre ?"
+    mct "Si ils sont prêts à nous espionner, qui sait ce qu'ils seraient prêts à faire d'autre?"
 
 # game/code/Book-1/Chapter-7w/s10.rpy:189
 translate french b1c07ws10_return_a20cefa7:
@@ -141,3 +141,4 @@ translate french b1c07ws10_return_24279348:
 
     # "You try to sleep, but it seems that your brain wants to remember one more important detail..."
     "Tu essaies de dormir, mais il semble que ton cerveau veuille se souvenir d'un dernier détail important..."
+

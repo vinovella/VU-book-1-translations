@@ -68,7 +68,7 @@ translate french b1c04ss04_a64e8bc0:
 translate french b1c04ss04_bc8e520f:
 
     # ir "What made you want to join?"
-    ir "Qu'est-ce qui t'a donné envie de nous rejoindre ?"
+    ir "Qu'est-ce qui t'a donné envie de nous rejoindre?"
 
 # game/code/Book-1/Chapter-4s/s04.rpy:65
 translate french b1c04ss04_e58e324d:
@@ -80,7 +80,7 @@ translate french b1c04ss04_e58e324d:
 translate french b1c04ss04_00bb5abd:
 
     # ir "Wouldn't want to lose that figure, right?"
-    ir "Tu ne voudrais pas perdre cette silhouette, hein ?"
+    ir "Tu ne voudrais pas perdre cette silhouette, hein?"
 
 # game/code/Book-1/Chapter-4s/s04.rpy:69
 translate french b1c04ss04_716019b8:
@@ -110,7 +110,7 @@ translate french b1c04ss04_cdb52e86:
 translate french b1c04ss04_9bf109fd:
 
     # ir "How's a girl supposed to resist you like this?"
-    ir "Comment une fille est censée te résister dans cet état ?"
+    ir "Comment une fille est censée te résister dans cet état?"
 
 # game/code/Book-1/Chapter-4s/s04.rpy:105
 translate french b1c04ss04m01_8d8e7fc4:
@@ -152,7 +152,7 @@ translate french b1c04ss04m01_a9cd7728:
 translate french b1c04ss04m01_3d5e2c35:
 
     # ir "Hard working men like yourself deserve a reward, dontcha think?"
-    ir "Les hommes qui travaillent dur comme vous méritent une récompense, vous ne pensez pas ?"
+    ir "Les hommes qui travaillent dur comme vous méritent une récompense, vous ne pensez pas?"
 
 # game/code/Book-1/Chapter-4s/s04.rpy:147
 translate french b1c04ss04m01_ca67c997:
@@ -278,7 +278,7 @@ translate french b1c04ss04m01_078f7483:
 translate french b1c04ss04m01_ffed6cb2:
 
     # ir "That was a big load for a man who's just finished tryouts. I bet that released a lot of tension, didn't it?"
-    ir "C'était une belle quantité pour un homme qui vient de finir les essais. Je parie que ça a libéré beaucoup de tension, non ?"
+    ir "C'était une belle quantité pour un homme qui vient de finir les essais. Je parie que ça a libéré beaucoup de tension, non?"
 
 # game/code/Book-1/Chapter-4s/s04.rpy:272
 translate french b1c04ss04m01_49e151b5:
@@ -290,7 +290,7 @@ translate french b1c04ss04m01_49e151b5:
 translate french b1c04ss04m01_a9b1d235:
 
     # mc "Christ!"
-    mc "Bon sang !"
+    mc "Bon sang!"
 
 # game/code/Book-1/Chapter-4s/s04.rpy:286
 translate french b1c04ss04m01_ffb20685:

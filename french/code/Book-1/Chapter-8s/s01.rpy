@@ -38,7 +38,7 @@ translate french b1c08ss01_21c32b15:
 translate french b1c08ss01_1629b171:
 
     # mc "Do you wear a mask with everyone else?"
-    mc "Tu portes un masque avec tout le monde ?"
+    mc "Tu portes un masque avec tout le monde?"
 
 # game/code/Book-1/Chapter-8s/s01.rpy:70
 translate french b1c08ss01_cdb3cf8e:
@@ -134,7 +134,7 @@ translate french b1c08ss01_room_ea14a358:
 translate french b1c08ss01_room_9f9dcaf7:
 
     # mc "I like it. {w}Did you spray paint all of this graffiti yourself?"
-    mc "J'aime bien. {w}Tu as peint tous ces graffitis toi-même ?"
+    mc "J'aime bien. {w}Tu as peint tous ces graffitis toi-même?"
 
 # game/code/Book-1/Chapter-8s/s01.rpy:148
 translate french b1c08ss01_room_db0c51bf:
@@ -188,7 +188,7 @@ translate french b1c08ss01_room_b2a8d681:
 translate french b1c08ss01_room_acf029dd:
 
     # zp "You uh, want some music?"
-    zp "Tu, euh, veux un peu de musique ?"
+    zp "Tu, euh, veux un peu de musique?"
 
 # game/code/Book-1/Chapter-8s/s01.rpy:171
 translate french b1c08ss01_room_cd61df0f:
@@ -248,7 +248,7 @@ translate french b1c08ss01_room_82bc5e25:
 translate french b1c08ss01_room_c2e99a98:
 
     # mc "Hot? Exquisite? Tasty looking?"
-    mc "Sexy ? Exquise ? Appétissante ?"
+    mc "Sexy? Exquise? Appétissante?"
 
 # game/code/Book-1/Chapter-8s/s01.rpy:217
 translate french b1c08ss01_room_e9fd78f1:
@@ -386,7 +386,7 @@ translate french b1c08ss01_room_44cb80e6:
 translate french b1c08ss01_room_84417377:
 
     # zp "You haven't seen them?"
-    zp "Tu ne les as pas vus ?"
+    zp "Tu ne les as pas vus?"
 
 # game/code/Book-1/Chapter-8s/s01.rpy:296
 translate french b1c08ss01_room_73633877:
@@ -398,7 +398,7 @@ translate french b1c08ss01_room_73633877:
 translate french b1c08ss01_room_a01fb9df:
 
     # zp "Who was the last to see them? It's not like Nirmala to—"
-    zp "Qui a été le dernier à les voir ? Ce n'est pas dans les habitudes de Nirmala de—"
+    zp "Qui a été le dernier à les voir? Ce n'est pas dans les habitudes de Nirmala de—"
 
 # game/code/Book-1/Chapter-8s/s01.rpy:301
 translate french b1c08ss01_room_963ee6b9:
@@ -416,7 +416,7 @@ translate french b1c08ss01_room_9d899744:
 translate french b1c08ss01_room_f3b3d28f:
 
     # mc "What's wrong?"
-    mc "Qu'est-ce qui se passe ?"
+    mc "Qu'est-ce qui se passe?"
 
 # game/code/Book-1/Chapter-8s/s01.rpy:313
 translate french b1c08ss01_room_bd5e0de8:
@@ -440,7 +440,7 @@ translate french b1c08ss01_room_e4afb5d8:
 translate french b1c08ss01_room_77aab06d:
 
     # zp "You did?"
-    zp "Tu l'as fait ?"
+    zp "Tu l'as fait?"
 
 # game/code/Book-1/Chapter-8s/s01.rpy:325
 translate french b1c08ss01_room_1b9f165e:
@@ -477,5 +477,4 @@ translate french b1c08ss01_room_79e448f6:
 
     # "It seems to be the only words she can choke out with her intense emotions."
     "Ce semblent être les seuls mots qu'elle peut sortir avec ses émotions intenses."
-
 

@@ -2,7 +2,7 @@
 translate french b1c06ss01_30d41e05:
 
     # ffl "Et voilà! We're here."
-    ffl "Et voilà ! Nous y sommes."
+    ffl "Et voilà! Nous y sommes."
 
 # game/code/Book-1/Chapter-6s/s01.rpy:26
 translate french b1c06ss01_f04cc50b:
@@ -26,7 +26,7 @@ translate french b1c06ss01_b1c62650:
 translate french b1c06ss01_8aee0ec7:
 
     # ffl "Almost everyone that sees my place is like \"Why bother? You'll have to eventually leave and take everything down.\" and I'm like..."
-    ffl "Presque tout le monde qui voit mon chez-moi dit \"Pourquoi s'embêter ? Tu devras de toute façon tout enlever un jour.\" et je réponds..."
+    ffl "Presque tout le monde qui voit mon chez-moi dit \"Pourquoi s'embêter? Tu devras de toute façon tout enlever un jour.\" et je réponds..."
 
 # game/code/Book-1/Chapter-6s/s01.rpy:34
 translate french b1c06ss01_6a62af1a:
@@ -38,13 +38,13 @@ translate french b1c06ss01_6a62af1a:
 translate french b1c06ss01_40fbae91:
 
     # mc "You gotta make do with what you got. There's enough depressing shit out there, why make your own place depressing as well?"
-    mc "Faut faire avec ce qu'on a. Il y a assez de trucs déprimants dehors, pourquoi rendre son propre chez-soi aussi déprimant ?"
+    mc "Faut faire avec ce qu'on a. Il y a assez de trucs déprimants dehors, pourquoi rendre son propre chez-soi aussi déprimant?"
 
 # game/code/Book-1/Chapter-6s/s01.rpy:40
 translate french b1c06ss01_4cfa7ee1:
 
     # ffl "Exactly! Finally, a man after my own heart."
-    ffl "Exactement ! Enfin, un homme qui partage mon avis."
+    ffl "Exactement! Enfin, un homme qui partage mon avis."
 
 # game/code/Book-1/Chapter-6s/s01.rpy:43
 translate french b1c06ss01_546c999e:
@@ -62,7 +62,7 @@ translate french b1c06ss01_249ff361:
 translate french b1c06ss01_42cea112:
 
     # mc "Cool guitar. You play?"
-    mc "Super guitare. Tu joues ?"
+    mc "Super guitare. Tu joues?"
 
 # game/code/Book-1/Chapter-6s/s01.rpy:52
 translate french b1c06ss01_e1fb62f3:
@@ -86,7 +86,7 @@ translate french b1c06ss01_10203a26:
 translate french b1c06ss01_429fd0ea:
 
     # mc "Does she have a name?"
-    mc "Elle a un nom ?"
+    mc "Elle a un nom?"
 
 # game/code/Book-1/Chapter-6s/s01.rpy:61
 translate french b1c06ss01_6a505994:
@@ -140,7 +140,7 @@ translate french b1c06ss01_7aea59a7:
 translate french b1c06ss01_b61ba3e4:
 
     # mc "I wonder what happened to that guy?"
-    mc "Je me demande ce qu'il est devenu ?"
+    mc "Je me demande ce qu'il est devenu?"
 
 # game/code/Book-1/Chapter-6s/s01.rpy:79
 translate french b1c06ss01_32d4792d:
@@ -182,7 +182,7 @@ translate french b1c06ss01_647da9b9:
 translate french b1c06ss01_3a7b4853:
 
     # ffl "So you're {i}not{/i} thinking, \"Jesus Christ, what kind of crazy hippie girl did I run into?\""
-    ffl "Donc tu {i}ne{/i} te dis pas, \"Mon Dieu, sur quel genre de fille hippie folle suis-je tombé ?\""
+    ffl "Donc tu {i}ne{/i} te dis pas, \"Mon Dieu, sur quel genre de fille hippie folle suis-je tombé?\""
 
 # game/code/Book-1/Chapter-6s/s01.rpy:98
 translate french b1c06ss01_c05e2f2e:
@@ -200,13 +200,13 @@ translate french b1c06ss01_2f4100be:
 translate french b1c06ss01_21457204:
 
     # mc "Hey! I don't know much about hippie culture, but I do think the art is neat. {w}And for the record, I {i}don't{/i} think you're crazy."
-    mc "Hé ! Je ne connais pas grand-chose à la culture hippie, mais je trouve que l'art est chouette. {w}Et pour info, je ne {i}te{/i} trouve pas folle."
+    mc "Hé! Je ne connais pas grand-chose à la culture hippie, mais je trouve que l'art est chouette. {w}Et pour info, je ne {i}te{/i} trouve pas folle."
 
 # game/code/Book-1/Chapter-6s/s01.rpy:112
 translate french b1c06ss01_312f3ffc:
 
     # ffl "Oh, so you think I'm insane instead?"
-    ffl "Ah, donc tu penses que je suis cinglée à la place ?"
+    ffl "Ah, donc tu penses que je suis cinglée à la place?"
 
 # game/code/Book-1/Chapter-6s/s01.rpy:114
 translate french b1c06ss01_41713718:
@@ -224,7 +224,7 @@ translate french b1c06ss01_64f7bf91:
 translate french b1c06ss01_def0ad19:
 
     # mc "What is it?"
-    mc "Qu'est-ce que c'est ?"
+    mc "Qu'est-ce que c'est?"
 
 # game/code/Book-1/Chapter-6s/s01.rpy:122
 translate french b1c06ss01_ec382380:
@@ -266,19 +266,19 @@ translate french b1c06ss01_70b005c6:
 translate french b1c06ss01_8ea3f50f:
 
     # ffl "Isn't it? I love these sorts of little talismans and whatnot. I think they're neat."
-    ffl "Pas vrai ? J'adore ce genre de petits talismans et autres. Je trouve ça chouette."
+    ffl "Pas vrai? J'adore ce genre de petits talismans et autres. Je trouve ça chouette."
 
 # game/code/Book-1/Chapter-6s/s01.rpy:141
 translate french b1c06ss01_55f2930a:
 
     # mct "Hm, where have I seen that before?"
-    mct "Hm, où ai-je déjà vu ça ?"
+    mct "Hm, où ai-je déjà vu ça?"
 
 # game/code/Book-1/Chapter-6s/s01.rpy:146
 translate french b1c06ss01_69116342:
 
     # mc "What's this about then? Is it supposed to protect you from guns or something?"
-    mc "Et ça, c'est pour quoi ? C'est censé te protéger des armes ou quelque chose comme ça ?"
+    mc "Et ça, c'est pour quoi? C'est censé te protéger des armes ou quelque chose comme ça?"
 
 # game/code/Book-1/Chapter-6s/s01.rpy:148
 translate french b1c06ss01_5b5bbb26:
@@ -296,13 +296,13 @@ translate french b1c06ss01_5d536cf4:
 translate french b1c06ss01_bfd28876:
 
     # mc "Real shit? Might need to get that tattooed somewhere then."
-    mc "Sérieusement ? Je devrais peut-être me faire tatouer ça quelque part alors."
+    mc "Sérieusement? Je devrais peut-être me faire tatouer ça quelque part alors."
 
 # game/code/Book-1/Chapter-6s/s01.rpy:156
 translate french b1c06ss01_30754aff:
 
     # ffl "What, you get into duels often or something?"
-    ffl "Quoi, tu te retrouves souvent en duel ou quoi ?"
+    ffl "Quoi, tu te retrouves souvent en duel ou quoi?"
 
 # game/code/Book-1/Chapter-6s/s01.rpy:158
 translate french b1c06ss01_4b5d648a:
@@ -314,7 +314,7 @@ translate french b1c06ss01_4b5d648a:
 translate french b1c06ss01_0448cadd:
 
     # mc "Seriously though, does it have any meaning behind it?"
-    mc "Sérieusement, ça a une signification particulière ?"
+    mc "Sérieusement, ça a une signification particulière?"
 
 # game/code/Book-1/Chapter-6s/s01.rpy:163
 translate french b1c06ss01_558e4af1:
@@ -326,13 +326,13 @@ translate french b1c06ss01_558e4af1:
 translate french b1c06ss01_3c65aabd:
 
     # mc "Bit of an odd contrast to the other peace and love stuff, isn't it?"
-    mc "Un peu étrange comme contraste avec le reste des trucs paix et amour, non ?"
+    mc "Un peu étrange comme contraste avec le reste des trucs paix et amour, non?"
 
 # game/code/Book-1/Chapter-6s/s01.rpy:168
 translate french b1c06ss01_7f0ddeb9:
 
     # ffl "True, but what's peace and love without some strife and triangles?"
-    ffl "C'est vrai, mais qu'est-ce que la paix et l'amour sans un peu de conflit et de triangles ?"
+    ffl "C'est vrai, mais qu'est-ce que la paix et l'amour sans un peu de conflit et de triangles?"
 
 # game/code/Book-1/Chapter-6s/s01.rpy:171
 translate french b1c06ss01_c5260722:
@@ -356,13 +356,13 @@ translate french b1c06ss01_95e636fd:
 translate french b1c06ss01_99be9322:
 
     # mc "You wanna get to studying?"
-    mc "Tu veux qu'on commence à étudier ?"
+    mc "Tu veux qu'on commence à étudier?"
 
 # game/code/Book-1/Chapter-6s/s01.rpy:179
 translate french b1c06ss01_aaecc756:
 
     # ffl "Oh! Right. Almost completely forgot why we even came here."
-    ffl "Oh ! C'est vrai. J'avais presque complètement oublié pourquoi on est venus ici."
+    ffl "Oh! C'est vrai. J'avais presque complètement oublié pourquoi on est venus ici."
 
 # game/code/Book-1/Chapter-6s/s01.rpy:191
 translate french b1c06ss01_d1e523b4:
@@ -392,7 +392,7 @@ translate french b1c06ss01_9844664a:
 translate french b1c06ss01_d6656f65:
 
     # mc "*Chuckles* Hey, I don't judge. We all need some stress relief sometimes, right?"
-    mc "*Rit* Hé, je ne juge pas. On a tous besoin de décompresser parfois, non ?"
+    mc "*Rit* Hé, je ne juge pas. On a tous besoin de décompresser parfois, non?"
 
 # game/code/Book-1/Chapter-6s/s01.rpy:217
 translate french b1c06ss01_3a41c014:
@@ -404,7 +404,7 @@ translate french b1c06ss01_3a41c014:
 translate french b1c06ss01_45d15e47:
 
     # ffl "Okay, okay, where was I?{w} Dark web, right.{w} So, first things first..."
-    ffl "D'accord, d'accord, où en étais-je ?{w} Dark web, c'est ça.{w} Alors, première chose..."
+    ffl "D'accord, d'accord, où en étais-je?{w} Dark web, c'est ça.{w} Alors, première chose..."
 
 # game/code/Book-1/Chapter-6s/s01.rpy:242
 translate french b1c06ss01_2613db14:
@@ -428,13 +428,13 @@ translate french b1c06ss01_a649cb3c:
 translate french b1c06ss01_f8c4c766:
 
     # mc "Everything alright?"
-    mc "Tout va bien ?"
+    mc "Tout va bien?"
 
 # game/code/Book-1/Chapter-6s/s01.rpy:256
 translate french b1c06ss01_0104a842:
 
     # ffl "Hm? Oh, yeah. It's just Zemfira. Nothing to worry about."
-    ffl "Hm ? Oh, oui. C'est juste Zemfira. Rien d'inquiétant."
+    ffl "Hm? Oh, oui. C'est juste Zemfira. Rien d'inquiétant."
 
 # game/code/Book-1/Chapter-6s/s01.rpy:259
 translate french b1c06ss01_2af5a072:
@@ -446,19 +446,19 @@ translate french b1c06ss01_2af5a072:
 translate french b1c06ss01_6cd77cd2:
 
     # ffl "Of course! We're besties!"
-    ffl "Bien sûr ! On est inséparables !"
+    ffl "Bien sûr! On est inséparables!"
 
 # game/code/Book-1/Chapter-6s/s01.rpy:263
 translate french b1c06ss01_1d60061b:
 
     # mct "Besties? Didn't seem as much, but alright."
-    mct "Inséparables ? Ça n'en avait pas l'air, mais d'accord."
+    mct "Inséparables? Ça n'en avait pas l'air, mais d'accord."
 
 # game/code/Book-1/Chapter-6s/s01.rpy:266
 translate french b1c06ss01_47cfab5f:
 
     # mc "How'd you two meet?"
-    mc "Comment vous vous êtes rencontrées ?"
+    mc "Comment vous vous êtes rencontrées?"
 
 # game/code/Book-1/Chapter-6s/s01.rpy:269
 translate french b1c06ss01_1144589c:
@@ -470,13 +470,13 @@ translate french b1c06ss01_1144589c:
 translate french b1c06ss01_2c2246d7:
 
     # mc "I... What?"
-    mc "Je... Quoi ?"
+    mc "Je... Quoi?"
 
 # game/code/Book-1/Chapter-6s/s01.rpy:274
 translate french b1c06ss01_759e68f5:
 
     # ffl "Surprised? *Giggles* Most people are."
-    ffl "Surpris ? *Rit* La plupart des gens le sont."
+    ffl "Surpris? *Rit* La plupart des gens le sont."
 
 # game/code/Book-1/Chapter-6s/s01.rpy:275
 translate french b1c06ss01_a46085e7:
@@ -488,7 +488,7 @@ translate french b1c06ss01_a46085e7:
 translate french b1c06ss01_d307cbbd:
 
     # ffl "But potato, potata, y'know? She's like the older sister I've always wanted."
-    ffl "Mais bon, une patate reste une patate, tu vois ? C'est comme la grande sœur que j'ai toujours voulu avoir."
+    ffl "Mais bon, une patate reste une patate, tu vois? C'est comme la grande sœur que j'ai toujours voulu avoir."
 
 # game/code/Book-1/Chapter-6s/s01.rpy:279
 translate french b1c06ss01_77554a58:
@@ -506,7 +506,7 @@ translate french b1c06ss01_36eb6bab:
 translate french b1c06ss01_11455b53:
 
     # mc "What?"
-    mc "Quoi ?"
+    mc "Quoi?"
 
 # game/code/Book-1/Chapter-6s/s01.rpy:290
 translate french b1c06ss01_3f334c1a:
@@ -518,7 +518,7 @@ translate french b1c06ss01_3f334c1a:
 translate french b1c06ss01_cc77bccd:
 
     # mc "Oh? Are you jealous?"
-    mc "Oh ? Tu es jalouse ?"
+    mc "Oh? Tu es jalouse?"
 
 # game/code/Book-1/Chapter-6s/s01.rpy:298
 translate french b1c06ss01_2adb1ba2:
@@ -560,19 +560,19 @@ translate french b1c06ss01_e5a460bf:
 translate french b1c06ss01_1f61d7e3:
 
     # ffl "Can you believe that her spiky attitude makes people wary of her?"
-    ffl "Tu te rends compte que son attitude piquante met les gens sur leurs gardes ?"
+    ffl "Tu te rends compte que son attitude piquante met les gens sur leurs gardes?"
 
 # game/code/Book-1/Chapter-6s/s01.rpy:318
 translate french b1c06ss01_7e085b30:
 
     # mc "Who would've ever thought?"
-    mc "Qui l'aurait cru ?"
+    mc "Qui l'aurait cru?"
 
 # game/code/Book-1/Chapter-6s/s01.rpy:321
 translate french b1c06ss01_92842b39:
 
     # ffl "Exactly.{w} Oh! I know. Do you know Guns n' Rosette?"
-    ffl "Exactement.{w} Oh ! Je sais. Tu connais Guns n' Rosette ?"
+    ffl "Exactement.{w} Oh! Je sais. Tu connais Guns n' Rosette?"
 
 # game/code/Book-1/Chapter-6s/s01.rpy:323
 translate french b1c06ss01_5882a379:
@@ -632,13 +632,13 @@ translate french b1c06ss01_45ee6e05:
 translate french b1c06ss01_f748eb1b:
 
     # ffl "Thanks!"
-    ffl "Merci !"
+    ffl "Merci!"
 
 # game/code/Book-1/Chapter-6s/s01.rpy:359
 translate french b1c06ss01_b5f50b93:
 
     # ffl "I'll be back! Byeee!"
-    ffl "Je reviens ! Byeee !"
+    ffl "Je reviens! Byeee!"
 
 # game/code/Book-1/Chapter-6s/s01.rpy:362
 translate french b1c06ss01_6907467e:
@@ -656,7 +656,7 @@ translate french b1c06ss01_3e2a9624:
 translate french b1c06ss01_d19e7794:
 
     # mct "Wonder what happened?"
-    mct "Je me demande ce qui s'est passé ?"
+    mct "Je me demande ce qui s'est passé?"
 
 # game/code/Book-1/Chapter-6s/s01.rpy:366
 translate french b1c06ss01_3ff273cc:
@@ -669,3 +669,4 @@ translate french strings:
     # game/code/Book-1/Chapter-6s/s01.rpy:9
     old "The next morning\nAt Fleur's dorm"
     new "Le lendemain matin\nDans la chambre de Fleur"
+

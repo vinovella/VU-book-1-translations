@@ -8,25 +8,25 @@ translate french b1c07ws04_927b14a2:
 translate french b1c07ws04_abcd4060:
 
     # ir "Took your sweet time buttering up Isa, huh?"
-    ir "Tu as pris ton temps pour flatter Isa, hein ?"
+    ir "Tu as pris ton temps pour flatter Isa, hein?"
 
 # game/code/Book-1/Chapter-7w/s04.rpy:16
 translate french b1c07ws04_026133c5:
 
     # mc "What, jealous?"
-    mc "Quoi, tu es jaloux ?"
+    mc "Quoi, tu es jaloux?"
 
 # game/code/Book-1/Chapter-7w/s04.rpy:19
 translate french b1c07ws04_ac889ec3:
 
     # ir "Do you want me to be?"
-    ir "Tu veux que je le sois ?"
+    ir "Tu veux que je le sois?"
 
 # game/code/Book-1/Chapter-7w/s04.rpy:23
 translate french b1c07ws04_00eda64c:
 
     # ir "What took you so long?"
-    ir "Qu'est-ce qui t'a pris autant de temps ?"
+    ir "Qu'est-ce qui t'a pris autant de temps?"
 
 # game/code/Book-1/Chapter-7w/s04.rpy:26
 translate french b1c07ws04_eccb80c1:
@@ -38,13 +38,13 @@ translate french b1c07ws04_eccb80c1:
 translate french b1c07ws04_d4a41fe3:
 
     # ir "...What—?"
-    ir "...Quoi— ?"
+    ir "...Quoi—?"
 
 # game/code/Book-1/Chapter-7w/s04.rpy:48
 translate french b1c07ws04_fa0597e0:
 
     # ba "Well would you look at that? Pretty boy got some reflexes on him."
-    ba "Eh bien, regarde ça ! Le beau gosse a des réflexes."
+    ba "Eh bien, regarde ça! Le beau gosse a des réflexes."
 
 # game/code/Book-1/Chapter-7w/s04.rpy:52
 translate french b1c07ws04_42883b0e:
@@ -74,7 +74,7 @@ translate french b1c07ws04_6213e7a6:
 translate french b1c07ws04_b046bff5:
 
     # ir "Brig, c'mon. We just started, can you let it rest for a sec?"
-    ir "Brig, allez. On vient de commencer, tu peux laisser ça de côté un instant ?"
+    ir "Brig, allez. On vient de commencer, tu peux laisser ça de côté un instant?"
 
 # game/code/Book-1/Chapter-7w/s04.rpy:70
 translate french b1c07ws04_d5eec850:
@@ -86,7 +86,7 @@ translate french b1c07ws04_d5eec850:
 translate french b1c07ws04_db48dd1a:
 
     # mc "And what exactly is this \"charade\", hm?"
-    mc "Et c'est quoi exactement cette \"comédie\", hein ?"
+    mc "Et c'est quoi exactement cette \"comédie\", hein?"
 
 # game/code/Book-1/Chapter-7w/s04.rpy:76
 translate french b1c07ws04_a15c63c1:
@@ -104,7 +104,7 @@ translate french b1c07ws04_da24203a:
 translate french b1c07ws04_90e35095:
 
     # mc "What the hell is she on about?"
-    mc "C'est quoi son délire ?"
+    mc "C'est quoi son délire?"
 
 # game/code/Book-1/Chapter-7w/s04.rpy:85
 translate french b1c07ws04_b46893f7:
@@ -122,7 +122,7 @@ translate french b1c07ws04_49f8d63e:
 translate french b1c07ws04_5308c47a:
 
     # mc "Wait, seriously?"
-    mc "Attends, sérieusement ?"
+    mc "Attends, sérieusement?"
 
 # game/code/Book-1/Chapter-7w/s04.rpy:94
 translate french b1c07ws04_2c153589:
@@ -140,13 +140,13 @@ translate french b1c07ws04_bc659076:
 translate french b1c07ws04_b2bd17c2:
 
     # mc "Is this really the time to throw accusations around, Brigitta?"
-    mc "C'est vraiment le moment de lancer des accusations, Brigitta ?"
+    mc "C'est vraiment le moment de lancer des accusations, Brigitta?"
 
 # game/code/Book-1/Chapter-7w/s04.rpy:103
 translate french b1c07ws04_fa64eec2:
 
     # ba "Oh? I bet you'd much prefer if we were blind and just went with your shit, huh?"
-    ba "Oh ? Je parie que tu préférerais qu'on soit aveugles et qu'on suive tes conneries, hein ?"
+    ba "Oh? Je parie que tu préférerais qu'on soit aveugles et qu'on suive tes conneries, hein?"
 
 # game/code/Book-1/Chapter-7w/s04.rpy:109
 translate french b1c07ws04_32098716:
@@ -182,7 +182,7 @@ translate french b1c07ws04_24a92e22:
 translate french b1c07ws04_7e4bd5c5:
 
     # mc "And have you even noticed the suspicious people circling the place while you all just lounged around without a care in the world?"
-    mc "Et vous avez même remarqué les gens suspects qui tournaient autour de l'endroit pendant que vous traîniez tous sans vous soucier de rien ?"
+    mc "Et vous avez même remarqué les gens suspects qui tournaient autour de l'endroit pendant que vous traîniez tous sans vous soucier de rien?"
 
 # game/code/Book-1/Chapter-7w/s04.rpy:130
 translate french b1c07ws04_92fd8b9f:
@@ -200,7 +200,7 @@ translate french b1c07ws04_899bcc68:
 translate french b1c07ws04_92cdb6e2:
 
     # ba "Do you all just believe him!?"
-    ba "Vous le croyez tous !?"
+    ba "Vous le croyez tous!?"
 
 # game/code/Book-1/Chapter-7w/s04.rpy:140
 translate french b1c07ws04_bac83f35:
@@ -272,7 +272,7 @@ translate french b1c07ws04_2ef980ee:
 translate french b1c07ws04_2a1f6270:
 
     # mm "A counterintelligence mission, eh? Sign me up!"
-    mm "Une mission de contre-espionnage, hein ? Inscrivez-moi !"
+    mm "Une mission de contre-espionnage, hein? Inscrivez-moi!"
 
 # game/code/Book-1/Chapter-7w/s04.rpy:181
 translate french b1c07ws04_14409332:
@@ -332,7 +332,7 @@ translate french b1c07ws04_a20cefa7:
 translate french b1c07ws04_f3b3d28f:
 
     # mc "What's wrong?"
-    mc "Qu'est-ce qui ne va pas ?"
+    mc "Qu'est-ce qui ne va pas?"
 
 # game/code/Book-1/Chapter-7w/s04.rpy:219
 translate french b1c07ws04_bb5030ad:
@@ -344,7 +344,7 @@ translate french b1c07ws04_bb5030ad:
 translate french b1c07ws04_2876efd9:
 
     # mc "Why?"
-    mc "Pourquoi ?"
+    mc "Pourquoi?"
 
 # game/code/Book-1/Chapter-7w/s04.rpy:229
 translate french b1c07ws04_e44ded8f:
@@ -368,7 +368,7 @@ translate french b1c07ws04_1476088f:
 translate french b1c07ws04_efbaffe0:
 
     # ir "Alright, guys! Huddle!"
-    ir "D'accord, les gars ! Rassemblement !"
+    ir "D'accord, les gars! Rassemblement!"
 
 # game/code/Book-1/Chapter-7w/s04.rpy:305
 translate french b1c07ws04_fd10330d:
@@ -380,7 +380,7 @@ translate french b1c07ws04_fd10330d:
 translate french b1c07ws04_5cd59a6b:
 
     # mm "{size=20}How dumb do they think we are anyway?{/size}"
-    mm "{size=20}Ils nous prennent pour des cons ou quoi ?{/size}"
+    mm "{size=20}Ils nous prennent pour des cons ou quoi?{/size}"
 
 # game/code/Book-1/Chapter-7w/s04.rpy:311
 translate french b1c07ws04_2ed5cecd:
@@ -398,7 +398,7 @@ translate french b1c07ws04_2a481d30:
 translate french b1c07ws04_502fe8a0:
 
     # sl "{size=20}Ambush? Are we gonna try and catch them?{/size}"
-    sl "{size=20}Une embuscade ? On va essayer de les attraper ?{/size}"
+    sl "{size=20}Une embuscade? On va essayer de les attraper?{/size}"
 
 # game/code/Book-1/Chapter-7w/s04.rpy:320
 translate french b1c07ws04_9e7d9212:
@@ -422,7 +422,7 @@ translate french b1c07ws04_ba268cfb:
 translate french b1c07ws04_5b78a41b:
 
     # ba "Of course people would look at us! Doesn't mean that they're fucking spies."
-    ba "Bien sûr que les gens nous regardent ! Ça veut pas dire qu'ils sont des putains d'espions."
+    ba "Bien sûr que les gens nous regardent! Ça veut pas dire qu'ils sont des putains d'espions."
 
 # game/code/Book-1/Chapter-7w/s04.rpy:330
 translate french b1c07ws04_78b1e68e:
@@ -434,7 +434,7 @@ translate french b1c07ws04_78b1e68e:
 translate french b1c07ws04_52a488c3:
 
     # mc "{size=20}They might be spies, they might not be. Wouldn't you rather find out for yourself?{/size}"
-    mc "{size=20}Ils pourraient être des espions, ils pourraient ne pas l'être. Tu ne préférerais pas le découvrir par toi-même ?{/size}"
+    mc "{size=20}Ils pourraient être des espions, ils pourraient ne pas l'être. Tu ne préférerais pas le découvrir par toi-même?{/size}"
 
 # game/code/Book-1/Chapter-7w/s04.rpy:336
 translate french b1c07ws04_1481f17d:
@@ -470,13 +470,13 @@ translate french b1c07ws04_674388f4:
 translate french b1c07ws04_ddf44143:
 
     # ir "{size=20}Alright, everybody ready?{/size}"
-    ir "{size=20}D'accord, tout le monde est prêt ?{/size}"
+    ir "{size=20}D'accord, tout le monde est prêt?{/size}"
 
 # game/code/Book-1/Chapter-7w/s04.rpy:357
 translate french b1c07ws04_5bf39726:
 
     # "Everyone" "Three, two, one, go!"
-    "Everyone" "Trois, deux, un, partez !"
+    "Everyone" "Trois, deux, un, partez!"
 
 # game/code/Book-1/Chapter-7w/s04.rpy:371
 translate french b1c07ws04_37718412:
@@ -488,43 +488,43 @@ translate french b1c07ws04_37718412:
 translate french b1c07ws04_20d8cb52:
 
     # "Spy One" "Fuck! Run!"
-    "Spy One" "Merde ! Cours !"
+    "Spy One" "Merde! Cours!"
 
 # game/code/Book-1/Chapter-7w/s04.rpy:395
 translate french b1c07ws04_37d59da1:
 
     # ir "How about these apples you sons of bitches!?"
-    ir "Et ces pommes alors, bande de salauds !?"
+    ir "Et ces pommes alors, bande de salauds!?"
 
 # game/code/Book-1/Chapter-7w/s04.rpy:398
 translate french b1c07ws04_52e1f6c8:
 
     # "Spy Two" "C'mon! We can go through him!"
-    "Spy Two" "Venez ! On peut passer par lui !"
+    "Spy Two" "Venez! On peut passer par lui!"
 
 # game/code/Book-1/Chapter-7w/s04.rpy:431
 translate french b1c07ws04_fe6c2292:
 
     # "Spy Two" "Fuck all of you!"
-    "Spy Two" "Allez tous vous faire foutre !"
+    "Spy Two" "Allez tous vous faire foutre!"
 
 # game/code/Book-1/Chapter-7w/s04.rpy:443
 translate french b1c07ws04_4bd7c301:
 
     # mm "And don't come back!"
-    mm "Et ne revenez pas !"
+    mm "Et ne revenez pas!"
 
 # game/code/Book-1/Chapter-7w/s04.rpy:446
 translate french b1c07ws04_297eb6ba:
 
     # ir "That was fuckin' amazing!"
-    ir "C'était putain de génial !"
+    ir "C'était putain de génial!"
 
 # game/code/Book-1/Chapter-7w/s04.rpy:449
 translate french b1c07ws04_2d2e86d8:
 
     # sl "We showed those bastards not to mess with the Winners!"
-    sl "On a montré à ces salauds qu'il ne faut pas s'attaquer aux Winners !"
+    sl "On a montré à ces salauds qu'il ne faut pas s'attaquer aux Winners!"
 
 # game/code/Book-1/Chapter-7w/s04.rpy:451
 translate french b1c07ws04_aa30840e:

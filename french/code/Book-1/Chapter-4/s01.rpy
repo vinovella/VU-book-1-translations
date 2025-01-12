@@ -8,7 +8,7 @@ translate french b1c04m1_26c42884:
 translate french b1c04m1_699de584:
 
     # mc "No, you guys didn't wake me at all. You're up super early, though. How long have you been helping Lara study?"
-    mc "Non, vous ne m'avez pas réveillé du tout. Mais vous êtes levées super tôt. Depuis combien de temps aides-tu Lara à étudier ?"
+    mc "Non, vous ne m'avez pas réveillé du tout. Mais vous êtes levées super tôt. Depuis combien de temps aides-tu Lara à étudier?"
 
 # game/code/Book-1/Chapter-4/s01.rpy:41
 translate french b1c04m1_93d37109:
@@ -110,7 +110,7 @@ translate french b1c04m1_2d77224e:
 translate french b1c04m1_b63388e4:
 
     # jh "Bye, [mcname]!"
-    jh "Salut, [mcname] !"
+    jh "Salut, [mcname]!"
 
 # game/code/Book-1/Chapter-4/s01.rpy:93
 translate french b1c04m1_1dc21a68:

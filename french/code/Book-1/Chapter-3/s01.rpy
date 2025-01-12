@@ -3,13 +3,13 @@
 translate french b1c03s01_44ce4069:
 
     # zp "Simon, wait!"
-    zp "Simon, attends !"
+    zp "Simon, attends!"
 
 # game/code/Book-1/Chapter-3/s01.rpy:46
 translate french b1c03s01_d3ec48b3:
 
     # mc "What the hell?"
-    mc "Qu'est-ce que c'est que ça ?"
+    mc "Qu'est-ce que c'est que ça?"
 
 # game/code/Book-1/Chapter-3/s01.rpy:55
 translate french b1c03s01_caddc73b:
@@ -21,13 +21,13 @@ translate french b1c03s01_caddc73b:
 translate french b1c03s01_150d2fe1:
 
     # "{color=#e16b8f}Girl{/color}" "What's going on?"
-    "{color=#e16b8f}Fille{/color}" "Qu'est-ce qui se passe ?"
+    "{color=#e16b8f}Fille{/color}" "Qu'est-ce qui se passe?"
 
 # game/code/Book-1/Chapter-3/s01.rpy:63
 translate french b1c03s01_7a8ef402:
 
     # "{color=#e16b8f}Girl{/color}" "Did Simon get his ass beat?"
-    "{color=#e16b8f}Fille{/color}" "Est-ce que Simon s'est fait démolir ?"
+    "{color=#e16b8f}Fille{/color}" "Est-ce que Simon s'est fait démolir?"
 
 # game/code/Book-1/Chapter-3/s01.rpy:66
 translate french b1c03s01_6f70dfbf:
@@ -39,7 +39,7 @@ translate french b1c03s01_6f70dfbf:
 translate french b1c03s01_955f515f:
 
     # sl "Who are you? What are you doing here?"
-    sl "Qui es-tu ? Que fais-tu ici ?"
+    sl "Qui es-tu? Que fais-tu ici?"
 
 # game/code/Book-1/Chapter-3/s01.rpy:73
 translate french b1c03s01_ce070ee3:
@@ -63,7 +63,7 @@ translate french b1c03s01_8b806a01:
 translate french b1c03s01_8656cd70:
 
     # sl "Hey, are you okay in there?"
-    sl "Hé, ça va là-dedans ?"
+    sl "Hé, ça va là-dedans?"
 
 # game/code/Book-1/Chapter-3/s01.rpy:86
 translate french b1c03s01_a4db69b5:
@@ -87,7 +87,7 @@ translate french b1c03s01_a62a79b2:
 translate french b1c03s01_e05e8f66:
 
     # sl "Well how do we know he didn't kill her and shove her body under the bed?"
-    sl "Et comment on sait qu'il ne l'a pas tuée et planquée sous le lit ?"
+    sl "Et comment on sait qu'il ne l'a pas tuée et planquée sous le lit?"
 
 # game/code/Book-1/Chapter-3/s01.rpy:98
 translate french b1c03s01_d7bf54fa:
@@ -99,7 +99,7 @@ translate french b1c03s01_d7bf54fa:
 translate french b1c03s01_26b23f5b:
 
     # sl "Aren't you worried about your neighbor? It'd be horrible if she went missing, right?"
-    sl "Tu ne t'inquiètes pas pour ta voisine ? Ce serait horrible si elle disparaissait, non ?"
+    sl "Tu ne t'inquiètes pas pour ta voisine? Ce serait horrible si elle disparaissait, non?"
 
 # game/code/Book-1/Chapter-3/s01.rpy:104
 translate french b1c03s01_b409741c:
@@ -117,7 +117,7 @@ translate french b1c03s01_a4eb481f:
 translate french b01c03s01m01_7fb7d15d:
 
     # mc "Are you fucking braindead? She's just trying to help."
-    mc "T'es complètement con ou quoi ? Elle essaie juste d'aider."
+    mc "T'es complètement con ou quoi? Elle essaie juste d'aider."
 
 # game/code/Book-1/Chapter-3/s01.rpy:119
 translate french b01c03s01m01_a60cdaa8:
@@ -135,7 +135,7 @@ translate french b01c03s01m01_35db9d7d:
 translate french b01c03s01m01_7f37c179:
 
     # sl "No! I just wanted to make sure you weren't an abductor!"
-    sl "Non ! Je voulais juste m'assurer que tu n'étais pas un kidnappeur !"
+    sl "Non! Je voulais juste m'assurer que tu n'étais pas un kidnappeur!"
 
 # game/code/Book-1/Chapter-3/s01.rpy:128
 translate french b01c03s01m01_b998db34:
@@ -147,19 +147,19 @@ translate french b01c03s01m01_b998db34:
 translate french b01c03s01m01_f62431eb:
 
     # zp "Jesus, Delphia! Stay out of it."
-    zp "Jésus, Delphia ! Mélange-toi pas de ça."
+    zp "Jésus, Delphia! Mélange-toi pas de ça."
 
 # game/code/Book-1/Chapter-3/s01.rpy:134
 translate french b01c03s01m01_dff863d3:
 
     # mc "Do I fucking look like an abductor?"
-    mc "J'ai l'air d'un putain de kidnappeur ?"
+    mc "J'ai l'air d'un putain de kidnappeur?"
 
 # game/code/Book-1/Chapter-3/s01.rpy:137
 translate french b01c03s01m01_a0ed4b29:
 
     # sl "I don't know! Better safe than having someone else go missing."
-    sl "Je sais pas ! Mieux vaut prévenir que voir quelqu'un d'autre disparaître."
+    sl "Je sais pas! Mieux vaut prévenir que voir quelqu'un d'autre disparaître."
 
 # game/code/Book-1/Chapter-3/s01.rpy:140
 translate french b01c03s01m01_7383e8d4:
@@ -189,7 +189,7 @@ translate french b01c03s01m01_5db2978b:
 translate french b01c03s01m01_4e98a658:
 
     # dk "Then I guess it's a good thing Leia's missing, isn't it?"
-    dk "Alors je suppose que c'est une bonne chose que Leia ait disparu, non ?"
+    dk "Alors je suppose que c'est une bonne chose que Leia ait disparu, non?"
 
 # game/code/Book-1/Chapter-3/s01.rpy:155
 translate french b01c03s01m01_0694ca5b:
@@ -201,13 +201,13 @@ translate french b01c03s01m01_0694ca5b:
 translate french b01c03s01m01_d1814f5e:
 
     # mc "Y'know what, Simon? None of this would've happened if you didn't have shit for brains."
-    mc "Tu sais quoi, Simon ? Rien de tout ça ne serait arrivé si t'avais pas de la merde à la place du cerveau."
+    mc "Tu sais quoi, Simon? Rien de tout ça ne serait arrivé si t'avais pas de la merde à la place du cerveau."
 
 # game/code/Book-1/Chapter-3/s01.rpy:161
 translate french b01c03s01m01_92ecb753:
 
     # sl "Oh, {i}fuck you{/i}. Why don't you crawl back to planet fuckhead?"
-    sl "Oh, {i}va te faire foutre{/i}. Pourquoi tu ne retournes pas sur ta planète des abrutis ?"
+    sl "Oh, {i}va te faire foutre{/i}. Pourquoi tu ne retournes pas sur ta planète des abrutis?"
 
 # game/code/Book-1/Chapter-3/s01.rpy:164
 translate french b01c03s01m01_3edddd9c:
@@ -225,13 +225,13 @@ translate french b01c03s01m01_7993bcfb:
 translate french b01c03s01m01_041f4a69:
 
     # dk "Jesus, Simon. It takes hours for you to add two plus two, doesn't it?"
-    dk "Jésus, Simon. Il te faut des heures pour additionner deux et deux, non ?"
+    dk "Jésus, Simon. Il te faut des heures pour additionner deux et deux, non?"
 
 # game/code/Book-1/Chapter-3/s01.rpy:182
 translate french b01c03s01m01_67553a9a:
 
     # zp "How dare you!"
-    zp "Comment oses-tu !"
+    zp "Comment oses-tu!"
 
 # game/code/Book-1/Chapter-3/s01.rpy:185
 translate french b01c03s01m01_4141668c:
@@ -243,7 +243,7 @@ translate french b01c03s01m01_4141668c:
 translate french b01c03s01m01_c9cb7e62:
 
     # mc "Hey man, it's alright. Can never be too safe, right? Especially in these times. My name's [mcname]. I think we started off on the wrong foot."
-    mc "Hé mec, ça va. On n'est jamais trop prudent, pas vrai ? Surtout en ce moment. Je m'appelle [mcname]. Je pense qu'on est mal parti."
+    mc "Hé mec, ça va. On n'est jamais trop prudent, pas vrai? Surtout en ce moment. Je m'appelle [mcname]. Je pense qu'on est mal parti."
 
 # game/code/Book-1/Chapter-3/s01.rpy:191
 translate french b01c03s01m01_4ff2b99f:
@@ -261,7 +261,7 @@ translate french b01c03s01m01_7383e8d4_1:
 translate french b01c03s01m01_0ea314b9:
 
     # sl "It's not like that at all!"
-    sl "C'est pas du tout ça !"
+    sl "C'est pas du tout ça!"
 
 # game/code/Book-1/Chapter-3/s01.rpy:200
 translate french b01c03s01m01_e1f9ddb0_1:
@@ -273,7 +273,7 @@ translate french b01c03s01m01_e1f9ddb0_1:
 translate french b01c03s01m01_70b73c92:
 
     # mc "You knew one of the missing girls?"
-    mc "Tu connaissais une des filles disparues ?"
+    mc "Tu connaissais une des filles disparues?"
 
 # game/code/Book-1/Chapter-3/s01.rpy:206
 translate french b01c03s01m01_8d060c2a:
@@ -309,7 +309,7 @@ translate french b01c03s01m01_54446d27:
 translate french b01c03s01m01_e1355f24:
 
     # dk "Oh, for fucks sake. How long are you going to keep blue-balling Simon, {i}Zem?{/i}"
-    dk "Oh, bon sang. Combien de temps tu vas continuer à faire languir Simon, {i}Zem ?{/i}"
+    dk "Oh, bon sang. Combien de temps tu vas continuer à faire languir Simon, {i}Zem?{/i}"
 
 # game/code/Book-1/Chapter-3/s01.rpy:224
 translate french b01c03s01m01_5db2978b_1:
@@ -321,7 +321,7 @@ translate french b01c03s01m01_5db2978b_1:
 translate french b01c03s01m01_4e98a658_1:
 
     # dk "Then I guess it's a good thing Leia's missing, isn't it?"
-    dk "Alors je suppose que c'est une bonne chose que Leia ait disparu, non ?"
+    dk "Alors je suppose que c'est une bonne chose que Leia ait disparu, non?"
 
 # game/code/Book-1/Chapter-3/s01.rpy:234
 translate french b01c03s01m01_3e82cf8d:
@@ -351,7 +351,7 @@ translate french b01c03s01m01_a82fb8a1:
 translate french b01c03s01m01_521014c6:
 
     # zp "Well that would be a first, wouldn't it, Simon?"
-    zp "Eh bien, ce serait une première, n'est-ce pas, Simon ?"
+    zp "Eh bien, ce serait une première, n'est-ce pas, Simon?"
 
 # game/code/Book-1/Chapter-3/s01.rpy:256
 translate french b01c03s01m01_7f550c77:
@@ -423,7 +423,7 @@ translate french b01c03s01m01_8fa45a69:
 translate french b01c03s01m01_28520a5f:
 
     # dk "Excuse me, who are you, again?"
-    dk "Excuse-moi, c'est qui déjà ?"
+    dk "Excuse-moi, c'est qui déjà?"
 
 # game/code/Book-1/Chapter-3/s01.rpy:294
 translate french b01c03s01m01_8514deaf:
@@ -435,7 +435,7 @@ translate french b01c03s01m01_8514deaf:
 translate french b01c03s01m01_e1764d69:
 
     # zp "Tried?"
-    zp "Essayé ?"
+    zp "Essayé?"
 
 # game/code/Book-1/Chapter-3/s01.rpy:300
 translate french b01c03s01m01_6084d0fa:
@@ -453,7 +453,7 @@ translate french b01c03s01m01_0b90679e:
 translate french b01c03s01m01_c44cff65:
 
     # mc "Power{i}s{/i}? Are you the long lost cousin of Austin Powers?"
-    mc "Power{i}s{/i}? Vous êtes la cousine éloignée d'Austin Powers ?"
+    mc "Power{i}s{/i}? Vous êtes la cousine éloignée d'Austin Powers?"
 
 # game/code/Book-1/Chapter-3/s01.rpy:310
 translate french b01c03s01m01_f2b9ea2d:
@@ -465,7 +465,7 @@ translate french b01c03s01m01_f2b9ea2d:
 translate french b01c03s01m01_8909a563:
 
     # sl "What the fuck are they talking about?"
-    sl "Mais de quoi est-ce qu'ils parlent, bordel ?"
+    sl "Mais de quoi est-ce qu'ils parlent, bordel?"
 
 # game/code/Book-1/Chapter-3/s01.rpy:316
 translate french b01c03s01m01_91c5b1cd:
@@ -495,7 +495,7 @@ translate french b01c03s01m01_7383e8d4_2:
 translate french b01c03s01m01_0ea314b9_1:
 
     # sl "It's not like that at all!"
-    sl "Pas du tout !"
+    sl "Pas du tout!"
 
 # game/code/Book-1/Chapter-3/s01.rpy:331
 translate french b01c03s01m01_e1f9ddb0_2:
@@ -507,7 +507,7 @@ translate french b01c03s01m01_e1f9ddb0_2:
 translate french b01c03s01m01_70b73c92_1:
 
     # mc "You knew one of the missing girls?"
-    mc "Vous connaissiez une des filles disparues ?"
+    mc "Vous connaissiez une des filles disparues?"
 
 # game/code/Book-1/Chapter-3/s01.rpy:337
 translate french b01c03s01m01_8d060c2a_1:
@@ -567,7 +567,7 @@ translate french b01c03s01m01_e0e031ff:
 translate french b01c03s01m01_5fe6fddf:
 
     # dk "You got quite the introduction today, huh? Those Winner's pricks..."
-    dk "T'as eu une sacrée présentation aujourd'hui, hein ? Ces abrutis de Winner..."
+    dk "T'as eu une sacrée présentation aujourd'hui, hein? Ces abrutis de Winner..."
 
 # game/code/Book-1/Chapter-3/s01.rpy:366
 translate french b01c03s01m01_08a4cc0d:
@@ -591,7 +591,7 @@ translate french b01c03s01m01_fc07fde3:
 translate french b01c03s01m01_2cacb2a0:
 
     # dk "It looked like you hurt him more than he hurt you, but...are you okay?"
-    dk "On dirait que tu l'as blessé plus qu'il t'a blessé, mais... ça va ?"
+    dk "On dirait que tu l'as blessé plus qu'il t'a blessé, mais... ça va?"
 
 # game/code/Book-1/Chapter-3/s01.rpy:379
 translate french b01c03s01m01_377fdd40:
@@ -609,7 +609,7 @@ translate french b01c03s01m01_da8a03fa:
 translate french b01c03s01m01_7af14185:
 
     # pm "How's your first day going?"
-    pm "Comment se passe ton premier jour ?"
+    pm "Comment se passe ton premier jour?"
 
 # game/code/Book-1/Chapter-3/s01.rpy:387
 translate french b01c03s01m01_2ae225b9:

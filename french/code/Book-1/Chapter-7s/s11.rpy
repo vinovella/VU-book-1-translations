@@ -15,13 +15,13 @@ translate french b1c07ss11_bbee5fb5:
 translate french b1c07ss11_8a64e974:
 
     # qh "Get the fuck away from her!"
-    qh "Éloigne-toi de cette pute !"
+    qh "Éloigne-toi de cette pute!"
 
 # game/code/Book-1/Chapter-7s/s11.rpy:27
 translate french b1c07ss11_fc20fba4:
 
     # qh "Sabrina belongs to The Syndicate, not The Wasps. Get fucking lost!"
-    qh "Sabrina appartient au Syndicat, pas aux Guêpes. Va te faire foutre !"
+    qh "Sabrina appartient au Syndicat, pas aux Guêpes. Va te faire foutre!"
 
 # game/code/Book-1/Chapter-7s/s11.rpy:30
 translate french b1c07ss11_8bb48edc:
@@ -51,7 +51,7 @@ translate french b1c07ss11_b2cea8e6:
 translate french b1c07ss11_c634ce15:
 
     # nr "YOU BETTER BACK OFF!"
-    nr "TU FERAI MIEUX DE RECULER !"
+    nr "TU FERAI MIEUX DE RECULER!"
 
 # game/code/Book-1/Chapter-7s/s11.rpy:52
 translate french b1c07ss11_d802280a:
@@ -63,7 +63,7 @@ translate french b1c07ss11_d802280a:
 translate french b1c07ss11_9fb1f01d:
 
     # nr "FUCK OFF BEFORE I SHOVE THIS KNIFE SO FAR UP YOUR ASS YOU COUGH UP STEEL!"
-    nr "VA TE FAIRE FOUTRE AVANT QUE JE TE FASSE AVALER CE COUTEAU JUSQU'À CE QUE TU VOMISSE DE L'ACIER !"
+    nr "VA TE FAIRE FOUTRE AVANT QUE JE TE FASSE AVALER CE COUTEAU JUSQU'À CE QUE TU VOMISSE DE L'ACIER!"
 
 # game/code/Book-1/Chapter-7s/s11.rpy:69
 translate french b1c07ss11_81207e66:
@@ -87,10 +87,11 @@ translate french b1c07ss11_ead7340f:
 translate french b1c07ss11_25c7d18e:
 
     # mct "This place is like a madhouse. What have I gotten myself into?"
-    mct "Cet endroit est une vraie maison de fous. Dans quoi est-ce que je me suis embarqué ?"
+    mct "Cet endroit est une vraie maison de fous. Dans quoi est-ce que je me suis embarqué?"
 
 # game/code/Book-1/Chapter-7s/s11.rpy:84
 translate french b1c07ss11_6cca44cb:
 
     # mct "Anyway, I better get to bed so I can visit Cori tomorrow."
     mct "De toute façon, je ferais bien d'aller me coucher pour pouvoir voir Cori demain."
+

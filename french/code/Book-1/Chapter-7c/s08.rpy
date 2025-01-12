@@ -20,7 +20,7 @@ translate french b1c07cs08_6772ed93:
 translate french b1c07cs08_71e25022:
 
     # mc "Hey Lumi, how are you?"
-    mc "Salut Lumi, comment ça va ?"
+    mc "Salut Lumi, comment ça va?"
 
 # game/code/Book-1/Chapter-7c/s08.rpy:30
 translate french b1c07cs08_b2af0de1:
@@ -38,7 +38,7 @@ translate french b1c07cs08_33f92b0f:
 translate french b1c07cs08_56fd37f8:
 
     # mc "Decompressing? Like, from something stressful?"
-    mc "Se détendre ? Comme après quelque chose de stressant ?"
+    mc "Se détendre? Comme après quelque chose de stressant?"
 
 # game/code/Book-1/Chapter-7c/s08.rpy:37
 translate french b1c07cs08_c91746e3:
@@ -74,7 +74,7 @@ translate french b1c07cs08_38a8feab:
 translate french b1c07cs08_a2ee496e:
 
     # mc "I mean, it never hurts to dive head first into things, right?"
-    mc "Je veux dire, ça ne fait jamais de mal de plonger tête la première dans les choses, non ?"
+    mc "Je veux dire, ça ne fait jamais de mal de plonger tête la première dans les choses, non?"
 
 # game/code/Book-1/Chapter-7c/s08.rpy:57
 translate french b1c07cs08_94e95451:
@@ -116,7 +116,7 @@ translate french b1c07cs08_79907c55:
 translate french b1c07cs08_8c2a752e:
 
     # ll "It's part of why I like the self-help group though. The self-help group feels like my grounding force, y'know?"
-    ll "C'est en partie pour ça que j'aime le groupe d'entraide. Le groupe d'entraide me semble être mon point d'ancrage, tu sais ?"
+    ll "C'est en partie pour ça que j'aime le groupe d'entraide. Le groupe d'entraide me semble être mon point d'ancrage, tu sais?"
 
 # game/code/Book-1/Chapter-7c/s08.rpy:75
 translate french b1c07cs08_3bb96a5a:
@@ -146,7 +146,7 @@ translate french b1c07cs08_c7993b2e:
 translate french b1c07cs08_7586c5ae:
 
     # ll "I'm curious, though. What makes you feel grounded in the group? Like, what specific things?"
-    ll "Je suis curieuse, cependant. Qu'est-ce qui te fait te sentir ancré dans le groupe ? Genre, quelles choses spécifiques ?"
+    ll "Je suis curieuse, cependant. Qu'est-ce qui te fait te sentir ancré dans le groupe? Genre, quelles choses spécifiques?"
 
 # game/code/Book-1/Chapter-7c/s08.rpy:87
 translate french b1c07cs08_f0e6d86a:
@@ -164,7 +164,7 @@ translate french b1c07cs08_53bff2b5:
 translate french b1c07cs08_0c551b3e:
 
     # mc "It um, makes me excited about the possibility of getting one of the group tattoos, y'know?"
-    mc "Ça... ça me rend excité à l'idée d'obtenir un des tatouages du groupe, tu sais ?"
+    mc "Ça... ça me rend excité à l'idée d'obtenir un des tatouages du groupe, tu sais?"
 
 # game/code/Book-1/Chapter-7c/s08.rpy:93
 translate french b1c07cs08_a0ee87e9:
@@ -188,13 +188,13 @@ translate french b1c07cs08_b8b01170:
 translate french b1c07cs08_f97ccabc:
 
     # mc "Really? Why not?"
-    mc "Vraiment ? Pourquoi pas ?"
+    mc "Vraiment? Pourquoi pas?"
 
 # game/code/Book-1/Chapter-7c/s08.rpy:103
 translate french b1c07cs08_f229ce6d:
 
     # ll "I just feel that nothing lasts forever. So what happens if I leave or the group disbands someday? Then I'll have this weird tatt that means nothing."
-    ll "Je sens juste que rien ne dure éternellement. Alors, que se passe-t-il si je pars ou si le groupe se dissout un jour ? Alors j'aurai ce tatouage étrange qui ne signifie rien."
+    ll "Je sens juste que rien ne dure éternellement. Alors, que se passe-t-il si je pars ou si le groupe se dissout un jour? Alors j'aurai ce tatouage étrange qui ne signifie rien."
 
 # game/code/Book-1/Chapter-7c/s08.rpy:104
 translate french b1c07cs08_acd2946d:
@@ -212,13 +212,13 @@ translate french b1c07cs08_abbdcc2c:
 translate french b1c07cs08_e4bc7310:
 
     # mc "It'll always be a reminder of that time in your life, right? Wouldn't that be kinda nice? Though I understand what you mean by nothing lasts forever."
-    mc "Ça sera toujours un rappel de cette période de ta vie, non ? Ce ne serait pas un peu agréable ? Bien que je comprenne ce que tu veux dire par 'rien ne dure éternellement'."
+    mc "Ça sera toujours un rappel de cette période de ta vie, non? Ce ne serait pas un peu agréable? Bien que je comprenne ce que tu veux dire par 'rien ne dure éternellement'."
 
 # game/code/Book-1/Chapter-7c/s08.rpy:111
 translate french b1c07cs08_15f4d23c:
 
     # ll "I guess I also don't see why I need a tattoo in order to prove my loyalty. Of course I care about the group! I wouldn't be here otherwise."
-    ll "Je suppose que je ne vois pas non plus pourquoi j'aurais besoin d'un tatouage pour prouver ma loyauté. Bien sûr que je me soucie du groupe ! Je ne serais pas ici sinon."
+    ll "Je suppose que je ne vois pas non plus pourquoi j'aurais besoin d'un tatouage pour prouver ma loyauté. Bien sûr que je me soucie du groupe! Je ne serais pas ici sinon."
 
 # game/code/Book-1/Chapter-7c/s08.rpy:114
 translate french b1c07cs08_bcb93f69:
@@ -230,7 +230,7 @@ translate french b1c07cs08_bcb93f69:
 translate french b1c07cs08_eb1651e3:
 
     # mc "Of course. I'm not either. But the thought of working up to that point is nice, isn't it?"
-    mc "Bien sûr. Je ne le suis pas non plus. Mais l'idée de travailler jusqu'à ce point est agréable, non ?"
+    mc "Bien sûr. Je ne le suis pas non plus. Mais l'idée de travailler jusqu'à ce point est agréable, non?"
 
 # game/code/Book-1/Chapter-7c/s08.rpy:118
 translate french b1c07cs08_1bd29714:
@@ -296,7 +296,7 @@ translate french b1c07cs08_4a0ae5e1:
 translate french b1c07cs08_ea952f70:
 
     # ll "Maybe it's wrong of me to feel like that, though? It feels like I'm turning away from my community."
-    ll "Peut-être que c'est mal de ma part de ressentir ça ? J'ai l'impression de me détourner de ma communauté."
+    ll "Peut-être que c'est mal de ma part de ressentir ça? J'ai l'impression de me détourner de ma communauté."
 
 # game/code/Book-1/Chapter-7c/s08.rpy:144
 translate french b1c07cs08_97fc83a0:
@@ -356,19 +356,19 @@ translate french b1c07cs08_5bc191e6:
 translate french b1c07cs08_fb9deab1:
 
     # ll "Oh! It's almost closing time. I should get going, I guess."
-    ll "Oh ! Il est presque l'heure de fermer. Je devrais y aller, je suppose."
+    ll "Oh! Il est presque l'heure de fermer. Je devrais y aller, je suppose."
 
 # game/code/Book-1/Chapter-7c/s08.rpy:168
 translate french b1c07cs08_8d5f7f46:
 
     # ll "You coming?"
-    ll "Tu viens ?"
+    ll "Tu viens?"
 
 # game/code/Book-1/Chapter-7c/s08.rpy:169
 translate french b1c07cs08_29dc79ed:
 
     # ll "Maybe we could get some dinner or something before calling it a night?"
-    ll "Peut-être qu'on pourrait aller dîner ou quelque chose avant de finir la soirée ?"
+    ll "Peut-être qu'on pourrait aller dîner ou quelque chose avant de finir la soirée?"
 
 # game/code/Book-1/Chapter-7c/s08.rpy:171
 translate french b1c07cs08_092a06c1:
@@ -386,7 +386,7 @@ translate french b1c07cs08_e4e7800f:
 translate french b1c07cs08_9d299574:
 
     # ll "Oh! I'm sorry. I took up all your time—"
-    ll "Oh ! Désolée. J'ai pris tout ton temps—"
+    ll "Oh! Désolée. J'ai pris tout ton temps—"
 
 # game/code/Book-1/Chapter-7c/s08.rpy:179
 translate french b1c07cs08_81726b0d:
@@ -443,3 +443,4 @@ translate french strings:
 # game/code/Book-1/Chapter-7c/s08.rpy:40
     old "Dive head first"
     new "Plonge tête la première"
+

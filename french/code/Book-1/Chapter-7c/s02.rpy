@@ -26,7 +26,7 @@ translate french b1c07cs02_dd214426:
 translate french b1c07cs02_a4ee101a:
 
     # mc "So...you said you had something to talk about?"
-    mc "Alors... tu disais que tu avais quelque chose à me dire ?"
+    mc "Alors... tu disais que tu avais quelque chose à me dire?"
 
 # game/code/Book-1/Chapter-7c/s02.rpy:78
 translate french b1c07cs02_6bc05681:
@@ -85,7 +85,7 @@ translate french b1c07cs02_22597ad5:
 translate french b1c07cs02_0ee435e2:
 
     # sd "Claims? Do you think I lied?"
-    sd "Des accusations ? Tu penses que j'ai menti ?"
+    sd "Des accusations? Tu penses que j'ai menti?"
 
 # game/code/Book-1/Chapter-7c/s02.rpy:115
 translate french b1c07cs02_8fcd8212:
@@ -109,19 +109,19 @@ translate french b1c07cs02_9b94ddc5:
 translate french b1c07cs02_da043c56:
 
     # sd "No! No, don't go."
-    sd "Non ! Non, ne t'en va pas."
+    sd "Non! Non, ne t'en va pas."
 
 # game/code/Book-1/Chapter-7c/s02.rpy:131
 translate french b1c07cs02_58bd8cd5:
 
     # sd "Just...can I sit in your lap?"
-    sd "Juste... puis-je m'asseoir sur tes genoux ?"
+    sd "Juste... puis-je m'asseoir sur tes genoux?"
 
 # game/code/Book-1/Chapter-7c/s02.rpy:133
 translate french b1c07cs02_54bbe2a3:
 
     # mc "Sit in my lap? I mean, if that makes you comfortable, sure. As long as we can talk, too."
-    mc "M'asseoir sur tes genoux ? Je veux dire, si cela te met à l'aise, bien sûr. Tant qu'on peut aussi parler."
+    mc "M'asseoir sur tes genoux? Je veux dire, si cela te met à l'aise, bien sûr. Tant qu'on peut aussi parler."
 
 # game/code/Book-1/Chapter-7c/s02.rpy:136
 translate french b1c07cs02_43844e66:
@@ -133,7 +133,7 @@ translate french b1c07cs02_43844e66:
 translate french b1c07cs02_430e59fa:
 
     # mct "Just how far did the intimacy within the group go? She's always touch-starved. Is that just a her-thing, or a symptom of the group itself?"
-    mct "Jusqu'où allait l'intimité au sein du groupe ? Elle a toujours manqué de contact physique. Est-ce juste quelque chose qui la concerne, ou un symptôme du groupe lui-même ?"
+    mct "Jusqu'où allait l'intimité au sein du groupe? Elle a toujours manqué de contact physique. Est-ce juste quelque chose qui la concerne, ou un symptôme du groupe lui-même?"
 
 # game/code/Book-1/Chapter-7c/s02.rpy:145
 translate french b1c07cs02_a7b61e93:
@@ -157,7 +157,7 @@ translate french b1c07cs02_5bfeee48:
 translate french b1c07cs02_99a97130:
 
     # mc "So, you said the group isn't what it seems, correct?"
-    mc "Alors, tu disais que le groupe n'est pas ce qu'il semble, c'est bien ça ?"
+    mc "Alors, tu disais que le groupe n'est pas ce qu'il semble, c'est bien ça?"
 
 # game/code/Book-1/Chapter-7c/s02.rpy:154
 translate french b1c07cs02_24fa2c85:
@@ -193,7 +193,7 @@ translate french b1c07cs02_df63bf63:
 translate french b1c07cs02_100f000a:
 
     # mc "That must be hell. Both your mind and body crave a destructive pleasure you can never return to. What made you stop?"
-    mc "Cela doit être l'enfer. Ton esprit et ton corps réclament un plaisir destructeur auquel tu ne peux jamais revenir. Qu'est-ce qui t'a fait arrêter ?"
+    mc "Cela doit être l'enfer. Ton esprit et ton corps réclament un plaisir destructeur auquel tu ne peux jamais revenir. Qu'est-ce qui t'a fait arrêter?"
 
 # game/code/Book-1/Chapter-7c/s02.rpy:173
 translate french b1c07cs02_9513cfc3:
@@ -205,7 +205,7 @@ translate french b1c07cs02_9513cfc3:
 translate french b1c07cs02_7bf0a04c:
 
     # mc "Your child's father is from this group?"
-    mc "Le père de ton enfant vient de ce groupe ?"
+    mc "Le père de ton enfant vient de ce groupe?"
 
 # game/code/Book-1/Chapter-7c/s02.rpy:180
 translate french b1c07cs02_f1e80327:
@@ -223,7 +223,7 @@ translate french b1c07cs02_ba6f80bf:
 translate french b1c07cs02_b2aba0e3:
 
     # mc "Like what?"
-    mc "Comme quoi ?"
+    mc "Comme quoi?"
 
 # game/code/Book-1/Chapter-7c/s02.rpy:186
 translate french b1c07cs02_41a04103:
@@ -247,13 +247,13 @@ translate french b1c07cs02_a44d1b08:
 translate french b1c07cs02_f183e105:
 
     # mct "What in hell's name makes someone hallucinate that?"
-    mct "Qu'est-ce qui, au nom de tout ce qui est sacré, pousse quelqu'un à halluciner ça ?"
+    mct "Qu'est-ce qui, au nom de tout ce qui est sacré, pousse quelqu'un à halluciner ça?"
 
 # game/code/Book-1/Chapter-7c/s02.rpy:198
 translate french b1c07cs02_50b43b61:
 
     # mct "What did they do to alter her perception of reality that much?"
-    mct "Qu'ont-ils fait pour altérer sa perception de la réalité à ce point ?"
+    mct "Qu'ont-ils fait pour altérer sa perception de la réalité à ce point?"
 
 # game/code/Book-1/Chapter-7c/s02.rpy:201
 translate french b1c07cs02_9bbff803:
@@ -289,7 +289,7 @@ translate french b1c07cs02_3f2b6fdc:
 translate french b1c07cs02_3e9cce89:
 
     # mc "Can you explain what kind of signs you saw?"
-    mc "Peux-tu expliquer quel genre de signes tu as vus ?"
+    mc "Peux-tu expliquer quel genre de signes tu as vus?"
 
 # game/code/Book-1/Chapter-7c/s02.rpy:214
 translate french b1c07cs02_58b52e95:
@@ -301,7 +301,7 @@ translate french b1c07cs02_58b52e95:
 translate french b1c07cs02_d4ef1691:
 
     # mc "Breeding rituals? So, sex was involved?"
-    mc "Des rituels de reproduction ? Donc, le sexe était impliqué ?"
+    mc "Des rituels de reproduction? Donc, le sexe était impliqué?"
 
 # game/code/Book-1/Chapter-7c/s02.rpy:221
 translate french b1c07cs02_22cdd146:
@@ -355,7 +355,7 @@ translate french b1c07cs02_a3f8fa8b:
 translate french b1c07cs02_3f37bc2d:
 
     # mc "Is there anything else? Where did they hold these rituals?"
-    mc "Y a-t-il autre chose ? Où tenaient-ils ces rituels ?"
+    mc "Y a-t-il autre chose? Où tenaient-ils ces rituels?"
 
 # game/code/Book-1/Chapter-7c/s02.rpy:249
 translate french b1c07cs02_77e21e1c:
@@ -373,7 +373,7 @@ translate french b1c07cs02_e64a8475:
 translate french b1c07cs02_384860fe:
 
     # mc "I know. Try for me, okay?"
-    mc "Je sais. Essaye pour moi, d'accord ?"
+    mc "Je sais. Essaye pour moi, d'accord?"
 
 # game/code/Book-1/Chapter-7c/s02.rpy:255
 translate french b1c07cs02_383baad9:
@@ -391,7 +391,7 @@ translate french b1c07cs02_0e6e19af:
 translate french b1c07cs02_d460e467:
 
     # mct "That must be where Andrejz and Ivy disappeared to! Whatever's behind the secret entrance must be important."
-    mct "C'est sûrement là où Andrejz et Ivy ont disparu ! Ce qui se cache derrière l'entrée secrète doit être important."
+    mct "C'est sûrement là où Andrejz et Ivy ont disparu! Ce qui se cache derrière l'entrée secrète doit être important."
 
 # game/code/Book-1/Chapter-7c/s02.rpy:261
 translate french b1c07cs02_3e1369dd:
@@ -409,7 +409,7 @@ translate french b1c07cs02_a12d761f:
 translate french b1c07cs02_d38bc229:
 
     # sd "Will you touch me?{w} Please?"
-    sd "Vas-tu me toucher ?{w} S'il te plaît ?"
+    sd "Vas-tu me toucher?{w} S'il te plaît?"
 
 # game/code/Book-1/Chapter-7c/s02.rpy:267
 translate french b1c07cs02_3d8fbaf3:
@@ -439,7 +439,7 @@ translate french b1c07cs02_5eaf8031:
 translate french b1c07cs02_1b97845a:
 
     # mc "Thank you again for all your help. Let me know if you have anymore memories, okay?"
-    mc "Merci encore pour toute ton aide. Fais-moi savoir si tu te souviens de quelque chose d'autre, d'accord ?"
+    mc "Merci encore pour toute ton aide. Fais-moi savoir si tu te souviens de quelque chose d'autre, d'accord?"
 
 # game/code/Book-1/Chapter-7c/s02.rpy:294
 translate french b1c07cs02_2cb55287:
@@ -499,7 +499,7 @@ translate french b1c07cs02_sex_88549aeb:
 translate french b1c07cs02_sex_0d11f559:
 
     # sd "Oh! Fuck, that feels so good."
-    sd "Oh ! Putain, c'est tellement bon."
+    sd "Oh! Putain, c'est tellement bon."
 
 # game/code/Book-1/Chapter-7c/s02.rpy:354
 translate french b1c07cs02_sex_37f2341b:
@@ -517,7 +517,7 @@ translate french b1c07cs02_sex_7ffc0502:
 translate french b1c07cs02_sex_9121fa7e:
 
     # mc "Do you want me to lose control? To make you mine and mine alone?"
-    mc "Veux-tu que je perde le contrôle ? Que je te fasse mienne et mienne seule ?"
+    mc "Veux-tu que je perde le contrôle? Que je te fasse mienne et mienne seule?"
 
 # game/code/Book-1/Chapter-7c/s02.rpy:365
 translate french b1c07cs02_sex_1a53a787:
@@ -535,7 +535,7 @@ translate french b1c07cs02_sex_94332a73:
 translate french b1c07cs02_sex_6d364221:
 
     # sd "Yes! Make me yours. Mark me. {i}Take.{/i} {i}{b}Me.{/b}{/i}"
-    sd "Oui ! Faites-moi vôtre. Marquez-moi. {i}Prenez.{/i} {i}{b}Moi.{/b}{/i}"
+    sd "Oui! Faites-moi vôtre. Marquez-moi. {i}Prenez.{/i} {i}{b}Moi.{/b}{/i}"
 
 # game/code/Book-1/Chapter-7c/s02.rpy:375
 translate french b1c07cs02_sex_75521e7a:
@@ -577,13 +577,13 @@ translate french b1c07cs02_sex_64cb39ef:
 translate french b1c07cs02_sex_96365c68:
 
     # sd "Ah! You feel so good. Use me as you want."
-    sd "Ah ! Tu te sens si bien. Utilise-moi comme tu veux."
+    sd "Ah! Tu te sens si bien. Utilise-moi comme tu veux."
 
 # game/code/Book-1/Chapter-7c/s02.rpy:444
 translate french b1c07cs02_sex_691c1d03:
 
     # mc "Use you, huh? I'm gonna fuck you ruthlessly, Sally."
-    mc "Utiliser toi, hein ? Je vais te baiser sans pitié, Sally."
+    mc "Utiliser toi, hein? Je vais te baiser sans pitié, Sally."
 
 # game/code/Book-1/Chapter-7c/s02.rpy:450
 translate french b1c07cs02_sex_1563158e:
@@ -703,7 +703,7 @@ translate french b1c07cs02_sex_8486c60b:
 translate french b1c07cs02_sex_fcc90f59:
 
     # sd "Isn't that intimacy so beautiful? So transcendent?"
-    sd "Cette intimité n'est-elle pas si belle ? Si transcendante ?"
+    sd "Cette intimité n'est-elle pas si belle? Si transcendante?"
 
 # game/code/Book-1/Chapter-7c/s02.rpy:542
 translate french b1c07cs02_sex_7649a62e:

@@ -14,19 +14,19 @@ translate french b1c07cs07_80ad8b4f:
 translate french b1c07cs07_dac84971:
 
     # nv "Hey, [mcname]!"
-    nv "Hé, [mcname] !"
+    nv "Hé, [mcname]!"
 
 # game/code/Book-1/Chapter-7c/s07.rpy:28
 translate french b1c07cs07_5aa22cdf:
 
     # mc "Hey, Nia. What's up?"
-    mc "Salut, Nia. Quoi de neuf ?"
+    mc "Salut, Nia. Quoi de neuf?"
 
 # game/code/Book-1/Chapter-7c/s07.rpy:31
 translate french b1c07cs07_93e78917:
 
     # nv "I um—Do you wanna get lunch together?"
-    nv "Euh... Tu veux déjeuner ensemble ?"
+    nv "Euh... Tu veux déjeuner ensemble?"
 
 # game/code/Book-1/Chapter-7c/s07.rpy:32
 translate french b1c07cs07_6dbebe72:
@@ -44,7 +44,7 @@ translate french b1c07cs07_9017d39a:
 translate french b1c07cs07_f0a5a9d6:
 
     # mc "Of course! That sounds wonderful, Nia."
-    mc "Bien sûr ! Ça a l'air génial, Nia."
+    mc "Bien sûr! Ça a l'air génial, Nia."
 
 # game/code/Book-1/Chapter-7c/s07.rpy:37
 translate french b1c07cs07_c4a63ebf:
@@ -62,7 +62,7 @@ translate french b1c07cs07_426860b8:
 translate french b1c07cs07_637ab44d:
 
     # nv "Great! I was thinking we could get lunch at the cafeteria and then walk to the pier. It's too pretty of a day to stay cooped up."
-    nv "Super ! Je pensais qu'on pourrait déjeuner à la cafétéria puis marcher jusqu'à la jetée. Il fait trop beau pour rester enfermés."
+    nv "Super! Je pensais qu'on pourrait déjeuner à la cafétéria puis marcher jusqu'à la jetée. Il fait trop beau pour rester enfermés."
 
 # game/code/Book-1/Chapter-7c/s07.rpy:44
 translate french b1c07cs07_bd3b37dc:
@@ -92,7 +92,7 @@ translate french b1c07cs07_after_lunch_dd2ee589:
 translate french b1c07cs07_after_lunch_073e1e55:
 
     # nv "Isn't it? That's probably my second favorite thing about our self-help group. They're so connected to people and nature."
-    nv "N'est-ce pas ? C'est probablement ma deuxième chose préférée dans notre groupe de soutien. Ils sont tellement connectés aux gens et à la nature."
+    nv "N'est-ce pas? C'est probablement ma deuxième chose préférée dans notre groupe de soutien. Ils sont tellement connectés aux gens et à la nature."
 
 # game/code/Book-1/Chapter-7c/s07.rpy:73
 translate french b1c07cs07_after_lunch_96b09eae:
@@ -116,7 +116,7 @@ translate french b1c07cs07_after_lunch_142a004d:
 translate french b1c07cs07_after_lunch_bda88bf5:
 
     # mc "Is something on your mind?"
-    mc "Tu as quelque chose en tête ?"
+    mc "Tu as quelque chose en tête?"
 
 # game/code/Book-1/Chapter-7c/s07.rpy:84
 translate french b1c07cs07_after_lunch_754ea9d9:
@@ -176,25 +176,25 @@ translate french b1c07cs07_after_lunch_3ed50d4f:
 translate french b1c07cs07_after_lunch_b2b9e19d:
 
     # mc "What do you mean?"
-    mc "Que veux-tu dire ?"
+    mc "Que veux-tu dire?"
 
 # game/code/Book-1/Chapter-7c/s07.rpy:108
 translate french b1c07cs07_after_lunch_0d39cda4:
 
     # nv "It's just... Why did she leave me?"
-    nv "C'est juste... Pourquoi m'a-t-elle laissée ?"
+    nv "C'est juste... Pourquoi m'a-t-elle laissée?"
 
 # game/code/Book-1/Chapter-7c/s07.rpy:109
 translate french b1c07cs07_after_lunch_98a708a3:
 
     # nv "If she ran away, why didn't she take me with her? If she was abducted, why was she in such a dangerous situation to begin with?"
-    nv "Si elle s'est enfuie, pourquoi ne m'a-t-elle pas emmenée avec elle ? Si elle a été enlevée, pourquoi était-elle dans une situation si dangereuse au départ ?"
+    nv "Si elle s'est enfuie, pourquoi ne m'a-t-elle pas emmenée avec elle? Si elle a été enlevée, pourquoi était-elle dans une situation si dangereuse au départ?"
 
 # game/code/Book-1/Chapter-7c/s07.rpy:112
 translate french b1c07cs07_after_lunch_cce63e5a:
 
     # nv "Why didn't she stay safe for my sake, if not her own?"
-    nv "Pourquoi n'est-elle pas restée en sécurité pour moi, si ce n'est pour elle-même ?"
+    nv "Pourquoi n'est-elle pas restée en sécurité pour moi, si ce n'est pour elle-même?"
 
 # game/code/Book-1/Chapter-7c/s07.rpy:113
 translate french b1c07cs07_after_lunch_a8d5ec73:
@@ -248,7 +248,7 @@ translate french b1c07cs07_after_lunch_c697ae6c:
 translate french b1c07cs07_after_lunch_fd97bfc0:
 
     # nv "And what trauma did I even go through? Maria obviously got it so much worse."
-    nv "Et quel traumatisme ai-je vécu, moi ? Maria a évidemment vécu bien pire."
+    nv "Et quel traumatisme ai-je vécu, moi? Maria a évidemment vécu bien pire."
 
 # game/code/Book-1/Chapter-7c/s07.rpy:139
 translate french b1c07cs07_after_lunch_c9a7d5f6:
@@ -338,7 +338,7 @@ translate french b1c07cs07_after_lunch_f2b7f00c:
 translate french b1c07cs07_after_lunch_6ca38d41:
 
     # nv "A secretive poem, huh?"
-    nv "Un poème mystérieux, hein ?"
+    nv "Un poème mystérieux, hein?"
 
 # game/code/Book-1/Chapter-7c/s07.rpy:184
 translate french b1c07cs07_after_lunch_5938ff5c:
@@ -350,7 +350,7 @@ translate french b1c07cs07_after_lunch_5938ff5c:
 translate french b1c07cs07_after_lunch_d1d00924:
 
     # nv "No! No, it fits. I totally get you."
-    nv "Non ! Non, ça va. Je te comprends parfaitement."
+    nv "Non! Non, ça va. Je te comprends parfaitement."
 
 # game/code/Book-1/Chapter-7c/s07.rpy:191
 translate french b1c07cs07_after_lunch_3fe4dc28:
@@ -446,7 +446,7 @@ translate french b1c07cs07_after_lunch_4f3fa82e:
 translate french b1c07cs07_after_lunch_110b4645:
 
     # mc "I'm curious. Did you have trouble with the physical intimacy the self-help group demonstrates?"
-    mc "Je suis curieux. As-tu eu des difficultés avec l'intimité physique que le groupe d'entraide démontre ?"
+    mc "Je suis curieux. As-tu eu des difficultés avec l'intimité physique que le groupe d'entraide démontre?"
 
 # game/code/Book-1/Chapter-7c/s07.rpy:239
 translate french b1c07cs07_after_lunch_298106f1:
@@ -488,13 +488,13 @@ translate french b1c07cs07_after_lunch_f0492f95:
 translate french b1c07cs07_after_lunch_b3b947df:
 
     # mc "I mean sure, but shouldn't courage and freedom come from within?"
-    mc "Je veux bien, mais le courage et la liberté ne devraient-ils pas venir de l'intérieur ?"
+    mc "Je veux bien, mais le courage et la liberté ne devraient-ils pas venir de l'intérieur?"
 
 # game/code/Book-1/Chapter-7c/s07.rpy:251
 translate french b1c07cs07_after_lunch_b02607a3:
 
     # mc "I know you're strong enough to stand on your own. I mean, what happens after college?"
-    mc "Je sais que tu es assez forte pour te débrouiller seule. Je veux dire, que se passe-t-il après l'université ?"
+    mc "Je sais que tu es assez forte pour te débrouiller seule. Je veux dire, que se passe-t-il après l'université?"
 
 # game/code/Book-1/Chapter-7c/s07.rpy:254
 translate french b1c07cs07_after_lunch_29adbb02:
@@ -524,7 +524,7 @@ translate french b1c07cs07_after_lunch_90421018:
 translate french b1c07cs07_after_lunch_177800c0:
 
     # mc "Well, the only way is forward. Why go forward alone, right?"
-    mc "Eh bien, la seule direction est d'aller de l'avant. Pourquoi avancer seule, hein ?"
+    mc "Eh bien, la seule direction est d'aller de l'avant. Pourquoi avancer seule, hein?"
 
 # game/code/Book-1/Chapter-7c/s07.rpy:265
 translate french b1c07cs07_after_lunch_919d84a3:
@@ -554,7 +554,7 @@ translate french b1c07cs07_after_lunch_9f3c92b0:
 translate french b1c07cs07_after_lunch_a50e8c88:
 
     # mc "What was that one for?"
-    mc "C'était pour quoi ça ?"
+    mc "C'était pour quoi ça?"
 
 # game/code/Book-1/Chapter-7c/s07.rpy:285
 translate french b1c07cs07_after_lunch_40d053b7:
@@ -602,7 +602,7 @@ translate french b1c07cs07_after_lunch_e747e3ad:
 translate french b1c07cs07_after_lunch_d7258170:
 
     # mct "But then, is the group even healthy? I can't figure it out. I don't want to destroy the last thing Nia has that gives her hope—especially if Maria is gone for good."
-    mct "Mais alors, le groupe est-il même sain ? Je n'arrive pas à comprendre. Je ne veux pas détruire la dernière chose que Nia a, qui lui donne de l'espoir—surtout si Maria est partie pour de bon."
+    mct "Mais alors, le groupe est-il même sain? Je n'arrive pas à comprendre. Je ne veux pas détruire la dernière chose que Nia a, qui lui donne de l'espoir—surtout si Maria est partie pour de bon."
 
 # game/code/Book-1/Chapter-7c/s07.rpy:305
 translate french b1c07cs07_after_lunch_48a7a9e5:
@@ -633,3 +633,4 @@ translate french strings:
     # game/code/Book-1/Chapter-7c/s07.rpy:168
     old "You are so beautiful"
     new "Tu es tellement belle"
+

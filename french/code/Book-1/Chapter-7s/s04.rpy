@@ -2,7 +2,7 @@
 translate french b1c07ss04_22db45f7:
 
     # zp "Hey!"
-    zp "Hé !"
+    zp "Hé!"
 
 # game/code/Book-1/Chapter-7s/s04.rpy:23
 translate french b1c07ss04_a9a58f21:
@@ -38,7 +38,7 @@ translate french b1c07ss04_a9b01141:
 translate french b1c07ss04_d2f0a4a0:
 
     # zp "Notice how my legs are slightly bent?"
-    zp "Tu remarques comment mes jambes sont légèrement fléchies ?"
+    zp "Tu remarques comment mes jambes sont légèrement fléchies?"
 
 # game/code/Book-1/Chapter-7s/s04.rpy:61
 translate french b1c07ss04_cf1adef2:
@@ -62,13 +62,13 @@ translate french b1c07ss04_e0a4c492:
 translate french b1c07ss04_f53832f6:
 
     # zp "Yeah, you're getting it!"
-    zp "Ouais, tu piges !"
+    zp "Ouais, tu piges!"
 
 # game/code/Book-1/Chapter-7s/s04.rpy:71
 translate french b1c07ss04_842260fe:
 
     # zp "Also notice how I'm leaning forward a bit? That's for shock absorption."
-    zp "Tu remarques aussi comment je me penche légèrement en avant ? C'est pour absorber le choc."
+    zp "Tu remarques aussi comment je me penche légèrement en avant? C'est pour absorber le choc."
 
 # game/code/Book-1/Chapter-7s/s04.rpy:72
 translate french b1c07ss04_f872f11f:
@@ -110,7 +110,7 @@ translate french b1c07ss04_aac32684:
 translate french b1c07ss04_b5480731:
 
     # zp "See? Aim is much more accurate when you have the proper stance and breathwork."
-    zp "Tu vois ? La visée est bien plus précise quand tu as la bonne posture et une bonne respiration."
+    zp "Tu vois? La visée est bien plus précise quand tu as la bonne posture et une bonne respiration."
 
 # game/code/Book-1/Chapter-7s/s04.rpy:96
 translate french b1c07ss04_74c63ef8:
@@ -140,7 +140,7 @@ translate french b1c07ss04_f154c601:
 translate french b1c07ss04_8c0fd05c:
 
     # zp "Hah! Sure. Best shooting I've seen all year. {w}Not."
-    zp "Hah ! Bien sûr. Les meilleurs tirs que j'ai vus de l'année. {w}Pas."
+    zp "Hah! Bien sûr. Les meilleurs tirs que j'ai vus de l'année. {w}Pas."
 
 # game/code/Book-1/Chapter-7s/s04.rpy:115
 translate french b1c07ss04_5d25f834:
@@ -158,7 +158,7 @@ translate french b1c07ss04_aab9b240:
 translate french b1c07ss04_f3222f6f:
 
     # zp "But! Everyone's gotta start somewhere, right? It's only up from here."
-    zp "Mais ! Tout le monde doit commencer quelque part, non ? Ce n'est que du mieux maintenant."
+    zp "Mais! Tout le monde doit commencer quelque part, non? Ce n'est que du mieux maintenant."
 
 # game/code/Book-1/Chapter-7s/s04.rpy:122
 translate french b1c07ss04_8ef03c4c:
@@ -200,7 +200,7 @@ translate french b1c07ss04_31994ec0:
 translate french b1c07ss04_719acb70:
 
     # zp "Hah! Cute."
-    zp "Hah ! Mignon."
+    zp "Hah! Mignon."
 
 # game/code/Book-1/Chapter-7s/s04.rpy:137
 translate french b1c07ss04_0b83db14:
@@ -254,7 +254,7 @@ translate french b1c07ss04_3f7325b2:
 translate french b1c07ss04_dbae042d:
 
     # zp "Hey, that's much better!"
-    zp "Hé, c'est bien mieux !"
+    zp "Hé, c'est bien mieux!"
 
 # game/code/Book-1/Chapter-7s/s04.rpy:165
 translate french b1c07ss04_ae688f29:
@@ -296,7 +296,7 @@ translate french b1c07ss04_a49ed4f8:
 translate french b1c07ss04_9dbd6689:
 
     # mc "Are your arms cramping?"
-    mc "Tes bras sont-ils en train de se crampes ?"
+    mc "Tes bras sont-ils en train de se crampes?"
 
 # game/code/Book-1/Chapter-7s/s04.rpy:216
 translate french b1c07ss04_d0dd25f5:
@@ -326,7 +326,7 @@ translate french b1c07ss04_c3995afc:
 translate french b1c07ss04_990fe6e7:
 
     # zp "*chuckles* Thanks. I guess you're right. I don't know, it just makes me feel bad when I can't stand up to my own standards, y'know?"
-    zp "*rit* Merci. Je suppose que tu as raison. Je sais pas, ça me fait me sentir mal quand je ne peux pas répondre à mes propres standards, tu sais ?"
+    zp "*rit* Merci. Je suppose que tu as raison. Je sais pas, ça me fait me sentir mal quand je ne peux pas répondre à mes propres standards, tu sais?"
 
 # game/code/Book-1/Chapter-7s/s04.rpy:230
 translate french b1c07ss04_64926725:
@@ -338,7 +338,7 @@ translate french b1c07ss04_64926725:
 translate french b1c07ss04_7bdef73b:
 
     # mc "But you're great! Good enough to teach me. And I'm improving in leaps and bounds, if I do say so myself."
-    mc "Mais tu es géniale ! Assez bien pour m'enseigner. Et je m'améliore à pas de géant, si je puis me permettre."
+    mc "Mais tu es géniale! Assez bien pour m'enseigner. Et je m'améliore à pas de géant, si je puis me permettre."
 
 # game/code/Book-1/Chapter-7s/s04.rpy:235
 translate french b1c07ss04_0a03b6ce:
@@ -350,7 +350,7 @@ translate french b1c07ss04_0a03b6ce:
 translate french b1c07ss04_ca81c09e:
 
     # mc "Why do you feel like you're so weak? I think you're one of the strongest women I know."
-    mc "Pourquoi tu te sens si faible ? Je pense que tu es l'une des femmes les plus fortes que je connaisse."
+    mc "Pourquoi tu te sens si faible? Je pense que tu es l'une des femmes les plus fortes que je connaisse."
 
 # game/code/Book-1/Chapter-7s/s04.rpy:241
 translate french b1c07ss04_27336a22:
@@ -398,7 +398,7 @@ translate french b1c07ss04_befe0e01:
 translate french b1c07ss04_4f29ae7a:
 
     # zp "Jesus! That's not what I meant!"
-    zp "Putain! Ce n'est pas ce que je voulais dire !"
+    zp "Putain! Ce n'est pas ce que je voulais dire!"
 
 # game/code/Book-1/Chapter-7s/s04.rpy:266
 translate french b1c07ss04_1f1743ae:
@@ -452,7 +452,7 @@ translate french b1c07ss04_0b6f4b76:
 translate french b1c07ss04_9bf1875c:
 
     # zp "Yeah! They totally are."
-    zp "Ouais ! Ce sont totalement des cons."
+    zp "Ouais! Ce sont totalement des cons."
 
 # game/code/Book-1/Chapter-7s/s04.rpy:292
 translate french b1c07ss04_1562ee28:
@@ -464,7 +464,7 @@ translate french b1c07ss04_1562ee28:
 translate french b1c07ss04_e1feb47b:
 
     # mc "You're in the Winner's Club?"
-    mc "Tu es dans le Winner's Club ?"
+    mc "Tu es dans le Winner's Club?"
 
 # game/code/Book-1/Chapter-7s/s04.rpy:298
 translate french b1c07ss04_d7bb33b2:
@@ -488,7 +488,7 @@ translate french b1c07ss04_8dc14d5d:
 translate french b1c07ss04_f1c650fe:
 
     # zp "You some famous person's kid or something?"
-    zp "Tu es le fils d'une personne célèbre ou quelque chose comme ça ?"
+    zp "Tu es le fils d'une personne célèbre ou quelque chose comme ça?"
 
 # game/code/Book-1/Chapter-7s/s04.rpy:308
 translate french b1c07ss04_ca0f9a7f:
@@ -530,13 +530,13 @@ translate french b1c07ss04_774f2f9d:
 translate french b1c07ss04_42e02b08:
 
     # mc "How'd you...get into the Winner's Club, anyway?"
-    mc "Comment tu... es entrée dans le Winner's Club, au fait ?"
+    mc "Comment tu... es entrée dans le Winner's Club, au fait?"
 
 # game/code/Book-1/Chapter-7s/s04.rpy:330
 translate french b1c07ss04_cd26dd41:
 
     # mc "Are you some rich fuck's kid?"
-    mc "Tu es le fils d'un riche connard ?"
+    mc "Tu es le fils d'un riche connard?"
 
 # game/code/Book-1/Chapter-7s/s04.rpy:333
 translate french b1c07ss04_531ab39a:
@@ -578,13 +578,13 @@ translate french b1c07ss04_abff1707:
 translate french b1c07ss04_5e106f41:
 
     # mc "Did you know Klara? It must've been hard to lose two friends at once."
-    mc "Tu connaissais Klara ? Ça a dû être difficile de perdre deux amis en même temps."
+    mc "Tu connaissais Klara? Ça a dû être difficile de perdre deux amis en même temps."
 
 # game/code/Book-1/Chapter-7s/s04.rpy:349
 translate french b1c07ss04_0f37ef6f:
 
     # zp "That other missing girl? Nah. I'm not close to any of the pretentious pricks within the club. Most are too stuck up to make friends with, anyway."
-    zp "Cette autre fille disparue ? Non. Je ne suis proche d'aucun des pricks prétentieux dans le club. La plupart sont trop snobs pour se faire des amis, de toute façon."
+    zp "Cette autre fille disparue? Non. Je ne suis proche d'aucun des pricks prétentieux dans le club. La plupart sont trop snobs pour se faire des amis, de toute façon."
 
 # game/code/Book-1/Chapter-7s/s04.rpy:350
 translate french b1c07ss04_70e602d6:
@@ -626,7 +626,7 @@ translate french b1c07ss04_7a5e8766:
 translate french b1c07ss04_84195448:
 
     # mc "You're a prodigy?"
-    mc "Tu es une prodige ?"
+    mc "Tu es une prodige?"
 
 # game/code/Book-1/Chapter-7s/s04.rpy:371
 translate french b1c07ss04_54568859:
@@ -710,7 +710,7 @@ translate french b1c07ss04_7a4e4d8d:
 translate french b1c07ss04_06a3988a:
 
     # zp "Right?! That's exactly how I feel too! It gives me such a feeling of empowerment and control! I love it."
-    zp "Exactement ! C'est exactement comme ça que je me sens aussi ! Ça me donne un tel sentiment de pouvoir et de contrôle ! J'adore ça."
+    zp "Exactement! C'est exactement comme ça que je me sens aussi! Ça me donne un tel sentiment de pouvoir et de contrôle! J'adore ça."
 
 # game/code/Book-1/Chapter-7s/s04.rpy:421
 translate french b1c07ss04_9769b421:
@@ -722,7 +722,7 @@ translate french b1c07ss04_9769b421:
 translate french b1c07ss04_18d6e1a8:
 
     # zp "Finally, I had something that was just mine, y'know? Something that I only do for fun."
-    zp "Enfin, j'avais quelque chose qui m'appartenait, tu vois ? Quelque chose que je fais juste pour le plaisir."
+    zp "Enfin, j'avais quelque chose qui m'appartenait, tu vois? Quelque chose que je fais juste pour le plaisir."
 
 # game/code/Book-1/Chapter-7s/s04.rpy:426
 translate french b1c07ss04_71698724:
@@ -740,7 +740,7 @@ translate french b1c07ss04_6751c84b:
 translate french b1c07ss04_bf52615f:
 
     # zp "For sure!"
-    zp "Bien sûr !"
+    zp "Bien sûr!"
 
 # game/code/Book-1/Chapter-7s/s04.rpy:438
 translate french b1c07ss04_12f70df7:
@@ -763,3 +763,4 @@ translate french strings:
     # game/code/Book-1/Chapter-7s/s04.rpy:254
     old "Comfort her"
     new "Réconforte-la"
+

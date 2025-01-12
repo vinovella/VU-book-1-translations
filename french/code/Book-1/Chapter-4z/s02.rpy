@@ -2,7 +2,7 @@
 translate french b1c04zs02_3141a8de:
 
     # ffl "So you said you were sailing with your dad?"
-    ffl "Alors, tu as dit que tu naviguais avec ton père ?"
+    ffl "Alors, tu as dit que tu naviguais avec ton père?"
 
 # game/code/Book-1/Chapter-4z/s02.rpy:14
 translate french b1c04zs02_18c6e121:
@@ -14,7 +14,7 @@ translate french b1c04zs02_18c6e121:
 translate french b1c04zs02_904fdbe7:
 
     # ffl "Cool! You're so lucky. My dad was more interested in...his profession, more than me."
-    ffl "Cool ! Tu as tellement de chance. Mon père s'intéressait plus à... son travail qu'à moi."
+    ffl "Cool! Tu as tellement de chance. Mon père s'intéressait plus à... son travail qu'à moi."
 
 # game/code/Book-1/Chapter-4z/s02.rpy:20
 translate french b1c04zs02_03208b43:
@@ -26,7 +26,7 @@ translate french b1c04zs02_03208b43:
 translate french b1c04zs02_ff21c523:
 
     # ffl "Yeah, it kinda was... Anyway, what places did you visit?"
-    ffl "Ouais, un peu... Bref, quels endroits avez-vous visités ?"
+    ffl "Ouais, un peu... Bref, quels endroits avez-vous visités?"
 
 # game/code/Book-1/Chapter-4z/s02.rpy:26
 translate french b1c04zs02_bc30846e:
@@ -38,7 +38,7 @@ translate french b1c04zs02_bc30846e:
 translate french b1c04zs02_1e529168:
 
     # ffl "That sounds incredible! I bet you learned a lot of life lessons on that trip."
-    ffl "Ça a l'air incroyable ! Je parie que tu as appris plein de leçons de vie pendant ce voyage."
+    ffl "Ça a l'air incroyable! Je parie que tu as appris plein de leçons de vie pendant ce voyage."
 
 # game/code/Book-1/Chapter-4z/s02.rpy:32
 translate french b1c04zs02_c6967b03:
@@ -62,7 +62,7 @@ translate french b1c04zs02_1debb549:
 translate french b1c04zs02_96d1ddfe:
 
     # zp "Why'd you bring this one?"
-    zp "Pourquoi t'as amené celui-là ?"
+    zp "Pourquoi t'as amené celui-là?"
 
 # game/code/Book-1/Chapter-4z/s02.rpy:53
 translate french b1c04zs02_a3d96989:
@@ -74,7 +74,7 @@ translate french b1c04zs02_a3d96989:
 translate french b1c04zs02_9299ee3b:
 
     # ffl "So! How did your online match go last night, Zemfira?"
-    ffl "Alors ! Comment s'est passé ton match en ligne hier soir, Zemfira ?"
+    ffl "Alors! Comment s'est passé ton match en ligne hier soir, Zemfira?"
 
 # game/code/Book-1/Chapter-4z/s02.rpy:70
 translate french b1c04zs02_634f0524:
@@ -86,7 +86,7 @@ translate french b1c04zs02_634f0524:
 translate french b1c04zs02_88473c86:
 
     # ffl "You wanna talk about it?"
-    ffl "Tu veux en parler ?"
+    ffl "Tu veux en parler?"
 
 # game/code/Book-1/Chapter-4z/s02.rpy:76
 translate french b1c04zs02_514c4f6a:
@@ -98,7 +98,7 @@ translate french b1c04zs02_514c4f6a:
 translate french b1c04zs02_bde615ca:
 
     # mc "What games do you play?"
-    mc "À quels jeux joues-tu ?"
+    mc "À quels jeux joues-tu?"
 
 # game/code/Book-1/Chapter-4z/s02.rpy:84
 translate french b1c04zs02_16dc2702:
@@ -140,7 +140,7 @@ translate french b1c04zs02_c62e5288:
 translate french b1c04zs02_fe60c330:
 
     # mc "You shoot guns?"
-    mc "Tu tires avec des armes ?"
+    mc "Tu tires avec des armes?"
 
 # game/code/Book-1/Chapter-4z/s02.rpy:104
 translate french b1c04zs02_00fdb632:
@@ -152,7 +152,7 @@ translate french b1c04zs02_00fdb632:
 translate french b1c04zs02_f395c6c8:
 
     # mc "Interesting. Which came first, the guns or the videogames?"
-    mc "Intéressant. Qu'est-ce qui est venu en premier, les armes ou les jeux vidéo ?"
+    mc "Intéressant. Qu'est-ce qui est venu en premier, les armes ou les jeux vidéo?"
 
 # game/code/Book-1/Chapter-4z/s02.rpy:110
 translate french b1c04zs02_6a2ff904:
@@ -230,31 +230,31 @@ translate french b1c04zs02_dad7a38d:
 translate french b1c04zs02_60400419:
 
     # gn "Hah! That explains a lot. Zemfira's a woman."
-    gn "Hah ! Ça explique tout. Zemfira est une femme."
+    gn "Hah! Ça explique tout. Zemfira est une femme."
 
 # game/code/Book-1/Chapter-4z/s02.rpy:155
 translate french b1c04zs02_35194c9f:
 
     # gn "How's music class coming along, Fleur? Is professor what's-his-face still a dick?"
-    gn "Comment se passe le cours de musique, Fleur ? Le professeur machin est toujours un con ?"
+    gn "Comment se passe le cours de musique, Fleur? Le professeur machin est toujours un con?"
 
 # game/code/Book-1/Chapter-4z/s02.rpy:158
 translate french b1c04zs02_57273615:
 
     # ffl "It's going great! And yeah. He's still a gigantic dick."
-    ffl "Ça se passe super bien ! Et oui. C'est toujours un énorme con."
+    ffl "Ça se passe super bien! Et oui. C'est toujours un énorme con."
 
 # game/code/Book-1/Chapter-4z/s02.rpy:161
 translate french b1c04zs02_16b92fd9:
 
     # zp "How so?"
-    zp "Pourquoi ça ?"
+    zp "Pourquoi ça?"
 
 # game/code/Book-1/Chapter-4z/s02.rpy:164
 translate french b1c04zs02_925da76a:
 
     # gn "I think I've seen him around. At least he's cute, right?"
-    gn "Je crois l'avoir vu quelque part. Au moins, il est mignon, non ?"
+    gn "Je crois l'avoir vu quelque part. Au moins, il est mignon, non?"
 
 # game/code/Book-1/Chapter-4z/s02.rpy:167
 translate french b1c04zs02_da3d1811:
@@ -278,7 +278,7 @@ translate french b1c04zs02_5dca44be:
 translate french b1c04zs02_2ed58c87:
 
     # ffl "Honestly? I don't think he's that cute. Unless you got a thing for decrepit and controlling."
-    ffl "Honnêtement ? Je ne le trouve pas si mignon. À moins que tu aies un faible pour les types décrépits et autoritaires."
+    ffl "Honnêtement? Je ne le trouve pas si mignon. À moins que tu aies un faible pour les types décrépits et autoritaires."
 
 # game/code/Book-1/Chapter-4z/s02.rpy:179
 translate french b1c04zs02_e9d83310:
@@ -314,13 +314,13 @@ translate french b1c04zs02_5592099a:
 translate french b1c04zs02_c90b20a2:
 
     # gn "I didn't even do anything!"
-    gn "Je n'ai même rien fait !"
+    gn "Je n'ai même rien fait!"
 
 # game/code/Book-1/Chapter-4z/s02.rpy:199
 translate french b1c04zs02_52aecee4:
 
     # mc "Nothing gets past you, does it?"
-    mc "Rien ne t'échappe, hein ?"
+    mc "Rien ne t'échappe, hein?"
 
 # game/code/Book-1/Chapter-4z/s02.rpy:202
 translate french b1c04zs02_2f509d15:
@@ -356,13 +356,13 @@ translate french b1c04zs02_836d88cf:
 translate french b1c04zs02_eb9aa3f6:
 
     # gn "So, [mcname], what are you here to study?"
-    gn "Alors, [mcname], qu'est-ce que tu viens étudier ici ?"
+    gn "Alors, [mcname], qu'est-ce que tu viens étudier ici?"
 
 # game/code/Book-1/Chapter-4z/s02.rpy:228
 translate french b1c04zs02_098927b9:
 
     # mct "Why does her voice sound strained all of a sudden?"
-    mct "Pourquoi sa voix semble-t-elle soudain tendue ?"
+    mct "Pourquoi sa voix semble-t-elle soudain tendue?"
 
 # game/code/Book-1/Chapter-4z/s02.rpy:233
 translate french b1c04zs02_fb5046ff:
@@ -374,13 +374,13 @@ translate french b1c04zs02_fb5046ff:
 translate french b1c04zs02_bdbb147c:
 
     # gn "Interesting. Why'd you start late?"
-    gn "Intéressant. Pourquoi as-tu commencé tard ?"
+    gn "Intéressant. Pourquoi as-tu commencé tard?"
 
 # game/code/Book-1/Chapter-4z/s02.rpy:239
 translate french b1c04zs02_a7c55003:
 
     # mct "What are they exchanging? Where the hell did this girl even come from?"
-    mct "Qu'est-ce qu'ils échangent ? D'où vient cette fille, au juste ?"
+    mct "Qu'est-ce qu'ils échangent? D'où vient cette fille, au juste?"
 
 # game/code/Book-1/Chapter-4z/s02.rpy:242
 translate french b1c04zs02_74267ad1:
@@ -392,13 +392,13 @@ translate french b1c04zs02_74267ad1:
 translate french b1c04zs02_8399089f:
 
     # ffl "He was {i}sailing!{/i}"
-    ffl "Il {i}naviguait !{/i}"
+    ffl "Il {i}naviguait!{/i}"
 
 # game/code/Book-1/Chapter-4z/s02.rpy:248
 translate french b1c04zs02_826085de:
 
     # mc "Someone you know?"
-    mc "Quelqu'un que tu connais ?"
+    mc "Quelqu'un que tu connais?"
 
 # game/code/Book-1/Chapter-4z/s02.rpy:251
 translate french b1c04zs02_4f5220a1:
@@ -410,13 +410,13 @@ translate french b1c04zs02_4f5220a1:
 translate french b1c04zs02_dfdaf799:
 
     # ffl "So...what other games are you playing right now, Zem?"
-    ffl "Alors... à quels autres jeux tu joues en ce moment, Zem ?"
+    ffl "Alors... à quels autres jeux tu joues en ce moment, Zem?"
 
 # game/code/Book-1/Chapter-4z/s02.rpy:257
 translate french b1c04zs02_fbacf6f1:
 
     # gn "Oh yeah! You recently started a new campaign, right?"
-    gn "Ah oui ! Tu as récemment commencé une nouvelle campagne, non ?"
+    gn "Ah oui! Tu as récemment commencé une nouvelle campagne, non?"
 
 # game/code/Book-1/Chapter-4z/s02.rpy:260
 translate french b1c04zs02_3a8df084:
@@ -446,22 +446,23 @@ translate french b1c04zs02_3957d6cd:
 translate french b1c04zs02_0c63ddf7:
 
     # gn "Hey, Foxy!"
-    gn "Hé, Foxy !"
+    gn "Hé, Foxy!"
 
 # game/code/Book-1/Chapter-4z/s02.rpy:281
 translate french b1c04zs02_cf997129:
 
     # zp "Hey! I was wondering when you'd show up."
-    zp "Salut ! Je me demandais quand tu allais arriver."
+    zp "Salut! Je me demandais quand tu allais arriver."
 
 # game/code/Book-1/Chapter-4z/s02.rpy:298
 translate french b1c04zs02_229b7229:
 
     # ffl "Bye, [mcname]!"
-    ffl "Salut, [mcname] !"
+    ffl "Salut, [mcname]!"
 
 # game/code/Book-1/Chapter-4z/s02.rpy:300
 translate french b1c04zs02_97dfcfe1:
 
     # mc "Later, Fleur."
     mc "À plus, Fleur."
+

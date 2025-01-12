@@ -68,13 +68,13 @@ translate french b1c08cs03_aed49a6d:
 translate french b1c08cs03_1d50dbf9:
 
     # ad "Attention, everyone! It's time to begin our welcoming ceremony."
-    ad "Attention, tout le monde ! Il est temps de commencer notre cérémonie d'accueil."
+    ad "Attention, tout le monde! Il est temps de commencer notre cérémonie d'accueil."
 
 # game/code/Book-1/Chapter-8c/s03.rpy:68
 translate french b1c08cs03_ad6d4c45:
 
     # ih "Welcome all! We are here to celebrate the arrival of our newcomers, and introduce them to our ways."
-    ih "Bienvenue à tous ! Nous sommes ici pour célébrer l'arrivée de nos nouveaux venus et leur présenter nos coutumes."
+    ih "Bienvenue à tous! Nous sommes ici pour célébrer l'arrivée de nos nouveaux venus et leur présenter nos coutumes."
 
 # game/code/Book-1/Chapter-8c/s03.rpy:70
 translate french b1c08cs03_dc9d80cc:
@@ -116,7 +116,7 @@ translate french b1c08cs03_01e5bdaf:
 translate french b1c08cs03_e261f23e:
 
     # ll "*Whispers* I wonder how high the ranks go?"
-    ll "*En chuchotant* Je me demande jusqu'où vont les rangs ?"
+    ll "*En chuchotant* Je me demande jusqu'où vont les rangs?"
 
 # game/code/Book-1/Chapter-8c/s03.rpy:84
 translate french b1c08cs03_6f1ba609:
@@ -134,13 +134,13 @@ translate french b1c08cs03_47170ea8:
 translate french b1c08cs03_576e8ffb:
 
     # ih "Do any of the newcomers have questions?"
-    ih "Est-ce que certains des nouveaux ont des questions ?"
+    ih "Est-ce que certains des nouveaux ont des questions?"
 
 # game/code/Book-1/Chapter-8c/s03.rpy:90
 translate french b1c08cs03_3baf6b16:
 
     # ll "How high do the ranks go? How do we know when we're healed?"
-    ll "Jusqu'où vont les rangs ? Comment savons-nous que nous sommes guéris ?"
+    ll "Jusqu'où vont les rangs? Comment savons-nous que nous sommes guéris?"
 
 # game/code/Book-1/Chapter-8c/s03.rpy:93
 translate french b1c08cs03_4fbc5c4d:
@@ -182,7 +182,7 @@ translate french b1c08cs03_d585c794:
 translate french b1c08cs03_6fa70de5:
 
     # nv "What happens when we rise a rank? How will we know?"
-    nv "Que se passe-t-il lorsque nous montons en rang ? Comment le saurons-nous ?"
+    nv "Que se passe-t-il lorsque nous montons en rang? Comment le saurons-nous?"
 
 # game/code/Book-1/Chapter-8c/s03.rpy:104
 translate french b1c08cs03_e27edf99:
@@ -248,19 +248,19 @@ translate french b1c08cs03_34572d53:
 translate french b1c08cs03_fcf518db:
 
     # mct "How do they decide when we've shed those illusions about ourselves?"
-    mct "Comment décident-ils que nous avons abandonné ces illusions sur nous-mêmes ?"
+    mct "Comment décident-ils que nous avons abandonné ces illusions sur nous-mêmes?"
 
 # game/code/Book-1/Chapter-8c/s03.rpy:125
 translate french b1c08cs03_41151c7f:
 
     # mct "How do any of us decide?"
-    mct "Comment décidons-nous ?"
+    mct "Comment décidons-nous?"
 
 # game/code/Book-1/Chapter-8c/s03.rpy:126
 translate french b1c08cs03_a383cb90:
 
     # mct "What's the line between vulnerability and exposure, between unity and conformity?"
-    mct "Quelle est la limite entre la vulnérabilité et l'exposition, entre l'unité et la conformité ?"
+    mct "Quelle est la limite entre la vulnérabilité et l'exposition, entre l'unité et la conformité?"
 
 # game/code/Book-1/Chapter-8c/s03.rpy:129
 translate french b1c08cs03_409a298d:
@@ -290,7 +290,7 @@ translate french b1c08cs03_116e59e3:
 translate french b1c08cs03_7b820552:
 
     # ad "Ivy, darling, would you start us off?"
-    ad "Ivy, ma chère, voudrais-tu commencer ?"
+    ad "Ivy, ma chère, voudrais-tu commencer?"
 
 # game/code/Book-1/Chapter-8c/s03.rpy:138
 translate french b1c08cs03_cc9bb9e5:
@@ -326,7 +326,7 @@ translate french b1c08cs03_fc664518:
 translate french b1c08cs03_b3f4fdc4:
 
     # ih "Sloan, my sweet. Would you care to join me?"
-    ih "Sloan, ma douce. Voudrais-tu me rejoindre ?"
+    ih "Sloan, ma douce. Voudrais-tu me rejoindre?"
 
 # game/code/Book-1/Chapter-8c/s03.rpy:154
 translate french b1c08cs03_52c966e3:
@@ -380,7 +380,7 @@ translate french b1c08cs03_01ab81c0:
 translate french b1c08cs03_78ca2d76:
 
     # ad "Nerium, would you do us the honor of sharing your vulnerability with us? To demonstrate for the newcomers."
-    ad "Nerium, voudrais-tu nous faire l'honneur de partager ta vulnérabilité avec nous ? Pour montrer l'exemple aux nouveaux arrivants."
+    ad "Nerium, voudrais-tu nous faire l'honneur de partager ta vulnérabilité avec nous? Pour montrer l'exemple aux nouveaux arrivants."
 
 # game/code/Book-1/Chapter-8c/s03.rpy:175
 translate french b1c08cs03_25f0ac8a:
@@ -392,7 +392,7 @@ translate french b1c08cs03_25f0ac8a:
 translate french b1c08cs03_25d7bf22:
 
     # ad "See? We are all welcome to celebrate our individuality as much as our vulnerability."
-    ad "Vous voyez ? Nous sommes tous invités à célébrer autant notre individualité que notre vulnérabilité."
+    ad "Vous voyez? Nous sommes tous invités à célébrer autant notre individualité que notre vulnérabilité."
 
 # game/code/Book-1/Chapter-8c/s03.rpy:179
 translate french b1c08cs03_36a01c19:
@@ -434,7 +434,7 @@ translate french b1c08cs03_c0a9103e:
 translate french b1c08cs03_3912ad09:
 
     # ad "Lumi, would you like to join our display of freedom and unguarded tenderness?"
-    ad "Lumi, voudrais-tu rejoindre notre démonstration de liberté et de tendresse sans retenue ?"
+    ad "Lumi, voudrais-tu rejoindre notre démonstration de liberté et de tendresse sans retenue?"
 
 # game/code/Book-1/Chapter-8c/s03.rpy:197
 translate french b1c08cs03_d5ecdcd8:
@@ -464,13 +464,13 @@ translate french b1c08cs03_62c2d83b:
 translate french b1c08cs03_a768e14f:
 
     # ad "Lumi, the others here have displayed their most sensitive forms to you. Do you really reject their vulnerabilities because of your own fears?"
-    ad "Lumi, les autres ici ont montré leurs formes les plus sensibles devant toi. Rejettes-tu vraiment leur vulnérabilité à cause de tes propres peurs ?"
+    ad "Lumi, les autres ici ont montré leurs formes les plus sensibles devant toi. Rejettes-tu vraiment leur vulnérabilité à cause de tes propres peurs?"
 
 # game/code/Book-1/Chapter-8c/s03.rpy:212
 translate french b1c08cs03_f25514f5:
 
     # ll "Of course not! They're beautiful, a-and bold, and strong. It's just that I'm...{w} not."
-    ll "Bien sûr que non ! Ils sont magnifiques, e-et audacieux, et forts. C'est juste que moi, je...{w} ne le suis pas."
+    ll "Bien sûr que non! Ils sont magnifiques, e-et audacieux, et forts. C'est juste que moi, je...{w} ne le suis pas."
 
 # game/code/Book-1/Chapter-8c/s03.rpy:214
 translate french b1c08cs03_e58c9b96:
@@ -506,7 +506,7 @@ translate french b1c08cs03_23ef6090:
 translate french b1c08cs03_e342224a:
 
     # mc "It's just like the rooftop garden, right? You can do it."
-    mc "C'est comme le jardin sur le toit, non ? Tu peux le faire."
+    mc "C'est comme le jardin sur le toit, non? Tu peux le faire."
 
 # game/code/Book-1/Chapter-8c/s03.rpy:227
 translate french b1c08cs03_8344224a:
@@ -584,7 +584,7 @@ translate french b1c08cs03_a90461a4:
 translate french b1c08cs03_1c636ca8:
 
     # ad "Isn't she beautiful? Everyone, clap for our brave girl!"
-    ad "N'est-elle pas magnifique ? Tout le monde, applaudissez notre courageuse !"
+    ad "N'est-elle pas magnifique? Tout le monde, applaudissez notre courageuse!"
 
 # game/code/Book-1/Chapter-8c/s03.rpy:259
 translate french b1c08cs03_cace9c3e:
@@ -602,13 +602,13 @@ translate french b1c08cs03_ac286add:
 translate french b1c08cs03_f9a9ae08:
 
     # ad "Tell me, how do you feel now, Lumi?"
-    ad "Dis-moi, comment te sens-tu maintenant, Lumi ?"
+    ad "Dis-moi, comment te sens-tu maintenant, Lumi?"
 
 # game/code/Book-1/Chapter-8c/s03.rpy:266
 translate french b1c08cs03_8759f609:
 
     # ll "I feel so free and pure!"
-    ll "Je me sens si libre et pure !"
+    ll "Je me sens si libre et pure!"
 
 # game/code/Book-1/Chapter-8c/s03.rpy:270
 translate french b1c08cs03_528d0576:
@@ -620,7 +620,7 @@ translate french b1c08cs03_528d0576:
 translate french b1c08cs03_5074f751:
 
     # ll "It feels so sacred and heavenly to let go of my insecurities like this!"
-    ll "C'est tellement sacré et paradisiaque de laisser tomber mes insécurités comme ça !"
+    ll "C'est tellement sacré et paradisiaque de laisser tomber mes insécurités comme ça!"
 
 # game/code/Book-1/Chapter-8c/s03.rpy:275
 translate french b1c08cs03_4e0ab4af:
@@ -638,7 +638,7 @@ translate french b1c08cs03_11d90302:
 translate french b1c08cs03_a1d75152:
 
     # ih "That's very good, Lumi!"
-    ih "C'est très bien, Lumi !"
+    ih "C'est très bien, Lumi!"
 
 # game/code/Book-1/Chapter-8c/s03.rpy:285
 translate french b1c08cs03_2f75f04a:
@@ -650,7 +650,7 @@ translate french b1c08cs03_2f75f04a:
 translate french b1c08cs03_467a140e:
 
     # ad "Lumi, would you care to share your own vulnerabilities with us?"
-    ad "Lumi, aimerais-tu partager tes propres vulnérabilités avec nous ?"
+    ad "Lumi, aimerais-tu partager tes propres vulnérabilités avec nous?"
 
 # game/code/Book-1/Chapter-8c/s03.rpy:293
 translate french b1c08cs03_e8875499:
@@ -668,7 +668,7 @@ translate french b1c08cs03_4c7d0b5c:
 translate french b1c08cs03_f919a811:
 
     # ad "Can't you go further?"
-    ad "Tu ne peux pas aller plus loin ?"
+    ad "Tu ne peux pas aller plus loin?"
 
 # game/code/Book-1/Chapter-8c/s03.rpy:298
 translate french b1c08cs03_43fa9f1f:
@@ -728,7 +728,7 @@ translate french b1c08cs03_142ec5d1:
 translate french b1c08cs03_f12102bd:
 
     # ad "She needs help. Can't you see she needs help? Comfort her. Encourage our beautiful bud to bloom."
-    ad "Elle a besoin d'aide. Ne voyez-vous pas qu'elle a besoin d'aide ? Réconfortez-la. Encouragez notre magnifique bourgeon à fleurir."
+    ad "Elle a besoin d'aide. Ne voyez-vous pas qu'elle a besoin d'aide? Réconfortez-la. Encouragez notre magnifique bourgeon à fleurir."
 
 # game/code/Book-1/Chapter-8c/s03.rpy:328
 translate french b1c08cs03_42cfae22:
@@ -848,7 +848,7 @@ translate french b1c08cs03_fe7a4e85:
 translate french b1c08cs03_158601fc:
 
     # "Ivy's hips buck into her fingers as she makes herself cum. Her legs shake with the effort of staying upright." id b1c08cs03_158601fc
-    "Les hanches d'Ivy se replient entre ses doigts pendant qu'elle se fait jouir. Ses jambes tremblent sous l'effort de rester droite." identifiant b1c08cs03_158601fc
+    "Les hanches d'Ivy se replient entre ses doigts pendant qu'elle se fait jouir. Ses jambes tremblent sous l'effort de rester droite." id b1c08cs03_158601fc
 
 # game/code/Book-1/Chapter-8c/s03.rpy:410
 translate french b1c08cs03_bdc8887c:
@@ -872,7 +872,7 @@ translate french b1c08cs03_fbaa59a8:
 translate french b1c08cs03_050726d4:
 
     # ad "Lumi, would you also like to orgasm?"
-    ad "Lumi, tu aimerais aussi avoir un orgasme ?"
+    ad "Lumi, tu aimerais aussi avoir un orgasme?"
 
 # game/code/Book-1/Chapter-8c/s03.rpy:426
 translate french b1c08cs03_74b21c5d:
@@ -902,13 +902,13 @@ translate french b1c08cs03_0bb98b28:
 translate french b1c08cs03_77a73a34:
 
     # ad "She's beautiful! She's beautiful!"
-    ad "Elle est belle ! Elle est belle !"
+    ad "Elle est belle! Elle est belle!"
 
 # game/code/Book-1/Chapter-8c/s03.rpy:442
 translate french b1c08cs03_f6874a76:
 
     # "The crowd picks up the chant, the words melding into a hypnotic mantra. \"She's beautiful, she's beautiful,\" they echo, until it feels as if the very trees around you whisper the affirmation."
-    "La foule reprend le chant, les mots se fondant dans un mantra hypnotique. "Elle est belle, elle est belle", résonnent-ils, jusqu'à ce que l'on ait l'impression que les arbres autour de vous murmurent l'affirmation."
+    "La foule reprend le chant, les mots se fondant dans un mantra hypnotique. \"Elle est belle, elle est belle\", résonnent-ils, jusqu'à ce que l'on ait l'impression que les arbres autour de vous murmurent l'affirmation."
 
 # game/code/Book-1/Chapter-8c/s03.rpy:445
 translate french b1c08cs03_33d1e7ef:
@@ -920,7 +920,7 @@ translate french b1c08cs03_33d1e7ef:
 translate french b1c08cs03_af8e45b1:
 
     # mct "Well that was a concerning display. Why couldn't Lumi say no like Sloan and Nerium could? Why was it so important that she masturbate?"
-    mct "Eh bien, c'était un spectacle inquiétant. Pourquoi Lumi ne pouvait-elle pas dire non comme Sloan et Nerium le pouvaient ? Pourquoi était-il si important qu'elle se masturbe ?"
+    mct "Eh bien, c'était un spectacle inquiétant. Pourquoi Lumi ne pouvait-elle pas dire non comme Sloan et Nerium le pouvaient? Pourquoi était-il si important qu'elle se masturbe?"
 
 # game/code/Book-1/Chapter-8c/s03.rpy:450
 translate french b1c08cs03_db455820:
@@ -938,7 +938,7 @@ translate french b1c08cs03_944aeef0:
 translate french b1c08cs03_455490a7:
 
     # mc "*Whispers* See? I knew you could do it. You just have to get over yourself."
-    mc "*Chuchote* Tu vois ? Je savais que tu pouvais le faire. Tu dois juste te remettre de toi-même."
+    mc "*Chuchote* Tu vois? Je savais que tu pouvais le faire. Tu dois juste te remettre de toi-même."
 
 # game/code/Book-1/Chapter-8c/s03.rpy:467
 translate french b1c08cs03_d43c7802:
@@ -980,7 +980,7 @@ translate french b1c08cs03_64c9e2e1:
 translate french b1c08cs03_045d88ed:
 
     # ih "May I ask why you were so hesitant? Who made you so insecure about your own body?"
-    ih « Puis-je vous demander pourquoi vous étiez si hésitant ? Qui vous a rendu si peu sûr de votre propre corps ?
+    ih "Puis-je vous demander pourquoi vous étiez si hésitant? Qui vous a rendu si peu sûr de votre propre corps?"
 
 # game/code/Book-1/Chapter-8c/s03.rpy:484
 translate french b1c08cs03_5383613b:
@@ -1016,7 +1016,7 @@ translate french b1c08cs03_5173fda8:
 translate french b1c08cs03_a471bda4:
 
     # ad "This is why we need {i}each other{/i}."
-    ad "C'est pourquoi nous avons besoin les uns des autres{/i}."
+    ad "C'est pourquoi nous avons besoin les uns des autres."
 
 # game/code/Book-1/Chapter-8c/s03.rpy:499
 translate french b1c08cs03_1b4a9629:
@@ -1052,7 +1052,7 @@ translate french b1c08cs03_cf0270b9:
 translate french b1c08cs03_17eb7866:
 
     # ad "Who here is willing to share something they dislike about themselves? To share their insecurities and further our understanding of each other?"
-    ad "Qui ici est prêt à partager quelque chose qu'il n'aime pas chez lui-même ? Pour partager ses insécurités et approfondir notre compréhension mutuelle ?"
+    ad "Qui ici est prêt à partager quelque chose qu'il n'aime pas chez lui-même? Pour partager ses insécurités et approfondir notre compréhension mutuelle?"
 
 # game/code/Book-1/Chapter-8c/s03.rpy:510
 translate french b1c08cs03_72e22db0:
@@ -1118,13 +1118,13 @@ translate french b1c08cs03_20888b44:
 translate french b1c08cs03_23645a13:
 
     # ad "So let's reframe that, shall we?"
-    ad "Alors recadrons cela, d'accord ?"
+    ad "Alors recadrons cela, d'accord?"
 
 # game/code/Book-1/Chapter-8c/s03.rpy:541
 translate french b1c08cs03_d7861bfb:
 
     # ad "Repeat after me, \"I am perfect as I am. I am worthy.\""
-    ad "Répétez après moi, \"Je suis parfait tel que je suis". J'en suis digne.\""
+    ad "Répétez après moi, \"Je suis parfait tel que je suis. J'en suis digne.\""
 
 # game/code/Book-1/Chapter-8c/s03.rpy:543
 translate french b1c08cs03_b787eea7:
@@ -1160,7 +1160,7 @@ translate french b1c08cs03_e6116568:
 translate french b1c08cs03_c8e2f930:
 
     # ad "And you, [mcname]. What do you despise about yourself?"
-    ad "Et toi, [mcname]. Qu'est-ce que tu méprises chez toi ?"
+    ad "Et toi, [mcname]. Qu'est-ce que tu méprises chez toi?"
 
 # game/code/Book-1/Chapter-8c/s03.rpy:559
 translate french b1c08cs03_e8be8eeb:
@@ -1196,7 +1196,7 @@ translate french b1c08cs03_1b494f0d:
 translate french b1c08cs03_8122d7c5:
 
     # ad "Repeat after me, \"I am an example of what rock bottom looks like, but every bottom is a foundation for growth.\""
-    ad "Répétez après moi, \"Je suis un exemple de ce à quoi ressemble le fond, mais chaque fond est une base pour la croissance.\""
+    ad "Répétez après moi,\"Je suis un exemple de ce à quoi ressemble le fond, mais chaque fond est une base pour la croissance.\""
 
 # game/code/Book-1/Chapter-8c/s03.rpy:571
 translate french b1c08cs03_918dcf8b:
@@ -1250,7 +1250,7 @@ translate french b1c08cs03_601442a7:
 translate french b1c08cs03_e74b8e69:
 
     # ad "That is all I have for now. I hope you all have a wonderful time here. Mingle! And enjoy yourselves before bed."
-    ad "C'est tout ce que j'ai pour l'instant. J'espère que vous passerez tous un merveilleux moment ici. Mélangez-vous ! Et amusez-vous avant de vous coucher."
+    ad "C'est tout ce que j'ai pour l'instant. J'espère que vous passerez tous un merveilleux moment ici. Mélangez-vous! Et amusez-vous avant de vous coucher."
 
 # game/code/Book-1/Chapter-8c/s03.rpy:592
 translate french b1c08cs03_c2ad6b97:
@@ -1268,13 +1268,13 @@ translate french b1c08cs03_fb1439d7:
 translate french b1c08cs03_3d7e5e9f:
 
     # nv "It was so exhilarating to show our most vulnerable selves!"
-    nv "C'était tellement exaltant de montrer nos êtres les plus vulnérables !"
+    nv "C'était tellement exaltant de montrer nos êtres les plus vulnérables!"
 
 # game/code/Book-1/Chapter-8c/s03.rpy:601
 translate french b1c08cs03_3ddff79e:
 
     # nv "How do you feel, Lumi?"
-    nv "Comment te sens-tu, Lumi ?"
+    nv "Comment te sens-tu, Lumi?"
 
 # game/code/Book-1/Chapter-8c/s03.rpy:604
 translate french b1c08cs03_1dd50699:
@@ -1304,19 +1304,19 @@ translate french b1c08cs03_eb9015ed:
 translate french b1c08cs03_9d37499c:
 
     # nv "Gosh, I feel so alive!"
-    nv "Mon Dieu, je me sens si vivant !"
+    nv "Mon Dieu, je me sens si vivant!"
 
 # game/code/Book-1/Chapter-8c/s03.rpy:614
 translate french b1c08cs03_8e9975f9:
 
     # nv "Dance with me, Del!"
-    nv "Danse avec moi, Del !"
+    nv "Danse avec moi, Del!"
 
 # game/code/Book-1/Chapter-8c/s03.rpy:618
 translate french b1c08cs03_0793b72b:
 
     # nv "You guys too! Let's all dance together!"
-    nv "Vous aussi les gars ! Dansons tous ensemble !"
+    nv "Vous aussi les gars! Dansons tous ensemble!"
 
 # game/code/Book-1/Chapter-8c/s03.rpy:625
 translate french b1c08cs03_70d10eed:
@@ -1352,13 +1352,13 @@ translate french b1c08cs03_8a6a9eb3:
 translate french b1c08cs03_c3dcd473:
 
     # mct "A cave? Tonight?"
-    mct "Une grotte ? Ce soir ?"
+    mct "Une grotte? Ce soir?"
 
 # game/code/Book-1/Chapter-8c/s03.rpy:644
 translate french b1c08cs03_aeee8a5d:
 
     # ll "I'm having so much fun!"
-    ll "Je m'amuse tellement !"
+    ll "Je m'amuse tellement!"
 
 # game/code/Book-1/Chapter-8c/s03.rpy:645
 translate french b1c08cs03_8688b767:
@@ -1394,7 +1394,7 @@ translate french b1c08cs03_09d65694:
 translate french b1c08cs03_e80bc858:
 
     # nv "We have to do this more often!"
-    nv "Nous devons faire ça plus souvent !"
+    nv "Nous devons faire ça plus souvent!"
 
 # game/code/Book-1/Chapter-8c/s03.rpy:660
 translate french b1c08cs03_84e3a694:
@@ -1412,13 +1412,13 @@ translate french b1c08cs03_4305c822:
 translate french b1c08cs03_86786e23:
 
     # ij "Would you mind if we join?"
-    ij "Est-ce que ça vous dérangerait si nous nous rejoignions ?"
+    ij "Est-ce que ça vous dérangerait si nous nous rejoignions?"
 
 # game/code/Book-1/Chapter-8c/s03.rpy:670
 translate french b1c08cs03_53d70e0f:
 
     # ll "No! Come, let's spread the joy!"
-    ll "Non ! Viens, répandons la joie !"
+    ll "Non! Viens, répandons la joie!"
 
 # game/code/Book-1/Chapter-8c/s03.rpy:671
 translate french b1c08cs03_707c1d35:
@@ -1466,7 +1466,7 @@ translate french b1c08cs03_00124994:
 translate french b1c08cs03_43ca8d03:
 
     # sta "Did you enjoy yourself at least?"
-    sta "Tu t'es amusé au moins ?"
+    sta "Tu t'es amusé au moins?"
 
 # game/code/Book-1/Chapter-8c/s03.rpy:698
 translate french b1c08cs03_40607ff7:
@@ -1502,13 +1502,13 @@ translate french b1c08cs03_03e8b8a8:
 translate french b1c08cs03_81e4bba9:
 
     # ys "*yawns* Ugh, you're right. I'm pretty sleepy after all that. It was fun to get an introduction to the newcomers though!"
-    ys "*baille* Ugh, tu as raison. J'ai plutôt sommeil après tout ça. Mais c'était amusant de se présenter aux nouveaux arrivants !"
+    ys "*baille* Ugh, tu as raison. J'ai plutôt sommeil après tout ça. Mais c'était amusant de se présenter aux nouveaux arrivants!"
 
 # game/code/Book-1/Chapter-8c/s03.rpy:711
 translate french b1c08cs03_c88782f5:
 
     # ys "You're all so unique!"
-    ys "Vous êtes tous si uniques !"
+    ys "Vous êtes tous si uniques!"
 
 # game/code/Book-1/Chapter-8c/s03.rpy:714
 translate french b1c08cs03_a7e9d235:
@@ -1532,7 +1532,7 @@ translate french b1c08cs03_14174db1:
 translate french b1c08cs03_420ba82a:
 
     # ys "Goodnight you guys!"
-    ys "Bonne nuit les gars !"
+    ys "Bonne nuit les gars!"
 
 # game/code/Book-1/Chapter-8c/s03.rpy:723
 translate french b1c08cs03_1fe261c6:

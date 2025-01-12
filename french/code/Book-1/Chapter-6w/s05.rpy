@@ -1,7 +1,7 @@
 # game/code/Book-1/Chapter-6w/s05.rpy:31
 translate french b1c06ws05_859a4eec:
     # mct "Jesus!"
-    mct "Jésus !"
+    mct "Jésus!"
 
 # game/code/Book-1/Chapter-6w/s05.rpy:37
 translate french b1c06ws05_89906bd5:
@@ -36,7 +36,7 @@ translate french b1c06ws05_c25733ec:
 # game/code/Book-1/Chapter-6w/s05.rpy:57
 translate french b1c06ws05_79d91a96:
     # mct "Huh!"
-    mct "Hein !"
+    mct "Hein!"
 
 # game/code/Book-1/Chapter-6w/s05.rpy:59
 translate french b1c06ws05_d06864f3:
@@ -136,7 +136,7 @@ translate french b1c06ws05_e86babff:
 # game/code/Book-1/Chapter-6w/s05.rpy:98
 translate french b1c06ws05_1cbc607d:
     # sdl "Hah! Are they that boring and predictable?"
-    sdl "Hah ! Sont-ils vraiment si ennuyeux et prévisibles ?"
+    sdl "Hah! Sont-ils vraiment si ennuyeux et prévisibles?"
 
 # game/code/Book-1/Chapter-6w/s05.rpy:101
 translate french b1c06ws05_35126bba:
@@ -146,7 +146,7 @@ translate french b1c06ws05_35126bba:
 # game/code/Book-1/Chapter-6w/s05.rpy:104
 translate french b1c06ws05_a9782191:
     # sdl "Who's side are you on, anyway?"
-    sdl "De quel côté es-tu, au fait ?"
+    sdl "De quel côté es-tu, au fait?"
 
 # game/code/Book-1/Chapter-6w/s05.rpy:106
 translate french b1c06ws05_c85d5d47:
@@ -191,7 +191,7 @@ translate french b1c06ws05_d3496b79:
 # game/code/Book-1/Chapter-6w/s05.rpy:129
 translate french b1c06ws05_5c65ae27:
     # sdl "You're just a guy on your own who desperately wants into the Winner's Club?"
-    sdl "Tu es juste un gars tout seul qui veut désespérément entrer dans le Club des Gagnants ?"
+    sdl "Tu es juste un gars tout seul qui veut désespérément entrer dans le Club des Gagnants?"
 
 # game/code/Book-1/Chapter-6w/s05.rpy:132
 translate french b1c06ws05_6a9d6850:
@@ -201,7 +201,7 @@ translate french b1c06ws05_6a9d6850:
 # game/code/Book-1/Chapter-6w/s05.rpy:135
 translate french b1c06ws05_0c3eea8b:
     # sdl "What is it about the club that you want to be a part of?"
-    sdl "Qu'est-ce que tu trouves intéressant dans ce club pour vouloir en faire partie ?"
+    sdl "Qu'est-ce que tu trouves intéressant dans ce club pour vouloir en faire partie?"
 
 # game/code/Book-1/Chapter-6w/s05.rpy:136
 translate french b1c06ws05_c7afb77b:
@@ -236,12 +236,12 @@ translate french b1c06ws05_dce15c50:
 # game/code/Book-1/Chapter-6w/s05.rpy:150
 translate french b1c06ws05_e679d1eb:
     # sdl "And if I help you what could you offer me?"
-    sdl "Et si je t'aide, qu'est-ce que tu pourrais m'offrir ?"
+    sdl "Et si je t'aide, qu'est-ce que tu pourrais m'offrir?"
 
 # game/code/Book-1/Chapter-6w/s05.rpy:153
 translate french b1c06ws05_2f02466f:
     # mc "Well you said you wanted back into the club, right? I could—"
-    mc "Eh bien, tu as dit que tu voulais revenir dans le club, non ? Je pourrais—"
+    mc "Eh bien, tu as dit que tu voulais revenir dans le club, non? Je pourrais—"
 
 # game/code/Book-1/Chapter-6w/s05.rpy:156
 translate french b1c06ws05_7916d5e7:
@@ -256,7 +256,7 @@ translate french b1c06ws05_687d5779:
 # game/code/Book-1/Chapter-6w/s05.rpy:161
 translate french b1c06ws05_457fb084:
     # mc "Jeez, what'd they do to you, Sam?"
-    mc "Mince, qu'est-ce qu'ils t'ont fait, Sam ?"
+    mc "Mince, qu'est-ce qu'ils t'ont fait, Sam?"
 
 # game/code/Book-1/Chapter-6w/s05.rpy:164
 translate french b1c06ws05_3b8f75f3:
@@ -266,7 +266,7 @@ translate french b1c06ws05_3b8f75f3:
 # game/code/Book-1/Chapter-6w/s05.rpy:166
 translate french b1c06ws05_076dc0f5:
     # sdl "Isa, the one with braided brown hair? She backstabbed me at a party."
-    sdl "Isa, celle avec les cheveux bruns tressés ? Elle m'a poignardé dans le dos à une fête."
+    sdl "Isa, celle avec les cheveux bruns tressés? Elle m'a poignardé dans le dos à une fête."
 
 # game/code/Book-1/Chapter-6w/s05.rpy:182
 translate french b1c06ws05_1f49ecf8:
@@ -281,7 +281,7 @@ translate french b1c06ws05_bbdb908a:
 # game/code/Book-1/Chapter-6w/s05.rpy:188
 translate french b1c06ws05_5cb18ad0:
     # mc "...Why do you want to go back into a group with people who treated you badly? Wouldn't you be happier finding people who appreciate you?"
-    mc "...Pourquoi veux-tu revenir dans un groupe avec des gens qui t'ont maltraitée ? Tu ne serais pas plus heureuse de trouver des gens qui t'apprécient ?"
+    mc "...Pourquoi veux-tu revenir dans un groupe avec des gens qui t'ont maltraitée? Tu ne serais pas plus heureuse de trouver des gens qui t'apprécient?"
 
 # game/code/Book-1/Chapter-6w/s05.rpy:191
 translate french b1c06ws05_acc67502:
@@ -311,12 +311,12 @@ translate french b1c06ws05_085f2096:
 # game/code/Book-1/Chapter-6w/s05.rpy:201
 translate french b1c06ws05_a44c31a9:
     # mc "Does Isa host a lot of parties for the club?"
-    mc "Est-ce qu'Isa organise beaucoup de soirées pour le club ?"
+    mc "Est-ce qu'Isa organise beaucoup de soirées pour le club?"
 
 # game/code/Book-1/Chapter-6w/s05.rpy:204
 translate french b1c06ws05_ba67b126:
     # sdl "What's it to you? You think she's cute or something?"
-    sdl "Qu'est-ce que ça te fait ? Tu la trouves mignonne ou quoi ?"
+    sdl "Qu'est-ce que ça te fait? Tu la trouves mignonne ou quoi?"
 
 # game/code/Book-1/Chapter-6w/s05.rpy:207
 translate french b1c06ws05_81650c6a:
@@ -341,7 +341,7 @@ translate french b1c06ws05_93169d2b:
 # game/code/Book-1/Chapter-6w/s05.rpy:216
 translate french b1c06ws05_acb1655d:
     # sdl "So what'll it be? Will you scratch my back, so I can scratch yours?"
-    sdl "Alors, que choisis-tu ? Tu me rends service, et je t'en rends une ?"
+    sdl "Alors, que choisis-tu? Tu me rends service, et je t'en rends une?"
 
 # game/code/Book-1/Chapter-6w/s05.rpy:218
 translate french b1c06ws05_188b9132:
@@ -371,7 +371,7 @@ translate french b1c06ws05_3d604bf9:
 # game/code/Book-1/Chapter-6w/s05.rpy:234
 translate french b1c06ws05_7843d913:
     # sdl "R-really? With me?"
-    sdl "R-vraiment ? Avec moi ?"
+    sdl "R-vraiment? Avec moi?"
 
 # game/code/Book-1/Chapter-6w/s05.rpy:237
 translate french b1c06ws05_1b822232:
@@ -381,7 +381,7 @@ translate french b1c06ws05_1b822232:
 # game/code/Book-1/Chapter-6w/s05.rpy:240
 translate french b1c06ws05_a25205ed:
     # mc "Why not? We have a mutually beneficial interest."
-    mc "Pourquoi pas ? Nous avons un intérêt mutuellement bénéfique."
+    mc "Pourquoi pas? Nous avons un intérêt mutuellement bénéfique."
 
 # game/code/Book-1/Chapter-6w/s05.rpy:243
 translate french b1c06ws05_f1f5706e:
@@ -401,7 +401,7 @@ translate french b1c06ws05_5de74a9b:
 # game/code/Book-1/Chapter-6w/s05.rpy:255
 translate french b1c06ws05_81709362:
     # mc "You do?"
-    mc "Tu comprends ?"
+    mc "Tu comprends?"
 
 # game/code/Book-1/Chapter-6w/s05.rpy:261
 translate french b1c06ws05_2af0ca36:
@@ -480,3 +480,4 @@ translate french strings:
 # game/code/Book-1/Chapter-6w/s05.rpy:276
     old "Later that evening\nBack at the dorm"
     new "Plus tard dans la soirée\nDe retour au dortoir"
+

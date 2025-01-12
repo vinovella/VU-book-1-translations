@@ -50,19 +50,19 @@ translate french b1c07s04_ed7fc435:
 translate french b1c07s04_ff9cc2ac:
 
     # mc "Okay... What's the problem?"
-    mc "D'accord... Quel est le problème ?"
+    mc "D'accord... Quel est le problème?"
 
 # game/code/Book-1/Chapter-7/s04.rpy:47
 translate french b1c07s04_66886bd4:
 
     # rh "*Chuckling* If a young lady offers anal intercourse on a first date, does that or does that not make her a slut?"
-    rh "*Riant* Si une jeune femme propose des rapports anaux lors d'un premier rendez-vous, est-ce que ça fait d'elle une salope ?"
+    rh "*Riant* Si une jeune femme propose des rapports anaux lors d'un premier rendez-vous, est-ce que ça fait d'elle une salope?"
 
 # game/code/Book-1/Chapter-7/s04.rpy:49
 translate french b1c07s04_ea3b47e0:
 
     # mc "...Huh?"
-    mc "...Hein ?"
+    mc "...Hein?"
 
 # game/code/Book-1/Chapter-7/s04.rpy:53
 translate french b1c07s04_0f50e2e4:
@@ -74,7 +74,7 @@ translate french b1c07s04_0f50e2e4:
 translate french b1c07s04_4f86c7c5:
 
     # dm "You heard her. Does giving anal on a first date make a girl a slut?"
-    dm "Tu l'as entendue. Est-ce que donner un anal lors d'un premier rendez-vous fait d'une salope ?"
+    dm "Tu l'as entendue. Est-ce que donner un anal lors d'un premier rendez-vous fait d'une salope?"
 
 # game/code/Book-1/Chapter-7/s04.rpy:56
 translate french b1c07s04_1fb3b13b:
@@ -110,7 +110,7 @@ translate french b1c07s04_878dfe56:
 translate french b1c07s04_30eabc19:
 
     # dm "Interesting... So then you don't see it as a problem?"
-    dm "Intéressant... Donc tu ne vois pas ça comme un problème ?"
+    dm "Intéressant... Donc tu ne vois pas ça comme un problème?"
 
 # game/code/Book-1/Chapter-7/s04.rpy:71
 translate french b1c07s04_f5497500:
@@ -146,13 +146,13 @@ translate french b1c07s04_055b21e8:
 translate french b1c07s04_1d624ded:
 
     # rh "Already? You barely finished your drink."
-    rh "Déjà ? Tu n'as même pas fini ta boisson."
+    rh "Déjà? Tu n'as même pas fini ta boisson."
 
 # game/code/Book-1/Chapter-7/s04.rpy:91
 translate french b1c07s04_eaa04675:
 
     # dm "*Laughs* Maybe you can finish it up for me, hm?"
-    dm "*Rit* Peut-être que tu peux la finir pour moi, hm ?"
+    dm "*Rit* Peut-être que tu peux la finir pour moi, hm?"
 
 # game/code/Book-1/Chapter-7/s04.rpy:92
 translate french b1c07s04_8a18e5c8:
@@ -164,13 +164,13 @@ translate french b1c07s04_8a18e5c8:
 translate french b1c07s04_4f4a3268:
 
     # rh "Mm. If only I knew how you viewed things before. Maybe I should've given my ass to you first, hm?"
-    rh "Mm. Si seulement j'avais su comment tu voyais les choses avant. Peut-être que j'aurais dû te donner mon cul en premier, hm ?"
+    rh "Mm. Si seulement j'avais su comment tu voyais les choses avant. Peut-être que j'aurais dû te donner mon cul en premier, hm?"
 
 # game/code/Book-1/Chapter-7/s04.rpy:101
 translate french b1c07s04_e111924a:
 
     # mc "I— What?"
-    mc "Je— Quoi ?"
+    mc "Je— Quoi?"
 
 # game/code/Book-1/Chapter-7/s04.rpy:104
 translate french b1c07s04_0045d6fc:
@@ -194,7 +194,7 @@ translate french b1c07s04_73ddfad8:
 translate french b1c07s04_15ddecbc:
 
     # rh "It's been so long since our last time, don't you think?"
-    rh "Cela fait si longtemps depuis notre dernière fois, tu ne trouves pas ?"
+    rh "Cela fait si longtemps depuis notre dernière fois, tu ne trouves pas?"
 
 # game/code/Book-1/Chapter-7/s04.rpy:114
 translate french b1c07s04_43f8508f:
@@ -206,7 +206,7 @@ translate french b1c07s04_43f8508f:
 translate french b1c07s04_d110a9c5:
 
     # rh "*Smiles deviously* So then, why don't we do something about it soon, hm?"
-    rh "*Sourit de manière sournoise* Alors, pourquoi ne ferions-nous pas quelque chose à ce sujet bientôt, hm ?"
+    rh "*Sourit de manière sournoise* Alors, pourquoi ne ferions-nous pas quelque chose à ce sujet bientôt, hm?"
 
 # game/code/Book-1/Chapter-7/s04.rpy:118
 translate french b1c07s04_8849df81:
@@ -224,7 +224,7 @@ translate french b1c07s04_80701c7b:
 translate french b1c07s04_f0faa60b:
 
     # mct "She isn't going to let this go now, is she? I can't rebuff her outright or I might lose her support."
-    mct "Elle ne va pas laisser tomber ça maintenant, n'est-ce pas ? Je ne peux pas la repousser directement ou je risque de perdre son soutien."
+    mct "Elle ne va pas laisser tomber ça maintenant, n'est-ce pas? Je ne peux pas la repousser directement ou je risque de perdre son soutien."
 
 # game/code/Book-1/Chapter-7/s04.rpy:128
 translate french b1c07s04_d4368d95:
@@ -242,7 +242,7 @@ translate french b1c07s04_01ba8e1c:
 translate french b1c07s04_8af5994f:
 
     # rh "My, oh my. You sure know how to get a girl worked up, don't you?"
-    rh "Mon Dieu. Tu sais vraiment comment exciter une fille, n'est-ce pas ?"
+    rh "Mon Dieu. Tu sais vraiment comment exciter une fille, n'est-ce pas?"
 
 # game/code/Book-1/Chapter-7/s04.rpy:136
 translate french b1c07s04_3efc5a6f:
@@ -284,7 +284,7 @@ translate french b1c07s04_5cc9f1be:
 translate french b1c07s04_5afb95db:
 
     # rh "What was her name again? Olyia, Oleysi? I heard from the grapevine that she almost got expelled due to some trouble with \"illicit substances.\""
-    rh "C'était quoi son nom déjà ? Olyia, Oleysi ? J'ai entendu dire qu'elle avait failli se faire renvoyer à cause de problèmes avec des \"substances illicites.\""
+    rh "C'était quoi son nom déjà? Olyia, Oleysi? J'ai entendu dire qu'elle avait failli se faire renvoyer à cause de problèmes avec des \"substances illicites.\""
 
 # game/code/Book-1/Chapter-7/s04.rpy:154
 translate french b1c07s04_492a35cd:
@@ -296,7 +296,7 @@ translate french b1c07s04_492a35cd:
 translate french b1c07s04_9138af8a:
 
     # mct "...What is she trying to tell me?"
-    mct "...Que veut-elle me dire ?"
+    mct "...Que veut-elle me dire?"
 
 # game/code/Book-1/Chapter-7/s04.rpy:159
 translate french b1c07s04_905d0f3b:
@@ -350,13 +350,13 @@ translate french b1c07s04_7efdf3bb:
 translate french b1c07s04_92e930c0:
 
     # mct "Ronja was in the self-help group? I wonder how deep she was in..."
-    mct "Ronja était dans le groupe d'entraide ? Je me demande à quel point elle était impliquée..."
+    mct "Ronja était dans le groupe d'entraide? Je me demande à quel point elle était impliquée..."
 
 # game/code/Book-1/Chapter-7/s04.rpy:181
 translate french b1c07s04_f3b7963b:
 
     # rh "Though... Now that you seem to have joined, maybe I should get back into it, hm?"
-    rh "Mais... Maintenant que tu sembles avoir rejoint, peut-être que je devrais y retourner, hein ?"
+    rh "Mais... Maintenant que tu sembles avoir rejoint, peut-être que je devrais y retourner, hein?"
 
 # game/code/Book-1/Chapter-7/s04.rpy:182
 translate french b1c07s04_5f394e6f:
@@ -386,19 +386,19 @@ translate french b1c07s04_218f8b6f:
 translate french b1c07s04_275d4b95:
 
     # mc "Oh. Is that your way of asking me out on a date, Ronja?"
-    mc "Oh. C'est ta façon de me demander de sortir avec toi, Ronja ?"
+    mc "Oh. C'est ta façon de me demander de sortir avec toi, Ronja?"
 
 # game/code/Book-1/Chapter-7/s04.rpy:193
 translate french b1c07s04_e81f5792:
 
     # rh "Well, I wouldn't know. Do you want it to be?"
-    rh "Eh bien, je ne sais pas. Est-ce que tu veux que ce soit ça ?"
+    rh "Eh bien, je ne sais pas. Est-ce que tu veux que ce soit ça?"
 
 # game/code/Book-1/Chapter-7/s04.rpy:196
 translate french b1c07s04_c725a111:
 
     # mc "*Smirks* Do you know the name of the place?"
-    mc "*Sourit en coin* Tu connais le nom de l'endroit ?"
+    mc "*Sourit en coin* Tu connais le nom de l'endroit?"
 
 # game/code/Book-1/Chapter-7/s04.rpy:198
 translate french b1c07s04_e059a33d:
@@ -410,7 +410,7 @@ translate french b1c07s04_e059a33d:
 translate french b1c07s04_2eeacace:
 
     # mct "Guns n' Rosette? It didn't seem like that was a casual hangout place. What's Ronja doing knowing about it?"
-    mct "Guns n' Rosette ? Ça ne semblait pas être un endroit de détente. Qu'est-ce que Ronja fait à connaître cet endroit ?"
+    mct "Guns n' Rosette? Ça ne semblait pas être un endroit de détente. Qu'est-ce que Ronja fait à connaître cet endroit?"
 
 # game/code/Book-1/Chapter-7/s04.rpy:204
 translate french b1c07s04_71c8478e:
@@ -422,13 +422,13 @@ translate french b1c07s04_71c8478e:
 translate french b1c07s04_aac9f0e1:
 
     # mc "Fleur?"
-    mc "Fleur ?"
+    mc "Fleur?"
 
 # game/code/Book-1/Chapter-7/s04.rpy:208
 translate french b1c07s04_113d2a45:
 
     # rh "Ah! Yes."
-    rh "Ah ! Oui."
+    rh "Ah! Oui."
 
 # game/code/Book-1/Chapter-7/s04.rpy:211
 translate french b1c07s04_d9818918:
@@ -440,7 +440,7 @@ translate french b1c07s04_d9818918:
 translate french b1c07s04_18d6a5ca:
 
     # rh "*Smirks* But I'm sure you'll protect me, won't you?"
-    rh "*Sourit* Mais je suis sûre que tu me protégeras, n'est-ce pas ?"
+    rh "*Sourit* Mais je suis sûre que tu me protégeras, n'est-ce pas?"
 
 # game/code/Book-1/Chapter-7/s04.rpy:214
 translate french b1c07s04_66a5117a_1:
@@ -458,7 +458,7 @@ translate french b1c07s04_a8757719:
 translate french b1c07s04_95c7633a:
 
     # mc "Are you okay?"
-    mc "Ça va ?"
+    mc "Ça va?"
 
 # game/code/Book-1/Chapter-7/s04.rpy:229
 translate french b1c07s04_6260c15b:
@@ -470,7 +470,7 @@ translate french b1c07s04_6260c15b:
 translate french b1c07s04_27917065:
 
     # rh "I'm sure you've heard about the missing students by now, haven't you?"
-    rh "Je suis sûre que tu as entendu parler des étudiants disparus, n'est-ce pas ?"
+    rh "Je suis sûre que tu as entendu parler des étudiants disparus, n'est-ce pas?"
 
 # game/code/Book-1/Chapter-7/s04.rpy:233
 translate french b1c07s04_c8f25a84:
@@ -482,7 +482,7 @@ translate french b1c07s04_c8f25a84:
 translate french b1c07s04_89f7a74d:
 
     # rh "*Snorts* Certainly not how it looks to me. They barely even did an investigation, for Pete's sake!"
-    rh "*Renifle* Ce n'est certainement pas ce que je vois. Ils ont à peine fait une enquête, bon sang !"
+    rh "*Renifle* Ce n'est certainement pas ce que je vois. Ils ont à peine fait une enquête, bon sang!"
 
 # game/code/Book-1/Chapter-7/s04.rpy:237
 translate french b1c07s04_0c8c5df9:
@@ -524,7 +524,7 @@ translate french b1c07s04_f2d7dfe5:
 translate french b1c07s04_a58b56ca:
 
     # rh "Oh! Looks like it's my time to run."
-    rh "Oh ! On dirait que c'est mon moment de partir."
+    rh "Oh! On dirait que c'est mon moment de partir."
 
 # game/code/Book-1/Chapter-7/s04.rpy:254
 translate french b1c07s04_aadd5714:
@@ -536,25 +536,25 @@ translate french b1c07s04_aadd5714:
 translate french b1c07s04_4c995b89:
 
     # mc "You have a husband?"
-    mc "Tu as un mari ?"
+    mc "Tu as un mari?"
 
 # game/code/Book-1/Chapter-7/s04.rpy:259
 translate french b1c07s04_df87fa66:
 
     # rh "Indeed! Sorry, I didn't mention it earlier. We just had our first anniversary, actually."
-    rh "En effet ! Désolée, je ne l'ai pas mentionné plus tôt. Nous venons de fêter notre premier anniversaire, en fait."
+    rh "En effet! Désolée, je ne l'ai pas mentionné plus tôt. Nous venons de fêter notre premier anniversaire, en fait."
 
 # game/code/Book-1/Chapter-7/s04.rpy:260
 translate french b1c07s04_9bc061c5:
 
     # mct "Weird... I didn't see that ring before. I wonder if she takes it off?"
-    mct "Bizarre... Je n'avais pas vu cette bague avant. Je me demande si elle l'enlève ?"
+    mct "Bizarre... Je n'avais pas vu cette bague avant. Je me demande si elle l'enlève?"
 
 # game/code/Book-1/Chapter-7/s04.rpy:262
 translate french b1c07s04_074ecc9e:
 
     # mc "Am I getting in the middle of something?"
-    mc "Je suis en train de m'immiscer dans quelque chose ?"
+    mc "Je suis en train de m'immiscer dans quelque chose?"
 
 # game/code/Book-1/Chapter-7/s04.rpy:266
 translate french b1c07s04_ddc24e54:
@@ -566,7 +566,7 @@ translate french b1c07s04_ddc24e54:
 translate french b1c07s04_8fad8858:
 
     # mc "Does he know about the situation then?"
-    mc "Est-ce qu'il est au courant de la situation alors ?"
+    mc "Est-ce qu'il est au courant de la situation alors?"
 
 # game/code/Book-1/Chapter-7/s04.rpy:271
 translate french b1c07s04_3fb92b45:
@@ -632,10 +632,11 @@ translate french b1c07s04_222deea3:
 translate french b1c07s04_6822858f:
 
     # mct "But Ronja certainly has her secrets, that's for sure. I wonder what else she's kept from me?"
-    mct "Mais Ronja a certainement ses secrets, c'est sûr. Je me demande ce qu'elle me cache encore ?"
+    mct "Mais Ronja a certainement ses secrets, c'est sûr. Je me demande ce qu'elle me cache encore?"
 
 # game/code/Book-1/Chapter-7/s04.rpy:302
 translate french b1c07s04_b0fce1cf:
 
     # mct "Maybe I should take her up on her offer... I don't think she's gonna give me a choice regardless at this point."
     mct "Peut-être que je devrais accepter son offre... Je ne pense pas qu'elle va me laisser le choix de toute façon."
+

@@ -2,13 +2,13 @@
 translate french b1c06ss07_039b4ff0:
 
     # ffl "Finally! The warmth of home."
-    ffl "Enfin ! La chaleur de la maison."
+    ffl "Enfin! La chaleur de la maison."
 
 # game/code/Book-1/Chapter-6s/s07.rpy:55
 translate french b1c06ss07_d3d0e817:
 
     # mc "Oh? I didn't take you for a homebo—?"
-    mc "Oh ? Je ne te prenais pas pour une personne casanière— ?"
+    mc "Oh? Je ne te prenais pas pour une personne casanière—?"
 
 # game/code/Book-1/Chapter-6s/s07.rpy:65
 translate french b1c06ss07_f51edb8c:
@@ -26,7 +26,7 @@ translate french b1c06ss07_a70f1715:
 translate french b1c06ss07_ce574282:
 
     # ffl "Are you okay!?"
-    ffl "Ça va !?"
+    ffl "Ça va!?"
 
 # game/code/Book-1/Chapter-6s/s07.rpy:75
 translate french b1c06ss07_437f321e:
@@ -38,7 +38,7 @@ translate french b1c06ss07_437f321e:
 translate french b1c06ss07_b2cf9b6b:
 
     # ffl "Don't joke, I thought you might've hit your head!"
-    ffl "Ne rigole pas, je pensais que tu t'étais cogné la tête !"
+    ffl "Ne rigole pas, je pensais que tu t'étais cogné la tête!"
 
 # game/code/Book-1/Chapter-6s/s07.rpy:83
 translate french b1c06ss07_604de3f9:
@@ -110,25 +110,25 @@ translate french b1c06ss07_a600d40a:
 translate french b1c06ss07_1b08dfa8:
 
     # ffl "You just love to mess with me don't you?"
-    ffl "Tu adores me déranger, n'est-ce pas ?"
+    ffl "Tu adores me déranger, n'est-ce pas?"
 
 # game/code/Book-1/Chapter-6s/s07.rpy:136
 translate french b1c06ss07_23089514:
 
     # mc "*Chuckles* What can I say? I love to see you blush."
-    mc "*Rires* Que puis-je dire ? J'adore te voir rougir."
+    mc "*Rires* Que puis-je dire? J'adore te voir rougir."
 
 # game/code/Book-1/Chapter-6s/s07.rpy:153
 translate french b1c06ss07_81d40775:
 
     # mc "Do you want me to take off your dress?"
-    mc "Tu veux que j'enlève ta robe ?"
+    mc "Tu veux que j'enlève ta robe?"
 
 # game/code/Book-1/Chapter-6s/s07.rpy:162
 translate french b1c06ss07_c46fc145:
 
     # ffl "Aren't you gonna take off your clothes? Isn't it a little unfair that I'm the only one getting ogled here?"
-    ffl "Tu ne vas pas enlever tes vêtements ? N'est-ce pas un peu injuste que je sois le seul à être lorgné ici ?"
+    ffl "Tu ne vas pas enlever tes vêtements? N'est-ce pas un peu injuste que je sois le seul à être lorgné ici?"
 
 # game/code/Book-1/Chapter-6s/s07.rpy:171
 translate french b1c06ss07_575639d1:
@@ -152,13 +152,13 @@ translate french b1c06ss07_713307ad:
 translate french b1c06ss07_c29e94b3:
 
     # mct "For someone that had the audacity to try and jerk me off in public, she sure can be shy."
-    mct "Pour quelqu'un qui a eu l'audace d'essayer de me branler," Pour quelqu'un qui a eu l'audace d'essayer de me branler en public, elle peut certainement être timide. "En public, elle peut certainement être timide."
+    mct "Pour quelqu'un qui a eu l'audace d'essayer de me branler en public, elle peut certainement être timide."
 
 # game/code/Book-1/Chapter-6s/s07.rpy:185
 translate french b1c06ss07_8c63bd84:
 
     # mc "Do you want me to remove your panties?"
-    mc "Tu veux que j'enlève ta culotte ?"
+    mc "Tu veux que j'enlève ta culotte?"
 
 # game/code/Book-1/Chapter-6s/s07.rpy:187
 translate french b1c06ss07_8c2e5ba0:
@@ -230,7 +230,7 @@ translate french b1c06ss07_9d26a38e:
 translate french b1c06ss07_18ae14bd:
 
     # "Suddenly, Fleur grabs onto you and trembles—her orgasm having caught even her by surprise."
-    « Soudain, Fleur s'agrippe à toi et tremble – son orgasme l'ayant même prise par surprise."
+    "Soudain, Fleur s'agrippe à toi et tremble – son orgasme l'ayant même prise par surprise."
 
 # game/code/Book-1/Chapter-6s/s07.rpy:219
 translate french b1c06ss07_3a77d04a:
@@ -272,7 +272,7 @@ translate french b1c06ss07_06d61d22:
 translate french b1c06ss07_91d8a70c:
 
     # mc "You okay?"
-    mc "Ça va ?"
+    mc "Ça va?"
 
 # game/code/Book-1/Chapter-6s/s07.rpy:246
 translate french b1c06ss07_8012e064:
@@ -362,25 +362,25 @@ translate french b1c06ss07_5312685d:
 translate french b1c06ss07_1b2d74ee:
 
     # ffl "*Giggles* Did I tucker you out?"
-    ffl "*Rires* Est-ce que je t'ai fait sortir ?"
+    ffl "*Rires* Est-ce que je t'ai fait sortir?"
 
 # game/code/Book-1/Chapter-6s/s07.rpy:341
 translate french b1c06ss07_579c44f6:
 
     # mc "What, me? Perish the thought."
-    mc "Quoi, moi ? Péris cette pensée."
+    mc "Quoi, moi? Péris cette pensée."
 
 # game/code/Book-1/Chapter-6s/s07.rpy:344
 translate french b1c06ss07_f91b7436:
 
     # mc "You didn't cum, did you?"
-    mc "Tu n'as pas joui, n'est-ce pas ?"
+    mc "Tu n'as pas joui, n'est-ce pas?"
 
 # game/code/Book-1/Chapter-6s/s07.rpy:347
 translate french b1c06ss07_9ad249ea:
 
     # ffl "No, but it still felt really good!"
-    ffl "Non, mais c'était quand même vraiment bien !"
+    ffl "Non, mais c'était quand même vraiment bien!"
 
 # game/code/Book-1/Chapter-6s/s07.rpy:350
 translate french b1c06ss07_3f8d8c93:
@@ -392,7 +392,7 @@ translate french b1c06ss07_3f8d8c93:
 translate french b1c06ss07_56117535:
 
     # "???" "Honey, I'm home!"
-    "???" "Chérie, je suis à la maison !"
+    "???" "Chérie, je suis à la maison!"
 
 # game/code/Book-1/Chapter-6s/s07.rpy:378
 translate french b1c06ss07_e1939d3f:
@@ -404,13 +404,13 @@ translate french b1c06ss07_e1939d3f:
 translate french b1c06ss07_81706d98:
 
     # ef "Oop, I'm sorry! I uh... I didn't realize you were bringing a boy over, Fleur."
-    ef "Oop, je suis désolé ! Je, euh... je n'avais pas réalisé que tu amenais un garçon, Fleur."
+    ef "Oop, je suis désolé! Je, euh... je n'avais pas réalisé que tu amenais un garçon, Fleur."
 
 # game/code/Book-1/Chapter-6s/s07.rpy:386
 translate french b1c06ss07_f106968c:
 
     # ffl "I'm so sorry! I completely forgot about the time."
-    ffl "Je suis vraiment désolé ! J'ai complètement oublié l'heure."
+    ffl "Je suis vraiment désolé! J'ai complètement oublié l'heure."
 
 # game/code/Book-1/Chapter-6s/s07.rpy:389
 translate french b1c06ss07_2a9b021d:
@@ -422,19 +422,19 @@ translate french b1c06ss07_2a9b021d:
 translate french b1c06ss07_3cfb7d3e:
 
     # ffl "No! Well, no— I mean yes— I mean—"
-    ffl "Non ! Eh bien, non, je veux dire oui, je veux dire..."
+    ffl "Non! Eh bien, non, je veux dire oui, je veux dire..."
 
 # game/code/Book-1/Chapter-6s/s07.rpy:396
 translate french b1c06ss07_b07fe460:
 
     # ef "*Giggles* I'm messing with you. It's been {i}for-fucking-ever{/i}, I'm glad you brought someone around!"
-    ef "*Rires* Je me moque de toi. Ça fait {i}putain de toujours{/i}, je suis content que tu aies amené quelqu'un avec moi !"
+    ef "*Rires* Je me moque de toi. Ça fait {i}putain de toujours{/i}, je suis content que tu aies amené quelqu'un avec moi!"
 
 # game/code/Book-1/Chapter-6s/s07.rpy:399
 translate french b1c06ss07_9b2fe9a0:
 
     # ef "Oh! And nice to meet you, by the way. Boy whose face I didn't really see."
-    ef "Oh ! Et ravi de vous rencontrer, au fait. Un garçon dont je n'ai pas vraiment vu le visage."
+    ef "Oh! Et ravi de vous rencontrer, au fait. Un garçon dont je n'ai pas vraiment vu le visage."
 
 # game/code/Book-1/Chapter-6s/s07.rpy:402
 translate french b1c06ss07_3ef920ce:
@@ -446,7 +446,7 @@ translate french b1c06ss07_3ef920ce:
 translate french b1c06ss07_dae78501:
 
     # ef "Oh! [mcname]! It's you."
-    ef "Oh ! [mcname] ! C'est toi."
+    ef "Oh! [mcname]! C'est toi."
 
 # game/code/Book-1/Chapter-6s/s07.rpy:411
 translate french b1c06ss07_cb45cd61:
@@ -458,7 +458,7 @@ translate french b1c06ss07_cb45cd61:
 translate french b1c06ss07_6d5432c4:
 
     # ef "Oh! You're [mcname], right? I remember messing around with some coke cans in chemistry with you and Nia."
-    ef "Oh ! Vous êtes [mcname], n'est-ce pas ? Je me souviens avoir joué avec des canettes de coca en chimie avec toi et Nia."
+    ef "Oh! Vous êtes [mcname], n'est-ce pas? Je me souviens avoir joué avec des canettes de coca en chimie avec toi et Nia."
 
 # game/code/Book-1/Chapter-6s/s07.rpy:417
 translate french b1c06ss07_72b5ef74:
@@ -470,48 +470,51 @@ translate french b1c06ss07_72b5ef74:
 translate french b1c06ss07_01b6592d:
 
     # ef "Oooh! So {i}you're{/i} the guy that Fleur was texting me about!"
-    ef "Oooh ! Alors {i}tu es{/i} le gars à propos duquel Fleur m'envoyait un texto !"
+    ef "Oooh! Alors {i}tu es{/i} le gars à propos duquel Fleur m'envoyait un texto!"
 
-# game/code/Book-1/Chapter-6s/s07.rpy:423
-old "Eliina!"
-new "Eliina !"
+translate french strings:
 
-# game/code/Book-1/Chapter-6s/s07.rpy:426
-old "{size=24}Sorry...{/size}"
-new "{size=24}Désolée...{/size}"
+    # game/code/Book-1/Chapter-6s/s07.rpy:423
+    old "Eliina!"
+    new "Eliina!"
 
-# game/code/Book-1/Chapter-6s/s07.rpy:429
-old "Anyway... I'm glad you two had a nice time, though!"
-new "De toute façon... Je suis contente que vous ayez passé un bon moment, toutes les deux !"
+    # game/code/Book-1/Chapter-6s/s07.rpy:426
+    old "{size=24}Sorry...{/size}"
+    new "{size=24}Désolée...{/size}"
 
-# game/code/Book-1/Chapter-6s/s07.rpy:435
-old "I brought some cheesecake! You two wanna have some? There's enough for all three."
-new "J'ai apporté du cheesecake ! Vous voulez en goûter ? Il y en a assez pour nous trois."
+    # game/code/Book-1/Chapter-6s/s07.rpy:429
+    old "Anyway... I'm glad you two had a nice time, though!"
+    new "De toute façon... Je suis contente que vous ayez passé un bon moment, toutes les deux!"
 
-# game/code/Book-1/Chapter-6s/s07.rpy:436
-old "{size=24}{i}Celebrate the occasion.{/i}{/size}"
-new "{size=24}{i}Célébrons l'occasion.{/i}{/size}"
+    # game/code/Book-1/Chapter-6s/s07.rpy:435
+    old "I brought some cheesecake! You two wanna have some? There's enough for all three."
+    new "J'ai apporté du cheesecake! Vous voulez en goûter? Il y en a assez pour nous trois."
 
-# game/code/Book-1/Chapter-6s/s07.rpy:445
-old "I'm sorry, I'm sorry. I'm done."
-new "Désolée, désolée. J'ai fini."
+    # game/code/Book-1/Chapter-6s/s07.rpy:436
+    old "{size=24}{i}Celebrate the occasion.{/i}{/size}"
+    new "{size=24}{i}Célébrons l'occasion.{/i}{/size}"
 
-# game/code/Book-1/Chapter-6s/s07.rpy:448
-old "How could I ever say no to cheesecake?"
-new "Comment pourrais-je dire non au cheesecake ?"
+    # game/code/Book-1/Chapter-6s/s07.rpy:445
+    old "I'm sorry, I'm sorry. I'm done."
+    new "Désolée, désolée. J'ai fini."
 
-# game/code/Book-1/Chapter-6s/s07.rpy:449
-old "I don't mind if she doesn't mind me sticking around."
-new "Ça ne me dérange pas si elle ne voit pas d'inconvénient à ce que je reste."
+    # game/code/Book-1/Chapter-6s/s07.rpy:448
+    old "How could I ever say no to cheesecake?"
+    new "Comment pourrais-je dire non au cheesecake?"
 
-# game/code/Book-1/Chapter-6s/s07.rpy:452
-old "...I don't mind."
-new "...Ça ne me dérange pas."
+    # game/code/Book-1/Chapter-6s/s07.rpy:449
+    old "I don't mind if she doesn't mind me sticking around."
+    new "Ça ne me dérange pas si elle ne voit pas d'inconvénient à ce que je reste."
 
-# game/code/Book-1/Chapter-6s/s07.rpy:455
-old "Woo! Cheesecake party! Let me put on some music!"
-new "Youpi ! Fête du cheesecake ! Laissez-moi mettre de la musique !"
+    # game/code/Book-1/Chapter-6s/s07.rpy:452
+    old "...I don't mind."
+    new "...Ça ne me dérange pas."
 
-# game/code/Book-1/Chapter-6s/s07.rpy:33
-old "At Fleur's dorm"
-new "Dans le dortoir de Fleur"
+    # game/code/Book-1/Chapter-6s/s07.rpy:455
+    old "Woo! Cheesecake party! Let me put on some music!"
+    new "Youpi! Fête du cheesecake! Laissez-moi mettre de la musique!"
+
+    # game/code/Book-1/Chapter-6s/s07.rpy:33
+    old "At Fleur's dorm"
+    new "Dans le dortoir de Fleur"
+

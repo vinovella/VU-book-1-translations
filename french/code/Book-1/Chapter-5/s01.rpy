@@ -8,7 +8,7 @@ translate french b1c05s01_3d8d5b43:
 translate french b1c05s01_370047a7:
 
     # mc "*whispers* Josie, hey Josie!"
-    mc "*chuchote* Josie, hé Josie !"
+    mc "*chuchote* Josie, hé Josie!"
 
 # game/code/Book-1/Chapter-5/s01.rpy:14
 translate french b1c05s01_aa50b0c7:
@@ -32,7 +32,7 @@ translate french b1c05s01_dc59cdd4:
 translate french b1c05s01_a3c35e98:
 
     # mct "Where'd she go?"
-    mct "Où est-elle passée ?"
+    mct "Où est-elle passée?"
 
 # game/code/Book-1/Chapter-5/s01.rpy:22
 translate french b1c05s01_3e10c105:
@@ -50,7 +50,7 @@ translate french b1c05s01_4e6dde36:
 translate french b1c05s01_583c6707:
 
     # mct "Is she in the pool?"
-    mct "Est-elle dans la piscine ?"
+    mct "Est-elle dans la piscine?"
 
 # game/code/Book-1/Chapter-5/s01.rpy:31
 translate french b1c05s01_3175a874:
@@ -62,7 +62,7 @@ translate french b1c05s01_3175a874:
 translate french b1c05s01_5a51b3b3:
 
     # mc "Josie?!"
-    mc "Josie ?!"
+    mc "Josie?!"
 
 # game/code/Book-1/Chapter-5/s01.rpy:35
 translate french b1c05s01_b83e8991:
@@ -104,19 +104,19 @@ translate french b1c05s01_8ffd7771:
 translate french b1c05s01_e41b170a:
 
     # mc "Josie! Josie, wake up!"
-    mc "Josie ! Josie, réveille-toi !"
+    mc "Josie! Josie, réveille-toi!"
 
 # game/code/Book-1/Chapter-5/s01.rpy:63
 translate french b1c05s01_e807ea21:
 
     # jh "*choking* W-where am I?!"
-    jh "*étouffe* O-où suis-je ?!"
+    jh "*étouffe* O-où suis-je?!"
 
 # game/code/Book-1/Chapter-5/s01.rpy:68
 translate french b1c05s01_22848105:
 
     # jh "I-I can't swim!"
-    jh "J-je ne sais pas nager !"
+    jh "J-je ne sais pas nager!"
 
 # game/code/Book-1/Chapter-5/s01.rpy:69
 translate french b1c05s01_f16b3581:
@@ -134,7 +134,7 @@ translate french b1c05s01_6880dbf7:
 translate french b1c05s01_bd8ba0db:
 
     # mc "What were you doing out here? Jesus, you could've died!"
-    mc "Qu'est-ce que tu faisais ici ? Bon sang, tu aurais pu mourir !"
+    mc "Qu'est-ce que tu faisais ici? Bon sang, tu aurais pu mourir!"
 
 # game/code/Book-1/Chapter-5/s01.rpy:81
 translate french b1c05s01_ee3ce44c:
@@ -146,7 +146,7 @@ translate french b1c05s01_ee3ce44c:
 translate french b1c05s01_f0e0175e:
 
     # jh "*squeak* Why the fuck am I naked?!"
-    jh "*couine* Pourquoi diable suis-je nue ?!"
+    jh "*couine* Pourquoi diable suis-je nue?!"
 
 # game/code/Book-1/Chapter-5/s01.rpy:85
 translate french b1c05s01_03c612ef:
@@ -158,7 +158,7 @@ translate french b1c05s01_03c612ef:
 translate french b1c05s01_0a801920:
 
     # jh "You saw me strip naked and walk out and you said nothing?!"
-    jh "Tu m'as vue me déshabiller et sortir, et tu n'as rien dit ?!"
+    jh "Tu m'as vue me déshabiller et sortir, et tu n'as rien dit?!"
 
 # game/code/Book-1/Chapter-5/s01.rpy:90
 translate french b1c05s01_2d3f558e:
@@ -170,7 +170,7 @@ translate french b1c05s01_2d3f558e:
 translate french b1c05s01_20a9d038:
 
     # mc "You sleepwalk?"
-    mc "Tu fais du somnambulisme ?"
+    mc "Tu fais du somnambulisme?"
 
 # game/code/Book-1/Chapter-5/s01.rpy:93
 translate french b1c05s01_d72072d8:
@@ -188,7 +188,7 @@ translate french b1c05s01_6b8341f2:
 translate french b1c05s01_a04ecd33:
 
     # jh "Were you the only one who saw me?"
-    jh "Est-ce que tu es le seul à m'avoir vue ?"
+    jh "Est-ce que tu es le seul à m'avoir vue?"
 
 # game/code/Book-1/Chapter-5/s01.rpy:102
 translate french b1c05s01_310fc74d:
@@ -296,7 +296,7 @@ translate french b1c05s01_9a62f591:
 translate french b1c05s01_f278576c:
 
     # jh "You had a nightmare?{w} What was it about?"
-    jh "Tu as fait un cauchemar ?{w} C'était à propos de quoi ?"
+    jh "Tu as fait un cauchemar?{w} C'était à propos de quoi?"
 
 # game/code/Book-1/Chapter-5/s01.rpy:156
 translate french b1c05s01_d6f74913:
@@ -326,7 +326,7 @@ translate french b1c05s01_74576b16:
 translate french b1c05s01_793db0f3:
 
     # lw "Trying to wake the dead with all that racket? What's going on?"
-    lw "Tu essaies de réveiller les morts avec tout ce boucan ? Qu'est-ce qui se passe ?"
+    lw "Tu essaies de réveiller les morts avec tout ce boucan? Qu'est-ce qui se passe?"
 
 # game/code/Book-1/Chapter-5/s01.rpy:178
 translate french b1c05s01_6887a08f:
@@ -338,13 +338,13 @@ translate french b1c05s01_6887a08f:
 translate french b1c05s01_145841d2:
 
     # lw "He went to {i}find{/i} you?"
-    lw "Il est allé te {i}chercher{/i} ?"
+    lw "Il est allé te {i}chercher{/i}?"
 
 # game/code/Book-1/Chapter-5/s01.rpy:184
 translate french b1c05s01_0b16e592:
 
     # lw "Josie, are you okay?"
-    lw "Josie, ça va ?"
+    lw "Josie, ça va?"
 
 # game/code/Book-1/Chapter-5/s01.rpy:187
 translate french b1c05s01_70d1fe39:
@@ -356,13 +356,13 @@ translate french b1c05s01_70d1fe39:
 translate french b1c05s01_287b8776:
 
     # lw "Are you naked?!"
-    lw "Tu es nue ?!"
+    lw "Tu es nue?!"
 
 # game/code/Book-1/Chapter-5/s01.rpy:191
 translate french b1c05s01_bb67dee3:
 
     # jh "Shh! Not so loud! And...yes. I'm both naked and okay."
-    jh "Chut ! Pas si fort ! Et... oui. Je suis à la fois nue et ça va."
+    jh "Chut! Pas si fort! Et... oui. Je suis à la fois nue et ça va."
 
 # game/code/Book-1/Chapter-5/s01.rpy:194
 translate french b1c05s01_942f0c14:
@@ -374,7 +374,7 @@ translate french b1c05s01_942f0c14:
 translate french b1c05s01_2842d9ec:
 
     # lw "You watched her strip naked and didn't think to say anything?"
-    lw "Tu l'as vue se déshabiller et tu n'as pas pensé à dire quoi que ce soit ?"
+    lw "Tu l'as vue se déshabiller et tu n'as pas pensé à dire quoi que ce soit?"
 
 # game/code/Book-1/Chapter-5/s01.rpy:198
 translate french b1c05s01_60b2df38:
@@ -398,13 +398,13 @@ translate french b1c05s01_142f701a:
 translate french b1c05s01_d304b03b:
 
     # lw "Oh my fucking god!"
-    lw "Oh putain de merde !"
+    lw "Oh putain de merde!"
 
 # game/code/Book-1/Chapter-5/s01.rpy:211
 translate french b1c05s01_60d31ae0:
 
     # lw "Are you sure you're okay? Why didn't you wake up? I'm so glad you're safe."
-    lw "Tu es sûre que ça va ? Pourquoi tu ne t'es pas réveillée ? Je suis tellement contente que tu sois en sécurité."
+    lw "Tu es sûre que ça va? Pourquoi tu ne t'es pas réveillée? Je suis tellement contente que tu sois en sécurité."
 
 # game/code/Book-1/Chapter-5/s01.rpy:214
 translate french b1c05s01_4204212f:
@@ -428,7 +428,7 @@ translate french b1c05s01_31750650:
 translate french b1c05s01_09cabafd:
 
     # jh "Lara, no. You don't need to do that!"
-    jh "Lara, non. Tu n'as pas besoin de faire ça !"
+    jh "Lara, non. Tu n'as pas besoin de faire ça!"
 
 # game/code/Book-1/Chapter-5/s01.rpy:225
 translate french b1c05s01_ad029ccc:
@@ -440,7 +440,7 @@ translate french b1c05s01_ad029ccc:
 translate french b1c05s01_19b4ce0b:
 
     # mc "Lara, are you sure you don't want to sleep a little longer? I'm wide awake. I can—"
-    mc "Lara, tu es sûre que tu ne veux pas dormir un peu plus longtemps ? Je suis complètement réveillé. Je peux—"
+    mc "Lara, tu es sûre que tu ne veux pas dormir un peu plus longtemps? Je suis complètement réveillé. Je peux—"
 
 # game/code/Book-1/Chapter-5/s01.rpy:230
 translate french b1c05s01_2404a41c:
@@ -524,7 +524,7 @@ translate french b1c05s01_5529ded4:
 translate french b1c05s01_165bfd11:
 
     # mc "Hey, are you okay?"
-    mc "Hé, ça va ?"
+    mc "Hé, ça va?"
 
 # game/code/Book-1/Chapter-5/s01.rpy:267
 translate french b1c05s01_06351fd3:
@@ -548,7 +548,7 @@ translate french b1c05s01_c6e938be:
 translate french b1c05s01_177d3eb2:
 
     # mc "What are you doing?"
-    mc "Que fais-tu ?"
+    mc "Que fais-tu?"
 
 # game/code/Book-1/Chapter-5/s01.rpy:277
 translate french b1c05s01_3de65d98:
@@ -560,7 +560,7 @@ translate french b1c05s01_3de65d98:
 translate french b1c05s01_4b357e61:
 
     # mc "You're gonna sleep on the floor?"
-    mc "Tu vas dormir par terre ?"
+    mc "Tu vas dormir par terre?"
 
 # game/code/Book-1/Chapter-5/s01.rpy:282
 translate french b1c05s01_c8e479ed:
@@ -572,7 +572,7 @@ translate french b1c05s01_c8e479ed:
 translate french b1c05s01_6c577701:
 
     # mc "Reasonable enough, I guess. You sure you'll be fine?"
-    mc "Assez raisonnable, je suppose. Tu es sûre que ça ira ?"
+    mc "Assez raisonnable, je suppose. Tu es sûre que ça ira?"
 
 # game/code/Book-1/Chapter-5/s01.rpy:288
 translate french b1c05s01_db68602b:
@@ -585,3 +585,4 @@ translate french b1c05s01_4ca36515:
 
     # lw "*whispers* I'll keep you safe, Josie."
     lw "*chuchote* Je te protégerai, Josie."
+

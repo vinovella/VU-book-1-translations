@@ -20,7 +20,7 @@ translate french b1c06cs02_a579228b:
 translate french b1c06cs02_0ee0e08a:
 
     # mc "What are the blank pages for?"
-    mc "À quoi servent les pages vierges ?"
+    mc "À quoi servent les pages vierges?"
 
 # game/code/Book-1/Chapter-6c/s02.rpy:34
 translate french b1c06cs02_0726b8f0:
@@ -62,13 +62,13 @@ translate french b1c06cs02_cd381a9f:
 translate french b1c06cs02_7eecf854:
 
     # dk "What are you here to improve about yourself?"
-    dk "Que voulez-vous améliorer chez vous ?"
+    dk "Que voulez-vous améliorer chez vous?"
 
 # game/code/Book-1/Chapter-6c/s02.rpy:53
 translate french b1c06cs02_089db94a:
 
     # mc "Oh, I just think the self can always use improvement. Right? Like, we're all flawed."
-    mc "Oh, je pense juste que nous pouvons toujours nous améliorer, non ? Après tout, nous avons tous des défauts."
+    mc "Oh, je pense juste que nous pouvons toujours nous améliorer, non? Après tout, nous avons tous des défauts."
 
 # game/code/Book-1/Chapter-6c/s02.rpy:60
 translate french b1c06cs02_dc5f1b1c:
@@ -80,13 +80,13 @@ translate french b1c06cs02_dc5f1b1c:
 translate french b1c06cs02_c344e4a5:
 
     # dk "What are you {i}really{/i} here for? This is a safe space. You won't be judged, I promise."
-    dk "Pourquoi êtes-vous {i}vraiment{/i} ici ? Cet endroit est sûr. Vous ne serez pas jugé, je vous le promets."
+    dk "Pourquoi êtes-vous {i}vraiment{/i} ici? Cet endroit est sûr. Vous ne serez pas jugé, je vous le promets."
 
 # game/code/Book-1/Chapter-6c/s02.rpy:65
 translate french b1c06cs02_ac94c112:
 
     # mc "Can't we just write the answers? Isn't that what the books are for?"
-    mc "On ne peut pas juste écrire les réponses ? Ce n'est pas pour ça que les cahiers sont faits ?"
+    mc "On ne peut pas juste écrire les réponses? Ce n'est pas pour ça que les cahiers sont faits?"
 
 # game/code/Book-1/Chapter-6c/s02.rpy:68
 translate french b1c06cs02_060c45ad:
@@ -110,7 +110,7 @@ translate french b1c06cs02_d2f9e023:
 translate french b1c06cs02_d387fd6e:
 
     # dk "Voicing your insecurities and expressing vulnerability shouldn't be a problem if you're loyal and ready to heal, right?"
-    dk "Exprimer vos insécurités et montrer votre vulnérabilité ne devrait pas être un problème si vous êtes loyal et prêt à guérir, n'est-ce pas ?"
+    dk "Exprimer vos insécurités et montrer votre vulnérabilité ne devrait pas être un problème si vous êtes loyal et prêt à guérir, n'est-ce pas?"
 
 # game/code/Book-1/Chapter-6c/s02.rpy:77
 translate french b1c06cs02_c067cbde:
@@ -134,7 +134,7 @@ translate french b1c06cs02_bf95ff07:
 translate french b1c06cs02_8ea05fca:
 
     # nv "Don't worry! You're not holding us back."
-    nv "Ne t'inquiète pas ! Tu ne nous ralentis pas."
+    nv "Ne t'inquiète pas! Tu ne nous ralentis pas."
 
 # game/code/Book-1/Chapter-6c/s02.rpy:87
 translate french b1c06cs02_4dc78620:
@@ -158,7 +158,7 @@ translate french b1c06cs02_b15361de:
 translate french b1c06cs02_9142b14d:
 
     # dk "So I'll ask the question again: What are you here for?"
-    dk "Alors je poserai la question à nouveau : pourquoi êtes-vous ici ?"
+    dk "Alors je poserai la question à nouveau : pourquoi êtes-vous ici?"
 
 # game/code/Book-1/Chapter-6c/s02.rpy:97
 translate french b1c06cs02_7100d56e:
@@ -182,7 +182,7 @@ translate french b1c06cs02_e0a21a33:
 translate french b1c06cs02_d8cec720:
 
     # dk "And you? What are you here for?"
-    dk "Et toi ? Pourquoi es-tu ici ?"
+    dk "Et toi? Pourquoi es-tu ici?"
 
 # game/code/Book-1/Chapter-6c/s02.rpy:109
 translate french b1c06cs02_3b282db8:
@@ -194,7 +194,7 @@ translate french b1c06cs02_3b282db8:
 translate french b1c06cs02_20e0c010:
 
     # dk "Are you afraid of what you might find?"
-    dk "As-tu peur de ce que tu pourrais découvrir ?"
+    dk "As-tu peur de ce que tu pourrais découvrir?"
 
 # game/code/Book-1/Chapter-6c/s02.rpy:115
 translate french b1c06cs02_0bcd2cde:
@@ -206,7 +206,7 @@ translate french b1c06cs02_0bcd2cde:
 translate french b1c06cs02_df9f15a8:
 
     # dk "And are you afraid of the truth you might discover? What if the truth is ugly?"
-    dk "Et as-tu peur de la vérité que tu pourrais découvrir ? Et si la vérité était laide ?"
+    dk "Et as-tu peur de la vérité que tu pourrais découvrir? Et si la vérité était laide?"
 
 # game/code/Book-1/Chapter-6c/s02.rpy:121
 translate french b1c06cs02_53e30bfa:
@@ -218,13 +218,13 @@ translate french b1c06cs02_53e30bfa:
 translate french b1c06cs02_41cb1676:
 
     # dk "Have you considered that there is no truth?"
-    dk "As-tu envisagé qu'il n'y ait pas de vérité ?"
+    dk "As-tu envisagé qu'il n'y ait pas de vérité?"
 
 # game/code/Book-1/Chapter-6c/s02.rpy:127
 translate french b1c06cs02_11455b53:
 
     # mc "What?"
-    mc "Quoi ?"
+    mc "Quoi?"
 
 # game/code/Book-1/Chapter-6c/s02.rpy:130
 translate french b1c06cs02_d8e7847b:
@@ -254,7 +254,7 @@ translate french b1c06cs02_a7b9866c:
 translate french b1c06cs02_3ed528de:
 
     # dk "Do they lie, or simply ignore their truths?"
-    dk "Mentent-ils, ou ignorent-ils simplement leurs vérités ?"
+    dk "Mentent-ils, ou ignorent-ils simplement leurs vérités?"
 
 # game/code/Book-1/Chapter-6c/s02.rpy:145
 translate french b1c06cs02_101899d1:
@@ -290,19 +290,19 @@ translate french b1c06cs02_42d36234:
 translate french b1c06cs02_8e715219:
 
     # dk "So what is it you both want to experience the most?"
-    dk "Alors, qu'est-ce que vous voulez expérimenter le plus tous les deux ?"
+    dk "Alors, qu'est-ce que vous voulez expérimenter le plus tous les deux?"
 
 # game/code/Book-1/Chapter-6c/s02.rpy:160
 translate french b1c06cs02_7962ef93:
 
     # dk "Is it self-realization?"
-    dk "Est-ce l'accomplissement de soi ?"
+    dk "Est-ce l'accomplissement de soi?"
 
 # game/code/Book-1/Chapter-6c/s02.rpy:162
 translate french b1c06cs02_e885e877:
 
     dk "Is it truth?"
-    dk "Est-ce la vérité ?"
+    dk "Est-ce la vérité?"
 
 # game/code/Book-1/Chapter-6c/s02.rpy:164
 translate french b1c06cs02_d2ba78d3:
@@ -350,7 +350,7 @@ translate french b1c06cs02_3f8b65aa:
 translate french b1c06cs02_e37c5550:
 
     mc "What's this supposed to teach us, O wise one?"
-    mc "Qu'est-ce que c'est censé nous apprendre, ô sage ?"
+    mc "Qu'est-ce que c'est censé nous apprendre, ô sage?"
 
 # game/code/Book-1/Chapter-6c/s02.rpy:186
 translate french b1c06cs02_a7fdde19:
@@ -362,7 +362,7 @@ translate french b1c06cs02_a7fdde19:
 translate french b1c06cs02_d706a0e5:
 
     dk "Any takers?"
-    dk "Des volontaires ?"
+    dk "Des volontaires?"
 
 # game/code/Book-1/Chapter-6c/s02.rpy:191
 translate french b1c06cs02_75f72183:
@@ -416,7 +416,7 @@ translate french b1c06cs02_84100cd3:
 translate french b1c06cs02_f832dfa9:
 
     mc "Your tattoo is similar to the one on the workbook. Is it special to you?"
-    mc "Ton tatouage est similaire à celui du cahier. Est-ce qu'il a une signification spéciale pour toi ?"
+    mc "Ton tatouage est similaire à celui du cahier. Est-ce qu'il a une signification spéciale pour toi?"
 
 # game/code/Book-1/Chapter-6c/s02.rpy:224
 translate french b1c06cs02_6216d3a9:
@@ -428,7 +428,7 @@ translate french b1c06cs02_6216d3a9:
 translate french b1c06cs02_7298c684:
 
     mct "A goddess? Does that mean the symbol on the workbook relates to Delphia's goddess? Does the whole group worship this goddess?"
-    mct "Une déesse ? Cela signifie-t-il que le symbole sur le cahier est lié à la déesse de Delphia ? Est-ce que tout le groupe vénère cette déesse ?"
+    mct "Une déesse? Cela signifie-t-il que le symbole sur le cahier est lié à la déesse de Delphia? Est-ce que tout le groupe vénère cette déesse?"
 
 # game/code/Book-1/Chapter-6c/s02.rpy:226
 translate french b1c06cs02_3170202b:
@@ -476,7 +476,7 @@ translate french b1c06cs02_940c50e8:
 translate french b1c06cs02_f096ebaf:
 
     nv "Ooh, sounds interesting. Have fun! I'll see ya later."
-    nv "Ooh, ça a l'air intéressant. Amuse-toi bien ! À plus tard."
+    nv "Ooh, ça a l'air intéressant. Amuse-toi bien! À plus tard."
 
 # game/code/Book-1/Chapter-6c/s02.rpy:261
 translate french b1c06cs02_f5a253a8:
@@ -506,13 +506,13 @@ translate french b1c06cs02_93e5d9ca:
 translate french b1c06cs02_37b8bc21:
 
     mc "Greek pottery, huh? Mind if I tag along?"
-    mc "La poterie grecque, hein ? Ça te dérange si je viens avec toi ?"
+    mc "La poterie grecque, hein? Ça te dérange si je viens avec toi?"
 
 # game/code/Book-1/Chapter-6c/s02.rpy:274
 translate french b1c06cs02_429c5f69:
 
     dk "Don't you have other classes?"
-    dk "Tu n'as pas d'autres cours ?"
+    dk "Tu n'as pas d'autres cours?"
 
 # game/code/Book-1/Chapter-6c/s02.rpy:277
 translate french b1c06cs02_b00282ee:
@@ -555,5 +555,4 @@ translate french strings:
     # game/code/Book-1/Chapter-6c/s02.rpy:8
     old "At Delphia's dorm"
     new "Dans la chambre de Delphia"
-
 

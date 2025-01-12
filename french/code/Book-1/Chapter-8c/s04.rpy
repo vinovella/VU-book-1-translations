@@ -20,7 +20,7 @@ translate french b1c08cs04_6e625f97:
 translate french b1c08cs04_87fddfe2:
 
     # ll "D-do you think I did good?"
-    ll "T-tu penses que j'ai bien fait ?"
+    ll "T-tu penses que j'ai bien fait?"
 
 # game/code/Book-1/Chapter-8c/s04.rpy:53
 translate french b1c08cs04_7ef72d5e:
@@ -32,7 +32,7 @@ translate french b1c08cs04_7ef72d5e:
 translate french b1c08cs04_8391a0eb:
 
     # mc "I suppose I think it's not up to me. Do {i}you{/i} think you did good?"
-    mc "Je suppose que je pense que ce n'est pas à moi de juger. Est-ce que {i}toi{/i} penses que tu as bien fait ?"
+    mc "Je suppose que je pense que ce n'est pas à moi de juger. Est-ce que {i}toi{/i} penses que tu as bien fait?"
 
 # game/code/Book-1/Chapter-8c/s04.rpy:57
 translate french b1c08cs04_266dce2b:
@@ -74,7 +74,7 @@ translate french b1c08cs04_a3d5e111:
 translate french b1c08cs04_822aa5c3:
 
     # mc "How so?"
-    mc "Comment ça ?"
+    mc "Comment ça?"
 
 # game/code/Book-1/Chapter-8c/s04.rpy:76
 translate french b1c08cs04_737febb7:
@@ -110,7 +110,7 @@ translate french b1c08cs04_d613b4bb:
 translate french b1c08cs04_aafc464c:
 
     # ll "Before I came along, they had so much freedom, y'know? They were constantly traveling, or having new experiences together."
-    ll "Avant que je n'arrive, ils avaient tellement de liberté, tu sais ? Ils voyageaient sans cesse, ou vivaient de nouvelles expériences ensemble."
+    ll "Avant que je n'arrive, ils avaient tellement de liberté, tu sais? Ils voyageaient sans cesse, ou vivaient de nouvelles expériences ensemble."
 
 # game/code/Book-1/Chapter-8c/s04.rpy:90
 translate french b1c08cs04_9f36464c:
@@ -140,7 +140,7 @@ translate french b1c08cs04_0a235676:
 translate french b1c08cs04_640abfcb:
 
     # mc "{i}You{/i} are responsible for your reality, right? That's part of what the self help group teaches."
-    mc "{i}Toi{/i} es responsable de ta réalité, non ? C'est une partie de ce que le groupe d'entraide enseigne."
+    mc "{i}Toi{/i} es responsable de ta réalité, non? C'est une partie de ce que le groupe d'entraide enseigne."
 
 # game/code/Book-1/Chapter-8c/s04.rpy:102
 translate french b1c08cs04_5e24133e:
@@ -188,7 +188,7 @@ translate french b1c08cs04_9f5c5822:
 translate french b1c08cs04_ef97338e:
 
     # mc "How did your presence affect them so much? I understand not traveling with a toddler, but deciding not to travel at all seems extreme."
-    mc "Comment ta présence les a-t-elle tant affectés ? Je comprends qu'on ne voyage pas avec un tout-petit, mais décider de ne plus voyager du tout semble extrême."
+    mc "Comment ta présence les a-t-elle tant affectés? Je comprends qu'on ne voyage pas avec un tout-petit, mais décider de ne plus voyager du tout semble extrême."
 
 # game/code/Book-1/Chapter-8c/s04.rpy:121
 translate french b1c08cs04_c5a59062:
@@ -338,7 +338,7 @@ translate french b1c08cs04_65ec37d0:
 translate french b1c08cs04_fc7b9f17:
 
     # ll "I guess sometimes parents just suck, huh?"
-    ll "Je suppose que parfois, les parents sont vraiment nuls, hein ?"
+    ll "Je suppose que parfois, les parents sont vraiment nuls, hein?"
 
 # game/code/Book-1/Chapter-8c/s04.rpy:184
 translate french b1c08cs04_abd30fc1:
@@ -380,7 +380,7 @@ translate french b1c08cs04_6e078cf2:
 translate french b1c08cs04_cfce055e:
 
     # mc "Are you sure?"
-    mc "Tu es sûre ?"
+    mc "Tu es sûre?"
 
 # game/code/Book-1/Chapter-8c/s04.rpy:213
 translate french b1c08cs04_2ad9a6cd:
@@ -392,7 +392,7 @@ translate french b1c08cs04_2ad9a6cd:
 translate french b1c08cs04_5c6623b1:
 
     # ll "What if I'm not as good as Irene, or the mighty Delphia?"
-    ll "Et si je ne suis pas aussi bonne qu'Irene, ou que la puissante Delphia ?"
+    ll "Et si je ne suis pas aussi bonne qu'Irene, ou que la puissante Delphia?"
 
 # game/code/Book-1/Chapter-8c/s04.rpy:217
 translate french b1c08cs04_dd0c0291:
@@ -404,13 +404,13 @@ translate french b1c08cs04_dd0c0291:
 translate french b1c08cs04_8810609c:
 
     # ll "What if I'm not as good as Irene, or other lovers you've had?"
-    ll "Et si je ne suis pas aussi bonne qu'Irene, ou d'autres amantes que tu as eues ?"
+    ll "Et si je ne suis pas aussi bonne qu'Irene, ou d'autres amantes que tu as eues?"
 
 # game/code/Book-1/Chapter-8c/s04.rpy:221
 translate french b1c08cs04_1cce1319:
 
     # ll "What if I'm not as good as other lovers you've had?"
-    ll "Et si je ne suis pas aussi bonne que les autres amantes que tu as eues ?"
+    ll "Et si je ne suis pas aussi bonne que les autres amantes que tu as eues?"
 
 # game/code/Book-1/Chapter-8c/s04.rpy:224
 translate french b1c08cs04_0294c8c2:
@@ -434,7 +434,7 @@ translate french b1c08cs04_d1d9ca7e:
 translate french b1c08cs04_ee8d0e6c:
 
     # mc "Is that what you want?"
-    mc "Est-ce ce que tu veux ?"
+    mc "Est-ce ce que tu veux?"
 
 # game/code/Book-1/Chapter-8c/s04.rpy:233
 translate french b1c08cs04_0f185343:
@@ -470,7 +470,7 @@ translate french b1c08cs04_a6707e56:
 translate french b1c08cs04_e24e14b6:
 
     # ll "Is it something I did? Did I come on too strong?"
-    ll "Est-ce quelque chose que j'ai fait ? Est-ce que je suis devenu trop fort ?"
+    ll "Est-ce quelque chose que j'ai fait? Est-ce que je suis devenu trop fort?"
 
 # game/code/Book-1/Chapter-8c/s04.rpy:260
 translate french b1c08cs04_70705b18:
@@ -482,7 +482,7 @@ translate french b1c08cs04_70705b18:
 translate french b1c08cs04_25001608:
 
     # mc "It's just been a long day, and I'm not yet comfortable here yet, y'know?"
-    mc "Ça a juste été une longue journée, et je ne suis pas encore à l'aise ici, tu sais ?"
+    mc "Ça a juste été une longue journée, et je ne suis pas encore à l'aise ici, tu sais?"
 
 # game/code/Book-1/Chapter-8c/s04.rpy:264
 translate french b1c08cs04_d74f5814:
@@ -620,13 +620,13 @@ translate french b1c08cs04_sex_2ca09078:
 translate french b1c08cs04_sex_8c805bf2:
 
     # ll "A-ah! You feel so go—"
-    ll "A-ah ! Tu as envie d'y aller—"
+    ll "A-ah! Tu as envie d'y aller—"
 
 # game/code/Book-1/Chapter-8c/s04.rpy:374
 translate french b1c08cs04_sex_8ea9e0da:
 
     # mc "Shh. You don't want anyone to hear us, do you?"
-    mc "Chut. Tu ne veux pas que quiconque nous entende, n'est-ce pas ?"
+    mc "Chut. Tu ne veux pas que quiconque nous entende, n'est-ce pas?"
 
 # game/code/Book-1/Chapter-8c/s04.rpy:376
 translate french b1c08cs04_sex_efcbe952:
@@ -638,7 +638,7 @@ translate french b1c08cs04_sex_efcbe952:
 translate french b1c08cs04_sex_f91d7231:
 
     # ll "*Giggles* I want to be brave. I want the whole camp to hear!"
-    ll "*Rires* Je veux être courageux. Je veux que tout le camp entende !"
+    ll "*Rires* Je veux être courageux. Je veux que tout le camp entende!"
 
 # game/code/Book-1/Chapter-8c/s04.rpy:383
 translate french b1c08cs04_sex_f751a836:
@@ -680,7 +680,7 @@ translate french b1c08cs04_sex_44b28b4c:
 translate french b1c08cs04_sex_ad8f5e28:
 
     # mc "You want me to make you feel good, Lumi?"
-    mc "Tu veux que je te fasse du bien, Lumi ?"
+    mc "Tu veux que je te fasse du bien, Lumi?"
 
 # game/code/Book-1/Chapter-8c/s04.rpy:403
 translate french b1c08cs04_sex_478d3ccf:
@@ -746,7 +746,7 @@ translate french b1c08cs04_sex_ec5250a4:
 translate french b1c08cs04_sex_b67972a0:
 
     # mc "You want me to make you cum?"
-    mc "Tu veux que je te fasse jouir ?"
+    mc "Tu veux que je te fasse jouir?"
 
 # game/code/Book-1/Chapter-8c/s04.rpy:470
 translate french b1c08cs04_sex_aee6f658:
@@ -782,7 +782,7 @@ translate french b1c08cs04_sex_1f93e6be:
 translate french b1c08cs04_sex_9448b05c:
 
     # ll "You feel so good!"
-    ll "Tu te sens si bien !"
+    ll "Tu te sens si bien!"
 
 # game/code/Book-1/Chapter-8c/s04.rpy:489
 translate french b1c08cs04_sex_beea91de:
@@ -794,7 +794,7 @@ translate french b1c08cs04_sex_beea91de:
 translate french b1c08cs04_sex_f84cd6fe:
 
     # ll "I'm cumming!"
-    ll "Je jouis !"
+    ll "Je jouis!"
 
 # game/code/Book-1/Chapter-8c/s04.rpy:498
 translate french b1c08cs04_sex_a977a3f1:

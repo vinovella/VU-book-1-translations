@@ -80,7 +80,7 @@ translate french b1c04ns02_32f682d1:
 translate french b1c04ns02_6245083b:
 
     # mc "Shh, spoilers! Don't wanna give away all the answers now, do you?"
-    mc "Chut, pas de spoilers ! Tu ne veux pas donner toutes les réponses maintenant, si ?"
+    mc "Chut, pas de spoilers! Tu ne veux pas donner toutes les réponses maintenant, si?"
 
 # game/code/Book-1/Chapter-4n/s02.rpy:65
 translate french b1c04ns02_6d02c06e:
@@ -128,7 +128,7 @@ translate french b1c04ns02_38c882a6:
 translate french b1c04ns02_36197466:
 
     # rh "Everyone, double check you have the vials of gallium and galinstan on your tables. Everyone have one? Good."
-    rh "Tout le monde, vérifiez bien que vous avez les fioles de gallium et de galinstan sur vos tables. Tout le monde en a une ? Bien."
+    rh "Tout le monde, vérifiez bien que vous avez les fioles de gallium et de galinstan sur vos tables. Tout le monde en a une? Bien."
 
 # game/code/Book-1/Chapter-4n/s02.rpy:87
 translate french b1c04ns02_8783097d:
@@ -146,7 +146,7 @@ translate french b1c04ns02_b11935a2:
 translate french b1c04ns02_b67cd3b7:
 
     # nv "Alright, you done?"
-    nv "D'accord, t'as fini ?"
+    nv "D'accord, t'as fini?"
 
 # game/code/Book-1/Chapter-4n/s02.rpy:108
 translate french b1c04ns02_a87a337b:
@@ -206,7 +206,7 @@ translate french b1c04ns02_690fe17d:
 translate french b1c04ns02_e043216e:
 
     # nv "What was the time?"
-    nv "Quel a été le temps ?"
+    nv "Quel a été le temps?"
 
 # game/code/Book-1/Chapter-4n/s02.rpy:158
 translate french b1c04ns02_4777addc:
@@ -224,7 +224,7 @@ translate french b1c04ns02_8bd75584:
 translate french b1c04ns02_85207706:
 
     # mm "Shit!"
-    mm "Merde !"
+    mm "Merde!"
 
 # game/code/Book-1/Chapter-4n/s02.rpy:171
 translate french b1c04ns02_7862854f:
@@ -236,7 +236,7 @@ translate french b1c04ns02_7862854f:
 translate french b1c04ns02_8fe926ba:
 
     # mm "Why did that happen?!"
-    mm "Pourquoi cela s'est-il passé ?!"
+    mm "Pourquoi cela s'est-il passé?!"
 
 # game/code/Book-1/Chapter-4n/s02.rpy:177
 translate french b1c04ns02_b2c82818:
@@ -248,7 +248,7 @@ translate french b1c04ns02_b2c82818:
 translate french b1c04ns02_acba3b11:
 
     # mm "Ugh!"
-    mm "Beurk !"
+    mm "Beurk!"
 
 # game/code/Book-1/Chapter-4n/s02.rpy:185
 translate french b1c04ns02_35bb2535:
@@ -272,7 +272,7 @@ translate french b1c04ns02_5df35520:
 translate french b1c04ns02_ac7645a1:
 
     # ef "Hey, guys!"
-    ef "Hé, les gars !"
+    ef "Hé, les gars!"
 
 # game/code/Book-1/Chapter-4n/s02.rpy:198
 translate french b1c04ns02_646c2f44:
@@ -290,7 +290,7 @@ translate french b1c04ns02_fc07fde3:
 translate french b1c04ns02_24b8561b:
 
     # nv "Drew the short end of the stick, huh?"
-    nv "T'as tiré la courte paille, hein ?"
+    nv "T'as tiré la courte paille, hein?"
 
 # game/code/Book-1/Chapter-4n/s02.rpy:207
 translate french b1c04ns02_01c9ba77:
@@ -302,13 +302,13 @@ translate french b1c04ns02_01c9ba77:
 translate french b1c04ns02_b9ce4275:
 
     # nv "I'm sure you did nothing at all to egg the poor girl on to do anything, right?"
-    nv "Je suis sûr que tu n'as rien fait pour pousser la pauvre fille à faire quoi que ce soit, n'est-ce pas ?"
+    nv "Je suis sûr que tu n'as rien fait pour pousser la pauvre fille à faire quoi que ce soit, n'est-ce pas?"
 
 # game/code/Book-1/Chapter-4n/s02.rpy:213
 translate french b1c04ns02_36f4a197:
 
     # ef "Of course not! I'm perfectly innocent."
-    ef "Bien sûr que non ! Je suis parfaitement innocente."
+    ef "Bien sûr que non! Je suis parfaitement innocente."
 
 # game/code/Book-1/Chapter-4n/s02.rpy:220
 translate french b1c04ns02_f1cf545c:
@@ -332,13 +332,13 @@ translate french b1c04ns02_342edfd0:
 translate french b1c04ns02_deccd5bd:
 
     # nv "Eliina, do you have your hypothesis?"
-    nv "Eliina, as-tu ton hypothèse ?"
+    nv "Eliina, as-tu ton hypothèse?"
 
 # game/code/Book-1/Chapter-4n/s02.rpy:234
 translate french b1c04ns02_11fdfa63:
 
     # ef "Yep!"
-    ef "Oui !"
+    ef "Oui!"
 
 # game/code/Book-1/Chapter-4n/s02.rpy:238
 translate french b1c04ns02_11fd401d:
@@ -362,13 +362,13 @@ translate french b1c04ns02_84cabb5d_1:
 translate french b1c04ns02_44db1a57:
 
     # nv "Are you still going to the seminar after school, today?"
-    nv "Tu vas toujours au séminaire après l'école, aujourd'hui ?"
+    nv "Tu vas toujours au séminaire après l'école, aujourd'hui?"
 
 # game/code/Book-1/Chapter-4n/s02.rpy:257
 translate french b1c04ns02_3882f53d:
 
     # ef "Yeah, I was planning on it. I think Andrejz is gonna host it, right?"
-    ef "Oui, je comptais y aller. Je pense qu'Andrejz va l'animer, non ?"
+    ef "Oui, je comptais y aller. Je pense qu'Andrejz va l'animer, non?"
 
 # game/code/Book-1/Chapter-4n/s02.rpy:263
 translate french b1c04ns02_1a718016:
@@ -380,13 +380,13 @@ translate french b1c04ns02_1a718016:
 translate french b1c04ns02_5f3b9bcb:
 
     # mc "Is this the self-help seminar?"
-    mc "C'est le séminaire de développement personnel ?"
+    mc "C'est le séminaire de développement personnel?"
 
 # game/code/Book-1/Chapter-4n/s02.rpy:268
 translate french b1c04ns02_42cb5a81:
 
     # mct "I wonder if this is connected to the self-help community Irene mentioned?"
-    mct "Je me demande si c'est lié à la communauté de développement personnel dont Irene a parlé ?"
+    mct "Je me demande si c'est lié à la communauté de développement personnel dont Irene a parlé?"
 
 # game/code/Book-1/Chapter-4n/s02.rpy:271
 translate french b1c04ns02_c3bd6dde:
@@ -398,7 +398,7 @@ translate french b1c04ns02_c3bd6dde:
 translate french b1c04ns02_3606ebe9:
 
     # ef "It's really nice! Kind of like a second family."
-    ef "C'est vraiment sympa ! Un peu comme une deuxième famille."
+    ef "C'est vraiment sympa! Un peu comme une deuxième famille."
 
 # game/code/Book-1/Chapter-4n/s02.rpy:277
 translate french b1c04ns02_67bffcda:
@@ -410,7 +410,7 @@ translate french b1c04ns02_67bffcda:
 translate french b1c04ns02_58cd1cf0:
 
     # ef "No shit? That's awesome!"
-    ef "Non, vraiment ? C'est génial !"
+    ef "Non, vraiment? C'est génial!"
 
 # game/code/Book-1/Chapter-4n/s02.rpy:281
 translate french b1c04ns02_adb24db1:
@@ -470,7 +470,7 @@ translate french b1c04ns02_a6775e7f:
 translate french b1c04ns02_d9079c81:
 
     # mc "I can see that. What do you like about chemistry?"
-    mc "Je vois ça. Qu'est-ce que tu aimes dans la chimie ?"
+    mc "Je vois ça. Qu'est-ce que tu aimes dans la chimie?"
 
 # game/code/Book-1/Chapter-4n/s02.rpy:332
 translate french b1c04ns02_70eae5ba:
@@ -482,7 +482,7 @@ translate french b1c04ns02_70eae5ba:
 translate french b1c04ns02_3370615b:
 
     # mc "Then why...?"
-    mc "Alors pourquoi... ?"
+    mc "Alors pourquoi...?"
 
 # game/code/Book-1/Chapter-4n/s02.rpy:338
 translate french b1c04ns02_c3ae7010:
@@ -500,7 +500,7 @@ translate french b1c04ns02_83495ed0:
 translate french b1c04ns02_9bfff7a9:
 
     # nv "Damn, why does she look so angry?"
-    nv "Mince, pourquoi est-ce qu'elle a l'air aussi en colère ?"
+    nv "Mince, pourquoi est-ce qu'elle a l'air aussi en colère?"
 
 # game/code/Book-1/Chapter-4n/s02.rpy:351
 translate french b1c04ns02_9102c05a:
@@ -512,19 +512,19 @@ translate french b1c04ns02_9102c05a:
 translate french b1c04ns02_4a0279b0:
 
     # mm "Eliina, you bitch!"
-    mm "Eliina, sale bitch !"
+    mm "Eliina, sale bitch!"
 
 # game/code/Book-1/Chapter-4n/s02.rpy:357
 translate french b1c04ns02_ce0aa939:
 
     # rh "Hey! The class is working—"
-    rh "Hé ! La classe travaille—"
+    rh "Hé! La classe travaille—"
 
 # game/code/Book-1/Chapter-4n/s02.rpy:360
 translate french b1c04ns02_fc3219bf:
 
     # mm "You let me get pop on my cashmere on purpose!"
-    mm "Tu m'as fait renverser du soda sur mon cachemire exprès !"
+    mm "Tu m'as fait renverser du soda sur mon cachemire exprès!"
 
 # game/code/Book-1/Chapter-4n/s02.rpy:365
 translate french b1c04ns02_7568527c:
@@ -536,7 +536,7 @@ translate french b1c04ns02_7568527c:
 translate french b1c04ns02_c048d9f4:
 
     # rh "Take this outside. Now!"
-    rh "Emmenez ça dehors. Maintenant !"
+    rh "Emmenez ça dehors. Maintenant!"
 
 # game/code/Book-1/Chapter-4n/s02.rpy:377
 translate french b1c04ns02_4b2f4592:
@@ -566,7 +566,7 @@ translate french b1c04ns02_8ea3bd42:
 translate french b1c04ns02_a20eef3a:
 
     # nv "What were we talking about?"
-    nv "De quoi parlions-nous ?"
+    nv "De quoi parlions-nous?"
 
 # game/code/Book-1/Chapter-4n/s02.rpy:392
 translate french b1c04ns02_36908730:
@@ -584,7 +584,7 @@ translate french b1c04ns02_563c3dcc:
 translate french b1c04ns02_02ea2b93:
 
     # nv "So, what're you here for?"
-    nv "Alors, pourquoi es-tu ici ?"
+    nv "Alors, pourquoi es-tu ici?"
 
 # game/code/Book-1/Chapter-4n/s02.rpy:399
 translate french b1c04ns02_4bc4648d:
@@ -596,7 +596,7 @@ translate french b1c04ns02_4bc4648d:
 translate french b1c04ns02_82e8111d:
 
     # nv "What were you doing for that year?"
-    nv "Qu'est-ce que tu faisais pendant cette année ?"
+    nv "Qu'est-ce que tu faisais pendant cette année?"
 
 # game/code/Book-1/Chapter-4n/s02.rpy:405
 translate french b1c04ns02_0ac07d1d:
@@ -608,7 +608,7 @@ translate french b1c04ns02_0ac07d1d:
 translate french b1c04ns02_9012a9ac:
 
     # nv "And what was that like? That sounds like fun."
-    nv "Et c'était comment ? Ça a l'air sympa."
+    nv "Et c'était comment? Ça a l'air sympa."
 
 # game/code/Book-1/Chapter-4n/s02.rpy:411
 translate french b1c04ns02_6235cb50:
@@ -626,7 +626,7 @@ translate french b1c04ns02_d6ceb3db:
 translate french b1c04ns02_16671db6:
 
     # mc "What would you like to do? Other than being a whiz at chemistry but hating it."
-    mc "Qu'aimerais-tu faire ? À part être un génie en chimie tout en détestant ça."
+    mc "Qu'aimerais-tu faire? À part être un génie en chimie tout en détestant ça."
 
 # game/code/Book-1/Chapter-4n/s02.rpy:424
 translate french b1c04ns02_703227b7:
@@ -668,7 +668,7 @@ translate french b1c04ns02_de1a2c3f:
 translate french b1c04ns02_bb51b210:
 
     # mc "I get that. What kind of style do you have?"
-    mc "Je comprends. Quel genre de style as-tu ?"
+    mc "Je comprends. Quel genre de style as-tu?"
 
 # game/code/Book-1/Chapter-4n/s02.rpy:442
 translate french b1c04ns02_a9022e1f:
@@ -704,7 +704,7 @@ translate french b1c04ns02_e2964875:
 translate french b1c04ns02_7154975e:
 
     # nv "I don't want to turn it into a job. It's so much more than a way to make money, y'know?"
-    nv "Je ne veux pas en faire un travail. C'est bien plus qu'un moyen de gagner de l'argent, tu sais ?"
+    nv "Je ne veux pas en faire un travail. C'est bien plus qu'un moyen de gagner de l'argent, tu sais?"
 
 # game/code/Book-1/Chapter-4n/s02.rpy:458
 translate french b1c04ns02_8cf7b36d:
@@ -716,7 +716,7 @@ translate french b1c04ns02_8cf7b36d:
 translate french b1c04ns02_5f4e6848:
 
     # nv "Why do you think I'm taking chem?"
-    nv "Pourquoi penses-tu que je prends de la chimie ?"
+    nv "Pourquoi penses-tu que je prends de la chimie?"
 
 # game/code/Book-1/Chapter-4n/s02.rpy:464
 translate french b1c04ns02_756d159c:

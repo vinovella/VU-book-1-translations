@@ -20,7 +20,7 @@ translate french b1c07s01_after_variables_c333ff95:
 translate french b1c07s01_after_variables_78fe493a:
 
     # ldc "You sure aren't in a hurry to find us, are you, Matt?"
-    ldc "Tu n'es vraiment pas pressé de nous trouver, hein, Matt ?"
+    ldc "Tu n'es vraiment pas pressé de nous trouver, hein, Matt?"
 
 # game/code/Book-1/Chapter-7/s01.rpy:94
 translate french b1c07s01_after_variables_36c3d182:
@@ -32,7 +32,7 @@ translate french b1c07s01_after_variables_36c3d182:
 translate french b1c07s01_after_variables_2ece841b:
 
     # mfk "Do you even care about them, Matt? Do you care about us?"
-    mfk "Est-ce que tu te soucies d'eux, Matt ? Est-ce que tu te soucies de nous ?"
+    mfk "Est-ce que tu te soucies d'eux, Matt? Est-ce que tu te soucies de nous?"
 
 # game/code/Book-1/Chapter-7/s01.rpy:98
 translate french b1c07s01_after_variables_31eff69d:
@@ -44,13 +44,13 @@ translate french b1c07s01_after_variables_31eff69d:
 translate french b1c07s01_after_variables_29424ef9:
 
     # kc "Does it even matter? We're probably dead by now."
-    kc "Est-ce que ça a vraiment de l'importance ? Nous sommes probablement morts maintenant."
+    kc "Est-ce que ça a vraiment de l'importance? Nous sommes probablement morts maintenant."
 
 # game/code/Book-1/Chapter-7/s01.rpy:104
 translate french b1c07s01_after_variables_edf9291e:
 
     # mc "{i}{b}No!{/b}{/i} I'll find out what happened to you!"
-    mc "{i}{b}Non !{/b}{/i} Je vais découvrir ce qui vous est arrivé !"
+    mc "{i}{b}Non!{/b}{/i} Je vais découvrir ce qui vous est arrivé!"
 
 # game/code/Book-1/Chapter-7/s01.rpy:107
 translate french b1c07s01_after_variables_a40df27d:
@@ -80,13 +80,13 @@ translate french b1c07s01_after_variables_fe4dbb1e:
 translate french b1c07s01_after_variables_f6ca1ec3:
 
     # mc "Oh, hey, Lara. *Yawns* Was I thrashing around in my sleep again?"
-    mc "Oh, salut, Lara. *Bâille* Est-ce que j'ai encore bougé dans mon sommeil ?"
+    mc "Oh, salut, Lara. *Bâille* Est-ce que j'ai encore bougé dans mon sommeil?"
 
 # game/code/Book-1/Chapter-7/s01.rpy:137
 translate french b1c07s01_after_variables_1cc740b1:
 
     # lw "I couldn't tell. I just heard you inhale really deeply suddenly and wake up. Bad dreams?"
-    lw "Je ne pouvais pas dire. J'ai juste entendu ton souffle profond soudainement, puis tu t'es réveillé. Mauvais rêves ?"
+    lw "Je ne pouvais pas dire. J'ai juste entendu ton souffle profond soudainement, puis tu t'es réveillé. Mauvais rêves?"
 
 # game/code/Book-1/Chapter-7/s01.rpy:139
 translate french b1c07s01_after_variables_cf1adef2:
@@ -98,7 +98,7 @@ translate french b1c07s01_after_variables_cf1adef2:
 translate french b1c07s01_after_variables_77e8a140:
 
     # lw "You want to talk about it?"
-    lw "Tu veux en parler ?"
+    lw "Tu veux en parler?"
 
 # game/code/Book-1/Chapter-7/s01.rpy:143
 translate french b1c07s01_after_variables_4f934fe2:
@@ -128,7 +128,7 @@ translate french b1c07s01_after_variables_8319419e:
 translate french b1c07s01_after_variables_f071cf87:
 
     # mc "You look like you've been up a while. Did {i}you{/i} have trouble sleeping?"
-    mc "Tu as l'air de t'être levée tôt. Est-ce que {i}toi{/i} as eu du mal à dormir ?"
+    mc "Tu as l'air de t'être levée tôt. Est-ce que {i}toi{/i} as eu du mal à dormir?"
 
 # game/code/Book-1/Chapter-7/s01.rpy:159
 translate french b1c07s01_after_variables_316088af:
@@ -140,13 +140,13 @@ translate french b1c07s01_after_variables_316088af:
 translate french b1c07s01_after_variables_14e97ac9:
 
     # mc "Mm-hm, does this \"stuff\" happen to involve Josie?"
-    mc "Mm-hm, est-ce que ce \"truc\" implique Josie ?"
+    mc "Mm-hm, est-ce que ce \"truc\" implique Josie?"
 
 # game/code/Book-1/Chapter-7/s01.rpy:165
 translate french b1c07s01_after_variables_b07c4a88:
 
     # lw "*Chuckles* Well, aren't you a real detective?"
-    lw "*Rires* Eh bien, tu n'es vraiment pas un détective ?"
+    lw "*Rires* Eh bien, tu n'es vraiment pas un détective?"
 
 # game/code/Book-1/Chapter-7/s01.rpy:169
 translate french b1c07s01_after_variables_06886cc8:
@@ -170,13 +170,13 @@ translate french b1c07s01_after_variables_4b48bf00:
 translate french b1c07s01_after_variables_c37a7ca9:
 
     # lw "Is that 'cause you're a good listener or 'cause you're just bad at giving advice?"
-    lw "C'est parce que tu es un bon auditeur ou parce que tu es juste mauvais pour donner des conseils ?"
+    lw "C'est parce que tu es un bon auditeur ou parce que tu es juste mauvais pour donner des conseils?"
 
 # game/code/Book-1/Chapter-7/s01.rpy:181
 translate french b1c07s01_after_variables_2aa310d0:
 
     # mc "It's the 21st century, why do I have to just be one or the other?"
-    mc "C'est le XXIe siècle, pourquoi devrais-je être juste l'un ou l'autre ?"
+    mc "C'est le XXIe siècle, pourquoi devrais-je être juste l'un ou l'autre?"
 
 # game/code/Book-1/Chapter-7/s01.rpy:184
 translate french b1c07s01_after_variables_9f3a77c4:
@@ -236,13 +236,13 @@ translate french b1c07s01_after_variables_c25ac637:
 translate french b1c07s01_after_variables_103c5399:
 
     # lw "Hey. Do you want to come with Josie and me to go bouldering?"
-    lw "Hé. Tu veux venir avec Josie et moi faire de l'escalade sur blocs ?"
+    lw "Hé. Tu veux venir avec Josie et moi faire de l'escalade sur blocs?"
 
 # game/code/Book-1/Chapter-7/s01.rpy:208
 translate french b1c07s01_after_variables_ad2687f4:
 
     # mc "Wha—? Huh? You're asking {i}me{/i}?"
-    mc "Quoi— ? Hein ? Tu me demandes {i}à moi{/i} ?"
+    mc "Quoi—? Hein? Tu me demandes {i}à moi{/i}?"
 
 # game/code/Book-1/Chapter-7/s01.rpy:211
 translate french b1c07s01_after_variables_1c95cb82:
@@ -272,7 +272,7 @@ translate french b1c07s01_after_variables_544aac89:
 translate french b1c07s01_after_variables_f91dc4cf:
 
     # mct "What should I do?"
-    mct "Que devrais-je faire ?"
+    mct "Que devrais-je faire?"
 
 # game/code/Book-1/Chapter-7/s01.rpy:237
 translate french b1c07s01_after_variables_e3e3c1d4:
@@ -296,7 +296,7 @@ translate french b1c07s01_after_variables_325990bf:
 translate french b1c07s01_after_variables_8b3da540:
 
     # mc "You know what? I'd love to go bouldering."
-    mc "Tu sais quoi ? J'adorerais aller faire de l'escalade sur blocs."
+    mc "Tu sais quoi? J'adorerais aller faire de l'escalade sur blocs."
 
 # game/code/Book-1/Chapter-7/s01.rpy:251
 translate french b1c07s01_after_variables_38f16759:
@@ -308,7 +308,7 @@ translate french b1c07s01_after_variables_38f16759:
 translate french b1c07s01_after_variables_d1c70a04:
 
     # lw "Great! You better be able to keep up though!"
-    lw "Super ! Tu ferais bien de pouvoir suivre, cependant !"
+    lw "Super! Tu ferais bien de pouvoir suivre, cependant!"
 
 # game/code/Book-1/Chapter-7/s01.rpy:261
 translate french b1c07s01_after_variables_46dc3b88:
@@ -325,7 +325,7 @@ translate french b1c07s01_after_variables_2c0f983b:
 translate french b1c07s01_after_variables_081ee02a:
 
     # jh "You're not having fun without me, are you?"
-    jh "Vous ne vous amusez pas sans moi, n'est-ce pas ?"
+    jh "Vous ne vous amusez pas sans moi, n'est-ce pas?"
 
 # game/code/Book-1/Chapter-7/s01.rpy:271
 translate french b1c07s01_after_variables_c6ecf184:
@@ -337,7 +337,7 @@ translate french b1c07s01_after_variables_c6ecf184:
 translate french b1c07s01_after_variables_555a2ccf:
 
     # mc "Ow! I'm joking!"
-    mc "Aïe ! Je rigole !"
+    mc "Aïe! Je rigole!"
 
 # game/code/Book-1/Chapter-7/s01.rpy:279
 translate french b1c07s01_after_variables_b0f0c2ef:
@@ -361,13 +361,13 @@ translate french b1c07s01_after_variables_5e5991d4:
 translate french b1c07s01_after_variables_accfc3dc:
 
     # mc "So many places to sit and you just {i}had{/i} to pick Lara's place, huh?"
-    mc "Il y a tant d'endroits où s'asseoir et tu as {i}dû{/i} choisir la place de Lara, hein ?"
+    mc "Il y a tant d'endroits où s'asseoir et tu as {i}dû{/i} choisir la place de Lara, hein?"
 
 # game/code/Book-1/Chapter-7/s01.rpy:290
 translate french b1c07s01_after_variables_37df59fb:
 
     # jh "I jus— It's comfy!"
-    jh "Je... C'est confortable !"
+    jh "Je... C'est confortable!"
 
 # game/code/Book-1/Chapter-7/s01.rpy:293
 translate french b1c07s01_after_variables_0259d724:
@@ -385,7 +385,7 @@ translate french b1c07s01_after_variables_2e0f67c4:
 translate french b1c07s01_after_variables_282cb834:
 
     # mc "*Chuckles* How was the party, by the way?"
-    mc "*Rit* Alors, comment était la fête, au fait ?"
+    mc "*Rit* Alors, comment était la fête, au fait?"
 
 # game/code/Book-1/Chapter-7/s01.rpy:299
 translate french b1c07s01_after_variables_05b04354:
@@ -415,13 +415,13 @@ translate french b1c07s01_after_variables_44459e53:
 translate french b1c07s01_after_variables_69cdc342:
 
     # jh "I'm not! A bunch of people I don't know talking about stuff that doesn't matter to me with music loud enough to give me tinnitus at 25 isn't my definition of fun."
-    jh "Je ne dis pas ça ! Un tas de gens que je ne connais pas qui parlent de trucs qui ne m'intéressent pas avec de la musique assez forte pour me donner des acouphènes à 25 ans, ce n'est pas ma définition du fun."
+    jh "Je ne dis pas ça! Un tas de gens que je ne connais pas qui parlent de trucs qui ne m'intéressent pas avec de la musique assez forte pour me donner des acouphènes à 25 ans, ce n'est pas ma définition du fun."
 
 # game/code/Book-1/Chapter-7/s01.rpy:312
 translate french b1c07s01_after_variables_111db438:
 
     # jh "Anyway! Gosh, you guys keep distracting me! What were you two talking about? I heard something about bouldering. Gimme the deets."
-    jh "Bref ! Mon dieu, vous n'arrêtez pas de me distraire ! De quoi parliez-vous tous les deux ? J'ai entendu parler de bloc. Donne-moi les détails."
+    jh "Bref! Mon dieu, vous n'arrêtez pas de me distraire! De quoi parliez-vous tous les deux? J'ai entendu parler de bloc. Donne-moi les détails."
 
 # game/code/Book-1/Chapter-7/s01.rpy:316
 translate french b1c07s01_after_variables_286b5ab8:
@@ -433,13 +433,13 @@ translate french b1c07s01_after_variables_286b5ab8:
 translate french b1c07s01_after_variables_ab710227:
 
     # lw "Oh! Yeah. I asked [mcname] if he wanted to go bouldering with us."
-    lw "Oh ! Ouais. J'ai demandé à [mcname] s'il voulait venir faire du bloc avec nous."
+    lw "Oh! Ouais. J'ai demandé à [mcname] s'il voulait venir faire du bloc avec nous."
 
 # game/code/Book-1/Chapter-7/s01.rpy:322
 translate french b1c07s01_after_variables_3974032e:
 
     # jh "Wait, what!? {i}You{/i} asked him? That's amazing!"
-    jh "Attends, quoi!? {i}Toi{/i} lui as demandé ? C'est incroyable !"
+    jh "Attends, quoi!? {i}Toi{/i} lui as demandé? C'est incroyable!"
 
 # game/code/Book-1/Chapter-7/s01.rpy:326
 translate french b1c07s01_after_variables_4fe3d819:
@@ -469,7 +469,7 @@ translate french b1c07s01_after_variables_c787afe7:
 translate french b1c07s01_after_variables_8326ef15:
 
     # lw "Now look at what you've done!"
-    lw "Regarde maintenant ce que tu as fait !"
+    lw "Regarde maintenant ce que tu as fait!"
 
 # game/code/Book-1/Chapter-7/s01.rpy:355
 translate french b1c07s01_after_variables_269b8436:
@@ -511,13 +511,13 @@ translate french b1c07s01_after_variables_b7d0653a:
 translate french b1c07s01_after_variables_3e79b0dd:
 
     # jh "You {i}did{/i} agree to come, right?"
-    jh "Tu {i}as{/i} bien accepté de venir, non ?"
+    jh "Tu {i}as{/i} bien accepté de venir, non?"
 
 # game/code/Book-1/Chapter-7/s01.rpy:375
 translate french b1c07s01_after_variables_85d475fe:
 
     # mc "Of course!"
-    mc "Bien sûr !"
+    mc "Bien sûr!"
 
 # game/code/Book-1/Chapter-7/s01.rpy:378
 translate french b1c07s01_after_variables_becbbec6:
@@ -529,13 +529,13 @@ translate french b1c07s01_after_variables_becbbec6:
 translate french b1c07s01_after_variables_bca73ef9:
 
     # jh "Woo! Heck yeah! Alright. I'll get you a first time pass for our club ASAP. We have a great place, you'll love it there!"
-    jh "Woo ! C'est clair ! D'accord. Je vais t'obtenir un pass pour la première fois pour notre club dès que possible. On a un super endroit, tu vas adorer !"
+    jh "Woo! C'est clair! D'accord. Je vais t'obtenir un pass pour la première fois pour notre club dès que possible. On a un super endroit, tu vas adorer!"
 
 # game/code/Book-1/Chapter-7/s01.rpy:386
 translate french b1c07s01_after_variables_c2978b6e:
 
     # jh "Oooh, I can't wait!"
-    jh "Oooh, j'ai hâte !"
+    jh "Oooh, j'ai hâte!"
 
 # game/code/Book-1/Chapter-7/s01.rpy:390
 translate french b1c07s01_after_variables_405d9464:
@@ -547,7 +547,7 @@ translate french b1c07s01_after_variables_405d9464:
 translate french b1c07s01_after_variables_aebfc651:
 
     # jh "I asked him a bit back, but then I just kinda spaced on it, so this is great!"
-    jh "Je lui ai demandé il y a quelque temps, mais ensuite j'ai un peu oublié, donc c'est super !"
+    jh "Je lui ai demandé il y a quelque temps, mais ensuite j'ai un peu oublié, donc c'est super!"
 
 # game/code/Book-1/Chapter-7/s01.rpy:393
 translate french b1c07s01_after_variables_794bc1ea:
@@ -565,7 +565,7 @@ translate french b1c07s01_after_variables_2b3856dc:
 translate french b1c07s01_after_variables_4d00b4ea:
 
     # jh "Gotta meet the new day bright-eyed and bushy-tailed?"
-    jh "Il faut commencer la journée en pleine forme ?"
+    jh "Il faut commencer la journée en pleine forme?"
 
 # game/code/Book-1/Chapter-7/s01.rpy:408
 translate french b1c07s01_after_variables_d40c129d:
@@ -583,8 +583,9 @@ translate french strings:
 
     # game/code/Book-1/Chapter-7/s01.rpy:228
     old "I'd love to go bouldering!"
-    new "J'adorerais faire du bloc !"
+    new "J'adorerais faire du bloc!"
 
     # game/code/Book-1/Chapter-7/s01.rpy:228
     old "I'm sorry, I can't"
     new "Désolé, je ne peux pas"
+

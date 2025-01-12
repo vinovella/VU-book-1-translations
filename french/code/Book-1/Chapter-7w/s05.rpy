@@ -2,19 +2,19 @@
 translate french b1c07ws05_771b1eba:
 
     # ima "[mcname]!"
-    ima "[mcname] !"
+    ima "[mcname]!"
 
 # game/code/Book-1/Chapter-7w/s05.rpy:57
 translate french b1c07ws05_25e40d45:
 
     # ima "I remembered your name this time!"
-    ima "Je me souviens de ton nom cette fois !"
+    ima "Je me souviens de ton nom cette fois!"
 
 # game/code/Book-1/Chapter-7w/s05.rpy:62
 translate french b1c07ws05_6c74d8d0:
 
     # ima "New guy!"
-    ima "Le nouveau !"
+    ima "Le nouveau!"
 
 # game/code/Book-1/Chapter-7w/s05.rpy:65
 translate french b1c07ws05_92c10850:
@@ -32,7 +32,7 @@ translate french b1c07ws05_25471f04:
 translate french b1c07ws05_b59e22d6:
 
     # ima "Anyway, what was your name again?"
-    ima "Bref, c'était quoi ton nom déjà ?"
+    ima "Bref, c'était quoi ton nom déjà?"
 
 # game/code/Book-1/Chapter-7w/s05.rpy:73
 translate french b1c07ws05_1aa1f529:
@@ -44,7 +44,7 @@ translate french b1c07ws05_1aa1f529:
 translate french b1c07ws05_f274c616:
 
     # ba "The fuck is this prick doing here!?"
-    ba "Qu'est-ce que ce connard fout ici !?"
+    ba "Qu'est-ce que ce connard fout ici!?"
 
 # game/code/Book-1/Chapter-7w/s05.rpy:88
 translate french b1c07ws05_b84be3ab:
@@ -62,7 +62,7 @@ translate french b1c07ws05_b65b6b20:
 translate french b1c07ws05_b97ae997:
 
     # ba "What the fuck!? You fucking supported me last time!"
-    ba "C'est quoi ce bordel !? La dernière fois tu m'as soutenue !"
+    ba "C'est quoi ce bordel!? La dernière fois tu m'as soutenue!"
 
 # game/code/Book-1/Chapter-7w/s05.rpy:100
 translate french b1c07ws05_2677e2d2:
@@ -74,19 +74,19 @@ translate french b1c07ws05_2677e2d2:
 translate french b1c07ws05_f423c3b2:
 
     # ba "You can't fucking do this! He's some outsid—"
-    ba "Tu ne peux pas faire ça ! C'est un foutu étranger—"
+    ba "Tu ne peux pas faire ça! C'est un foutu étranger—"
 
 # game/code/Book-1/Chapter-7w/s05.rpy:106
 translate french b1c07ws05_11c02f2c:
 
     # ima "I'm sorry, what did you just say? I can do whatever the hell I want, Brig, so I'd watch your tone."
-    ima "Désolée, qu'est-ce que tu viens de dire ? Je fais ce que je veux, Brig, alors je te conseille de modérer ton ton."
+    ima "Désolée, qu'est-ce que tu viens de dire? Je fais ce que je veux, Brig, alors je te conseille de modérer ton ton."
 
 # game/code/Book-1/Chapter-7w/s05.rpy:109
 translate french b1c07ws05_903d73c3:
 
     # sm "Guys, please. We're here to have a nice time and relax, can we not fight?"
-    sm "Les gars, s'il vous plaît. On est là pour passer un bon moment et se détendre, on ne peut pas arrêter de se battre ?"
+    sm "Les gars, s'il vous plaît. On est là pour passer un bon moment et se détendre, on ne peut pas arrêter de se battre?"
 
 # game/code/Book-1/Chapter-7w/s05.rpy:113
 translate french b1c07ws05_63ab528b:
@@ -98,19 +98,19 @@ translate french b1c07ws05_63ab528b:
 translate french b1c07ws05_6581af95:
 
     # sl "Let the guy stay. Who cares? He's part of the team."
-    sl "Laisse-le rester. Qu'est-ce que ça peut faire ? C'est un membre de l'équipe."
+    sl "Laisse-le rester. Qu'est-ce que ça peut faire? C'est un membre de l'équipe."
 
 # game/code/Book-1/Chapter-7w/s05.rpy:119
 translate french b1c07ws05_17dabcd7:
 
     # ba "You too!?"
-    ba "Toi aussi !?"
+    ba "Toi aussi!?"
 
 # game/code/Book-1/Chapter-7w/s05.rpy:122
 translate french b1c07ws05_09108bed:
 
     # ba "Y'know what? Fuck all of you. If you wanna be buddy-buddy with that cunt, be my guest."
-    ba "Tu sais quoi ? Allez tous vous faire foutre. Si vous voulez être copains avec ce connard, faites donc."
+    ba "Tu sais quoi? Allez tous vous faire foutre. Si vous voulez être copains avec ce connard, faites donc."
 
 # game/code/Book-1/Chapter-7w/s05.rpy:128
 translate french b1c07ws05_6a14a930:
@@ -122,7 +122,7 @@ translate french b1c07ws05_6a14a930:
 translate french b1c07ws05_3c951150:
 
     # mc "I swear to God, what is her problem with me?"
-    mc "Je jure devant Dieu, quel est son problème avec moi ?"
+    mc "Je jure devant Dieu, quel est son problème avec moi?"
 
 # game/code/Book-1/Chapter-7w/s05.rpy:135
 translate french b1c07ws05_d46e12c1:
@@ -140,7 +140,7 @@ translate french b1c07ws05_427708b5:
 translate french b1c07ws05_ad39430c:
 
     # ima "Beer? Or are you a fruitier kinda guy?"
-    ima "De la bière ? Ou tu es plutôt du genre à boire des trucs fruités ?"
+    ima "De la bière? Ou tu es plutôt du genre à boire des trucs fruités?"
 
 # game/code/Book-1/Chapter-7w/s05.rpy:145
 translate french b1c07ws05_d73d762c:
@@ -158,7 +158,7 @@ translate french b1c07ws05_0c86f1f1:
 translate french b1c07ws05_df06c236:
 
     # ima "That's it from me then. Have fun and welcome to the Winners!"
-    ima "C'est tout pour moi alors. Amusez-vous bien et bienvenue chez les Winners !"
+    ima "C'est tout pour moi alors. Amusez-vous bien et bienvenue chez les Winners!"
 
 # game/code/Book-1/Chapter-7w/s05.rpy:163
 translate french b1c07ws05_46691a50:
@@ -176,25 +176,25 @@ translate french b1c07ws05_6907467e:
 translate french b1c07ws05_4c54eb26:
 
     # mct "I wonder where Olesya is?"
-    mct "Je me demande où est Olesya ?"
+    mct "Je me demande où est Olesya?"
 
 # game/code/Book-1/Chapter-7w/s05.rpy:180
 translate french b1c07ws05_6950f724:
 
     # ima "Welcome, everyone! Most of you have already been here for a while but now that everybody is here, I would like to say a couple words."
-    ima "Bienvenue à tous ! La plupart d'entre vous sont déjà là depuis un moment, mais maintenant que tout le monde est là, j'aimerais dire quelques mots."
+    ima "Bienvenue à tous! La plupart d'entre vous sont déjà là depuis un moment, mais maintenant que tout le monde est là, j'aimerais dire quelques mots."
 
 # game/code/Book-1/Chapter-7w/s05.rpy:183
 translate french b1c07ws05_391a5525:
 
     # mm "Show us your tits!"
-    mm "Montre-nous tes seins !"
+    mm "Montre-nous tes seins!"
 
 # game/code/Book-1/Chapter-7w/s05.rpy:186
 translate french b1c07ws05_ae23eef4:
 
     # sl "No long speeches! My dick's long, my attention ain't!"
-    sl "Pas de discours longs ! Mon sexe est long, mais mon attention ne l'est pas !"
+    sl "Pas de discours longs! Mon sexe est long, mais mon attention ne l'est pas!"
 
 # game/code/Book-1/Chapter-7w/s05.rpy:190
 translate french b1c07ws05_a687940b:
@@ -236,61 +236,61 @@ translate french b1c07ws05_d84d2541:
 translate french b1c07ws05_d726925c:
 
     # ima "To the Winners!"
-    ima "Aux Winners !"
+    ima "Aux Winners!"
 
 # game/code/Book-1/Chapter-7w/s05.rpy:210
 translate french b1c07ws05_3e7e6343:
 
     # "Everyone" "To the Winners!"
-    "Tout le monde" "Aux Winners !"
+    "Tout le monde" "Aux Winners!"
 
 # game/code/Book-1/Chapter-7w/s05.rpy:214
 translate french b1c07ws05_3e7e6343_1:
 
     # "Everyone" "To the Winners!"
-    "Tout le monde" "Aux Winners !"
+    "Tout le monde" "Aux Winners!"
 
 # game/code/Book-1/Chapter-7w/s05.rpy:241
 translate french b1c07ws05_bar_ir_3c8153af:
 
     # "???" "{size=22}Can you please just let me do my job, miss?{/size}"
-    "???" "{size=22}Pouvez-vous me laisser faire mon travail, mademoiselle ?{/size}"
+    "???" "{size=22}Pouvez-vous me laisser faire mon travail, mademoiselle?{/size}"
 
 # game/code/Book-1/Chapter-7w/s05.rpy:248
 translate french b1c07ws05_bar_ir_d9496396:
 
     # mct "*Chuckles* What the hell is she up to?"
-    mct "*Rit* Qu'est-ce qu'elle mijote ?"
+    mct "*Rit* Qu'est-ce qu'elle mijote?"
 
 # game/code/Book-1/Chapter-7w/s05.rpy:252
 translate french b1c07ws05_bar_ir_08281a10:
 
     # ir "Eyyy, [mcname]! What can I get ya?"
-    ir "Eyyy, [mcname] ! Qu'est-ce que je peux te servir ?"
+    ir "Eyyy, [mcname]! Qu'est-ce que je peux te servir?"
 
 # game/code/Book-1/Chapter-7w/s05.rpy:256
 translate french b1c07ws05_bar_ir_710deb7b:
 
     # "Bartender" "You're not licensed to serve drinks!"
-    "Barman" "Tu n'as pas de licence pour servir des boissons !"
+    "Barman" "Tu n'as pas de licence pour servir des boissons!"
 
 # game/code/Book-1/Chapter-7w/s05.rpy:259
 translate french b1c07ws05_bar_ir_1372320f:
 
     # ir "Pish, license, shmicense, I don't need a damn Ph.D. to just serve some drinks, bro!"
-    ir "Bah, licence ou pas, j'ai pas besoin d'un putain de doctorat pour servir des boissons, mec !"
+    ir "Bah, licence ou pas, j'ai pas besoin d'un putain de doctorat pour servir des boissons, mec!"
 
 # game/code/Book-1/Chapter-7w/s05.rpy:262
 translate french b1c07ws05_bar_ir_1fd1e46e:
 
     # "Bartender" "Can I get you anything, Sir?"
-    "Barman" "Puis-je vous servir quelque chose, Monsieur ?"
+    "Barman" "Puis-je vous servir quelque chose, Monsieur?"
 
 # game/code/Book-1/Chapter-7w/s05.rpy:265
 translate french b1c07ws05_bar_ir_ae7443cd:
 
     # mc "Can I get another beer?"
-    mc "Puis-je avoir une autre bière ?"
+    mc "Puis-je avoir une autre bière?"
 
 # game/code/Book-1/Chapter-7w/s05.rpy:268
 translate french b1c07ws05_bar_ir_cbcb08d8:
@@ -314,19 +314,19 @@ translate french b1c07ws05_bar_ir_e0e2ce08:
 translate french b1c07ws05_bar_ir_e95feb6d:
 
     # ima "Brandon! Brandon, can you come here for a bit?"
-    ima "Brandon ! Brandon, tu peux venir ici un moment ?"
+    ima "Brandon! Brandon, tu peux venir ici un moment?"
 
 # game/code/Book-1/Chapter-7w/s05.rpy:280
 translate french b1c07ws05_bar_ir_ce23f044:
 
     # "Brandon" "I already told you my name's not Brandon!"
-    "Brandon" "Je t'ai déjà dit que je m'appelle pas Brandon !"
+    "Brandon" "Je t'ai déjà dit que je m'appelle pas Brandon!"
 
 # game/code/Book-1/Chapter-7w/s05.rpy:283
 translate french b1c07ws05_bar_ir_20581696:
 
     # ima "But Brandon fits you so well though!"
-    ima "Mais Brandon te va tellement bien !"
+    ima "Mais Brandon te va tellement bien!"
 
 # game/code/Book-1/Chapter-7w/s05.rpy:286
 translate french b1c07ws05_bar_ir_b7818689:
@@ -344,7 +344,7 @@ translate french b1c07ws05_bar_ir_bb0eeaf4:
 translate french b1c07ws05_bar_ir_7813d167:
 
     # "Not Brandon" "Don't touch {i}anything{/i}. You are not allowed to serve anyone. Understand?"
-    "Pas Brandon" "Ne touche à {i}rien{/i}. Tu n'as pas le droit de servir qui que ce soit. Compris ?"
+    "Pas Brandon" "Ne touche à {i}rien{/i}. Tu n'as pas le droit de servir qui que ce soit. Compris?"
 
 # game/code/Book-1/Chapter-7w/s05.rpy:295
 translate french b1c07ws05_bar_ir_d6c27256:
@@ -374,25 +374,25 @@ translate french b1c07ws05_bar_ir_cf9e9230:
 translate french b1c07ws05_bar_ir_c7825b0d:
 
     # ir "Make me \"behave\"? My, my, wouldn't I love to see {i}that{/i}."
-    ir "Me faire \"comporter\" ? Oh là là, comme j'aimerais voir {i}ça{/i}."
+    ir "Me faire \"comporter\"? Oh là là, comme j'aimerais voir {i}ça{/i}."
 
 # game/code/Book-1/Chapter-7w/s05.rpy:312
 translate french b1c07ws05_bar_ir_42cc62da:
 
     # mc "Are you just always horny or like what is going on?"
-    mc "T'es toujours excitée ou quoi, qu'est-ce qui se passe ?"
+    mc "T'es toujours excitée ou quoi, qu'est-ce qui se passe?"
 
 # game/code/Book-1/Chapter-7w/s05.rpy:315
 translate french b1c07ws05_bar_ir_f98b8209:
 
     # ir "Whaaat? Can't a girl have needs?"
-    ir "Quoi ? Une fille n'a-t-elle pas des besoins ?"
+    ir "Quoi? Une fille n'a-t-elle pas des besoins?"
 
 # game/code/Book-1/Chapter-7w/s05.rpy:317
 translate french b1c07ws05_bar_ir_6da136f4:
 
     # ir "Guy fucks around and he gets a pat on the back, but a girl goes a lil' crazy for the hot stud that landed on her lap, and she's the crazy one?"
-    ir "Un gars fait des bêtises et il reçoit une tape dans le dos, mais une fille devient un peu folle pour le beau gosse qui tombe sur ses genoux, et c'est elle la folle ?"
+    ir "Un gars fait des bêtises et il reçoit une tape dans le dos, mais une fille devient un peu folle pour le beau gosse qui tombe sur ses genoux, et c'est elle la folle?"
 
 # game/code/Book-1/Chapter-7w/s05.rpy:329
 translate french b1c07ws05_bar_ir_80fbe0d4:
@@ -410,7 +410,7 @@ translate french b1c07ws05_bar_ir_d5ae2301:
 translate french b1c07ws05_bar_ir_c6a68887:
 
     # mm "Iona? Finally iced the bartender, huh? *Chuckles*"
-    mm "Iona ? T'as enfin mis à l'amende le barman, hein ? *Rit*"
+    mm "Iona? T'as enfin mis à l'amende le barman, hein? *Rit*"
 
 # game/code/Book-1/Chapter-7w/s05.rpy:339
 translate french b1c07ws05_bar_ir_35459ac8:
@@ -422,7 +422,7 @@ translate french b1c07ws05_bar_ir_35459ac8:
 translate french b1c07ws05_bar_ir_eba98cc3:
 
     # ir "What can I get ya?"
-    ir "Qu'est-ce que je peux te servir ?"
+    ir "Qu'est-ce que je peux te servir?"
 
 # game/code/Book-1/Chapter-7w/s05.rpy:346
 translate french b1c07ws05_bar_ir_67c721d5:
@@ -434,7 +434,7 @@ translate french b1c07ws05_bar_ir_67c721d5:
 translate french b1c07ws05_bar_ir_a8d5e9d9:
 
     # mc "You really just gonna blatantly ignore Brandon like that?"
-    mc "Tu vas vraiment ignorer Brandon aussi ouvertement ?"
+    mc "Tu vas vraiment ignorer Brandon aussi ouvertement?"
 
 # game/code/Book-1/Chapter-7w/s05.rpy:357
 translate french b1c07ws05_bar_ir_b2d17092:
@@ -488,13 +488,13 @@ translate french b1c07ws05_bar_ir_fd6e855a:
 translate french b1c07ws05_bar_ir_c1e7916e:
 
     # mm "So what's going on with you two? Are you two a thing yet or what?"
-    mm "Alors, qu'est-ce qui se passe entre vous deux ? Vous êtes ensemble ou quoi ?"
+    mm "Alors, qu'est-ce qui se passe entre vous deux? Vous êtes ensemble ou quoi?"
 
 # game/code/Book-1/Chapter-7w/s05.rpy:387
 translate french b1c07ws05_bar_ir_1d8bc34c:
 
     # mc "A \"thing\"?"
-    mc "Un \"truc\" ?"
+    mc "Un \"truc\"?"
 
 # game/code/Book-1/Chapter-7w/s05.rpy:390
 translate french b1c07ws05_bar_ir_1440e779:
@@ -548,13 +548,13 @@ translate french b1c07ws05_bar_ir_a2b380aa:
 translate french b1c07ws05_bar_ir_312fef5c:
 
     # mm "Isn't that the fuckin' truth?"
-    mm "N'est-ce pas la putain de vérité ?"
+    mm "N'est-ce pas la putain de vérité?"
 
 # game/code/Book-1/Chapter-7w/s05.rpy:420
 translate french b1c07ws05_bar_ir_2b5bc923:
 
     # mm "Fuck is this anyway?"
-    mm "C'est quoi ce bordel ?"
+    mm "C'est quoi ce bordel?"
 
 # game/code/Book-1/Chapter-7w/s05.rpy:423
 translate french b1c07ws05_bar_ir_e4db595b:
@@ -566,7 +566,7 @@ translate french b1c07ws05_bar_ir_e4db595b:
 translate french b1c07ws05_bar_ir_9c7e2d19:
 
     # mm "*Gags* Bloody hell, that's fucking awful!"
-    mm "*Gags* Bon sang, c'est vraiment dégueulasse !"
+    mm "*Gags* Bon sang, c'est vraiment dégueulasse!"
 
 # game/code/Book-1/Chapter-7w/s05.rpy:433
 translate french b1c07ws05_bar_ir_2a4885a5:
@@ -602,7 +602,7 @@ translate french b1c07ws05_bar_ir_ce884ea8:
 translate french b1c07ws05_bar_ir_998458f6:
 
     # ir "Aw, didn't you say you were gonna make me behave?"
-    ir "Oh, tu n'avais pas dit que tu allais me faire me tenir ?"
+    ir "Oh, tu n'avais pas dit que tu allais me faire me tenir?"
 
 # game/code/Book-1/Chapter-7w/s05.rpy:454
 translate french b1c07ws05_bar_ir_4ea41e88:
@@ -614,13 +614,13 @@ translate french b1c07ws05_bar_ir_4ea41e88:
 translate french b1c07ws05_bar_ir_35126ba3:
 
     # mc "Bye, Iona! Don't get into too much trouble now."
-    mc "Salut, Iona ! Ne te mets pas trop dans la merde maintenant."
+    mc "Salut, Iona! Ne te mets pas trop dans la merde maintenant."
 
 # game/code/Book-1/Chapter-7w/s05.rpy:467
 translate french b1c07ws05_bar_ir_4b2a10a5:
 
     # ir "Hey, you wanna do something fun and a little risky?"
-    ir "Hé, tu veux faire quelque chose de fun et un peu risqué ?"
+    ir "Hé, tu veux faire quelque chose de fun et un peu risqué?"
 
 # game/code/Book-1/Chapter-7w/s05.rpy:470
 translate french b1c07ws05_bar_ir_0ca6072e:
@@ -632,7 +632,7 @@ translate french b1c07ws05_bar_ir_0ca6072e:
 translate french b1c07ws05_bar_sex_b0dee8b2:
 
     # ir "{size=20}What do you say you eat me out while I serve drinks?{/size}"
-    ir "{size=20}Que dirais-tu de me faire une gâterie pendant que je sers des boissons ?{/size}"
+    ir "{size=20}Que dirais-tu de me faire une gâterie pendant que je sers des boissons?{/size}"
 
 # game/code/Book-1/Chapter-7w/s05.rpy:480
 translate french b1c07ws05_bar_sex_31eff69d:
@@ -650,7 +650,7 @@ translate french b1c07ws05_bar_sex_d8e5a241:
 translate french b1c07ws05_bar_sex_039f118e:
 
     # mc "Y'know what?"
-    mc "Tu sais quoi ?"
+    mc "Tu sais quoi?"
 
 # game/code/Book-1/Chapter-7w/s05.rpy:505
 translate french b1c07ws05_bar_sex_2e98fe1b:
@@ -680,13 +680,13 @@ translate french b1c07ws05_bar_sex_d36e719b:
 translate french b1c07ws05_bar_sex_05a49fbe:
 
     # sl "You alright?"
-    sl "Ça va ?"
+    sl "Ça va?"
 
 # game/code/Book-1/Chapter-7w/s05.rpy:533
 translate french b1c07ws05_bar_sex_2c7bf889:
 
     # ir "Yep, yep! Just tryna figure out my next great concoction!"
-    ir "Ouais, ouais ! Je suis juste en train de trouver ma prochaine grande concoction !"
+    ir "Ouais, ouais! Je suis juste en train de trouver ma prochaine grande concoction!"
 
 # game/code/Book-1/Chapter-7w/s05.rpy:536
 translate french b1c07ws05_bar_sex_a6a67c38:
@@ -698,13 +698,13 @@ translate french b1c07ws05_bar_sex_a6a67c38:
 translate french b1c07ws05_bar_sex_696a9909:
 
     # ir "Well, what can I get ya?"
-    ir "Alors, qu'est-ce que je peux te servir ?"
+    ir "Alors, qu'est-ce que je peux te servir?"
 
 # game/code/Book-1/Chapter-7w/s05.rpy:541
 translate french b1c07ws05_bar_sex_28abe204:
 
     # sl "Uh, can I get a cosmo, please?"
-    sl "Euh, je peux avoir un cosmo, s'il te plaît ?"
+    sl "Euh, je peux avoir un cosmo, s'il te plaît?"
 
 # game/code/Book-1/Chapter-7w/s05.rpy:544
 translate french b1c07ws05_bar_sex_ff5172cb:
@@ -716,13 +716,13 @@ translate french b1c07ws05_bar_sex_ff5172cb:
 translate french b1c07ws05_bar_sex_5e4398ce:
 
     # ir "*Gasped moan* Oh—!"
-    ir "*Soupir haletant* Oh— !"
+    ir "*Soupir haletant* Oh—!"
 
 # game/code/Book-1/Chapter-7w/s05.rpy:568
 translate french b1c07ws05_bar_sex_19d38abd:
 
     # sl "You okay?"
-    sl "Ça va ?"
+    sl "Ça va?"
 
 # game/code/Book-1/Chapter-7w/s05.rpy:572
 translate french b1c07ws05_bar_sex_c1d8e201:
@@ -752,13 +752,13 @@ translate french b1c07ws05_bar_sex_6ab6e765:
 translate french b1c07ws05_bar_sex_80e0c99b:
 
     # sl "Hell yeah. Thanks, Iona!"
-    sl "Ouais, merci Iona !"
+    sl "Ouais, merci Iona!"
 
 # game/code/Book-1/Chapter-7w/s05.rpy:593
 translate french b1c07ws05_bar_sex_2ea77132:
 
     # ir "What were you thinking!?"
-    ir "Tu pensais à quoi !?"
+    ir "Tu pensais à quoi!?"
 
 # game/code/Book-1/Chapter-7w/s05.rpy:596
 translate french b1c07ws05_bar_sex_63513781:
@@ -824,7 +824,7 @@ translate french b1c07ws05_bar_sex_b1ccf01b:
 translate french b1c07ws05_bar_sex_1eea3768:
 
     # ir "You wanna go back to my place and finish this?"
-    ir "Tu veux revenir chez moi et finir ça ?"
+    ir "Tu veux revenir chez moi et finir ça?"
 
 # game/code/Book-1/Chapter-7w/s05.rpy:661
 translate french b1c07ws05_bar_sex_81aeb481:
@@ -860,7 +860,7 @@ translate french b1c07ws05_bar_sex_890c5d5d:
 translate french b1c07ws05_bar_sex_1386c070:
 
     # ir "*Whispers* {size=20}C'mon! We're close.{/size}"
-    ir "*Chuchote* {size=20}Allez ! On est presque là.{/size}"
+    ir "*Chuchote* {size=20}Allez! On est presque là.{/size}"
 
 # game/code/Book-1/Chapter-7w/s05.rpy:698
 translate french b1c07ws05_bar_sex_b1f8c857:
@@ -878,7 +878,7 @@ translate french b1c07ws05_bar_sex_1aefea3e:
 translate french b1c07ws05_bar_sex_4b70324d:
 
     # mc "{size=20}Can't spend all my time with you now, can I?{/size}"
-    mc "{size=20}Je ne peux pas passer tout mon temps avec toi maintenant, n'est-ce pas ?{/size}"
+    mc "{size=20}Je ne peux pas passer tout mon temps avec toi maintenant, n'est-ce pas?{/size}"
 
 # game/code/Book-1/Chapter-7w/s05.rpy:707
 translate french b1c07ws05_bar_sex_14cbbb42:
@@ -950,7 +950,7 @@ translate french b1c07ws05_iona_sex_acc24f03:
 translate french b1c07ws05_iona_sex_2d122822:
 
     # ir "Yeah? Make me."
-    ir "Ouais ? Fais-le."
+    ir "Ouais? Fais-le."
 
 # game/code/Book-1/Chapter-7w/s05.rpy:771
 translate french b1c07ws05_iona_sex_4235d154:
@@ -992,7 +992,7 @@ translate french b1c07ws05_iona_sex_c5ec9845:
 translate french b1c07ws05_iona_sex_97a3b0b4:
 
     # ir "Fuck, fuck! I'm— *Squeals* I'm cummin—!"
-    ir "Putain, putain ! Je suis— *Pousse un cri* Je viens— !"
+    ir "Putain, putain! Je suis— *Pousse un cri* Je viens—!"
 
 # game/code/Book-1/Chapter-7w/s05.rpy:814
 translate french b1c07ws05_iona_sex_798ca539:
@@ -1016,7 +1016,7 @@ translate french b1c07ws05_iona_sex_20e296f2:
 translate french b1c07ws05_iona_sex_91d8a70c:
 
     # mc "You okay?"
-    mc "Ça va ?"
+    mc "Ça va?"
 
 # game/code/Book-1/Chapter-7w/s05.rpy:836
 translate french b1c07ws05_iona_sex_15f735c2:
@@ -1064,25 +1064,25 @@ translate french b1c07ws05_iona_sex_2b6903f1:
 translate french b1c07ws05_iona_sex_fc78c670:
 
     # "???" "Can you two keep it down in there!? Jesus Fuck!"
-    "???" "Vous pouvez baisser le volume, là-dedans!? Putain de merde !"
+    "???" "Vous pouvez baisser le volume, là-dedans!? Putain de merde!"
 
 # game/code/Book-1/Chapter-7w/s05.rpy:879
 translate french b1c07ws05_iona_sex_c2dca485:
 
     # ir "No! Fuck off!"
-    ir "Non ! Va te faire foutre !"
+    ir "Non! Va te faire foutre!"
 
 # game/code/Book-1/Chapter-7w/s05.rpy:881
 translate french b1c07ws05_iona_sex_e2cefc4c:
 
     # "???" "Ugh!"
-    "???" "Argh !"
+    "???" "Argh!"
 
 # game/code/Book-1/Chapter-7w/s05.rpy:884
 translate french b1c07ws05_iona_sex_fbe3baf1:
 
     # ir "*Laughs* Fuck them. Don't you dare stop!"
-    ir "*Rit* Baise-les. Ne t'arrête pas !"
+    ir "*Rit* Baise-les. Ne t'arrête pas!"
 
 # game/code/Book-1/Chapter-7w/s05.rpy:900
 translate french b1c07ws05_iona_sex_b98803ef:
@@ -1094,7 +1094,7 @@ translate french b1c07ws05_iona_sex_b98803ef:
 translate french b1c07ws05_iona_sex_260c76b9:
 
     # ir "Fuck— [mcname], I'm gon— Cum! Cum with me!"
-    ir "Putain— [mcname], je vais— Venir ! Viens avec moi !"
+    ir "Putain— [mcname], je vais— Venir! Viens avec moi!"
 
 # game/code/Book-1/Chapter-7w/s05.rpy:906
 translate french b1c07ws05_iona_sex_bf895d54:
@@ -1124,7 +1124,7 @@ translate french b1c07ws05_iona_sex_18a9000d:
 translate french b1c07ws05_iona_sex_e46f0c73:
 
     # mc "You got any tissues? Or a towel?"
-    mc "Tu as des mouchoirs ? Ou une serviette ?"
+    mc "Tu as des mouchoirs? Ou une serviette?"
 
 # game/code/Book-1/Chapter-7w/s05.rpy:935
 translate french b1c07ws05_iona_sex_9c07af13:
@@ -1154,13 +1154,13 @@ translate french b1c07ws05_iona_sex_4b3fd019:
 translate french b1c07ws05_iona_sex_a8eff729:
 
     # mct "What the...?"
-    mct "Quoi... ?"
+    mct "Quoi...?"
 
 # game/code/Book-1/Chapter-7w/s05.rpy:960
 translate french b1c07ws05_iona_sex_9ca9f694:
 
     # ir "Oh, sorry. You want some?"
-    ir "Oh, désolée. Tu en veux ?"
+    ir "Oh, désolée. Tu en veux?"
 
 # game/code/Book-1/Chapter-7w/s05.rpy:963
 translate french b1c07ws05_iona_sex_9061326a:
@@ -1172,25 +1172,25 @@ translate french b1c07ws05_iona_sex_9061326a:
 translate french b1c07ws05_iona_sex_ecc6d405:
 
     # mct "I wonder if she got it from that Syndicate organization?"
-    mct "Je me demande si elle l'a obtenu de cette organisation Syndicate ?"
+    mct "Je me demande si elle l'a obtenu de cette organisation Syndicate?"
 
 # game/code/Book-1/Chapter-7w/s05.rpy:967
 translate french b1c07ws05_iona_sex_c82399ab:
 
     # mct "I wonder where she got that?"
-    mct "Je me demande d'où elle l'a eu ?"
+    mct "Je me demande d'où elle l'a eu?"
 
 # game/code/Book-1/Chapter-7w/s05.rpy:970
 translate french b1c07ws05_iona_sex_9396d5d4:
 
     # mc "You going back to the party, by the way?"
-    mc "Tu retournes à la fête, au fait ?"
+    mc "Tu retournes à la fête, au fait?"
 
 # game/code/Book-1/Chapter-7w/s05.rpy:974
 translate french b1c07ws05_iona_sex_8cbc8503:
 
     # ir "Yep!"
-    ir "Oui !"
+    ir "Oui!"
 
 # game/code/Book-1/Chapter-7w/s05.rpy:976
 translate french b1c07ws05_iona_sex_903e400b:
@@ -1239,3 +1239,4 @@ translate french strings:
     # game/code/Book-1/Chapter-7w/s05.rpy:733
     old "Use the vibrator on Iona"
     new "Utilisez le vibromasseur sur Iona"
+

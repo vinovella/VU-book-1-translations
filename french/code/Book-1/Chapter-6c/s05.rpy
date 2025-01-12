@@ -8,7 +8,7 @@ translate french b1c06cs05_948a3142:
 translate french b1c06cs05_db48c056:
 
     # mc "What's gotten you so bubbly?"
-    mc "Qu'est-ce qui te rend si pétillante ?"
+    mc "Qu'est-ce qui te rend si pétillante?"
 
 # game/code/Book-1/Chapter-6c/s05.rpy:51
 translate french b1c06cs05_40deb25f:
@@ -50,7 +50,7 @@ translate french b1c06cs05_b699f1dc:
 translate french b1c06cs05_4fc493e9:
 
     # mc "Hey! What the fu—!?"
-    mc "Hé ! Qu'est-ce que tu f— !?"
+    mc "Hé! Qu'est-ce que tu f—!?"
 
 # game/code/Book-1/Chapter-6c/s05.rpy:80
 translate french b1c06cs05_2a6a266e:
@@ -74,7 +74,7 @@ translate french b1c06cs05_394f46b9:
 translate french b1c06cs05_177d3eb2:
 
     # mc "What are you doing?"
-    mc "Qu'est-ce que tu fais ?"
+    mc "Qu'est-ce que tu fais?"
 
 # game/code/Book-1/Chapter-6c/s05.rpy:96
 translate french b1c06cs05_9a82f385:
@@ -92,7 +92,7 @@ translate french b1c06cs05_9bdab72e:
 translate french b1c06cs05_47b811fe:
 
     # dk "Why?"
-    dk "Pourquoi ?"
+    dk "Pourquoi?"
 
 # game/code/Book-1/Chapter-6c/s05.rpy:116
 translate french b1c06cs05_0535968b:
@@ -104,7 +104,7 @@ translate french b1c06cs05_0535968b:
 translate french b1c06cs05_83d0787f:
 
     # dk "Is it something I did?"
-    dk "Est-ce quelque chose que j'ai fait ?"
+    dk "Est-ce quelque chose que j'ai fait?"
 
 # game/code/Book-1/Chapter-6c/s05.rpy:122
 translate french b1c06cs05_ac0aff9a:
@@ -158,7 +158,7 @@ translate french b1c06cs05_continue_508b9d65:
 translate french b1c06cs05_continue_25a4ef45:
 
     # dk "You weren't {i}completely{/i} lying in class, huh?"
-    dk "Tu ne mentais pas {i}complètement{/i} en classe, hein ?"
+    dk "Tu ne mentais pas {i}complètement{/i} en classe, hein?"
 
 # game/code/Book-1/Chapter-6c/s05.rpy:174
 translate french b1c06cs05_continue_3255dd56:
@@ -176,7 +176,7 @@ translate french b1c06cs05_continue_448431c6:
 translate french b1c06cs05_continue_e8f399f9:
 
     # dk "Your {i}women{/i} huh?"
-    dk "Vos {i}femmes{/i}, hein ?"
+    dk "Vos {i}femmes{/i}, hein?"
 
 # game/code/Book-1/Chapter-6c/s05.rpy:186
 translate french b1c06cs05_continue_cd492ae2:
@@ -188,7 +188,7 @@ translate french b1c06cs05_continue_cd492ae2:
 translate french b1c06cs05_continue_65fe491d:
 
     # dk "Well aren't you just a real Don Draper?"
-    dk "Eh bien, tu n'es pas juste un vrai Don Draper ?"
+    dk "Eh bien, tu n'es pas juste un vrai Don Draper?"
 
 # game/code/Book-1/Chapter-6c/s05.rpy:195
 translate french b1c06cs05_continue_177ef83c:
@@ -200,7 +200,7 @@ translate french b1c06cs05_continue_177ef83c:
 translate french b1c06cs05_continue_d84ce281:
 
     # mc "Is that sarcasm on your pretty lips, love?"
-    mc "Est-ce que c'est du sarcasme sur tes jolies lèvres, mon amour ?"
+    mc "Est-ce que c'est du sarcasme sur tes jolies lèvres, mon amour?"
 
 # game/code/Book-1/Chapter-6c/s05.rpy:198
 translate french b1c06cs05_continue_2f29e9ad:
@@ -260,19 +260,19 @@ translate french b1c06cs05_continue_177d3eb2:
 translate french b1c06cs05_continue_901b931f:
 
     # dk "What do you think? We need to get going. I have things to do."
-    dk " Qu'en penses-tu ? Il faut y aller. J'ai des choses à faire. "
+    dk " Qu'en penses-tu? Il faut y aller. J'ai des choses à faire. "
 
 # game/code/Book-1/Chapter-6c/s05.rpy:244
 translate french b1c06cs05_continue_96235f48:
 
     # mc "Is everything okay?"
-    mc "Est-ce que tout va bien ?"
+    mc "Est-ce que tout va bien?"
 
 # game/code/Book-1/Chapter-6c/s05.rpy:247
 translate french b1c06cs05_continue_073c185b:
 
     # dk "Well, I think that's adequate thanks for the help, don't you think?"
-    dk "Eh bien, je pense que c'est suffisant, merci pour votre aide, vous ne trouvez pas ?"
+    dk "Eh bien, je pense que c'est suffisant, merci pour votre aide, vous ne trouvez pas?"
 
 # game/code/Book-1/Chapter-6c/s05.rpy:248
 translate french b1c06cs05_continue_97511a3a:
@@ -284,7 +284,7 @@ translate french b1c06cs05_continue_97511a3a:
 translate french b1c06cs05_continue_97f8d4d4:
 
     # dk "I got your little friend excited, but you can finish it off, can't you?"
-    dk "J'ai excité ton petit ami, mais tu peux en finir, n'est-ce pas ?"
+    dk "J'ai excité ton petit ami, mais tu peux en finir, n'est-ce pas?"
 
 # game/code/Book-1/Chapter-6c/s05.rpy:253
 translate french b1c06cs05_continue_e2439b1e:
@@ -308,13 +308,13 @@ translate french b1c06cs05_order_5828aa25:
 translate french b1c06cs05_order_a07a0a59:
 
     # dk "Well this is interesting. Do you really think you can just order me to do what you want?"
-    dk "Eh bien, c'est intéressant. Penses-tu vraiment que tu peux simplement m'ordonner de faire ce que tu veux ?"
+    dk "Eh bien, c'est intéressant. Penses-tu vraiment que tu peux simplement m'ordonner de faire ce que tu veux?"
 
 # game/code/Book-1/Chapter-6c/s05.rpy:280
 translate french b1c06cs05_order_a1c10abd:
 
     # dk "Do you really want me that {i}badly?{/i}"
-    dk "Est-ce que tu me veux vraiment {i}fortement ?{/i}"
+    dk "Est-ce que tu me veux vraiment {i}fortement?{/i}"
 
 # game/code/Book-1/Chapter-6c/s05.rpy:286
 translate french b1c06cs05_order_f34c3481:
@@ -338,7 +338,7 @@ translate french b1c06cs05_order_52847945:
 translate french b1c06cs05_order_ed854131:
 
     # dk "I want you to show me how much you {i}need{/i} my touch."
-    dk "Je veux que tu me montres à quel point tu {j'ai besoin{/i} de mon contact."
+    dk "Je veux que tu me montres à quel point tu ai besoin de mon contact."
 
 # game/code/Book-1/Chapter-6c/s05.rpy:306
 translate french b1c06cs05_order_cfc08047:
@@ -422,7 +422,7 @@ translate french b1c06cs05_order_fa4b5e90:
 translate french b1c06cs05_order_0ea6310e:
 
     # dk "Must be so much more relaxing now, hm? Did you like my touch that much?"
-    dk "Ça doit être tellement plus relaxant maintenant, hm ? As-tu tellement aimé mon contact ?"
+    dk "Ça doit être tellement plus relaxant maintenant, hm? As-tu tellement aimé mon contact?"
 
 # game/code/Book-1/Chapter-6c/s05.rpy:400
 translate french b1c06cs05_order_df1f61d0:
@@ -452,7 +452,7 @@ translate french b1c06cs05_end_c9c918f6:
 translate french b1c06cs05_end_a1546191:
 
     # mc "And those will go...?"
-    mc "Et ça va aller... ?"
+    mc "Et ça va aller...?"
 
 # game/code/Book-1/Chapter-6c/s05.rpy:438
 translate french b1c06cs05_end_826ee627:
@@ -543,3 +543,4 @@ translate french strings:
     # game/code/Book-1/Chapter-6c/s05.rpy:255
     old "Let her go"
     new "Laisse-la partir"
+

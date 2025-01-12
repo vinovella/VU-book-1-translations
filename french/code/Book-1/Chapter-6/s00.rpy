@@ -104,7 +104,7 @@ translate french b1c06_no_transition_c63410b2:
 translate french b1c06_no_transition_62e97971:
 
     # mct "If Morgan is anything to go by, it sounds like some sort of underground fight club. But is that it?"
-    mct "Si on en croit Morgan, cela ressemble à une sorte de club de combat clandestin. Mais est-ce que c'est juste ça ?"
+    mct "Si on en croit Morgan, cela ressemble à une sorte de club de combat clandestin. Mais est-ce que c'est juste ça?"
 
 # game/code/Book-1/Chapter-6/s00.rpy:130
 translate french b1c06_no_transition_da4b1de7:
@@ -117,3 +117,4 @@ translate french b1c06_no_transition_fecc2e73:
 
     # mct "*Yawn* Gotta keep working the case..."
     mct "*Bâillement* Je dois continuer à travailler sur l'affaire..."
+

@@ -20,7 +20,7 @@ translate french b1c06ss05_b77de702:
 translate french b1c06ss05_17177b6a:
 
     # mct "Guns n' Rosette's, huh? Looks like I was right. It's a bar."
-    mct "Guns n' Rosette's, hein ? On dirait que j'avais raison. C'est un bar."
+    mct "Guns n' Rosette's, hein? On dirait que j'avais raison. C'est un bar."
 
 # game/code/Book-1/Chapter-6s/s05.rpy:45
 translate french b1c06ss05_2d22cf30:
@@ -38,13 +38,13 @@ translate french b1c06ss05_6a99b634:
 translate french b1c06ss05_1359a002:
 
     # mct "Maybe she's some sort of manager here? She said she needed to manage something here..."
-    mct "Peut-être qu'elle est une sorte de gérante ici ? Elle a dit qu'elle devait gérer quelque chose ici..."
+    mct "Peut-être qu'elle est une sorte de gérante ici? Elle a dit qu'elle devait gérer quelque chose ici..."
 
 # game/code/Book-1/Chapter-6s/s05.rpy:64
 translate french b1c06ss05_3e232986:
 
     # rd "Hey, you're a new face. What's your poison?"
-    rd "Hé, une nouvelle tête. C'est quoi ton poison ?"
+    rd "Hé, une nouvelle tête. C'est quoi ton poison?"
 
 # game/code/Book-1/Chapter-6s/s05.rpy:67
 translate french b1c06ss05_a1b28771:
@@ -56,7 +56,7 @@ translate french b1c06ss05_a1b28771:
 translate french b1c06ss05_8f244979:
 
     # rd "Comin' right up. You new to the area? You can call me Ridley, by the way."
-    rd "Ça arrive tout de suite. Tu es nouveau dans le coin ? Tu peux m'appeler Ridley, au fait."
+    rd "Ça arrive tout de suite. Tu es nouveau dans le coin? Tu peux m'appeler Ridley, au fait."
 
 # game/code/Book-1/Chapter-6s/s05.rpy:73
 translate french b1c06ss05_f8fe1bb6:
@@ -68,19 +68,19 @@ translate french b1c06ss05_f8fe1bb6:
 translate french b1c06ss05_27516407:
 
     # rd "Well, you certainly came to the right bar for entertainment! Enjoy yourself while I get your drink ready."
-    rd "Eh bien, tu es clairement tombé sur le bon bar pour te divertir ! Amuse-toi pendant que je prépare ta boisson."
+    rd "Eh bien, tu es clairement tombé sur le bon bar pour te divertir! Amuse-toi pendant que je prépare ta boisson."
 
 # game/code/Book-1/Chapter-6s/s05.rpy:90
 translate french b1c06ss05_1b92d3a2:
 
     # mc "Nirmala, right?"
-    mc "Nirmala, c'est ça ?"
+    mc "Nirmala, c'est ça?"
 
 # game/code/Book-1/Chapter-6s/s05.rpy:93
 translate french b1c06ss05_68937b5c:
 
     # nr "[mcname]! Didn't expect to see you here."
-    nr "[mcname] ! Je ne m'attendais pas à te voir ici."
+    nr "[mcname]! Je ne m'attendais pas à te voir ici."
 
 # game/code/Book-1/Chapter-6s/s05.rpy:95
 translate french b1c06ss05_b1623448:
@@ -110,13 +110,13 @@ translate french b1c06ss05_41d37199:
 translate french b1c06ss05_be35479a:
 
     # nr "I needed a partner!"
-    nr "J'avais besoin d'un partenaire !"
+    nr "J'avais besoin d'un partenaire!"
 
 # game/code/Book-1/Chapter-6s/s05.rpy:111
 translate french b1c06ss05_f84413df:
 
     # mc "A partner?"
-    mc "Un partenaire ?"
+    mc "Un partenaire?"
 
 # game/code/Book-1/Chapter-6s/s05.rpy:117
 translate french b1c06ss05_f0091843:
@@ -140,7 +140,7 @@ translate french b1c06ss05_9f218771:
 translate french b1c06ss05_700e6051:
 
     # mc "You alright?"
-    mc "Ça va ?"
+    mc "Ça va?"
 
 # game/code/Book-1/Chapter-6s/s05.rpy:132
 translate french b1c06ss05_b567e423:
@@ -176,13 +176,13 @@ translate french b1c06ss05_a64e8bc0:
 translate french b1c06ss05_a9910bc8:
 
     # nr "Hey, sweetcheeks! Can I get another piña colada?"
-    nr "Hé, mon chou ! Puis-je avoir une autre piña colada ?"
+    nr "Hé, mon chou! Puis-je avoir une autre piña colada?"
 
 # game/code/Book-1/Chapter-6s/s05.rpy:149
 translate french b1c06ss05_b439b51d:
 
     # rd "You sure you can handle it?"
-    rd "Tu es sûr de pouvoir gérer ça ?"
+    rd "Tu es sûr de pouvoir gérer ça?"
 
 # game/code/Book-1/Chapter-6s/s05.rpy:152
 translate french b1c06ss05_2f4fca2e:
@@ -206,13 +206,13 @@ translate french b1c06ss05_82d8542c:
 translate french b1c06ss05_46a52aed:
 
     # nr "So, are you betting on today's event?"
-    nr "Alors, tu paries sur l'événement d'aujourd'hui ?"
+    nr "Alors, tu paries sur l'événement d'aujourd'hui?"
 
 # game/code/Book-1/Chapter-6s/s05.rpy:162
 translate french b1c06ss05_83911bfe:
 
     # mct "Betting on today's event?"
-    mct "Parier sur l'événement d'aujourd'hui ?"
+    mct "Parier sur l'événement d'aujourd'hui?"
 
 # game/code/Book-1/Chapter-6s/s05.rpy:164
 translate french b1c06ss05_00ce0fe6:
@@ -230,7 +230,7 @@ translate french b1c06ss05_37be1100:
 translate french b1c06ss05_ad8e171e:
 
     # nr "Hah! My k-kinda man."
-    nr "Hah ! Mon genre d'homme."
+    nr "Hah! Mon genre d'homme."
 
 # game/code/Book-1/Chapter-6s/s05.rpy:171
 translate french b1c06ss05_09a9c0a3:
@@ -242,13 +242,13 @@ translate french b1c06ss05_09a9c0a3:
 translate french b1c06ss05_097835eb:
 
     # mc "Lame? How so?"
-    mc "Nul ? Comment ça ?"
+    mc "Nul? Comment ça?"
 
 # game/code/Book-1/Chapter-6s/s05.rpy:177
 translate french b1c06ss05_dca7cff0:
 
     # nr "Well, y'know. It's part of the game. There's something so thrilling about placing a bet and winning, right?"
-    nr "Eh bien, tu sais. Ça fait partie du jeu. Il y a quelque chose de tellement excitant à parier et à gagner, non ?"
+    nr "Eh bien, tu sais. Ça fait partie du jeu. Il y a quelque chose de tellement excitant à parier et à gagner, non?"
 
 # game/code/Book-1/Chapter-6s/s05.rpy:180
 translate french b1c06ss05_8cc105c3:
@@ -272,13 +272,13 @@ translate french b1c06ss05_pool_game_bd667247:
 translate french b1c06ss05_pool_game_9772a5ad:
 
     # nr "Do you wanna play a game?"
-    nr "Tu veux jouer à un jeu ?"
+    nr "Tu veux jouer à un jeu?"
 
 # game/code/Book-1/Chapter-6s/s05.rpy:204
 translate french b1c06ss05_pool_game_52d62ad8:
 
     # mc "And bet on it? Don't you think you're a little too buzzed for it?"
-    mc "Et parier dessus ? Tu ne crois pas que tu es un peu trop pompette pour ça ?"
+    mc "Et parier dessus? Tu ne crois pas que tu es un peu trop pompette pour ça?"
 
 # game/code/Book-1/Chapter-6s/s05.rpy:207
 translate french b1c06ss05_pool_game_0bacf89f:
@@ -290,7 +290,7 @@ translate french b1c06ss05_pool_game_0bacf89f:
 translate french b1c06ss05_pool_game_969a4b46:
 
     # nr "Bar wench! Bring us a round of drinks."
-    nr "Hé, serveuse ! Apporte-nous une tournée de boissons."
+    nr "Hé, serveuse! Apporte-nous une tournée de boissons."
 
 # game/code/Book-1/Chapter-6s/s05.rpy:216
 translate french b1c06ss05_pool_game_cd0b2614:
@@ -314,13 +314,13 @@ translate french b1c06ss05_pool_game_22ab9097:
 translate french b1c06ss05_pool_game_eab0235a:
 
     # nr "Why don't we raise the stakes a little?"
-    nr "Et si on augmentait un peu les enjeux ?"
+    nr "Et si on augmentait un peu les enjeux?"
 
 # game/code/Book-1/Chapter-6s/s05.rpy:226
 translate french b1c06ss05_pool_game_ba31b910:
 
     # nr "Loser has to take off a piece of clothing per round. {w}Unless you're too scared?"
-    nr "Le perdant doit enlever un vêtement par tour. {w}À moins que tu n'aies peur ?"
+    nr "Le perdant doit enlever un vêtement par tour. {w}À moins que tu n'aies peur?"
 
 # game/code/Book-1/Chapter-6s/s05.rpy:229
 translate french b1c06ss05_pool_game_6ea8f7d0:
@@ -380,7 +380,7 @@ translate french b1c06ss05_pool_game_9645ff9f:
 translate french b1c06ss05_pool_game_af59f7b5:
 
     # nr "Don't be a downer, I'm f-fine. Perfectly sober! {w}*hiccups*"
-    nr "Ne sois pas rabat-joie, je vais t-très bien. Parfaitement sobre ! {w}*hoquet*"
+    nr "Ne sois pas rabat-joie, je vais t-très bien. Parfaitement sobre! {w}*hoquet*"
 
 # game/code/Book-1/Chapter-6s/s05.rpy:263
 translate french b1c06ss05_pool_game_db2693fc:
@@ -404,7 +404,7 @@ translate french b1c06ss05_pool_game_a562e588:
 translate french b1c06ss05_pool_game_ed5cffd9:
 
     # nr "Woo! I love the sound of balls scattering."
-    nr "Woo ! J'adore le bruit des boules qui se dispersent."
+    nr "Woo! J'adore le bruit des boules qui se dispersent."
 
 # game/code/Book-1/Chapter-6s/s05.rpy:288
 translate french b1c06ss05_pool_game_34e478e8:
@@ -476,7 +476,7 @@ translate french b1c06ss05_pool_game_3b75e48e:
 translate french b1c06ss05_pool_game_053cf7fb:
 
     # nr "Told ya!"
-    nr "Je te l'avais dit !"
+    nr "Je te l'avais dit!"
 
 # game/code/Book-1/Chapter-6s/s05.rpy:332
 translate french b1c06ss05_pool_game_2b1a8d26:
@@ -524,7 +524,7 @@ translate french b1c06ss05_pool_game_69d1869c:
 translate french b1c06ss05_pool_game_14d12a4f:
 
     # nr "God damn it!"
-    nr "Bon sang !"
+    nr "Bon sang!"
 
 # game/code/Book-1/Chapter-6s/s05.rpy:368
 translate french b1c06ss05_pool_game_d89a2a5b:
@@ -566,7 +566,7 @@ translate french b1c06ss05_pool_game_2f54da22:
 translate french b1c06ss05_pool_game_340cf3eb:
 
     # nr "You c-can really hold your own, can'tcha?"
-    nr "Tu t-tu te débrouilles vraiment bien, pas vrai ?"
+    nr "Tu t-tu te débrouilles vraiment bien, pas vrai?"
 
 # game/code/Book-1/Chapter-6s/s05.rpy:423
 translate french b1c06ss05_pool_game_d5eb2ec0:
@@ -578,7 +578,7 @@ translate french b1c06ss05_pool_game_d5eb2ec0:
 translate french b1c06ss05_pool_game_b968a221:
 
     # mc "Or maybe you're just out of it. Do you want to stop?"
-    mc "Ou peut-être que tu n'en peux plus. Tu veux arrêter ?"
+    mc "Ou peut-être que tu n'en peux plus. Tu veux arrêter?"
 
 # game/code/Book-1/Chapter-6s/s05.rpy:427
 translate french b1c06ss05_pool_game_1a2d67a6:
@@ -602,13 +602,13 @@ translate french b1c06ss05_pool_game_1db2edca:
 translate french b1c06ss05_pool_game_967bdaec:
 
     # nr "I can hold my o-own! I'm fine."
-    nr "Je tiens t-très bien ! Je vais bien."
+    nr "Je tiens t-très bien! Je vais bien."
 
 # game/code/Book-1/Chapter-6s/s05.rpy:438
 translate french b1c06ss05_pool_game_9a656557:
 
     # nr "You just want me to back down so you win!"
-    nr "Tu veux juste que j'abandonne pour que tu gagnes !"
+    nr "Tu veux juste que j'abandonne pour que tu gagnes!"
 
 # game/code/Book-1/Chapter-6s/s05.rpy:441
 translate french b1c06ss05_pool_game_3be38169:
@@ -620,13 +620,13 @@ translate french b1c06ss05_pool_game_3be38169:
 translate french b1c06ss05_pool_game_07836d0a:
 
     # nr "Screw 'just for fun'!"
-    nr "Au diable 'juste pour s'amuser' !"
+    nr "Au diable 'juste pour s'amuser'!"
 
 # game/code/Book-1/Chapter-6s/s05.rpy:446
 translate french b1c06ss05_pool_game_c762ac3c:
 
     # nr "This is about pride, about drive!"
-    nr "C'est une question de fierté, de détermination !"
+    nr "C'est une question de fierté, de détermination!"
 
 # game/code/Book-1/Chapter-6s/s05.rpy:449
 translate french b1c06ss05_pool_game_6b8d4b2b:
@@ -638,7 +638,7 @@ translate french b1c06ss05_pool_game_6b8d4b2b:
 translate french b1c06ss05_pool_game_eb1a5149:
 
     # nr "B-besides, I got other items of clothing!"
-    nr "E-en plus, j'ai d'autres vêtements !"
+    nr "E-en plus, j'ai d'autres vêtements!"
 
 # game/code/Book-1/Chapter-6s/s05.rpy:456
 translate french b1c06ss05_pool_game_e0fd9c84:
@@ -662,7 +662,7 @@ translate french b1c06ss05_pool_game_0a3f81be:
 translate french b1c06ss05_pool_game_4a3ffbce:
 
     # nr "A girly can't just pop it for free, y'know?"
-    nr "Une fille ne peut pas se dévoiler gratuitement, tu vois ?"
+    nr "Une fille ne peut pas se dévoiler gratuitement, tu vois?"
 
 # game/code/Book-1/Chapter-6s/s05.rpy:467
 translate french b1c06ss05_pool_game_298b1f5b:
@@ -710,7 +710,7 @@ translate french b1c06ss05_pool_game_b13a8b04:
 translate french b1c06ss05_pool_game_9a6c1b8b:
 
     # nr "Woo! Fuck yeah!"
-    nr "Woo ! Putain ouais !"
+    nr "Woo! Putain ouais!"
 
 # game/code/Book-1/Chapter-6s/s05.rpy:495
 translate french b1c06ss05_pool_game_35d1356c:
@@ -734,7 +734,7 @@ translate french b1c06ss05_let_her_win_6a8c27d1:
 translate french b1c06ss05_let_her_win_faa02f5d:
 
     # nr "FUCK YEAH! I told you I was the better player!"
-    nr "PUTAIN OUAIS ! Je t'avais dit que j'étais le meilleur joueur !"
+    nr "PUTAIN OUAIS! Je t'avais dit que j'étais le meilleur joueur!"
 
 # game/code/Book-1/Chapter-6s/s05.rpy:521
 translate french b1c06ss05_let_her_win_dec24038:
@@ -746,13 +746,13 @@ translate french b1c06ss05_let_her_win_dec24038:
 translate french b1c06ss05_let_her_win_9a922356:
 
     # mc "Can I get a {i}please{/i} before you start treating me like a common whore?"
-    mc "Je pourrais avoir un {i}s'il te plaît{/i} avant que tu ne commences à me traiter comme un vulgaire gigolo ?"
+    mc "Je pourrais avoir un {i}s'il te plaît{/i} avant que tu ne commences à me traiter comme un vulgaire gigolo?"
 
 # game/code/Book-1/Chapter-6s/s05.rpy:527
 translate french b1c06ss05_let_her_win_84c57522:
 
     # nr "What! Being a whore is fun. Now {i}please{/i} take your pants off."
-    nr "Quoi ! Être un gigolo, c'est amusant. Maintenant, {i}s'il te plaît{/i}, enlève ton pantalon."
+    nr "Quoi! Être un gigolo, c'est amusant. Maintenant, {i}s'il te plaît{/i}, enlève ton pantalon."
 
 # game/code/Book-1/Chapter-6s/s05.rpy:530
 translate french b1c06ss05_let_her_win_481ffcab:
@@ -776,7 +776,7 @@ translate french b1c06ss05_let_her_win_9eaca947:
 translate french b1c06ss05_let_her_win_6e1d1500:
 
     # rd "Hot damn!"
-    rd "Sacré nom d'un chien !"
+    rd "Sacré nom d'un chien!"
 
 # game/code/Book-1/Chapter-6s/s05.rpy:544
 translate french b1c06ss05_let_her_win_000cf1c0:
@@ -812,7 +812,7 @@ translate french b1c06ss05_let_her_win_d1f852a4:
 translate french b1c06ss05_let_her_win_ea1dbcf7:
 
     # mc "I...what?"
-    mc "Je... quoi ?"
+    mc "Je... quoi?"
 
 # game/code/Book-1/Chapter-6s/s05.rpy:567
 translate french b1c06ss05_let_her_win_0a06b772:
@@ -848,7 +848,7 @@ translate french b1c06ss05_let_her_win_d91faded:
 translate french b1c06ss05_let_her_win_82c6bf67:
 
     # nr "B-but wait! We haven't finished the game yet..."
-    nr "M-mais attends ! On n'a pas encore fini le jeu..."
+    nr "M-mais attends! On n'a pas encore fini le jeu..."
 
 # game/code/Book-1/Chapter-6s/s05.rpy:582
 translate french b1c06ss05_let_her_win_6767c23e:
@@ -872,7 +872,7 @@ translate french b1c06ss05_win_b24a4075:
 translate french b1c06ss05_win_bf622f08:
 
     # nr "Ugh! What the fuck!"
-    nr "Ugh ! C'est quoi ce bordel !"
+    nr "Ugh! C'est quoi ce bordel!"
 
 # game/code/Book-1/Chapter-6s/s05.rpy:616
 translate french b1c06ss05_win_d5db4ec4:
@@ -884,19 +884,19 @@ translate french b1c06ss05_win_d5db4ec4:
 translate french b1c06ss05_win_0a6c1221:
 
     # nr "Y-you cheated or something!"
-    nr "T-tu as triché ou quelque chose comme ça !"
+    nr "T-tu as triché ou quelque chose comme ça!"
 
 # game/code/Book-1/Chapter-6s/s05.rpy:622
 translate french b1c06ss05_win_05829290:
 
     # mc "Of course I didn't. How can you even cheat at pool?"
-    mc "Bien sûr que non. Comment peut-on même tricher au billard ?"
+    mc "Bien sûr que non. Comment peut-on même tricher au billard?"
 
 # game/code/Book-1/Chapter-6s/s05.rpy:625
 translate french b1c06ss05_win_18aa7ff6:
 
     # nr "I-I don't know! But you did something!"
-    nr "J-je ne sais pas ! Mais tu as fait quelque chose !"
+    nr "J-je ne sais pas! Mais tu as fait quelque chose!"
 
 # game/code/Book-1/Chapter-6s/s05.rpy:626
 translate french b1c06ss05_win_65127e9f:
@@ -908,7 +908,7 @@ translate french b1c06ss05_win_65127e9f:
 translate french b1c06ss05_win_ca3adffa:
 
     # mc "Alright, well why don't we get some ice water? We're both pretty buzzed."
-    mc "Bon, et si on prenait de l'eau glacée ? On est tous les deux bien éméchés."
+    mc "Bon, et si on prenait de l'eau glacée? On est tous les deux bien éméchés."
 
 # game/code/Book-1/Chapter-6s/s05.rpy:630
 translate french b1c06ss05_win_910d2601:
@@ -926,13 +926,13 @@ translate french b1c06ss05_win_b7096ea4:
 translate french b1c06ss05_enter_548b78eb:
 
     # nr "L-look! The show's about to start."
-    nr "R-regarde ! Le spectacle va commencer."
+    nr "R-regarde! Le spectacle va commencer."
 
 # game/code/Book-1/Chapter-6s/s05.rpy:648
 translate french b1c06ss05_enter_d977694b:
 
     # mct "Show?"
-    mct "Spectacle ?"
+    mct "Spectacle?"
 
 # game/code/Book-1/Chapter-6s/s05.rpy:650
 translate french b1c06ss05_enter_514ce0ba:
@@ -950,7 +950,7 @@ translate french b1c06ss05_enter_3b6428ba:
 translate french b1c06ss05_enter_b2c89414:
 
     # mc "Hey, can I get some ice waters for me and Nirmala? And maybe a lemon..."
-    mc "Hey, je peux avoir des eaux glacées pour moi et Nirmala ? Et peut-être un citron..."
+    mc "Hey, je peux avoir des eaux glacées pour moi et Nirmala? Et peut-être un citron..."
 
 # game/code/Book-1/Chapter-6s/s05.rpy:659
 translate french b1c06ss05_enter_a20352d9:
@@ -962,7 +962,7 @@ translate french b1c06ss05_enter_a20352d9:
 translate french b1c06ss05_enter_03b3267d:
 
     # mc "Nirmala, wait! Do you want water, first?"
-    mc "Nirmala, attends ! Tu veux de l'eau, d'abord ?"
+    mc "Nirmala, attends! Tu veux de l'eau, d'abord?"
 
 # game/code/Book-1/Chapter-6s/s05.rpy:663
 translate french b1c06ss05_enter_42a87ecf:
@@ -992,7 +992,7 @@ translate french b1c06ss05_enter_0a668b66:
 translate french b1c06ss05_enter_4eabd78c:
 
     # mc "Outsider? I'm just trying to take care of my friend, Nirmala. She just passed—"
-    mc "Étranger ? J'essaie juste de m'occuper de mon amie, Nirmala. Elle vient de passer—"
+    mc "Étranger? J'essaie juste de m'occuper de mon amie, Nirmala. Elle vient de passer—"
 
 # game/code/Book-1/Chapter-6s/s05.rpy:681
 translate french b1c06ss05_enter_16d221c3:
@@ -1010,7 +1010,7 @@ translate french b1c06ss05_enter_1187d3d9:
 translate french b1c06ss05_enter_5a0804c1:
 
     # mc "Well, is she gonna be okay? She's pretty drunk. I'm worried about her."
-    mc "Bon, est-ce qu'elle va s'en sortir ? Elle est vraiment ivre. Je m'inquiète pour elle."
+    mc "Bon, est-ce qu'elle va s'en sortir? Elle est vraiment ivre. Je m'inquiète pour elle."
 
 # game/code/Book-1/Chapter-6s/s05.rpy:690
 translate french b1c06ss05_enter_c9b228be:
@@ -1028,7 +1028,7 @@ translate french b1c06ss05_enter_12558d16:
 translate french b1c06ss05_enter_97a20686:
 
     # mc "Whoa! I'm not trying to cause any trouble. I just wanted to make sure she's alright."
-    mc "Whoa ! Je ne cherche pas à créer de problèmes. Je voulais juste m'assurer qu'elle va bien."
+    mc "Whoa! Je ne cherche pas à créer de problèmes. Je voulais juste m'assurer qu'elle va bien."
 
 # game/code/Book-1/Chapter-6s/s05.rpy:699
 translate french b1c06ss05_enter_05a221b5:
@@ -1075,3 +1075,4 @@ translate french strings:
     # game/code/Book-1/Chapter-6s/s05.rpy:498
     old "Win the game yourself"
     new "Gagner la partie toi-même"
+

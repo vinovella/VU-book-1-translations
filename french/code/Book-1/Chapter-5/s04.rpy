@@ -20,7 +20,7 @@ translate french b1c05s04_8fccedc9:
 translate french b1c05s04_99fa2ff1:
 
     # mc "What's this about?"
-    mc "De quoi s'agit-il ?"
+    mc "De quoi s'agit-il?"
 
 # game/code/Book-1/Chapter-5/s04.rpy:29
 translate french b1c05s04_13b6809f:
@@ -32,7 +32,7 @@ translate french b1c05s04_13b6809f:
 translate french b1c05s04_3c3a31f7:
 
     # dm "How've you been adjusting? I hope the other students have been accommodating and helpful."
-    dm "Comment vous êtes-vous adapté ? J'espère que les autres étudiants ont été accueillants et serviables."
+    dm "Comment vous êtes-vous adapté? J'espère que les autres étudiants ont été accueillants et serviables."
 
 # game/code/Book-1/Chapter-5/s04.rpy:35
 translate french b1c05s04_58d2b9ad:
@@ -50,13 +50,13 @@ translate french b1c05s04_7e16215c:
 translate french b1c05s04_f75090d8:
 
     # mct "What am I supposed to say to that? 'Thanks'? 'Cool'?"
-    mct "Qu'est-ce que je suis censé répondre à ça ? 'Merci' ? 'Cool' ?"
+    mct "Qu'est-ce que je suis censé répondre à ça? 'Merci'? 'Cool'?"
 
 # game/code/Book-1/Chapter-5/s04.rpy:40
 translate french b1c05s04_a527e69f:
 
     # mc "What kinds of things are they saying?"
-    mc "Quel genre de choses disent-elles ?"
+    mc "Quel genre de choses disent-elles?"
 
 # game/code/Book-1/Chapter-5/s04.rpy:42
 translate french b1c05s04_58957d2b:
@@ -98,7 +98,7 @@ translate french b1c05s04_75c9b6c0:
 translate french b1c05s04_19ced7cb:
 
     # mc "This has nothing to do with school?"
-    mc "Cela n'a rien à voir avec l'école ?"
+    mc "Cela n'a rien à voir avec l'école?"
 
 # game/code/Book-1/Chapter-5/s04.rpy:66
 translate french b1c05s04_1cecfd2e:
@@ -116,13 +116,13 @@ translate french b1c05s04_bb436e64:
 translate french b1c05s04_dee7bf44:
 
     # dm "That's a rather abrupt response. What have you gathered about the Winner's Club?"
-    dm "C'est une réponse plutôt abrupte. Qu'avez-vous découvert à propos du Winner's Club ?"
+    dm "C'est une réponse plutôt abrupte. Qu'avez-vous découvert à propos du Winner's Club?"
 
 # game/code/Book-1/Chapter-5/s04.rpy:73
 translate french b1c05s04_38164251:
 
     # dm "I'm sure you've found something by {i}now{/i}, hm?"
-    dm "Je suis sûr que vous avez trouvé quelque chose d'ici {i}maintenant{/i}, non ?"
+    dm "Je suis sûr que vous avez trouvé quelque chose d'ici {i}maintenant{/i}, non?"
 
 # game/code/Book-1/Chapter-5/s04.rpy:75
 translate french b1c05s04_3990500a:
@@ -158,7 +158,7 @@ translate french b1c05s04_0fe7cbf4:
 translate french b1c05s04_6fc63dd0:
 
     # mct "Speed things up? As if I haven't made progress already."
-    mct "Accélérer les choses ? Comme si je n'avais pas déjà fait de progrès."
+    mct "Accélérer les choses? Comme si je n'avais pas déjà fait de progrès."
 
 # game/code/Book-1/Chapter-5/s04.rpy:87
 translate french b1c05s04_606019db:
@@ -182,7 +182,7 @@ translate french b1c05s04_a5d95c83:
 translate french b1c05s04_94751e3d:
 
     # mc "That's a bit harsh to say of your students, isn't it?"
-    mc "C'est un peu dur de dire ça de vos étudiants, non ?"
+    mc "C'est un peu dur de dire ça de vos étudiants, non?"
 
 # game/code/Book-1/Chapter-5/s04.rpy:97
 translate french b1c05s04_e8b24d0c:
@@ -218,7 +218,7 @@ translate french b1c05s04_c29877d1:
 translate french b1c05s04_d21bf845:
 
     # mc "Everyone?"
-    mc "Tout le monde ?"
+    mc "Tout le monde?"
 
 # game/code/Book-1/Chapter-5/s04.rpy:111
 translate french b1c05s04_7382c6c3:
@@ -290,7 +290,7 @@ translate french b1c05s04_1ff66b8c:
 translate french b1c05s04_7b5c65c0:
 
     # dm "Isn't there anything I can do to make you feel more comfortable?"
-    dm "N'y a-t-il rien que je puisse faire pour vous mettre plus à l'aise ?"
+    dm "N'y a-t-il rien que je puisse faire pour vous mettre plus à l'aise?"
 
 # game/code/Book-1/Chapter-5/s04.rpy:136
 translate french b1c05s04_f5a8285f:
@@ -320,7 +320,7 @@ translate french b1c05s04_8c91cca2:
 translate french b1c05s04_5d3b23be:
 
     # rh "You must be [mcname], correct? I believe we met in chemistry class."
-    rh "Vous devez être [mcname], c'est bien ça ? Je crois que nous nous sommes rencontrés en cours de chimie."
+    rh "Vous devez être [mcname], c'est bien ça? Je crois que nous nous sommes rencontrés en cours de chimie."
 
 # game/code/Book-1/Chapter-5/s04.rpy:163
 translate french b1c05s04_25bd2a45:
@@ -338,7 +338,7 @@ translate french b1c05s04_afc94a4e:
 translate french b1c05s04_338a6647:
 
     # dm "What do you need, Ronja?"
-    dm "Que veux-tu, Ronja ?"
+    dm "Que veux-tu, Ronja?"
 
 # game/code/Book-1/Chapter-5/s04.rpy:171
 translate french b1c05s04_927479f2:
@@ -386,7 +386,7 @@ translate french b1c05s04_dd1a780e:
 translate french b1c05s04_0662bdb1:
 
     # rh "Hah! Still up to your old {i}desperate{/i} ways, it seems."
-    rh "Hah ! Toujours fidèle à vos anciennes méthodes {i}désespérées{/i}, on dirait."
+    rh "Hah! Toujours fidèle à vos anciennes méthodes {i}désespérées{/i}, on dirait."
 
 # game/code/Book-1/Chapter-5/s04.rpy:196
 translate french b1c05s04_32302a2c:
@@ -398,7 +398,7 @@ translate french b1c05s04_32302a2c:
 translate french b1c05s04_bbb7aee8:
 
     # dm "What do you mean?"
-    dm "Que voulez-vous dire ?"
+    dm "Que voulez-vous dire?"
 
 # game/code/Book-1/Chapter-5/s04.rpy:205
 translate french b1c05s04_a6168832:
@@ -428,13 +428,13 @@ translate french b1c05s04_be0ad010:
 translate french b1c05s04_26c745b1:
 
     # dm "{i}I{/i} saw him first, you witch! I was there the day he arrived."
-    dm "{i}Je{/i} l'ai vu en premier, espèce de sorcière ! J'étais là le jour de son arrivée."
+    dm "{i}Je{/i} l'ai vu en premier, espèce de sorcière! J'étais là le jour de son arrivée."
 
 # game/code/Book-1/Chapter-5/s04.rpy:216
 translate french b1c05s04_33376661:
 
     # dm "What did you even come here for? Just to spoil my fun?"
-    dm "Pourquoi es-tu venue ici, au juste ? Juste pour gâcher mon plaisir ?"
+    dm "Pourquoi es-tu venue ici, au juste? Juste pour gâcher mon plaisir?"
 
 # game/code/Book-1/Chapter-5/s04.rpy:219
 translate french b1c05s04_3ffa0f1b:
@@ -452,7 +452,7 @@ translate french b1c05s04_b7c2185c:
 translate french b1c05s04_aee7c51a:
 
     # dm "How so?"
-    dm "Comment ça ?"
+    dm "Comment ça?"
 
 # game/code/Book-1/Chapter-5/s04.rpy:226
 translate french b1c05s04_34517b2f:
@@ -482,7 +482,7 @@ translate french b1c05s04_99ee1efd:
 translate french b1c05s04_e3e5f14a:
 
     # rh "Why don't we see who the best woman {i}really{/i} is?"
-    rh "Pourquoi ne pas voir qui est {i}vraiment{/i} la meilleure femme ?"
+    rh "Pourquoi ne pas voir qui est {i}vraiment{/i} la meilleure femme?"
 
 # game/code/Book-1/Chapter-5/s04.rpy:239
 translate french b1c05s04_775154ab:
@@ -494,7 +494,7 @@ translate french b1c05s04_775154ab:
 translate french b1c05s04_4c63ec9e:
 
     # dm "And why should I be swayed by a scandalous proposition such as this one?"
-    dm "Et pourquoi devrais-je être influencée par une proposition aussi scandaleuse ?"
+    dm "Et pourquoi devrais-je être influencée par une proposition aussi scandaleuse?"
 
 # game/code/Book-1/Chapter-5/s04.rpy:243
 translate french b1c05s04_480dfdd6:

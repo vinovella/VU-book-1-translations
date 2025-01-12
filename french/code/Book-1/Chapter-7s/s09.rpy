@@ -14,7 +14,7 @@ translate french b1c07ss09_2060af53:
 translate french b1c07ss09_27d8cbf0:
 
     # ass "Have you seen Fleur? I got our snacks."
-    ass "As-tu vu Fleur ? J'ai pris nos snacks."
+    ass "As-tu vu Fleur? J'ai pris nos snacks."
 
 # game/code/Book-1/Chapter-7s/s09.rpy:33
 translate french b1c07ss09_82208d09:
@@ -32,7 +32,7 @@ translate french b1c07ss09_2063d392:
 translate french b1c07ss09_13c96f0d:
 
     # mc "Are you guys streaming the fight or something?"
-    mc "Vous diffusez le combat en direct ou quelque chose comme ça ?"
+    mc "Vous diffusez le combat en direct ou quelque chose comme ça?"
 
 # game/code/Book-1/Chapter-7s/s09.rpy:42
 translate french b1c07ss09_9853dfa3:
@@ -44,7 +44,7 @@ translate french b1c07ss09_9853dfa3:
 translate french b1c07ss09_7bc5ca91:
 
     # ass "Um, so how are you liking the event?"
-    ass "Euh, alors, qu'est-ce que tu penses de l'événement ?"
+    ass "Euh, alors, qu'est-ce que tu penses de l'événement?"
 
 # game/code/Book-1/Chapter-7s/s09.rpy:45
 translate french b1c07ss09_1269b633:
@@ -56,19 +56,19 @@ translate french b1c07ss09_1269b633:
 translate french b1c07ss09_7a2099ba:
 
     # mc "It's great! I'm so glad Fleur invited me."
-    mc "C'est génial ! Je suis tellement content que Fleur m'ait invité."
+    mc "C'est génial! Je suis tellement content que Fleur m'ait invité."
 
 # game/code/Book-1/Chapter-7s/s09.rpy:48
 translate french b1c07ss09_91907e4b:
 
     # mc "She told me about the betting thing. Is there an app or something to keep track?"
-    mc "Elle m'a parlé de l'histoire de paris. Il y a une application ou quelque chose pour suivre ça ?"
+    mc "Elle m'a parlé de l'histoire de paris. Il y a une application ou quelque chose pour suivre ça?"
 
 # game/code/Book-1/Chapter-7s/s09.rpy:51
 translate french b1c07ss09_7c1bc8df:
 
     # ass "Oh yeah! I'll send you an invite link when I get a chance."
-    ass "Ah oui ! Je t'enverrai un lien d'invitation dès que j'aurai l'occasion."
+    ass "Ah oui! Je t'enverrai un lien d'invitation dès que j'aurai l'occasion."
 
 # game/code/Book-1/Chapter-7s/s09.rpy:52
 translate french b1c07ss09_5ab12404:
@@ -80,7 +80,7 @@ translate french b1c07ss09_5ab12404:
 translate french b1c07ss09_a31340dd:
 
     # mc "Really?"
-    mc "Vraiment ?"
+    mc "Vraiment?"
 
 # game/code/Book-1/Chapter-7s/s09.rpy:58
 translate french b1c07ss09_2cf0213c:
@@ -92,7 +92,7 @@ translate french b1c07ss09_2cf0213c:
 translate french b1c07ss09_33b938ab:
 
     # gn "Asami! Everything going well?"
-    gn "Asami ! Tout se passe bien ?"
+    gn "Asami! Tout se passe bien?"
 
 # game/code/Book-1/Chapter-7s/s09.rpy:72
 translate french b1c07ss09_56ff9a14:
@@ -128,7 +128,7 @@ translate french b1c07ss09_2abcf00e:
 translate french b1c07ss09_beee3a8e:
 
     # mc "What does the work entail? It seems like a huge undertaking to organize an event like this."
-    mc "Qu'est-ce que le travail implique ? Ça semble être un énorme projet d'organiser un événement comme celui-ci."
+    mc "Qu'est-ce que le travail implique? Ça semble être un énorme projet d'organiser un événement comme celui-ci."
 
 # game/code/Book-1/Chapter-7s/s09.rpy:89
 translate french b1c07ss09_eea5b20f:
@@ -164,7 +164,7 @@ translate french b1c07ss09_d4c0c5f3:
 translate french b1c07ss09_4640b76d:
 
     # ass "So, where did you say you were from? Fleur's talked about you a bit."
-    ass "Alors, d'où tu viens ? Fleur a parlé de toi un peu."
+    ass "Alors, d'où tu viens? Fleur a parlé de toi un peu."
 
 # game/code/Book-1/Chapter-7s/s09.rpy:102
 translate french b1c07ss09_27a7637d:
@@ -182,7 +182,7 @@ translate french b1c07ss09_394aee13:
 translate french b1c07ss09_3fbff364:
 
     # ass "Damn! That's cool."
-    ass "Mince ! C'est cool."
+    ass "Mince! C'est cool."
 
 # game/code/Book-1/Chapter-7s/s09.rpy:111
 translate french b1c07ss09_5de43ee9:
@@ -194,7 +194,7 @@ translate french b1c07ss09_5de43ee9:
 translate french b1c07ss09_f0b9babe:
 
     # ass "Aren't we all? I'll drink to that."
-    ass "N'est-ce pas le cas pour nous tous ? Je bois à ça."
+    ass "N'est-ce pas le cas pour nous tous? Je bois à ça."
 
 # game/code/Book-1/Chapter-7s/s09.rpy:118
 translate french b1c07ss09_7cfef765:
@@ -218,19 +218,19 @@ translate french b1c07ss09_924ae0d2:
 translate french b1c07ss09_ba81c04a:
 
     # mc "Hah! Yeah, I've been told that as well."
-    mc "Ah ah ! Ouais, on m'a aussi dit ça."
+    mc "Ah ah! Ouais, on m'a aussi dit ça."
 
 # game/code/Book-1/Chapter-7s/s09.rpy:131
 translate french b1c07ss09_ad3a8c73:
 
     # sp "Lilith? I need to talk with you for a moment."
-    sp "Lilith ? J'ai besoin de te parler un instant."
+    sp "Lilith? J'ai besoin de te parler un instant."
 
 # game/code/Book-1/Chapter-7s/s09.rpy:138
 translate french b1c07ss09_90be0c3a:
 
     # ass "What's going on?"
-    ass "Que se passe-t-il ?"
+    ass "Que se passe-t-il?"
 
 # game/code/Book-1/Chapter-7s/s09.rpy:141
 translate french b1c07ss09_2d101e5a:
@@ -242,7 +242,7 @@ translate french b1c07ss09_2d101e5a:
 translate french b1c07ss09_6c1b7fb1:
 
     # qh "Ah, [mcname] got well acquainted with Cade earlier today, didn't ya buddy?"
-    qh "Ah, [mcname] a bien appris à connaître Cade plus tôt aujourd'hui, n'est-ce pas mon pote ?"
+    qh "Ah, [mcname] a bien appris à connaître Cade plus tôt aujourd'hui, n'est-ce pas mon pote?"
 
 # game/code/Book-1/Chapter-7s/s09.rpy:151
 translate french b1c07ss09_662e8a97:
@@ -260,7 +260,7 @@ translate french b1c07ss09_4d9fd177:
 translate french b1c07ss09_6789dbed:
 
     # mct "Wasps?"
-    mct "Les Guepes ?"
+    mct "Les Guepes?"
 
 # game/code/Book-1/Chapter-7s/s09.rpy:170
 translate french b1c07ss09_145dc344:
@@ -272,7 +272,7 @@ translate french b1c07ss09_145dc344:
 translate french b1c07ss09_b390173a:
 
     # mct "Is that the name of the gang Cade belongs to?"
-    mct "C'est le nom du gang auquel Cade appartient ?"
+    mct "C'est le nom du gang auquel Cade appartient?"
 
 # game/code/Book-1/Chapter-7s/s09.rpy:183
 translate french b1c07ss09_1dbc1fdc:
@@ -290,13 +290,13 @@ translate french b1c07ss09_ba081dd9:
 translate french b1c07ss09_a08aa92b:
 
     # qh "I know! How many times is she gonna have to reject him for him to get it through his dipshit skull? Ass."
-    qh "Je sais ! Combien de fois va-t-elle devoir le rejeter pour qu'il comprenne dans sa tête de débile ? Espèce de con."
+    qh "Je sais! Combien de fois va-t-elle devoir le rejeter pour qu'il comprenne dans sa tête de débile? Espèce de con."
 
 # game/code/Book-1/Chapter-7s/s09.rpy:193
 translate french b1c07ss09_40af2112:
 
     # qh "What'd she say?"
-    qh "Qu'est-ce qu'elle a dit ?"
+    qh "Qu'est-ce qu'elle a dit?"
 
 # game/code/Book-1/Chapter-7s/s09.rpy:195
 translate french b1c07ss09_6febb14d:
@@ -314,7 +314,7 @@ translate french b1c07ss09_f170493f:
 translate french b1c07ss09_ee0881be:
 
     # sp "Did Nirmala talk to you, by any chance?"
-    sp "Nirmala t'a parlé, par hasard ?"
+    sp "Nirmala t'a parlé, par hasard?"
 
 # game/code/Book-1/Chapter-7s/s09.rpy:202
 translate french b1c07ss09_b0a8f3a4:
@@ -362,13 +362,13 @@ translate french b1c07ss09_abd30fc1:
 translate french b1c07ss09_d3c0ba41:
 
     # ffl "Hey, guys!"
-    ffl "Hé, les gars !"
+    ffl "Hé, les gars!"
 
 # game/code/Book-1/Chapter-7s/s09.rpy:227
 translate french b1c07ss09_f8f90328:
 
     # ass "Fleur! Here's your hotdog and drink."
-    ass "Fleur ! Voici ton hot-dog et ta boisson."
+    ass "Fleur! Voici ton hot-dog et ta boisson."
 
 # game/code/Book-1/Chapter-7s/s09.rpy:229
 translate french b1c07ss09_a3c78d4a:
@@ -380,7 +380,7 @@ translate french b1c07ss09_a3c78d4a:
 translate french b1c07ss09_62a31a03:
 
     # mc "How are the servers? All fixed up?"
-    mc "Comment vont les serveurs ? Tout est réparé ?"
+    mc "Comment vont les serveurs? Tout est réparé?"
 
 # game/code/Book-1/Chapter-7s/s09.rpy:234
 translate french b1c07ss09_95a66c77:
@@ -392,13 +392,13 @@ translate french b1c07ss09_95a66c77:
 translate french b1c07ss09_68a5dc6d:
 
     # ffl "When is the next match going to start? I thought I was going to miss it."
-    ffl "Quand est-ce que le prochain match commence ? Je pensais que j'allais le rater."
+    ffl "Quand est-ce que le prochain match commence? Je pensais que j'allais le rater."
 
 # game/code/Book-1/Chapter-7s/s09.rpy:252
 translate french b1c01ss09_fight_5e7629f9:
 
     # fox "ALRIGHT PEOPLE, ARE YOU READY FOR ANOTHER MATCH?"
-    fox "ALORS LES GENS, ÊTES-VOUS PRÊTS POUR UN AUTRE COMBAT ?"
+    fox "ALORS LES GENS, ÊTES-VOUS PRÊTS POUR UN AUTRE COMBAT?"
 
 # game/code/Book-1/Chapter-7s/s09.rpy:255
 translate french b1c01ss09_fight_b04943e7:
@@ -410,13 +410,13 @@ translate french b1c01ss09_fight_b04943e7:
 translate french b1c01ss09_fight_cb3da0ad:
 
     # ass "You are just in time!"
-    ass "Tu es juste à temps !"
+    ass "Tu es juste à temps!"
 
 # game/code/Book-1/Chapter-7s/s09.rpy:263
 translate french b1c01ss09_fight_6e717a2e:
 
     # fox "Ladies and gentlemen, MAD DOG!"
-    fox "Mesdames et messieurs, MAD DOG !"
+    fox "Mesdames et messieurs, MAD DOG!"
 
 # game/code/Book-1/Chapter-7s/s09.rpy:267
 translate french b1c01ss09_fight_b0afaa31:
@@ -428,13 +428,13 @@ translate french b1c01ss09_fight_b0afaa31:
 translate french b1c01ss09_fight_983af822:
 
     # ass "WOO GO MAD DOG! KICK SOME ASS!"
-    ass "WOO ALLEZ MAD DOG ! DONNE-LEUR UNE BONNE LEÇON !"
+    ass "WOO ALLEZ MAD DOG! DONNE-LEUR UNE BONNE LEÇON!"
 
 # game/code/Book-1/Chapter-7s/s09.rpy:273
 translate french b1c01ss09_fight_b761221d:
 
     # fox "And Mad Dog's newest opponent, the Rapid Viper!"
-    fox "Et le nouvel adversaire de Mad Dog, le Serpent Rapide !"
+    fox "Et le nouvel adversaire de Mad Dog, le Serpent Rapide!"
 
 # game/code/Book-1/Chapter-7s/s09.rpy:278
 translate french b1c01ss09_fight_a6a1dd39:
@@ -452,7 +452,7 @@ translate french b1c01ss09_fight_0e87d642:
 translate french b1c01ss09_fight_eafca8e9:
 
     # fox "Remember, listen to me at all times, be strong, and KEEP THE PEOPLE ENTERTAINED!"
-    fox "Souvenez-vous, écoutez-moi à tout moment, soyez forts, et GARDONS LE PUBLIC DIVERTI !"
+    fox "Souvenez-vous, écoutez-moi à tout moment, soyez forts, et GARDONS LE PUBLIC DIVERTI!"
 
 # game/code/Book-1/Chapter-7s/s09.rpy:291
 translate french b1c01ss09_fight_c15827cb:
@@ -464,7 +464,7 @@ translate french b1c01ss09_fight_c15827cb:
 translate french b1c01ss09_fight_9f00f815:
 
     # ffl "Hey, can I ride on your shoulders again?"
-    ffl "Hé, puis-je remonter sur tes épaules ?"
+    ffl "Hé, puis-je remonter sur tes épaules?"
 
 # game/code/Book-1/Chapter-7s/s09.rpy:298
 translate french b1c01ss09_fight_606e2d02:
@@ -482,7 +482,7 @@ translate french b1c01ss09_fight_809c01d5:
 translate french b1c01ss09_fight_a9e94ee8:
 
     # fox "Ooh! That's gotta hurt. Gotta be quicker than that if you wanna impress this crowd, Viper."
-    fox "Ooh ! Ça doit faire mal. Faut être plus rapide que ça si tu veux impressionner cette foule, Viper."
+    fox "Ooh! Ça doit faire mal. Faut être plus rapide que ça si tu veux impressionner cette foule, Viper."
 
 # game/code/Book-1/Chapter-7s/s09.rpy:322
 translate french b1c01ss09_fight_4aa0a548:
@@ -554,7 +554,7 @@ translate french b1c01ss09_fight_a4943f95:
 translate french b1c01ss09_fight_37ae8bf7:
 
     # ass "FUCK YEAH! YOU GOT THIS, MAD DOG! TAKE THAT BITCH DOWN!"
-    ass "PUTAIN OUI ! TU PEUX LE FAIRE, MAD DOG ! ABATS CETTE PUTE !"
+    ass "PUTAIN OUI! TU PEUX LE FAIRE, MAD DOG! ABATS CETTE PUTE!"
 
 # game/code/Book-1/Chapter-7s/s09.rpy:391
 translate french b1c01ss09_fight_7df0dd59:
@@ -578,7 +578,7 @@ translate french b1c01ss09_fight_c6a2e04f:
 translate french b1c01ss09_fight_c466d176:
 
     # mc "Did you know Leia well?"
-    mc "Tu connaissais bien Leia ?"
+    mc "Tu connaissais bien Leia?"
 
 # game/code/Book-1/Chapter-7s/s09.rpy:401
 translate french b1c01ss09_fight_f1ed1a7f:
@@ -608,7 +608,7 @@ translate french b1c01ss09_fight_129f0fff:
 translate french b1c01ss09_fight_0de46a0c:
 
     # mct "What's going on? How'd she start bleeding?"
-    mct "Qu'est-ce qui se passe ? Comment elle a commencé à saigner ?"
+    mct "Qu'est-ce qui se passe? Comment elle a commencé à saigner?"
 
 # game/code/Book-1/Chapter-7s/s09.rpy:425
 translate french b1c01ss09_fight_5a3765d8:
@@ -620,7 +620,7 @@ translate french b1c01ss09_fight_5a3765d8:
 translate french b1c01ss09_fight_e2db65ca:
 
     # ass "THAT FUCKER HAS A RAZOR!!{w} BOO!!"
-    ass "CE SALAUD A UN RASOIR!!{w} BOO !!"
+    ass "CE SALAUD A UN RASOIR!!{w} BOO!!"
 
 # game/code/Book-1/Chapter-7s/s09.rpy:431
 translate french b1c01ss09_fight_570827ff:
@@ -632,7 +632,7 @@ translate french b1c01ss09_fight_570827ff:
 translate french b1c01ss09_fight_04c700c4:
 
     # fox "We don't have many rules here, but that's not appropriate for this ring!"
-    fox "Ici, on n'a pas beaucoup de règles, mais ça, ce n'est pas acceptable dans ce ring !"
+    fox "Ici, on n'a pas beaucoup de règles, mais ça, ce n'est pas acceptable dans ce ring!"
 
 # game/code/Book-1/Chapter-7s/s09.rpy:435
 translate french b1c01ss09_fight_735ecbdb:
@@ -644,7 +644,7 @@ translate french b1c01ss09_fight_735ecbdb:
 translate french b1c01ss09_fight_42adaf83:
 
     # mc "Why'd Viper do something so rash? Especially when you can get caught so quickly..."
-    mc "Pourquoi Viper a-t-elle fait quelque chose d'aussi impulsif ? Surtout quand on peut se faire attraper si vite..."
+    mc "Pourquoi Viper a-t-elle fait quelque chose d'aussi impulsif? Surtout quand on peut se faire attraper si vite..."
 
 # game/code/Book-1/Chapter-7s/s09.rpy:440
 translate french b1c01ss09_fight_e46c177a:
@@ -674,7 +674,7 @@ translate french b1c01ss09_fight_364f40ec:
 translate french b1c01ss09_fight_04e7f824:
 
     # mg "Did you really think that was gonna work on me? You think I haven't faced worse than you?"
-    mg "Tu pensais vraiment que ça allait marcher sur moi ? Tu crois que je n'ai pas affronté pire que toi ?"
+    mg "Tu pensais vraiment que ça allait marcher sur moi? Tu crois que je n'ai pas affronté pire que toi?"
 
 # game/code/Book-1/Chapter-7s/s09.rpy:460
 translate french b1c01ss09_fight_8fa2ad1e:
@@ -692,7 +692,7 @@ translate french b1c01ss09_fight_4f2a47c3:
 translate french b1c01ss09_fight_adb0d43c:
 
     # mc "Is...she gonna let go?"
-    mc "Est-ce qu'elle... va lâcher prise ?"
+    mc "Est-ce qu'elle... va lâcher prise?"
 
 # game/code/Book-1/Chapter-7s/s09.rpy:470
 translate french b1c01ss09_fight_e03c5121:
@@ -704,13 +704,13 @@ translate french b1c01ss09_fight_e03c5121:
 translate french b1c01ss09_fight_end_460b4dbd:
 
     # "Crowd" "BOOOO!!"
-    "Foule" "BOOOO !!"
+    "Foule" "BOOOO!!"
 
 # game/code/Book-1/Chapter-7s/s09.rpy:496
 translate french b1c01ss09_fight_end_9f75775a:
 
     # ass "GREAT JOB FUCKASS, YOU RUINED IT FOR EVERYONE!"
-    ass "BEAU TRAVAIL CONNARD, TU AS GÂCHÉ TOUT POUR TOUT LE MONDE !"
+    ass "BEAU TRAVAIL CONNARD, TU AS GÂCHÉ TOUT POUR TOUT LE MONDE!"
 
 # game/code/Book-1/Chapter-7s/s09.rpy:502
 translate french b1c01ss09_fight_end_9ca5ff0a:
@@ -728,7 +728,7 @@ translate french b1c01ss09_fight_end_35ffc8ba:
 translate french b1c01ss09_fight_end_26e671c7:
 
     # ass "Morgan! Are you okay?"
-    ass "Morgan ! Ça va ?"
+    ass "Morgan! Ça va?"
 
 # game/code/Book-1/Chapter-7s/s09.rpy:513
 translate french b1c01ss09_fight_end_2a688b6a:
@@ -758,7 +758,7 @@ translate french b1c01ss09_fight_end_d61774b7:
 translate french b1c01ss09_fight_end_775fa1ef:
 
     # mg "Aw, just cause of silly old me?"
-    mg "Oh, juste à cause de ma vieille personne stupide ?"
+    mg "Oh, juste à cause de ma vieille personne stupide?"
 
 # game/code/Book-1/Chapter-7s/s09.rpy:522
 translate french b1c01ss09_fight_end_a1189844:
@@ -770,7 +770,7 @@ translate french b1c01ss09_fight_end_a1189844:
 translate french b1c01ss09_fight_end_9aeaa266:
 
     # ass "You are special! You bring a lot of customers to this place."
-    ass "Tu es spécial ! Tu amènes beaucoup de clients ici."
+    ass "Tu es spécial! Tu amènes beaucoup de clients ici."
 
 # game/code/Book-1/Chapter-7s/s09.rpy:527
 translate french b1c01ss09_fight_end_490147b5:
@@ -818,7 +818,7 @@ translate french b1c01ss09_fight_end_9013910f:
 translate french b1c01ss09_fight_end_e5132e40:
 
     # ffl "You want me to help you and Lilith clean it up?"
-    ffl "Tu veux que je t'aide, toi et Lilith, à nettoyer ça ?"
+    ffl "Tu veux que je t'aide, toi et Lilith, à nettoyer ça?"
 
 # game/code/Book-1/Chapter-7s/s09.rpy:550
 translate french b1c01ss09_fight_end_d6b5fc41:
@@ -854,13 +854,13 @@ translate french b1c01ss09_fight_end_b9710271:
 translate french b1c01ss09_fight_end_55fac4b6:
 
     # ffl "Bye [mcname]! I'll see you around campus."
-    ffl "Salut [mcname] ! Je te verrai dans le campus."
+    ffl "Salut [mcname]! Je te verrai dans le campus."
 
 # game/code/Book-1/Chapter-7s/s09.rpy:572
 translate french b1c01ss09_fight_end_5db549f0:
 
     # mc "Do you want me to walk you home? It's no problem."
-    mc "Tu veux que je t'accompagne chez toi ? C'est pas un problème."
+    mc "Tu veux que je t'accompagne chez toi? C'est pas un problème."
 
 # game/code/Book-1/Chapter-7s/s09.rpy:575
 translate french b1c01ss09_fight_end_a9291d31:
@@ -884,7 +884,7 @@ translate french b1c01ss09_fight_end_a19ddb20:
 translate french b1c01ss09_fight_end_3656a527:
 
     # mc "You sure?"
-    mc "Tu es sûr ?"
+    mc "Tu es sûr?"
 
 # game/code/Book-1/Chapter-7s/s09.rpy:585
 translate french b1c01ss09_fight_end_5f9e6972:
@@ -896,7 +896,7 @@ translate french b1c01ss09_fight_end_5f9e6972:
 translate french b1c01ss09_fight_end_2c93d425:
 
     # ass "Alright, well I'll check on you once I'm done cleaning the ring. Don't leave without saying something, okay?"
-    ass "D'accord, je viendrai te voir une fois que j'aurai fini de nettoyer le ring. Ne pars pas sans dire un mot, d'accord ?"
+    ass "D'accord, je viendrai te voir une fois que j'aurai fini de nettoyer le ring. Ne pars pas sans dire un mot, d'accord?"
 
 # game/code/Book-1/Chapter-7s/s09.rpy:591
 translate french b1c01ss09_fight_end_224d49f8:
@@ -921,3 +921,4 @@ translate french strings:
     # game/code/Book-1/Chapter-7s/s09.rpy:6
     old "Back at the fight club"
     new "De retour au Fight Club"
+

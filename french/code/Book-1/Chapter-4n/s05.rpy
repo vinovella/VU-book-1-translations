@@ -14,7 +14,7 @@ translate french b1c04ns05_d933eda8:
 translate french b1c04ns05_6eb70d73:
 
     # mc "Are you the star of the play or something?"
-    mc "Tu es la star de la pièce, ou quoi ?"
+    mc "Tu es la star de la pièce, ou quoi?"
 
 # game/code/Book-1/Chapter-4n/s05.rpy:35
 translate french b1c04ns05_bdf8cf21:
@@ -26,7 +26,7 @@ translate french b1c04ns05_bdf8cf21:
 translate french b1c04ns05_39a956a5:
 
     # dk "Would you help me apply the blood? My performance is in thirty minutes, and I could use the help."
-    dk "Tu pourrais m'aider à appliquer le sang ? Ma performance est dans trente minutes, et un peu d'aide serait bienvenue."
+    dk "Tu pourrais m'aider à appliquer le sang? Ma performance est dans trente minutes, et un peu d'aide serait bienvenue."
 
 # game/code/Book-1/Chapter-4n/s05.rpy:41
 translate french b1c04ns05_ebab1755:
@@ -68,7 +68,7 @@ translate french b1c04ns05_731d9ca5:
 translate french b1c04ns05_08ff88ef:
 
     # mc "Do you have a pair of gloves I could use?"
-    mc "Tu as une paire de gants que je pourrais utiliser ?"
+    mc "Tu as une paire de gants que je pourrais utiliser?"
 
 # game/code/Book-1/Chapter-4n/s05.rpy:60
 translate french b1c04ns05_a213937c:
@@ -80,13 +80,13 @@ translate french b1c04ns05_a213937c:
 translate french b1c04ns05_34826dd3:
 
     # dk "So, how was the seminar?"
-    dk "Alors, comment était le séminaire ?"
+    dk "Alors, comment était le séminaire?"
 
 # game/code/Book-1/Chapter-4n/s05.rpy:65
 translate french b1c04ns05_0c7528e7:
 
     # dk "How'd it go with Nia?"
-    dk "Comment ça s'est passé avec Nia ?"
+    dk "Comment ça s'est passé avec Nia?"
 
 # game/code/Book-1/Chapter-4n/s05.rpy:69
 translate french b1c04ns05_1e9a3b5a:
@@ -116,13 +116,13 @@ translate french b1c04ns05_33d63512:
 translate french b1c04ns05_1c636a54:
 
     # mc "What are you doing?!"
-    mc "Qu'est-ce que tu fais ?!"
+    mc "Qu'est-ce que tu fais?!"
 
 # game/code/Book-1/Chapter-4n/s05.rpy:80
 translate french b1c04ns05_73e51035:
 
     # dk "What? I imagine this isn't the first time you've seen a woman's body."
-    dk "Quoi ? J'imagine que ce n'est pas la première fois que tu vois le corps d'une femme."
+    dk "Quoi? J'imagine que ce n'est pas la première fois que tu vois le corps d'une femme."
 
 # game/code/Book-1/Chapter-4n/s05.rpy:81
 translate french b1c04ns05_1166895c:
@@ -140,7 +140,7 @@ translate french b1c04ns05_2d537f32:
 translate french b1c04ns05_1c743a61:
 
     # mc "Do you expect me to put this on {i}all{/i} of your body?"
-    mc "Tu veux que je mette ça sur {i}tout{/i} ton corps ?"
+    mc "Tu veux que je mette ça sur {i}tout{/i} ton corps?"
 
 # game/code/Book-1/Chapter-4n/s05.rpy:88
 translate french b1c04ns05_047b1430:
@@ -158,7 +158,7 @@ translate french b1c04ns05_0cd89066:
 translate french b1c04ns05_3de95273:
 
     # dk "Do you want the information I have, or not?"
-    dk "Tu veux les informations que j'ai, ou pas ?"
+    dk "Tu veux les informations que j'ai, ou pas?"
 
 # game/code/Book-1/Chapter-4n/s05.rpy:96
 translate french b1c04ns05_b1d0f92c:
@@ -194,7 +194,7 @@ translate french b1c04ns05_8bc2ca47:
 translate french b1c04ns05_6a931a6f:
 
     # mc "Where...should I start?"
-    mc "Où... devrais-je commencer ?"
+    mc "Où... devrais-je commencer?"
 
 # game/code/Book-1/Chapter-4n/s05.rpy:111
 translate french b1c04ns05_782f94ce:
@@ -224,7 +224,7 @@ translate french b1c04ns05_422d6ff5:
 translate french b1c04ns05_d8f42e36:
 
     # mc "There. Is that good enough?"
-    mc "Voilà. C'est suffisant ?"
+    mc "Voilà. C'est suffisant?"
 
 # game/code/Book-1/Chapter-4n/s05.rpy:144
 translate french b1c04ns05_f34ff2aa:
@@ -284,7 +284,7 @@ translate french b1c04ns05_0b907462:
 translate french b1c04ns05_69f58117:
 
     # mc "Can you elaborate on Maria's role? Why did Xasan hate the idea of Nia being around Maria?"
-    mc "Peux-tu en dire plus sur le rôle de Maria ? Pourquoi Xasan détestait-il l'idée que Nia soit avec Maria ?"
+    mc "Peux-tu en dire plus sur le rôle de Maria? Pourquoi Xasan détestait-il l'idée que Nia soit avec Maria?"
 
 # game/code/Book-1/Chapter-4n/s05.rpy:160
 translate french b1c04ns05_7a4b6289:
@@ -356,7 +356,7 @@ translate french b1c04ns05_9802136a:
 translate french b1c04ns05_70779604:
 
     # mc "Ah, so you're a part of this group as well?"
-    mc "Ah, donc tu fais aussi partie de ce groupe ?"
+    mc "Ah, donc tu fais aussi partie de ce groupe?"
 
 # game/code/Book-1/Chapter-4n/s05.rpy:188
 translate french b1c04ns05_752adb73:
@@ -368,7 +368,7 @@ translate french b1c04ns05_752adb73:
 translate french b1c04ns05_d3e37e3e:
 
     # mc "Are you...sure?"
-    mc "Tu es... sûr(e) ?"
+    mc "Tu es... sûr(e)?"
 
 # game/code/Book-1/Chapter-4n/s05.rpy:209
 translate french b1c04ns05_0f77e732:
@@ -380,7 +380,7 @@ translate french b1c04ns05_0f77e732:
 translate french b1c04ns05_95c7633a:
 
     # mc "Are you okay?"
-    mc "Ça va ?"
+    mc "Ça va?"
 
 # game/code/Book-1/Chapter-4n/s05.rpy:215
 translate french b1c04ns05_006af7fa:
@@ -392,7 +392,7 @@ translate french b1c04ns05_006af7fa:
 translate french b1c04ns05_e32d7106:
 
     # mc "Do you...want me to cover everything with blood, or are there parts you'd like to do yourself?"
-    mc "Tu veux que je couvre tout avec du sang, ou il y a des parties que tu veux faire toi-même ?"
+    mc "Tu veux que je couvre tout avec du sang, ou il y a des parties que tu veux faire toi-même?"
 
 # game/code/Book-1/Chapter-4n/s05.rpy:221
 translate french b1c04ns05_f4c88d9f:
@@ -410,13 +410,13 @@ translate french b1c04ns05_dacdbf8a:
 translate french b1c04ns05_636b216d:
 
     # mc "Why does this need to even happen?"
-    mc "Pourquoi est-ce que ça doit arriver ?"
+    mc "Pourquoi est-ce que ça doit arriver?"
 
 # game/code/Book-1/Chapter-4n/s05.rpy:226
 translate french b1c04ns05_e1551252:
 
     # mc "Couldn't you have used fake blood?"
-    mc "Tu n'aurais pas pu utiliser du faux sang ?"
+    mc "Tu n'aurais pas pu utiliser du faux sang?"
 
 # game/code/Book-1/Chapter-4n/s05.rpy:229
 translate french b1c04ns05_c6868f81:
@@ -488,7 +488,7 @@ translate french b1c04ns05_2f231bab:
 translate french b1c04ns05_61b5d5eb:
 
     # mc "What's your play about, anyway?"
-    mc "De quoi parle ta pièce, au fait ?"
+    mc "De quoi parle ta pièce, au fait?"
 
 # game/code/Book-1/Chapter-4n/s05.rpy:270
 translate french b1c04ns05_1aa349b6:
@@ -512,7 +512,7 @@ translate french b1c04ns05_8040e59b:
 translate french b1c04ns05_15da493f:
 
     # mc "Gruesome?"
-    mc "Macabre ?"
+    mc "Macabre?"
 
 # game/code/Book-1/Chapter-4n/s05.rpy:280
 translate french b1c04ns05_8530f8b4:
@@ -548,7 +548,7 @@ translate french b1c04ns05_9e775069:
 translate french b1c04ns05_91d8a70c:
 
     # mc "You okay?"
-    mc "Ça va ?"
+    mc "Ça va?"
 
 # game/code/Book-1/Chapter-4n/s05.rpy:303
 translate french b1c04ns05_68a3829f:
@@ -560,7 +560,7 @@ translate french b1c04ns05_68a3829f:
 translate french b1c04ns05_1e5cb13f:
 
     # dk "Would you like to watch me perform?"
-    dk "Tu voudrais me voir jouer ?"
+    dk "Tu voudrais me voir jouer?"
 
 # game/code/Book-1/Chapter-4n/s05.rpy:320
 translate french b01c04ns05m01_45b6b3cc:
@@ -608,7 +608,7 @@ translate french b01c04ns05m01_87a68802:
 translate french b01c04ns05m01_c02b5d6b:
 
     # mc "Do you need help with anything else?"
-    mc "Tu as besoin d'aide pour autre chose ?"
+    mc "Tu as besoin d'aide pour autre chose?"
 
 # game/code/Book-1/Chapter-4n/s05.rpy:339
 translate french b01c04ns05m01_776f5c34:
@@ -656,7 +656,7 @@ translate french b01c04ns05m01_302f4afc:
 translate french b01c04ns05m01_c02b5d6b_1:
 
     # mc "Do you need help with anything else?"
-    mc "Tu as besoin d'aide pour autre chose ?"
+    mc "Tu as besoin d'aide pour autre chose?"
 
 # game/code/Book-1/Chapter-4n/s05.rpy:364
 translate french b01c04ns05m01_776f5c34_1:
@@ -683,5 +683,4 @@ translate french strings:
     # game/code/Book-1/Chapter-4n/s05.rpy:311
     old "No way"
     new "Pas question"
-
 

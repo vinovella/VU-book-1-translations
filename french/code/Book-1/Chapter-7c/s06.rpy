@@ -2,7 +2,7 @@
 translate french b1c07cs06_b3893973:
 
     # mc "What is it? Did I do something wrong?"
-    mc "Qu'est-ce qu'il y a ? Ai-je fait quelque chose de mal ?"
+    mc "Qu'est-ce qu'il y a? Ai-je fait quelque chose de mal?"
 
 # game/code/Book-1/Chapter-7c/s06.rpy:55
 translate french b1c07cs06_3aef5470:
@@ -158,13 +158,13 @@ translate french b1c07cs06_sex_c1237980:
 translate french b1c07cs06_sex_a1ad72da:
 
     # dk "Oh Gods! You feel so fucking good!"
-    dk "Oh dieux ! Tu es tellement bonne !"
+    dk "Oh dieux! Tu es tellement bonne!"
 
 # game/code/Book-1/Chapter-7c/s06.rpy:185
 translate french b1c07cs06_sex_b76141ce:
 
     # mc "You like feeling me deep inside you like that?"
-    mc "Tu aimes me sentir profondément en toi comme ça ?"
+    mc "Tu aimes me sentir profondément en toi comme ça?"
 
 # game/code/Book-1/Chapter-7c/s06.rpy:188
 translate french b1c07cs06_sex_fc1ae235:
@@ -182,7 +182,7 @@ translate french b1c07cs06_sex_0fb422ec:
 translate french b1c07cs06_sex_791f89de:
 
     # dk "Please me, use me, fuck me hard!"
-    dk "Fais-moi plaisir, utilise-moi, baise-moi fort !"
+    dk "Fais-moi plaisir, utilise-moi, baise-moi fort!"
 
 # game/code/Book-1/Chapter-7c/s06.rpy:228
 translate french b1c07cs06_sex_4978b0ad:
@@ -206,7 +206,7 @@ translate french b1c07cs06_sex_1211a28a:
 translate french b1c07cs06_sex_7c7b5297:
 
     # dk "F-fuck! That feels so good."
-    dk "P-putain ! C'est tellement bon."
+    dk "P-putain! C'est tellement bon."
 
 # game/code/Book-1/Chapter-7c/s06.rpy:263
 translate french b1c07cs06_sex_59d00000:
@@ -254,7 +254,7 @@ translate french b1c07cs06_sex_cf1d3106:
 translate french b1c07cs06_sex_11455b53:
 
     # mc "What?"
-    mc "Quoi ?"
+    mc "Quoi?"
 
 # game/code/Book-1/Chapter-7c/s06.rpy:278
 translate french b1c07cs06_sex_0eba3455:
@@ -314,7 +314,7 @@ translate french b1c07cs06_sex_d175b71b:
 translate french b1c07cs06_sex_1a71ffae:
 
     # mc "Yeah... Do you think it's something she really wants?"
-    mc "Ouais... Tu penses que c'est quelque chose qu'elle veut vraiment ?"
+    mc "Ouais... Tu penses que c'est quelque chose qu'elle veut vraiment?"
 
 # game/code/Book-1/Chapter-7c/s06.rpy:322
 translate french b1c07cs06_sex_683f1501:
@@ -332,7 +332,7 @@ translate french b1c07cs06_sex_5a160e29:
 translate french b1c07cs06_sex_3ea45f88:
 
     # mct "Is she just going to walk around like that for the rest of the day? With my cum in her panties?"
-    mct "Elle va juste se balader comme ça pour le reste de la journée ? Avec ma semence dans ses sous-vêtements ?"
+    mct "Elle va juste se balader comme ça pour le reste de la journée? Avec ma semence dans ses sous-vêtements?"
 
 # game/code/Book-1/Chapter-7c/s06.rpy:330
 translate french b1c07cs06_sex_d8975fbe:
@@ -344,7 +344,7 @@ translate french b1c07cs06_sex_d8975fbe:
 translate french b1c07cs06_sex_fb4397af:
 
     # mc "You're a mind reader now?"
-    mc "Tu es devenue une lectrice de pensées maintenant ?"
+    mc "Tu es devenue une lectrice de pensées maintenant?"
 
 # game/code/Book-1/Chapter-7c/s06.rpy:336
 translate french b1c07cs06_sex_5b1e71f1:
@@ -365,11 +365,11 @@ translate french b1c07cs06_sex_a62d5ae4:
 
 translate french strings:
 
-# game/code/Book-1/Chapter-7c/s06.rpy:62
-old "I'm busy, Del"
-new "Je suis occupé, Del"
+    # game/code/Book-1/Chapter-7c/s06.rpy:62
+    old "I'm busy, Del"
+    new "Je suis occupé, Del"
 
-# game/code/Book-1/Chapter-7c/s06.rpy:62
-old "I'll help however I can"
-new "Je t'aiderai comme je peux"
+    # game/code/Book-1/Chapter-7c/s06.rpy:62
+    old "I'll help however I can"
+    new "Je t'aiderai comme je peux"
 

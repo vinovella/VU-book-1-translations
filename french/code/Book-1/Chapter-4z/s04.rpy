@@ -20,7 +20,7 @@ translate french b1c04zs04_34adedd7:
 translate french b1c04zs04_722738a0:
 
     # "{color=#662727}Salesman{/color}" "Would you like to shoot today?" (who_outlines=[(1, "#e1e1e1", 0, 0)], kerning=1)
-    "{color=#662727}Vendeur{/color}" "Souhaitez-vous tirer aujourd'hui ?" (who_outlines=[(1, "#e1e1e1", 0, 0)], kerning=1)
+    "{color=#662727}Vendeur{/color}" "Souhaitez-vous tirer aujourd'hui?" (who_outlines=[(1, "#e1e1e1", 0, 0)], kerning=1)
 
 # game/code/Book-1/Chapter-4z/s04.rpy:29
 translate french b1c04zs04_afdffd0d:
@@ -32,7 +32,7 @@ translate french b1c04zs04_afdffd0d:
 translate french b1c04zs04_0becc2b1:
 
     # "{color=#662727}Salesman{/color}" "Do you have your own firearms, or would you like to choose from our selection?" (who_outlines=[(1, "#e1e1e1", 0, 0)], kerning=1)
-    "{color=#662727}Vendeur{/color}" "Avez-vous vos propres armes à feu ou souhaitez-vous choisir parmi notre sélection ?" (who_outlines=[(1, "#e1e1e1", 0, 0)], kerning=1)
+    "{color=#662727}Vendeur{/color}" "Avez-vous vos propres armes à feu ou souhaitez-vous choisir parmi notre sélection?" (who_outlines=[(1, "#e1e1e1", 0, 0)], kerning=1)
 
 # game/code/Book-1/Chapter-4z/s04.rpy:33
 translate french b1c04zs04_c97c7b1e:
@@ -92,7 +92,7 @@ translate french b1c04zs04_a0a762ec:
 translate french b1c04zs04_f0b21b15:
 
     # mo "What does that even mean?"
-    mo "Qu'est-ce que ça veut dire exactement ?"
+    mo "Qu'est-ce que ça veut dire exactement?"
 
 # game/code/Book-1/Chapter-4z/s04.rpy:62
 translate french b1c04zs04_7bbf939c:
@@ -104,7 +104,7 @@ translate french b1c04zs04_7bbf939c:
 translate french b1c04zs04_9291cea7:
 
     # mo "I'm a great shot with the Weaver Stance. Isn't that enough?"
-    mo "Je suis très précis avec la posture Weaver. Ce n'est pas suffisant ?"
+    mo "Je suis très précis avec la posture Weaver. Ce n'est pas suffisant?"
 
 # game/code/Book-1/Chapter-4z/s04.rpy:66
 translate french b1c04zs04_ab628c57:
@@ -134,7 +134,7 @@ translate french b1c04zs04_72338154:
 translate french b1c04zs04_8abfbcd7:
 
     # pm "And take this seriously! This could save your life someday."
-    pm "Et prends ça au sérieux ! Ça pourrait te sauver la vie un jour."
+    pm "Et prends ça au sérieux! Ça pourrait te sauver la vie un jour."
 
 # game/code/Book-1/Chapter-4z/s04.rpy:80
 translate french b1c04zs04_7a5b9dd2:
@@ -224,7 +224,7 @@ translate french b1c04zs04_8b6116f0:
 translate french b1c04zs04_f4e2eb31:
 
     # mo "Hey, I hit the mark, right? I think I deserve a little more than just a peck on the cheek."
-    mo "Hey, j'ai fait mouche, non ? Je pense que je mérite un peu plus qu'un simple bisou sur la joue."
+    mo "Hey, j'ai fait mouche, non? Je pense que je mérite un peu plus qu'un simple bisou sur la joue."
 
 # game/code/Book-1/Chapter-4z/s04.rpy:125
 translate french b1c04zs04_09eb66d8:
@@ -254,7 +254,7 @@ translate french b1c04zs04_aac9ff01:
 translate french b1c04zs04_91e054b6:
 
     # mo "I still hit right on the mark though, right?"
-    mo "J'ai quand même visé juste, non ?"
+    mo "J'ai quand même visé juste, non?"
 
 # game/code/Book-1/Chapter-4z/s04.rpy:135
 translate french b1c04zs04_7d4083ec:
@@ -266,13 +266,13 @@ translate french b1c04zs04_7d4083ec:
 translate french b1c04zs04_dd594de6:
 
     # mo "So what's the problem?"
-    mo "Alors, quel est le problème ?"
+    mo "Alors, quel est le problème?"
 
 # game/code/Book-1/Chapter-4z/s04.rpy:139
 translate french b1c04zs04_74cd8598:
 
     # mo "I don't understand. As long as I hit my target, what's it matter how I do it?"
-    mo "Je ne comprends pas. Tant que je touche ma cible, qu'est-ce que ça change comment je le fais ?"
+    mo "Je ne comprends pas. Tant que je touche ma cible, qu'est-ce que ça change comment je le fais?"
 
 # game/code/Book-1/Chapter-4z/s04.rpy:142
 translate french b1c04zs04_5412d5d1:
@@ -320,7 +320,7 @@ translate french b1c04zs04_f5bf9923:
 translate french b1c04zs04_d9874d98:
 
     # mo "You like a man who's consistent, huh?"
-    mo "Tu aimes un homme constant, hein ?"
+    mo "Tu aimes un homme constant, hein?"
 
 # game/code/Book-1/Chapter-4z/s04.rpy:162
 translate french b1c04zs04_adc70adc:
@@ -386,7 +386,7 @@ translate french b1c04zs04_ba612c0e:
 translate french b1c04zs04_2ece8da4:
 
     # mo "Ouch. Alright, well what would you have done differently?"
-    mo "Aïe. D'accord, alors qu'aurais-tu fait différemment ?"
+    mo "Aïe. D'accord, alors qu'aurais-tu fait différemment?"
 
 # game/code/Book-1/Chapter-4z/s04.rpy:191
 translate french b1c04zs04_e2e54954:
@@ -416,7 +416,7 @@ translate french b1c04zs04_c56306db:
 translate french b1c04zs04_f496bc2c:
 
     # pm "Yes! That's exactly what I'm talking about."
-    pm "Oui ! C'est exactement ce dont je parle."
+    pm "Oui! C'est exactement ce dont je parle."
 
 # game/code/Book-1/Chapter-4z/s04.rpy:211
 translate french b1c04zs04_0ea7f105:
@@ -428,13 +428,13 @@ translate french b1c04zs04_0ea7f105:
 translate french b1c04zs04_be73da63:
 
     # mo "Hey! That was uncalled for. I did it, didn't I? C'mere."
-    mo "Hé ! C'était gratuit. Je l'ai fait, non ? Viens ici."
+    mo "Hé! C'était gratuit. Je l'ai fait, non? Viens ici."
 
 # game/code/Book-1/Chapter-4z/s04.rpy:222
 translate french b1c04zs04_0a13dc80:
 
     # pm "Hey! Put me down!"
-    pm "Hé ! Pose-moi !"
+    pm "Hé! Pose-moi!"
 
 # game/code/Book-1/Chapter-4z/s04.rpy:225
 translate french b1c04zs04_40f0533f:
@@ -446,7 +446,7 @@ translate french b1c04zs04_40f0533f:
 translate french b1c04zs04_870bb158:
 
     # pm "Haha, Matthew! Put me down before I wrestle your ass to the ground."
-    pm "Haha, Matthew ! Pose-moi avant que je ne te plaque au sol."
+    pm "Haha, Matthew! Pose-moi avant que je ne te plaque au sol."
 
 # game/code/Book-1/Chapter-4z/s04.rpy:231
 translate french b1c04zs04_0c5bdd81:
@@ -464,7 +464,7 @@ translate french b1c04zs04_7bb024be:
 translate french b1c04zs04_351e7c1b:
 
     # mo "Do you think I'm good enough to pass the upcoming test?"
-    mo "Tu crois que je suis assez bon pour réussir le prochain test ?"
+    mo "Tu crois que je suis assez bon pour réussir le prochain test?"
 
 # game/code/Book-1/Chapter-4z/s04.rpy:242
 translate french b1c04zs04_f0e63e3a:
@@ -495,3 +495,4 @@ translate french strings:
     # game/code/Book-1/Chapter-4z/s04.rpy:6
     old "One hour later"
     new "Une heure plus tard"
+

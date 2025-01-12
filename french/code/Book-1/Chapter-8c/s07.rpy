@@ -2,7 +2,7 @@
 translate french b1c08cs07_759f4d2e:
 
     # nv "So you said we're gonna do some spiritual meditations or something, right? Where are we going?"
-    nv "Alors tu as dit qu'on allait faire des méditations spirituelles ou quelque chose du genre, c'est bien ça ? Où allons-nous ?"
+    nv "Alors tu as dit qu'on allait faire des méditations spirituelles ou quelque chose du genre, c'est bien ça? Où allons-nous?"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:56
 translate french b1c08cs07_f9fac031:
@@ -50,7 +50,7 @@ translate french b1c08cs07_af20a743:
 translate french b1c08cs07_235dcc7a:
 
     # nv "A musty old cave?"
-    nv "Une vieille grotte humide ?"
+    nv "Une vieille grotte humide?"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:80
 translate french b1c08cs07_dd833745:
@@ -86,7 +86,7 @@ translate french b1c08cs07_fb8a3062:
 translate french b1c08cs07_00e0b458:
 
     # nv "Why is that?"
-    nv "Pourquoi cela ?"
+    nv "Pourquoi cela?"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:102
 translate french b1c08cs07_cf3877f7:
@@ -110,7 +110,7 @@ translate french b1c08cs07_2fa6db27:
 translate french b1c08cs07_strip_1775ddcd:
 
     # dk "Are you uncomfortable here in this sacred space?"
-    dk "Es-tu mal à l'aise ici, dans cet espace sacré ?"
+    dk "Es-tu mal à l'aise ici, dans cet espace sacré?"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:124
 translate french b1c08cs07_strip_ad77633b:
@@ -146,7 +146,7 @@ translate french b1c08cs07_strip_5c15e7d5:
 translate french b1c08cs07_strip_180feeda:
 
     # dk "Would it help if Nia helped you undress?"
-    dk "Est-ce que cela t'aiderait si Nia t'aidait à te déshabiller ?"
+    dk "Est-ce que cela t'aiderait si Nia t'aidait à te déshabiller?"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:146
 translate french b1c08cs07_strip_0e42bbc7:
@@ -164,7 +164,7 @@ translate french b1c08cs07_strip_635db8ed:
 translate french b1c08cs07_strip_1ed47038:
 
     # mc "What sort of spiritual exercise are we doing today? Would Nia and I doing this together help?"
-    mc "Quel genre d'exercice spirituel faisons-nous aujourd'hui ? Est-ce que Nia et moi le faisons ensemble, ça aiderait ?"
+    mc "Quel genre d'exercice spirituel faisons-nous aujourd'hui? Est-ce que Nia et moi le faisons ensemble, ça aiderait?"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:155
 translate french b1c08cs07_strip_4345b458:
@@ -182,7 +182,7 @@ translate french b1c08cs07_strip_3f5fc9ca:
 translate french b1c08cs07_strip_5d759f87:
 
     # nv "*Giggles* Do you want me to help?"
-    nv "*Rit* Tu veux que je t'aide ?"
+    nv "*Rit* Tu veux que je t'aide?"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:167
 translate french b1c08cs07_strip_f0ba2483:
@@ -218,7 +218,7 @@ translate french b1c08cs07_strip_657013c5:
 translate french b1c08cs07_strip_dc6abe0a:
 
     # nv "May I take this off?"
-    nv "Puis-je enlever ça ?"
+    nv "Puis-je enlever ça?"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:183
 translate french b1c08cs07_strip_9538b3b9:
@@ -236,7 +236,7 @@ translate french b1c08cs07_strip_ba0eb06a:
 translate french b1c08cs07_strip_307327a6:
 
     # nv "I want to touch you. Is that okay?"
-    nv "Je veux te toucher. Ça va ?"
+    nv "Je veux te toucher. Ça va?"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:193
 translate french b1c08cs07_strip_f800bed0:
@@ -266,7 +266,7 @@ translate french b1c08cs07_strip_12bd3c7f:
 translate french b1c08cs07_strip_693d42a7:
 
     # nv "Can I kiss your body?"
-    nv "Puis-je embrasser ton corps ?"
+    nv "Puis-je embrasser ton corps?"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:205
 translate french b1c08cs07_strip_5ce09775:
@@ -302,7 +302,7 @@ translate french b1c08cs07_strip_0025c73b:
 translate french b1c08cs07_strip_00d29b7e:
 
     # nv "Can I take these off?"
-    nv "Puis-je enlever ça ?"
+    nv "Puis-je enlever ça?"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:225
 translate french b1c08cs07_strip_5ce09775_1:
@@ -320,7 +320,7 @@ translate french b1c08cs07_strip_d347e71d:
 translate french b1c08cs07_strip_ef9f8d11:
 
     # nv "Does that feel nice?"
-    nv "Est-ce que ça te fait du bien ?"
+    nv "Est-ce que ça te fait du bien?"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:233
 translate french b1c08cs07_strip_1aba0afb:
@@ -362,7 +362,7 @@ translate french b1c08cs07_strip_f19d7e5f:
 translate french b1c08cs07_strip_37466391:
 
     # nv "Aren't you going to join us?"
-    nv "Tu ne vas pas nous rejoindre ?"
+    nv "Tu ne vas pas nous rejoindre?"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:252
 translate french b1c08cs07_strip_18de757d:
@@ -398,7 +398,7 @@ translate french b1c08cs07_strip_ca207c46:
 translate french b1c08cs07_strip_1c7ad07c:
 
     # nv "Do you want me to touch you?"
-    nv "Veux-tu que je te touche ?"
+    nv "Veux-tu que je te touche?"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:270
 translate french b1c08cs07_strip_3d64ec5e:
@@ -428,7 +428,7 @@ translate french b1c08cs07_strip_837818c0:
 translate french b1c08cs07_strip_4a0d80ad:
 
     # mc "Can I hold your head?"
-    mc "Puis-je tenir ta tête ?"
+    mc "Puis-je tenir ta tête?"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:294
 translate french b1c08cs07_strip_ad754b61:
@@ -494,7 +494,7 @@ translate french b1c08cs07_strip_698e7000:
 translate french b1c08cs07_strip_e5a8add4:
 
     # nv "Is that what you want too?"
-    nv "Est-ce que c'est ce que tu veux aussi ?"
+    nv "Est-ce que c'est ce que tu veux aussi?"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:342
 translate french b1c08cs07_strip_1bf60051:
@@ -524,7 +524,7 @@ translate french b1c08cs07_sex_ae3d2f29:
 translate french b1c08cs07_sex_b1f3d1d9:
 
     # nv "Just um, go slow at first, okay? I like to be teased."
-    nv "Euh, vas-y doucement au début, d'accord ? J'aime qu'on me taquine."
+    nv "Euh, vas-y doucement au début, d'accord? J'aime qu'on me taquine."
 
 # game/code/Book-1/Chapter-8c/s07.rpy:373
 translate french b1c08cs07_sex_1bf60051:
@@ -542,7 +542,7 @@ translate french b1c08cs07_sex_388995e3:
 translate french b1c08cs07_sex_7cb0248e:
 
     # nv "You like seeing my body be so responsive to you?"
-    nv "Tu aimes voir mon corps être si réactif envers toi ?"
+    nv "Tu aimes voir mon corps être si réactif envers toi?"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:383
 translate french b1c08cs07_sex_7168f313:
@@ -614,13 +614,13 @@ translate french b1c08cs07_sex_0c587977:
 translate french b1c08cs07_sex_5486b161:
 
     # mc "You like that? You like being fucked raw by me?"
-    mc "Tu aimes ça ? Tu aimes être prise sauvagement par moi ?"
+    mc "Tu aimes ça? Tu aimes être prise sauvagement par moi?"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:434
 translate french b1c08cs07_sex_7c286ac4:
 
     # nv "Yes! I want to feel as much of you as possible."
-    nv "Oui ! Je veux ressentir tout de toi."
+    nv "Oui! Je veux ressentir tout de toi."
 
 # game/code/Book-1/Chapter-8c/s07.rpy:441
 translate french b1c08cs07_sex_7ce0fdd0:
@@ -644,7 +644,7 @@ translate french b1c08cs07_sex_fd195bbb:
 translate french b1c08cs07_sex_faebb0c5:
 
     # nv "Cum inside me! Mm, I want to feel all of you. Fill me up."
-    nv "Vient en moi ! Mm, je veux ressentir tout de toi. Remplis-moi."
+    nv "Vient en moi! Mm, je veux ressentir tout de toi. Remplis-moi."
 
 # game/code/Book-1/Chapter-8c/s07.rpy:472
 translate french b1c08cs07_sex_ca8f0e91:
@@ -656,7 +656,7 @@ translate french b1c08cs07_sex_ca8f0e91:
 translate french b1c08cs07_sex_b84c8817:
 
     # nv "F-fuck!"
-    nv "P-putain !"
+    nv "P-putain!"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:478
 translate french b1c08cs07_sex_0e4aaa0e:
@@ -686,7 +686,7 @@ translate french b1c08cs07_sex_74fc6761:
 translate french b1c08cs07_sex_82ccf63e:
 
     # nv "Is it okay if you stay inside me a little longer? I understand if you're over sensitive but... I like feeling you."
-    nv "Est-ce que ça te va si tu restes un peu plus longtemps en moi ? Je comprends si tu es trop sensible mais... j'aime te sentir."
+    nv "Est-ce que ça te va si tu restes un peu plus longtemps en moi? Je comprends si tu es trop sensible mais... j'aime te sentir."
 
 # game/code/Book-1/Chapter-8c/s07.rpy:494
 translate french b1c08cs07_sex_6ca11922:
@@ -740,7 +740,7 @@ translate french b1c08cs07_sex_8d44f7ac:
 translate french b1c08cs07_sex_d7fb6930:
 
     # mc "Already thinking about next time, huh?"
-    mc "Tu penses déjà à la prochaine fois, hein ?"
+    mc "Tu penses déjà à la prochaine fois, hein?"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:521
 translate french b1c08cs07_sex_d250247e:
@@ -788,7 +788,7 @@ translate french b1c08cs07_sex_dc8f1190:
 translate french b1c08cs07_sex_ad0226c1:
 
     # nv "What?"
-    nv "Quoi ?"
+    nv "Quoi?"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:556
 translate french b1c08cs07_sex_adca9c91:
@@ -824,7 +824,7 @@ translate french b1c08cs07_sex_7c72c1af:
 translate french b1c08cs07_sex_04293251:
 
     # nv "Really?"
-    nv "Vraiment ?"
+    nv "Vraiment?"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:583
 translate french b1c08cs07_sex_d62056b0:

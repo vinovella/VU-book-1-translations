@@ -2,13 +2,13 @@
 translate french b1c04ns06_a48586f8:
 
     # nv "[mcname]! I didn't expect to see you."
-    nv "[mcname] ! Je ne m'attendais pas à te voir."
+    nv "[mcname]! Je ne m'attendais pas à te voir."
 
 # game/code/Book-1/Chapter-4n/s06.rpy:27
 translate french b1c04ns06_a96638fd:
 
     # nv "Are you here to watch the performance as well?"
-    nv "Tu es là pour voir la performance toi aussi ?"
+    nv "Tu es là pour voir la performance toi aussi?"
 
 # game/code/Book-1/Chapter-4n/s06.rpy:30
 translate french b1c04ns06_63fa1613:
@@ -20,7 +20,7 @@ translate french b1c04ns06_63fa1613:
 translate french b1c04ns06_031b817d:
 
     # nv "You wanna sit together?"
-    nv "Tu veux qu'on s'assoie ensemble ?"
+    nv "Tu veux qu'on s'assoie ensemble?"
 
 # game/code/Book-1/Chapter-4n/s06.rpy:35
 translate french b1c04ns06_8b8a764a:
@@ -32,7 +32,7 @@ translate french b1c04ns06_8b8a764a:
 translate french b1c04ns06_0abbff37:
 
     # mc "There aren't many people here...is the show starting later?"
-    mc "Il n'y a pas beaucoup de monde ici... le spectacle commence plus tard ?"
+    mc "Il n'y a pas beaucoup de monde ici... le spectacle commence plus tard?"
 
 # game/code/Book-1/Chapter-4n/s06.rpy:41
 translate french b1c04ns06_8c0fe179:
@@ -56,13 +56,13 @@ translate french b1c04ns06_6e61e15c:
 translate french b1c04ns06_a26e28db:
 
     # mc "What's the play about?"
-    mc "De quoi parle la pièce ?"
+    mc "De quoi parle la pièce?"
 
 # game/code/Book-1/Chapter-4n/s06.rpy:58
 translate french b1c04ns06_473712c0:
 
     # nv "Do you not know?"
-    nv "Tu ne sais pas ?"
+    nv "Tu ne sais pas?"
 
 # game/code/Book-1/Chapter-4n/s06.rpy:61
 translate french b1c04ns06_5b2ccb0b:
@@ -74,7 +74,7 @@ translate french b1c04ns06_5b2ccb0b:
 translate french b1c04ns06_d0162ce1:
 
     # nv "Oh! You know Delphia. That's nice. I'm sure she appreciates your support."
-    nv "Oh ! Tu connais Delphia. C'est sympa. Je suis sûr qu'elle apprécie ton soutien."
+    nv "Oh! Tu connais Delphia. C'est sympa. Je suis sûr qu'elle apprécie ton soutien."
 
 # game/code/Book-1/Chapter-4n/s06.rpy:66
 translate french b1c04ns06_c45eeab4:
@@ -98,7 +98,7 @@ translate french b1c04ns06_ae4809e1:
 translate french b1c04ns06_b279742c:
 
     # mct "Oh, I remember her from chem class and the backstage area. I think her name is Monika?"
-    mct "Oh, je me souviens d'elle du cours de chimie et des coulisses. Je crois qu'elle s'appelle Monika ?"
+    mct "Oh, je me souviens d'elle du cours de chimie et des coulisses. Je crois qu'elle s'appelle Monika?"
 
 # game/code/Book-1/Chapter-4n/s06.rpy:83
 translate french b1c04ns06_c9746117:
@@ -158,13 +158,13 @@ translate french b01c04ns06m01_d5ae2301:
 translate french b01c04ns06m01_954fcf06:
 
     # mc "How did Zeus meet Metis? Their connection seems very passionate, and filled with love."
-    mc "Comment Zeus a-t-il rencontré Métis ? Leur lien semble très passionné et rempli d'amour."
+    mc "Comment Zeus a-t-il rencontré Métis? Leur lien semble très passionné et rempli d'amour."
 
 # game/code/Book-1/Chapter-4n/s06.rpy:132
 translate french b01c04ns06m01_fc462e5b:
 
     # nv "You're very insightful! Yes, they were {i}very{/i} close as a couple."
-    nv "Tu es très perspicace ! Oui, ils étaient {i}très{/i} proches en tant que couple."
+    nv "Tu es très perspicace! Oui, ils étaient {i}très{/i} proches en tant que couple."
 
 # game/code/Book-1/Chapter-4n/s06.rpy:136
 translate french b01c04ns06m01_d027f4eb:
@@ -194,14 +194,14 @@ translate french b01c04ns06m01_30d4ea15:
 translate french b01c04ns06m01_f3530ba5:
 
     # mc "What's happening now? I got no clue what's going on."
-    mc "Que se passe-t-il maintenant ? Je n'ai aucune idée de ce qui se passe."
+    mc "Que se passe-t-il maintenant? Je n'ai aucune idée de ce qui se passe."
 
 # game/code/Book-1/Chapter-4n/s06.rpy:150
 translate french b01c04ns06m01_90eb2072:
 
     # mc "I'm enjoying the show, though."
     mc "Mais je profite du spectacle."
-    
+
 # game/code/Book-1/Chapter-4n/s06.rpy:155
 translate french b01c04ns06m01_6b91a8be:
 
@@ -224,7 +224,7 @@ translate french b01c04ns06m01_2458921b:
 translate french b01c04ns06m01_8edc215f:
 
     # mc "What do the walls symbolize?"
-    mc "Que symbolisent les murs ?"
+    mc "Que symbolisent les murs?"
 
 # game/code/Book-1/Chapter-4n/s06.rpy:172
 translate french b01c04ns06m01_74b30d0e:
@@ -260,7 +260,7 @@ translate french b01c04ns06m01_5889a497:
 translate french b01c04ns06m01_36350808:
 
     # mc "What's she saying?"
-    mc "Qu'est-ce qu'elle dit ?"
+    mc "Qu'est-ce qu'elle dit?"
 
 # game/code/Book-1/Chapter-4n/s06.rpy:192
 translate french b01c04ns06m01_a5886a96:
@@ -302,7 +302,7 @@ translate french b01c04ns06m01_85e18cf1:
 translate french b01c04ns06m01_52fe3e62:
 
     # mc "Is this supposed to happen?"
-    mc "C'est censé se passer comme ça ?"
+    mc "C'est censé se passer comme ça?"
 
 # game/code/Book-1/Chapter-4n/s06.rpy:231
 translate french b01c04ns06m01_bda15ad3:
@@ -314,7 +314,7 @@ translate french b01c04ns06m01_bda15ad3:
 translate french b01c04ns06m01_1cc64ff8:
 
     # mc "Jesus, is she okay?"
-    mc "Bon sang, est-ce qu'elle va bien ?"
+    mc "Bon sang, est-ce qu'elle va bien?"
 
 # game/code/Book-1/Chapter-4n/s06.rpy:241
 translate french b01c04ns06m01_50c4385a:
@@ -434,7 +434,7 @@ translate french b01c04ns06m01_b9efc1df:
 translate french b01c04ns06m01_bc421157:
 
     # mc "Won't they come back for an encore?"
-    mc "Ils ne reviendront pas pour un rappel ?"
+    mc "Ils ne reviendront pas pour un rappel?"
 
 # game/code/Book-1/Chapter-4n/s06.rpy:351
 translate french b01c04ns06m01_c54a637e:
@@ -458,7 +458,7 @@ translate french b01c04ns06m01_6ac6a166:
 translate french b01c04ns06m01_ab54cad2:
 
     # mc "Should we go congratulate Delphia?"
-    mc "On devrait aller féliciter Delphia ?"
+    mc "On devrait aller féliciter Delphia?"
 
 # game/code/Book-1/Chapter-4n/s06.rpy:362
 translate french b01c04ns06m01_d9367c0e:
@@ -476,7 +476,7 @@ translate french b01c04ns06m01_ef1319e5:
 translate french b01c04ns06m01_d55c6bbe:
 
     # nv "Well that was fun to see!"
-    nv "Eh bien, c'était sympa à voir !"
+    nv "Eh bien, c'était sympa à voir!"
 
 # game/code/Book-1/Chapter-4n/s06.rpy:373
 translate french b01c04ns06m01_c2108cc6:
@@ -488,7 +488,7 @@ translate french b01c04ns06m01_c2108cc6:
 translate french b01c04ns06m01_e4f8315c:
 
     # nv "Well? What'd ya think? I wanna hear your thoughts."
-    nv "Alors ? Qu'en as-tu pensé ? Je veux entendre ton avis."
+    nv "Alors? Qu'en as-tu pensé? Je veux entendre ton avis."
 
 # game/code/Book-1/Chapter-4n/s06.rpy:378
 translate french b01c04ns06m01_b12ba3ed:
@@ -506,7 +506,7 @@ translate french b01c04ns06m01_7ac49cba:
 translate french b01c04ns06m01_90045981:
 
     # nv "Really? I guess that's fair."
-    nv "Vraiment ? Oui, c'est juste."
+    nv "Vraiment? Oui, c'est juste."
 
 # game/code/Book-1/Chapter-4n/s06.rpy:383
 translate french b01c04ns06m01_b36ee568:
@@ -548,7 +548,7 @@ translate french b01c04ns06m01_b48c642e:
 translate french b01c04ns06m01_5288a5f0:
 
     # nv "Hey, I'm going to the museum next. Do you wanna come with me?"
-    nv "Hey, je vais au musée ensuite. Tu veux venir avec moi ?"
+    nv "Hey, je vais au musée ensuite. Tu veux venir avec moi?"
 
 # game/code/Book-1/Chapter-4n/s06.rpy:398
 translate french b01c04ns06m01_f9888139:
@@ -560,7 +560,7 @@ translate french b01c04ns06m01_f9888139:
 translate french b01c04ns06m01_da468084:
 
     # mc "Sure! I'd love to."
-    mc "Bien sûr ! Avec plaisir."
+    mc "Bien sûr! Avec plaisir."
 
 translate french strings:
 
@@ -571,5 +571,4 @@ translate french strings:
     # game/code/Book-1/Chapter-4n/s06.rpy:91
     old "Respond with curiosity"
     new "Répondre avec curiosité"
-
 

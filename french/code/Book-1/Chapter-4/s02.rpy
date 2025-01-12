@@ -26,7 +26,7 @@ translate french b1c04m2_03ebbb29:
 translate french b1c04m2_d1ad1f0f:
 
     # mot "God, can't they take a hint? Why are they knocking so loud?"
-    mot "Bon sang, ils ne peuvent pas comprendre ? Pourquoi frappent-ils si fort ?"
+    mot "Bon sang, ils ne peuvent pas comprendre? Pourquoi frappent-ils si fort?"
 
 # game/code/Book-1/Chapter-4/s02.rpy:87
 translate french b1c04m2_5fd3841e:
@@ -44,7 +44,7 @@ translate french b1c04m2_fc4656b9:
 translate french b1c04m2_3d5b861a:
 
     # lw "Good morning, [mcname]. What were you dreaming about? It sounded intense."
-    lw "Bonjour, [mcname]. À quoi rêvais-tu ? Ça semblait intense."
+    lw "Bonjour, [mcname]. À quoi rêvais-tu? Ça semblait intense."
 
 # game/code/Book-1/Chapter-4/s02.rpy:130
 translate french b1c04m2_c71c7639:
@@ -56,7 +56,7 @@ translate french b1c04m2_c71c7639:
 translate french b1c04m2_a53b0dc9:
 
     # jh "Lara! Hold still. I don't want to mess up your eyeliner."
-    jh "Lara ! Ne bouge pas. Je ne veux pas rater ton eyeliner."
+    jh "Lara! Ne bouge pas. Je ne veux pas rater ton eyeliner."
 
 # game/code/Book-1/Chapter-4/s02.rpy:136
 translate french b1c04m2_de2beb3a:
@@ -116,7 +116,7 @@ translate french b1c04m2_5484c269:
 translate french b1c04m2_eff6e177:
 
     # jh "What?! It's not insensitive if I make jokes. I'm Lara's best friend."
-    jh "Quoi ?! Ce n'est pas insensible si je plaisante. Je suis la meilleure amie de Lara."
+    jh "Quoi?! Ce n'est pas insensible si je plaisante. Je suis la meilleure amie de Lara."
 
 # game/code/Book-1/Chapter-4/s02.rpy:172
 translate french b1c04m2_7521479e:
@@ -128,7 +128,7 @@ translate french b1c04m2_7521479e:
 translate french b1c04m2_edb69d49:
 
     # mc "What are you getting all dressed up for, anyway?"
-    mc "Pourquoi tu te mets sur ton 31, au fait ?"
+    mc "Pourquoi tu te mets sur ton 31, au fait?"
 
 # game/code/Book-1/Chapter-4/s02.rpy:176
 translate french b1c04m2_46112f7d:
@@ -152,14 +152,13 @@ translate french b1c04m2_44b4b0c6:
 translate french b1c04m2_02499597:
 
     # mc "I hope you guys have fun!"
-    mc "J'espère que vous allez vous amuser !"
+    mc "J'espère que vous allez vous amuser!"
 
 # game/code/Book-1/Chapter-4/s02.rpy:188
 translate french b1c04m2_44b4b0c6_1:
 
     # lw "Thanks."
     lw "Merci."
-
 
 # game/code/Book-1/Chapter-4/s02.rpy:191
 translate french b1c04m2_b63388e4:

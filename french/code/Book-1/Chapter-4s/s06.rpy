@@ -2,13 +2,13 @@
 translate french b1c04ss06_25a823dd:
 
     # oa "There's our winner!"
-    oa "Voilà notre gagnant !"
+    oa "Voilà notre gagnant!"
 
 # game/code/Book-1/Chapter-4s/s06.rpy:14
 translate french b1c04ss06_a34bcee7:
 
     # ir "Woo! He made it!"
-    ir "Woo ! Il a réussi !"
+    ir "Woo! Il a réussi!"
 
 # game/code/Book-1/Chapter-4s/s06.rpy:39
 translate french b1c04ss06_acf8cba1:
@@ -26,7 +26,7 @@ translate french b1c04ss06_a735fc8a:
 translate french b1c04ss06_9fd1a499:
 
     # sm "Did you develop that while you were sailing?"
-    sm "Tu as développé ça pendant que tu faisais de la voile ?"
+    sm "Tu as développé ça pendant que tu faisais de la voile?"
 
 # game/code/Book-1/Chapter-4s/s06.rpy:44
 translate french b1c04ss06_20b71261:
@@ -56,7 +56,7 @@ translate french b1c04ss06_99fb2f91:
 translate french b1c04ss06_2a28de39:
 
     # sm "I understand. It's really hard to miss your parents. Sometimes you miss someone while they're standing right in front of you, y'know?"
-    sm "Je comprends. C'est vraiment difficile de ressentir le manque de ses parents. Parfois, quelqu'un vous manque alors qu'il est juste devant vous, tu vois ?"
+    sm "Je comprends. C'est vraiment difficile de ressentir le manque de ses parents. Parfois, quelqu'un vous manque alors qu'il est juste devant vous, tu vois?"
 
 # game/code/Book-1/Chapter-4s/s06.rpy:56
 translate french b1c04ss06_be723530:
@@ -80,7 +80,7 @@ translate french b1c04ss06_42e1a7a0:
 translate french b1c04ss06_82b678de:
 
     # sm "I take it you were a momma's boy, then?"
-    sm "Je suppose que tu étais un fils à maman, alors ?"
+    sm "Je suppose que tu étais un fils à maman, alors?"
 
 # game/code/Book-1/Chapter-4s/s06.rpy:71
 translate french b1c04ss06_924c58e3:
@@ -116,7 +116,7 @@ translate french b1c04ss06_7bad173e:
 translate french b1c04ss06_6989487a:
 
     # mc "You grew up in foster care?"
-    mc "Tu as grandi en famille d'accueil ?"
+    mc "Tu as grandi en famille d'accueil?"
 
 # game/code/Book-1/Chapter-4s/s06.rpy:87
 translate french b1c04ss06_d307af04:
@@ -140,7 +140,7 @@ translate french b1c04ss06_540bc6fc:
 translate french b1c04ss06_822aa5c3:
 
     # mc "How so?"
-    mc "Comment ça ?"
+    mc "Comment ça?"
 
 # game/code/Book-1/Chapter-4s/s06.rpy:103
 translate french b1c04ss06_16d54a1c:
@@ -164,7 +164,7 @@ translate french b1c04ss06_36a4d46b:
 translate french b1c04ss06_238d4dbd:
 
     # mc "Like what kinds of emotions?"
-    mc "Quels genres d'émotions ?"
+    mc "Quels genres d'émotions?"
 
 # game/code/Book-1/Chapter-4s/s06.rpy:113
 translate french b1c04ss06_e4b5df7b:
@@ -266,7 +266,7 @@ translate french b1c04ss06_787be99b:
 translate french b1c04ss06_b2429951:
 
     # sm "It's still hard sometimes... Feels like we're all just filling her empty seat in a way, you know?"
-    sm "C'est encore difficile parfois... On a l'impression qu'on fait juste occuper son siège vide, tu vois ?"
+    sm "C'est encore difficile parfois... On a l'impression qu'on fait juste occuper son siège vide, tu vois?"
 
 # game/code/Book-1/Chapter-4s/s06.rpy:158
 translate french b1c04ss06_21dc85dc:
@@ -284,7 +284,7 @@ translate french b1c04ss06_b31ee273:
 translate french b1c04ss06_888b3e61:
 
     # sm "Must seem pretty weird, holding two conflicting views like that, huh?"
-    sm "Ça doit sembler bizarre de maintenir deux points de vue contradictoires comme ça, non ?"
+    sm "Ça doit sembler bizarre de maintenir deux points de vue contradictoires comme ça, non?"
 
 # game/code/Book-1/Chapter-4s/s06.rpy:165
 translate french b1c04ss06_1e3be8a8:
@@ -327,3 +327,4 @@ translate french strings:
     # game/code/Book-1/Chapter-4s/s06.rpy:28
     old "Few minutes later"
     new "Quelques minutes plus tard"
+

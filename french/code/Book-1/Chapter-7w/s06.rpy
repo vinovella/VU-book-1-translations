@@ -8,7 +8,7 @@ translate french b1c07ws06_7abdc870:
 translate french b1c07ws06_2b839b3e:
 
     # mm "Woohoo! That's a hit, baby!"
-    mm "Woohoo ! C'est un coup gagnant, bébé !"
+    mm "Woohoo! C'est un coup gagnant, bébé!"
 
 # game/code/Book-1/Chapter-7w/s06.rpy:48
 translate french b1c07ws06_f285c3d1:
@@ -20,7 +20,7 @@ translate french b1c07ws06_f285c3d1:
 translate french b1c07ws06_3c6a1ec5:
 
     # mm "No the fuck I haven't!"
-    mm "Pas du tout, bordel !"
+    mm "Pas du tout, bordel!"
 
 # game/code/Book-1/Chapter-7w/s06.rpy:54
 translate french b1c07ws06_555c8795:
@@ -32,7 +32,7 @@ translate french b1c07ws06_555c8795:
 translate french b1c07ws06_855f3305:
 
     # sm "Oh! Hey, [mcname]. Wanna play some darts?"
-    sm "Oh ! Hé, [mcname]. Tu veux jouer aux fléchettes ?"
+    sm "Oh! Hé, [mcname]. Tu veux jouer aux fléchettes?"
 
 # game/code/Book-1/Chapter-7w/s06.rpy:60
 translate french b1c07ws06_4b8edc03:
@@ -56,7 +56,7 @@ translate french b1c07ws06_dd533ef0:
 translate french b1c07ws06_fa39562b:
 
     # sm "Oh, well aren't you a hot shot now?"
-    sm "Oh, eh bien, tu te la joues, hein ?"
+    sm "Oh, eh bien, tu te la joues, hein?"
 
 # game/code/Book-1/Chapter-7w/s06.rpy:76
 translate french b1c07ws06_22f59e75:
@@ -74,13 +74,13 @@ translate french b1c07ws06_d8b3d990:
 translate french b1c07ws06_f1ed4ff5:
 
     # mm "*Laughs* Oh shit, you're worse than us!"
-    mm "*Rit* Oh merde, tu es pire que nous !"
+    mm "*Rit* Oh merde, tu es pire que nous!"
 
 # game/code/Book-1/Chapter-7w/s06.rpy:91
 translate french b1c07ws06_e8d9c2b8:
 
     # sl "So much for all the talk!"
-    sl "Eh bien, tout ce discours pour ça !"
+    sl "Eh bien, tout ce discours pour ça!"
 
 # game/code/Book-1/Chapter-7w/s06.rpy:94
 translate french b1c07ws06_24dc3e4c:
@@ -98,7 +98,7 @@ translate french b1c07ws06_5d8c19e3:
 translate french b1c07ws06_5c2ac793:
 
     # mm "God damn it! Fuck this shit! Rigged!"
-    mm "Merde ! Bordel ! Tout est truqué !"
+    mm "Merde! Bordel! Tout est truqué!"
 
 # game/code/Book-1/Chapter-7w/s06.rpy:109
 translate french b1c07ws06_1ccb62c2:
@@ -152,7 +152,7 @@ translate french b1c07ws06_63b9fc27:
 translate french b1c07ws06_13228235:
 
     # sl "Where are you going?"
-    sl "Où vas-tu ?"
+    sl "Où vas-tu?"
 
 # game/code/Book-1/Chapter-7w/s06.rpy:156
 translate french b1c07ws06_5dce71df:
@@ -176,13 +176,13 @@ translate french b1c07ws06_ac22224a:
 translate french b1c07ws06_39d72555:
 
     # mc "Don't count on it!"
-    mc "Ne compte pas là-dessus !"
+    mc "Ne compte pas là-dessus!"
 
 # game/code/Book-1/Chapter-7w/s06.rpy:167
 translate french b1c07ws06_31af72ca:
 
     # sm "You wanna go sit down?"
-    sm "Tu veux aller t'asseoir ?"
+    sm "Tu veux aller t'asseoir?"
 
 # game/code/Book-1/Chapter-7w/s06.rpy:170
 translate french b1c07ws06_df7ee913:
@@ -242,7 +242,7 @@ translate french b1c07ws06_9d4a75af:
 translate french b1c07ws06_2ce320c7:
 
     # mc "Are you anxious?"
-    mc "Es-tu anxieuse ?"
+    mc "Es-tu anxieuse?"
 
 # game/code/Book-1/Chapter-7w/s06.rpy:201
 translate french b1c07ws06_fa84a3aa:
@@ -254,7 +254,7 @@ translate french b1c07ws06_fa84a3aa:
 translate french b1c07ws06_ebf7fc92:
 
     # mc "Do you think we have what it takes to win?"
-    mc "Penses-tu qu'on a ce qu'il faut pour gagner ?"
+    mc "Penses-tu qu'on a ce qu'il faut pour gagner?"
 
 # game/code/Book-1/Chapter-7w/s06.rpy:207
 translate french b1c07ws06_fcd978f8:
@@ -266,7 +266,7 @@ translate french b1c07ws06_fcd978f8:
 translate french b1c07ws06_ee32822b:
 
     # mc "I'm sensing a but."
-    mc "Je sens qu'il y a un « mais »."
+    mc "Je sens qu'il y a un mais»."
 
 # game/code/Book-1/Chapter-7w/s06.rpy:213
 translate french b1c07ws06_e9bf1551:
@@ -284,7 +284,7 @@ translate french b1c07ws06_ae855d97:
 translate french b1c07ws06_e94cdddd:
 
     # mc "Do you think we'll mess it all up?"
-    mc "Penses-tu qu'on va tout gâcher ?"
+    mc "Penses-tu qu'on va tout gâcher?"
 
 # game/code/Book-1/Chapter-7w/s06.rpy:221
 translate french b1c07ws06_92169ea1:
@@ -326,7 +326,7 @@ translate french b1c07ws06_99e54e9e:
 translate french b1c07ws06_6fe8c0d2:
 
     # mc "It'd be preferable if we don't kill ourselves doing it, but we're still gonna win at the end of the day, and isn't that what {i}really{/i} matters?"
-    mc "Ce serait préférable de ne pas s'épuiser à le faire, mais on va quand même gagner à la fin, et n'est-ce pas ce qui compte {i}vraiment{/i} ?"
+    mc "Ce serait préférable de ne pas s'épuiser à le faire, mais on va quand même gagner à la fin, et n'est-ce pas ce qui compte {i}vraiment{/i}?"
 
 # game/code/Book-1/Chapter-7w/s06.rpy:243
 translate french b1c07ws06_41968476:
@@ -356,7 +356,7 @@ translate french b1c07ws06_da41280e:
 translate french b1c07ws06_7471de15:
 
     # mc "A penny for your thoughts?"
-    mc "À quoi penses-tu ?"
+    mc "À quoi penses-tu?"
 
 # game/code/Book-1/Chapter-7w/s06.rpy:260
 translate french b1c07ws06_e6b2621d:
@@ -380,7 +380,7 @@ translate french b1c07ws06_0a7cd9be:
 translate french b1c07ws06_70dc063d:
 
     # sm "They might be annoying and they might be a pain to manage sometimes, but they still feel like family, y'know?"
-    sm "Ils peuvent être agaçants et parfois difficiles à gérer, mais ils donnent quand même l'impression d'être une famille, tu vois ?"
+    sm "Ils peuvent être agaçants et parfois difficiles à gérer, mais ils donnent quand même l'impression d'être une famille, tu vois?"
 
 # game/code/Book-1/Chapter-7w/s06.rpy:274
 translate french b1c07ws06_f82c5032:
@@ -410,13 +410,13 @@ translate french b1c07ws06_cdec3462:
 translate french b1c07ws06_b30988cf:
 
     # mc "Where don't you feel like you fit in?"
-    mc "Où est-ce que tu ne te sens pas à ta place ?"
+    mc "Où est-ce que tu ne te sens pas à ta place?"
 
 # game/code/Book-1/Chapter-7w/s06.rpy:288
 translate french b1c07ws06_feacdb74:
 
     # sm "Have you seen those self-help classes held in the library?"
-    sm "As-tu vu ces cours de développement personnel donnés à la bibliothèque ?"
+    sm "As-tu vu ces cours de développement personnel donnés à la bibliothèque?"
 
 # game/code/Book-1/Chapter-7w/s06.rpy:291
 translate french b1c07ws06_38b5e631:
@@ -440,7 +440,7 @@ translate french b1c07ws06_1492327a:
 translate french b1c07ws06_70f793bd:
 
     # mc "Did they make you feel like you don't fit in?"
-    mc "Est-ce qu'ils t'ont donné l'impression que tu n'étais pas à ta place ?"
+    mc "Est-ce qu'ils t'ont donné l'impression que tu n'étais pas à ta place?"
 
 # game/code/Book-1/Chapter-7w/s06.rpy:301
 translate french b1c07ws06_a8b74e8d:
@@ -476,13 +476,13 @@ translate french b1c07ws06_121632a2:
 translate french b1c07ws06_245288d4:
 
     # mct "Andrejz? Is that the same Andre I'm thinking of?"
-    mct "Andrejz ? C'est le même Andre auquel je pense ?"
+    mct "Andrejz? C'est le même Andre auquel je pense?"
 
 # game/code/Book-1/Chapter-7w/s06.rpy:315
 translate french b1c07ws06_5f7e9b0d:
 
     # mc "Beard and long hair? Exudes prick energy?"
-    mc "Barbe et cheveux longs ? Énergie de crétin ?"
+    mc "Barbe et cheveux longs? Énergie de crétin?"
 
 # game/code/Book-1/Chapter-7w/s06.rpy:318
 translate french b1c07ws06_f7d66dbc:
@@ -560,31 +560,31 @@ translate french b1c07ws06_f11ed1b9:
 translate french b1c07ws06_2c59407e:
 
     # mc "Oh, how did the photos we take come out, by the way?"
-    mc "Au fait, comment sont sorties les photos qu'on a prises ?"
+    mc "Au fait, comment sont sorties les photos qu'on a prises?"
 
 # game/code/Book-1/Chapter-7w/s06.rpy:353
 translate french b1c07ws06_3052ca86:
 
     # sm "Oh! Yes! I've been meaning to show you!"
-    sm "Oh ! Oui ! Je voulais justement te les montrer !"
+    sm "Oh! Oui! Je voulais justement te les montrer!"
 
 # game/code/Book-1/Chapter-7w/s06.rpy:355
 translate french b1c07ws06_9e4e66b2:
 
     # sm "I'm really glad you reminded m— Here!"
-    sm "Je suis vraiment contente que tu m'aies rappelé— Tiens !"
+    sm "Je suis vraiment contente que tu m'aies rappelé— Tiens!"
 
 # game/code/Book-1/Chapter-7w/s06.rpy:389
 translate french b1c07ws06_c0b3fa18:
 
     # mc "Woah, that looks great! You look like you came straight out of a blockbuster from the 60s."
-    mc "Waouh, ça rend super ! On dirait que tu sors tout droit d'un film à succès des années 60."
+    mc "Waouh, ça rend super! On dirait que tu sors tout droit d'un film à succès des années 60."
 
 # game/code/Book-1/Chapter-7w/s06.rpy:395
 translate french b1c07ws06_e4a3f40c:
 
     # sm "Thank you! You really did a great job taking the photos."
-    sm "Merci ! Tu as vraiment fait un excellent travail en prenant les photos."
+    sm "Merci! Tu as vraiment fait un excellent travail en prenant les photos."
 
 # game/code/Book-1/Chapter-7w/s06.rpy:428
 translate french b1c07ws06_96216c8a:
@@ -596,7 +596,7 @@ translate french b1c07ws06_96216c8a:
 translate french b1c07ws06_87d65211:
 
     # sm "Do it! You already got a repeat customer in me, so..."
-    sm "Vas-y ! Tu as déjà une cliente fidèle en moi, alors..."
+    sm "Vas-y! Tu as déjà une cliente fidèle en moi, alors..."
 
 # game/code/Book-1/Chapter-7w/s06.rpy:434
 translate french b1c07ws06_952abbc1:
@@ -620,7 +620,7 @@ translate french b1c07ws06_7b0579db:
 translate french b1c07ws06_ed3bdc15:
 
     # mc "Oh? And how exactly are you gonna take it?"
-    mc "Oh ? Et comment exactement vas-tu le prendre ?"
+    mc "Oh? Et comment exactement vas-tu le prendre?"
 
 # game/code/Book-1/Chapter-7w/s06.rpy:443
 translate french b1c07ws06_95628328:
@@ -638,19 +638,19 @@ translate french b1c07ws06_2ab21de1:
 translate french b1c07ws06_0762ca73:
 
     # mc "For now, huh? I better watch my back then."
-    mc "Pour l'instant, hein ? Je ferais bien de surveiller mes arrières alors."
+    mc "Pour l'instant, hein? Je ferais bien de surveiller mes arrières alors."
 
 # game/code/Book-1/Chapter-7w/s06.rpy:451
 translate french b1c07ws06_e5496f5e:
 
     # ima "{size=20}What do {i}you{/i} want?{/size}"
-    ima "{size=20}Qu'est-ce que {i}toi{/i} tu veux ?{/size}"
+    ima "{size=20}Qu'est-ce que {i}toi{/i} tu veux?{/size}"
 
 # game/code/Book-1/Chapter-7w/s06.rpy:456
 translate french b1c07ws06_c80355bc:
 
     # mc "Where's she going?"
-    mc "Où est-ce qu'elle va ?"
+    mc "Où est-ce qu'elle va?"
 
 # game/code/Book-1/Chapter-7w/s06.rpy:459
 translate french b1c07ws06_c5c1a1d2:
@@ -698,7 +698,7 @@ translate french b1c07ws06_f4dc595f:
 translate french b1c07ws06_42b47caf:
 
     # mct "Hm... Wonder where Isa ran off to?"
-    mct "Hm... Je me demande où Isa s'est enfuie ?"
+    mct "Hm... Je me demande où Isa s'est enfuie?"
 
 translate french strings:
 

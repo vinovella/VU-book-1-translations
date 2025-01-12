@@ -26,7 +26,7 @@ translate french b1c04zs06_244fa33e:
 translate french b1c04zs06_7980b624:
 
     # mc "College got you super busy?"
-    mc "La fac te prend beaucoup de temps ?"
+    mc "La fac te prend beaucoup de temps?"
 
 # game/code/Book-1/Chapter-4z/s06.rpy:39
 translate french b1c04zs06_8c2b310c:
@@ -50,7 +50,7 @@ translate french b1c04zs06_97dd0dac:
 translate french b1c04zs06_60d94083:
 
     # zp "I like the bustle of a busy life. I have to keep moving, y'know?"
-    zp "J'aime l'agitation d'une vie bien remplie. Il faut que je bouge tout le temps, tu vois ?"
+    zp "J'aime l'agitation d'une vie bien remplie. Il faut que je bouge tout le temps, tu vois?"
 
 # game/code/Book-1/Chapter-4z/s06.rpy:51
 translate french b1c04zs06_0dae7efd:
@@ -104,7 +104,7 @@ translate french b1c04zs06_7ff331de:
 translate french b1c04zs06_f414a9bf:
 
     # mc "So, I know you like games. Are you in computer science class to develop your own games?"
-    mc "Alors, je sais que tu aimes les jeux. Tu suis des cours d'informatique pour développer tes propres jeux ?"
+    mc "Alors, je sais que tu aimes les jeux. Tu suis des cours d'informatique pour développer tes propres jeux?"
 
 # game/code/Book-1/Chapter-4z/s06.rpy:74
 translate french b1c04zs06_f7e2856a:
@@ -146,7 +146,7 @@ translate french b1c04zs06_66334b10:
 translate french b1c04zs06_6b139cec:
 
     # zp "Hah! That's hilarious."
-    zp "Hah ! C'est hilarant."
+    zp "Hah! C'est hilarant."
 
 # game/code/Book-1/Chapter-4z/s06.rpy:96
 translate french b1c04zs06_3a8d3f50:
@@ -242,7 +242,7 @@ translate french b1c04zs06_f212255e:
 translate french b1c04zs06_703749dd:
 
     # zp "Right? And parents can never just leave it alone. They have to have the last fucking word."
-    zp "Pas vrai ? Et les parents ne peuvent jamais lâcher l'affaire. Ils doivent toujours avoir le dernier putain de mot."
+    zp "Pas vrai? Et les parents ne peuvent jamais lâcher l'affaire. Ils doivent toujours avoir le dernier putain de mot."
 
 # game/code/Book-1/Chapter-4z/s06.rpy:134
 translate french b1c04zs06_bff42c4f:
@@ -254,7 +254,7 @@ translate french b1c04zs06_bff42c4f:
 translate french b1c04zs06_eca7f16d:
 
     # "{color=#ecd4c2}Stranger Girl{/color}" "Zemfira!"
-    "{color=#ecd4c2}Fille Inconnue{/color}" "Zemfira !"
+    "{color=#ecd4c2}Fille Inconnue{/color}" "Zemfira!"
 
 # game/code/Book-1/Chapter-4z/s06.rpy:140
 translate french b1c04zs06_63b1cf3f:
@@ -302,7 +302,7 @@ translate french b1c04zs06_5a1e85f0:
 translate french b1c04zs06_826085de:
 
     # mc "Someone you know?"
-    mc "Quelqu'un que tu connais ?"
+    mc "Quelqu'un que tu connais?"
 
 # game/code/Book-1/Chapter-4z/s06.rpy:161
 translate french b1c04zs06_36a78027:
@@ -338,7 +338,7 @@ translate french b1c04zs06_62b5e53c:
 translate french b1c04zs06_b5d4de31:
 
     # mc "And you're in charge of checking people's stats or something?"
-    mc "Et tu es chargée de vérifier les stats des gens ou quelque chose comme ça ?"
+    mc "Et tu es chargée de vérifier les stats des gens ou quelque chose comme ça?"
 
 # game/code/Book-1/Chapter-4z/s06.rpy:175
 translate french b1c04zs06_3ae1c971:
@@ -464,7 +464,7 @@ translate french b1c04zs06_68f922c6:
 translate french b1c04zs06_b886db1a:
 
     # mc "It sounds like a pretty fun game. What is it?"
-    mc "Ça a l'air d'être un jeu plutôt sympa. C'est quoi ?"
+    mc "Ça a l'air d'être un jeu plutôt sympa. C'est quoi?"
 
 # game/code/Book-1/Chapter-4z/s06.rpy:219
 translate french b1c04zs06_02c0555d:
@@ -531,3 +531,4 @@ translate french strings:
     # game/code/Book-1/Chapter-4z/s06.rpy:6
     old "Thirty minutes later"
     new "Trente minutes plus tard"
+

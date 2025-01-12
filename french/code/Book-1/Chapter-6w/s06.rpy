@@ -14,7 +14,7 @@ translate french b1c06ws06_continue_5b687ec2:
 translate french b1c06ws06_continue_dcb9f2c8:
 
     # ir "Seriously? I live here. What are {i}you{/i} doing here? You're not stalking me, are you?"
-    ir "Sérieusement ? Je vis ici. Qu'est-ce que {i}tu{/i} fais ici ? Tu ne me stalkes pas, hein ?"
+    ir "Sérieusement? Je vis ici. Qu'est-ce que {i}tu{/i} fais ici? Tu ne me stalkes pas, hein?"
 
 # game/code/Book-1/Chapter-6w/s06.rpy:44
 translate french b1c06ws06_continue_07b51595:
@@ -32,25 +32,25 @@ translate french b1c06ws06_continue_9e4dc8cd:
 translate french b1c06ws06_continue_fa533151:
 
     # ir "Hah! I don't need a grippy sock vacation. Not right now, at least."
-    ir "Ah ! Je n'ai pas besoin d'une petite retraite avec des chaussettes anti-dérapantes. Pas pour l'instant, en tout cas."
+    ir "Ah! Je n'ai pas besoin d'une petite retraite avec des chaussettes anti-dérapantes. Pas pour l'instant, en tout cas."
 
 # game/code/Book-1/Chapter-6w/s06.rpy:53
 translate french b1c06ws06_continue_5de779ef:
 
     # mc "Maybe in the future, then?"
-    mc "Peut-être dans le futur, alors ?"
+    mc "Peut-être dans le futur, alors?"
 
 # game/code/Book-1/Chapter-6w/s06.rpy:56
 translate french b1c06ws06_continue_84abcd5b:
 
     # ir "I guess you'll have to wait and find out, won't cha?"
-    ir "Je suppose que tu devras attendre et voir, hein ?"
+    ir "Je suppose que tu devras attendre et voir, hein?"
 
 # game/code/Book-1/Chapter-6w/s06.rpy:59
 translate french b1c06ws06_continue_09e2792c:
 
     # mc "Have you seen Silvia around? I was supposed to meet her here."
-    mc "Tu as vu Silvia quelque part ? J'étais censé la rencontrer ici."
+    mc "Tu as vu Silvia quelque part? J'étais censé la rencontrer ici."
 
 # game/code/Book-1/Chapter-6w/s06.rpy:62
 translate french b1c06ws06_continue_2fd04aeb:
@@ -80,25 +80,25 @@ translate french b1c06ws06_continue_47a2fb3f:
 translate french b1c06ws06_continue_a26a3a3f:
 
     # mc "Silvia? Wow, your hair..."
-    mc "Silvia ? Waouh, tes cheveux..."
+    mc "Silvia? Waouh, tes cheveux..."
 
 # game/code/Book-1/Chapter-6w/s06.rpy:83
 translate french b1c06ws06_continue_e85f2446:
 
     # sm "Does it look good? You have no idea how difficult these curls were."
-    sm "Ça va bien ? Tu n'as aucune idée de la difficulté de ces boucles."
+    sm "Ça va bien? Tu n'as aucune idée de la difficulté de ces boucles."
 
 # game/code/Book-1/Chapter-6w/s06.rpy:86
 translate french b1c06ws06_continue_b617258b:
 
     # mc "50s pinup, right? You look gorgeous, of course."
-    mc "Pin-up des années 50, non ? Tu es magnifique, bien sûr."
+    mc "Pin-up des années 50, non? Tu es magnifique, bien sûr."
 
 # game/code/Book-1/Chapter-6w/s06.rpy:89
 translate french b1c06ws06_continue_1efcb313:
 
     # sm "Thank you! And you noticed, huh?"
-    sm "Merci ! Et tu as remarqué, hein ?"
+    sm "Merci! Et tu as remarqué, hein?"
 
 # game/code/Book-1/Chapter-6w/s06.rpy:90
 translate french b1c06ws06_continue_c3b43447:
@@ -110,7 +110,7 @@ translate french b1c06ws06_continue_c3b43447:
 translate french b1c06ws06_continue_f938712f:
 
     # sm "I have a couple of outfits picked out, we only need around 3 - 4 shots of each. How does that sound?"
-    sm "J'ai sélectionné quelques tenues, il nous faut environ 3 à 4 photos de chacune. Ça te va ?"
+    sm "J'ai sélectionné quelques tenues, il nous faut environ 3 à 4 photos de chacune. Ça te va?"
 
 # game/code/Book-1/Chapter-6w/s06.rpy:94
 translate french b1c06ws06_continue_74c498aa:
@@ -122,7 +122,7 @@ translate french b1c06ws06_continue_74c498aa:
 translate french b1c06ws06_continue_84e9037e:
 
     # sm "Great! Okay, I just need to go add some finishing touches, and then I'll be ready."
-    sm "Super ! Ok, je vais juste ajouter les dernières touches, et je serai prête."
+    sm "Super! Ok, je vais juste ajouter les dernières touches, et je serai prête."
 
 # game/code/Book-1/Chapter-6w/s06.rpy:100
 translate french b1c06ws06_continue_b044f94f:
@@ -146,7 +146,7 @@ translate french b1c06ws06_continue_eeacae53:
 translate french b1c06ws06_continue_e0f3c5a5:
 
     # sm "*Laughing* What are you doing?"
-    sm "*Riant* Qu'est-ce que tu fais ?"
+    sm "*Riant* Qu'est-ce que tu fais?"
 
 # game/code/Book-1/Chapter-6w/s06.rpy:142
 translate french b1c06ws06_continue_4efa6e3b:
@@ -157,7 +157,7 @@ translate french b1c06ws06_continue_4efa6e3b:
 # game/code/Book-1/Chapter-6w/s06.rpy:145
 translate french b1c06ws06_continue_4d73e19b:
     # sm "Is this not the real me?"
-    sm "Ce n'est pas le vrai moi ?"
+    sm "Ce n'est pas le vrai moi?"
 
 # game/code/Book-1/Chapter-6w/s06.rpy:148
 translate french b1c06ws06_continue_259f064a:
@@ -199,13 +199,13 @@ translate french b1c06ws06_continue_fbf71d47:
 translate french b1c06ws06_continue_25891ed9:
 
     # sm "Okay. I'm finished. Shall we start?"
-    sm "D'accord. J'ai fini. On commence ?"
+    sm "D'accord. J'ai fini. On commence?"
 
 # game/code/Book-1/Chapter-6w/s06.rpy:168
 translate french b1c06ws06_continue_071f6580:
 
     # sm "You ready?"
-    sm "Tu es prêt ?"
+    sm "Tu es prêt?"
 
 # game/code/Book-1/Chapter-6w/s06.rpy:171
 translate french b1c06ws06_continue_3e31c86d:
@@ -235,7 +235,7 @@ translate french b1c06ws06_continue_7f86efca:
 translate french b1c06ws06_continue_4e89d88b:
 
     # sm "*Laughing* Seriously! Listen, that was really fun, but I {i}need{/i} you to {i}stop{/i} taking so many photos."
-    sm "*Riant* Sérieusement ! Écoute, c'était vraiment fun, mais j'ai {i}besoin{/i} que tu {i}arrêtes{/i} de prendre autant de photos."
+    sm "*Riant* Sérieusement! Écoute, c'était vraiment fun, mais j'ai {i}besoin{/i} que tu {i}arrêtes{/i} de prendre autant de photos."
 
 # game/code/Book-1/Chapter-6w/s06.rpy:356
 translate french b1c06ws06_continue_663c765f:
@@ -247,7 +247,7 @@ translate french b1c06ws06_continue_663c765f:
 translate french b1c06ws06_continue_10885172:
 
     # sm "*Giggling* Your 'code of ethics', huh?"
-    sm "*Ricanant* Ton 'code éthique', hein ?"
+    sm "*Ricanant* Ton 'code éthique', hein?"
 
 # game/code/Book-1/Chapter-6w/s06.rpy:362
 translate french b1c06ws06_continue_50a16ce0:
@@ -259,7 +259,7 @@ translate french b1c06ws06_continue_50a16ce0:
 translate french b1c06ws06_continue_59c393ad:
 
     # sm "Have you ever picked up a camera before today?"
-    sm "Tu as déjà pris un appareil photo avant aujourd'hui ?"
+    sm "Tu as déjà pris un appareil photo avant aujourd'hui?"
 
 # game/code/Book-1/Chapter-6w/s06.rpy:368
 translate french b1c06ws06_continue_2b35b6fe:
@@ -271,7 +271,7 @@ translate french b1c06ws06_continue_2b35b6fe:
 translate french b1c06ws06_continue_04d47aba:
 
     # mc "Do cell phone cameras count?"
-    mc "Les appareils photo des téléphones portables comptent ?"
+    mc "Les appareils photo des téléphones portables comptent?"
 
 # game/code/Book-1/Chapter-6w/s06.rpy:372
 translate french b1c06ws06_continue_5b2bedc5:
@@ -283,7 +283,7 @@ translate french b1c06ws06_continue_5b2bedc5:
 translate french b1c06ws06_continue_8a7f9ae5:
 
     # sm "But I'm still the one that has to sort through all of these!"
-    sm "Mais c'est toujours moi qui dois trier toutes celles-ci !"
+    sm "Mais c'est toujours moi qui dois trier toutes celles-ci!"
 
 # game/code/Book-1/Chapter-6w/s06.rpy:376
 translate french b1c06ws06_continue_d1842fa6:
@@ -301,7 +301,7 @@ translate french b1c06ws06_continue_1d76a60d:
 translate french b1c06ws06_continue_1ef9e5ad:
 
     # mc "Did the man on the moon tell you a joke?"
-    mc "L'homme sur la lune t'a raconté une blague ?"
+    mc "L'homme sur la lune t'a raconté une blague?"
 
 # game/code/Book-1/Chapter-6w/s06.rpy:385
 translate french b1c06ws06_continue_bfeafebb:
@@ -313,7 +313,7 @@ translate french b1c06ws06_continue_bfeafebb:
 translate french b1c06ws06_continue_2bedb3c2:
 
     # mc "Sad memories?"
-    mc "Des souvenirs tristes ?"
+    mc "Des souvenirs tristes?"
 
 # game/code/Book-1/Chapter-6w/s06.rpy:391
 translate french b1c06ws06_continue_49bf8f3b:
@@ -344,3 +344,4 @@ translate french strings:
     # game/code/Book-1/Chapter-6w/s06.rpy:19
     old "The next evening"
     new "Le lendemain soir"
+

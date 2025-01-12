@@ -8,7 +8,7 @@ translate french b1c06cs06_57098f05:
 translate french b1c06cs06_a33bf603:
 
     # nv "Hey! I'm happy you're here. How are you?"
-    nv "Hey ! Je suis contente que tu sois là. Comment ça va ?"
+    nv "Hey! Je suis contente que tu sois là. Comment ça va?"
 
 # game/code/Book-1/Chapter-6c/s06.rpy:23
 translate french b1c06cs06_34cd6e17:
@@ -20,7 +20,7 @@ translate french b1c06cs06_34cd6e17:
 translate french b1c06cs06_6c7739fd:
 
     # mc "Remind me what this meeting's about?"
-    mc "Rappelle-moi de quoi il s'agit dans cette réunion ?"
+    mc "Rappelle-moi de quoi il s'agit dans cette réunion?"
 
 # game/code/Book-1/Chapter-6c/s06.rpy:28
 translate french b1c06cs06_f88112bd:
@@ -32,7 +32,7 @@ translate french b1c06cs06_f88112bd:
 translate french b1c06cs06_0cbf8c18:
 
     # nv "Sit with me?"
-    nv "Tu t'assois avec moi ?"
+    nv "Tu t'assois avec moi?"
 
 # game/code/Book-1/Chapter-6c/s06.rpy:33
 translate french b1c06cs06_1bf60051:
@@ -44,13 +44,13 @@ translate french b1c06cs06_1bf60051:
 translate french b1c06cs06_613ea805:
 
     # ef "Nia! I was hoping you'd show."
-    ef "Nia ! J'espérais que tu viendrais."
+    ef "Nia! J'espérais que tu viendrais."
 
 # game/code/Book-1/Chapter-6c/s06.rpy:41
 translate french b1c06cs06_0a787c4a:
 
     # nv "Did you think I wouldn't?"
-    nv "Tu pensais que je ne viendrais pas ?"
+    nv "Tu pensais que je ne viendrais pas?"
 
 # game/code/Book-1/Chapter-6c/s06.rpy:44
 translate french b1c06cs06_d9346952:
@@ -62,7 +62,7 @@ translate french b1c06cs06_d9346952:
 translate french b1c06cs06_b912be88:
 
     # ef "But you seemed to change her mind pretty quick, didn'tcha?"
-    ef "Mais tu sembles l'avoir fait changer d'avis assez vite, non ?"
+    ef "Mais tu sembles l'avoir fait changer d'avis assez vite, non?"
 
 # game/code/Book-1/Chapter-6c/s06.rpy:52
 translate french b1c06cs06_455ce782:
@@ -98,13 +98,13 @@ translate french b1c06cs06_46c124b8:
 translate french b1c06cs06_5e3fccdb:
 
     # ij "And you! I haven't seen you in a while."
-    ij "Et toi ! Je ne t'avais pas vu depuis un moment."
+    ij "Et toi! Je ne t'avais pas vu depuis un moment."
 
 # game/code/Book-1/Chapter-6c/s06.rpy:98
 translate french b1c06cs06_44dc8ed6:
 
     # ij "What's wrong?"
-    ij "Qu'est-ce qui ne va pas ?"
+    ij "Qu'est-ce qui ne va pas?"
 
 # game/code/Book-1/Chapter-6c/s06.rpy:101
 translate french b1c06cs06_7c9cd54f:
@@ -116,7 +116,7 @@ translate french b1c06cs06_7c9cd54f:
 translate french b1c06cs06_9b058248:
 
     # mc "Greeting kisses?"
-    mc "Des baisers de bienvenue ?"
+    mc "Des baisers de bienvenue?"
 
 # game/code/Book-1/Chapter-6c/s06.rpy:107
 translate french b1c06cs06_fef24df5:
@@ -140,13 +140,13 @@ translate french b1c06cs06_635a5bfd:
 translate french b1c06cs06_705fbe84:
 
     # nv "Sorry! I totally forgot to say something. That must've been startling."
-    nv "Désolée ! J'ai complètement oublié de te prévenir. Ça a dû te surprendre."
+    nv "Désolée! J'ai complètement oublié de te prévenir. Ça a dû te surprendre."
 
 # game/code/Book-1/Chapter-6c/s06.rpy:117
 translate french b1c06cs06_5316d27f:
 
     # mc "Hah! To say the least."
-    mc "Hah ! C'est le moins qu'on puisse dire."
+    mc "Hah! C'est le moins qu'on puisse dire."
 
 # game/code/Book-1/Chapter-6c/s06.rpy:120
 translate french b1c06cs06_619442d5:
@@ -164,7 +164,7 @@ translate french b1c06cs06_37388392:
 translate french b1c06cs06_1ecd6247:
 
     # ij "You need one too!"
-    ij "Tu en as besoin d'un aussi !"
+    ij "Tu en as besoin d'un aussi!"
 
 # game/code/Book-1/Chapter-6c/s06.rpy:140
 translate french b1c06cs06_ea76702c:
@@ -176,7 +176,7 @@ translate french b1c06cs06_ea76702c:
 translate french b1c06cs06_cecd3dbc:
 
     # mc "So, it's not a romantic thing?"
-    mc "Donc, ce n'est pas un truc romantique ?"
+    mc "Donc, ce n'est pas un truc romantique?"
 
 # game/code/Book-1/Chapter-6c/s06.rpy:146
 translate french b1c06cs06_b62431e1:
@@ -200,7 +200,7 @@ translate french b1c06cs06_a62c1298:
 translate french b1c06cs06_6633abb2:
 
     # mc "So how long have you guys been in the self-improvement group?"
-    mc "Depuis combien de temps êtes-vous dans le groupe d'auto-amélioration ?"
+    mc "Depuis combien de temps êtes-vous dans le groupe d'auto-amélioration?"
 
 # game/code/Book-1/Chapter-6c/s06.rpy:156
 translate french b1c06cs06_38fe4888:
@@ -230,7 +230,7 @@ translate french b1c06cs06_361084ba:
 translate french b1c06cs06_d480f489:
 
     # mc "And you said you're a high-ranking member? What does that position look like?"
-    mc "Et tu as dit que tu étais un membre de haut rang ? À quoi ressemble ce poste ?"
+    mc "Et tu as dit que tu étais un membre de haut rang? À quoi ressemble ce poste?"
 
 # game/code/Book-1/Chapter-6c/s06.rpy:171
 translate french b1c06cs06_93a19714:
@@ -296,19 +296,19 @@ translate french b1c06cs06_da076db8:
 translate french b1c06cs06_6dd93526:
 
     # mct "A man like me?"
-    mct "Un homme comme moi ?"
+    mct "Un homme comme moi?"
 
 # game/code/Book-1/Chapter-6c/s06.rpy:209
 translate french b1c06cs06_507fa2df:
 
     # ll "Irene! How are you?"
-    ll "Irene ! Comment vas-tu ?"
+    ll "Irene! Comment vas-tu?"
 
 # game/code/Book-1/Chapter-6c/s06.rpy:229
 translate french b1c06cs06_03406c63:
 
     # mc "Why kiss, specifically?"
-    mc "Pourquoi des baisers, précisément ?"
+    mc "Pourquoi des baisers, précisément?"
 
 # game/code/Book-1/Chapter-6c/s06.rpy:232
 translate french b1c06cs06_2d457f08:
@@ -320,7 +320,7 @@ translate french b1c06cs06_2d457f08:
 translate french b1c06cs06_19f0c970:
 
     # mc "Can't that be achieved through just talking?"
-    mc "Cela ne peut-il pas être accompli juste en parlant ?"
+    mc "Cela ne peut-il pas être accompli juste en parlant?"
 
 # game/code/Book-1/Chapter-6c/s06.rpy:238
 translate french b1c06cs06_4a9d3e0a:
@@ -350,7 +350,7 @@ translate french b1c06cs06_1285332d:
 translate french b1c06cs06_987f7f4b:
 
     # ll "Hey! I don't think we've officially met. I'm Lumi Love."
-    ll "Hé ! Je ne pense pas qu'on se soit officiellement rencontrés. Je suis Lumi Love."
+    ll "Hé! Je ne pense pas qu'on se soit officiellement rencontrés. Je suis Lumi Love."
 
 # game/code/Book-1/Chapter-6c/s06.rpy:252
 translate french b1c06cs06_c9d4dbb1:
@@ -362,7 +362,7 @@ translate french b1c06cs06_c9d4dbb1:
 translate french b1c06cs06_33d959ba:
 
     # ll "I've seen you with Nia. Are you two on your journey together?"
-    ll "Je vous ai vus avec Nia. Vous êtes en voyage ensemble ?"
+    ll "Je vous ai vus avec Nia. Vous êtes en voyage ensemble?"
 
 # game/code/Book-1/Chapter-6c/s06.rpy:263
 translate french b1c06cs06_87c235ce:
@@ -386,13 +386,13 @@ translate french b1c06cs06_ae4ea4bb:
 translate french b1c06cs06_fbdfb58a:
 
     # mc "Well, shall we find our seats?"
-    mc "Eh bien, on va trouver nos sièges ?"
+    mc "Eh bien, on va trouver nos sièges?"
 
 # game/code/Book-1/Chapter-6c/s06.rpy:279
 translate french b1c06cs06_ed0e1f58:
 
     # nv "Oh yes! The seminar is about to start."
-    nv "Oh oui ! Le séminaire va commencer."
+    nv "Oh oui! Le séminaire va commencer."
 
 # game/code/Book-1/Chapter-6c/s06.rpy:284
 translate french b1c06cs06_7bf882e3:
@@ -470,7 +470,7 @@ translate french b1c06cs06_18ee0a3b:
 translate french b1c06cs06_2d02b08a:
 
     # ad "Delphia, would you like to do the honors of explaining our path to enlightenment?"
-    ad "Delphia, voudrais-tu avoir l'honneur d'expliquer notre chemin vers l'illumination ?"
+    ad "Delphia, voudrais-tu avoir l'honneur d'expliquer notre chemin vers l'illumination?"
 
 # game/code/Book-1/Chapter-6c/s06.rpy:342
 translate french b1c06cs06_e53c16d2:
@@ -500,7 +500,7 @@ translate french b1c06cs06_b5f6e8f3:
 translate french b1c06cs06_eac3bf3c:
 
     # dk "But don't worry! It's not as hard as it sounds."
-    dk "Mais ne vous inquiétez pas ! Ce n'est pas aussi difficile que ça en a l'air."
+    dk "Mais ne vous inquiétez pas! Ce n'est pas aussi difficile que ça en a l'air."
 
 # game/code/Book-1/Chapter-6c/s06.rpy:353
 translate french b1c06cs06_9ed7b3ea:
@@ -572,13 +572,13 @@ translate french b1c06cs06_99828400:
 translate french b1c06cs06_63f66684:
 
     # ad "Would you like to start your presentation first?"
-    ad "Voudriez-vous commencer votre présentation en premier ?"
+    ad "Voudriez-vous commencer votre présentation en premier?"
 
 # game/code/Book-1/Chapter-6c/s06.rpy:396
 translate french b1c06cs06_377deaff:
 
     # mc "Presentation?"
-    mc "Présentation ?"
+    mc "Présentation?"
 
 # game/code/Book-1/Chapter-6c/s06.rpy:399
 translate french b1c06cs06_6217cd10:
@@ -590,7 +590,7 @@ translate french b1c06cs06_6217cd10:
 translate french b1c06cs06_61101f30:
 
     # mc "Wait, that's supposed to be a public presentation?"
-    mc "Attendez, cela doit être une présentation publique ?"
+    mc "Attendez, cela doit être une présentation publique?"
 
 # game/code/Book-1/Chapter-6c/s06.rpy:405
 translate french b1c06cs06_ed6f65bc:
@@ -662,7 +662,7 @@ translate french b1c06cs06_d1a8ab6a:
 translate french b1c06cs06_487d9faf:
 
     # ad "Who would like to go next?"
-    ad "Qui veut passer ensuite ?"
+    ad "Qui veut passer ensuite?"
 
 # game/code/Book-1/Chapter-6c/s06.rpy:454
 translate french b1c06cs06_8c9b93b2:
@@ -758,7 +758,7 @@ translate french b1c06cs06_8549fb83:
 translate french b1c06cs06_165bfd11:
 
     # mc "Hey, are you okay?"
-    mc "Hé, ça va ?"
+    mc "Hé, ça va?"
 
 # game/code/Book-1/Chapter-6c/s06.rpy:521
 translate french b1c06cs06_23b520ab:
@@ -806,7 +806,7 @@ translate french b1c06cs06_023842eb:
 translate french b1c06cs06_fba91fc6:
 
     # ad "Who's next?"
-    ad "Qui est le prochain ?"
+    ad "Qui est le prochain?"
 
 # game/code/Book-1/Chapter-6c/s06.rpy:553
 translate french b1c06cs06_beda1d42:
@@ -818,13 +818,13 @@ translate french b1c06cs06_beda1d42:
 translate french b1c06cs06_9e6f11df:
 
     # mc "Me?"
-    mc "Moi ?"
+    mc "Moi?"
 
 # game/code/Book-1/Chapter-6c/s06.rpy:559
 translate french b1c06cs06_75443bfd:
 
     # nv "Yeah! It's a great experience. Go!"
-    nv "Oui ! C'est une super expérience. Vas-y !"
+    nv "Oui! C'est une super expérience. Vas-y!"
 
 # game/code/Book-1/Chapter-6c/s06.rpy:562
 translate french b1c06cs06_418b5a6b:
@@ -842,7 +842,7 @@ translate french b1c06cs06_6a03c325:
 translate french b1c06cs06_10a79334:
 
     # ad "Are you expecting a kiss? I hardly see why you need {i}more{/i} attention than you've already been getting. It's unbecoming."
-    ad "Tu attends un baiser ? Je vois mal pourquoi tu aurais besoin de {i}plus{/i} d'attention que tu n'en reçois déjà. Ce n'est pas convenable."
+    ad "Tu attends un baiser? Je vois mal pourquoi tu aurais besoin de {i}plus{/i} d'attention que tu n'en reçois déjà. Ce n'est pas convenable."
 
 # game/code/Book-1/Chapter-6c/s06.rpy:575
 translate french b1c06cs06_cb945991:
@@ -890,7 +890,7 @@ translate french b1c06cs06_57f02ef7:
 translate french b1c06cs06_689e88b0:
 
     # ad "And what of your fears?"
-    ad "Et qu'en est-il de tes peurs ?"
+    ad "Et qu'en est-il de tes peurs?"
 
 # game/code/Book-1/Chapter-6c/s06.rpy:600
 translate french b1c06cs06_cdb70337:
@@ -926,7 +926,7 @@ translate french b1c06cs06_89fd3bdf:
 translate french b1c06cs06_4bf87ebd:
 
     # ad "Tell me, do you believe in the supernatural or spiritual?"
-    ad "Dis-moi, crois-tu au surnaturel ou au spirituel ?"
+    ad "Dis-moi, crois-tu au surnaturel ou au spirituel?"
 
 # game/code/Book-1/Chapter-6c/s06.rpy:613
 translate french b1c06cs06_f71512af:
@@ -1004,7 +1004,7 @@ translate french b1c06cs06_1793d917:
 translate french b1c06cs06_1f4edc9e:
 
     # ad "And who's next?"
-    ad "Et qui est le suivant ?"
+    ad "Et qui est le suivant?"
 
 # game/code/Book-1/Chapter-6c/s06.rpy:641
 translate french b1c06cs06_69f1f5b5:
@@ -1076,19 +1076,19 @@ translate french b1c06cs06_90531da9:
 translate french b1c06cs06_83052be0:
 
     # nv "Pretty good, right? Now we're onto the fun stuff."
-    nv "Pas mal, hein ? Maintenant, on passe aux choses amusantes."
+    nv "Pas mal, hein? Maintenant, on passe aux choses amusantes."
 
 # game/code/Book-1/Chapter-6c/s06.rpy:708
 translate french b1c06cs06_54b80ca8:
 
     # mc "Fun stuff?"
-    mc "Des choses amusantes ?"
+    mc "Des choses amusantes?"
 
 # game/code/Book-1/Chapter-6c/s06.rpy:711
 translate french b1c06cs06_5593c31c:
 
     # nv "Yeah! Now we all get to mingle and talk one on one. Getting to know more details about people's stories."
-    nv "Oui ! Maintenant, on peut tous socialiser et parler en tête-à-tête. Apprendre plus de détails sur les histoires des gens."
+    nv "Oui! Maintenant, on peut tous socialiser et parler en tête-à-tête. Apprendre plus de détails sur les histoires des gens."
 
 # game/code/Book-1/Chapter-6c/s06.rpy:712
 translate french b1c06cs06_2f15498a:
@@ -1118,7 +1118,7 @@ translate french b1c06cs06_efec9ed2:
 translate french b1c06cs06_2b7f8737:
 
     # ij "You should think about donating!"
-    ij "Vous devriez penser à faire un don !"
+    ij "Vous devriez penser à faire un don!"
 
 # game/code/Book-1/Chapter-6c/s06.rpy:724
 translate french b1c06cs06_69d43ab2:
@@ -1130,25 +1130,25 @@ translate french b1c06cs06_69d43ab2:
 translate french b1c06cs06_3779d934:
 
     # ij "C'mon! Imagine a world where your insecurities are resolved and you discover all your truths?"
-    ij "Allez ! Imaginez un monde où vos insécurités sont résolues et où vous découvrez toutes vos vérités ?"
+    ij "Allez! Imaginez un monde où vos insécurités sont résolues et où vous découvrez toutes vos vérités?"
 
 # game/code/Book-1/Chapter-6c/s06.rpy:728
 translate french b1c06cs06_06e1d428:
 
     # ij "What would it be worth to you to make that go away?"
-    ij "Qu'est-ce que cela vaudrait pour vous de faire disparaître tout cela ?"
+    ij "Qu'est-ce que cela vaudrait pour vous de faire disparaître tout cela?"
 
 # game/code/Book-1/Chapter-6c/s06.rpy:731
 translate french b1c06cs06_32dc5cf2:
 
     # mc "Like, financially?"
-    mc "Vous voulez dire, financièrement ?"
+    mc "Vous voulez dire, financièrement?"
 
 # game/code/Book-1/Chapter-6c/s06.rpy:734
 translate french b1c06cs06_1341d277:
 
     # ij "Yeah. What would you pay to have those issues resolve themselves?"
-    ij "Oui. Combien seriez-vous prêt à payer pour résoudre ces problèmes ?"
+    ij "Oui. Combien seriez-vous prêt à payer pour résoudre ces problèmes?"
 
 # game/code/Book-1/Chapter-6c/s06.rpy:737
 translate french b1c06cs06_bb7f2aa0:
@@ -1190,7 +1190,7 @@ translate french b1c06cs06_240a33bb:
 translate french b1c06cs06_8772c17f:
 
     # ij "Well, how much would you pay for a class that teaches you everything you need to know about how to navigate life?"
-    ij "Eh bien, combien paieriez-vous pour un cours qui vous apprend tout ce que vous devez savoir sur la façon de naviguer dans la vie ?"
+    ij "Eh bien, combien paieriez-vous pour un cours qui vous apprend tout ce que vous devez savoir sur la façon de naviguer dans la vie?"
 
 # game/code/Book-1/Chapter-6c/s06.rpy:752
 translate french b1c06cs06_f958c469:
@@ -1208,13 +1208,13 @@ translate french b1c06cs06_0e909a2d:
 translate french b1c06cs06_9e663c07:
 
     # mct "Three hundred?! Those pages better be made out of solid gold."
-    mct "Trois cents dollars ?! Ces pages doivent être en or massif."
+    mct "Trois cents dollars?! Ces pages doivent être en or massif."
 
 # game/code/Book-1/Chapter-6c/s06.rpy:760
 translate french b1c06cs06_5bd344f0:
 
     # ij "So you should definitely consider donating! You can also pay for more advanced teachings of enlightenment."
-    ij "Donc, vous devriez vraiment envisager de faire un don ! Vous pouvez également payer pour des enseignements plus avancés sur l'illumination."
+    ij "Donc, vous devriez vraiment envisager de faire un don! Vous pouvez également payer pour des enseignements plus avancés sur l'illumination."
 
 # game/code/Book-1/Chapter-6c/s06.rpy:763
 translate french b1c06cs06_3e733b62:
@@ -1226,13 +1226,13 @@ translate french b1c06cs06_3e733b62:
 translate french b1c06cs06_cfce055e:
 
     # mc "Are you sure?"
-    mc "Tu es sûre ?"
+    mc "Tu es sûre?"
 
 # game/code/Book-1/Chapter-6c/s06.rpy:769
 translate french b1c06cs06_ef0fbd0c:
 
     # nv "Why not? I consider the people here family. And I've done it before. The group benefits a lot from donations."
-    nv "Pourquoi pas ? Je considère les gens ici comme ma famille. Et je l'ai déjà fait. Le groupe bénéficie beaucoup des dons."
+    nv "Pourquoi pas? Je considère les gens ici comme ma famille. Et je l'ai déjà fait. Le groupe bénéficie beaucoup des dons."
 
 # game/code/Book-1/Chapter-6c/s06.rpy:774
 translate french b1c06cs06_e37cf27b:
@@ -1292,13 +1292,13 @@ translate french b1c06cs06_14b40526:
 translate french b1c06cs06_c7136a81:
 
     # ad "Nia, my sweet. How did you like the seminar?"
-    ad "Nia, ma chère. Comment as-tu trouvé le séminaire ?"
+    ad "Nia, ma chère. Comment as-tu trouvé le séminaire?"
 
 # game/code/Book-1/Chapter-6c/s06.rpy:802
 translate french b1c06cs06_56986b31:
 
     # nv "I loved it! The introductions are always my favorite part."
-    nv "J'ai adoré ! Les présentations sont toujours ma partie préférée."
+    nv "J'ai adoré! Les présentations sont toujours ma partie préférée."
 
 # game/code/Book-1/Chapter-6c/s06.rpy:804
 translate french b1c06cs06_8a3052bf:
@@ -1310,7 +1310,7 @@ translate french b1c06cs06_8a3052bf:
 translate french b1c06cs06_2935f0db:
 
     # ad "How can I help you?"
-    ad "Comment puis-je t'aider ?"
+    ad "Comment puis-je t'aider?"
 
 # game/code/Book-1/Chapter-6c/s06.rpy:808
 translate french b1c06cs06_0099f0d9:
@@ -1322,7 +1322,7 @@ translate french b1c06cs06_0099f0d9:
 translate french b1c06cs06_4fb24691:
 
     # ad "Do you not agree with her charitable amount?"
-    ad "Vous n'êtes pas d'accord avec son montant généreux ?"
+    ad "Vous n'êtes pas d'accord avec son montant généreux?"
 
 # game/code/Book-1/Chapter-6c/s06.rpy:817
 translate french b1c06cs06_2894fa3a:
@@ -1334,7 +1334,7 @@ translate french b1c06cs06_2894fa3a:
 translate french b1c06cs06_c824cf62:
 
     # ad "Who are you to say what she does with her money."
-    ad "Qui êtes-vous pour lui dire quoi faire de son argent ?"
+    ad "Qui êtes-vous pour lui dire quoi faire de son argent?"
 
 # game/code/Book-1/Chapter-6c/s06.rpy:823
 translate french b1c06cs06_b9fc237f:
@@ -1364,7 +1364,7 @@ translate french b1c06cs06_47d0d727:
 translate french b1c06cs06_52c46e36:
 
     # mct "Christ, why is he taking every opportunity to put me down? He's not like this with anyone else."
-    mct "Bon sang, pourquoi saisit-il chaque occasion pour me rabaisser ? Il n'est comme ça avec personne d'autre."
+    mct "Bon sang, pourquoi saisit-il chaque occasion pour me rabaisser? Il n'est comme ça avec personne d'autre."
 
 # game/code/Book-1/Chapter-6c/s06.rpy:835
 translate french b1c06cs06_bfbd9d79:
@@ -1376,7 +1376,7 @@ translate french b1c06cs06_bfbd9d79:
 translate french b1c06cs06_67a43ffa:
 
     # nv "Right?"
-    nv "N'est-ce pas ?"
+    nv "N'est-ce pas?"
 
 # game/code/Book-1/Chapter-6c/s06.rpy:841
 translate french b1c06cs06_9b19589f:
@@ -1412,7 +1412,7 @@ translate french b1c06cs06_26e990e7:
 translate french b1c06cs06_a676436e:
 
     # mct "She is asking if I want to come over? This is weird timing."
-    mct "Elle me demande si je veux passer chez elle ? Le timing est étrange."
+    mct "Elle me demande si je veux passer chez elle? Le timing est étrange."
 
 # game/code/Book-1/Chapter-6c/s06.rpy:855
 translate french b1c06cs06_8adf578a:
@@ -1436,7 +1436,7 @@ translate french b1c06cs06_ba26906d:
 translate french b1c06cs06_bb5b43d6:
 
     # nv "Oh, I thought it'd be fun to talk to more of the people. Is it because you're uncomfortable here?"
-    nv "Oh, je pensais que ce serait amusant de parler à plus de gens. Est-ce parce que tu n'es pas à l'aise ici ?"
+    nv "Oh, je pensais que ce serait amusant de parler à plus de gens. Est-ce parce que tu n'es pas à l'aise ici?"
 
 # game/code/Book-1/Chapter-6c/s06.rpy:867
 translate french b1c06cs06_f81f7dab:
@@ -1454,7 +1454,7 @@ translate french b1c06cs06_cc3e12cc:
 translate french b1c06cs06_102bddb7:
 
     # mc "No! No. I'm comfortable here. I just promised a friend I'd meet them tonight."
-    mc "Non ! Non. Je suis à l'aise ici. J'ai juste promis à un ami de le rencontrer ce soir."
+    mc "Non! Non. Je suis à l'aise ici. J'ai juste promis à un ami de le rencontrer ce soir."
 
 # game/code/Book-1/Chapter-6c/s06.rpy:874
 translate french b1c06cs06_5c89cdec:
@@ -1495,3 +1495,4 @@ translate french strings:
     # game/code/Book-1/Chapter-6c/s06.rpy:514
     old "Hug Nia"
     new "Faire un câlin à Nia"
+

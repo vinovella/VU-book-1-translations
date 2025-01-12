@@ -32,13 +32,13 @@ translate french b1c08cs09_d3c11706:
 translate french b1c08cs09_115544fb:
 
     # dk "You are being unjust and intolerant!"
-    dk "Tu es injuste et intolérant !"
+    dk "Tu es injuste et intolérant!"
 
 # game/code/Book-1/Chapter-8c/s09.rpy:38
 translate french b1c08cs09_f1570bf3:
 
     # dk "For all the preaching about acceptance and open-mindedness, {i}you're{/i} the one who buckles under the pressure to teach some of the best minds I have found at the university!"
-    dk "Pour tous les discours sur l'acceptation et l'ouverture d'esprit, {i}c'est toi{/i} qui cèdes sous la pression d'enseigner à certains des meilleurs esprits que j'ai rencontrés à l'université !"
+    dk "Pour tous les discours sur l'acceptation et l'ouverture d'esprit, {i}c'est toi{/i} qui cèdes sous la pression d'enseigner à certains des meilleurs esprits que j'ai rencontrés à l'université!"
 
 # game/code/Book-1/Chapter-8c/s09.rpy:41
 translate french b1c08cs09_0556e503:
@@ -122,7 +122,7 @@ translate french b1c08cs09_06123ed4:
 translate french b1c08cs09_8b9312aa:
 
     # ih "But I know you're ready, aren't you?"
-    ih "Mais je sais que tu es prêt(e), n'est-ce pas ?"
+    ih "Mais je sais que tu es prêt(e), n'est-ce pas?"
 
 # game/code/Book-1/Chapter-8c/s09.rpy:77
 translate french b1c08cs09_9257c3c3:
@@ -140,7 +140,7 @@ translate french b1c08cs09_400a7aac:
 translate french b1c08cs09_6a4bb3c3:
 
     # ad "The journey to higher ranks is not something that happens without great effort!"
-    ad "Le chemin vers des rangs plus élevés n'est pas quelque chose qui se fait sans grand effort !"
+    ad "Le chemin vers des rangs plus élevés n'est pas quelque chose qui se fait sans grand effort!"
 
 # game/code/Book-1/Chapter-8c/s09.rpy:82
 translate french b1c08cs09_8801205b:
@@ -152,13 +152,13 @@ translate french b1c08cs09_8801205b:
 translate french b1c08cs09_a428c489:
 
     # dk "What more could my pupils possibly offer you?"
-    dk "Que peuvent bien m'offrir mes élèves de plus ?"
+    dk "Que peuvent bien m'offrir mes élèves de plus?"
 
 # game/code/Book-1/Chapter-8c/s09.rpy:86
 translate french b1c08cs09_73caa730:
 
     # dk "I have also been a loyal, devoted member of this community. Not once have you doubted me. What makes you doubt me {i}now{/i}?"
-    dk "J'ai aussi été un membre loyal et dévoué de cette communauté. Pas une seule fois tu ne m'as douté. Qu'est-ce qui te fait douter de moi {i}maintenant{/i} ?"
+    dk "J'ai aussi été un membre loyal et dévoué de cette communauté. Pas une seule fois tu ne m'as douté. Qu'est-ce qui te fait douter de moi {i}maintenant{/i}?"
 
 # game/code/Book-1/Chapter-8c/s09.rpy:89
 translate french b1c08cs09_f79b2ab8:
@@ -170,7 +170,7 @@ translate french b1c08cs09_f79b2ab8:
 translate french b1c08cs09_b6f4a197:
 
     # ih "Andre, darling. Don't you think you're being a bit harsh? [mcname] hasn't done anything blatantly offensive."
-    ih "Andre, mon chéri. Ne crois-tu pas que tu es un peu dur ? [mcname] n'a rien fait de manifestement offensant."
+    ih "Andre, mon chéri. Ne crois-tu pas que tu es un peu dur? [mcname] n'a rien fait de manifestement offensant."
 
 # game/code/Book-1/Chapter-8c/s09.rpy:92
 translate french b1c08cs09_015d10ef:
@@ -188,13 +188,13 @@ translate french b1c08cs09_0d8099e9:
 translate french b1c08cs09_085de283:
 
     # mc "Readiness is a complex thing, isn't it? As we saw with Lumi. Sometimes, we don't know we're ready until we're given the chance to prove it."
-    mc "La préparation est une chose complexe, n'est-ce pas ? Comme nous l'avons vu avec Lumi. Parfois, on ne sait pas qu'on est prêt jusqu'à ce qu'on nous donne la chance de le prouver."
+    mc "La préparation est une chose complexe, n'est-ce pas? Comme nous l'avons vu avec Lumi. Parfois, on ne sait pas qu'on est prêt jusqu'à ce qu'on nous donne la chance de le prouver."
 
 # game/code/Book-1/Chapter-8c/s09.rpy:102
 translate french b1c08cs09_bed3820c:
 
     # ih "Who truly decides readiness, Andre?"
-    ih "Qui décide réellement de la préparation, Andre ?"
+    ih "Qui décide réellement de la préparation, Andre?"
 
 # game/code/Book-1/Chapter-8c/s09.rpy:104
 translate french b1c08cs09_9400a54f:
@@ -206,7 +206,7 @@ translate french b1c08cs09_9400a54f:
 translate french b1c08cs09_b41786b5:
 
     # ih "Exactly. Is it not the very complex path to spirituality we seek to understand?"
-    ih "Exactement. N'est-ce pas le chemin très complexe vers la spiritualité que nous cherchons à comprendre ?"
+    ih "Exactement. N'est-ce pas le chemin très complexe vers la spiritualité que nous cherchons à comprendre?"
 
 # game/code/Book-1/Chapter-8c/s09.rpy:109
 translate french b1c08cs09_cdd81105:
@@ -248,13 +248,13 @@ translate french b1c08cs09_87a3ee75:
 translate french b1c08cs09_15066994:
 
     # mc "What? Why? You didn't do anything."
-    mc "Quoi ? Pourquoi ? Tu n'as rien fait."
+    mc "Quoi? Pourquoi? Tu n'as rien fait."
 
 # game/code/Book-1/Chapter-8c/s09.rpy:125
 translate french b1c08cs09_e6631837:
 
     # nv "No, but this is difficult. *Sigh* And I wish we could just get back to self-discovery. This place is supposed to test our spirituality, not our patience!"
-    nv "Non, mais c'est difficile. *Soupir* Et j'aimerais qu'on puisse simplement retourner à la découverte de soi. Cet endroit est censé tester notre spiritualité, pas notre patience !"
+    nv "Non, mais c'est difficile. *Soupir* Et j'aimerais qu'on puisse simplement retourner à la découverte de soi. Cet endroit est censé tester notre spiritualité, pas notre patience!"
 
 # game/code/Book-1/Chapter-8c/s09.rpy:128
 translate french b1c08cs09_2fa56644:
@@ -278,7 +278,7 @@ translate french b1c08cs09_7b7d6be9:
 translate french b1c08cs09_d9befa0e:
 
     # nv "[mcname] and I deserve to progress. If we have to prove ourselves one more time, fine. But let us do that, then!"
-    nv "[mcname] et moi méritons de progresser. Si nous devons nous prouver une fois de plus, d'accord. Mais laissons-nous faire cela, alors !"
+    nv "[mcname] et moi méritons de progresser. Si nous devons nous prouver une fois de plus, d'accord. Mais laissons-nous faire cela, alors!"
 
 # game/code/Book-1/Chapter-8c/s09.rpy:143
 translate french b1c08cs09_0b67996f:
@@ -290,13 +290,13 @@ translate french b1c08cs09_0b67996f:
 translate french b1c08cs09_e7d16713:
 
     # nv "While we are here where everyone can witness our virtue and devotion to this place, this {i}community{/i}?"
-    nv "Tant que nous sommes ici où tout le monde peut témoigner de notre vertu et de notre dévouement à cet endroit, à cette {i}communauté{/i} ?"
+    nv "Tant que nous sommes ici où tout le monde peut témoigner de notre vertu et de notre dévouement à cet endroit, à cette {i}communauté{/i}?"
 
 # game/code/Book-1/Chapter-8c/s09.rpy:149
 translate french b1c08cs09_5b70737f:
 
     # dk "*Nods* Besides, there is a full moon tonight. We were planning a spiritual ritual for the newcomers anyway, weren't we? Narurra's spirit will be even stronger."
-    dk "*Hoche la tête* De plus, il y a une pleine lune ce soir. Nous avions prévu un rituel spirituel pour les nouveaux venus de toute façon, n'est-ce pas ? L'esprit de Narurra sera encore plus puissant."
+    dk "*Hoche la tête* De plus, il y a une pleine lune ce soir. Nous avions prévu un rituel spirituel pour les nouveaux venus de toute façon, n'est-ce pas? L'esprit de Narurra sera encore plus puissant."
 
 # game/code/Book-1/Chapter-8c/s09.rpy:150
 translate french b1c08cs09_9d887bae:
@@ -320,7 +320,7 @@ translate french b1c08cs09_013d86b5:
 translate french b1c08cs09_c9076ddc:
 
     # ih "See? This is the perfect time to let the newcomers prove their integrity."
-    ih "Tu vois ? C'est le moment parfait pour laisser les nouveaux venus prouver leur intégrité."
+    ih "Tu vois? C'est le moment parfait pour laisser les nouveaux venus prouver leur intégrité."
 
 # game/code/Book-1/Chapter-8c/s09.rpy:160
 translate french b1c08cs09_14168b17:
@@ -332,13 +332,13 @@ translate french b1c08cs09_14168b17:
 translate french b1c08cs09_f139370a:
 
     # ih "They haven't had enough time, or {i}you{/i} haven't had enough time?"
-    ih "Ils n'ont pas eu assez de temps, ou {i}toi{/i} n'as-tu pas eu assez de temps ?"
+    ih "Ils n'ont pas eu assez de temps, ou {i}toi{/i} n'as-tu pas eu assez de temps?"
 
 # game/code/Book-1/Chapter-8c/s09.rpy:165
 translate french b1c08cs09_4d9b909c:
 
     # ih "You understand the importance of having a {i}proper man{/i} with us during our holy rituals, don't you, Andre?"
-    ih "Tu comprends l'importance d'avoir un {i}homme digne{/i} avec nous lors de nos rituels sacrés, n'est-ce pas, Andre ?"
+    ih "Tu comprends l'importance d'avoir un {i}homme digne{/i} avec nous lors de nos rituels sacrés, n'est-ce pas, Andre?"
 
 # game/code/Book-1/Chapter-8c/s09.rpy:168
 translate french b1c08cs09_6a99c843:
@@ -350,13 +350,13 @@ translate french b1c08cs09_6a99c843:
 translate french b1c08cs09_b65d9c21:
 
     # mct "A \"proper man\"? What the hell does she mean by that? What do I have that Andre doesn't?"
-    mct "Un \"homme digne\" ? Qu'est-ce qu'elle veut dire par là ? Qu'est-ce que j'ai que Andre n'a pas ?"
+    mct "Un \"homme digne\"? Qu'est-ce qu'elle veut dire par là? Qu'est-ce que j'ai que Andre n'a pas?"
 
 # game/code/Book-1/Chapter-8c/s09.rpy:171
 translate french b1c08cs09_dde0017c:
 
     # mct "And why is Ivy so hostile towards Andre anyway? It's like she resents him or something."
-    mct "Et pourquoi Ivy est-elle si hostile envers Andre de toute façon ? C'est comme si elle lui en voulait ou quelque chose comme ça."
+    mct "Et pourquoi Ivy est-elle si hostile envers Andre de toute façon? C'est comme si elle lui en voulait ou quelque chose comme ça."
 
 # game/code/Book-1/Chapter-8c/s09.rpy:175
 translate french b1c08cs09_821a77c7:
@@ -488,19 +488,19 @@ translate french b1c08cs09_1fb62bcb:
 translate french b1c08cs09_d4d6838b:
 
     # mct "Is this ritual gonna be like what I saw in the cave?"
-    mct "Ce rituel va-t-il ressembler à ce que j'ai vu dans la grotte ?"
+    mct "Ce rituel va-t-il ressembler à ce que j'ai vu dans la grotte?"
 
 # game/code/Book-1/Chapter-8c/s09.rpy:233
 translate french b1c08cs09_body_paint_320d7079:
 
     # mc "Why is it called a ritual? What is ritualistic about it?"
-    mc "Pourquoi cela s'appelle un rituel ? Qu'est-ce qui est rituel dans ce que nous allons faire ?"
+    mc "Pourquoi cela s'appelle un rituel? Qu'est-ce qui est rituel dans ce que nous allons faire?"
 
 # game/code/Book-1/Chapter-8c/s09.rpy:235
 translate french b1c08cs09_body_paint_ac30e147:
 
     # nv "Yes, I'd like to know as well. Is it more like a spiritual exercise, or something more profound?"
-    nv "Oui, j'aimerais le savoir aussi. Est-ce que cela ressemble plus à un exercice spirituel, ou à quelque chose de plus profond ?"
+    nv "Oui, j'aimerais le savoir aussi. Est-ce que cela ressemble plus à un exercice spirituel, ou à quelque chose de plus profond?"
 
 # game/code/Book-1/Chapter-8c/s09.rpy:236
 translate french b1c08cs09_body_paint_41791338:
@@ -584,7 +584,7 @@ translate french b1c08cs09_body_paint_54e0ec48:
 translate french b1c08cs09_body_paint_db594d98:
 
     # mc "We're supposed to use these paints? For what?"
-    mc "Nous sommes censés utiliser ces peintures ? Pour quoi faire ?"
+    mc "Nous sommes censés utiliser ces peintures? Pour quoi faire?"
 
 # game/code/Book-1/Chapter-8c/s09.rpy:269
 translate french b1c08cs09_body_paint_9f193271:
@@ -596,7 +596,7 @@ translate french b1c08cs09_body_paint_9f193271:
 translate french b1c08cs09_body_paint_dd2fe3d8:
 
     # nv "Body painting? Like...the entire body?"
-    nv "La peinture corporelle ? Comme... le corps entier ?"
+    nv "La peinture corporelle? Comme... le corps entier?"
 
 # game/code/Book-1/Chapter-8c/s09.rpy:275
 translate french b1c08cs09_body_paint_5af86d1f:
@@ -740,13 +740,13 @@ translate french b1c08cs09_body_paint_778e74ce:
 translate french b1c08cs09_body_paint_43f48ec1:
 
     # mc "Can't we know a little more so we can prepare better?"
-    mc "Ne pouvons-nous pas en savoir un peu plus pour mieux nous préparer ?"
+    mc "Ne pouvons-nous pas en savoir un peu plus pour mieux nous préparer?"
 
 # game/code/Book-1/Chapter-8c/s09.rpy:321
 translate french b1c08cs09_body_paint_53c5a234:
 
     # ih "My inquisitive soul, you wouldn't give your students all the answers to the test just before they take it, would you?"
-    ih "Mon âme curieuse, tu ne donnerais pas à tes élèves toutes les réponses au test juste avant de le passer, n'est-ce pas ?"
+    ih "Mon âme curieuse, tu ne donnerais pas à tes élèves toutes les réponses au test juste avant de le passer, n'est-ce pas?"
 
 # game/code/Book-1/Chapter-8c/s09.rpy:322
 translate french b1c08cs09_body_paint_7a9f5fd9:
@@ -758,7 +758,7 @@ translate french b1c08cs09_body_paint_7a9f5fd9:
 translate french b1c08cs09_body_paint_d08708bc:
 
     # mct "Is that really all we have to do or is Ivy keeping something from us?"
-    mct "Est-ce vraiment tout ce que nous avons à faire ou est-ce qu'Ivy nous cache quelque chose ?"
+    mct "Est-ce vraiment tout ce que nous avons à faire ou est-ce qu'Ivy nous cache quelque chose?"
 
 # game/code/Book-1/Chapter-8c/s09.rpy:326
 translate french b1c08cs09_body_paint_1ea386fe:
@@ -794,7 +794,7 @@ translate french b1c08cs09_body_paint_4c009fe9:
 translate french b1c08cs09_body_paint_a5946cb4:
 
     # nv "Did I say something wrong? Why did she seem so distant toward me?"
-    nv "Ai-je dit quelque chose de mal ? Pourquoi semblait-elle si distante envers moi ?"
+    nv "Ai-je dit quelque chose de mal? Pourquoi semblait-elle si distante envers moi?"
 
 # game/code/Book-1/Chapter-8c/s09.rpy:348
 translate french b1c08cs09_body_paint_8f1539bd:
@@ -872,7 +872,7 @@ translate french b1c08cs09_body_paint_b46ec674:
 translate french b1c08cs09_body_paint_baab3561:
 
     # nv "I...guess you're right. It's just...easier said than done, you know?"
-    nv "Je...suppose que tu as raison. C'est juste...plus facile à dire qu'à faire, tu sais ?"
+    nv "Je...suppose que tu as raison. C'est juste...plus facile à dire qu'à faire, tu sais?"
 
 # game/code/Book-1/Chapter-8c/s09.rpy:378
 translate french b1c08cs09_body_paint_d7f0a013:
@@ -980,7 +980,7 @@ translate french b1c08cs09_body_paint_29c71f99:
 translate french b1c08cs09_body_paint_c78ccd9d:
 
     # mc "What are your ideas?"
-    mc "Quelles sont tes idées ?"
+    mc "Quelles sont tes idées?"
 
 # game/code/Book-1/Chapter-8c/s09.rpy:428
 translate french b1c08cs09_body_paint_0b12db2b:
@@ -992,7 +992,7 @@ translate french b1c08cs09_body_paint_0b12db2b:
 translate french b1c08cs09_body_paint_699878f6:
 
     # mc "Hey!"
-    mc "Hé !"
+    mc "Hé!"
 
 # game/code/Book-1/Chapter-8c/s09.rpy:442
 translate french b1c08cs09_body_paint_69622171:
@@ -1010,13 +1010,13 @@ translate french b1c08cs09_body_paint_74c498aa:
 translate french b1c08cs09_body_paint_493ea61a:
 
     # mc "You're really excited about this, aren't you?"
-    mc "Tu es vraiment excitée par ça, n'est-ce pas ?"
+    mc "Tu es vraiment excitée par ça, n'est-ce pas?"
 
 # game/code/Book-1/Chapter-8c/s09.rpy:452
 translate french b1c08cs09_body_paint_5e19da55:
 
     # nv "*Blushes* I am. I just want this to be perfect, you know?"
-    nv "*Rougit* Oui. Je veux juste que ce soit parfait, tu sais ?"
+    nv "*Rougit* Oui. Je veux juste que ce soit parfait, tu sais?"
 
 # game/code/Book-1/Chapter-8c/s09.rpy:455
 translate french b1c08cs09_body_paint_6a2cafcc:

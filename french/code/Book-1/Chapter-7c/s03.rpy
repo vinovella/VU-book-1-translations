@@ -2,7 +2,7 @@
 translate french b1c07cs03_8f5a6f35:
 
     # mct "Wow, this place is a mess. Do all artists work like this?"
-    mct "Wow, cet endroit est un vrai désordre. Est-ce que tous les artistes travaillent comme ça ?"
+    mct "Wow, cet endroit est un vrai désordre. Est-ce que tous les artistes travaillent comme ça?"
 
 # game/code/Book-1/Chapter-7c/s03.rpy:28
 translate french b1c07cs03_9b82dc68:
@@ -38,19 +38,19 @@ translate french b1c07cs03_75720ca2:
 translate french b1c07cs03_51aa6bdd:
 
     # mc "Hey, excuse me?"
-    mc "Hé, excusez-moi ?"
+    mc "Hé, excusez-moi?"
 
 # game/code/Book-1/Chapter-7c/s03.rpy:47
 translate french b1c07cs03_a1f24c18:
 
     # mct "Does she have headphones in or something?"
-    mct "Est-ce qu'elle porte des écouteurs ou quelque chose comme ça ?"
+    mct "Est-ce qu'elle porte des écouteurs ou quelque chose comme ça?"
 
 # game/code/Book-1/Chapter-7c/s03.rpy:50
 translate french b1c07cs03_5ce01ebc:
 
     # mc "Can you hear me? I'm here for the investigation of your friend, Maria?"
-    mc "Vous m'entendez ? Je suis ici pour l'enquête sur votre amie, Maria ?"
+    mc "Vous m'entendez? Je suis ici pour l'enquête sur votre amie, Maria?"
 
 # game/code/Book-1/Chapter-7c/s03.rpy:51
 translate french b1c07cs03_357cd144:
@@ -62,7 +62,7 @@ translate french b1c07cs03_357cd144:
 translate french b1c07cs03_14c32c4f:
 
     # edo "WHAT?!"
-    edo "QUOI ?!"
+    edo "QUOI?!"
 
 # game/code/Book-1/Chapter-7c/s03.rpy:57
 translate french b1c07cs03_01f6dc74:
@@ -80,7 +80,7 @@ translate french b1c07cs03_7356e6b5:
 translate french b1c07cs03_bc208ab9:
 
     # mc "Um, I'm sorry? Can you speak up?"
-    mc "Euh, pardon ? Pouvez-vous parler plus fort ?"
+    mc "Euh, pardon? Pouvez-vous parler plus fort?"
 
 # game/code/Book-1/Chapter-7c/s03.rpy:66
 translate french b1c07cs03_4cfe5404:
@@ -110,7 +110,7 @@ translate french b1c07cs03_90479546:
 translate french b1c07cs03_030706bf:
 
     # edo "Who are you?"
-    edo "Qui êtes-vous ?"
+    edo "Qui êtes-vous?"
 
 # game/code/Book-1/Chapter-7c/s03.rpy:80
 translate french b1c07cs03_e5eb39e0:
@@ -164,7 +164,7 @@ translate french b1c07cs03_953a6a71:
 translate french b1c07cs03_d008ef49:
 
     # edo "But shush! Let me finish drawing."
-    edo "Mais chut ! Laissez-moi finir de dessiner."
+    edo "Mais chut! Laissez-moi finir de dessiner."
 
 # game/code/Book-1/Chapter-7c/s03.rpy:131
 translate french b1c07cs03_03e0b0ad:
@@ -188,13 +188,13 @@ translate french b1c07cs03_e4f5bc31:
 translate french b1c07cs03_ab4a6d4f:
 
     # mc "Were you and Maria intimate?"
-    mc "Étiez-vous et Maria intimes ?"
+    mc "Étiez-vous et Maria intimes?"
 
 # game/code/Book-1/Chapter-7c/s03.rpy:143
 translate french b1c07cs03_74a8f32e:
 
     # edo "You think I looked at such a beautiful creature and {i}wasn't{/i} tempted to touch?"
-    edo "Vous pensez que j'ai regardé une créature aussi belle sans être {i}tentée{/i} de la toucher ?"
+    edo "Vous pensez que j'ai regardé une créature aussi belle sans être {i}tentée{/i} de la toucher?"
 
 # game/code/Book-1/Chapter-7c/s03.rpy:144
 translate french b1c07cs03_4d7e66bc:
@@ -236,7 +236,7 @@ translate french b1c07cs03_22fe8d9b:
 translate french b1c07cs03_4a054e23:
 
     # mc "You mean you're withdrawing from art shows?"
-    mc "Vous voulez dire que vous vous retirez des expositions d'art ?"
+    mc "Vous voulez dire que vous vous retirez des expositions d'art?"
 
 # game/code/Book-1/Chapter-7c/s03.rpy:163
 translate french b1c07cs03_2e29a04c:
@@ -290,7 +290,7 @@ translate french b1c07cs03_f61332c0:
 translate french b1c07cs03_41938af4:
 
     # edo "Oh? You don't seem like the artistic type..."
-    edo "Oh ? Vous ne semblez pas être du genre artistique..."
+    edo "Oh? Vous ne semblez pas être du genre artistique..."
 
 # game/code/Book-1/Chapter-7c/s03.rpy:186
 translate french b1c07cs03_45dfbf80:
@@ -302,7 +302,7 @@ translate french b1c07cs03_45dfbf80:
 translate french b1c07cs03_fd13de3e:
 
     # mct "Shit, it'll take more than a few empty compliments to impress her... What did me and Nia discuss at the art museum again?"
-    mct "Merde, il faudra plus que quelques compliments vides pour l'impressionner... Qu'est-ce qu'on avait discuté avec Nia au musée d'art déjà ?"
+    mct "Merde, il faudra plus que quelques compliments vides pour l'impressionner... Qu'est-ce qu'on avait discuté avec Nia au musée d'art déjà?"
 
 # game/code/Book-1/Chapter-7c/s03.rpy:192
 translate french b1c07cs03_36e8ef87:
@@ -350,13 +350,13 @@ translate french b1c07cs03_0c13da97:
 translate french b1c07cs03_4b1597f6:
 
     # edo "But a non-artist tells me I've inspired them? That's exhilarating."
-    edo "Mais qu'un non-artiste me dise que je l'ai inspiré ? C'est exaltant."
+    edo "Mais qu'un non-artiste me dise que je l'ai inspiré? C'est exaltant."
 
 # game/code/Book-1/Chapter-7c/s03.rpy:213
 translate french b1c07cs03_822aa5c3:
 
     # mc "How so?"
-    mc "Comment ça ?"
+    mc "Comment ça?"
 
 # game/code/Book-1/Chapter-7c/s03.rpy:216
 translate french b1c07cs03_810904e6:
@@ -374,7 +374,7 @@ translate french b1c07cs03_e2ef022e:
 translate french b1c07cs03_5e4bf435:
 
     # mc "Do you seek to inspire the uninspired, then?"
-    mc "Vous cherchez donc à inspirer les non-inspirés ?"
+    mc "Vous cherchez donc à inspirer les non-inspirés?"
 
 # game/code/Book-1/Chapter-7c/s03.rpy:224
 translate french b1c07cs03_54903bec:
@@ -386,7 +386,7 @@ translate french b1c07cs03_54903bec:
 translate french b1c07cs03_e5de2fc6:
 
     # mc "Then you must be in a devastating position without Maria. Who inspires you while you're keeping everyone else inspired?"
-    mc "Alors vous devez être dans une position dévastatrice sans Maria. Qui vous inspire pendant que vous inspirez tout le monde ?"
+    mc "Alors vous devez être dans une position dévastatrice sans Maria. Qui vous inspire pendant que vous inspirez tout le monde?"
 
 # game/code/Book-1/Chapter-7c/s03.rpy:230
 translate french b1c07cs03_4f70da4c:
@@ -398,7 +398,7 @@ translate french b1c07cs03_4f70da4c:
 translate french b1c07cs03_974ccfbd:
 
     # edo "You see? She is all around me. As long as I am here, so is she."
-    edo "Vous voyez ? Elle est partout autour de moi. Tant que je suis là, elle l'est aussi."
+    edo "Vous voyez? Elle est partout autour de moi. Tant que je suis là, elle l'est aussi."
 
 # game/code/Book-1/Chapter-7c/s03.rpy:236
 translate french b1c07cs03_e23bcfca:
@@ -422,13 +422,13 @@ translate french b1c07cs03_83e5abbb:
 translate french b1c07cs03_69dd477b:
 
     # edo "A part of me will always be wandering aimlessly without my beautiful Maria, but you? You can fill the time while I wait for her return."
-    edo "Une part de moi errera toujours sans but sans ma belle Maria, mais toi ? Tu peux occuper le temps pendant que j'attends son retour."
+    edo "Une part de moi errera toujours sans but sans ma belle Maria, mais toi? Tu peux occuper le temps pendant que j'attends son retour."
 
 # game/code/Book-1/Chapter-7c/s03.rpy:248
 translate french b1c07cs03_9b7a0567:
 
     # mc "And you're sure she'll return?"
-    mc "Et tu es sûre qu'elle reviendra ?"
+    mc "Et tu es sûre qu'elle reviendra?"
 
 # game/code/Book-1/Chapter-7c/s03.rpy:250
 translate french b1c07cs03_5b40fa87:
@@ -440,19 +440,19 @@ translate french b1c07cs03_5b40fa87:
 translate french b1c07cs03_9f9d1615:
 
     # edo "Of course Maria will return! Why on earth would you say she wouldn't?"
-    edo "Bien sûr Maria reviendra ! Pourquoi diable dirais-tu qu'elle ne reviendra pas ?"
+    edo "Bien sûr Maria reviendra! Pourquoi diable dirais-tu qu'elle ne reviendra pas?"
 
 # game/code/Book-1/Chapter-7c/s03.rpy:256
 translate french b1c07cs03_ff61486a:
 
     # edo "Do you think she's {i}dead{/i}?!"
-    edo "Tu penses qu'elle est {i}morte{/i} ?!"
+    edo "Tu penses qu'elle est {i}morte{/i}?!"
 
 # game/code/Book-1/Chapter-7c/s03.rpy:259
 translate french b1c07cs03_3b8c063c:
 
     # edo "How can she be dead when so much of her essence is in this very room?!"
-    edo "Comment pourrait-elle être morte alors qu'une grande partie de son essence est dans cette pièce même ?!"
+    edo "Comment pourrait-elle être morte alors qu'une grande partie de son essence est dans cette pièce même?!"
 
 # game/code/Book-1/Chapter-7c/s03.rpy:265
 translate french b1c07cs03_96566f20:
@@ -482,7 +482,7 @@ translate french b1c07cs03_7bfb2e72:
 translate french b1c07cs03_44c2d25f:
 
     # mc "I'm doing everything in my power to find out what happened to Maria. Do you know anything that could help?"
-    mc "Je fais tout ce qui est en mon pouvoir pour découvrir ce qui est arrivé à Maria. Sais-tu quelque chose qui pourrait m'aider ?"
+    mc "Je fais tout ce qui est en mon pouvoir pour découvrir ce qui est arrivé à Maria. Sais-tu quelque chose qui pourrait m'aider?"
 
 # game/code/Book-1/Chapter-7c/s03.rpy:280
 translate french b1c07cs03_b6e72954:
@@ -554,7 +554,7 @@ translate french b1c07cs03_ac53e7cc:
 translate french b1c07cs03_c7de064b:
 
     # edo "Oh? You're willing to come back?"
-    edo "Oh ? Tu es prêt à revenir ?"
+    edo "Oh? Tu es prêt à revenir?"
 
 # game/code/Book-1/Chapter-7c/s03.rpy:309
 translate french b1c07cs03_606e2d02:
@@ -566,7 +566,7 @@ translate french b1c07cs03_606e2d02:
 translate french b1c07cs03_0d3aefc8:
 
     # edo "And if I ask for more than just topless sketches next time?"
-    edo "Et si je demande plus que des croquis topless la prochaine fois ?"
+    edo "Et si je demande plus que des croquis topless la prochaine fois?"
 
 # game/code/Book-1/Chapter-7c/s03.rpy:315
 translate french b1c07cs03_e1f7f19e:
@@ -621,3 +621,4 @@ translate french b1c07cs03_1a5e340b:
 
     # "You leave the studio without hearing a goodbye from Ezra."
     "Tu quittes l'atelier sans entendre un au revoir d'Ezra."
+
