@@ -3,7 +3,7 @@ translate french strings:
 
     # game/code/data/characters.rpy:6
     old "You"
-    new "You"
+    new "Toi"
 
     # game/code/data/characters.rpy:9
     old "Maria"
@@ -111,7 +111,7 @@ translate french strings:
 
     # game/code/data/characters.rpy:38
     old "Past Corinne"
-    new "Past Corinne"
+    new "Passé Corinne"
 
     # game/code/data/characters.rpy:39
     old "Ridley"
@@ -203,11 +203,11 @@ translate french strings:
 
     # game/code/data/characters.rpy:63
     old "Professor James"
-    new "Professor James"
+    new "Professeur James"
 
     # game/code/data/characters.rpy:65
     old "Captain"
-    new "Captain"
+    new "Capitain"
 
     # game/code/data/characters.rpy:66
     old "Helen Desmond"
@@ -231,7 +231,7 @@ translate french strings:
 
     # game/code/data/characters.rpy:71
     old "Mother"
-    new "Mother"
+    new "Mère"
 
     # game/code/data/characters.rpy:72
     old "Lauren"
