@@ -3,15 +3,15 @@ translate french strings:
 
     # game/code/data/ib_characters.rpy:9
     old "Power"
-    new "Power"
+    new "Pouvoir"
 
     # game/code/data/ib_characters.rpy:9
     old "Student"
-    new "Student"
+    new "Étudiant"
 
     # game/code/data/ib_characters.rpy:9
     old "Computer Science & Design"
-    new "Computer Science & Design"
+    new "Informatique & Design"
 
     # game/code/data/ib_characters.rpy:9
     old "Melsbach"
@@ -19,7 +19,7 @@ translate french strings:
 
     # game/code/data/ib_characters.rpy:9
     old "Business Administration"
-    new "Business Administration"
+    new "Administration des affaires"
 
     # game/code/data/ib_characters.rpy:9
     old "Vann"
@@ -27,7 +27,7 @@ translate french strings:
 
     # game/code/data/ib_characters.rpy:9
     old "Pharmacology"
-    new "Pharmacology"
+    new "Pharmacologie"
 
     # game/code/data/ib_characters.rpy:9
     old "Fleur Fifi"
@@ -39,7 +39,7 @@ translate french strings:
 
     # game/code/data/ib_characters.rpy:9
     old "Computer Science"
-    new "Computer Science"
+    new "Informatique"
 
     # game/code/data/ib_characters.rpy:9
     old "Riese"
@@ -59,11 +59,11 @@ translate french strings:
 
     # game/code/data/ib_characters.rpy:9
     old "Environmental Science"
-    new "Environmental Science"
+    new "Sciences de l'environnement"
 
     # game/code/data/ib_characters.rpy:9
     old "Rehabilitation Therapy"
-    new "Rehabilitation Therapy"
+    new "Thérapie de réadaptation"
 
     # game/code/data/ib_characters.rpy:9
     old "Lowe"
@@ -71,7 +71,7 @@ translate french strings:
 
     # game/code/data/ib_characters.rpy:9
     old "Sports Journalism"
-    new "Sports Journalism"
+    new "Journalisme sportif"
 
     # game/code/data/ib_characters.rpy:9
     old "Riviera"
@@ -79,7 +79,7 @@ translate french strings:
 
     # game/code/data/ib_characters.rpy:9
     old "Physics"
-    new "Physics"
+    new "Physique"
 
     # game/code/data/ib_characters.rpy:9
     old "Mallon"
@@ -87,7 +87,7 @@ translate french strings:
 
     # game/code/data/ib_characters.rpy:9
     old "Theater Major"
-    new "Theater Major"
+    new "Spécialisation en théâtre"
 
     # game/code/data/ib_characters.rpy:9
     old "Adrichem"
@@ -95,7 +95,7 @@ translate french strings:
 
     # game/code/data/ib_characters.rpy:9
     old "Nuclear Engineering"
-    new "Nuclear Engineering"
+    new "Génie nucléaire"
 
     # game/code/data/ib_characters.rpy:9
     old "Antonova"
@@ -103,7 +103,7 @@ translate french strings:
 
     # game/code/data/ib_characters.rpy:9
     old "Fashion Design"
-    new "Fashion Design"
+    new "Design de mode"
 
     # game/code/data/ib_characters.rpy:9
     old "Kato"
@@ -111,7 +111,7 @@ translate french strings:
 
     # game/code/data/ib_characters.rpy:9
     old "Greek Classics & Classical Studies"
-    new "Greek Classics & Classical Studies"
+    new "Classiques grecs et études classiques"
 
     # game/code/data/ib_characters.rpy:9
     old "Jekyll"
@@ -119,7 +119,7 @@ translate french strings:
 
     # game/code/data/ib_characters.rpy:9
     old "English Language & Literature"
-    new "English Language & Literature"
+    new "Langue et littérature anglaises"
 
     # game/code/data/ib_characters.rpy:9
     old "Flanagon"
@@ -127,7 +127,7 @@ translate french strings:
 
     # game/code/data/ib_characters.rpy:9
     old "Music"
-    new "Music"
+    new "Musique"
 
     # game/code/data/ib_characters.rpy:9
     old "Hawthorne"
@@ -135,11 +135,11 @@ translate french strings:
 
     # game/code/data/ib_characters.rpy:9
     old "Medical"
-    new "Medical"
+    new "Médecine"
 
     # game/code/data/ib_characters.rpy:9
     old "Woods"
-    new "Woods"
+    new "Les bois"
 
     # game/code/data/ib_characters.rpy:9
     old "Dittmar"
@@ -147,7 +147,7 @@ translate french strings:
 
     # game/code/data/ib_characters.rpy:9
     old "High-ranking member in the self-help group"
-    new "High-ranking member in the self-help group"
+    new "Membre haut placé dans le groupe d'entraide"
 
     # game/code/data/ib_characters.rpy:9
     old "Daniels"
@@ -155,11 +155,11 @@ translate french strings:
 
     # game/code/data/ib_characters.rpy:9
     old "Cashier at the butcher's shop"
-    new "Cashier at the butcher's shop"
+    new "Caissière à la boucherie"
 
     # game/code/data/ib_characters.rpy:9
     old "Butcher"
-    new "Butcher"
+    new "Boucher"
 
     # game/code/data/ib_characters.rpy:9
     old "????"
@@ -167,11 +167,11 @@ translate french strings:
 
     # game/code/data/ib_characters.rpy:9
     old "The Artist"
-    new "The Artist"
+    new "L'Artiste"
 
     # game/code/data/ib_characters.rpy:9
     old "Artist"
-    new "Artist"
+    new "Artiste"
 
     # game/code/data/ib_characters.rpy:9
     old "Diana"
@@ -183,7 +183,7 @@ translate french strings:
 
     # game/code/data/ib_characters.rpy:9
     old "Faculty Advisor & History Professor"
-    new "Faculty Advisor & History Professor"
+    new "Conseiller académique et professeur d'histoire"
 
     # game/code/data/ib_characters.rpy:9
     old "Abel"
@@ -191,7 +191,7 @@ translate french strings:
 
     # game/code/data/ib_characters.rpy:9
     old "Physical Education Teacher"
-    new "Physical Education Teacher"
+    new "Professeur d'éducation physique"
 
     # game/code/data/ib_characters.rpy:9
     old "Ronja"
@@ -203,7 +203,7 @@ translate french strings:
 
     # game/code/data/ib_characters.rpy:9
     old "Chancellor & Chemistry Professor"
-    new "Chancellor & Chemistry Professor"
+    new "Chancelier et professeur de chimie"
 
     # game/code/data/ib_characters.rpy:9
     old "de la Cruz"
@@ -211,7 +211,7 @@ translate french strings:
 
     # game/code/data/ib_characters.rpy:9
     old "Law"
-    new "Law"
+    new "Droit"
 
     # game/code/data/ib_characters.rpy:9
     old "Crawford"
@@ -219,7 +219,7 @@ translate french strings:
 
     # game/code/data/ib_characters.rpy:9
     old "Economy"
-    new "Economy"
+    new "Économie"
 
     # game/code/data/ib_characters.rpy:9
     old "Maria Francesca"
@@ -231,7 +231,7 @@ translate french strings:
 
     # game/code/data/ib_characters.rpy:9
     old "History"
-    new "History"
+    new "Histoire"
 
     # game/code/data/ib_characters.rpy:48
     old "Gaia \"Lilith\""
@@ -243,7 +243,7 @@ translate french strings:
 
     # game/code/data/ib_characters.rpy:48
     old "Chemistry/Pre-Med"
-    new "Chemistry/Pre-Med"
+    new "Chimie/Pré-médecine"
 
     # game/code/data/ib_characters.rpy:48
     old "Garret"
@@ -255,7 +255,7 @@ translate french strings:
 
     # game/code/data/ib_characters.rpy:48
     old "Political Science"
-    new "Political Science"
+    new "Sciences Politiques"
 
     # game/code/data/ib_characters.rpy:48
     old "Sam De"
@@ -267,7 +267,7 @@ translate french strings:
 
     # game/code/data/ib_characters.rpy:48
     old "Love"
-    new "Love"
+    new "Amour"
 
     # game/code/data/ib_characters.rpy:48
     old "Harding"
@@ -307,7 +307,7 @@ translate french strings:
 
     # game/code/data/ib_characters.rpy:48
     old "Rival Team Spy"
-    new "Rival Team Spy"
+    new "Espion de l'équipe rivale"
 
     # game/code/data/ib_characters.rpy:48
     old "Hellena"
@@ -319,7 +319,7 @@ translate french strings:
 
     # game/code/data/ib_characters.rpy:48
     old "Gang leader of The Wasps"
-    new "Gang leader of The Wasps"
+    new "Chef de gang des Guêpes"
 
     # game/code/data/ib_characters.rpy:48
     old "Gabriella"
@@ -331,7 +331,7 @@ translate french strings:
 
     # game/code/data/ib_characters.rpy:48
     old "Cafeteria Lady"
-    new "Cafeteria Lady"
+    new "Dame de la cafétéria"
 
     # game/code/data/ib_characters.rpy:48
     old "James"
@@ -343,7 +343,7 @@ translate french strings:
 
     # game/code/data/ib_characters.rpy:48
     old "Professor & Alumnus"
-    new "Professor & Alumnus"
+    new "Professeur et ancien élève"
 
     # game/code/data/ib_characters.rpy:48
     old "Williams"
@@ -351,7 +351,7 @@ translate french strings:
 
     # game/code/data/ib_characters.rpy:48
     old "CCC Student"
-    new "CCC Student"
+    new "Étudiant du CCC"
 
     # game/code/data/ib_characters.rpy:48
     old "O'Neil"
@@ -371,11 +371,11 @@ translate french strings:
 
     # game/code/data/ib_characters.rpy:48
     old "Professor at Vinovella University"
-    new "Professor at Vinovella University"
+    new "Professeur à l'Université Vinovella"
 
     # game/code/data/ib_characters.rpy:48
     old "The Prophet"
-    new "The Prophet"
+    new "Le Prophète"
 
     # game/code/data/ib_characters.rpy:48
     old "Welch"
@@ -383,7 +383,7 @@ translate french strings:
 
     # game/code/data/ib_characters.rpy:48
     old "Forest ranger"
-    new "Forest ranger"
+    new "Garde forestier"
 
     # game/code/data/ib_characters.rpy:48
     old "Sloan T."
@@ -399,9 +399,9 @@ translate french strings:
 
     # game/code/data/ib_characters.rpy:48
     old "Winner's Club"
-    new "Winner's Club"
+    new "Club des gagnants"
 
     # game/code/data/ib_characters.rpy:48
     old "Cult"
-    new "Cult"
+    new "Culte"
 
