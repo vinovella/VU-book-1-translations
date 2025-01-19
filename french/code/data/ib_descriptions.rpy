@@ -319,7 +319,7 @@ translate french strings:
 
     # game/code/data/ib_descriptions.rpy:2
     old "Iona uses cocaine. I wonder where she gets her supply from?"
-    new "Iona consomme de la cocaïne. Je me demande d'où elle se procure sa drogue ?"
+    new "Iona consomme de la cocaïne. Je me demande d'où elle se procure sa drogue?"
 
     # game/code/data/ib_descriptions.rpy:2
     old "Reluctantly participates in drug use, appears uncomfortable with the situation."
@@ -743,7 +743,7 @@ translate french strings:
 
     # game/code/data/ib_descriptions.rpy:2
     old "Does she want Isa or does she want to hurt her?"
-    new "Veut-elle Isa ou veut-elle lui faire du mal ?"
+    new "Veut-elle Isa ou veut-elle lui faire du mal?"
 
     # game/code/data/ib_descriptions.rpy:2
     old "Got kicked from the Winner's Club because she crashed an important party that Isa threw."

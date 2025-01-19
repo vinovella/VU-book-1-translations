@@ -26,19 +26,19 @@ translate french b1c09s10_018bb459:
 translate french replay_b1c09s10_ed33b826:
 
     # ir "Guess who!"
-    ir "Devine qui c'est !"
+    ir "Devine qui c'est!"
 
 # game/code/Book-1/Chapter-9/s10.rpy:98
 translate french replay_b1c09s10_ed1539b2:
 
     # mc "Just couldn't get enough of me, I assume?"
-    mc "Tu n'as tout simplement pas pu te passer de moi, je suppose ?"
+    mc "Tu n'as tout simplement pas pu te passer de moi, je suppose?"
 
 # game/code/Book-1/Chapter-9/s10.rpy:101
 translate french replay_b1c09s10_6c946ce5:
 
     # ima "Hah! Arrogance is such an unbecoming trait for such a pretty face."
-    ima "Hah ! L'arrogance est un trait tellement détestable pour un joli visage."
+    ima "Hah! L'arrogance est un trait tellement détestable pour un joli visage."
 
 # game/code/Book-1/Chapter-9/s10.rpy:104
 translate french replay_b1c09s10_7b0eedf2:
@@ -62,7 +62,7 @@ translate french replay_b1c09s10_cb718414_1:
 translate french replay_b1c09s10_dac46297:
 
     # mc "Oh? What is it?"
-    mc "Oh ? C'est quoi ?"
+    mc "Oh? C'est quoi?"
 
 # game/code/Book-1/Chapter-9/s10.rpy:113
 translate french replay_b1c09s10_002c9591:
@@ -74,13 +74,13 @@ translate french replay_b1c09s10_002c9591:
 translate french replay_b1c09s10_34547add:
 
     # mc "Really? Seems a little cliche, don't ya think?"
-    mc "Vraiment ? Ça semble un peu cliché, tu ne trouves pas ?"
+    mc "Vraiment? Ça semble un peu cliché, tu ne trouves pas?"
 
 # game/code/Book-1/Chapter-9/s10.rpy:118
 translate french replay_b1c09s10_53c70584:
 
     # ir "Do you wanna see us naked at the same time or not, no-balls?"
-    ir "Tu veux nous voir nues en même temps ou pas, sans couilles ?"
+    ir "Tu veux nous voir nues en même temps ou pas, sans couilles?"
 
 # game/code/Book-1/Chapter-9/s10.rpy:121
 translate french replay_b1c09s10_2cd8c050:
@@ -98,7 +98,7 @@ translate french replay_b1c09s10_8e3aee52:
 translate french replay_b1c09s10_c1ef4916:
 
     # ir "So you {i}do{/i} want to see us both naked?"
-    ir "Donc tu veux {i}vraiment{/i} nous voir toutes les deux nues ?"
+    ir "Donc tu veux {i}vraiment{/i} nous voir toutes les deux nues?"
 
 # game/code/Book-1/Chapter-9/s10.rpy:134
 translate french replay_b1c09s10_2b4ced5f:
@@ -128,25 +128,25 @@ translate french replay_b1c09s10_6067ffa7:
 translate french replay_b1c09s10_59350a5c:
 
     # ima "So what if we do?"
-    ima "Et alors si c'est le cas ?"
+    ima "Et alors si c'est le cas?"
 
 # game/code/Book-1/Chapter-9/s10.rpy:155
 translate french replay_b1c09s10_8fa0b987:
 
     # ima "I've seen you before. Is it such a crime to want another glimpse?"
-    ima "Je t'ai déjà vu. Est-ce un crime de vouloir un autre aperçu ?"
+    ima "Je t'ai déjà vu. Est-ce un crime de vouloir un autre aperçu?"
 
 # game/code/Book-1/Chapter-9/s10.rpy:156
 translate french replay_b1c09s10_0c5d7e03:
 
     # ima "Or a taste, for that matter?"
-    ima "Ou un petit goût, à la rigueur ?"
+    ima "Ou un petit goût, à la rigueur?"
 
 # game/code/Book-1/Chapter-9/s10.rpy:165
 translate french replay_b1c09s10_878aa8a3:
 
     # mc "Yeah, so what If I do want to see you both naked?"
-    mc "Ouais, et alors si je veux vraiment vous voir toutes les deux nues ?"
+    mc "Ouais, et alors si je veux vraiment vous voir toutes les deux nues?"
 
 # game/code/Book-1/Chapter-9/s10.rpy:168
 translate french replay_b1c09s10_b59d211b:
@@ -164,19 +164,19 @@ translate french replay_b1c09s10_69ea1c18:
 translate french replay_b1c09s10_3d8fa82f:
 
     # mc "Alright, so when do we streak? What's the plan?"
-    mc "D'accord, alors quand est-ce qu'on court à poil ? Quel est le plan ?"
+    mc "D'accord, alors quand est-ce qu'on court à poil? Quel est le plan?"
 
 # game/code/Book-1/Chapter-9/s10.rpy:176
 translate french replay_b1c09s10_323e2691:
 
     # ima "Right now! Iona and I found some masks so no one can tell it's us."
-    ima "Maintenant ! Iona et moi avons trouvé des masques pour que personne ne puisse savoir que c'est nous."
+    ima "Maintenant! Iona et moi avons trouvé des masques pour que personne ne puisse savoir que c'est nous."
 
 # game/code/Book-1/Chapter-9/s10.rpy:179
 translate french replay_b1c09s10_3fca8536:
 
     # mc "Isn't it kind of obvious? People know what we look like."
-    mc "Ce n'est pas un peu évident ? Les gens savent à quoi on ressemble."
+    mc "Ce n'est pas un peu évident? Les gens savent à quoi on ressemble."
 
 # game/code/Book-1/Chapter-9/s10.rpy:182
 translate french replay_b1c09s10_5ecdcd04:
@@ -188,7 +188,7 @@ translate french replay_b1c09s10_5ecdcd04:
 translate french replay_b1c09s10_b8ab4a8c:
 
     # ir "C'mon! We can strip in my room."
-    ir "Allez ! On peut se déshabiller dans ma chambre."
+    ir "Allez! On peut se déshabiller dans ma chambre."
 
 # game/code/Book-1/Chapter-9/s10.rpy:204
 translate french replay_b1c09s10_00f46089:
@@ -218,13 +218,13 @@ translate french replay_b1c09s10_3248d962:
 translate french replay_b1c09s10_9ddc98ed:
 
     # ima "Oh! Don't be a suck up."
-    ima "Oh ! Ne sois pas un lèche-cul."
+    ima "Oh! Ne sois pas un lèche-cul."
 
 # game/code/Book-1/Chapter-9/s10.rpy:225
 translate french replay_b1c09s10_ef6f7f7b:
 
     # ir "Whatever!"
-    ir "Peu importe !"
+    ir "Peu importe!"
 
 # game/code/Book-1/Chapter-9/s10.rpy:244
 translate french replay_b1c09s10_0abc356f:
@@ -248,7 +248,7 @@ translate french replay_b1c09s10_f9d1c01f:
 translate french replay_b1c09s10_eacf912b:
 
     # mc "Something funny?"
-    mc "Quelque chose de drôle ?"
+    mc "Quelque chose de drôle?"
 
 # game/code/Book-1/Chapter-9/s10.rpy:258
 translate french replay_b1c09s10_28ec9ff6:
@@ -272,13 +272,13 @@ translate french replay_b1c09s10_57ffbb5d:
 translate french replay_b1c09s10_12e76bd5:
 
     # ima "Alright, everyone ready?"
-    ima "D'accord, tout le monde est prêt ?"
+    ima "D'accord, tout le monde est prêt?"
 
 # game/code/Book-1/Chapter-9/s10.rpy:279
 translate french replay_b1c09s10_b24040ab:
 
     # ir "Fuck yeah!"
-    ir "Putain ouais !"
+    ir "Putain ouais!"
 
 # game/code/Book-1/Chapter-9/s10.rpy:281
 translate french replay_b1c09s10_aa3c88de:
@@ -290,25 +290,25 @@ translate french replay_b1c09s10_aa3c88de:
 translate french replay_b1c09s10_52ff2805:
 
     # ima "Let's go!"
-    ima "On y va !"
+    ima "On y va!"
 
 # game/code/Book-1/Chapter-9/s10.rpy:306
 translate french b1c09s10_naked_run_040d95e9:
 
     # mm "Finally! The party is getting good."
-    mm "Enfin ! La fête devient intéressante."
+    mm "Enfin! La fête devient intéressante."
 
 # game/code/Book-1/Chapter-9/s10.rpy:308
 translate french b1c09s10_naked_run_57b67f36:
 
     # sl "It's not a party until somebody streaks!"
-    sl "Ce n'est pas une fête tant que quelqu'un ne court pas à poil !"
+    sl "Ce n'est pas une fête tant que quelqu'un ne court pas à poil!"
 
 # game/code/Book-1/Chapter-9/s10.rpy:327
 translate french b1c09s10_naked_run_dba523b9:
 
     # ir "Where to next?"
-    ir "On va où maintenant ?"
+    ir "On va où maintenant?"
 
 # game/code/Book-1/Chapter-9/s10.rpy:329
 translate french b1c09s10_naked_run_84de1ce8:
@@ -320,7 +320,7 @@ translate french b1c09s10_naked_run_84de1ce8:
 translate french b1c09s10_naked_run_c5bceaae:
 
     # mc "What the fuck?!"
-    mc "C'est quoi ce bordel ?!"
+    mc "C'est quoi ce bordel?!"
 
 # game/code/Book-1/Chapter-9/s10.rpy:345
 translate french b1c09s10_naked_run_18cbd16f:
@@ -350,7 +350,7 @@ translate french b1c09s10_naked_run_8c8b38fd:
 translate french b1c09s10_naked_run_0d022b7b:
 
     # mc "What the fuck is your problem, Brig?"
-    mc "C'est quoi ton problème, Brig ?"
+    mc "C'est quoi ton problème, Brig?"
 
 # game/code/Book-1/Chapter-9/s10.rpy:361
 translate french b1c09s10_naked_run_4b248b9a:
@@ -374,13 +374,13 @@ translate french b1c09s10_naked_run_cfdedb2f:
 translate french b1c09s10_naked_run_7ebe7b08:
 
     # mc "So that makes it okay to dump shit on me?!"
-    mc "Alors ça fait que c'est ok de me balancer des conneries dessus ?!"
+    mc "Alors ça fait que c'est ok de me balancer des conneries dessus?!"
 
 # game/code/Book-1/Chapter-9/s10.rpy:372
 translate french b1c09s10_naked_run_bd54584c:
 
     # ba "Oh c'mon! Don't get so emotional!"
-    ba "Oh allez ! Ne deviens pas si émotionnel !"
+    ba "Oh allez! Ne deviens pas si émotionnel!"
 
 # game/code/Book-1/Chapter-9/s10.rpy:373
 translate french b1c09s10_naked_run_68536919:
@@ -398,25 +398,25 @@ translate french b1c09s10_naked_run_667b4b8e:
 translate french b1c09s10_naked_run_e823c01c:
 
     # mc "Why do you have to be such a bitch to me?"
-    mc "Pourquoi tu dois être une salope avec moi ?"
+    mc "Pourquoi tu dois être une salope avec moi?"
 
 # game/code/Book-1/Chapter-9/s10.rpy:381
 translate french b1c09s10_naked_run_cbfbaf41:
 
     # mc "What the fuck have I ever done to you?"
-    mc "Qu'est-ce que je t'ai fait pour mériter ça ?"
+    mc "Qu'est-ce que je t'ai fait pour mériter ça?"
 
 # game/code/Book-1/Chapter-9/s10.rpy:385
 translate french b1c09s10_naked_run_b9a3c51c:
 
     # ba "Oh, {i}I'm{/i} the bitch? You think you're so fucking perfect, don't you?"
-    ba "Oh, {i}moi{/i} la salope ? Tu te crois tellement parfait, hein ?"
+    ba "Oh, {i}moi{/i} la salope? Tu te crois tellement parfait, hein?"
 
 # game/code/Book-1/Chapter-9/s10.rpy:386
 translate french b1c09s10_naked_run_d43ef60e:
 
     # ba "Do you even hear yourself?"
-    ba "Tu t'entends au moins ?"
+    ba "Tu t'entends au moins?"
 
 # game/code/Book-1/Chapter-9/s10.rpy:389
 translate french b1c09s10_naked_run_ed7f785f:
@@ -428,7 +428,7 @@ translate french b1c09s10_naked_run_ed7f785f:
 translate french b1c09s10_naked_run_96317908:
 
     # mc "Not when I've done nothing wrong!"
-    mc "Pas quand je n'ai rien fait de mal !"
+    mc "Pas quand je n'ai rien fait de mal!"
 
 # game/code/Book-1/Chapter-9/s10.rpy:394
 translate french b1c09s10_naked_run_5e3b62fd:
@@ -452,7 +452,7 @@ translate french b1c09s10_naked_run_5c000877:
 translate french b1c09s10_naked_run_b5b7dfbd:
 
     # ba "Don't fucking lie about it!"
-    ba "Ne mens pas à ce sujet !"
+    ba "Ne mens pas à ce sujet!"
 
 # game/code/Book-1/Chapter-9/s10.rpy:403
 translate french b1c09s10_naked_run_51684bc3:
@@ -512,7 +512,7 @@ translate french b1c09s10_naked_run_f12b8e05:
 translate french b1c09s10_naked_run_60555b85:
 
     # ba "Hey! What the hell are you doing?!"
-    ba "Hé ! Qu'est-ce que tu fous ?!"
+    ba "Hé! Qu'est-ce que tu fous?!"
 
 # game/code/Book-1/Chapter-9/s10.rpy:479
 translate french b1c09s10_naked_run_0fb6fd01:
@@ -548,7 +548,7 @@ translate french b1c09s10_naked_run_57457742:
 translate french b1c09s10_naked_run_399b736b:
 
     # ba "Let me go you limpdicked pig!"
-    ba "Laisse-moi partir, espèce de porc impuissant !"
+    ba "Laisse-moi partir, espèce de porc impuissant!"
 
 # game/code/Book-1/Chapter-9/s10.rpy:495
 translate french b1c09s10_naked_run_4c5bdb70:
@@ -566,13 +566,13 @@ translate french b1c09s10_naked_run_42cf47b5:
 translate french b1c09s10_naked_run_c615a7d2:
 
     # ba "You dick!"
-    ba "Connard !"
+    ba "Connard!"
 
 # game/code/Book-1/Chapter-9/s10.rpy:519
 translate french b1c09s10_naked_run_349516b3:
 
     # ir "All good?"
-    ir "Tout va bien ?"
+    ir "Tout va bien?"
 
 # game/code/Book-1/Chapter-9/s10.rpy:521
 translate french b1c09s10_naked_run_547dc7f7:
@@ -590,13 +590,13 @@ translate french b1c09s10_naked_run_d925791b:
 translate french b1c09s10_naked_run_290ad3c2:
 
     # ima "Let's streak around the pool. Ready?"
-    ima "Faisons une course nue autour de la piscine. Prêt ?"
+    ima "Faisons une course nue autour de la piscine. Prêt?"
 
 # game/code/Book-1/Chapter-9/s10.rpy:531
 translate french b1c09s10_naked_run_375eaefd:
 
     # mc "Let's go!"
-    mc "C'est parti !"
+    mc "C'est parti!"
 
 # game/code/Book-1/Chapter-9/s10.rpy:540
 translate french b1c09s10_naked_run_4454862b:
@@ -614,13 +614,13 @@ translate french b1c09s10_naked_run_db08e8bc:
 translate french b1c09s10_naked_run_b5744565:
 
     # ima "My! That was riveting."
-    ima "Mon dieu ! C'était captivant."
+    ima "Mon dieu! C'était captivant."
 
 # game/code/Book-1/Chapter-9/s10.rpy:574
 translate french b1c09s10_naked_run_a6cc2bc3:
 
     # ima "Ugh! I'm all wet."
-    ima "Beurk ! Je suis toute mouillée."
+    ima "Beurk! Je suis toute mouillée."
 
 # game/code/Book-1/Chapter-9/s10.rpy:576
 translate french b1c09s10_naked_run_c5a5014d:
@@ -632,7 +632,7 @@ translate french b1c09s10_naked_run_c5a5014d:
 translate french b1c09s10_naked_run_4e7495a5:
 
     # ima "What can I say? I can't resist a bit of drama."
-    ima "Que veux-tu que je dise ? Je ne peux pas résister à un peu de drame."
+    ima "Que veux-tu que je dise? Je ne peux pas résister à un peu de drame."
 
 # game/code/Book-1/Chapter-9/s10.rpy:581
 translate french b1c09s10_naked_run_09aa80b4:
@@ -668,7 +668,7 @@ translate french b1c09s10_sex_d9b75fe2:
 translate french b1c09s10_sex_4cd38214:
 
     # ir "You wanna do something about it, handsome?"
-    ir "Tu veux faire quelque chose, mon beau ?"
+    ir "Tu veux faire quelque chose, mon beau?"
 
 # game/code/Book-1/Chapter-9/s10.rpy:618
 translate french b1c09s10_sex_32321020:
@@ -806,19 +806,19 @@ translate french b1c09s10_ir_sex_084fc76f:
 translate french b1c09s10_ir_sex_de55aa73:
 
     # ir "Mmhm! Keep-keep going."
-    ir "Mmhm ! Continue, continue."
+    ir "Mmhm! Continue, continue."
 
 # game/code/Book-1/Chapter-9/s10.rpy:765
 translate french b1c09s10_ir_sex_b8b4e0bc:
 
     # ir "Mm! Fuck, I'm-I'm gonna cum."
-    ir "Mm ! Putain, je vais-je vais jouir."
+    ir "Mm! Putain, je vais-je vais jouir."
 
 # game/code/Book-1/Chapter-9/s10.rpy:770
 translate french b1c09s10_ir_sex_26abb917:
 
     # "You feel Iona's body convulse around you, cumming hard and fast on you." id b1c09s10_ir_sex_26abb917
-    "Tu sens le corps d'Iona se convulser autour de toi, jouissant fort et vite sur toi." identifiant b1c09s10_ir_sex_26abb917
+    "Tu sens le corps d'Iona se convulser autour de toi, jouissant fort et vite sur toi." id b1c09s10_ir_sex_26abb917
 
 # game/code/Book-1/Chapter-9/s10.rpy:778
 translate french b1c09s10_ir_sex_23a49253:
@@ -866,7 +866,7 @@ translate french b1c09s10_ir_sex_6c1a2b68:
 translate french b1c09s10_ir_sex_35216061:
 
     # "Iona's hand works your cock, stroking you in all the right ways." id b1c09s10_ir_sex_35216061
-    "La main d'Iona travaille ta bite, te caressant de toutes les bonnes manières." identifiant b1c09s10_ir_sex_35216061
+    "La main d'Iona travaille ta bite, te caressant de toutes les bonnes manières." id b1c09s10_ir_sex_35216061
 
 # game/code/Book-1/Chapter-9/s10.rpy:816
 translate french b1c09s10_ir_sex_60299c48:
@@ -884,7 +884,7 @@ translate french b1c09s10_ir_sex_f049496c:
 translate french b1c09s10_ir_sex_50067801:
 
     # mc "I'm cumming!"
-    mc "Je jouis !"
+    mc "Je jouis!"
 
 # game/code/Book-1/Chapter-9/s10.rpy:828
 translate french b1c09s10_ir_sex_d0842aa6:
@@ -926,7 +926,7 @@ translate french b1c09s10_ir_sex_7cabd840:
 translate french b1c09s10_ir_sex_17c60e3a:
 
     # ir "It might be my idea, but you're the one who goes along with it! *Giggles*"
-    ir "C'est peut-être mon idée, mais c'est toi qui l'accepte ! *Rires*"
+    ir "C'est peut-être mon idée, mais c'est toi qui l'accepte! *Rires*"
 
 # game/code/Book-1/Chapter-9/s10.rpy:856
 translate french b1c09s10_ir_sex_d3be4f92:
@@ -938,7 +938,7 @@ translate french b1c09s10_ir_sex_d3be4f92:
 translate french b1c09s10_ir_sex_bfee0796:
 
     # ir "Hah! You'll have to catch me first."
-    ir "Hah ! Tu devras d'abord m'attraper."
+    ir "Hah! Tu devras d'abord m'attraper."
 
 # game/code/Book-1/Chapter-9/s10.rpy:860
 translate french b1c09s10_ir_sex_4e25cc02:
@@ -958,7 +958,7 @@ translate french strings:
 
     # game/code/Book-1/Chapter-9/s10.rpy:127
     old "What if I do want to see you both?"
-    new "Et si je veux vous voir tous les deux ?"
+    new "Et si je veux vous voir tous les deux?"
 
     # game/code/Book-1/Chapter-9/s10.rpy:420
     old "Talk with your body"

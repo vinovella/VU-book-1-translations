@@ -14,7 +14,7 @@ translate french b1c09s09w_c2b8e801:
 translate french b1c09s09w_a481dbf4:
 
     # sm "Yes, we're so glad you're here!"
-    sm "Oui, on est tellement content que tu sois là !"
+    sm "Oui, on est tellement content que tu sois là!"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:36
 translate french b1c09s09w_e290266d:
@@ -26,13 +26,13 @@ translate french b1c09s09w_e290266d:
 translate french b1c09s09w_b6099e73:
 
     # mc "I guess they got right into it, huh?"
-    mc "Je suppose qu'ils ont directement plongé dedans, hein ?"
+    mc "Je suppose qu'ils ont directement plongé dedans, hein?"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:42
 translate french b1c09s09w_95c0f8d0:
 
     # oa "Ha! All Monika does is get into it. And Simon just likes to tag along."
-    oa "Ha ! Tout ce que fait Monika, c'est s'y plonger. Et Simon aime juste suivre."
+    oa "Ha! Tout ce que fait Monika, c'est s'y plonger. Et Simon aime juste suivre."
 
 # game/code/Book-1/Chapter-9/s09w.rpy:45
 translate french b1c09s09w_c7aaccd6:
@@ -50,13 +50,13 @@ translate french b1c09s09w_77c3e10a:
 translate french b1c09s09w_ce5df205:
 
     # mct "What does Silvia mean by a past feud?"
-    mct "Que veut dire Silvia par une vieille querelle ?"
+    mct "Que veut dire Silvia par une vieille querelle?"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:60
 translate french b1c09s09w_5f375110:
 
     # ima "Eee! I was hoping I'd see you in here!"
-    ima "Eee ! J'espérais te voir ici !"
+    ima "Eee! J'espérais te voir ici!"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:62
 translate french b1c09s09w_5a864e58:
@@ -68,7 +68,7 @@ translate french b1c09s09w_5a864e58:
 translate french b1c09s09w_aa8a8184:
 
     # ima "Are you enjoying the party?"
-    ima "Tu t'amuses à la fête ?"
+    ima "Tu t'amuses à la fête?"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:65
 translate french b1c09s09w_7babd077:
@@ -92,37 +92,37 @@ translate french b1c09s09w_77cc839d:
 translate french replay_b1c09s09w_22fa191b:
 
     # ir "WHOO! I feel great!"
-    ir "WHOO ! Je me sens super bien !"
+    ir "WHOO! Je me sens super bien!"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:89
 translate french replay_b1c09s09w_066f64be:
 
     # ir "Are you fuckers ready for a strip tease?!"
-    ir "Vous êtes prêts pour un strip-tease, bande de connards ?!"
+    ir "Vous êtes prêts pour un strip-tease, bande de connards?!"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:92
 translate french replay_b1c09s09w_a96851f9:
 
     # sl "Fuck yeah!"
-    sl "Ouais, bordel !"
+    sl "Ouais, bordel!"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:94
 translate french replay_b1c09s09w_49e2c898:
 
     # mm "You read my mind!"
-    mm "Tu as lu dans mes pensées !"
+    mm "Tu as lu dans mes pensées!"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:97
 translate french replay_b1c09s09w_55894af8:
 
     # oa "A strip tease?"
-    oa "Un strip-tease ?"
+    oa "Un strip-tease?"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:100
 translate french replay_b1c09s09w_db94a4f5:
 
     # ima "No more drinks for those three, okay? They'll ransack the place if they get any more blasted."
-    ima "Plus de boissons pour ces trois-là, d'accord ? Ils vont saccager l'endroit s'ils boivent encore plus."
+    ima "Plus de boissons pour ces trois-là, d'accord? Ils vont saccager l'endroit s'ils boivent encore plus."
 
 # game/code/Book-1/Chapter-9/s09w.rpy:101
 translate french replay_b1c09s09w_9b49a262:
@@ -134,19 +134,19 @@ translate french replay_b1c09s09w_9b49a262:
 translate french replay_b1c09s09w_5293303d:
 
     # ir "That's fucking right! We're gonna have a strip off! We'll each do a little dance and take something off until we bitch out and can't anymore..."
-    ir "C'est exactement ça ! On va faire un concours de strip-tease ! On va chacun faire un petit danse et enlever quelque chose jusqu'à ce qu'on abandonne et qu'on ne puisse plus..."
+    ir "C'est exactement ça! On va faire un concours de strip-tease! On va chacun faire un petit danse et enlever quelque chose jusqu'à ce qu'on abandonne et qu'on ne puisse plus..."
 
 # game/code/Book-1/Chapter-9/s09w.rpy:108
 translate french replay_b1c09s09w_2a27881a:
 
     # ir "Or until there's nothing else to take off. Whoever takes off the least, LOSES!"
-    ir "Ou jusqu'à ce qu'il n'y ait plus rien à enlever. Celui qui enlève le moins, PERD !"
+    ir "Ou jusqu'à ce qu'il n'y ait plus rien à enlever. Celui qui enlève le moins, PERD!"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:109
 translate french replay_b1c09s09w_677747ab:
 
     # ir "And whoever takes off the most, gets another round of drinks!"
-    ir "Et celui qui enlève le plus, aura une autre tournée de boissons !"
+    ir "Et celui qui enlève le plus, aura une autre tournée de boissons!"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:112
 translate french replay_b1c09s09w_362d6e1e:
@@ -158,13 +158,13 @@ translate french replay_b1c09s09w_362d6e1e:
 translate french replay_b1c09s09w_0c76b422:
 
     # sl "And what happens if we lose?"
-    sl "Et que se passe-t-il si on perd ?"
+    sl "Et que se passe-t-il si on perd?"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:118
 translate french replay_b1c09s09w_946fd963:
 
     # ir "YA GET DUMPED IN THE POOL!"
-    ir "VOUS ÊTES JETÉS DANS LA PISCINE !"
+    ir "VOUS ÊTES JETÉS DANS LA PISCINE!"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:122
 translate french replay_b1c09s09w_c33b8fbc:
@@ -182,7 +182,7 @@ translate french replay_b1c09s09w_d8ce0219:
 translate french replay_b1c09s09w_49024973:
 
     # ir "Everyone gather around! We'll let each contestant dance on this shaky ass table! I'm sure it'll be fine."
-    ir "Tout le monde, rassemblez-vous ! On va laisser chaque participant danser sur cette table branlante ! Je suis sûr que ça ira."
+    ir "Tout le monde, rassemblez-vous! On va laisser chaque participant danser sur cette table branlante! Je suis sûr que ça ira."
 
 # game/code/Book-1/Chapter-9/s09w.rpy:133
 translate french replay_b1c09s09w_8deec457:
@@ -200,13 +200,13 @@ translate french replay_b1c09s09w_a1587353:
 translate french replay_b1c09s09w_f5a66e35:
 
     # mm "Of course I can! How broke do you think I am?!"
-    mm "Bien sûr que je peux ! Tu me prends pour qui, un clochard ?!"
+    mm "Bien sûr que je peux! Tu me prends pour qui, un clochard?!"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:144
 translate french replay_b1c09s09w_90ef9711:
 
     # ba "Will you two shut up?"
-    ba "Vous deux, vous allez fermer vos bouches ?"
+    ba "Vous deux, vous allez fermer vos bouches?"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:151
 translate french replay_b1c09s09w_f774cf0e:
@@ -218,7 +218,7 @@ translate french replay_b1c09s09w_f774cf0e:
 translate french replay_b1c09s09w_24d4e0b7:
 
     # ir "Nah-uh! You get out of way too much partying, Olesya. You're participating in this one."
-    ir "Non ! Tu te caches trop derrière la fête, Olesya. Tu participes à celle-ci."
+    ir "Non! Tu te caches trop derrière la fête, Olesya. Tu participes à celle-ci."
 
 # game/code/Book-1/Chapter-9/s09w.rpy:158
 translate french replay_b1c09s09w_32e18697:
@@ -242,7 +242,7 @@ translate french replay_b1c09s09w_5179dacb:
 translate french replay_b1c09s09w_4cd6842d:
 
     # ir "I'll go first!"
-    ir "Je commence !"
+    ir "Je commence!"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:173
 translate french replay_b1c09s09w_1991cf89:
@@ -266,7 +266,7 @@ translate french replay_b1c09s09w_5f05341c:
 translate french replay_b1c09s09w_ba382689:
 
     # mm "Is that all you've got, you spoiled nepo baby!?"
-    mm "C'est tout ce que tu as, espèce de bébé gâté !?"
+    mm "C'est tout ce que tu as, espèce de bébé gâté!?"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:185
 translate french replay_b1c09s09w_d3fac956:
@@ -284,7 +284,7 @@ translate french replay_b1c09s09w_f7414b36:
 translate french replay_b1c09s09w_7edbbfe8:
 
     # ir "Alright, someone else's turn!"
-    ir "Bon, au tour de quelqu'un d'autre !"
+    ir "Bon, au tour de quelqu'un d'autre!"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:246
 translate french b1c09s09w_cheer_ir_7ea0bbde:
@@ -326,13 +326,13 @@ translate french b1c09s09w_cheer_ir_9103051d:
 translate french b1c09s09w_cheer_ir_9f18989b:
 
     # mm "Whoo! *Laughs* Save some game for the rest of us, slut!"
-    mm "Ouais ! *Rit* Laisse un peu de jeu pour les autres, salope !"
+    mm "Ouais! *Rit* Laisse un peu de jeu pour les autres, salope!"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:269
 translate french b1c09s09w_cheer_ir_9a13c8b8:
 
     # ima "God damn! Get it, girl."
-    ima "Putain ! Vas-y, ma belle."
+    ima "Putain! Vas-y, ma belle."
 
 # game/code/Book-1/Chapter-9/s09w.rpy:271
 translate french b1c09s09w_cheer_ir_d3a783b4:
@@ -350,7 +350,7 @@ translate french b1c09s09w_cheer_ir_fd48cb8a:
 translate french b1c09s09w_ima_show_554b433b:
 
     # ima "Me next, me next!"
-    ima "Moi, ensuite, moi !"
+    ima "Moi, ensuite, moi!"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:289
 translate french b1c09s09w_ima_show_b82ab687:
@@ -392,19 +392,19 @@ translate french b1c09s09w_ima_show_fc77f8db:
 translate french b1c09s09w_ima_show_3a972a14:
 
     # ir "Yeah! Strip more!"
-    ir "Ouais ! Enlève encore plus !"
+    ir "Ouais! Enlève encore plus!"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:310
 translate french b1c09s09w_ima_show_d3798c63:
 
     # mm "Give us more!"
-    mm "Donne-nous encore plus !"
+    mm "Donne-nous encore plus!"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:316
 translate french b1c09s09w_ima_show_745000a0:
 
     # sl "Fuck us up, woman! Blow our minds!"
-    sl "Fous-nous en l'air, femme ! Épate-nous !"
+    sl "Fous-nous en l'air, femme! Épate-nous!"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:332
 translate french b1c09s09w_ima_show_4f735786:
@@ -416,19 +416,19 @@ translate french b1c09s09w_ima_show_4f735786:
 translate french b1c09s09w_ima_show_a96851f9:
 
     # sl "Fuck yeah!"
-    sl "Putain ouais !"
+    sl "Putain ouais!"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:338
 translate french b1c09s09w_ima_show_aa0599ca:
 
     # ir "That's right, show off for us, baby!"
-    ir "C'est ça, montre-toi pour nous, bébé !"
+    ir "C'est ça, montre-toi pour nous, bébé!"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:347
 translate french b1c09s09w_cheer_ima_4574bf9e:
 
     # mc "Show us what you got, Isa!"
-    mc "Montre-nous ce que tu as, Isa !"
+    mc "Montre-nous ce que tu as, Isa!"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:350
 translate french b1c09s09w_cheer_ima_06f6602f:
@@ -452,7 +452,7 @@ translate french b1c09s09w_cheer_ima_17ff93b7:
 translate french b1c09s09w_cheer_ima_21801bed:
 
     # mm "Now we're talking! Keep going, beautiful!"
-    mm "Là on parle ! Continue, magnifique !"
+    mm "Là on parle! Continue, magnifique!"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:365
 translate french b1c09s09w_cheer_ima_95ac0811:
@@ -482,13 +482,13 @@ translate french b1c09s09w_cheer_ima_4424aa57:
 translate french b1c09s09w_cheer_ima_49047b18:
 
     # mm "Holy shit! Now that's what we want to see!"
-    mm "Putain de merde ! Voilà ce qu'on veut voir !"
+    mm "Putain de merde! Voilà ce qu'on veut voir!"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:379
 translate french b1c09s09w_cheer_ima_6afac555:
 
     # ir "Hot damn!!"
-    ir "Putain, ça chauffe !!"
+    ir "Putain, ça chauffe!!"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:382
 translate french b1c09s09w_cheer_ima_b70ca53f:
@@ -506,7 +506,7 @@ translate french b1c09s09w_ba_show_cc65ba2a:
 translate french b1c09s09w_ba_show_240ada6d:
 
     # ir "Who's next?"
-    ir "Qui est le prochain ?"
+    ir "Qui est le prochain?"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:402
 translate french b1c09s09w_ba_show_ad592de7:
@@ -614,31 +614,31 @@ translate french b1c09s09w_ba_show_ca6f43af:
 translate french b1c09s09w_ba_show_b3acdd02:
 
     # sl "Holy fuck!"
-    sl "Putain de merde !"
+    sl "Putain de merde!"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:470
 translate french b1c09s09w_ba_show_0fd6ad03:
 
     # ir "HOT DAMN!"
-    ir "PUTAIN DE MERDE !"
+    ir "PUTAIN DE MERDE!"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:477
 translate french b1c09s09w_ba_show_8efd82f3:
 
     # ba "Like what you see, perv?"
-    ba "Tu aimes ce que tu vois, pervers ?"
+    ba "Tu aimes ce que tu vois, pervers?"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:479
 translate french b1c09s09w_ba_show_db099e16:
 
     # ba "I bet you think this is alllll for you, dontcha?"
-    ba "Je parie que tu penses que tout ça c'est pour toi, hein ?"
+    ba "Je parie que tu penses que tout ça c'est pour toi, hein?"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:481
 translate french b1c09s09w_ba_show_7a988d68:
 
     # ba "But you're used to freezing in big crowds, aren't you?"
-    ba "Mais tu es habitué à geler dans les grandes foules, n'est-ce pas ?"
+    ba "Mais tu es habitué à geler dans les grandes foules, n'est-ce pas?"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:483
 translate french b1c09s09w_ba_show_d671eeaf:
@@ -656,13 +656,13 @@ translate french b1c09s09w_ba_show_a711ffa7:
 translate french b1c09s09w_ba_show_6b141d80:
 
     # ir "It's just a party. We're all having fun. Right?"
-    ir "C'est juste une fête. On s'amuse tous, non ?"
+    ir "C'est juste une fête. On s'amuse tous, non?"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:491
 translate french b1c09s09w_ba_show_1fe31ab6:
 
     # ba "You're just having the time of your life, aren't you?"
-    ba "Tu passes juste le meilleur moment de ta vie, hein ?"
+    ba "Tu passes juste le meilleur moment de ta vie, hein?"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:493
 translate french b1c09s09w_ba_show_caf429e6:
@@ -704,7 +704,7 @@ translate french b1c09s09w_ba_show_6a8ae5d2:
 translate french b1c09s09w_ba_show_b872e9ab:
 
     # ba "You came here just to see what an embarrassing spectacle we'd all make of ourselves, huh?"
-    ba "Tu es venu ici juste pour voir quel embarras on ferait tous de nous-mêmes, hein ?"
+    ba "Tu es venu ici juste pour voir quel embarras on ferait tous de nous-mêmes, hein?"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:509
 translate french b1c09s09w_ba_show_8e14300d:
@@ -716,13 +716,13 @@ translate french b1c09s09w_ba_show_8e14300d:
 translate french b1c09s09w_ba_show_c65f74d5:
 
     # mc "Did I do something wrong?"
-    mc "Ai-je fait quelque chose de mal ?"
+    mc "Ai-je fait quelque chose de mal?"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:519
 translate french b1c09s09w_ba_show_6a931f48:
 
     # mc "Where is all of this coming from?"
-    mc "D'où vient tout ça ?"
+    mc "D'où vient tout ça?"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:522
 translate french b1c09s09w_ba_show_f6f99245:
@@ -758,13 +758,13 @@ translate french b1c09s09w_ba_show_7cb97157:
 translate french b1c09s09w_ba_show_bef9f7c7:
 
     # ba "Oh suuuure. That's why you're just gawking at all the rich, mentally fucked up group of us, isn't it?"
-    ba "Oh suuuure. C'est pour ça que tu nous dévisages tous, riches et mentalement foutus, hein ?"
+    ba "Oh suuuure. C'est pour ça que tu nous dévisages tous, riches et mentalement foutus, hein?"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:540
 translate french b1c09s09w_ba_show_e83d31de:
 
     # sm "Brig, c'mon. Let's just have a good time, okay?"
-    sm "Brig, allez. Passons juste un bon moment, d'accord ?"
+    sm "Brig, allez. Passons juste un bon moment, d'accord?"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:541
 translate french b1c09s09w_ba_show_6fd7aac4:
@@ -776,7 +776,7 @@ translate french b1c09s09w_ba_show_6fd7aac4:
 translate french b1c09s09w_ba_show_8a02447c:
 
     # mc "Just shut up. What the fuck is your problem?"
-    mc "Ferme-la juste. C'est quoi ton putain de problème ?"
+    mc "Ferme-la juste. C'est quoi ton putain de problème?"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:555
 translate french b1c09s09w_ba_show_56edf709:
@@ -788,7 +788,7 @@ translate french b1c09s09w_ba_show_56edf709:
 translate french b1c09s09w_ba_show_dc5008ab:
 
     # mc "Jesus, what the hell is wrong with you, psycho?"
-    mc "Jésus, mais qu'est-ce qui va pas chez toi, psycho ?"
+    mc "Jésus, mais qu'est-ce qui va pas chez toi, psycho?"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:581
 translate french b1c09s09w_ba_show_67cdc6c5:
@@ -812,7 +812,7 @@ translate french b1c09s09w_ba_show_712c029a:
 translate french b1c09s09w_ba_show_b3899ab4:
 
     # mm "Jesus Brig, get off him!"
-    mm "Jésus, Brig, lâche-le !"
+    mm "Jésus, Brig, lâche-le!"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:595
 translate french b1c09s09w_ba_show_3bac3d6c:
@@ -830,13 +830,13 @@ translate french b1c09s09w_ba_show_a2dae0bf:
 translate french b1c09s09w_after_ba_07a4979f:
 
     # ir "What the fuck is her problem?!"
-    ir "C'est quoi son putain de problème ?!"
+    ir "C'est quoi son putain de problème?!"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:626
 translate french b1c09s09w_after_ba_d292da0e:
 
     # oa "Hey, are you okay? That was scary."
-    oa "Hé, ça va ? C'était effrayant."
+    oa "Hé, ça va? C'était effrayant."
 
 # game/code/Book-1/Chapter-9/s09w.rpy:628
 translate french b1c09s09w_after_ba_962bdb22:
@@ -854,13 +854,13 @@ translate french b1c09s09w_after_ba_78f1ebb3:
 translate french b1c09s09w_after_ba_844cee7c:
 
     # mc "What did I even do to set her off? Christ."
-    mc "Qu'est-ce que j'ai bien pu faire pour la foutre en rogne ? Bordel."
+    mc "Qu'est-ce que j'ai bien pu faire pour la foutre en rogne? Bordel."
 
 # game/code/Book-1/Chapter-9/s09w.rpy:637
 translate french b1c09s09w_after_ba_30c8b3dd:
 
     # sm "Are you okay? I'm so sorry!"
-    sm "Ça va ? Je suis tellement désolée !"
+    sm "Ça va? Je suis tellement désolée!"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:640
 translate french b1c09s09w_after_ba_76806823:
@@ -902,13 +902,13 @@ translate french b1c09s09w_after_ba_24e3d73a:
 translate french b1c09s09w_after_ba_2ee528b3:
 
     # mc "Damn, does she do that shit a lot?"
-    mc "Putain, elle fait souvent ce genre de conneries ?"
+    mc "Putain, elle fait souvent ce genre de conneries?"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:656
 translate french b1c09s09w_after_ba_cafb37fc:
 
     # ima "I'm gonna go talk to that bitch. She'll be locked in a god damn straight jacket before I let her ruin this party!"
-    ima "Je vais aller parler à cette pute. Elle sera enfermée dans une putain de camisole de force avant que je la laisse gâcher cette fête !"
+    ima "Je vais aller parler à cette pute. Elle sera enfermée dans une putain de camisole de force avant que je la laisse gâcher cette fête!"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:661
 translate french b1c09s09w_after_ba_3a803901:
@@ -920,13 +920,13 @@ translate french b1c09s09w_after_ba_3a803901:
 translate french b1c09s09w_after_ba_83937a56:
 
     # ir "Well, I guess you didn't have to dance after all, huh?"
-    ir "Eh bien, je suppose que tu n'as pas eu besoin de danser après tout, hein ?"
+    ir "Eh bien, je suppose que tu n'as pas eu besoin de danser après tout, hein?"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:668
 translate french b1c09s09w_after_ba_9b8a3962:
 
     # oa "Now isn't the time!"
-    oa "Ce n'est pas le moment !"
+    oa "Ce n'est pas le moment!"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:671
 translate french b1c09s09w_after_ba_11bbeb02:
@@ -950,7 +950,7 @@ translate french b1c09s09w_after_ba_6f06b205:
 translate french b1c09s09w_after_ba_28983831:
 
     # mc "I'm still able to give kisses, so that counts for something, right?"
-    mc "Je suis toujours capable de donner des baisers, donc ça compte pour quelque chose, non ?"
+    mc "Je suis toujours capable de donner des baisers, donc ça compte pour quelque chose, non?"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:693
 translate french b1c09s09w_after_ba_d5b5a4d4:
@@ -968,7 +968,7 @@ translate french b1c09s09w_after_ba_24f263a3:
 translate french b1c09s09w_after_ba_87e32c42:
 
     # mc "*Whispers* It's okay. I bet you liked seeing me in action, huh?"
-    mc "*Chuchote* C'est bon. Je parie que ça t'a plu de me voir en action, hein ?"
+    mc "*Chuchote* C'est bon. Je parie que ça t'a plu de me voir en action, hein?"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:707
 translate french b1c09s09w_after_ba_a7ba5ea3:
@@ -980,7 +980,7 @@ translate french b1c09s09w_after_ba_a7ba5ea3:
 translate french b1c09s09w_after_ba_5d259318:
 
     # mc "But you are turned on?"
-    mc "Mais tu es excitée ?"
+    mc "Mais tu es excitée?"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:712
 translate french b1c09s09w_after_ba_0820ebe2:
@@ -1046,7 +1046,7 @@ translate french b1c09s09w_after_ba_dde52972:
 translate french b1c09s09w_after_ba_fe22d0af:
 
     # ir "You want one?"
-    ir "Tu en veux un ?"
+    ir "Tu en veux un?"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:759
 translate french b1c09s09w_after_ba_606e2d02:
@@ -1118,7 +1118,7 @@ translate french b1c09s09w_wc_available_4f3415cb:
 translate french b1c09s09w_wc_available_7a0e86b4:
 
     # mc "What is that?"
-    mc "C'est quoi ça ?"
+    mc "C'est quoi ça?"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:802
 translate french b1c09s09w_wc_available_baf79f14:
@@ -1136,7 +1136,7 @@ translate french b1c09s09w_wc_available_4c2d41ed:
 translate french b1c09s09w_wc_available_a731aec3:
 
     # ir "What! Don't look at me like that."
-    ir "Quoi ! Ne me regarde pas comme ça."
+    ir "Quoi! Ne me regarde pas comme ça."
 
 # game/code/Book-1/Chapter-9/s09w.rpy:812
 translate french b1c09s09w_wc_available_92c7c208:
@@ -1154,7 +1154,7 @@ translate french b1c09s09w_wc_available_165b768a:
 translate french b1c09s09w_wc_available_822aa5c3:
 
     # mc "How so?"
-    mc "Comment ça ?"
+    mc "Comment ça?"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:821
 translate french b1c09s09w_wc_available_872e1732:
@@ -1196,7 +1196,7 @@ translate french b1c09s09w_wc_available_5f92e344:
 translate french b1c09s09w_wc_available_14a59c1e:
 
     # ir "She wanted me to get clean, y'know? She thought I'd be an even better player if I were clean."
-    ir "Elle voulait que je me nettoie, tu sais ? Elle pensait que je serais un meilleur joueur si j'étais propre."
+    ir "Elle voulait que je me nettoie, tu sais? Elle pensait que je serais un meilleur joueur si j'étais propre."
 
 # game/code/Book-1/Chapter-9/s09w.rpy:834
 translate french b1c09s09w_wc_available_ac575f02:
@@ -1208,13 +1208,13 @@ translate french b1c09s09w_wc_available_ac575f02:
 translate french b1c09s09w_wc_available_62423c33:
 
     # ir "You know she even reported us to Professor Harlan?"
-    ir "Tu sais qu'elle nous a même dénoncés au professeur Harlan ?"
+    ir "Tu sais qu'elle nous a même dénoncés au professeur Harlan?"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:838
 translate french b1c09s09w_wc_available_a6a4c2f2:
 
     # mc "Holy shit. How are we all still here, then?"
-    mc "Putain. Comment ça se fait qu'on soit encore là, alors ?"
+    mc "Putain. Comment ça se fait qu'on soit encore là, alors?"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:842
 translate french b1c09s09w_wc_available_86c84996:
@@ -1304,19 +1304,19 @@ translate french b1c09s09w_wc_available_d3e446c3:
 translate french b1c09s09w_wc_available_c85a321b:
 
     # ir "Hey, do you wanna do something a little risky with me and Isa?"
-    ir "Hé, tu veux faire quelque chose d'un peu risqué avec Isa et moi ?"
+    ir "Hé, tu veux faire quelque chose d'un peu risqué avec Isa et moi?"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:875
 translate french b1c09s09w_wc_available_55310c42:
 
     # mc "Seriously?"
-    mc "Sérieusement ?"
+    mc "Sérieusement?"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:878
 translate french b1c09s09w_wc_available_8cba4295:
 
     # ir "*Giggles* Yeah! I'll go find Isa."
-    ir "*Rit* Ouais ! Je vais aller chercher Isa."
+    ir "*Rit* Ouais! Je vais aller chercher Isa."
 
 # game/code/Book-1/Chapter-9/s09w.rpy:881
 translate french b1c09s09w_wc_available_35199897:
@@ -1380,7 +1380,7 @@ translate french strings:
 
     # game/code/Book-1/Chapter-9/s09w.rpy:510
     old "What'd I even do?"
-    new "Qu'est-ce que j'ai fait ?"
+    new "Qu'est-ce que j'ai fait?"
 
     # game/code/Book-1/Chapter-9/s09w.rpy:510
     old "Sorry"

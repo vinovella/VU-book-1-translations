@@ -2,19 +2,19 @@
 translate french b1c08ws05_6a2b0ef5:
 
     # "???" "Shut the fuck up you fucking menace!"
-    "???" "Ferme ta putain de gueule, espèce de menace !"
+    "???" "Ferme ta putain de gueule, espèce de menace!"
 
 # game/code/Book-1/Chapter-8w/s05.rpy:15
 translate french b1c08ws05_91a36f77:
 
     # mct "*Yawns* The fuck is going on now?"
-    mct "*Bâille* C'est quoi ce bordel maintenant ?"
+    mct "*Bâille* C'est quoi ce bordel maintenant?"
 
 # game/code/Book-1/Chapter-8w/s05.rpy:23
 translate french b1c08ws05_1354a6c6:
 
     # mm "I swear to God, if you don't stop snoring, I will personally ensure you never breathe again!"
-    mm "Je jure devant Dieu, si tu arrêtes pas de ronfler, je vais personnellement m'assurer que tu ne respires plus jamais !"
+    mm "Je jure devant Dieu, si tu arrêtes pas de ronfler, je vais personnellement m'assurer que tu ne respires plus jamais!"
 
 # game/code/Book-1/Chapter-8w/s05.rpy:26
 translate french b1c08ws05_5001528a:
@@ -26,25 +26,25 @@ translate french b1c08ws05_5001528a:
 translate french b1c08ws05_e80890c3:
 
     # mc "If you two are gonna kill each other, can you do it a little quieter?"
-    mc "Si vous allez vous tuer, pouvez-vous le faire un peu plus tranquillement ?"
+    mc "Si vous allez vous tuer, pouvez-vous le faire un peu plus tranquillement?"
 
 # game/code/Book-1/Chapter-8w/s05.rpy:36
 translate french b1c08ws05_d8207dc5:
 
     # sl "I can't help it, asshole. I got a deviated septum!"
-    sl "Je peux pas y faire, connard. J'ai un septum dévié !"
+    sl "Je peux pas y faire, connard. J'ai un septum dévié!"
 
 # game/code/Book-1/Chapter-8w/s05.rpy:39
 translate french b1c08ws05_1fdf4034:
 
     # mm "Well fucking undeviate it or something then! It's impossible to get any sleep with your bloody racket."
-    mm "Ben débouche-le ou je sais pas, mais fais quelque chose ! C'est impossible de dormir avec ton putain de vacarme."
+    mm "Ben débouche-le ou je sais pas, mais fais quelque chose! C'est impossible de dormir avec ton putain de vacarme."
 
 # game/code/Book-1/Chapter-8w/s05.rpy:42
 translate french b1c08ws05_aa27c655:
 
     # sl "Can you please explain it to this madwoman?"
-    sl "Tu peux expliquer ça à cette folle ?"
+    sl "Tu peux expliquer ça à cette folle?"
 
 # game/code/Book-1/Chapter-8w/s05.rpy:43
 translate french b1c08ws05_5d94b3b8:
@@ -62,13 +62,13 @@ translate french b1c08ws05_2d546709:
 translate french b1c08ws05_c77d6823:
 
     # mm "See? He's on my side. Neither of us could sleep last night!"
-    mm "Tu vois ? Il est de mon côté. Aucun de nous deux n'a pu dormir cette nuit !"
+    mm "Tu vois? Il est de mon côté. Aucun de nous deux n'a pu dormir cette nuit!"
 
 # game/code/Book-1/Chapter-8w/s05.rpy:53
 translate french b1c08ws05_5f0c0e92:
 
     # sl "Oh fuck off. I could barely sleep 'cause of you two fucking like rabbits!"
-    sl "Oh dégage. J'ai à peine dormi à cause de vous deux qui baisiez comme des lapins !"
+    sl "Oh dégage. J'ai à peine dormi à cause de vous deux qui baisiez comme des lapins!"
 
 # game/code/Book-1/Chapter-8w/s05.rpy:58
 translate french b1c08ws05_42fc0b18:
@@ -92,7 +92,7 @@ translate french b1c08ws05_8b63dfac:
 translate french b1c08ws05_bb1e6059:
 
     # mm "Fuck you! No I wasn't!"
-    mm "Va te faire foutre ! Non, j'étais pas en train de geindre !"
+    mm "Va te faire foutre! Non, j'étais pas en train de geindre!"
 
 # game/code/Book-1/Chapter-8w/s05.rpy:69
 translate french b1c08ws05_71a2aba4:
@@ -200,13 +200,13 @@ translate french b1c08ws05_02ed7822:
 translate french b1c08ws05_4a14328e:
 
     # ec "Do we really have to wait?"
-    ec "On doit vraiment attendre ?"
+    ec "On doit vraiment attendre?"
 
 # game/code/Book-1/Chapter-8w/s05.rpy:155
 translate french b1c08ws05_b84ca604:
 
     # don "Don't you think it'd be fun if you showed us some of your moves {i}privately{/i}?"
-    don "Tu ne penses pas que ce serait amusant de nous montrer quelques-uns de tes mouvements {i}en privé{/i} ?"
+    don "Tu ne penses pas que ce serait amusant de nous montrer quelques-uns de tes mouvements {i}en privé{/i}?"
 
 # game/code/Book-1/Chapter-8w/s05.rpy:158
 translate french b1c08ws05_2a0664a8:
@@ -218,7 +218,7 @@ translate french b1c08ws05_2a0664a8:
 translate french b1c08ws05_d69fc873:
 
     # mct "Jesus Christ are they {i}trying{/i} to act like dumbasses or are they actually dumbasses?"
-    mct "Putain, est-ce qu'ils {i}essaient{/i} de jouer les idiots ou sont-ils vraiment des idiots ?"
+    mct "Putain, est-ce qu'ils {i}essaient{/i} de jouer les idiots ou sont-ils vraiment des idiots?"
 
 # game/code/Book-1/Chapter-8w/s05.rpy:162
 translate french b1c08ws05_a7c3bf5d:
@@ -230,7 +230,7 @@ translate french b1c08ws05_a7c3bf5d:
 translate french b1c08ws05_2f6c5862:
 
     # mc "*Chuckles* Oh? Privately?"
-    mc "*Rit* Oh ? En privé ?"
+    mc "*Rit* Oh? En privé?"
 
 # game/code/Book-1/Chapter-8w/s05.rpy:166
 translate french b1c08ws05_c0223fa7:
@@ -266,19 +266,19 @@ translate french b1c08ws05_43f57c18:
 translate french b1c08ws05_f16ed2a8:
 
     # ec "Uh, really?"
-    ec "Hein, vraiment ?"
+    ec "Hein, vraiment?"
 
 # game/code/Book-1/Chapter-8w/s05.rpy:179
 translate french b1c08ws05_64cf7b44:
 
     # mc "Yes, but, before you go, mind telling me where your captain is?"
-    mc "Oui, mais avant que vous ne partiez, vous pouvez me dire où est votre capitaine ?"
+    mc "Oui, mais avant que vous ne partiez, vous pouvez me dire où est votre capitaine?"
 
 # game/code/Book-1/Chapter-8w/s05.rpy:182
 translate french b1c08ws05_cea61de1:
 
     # ec "Our captain? Why?"
-    ec "Notre capitaine ? Pourquoi ?"
+    ec "Notre capitaine? Pourquoi?"
 
 # game/code/Book-1/Chapter-8w/s05.rpy:184
 translate french b1c08ws05_08b4c891:
@@ -290,7 +290,7 @@ translate french b1c08ws05_08b4c891:
 translate french b1c08ws05_78fbc2da:
 
     # don "Bet you want to try and get some info out of her don't you?"
-    don "Pari que tu veux essayer de lui soutirer quelques infos, hein ?"
+    don "Pari que tu veux essayer de lui soutirer quelques infos, hein?"
 
 # game/code/Book-1/Chapter-8w/s05.rpy:188
 translate french b1c08ws05_bd972fac:
@@ -302,7 +302,7 @@ translate french b1c08ws05_bd972fac:
 translate french b1c08ws05_d6e4c779:
 
     # mc "Guilty as charged. But I think it's only fair that I get something in return for showing you two some moves, don't you think?"
-    mc "Coupable comme accusé. Mais je pense qu'il est juste que je reçoive quelque chose en retour pour vous avoir montré quelques mouvements, vous ne pensez pas ?"
+    mc "Coupable comme accusé. Mais je pense qu'il est juste que je reçoive quelque chose en retour pour vous avoir montré quelques mouvements, vous ne pensez pas?"
 
 # game/code/Book-1/Chapter-8w/s05.rpy:195
 translate french b1c08ws05_1542480b:
@@ -326,7 +326,7 @@ translate french b1c08ws05_a3414c63:
 translate french b1c08ws05_665ece8c:
 
     # don "Don't be long! We'll be waiting for you."
-    don "Ne sois pas trop long ! On t'attendra."
+    don "Ne sois pas trop long! On t'attendra."
 
 # game/code/Book-1/Chapter-8w/s05.rpy:212
 translate french b1c08ws05_425b24fb:
@@ -368,7 +368,7 @@ translate french b1c08ws05_f7133653:
 translate french b1c08ws05_24f776cd:
 
     # mc "Morning. Name's [mcname], new member of The Winner's Volleyball Team. Mind if I join you?"
-    mc "Bonjour. Je m'appelle [mcname], nouveau membre de l'équipe de volleyball de The Winner. Ça vous dérange si je me joins à vous ?"
+    mc "Bonjour. Je m'appelle [mcname], nouveau membre de l'équipe de volleyball de The Winner. Ça vous dérange si je me joins à vous?"
 
 # game/code/Book-1/Chapter-8w/s05.rpy:227
 translate french b1c08ws05_45852579:
@@ -386,7 +386,7 @@ translate french b1c08ws05_c3b994d0:
 translate french b1c08ws05_474283db:
 
     # tw "My name's Tiana. Tiana Williams. I assume you know that I'm the captain of the Crowing College volleyball team?"
-    tw "Je m'appelle Tiana. Tiana Williams. Je suppose que vous savez que je suis la capitaine de l'équipe de volleyball de Crowing College ?"
+    tw "Je m'appelle Tiana. Tiana Williams. Je suppose que vous savez que je suis la capitaine de l'équipe de volleyball de Crowing College?"
 
 # game/code/Book-1/Chapter-8w/s05.rpy:239
 translate french b1c08ws05_700d295e:
@@ -428,7 +428,7 @@ translate french b1c08ws05_f458a7d8:
 translate french b1c08ws05_60820be4:
 
     # tw "Is it about some of our members spying on your team?"
-    tw "C'est à propos de certains de nos membres qui espionnent votre équipe ?"
+    tw "C'est à propos de certains de nos membres qui espionnent votre équipe?"
 
 # game/code/Book-1/Chapter-8w/s05.rpy:256
 translate french b1c08ws05_ca3b5c0b:
@@ -440,7 +440,7 @@ translate french b1c08ws05_ca3b5c0b:
 translate french b1c08ws05_eeef3bd4:
 
     # mc "Did you put them up to it?"
-    mc "Tu les as envoyés faire ça ?"
+    mc "Tu les as envoyés faire ça?"
 
 # game/code/Book-1/Chapter-8w/s05.rpy:260
 translate french b1c08ws05_a51a3a4d:
@@ -506,13 +506,13 @@ translate french b1c08ws05_b7c0f7d2:
 translate french b1c08ws05_72a2486b:
 
     # tw "What's your poison?"
-    tw "Qu'est-ce que tu veux boire ?"
+    tw "Qu'est-ce que tu veux boire?"
 
 # game/code/Book-1/Chapter-8w/s05.rpy:290
 translate french b1c08ws05_ec2b34aa:
 
     # mc "*Smiles* You're not trying to dull me before our match, are you?"
-    mc "*Sourit* Tu n'essaies pas de m'abrutir avant notre match, si ?"
+    mc "*Sourit* Tu n'essaies pas de m'abrutir avant notre match, si?"
 
 # game/code/Book-1/Chapter-8w/s05.rpy:294
 translate french b1c08ws05_aa6d7395:

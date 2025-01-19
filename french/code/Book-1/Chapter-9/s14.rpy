@@ -27,13 +27,13 @@ translate french b1c09s14_c24e0072:
 translate french b1c09s14_4d916e4d:
 
     # mct "Wait, Nia?"
-    mct "Attends, Nia ?"
+    mct "Attends, Nia?"
 
 # game/code/Book-1/Chapter-9/s14.rpy:23
 translate french b1c09s14_be34d118:
 
     # mct "What's Nia doing in Silvia's room?"
-    mct "Que fait Nia dans la chambre de Silvia ?"
+    mct "Que fait Nia dans la chambre de Silvia?"
 
 # game/code/Book-1/Chapter-9/s14.rpy:27
 translate french b1c09s14_8f1db7e7:
@@ -51,7 +51,7 @@ translate french b1c09s14_99d85dda:
 translate french b1c09s14_5b6655be:
 
     # mct "What are they talking about?"
-    mct "De quoi parlent-elles ?"
+    mct "De quoi parlent-elles?"
 
 # game/code/Book-1/Chapter-9/s14.rpy:33
 translate french b1c09s14_89ef4bff:
@@ -93,7 +93,7 @@ translate french b1c09s14_6cbe0776:
 translate french b1c09s14_e85d6350:
 
     # sm "Who is it?"
-    sm "Qui est-ce ?"
+    sm "Qui est-ce?"
 
 # game/code/Book-1/Chapter-9/s14.rpy:57
 translate french b1c09s14_ee12be68:
@@ -105,7 +105,7 @@ translate french b1c09s14_ee12be68:
 translate french b1c09s14_3a3ea2fa:
 
     # sm "Oh! [mcname]!"
-    sm "Oh ! [mcname] !"
+    sm "Oh! [mcname]!"
 
 # game/code/Book-1/Chapter-9/s14.rpy:63
 translate french b1c09s14_a19d6a09:
@@ -117,7 +117,7 @@ translate french b1c09s14_a19d6a09:
 translate french b1c09s14_6e34dcdd:
 
     # sm "Hi!"
-    sm "Salut !"
+    sm "Salut!"
 
 # game/code/Book-1/Chapter-9/s14.rpy:74
 translate french b1c09s14_ea4beda1:
@@ -159,7 +159,7 @@ translate french b1c09s14_efc64682:
 translate french b1c09s14_afebdf6c:
 
     # nv "Oh! Hey, you. I was wondering when I'd run into you."
-    nv "Oh ! Salut, toi. Je me demandais quand je te croiserais."
+    nv "Oh! Salut, toi. Je me demandais quand je te croiserais."
 
 # game/code/Book-1/Chapter-9/s14.rpy:88
 translate french b1c09s14_9c8fa37b:
@@ -177,7 +177,7 @@ translate french b1c09s14_e5934e40:
 translate french b1c09s14_432e7e4a:
 
     # sm "It's so sweet for you to check in. Would you like to come in?"
-    sm "C'est tellement gentil de ta part de vérifier. Tu veux entrer ?"
+    sm "C'est tellement gentil de ta part de vérifier. Tu veux entrer?"
 
 # game/code/Book-1/Chapter-9/s14.rpy:96
 translate french b1c09s14_8f2b071c:
@@ -195,7 +195,7 @@ translate french b1c09s14_88e1d33b:
 translate french b1c09s14_35fe6880:
 
     # sm "Drink?"
-    sm "Un verre ?"
+    sm "Un verre?"
 
 # game/code/Book-1/Chapter-9/s14.rpy:112
 translate french b1c09s14_a64e8bc0:
@@ -207,7 +207,7 @@ translate french b1c09s14_a64e8bc0:
 translate french b1c09s14_05952eb5:
 
     # nv "Want to drink?"
-    nv "Tu veux boire ?"
+    nv "Tu veux boire?"
 
 # game/code/Book-1/Chapter-9/s14.rpy:121
 translate french b1c09s14_bb0eeaf4:
@@ -231,13 +231,13 @@ translate french b1c09s14_25295eb1:
 translate french b1c09s14_05e1ab1a:
 
     # mc "So what were you all talking about? I could hear laughing in the hallway."
-    mc "Alors, de quoi parliez-vous ? J'entendais des rires dans le couloir."
+    mc "Alors, de quoi parliez-vous? J'entendais des rires dans le couloir."
 
 # game/code/Book-1/Chapter-9/s14.rpy:143
 translate french b1c09s14_4dfb418c:
 
     # zp "Eavesdropping on us, huh?"
-    zp "Nous écoutez, hein ?"
+    zp "Nous écoutez, hein?"
 
 # game/code/Book-1/Chapter-9/s14.rpy:147
 translate french b1c09s14_879b8409:
@@ -309,13 +309,13 @@ translate french b1c09s14_6016bea1:
 translate french b1c09s14_b2b9e19d:
 
     # mc "What do you mean?"
-    mc "Qu'est-ce que tu veux dire ?"
+    mc "Qu'est-ce que tu veux dire?"
 
 # game/code/Book-1/Chapter-9/s14.rpy:178
 translate french b1c09s14_efaa9dd3:
 
     # zp "They did fuck all is what I mean. Where are our taxes going if the cops can't even find three girls that went missing?"
-    zp "Ils n'ont rien foutu, c'est ça que je veux dire. Où vont nos impôts si les flics ne peuvent même pas retrouver trois filles disparues ?"
+    zp "Ils n'ont rien foutu, c'est ça que je veux dire. Où vont nos impôts si les flics ne peuvent même pas retrouver trois filles disparues?"
 
 # game/code/Book-1/Chapter-9/s14.rpy:182
 translate french b1c09s14_88d4ca01:
@@ -429,7 +429,7 @@ translate french b1c09s14_0c3e2def:
 translate french b1c09s14_348efcfd:
 
     # zp "That's bullshit. Who the fuck is callous enough to say something like that?"
-    zp "C'est des conneries. Qui est assez insensible pour dire un truc pareil ?"
+    zp "C'est des conneries. Qui est assez insensible pour dire un truc pareil?"
 
 # game/code/Book-1/Chapter-9/s14.rpy:221
 translate french b1c09s14_92fb6907:
@@ -543,7 +543,7 @@ translate french b1c09s14_bccebb1e:
 translate french b1c09s14_636bd628:
 
     # sm "Huh?"
-    sm "Hein ?"
+    sm "Hein?"
 
 # game/code/Book-1/Chapter-9/s14.rpy:268
 translate french b1c09s14_30f52066:
@@ -573,7 +573,7 @@ translate french b1c09s14_160f8ad6:
 translate french b1c09s14_340ab653:
 
     # sm "Of course! Bye, everyone."
-    sm "Bien sûr ! À bientôt tout le monde."
+    sm "Bien sûr! À bientôt tout le monde."
 
 # game/code/Book-1/Chapter-9/s14.rpy:287
 translate french b1c09s14_440698ff:
@@ -585,7 +585,7 @@ translate french b1c09s14_440698ff:
 translate french b1c09s14_268cf9bd:
 
     # sm "Whaaat? C'mon, stay a little longer. School's mostly done anyway."
-    sm "Quoi ? Allez, reste un peu plus longtemps. L'école est presque finie de toute façon."
+    sm "Quoi? Allez, reste un peu plus longtemps. L'école est presque finie de toute façon."
 
 # game/code/Book-1/Chapter-9/s14.rpy:293
 translate french b1c09s14_ac0d4ed6:
@@ -609,7 +609,7 @@ translate french b1c09s14_2f7ffbf9:
 translate french b1c09s14_12a31d8f:
 
     # nv "Bye, everyone!"
-    nv "Au revoir, tout le monde !"
+    nv "Au revoir, tout le monde!"
 
 # game/code/Book-1/Chapter-9/s14.rpy:307
 translate french b1c09s14_2deebd1c:
@@ -621,7 +621,7 @@ translate french b1c09s14_2deebd1c:
 translate french b1c09s14_a5c62bd4:
 
     # nv "Whats wrong?"
-    nv "Qu'est-ce qui ne va pas ?"
+    nv "Qu'est-ce qui ne va pas?"
 
 # game/code/Book-1/Chapter-9/s14.rpy:313
 translate french b1c09s14_eb471459:
@@ -657,6 +657,6 @@ translate french b1c09s14_0ad55202:
 translate french b1c09s14_f4cce571:
 
     # zp "No promises!"
-    zp "Aucune promesse !"
+    zp "Aucune promesse!"
 
 

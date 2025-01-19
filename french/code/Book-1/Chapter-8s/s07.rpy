@@ -14,7 +14,7 @@ translate french b1c08ss07_fb5a4303:
 translate french b1c08ss07_6cf5dc13:
 
     # mct "Where the hell am I?"
-    mct "Où diable suis-je ?"
+    mct "Où diable suis-je?"
 
 # game/code/Book-1/Chapter-8s/s07.rpy:57
 translate french b1c08ss07_ff637e36:
@@ -32,7 +32,7 @@ translate french b1c08ss07_1f359c4f:
 translate french b1c08ss07_ec87e53f:
 
     # mct "I should get out of here, and regroup with Zemfira. Is this some hideout The Syndicate has? Did they come back for me after I was knocked out?"
-    mct "Je devrais sortir d'ici et retrouver Zemfira. C'est un planque que le Syndicat a ? Est-ce qu'ils sont revenus pour moi après que j'aie été assommé ?"
+    mct "Je devrais sortir d'ici et retrouver Zemfira. C'est un planque que le Syndicat a? Est-ce qu'ils sont revenus pour moi après que j'aie été assommé?"
 
 # game/code/Book-1/Chapter-8s/s07.rpy:68
 translate french b1c08ss07_b8c9ce23:
@@ -98,7 +98,7 @@ translate french b1c08ss07_a64802fa:
 translate french b1c08ss07_65262f8f:
 
     # mc "Why am I here? What do you want with me?"
-    mc "Pourquoi suis-je ici ? Que veux-tu de moi ?"
+    mc "Pourquoi suis-je ici? Que veux-tu de moi?"
 
 # game/code/Book-1/Chapter-8s/s07.rpy:99
 translate french b1c08ss07_b8e28c45:
@@ -128,7 +128,7 @@ translate french b1c08ss07_d209002d:
 translate french b1c08ss07_0b25ffe2:
 
     # Woman" "But enough about the boring old past. Let's focus on us, shall we? You've piqued my interest, darling."
-    "Femme" "Mais assez parlé du vieux passé ennuyeux. Concentrons-nous sur nous, d'accord ? Tu as piqué mon intérêt, mon chéri."
+    "Femme" "Mais assez parlé du vieux passé ennuyeux. Concentrons-nous sur nous, d'accord? Tu as piqué mon intérêt, mon chéri."
 
 # game/code/Book-1/Chapter-8s/s07.rpy:111
 translate french b1c08ss07_2d430516:
@@ -140,13 +140,13 @@ translate french b1c08ss07_2d430516:
 translate french b1c08ss07_140a91dc:
 
     # mc "And what about me interests a lady such as yourself?"
-    mc "Et qu'est-ce qui peut bien intéresser une dame comme vous en moi ?"
+    mc "Et qu'est-ce qui peut bien intéresser une dame comme vous en moi?"
 
 # game/code/Book-1/Chapter-8s/s07.rpy:117
 translate french b1c08ss07_2d368fc0:
 
     # "Woman" "Oh darling, you're a bold one. Do you even know who I am? I suppose not."
-    "Femme" "Oh mon cher, vous êtes audacieux. Savez-vous seulement qui je suis ? Je suppose que non."
+    "Femme" "Oh mon cher, vous êtes audacieux. Savez-vous seulement qui je suis? Je suppose que non."
 
 # game/code/Book-1/Chapter-8s/s07.rpy:120
 translate french b1c08ss07_3726675e:
@@ -164,7 +164,7 @@ translate french b1c08ss07_be972348:
 translate french b1c08ss07_ddfd3aec:
 
     # mc "What do you mean? Who are you?"
-    mc "Que voulez-vous dire ? Qui êtes-vous ?"
+    mc "Que voulez-vous dire? Qui êtes-vous?"
 
 # game/code/Book-1/Chapter-8s/s07.rpy:130
 translate french b1c08ss07_f3025da0:
@@ -206,7 +206,7 @@ translate french b1c08ss07_7436e5e1:
 translate french b1c08ss07_f19edfd7:
 
     # mc "And what exactly is this proposition?"
-    mc "Et qu'est-ce que c'est exactement, cette proposition ?"
+    mc "Et qu'est-ce que c'est exactement, cette proposition?"
 
 # game/code/Book-1/Chapter-8s/s07.rpy:152
 translate french b1c08ss07_e536eb5c:
@@ -236,7 +236,7 @@ translate french b1c08ss07_319c2c07:
 translate french b1c08ss07_b7e5684c:
 
     # mc "Are you trying to strike a deal with me? Is that what this is about? Is that why you had our cam workers abducted?"
-    mc "Essayez-vous de conclure un accord avec moi ? Est-ce cela le but ? Est-ce la raison pour laquelle vous avez fait enlever nos caméramans ?"
+    mc "Essayez-vous de conclure un accord avec moi? Est-ce cela le but? Est-ce la raison pour laquelle vous avez fait enlever nos caméramans?"
 
 # game/code/Book-1/Chapter-8s/s07.rpy:162
 translate french b1c08ss07_b4a38a7c:
@@ -248,13 +248,13 @@ translate french b1c08ss07_b4a38a7c:
 translate french b1c08ss07_3e320b1f:
 
     # ha "A deal, hm? Now there's an idea. It's certainly a tempting suggestion."
-    ha "Un accord, hein ? Voilà une idée. C'est certainement une proposition tentante."
+    ha "Un accord, hein? Voilà une idée. C'est certainement une proposition tentante."
 
 # game/code/Book-1/Chapter-8s/s07.rpy:164
 translate french b1c08ss07_3c0796e1:
 
     # ha "Before I answer, tell me, [mcname], are you close to Xasan? Do you have his trust?"
-    ha "Avant de répondre, dis-moi, [mcname], es-tu proche de Xasan ? As-tu sa confiance ?"
+    ha "Avant de répondre, dis-moi, [mcname], es-tu proche de Xasan? As-tu sa confiance?"
 
 # game/code/Book-1/Chapter-8s/s07.rpy:166
 translate french b1c08ss07_38c835cf:
@@ -284,7 +284,7 @@ translate french b1c08ss07_710a4d18:
 translate french b1c08ss07_876dffef:
 
     # ha "Perhaps it would be better to have a little fun, first? Let's leave all that business talk for later, shall we?"
-    ha "Peut-être serait-il mieux de nous amuser un peu d'abord ? Laissons toutes ces discussions d'affaires pour plus tard, d'accord ?"
+    ha "Peut-être serait-il mieux de nous amuser un peu d'abord? Laissons toutes ces discussions d'affaires pour plus tard, d'accord?"
 
 # game/code/Book-1/Chapter-8s/s07.rpy:177
 translate french b1c08ss07_384934d0:
@@ -296,7 +296,7 @@ translate french b1c08ss07_384934d0:
 translate french b1c08ss07_556ef92b:
 
     # ha "Bring him in!"
-    ha "Amenez-le !"
+    ha "Amenez-le!"
 
 # game/code/Book-1/Chapter-8s/s07.rpy:184
 translate french b1c08ss07_9898f5d2:
@@ -308,7 +308,7 @@ translate french b1c08ss07_9898f5d2:
 translate french b1c08ss07_88f43a76:
 
     # mct "What the fuck is she planning?"
-    mct "Qu'est-ce qu'elle fout avec ce plan ?"
+    mct "Qu'est-ce qu'elle fout avec ce plan?"
 
 # game/code/Book-1/Chapter-8s/s07.rpy:191
 translate french b1c08ss07_4cae503a:
@@ -332,7 +332,7 @@ translate french b1c08ss07_68866e34:
 translate french b1c08ss07_8ec23ad7:
 
     # ha "You've been a horrible fiend, haven't you?"
-    ha "Tu as été un horrible démon, n'est-ce pas ?"
+    ha "Tu as été un horrible démon, n'est-ce pas?"
 
 # game/code/Book-1/Chapter-8s/s07.rpy:199
 translate french b1c08ss07_71cd0d43:
@@ -344,13 +344,13 @@ translate french b1c08ss07_71cd0d43:
 translate french b1c08ss07_01588e46:
 
     # mct "Where the hell is this shitshow going...? What could she possibly make clear to me with this?"
-    mct "Où est-ce que ce bordel va...? Qu'est-ce qu'elle peut bien vouloir me clarifier avec ça ?"
+    mct "Où est-ce que ce bordel va...? Qu'est-ce qu'elle peut bien vouloir me clarifier avec ça?"
 
 # game/code/Book-1/Chapter-8s/s07.rpy:205
 translate french b1c08ss07_000f2d45:
 
     # ha "Good boy. So eager to please. Very well. You know what I have to do next? What you've {i}forced{/i} me to do?"
-    ha "Bon garçon. Tellement désireux de plaire. Très bien. Tu sais ce que je dois faire ensuite ? Ce que tu m'as {i}forcée{/i} à faire ?"
+    ha "Bon garçon. Tellement désireux de plaire. Très bien. Tu sais ce que je dois faire ensuite? Ce que tu m'as {i}forcée{/i} à faire?"
 
 # game/code/Book-1/Chapter-8s/s07.rpy:207
 translate french b1c08ss07_c71b6792:
@@ -374,13 +374,13 @@ translate french b1c08ss07_d562230c:
 translate french b1c08ss07_b33b3c13:
 
     # ha "Then why the hell did you kidnap those cam workers?"
-    ha "Alors pourquoi diable as-tu kidnappé ces travailleurs de caméra ?"
+    ha "Alors pourquoi diable as-tu kidnappé ces travailleurs de caméra?"
 
 # game/code/Book-1/Chapter-8s/s07.rpy:224
 translate french b1c08ss07_7dfd02cc:
 
     # ha "You think it's okay to just disobey me like that, you little fucking shitstain?"
-    ha "Tu penses que c'est acceptable de simplement me désobéir comme ça, espèce de petite merde ?"
+    ha "Tu penses que c'est acceptable de simplement me désobéir comme ça, espèce de petite merde?"
 
 # game/code/Book-1/Chapter-8s/s07.rpy:226
 translate french b1c08ss07_ba9d69e6:
@@ -398,13 +398,13 @@ translate french b1c08ss07_515a0f99:
 translate french b1c08ss07_dfe2541f:
 
     # ha "You think I give a shit what that tight little cunt means to you?"
-    ha "Tu penses que ça m'importe ce que cette petite salope signifie pour toi ?"
+    ha "Tu penses que ça m'importe ce que cette petite salope signifie pour toi?"
 
 # game/code/Book-1/Chapter-8s/s07.rpy:233
 translate french b1c08ss07_3020f735:
 
     # ha "You may think you can possess her, but the truth is that {i}{b}I{/b}{/i} own you. I take care of you. I give you power within my gang. And {i}this{/i} is how you abuse it?"
-    ha "Tu penses peut-être pouvoir la posséder, mais la vérité, c'est que {i}{b}c'est moi{/b}{/i} qui te possède. Je m'occupe de toi. Je te donne du pouvoir au sein de mon gang. Et {i}c'est ainsi{/i} que tu en abuses ?"
+    ha "Tu penses peut-être pouvoir la posséder, mais la vérité, c'est que {i}{b}c'est moi{/b}{/i} qui te possède. Je m'occupe de toi. Je te donne du pouvoir au sein de mon gang. Et {i}c'est ainsi{/i} que tu en abuses?"
 
 # game/code/Book-1/Chapter-8s/s07.rpy:236
 translate french b1c08ss07_cb231cae:
@@ -422,7 +422,7 @@ translate french b1c08ss07_cd6ca86d:
 translate french b1c08ss07_4c698d01:
 
     # mct "Is it really even my place to forgive him? I'm not the one he hurt."
-    mct "Est-ce vraiment à moi de lui pardonner ? Ce n'est pas moi qu'il a blessé."
+    mct "Est-ce vraiment à moi de lui pardonner? Ce n'est pas moi qu'il a blessé."
 
 # game/code/Book-1/Chapter-8s/s07.rpy:249
 translate french b1c08ss07_9e7d7039:
@@ -506,7 +506,7 @@ translate french b1c08ss07_b5e51e73:
 translate french b1c08ss07_9482697f:
 
     # ha "I give you what you need after all, Cade. What does it matter if Sabrina's gone?"
-    ha "Je te donne ce dont tu as besoin après tout, Cade. Qu'importe si Sabrina est partie ?"
+    ha "Je te donne ce dont tu as besoin après tout, Cade. Qu'importe si Sabrina est partie?"
 
 # game/code/Book-1/Chapter-8s/s07.rpy:298
 translate french b1c08ss07_c8d68710:
@@ -536,13 +536,13 @@ translate french b1c08ss07_34d3b525:
 translate french b1c08ss07_80485d24:
 
     # ha "Cade needs me to keep him in line. Imagine him without me. He'd be a menace!"
-    ha "Cade a besoin de moi pour le garder sous contrôle. Imagine-le sans moi. Ce serait une menace !"
+    ha "Cade a besoin de moi pour le garder sous contrôle. Imagine-le sans moi. Ce serait une menace!"
 
 # game/code/Book-1/Chapter-8s/s07.rpy:308
 translate french b1c08ss07_93b62ae7:
 
     # ha "You know that it's not enough to just repent, don't you? I need to remind you who's truly dominant here..."
-    ha "Tu sais que ce n'est pas suffisant de simplement te repentir, n'est-ce pas ? Il faut que je te rappelle qui est réellement dominant ici..."
+    ha "Tu sais que ce n'est pas suffisant de simplement te repentir, n'est-ce pas? Il faut que je te rappelle qui est réellement dominant ici..."
 
 # game/code/Book-1/Chapter-8s/s07.rpy:312
 translate french b1c08ss07_ae574881:
@@ -554,7 +554,7 @@ translate french b1c08ss07_ae574881:
 translate french b1c08ss07_898b9ce8:
 
     # ha "You don't mind me disciplining my pet, do you? A lady who gets power and pleasure needs to keep her subjects in check, don't you think?"
-    ha "Ça ne te dérange pas que je discipline mon animal, n'est-ce pas ? Une dame qui prend du pouvoir et du plaisir doit garder ses sujets sous contrôle, tu ne crois pas ?"
+    ha "Ça ne te dérange pas que je discipline mon animal, n'est-ce pas? Une dame qui prend du pouvoir et du plaisir doit garder ses sujets sous contrôle, tu ne crois pas?"
 
 # game/code/Book-1/Chapter-8s/s07.rpy:328
 translate french b1c08ss07_72861861:
@@ -578,7 +578,7 @@ translate french b1c08ss07_0bfc9acc:
 translate french b1c08ss07_958f578b:
 
     # mc "Why can't I leave?"
-    mc "Pourquoi je ne peux pas partir ?"
+    mc "Pourquoi je ne peux pas partir?"
 
 # game/code/Book-1/Chapter-8s/s07.rpy:343
 translate french b1c08ss07_0094506a:
@@ -632,7 +632,7 @@ translate french b1c08ss07_pegging_55bb604d:
 translate french b1c08ss07_pegging_1aec4f49:
 
     # ha "You understand that you made me do this, baby? I can't let you get away with causing gang disputes like this."
-    ha "Tu comprends que tu m'as obligé à faire ça, bébé ? Je ne peux pas te laisser partir en provoquant des conflits de gangs comme celui-ci."
+    ha "Tu comprends que tu m'as obligé à faire ça, bébé? Je ne peux pas te laisser partir en provoquant des conflits de gangs comme celui-ci."
 
 # game/code/Book-1/Chapter-8s/s07.rpy:386
 translate french b1c08ss07_pegging_efed6219:
@@ -722,7 +722,7 @@ translate french b1c08ss07_pegging_7def0d70:
 translate french b1c08ss07_pegging_9df93410:
 
     # ha "You like being my dirty little pet, don't you? So eager to please. So willing to meet my every desire."
-    ha "Tu aimes être mon sale petit animal de compagnie, n'est-ce pas ? Tellement désireux de plaire. Tellement disposé à répondre à tous mes désirs."
+    ha "Tu aimes être mon sale petit animal de compagnie, n'est-ce pas? Tellement désireux de plaire. Tellement disposé à répondre à tous mes désirs."
 
 # game/code/Book-1/Chapter-8s/s07.rpy:466
 translate french b1c08ss07_pegging_6bb09f88:
@@ -752,7 +752,7 @@ translate french b1c08ss07_pegging_6c0f87d0:
 translate french b1c08ss07_pegging_3386b1e3:
 
     # ha "You need to be put in your place, don't you? You like when I make you mine and keep you under control."
-    ha "Tu as besoin d'être remis à ta place, n'est-ce pas ? Tu aimes quand je te fais mienne et que je te garde sous contrôle."
+    ha "Tu as besoin d'être remis à ta place, n'est-ce pas? Tu aimes quand je te fais mienne et que je te garde sous contrôle."
 
 # game/code/Book-1/Chapter-8s/s07.rpy:517
 translate french b1c08ss07_pegging_b61bcf42:
@@ -830,7 +830,7 @@ translate french b1c08ss07_after_pegging_3bb287df:
 translate french b1c08ss07_after_pegging_aeb653b1:
 
     # ha "Did you enjoy the show?"
-    ha "Avez-vous apprécié le spectacle ?"
+    ha "Avez-vous apprécié le spectacle?"
 
 # game/code/Book-1/Chapter-8s/s07.rpy:638
 translate french b1c08ss07_after_pegging_20f7d290:
@@ -842,7 +842,7 @@ translate french b1c08ss07_after_pegging_20f7d290:
 translate french b1c08ss07_after_pegging_346593de:
 
     # ha "Did you enjoy watching the corner?"
-    ha "As-tu aimé regarder le coin ?"
+    ha "As-tu aimé regarder le coin?"
 
 # game/code/Book-1/Chapter-8s/s07.rpy:643
 translate french b1c08ss07_after_pegging_2525f142:
@@ -878,7 +878,7 @@ translate french b1c08ss07_after_pegging_bc654b23:
 translate french b1c08ss07_after_pegging_87b0d72b:
 
     # mc "And what exactly is it that you want from me, Hellena? I fail to see why you would need anything from someone like me."
-    mc "Et qu'est-ce que tu attends de moi exactement, Hellena ? Je ne vois pas pourquoi tu aurais besoin de quelque chose de quelqu'un comme moi."
+    mc "Et qu'est-ce que tu attends de moi exactement, Hellena? Je ne vois pas pourquoi tu aurais besoin de quelque chose de quelqu'un comme moi."
 
 # game/code/Book-1/Chapter-8s/s07.rpy:661
 translate french b1c08ss07_after_pegging_21a77af7:
@@ -908,7 +908,7 @@ translate french b1c08ss07_after_pegging_47e2d7c7:
 translate french b1c08ss07_after_pegging_19af6901:
 
     # mc "You seem well off on your own. Why should I matter to you?"
-    mc "Tu as l'air bien seul. Pourquoi devrais-je compter pour toi ?"
+    mc "Tu as l'air bien seul. Pourquoi devrais-je compter pour toi?"
 
 # game/code/Book-1/Chapter-8s/s07.rpy:670
 translate french b1c08ss07_after_pegging_62e42207:
@@ -956,7 +956,7 @@ translate french b1c08ss07_after_pegging_5a73b430:
 translate french b1c08ss07_after_pegging_7fe2ef01:
 
     # ha "Oh, aren't you a clever one? But no, I cannot. Trust can be a fragile thing, and I just haven't built up enough with you yet."
-    ha "Oh, tu n'es pas intelligent ? Mais non, je ne peux pas. La confiance peut être une chose fragile, et je n'ai tout simplement pas encore suffisamment construit avec toi."
+    ha "Oh, tu n'es pas intelligent? Mais non, je ne peux pas. La confiance peut être une chose fragile, et je n'ai tout simplement pas encore suffisamment construit avec toi."
 
 # game/code/Book-1/Chapter-8s/s07.rpy:686
 translate french b1c08ss07_after_pegging_1ad1eeb5:
@@ -974,7 +974,7 @@ translate french b1c08ss07_after_pegging_24d396c3:
 translate french b1c08ss07_after_pegging_84a2f4b7:
 
     # mc "I'm open minded. How can we help each other?"
-    mc "Je suis ouvert d'esprit. Comment pouvons-nous nous entraider ?"
+    mc "Je suis ouvert d'esprit. Comment pouvons-nous nous entraider?"
 
 # game/code/Book-1/Chapter-8s/s07.rpy:693
 translate french b1c08ss07_after_pegging_54798a59:
@@ -1034,19 +1034,19 @@ translate french b1c08ss07_after_pegging_aa8a79cc:
 translate french b1c08ss07_after_pegging_4a642a81:
 
     # "Hellena's eyes narrow as she observes your hesitation. She senses your uncertainty about Xasan even coming for you."
-    « Les yeux d'Hellena se rétrécissent alors qu'elle observe votre hésitation. Elle sent votre incertitude quant à la venue même de Xasan pour vous.
+    "Les yeux d'Hellena se rétrécissent alors qu'elle observe votre hésitation. Elle sent votre incertitude quant à la venue même de Xasan pour vous."
 
 # game/code/Book-1/Chapter-8s/s07.rpy:720
 translate french b1c08ss07_after_pegging_8da8ac7b:
 
     # ha "Or maybe he isn't coming at all. Is that it?"
-    ha "Ou peut-être qu'il ne vient pas du tout. C'est ça ?"
+    ha "Ou peut-être qu'il ne vient pas du tout. C'est ça?"
 
 # game/code/Book-1/Chapter-8s/s07.rpy:721
 translate french b1c08ss07_after_pegging_bb439cc4:
 
     # ha "After all, if The Syndicate had truly valued you, why would they have abandoned you so easily? Maybe I made the wrong assumption..."
-    ha "Après tout, si le Syndicat vous avait vraiment apprécié, pourquoi vous auraient-ils abandonné si facilement ? Peut-être que j'ai fait une mauvaise hypothèse..."
+    ha "Après tout, si le Syndicat vous avait vraiment apprécié, pourquoi vous auraient-ils abandonné si facilement? Peut-être que j'ai fait une mauvaise hypothèse..."
 
 # game/code/Book-1/Chapter-8s/s07.rpy:724
 translate french b1c08ss07_after_pegging_a1a89ce6:
@@ -1058,7 +1058,7 @@ translate french b1c08ss07_after_pegging_a1a89ce6:
 translate french b1c08ss07_after_pegging_be7352c4:
 
     # ha "Well, it seems like you don't have much to offer, do you? Perhaps I should find another form of entertainment."
-    ha "Eh bien, il semble que vous n'ayez pas grand-chose à offrir, n'est-ce pas ? Peut-être que je devrais trouver une autre forme de divertissement."
+    ha "Eh bien, il semble que vous n'ayez pas grand-chose à offrir, n'est-ce pas? Peut-être que je devrais trouver une autre forme de divertissement."
 
 # game/code/Book-1/Chapter-8s/s07.rpy:729
 translate french b1c08ss07_after_pegging_c54aa594:
@@ -1076,7 +1076,7 @@ translate french b1c08ss07_after_pegging_4d56ce60:
 translate french b1c08ss07_after_pegging_29afa216:
 
     # mct "I have to think of a way to distract her before this sadistic streak of hers takes over completely. She'll send me to the fucking wolves and watch as they rip me to shreds otherwise."
-    mct « Je dois trouver un moyen de la distraire avant que sa tendance sadique ne prenne complètement le dessus. Elle m'enverra chez ces putains de loups et les regardera me déchirer en lambeaux autrement.
+    mct "Je dois trouver un moyen de la distraire avant que sa tendance sadique ne prenne complètement le dessus. Elle m'enverra chez ces putains de loups et les regardera me déchirer en lambeaux autrement."
 
 # game/code/Book-1/Chapter-8s/s07.rpy:733
 translate french b1c08ss07_after_pegging_d8f13781:
@@ -1130,7 +1130,7 @@ translate french b1c08ss07_after_pegging_e760348f:
 translate french b1c08ss07_after_pegging_f81b8841:
 
     # ha "Oh, really? You think you can handle my insatiable appetites?"
-    ha "Oh, vraiment ? Tu penses que tu peux gérer mes appétits insatiables ?"
+    ha "Oh, vraiment? Tu penses que tu peux gérer mes appétits insatiables?"
 
 # game/code/Book-1/Chapter-8s/s07.rpy:749
 translate french b1c08ss07_after_pegging_0f8de503:
@@ -1142,7 +1142,7 @@ translate french b1c08ss07_after_pegging_0f8de503:
 translate french b1c08ss07_after_pegging_633523e3:
 
     # mc "Can {i}you{/i} handle {i}mine{/i}?"
-    mc "Pouvez-vous {i}vous{/i} gérer {i}le mien{/i} ?"
+    mc "Pouvez-vous {i}vous{/i} gérer {i}le mien{/i}?"
 
 # game/code/Book-1/Chapter-8s/s07.rpy:752
 translate french b1c08ss07_after_pegging_efacd41a:

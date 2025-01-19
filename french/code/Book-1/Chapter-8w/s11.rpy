@@ -21,7 +21,7 @@ translate french b1c08ws11_b277d51d:
 translate french b1c08ws11_00986770:
 
     # ir "UGH! Did you have to pack so much shit, Monika?"
-    ir "PFFF ! T'avais vraiment besoin de mettre autant de merdes dans ta valise, Monika ?"
+    ir "PFFF! T'avais vraiment besoin de mettre autant de merdes dans ta valise, Monika?"
 
 # game/code/Book-1/Chapter-8w/s11.rpy:78
 translate french b1c08ws11_a05d1a96:
@@ -51,25 +51,25 @@ translate french b1c08ws11_588fc319:
 translate french b1c08ws11_9e69040e:
 
     # ba "You fucking {i}what{/i}?!"
-    ba "T'as {i}quoi{/i} ?!"
+    ba "T'as {i}quoi{/i}?!"
 
 # game/code/Book-1/Chapter-8w/s11.rpy:96
 translate french b1c08ws11_81e6be92:
 
     # ir "You didn't! You slut!"
-    ir "T'as pas fait ça ! Saloperie !"
+    ir "T'as pas fait ça! Saloperie!"
 
 # game/code/Book-1/Chapter-8w/s11.rpy:100
 translate french b1c08ws11_6488307a:
 
     # mm "Simon! You tattling little twat."
-    mm "Simon ! Espèce de petit balance."
+    mm "Simon! Espèce de petit balance."
 
 # game/code/Book-1/Chapter-8w/s11.rpy:103
 translate french b1c08ws11_67c5d600:
 
     # sm "Hey! Will you guys help a little?"
-    sm "Hé ! Vous allez aider un peu ?"
+    sm "Hé! Vous allez aider un peu?"
 
 # game/code/Book-1/Chapter-8w/s11.rpy:108
 translate french b1c08ws11_47e2671a:
@@ -153,19 +153,19 @@ translate french b1c08ws11_51a1cc2c:
 translate french b1c08ws11_63ad3eb7:
 
     # mc "Hey, Silvia. What's up?"
-    mc "Hé, Silvia. Quoi de neuf ?"
+    mc "Hé, Silvia. Quoi de neuf?"
 
 # game/code/Book-1/Chapter-8w/s11.rpy:155
 translate french b1c08ws11_cfb2d94e:
 
     # sm "Um, would you mind helping me with my luggage? It's a bit heavy to carry all the way to my room."
-    sm "Euh, tu voudrais bien m'aider avec mes bagages ? C'est un peu lourd à porter jusqu'à ma chambre."
+    sm "Euh, tu voudrais bien m'aider avec mes bagages? C'est un peu lourd à porter jusqu'à ma chambre."
 
 # game/code/Book-1/Chapter-8w/s11.rpy:158
 translate french b1c08ws11_b65566de:
 
     # mc "Of course, isn't it against the rules for me to enter the mansion, though? You guys have been pretty strict about that."
-    mc "Bien sûr, mais ce n'est pas contre les règles que j'entre dans le manoir ? Vous avez été assez stricts à ce sujet."
+    mc "Bien sûr, mais ce n'est pas contre les règles que j'entre dans le manoir? Vous avez été assez stricts à ce sujet."
 
 # game/code/Book-1/Chapter-8w/s11.rpy:161
 translate french b1c08ws11_f0796cae:
@@ -225,7 +225,7 @@ translate french b1c08ws11_541e68e8:
 translate french b1c08ws11_9f55acdb:
 
     # mct "I wonder why she's so uneasy?"
-    mct "Je me demande pourquoi elle est si mal à l'aise ?"
+    mct "Je me demande pourquoi elle est si mal à l'aise?"
 
 # game/code/Book-1/Chapter-8w/s11.rpy:189
 translate french b1c08ws11_d1b559f2:
@@ -261,7 +261,7 @@ translate french b1c08ws11_21b96ee6:
 translate french b1c08ws11_fc862652:
 
     # mc "What is there to apologize for?"
-    mc "Qu'est-ce qu'il y a à pardonner ?"
+    mc "Qu'est-ce qu'il y a à pardonner?"
 
 # game/code/Book-1/Chapter-8w/s11.rpy:214
 translate french b1c08ws11_eff6ddbb:
@@ -501,7 +501,7 @@ translate french b1c08ws11_dfbc6d03:
 translate french b1c08ws11_17a722aa:
 
     # sm "I'm cumming, I'm cumming!"
-    sm "Je jouis, je jouis !"
+    sm "Je jouis, je jouis!"
 
 # game/code/Book-1/Chapter-8w/s11.rpy:444
 translate french b1c08ws11_2f4ce43c:
@@ -531,7 +531,7 @@ translate french b1c08ws11_3fd7d693:
 translate french b1c08ws11_7704b4d8:
 
     # mc "*Softly* Was that good? Did it help?"
-    mc "*Doucement* C'était bien ? Est-ce que ça a aidé ?"
+    mc "*Doucement* C'était bien? Est-ce que ça a aidé?"
 
 # game/code/Book-1/Chapter-8w/s11.rpy:465
 translate french b1c08ws11_3e095316:
@@ -561,7 +561,7 @@ translate french b1c08ws11_70f02e57:
 translate french b1c08ws11_676882cf:
 
     # sm "*Softly* How have you been holding up, [mcname]?"
-    sm "*Doucement* Comment as-tu tenu le coup, [mcname] ?"
+    sm "*Doucement* Comment as-tu tenu le coup, [mcname]?"
 
 # game/code/Book-1/Chapter-8w/s11.rpy:481
 translate french b1c08ws11_4f07a3f3:
@@ -627,7 +627,7 @@ translate french b1c08ws11_c9b7ddca:
 translate french b1c08ws11_04eadfcc:
 
     # sm "*Sigh* Life sure can be a real mess sometimes, can't it?"
-    sm "*Soupir* La vie peut vraiment être un vrai chaos parfois, n'est-ce pas ?"
+    sm "*Soupir* La vie peut vraiment être un vrai chaos parfois, n'est-ce pas?"
 
 # game/code/Book-1/Chapter-8w/s11.rpy:510
 translate french b1c08ws11_6d068275:

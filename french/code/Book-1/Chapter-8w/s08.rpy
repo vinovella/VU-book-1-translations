@@ -27,7 +27,7 @@ translate french b1c08ws08_a84cad95:
 translate french b1c08ws08_7bc97bfa:
 
     # mm "Call the cops so that they can figure out we pumped him full of drugs he couldn't handle?"
-    mm "Appeler les flics pour qu'ils découvrent qu'on l'a injecté avec des drogues qu'il ne pouvait pas supporter ?"
+    mm "Appeler les flics pour qu'ils découvrent qu'on l'a injecté avec des drogues qu'il ne pouvait pas supporter?"
 
 # game/code/Book-1/Chapter-8w/s08.rpy:59
 translate french b1c08ws08_532f6b3f:
@@ -45,19 +45,19 @@ translate french b1c08ws08_d6c314e9:
 translate french b1c08ws08_474e2994:
 
     # ba "Enough! You're all acting like a buncha bleeding hearts. He's a grown man fuck's sake; he can take care of himself."
-    ba "Assez ! Vous agissez tous comme une bande de faux-culs. C'est un homme adulte, bordel, il peut s'occuper de lui-même."
+    ba "Assez! Vous agissez tous comme une bande de faux-culs. C'est un homme adulte, bordel, il peut s'occuper de lui-même."
 
 # game/code/Book-1/Chapter-8w/s08.rpy:68
 translate french b1c08ws08_efed2a40:
 
     # ir "Bleeding hearts!? How the fuck are you so calm?"
-    ir "Faux-culs ?! Comment tu peux être aussi calme ?"
+    ir "Faux-culs?! Comment tu peux être aussi calme?"
 
 # game/code/Book-1/Chapter-8w/s08.rpy:69
 translate french b1c08ws08_d2b184ae:
 
     # ir "He looked like he was about to pass out during the match. What if he had a fucking heart attack and died!?"
-    ir "Il avait l'air de s'évanouir pendant le match. Et si il avait eu une putain de crise cardiaque et qu'il était mort !?"
+    ir "Il avait l'air de s'évanouir pendant le match. Et si il avait eu une putain de crise cardiaque et qu'il était mort!?"
 
 # game/code/Book-1/Chapter-8w/s08.rpy:72
 translate french b1c08ws08_a39dd15f:
@@ -99,7 +99,7 @@ translate french b1c08ws08_91c5e448:
 translate french b1c08ws08_f2d18756:
 
     # mct "Where...?"
-    mct "Où... ?"
+    mct "Où...?"
 
 # game/code/Book-1/Chapter-8w/s08.rpy:93
 translate french b1c08ws08_443bcd03:
@@ -117,7 +117,7 @@ translate french b1c08ws08_4859d49d:
 translate french b1c08ws08_cffece67:
 
     # mct "Hotel?"
-    mct "Hôtel ?"
+    mct "Hôtel?"
 
 # game/code/Book-1/Chapter-8w/s08.rpy:100
 translate french b1c08ws08_dbaacede:
@@ -129,7 +129,7 @@ translate french b1c08ws08_dbaacede:
 translate french b1c08ws08_f0889ba1:
 
     # mct "How did I...?"
-    mct "Comment ai-je... ?"
+    mct "Comment ai-je...?"
 
 # game/code/Book-1/Chapter-8w/s08.rpy:106
 translate french b1c08ws08_739c3387:
@@ -153,13 +153,13 @@ translate french b1c08ws08_8072e1b2:
 translate french b1c08ws08_3c8473ab:
 
     # tw "Oh! You're awake. Good."
-    tw "Oh ! Tu es réveillé. Bien."
+    tw "Oh! Tu es réveillé. Bien."
 
 # game/code/Book-1/Chapter-8w/s08.rpy:125
 translate french b1c08ws08_895983c7:
 
     # mc "Where am I? What happened?"
-    mc "Où suis-je ? Que s'est-il passé ?"
+    mc "Où suis-je? Que s'est-il passé?"
 
 # game/code/Book-1/Chapter-8w/s08.rpy:130
 translate french b1c08ws08_e8f35984:
@@ -213,7 +213,7 @@ translate french b1c08ws08_679bd060:
 translate french b1c08ws08_bf499815:
 
     # tw "If you don't mind me asking, what happened?"
-    tw "Si ça ne te dérange pas, qu'est-ce qui s'est passé ?"
+    tw "Si ça ne te dérange pas, qu'est-ce qui s'est passé?"
 
 # game/code/Book-1/Chapter-8w/s08.rpy:155
 translate french b1c08ws08_22d27346:
@@ -321,7 +321,7 @@ translate french b1c08ws08_dcae77da:
 translate french b1c08ws08_471e0c98:
 
     # tw "*Smirks* Noticed that, did you?"
-    tw "*Sourit* Tu as remarqué ça, hein ?"
+    tw "*Sourit* Tu as remarqué ça, hein?"
 
 # game/code/Book-1/Chapter-8w/s08.rpy:203
 translate french b1c08ws08_365f313d:
@@ -357,31 +357,31 @@ translate french b1c08ws08_2fbf1107:
 translate french b1c08ws08_35ef0978:
 
     # mc "Oh? About what?"
-    mc "Oh ? À propos de quoi ?"
+    mc "Oh? À propos de quoi?"
 
 # game/code/Book-1/Chapter-8w/s08.rpy:217
 translate french b1c08ws08_8af8e663:
 
     # tw "What's someone like you doing in a team like The Winners anyway?"
-    tw "Qu'est-ce qu'une personne comme toi fait dans une équipe comme Les Gagnants ?"
+    tw "Qu'est-ce qu'une personne comme toi fait dans une équipe comme Les Gagnants?"
 
 # game/code/Book-1/Chapter-8w/s08.rpy:219
 translate french b1c08ws08_f739ed15:
 
     # mct "What is she getting at here?"
-    mct "Où veut-elle en venir ici ?"
+    mct "Où veut-elle en venir ici?"
 
 # game/code/Book-1/Chapter-8w/s08.rpy:221
 translate french b1c08ws08_e6ef2dab:
 
     # mc "What can I say? I'm a competitive guy."
-    mc "Que puis-je dire ? Je suis un gars compétitif."
+    mc "Que puis-je dire? Je suis un gars compétitif."
 
 # game/code/Book-1/Chapter-8w/s08.rpy:225
 translate french b1c08ws08_f71c8d53:
 
     # tw "*Chuckles* I can see that. But there's more to you, isn't there?"
-    tw "*Rit* Je peux voir ça. Mais il y a plus chez toi, n'est-ce pas ?"
+    tw "*Rit* Je peux voir ça. Mais il y a plus chez toi, n'est-ce pas?"
 
 # game/code/Book-1/Chapter-8w/s08.rpy:228
 translate french b1c08ws08_05ee22cb:
@@ -393,13 +393,13 @@ translate french b1c08ws08_05ee22cb:
 translate french b1c08ws08_8533756f:
 
     # mc "Isn't there more to all of us if you dig deep enough?"
-    mc "N'y a-t-il pas plus chez chacun de nous si on cherche assez profondément ?"
+    mc "N'y a-t-il pas plus chez chacun de nous si on cherche assez profondément?"
 
 # game/code/Book-1/Chapter-8w/s08.rpy:231
 translate french b1c08ws08_0f2dca4d:
 
     # mc "How many of my other team members have you had to drag back to your hotel room?"
-    mc "Combien d'autres membres de mon équipe as-tu dû traîner jusqu'à ta chambre d'hôtel ?"
+    mc "Combien d'autres membres de mon équipe as-tu dû traîner jusqu'à ta chambre d'hôtel?"
 
 # game/code/Book-1/Chapter-8w/s08.rpy:234
 translate french b1c08ws08_db25cb63:
@@ -411,7 +411,7 @@ translate french b1c08ws08_db25cb63:
 translate french b1c08ws08_fd01dcb1:
 
     # tw "Do you believe in seizing the moment, [mcname]?"
-    tw "Croyez-vous qu'il faut saisir l'instant présent, [mcname] ?"
+    tw "Croyez-vous qu'il faut saisir l'instant présent, [mcname]?"
 
 # game/code/Book-1/Chapter-8w/s08.rpy:238
 translate french b1c08ws08_55af2f58:
@@ -717,7 +717,7 @@ translate french b1c08ws08_sex_004c28c2:
 translate french b1c08ws08_sex_bbb9c677:
 
     # tw "Yes! Give it to me!"
-    tw "Oui ! Donne-le-moi !"
+    tw "Oui! Donne-le-moi!"
 
 # game/code/Book-1/Chapter-8w/s08.rpy:493
 translate french b1c08ws08_sex_0e784e93:
@@ -777,7 +777,7 @@ translate french b1c08ws08_sex_c6be33b4:
 translate french b1c08ws08_sex_b21694d4:
 
     # mc "Bit selfish, isn't it?"
-    mc « Un peu égoïste, n'est-ce pas ?
+    mc "Un peu égoïste, n'est-ce pas?"
 
 # game/code/Book-1/Chapter-8w/s08.rpy:549
 translate french b1c08ws08_end_3ea48173:

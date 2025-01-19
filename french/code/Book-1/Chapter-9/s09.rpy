@@ -15,13 +15,13 @@ translate french b1c09s09_continue_a1edf7db:
 translate french b1c09s09_continue_cfb75340:
 
     # ima "Hello! I am Isa, your competent party host. You must be [mcname]? I've heard a lot about you."
-    ima "Bonjour ! Je suis Isa, votre hôte de fête compétente. Vous devez être [mcname] ? J'ai beaucoup entendu parler de vous."
+    ima "Bonjour! Je suis Isa, votre hôte de fête compétente. Vous devez être [mcname]? J'ai beaucoup entendu parler de vous."
 
 # game/code/Book-1/Chapter-9/s09.rpy:63
 translate french b1c09s09_continue_2eac4c0f:
 
     # ima "[mcname]! I'm so happy you made it."
-    ima "[mcname] ! Je suis tellement contente que vous soyez venu."
+    ima "[mcname]! Je suis tellement contente que vous soyez venu."
 
 # game/code/Book-1/Chapter-9/s09.rpy:67
 translate french b1c09s09_continue_3da544d8:
@@ -75,13 +75,13 @@ translate french b1c09s09_continue_5103a23d:
 translate french b1c09s09_continue_a3ef0aca:
 
     # ima "Anyway, enjoy yourself! I'll be in the mansion if you need anything."
-    ima "En tout cas, amusez-vous bien ! Je serai dans le manoir si vous avez besoin de quoi que ce soit."
+    ima "En tout cas, amusez-vous bien! Je serai dans le manoir si vous avez besoin de quoi que ce soit."
 
 # game/code/Book-1/Chapter-9/s09.rpy:102
 translate french b1c09s09_continue_0c6d4546:
 
     # mct "Hm, where should I start first?"
-    mct "Hm, par où devrais-je commencer ?"
+    mct "Hm, par où devrais-je commencer?"
 
 # game/code/Book-1/Chapter-9/s09.rpy:103
 translate french b1c09s09_continue_8fa184cb:

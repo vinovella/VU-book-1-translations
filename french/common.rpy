@@ -475,55 +475,55 @@ translate french strings:
 
     # renpy/common/00gui.rpy:448
     old "Are you sure?"
-    new "Êtes-vous sûr ?"
-  
+    new "Êtes-vous sûr?"
+
     # renpy/common/00gui.rpy:449
     old "Are you sure you want to delete this save?"
-    new "Êtes-vous sûr de vouloir supprimer cette sauvegarde ?"
+    new "Êtes-vous sûr de vouloir supprimer cette sauvegarde?"
 
     # renpy/common/00gui.rpy:450
     old "Are you sure you want to overwrite your save?"
-    new "Êtes-vous sûr de vouloir écraser votre sauvegarde ?"
+    new "Êtes-vous sûr de vouloir écraser votre sauvegarde?"
 
     # renpy/common/00gui.rpy:451
     old "Loading will lose unsaved progress.\nAre you sure you want to do this?"
-    new "Le chargement entraînera la perte des progrès non sauvegardés.\nÊtes-vous sûr de vouloir procéder ?"
+    new "Le chargement entraînera la perte des progrès non sauvegardés.\nÊtes-vous sûr de vouloir procéder?"
 
     # renpy/common/00gui.rpy:452
     old "Are you sure you want to quit?"
-    new "Êtes-vous sûr de vouloir quitter ?"
+    new "Êtes-vous sûr de vouloir quitter?"
 
     # renpy/common/00gui.rpy:453
     old "Are you sure you want to return to the main menu?\nThis will lose unsaved progress."
-    new "Êtes-vous sûr de vouloir revenir au menu principal ?\nCela entraînera la perte des progrès non sauvegardés."
+    new "Êtes-vous sûr de vouloir revenir au menu principal?\nCela entraînera la perte des progrès non sauvegardés."
 
     # renpy/common/00gui.rpy:454
     old "Are you sure you want to continue where you left off?"
-    new "Êtes-vous sûr de vouloir reprendre là où vous vous êtes arrêté ?"
+    new "Êtes-vous sûr de vouloir reprendre là où vous vous êtes arrêté?"
 
     # renpy/common/00gui.rpy:455
     old "Are you sure you want to end the replay?"
-    new "Êtes-vous sûr de vouloir mettre fin à la relecture ?"
+    new "Êtes-vous sûr de vouloir mettre fin à la relecture?"
 
     # renpy/common/00gui.rpy:456
     old "Are you sure you want to begin skipping?"
-    new "Êtes-vous sûr de vouloir commencer à passer ?"
+    new "Êtes-vous sûr de vouloir commencer à passer?"
 
     # renpy/common/00gui.rpy:457
     old "Are you sure you want to skip to the next choice?"
-    new "Êtes-vous sûr de vouloir passer à la prochaine option ?"
+    new "Êtes-vous sûr de vouloir passer à la prochaine option?"
 
     # renpy/common/00gui.rpy:458
     old "Are you sure you want to skip unseen dialogue to the next choice?"
-    new "Êtes-vous sûr de vouloir sauter le dialogue non vu pour passer à la prochaine option ?"
+    new "Êtes-vous sûr de vouloir sauter le dialogue non vu pour passer à la prochaine option?"
 
     # renpy/common/00gui.rpy:459
     old "This save was created on a different device. Maliciously constructed save files can harm your computer. Do you trust this save's creator and everyone who could have changed the file?"
-    new "Cette sauvegarde a été créée sur un autre appareil. Les fichiers de sauvegarde malveillants peuvent endommager votre ordinateur. Faites-vous confiance à la personne ayant créé cette sauvegarde et à tous ceux qui ont pu modifier le fichier ?"
-   
+    new "Cette sauvegarde a été créée sur un autre appareil. Les fichiers de sauvegarde malveillants peuvent endommager votre ordinateur. Faites-vous confiance à la personne ayant créé cette sauvegarde et à tous ceux qui ont pu modifier le fichier?"
+
     # renpy/common/00gui.rpy:460
     old "Do you trust the device the save was created on? You should only choose yes if you are the device's sole user."
-    new "Faites-vous confiance à l'appareil sur lequel la sauvegarde a été créée ? Vous ne devez répondre oui que si vous êtes le seul utilisateur de l'appareil."
+    new "Faites-vous confiance à l'appareil sur lequel la sauvegarde a été créée? Vous ne devez répondre oui que si vous êtes le seul utilisateur de l'appareil."
 
     # renpy/common/00keymap.rpy:323
     old "Failed to save screenshot as %s."
@@ -839,7 +839,7 @@ translate french strings:
 
     # renpy/common/00sync.rpy:538
     old "This will upload your saves to the {a=https://sync.renpy.org}Ren'Py Sync Server{/a}.\nDo you want to continue?"
-    new "Cela téléchargera vos sauvegardes sur le {a=https://sync.renpy.org}serveur Ren'Py Sync{/a}.\nVoulez-vous continuer ?"
+    new "Cela téléchargera vos sauvegardes sur le {a=https://sync.renpy.org}serveur Ren'Py Sync{/a}.\nVoulez-vous continuer?"
 
     # renpy/common/00sync.rpy:546
     old "Yes"
@@ -943,7 +943,7 @@ translate french strings:
 
     # renpy/common/00updater.rpy:2028
     old "[u.version] is available. Do you want to install it?"
-    new "[u.version] est disponible. Voulez-vous l'installer ?"
+    new "[u.version] est disponible. Voulez-vous l'installer?"
 
     # renpy/common/00updater.rpy:2030
     old "Preparing to download the updates."

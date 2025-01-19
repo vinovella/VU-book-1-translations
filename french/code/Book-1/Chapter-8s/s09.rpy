@@ -27,7 +27,7 @@ translate french b1c08ss09_08c6d9ef:
 translate french b1c08ss09_943b5966:
 
     # ffl "I was so worried about you! We were just planning on what to do if-if you—"
-    ffl "Je m'inquiétais tellement pour toi ! On venait juste de planifier ce qu'on ferait si-tu—"
+    ffl "Je m'inquiétais tellement pour toi! On venait juste de planifier ce qu'on ferait si-tu—"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:36
 translate french b1c08ss09_e29ae584:
@@ -51,13 +51,13 @@ translate french b1c08ss09_5d987c2d:
 translate french b1c08ss09_61754f13:
 
     # ass "What even happened?"
-    ass "Mais qu'est-ce qui s'est passé ?"
+    ass "Mais qu'est-ce qui s'est passé?"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:48
 translate french b1c08ss09_cf0b0cf7:
 
     # ffl "God! You're hurt!"
-    ffl "Mon Dieu ! Tu es blessé !"
+    ffl "Mon Dieu! Tu es blessé!"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:50
 translate french b1c08ss09_a9265965:
@@ -75,7 +75,7 @@ translate french b1c08ss09_1c854379:
 translate french b1c08ss09_22ff7f68:
 
     # ffl "Haven't we all been shaken up enough by this whole mess? We don't need anymore violence."
-    ffl "Est-ce qu'on n'a pas tous assez été secoués par tout ce bazar ? On n'a pas besoin de plus de violence."
+    ffl "Est-ce qu'on n'a pas tous assez été secoués par tout ce bazar? On n'a pas besoin de plus de violence."
 
 # game/code/Book-1/Chapter-8s/s09.rpy:60
 translate french b1c08ss09_1fcbb720:
@@ -99,13 +99,13 @@ translate french b1c08ss09_e30c7256:
 translate french b1c08ss09_0136f253:
 
     # mc "Jesus. You put straight moonshine on this thing?"
-    mc "Jésus. Tu as mis de l'alcool fort dessus ?"
+    mc "Jésus. Tu as mis de l'alcool fort dessus?"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:72
 translate french b1c08ss09_b9766c20:
 
     # rd "Packs quite a punch, don't it?"
-    rd "Ça envoie du lourd, hein ?"
+    rd "Ça envoie du lourd, hein?"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:75
 translate french b1c08ss09_08ce9087:
@@ -189,7 +189,7 @@ translate french b1c08ss09_15de29d4:
 translate french b1c08ss09_12165fab:
 
     # mc "How are they doing? Are Q and the girls recovering okay?"
-    mc "Comment vont-elles ? Q et les filles se remettent bien ?"
+    mc "Comment vont-elles? Q et les filles se remettent bien?"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:113
 translate french b1c08ss09_b6260935:
@@ -213,7 +213,7 @@ translate french b1c08ss09_642e3b09:
 translate french b1c08ss09_cd832d36:
 
     # ass "I'll say! Fleur and I are tending to their wounds while they recover, and all they wanna do is brag about the insults they shouted at Cade and complain about my nursing skills."
-    ass "Je te le dis ! Fleur et moi, on soigne leurs blessures pendant qu'elles se remettent, et tout ce qu'elles veulent faire, c'est se vanter des insultes qu'elles ont hurlées à Cade et se plaindre de mes compétences en soins."
+    ass "Je te le dis! Fleur et moi, on soigne leurs blessures pendant qu'elles se remettent, et tout ce qu'elles veulent faire, c'est se vanter des insultes qu'elles ont hurlées à Cade et se plaindre de mes compétences en soins."
 
 # game/code/Book-1/Chapter-8s/s09.rpy:124
 translate french b1c08ss09_2d415256:
@@ -321,7 +321,7 @@ translate french b1c08ss09_f9e5f48d:
 translate french b1c08ss09_56e4d42c:
 
     # zp "What about you? Are there any other injuries you got?"
-    zp "Et toi ? Tu as d'autres blessures ?"
+    zp "Et toi? Tu as d'autres blessures?"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:176
 translate french b1c08ss09_5d0250bf:
@@ -387,7 +387,7 @@ translate french b1c08ss09_c78368b7:
 translate french b1c08ss09_88df3357:
 
     # mc "I missed you too, but jeez, put me down!"
-    mc "Tu m'as aussi manqué, mais mince, repose-moi !"
+    mc "Tu m'as aussi manqué, mais mince, repose-moi!"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:232
 translate french b1c08ss09_6cf5d64a:
@@ -471,19 +471,19 @@ translate french b1c08ss09_df6b0f36:
 translate french b1c08ss09_4b612462:
 
     # xv "Did you come back with any intel on the enemy gang?"
-    xv "Tu es revenu avec des infos sur le gang ennemi ?"
+    xv "Tu es revenu avec des infos sur le gang ennemi?"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:287
 translate french b1c08ss09_52899a1d:
 
     # zp "Is that all you have to say?"
-    zp "C'est tout ce que tu as à dire ?"
+    zp "C'est tout ce que tu as à dire?"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:290
 translate french b1c08ss09_44039e84:
 
     # zp "After all he's been through, {i}that's{/i} how you greet the man who sacrificed himself for us?"
-    zp "Après tout ce qu'il a traversé, {i}c'est{/i} comme ça que tu accueilles l'homme qui s'est sacrifié pour nous ?"
+    zp "Après tout ce qu'il a traversé, {i}c'est{/i} comme ça que tu accueilles l'homme qui s'est sacrifié pour nous?"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:292
 translate french b1c08ss09_6ed57528:
@@ -537,7 +537,7 @@ translate french b1c08ss09_11f4bf9c:
 translate french b1c08ss09_a3f4989a:
 
     # zp "Why didn't you tell me, Xasan? I would've planned things differently if I'd known {i}your{/i} plan."
-    zp "Pourquoi ne m'as-tu pas dit, Xasan ? J'aurais planifié les choses différemment si j'avais connu {i}ton{/i} plan."
+    zp "Pourquoi ne m'as-tu pas dit, Xasan? J'aurais planifié les choses différemment si j'avais connu {i}ton{/i} plan."
 
 # game/code/Book-1/Chapter-8s/s09.rpy:316
 translate french b1c08ss09_8e94de39:
@@ -561,7 +561,7 @@ translate french b1c08ss09_12628b0a:
 translate french b1c08ss09_f49a0a1f:
 
     # zp "And was he part of the diversion?"
-    zp "Et faisait-il partie de la diversion ?"
+    zp "Et faisait-il partie de la diversion?"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:324
 translate french b1c08ss09_adeb4d25:
@@ -633,7 +633,7 @@ translate french b1c08ss09_cb843c3b:
 translate french b1c08ss09_79f30f05:
 
     # mct "Who the fuck is he to dismiss what I've done, and then dismiss the worries of the women?"
-    mct "Qui l'enfoiré pour écarter ce que j'ai fait, puis ignorer les préoccupations des femmes ?"
+    mct "Qui l'enfoiré pour écarter ce que j'ai fait, puis ignorer les préoccupations des femmes?"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:354
 translate french b1c08ss09_89753095:
@@ -645,13 +645,13 @@ translate french b1c08ss09_89753095:
 translate french b1c08ss09_24603bd6:
 
     # mc "I don't see why I shouldn't get some fucking appreciation for it. Would you have preferred I left your ass for the Wasps?"
-    mc "Je ne vois pas pourquoi je ne devrais pas avoir un putain de peu de reconnaissance pour ça. Tu aurais préféré que je laisse ton cul aux Guêpes ?"
+    mc "Je ne vois pas pourquoi je ne devrais pas avoir un putain de peu de reconnaissance pour ça. Tu aurais préféré que je laisse ton cul aux Guêpes?"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:359
 translate french b1c08ss09_bc5dfead:
 
     # xv "You think you know the complexities of keeping everyone here safe? Huh, rookie!?"
-    xv "Tu penses que tu connais les complexités de garder tout le monde ici en sécurité ? Hein, rookie !?"
+    xv "Tu penses que tu connais les complexités de garder tout le monde ici en sécurité? Hein, rookie!?"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:362
 translate french b1c08ss09_d1ab8489:
@@ -663,7 +663,7 @@ translate french b1c08ss09_d1ab8489:
 translate french b1c08ss09_495c4e0b:
 
     # xv "I didn't give a shit if I got caught protecting everyone here! And yet you come back here and expect everyone to get on their goddamn knees and suck you off?"
-    xv "Je me fichais bien de me faire prendre en train de protéger tout le monde ici ! Et pourtant tu reviens ici et tu t'attends à ce que tout le monde se mette à genoux pour te sucer ?"
+    xv "Je me fichais bien de me faire prendre en train de protéger tout le monde ici! Et pourtant tu reviens ici et tu t'attends à ce que tout le monde se mette à genoux pour te sucer?"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:367
 translate french b1c08ss09_32c95a6d:
@@ -723,7 +723,7 @@ translate french b1c08ss09_f478b9ab:
 translate french b1c08ss09_3e2258ab:
 
     # mc "What does any of this matter?"
-    mc "Qu'est-ce que tout ça importe ?"
+    mc "Qu'est-ce que tout ça importe?"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:403
 translate french b1c08ss09_a32779ba:
@@ -765,7 +765,7 @@ translate french b1c08ss09_d5067cb0:
 translate french b1c08ss09_2e39085e:
 
     # mg "So what? [mcname] deserved to be left out there? Fuck off with that, Xasan. I saw you make the decision to leave [mcname] behind."
-    mg "Alors quoi ? [mcname] méritait d'être laissé là-bas ? Va te faire foutre avec ça, Xasan. Je t'ai vu prendre la décision de laisser [mcname] derrière."
+    mg "Alors quoi? [mcname] méritait d'être laissé là-bas? Va te faire foutre avec ça, Xasan. Je t'ai vu prendre la décision de laisser [mcname] derrière."
 
 # game/code/Book-1/Chapter-8s/s09.rpy:422
 translate french b1c08ss09_4d26172a:
@@ -819,19 +819,19 @@ translate french b1c08ss09_9fe126f2:
 translate french b1c08ss09_2704da75:
 
     # mg "You think that fucking scares me?"
-    mg "Tu crois que ça me fait putain de peur ?"
+    mg "Tu crois que ça me fait putain de peur?"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:442
 translate french b1c08ss09_966f13c9:
 
     # mg "Do you think you can take more from me than you already have? I don't have any fucking more to lose!"
-    mg "Tu crois que tu peux me prendre encore plus que ce que tu as déjà pris ? Je n'ai plus rien à foutre à perdre !"
+    mg "Tu crois que tu peux me prendre encore plus que ce que tu as déjà pris? Je n'ai plus rien à foutre à perdre!"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:445
 translate french b1c08ss09_33123e68:
 
     # xv "I did what I fucking had to, Morgan! This was to protect everyone here, including you!"
-    xv "J'ai fait ce que j'avais putain de faire, Morgan ! C'était pour protéger tout le monde ici, y compris toi !"
+    xv "J'ai fait ce que j'avais putain de faire, Morgan! C'était pour protéger tout le monde ici, y compris toi!"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:448
 translate french b1c08ss09_5a715d15:
@@ -879,7 +879,7 @@ translate french b1c08ss09_9c309990:
 translate french b1c08ss09_a9864f3c:
 
     # zp "[mcname] barely knows anyone here, and yet he's risking everything for The Syndicate. He believes in us, and you let him down!"
-    zp "[mcname] ne connaît presque personne ici, et pourtant il risque tout pour Le Syndicat. Il croit en nous, et tu l'as trahi !"
+    zp "[mcname] ne connaît presque personne ici, et pourtant il risque tout pour Le Syndicat. Il croit en nous, et tu l'as trahi!"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:467
 translate french b1c08ss09_f3466e68:
@@ -897,7 +897,7 @@ translate french b1c08ss09_7b47b179:
 translate french b1c08ss09_f165a22e:
 
     # xv "Exactly. And he's not even one of us, Zem! He's a fuckin' stray off the street, and you think he's the second coming of Christ? Be fucking rational!"
-    xv "Exactement. Et il n'est même pas l'un de nous, Zem ! C'est un putain de chien errant, et tu penses qu'il est la deuxième venue du Christ ? Sois putain de rationnelle !"
+    xv "Exactement. Et il n'est même pas l'un de nous, Zem! C'est un putain de chien errant, et tu penses qu'il est la deuxième venue du Christ? Sois putain de rationnelle!"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:475
 translate french b1c08ss09_e6e18d0a:
@@ -945,7 +945,7 @@ translate french b1c08ss09_dbaf3843:
 translate french b1c08ss09_3bd58432:
 
     # zp "What the fuck are you doing, Xasan?"
-    zp "Qu'est-ce que tu fous, Xasan ?"
+    zp "Qu'est-ce que tu fous, Xasan?"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:496
 translate french b1c08ss09_a15e46e4:
@@ -963,13 +963,13 @@ translate french b1c08ss09_f99cce0f:
 translate french b1c08ss09_71d98b0e:
 
     # zp "This is fucked up, Xasan!"
-    zp "C'est fucked up, Xasan !"
+    zp "C'est fucked up, Xasan!"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:505
 translate french b1c08ss09_bc65a33d:
 
     # xv "This is what you wanted, isn't it? For Rookie here to be a part of this gang? Well this is the way!"
-    xv "C'est ce que tu voulais, non ? Que Rookie fasse partie de ce gang ? Eh bien, voici la manière !"
+    xv "C'est ce que tu voulais, non? Que Rookie fasse partie de ce gang? Eh bien, voici la manière!"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:506
 translate french b1c08ss09_35ab6918:
@@ -981,7 +981,7 @@ translate french b1c08ss09_35ab6918:
 translate french b1c08ss09_42a4f2da:
 
     # xv "You're indebted to me, Morgan. Are you gonna do this or what?"
-    xv "Tu me dois, Morgan. Tu vas faire ça ou quoi ?"
+    xv "Tu me dois, Morgan. Tu vas faire ça ou quoi?"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:512
 translate french b1c08ss09_97847a6b:
@@ -999,7 +999,7 @@ translate french b1c08ss09_ec16bad7:
 translate french b1c08ss09_389bb602:
 
     # mg "Will this affect my debts to The Syndicate?"
-    mg "Est-ce que cela affectera mes dettes envers Le Syndicat ?"
+    mg "Est-ce que cela affectera mes dettes envers Le Syndicat?"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:520
 translate french b1c08ss09_c9e5bfaf:
@@ -1017,13 +1017,13 @@ translate french b1c08ss09_24483e3a:
 translate french b1c08ss09_52304604:
 
     # mg "Regardless of if I win or not?"
-    mg "Peu importe si je gagne ou non ?"
+    mg "Peu importe si je gagne ou non?"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:529
 translate french b1c08ss09_101344b5:
 
     # xv "I guess. You'll get more percentage wiped if you do win though. How about that?"
-    xv "Je suppose. Tu recevras un pourcentage encore plus élevé si tu gagnes. Ça te va ?"
+    xv "Je suppose. Tu recevras un pourcentage encore plus élevé si tu gagnes. Ça te va?"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:531
 translate french b1c08ss09_ca23dd13:
@@ -1047,7 +1047,7 @@ translate french b1c08ss09_ccc6f49d:
 translate french b1c08ss09_74f0c03a:
 
     # zp "Morgan, you can't really be doing this!"
-    zp "Morgan, tu ne peux pas vraiment faire ça !"
+    zp "Morgan, tu ne peux pas vraiment faire ça!"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:541
 translate french b1c08ss09_8b845d7f:
@@ -1059,13 +1059,13 @@ translate french b1c08ss09_8b845d7f:
 translate french b1c08ss09_42b14830:
 
     # zp "Are you fucking serious?"
-    zp "Tu es sérieuse là ?"
+    zp "Tu es sérieuse là?"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:548
 translate french b1c08ss09_f19d678b:
 
     # mg "*Whispers* Remember what I taught you during our lesson? I'll stick to moves that you know...mostly."
-    mg "*Chuchote* Tu te souviens de ce que je t'ai appris pendant notre leçon ? Je vais m'en tenir aux mouvements que tu connais...en grande partie."
+    mg "*Chuchote* Tu te souviens de ce que je t'ai appris pendant notre leçon? Je vais m'en tenir aux mouvements que tu connais...en grande partie."
 
 # game/code/Book-1/Chapter-8s/s09.rpy:549
 translate french b1c08ss09_37ab4414:
@@ -1107,7 +1107,7 @@ translate french b1c08ss09_798525b3:
 translate french b1c08ss09_6d274ae4:
 
     # xv "Alright Rookie! You lose, you prove you're not worthy of this gang. Morgan, if you lose, you get less debt off your account. Sounds fair?"
-    xv "D'accord Rookie ! Tu perds, tu prouves que tu n'es pas digne de ce gang. Morgan, si tu perds, tu auras moins de dettes sur ton compte. Ça te semble juste ?"
+    xv "D'accord Rookie! Tu perds, tu prouves que tu n'es pas digne de ce gang. Morgan, si tu perds, tu auras moins de dettes sur ton compte. Ça te semble juste?"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:569
 translate french b1c08ss09_a957ac8c:
@@ -1125,7 +1125,7 @@ translate french b1c08ss09_76076ef0:
 translate french b1c08ss09_4f6aac04:
 
     # fox "Fighters, ready your stances!"
-    fox "Combattants, préparez vos positions !"
+    fox "Combattants, préparez vos positions!"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:578
 translate french b1c08ss09_12d3564c:
@@ -1137,7 +1137,7 @@ translate french b1c08ss09_12d3564c:
 translate french b1c08ss09_d709091b:
 
     # fox "And fight!"
-    fox "Et combattez !"
+    fox "Et combattez!"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:583
 translate french b1c08ss09_0691aa58:
@@ -1335,7 +1335,7 @@ translate french b1c08ss09_4378b0fe:
 translate french b1c08ss09_c4284496:
 
     # mct "Fuck, fuck! If she keeps at this pace I'll have to tap out. I need to get myself free!"
-    mct "Putain, putain ! Si elle continue à ce rythme, je vais devoir abandonner. Je dois m'en sortir !"
+    mct "Putain, putain! Si elle continue à ce rythme, je vais devoir abandonner. Je dois m'en sortir!"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:696
 translate french b1c08ss09_99d8e61f:
@@ -1407,7 +1407,7 @@ translate french b1c08ss09_28ebe209:
 translate french b1c08ss09_9f0bfbfc:
 
     # fox "Fighter's stop! Morgan has tapped out."
-    fox "Arrêt du combat ! Morgan a abandonné."
+    fox "Arrêt du combat! Morgan a abandonné."
 
 # game/code/Book-1/Chapter-8s/s09.rpy:730
 translate french b1c08ss09_35f44622:
@@ -1425,7 +1425,7 @@ translate french b1c08ss09_1b7ba4a7:
 translate french b1c08ss09_0cfb97e0:
 
     # mg "No hard feelings?"
-    mg "Pas de rancune ?"
+    mg "Pas de rancune?"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:738
 translate french b1c08ss09_333bec9e:
@@ -1485,7 +1485,7 @@ translate french b1c08ss09_31ef0338:
 translate french b1c08ss09_5f23d83c:
 
     # mg "Can he help me finish collecting my debts?"
-    mg "Peut-il m'aider à finir de collecter mes dettes ?"
+    mg "Peut-il m'aider à finir de collecter mes dettes?"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:758
 translate french b1c08ss09_423aa8a5:
@@ -1503,7 +1503,7 @@ translate french b1c08ss09_9d4285ea:
 translate french b1c08ss09_c64ff360:
 
     # mc "Can I take others' debts onto my own account?"
-    mc "Puis-je prendre les dettes des autres sur mon propre compte ?"
+    mc "Puis-je prendre les dettes des autres sur mon propre compte?"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:765
 translate french b1c08ss09_71862f13:
@@ -1545,13 +1545,13 @@ translate french b1c08ss09_f5ecc206:
 translate french b1c08ss09_99027ef4:
 
     # fox "Well, you're a part of the gang now. This is cause for celebration of our newest member!"
-    fox "Eh bien, tu fais maintenant partie du gang. C'est l'occasion de célébrer notre nouveau membre !"
+    fox "Eh bien, tu fais maintenant partie du gang. C'est l'occasion de célébrer notre nouveau membre!"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:784
 translate french b1c08ss09_2086b5a4:
 
     # mc "Everything okay?"
-    mc "Tout va bien ?"
+    mc "Tout va bien?"
 
 # game/code/Book-1/Chapter-8s/s09.rpy:787
 translate french b1c08ss09_6a2eab55:
@@ -1563,7 +1563,7 @@ translate french b1c08ss09_6a2eab55:
 translate french b1c08ss09_3baf6099:
 
     # mc "Hey, don't worry about that. I can handle it. Let's focus on the celebration, huh?"
-    mc "Hé, ne t'inquiète pas pour ça. Je peux gérer. Concentrons-nous sur la célébration, d'accord ?"
+    mc "Hé, ne t'inquiète pas pour ça. Je peux gérer. Concentrons-nous sur la célébration, d'accord?"
 
 translate french strings:
 

@@ -26,7 +26,7 @@ translate french b1c08ss05_88f2bb00:
 translate french b1c08ss05_8b06cf8c:
 
     # zp "What's in there? Anything we need?"
-    zp "Qu'est-ce qu'il y a là-dedans ? Quelque chose dont on a besoin ?"
+    zp "Qu'est-ce qu'il y a là-dedans? Quelque chose dont on a besoin?"
 
 # game/code/Book-1/Chapter-8s/s05.rpy:72
 translate french b1c08ss05_b6cbb88a:
@@ -50,7 +50,7 @@ translate french b1c08ss05_64c7327d:
 translate french b1c08ss05_7a43cfde:
 
     # fox "Hey, mind if I learn a thing or two from you? It's better if more people know how to drive the boat."
-    fox "Hé, ça te dérange si j'apprends deux ou trois trucs avec toi ? C'est mieux si plus de gens savent conduire le bateau."
+    fox "Hé, ça te dérange si j'apprends deux ou trois trucs avec toi? C'est mieux si plus de gens savent conduire le bateau."
 
 # game/code/Book-1/Chapter-8s/s05.rpy:80
 translate french b1c08ss05_04878958:
@@ -92,7 +92,7 @@ translate french b1c08ss05_8c2cf2f7:
 translate french b1c08ss05_6fefa26d:
 
     # mc "Do you wanna try steering? I think you're right that it's best if more people know how to drive the boat."
-    mc "Tu veux essayer de diriger ? Je pense que tu as raison, c'est mieux si plus de gens savent conduire le bateau."
+    mc "Tu veux essayer de diriger? Je pense que tu as raison, c'est mieux si plus de gens savent conduire le bateau."
 
 # game/code/Book-1/Chapter-8s/s05.rpy:99
 translate french b1c08ss05_fe7c75fa:
@@ -128,7 +128,7 @@ translate french b1c08ss05_63a2079a:
 translate french b1c08ss05_2aa1863e:
 
     # mct "What is that? It looks—"
-    mct "Qu'est-ce que c'est ? Ça ressemble à—"
+    mct "Qu'est-ce que c'est? Ça ressemble à—"
 
 # game/code/Book-1/Chapter-8s/s05.rpy:127
 translate french b1c08ss05_ffa8f321:
@@ -140,7 +140,7 @@ translate french b1c08ss05_ffa8f321:
 translate french b1c08ss05_d601b6b3:
 
     # fox "You okay?"
-    fox "Ça va ?"
+    fox "Ça va?"
 
 # game/code/Book-1/Chapter-8s/s05.rpy:141
 translate french b1c08ss05_ebaba262:
@@ -152,13 +152,13 @@ translate french b1c08ss05_ebaba262:
 translate french b1c08ss05_6c28b02c:
 
     # mct "The \"little surprise\" he's got for The Wasps is a fucking bomb?! Is this the lesson we're going to teach them?"
-    mct "La \"petite surprise\" qu'il a pour les Wasps, c'est une foutue bombe ?! C'est la leçon qu'on veut leur donner ?"
+    mct "La \"petite surprise\" qu'il a pour les Wasps, c'est une foutue bombe?! C'est la leçon qu'on veut leur donner?"
 
 # game/code/Book-1/Chapter-8s/s05.rpy:148
 translate french b1c08ss05_a09f730b:
 
     # fox "Am I doing okay? I felt a drag on the wheel."
-    fox "Je m'en sors ? J'ai senti une résistance sur le volant."
+    fox "Je m'en sors? J'ai senti une résistance sur le volant."
 
 # game/code/Book-1/Chapter-8s/s05.rpy:149
 translate french b1c08ss05_3447deea:
@@ -200,7 +200,7 @@ translate french b1c08ss05_cdb0cb2a:
 translate french b1c08ss05_4ffb961c:
 
     # mct "But then, who am I to talk? I just figured it out with luck and what I know from childhood fishing trips."
-    mct "Mais après tout, qui suis-je pour juger ? J'ai juste compris par chance et grâce à ce que je savais des sorties de pêche de mon enfance."
+    mct "Mais après tout, qui suis-je pour juger? J'ai juste compris par chance et grâce à ce que je savais des sorties de pêche de mon enfance."
 
 # game/code/Book-1/Chapter-8s/s05.rpy:169
 translate french b1c08ss05_627db550:
@@ -266,7 +266,7 @@ translate french b1c08ss05_d916b3b1:
 translate french b1c08ss05_ce99b8b8:
 
     # mc "Why not? I know some self-defense. I can—"
-    mc "Pourquoi pas ? Je connais un peu d'auto-défense. Je peux—"
+    mc "Pourquoi pas? Je connais un peu d'auto-défense. Je peux—"
 
 # game/code/Book-1/Chapter-8s/s05.rpy:204
 translate french b1c08ss05_21af936e:
@@ -278,7 +278,7 @@ translate french b1c08ss05_21af936e:
 translate french b1c08ss05_ee092386:
 
     # zp "He should be able to help where needed. What if we need help outside of the boat?"
-    zp "Il devrait pouvoir aider là où c'est nécessaire. Et si on a besoin d'aide en dehors du bateau ?"
+    zp "Il devrait pouvoir aider là où c'est nécessaire. Et si on a besoin d'aide en dehors du bateau?"
 
 # game/code/Book-1/Chapter-8s/s05.rpy:210
 translate french b1c08ss05_05da16f8:
@@ -308,7 +308,7 @@ translate french b1c08ss05_42212ada:
 translate french b1c08ss05_d87b3072:
 
     # zp "I've taught him the basics of using a gun! He says he knows defense. I've seen him handle his own in the time I've known him."
-    zp "Je lui ai appris les bases de l'utilisation d'une arme ! Il dit qu'il connaît la défense. Je l'ai vu se débrouiller depuis que je le connais."
+    zp "Je lui ai appris les bases de l'utilisation d'une arme! Il dit qu'il connaît la défense. Je l'ai vu se débrouiller depuis que je le connais."
 
 # game/code/Book-1/Chapter-8s/s05.rpy:224
 translate french b1c08ss05_22788543:
@@ -344,7 +344,7 @@ translate french b1c08ss05_5c4c3c45:
 translate french b1c08ss05_bbc10278:
 
     # xv "And what if you fuck up, and that gets us all stranded?"
-    xv "Et si tu foire, et qu'on se retrouve tous coincés ?"
+    xv "Et si tu foire, et qu'on se retrouve tous coincés?"
 
 # game/code/Book-1/Chapter-8s/s05.rpy:240
 translate french b1c08ss05_397d06cb:
@@ -392,19 +392,19 @@ translate french b1c08ss05_5db30b43:
 translate french b1c08ss05_68ffbafc:
 
     # ass "Are you shitfucking me? He's proven himself time and again. He's trustworthy, willing, and able. If we can't trust him now, then when can we?"
-    ass "Tu te fous de ma gueule ? Il a prouvé sa valeur à maintes reprises. Il est digne de confiance, prêt, et capable. Si on ne peut pas lui faire confiance maintenant, alors quand pourra-t-on ?"
+    ass "Tu te fous de ma gueule? Il a prouvé sa valeur à maintes reprises. Il est digne de confiance, prêt, et capable. Si on ne peut pas lui faire confiance maintenant, alors quand pourra-t-on?"
 
 # game/code/Book-1/Chapter-8s/s05.rpy:256
 translate french b1c08ss05_5d5873ef:
 
     # ass "We're tits deep in trouble and he's done nothing but be helpful!"
-    ass "On est jusqu'aux oreilles dans la merde et il n'a fait que nous être utile !"
+    ass "On est jusqu'aux oreilles dans la merde et il n'a fait que nous être utile!"
 
 # game/code/Book-1/Chapter-8s/s05.rpy:259
 translate french b1c08ss05_d5e8597e:
 
     # xv "Maybe we can trust him when it's not a situation that's life or death?!"
-    xv "Peut-être qu'on pourra lui faire confiance quand ce ne sera pas une situation de vie ou de mort ?!"
+    xv "Peut-être qu'on pourra lui faire confiance quand ce ne sera pas une situation de vie ou de mort?!"
 
 # game/code/Book-1/Chapter-8s/s05.rpy:260
 translate french b1c08ss05_666c5bfb:
@@ -422,7 +422,7 @@ translate french b1c08ss05_f0b8ea01:
 translate french b1c08ss05_55822608:
 
     # "But between the unpredictability of the Wasps and Xasan's bomb, who knows how this will turn out?"
-    "Mais entre l'imprévisibilité des Wasps et la bombe de Xasan, qui sait comment cela va finir ?"
+    "Mais entre l'imprévisibilité des Wasps et la bombe de Xasan, qui sait comment cela va finir?"
 
 # game/code/Book-1/Chapter-8s/s05.rpy:265
 translate french b1c08ss05_1e2aae04:
@@ -434,7 +434,7 @@ translate french b1c08ss05_1e2aae04:
 translate french b1c08ss05_11f07a64:
 
     # zp "Can't you see we're at risk {i}without{/i} him?!"
-    zp "Ne voyez-vous pas qu'on court un risque {i}sans{/i} lui ?!"
+    zp "Ne voyez-vous pas qu'on court un risque {i}sans{/i} lui?!"
 
 # game/code/Book-1/Chapter-8s/s05.rpy:276
 translate french b1c08ss05_choice_053cd93b:
@@ -476,7 +476,7 @@ translate french b1c08ss05_choice_b93142a1:
 translate french b1c08ss05_choice_bfe77f4a:
 
     # ass "Are you sure? You're a part of this too... We need you."
-    ass "Tu es sûr ? Tu fais aussi partie de tout ça... On a besoin de toi."
+    ass "Tu es sûr? Tu fais aussi partie de tout ça... On a besoin de toi."
 
 # game/code/Book-1/Chapter-8s/s05.rpy:298
 translate french b1c08ss05_choice_4a07f7da:
@@ -560,7 +560,7 @@ translate french b1c08ss05_choice_1c0e45eb:
 translate french b1c08ss05_choice_e7f00caa:
 
     # mc "You think I'm scared of your limpdick middle manager tactics?"
-    mc "Tu penses que j'ai peur de tes tactiques de manager de merde ?"
+    mc "Tu penses que j'ai peur de tes tactiques de manager de merde?"
 
 # game/code/Book-1/Chapter-8s/s05.rpy:342
 translate french b1c08ss05_choice_31caa9bf:
@@ -632,7 +632,7 @@ translate french b1c08ss05_choice_3f6a3df6:
 translate french b1c08ss05_choice_3f6c1a90:
 
     # fox "You okay to drive?"
-    fox "Tu vas bien pour conduire ?"
+    fox "Tu vas bien pour conduire?"
 
 # game/code/Book-1/Chapter-8s/s05.rpy:377
 translate french b1c08ss05_choice_7d21daab:

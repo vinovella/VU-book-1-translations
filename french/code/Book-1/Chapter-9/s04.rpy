@@ -15,7 +15,7 @@ translate french b1c09s04_f2ed3706:
 translate french b1c09s04_12f84333:
 
     # rh "Good morning! It's always a pleasure to see you around."
-    rh "Bonjour ! C'est toujours un plaisir de vous voir par ici."
+    rh "Bonjour! C'est toujours un plaisir de vous voir par ici."
 
 # game/code/Book-1/Chapter-9/s04.rpy:79
 translate french b1c09s04_c1a55de8:
@@ -33,7 +33,7 @@ translate french b1c09s04_3a6dd16b:
 translate french b1c09s04_f921fe01:
 
     # rh "Thing?"
-    rh "Un truc ?"
+    rh "Un truc?"
 
 # game/code/Book-1/Chapter-9/s04.rpy:88
 translate french b1c09s04_f5759e5b:
@@ -45,7 +45,7 @@ translate french b1c09s04_f5759e5b:
 translate french b1c09s04_757f2203:
 
     # rh "Oh! Of course. Silly me, I even watched snippets of it but forgot."
-    rh "Oh ! Bien sûr. Quelle bêtise, j'ai même regardé des extraits mais j'ai oublié."
+    rh "Oh! Bien sûr. Quelle bêtise, j'ai même regardé des extraits mais j'ai oublié."
 
 # game/code/Book-1/Chapter-9/s04.rpy:95
 translate french b1c09s04_f67fc988:
@@ -93,7 +93,7 @@ translate french b1c09s04_2f75153c:
 translate french b1c09s04_6253c35d:
 
     # rh "Oh, really? Do tell. I didn't take you for a retreat sort of man."
-    rh "Ah, vraiment ? Raconte-moi. Je ne t'imaginais pas du genre à partir en retraite."
+    rh "Ah, vraiment? Raconte-moi. Je ne t'imaginais pas du genre à partir en retraite."
 
 # game/code/Book-1/Chapter-9/s04.rpy:117
 translate french b1c09s04_2bc1e24c:
@@ -105,7 +105,7 @@ translate french b1c09s04_2bc1e24c:
 translate french b1c09s04_993c1957:
 
     # rh "Oh... Wait, was this the retreat the self-help group went on recently?"
-    rh "Oh... Attends, c'était la retraite à laquelle le groupe de développement personnel est allé récemment ?"
+    rh "Oh... Attends, c'était la retraite à laquelle le groupe de développement personnel est allé récemment?"
 
 # game/code/Book-1/Chapter-9/s04.rpy:122
 translate french b1c09s04_cf1adef2:
@@ -117,7 +117,7 @@ translate french b1c09s04_cf1adef2:
 translate french b1c09s04_b68749bd:
 
     # rh "How exciting! What was it like?"
-    rh "C'est excitant ! C'était comment ?"
+    rh "C'est excitant! C'était comment?"
 
 # game/code/Book-1/Chapter-9/s04.rpy:127
 translate french b1c09s04_efe4f101:
@@ -159,7 +159,7 @@ translate french b1c09s04_e64c3f1f:
 translate french b1c09s04_0bc9a6b6:
 
     # rh "Oh? Is everything okay?"
-    rh "Oh ? Tout va bien ?"
+    rh "Oh? Tout va bien?"
 
 # game/code/Book-1/Chapter-9/s04.rpy:148
 translate french b1c09s04_84c5eed4:
@@ -177,7 +177,7 @@ translate french b1c09s04_07919a45:
 translate french b1c09s04_14b89c1e:
 
     # rh "You're not doing anything to warrant a visit to my office, are you?"
-    rh "Tu ne fais rien qui mérite une visite dans mon bureau, n'est-ce pas ?"
+    rh "Tu ne fais rien qui mérite une visite dans mon bureau, n'est-ce pas?"
 
 # game/code/Book-1/Chapter-9/s04.rpy:155
 translate french b1c09s04_0284b37d:
@@ -195,7 +195,7 @@ translate french b1c09s04_1f8d1e6b:
 translate french b1c09s04_da3e8365:
 
     # "Her sultry words send a shiver down your spine, while a voice in the back of your mind wonders \"What does she want\"?"
-    "Ses mots sensuels font frissonner ton corps, tandis qu'une voix au fond de ton esprit se demande \"Que veut-elle ?\""
+    "Ses mots sensuels font frissonner ton corps, tandis qu'une voix au fond de ton esprit se demande \"Que veut-elle?\""
 
 # game/code/Book-1/Chapter-9/s04.rpy:165
 translate french b1c09s04_ba1bd058:
@@ -261,7 +261,7 @@ translate french b1c09s04_44146aff:
 translate french b1c09s04_bathroom_7d652dda:
 
     # mc "What are we doing here?"
-    mc « Qu'est-ce qu'on fait ici ?
+    mc "Qu'est-ce qu'on fait ici?"
 
 # game/code/Book-1/Chapter-9/s04.rpy:201
 translate french b1c09s04_bathroom_4a7fb80b:
@@ -321,7 +321,7 @@ translate french b1c09s04_bathroom_8ec1f6b0:
 translate french b1c09s04_bathroom_d5bd448e:
 
     # rh "Looks like a certain someone else has also been looking forward to this, hm?"
-    rh « On dirait que quelqu'un d'autre attendait aussi ça avec impatience, hein ?
+    rh "On dirait que quelqu'un d'autre attendait aussi ça avec impatience, hein?"
 
 # game/code/Book-1/Chapter-9/s04.rpy:252
 translate french b1c09s04_bathroom_7c9d0ff3:
@@ -369,7 +369,7 @@ translate french b1c09s04_bathroom_b2ad367b:
 translate french b1c09s04_bathroom_f99c093c:
 
     # "Your hesitations dissolve away at the words. You're already in deep far enough, might as well go the distance."
-    « Vos hésitations se dissolvent à ces mots. Vous êtes déjà assez enfoncé, autant tenir la distance. »
+    "Vos hésitations se dissolvent à ces mots. Vous êtes déjà assez enfoncé, autant tenir la distance."
 
 # game/code/Book-1/Chapter-9/s04.rpy:328
 translate french b1c09s04_bathroom_d264ff49:
@@ -417,7 +417,7 @@ translate french b1c09s04_bathroom_efc2de9b:
 translate french b1c09s04_bathroom_08803243:
 
     # mc "\"Real man\"? What, your husband not up to snuff?"
-    mc "\"Un vrai homme\" ? Quoi, ton mari n'est pas à la hauteur ?"
+    mc "\"Un vrai homme\"? Quoi, ton mari n'est pas à la hauteur?"
 
 # game/code/Book-1/Chapter-9/s04.rpy:361
 translate french b1c09s04_bathroom_42aeff71:
@@ -435,7 +435,7 @@ translate french b1c09s04_bathroom_3c34b948:
 translate french b1c09s04_bathroom_e6fb6d07:
 
     # mc "*Shrugs* Who am I to judge?"
-    mc "*hausse les épaules* Qui suis-je pour juger ?"
+    mc "*hausse les épaules* Qui suis-je pour juger?"
 
 # game/code/Book-1/Chapter-9/s04.rpy:367
 translate french b1c09s04_bathroom_e8d18184:
@@ -495,7 +495,7 @@ translate french b1c09s04_dm_appear_81005c52:
 translate french b1c09s04_dm_appear_7cac8374:
 
     # dm "Ronja! [mcname]!?"
-    dm "Ronja ! [nommc] !?"
+    dm "Ronja! [nommc]!?"
 
 # game/code/Book-1/Chapter-9/s04.rpy:415
 translate french b1c09s04_dm_appear_ea58b7bc:
@@ -507,7 +507,7 @@ translate french b1c09s04_dm_appear_ea58b7bc:
 translate french b1c09s04_dm_appear_97761c24:
 
     # rh "Don't you dare stop! Keep fucking my throat!"
-    rh "Ne t'avise pas d'arrêter ! Continue de me baiser la gorge !"
+    rh "Ne t'avise pas d'arrêter! Continue de me baiser la gorge!"
 
 # game/code/Book-1/Chapter-9/s04.rpy:420
 translate french b1c09s04_dm_appear_f69706dd:
@@ -537,7 +537,7 @@ translate french b1c09s04_dm_appear_71a84615:
 translate french b1c09s04_dm_appear_f96d3faa:
 
     # mc "Who do you think you are to give me commands, slut?"
-    mc "Pour qui te prends-tu pour me donner des ordres, salope ?"
+    mc "Pour qui te prends-tu pour me donner des ordres, salope?"
 
 # game/code/Book-1/Chapter-9/s04.rpy:435
 translate french b1c09s04_dm_appear_3856bace:
@@ -567,7 +567,7 @@ translate french b1c09s04_watersports_1aeb2969:
 translate french b1c09s04_watersports_f1a03eb9:
 
     # mc "Do you really want that?"
-    mc "Tu veux vraiment ça ?"
+    mc "Tu veux vraiment ça?"
 
 # game/code/Book-1/Chapter-9/s04.rpy:488
 translate french b1c09s04_watersports_72d441db:
@@ -585,7 +585,7 @@ translate french b1c09s04_watersports_86c90045:
 translate french b1c09s04_watersports_251520ff:
 
     # mc "Good girl. But you better drink it all, understood?"
-    mc "Bonne fille. Mais tu ferais mieux de tout boire, compris ?"
+    mc "Bonne fille. Mais tu ferais mieux de tout boire, compris?"
 
 # game/code/Book-1/Chapter-9/s04.rpy:497
 translate french b1c09s04_watersports_320cb535:
@@ -693,7 +693,7 @@ translate french b1c09s04_continue_16405dc3:
 translate french b1c09s04_continue_8206379d:
 
     # mc "And you're gonna walk around with it dripping all over your legs, understood? No panties."
-    mc "Et tu vas te promener avec ça qui dégouline sur tes jambes, compris ? Pas de culotte."
+    mc "Et tu vas te promener avec ça qui dégouline sur tes jambes, compris? Pas de culotte."
 
 # game/code/Book-1/Chapter-9/s04.rpy:577
 translate french b1c09s04_continue_a0cd557b:
@@ -705,7 +705,7 @@ translate french b1c09s04_continue_a0cd557b:
 translate french b1c09s04_continue_3c140d5c:
 
     # mc "Do you want that?"
-    mc "Tu veux ça ?"
+    mc "Tu veux ça?"
 
 # game/code/Book-1/Chapter-9/s04.rpy:580
 translate french b1c09s04_continue_f438b571:
@@ -735,7 +735,7 @@ translate french b1c09s04_continue_969a623a:
 translate french b1c09s04_continue_254b34a3:
 
     # mc "While you're with me, you're my whore. You talk about me, you think about me, and you take whatever the fuck I'm doing to you. Understood?"
-    mc "Pendant que tu es avec moi, tu es ma pute. Tu parles de moi, tu penses à moi, et tu prends tout ce que je te fais. Compris ?"
+    mc "Pendant que tu es avec moi, tu es ma pute. Tu parles de moi, tu penses à moi, et tu prends tout ce que je te fais. Compris?"
 
 # game/code/Book-1/Chapter-9/s04.rpy:594
 translate french b1c09s04_continue_e18866a7:
@@ -777,7 +777,7 @@ translate french b1c09s04_continue_b2f7f95e:
 translate french b1c09s04_continue_4ca8afa2:
 
     # rh "Who says I want to?"
-    rh "Qui a dit que je le voulais ?"
+    rh "Qui a dit que je le voulais?"
 
 # game/code/Book-1/Chapter-9/s04.rpy:621
 translate french b1c09s04_continue_8b9ee863:
@@ -849,7 +849,7 @@ translate french b1c09s04_continue_7fdc27c4:
 translate french b1c09s04_continue_b45f3828:
 
     # mc "You weren't lying about being needy for me, huh?"
-    mc "Tu ne mentais pas en disant que tu avais besoin de moi, hein ?"
+    mc "Tu ne mentais pas en disant que tu avais besoin de moi, hein?"
 
 # game/code/Book-1/Chapter-9/s04.rpy:664
 translate french b1c09s04_continue_c8fe5e4d:
@@ -885,7 +885,7 @@ translate french b1c09s04_continue_9a5715af:
 translate french b1c09s04_continue_2e3175c6:
 
     # mc "Are you gonna be my good breeding slut and carry it around?"
-    mc "Vas-tu être ma bonne salope d'élevage et la transporter ?"
+    mc "Vas-tu être ma bonne salope d'élevage et la transporter?"
 
 # game/code/Book-1/Chapter-9/s04.rpy:681
 translate french b1c09s04_continue_1d99c7e5:
@@ -897,7 +897,7 @@ translate french b1c09s04_continue_1d99c7e5:
 translate french b1c09s04_continue_16b521b8:
 
     # mc "So that your little cucky husband can slurp it all up?"
-    mc "Pour que ton petit mari coquin puisse tout avaler ?"
+    mc "Pour que ton petit mari coquin puisse tout avaler?"
 
 # game/code/Book-1/Chapter-9/s04.rpy:684
 translate french b1c09s04_continue_756ad474:
@@ -993,13 +993,13 @@ translate french b1c09s04_continue_314c35f5:
 translate french b1c09s04_continue_3fc7861a:
 
     # rh "Mm, now that sounds delicious. What about it, Diana?"
-    rh "Mm, ça a l'air délicieux. Et ça, Diana ?"
+    rh "Mm, ça a l'air délicieux. Et ça, Diana?"
 
 # game/code/Book-1/Chapter-9/s04.rpy:737
 translate french b1c09s04_continue_b530ccc8:
 
     # rh "You're not too scared, are you?"
-    rh "Tu n'as pas trop peur, n'est-ce pas ?"
+    rh "Tu n'as pas trop peur, n'est-ce pas?"
 
 # game/code/Book-1/Chapter-9/s04.rpy:741
 translate french b1c09s04_continue_974bf763:

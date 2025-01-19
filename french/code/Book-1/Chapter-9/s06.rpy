@@ -15,7 +15,7 @@ translate french b1c09s06_23fee738:
 translate french b1c09s06_a9ad00bd:
 
     # mct "Why else would they need a whole underground catacomb-like space?"
-    mct "Sinon, pourquoi auraient-ils besoin d'un espace entier semblable à des catacombes souterraines ?"
+    mct "Sinon, pourquoi auraient-ils besoin d'un espace entier semblable à des catacombes souterraines?"
 
 # game/code/Book-1/Chapter-9/s06.rpy:78
 translate french b1c09s06_b10e063b:
@@ -45,7 +45,7 @@ translate french b1c09s06_7ea7f3e5:
 translate french b1c09s06_ae6f29fa:
 
     # mct "Whoa, whose room is this?"
-    mct "Waouh, à qui est cette pièce ?"
+    mct "Waouh, à qui est cette pièce?"
 
 # game/code/Book-1/Chapter-9/s06.rpy:106
 translate french b1c09s06_9f9364a4:
@@ -63,19 +63,19 @@ translate french b1c09s06_ee2299ad:
 translate french b1c09s06_a320b98e:
 
     # mct "If she has such a large role here, why do I hardly see her?"
-    mct "Si elle a un rôle aussi important ici, pourquoi est-ce que je la vois à peine ?"
+    mct "Si elle a un rôle aussi important ici, pourquoi est-ce que je la vois à peine?"
 
 # game/code/Book-1/Chapter-9/s06.rpy:116
 translate french b1c09s06_84cd71bb:
 
     # mct "She seems to be a higher ranking member, if this portrait is anything to go by. Shouldn't she be a Guide or something?"
-    mct "Elle semble être un membre de rang supérieur, si ce portrait veut bien dire quelque chose. Ne devrait-elle pas être une Guide ou quelque chose du genre ?"
+    mct "Elle semble être un membre de rang supérieur, si ce portrait veut bien dire quelque chose. Ne devrait-elle pas être une Guide ou quelque chose du genre?"
 
 # game/code/Book-1/Chapter-9/s06.rpy:120
 translate french b1c09s06_13bb7480:
 
     # mct "How did they even bankroll all this? Even if the cavern was natural, bringing all this stuff in here would cost a fortune."
-    mct "Comment ont-ils pu financer tout ça ? Même si la cavité était naturelle, amener toutes ces choses ici aurait coûté une fortune."
+    mct "Comment ont-ils pu financer tout ça? Même si la cavité était naturelle, amener toutes ces choses ici aurait coûté une fortune."
 
 # game/code/Book-1/Chapter-9/s06.rpy:126
 translate french b1c09s06_b15a5734:
@@ -111,7 +111,7 @@ translate french b1c09s06_221750ae:
 translate french b1c09s06_c50ac2ad:
 
     # mct "Who the fuck wrote this stuff?"
-    mct "Qui diable a écrit ces choses ?"
+    mct "Qui diable a écrit ces choses?"
 
 # game/code/Book-1/Chapter-9/s06.rpy:137
 translate french b1c09s06_13b1f5d7:
@@ -129,7 +129,7 @@ translate french b1c09s06_908aa2f5:
 translate french b1c09s06_39f43625:
 
     # mct "This is her room? Seems kind of self-absorbed to have an entire self-portrait painted of yourself like that..."
-    mct "C'est sa chambre ? Ça semble un peu narcissique de se faire peindre un portrait entier de soi-même comme ça..."
+    mct "C'est sa chambre? Ça semble un peu narcissique de se faire peindre un portrait entier de soi-même comme ça..."
 
 # game/code/Book-1/Chapter-9/s06.rpy:143
 translate french b1c09s06_5d3646d9:
@@ -147,7 +147,7 @@ translate french b1c09s06_45f0b6a2:
 translate french b1c09s06_85fe8587:
 
     # "Note" "DRAFT: YOU NEED TO STOP FOLLOWING ME. I HAVE DONE NOTHING TO DESERVE THIS. Your paranoia dominates your mind! Have I not done you enough by allowing you into this family?"
-    "Note" "ÉBAUCHE : TU DOIS CESSER DE ME SUIVRE. JE N'AI RIEN FAIT POUR MÉRITER CELA. Ta paranoïa domine ton esprit ! N'ai-je pas fait assez en t'acceptant dans cette famille ?"
+    "Note" "ÉBAUCHE : TU DOIS CESSER DE ME SUIVRE. JE N'AI RIEN FAIT POUR MÉRITER CELA. Ta paranoïa domine ton esprit! N'ai-je pas fait assez en t'acceptant dans cette famille?"
 
 # game/code/Book-1/Chapter-9/s06.rpy:152
 translate french b1c09s06_9c580467:
@@ -159,7 +159,7 @@ translate french b1c09s06_9c580467:
 translate french b1c09s06_b2d46cd1:
 
     # mct "Who was following her? The letter isn't addressed to anyone. I guess because it's just a draft."
-    mct "Qui la suivait ? La lettre n'est adressée à personne. Je suppose que c'est parce que ce n'est qu'une ébauche."
+    mct "Qui la suivait? La lettre n'est adressée à personne. Je suppose que c'est parce que ce n'est qu'une ébauche."
 
 # game/code/Book-1/Chapter-9/s06.rpy:158
 translate french b1c09s06_58f6276a:
@@ -195,25 +195,25 @@ translate french b1c09s06_ca187706:
 translate french b1c09s06_40f1a5a8:
 
     # mct "But who was that letter addressed to?"
-    mct "Mais à qui était adressée cette lettre ?"
+    mct "Mais à qui était adressée cette lettre?"
 
 # game/code/Book-1/Chapter-9/s06.rpy:184
 translate french b1c09s06_ij_arrives_a66ecbb5:
 
     # ij "[mcname]?"
-    ij "[mcname] ?"
+    ij "[mcname]?"
 
 # game/code/Book-1/Chapter-9/s06.rpy:187
 translate french b1c09s06_ij_arrives_595633b4:
 
     # mc "Irene! You—I—"
-    mc "Irene ! Toi—je—"
+    mc "Irene! Toi—je—"
 
 # game/code/Book-1/Chapter-9/s06.rpy:190
 translate french b1c09s06_ij_arrives_41f7cb7b:
 
     # ij "It's okay! You don't need to feel guilty."
-    ij "C'est bon ! Tu n'as pas à te sentir coupable."
+    ij "C'est bon! Tu n'as pas à te sentir coupable."
 
 # game/code/Book-1/Chapter-9/s06.rpy:191
 translate french b1c09s06_ij_arrives_7e0514f8:
@@ -243,7 +243,7 @@ translate french b1c09s06_ij_arrives_cd63727a:
 translate french b1c09s06_ij_arrives_67929e72:
 
     # ij "Oh sweetie, you didn't disturb anyone!"
-    ij "Oh chéri(e), tu n'as dérangé personne !"
+    ij "Oh chéri(e), tu n'as dérangé personne!"
 
 # game/code/Book-1/Chapter-9/s06.rpy:207
 translate french b1c09s06_ij_arrives_092f8851:
@@ -273,7 +273,7 @@ translate french b1c09s06_ij_arrives_ce27aff9:
 translate french b1c09s06_ij_arrives_9bf19831:
 
     # mct "Haven't I given enough hints to this girl already?"
-    mct "Je n'ai pas déjà donné assez d'indices à cette fille ?"
+    mct "Je n'ai pas déjà donné assez d'indices à cette fille?"
 
 # game/code/Book-1/Chapter-9/s06.rpy:220
 translate french b1c09s06_ij_arrives_91c3da6d:
@@ -291,7 +291,7 @@ translate french b1c09s06_ij_arrives_ab131981:
 translate french b1c09s06_ij_arrives_d4186415:
 
     # mc "*Whispers* You sure no one will mind?"
-    mc "*Chuchote* Tu es sûr(e) que personne n'y verra d'inconvénient ?"
+    mc "*Chuchote* Tu es sûr(e) que personne n'y verra d'inconvénient?"
 
 # game/code/Book-1/Chapter-9/s06.rpy:230
 translate french b1c09s06_ij_arrives_b84cb7e3:
@@ -309,7 +309,7 @@ translate french b1c09s06_ij_arrives_c6c6ceb5:
 translate french b1c09s06_ij_arrives_8a3ee078:
 
     # mc "Didn't I make it clear enough already?"
-    mc "Je n'ai pas déjà été assez clair ?"
+    mc "Je n'ai pas déjà été assez clair?"
 
 # game/code/Book-1/Chapter-9/s06.rpy:252
 translate french b1c09s06_ij_arrives_f950f374:
@@ -333,7 +333,7 @@ translate french b1c09s06_ij_arrives_79107af2:
 translate french b1c09s06_ij_arrives_8752fa3b:
 
     # mct "Why do the women in this group keep throwing themselves at me like this?"
-    mct "Pourquoi les femmes de ce groupe continuent-elles de se jeter sur moi comme ça ?"
+    mct "Pourquoi les femmes de ce groupe continuent-elles de se jeter sur moi comme ça?"
 
 # game/code/Book-1/Chapter-9/s06.rpy:260
 translate french b1c09s06_ij_arrives_f536bc9f:
@@ -393,7 +393,7 @@ translate french b1c09s06_ij_arrives_777cc8f3:
 translate french b1c09s06_ij_arrives_84f6c001:
 
     # mct "But what else was I supposed to do?"
-    mct "Mais que devais-je faire d'autre ?"
+    mct "Mais que devais-je faire d'autre?"
 
 # game/code/Book-1/Chapter-9/s06.rpy:283
 translate french b1c09s06_ij_arrives_07dc8372:
@@ -573,7 +573,7 @@ translate french b1c09s06_be_bottom_e8d7815a:
 translate french b1c09s06_be_bottom_859495a0:
 
     # ij "*Giggles* Are you nervous? Don't worry, I'll go slow."
-    ij "*Rires* Es-tu nerveux ? Ne t'inquiète pas, je vais y aller doucement."
+    ij "*Rires* Es-tu nerveux? Ne t'inquiète pas, je vais y aller doucement."
 
 # game/code/Book-1/Chapter-9/s06.rpy:436
 translate french b1c09s06_be_bottom_d67a7ffd:
@@ -657,7 +657,7 @@ translate french b1c09s06_be_bottom_1e0629c6:
 translate french b1c09s06_be_bottom_2c881dfd:
 
     # ij "Ah, I'm cumming!"
-    ij "Ah, je jouis !"
+    ij "Ah, je jouis!"
 
 # game/code/Book-1/Chapter-9/s06.rpy:511
 translate french b1c09s06_be_bottom_e8330295:
@@ -681,7 +681,7 @@ translate french b1c09s06_be_bottom_8a85bbed:
 translate french b1c09s06_be_bottom_da3b539d:
 
     # ij "Really? I'm so glad. That was actually my... Well, there haven't been many lovers who let me..."
-    ij "Vraiment ? Je suis tellement contente. C'était en fait mon... Eh bien, il n'y a pas eu beaucoup d'amants qui m'ont laissé..."
+    ij "Vraiment? Je suis tellement contente. C'était en fait mon... Eh bien, il n'y a pas eu beaucoup d'amants qui m'ont laissé..."
 
 # game/code/Book-1/Chapter-9/s06.rpy:526
 translate french b1c09s06_be_bottom_7c2822c2:
@@ -693,7 +693,7 @@ translate french b1c09s06_be_bottom_7c2822c2:
 translate french b1c09s06_be_bottom_2f84ff14:
 
     # ij "Man, it's tiring being a top! I'm ready for a switch if you are."
-    ij "Mec, c'est fatigant d'être un top ! Je suis prête à changer si tu l'es."
+    ij "Mec, c'est fatigant d'être un top! Je suis prête à changer si tu l'es."
 
 # game/code/Book-1/Chapter-9/s06.rpy:532
 translate french b1c09s06_be_bottom_79de7289:
@@ -705,7 +705,7 @@ translate french b1c09s06_be_bottom_79de7289:
 translate french b1c09s06_be_top_f9b1323f:
 
     # mc "Who says {i}{b}I{/b}{/i} won't devour {i}you?{/i}"
-    mc "Qui a dit que {i}{b}je{/b}{/i} ne te dévorerais pas ?{/i}"
+    mc "Qui a dit que {i}{b}je{/b}{/i} ne te dévorerais pas?"
 
 # game/code/Book-1/Chapter-9/s06.rpy:549
 translate french b1c09s06_be_top_e71d4dfe:
@@ -783,7 +783,7 @@ translate french b1c09s06_be_top_ddb7ba98:
 translate french b1c09s06_be_top_1186db31:
 
     # ij "Mm! I love it when you take control."
-    ij "Mm ! J'adore quand tu prends le contrôle."
+    ij "Mm! J'adore quand tu prends le contrôle."
 
 # game/code/Book-1/Chapter-9/s06.rpy:642
 translate french b1c09s06_be_top_5adfb5ba:
@@ -825,7 +825,7 @@ translate french b1c09s06_be_top_e3b8dff4:
 translate french b1c09s06_be_top_ed18d0cd:
 
     # ij "Oh, oh I'm gonna cum!"
-    ij "Oh, oh, je vais jouir !"
+    ij "Oh, oh, je vais jouir!"
 
 # game/code/Book-1/Chapter-9/s06.rpy:680
 translate french b1c09s06_be_top_3c86cabe:
@@ -837,7 +837,7 @@ translate french b1c09s06_be_top_3c86cabe:
 translate french b1c09s06_be_top_4cd43893:
 
     # ij "Cum inside me, please cum inside!"
-    ij "Jouis en moi, s'il te plaît, jouis à l'intérieur !"
+    ij "Jouis en moi, s'il te plaît, jouis à l'intérieur!"
 
 # game/code/Book-1/Chapter-9/s06.rpy:689
 translate french b1c09s06_be_top_6e9891f0:
@@ -855,7 +855,7 @@ translate french b1c09s06_be_top_6040d42b:
 translate french b1c09s06_be_top_d07f1a6a:
 
     # ij "*Giggles* Do I look nice and full of you?"
-    ij "*Rires* Est-ce que j'ai l'air gentil et plein de toi ?"
+    ij "*Rires* Est-ce que j'ai l'air gentil et plein de toi?"
 
 # game/code/Book-1/Chapter-9/s06.rpy:700
 translate french b1c09s06_be_top_0d5abfe5:
@@ -885,7 +885,7 @@ translate french b1c09s06_sex_end_206b3b9d:
 translate french b1c09s06_sex_end_17d05e01:
 
     # ij "I um... Maybe it'll dry before anyone else sees it?"
-    ij "Je, euh... Peut-être que ça va sécher avant que quelqu'un d'autre ne le voie ?"
+    ij "Je, euh... Peut-être que ça va sécher avant que quelqu'un d'autre ne le voie?"
 
 # game/code/Book-1/Chapter-9/s06.rpy:723
 translate french b1c09s06_sex_end_4ddd4e98:
@@ -923,5 +923,5 @@ translate french strings:
 
     # game/code/Book-1/Chapter-9/s06.rpy:370
     old "Who says I won't devour you?"
-    new "Qui a dit que je ne te dévorerais pas ?"
+    new "Qui a dit que je ne te dévorerais pas?"
 

@@ -27,13 +27,13 @@ translate french b1c08ss08_577038d0:
 translate french b1c08ss08_19f7a46e:
 
     # ha "And what am I to do with you if you're completely useless to me?"
-    ha "Et que dois-je faire de toi si tu m'es complètement inutile ?"
+    ha "Et que dois-je faire de toi si tu m'es complètement inutile?"
 
 # game/code/Book-1/Chapter-8s/s08.rpy:93
 translate french b1c08ss08_70cc3948:
 
     # ha "If you fail to {i}entertain{/i} me?"
-    ha "Si vous ne parvenez pas à me {i}divertir{/i} ?"
+    ha "Si vous ne parvenez pas à me {i}divertir{/i}?"
 
 # game/code/Book-1/Chapter-8s/s08.rpy:105
 translate french b1c08ss08_91ec6689:
@@ -105,7 +105,7 @@ translate french b1c08ss08_2cca0b14:
 translate french b1c08ss08_e9a041ce:
 
     # ha "Just fuck me already you dirty little tease!"
-    ha "Baise-moi déjà, sale petite allumeuse !"
+    ha "Baise-moi déjà, sale petite allumeuse!"
 
 # game/code/Book-1/Chapter-8s/s08.rpy:141
 translate french b1c08ss08_ed1191b6:
@@ -129,7 +129,7 @@ translate french b1c08ss08_a82e0a54:
 translate french b1c08ss08_15b1114b:
 
     # ha "You terrible little tease. Do you really think it'll be easy to make me beg?"
-    ha " Espèce de terrible petite taquine. Tu penses vraiment que ce sera facile de me faire supplier ? "
+    ha " Espèce de terrible petite taquine. Tu penses vraiment que ce sera facile de me faire supplier? "
 
 # game/code/Book-1/Chapter-8s/s08.rpy:150
 translate french b1c08ss08_aac757a3:
@@ -279,13 +279,13 @@ translate french b1c08ss08_5cf0b237:
 translate french b1c08ss08_8d812d98:
 
     # "Hellena exposes herself to you. Her pussy glistens with heat and wetness, and you see her twitching already, wanting to have you inside her." id b1c08ss08_8d812d98
-    "Hellena s'expose à toi. Sa chatte scintille de chaleur et d'humidité, et tu la vois déjà trembler, voulant t'avoir en elle." identifiant b1c08ss08_8d812d98
+    "Hellena s'expose à toi. Sa chatte scintille de chaleur et d'humidité, et tu la vois déjà trembler, voulant t'avoir en elle." id b1c08ss08_8d812d98
 
 # game/code/Book-1/Chapter-8s/s08.rpy:261
 translate french b1c08ss08_cf6fa89c:
 
     # ha "God, I need you inside me! Please, please! Fuck me, I want it now!"
-    ha "Mon Dieu, j'ai besoin de toi en moi ! S'il te plaît, s'il te plaît ! Baise-moi, je le veux maintenant !"
+    ha "Mon Dieu, j'ai besoin de toi en moi! S'il te plaît, s'il te plaît! Baise-moi, je le veux maintenant!"
 
 # game/code/Book-1/Chapter-8s/s08.rpy:299
 translate french b1c08ss08_1d073448:
@@ -357,7 +357,7 @@ translate french b1c08ss08_sex_toy_f492a672:
 translate french b1c08ss08_sex_toy_66aaf7bc:
 
     # mc "For being so dominant with your subordinates, you sure are a submissive little slut for me, aren't you?"
-    mc "Pour être si dominant avec tes subordonnés, tu es certainement une petite salope soumise pour moi, n'est-ce pas ?"
+    mc "Pour être si dominant avec tes subordonnés, tu es certainement une petite salope soumise pour moi, n'est-ce pas?"
 
 # game/code/Book-1/Chapter-8s/s08.rpy:394
 translate french b1c08ss08_sex_toy_3a94f5f7:
@@ -399,7 +399,7 @@ translate french b1c08ss08_sex_toy_91434949:
 translate french b1c08ss08_sex_toy_1c30f353:
 
     # mc "Shut the fuck up. The only thing I want to hear from your whore mouth is you begging for more, understood?"
-    mc "Tais-toi. La seule chose que je veux entendre de ta bouche de pute, c'est que tu en demandes plus, compris ?"
+    mc "Tais-toi. La seule chose que je veux entendre de ta bouche de pute, c'est que tu en demandes plus, compris?"
 
 # game/code/Book-1/Chapter-8s/s08.rpy:431
 translate french b1c08ss08_sex_toy_6a8f5083:
@@ -423,7 +423,7 @@ translate french b1c08ss08_sex_toy_87e26eb2:
 translate french b1c08ss08_sex_toy_972663e6:
 
     # mc "I think you deserve to have your cunt filled for being so obedient, what do you think?"
-    mc "Je pense que tu mérites de te faire remplir la chatte pour être si obéissant, qu'en penses-tu ?"
+    mc "Je pense que tu mérites de te faire remplir la chatte pour être si obéissant, qu'en penses-tu?"
 
 # game/code/Book-1/Chapter-8s/s08.rpy:444
 translate french b1c08ss08_sex_toy_981dfc79:
@@ -525,7 +525,7 @@ translate french b1c08ss08_no_sex_toy_15fcd810:
 translate french b1c08ss08_no_sex_toy_78e41736:
 
     # mc "I'm going to breed your slutty little cunt with my cum and you're gonna walk around dripping my cum, marked as my slut, understood?"
-    mc "Je vais élever ta petite chatte de salope avec mon sperme et tu vas te promener en dégoulinant de mon sperme, marqué comme ma salope, compris ?"
+    mc "Je vais élever ta petite chatte de salope avec mon sperme et tu vas te promener en dégoulinant de mon sperme, marqué comme ma salope, compris?"
 
 # game/code/Book-1/Chapter-8s/s08.rpy:578
 translate french b1c08ss08_no_sex_toy_032a24b5:
@@ -537,7 +537,7 @@ translate french b1c08ss08_no_sex_toy_032a24b5:
 translate french b1c08ss08_no_sex_toy_fa7cd3bd:
 
     # ha "Yes. Yes! Breed me! Fill me up! I want to carry your cum for as long as possible, darling. Breed me!"
-    ha "Oui. Oui ! Élevez-moi ! Remplissez-moi ! Je veux porter ton sperme le plus longtemps possible, chérie. Élevez-moi !"
+    ha "Oui. Oui! Élevez-moi! Remplissez-moi! Je veux porter ton sperme le plus longtemps possible, chérie. Élevez-moi!"
 
 # game/code/Book-1/Chapter-8s/s08.rpy:585
 translate french b1c08ss08_no_sex_toy_feb7b875:

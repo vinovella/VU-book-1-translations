@@ -759,7 +759,7 @@ translate french strings:
 
     # game/code/hints.rpy:11
     old "Why bother?"
-    new "Pourquoi se donner la peine ?"
+    new "Pourquoi se donner la peine?"
 
     # game/code/hints.rpy:11
     old "She gave you up."

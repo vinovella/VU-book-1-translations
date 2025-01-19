@@ -3,7 +3,7 @@
 translate french b1c09s13_8cdca3b5:
 
     # "[b1c09s13_bartender_name!t]" "What can I get you?"
-    "[b1c09s13_bartender_name!t]" "Qu'est-ce que je peux vous servir ?"
+    "[b1c09s13_bartender_name!t]" "Qu'est-ce que je peux vous servir?"
 
 # game/code/Book-1/Chapter-9/s13.rpy:32
 translate french b1c09s13_dbccd2a5:
@@ -15,7 +15,7 @@ translate french b1c09s13_dbccd2a5:
 translate french b1c09s13_jh_lw_8cee2c28:
 
     # oa "Hey, guys!"
-    oa "Salut les gars !"
+    oa "Salut les gars!"
 
 # game/code/Book-1/Chapter-9/s13.rpy:54
 translate french b1c09s13_jh_lw_9d5cbcd0:
@@ -33,19 +33,19 @@ translate french b1c09s13_jh_lw_e38431b7:
 translate french b1c09s13_jh_lw_3a46847f:
 
     # oa "Oh my gosh, what a surprise! I didn't expect Lara to come as well."
-    oa "Oh mon dieu, quelle surprise ! Je ne pensais pas que Lara viendrait aussi."
+    oa "Oh mon dieu, quelle surprise! Je ne pensais pas que Lara viendrait aussi."
 
 # game/code/Book-1/Chapter-9/s13.rpy:62
 translate french b1c09s13_jh_lw_bbdcf3a4:
 
     # oa "Josie finally help you get out of your cocoon?"
-    oa "Josie t'a enfin aidée à sortir de ta chrysalide ?"
+    oa "Josie t'a enfin aidée à sortir de ta chrysalide?"
 
 # game/code/Book-1/Chapter-9/s13.rpy:64
 translate french b1c09s13_jh_lw_87264032:
 
     # lw "Ha! I tried to help {i}her{/i} get out of her cocoon and this is the thanks I got in return."
-    lw "Ha ! J'ai essayé de l'aider à sortir de sa chrysalide et voilà comment elle me remercie."
+    lw "Ha! J'ai essayé de l'aider à sortir de sa chrysalide et voilà comment elle me remercie."
 
 # game/code/Book-1/Chapter-9/s13.rpy:66
 translate french b1c09s13_jh_lw_4343bef7:
@@ -69,7 +69,7 @@ translate french b1c09s13_jh_lw_d2c34e81:
 translate french b1c09s13_jh_lw_255fd5a3:
 
     # oa "*Smiles* Hey, it's okay. I know these parties are a lot on the senses. But!"
-    oa "*Sourit* Hé, ça va. Je sais que ces soirées sont intenses pour les sens. Mais !"
+    oa "*Sourit* Hé, ça va. Je sais que ces soirées sont intenses pour les sens. Mais!"
 
 # game/code/Book-1/Chapter-9/s13.rpy:76
 translate french b1c09s13_jh_lw_05f93db8:
@@ -81,7 +81,7 @@ translate french b1c09s13_jh_lw_05f93db8:
 translate french b1c09s13_jh_lw_7371970e:
 
     # oa "Nothing gets your senses to stop fussing like some good booze!"
-    oa "Rien ne fait taire tes sens comme un bon verre d'alcool !"
+    oa "Rien ne fait taire tes sens comme un bon verre d'alcool!"
 
 # game/code/Book-1/Chapter-9/s13.rpy:84
 translate french b1c09s13_jh_lw_1f7a0e7b:
@@ -93,7 +93,7 @@ translate french b1c09s13_jh_lw_1f7a0e7b:
 translate french b1c09s13_jh_lw_466d8d80:
 
     # lw "What's forward?"
-    lw "C'est quoi, direct ?"
+    lw "C'est quoi, direct?"
 
 # game/code/Book-1/Chapter-9/s13.rpy:89
 translate french b1c09s13_jh_lw_311db3b5:
@@ -105,7 +105,7 @@ translate french b1c09s13_jh_lw_311db3b5:
 translate french b1c09s13_jh_lw_56943909:
 
     # lw "Oh, huh. How's that not incredibly awkward?"
-    lw "Oh, hein. Comment ça ne peut pas être incroyablement gênant ?"
+    lw "Oh, hein. Comment ça ne peut pas être incroyablement gênant?"
 
 # game/code/Book-1/Chapter-9/s13.rpy:95
 translate french b1c09s13_jh_lw_460f2152:
@@ -129,7 +129,7 @@ translate french b1c09s13_jh_lw_540beb12:
 translate french b1c09s13_jh_lw_87a0ef9f:
 
     # oa "Oh, we also got non-alcoholic ones. Would you like that?"
-    oa "Oh, on a aussi des boissons sans alcool. Ça te va ?"
+    oa "Oh, on a aussi des boissons sans alcool. Ça te va?"
 
 # game/code/Book-1/Chapter-9/s13.rpy:102
 translate french b1c09s13_jh_lw_12393c6f:
@@ -171,7 +171,7 @@ translate french b1c09s13_jh_lw_59d1c7a4:
 translate french b1c09s13_jh_lw_ddd1f29a:
 
     # "???" "OLESYA! WHERE THE FUCK ARE YOU???"
-    "???" "OLESYA ! OÙ TU ES PUTAIN ???"
+    "???" "OLESYA! OÙ TU ES PUTAIN???"
 
 # game/code/Book-1/Chapter-9/s13.rpy:125
 translate french b1c09s13_jh_lw_65032546:
@@ -183,19 +183,19 @@ translate french b1c09s13_jh_lw_65032546:
 translate french b1c09s13_jh_lw_89d5d289:
 
     # oa "Sorry, I need to go check that out. Are you guys good here?"
-    oa "Désolée, je dois aller vérifier ça. Vous allez bien ici ?"
+    oa "Désolée, je dois aller vérifier ça. Vous allez bien ici?"
 
 # game/code/Book-1/Chapter-9/s13.rpy:132
 translate french b1c09s13_jh_lw_4e5eb2cb:
 
     # jh "Yeah! Go ahead."
-    jh "Ouais ! Vas-y."
+    jh "Ouais! Vas-y."
 
 # game/code/Book-1/Chapter-9/s13.rpy:134
 translate french b1c09s13_jh_lw_6c3a8c2e:
 
     # oa "Thank you. You two have fun now!"
-    oa "Merci. Amusez-vous bien maintenant !"
+    oa "Merci. Amusez-vous bien maintenant!"
 
 # game/code/Book-1/Chapter-9/s13.rpy:139
 translate french b1c09s13_jh_lw_0a710d19:
@@ -225,13 +225,13 @@ translate french b1c09s13_jh_lw_fbb86606:
 translate french b1c09s13_jh_lw_699878f6:
 
     # mc "Hey!"
-    mc "Hé !"
+    mc "Hé!"
 
 # game/code/Book-1/Chapter-9/s13.rpy:155
 translate french b1c09s13_jh_lw_95ff6bcb:
 
     # jh "Oh! [mcname]!"
-    jh "Oh ! [mcname] !"
+    jh "Oh! [mcname]!"
 
 # game/code/Book-1/Chapter-9/s13.rpy:157
 translate french b1c09s13_jh_lw_264bf8dc:
@@ -255,7 +255,7 @@ translate french b1c09s13_jh_lw_27684712:
 translate french b1c09s13_jh_lw_24d0342f:
 
     # lw "What! I have never said that, blasphemer."
-    lw "Quoi ! Je n'ai jamais dit ça, blasphémateur."
+    lw "Quoi! Je n'ai jamais dit ça, blasphémateur."
 
 # game/code/Book-1/Chapter-9/s13.rpy:168
 translate french b1c09s13_jh_lw_969e080f:
@@ -279,7 +279,7 @@ translate french b1c09s13_jh_lw_a3e13053:
 translate french b1c09s13_jh_lw_aecdd501:
 
     # mc "Okay. You two wanna go up to the balcony? There's not a lot of people there."
-    mc "D'accord. Vous voulez monter sur le balcon ? Il n'y a pas beaucoup de gens là-bas."
+    mc "D'accord. Vous voulez monter sur le balcon? Il n'y a pas beaucoup de gens là-bas."
 
 # game/code/Book-1/Chapter-9/s13.rpy:177
 translate french b1c09s13_jh_lw_edcf93ac:
@@ -315,7 +315,7 @@ translate french b1c09s13_jh_lw_6ca3ef71:
 translate french b1c09s13_jh_lw_0c7e7392:
 
     # jh "Carefu—!" id b1c09s13_jh_lw_0c7e7392
-    jh "Fais attention— !" id b1c09s13_jh_lw_0c7e7392
+    jh "Fais attention—!" id b1c09s13_jh_lw_0c7e7392
 
 # game/code/Book-1/Chapter-9/s13.rpy:216
 translate french b1c09s13_jh_lw_aaa0d9c6:
@@ -333,19 +333,19 @@ translate french b1c09s13_jh_lw_7f210bd3:
 translate french b1c09s13_jh_lw_5b33d201:
 
     # lw "Put me down!"
-    lw "Pose-moi !"
+    lw "Pose-moi!"
 
 # game/code/Book-1/Chapter-9/s13.rpy:225
 translate french b1c09s13_jh_lw_5d67ca67:
 
     # mc "Hey! Stop wiggling. It's safer and faster if I just carry you."
-    mc "Hé ! Arrête de gigoter. C'est plus sûr et plus rapide si je te porte."
+    mc "Hé! Arrête de gigoter. C'est plus sûr et plus rapide si je te porte."
 
 # game/code/Book-1/Chapter-9/s13.rpy:228
 translate french b1c09s13_jh_lw_b3232d4c:
 
     # lw "Are you saying that I can't climb up stairs?"
-    lw "Tu es en train de dire que je ne peux pas monter les escaliers ?"
+    lw "Tu es en train de dire que je ne peux pas monter les escaliers?"
 
 # game/code/Book-1/Chapter-9/s13.rpy:230
 translate french b1c09s13_jh_lw_cd554814:
@@ -393,7 +393,7 @@ translate french b1c09s13_jh_lw_a96a255a:
 translate french b1c09s13_jh_lw_91165a6e:
 
     # mc "How about this? Nice and quiet."
-    mc "Que diriez-vous de ça ? Calme et tranquille."
+    mc "Que diriez-vous de ça? Calme et tranquille."
 
 # game/code/Book-1/Chapter-9/s13.rpy:262
 translate french b1c09s13_jh_lw_1d8d28f3:
@@ -411,7 +411,7 @@ translate french b1c09s13_jh_lw_aa36ddcf:
 translate french b1c09s13_jh_lw_902bca39:
 
     # lw "The night feels so clear. Can you guys describe the stars for me? What do they look like right now?"
-    lw "La nuit est tellement claire. Vous pouvez me décrire les étoiles ? À quoi elles ressemblent en ce moment ?"
+    lw "La nuit est tellement claire. Vous pouvez me décrire les étoiles? À quoi elles ressemblent en ce moment?"
 
 # game/code/Book-1/Chapter-9/s13.rpy:270
 translate french b1c09s13_jh_lw_791e18e6:
@@ -531,7 +531,7 @@ translate french b1c09s13_jh_lw_7f9c4b56:
 translate french b1c09s13_jh_lw_dbeda985:
 
     # mc "*Gently* Lara?"
-    mc "*Doucement* Lara ?"
+    mc "*Doucement* Lara?"
 
 # game/code/Book-1/Chapter-9/s13.rpy:319
 translate french b1c09s13_jh_lw_cc1ef1ab:
@@ -567,7 +567,7 @@ translate french b1c09s13_jh_lw_253a742c:
 translate french b1c09s13_jh_lw_e629ed4c:
 
     # mc "Are you sure I'm not in the way? What with me barging in on your dorm and—"
-    mc "Es-tu sûr que je ne suis pas de trop ? Avec moi qui débarque dans ton dortoir et—"
+    mc "Es-tu sûr que je ne suis pas de trop? Avec moi qui débarque dans ton dortoir et—"
 
 # game/code/Book-1/Chapter-9/s13.rpy:335
 translate french b1c09s13_jh_lw_e47c0107:
@@ -609,7 +609,7 @@ translate french b1c09s13_jh_lw_b357f4f7:
 translate french b1c09s13_jh_lw_22a05269:
 
     # lw "Mmm?"
-    lw "Mmm ?"
+    lw "Mmm?"
 
 # game/code/Book-1/Chapter-9/s13.rpy:353
 translate french b1c09s13_jh_lw_d763c0b9:
@@ -651,7 +651,7 @@ translate french b1c09s13_jh_lw_8ff2d35c:
 translate french b1c09s13_jh_lw_b6d192c6:
 
     # jh "Thanks, [mcname]. It was really lovely up here. We'll see you around, okay?"
-    jh "Merci, [mcname]. C'était vraiment agréable ici. On se voit bientôt, d'accord ?"
+    jh "Merci, [mcname]. C'était vraiment agréable ici. On se voit bientôt, d'accord?"
 
 # game/code/Book-1/Chapter-9/s13.rpy:372
 translate french b1c09s13_jh_lw_1021bc01:
@@ -687,7 +687,7 @@ translate french b1c09s13_jh_lw_9a87fa1a:
 translate french b1c09s13_jh_de9094d5:
 
     # oa "Josie! Over here!"
-    oa "Josie ! Par ici !"
+    oa "Josie! Par ici!"
 
 # game/code/Book-1/Chapter-9/s13.rpy:397
 translate french b1c09s13_jh_71bd1f68:
@@ -711,7 +711,7 @@ translate french b1c09s13_jh_7defd3b7:
 translate french b1c09s13_jh_e05aba1c:
 
     # oa "I'm so glad you could make it! Did Lara not wanna come?"
-    oa "Je suis tellement contente que tu sois venue ! Lara n'a pas voulu venir ?"
+    oa "Je suis tellement contente que tu sois venue! Lara n'a pas voulu venir?"
 
 # game/code/Book-1/Chapter-9/s13.rpy:407
 translate french b1c09s13_jh_f07049d5:
@@ -729,7 +729,7 @@ translate french b1c09s13_jh_16cca1cd:
 translate french b1c09s13_jh_127b0bee:
 
     # oa "Nonsense! C'mon, this'll help you loosen up. You gotta get out of your comfort zone sometimes."
-    oa "N'importe quoi ! Allez, ça va t'aider à te détendre. Il faut parfois sortir de sa zone de confort."
+    oa "N'importe quoi! Allez, ça va t'aider à te détendre. Il faut parfois sortir de sa zone de confort."
 
 # game/code/Book-1/Chapter-9/s13.rpy:431
 translate french b1c09s13_jh_7790d296:
@@ -753,7 +753,7 @@ translate french b1c09s13_jh_5018b3e2:
 translate french b1c09s13_jh_ce405646:
 
     # mc "There you are!"
-    mc "Te voilà !"
+    mc "Te voilà!"
 
 # game/code/Book-1/Chapter-9/s13.rpy:442
 translate french b1c09s13_jh_0a28839a:
@@ -765,13 +765,13 @@ translate french b1c09s13_jh_0a28839a:
 translate french b1c09s13_jh_33c27783:
 
     # jh "[mcname]! Hey."
-    jh "[mcname] ! Salut."
+    jh "[mcname]! Salut."
 
 # game/code/Book-1/Chapter-9/s13.rpy:449
 translate french b1c09s13_jh_5840f914:
 
     # oa "Oh, hey [mcname]. You know Josie?"
-    oa "Oh, salut [mcname]. Tu connais Josie ?"
+    oa "Oh, salut [mcname]. Tu connais Josie?"
 
 # game/code/Book-1/Chapter-9/s13.rpy:451
 translate french b1c09s13_jh_5371b69f:
@@ -783,7 +783,7 @@ translate french b1c09s13_jh_5371b69f:
 translate french b1c09s13_jh_5b742d01:
 
     # oa "Oh my God! So he's the guy you were talking about?"
-    oa "Oh mon Dieu ! C'est donc lui dont tu parlais ?"
+    oa "Oh mon Dieu! C'est donc lui dont tu parlais?"
 
 # game/code/Book-1/Chapter-9/s13.rpy:457
 translate french b1c09s13_jh_c885d64e:
@@ -801,37 +801,37 @@ translate french b1c09s13_jh_ba66d1ed:
 translate french b1c09s13_jh_ddd1f29a:
 
     # "???" "OLESYA! WHERE THE FUCK ARE YOU???"
-    "???" "OLESYA ! T'ES OÙ BON SANG ???"
+    "???" "OLESYA! T'ES OÙ BON SANG???"
 
 # game/code/Book-1/Chapter-9/s13.rpy:466
 translate french b1c09s13_jh_3f989b97:
 
     # oa "Ugh, damn it!"
-    oa "Ugh, merde !"
+    oa "Ugh, merde!"
 
 # game/code/Book-1/Chapter-9/s13.rpy:470
 translate french b1c09s13_jh_aeafbde4:
 
     # oa "Sorry, I need to go check that out.{w} Are you guys good here?"
-    oa "Désolée, je dois aller vérifier ça.{w} Vous allez bien ici ?"
+    oa "Désolée, je dois aller vérifier ça.{w} Vous allez bien ici?"
 
 # game/code/Book-1/Chapter-9/s13.rpy:472
 translate french b1c09s13_jh_4e5eb2cb:
 
     # jh "Yeah! Go ahead."
-    jh "Ouais ! Vas-y."
+    jh "Ouais! Vas-y."
 
 # game/code/Book-1/Chapter-9/s13.rpy:474
 translate french b1c09s13_jh_6c3a8c2e:
 
     # oa "Thank you. You two have fun now!"
-    oa "Merci. Amusez-vous bien tous les deux !"
+    oa "Merci. Amusez-vous bien tous les deux!"
 
 # game/code/Book-1/Chapter-9/s13.rpy:479
 translate french b1c09s13_jh_f21151e4:
 
     # mc "You okay? This all a bit much?"
-    mc "Ça va ? C'est un peu trop pour toi ?"
+    mc "Ça va? C'est un peu trop pour toi?"
 
 # game/code/Book-1/Chapter-9/s13.rpy:481
 translate french b1c09s13_jh_89413d8b:
@@ -849,13 +849,13 @@ translate french b1c09s13_jh_0cd521f9:
 translate french b1c09s13_jh_1d15ad41:
 
     # mc "Why don't we go somewhere a bit quieter then? Get you out of the thick of it for a bit."
-    mc "Si on allait dans un endroit plus calme alors ? Pour te sortir un peu de tout ça."
+    mc "Si on allait dans un endroit plus calme alors? Pour te sortir un peu de tout ça."
 
 # game/code/Book-1/Chapter-9/s13.rpy:487
 translate french b1c09s13_jh_16c787f9:
 
     # jh "Would you mind?"
-    jh "Ça te dérangerait ?"
+    jh "Ça te dérangerait?"
 
 # game/code/Book-1/Chapter-9/s13.rpy:489
 translate french b1c09s13_jh_cdefd78f:
@@ -867,7 +867,7 @@ translate french b1c09s13_jh_cdefd78f:
 translate french b1c09s13_jh_ad1c6456:
 
     # mc "How about up on the balcony? Bit more low-key up there."
-    mc "Et si on allait sur le balcon ? C'est un peu plus tranquille là-haut."
+    mc "Et si on allait sur le balcon? C'est un peu plus tranquille là-haut."
 
 # game/code/Book-1/Chapter-9/s13.rpy:494
 translate french b1c09s13_jh_8f129526:
@@ -891,7 +891,7 @@ translate french b1c09s13_jh_6d5f8951:
 translate french b1c09s13_jh_043cb864:
 
     # mc "There, how's this? Bit more peaceful up here."
-    mc "Voilà, comment ça va ici ? C'est un peu plus calme, non ?"
+    mc "Voilà, comment ça va ici? C'est un peu plus calme, non?"
 
 # game/code/Book-1/Chapter-9/s13.rpy:513
 translate french b1c09s13_jh_d2dba6e2:
@@ -963,7 +963,7 @@ translate french b1c09s13_jh_09bced48:
 translate french b1c09s13_jh_6047f397:
 
     # jh "You know what? I think I will take you up on leaving. This was nice, getting away from everything for a bit."
-    jh "Tu sais quoi ? Je crois que je vais accepter ton offre de partir. C'était agréable de m'éloigner de tout ça pendant un moment."
+    jh "Tu sais quoi? Je crois que je vais accepter ton offre de partir. C'était agréable de m'éloigner de tout ça pendant un moment."
 
 # game/code/Book-1/Chapter-9/s13.rpy:538
 translate french b1c09s13_jh_24a35be3:
@@ -993,7 +993,7 @@ translate french b1c09s13_jh_62cda82c:
 translate french b1c09s13_jh_081cf48b:
 
     # mc "You sure? I honestly don't mind keeping you company."
-    mc "Tu es sûre ? Honnêtement, ça ne me dérange pas de te tenir compagnie."
+    mc "Tu es sûre? Honnêtement, ça ne me dérange pas de te tenir compagnie."
 
 # game/code/Book-1/Chapter-9/s13.rpy:550
 translate french b1c09s13_jh_b6648f8a:
@@ -1005,13 +1005,13 @@ translate french b1c09s13_jh_b6648f8a:
 translate french b1c09s13_jh_48f8ab1e:
 
     # jh "I'm going to go track down Olesya, then I'll head back to the dorm. You have fun, okay?"
-    jh "Je vais retrouver Olesya, puis je retournerai à la chambre. Amuse-toi bien, d'accord ?"
+    jh "Je vais retrouver Olesya, puis je retournerai à la chambre. Amuse-toi bien, d'accord?"
 
 # game/code/Book-1/Chapter-9/s13.rpy:555
 translate french b1c09s13_jh_c6126141:
 
     # jh "I mean it, don't spend the whole night worrying about me. Let loose a little!"
-    jh "Je suis sérieuse, ne passe pas toute la soirée à t'inquiéter pour moi. Lâche-toi un peu !"
+    jh "Je suis sérieuse, ne passe pas toute la soirée à t'inquiéter pour moi. Lâche-toi un peu!"
 
 # game/code/Book-1/Chapter-9/s13.rpy:557
 translate french b1c09s13_jh_3850e125:

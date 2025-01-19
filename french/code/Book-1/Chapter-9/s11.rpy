@@ -8,7 +8,7 @@ translate french b1c09s11_8b7f2afd:
 translate french b1c09s11_dk_available_29b155df:
 
     # dk "[mcname]!"
-    dk "[mcname] !"
+    dk "[mcname]!"
 
 # game/code/Book-1/Chapter-9/s11.rpy:107
 translate french b1c09s11_dk_available_3d9cbcbb:
@@ -32,7 +32,7 @@ translate french b1c09s11_dk_available_61997a27:
 translate french b1c09s11_dk_available_660ce4c9:
 
     # mc "*Smirks* And what makes your company any better?"
-    mc "*Sourit* Et qu'est-ce qui rend ta compagnie meilleure ?"
+    mc "*Sourit* Et qu'est-ce qui rend ta compagnie meilleure?"
 
 # game/code/Book-1/Chapter-9/s11.rpy:115
 translate french b1c09s11_dk_available_9e43f064:
@@ -56,7 +56,7 @@ translate french b1c09s11_dk_available_798dff3d:
 translate french b1c09s11_dk_available_379fcd6e:
 
     # mc "You think?"
-    mc "Tu crois ?"
+    mc "Tu crois?"
 
 # game/code/Book-1/Chapter-9/s11.rpy:124
 translate french b1c09s11_dk_available_60c4bc59:
@@ -74,19 +74,19 @@ translate french b1c09s11_dk_available_ce4608b2:
 translate french b1c09s11_dk_available_6f032e4a:
 
     # dk "So, what do you say we make tonight a little more...fun?"
-    dk "Alors, que dirais-tu de rendre cette soirée un peu plus...amusante ?"
+    dk "Alors, que dirais-tu de rendre cette soirée un peu plus...amusante?"
 
 # game/code/Book-1/Chapter-9/s11.rpy:133
 translate french b1c09s11_dk_available_7f88693a:
 
     # mc "What exactly do you have in mind?"
-    mc "Qu'est-ce que tu as exactement en tête ?"
+    mc "Qu'est-ce que tu as exactement en tête?"
 
 # game/code/Book-1/Chapter-9/s11.rpy:136
 translate french b1c09s11_dk_available_6b64bd97:
 
     # dk "Mm... How about a little rope play? Maybe some...watersports?"
-    dk "Mm... Que dirais-tu d'un peu de jeu avec des cordes ? Peut-être des...jeux d'eau ?"
+    dk "Mm... Que dirais-tu d'un peu de jeu avec des cordes? Peut-être des...jeux d'eau?"
 
 # game/code/Book-1/Chapter-9/s11.rpy:139
 translate french b1c09s11_dk_available_fee22717:
@@ -98,7 +98,7 @@ translate french b1c09s11_dk_available_fee22717:
 translate french b1c09s11_dk_available_785f48f4:
 
     # mc "Rope play? Are you sure you can handle that?"
-    mc "Jeux de corde ? Es-tu sûre de pouvoir gérer ça ?"
+    mc "Jeux de corde? Es-tu sûre de pouvoir gérer ça?"
 
 # game/code/Book-1/Chapter-9/s11.rpy:149
 translate french b1c09s11_dk_available_9eb8d68a:
@@ -116,7 +116,7 @@ translate french b1c09s11_dk_available_6db92438:
 translate french b1c09s11_dk_available_3ba1213d:
 
     # dk "Seriously? Ugh."
-    dk "Sérieusement ? Ugh."
+    dk "Sérieusement? Ugh."
 
 # game/code/Book-1/Chapter-9/s11.rpy:162
 translate french b1c09s11_dk_available_da6a499f:
@@ -134,19 +134,19 @@ translate french b1c09s11_dk_available_c58d3e85:
 translate french b1c09s11_dk_sex_a8c4c090:
 
     # mc "Iona's room?"
-    mc "La chambre d'Iona ?"
+    mc "La chambre d'Iona?"
 
 # game/code/Book-1/Chapter-9/s11.rpy:186
 translate french b1c09s11_dk_sex_5447372b:
 
     # dk "Ah, so you know her?"
-    dk "Ah, alors tu la connais ?"
+    dk "Ah, alors tu la connais?"
 
 # game/code/Book-1/Chapter-9/s11.rpy:188
 translate french b1c09s11_dk_sex_edc28904:
 
     # mc "Yeah. How do you know her?"
-    mc "Oui. Comment la connais-tu ?"
+    mc "Oui. Comment la connais-tu?"
 
 # game/code/Book-1/Chapter-9/s11.rpy:191
 translate french b1c09s11_dk_sex_92e24865:
@@ -176,7 +176,7 @@ translate french b1c09s11_dk_sex_24b9de1a:
 translate french b1c09s11_dk_sex_26a156e0:
 
     # dk "*Grins* Ready for some fun?"
-    dk "*Sourit* Prêt pour un peu de plaisir ?"
+    dk "*Sourit* Prêt pour un peu de plaisir?"
 
 # game/code/Book-1/Chapter-9/s11.rpy:207
 translate french b1c09s11_dk_sex_d18e8064:
@@ -194,7 +194,7 @@ translate french b1c09s11_dk_sex_804c36bb:
 translate french b1c09s11_dk_sex_26114ae6:
 
     # dk "Think you can handle tying me up?"
-    dk "Tu penses pouvoir gérer de m'attacher ?"
+    dk "Tu penses pouvoir gérer de m'attacher?"
 
 # game/code/Book-1/Chapter-9/s11.rpy:216
 translate french b1c09s11_dk_sex_4ac5e3c5:
@@ -236,7 +236,7 @@ translate french b1c09s11_dk_sex_e088cd5a:
 translate french b1c09s11_dk_sex_3462cb87:
 
     # dk "If you got such a problem with it, why don't you {i}try{/i} and fuck the brattiness out of me?"
-    dk "Si tu as tant de problème avec ça, pourquoi ne pas {i}essayer{/i} de me baiser pour faire disparaître mon insolence ?"
+    dk "Si tu as tant de problème avec ça, pourquoi ne pas {i}essayer{/i} de me baiser pour faire disparaître mon insolence?"
 
 # game/code/Book-1/Chapter-9/s11.rpy:244
 translate french b1c09s11_dk_sex_f1b1ace9:
@@ -266,7 +266,7 @@ translate french b1c09s11_dk_sex_5079fbcd:
 translate french b1c09s11_dk_sex_53723b80:
 
     # mc "Good for me there's no {i}lady{/i} here then, hm?"
-    mc "Heureusement pour moi, il n'y a pas de {i}dame{/i} ici alors, hm ?"
+    mc "Heureusement pour moi, il n'y a pas de {i}dame{/i} ici alors, hm?"
 
 # game/code/Book-1/Chapter-9/s11.rpy:274
 translate french b1c09s11_dk_sex_6c44b871:
@@ -290,7 +290,7 @@ translate french b1c09s11_dk_sex_4811b0c0:
 translate french b1c09s11_dk_sex_250bed19:
 
     # mc "*Smirks* Comfortable?"
-    mc "*Sourit* Confortable ?"
+    mc "*Sourit* Confortable?"
 
 # game/code/Book-1/Chapter-9/s11.rpy:290
 translate french b1c09s11_dk_sex_9bcf6dad:
@@ -920,7 +920,7 @@ translate french b1c09s11_after_watersports_4b2bd855:
 translate french b1c09s11_after_watersports_7368e7e4:
 
     # mc "*Hoarsely* I'm going to cum, Delphia." id b1c09s11_after_watersports_7368e7e4
-    mc "*D'une voix rauque* Je vais jouir, Delphia." identifiant b1c09s11_after_watersports_7368e7e4
+    mc "*D'une voix rauque* Je vais jouir, Delphia." id b1c09s11_after_watersports_7368e7e4
 
 # game/code/Book-1/Chapter-9/s11.rpy:690
 translate french b1c09s11_after_watersports_4b6e6fc6:
@@ -938,7 +938,7 @@ translate french b1c09s11_after_watersports_ec660353:
 translate french b1c09s11_after_watersports_0be581c9:
 
     # dk "*Moaning* Yes, yes, yes! Fill me, breed me, make me yours!"
-    dk "*Gémissant* Oui, oui, oui ! Remplissez-moi, élevez-moi, faites de moi le vôtre !"
+    dk "*Gémissant* Oui, oui, oui! Remplissez-moi, élevez-moi, faites de moi le vôtre!"
 
 # game/code/Book-1/Chapter-9/s11.rpy:699
 translate french b1c09s11_after_watersports_34924497:
@@ -998,7 +998,7 @@ translate french b1c09s11_after_watersports_b97d5541:
 translate french b1c09s11_after_watersports_1cc55de9:
 
     # dk "Perfect. So claimed, so...complete. You?"
-    dk "Parfait. Tellement revendiqué, tellement... complet. Vous ?"
+    dk "Parfait. Tellement revendiqué, tellement... complet. Vous?"
 
 # game/code/Book-1/Chapter-9/s11.rpy:738
 translate french b1c09s11_after_watersports_8bfa7f2b:
@@ -1022,13 +1022,13 @@ translate french b1c09s11_after_watersports_20997c42:
 translate french b1c09s11_after_watersports_fcb8eee3:
 
     # dk "*Giggles* I wonder what Iona would think about us peeing on her bed." id b1c09s11_after_watersports_fcb8eee3
-    dk "*Rires* Je me demande ce que Iona penserait du fait que nous pissions sur son lit." identifiant b1c09s11_after_watersports_fcb8eee3
+    dk "*Rires* Je me demande ce que Iona penserait du fait que nous pissions sur son lit." id b1c09s11_after_watersports_fcb8eee3
 
 # game/code/Book-1/Chapter-9/s11.rpy:755
 translate french b1c09s11_after_watersports_07dc3c44:
 
     # mc "*Smiles* I think she'd want us to change the sheets... And possibly throw the whole bed away." id b1c09s11_after_watersports_07dc3c44
-    mc "*Sourit* Je pense qu'elle voudrait que nous changions les draps... Et peut-être que nous jetions tout le lit." identifiant b1c09s11_after_watersports_07dc3c44
+    mc "*Sourit* Je pense qu'elle voudrait que nous changions les draps... Et peut-être que nous jetions tout le lit." id b1c09s11_after_watersports_07dc3c44
 
 # game/code/Book-1/Chapter-9/s11.rpy:758
 translate french b1c09s11_after_watersports_f710dd85:
@@ -1088,7 +1088,7 @@ translate french b1c09s11_no_dk_9a7540cd:
 translate french b1c09s11_no_dk_5ca73888:
 
     # nv "Even better now that you're here. C'mon, dance with me!"
-    nv "Encore mieux maintenant que tu es là. Allez, danse avec moi !"
+    nv "Encore mieux maintenant que tu es là. Allez, danse avec moi!"
 
 # game/code/Book-1/Chapter-9/s11.rpy:794
 translate french b1c09s11_no_dk_2107e746:
@@ -1106,7 +1106,7 @@ translate french b1c09s11_no_dk_b423918f:
 translate french b1c09s11_no_dk_12e901eb:
 
     # nv "*Giggles* Keep up!"
-    nv "*Rires* Continuez !"
+    nv "*Rires* Continuez!"
 
 # game/code/Book-1/Chapter-9/s11.rpy:801
 translate french b1c09s11_no_dk_e0087a24:
@@ -1118,7 +1118,7 @@ translate french b1c09s11_no_dk_e0087a24:
 translate french b1c09s11_no_dk_16ddb9e9:
 
     # mc "*Smirks* Is that all you've got?"
-    mc "*Sourire* C'est tout ce que tu as ?"
+    mc "*Sourire* C'est tout ce que tu as?"
 
 # game/code/Book-1/Chapter-9/s11.rpy:808
 translate french b1c09s11_no_dk_13b3dc04:
@@ -1142,7 +1142,7 @@ translate french b1c09s11_no_dk_9533eb31:
 translate french b1c09s11_no_dk_3d9700ca:
 
     # nv "Having fun yet?"
-    nv "Tu t'amuses encore ?"
+    nv "Tu t'amuses encore?"
 
 # game/code/Book-1/Chapter-9/s11.rpy:817
 translate french b1c09s11_no_dk_afe36c49:
@@ -1154,7 +1154,7 @@ translate french b1c09s11_no_dk_afe36c49:
 translate french b1c09s11_no_dk_14900606:
 
     # mc "Did you think I wasn't?"
-    mc "Tu pensais que je ne l'étais pas ?"
+    mc "Tu pensais que je ne l'étais pas?"
 
 # game/code/Book-1/Chapter-9/s11.rpy:821
 translate french b1c09s11_no_dk_fb3047bc:
@@ -1232,7 +1232,7 @@ translate french b1c09s11_no_dk_894a1f95:
 translate french b1c09s11_no_dk_ef5bd849:
 
     # mc "*Smirks* Oh? Really?"
-    mc "*Sourit narquois* Oh ? Vraiment ?"
+    mc "*Sourit narquois* Oh? Vraiment?"
 
 # game/code/Book-1/Chapter-9/s11.rpy:856
 translate french b1c09s11_no_dk_d66376e2:
@@ -1364,7 +1364,7 @@ translate french b1c09s11_no_dk_d63f04eb:
 translate french b1c09s11_no_dk_ec9317ad:
 
     # mc "You sure you want to do this here?"
-    mc "Tu es sûr de vouloir faire ça ici ?"
+    mc "Tu es sûr de vouloir faire ça ici?"
 
 # game/code/Book-1/Chapter-9/s11.rpy:922
 translate french b1c09s11_no_dk_f3d8a9d2:
@@ -1382,7 +1382,7 @@ translate french b1c09s11_no_dk_c6b42428:
 translate french b1c09s11_no_dk_e0c2a854:
 
     # mc "What if someone sees?"
-    mc "Et si quelqu'un voyait ?"
+    mc "Et si quelqu'un voyait?"
 
 # game/code/Book-1/Chapter-9/s11.rpy:933
 translate french b1c09s11_no_dk_162e1afe:
@@ -1496,7 +1496,7 @@ translate french b1c09s11_no_dk_237c309f:
 translate french b1c09s11_no_dk_39ceeded:
 
     # mc "You're incredible. But you're not gonna leave me like this are you?"
-    mc "Tu es incroyable. Mais tu ne vas pas me laisser comme ça, n'est-ce pas ?"
+    mc "Tu es incroyable. Mais tu ne vas pas me laisser comme ça, n'est-ce pas?"
 
 # game/code/Book-1/Chapter-9/s11.rpy:1050
 translate french b1c09s11_no_dk_d81284d4:
@@ -1508,7 +1508,7 @@ translate french b1c09s11_no_dk_d81284d4:
 translate french b1c09s11_no_dk_c91eadbd:
 
     # nv "*Giggles* Well aren't you needy?"
-    nv "*Rires* Eh bien, tu n'es pas dans le besoin ?"
+    nv "*Rires* Eh bien, tu n'es pas dans le besoin?"
 
 # game/code/Book-1/Chapter-9/s11.rpy:1055
 translate french b1c09s11_no_dk_768b6aaf:
@@ -1532,7 +1532,7 @@ translate french strings:
 
     # game/code/Book-1/Chapter-9/s11.rpy:140
     old "Are you sure you can handle that?"
-    new "Es-tu sûr de pouvoir gérer ça ?"
+    new "Es-tu sûr de pouvoir gérer ça?"
 
     # game/code/Book-1/Chapter-9/s11.rpy:140
     old "I think I'd rather stay here and dance"

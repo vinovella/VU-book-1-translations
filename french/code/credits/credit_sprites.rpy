@@ -47,7 +47,7 @@ translate french strings:
 
    # game/code/credits/credit_sprites.rpy:166
     old "See you soon in {color=#d18fe7}Book Two{/color}!"
-    new "À bientôt dans {color=#d18fe7}le Livre Deux{/color} !"
+    new "À bientôt dans {color=#d18fe7}le Livre Deux{/color}!"
 
     # game/code/credits/credit_sprites.rpy:168
     old "If you liked the game, then please -\n{a=steam://openurl/https://store.steampowered.com/app/2459350/Taboo_University_Book_One/}Buy Taboo University on Steam{/a}"

@@ -14,19 +14,19 @@ translate french b1c08ss10_80770aa7:
 translate french b1c08ss10_d1199550:
 
     # ass "God, you two look like a hurricane slapped you against the wall a few times. What happened?"
-    ass "Mon dieu, vous avez l'air de deux personnes qu'un ouragan a frappé contre le mur plusieurs fois. Que s'est-il passé ?"
+    ass "Mon dieu, vous avez l'air de deux personnes qu'un ouragan a frappé contre le mur plusieurs fois. Que s'est-il passé?"
 
 # game/code/Book-1/Chapter-8s/s10.rpy:40
 translate french b1c08ss10_01542393:
 
     # ffl "Jeez, don't say it like that!"
-    ffl "Oh mon dieu, ne dis pas ça comme ça !"
+    ffl "Oh mon dieu, ne dis pas ça comme ça!"
 
 # game/code/Book-1/Chapter-8s/s10.rpy:42
 translate french b1c08ss10_81a712dc:
 
     # ass "What? I'm just being honest."
-    ass "Quoi ? Je suis juste honnête."
+    ass "Quoi? Je suis juste honnête."
 
 # game/code/Book-1/Chapter-8s/s10.rpy:45
 translate french b1c08ss10_21a9ea3a:
@@ -44,13 +44,13 @@ translate french b1c08ss10_833afe86:
 translate french b1c08ss10_2d421448:
 
     # rd "Let me serve up some drinks! We should celebrate."
-    rd "Laisse-moi servir quelques verres ! On devrait fêter ça."
+    rd "Laisse-moi servir quelques verres! On devrait fêter ça."
 
 # game/code/Book-1/Chapter-8s/s10.rpy:53
 translate french b1c08ss10_960abe3f:
 
     # ffl "How did this...transpire?"
-    ffl "Comment cela... s'est-il passé ?"
+    ffl "Comment cela... s'est-il passé?"
 
 # game/code/Book-1/Chapter-8s/s10.rpy:54
 translate french b1c08ss10_80803c7f:
@@ -74,7 +74,7 @@ translate french b1c08ss10_ffbbca98:
 translate french b1c08ss10_f328c44e:
 
     # ass "You beat Morgan? Jesus Christ."
-    ass "Tu as battu Morgan ? Jésus-Christ."
+    ass "Tu as battu Morgan? Jésus-Christ."
 
 # game/code/Book-1/Chapter-8s/s10.rpy:64
 translate french b1c08ss10_099d2672:
@@ -104,7 +104,7 @@ translate french b1c08ss10_fe5a6a38:
 translate french b1c08ss10_0987f5f5:
 
     # ass "So, how did you escape?"
-    ass "Alors, comment tu t'es échappé ?"
+    ass "Alors, comment tu t'es échappé?"
 
 # game/code/Book-1/Chapter-8s/s10.rpy:86
 translate french b1c08ss10_40e072d6:
@@ -344,7 +344,7 @@ translate french b1c08ss10_0cac2de9:
 translate french b1c08ss10_8d89601a:
 
     # mc "Do you ever think...{w}That this is what caused her disappearance? This lifestyle?"
-    mc "Tu penses parfois...{w}Que c'est ce qui a causé sa disparition ? Ce mode de vie ?"
+    mc "Tu penses parfois...{w}Que c'est ce qui a causé sa disparition? Ce mode de vie?"
 
 # game/code/Book-1/Chapter-8s/s10.rpy:196
 translate french b1c08ss10_71de4ef8:
@@ -356,7 +356,7 @@ translate french b1c08ss10_71de4ef8:
 translate french b1c08ss10_ed931196:
 
     # mc "You don't think Cade's actions against the Q and the girls was serious?"
-    mc "Tu ne penses pas que les actions de Cade contre le Q et les filles étaient sérieuses ?"
+    mc "Tu ne penses pas que les actions de Cade contre le Q et les filles étaient sérieuses?"
 
 # game/code/Book-1/Chapter-8s/s10.rpy:201
 translate french b1c08ss10_43416a28:
@@ -374,7 +374,7 @@ translate french b1c08ss10_837a195c:
 translate french b1c08ss10_5698f0fc:
 
     # mc "Getting beaten wasn't serious?"
-    mc "Se faire battre, ce n'était pas sérieux ?"
+    mc "Se faire battre, ce n'était pas sérieux?"
 
 # game/code/Book-1/Chapter-8s/s10.rpy:207
 translate french b1c08ss10_aba765ed:
@@ -386,7 +386,7 @@ translate french b1c08ss10_aba765ed:
 translate french b1c08ss10_ef7c4a48:
 
     # zp "Why do you worry about me? I'm not a baby."
-    zp "Pourquoi tu t'inquiètes pour moi ? Je ne suis pas un bébé."
+    zp "Pourquoi tu t'inquiètes pour moi? Je ne suis pas un bébé."
 
 # game/code/Book-1/Chapter-8s/s10.rpy:211
 translate french b1c08ss10_226f7669:
@@ -410,7 +410,7 @@ translate french b1c08ss10_84f1b464:
 translate french b1c08ss10_042d910c:
 
     # zp "You think that's what I think about Leia's disappearance? That it's just a fucking {i}game{/i}?"
-    zp "Tu penses que c'est ce que je pense de la disparition de Leia ? Que c'est juste un putain de {i}jeu{/i} ?"
+    zp "Tu penses que c'est ce que je pense de la disparition de Leia? Que c'est juste un putain de {i}jeu{/i}?"
 
 # game/code/Book-1/Chapter-8s/s10.rpy:220
 translate french b1c08ss10_b3cfb92a:
@@ -422,13 +422,13 @@ translate french b1c08ss10_b3cfb92a:
 translate french b1c08ss10_93581f69:
 
     # mc "Zem, wait! Please, I didn't mean to hurt you."
-    mc "Zem, attends ! S'il te plaît, je ne voulais pas te faire de mal."
+    mc "Zem, attends! S'il te plaît, je ne voulais pas te faire de mal."
 
 # game/code/Book-1/Chapter-8s/s10.rpy:229
 translate french b1c08ss10_752c28a7:
 
     # zp "Of course I know this isn't a game! I just..."
-    zp "Bien sûr que je sais que ce n'est pas un jeu ! Je veux juste..."
+    zp "Bien sûr que je sais que ce n'est pas un jeu! Je veux juste..."
 
 # game/code/Book-1/Chapter-8s/s10.rpy:232
 translate french b1c08ss10_75080940:
@@ -554,7 +554,7 @@ translate french b1c08ss10_7c53d3cb:
 translate french b1c08ss10_bc526ecb:
 
     # "Without thought, you and Zemfira undress the rest of the way, completely lost in each other's craving."
-    « Sans réfléchir, vous et Zemfira vous déshabillez jusqu'au bout, complètement perdus dans l'envie l'un de l'autre.
+    "Sans réfléchir, vous et Zemfira vous déshabillez jusqu'au bout, complètement perdus dans l'envie l'un de l'autre."
 
 # game/code/Book-1/Chapter-8s/s10.rpy:299
 translate french b1c08ss10_e488cbad:
@@ -584,7 +584,7 @@ translate french b1c08ss10_59378119:
 translate french b1c08ss10_257e35c0:
 
     # zp "I want you. I want you to make me feel good. Please?"
-    zp "Je te veux. Je veux que tu me fasses du bien. S'il te plaît ?"
+    zp "Je te veux. Je veux que tu me fasses du bien. S'il te plaît?"
 
 # game/code/Book-1/Chapter-8s/s10.rpy:314
 translate french b1c08ss10_26deac7f:
@@ -644,7 +644,7 @@ translate french b1c08ss10_88ef5d28:
 translate french b1c08ss10_b769562b:
 
     # mc "You're so needy for release, aren't you?"
-    mc "Tu as tellement besoin d'être libéré, n'est-ce pas ?"
+    mc "Tu as tellement besoin d'être libéré, n'est-ce pas?"
 
 # game/code/Book-1/Chapter-8s/s10.rpy:361
 translate french b1c08ss10_70d56812:
@@ -656,7 +656,7 @@ translate french b1c08ss10_70d56812:
 translate french b1c08ss10_4b38aae4:
 
     # zp "All I've wanted since then is you."
-    zp « Tout ce que je veux depuis, c'est toi. »
+    zp "Tout ce que je veux depuis, c'est toi."
 
 # game/code/Book-1/Chapter-8s/s10.rpy:368
 translate french b1c08ss10_96698662:
@@ -668,7 +668,7 @@ translate french b1c08ss10_96698662:
 translate french b1c08ss10_04326e30:
 
     # zp "Oh fuck, I'm-I'm gonna cum!"
-    zp "Oh putain, je vais-je vais jouir !"
+    zp "Oh putain, je vais-je vais jouir!"
 
 # game/code/Book-1/Chapter-8s/s10.rpy:375
 translate french b1c08ss10_b80cb6b6:
@@ -740,7 +740,7 @@ translate french b1c08ss10_e97c5c73:
 translate french b1c08ss10_7411a4e3:
 
     # mc "You want me to walk you home?"
-    mc "Tu veux que je te raccompagne chez toi ?"
+    mc "Tu veux que je te raccompagne chez toi?"
 
 # game/code/Book-1/Chapter-8s/s10.rpy:422
 translate french b1c08ss10_43692ef5:
@@ -758,13 +758,13 @@ translate french b1c08ss10_44321f1e:
 translate french b1c08ss10_0f5f3f4f:
 
     # zp "Oh, and [mcname]?"
-    zp "Oh, et [mcname] ?"
+    zp "Oh, et [mcname]?"
 
 # game/code/Book-1/Chapter-8s/s10.rpy:429
 translate french b1c08ss10_f49fff8f:
 
     # mc "Yeah?"
-    mc "Ouais ?"
+    mc "Ouais?"
 
 # game/code/Book-1/Chapter-8s/s10.rpy:433
 translate french b1c08ss10_5d2a9ef4:
@@ -776,19 +776,19 @@ translate french b1c08ss10_5d2a9ef4:
 translate french b1c08ss10_618b96f0:
 
     # mct "{i}{b}What?{/b}{/i}"
-    mct "{i}{b}Quoi ?{/b}{/i}"
+    mct "{i}{b}Quoi?{/b}{/i}"
 
 # game/code/Book-1/Chapter-8s/s10.rpy:441
 translate french b1c08ss10_55cec870:
 
     # mc "Hey wait! Are you serious?"
-    mc "Hé, attends ! Tu es sérieuse ?"
+    mc "Hé, attends! Tu es sérieuse?"
 
 # game/code/Book-1/Chapter-8s/s10.rpy:444
 translate french b1c08ss10_94dcaf14:
 
     # zp "Yeah!"
-    zp "Ouais !"
+    zp "Ouais!"
 
 # game/code/Book-1/Chapter-8s/s10.rpy:450
 translate french b1c08ss10_ce3a4c4c:

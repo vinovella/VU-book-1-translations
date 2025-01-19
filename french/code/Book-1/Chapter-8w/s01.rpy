@@ -2,25 +2,25 @@
 translate french b1c08ws01_e27aa7e1:
 
     # mc "Hey. Everything okay?"
-    mc "Hé. Tout va bien ?"
+    mc "Hé. Tout va bien?"
 
 # game/code/Book-1/Chapter-8w/s01.rpy:24
 translate french b1c08ws01_658c4986:
 
     # sm "Hm? Oh, yeah! Yeah, I was just triple checking to make sure the logistics stuff was all set."
-    sm "Hm ? Oh, ouais ! Ouais, je vérifiais encore une fois pour m'assurer que tout le logistique était prêt."
+    sm "Hm? Oh, ouais! Ouais, je vérifiais encore une fois pour m'assurer que tout le logistique était prêt."
 
 # game/code/Book-1/Chapter-8w/s01.rpy:29
 translate french b1c08ws01_c30caeb4:
 
     # mc "*Chuckles* Nervous?"
-    mc "*Rit* Nervieux ?"
+    mc "*Rit* Nervieux?"
 
 # game/code/Book-1/Chapter-8w/s01.rpy:32
 translate french b1c08ws01_7ffd0d79:
 
     # sm "Aren't we all? I just want to make sure everything not related to volleyball goes off without a hitch so that you guys can do what you do best."
-    sm "Ne le sommes-nous pas tous ? Je veux juste m'assurer que tout ce qui n'est pas lié au volley se passe bien, pour que vous puissiez faire ce que vous faites de mieux."
+    sm "Ne le sommes-nous pas tous? Je veux juste m'assurer que tout ce qui n'est pas lié au volley se passe bien, pour que vous puissiez faire ce que vous faites de mieux."
 
 # game/code/Book-1/Chapter-8w/s01.rpy:35
 translate french b1c08ws01_539e77fc:
@@ -56,7 +56,7 @@ translate french b1c08ws01_4db278af:
 translate french b1c08ws01_a159a3cd:
 
     # sm "Oh! The bus is here."
-    sm "Oh ! Le bus est là."
+    sm "Oh! Le bus est là."
 
 # game/code/Book-1/Chapter-8w/s01.rpy:62
 translate french b1c08ws01_b3a41bcc:
@@ -68,7 +68,7 @@ translate french b1c08ws01_b3a41bcc:
 translate french b1c08ws01_742a2c57:
 
     # ba "Woo! Fucking finally!"
-    ba "Woo ! Enfin putain !"
+    ba "Woo! Enfin putain!"
 
 # game/code/Book-1/Chapter-8w/s01.rpy:81
 translate french b1c08ws01_5bfb940b:
@@ -98,7 +98,7 @@ translate french b1c08ws01_d0d51447:
 translate french b1c08ws01_78815fab:
 
     # ba "Started on what? I'm just pumped for the tournament."
-    ba "Commencer quoi ? Je suis juste excité pour le tournoi."
+    ba "Commencer quoi? Je suis juste excité pour le tournoi."
 
 # game/code/Book-1/Chapter-8w/s01.rpy:95
 translate french b1c08ws01_ab4845aa:
@@ -110,13 +110,13 @@ translate french b1c08ws01_ab4845aa:
 translate french b1c08ws01_db046fbd:
 
     # ba "Ugh, can't even have a little excitement these days. What happened to you guys?"
-    ba "Merde, on peut même plus avoir un peu d'excitation de nos jours. Qu'est-ce qui vous est arrivé ?"
+    ba "Merde, on peut même plus avoir un peu d'excitation de nos jours. Qu'est-ce qui vous est arrivé?"
 
 # game/code/Book-1/Chapter-8w/s01.rpy:101
 translate french b1c08ws01_3c8ee2e5:
 
     # oa "For the love of Christ, can you guys shimmer down?"
-    oa "Par l'amour du Christ, vous pouvez vous calmer ?"
+    oa "Par l'amour du Christ, vous pouvez vous calmer?"
 
 # game/code/Book-1/Chapter-8w/s01.rpy:104
 translate french b1c08ws01_931bd3b1:
@@ -146,31 +146,31 @@ translate french b1c08ws01_b9dc6fe9:
 translate french b1c08ws01_c3293dfd:
 
     # mct "Is that...the CS professor?"
-    mct "C'est...le professeur d'informatique ?"
+    mct "C'est...le professeur d'informatique?"
 
 # game/code/Book-1/Chapter-8w/s01.rpy:117
 translate french b1c08ws01_eb239fdc:
 
     # mc "What's the CS professor doing here?"
-    mc "Qu'est-ce que le professeur d'informatique fait ici ?"
+    mc "Qu'est-ce que le professeur d'informatique fait ici?"
 
 # game/code/Book-1/Chapter-8w/s01.rpy:120
 translate french b1c08ws01_b6a4d03a:
 
     # sm "Hm? Oh, Professor Harlan. He's an alumnus of VU and the Winners actually."
-    sm "Hm ? Oh, le professeur Harlan. C'est un ancien élève de VU et des Winners en fait."
+    sm "Hm? Oh, le professeur Harlan. C'est un ancien élève de VU et des Winners en fait."
 
 # game/code/Book-1/Chapter-8w/s01.rpy:127
 translate french b1c08ws01_a31340dd:
 
     # mc "Really?"
-    mc "Vraiment ?"
+    mc "Vraiment?"
 
 # game/code/Book-1/Chapter-8w/s01.rpy:128
 translate french b1c08ws01_26528d76:
 
     # mc "{i}He{/i} was in the Winners? Guy looks like he'd be a predator to up-and-coming actors."
-    mc "{i}Lui{/i} était dans les Winners ? Le type a l'air d'un prédateur pour les acteurs en herbe."
+    mc "{i}Lui{/i} était dans les Winners? Le type a l'air d'un prédateur pour les acteurs en herbe."
 
 # game/code/Book-1/Chapter-8w/s01.rpy:131
 translate french b1c08ws01_667f2210:
@@ -200,7 +200,7 @@ translate french b1c08ws01_af325b66:
 translate french b1c08ws01_4ae29040:
 
     # mc "Why are we going so far away for a match with our hometown rivals, though?"
-    mc "Pourquoi allons-nous aussi loin pour un match contre nos rivaux de la ville ?"
+    mc "Pourquoi allons-nous aussi loin pour un match contre nos rivaux de la ville?"
 
 # game/code/Book-1/Chapter-8w/s01.rpy:140
 translate french b1c08ws01_9248243d:
@@ -212,7 +212,7 @@ translate french b1c08ws01_9248243d:
 translate french b1c08ws01_b9183bd8:
 
     # pjh "*Grunts* I need one of you to break my back in at least four places. Who's up for it?"
-    pjh "*Gronde* J'ai besoin que l'un de vous me casse le dos en au moins quatre endroits. Qui est partant ?"
+    pjh "*Gronde* J'ai besoin que l'un de vous me casse le dos en au moins quatre endroits. Qui est partant?"
 
 # game/code/Book-1/Chapter-8w/s01.rpy:146
 translate french b1c08ws01_a35cbcdd:
@@ -236,13 +236,13 @@ translate french b1c08ws01_78789ae0:
 translate french b1c08ws01_299c22e5:
 
     # pjh "But I just wanted to say that the whole of Winner's is looking forward to welcoming their champions back, so remember to bring your A-game and make us proud!"
-    pjh "Mais je voulais juste dire que toute l'équipe des Winners a hâte d'accueillir ses champions, alors n'oubliez pas d'amener votre meilleur jeu et de nous rendre fiers !"
+    pjh "Mais je voulais juste dire que toute l'équipe des Winners a hâte d'accueillir ses champions, alors n'oubliez pas d'amener votre meilleur jeu et de nous rendre fiers!"
 
 # game/code/Book-1/Chapter-8w/s01.rpy:155
 translate french b1c08ws01_f9b04e04:
 
     # ba "Hell yeah! Those bitches won't know what hit 'em."
-    ba "Putain ouais ! Ces salopes ne sauront même pas ce qui les a frappées."
+    ba "Putain ouais! Ces salopes ne sauront même pas ce qui les a frappées."
 
 # game/code/Book-1/Chapter-8w/s01.rpy:158
 translate french b1c08ws01_5103ff77:
@@ -296,7 +296,7 @@ translate french b1c08ws01_1973086b:
 translate french b1c08ws01_782da637:
 
     # sa "We're playing in Crowning's Cabana Stadium and it'll be televised, so make sure that you're all on your best behavior, understood?"
-    sa "Nous jouons au Crowning's Cabana Stadium et ce sera diffusé à la télévision, alors assurez-vous d'être tous sur votre meilleur comportement, compris ?"
+    sa "Nous jouons au Crowning's Cabana Stadium et ce sera diffusé à la télévision, alors assurez-vous d'être tous sur votre meilleur comportement, compris?"
 
 # game/code/Book-1/Chapter-8w/s01.rpy:184
 translate french b1c08ws01_0adb92e7:
@@ -314,6 +314,6 @@ translate french b1c08ws01_19b313ff:
 translate french b1c08ws01_97d6cbb9:
 
     # sa "*Amused sigh* Alright. Get settled!"
-    sa "*Soupir amusé* D'accord. Installez-vous !"
+    sa "*Soupir amusé* D'accord. Installez-vous!"
 
 

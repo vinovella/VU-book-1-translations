@@ -15,19 +15,19 @@ translate french b1c09s02_484bf37b:
 translate french b1c09s02_7553e455:
 
     # jh "Are you okay, [mcname]?"
-    jh "Ça va, [mcname] ?"
+    jh "Ça va, [mcname]?"
 
 # game/code/Book-1/Chapter-9/s02.rpy:38
 translate french b1c09s02_fcf67621:
 
     # lw "Did he scare himself awake again?"
-    lw "Il s'est encore réveillé en se faisant peur ?"
+    lw "Il s'est encore réveillé en se faisant peur?"
 
 # game/code/Book-1/Chapter-9/s02.rpy:42
 translate french b1c09s02_99aaa204:
 
     # mct "What the fuck was that dream?"
-    mct "C'était quoi ce rêve de merde ?"
+    mct "C'était quoi ce rêve de merde?"
 
 # game/code/Book-1/Chapter-9/s02.rpy:47
 translate french b1c09s02_fd9cbcd8:
@@ -39,7 +39,7 @@ translate french b1c09s02_fd9cbcd8:
 translate french b1c09s02_9a24a49c:
 
     # jh "You certainly don't look it. Bad dreams?"
-    jh "Tu n'as vraiment pas l'air bien. Mauvais rêves ?"
+    jh "Tu n'as vraiment pas l'air bien. Mauvais rêves?"
 
 # game/code/Book-1/Chapter-9/s02.rpy:52
 translate french b1c09s02_c300082f:
@@ -51,7 +51,7 @@ translate french b1c09s02_c300082f:
 translate french b1c09s02_b843c762:
 
     # jh "Wanna talk about it?"
-    jh "Tu veux en parler ?"
+    jh "Tu veux en parler?"
 
 # game/code/Book-1/Chapter-9/s02.rpy:58
 translate french b1c09s02_f4f34315:
@@ -69,25 +69,25 @@ translate french b1c09s02_90918439:
 translate french b1c09s02_77211fb1:
 
     # lw "Man, what sorta trauma did you go through to have nightmares like that?"
-    lw "Mec, quel genre de traumatisme t'as vécu pour avoir des cauchemars comme ça ?"
+    lw "Mec, quel genre de traumatisme t'as vécu pour avoir des cauchemars comme ça?"
 
 # game/code/Book-1/Chapter-9/s02.rpy:73
 translate french b1c09s02_e0ed3e93:
 
     # jh "Lara! That's not nice."
-    jh "Lara ! Ce n'est pas gentil."
+    jh "Lara! Ce n'est pas gentil."
 
 # game/code/Book-1/Chapter-9/s02.rpy:76
 translate french b1c09s02_3441b32f:
 
     # lw "What! Not like you're not thinking it."
-    lw "Quoi ! Pas comme si tu n'y pensais pas."
+    lw "Quoi! Pas comme si tu n'y pensais pas."
 
 # game/code/Book-1/Chapter-9/s02.rpy:79
 translate french b1c09s02_5121a898:
 
     # mc "*Chuckles* Has anyone ever told you that you're really nosy?"
-    mc "*Rit* On t'a déjà dit que tu es vraiment curieuse ?"
+    mc "*Rit* On t'a déjà dit que tu es vraiment curieuse?"
 
 # game/code/Book-1/Chapter-9/s02.rpy:82
 translate french b1c09s02_736bf932:
@@ -117,7 +117,7 @@ translate french b1c09s02_caff6c6c:
 translate french b1c09s02_a84d362b:
 
     # jh "Lara, will you please stop interrogating the poor thing just after he woke up?"
-    jh "Lara, tu veux bien arrêter d'interroger le pauvre gars juste après son réveil ?"
+    jh "Lara, tu veux bien arrêter d'interroger le pauvre gars juste après son réveil?"
 
 # game/code/Book-1/Chapter-9/s02.rpy:95
 translate french b1c09s02_3e12f6cc:
@@ -129,7 +129,7 @@ translate french b1c09s02_3e12f6cc:
 translate french b1c09s02_dressed_d7058095:
 
     # mc "What's the occasion?"
-    mc "Quelle est l'occasion ?"
+    mc "Quelle est l'occasion?"
 
 # game/code/Book-1/Chapter-9/s02.rpy:111
 translate french b1c09s02_dressed_2e5ecc54:
@@ -153,7 +153,7 @@ translate french b1c09s02_dressed_85e5ee08:
 translate french b1c09s02_dressed_047e878a:
 
     # mc "Oh, my. Did someone get asked out on a date?"
-    mc "Oh mon Dieu. Est-ce que quelqu'un a été invité à un rendez-vous ?"
+    mc "Oh mon Dieu. Est-ce que quelqu'un a été invité à un rendez-vous?"
 
 # game/code/Book-1/Chapter-9/s02.rpy:138
 translate french b1c09s02_dressed_f932ab40:
@@ -165,7 +165,7 @@ translate french b1c09s02_dressed_f932ab40:
 translate french b1c09s02_dressed_2e22477c:
 
     # mc "Someone asked you out?"
-    mc "Quelqu'un t'a invité ?"
+    mc "Quelqu'un t'a invité?"
 
 # game/code/Book-1/Chapter-9/s02.rpy:142
 translate french b1c09s02_dressed_0cb98186:
@@ -201,7 +201,7 @@ translate french b1c09s02_dressed_3e949ee1:
 translate french b1c09s02_dressed_7ff0d019:
 
     # mc "Can't you just wear what you usually wear?"
-    mc "Tu ne peux pas simplement porter ce que tu portes d'habitude ?"
+    mc "Tu ne peux pas simplement porter ce que tu portes d'habitude?"
 
 # game/code/Book-1/Chapter-9/s02.rpy:162
 translate french b1c09s02_dressed_8e16981f:
@@ -243,7 +243,7 @@ translate french b1c09s02_dressed_996d9148:
 translate french b1c09s02_dressed_1a1f4f56:
 
     # lw "Na-uh! Don't you dare give me that excuse."
-    lw "Non, non ! Ne me donne pas cette excuse."
+    lw "Non, non! Ne me donne pas cette excuse."
 
 # game/code/Book-1/Chapter-9/s02.rpy:186
 translate french b1c09s02_dressed_2e165a6f:
@@ -261,7 +261,7 @@ translate french b1c09s02_dressed_4f39f269:
 translate french b1c09s02_dressed_ec08bfa7:
 
     # jh "That's a low-blow! That's not fair!"
-    jh "C'est un coup bas ! Ce n'est pas juste !"
+    jh "C'est un coup bas! Ce n'est pas juste!"
 
 # game/code/Book-1/Chapter-9/s02.rpy:193
 translate french b1c09s02_dressed_b440360d:
@@ -309,13 +309,13 @@ translate french b1c09s02_dressed_56626296:
 translate french b1c09s02_both_go_28ce5bc8:
 
     # mc "Why don't you both go?"
-    mc "Pourquoi vous ne partez pas toutes les deux ?"
+    mc "Pourquoi vous ne partez pas toutes les deux?"
 
 # game/code/Book-1/Chapter-9/s02.rpy:250
 translate french b1c09s02_both_go_671e3500:
 
     # lw "{i}{b}What{/b}{/i}?"
-    lw "{i}{b}Quoi{/b}{/i} ?"
+    lw "{i}{b}Quoi{/b}{/i}?"
 
 # game/code/Book-1/Chapter-9/s02.rpy:251
 translate french b1c09s02_both_go_1a9be8cb:
@@ -327,19 +327,19 @@ translate french b1c09s02_both_go_1a9be8cb:
 translate french b1c09s02_both_go_4149843f:
 
     # jh "Yeah! That's a good idea!"
-    jh "Ouais ! C'est une bonne idée !"
+    jh "Ouais! C'est une bonne idée!"
 
 # game/code/Book-1/Chapter-9/s02.rpy:258
 translate french b1c09s02_both_go_bfda6477:
 
     # lw "No it isn't! I don't want to go into that cesspit!"
-    lw "Non, ce n'est pas une bonne idée ! Je ne veux pas entrer dans cette fosse à purin !"
+    lw "Non, ce n'est pas une bonne idée! Je ne veux pas entrer dans cette fosse à purin!"
 
 # game/code/Book-1/Chapter-9/s02.rpy:261
 translate french b1c09s02_both_go_f06a0ba3:
 
     # jh "Oh, so you can push {i}me{/i} to go, but the moment I ask you, my {i}best friend{/i}, you vanish?"
-    jh "Oh, tu peux me pousser {i}moi{/i} à y aller, mais dès que je te demande, ma {i}meilleure amie{/i}, tu disparais ?"
+    jh "Oh, tu peux me pousser {i}moi{/i} à y aller, mais dès que je te demande, ma {i}meilleure amie{/i}, tu disparais?"
 
 # game/code/Book-1/Chapter-9/s02.rpy:264
 translate french b1c09s02_both_go_cb2c2165:
@@ -369,13 +369,13 @@ translate french b1c09s02_both_go_be3154b7:
 translate french b1c09s02_both_go_0ffb9dbe:
 
     # lw "They're two completely different things!"
-    lw "Ce sont deux choses complètement différentes !"
+    lw "Ce sont deux choses complètement différentes!"
 
 # game/code/Book-1/Chapter-9/s02.rpy:276
 translate french b1c09s02_both_go_366d4539:
 
     # jh "*Gasp* Are you invalidating my mental health issues right now?"
-    jh "*Gasp* Tu es en train d'invalider mes problèmes de santé mentale ?"
+    jh "*Gasp* Tu es en train d'invalider mes problèmes de santé mentale?"
 
 # game/code/Book-1/Chapter-9/s02.rpy:280
 translate french b1c09s02_both_go_6de108c4:
@@ -465,7 +465,7 @@ translate french b1c09s02_lw_right_cba733f5:
 translate french b1c09s02_lw_right_74a2f1db:
 
     # mc "It's shitty to stay all cooped up. If you're not gonna put yourself out there now, when will you?"
-    mc "C'est nul de rester enfermée. Si tu ne te lances pas maintenant, quand le feras-tu ?"
+    mc "C'est nul de rester enfermée. Si tu ne te lances pas maintenant, quand le feras-tu?"
 
 # game/code/Book-1/Chapter-9/s02.rpy:334
 translate french b1c09s02_lw_right_8a85fec1:
@@ -525,13 +525,13 @@ translate french b1c09s02_lw_right_2a7dee64:
 translate french b1c09s02_lw_right_32042651:
 
     # lw "*Smiles* Ew. Now who's being disgusting?"
-    lw "*Sourit* Beurk. Alors, qui est dégoûtant maintenant ?"
+    lw "*Sourit* Beurk. Alors, qui est dégoûtant maintenant?"
 
 # game/code/Book-1/Chapter-9/s02.rpy:363
 translate french b1c09s02_lw_right_14bfeaf7:
 
     # jh "I was making a point!"
-    jh "Je faisais un point !"
+    jh "Je faisais un point!"
 
 # game/code/Book-1/Chapter-9/s02.rpy:375
 translate french b1c09s02_lw_right_0f56650d:
@@ -578,7 +578,7 @@ translate french b1c09s02_lw_right_dee77d1e:
 translate french b1c09s02_lw_right_931e1e00:
 
     # jh "This is unfair! You two are just ganging up on me now."
-    jh "C'est pas juste ! Vous deux vous liguez contre moi maintenant."
+    jh "C'est pas juste! Vous deux vous liguez contre moi maintenant."
 
 # game/code/Book-1/Chapter-9/s02.rpy:406
 translate french b1c09s02_no_choice_7897ff64:
@@ -608,7 +608,7 @@ translate french b1c09s02_no_choice_5034ac5a:
 translate french b1c09s02_no_choice_a9dd99f2:
 
     # mct "Jeez, what did I do?"
-    mct "Mince, qu'est-ce que j'ai fait ?"
+    mct "Mince, qu'est-ce que j'ai fait?"
 
 # game/code/Book-1/Chapter-9/s02.rpy:419
 translate french b1c09s02_no_choice_3f907884:
@@ -638,13 +638,13 @@ translate french b1c09s02_no_choice_e4eed1fc:
 translate french b1c09s02_no_choice_5cc7bce2:
 
     # lw "What if we go bouldering instead?"
-    lw "Et si on allait faire de l'escalade à blocs à la place ?"
+    lw "Et si on allait faire de l'escalade à blocs à la place?"
 
 # game/code/Book-1/Chapter-9/s02.rpy:428
 translate french b1c09s02_no_choice_7d1a1879:
 
     # jh "Oh, yeah... Yeah! I'd like that."
-    jh "Oh, ouais... Ouais ! J'aimerais bien."
+    jh "Oh, ouais... Ouais! J'aimerais bien."
 
 # game/code/Book-1/Chapter-9/s02.rpy:429
 translate french b1c09s02_no_choice_d98a3e29:
@@ -668,7 +668,7 @@ translate french strings:
 
     # game/code/Book-1/Chapter-9/s02.rpy:232
     old "Why don't you both go?"
-    new "Pourquoi n'y allez-vous pas tous les deux ?"
+    new "Pourquoi n'y allez-vous pas tous les deux?"
 
     # game/code/Book-1/Chapter-9/s02.rpy:232
     old "Lara's right"

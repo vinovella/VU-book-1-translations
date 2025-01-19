@@ -33,7 +33,7 @@ translate french b1c08ws04_668caeda:
 translate french b1c08ws04_b8efc5bc:
 
     # mc "Why'd you pick to bunk with us if you knew he snored like that anyway?"
-    mc "Pourquoi tu as choisi de dormir avec nous si tu savais qu'il ronflait comme ça ?"
+    mc "Pourquoi tu as choisi de dormir avec nous si tu savais qu'il ronflait comme ça?"
 
 # game/code/Book-1/Chapter-8w/s04.rpy:59
 translate french b1c08ws04_6f6001ee:
@@ -45,7 +45,7 @@ translate french b1c08ws04_6f6001ee:
 translate french b1c08ws04_116f68e7:
 
     # mm "*Gasps* Victim blaming much?"
-    mm "*Rit* Tu blâmes la victime ?"
+    mm "*Rit* Tu blâmes la victime?"
 
 # game/code/Book-1/Chapter-8w/s04.rpy:64
 translate french b1c08ws04_c1aacbe1:
@@ -87,7 +87,7 @@ translate french b1c08ws04_5b75068d:
 translate french b1c08ws04_49533d54:
 
     # mm "You were with Silvia, weren't you?"
-    mm "Tu étais avec Silvia, n'est-ce pas ?"
+    mm "Tu étais avec Silvia, n'est-ce pas?"
 
 # game/code/Book-1/Chapter-8w/s04.rpy:80
 translate french b1c08ws04_d8c40648:
@@ -123,7 +123,7 @@ translate french b1c08ws04_fe73b478:
 translate french b1c08ws04_87c2810c:
 
     # mc "Uhm, thanks?"
-    mc "Euh, merci ?"
+    mc "Euh, merci?"
 
 # game/code/Book-1/Chapter-8w/s04.rpy:103
 translate french b1c08ws04_113b8f59:
@@ -147,7 +147,7 @@ translate french b1c08ws04_69f4915e:
 translate french b1c08ws04_809b0674:
 
     # mm "Can I sleep in your bed? I wanna get as far away from him as possible."
-    mm "Je peux dormir dans ton lit ? Je veux m'éloigner de lui autant que possible."
+    mm "Je peux dormir dans ton lit? Je veux m'éloigner de lui autant que possible."
 
 # game/code/Book-1/Chapter-8w/s04.rpy:111
 translate french b1c08ws04_e32e3c3d:
@@ -219,7 +219,7 @@ translate french b1c08ws04_continue_07529d13:
 translate french b1c08ws04_continue_cf98262e:
 
     # mm "How serious is your thing with Iona anyway?"
-    mm "Alors, à quel point c'est sérieux entre toi et Iona ?"
+    mm "Alors, à quel point c'est sérieux entre toi et Iona?"
 
 # game/code/Book-1/Chapter-8w/s04.rpy:157
 translate french b1c08ws04_continue_1ce8210c:
@@ -231,13 +231,13 @@ translate french b1c08ws04_continue_1ce8210c:
 translate french b1c08ws04_continue_fccb9547:
 
     # mc "Why do you ask?"
-    mc "Pourquoi tu demandes ?"
+    mc "Pourquoi tu demandes?"
 
 # game/code/Book-1/Chapter-8w/s04.rpy:162
 translate french b1c08ws04_continue_a21d7a8c:
 
     # mc "As far as I can remember, you said you'd keep your hands to yourself, didn't you?"
-    mc "Autant que je me souvienne, tu avais dit que tu garderais tes mains pour toi, non ?"
+    mc "Autant que je me souvienne, tu avais dit que tu garderais tes mains pour toi, non?"
 
 # game/code/Book-1/Chapter-8w/s04.rpy:164
 translate french b1c08ws04_continue_50cc3625:
@@ -261,7 +261,7 @@ translate french b1c08ws04_continue_e80c5f50:
 translate french b1c08ws04_continue_ea5302c0:
 
     # mm "Does that mean that we're {i}not{/i} good friends?"
-    mm "Ça veut dire que nous ne sommes {i}pas{/i} de bons amis ?"
+    mm "Ça veut dire que nous ne sommes {i}pas{/i} de bons amis?"
 
 # game/code/Book-1/Chapter-8w/s04.rpy:187
 translate french b1c08ws04_continue_c569f380:
@@ -279,7 +279,7 @@ translate french b1c08ws04_continue_8f48e89b:
 translate french b1c08ws04_continue_f3908147:
 
     # mm "I—! Don't use my words against me!"
-    mm "Je—! Ne retourne pas mes mots contre moi !"
+    mm "Je—! Ne retourne pas mes mots contre moi!"
 
 # game/code/Book-1/Chapter-8w/s04.rpy:195
 translate french b1c08ws04_continue_bc8d05cc:
@@ -351,7 +351,7 @@ translate french b1c08ws04_sex_4f766b2e:
 translate french b1c08ws04_sex_ce11c5bb:
 
     # mm "Let's get rid of this, shall we?"
-    mm « Débarrassons-nous de ça, d'accord ?
+    mm "Débarrassons-nous de ça, d'accord?"
 
 # game/code/Book-1/Chapter-8w/s04.rpy:244
 translate french b1c08ws04_sex_c14eb846:
@@ -447,7 +447,7 @@ translate french b1c08ws04_sex_e8c0777b:
 translate french b1c08ws04_sex_e627c7b2:
 
     # mm "*Moans* Ye-yes! I'm so close!"
-    mm "*Gémissements* Ouais-oui ! Je suis si proche !"
+    mm "*Gémissements* Ouais-oui! Je suis si proche!"
 
 # game/code/Book-1/Chapter-8w/s04.rpy:342
 translate french b1c08ws04_sex_1737dc29:
@@ -477,7 +477,7 @@ translate french b1c08ws04_sex_ba24f005:
 translate french b1c08ws04_sex_e7945248:
 
     # mc "*Chuckles* Life sure is full of surprises, isn't it?"
-    mc "*Rit* La vie est vraiment pleine de surprises, n'est-ce pas ?"
+    mc "*Rit* La vie est vraiment pleine de surprises, n'est-ce pas?"
 
 # game/code/Book-1/Chapter-8w/s04.rpy:366
 translate french b1c08ws04_sex_663dd068:
@@ -543,7 +543,7 @@ translate french b1c08ws04_sex_a0dcb3a2:
 translate french b1c08ws04_sex_3e26ab4d:
 
     # mc "Theater? You a theater kid?"
-    mc "Théâtre ? T'es une enfant du théâtre ?"
+    mc "Théâtre? T'es une enfant du théâtre?"
 
 # game/code/Book-1/Chapter-8w/s04.rpy:402
 translate french b1c08ws04_sex_48875995:
@@ -573,7 +573,7 @@ translate french b1c08ws04_sex_04ba645d:
 translate french b1c08ws04_sex_1e2177b8:
 
     # mc "Meltdown?"
-    mc "Une crise ?"
+    mc "Une crise?"
 
 # game/code/Book-1/Chapter-8w/s04.rpy:416
 translate french b1c08ws04_sex_5044b1fd:
@@ -591,7 +591,7 @@ translate french b1c08ws04_sex_cfc9510e:
 translate french b1c08ws04_sex_84a74e65:
 
     # mc "*Smirks* Did I tucker you out?"
-    mc "*Sourit en coin* Est-ce que je t'ai épuisée ?"
+    mc "*Sourit en coin* Est-ce que je t'ai épuisée?"
 
 # game/code/Book-1/Chapter-8w/s04.rpy:424
 translate french b1c08ws04_sex_25b7c096:

@@ -8,7 +8,7 @@ translate french b1c08ws10_ae9acccb:
 translate french b1c08ws10_a74ed1b6:
 
     # ba "Alone? So much for being alone! You might as well have been passed out in the middle of the fucking stadium!"
-    ba "Seul ? Loin d'être seul ! Tu aurais aussi bien pu être évanoui en plein milieu du putain de stade !"
+    ba "Seul? Loin d'être seul! Tu aurais aussi bien pu être évanoui en plein milieu du putain de stade!"
 
 # game/code/Book-1/Chapter-8w/s10.rpy:22
 translate french b1c08ws10_94c5cc5d:
@@ -50,7 +50,7 @@ translate french b1c08ws10_73a418f6:
 translate french b1c08ws10_eec02a72:
 
     # ir "Guys, c'mon. We did good. Everyone, including [mcname], absolutely dominated. We were on fire!"
-    ir "Les gars, allez. On a bien joué. Tout le monde, y compris [mcname], a absolument dominé. On était en feu !"
+    ir "Les gars, allez. On a bien joué. Tout le monde, y compris [mcname], a absolument dominé. On était en feu!"
 
 # game/code/Book-1/Chapter-8w/s10.rpy:38
 translate french b1c08ws10_075a5da1:
@@ -104,7 +104,7 @@ translate french b1c08ws10_e6dd1603:
 translate french b1c08ws10_60b96d73:
 
     # ba "Oh, for fuck's sake. What's the point of being good at the start if you can't finish strong?"
-    ba "Oh, putain. À quoi ça sert d'être bon au début si tu ne peux pas finir en beauté ?"
+    ba "Oh, putain. À quoi ça sert d'être bon au début si tu ne peux pas finir en beauté?"
 
 # game/code/Book-1/Chapter-8w/s10.rpy:56
 translate french b1c08ws10_e7fd12db:
@@ -176,7 +176,7 @@ translate french b1c08ws10_777e1ea1:
 translate french b1c08ws10_6e3bdfca:
 
     # ba "Dangerous? Oh, so it's alright when you shoot it up, but us also using it is the problem?"
-    ba "Dangereux ? Oh, donc ça va quand toi tu t'injectes, mais nous, c'est le problème si on l'utilise ?"
+    ba "Dangereux? Oh, donc ça va quand toi tu t'injectes, mais nous, c'est le problème si on l'utilise?"
 
 # game/code/Book-1/Chapter-8w/s10.rpy:86
 translate french b1c08ws10_b97d9c13:
@@ -218,13 +218,13 @@ translate french b1c08ws10_d8a4bcdc:
 translate french b1c08ws10_51323b69:
 
     # ba "Oh, so now we're all worried about long-term effects? This isn't a fucking knitting club. We're here to win."
-    ba "Oh, donc maintenant on s'inquiète des effets à long terme ? On n'est pas dans un club de tricot ici. On est là pour gagner."
+    ba "Oh, donc maintenant on s'inquiète des effets à long terme? On n'est pas dans un club de tricot ici. On est là pour gagner."
 
 # game/code/Book-1/Chapter-8w/s10.rpy:106
 translate french b1c08ws10_3bc4c7eb:
 
     # ba "Nobody else here had any fucking problem getting used to it, but we stop everything up 'cause Prince Charming here can't fucking keep his dick hard?"
-    ba "Personne d'autre ici n'a eu de problème pour s'y habituer, mais on arrête tout parce que Prince Charmant ici ne peut pas garder son sexe dur ?"
+    ba "Personne d'autre ici n'a eu de problème pour s'y habituer, mais on arrête tout parce que Prince Charmant ici ne peut pas garder son sexe dur?"
 
 # game/code/Book-1/Chapter-8w/s10.rpy:107
 translate french b1c08ws10_9b938734:
@@ -236,13 +236,13 @@ translate french b1c08ws10_9b938734:
 translate french b1c08ws10_0240096b:
 
     # ba "Ugh!"
-    ba "Ugh !"
+    ba "Ugh!"
 
 # game/code/Book-1/Chapter-8w/s10.rpy:113
 translate french b1c08ws10_c46dc5bc:
 
     # mct "\"Report back\"? Report to who?"
-    mct "\"Faire un rapport\" ? À qui ?"
+    mct "\"Faire un rapport\"? À qui?"
 
 # game/code/Book-1/Chapter-8w/s10.rpy:116
 translate french b1c08ws10_e83ddea1:
@@ -254,13 +254,13 @@ translate french b1c08ws10_e83ddea1:
 translate french b1c08ws10_03841299:
 
     # sl "I can get behind that. Being a bit more cautious can't hurt. Maybe we should get some medical supervision?"
-    sl "Je peux être d'accord avec ça. Être un peu plus prudent ne peut pas faire de mal. Peut-être qu'on devrait avoir une supervision médicale ?"
+    sl "Je peux être d'accord avec ça. Être un peu plus prudent ne peut pas faire de mal. Peut-être qu'on devrait avoir une supervision médicale?"
 
 # game/code/Book-1/Chapter-8w/s10.rpy:122
 translate french b1c08ws10_3b05e2f4:
 
     # ba "Medical supervision? What's next, asking mommy and daddy for permission?"
-    ba "Supervision médicale ? Quoi d'autre, demander la permission à maman et papa ?"
+    ba "Supervision médicale? Quoi d'autre, demander la permission à maman et papa?"
 
 # game/code/Book-1/Chapter-8w/s10.rpy:125
 translate french b1c08ws10_d4b8f024:
@@ -284,7 +284,7 @@ translate french b1c08ws10_bfa39521:
 translate french b1c08ws10_105fc5f7:
 
     # ba "*Chuckles* Life lessons now, is it? From the team manager who hardly knows what it's like to be in the line of fire."
-    ba "*Rit* Des leçons de vie maintenant, hein ? De la part du manager de l'équipe qui ne sait même pas ce que c'est que d'être dans la ligne de mire."
+    ba "*Rit* Des leçons de vie maintenant, hein? De la part du manager de l'équipe qui ne sait même pas ce que c'est que d'être dans la ligne de mire."
 
 # game/code/Book-1/Chapter-8w/s10.rpy:135
 translate french b1c08ws10_9c527cea:
@@ -302,7 +302,7 @@ translate french b1c08ws10_d74b4f91:
 translate french b1c08ws10_9b33828d:
 
     # ba "Sure, but it helps to know what you're actually managing, doesn't it?"
-    ba "Bien sûr, mais ça aide de savoir ce que tu gères réellement, non ?"
+    ba "Bien sûr, mais ça aide de savoir ce que tu gères réellement, non?"
 
 # game/code/Book-1/Chapter-8w/s10.rpy:145
 translate french b1c08ws10_f2330ac1:
@@ -314,7 +314,7 @@ translate french b1c08ws10_f2330ac1:
 translate french b1c08ws10_f763148a:
 
     # mm "Can we please focus on the issue at hand? We're all on edge, but sniping at each other isn't helping."
-    mm "On peut se concentrer sur le problème, s'il vous plaît ? On est tous à cran, mais se piquer les uns les autres ne nous aide pas."
+    mm "On peut se concentrer sur le problème, s'il vous plaît? On est tous à cran, mais se piquer les uns les autres ne nous aide pas."
 
 # game/code/Book-1/Chapter-8w/s10.rpy:152
 translate french b1c08ws10_9c2f3bb0:
@@ -338,13 +338,13 @@ translate french b1c08ws10_3556b8be:
 translate french b1c08ws10_7c39e92f:
 
     # mct "What history do these two have?"
-    mct "Quelle histoire ces deux ont-elles ?"
+    mct "Quelle histoire ces deux ont-elles?"
 
 # game/code/Book-1/Chapter-8w/s10.rpy:160
 translate french b1c08ws10_028f3f67:
 
     # ba "Whatever. Any other life lessons we should cover? Or can we finally wrap this up?"
-    ba "Peu importe. D'autres leçons de vie à aborder ? Ou on peut enfin conclure ?"
+    ba "Peu importe. D'autres leçons de vie à aborder? Ou on peut enfin conclure?"
 
 # game/code/Book-1/Chapter-8w/s10.rpy:163
 translate french b1c08ws10_46c8112a:
@@ -368,7 +368,7 @@ translate french b1c08ws10_eeabbe83:
 translate french b1c08ws10_ccda73b1:
 
     # mct "Why do I feel like this is far from over?"
-    mct "Pourquoi j'ai l'impression que ce n'est pas fini ?"
+    mct "Pourquoi j'ai l'impression que ce n'est pas fini?"
 
 # game/code/Book-1/Chapter-8w/s10.rpy:178
 translate french b1c08ws10_d365be32:
@@ -380,7 +380,7 @@ translate french b1c08ws10_d365be32:
 translate french b1c08ws10_b82c986e:
 
     # sl "Right? Christ."
-    sl "Ouais ? Mon Dieu."
+    sl "Ouais? Mon Dieu."
 
 # game/code/Book-1/Chapter-8w/s10.rpy:182
 translate french b1c08ws10_97c9c542:

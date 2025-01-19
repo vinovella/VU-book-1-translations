@@ -38,13 +38,13 @@ translate french b1c08ws02_d44177e6:
 translate french b1c08ws02_19186094:
 
     # ir "So, how are you feeling about the tournament?"
-    ir "Alors, comment te sens-tu à propos du tournoi ?"
+    ir "Alors, comment te sens-tu à propos du tournoi?"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:37
 translate french b1c08ws02_32674e15:
 
     # ir "Excited? Nervous?"
-    ir "Excité ? Nerveux ?"
+    ir "Excité? Nerveux?"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:38
 translate french b1c08ws02_f3674b46:
@@ -86,13 +86,13 @@ translate french b1c08ws02_81742c1f:
 translate french b1c08ws02_7fcd3951:
 
     # ir "*Whispers* You know...we could always use some extra practice. Maybe you and I could work on our...{i}teamwork{/i} later, hm? {i}Just you and me.{/i}"
-    ir "*Chuchote* Tu sais... on pourrait toujours faire un peu d'entraînement supplémentaire. Peut-être que toi et moi pourrions travailler sur notre... {i}esprit d'équipe{/i} plus tard, hm ? {i}Juste toi et moi.{/i}"
+    ir "*Chuchote* Tu sais... on pourrait toujours faire un peu d'entraînement supplémentaire. Peut-être que toi et moi pourrions travailler sur notre... {i}esprit d'équipe{/i} plus tard, hm? {i}Juste toi et moi.{/i}"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:64
 translate french b1c08ws02_693f4cfc:
 
     # mc "Oh? Well, good thing I'm always down for a little extra practice with you."
-    mc "Oh ? Eh bien, heureusement que je suis toujours partant pour un peu d'entraînement supplémentaire avec toi."
+    mc "Oh? Eh bien, heureusement que je suis toujours partant pour un peu d'entraînement supplémentaire avec toi."
 
 # game/code/Book-1/Chapter-8w/s02.rpy:66
 translate french b1c08ws02_c61c0fb0:
@@ -122,7 +122,7 @@ translate french b1c08ws02_b5d836d5:
 translate french b1c08ws02_8cdf797c:
 
     # mc "I think maybe this time we should focus on team practice, don't you think?"
-    mc "Je pense que cette fois, nous devrions nous concentrer sur l'entraînement d'équipe, tu ne crois pas ?"
+    mc "Je pense que cette fois, nous devrions nous concentrer sur l'entraînement d'équipe, tu ne crois pas?"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:86
 translate french b1c08ws02_371a81f3:
@@ -146,13 +146,13 @@ translate french b1c08ws02_8690219b:
 translate french b1c08ws02_1c2510e3:
 
     # sl "Alright, sluts! Listen up! How about we play a game of Two Truths and a Lie mixed with Charades? We've got time to kill before we reach the tournament and Brig said she's down."
-    sl "Bon, bande d'idiots ! Écoutez-moi ! Et si on jouait à Deux Vérités et un Mensonge mélangé à des Charades ? On a du temps à tuer avant d'arriver au tournoi, et Brig a dit qu'elle était partante."
+    sl "Bon, bande d'idiots! Écoutez-moi! Et si on jouait à Deux Vérités et un Mensonge mélangé à des Charades? On a du temps à tuer avant d'arriver au tournoi, et Brig a dit qu'elle était partante."
 
 # game/code/Book-1/Chapter-8w/s02.rpy:101
 translate french b1c08ws02_64e5aa15:
 
     # ba "Lies! I didn't—!"
-    ba "Mensonges ! Je n'ai pas—!"
+    ba "Mensonges! Je n'ai pas—!"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:106
 translate french b1c08ws02_06a85442:
@@ -176,7 +176,7 @@ translate french b1c08ws02_463e7e87:
 translate french b1c08ws02_157c3b3a:
 
     # sl "Everyone got it?"
-    sl "Tout le monde a compris ?"
+    sl "Tout le monde a compris?"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:115
 translate french b1c08ws02_ca827e8f:
@@ -194,7 +194,7 @@ translate french b1c08ws02_d25f6ab1:
 translate french b1c08ws02_8ebbd318:
 
     # mc "*Whispers* What are you doing!?"
-    mc "*Chuchote* Qu'est-ce que tu fais !?"
+    mc "*Chuchote* Qu'est-ce que tu fais!?"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:124
 translate french b1c08ws02_92baebdf:
@@ -230,19 +230,19 @@ translate french b1c08ws02_45d9357f:
 translate french b1c08ws02_589d1b54:
 
     # oa "Are you...climbing something? Hiking?"
-    oa "Tu es... en train d'escalader quelque chose ? De faire de la randonnée ?"
+    oa "Tu es... en train d'escalader quelque chose? De faire de la randonnée?"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:141
 translate french b1c08ws02_2c3bc32d:
 
     # sm "You're a mountain climber?"
-    sm "Tu es un alpiniste ?"
+    sm "Tu es un alpiniste?"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:144
 translate french b1c08ws02_daf833db:
 
     # ba "Did you climb Everest or some shit?"
-    ba "T'as gravi l'Everest ou un truc du genre ?"
+    ba "T'as gravi l'Everest ou un truc du genre?"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:148
 translate french b1c08ws02_4b1e0f61:
@@ -272,13 +272,13 @@ translate french b1c08ws02_f43140ec:
 translate french b1c08ws02_d2dce9b4:
 
     # sm "Uh... You're cutting something?"
-    sm "Euh... Tu es en train de couper quelque chose ?"
+    sm "Euh... Tu es en train de couper quelque chose?"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:177
 translate french b1c08ws02_a3a932cd:
 
     # ir "You cut up bodies!"
-    ir "Tu découpes des corps !"
+    ir "Tu découpes des corps!"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:179
 translate french b1c08ws02_0ec204fb:
@@ -296,25 +296,25 @@ translate french b1c08ws02_175ecb4e:
 translate french b1c08ws02_a3a932cd_1:
 
     # ir "You cut up bodies!"
-    ir "Tu découpes des corps !"
+    ir "Tu découpes des corps!"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:187
 translate french b1c08ws02_b41ba2e6:
 
     # oa "You...cut food? You prepare food!"
-    oa "Tu... coupes de la nourriture ? Tu prépares à manger !"
+    oa "Tu... coupes de la nourriture? Tu prépares à manger!"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:188
 translate french b1c08ws02_cf20114e:
 
     # oa "You're like preparing food? You're good at it?"
-    oa "Tu es genre en train de préparer de la nourriture ? Tu es bon dans ce domaine ?"
+    oa "Tu es genre en train de préparer de la nourriture? Tu es bon dans ce domaine?"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:191
 translate french b1c08ws02_804ad2ac:
 
     # mm "Lies! You suck ass at cooking!"
-    mm "Mensonges ! Tu es nul à chier en cuisine !"
+    mm "Mensonges! Tu es nul à chier en cuisine!"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:194
 translate french b1c08ws02_252d1a23:
@@ -326,25 +326,25 @@ translate french b1c08ws02_252d1a23:
 translate french b1c08ws02_7d1be091:
 
     # ba "Swimming? The fuck? You swim?"
-    ba "Nager ? Sérieusement ? Tu nages ?"
+    ba "Nager? Sérieusement? Tu nages?"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:200
 translate french b1c08ws02_fc083145:
 
     # ba "Eating? Chomping?"
-    ba "Manger ? Croquer ?"
+    ba "Manger? Croquer?"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:203
 translate french b1c08ws02_50099f46:
 
     # sm "Oh! Is it sharks?"
-    sm "Oh ! Ce sont des requins ?"
+    sm "Oh! Ce sont des requins?"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:204
 translate french b1c08ws02_36ec8054:
 
     # sm "You swam with sharks?"
-    sm "Tu as nagé avec des requins ?"
+    sm "Tu as nagé avec des requins?"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:208
 translate french b1c08ws02_c4460e1c:
@@ -356,7 +356,7 @@ translate french b1c08ws02_c4460e1c:
 translate french b1c08ws02_0239e704:
 
     # sm "Now! Which one's the lie?"
-    sm "Alors ! Lequel est le mensonge ?"
+    sm "Alors! Lequel est le mensonge?"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:212
 translate french b1c08ws02_5e43fc5f:
@@ -368,7 +368,7 @@ translate french b1c08ws02_5e43fc5f:
 translate french b1c08ws02_e87f006e:
 
     # ba "I bet the shark one is the lie. There's no way in hell your ass is getting anywhere near sharks!"
-    ba "Je parie que celle avec les requins est un mensonge. Jamais de la vie ton cul s'approcherait des requins !"
+    ba "Je parie que celle avec les requins est un mensonge. Jamais de la vie ton cul s'approcherait des requins!"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:218
 translate french b1c08ws02_51621ab1:
@@ -392,7 +392,7 @@ translate french b1c08ws02_5112f96c:
 translate french b1c08ws02_7c743bfd:
 
     # sl "[mcname]'s right! I can't cook to save my fucking life. I don't know how people deal with all that shit."
-    sl "[mcname] a raison ! Je ne sais pas cuisiner pour sauver ma putain de vie. Je ne sais pas comment les gens gèrent tout ça."
+    sl "[mcname] a raison! Je ne sais pas cuisiner pour sauver ma putain de vie. Je ne sais pas comment les gens gèrent tout ça."
 
 # game/code/Book-1/Chapter-8w/s02.rpy:230
 translate french b1c08ws02_9ebb87f3:
@@ -422,19 +422,19 @@ translate french b1c08ws02_171ce8bb:
 translate french b1c08ws02_20e1c949:
 
     # ba "Fuck no! Get the new guy to do it!"
-    ba "Putain, non ! Faites-le faire au nouveau !"
+    ba "Putain, non! Faites-le faire au nouveau!"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:249
 translate french b1c08ws02_9e6f11df:
 
     # mc "Me?"
-    mc "Moi ?"
+    mc "Moi?"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:252
 translate french b1c08ws02_a3347af3:
 
     # sm "Yeah! C'mon, [mcname]!"
-    sm "Ouais ! Allez, [mcname] !"
+    sm "Ouais! Allez, [mcname]!"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:253
 translate french b1c08ws02_b671a75e:
@@ -464,7 +464,7 @@ translate french b1c08ws02_9895157f:
 translate french b1c08ws02_dd73f62b:
 
     # mc "Alright, so I have to come up with three options, and you guys are going to guess which one is the lie, right?"
-    mc "Bon, donc je dois trouver trois options, et vous allez deviner laquelle est le mensonge, c'est ça ?"
+    mc "Bon, donc je dois trouver trois options, et vous allez deviner laquelle est le mensonge, c'est ça?"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:269
 translate french b1c08ws02_58dd1f40:
@@ -476,7 +476,7 @@ translate french b1c08ws02_58dd1f40:
 translate french b1c08ws02_a411b581:
 
     # mct "Okay, focus. What should I mime?"
-    mct "D'accord, concentre-toi. Qu'est-ce que je devrais mimer ?"
+    mct "D'accord, concentre-toi. Qu'est-ce que je devrais mimer?"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:280
 translate french b1c08ws02_ef984452:
@@ -488,19 +488,19 @@ translate french b1c08ws02_ef984452:
 translate french b1c08ws02_9f70eba4:
 
     # sl "Are you...trying to catch a big fish?"
-    sl "Tu... essaies d'attraper un gros poisson ?"
+    sl "Tu... essaies d'attraper un gros poisson?"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:289
 translate french b1c08ws02_8d173d22:
 
     # oa "Is that a bear? Are you wrestling a bear?"
-    oa "C'est un ours ? Tu luttes contre un ours ?"
+    oa "C'est un ours? Tu luttes contre un ours?"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:292
 translate french b1c08ws02_dc1530ec:
 
     # ba "Hah! As fucking if. At least try to make your lies believable."
-    ba "Hah ! Comme si. Essaie au moins de rendre tes mensonges crédibles."
+    ba "Hah! Comme si. Essaie au moins de rendre tes mensonges crédibles."
 
 # game/code/Book-1/Chapter-8w/s02.rpy:299
 translate french b1c08ws02_4cdc7c33:
@@ -512,25 +512,25 @@ translate french b1c08ws02_4cdc7c33:
 translate french b1c08ws02_aa17b84f:
 
     # sm "You're driving? Driving...a bus?"
-    sm "Tu conduis ? Conduis... un bus ?"
+    sm "Tu conduis? Conduis... un bus?"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:305
 translate french b1c08ws02_9d9c4038:
 
     # ir "No, he's pulling something?"
-    ir "Non, il tire quelque chose ?"
+    ir "Non, il tire quelque chose?"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:308
 translate french b1c08ws02_59086667:
 
     # sm "Wait, wait, I know! You've gone sailing! That's it, right?"
-    sm "Attends, attends, je sais ! Tu as fait de la voile ! C'est ça, non ?"
+    sm "Attends, attends, je sais! Tu as fait de la voile! C'est ça, non?"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:309
 translate french b1c08ws02_fd549469:
 
     # sm "Uh... Ball? Big ba— Oh, the world? You sailed around the world?"
-    sm "Euh... Balle ? Grande ba— Oh, le monde ? Tu as fait le tour du monde en bateau ?"
+    sm "Euh... Balle? Grande ba— Oh, le monde? Tu as fait le tour du monde en bateau?"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:316
 translate french b1c08ws02_df4f1e88:
@@ -542,13 +542,13 @@ translate french b1c08ws02_df4f1e88:
 translate french b1c08ws02_b136e9cb:
 
     # ba "Seriously? You've shot a gun? Who the fuck hasn't."
-    ba "Sérieusement ? Tu as tiré avec une arme ? Qui ne l'a pas fait, putain."
+    ba "Sérieusement? Tu as tiré avec une arme? Qui ne l'a pas fait, putain."
 
 # game/code/Book-1/Chapter-8w/s02.rpy:322
 translate french b1c08ws02_4c4ac43f:
 
     # mc "Alright, what next? Uh..."
-    mc "Bon, et ensuite ? Euh..."
+    mc "Bon, et ensuite? Euh..."
 
 # game/code/Book-1/Chapter-8w/s02.rpy:330
 translate french b1c08ws02_7a7b8846:
@@ -560,7 +560,7 @@ translate french b1c08ws02_7a7b8846:
 translate french b1c08ws02_c9820592:
 
     # oa "Are you...swatting flies?"
-    oa "Tu es en train de... chasser des mouches ?"
+    oa "Tu es en train de... chasser des mouches?"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:336
 translate french b1c08ws02_2aa93211:
@@ -578,7 +578,7 @@ translate french b1c08ws02_5859c710:
 translate french b1c08ws02_6332973f:
 
     # sm "Are you...shoving stuff in your mouth...?"
-    sm "Tu es en train de... te bourrer quelque chose dans la bouche... ?"
+    sm "Tu es en train de... te bourrer quelque chose dans la bouche...?"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:350
 translate french b1c08ws02_58135cdc:
@@ -590,13 +590,13 @@ translate french b1c08ws02_58135cdc:
 translate french b1c08ws02_017a262f:
 
     # mm "Are you eating sausages?"
-    mm "Tu manges des saucisses ?"
+    mm "Tu manges des saucisses?"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:356
 translate french b1c08ws02_1022c59c:
 
     # sl "Oh! Did you win a hotdog eating competition or something?"
-    sl "Oh ! Tu as gagné un concours de mangeur de hot-dogs ou quelque chose comme ça ?"
+    sl "Oh! Tu as gagné un concours de mangeur de hot-dogs ou quelque chose comme ça?"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:362
 translate french b1c08ws02_28607b4f:
@@ -614,13 +614,13 @@ translate french b1c08ws02_52176372:
 translate french b1c08ws02_29ce2478:
 
     # sm "You're...doing the robot?"
-    sm "Tu fais... le robot ?"
+    sm "Tu fais... le robot?"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:376
 translate french b1c08ws02_286e87f6:
 
     # ba "Is that supposed to be breakdancing? Lame."
-    ba "C'est censé être du breakdance ? Nul."
+    ba "C'est censé être du breakdance? Nul."
 
 # game/code/Book-1/Chapter-8w/s02.rpy:380
 translate french b1c08ws02_aab83b68:
@@ -638,7 +638,7 @@ translate french b1c08ws02_d13e11ff:
 translate french b1c08ws02_055431c8:
 
     # ba "The fuck? You molesting the air or something?"
-    ba "Quoi ? Tu pelotes l'air ou quoi ?"
+    ba "Quoi? Tu pelotes l'air ou quoi?"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:394
 translate french b1c08ws02_7ddc10e9:
@@ -650,13 +650,13 @@ translate french b1c08ws02_7ddc10e9:
 translate french b1c08ws02_5d346ec5:
 
     # ba "What!? Look at him, the fuck is he doing?"
-    ba "Quoi !? Regarde-le, qu'est-ce qu'il fout ?"
+    ba "Quoi!? Regarde-le, qu'est-ce qu'il fout?"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:398
 translate french b1c08ws02_7a358af0:
 
     # sl "Uh... Wait, hold up. You're just playing the piano, right?"
-    sl "Euh... Attends, attends. Tu fais juste semblant de jouer du piano, non ?"
+    sl "Euh... Attends, attends. Tu fais juste semblant de jouer du piano, non?"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:406
 translate french b1c08ws02_f5315911:
@@ -668,19 +668,19 @@ translate french b1c08ws02_f5315911:
 translate french b1c08ws02_b07ca0d8:
 
     # mm "Are you...cursing the sky? Fighting with ghosts?"
-    mm "Tu... maudis le ciel ? Tu te bats contre des fantômes ?"
+    mm "Tu... maudis le ciel? Tu te bats contre des fantômes?"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:412
 translate french b1c08ws02_defc8417:
 
     # sm "It looks like some sort of snake?"
-    sm "On dirait une sorte de serpent ?"
+    sm "On dirait une sorte de serpent?"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:413
 translate french b1c08ws02_55519a68:
 
     # sm "Oh! Okay, so you caught a snake? Is that it?"
-    sm "Oh ! D'accord, donc tu as attrapé un serpent ? C'est ça ?"
+    sm "Oh! D'accord, donc tu as attrapé un serpent? C'est ça?"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:421
 translate french b1c08ws02_5fd6026c:
@@ -692,7 +692,7 @@ translate french b1c08ws02_5fd6026c:
 translate french b1c08ws02_61db5ed3:
 
     # ba "Are you... swatting away bees? Waving your hands around like a lunatic?"
-    ba "Tu es... en train de chasser des abeilles ? Tu agites les mains comme un fou ?"
+    ba "Tu es... en train de chasser des abeilles? Tu agites les mains comme un fou?"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:426
 translate french b1c08ws02_8bf48cdb:
@@ -704,7 +704,7 @@ translate french b1c08ws02_8bf48cdb:
 translate french b1c08ws02_b9360388:
 
     # oa "Ooh! Wait a minute, you're conducting an orchestra, is that it?" id b1c08ws02_b9360388
-    oa "Oh ! Attends une minute, tu diriges un orchestre, c'est ça ?" id b1c08ws02_b9360388
+    oa "Oh! Attends une minute, tu diriges un orchestre, c'est ça?" id b1c08ws02_b9360388
 
 # game/code/Book-1/Chapter-8w/s02.rpy:438
 translate french b1c08ws02_cf50fb9b:
@@ -782,7 +782,7 @@ translate french b1c08ws02_5986d74b:
 translate french b1c08ws02_6276a572:
 
     # sl "So you can't breakdance? That's the big lie?"
-    sl "Alors tu ne sais pas faire de breakdance ? C'est ça ton gros mensonge ?"
+    sl "Alors tu ne sais pas faire de breakdance? C'est ça ton gros mensonge?"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:478
 translate french b1c08ws02_c2b9a819:
@@ -794,19 +794,19 @@ translate french b1c08ws02_c2b9a819:
 translate french b1c08ws02_8a12136b:
 
     # sl "So you can't...play piano? That's the lie?"
-    sl "Donc tu ne sais pas... jouer du piano ? C'est ça le mensonge ?"
+    sl "Donc tu ne sais pas... jouer du piano? C'est ça le mensonge?"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:483
 translate french b1c08ws02_c660b6a2:
 
     # sl "{i}Everything{/i} else was true?"
-    sl "{i}Tout{/i} le reste était vrai ?"
+    sl "{i}Tout{/i} le reste était vrai?"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:488
 translate french b1c08ws02_47721f2e:
 
     # sm "Wait, did you really fight a bear though?"
-    sm "Attends, tu as vraiment combattu un ours ?"
+    sm "Attends, tu as vraiment combattu un ours?"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:491
 translate french b1c08ws02_c4aacf28:
@@ -823,20 +823,20 @@ translate french b1c08ws02_5764d8a8:
 # game/code/Book-1/Chapter-8w/s02.rpy:496
 translate french b1c08ws02_49c8536d:
 
-    # oa "Tu as vraiment des interprétations créatives des choses que tu as faites, hein ?"
-    oa "Tu as vraiment des interprétations créatives des choses que tu as faites, hein ?"
+    # oa "Tu as vraiment des interprétations créatives des choses que tu as faites, hein?"
+    oa "Tu as vraiment des interprétations créatives des choses que tu as faites, hein?"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:500
 translate french b1c08ws02_b6a204e4:
 
-    # sl "C'était quoi ce truc avec l'orchestre, par contre ?"
-    sl "C'était quoi ce truc avec l'orchestre, par contre ?"
+    # sl "C'était quoi ce truc avec l'orchestre, par contre?"
+    sl "C'était quoi ce truc avec l'orchestre, par contre?"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:501
 translate french b1c08ws02_6c953e5e:
 
-    # sl "Comment t'as fait pour faire ça ?"
-    sl "Comment t'as fait pour faire ça ?"
+    # sl "Comment t'as fait pour faire ça?"
+    sl "Comment t'as fait pour faire ça?"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:504
 translate french b1c08ws02_80652ed3:
@@ -853,8 +853,8 @@ translate french b1c08ws02_8944e70e:
 # game/code/Book-1/Chapter-8w/s02.rpy:509
 translate french b1c08ws02_767c110c:
 
-    # oa "T'as vraiment combattu un serpent ?"
-    oa "T'as vraiment combattu un serpent ?"
+    # oa "T'as vraiment combattu un serpent?"
+    oa "T'as vraiment combattu un serpent?"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:511
 translate french b1c08ws02_8c7a0ae8:
@@ -871,8 +871,8 @@ translate french b1c08ws02_febda7e4:
 # game/code/Book-1/Chapter-8w/s02.rpy:516
 translate french b1c08ws02_d1d2b852:
 
-    # mm "C'était quoi ce truc avec le concours de hot-dogs ?"
-    mm "C'était quoi ce truc avec le concours de hot-dogs ?"
+    # mm "C'était quoi ce truc avec le concours de hot-dogs?"
+    mm "C'était quoi ce truc avec le concours de hot-dogs?"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:517
 translate french b1c08ws02_2d026047:
@@ -956,7 +956,7 @@ translate french b1c08ws02_9cb81112:
 translate french b1c08ws02_5ed2d8c8:
 
     # ir "You good to keep it between us?"
-    ir "Tu es prêt à garder ça entre nous ?"
+    ir "Tu es prêt à garder ça entre nous?"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:555
 translate french b1c08ws02_b8199613:
@@ -992,7 +992,7 @@ translate french b1c08ws02_a1831067:
 translate french b1c08ws02_4e167d92:
 
     # ir "*Whispers* You're close, aren't you? I want you to fill my mouth. I want to taste you so fucking badly."
-    ir "*Chuchote* Tu es proche, n'est-ce pas ? Je veux que tu me remplisses la bouche. J'ai tellement envie de te goûter."
+    ir "*Chuchote* Tu es proche, n'est-ce pas? Je veux que tu me remplisses la bouche. J'ai tellement envie de te goûter."
 
 # game/code/Book-1/Chapter-8w/s02.rpy:591
 translate french b1c08ws02_1e2c18d4:
@@ -1118,13 +1118,13 @@ translate french b1c08ws02_42fdbdb4:
 translate french b1c08ws02_d052456f:
 
     # ba "What the fuck!? We paid good money for that shit and they just fucking tell us to pound sand just like that? Fuck those assholes."
-    ba "C'est quoi ce bordel !? Nous avons payé beaucoup d'argent pour cette merde et ils nous disent juste de piler du sable juste comme ça ? Niquez ces connards."
+    ba "C'est quoi ce bordel!? Nous avons payé beaucoup d'argent pour cette merde et ils nous disent juste de piler du sable juste comme ça? Niquez ces connards."
 
 # game/code/Book-1/Chapter-8w/s02.rpy:663
 translate french b1c08ws02_2b80b00b:
 
     # sl "Yeah! Let's find a different place."
-    sl "Ouais ! Trouvons un autre endroit."
+    sl "Ouais! Trouvons un autre endroit."
 
 # game/code/Book-1/Chapter-8w/s02.rpy:665
 translate french b1c08ws02_86edfefe:
@@ -1160,7 +1160,7 @@ translate french b1c08ws02_facbf5ae:
 translate french b1c08ws02_91fcd0b7:
 
     # sa "Silvia, I assume we have more than one room, yes? How can we split it up?"
-    sa "Silvia, je suppose qu'on a plus d'une chambre, oui ? Comment on peut répartir ça ?"
+    sa "Silvia, je suppose qu'on a plus d'une chambre, oui? Comment on peut répartir ça?"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:677
 translate french b1c08ws02_e6968ffd:
@@ -1178,7 +1178,7 @@ translate french b1c08ws02_b1b04a6f:
 translate french b1c08ws02_3ee4c963:
 
     # sa "How do we want to split up?"
-    sa "Comment on veut se répartir ?"
+    sa "Comment on veut se répartir?"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:683
 translate french b1c08ws02_4e23a035:
@@ -1190,7 +1190,7 @@ translate french b1c08ws02_4e23a035:
 translate french b1c08ws02_567aeb0e:
 
     # sa "*Sighs* Anyone else?"
-    sa "*Soupire* D'autres suggestions ?"
+    sa "*Soupire* D'autres suggestions?"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:688
 translate french b1c08ws02_e1e9a695:
@@ -1202,7 +1202,7 @@ translate french b1c08ws02_e1e9a695:
 translate french b1c08ws02_2c4fa2a0:
 
     # mm "Wait, so that leaves me, Olesya, and Brigitta in one room? Uh-uh, I'm not doing that."
-    mm "Attends, ça laisse donc moi, Olesya et Brigitta dans une seule chambre ? Euh-uh, je ne fais pas ça."
+    mm "Attends, ça laisse donc moi, Olesya et Brigitta dans une seule chambre? Euh-uh, je ne fais pas ça."
 
 # game/code/Book-1/Chapter-8w/s02.rpy:694
 translate french b1c08ws02_9c5c51c6:
@@ -1220,7 +1220,7 @@ translate french b1c08ws02_c8b9a783:
 translate french b1c08ws02_59b63bb1:
 
     # mct "Murderous bitch? Huh, I didn't know Monika and Olesya hated each other that much. Murderous is interesting wording..."
-    mct "Salope meurtrière ? Hein, je ne savais pas que Monika et Olesya se détestaient à ce point. Meurtrière est un terme intéressant..."
+    mct "Salope meurtrière? Hein, je ne savais pas que Monika et Olesya se détestaient à ce point. Meurtrière est un terme intéressant..."
 
 # game/code/Book-1/Chapter-8w/s02.rpy:702
 translate french b1c08ws02_2cd88551:
@@ -1238,7 +1238,7 @@ translate french b1c08ws02_8d71d156:
 translate french b1c08ws02_29551211:
 
     # mc "Look, how about this? I can bunk with Simon and Monika, leaving Iona, Brigitta, and Olesya with the other room."
-    mc "Écoutez, que diriez-vous de ça ? Je peux partager une chambre avec Simon et Monika, laissant Iona, Brigitta et Olesya dans l'autre chambre."
+    mc "Écoutez, que diriez-vous de ça? Je peux partager une chambre avec Simon et Monika, laissant Iona, Brigitta et Olesya dans l'autre chambre."
 
 # game/code/Book-1/Chapter-8w/s02.rpy:710
 translate french b1c08ws02_4515887d:

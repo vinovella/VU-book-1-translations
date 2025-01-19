@@ -14,7 +14,7 @@ translate french b1c08ws07_f66d839b:
 translate french b1c08ws07_2f524f8f:
 
     # ir "Almost feels like they're vultures eying you doesn't it?"
-    ir "On dirait presque qu'ils sont des vautours qui te fixent, non ?"
+    ir "On dirait presque qu'ils sont des vautours qui te fixent, non?"
 
 # game/code/Book-1/Chapter-8w/s07.rpy:34
 translate french b1c08ws07_8bf72a7c:
@@ -38,7 +38,7 @@ translate french b1c08ws07_17d0c8da:
 translate french b1c08ws07_7d381241:
 
     # ba "Huddle!"
-    ba "Regroupement !"
+    ba "Regroupement!"
 
 # game/code/Book-1/Chapter-8w/s07.rpy:46
 translate french b1c08ws07_deb011b9:
@@ -80,7 +80,7 @@ translate french b1c08ws07_b999d420:
 translate french b1c08ws07_866a6488:
 
     # ba "We are The Winners. We don't back down; we don't falter. We go out there, and we crush them. Are you with me!?"
-    ba "Nous sommes The Winners. On ne recule jamais, on ne faiblit pas. On sort là-bas et on les écrase. Vous êtes avec moi !?"
+    ba "Nous sommes The Winners. On ne recule jamais, on ne faiblit pas. On sort là-bas et on les écrase. Vous êtes avec moi!?"
 
 # game/code/Book-1/Chapter-8w/s07.rpy:67
 translate french b1c08ws07_f8b30177:
@@ -98,7 +98,7 @@ translate french b1c08ws07_d7eedc62:
 translate french b1c08ws07_f88a4429:
 
     # mc "*Sighs* Yeah? Well, it's working."
-    mc "*Soupire* Ouais ? Eh bien, ça marche."
+    mc "*Soupire* Ouais? Eh bien, ça marche."
 
 # game/code/Book-1/Chapter-8w/s07.rpy:87
 translate french b1c08ws07_9e7f72d6:
@@ -122,7 +122,7 @@ translate french b1c08ws07_26b6775a:
 translate french b1c08ws07_952c511d:
 
     # mc "*Chuckles* I wonder how long those two waited for me?"
-    mc "*Rit* Je me demande combien de temps ces deux-là m'ont attendu ?"
+    mc "*Rit* Je me demande combien de temps ces deux-là m'ont attendu?"
 
 # game/code/Book-1/Chapter-8w/s07.rpy:111
 translate french b1c08ws07_d3b9d3ed:
@@ -152,7 +152,7 @@ translate french b1c08ws07_fdc945be:
 translate french b1c08ws07_e2a653c6:
 
     # mct "What the—?"
-    mct "Quoi... ?"
+    mct "Quoi...?"
 
 # game/code/Book-1/Chapter-8w/s07.rpy:142
 translate french b1c08ws07_d5439b74:
@@ -164,7 +164,7 @@ translate french b1c08ws07_d5439b74:
 translate french b1c08ws07_05500ff6:
 
     # mc "Huh?"
-    mc "Hein ?"
+    mc "Hein?"
 
 # game/code/Book-1/Chapter-8w/s07.rpy:147
 translate french b1c08ws07_cedb621a:
@@ -338,7 +338,7 @@ translate french b1c08ws07_018b548b:
 translate french b1c08ws07_3e233128:
 
     # ba "Fuck yes, bitches! That's how it's fucking done!"
-    ba "Putain ouais, salopes ! Voilà comment on fait !"
+    ba "Putain ouais, salopes! Voilà comment on fait!"
 
 # game/code/Book-1/Chapter-8w/s07.rpy:245
 translate french b1c08ws07_a79904b8:
@@ -416,13 +416,13 @@ translate french b1c08ws07_bc2a7bc1:
 translate french b1c08ws07_78fa069c:
 
     # mct "What is this feeling? Everything seems sharper, more focused."
-    mct "C'est quoi ce sentiment ? Tout semble plus net, plus concentré."
+    mct "C'est quoi ce sentiment? Tout semble plus net, plus concentré."
 
 # game/code/Book-1/Chapter-8w/s07.rpy:300
 translate french b1c08ws07_61b0591a:
 
     # mct "This feels amazing!"
-    mct "C'est incroyable !"
+    mct "C'est incroyable!"
 
 # game/code/Book-1/Chapter-8w/s07.rpy:307
 translate french b1c08ws07_6a7a8351:
@@ -470,7 +470,7 @@ translate french b1c08ws07_3c852f48:
 translate french b1c08ws07_c3e082c1:
 
     # mct "*Huffs* Fuck. My heart's doing a mile a second. The fuck is going on?"
-    mct "*Souffle* Putain. Mon cœur fait une course effrénée. Qu'est-ce qui se passe ?"
+    mct "*Souffle* Putain. Mon cœur fait une course effrénée. Qu'est-ce qui se passe?"
 
 # game/code/Book-1/Chapter-8w/s07.rpy:348
 translate french b1c08ws07_dd79ee2c:
@@ -506,13 +506,13 @@ translate french b1c08ws07_58cc1e88:
 translate french b1c08ws07_9376dac6:
 
     # sa "Fantastic work out there! Iona, those strikes were on point. [mcname], Brigitta you two were on fire. We need to keep up the pressure..."
-    sa "Un travail fantastique ! Iona, ces frappes étaient parfaites. [mcname], Brigitta, vous deux étiez en feu. On doit garder la pression..."
+    sa "Un travail fantastique! Iona, ces frappes étaient parfaites. [mcname], Brigitta, vous deux étiez en feu. On doit garder la pression..."
 
 # game/code/Book-1/Chapter-8w/s07.rpy:378
 translate french b1c08ws07_a3126017:
 
     # mct "What the fuck happened to me?"
-    mct "Qu'est-ce qui m'arrive ?"
+    mct "Qu'est-ce qui m'arrive?"
 
 # game/code/Book-1/Chapter-8w/s07.rpy:379
 translate french b1c08ws07_2b9e88fa:
@@ -524,7 +524,7 @@ translate french b1c08ws07_2b9e88fa:
 translate french b1c08ws07_4b209f2f:
 
     # mct "But now I feel fine?"
-    mct "Mais maintenant je me sens bien ?"
+    mct "Mais maintenant je me sens bien?"
 
 # game/code/Book-1/Chapter-8w/s07.rpy:386
 translate french b1c08ws07_97c85135:
@@ -560,13 +560,13 @@ translate french b1c08ws07_bb0eeaf4:
 translate french b1c08ws07_e29d88e9:
 
     # ir "Straighten up, hot stuff!"
-    ir "Redresse-toi, beau gosse !"
+    ir "Redresse-toi, beau gosse!"
 
 # game/code/Book-1/Chapter-8w/s07.rpy:399
 translate french b1c08ws07_3330f272:
 
     # ir "We've got this in the bag! You were a monster out there."
-    ir "On a ça dans la poche ! T'étais un monstre là-bas."
+    ir "On a ça dans la poche! T'étais un monstre là-bas."
 
 # game/code/Book-1/Chapter-8w/s07.rpy:402
 translate french b1c08ws07_56222d45:
@@ -638,7 +638,7 @@ translate french b1c08ws07_1ee1376a:
 translate french b1c08ws07_db70ed54:
 
     # mct "Fuck! What is happening to me!?"
-    mct "Putain ! Qu'est-ce qui m'arrive !?"
+    mct "Putain! Qu'est-ce qui m'arrive!?"
 
 # game/code/Book-1/Chapter-8w/s07.rpy:480
 translate french b1c08ws07_8c6800b7:
@@ -686,7 +686,7 @@ translate french b1c08ws07_85553634:
 translate french b1c08ws07_c564523d:
 
     # mct "What do I do?"
-    mct "Que dois-je faire ?"
+    mct "Que dois-je faire?"
 
 # game/code/Book-1/Chapter-8w/s07.rpy:524
 translate french b1c08ws07_578dff12:
@@ -710,7 +710,7 @@ translate french b1c08ws07_95d96455:
 translate french b1c08ws07_758ee0ce:
 
     # ir "[mcname]? You okay?"
-    ir "[mcname] ? Ça va ?"
+    ir "[mcname]? Ça va?"
 
 # game/code/Book-1/Chapter-8w/s07.rpy:535
 translate french b1c08ws07_044d6832:
@@ -734,7 +734,7 @@ translate french b1c08ws07_6995042b:
 translate french b1c08ws07_a0f4264e:
 
     # ba "You two! Get your heads back in the game! And get your shit together, newbie!"
-    ba "Vous deux ! Revenez sur terre ! Et reprends-toi, newbie !"
+    ba "Vous deux! Revenez sur terre! Et reprends-toi, newbie!"
 
 # game/code/Book-1/Chapter-8w/s07.rpy:547
 translate french b1c08ws07_cb1b2e0a:
@@ -782,7 +782,7 @@ translate french b1c08ws07_4e2fed93:
 translate french b1c08ws07_666e8fbe:
 
     # sa "[mcname], are you alright? You seem...different."
-    sa "[mcname], ça va ? Tu sembles...différent."
+    sa "[mcname], ça va? Tu sembles...différent."
 
 # game/code/Book-1/Chapter-8w/s07.rpy:572
 translate french b1c08ws07_edca7db5:
@@ -800,19 +800,19 @@ translate french b1c08ws07_47ff6fb7:
 translate french b1c08ws07_5952d7a2:
 
     # ba "Little off? {b}Little off!?{/b} You're dragging us all down!"
-    ba "Un peu décalé ? {b}Un peu décalé !?{/b} Tu nous tirés tous vers le bas !"
+    ba "Un peu décalé? {b}Un peu décalé!?{/b} Tu nous tirés tous vers le bas!"
 
 # game/code/Book-1/Chapter-8w/s07.rpy:578
 translate french b1c08ws07_14fe47ae:
 
     # ba "We were one set away from winning!"
-    ba "On était à un set de la victoire !"
+    ba "On était à un set de la victoire!"
 
 # game/code/Book-1/Chapter-8w/s07.rpy:579
 translate french b1c08ws07_20fe98b8:
 
     # ba "Get it the fuck together or sit the fuck out!"
-    ba "Reprends-toi bordel ou reste sur le banc !"
+    ba "Reprends-toi bordel ou reste sur le banc!"
 
 # game/code/Book-1/Chapter-8w/s07.rpy:582
 translate french b1c08ws07_6b5ae6b9:
@@ -896,7 +896,7 @@ translate french b1c08ws07_090132d5:
 translate french b1c08ws07_357f61b3:
 
     # ba "Ignore him! Focus on the match and cover his ass as best as you can. We can still win this!"
-    ba "Ignore-le ! Concentre-toi sur le match et couvre-lui les arrières du mieux que tu peux. On peut encore gagner !"
+    ba "Ignore-le! Concentre-toi sur le match et couvre-lui les arrières du mieux que tu peux. On peut encore gagner!"
 
 # game/code/Book-1/Chapter-8w/s07.rpy:627
 translate french b1c08ws07_7c99e154:
@@ -926,13 +926,13 @@ translate french b1c08ws07_df8cebad:
 translate french b1c08ws07_0666a978:
 
     # ba "What the hell was that you fucking prick? You fucking cost us the whole match!"
-    ba "C'était quoi ce bordel, espèce de connard ? T'as foutu en l'air tout le match !"
+    ba "C'était quoi ce bordel, espèce de connard? T'as foutu en l'air tout le match!"
 
 # game/code/Book-1/Chapter-8w/s07.rpy:648
 translate french b1c08ws07_f96e3ee0:
 
     # ba "You call yourself a Winner? You're nothing but a liability."
-    ba "Tu te dis un Gagnant ? T'es rien d'autre qu'un fardeau."
+    ba "Tu te dis un Gagnant? T'es rien d'autre qu'un fardeau."
 
 # game/code/Book-1/Chapter-8w/s07.rpy:651
 translate french b1c08ws07_cb080f5d:
@@ -968,7 +968,7 @@ translate french b1c08ws07_b71f2c39:
 translate french b1c08ws07_2152a9f9:
 
     # ir "Where are you going? Let me come with you."
-    ir "Où tu vas ? Laisse-moi venir avec toi."
+    ir "Où tu vas? Laisse-moi venir avec toi."
 
 # game/code/Book-1/Chapter-8w/s07.rpy:664
 translate french b1c08ws07_b4fc04f7:

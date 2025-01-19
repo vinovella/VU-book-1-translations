@@ -8,7 +8,7 @@ translate french b1c09s03_81983cac:
 translate french b1c09s03_e4f558ce:
 
     # jh "Are you...do you have classes to get to?"
-    jh "Tu... tu as des cours à aller à ?"
+    jh "Tu... tu as des cours à aller à?"
 
 # game/code/Book-1/Chapter-9/s03.rpy:90
 translate french b1c09s03_4b76f3c3:
@@ -68,7 +68,7 @@ translate french b1c09s03_69776140:
 translate french b1c09s03_9b36a9c4:
 
     # jh "It's...um, just be gentle with me at first, okay?"
-    jh "C'est... euh, sois juste douce avec moi au début, d'accord ?"
+    jh "C'est... euh, sois juste douce avec moi au début, d'accord?"
 
 # game/code/Book-1/Chapter-9/s03.rpy:142
 translate french b1c09s03_c95b60b6:
@@ -92,7 +92,7 @@ translate french b1c09s03_c115cd95:
 translate french b1c09s03_60d14b7e:
 
     # mc "No bra today, hm? Was that just for me?"
-    mc "Pas de soutien-gorge aujourd'hui, hein ? C'était juste pour moi ?"
+    mc "Pas de soutien-gorge aujourd'hui, hein? C'était juste pour moi?"
 
 # game/code/Book-1/Chapter-9/s03.rpy:164
 translate french b1c09s03_760dd98b:
@@ -104,7 +104,7 @@ translate french b1c09s03_760dd98b:
 translate french b1c09s03_63ff0948:
 
     # jh "I just woke up! And it's not comfy to sleep in a bra..."
-    jh "Je viens de me réveiller ! Et ce n'est pas confortable de dormir avec un soutien-gorge..."
+    jh "Je viens de me réveiller! Et ce n'est pas confortable de dormir avec un soutien-gorge..."
 
 # game/code/Book-1/Chapter-9/s03.rpy:168
 translate french b1c09s03_94303c9f:
@@ -116,7 +116,7 @@ translate french b1c09s03_94303c9f:
 translate french b1c09s03_972f4082:
 
     # mc "Can I kiss your chest?"
-    mc "Puis-je embrasser ta poitrine ?"
+    mc "Puis-je embrasser ta poitrine?"
 
 # game/code/Book-1/Chapter-9/s03.rpy:173
 translate french b1c09s03_80d671eb:
@@ -146,7 +146,7 @@ translate french b1c09s03_b4777b94:
 translate french b1c09s03_d480c481:
 
     # jh "It's not fair that only one of us is half naked, is it?"
-    jh "Ce n'est pas juste qu'un seul de nous soit à moitié nu, n'est-ce pas ?"
+    jh "Ce n'est pas juste qu'un seul de nous soit à moitié nu, n'est-ce pas?"
 
 # game/code/Book-1/Chapter-9/s03.rpy:189
 translate french b1c09s03_ba6701e2:
@@ -182,13 +182,13 @@ translate french b1c09s03_b07b5329:
 translate french b1c09s03_use_mouth_f5491ca2:
 
     # mc "Would it feel good if I used my mouth on you?"
-    mc "Est-ce que ça te ferait du bien si j'utilisais ma bouche sur toi ?"
+    mc "Est-ce que ça te ferait du bien si j'utilisais ma bouche sur toi?"
 
 # game/code/Book-1/Chapter-9/s03.rpy:221
 translate french b1c09s03_use_mouth_8acad9e5:
 
     # jh "O-oh! I didn't think..."
-    jh "O-oh ! Je n'avais pas pensé..."
+    jh "O-oh! Je n'avais pas pensé..."
 
 # game/code/Book-1/Chapter-9/s03.rpy:222
 translate french b1c09s03_use_mouth_396a0b44:
@@ -218,7 +218,7 @@ translate french b1c09s03_use_mouth_f7e74db4:
 translate french b1c09s03_use_mouth_eac5736c:
 
     # jh "More, please more!"
-    jh "Encore, s'il te plaît, encore !"
+    jh "Encore, s'il te plaît, encore!"
 
 # game/code/Book-1/Chapter-9/s03.rpy:262
 translate french b1c09s03_use_mouth_ab5775f7:
@@ -236,7 +236,7 @@ translate french b1c09s03_use_mouth_df66f4ed:
 translate french b1c09s03_use_hand_f60f2e0d:
 
     # mc "Would it feel best if I used my hand?"
-    mc "Est-ce que ce serait mieux si j'utilisais ma main ?"
+    mc "Est-ce que ce serait mieux si j'utilisais ma main?"
 
 # game/code/Book-1/Chapter-9/s03.rpy:300
 translate french b1c09s03_use_hand_feeb412d:
@@ -284,7 +284,7 @@ translate french b1c09s03_use_hand_c939c502:
 translate french b1c09s03_continue_b0c3ba1a:
 
     # mc "Do you want to keep going?"
-    mc "Tu veux continuer ?"
+    mc "Tu veux continuer?"
 
 # game/code/Book-1/Chapter-9/s03.rpy:381
 translate french b1c09s03_continue_6129d23a:
@@ -344,7 +344,7 @@ translate french b1c09s03_continue_2c80a84a:
 translate french b1c09s03_continue_b1e4f9ac:
 
     # mc "Tell me what feels good. Let me know if you want to stop, okay?"
-    mc "Dis-moi ce qui te fait du bien. Dis-moi si tu veux arrêter, d'accord ?"
+    mc "Dis-moi ce qui te fait du bien. Dis-moi si tu veux arrêter, d'accord?"
 
 # game/code/Book-1/Chapter-9/s03.rpy:423
 translate french b1c09s03_continue_cd0d8808:
@@ -446,7 +446,7 @@ translate french b1c09s03_continue_fd426d96:
 translate french b1c09s03_continue_d09197bd:
 
     # jh "Ooh! That feels so good. Keep going. I want m-more—"
-    jh "Ooh ! C'est si bon. Continue. Je veux m-plus—"
+    jh "Ooh! C'est si bon. Continue. Je veux m-plus—"
 
 # game/code/Book-1/Chapter-9/s03.rpy:537
 translate french b1c09s03_continue_490eafe7:
@@ -458,13 +458,13 @@ translate french b1c09s03_continue_490eafe7:
 translate french b1c09s03_continue_1b085a00:
 
     # mc "Mm, you're such a needy little princess, aren't you?"
-    mc "Mm, tu es une petite princesse tellement nécessiteuse, n'est-ce pas ?"
+    mc "Mm, tu es une petite princesse tellement nécessiteuse, n'est-ce pas?"
 
 # game/code/Book-1/Chapter-9/s03.rpy:555
 translate french b1c09s03_continue_a6395e92:
 
     # jh "O-oh! That's— I feel so good— I'm gonna cum!"
-    jh "O-oh ! C'est... je me sens si bien... je vais jouir !"
+    jh "O-oh! C'est... je me sens si bien... je vais jouir!"
 
 # game/code/Book-1/Chapter-9/s03.rpy:564
 translate french b1c09s03_continue_09575d09:
@@ -524,7 +524,7 @@ translate french b1c09s03_after_sex_8252f3f7:
 translate french b1c09s03_after_sex_5eb008f1:
 
     # jh "Me either! I don't think I've ever cum so much."
-    jh "Moi non plus ! Je ne pense pas avoir jamais autant joui."
+    jh "Moi non plus! Je ne pense pas avoir jamais autant joui."
 
 # game/code/Book-1/Chapter-9/s03.rpy:610
 translate french b1c09s03_after_sex_3287517c:
@@ -554,7 +554,7 @@ translate french b1c09s03_after_sex_e1831eb7:
 translate french b1c09s03_after_sex_3468ea18:
 
     # mc "Did you have a good time?"
-    mc "As-tu passé un bon moment ?"
+    mc "As-tu passé un bon moment?"
 
 # game/code/Book-1/Chapter-9/s03.rpy:631
 translate french b1c09s03_after_sex_67fe7676:
@@ -602,7 +602,7 @@ translate french b1c09s03_after_sex_ab8e1312:
 translate french b1c09s03_after_sex_39b2ec30:
 
     # jh "Well I don't think that! Everyone develops differently."
-    jh "Eh bien, je ne pense pas que ça ! Tout le monde se développe différemment."
+    jh "Eh bien, je ne pense pas que ça! Tout le monde se développe différemment."
 
 # game/code/Book-1/Chapter-9/s03.rpy:655
 translate french b1c09s03_after_sex_b6ab75db:
@@ -716,9 +716,9 @@ translate french strings:
 
     # game/code/Book-1/Chapter-9/s03.rpy:204
     old "Would it feel good if I used my mouth?"
-    new "Est-ce que ça me ferait du bien si j'utilisais ma bouche ?"
+    new "Est-ce que ça me ferait du bien si j'utilisais ma bouche?"
 
     # game/code/Book-1/Chapter-9/s03.rpy:204
     old "Would it feel good if I used my hand?"
-    new "Est-ce que ça me ferait du bien si j'utilisais ma main ?"
+    new "Est-ce que ça me ferait du bien si j'utilisais ma main?"
 

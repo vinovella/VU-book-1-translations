@@ -27,19 +27,19 @@ translate french b1c09s09c_14fe748c:
 translate french b1c09s09c_858ba839:
 
     # ad "You inconsiderate wretch! I'm all wet!"
-    ad "Espèce de goujat ! Je suis trempé !"
+    ad "Espèce de goujat! Je suis trempé!"
 
 # game/code/Book-1/Chapter-9/s09c.rpy:57
 translate french b1c09s09c_da5f1074:
 
     # ef "*Chuckles* C'mon, Andre! Lighten up. It's a party!"
-    ef "*Rires* Allez, Andre ! Détends-toi. C'est une fête !"
+    ef "*Rires* Allez, Andre! Détends-toi. C'est une fête!"
 
 # game/code/Book-1/Chapter-9/s09c.rpy:66
 translate french b1c09s09c_e330c4d9:
 
     # nv "[mcname]!"
-    nv "[mcname] !"
+    nv "[mcname]!"
 
 # game/code/Book-1/Chapter-9/s09c.rpy:68
 translate french b1c09s09c_55b38d8f:
@@ -51,7 +51,7 @@ translate french b1c09s09c_55b38d8f:
 translate french b1c09s09c_4784dc9c:
 
     # ll "We were waiting for you!"
-    ll "Nous t'attendions !"
+    ll "Nous t'attendions!"
 
 # game/code/Book-1/Chapter-9/s09c.rpy:75
 translate french b1c09s09c_0b380c17:
@@ -63,7 +63,7 @@ translate french b1c09s09c_0b380c17:
 translate french b1c09s09c_723a85ca:
 
     # ll "Hi! I'm Lumi."
-    ll "Salut ! Moi, c'est Lumi."
+    ll "Salut! Moi, c'est Lumi."
 
 # game/code/Book-1/Chapter-9/s09c.rpy:83
 translate french b1c09s09c_1c523d45:
@@ -99,7 +99,7 @@ translate french b1c09s09c_082b9d1c:
 translate french b1c09s09c_7578d584:
 
     # nv "Well you're here now. Come say hi to everyone!"
-    nv "Eh bien, tu es là maintenant. Viens dire bonjour à tout le monde !"
+    nv "Eh bien, tu es là maintenant. Viens dire bonjour à tout le monde!"
 
 # game/code/Book-1/Chapter-9/s09c.rpy:112
 translate french b1c09s09c_55bc72f7:
@@ -111,7 +111,7 @@ translate french b1c09s09c_55bc72f7:
 translate french b1c09s09c_e74d8a6c:
 
     # ij "We're so happy you're here!"
-    ij "Nous sommes tellement heureux que tu sois là !"
+    ij "Nous sommes tellement heureux que tu sois là!"
 
 # game/code/Book-1/Chapter-9/s09c.rpy:118
 translate french b1c09s09c_1e7541e8:
@@ -153,7 +153,7 @@ translate french b1c09s09c_6be64180:
 translate french b1c09s09c_9b7c97e2:
 
     # mc "It's nice to finally be here. What have you all been up to?"
-    mc "C'est agréable d'être enfin là. Qu'est-ce que vous avez fait ?"
+    mc "C'est agréable d'être enfin là. Qu'est-ce que vous avez fait?"
 
 # game/code/Book-1/Chapter-9/s09c.rpy:142
 translate french b1c09s09c_2adc9848:
@@ -171,13 +171,13 @@ translate french b1c09s09c_dd5a4c1f:
 translate french b1c09s09c_f0a383b4:
 
     # ef "You look great!"
-    ef "Tu es superbe !"
+    ef "Tu es superbe!"
 
 # game/code/Book-1/Chapter-9/s09c.rpy:150
 translate french b1c09s09c_aba5874d:
 
     # ll "I agree!"
-    ll "Je suis d'accord !"
+    ll "Je suis d'accord!"
 
 # game/code/Book-1/Chapter-9/s09c.rpy:153
 translate french b1c09s09c_bb0eeaf4:
@@ -195,7 +195,7 @@ translate french b1c09s09c_c5380072:
 translate french b1c09s09c_5bc5b869:
 
     # dk "Nia, sweetheart, would you mind serving me my drink yourself?"
-    dk "Nia, chérie, tu veux bien me servir mon verre toi-même ?"
+    dk "Nia, chérie, tu veux bien me servir mon verre toi-même?"
 
 # game/code/Book-1/Chapter-9/s09c.rpy:160
 translate french b1c09s09c_6b359c39:
@@ -207,7 +207,7 @@ translate french b1c09s09c_6b359c39:
 translate french b1c09s09c_41134d4c:
 
     # dk "*Giggles* You know I can't resist a good show!"
-    dk "*Rires* Tu sais bien que je ne peux pas résister à un bon spectacle !"
+    dk "*Rires* Tu sais bien que je ne peux pas résister à un bon spectacle!"
 
 # game/code/Book-1/Chapter-9/s09c.rpy:167
 translate french b1c09s09c_6b7799f9:
@@ -225,19 +225,19 @@ translate french b1c09s09c_6c6b266f:
 translate french b1c09s09c_e9138431:
 
     # ef "Whoo! Now {i}that's{/i} how we party!"
-    ef "Whoo ! {i}Ça{/i}, c'est comme ça qu'on fait la fête !"
+    ef "Whoo! {i}Ça{/i}, c'est comme ça qu'on fait la fête!"
 
 # game/code/Book-1/Chapter-9/s09c.rpy:188
 translate french b1c09s09c_884d22a0:
 
     # ij "Lumi, would you like to serve [mcname] a drink?"
-    ij "Lumi, voudrais-tu servir un verre à [mcname] ?"
+    ij "Lumi, voudrais-tu servir un verre à [mcname]?"
 
 # game/code/Book-1/Chapter-9/s09c.rpy:191
 translate french b1c09s09c_3b177894:
 
     # ll "Oh! I didn't..."
-    ll "Oh ! Je ne l'ai pas fait..."
+    ll "Oh! Je ne l'ai pas fait..."
 
 # game/code/Book-1/Chapter-9/s09c.rpy:192
 translate french b1c09s09c_1dce22aa:
@@ -249,19 +249,19 @@ translate french b1c09s09c_1dce22aa:
 translate french b1c09s09c_057081ca:
 
     # ef "Of course you would! C'mon, show yourself off a little!"
-    ef "Bien sûr que tu le ferais ! Allez, montre-toi un peu !"
+    ef "Bien sûr que tu le ferais! Allez, montre-toi un peu!"
 
 # game/code/Book-1/Chapter-9/s09c.rpy:197
 translate french b1c09s09c_0e093f7f:
 
     # nv "Yeah Lumi, you should! It's fun. You've come so far with your confidence, don't hold back now!"
-    nv "Oui Lumi, tu devrais ! C'est amusant. Tu as fait tellement de progrès avec ta confiance, ne t'arrête pas maintenant !"
+    nv "Oui Lumi, tu devrais! C'est amusant. Tu as fait tellement de progrès avec ta confiance, ne t'arrête pas maintenant!"
 
 # game/code/Book-1/Chapter-9/s09c.rpy:200
 translate french b1c09s09c_f90f19d2:
 
     # ll "Ready [mcname]?"
-    ll "Prêt [mcname] ?"
+    ll "Prêt [mcname]?"
 
 # game/code/Book-1/Chapter-9/s09c.rpy:203
 translate french b1c09s09c_a87a337b:
@@ -285,13 +285,13 @@ translate french b1c09s09c_5fde11b7:
 translate french b1c09s09c_102f46b0:
 
     # ll "That was fun!"
-    ll "C'était amusant !"
+    ll "C'était amusant!"
 
 # game/code/Book-1/Chapter-9/s09c.rpy:224
 translate french b1c09s09c_29a51cb8:
 
     # dk "C'mon, let's go for a swim!"
-    dk "Allez, allons nager !"
+    dk "Allez, allons nager!"
 
 # game/code/Book-1/Chapter-9/s09c.rpy:243
 translate french b1c09s09c_bd1e086a:
@@ -303,7 +303,7 @@ translate french b1c09s09c_bd1e086a:
 translate french b1c09s09c_70defa5e:
 
     # mc "You mean like in the self-help group?"
-    mc "Tu veux dire comme dans le groupe de soutien ?"
+    mc "Tu veux dire comme dans le groupe de soutien?"
 
 # game/code/Book-1/Chapter-9/s09c.rpy:249
 translate french b1c09s09c_bc1c8a0e:
@@ -327,7 +327,7 @@ translate french b1c09s09c_cdc98550:
 translate french b1c09s09c_86ee7c16:
 
     # ef "Lumi's come a long way, hasn't she?"
-    ef "Lumi a fait un sacré chemin, n'est-ce pas ?"
+    ef "Lumi a fait un sacré chemin, n'est-ce pas?"
 
 # game/code/Book-1/Chapter-9/s09c.rpy:260
 translate french b1c09s09c_c38f6a08:
@@ -351,7 +351,7 @@ translate french b1c09s09c_cn_available_a9a93adf:
 translate french b1c09s09c_cn_available_6b8ddaaa:
 
     # mc "What do you mean, Eliina?"
-    mc "Que veux-tu dire, Eliina ?"
+    mc "Que veux-tu dire, Eliina?"
 
 # game/code/Book-1/Chapter-9/s09c.rpy:276
 translate french b1c09s09c_cn_available_b93ba0c4:
@@ -369,7 +369,7 @@ translate french b1c09s09c_cn_available_17e75a99:
 translate french b1c09s09c_cn_available_e6c4c9f1:
 
     # mc "Why would Lumi progress faster? I thought pairs were supposed to advance together."
-    mc "Pourquoi Lumi progresserait-elle plus vite ? Je pensais que les paires étaient censées progresser ensemble."
+    mc "Pourquoi Lumi progresserait-elle plus vite? Je pensais que les paires étaient censées progresser ensemble."
 
 # game/code/Book-1/Chapter-9/s09c.rpy:283
 translate french b1c09s09c_cn_available_b2cb5670:
@@ -381,13 +381,13 @@ translate french b1c09s09c_cn_available_b2cb5670:
 translate french b1c09s09c_cn_available_7f961caa:
 
     # ef "I remember it feeling so easy at first. It seemed like I had a new breakthrough every other week! But now, it's different."
-    ef "Je me souviens que ça semblait tellement facile au début. On dirait que j'avais une nouvelle percée toutes les deux semaines ! Mais maintenant, c'est différent."
+    ef "Je me souviens que ça semblait tellement facile au début. On dirait que j'avais une nouvelle percée toutes les deux semaines! Mais maintenant, c'est différent."
 
 # game/code/Book-1/Chapter-9/s09c.rpy:287
 translate french b1c09s09c_cn_available_28fa7aee:
 
     # ef "I'm not progressing the way I used to. I miss the community and celebration, y'know? Not that I want to take anything away from Lumi."
-    ef "Je ne progresse plus comme avant. La communauté et les célébrations me manquent, tu sais ? Pas que je veuille prendre quoi que ce soit à Lumi."
+    ef "Je ne progresse plus comme avant. La communauté et les célébrations me manquent, tu sais? Pas que je veuille prendre quoi que ce soit à Lumi."
 
 # game/code/Book-1/Chapter-9/s09c.rpy:288
 translate french b1c09s09c_cn_available_83bf64cc:
@@ -423,7 +423,7 @@ translate french b1c09s09c_cn_available_318d9a80:
 translate french b1c09s09c_cn_available_b2b9e19d:
 
     # mc "What do you mean?"
-    mc "Que veux-tu dire ?"
+    mc "Que veux-tu dire?"
 
 # game/code/Book-1/Chapter-9/s09c.rpy:307
 translate french b1c09s09c_cn_available_c5b17234:
@@ -435,7 +435,7 @@ translate french b1c09s09c_cn_available_c5b17234:
 translate french b1c09s09c_cn_available_c8a24d89:
 
     # mc "Why??"
-    mc "Pourquoi ??"
+    mc "Pourquoi??"
 
 # game/code/Book-1/Chapter-9/s09c.rpy:313
 translate french b1c09s09c_cn_available_0d04db83:
@@ -453,7 +453,7 @@ translate french b1c09s09c_cn_available_939a39ca:
 translate french b1c09s09c_cn_available_7c4ea88b:
 
     # ef "And it's not like I'd be alone. I'd have all of you!"
-    ef "Et ce n'est pas comme si j'étais seule. J'aurais vous tous !"
+    ef "Et ce n'est pas comme si j'étais seule. J'aurais vous tous!"
 
 # game/code/Book-1/Chapter-9/s09c.rpy:320
 translate french b1c09s09c_cn_available_3e1aa8a0:
@@ -465,19 +465,19 @@ translate french b1c09s09c_cn_available_3e1aa8a0:
 translate french b1c09s09c_cn_available_624f4d7d:
 
     # mct "What the fuck do I even say to something like that?"
-    mct "Qu'est-ce que je peux bien dire à quelque chose comme ça ?"
+    mct "Qu'est-ce que je peux bien dire à quelque chose comme ça?"
 
 # game/code/Book-1/Chapter-9/s09c.rpy:323
 translate french b1c09s09c_cn_available_57cc7fb4:
 
     # mc "Well, there has to be another way to progress, right? They can't {i}force{/i} you to get pregnant."
-    mc "Eh bien, il doit y avoir un autre moyen de progresser, non ? Ils ne peuvent pas {i}te forcer{/i} à tomber enceinte."
+    mc "Eh bien, il doit y avoir un autre moyen de progresser, non? Ils ne peuvent pas {i}te forcer{/i} à tomber enceinte."
 
 # game/code/Book-1/Chapter-9/s09c.rpy:326
 translate french b1c09s09c_cn_available_739b7be1:
 
     # ef "Of course they wouldn't! But Irene and the other Guides do think that because I'm so self-aware."
-    ef "Bien sûr qu'ils ne le feraient pas ! Mais Irene et les autres Guides pensent cela parce que je suis tellement consciente de moi-même."
+    ef "Bien sûr qu'ils ne le feraient pas! Mais Irene et les autres Guides pensent cela parce que je suis tellement consciente de moi-même."
 
 # game/code/Book-1/Chapter-9/s09c.rpy:327
 translate french b1c09s09c_cn_available_06b830dd:
@@ -519,7 +519,7 @@ translate french b1c09s09c_cn_available_71f84602:
 translate french b1c09s09c_cn_available_8b975684:
 
     # mc "How do you mean?"
-    mc "Que veux-tu dire ?"
+    mc "Que veux-tu dire?"
 
 # game/code/Book-1/Chapter-9/s09c.rpy:344
 translate french b1c09s09c_cn_available_da6f34c8:
@@ -543,7 +543,7 @@ translate french b1c09s09c_cn_available_57284db0:
 translate french b1c09s09c_cn_available_f0874cd9:
 
     # mc "What, like they didn't like each other or something? It's hard to imagine people not supporting each other here."
-    mc "Quoi, genre elles ne s'aimaient pas ou quoi ? C'est difficile d'imaginer des gens ne pas se soutenir ici."
+    mc "Quoi, genre elles ne s'aimaient pas ou quoi? C'est difficile d'imaginer des gens ne pas se soutenir ici."
 
 # game/code/Book-1/Chapter-9/s09c.rpy:351
 translate french b1c09s09c_cn_available_2da563ac:
@@ -555,13 +555,13 @@ translate french b1c09s09c_cn_available_2da563ac:
 translate french b1c09s09c_cn_available_7adcf978:
 
     # ef "I know! Everyone is so nice here. But Maria and Kara had some sort of issue with each other."
-    ef "Je sais ! Tout le monde est tellement sympa ici. Mais Maria et Kara avaient un genre de problème entre elles."
+    ef "Je sais! Tout le monde est tellement sympa ici. Mais Maria et Kara avaient un genre de problème entre elles."
 
 # game/code/Book-1/Chapter-9/s09c.rpy:355
 translate french b1c09s09c_cn_available_67ffd733:
 
     # ef "Or maybe Maria liked Kara {i}too{/i} much? I don't know..."
-    ef "Ou peut-être que Maria aimait Kara {i}un peu trop{/i} ? Je ne sais pas..."
+    ef "Ou peut-être que Maria aimait Kara {i}un peu trop{/i}? Je ne sais pas..."
 
 # game/code/Book-1/Chapter-9/s09c.rpy:358
 translate french b1c09s09c_cn_available_d175cb8f:
@@ -585,19 +585,19 @@ translate french b1c09s09c_cn_available_76469479:
 translate french b1c09s09c_cn_available_9982bbf7:
 
     # mct "Is that what Kara's letter was about?"
-    mct "C'est de cela qu'il s'agissait dans la lettre de Kara ?"
+    mct "C'est de cela qu'il s'agissait dans la lettre de Kara?"
 
 # game/code/Book-1/Chapter-9/s09c.rpy:376
 translate french b1c09s09c_cn_available_213b9419:
 
     # mct "That letter must've been addressed to Maria! Why would Maria be following Kara?"
-    mct "Cette lettre devait être adressée à Maria ! Pourquoi Maria suivrait-elle Kara ?"
+    mct "Cette lettre devait être adressée à Maria! Pourquoi Maria suivrait-elle Kara?"
 
 # game/code/Book-1/Chapter-9/s09c.rpy:377
 translate french b1c09s09c_cn_available_52450cab:
 
     # mct "Did Maria take issue with some of the more extreme behaviors of the cult?"
-    mct "Est-ce que Maria a eu un problème avec certains comportements plus extrêmes du culte ?"
+    mct "Est-ce que Maria a eu un problème avec certains comportements plus extrêmes du culte?"
 
 # game/code/Book-1/Chapter-9/s09c.rpy:380
 translate french b1c09s09c_cn_available_9bf839f5:
@@ -615,7 +615,7 @@ translate french b1c09s09c_cn_available_e0d8c182:
 translate french b1c09s09c_cn_available_bce806c0:
 
     # ef "Hey, are you alright?"
-    ef "Hé, ça va ?"
+    ef "Hé, ça va?"
 
 # game/code/Book-1/Chapter-9/s09c.rpy:397
 translate french b1c09s09c_cn_available_3a5e22cb:
@@ -639,13 +639,13 @@ translate french b1c09s09c_cn_available_c41629f8:
 translate french b1c09s09c_cn_available_1b3aa55e:
 
     # mc "Maybe I can help you somehow? If you talk to Irene, I'm sure she'd come up with some exercises for us to do."
-    mc "Peut-être que je peux t'aider d'une manière ou d'une autre ? Si tu parles à Irene, je suis sûr qu'elle trouvera des exercices pour nous."
+    mc "Peut-être que je peux t'aider d'une manière ou d'une autre? Si tu parles à Irene, je suis sûr qu'elle trouvera des exercices pour nous."
 
 # game/code/Book-1/Chapter-9/s09c.rpy:406
 translate french b1c09s09c_cn_available_950ec7df:
 
     # ef "Really? You'd put in that kind of effort to help me?"
-    ef "Vraiment ? Tu ferais cet effort pour m'aider ?"
+    ef "Vraiment? Tu ferais cet effort pour m'aider?"
 
 # game/code/Book-1/Chapter-9/s09c.rpy:409
 translate french b1c09s09c_cn_available_2521c444:
@@ -657,7 +657,7 @@ translate french b1c09s09c_cn_available_2521c444:
 translate french b1c09s09c_cn_available_a9c0438e:
 
     # ef "You're very sweet, y'know that?"
-    ef "Tu es vraiment gentil, tu sais ?"
+    ef "Tu es vraiment gentil, tu sais?"
 
 # game/code/Book-1/Chapter-9/s09c.rpy:421
 translate french b1c09s09c_cn_available_554854aa:
@@ -675,7 +675,7 @@ translate french b1c09s09c_cn_available_bc666b09:
 translate french b1c09s09c_end_277f73d4:
 
     # ef "I think I'm gonna join them. You wanna come?"
-    ef "Je pense que je vais les rejoindre. Tu veux venir ?"
+    ef "Je pense que je vais les rejoindre. Tu veux venir?"
 
 # game/code/Book-1/Chapter-9/s09c.rpy:437
 translate french b1c09s09c_end_02d28625:
@@ -687,7 +687,7 @@ translate french b1c09s09c_end_02d28625:
 translate french b1c09s09c_end_18d4f7f4:
 
     # ef "Alright, bye!"
-    ef "D'accord, salut !"
+    ef "D'accord, salut!"
 
 # game/code/Book-1/Chapter-9/s09c.rpy:447
 translate french b1c09s09c_end_98451ee8:

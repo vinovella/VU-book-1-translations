@@ -8,7 +8,7 @@ translate french b1c08ss11_f054e449:
 translate french b1c08ss11_60d6c350:
 
     # mg "Ooh! What beautiful new leaves. You really pulled through your troubles with root rot, huh?"
-    mg "Oh ! Quelles belles nouvelles feuilles. Tu as vraiment surmonté tes problèmes de pourriture des racines, hein ?"
+    mg "Oh! Quelles belles nouvelles feuilles. Tu as vraiment surmonté tes problèmes de pourriture des racines, hein?"
 
 # game/code/Book-1/Chapter-8s/s11.rpy:59
 translate french b1c08ss11_aa22ccd5:
@@ -38,13 +38,13 @@ translate french b1c08ss11_0ee3fe83:
 translate french b1c08ss11_6d0471c5:
 
     # mc "I understand. How are you holding up after...?"
-    mc "Je comprends. Comment tu tiens le coup après... ?"
+    mc "Je comprends. Comment tu tiens le coup après...?"
 
 # game/code/Book-1/Chapter-8s/s11.rpy:72
 translate french b1c08ss11_617c4153:
 
     # mg "After that fucking asshole made me fight you?"
-    mg "Après que ce putain de connard m'ait forcée à te combattre ?"
+    mg "Après que ce putain de connard m'ait forcée à te combattre?"
 
 # game/code/Book-1/Chapter-8s/s11.rpy:73
 translate french b1c08ss11_8e61c4b8:
@@ -56,7 +56,7 @@ translate french b1c08ss11_8e61c4b8:
 translate french b1c08ss11_23df9fbf:
 
     # mg "We're just a couple of stray mutts in a dog fight, right? Christ."
-    mg "On n'est que deux chiens errants dans un combat de chiens, hein ? Putain."
+    mg "On n'est que deux chiens errants dans un combat de chiens, hein? Putain."
 
 # game/code/Book-1/Chapter-8s/s11.rpy:79
 translate french b1c08ss11_13c940dc:
@@ -68,7 +68,7 @@ translate french b1c08ss11_13c940dc:
 translate french b1c08ss11_aa94ef03:
 
     # mg "Did it?"
-    mg "Vraiment ?"
+    mg "Vraiment?"
 
 # game/code/Book-1/Chapter-8s/s11.rpy:83
 translate french b1c08ss11_79ca18ff:
@@ -98,7 +98,7 @@ translate french b1c08ss11_a5fe2e09:
 translate french b1c08ss11_dd2dfdca:
 
     # mc "What can I say? I'm an intuitive learner."
-    mc "Que veux-tu que je dise ? Je suis un apprenant intuitif."
+    mc "Que veux-tu que je dise? Je suis un apprenant intuitif."
 
 # game/code/Book-1/Chapter-8s/s11.rpy:95
 translate french b1c08ss11_6a29148f:
@@ -122,13 +122,13 @@ translate french b1c08ss11_329c9b06:
 translate french b1c08ss11_c4c6d64d:
 
     # mg "You wanted to be a fighter, eh?"
-    mg "Tu voulais être un combattant, hein ?"
+    mg "Tu voulais être un combattant, hein?"
 
 # game/code/Book-1/Chapter-8s/s11.rpy:102
 translate french b1c08ss11_e55a582b:
 
     # mg "You wanted a sore body, and to be a part of a gang that barely gives a shit about you?"
-    mg "Tu voulais un corps meurtri, et faire partie d'un gang qui se fout royalement de toi ?"
+    mg "Tu voulais un corps meurtri, et faire partie d'un gang qui se fout royalement de toi?"
 
 # game/code/Book-1/Chapter-8s/s11.rpy:105
 translate french b1c08ss11_40d2eecd:
@@ -140,13 +140,13 @@ translate french b1c08ss11_40d2eecd:
 translate french b1c08ss11_a08aabaa:
 
     # mg "Oh really?"
-    mg "Vraiment ?"
+    mg "Vraiment?"
 
 # game/code/Book-1/Chapter-8s/s11.rpy:109
 translate french b1c08ss11_969c403d:
 
     # mg "Is that why I'm toted around like a useful tool? An obedient dog?"
-    mg "C'est pour ça que je suis traînée comme un outil utile ? Un chien obéissant ?"
+    mg "C'est pour ça que je suis traînée comme un outil utile? Un chien obéissant?"
 
 # game/code/Book-1/Chapter-8s/s11.rpy:112
 translate french b1c08ss11_65a01cc1:
@@ -200,7 +200,7 @@ translate french b1c08ss11_b510daf5:
 translate french b1c08ss11_e02b8048:
 
     # mg "Yeah, me too. I never should've looked up to my sister as much as I did. I idolized her, y'know?"
-    mg "Ouais, moi aussi. Je n'aurais jamais dû autant admirer ma sœur. Je l'idéalisais, tu sais ?"
+    mg "Ouais, moi aussi. Je n'aurais jamais dû autant admirer ma sœur. Je l'idéalisais, tu sais?"
 
 # game/code/Book-1/Chapter-8s/s11.rpy:130
 translate french b1c08ss11_ff135d69:
@@ -248,7 +248,7 @@ translate french b1c08ss11_4c60a1f4:
 translate french b1c08ss11_62dddc0c:
 
     # mg "What difference would it make? I'd still be stuck with all this shit."
-    mg "Quelle différence ça ferait ? Je serais toujours coincée avec toute cette merde."
+    mg "Quelle différence ça ferait? Je serais toujours coincée avec toute cette merde."
 
 # game/code/Book-1/Chapter-8s/s11.rpy:176
 translate french b1c08ss11_28f63b6d:
@@ -386,7 +386,7 @@ translate french b1c08ss11_632db87d:
 translate french b1c08ss11_bfb78be4:
 
     # mg "You ready to test your new skills on me, hotshot?"
-    mg "Prêt à tester tes nouvelles compétences sur moi, champion ?"
+    mg "Prêt à tester tes nouvelles compétences sur moi, champion?"
 
 # game/code/Book-1/Chapter-8s/s11.rpy:250
 translate french b1c08ss11_592a17f3:
@@ -452,7 +452,7 @@ translate french b1c08ss11_b41a442e:
 translate french b1c08ss11_880273d0:
 
     # mg "Is this all you've got? Are you gonna be just another fighter this gang eats up and spits out?"
-    mg "C'est tout ce que tu as ? Tu vas être juste un autre combattant que ce gang avale et recrache ?"
+    mg "C'est tout ce que tu as? Tu vas être juste un autre combattant que ce gang avale et recrache?"
 
 # game/code/Book-1/Chapter-8s/s11.rpy:283
 translate french b1c08ss11_dc404fb4:
@@ -512,7 +512,7 @@ translate french b1c08ss11_2f8f1ecb:
 translate french b1c08ss11_8f28a9cd:
 
     # mc "You think it's gonna be that easy to get out of this?"
-    mc "Tu penses que ça va être aussi facile de t'en sortir ?"
+    mc "Tu penses que ça va être aussi facile de t'en sortir?"
 
 # game/code/Book-1/Chapter-8s/s11.rpy:330
 translate french b1c08ss11_8170b382:
@@ -524,7 +524,7 @@ translate french b1c08ss11_8170b382:
 translate french b1c08ss11_cba98b1f:
 
     # mg "Wow, it's almost like I've been pinned before and know what I'm doing!"
-    mg "Wow, c'est presque comme si j'avais déjà été immobilisée et que je savais ce que je faisais !"
+    mg "Wow, c'est presque comme si j'avais déjà été immobilisée et que je savais ce que je faisais!"
 
 # game/code/Book-1/Chapter-8s/s11.rpy:341
 translate french b1c08ss11_98fcb4fb:
@@ -632,7 +632,7 @@ translate french b1c08ss11_no_sex_0a086f46:
 translate french b1c08ss11_no_sex_b0e9a468:
 
     # mc "Nah, you didn't do that. Who can resist all this?"
-    mc "Non, tu n'as pas fait ça. Qui peut résister à tout ça ?"
+    mc "Non, tu n'as pas fait ça. Qui peut résister à tout ça?"
 
 # game/code/Book-1/Chapter-8s/s11.rpy:411
 translate french b1c08ss11_no_sex_67c4c4b6:
@@ -800,7 +800,7 @@ translate french b1c08ss11_mg_sex_ce4870ce:
 translate french b1c08ss11_mg_sex_3a2cbe06:
 
     # mc "You want me to be rough?"
-    mc "Tu veux que je sois dur ?"
+    mc "Tu veux que je sois dur?"
 
 # game/code/Book-1/Chapter-8s/s11.rpy:505
 translate french b1c08ss11_mg_sex_9f1d69d5:
@@ -824,7 +824,7 @@ translate french b1c08ss11_mg_sex_5a70d0b0:
 translate french b1c08ss11_mg_sex_36f330a2:
 
     # "Your hands finds its way to her lovely neck, and gently squeezes the sides." id b1c08ss11_mg_sex_36f330a2
-    "Vos mains se dirigent vers son joli cou et serrent doucement les côtés." identifiant b1c08ss11_mg_sex_36f330a2
+    "Vos mains se dirigent vers son joli cou et serrent doucement les côtés." id b1c08ss11_mg_sex_36f330a2
 
 # game/code/Book-1/Chapter-8s/s11.rpy:517
 translate french b1c08ss11_mg_sex_ffd6a1df:
@@ -920,7 +920,7 @@ translate french b1c08ss11_mg_sex_778c6644:
 translate french b1c08ss11_mg_sex_3c25101f:
 
     # mc "You want to be my good girl?"
-    mc "Tu veux être ma gentille fille ?"
+    mc "Tu veux être ma gentille fille?"
 
 # game/code/Book-1/Chapter-8s/s11.rpy:608
 translate french b1c08ss11_mg_sex_b3c68ed4:
@@ -986,7 +986,7 @@ translate french b1c08ss11_mg_sex_0a653cad:
 translate french b1c08ss11_mg_sex_ea03e0f4:
 
     # mg "I'm cumming!"
-    mg "Je jouie !"
+    mg "Je jouie!"
 
 # game/code/Book-1/Chapter-8s/s11.rpy:649
 translate french b1c08ss11_mg_sex_e710631e:
@@ -1028,7 +1028,7 @@ translate french b1c08ss11_mg_sex_c6914e26:
 translate french b1c08ss11_mg_sex_02d41fd5:
 
     # mg "God damn, you really filled me up, huh?"
-    mg "Bon sang, tu m'as vraiment rempli, hein ?"
+    mg "Bon sang, tu m'as vraiment rempli, hein?"
 
 # game/code/Book-1/Chapter-8s/s11.rpy:670
 translate french b1c08ss11_mg_sex_3f7e165f:
@@ -1058,7 +1058,7 @@ translate french b1c08ss11_mg_sex_1fa118fe:
 translate french b1c08ss11_mg_sex_cae2f0f5:
 
     # mc "Are you shy because I kissed your forehead?"
-    mc "Es-tu timide parce que je t'ai embrassé sur le front ?"
+    mc "Es-tu timide parce que je t'ai embrassé sur le front?"
 
 # game/code/Book-1/Chapter-8s/s11.rpy:696
 translate french b1c08ss11_mg_sex_456bacae:
@@ -1081,13 +1081,13 @@ translate french b1c08ss11_mg_sex_37816dd9:
 # game/code/Book-1/Chapter-8s/s11.rpy:702
 translate french b1c08ss11_mg_sex_87c5ffd2:
 
-    # mc "*Rit* Je viens de finir de réarranger tes entrailles et c'est un {i}baiser sur le front{/i} qui te trouble ?"
+    # mc "*Rit* Je viens de finir de réarranger tes entrailles et c'est un {i}baiser sur le front{/i} qui te trouble?"
     mc "*Chuckles* I just got done rearranging your guts and it's a {i}forehead kiss{/i} that flusters you?"
 
 # game/code/Book-1/Chapter-8s/s11.rpy:705
 translate french b1c08ss11_mg_sex_992f60d7:
 
-    # mg "Je n'ai jamais dit que ça avait du sens !"
+    # mg "Je n'ai jamais dit que ça avait du sens!"
     mg "I never claimed it made sense!"
 
 # game/code/Book-1/Chapter-8s/s11.rpy:709
@@ -1124,7 +1124,7 @@ translate french b1c08ss11_mg_sex_5293ddee:
 translate french b1c08ss11_mg_sex_4924cc68:
 
     # mg "Hah! As if."
-    mg "Hah ! Comme si."
+    mg "Hah! Comme si."
 
 # game/code/Book-1/Chapter-8s/s11.rpy:722
 translate french b1c08ss11_mg_sex_bd96d7b7:
@@ -1184,7 +1184,7 @@ translate french b1c08ss11_mg_sex_b2dbd9fa:
 translate french b1c08ss11_mg_sex_6972b8c3:
 
     # mg "I'll see you later, okay?"
-    mg "Je te verrai plus tard, d'accord ?"
+    mg "Je te verrai plus tard, d'accord?"
 
 # game/code/Book-1/Chapter-8s/s11.rpy:760
 translate french b1c08ss11_mg_sex_d175748f:

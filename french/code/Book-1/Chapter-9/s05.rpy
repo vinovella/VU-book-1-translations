@@ -14,13 +14,13 @@ translate french replay_b1c09s05_e03aca3b:
 translate french replay_b1c09s05_fb069e6a:
 
     # mc "Woah! Diana!?"
-    mc "Woah ! Diana !?"
+    mc "Woah! Diana!?"
 
 # game/code/Book-1/Chapter-9/s05.rpy:93
 translate french replay_b1c09s05_e470bcc7:
 
     # dm "Oh? I didn't scare you, did I?"
-    dm "Oh ? Je ne t'ai pas fait peur, n'est-ce pas ?"
+    dm "Oh? Je ne t'ai pas fait peur, n'est-ce pas?"
 
 # game/code/Book-1/Chapter-9/s05.rpy:96
 translate french replay_b1c09s05_9ed15315:
@@ -32,7 +32,7 @@ translate french replay_b1c09s05_9ed15315:
 translate french replay_b1c09s05_a50ae208:
 
     # mc "What the hell are you doing here!? We're gonna get caught."
-    mc "Qu'est-ce que tu fais ici, bon sang !? On va se faire prendre."
+    mc "Qu'est-ce que tu fais ici, bon sang!? On va se faire prendre."
 
 # game/code/Book-1/Chapter-9/s05.rpy:102
 translate french replay_b1c09s05_cbdfbf67:
@@ -56,13 +56,13 @@ translate french replay_b1c09s05_09f6e4bc:
 translate french replay_b1c09s05_f1502299:
 
     # mct "What game is she playing at here?"
-    mct "À quel jeu joue-t-elle ici ?"
+    mct "À quel jeu joue-t-elle ici?"
 
 # game/code/Book-1/Chapter-9/s05.rpy:118
 translate french replay_b1c09s05_b3cb6254:
 
     # mc "And this couldn't wait until I was done here?"
-    mc "Et ça ne pouvait pas attendre que j'aie fini ici ?"
+    mc "Et ça ne pouvait pas attendre que j'aie fini ici?"
 
 # game/code/Book-1/Chapter-9/s05.rpy:122
 translate french replay_b1c09s05_6db8d4ba:
@@ -86,7 +86,7 @@ translate french replay_b1c09s05_92de4c3c:
 translate french replay_b1c09s05_7af2ac8a:
 
     # mc "Okay... And what does that have to do with you being wrapped around me?"
-    mc "D'accord... Et quel rapport avec le fait que tu sois enroulée autour de moi ?"
+    mc "D'accord... Et quel rapport avec le fait que tu sois enroulée autour de moi?"
 
 # game/code/Book-1/Chapter-9/s05.rpy:147
 translate french replay_b1c09s05_6b2f58d6:
@@ -98,13 +98,13 @@ translate french replay_b1c09s05_6b2f58d6:
 translate french replay_b1c09s05_f222975c:
 
     # dm "What do you think, detective?"
-    dm "Qu'en penses-tu, détective ?"
+    dm "Qu'en penses-tu, détective?"
 
 # game/code/Book-1/Chapter-9/s05.rpy:161
 translate french replay_b1c09s05_032ee458:
 
     # dm "Oh?"
-    dm "Oh ?"
+    dm "Oh?"
 
 # game/code/Book-1/Chapter-9/s05.rpy:164
 translate french replay_b1c09s05_0034abe3:
@@ -170,13 +170,13 @@ translate french b1c09s05_dm_take_control_908de70f:
 translate french b1c09s05_dm_take_control_05013452:
 
     # dm "Do you like this, Matthew?"
-    dm "Tu aimes ça, Matthew ?"
+    dm "Tu aimes ça, Matthew?"
 
 # game/code/Book-1/Chapter-9/s05.rpy:211
 translate french b1c09s05_dm_take_control_09b29128:
 
     # dm "Do you like giving into me?"
-    dm "Tu aimes te laisser aller avec moi ?"
+    dm "Tu aimes te laisser aller avec moi?"
 
 # game/code/Book-1/Chapter-9/s05.rpy:212
 translate french b1c09s05_dm_take_control_f80d37de:
@@ -194,7 +194,7 @@ translate french b1c09s05_dm_take_control_23f65ba5:
 translate french b1c09s05_dm_take_control_3662f520:
 
     # dm "Does it feel good?"
-    dm "Est-ce que ça te fait du bien ?"
+    dm "Est-ce que ça te fait du bien?"
 
 # game/code/Book-1/Chapter-9/s05.rpy:219
 translate french b1c09s05_dm_take_control_1da56116:
@@ -218,7 +218,7 @@ translate french b1c09s05_dm_take_control_913f5cf0:
 translate french b1c09s05_dm_take_control_52fa80a2:
 
     # dm "Did you miss me?"
-    dm "Tu m'as manqué ?"
+    dm "Tu m'as manqué?"
 
 # game/code/Book-1/Chapter-9/s05.rpy:227
 translate french b1c09s05_dm_take_control_c9b15601:
@@ -302,7 +302,7 @@ translate french b1c09s05_dm_take_control_e4f7a983:
 translate french b1c09s05_dm_take_control_76f6ad51:
 
     # dm "Do you want that? Do you want to be my good boy?"
-    dm "Tu veux ça ? Tu veux être mon bon garçon ?"
+    dm "Tu veux ça? Tu veux être mon bon garçon?"
 
 # game/code/Book-1/Chapter-9/s05.rpy:257
 translate french b1c09s05_dm_take_control_529fb3e1:
@@ -464,7 +464,7 @@ translate french b1c09s05_after_footfetish_dda18c1d:
 translate french b1c09s05_after_footfetish_88baf988:
 
     # dm "*Staggered moans* F-fuck! Mm... Just like that."
-    dm "*Gémissements entrecoupés* Pu-putain ! Mm... Comme ça."
+    dm "*Gémissements entrecoupés* Pu-putain! Mm... Comme ça."
 
 # game/code/Book-1/Chapter-9/s05.rpy:389
 translate french b1c09s05_after_footfetish_e9f5fd03:
@@ -482,7 +482,7 @@ translate french b1c09s05_mc_take_control_a1d08881:
 translate french b1c09s05_mc_take_control_74e55008:
 
     # mc "You really missed me this much?"
-    mc "Je t'ai vraiment manqué à ce point ?"
+    mc "Je t'ai vraiment manqué à ce point?"
 
 # game/code/Book-1/Chapter-9/s05.rpy:401
 translate french b1c09s05_mc_take_control_1e1578dd:
@@ -494,7 +494,7 @@ translate french b1c09s05_mc_take_control_1e1578dd:
 translate french b1c09s05_mc_take_control_e57861e8:
 
     # mc "Then you're not gonna be satisfied by just jerking me off, are you?"
-    mc "Alors tu ne seras pas satisfaite de simplement me branler, n'est-ce pas ?"
+    mc "Alors tu ne seras pas satisfaite de simplement me branler, n'est-ce pas?"
 
 # game/code/Book-1/Chapter-9/s05.rpy:407
 translate french b1c09s05_mc_take_control_b39f131c:
@@ -512,7 +512,7 @@ translate french b1c09s05_mc_take_control_38c5242c:
 translate french b1c09s05_mc_take_control_b0a8dc0e:
 
     # dm "Woah, what are you—?"
-    dm "Woah, qu'est-ce que tu— ?"
+    dm "Woah, qu'est-ce que tu—?"
 
 # game/code/Book-1/Chapter-9/s05.rpy:419
 translate french b1c09s05_mc_take_control_1e1044bd:
@@ -530,7 +530,7 @@ translate french b1c09s05_mc_take_control_11addb8c:
 translate french b1c09s05_mc_take_control_46e71cda:
 
     # mc "Do you want me to stop?"
-    mc "Veux-tu que j'arrête ?"
+    mc "Veux-tu que j'arrête?"
 
 # game/code/Book-1/Chapter-9/s05.rpy:431
 translate french b1c09s05_mc_take_control_00c45bce:
@@ -542,7 +542,7 @@ translate french b1c09s05_mc_take_control_00c45bce:
 translate french b1c09s05_mc_take_control_6dda454c:
 
     # mc "I said, do you want me to stop?"
-    mc "J'ai dit, veux-tu que j'arrête ?"
+    mc "J'ai dit, veux-tu que j'arrête?"
 
 # game/code/Book-1/Chapter-9/s05.rpy:437
 translate french b1c09s05_mc_take_control_052fc8c6:
@@ -572,7 +572,7 @@ translate french b1c09s05_mc_take_control_91a7c264:
 translate french b1c09s05_mc_take_control_38db9e3a:
 
     # mc "*Chuckles* Seems like you're all ready for me, hm?"
-    mc "*Rit doucement* On dirait que tu es prête pour moi, hein ?"
+    mc "*Rit doucement* On dirait que tu es prête pour moi, hein?"
 
 # game/code/Book-1/Chapter-9/s05.rpy:451
 translate french b1c09s05_mc_take_control_3ca7b723:
@@ -584,13 +584,13 @@ translate french b1c09s05_mc_take_control_3ca7b723:
 translate french b1c09s05_mc_take_control_30015929:
 
     # mc "Did you touch yourself thinking of me?"
-    mc "Tu t'es touchée en pensant à moi ?"
+    mc "Tu t'es touchée en pensant à moi?"
 
 # game/code/Book-1/Chapter-9/s05.rpy:456
 translate french b1c09s05_mc_take_control_c036423e:
 
     # dm "*Smirks as she blushes* What if I did?"
-    dm "*Sourit en rougissant* Et si c'était le cas ?"
+    dm "*Sourit en rougissant* Et si c'était le cas?"
 
 # game/code/Book-1/Chapter-9/s05.rpy:459
 translate french b1c09s05_mc_take_control_f81f910c:
@@ -674,7 +674,7 @@ translate french b1c09s05_dm_eatingout_10de3a74:
 translate french b1c09s05_dm_eatingout_723b1673:
 
     # mc "Haven't I been starved?"
-    mc "Est-ce que je n'ai pas été affamé ?"
+    mc "Est-ce que je n'ai pas été affamé?"
 
 # game/code/Book-1/Chapter-9/s05.rpy:514
 translate french b1c09s05_dm_eatingout_c2e7597f:
@@ -686,7 +686,7 @@ translate french b1c09s05_dm_eatingout_c2e7597f:
 translate french b1c09s05_dm_eatingout_b7a31d33:
 
     # dm "Ah! F-fuck, I'm cumming!"
-    dm "Ah! Pu-putain, je jouis !"
+    dm "Ah! Pu-putain, je jouis!"
 
 # game/code/Book-1/Chapter-9/s05.rpy:528
 translate french b1c09s05_dm_eatingout_a867e04e:
@@ -752,19 +752,19 @@ translate french b1c09s05_dm_sex_a16ab15c:
 translate french b1c09s05_dm_sex_d238f085:
 
     # dm "*Moans* Ah! Fuck! Yes!"
-    dm "*Gémissements* Ah ! Putain ! Oui !"
+    dm "*Gémissements* Ah! Putain! Oui!"
 
 # game/code/Book-1/Chapter-9/s05.rpy:559
 translate french b1c09s05_dm_sex_07400b21:
 
     # dm "*Moans* Yes, yes, yes! Keep fucking me, please keep fucking me. I'm so close!"
-    dm "*Gémissements* Oui, oui, oui ! Continue de me baiser, s'il te plaît, continue de me baiser. Je suis si proche !"
+    dm "*Gémissements* Oui, oui, oui! Continue de me baiser, s'il te plaît, continue de me baiser. Je suis si proche!"
 
 # game/code/Book-1/Chapter-9/s05.rpy:561
 translate french b1c09s05_dm_sex_1a6444fe:
 
     # dm "*Moans out loudly* Fuck! I'm cumming!"
-    dm "*Gémissements forts* Putain ! Je jouis !"
+    dm "*Gémissements forts* Putain! Je jouis!"
 
 # game/code/Book-1/Chapter-9/s05.rpy:565
 translate french b1c09s05_dm_sex_15cd6ba8:
@@ -794,7 +794,7 @@ translate french b1c09s05_dm_sex_32f8b765:
 translate french b1c09s05_dm_sex_ddbd8fd8:
 
     # dm "But you can't cum, understood?"
-    dm "Mais tu ne peux pas jouir, compris ?"
+    dm "Mais tu ne peux pas jouir, compris?"
 
 # game/code/Book-1/Chapter-9/s05.rpy:577
 translate french b1c09s05_dm_sex_4b976af7:
@@ -818,7 +818,7 @@ translate french b1c09s05_dm_sex_9c405c14:
 translate french b1c09s05_femdom_end_1a6444fe:
 
     # dm "*Moans out loudly* Fuck! I'm cumming!"
-    dm "*Gémissements forts* Putain ! Je jouis !"
+    dm "*Gémissements forts* Putain! Je jouis!"
 
 # game/code/Book-1/Chapter-9/s05.rpy:595
 translate french b1c09s05_femdom_end_fd877ced:
@@ -848,7 +848,7 @@ translate french b1c09s05_femdom_end_2e74d693:
 translate french b1c09s05_femdom_end_109471d1:
 
     # dm "*Smiles* Tsk, tsk, tsk. Bad boy. I told you not to cum, didn't I?"
-    dm "*Sourire* Tsk, tsk, tsk. Mauvais garçon. Je t'ai dit de ne pas jouir, non ?"
+    dm "*Sourire* Tsk, tsk, tsk. Mauvais garçon. Je t'ai dit de ne pas jouir, non?"
 
 # game/code/Book-1/Chapter-9/s05.rpy:607
 translate french b1c09s05_femdom_end_ca08a726:
@@ -920,13 +920,13 @@ translate french b1c09s05_femdom_end_50d7bab9:
 translate french b1c09s05_cum_menu_f7cce1d0:
 
     # dm "Hm... How about this? I'll forgive you, but only if you clean me up with your tongue."
-    dm "Hm... Et si on faisait ça ? Je te pardonne, mais seulement si tu me nettoies avec ta langue."
+    dm "Hm... Et si on faisait ça? Je te pardonne, mais seulement si tu me nettoies avec ta langue."
 
 # game/code/Book-1/Chapter-9/s05.rpy:646
 translate french b1c09s05_cum_menu_3f79e844:
 
     # dm "What do you say?"
-    dm "Qu'en dis-tu ?"
+    dm "Qu'en dis-tu?"
 
 # game/code/Book-1/Chapter-9/s05.rpy:656
 translate french b1c09s05_cum_menu_1ec2efeb:
@@ -950,7 +950,7 @@ translate french b1c09s05_cum_menu_b12d0433:
 translate french b1c09s05_cum_menu_4a432def:
 
     # dm "Oh? Were you lying when you said that you wanted to be my good boy then?"
-    dm "Oh ? Tu mentais quand tu as dit que tu voulais être mon bon garçon alors ?"
+    dm "Oh? Tu mentais quand tu as dit que tu voulais être mon bon garçon alors?"
 
 # game/code/Book-1/Chapter-9/s05.rpy:675
 translate french b1c09s05_cum_menu_d88be344:
@@ -1040,7 +1040,7 @@ translate french b1c09s05_end_noflirt_8de2f17e:
 translate french b1c09s05_end_noflirt_093b0063:
 
     # dm "Oh? Did you find any leads?"
-    dm "Oh ? Tu as trouvé des pistes ?"
+    dm "Oh? Tu as trouvé des pistes?"
 
 # game/code/Book-1/Chapter-9/s05.rpy:742
 translate french b1c09s05_end_noflirt_5b06220a:
@@ -1058,7 +1058,7 @@ translate french b1c09s05_end_noflirt_a86d1851:
 translate french b1c09s05_end_noflirt_1152bcbe:
 
     # dm "Are you going to the party later today?"
-    dm "Tu vas à la fête plus tard aujourd'hui ?"
+    dm "Tu vas à la fête plus tard aujourd'hui?"
 
 # game/code/Book-1/Chapter-9/s05.rpy:752
 translate french b1c09s05_end_noflirt_51d752b4:
@@ -1100,13 +1100,13 @@ translate french b1c09s05_end_noflirt_4fbe02c4:
 translate french b1c09s05_end_noflirt_1dfaad2e:
 
     # mct "Drugs?"
-    mct "De la drogue ?"
+    mct "De la drogue?"
 
 # game/code/Book-1/Chapter-9/s05.rpy:771
 translate french b1c09s05_end_noflirt_f9d8f341:
 
     # mc "How do you know for sure drugs will be involved?"
-    mc "Comment tu sais que des drogues seront impliquées ?"
+    mc "Comment tu sais que des drogues seront impliquées?"
 
 # game/code/Book-1/Chapter-9/s05.rpy:777
 translate french b1c09s05_end_noflirt_b7fff3d1:
@@ -1178,7 +1178,7 @@ translate french b1c09s05_end_noflirt_8bc43581:
 translate french b1c09s05_end_noflirt_369c3f8f:
 
     # rh "The little minx got to you first this time, huh?"
-    rh "La petite peste t'a eu en premier cette fois, hein ?"
+    rh "La petite peste t'a eu en premier cette fois, hein?"
 
 # game/code/Book-1/Chapter-9/s05.rpy:810
 translate french b1c09s05_end_noflirt_264f1232:

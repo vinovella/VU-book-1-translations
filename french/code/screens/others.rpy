@@ -11,7 +11,7 @@ translate french strings:
 
     # game/code/screens/others.rpy:13
     old "Would you like to enable this data collection?"
-    new "Souhaitez-vous activer cette collecte de données ?"
+    new "Souhaitez-vous activer cette collecte de données?"
 
     # game/code/screens/others.rpy:55
     old "Touch input supported"
@@ -59,7 +59,7 @@ translate french strings:
 
     # game/code/screens/others.rpy:255
     old "Warning!"
-    new "Avertissement !"
+    new "Avertissement!"
 
     # game/code/screens/others.rpy:257
     old "This game is intended for a mature audience of 18 years or older."
@@ -79,6 +79,6 @@ translate french strings:
 
     # game/code/screens/others.rpy:262
     old "Enjoy!"
-    new "Amusez-vous bien !"
+    new "Amusez-vous bien!"
 
 

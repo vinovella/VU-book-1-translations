@@ -8,25 +8,25 @@ translate french b1c09s07_6b1bb9c9:
 translate french b1c09s07_78776097:
 
     # ima "No, I needed that staff {i}today{/i}, I ordered them for TODAY!" id b1c09s07_78776097
-    ima "Non, j'avais besoin de ce personnel {i}aujourd'hui{/i}, je les ai commandés pour AUJOURD'HUI !"
+    ima "Non, j'avais besoin de ce personnel {i}aujourd'hui{/i}, je les ai commandés pour AUJOURD'HUI!"
 
 # game/code/Book-1/Chapter-9/s07.rpy:72
 translate french b1c09s07_0db4d85d:
 
     # ima "Okay, so fucking find replacements! It's not my fault you—"
-    ima "D'accord, alors trouve des remplaçants ! Ce n'est pas de ma faute si tu—"
+    ima "D'accord, alors trouve des remplaçants! Ce n'est pas de ma faute si tu—"
 
 # game/code/Book-1/Chapter-9/s07.rpy:76
 translate french b1c09s07_4804d19f:
 
     # ima "Hello? Hel— Ugh, prick."
-    ima "Allô ? Hel— Ugh, connard."
+    ima "Allô? Hel— Ugh, connard."
 
 # game/code/Book-1/Chapter-9/s07.rpy:79
 translate french b1c09s07_148d6dfb:
 
     # mc "Trouble with the decor?"
-    mc "Des problèmes avec la déco ?"
+    mc "Des problèmes avec la déco?"
 
 # game/code/Book-1/Chapter-9/s07.rpy:83
 translate french b1c09s07_f9f4496a:
@@ -44,7 +44,7 @@ translate french b1c09s07_19df007c:
 translate french b1c09s07_06686c30:
 
     # mc "Where is everyone? Aren't they going to help at all?"
-    mc "Où est tout le monde ? Ils ne vont pas du tout aider ?"
+    mc "Où est tout le monde? Ils ne vont pas du tout aider?"
 
 # game/code/Book-1/Chapter-9/s07.rpy:89
 translate french b1c09s07_2a5e70ae:
@@ -56,13 +56,13 @@ translate french b1c09s07_2a5e70ae:
 translate french b1c09s07_3d414fd8:
 
     # mc "Well, I'm here. How can I help?"
-    mc "Eh bien, je suis là. Comment je peux aider ?"
+    mc "Eh bien, je suis là. Comment je peux aider?"
 
 # game/code/Book-1/Chapter-9/s07.rpy:94
 translate french b1c09s07_d7ed8902:
 
     # ima "You'd...help me?"
-    ima "Tu... m'aiderais ?"
+    ima "Tu... m'aiderais?"
 
 # game/code/Book-1/Chapter-9/s07.rpy:98
 translate french b1c09s07_1435bc1a:
@@ -98,13 +98,13 @@ translate french b1c09s07_c356348e:
 translate french b1c09s07_99e9a704:
 
     # ima "I don't want to get all dirty before the party, y'know?"
-    ima "Je ne veux pas me salir avant la fête, tu sais ?"
+    ima "Je ne veux pas me salir avant la fête, tu sais?"
 
 # game/code/Book-1/Chapter-9/s07.rpy:113
 translate french b1c09s07_c100207c:
 
     # mc "Oh, but I can?"
-    mc "Oh, mais moi je peux ?"
+    mc "Oh, mais moi je peux?"
 
 # game/code/Book-1/Chapter-9/s07.rpy:115
 translate french b1c09s07_d6d4a887:
@@ -128,7 +128,7 @@ translate french b1c09s07_9b8921a0:
 translate french b1c09s07_a89577ee:
 
     # ima "And be quick about it, would you?"
-    ima "Et sois rapide, d'accord ?"
+    ima "Et sois rapide, d'accord?"
 
 # game/code/Book-1/Chapter-9/s07.rpy:158
 translate french b1c09s07_b162422b:
@@ -140,7 +140,7 @@ translate french b1c09s07_b162422b:
 translate french b1c09s07_5cb6b836:
 
     # mc "You're welcome. I'm glad I could help. How did the replacement calls go?"
-    mc "De rien. Je suis content d'avoir pu aider. Comment ça s'est passé pour les appels de remplacement ?"
+    mc "De rien. Je suis content d'avoir pu aider. Comment ça s'est passé pour les appels de remplacement?"
 
 # game/code/Book-1/Chapter-9/s07.rpy:164
 translate french b1c09s07_07dd3ca2:
@@ -158,7 +158,7 @@ translate french b1c09s07_a1d7171c:
 translate french b1c09s07_ab4b9829:
 
     # ima "Do poolboys help with stress relief, too?"
-    ima "Les garçons de piscine aident-ils aussi à soulager le stress ?"
+    ima "Les garçons de piscine aident-ils aussi à soulager le stress?"
 
 # game/code/Book-1/Chapter-9/s07.rpy:172
 translate french b1c09s07_9e230b48:
@@ -188,7 +188,7 @@ translate french b1c09s07_35d66d70:
 translate french b1c09s07_ae0a81e6:
 
     # ima "But first, let's get you dried off, shall we? There's some towels in the living room of the mansion."
-    ima "Mais d'abord, séchons-toi, d'accord ? Il y a des serviettes dans le salon du manoir."
+    ima "Mais d'abord, séchons-toi, d'accord? Il y a des serviettes dans le salon du manoir."
 
 # game/code/Book-1/Chapter-9/s07.rpy:213
 translate french b1c09s07_ima_sex_1db969f9:
@@ -212,7 +212,7 @@ translate french b1c09s07_ima_sex_28079879:
 translate french b1c09s07_ima_sex_8e8b3367:
 
     # ima "Oh yeah? Massage it out, then."
-    ima "Oh ouais ? Masse-le, alors."
+    ima "Oh ouais? Masse-le, alors."
 
 # game/code/Book-1/Chapter-9/s07.rpy:226
 translate french b1c09s07_ima_sex_76145a0c:
@@ -272,7 +272,7 @@ translate french b1c09s07_ima_sex_76b0c818:
 translate french b1c09s07_ima_sex_10d507b7:
 
     # ima "Don't tease so much! Just fuck me."
-    ima "Ne te taquine pas trop ! Baise-moi."
+    ima "Ne te taquine pas trop! Baise-moi."
 
 # game/code/Book-1/Chapter-9/s07.rpy:267
 translate french b1c09s07_ima_sex_8ed572c5:
@@ -290,7 +290,7 @@ translate french b1c09s07_ima_sex_e6205a8d:
 translate french b1c09s07_ima_sex_aebbdf80:
 
     # mc "What, am I too big for you?"
-    mc "Quoi, je suis trop grand pour toi ?"
+    mc "Quoi, je suis trop grand pour toi?"
 
 # game/code/Book-1/Chapter-9/s07.rpy:277
 translate french b1c09s07_ima_sex_71d99193:
@@ -350,7 +350,7 @@ translate french b1c09s07_ima_sex_b22ec60e:
 translate french b1c09s07_ima_sex_751d000d:
 
     # ima "*Giggles* My, so eager, hm?"
-    ima "*Rires* Mon Dieu, si impatient, hm ?"
+    ima "*Rires* Mon Dieu, si impatient, hm?"
 
 # game/code/Book-1/Chapter-9/s07.rpy:364
 translate french b1c09s07_ima_sex_bb90a73e:
@@ -416,7 +416,7 @@ translate french b1c09s07_ima_sex_5b2d0333:
 translate french b1c09s07_ima_sex_4962a8b7:
 
     # ima "Mm! I'm cumming."
-    ima "Mm ! Je jouis."
+    ima "Mm! Je jouis."
 
 # game/code/Book-1/Chapter-9/s07.rpy:443
 translate french b1c09s07_ima_sex_41c88bfc:
@@ -476,7 +476,7 @@ translate french b1c09s07_after_a64e8bc0:
 translate french b1c09s07_after_f07a0127:
 
     # ima "Shit, I should take this. It's probably for the party. I trust you can see yourself out?"
-    ima "Merde, je devrais prendre ça. C'est probablement pour la fête. J'espère que tu peux t'accompagner ?"
+    ima "Merde, je devrais prendre ça. C'est probablement pour la fête. J'espère que tu peux t'accompagner?"
 
 # game/code/Book-1/Chapter-9/s07.rpy:502
 translate french b1c09s07_after_f4487604:
@@ -512,7 +512,7 @@ translate french b1c09s07_after_b538bdb1:
 translate french b1c09s07_after_b352fc52:
 
     # mct "*Sniffs* Is that...some sort of cleaning solution?"
-    mct "*Renifle* Est-ce que c'est... une sorte de solution de nettoyage ?"
+    mct "*Renifle* Est-ce que c'est... une sorte de solution de nettoyage?"
 
 # game/code/Book-1/Chapter-9/s07.rpy:530
 translate french b1c09s07_after_a52d1533:
@@ -542,7 +542,7 @@ translate french b1c09s07_after_94dc82d0:
 translate french b1c09s07_after_7b4173c6:
 
     # mct "Did they really scrub the place completely clean after the initial investigation?"
-    mct "Ont-ils vraiment nettoyé complètement l'endroit après l'enquête initiale ?"
+    mct "Ont-ils vraiment nettoyé complètement l'endroit après l'enquête initiale?"
 
 # game/code/Book-1/Chapter-9/s07.rpy:540
 translate french b1c09s07_after_3e385108:
@@ -554,7 +554,7 @@ translate french b1c09s07_after_3e385108:
 translate french b1c09s07_after_895a1300:
 
     # mct "I wonder who did this? Students? Was it a free for all to grab her stuff after she went missing?"
-    mct "Je me demande qui a fait ça ? Des étudiants ? Est-ce que tout le monde s'est précipité pour prendre ses affaires après sa disparition ?"
+    mct "Je me demande qui a fait ça? Des étudiants? Est-ce que tout le monde s'est précipité pour prendre ses affaires après sa disparition?"
 
 # game/code/Book-1/Chapter-9/s07.rpy:545
 translate french b1c09s07_after_0256cf12:
@@ -572,13 +572,13 @@ translate french b1c09s07_after_58d60a26:
 translate french b1c09s07_after_ed82dc56:
 
     # mct "Most likely, people knew that it was being scrubbed. Did they not say anything? Not even Silvia?"
-    mct "Il est probable que les gens savaient que l'endroit était en train d'être nettoyé. N'ont-ils rien dit ? Pas même Silvia ?"
+    mct "Il est probable que les gens savaient que l'endroit était en train d'être nettoyé. N'ont-ils rien dit? Pas même Silvia?"
 
 # game/code/Book-1/Chapter-9/s07.rpy:551
 translate french b1c09s07_after_ebcb055b:
 
     # mct "Maybe Klara's stuff was taken to a secure storage instead? That would make a certain amount of sense..."
-    mct "Peut-être que les affaires de Klara ont été emportées dans un stockage sécurisé ? Cela aurait un certain sens..."
+    mct "Peut-être que les affaires de Klara ont été emportées dans un stockage sécurisé? Cela aurait un certain sens..."
 
 # game/code/Book-1/Chapter-9/s07.rpy:555
 translate french b1c09s07_after_cc76820f:
@@ -602,13 +602,13 @@ translate french b1c09s07_after_4014bd4f:
 translate french b1c09s07_after_4bdc443d:
 
     # "???" "I don't know what happened! He just...had a bad reaction or something, I don't know."
-    "???" "Je ne sais pas ce qui s'est passé ! Il a juste... eu une mauvaise réaction ou quelque chose, je ne sais pas."
+    "???" "Je ne sais pas ce qui s'est passé! Il a juste... eu une mauvaise réaction ou quelque chose, je ne sais pas."
 
 # game/code/Book-1/Chapter-9/s07.rpy:566
 translate french b1c09s07_after_4f89be20:
 
     # mct "...Brigitta?"
-    mct "...Brigitta ?"
+    mct "...Brigitta?"
 
 # game/code/Book-1/Chapter-9/s07.rpy:569
 translate french b1c09s07_after_2d2c8ca9:
@@ -644,7 +644,7 @@ translate french b1c09s07_after_e9be59e6:
 translate french b1c09s07_after_a6a4fe2e:
 
     # "???" "I need to know that it won't happen again, Brigitta. I need to know that you'll keep a cool head for me, okay? Can I count on you for that?"
-    "???" "J'ai besoin de savoir que ça ne se reproduira pas, Brigitta. J'ai besoin de savoir que tu garderas ton calme pour moi, d'accord ? Puis-je compter sur toi pour ça ?"
+    "???" "J'ai besoin de savoir que ça ne se reproduira pas, Brigitta. J'ai besoin de savoir que tu garderas ton calme pour moi, d'accord? Puis-je compter sur toi pour ça?"
 
 # game/code/Book-1/Chapter-9/s07.rpy:585
 translate french b1c09s07_after_5809ca13:
@@ -668,7 +668,7 @@ translate french b1c09s07_after_782abbcc:
 translate french b1c09s07_after_6870f6be:
 
     # pjh "Tell me. Was all this fuss because of that new guy in the group? What was his name again?"
-    pjh "Dis-moi. Tout ce remue-ménage c'est à cause de ce nouveau gars dans le groupe ? Quel était son nom déjà ?"
+    pjh "Dis-moi. Tout ce remue-ménage c'est à cause de ce nouveau gars dans le groupe? Quel était son nom déjà?"
 
 # game/code/Book-1/Chapter-9/s07.rpy:597
 translate french b1c09s07_after_e5645a03:
@@ -680,19 +680,19 @@ translate french b1c09s07_after_e5645a03:
 translate french b1c09s07_after_9096dedb:
 
     # pjh "Right, right, [mcname]. Was this about him? Did you develop a little crush and forget to do—"
-    pjh "Oui, oui, [mcname]. C'était à cause de lui ? Tu as eu un petit béguin et tu as oublié de faire—"
+    pjh "Oui, oui, [mcname]. C'était à cause de lui? Tu as eu un petit béguin et tu as oublié de faire—"
 
 # game/code/Book-1/Chapter-9/s07.rpy:603
 translate french b1c09s07_after_a28fc767:
 
     # ba "No! It's-It's nothing like that. He's an asshole."
-    ba "Non ! Ce n'est pas du tout ça. C'est un con."
+    ba "Non! Ce n'est pas du tout ça. C'est un con."
 
 # game/code/Book-1/Chapter-9/s07.rpy:605
 translate french b1c09s07_after_24075388:
 
     # pjh "Ah, so it's a rivalry is it?"
-    pjh "Ah, donc c'est une rivalité ?"
+    pjh "Ah, donc c'est une rivalité?"
 
 # game/code/Book-1/Chapter-9/s07.rpy:608
 translate french b1c09s07_after_163ab252:
@@ -734,7 +734,7 @@ translate french b1c09s07_after_bf6632d3:
 translate french b1c09s07_after_4a6dfa83:
 
     # pjh "Anyway. How open was [mcname] to our little secret?"
-    pjh "Bref. Dans quelle mesure [mcname] était-il ouvert à notre petit secret ?"
+    pjh "Bref. Dans quelle mesure [mcname] était-il ouvert à notre petit secret?"
 
 # game/code/Book-1/Chapter-9/s07.rpy:624
 translate french b1c09s07_after_d0fcb061:
@@ -776,13 +776,13 @@ translate french b1c09s07_after_90a0c1d6:
 translate french b1c09s07_after_8cffeb9a:
 
     # mct "\"What happened with Klara\"? Shit..."
-    mct "\"Ce qui est arrivé avec Klara\" ? Merde..."
+    mct "\"Ce qui est arrivé avec Klara\"? Merde..."
 
 # game/code/Book-1/Chapter-9/s07.rpy:648
 translate french b1c09s07_after_340f7430:
 
     # mct "What the hell did these two do?"
-    mct "Qu'est-ce que ces deux ont bien pu faire ?"
+    mct "Qu'est-ce que ces deux ont bien pu faire?"
 
 translate french strings:
 

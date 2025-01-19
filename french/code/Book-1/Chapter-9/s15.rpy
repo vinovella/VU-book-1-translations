@@ -75,7 +75,7 @@ translate french b1c09s15_6937f480:
 translate french b1c09s15_a6c7edff:
 
     # c2 "You know what we need? Shots. Shake off this gloom. What do you say?"
-    c2 "Tu sais ce qu'il nous faut ? Des shots. Chasser cette morosité. Qu'en dis-tu ?"
+    c2 "Tu sais ce qu'il nous faut? Des shots. Chasser cette morosité. Qu'en dis-tu?"
 
 # game/code/Book-1/Chapter-9/s15.rpy:266
 translate french b1c09s15_b038267a:
@@ -99,7 +99,7 @@ translate french b1c09s15_566f54af:
 translate french b1c09s15_4c8256dd:
 
     # c2 "{i}So let's forget about our worries!{/i}"
-    c2 "{i}Alors oublions nos soucis !{/i}"
+    c2 "{i}Alors oublions nos soucis!{/i}"
 
 # game/code/Book-1/Chapter-9/s15.rpy:289
 translate french b1c09s15_bc6aa8ea:
@@ -111,7 +111,7 @@ translate french b1c09s15_bc6aa8ea:
 translate french b1c09s15_adb780de:
 
     # zp "To getting fucked up and feeling okay together!"
-    zp "À se saouler et à se sentir bien ensemble !"
+    zp "À se saouler et à se sentir bien ensemble!"
 
 # game/code/Book-1/Chapter-9/s15.rpy:300
 translate french b1c09s15_a8579d6b:
@@ -129,7 +129,7 @@ translate french b1c09s15_e6abea23:
 translate french b1c09s15_a0978087:
 
     # c2 "Oh, oh! Let's play \"Never Have I Ever.\" Everyone gets a turn, and if you've done it, you take a shot."
-    c2 "Oh, oh ! Jouons à \"Jamais je n'ai jamais.\" Chacun son tour, et si tu l'as fait, tu bois un verre."
+    c2 "Oh, oh! Jouons à \"Jamais je n'ai jamais.\" Chacun son tour, et si tu l'as fait, tu bois un verre."
 
 # game/code/Book-1/Chapter-9/s15.rpy:348
 translate french b1c09s15_da848e7f:
@@ -147,13 +147,13 @@ translate french b1c09s15_4d5fa2b6:
 translate french b1c09s15_326e0e56:
 
     # c2 "*Chuckles* That's messed up! You can't just bust something like that out as the first question!"
-    c2 "*Rit* C'est pas bien ! Tu peux pas balancer un truc comme ça dès la première question !"
+    c2 "*Rit* C'est pas bien! Tu peux pas balancer un truc comme ça dès la première question!"
 
 # game/code/Book-1/Chapter-9/s15.rpy:361
 translate french b1c09s15_1462243b:
 
     # mc "*Shrugs* Why mess around with boring stuff?"
-    mc "*Hausse les épaules* Pourquoi s'embêter avec des trucs ennuyeux ?"
+    mc "*Hausse les épaules* Pourquoi s'embêter avec des trucs ennuyeux?"
 
 # game/code/Book-1/Chapter-9/s15.rpy:362
 translate french b1c09s15_d9657270:
@@ -165,13 +165,13 @@ translate french b1c09s15_d9657270:
 translate french b1c09s15_dadc90f0:
 
     # c2 "Wait, really?"
-    c2 "Attends, vraiment ?"
+    c2 "Attends, vraiment?"
 
 # game/code/Book-1/Chapter-9/s15.rpy:372
 translate french b1c09s15_58f24d3d:
 
     # c1 "*Giggling* It was when I was really young, but yeah!"
-    c1 "*Rit* C'était quand j'étais vraiment jeune, mais ouais !"
+    c1 "*Rit* C'était quand j'étais vraiment jeune, mais ouais!"
 
 # game/code/Book-1/Chapter-9/s15.rpy:376
 translate french b1c09s15_a0f7d0e7:
@@ -213,7 +213,7 @@ translate french b1c09s15_3d35a735:
 translate french b1c09s15_a4f69367:
 
     # mc "Oh, c'mon, don't tell me I'm alone here!"
-    mc "Oh, allez, ne me dis pas que je suis seul ici !"
+    mc "Oh, allez, ne me dis pas que je suis seul ici!"
 
 # game/code/Book-1/Chapter-9/s15.rpy:396
 translate french b1c09s15_93ae046f:
@@ -225,25 +225,25 @@ translate french b1c09s15_93ae046f:
 translate french b1c09s15_f190ed7a:
 
     # c1 "*Laughs* Oh my God, not you too!"
-    c1 "*Rit* Oh mon Dieu, pas toi aussi !"
+    c1 "*Rit* Oh mon Dieu, pas toi aussi!"
 
 # game/code/Book-1/Chapter-9/s15.rpy:405
 translate french b1c09s15_91daa283:
 
     # c2 "*Blushes* Let's just move on!"
-    c2 "*Rougit* Passons à autre chose !"
+    c2 "*Rougit* Passons à autre chose!"
 
 # game/code/Book-1/Chapter-9/s15.rpy:411
 translate french b1c09s15_9afedbb0:
 
     # c1 "Okay, okay, my turn! Never have I ever...had a— Um..."
-    c1 "D'accord, d'accord, à mon tour ! Jamais je n'ai jamais... eu un— Euh..."
+    c1 "D'accord, d'accord, à mon tour! Jamais je n'ai jamais... eu un— Euh..."
 
 # game/code/Book-1/Chapter-9/s15.rpy:414
 translate french b1c09s15_3622a324:
 
     # c2 "What? What were you gonna say?"
-    c2 "Quoi ? Qu'est-ce que tu allais dire ?"
+    c2 "Quoi? Qu'est-ce que tu allais dire?"
 
 # game/code/Book-1/Chapter-9/s15.rpy:421
 translate french b1c09s15_17f10fb2:
@@ -261,7 +261,7 @@ translate french b1c09s15_fac8dd74:
 translate french b1c09s15_44835140:
 
     # c2 "Nooo! C'mon, it's okay. We won't judge."
-    c2 "Non ! Allez, c'est bon. On ne va pas juger."
+    c2 "Non! Allez, c'est bon. On ne va pas juger."
 
 # game/code/Book-1/Chapter-9/s15.rpy:431
 translate french b1c09s15_636ec8fd:
@@ -327,13 +327,13 @@ translate french b1c09s15_5208ee58:
 translate french b1c09s15_c8991335:
 
     # c2 "Alright! We need something new. Let me put on some music and get us another bottle."
-    c2 "D'accord ! On a besoin de quelque chose de nouveau. Laisse-moi mettre de la musique et nous chercher une autre bouteille."
+    c2 "D'accord! On a besoin de quelque chose de nouveau. Laisse-moi mettre de la musique et nous chercher une autre bouteille."
 
 # game/code/Book-1/Chapter-9/s15.rpy:513
 translate french b1c09s15_53da28f7:
 
     # c2 "*Laughing* You're going down!"
-    c2 "*Riant* Tu vas perdre !"
+    c2 "*Riant* Tu vas perdre!"
 
 # game/code/Book-1/Chapter-9/s15.rpy:517
 translate french b1c09s15_668f18a7:
@@ -345,13 +345,13 @@ translate french b1c09s15_668f18a7:
 translate french b1c09s15_a7ebba8a:
 
     # zp "Let's grab a pic before she does then!"
-    zp "Prenons une photo avant qu'elle nous tue alors !"
+    zp "Prenons une photo avant qu'elle nous tue alors!"
 
 # game/code/Book-1/Chapter-9/s15.rpy:524
 translate french b1c09s15_de566358:
 
     # c2 "C'mon! Let's get a picture!"
-    c2 "Allez ! Prenons une photo !"
+    c2 "Allez! Prenons une photo!"
 
 # game/code/Book-1/Chapter-9/s15.rpy:535
 translate french b1c09s15_d4482523:
@@ -363,13 +363,13 @@ translate french b1c09s15_d4482523:
 translate french b1c09s15_fde140e8:
 
     # c1 "Karaoke! Let's do it! It'll be fun!"
-    c1 "Karaoké ! On y va ! Ce sera amusant !"
+    c1 "Karaoké! On y va! Ce sera amusant!"
 
 # game/code/Book-1/Chapter-9/s15.rpy:544
 translate french b1c09s15_619f7607:
 
     # c2 "Yeah!"
-    c2 "Ouais !"
+    c2 "Ouais!"
 
 # game/code/Book-1/Chapter-9/s15.rpy:546
 translate french b1c09s15_6f5fb738:
@@ -381,7 +381,7 @@ translate french b1c09s15_6f5fb738:
 translate french b1c09s15_6353f48f:
 
     # c2 "Is it really karaoke if someone doesn't do that though?"
-    c2 "C'est vraiment du karaoké si personne ne fait ça ?"
+    c2 "C'est vraiment du karaoké si personne ne fait ça?"
 
 # game/code/Book-1/Chapter-9/s15.rpy:589
 translate french b1c09s15_sex_db971b97:
@@ -405,13 +405,13 @@ translate french b1c09s15_sex_c69fc139:
 translate french b1c09s15_sex_b190e466:
 
     # mc "*singing* I'm feeling something in my pants!{w=1.2}{nw}"
-    mc "*chantant* Je ressens quelque chose dans mon pantalon !{w=1.2}{nw}"
+    mc "*chantant* Je ressens quelque chose dans mon pantalon!{w=1.2}{nw}"
 
 # game/code/Book-1/Chapter-9/s15.rpy:599
 translate french b1c09s15_sex_a629b2f3:
 
     # mc "*singing* Close the distance - BUT!{w=1.2}{nw}"
-    mc "*chantant* Réduis la distance - MAIS !{w=1.2}{nw}"
+    mc "*chantant* Réduis la distance - MAIS!{w=1.2}{nw}"
 
 # game/code/Book-1/Chapter-9/s15.rpy:601
 translate french b1c09s15_sex_86ad7449:
@@ -429,7 +429,7 @@ translate french b1c09s15_sex_b96b5c16:
 translate french b1c09s15_sex_dfb60db9:
 
     # mc "*singing* Let's get to it somewhere somehow!{w=1.5}{nw}"
-    mc "*chantant* Faisons-le quelque part, peu importe comment !{w=1.5}{nw}"
+    mc "*chantant* Faisons-le quelque part, peu importe comment!{w=1.5}{nw}"
 
 # game/code/Book-1/Chapter-9/s15.rpy:608
 translate french b1c09s15_sex_1639beec:
@@ -441,7 +441,7 @@ translate french b1c09s15_sex_1639beec:
 translate french b1c09s15_sex_c221c5b9:
 
     # mc "*singing* Then I'll show to you!{w=1.2}{nw}"
-    mc "*chantant* Alors je te montrerai !{w=1.2}{nw}"
+    mc "*chantant* Alors je te montrerai!{w=1.2}{nw}"
 
 # game/code/Book-1/Chapter-9/s15.rpy:616
 translate french b1c09s15_sex_4843f5c1:
@@ -453,7 +453,7 @@ translate french b1c09s15_sex_4843f5c1:
 translate french b1c09s15_sex_e79a018b:
 
     # mc "*singing* Of my BIG LOVE!{w=1.75}{nw}"
-    mc "*chantant* De mon GRAND AMOUR !{w=1.75}{nw}"
+    mc "*chantant* De mon GRAND AMOUR!{w=1.75}{nw}"
 
 # game/code/Book-1/Chapter-9/s15.rpy:621
 translate french b1c09s15_sex_ce49b3b3:
@@ -477,13 +477,13 @@ translate french b1c09s15_sex_3cc7f0c9:
 translate french b1c09s15_sex_c7a636a6:
 
     # mc "*singing* Come and dance with me!{w=2.0}{nw}"
-    mc "*chantant* Viens danser avec moi !{w=2.0}{nw}"
+    mc "*chantant* Viens danser avec moi!{w=2.0}{nw}"
 
 # game/code/Book-1/Chapter-9/s15.rpy:665
 translate french b1c09s15_sex_karaoke_end_5796dc7b:
 
     # mc "Careful. You okay?"
-    mc "Fais attention. Ça va ?"
+    mc "Fais attention. Ça va?"
 
 # game/code/Book-1/Chapter-9/s15.rpy:671
 translate french b1c09s15_sex_karaoke_end_b06d9881:
@@ -549,7 +549,7 @@ translate french b1c09s15_sex_karaoke_end_40d12630:
 translate french b1c09s15_sex_karaoke_end_a0626344:
 
     # c1 "...Can I get a kiss too?"
-    c1 "...Puis-je avoir un baiser aussi ?"
+    c1 "...Puis-je avoir un baiser aussi?"
 
 # game/code/Book-1/Chapter-9/s15.rpy:708
 translate french b1c09s15_sex_karaoke_end_b00f3440:
@@ -561,7 +561,7 @@ translate french b1c09s15_sex_karaoke_end_b00f3440:
 translate french b1c09s15_sex_karaoke_end_18657cc5:
 
     # c1 "What? Didn't you say that we should feel okay together? Seems a little unfair that you only two get to share a kiss."
-    c1 "Quoi ? Tu n'as pas dit qu'on devrait se sentir bien ensemble ? Ça me semble un peu injuste que vous soyez les seuls à pouvoir partager un baiser."
+    c1 "Quoi? Tu n'as pas dit qu'on devrait se sentir bien ensemble? Ça me semble un peu injuste que vous soyez les seuls à pouvoir partager un baiser."
 
 # game/code/Book-1/Chapter-9/s15.rpy:719
 translate french b1c09s15_sex_karaoke_end_d86e3840:
@@ -615,7 +615,7 @@ translate french b1c09s15_sex_karaoke_end_520a9b9a:
 translate french b1c09s15_sex_karaoke_end_5b5bbf04:
 
     # mc "And how is that my fault, exactly?"
-    mc "Et en quoi est-ce de ma faute, exactement ?"
+    mc "Et en quoi est-ce de ma faute, exactement?"
 
 # game/code/Book-1/Chapter-9/s15.rpy:783
 translate french b1c09s15_sex_karaoke_end_675922f4:
@@ -651,13 +651,13 @@ translate french b1c09s15_sex_karaoke_end_db2ca792:
 translate french b1c09s15_sex_karaoke_end_394e7cfd:
 
     # "While [c1.name!t] focuses her attention on your shaft and tip, lapping up your precum and overwhelming your senses." id b1c09s15_sex_karaoke_end_394e7cfd
-    "Pendant que [c1.name!t] concentre son attention sur votre tige et votre pointe, lapant votre prépuce et submergeant vos sens." identifiant b1c09s15_sex_karaoke_end_394e7cfd
+    "Pendant que [c1.name!t] concentre son attention sur votre tige et votre pointe, lapant votre prépuce et submergeant vos sens." id b1c09s15_sex_karaoke_end_394e7cfd
 
 # game/code/Book-1/Chapter-9/s15.rpy:817
 translate french b1c09s15_sex_karaoke_end_3d65359c:
 
     # "[c2.name!t]'s warm mouth slides down your thighs, teasing every inch of skin she encounters with a hunger that's both enticing and mesmerizing." id b1c09s15_sex_karaoke_end_3d65359c
-    "La bouche chaude de [c2.name!t] glisse le long de vos cuisses, taquinant chaque centimètre de peau qu'elle rencontre avec une faim à la fois séduisante et fascinante." identifiant b1c09s15_sex_karaoke_end_3d65359c
+    "La bouche chaude de [c2.name!t] glisse le long de vos cuisses, taquinant chaque centimètre de peau qu'elle rencontre avec une faim à la fois séduisante et fascinante." id b1c09s15_sex_karaoke_end_3d65359c
 
 # game/code/Book-1/Chapter-9/s15.rpy:826
 translate french b1c09s15_sex_karaoke_end_ac4c2001:
@@ -669,13 +669,13 @@ translate french b1c09s15_sex_karaoke_end_ac4c2001:
 translate french b1c09s15_sex_karaoke_end_d1f6e450:
 
     # "In response to seeing your pleasure, [c1.name!t] hums around your cock, her eyes locked with yours." id b1c09s15_sex_karaoke_end_d1f6e450
-    "En réponse à votre plaisir, [c1.name!t] fredonne autour de votre bite, ses yeux fixés sur les vôtres." identifiant b1c09s15_sex_karaoke_end_d1f6e450
+    "En réponse à votre plaisir, [c1.name!t] fredonne autour de votre bite, ses yeux fixés sur les vôtres." id b1c09s15_sex_karaoke_end_d1f6e450
 
 # game/code/Book-1/Chapter-9/s15.rpy:834
 translate french b1c09s15_sex_karaoke_end_5ed57917:
 
     # "You can't help but thrust your hips ever so slightly into [c1.name!t]'s waiting mouth, craving more of her velvet warmth." id b1c09s15_sex_karaoke_end_5ed57917
-    "Vous ne pouvez pas vous empêcher d'enfoncer légèrement vos hanches dans la bouche en attente de [c1.name!t], désirant davantage de sa chaleur de velours." identifiant b1c09s15_sex_karaoke_end_5ed57917
+    "Vous ne pouvez pas vous empêcher d'enfoncer légèrement vos hanches dans la bouche en attente de [c1.name!t], désirant davantage de sa chaleur de velours." id b1c09s15_sex_karaoke_end_5ed57917
 
 # game/code/Book-1/Chapter-9/s15.rpy:844
 translate french b1c09s15_sex_karaoke_end_58ca9b0b:
@@ -693,7 +693,7 @@ translate french b1c09s15_sex_karaoke_end_9d873848:
 translate french b1c09s15_sex_karaoke_end_a78a9230:
 
     # c1 "[c2.name!t], c'mere. Let's do it together." id b1c09s15_sex_karaoke_end_a78a9230
-    c1 "[c2.name!t], viens ici. Faisons-le ensemble." identifiant b1c09s15_sex_karaoke_end_a78a9230
+    c1 "[c2.name!t], viens ici. Faisons-le ensemble." id b1c09s15_sex_karaoke_end_a78a9230
 
 # game/code/Book-1/Chapter-9/s15.rpy:869
 translate french b1c09s15_sex_karaoke_end_c3181fe0:
@@ -705,13 +705,13 @@ translate french b1c09s15_sex_karaoke_end_c3181fe0:
 translate french b1c09s15_sex_karaoke_end_0e97c450:
 
     # "[c1.name!t]'s lips glide along your shaft, her tongue swirling around your sensitive tip with an expert finesse that sends jolts of ecstasy up your spine." id b1c09s15_sex_karaoke_end_0e97c450
-    "Les lèvres de [c1.name!t] glissent le long de votre tige, sa langue tourbillonnant autour de votre pointe sensible avec une finesse experte qui envoie des secousses d'extase dans votre colonne vertébrale." identifiant b1c09s15_sex_karaoke_end_0e97c450
+    "Les lèvres de [c1.name!t] glissent le long de votre tige, sa langue tourbillonnant autour de votre pointe sensible avec une finesse experte qui envoie des secousses d'extase dans votre colonne vertébrale." id b1c09s15_sex_karaoke_end_0e97c450
 
 # game/code/Book-1/Chapter-9/s15.rpy:891
 translate french b1c09s15_sex_karaoke_end_61daa315:
 
     # "[c2.name!t], meanwhile, focuses on the other end of your shaft. Her soft lips and tongue roaming up and down, gently sucking and teasing you, making you twitch in pleasure." id b1c09s15_sex_karaoke_end_61daa315
-    "[c2.name!t], quant à elle, se concentre sur l'autre extrémité de votre tige. Ses lèvres douces et sa langue parcourent de haut en bas, vous suçant et vous taquinant doucement, vous faisant trembler de plaisir." identifiant b1c09s15_sex_karaoke_end_61daa315
+    "[c2.name!t], quant à elle, se concentre sur l'autre extrémité de votre tige. Ses lèvres douces et sa langue parcourent de haut en bas, vous suçant et vous taquinant doucement, vous faisant trembler de plaisir." id b1c09s15_sex_karaoke_end_61daa315
 
 # game/code/Book-1/Chapter-9/s15.rpy:893
 translate french b1c09s15_sex_karaoke_end_2a1cdc30:
@@ -777,7 +777,7 @@ translate french b1c09s15_sex_karaoke_end_c8442abe:
 translate french b1c09s15_sex_karaoke_end_f548a597:
 
     # "[c1.name!t]'s hips rock back and forth needily, her pussy enveloping your length and tightening around you, sending waves of pleasure that leave both of you gasping for air." id b1c09s15_sex_karaoke_end_f548a597
-    "Les hanches de [c1.name!t] se balancent d'avant en arrière avec besoin, sa chatte enveloppant votre longueur et se resserrant autour de vous, envoyant des vagues de plaisir qui vous laissent tous les deux à bout de souffle." identifiant b1c09s15_sex_karaoke_end_f548a597
+    "Les hanches de [c1.name!t] se balancent d'avant en arrière avec besoin, sa chatte enveloppant votre longueur et se resserrant autour de vous, envoyant des vagues de plaisir qui vous laissent tous les deux à bout de souffle." id b1c09s15_sex_karaoke_end_f548a597
 
 # game/code/Book-1/Chapter-9/s15.rpy:1007
 translate french b1c09s15_sex_karaoke_end_ae674f06:
@@ -789,13 +789,13 @@ translate french b1c09s15_sex_karaoke_end_ae674f06:
 translate french b1c09s15_sex_karaoke_end_d8648dcd:
 
     # "As she rides you, [c2.name!t]'s hands roam your body, her nails raking lightly along your upper body, teasing you and driving your need for her too." id b1c09s15_sex_karaoke_end_d8648dcd
-    "Pendant qu'elle vous chevauche, les mains de [c2.name!t] parcourent votre corps, ses ongles ratissant légèrement le haut de votre corps, vous taquinant et alimentant également votre besoin d'elle." identifiant b1c09s15_sex_karaoke_end_d8648dcd
+    "Pendant qu'elle vous chevauche, les mains de [c2.name!t] parcourent votre corps, ses ongles ratissant légèrement le haut de votre corps, vous taquinant et alimentant également votre besoin d'elle." id b1c09s15_sex_karaoke_end_d8648dcd
 
 # game/code/Book-1/Chapter-9/s15.rpy:1058
 translate french b1c09s15_sex_karaoke_end_f581953c:
 
     # mc "[c2.name!t], let me taste you. I want to make you feel good too." id b1c09s15_sex_karaoke_end_f581953c
-    mc "[c2.name!t], laisse-moi te goûter. Je veux aussi que tu te sentes bien." identifiant b1c09s15_sex_karaoke_end_f581953c
+    mc "[c2.name!t], laisse-moi te goûter. Je veux aussi que tu te sentes bien." id b1c09s15_sex_karaoke_end_f581953c
 
 # game/code/Book-1/Chapter-9/s15.rpy:1061
 translate french b1c09s15_sex_karaoke_end_ae85843d:
@@ -837,7 +837,7 @@ translate french b1c09s15_sex_karaoke_end_f91fd6bf:
 translate french b1c09s15_sex_karaoke_end_ffa41ca8:
 
     # c1 "*Loudly moaning* Oh fu-fuck, [mcname], don't stop!"
-    c1 "*Gémissant fort* Oh putain, [mcname], ne t'arrête pas !"
+    c1 "*Gémissant fort* Oh putain, [mcname], ne t'arrête pas!"
 
 # game/code/Book-1/Chapter-9/s15.rpy:1136
 translate french b1c09s15_sex_karaoke_end_35b863f7:
@@ -855,7 +855,7 @@ translate french b1c09s15_sex_karaoke_end_9f59a8e7:
 translate french b1c09s15_sex_karaoke_end_36061f14:
 
     # c2 "*Moaning* I-I'm cumming! Don't stop!"
-    c2 "*Gémissant* Je-je jouis ! Ne t'arrête pas !"
+    c2 "*Gémissant* Je-je jouis! Ne t'arrête pas!"
 
 # game/code/Book-1/Chapter-9/s15.rpy:1159
 translate french b1c09s15_sex_karaoke_end_1141d512:
@@ -909,13 +909,13 @@ translate french b1c09s15_sex_karaoke_end_f200264f:
 translate french b1c09s15_sex_karaoke_end_4bbefc3f:
 
     # mc "Do you wanna taste [c2.name!t] as I fuck her, [c1.name!t]?" id b1c09s15_sex_karaoke_end_4bbefc3f
-    mc "Tu veux goûter à [c2.name!t] pendant que je la baise, [c1.name!t] ?" id b1c09s15_sex_karaoke_end_4bbefc3f
+    mc "Tu veux goûter à [c2.name!t] pendant que je la baise, [c1.name!t]?" id b1c09s15_sex_karaoke_end_4bbefc3f
 
 # game/code/Book-1/Chapter-9/s15.rpy:1217
 translate french b1c09s15_sex_karaoke_end_44023842:
 
     # c1 "Overstimulate her little clit as you fill her up? Yes, please."
-    c1 "Surstimuler son petit clitoris pendant que vous le remplissez ? Oui, s'il vous plaît."
+    c1 "Surstimuler son petit clitoris pendant que vous le remplissez? Oui, s'il vous plaît."
 
 # game/code/Book-1/Chapter-9/s15.rpy:1224
 translate french b1c09s15_sex_karaoke_end_e793a80f:
@@ -951,7 +951,7 @@ translate french b1c09s15_sex_karaoke_end_3833644b:
 translate french b1c09s15_sex_karaoke_end_0a6d39f7:
 
     # c2 "*Loudly moaning* Fu-uuck, [mcname], oh God yes! [c1.name!t], don't stop!" id b1c09s15_sex_karaoke_end_0a6d39f7
-    c2 "*Gémissant fort* Fu-uuck, [mcname], oh mon Dieu oui ! [c1.name!t], ne t'arrête pas !" id b1c09s15_sex_karaoke_end_0a6d39f7
+    c2 "*Gémissant fort* Fu-uuck, [mcname], oh mon Dieu oui! [c1.name!t], ne t'arrête pas!" id b1c09s15_sex_karaoke_end_0a6d39f7
 
 # game/code/Book-1/Chapter-9/s15.rpy:1269
 translate french b1c09s15_sex_karaoke_end_b8b080ff:

@@ -63,14 +63,14 @@ translate french strings:
 
     # game/code/screens/lovense.rpy:185
     old "Connecting to your toy...\nPlease wait!"
-    new "Connexion à votre jouet...\nVeuillez patienter !"
+    new "Connexion à votre jouet...\nVeuillez patienter!"
 
     # game/code/screens/lovense.rpy:190
     old "Connected successfully!"
-    new "Connecté avec succès !"
+    new "Connecté avec succès!"
 
     # game/code/screens/lovense.rpy:193
     old "Connection failed!"
-    new "Échec de la connexion !"
+    new "Échec de la connexion!"
 
 

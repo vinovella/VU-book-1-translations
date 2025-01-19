@@ -14,7 +14,7 @@ translate french b1c09s09s_e9725111:
 translate french b1c09s09s_69a0eee0:
 
     # ffl "We're so happy to see you!"
-    ffl "Nous sommes tellement heureux de te voir !"
+    ffl "Nous sommes tellement heureux de te voir!"
 
 # game/code/Book-1/Chapter-9/s09s.rpy:43
 translate french b1c09s09s_165fe84e:
@@ -44,7 +44,7 @@ translate french b1c09s09s_ce71ab9b:
 translate french b1c09s09s_711365ba:
 
     # xv "Eh, it's not. But the whole gang's here, y'know? Gotta keep 'em safe."
-    xv "Eh, ce n'est pas vraiment mon truc. Mais toute la bande est là, tu sais ? Faut les protéger."
+    xv "Eh, ce n'est pas vraiment mon truc. Mais toute la bande est là, tu sais? Faut les protéger."
 
 # game/code/Book-1/Chapter-9/s09s.rpy:53
 translate french b1c09s09s_8b013fa1:
@@ -74,13 +74,13 @@ translate french b1c09s09s_04816bf9:
 translate french b1c09s09s_0ad41076:
 
     # ass "Fleur, get over here! Our favorite song is playing!"
-    ass "Fleur, viens ici ! Notre chanson préférée passe !"
+    ass "Fleur, viens ici! Notre chanson préférée passe!"
 
 # game/code/Book-1/Chapter-9/s09s.rpy:70
 translate french b1c09s09s_f3069953:
 
     # ass "Hi, [mcname]!"
-    ass "Salut, [mcname] !"
+    ass "Salut, [mcname]!"
 
 # game/code/Book-1/Chapter-9/s09s.rpy:77
 translate french b1c09s09s_c10c8126:
@@ -92,7 +92,7 @@ translate french b1c09s09s_c10c8126:
 translate french b1c09s09s_62a8c0b8:
 
     # mc "How are you doing?"
-    mc "Comment ça va ?"
+    mc "Comment ça va?"
 
 # game/code/Book-1/Chapter-9/s09s.rpy:83
 translate french b1c09s09s_83c8dd5b:
@@ -140,7 +140,7 @@ translate french b1c09s09s_b8bf2eb6:
 translate french b1c09s09s_446e55b1:
 
     # zp "You wanna dance?"
-    zp "Tu veux danser ?"
+    zp "Tu veux danser?"
 
 # game/code/Book-1/Chapter-9/s09s.rpy:106
 translate french b1c09s09s_5844ae44:
@@ -176,7 +176,7 @@ translate french b1c09s09s_fcda9a76:
 translate french b1c09s09s_3b6440ec:
 
     # ffl "Switch partners!"
-    ffl "Changez de partenaire !"
+    ffl "Changez de partenaire!"
 
 # game/code/Book-1/Chapter-9/s09s.rpy:140
 translate french b1c09s09s_8c57eb73:
@@ -194,13 +194,13 @@ translate french b1c09s09s_a02932e9:
 translate french b1c09s09s_470c64d9:
 
     # ffl "Here, sit!"
-    ffl "Ici, assieds-toi !"
+    ffl "Ici, assieds-toi!"
 
 # game/code/Book-1/Chapter-9/s09s.rpy:172
 translate french b1c09s09s_23500a28:
 
     # ffl "I guess I'm doing a good job, huh?"
-    ffl "Je suppose que je fais bien mon travail, hein ?"
+    ffl "Je suppose que je fais bien mon travail, hein?"
 
 # game/code/Book-1/Chapter-9/s09s.rpy:175
 translate french b1c09s09s_007a6cfc:
@@ -212,7 +212,7 @@ translate french b1c09s09s_007a6cfc:
 translate french b1c09s09s_b0fb99a7:
 
     # ffl "You don't mind if I sit here, do you?"
-    ffl "Ça ne te dérange pas si je m'assois ici, hein ?"
+    ffl "Ça ne te dérange pas si je m'assois ici, hein?"
 
 # game/code/Book-1/Chapter-9/s09s.rpy:190
 translate french b1c09s09s_c2eb53da:
@@ -224,7 +224,7 @@ translate french b1c09s09s_c2eb53da:
 translate french b1c09s09s_tf_available_53ba09be:
 
     # ffl "Have you talked to Zem? I'm sure this is hard on her... Being without Leia, I mean."
-    ffl "Tu as parlé à Zem ? Je suis sûr que c'est dur pour elle... Être sans Leia, je veux dire."
+    ffl "Tu as parlé à Zem? Je suis sûr que c'est dur pour elle... Être sans Leia, je veux dire."
 
 # game/code/Book-1/Chapter-9/s09s.rpy:204
 translate french b1c09s09s_tf_available_81d895b9:
@@ -248,7 +248,7 @@ translate french b1c09s09s_tf_available_c2d1fc84:
 translate french b1c09s09s_tf_available_bbf5b371:
 
     # mc "How so? She's told me it feels like an IRL game to her."
-    mc "Comment ça ? Elle m'a dit que ça lui semblait être un jeu réel."
+    mc "Comment ça? Elle m'a dit que ça lui semblait être un jeu réel."
 
 # game/code/Book-1/Chapter-9/s09s.rpy:215
 translate french b1c09s09s_tf_available_9ca4071a:
@@ -278,7 +278,7 @@ translate french b1c09s09s_tf_available_c115a91b:
 translate french b1c09s09s_tf_available_51da2e5d:
 
     # mc "Zem and Leia had issues with the debts?"
-    mc "Zem et Leia avaient des problèmes avec les dettes ?"
+    mc "Zem et Leia avaient des problèmes avec les dettes?"
 
 # game/code/Book-1/Chapter-9/s09s.rpy:229
 translate french b1c09s09s_tf_available_026354be:
@@ -326,7 +326,7 @@ translate french b1c09s09s_tf_available_1bb7262c:
 translate french b1c09s09s_tf_available_ac9a3177:
 
     # mc "Xasan has a superior? I thought he was the leader."
-    mc "Xasan a un supérieur ? Je pensais qu'il était le leader."
+    mc "Xasan a un supérieur? Je pensais qu'il était le leader."
 
 # game/code/Book-1/Chapter-9/s09s.rpy:245
 translate french b1c09s09s_tf_available_329192b1:
@@ -404,7 +404,7 @@ translate french b1c09s09s_tf_available_5e7ad00a:
 translate french b1c09s09s_tf_available_d223403f:
 
     # mc "Her phone? She lost it or something?"
-    mc "Son téléphone ? Elle l'a perdu ou quoi ?"
+    mc "Son téléphone? Elle l'a perdu ou quoi?"
 
 # game/code/Book-1/Chapter-9/s09s.rpy:275
 translate french b1c09s09s_tf_available_d85030c5:
@@ -416,7 +416,7 @@ translate french b1c09s09s_tf_available_d85030c5:
 translate french b1c09s09s_tf_available_7af6a34b:
 
     # mc "What was she saying—er, trying to say?"
-    mc "Qu'est-ce qu'elle disait—enfin, essayait-elle de dire ?"
+    mc "Qu'est-ce qu'elle disait—enfin, essayait-elle de dire?"
 
 # game/code/Book-1/Chapter-9/s09s.rpy:282
 translate french b1c09s09s_tf_available_d6012032:
@@ -446,7 +446,7 @@ translate french b1c09s09s_tf_available_2a74d2d1:
 translate french b1c09s09s_tf_available_ef36456a:
 
     # mct "That broken phone I found in Gabbie's drawer was Leia's!"
-    mct "Ce téléphone cassé que j'ai trouvé dans le tiroir de Gabbie, c'était celui de Leia !"
+    mct "Ce téléphone cassé que j'ai trouvé dans le tiroir de Gabbie, c'était celui de Leia!"
 
 # game/code/Book-1/Chapter-9/s09s.rpy:301
 translate french b1c09s09s_tf_available_0a935401:
@@ -464,7 +464,7 @@ translate french b1c09s09s_tf_available_37f95a0e:
 translate french b1c09s09s_tf_available_4c9b898e:
 
     # ffl "Hey, you okay? You went quiet all of a sudden."
-    ffl "Hé, ça va ? Tu t'es soudainement tu."
+    ffl "Hé, ça va? Tu t'es soudainement tu."
 
 # game/code/Book-1/Chapter-9/s09s.rpy:322
 translate french b1c09s09s_tf_available_92d8c6ab:
@@ -494,7 +494,7 @@ translate french b1c09s09s_tf_available_d56d6b02:
 translate french b1c09s09s_tf_available_6dd395fd:
 
     # ffl "Oh! Um. Thank you."
-    ffl "Oh ! Euh. Merci."
+    ffl "Oh! Euh. Merci."
 
 # game/code/Book-1/Chapter-9/s09s.rpy:337
 translate french b1c09s09s_tf_available_720629d7:
@@ -506,19 +506,19 @@ translate french b1c09s09s_tf_available_720629d7:
 translate french b1c09s09s_tf_available_cf81dbac:
 
     # ffl "Shut up!"
-    ffl "Tais-toi !"
+    ffl "Tais-toi!"
 
 # game/code/Book-1/Chapter-9/s09s.rpy:357
 translate french b1c09s09s_no_tf_ea418a3d:
 
     # ffl "Everyone looks so happy and relaxed!"
-    ffl "Tout le monde a l'air si heureux et détendu !"
+    ffl "Tout le monde a l'air si heureux et détendu!"
 
 # game/code/Book-1/Chapter-9/s09s.rpy:358
 translate french b1c09s09s_no_tf_69b84ecf:
 
     # ffl "That makes me happy. We all work really hard, y'know?"
-    ffl "Ça me rend heureuse. Nous travaillons tous très dur, tu sais ?"
+    ffl "Ça me rend heureuse. Nous travaillons tous très dur, tu sais?"
 
 # game/code/Book-1/Chapter-9/s09s.rpy:361
 translate french b1c09s09s_no_tf_8b685a6d:
@@ -554,7 +554,7 @@ translate french b1c09s09s_no_tf_c07b27a1:
 translate french b1c09s09s_no_tf_ca8b087e:
 
     # ffl "I'm gonna get a drink. Do you want anything?"
-    ffl "Je vais prendre un verre. Tu veux quelque chose ?"
+    ffl "Je vais prendre un verre. Tu veux quelque chose?"
 
 # game/code/Book-1/Chapter-9/s09s.rpy:381
 translate french b1c09s09s_no_tf_606e2d02:
@@ -566,25 +566,25 @@ translate french b1c09s09s_no_tf_606e2d02:
 translate french b1c09s09s_no_tf_5e5fee25:
 
     # ass "Fleur! C'mere and dance with me again!"
-    ass "Fleur ! Viens ici et danse avec moi encore une fois !"
+    ass "Fleur! Viens ici et danse avec moi encore une fois!"
 
 # game/code/Book-1/Chapter-9/s09s.rpy:391
 translate french b1c09s09s_no_tf_6afb8754:
 
     # ffl "Alright, alright, coming!"
-    ffl "D'accord, d'accord, j'arrive !"
+    ffl "D'accord, d'accord, j'arrive!"
 
 # game/code/Book-1/Chapter-9/s09s.rpy:396
 translate french b1c09s09s_no_tf_54fbd386:
 
     # xv "So how'd that weird hippie trip go with my sister?"
-    xv "Alors, comment s'est passé ce voyage hippie bizarre avec ma sœur ?"
+    xv "Alors, comment s'est passé ce voyage hippie bizarre avec ma sœur?"
 
 # game/code/Book-1/Chapter-9/s09s.rpy:397
 translate french b1c09s09s_no_tf_e942d686:
 
     # xv "She doesn't tell me much about that stuff. Did she stay safe?"
-    xv "Elle ne me parle pas beaucoup de ces choses. Elle est restée en sécurité ?"
+    xv "Elle ne me parle pas beaucoup de ces choses. Elle est restée en sécurité?"
 
 # game/code/Book-1/Chapter-9/s09s.rpy:399
 translate french b1c09s09s_no_tf_61e663c8:
@@ -608,7 +608,7 @@ translate french b1c09s09s_no_tf_fc3e2042:
 translate french b1c09s09s_no_tf_72181193:
 
     # zp "Woo! That stuff is strong. Just what I need."
-    zp "Woo ! Ça, c'est costaud. Juste ce qu'il me faut."
+    zp "Woo! Ça, c'est costaud. Juste ce qu'il me faut."
 
 # game/code/Book-1/Chapter-9/s09s.rpy:413
 translate french b1c09s09s_no_tf_3fc4e6de:
@@ -638,7 +638,7 @@ translate french b1c09s09s_no_tf_e867da6f:
 translate french b1c09s09s_no_tf_efa8d9d3:
 
     # zp "Besides, I have you looking out for me, right?"
-    zp "De toute façon, tu veilles sur moi, non ?"
+    zp "De toute façon, tu veilles sur moi, non?"
 
 # game/code/Book-1/Chapter-9/s09s.rpy:432
 translate french b1c09s09s_no_tf_56ea0378:
@@ -704,7 +704,7 @@ translate french b1c09s09s_no_tf_dfcd0c3f:
 translate french b1c09s09s_no_tf_4df6ee6a:
 
     # xv "Good party, eh?"
-    xv "Bonne soirée, hein ?"
+    xv "Bonne soirée, hein?"
 
 # game/code/Book-1/Chapter-9/s09s.rpy:464
 translate french b1c09s09s_no_tf_b9225849:
@@ -734,7 +734,7 @@ translate french b1c09s09s_no_tf_d24fac32:
 translate french b1c09s09s_no_tf_8c2a2f06:
 
     # xv "To the win, y'know?"
-    xv "À la victoire, tu sais ?"
+    xv "À la victoire, tu sais?"
 
 # game/code/Book-1/Chapter-9/s09s.rpy:476
 translate french b1c09s09s_no_tf_4459322c:
@@ -758,7 +758,7 @@ translate french b1c09s09s_no_tf_42846970:
 translate french b1c09s09s_no_tf_d4322f17:
 
     # xv "You think I can't hold my liquor?"
-    xv "Tu penses que je ne tiens pas l'alcool ?"
+    xv "Tu penses que je ne tiens pas l'alcool?"
 
 # game/code/Book-1/Chapter-9/s09s.rpy:507
 translate french b1c09s09s_no_tf_799422ce:
@@ -818,13 +818,13 @@ translate french b1c09s09s_with_zp_b2a1aaf8:
 translate french b1c09s09s_with_zp_828dce8c:
 
     # zp "But maybe you'd like to walk me to my dorm so I can return your shirt to you... properly?"
-    zp "Mais peut-être que tu aimerais me conduire à mon dortoir pour que je puisse te rendre ta chemise... correctement ?"
+    zp "Mais peut-être que tu aimerais me conduire à mon dortoir pour que je puisse te rendre ta chemise... correctement?"
 
 # game/code/Book-1/Chapter-9/s09s.rpy:571
 translate french b1c09s09s_with_zp_1a58c656:
 
     # mc "Is that your way of asking me to come with you?"
-    mc "C'est ta façon de me demander de venir avec toi ?"
+    mc "C'est ta façon de me demander de venir avec toi?"
 
 # game/code/Book-1/Chapter-9/s09s.rpy:574
 translate french b1c09s09s_with_zp_3ecfce40:
@@ -842,7 +842,7 @@ translate french b1c09s09s_with_zp_c7b83610:
 translate french b1c09s09s_with_zp_a66df180:
 
     # mc "This isn't your room. Are we supposed to be in here?"
-    mc "Ce n'est pas ta chambre. On est censés être ici ?"
+    mc "Ce n'est pas ta chambre. On est censés être ici?"
 
 # game/code/Book-1/Chapter-9/s09s.rpy:589
 translate french b1c09s09s_with_zp_8b9165ca:
@@ -860,7 +860,7 @@ translate french b1c09s09s_with_zp_f0b74d7e:
 translate french b1c09s09s_with_zp_9de0d8ca:
 
     # zp "And maybe you can keep me company while I wait for my outfit to dry?"
-    zp "Et peut-être que tu peux me tenir compagnie pendant que j'attends que ma tenue sèche ?"
+    zp "Et peut-être que tu peux me tenir compagnie pendant que j'attends que ma tenue sèche?"
 
 # game/code/Book-1/Chapter-9/s09s.rpy:606
 translate french b1c09s09s_with_zp_22635dab:
@@ -890,7 +890,7 @@ translate french b1c09s09s_with_zp_8b0e7e6d:
 translate french b1c09s09s_with_zp_339643b6:
 
     # mc "Would now be a good time to ask for my shirt back?"
-    mc "Ce serait un bon moment pour te demander de me rendre ma chemise ?"
+    mc "Ce serait un bon moment pour te demander de me rendre ma chemise?"
 
 # game/code/Book-1/Chapter-9/s09s.rpy:632
 translate french b1c09s09s_with_zp_8f367de3:
@@ -980,7 +980,7 @@ translate french b1c09s09s_with_zp_7cf02626:
 translate french b1c09s09s_with_zp_da942c35:
 
     # zp "Ugh! You're right, you're right."
-    zp "Argh ! Tu as raison, tu as raison."
+    zp "Argh! Tu as raison, tu as raison."
 
 # game/code/Book-1/Chapter-9/s09s.rpy:708
 translate french b1c09s09s_with_zp_725d5f71:
@@ -992,7 +992,7 @@ translate french b1c09s09s_with_zp_725d5f71:
 translate french b1c09s09s_with_zp_a7737be3:
 
     # mc "C'mon. We don't want you going back out to the party looking absolutely ravaged, do we?"
-    mc "Allez. On ne veut pas que tu retournes à la fête en ayant l'air complètement dévastée, n'est-ce pas ?"
+    mc "Allez. On ne veut pas que tu retournes à la fête en ayant l'air complètement dévastée, n'est-ce pas?"
 
 # game/code/Book-1/Chapter-9/s09s.rpy:715
 translate french b1c09s09s_with_zp_455c793e:

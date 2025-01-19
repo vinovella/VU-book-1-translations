@@ -31,7 +31,7 @@ translate french strings:
 
     # game/code/screens/save_screens.rpy:81
     old "No saves found!"
-    new "Aucune sauvegarde trouvée !"
+    new "Aucune sauvegarde trouvée!"
 
     # game/code/screens/save_screens.rpy:208
     old "Sync your saves using Ren'Py Sync Server"
@@ -47,6 +47,6 @@ translate french strings:
 
     # game/code/screens/save_screens.rpy:294
     old "How do you want to name your save?"
-    new "Comment voulez-vous nommer votre sauvegarde ?"
+    new "Comment voulez-vous nommer votre sauvegarde?"
 
 

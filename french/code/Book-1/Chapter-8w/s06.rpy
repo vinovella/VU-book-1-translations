@@ -2,7 +2,7 @@
 translate french b1c08ws06_39ecabba:
 
     # mc "Why won't you tell me why she called us in?"
-    mc "Pourquoi tu ne me dis pas pourquoi elle nous a appelés ?"
+    mc "Pourquoi tu ne me dis pas pourquoi elle nous a appelés?"
 
 # game/code/Book-1/Chapter-8w/s06.rpy:12
 translate french b1c08ws06_65c1115a:
@@ -26,7 +26,7 @@ translate french b1c08ws06_845eb9f1:
 translate french b1c08ws06_5ac19d23:
 
     # ba "Why did you bring {i}him{/i} here? I told you—"
-    ba "Pourquoi tu as amené {i}lui{/i} ici ? Je t'avais dit—"
+    ba "Pourquoi tu as amené {i}lui{/i} ici? Je t'avais dit—"
 
 # game/code/Book-1/Chapter-8w/s06.rpy:24
 translate french b1c08ws06_3578c1a5:
@@ -68,13 +68,13 @@ translate french b1c08ws06_79be57d4:
 translate french b1c08ws06_19f6e055:
 
     # mct "What the hell is going on?"
-    mct "Qu'est-ce qui se passe ici ?"
+    mct "Qu'est-ce qui se passe ici?"
 
 # game/code/Book-1/Chapter-8w/s06.rpy:40
 translate french b1c08ws06_85c29601:
 
     # sm "She's right. Do we really need this? We have what it takes—"
-    sm "Elle a raison. Est-ce vraiment nécessaire ? On a ce qu'il faut—"
+    sm "Elle a raison. Est-ce vraiment nécessaire? On a ce qu'il faut—"
 
 # game/code/Book-1/Chapter-8w/s06.rpy:42
 translate french b1c08ws06_5604bc01:
@@ -92,7 +92,7 @@ translate french b1c08ws06_e5c39a9a:
 translate french b1c08ws06_eb9f508a:
 
     # ir "You sure you're okay with this, Olesya?"
-    ir "Tu es sûre que ça va, Olesya ?"
+    ir "Tu es sûre que ça va, Olesya?"
 
 # game/code/Book-1/Chapter-8w/s06.rpy:49
 translate french b1c08ws06_aa673afd:
@@ -104,7 +104,7 @@ translate french b1c08ws06_aa673afd:
 translate french b1c08ws06_df4cb342:
 
     # mc "Would somebody mind telling me what the hell's going on here?"
-    mc "Est-ce que quelqu'un pourrait me dire ce qui se passe ici ?"
+    mc "Est-ce que quelqu'un pourrait me dire ce qui se passe ici?"
 
 # game/code/Book-1/Chapter-8w/s06.rpy:56
 translate french b1c08ws06_3ea38216:
@@ -128,7 +128,7 @@ translate french b1c08ws06_7c2ca530:
 translate french b1c08ws06_1dfa8c6b:
 
     # ba "Hey!"
-    ba "Hé !"
+    ba "Hé!"
 
 # game/code/Book-1/Chapter-8w/s06.rpy:65
 translate french b1c08ws06_789fdcf5:
@@ -152,19 +152,19 @@ translate french b1c08ws06_95d96455:
 translate french b1c08ws06_8fd4ae27:
 
     # mct "Shit, how the fuck am I going to handle this?"
-    mct "Merde, comment je vais gérer ça ?"
+    mct "Merde, comment je vais gérer ça?"
 
 # game/code/Book-1/Chapter-8w/s06.rpy:76
 translate french b1c08ws06_4bad3b43:
 
     # mct "How did they even get access to these drugs?"
-    mct "Comment ils ont eu accès à ces drogues ?"
+    mct "Comment ils ont eu accès à ces drogues?"
 
 # game/code/Book-1/Chapter-8w/s06.rpy:77
 translate french b1c08ws06_f1526d76:
 
     # mct "Is this related to the girls' disappearance?"
-    mct "Est-ce que c'est lié à la disparition des filles ?"
+    mct "Est-ce que c'est lié à la disparition des filles?"
 
 # game/code/Book-1/Chapter-8w/s06.rpy:80
 translate french b1c08ws06_3eb8c0f5:
@@ -176,7 +176,7 @@ translate french b1c08ws06_3eb8c0f5:
 translate french b1c08ws06_3a665f91:
 
     # mc "Do we really need this?"
-    mc "Est-ce qu'on a vraiment besoin de ça ?"
+    mc "Est-ce qu'on a vraiment besoin de ça?"
 
 # game/code/Book-1/Chapter-8w/s06.rpy:90
 translate french b1c08ws06_2d5f4eaf:
@@ -206,7 +206,7 @@ translate french b1c08ws06_020da4c9:
 translate french b1c08ws06_d5b4ae71:
 
     # mc "Why do we need this?"
-    mc "Pourquoi avons-nous besoin de ça ?"
+    mc "Pourquoi avons-nous besoin de ça?"
 
 # game/code/Book-1/Chapter-8w/s06.rpy:102
 translate french b1c08ws06_39de4ee5:
@@ -236,7 +236,7 @@ translate french b1c08ws06_f3360a97:
 translate french b1c08ws06_58ea9b15:
 
     # mc "I didn't expect this... But, we're The Winners. We'll do whatever it takes to crush our opponents. Right?"
-    mc "Je ne m'attendais pas à ça... Mais, nous sommes les Winners. On fera tout ce qu'il faut pour écraser nos adversaires. D'accord ?"
+    mc "Je ne m'attendais pas à ça... Mais, nous sommes les Winners. On fera tout ce qu'il faut pour écraser nos adversaires. D'accord?"
 
 # game/code/Book-1/Chapter-8w/s06.rpy:122
 translate french b1c08ws06_7de3549e:
@@ -254,7 +254,7 @@ translate french b1c08ws06_b43093f9:
 translate french b1c08ws06_76740013:
 
     # ba "So, who's going first?"
-    ba "Alors, qui commence ?"
+    ba "Alors, qui commence?"
 
 # game/code/Book-1/Chapter-8w/s06.rpy:134
 translate french b1c08ws06_f64b5bda:
@@ -284,13 +284,13 @@ translate french b1c08ws06_2dca05c4:
 translate french b1c08ws06_da70971c:
 
     # ba "Next?"
-    ba "À qui le tour ?"
+    ba "À qui le tour?"
 
 # game/code/Book-1/Chapter-8w/s06.rpy:154
 translate french b1c08ws06_7b5c8ed3:
 
     # ba "Monika?"
-    ba "Monika ?"
+    ba "Monika?"
 
 # game/code/Book-1/Chapter-8w/s06.rpy:158
 translate french b1c08ws06_c8c54634:
@@ -314,7 +314,7 @@ translate french b1c08ws06_1529c8d3:
 translate french b1c08ws06_67094f8e:
 
     # mct "Always? How many times have they done this?"
-    mct "Toujours ? Combien de fois ils ont fait ça ?"
+    mct "Toujours? Combien de fois ils ont fait ça?"
 
 # game/code/Book-1/Chapter-8w/s06.rpy:181
 translate french b1c08ws06_afbd4f47:

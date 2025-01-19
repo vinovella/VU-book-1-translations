@@ -27,7 +27,7 @@ translate french b1c09s12_9a235d13:
 translate french b1c09s12_8d215e32:
 
     # ffl "Pondering in silence, are we?"
-    ffl "Tu réfléchis en silence, n'est-ce pas ?"
+    ffl "Tu réfléchis en silence, n'est-ce pas?"
 
 # game/code/Book-1/Chapter-9/s12.rpy:93
 translate french b1c09s12_c364213c:
@@ -45,7 +45,7 @@ translate french b1c09s12_06566a8d:
 translate french b1c09s12_00f0a3f0:
 
     # ffl "Seat taken, mon ami?"
-    ffl "Place prise, mon ami ?"
+    ffl "Place prise, mon ami?"
 
 # game/code/Book-1/Chapter-9/s12.rpy:103
 translate french b1c09s12_50ecbcd9:
@@ -63,7 +63,7 @@ translate french b1c09s12_76c93b18:
 translate french b1c09s12_c8bdeb1e:
 
     # mc "*Shrugs* It made you smile, didn't it? I think my French is just fine."
-    mc "*Hausse les épaules* Ça t’a fait sourire, non ? Je pense que mon français va très bien."
+    mc "*Hausse les épaules* Ça t’a fait sourire, non? Je pense que mon français va très bien."
 
 # game/code/Book-1/Chapter-9/s12.rpy:115
 translate french b1c09s12_d9373caa:
@@ -75,7 +75,7 @@ translate french b1c09s12_d9373caa:
 translate french b1c09s12_743ae1d0:
 
     # mc "Am I now? And what are you gonna do about it?"
-    mc "Ah bon ? Et que vas-tu en faire ?"
+    mc "Ah bon? Et que vas-tu en faire?"
 
 # game/code/Book-1/Chapter-9/s12.rpy:123
 translate french b1c09s12_9051fee8:
@@ -117,13 +117,13 @@ translate french b1c09s12_7ea0b68c:
 translate french b1c09s12_84f6a5a9:
 
     # ffl "How are you feeling?"
-    ffl "Comment tu te sens ?"
+    ffl "Comment tu te sens?"
 
 # game/code/Book-1/Chapter-9/s12.rpy:141
 translate french b1c09s12_b2b9e19d:
 
     # mc "What do you mean?"
-    mc "Qu'est-ce que tu veux dire ?"
+    mc "Qu'est-ce que tu veux dire?"
 
 # game/code/Book-1/Chapter-9/s12.rpy:144
 translate french b1c09s12_da2c2980:
@@ -153,7 +153,7 @@ translate french b1c09s12_5afc9351:
 translate french b1c09s12_9ba274a9:
 
     # ffl "Why did you join the fight club?"
-    ffl "Pourquoi as-tu rejoint le club de combat ?"
+    ffl "Pourquoi as-tu rejoint le club de combat?"
 
 # game/code/Book-1/Chapter-9/s12.rpy:155
 translate french b1c09s12_e4dd5b34:
@@ -165,7 +165,7 @@ translate french b1c09s12_e4dd5b34:
 translate french b1c09s12_7815c328:
 
     # ffl "Was it really just about joining us? You were pretty much in the group already."
-    ffl "C'était vraiment juste pour nous rejoindre ? Tu faisais déjà pratiquement partie du groupe."
+    ffl "C'était vraiment juste pour nous rejoindre? Tu faisais déjà pratiquement partie du groupe."
 
 # game/code/Book-1/Chapter-9/s12.rpy:161
 translate french b1c09s12_f5e874a2:
@@ -189,13 +189,13 @@ translate french b1c09s12_3ecb2160:
 translate french b1c09s12_89c68a80:
 
     # ffl "That is very sweet, but you could've asked me!"
-    ffl "C'est très gentil, mais tu aurais pu me demander !"
+    ffl "C'est très gentil, mais tu aurais pu me demander!"
 
 # game/code/Book-1/Chapter-9/s12.rpy:167
 translate french b1c09s12_d25eda8f:
 
     # ffl "I could've...brought you in as my assistant!"
-    ffl "J'aurais pu...t'embarquer comme mon assistante !"
+    ffl "J'aurais pu...t'embarquer comme mon assistante!"
 
 # game/code/Book-1/Chapter-9/s12.rpy:170
 translate french b1c09s12_20781694:
@@ -255,7 +255,7 @@ translate french b1c09s12_ba87cba0:
 translate french b1c09s12_8a58c479:
 
     # ffl "Fair, but! Morgan absolutely must've gone easy on you."
-    ffl "C'est juste, mais ! Morgan a sûrement dû te ménager."
+    ffl "C'est juste, mais! Morgan a sûrement dû te ménager."
 
 # game/code/Book-1/Chapter-9/s12.rpy:193
 translate french b1c09s12_91b95df9:
@@ -267,13 +267,13 @@ translate french b1c09s12_91b95df9:
 translate french b1c09s12_9c6f5036:
 
     # ffl "Fair, but! You both looked like you were about to fall over dead."
-    ffl "C'est juste, mais ! Vous deux aviez l'air d'être sur le point de tomber morts."
+    ffl "C'est juste, mais! Vous deux aviez l'air d'être sur le point de tomber morts."
 
 # game/code/Book-1/Chapter-9/s12.rpy:198
 translate french b1c09s12_3b2023af:
 
     # mc "*With a silly French accent* Oh, mon cher, you wound me with such words!"
-    mc "*Avec un accent français ridicule* Oh, mon cher, tu me blesses avec de tels mots !"
+    mc "*Avec un accent français ridicule* Oh, mon cher, tu me blesses avec de tels mots!"
 
 # game/code/Book-1/Chapter-9/s12.rpy:201
 translate french b1c09s12_299c43e0:
@@ -303,7 +303,7 @@ translate french b1c09s12_3b9cb331:
 translate french b1c09s12_a07e3799:
 
     # ffl "Oh? What did I come here for then, hm?"
-    ffl "Oh ? Pourquoi suis-je venue ici alors, hein ?"
+    ffl "Oh? Pourquoi suis-je venue ici alors, hein?"
 
 # game/code/Book-1/Chapter-9/s12.rpy:219
 translate french b1c09s12_184689d3:
@@ -321,7 +321,7 @@ translate french b1c09s12_ec81ef16:
 translate french b1c09s12_5f81e593:
 
     # mc "Maybe that?"
-    mc "Peut-être ça ?"
+    mc "Peut-être ça?"
 
 # game/code/Book-1/Chapter-9/s12.rpy:227
 translate french b1c09s12_87600ba6:
@@ -363,7 +363,7 @@ translate french b1c09s12_b17f2957:
 translate french b1c09s12_49a88ee7:
 
     # mc "Or am I wrong?"
-    mc "Ou ai-je tort ?"
+    mc "Ou ai-je tort?"
 
 # game/code/Book-1/Chapter-9/s12.rpy:250
 translate french b1c09s12_fdd98da7:
@@ -399,13 +399,13 @@ translate french b1c09s12_sex_5a1245c4:
 translate french b1c09s12_sex_318b5e8b:
 
     # mc "We wouldn't want someone interrupting us now, would we?"
-    mc "On ne voudrait pas que quelqu'un nous interrompe maintenant, n'est-ce pas ?"
+    mc "On ne voudrait pas que quelqu'un nous interrompe maintenant, n'est-ce pas?"
 
 # game/code/Book-1/Chapter-9/s12.rpy:294
 translate french b1c09s12_sex_aad555df:
 
     # mc "Are you gonna behave for me?"
-    mc "Tu vas bien te comporter pour moi ?"
+    mc "Tu vas bien te comporter pour moi?"
 
 # game/code/Book-1/Chapter-9/s12.rpy:297
 translate french b1c09s12_sex_af200ed0:
@@ -465,7 +465,7 @@ translate french b1c09s12_sex_441ccc96:
 translate french b1c09s12_sex_cf5b9e31:
 
     # mc "Mm, you like being a good slut for me?"
-    mc "Mm, tu aimes être une bonne salope pour moi ?"
+    mc "Mm, tu aimes être une bonne salope pour moi?"
 
 # game/code/Book-1/Chapter-9/s12.rpy:318
 translate french b1c09s12_sex_7baecf90:
@@ -567,7 +567,7 @@ translate french b1c09s12_sex_a44d9ac3:
 translate french b1c09s12_sex_c173aea3:
 
     # ffl "*Moaning loudly* Oh my God!"
-    ffl "*Gémissant fort* Oh mon Dieu !"
+    ffl "*Gémissant fort* Oh mon Dieu!"
 
 # game/code/Book-1/Chapter-9/s12.rpy:405
 translate french b1c09s12_sex_c12a224d:
@@ -585,7 +585,7 @@ translate french b1c09s12_sex_6b5c5947:
 translate french b1c09s12_sex_78a19e3c:
 
     # mc "Didn't I tell you to be quiet?"
-    mc « Ne t'ai-je pas dit de te taire ?
+    mc "Ne t'ai-je pas dit de te taire?"
 
 # game/code/Book-1/Chapter-9/s12.rpy:413
 translate french b1c09s12_sex_6f15a86d:
@@ -609,7 +609,7 @@ translate french b1c09s12_sex_8a309c9d:
 translate french b1c09s12_sex_79976f62:
 
     # ffl "And who do you think made me so needy, hm?"
-    ffl "Et à ton avis, qui m'a rendu si nécessiteux, hm ?"
+    ffl "Et à ton avis, qui m'a rendu si nécessiteux, hm?"
 
 # game/code/Book-1/Chapter-9/s12.rpy:423
 translate french b1c09s12_sex_34996439:
@@ -645,13 +645,13 @@ translate french b1c09s12_sex_91fd074f:
 translate french b1c09s12_sex_3d9b5282:
 
     # mc "You wanted this, didn't you?"
-    mc "Tu voulais ça, n'est-ce pas ?"
+    mc "Tu voulais ça, n'est-ce pas?"
 
 # game/code/Book-1/Chapter-9/s12.rpy:453
 translate french b1c09s12_sex_bed19d0f:
 
     # ffl "*Moans out* Yes! I was a brat on purpose."
-    ffl "*Gémi* Oui ! J'étais un gamin exprès."
+    ffl "*Gémi* Oui! J'étais un gamin exprès."
 
 # game/code/Book-1/Chapter-9/s12.rpy:458
 translate french b1c09s12_sex_08cbca0e:
@@ -669,7 +669,7 @@ translate french b1c09s12_sex_744f791a:
 translate french b1c09s12_sex_bb1c3703:
 
     # mc "Ah, what was that?"
-    mc "Ah, qu'est-ce que c'était ?"
+    mc "Ah, qu'est-ce que c'était?"
 
 # game/code/Book-1/Chapter-9/s12.rpy:465
 translate french b1c09s12_sex_0a94c679:
@@ -705,13 +705,13 @@ translate french b1c09s12_sex_35a4286c:
 translate french b1c09s12_sex_1d636cfa:
 
     # mc "*Whispers* This what you wanted?"
-    mc "*Chuchote* C'est ce que tu voulais ?"
+    mc "*Chuchote* C'est ce que tu voulais?"
 
 # game/code/Book-1/Chapter-9/s12.rpy:483
 translate french b1c09s12_sex_11341816:
 
     # ffl "*Moaning* Mhm!"
-    ffl "*Gémissant* Mhm !"
+    ffl "*Gémissant* Mhm!"
 
 # game/code/Book-1/Chapter-9/s12.rpy:484
 translate french b1c09s12_sex_01dc60bf:
@@ -723,13 +723,13 @@ translate french b1c09s12_sex_01dc60bf:
 translate french b1c09s12_sex_f5568d5c:
 
     # ffl "Mmph, yes! Please, more!"
-    ffl "Mmph, oui ! S'il vous plaît, plus !"
+    ffl "Mmph, oui! S'il vous plaît, plus!"
 
 # game/code/Book-1/Chapter-9/s12.rpy:491
 translate french b1c09s12_sex_3d55b5b1:
 
     # mc "Just my needy little slut. Isn't that right?"
-    mc "Juste ma petite salope dans le besoin. N'est-ce pas ?"
+    mc "Juste ma petite salope dans le besoin. N'est-ce pas?"
 
 # game/code/Book-1/Chapter-9/s12.rpy:492
 translate french b1c09s12_sex_ba3c1666:
@@ -747,7 +747,7 @@ translate french b1c09s12_sex_6f86ff58:
 translate french b1c09s12_sex_de1ccd8a:
 
     # mc "I want you to stay bent over and push your ass out for me, okay?"
-    mc "Je veux que tu restes penché et que tu me pousses le cul, d'accord ?"
+    mc "Je veux que tu restes penché et que tu me pousses le cul, d'accord?"
 
 # game/code/Book-1/Chapter-9/s12.rpy:505
 translate french b1c09s12_sex_7b6eb2df:
@@ -807,19 +807,19 @@ translate french b1c09s12_sex_2c83a815:
 translate french b1c09s12_sex_0b74d074:
 
     # mc "Is that what you want, you needy little slut?"
-    mc "C'est ce que tu veux, petite salope nécessiteuse ?"
+    mc "C'est ce que tu veux, petite salope nécessiteuse?"
 
 # game/code/Book-1/Chapter-9/s12.rpy:551
 translate french b1c09s12_sex_247c6cc4:
 
     # mc "You want everyone to know who owns you?"
-    mc "Tu veux que tout le monde sache à qui tu appartiens ?"
+    mc "Tu veux que tout le monde sache à qui tu appartiens?"
 
 # game/code/Book-1/Chapter-9/s12.rpy:555
 translate french b1c09s12_sex_b7a2b5a5:
 
     # ffl "*Moans* Yes! *Sighs* Yes!"
-    ffl "*Gémit* Oui ! *Soupir* Oui !"
+    ffl "*Gémit* Oui! *Soupir* Oui!"
 
 # game/code/Book-1/Chapter-9/s12.rpy:559
 translate french b1c09s12_sex_6fb2e29d:
@@ -867,7 +867,7 @@ translate french b1c09s12_sex_e3c31382:
 translate french b1c09s12_sex_7a3cc6b1:
 
     # ffl "*Panting* Harder! Give it to me harder."
-    ffl "*Haletant* Plus fort ! Donne-le-moi plus fort."
+    ffl "*Haletant* Plus fort! Donne-le-moi plus fort."
 
 # game/code/Book-1/Chapter-9/s12.rpy:609
 translate french b1c09s12_sex_04926cb1:
@@ -903,7 +903,7 @@ translate french b1c09s12_sex_8097154a:
 translate french b1c09s12_sex_0698dbf1:
 
     # ffl "I-I'm cumming! I'm cumming!"
-    ffl "Je-je jouis ! Je jouis !"
+    ffl "Je-je jouis! Je jouis!"
 
 # game/code/Book-1/Chapter-9/s12.rpy:633
 translate french b1c09s12_sex_6774c669:
@@ -921,7 +921,7 @@ translate french b1c09s12_sex_4bb23444:
 translate french b1c09s12_sex_0c82864a:
 
     # ffl "Fill me up! Ple-please—!"
-    ffl "Remplie-moi ! S'il te plaît—!"
+    ffl "Remplie-moi! S'il te plaît—!"
 
 # game/code/Book-1/Chapter-9/s12.rpy:642
 translate french b1c09s12_sex_60384e7d:
@@ -963,7 +963,7 @@ translate french b1c09s12_sex_6c1ad172:
 translate french b1c09s12_sex_f2b82015:
 
     # ffl "Oh, fuck! *Moans* I'm gonna... cum again..."
-    ffl "Oh, putain ! *Gémissements* Je vais... jouir encore..."
+    ffl "Oh, putain! *Gémissements* Je vais... jouir encore..."
 
 # game/code/Book-1/Chapter-9/s12.rpy:709
 translate french b1c09s12_sex_end_95c7633a:
@@ -987,7 +987,7 @@ translate french b1c09s12_sex_end_844f7090:
 translate french b1c09s12_sex_end_13ac9958:
 
     # mc "Oh. Did you like it?"
-    mc "Oh. Est-ce que tu as aimé ?"
+    mc "Oh. Est-ce que tu as aimé?"
 
 # game/code/Book-1/Chapter-9/s12.rpy:720
 translate french b1c09s12_sex_end_5cbd98c5:
@@ -1083,5 +1083,5 @@ translate french b1c09s12_sex_end_07aeee8e:
 translate french b1c09s12_sex_end_e0542038:
 
     # ffl "*Giggles* Oh God, don't say that!"
-    ffl "*Rires* Oh mon Dieu, ne dis pas ça !"
+    ffl "*Rires* Oh mon Dieu, ne dis pas ça!"
 

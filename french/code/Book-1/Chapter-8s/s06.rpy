@@ -104,7 +104,7 @@ translate french b1c08ss06_9f1a565a:
 translate french b1c08ss06_457d1bea:
 
     # nr "How did you guys get here? We'd almost given up."
-    nr "Comment vous êtes-vous rendus ici ? On avait presque abandonné."
+    nr "Comment vous êtes-vous rendus ici? On avait presque abandonné."
 
 # game/code/Book-1/Chapter-8s/s06.rpy:104
 translate french b1c08ss06_bb602250:
@@ -200,7 +200,7 @@ translate french b1c08ss06_452d1bd8:
 translate french b1c08ss06_a0256286:
 
     # "Guard" "Hey, we got a live one here! Get the other squad out here now!"
-    "Garde" "Hé, on a un survivant ici ! Faites sortir l'autre équipe immédiatement !"
+    "Garde" "Hé, on a un survivant ici! Faites sortir l'autre équipe immédiatement!"
 
 # game/code/Book-1/Chapter-8s/s06.rpy:159
 translate french b1c08ss06_71c001d7:
@@ -218,7 +218,7 @@ translate french b1c08ss06_f8d60fa2:
 translate french b1c08ss06_e688846a:
 
     # "Guard" "Stop whatever the fuck you're doing!"
-    "Garde" "Arrêtez ce que vous foutez !"
+    "Garde" "Arrêtez ce que vous foutez!"
 
 # game/code/Book-1/Chapter-8s/s06.rpy:169
 translate french b1c08ss06_358a671d:
@@ -230,7 +230,7 @@ translate french b1c08ss06_358a671d:
 translate french b1c08ss06_192832db:
 
     # zp "Fuck!"
-    zp "Putain !"
+    zp "Putain!"
 
 # game/code/Book-1/Chapter-8s/s06.rpy:176
 translate french b1c08ss06_d9bc13a7:
@@ -278,19 +278,19 @@ translate french b1c08ss06_7adb83e5:
 translate french b1c08ss06_fd324d68:
 
     # ass "We can't just fucking leave him!"
-    ass "On peut pas simplement le laisser !"
+    ass "On peut pas simplement le laisser!"
 
 # game/code/Book-1/Chapter-8s/s06.rpy:212
 translate french b1c08ss06_f306df62:
 
     # fox "What the fuck is he even doing?!"
-    fox "C'est quoi son putain de plan ?!"
+    fox "C'est quoi son putain de plan?!"
 
 # game/code/Book-1/Chapter-8s/s06.rpy:215
 translate french b1c08ss06_86ec5bce:
 
     # nr "If he told you to leave him, just leave! He can take care of himself, and we can regroup and come back with a more coordinated team."
-    nr "S'il vous a dit de le laisser, laissez-le ! Il peut s'occuper de lui-même, et nous pouvons nous regrouper et revenir avec une équipe plus coordonnée."
+    nr "S'il vous a dit de le laisser, laissez-le! Il peut s'occuper de lui-même, et nous pouvons nous regrouper et revenir avec une équipe plus coordonnée."
 
 # game/code/Book-1/Chapter-8s/s06.rpy:218
 translate french b1c08ss06_71209420:
@@ -326,7 +326,7 @@ translate french b1c08ss06_dde2b441:
 translate french b1c08ss06_8887c677:
 
     # zp "No! We need you to drive the boat. Xasan told me to just leave him. We can't risk everyone else."
-    zp "Non ! On a besoin de toi pour conduire le bateau. Xasan m'a dit de le laisser. On ne peut pas risquer la vie de tout le monde."
+    zp "Non! On a besoin de toi pour conduire le bateau. Xasan m'a dit de le laisser. On ne peut pas risquer la vie de tout le monde."
 
 # game/code/Book-1/Chapter-8s/s06.rpy:232
 translate french b1c08ss06_8c592bd7:
@@ -344,7 +344,7 @@ translate french b1c08ss06_bb0835ed:
 translate french b1c08ss06_e68893ca:
 
     # ass "You can't seriously think of leaving him! What the fuck, Zem?!"
-    ass "Tu ne penses pas sérieusement à le laisser ! C'est quoi ce délire, Zem ?!"
+    ass "Tu ne penses pas sérieusement à le laisser! C'est quoi ce délire, Zem?!"
 
 # game/code/Book-1/Chapter-8s/s06.rpy:238
 translate french b1c08ss06_f9c5e48e:
@@ -362,7 +362,7 @@ translate french b1c08ss06_adfb63fc:
 translate french b1c08ss06_748b310a:
 
     # fox "We need to get the fuck out of here before they realize there's a boat here!"
-    fox "On doit foutre le camp d'ici avant qu'ils se rendent compte qu'il y a un bateau ici !"
+    fox "On doit foutre le camp d'ici avant qu'ils se rendent compte qu'il y a un bateau ici!"
 
 # game/code/Book-1/Chapter-8s/s06.rpy:245
 translate french b1c08ss06_1b63f255:
@@ -398,13 +398,13 @@ translate french b1c08ss06_6b42d948:
 translate french b1c08ss06_f5ffc10b:
 
     # "Guard" "GET THOSE FUCKERS!"
-    "Guard" "ATTRAPEZ CES ENFOIRÉS !"
+    "Guard" "ATTRAPEZ CES ENFOIRÉS!"
 
 # game/code/Book-1/Chapter-8s/s06.rpy:288
 translate french b1c08ss06_f6626f28:
 
     # "Guard" "What's so fuckin' funny to you, asshole?"
-    "Guard" "C'est quoi qui te fait tant rire, connard ?"
+    "Guard" "C'est quoi qui te fait tant rire, connard?"
 
 # game/code/Book-1/Chapter-8s/s06.rpy:290
 translate french b1c08ss06_34f81d5d:
@@ -482,7 +482,7 @@ translate french b1c08ss06_e318d8e2:
 translate french b1c08ss06_0611e7e6:
 
     # mct "No... No!"
-    mct "Non... Non !"
+    mct "Non... Non!"
 
 # game/code/Book-1/Chapter-8s/s06.rpy:347
 translate french b1c08ss06_23b1ad37:

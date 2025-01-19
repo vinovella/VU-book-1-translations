@@ -15,7 +15,7 @@ translate french b1c09s08_0d156095:
 translate french b1c09s08_7f3af49e:
 
     # fox "Oh! Well if it isn't the new guy. Didn't expect to see you here in the off hours."
-    fox "Oh ! Eh bien, si ce n'est pas le nouveau. Je ne m'attendais pas à te voir ici en dehors des heures."
+    fox "Oh! Eh bien, si ce n'est pas le nouveau. Je ne m'attendais pas à te voir ici en dehors des heures."
 
 # game/code/Book-1/Chapter-9/s08.rpy:84
 translate french b1c09s08_befab124:
@@ -39,7 +39,7 @@ translate french b1c09s08_caae02d8:
 translate french b1c09s08_8522a12a:
 
     # mc "Where's Asami? Shouldn't she—"
-    mc "Où est Asami ? Elle ne devrait pas—"
+    mc "Où est Asami? Elle ne devrait pas—"
 
 # game/code/Book-1/Chapter-9/s08.rpy:94
 translate french b1c09s08_99d2b6e3:
@@ -81,7 +81,7 @@ translate french b1c09s08_0c88afa6:
 translate french b1c09s08_0acba845:
 
     # fox "*Giggles* Oh don't be such a teacher's pet!"
-    fox "*Rit* Oh, ne sois pas un chouchou du prof !"
+    fox "*Rit* Oh, ne sois pas un chouchou du prof!"
 
 # game/code/Book-1/Chapter-9/s08.rpy:113
 translate french b1c09s08_c7aed948:
@@ -93,13 +93,13 @@ translate french b1c09s08_c7aed948:
 translate french b1c09s08_d6f79f14:
 
     # gn "Yeah? We're kinda busy here."
-    gn "Ouais ? On est un peu occupées ici."
+    gn "Ouais? On est un peu occupées ici."
 
 # game/code/Book-1/Chapter-9/s08.rpy:118
 translate french b1c09s08_adf5d5d8:
 
     # mc "Planning the event?"
-    mc "Vous planifiez l'événement ?"
+    mc "Vous planifiez l'événement?"
 
 # game/code/Book-1/Chapter-9/s08.rpy:121
 translate french b1c09s08_f3927887:
@@ -147,7 +147,7 @@ translate french b1c09s08_8076e700:
 translate french b1c09s08_sex_f4727c9d:
 
     # fox "There isn't much {i}Syndicate{/i} business going on, but maybe you could help Lilith and I with a fantasy we've been having?"
-    fox "Il n'y a pas beaucoup de business {i}Syndicate{/i} en ce moment, mais peut-être que tu pourrais m'aider, Lilith et moi, avec une fantasme qu'on a en ce moment ?"
+    fox "Il n'y a pas beaucoup de business {i}Syndicate{/i} en ce moment, mais peut-être que tu pourrais m'aider, Lilith et moi, avec une fantasme qu'on a en ce moment?"
 
 # game/code/Book-1/Chapter-9/s08.rpy:149
 translate french b1c09s08_sex_01b474cb:
@@ -159,7 +159,7 @@ translate french b1c09s08_sex_01b474cb:
 translate french b1c09s08_sex_00ea7648:
 
     # mc "Sure. What is it?"
-    mc "Bien sûr. C'est quoi ?"
+    mc "Bien sûr. C'est quoi?"
 
 # game/code/Book-1/Chapter-9/s08.rpy:156
 translate french b1c09s08_sex_1e8af1b4:
@@ -177,7 +177,7 @@ translate french b1c09s08_sex_63800e87:
 translate french b1c09s08_sex_567702d9:
 
     # fox "So what'll it be?"
-    fox "Alors, qu'est-ce que ça va être ?"
+    fox "Alors, qu'est-ce que ça va être?"
 
 # game/code/Book-1/Chapter-9/s08.rpy:177
 translate french b1c09s08_sex_a603b414:
@@ -213,7 +213,7 @@ translate french b1c09s08_no_gn_4f481c87:
 translate french b1c09s08_no_gn_2aa364e4:
 
     # gn "Hah! I told you he wouldn't go for it. Fucking limpdick. Have fun with {i}that one{/i}, Foxy."
-    gn "Hah ! Je t'avais dit qu'il n'accepterait pas. Putain de gars sans couilles. Amuse-toi bien avec {i}celui-là{/i}, Foxy."
+    gn "Hah! Je t'avais dit qu'il n'accepterait pas. Putain de gars sans couilles. Amuse-toi bien avec {i}celui-là{/i}, Foxy."
 
 # game/code/Book-1/Chapter-9/s08.rpy:196
 translate french b1c09s08_no_gn_c857021a:
@@ -237,7 +237,7 @@ translate french b1c09s08_no_gn_84f3c05b:
 translate french b1c09s08_no_gn_3bc9ee43:
 
     # fox "Let's have some fun, shall we? All this work stress has got me amped up."
-    fox "Amusons-nous un peu, d'accord ? Tout ce stress au travail m'a bien excité."
+    fox "Amusons-nous un peu, d'accord? Tout ce stress au travail m'a bien excité."
 
 # game/code/Book-1/Chapter-9/s08.rpy:212
 translate french b1c09s08_no_gn_8e980a92:
@@ -249,7 +249,7 @@ translate french b1c09s08_no_gn_8e980a92:
 translate french b1c09s08_no_gn_16c442c1:
 
     # fox "So just stay still while I have my fun, okay? I'll make you feel so good."
-    fox "Alors reste tranquille pendant que je m'amuse, d'accord ? Je vais te faire sentir si bien."
+    fox "Alors reste tranquille pendant que je m'amuse, d'accord? Je vais te faire sentir si bien."
 
 # game/code/Book-1/Chapter-9/s08.rpy:227
 translate french b1c09s08_no_gn_4f06c3ae:
@@ -321,7 +321,7 @@ translate french b1c09s08_no_gn_357e720f:
 translate french b1c09s08_no_gn_a783c137:
 
     # fox "Where would you like to put all that cum?"
-    fox "Où aimerais-tu mettre tout ce sperme ?"
+    fox "Où aimerais-tu mettre tout ce sperme?"
 
 # game/code/Book-1/Chapter-9/s08.rpy:318
 translate french b1c09s08_no_gn_146cc665:
@@ -333,7 +333,7 @@ translate french b1c09s08_no_gn_146cc665:
 translate french b1c09s08_no_gn_39ff5116:
 
     # fox "Ah, fuck! I'm cumming."
-    fox "Ah, putain ! Je jouis."
+    fox "Ah, putain! Je jouis."
 
 # game/code/Book-1/Chapter-9/s08.rpy:337
 translate french b1c09s08_no_gn_126966b1:
@@ -393,7 +393,7 @@ translate french b1c09s08_no_gn_e4cf0abe:
 translate french b1c09s08_no_gn_79d704f4:
 
     # fox "*Chuckles* You really gave me a load to carry around all day, didn't you?"
-    fox "*Rires* Tu m'as vraiment donné une charge à transporter toute la journée, n'est-ce pas ?"
+    fox "*Rires* Tu m'as vraiment donné une charge à transporter toute la journée, n'est-ce pas?"
 
 # game/code/Book-1/Chapter-9/s08.rpy:419
 translate french b1c09s08_no_gn_8d78dff7:
@@ -411,7 +411,7 @@ translate french b1c09s08_no_gn_ec80541c:
 translate french b1c09s08_no_gn_b82eddd1:
 
     # mc "All business, huh?"
-    mc "Toutes les affaires, hein ?"
+    mc "Toutes les affaires, hein?"
 
 # game/code/Book-1/Chapter-9/s08.rpy:435
 translate french b1c09s08_no_gn_a9847ce3:
@@ -429,7 +429,7 @@ translate french b1c09s08_gn_watching_dab1ccab:
 translate french b1c09s08_gn_watching_17dfa039:
 
     # gn "Ooh! More confident than I thought."
-    gn "Ooh ! Plus confiant que je ne le pensais."
+    gn "Ooh! Plus confiant que je ne le pensais."
 
 # game/code/Book-1/Chapter-9/s08.rpy:465
 translate french b1c09s08_gn_watching_b4f8ec22:
@@ -441,7 +441,7 @@ translate french b1c09s08_gn_watching_b4f8ec22:
 translate french b1c09s08_gn_watching_cc7bfefe:
 
     # gn "He's already as excited as we are. That's a nice sight. Why don't you give him a little incentive, Foxy?"
-    gn "Il est déjà aussi excité que nous. C'est un joli spectacle. Pourquoi ne lui donnes-tu pas un petit encouragement, Foxy ?"
+    gn "Il est déjà aussi excité que nous. C'est un joli spectacle. Pourquoi ne lui donnes-tu pas un petit encouragement, Foxy?"
 
 # game/code/Book-1/Chapter-9/s08.rpy:478
 translate french b1c09s08_gn_watching_c4c40da1:
@@ -501,7 +501,7 @@ translate french b1c09s08_gn_watching_b451cef7:
 translate french b1c09s08_gn_watching_d8e678ca:
 
     # gn "Do you want to cum in her mouth or on our faces?"
-    gn "Veux-tu jouir dans sa bouche ou sur nos visages ?"
+    gn "Veux-tu jouir dans sa bouche ou sur nos visages?"
 
 # game/code/Book-1/Chapter-9/s08.rpy:555
 translate french b1c09s08_gn_watching_400ab06c:
@@ -549,7 +549,7 @@ translate french b1c09s08_gn_watching_ebdf99f0:
 translate french b1c09s08_gn_watching_d3c915b5:
 
     # gn "Mmm! You taste good."
-    gn "Mmm ! Tu as bon goût."
+    gn "Mmm! Tu as bon goût."
 
 # game/code/Book-1/Chapter-9/s08.rpy:607
 translate french b1c09s08_gn_watching_a55532f5:
@@ -597,7 +597,7 @@ translate french b1c09s08_gn_watching_64b9555c:
 translate french b1c09s08_gn_watching_7c5b8256:
 
     # mc "Fuck! That feels good."
-    mc "Putain ! Ça fait du bien."
+    mc "Putain! Ça fait du bien."
 
 # game/code/Book-1/Chapter-9/s08.rpy:637
 translate french b1c09s08_gn_watching_d324fb48:
@@ -686,14 +686,14 @@ translate french b1c09s08_after_sex_8395e393:
 # game/code/Book-1/Chapter-9/s08.rpy:706
 translate french b1c09s08_after_sex_a78f7c1e:
 
-    # "Assure-toi de me garder quelques martinis ce soir, d'accord ? -Gabbie"
-    "Assure-toi de me garder quelques martinis ce soir, d'accord ? -Gabbie"
+    # "Assure-toi de me garder quelques martinis ce soir, d'accord? -Gabbie"
+    "Assure-toi de me garder quelques martinis ce soir, d'accord? -Gabbie"
 
 # game/code/Book-1/Chapter-9/s08.rpy:711
 translate french b1c09s08_after_sex_4beaf5aa:
 
-    # mct "Gabbie ? Ça doit être la dame de la cantine."
-    mct "Gabbie ? Ça doit être la dame de la cantine."
+    # mct "Gabbie? Ça doit être la dame de la cantine."
+    mct "Gabbie? Ça doit être la dame de la cantine."
 
 # game/code/Book-1/Chapter-9/s08.rpy:713
 translate french b1c09s08_after_sex_b931c4bf:
@@ -734,8 +734,8 @@ translate french b1c09s08_after_sex_b98a9d8a:
 # game/code/Book-1/Chapter-9/s08.rpy:733
 translate french b1c09s08_after_sex_bfd0cc07:
 
-    # mct "Tiens. Gabbie doit travailler ici si elle a un tiroir à dossiers rien que pour elle. Peut-être qu'elle gère les finances du bar ou quelque chose du genre ?"
-    mct "Tiens. Gabbie doit travailler ici si elle a un tiroir à dossiers rien que pour elle. Peut-être qu'elle gère les finances du bar ou quelque chose du genre ?"
+    # mct "Tiens. Gabbie doit travailler ici si elle a un tiroir à dossiers rien que pour elle. Peut-être qu'elle gère les finances du bar ou quelque chose du genre?"
+    mct "Tiens. Gabbie doit travailler ici si elle a un tiroir à dossiers rien que pour elle. Peut-être qu'elle gère les finances du bar ou quelque chose du genre?"
 
 # game/code/Book-1/Chapter-9/s08.rpy:735
 translate french b1c09s08_after_sex_a151b70a:
@@ -746,8 +746,8 @@ translate french b1c09s08_after_sex_a151b70a:
 # game/code/Book-1/Chapter-9/s08.rpy:740
 translate french b1c09s08_after_sex_326c8ed7:
 
-    # mct "Tiens. C'est bizarre. Pourquoi garderait-elle un téléphone cassé ?"
-    mct "Tiens. C'est bizarre. Pourquoi garderait-elle un téléphone cassé ?"
+    # mct "Tiens. C'est bizarre. Pourquoi garderait-elle un téléphone cassé?"
+    mct "Tiens. C'est bizarre. Pourquoi garderait-elle un téléphone cassé?"
 
 # game/code/Book-1/Chapter-9/s08.rpy:742
 translate french b1c09s08_after_sex_4bb5db7b:

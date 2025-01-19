@@ -45,7 +45,7 @@ translate french b1c08ws09_e5e4940f:
 translate french b1c08ws09_9ccce985:
 
     # mct "Shit. Should I leave her be? I didn't mean to run into anyone on the team just yet."
-    mct "Merde. Dois-je la laisser tranquille ? Je ne voulais pas encore rencontrer quelqu'un dans l'équipe."
+    mct "Merde. Dois-je la laisser tranquille? Je ne voulais pas encore rencontrer quelqu'un dans l'équipe."
 
 # game/code/Book-1/Chapter-8w/s09.rpy:38
 translate french b1c08ws09_8329c342:
@@ -69,7 +69,7 @@ translate french b1c08ws09_a03304df:
 translate french b1c08ws09_a93c49e2:
 
     # oa "Where were you!? We were worried!"
-    oa "Où étais-tu !? Nous étions inquiets!"
+    oa "Où étais-tu!? Nous étions inquiets!"
 
 # game/code/Book-1/Chapter-8w/s09.rpy:52
 translate french b1c08ws09_feb53fe2:
@@ -111,7 +111,7 @@ translate french b1c08ws09_4410479b:
 translate french b1c08ws09_87b7016a:
 
     # oa "What happened? Was it the drugs? I know you looked awful after the game, but like...are you okay now? Do you need to go to the hospital?"
-    oa "Que s'est-il passé ? C'était à cause des drogues ? Je sais que tu avais l'air horrible après le match, mais... ça va maintenant ? Tu as besoin d'aller à l'hôpital ?"
+    oa "Que s'est-il passé? C'était à cause des drogues? Je sais que tu avais l'air horrible après le match, mais... ça va maintenant? Tu as besoin d'aller à l'hôpital?"
 
 # game/code/Book-1/Chapter-8w/s09.rpy:70
 translate french b1c08ws09_43e26a72:
@@ -123,7 +123,7 @@ translate french b1c08ws09_43e26a72:
 translate french b1c08ws09_a7891b88:
 
     # oa "Someone?"
-    oa "Quelqu'un ?"
+    oa "Quelqu'un?"
 
 # game/code/Book-1/Chapter-8w/s09.rpy:76
 translate french b1c08ws09_43b12a88:
@@ -201,7 +201,7 @@ translate french b1c08ws09_8696d72a:
 translate french b1c08ws09_cddce01d:
 
     # mc "I... You said that before as well. Has something like this happened before me?"
-    mc "Je... Tu as dit ça avant aussi. Quelque chose comme ça s'est déjà produit avant moi ?"
+    mc "Je... Tu as dit ça avant aussi. Quelque chose comme ça s'est déjà produit avant moi?"
 
 # game/code/Book-1/Chapter-8w/s09.rpy:112
 translate french b1c08ws09_e5f03bcc:
@@ -219,7 +219,7 @@ translate french b1c08ws09_66a81e15:
 translate french b1c08ws09_84b68073:
 
     # mct "Huh, interesting. I wonder if I have something to do with that change?"
-    mct "Huh, intéressant. Je me demande si j'ai quelque chose à voir avec ce changement ?"
+    mct "Huh, intéressant. Je me demande si j'ai quelque chose à voir avec ce changement?"
 
 # game/code/Book-1/Chapter-8w/s09.rpy:121
 translate french b1c08ws09_ec71f3f7:
@@ -369,13 +369,13 @@ translate french b1c08ws09_75610801:
 translate french b1c08ws09_3daaba2e:
 
     # mc "Monika? Why would she do that?"
-    mc "Monika ? Pourquoi ferait-elle ça ?"
+    mc "Monika? Pourquoi ferait-elle ça?"
 
 # game/code/Book-1/Chapter-8w/s09.rpy:194
 translate french b1c08ws09_28f1f669:
 
     # oa "Well, you two bunked right?"
-    oa "Eh bien, vous partagiez la même chambre, non ?"
+    oa "Eh bien, vous partagiez la même chambre, non?"
 
 # game/code/Book-1/Chapter-8w/s09.rpy:195
 translate french b1c08ws09_0996cb3f:
@@ -393,7 +393,7 @@ translate french b1c08ws09_f53cadf0:
 translate french b1c08ws09_21322bb8:
 
     # mc "Not really, no. What's your history with Monika anyway? I've noticed you two being at each other's throats."
-    mc "Pas vraiment, non. Quelle est ton histoire avec Monika ? J'ai remarqué que vous vous en preniez l'une à l'autre."
+    mc "Pas vraiment, non. Quelle est ton histoire avec Monika? J'ai remarqué que vous vous en preniez l'une à l'autre."
 
 # game/code/Book-1/Chapter-8w/s09.rpy:201
 translate french b1c08ws09_0fdaf12b:
@@ -471,7 +471,7 @@ translate french b1c08ws09_a800ec1b:
 translate french b1c08ws09_5c3a0acd:
 
     # mc "Well, like you said, we gotta stick together, right?"
-    mc "Eh bien, comme tu l'as dit, on doit rester soudés, non ?"
+    mc "Eh bien, comme tu l'as dit, on doit rester soudés, non?"
 
 # game/code/Book-1/Chapter-8w/s09.rpy:234
 translate french b1c08ws09_3862091f:
@@ -489,13 +489,13 @@ translate french b1c08ws09_8683fe82:
 translate french b1c08ws09_56f2c6a0:
 
     # oa "*Chuckles* Looks like someone is finally feeling the weight of the day, huh?"
-    oa "*Rit* On dirait que quelqu'un commence enfin à sentir le poids de la journée, hein ?"
+    oa "*Rit* On dirait que quelqu'un commence enfin à sentir le poids de la journée, hein?"
 
 # game/code/Book-1/Chapter-8w/s09.rpy:243
 translate french b1c08ws09_ab398927:
 
     # mc "Guilty as charged. Can you blame me? It's been quite the eventful day."
-    mc "Coupable du chef d'accusation. Tu peux me blâmer ? Ça a été une journée bien remplie."
+    mc "Coupable du chef d'accusation. Tu peux me blâmer? Ça a été une journée bien remplie."
 
 # game/code/Book-1/Chapter-8w/s09.rpy:246
 translate french b1c08ws09_2a082f38:
@@ -555,7 +555,7 @@ translate french b1c08ws09_7114df80:
 translate french b1c08ws09_e29b3ab1:
 
     # mc "Huh—?"
-    mc "Hein— ?"
+    mc "Hein—?"
 
 # game/code/Book-1/Chapter-8w/s09.rpy:271
 translate french b1c08ws09_705dc3c5:

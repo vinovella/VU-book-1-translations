@@ -3,7 +3,7 @@
 translate french b1c08ws03_939b5974:
 
     # mm "Now this is what I'm talking about!"
-    mm "Voilà ce dont je parle !"
+    mm "Voilà ce dont je parle!"
 
 # game/code/Book-1/Chapter-8w/s03.rpy:23
 translate french b1c08ws03_0e8aa2c4:
@@ -39,7 +39,7 @@ translate french b1c08ws03_0e0dfb0a:
 translate french b1c08ws03_966336e7:
 
     # mm "Can't say what?"
-    mm "Tu ne peux pas dire quoi ?"
+    mm "Tu ne peux pas dire quoi?"
 
 # game/code/Book-1/Chapter-8w/s03.rpy:40
 translate french b1c08ws03_a9e691a4:
@@ -51,7 +51,7 @@ translate french b1c08ws03_a9e691a4:
 translate french b1c08ws03_2cc19f68:
 
     # mm "The fuck are you two trying to hide from me?"
-    mm "Qu'est-ce que vous essayez de me cacher, tous les deux ?"
+    mm "Qu'est-ce que vous essayez de me cacher, tous les deux?"
 
 # game/code/Book-1/Chapter-8w/s03.rpy:46
 translate french b1c08ws03_ddf3d74f:
@@ -63,7 +63,7 @@ translate french b1c08ws03_ddf3d74f:
 translate french b1c08ws03_454e5291:
 
     # mm "You! [mcname]. New guy. You're contractually obligated to fulfill my every request."
-    mm "Toi ! [mcname]. Le nouveau. Tu es contractuellement obligé de satisfaire toutes mes demandes."
+    mm "Toi! [mcname]. Le nouveau. Tu es contractuellement obligé de satisfaire toutes mes demandes."
 
 # game/code/Book-1/Chapter-8w/s03.rpy:52
 translate french b1c08ws03_35a381a8:
@@ -75,7 +75,7 @@ translate french b1c08ws03_35a381a8:
 translate french b1c08ws03_090728f9:
 
     # mm "What the fuck is that queer on about?"
-    mm "C'est quoi ce pédé raconte ?"
+    mm "C'est quoi ce pédé raconte?"
 
 # game/code/Book-1/Chapter-8w/s03.rpy:58
 translate french b1c08ws03_2faf26db:
@@ -87,49 +87,49 @@ translate french b1c08ws03_2faf26db:
 translate french b1c08ws03_d1266bce:
 
     # mc "Ever heard about how you shouldn't bring a blacklight to your hotel room?"
-    mc "Tu as déjà entendu parler du fait qu'il ne faut pas amener une lampe UV dans ta chambre d'hôtel ?"
+    mc "Tu as déjà entendu parler du fait qu'il ne faut pas amener une lampe UV dans ta chambre d'hôtel?"
 
 # game/code/Book-1/Chapter-8w/s03.rpy:63
 translate french b1c08ws03_b717f728:
 
     # mm "Blacklight...?"
-    mm "Lampe UV... ?"
+    mm "Lampe UV...?"
 
 # game/code/Book-1/Chapter-8w/s03.rpy:67
 translate french b1c08ws03_1e668ed1:
 
     # mm "OH MY GOD!"
-    mm "OH MON DIEU !"
+    mm "OH MON DIEU!"
 
 # game/code/Book-1/Chapter-8w/s03.rpy:68
 translate french b1c08ws03_b695748c:
 
     # mm "How the fuck could you say something like that, you braindead turd!?"
-    mm "Comment tu peux dire un truc pareil, espèce de connard sans cervelle !?"
+    mm "Comment tu peux dire un truc pareil, espèce de connard sans cervelle!?"
 
 # game/code/Book-1/Chapter-8w/s03.rpy:71
 translate french b1c08ws03_f7a84583:
 
     # sl "That's racist!"
-    sl "C'est raciste !"
+    sl "C'est raciste!"
 
 # game/code/Book-1/Chapter-8w/s03.rpy:78
 translate french b1c08ws03_3b74dfc4:
 
     # sl "Also, what the fuck!? I didn't even say nothin'!"
-    sl "En plus, qu'est-ce que c'est que ce bordel !? J'ai même rien dit !"
+    sl "En plus, qu'est-ce que c'est que ce bordel!? J'ai même rien dit!"
 
 # game/code/Book-1/Chapter-8w/s03.rpy:82
 translate french b1c08ws03_59ed10ee:
 
     # mm "You were gonna! That's terrible enough."
-    mm "Tu allais le faire ! C'est déjà suffisant comme horreur."
+    mm "Tu allais le faire! C'est déjà suffisant comme horreur."
 
 # game/code/Book-1/Chapter-8w/s03.rpy:86
 translate french b1c08ws03_0c578667:
 
     # sl "Fuck off! You can't punish me for thought crimes, woman!"
-    sl "Va te faire foutre ! Tu peux pas me punir pour des crimes de pensée, espèce de folle !"
+    sl "Va te faire foutre! Tu peux pas me punir pour des crimes de pensée, espèce de folle!"
 
 # game/code/Book-1/Chapter-8w/s03.rpy:89
 translate french b1c08ws03_58419b2c:
@@ -159,7 +159,7 @@ translate french b1c08ws03_1e79854c:
 translate french b1c08ws03_71727b82:
 
     # mm "Bring back some booze!"
-    mm "Ramène de l'alcool !"
+    mm "Ramène de l'alcool!"
 
 # game/code/Book-1/Chapter-8w/s03.rpy:106
 translate french b1c08ws03_75817f54:
@@ -171,7 +171,7 @@ translate french b1c08ws03_75817f54:
 translate french b1c08ws03_aecaaf64:
 
     # mm "I can't fucking drive!"
-    mm "Je ne sais même pas conduire, bordel !"
+    mm "Je ne sais même pas conduire, bordel!"
 
 # game/code/Book-1/Chapter-8w/s03.rpy:124
 translate french b1c08ws03_3bd71d97:
@@ -183,13 +183,13 @@ translate french b1c08ws03_3bd71d97:
 translate french b1c08ws03_c56e31f4:
 
     # mc "You sure got something in your mind, huh?"
-    mc "Tu as vraiment quelque chose en tête, hein ?"
+    mc "Tu as vraiment quelque chose en tête, hein?"
 
 # game/code/Book-1/Chapter-8w/s03.rpy:130
 translate french b1c08ws03_1531cd0c:
 
     # mc "Do you mind?"
-    mc "Ça te dérange ?"
+    mc "Ça te dérange?"
 
 # game/code/Book-1/Chapter-8w/s03.rpy:135
 translate french b1c08ws03_e56c1819:
@@ -201,7 +201,7 @@ translate french b1c08ws03_e56c1819:
 translate french b1c08ws03_4b59f67b:
 
     # sm "What makes you think I have something on my mind?"
-    sm "Qu'est-ce qui te fait penser que j'ai quelque chose en tête ?"
+    sm "Qu'est-ce qui te fait penser que j'ai quelque chose en tête?"
 
 # game/code/Book-1/Chapter-8w/s03.rpy:148
 translate french b1c08ws03_d698b1a4:
@@ -231,7 +231,7 @@ translate french b1c08ws03_dc569910:
 translate french b1c08ws03_b85746b1:
 
     # mc "What's on your mind?"
-    mc "Qu'est-ce que tu as en tête ?"
+    mc "Qu'est-ce que tu as en tête?"
 
 # game/code/Book-1/Chapter-8w/s03.rpy:159
 translate french b1c08ws03_75e2cae3:
@@ -243,19 +243,19 @@ translate french b1c08ws03_75e2cae3:
 translate french b1c08ws03_54c1573c:
 
     # sm "Hm? What do you mean?"
-    sm "Hm ? Qu'est-ce que tu veux dire ?"
+    sm "Hm? Qu'est-ce que tu veux dire?"
 
 # game/code/Book-1/Chapter-8w/s03.rpy:164
 translate french b1c08ws03_a5cb3ddd:
 
     # mc "I know there's something in that brain of yours that's making you worried. What is it?"
-    mc "Je sais qu'il y a quelque chose dans cette tête qui te rend inquiète. C'est quoi ?"
+    mc "Je sais qu'il y a quelque chose dans cette tête qui te rend inquiète. C'est quoi?"
 
 # game/code/Book-1/Chapter-8w/s03.rpy:168
 translate french b1c08ws03_585ece96:
 
     # sm "*Chuckles* You're a real detective, huh?"
-    sm "*Rit* T'es vraiment un détective, hein ?"
+    sm "*Rit* T'es vraiment un détective, hein?"
 
 # game/code/Book-1/Chapter-8w/s03.rpy:171
 translate french b1c08ws03_17f8edf2:
@@ -267,7 +267,7 @@ translate french b1c08ws03_17f8edf2:
 translate french b1c08ws03_14ca628e:
 
     # sm "So... You're a busybody is what you're saying?"
-    sm "Donc... Tu dis que t'es un fouineur ?"
+    sm "Donc... Tu dis que t'es un fouineur?"
 
 # game/code/Book-1/Chapter-8w/s03.rpy:177
 translate french b1c08ws03_4a5f6333:
@@ -291,7 +291,7 @@ translate french b1c08ws03_4aebc4c6:
 translate french b1c08ws03_cf7aab79:
 
     # mc "Have you perhaps thought about talking about how you're feeling instead of drowning those emotions in drink?"
-    mc "As-tu pensé à parler de ce que tu ressens au lieu de noyer ces émotions dans l'alcool ?"
+    mc "As-tu pensé à parler de ce que tu ressens au lieu de noyer ces émotions dans l'alcool?"
 
 # game/code/Book-1/Chapter-8w/s03.rpy:190
 translate french b1c08ws03_f8e74273:
@@ -327,7 +327,7 @@ translate french b1c08ws03_71885a50:
 translate french b1c08ws03_db19a229:
 
     # mc "There's a press conference being held tomorrow?"
-    mc "Il y a une conférence de presse demain ?"
+    mc "Il y a une conférence de presse demain?"
 
 # game/code/Book-1/Chapter-8w/s03.rpy:205
 translate french b1c08ws03_8d236351:
@@ -339,7 +339,7 @@ translate french b1c08ws03_8d236351:
 translate french b1c08ws03_a43901f4:
 
     # mc "Huh, first I'm hearing of this. Are we going?"
-    mc "Ah, c'est la première fois que j'en entends parler. On y va ?"
+    mc "Ah, c'est la première fois que j'en entends parler. On y va?"
 
 # game/code/Book-1/Chapter-8w/s03.rpy:211
 translate french b1c08ws03_e3034845:
@@ -453,7 +453,7 @@ translate french b1c08ws03_7f113209:
 translate french b1c08ws03_96235f48:
 
     # mc "Is everything okay?"
-    mc "Tout va bien ?"
+    mc "Tout va bien?"
 
 # game/code/Book-1/Chapter-8w/s03.rpy:260
 translate french b1c08ws03_57dc4560:
