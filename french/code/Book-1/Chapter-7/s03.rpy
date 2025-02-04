@@ -698,7 +698,7 @@ translate french b1c07s03_ff6715ba:
 translate french b1c07s03_9da0e732:
 
     # mct "Oh boy."
-    mct "Oh boy."
+    mct "Oh mon garçon."
 
 # game/code/Book-1/Chapter-7/s03.rpy:431
 translate french b1c07s03_d0bd4d3d:
