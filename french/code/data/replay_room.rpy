@@ -255,7 +255,7 @@ translate french strings:
 
     # game/code/data/replay_room.rpy:5
     old "Encourage Iona."
-    new "Encourage Iona."
+    new "Encouragez Iona."
 
     # game/code/data/replay_room.rpy:5
     old "C08: Holding Moans With Monika"
