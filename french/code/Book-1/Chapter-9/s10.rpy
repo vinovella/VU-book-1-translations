@@ -962,7 +962,7 @@ translate french strings:
 
     # game/code/Book-1/Chapter-9/s10.rpy:420
     old "Talk with your body"
-    new "Talk with your body"
+    new "Parlez avec votre corps"
 
     # game/code/Book-1/Chapter-9/s10.rpy:420
     old "Throw her in the pool"
