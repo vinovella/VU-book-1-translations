@@ -236,5 +236,5 @@
 translate french post_credit_scene_81334a09:
 
     # "Everyone" "Hurray!"
-    "Everyone" "Hurray!"
+    "Tout le monde" "Hourra!"
 
