@@ -867,5 +867,5 @@ translate french strings:
 
     # game/code/Book-1/Chapter-6c/s03.rpy:9
     old "Some time later"
-    new "Some time later"
+    new "Quelque temps plus tard"
 
