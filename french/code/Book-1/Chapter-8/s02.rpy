@@ -716,7 +716,7 @@ translate french b1c08s02_jh_kiss_cea57119:
 translate french b1c08s02_jh_kiss_31219e04:
 
     # mc "That and pure, unadulterated charisma."
-    mc "That and pure, unadulterated charisma."
+    mc "Cela et un charisme pur et sans faille."
 
 # game/code/Book-1/Chapter-8/s02.rpy:383
 translate french b1c08s02_jh_kiss_a1c08a18:
