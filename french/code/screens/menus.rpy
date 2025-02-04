@@ -99,7 +99,7 @@ translate french strings:
 
     # game/code/screens/menus.rpy:634
     old "Ren'Py Save Sync"
-    new "Synchronisation des sauvegardes Ren'Py"
+    new "Ren'Py Save Sync"
 
     # game/code/screens/menus.rpy:637
     old "Enabled"
@@ -233,7 +233,7 @@ translate french strings:
     old "The dialogue history is empty."
     new "L'historique des dialogues est vide."
 
-   # game/code/screens/menus.rpy:1148
+    # game/code/screens/menus.rpy:1148
     old "Keyboard"
     new "Clavier"
 
