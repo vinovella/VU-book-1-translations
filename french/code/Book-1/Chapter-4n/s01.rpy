@@ -356,5 +356,5 @@ translate french b1c04ns01_a3b1a71e:
 translate french b1c04ns01_dd177510:
 
     # dk "Fuck... I'm so close."
-    dk "Fuck... I'm so close."
+    dk "Putain... je suis si proche."
 
