@@ -885,7 +885,7 @@ translate french b1c09s15_sex_karaoke_end_10de9ea6:
 translate french b1c09s15_sex_karaoke_end_90d5d8ab:
 
     # "As [c2.name!t]'s orgasm pulses over you, [c1.name!t] grinds herself harder on your cock." id b1c09s15_sex_karaoke_end_90d5d8ab
-    "As [c2.name!t]'s orgasm pulses over you, [c1.name!t] grinds herself harder on your cock." id b1c09s15_sex_karaoke_end_90d5d8ab
+    "Alors que l'orgasme de [c2.name!t] palpite sur toi, [c1.name!t] se branle plus fort sur ta bite." id b1c09s15_sex_karaoke_end_90d5d8ab
 
 # game/code/Book-1/Chapter-9/s15.rpy:1196
 translate french b1c09s15_sex_karaoke_end_2eea37aa:
