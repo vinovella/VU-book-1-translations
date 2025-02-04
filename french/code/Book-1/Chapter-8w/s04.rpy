@@ -459,7 +459,7 @@ translate french b1c08ws04_sex_1737dc29:
 translate french b1c08ws04_sex_a49d7f08:
 
     # "Her body goes limp on top of you as you feel her orgasm rip through her. You grab her and hold her steady, breathless and satisfied in each other's arms."
-    "Her body goes limp on top of you as you feel her orgasm rip through her. You grab her and hold her steady, breathless and satisfied in each other's arms."
+    "Son corps devient mou sur vous lorsque vous sentez son orgasme la traverser. Vous l'attrapez et la tenez stable, essoufflée et satisfaite dans les bras l'un de l'autre."
 
 # game/code/Book-1/Chapter-8w/s04.rpy:356
 translate french b1c08ws04_sex_14a3c03d:
