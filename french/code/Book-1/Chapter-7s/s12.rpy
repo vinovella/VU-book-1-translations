@@ -278,13 +278,13 @@ translate french b1c07ss12_b1315abe:
 translate french b1c07ss12_past_25624a90:
 
     # cbp "{i}Move out of the way, Morgan.{/i}"
-    cbp "{i}Move out of the way, Morgan.{/i}"
+    cbp "{i}Écartez-vous, Morgan.{/i}"
 
 # game/code/Book-1/Chapter-7s/s12.rpy:182
 translate french b1c07ss12_past_49d93e12:
 
     # mg "{i}What the hell happened to you, Cori? This is what it all led up to? Beating the fuck out of your friends, your sister?{/i}"
-    mg "{i}What the hell happened to you, Cori? This is what it all led up to? Beating the fuck out of your friends, your sister?{/i}"
+    mg "{i}Qu'est-ce qui t'est arrivé, Cori ? C'est à cela que tout cela a mené ? Battre tes amis, ta sœur ?{/i}"
 
 # game/code/Book-1/Chapter-7s/s12.rpy:190
 translate french b1c07ss12_past_c8b5a79f:
