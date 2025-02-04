@@ -584,7 +584,7 @@ translate french b1c08cs04_sex_40f3423c:
 translate french b1c08cs04_sex_0969c870:
 
     # mc "You want me to slip a finger inside?"
-    mc "You want me to slip a finger inside?"
+    mc "Tu veux que je glisse un doigt à l'intérieur?"
 
 # game/code/Book-1/Chapter-8c/s04.rpy:342
 translate french b1c08cs04_sex_010f7a25:
