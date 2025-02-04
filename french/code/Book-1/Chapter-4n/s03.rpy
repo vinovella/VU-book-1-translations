@@ -488,5 +488,5 @@ translate french b1c04ns03_72bf3cde:
 translate french b1c04ns03_fe2834e2:
 
     # mct "Well, I should get to that seminar. But I must hide this somewhere in my dorm first."
-    mct "Well, I should get to that seminar. But I must hide this somewhere in my dorm first."
+    mct "Eh bien, je devrais aller à ce séminaire. Mais je dois d'abord cacher ça quelque part dans mon dortoir."
 
