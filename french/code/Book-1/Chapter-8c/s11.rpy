@@ -410,7 +410,7 @@ translate french b1c08cs11_e062b230:
 translate french b1c08cs11_8d7b1c6b:
 
     # "You pull out and face Ivy toward you. Her eyes are beautiful in the moonlight."
-    "You pull out and face Ivy toward you. Her eyes are beautiful in the moonlight."
+    "Vous vous retirez et faites face à Ivy vers vous. Ses yeux sont magnifiques au clair de lune."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:297
 translate french b1c08cs11_dcac1483:
