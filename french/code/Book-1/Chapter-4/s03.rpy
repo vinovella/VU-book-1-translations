@@ -189,5 +189,5 @@ translate french b1c04m3_df16b3ae:
 translate french b1c04m3_dd002af2:
 
     # lw "C'mon Josie! Focus."
-    lw "Allez Josie ! Se concentrer."
+    lw "Allez Josie! Se concentrer."
 
