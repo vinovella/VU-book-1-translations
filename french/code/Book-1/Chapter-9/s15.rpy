@@ -933,7 +933,7 @@ translate french b1c09s15_sex_karaoke_end_c20b37c5:
 translate french b1c09s15_sex_karaoke_end_79077bcc:
 
     # "[c1.name!t] kneels down and buries her face between [c2.name!t]'s legs, lapping at her clit with abandon as you begin to push inside." id b1c09s15_sex_karaoke_end_79077bcc
-    "[c1.name!t] kneels down and buries her face between [c2.name!t]'s legs, lapping at her clit with abandon as you begin to push inside." id b1c09s15_sex_karaoke_end_79077bcc
+    "[c1.name!t] s'agenouille et enfouit son visage entre les jambes de [c2.name!t], léchant son clitoris avec abandon alors que vous commencez à pousser à l'intérieur." id b1c09s15_sex_karaoke_end_79077bcc
 
 # game/code/Book-1/Chapter-9/s15.rpy:1241
 translate french b1c09s15_sex_karaoke_end_9f979996:
