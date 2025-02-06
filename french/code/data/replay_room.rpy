@@ -3,27 +3,27 @@ translate french strings:
 
     # game/code/data/replay_room.rpy:5
     old "C01: Opening Cutscene"
-    new "C01 : Scène d'ouverture"
+    new "C01: Scène d'ouverture"
 
     # game/code/data/replay_room.rpy:5
     old "C02: Training Cutscene"
-    new "C02 : Scène d'entraînement"
+    new "C02: Scène d'entraînement"
 
     # game/code/data/replay_room.rpy:5
     old "C04: Phoebe Dream"
-    new "C04 : Rêve de Phoebe"
+    new "C04: Rêve de Phoebe"
 
     # game/code/data/replay_room.rpy:5
     old "C04: Delphia Masturbating"
-    new "C04 : Delphia en train de se masturber"
+    new "C04: Delphia en train de se masturber"
 
     # game/code/data/replay_room.rpy:5
     old "C04: Painting Delphia"
-    new "C04 : Peindre Delphia"
+    new "C04: Peindre Delphia"
 
     # game/code/data/replay_room.rpy:5
     old "C04: Locker Room Fling With Iona"
-    new "C04 : Aventure dans les vestiaires avec Iona"
+    new "C04: Fellation de Iona"
 
     # game/code/data/replay_room.rpy:5
     old "You like partying."
@@ -31,7 +31,7 @@ translate french strings:
 
     # game/code/data/replay_room.rpy:5
     old "C04: Favor From Nirmala"
-    new "C04 : Service de Nirmala"
+    new "C04: Service de Nirmala"
 
     # game/code/data/replay_room.rpy:5
     old "Redeem the favor."
@@ -39,15 +39,15 @@ translate french strings:
 
     # game/code/data/replay_room.rpy:5
     old "C05: Josie Sleepwalk"
-    new "C05 : Somnambulisme de Josie"
+    new "C05: Somnambulisme de Josie"
 
     # game/code/data/replay_room.rpy:5
     old "C05: Private Lesson With Ronja"
-    new "C05 : Cours particulier avec Ronja"
+    new "C05: Cours particulier avec Ronja"
 
     # game/code/data/replay_room.rpy:5
     old "C06: Ronja Booty Call"
-    new "C06 : Appel de Ronja"
+    new "C06: Appel de Ronja"
 
     # game/code/data/replay_room.rpy:5
     old "Call Ronja."
@@ -55,7 +55,7 @@ translate french strings:
 
     # game/code/data/replay_room.rpy:5
     old "C06: Free Bone From Delphia"
-    new "C06 : Prendre un os gratuit de Delphia"
+    new "C06: Fellation de Delphia"
 
     # game/code/data/replay_room.rpy:5
     old "Ask the right questions."
@@ -63,7 +63,7 @@ translate french strings:
 
     # game/code/data/replay_room.rpy:5
     old "C06: Worshipping Sally"
-    new "C06 : Adorer Sally"
+    new "C06: Adorer Sally"
 
     # game/code/data/replay_room.rpy:5
     old "Stay with Sally."
@@ -71,7 +71,7 @@ translate french strings:
 
     # game/code/data/replay_room.rpy:5
     old "C06: Handjob From Fleur"
-    new "C06 : Fellation de Fleur"
+    new "C06: Fellation de Fleur"
 
     # game/code/data/replay_room.rpy:5
     old "Let Fleur continue."
@@ -79,11 +79,11 @@ translate french strings:
 
     # game/code/data/replay_room.rpy:5
     old "C06: Pool Game With Nirmala"
-    new "C06 : Jeu de billard avec Nirmala"
+    new "C06: Jeu de billard avec Nirmala"
 
     # game/code/data/replay_room.rpy:5
     old "C06: Finish What Fleur Started"
-    new "C06 : Finir ce que Fleur a commencé"
+    new "C06: Finir ce que Fleur a commencé"
 
     # game/code/data/replay_room.rpy:5
     old "Go with Fleur."
@@ -91,7 +91,7 @@ translate french strings:
 
     # game/code/data/replay_room.rpy:5
     old "C06: Help From Iona"
-    new "C06 : Aide d'Iona"
+    new "C06: Aide d'Iona"
 
     # game/code/data/replay_room.rpy:5
     old "Go with Iona."
@@ -99,7 +99,7 @@ translate french strings:
 
     # game/code/data/replay_room.rpy:5
     old "C07: Diana Jumps You"
-    new "C07 : Diana te saute dessus"
+    new "C07: Diana te saute dessus"
 
     # game/code/data/replay_room.rpy:5
     old "Don't rebuff Diana."
@@ -107,7 +107,7 @@ translate french strings:
 
     # game/code/data/replay_room.rpy:5
     old "C07: Sally's Hidden Entrance"
-    new "C07 : L'entrée secrète de Sally"
+    new "C07: L'entrée secrète de Sally"
 
     # game/code/data/replay_room.rpy:5
     old "Reward Sally."
@@ -115,15 +115,15 @@ translate french strings:
 
     # game/code/data/replay_room.rpy:5
     old "C07: Bonding With Nia"
-    new "C07 : Création de liens avec Nia"
+    new "C07: Création de liens avec Nia"
 
     # game/code/data/replay_room.rpy:5
     old "C07: Getting Better Acquainted"
-    new "C07 : Mieux se connaître"
+    new "C07: Mieux se connaître"
 
     # game/code/data/replay_room.rpy:5
     old "C07: Finish What Delphia Started"
-    new "C07 : Finir ce que Delphia a commencé"
+    new "C07: Sexe avec Delphia"
 
     # game/code/data/replay_room.rpy:5
     old "Help Delphia."
@@ -131,7 +131,7 @@ translate french strings:
 
     # game/code/data/replay_room.rpy:5
     old "C07: Seduce Irene"
-    new "C07 : Séduire Irene"
+    new "C07: Séduire Irene"
 
     # game/code/data/replay_room.rpy:5
     old "Go all the way."
@@ -139,7 +139,7 @@ translate french strings:
 
     # game/code/data/replay_room.rpy:5
     old "C07: An Artist's Head"
-    new "C07 : La tête d'un artiste"
+    new "C07: La tête d'un artiste"
 
     # game/code/data/replay_room.rpy:5
     old "Investigate the artist."
@@ -147,11 +147,11 @@ translate french strings:
 
     # game/code/data/replay_room.rpy:5
     old "C07: Karaoke With Nirmala"
-    new "C07 : Karaoké avec Nirmala"
+    new "C07: Karaoké avec Nirmala"
 
     # game/code/data/replay_room.rpy:5
     old "C07: Reward From Corinne"
-    new "C07 : Récompense de Corinne"
+    new "C07: Récompense de Corinne"
 
     # game/code/data/replay_room.rpy:5
     old "Investigate Corinne."
@@ -159,7 +159,7 @@ translate french strings:
 
     # game/code/data/replay_room.rpy:5
     old "C07: Fun Time With Iona"
-    new "C07 : Moment fun avec Iona"
+    new "C07: Moment fun avec Iona"
 
     # game/code/data/replay_room.rpy:5
     old "Stop Iona from serving."
@@ -167,7 +167,7 @@ translate french strings:
 
     # game/code/data/replay_room.rpy:5
     old "C07: Skinny Dipping With Isa"
-    new "C07 : Bain nu avec Isa"
+    new "C07: Bain nu avec Isa"
 
     # game/code/data/replay_room.rpy:5
     old "Investigate Isa."
@@ -175,7 +175,7 @@ translate french strings:
 
     # game/code/data/replay_room.rpy:5
     old "C07: Reward From Sam"
-    new "C07 : Récompense de Sam"
+    new "C07: Récompense de Sam"
 
     # game/code/data/replay_room.rpy:5
     old "Investigate Sam."
@@ -183,11 +183,11 @@ translate french strings:
 
     # game/code/data/replay_room.rpy:5
     old "C08: Ivy's Welcoming Party"
-    new "C08 : La fête d'accueil d'Ivy"
+    new "C08: La fête d'accueil d'Ivy"
 
     # game/code/data/replay_room.rpy:5
     old "C08: Loving Lumi"
-    new "C08 : Aimer Lumi"
+    new "C08: Aimer Lumi"
 
     # game/code/data/replay_room.rpy:5
     old "Comfort Lumi."
@@ -195,31 +195,31 @@ translate french strings:
 
     # game/code/data/replay_room.rpy:5
     old "C08: Ritual In The Cave"
-    new "C08 : Rituel dans la grotte"
+    new "C08: Rituel dans la grotte"
 
     # game/code/data/replay_room.rpy:5
     old "C08: Spiritual Awakening With Nia"
-    new "C08 : Éveil spirituel avec Nia"
+    new "C08: Éveil spirituel avec Nia"
 
     # game/code/data/replay_room.rpy:5
     old "C08: Lumi's Punishment"
-    new "C08 : La punition de Lumi"
+    new "C08: La punition de Lumi"
 
     # game/code/data/replay_room.rpy:5
     old "C08: Self-Help Group Orgy"
-    new "C08 : Orgie du groupe d'entraide"
+    new "C08: Orgie du groupe d'entraide"
 
     # game/code/data/replay_room.rpy:5
     old "C08: Breeding Ivy"
-    new "C08 : L'élevage d'Ivy"
+    new "C08: L'élevage d'Ivy"
 
     # game/code/data/replay_room.rpy:5
     old "C08: Date with Zemfira"
-    new "C08 : Rendez-vous avec Zemfira"
+    new "C08: Rendez-vous avec Zemfira"
 
     # game/code/data/replay_room.rpy:5
     old "C08: Comforting Asami"
-    new "C08 : Réconforter Asami"
+    new "C08: Réconforter Asami"
 
     # game/code/data/replay_room.rpy:5
     old "Help out Asami."
@@ -227,7 +227,7 @@ translate french strings:
 
     # game/code/data/replay_room.rpy:5
     old "C08: Hellfire Hellena"
-    new "C08 : Hellfire Hellena"
+    new "C08: Hellfire Hellena"
 
     # game/code/data/replay_room.rpy:5
     old "You don't mind at all."
@@ -235,15 +235,15 @@ translate french strings:
 
     # game/code/data/replay_room.rpy:5
     old "C08: In The Boss's Bed"
-    new "C08 : Dans le lit du patron"
+    new "C08: Dans le lit du patron"
 
     # game/code/data/replay_room.rpy:5
     old "C08: Taking Care Of Zemfira"
-    new "C08 : Prendre soin de Zemfira"
+    new "C08: Prendre soin de Zemfira"
 
     # game/code/data/replay_room.rpy:5
     old "C08: Licking Morgan's Wounds"
-    new "C08 : Licker les blessures de Morgan"
+    new "C08: Licker les blessures de Morgan"
 
     # game/code/data/replay_room.rpy:5
     old "Ask Morgan to stay."
@@ -251,7 +251,7 @@ translate french strings:
 
     # game/code/data/replay_room.rpy:5
     old "C08: Extra Practice With Iona"
-    new "C08 : Pratique supplémentaire avec Iona"
+    new "C08: Pratique avec Iona"
 
     # game/code/data/replay_room.rpy:5
     old "Encourage Iona."
@@ -259,7 +259,7 @@ translate french strings:
 
     # game/code/data/replay_room.rpy:5
     old "C08: Holding Moans With Monika"
-    new "C08 : Retenir les gémissements avec Monika"
+    new "C08: Sexe avec Monika"
 
     # game/code/data/replay_room.rpy:5
     old "Give into the temptations."
@@ -267,7 +267,7 @@ translate french strings:
 
     # game/code/data/replay_room.rpy:5
     old "C08: Healed By The Enemy"
-    new "C08 : Guéri par l'ennemi"
+    new "C08: Guéri par l'ennemi"
 
     # game/code/data/replay_room.rpy:5
     old "Seize the moment."
@@ -275,23 +275,23 @@ translate french strings:
 
     # game/code/data/replay_room.rpy:5
     old "C08: Comforting Silvia"
-    new "C08 : Réconforter Silvia"
+    new "C08: Réconforter Silvia"
 
     # game/code/data/replay_room.rpy:5
     old "C09: Josie's First Time"
-    new "C09 : La première fois de Josie"
+    new "C09: Faire plaisir à Josie"
 
     # game/code/data/replay_room.rpy:5
     old "C09: Josie's First Time (Trans)"
-    new "C09 : La première fois de Josie (Trans)"
+    new "C09: Faire plaisir à Josie (Trans)"
 
     # game/code/data/replay_room.rpy:5
     old "C09: Satisfying Ronja"
-    new "C09 : Satisfaire Ronja"
+    new "C09: Satisfaire Ronja"
 
     # game/code/data/replay_room.rpy:5
     old "C09: Penetrating Diana"
-    new "C09 : Pénétrer Diana"
+    new "C09: Pénétrer Diana"
 
     # game/code/data/replay_room.rpy:5
     old "Don't Stop Diana"
@@ -299,7 +299,7 @@ translate french strings:
 
     # game/code/data/replay_room.rpy:5
     old "C09: Exploring With Irene"
-    new "C09 : Explorer avec Irene"
+    new "C09: Explorer avec Irene"
 
     # game/code/data/replay_room.rpy:5
     old "Investigate the Cult."
@@ -307,7 +307,7 @@ translate french strings:
 
     # game/code/data/replay_room.rpy:5
     old "C09: Helping Isa"
-    new "C09 : Aider Isa"
+    new "C09: Aider Isa"
 
     # game/code/data/replay_room.rpy:5
     old "Investigate the Winners Club."
@@ -315,7 +315,7 @@ translate french strings:
 
     # game/code/data/replay_room.rpy:5
     old "C09: Flirting With Foxy & Lilith"
-    new "C09 : Flirter avec Foxy & Lilith"
+    new "C09: Flirter avec Foxy & Lilith"
 
     # game/code/data/replay_room.rpy:5
     old "Investigate the Syndicate."
@@ -323,7 +323,7 @@ translate french strings:
 
     # game/code/data/replay_room.rpy:5
     old "C09: Zemfira's Temptations"
-    new "C09 : Les tentations de Zemfira"
+    new "C09: Les tentations de Zemfira"
 
     # game/code/data/replay_room.rpy:5
     old "Insult Xasan."
@@ -331,27 +331,27 @@ translate french strings:
 
     # game/code/data/replay_room.rpy:5
     old "C09: Winner's Strip Tease"
-    new "C09 : Strip-tease du gagnant"
+    new "C09: Strip-tease du gagnant"
 
     # game/code/data/replay_room.rpy:5
     old "C09: Naked Mile With Iona & Isa"
-    new "C09 : Mile nu avec Iona & Isa"
+    new "C09: Mile nu avec Iona & Isa"
 
     # game/code/data/replay_room.rpy:5
     old "C09: Rope Play With Delphia"
-    new "C09 : Jeu de corde avec Delphia"
+    new "C09: Jeu de corde avec Delphia"
 
     # game/code/data/replay_room.rpy:5
     old "C09: Blowjob From Nia"
-    new "C09 : Fellation de Nia"
+    new "C09: Fellation de Nia"
 
     # game/code/data/replay_room.rpy:5
     old "C09: Dominating Fleur"
-    new "C09 : Dominer Fleur"
+    new "C09: Dominer Fleur"
 
     # game/code/data/replay_room.rpy:5
     old "C09: Nia & Silvia Threesome"
-    new "C09 : Trio avec Nia & Silvia"
+    new "C09: Trio avec Nia & Silvia"
 
     # game/code/data/replay_room.rpy:5
     old "Investigate respective groups."
@@ -359,10 +359,10 @@ translate french strings:
 
     # game/code/data/replay_room.rpy:5
     old "C09: Silvia & Zemfira Threesome"
-    new "C09 : Trio avec Silvia & Zemfira"
+    new "C09: Trio avec Silvia & Zemfira"
 
     # game/code/data/replay_room.rpy:5
     old "C09: Zemfira & Nia Threesome"
-    new "C09 : Trio avec Zemfira & Nia"
+    new "C09: Trio avec Zemfira & Nia"
 
 
