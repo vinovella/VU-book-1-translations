@@ -3,7 +3,7 @@ translate french strings:
 
     # game/code/data/achievement_gallery.rpy:5
     old "01: Scratching the Surface"
-    new "01 : Gratter la surface"
+    new "01: Gratter la surface"
 
     # game/code/data/achievement_gallery.rpy:5
     old "Finish the game."
@@ -11,7 +11,7 @@ translate french strings:
 
     # game/code/data/achievement_gallery.rpy:5
     old "02: Dulled Euphoria"
-    new "02 : Euphorie émoussée"
+    new "02: Euphorie émoussée"
 
     # game/code/data/achievement_gallery.rpy:5
     old "Play Iona's path."
@@ -19,7 +19,7 @@ translate french strings:
 
     # game/code/data/achievement_gallery.rpy:5
     old "03: Monika's Melons"
-    new "03 : Les melons de Monika"
+    new "03: Les melons de Monika"
 
     # game/code/data/achievement_gallery.rpy:5
     old "Play Monika's path."
@@ -27,7 +27,7 @@ translate french strings:
 
     # game/code/data/achievement_gallery.rpy:5
     old "04: Queen Bae"
-    new "04 : Reine Bae"
+    new "04: Reine Bae"
 
     # game/code/data/achievement_gallery.rpy:5
     old "Play Isa's path."
@@ -35,7 +35,7 @@ translate french strings:
 
     # game/code/data/achievement_gallery.rpy:5
     old "05: Down With the Bourgeoisie"
-    new "05 : À bas la bourgeoisie"
+    new "05: À bas la bourgeoisie"
 
     # game/code/data/achievement_gallery.rpy:5
     old "Play Sam's path."
@@ -43,7 +43,7 @@ translate french strings:
 
     # game/code/data/achievement_gallery.rpy:5
     old "06: Blood and Boners"
-    new "06 : Sang et banderoles"
+    new "06: Sang et banderoles"
 
     # game/code/data/achievement_gallery.rpy:5
     old "Play Delphia's path."
@@ -51,7 +51,7 @@ translate french strings:
 
     # game/code/data/achievement_gallery.rpy:5
     old "07: Bagging Bookworms"
-    new "07 : Attraper les rats de bibliothèque"
+    new "07: Attraper les rats de bibliothèque"
 
     # game/code/data/achievement_gallery.rpy:5
     old "Play Irene's path."
@@ -59,7 +59,7 @@ translate french strings:
 
     # game/code/data/achievement_gallery.rpy:5
     old "08: Innocence Irrelevant"
-    new "08 : Innocence sans importance"
+    new "08: Innocence sans importance"
 
     # game/code/data/achievement_gallery.rpy:5
     old "Play Lumi's path."
@@ -67,7 +67,7 @@ translate french strings:
 
     # game/code/data/achievement_gallery.rpy:5
     old "09: Strokes on Canvas"
-    new "09 : Traits sur toile"
+    new "09: Traits sur toile"
 
     # game/code/data/achievement_gallery.rpy:5
     old "Play Ezra's path."
@@ -75,7 +75,7 @@ translate french strings:
 
     # game/code/data/achievement_gallery.rpy:5
     old "10: Wine Mom"
-    new "10 : Maman vin"
+    new "10: Maman vin"
 
     # game/code/data/achievement_gallery.rpy:5
     old "Play Sally's path."
@@ -83,7 +83,7 @@ translate french strings:
 
     # game/code/data/achievement_gallery.rpy:5
     old "11: Fleur de Passion"
-    new "11 : Fleur de passion"
+    new "11: Fleur de passion"
 
     # game/code/data/achievement_gallery.rpy:5
     old "Play Fleur's path."
@@ -91,7 +91,7 @@ translate french strings:
 
     # game/code/data/achievement_gallery.rpy:5
     old "12: Prescription Desires"
-    new "12 : Désirs prescrits"
+    new "12: Désirs prescrits"
 
     # game/code/data/achievement_gallery.rpy:5
     old "Play Asami's path."
@@ -99,7 +99,7 @@ translate french strings:
 
     # game/code/data/achievement_gallery.rpy:5
     old "13: What Did the Fox Moan"
-    new "13 : Ce que le renard gémit"
+    new "13: Ce que le renard gémit"
 
     # game/code/data/achievement_gallery.rpy:5
     old "Play Foxy's path."
@@ -107,7 +107,7 @@ translate french strings:
 
     # game/code/data/achievement_gallery.rpy:5
     old "14: Mighty Morgan"
-    new "14 : Puissant Morgan"
+    new "14: Puissant Morgan"
 
     # game/code/data/achievement_gallery.rpy:5
     old "Play Morgan's path."
@@ -115,7 +115,7 @@ translate french strings:
 
     # game/code/data/achievement_gallery.rpy:5
     old "15: Feared Straight"
-    new "15 : Droit craint"
+    new "15: Droit craint"
 
     # game/code/data/achievement_gallery.rpy:5
     old "Play Corinne's path."
@@ -123,7 +123,7 @@ translate french strings:
 
     # game/code/data/achievement_gallery.rpy:5
     old "16: Juggling Favors"
-    new "16 : Jongler avec les faveurs"
+    new "16: Jongler avec les faveurs"
 
     # game/code/data/achievement_gallery.rpy:5
     old "Play Nirmala's path."
@@ -131,7 +131,7 @@ translate french strings:
 
     # game/code/data/achievement_gallery.rpy:5
     old "17: Lifelong Longing"
-    new "17 : Désir éternel"
+    new "17: Désir éternel"
 
     # game/code/data/achievement_gallery.rpy:5
     old "Play Josie's path."
@@ -139,7 +139,7 @@ translate french strings:
 
     # game/code/data/achievement_gallery.rpy:5
     old "18: And He Was Born"
-    new "18 : Et il est né"
+    new "18: Et il est né"
 
     # game/code/data/achievement_gallery.rpy:5
     old "Select your name."
@@ -147,7 +147,7 @@ translate french strings:
 
     # game/code/data/achievement_gallery.rpy:5
     old "19: The True Beginning"
-    new "19 : Le véritable début"
+    new "19: Le véritable début"
 
     # game/code/data/achievement_gallery.rpy:5
     old "Reach the end of the prologue."
@@ -155,7 +155,7 @@ translate french strings:
 
     # game/code/data/achievement_gallery.rpy:5
     old "20: Saving Private Josie"
-    new "20 : Sauver Josie"
+    new "20: Sauver Josie"
 
     # game/code/data/achievement_gallery.rpy:5
     old "Save Josie from drowning."
@@ -163,7 +163,7 @@ translate french strings:
 
     # game/code/data/achievement_gallery.rpy:5
     old "21: On to the Tournament"
-    new "21 : En route vers le tournoi"
+    new "21: En route vers le tournoi"
 
     # game/code/data/achievement_gallery.rpy:5
     old "Finished the Winner's Part 2."
@@ -171,7 +171,7 @@ translate french strings:
 
     # game/code/data/achievement_gallery.rpy:5
     old "22: On to the Forest"
-    new "22 : En route vers la forêt"
+    new "22: En route vers la forêt"
 
     # game/code/data/achievement_gallery.rpy:5
     old "Finished the Cult's Part 2."
@@ -179,7 +179,7 @@ translate french strings:
 
     # game/code/data/achievement_gallery.rpy:5
     old "23: On to the Compound"
-    new "23 : En route vers le complexe"
+    new "23: En route vers le complexe"
 
     # game/code/data/achievement_gallery.rpy:5
     old "Finished the Syndicate's Part 2."
@@ -187,7 +187,7 @@ translate french strings:
 
     # game/code/data/achievement_gallery.rpy:5
     old "24: Injecting the L"
-    new "24 : Injecter le L"
+    new "24: Injecter le L"
 
     # game/code/data/achievement_gallery.rpy:5
     old "Lose the Winner's tournament."
@@ -195,7 +195,7 @@ translate french strings:
 
     # game/code/data/achievement_gallery.rpy:5
     old "25: Heart Shaped Box"
-    new "25 : Boîte en forme de cœur"
+    new "25: Boîte en forme de cœur"
 
     # game/code/data/achievement_gallery.rpy:5
     old "Experience spiritual awakening with Nia."
@@ -203,7 +203,7 @@ translate french strings:
 
     # game/code/data/achievement_gallery.rpy:5
     old "26: Kablooey"
-    new "26 : Kablooey"
+    new "26: Kablooey"
 
     # game/code/data/achievement_gallery.rpy:5
     old "See the Wasp's warehouse explosion."
@@ -211,7 +211,7 @@ translate french strings:
 
     # game/code/data/achievement_gallery.rpy:5
     old "27: Threesome Therapy"
-    new "27 : Thérapie à trois"
+    new "27: Thérapie à trois"
 
     # game/code/data/achievement_gallery.rpy:5
     old "Have a threesome with Nia and Silvia."
@@ -219,7 +219,7 @@ translate french strings:
 
     # game/code/data/achievement_gallery.rpy:5
     old "28: Temptations in Ink"
-    new "28 : Tentations en encre"
+    new "28: Tentations en encre"
 
     # game/code/data/achievement_gallery.rpy:5
     old "Have a threesome with Nia and Zemfira."
@@ -227,7 +227,7 @@ translate french strings:
 
     # game/code/data/achievement_gallery.rpy:5
     old "29: Rebel Without a Ball"
-    new "29 : Rebelle sans ballon"
+    new "29: Rebelle sans ballon"
 
     # game/code/data/achievement_gallery.rpy:5
     old "Have a threesome with Zemfira and Silvia."
@@ -235,7 +235,7 @@ translate french strings:
 
     # game/code/data/achievement_gallery.rpy:5
     old "30: Hacker's Delight"
-    new "30 : Le plaisir du hacker"
+    new "30: Le plaisir du hacker"
 
     # game/code/data/achievement_gallery.rpy:5
     old "Click the Butcher's street background character."
@@ -243,7 +243,7 @@ translate french strings:
 
     # game/code/data/achievement_gallery.rpy:5
     old "31: Meat Lovers"
-    new "31 : Amateurs de viande"
+    new "31: Amateurs de viande"
 
     # game/code/data/achievement_gallery.rpy:5
     old "Win Greg's minigame."
@@ -251,7 +251,7 @@ translate french strings:
 
     # game/code/data/achievement_gallery.rpy:5
     old "32: Top of the Class"
-    new "32 : Le meilleur de la classe"
+    new "32: Le meilleur de la classe"
 
     # game/code/data/achievement_gallery.rpy:5
     old "Earn 18+ points with a group."
@@ -259,7 +259,7 @@ translate french strings:
 
     # game/code/data/achievement_gallery.rpy:5
     old "33: Eskimo Sisters"
-    new "33 : Sœurs Eskimo"
+    new "33: Sœurs Eskimo"
 
     # game/code/data/achievement_gallery.rpy:5
     old "Have sex with Monika and kiss Olesya."
@@ -267,7 +267,7 @@ translate french strings:
 
     # game/code/data/achievement_gallery.rpy:5
     old "34: The Truth Will Free You"
-    new "34 : La vérité vous libérera"
+    new "34: La vérité vous libérera"
 
     # game/code/data/achievement_gallery.rpy:5
     old "Kiss Phoebe and tell Fleur and Asami the truth."
@@ -275,7 +275,7 @@ translate french strings:
 
     # game/code/data/achievement_gallery.rpy:5
     old "35: Junior Detective"
-    new "35 : Détective junior"
+    new "35: Détective junior"
 
     # game/code/data/achievement_gallery.rpy:5
     old "Unlock a character on the investigation board."
@@ -283,7 +283,7 @@ translate french strings:
 
     # game/code/data/achievement_gallery.rpy:5
     old "36: Privates Investigator"
-    new "36 : Investigateur privé"
+    new "36: Investigateur privé"
 
     # game/code/data/achievement_gallery.rpy:5
     old "Unlock 20 characters on the investigation board."
@@ -291,7 +291,7 @@ translate french strings:
 
     # game/code/data/achievement_gallery.rpy:5
     old "37: Master Sleuth"
-    new "37 : Maître détective"
+    new "37: Maître détective"
 
     # game/code/data/achievement_gallery.rpy:5
     old "Unlock 40 characters on the investigation board."
@@ -299,7 +299,7 @@ translate french strings:
 
     # game/code/data/achievement_gallery.rpy:5
     old "38: Passion Detective"
-    new "38 : Détective de la passion"
+    new "38: Détective de la passion"
 
     # game/code/data/achievement_gallery.rpy:5
     old "Have sex with 10 girls."
@@ -307,7 +307,7 @@ translate french strings:
 
     # game/code/data/achievement_gallery.rpy:5
     old "39: Campus Casanova"
-    new "39 : Casanova du campus"
+    new "39: Casanova du campus"
 
     # game/code/data/achievement_gallery.rpy:5
     old "Have sex with all the girls."
@@ -315,7 +315,7 @@ translate french strings:
 
     # game/code/data/achievement_gallery.rpy:5
     old "40: Professor's Pet"
-    new "40 : Chouchou du professeur"
+    new "40: Chouchou du professeur"
 
     # game/code/data/achievement_gallery.rpy:5
     old "Play Diana and Ronja's paths."
@@ -323,7 +323,7 @@ translate french strings:
 
     # game/code/data/achievement_gallery.rpy:5
     old "41: Fetish Locator"
-    new "41 : Localisateur de fétiches"
+    new "41: Localisateur de fétiches"
 
     # game/code/data/achievement_gallery.rpy:5
     old "Experience all fetishes at the party."
@@ -331,7 +331,7 @@ translate french strings:
 
     # game/code/data/achievement_gallery.rpy:5
     old "42: Calm and Collected"
-    new "42 : Calme et posé"
+    new "42: Calme et posé"
 
     # game/code/data/achievement_gallery.rpy:5
     old "Throw Brigitta into the pool."
@@ -339,7 +339,7 @@ translate french strings:
 
     # game/code/data/achievement_gallery.rpy:5
     old "43: Yellow Balling"
-    new "43 : Yellow Balling"
+    new "43: Yellow Balling"
 
     # game/code/data/achievement_gallery.rpy:5
     old "Get blue balled by Nia and Zemfira at the party."
@@ -347,7 +347,7 @@ translate french strings:
 
     # game/code/data/achievement_gallery.rpy:5
     old "44: Escaping the Matrix"
-    new "44 : Échapper à la matrice"
+    new "44: Échapper à la matrice"
 
     # game/code/data/achievement_gallery.rpy:5
     old "Click the unclickable option in the nightmare."
@@ -355,7 +355,7 @@ translate french strings:
 
     # game/code/data/achievement_gallery.rpy:5
     old "45: Behind the Scenes"
-    new "45 : Dans les coulisses"
+    new "45: Dans les coulisses"
 
     # game/code/data/achievement_gallery.rpy:5
     old "Play postcredit scene."
