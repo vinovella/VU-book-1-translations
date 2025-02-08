@@ -128,7 +128,7 @@ translate french b1c07s01_after_variables_8319419e:
 translate french b1c07s01_after_variables_f071cf87:
 
     # mc "You look like you've been up a while. Did {i}you{/i} have trouble sleeping?"
-    mc "Tu as l'air de t'être levée tôt. Est-ce que {i}toi{/i} as eu du mal à dormir?"
+    mc "Tu as l'air de t'être levée tôt. Est-ce que {i}tu{/i} as eu du mal à dormir?"
 
 # game/code/Book-1/Chapter-7/s01.rpy:159
 translate french b1c07s01_after_variables_316088af:
@@ -319,7 +319,7 @@ translate french b1c07s01_after_variables_46dc3b88:
 translate french b1c07s01_after_variables_2c0f983b:
 
     # jh "Good morning. You two sure are up early."
-    jh "Bonjour. Vous deux êtes bien levés tôt."
+    jh "Bonjour. Vous deux, vous vous êtes levés bien tôt."
 
 # game/code/Book-1/Chapter-7/s01.rpy:269
 translate french b1c07s01_after_variables_081ee02a:
@@ -397,7 +397,7 @@ translate french b1c07s01_after_variables_05b04354:
 translate french b1c07s01_after_variables_49c2c25a:
 
     # jh "Thankfully, they cut the cake quickly, so I gave my gift and just came back."
-    jh "Heureusement, ils ont coupé le gâteau rapidement, donc j'ai donné mon cadeau et je suis juste rentré."
+    jh "Heureusement, ils ont coupé le gâteau rapidement, donc j'ai donné mon cadeau et je suis juste rentrée."
 
 # game/code/Book-1/Chapter-7/s01.rpy:303
 translate french b1c07s01_after_variables_b7030634:
@@ -421,7 +421,7 @@ translate french b1c07s01_after_variables_69cdc342:
 translate french b1c07s01_after_variables_111db438:
 
     # jh "Anyway! Gosh, you guys keep distracting me! What were you two talking about? I heard something about bouldering. Gimme the deets."
-    jh "Bref! Mon dieu, vous n'arrêtez pas de me distraire! De quoi parliez-vous tous les deux? J'ai entendu parler de bloc. Donne-moi les détails."
+    jh "Bref! Mon dieu, vous n'arrêtez pas de me distraire! De quoi parliez-vous tous les deux? J'ai entendu parler de bloc. Donnez-moi les détails."
 
 # game/code/Book-1/Chapter-7/s01.rpy:316
 translate french b1c07s01_after_variables_286b5ab8:
@@ -439,7 +439,7 @@ translate french b1c07s01_after_variables_ab710227:
 translate french b1c07s01_after_variables_3974032e:
 
     # jh "Wait, what!? {i}You{/i} asked him? That's amazing!"
-    jh "Attends, quoi!? {i}Toi{/i} lui as demandé? C'est incroyable!"
+    jh "Attends, quoi!? {i}Tu{/i} lui as demandé? C'est incroyable!"
 
 # game/code/Book-1/Chapter-7/s01.rpy:326
 translate french b1c07s01_after_variables_4fe3d819:
