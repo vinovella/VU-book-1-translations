@@ -170,7 +170,7 @@ translate french b1c06ws07_d54bb5dc:
 translate french b1c06ws07_18649173:
 
     # "Her eyes burn into yours, their deep blues accentuated by the cold moonlit night, she doesn't take you out of her sight as she works your pants off."
-    "Ses yeux brûlent dans les tiens, leur bleu profond accentué par la froide nuit éclairée par la lune. Elle ne te quitte pas des yeux alors qu'elle enlève tes pantalons."
+    "Ses yeux brûlent dans les tiens, leur bleu profond accentué par la froide nuit éclairée par la lune. Elle ne te quitte pas des yeux alors qu'elle enlève ton pantalon."
 
 # game/code/Book-1/Chapter-6w/s07.rpy:143
 translate french b1c06ws07_909422dd:
@@ -194,7 +194,7 @@ translate french b1c06ws07_2c9c722c:
 translate french b1c06ws07_0543712c:
 
     # ir "I've missed your cock."
-    ir "Ton sexe m'a manqué."
+    ir "Ta queue m'a manquée."
 
 # game/code/Book-1/Chapter-6w/s07.rpy:152
 translate french b1c06ws07_1b178092:
@@ -230,7 +230,7 @@ translate french b1c06ws07_27e1f6ef:
 translate french b1c06ws07_2fa4d205:
 
     # "The feeling of her warm mouth and tongue in contrast to the cold night air causes another shiver to travel down your spine, and into your loins."
-    "La sensation de sa bouche et de sa langue chaudes, en contraste avec l'air froid de la nuit, te fait frissonner de nouveau, descendant dans ta colonne vertébrale et jusque dans tes reins."
+    "La sensation de sa bouche et de sa langue chaude, en contraste avec l'air froid de la nuit, te fait frissonner de nouveau, descendant dans ta colonne vertébrale et jusque dans tes reins."
 
 # game/code/Book-1/Chapter-6w/s07.rpy:182
 translate french b1c06ws07_4e9f123a:
@@ -278,7 +278,7 @@ translate french b1c06ws07_a4dd50b8:
 translate french b1c06ws07_92f563a8:
 
     # "She moves faster, pushing her limits for your pleasure. Her lips massaging the length of your cock as her tongue works your tip, edging your orgasm out, putting you on the verge of coating her mouth with your cum. But she stops."
-    "Elle accélère, poussant ses limites pour ton plaisir. Ses lèvres massent la longueur de ton sexe tandis que sa langue travaille sur ton bout, faisant durer ton orgasme, te mettant sur le point de déverser ta semence dans sa bouche. Mais elle s'arrête."
+    "Elle accélère, poussant ses limites pour ton plaisir. Ses lèvres massent la longueur de ton sexe tandis que sa langue travaille sur ton gland, faisant durer ton orgasme, te mettant sur le point de déverser ton sperme dans sa bouche. Mais elle s'arrête."
 
 # game/code/Book-1/Chapter-6w/s07.rpy:231
 translate french b1c06ws07_eec2c3f0:
@@ -320,13 +320,13 @@ translate french b1c06ws07_bc9ee36b:
 translate french b1c06ws07_f71d5de3:
 
     # "Her tightness and warmth overwhelm your senses, traveling from your cock to your abdomen."
-    "Son serrement et sa chaleur submergent vos sens, voyageant de votre bite à votre abdomen."
+    "Sa petite chatte serrée et sa chaleur submergent vos sens, voyageant de votre bite à votre abdomen."
 
 # game/code/Book-1/Chapter-6w/s07.rpy:254
 translate french b1c06ws07_a716451e:
 
     # "Finally, you begin moving, pulling back from within her depths, her folds glide over your dick, teasing and coercing you into plunging in once again."
-    "Enfin, tu commences à bouger, te retirant de ses profondeurs, ses replis glissent sur ton sexe, te taquinant et t'obligeant à replonger en elle."
+    "Enfin, tu commences à bouger, te retirant de ses profondeurs, ses lèvres glissent sur ton sexe, te taquinant et t'obligeant à replonger en elle."
 
 # game/code/Book-1/Chapter-6w/s07.rpy:257
 translate french b1c06ws07_10056282:
@@ -392,7 +392,7 @@ translate french b1c06ws07_79ff6b1a:
 translate french b1c06ws07_e1b111a9:
 
     # "You hold onto her tightly in your arms as you feel her insides pulse with pleasure, milking the last drops of your cum from your cock."
-    "Vous la tenez fermement dans vos bras pendant que vous la sentez palpiter de plaisir, tirant les dernières gouttes de votre sperme de votre bite."
+    "Vous la tenez fermement dans vos bras pendant que vous la sentez palpiter de plaisir, tirant les dernières gouttes de sperme de votre bite."
 
 # game/code/Book-1/Chapter-6w/s07.rpy:317
 translate french b1c06ws07_1022f1af:
@@ -410,7 +410,7 @@ translate french b1c06ws07_1fe2efdf:
 translate french b1c06ws07_aeed3199:
 
     # ir "Mm, I like that you came inside me. It makes me feel so full and warm."
-    ir "Mm, j'aime que tu sois entré en moi. Cela me fait me sentir si rassasié et si chaud."
+    ir "Mm, j'aime que tu sois entré en moi. Cela me fait me sentir si rassasié et si chaude."
 
 # game/code/Book-1/Chapter-6w/s07.rpy:327
 translate french b1c06ws07_3d558633:
