@@ -15,7 +15,7 @@ translate french b1c07ss11_bbee5fb5:
 translate french b1c07ss11_8a64e974:
 
     # qh "Get the fuck away from her!"
-    qh "Éloigne-toi de cette pute!"
+    qh "Éloigne-toi d'elle!"
 
 # game/code/Book-1/Chapter-7s/s11.rpy:27
 translate french b1c07ss11_fc20fba4:
@@ -63,7 +63,7 @@ translate french b1c07ss11_d802280a:
 translate french b1c07ss11_9fb1f01d:
 
     # nr "FUCK OFF BEFORE I SHOVE THIS KNIFE SO FAR UP YOUR ASS YOU COUGH UP STEEL!"
-    nr "VA TE FAIRE FOUTRE AVANT QUE JE TE FASSE AVALER CE COUTEAU JUSQU'À CE QUE TU VOMISSE DE L'ACIER!"
+    nr "VA TE FAIRE FOUTRE AVANT QUE JE TE FASSE AVALER CE COUTEAU JUSQU'À CE QUE TU CHIER DE L'ACIER!"
 
 # game/code/Book-1/Chapter-7s/s11.rpy:69
 translate french b1c07ss11_81207e66:
