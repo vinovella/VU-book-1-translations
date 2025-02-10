@@ -524,13 +524,13 @@ translate french b1c06ss06_fc0ce45e:
 translate french b1c06ss06_82ce495b:
 
     # mg "You two know each other?"
-    mg "Vous deux vous connaissez?"
+    mg "Vous vous connaissez?"
 
 # game/code/Book-1/Chapter-6s/s06.rpy:272
 translate french b1c06ss06_9645fbc9:
 
     # nr "Yeah! [mcname] and I have seen each other around a bit."
-    nr "Ouais! [mcname] et moi on s'est croisés un peu."
+    nr "Ouais! [mcname] et moi on s'est croisés il y a peu."
 
 # game/code/Book-1/Chapter-6s/s06.rpy:274
 translate french b1c06ss06_5e3f9e9d:
@@ -560,25 +560,25 @@ translate french b1c06ss06_fd338319:
 translate french b1c06ss06_07894037:
 
     # mg "You're blasted, girl. Has Rid cut you off yet?"
-    mg "Tu es bien pompette, ma fille. Rid t'a déjà coupée?"
+    mg "Tu es bien pompette, ma fille. Rid t'a déjà coupée le robinet?"
 
 # game/code/Book-1/Chapter-6s/s06.rpy:291
 translate french b1c06ss06_d71cd59b:
 
     # nr "*hiccups* Yeah, she did."
-    nr "*rot* Ouais, elle m'a coupée."
+    nr "*rot* Ouais, elle me l'as coupée."
 
 # game/code/Book-1/Chapter-6s/s06.rpy:292
 translate french b1c06ss06_7c7c92fa:
 
     # nr "Don't keep me from feelin' the buzz, though."
-    nr "Ne m'empêche pas de profiter de l'effet, hein."
+    nr "Mais ne m'empêche pas de profiter de l'effet, hein."
 
 # game/code/Book-1/Chapter-6s/s06.rpy:294
 translate french b1c06ss06_de093638:
 
     # mg "Clearly."
-    mg "Clairement."
+    mg "surement pas."
 
 # game/code/Book-1/Chapter-6s/s06.rpy:297
 translate french b1c06ss06_b3462da4:
@@ -794,7 +794,7 @@ translate french b1c06ss06_133633a7:
 translate french b1c06ss06_end_e8f6ad16:
 
     # mc "Actually, I'm pretty tired, Fleur... And a bit buzzed."
-    mc "En fait, je suis assez fatigué, Fleur... Et un peu pompé."
+    mc "En fait, je suis assez fatigué, Fleur... Et un peu bourré."
 
 # game/code/Book-1/Chapter-6s/s06.rpy:428
 translate french b1c06ss06_end_b2e9e06a:
