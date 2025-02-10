@@ -8,7 +8,7 @@ translate french b1c08s01_99325c9f:
 translate french b1c08s01_b92349e4:
 
     # mc "Yeah, trying to figure out how you became such a sarcastic little shit."
-    mc "Ouais, j'essaie de comprendre comment tu es devenu un petit con sarcastique."
+    mc "Ouais, j'essaie de comprendre comment tu es devenue un petite conne sarcastique."
 
 # game/code/Book-1/Chapter-8/s01.rpy:39
 translate french b1c08s01_30bee13e:
@@ -26,7 +26,7 @@ translate french b1c08s01_9d07e58a:
 translate french b1c08s01_96bd643a:
 
     # "Though it doesn't make it any easier to push down certain feelings."
-    "Bien que ça ne rende pas plus facile de réprimer certains sentiments."
+    "Même si cela ne rend pas plus facile de réprimer certains sentiments."
 
 # game/code/Book-1/Chapter-8/s01.rpy:47
 translate french b1c08s01_f3d1d46f:
@@ -92,7 +92,7 @@ translate french b1c08s01_ca5a404b:
 translate french b1c08s01_e02faaaf:
 
     # pm "Give me everything from where you last left off."
-    pm "Raconte-moi tout depuis là où tu t'es arrêté."
+    pm "Reprenons depuis là où tu t'es arrêté dernierement."
 
 # game/code/Book-1/Chapter-8/s01.rpy:106
 translate french b1c08s01_call_recaps_b8b0fc47:
@@ -122,7 +122,7 @@ translate french b1c08s01_call_recaps_43b3b093:
 translate french b1c08s01_continue_c8c3fe90:
 
     # mc "Well, as for [b1c08s01_lowest_points_name!t], I didn't get to investigate them as much as I'd like."
-    mc "Eh bien, en ce qui concerne [b1c08s01_lowest_points_name!t], je n'ai pas pu les enquêter autant que j'aurais voulu."
+    mc "Eh bien, en ce qui concerne [b1c08s01_lowest_points_name!t], je n'ai pas pu enquêter autant que j'aurais voulu."
 
 # game/code/Book-1/Chapter-8/s01.rpy:175
 translate french b1c08s01_continue_8fbdda7e:
@@ -134,7 +134,7 @@ translate french b1c08s01_continue_8fbdda7e:
 translate french b1c08s01_continue_d6c970b3:
 
     # pm "Hey, don't get your morale down now. You're just one person. You're doing the best you can."
-    pm "Hé, ne baisse pas ton moral maintenant. Tu n'es qu'une seule personne. Tu fais de ton mieux."
+    pm "Hé, ne baisse pas les bras maintenant. Tu es tout seule a le faire. Tu fais de ton mieux."
 
 # game/code/Book-1/Chapter-8/s01.rpy:179
 translate french b1c08s01_continue_394be9e3:
@@ -146,13 +146,13 @@ translate french b1c08s01_continue_394be9e3:
 translate french b1c08s01_continue_744920d2:
 
     # mc "You think so? Sometimes it feels like I'm chasing ghosts."
-    mc "Tu crois ça? Parfois, on dirait que je poursuis des fantômes."
+    mc "Tu crois ça? Parfois, on dirait que je poursuis juste des fantômes."
 
 # game/code/Book-1/Chapter-8/s01.rpy:186
 translate french b1c08s01_continue_5c20a690:
 
     # pm "I know. It's frustrating, but remember, every little piece of information is a step closer to solving the puzzle."
-    pm "Je sais. C'est frustrant, mais souviens-toi, chaque petit détail nous rapproche de résoudre l'énigme."
+    pm "Je sais. C'est frustrant, mais souviens-toi, chaque petit détail nous rapproche plus de résoudre cette affaire."
 
 # game/code/Book-1/Chapter-8/s01.rpy:190
 translate french b1c08s01_continue_c0880faa:
@@ -182,7 +182,7 @@ translate french b1c08s01_continue_1ef7224b:
 translate french b1c08s01_continue_5090907e:
 
     # pm "Tell you what, I'll do some digging into [b1c08s01_lowest_points_name!t] on my end. Two sets of eyes are better than one."
-    pm "Voilà ce qu'on va faire : je vais creuser un peu du côté de [b1c08s01_lowest_points_name!t] de mon côté. Deux paires d'yeux valent mieux qu'une."
+    pm "Voilà ce qu'on va faire : De mon côté je vais creuser un peu du côté de [b1c08s01_lowest_points_name!t]. Deux paires d'yeux valent mieux qu'une."
 
 # game/code/Book-1/Chapter-8/s01.rpy:204
 translate french b1c08s01_continue_eab2d661:
@@ -212,7 +212,7 @@ translate french b1c08s01_continue_921d28a7:
 translate french b1c08s01_continue_d4795f40:
 
     # pm "Sometimes, even detectives need a little saving. Nothing wrong with that."
-    pm "Parfois, même les détectives ont besoin d'un peu de secours. Il n'y a rien de mal à ça."
+    pm "Parfois, même les détectives ont besoin d'un peu d'aide. Il n'y a rien de mal à ça."
 
 # game/code/Book-1/Chapter-8/s01.rpy:217
 translate french b1c08s01_continue_c85d955f:
@@ -230,7 +230,7 @@ translate french b1c08s01_continue_d8dc1134:
 translate french b1c08s01_continue_dc914b7f:
 
     # pm "I... We're doing this to save lives, Matthew. If that means crossing some boundaries, then so be it."
-    pm "Je... On fait ça pour sauver des vies, Matthew. Si cela signifie franchir certaines limites, alors soit."
+    pm "Je... On fait ça pour sauver des vies, Matthew. Si cela signifie franchir certaines limites, alors qu'il en soit ainsi."
 
 # game/code/Book-1/Chapter-8/s01.rpy:229
 translate french b1c08s01_continue_2034c056:
@@ -320,7 +320,7 @@ translate french b1c08s01_end_0297147e:
 translate french b1c08s01_recap_c06w_34b71d1e:
 
     # "You begin your recap on The Winner's Group, going over everything that you've witnessed in great detail."
-    "Tu commences ton récapitulatif sur The Winner's Group, en passant en revue tout ce que tu as observé en détail."
+    "Tu commences ton récapitulatif sur Le Winner's Club, en passant en revue tout ce que tu as observé en détail."
 
 # game/code/Book-1/Chapter-8/s01.rpy:282
 translate french b1c08s01_recap_c06w_b0060573:
@@ -368,13 +368,13 @@ translate french b1c08s01_recap_c06w_fc14dfba:
 translate french b1c08s01_recap_c06w_b5357b13:
 
     # mc "I was invited into the mansion by Silvia after a match and Brigitta absolutely blew up. No one else seemed to care as much, even if they backed her."
-    mc "Silvia m'a invité au manoir après un match, et Brigitta a complètement explosé. Personne d'autre ne semblait s'en soucier autant, même s'ils la soutenaient."
+    mc "Silvia m'a invité au manoir après un match, et Brigitta a complètement explosée. Personne d'autre ne semblait s'en soucier autant, même s'ils la soutenaient."
 
 # game/code/Book-1/Chapter-8/s01.rpy:295
 translate french b1c08s01_recap_c06w_af27d015:
 
     # mc "Made me real curious about what's in there that she doesn't want me to see."
-    mc "Ça m'a vraiment rendu curieux de savoir ce qu'il y a là-dedans qu'elle ne veut pas que je voie."
+    mc "Ça m'a vraiment rendu curieux de savoir ce qu'il y a là-dedans qu'elle ne veut pas que je vois."
 
 # game/code/Book-1/Chapter-8/s01.rpy:299
 translate french b1c08s01_recap_c06w_a43e2700:
@@ -386,7 +386,7 @@ translate french b1c08s01_recap_c06w_a43e2700:
 translate french b1c08s01_recap_c06w_4ab1875e:
 
     # mc "Sam. Ex-member of The Winner's Club. Got kicked out."
-    mc "Sam. Ancienne membre du Winner's Club. Elle s'est fait virer."
+    mc "Sam. Ancienne membre du Winner's Club. Elle s'est faite virer."
 
 # game/code/Book-1/Chapter-8/s01.rpy:302
 translate french b1c08s01_recap_c06w_dda06291:
@@ -416,7 +416,7 @@ translate french b1c08s01_recap_c06w_08580245:
 translate french b1c08s01_recap_c06w_dc85cdf7:
 
     # pm "Looks can be deceiving, Matthew. I hope you're not going easy on a pretty face."
-    pm "Les apparences peuvent être trompeuses, Matthew. J'espère que tu ne te laisses pas attendrir par un joli visage."
+    pm "Les apparences peuvent être trompeuses, Matthew. J'espère que tu ne te laisses pas attendrir par son joli visage."
 
 # game/code/Book-1/Chapter-8/s01.rpy:315
 translate french b1c08s01_recap_c06w_a53144d6:
@@ -428,13 +428,13 @@ translate french b1c08s01_recap_c06w_a53144d6:
 translate french b1c08s01_recap_c06w_05a8d97e:
 
     # pm "Alright, I'm just saying."
-    pm "D'accord, je dis juste ça."
+    pm "D'accord, je dis juste ça au cas oû!."
 
 # game/code/Book-1/Chapter-8/s01.rpy:320
 translate french b1c08s01_recap_c06w_5e401475:
 
     # mc "Well, say less."
-    mc "Bon, dis moins."
+    mc "Eh bien, dis moins."
 
 # game/code/Book-1/Chapter-8/s01.rpy:328
 translate french b1c08s01_recap_c07w_dc1b9154:
@@ -452,13 +452,13 @@ translate french b1c08s01_recap_c07w_5b64a60e:
 translate french b1c08s01_recap_c07w_1f0ce4e9:
 
     # mc "Isa McAdams, she's the planner of sorts. Queen bee type. Says she manages all the parties."
-    mc "Isa McAdams, c'est un peu la planificatrice. Un type reine des abeilles. Elle dit qu'elle gère toutes les fêtes."
+    mc "Isa McAdams, c'est un peu la planificatrice. Un style reine des abeilles. Elle dit qu'elle gère toutes les fêtes."
 
 # game/code/Book-1/Chapter-8/s01.rpy:336
 translate french b1c08s01_recap_c07w_763f0c52:
 
     # pm "Did she manage the party where the girls—?"
-    pm "C'est elle qui a organisé la fête où les filles—?"
+    pm "C'est elle qui a organisée la fête où les filles—?"
 
 # game/code/Book-1/Chapter-8/s01.rpy:338
 translate french b1c08s01_recap_c07w_a87a337b:
@@ -470,7 +470,7 @@ translate french b1c08s01_recap_c07w_a87a337b:
 translate french b1c08s01_recap_c07w_e5726462:
 
     # mc "She's one of the main leads I'm investigating right now."
-    mc "C'est l'une des principales pistes que j'investigue en ce moment."
+    mc "C'est l'une des principales pistes sur laquelle j'investigue en ce moment."
 
 # game/code/Book-1/Chapter-8/s01.rpy:342
 translate french b1c08s01_recap_c07w_b892fab4:
@@ -482,19 +482,19 @@ translate french b1c08s01_recap_c07w_b892fab4:
 translate french b1c08s01_recap_c07w_f0fb305c:
 
     # mc "Ex-lovers. Apparently they had a falling out at the very same party."
-    mc "Ex-amants. Apparemment, ils se sont disputés à la même fête."
+    mc "Ex-amantes. Apparemment, elles se sont disputées à la même fête."
 
 # game/code/Book-1/Chapter-8/s01.rpy:347
 translate french b1c08s01_recap_c07w_5ee66d63:
 
     # mc "Iona also seems to also have a coke habit."
-    mc "Il semble aussi qu'Iona ait une habitude de la coke."
+    mc "Il semble aussi qu'Iona ait une certaine habitude de la coke."
 
 # game/code/Book-1/Chapter-8/s01.rpy:348
 translate french b1c08s01_recap_c07w_cf757b11:
 
     # mc "Doesn't seem like anything serious. Or she masks it well."
-    mc "Ça ne semble pas être quelque chose de sérieux. Ou elle le cache bien."
+    mc "Ça ne semble pas être quelque chose de sérieux. Ou alors elle le cache bien."
 
 # game/code/Book-1/Chapter-8/s01.rpy:349
 translate french b1c08s01_recap_c07w_189c1c2c:
@@ -512,13 +512,13 @@ translate french b1c08s01_recap_c07w_0415f34d:
 translate french b1c08s01_recap_c07w_4b6b5df0:
 
     # mc "*Chuckles* Oh yeah, and we had a little fight with our rivals."
-    mc "*Rit* Oh ouais, et on a eu une petite altercation avec nos rivaux."
+    mc "*Rit* Oh oui aussi, et nous avons eu une petite altercation avec nos rivaux."
 
 # game/code/Book-1/Chapter-8/s01.rpy:354
 translate french b1c08s01_recap_c07w_39acfb1f:
 
     # mc "From what we could tell, they were trying to spy on us. Keyword being 'try.'"
-    mc "D'après ce qu'on a vu, ils essayaient de nous espionner. Le mot-clé étant 'essayer.'"
+    mc "D'après ce que j'ai vu, ils essayaient de nous espionner. Le mot-clé étant 'essayer.'"
 
 # game/code/Book-1/Chapter-8/s01.rpy:355
 translate french b1c08s01_recap_c07w_8a21b0e4:
@@ -596,7 +596,7 @@ translate french b1c08s01_recap_c08w_74df0204:
 translate french b1c08s01_recap_c08w_cc3a2e4a:
 
     # mc "Some members were against it, but they didn't have enough backing to do anything."
-    mc "Certains membres étaient contre, mais ils n'avaient pas assez de soutien pour faire quoi que ce soit."
+    mc "Certains membres étaient contre, mais elles n'avaient pas assez de soutien pour faire quoi que ce soit."
 
 # game/code/Book-1/Chapter-8/s01.rpy:392
 translate french b1c08s01_recap_c08w_1556d0e8:
@@ -674,7 +674,7 @@ translate french b1c08s01_recap_c08w_745c2e07:
 translate french b1c08s01_recap_c08w_af833a21:
 
     # mc "There's some bad blood between Monika and Olesya, so I want to check if there's anything to learn there beyond half-sibling rivalry."
-    mc "Il y a une mauvaise entente entre Monika et Olesya, donc je veux vérifier s'il y a autre chose à apprendre là-bas, au-delà de la rivalité entre demi-sœurs."
+    mc "Il y a une mauvaise entente entre Monika et Olesya, donc je veux vérifier s'il y a autre chose à apprendre là-dessus, au-delà de la rivalité entre demi-sœurs."
 
 # game/code/Book-1/Chapter-8/s01.rpy:425
 translate french b1c08s01_recap_c08w_b913e916:
@@ -686,7 +686,7 @@ translate french b1c08s01_recap_c08w_b913e916:
 translate french b1c08s01_recap_c08w_2308a15f:
 
     # mc "I will. I promise."
-    mc "Je le ferai. Je promets."
+    mc "Je le ferai. Je te le promets."
 
 # game/code/Book-1/Chapter-8/s01.rpy:435
 translate french b1c08s01_recap_c06c_2d90b0b2:
@@ -704,13 +704,13 @@ translate french b1c08s01_recap_c06c_ba5d7fe4:
 translate french b1c08s01_recap_c06c_30af218e:
 
     # mc "Love bombing, forced intimacy, acts of loyalty, the whole nine yards."
-    mc "Love bombing, intimité forcée, actes de loyauté, tout le toutim."
+    mc "Bombardement d'amour, intimité forcée, actes de loyauté et tout le tralala qui va avec."
 
 # game/code/Book-1/Chapter-8/s01.rpy:439
 translate french b1c08s01_recap_c06c_2f533d12:
 
     # mc "It started off with a seminar and getting introduced to the other new recruits."
-    mc "Tout a commencé par un séminaire et une introduction aux autres nouvelles recrues."
+    mc "Tout a commencé par un séminaire et une introduction des nouvelles recrues aux autres."
 
 # game/code/Book-1/Chapter-8/s01.rpy:442
 translate french b1c08s01_recap_c06c_ffa3f1ce:
@@ -728,7 +728,7 @@ translate french b1c08s01_recap_c06c_d73e54a5:
 translate french b1c08s01_recap_c06c_280a4fb3:
 
     # mc "Yes, she's technically my \"guide\" now. Basically, she's the one that's supposed to guide me on my \"spiritual journey\", and her ways are...unique, to say the least.."
-    mc "Oui, elle est techniquement ma \"guide\" maintenant. En gros, c'est elle qui est censée me guider dans mon \"voyage spirituel\", et ses méthodes sont... uniques, pour dire le moins."
+    mc "Oui, elle est techniquement ma \"guide\" maintenant. En gros, c'est elle qui est censée me guider dans mon \"voyage spirituel\", et ses méthodes sont... uniques, pour le moins que je puisse dire."
 
 # game/code/Book-1/Chapter-8/s01.rpy:450
 translate french b1c08s01_recap_c06c_94b67483:
@@ -770,19 +770,19 @@ translate french b1c08s01_recap_c06c_0e5a6974:
 translate french b1c08s01_recap_c06c_620204c1:
 
     # mc "Well, for one thing, he hasn't done anything to boot me from the group yet. You'd think that if he hated me that much, he'd just get rid of me, but no."
-    mc "Eh bien, pour commencer, il n'a encore rien fait pour me virer du groupe. On pourrait penser que s'il me détestait autant, il me débarrasserait de moi, mais non."
+    mc "Eh bien, pour commencer, il n'a encore rien fait pour me virer du groupe. On pourrait penser que s'il me détestait autant, il ce débarrasserait de moi, mais non."
 
 # game/code/Book-1/Chapter-8/s01.rpy:473
 translate french b1c08s01_recap_c06c_4dca1776:
 
     # pm "Maybe he wants you to quit by yourself to make it seem more natural?"
-    pm "Peut-être qu'il veut que tu démissionnes de toi-même pour que ça paraisse plus naturel?"
+    pm "Peut-être qu'il veut que tu partes de toi-même pour que ça paraisse plus naturel?"
 
 # game/code/Book-1/Chapter-8/s01.rpy:477
 translate french b1c08s01_recap_c06c_029286f1:
 
     # mc "I don't know yet. Regardless though, he makes it very easy to not give into any of their propaganda."
-    mc "Je ne sais pas encore. Quoi qu'il en soit, il rend très facile de ne pas céder à leur propagande."
+    mc "Je ne sais pas encore. Quoi qu'il en soit, il fait en sorte qu'il soit très facile de ne céder à aucune de leur propagande."
 
 # game/code/Book-1/Chapter-8/s01.rpy:480
 translate french b1c08s01_recap_c06c_ff5f214f:
@@ -1058,7 +1058,7 @@ translate french b1c08s01_recap_c08c_131f46f7:
 translate french b1c08s01_recap_c08c_81c66be2:
 
     # pm "I don't care if it's not the mission. If these people try to do something that you can't come back from, you need to do what you need to do."
-    pm "Peu importe si ce n'est pas la mission. Si ces gens tentent de faire quelque chose dont tu ne pourras pas revenir, tu dois faire ce qu'il faut."
+    pm "Peu importe si ce n'est pas la mission. Si ces gens tentent de faire quelque chose dont tu ne pourras pas revenir, tu devras faire ce qu'il faudra."
 
 # game/code/Book-1/Chapter-8/s01.rpy:588
 translate french b1c08s01_recap_c08c_fc4ac7ee:
@@ -1118,7 +1118,7 @@ translate french b1c08s01_recap_c06s_3ba80ee7:
 translate french b1c08s01_recap_c06s_70b644bd:
 
     # mc "Morgan Garret and Corinne Bunker are half-siblings." id b1c08s01_recap_c06s_70b644bd
-    mc "Morgan Garret et Corinne Bunker sont demi-frère et demi-sœur."
+    mc "Morgan Garret et Corinne Bunker sont demi-sœur."
 
 # game/code/Book-1/Chapter-8/s01.rpy:616
 translate french b1c08s01_recap_c06s_66de37ed:
@@ -1136,7 +1136,7 @@ translate french b1c08s01_recap_c06s_4dd67904:
 translate french b1c08s01_recap_c06s_209c668b:
 
     # mc "They had a falling out a while back and weren't on speaking terms."
-    mc "Ils se sont disputés il y a quelque temps et ne se parlaient plus."
+    mc "Elles se sont disputées il y a quelque temps et ne se parlent plus."
 
 # game/code/Book-1/Chapter-8/s01.rpy:629
 translate french b1c08s01_recap_c07s_12ae29e8:
@@ -1250,7 +1250,7 @@ translate french b1c08s01_recap_c07s_247d6338:
 translate french b1c08s01_recap_c07s_89a181b0:
 
     # mc "I had a bit of a scuffle at Rory's with someone named Cade. Someone from a rival gang called The Wasps."
-    mc "J'ai eu une petite altercation chez Rory avec quelqu'un nommé Cade. C'est un membre d'un gang rival appelé The Wasps."
+    mc "J'ai eu une petite altercation chez Rory avec quelqu'un nommé Cade. C'est un membre d'un gang rival appelé The Wasps ( Les Abeilles)."
 
 # game/code/Book-1/Chapter-8/s01.rpy:667
 translate french b1c08s01_recap_c07s_53eb8627:
@@ -1262,7 +1262,7 @@ translate french b1c08s01_recap_c07s_53eb8627:
 translate french b1c08s01_recap_c07s_d1fd0311:
 
     # mc "I'm fine. You should've seen the other guy. {w}Anyway. After Rory, I met up with Morgan."
-    mc "Ça va. T'aurais dû voir l'autre gars. {w}Bref. Après Rory, j'ai retrouvé Morgan."
+    mc "Ça va. T'aurais dû voir la gueule du gars. {w}Bref. Après Rory, j'ai retrouvé Morgan."
 
 # game/code/Book-1/Chapter-8/s01.rpy:669
 translate french b1c08s01_recap_c07s_d9a4c3dd:
@@ -1298,7 +1298,7 @@ translate french b1c08s01_recap_c07s_53eb8627_1:
 translate french b1c08s01_recap_c07s_083f51aa:
 
     # mc "I'm fine. You should've seen the other guy. {w}Anyway. After Rory, I met up with Corinne." id b1c08s01_recap_c07s_083f51aa
-    mc "Ça va. T'aurais dû voir l'autre gars. {w}Bref. Après Rory, j'ai retrouvé Corinne."
+    mc "Ça va. T'aurais dû voir la gueule de l'autre gars. {w}Bref. Après Rory, j'ai retrouvé Corinne."
 
 # game/code/Book-1/Chapter-8/s01.rpy:679
 translate french b1c08s01_recap_c07s_f45cf8a9:
@@ -1316,7 +1316,7 @@ translate french b1c08s01_recap_c07s_7f1c6212:
 translate french b1c08s01_recap_c08s_745fd50b:
 
     # mc "After all that, Cade and some goons from The Wasps decided to kidnap some Syndicate members. That was my ticket in with them."
-    mc "Après tout ça, Cade et quelques sbires des Wasps ont décidé d'enlever des membres du Syndicat. C'était mon billet pour les rejoindre."
+    mc "Après tout ça, Cade et quelques sbires des Abeilles ont décidés d'enlever des membres du Syndicat. C'était mon billet pour les rejoindre."
 
 # game/code/Book-1/Chapter-8/s01.rpy:689
 translate french b1c08s01_recap_c08s_2c55070e:
@@ -1370,7 +1370,7 @@ translate french b1c08s01_recap_c08s_c0c0b2f5:
 translate french b1c08s01_recap_c08s_58614cd0:
 
     # mc "I was taken to the leader of The Wasps, a woman named Hellena Acton."
-    mc "On m'a emmené voir la chef des Wasps, une femme nommée Hellena Acton."
+    mc "On m'a emmené voir la chef des Abeilles, une femme nommée Hellena Acton."
 
 # game/code/Book-1/Chapter-8/s01.rpy:707
 translate french b1c08s01_recap_c08s_4084360c:
@@ -1382,7 +1382,7 @@ translate french b1c08s01_recap_c08s_4084360c:
 translate french b1c08s01_recap_c08s_8f70c083:
 
     # mc "She was trying to get me to help her unite the gangs, that's all she talked about. I played along, but she started getting suspicious of my bullshit."
-    mc "Elle essayait de me faire l'aider à unir les gangs, c'est tout ce dont elle parlait. J'ai joué le jeu, mais elle a commencé à se méfier de mes mensonges."
+    mc "Elle essayait de me faire l'aider à unir les gangs, c'est tout ce dont elle parlait. J'ai joué le jeu, mais elle a commencée à se méfier de mes mensonges."
 
 # game/code/Book-1/Chapter-8/s01.rpy:712
 translate french b1c08s01_recap_c08s_76936d28:
@@ -1418,7 +1418,7 @@ translate french b1c08s01_recap_c08s_baee7a4e:
 translate french b1c08s01_recap_c08s_d2609ce4:
 
     # pm "That asshole."
-    pm "Cet enfoiré."
+    pm "Quel enfoiré."
 
 # game/code/Book-1/Chapter-8/s01.rpy:726
 translate french b1c08s01_recap_c08s_f37483a8:
