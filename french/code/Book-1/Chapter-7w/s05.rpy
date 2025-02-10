@@ -20,7 +20,7 @@ translate french b1c07ws05_6c74d8d0:
 translate french b1c07ws05_92c10850:
 
     # ima "Glad to see you drop by. Thought Brigitta might've scared you off or something."
-    ima "Content de te voir passer. Je pensais que Brigitta t'aurait fait fuir ou quelque chose comme ça."
+    ima "Content de te voir ici. Je pensais que Brigitta t'aurait fait fuir ou quelque chose comme ça."
 
 # game/code/Book-1/Chapter-7w/s05.rpy:69
 translate french b1c07ws05_25471f04:
@@ -74,7 +74,7 @@ translate french b1c07ws05_2677e2d2:
 translate french b1c07ws05_f423c3b2:
 
     # ba "You can't fucking do this! He's some outsid—"
-    ba "Tu ne peux pas faire ça! C'est un foutu étranger—"
+    ba "Tu ne peux pas faire ça! C'est un putain étranger—"
 
 # game/code/Book-1/Chapter-7w/s05.rpy:106
 translate french b1c07ws05_11c02f2c:
@@ -86,7 +86,7 @@ translate french b1c07ws05_11c02f2c:
 translate french b1c07ws05_903d73c3:
 
     # sm "Guys, please. We're here to have a nice time and relax, can we not fight?"
-    sm "Les gars, s'il vous plaît. On est là pour passer un bon moment et se détendre, on ne peut pas arrêter de se battre?"
+    sm "Les gars, s'il vous plaît. On est là pour passer un bon moment et se détendre, vous pouvez pas arrêter de vous battre?"
 
 # game/code/Book-1/Chapter-7w/s05.rpy:113
 translate french b1c07ws05_63ab528b:
@@ -122,7 +122,7 @@ translate french b1c07ws05_6a14a930:
 translate french b1c07ws05_3c951150:
 
     # mc "I swear to God, what is her problem with me?"
-    mc "Je jure devant Dieu, quel est son problème avec moi?"
+    mc "Sainte mère Dieu, c'est quoi son problème avec moi?"
 
 # game/code/Book-1/Chapter-7w/s05.rpy:135
 translate french b1c07ws05_d46e12c1:
@@ -158,7 +158,7 @@ translate french b1c07ws05_0c86f1f1:
 translate french b1c07ws05_df06c236:
 
     # ima "That's it from me then. Have fun and welcome to the Winners!"
-    ima "C'est tout pour moi alors. Amusez-vous bien et bienvenue chez les Winners!"
+    ima "C'est tout pour moi alors. Amuses-toi bien et bienvenue chez les Winners!"
 
 # game/code/Book-1/Chapter-7w/s05.rpy:163
 translate french b1c07ws05_46691a50:
@@ -230,7 +230,7 @@ translate french b1c07ws05_e1a17b37:
 translate french b1c07ws05_d84d2541:
 
     # ima "We've improvised, we've adapted, and we've overcome, and now we're back on track to our rightly deserved spot at the top."
-    ima "Nous avons improvisé, nous avons adapté, nous avons surmonté, et maintenant nous sommes de retour sur la bonne voie pour retrouver notre place bien méritée en haut."
+    ima "Nous avons improvisé, nous nous sommes adapté, nous avons surmonté, et maintenant nous sommes de retour sur la bonne voie pour retrouver notre place bien méritée en haut du classement."
 
 # game/code/Book-1/Chapter-7w/s05.rpy:206
 translate french b1c07ws05_d726925c:
@@ -374,7 +374,7 @@ translate french b1c07ws05_bar_ir_cf9e9230:
 translate french b1c07ws05_bar_ir_c7825b0d:
 
     # ir "Make me \"behave\"? My, my, wouldn't I love to see {i}that{/i}."
-    ir "Me faire \"comporter\"? Oh là là, comme j'aimerais voir {i}ça{/i}."
+    ir "Me faire \"bien comporter\"? Oh là là, comme j'aimerais voir {i}ça{/i}."
 
 # game/code/Book-1/Chapter-7w/s05.rpy:312
 translate french b1c07ws05_bar_ir_42cc62da:
@@ -392,7 +392,7 @@ translate french b1c07ws05_bar_ir_f98b8209:
 translate french b1c07ws05_bar_ir_6da136f4:
 
     # ir "Guy fucks around and he gets a pat on the back, but a girl goes a lil' crazy for the hot stud that landed on her lap, and she's the crazy one?"
-    ir "Un gars fait des bêtises et il reçoit une tape dans le dos, mais une fille devient un peu folle pour le beau gosse qui tombe sur ses genoux, et c'est elle la folle?"
+    ir "Un mec baise et il reçoit une tape dans le dos, mais une fille qui devient un peu folle de l'étalon sexy qui a atterri sur ses genoux, et c'est elle qui est folle.?"
 
 # game/code/Book-1/Chapter-7w/s05.rpy:329
 translate french b1c07ws05_bar_ir_80fbe0d4:
@@ -488,19 +488,19 @@ translate french b1c07ws05_bar_ir_fd6e855a:
 translate french b1c07ws05_bar_ir_c1e7916e:
 
     # mm "So what's going on with you two? Are you two a thing yet or what?"
-    mm "Alors, qu'est-ce qui se passe entre vous deux? Vous êtes ensemble ou quoi?"
+    mm "Alors, qu'est-ce qui se passe entre vous deux ? Êtes-vous déjà ensemble ou quoi?"
 
 # game/code/Book-1/Chapter-7w/s05.rpy:387
 translate french b1c07ws05_bar_ir_1d8bc34c:
 
     # mc "A \"thing\"?"
-    mc "Un \"truc\"?"
+    mc "euh \"ensemble\"?"
 
 # game/code/Book-1/Chapter-7w/s05.rpy:390
 translate french b1c07ws05_bar_ir_1440e779:
 
     # mm "Oh, don't act coy with me, I've seen you two."
-    mm "Oh, ne fais pas l'innocente avec moi, je vous ai vus tous les deux."
+    mm "Oh, ne fais pas l'innocent avec moi, je vous ai vus tous les deux."
 
 # game/code/Book-1/Chapter-7w/s05.rpy:393
 translate french b1c07ws05_bar_ir_5550a280:
@@ -512,7 +512,7 @@ translate french b1c07ws05_bar_ir_5550a280:
 translate french b1c07ws05_bar_ir_37c3361b:
 
     # ir "We're getting married in a month. Shotgun."
-    ir "On se marie dans un mois. Place avant."
+    ir "Nous nous marions dans un mois. Fusil de chasse."
 
 # game/code/Book-1/Chapter-7w/s05.rpy:402
 translate french b1c07ws05_bar_ir_5713e1d3:
@@ -710,7 +710,7 @@ translate french b1c07ws05_bar_sex_28abe204:
 translate french b1c07ws05_bar_sex_ff5172cb:
 
     # ir "Coming right up."
-    ir "C'est tout de suite."
+    ir "tout de suite."
 
 # game/code/Book-1/Chapter-7w/s05.rpy:564
 translate french b1c07ws05_bar_sex_5e4398ce:
@@ -836,7 +836,7 @@ translate french b1c07ws05_bar_sex_81aeb481:
 translate french b1c07ws05_bar_sex_70ada275:
 
     # ir "*Shakes her head* And {i}I'm{/i} the horny one."
-    ir "*Secoue la tête* Et {i}moi{/i} je suis la perverse."
+    ir "*Secoue la tête* Et {i}c'est moi{/i} la perverse."
 
 # game/code/Book-1/Chapter-7w/s05.rpy:683
 translate french b1c07ws05_bar_sex_0a5f37f0:
@@ -914,7 +914,7 @@ translate french b1c07ws05_iona_sex_cb54276c:
 translate french b1c07ws05_iona_sex_562212d9:
 
     # mc "Look at that, it's charged."
-    mc "Regarde ça, c'est chargé."
+    mc "Regarde ça, il est chargé."
 
 # game/code/Book-1/Chapter-7w/s05.rpy:745
 translate french b1c07ws05_iona_sex_7b471f6f:
@@ -950,7 +950,7 @@ translate french b1c07ws05_iona_sex_acc24f03:
 translate french b1c07ws05_iona_sex_2d122822:
 
     # ir "Yeah? Make me."
-    ir "Ouais? Fais-le."
+    ir "Ouais? Fais-moi crier."
 
 # game/code/Book-1/Chapter-7w/s05.rpy:771
 translate french b1c07ws05_iona_sex_4235d154:
@@ -974,7 +974,7 @@ translate french b1c07ws05_iona_sex_4ad5990a:
 translate french b1c07ws05_iona_sex_de67a385:
 
     # mc "You look so fucking beautiful, Iona."
-    mc "Tu es tellement foutrement belle, Iona."
+    mc "Tu es tellement belle, Iona."
 
 # game/code/Book-1/Chapter-7w/s05.rpy:795
 translate french b1c07ws05_iona_sex_236bc733:
@@ -986,7 +986,7 @@ translate french b1c07ws05_iona_sex_236bc733:
 translate french b1c07ws05_iona_sex_c5ec9845:
 
     # "Iona gets louder and more desperate. She was already sensitive from the orgasm you gave her earlier, and now she squirms from the pleasure overload."
-    "Iona devient de plus en plus bruyante et désespérée. Elle était déjà sensible de l'orgasme que tu lui as donné plus tôt, et maintenant elle se tortille sous la surcharge de plaisir."
+    "Iona devient de plus en plus bruyante et désespérée. Elle était déjà sensible de l'orgasme que tu lui as donné plus tôt, mais maintenant elle se tortille sous la surcharge de plaisir."
 
 # game/code/Book-1/Chapter-7w/s05.rpy:812
 translate french b1c07ws05_iona_sex_97a3b0b4:
@@ -1004,7 +1004,7 @@ translate french b1c07ws05_iona_sex_798ca539:
 translate french b1c07ws05_iona_sex_3d00b934:
 
     # "Iona's body shudders in your hands. Her sweat makes it hard to grab her for support, but you hold her tight against you regardless."
-    "Le corps d'Iona tremble dans tes mains. Sa sueur rend difficile de la saisir pour la soutenir, mais tu la maintiens fermement contre toi malgré tout."
+    "Le corps d'Iona tremble dans tes bras. Sa sueur rend difficile de la saisir pour la soutenir, mais tu la maintiens fermement contre toi malgré tout."
 
 # game/code/Book-1/Chapter-7w/s05.rpy:824
 translate french b1c07ws05_iona_sex_20e296f2:
@@ -1022,7 +1022,7 @@ translate french b1c07ws05_iona_sex_91d8a70c:
 translate french b1c07ws05_iona_sex_15f735c2:
 
     # ir "Fuck. Me. Now."
-    ir "Baise. Moi. Maintenant."
+    ir "Baise... Moi... Maintenant."
 
 # game/code/Book-1/Chapter-7w/s05.rpy:840
 translate french b1c07ws05_iona_sex_d8463755:
@@ -1082,7 +1082,7 @@ translate french b1c07ws05_iona_sex_e2cefc4c:
 translate french b1c07ws05_iona_sex_fbe3baf1:
 
     # ir "*Laughs* Fuck them. Don't you dare stop!"
-    ir "*Rit* Baise-les. Ne t'arrête pas!"
+    ir "*Rit* tu l'emmerdes. Ne t'arrête pas!"
 
 # game/code/Book-1/Chapter-7w/s05.rpy:900
 translate french b1c07ws05_iona_sex_b98803ef:
@@ -1106,13 +1106,13 @@ translate french b1c07ws05_iona_sex_bf895d54:
 translate french b1c07ws05_iona_sex_205b8ef8:
 
     # "You push yourself to the hilt and coat her walls with your cum at the same time as her own orgasm arrives."
-    "Tu t'enfonces jusqu'au fond et tu recouvres ses parois de ta semence en même temps que son propre orgasme arrive."
+    "Tu t'enfonces jusqu'au fond et tu remplis sa petite chatte de ton sperme en même temps que son propre orgasme arrive."
 
 # game/code/Book-1/Chapter-7w/s05.rpy:918
 translate french b1c07ws05_iona_sex_72ea6f26:
 
     # "She squeezes you, greedily sucking out every last drop until it's all inside of her."
-    "Elle te serre, aspirant goulûment chaque dernière goutte jusqu'à ce que tout soit en elle."
+    "Elle te serre, aspirant avidement la dernière goutte jusqu'à ce que tout soit en elle.."
 
 # game/code/Book-1/Chapter-7w/s05.rpy:920
 translate french b1c07ws05_iona_sex_18a9000d:
@@ -1136,7 +1136,7 @@ translate french b1c07ws05_iona_sex_9c07af13:
 translate french b1c07ws05_iona_sex_4138d4aa:
 
     # ir "Christ. You really gave me a workout today."
-    ir "Putain. Tu m'as vraiment fait bosser aujourd'hui."
+    ir "Putain. Tu m'as vraiment donné une bonne séance d'entraînement aujourd'hui."
 
 # game/code/Book-1/Chapter-7w/s05.rpy:944
 translate french b1c07ws05_iona_sex_9132eaba:
@@ -1148,7 +1148,7 @@ translate french b1c07ws05_iona_sex_9132eaba:
 translate french b1c07ws05_iona_sex_4b3fd019:
 
     # ir "If we keep going like this, I'm gonna be built like Brig by the time the tournament rolls around."
-    ir "Si on continue comme ça, je vais être bâti comme Brig d'ici au moment où le tournoi arrivera."
+    ir "Si on continue comme ça, je vais être bâti comme Brig quand le tournoi arrivera."
 
 # game/code/Book-1/Chapter-7w/s05.rpy:956
 translate french b1c07ws05_iona_sex_a8eff729:
@@ -1214,7 +1214,7 @@ translate french b1c07ws05_iona_sex_950f878e:
 translate french b1c07ws05_iona_sex_5cfb4403:
 
     # ir "That's the thing though, he's paid more than enough to deal with us."
-    ir "Le truc, c'est qu'il est payé largement assez pour gérer avec nous."
+    ir "Mais c'est le problème, il est payé plus que suffisant pour s'occuper de nous.."
 
 # game/code/Book-1/Chapter-7w/s05.rpy:988
 translate french b1c07ws05_iona_sex_50d4fdd6:
