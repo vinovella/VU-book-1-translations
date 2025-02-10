@@ -74,7 +74,7 @@ translate french b1c07ws07_93cae4d2:
 translate french b1c07ws07_2b891974:
 
     # ima "I don't...care for you anymore, Sam."
-    ima "Je ne... tiens plus à toi, Sam."
+    ima "Je ne me soucie plus de toi, Sam"
 
 # game/code/Book-1/Chapter-7w/s07.rpy:70
 translate french b1c07ws07_5d878ea8:
@@ -86,7 +86,7 @@ translate french b1c07ws07_5d878ea8:
 translate french b1c07ws07_e5667e4f:
 
     # sdl "C'mon sweetpea, you don't mean that. All is forgiven, sweetheart."
-    sdl "Allez ma douce, tu ne penses pas ça. Tout est pardonné, chérie."
+    sdl "Allez ma douce, tu ne penses pas ça. Tout est pardonnée, chérie."
 
 # game/code/Book-1/Chapter-7w/s07.rpy:74
 translate french b1c07ws07_c101a1a2:
@@ -104,7 +104,7 @@ translate french b1c07ws07_6bf5151c:
 translate french b1c07ws07_3b54a5eb:
 
     # ima "All is {i}not{/i} forgiven. Because I don't forgive you."
-    ima "Tout n'est {i}pas{/i} pardonné. Parce que je ne te pardonne pas."
+    ima "Tout n'est {i}pas{/i} pardonnée. Parce que je ne te pardonne pas."
 
 # game/code/Book-1/Chapter-7w/s07.rpy:83
 translate french b1c07ws07_0041e033:
@@ -272,13 +272,13 @@ translate french b1c07ws07_6764bc71:
 translate french b1c07ws07_09394c85:
 
     # ima "You— Just, go. I don't want to see your face."
-    ima "Toi— Pars, simplement. Je ne veux pas voir ton visage."
+    ima "Toi— Pars, simplement. Je ne veux plus voir ta gueule."
 
 # game/code/Book-1/Chapter-7w/s07.rpy:156
 translate french b1c07ws07_16c8bf60:
 
     # sdl "But that's the thing, sweetpea. I know you want to. I know you better than I know myself."
-    sdl "Mais c'est ça, ma douce. Je sais que tu en as envie. Je te connais mieux que je ne me connais moi-même."
+    sdl "Mais oui c'est ça, ma douce. Je sais que tu en as envie. Je te connais mieux que je ne me connais moi-même."
 
 # game/code/Book-1/Chapter-7w/s07.rpy:157
 translate french b1c07ws07_238f3f1f:
