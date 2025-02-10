@@ -26,7 +26,7 @@ translate french b1c07cs07_5aa22cdf:
 translate french b1c07cs07_93e78917:
 
     # nv "I um—Do you wanna get lunch together?"
-    nv "Euh... Tu veux déjeuner ensemble?"
+    nv "Euh... Tu veux qu'on déjeune ensemble?"
 
 # game/code/Book-1/Chapter-7c/s07.rpy:32
 translate french b1c07cs07_6dbebe72:
@@ -38,7 +38,7 @@ translate french b1c07cs07_6dbebe72:
 translate french b1c07cs07_9017d39a:
 
     # nv "It makes um, advancing through the self-help group easier."
-    nv "Ça rend euh... progresser dans le groupe de soutien plus facile."
+    nv "Ça fera euh... Ca facilitera la progression dans le groupe d'entraide.."
 
 # game/code/Book-1/Chapter-7c/s07.rpy:36
 translate french b1c07cs07_f0a5a9d6:
@@ -74,7 +74,7 @@ translate french b1c07cs07_bd3b37dc:
 translate french b1c07cs07_d18e8064:
 
     # mc "After you."
-    mc "Après toi."
+    mc "Après toi jeune fille."
 
 # game/code/Book-1/Chapter-7c/s07.rpy:67
 translate french b1c07cs07_after_lunch_b36e3912:
@@ -122,13 +122,13 @@ translate french b1c07cs07_after_lunch_bda88bf5:
 translate french b1c07cs07_after_lunch_754ea9d9:
 
     # nv "I'm just...thinking, I guess."
-    nv "Je suis juste... en train de réfléchir, je suppose."
+    nv "Je étais juste... en train de réfléchir, enfin je pense."
 
 # game/code/Book-1/Chapter-7c/s07.rpy:85
 translate french b1c07cs07_after_lunch_59bc4412:
 
     # nv "Maria would've enjoyed talking with you."
-    nv "Maria aurait apprécié parler avec toi."
+    nv "Maria aurait appréciée parler avec toi."
 
 # game/code/Book-1/Chapter-7c/s07.rpy:88
 translate french b1c07cs07_after_lunch_aa986f6c:
@@ -152,7 +152,7 @@ translate french b1c07cs07_after_lunch_74fc6761:
 translate french b1c07cs07_after_lunch_fab11d1b:
 
     # nv "She and I were close outside of the group. We were friends first, Guide and new member second."
-    nv "Elle et moi étions proches en dehors du groupe. Nous étions d'abord amies, Guide et nouvelle membre ensuite."
+    nv "Elle et moi étions proches en dehors du groupe. Nous étions d'abord amies, nouvelle membre et guide ensuite."
 
 # game/code/Book-1/Chapter-7c/s07.rpy:98
 translate french b1c07cs07_after_lunch_c4de5ecc:
@@ -200,13 +200,13 @@ translate french b1c07cs07_after_lunch_cce63e5a:
 translate french b1c07cs07_after_lunch_a8d5ec73:
 
     # nv "I know that's selfish—it's not about me. And I feel {i}disgusted{/i} with myself for even thinking such awful things. {i}Maria's{/i} the victim, not me."
-    nv "Je sais que c'est égoïste—ça ne concerne pas moi. Et je me sens {i}dégoûtée{/i} de moi-même pour penser de telles choses horribles. {i}Maria{/i} est la victime, pas moi."
+    nv "Je sais que c'est égoïste— ça ne me concerne pas. Et je me sens {i}dégoûtée{/i} de moi-même pour penser de telles choses horribles. {i}Maria{/i} est la victime, pas moi."
 
 # game/code/Book-1/Chapter-7c/s07.rpy:117
 translate french b1c07cs07_after_lunch_e17f7f86:
 
     # nv "And yet I can't help but feel betrayed and heartbroken by her absence. It's like the world keeps going while I'm stuck right where she left me."
-    nv "Et pourtant, je ne peux m'empêcher de me sentir trahie et le cœur brisé par son absence. C'est comme si le monde continuait alors que je reste coincée là où elle m'a laissée."
+    nv "Et pourtant, je ne peux m'empêcher de me sentir trahie et le cœur brisée par son absence. C'est comme si le monde continuait alors que je reste coincée là où elle m'a laissée."
 
 # game/code/Book-1/Chapter-7c/s07.rpy:118
 translate french b1c07cs07_after_lunch_979b24b9:
@@ -242,7 +242,7 @@ translate french b1c07cs07_after_lunch_ee73dc30:
 translate french b1c07cs07_after_lunch_c697ae6c:
 
     # mc "Your feelings are normal and valid. You're not crazy for feeling that way. It might feel irrational right now, but it's just your mind trying to process a traumatic event."
-    mc "Tes sentiments sont normaux et légitimes. Tu n'es pas folle de ressentir cela. Cela peut sembler irrationnel en ce moment, mais c'est juste ton esprit qui essaie de traiter un événement traumatisant."
+    mc "Tes sentiments sont normaux et légitimes. Tu n'es pas folle de ressentir cela. Cela peut sembler irrationnel sur le moment, mais c'est juste ton esprit qui essaie de traiter un événement traumatisant."
 
 # game/code/Book-1/Chapter-7c/s07.rpy:134
 translate french b1c07cs07_after_lunch_fd97bfc0:
@@ -260,7 +260,7 @@ translate french b1c07cs07_after_lunch_c9a7d5f6:
 translate french b1c07cs07_after_lunch_5aa0a4a1:
 
     # mc "It means you care. I'd be more concerned if you felt nothing, honestly."
-    mc "Cela signifie que tu tiens à elle. Je serais plus inquiet si tu ne ressentais rien, honnêtement."
+    mc "Cela signifie que tu tiens à elle. Honnêtement je serais beacoup plus inquiet si tu ne ressentais rien."
 
 # game/code/Book-1/Chapter-7c/s07.rpy:143
 translate french b1c07cs07_after_lunch_7cb52322:
@@ -326,13 +326,13 @@ translate french b1c07cs07_after_lunch_c58549b2:
 translate french b1c07cs07_after_lunch_5b4b4f52:
 
     # mc "You are intelligent, kind, thoughtful, creative, and so many other endless things."
-    mc "Tu es intelligente, gentille, attentionnée, créative, et tellement d'autres choses infinies."
+    mc "Tu es intelligente, gentille, attentionnée, créative, et tant d'autres choses sans fin."
 
 # game/code/Book-1/Chapter-7c/s07.rpy:178
 translate french b1c07cs07_after_lunch_f2b7f00c:
 
     # mc "I'm so lucky just to know you. You're like a secretive poem that only a few lucky people ever get to read."
-    mc "J'ai tellement de chance rien que de te connaître. Tu es comme un poème mystérieux que seuls quelques chanceux ont la chance de lire."
+    mc "J'ai tellement de chance de te connaître. Tu es comme un poème mystérieux que seuls quelques chanceux ont la chance de lire."
 
 # game/code/Book-1/Chapter-7c/s07.rpy:181
 translate french b1c07cs07_after_lunch_6ca38d41:
@@ -356,7 +356,7 @@ translate french b1c07cs07_after_lunch_d1d00924:
 translate french b1c07cs07_after_lunch_3fe4dc28:
 
     # mc "You're art in every form, Nia. No one form of art can properly capture how incredible you are."
-    mc "Tu es de l'art sous toutes ses formes, Nia. Aucune forme d'art ne peut vraiment capturer à quel point tu es incroyable."
+    mc "Tu es de l'art sous toutes ses formes, Nia. Aucune forme d’art ne peut capturer correctement à quel point tu es incroyable.."
 
 # game/code/Book-1/Chapter-7c/s07.rpy:192
 translate french b1c07cs07_after_lunch_a723c523:
@@ -374,7 +374,7 @@ translate french b1c07cs07_after_lunch_10c1359a:
 translate french b1c07cs07_after_lunch_294425fa:
 
     # nv "Despite your description of me being the walking incarnation of art, I still cannot think of words that describe how thankful I am for you."
-    nv "Malgré ta description de moi comme l'incarnation vivante de l'art, je ne trouve toujours pas les mots pour décrire à quel point je suis reconnaissante pour toi."
+    nv "Malgré ta description de moi, comme l'incarnation vivante de l'art, je ne trouve toujours pas les mots pour décrire à quel point je te suis reconnaissante."
 
 # game/code/Book-1/Chapter-7c/s07.rpy:205
 translate french b1c07cs07_after_lunch_7c53c710:
@@ -386,19 +386,19 @@ translate french b1c07cs07_after_lunch_7c53c710:
 translate french b1c07cs07_after_lunch_8f14a27d:
 
     # nv "Oh, don't be such a flirt. It was just a spur of the moment kiss."
-    nv "Oh, ne sois pas un flirt. C'était juste un baiser impulsif."
+    nv "Oh, ne sois pas si flatteur. C'était juste un baiser impulsif."
 
 # game/code/Book-1/Chapter-7c/s07.rpy:211
 translate french b1c07cs07_after_lunch_cbf6af97:
 
     # mc "I mean it, though."
-    mc "Je le pense vraiment."
+    mc "Je ne suis pas flatteur, c'est juste que je le pense vraiment."
 
 # game/code/Book-1/Chapter-7c/s07.rpy:214
 translate french b1c07cs07_after_lunch_f1218d72:
 
     # nv "I know you do. I appreciate it."
-    nv "Je sais que tu le penses. Je l'apprécie."
+    nv "Je sais que tu le penses. J'apprécie."
 
 # game/code/Book-1/Chapter-7c/s07.rpy:216
 translate french b1c07cs07_after_lunch_e0e69251:
@@ -458,7 +458,7 @@ translate french b1c07cs07_after_lunch_298106f1:
 translate french b1c07cs07_after_lunch_4db4b6d6:
 
     # nv "I'd led such a restricted life because of my brother and family. Intimacy in any form, emotional or physical, wasn't normal for me."
-    nv "J'avais mené une vie tellement restreinte à cause de mon frère et de ma famille. L'intimité sous n'importe quelle forme, émotionnelle ou physique, n'était pas normale pour moi."
+    nv "J'avais menée une vie tellement restreinte à cause de mon frère et de ma famille. L'intimité sous n'importe quelle forme, émotionnelle ou physique, n'était pas normale pour moi."
 
 # game/code/Book-1/Chapter-7c/s07.rpy:243
 translate french b1c07cs07_after_lunch_01eca3c5:
@@ -470,19 +470,19 @@ translate french b1c07cs07_after_lunch_01eca3c5:
 translate french b1c07cs07_after_lunch_5e453869:
 
     # nv "I guess I just, wanted to share that with her... To have a chosen family that gave me the courage and freedom to embrace myself."
-    nv "Je suppose que je voulais simplement partager cela avec elle... Avoir une famille choisie qui m'a donné le courage et la liberté de m'accepter."
+    nv "Je suppose que je voulais simplement partager cela avec elle... Avoir une famille choisie qui m'a donnée le courage et la liberté de m'accepter."
 
 # game/code/Book-1/Chapter-7c/s07.rpy:245
 translate french b1c07cs07_after_lunch_bcc4623d:
 
     # nv "Nowadays, being so physically and emotionally intimate feels like I'm breaking the boundaries between myself and others."
-    nv "De nos jours, être aussi physiquement et émotionnellement intime semble que je brise les barrières entre moi et les autres."
+    nv "De nos jours, être si intime physiquement et émotionnellement, c'est comme si je brisais les frontières entre moi et les autres.."
 
 # game/code/Book-1/Chapter-7c/s07.rpy:247
 translate french b1c07cs07_after_lunch_f0492f95:
 
     # mct "Sometimes it feels like the group has disguised intimacy with control...and I worry about how deep into that illusion Nia is."
-    mct "Parfois, on dirait que le groupe a déguisé l'intimité avec du contrôle... et je m'inquiète de savoir à quel point Nia est plongée dans cette illusion."
+    mct "Parfois, j'ai l'impression que le groupe a déguisé l'intimité sous le contrôle... et je m'inquiète de la profondeur de cette illusion que Nia est plongée.."
 
 # game/code/Book-1/Chapter-7c/s07.rpy:249
 translate french b1c07cs07_after_lunch_b3b947df:
@@ -506,7 +506,7 @@ translate french b1c07cs07_after_lunch_29adbb02:
 translate french b1c07cs07_after_lunch_49eb0fff:
 
     # nv "And I can continue going to the self-help group even after I finish college."
-    nv "Et je peux continuer à aller au groupe d'entraide même après avoir fini l'université."
+    nv "Et je peux continuer à aller au groupe d'entraide même après avoir finie l'université."
 
 # game/code/Book-1/Chapter-7c/s07.rpy:258
 translate french b1c07cs07_after_lunch_f6d29770:
@@ -536,13 +536,13 @@ translate french b1c07cs07_after_lunch_919d84a3:
 translate french b1c07cs07_after_lunch_13d8a210:
 
     # mc "Agreed. No matter what happens, I'll be there for you as much as I can."
-    mc "D'accord. Peu importe ce qui se passe, je serai là pour toi autant que je le peux."
+    mc "D'accord. Peu importe ce qui se passe, je serai là pour toi autant que je le pourrais."
 
 # game/code/Book-1/Chapter-7c/s07.rpy:271
 translate french b1c07cs07_after_lunch_d48b3160:
 
     # nv "Thank you. I feel so safe with you. I know we can get through whatever comes at us."
-    nv "Merci. Je me sens tellement en sécurité avec toi. Je sais qu'on peut surmonter tout ce qui se mettra sur notre chemin."
+    nv "Merci. Je me sens tellement en sécurité avec toi. Je sais que nous pouvons surmonter tout ce qui nous arrive."
 
 # game/code/Book-1/Chapter-7c/s07.rpy:272
 translate french b1c07cs07_after_lunch_9f3c92b0:
@@ -554,7 +554,7 @@ translate french b1c07cs07_after_lunch_9f3c92b0:
 translate french b1c07cs07_after_lunch_a50e8c88:
 
     # mc "What was that one for?"
-    mc "C'était pour quoi ça?"
+    mc "C'était pourquoi ça?"
 
 # game/code/Book-1/Chapter-7c/s07.rpy:285
 translate french b1c07cs07_after_lunch_40d053b7:
@@ -566,13 +566,13 @@ translate french b1c07cs07_after_lunch_40d053b7:
 translate french b1c07cs07_after_lunch_d6e6a99c:
 
     # nv "I've got some family stuff to take care of, and I should probably get some homework done."
-    nv "J'ai des trucs familiaux à régler, et je devrais probablement faire un peu de devoirs."
+    nv "J'ai des affaires familiales à régler et je devrais probablement faire quelques devoirs.."
 
 # game/code/Book-1/Chapter-7c/s07.rpy:290
 translate french b1c07cs07_after_lunch_dc16ebcd:
 
     # mc "Got it."
-    mc "Compris."
+    mc "Très bien."
 
 # game/code/Book-1/Chapter-7c/s07.rpy:295
 translate french b1c07cs07_after_lunch_1c9b4d90:
@@ -602,7 +602,7 @@ translate french b1c07cs07_after_lunch_e747e3ad:
 translate french b1c07cs07_after_lunch_d7258170:
 
     # mct "But then, is the group even healthy? I can't figure it out. I don't want to destroy the last thing Nia has that gives her hope—especially if Maria is gone for good."
-    mct "Mais alors, le groupe est-il même sain? Je n'arrive pas à comprendre. Je ne veux pas détruire la dernière chose que Nia a, qui lui donne de l'espoir—surtout si Maria est partie pour de bon."
+    mct "Mais alors, le groupe est-il vraiment sain? Je n'arrive pas à comprendre. Je ne veux pas détruire la dernière chose que Nia possède et qui lui donne de l'espoir, surtout si Maria est partie pour de bon.."
 
 # game/code/Book-1/Chapter-7c/s07.rpy:305
 translate french b1c07cs07_after_lunch_48a7a9e5:
