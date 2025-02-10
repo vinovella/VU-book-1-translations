@@ -224,7 +224,7 @@ translate french b1c06ws07_85e269ab:
 translate french b1c06ws07_27e1f6ef:
 
     # "Iona looks up at you, spurred on by your reaction, she runs her warm and wet tongue along your length, wetting and teasing your dick to its full length."
-    "Iona te regarde, poussée par ta réaction, elle passe sa langue chaude et humide le long de ton sexe, l'humidifiant et le taquinant jusqu'à sa pleine longueur."
+    "Iona te regarde, poussée par ta réaction, elle passe sa langue chaude et humide le long de ta bite, l'humidifiant et le taquinant jusqu'à sa pleine longueur."
 
 # game/code/Book-1/Chapter-6w/s07.rpy:179
 translate french b1c06ws07_2fa4d205:
@@ -248,7 +248,7 @@ translate french b1c06ws07_5064cf3e:
 translate french b1c06ws07_4a2a1fe4:
 
     # "The suction of her mouth, the tightness of her lips, the warm air she breathes out on your dick, the way her tongue glides along your shaft and simply rests on your tip to not build your orgasm too fast."
-    "La succion de sa bouche, la fermeté de ses lèvres, l'air chaud qu'elle souffle sur ton sexe, la façon dont sa langue glisse le long de ton sexe et se pose simplement sur le bout pour ne pas accélérer ton orgasme trop vite."
+    "La succion de sa bouche, la fermeté de ses lèvres, l'air chaud qu'elle souffle sur ton sexe, la façon dont sa langue glisse le long de ta queue et se pose simplement sur le bout pour ne pas accélérer ton orgasme trop vite."
 
 # game/code/Book-1/Chapter-6w/s07.rpy:200
 translate french b1c06ws07_7cfed95d:
@@ -278,7 +278,7 @@ translate french b1c06ws07_a4dd50b8:
 translate french b1c06ws07_92f563a8:
 
     # "She moves faster, pushing her limits for your pleasure. Her lips massaging the length of your cock as her tongue works your tip, edging your orgasm out, putting you on the verge of coating her mouth with your cum. But she stops."
-    "Elle accélère, poussant ses limites pour ton plaisir. Ses lèvres massent la longueur de ton sexe tandis que sa langue travaille sur ton bout, faisant durer ton orgasme, te mettant sur le point de déverser ta semence dans sa bouche. Mais elle s'arrête."
+    "Elle accélère, poussant ses limites pour ton plaisir. Ses lèvres massent la longueur de tta bite tandis que sa langue travaille sur ton bout, faisant durer ton orgasme, te mettant sur le point de déverser sperme dans sa bouche. Mais elle s'arrête."
 
 # game/code/Book-1/Chapter-6w/s07.rpy:231
 translate french b1c06ws07_eec2c3f0:
@@ -308,7 +308,7 @@ translate french b1c06ws07_5c0c85fb:
 translate french b1c06ws07_da5b4e21:
 
     # ir "Come on! Do it. I'm so fucking wet. I want to feel you fuck me."
-    ir "Allez! Fais-le. Je suis tellement mouillée. Je veux sentir que tu me baises."
+    ir "Allez! Fais-le. Je suis tellement mouillée. Je veux te sentir me baiser."
 
 # game/code/Book-1/Chapter-6w/s07.rpy:247
 translate french b1c06ws07_bc9ee36b:
