@@ -2,7 +2,7 @@
 translate french b1c08ws05_6a2b0ef5:
 
     # "???" "Shut the fuck up you fucking menace!"
-    "???" "Ferme ta putain de gueule, espèce de menace!"
+    "???" "Ferme ta gueule, putain de menace!"
 
 # game/code/Book-1/Chapter-8w/s05.rpy:15
 translate french b1c08ws05_91a36f77:
@@ -26,13 +26,13 @@ translate french b1c08ws05_5001528a:
 translate french b1c08ws05_e80890c3:
 
     # mc "If you two are gonna kill each other, can you do it a little quieter?"
-    mc "Si vous allez vous tuer, pouvez-vous le faire un peu plus tranquillement?"
+    mc "Si vous voulez vous tuer, pouvez-vous le faire un peu plus silencieusement?"
 
 # game/code/Book-1/Chapter-8w/s05.rpy:36
 translate french b1c08ws05_d8207dc5:
 
     # sl "I can't help it, asshole. I got a deviated septum!"
-    sl "Je peux pas y faire, connard. J'ai un septum dévié!"
+    sl "Je n'y peux rien, connasse. J'ai un septum dévié!"
 
 # game/code/Book-1/Chapter-8w/s05.rpy:39
 translate french b1c08ws05_1fdf4034:
@@ -50,7 +50,7 @@ translate french b1c08ws05_aa27c655:
 translate french b1c08ws05_5d94b3b8:
 
     # sl "I can't have my famous good looks getting messed up right before the conference."
-    sl "Je peux pas laisser mes célèbres belles apparences être gâchées juste avant la conférence."
+    sl "Je ne peux pas laisser ma fameuse beauté se faire abîmer juste avant la conférence.."
 
 # game/code/Book-1/Chapter-8w/s05.rpy:46
 translate french b1c08ws05_2d546709:
@@ -92,19 +92,19 @@ translate french b1c08ws05_8b63dfac:
 translate french b1c08ws05_bb1e6059:
 
     # mm "Fuck you! No I wasn't!"
-    mm "Va te faire foutre! Non, j'étais pas en train de geindre!"
+    mm "Va te faire foutre! Non, j'étais pas en train de gémir!"
 
 # game/code/Book-1/Chapter-8w/s05.rpy:69
 translate french b1c08ws05_71a2aba4:
 
     # mc "*Chuckles* Guys, c'mon. What happened, happened. Right now, we gotta get ready for that conference thing."
-    mc "*Rit* Les gars, allez. Ce qui est arrivé est arrivé. Maintenant, on doit se préparer pour ce truc de conférence."
+    mc "*Rit* Les gars, allez. Ce qui est arrivé est arrivé. Maintenant, on doit se préparer pour cette de conférence."
 
 # game/code/Book-1/Chapter-8w/s05.rpy:71
 translate french b1c08ws05_0fbc3fbe:
 
     # sl "Exactly. Shontae's gonna be on our collective asses if we aren't out there."
-    sl "Exactement. Shontae va nous tomber dessus si on n'est pas là-bas."
+    sl "Exactement. Shontae va nous tomber dessus si on n'est pas là."
 
 # game/code/Book-1/Chapter-8w/s05.rpy:80
 translate french b1c08ws05_e28ad1e8:
@@ -188,7 +188,7 @@ translate french b1c08ws05_8ba7909e:
 translate french b1c08ws05_8ade29a0:
 
     # mc "Well, you'll be able to see just how we perform in the upcoming match, so I don't think you two lost out on too much."
-    mc "Eh bien, vous pourrez voir comment on joue lors du prochain match, donc je pense pas que vous ayez raté grand-chose."
+    mc "Eh bien, vous pourriez voir comment nous jouons lors du prochain match, donc je pense pas que vous ayez raté grand-chose."
 
 # game/code/Book-1/Chapter-8w/s05.rpy:151
 translate french b1c08ws05_02ed7822:
@@ -218,7 +218,7 @@ translate french b1c08ws05_2a0664a8:
 translate french b1c08ws05_d69fc873:
 
     # mct "Jesus Christ are they {i}trying{/i} to act like dumbasses or are they actually dumbasses?"
-    mct "Putain, est-ce qu'ils {i}essaient{/i} de jouer les idiots ou sont-ils vraiment des idiots?"
+    mct "Putain, est-ce qu'ils {i}essaient{/i} de jouer les idiotes ou sont-elles vraiment des idiotes?"
 
 # game/code/Book-1/Chapter-8w/s05.rpy:162
 translate french b1c08ws05_a7c3bf5d:
@@ -290,7 +290,7 @@ translate french b1c08ws05_08b4c891:
 translate french b1c08ws05_78fbc2da:
 
     # don "Bet you want to try and get some info out of her don't you?"
-    don "Pari que tu veux essayer de lui soutirer quelques infos, hein?"
+    don "Je pari qu'il veut essayer de lui soutirer quelques infos, hein?"
 
 # game/code/Book-1/Chapter-8w/s05.rpy:188
 translate french b1c08ws05_bd972fac:
@@ -368,7 +368,7 @@ translate french b1c08ws05_f7133653:
 translate french b1c08ws05_24f776cd:
 
     # mc "Morning. Name's [mcname], new member of The Winner's Volleyball Team. Mind if I join you?"
-    mc "Bonjour. Je m'appelle [mcname], nouveau membre de l'équipe de volleyball de The Winner. Ça vous dérange si je me joins à vous?"
+    mc "Bonjour. Je m'appelle [mcname], nouveau membre de l'équipe de volleyball des Winner's. Ça vous dérange si je me joins à vous?"
 
 # game/code/Book-1/Chapter-8w/s05.rpy:227
 translate french b1c08ws05_45852579:
@@ -416,7 +416,7 @@ translate french b1c08ws05_df1c024a:
 translate french b1c08ws05_cbb4f702:
 
     # mct "Interesting. They look and feel older. They're probably the core members of the team."
-    mct "Intéressant. Ils ont l'air et se sentent plus vieux. Ce sont probablement les membres clés de l'équipe."
+    mct "Intéressant. Ils ont l'air plus vieux. Ce sont probablement les membres clés de l'équipe."
 
 # game/code/Book-1/Chapter-8w/s05.rpy:250
 translate french b1c08ws05_f458a7d8:
@@ -458,7 +458,7 @@ translate french b1c08ws05_0d53f25f:
 translate french b1c08ws05_2b409652:
 
     # tw "They don't report to me and I had no hand in their little operation. However, they crossed a line by spying on your team."
-    tw "Ils ne dépendent pas de moi et je n'ai rien à voir avec leur petite opération. Cependant, ils ont franchi une limite en espionnant votre équipe."
+    tw "Ils ne dépendent pas de moi et je n'ai rien à voir avec leur petite opération. Cependant, ils ont franchis une limite en espionnant votre équipe."
 
 # game/code/Book-1/Chapter-8w/s05.rpy:266
 translate french b1c08ws05_59244ba2:
@@ -476,7 +476,7 @@ translate french b1c08ws05_786f94ab:
 translate french b1c08ws05_a18c9a23:
 
     # mct "Hm. I'm not gonna gain much by antagonizing her. Getting her on my side is the best move here."
-    mct "Hm. Je ne vais pas gagner grand-chose en l'antagonisant. L'avoir de mon côté est la meilleure chose à faire ici."
+    mct "Hm. Je ne vais pas gagner grand-chose en la contrariant. L'avoir de mon côté est la meilleure chose à faire ici."
 
 # game/code/Book-1/Chapter-8w/s05.rpy:279
 translate french b1c08ws05_2d6a6240:
@@ -518,7 +518,7 @@ translate french b1c08ws05_ec2b34aa:
 translate french b1c08ws05_aa6d7395:
 
     # tw "*Smirks* Of course not. If I really wanted to, I'd have much more effective ways of making you lose concentration."
-    tw "*Sourit* Bien sûr que non. Si je voulais vraiment, j'aurais bien plus de moyens efficaces pour te faire perdre ta concentration."
+    tw "*Sourit* Bien sûr que non. Si je voulais vraiment, j'aurais besoin de moyens plus efficaces pour te faire perdre ta concentration."
 
 # game/code/Book-1/Chapter-8w/s05.rpy:296
 translate french b1c08ws05_43552777:
