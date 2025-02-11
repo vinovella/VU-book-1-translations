@@ -20,7 +20,7 @@ translate french b1c07ws08_b75549b0:
 translate french b1c07ws08_40a2662d:
 
     # mct "Jesus."
-    mct "Jésus."
+    mct "Bon dieu."
 
 # game/code/Book-1/Chapter-7w/s08.rpy:61
 translate french b1c07ws08_19f43256:
@@ -32,13 +32,13 @@ translate french b1c07ws08_19f43256:
 translate french b1c07ws08_b4041b27:
 
     # mct "A serial alcoholic in making."
-    mct "Une alcoolique en devenir."
+    mct "Une alcoolique notoire."
 
 # game/code/Book-1/Chapter-7w/s08.rpy:65
 translate french b1c07ws08_b49098b0:
 
     # mc "Let's uh, go easy on the liquor, hm?"
-    mc "Euh, allons-y doucement sur l'alcool, hm?"
+    mc "Euh, vas-y doucement sur l'alcool, hm?"
 
 # game/code/Book-1/Chapter-7w/s08.rpy:69
 translate french b1c07ws08_0e31bb18:
@@ -56,7 +56,7 @@ translate french b1c07ws08_09e757ed:
 translate french b1c07ws08_d5f67f8e:
 
     # ima "I'm too tired for sex, so that's out. And I don't have any xannies on me right now."
-    ima "Je suis trop fatiguée pour le sexe, donc c'est mort. Et je n'ai pas de xannies sur moi en ce moment."
+    ima "Je suis trop fatiguée pour le sexe, donc c'est mort. Et je n'ai pas de xanax sur moi en ce moment."
 
 # game/code/Book-1/Chapter-7w/s08.rpy:75
 translate french b1c07ws08_79e737bb:
@@ -224,7 +224,7 @@ translate french b1c07ws08_24c18824:
 translate french b1c07ws08_d3b63ae7:
 
     # "Seeing her body glide against you was electric enough, seeing her all but present herself to you frees you of any control you had of your more stubborn parts."
-    "La voir glisser contre toi était déjà assez électrisant, la voir presque se présenter à toi te libère de tout contrôle sur tes parts les plus tenaces."
+    "La voir glisser contre toi était déjà assez électrisant, la voir presque se présenter à toi te libère de tout contrôle que tu avais sur tes parties les plus tenaces."
 
 # game/code/Book-1/Chapter-7w/s08.rpy:185
 translate french b1c07ws08_95d96455:
@@ -272,7 +272,7 @@ translate french b1c07ws08_2bfcc252:
 translate french b1c07ws08_a035a2dc:
 
     # "Isa rolls her eyes at your words but the barely contained smile and the blush touching her cheeks is all you need to discern the truth."
-    "Isa roule des yeux à tes paroles, mais le sourire à peine contenu et le rouge sur ses joues sont tout ce dont tu as besoin pour discerner la vérité."
+    "Isa roule des yeux à tes paroles, mais le sourire en contenu et le rouge sur ses joues sont tout ce dont tu as besoin pour discerner la vérité."
 
 # game/code/Book-1/Chapter-7w/s08.rpy:206
 translate french b1c07ws08_cef8252c:
@@ -368,7 +368,7 @@ translate french b1c07ws08_9ace2be0:
 translate french b1c07ws08_3e3e8091:
 
     # mc "Hm. I figured considering the way she sucked your soul out."
-    mc "Hm. Je me suis dit ça en voyant comment elle t'a aspiré ton âme."
+    mc "Hm. C'est ce que je me suis dit, en voyant comment elle a aspiré ton âme."
 
 # game/code/Book-1/Chapter-7w/s08.rpy:258
 translate french b1c07ws08_4fb3b1f1:
@@ -452,7 +452,7 @@ translate french b1c07ws08_e5ce1e4f:
 translate french b1c07ws08_e43772b1:
 
     # ima "A part of it I guess. She thinks that we're \"ruthless vultures\" or some shit like that."
-    ima "Une partie de la raison, je suppose. Elle pense qu'on est des \"vautours impitoyables\" ou un truc du genre."
+    ima "C'est une partie de la raison, je suppose. Elle pense qu'on est des \"vautours impitoyables\" ou un truc du genre."
 
 # game/code/Book-1/Chapter-7w/s08.rpy:295
 translate french b1c07ws08_2106564f:
@@ -470,7 +470,7 @@ translate french b1c07ws08_26905dcf:
 translate french b1c07ws08_3131e216:
 
     # ima "And I'm not the type to {i}think{/i} myself out of a good situation. That was always more her forte."
-    ima "Et je ne suis pas du genre à {i}réfléchir{/i} trop à une bonne situation. C'était toujours plus son truc à elle."
+    ima "Et je ne suis pas du genre à {i}réfléchir{/i} trop à une bonne situation. C'était plus son truc à elle."
 
 # game/code/Book-1/Chapter-7w/s08.rpy:302
 translate french b1c07ws08_e9bf363f:
@@ -518,7 +518,7 @@ translate french b1c07ws08_e3f6525a:
 translate french b1c07ws08_6ba051cc:
 
     # ima "I guess I was the fool on that one. There's always a give and take. No one gets anything for free."
-    ima "Je suppose que j'ai été la stupide là-dedans. Il y a toujours un échange. Personne n'obtient quoi que ce soit gratuitement."
+    ima "Je suppose que j'ai été stupide là-dedans. Il y a toujours un échange. Personne n'obtient quoi que ce soit gratuitement."
 
 # game/code/Book-1/Chapter-7w/s08.rpy:318
 translate french b1c07ws08_59d3ff99:
@@ -530,7 +530,7 @@ translate french b1c07ws08_59d3ff99:
 translate french b1c07ws08_0959c8f0:
 
     # ima "And when I stood up to her, she blew up at me like some child and ruined the party."
-    ima "Et quand je me suis opposée à elle, elle a explosé comme un enfant et a ruiné la fête."
+    ima "Et quand je me suis opposée à elle, elle a explosée comme un enfant et a ruinée la fête."
 
 # game/code/Book-1/Chapter-7w/s08.rpy:322
 translate french b1c07ws08_b0b6c8d3:
