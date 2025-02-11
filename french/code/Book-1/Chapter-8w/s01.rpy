@@ -8,13 +8,13 @@ translate french b1c08ws01_e27aa7e1:
 translate french b1c08ws01_658c4986:
 
     # sm "Hm? Oh, yeah! Yeah, I was just triple checking to make sure the logistics stuff was all set."
-    sm "Hm? Oh, ouais! Ouais, je vérifiais encore une fois pour m'assurer que tout le logistique était prêt."
+    sm "Hm? Oh, ouais! Ouais, je vérifiais encore une fois pour m'assurer que toutes le logistique était prête."
 
 # game/code/Book-1/Chapter-8w/s01.rpy:29
 translate french b1c08ws01_c30caeb4:
 
     # mc "*Chuckles* Nervous?"
-    mc "*Rit* Nervieux?"
+    mc "*Rit* Nerveuse?"
 
 # game/code/Book-1/Chapter-8w/s01.rpy:32
 translate french b1c08ws01_7ffd0d79:
@@ -32,7 +32,7 @@ translate french b1c08ws01_539e77fc:
 translate french b1c08ws01_96e8bdb4:
 
     # sm "She really helped me figure out how to actually be a half-decent manager."
-    sm "Elle m'a vraiment aidé à comprendre comment être un manager à peu près correct."
+    sm "Elle m'a vraiment aidée à comprendre comment être un manager à peu près correct."
 
 # game/code/Book-1/Chapter-8w/s01.rpy:48
 translate french b1c08ws01_6265fd91:
@@ -98,31 +98,31 @@ translate french b1c08ws01_d0d51447:
 translate french b1c08ws01_78815fab:
 
     # ba "Started on what? I'm just pumped for the tournament."
-    ba "Commencer quoi? Je suis juste excité pour le tournoi."
+    ba "Commencer quoi? Je suis juste excitée pour le tournoi."
 
 # game/code/Book-1/Chapter-8w/s01.rpy:95
 translate french b1c08ws01_ab4845aa:
 
     # ir "Uh-huh."
-    ir "Ouais."
+    ir "Ouais ouais."
 
 # game/code/Book-1/Chapter-8w/s01.rpy:98
 translate french b1c08ws01_db046fbd:
 
     # ba "Ugh, can't even have a little excitement these days. What happened to you guys?"
-    ba "Merde, on peut même plus avoir un peu d'excitation de nos jours. Qu'est-ce qui vous est arrivé?"
+    ba "Merde, on peut même plus avoir un peu d'excitation de nos jours. Qu'est-ce qui vous est arrivé les gars?"
 
 # game/code/Book-1/Chapter-8w/s01.rpy:101
 translate french b1c08ws01_3c8ee2e5:
 
     # oa "For the love of Christ, can you guys shimmer down?"
-    oa "Par l'amour du Christ, vous pouvez vous calmer?"
+    oa "Par l'amour de dieu, vous pouvez vous calmer?"
 
 # game/code/Book-1/Chapter-8w/s01.rpy:104
 translate french b1c08ws01_931bd3b1:
 
     # mm "Jesus fuck my brain's gonna explode from all this damn bickering."
-    mm "Putain de merde, mon cerveau va exploser avec toute cette putain de chicane."
+    mm "Putain, mon cerveau va exploser à cause de toutes ces foutues querelles.."
 
 # game/code/Book-1/Chapter-8w/s01.rpy:107
 translate french b1c08ws01_5aed0ba4:
@@ -254,13 +254,13 @@ translate french b1c08ws01_5103ff77:
 translate french b1c08ws01_be368d20:
 
     # sa "Alright team, listen up."
-    sa "D'accord, équipe, écoutez bien."
+    sa "D'accord, ok l'équipe, écoutez bien."
 
 # game/code/Book-1/Chapter-8w/s01.rpy:165
 translate french b1c08ws01_971eb3af:
 
     # sa "This is a very good opportunity for us to get an early dominant lead in the tournament. And I know we have what it takes."
-    sa "C'est une très bonne opportunité pour nous de prendre une avance dominante tôt dans le tournoi. Et je sais que nous avons ce qu'il faut."
+    sa "C'est une très bonne opportunité pour nous de prendre rapidement une avance dominante dans le tournoi.. Et je sais que nous avons ce qu'il faut."
 
 # game/code/Book-1/Chapter-8w/s01.rpy:166
 translate french b1c08ws01_ae50327b:
@@ -296,7 +296,7 @@ translate french b1c08ws01_1973086b:
 translate french b1c08ws01_782da637:
 
     # sa "We're playing in Crowning's Cabana Stadium and it'll be televised, so make sure that you're all on your best behavior, understood?"
-    sa "Nous jouons au Crowning's Cabana Stadium et ce sera diffusé à la télévision, alors assurez-vous d'être tous sur votre meilleur comportement, compris?"
+    sa "Nous jouons au Crowning's Cabana Stadium et ce sera télévisé, alors assurez-vous de vous comportez tous de la meilleure manière possible, compris?"
 
 # game/code/Book-1/Chapter-8w/s01.rpy:184
 translate french b1c08ws01_0adb92e7:
