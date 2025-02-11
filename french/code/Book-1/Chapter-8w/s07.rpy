@@ -2,7 +2,7 @@
 translate french b1c08ws07_c5520782:
 
     # mc "This is it. Everything we've been training for."
-    mc "C'est ça. Tout ce pour quoi nous avons entraîné."
+    mc "C'est ça. Tout ce pour quoi nous nous sommes entraînés."
 
 # game/code/Book-1/Chapter-8w/s07.rpy:29
 translate french b1c08ws07_f66d839b:
@@ -32,7 +32,7 @@ translate french b1c08ws07_f68dc1ce:
 translate french b1c08ws07_17d0c8da:
 
     # mm "Fuck yeah. Look at us. We've got this. They don't stand a chance."
-    mm "Putain ouais. Regarde-nous. On gère. Ils n'ont aucune chance."
+    mm "Putain ouais. Regarde-nous. Ont gèrent. Ils n'ont aucune chance."
 
 # game/code/Book-1/Chapter-8w/s07.rpy:43
 translate french b1c08ws07_7d381241:
@@ -68,7 +68,7 @@ translate french b1c08ws07_8edd7e6f:
 translate french b1c08ws07_6e544699:
 
     # ba "Oh, I'm sure you will. Just make sure you don't screw up and ruin everything."
-    ba "Oh, je suis sûr que tu le feras. Assure-toi juste de ne pas tout gâcher."
+    ba "Oh, je suis sûr que tu le seras. Assure-toi juste de ne pas tout gâcher."
 
 # game/code/Book-1/Chapter-8w/s07.rpy:57
 translate french b1c08ws07_b999d420:
@@ -80,7 +80,7 @@ translate french b1c08ws07_b999d420:
 translate french b1c08ws07_866a6488:
 
     # ba "We are The Winners. We don't back down; we don't falter. We go out there, and we crush them. Are you with me!?"
-    ba "Nous sommes The Winners. On ne recule jamais, on ne faiblit pas. On sort là-bas et on les écrase. Vous êtes avec moi!?"
+    ba "Nous sommes Les Winners. On ne recule jamais, on ne faiblit pas. On y va et on les écrases. Vous êtes avec moi!?"
 
 # game/code/Book-1/Chapter-8w/s07.rpy:67
 translate french b1c08ws07_f8b30177:
@@ -212,7 +212,7 @@ translate french b1c08ws07_d9e4a1d1:
 translate french b1c08ws07_fb739481:
 
     # sa "Trust your training, trust each other. You've got this."
-    sa "Faites confiance à votre entraînement, faites confiance les uns aux autres. Vous pouvez le faire."
+    sa "Faites confiance à votre entraînement, faites vous confiance les uns aux autres. Vous pouvez le faire."
 
 # game/code/Book-1/Chapter-8w/s07.rpy:165
 translate french b1c08ws07_168b17f4:
@@ -224,7 +224,7 @@ translate french b1c08ws07_168b17f4:
 translate french b1c08ws07_9d6ba722:
 
     # tw "Winners, it's good to see you on the court again."
-    tw "Winners, c'est un plaisir de vous voir à nouveau sur le terrain."
+    tw "Hé! Les Winners, c'est un plaisir de vous voir à nouveau sur le terrain."
 
 # game/code/Book-1/Chapter-8w/s07.rpy:169
 translate french b1c08ws07_f7c52371:
@@ -332,13 +332,13 @@ translate french b1c08ws07_bffd9180:
 translate french b1c08ws07_018b548b:
 
     # "The crowd erupts, and The Winners celebrate."
-    "La foule éclate, et The Winners célèbrent."
+    "La foule éclate, et Les Winners célèbrent."
 
 # game/code/Book-1/Chapter-8w/s07.rpy:244
 translate french b1c08ws07_3e233128:
 
     # ba "Fuck yes, bitches! That's how it's fucking done!"
-    ba "Putain ouais, salopes! Voilà comment on fait!"
+    ba "Putain ouais, bandes de salopes! Voilà comment on fait!"
 
 # game/code/Book-1/Chapter-8w/s07.rpy:245
 translate french b1c08ws07_a79904b8:
@@ -350,7 +350,7 @@ translate french b1c08ws07_a79904b8:
 translate french b1c08ws07_f34e8a6b:
 
     # "The Winners take an early lead with the first set, but the CCC team doesn't back down."
-    "The Winners prennent une avance précoce avec le premier set, mais l'équipe CCC ne se laisse pas faire."
+    "Les Winners prennent une avance précoce avec le premier set, mais l'équipe CCC ne se laisse pas faire."
 
 # game/code/Book-1/Chapter-8w/s07.rpy:258
 translate french b1c08ws07_06ca024a:
@@ -374,7 +374,7 @@ translate french b1c08ws07_8413477d:
 translate french b1c08ws07_1fa550ad:
 
     # ba "One set down, two to go. Stay focused, stay strong. We've got this."
-    ba "Un set de gagné, deux à venir. Restez concentrés, restez forts. On a ça."
+    ba "Un set de gagné, deux à venir. Restez concentrés, restez forts. On y va."
 
 # game/code/Book-1/Chapter-8w/s07.rpy:282
 translate french b1c08ws07_40e896f7:
@@ -398,7 +398,7 @@ translate french b1c08ws07_e7cca2b7:
 translate french b1c08ws07_c158a60b:
 
     # "You give into the practiced movement and go to serve, but you feel...different."
-    "Tu te laisses emporter par le mouvement pratiqué et vas servir, mais tu te sens...différent."
+    "Tu te laisses emporter par le mouvement pratiqué et tu vas servir, mais tu te sens...différent."
 
 # game/code/Book-1/Chapter-8w/s07.rpy:291
 translate french b1c08ws07_37a6b3ad:
@@ -434,7 +434,7 @@ translate french b1c08ws07_6a7a8351:
 translate french b1c08ws07_e85fc033:
 
     # "It gives The Winners the perfect opportunity to counter."
-    "Cela donne à The Winners l'opportunité parfaite de contre-attaquer."
+    "Cela donne aux Winners l'opportunité parfaite de contre-attaquer."
 
 # game/code/Book-1/Chapter-8w/s07.rpy:317
 translate french b1c08ws07_a9d6699a:
@@ -446,7 +446,7 @@ translate french b1c08ws07_a9d6699a:
 translate french b1c08ws07_f0a1da03:
 
     # "You can see and feel the way the CCC team is showing more and more weariness, but The Winners march on."
-    "Tu peux voir et sentir comment l'équipe CCC montre de plus en plus de fatigue, mais The Winners continuent d'avancer."
+    "Tu peux voir et sentir comment l'équipe CCC montre de plus en plus de fatigue, mais Les Winners continuent d'avancer."
 
 # game/code/Book-1/Chapter-8w/s07.rpy:324
 translate french b1c08ws07_be7368ef:
@@ -464,7 +464,7 @@ translate french b1c08ws07_de10fc0c:
 translate french b1c08ws07_3c852f48:
 
     # "Just as you were about to return the ball, a sudden tightening feeling in your chest stops you in your tracks."
-    "Juste au moment où tu allais renvoyer la balle, une sensation soudaine de constriction dans ta poitrine t'arrête net."
+    "Juste au moment où tu allais renvoyer la balle, une sensation soudaine de resserrement dans ta poitrine t'arrête net."
 
 # game/code/Book-1/Chapter-8w/s07.rpy:347
 translate french b1c08ws07_c3e082c1:
@@ -530,7 +530,7 @@ translate french b1c08ws07_4b209f2f:
 translate french b1c08ws07_97c85135:
 
     # ba "—but we can't get complacent. They'll come at us harder in the next set. Newbie, keep targeting their weak spots on the serves. They'll have to adjust, and that will open up their defense."
-    ba "—mais on ne doit pas se reposer sur nos lauriers. Ils vont nous attaquer plus fort dans le prochain set. Newbie, continue à cibler leurs points faibles lors des services. Ils devront s'ajuster, et ça ouvrira leur défense."
+    ba "—mais on ne doit pas se reposer sur nos lauriers. Ils vont nous attaquer plus fort dans le prochain set. Le nouveau, continue à cibler leurs points faibles lors des services. Ils devront s'ajuster, et ça ouvrira leur défense."
 
 # game/code/Book-1/Chapter-8w/s07.rpy:388
 translate french b1c08ws07_b8ede97e:
@@ -566,7 +566,7 @@ translate french b1c08ws07_e29d88e9:
 translate french b1c08ws07_3330f272:
 
     # ir "We've got this in the bag! You were a monster out there."
-    ir "On a ça dans la poche! T'étais un monstre là-bas."
+    ir "C'est dans la poche! T'étais un monstre là-bas."
 
 # game/code/Book-1/Chapter-8w/s07.rpy:402
 translate french b1c08ws07_56222d45:
@@ -614,7 +614,7 @@ translate french b1c08ws07_bc30ec1b:
 translate french b1c08ws07_64a3cffe:
 
     # "You feel much better after the short pause. You move with precise movement and coordination once again. It's exhilarating."
-    "Tu te sens beaucoup mieux après la courte pause. Tu bouges avec une précision et une coordination retrouvées. C'est exaltant."
+    "Tu te sens beaucoup mieux après la courte pause. Tu bouges avec une précision et une coordination sans égale. C'est exaltant."
 
 # game/code/Book-1/Chapter-8w/s07.rpy:437
 translate french b1c08ws07_7ed159a9:
@@ -698,7 +698,7 @@ translate french b1c08ws07_578dff12:
 translate french b1c08ws07_490f4d8e:
 
     # "But you can't hold on. You misjudge the trajectory of an incoming serve. The ball lands just a few feet away, and you realize you've just cost your team a crucial point."
-    "Mais tu n'y arrives pas. Tu juges mal la trajectoire d'un service entrant. La balle atterrit à quelques pieds de toi, et tu te rends compte que tu viens de coûter un point crucial à ton équipe."
+    "Mais tu n'y arrives pas. Tu juges mal la trajectoire d'un service entrant. La balle atterrit à quelques centimètre de toi, et tu te rends compte que tu viens de coûter un point crucial à ton équipe."
 
 # game/code/Book-1/Chapter-8w/s07.rpy:529
 translate french b1c08ws07_95d96455:
@@ -733,7 +733,7 @@ translate french b1c08ws07_6995042b:
 # game/code/Book-1/Chapter-8w/s07.rpy:543
 translate french b1c08ws07_a0f4264e:
 
-    # ba "You two! Get your heads back in the game! And get your shit together, newbie!"
+    # ba "You two! Get your heads back in the game! And get your shit together, le nouveau!"
     ba "Vous deux! Revenez sur terre! Et reprends-toi, newbie!"
 
 # game/code/Book-1/Chapter-8w/s07.rpy:547
@@ -758,7 +758,7 @@ translate french b1c08ws07_f3742234:
 translate french b1c08ws07_30b645dd:
 
     # "What you thought of as weariness was only a facade, they were scheming and biding their time until The Winners lost steam."
-    "Ce que tu prenais pour de la fatigue n'était qu'une façade, ils tramaient et attendaient que Les Gagnants perdent de leur énergie."
+    "Ce que tu prenais pour de la fatigue n'était qu'une façade, ils tramaient et attendaient que Les Winners perdent de leur énergie."
 
 # game/code/Book-1/Chapter-8w/s07.rpy:564
 translate french b1c08ws07_46adf16a:
@@ -800,7 +800,7 @@ translate french b1c08ws07_47ff6fb7:
 translate french b1c08ws07_5952d7a2:
 
     # ba "Little off? {b}Little off!?{/b} You're dragging us all down!"
-    ba "Un peu décalé? {b}Un peu décalé!?{/b} Tu nous tirés tous vers le bas!"
+    ba "Un peu décalé? {b}Un peu décalé!?{/b} Tu nous tires tous vers le bas!"
 
 # game/code/Book-1/Chapter-8w/s07.rpy:578
 translate french b1c08ws07_14fe47ae:
@@ -830,13 +830,13 @@ translate french b1c08ws07_86393efd:
 translate french b1c08ws07_46a53d8b:
 
     # mct "That drug has to be messing me up."
-    mct "Ce médicament doit vraiment me bousiller."
+    mct "Cette drogue doit vraiment me bousiller."
 
 # game/code/Book-1/Chapter-8w/s07.rpy:589
 translate french b1c08ws07_a5a46f5a:
 
     # mct "But I can't stop now. If I fuck up the game, that's my whole investigation into The Winners gone."
-    mct "Mais je ne peux pas m'arrêter maintenant. Si je foire le jeu, mon enquête sur Les Gagnants est foutue."
+    mct "Mais je ne peux pas m'arrêter maintenant. Si je foire le jeu, mon enquête sur Les Winners est foutue."
 
 # game/code/Book-1/Chapter-8w/s07.rpy:593
 translate french b1c08ws07_18d15bea:
@@ -854,7 +854,7 @@ translate french b1c08ws07_7c5a0bb5:
 translate french b1c08ws07_bac9f85d:
 
     # mc "Just a little dehydrated, it was messing with my head."
-    mc "Juste un peu déshydraté, ça me perturbait."
+    mc "J'étaisj uste un peu déshydraté, ça me perturbait."
 
 # game/code/Book-1/Chapter-8w/s07.rpy:600
 translate french b1c08ws07_e79df68d:
@@ -884,19 +884,19 @@ translate french b1c08ws07_7c094662:
 translate french b1c08ws07_8fe1d54a:
 
     # "You try to let your teammates cover you, but your rivals make sure to hit you over and over again, knowing that you won't be able to defend."
-    "Tu essaies de laisser tes coéquipiers te couvrir, mais tes rivaux s'assurent de te frapper encore et encore, sachant que tu ne pourras pas défendre."
+    "Tu essaies de laisser tes coéquipiers te couvrir, mais tes rivaux s'assurent de te frapper encore et encore, sachant que tu ne pourras pas te défendre."
 
 # game/code/Book-1/Chapter-8w/s07.rpy:619
 translate french b1c08ws07_090132d5:
 
     # "The roars of the crowd that once echoed the name of The Winners now shout the name of your Rivals instead."
-    "Les rugissements de la foule qui autrefois résonnaient avec le nom des Gagnants hurlent maintenant celui de tes Rivaux."
+    "Les rugissements de la foule qui autrefois résonnaient avec le nom des Winners hurlent maintenant celui de tes Rivaux."
 
 # game/code/Book-1/Chapter-8w/s07.rpy:622
 translate french b1c08ws07_357f61b3:
 
     # ba "Ignore him! Focus on the match and cover his ass as best as you can. We can still win this!"
-    ba "Ignore-le! Concentre-toi sur le match et couvre-lui les arrières du mieux que tu peux. On peut encore gagner!"
+    ba "Ignore-les! Concentre-toi sur le match et couvre-lui les arrières du mieux que tu peux. On peut encore gagner!"
 
 # game/code/Book-1/Chapter-8w/s07.rpy:627
 translate french b1c08ws07_7c99e154:
@@ -914,7 +914,7 @@ translate french b1c08ws07_734298ec:
 translate french b1c08ws07_2b9eaa14:
 
     # "They try hard and get close, but the CCC takes their second set, and with the morale of The Winner's tarnished completely, the CCC takes their third set and wins the game as well."
-    "Ils essaient fort et se rapprochent, mais le CCC prend leur deuxième set, et avec le moral des Gagnants complètement terni, le CCC prend leur troisième set et gagne également la partie."
+    "Ils essaient fort et se rapprochent, mais le CCC prend leur deuxième set, et avec le moral des Winner's complètement terni, le CCC prend leur troisième set et gagne également la partie."
 
 # game/code/Book-1/Chapter-8w/s07.rpy:644
 translate french b1c08ws07_df8cebad:
@@ -932,7 +932,7 @@ translate french b1c08ws07_0666a978:
 translate french b1c08ws07_f96e3ee0:
 
     # ba "You call yourself a Winner? You're nothing but a liability."
-    ba "Tu te dis un Gagnant? T'es rien d'autre qu'un fardeau."
+    ba "Tu te dis un Winner? T'es rien d'autre qu'un fardeau."
 
 # game/code/Book-1/Chapter-8w/s07.rpy:651
 translate french b1c08ws07_cb080f5d:
@@ -980,7 +980,7 @@ translate french b1c08ws07_b4fc04f7:
 translate french b1c08ws07_12a7f821:
 
     # mc "I'm fine. Stay."
-    mc "Ça va. Reste."
+    mc "Ça va. Reste içi."
 
 # game/code/Book-1/Chapter-8w/s07.rpy:672
 translate french b1c08ws07_a370795f:
@@ -1022,6 +1022,6 @@ translate french b1c08ws07_c0f94573:
 translate french b1c08ws07_0b19e87b:
 
     # "You'd be worried about your predicament, but your consciousness quickly slips away too, leaving you all alone."
-    "Tu t'inquiéterais de ta situation, mais ta conscience s'échappe rapidement aussi, te laissant complètement seul."
+    "Tu t'inquiétes de ta situation, mais ta conscience s'échappe rapidement aussi, te laissant complètement seul."
 
 
