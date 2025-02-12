@@ -32,7 +32,7 @@ translate french b1c08ss03_830f431e:
 translate french b1c08ss03_50658579:
 
     # "The engine sputters to life, almost stalls, and then revives itself as you fumble with the controls."
-    "Le moteur tousse pour démarrer, faillit caler, puis redémarre alors que tu manigances avec les commandes."
+    "Le moteur tousse pour démarrer, faillit caler, puis redémarre alors que tu tâtonnes avec les commandes."
 
 # game/code/Book-1/Chapter-8s/s03.rpy:40
 translate french b1c08ss03_4ab70f22:
@@ -68,19 +68,19 @@ translate french b1c08ss03_e43ff51a:
 translate french b1c08ss03_4c92f448:
 
     # fox "Thanks for doing this, by the way. I know tensions are high."
-    fox "Merci de faire ça, au fait. Je sais que la tension est forte."
+    fox "Merci de faire ça, au fait. Je sais que la pression est forte."
 
 # game/code/Book-1/Chapter-8s/s03.rpy:53
 translate french b1c08ss03_d800f110:
 
     # fox "Xasan gave you a lot of shit back there. But thank you for caring enough to be here."
-    fox "Xasan t'a bien énervé là-bas. Mais merci de te soucier suffisamment pour être ici."
+    fox "Xasan t'a fait chier là-bas. Mais merci d'être suffisamment attentionné pour être ici."
 
 # game/code/Book-1/Chapter-8s/s03.rpy:56
 translate french b1c08ss03_55ac3a46:
 
     # mc "Of course. They're my friends too."
-    mc "Bien sûr. Ce sont aussi mes amis."
+    mc "Pas de problème. Ce sont aussi mes amis."
 
 # game/code/Book-1/Chapter-8s/s03.rpy:57
 translate french b1c08ss03_b0d6c1a0:
@@ -134,7 +134,7 @@ translate french b1c08ss03_586c540e:
 translate french b1c08ss03_7df2d1f7:
 
     # fox "Sounds like a relatively good dad."
-    fox "On dirait un père relativement bien."
+    fox "On dirait un relativement bon père."
 
 # game/code/Book-1/Chapter-8s/s03.rpy:78
 translate french b1c08ss03_f058b6ab:
@@ -182,7 +182,7 @@ translate french b1c08ss03_0ace5b43:
 translate french b1c08ss03_1b78614b:
 
     # fox "Even Morgan has a soft spot for you. She's usually a solitary creature."
-    fox "Même Morgan a un faible pour toi. Elle est généralement une créature solitaire."
+    fox "Même Morgan a un faible pour toi. Elle qui est généralement une créature solitaire."
 
 # game/code/Book-1/Chapter-8s/s03.rpy:99
 translate french b1c08ss03_4657df02:
@@ -212,7 +212,7 @@ translate french b1c08ss03_6f82e72c:
 translate french b1c08ss03_3c0ef04f:
 
     # fox "He's worried about the cam workers, that's why he's being such an ass. The rest of us appreciate your help..."
-    fox "Il s'inquiète pour les travailleurs de la cam, c'est pour ça qu'il est aussi un enfoiré. Le reste d'entre nous apprécie ton aide..."
+    fox "Il s'inquiète pour les travailleurs de la cam, c'est pour ça qu'il est aussi un enfoiré. Le reste d'entre nous, nous apprécions ton aide..."
 
 # game/code/Book-1/Chapter-8s/s03.rpy:110
 translate french b1c08ss03_756068f8:
@@ -242,13 +242,13 @@ translate french b1c08ss03_24d34cf7:
 translate french b1c08ss03_abf2b7c0:
 
     # mc "I'm sorry, I mean it as a genuine question. Some people seem close and others seem rather formal with each other."
-    mc "Désolé, je pose ça comme une question sincère. Certaines personnes semblent proches et d'autres semblent assez formelles entre elles."
+    mc "Désolé, si je demande ça mais c'est une question sincère. Certaines personnes semblent proches et d'autres semblent assez formelles entre elles."
 
 # game/code/Book-1/Chapter-8s/s03.rpy:123
 translate french b1c08ss03_0cb5954e:
 
     # fox "When you're in this line of...business, it's easier to see people as their professions rather than as individuals."
-    fox "Quand tu travailles dans ce domaine de... affaires, c'est plus facile de voir les gens comme leurs professions plutôt que comme des individus."
+    fox "Quand tu travailles dans ce genre d'... affaires, c'est plus facile de voir les gens comme leurs professions plutôt que comme des individus."
 
 # game/code/Book-1/Chapter-8s/s03.rpy:126
 translate french b1c08ss03_6223a0ed:
@@ -350,13 +350,13 @@ translate french b1c08ss03_c415b4a7:
 translate french b1c08ss03_2285c8b0:
 
     # fox "They were just bullies, that's all. But still, it's like they felt {i}entitled{/i} to my fear."
-    fox "C'étaient juste des brutes, c'est tout. Mais malgré tout, c'est comme s'ils se sentaient {i}détenteurs{/i} de ma peur."
+    fox "C'étaient juste des brutes, c'est tout. Mais malgré tout, c'est comme si ils se sentaient {i}détenteurs{/i} de ma peur."
 
 # game/code/Book-1/Chapter-8s/s03.rpy:169
 translate french b1c08ss03_6e34847b:
 
     # fox "And if there's one thing I fucking hate, it's entitled bastards. So I humbled them a little. By threatening them with my fists and a knife."
-    fox "Et s'il y a bien une chose que je déteste, c'est les salauds pleins d'orgueil. Alors je les ai un peu remis à leur place. En les menaçant avec mes poings et un couteau."
+    fox "Et s'il y a bien une chose que je déteste, c'est les putains de brutes. Alors je les ai un peu remis à leur place. En les menaçant avec mes poings et un couteau."
 
 # game/code/Book-1/Chapter-8s/s03.rpy:170
 translate french b1c08ss03_a1af331c:
@@ -368,7 +368,7 @@ translate french b1c08ss03_a1af331c:
 translate french b1c08ss03_50fa2669:
 
     # mc "No. I think you're one of the strongest people I've ever met."
-    mc "Non. Je pense que tu es l'une des personnes les plus fortes que j'aie jamais rencontrées."
+    mc "Non. Je pense que tu es l'une des personnes qui à le plus de couilles que j'aie jamais rencontrées."
 
 # game/code/Book-1/Chapter-8s/s03.rpy:175
 translate french b1c08ss03_ec315679:
@@ -404,7 +404,7 @@ translate french b1c08ss03_b5acfd92:
 translate french b1c08ss03_2a644b38:
 
     # fox "I guess I just...didn't want them to feel how I felt. Like no one would stop them from doing something drastic."
-    fox "Je suppose que je... ne voulais pas qu'ils ressentent ce que j'ai ressenti. Comme si personne ne les arrêterait de faire quelque chose de drastique."
+    fox "Je suppose que je... ne veux pas qu'ils ressentent ce que j'ai ressenti. Comme si personne ne les arrêterait de faire quelque chose de drastique."
 
 # game/code/Book-1/Chapter-8s/s03.rpy:188
 translate french b1c08ss03_5047e3cb:
@@ -416,25 +416,25 @@ translate french b1c08ss03_5047e3cb:
 translate french b1c08ss03_c13771dd:
 
     # mc "I'm sorry you didn't have anyone to defend you, to have your back. Sounds lonely."
-    mc "Désolé que tu n'aies eu personne pour te défendre, pour te soutenir. Ça a dû être solitaire."
+    mc "Désolé que tu n'aies eu personne pour te défendre, pour te soutenir. Tu as du te sentir seule."
 
 # game/code/Book-1/Chapter-8s/s03.rpy:194
 translate french b1c08ss03_c0201f80:
 
     # fox "I survived, didn't I? Isn't that what matters?"
-    fox "J'ai survécu, non? N'est-ce pas ça qui compte?"
+    fox "J'ai survécue, non? N'est-ce pas ça qui compte?"
 
 # game/code/Book-1/Chapter-8s/s03.rpy:195
 translate french b1c08ss03_c60ee507:
 
     # "You look at her face, her defensive demeanor, and you genuinely wish someone had done something for the little girl that endured so much."
-    "Tu regardes son visage, son attitude défensive, et tu souhaites sincèrement que quelqu'un ait fait quelque chose pour la petite fille qui a enduré tant de choses."
+    "Tu regardes son visage, son attitude défensive, et tu souhaites sincèrement que quelqu'un ait fait quelque chose pour cette petite fille qui a endurée tant de choses."
 
 # game/code/Book-1/Chapter-8s/s03.rpy:196
 translate french b1c08ss03_112658e0:
 
     # fox "Although I feel at home with chaos and violence, I try to mediate fights to make sure no one gets severely hurt or killed, living the kind of lives we do."
-    fox "Bien que je me sente chez moi dans le chaos et la violence, j'essaie de médiatiser les bagarres pour m'assurer que personne ne soit gravement blessé ou tué, en vivant les vies que nous menons."
+    fox "Bien que je me sente chez moi dans le chaos et la violence, J'essaie d'agir comme médiateur dans les combats pour m'assurer que personne ne soit gravement blessé ou tué, vivant le genre de vie que nous menons.."
 
 # game/code/Book-1/Chapter-8s/s03.rpy:199
 translate french b1c08ss03_edc80ac7:
@@ -446,7 +446,7 @@ translate french b1c08ss03_edc80ac7:
 translate french b1c08ss03_aa4d897a:
 
     # fox "But that doesn't mean that we shouldn't try to mediate it from time to time."
-    fox "Mais cela ne veut pas dire qu'on ne devrait pas essayer de la médiatiser de temps en temps."
+    fox "Mais cela ne veut pas dire qu'on ne devrait pas essayer de la contrôlée de temps en temps."
 
 # game/code/Book-1/Chapter-8s/s03.rpy:203
 translate french b1c08ss03_3219f0a4:
@@ -458,7 +458,7 @@ translate french b1c08ss03_3219f0a4:
 translate french b1c08ss03_34b17b20:
 
     # "Foxy shrugs off your compliment."
-    "Foxy écarte ton compliment."
+    "Foxy ignore ton compliment."
 
 # game/code/Book-1/Chapter-8s/s03.rpy:207
 translate french b1c08ss03_90e927d2:
@@ -476,7 +476,7 @@ translate french b1c08ss03_efa7d7aa:
 translate french b1c08ss03_f332ab04:
 
     # mc "I'm glad you survived, Foxy. Though I hope one day you can learn to {i}live{/i}, too. There is so much more to life than just survival."
-    mc "Je suis content que tu aies survécu, Foxy. Mais j'espère qu'un jour tu apprendras à {i}vivre{/i}, aussi. La vie, c'est bien plus que juste survivre."
+    mc "Je suis content que tu aies survécue, Foxy. Mais j'espère qu'un jour tu apprendras à {i}vivre{/i}, aussi. La vie, c'est bien plus que juste de la survivre."
 
 # game/code/Book-1/Chapter-8s/s03.rpy:214
 translate french b1c08ss03_ba3b37f8:
