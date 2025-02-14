@@ -15,7 +15,7 @@ translate french b1c08cs05_0c2801b5:
 translate french b1c08cs05_3d9c8545:
 
     # mct "I need to search the area for that cave system."
-    mct "Je dois chercher la zone pour ce système de grottes."
+    mct "Je dois chercher la zone pour cette histoire de grottes."
 
 # game/code/Book-1/Chapter-8c/s05.rpy:70
 translate french b1c08cs05_d351c505:
@@ -51,7 +51,7 @@ translate french b1c08cs05_1a03cf30:
 translate french b1c08cs05_f8fb69b3:
 
     # mct "I have to make this quick and be back around the time everyone else starts waking up."
-    mct "Je dois faire ça rapidement et revenir vers le moment où tout le monde commence à se réveiller."
+    mct "Je dois faire ça vite et être de retour au moment où tout le monde commence à se réveiller.."
 
 # game/code/Book-1/Chapter-8c/s05.rpy:88
 translate french b1c08cs05_c3fad588:
@@ -177,7 +177,7 @@ translate french b1c08cs05_a865d2ea:
 translate french b1c08cs05_1b45b516:
 
     # ys "*Whispers* That's my good baby. We're so excited to meet you. Please come out now, okay? Momma needs you."
-    ys "*Chuchote* C'est mon bon bébé. Nous sommes tellement impatients de te rencontrer. Sors maintenant, d'accord? Maman a besoin de toi."
+    ys "*Chuchote* C'est mon beau bébé. Nous sommes tellement impatients de te rencontrer. Sors maintenant, d'accord? Maman a besoin de toi."
 
 # game/code/Book-1/Chapter-8c/s05.rpy:154
 translate french b1c08cs05_bd89807c:
@@ -339,7 +339,7 @@ translate french b1c08cs05_1d4707e0:
 translate french b1c08cs05_2167cf81:
 
     # "The Prophet" "I can feel you pulsing all around me."
-    "Le Prophète" "Je te sens pulser tout autour de moi."
+    "Le Prophète" "Je te sens palpiter tout autour de moi."
 
 # game/code/Book-1/Chapter-8c/s05.rpy:336
 translate french b1c08cs05_ef20d8b6:
@@ -399,7 +399,7 @@ translate french b1c08cs05_0abcfe8b:
 translate french b1c08cs05_98007286:
 
     # "You're vividly reminded of Sally and her traumatic experience. The idea of another mother and her infant being at risk weighs heavily on you."
-    "Tu te rappelles vivement de Sally et de son expérience traumatisante. L'idée d'une autre mère et de son bébé en danger te pèse lourdement."
+    "Tu te rappelles de Sally et de son expérience traumatisante. L'idée qu'une autre mère et de son bébé en danger te pèse lourdement."
 
 # game/code/Book-1/Chapter-8c/s05.rpy:374
 translate french b1c08cs05_15359d0a:
