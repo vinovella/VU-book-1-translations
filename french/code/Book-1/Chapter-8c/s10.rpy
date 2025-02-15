@@ -2,7 +2,7 @@
 translate french b1c08cs10_2c6d21c6:
 
     # "You can hear the crowd gathering outside the cabin, getting ready for the ceremony under the full moon."
-    "Tu peux entendre la foule se rassembler à l'extérieur de la cabine, se préparant pour la cérémonie sous la pleine lune."
+    "Tu peux entendre la foule se rassembler à l'extérieur de la cabane, se préparant pour la cérémonie sous la pleine lune."
 
 # game/code/Book-1/Chapter-8c/s10.rpy:190
 translate french b1c08cs10_68b60fb2:
@@ -14,7 +14,7 @@ translate french b1c08cs10_68b60fb2:
 translate french b1c08cs10_b4f5ff91:
 
     # mc "I'm sure of it. We're doing this so we can advance in rank, right? Delphia has an awful lot of faith in us—I trust that."
-    mc "Je n'en doute pas. Nous faisons cela pour pouvoir avancer en grade, n'est-ce pas? Delphia a énormément de foi en nous—je lui fais confiance."
+    mc "Je n'en doute pas. Nous faisons cela pour pouvoir avancer en grade, n'est-ce pas? Delphia a énormément de foi en nous je lui fais confiance."
 
 # game/code/Book-1/Chapter-8c/s10.rpy:197
 translate french b1c08cs10_95400718:
@@ -26,7 +26,7 @@ translate french b1c08cs10_95400718:
 translate french b1c08cs10_97cf76bc:
 
     # nv "Regardless, I wish Ivy had briefed us on what exactly it is we're supposed to do..."
-    nv "Quoi qu'il en soit, j'aimerais qu'Ivy nous ait briefé sur ce que nous devons exactement faire..."
+    nv "Quoi qu'il en soit, j'aurais aimé qu'Ivy nous explique exactement ce que nous sommes censés faire...."
 
 # game/code/Book-1/Chapter-8c/s10.rpy:203
 translate french b1c08cs10_b805585e:
@@ -38,13 +38,13 @@ translate french b1c08cs10_b805585e:
 translate french b1c08cs10_65c6bfc7:
 
     # mct "Hopefully it's nothing as batshit as what I saw in that cave..."
-    mct "J'espère que ce n'est pas aussi débile que ce que j'ai vu dans cette grotte..."
+    mct "J'espère que ce n'est pas aussi débile de ce que j'ai vu dans cette grotte..."
 
 # game/code/Book-1/Chapter-8c/s10.rpy:208
 translate french b1c08cs10_1065760a:
 
     # "A knock on the cabin door alerts you and Nia. It's time for you to start the ritual."
-    "Un coup frappé à la porte de la cabine vous alerte, toi et Nia. Il est temps de commencer le rituel."
+    "Un coup frappé à la porte de la cabane vous alertes, toi et Nia. Il est temps de commencer le rituel."
 
 # game/code/Book-1/Chapter-8c/s10.rpy:211
 translate french b1c08cs10_feb51cbe:
@@ -74,13 +74,13 @@ translate french b1c08cs10_7b4955e2:
 translate french b1c08cs10_2a1c4a4b:
 
     # ih "You are to give a speech that reflects the spirit of Narurra. Do not disappoint."
-    ih "Tu dois prononcer un discours qui reflète l'esprit de Narurra. Ne déçois pas."
+    ih "Tu dois prononcer un discours qui reflète l'esprit de Narurra. Ne me déçois pas."
 
 # game/code/Book-1/Chapter-8c/s10.rpy:251
 translate french b1c08cs10_bd72df23:
 
     # "Nia looks surprised. She didn't prepare a speech because she wasn't told she'd need to."
-    "Nia semble surprise. Elle n'a pas préparé de discours car on ne lui avait pas dit qu'elle en aurait besoin."
+    "Nia semble surprise. Elle n'a pas préparé de discours car on ne lui avait pas dit qu'elle en aurait pas besoin."
 
 # game/code/Book-1/Chapter-8c/s10.rpy:253
 translate french b1c08cs10_2ac7aef0:
@@ -128,13 +128,13 @@ translate french b1c08cs10_0ff796ec:
 translate french b1c08cs10_41185da5:
 
     # nv "The ways she must've tormented herself, weighting which of her loves was stronger; the love for her forest, or the love for her partner."
-    nv "Les manières dont elle a dû se torturer, pesant lequel de ses amours était le plus fort ; l'amour pour sa forêt, ou l'amour pour son partenaire."
+    nv "Les manières dont elle a dû se torturer, pesant lequel de ses amours était le plus fort, l'amour pour sa forêt, ou l'amour pour son partenaire."
 
 # game/code/Book-1/Chapter-8c/s10.rpy:275
 translate french b1c08cs10_bc0af98b:
 
     # nv "It must have taken such courage to leave. I'm sure she felt immeasurable guilt over leaving her lover behind."
-    nv "Cela a dû prendre un courage énorme pour partir. Je suis sûre qu'elle a ressenti une culpabilité immeasurable en laissant son amant derrière."
+    nv "Il lui a fallu beaucoup de courage pour partir. Je suis sûr qu'elle ressentait une culpabilité incommensurable d'avoir laissé son amant derrière elle.."
 
 # game/code/Book-1/Chapter-8c/s10.rpy:278
 translate french b1c08cs10_5a35c205:
@@ -392,13 +392,13 @@ translate french b1c08cs10_ritual_f129b233:
 translate french b1c08cs10_ritual_d4c4484a:
 
     # nv "*Whispers* You're doing great."
-    nv "*Chuchote* Tu vas très bien."
+    nv "*Chuchote* Tu es très bien."
 
 # game/code/Book-1/Chapter-8c/s10.rpy:384
 translate french b1c08cs10_ritual_b487e7db:
 
     # nv "*Whispers* Just keep letting your higher self guide you."
-    nv "*Whispers* Continuez simplement à vous laisser guider par votre moi supérieur."
+    nv "*Chuchote* Continues simplement à te laisser guider par ton toi supérieur."
 
 # game/code/Book-1/Chapter-8c/s10.rpy:388
 translate french b1c08cs10_ritual_0df00203:
@@ -434,7 +434,7 @@ translate french b1c08cs10_ritual_ed80f2cb:
 translate french b1c08cs10_ritual_06bf84d2:
 
     # nv "*Whispers* Now send me to heaven."
-    nv "*Whispers* Maintenant, envoie-moi au paradis."
+    nv "*Chuchotements* Maintenant, envoie-moi au paradis."
 
 # game/code/Book-1/Chapter-8c/s10.rpy:418
 translate french b1c08cs10_ritual_28eabc2e:
@@ -566,7 +566,7 @@ translate french b1c08cs10_ritual_5e16d830:
 translate french b1c08cs10_ritual_9b49a751:
 
     # nv "*Whispers* What do you want to say to me, Mr. Wolf?"
-    nv "*Chuchote* Que voulez-vous me dire, M. Wolf?"
+    nv "*Chuchote* Que voulez-vous me dire, M. le loup?"
 
 # game/code/Book-1/Chapter-8c/s10.rpy:499
 translate french b1c08cs10_ritual_3e179204:
@@ -602,7 +602,7 @@ translate french b1c08cs10_ritual_1055ee3e:
 translate french b1c08cs10_ritual_f708fd0d:
 
     # mc "You can't hide from me forever."
-    mc "Tu ne peux pas me cacher pour toujours."
+    mc "Tu ne peux pas te cacher pour toujours."
 
 # game/code/Book-1/Chapter-8c/s10.rpy:509
 translate french b1c08cs10_ritual_4fa010ba:
@@ -704,7 +704,7 @@ translate french b1c08cs10_ritual_b18fdd5c:
 translate french b1c08cs10_ritual_e2823177:
 
     # "An intoxicatingly sensual desire seems to infect the crowd."
-    "Un désir enivrantement sensuel semble infecter la foule."
+    "Un désir enivrant et sensuel semble infecter la foule."
 
 # game/code/Book-1/Chapter-8c/s10.rpy:610
 translate french b1c08cs10_ritual_d8279275:
@@ -734,7 +734,7 @@ translate french b1c08cs10_ritual_84a1560d:
 translate french b1c08cs10_ritual_00146cec:
 
     # mc "You're doing so good."
-    mc "Tu fais si bien."
+    mc "Tu fais ça si bien."
 
 # game/code/Book-1/Chapter-8c/s10.rpy:632
 translate french b1c08cs10_ritual_502db14b:
@@ -830,7 +830,7 @@ translate french b1c08cs10_ritual_1bb5677f:
 translate french b1c08cs10_ritual_88ff8bc5:
 
     # mc "You did so well."
-    mc "Tu as si bien fait."
+    mc "Tu l'as si bien fait."
 
 # game/code/Book-1/Chapter-8c/s10.rpy:719
 translate french b1c08cs10_ritual_204edce6:
@@ -884,7 +884,7 @@ translate french b1c08cs10_ritual_a0790b0e:
 translate french b1c08cs10_ritual_92347803:
 
     # dk "You both did it. I am so proud of you. That performance was amazing."
-    dk "Vous l'avez tous les deux fait. Je suis tellement fière de vous. Cette performance était incroyable."
+    dk "Vous l'avez fait tous les deux. Je suis tellement fière de vous. Cette performance était incroyable."
 
 # game/code/Book-1/Chapter-8c/s10.rpy:747
 translate french b1c08cs10_ritual_b823bd81:
@@ -902,7 +902,7 @@ translate french b1c08cs10_ritual_488b5572:
 translate french b1c08cs10_ritual_e4475a01:
 
     # ih "A blessing from Narurra, I perceive."
-    ih "Une bénédiction de Narurra, je perçois."
+    ih "Je perçoie, une bénédiction de Narurra."
 
 # game/code/Book-1/Chapter-8c/s10.rpy:758
 translate french b1c08cs10_ritual_6948c977:
