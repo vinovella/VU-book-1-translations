@@ -86,7 +86,7 @@ translate french b1c09s09s_f3069953:
 translate french b1c09s09s_c10c8126:
 
     # zp "[mcname]! Glad to see you here."
-    zp "[mcname]! Content de te voir ici."
+    zp "[mcname]! Contente de te voir ici."
 
 # game/code/Book-1/Chapter-9/s09s.rpy:80
 translate french b1c09s09s_62a8c0b8:
@@ -176,7 +176,7 @@ translate french b1c09s09s_fcda9a76:
 translate french b1c09s09s_3b6440ec:
 
     # ffl "Switch partners!"
-    ffl "Changez de partenaire!"
+    ffl "Changeons de partenaire!"
 
 # game/code/Book-1/Chapter-9/s09s.rpy:140
 translate french b1c09s09s_8c57eb73:
@@ -236,13 +236,13 @@ translate french b1c09s09s_tf_available_81d895b9:
 translate french b1c09s09s_tf_available_f207d5e2:
 
     # ffl "I know she's missed Leia throughout these past weeks. Going through all these hardships without Leia has been rough on all of us."
-    ffl "Je sais qu'elle a manqué Leia pendant ces dernières semaines. Traverser toutes ces épreuves sans Leia a été difficile pour nous tous."
+    ffl "Je sais que Leia lui a manqué tout au long de ces dernières semaines. Traverser toutes ces épreuves sans Leia a été difficile pour nous tous."
 
 # game/code/Book-1/Chapter-9/s09s.rpy:208
 translate french b1c09s09s_tf_available_c2d1fc84:
 
     # ffl "But it was the roughest on Zem. I know it's hard on her, taking over the debts."
-    ffl "Mais c'était le plus difficile pour Zem. Je sais que c'est dur pour elle, prendre en charge les dettes."
+    ffl "Mais c'était plus difficile pour Zem. Je sais que c'est dur pour elle, prendre en charge les dettes."
 
 # game/code/Book-1/Chapter-9/s09s.rpy:211
 translate french b1c09s09s_tf_available_bbf5b371:
@@ -434,7 +434,7 @@ translate french b1c09s09s_tf_available_38f50949:
 translate french b1c09s09s_tf_available_1d23dbcd:
 
     # ffl "Even commented on it being broken. I heard her say 'That bitch broke my phone.' I think so, anyway. Her speech was very slurred."
-    ffl "Elle a même commenté en disant qu'il était cassé. Je l'ai entendue dire 'Cette salope a cassé mon téléphone.' Je crois, en tout cas. Elle parlait très péniblement."
+    ffl "Elle a même commentée en disant qu'il était cassé. Je l'ai entendue dire 'Cette salope a cassé mon téléphone.' Je crois, en tout cas. Elle parlait très péniblement."
 
 # game/code/Book-1/Chapter-9/s09s.rpy:286
 translate french b1c09s09s_tf_available_2a74d2d1:
@@ -458,7 +458,7 @@ translate french b1c09s09s_tf_available_0a935401:
 translate french b1c09s09s_tf_available_37f95a0e:
 
     # mct "I need to investigate why, and the extremes that their conflict may have gone to."
-    mct "Je dois enquêter sur pourquoi, et jusqu'où leur conflit a pu aller."
+    mct "Je dois enquêter pourquoi, et jusqu'où leur conflit a pu aller."
 
 # game/code/Book-1/Chapter-9/s09s.rpy:319
 translate french b1c09s09s_tf_available_4c9b898e:
@@ -656,7 +656,7 @@ translate french b1c09s09s_no_tf_941eca07:
 translate french b1c09s09s_no_tf_21b54884:
 
     # xv "Hey man, thanks for...everything. You did good, Rookie."
-    xv "Hé mec, merci pour... tout. T'as bien joué, Rookie."
+    xv "Hé mec, merci pour... tout. T'as bien joué, recrue."
 
 # game/code/Book-1/Chapter-9/s09s.rpy:441
 translate french b1c09s09s_no_tf_90b2b2ef:
@@ -674,7 +674,7 @@ translate french b1c09s09s_no_tf_82ab8fbf:
 translate french b1c09s09s_no_tf_ba1d2243:
 
     # mct "Holy shit, is he acknowledging—"
-    mct "Putain, il reconnaît—"
+    mct "Putain, il le reconnaît—"
 
 # game/code/Book-1/Chapter-9/s09s.rpy:450
 translate french b1c09s09s_no_tf_74b52012:
@@ -698,7 +698,7 @@ translate french b1c09s09s_no_tf_4d16d9e4:
 translate french b1c09s09s_no_tf_dfcd0c3f:
 
     # xv "Here, let's do a toast."
-    xv "Tiens, faisons un toast."
+    xv "Tiens, portons un toast."
 
 # game/code/Book-1/Chapter-9/s09s.rpy:461
 translate french b1c09s09s_no_tf_4df6ee6a:
@@ -722,7 +722,7 @@ translate french b1c09s09s_no_tf_47d1cf91:
 translate french b1c09s09s_no_tf_210040e5:
 
     # xv "F-fuck yeah. Let's do a toast."
-    xv "P-putain ouais. Faisons un toast."
+    xv "P-putain ouais. portons un toast."
 
 # game/code/Book-1/Chapter-9/s09s.rpy:472
 translate french b1c09s09s_no_tf_d24fac32:
@@ -782,7 +782,7 @@ translate french b1c09s09s_no_tf_a6b0aa31:
 translate french b1c09s09s_no_tf_f4a5a4ce:
 
     # xv "If you're not careful, rookie, I'll have to teach you some manners."
-    xv "Si tu n'es pas prudent, rookie, je vais devoir t'apprendre les bonnes manières."
+    xv "Si tu n'es pas prudent, recrue, je vais devoir t'apprendre les bonnes manières."
 
 # game/code/Book-1/Chapter-9/s09s.rpy:540
 translate french b1c09s09s_no_tf_42ed3613:
@@ -830,7 +830,7 @@ translate french b1c09s09s_with_zp_1a58c656:
 translate french b1c09s09s_with_zp_3ecfce40:
 
     # zp "Well, ya never know. I might need help picking out a new outfit."
-    zp "Eh bien, tu sais jamais. Il se peut que j'aie besoin d'aide pour choisir une nouvelle tenue."
+    zp "Eh bien, on ne sais jamais. Il se peut que j'aie besoin d'aide pour choisir une nouvelle tenue."
 
 # game/code/Book-1/Chapter-9/s09s.rpy:577
 translate french b1c09s09s_with_zp_c7b83610:
@@ -842,7 +842,7 @@ translate french b1c09s09s_with_zp_c7b83610:
 translate french b1c09s09s_with_zp_a66df180:
 
     # mc "This isn't your room. Are we supposed to be in here?"
-    mc "Ce n'est pas ta chambre. On est censés être ici?"
+    mc "Ce n'est pas ta chambre. Sommes-nous censés être ici"
 
 # game/code/Book-1/Chapter-9/s09s.rpy:589
 translate french b1c09s09s_with_zp_8b9165ca:
@@ -998,7 +998,7 @@ translate french b1c09s09s_with_zp_a7737be3:
 translate french b1c09s09s_with_zp_455c793e:
 
     # zp "Yeah, yeah, I get it. I'm just horny as fuck right now."
-    zp "Ouais, ouais, je comprends. Je suis juste vraiment excité là."
+    zp "Ouais, ouais, je comprends. Je suis juste vraiment excitée là."
 
 # game/code/Book-1/Chapter-9/s09s.rpy:716
 translate french b1c09s09s_with_zp_fa41ba21:
