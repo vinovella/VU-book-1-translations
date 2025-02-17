@@ -171,7 +171,7 @@ translate french b1c09s06_58f6276a:
 translate french b1c09s06_b6612422:
 
     # mct "Though, this could be addressed to a crazy ex or something. Not really important for my investigation."
-    mct "Cela pourrait cependant être adressé à un ex-crazy ou quelque chose du genre. Ce n'est pas vraiment important pour mon enquête."
+    mct "Cela pourrait cependant être adressé à un ex-fou ou quelque chose du genre. Ce n'est pas vraiment important pour mon enquête."
 
 # game/code/Book-1/Chapter-9/s06.rpy:163
 translate french b1c09s06_658ddf0a:
@@ -231,13 +231,13 @@ translate french b1c09s06_ij_arrives_7861f501:
 translate french b1c09s06_ij_arrives_4f93b391:
 
     # ij "So I understand why you were drawn to it."
-    ij "Donc je comprends pourquoi tu as été attiré(e) par elle."
+    ij "Donc je comprends pourquoi tu as été attiré par elle."
 
 # game/code/Book-1/Chapter-9/s06.rpy:200
 translate french b1c09s06_ij_arrives_cd63727a:
 
     # mc "You caught me. I was just curious. I didn't want to disturb anyone, though."
-    mc "Tu m'as pris(e) en flagrant délit. J'étais juste curieux(se). Je ne voulais déranger personne, pourtant."
+    mc "Tu m'as pris en flagrant délit. J'étais juste curieux. Je ne voulais déranger personne."
 
 # game/code/Book-1/Chapter-9/s06.rpy:203
 translate french b1c09s06_ij_arrives_67929e72:
@@ -249,7 +249,7 @@ translate french b1c09s06_ij_arrives_67929e72:
 translate french b1c09s06_ij_arrives_092f8851:
 
     # ij "There are no secrets here. You're always welcome."
-    ij "Il n'y a aucun secret ici. Tu es toujours le(la) bienvenu(e)."
+    ij "Il n'y a aucun secret ici. Tu es toujours le bienvenu."
 
 # game/code/Book-1/Chapter-9/s06.rpy:211
 translate french b1c09s06_ij_arrives_b071c562:
@@ -273,7 +273,7 @@ translate french b1c09s06_ij_arrives_ce27aff9:
 translate french b1c09s06_ij_arrives_9bf19831:
 
     # mct "Haven't I given enough hints to this girl already?"
-    mct "Je n'ai pas déjà donné assez d'indices à cette fille?"
+    mct "N'ai-je pas déjà donné suffisamment d'indices à cette fille?"
 
 # game/code/Book-1/Chapter-9/s06.rpy:220
 translate french b1c09s06_ij_arrives_91c3da6d:
@@ -291,7 +291,7 @@ translate french b1c09s06_ij_arrives_ab131981:
 translate french b1c09s06_ij_arrives_d4186415:
 
     # mc "*Whispers* You sure no one will mind?"
-    mc "*Chuchote* Tu es sûr(e) que personne n'y verra d'inconvénient?"
+    mc "*Chuchote* Tu es sûr que personne n'y verra d'inconvénient?"
 
 # game/code/Book-1/Chapter-9/s06.rpy:230
 translate french b1c09s06_ij_arrives_b84cb7e3:
@@ -363,7 +363,7 @@ translate french b1c09s06_ij_arrives_df646e70:
 translate french b1c09s06_ij_arrives_e1ce60a6:
 
     # ij "Although we share and there are no secrets, I don't think you should be wandering down here alone like this."
-    ij "Bien que nous partagions et qu'il n'y ait aucun secret, je ne pense pas que tu devrais te promener ici seul(e) comme ça."
+    ij "Bien que nous partagions et qu'il n'y ait aucun secret, je ne pense pas que tu devrais te promener ici seul comme ça."
 
 # game/code/Book-1/Chapter-9/s06.rpy:270
 translate french b1c09s06_ij_arrives_e42c1ef2:
@@ -489,13 +489,13 @@ translate french b1c09s06_sex_623507cd:
 translate french b1c09s06_sex_b224269a:
 
     # "Her wet, needy mouth almost makes you cum early, but it's as if she knows just when you're getting close, and she slows down."
-    "Sa bouche humide et nécessiteuse vous fait presque jouir tôt, mais c'est comme si elle savait exactement quand vous vous approchez, et elle ralentit."
+    "Sa bouche humide et nécessiteuse vous fait presque jouir, mais c'est comme si elle savait exactement quand vous vous approchez, et elle ralentit."
 
 # game/code/Book-1/Chapter-9/s06.rpy:363
 translate french b1c09s06_sex_75fbd060:
 
     # ij "You taste so good. It drives me insane."
-    ij "Tu as si bon goût. Ça me rend fou."
+    ij "Tu as si bon goût. Ça me rend folle."
 
 # game/code/Book-1/Chapter-9/s06.rpy:366
 translate french b1c09s06_sex_e36b80ce:
@@ -507,7 +507,7 @@ translate french b1c09s06_sex_e36b80ce:
 translate french b1c09s06_sex_19aa6dff:
 
     # ij "I could eat you all up right now if you let me."
-    ij "Je pourrais vous manger tout de suite si vous me le permettez."
+    ij "Je pourrais te manger tout de suite si tu me le permet."
 
 # game/code/Book-1/Chapter-9/s06.rpy:385
 translate french b1c09s06_be_bottom_ca4deb98:
@@ -561,7 +561,7 @@ translate french b1c09s06_be_bottom_385053aa:
 translate french b1c09s06_be_bottom_5dfb357e:
 
     # ij "Get on all fours for me. It's my turn to make you feel good."
-    ij "Mettez-vous à quatre pattes pour moi. C'est à mon tour de vous faire du bien."
+    ij "Mets-toi à quatre pattes pour moi. C'est à mon tour de te faire du bien."
 
 # game/code/Book-1/Chapter-9/s06.rpy:431
 translate french b1c09s06_be_bottom_e8d7815a:
@@ -657,7 +657,7 @@ translate french b1c09s06_be_bottom_1e0629c6:
 translate french b1c09s06_be_bottom_2c881dfd:
 
     # ij "Ah, I'm cumming!"
-    ij "Ah, je jouis!"
+    ij "Ah, je jouie!"
 
 # game/code/Book-1/Chapter-9/s06.rpy:511
 translate french b1c09s06_be_bottom_e8330295:
@@ -699,7 +699,7 @@ translate french b1c09s06_be_bottom_2f84ff14:
 translate french b1c09s06_be_bottom_79de7289:
 
     # mc "Come here."
-    mc "Venez ici."
+    mc "Viens ici."
 
 # game/code/Book-1/Chapter-9/s06.rpy:541
 translate french b1c09s06_be_top_f9b1323f:
@@ -789,7 +789,7 @@ translate french b1c09s06_be_top_1186db31:
 translate french b1c09s06_be_top_5adfb5ba:
 
     # mc "Ride me, let me see how much you want it."
-    mc "Montez-moi, laissez-moi voir à quel point vous le voulez."
+    mc "Monte-moi, laisse-moi voir à quel point tu la veux."
 
 # game/code/Book-1/Chapter-9/s06.rpy:646
 translate french b1c09s06_be_top_2dd4a67d:
@@ -855,7 +855,7 @@ translate french b1c09s06_be_top_6040d42b:
 translate french b1c09s06_be_top_d07f1a6a:
 
     # ij "*Giggles* Do I look nice and full of you?"
-    ij "*Rires* Est-ce que j'ai l'air gentil et plein de toi?"
+    ij "*Rires* Est-ce que j'ai l'air gentille et pleine de toi?"
 
 # game/code/Book-1/Chapter-9/s06.rpy:700
 translate french b1c09s06_be_top_0d5abfe5:
@@ -873,7 +873,7 @@ translate french b1c09s06_be_top_93658088:
 translate french b1c09s06_sex_end_fba6eddc:
 
     # mc "C'mon. I've got classes in a bit. Let's get cleaned up."
-    mc "Allez. J'ai des cours dans un moment. Allons nettoyer."
+    mc "Allez. J'ai des cours dans un moment. Allons nous nettoyer."
 
 # game/code/Book-1/Chapter-9/s06.rpy:717
 translate french b1c09s06_sex_end_206b3b9d:
