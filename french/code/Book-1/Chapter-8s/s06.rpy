@@ -104,7 +104,7 @@ translate french b1c08ss06_9f1a565a:
 translate french b1c08ss06_457d1bea:
 
     # nr "How did you guys get here? We'd almost given up."
-    nr "Comment vous êtes-vous rendus ici? On avait presque abandonné."
+    nr "Comment vous êtes-vous rendus ici? Nous avions presque abandonné."
 
 # game/code/Book-1/Chapter-8s/s06.rpy:104
 translate french b1c08ss06_bb602250:
@@ -122,13 +122,13 @@ translate french b1c08ss06_cf3ba186:
 translate french b1c08ss06_f840a8f8:
 
     # "Xasan and Morgan remain vigilant outside the warehouse, keeping the coast clear as the Syndicate members and the cam workers stealthily but slowly make their way back to the boat."
-    "Xasan et Morgan restent vigilants à l'extérieur de l'entrepôt, gardant la voie dégagée tandis que les membres du Syndicat et les caméramans se dirigent furtivement mais lentement vers le bateau."
+    "Xasan et Morgan restent vigilants à l'extérieur de l'entrepôt, gardant la voie dégagée tandis que les membres du Syndicat et les cam se dirigent furtivement mais lentement vers le bateau."
 
 # game/code/Book-1/Chapter-8s/s06.rpy:113
 translate french b1c08ss06_f5e1d8fd:
 
     # xv "Morgan, help them back to the boat. I'll keep watch."
-    xv "Morgan, aide-les à retourner au bateau. Je vais garder la garde."
+    xv "Morgan, aide-les à retourner au bateau. je vais surveiller."
 
 # game/code/Book-1/Chapter-8s/s06.rpy:115
 translate french b1c08ss06_f168d7dc_1:
@@ -188,7 +188,7 @@ translate french b1c08ss06_efed01ef:
 translate french b1c08ss06_d86e8c8d:
 
     # mc "Glad to see you too, Sabrina. Let's get you home safe."
-    mc "Content de te voir aussi, Sabrina. Rentrons chez toi en sécurité."
+    mc "Content de te voir aussi, Sabrina. Rentrons chez nous en sécurité."
 
 # game/code/Book-1/Chapter-8s/s06.rpy:152
 translate french b1c08ss06_452d1bd8:
@@ -218,7 +218,7 @@ translate french b1c08ss06_f8d60fa2:
 translate french b1c08ss06_e688846a:
 
     # "Guard" "Stop whatever the fuck you're doing!"
-    "Garde" "Arrêtez ce que vous foutez!"
+    "Garde" "Arrêtez ce que vous faites!"
 
 # game/code/Book-1/Chapter-8s/s06.rpy:169
 translate french b1c08ss06_358a671d:
@@ -272,7 +272,7 @@ translate french b1c08ss06_983b61be:
 translate french b1c08ss06_7adb83e5:
 
     # zp "But we have the cam workers safe—"
-    zp "Mais les caméramans sont en sécurité—"
+    zp "Mais les cams sont en sécurité—"
 
 # game/code/Book-1/Chapter-8s/s06.rpy:210
 translate french b1c08ss06_fd324d68:
@@ -290,7 +290,7 @@ translate french b1c08ss06_f306df62:
 translate french b1c08ss06_86ec5bce:
 
     # nr "If he told you to leave him, just leave! He can take care of himself, and we can regroup and come back with a more coordinated team."
-    nr "S'il vous a dit de le laisser, laissez-le! Il peut s'occuper de lui-même, et nous pouvons nous regrouper et revenir avec une équipe plus coordonnée."
+    nr "Si il vous a dit de le laisser, laissez-le! Il peut s'occuper de lui-même, et nous pouvons nous regrouper et revenir avec une équipe plus coordonnée."
 
 # game/code/Book-1/Chapter-8s/s06.rpy:218
 translate french b1c08ss06_71209420:
@@ -398,13 +398,13 @@ translate french b1c08ss06_6b42d948:
 translate french b1c08ss06_f5ffc10b:
 
     # "Guard" "GET THOSE FUCKERS!"
-    "Guard" "ATTRAPEZ CES ENFOIRÉS!"
+    "Garde" "ATTRAPEZ CES ENFOIRÉS!"
 
 # game/code/Book-1/Chapter-8s/s06.rpy:288
 translate french b1c08ss06_f6626f28:
 
     # "Guard" "What's so fuckin' funny to you, asshole?"
-    "Guard" "C'est quoi qui te fait tant rire, connard?"
+    "Garde" "C'est quoi qui te fait tant rire, connard?"
 
 # game/code/Book-1/Chapter-8s/s06.rpy:290
 translate french b1c08ss06_34f81d5d:
@@ -416,7 +416,7 @@ translate french b1c08ss06_34f81d5d:
 translate french b1c08ss06_d00dad00:
 
     # "Guard" "Tough words coming from someone I can grind underneath my heel."
-    "Guard" "Des paroles dures venant de quelqu'un que je peux écraser sous mon talon."
+    "Garde" "Des paroles dures venant de quelqu'un que je peux écraser sous mon talon."
 
 # game/code/Book-1/Chapter-8s/s06.rpy:301
 translate french b1c08ss06_30039d4d:
@@ -428,7 +428,7 @@ translate french b1c08ss06_30039d4d:
 translate french b1c08ss06_f5212b77:
 
     # "Guard" "Hellena will want to see them—"
-    "Guard" "Hellena voudra les voir—"
+    "Garde" "Hellena voudra les voir—"
 
 # game/code/Book-1/Chapter-8s/s06.rpy:315
 translate french b1c08ss06_3585150d:
@@ -446,7 +446,7 @@ translate french b1c08ss06_be82370a:
 translate french b1c08ss06_d621d664:
 
     # mct "Fuck... I was too late."
-    mct "Merde... J'étais trop tard."
+    mct "Merde... Je suis arrvié trop tard."
 
 # game/code/Book-1/Chapter-8s/s06.rpy:325
 translate french b1c08ss06_27937a7a:
@@ -518,13 +518,13 @@ translate french b1c08ss06_7d580f6a:
 translate french b1c08ss06_28217709:
 
     # "Guard" "You're goin' to hell, little man."
-    "Guard" "Tu vas en enfer, petit homme."
+    "Garde" "Tu vas en enfer, petit homme."
 
 # game/code/Book-1/Chapter-8s/s06.rpy:383
 translate french b1c08ss06_27cc58d8:
 
     # mc "Already there."
-    mc "Déjà là."
+    mc "J'y suis déjà."
 
 # game/code/Book-1/Chapter-8s/s06.rpy:385
 translate french b1c08ss06_3a2a70fd:
