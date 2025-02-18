@@ -164,7 +164,7 @@ translate french b1c07ws02_299e0d5f:
 translate french b1c07ws02_9744cbee:
 
     # mc "My {i}point{/i} is, however, I'm pretty sure I know what Isa's up to."
-    mc "Ce que je v{/i}eux{/i} dire, c'est que je suis presque sûr de savoir ce que fait Isa.."
+    mc "Ce que je {i}veux{/i} dire, c'est que je suis presque sûr de savoir ce que fait Isa.."
 
 # game/code/Book-1/Chapter-7w/s02.rpy:124
 translate french b1c07ws02_e65673ee:

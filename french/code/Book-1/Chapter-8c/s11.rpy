@@ -212,7 +212,7 @@ translate french b1c08cs11_06470ff1:
 translate french b1c08cs11_4fd2194d:
 
     # mc "Does it excite you? Us making our own little secret in the middle of this forest?"
-    mc "Ça t"excite? Nous faisons notre propre petit secret au milieu de cette forêt?"
+    mc "Ça texcite? Nous faisons notre propre petit secret au milieu de cette forêt?"
 
 # game/code/Book-1/Chapter-8c/s11.rpy:181
 translate french b1c08cs11_8cda9839:

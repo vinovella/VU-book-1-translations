@@ -399,13 +399,13 @@ translate french b1c09s01_check_pm_391518b4:
 translate french b1c09s01_check_pm_db3e672a:
 
     # kc "All to find {i}us{/i}, you say. Do what needs to be done, you say."
-    kc "Tout ça pour {/i}nous{/i} trouver, dis-tu. Fais ce qui doit être fait, dis-tu."
+    kc "Tout ça pour {i}nous{/i} trouver, dis-tu. Fais ce qui doit être fait, dis-tu."
 
 # game/code/Book-1/Chapter-9/s01.rpy:441
 translate french b1c09s01_check_pm_be7b3b18:
 
     # mfk "You go around having your fun, getting your dick wet with impunity. All for a noble cause. To find {i}us{/i}."
-    mfk "Tu te balades en t'amusant, trempant ta queue sans vergogne. Tout ça pour une noble cause. Pour {/i}nous{/i} trouver."
+    mfk "Tu te balades en t'amusant, trempant ta queue sans vergogne. Tout ça pour une noble cause. Pour {i}nous{/i} trouver."
 
 # game/code/Book-1/Chapter-9/s01.rpy:442
 translate french b1c09s01_check_pm_c92ae378:

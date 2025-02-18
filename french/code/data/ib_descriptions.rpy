@@ -265,7 +265,7 @@ translate french strings:
     old "Blind. Best friends with Josie."
     new "Aveugle. Meilleure amie de Josie."
 
-   # game/code/data/ib_descriptions.rpy:2
+    # game/code/data/ib_descriptions.rpy:2
     old "My other roommate."
     new "Mon autre colocataire."
 
@@ -357,9 +357,9 @@ translate french strings:
     old "Good friends with Simon."
     new "Bonne amie de Simon."
 
-   # game/code/data/ib_descriptions.rpy:2
+    # game/code/data/ib_descriptions.rpy:2
     old "Expresses strong dislike and distrust towards Olesya, referring to her as \"murderous\"."
-    new "Exprime une forte aversion et méfiance envers Olesya, la qualifiant de "meurtrière"."
+    new "Exprime une forte aversion et méfiance envers Olesya, la qualifiant de\"meurtrière\"."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Mentioned trouble in the theater group due to an incident involving Olesya."
@@ -673,7 +673,7 @@ translate french strings:
     old "Nia's controlling brother."
     new "Le frère contrôlant de Nia."
 
-   # game/code/data/ib_descriptions.rpy:2
+    # game/code/data/ib_descriptions.rpy:2
     old "Connected to Fleur."
     new "Connecté à Fleur."
 
@@ -765,7 +765,7 @@ translate french strings:
     old "I have to convince Lumi to get a tattoo of the self-help group's symbol so I can advance in their ranking."
     new "Je dois convaincre Lumi de se faire tatouer le symbole du groupe de soutien pour pouvoir avancer dans leur classement."
 
-   # game/code/data/ib_descriptions.rpy:2
+    # game/code/data/ib_descriptions.rpy:2
     old "Guided by Irene."
     new "Guidé(e) par Irene."
 

@@ -62,7 +62,7 @@ translate french b1c07ws06_fa39562b:
 translate french b1c07ws06_22f59e75:
 
     # sm "C'mon then. Show us \"amateurs\" what you got."
-    sm "Allez alors. Montre aux "amateurs" ce que tu as"."
+    sm "Allez alors. Montre aux \"amateurs\" ce que tu as."
 
 # game/code/Book-1/Chapter-7w/s06.rpy:85
 translate french b1c07ws06_d8b3d990:

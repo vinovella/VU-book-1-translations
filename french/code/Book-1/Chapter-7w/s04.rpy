@@ -86,7 +86,7 @@ translate french b1c07ws04_d5eec850:
 translate french b1c07ws04_db48dd1a:
 
     # mc "And what exactly is this \"charade\", hm?"
-    mc "Et c'est quoi exactement cette "mascarade", hein ?"
+    mc "Et c'est quoi exactement cette \"mascarade\", hein ?"
 
 # game/code/Book-1/Chapter-7w/s04.rpy:76
 translate french b1c07ws04_a15c63c1:
