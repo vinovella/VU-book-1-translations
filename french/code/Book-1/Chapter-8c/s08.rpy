@@ -68,7 +68,7 @@ translate french b1c08cs08_e07476df:
 translate french b1c08cs08_0338463e:
 
     # ys "Blessed be me and my child by Narurra."
-    ys "Béni sois-je et mon enfant par Narurra."
+    ys "Béni soit, moi et mon enfant par Narurra."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:76
 translate french b1c08cs08_5eb12dc9:
@@ -122,7 +122,7 @@ translate french b1c08cs08_60da8af8:
 translate french b1c08cs08_57fc2066:
 
     # ih "*Whispers* Mm, blessed be {i}you{/i}, darling newcomer, for most disciples of Narurra find her faith through some senseless act of love—and I plan to claim what is mine."
-    ih "*Chuchote* Mm, béni sois-tu {i}toi{/i}, cher nouvel arrivant, car la plupart des disciples de Narurra trouvent sa foi à travers un acte insensé d'amour—et j'ai l'intention de revendiquer ce qui est à moi."
+    ih "*Chuchote* Mm, béni sois-tu {i}toi{/i}, cher nouvel arrivant, car la plupart des disciples de Narurra trouvent leur foi à travers un acte insensé d'amour et j'ai l'intention de revendiquer ce qui est à moi."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:104
 translate french b1c08cs08_69a9c175:
@@ -140,7 +140,7 @@ translate french b1c08cs08_af46c177:
 translate french b1c08cs08_d6bef4c1:
 
     # dk "What did you do to attract {i}her{/i} attention? She's practically feverish with desire."
-    dk "Qu'est-ce que tu as fait pour attirer l'attention de {i}lui{/i}? Elle est pratiquement fiévreuse de désir."
+    dk "Qu'est-ce que tu as fait pour attirer {i}son{/i} attention? Elle est pratiquement fiévreuse de désir."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:114
 translate french b1c08cs08_0cbcc25b:
@@ -212,7 +212,7 @@ translate french b1c08cs08_e63d7d5d:
 translate french b1c08cs08_ca0f26b4:
 
     # mc "Then do it. Lumi, you might never progress if you don't just get over yourself. Sometimes the things we want the most are the most difficult to commit to."
-    mc "Alors fais-le. Lumi, tu ne progresseras peut-être jamais si tu ne passes pas à autre chose. Parfois, les choses que nous voulons le plus sont les plus difficiles à s'engager."
+    mc "Alors fais-le. Lumi, tu ne progresseras peut-être jamais si tu ne passes pas à autre chose. Parfois, les choses que nous voulons le plus sont les plus difficiles à faire."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:147
 translate french b1c08cs08_c81e65aa:
@@ -236,7 +236,7 @@ translate french b1c08cs08_4116c6c5:
 translate french b1c08cs08_b2d32c92:
 
     # ll "{i}You've{/i} been keeping me plenty busy when my Guide isn't."
-    ll "{i}Tu{/i} m'as bien occupée quand mon Guide ne l'est pas."
+    ll "{i}Tu{/i} m'as bien occupée quand mon Guide n'était pas là."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:158
 translate french b1c08cs08_4339f6a8:
@@ -434,7 +434,7 @@ translate french b1c08cs08_nv_mc_talk_a60708c5:
 translate french b1c08cs08_nv_mc_talk_298c7052:
 
     # mc "Love is what holds us together. It's a god we must obey, a force far beyond our comprehension."
-    mc "L'amour est ce qui nous unit. C'est un dieu que nous devons obéir, une force bien au-delà de notre compréhension."
+    mc "L'amour est ce qui nous unit. C'est un dieu à qui nous devons obéir, une force bien au-delà de notre compréhension."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:257
 translate french b1c08cs08_nv_mc_talk_ed90d71b:
@@ -482,7 +482,7 @@ translate french b1c08cs08_nv_mc_talk_2a4be3b0:
 translate french b1c08cs08_nv_mc_talk_2668a221:
 
     # ad "Well, it seems you two are progressing well."
-    ad "Eh bien, il semble que vous deux progressez bien."
+    ad "Eh bien, il semble que progressez bien vous deux."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:286
 translate french b1c08cs08_nv_mc_talk_3de7eafb:
@@ -536,7 +536,7 @@ translate french b1c08cs08_nv_mc_talk_a49e4bcb:
 translate french b1c08cs08_nv_mc_talk_1fc12a38:
 
     # dk "I've attempted to give you plenty of time with her."
-    dk "J'ai essayé de vous donner beaucoup de temps avec elle."
+    dk "J'ai essayé de te donner beaucoup de temps avec elle."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:316
 translate french b1c08cs08_nv_mc_talk_761107f4:
@@ -650,7 +650,7 @@ translate french b1c08cs08_nv_mc_talk_3e2e308f:
 translate french b1c08cs08_ll_talk_3033974e:
 
     # ad "And what about you, my pet?"
-    ad "Et toi, mon chéri?"
+    ad "Et toi, ma chérie?"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:368
 translate french b1c08cs08_ll_talk_488aca5f:
@@ -716,7 +716,7 @@ translate french b1c08cs08_ll_talk_3bf2c99e:
 translate french b1c08cs08_ll_talk_08d9aba1:
 
     # ll "For the first time in my life, I feel as though I've found a place I belong. Under the care of my Guide, and the encouragement of this community, I've {i}thrived{/i}."
-    ll "Pour la première fois de ma vie, j'ai l'impression d'avoir trouvé un endroit où je me sens à ma place. Sous les soins de mon Guide, et grâce à l'encouragement de cette communauté, j'ai {i}évolué{/i}."
+    ll "Pour la première fois de ma vie, j'ai l'impression d'avoir trouvé un endroit où je me sens à ma place. Sous les soins de mon Guide, et grâce à l'encouragement de cette communauté, j'ai {i}évoluée{/i}."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:394
 translate french b1c08cs08_ll_talk_f79004ec:
@@ -734,13 +734,13 @@ translate french b1c08cs08_ll_talk_81cb02a2:
 translate french b1c08cs08_ll_talk_d06977b7:
 
     # ll "I'm confident that I've shown I'm eager and ready to take the next steps in my spiritual journey."
-    ll "Je suis confiant d'avoir montré que je suis impatient et prêt à prendre les prochaines étapes dans mon voyage spirituel."
+    ll "Je suis confiante d'avoir montrée que je suis impatiente et prête à prendre les prochaines étapes dans mon voyage spirituel."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:400
 translate french b1c08cs08_ll_talk_bbb2e476:
 
     # ll "Thank you so much, to those of you who have shown me kindness and acceptance."
-    ll "Merci beaucoup à ceux d'entre vous qui m'ont montré de la gentillesse et de l'acceptation."
+    ll "Merci beaucoup à ceux d'entre vous qui m'ont montrée de la gentillesse et de l'acceptation."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:401
 translate french b1c08cs08_ll_talk_9e8a6350:
@@ -764,13 +764,13 @@ translate french b1c08cs08_ll_talk_0b945ca3:
 translate french b1c08cs08_ll_talk_b6145eb9:
 
     # ad "And have you thought about getting that tattoo we talked about?"
-    ad "Et as-tu réfléchi à te faire ce tatouage dont on parlait?"
+    ad "Et as-tu réfléchie à te faire le tatouage dont nous avions parlait?"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:413
 translate french b1c08cs08_ll_talk_ae2df3e4:
 
     # ll "I...have. A little."
-    ll "Je...y ai réfléchi. Un peu."
+    ll "Je...y ai réfléchie. Un peu."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:414
 translate french b1c08cs08_ll_talk_5776fdfd:
@@ -812,7 +812,7 @@ translate french b1c08cs08_ll_talk_65299246:
 translate french b1c08cs08_ll_talk_c616c150:
 
     # ad "Lumi, my pet. What could you possibly be afraid of? What is there to lose?"
-    ad "Lumi, mon petit. De quoi pourrais-tu avoir peur? Qu'est-ce qu'il y a à perdre?"
+    ad "Lumi, ma petite. De quoi pourrais-tu avoir peur? Qu'est-ce qu'il y a à perdre?"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:432
 translate french b1c08cs08_ll_talk_830bfcd1:
@@ -842,7 +842,7 @@ translate french b1c08cs08_ll_talk_db0ab2dc:
 translate french b1c08cs08_ll_talk_3a53b9a7:
 
     # ll "I-I know. I'm anxious that you'll abuse any power you give me by claiming ownership of it or something..."
-    ll "Je...je sais. Je suis anxieux que tu abuses de tout pouvoir que tu me donnerais en en revendiquant la propriété ou quelque chose comme ça..."
+    ll "Je...je sais. Je suis anxieuse que tu abuses de tout pouvoir que tu me donnerais en en revendiquant la propriété ou quelque chose comme ça..."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:443
 translate french b1c08cs08_ll_talk_edc83d75:
@@ -854,13 +854,13 @@ translate french b1c08cs08_ll_talk_edc83d75:
 translate french b1c08cs08_ll_talk_91b19b90:
 
     # ll "But I understand that's my own hypocritical, horrible projection. I'm sorry."
-    ll "Mais je comprends que c'est ma propre projection hypocrite et horrible. Je suis désolé."
+    ll "Mais je comprends que c'est ma propre projection hypocrite et horrible. Je suis désolée."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:449
 translate french b1c08cs08_ll_talk_5fc11b6f:
 
     # ad "You are afraid because you are committed. You're giving this serious, genuine thought. That's good, Lumi. I'm so proud of you."
-    ad "Tu as peur parce que tu es engagé. Tu y réfléchis sérieusement et sincèrement. C'est bien, Lumi. Je suis tellement fier de toi."
+    ad "Tu as peur parce que tu es engagée. Tu y réfléchis sérieusement et sincèrement. C'est bien, Lumi. Je suis tellement fier de toi."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:451
 translate french b1c08cs08_ll_talk_9227b5a9:
@@ -890,7 +890,7 @@ translate french b1c08cs08_ll_talk_3df76080:
 translate french b1c08cs08_ll_talk_a7c9f3d4:
 
     # ad "So what do you say, my pet?"
-    ad "Alors, qu'en dis-tu, mon petit?"
+    ad "Alors, qu'en dis-tu, ma petite?"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:468
 translate french b1c08cs08_ll_talk_d5d92908:
@@ -962,13 +962,13 @@ translate french b1c08cs08_ll_talk_6b54b059:
 translate french b1c08cs08_ll_talk_6d16051f:
 
     # ad "Yes, a punishment will teach our anxious pet not to disrespect our hospitality."
-    ad "Oui, une punition apprendra à notre petit anxieux à ne pas manquer de respect à notre hospitalité."
+    ad "Oui, une punition apprendra à notre petite anxieuse à ne pas manquer de respect à notre hospitalité."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:506
 translate french b1c08cs08_ll_talk_d2a33807:
 
     # ad "What kind of punishment is appropriate for our Lumi?"
-    ad "Quel genre de punition est approprié pour notre Lumi?"
+    ad "Quel genre de punition est appropriée pour notre Lumi?"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:516
 translate french b1c08cs08_ll_punishment_44a2e48c:
@@ -1028,7 +1028,7 @@ translate french b1c08cs08_ll_punishment_70cdc748:
 translate french b1c08cs08_ll_punishment_1ad478f1:
 
     # ad "A spanking? You harsh minx."
-    ad "Une fessée? Espèce de dure coquine."
+    ad "Une fessée? Espèce de coquine."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:555
 translate french b1c08cs08_ll_punishment_dd373ad8:
@@ -1106,7 +1106,7 @@ translate french b1c08cs08_ll_punishment_8dd5f09f:
 translate french b1c08cs08_ll_punishment_67edf839:
 
     # mc "Hasn't {i}he{/i} done enough to her esteem as is?"
-    mc "N'a-t-il pas fait assez pour son estime?"
+    mc "N'a-t-elle pas fait assez pour son estime?"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:600
 translate french b1c08cs08_ll_punishment_f7deed9c:
@@ -1154,25 +1154,25 @@ translate french b1c08cs08_ll_punishment_1e242612:
 translate french b1c08cs08_ll_punishment_9e7c514c:
 
     # ll "I-it's fine. I'm willing to do it. Please, don't kick me out. I want to stay here. I want to be accepted. I'll take the punishment."
-    ll "Je-ça va. Je suis prêt à le faire. S'il te plaît, ne me mets pas à la porte. Je veux rester ici. Je veux être accepté. J'accepterai la punition."
+    ll "Je-ça va. Je suis prête à le faire. S'il te plaît, ne me mets pas à la porte. Je veux rester ici. Je veux être acceptée. J'accepterai la punition."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:618
 translate french b1c08cs08_ll_punishment_9fcca99c:
 
     # ad "I knew you could do it, my pet. So brave and resilient are you."
-    ad "Je savais que tu pouvais le faire, mon animal de compagnie. Tu es tellement courageux et résilient."
+    ad "Je savais que tu pouvais le faire, ma petite. Tu es tellement courageuse et résiliente."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:623
 translate french b1c08cs08_ll_punishment_8453b9c7:
 
     # "You and Ivy stare each other down, at an impasse."
-    "Vous et Ivy vous regardez dans une impasse."
+    "Vous et Ivy vous vous regardez dans une impasse."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:626
 translate french b1c08cs08_ll_punishment_75b540b6:
 
     # mct "Getting Lumi kicked out won't make her any happier."
-    mct "Se faire expulser de Lumi ne la rendra pas plus heureuse."
+    mct "Faire expulser Lumi ne la rendra pas plus heureuse."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:627
 translate french b1c08cs08_ll_punishment_5a0f8218:
@@ -1196,13 +1196,13 @@ translate french b1c08cs08_ll_punishment_1c2a8538:
 translate french b1c08cs08_ll_punishment_9bc0c695:
 
     # mct "I'll make it look rough but be gentle. Maybe I can even caress her a bit to soften the spanks."
-    mct "Je vais donner l'impression que ça a l'air dur mais sois doux. Peut-être que je peux même la caresser un peu pour adoucir les fessées."
+    mct "Je vais donner l'impression que ça a l'air dur mais doux. Peut-être que je peux même la caresser un peu pour adoucir les fessées."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:641
 translate french b1c08cs08_ll_punishment_1088ead4:
 
     # ll "Thank you. You're very kind."
-    ll "Merci. Vous êtes très gentil."
+    ll "Merci. Tu es très gentil."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:644
 translate french b1c08cs08_ll_punishment_4d7bbc61:
@@ -1268,7 +1268,7 @@ translate french b1c08cs08_ll_punishment_a60313cd:
 translate french b1c08cs08_ll_punishment_58fa3c9b:
 
     # mc "At least, that's what it means to me, and how I want to act on it."
-    mc "Du moins, c'est ce que cela signifie pour moi, et ainsi je veux agir."
+    mc "Du moins, c'est ce que cela signifie pour moi, et ainsi je peux agir."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:674
 translate french b1c08cs08_ll_punishment_4cd9b135:
@@ -1340,7 +1340,7 @@ translate french b1c08cs08_ll_spanking_d643c708:
 translate french b1c08cs08_ll_spanking_9822128a:
 
     # ll "I'm glad it's you who's doing the punishment."
-    ll "Je suis content que ce soit toi qui fasse la punition."
+    ll "Je suis contente que ce soit toi qui fasse la punition."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:721
 translate french b1c08cs08_ll_spanking_07f9ceee:
@@ -1490,13 +1490,13 @@ translate french b1c08cs08_ll_spanking_6369d387:
 translate french b1c08cs08_ll_spanking_95c7633a:
 
     # mc "Are you okay?"
-    mc "Êtes-vous d'accord?"
+    mc "Est ce que ça va?"
 
 # game/code/Book-1/Chapter-8c/s08.rpy:824
 translate french b1c08cs08_ll_spanking_ccb77054:
 
     # ll "I-I'm fine! I want more! Spank me more."
-    ll "Je-je vais bien! J'en veux plus! Donne-moi plus de fessée."
+    ll "Je-je vais bien! J'en veux plus! Donne-moi plus de fessées."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:826
 translate french b1c08cs08_ll_spanking_12ea3f09:
@@ -1526,7 +1526,7 @@ translate french b1c08cs08_ll_spanking_5b69e72c:
 translate french b1c08cs08_ll_spanking_5d0fce23:
 
     # ll "I-I'm sorry! I can't take it anymore."
-    ll "Je-je suis désolé! Je n'en peux plus."
+    ll "Je-je suis désolée! Je n'en peux plus."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:853
 translate french b1c08cs08_ll_spanking_6c7016e8:
@@ -1574,13 +1574,13 @@ translate french b1c08cs08_ll_spanking_89b25170:
 translate french b1c08cs08_ll_spanking_69c7309e:
 
     # "Yvonne rises from her seat and walks to Lumi, nothing but compassion written on her features."
-    "Yvonne se lève de son siège et se dirige vers Lumi, rien que de la compassion inscrite sur ses traits."
+    "Yvonne se lève de son siège et se dirige vers Lumi, avec rien que de la compassion inscrite sur ses traits."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:874
 translate french b1c08cs08_ll_spanking_c065009c:
 
     # ys "Lumi, you did so well. Your determination was very moving."
-    ys "Lumi, tu as si bien fait. Ta détermination était très émouvante."
+    ys "Lumi, tu as bien fait. Ta détermination était très émouvante."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:875
 translate french b1c08cs08_ll_spanking_5dc2ba63:
@@ -1658,7 +1658,7 @@ translate french b1c08cs08_ll_spanking_57bb33bb:
 translate french b1c08cs08_ll_spanking_ed9e97b3:
 
     # ys "I think you're ready to get that tattoo. You've proven yourself, sweetie. The only other thing to do is to act."
-    ys "Je pense que tu es prêt à te faire tatouer. Tu as fait tes preuves, ma chérie. La seule autre chose à faire est d'agir."
+    ys "Je pense que tu es prête à te faire tatouer. Tu as fait tes preuves, ma chérie. La seule autre chose à faire est d'agir."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:917
 translate french b1c08cs08_ll_spanking_bfad6b91:
@@ -1748,7 +1748,7 @@ translate french b1c08cs08_ll_spanking_3f342e9a:
 translate french b1c08cs08_ll_spanking_c6281b4a:
 
     # ad "My, my. You've certainly had a change of heart, my pet."
-    ad "Oh là là. Tu as certainement changé d'avis, mon animal."
+    ad "Oh là là. Tu as certainement changé d'avis, ma petite."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:953
 translate french b1c08cs08_ll_spanking_ca02e87f:
@@ -1796,7 +1796,7 @@ translate french b1c08cs08_ll_spanking_928f42ab:
 translate french b1c08cs08_ll_spanking_42a1a9db:
 
     # ad "That's it. Tell me how much you want it, my pet."
-    ad "C'est bien. Dis-moi combien tu en veux, mon animal."
+    ad "C'est bien. Dis-moi combien tu en veux, ma petite."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:983
 translate french b1c08cs08_ll_spanking_68e0dfc8:
@@ -1880,7 +1880,7 @@ translate french b1c08cs08_end_899281de:
 translate french b1c08cs08_end_2fd05136:
 
     # "You lock questioning eyes with Delphia, hoping she can convey some answer as to why you're not also advancing, or at least getting some acknowledgement to the part you played."
-    "Tu croises les yeux interrogateurs de Delphia, espérant qu'elle puisse t'apporter une réponse sur la raison pour laquelle tu n'avances pas, ou du moins obtenir une reconnaissance pour la part que tu as jouée."
+    "Tu croises les yeux interrogateurs de Delphia, espérant qu'elle puisse t'apporter une réponse sur la raison pour laquelle tu n'avances pas, ou du moins obtenir une reconnaissance pour la part que tu as joué."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:1094
 translate french b1c08cs08_end_c65f74d5:
@@ -1958,7 +1958,7 @@ translate french b1c08cs08_end_dcfd3f5c:
 translate french b1c08cs08_end_e20cd15a:
 
     # "Lumi sleepily leans into you. You hadn't thought about how this experience may be very exhausting, even if positive.{w} In a way, at least."
-    "Lumi se laisse lourdement contre toi. Tu n'avais pas pensé à quel point cette expérience pouvait être épuisante, même si positive.{w} D'une certaine manière, du moins."
+    "Lumi se laisse lourdement tombée contre toi. Tu n'avais pas pensé à quel point cette expérience pouvait être épuisante, même si positive.{w} D'une certaine manière, du moins."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:1127
 translate french b1c08cs08_end_5780b762:
@@ -1982,25 +1982,29 @@ translate french b1c08cs08_end_7be6483f:
 translate french b1c08cs08_end_5938e9e8:
 
     # mc "Goodnight, Del. I'll be up tomorrow when you go for that talk."
-    mc "Bonne nuit, Del. Je serai réveillée demain quand tu iras pour cette discussion."
+    mc "Bonne nuit, Del. Je serai réveillé demain quand tu iras pour cette discussion."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:1139
 translate french b1c08cs08_end_4b7d39fe:
+
     # dk "I'm sure. Goodnight, [mcname]. See you tomorrow."
     dk "Je suis sûre. Bonne nuit, [mcname]. À demain."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:1142
 translate french b1c08cs08_end_9f218454:
+
     # "As the gathering winds down, and other people start realizing their own exhaustion, the crowd begins to disperse."
     "Alors que la réunion se termine et que les autres commencent à réaliser leur propre fatigue, la foule commence à se disperser."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:1143
 translate french b1c08cs08_end_23a079ff:
+
     # "Lumi's body is warm and soft next to you, though there's a new self-assured relaxation to Lumi's demeanor that tells you she's truly changed from this experience."
     "Le corps de Lumi est chaud et doux contre toi, bien qu'il y ait une nouvelle détente pleine de confiance dans son attitude qui te montre qu'elle a vraiment changé grâce à cette expérience."
 
 # game/code/Book-1/Chapter-8c/s08.rpy:1144
 translate french b1c08cs08_end_e1d845ce:
+
     # "For better, or for worse."
     "Pour le meilleur ou pour le pire."
 
