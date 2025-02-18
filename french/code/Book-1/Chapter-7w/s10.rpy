@@ -14,7 +14,7 @@ translate french b1c07ws10_return_e41e942b:
 translate french b1c07ws10_return_fb79456e:
 
     # mct "Though I'm no closer to making peace with Brigitta..."
-    mct "Bien que je ne sois pas plus proche de faire la paix avec Brigitta..."
+    mct "Même si je ne suis pas près de faire la paix avec Brigitta..."
 
 # game/code/Book-1/Chapter-7w/s10.rpy:45
 translate french b1c07ws10_return_acb6648e:
@@ -86,7 +86,7 @@ translate french b1c07ws10_return_1b4a4ef6:
 translate french b1c07ws10_return_a4f7d47a:
 
     # mct "Isa said that Sam messed up one of her parties, and that the missing girls were a part of the party. I should try to get more info about that."
-    mct "Isa a dit que Sam avait gâché l'une de ses soirées, et que les filles disparues faisaient partie de la soirée. Je devrais essayer d'en savoir plus à ce sujet."
+    mct "Isa a dit que Sam avait gâchée l'une de ses soirées, et que les filles disparues faisaient partie de la soirée. Je devrais essayer d'en savoir plus à ce sujet."
 
 # game/code/Book-1/Chapter-7w/s10.rpy:121
 translate french b1c07ws10_return_b579c226:
