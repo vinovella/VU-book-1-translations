@@ -44,7 +44,7 @@ translate french b1c08ss10_833afe86:
 translate french b1c08ss10_2d421448:
 
     # rd "Let me serve up some drinks! We should celebrate."
-    rd "Laisse-moi servir quelques verres! On devrait fêter ça."
+    rd "Laissez-moi vous servir quelques verres! Nous devrions fêter ça."
 
 # game/code/Book-1/Chapter-8s/s10.rpy:53
 translate french b1c08ss10_960abe3f:
@@ -62,7 +62,7 @@ translate french b1c08ss10_80803c7f:
 translate french b1c08ss10_74884b21:
 
     # mc "It's the only—"
-    mc "C'est le seul—"
+    mc "C'étais le seul—"
 
 # game/code/Book-1/Chapter-8s/s10.rpy:59
 translate french b1c08ss10_ffbbca98:
@@ -188,7 +188,7 @@ translate french b1c08ss10_92a78aba:
 translate french b1c08ss10_78a7250a:
 
     # xv "Morgan was an incredible fighter, as always."
-    xv "Morgan était un combattant incroyable, comme toujours."
+    xv "Morgan était une combattante incroyable, comme toujours."
 
 # game/code/Book-1/Chapter-8s/s10.rpy:123
 translate french b1c08ss10_c8c6dad3:
@@ -206,7 +206,7 @@ translate french b1c08ss10_7c648620:
 translate french b1c08ss10_53c6efce:
 
     # fox "It's thanks to [mcname] that I even knew a fraction of what I was doing."
-    fox "C'est grâce à [mcname] que j'ai même su une fraction de ce que je faisais."
+    fox "C'est grâce à [mcname] que je savais même une fraction de ce que je faisais.."
 
 # game/code/Book-1/Chapter-8s/s10.rpy:131
 translate french b1c08ss10_66ecf9a7:
@@ -266,7 +266,7 @@ translate french b1c08ss10_8232a32d:
 translate french b1c08ss10_045eeab2:
 
     # ass "They're gonna be so pissed we're ruining their beauty sleep."
-    ass "Elles vont être tellement énervées qu'on gâche leur sommeil de beauté."
+    ass "Ils vont être tellement énervés qu'on gâche leur sommeil réparateur."
 
 # game/code/Book-1/Chapter-8s/s10.rpy:158
 translate french b1c08ss10_7c553bbe:
@@ -338,7 +338,7 @@ translate french b1c08ss10_601d38fe:
 translate french b1c08ss10_0cac2de9:
 
     # zp "It is what it is. She's been gone so long...the odds of her coming back, or at least coming back {i}alive{/i} are...extremely low."
-    zp "C'est ce que c'est. Elle est partie depuis si longtemps... les chances qu'elle revienne, ou du moins revienne {i}vivante{/i}, sont... extrêmement faibles."
+    zp "C'est comme ça. Elle est partie depuis si longtemps... les chances qu'elle revienne, ou du moins revienne {i}vivante{/i}, sont... extrêmement faibles."
 
 # game/code/Book-1/Chapter-8s/s10.rpy:193
 translate french b1c08ss10_8d89601a:
@@ -362,7 +362,7 @@ translate french b1c08ss10_ed931196:
 translate french b1c08ss10_43416a28:
 
     # "A conflicted, somber expression falls on Zemfira's features. She hadn't thought this much about her gang."
-    "Une expression conflictuelle et sombre se pose sur les traits de Zemfira. Elle n'avait pas réfléchi autant à son gang."
+    "Une expression conflictuelle et sombre se pose sur les traits de Zemfira. Elle n'avait pas réfléchie autant à son gang."
 
 # game/code/Book-1/Chapter-8s/s10.rpy:203
 translate french b1c08ss10_837a195c:
@@ -434,7 +434,7 @@ translate french b1c08ss10_752c28a7:
 translate french b1c08ss10_75080940:
 
     # zp "It's not always like this. When Leia introduced me to The Syndicate it was different..."
-    zp "Ce n'est pas toujours comme ça. Quand Leia m'a introduite dans The Syndicate, c'était différent..."
+    zp "Ce n'est pas toujours comme ça. Quand Leia m'a introduite dans Le Syndicat, c'était différent..."
 
 # game/code/Book-1/Chapter-8s/s10.rpy:235
 translate french b1c08ss10_7830dc90:
@@ -464,7 +464,7 @@ translate french b1c08ss10_82e50b57:
 translate french b1c08ss10_0a27a506:
 
     # mc "I'm sorry that what I said hurt you. I was just worried, but pushing you like that didn't help anything."
-    mc "Je suis désolé que ce que j'ai dit t'ait blessé. Je m'inquiétais, mais te pousser comme ça n'a rien aidé."
+    mc "Je suis désolé que ce que j'ai dit t'ait blessé. Je m'inquiétais, mais te pousser comme ça n'a pas aidé."
 
 # game/code/Book-1/Chapter-8s/s10.rpy:245
 translate french b1c08ss10_26686a49:
@@ -476,7 +476,7 @@ translate french b1c08ss10_26686a49:
 translate french b1c08ss10_119ea2c8:
 
     # zp "I love how much you care. It's so different from everyone's usual tough and suspicious behaviors."
-    zp "J'adore combien tu tiens à ça. C'est tellement différent du comportement dur et méfiant des autres."
+    zp "J'adore à quel point tu te soucies.. C'est tellement différent du comportement dur et méfiant des autres."
 
 # game/code/Book-1/Chapter-8s/s10.rpy:249
 translate french b1c08ss10_801bdedc:
@@ -500,7 +500,7 @@ translate french b1c08ss10_5294a9e5:
 translate french b1c08ss10_1fd911ea:
 
     # zp "I'm glad you came after me."
-    zp "Je suis content que tu sois venu après moi."
+    zp "Je suis contente que tu sois venu après moi."
 
 # game/code/Book-1/Chapter-8s/s10.rpy:265
 translate french b1c08ss10_a31340dd:
@@ -602,7 +602,7 @@ translate french b1c08ss10_0f6f7be3:
 translate french b1c08ss10_e119df09:
 
     # mc "As you wish."
-    mc "Comme vous le souhaitez."
+    mc "Comme vous le souhaitez madame."
 
 # game/code/Book-1/Chapter-8s/s10.rpy:330
 translate french b1c08ss10_6ffc6750:
@@ -626,7 +626,7 @@ translate french b1c08ss10_a5d3b737:
 translate french b1c08ss10_8cc3a6ba:
 
     # zp "You feel so fucking good. I need more, more more—"
-    zp "Tu te sens tellement bien. J'ai besoin de plus, plus, plus—"
+    zp "Tu es tellement bon. J'ai besoin de plus, plus, plus—"
 
 # game/code/Book-1/Chapter-8s/s10.rpy:354
 translate french b1c08ss10_12a0da13:
@@ -638,7 +638,7 @@ translate french b1c08ss10_12a0da13:
 translate french b1c08ss10_88ef5d28:
 
     # "You adjust your grip so you can fuck her properly while you hold her up, just as she wants."
-    "Tu ajustes ta prise pour pouvoir la baiser correctement pendant que tu la tiens debout, comme elle le veut."
+    "Tu ajustes ta prise pour pouvoir la baiser correctement pendant que tu la tiens contre le mur, comme elle le veut."
 
 # game/code/Book-1/Chapter-8s/s10.rpy:358
 translate french b1c08ss10_b769562b:

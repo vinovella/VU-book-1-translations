@@ -50,8 +50,8 @@ translate french b1c09s12_00f0a3f0:
 # game/code/Book-1/Chapter-9/s12.rpy:103
 translate french b1c09s12_50ecbcd9:
 
-    # mc "Pour toi, je faire une place spéciale."
-    mc "For you, I'll make a special place."
+    # mc "For you, I'll make a special place."
+    mc "Pour toi, je ferai une place spéciale."
 
 # game/code/Book-1/Chapter-9/s12.rpy:106
 translate french b1c09s12_76c93b18:
@@ -93,7 +93,7 @@ translate french b1c09s12_098d8fea:
 translate french b1c09s12_7e96ac8a:
 
     # "You pull her in kind, her body a greater warmth than the crackling fire; you show her your own need, reveling in the tangled flame of shared passion."
-    "Tu la ramènes près de toi, son corps offrant plus de chaleur que le feu crépitant ; tu lui montres ton propre besoin, te délectant de la flamme entremêlée de la passion partagée."
+    "Tu la ramènes près de toi, son corps offrant plus de chaleur que le feu crépitant, tu lui montres ton propre besoin, te délectant de la flamme entremêlée de la passion partagée."
 
 # game/code/Book-1/Chapter-9/s12.rpy:130
 translate french b1c09s12_d2f167b5:
@@ -111,7 +111,7 @@ translate french b1c09s12_0cd521f9:
 translate french b1c09s12_7ea0b68c:
 
     # ffl "...I missed you, y'know."
-    ffl "...Tu m'as manqué, tu sais."
+    ffl "...Tu m'as manquée, tu sais."
 
 # game/code/Book-1/Chapter-9/s12.rpy:138
 translate french b1c09s12_84f6a5a9:
@@ -129,7 +129,7 @@ translate french b1c09s12_b2b9e19d:
 translate french b1c09s12_da2c2980:
 
     # ffl "After all the...stuff. With The Wasps and the fight ring and whatnot."
-    ffl "Après tout ce... bordel. Avec les Wasps, le cercle de combat et tout ça."
+    ffl "Après tout ce... bordel. Avec les Guêpes, le cercle de combat et tout ça."
 
 # game/code/Book-1/Chapter-9/s12.rpy:147
 translate french b1c09s12_263efa71:
@@ -201,7 +201,7 @@ translate french b1c09s12_d25eda8f:
 translate french b1c09s12_20781694:
 
     # ffl "You could've helped me out with the network backend stuff."
-    ffl "Tu aurais pu m'aider avec les trucs de backend du réseau."
+    ffl "Tu aurais pu m'aider avec les trucs de back-end du réseau."
 
 # game/code/Book-1/Chapter-9/s12.rpy:171
 translate french b1c09s12_9bc642a8:
@@ -249,7 +249,7 @@ translate french b1c09s12_224f840a:
 translate french b1c09s12_ba87cba0:
 
     # mc "Also, you saw how I made it through Morgan; she's the toughest fighter I know."
-    mc "Aussi, tu as vu comment j'ai survécu face à Morgan ; c'est la combattante la plus coriace que je connaisse."
+    mc "Aussi, tu as vu comment j'ai survécu face à Morgan, c'est la combattante la plus coriace que je connaisse."
 
 # game/code/Book-1/Chapter-9/s12.rpy:192
 translate french b1c09s12_8a58c479:
@@ -273,7 +273,7 @@ translate french b1c09s12_9c6f5036:
 translate french b1c09s12_3b2023af:
 
     # mc "*With a silly French accent* Oh, mon cher, you wound me with such words!"
-    mc "*Avec un accent français ridicule* Oh, mon cher, tu me blesses avec de tels mots!"
+    mc "*Avec un accent français ridicule* Oh, ma chere, tu me blesses avec de tels mots!"
 
 # game/code/Book-1/Chapter-9/s12.rpy:201
 translate french b1c09s12_299c43e0:
@@ -453,7 +453,7 @@ translate french b1c09s12_sex_2d8acf52:
 translate french b1c09s12_sex_df4fd932:
 
     # ffl "I like it when you call me names like good girl..."
-    ffl "J'aime quand tu m'appelles des choses comme 'bonne fille'..."
+    ffl "J'aime quand tu m'appelles 'bonne fille'..."
 
 # game/code/Book-1/Chapter-9/s12.rpy:313
 translate french b1c09s12_sex_441ccc96:
@@ -477,7 +477,7 @@ translate french b1c09s12_sex_7baecf90:
 translate french b1c09s12_sex_a728b290:
 
     # ffl "*Smiles shyly* S-sorry. I didn't mean to make so much noise."
-    ffl "*Sourit timidement* S-désolé. Je ne voulais pas faire autant de bruit."
+    ffl "*Sourit timidement* D-désolée. Je ne voulais pas faire autant de bruit."
 
 # game/code/Book-1/Chapter-9/s12.rpy:321
 translate french b1c09s12_sex_95ce1b7e:
@@ -489,7 +489,7 @@ translate french b1c09s12_sex_95ce1b7e:
 translate french b1c09s12_sex_e57a666f:
 
     # ffl "I like being praised while you call me dirty things..."
-    ffl "J'aime être félicité pendant que tu me traites de choses sales..."
+    ffl "J'aime être félicitée pendant que tu me traites de choses sales..."
 
 # game/code/Book-1/Chapter-9/s12.rpy:326
 translate french b1c09s12_sex_a018dcdc:
@@ -513,13 +513,13 @@ translate french b1c09s12_sex_1c271f0f:
 translate french b1c09s12_sex_345fda2e:
 
     # "Fleur's eyes roll back in pleasure, but she bites her lip to control her voice for you."
-    "Les yeux de Fleur se révulsent de plaisir, mais elle se mord la lèvre pour contrôler sa voix à ta place."
+    "Les yeux de Fleur se révulsent de plaisir, mais elle se mord la lèvre pour contrôler sa voix pour toi."
 
 # game/code/Book-1/Chapter-9/s12.rpy:347
 translate french b1c09s12_sex_385f826b:
 
     # mc "You're doing so well, Fleur."
-    mc "Tu vas si bien, Fleur."
+    mc "Tu es si bonne, Fleur."
 
 # game/code/Book-1/Chapter-9/s12.rpy:352
 translate french b1c09s12_sex_7c5fe702:
@@ -597,7 +597,7 @@ translate french b1c09s12_sex_6f15a86d:
 translate french b1c09s12_sex_7a89ce36:
 
     # ffl "*Blushes* So-sorry, I couldn't help it."
-    ffl "*Rugit* Alors désolé, je n'ai pas pu m'en empêcher."
+    ffl "*Rugit* Alors désolée, je n'ai pas pu m'en empêcher."
 
 # game/code/Book-1/Chapter-9/s12.rpy:418
 translate french b1c09s12_sex_8a309c9d:
@@ -621,19 +621,19 @@ translate french b1c09s12_sex_34996439:
 translate french b1c09s12_sex_e7f4d769:
 
     # mc "Don't try to flip the blame, sweetheart."
-    mc "N'essaye pas de rejeter la faute, chérie."
+    mc "N'essaye pas de rejeter la faute sur moi, chérie."
 
 # game/code/Book-1/Chapter-9/s12.rpy:428
 translate french b1c09s12_sex_b34a43ac:
 
     # mc "You need to be punished if you're going to have such an attitude."
-    mc "Vous devez être puni si vous voulez avoir une telle attitude."
+    mc "Tu dois être punie si tu comptes avoir une telle attitude."
 
 # game/code/Book-1/Chapter-9/s12.rpy:432
 translate french b1c09s12_sex_581ea1b6:
 
     # "You bring your hand down firmly on Fleur's bare ass. She gasps and squirms, more in surprise than pain."
-    "Tu poses fermement ta main sur les fesses nues de Fleur. Elle halète et se tortille, plus de surprise que de douleur."
+    "Tu claques fermement ta main sur les fesses nues de Fleur. Elle halète et se tortille, plus de surprise que de douleur."
 
 # game/code/Book-1/Chapter-9/s12.rpy:448
 translate french b1c09s12_sex_91fd074f:
@@ -651,7 +651,7 @@ translate french b1c09s12_sex_3d9b5282:
 translate french b1c09s12_sex_bed19d0f:
 
     # ffl "*Moans out* Yes! I was a brat on purpose."
-    ffl "*Gémi* Oui! J'étais un gamin exprès."
+    ffl "*Gémi* Oui! J'étais une vilaine fille exprès."
 
 # game/code/Book-1/Chapter-9/s12.rpy:458
 translate french b1c09s12_sex_08cbca0e:
@@ -675,13 +675,13 @@ translate french b1c09s12_sex_bb1c3703:
 translate french b1c09s12_sex_0a94c679:
 
     # mc "You're going to have to use your words if you want to be praised, sweetheart."
-    mc "Tu vas devoir utiliser tes mots si tu veux être félicité, ma chérie."
+    mc "Tu vas devoir utiliser tes mots si tu veux être félicitée, ma chérie."
 
 # game/code/Book-1/Chapter-9/s12.rpy:469
 translate french b1c09s12_sex_805e7559:
 
     # ffl "Be rough with me. Praise me for being good."
-    ffl "Soyez dur avec moi. Félicitez-moi d'être bon."
+    ffl "Sois dur avec moi. Félicite-moi d'être une bonne fille."
 
 # game/code/Book-1/Chapter-9/s12.rpy:471
 translate french b1c09s12_sex_2b4de531:
@@ -699,7 +699,7 @@ translate french b1c09s12_sex_fd65fa44:
 translate french b1c09s12_sex_35a4286c:
 
     # "You oblige, delivering a flurry of open-handed slaps that leave your imprints on her quivering cheeks."
-    "Vous obligez, en délivrant une rafale de gifles à mains ouvertes qui laissent vos empreintes sur ses joues tremblantes."
+    "Vous obligez, en délivrant une rafale de gifles à mains ouvertes qui laissent vos empreintes sur ses fesses tremblantes."
 
 # game/code/Book-1/Chapter-9/s12.rpy:482
 translate french b1c09s12_sex_1d636cfa:
@@ -723,7 +723,7 @@ translate french b1c09s12_sex_01dc60bf:
 translate french b1c09s12_sex_f5568d5c:
 
     # ffl "Mmph, yes! Please, more!"
-    ffl "Mmph, oui! S'il vous plaît, plus!"
+    ffl "Mmph, oui! S'il te plaît, plus!"
 
 # game/code/Book-1/Chapter-9/s12.rpy:491
 translate french b1c09s12_sex_3d55b5b1:
@@ -735,19 +735,19 @@ translate french b1c09s12_sex_3d55b5b1:
 translate french b1c09s12_sex_ba3c1666:
 
     # ffl "Mmhm, *moans* just yours."
-    ffl "Mmhm, *gémit* juste à toi."
+    ffl "Mmhm, *gémit* pour à toi."
 
 # game/code/Book-1/Chapter-9/s12.rpy:499
 translate french b1c09s12_sex_6f86ff58:
 
     # mc "Well, in that case, I think you can take it a little harder."
-    mc "Eh bien, dans ce cas, je pense que tu peux y aller un peu plus fort."
+    mc "Eh bien, dans ce cas, je pense que je peux y aller un peu plus fort."
 
 # game/code/Book-1/Chapter-9/s12.rpy:504
 translate french b1c09s12_sex_de1ccd8a:
 
     # mc "I want you to stay bent over and push your ass out for me, okay?"
-    mc "Je veux que tu restes penché et que tu me pousses le cul, d'accord?"
+    mc "Je veux que tu restes penchée et que tu pousses ton cul, d'accord?"
 
 # game/code/Book-1/Chapter-9/s12.rpy:505
 translate french b1c09s12_sex_7b6eb2df:
@@ -765,13 +765,13 @@ translate french b1c09s12_sex_c9588c21_1:
 translate french b1c09s12_sex_8ef8602a:
 
     # mc "I'm going to make sure you're marked by me inside and out before I'm done with you."
-    mc "Je vais m'assurer que tu es marqué par moi à l'intérieur comme à l'extérieur avant d'en finir avec toi."
+    mc "Je vais m'assurer que tu es marquée par moi à l'intérieur comme à l'extérieur avant d'en finir avec toi."
 
 # game/code/Book-1/Chapter-9/s12.rpy:522
 translate french b1c09s12_sex_73a7b170:
 
     # mc "Marked as my little slut; remind everyone that you belong just to me."
-    mc "Marquée comme ma petite salope ; rappelle à tout le monde que tu n'appartiens qu'à moi."
+    mc "Marquée comme ma petite salope, rappelle à tout le monde que tu n'appartiens qu'à moi."
 
 # game/code/Book-1/Chapter-9/s12.rpy:523
 translate french b1c09s12_sex_be7c80ba:
@@ -795,7 +795,7 @@ translate french b1c09s12_sex_6f5192e3:
 translate french b1c09s12_sex_34768b90:
 
     # "She whimpers and moans with each strike, but you can feel her wetness soaking through your shorts as she grinds her dripping pussy against your hardening cock."
-    "Elle gémit et gémit à chaque coup, mais vous pouvez sentir son humidité pénétrer à travers votre short alors qu'elle écrase sa chatte dégoulinante contre votre bite qui durcit."
+    "Elle gémit et gémit à chaque coup, mais vous pouvez sentir son humidité à travers votre short alors qu'elle écrase sa chatte dégoulinante contre votre bite qui durcit."
 
 # game/code/Book-1/Chapter-9/s12.rpy:543
 translate french b1c09s12_sex_2c83a815:
@@ -807,7 +807,7 @@ translate french b1c09s12_sex_2c83a815:
 translate french b1c09s12_sex_0b74d074:
 
     # mc "Is that what you want, you needy little slut?"
-    mc "C'est ce que tu veux, petite salope nécessiteuse?"
+    mc "C'est ce que tu veux, petite salope?"
 
 # game/code/Book-1/Chapter-9/s12.rpy:551
 translate french b1c09s12_sex_247c6cc4:
@@ -831,7 +831,7 @@ translate french b1c09s12_sex_6fb2e29d:
 translate french b1c09s12_sex_15f1a70a:
 
     # ffl "Please fill me up, [mcname]."
-    ffl "S'il vous plaît, remplissez-moi, [mcname]."
+    ffl "S'il te plaît, remplis-moi, [mcname]."
 
 # game/code/Book-1/Chapter-9/s12.rpy:571
 translate french b1c09s12_sex_f9c9ec0d:
@@ -849,7 +849,7 @@ translate french b1c09s12_sex_19493d59:
 translate french b1c09s12_sex_5dd260f9:
 
     # "Fleur's heart races as your hardness pushes against her aching core, her body quivering and tightening in need."
-    "Le cœur de Fleur s'emballe alors que votre dureté pousse contre son cœur douloureux, son corps frémit et se resserre dans le besoin."
+    "Le cœur de Fleur s'emballe alors que votre dureté pousse contre son cul douloureux, son corps frémit et se resserre dans le besoin."
 
 # game/code/Book-1/Chapter-9/s12.rpy:584
 translate french b1c09s12_sex_7039c8c6:
@@ -903,7 +903,7 @@ translate french b1c09s12_sex_8097154a:
 translate french b1c09s12_sex_0698dbf1:
 
     # ffl "I-I'm cumming! I'm cumming!"
-    ffl "Je-je jouis! Je jouis!"
+    ffl "Je-je jouie! Je jouie!"
 
 # game/code/Book-1/Chapter-9/s12.rpy:633
 translate french b1c09s12_sex_6774c669:
@@ -939,7 +939,7 @@ translate french b1c09s12_sex_161f86a4:
 translate french b1c09s12_sex_0db00b52:
 
     # mc "You did so well, my little flower blossom."
-    mc "Tu as si bien fait, ma petite fleur."
+    mc "Tu étais parfaite, ma petite fleur."
 
 # game/code/Book-1/Chapter-9/s12.rpy:659
 translate french b1c09s12_sex_273fa2d0:
@@ -969,13 +969,13 @@ translate french b1c09s12_sex_f2b82015:
 translate french b1c09s12_sex_end_95c7633a:
 
     # mc "Are you okay?"
-    mc "Êtes-vous d'accord?"
+    mc "Est-ce-que ça va?"
 
 # game/code/Book-1/Chapter-9/s12.rpy:712
 translate french b1c09s12_sex_end_ecc7c66d:
 
     # ffl "Mmhm. *Content sigh* ...I've never done something like that before."
-    ffl "Mmhm. *Contenu soupir*... Je n'ai jamais fait quelque chose comme ça auparavant."
+    ffl "Mmhm. *Soupir contenu*... Je n'ai jamais fait quelque chose comme ça auparavant."
 
 # game/code/Book-1/Chapter-9/s12.rpy:713
 translate french b1c09s12_sex_end_844f7090:

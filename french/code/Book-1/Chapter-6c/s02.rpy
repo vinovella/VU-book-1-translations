@@ -301,253 +301,253 @@ translate french b1c06cs02_7962ef93:
 # game/code/Book-1/Chapter-6c/s02.rpy:162
 translate french b1c06cs02_e885e877:
 
-    dk "Is it truth?"
+    # dk "Is it truth?"
     dk "Est-ce la vérité?"
 
 # game/code/Book-1/Chapter-6c/s02.rpy:164
 translate french b1c06cs02_d2ba78d3:
 
-    dk "We'll find the answers either way, but it won't be easy."
+    # dk "We'll find the answers either way, but it won't be easy."
     dk "Nous trouverons les réponses de toute façon, mais ce ne sera pas facile."
 
 # game/code/Book-1/Chapter-6c/s02.rpy:167
 translate french b1c06cs02_04febaac:
 
-    mc "No kidding."
+    # mc "No kidding."
     mc "Sans blague."
 
 # game/code/Book-1/Chapter-6c/s02.rpy:168
 translate french b1c06cs02_78e721b4:
 
-    mct "These questions are really designed to get in someone's head."
+    # mct "These questions are really designed to get in someone's head."
     mct "Ces questions sont vraiment conçues pour entrer dans la tête de quelqu'un."
 
 # game/code/Book-1/Chapter-6c/s02.rpy:171
 translate french b1c06cs02_ec9d24f0:
 
-    dk "Alright, moving on."
+    # dk "Alright, moving on."
     dk "D'accord, passons à autre chose."
 
 # game/code/Book-1/Chapter-6c/s02.rpy:173
 translate french b1c06cs02_4f485e0c:
 
-    mct "Christ, I feel like we've been here for hours already."
+    # mct "Christ, I feel like we've been here for hours already."
     mct "Christ, j'ai l'impression qu'on est ici depuis des heures."
 
 # game/code/Book-1/Chapter-6c/s02.rpy:176
 translate french b1c06cs02_973524df:
 
-    dk "Read the first line in your workbook out loud, please."
+    # dk "Read the first line in your workbook out loud, please."
     dk "Lisez la première ligne de votre cahier à voix haute, s'il vous plaît."
 
 # game/code/Book-1/Chapter-6c/s02.rpy:180
 translate french b1c06cs02_3f8b65aa:
 
-    mc "The first line is: Talk about a part of your body."
+    # mc "The first line is: Talk about a part of your body."
     mc "La première ligne est : Parlez d'une partie de votre corps."
 
 # game/code/Book-1/Chapter-6c/s02.rpy:183
 translate french b1c06cs02_e37c5550:
 
-    mc "What's this supposed to teach us, O wise one?"
+    # mc "What's this supposed to teach us, O wise one?"
     mc "Qu'est-ce que c'est censé nous apprendre, ô sage?"
 
 # game/code/Book-1/Chapter-6c/s02.rpy:186
 translate french b1c06cs02_a7fdde19:
 
-    dk "It's supposed to teach vulnerability and acceptance."
+    # dk "It's supposed to teach vulnerability and acceptance."
     dk "C'est censé enseigner la vulnérabilité et l'acceptation."
 
 # game/code/Book-1/Chapter-6c/s02.rpy:188
 translate french b1c06cs02_d706a0e5:
 
-    dk "Any takers?"
+    # dk "Any takers?"
     dk "Des volontaires?"
 
 # game/code/Book-1/Chapter-6c/s02.rpy:191
 translate french b1c06cs02_75f72183:
 
-    mc "I'm not really sure what to say."
+    # mc "I'm not really sure what to say."
     mc "Je ne suis pas vraiment sûr de quoi dire."
 
 # game/code/Book-1/Chapter-6c/s02.rpy:194
 translate french b1c06cs02_e533ef7a:
 
-    nv "I'm not comfortable enough yet."
+    # nv "I'm not comfortable enough yet."
     nv "Je ne suis pas encore assez à l'aise."
 
 # game/code/Book-1/Chapter-6c/s02.rpy:197
 translate french b1c06cs02_e1e54188:
 
-    dk "Okay, I'll go first this time."
+    # dk "Okay, I'll go first this time."
     dk "D'accord, je vais commencer cette fois."
 
 # game/code/Book-1/Chapter-6c/s02.rpy:203
 translate french b1c06cs02_04cd19f1:
 
-    mc "You don't have to do that if you don't want to."
+    # mc "You don't have to do that if you don't want to."
     mc "Vous n'êtes pas obligée de faire ça si vous ne voulez pas."
 
 # game/code/Book-1/Chapter-6c/s02.rpy:211
 translate french b1c06cs02_001a7899:
 
-    dk "I have nothing to hide. I'm completely comfortable with you two."
+    # dk "I have nothing to hide. I'm completely comfortable with you two."
     dk "Je n'ai rien à cacher. Je suis complètement à l'aise avec vous deux."
 
 # game/code/Book-1/Chapter-6c/s02.rpy:214
 translate french b1c06cs02_9b096845:
 
-    mct "They're really not kidding about loyalty and trust, here..."
+    # mct "They're really not kidding about loyalty and trust, here..."
     mct "Ils ne plaisantent vraiment pas sur la loyauté et la confiance, ici..."
 
 # game/code/Book-1/Chapter-6c/s02.rpy:215
 translate french b1c06cs02_5919c449:
 
-    mct "Her tattoo...it's similar to the one on the workbook."
+    # mct "Her tattoo...it's similar to the one on the workbook."
     mct "Son tatouage... il est similaire à celui du cahier."
 
 # game/code/Book-1/Chapter-6c/s02.rpy:216
 translate french b1c06cs02_84100cd3:
 
-    mct "They've got to be connected."
+    # mct "They've got to be connected."
     mct "Ils doivent être connectés."
 
 # game/code/Book-1/Chapter-6c/s02.rpy:221
 translate french b1c06cs02_f832dfa9:
 
-    mc "Your tattoo is similar to the one on the workbook. Is it special to you?"
+    # mc "Your tattoo is similar to the one on the workbook. Is it special to you?"
     mc "Ton tatouage est similaire à celui du cahier. Est-ce qu'il a une signification spéciale pour toi?"
 
 # game/code/Book-1/Chapter-6c/s02.rpy:224
 translate french b1c06cs02_6216d3a9:
 
-    dk "Yes, it's very important to me.{w} It's a tattoo dedicated to my patron goddess."
+    # dk "Yes, it's very important to me.{w} It's a tattoo dedicated to my patron goddess."
     dk "Oui, il est très important pour moi.{w} C'est un tatouage dédié à ma déesse tutélaire."
 
 # game/code/Book-1/Chapter-6c/s02.rpy:225
 translate french b1c06cs02_7298c684:
 
-    mct "A goddess? Does that mean the symbol on the workbook relates to Delphia's goddess? Does the whole group worship this goddess?"
+    # mct "A goddess? Does that mean the symbol on the workbook relates to Delphia's goddess? Does the whole group worship this goddess?"
     mct "Une déesse? Cela signifie-t-il que le symbole sur le cahier est lié à la déesse de Delphia? Est-ce que tout le groupe vénère cette déesse?"
 
 # game/code/Book-1/Chapter-6c/s02.rpy:226
 translate french b1c06cs02_3170202b:
 
-    mct "I guess the symbols are slightly different... But that can't be a coincidence, all the same."
+    # mct "I guess the symbols are slightly different... But that can't be a coincidence, all the same."
     mct "Je suppose que les symboles sont légèrement différents... Mais ça ne peut pas être une coïncidence, tout de même."
 
 # game/code/Book-1/Chapter-6c/s02.rpy:229
 translate french b1c06cs02_b6f0d2eb:
 
-    dk "I think I've said before, but Nia did this tattoo for me. I'm very grateful for her amazing work."
+    # dk "I think I've said before, but Nia did this tattoo for me. I'm very grateful for her amazing work."
     dk "Je pense que je l'ai déjà dit, mais Nia a fait ce tatouage pour moi. Je suis très reconnaissante pour son travail incroyable."
 
 # game/code/Book-1/Chapter-6c/s02.rpy:232
 translate french b1c06cs02_25cc6272:
 
-    nv "It's one of my favorite works of art I've ever done. I'm glad you love it so much, Delphia."
+    # nv "It's one of my favorite works of art I've ever done. I'm glad you love it so much, Delphia."
     nv "C'est l'une de mes œuvres préférées que j'ai réalisées. Je suis contente que tu l'aimes autant, Delphia."
 
 # game/code/Book-1/Chapter-6c/s02.rpy:236
 translate french b1c06cs02_33096fe4:
 
-    dk "Alright, enough distractions. Write your answers in your workbooks and we'll move on to the next thing."
+    # dk "Alright, enough distractions. Write your answers in your workbooks and we'll move on to the next thing."
     dk "Bon, assez de distractions. Écrivez vos réponses dans vos cahiers et nous passerons à la suite."
 
 # game/code/Book-1/Chapter-6c/s02.rpy:249
 translate french b1c06cs02_55974826:
 
-    nv "Well, I gotta get going. Homework isn't going to do itself."
+    # nv "Well, I gotta get going. Homework isn't going to do itself."
     nv "Bon, je dois y aller. Les devoirs ne vont pas se faire tout seuls."
 
 # game/code/Book-1/Chapter-6c/s02.rpy:252
 translate french b1c06cs02_bff42c4f:
 
-    mc "Tell me about it."
+    # mc "Tell me about it."
     mc "Tu m'en diras tant."
 
 # game/code/Book-1/Chapter-6c/s02.rpy:255
 translate french b1c06cs02_940c50e8:
 
-    dk "Fine by me. I have to get to my Greek studies class. We're doing a pottery project today."
+    # dk "Fine by me. I have to get to my Greek studies class. We're doing a pottery project today."
     dk "Ça me va. Je dois aller à mon cours d'études grecques. Nous faisons un projet de poterie aujourd'hui."
 
 # game/code/Book-1/Chapter-6c/s02.rpy:258
 translate french b1c06cs02_f096ebaf:
 
-    nv "Ooh, sounds interesting. Have fun! I'll see ya later."
+    # nv "Ooh, sounds interesting. Have fun! I'll see ya later."
     nv "Ooh, ça a l'air intéressant. Amuse-toi bien! À plus tard."
 
 # game/code/Book-1/Chapter-6c/s02.rpy:261
 translate french b1c06cs02_f5a253a8:
 
-    dk "Bye Nia."
+    # dk "Bye Nia."
     dk "Au revoir, Nia."
 
 # game/code/Book-1/Chapter-6c/s02.rpy:264
 translate french b1c06cs02_da454c36:
 
-    mc "Catch ya later Nia."
+    # mc "Catch ya later Nia."
     mc "À plus, Nia."
 
 # game/code/Book-1/Chapter-6c/s02.rpy:267
 translate french b1c06cs02_35844a63:
 
-    mct "Delphia's going to be an important part of investigating this group, considering she's my Guide."
+    # mct "Delphia's going to be an important part of investigating this group, considering she's my Guide."
     mct "Delphia va être un élément important de l'enquête sur ce groupe, étant donné qu'elle est mon Guide."
 
 # game/code/Book-1/Chapter-6c/s02.rpy:268
 translate french b1c06cs02_93e5d9ca:
 
-    mct "I should get to know her better."
+   # mct "I should get to know her better."
     mct "Je devrais mieux la connaître."
 
 # game/code/Book-1/Chapter-6c/s02.rpy:271
 translate french b1c06cs02_37b8bc21:
 
-    mc "Greek pottery, huh? Mind if I tag along?"
+    # mc "Greek pottery, huh? Mind if I tag along?"
     mc "La poterie grecque, hein? Ça te dérange si je viens avec toi?"
 
 # game/code/Book-1/Chapter-6c/s02.rpy:274
 translate french b1c06cs02_429c5f69:
 
-    dk "Don't you have other classes?"
+    # dk "Don't you have other classes?"
     dk "Tu n'as pas d'autres cours?"
 
 # game/code/Book-1/Chapter-6c/s02.rpy:277
 translate french b1c06cs02_b00282ee:
 
-    mc "Not at the moment."
+   # mc "Not at the moment."
     mc "Pas pour le moment."
 
 # game/code/Book-1/Chapter-6c/s02.rpy:280
 translate french b1c06cs02_8229228f:
 
-    dk "Well, I'm flattered."
+    # dk "Well, I'm flattered."
     dk "Eh bien, je suis flattée."
 
 # game/code/Book-1/Chapter-6c/s02.rpy:283
 translate french b1c06cs02_c4ff6a4f:
 
-    mc "Like you need more flattering."
+    # mc "Like you need more flattering."
     mc "Comme si tu avais besoin d'être plus flattée."
 
 # game/code/Book-1/Chapter-6c/s02.rpy:286
 translate french b1c06cs02_1ff52d75:
 
-    dk "You're right. I have the ego of a god."
+    # dk "You're right. I have the ego of a god."
     dk "Tu as raison. J'ai l'ego d'un dieu."
 
 # game/code/Book-1/Chapter-6c/s02.rpy:287
 translate french b1c06cs02_0830b83f:
 
-    dk "Regardless, I need a partner for my class anyway."
+    # dk "Regardless, I need a partner for my class anyway."
     dk "De toute façon, j'ai besoin d'un partenaire pour mon cours."
 
 # game/code/Book-1/Chapter-6c/s02.rpy:290
 translate french b1c06cs02_d68b747e:
 
-    dk "And you'll do just fine."
+    # dk "And you'll do just fine."
     dk "Et tu feras l'affaire."
 
 translate french strings:

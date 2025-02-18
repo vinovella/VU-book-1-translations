@@ -50,7 +50,7 @@ translate french b1c07cs01_8bada3ff:
 translate french b1c07cs01_fdb6492a:
 
     # mc "A shame, indeed."
-    mc "C'est dommage, en effet."
+    mc "Ce serai dommage, en effet."
 
 # game/code/Book-1/Chapter-7c/s01.rpy:56
 translate french b1c07cs01_ab2f6d46:
@@ -116,13 +116,13 @@ translate french b1c07cs01_b5acaff2:
 translate french b1c07cs01_7bb8c326:
 
     # ad "Ladies and gentlemen! Today, I have a {i}very{/i} special guest!"
-    ad "Mesdames et messieurs! Aujourd'hui, j'ai un {i}très{/i} invité spécial!"
+    ad "Mesdames et messieurs! Aujourd'hui, j'ai un {i}très{/i} spécial invité!"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:96
 translate french b1c07cs01_f450d0fa:
 
     # ad "She is from an idyllic little community. It's a remote location surrounded by nature where more of our senior members reside."
-    ad "Elle vient d'une petite communauté idyllique. C'est un endroit isolé entouré par la nature où vivent davantage de nos membres seniors."
+    ad "Elle vient d'une petite communauté idyllique. C'est un endroit isolé entouré par la nature où vivent davantage nos membres seniors."
 
 # game/code/Book-1/Chapter-7c/s01.rpy:99
 translate french b1c07cs01_4ee4a8a0:
@@ -140,7 +140,7 @@ translate french b1c07cs01_05b462b9:
 translate french b1c07cs01_287875cc:
 
     # mct "She must be eager for her announcement. She barely gave any time or attention to that kiss."
-    mct "Elle doit être impatiente pour son annonce. Elle n'a guère prêté attention à ce baiser."
+    mct "Elle doit être impatiente pour son annonce. Elle n'a guère prêtée attention à ce baiser."
 
 # game/code/Book-1/Chapter-7c/s01.rpy:113
 translate french b1c07cs01_6c590526:
@@ -380,7 +380,7 @@ translate french b1c07cs01_cdd2ec08:
 translate french b1c07cs01_1be98bcb:
 
     # ih "Correct."
-    ih "Correct."
+    ih "C'est exacte."
 
 # game/code/Book-1/Chapter-7c/s01.rpy:261
 translate french b1c07cs01_22071fa1:
@@ -416,7 +416,7 @@ translate french b1c07cs01_c2ea8e9e:
 translate french b1c07cs01_b061ef77:
 
     # "Andre clears his throat."
-    "Andre s'éclaircit la gorge."
+    "Andre se racle la gorge."
 
 # game/code/Book-1/Chapter-7c/s01.rpy:279
 translate french b1c07cs01_04155cd8:
@@ -638,13 +638,13 @@ translate french b1c07cs01_f5b4728b:
 translate french b1c07cs01_6e703677:
 
     # "Girl" "Poor woman. He's like a cat in heat rubbing up on her like that. Christ."
-    "Girl" "Pauvre femme. Il est comme un chat en chaleur qui se frotte contre elle comme ça. Putain."
+    "Girl" "Pauvre femme. Putain il est comme un chat en chaleur qui se frotte contre elle."
 
 # game/code/Book-1/Chapter-7c/s01.rpy:391
 translate french b1c07cs01_d9953768:
 
     # ch "And he always has his fuckin' tits out. Like button up your shirt, slut! Damn."
-    ch "Et il a toujours ses putains de seins à l'air. Bordel, ferme ta chemise, salope! Merde."
+    ch "Et tu as toujours tes putains de seins à l'air. Bordel, ferme ta chemise, salope! Merde."
 
 # game/code/Book-1/Chapter-7c/s01.rpy:394
 translate french b1c07cs01_ee5c923f:
@@ -680,13 +680,13 @@ translate french b1c07cs01_e0d25d86:
 translate french b1c07cs01_a4fc93a8:
 
     # dk "Miss me?"
-    dk "Tu m'as manqué?"
+    dk "Je t'ai manquée?"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:416
 translate french b1c07cs01_3b4f8e0e:
 
     # mc "Like you wouldn't believe."
-    mc "Comme tu ne le croirais pas."
+    mc "Plus que tu ne pourrai le croire."
 
 # game/code/Book-1/Chapter-7c/s01.rpy:419
 translate french b1c07cs01_3c9f007a:
@@ -698,7 +698,7 @@ translate french b1c07cs01_3c9f007a:
 translate french b1c07cs01_bd1149f8:
 
     # dk "Nah, not really. Just Guide stuff."
-    dk "Non, pas vraiment. Juste des trucs liés au Guide."
+    dk "Non, pas vraiment. Juste des trucs liés aux Guides."
 
 # game/code/Book-1/Chapter-7c/s01.rpy:425
 translate french b1c07cs01_ce6483d9:
@@ -710,7 +710,7 @@ translate french b1c07cs01_ce6483d9:
 translate french b1c07cs01_1320f216:
 
     # dk "Absolutely! The community will have plenty to share with everyone. We'd never let anyone go without needs."
-    dk "Absolument! La communauté aura suffisamment à partager avec tout le monde. On ne laisserait jamais quelqu'un sans rien."
+    dk "Absolument! La communauté aura suffisamment à partager avec tout le monde. On ne laissera jamais quelqu'un sans rien."
 
 # game/code/Book-1/Chapter-7c/s01.rpy:431
 translate french b1c07cs01_da5b627e:
@@ -728,7 +728,7 @@ translate french b1c07cs01_b265e42e:
 translate french b1c07cs01_6011910e:
 
     # mct "They're gone? Where'd they go?"
-    mct "Ils sont partis? Où sont-ils allés?"
+    mct "Ils sont partis? Maus où sont-ils allés?"
 
 # game/code/Book-1/Chapter-7c/s01.rpy:444
 translate french b1c07cs01_18dd2669:
@@ -776,13 +776,13 @@ translate french b1c07cs01_e8d9e285:
 translate french b1c07cs01_16b8d4fb:
 
     # mc "Yeah, I guess a bit. I mean, I'm excited too."
-    mc "Ouais, je suppose un peu. Enfin, je suis aussi excité."
+    mc "Ouais, un peu je pense mais, je suis aussi excité."
 
 # game/code/Book-1/Chapter-7c/s01.rpy:462
 translate french b1c07cs01_f27f3f98:
 
     # mc "But trips are always exciting as they are nerve-wracking for me."
-    mc "Mais les voyages sont toujours excitants tout autant qu'angoissants pour moi."
+    mc "Mais les voyages sont toujours aussi excitants qu'angoissants pour moi."
 
 # game/code/Book-1/Chapter-7c/s01.rpy:465
 translate french b1c07cs01_e1a84db0:
@@ -800,7 +800,7 @@ translate french b1c07cs01_0817892e:
 translate french b1c07cs01_7d57125d:
 
     # ll "Well, I should get going. I've got classes. I'm glad I got to chat with you all, though."
-    ll "Eh bien, je devrais y aller. J'ai des cours. Je suis contente d'avoir pu discuter avec vous tous, néanmoins."
+    ll "Eh bien, je devrais y aller. J'ai des cours. Je suis néanmoins contente d'avoir pu discuter avec vous tous."
 
 # game/code/Book-1/Chapter-7c/s01.rpy:474
 translate french b1c07cs01_688fb789:
@@ -842,7 +842,7 @@ translate french b1c07cs01_187d7c09:
 translate french b1c07cs01_5e959c50:
 
     # dk "Delightful. I'll see you two later, then."
-    dk "Délicieux. Je vous verrai plus tard, alors."
+    dk "Parfait. Je vous verrai plus tard, alors."
 
 # game/code/Book-1/Chapter-7c/s01.rpy:496
 translate french b1c07cs01_00db7c6b:

@@ -38,7 +38,7 @@ translate french b1c07cs11_return_c7457887:
 translate french b1c07cs11_return_7e61befc:
 
     # mct "I've confirmed that the cult Sally was a part of is connected to the group I'm investigating, which could tie into Maria's disappearance."
-    mct "J'ai confirmé que le culte auquel Sally appartenait est lié au groupe que j'enquête, ce qui pourrait être lié à la disparition de Maria."
+    mct "J'ai confirmé que le culte auquel Sally appartenait est lié au groupe sur lequel j'enquête, ce qui pourrait être lié à la disparition de Maria."
 
 # game/code/Book-1/Chapter-7c/s11.rpy:80
 translate french b1c07cs11_return_c88f2a80:

@@ -44,19 +44,19 @@ translate french b1c07ss01_fbd9161e:
 translate french b1c07ss01_d854dc9c:
 
     # zp "Tell me about it! That professor can be such a dick."
-    zp "Dis-moi à propos! Ce prof peut être vraiment un connard."
+    zp "Dis-moi à propos! Ce prof c'est vraiment un connard."
 
 # game/code/Book-1/Chapter-7s/s01.rpy:63
 translate french b1c07ss01_0e59864f:
 
     # ffl "We should hack his laptop or something."
-    ffl "On devrait pirater son ordinateur portable ou quelque chose."
+    ffl "On devrait pirater son ordinateur portable ou quelque chose comme ça."
 
 # game/code/Book-1/Chapter-7s/s01.rpy:66
 translate french b1c07ss01_2db1e593:
 
     # zp "I bet he's got nudes or something on there..."
-    zp "Je parie qu'il a des nus ou quelque chose là-dessus..."
+    zp "Je parie qu'il a des nudes ou quelque chose comme ça là-dessus..."
 
 # game/code/Book-1/Chapter-7s/s01.rpy:69
 translate french b1c07ss01_e4f9232d:
@@ -80,7 +80,7 @@ translate french b1c07ss01_36f28561:
 translate french b1c07ss01_327353c9:
 
     # ffl "C'mon! I'm just joking!"
-    ffl "Allez! Je rigole juste!"
+    ffl "Allez! Je rigole!"
 
 # game/code/Book-1/Chapter-7s/s01.rpy:84
 translate french b1c07ss01_d94cdfc8:
@@ -92,7 +92,7 @@ translate french b1c07ss01_d94cdfc8:
 translate french b1c07ss01_fa08a100:
 
     # ffl "Oh, you think you're {i}so{/i} edgy."
-    ffl "Oh, tu penses être {i}tellement{/i} provocateur."
+    ffl "Oh, tu penses être {i}tellement{/i} provocatrice."
 
 # game/code/Book-1/Chapter-7s/s01.rpy:93
 translate french b1c07ss01_07d58b42:
@@ -116,7 +116,7 @@ translate french b1c07ss01_d7043aa4:
 translate french b1c07ss01_2fd6bf35:
 
     # ffl "I'm an angel in comparison."
-    ffl "Je suis un ange en comparaison."
+    ffl "Je suis un ange en comparé a ces deux la."
 
 # game/code/Book-1/Chapter-7s/s01.rpy:102
 translate french b1c07ss01_afcc07ac:
@@ -152,13 +152,13 @@ translate french b1c07ss01_0b57b5b7:
 translate french b1c07ss01_79d79bfc:
 
     # zp "I thought I'd take the initiative to ask this time, since I had to turn you down earlier."
-    zp "Je pensais prendre l'initiative de demander cette fois, puisque je t'avais dû te refuser plus tôt."
+    zp "Je pensais prendre l'initiative de demander cette fois, puisque j'avais dû te refuser plus tôt."
 
 # game/code/Book-1/Chapter-7s/s01.rpy:123
 translate french b1c07ss01_30f73af3:
 
     # mc "That's sweet. I appreciate it."
-    mc "C'est gentil. Je l'apprécie."
+    mc "C'est gentil. J'apprécie."
 
 # game/code/Book-1/Chapter-7s/s01.rpy:126
 translate french b1c07ss01_2e1227b0:
@@ -170,7 +170,7 @@ translate french b1c07ss01_2e1227b0:
 translate french b1c07ss01_97b3bf2e:
 
     # mct "Phoebe said the same thing..."
-    mct "Phoebe a dit la même chose..."
+    mct "Phoebe m'avais dit la même chose..."
 
 # game/code/Book-1/Chapter-7s/s01.rpy:130
 translate french b1c07ss01_b36ade5a:
@@ -308,7 +308,7 @@ translate french b1c07ss01_cb67bdd7:
 translate french b1c07ss01_34ffe28b:
 
     # mg "Didn't take you for a shooter. I'm impressed."
-    mg "Je ne t'avais pas pris pour une tireuse. Je suis impressionné."
+    mg "Je ne savais pas que tu étais un tireur. Je suis impressionné."
 
 # game/code/Book-1/Chapter-7s/s01.rpy:202
 translate french b1c07ss01_b1c98ae9:
@@ -344,7 +344,7 @@ translate french b1c07ss01_1248a51f:
 translate french b1c07ss01_df6a4b9d:
 
     # mc "To be fair, I'm not the best shooter."
-    mc "Pour être juste, je ne suis pas le meilleur tireur."
+    mc "Pour être honnête, je ne suis pas le meilleur tireur."
 
 # game/code/Book-1/Chapter-7s/s01.rpy:219
 translate french b1c07ss01_0e7b288f:
@@ -518,7 +518,7 @@ translate french b1c07ss01_5b1401a0:
 translate french b1c07ss01_da556bb7:
 
     # mg "Not {i}yet{/i}, anyway."
-    mg "Pas {i}encore{/i}, de toute façon."
+    mg "Pas {i}encore{/i}, du moin."
 
 # game/code/Book-1/Chapter-7s/s01.rpy:295
 translate french b1c07ss01_8016e74b:

@@ -428,7 +428,7 @@ translate french b1c06cs07_go_further_974e5ef5:
 translate french b1c06cs07_go_further_f9471253:
 
     # sd "I thought about you, too."
-    sd "J'ai aussi pensé à toi."
+    sd "J'ai aussi pensée à toi."
 
 # game/code/Book-1/Chapter-6c/s07.rpy:322
 translate french b1c06cs07_go_further_606b7c4d:

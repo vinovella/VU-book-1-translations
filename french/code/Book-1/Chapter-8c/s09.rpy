@@ -62,7 +62,7 @@ translate french b1c08cs09_3fb795c4:
 translate french b1c08cs09_00cab8e4:
 
     # ad "Speak of the devil."
-    ad "Parlez du loup."
+    ad "Parles du diable."
 
 # game/code/Book-1/Chapter-8c/s09.rpy:55
 translate french b1c08cs09_1823f1e4:
@@ -122,13 +122,13 @@ translate french b1c08cs09_06123ed4:
 translate french b1c08cs09_8b9312aa:
 
     # ih "But I know you're ready, aren't you?"
-    ih "Mais je sais que tu es prêt(e), n'est-ce pas?"
+    ih "Mais je sais que tu es prêt, n'est-ce pas?"
 
 # game/code/Book-1/Chapter-8c/s09.rpy:77
 translate french b1c08cs09_9257c3c3:
 
     # ih "Ready and willing..."
-    ih "Prêt(e) et disposé(e)..."
+    ih "Prêt et disposé..."
 
 # game/code/Book-1/Chapter-8c/s09.rpy:79
 translate french b1c08cs09_400a7aac:
@@ -152,13 +152,13 @@ translate french b1c08cs09_8801205b:
 translate french b1c08cs09_a428c489:
 
     # dk "What more could my pupils possibly offer you?"
-    dk "Que peuvent bien m'offrir mes élèves de plus?"
+    dk "Que peuvent-ils bien offrir de plus?"
 
 # game/code/Book-1/Chapter-8c/s09.rpy:86
 translate french b1c08cs09_73caa730:
 
     # dk "I have also been a loyal, devoted member of this community. Not once have you doubted me. What makes you doubt me {i}now{/i}?"
-    dk "J'ai aussi été un membre loyal et dévoué de cette communauté. Pas une seule fois tu ne m'as douté. Qu'est-ce qui te fait douter de moi {i}maintenant{/i}?"
+    dk "J'ai aussi été une membre loyal et dévouée de cette communauté. Pas une seule fois tu n'as douté de moi. Qu'est-ce qui te fait douter de moi {i}maintenant{/i}?"
 
 # game/code/Book-1/Chapter-8c/s09.rpy:89
 translate french b1c08cs09_f79b2ab8:
@@ -272,7 +272,7 @@ translate french b1c08cs09_eddeb0e8:
 translate french b1c08cs09_7b7d6be9:
 
     # mc "In all your beautiful, intelligent glory; You're completely right."
-    mc "Dans toute ta beauté, ton intelligence éclatante ; Tu as complètement raison."
+    mc "Dans toute ta beauté, ton intelligence éclatante, Tu as complètement raison."
 
 # game/code/Book-1/Chapter-8c/s09.rpy:141
 translate french b1c08cs09_d9befa0e:
@@ -416,7 +416,7 @@ translate french b1c08cs09_bb676701:
 translate french b1c08cs09_9915952a:
 
     # "You clear your throat, forcing grateful words to leave your lips, however bitter they may be."
-    "Tu clears ta gorge, forçant des mots de gratitude à sortir de tes lèvres, aussi amers soient-ils."
+    "Tu éclaircis ta gorge, forçant des mots de gratitude à sortir de tes lèvres, aussi amers soient-ils."
 
 # game/code/Book-1/Chapter-8c/s09.rpy:196
 translate french b1c08cs09_6accee0b:
@@ -602,7 +602,7 @@ translate french b1c08cs09_body_paint_dd2fe3d8:
 translate french b1c08cs09_body_paint_5af86d1f:
 
     # ih "Yes. [mcname] will need to paint and decorate you for this ritual."
-    ih "Oui. [mcname] devra vous peindre et vous décorer pour ce rituel."
+    ih "Oui. [mcname] devra te peindre et te décorer pour ce rituel."
 
 # game/code/Book-1/Chapter-8c/s09.rpy:276
 translate french b1c08cs09_body_paint_cbd1f7ec:
@@ -800,7 +800,7 @@ translate french b1c08cs09_body_paint_a5946cb4:
 translate french b1c08cs09_body_paint_8f1539bd:
 
     # mct "Ivy's obviously just jealous and taking it out on Nia."
-    mct "Ivy est évidemment juste jalouse et elle le prend sur Nia."
+    mct "Ivy est visiblement juste jalouse et s'en prend à Nia.."
 
 # game/code/Book-1/Chapter-8c/s09.rpy:351
 translate french b1c08cs09_body_paint_e41e3421:
@@ -842,7 +842,7 @@ translate french b1c08cs09_body_paint_f712ee28:
 translate french b1c08cs09_body_paint_5509085c:
 
     # nv "But I respect her a lot, and it hurts when she doesn't even acknowledge me all the same."
-    nv "Mais je la respecte beaucoup, et ça fait mal quand elle ne me reconnaît même pas."
+    nv "Mais je la respecte beaucoup, et ça fait mal quand elle ne me reconnaît pas."
 
 # game/code/Book-1/Chapter-8c/s09.rpy:365
 translate french b1c08cs09_body_paint_4550b6a2:
@@ -1022,7 +1022,7 @@ translate french b1c08cs09_body_paint_5e19da55:
 translate french b1c08cs09_body_paint_6a2cafcc:
 
     # "Nia takes off the rest of her clothes, eagerly but comfortably exposing her body for you to paint."
-    "Nia enlève le reste de ses vêtements, l'air enthousiaste mais à l'aise, exposant son corps pour que tu puisses peindre."
+    "Nia enlève le reste de ses vêtements, l'air enthousiaste et à l'aise, exposant son corps pour que tu puisses peindre."
 
 # game/code/Book-1/Chapter-8c/s09.rpy:457
 translate french b1c08cs09_body_paint_6cbf6e39:
@@ -1046,7 +1046,7 @@ translate french b1c08cs09_body_paint_9713cc3f:
 translate french b1c08cs09_body_paint_02d65785:
 
     # "You gently stroke the paint against Nia's skin, and each stroke feels like a step forward on the path you've chosen."
-    "Tu caresses doucement la peinture contre la peau de Nia, et chaque coup de pinceau semble être un pas en avant sur le chemin que tu as choisi."
+    "Tu caresses doucement la peinture contre la peau de Nia, chaque coup de pinceau semble être un pas en avant sur le chemin que tu as choisi."
 
 # game/code/Book-1/Chapter-8c/s09.rpy:472
 translate french b1c08cs09_body_paint_5075f688:

@@ -2,7 +2,7 @@
 translate french b1c07ws02_1ea0c31e:
 
     # mct "*Sighs* I should go give Sam the info about Isa's party."
-    mct "*Soupir* Je devrais aller donner à Sam les infos sur la fête d'Isa."
+    mct "*Soupir* Putain ça fais du bien mais je devrais aller donner à Sam les infos sur la fête d'Isa."
 
 # game/code/Book-1/Chapter-7w/s02.rpy:34
 translate french b1c07ws02_25553307:
@@ -32,7 +32,7 @@ translate french b1c07ws02_bdc77e43:
 translate french b1c07ws02_a886721f:
 
     # mc "How the hell did you find me here?"
-    mc "Comment diable tu m'as trouvé ici?"
+    mc "Comment diable m'as-tu trouvé ici?"
 
 # game/code/Book-1/Chapter-7w/s02.rpy:67
 translate french b1c07ws02_5f852b2e:
@@ -86,7 +86,7 @@ translate french b1c07ws02_030cd4fe:
 translate french b1c07ws02_f9e9c02b:
 
     # sdl "Well that's not {i}all{/i} the info I had! My God. You didn't even give me any time to say my piece."
-    sdl "Eh bien, ce n'est pas {i}toute{/i} l'information que j'avais! Mon Dieu. Tu ne m'as même pas laissé le temps de m'exprimer."
+    sdl "Eh bien, ce n'est pas {i}toute{/i} l'information que j'avais! Mon Dieu. Tu ne m'as même pas laissé le temps de finir."
 
 # game/code/Book-1/Chapter-7w/s02.rpy:93
 translate french b1c07ws02_8cc584a1:
@@ -98,13 +98,13 @@ translate french b1c07ws02_8cc584a1:
 translate french b1c07ws02_614dd207:
 
     # sdl "Huhu, I will."
-    sdl "Huhu, je vais."
+    sdl "Huhu, j'y compte bien."
 
 # game/code/Book-1/Chapter-7w/s02.rpy:98
 translate french b1c07ws02_48b794cb:
 
     # sdl "Isa is up to something today. My little birdies have told me that she's been going to and fro from that little mansion of theirs with her phone slapped to her ear."
-    sdl "Isa prépare quelque chose aujourd'hui. Mes petits oiseaux m'ont dit qu'elle allait et venait de leur petite mansion avec son téléphone collé à son oreille."
+    sdl "Isa prépare quelque chose aujourd'hui. Mes petits oiseaux m'ont dit qu'elle allait et venait depuis leur petit manoir avec son téléphone collé à son oreille.."
 
 # game/code/Book-1/Chapter-7w/s02.rpy:100
 translate french b1c07ws02_7e7dc21d:
@@ -164,13 +164,13 @@ translate french b1c07ws02_299e0d5f:
 translate french b1c07ws02_9744cbee:
 
     # mc "My {i}point{/i} is, however, I'm pretty sure I know what Isa's up to."
-    mc "Mon {i}point{/i}, cependant, c'est que je suis assez sûr de savoir ce qu'Isa prépare."
+    mc "Ce que je v{/i}eux{/i} dire, c'est que je suis presque sûr de savoir ce que fait Isa.."
 
 # game/code/Book-1/Chapter-7w/s02.rpy:124
 translate french b1c07ws02_e65673ee:
 
     # mc "Iona and Silvia told me that Isa's throwing some sort of small pool party at the mansion today to boost the team's morale."
-    mc "Iona et Silvia m'ont dit qu'Isa organise une petite fête au bord de la piscine à la mansion aujourd'hui pour remonter le moral de l'équipe."
+    mc "Iona et Silvia m'ont dit qu'Isa organise une petite fête au bord de la piscine au manoir aujourd'hui pour remonter le moral de l'équipe."
 
 # game/code/Book-1/Chapter-7w/s02.rpy:127
 translate french b1c07ws02_5f69cdc8:
@@ -182,7 +182,7 @@ translate french b1c07ws02_5f69cdc8:
 translate french b1c07ws02_17e68cd6:
 
     # sdl "Oooh, that makes a lot of sense actually."
-    sdl "Oooh, ça a vraiment du sens en fait."
+    sdl "Oooh, ça a beaucoup de sens en fait."
 
 # game/code/Book-1/Chapter-7w/s02.rpy:130
 translate french b1c07ws02_bcfbd1d9:
@@ -194,7 +194,7 @@ translate french b1c07ws02_bcfbd1d9:
 translate french b1c07ws02_39ac235d:
 
     # sdl "I guess I failed to realize that she might throw something small for the team."
-    sdl "Je suppose que je n'avais pas réalisé qu'elle pourrait organiser quelque chose de petit pour l'équipe."
+    sdl "Je suppose que je n'avais pas réalisée qu'elle pourrait organiser quelque chose de petit pour l'équipe."
 
 # game/code/Book-1/Chapter-7w/s02.rpy:140
 translate french b1c07ws02_43c0ec22:
@@ -254,7 +254,7 @@ translate french b1c07ws02_12d4b0b5:
 translate french b1c07ws02_36108300:
 
     # mc "Unless you like the taste of piss in your mouth, that's probably not a good idea, Sam."
-    mc "À moins que tu n'aimes le goût de l'urine dans ta bouche, ce n'est probablement pas une bonne idée, Sam."
+    mc "À moins que tu aimes le goût d'urine dans ta bouche, ce n'est probablement pas une bonne idée, Sam."
 
 # game/code/Book-1/Chapter-7w/s02.rpy:181
 translate french b1c07ws02_ebf20fa0:

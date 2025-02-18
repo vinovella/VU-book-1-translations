@@ -16,7 +16,7 @@ translate french b1c06ws05_dc0ff26a:
 # game/code/Book-1/Chapter-6w/s05.rpy:45
 translate french b1c06ws05_8c9328fe:
     # sdl "You probably think {i}this{/i} is what got me thrown out of the Winner's Club."
-    sdl "Tu penses probablement que {i}ça{/i} c'est ce qui m'a fait expulser du Club des Gagnants."
+    sdl "Tu penses probablement que {i}ça{/i}, c'est ce qui m'a fait expulser du Club des Winner's."
 
 # game/code/Book-1/Chapter-6w/s05.rpy:48
 translate french b1c06ws05_1e348b56:
@@ -131,7 +131,7 @@ translate french b1c06ws05_bcd93b31:
 # game/code/Book-1/Chapter-6w/s05.rpy:95
 translate french b1c06ws05_e86babff:
     # mc "Of course.{w} I bet your affinity for the {i}arts,{/i} didn't sit well with the Winner's Club."
-    mc "Bien sûr.{w} Je parie que ton goût pour les {i}arts,{/i} n'était pas bien vu par le Club des Gagnants."
+    mc "Bien sûr.{w} Je parie que ton goût pour les {i}arts,{/i} n'était pas bien vu par le Club des Winner's."
 
 # game/code/Book-1/Chapter-6w/s05.rpy:98
 translate french b1c06ws05_1cbc607d:
@@ -176,7 +176,7 @@ translate french b1c06ws05_ace37441:
 # game/code/Book-1/Chapter-6w/s05.rpy:124
 translate french b1c06ws05_7c7d1f77:
     # sdl "I've been on my own team for so long, I've forgotten what it's like to be on anyone else's."
-    sdl "J'ai été dans mon propre équipe tellement longtemps, j'ai oublié ce que c'est d'être dans celle de quelqu'un d'autre."
+    sdl "J'ai étais dans ma propre équipe tellement longtemps, j'ai oublié ce que sais d'être dans celle de quelqu'un d'autre."
 
 # game/code/Book-1/Chapter-6w/s05.rpy:125
 translate french b1c06ws05_d244ad13:
@@ -191,7 +191,7 @@ translate french b1c06ws05_d3496b79:
 # game/code/Book-1/Chapter-6w/s05.rpy:129
 translate french b1c06ws05_5c65ae27:
     # sdl "You're just a guy on your own who desperately wants into the Winner's Club?"
-    sdl "Tu es juste un gars tout seul qui veut désespérément entrer dans le Club des Gagnants?"
+    sdl "Tu es juste un gars tout seul qui veut désespérément entrer dans le Club des Winner's?"
 
 # game/code/Book-1/Chapter-6w/s05.rpy:132
 translate french b1c06ws05_6a9d6850:
@@ -321,12 +321,12 @@ translate french b1c06ws05_ba67b126:
 # game/code/Book-1/Chapter-6w/s05.rpy:207
 translate french b1c06ws05_81650c6a:
     # mc "Just curious."
-    mc "Juste curieux."
+    mc "Non, non je suis juste curieux."
 
 # game/code/Book-1/Chapter-6w/s05.rpy:209
 translate french b1c06ws05_bb1f4c85:
     # mct "If Isa hosts a lot of parties, she might know something about the party that the missing girls disappeared at"
-    mct "Si Isa organise beaucoup de soirées, elle pourrait savoir quelque chose sur celle où les filles disparues ont disparu."
+    mct "Si Isa organise beaucoup de soirées, elle pourrait savoir quelque chose sur celle où les filles qui ont disparues."
 
 # game/code/Book-1/Chapter-6w/s05.rpy:212
 translate french b1c06ws05_a5ec406a:
@@ -341,7 +341,7 @@ translate french b1c06ws05_93169d2b:
 # game/code/Book-1/Chapter-6w/s05.rpy:216
 translate french b1c06ws05_acb1655d:
     # sdl "So what'll it be? Will you scratch my back, so I can scratch yours?"
-    sdl "Alors, que choisis-tu? Tu me rends service, et je t'en rends une?"
+    sdl "Alors, que choisis-tu? Tu me rends service, et je t'en rends un?"
 
 # game/code/Book-1/Chapter-6w/s05.rpy:218
 translate french b1c06ws05_188b9132:
@@ -371,7 +371,7 @@ translate french b1c06ws05_3d604bf9:
 # game/code/Book-1/Chapter-6w/s05.rpy:234
 translate french b1c06ws05_7843d913:
     # sdl "R-really? With me?"
-    sdl "R-vraiment? Avec moi?"
+    sdl "VR-aiment? Avec moi?"
 
 # game/code/Book-1/Chapter-6w/s05.rpy:237
 translate french b1c06ws05_1b822232:

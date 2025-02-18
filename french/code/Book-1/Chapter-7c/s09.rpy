@@ -2,7 +2,7 @@
 translate french b1c07cs09_a1063d9b:
 
     # mct "There has to be some explanation for how they left the library without being noticed."
-    mct "Il doit y avoir une explication sur la façon dont ils ont quitté la bibliothèque sans être remarqués."
+    mct "Il doit y avoir une explication sur la façon dont ils ont quitté la bibliothèque sans se faire remarqués."
 
 # game/code/Book-1/Chapter-7c/s09.rpy:50
 translate french b1c07cs09_bee7ef00:
@@ -20,7 +20,7 @@ translate french b1c07cs09_5812830c:
 translate french b1c07cs09_19b9880c:
 
     # mct "Andre and Ivy must've used that."
-    mct "Andre et Ivy ont dû utiliser cela."
+    mct "Andre et Ivy ont dû l'utiliser."
 
 # game/code/Book-1/Chapter-7c/s09.rpy:58
 translate french b1c07cs09_656db40b:
@@ -50,7 +50,7 @@ translate french b1c07cs09_a69a16d6:
 translate french b1c07cs09_ead4a05f:
 
     # mc "Jesus Irene, you scared me..."
-    mc "Putain Irene, tu m'as fait peur..."
+    mc "HAAAAA...Putain Irene, tu m'as fait peur..."
 
 # game/code/Book-1/Chapter-7c/s09.rpy:76
 translate french b1c07cs09_6b282be7:
@@ -242,7 +242,7 @@ translate french b1c07cs09_765a693a:
 translate french b1c07cs09_01739c5a:
 
     # ij "Where we can be as loud as we want."
-    ij "Où nous pouvons être aussi bruyants qu'on veut."
+    ij "Où nous pouvons être aussi bruyants que nous le voulons."
 
 # game/code/Book-1/Chapter-7c/s09.rpy:198
 translate french b1c07cs09_c3a02aa3:
@@ -278,7 +278,7 @@ translate french b1c07cs09_choice_d8f4045e:
 translate french b1c07cs09_choice_3656a527:
 
     # mc "You sure?"
-    mc "Vous êtes sûr?"
+    mc "Tu es sûr?"
 
 # game/code/Book-1/Chapter-7c/s09.rpy:229
 translate french b1c07cs09_choice_e4da19c9:
@@ -302,7 +302,7 @@ translate french b1c07cs09_choice_535fc771:
 translate french b1c07cs09_choice_ac8272f7:
 
     # mc "Of course. Your secret's safe with me."
-    mc "Bien sûr. Ton secret est en sécurité avec moi."
+    mc "Bien sûr. Ton secret sera bien gardé avec moi."
 
 # game/code/Book-1/Chapter-7c/s09.rpy:246
 translate french b1c07cs09_choice_615494f9:
@@ -368,7 +368,7 @@ translate french b1c07cs09_sex_fd8f0ab5:
 translate french b1c07cs09_sex_55857cf3:
 
     # "Irene deepthroats you. You feel her throat contract as she swallows, greedily taking as much of you in as she can."
-    "Irène vous fait une gorge profonde. Vous sentez sa gorge se contracter alors qu'elle avale, absorbant avidement autant de vous qu'elle le peut."
+    "Irène vous fait une gorge profonde. Vous sentez sa gorge se contracter alors qu'elle avale, absorbant avidement autant qu'elle le peut."
 
 # game/code/Book-1/Chapter-7c/s09.rpy:316
 translate french b1c07cs09_sex_31a7ccff:
@@ -386,13 +386,13 @@ translate french b1c07cs09_sex_edd0d966:
 translate french b1c07cs09_sex_d0244896:
 
     # "Irene gags and swallows around your cock, lapping at you with her tongue."
-    "Irène s'étouffe et avale autour de ta bite, te léchant avec sa langue."
+    "Irène s'étouffe et avale ta bite, te la léchant avec sa langue."
 
 # game/code/Book-1/Chapter-7c/s09.rpy:350
 translate french b1c07cs09_sex_ad9f151c:
 
     # mc "You feel so fucking good. You like it when I use you like this?"
-    mc "Tu te sens tellement bien. Tu aimes quand je t'utilise comme ça?"
+    mc "Tu es tellement douée. Tu aimes quand je t'utilise comme ça?"
 
 # game/code/Book-1/Chapter-7c/s09.rpy:354
 translate french b1c07cs09_sex_f9555ed3:
@@ -434,13 +434,13 @@ translate french b1c07cs09_sex_17b0b9fb:
 translate french b1c07cs09_sex_7ad789b9:
 
     # "Irene touches herself. She's so needy for pleasure and release from you."
-    "Irène se touche. Elle a tellement besoin de plaisir et de libération de toi."
+    "Irène se touche. Elle a tellement besoin de plaisir et de libération."
 
 # game/code/Book-1/Chapter-7c/s09.rpy:389
 translate french b1c07cs09_sex_3cfb0867:
 
     # "You fuck her ravenously, and Irene's answering moans are loud and blissed out from pleasure."
-    "Tu la baises voracement, et les gémissements d'Irène sont forts et heureux de plaisir."
+    "Tu la baises furieusement, et les gémissements d'Irène sont forts et heureux de plaisir."
 
 # game/code/Book-1/Chapter-7c/s09.rpy:394
 translate french b1c07cs09_sex_5ed776e5:
@@ -452,7 +452,7 @@ translate french b1c07cs09_sex_5ed776e5:
 translate french b1c07cs09_sex_34605ff5:
 
     # "You take Irene's cock in your hand as you fuck her and start stroking her."
-    "Tu prends la bite d'Irène dans ta main pendant que tu la baises et commence à la caresser."
+    "Tu prends la bite d'Irène dans ta main pendant que tu la baises et commence à la branler."
 
 # game/code/Book-1/Chapter-7c/s09.rpy:407
 translate french b1c07cs09_sex_55879844:
@@ -470,7 +470,7 @@ translate french b1c07cs09_sex_4eaaf084:
 translate french b1c07cs09_sex_8f9d009c:
 
     # ij "Yes, please! It feels so good when you rub me like that."
-    ij "Oui, s'il te plaît! C'est si bon quand tu me frottes comme ça."
+    ij "Oui, s'il te plaît! C'est si bon quand tu me branle comme ça."
 
 # game/code/Book-1/Chapter-7c/s09.rpy:422
 translate french b1c07cs09_sex_3f81601e:
@@ -488,25 +488,25 @@ translate french b1c07cs09_sex_5b4867af:
 translate french b1c07cs09_sex_d8d5fdc4:
 
     # mc "Good girl, cum for me."
-    mc "Bonne fille, jouis pour moi."
+    mc "Bonne fille, jouies pour moi."
 
 # game/code/Book-1/Chapter-7c/s09.rpy:427
 translate french b1c07cs09_sex_6e522b84:
 
     # "You pound Irene hard for a few moments longer, feeling her muscles convulse with pleasure."
-    "Vous frappez durement Irène pendant quelques instants de plus, sentant ses muscles se convulser de plaisir."
+    "Vous baisez durement Irène pendant quelques instants de plus, sentant ses muscles se convulser de plaisir."
 
 # game/code/Book-1/Chapter-7c/s09.rpy:432
 translate french b1c07cs09_sex_27a22753:
 
     # ij "I'm cumming, I'm cumming!"
-    ij "Je jouis, je jouis!"
+    ij "Je jouie, je jouie!"
 
 # game/code/Book-1/Chapter-7c/s09.rpy:437
 translate french b1c07cs09_sex_1fb9cadb:
 
     # mc "Good, me too."
-    mc "Bien, moi aussi."
+    mc "Oui, moi aussi."
 
 # game/code/Book-1/Chapter-7c/s09.rpy:441
 translate french b1c07cs09_sex_184a1690:
@@ -518,7 +518,7 @@ translate french b1c07cs09_sex_184a1690:
 translate french b1c07cs09_sex_6f92c032:
 
     # mc "Just what we needed, right?"
-    mc "Juste ce dont nous avions besoin, n'est-ce pas?"
+    mc "Tout ce dont nous avions besoin, n'est-ce pas?"
 
 # game/code/Book-1/Chapter-7c/s09.rpy:449
 translate french b1c07cs09_sex_842f8c78:
@@ -536,7 +536,7 @@ translate french b1c07cs09_sex_afea47b4:
 translate french b1c07cs09_sex_d653e7ff:
 
     # ij "I had a wonderful time. I'll see ya around, okay?"
-    ij "J'ai passé un moment merveilleux. À bientôt, d'accord?"
+    ij "J'ai passé un moment merveilleux. À bientôt, okay?"
 
 # game/code/Book-1/Chapter-7c/s09.rpy:474
 translate french b1c07cs09_sex_90db3c57:
@@ -548,7 +548,7 @@ translate french b1c07cs09_sex_90db3c57:
 translate french b1c07cs09_end_7978b93f:
 
     # mct "This is a huge find. Who knows what kind of activities that location is used for? That has to be where Ivy and Andre disappeared to."
-    mct "C'est une découverte énorme. Qui sait à quel genre d'activités cet endroit est utilisé? C'est sûrement là qu'Ivy et Andre ont disparu."
+    mct "C'est une découverte énorme. Qui sait à quel genre d'activités cet endroit est destiné? C'est sûrement là qu'Ivy et Andre ont disparu."
 
 # game/code/Book-1/Chapter-7c/s09.rpy:485
 translate french b1c07cs09_end_3896c50a:
@@ -572,7 +572,7 @@ translate french b1c07cs09_end_af86ec02:
 translate french b1c07cs09_end_a58d27dc:
 
     # mct "Hopefully Ezra and Maria had a close enough connection that Maria told her some details that'll help."
-    mct "J'espère qu'Ezra et Maria avaient des liens suffisamment étroits pour que Maria lui donne quelques détails qui pourraient l'aider."
+    mct "Espérons qu'Ezra et Maria aient eu une connexion suffisamment étroite pour que Maria lui donne quelques détails qui m'aideront.."
 
 # game/code/Book-1/Chapter-7c/s09.rpy:495
 translate french b1c07cs09_end_e3cee718:

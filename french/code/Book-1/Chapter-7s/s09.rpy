@@ -20,13 +20,13 @@ translate french b1c07ss09_27d8cbf0:
 translate french b1c07ss09_82208d09:
 
     # mc "She'll be back soon, I think. Something to do with the servers, I guess."
-    mc "Elle sera bientôt de retour, je pense. C'est quelque chose avec les serveurs, je suppose."
+    mc "Elle sera bientôt de retour. C'est quelque chose avec les serveurs, je suppose."
 
 # game/code/Book-1/Chapter-7s/s09.rpy:36
 translate french b1c07ss09_2063d392:
 
     # ass "Those servers are such a pain. She's a whiz with a computer, though. I'm sure she'll be done soon."
-    ass "Ces serveurs sont vraiment pénibles. Mais elle est une pro avec l'ordinateur, je suis sûr qu'elle aura fini bientôt."
+    ass "Ces serveurs sont vraiment pénibles. Mais elle est une pro avec l'ordinateur, je suis sûr qu'elle aura finie bientôt."
 
 # game/code/Book-1/Chapter-7s/s09.rpy:38
 translate french b1c07ss09_13c96f0d:
@@ -56,7 +56,7 @@ translate french b1c07ss09_1269b633:
 translate french b1c07ss09_7a2099ba:
 
     # mc "It's great! I'm so glad Fleur invited me."
-    mc "C'est génial! Je suis tellement content que Fleur m'ait invité."
+    mc "C'est génial! Je suis tellement content que Fleur m'ais invité."
 
 # game/code/Book-1/Chapter-7s/s09.rpy:48
 translate french b1c07ss09_91907e4b:
@@ -74,7 +74,7 @@ translate french b1c07ss09_7c1bc8df:
 translate french b1c07ss09_5ab12404:
 
     # ass "And I'm happy to hear you like the venue so much. Y'know, I helped set this place up."
-    ass "Et je suis content d'entendre que tu aimes autant le lieu. Tu sais, j'ai aidé à aménager cet endroit."
+    ass "Et je suis contente d'entendre que tu aimes autant le lieu. Tu sais, j'ai aidé à aménager cet endroit."
 
 # game/code/Book-1/Chapter-7s/s09.rpy:55
 translate french b1c07ss09_a31340dd:
@@ -98,7 +98,7 @@ translate french b1c07ss09_33b938ab:
 translate french b1c07ss09_56ff9a14:
 
     # ass "Smooth as butter so far."
-    ass "C'est aussi fluide que du beurre jusqu'à maintenant."
+    ass "Ca glisse comme du beurre jusqu'à présent."
 
 # game/code/Book-1/Chapter-7s/s09.rpy:73
 translate french b1c07ss09_a1f0727e:
@@ -122,7 +122,7 @@ translate french b1c07ss09_b24d2cdd:
 translate french b1c07ss09_2abcf00e:
 
     # gn "That's definitely true. But we also keep each other sane when the work is less than ideal."
-    gn "C'est définitivement vrai. Mais nous nous gardons aussi sains d'esprit lorsque le travail est moins qu'idéal."
+    gn "C'est certainement vrai. Mais nous restons également saines d'esprit lorsque le travail n'est pas idéal.."
 
 # game/code/Book-1/Chapter-7s/s09.rpy:86
 translate french b1c07ss09_beee3a8e:
@@ -164,7 +164,7 @@ translate french b1c07ss09_d4c0c5f3:
 translate french b1c07ss09_4640b76d:
 
     # ass "So, where did you say you were from? Fleur's talked about you a bit."
-    ass "Alors, d'où tu viens? Fleur a parlé de toi un peu."
+    ass "Alors, d'où as-tu dit que tu venais ? Fleur a un peu parlé de toi."
 
 # game/code/Book-1/Chapter-7s/s09.rpy:102
 translate french b1c07ss09_27a7637d:
@@ -182,7 +182,7 @@ translate french b1c07ss09_394aee13:
 translate french b1c07ss09_3fbff364:
 
     # ass "Damn! That's cool."
-    ass "Mince! C'est cool."
+    ass "Merde! C'est cool."
 
 # game/code/Book-1/Chapter-7s/s09.rpy:111
 translate french b1c07ss09_5de43ee9:
@@ -200,13 +200,13 @@ translate french b1c07ss09_f0b9babe:
 translate french b1c07ss09_7cfef765:
 
     # gn "I'm surprised Fleur invited you. She's normally pretty bashful when it comes to guys."
-    gn "Je suis surpris que Fleur t'ait invité. Elle est normalement assez timide avec les garçons."
+    gn "Je suis surpris que Fleur t'ais invité. Elle est normalement assez timide avec les garçons."
 
 # game/code/Book-1/Chapter-7s/s09.rpy:120
 translate french b1c07ss09_e36500a4:
 
     # mc "I've been told I'm pretty easy to get along with."
-    mc "On m'a dit que je suis assez facile à vivre."
+    mc "On m'a déjà dit que je étais assez facile à vivre."
 
 # game/code/Book-1/Chapter-7s/s09.rpy:124
 translate french b1c07ss09_924ae0d2:
@@ -344,13 +344,13 @@ translate french b1c07ss09_688a87bb:
 translate french b1c07ss09_3e2c82c9:
 
     # qh "I agree. Lord knows there's more alcohol to consume and shenanigans to get up to around here."
-    qh "Je suis d'accord. Dieu sait qu'il y a encore de l'alcool à boire et des bêtises à faire ici."
+    qh "Je suis d'accord. Dieu seul sait qu'il y a encore de l'alcool à boire et des bêtises à faire ici."
 
 # game/code/Book-1/Chapter-7s/s09.rpy:219
 translate french b1c07ss09_134c7796:
 
     # ass "I swear, those two are always up to {i}something{/i}."
-    ass "Je jure que ces deux-là sont toujours en train de faire {i}quelque chose{/i}."
+    ass "Je le jure, ces deux-là préparent toujours {i}quelque chose{/i}."
 
 # game/code/Book-1/Chapter-7s/s09.rpy:221
 translate french b1c07ss09_abd30fc1:
@@ -434,13 +434,13 @@ translate french b1c01ss09_fight_983af822:
 translate french b1c01ss09_fight_b761221d:
 
     # fox "And Mad Dog's newest opponent, the Rapid Viper!"
-    fox "Et le nouvel adversaire de Mad Dog, le Serpent Rapide!"
+    fox "Et le nouvel adversaire de Mad Dog, Rapid Viper!"
 
 # game/code/Book-1/Chapter-7s/s09.rpy:278
 translate french b1c01ss09_fight_a6a1dd39:
 
     # "There's a mix of cheering in the crowd, though it's impossible to tell who's cheering and booing for who."
-    "Il y a un mélange d'acclamations dans la foule, bien qu'il soit impossible de dire qui applaudit et qui hue qui."
+    "Il y a un mélange d'acclamations dans la foule, bien qu'il soit impossible de dire qui applaudit qui et qui hue qui."
 
 # game/code/Book-1/Chapter-7s/s09.rpy:281
 translate french b1c01ss09_fight_0e87d642:
@@ -452,7 +452,7 @@ translate french b1c01ss09_fight_0e87d642:
 translate french b1c01ss09_fight_eafca8e9:
 
     # fox "Remember, listen to me at all times, be strong, and KEEP THE PEOPLE ENTERTAINED!"
-    fox "Souvenez-vous, écoutez-moi à tout moment, soyez forts, et GARDONS LE PUBLIC DIVERTI!"
+    fox "Souvenez-vous, écoutez-moi à tout moment, soyez forts, et GARDONS LE PUBLIC DIVERTIS!"
 
 # game/code/Book-1/Chapter-7s/s09.rpy:291
 translate french b1c01ss09_fight_c15827cb:
@@ -476,7 +476,7 @@ translate french b1c01ss09_fight_606e2d02:
 translate french b1c01ss09_fight_809c01d5:
 
     # "Morgan swings first and lands a hit on Rapid Viper's jaw."
-    "Morgan frappe en premier et touche la mâchoire du Serpent Rapide."
+    "Morgan frappe en premier et touche la mâchoire du Rapid Viper."
 
 # game/code/Book-1/Chapter-7s/s09.rpy:321
 translate french b1c01ss09_fight_a9e94ee8:
@@ -494,7 +494,7 @@ translate french b1c01ss09_fight_4aa0a548:
 translate french b1c01ss09_fight_b29734bd:
 
     # "Rapid Viper's kick drives Morgan off balance. She crashes to the ground."
-    "Le coup de pied du Serpent Rapide déséquilibre Morgan. Elle s'effondre au sol."
+    "Le coup de pied du Rapid Viper déséquilibre Morgan. Elle s'effondre au sol."
 
 # game/code/Book-1/Chapter-7s/s09.rpy:337
 translate french b1c01ss09_fight_0ba27a28:
@@ -512,7 +512,7 @@ translate french b1c01ss09_fight_6dfed452:
 translate french b1c01ss09_fight_6243eab7:
 
     # "The crowd holds its breath and time slows as Rapid Viper's leg starts dropping toward Morgan's body."
-    "La foule retient son souffle et le temps ralentit alors que la jambe du Serpent Rapide commence à descendre vers le corps de Morgan."
+    "La foule retient son souffle et le temps ralentit alors que la jambe du Rapid Viper commence à descendre vers le corps de Morgan."
 
 # game/code/Book-1/Chapter-7s/s09.rpy:356
 translate french b1c01ss09_fight_44052d4e:
@@ -530,13 +530,13 @@ translate french b1c01ss09_fight_c2882d2a:
 translate french b1c01ss09_fight_dc98db51:
 
     # "Both fighters recover quickly, barely out of breath."
-    "Les deux combattants se remettent rapidement, à peine essoufflés."
+    "Les deux combattantes se remettent rapidement sur pied, à peine essoufflées."
 
 # game/code/Book-1/Chapter-7s/s09.rpy:370
 translate french b1c01ss09_fight_498a9eee:
 
     # "Viper tries to hit Morgan with a roundhouse kick, but she blocks it with her arm."
-    "Viper essaie de frapper Morgan avec un coup de pied circulaire, mais elle le bloque avec son bras."
+    "Rapid Viper essaie de frapper Morgan avec un coup de pied circulaire, mais elle le bloque avec son bras."
 
 # game/code/Book-1/Chapter-7s/s09.rpy:377
 translate french b1c01ss09_fight_897409d6:
@@ -548,7 +548,7 @@ translate french b1c01ss09_fight_897409d6:
 translate french b1c01ss09_fight_a4943f95:
 
     # "Morgan uses Viper's compromised position to launch her fist into Viper's stomach."
-    "Morgan utilise la position compromise de Viper pour lancer son poing dans l'estomac de Viper."
+    "Morgan utilise la position compromise de Viper pour lancer son poing dans son estomac."
 
 # game/code/Book-1/Chapter-7s/s09.rpy:387
 translate french b1c01ss09_fight_37ae8bf7:
@@ -560,7 +560,7 @@ translate french b1c01ss09_fight_37ae8bf7:
 translate french b1c01ss09_fight_7df0dd59:
 
     # ass "Leia would've loved this fight. Mad Dog and Rapid Viper are a good match as far as fighting goes."
-    ass "Leia aurait adoré ce combat. Mad Dog et Rapid Viper sont un bon match niveau combat."
+    ass "Leia aurait adoré ce combat. Mad Dog et Rapid Viper font bon ménage en ce qui concerne les combats."
 
 # game/code/Book-1/Chapter-7s/s09.rpy:392
 translate french b1c01ss09_fight_10d3b175:
@@ -620,7 +620,7 @@ translate french b1c01ss09_fight_5a3765d8:
 translate french b1c01ss09_fight_e2db65ca:
 
     # ass "THAT FUCKER HAS A RAZOR!!{w} BOO!!"
-    ass "CE SALAUD A UN RASOIR!!{w} BOO!!"
+    ass "CETTE SALOPE A UN RASOIR!!{w} BOO!!"
 
 # game/code/Book-1/Chapter-7s/s09.rpy:431
 translate french b1c01ss09_fight_570827ff:
@@ -632,7 +632,7 @@ translate french b1c01ss09_fight_570827ff:
 translate french b1c01ss09_fight_04c700c4:
 
     # fox "We don't have many rules here, but that's not appropriate for this ring!"
-    fox "Ici, on n'a pas beaucoup de règles, mais ça, ce n'est pas acceptable dans ce ring!"
+    fox "Ici, on n'a pas beaucoup de règles, mais ça, ce n'est pas acceptable dans cette cage!"
 
 # game/code/Book-1/Chapter-7s/s09.rpy:435
 translate french b1c01ss09_fight_735ecbdb:
@@ -650,7 +650,7 @@ translate french b1c01ss09_fight_42adaf83:
 translate french b1c01ss09_fight_e46c177a:
 
     # ass "It's more so about causing enough damage that the competition can't fight until they've fully healed. Morgan's lucky that wound wasn't worse."
-    ass "C'est plus une question de causer suffisamment de dégâts pour que l'adversaire ne puisse pas se battre avant de s'être complètement remis. Morgan a de la chance que cette blessure ne soit pas plus grave."
+    ass "C'est plus une question de causer suffisamment de dégâts pour que l'adversaire ne puisse plus se battre avant de s'être complètement remis. Morgan a de la chance que cette blessure ne soit pas plus grave."
 
 # game/code/Book-1/Chapter-7s/s09.rpy:442
 translate french b1c01ss09_fight_c8bffae3:
@@ -662,19 +662,19 @@ translate french b1c01ss09_fight_c8bffae3:
 translate french b1c01ss09_fight_4166c89b:
 
     # "Morgan grabs Viper by the throat and slams them onto their back."
-    "Morgan attrape Viper par la gorge et les écrase sur leur dos."
+    "Morgan attrape Viper par la gorge et l'écrase sur le sol"
 
 # game/code/Book-1/Chapter-7s/s09.rpy:455
 translate french b1c01ss09_fight_364f40ec:
 
     # mg "Fucking stay down, asshole."
-    mg "Reste au sol, connard."
+    mg "Reste au sol, connasse."
 
 # game/code/Book-1/Chapter-7s/s09.rpy:458
 translate french b1c01ss09_fight_04e7f824:
 
     # mg "Did you really think that was gonna work on me? You think I haven't faced worse than you?"
-    mg "Tu pensais vraiment que ça allait marcher sur moi? Tu crois que je n'ai pas affronté pire que toi?"
+    mg "Tu pensais vraiment que ça allait marcher sur moi? Tu crois que je n'ai pas affrontée pire que toi?"
 
 # game/code/Book-1/Chapter-7s/s09.rpy:460
 translate french b1c01ss09_fight_8fa2ad1e:
@@ -686,7 +686,7 @@ translate french b1c01ss09_fight_8fa2ad1e:
 translate french b1c01ss09_fight_4f2a47c3:
 
     # "Viper claws at Morgan's grasp, panicking for an ounce of air."
-    "Viper gratte la prise de Morgan, paniquant pour un peu d'air."
+    "Viper griffe Morgan, paniquée pour une once d'air.."
 
 # game/code/Book-1/Chapter-7s/s09.rpy:467
 translate french b1c01ss09_fight_adb0d43c:
@@ -710,7 +710,7 @@ translate french b1c01ss09_fight_end_460b4dbd:
 translate french b1c01ss09_fight_end_9f75775a:
 
     # ass "GREAT JOB FUCKASS, YOU RUINED IT FOR EVERYONE!"
-    ass "BEAU TRAVAIL CONNARD, TU AS GÂCHÉ TOUT POUR TOUT LE MONDE!"
+    ass "BEAU TRAVAIL CONNASSE, TU AS GÂCHÉE LA SOIREE POUR TOUT LE MONDE!"
 
 # game/code/Book-1/Chapter-7s/s09.rpy:502
 translate french b1c01ss09_fight_end_9ca5ff0a:
@@ -746,7 +746,7 @@ translate french b1c01ss09_fight_end_7c83ef02:
 translate french b1c01ss09_fight_end_c6357faa:
 
     # ass "Don't be an ass."
-    ass "Ne sois pas un con."
+    ass "Ne sois pas un conne."
 
 # game/code/Book-1/Chapter-7s/s09.rpy:518
 translate french b1c01ss09_fight_end_d61774b7:
@@ -764,13 +764,13 @@ translate french b1c01ss09_fight_end_775fa1ef:
 translate french b1c01ss09_fight_end_a1189844:
 
     # mg "I feel so special."
-    mg "Je me sens tellement spécial."
+    mg "Je me sens tellement spéciale."
 
 # game/code/Book-1/Chapter-7s/s09.rpy:525
 translate french b1c01ss09_fight_end_9aeaa266:
 
     # ass "You are special! You bring a lot of customers to this place."
-    ass "Tu es spécial! Tu amènes beaucoup de clients ici."
+    ass "Mais tu es spéciale! Tu amènes beaucoup de clients ici."
 
 # game/code/Book-1/Chapter-7s/s09.rpy:527
 translate french b1c01ss09_fight_end_490147b5:
@@ -830,7 +830,7 @@ translate french b1c01ss09_fight_end_d6b5fc41:
 translate french b1c01ss09_fight_end_7f61cbd2:
 
     # mg "Aw, my hero. Thank you, I appreciate it. But I'm fine, I swear."
-    mg "Oh, mon héros. Merci, je l'apprécie. Mais ça va, je te jure."
+    mg "Oh, mon héros. Merci, j'apprécie. Mais ça va, je te jure."
 
 # game/code/Book-1/Chapter-7s/s09.rpy:557
 translate french b1c01ss09_fight_end_d1fba07c:
@@ -848,7 +848,7 @@ translate french b1c01ss09_fight_end_f36c6db3:
 translate french b1c01ss09_fight_end_b9710271:
 
     # ass "I'll catch up to you later."
-    ass "Je vais te rattraper plus tard."
+    ass "Je vais te rejoins plus tard."
 
 # game/code/Book-1/Chapter-7s/s09.rpy:566
 translate french b1c01ss09_fight_end_55fac4b6:

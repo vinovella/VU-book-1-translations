@@ -3,7 +3,7 @@
 translate french b1c08ss02_c81fe33e:
 
     # mg "Whoever took them needs to fucking pay."
-    mg "Celui qui les a pris doit payer putain."
+    mg "Celui qui les a enlevés doit payer putain."
 
 # game/code/Book-1/Chapter-8s/s02.rpy:24
 translate french b1c08ss02_cc1cee9a:
@@ -15,7 +15,7 @@ translate french b1c08ss02_cc1cee9a:
 translate french b1c08ss02_06c7911b:
 
     # fox "Maybe they ran away. All had considerable debts..."
-    fox "Peut-être qu'ils se sont échappés. Tous avaient des dettes considérables..."
+    fox "Peut-être qu'ils se sont échappés. Ils avaient tous des dettes considérables..."
 
 # game/code/Book-1/Chapter-8s/s02.rpy:35
 translate french b1c08ss02_6d55ab0f:
@@ -27,13 +27,13 @@ translate french b1c08ss02_6d55ab0f:
 translate french b1c08ss02_a26225b4:
 
     # mg "Of course they didn't fucking run. Are you out of your goddamn mind, Foxy?"
-    mg "Bien sûr qu'ils ne se sont pas échappés. T'es complètement fou, Foxy?"
+    mg "Bien sûr qu'ils ne se sont pas échappés. T'es complètement folle, Foxy?"
 
 # game/code/Book-1/Chapter-8s/s02.rpy:41
 translate french b1c08ss02_7b0e61dc:
 
     # xv "Everyone calm down. They may be fine, just got caught up somewhere. Zem will be here s—"
-    xv "Tout le monde calme-toi. Ils vont bien, ils se sont juste retrouvés coincés quelque part. Zem sera ici s—"
+    xv "Tout le monde ce calme. Ils vont bien, ils se sont juste retrouvés coincés quelque part. Zem sera ici s—"
 
 # game/code/Book-1/Chapter-8s/s02.rpy:46
 translate french b1c08ss02_5610b929:
@@ -45,7 +45,7 @@ translate french b1c08ss02_5610b929:
 translate french b1c08ss02_55cc8e18:
 
     # xv "Why'd you bring this preppy trash in here?"
-    xv "Pourquoi t'as amené ce déchet préppy ici?"
+    xv "Pourquoi as-tu amené cette poubelle BCBG ici?"
 
 # game/code/Book-1/Chapter-8s/s02.rpy:52
 translate french b1c08ss02_c932015e:
@@ -123,7 +123,7 @@ translate french b1c08ss02_56ea604e:
 translate french b1c08ss02_dfbcb890:
 
     # mg "Cade's ass is grass when I get my hands on him."
-    mg "Le cul de Cade est en danger quand je mets la main sur lui."
+    mg "Le cul de Cade est en danger quand je mettrai la main sur lui."
 
 # game/code/Book-1/Chapter-8s/s02.rpy:87
 translate french b1c08ss02_c086bcbe:
@@ -177,7 +177,7 @@ translate french b1c08ss02_8bbee785:
 translate french b1c08ss02_411f3b2f:
 
     # fox "We don't even know if the cam workers are there. This seems like a huge risk to take."
-    fox "On ne sait même pas si les travailleurs de la cam sont là. Ça semble être un risque énorme."
+    fox "On ne sait même pas si les camistes sont là. Cela semble être un risque énorme à prendre."
 
 # game/code/Book-1/Chapter-8s/s02.rpy:115
 translate french b1c08ss02_32b03cbc:
@@ -195,7 +195,7 @@ translate french b1c08ss02_1e6677a4:
 translate french b1c08ss02_7aff2b65:
 
     # fox "Of course not. But we need to be sure before we just go storming in there."
-    fox "Bien sûr que non. Mais on doit être sûrs avant d'y foncer comme ça."
+    fox "Bien sûr que non. Mais nous devons en être sûrs avant de nous précipiter là-dedans."
 
 # game/code/Book-1/Chapter-8s/s02.rpy:124
 translate french b1c08ss02_def6f6fc:
@@ -279,7 +279,7 @@ translate french b1c08ss02_13e15399:
 translate french b1c08ss02_c643c009:
 
     # zp "You don't wanna involve anymore Syndicate members? Fine. But we could still use some discreet extra hands for the rescue."
-    zp "Tu ne veux plus impliquer d'autres membres du Syndicat? Très bien. Mais on pourrait quand même avoir besoin de quelques mains discrètes pour le sauvetage."
+    zp "Tu ne veux plus impliquer d'autres membres du Syndicat? Très bien. Mais on pourrait quand même avoir besoin de quelques mains discrètes supplémentaires pour le sauvetage."
 
 # game/code/Book-1/Chapter-8s/s02.rpy:161
 translate french b1c08ss02_a73ae7e3:
@@ -327,7 +327,7 @@ translate french b1c08ss02_430277ec:
 translate french b1c08ss02_f9dd2c65:
 
     # mg "So you're gonna risk the mission by not involving him at all, and spreading us thin? How the fuck does that make sense?"
-    mg "Tu vas risquer la mission en ne l'impliquant pas du tout et en nous éparpillant? Ça a quel putain de sens?"
+    mg "Donc tu vas risquer la mission en ne l'impliquant pas du tout et en nous éparpillant ? En quoi ça a du sens, putain?"
 
 # game/code/Book-1/Chapter-8s/s02.rpy:183
 translate french b1c08ss02_a99dfaf0:
@@ -417,7 +417,7 @@ translate french b1c08ss02_80181119:
 translate french b1c08ss02_7cfe4f68:
 
     # mg "So what're we gonna do if the Wasps did this? We can't let them just get away with it."
-    mg "Alors, on fait quoi si les Wasps ont fait ça? On peut pas les laisser s'en tirer comme ça."
+    mg "Alors, on fait quoi si les Abeilles ont fait ça? On peut pas les laisser s'en tirer comme ça."
 
 # game/code/Book-1/Chapter-8s/s02.rpy:224
 translate french b1c08ss02_81e7b995:
@@ -453,7 +453,7 @@ translate french b1c08ss02_03c6fdf6:
 translate french b1c08ss02_48eeb63c:
 
     # xv "Take Fresh Meat over there, and drive the boat out to the warehouse."
-    xv "Emmène Fresh Meat là-bas, et conduis le bateau jusqu'à l'entrepôt."
+    xv "Emmène Foxy là-bas, et conduis le bateau jusqu'à l'entrepôt."
 
 # game/code/Book-1/Chapter-8s/s02.rpy:235
 translate french b1c08ss02_11032089:
@@ -543,7 +543,7 @@ translate french b1c08ss02_d863d7fe:
 translate french b1c08ss02_3c095249:
 
     # mc "I wouldn't be here if I didn't think I could handle it. Whatever you need, I'm here. Q and the girls are my friends as well. I don't want them in harm's way."
-    mc "Je ne serais pas ici si je pensais pas pouvoir le gérer. Quoi que tu aies besoin, je suis là. Q et les filles sont aussi mes amies. Je ne veux pas les mettre en danger."
+    mc "Je ne serais pas ici si je pensais pas pouvoir la gérer. Quoi que tu aies besoin, je suis là. Q et les filles sont aussi mes amies. Je ne veux pas les mettre en danger."
 
 # game/code/Book-1/Chapter-8s/s02.rpy:282
 translate french b1c08ss02_d9f3fd78:
@@ -555,7 +555,7 @@ translate french b1c08ss02_d9f3fd78:
 translate french b1c08ss02_4db13ba7:
 
     # fox "We'll scout under the cover of night so it's harder to see the boat."
-    fox "On va explorer sous couvert de la nuit pour que le bateau soit plus difficile à repérer."
+    fox "Nous effectuerons des reconnaissances sous le couvert de la nuit donc il sera plus difficile de voir le bateau."
 
 # game/code/Book-1/Chapter-8s/s02.rpy:286
 translate french b1c08ss02_56bba2c6:

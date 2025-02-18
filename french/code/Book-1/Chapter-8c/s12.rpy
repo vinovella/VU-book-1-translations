@@ -20,7 +20,7 @@ translate french b1c08cs12_694e5826:
 translate french b1c08cs12_17422f74:
 
     # "You wonder how much of that \"everything\" Nia even comprehends. How much she's even willing to see."
-    "Tu te demandes combien de cet \"tout\" Nia comprend vraiment. Combien elle est prête à voir."
+    "Tu te demandes dans quelle mesure Nia comprend ce \"tout\". Combien elle est prête à voir.."
 
 # game/code/Book-1/Chapter-8c/s12.rpy:62
 translate french b1c08cs12_db6c5194:
@@ -38,7 +38,7 @@ translate french b1c08cs12_72e7214e:
 translate french b1c08cs12_48c227eb:
 
     # mc "Mhm. Just...thinking about everything that has happened."
-    mc "Mhm. Juste...pensant à tout ce qui s'est passé."
+    mc "Mhm. Juste...je pense à tout ce qui s'est passé."
 
 # game/code/Book-1/Chapter-8c/s12.rpy:69
 translate french b1c08cs12_3168c07f:
@@ -68,7 +68,7 @@ translate french b1c08cs12_425ef363:
 translate french b1c08cs12_9f777984:
 
     # nv "I feel warm, comforted. And every memory adds to that; everything I did, everything I saw..."
-    nv "Je me sens chaleureuse, réconfortée. Et chaque souvenir y ajoute ; tout ce que j'ai fait, tout ce que j'ai vu..."
+    nv "Je me sens chaleureuse, réconfortée. Et chaque souvenir y ajoute, tout ce que j'ai fait, tout ce que j'ai vu..."
 
 # game/code/Book-1/Chapter-8c/s12.rpy:79
 translate french b1c08cs12_5ec077f9:
@@ -194,7 +194,7 @@ translate french b1c08cs12_d37f7196:
 translate french b1c08cs12_e5aca150:
 
     # nv "Lumi needed a push to trust herself again. And that's the push they gave. That's the push they trusted you to give her."
-    nv "Lumi avait besoin d'un coup de pouce pour se faire confiance à nouveau. Et c'est ce coup de pouce qu'ils lui ont donné. C'est ce coup de pouce qu'ils comptaient sur toi pour lui donner."
+    nv "Lumi avait besoin d'un coup de pouce pour se faire confiance à nouveau. Et c'est ce coup de pouce qu'ils lui ont donné. C'est le coup de pouce qu'ils t'ont fait confiance pour lui donner"
 
 # game/code/Book-1/Chapter-8c/s12.rpy:150
 translate french b1c08cs12_8a5bb4d8:
@@ -248,7 +248,7 @@ translate french b1c08cs12_3d74f4b0:
 translate french b1c08cs12_9f9a989a:
 
     # mct "*Sighs* She's too locked in. I can't change her mind. We're just gonna end up arguing if I keep pushing this."
-    mct "*Soupire* Elle est trop enfermée dans ses pensées. Je ne peux pas lui changer d'avis. On va juste finir par se disputer si je continue à insister."
+    mct "*Soupire* Elle est trop enfermée dans ses pensées. Je ne peux pas lui faire changer d'avis. On va juste finir par se disputer si je continue à insister."
 
 # game/code/Book-1/Chapter-8c/s12.rpy:171
 translate french b1c08cs12_f982aaac:
@@ -308,7 +308,7 @@ translate french b1c08cs12_de168b70:
 translate french b1c08cs12_b99e0a4b:
 
     # mct "How comforting a single narrative can be. How blind it makes her to other truths."
-    mct "Comme une seule narration peut être réconfortante. Comme cela la rend aveugle aux autres vérités."
+    mct "Comment une seule narration peut être réconfortante. Commeent cela la rend aveugle aux autres vérités."
 
 # game/code/Book-1/Chapter-8c/s12.rpy:191
 translate french b1c08cs12_c02ecb1f:
@@ -326,7 +326,7 @@ translate french b1c08cs12_a82099a3:
 translate french b1c08cs12_dceea664:
 
     # "Nia grabs onto you desperately. As if loosening her grip, even a little, would wash her away into an abyss without you."
-    "Nia s'accroche à toi désespérément. Comme si desserrer sa prise, même un peu, la ferait disparaître dans un abîme sans toi."
+    "Nia s'accroche à toi désespérément. Comme pour desserrer son emprise, même un peu, la ferait disparaître dans un abîme sans toi."
 
 # game/code/Book-1/Chapter-8c/s12.rpy:196
 translate french b1c08cs12_91da102a:

@@ -20,7 +20,7 @@ translate french b1c09s07_0db4d85d:
 translate french b1c09s07_4804d19f:
 
     # ima "Hello? Hel— Ugh, prick."
-    ima "Allô? Hel— Ugh, connard."
+    ima "Allô? Hel— Pouah, connard."
 
 # game/code/Book-1/Chapter-9/s07.rpy:79
 translate french b1c09s07_148d6dfb:
@@ -50,7 +50,7 @@ translate french b1c09s07_06686c30:
 translate french b1c09s07_2a5e70ae:
 
     # ima "Of course not. They're all sleeping off hangovers or gone for classes. Lazy pricks."
-    ima "Bien sûr que non. Ils sont tous en train de dormir leur gueule de bois ou partis en cours. Bande de fainéants."
+    ima "Bien sûr que non. Ils dorment tous à cause de la gueule de bois ou sont partis en cours. Bande de fainéants."
 
 # game/code/Book-1/Chapter-9/s07.rpy:92
 translate french b1c09s07_3d414fd8:
@@ -188,7 +188,7 @@ translate french b1c09s07_35d66d70:
 translate french b1c09s07_ae0a81e6:
 
     # ima "But first, let's get you dried off, shall we? There's some towels in the living room of the mansion."
-    ima "Mais d'abord, séchons-toi, d'accord? Il y a des serviettes dans le salon du manoir."
+    ima "Mais d'abord, séche-toi, d'accord? Il y a des serviettes dans le salon du manoir."
 
 # game/code/Book-1/Chapter-9/s07.rpy:213
 translate french b1c09s07_ima_sex_1db969f9:
@@ -284,13 +284,13 @@ translate french b1c09s07_ima_sex_8ed572c5:
 translate french b1c09s07_ima_sex_e6205a8d:
 
     # ima "Fuck, you're bigger than I thought."
-    ima "Putain, tu es plus grand que je ne le pensais."
+    ima "Putain, tu es plus gros que je ne le pensais."
 
 # game/code/Book-1/Chapter-9/s07.rpy:276
 translate french b1c09s07_ima_sex_aebbdf80:
 
     # mc "What, am I too big for you?"
-    mc "Quoi, je suis trop grand pour toi?"
+    mc "Quoi, je suis trop gros pour toi?"
 
 # game/code/Book-1/Chapter-9/s07.rpy:277
 translate french b1c09s07_ima_sex_71d99193:
@@ -416,7 +416,7 @@ translate french b1c09s07_ima_sex_5b2d0333:
 translate french b1c09s07_ima_sex_4962a8b7:
 
     # ima "Mm! I'm cumming."
-    ima "Mm! Je jouis."
+    ima "Mm! Je jouie."
 
 # game/code/Book-1/Chapter-9/s07.rpy:443
 translate french b1c09s07_ima_sex_41c88bfc:
@@ -476,7 +476,7 @@ translate french b1c09s07_after_a64e8bc0:
 translate french b1c09s07_after_f07a0127:
 
     # ima "Shit, I should take this. It's probably for the party. I trust you can see yourself out?"
-    ima "Merde, je devrais prendre ça. C'est probablement pour la fête. J'espère que tu peux t'accompagner?"
+    ima "Merde, je devrais repondre. C'est probablement pour la fête. J'espère que tu peux te raccompagner seul?"
 
 # game/code/Book-1/Chapter-9/s07.rpy:502
 translate french b1c09s07_after_f4487604:
@@ -494,7 +494,7 @@ translate french b1c09s07_after_8bf550d6:
 translate french b1c09s07_after_a2b84da8:
 
     # mct "Alright, I should look for Klara's room now. I'm sure they've cleaned it, but there might be {i}something{/i} of use there."
-    mct "Très bien, je devrais chercher la chambre de Klara maintenant. Je suis sûr qu'ils l'ont nettoyée, mais il pourrait y avoir {i}quelque chose{/i} d'utilité là-bas."
+    mct "Très bien, je devrais chercher la chambre de Klara maintenant. Je suis sûr qu'ils l'ont nettoyée, mais il pourrait y avoir {i}quelque chose{/i} d'utile là-bas."
 
 # game/code/Book-1/Chapter-9/s07.rpy:513
 translate french b1c09s07_after_25e42f9a:
@@ -548,7 +548,7 @@ translate french b1c09s07_after_7b4173c6:
 translate french b1c09s07_after_3e385108:
 
     # mct "For being so worried and somber, The Winner's Club sure didn't take their time getting rid of everything..." id b1c09s07_after_3e385108
-    mct "Pour être aussi inquiets et graves, le Club des Gagnants n'a pas vraiment pris son temps pour se débarrasser de tout..."
+    mct "Pour être aussi inquiets et graves, le Club des Winner's n'a pas vraiment pris son temps pour se débarrasser de tout..."
 
 # game/code/Book-1/Chapter-9/s07.rpy:544
 translate french b1c09s07_after_895a1300:
@@ -620,7 +620,7 @@ translate french b1c09s07_after_2d2c8ca9:
 translate french b1c09s07_after_8101b4fe:
 
     # "???" "But what I don't understand is why you went against the protocol I have laid out for you; why you waited until the last minute to give it out when I explicitly told you not to."
-    "???" "Mais ce que je ne comprends pas, c'est pourquoi tu as ignoré le protocole que j'ai mis en place pour toi ; pourquoi tu as attendu la dernière minute pour le donner alors que je t'avais explicitement dit de ne pas le faire."
+    "???" "Mais ce que je ne comprends pas, c'est pourquoi tu as ignoré le protocole que j'ai mis en place pour toi, pourquoi tu as attendu la dernière minute pour le donner alors que je t'avais explicitement dit de ne pas le faire."
 
 # game/code/Book-1/Chapter-9/s07.rpy:575
 translate french b1c09s07_after_66c2d355:
@@ -728,7 +728,7 @@ translate french b1c09s07_after_716e92fb:
 translate french b1c09s07_after_bf6632d3:
 
     # pjh "It's nice to see you energized, though. Only fierce competition breeds us Winners."
-    pjh "C'est agréable de te voir énergique. Seule une concurrence féroce nous fait devenir des Gagnants."
+    pjh "C'est agréable de te voir énergique. Seule une concurrence féroce nous fait devenir des Winners."
 
 # game/code/Book-1/Chapter-9/s07.rpy:619
 translate french b1c09s07_after_4a6dfa83:
@@ -788,7 +788,7 @@ translate french strings:
 
     # game/code/Book-1/Chapter-9/s07.rpy:47
     old "At the Winner's Mansion"
-    new "Au manoir du gagnant"
+    new "Au manoir des Winner's"
 
     # game/code/Book-1/Chapter-9/s07.rpy:174
     old "I'm at your service"

@@ -146,7 +146,7 @@ translate french b1c08ss04_dbd4d92a:
 translate french b1c08ss04_08346158:
 
     # fox "Or been through as much."
-    fox "Ou traversé autant de choses."
+    fox "Ou j'ai vécue autant de choses."
 
 # game/code/Book-1/Chapter-8s/s04.rpy:128
 translate french b1c08ss04_9d4ed1df:
@@ -188,7 +188,7 @@ translate french b1c08ss04_84e06f5e:
 translate french b1c08ss04_b28ec88f:
 
     # xv "Trust me, Fox. We've got to hit 'em fast. The longer Q and those girls are there, the more danger they're in."
-    xv "Fais-moi confiance, Fox. On doit les frapper vite. Plus Q et ces filles restent là, plus elles sont en danger."
+    xv "Fais-moi confiance, Fox. On doit les frapper fort et vite. Plus Q et ces filles restent là, plus ils sont en danger."
 
 # game/code/Book-1/Chapter-8s/s04.rpy:148
 translate french b1c08ss04_399460b9:
@@ -224,19 +224,19 @@ translate french b1c08ss04_962ba87d:
 translate french b1c08ss04_7f00c0d1:
 
     # xv "And if anything does go wrong, I'll be the one at risk. Zem will cover things here until we can regroup."
-    xv "Et si quelque chose va mal, ce sera moi qui serai en danger. Zem s'occupera des choses ici jusqu'à ce qu'on puisse se regrouper."
+    xv "Et si quelque chose tourne mal, ce sera moi qui serai en danger. Zem s'occupera des choses ici jusqu'à ce qu'on puisse se regrouper."
 
 # game/code/Book-1/Chapter-8s/s04.rpy:162
 translate french b1c08ss04_87cb9584:
 
     # fox "So that rich brat is who we're subjected to if anything happens to you? This is a shitfucked plan, Xasan!"
-    fox "Donc ce petit riche est celui à qui on devra obéir si quelque chose t'arrive? Ce plan est complètement foutu, Xasan!"
+    fox "Donc c'est à cette gosse de riche que nous serons devront obeir si quelque chose t'arrive ? C'est un plan complétement merdique, Xasan!"
 
 # game/code/Book-1/Chapter-8s/s04.rpy:166
 translate french b1c08ss04_7b4a7a16:
 
     # zp "Watch your fuckin' mouth, you sour bitch."
-    zp "Fermes ta putain de bouche, salope aigrie."
+    zp "Fermes ta putain de gueule, espèce de salope aigre."
 
 # game/code/Book-1/Chapter-8s/s04.rpy:169
 translate french b1c08ss04_d2c4e03e:
@@ -266,7 +266,7 @@ translate french b1c08ss04_d43841c4:
 translate french b1c08ss04_b71ad29a:
 
     # xv "You're not one of us, rookie. You don't get to make choices here."
-    xv "T'es pas l'un de nous, rookie. Tu n'as pas à prendre des décisions ici."
+    xv "T'es pas l'un d'entre nous, le rookie. Tu n'as pas à prendre des décisions ici."
 
 # game/code/Book-1/Chapter-8s/s04.rpy:185
 translate french b1c08ss04_77d9d961:
@@ -284,7 +284,7 @@ translate french b1c08ss04_eed8b9da:
 translate french b1c08ss04_fa7e8c08:
 
     # mc "The Wasps need to be taught a lesson. We should hit them fast so it doesn't seem like we're panicking and lack the ability to care for our own."
-    mc "Les Wasps doivent recevoir une leçon. On doit les frapper rapidement pour ne pas donner l'impression qu'on panique et qu'on manque de capacité à prendre soin des nôtres."
+    mc "Les Guêpes doivent recevoir une leçon. On doit les frapper rapidement pour ne pas donner l'impression qu'on panique et qu'on manque de capacité à prendre soin des nôtres."
 
 # game/code/Book-1/Chapter-8s/s04.rpy:196
 translate french b1c08ss04_e4bccc08:
@@ -356,7 +356,7 @@ translate french b1c08ss04_591a6634:
 translate french b1c08ss04_0da3f674:
 
     # zp "If anything goes wrong, I'll take charge."
-    zp "Si quelque chose va mal, je prendrai le commandement."
+    zp "Si quelque chose tourne mal, je prendrai le commandement."
 
 # game/code/Book-1/Chapter-8s/s04.rpy:231
 translate french b1c08ss04_1268cf6a:
@@ -398,7 +398,7 @@ translate french b1c08ss04_cae5c3e8:
 translate french b1c08ss04_d56a76b0:
 
     # "The fate of Q and the girls is a relentless and overwhelming affliction on your shoulders."
-    "Le destin de Q et des filles est une affliction implacable et accablante sur tes épaules."
+    "Le destin de Q et des filles est une préssion implacable et accablante sur tes épaules."
 
 # game/code/Book-1/Chapter-8s/s04.rpy:248
 translate french b1c08ss04_01195fa1:
@@ -416,7 +416,7 @@ translate french b1c08ss04_8812630d:
 translate french b1c08ss04_a89b6e37:
 
     # xv "We'll sneak in under the cover of dark. [mcname] will man the boat."
-    xv "On s'infiltrera sous couvert de la nuit. [mcname] manquera le bateau."
+    xv "On s'infiltrera sous couvert de la nuit. [mcname] va s'occuper du bateau."
 
 # game/code/Book-1/Chapter-8s/s04.rpy:255
 translate french b1c08ss04_7aabf3e7:
@@ -512,7 +512,7 @@ translate french b1c08ss04_a7e7e9c1:
 translate french b1c08ss04_e677605d:
 
     # xv "Those Wasps will know the cost of crossing The Syndicate."
-    xv "Ces Guêpes sauront le prix à payer pour avoir traversé Le Syndicat."
+    xv "Ces Guêpes connaîtrons le prix à payer pour s'être attaqué Le Syndicat."
 
 # game/code/Book-1/Chapter-8s/s04.rpy:290
 translate french b1c08ss04_535cc41b:
@@ -530,7 +530,7 @@ translate french b1c08ss04_23fed92f:
 translate french b1c08ss04_62f337c4:
 
     # zp "You two are roomed with Asami."
-    zp "Vous deux êtes logés avec Asami."
+    zp "Vous êtes tous les deux en chambre avec Asami."
 
 # game/code/Book-1/Chapter-8s/s04.rpy:298
 translate french b1c08ss04_526d84e7:
@@ -614,7 +614,7 @@ translate french b1c08ss04_zp_left_6ac69c20:
 translate french b1c08ss04_zp_left_35c40b47:
 
     # ass "Makes sense, I guess. Quentin can never keep his mouth shut."
-    ass "Ça se comprend, je suppose. Quentin ne peut jamais fermer sa bouche."
+    ass "Ça se comprend, je suppose. Quentin ne peut jamais fermer sa gueule."
 
 # game/code/Book-1/Chapter-8s/s04.rpy:348
 translate french b1c08ss04_zp_left_de6257c2:
@@ -638,13 +638,13 @@ translate french b1c08ss04_zp_left_8731827d:
 translate french b1c08ss04_zp_left_ffb2d778:
 
     # ass "Agreed."
-    ass "D'accord."
+    ass "je suis d'accord."
 
 # game/code/Book-1/Chapter-8s/s04.rpy:365
 translate french b1c08ss04_zp_left_b4cc086c:
 
     # ass "No offense, but we've been here longer and seen more. The Wasps are more than just posers."
-    ass "Sans vouloir offenser, mais nous sommes ici depuis plus longtemps et avons vu plus de choses. Les Guêpes sont plus que de simples imposteurs."
+    ass "Sans vouloir t'offenser, mais nous sommes ici depuis plus longtemps et avons vu plus de choses. Les Guêpes sont plus que de simples imposteurs."
 
 # game/code/Book-1/Chapter-8s/s04.rpy:369
 translate french b1c08ss04_zp_left_05428bd3:
@@ -734,13 +734,13 @@ translate french b1c08ss04_zp_left_68634f38:
 translate french b1c08ss04_zp_left_8a9f2715:
 
     # ass "But she cares for all the cam workers very much."
-    ass "Mais elle tient beaucoup à tous les travailleurs de la caméra."
+    ass "Mais elle tient beaucoup à tous les travailleurs de la cam."
 
 # game/code/Book-1/Chapter-8s/s04.rpy:410
 translate french b1c08ss04_zp_left_829fb228:
 
     # fox "We'll get them back to her safely."
-    fox "On va les ramener sains et saufs à elle."
+    fox "On va les lui ramener tous sains et saufs."
 
 # game/code/Book-1/Chapter-8s/s04.rpy:413
 translate french b1c08ss04_zp_left_7b606ad6:
@@ -776,7 +776,7 @@ translate french b1c08ss04_zp_left_9995437f:
 translate french b1c08ss04_zp_left_c6720da7:
 
     # fox "We're gonna rock their shit and get the cam workers back safely."
-    fox "On va leur casser la gueule et ramener les travailleurs de la caméra sains et saufs."
+    fox "On va leur casser la gueule et ramener les travailleurs de la cam sains et saufs."
 
 # game/code/Book-1/Chapter-8s/s04.rpy:439
 translate french b1c08ss04_zp_left_b8e2a1a4:
@@ -800,7 +800,7 @@ translate french b1c08ss04_zp_left_dccaf697:
 translate french b1c08ss04_zp_left_c9c60c71:
 
     # ass "You go ahead. We're holed up in room 17. There's blankets and whatnot for you."
-    ass "Vas-y, nous on est planquées dans la chambre 17. Il y a des couvertures et tout ce qu'il faut pour vous."
+    ass "Allez-y. On est enfermés dans la chambre 17. Il y a des couvertures et tout pour toi."
 
 # game/code/Book-1/Chapter-8s/s04.rpy:457
 translate french b1c08ss04_zp_left_00136b6b:
@@ -866,7 +866,7 @@ translate french b1c08ss04_zp_left_b892590b:
 translate french b1c08ss04_zp_left_e4c05963:
 
     # ass "And that shot did fuck all. You wanna help me out?"
-    ass "Et cette injection n'a rien fait. Tu veux m'aider?"
+    ass "Et cette injection d'alcool n'a rien fait. Tu veux m'aider?"
 
 # game/code/Book-1/Chapter-8s/s04.rpy:501
 translate french b1c08ss04_zp_left_6548b0d0:
@@ -908,7 +908,7 @@ translate french b1c08ss04_zp_left_9ee23e58:
 translate french b1c08ss04_zp_left_08b2faae:
 
     # mc "Let's get you to bed."
-    mc "Allons te coucher."
+    mc "Allons te mettre au lit."
 
 # game/code/Book-1/Chapter-8s/s04.rpy:539
 translate french b1c08ss04_zp_left_d720b0e8:
@@ -926,7 +926,7 @@ translate french b1c08ss04_zp_left_e60c083a:
 translate french b1c08ss04_zp_left_4fba2db3:
 
     # mct "Although the Wasps could just be posers, that doesn't mean that dangerous things can't happen."
-    mct "Bien que les Wasps puissent être juste des imposteurs, cela ne signifie pas que des choses dangereuses ne peuvent pas arriver."
+    mct "Même si les guêpes ne sont peut-être que des frimeurs, cela ne veut pas dire que des choses dangereuses ne peuvent pas se produire.."
 
 # game/code/Book-1/Chapter-8s/s04.rpy:544
 translate french b1c08ss04_zp_left_c2dcf28d:
@@ -962,7 +962,7 @@ translate french b1c08ss04_sex_8b36b13b:
 translate french b1c08ss04_sex_1520f056:
 
     # "Together, you seek solace in each other's presence, finding comfort in the connection that formed in the severity of your circumstances."
-    "Ensemble, vous cherchez du réconfort dans la présence de l'autre, trouvant du soulagement dans la connexion qui s'est formée dans la gravité de vos circonstances."
+    "Ensemble, vous cherchez du réconfort dans la présence de l'autre, trouvant du soulagement dans la connexion qui s'est formée dans la gravité de la situation."
 
 # game/code/Book-1/Chapter-8s/s04.rpy:562
 translate french b1c08ss04_sex_2925ee08:
@@ -1040,7 +1040,7 @@ translate french b1c08ss04_sex_e6484dcb:
 translate french b1c08ss04_sex_36400b1e:
 
     # mc "You like giving it up so easily for me, don't you?"
-    mc "Tu aimes abandonner si facilement pour moi, n'est-ce pas?"
+    mc "Tu aimes t'abandonner si facilement pour moi, n'est-ce pas?"
 
 # game/code/Book-1/Chapter-8s/s04.rpy:633
 translate french b1c08ss04_sex_006bed23:
@@ -1106,7 +1106,7 @@ translate french b1c08ss04_sex_64bd779a:
 translate french b1c08ss04_sex_60eb38f8:
 
     # ass "I'm so close to cumming!"
-    ass "Je suis si près d'éjaculer!"
+    ass "Je suis si près de jouir!"
 
 # game/code/Book-1/Chapter-8s/s04.rpy:740
 translate french b1c08ss04_sex_01f21c66:
@@ -1124,13 +1124,13 @@ translate french b1c08ss04_sex_e11d9012:
 translate french b1c08ss04_sex_4905a8d4:
 
     # "Her body reacts in kind, tightening around you, wanting to milk every last drop of cum from you."
-    "Son corps réagit de la même manière, se resserrant autour de vous, voulant extraire jusqu'à la dernière goutte de sperme de votre part."
+    "Son corps réagit de la même manière, se resserrant autour de vous, voulant extraire jusqu'à la dernière goutte de sperme de vos couilles."
 
 # game/code/Book-1/Chapter-8s/s04.rpy:757
 translate french b1c08ss04_sex_f689dbc0:
 
     # ass "I'm c-cumming!"
-    ass "Je jouis!"
+    ass "Je jouies!"
 
 # game/code/Book-1/Chapter-8s/s04.rpy:758
 translate french b1c08ss04_sex_cb160f8e:
@@ -1160,7 +1160,7 @@ translate french b1c08ss04_sex_01714dcb:
 translate french b1c08ss04_sex_bc666b09:
 
     # mc "Anytime."
-    mc "À tout moment."
+    mc "Quand tu veux ma belle."
 
 # game/code/Book-1/Chapter-8s/s04.rpy:777
 translate french b1c08ss04_sex_fa25e5d9:
@@ -1172,7 +1172,7 @@ translate french b1c08ss04_sex_fa25e5d9:
 translate french b1c08ss04_sex_6b27f870:
 
     # ass "You felt so good against me..."
-    ass "Tu te sentais si bien contre moi..."
+    ass "Tu étais si bon contre moi..."
 
 # game/code/Book-1/Chapter-8s/s04.rpy:781
 translate french b1c08ss04_sex_3b935508:
@@ -1196,25 +1196,25 @@ translate french b1c08ss04_sex_b9c0f8d2:
 translate french b1c08ss04_room_8f98acb8:
 
     # ass "*Whispers* Damn it, I asked them to move a makeshift mattress in here."
-    ass "*Chuchote* Bon sang, je leur ai demandé de déplacer un matelas de fortune ici."
+    ass "*Chuchote* Bon sang, je leur ai demandée de déplacer un matelas de fortune ici."
 
 # game/code/Book-1/Chapter-8s/s04.rpy:811
 translate french b1c08ss04_room_b3b2228d:
 
     # mc "*Whispers* It's alright. I'll take the floor."
-    mc "*Chuchote* Tout va bien. Je vais prendre la parole."
+    mc "*Chuchote* Tout va bien. Je vais prendre le sol."
 
 # game/code/Book-1/Chapter-8s/s04.rpy:814
 translate french b1c08ss04_room_6be12686:
 
     # mc "I've had worse sleeping arrangements before."
-    mc "J'ai déjà eu des conditions de sommeil pires."
+    mc "J'ai déjà eu des conditions de sommeil bien pires que ça."
 
 # game/code/Book-1/Chapter-8s/s04.rpy:817
 translate french b1c08ss04_room_9b2629d0:
 
     # fox "Oh, there you two are. What time is it?"
-    fox "Oh, vous y êtes tous les deux. Quelle heure est-il?"
+    fox "Oh, vous êtes la tous les deux. Quelle heure est-il?"
 
 # game/code/Book-1/Chapter-8s/s04.rpy:821
 translate french b1c08ss04_room_020fc6d9:
@@ -1232,7 +1232,7 @@ translate french b1c08ss04_room_c809c199:
 translate french b1c08ss04_room_3bd59324:
 
     # mc "Juste un peu. On sera prêts pour la mission, ne vous inquiétez pas."
-    mc "Juste un peu. On sera prêts pour la mission, ne vous inquiétez pas."
+    mc "Juste un peu. On sera prêts pour la mission, ne t'inquiéte pas."
 
 # game/code/Book-1/Chapter-8s/s04.rpy:830
 translate french b1c08ss04_room_9692153f:
@@ -1256,7 +1256,7 @@ translate french b1c08ss04_room_47ba3536:
 translate french b1c08ss04_room_6b12be24:
 
     # ass "Quelque chose comme ça. Va dormir, espèce de curieux."
-    ass "Quelque chose comme ça. Va dormir, espèce de curieux."
+    ass "Quelque chose comme ça. Va dormir, espèce de curieuse."
 
 # game/code/Book-1/Chapter-8s/s04.rpy:846
 translate french b1c08ss04_room_27f1c8c7:
@@ -1280,7 +1280,7 @@ translate french b1c08ss04_room_c850ee65:
 translate french b1c08ss04_room_675bc551:
 
     # ass "Je suis content qu'on soit ensemble pendant tout ça... Je suis content qu'on fasse équipe."
-    ass "Je suis content qu'on soit ensemble pendant tout ça... Je suis content qu'on fasse équipe."
+    ass "Je suis contente qu'on soit ensemble pendant tout ça... Je suis contente qu'on fasse équipe."
 
 # game/code/Book-1/Chapter-8s/s04.rpy:858
 translate french b1c08ss04_room_85928025:
@@ -1316,7 +1316,7 @@ translate french b1c08ss04_room_61b0e8d7:
 translate french b1c08ss04_room_33d2c2fe:
 
     # mc "Ça me fait sentir que l'on retrouvera nos amis quoi qu'il arrive. Et on ne laissera pas les Wasps s'en tirer pour ce qu'ils ont fait. On se soutient les uns les autres."
-    mc "Ça me fait sentir que l'on retrouvera nos amis quoi qu'il arrive. Et on ne laissera pas les Wasps s'en tirer pour ce qu'ils ont fait. On se soutient les uns les autres."
+    mc "Ça me fait sentir que l'on retrouvera nos amis quoi qu'il arrive. Et on ne laissera pas les Guêpes s'en tirer pour ce qu'ils ont fait. On se soutient les uns les autres."
 
 # game/code/Book-1/Chapter-8s/s04.rpy:871
 translate french b1c08ss04_room_402f7af4:
@@ -1352,7 +1352,7 @@ translate french b1c08ss04_room_3516db29:
 translate french b1c08ss04_room_7d021513:
 
     # "Tu t'allonges sur le sol, sur ton lit de camp, ressentant un sentiment de paix et de gratitude pour leur présence, malgré la situation."
-    "Tu t'allonges sur le sol, sur ton lit de camp, ressentant un sentiment de paix et de gratitude pour leur présence, malgré la situation."
+    "Tu t'allonges sur le sol, sur ton lit de fortune, ressentant un sentiment de paix et de gratitude pour leur présence, malgré la situation."
 
 # game/code/Book-1/Chapter-8s/s04.rpy:887
 translate french b1c08ss04_room_cc4c1f6f:

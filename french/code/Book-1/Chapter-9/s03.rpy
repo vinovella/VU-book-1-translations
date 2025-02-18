@@ -8,7 +8,7 @@ translate french b1c09s03_81983cac:
 translate french b1c09s03_e4f558ce:
 
     # jh "Are you...do you have classes to get to?"
-    jh "Tu... tu as des cours à aller à?"
+    jh "Tu... tu as des cours auxquels tu dois assister?"
 
 # game/code/Book-1/Chapter-9/s03.rpy:90
 translate french b1c09s03_4b76f3c3:
@@ -164,7 +164,7 @@ translate french b1c09s03_2bd72e90:
 translate french b1c09s03_2c9c3bf8:
 
     # mc "Of course you do."
-    mc "Bien sûr que tu le fais."
+    mc "Bien sûr que tu le mérite."
 
 # game/code/Book-1/Chapter-9/s03.rpy:199
 translate french b1c09s03_a74fd5c6:
@@ -188,7 +188,7 @@ translate french b1c09s03_use_mouth_f5491ca2:
 translate french b1c09s03_use_mouth_8acad9e5:
 
     # jh "O-oh! I didn't think..."
-    jh "O-oh! Je n'avais pas pensé..."
+    jh "O-oh! Je n'avais pas pensée..."
 
 # game/code/Book-1/Chapter-9/s03.rpy:222
 translate french b1c09s03_use_mouth_396a0b44:
@@ -392,7 +392,7 @@ translate french b1c09s03_continue_558a37b4:
 translate french b1c09s03_continue_7c3cc814:
 
     # "She feels herself up with her other hand, lusting for your touch."
-    "Elle se sent debout avec son autre main, avide de ton contact."
+    "Elle se sent avec son autre main, avide de ton contact."
 
 # game/code/Book-1/Chapter-9/s03.rpy:492
 translate french b1c09s03_continue_1729f00b:
@@ -512,19 +512,19 @@ translate french b1c09s03_after_sex_3f505d5d:
 translate french b1c09s03_after_sex_3b6e917e:
 
     # jh "That felt so good. You made me feel so full and satisfied."
-    jh "C'était si bon. Tu m'as fait me sentir si rassasié et satisfait."
+    jh "C'était si bon. Tu m'as fait me sentir si remplie et satisfaite."
 
 # game/code/Book-1/Chapter-9/s03.rpy:603
 translate french b1c09s03_after_sex_8252f3f7:
 
     # mc "I had no idea you were such a puddle maker."
-    mc "Je ne savais pas que tu étais un tel créateur de flaques d'eau."
+    mc "Je ne savais pas que tu étais une telle créatrice de flaques d'eau."
 
 # game/code/Book-1/Chapter-9/s03.rpy:605
 translate french b1c09s03_after_sex_5eb008f1:
 
     # jh "Me either! I don't think I've ever cum so much."
-    jh "Moi non plus! Je ne pense pas avoir jamais autant joui."
+    jh "Moi non plus! Je ne pense pas avoir jamais jouie autant."
 
 # game/code/Book-1/Chapter-9/s03.rpy:610
 translate french b1c09s03_after_sex_3287517c:
@@ -566,7 +566,7 @@ translate french b1c09s03_after_sex_67fe7676:
 translate french b1c09s03_after_sex_beb2a778:
 
     # jh "Oh yes. That felt so relaxing and blissful."
-    jh "Oh oui. C'était tellement relaxant et heureux."
+    jh "Oh oui. C'était tellement relaxant et bon."
 
 # game/code/Book-1/Chapter-9/s03.rpy:637
 translate french b1c09s03_after_sex_c00dbeab:
@@ -578,13 +578,13 @@ translate french b1c09s03_after_sex_c00dbeab:
 translate french b1c09s03_after_sex_47a789de:
 
     # jh "*Giggles* If you'd told middleschool-me that you and I would be doing {i}this{/i} in the future, she'd be aghast."
-    jh "*Rires* Si tu m'avais dit, au collège, que toi et moi ferions {i}ça{/i} à l'avenir, elle serait consternée."
+    jh "*Rires* Si tu m'avais dit, au collège, que toi et moi ferions {i}ça{/i} un jour, je ne l'aurai jamais cru."
 
 # game/code/Book-1/Chapter-9/s03.rpy:645
 translate french b1c09s03_after_sex_1554b123:
 
     # jh "All she ever imagined was holding hands and maybe kissing."
-    jh "Tout ce qu'elle avait imaginé, c'était se tenir la main et peut-être s'embrasser."
+    jh "Tout ce que j'avait imaginée, c'était se tenir la main et peut-être s'embrasser."
 
 # game/code/Book-1/Chapter-9/s03.rpy:647
 translate french b1c09s03_after_sex_0138bac1:
@@ -608,7 +608,7 @@ translate french b1c09s03_after_sex_39b2ec30:
 translate french b1c09s03_after_sex_b6ab75db:
 
     # jh "But I'm glad things ended up this way."
-    jh "Mais je suis content que les choses se soient terminées de cette façon."
+    jh "Mais je suis contente que les choses se soient terminées de cette façon."
 
 # game/code/Book-1/Chapter-9/s03.rpy:662
 translate french b1c09s03_after_sex_7afe338a:
@@ -668,13 +668,13 @@ translate french b1c09s03_after_sex_c42b05ac:
 translate french b1c09s03_after_sex_824a2561:
 
     # jh "And my connection to her is unbreakable. I know I couldn't abandon her. Even if she didn't need any help, or she and I weren't roommates...I'd still find a way to be there for her."
-    jh "Et mon lien avec elle est incassable. Je sais que je ne pouvais pas l'abandonner. Même si elle n'avait pas besoin d'aide, ou si elle et moi n'étions pas colocataires... je trouverais quand même un moyen d'être là pour son."
+    jh "Et mon lien avec elle est incassable. Je sais que je ne pourais pas l'abandonner. Même si elle n'avait pas besoin d'aide, ou si elle et moi n'étions pas colocataires... je trouverais quand même un moyen d'être là pour elle."
 
 # game/code/Book-1/Chapter-9/s03.rpy:690
 translate french b1c09s03_after_sex_3201c573:
 
     # mc "You're very sweet. And I understand."
-    mc "Tu es très gentil. Et je comprends."
+    mc "Tu es très gentille. Et je comprends."
 
 # game/code/Book-1/Chapter-9/s03.rpy:691
 translate french b1c09s03_after_sex_3499decc:
@@ -698,7 +698,7 @@ translate french b1c09s03_after_sex_eee5dcb2:
 translate french b1c09s03_after_sex_3719454d:
 
     # mc "I'd say it had a very good start at least."
-    mc "Je dirais au moins que ça a eu un très bon début."
+    mc "Mais je dirais que c'étais un très bon début de journée."
 
 # game/code/Book-1/Chapter-9/s03.rpy:711
 translate french b1c09s03_after_sex_4534bf73:
@@ -710,7 +710,7 @@ translate french b1c09s03_after_sex_4534bf73:
 translate french b1c09s03_after_sex_25c6af4e:
 
     # "You and Josie get dressed together and go about your day."
-    "Toi et Josie, habillez-vous ensemble et continuez votre journée."
+    "Toi et Josie, vous vous habillez ensemble et continuez votre journée."
 
 translate french strings:
 

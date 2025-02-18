@@ -57,13 +57,13 @@ translate french b1c08ws11_9e69040e:
 translate french b1c08ws11_81e6be92:
 
     # ir "You didn't! You slut!"
-    ir "T'as pas fait ça! Saloperie!"
+    ir "T'as pas fait ça! Petite salope!"
 
 # game/code/Book-1/Chapter-8w/s11.rpy:100
 translate french b1c08ws11_6488307a:
 
     # mm "Simon! You tattling little twat."
-    mm "Simon! Espèce de petit balance."
+    mm "Simon! Espèce de petite balance."
 
 # game/code/Book-1/Chapter-8w/s11.rpy:103
 translate french b1c08ws11_67c5d600:
@@ -75,7 +75,7 @@ translate french b1c08ws11_67c5d600:
 translate french b1c08ws11_47e2671a:
 
     # "Brigitta shoves you out of the way with her shoulder as she passes you."
-    "Brigitta te pousse de son épaule en passant près de toi."
+    "Brigitta te pousse avec son épaule en passant près de toi."
 
 # game/code/Book-1/Chapter-8w/s11.rpy:111
 translate french b1c08ws11_4c328375:
@@ -207,7 +207,7 @@ translate french b1c08ws11_fd616448:
 translate french b1c08ws11_9b19a099:
 
     # "Silvia looks at you with a strained smile. She fidgets anxiously, an abnormal tension in her eyes."
-    "Silvia te regarde avec un sourire tendu. Elle bouge nerveusement, une tension inhabituelle dans ses yeux."
+    "Silvia te regarde avec un sourire tendu. Elle bouge nerveusement, avec une tension inhabituelle dans ses yeux."
 
 # game/code/Book-1/Chapter-8w/s11.rpy:182
 translate french b1c08ws11_2975b442:
@@ -219,7 +219,7 @@ translate french b1c08ws11_2975b442:
 translate french b1c08ws11_541e68e8:
 
     # mc "It's no big deal, Silvia. Just some luggage."
-    mc "Ce n'est pas grave, Silvia. Ce ne sont que des bagages."
+    mc "Ce n'est rien, Silvia. Ce ne sont que des bagages."
 
 # game/code/Book-1/Chapter-8w/s11.rpy:186
 translate french b1c08ws11_9f55acdb:
@@ -243,7 +243,7 @@ translate french b1c08ws11_975e29b2:
 translate french b1c08ws11_8fa9ef32:
 
     # sm "*Deep breath* There's so much I want to say. So much I want to apologize for."
-    sm "*Prend une grande inspiration* Il y a tellement de choses que je veux dire. Tellement de choses pour lesquelles je veux m'excuser."
+    sm "*Prend une grande inspiration* Il y a tellement de choses que je veux te dire. Tellement de choses pour lesquelles je veux m'excuser."
 
 # game/code/Book-1/Chapter-8w/s11.rpy:203
 translate french b1c08ws11_93d51cdf:
@@ -285,7 +285,7 @@ translate french b1c08ws11_e82712d7:
 translate french b1c08ws11_5e09ac0b:
 
     # sm "Then I left you alone for so long afterward..."
-    sm "Puis je t'ai laissée seule si longtemps après..."
+    sm "Puis je t'ai laissé seul si longtemps après..."
 
 # game/code/Book-1/Chapter-8w/s11.rpy:223
 translate french b1c08ws11_9dfaafcb:
@@ -297,13 +297,13 @@ translate french b1c08ws11_9dfaafcb:
 translate french b1c08ws11_664d7a9e:
 
     # mc "It's been a hard time for all of us. I get it. I do. But I also know that what we're going through is bigger than just me. You had other obligations."
-    mc "Ça a été une période difficile pour nous tous. Je comprends. Vraiment. Mais je sais aussi que ce qu'on traverse est plus grand que moi. Tu avais d'autres obligations."
+    mc "Ça a été une période difficile pour nous tous. Je comprends, Vraiment. Mais je sais aussi que ce qu'on traverse est plus important que moi. Tu avais d'autres obligations."
 
 # game/code/Book-1/Chapter-8w/s11.rpy:230
 translate french b1c08ws11_213f1772:
 
     # "Your words seem to affect her deeply, drawing a complex mix of emotions across her face—pain, relief, and a desperate sort of hope."
-    "Tes paroles semblent la toucher profondément, faisant passer un mélange complexe d'émotions sur son visage—douleur, soulagement et une sorte d'espoir désespéré."
+    "Tes paroles semblent la toucher profondément, faisant passer un mélange complexe d'émotions sur son visage—douleur, un soulagement et une sorte d'espoir désespéré."
 
 # game/code/Book-1/Chapter-8w/s11.rpy:231
 translate french b1c08ws11_9e525da8:
@@ -321,13 +321,13 @@ translate french b1c08ws11_bc8d02d1:
 translate french b1c08ws11_38e48814:
 
     # sm "I guess this was all a way to distract myself from that, but now there are other issues in the team that feel like they're rotting the very foundation of what the team is."
-    sm "Je suppose que tout ça était une façon de me distraire de ça, mais maintenant il y a d'autres problèmes dans l'équipe qui donnent l'impression de pourrir la base même de ce que l'équipe est."
+    sm "Je suppose que tout ça était une façon de me distraire, mais maintenant il y a d'autres problèmes dans l'équipe qui donnent l'impression de pourrir la base même de ce que l'équipe est."
 
 # game/code/Book-1/Chapter-8w/s11.rpy:239
 translate french b1c08ws11_345eac50:
 
     # sm "I tried to run away from one thing like a coward, and ignored the issues I saw just to save myself some peace of mind."
-    sm "J'ai essayé de fuir une chose comme une lâche, et j'ai ignoré les problèmes que je voyais juste pour préserver ma tranquillité d'esprit."
+    sm "J'ai essayé de fuir cette chose comme une lâche, et j'ai ignorée les problèmes que je voyais juste pour préserver ma tranquillité d'esprit."
 
 # game/code/Book-1/Chapter-8w/s11.rpy:242
 translate french b1c08ws11_941e52ef:
@@ -351,7 +351,7 @@ translate french b1c08ws11_04d1046a:
 translate french b1c08ws11_8b781a00:
 
     # mc "Silvia, you don't have to find all the answers right now. Neither do I."
-    mc "Silvia, tu n'as pas à trouver toutes les réponses maintenant. Moi non plus."
+    mc "Silvia, tu n'as pas à trouver toutes les réponses maintenant. Et moi non plus."
 
 # game/code/Book-1/Chapter-8w/s11.rpy:258
 translate french b1c08ws11_832a4ecd:
@@ -507,7 +507,7 @@ translate french b1c08ws11_17a722aa:
 translate french b1c08ws11_2f4ce43c:
 
     # "Silvia clings to you, so blissed out and greedy to feel as much of you as possible."
-    "Silvia s'accroche à toi, si heureuse et avide de ressentir le plus de toi possible."
+    "Silvia s'accroche à toi, si heureuse et avide de ressentir le plus possible de toi."
 
 # game/code/Book-1/Chapter-8w/s11.rpy:447
 translate french b1c08ws11_295dc9ab:
@@ -519,7 +519,7 @@ translate french b1c08ws11_295dc9ab:
 translate french b1c08ws11_80b2277a:
 
     # mc "Me too. You're doing so good for me Silvia, you feel so good."
-    mc "Moi aussi. Tu me fais tellement de bien Silvia, tu te sens si bien."
+    mc "Moi aussi. Tu me fais tellement de bien Silvia, tu es si bonne."
 
 # game/code/Book-1/Chapter-8w/s11.rpy:453
 translate french b1c08ws11_3fd7d693:
@@ -531,19 +531,19 @@ translate french b1c08ws11_3fd7d693:
 translate french b1c08ws11_7704b4d8:
 
     # mc "*Softly* Was that good? Did it help?"
-    mc "*Doucement* C'était bien? Est-ce que ça a aidé?"
+    mc "*Doucement* C'était bon? Est-ce que ça a aidé?"
 
 # game/code/Book-1/Chapter-8w/s11.rpy:465
 translate french b1c08ws11_3e095316:
 
     # sm "Mm, that was just what I needed."
-    sm "Mm, c'était exactement ce dont j'avais besoin."
+    sm "Mm, c'est exactement ce dont j'avais besoin."
 
 # game/code/Book-1/Chapter-8w/s11.rpy:470
 translate french b1c08ws11_13fbea70:
 
     # "Lying in each other's arms, the atmosphere is one of absolute serenity. The room is filled with the soft glow of a bedside lamp, casting a warm light over the two of you."
-    "Allongés dans les bras l'un de l'autre, l'atmosphère est à la sérénité absolue. La pièce est remplie de la douce lueur d'une lampe de chevet, projetant une lumière chaleureuse sur vous deux."
+    "Allongés dans les bras l'un de l'autre, dans l'atmosphère flotte une sérénité absolue. La pièce est remplie de la douce lueur d'une lampe de chevet, projetant une lumière chaleureuse sur vous deux."
 
 # game/code/Book-1/Chapter-8w/s11.rpy:474
 translate french b1c08ws11_ce360f81:
@@ -561,7 +561,7 @@ translate french b1c08ws11_70f02e57:
 translate french b1c08ws11_676882cf:
 
     # sm "*Softly* How have you been holding up, [mcname]?"
-    sm "*Doucement* Comment as-tu tenu le coup, [mcname]?"
+    sm "*Doucement* Comment tiens-tu le coup, [mcname]?"
 
 # game/code/Book-1/Chapter-8w/s11.rpy:481
 translate french b1c08ws11_4f07a3f3:
@@ -615,25 +615,25 @@ translate french b1c08ws11_da527279:
 translate french b1c08ws11_329e3604:
 
     # sm "At least I have you in all this chaos."
-    sm "Au moins, j'ai toi dans tout ce chaos."
+    sm "Au moins, je t'ai toi dans tout ce chaos."
 
 # game/code/Book-1/Chapter-8w/s11.rpy:504
 translate french b1c08ws11_c9b7ddca:
 
     # mct "We're both fighting our own battles, trying to keep everything from falling apart."
-    mct "Nous luttons tous les deux contre nos propres démons, essayant d'empêcher tout de s'effondrer."
+    mct "Nous luttons tous les deux contre nos propres démons, en essayant d'empêcher que tout de s'effondrer."
 
 # game/code/Book-1/Chapter-8w/s11.rpy:507
 translate french b1c08ws11_04eadfcc:
 
     # sm "*Sigh* Life sure can be a real mess sometimes, can't it?"
-    sm "*Soupir* La vie peut vraiment être un vrai chaos parfois, n'est-ce pas?"
+    sm "*Soupir* La vie peut vraiment être une vraie salope parfois, n'est-ce pas?"
 
 # game/code/Book-1/Chapter-8w/s11.rpy:510
 translate french b1c08ws11_6d068275:
 
     # mc "Yeah. But right now, in this moment, everything feels...simple."
-    mc "Ouais. Mais en ce moment, tout semble...simple."
+    mc "Ouais. Mais en ce moment, tout semble... si simple."
 
 # game/code/Book-1/Chapter-8w/s11.rpy:514
 translate french b1c08ws11_ef8ac5c0:
@@ -675,6 +675,6 @@ translate french b1c08ws11_1653df28:
 translate french b1c08ws11_924d5892:
 
     # "The world fades to black, a comforting darkness that wraps you in its silent embrace. But even as you lose yourself to sleep, a part of you whispers—a reminder that your investigation is far from over."
-    "Le monde s'efface dans le noir, une obscurité réconfortante qui t'enveloppe dans son étreinte silencieuse. Mais même en te laissant aller dans le sommeil, une partie de toi murmure—un rappel que ton enquête est loin d'être terminée."
+    "Le monde s'efface dans le noir, une obscurité réconfortante qui t'enveloppe dans son étreinte silencieuse. Mais même en te laissant aller dans le sommeil, une partie de toi murmure un rappel que ton enquête est loin d'être terminée."
 
 

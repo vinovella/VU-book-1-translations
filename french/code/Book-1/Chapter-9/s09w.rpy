@@ -2,7 +2,7 @@
 translate french b1c09s09w_348053c8:
 
     # mct "Exploring the mansion sounds like a good start to any party."
-    mct "Explorer le manoir semble être un bon début pour n'importe quelle fête."
+    mct "Explorer le manoir semble être un bon début pour toute fête."
 
 # game/code/Book-1/Chapter-9/s09w.rpy:31
 translate french b1c09s09w_c2b8e801:
@@ -134,7 +134,7 @@ translate french replay_b1c09s09w_9b49a262:
 translate french replay_b1c09s09w_5293303d:
 
     # ir "That's fucking right! We're gonna have a strip off! We'll each do a little dance and take something off until we bitch out and can't anymore..."
-    ir "C'est exactement ça! On va faire un concours de strip-tease! On va chacun faire un petit danse et enlever quelque chose jusqu'à ce qu'on abandonne et qu'on ne puisse plus..."
+    ir "C'est exactement ça! On va faire un concours de strip-tease! On va chacun faire une petite danse et enlever quelque chose jusqu'à ce qu'on abandonne et qu'on ne puisse plus..."
 
 # game/code/Book-1/Chapter-9/s09w.rpy:108
 translate french replay_b1c09s09w_2a27881a:
@@ -170,7 +170,7 @@ translate french replay_b1c09s09w_946fd963:
 translate french replay_b1c09s09w_c33b8fbc:
 
     # ir "And I know who's ass {i}I'm{/i} hoping to see strip the most."
-    ir "Et je sais quel cul {i}j'espère{/i} voir se déshabiller le plus."
+    ir "Et je sais qui est le cul {i}que j'espère{/i} voir le plus se déshabiller."
 
 # game/code/Book-1/Chapter-9/s09w.rpy:126
 translate french replay_b1c09s09w_d8ce0219:
@@ -200,13 +200,13 @@ translate french replay_b1c09s09w_a1587353:
 translate french replay_b1c09s09w_f5a66e35:
 
     # mm "Of course I can! How broke do you think I am?!"
-    mm "Bien sûr que je peux! Tu me prends pour qui, un clochard?!"
+    mm "Bien sûr que je peux! Tu me prends pour qui, une clocharde?!"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:144
 translate french replay_b1c09s09w_90ef9711:
 
     # ba "Will you two shut up?"
-    ba "Vous deux, vous allez fermer vos bouches?"
+    ba "Vous deux, vous allez fermer vos gueules?"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:151
 translate french replay_b1c09s09w_f774cf0e:
@@ -314,7 +314,7 @@ translate french b1c09s09w_cheer_ir_7211e477:
 translate french b1c09s09w_cheer_ir_63f6573c:
 
     # "Iona licks her fingers and drags them down her body, massaging her aching pussy through her bikini bottoms while she gropes herself."
-    "Iona lèche ses doigts et les fait glisser le long de son corps, massant son sexe douloureux à travers son bas de bikini tout en se tripotant."
+    "Iona lèche ses doigts et les fait glisser le long de son corps, massant son sexe à travers son bas de bikini tout en se tripotant."
 
 # game/code/Book-1/Chapter-9/s09w.rpy:261
 translate french b1c09s09w_cheer_ir_9103051d:
@@ -374,7 +374,7 @@ translate french b1c09s09w_ima_show_439a4cb3:
 translate french b1c09s09w_ima_show_25d89014:
 
     # mct "God damn, these Winners Club members like to party hard."
-    mct "Putain, ces membres du Winners Club aiment faire la fête sévère."
+    mct "Putain, ces membres du Winners Club aiment faire la fête."
 
 # game/code/Book-1/Chapter-9/s09w.rpy:297
 translate french b1c09s09w_ima_show_571d8805:
@@ -518,7 +518,7 @@ translate french b1c09s09w_ba_show_ad592de7:
 translate french b1c09s09w_ba_show_b4ccb29e:
 
     # ir "You're talking mad shit for a woman with a resting bitch face so bad it's like your face came out deformed that way."
-    ir "Tu parles comme une folle pour une femme qui a une tête de bitch tellement dégueulasse que c'est comme si ton visage était déformé à la naissance."
+    ir "Tu dis des conneries pour une femme avec un visage de salope au repos, c'est comme si ton visage en ressortait déformé de cette façon.."
 
 # game/code/Book-1/Chapter-9/s09w.rpy:411
 translate french b1c09s09w_ba_show_8d35da9f:
@@ -584,13 +584,13 @@ translate french b1c09s09w_ba_show_96fc4cc4:
 translate french b1c09s09w_ba_show_d690ad92:
 
     # "A carefree, genuine smile melts the resting bitch face on Brig's features."
-    "Un sourire insouciant et sincère fait fondre l'air de bitch sur le visage de Brig."
+    "Un sourire insouciant et sincère fait fondre l'air de salope sur le visage de Brig."
 
 # game/code/Book-1/Chapter-9/s09w.rpy:454
 translate french b1c09s09w_ba_show_7f597586:
 
     # mct "I think that's the most relaxed I've ever seen her."
-    mct "Je pense que c'est la plus détendue que je l'ai jamais vue."
+    mct "Je pense que c'est la Brig la plus détendue que j'ai jamais vue."
 
 # game/code/Book-1/Chapter-9/s09w.rpy:456
 translate french b1c09s09w_ba_show_3f6d629a:
@@ -668,13 +668,13 @@ translate french b1c09s09w_ba_show_1fe31ab6:
 translate french b1c09s09w_ba_show_caf429e6:
 
     # ba "Watching us struggle while {i}everything{/i} gets handed to you just because you're the new pretty toy everyone likes."
-    ba "Nous regarder galérer pendant que {i}tout{/i} t'est donné juste parce que tu es le nouveau joli jouet que tout le monde aime."
+    ba "Nous regarder galérer pendant que {i}tout{/i} t'es donné juste parce que tu es le nouveau joli jouet que tout le monde aime."
 
 # game/code/Book-1/Chapter-9/s09w.rpy:497
 translate french b1c09s09w_ba_show_8b17eaac:
 
     # ba "Listen here you naive little shit."
-    ba "Écoute ici, espèce de petit naïf."
+    ba "Écoute ici, espèce de petite merde."
 
 # game/code/Book-1/Chapter-9/s09w.rpy:498
 translate french b1c09s09w_ba_show_b5361eec:
@@ -776,7 +776,7 @@ translate french b1c09s09w_ba_show_6fd7aac4:
 translate french b1c09s09w_ba_show_8a02447c:
 
     # mc "Just shut up. What the fuck is your problem?"
-    mc "Ferme-la juste. C'est quoi ton putain de problème?"
+    mc "Ferme-la. C'est quoi ton putain de problème?"
 
 # game/code/Book-1/Chapter-9/s09w.rpy:555
 translate french b1c09s09w_ba_show_56edf709:
@@ -872,7 +872,7 @@ translate french b1c09s09w_after_ba_76806823:
 translate french b1c09s09w_after_ba_2ee40b3d:
 
     # sm "I don't know what came over her."
-    sm "Je sais pas ce qui lui est arrivé."
+    sm "Je sais pas ce qui lui est arrivée."
 
 # game/code/Book-1/Chapter-9/s09w.rpy:643
 translate french b1c09s09w_after_ba_0594ce60:
@@ -890,7 +890,7 @@ translate french b1c09s09w_after_ba_3f6c987c:
 translate french b1c09s09w_after_ba_a18660a5:
 
     # ir "I've felt Brigitta's punches. They suck."
-    ir "J'ai déjà ressenti les coups de Brigitta. C'est de la merde."
+    ir "J'ai déjà ressentie les coups de Brigitta. C'est de la merde."
 
 # game/code/Book-1/Chapter-9/s09w.rpy:651
 translate french b1c09s09w_after_ba_24e3d73a:
@@ -932,7 +932,7 @@ translate french b1c09s09w_after_ba_9b8a3962:
 translate french b1c09s09w_after_ba_11bbeb02:
 
     # ir "You're right, sorry."
-    ir "Tu as raison, désolé."
+    ir "Tu as raison, désolée."
 
 # game/code/Book-1/Chapter-9/s09w.rpy:676
 translate french b1c09s09w_after_ba_ad02b00c:
@@ -1232,13 +1232,13 @@ translate french b1c09s09w_wc_available_9ca2872c:
 translate french b1c09s09w_wc_available_78605a60:
 
     # ir "I couldn't make out all the details, but she was furious that he didn't care."
-    ir "Je n'ai pas pu saisir tous les détails, mais elle était furieuse qu'il ne se soucie pas."
+    ir "Je n'ai pas pu saisir tous les détails, mais elle était furieuse qu'il ne s'en soucie pas."
 
 # game/code/Book-1/Chapter-9/s09w.rpy:847
 translate french b1c09s09w_wc_available_004063df:
 
     # ir "He seemed to just think that it was how the Winners Club was, and there wasn't much he could do about it."
-    ir "Il semblait juste penser que c'était comme ça dans le Club des Gagnants, et qu'il n'y avait pas grand-chose qu'il puisse faire à ce sujet."
+    ir "Il semblait juste penser que c'était comme ça dans le Club des Winners, et qu'il n'y avait pas grand-chose qu'il puisse faire à ce sujet."
 
 # game/code/Book-1/Chapter-9/s09w.rpy:848
 translate french b1c09s09w_wc_available_24cd7708:
@@ -1256,7 +1256,7 @@ translate french b1c09s09w_wc_available_c145be7e:
 translate french b1c09s09w_wc_available_67dd58d7:
 
     # mct "It's obvious Klara and Harlan had a lot of issues. Harlan seems to have a lot tied up into the Winners Team."
-    mct "C'est évident que Klara et Harlan avaient beaucoup de problèmes. Harlan semble être très impliqué dans l'équipe des Gagnants."
+    mct "C'est évident que Klara et Harlan avaient beaucoup de problèmes. Harlan semble être très impliqué dans l'équipe des Winners ."
 
 # game/code/Book-1/Chapter-9/s09w.rpy:853
 translate french b1c09s09w_wc_available_fd374f27:
@@ -1268,13 +1268,13 @@ translate french b1c09s09w_wc_available_fd374f27:
 translate french b1c09s09w_wc_available_d2a60fa7:
 
     # mct "Shit. If Klara was in danger, they're all in danger."
-    mct "Merde. Si Klara est en danger, ils sont tous en danger."
+    mct "Merde. Si Klara est en danger, Elles sont toutes en danger."
 
 # game/code/Book-1/Chapter-9/s09w.rpy:860
 translate french b1c09s09w_wc_available_34a374d7:
 
     # mct "I'm not sure what kind of game Harlan's playing, but he has the Winners Club wrapped up in it. If it caused Klara to disappear, anyone else could be next."
-    mct "Je ne suis pas sûr du genre de jeu auquel Harlan joue, mais il a le Club des Gagnants impliqué dedans. Si cela a causé la disparition de Klara, n'importe qui d'autre pourrait être le prochain."
+    mct "Je ne suis pas sûr du genre de jeu auquel Harlan joue, mais il a le Club des Winners impliqué dedans. Si cela a causé la disparition de Klara, n'importe qui d'autre pourrait être le prochain."
 
 # game/code/Book-1/Chapter-9/s09w.rpy:861
 translate french b1c09s09w_wc_available_9958ef9e:
@@ -1298,7 +1298,7 @@ translate french b1c09s09w_wc_available_4cb9f73c:
 translate french b1c09s09w_wc_available_d3e446c3:
 
     # ir "I'm just enjoying my high."
-    ir "Je profite juste de mon défonce."
+    ir "Je profite juste de ma défonce."
 
 # game/code/Book-1/Chapter-9/s09w.rpy:872
 translate french b1c09s09w_wc_available_c85a321b:

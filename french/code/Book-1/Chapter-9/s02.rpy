@@ -93,7 +93,7 @@ translate french b1c09s02_5121a898:
 translate french b1c09s02_736bf932:
 
     # lw "Yes. Don't dodge the question."
-    lw "Oui. Ne fuis pas la question."
+    lw "Oui. Mais ne fuis pas la question."
 
 # game/code/Book-1/Chapter-9/s02.rpy:85
 translate french b1c09s02_79cb95e2:
@@ -117,7 +117,7 @@ translate french b1c09s02_caff6c6c:
 translate french b1c09s02_a84d362b:
 
     # jh "Lara, will you please stop interrogating the poor thing just after he woke up?"
-    jh "Lara, tu veux bien arrêter d'interroger le pauvre gars juste après son réveil?"
+    jh "Lara, tu veux bien arrêter d'interroger ce pauvre gars juste après son réveil?"
 
 # game/code/Book-1/Chapter-9/s02.rpy:95
 translate french b1c09s02_3e12f6cc:
@@ -147,13 +147,13 @@ translate french b1c09s02_dressed_ce4e50db:
 translate french b1c09s02_dressed_85e5ee08:
 
     # jh "I...got invited to a party."
-    jh "J'ai...été invité à une fête."
+    jh "J'ai...été invitée à une fête."
 
 # game/code/Book-1/Chapter-9/s02.rpy:133
 translate french b1c09s02_dressed_047e878a:
 
     # mc "Oh, my. Did someone get asked out on a date?"
-    mc "Oh mon Dieu. Est-ce que quelqu'un a été invité à un rendez-vous?"
+    mc "Oh mon Dieu. Est-ce que quelqu'un a été invitée à un rendez-vous?"
 
 # game/code/Book-1/Chapter-9/s02.rpy:138
 translate french b1c09s02_dressed_f932ab40:
@@ -165,7 +165,7 @@ translate french b1c09s02_dressed_f932ab40:
 translate french b1c09s02_dressed_2e22477c:
 
     # mc "Someone asked you out?"
-    mc "Quelqu'un t'a invité?"
+    mc "Quelqu'un t'a invitée?"
 
 # game/code/Book-1/Chapter-9/s02.rpy:142
 translate french b1c09s02_dressed_0cb98186:
@@ -177,7 +177,7 @@ translate french b1c09s02_dressed_0cb98186:
 translate french b1c09s02_dressed_fed91ecb:
 
     # jh "It's just an end of semester party over The Winner's Mansion."
-    jh "C'est juste une fête de fin de semestre à The Winner's Mansion."
+    jh "C'est juste une fête de fin de semestre au Manoir des Winner's."
 
 # game/code/Book-1/Chapter-9/s02.rpy:146
 translate french b1c09s02_dressed_19459c3b:
@@ -213,7 +213,7 @@ translate french b1c09s02_dressed_8e16981f:
 translate french b1c09s02_dressed_b0fe9c0b:
 
     # jh "Absolutely not. I don't know if you know of The Winners or not, but they can be ruthless."
-    jh "Absolument pas. Je ne sais pas si tu connais The Winners, mais ils peuvent être impitoyables."
+    jh "Absolument pas. Je ne sais pas si tu connais Les Winners, mais ils peuvent être impitoyables."
 
 # game/code/Book-1/Chapter-9/s02.rpy:166
 translate french b1c09s02_dressed_b4610c97:
@@ -255,7 +255,7 @@ translate french b1c09s02_dressed_2e165a6f:
 translate french b1c09s02_dressed_4f39f269:
 
     # lw "Second of all, I will not be the go-to excuse for your undiagnosed social anxiety."
-    lw "Ensuite, je ne serai pas l'excuse facile pour ton anxiété sociale non diagnostiquée."
+    lw "Ensuite, je ne serai pas l'excuse facile pour ton anxiétée sociale non diagnostiquée."
 
 # game/code/Book-1/Chapter-9/s02.rpy:190
 translate french b1c09s02_dressed_ec08bfa7:
@@ -267,13 +267,13 @@ translate french b1c09s02_dressed_ec08bfa7:
 translate french b1c09s02_dressed_b440360d:
 
     # lw "All's fair in love and war, sweetheart."
-    lw "Tout est permis en amour et en guerre, mon chéri."
+    lw "Tout est permis en amour et en guerre, ma chérie."
 
 # game/code/Book-1/Chapter-9/s02.rpy:196
 translate french b1c09s02_dressed_6f756ec3:
 
     # mc "*Snorts* That's really fucking corny."
-    mc "*Sniffle* C'est vraiment trop niais."
+    mc "*Sniffle* C'est vraiment trop ringard."
 
 # game/code/Book-1/Chapter-9/s02.rpy:199
 translate french b1c09s02_dressed_42e4eb7d:
@@ -339,7 +339,7 @@ translate french b1c09s02_both_go_bfda6477:
 translate french b1c09s02_both_go_f06a0ba3:
 
     # jh "Oh, so you can push {i}me{/i} to go, but the moment I ask you, my {i}best friend{/i}, you vanish?"
-    jh "Oh, tu peux me pousser {i}moi{/i} à y aller, mais dès que je te demande, ma {i}meilleure amie{/i}, tu disparais?"
+    jh "Oh, tu peux me pousser {i}moi{/i} à y aller, mais dès que je demande à ma {i}meilleure amie{/i}, tu disparais?"
 
 # game/code/Book-1/Chapter-9/s02.rpy:264
 translate french b1c09s02_both_go_cb2c2165:
@@ -375,13 +375,13 @@ translate french b1c09s02_both_go_0ffb9dbe:
 translate french b1c09s02_both_go_366d4539:
 
     # jh "*Gasp* Are you invalidating my mental health issues right now?"
-    jh "*Gasp* Tu es en train d'invalider mes problèmes de santé mentale?"
+    jh "*Halete* Tu es en train d'invalider mes problèmes de santé mentale?"
 
 # game/code/Book-1/Chapter-9/s02.rpy:280
 translate french b1c09s02_both_go_6de108c4:
 
     # mc "Sure didn't stop you from bouldering either last I remember."
-    mc "Ça ne t'a pas empêchée de faire de l'escalade non plus, la dernière fois que je m'en souviens."
+    mc "Bien sûr, cela ne t'a pas empêchée non plus de faire du bloc, aux derniers souvenirs."
 
 # game/code/Book-1/Chapter-9/s02.rpy:283
 translate french b1c09s02_both_go_e1efda48:
@@ -399,7 +399,7 @@ translate french b1c09s02_both_go_6bea7c4f:
 translate french b1c09s02_both_go_fe367219:
 
     # lw "Shut up. This is all because of you."
-    lw "Tais-toi. Tout ça, c'est à cause de vous."
+    lw "Tais-toi. Tout ça, c'est à cause de toi."
 
 # game/code/Book-1/Chapter-9/s02.rpy:294
 translate french b1c09s02_both_go_446adb1b:
@@ -423,7 +423,7 @@ translate french b1c09s02_both_go_fca25dc3:
 translate french b1c09s02_both_go_6dcf0537:
 
     # lw "Anyway, I'll be fine. You stay here and rest up."
-    lw "De toute façon, je vais bien. Vous restez ici et vous reposez."
+    lw "De toute façon, je vais bien. Vous restez ici et reposez-vous."
 
 # game/code/Book-1/Chapter-9/s02.rpy:310
 translate french b1c09s02_both_go_933bb491:
@@ -531,13 +531,13 @@ translate french b1c09s02_lw_right_32042651:
 translate french b1c09s02_lw_right_14bfeaf7:
 
     # jh "I was making a point!"
-    jh "Je faisais un point!"
+    jh "Je faisais valoir un point!"
 
 # game/code/Book-1/Chapter-9/s02.rpy:375
 translate french b1c09s02_lw_right_0f56650d:
 
     # mc "I think we need to workshop your point making skills a little bit more."
-    mc "Je pense qu'on doit un peu plus travailler tes compétences à faire des points."
+    mc "Je pense qu'on doit un peu plus travailler tes compétences à faire les points."
 
 # game/code/Book-1/Chapter-9/s02.rpy:378
 translate french b1c09s02_lw_right_f2cebb18:
@@ -559,6 +559,7 @@ translate french b1c09s02_lw_right_52c5a91b:
 
 # game/code/Book-1/Chapter-9/s02.rpy:388
 translate french b1c09s02_lw_right_5f8cdb15:
+
     # lw "Bye, you too."
     lw "Au revoir, toi aussi."
 

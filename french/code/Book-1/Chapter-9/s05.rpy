@@ -62,7 +62,7 @@ translate french replay_b1c09s05_f1502299:
 translate french replay_b1c09s05_b3cb6254:
 
     # mc "And this couldn't wait until I was done here?"
-    mc "Et ça ne pouvait pas attendre que j'aie fini ici?"
+    mc "Et ça ne pouvait pas attendre que j'ai fini ici?"
 
 # game/code/Book-1/Chapter-9/s05.rpy:122
 translate french replay_b1c09s05_6db8d4ba:
@@ -188,7 +188,7 @@ translate french b1c09s05_dm_take_control_f80d37de:
 translate french b1c09s05_dm_take_control_23f65ba5:
 
     # dm "Squirming in my hands."
-    dm "Se tortillant dans mes mains."
+    dm "Te tortillant dans mes mains."
 
 # game/code/Book-1/Chapter-9/s05.rpy:214
 translate french b1c09s05_dm_take_control_3662f520:
@@ -218,7 +218,7 @@ translate french b1c09s05_dm_take_control_913f5cf0:
 translate french b1c09s05_dm_take_control_52fa80a2:
 
     # dm "Did you miss me?"
-    dm "Tu m'as manqué?"
+    dm "Je t'ai manquée?"
 
 # game/code/Book-1/Chapter-9/s05.rpy:227
 translate french b1c09s05_dm_take_control_c9b15601:
@@ -236,7 +236,7 @@ translate french b1c09s05_dm_take_control_56080963:
 translate french b1c09s05_dm_take_control_f292fa5e:
 
     # dm "I missed the way you touched me."
-    dm "J'ai manqué la façon dont tu m'as touchée."
+    dm "Ca m'as manqué la façon dont tu me touche."
 
 # game/code/Book-1/Chapter-9/s05.rpy:233
 translate french b1c09s05_dm_take_control_871555c2:
@@ -248,7 +248,7 @@ translate french b1c09s05_dm_take_control_871555c2:
 translate french b1c09s05_dm_take_control_f550743a:
 
     # dm "I touched myself to it. Moaned out your name when I came."
-    dm "Je me suis touchée en y pensant. J'ai gémi ton nom quand j'ai joui."
+    dm "Je me suis touchée en y pensant. J'ai gémie ton nom quand j'ai jouie."
 
 # game/code/Book-1/Chapter-9/s05.rpy:240
 translate french b1c09s05_dm_take_control_da55594b:
@@ -260,7 +260,7 @@ translate french b1c09s05_dm_take_control_da55594b:
 translate french b1c09s05_dm_take_control_869e029b:
 
     # dm "Maybe I am."
-    dm "Peut-être bien que si."
+    dm "Peut-être bien que je le suis."
 
 # game/code/Book-1/Chapter-9/s05.rpy:244
 translate french b1c09s05_dm_take_control_63d19edf:
@@ -344,7 +344,7 @@ translate french b1c09s05_footfetish_247341cc:
 translate french b1c09s05_footfetish_248cd7a6:
 
     # "Her scent is intoxicating; it pierces you and fills you with desire. You want to be lost in her. You want to hear her moans, get her needier and needier, make her feel so good."
-    "Son parfum est enivrant ; il te transperce et te remplit de désir. Tu veux te perdre en elle. Tu veux entendre ses gémissements, la rendre toujours plus avide, lui faire tellement de bien."
+    "Son parfum est enivrant,  il te transperce et te remplit de désir. Tu veux te perdre en elle. Tu veux entendre ses gémissements, la rendre toujours plus avide, lui faire tellement de bien."
 
 # game/code/Book-1/Chapter-9/s05.rpy:300
 translate french b1c09s05_footfetish_3ba15629:
@@ -788,7 +788,7 @@ translate french b1c09s05_dm_sex_b15dbb4e:
 translate french b1c09s05_dm_sex_32f8b765:
 
     # dm "Make me cum all over your cock."
-    dm "Fais-moi jouir partout sur ton sexe."
+    dm "Fais-moi jouir sur ta bite."
 
 # game/code/Book-1/Chapter-9/s05.rpy:576
 translate french b1c09s05_dm_sex_ddbd8fd8:
@@ -836,7 +836,7 @@ translate french b1c09s05_femdom_end_60299c48:
 translate french b1c09s05_femdom_end_d26f1861:
 
     # "You spill your load all over Diana's pussy, coating it with your cum and disappointment."
-    "Tu répands ton éjaculation sur le sexe de Diana, le couvrant de ta semence et de déception."
+    "Tu répands ton éjaculation sur le sexe de Diana, le couvrant de ton sperme et de déception."
 
 # game/code/Book-1/Chapter-9/s05.rpy:601
 translate french b1c09s05_femdom_end_2e74d693:
@@ -968,7 +968,7 @@ translate french b1c09s05_cum_menu_37d81979:
 translate french b1c09s05_end_ac123d20:
 
     # "Sometime later, after basking in each other's afterglow and cleaning up as best as you could."
-    "Quelque temps plus tard, après avoir profité de la lueur post-coït et nettoyé autant que vous pouviez."
+    "Quelque temps plus tard, après avoir profité de la lueur de l'autre et avoir nettoyé du mieux que vous pouviez."
 
 # game/code/Book-1/Chapter-9/s05.rpy:698
 translate french b1c09s05_end_50656797:
@@ -998,7 +998,7 @@ translate french b1c09s05_end_a92e0ea2:
 translate french b1c09s05_end_noflirt_e05e84bf:
 
     # dm "*Clears her throat* It's good that I ran into you actually."
-    dm "*Tousse* C'est bien que je t'aie croisé en fait."
+    dm "*Tousse* C'est bien que je t'aie croisée en fait."
 
 # game/code/Book-1/Chapter-9/s05.rpy:718
 translate french b1c09s05_end_noflirt_e9ccbd26:
@@ -1190,7 +1190,7 @@ translate french b1c09s05_end_noflirt_264f1232:
 translate french b1c09s05_end_noflirt_bfe462b9:
 
     # dm "Oh, I'm sure we will, old friend."
-    dm "Oh, je suis sûr que nous verrons ça, vieil ami."
+    dm "Oh, je suis sûr que nous verrons ça, vieille amie."
 
 translate french strings:
 
@@ -1216,11 +1216,11 @@ translate french strings:
 
     # game/code/Book-1/Chapter-9/s05.rpy:585
     old "Cum"
-    new "Sperme"
+    new "Jouis"
 
     # game/code/Book-1/Chapter-9/s05.rpy:585
     old "Hold it in"
-    new "Retiens-le"
+    new "Retiens-toi"
 
     # game/code/Book-1/Chapter-9/s05.rpy:648
     old "Clean your cum off of Diana"

@@ -1,7 +1,7 @@
 # game/code/Book-1/Chapter-6w/s02.rpy:18
 translate french b1c06ws02_46874486:
     # mct "Another day of classes...begin."
-    mct "Encore une journée de cours... commence."
+    mct "Encore une journée de cours... qui commence."
 
 # game/code/Book-1/Chapter-6w/s02.rpy:48
 translate french b1c06ws02_6e38b083:
@@ -36,12 +36,12 @@ translate french b1c06ws02_4a1e17b7:
 # game/code/Book-1/Chapter-6w/s02.rpy:77
 translate french b1c06ws02_ccfcfc63:
     # mc "Read my mind."
-    mc "Lis dans mes pensées."
+    mc "Tu lis dans mes pensées."
 
 # game/code/Book-1/Chapter-6w/s02.rpy:80
 translate french b1c06ws02_dac37e24:
     # sm "Just an astute observation. No mind-reading sadly."
-    sm "Juste une observation astucieuse. Pas de lecture de pensées, malheureusement."
+    sm "Non!! juste une observation astucieuse. Pas de lecture de pensées, malheureusement."
 
 # game/code/Book-1/Chapter-6w/s02.rpy:83
 translate french b1c06ws02_364164f2:
@@ -71,7 +71,7 @@ translate french b1c06ws02_46bed535:
 # game/code/Book-1/Chapter-6w/s02.rpy:97
 translate french b1c06ws02_d53ea818:
     # mc "I'd love to. That sounds great."
-    mc "J'adorerais. Ça sonne super."
+    mc "J'adorerais. Bonne idée."
 
 # game/code/Book-1/Chapter-6w/s02.rpy:104
 translate french b1c06ws02_6760e9b3:
@@ -86,7 +86,7 @@ translate french b1c06ws02_2c16e9a4:
 # game/code/Book-1/Chapter-6w/s02.rpy:110
 translate french b1c06ws02_68f7d650:
     # sm "*Laughs* God I can still taste the smell now. Everyone got {i}{b}so{/b}{/i} pissed."
-    sm "*Rit* Mon Dieu, je peux encore sentir l'odeur maintenant. Tout le monde était {i}{b}tellement{/b}{/i} énervé."
+    sm "*Rit* Mon Dieu, je peux encore sentir l'odeur maintenant. Tout le monde était {i}{b}tellement{/b}{/i} énervés."
 
 # game/code/Book-1/Chapter-6w/s02.rpy:111
 translate french b1c06ws02_93d3b878:
@@ -131,7 +131,7 @@ translate french b1c06ws02_b03e192a:
 # game/code/Book-1/Chapter-6w/s02.rpy:139
 translate french b1c06ws02_2b6bfa8a:
     # sm "It wasn't even that long ago, but most of the seniors have graduated now."
-    sm "Ce n'était même pas si longtemps, mais la plupart des étudiants de dernière année ont maintenant diplômé."
+    sm "C'était il y a pas si longtemps, mais la plupart des étudiants de dernière année sont maintenant diplômé."
 
 # game/code/Book-1/Chapter-6w/s02.rpy:142
 translate french b1c06ws02_e73e6d1c:
@@ -161,7 +161,7 @@ translate french b1c06ws02_de247c98:
 # game/code/Book-1/Chapter-6w/s02.rpy:155
 translate french b1c06ws02_3f73edb9:
     # sm "What? I'm not...well, I guess I am."
-    sm "Quoi? Je ne suis pas... enfin, je suppose que je le suis."
+    sm "Quoi? Je ne fais pas... enfin, je suppose que je le suis."
 
 # game/code/Book-1/Chapter-6w/s02.rpy:158
 translate french b1c06ws02_d5d06052:
@@ -181,7 +181,7 @@ translate french b1c06ws02_58489072:
 # game/code/Book-1/Chapter-6w/s02.rpy:163
 translate french b1c06ws02_6225c1d2:
     # mc "But...if you ever wanna talk. I'm here."
-    mc "Mais... si tu veux jamais parler. Je suis là."
+    mc "Mais... si jamais tu veux parler. Je suis là."
 
 # game/code/Book-1/Chapter-6w/s02.rpy:166
 translate french b1c06ws02_5f7b4f22:
@@ -216,7 +216,7 @@ translate french b1c06ws02_64bfce6f:
 # game/code/Book-1/Chapter-6w/s02.rpy:180
 translate french b1c06ws02_c5433e7d:
     # sm "Take a wild guess."
-    sm "Fais une devinette."
+    sm "Devine."
 
 # game/code/Book-1/Chapter-6w/s02.rpy:183
 translate french b1c06ws02_1ef19d66:
@@ -236,7 +236,7 @@ translate french b1c06ws02_31a45b5a:
 # game/code/Book-1/Chapter-6w/s02.rpy:192
 translate french b1c06ws02_ed2b47ee:
     # sm "*Giggling* I know. It's just that...they're a friend of mine, so I don't want to offend them."
-    sm "*Riant* Je sais. C'est juste que... c'est un ami à moi, donc je ne veux pas les offenser."
+    sm "*Riant* Je sais. C'est juste que... c'est un ami à moi, donc je ne veux pas l'offenser."
 
 # game/code/Book-1/Chapter-6w/s02.rpy:195
 translate french b1c06ws02_a68aaee6:
@@ -256,7 +256,7 @@ translate french b1c06ws02_4da34bcf:
 # game/code/Book-1/Chapter-6w/s02.rpy:201
 translate french b1c06ws02_8e01b62b:
     # sm "I know Simon dabbled before, but he's just so...{w} {i}Horny.{/i}"
-    sm "Je sais que Simon a essayé avant, mais il est juste tellement...{w} {i}Chaud{/i}."
+    sm "Je sais que Simon a essayé avant, mais il est juste tellement...{w} {i}excité{/i}."
 
 # game/code/Book-1/Chapter-6w/s02.rpy:204
 translate french b1c06ws02_1880b7bd:

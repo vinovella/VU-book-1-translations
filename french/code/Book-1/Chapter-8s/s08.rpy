@@ -21,7 +21,7 @@ translate french b1c08ss08_cf613308:
 translate french b1c08ss08_577038d0:
 
     # mct "Attacking her will have guards on me in seconds, and I doubt a woman like this gives second chances."
-    mct "L'attaquer aura des gardes sur moi dans quelques secondes, et je doute qu'une femme comme celle-ci donne une seconde chance."
+    mct "L'attaquer?? j'aurai des gardes sur moi après quelques secondes, et je doute qu'une femme comme celle-ci donne une seconde chance."
 
 # game/code/Book-1/Chapter-8s/s08.rpy:90
 translate french b1c08ss08_19f7a46e:
@@ -33,7 +33,7 @@ translate french b1c08ss08_19f7a46e:
 translate french b1c08ss08_70cc3948:
 
     # ha "If you fail to {i}entertain{/i} me?"
-    ha "Si vous ne parvenez pas à me {i}divertir{/i}?"
+    ha "Si tu ne parviens pas à me {i}divertir{/i}?"
 
 # game/code/Book-1/Chapter-8s/s08.rpy:105
 translate french b1c08ss08_91ec6689:
@@ -99,13 +99,13 @@ translate french b1c08ss08_fc99a2bf:
 translate french b1c08ss08_2cca0b14:
 
     # mc "And when you're so fucking desperately horny for me—"
-    mc "Et quand tu es si désespérément excitée par moi—"
+    mc "Et quand tu seras si désespérément excitée par moi—"
 
 # game/code/Book-1/Chapter-8s/s08.rpy:139
 translate french b1c08ss08_e9a041ce:
 
     # ha "Just fuck me already you dirty little tease!"
-    ha "Baise-moi déjà, sale petite allumeuse!"
+    ha "Baise-moi déjà, sale petit allumeur!"
 
 # game/code/Book-1/Chapter-8s/s08.rpy:141
 translate french b1c08ss08_ed1191b6:
@@ -117,25 +117,25 @@ translate french b1c08ss08_ed1191b6:
 translate french b1c08ss08_b7bf0427:
 
     # "You can't help but revel in the desperation in her voice, the eagerness of her warm, writhing body."
-    "Vous ne pouvez pas vous empêcher de vous délecter du désespoir dans sa voix, de l'impatience de son corps chaud et se tordant."
+    "Vous ne pouvez pas vous empêcher de vous délecter du désespoir dans sa voix, de l'impatience de son corps chaud se tordant."
 
 # game/code/Book-1/Chapter-8s/s08.rpy:145
 translate french b1c08ss08_a82e0a54:
 
     # mc "When you're so horny for me that you're begging, only then will I give you my cock."
-    mc "Quand tu es si excitée pour moi que tu me supplies, alors seulement je te donnerai ma bite."
+    mc "Quand tu seras si excitée pour moi que tu me supplieras, alors seulement je te donnerai ma bite."
 
 # game/code/Book-1/Chapter-8s/s08.rpy:148
 translate french b1c08ss08_15b1114b:
 
     # ha "You terrible little tease. Do you really think it'll be easy to make me beg?"
-    ha " Espèce de terrible petite taquine. Tu penses vraiment que ce sera facile de me faire supplier? "
+    ha " Espèce de terrible petit taquin. Tu penses vraiment que ce sera facile de me faire supplier? "
 
 # game/code/Book-1/Chapter-8s/s08.rpy:150
 translate french b1c08ss08_aac757a3:
 
     # mc "Show me how much you want it."
-    mc "Montre-moi à quel point tu le veux."
+    mc "Montre-moi à quel point tu la veux."
 
 # game/code/Book-1/Chapter-8s/s08.rpy:154
 translate french b1c08ss08_d2ba22bb:
@@ -183,7 +183,7 @@ translate french b1c08ss08_ac8d7f6c:
 translate french b1c08ss08_6ed83490:
 
     # ha "{i}Please.{/i}"
-    ha "{i}S'il vous plaît.{/i}"
+    ha "{i}S'il te plaît.{/i}"
 
 # game/code/Book-1/Chapter-8s/s08.rpy:172
 translate french b1c08ss08_21f2a3e9:
@@ -207,7 +207,7 @@ translate french b1c08ss08_76ad9953:
 translate french b1c08ss08_11f8d0b2:
 
     # ha "You feel so fucking good."
-    ha "Tu te sens tellement bien."
+    ha "Tu es tellement bon."
 
 # game/code/Book-1/Chapter-8s/s08.rpy:203
 translate french b1c08ss08_541555ff:
@@ -243,13 +243,13 @@ translate french b1c08ss08_d4f55add:
 translate french b1c08ss08_8309b469:
 
     # ha "God, you feel so fucking good."
-    ha "Mon Dieu, tu te sens tellement bien."
+    ha "Mon Dieu, tu es tellement bon."
 
 # game/code/Book-1/Chapter-8s/s08.rpy:221
 translate french b1c08ss08_2b45dd0b:
 
     # ha "Let me—"
-    ha "Laissez-moi-"
+    ha "Laisse-moi-"
 
 # game/code/Book-1/Chapter-8s/s08.rpy:224
 translate french b1c08ss08_aa6dd481:
@@ -357,7 +357,7 @@ translate french b1c08ss08_sex_toy_f492a672:
 translate french b1c08ss08_sex_toy_66aaf7bc:
 
     # mc "For being so dominant with your subordinates, you sure are a submissive little slut for me, aren't you?"
-    mc "Pour être si dominant avec tes subordonnés, tu es certainement une petite salope soumise pour moi, n'est-ce pas?"
+    mc "Pour être si dominante avec tes subordonnés, tu es certainement une petite salope soumise pour moi, n'est-ce pas?"
 
 # game/code/Book-1/Chapter-8s/s08.rpy:394
 translate french b1c08ss08_sex_toy_3a94f5f7:
@@ -423,13 +423,13 @@ translate french b1c08ss08_sex_toy_87e26eb2:
 translate french b1c08ss08_sex_toy_972663e6:
 
     # mc "I think you deserve to have your cunt filled for being so obedient, what do you think?"
-    mc "Je pense que tu mérites de te faire remplir la chatte pour être si obéissant, qu'en penses-tu?"
+    mc "Je pense que tu mérites de te faire remplir la chatte pour être si obéissante, qu'en penses-tu?"
 
 # game/code/Book-1/Chapter-8s/s08.rpy:444
 translate french b1c08ss08_sex_toy_981dfc79:
 
     # ha "*Breathlessly* Ha— Ye-yes. Please... Fill me up. I want to feel you."
-    ha "*À bout de souffle* Ha— Ouais-oui. S'il te plaît... Remplis-moi. Je veux te sentir."
+    ha "*À bout de souffle* Ha— Ouais-oui. S'il te plaît... Remplie-moi. Je veux te sentir."
 
 # game/code/Book-1/Chapter-8s/s08.rpy:445
 translate french b1c08ss08_sex_toy_ad9e44ff:
@@ -441,7 +441,7 @@ translate french b1c08ss08_sex_toy_ad9e44ff:
 translate french b1c08ss08_sex_toy_be5d8f92:
 
     # mc "Then arch your back like a good little whore and spread yourself for me."
-    mc "Alors cambre ton dos comme une bonne petite pute et étends-toi pour moi."
+    mc "Alors cambre ton dos comme une bonne petite chienne et étends-toi pour moi."
 
 # game/code/Book-1/Chapter-8s/s08.rpy:450
 translate french b1c08ss08_sex_toy_7d69585c:
@@ -477,7 +477,7 @@ translate french b1c08ss08_no_sex_toy_5e9cfa30:
 translate french b1c08ss08_no_sex_toy_27ad7ee8:
 
     # "Hellena eagerly mounts you. Her walls convulse around you, taking you in as far as she possibly can."
-    "Hellena vous chevauche avec impatience. Ses murs se convulsent autour de vous, vous emmenant aussi loin qu'elle le peut."
+    "Hellena vous chevauche avec impatience. Ses paroies convulsent autour de vous, vous emmenant aussi loin qu'elle le peut."
 
 # game/code/Book-1/Chapter-8s/s08.rpy:522
 translate french b1c08ss08_no_sex_toy_18d7a8d0:
@@ -489,7 +489,7 @@ translate french b1c08ss08_no_sex_toy_18d7a8d0:
 translate french b1c08ss08_no_sex_toy_77071442:
 
     # ha "F-fuck, you feel so god damn good. Keep going, just like that."
-    ha "P-Putain, tu te sens tellement bien. Continue, juste comme ça."
+    ha "P-Putain, tu es tellement bon. Continue, juste comme ça."
 
 # game/code/Book-1/Chapter-8s/s08.rpy:536
 translate french b1c08ss08_no_sex_toy_e78e382a:
@@ -501,7 +501,7 @@ translate french b1c08ss08_no_sex_toy_e78e382a:
 translate french b1c08ss08_no_sex_toy_38a31238:
 
     # ha "God, I'm gonna cu—"
-    ha "Mon Dieu, je vais cu—"
+    ha "Mon Dieu, je vais jo—"
 
 # game/code/Book-1/Chapter-8s/s08.rpy:553
 translate french b1c08ss08_no_sex_toy_e559e5f5:
@@ -531,13 +531,13 @@ translate french b1c08ss08_no_sex_toy_78e41736:
 translate french b1c08ss08_no_sex_toy_032a24b5:
 
     # "Hellena replies feverishly; she's so completely lost in the pleasure and pain you're giving her."
-    "Hellena répond fébrilement ; elle est tellement complètement perdue dans le plaisir et la douleur que tu lui procures."
+    "Hellena répond fébrilement, elle est complètement perdue dans le plaisir et la douleur que tu lui procures."
 
 # game/code/Book-1/Chapter-8s/s08.rpy:579
 translate french b1c08ss08_no_sex_toy_fa7cd3bd:
 
     # ha "Yes. Yes! Breed me! Fill me up! I want to carry your cum for as long as possible, darling. Breed me!"
-    ha "Oui. Oui! Élevez-moi! Remplissez-moi! Je veux porter ton sperme le plus longtemps possible, chérie. Élevez-moi!"
+    ha "Oui. Oui! Élevez-moi! Remplis-moi! Je veux porter ton sperme le plus longtemps possible, chéri. Élevez-moi!"
 
 # game/code/Book-1/Chapter-8s/s08.rpy:585
 translate french b1c08ss08_no_sex_toy_feb7b875:
@@ -555,13 +555,13 @@ translate french b1c08ss08_no_sex_toy_869c0997:
 translate french b1c08ss08_no_sex_toy_37ace618:
 
     # "You can't help it; her body milks you dry so efficiently, you cum deep inside her."
-    "Tu n'y peux rien ; son corps te traite si efficacement que tu jouis au fond d'elle."
+    "Tu n'y peux rien, son corps te traite si efficacement que tu jouis au fond d'elle."
 
 # game/code/Book-1/Chapter-8s/s08.rpy:603
 translate french b1c08ss08_no_sex_toy_1a3b86bd:
 
     # ha "Stay just like that, darling. Keep me filled up with you."
-    ha "Reste comme ça, chérie. Remplis-moi de toi."
+    ha "Reste comme ça, chéri. Remplis-moi de toi."
 
 # game/code/Book-1/Chapter-8s/s08.rpy:604
 translate french b1c08ss08_no_sex_toy_cb7e64b4:
@@ -675,7 +675,7 @@ translate french strings:
 
     # game/code/Book-1/Chapter-8s/s08.rpy:366
     old "Look in the chest"
-    new "Regarde dans la poitrine"
+    new "Regarde dans le coffre"
 
     # game/code/Book-1/Chapter-8s/s08.rpy:366
     old "I don't need toys to fuck you"

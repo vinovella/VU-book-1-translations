@@ -2,7 +2,7 @@
 translate french b1c08ws02_4358e980:
 
     # "The bus rumbles down the highway, carrying the team to their next tournament."
-    "Le bus vrombit sur l'autoroute, transportant l'équipe vers leur prochain tournoi."
+    "Le bus roule sur l'autoroute, transportant l'équipe vers leur prochain tournoi."
 
 # game/code/Book-1/Chapter-8w/s02.rpy:24
 translate french b1c08ws02_02d66e79:
@@ -68,7 +68,7 @@ translate french b1c08ws02_1dff0d75:
 translate french b1c08ws02_7919786c:
 
     # mc "As long as Brigitta doesn't start something in the middle of the game."
-    mc "Tant que Brigitta ne commence pas quelque chose au milieu du match."
+    mc "Tant que Brigitta ne commence pas à me casser les couilles au milieu du match."
 
 # game/code/Book-1/Chapter-8w/s02.rpy:52
 translate french b1c08ws02_037a636d:
@@ -146,7 +146,7 @@ translate french b1c08ws02_8690219b:
 translate french b1c08ws02_1c2510e3:
 
     # sl "Alright, sluts! Listen up! How about we play a game of Two Truths and a Lie mixed with Charades? We've got time to kill before we reach the tournament and Brig said she's down."
-    sl "Bon, bande d'idiots! Écoutez-moi! Et si on jouait à Deux Vérités et un Mensonge mélangé à des Charades? On a du temps à tuer avant d'arriver au tournoi, et Brig a dit qu'elle était partante."
+    sl "Très bien, bandes salopes! Écoutez! Et si on jouait au jeu des Deux Vérités et un Mensonge mêlé d'une devinette ? Nous avons du temps à tuer avant d'atteindre le tournoi et Brig a dit qu'elle était partante."
 
 # game/code/Book-1/Chapter-8w/s02.rpy:101
 translate french b1c08ws02_64e5aa15:
@@ -206,7 +206,7 @@ translate french b1c08ws02_92baebdf:
 translate french b1c08ws02_29dcb224:
 
     # "Iona gently grabs onto your hardening cock and squeezes, teasingly letting you get used to her warmth."
-    "Iona saisit doucement votre membre qui durcit et le serre, vous laissant taquinement vous habituer à sa chaleur."
+    "Iona saisit doucement votre membre qui durcit et le serre, vous taquinant, vous laissant vous habituer à sa chaleur."
 
 # game/code/Book-1/Chapter-8w/s02.rpy:128
 translate french b1c08ws02_7f8a227d:
@@ -308,7 +308,7 @@ translate french b1c08ws02_b41ba2e6:
 translate french b1c08ws02_cf20114e:
 
     # oa "You're like preparing food? You're good at it?"
-    oa "Tu es genre en train de préparer de la nourriture? Tu es bon dans ce domaine?"
+    oa "Tu es genre en train de préparer un repas ? Tu es bon dans ce domaine?"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:191
 translate french b1c08ws02_804ad2ac:
@@ -368,7 +368,7 @@ translate french b1c08ws02_5e43fc5f:
 translate french b1c08ws02_e87f006e:
 
     # ba "I bet the shark one is the lie. There's no way in hell your ass is getting anywhere near sharks!"
-    ba "Je parie que celle avec les requins est un mensonge. Jamais de la vie ton cul s'approcherait des requins!"
+    ba "Je parie que celle avec les requins est un mensonge. Jamais de la vie son cul s'approcherait des requins!"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:218
 translate french b1c08ws02_51621ab1:
@@ -386,7 +386,7 @@ translate french b1c08ws02_7420da03:
 translate french b1c08ws02_5112f96c:
 
     # mc "I'm going with Monika on this one. I don't believe you're much of a cook, Simon."
-    mc "Je vais avec Monika sur ce coup-là. Je ne crois pas que tu sois doué en cuisine, Simon."
+    mc "Je suis avec Monika sur ce coup-là. Je ne crois pas que tu sois doué en cuisine, Simon."
 
 # game/code/Book-1/Chapter-8w/s02.rpy:229
 translate french b1c08ws02_7c743bfd:
@@ -422,7 +422,7 @@ translate french b1c08ws02_171ce8bb:
 translate french b1c08ws02_20e1c949:
 
     # ba "Fuck no! Get the new guy to do it!"
-    ba "Putain, non! Faites-le faire au nouveau!"
+    ba "Putain non ! Demande au nouveau de le faire"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:249
 translate french b1c08ws02_9e6f11df:
@@ -470,7 +470,7 @@ translate french b1c08ws02_dd73f62b:
 translate french b1c08ws02_58dd1f40:
 
     # sl "That's correct. And remember, they should be interesting or funny. We want to keep this entertaining."
-    sl "Exact. Et souvenez-vous, elles doivent être intéressantes ou drôles. On veut rendre ça divertissant."
+    sl "Exact. Et souviens-toi, elles doivent être intéressantes ou drôles. On veut rendre ça divertissant."
 
 # game/code/Book-1/Chapter-8w/s02.rpy:272
 translate french b1c08ws02_a411b581:
@@ -710,7 +710,7 @@ translate french b1c08ws02_b9360388:
 translate french b1c08ws02_cf50fb9b:
 
     # "You finally sit back down and let the group figure your lies out."
-    "Tu finis par te rasseoir et laisses le groupe deviner tes mensonges."
+    "Tu finis par te rasseoir et laisses le groupe deviner ton mensonges."
 
 # game/code/Book-1/Chapter-8w/s02.rpy:440
 translate french b1c08ws02_9741e484:
@@ -908,7 +908,7 @@ translate french b1c08ws02_81dd078b:
 translate french b1c08ws02_be231960:
 
     # "Iona pauses for a moment, just to look up at you with a mischievous smirk before bobbing her head slowly down the length of your shaft once again."
-    "Iona s'arrête un instant, juste pour te regarder avec un sourire narquois espiègle avant de baisser lentement la tête le long de ton manche une fois de plus."
+    "Iona s'arrête un instant, juste pour te regarder avec un sourire narquois et espiègle avant de baisser lentement la tête le long de ton manche une fois de plus."
 
 # game/code/Book-1/Chapter-8w/s02.rpy:539
 translate french b1c08ws02_72e7d1eb:
@@ -932,7 +932,7 @@ translate french b1c08ws02_95d96455:
 translate french b1c08ws02_dfcafa5e:
 
     # mm "*Whispers* You little rascals. I knew you two were acting sus."
-    mm "*Chuchote* Vous, petits coquins. Je savais que vous agissiez comme des sus."
+    mm "*Chuchotements* Espèces de petits coquins. Je savais que vous faisiez quelques chose tous les deux."
 
 # game/code/Book-1/Chapter-8w/s02.rpy:547
 translate french b1c08ws02_a6e001ae:
@@ -944,25 +944,25 @@ translate french b1c08ws02_a6e001ae:
 translate french b1c08ws02_e47cdecd:
 
     # "Iona pops your cock out of her mouth for just a second. The hit of cold air makes you shiver. She keeps you occupied with her hand as she talks with Monika."
-    "Iona sort ta bite de sa bouche pendant juste une seconde. Le souffle de l'air froid te fait frissonner. Elle t'occupe avec sa main pendant qu'elle parle avec Monika."
+    "Iona sort ta bite de sa bouche pendant juste une seconde. Le souffle de l'air froid te fait frissonner. Elle s'occupe de toi avec sa main pendant qu'elle parle avec Monika."
 
 # game/code/Book-1/Chapter-8w/s02.rpy:552
 translate french b1c08ws02_9cb81112:
 
     # ir "Just keeping ourselves entertained."
-    ir "Juste pour nous divertir."
+    ir " c'est juste pour nous divertir."
 
 # game/code/Book-1/Chapter-8w/s02.rpy:553
 translate french b1c08ws02_5ed2d8c8:
 
     # ir "You good to keep it between us?"
-    ir "Tu es prêt à garder ça entre nous?"
+    ir "Tu es prête à garder ça entre nous?"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:555
 translate french b1c08ws02_b8199613:
 
     # mm "*Chuckles* I'm no bloody tattle-tail. You two have fun."
-    mm "*Rires* Je ne suis pas un bavard. Vous deux, amusez-vous."
+    mm "*Rires* Je ne suis pas une bavarde. Vous deux, amusez-vous bien."
 
 # game/code/Book-1/Chapter-8w/s02.rpy:559
 translate french b1c08ws02_cec0db95:
@@ -974,7 +974,7 @@ translate french b1c08ws02_cec0db95:
 translate french b1c08ws02_37cb34e8:
 
     # "She looks up at you with those beautiful eyes and smirks as she begins bobbing her head more quickly down the length of your shaft."
-    "Elle te regarde avec ces beaux yeux et sourit alors qu'elle commence à bouger la tête plus rapidement le long de ta tige."
+    "Elle te regarde avec ces beaux yeux et sourit alors qu'elle commence à bouger la tête plus rapidement le long de ta bite."
 
 # game/code/Book-1/Chapter-8w/s02.rpy:567
 translate french b1c08ws02_f98acb57:
@@ -986,7 +986,7 @@ translate french b1c08ws02_f98acb57:
 translate french b1c08ws02_a1831067:
 
     # "Suddenly, the bus hits a bump in the road, causing Iona to take you even further into her mouth. She almost chokes, but manages to hold on and continue taking you to your very base."
-    "Soudain, le bus heurte une bosse sur la route, ce qui oblige Iona à vous emmener encore plus loin dans sa bouche. Elle s'étouffe presque, mais parvient à tenir le coup et à continuer de vous emmener jusqu'à votre base."
+    "Soudain, le bus heurte une bosse sur la route, ce qui oblige Iona à vous pendre encore plus loin dans sa bouche. Elle s'étouffe presque, mais parvient à tenir le coup et à continuer de vous avaler jusqu'à votre base."
 
 # game/code/Book-1/Chapter-8w/s02.rpy:585
 translate french b1c08ws02_4e167d92:
@@ -1004,7 +1004,7 @@ translate french b1c08ws02_1e2c18d4:
 translate french b1c08ws02_bbcfa534:
 
     # "In no time, your cum is filling Iona's mouth and she takes every last drop before slowly pulling off of you and licking her lips happily."
-    "En un rien de temps, ton sperme remplit la bouche d'Iona et elle en prend jusqu'à la dernière goutte avant de se retirer lentement de toi et de se lécher les lèvres joyeusement."
+    "En un rien de temps, ton sperme remplit la bouche d'Iona et elle prend tous jusqu'à la dernière goutte avant de se retirer lentement de toi et de se lécher les lèvres joyeusement."
 
 # game/code/Book-1/Chapter-8w/s02.rpy:598
 translate french b1c08ws02_8fd6c970:
@@ -1022,7 +1022,7 @@ translate french b1c08ws02_8d44d7ed:
 translate french b1c08ws02_22bfefcc:
 
     # "She leans back onto her chair before noticing some cum that escaped her mouth and made a mess on her cheek."
-    "Elle s'appuie sur sa chaise avant de remarquer du sperme qui s'échappe de sa bouche et lui fait des dégâts sur la joue."
+    "Elle s'appuie sur son siège avant de remarquer du sperme qui s'échappe de sa bouche et lui fait des dégâts sur la joue."
 
 # game/code/Book-1/Chapter-8w/s02.rpy:601
 translate french b1c08ws02_492d0498:
@@ -1034,7 +1034,7 @@ translate french b1c08ws02_492d0498:
 translate french b1c08ws02_74178b68:
 
     # "She instead pulls her pants up and smears it onto her panties."
-    "Au lieu de cela, elle remonte son pantalon et l'étale sur sa culotte."
+    "Au lieu de cela, elle remonte sa jupe et l'étale sur sa culotte."
 
 # game/code/Book-1/Chapter-8w/s02.rpy:608
 translate french b1c08ws02_8a954c56:
@@ -1052,7 +1052,7 @@ translate french b1c08ws02_23b6f24e:
 translate french b1c08ws02_afc7a609:
 
     # "You can feel your cum seeping through the fabric of her pants as Iona rests her head on your shoulder."
-    "Tu peux sentir ton sperme s'infiltrer à travers le tissu de son pantalon alors qu'Iona pose sa tête sur ton épaule."
+    "Tu peux sentir ton sperme s'infiltrer à travers le tissu de sa jupe alors qu'Iona pose sa tête sur ton épaule."
 
 # game/code/Book-1/Chapter-8w/s02.rpy:616
 translate french b1c08ws02_e522944f:
@@ -1118,7 +1118,7 @@ translate french b1c08ws02_42fdbdb4:
 translate french b1c08ws02_d052456f:
 
     # ba "What the fuck!? We paid good money for that shit and they just fucking tell us to pound sand just like that? Fuck those assholes."
-    ba "C'est quoi ce bordel!? Nous avons payé beaucoup d'argent pour cette merde et ils nous disent juste de piler du sable juste comme ça? Niquez ces connards."
+    ba "C'est quoi ce bordel !? On a payé cher pour cette merde et ils nous disent juste de piler du sable juste comme ça ? J'emmerde ces connards."
 
 # game/code/Book-1/Chapter-8w/s02.rpy:663
 translate french b1c08ws02_2b80b00b:
@@ -1136,7 +1136,7 @@ translate french b1c08ws02_86edfefe:
 translate french b1c08ws02_3e734f0d:
 
     # sa "Alright. Everyone calm down. I'm sure we can sort this out."
-    sa "D'accord. Tout le monde calme-toi. Je suis sûr qu'on peut résoudre ça."
+    sa "D'accord. Tout le monde se calme. Je suis sûr qu'on peut résoudre ça."
 
 # game/code/Book-1/Chapter-8w/s02.rpy:669
 translate french b1c08ws02_57eda539:
@@ -1148,7 +1148,7 @@ translate french b1c08ws02_57eda539:
 translate french b1c08ws02_0feb0810:
 
     # sa "We're the Winner's Volleyball Team. We're not gonna let some small bump in the road stop us from our goal."
-    sa "Nous sommes l'équipe de volleyball des gagnants. On ne va pas laisser un petit obstacle sur notre chemin nous arrêter dans notre objectif."
+    sa "Nous sommes l'équipe de volleyball des Winner's. On ne va pas laisser un petit obstacle sur notre chemin nous arrêter dans notre objectif."
 
 # game/code/Book-1/Chapter-8w/s02.rpy:673
 translate french b1c08ws02_facbf5ae:
@@ -1178,7 +1178,7 @@ translate french b1c08ws02_b1b04a6f:
 translate french b1c08ws02_3ee4c963:
 
     # sa "How do we want to split up?"
-    sa "Comment on veut se répartir?"
+    sa "Comment allons nous vous répartir?"
 
 # game/code/Book-1/Chapter-8w/s02.rpy:683
 translate french b1c08ws02_4e23a035:
@@ -1214,13 +1214,13 @@ translate french b1c08ws02_9c5c51c6:
 translate french b1c08ws02_c8b9a783:
 
     # ba "Oh my God, and I don't want to be in a room with you two bickering."
-    ba "Oh mon Dieu, et je ne veux pas être dans une chambre avec vous deux qui vous dispute."
+    ba "Oh mon Dieu, et je ne veux pas être dans une pièce avec vous deux en train de vous chamailler."
 
 # game/code/Book-1/Chapter-8w/s02.rpy:699
 translate french b1c08ws02_59b63bb1:
 
     # mct "Murderous bitch? Huh, I didn't know Monika and Olesya hated each other that much. Murderous is interesting wording..."
-    mct "Salope meurtrière? Hein, je ne savais pas que Monika et Olesya se détestaient à ce point. Meurtrière est un terme intéressant..."
+    mct "Salope meurtrière? Hein, je ne savais pas que Monika et Olesya se détestaient à ce point. Meurtrière est un terme assez fort mais intéressant..."
 
 # game/code/Book-1/Chapter-8w/s02.rpy:702
 translate french b1c08ws02_2cd88551:

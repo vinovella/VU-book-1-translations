@@ -56,13 +56,13 @@ translate french b1c07cs04_f1a22266:
 translate french b1c07cs04_82253c55:
 
     # mc "Like, all the way?"
-    mc "Genre, jusqu'au bout?"
+    mc "Genre, à poil... à poil?"
 
 # game/code/Book-1/Chapter-7c/s04.rpy:54
 translate french b1c07cs04_7c6772ad:
 
     # dk "I mean, if you want to, I won't stop you."
-    dk "Je veux dire, si tu veux, je ne vais pas t'arrêter."
+    dk "Je veux dire, oui si tu veux, je ne vais surement pas t'arrêter."
 
 # game/code/Book-1/Chapter-7c/s04.rpy:57
 translate french b1c07cs04_54a874f2:
@@ -98,13 +98,13 @@ translate french b1c07cs04_44a0eb46:
 translate french b1c07cs04_8953b04a:
 
     # mc "See something you like?"
-    mc "Tu vois quelque chose qui te plaît?"
+    mc "Vous voyez quelque chose qui vous plaît mesdames?"
 
 # game/code/Book-1/Chapter-7c/s04.rpy:74
 translate french b1c07cs04_07964221:
 
     # dk "Well if you're as full yourself as your underwear is full of {i}you{/i} then I assume you're plenty comfortable."
-    dk "Eh bien, si tu es aussi pleine de toi-même que ton sous-vêtement est plein de {i}toi{/i}, alors je suppose que tu es bien à l'aise."
+    dk "Eh bien, si tu es aussi rassasié que ton sous-vêtements est remplis de {i}toi{/i}, alors je suppose que tu es bien à l'aise."
 
 # game/code/Book-1/Chapter-7c/s04.rpy:76
 translate french b1c07cs04_d684cf0a:
@@ -134,13 +134,13 @@ translate french b1c07cs04_a6428060:
 translate french b1c07cs04_5a60f995:
 
     # dk "But I thought it'd be beneficial for you two to try this exercise out with each other first."
-    dk "Mais j'ai pensé qu'il serait bénéfique pour vous deux d'essayer cet exercice ensemble d'abord."
+    dk "Mais j'ai pensée qu'il serait bénéfique pour vous deux d'essayer cet exercice ensemble d'abord."
 
 # game/code/Book-1/Chapter-7c/s04.rpy:88
 translate french b1c07cs04_764e8cca:
 
     # mc "Okay. So what's the exercise, then?"
-    mc "D'accord. Alors, quel est l'exercice, alors?"
+    mc "Très bien, quel est l'exercice alors?"
 
 # game/code/Book-1/Chapter-7c/s04.rpy:91
 translate french b1c07cs04_c02bb706:
@@ -176,7 +176,7 @@ translate french b1c07cs04_c54acd3e:
 translate french b1c07cs04_237abb02:
 
     # nv "Um... And a unique bravery. Some might mistake it for stubbornness, but there's a kindness in your eyes that makes me feel safe."
-    nv "Euh... Et un courage unique. Certains pourraient le confondre avec de l'entêtement, mais il y a une gentillesse dans tes yeux qui me fait me sentir en sécurité."
+    nv "Euh... Et un courage unique. Certains pourraient le confondre avec de l'entêtement, mais il y a une lueur dans tes yeux qui me fait me sentir en sécurité."
 
 # game/code/Book-1/Chapter-7c/s04.rpy:123
 translate french b1c07cs04_b9cbafce:
@@ -206,7 +206,7 @@ translate french b1c07cs04_d834bb3e:
 translate french b1c07cs04_7cc94997:
 
     # mc "I see Nia's radiant spirit and kind heart."
-    mc "Je vois l'esprit radieux de Nia et son cœur bienveillant."
+    mc "Je vois un esprit radieux et un cœur bienveillant."
 
 # game/code/Book-1/Chapter-7c/s04.rpy:141
 translate french b1c07cs04_b104f267:
@@ -218,7 +218,7 @@ translate french b1c07cs04_b104f267:
 translate french b1c07cs04_4fa7f761:
 
     # mc "It's true, though. You have so much {i}passion{/i}. It's invigorating."
-    mc "C'est vrai, pourtant. Tu as tellement de {i}passion{/i}. C'est revigorant."
+    mc "C'est vrai pourtant. Tu as tellement de {i}passion{/i}. C'est revigorant."
 
 # game/code/Book-1/Chapter-7c/s04.rpy:147
 translate french b1c07cs04_d78412f3:
@@ -308,13 +308,13 @@ translate french b1c07cs04_e86f40a6:
 translate french b1c07cs04_4844aa6e:
 
     # nv "But I fear I've misled you, because I'm not...I don't feel {i}strong{/i} at all. Or resilient. And I'm hardly creative, or at least I don't feel like I'm {i}good{/i} at what I—"
-    nv "Mais je crains de t'avoir induit en erreur, car je ne suis pas... Je ne me sens pas {i}forte{/i} du tout. Ni résiliente. Et je suis à peine créative, ou du moins je ne me sens pas {i}bonne{/i} dans ce que je—"
+    nv "Mais je crains t'avoir induit en erreur, car je ne suis pas... Je ne me sens pas {i}forte{/i} du tout. Ni résiliente. Et je suis à peine créative, ou du moins je ne me sens pas {i}bonne{/i} dans ce que je—"
 
 # game/code/Book-1/Chapter-7c/s04.rpy:198
 translate french b1c07cs04_da13335d:
 
     # dk "You're all of those things and more, love. But it's okay that you don't see that in yourself yet. You will with time."
-    dk "Tu es tout ça et bien plus encore, mon amour. Mais c'est d'accord si tu ne le vois pas encore en toi. Tu le verras avec le temps."
+    dk "Tu es tout ça et bien plus encore, mon amour. Mais c'est okay si tu ne le vois pas encore en toi. Tu le verras avec le temps."
 
 # game/code/Book-1/Chapter-7c/s04.rpy:201
 translate french b1c07cs04_dbdf6176:
@@ -338,7 +338,7 @@ translate french b1c07cs04_1ae6e167:
 translate french b1c07cs04_06f5c8d2:
 
     # dk "That's my girl."
-    dk "C'est ma fille."
+    dk "C'est bien ma fille."
 
 # game/code/Book-1/Chapter-7c/s04.rpy:214
 translate french b1c07cs04_4e417cd4:
@@ -350,7 +350,7 @@ translate french b1c07cs04_4e417cd4:
 translate french b1c07cs04_339b9a5d:
 
     # dk "It's important to feel connected to those around us, wouldn't you say?"
-    dk "Il est important de se sentir connecté à ceux qui nous entourent, tu ne trouves pas?"
+    dk "Il est important de se sentir connecté à ceux qui nous entourent, vous ne trouvez pas?"
 
 # game/code/Book-1/Chapter-7c/s04.rpy:231
 translate french b1c07cs04_22fb090c:
@@ -368,7 +368,7 @@ translate french b1c07cs04_705884da:
 translate french b1c07cs04_a9350499:
 
     # "You look at Del curiously. Her theatrics seem normal after the time you've spent together."
-    "Tu regardes Del avec curiosité. Ses théâtrales semblent normales après le temps que vous avez passé ensemble."
+    "Tu regardes Del avec curiosité. Ses mises en scène semblent normales après le temps que vous avez passé ensemble."
 
 # game/code/Book-1/Chapter-7c/s04.rpy:239
 translate french b1c07cs04_3826fd3f:
@@ -404,7 +404,7 @@ translate french b1c07cs04_6d85112f:
 translate french b1c07cs04_f2301b69:
 
     # dk "Very good, Nia love. What does your heart tell you to do right now?"
-    dk "Très bien, ma chère Nia. Que te dit ton cœur à faire maintenant?"
+    dk "Très bien, ma chère Nia. Qu'est ce que ton cœur de dis de faire maintenant?"
 
 # game/code/Book-1/Chapter-7c/s04.rpy:258
 translate french b1c07cs04_a9a9064e:
@@ -428,7 +428,7 @@ translate french b1c07cs04_a076b464:
 translate french b1c07cs04_fb2cc636:
 
     # "Nia whispers softly, her voice intimate and breathy."
-    "Nia murmure doucement, sa voix intime et haletante."
+    "Nia murmure doucement, d'une voix intime et haletante."
 
 # game/code/Book-1/Chapter-7c/s04.rpy:275
 translate french b1c07cs04_c6fb2ce8:
@@ -440,7 +440,7 @@ translate french b1c07cs04_c6fb2ce8:
 translate french b1c07cs04_a8342857:
 
     # nv "I... want to know what connection with you is like."
-    nv "Je... veux savoir ce que la connexion avec toi est."
+    nv "Je... veux savoir ce que est la connexion avec toi."
 
 # game/code/Book-1/Chapter-7c/s04.rpy:280
 translate french b1c07cs04_8ca192b4:
@@ -458,7 +458,7 @@ translate french b1c07cs04_6e95a802:
 translate french b1c07cs04_40e3ecba:
 
     # "An electric current of passion passes through you and Nia."
-    "Un courant électrique de passion traverse toi et Nia."
+    "Un courant électrique de passion vous traverse toi et Nia."
 
 # game/code/Book-1/Chapter-7c/s04.rpy:288
 translate french b1c07cs04_2e68da17:
@@ -470,13 +470,13 @@ translate french b1c07cs04_2e68da17:
 translate french b1c07cs04_13da2613:
 
     # "Nia's hand slipping beneath your briefs surprises you, and you buck your hips into Nia accidentally."
-    "La main de Nia glissant sous ton slip te surprend, et tu pousses tes hanches vers Nia accidentellement."
+    "La main de Nia glissant sous ton caleçon et te surprend, et tu pousses tes hanches accidentellement vers Nia."
 
 # game/code/Book-1/Chapter-7c/s04.rpy:298
 translate french b1c07cs04_de50b481:
 
     # "Nia smiles against your lips, amused by your reaction."
-    "Nia sourit contre tes lèvres, amusée par ta réaction."
+    "Nia sourit contre tes lèvres, amusée de ta réaction."
 
 # game/code/Book-1/Chapter-7c/s04.rpy:300
 translate french b1c07cs04_49ca11cb:
@@ -488,7 +488,7 @@ translate french b1c07cs04_49ca11cb:
 translate french b1c07cs04_da4493ad:
 
     # "You caress her supple flesh. Nia moans against your lips and her kiss turns eager, needy."
-    "Tu caresses sa chair souple. Nia gémit contre tes lèvres et son baiser devient avide, désireuse."
+    "Tu caresses son sein souple. Nia gémit contre tes lèvres et son baiser devient avide, désireuse."
 
 # game/code/Book-1/Chapter-7c/s04.rpy:304
 translate french b1c07cs04_3d2c510a:
@@ -500,7 +500,7 @@ translate french b1c07cs04_3d2c510a:
 translate french b1c07cs04_38644c86:
 
     # "Nia's tongue explores your mouth greedily, wanting to taste every part of you."
-    "La langue de Nia explore ta bouche avidement, voulant goûter chaque partie de toi."
+    "La langue de Nia explore ta bouche avidement, voulant goûter chaque partie de ta langue."
 
 # game/code/Book-1/Chapter-7c/s04.rpy:310
 translate french b1c07cs04_5e44cf3f:
@@ -518,13 +518,13 @@ translate french b1c07cs04_538a6ccb:
 translate french b1c07cs04_d1ca0568:
 
     # "Nia lightly grinds her hips against yours, adding a teasingly small amount of friction to your cock and her clit."
-    "Nia frotte légèrement ses hanches contre les tiennes, ajoutant une petite friction taquine à ton sexe et son clitoris."
+    "Nia frotte légèrement ses hanches contre les tiennes, ajoutant une petite friction taquine à ta queue et son clitoris."
 
 # game/code/Book-1/Chapter-7c/s04.rpy:317
 translate french b1c07cs04_d84440bf:
 
     # "You can tell she wants to go further."
-    "Tu peux dire qu'elle veut aller plus loin."
+    "Tu peux sentir qu'elle veut aller plus loin."
 
 # game/code/Book-1/Chapter-7c/s04.rpy:320
 translate french b1c07cs04_5412c2b2:
@@ -542,7 +542,7 @@ translate french b1c07cs04_e2e0d503:
 translate french b1c07cs04_087e9f39:
 
     # mc "You didn't do anything wrong—"
-    mc "Tu n'as rien fait de mal—"
+    mc "Ne le soit pas—"
 
 # game/code/Book-1/Chapter-7c/s04.rpy:334
 translate french b1c07cs04_ecf0649c:
@@ -620,13 +620,13 @@ translate french b1c07cs04_e50f69c5:
 translate french b1c07cs04_17f4a3ca:
 
     # mct "Obviously I can't just tell her I was questioning everything about this group."
-    mct "Évidemment, je ne peux pas lui dire que je remettais en question tout ce groupe."
+    mct "Évidemment, je ne peux pas lui dire que je remet en question tout ce groupe."
 
 # game/code/Book-1/Chapter-7c/s04.rpy:373
 translate french b1c07cs04_60f22ff6:
 
     # mc "Just a new experience, that's all."
-    mc "Juste une nouvelle expérience, c'est tout."
+    mc "Non c'est juste une nouvelle expérience, c'est tout."
 
 # game/code/Book-1/Chapter-7c/s04.rpy:376
 translate french b1c07cs04_14362db1:
@@ -686,7 +686,7 @@ translate french b1c07cs04_bda2961b:
 translate french b1c07cs04_4d57ece2:
 
     # mc "I guess I worried if {i}Nia{/i} wanted me as badly as I wanted her."
-    mc "Je suppose que je m'inquiétais si {i}Nia{/i} me voulait autant que je la voulais."
+    mc "Je suppose que je m'inquiétais de savoir {i}Nia{/i} me voulait autant que je la voulais."
 
 # game/code/Book-1/Chapter-7c/s04.rpy:404
 translate french b1c07cs04_76109964:
@@ -698,7 +698,7 @@ translate french b1c07cs04_76109964:
 translate french b1c07cs04_f8d82be8:
 
     # mc "Of course I do, but sometimes hasty decisions lead to regrets."
-    mc "Bien sûr, mais parfois les décisions hâtives mènent à des regrets."
+    mc "Bien sûr, mais parfois les décisions hâtives mènent aux regrets."
 
 # game/code/Book-1/Chapter-7c/s04.rpy:407
 translate french b1c07cs04_15b713d9:
@@ -710,7 +710,7 @@ translate french b1c07cs04_15b713d9:
 translate french b1c07cs04_a9b96202:
 
     # dk "In fact, her biggest worry right now is whether or not she made {i}you{/i} uncomfortable or not."
-    dk "En fait, sa plus grande inquiétude en ce moment est de savoir si elle t'a rendu {i}inconfortable{/i} ou pas."
+    dk "En fait, sa plus grande inquiétude en ce moment est de savoir si elle t'as rendu {i}inconfortable{/i} ou pas."
 
 # game/code/Book-1/Chapter-7c/s04.rpy:411
 translate french b1c07cs04_d39340aa:
@@ -734,7 +734,7 @@ translate french b1c07cs04_e18869da:
 translate french b1c07cs04_683b2392:
 
     # dk "Then there's nothing to worry about or be ashamed of. It's not up to you to let others decide if they can love you or not."
-    dk "Alors il n'y a rien à craindre ni à avoir honte de. Ce n'est pas à toi de laisser les autres décider s'ils peuvent t'aimer ou non."
+    dk "Alors il n'y a rien à craindre  et ni à avoir honte de quoi que ce soit. Ce n'est pas à toi de laisser les autres décider s'ils peuvent t'aimer ou non."
 
 # game/code/Book-1/Chapter-7c/s04.rpy:418
 translate french b1c07cs04_66817b95:
@@ -752,7 +752,7 @@ translate french b1c07cs04_73c99031:
 translate french b1c07cs04_b1d2f2de:
 
     # dk "You're blind if you don't see love all around you."
-    dk "Tu es aveugle si tu ne vois pas l'amour tout autour de toi."
+    dk "Tu es aveugle si tu ne vois pas tout l'amour autour de toi."
 
 # game/code/Book-1/Chapter-7c/s04.rpy:427
 translate french b1c07cs04_6611c5fe:
@@ -824,7 +824,7 @@ translate french b1c07cs04_054c5ee0:
 translate french b1c07cs04_48b1be7a:
 
     # "Del's hand slips under your briefs, and you moan lightly, wanting her to continue touching you."
-    "La main de Del glisse sous ton slip, et tu gémis légèrement, voulant qu'elle continue à te toucher."
+    "La main de Del glisse sous ton slip, et tu gémis légèrement, voulant qu'elle continue de te toucher."
 
 # game/code/Book-1/Chapter-7c/s04.rpy:462
 translate french b1c07cs04_ab1ae648:
@@ -842,19 +842,19 @@ translate french b1c07cs04_538c1030:
 translate french b1c07cs04_12960733:
 
     # "Delphia smiles at your neediness and kisses your neck. Her soft tits press against your chest, and it makes your cock ache for more."
-    "Delphia sourit de ton besoin et embrasse ton cou. Ses seins doux pressent contre ta poitrine, et cela fait ton sexe souffrir de désir."
+    "Delphia sourit de ton besoin et embrasse ton cou. Ses seins doux pressent contre ta poitrine, et cela fait souffrir ta queue de désir."
 
 # game/code/Book-1/Chapter-7c/s04.rpy:470
 translate french b1c07cs04_5eb1b946:
 
     # dk "Now, normally I wouldn't ask this of a newer member, but I promised I'd help you advance through the ranks quickly."
-    dk "Normalement, je ne demanderais pas cela à un membre récent, mais j'ai promis de t'aider à avancer rapidement dans les rangs."
+    dk "Normalement, je ne demanderais pas cela à un nouveau membre, mais j'ai promis de t'aider à avancer rapidement dans les rangs."
 
 # game/code/Book-1/Chapter-7c/s04.rpy:471
 translate french b1c07cs04_514a9629:
 
     # dk "Since I'm so efficient and clever, I volunteered you to convince Lumi to get a tattoo."
-    dk "Comme je suis tellement efficace et intelligent, je t'ai proposé pour convaincre Lumi de se faire tatouer."
+    dk "Comme je suis tellement efficace et intelligente, je te propose pour convaincre Lumi de se faire tatouer."
 
 # game/code/Book-1/Chapter-7c/s04.rpy:474
 translate french b1c07cs04_813e7ec4:
@@ -872,7 +872,7 @@ translate french b1c07cs04_c8d5cad9:
 translate french b1c07cs04_087b34da:
 
     # "Del licks the side of your neck and adds more friction to your cock with her hand."
-    "Del lèche le côté de ton cou et ajoute plus de friction à ton sexe avec sa main."
+    "Del lèche le côté de ton cou et ajoute plus de friction sur ta bite avec sa main."
 
 # game/code/Book-1/Chapter-7c/s04.rpy:484
 translate french b1c07cs04_e528be70:
@@ -890,13 +890,13 @@ translate french b1c07cs04_f00335bc:
 translate french b1c07cs04_1830bec9:
 
     # "Delphia's touch makes it hard to think straight. Half of your brain is envisioning pinning her against the wall and fucking her hard until you both cum."
-    "Le toucher de Delphia rend difficile la concentration. La moitié de ton cerveau imagine te la coller contre le mur et la baiser violemment jusqu'à ce que vous jouissiez tous les deux."
+    "Le toucher de Delphia rend difficile la concentration. La moitié de ton cerveau imagine la coller contre le mur et la baiser violemment jusqu'à ce que vous jouissiez tous les deux."
 
 # game/code/Book-1/Chapter-7c/s04.rpy:487
 translate french b1c07cs04_9ca2687b:
 
     # "The other half calculates the new information she's presented."
-    "L'autre moitié calcule les nouvelles informations qu'elle a présentées."
+    "L'autre moitié calcule les nouvelles informations qu'elle présentes."
 
 # game/code/Book-1/Chapter-7c/s04.rpy:490
 translate french b1c07cs04_4e889d35:
@@ -914,7 +914,7 @@ translate french b1c07cs04_63e27a6b:
 translate french b1c07cs04_7e38e542:
 
     # mct "A tattoo isn't a life or death situation, but what if a serial kidnapper or psychopath took those girls? That's more important than a tattoo."
-    mct "Un tatouage n'est pas une question de vie ou de mort, mais et si un kidnappeur en série ou un psychopathe avait pris ces filles? C'est plus important qu'un tatouage."
+    mct "Un tatouage n'est pas une question de vie ou de mort, et si un kidnappeur en série ou un psychopathe avait pris ces filles? C'est plus important qu'un tatouage."
 
 # game/code/Book-1/Chapter-7c/s04.rpy:495
 translate french b1c07cs04_f7f52c2d:
@@ -944,7 +944,7 @@ translate french b1c07cs04_3e8680f6:
 translate french b1c07cs04_e062b79c:
 
     # dk "Believe me, I {i}always{/i} finish what I start. I'm just not done with you yet."
-    dk "Crois-moi, je {i}fini toujours{/i} ce que je commence. Je n'ai juste pas encore fini avec toi."
+    dk "Crois-moi, je {i}fini toujours{/i} ce que je commence. Je n'en ai juste pas encore fini avec toi."
 
 translate french strings:
 

@@ -8,7 +8,7 @@ translate french b1c08ws10_ae9acccb:
 translate french b1c08ws10_a74ed1b6:
 
     # ba "Alone? So much for being alone! You might as well have been passed out in the middle of the fucking stadium!"
-    ba "Seul? Loin d'être seul! Tu aurais aussi bien pu être évanoui en plein milieu du putain de stade!"
+    ba "Seul? Voilà pour être seul! Tu aurais aussi bien pu t'évanouir en plein milieu du stade putain!"
 
 # game/code/Book-1/Chapter-8w/s10.rpy:22
 translate french b1c08ws10_94c5cc5d:
@@ -44,7 +44,7 @@ translate french b1c08ws10_7a0e5030:
 translate french b1c08ws10_73a418f6:
 
     # ba "Then maybe you should've fucking tagged out before you dropped 'cause then we wouldn't've gotten our asses handed to us by trying to cover {i}you{/i}."
-    ba "Alors peut-être que tu aurais dû foutrement sortir avant de t'effondrer, parce qu'on n'aurait pas pris une raclée en essayant de te couvrir, {i}toi{/i}."
+    ba "Alors peut-être que tu aurais dû sortir avant de t'effondrer, au moin nous ne nous serions pas fait botter le cul en essayant de couvrir, {i}toi{/i}."
 
 # game/code/Book-1/Chapter-8w/s10.rpy:35
 translate french b1c08ws10_eec02a72:
@@ -56,7 +56,7 @@ translate french b1c08ws10_eec02a72:
 translate french b1c08ws10_075a5da1:
 
     # ba "Fire that quickly turned to smoke."
-    ba "Du feu qui s'est rapidement transformé en fumée."
+    ba "Un feu qui s'est rapidement transformé en fumée."
 
 # game/code/Book-1/Chapter-8w/s10.rpy:39
 translate french b1c08ws10_42171cd0:
@@ -122,7 +122,7 @@ translate french b1c08ws10_71008e80:
 translate french b1c08ws10_ae54e77d:
 
     # oa "The tournament is important, but I think we're missing the point here. We should be more concerned about [mcname]'s health. It was his first time using the drugs, it could've been even worse."
-    oa "Le tournoi est important, mais je pense qu'on passe à côté de l'essentiel. On devrait se préoccuper davantage de la santé de [mcname]. C'était sa première fois avec les drogues, ça aurait pu être encore pire."
+    oa "Le tournoi est important, mais je pense qu'on passe à côté de l'essentiel. On devrait se préoccuper davantage de la santé de [mcname]. C'était sa première fois avec les drogues, ça aurait pu être bien pire."
 
 # game/code/Book-1/Chapter-8w/s10.rpy:65
 translate french b1c08ws10_7acfd1df:
@@ -140,19 +140,19 @@ translate french b1c08ws10_3266c000:
 translate french b1c08ws10_7225795d:
 
     # mc "I appreciate the concern, I really do."
-    mc "J'apprécie la préoccupation, vraiment."
+    mc "J'apprécie votre préoccupation, vraiment."
 
 # game/code/Book-1/Chapter-8w/s10.rpy:71
 translate french b1c08ws10_9f611483:
 
     # mc "But I also understand the frustration. I made a judgment call and it almost cost us everything."
-    mc "Mais je comprends aussi la frustration. J'ai pris une décision hâtive et ça a failli nous coûter tout."
+    mc "Mais je comprends aussi votre frustration. J'ai pris une décision hâtive et ça a failli nous coûter cher."
 
 # game/code/Book-1/Chapter-8w/s10.rpy:74
 translate french b1c08ws10_518adcdb:
 
     # mc "I did it because I wanted us to win. I thought I could deal with it. I couldn't."
-    mc "Je l'ai fait parce que je voulais qu'on gagne. Je pensais que je pourrais gérer. Je ne l'ai pas pu."
+    mc "Je l'ai fait parce que je voulais qu'on gagne. Je pensais que je pourrais gérer. Mais je n'ai pas pu."
 
 # game/code/Book-1/Chapter-8w/s10.rpy:75
 translate french b1c08ws10_99046264:
@@ -170,13 +170,13 @@ translate french b1c08ws10_8e70be1a:
 translate french b1c08ws10_777e1ea1:
 
     # oa "We wouldn't have had to deal with any of this if we just played without it. We don't need dangerous—"
-    oa "On n'aurait pas eu à gérer tout ça si on avait juste joué sans ça. On n'a pas besoin de trucs dangereux—"
+    oa "On n'aurait pas eu à gérer tout ça si on avait juste joué sans ça. On n'a pas besoin de ces trucs dangereux—"
 
 # game/code/Book-1/Chapter-8w/s10.rpy:82
 translate french b1c08ws10_6e3bdfca:
 
     # ba "Dangerous? Oh, so it's alright when you shoot it up, but us also using it is the problem?"
-    ba "Dangereux? Oh, donc ça va quand toi tu t'injectes, mais nous, c'est le problème si on l'utilise?"
+    ba "Dangereux? Oh, donc ça va quand toi tu t'injectes, mais nous, c'est un problème si on l'utilise?"
 
 # game/code/Book-1/Chapter-8w/s10.rpy:86
 translate french b1c08ws10_b97d9c13:
@@ -206,7 +206,7 @@ translate french b1c08ws10_000a975d:
 translate french b1c08ws10_a8879ad9:
 
     # sm "Nothing is gonna come from us bickering with each other like children."
-    sm "Rien ne sortira de nous disputer comme des enfants."
+    sm "Rien de bon ne sortira à nous disputer comme des enfants."
 
 # game/code/Book-1/Chapter-8w/s10.rpy:99
 translate french b1c08ws10_d8a4bcdc:
@@ -224,7 +224,7 @@ translate french b1c08ws10_51323b69:
 translate french b1c08ws10_3bc4c7eb:
 
     # ba "Nobody else here had any fucking problem getting used to it, but we stop everything up 'cause Prince Charming here can't fucking keep his dick hard?"
-    ba "Personne d'autre ici n'a eu de problème pour s'y habituer, mais on arrête tout parce que Prince Charmant ici ne peut pas garder son sexe dur?"
+    ba "Personne d'autre ici n'a eu de problème pour s'y habituer, mais on arrête tout parce que le Prince Charmant ici ne peut pas garder sa queue dur?"
 
 # game/code/Book-1/Chapter-8w/s10.rpy:107
 translate french b1c08ws10_9b938734:
@@ -248,7 +248,7 @@ translate french b1c08ws10_c46dc5bc:
 translate french b1c08ws10_e83ddea1:
 
     # sm "Brigitta, calm down. That's not what I'm saying. We're all here to win, but we have to be smart about it."
-    sm "Brigitta, calme-toi. Ce n'est pas ce que je dis. On est tous ici pour gagner, mais on doit être intelligents là-dessus."
+    sm "Brigitta, calme-toi. Ce n'est pas ce que je dis. On est tous ici pour gagner, mais on doit être plus intelligents là-dessus."
 
 # game/code/Book-1/Chapter-8w/s10.rpy:119
 translate french b1c08ws10_03841299:
@@ -314,13 +314,13 @@ translate french b1c08ws10_f2330ac1:
 translate french b1c08ws10_f763148a:
 
     # mm "Can we please focus on the issue at hand? We're all on edge, but sniping at each other isn't helping."
-    mm "On peut se concentrer sur le problème, s'il vous plaît? On est tous à cran, mais se piquer les uns les autres ne nous aide pas."
+    mm "On peut se concentrer sur le problème, s'il vous plaît? On est tous à cran, mais se piquer les uns les autres ne nous aidera pas."
 
 # game/code/Book-1/Chapter-8w/s10.rpy:152
 translate french b1c08ws10_9c2f3bb0:
 
     # ir "Agreed. Let's at least {i}try{/i} to act like adults."
-    ir "D'accord. Essayons au moins de {i}comporter{/i} comme des adultes."
+    ir "D'accord. Essayons au moins de nous {i}comporter{/i} comme des adultes."
 
 # game/code/Book-1/Chapter-8w/s10.rpy:154
 translate french b1c08ws10_128fd580:
@@ -332,7 +332,7 @@ translate french b1c08ws10_128fd580:
 translate french b1c08ws10_3556b8be:
 
     # "Your eyes drift from Silvia to Brigitta, their body language a silent exchange of unspoken thoughts."
-    "Tes yeux glissent de Silvia à Brigitta, leur langage corporel échange silencieusement des pensées non dites."
+    "Tes yeux glissent de Silvia à Brigitta, leur language corporel échange silencieusement des pensées non dites."
 
 # game/code/Book-1/Chapter-8w/s10.rpy:157
 translate french b1c08ws10_7c39e92f:
@@ -392,7 +392,7 @@ translate french b1c08ws10_97c9c542:
 translate french b1c08ws10_c54dfc3c:
 
     # ir "Count me in. I could use some steps."
-    ir "Comptez sur moi. J'ai besoin de bouger un peu."
+    ir "Compte sur moi. J'ai besoin de bouger un peu."
 
 # game/code/Book-1/Chapter-8w/s10.rpy:192
 translate french b1c08ws10_6778327d:

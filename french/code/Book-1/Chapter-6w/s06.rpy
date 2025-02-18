@@ -14,7 +14,7 @@ translate french b1c06ws06_continue_5b687ec2:
 translate french b1c06ws06_continue_dcb9f2c8:
 
     # ir "Seriously? I live here. What are {i}you{/i} doing here? You're not stalking me, are you?"
-    ir "Sérieusement? Je vis ici. Qu'est-ce que {i}tu{/i} fais ici? Tu ne me stalkes pas, hein?"
+    ir "Sérieusement? Je vis ici. Qu'est-ce que {i}tu{/i} fais ici? Tu ne me stalkes (traque) pas, hein?"
 
 # game/code/Book-1/Chapter-6w/s06.rpy:44
 translate french b1c06ws06_continue_07b51595:
@@ -140,7 +140,7 @@ translate french b1c06ws06_continue_0d993511:
 translate french b1c06ws06_continue_eeacae53:
 
     # mc "Of course. Anytime."
-    mc "Bien sûr. À tout moment."
+    mc "Pas de probleme. Quand tu veux."
 
 # game/code/Book-1/Chapter-6w/s06.rpy:139
 translate french b1c06ws06_continue_e0f3c5a5:
@@ -217,7 +217,7 @@ translate french b1c06ws06_continue_3e31c86d:
 translate french b1c06ws06_continue_2e7656ed:
 
     # mct "Damn it, I can't tuck it into my waistband while she's right there."
-    mct "Merde, je peux pas le glisser dans ma ceinture alors qu'elle est juste là."
+    mct "Merde, je peux pas la glisser dans ma ceinture alors qu'elle est juste là."
 
 # game/code/Book-1/Chapter-6w/s06.rpy:273
 translate french b1c06ws06_continue_75842d89:

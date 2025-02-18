@@ -56,7 +56,7 @@ translate french b1c07cs06_3b38b46a:
 translate french b1c07cs06_37807fce:
 
     # dk "That's what I like to hear. Good boy."
-    dk "C'est ce que j'aime entendre. Bon garçon."
+    dk "C'est ce que je voulais entendre. Bon garçon."
 
 # game/code/Book-1/Chapter-7c/s06.rpy:104
 translate french b1c07cs06_sex_316fcbf1:
@@ -86,7 +86,7 @@ translate french b1c07cs06_sex_fd34fa16:
 translate french b1c07cs06_sex_73e7fc78:
 
     # dk "I'm already wet from touching myself earlier."
-    dk "Je suis déjà mouillée d'avoir touché mon corps plus tôt."
+    dk "Je suis déjà mouillée d'avoir touché ton corps plus tôt."
 
 # game/code/Book-1/Chapter-7c/s06.rpy:118
 translate french b1c07cs06_sex_97557fff:
@@ -134,7 +134,7 @@ translate french b1c07cs06_sex_08e1ff58:
 translate french b1c07cs06_sex_ee37c49b:
 
     # "Delphia's moans intensify the harder and deeper you drive yourself into her. Her walls clench around you each time you pull out, as though begging you to stay inside."
-    "Les gémissements de Delphia s'intensifient à mesure que tu t'enfonces plus fort et plus profondément en elle. Ses parois se serrent autour de toi à chaque fois que tu sors, comme si elles suppliaient que tu restes à l'intérieur."
+    "Les gémissements de Delphia s'intensifient à mesure que tu t'enfonces plus fort et plus profondément en elle. Ses paroies se serrent autour de toi à chaque fois que tu sors, comme si elles suppliaient que tu restes à l'intérieur."
 
 # game/code/Book-1/Chapter-7c/s06.rpy:160
 translate french b1c07cs06_sex_607706bd:
@@ -158,7 +158,7 @@ translate french b1c07cs06_sex_c1237980:
 translate french b1c07cs06_sex_a1ad72da:
 
     # dk "Oh Gods! You feel so fucking good!"
-    dk "Oh dieux! Tu es tellement bonne!"
+    dk "Oh dieux! Tu es tellement bon!"
 
 # game/code/Book-1/Chapter-7c/s06.rpy:185
 translate french b1c07cs06_sex_b76141ce:
@@ -188,7 +188,7 @@ translate french b1c07cs06_sex_791f89de:
 translate french b1c07cs06_sex_4978b0ad:
 
     # "Del's pussy pulses around your cock at a quickening pace, greedy for your cum."
-    "Le sexe de Del vibre autour de ton sexe à un rythme accéléré, avide de ta semence."
+    "Le sexe de Del vibre autour de ton sexe à un rythme accéléré, avide de ton sperme."
 
 # game/code/Book-1/Chapter-7c/s06.rpy:232
 translate french b1c07cs06_sex_774c137c:
@@ -224,7 +224,7 @@ translate french b1c07cs06_sex_7a7116ca:
 translate french b1c07cs06_sex_bd20ebdb:
 
     # "You aggressively thrust into her, enunciating your point."
-    "Tu la pénètres agressivement, soulignant ton point."
+    "Tu la pénètres agressivement, exprimant ton point de vue."
 
 # game/code/Book-1/Chapter-7c/s06.rpy:269
 translate french b1c07cs06_sex_79f66da7:
@@ -242,7 +242,7 @@ translate french b1c07cs06_sex_643de0bc:
 translate french b1c07cs06_sex_592250f5:
 
     # "Delphia is completely undone by your touch and words. Her walls convulse around you rapidly, telling you how close she is to cumming."
-    "Delphia est complètement bouleversée par ton toucher et tes mots. Ses parois se contractent autour de toi rapidement, te disant à quel point elle est proche de jouir."
+    "Delphia est complètement bouleversée par ton toucher et tes mots. Ses paroies se contractent autour de toi plus rapidement, te disant à quel point elle est proche de jouir."
 
 # game/code/Book-1/Chapter-7c/s06.rpy:276
 translate french b1c07cs06_sex_cf1d3106:
@@ -272,7 +272,7 @@ translate french b1c07cs06_sex_63f0ad2b:
 translate french b1c07cs06_sex_e7a14bcd:
 
     # "Pulse after pulse overwhelms your senses. Her body pulls you deeper, and your body obliges."
-    "Impulsion après impulsion, tes sens sont submergés. Son corps te tire plus profondément, et le tien obéit."
+    "Giclée après giclée, tes sens sont submergés. Son corps te tire plus profondément, et le tien obéit."
 
 # game/code/Book-1/Chapter-7c/s06.rpy:294
 translate french b1c07cs06_sex_7621448b:
@@ -290,7 +290,7 @@ translate french b1c07cs06_sex_86f9bab7:
 translate french b1c07cs06_sex_5f89f6d9:
 
     # dk "That should hold me off for a few hours or so."
-    dk "Cela devrait me tenir pendant quelques heures."
+    dk "Cela devrait me contentée pendant quelques heures."
 
 # game/code/Book-1/Chapter-7c/s06.rpy:304
 translate french b1c07cs06_sex_4b8fccb4:
@@ -332,13 +332,13 @@ translate french b1c07cs06_sex_5a160e29:
 translate french b1c07cs06_sex_3ea45f88:
 
     # mct "Is she just going to walk around like that for the rest of the day? With my cum in her panties?"
-    mct "Elle va juste se balader comme ça pour le reste de la journée? Avec ma semence dans ses sous-vêtements?"
+    mct "Elle va juste se balader comme ça pour le reste de la journée? Avec ton sperme dans son string?"
 
 # game/code/Book-1/Chapter-7c/s06.rpy:330
 translate french b1c07cs06_sex_d8975fbe:
 
     # dk "If you're wondering if I'm going to walk around with your cum in my panties {w}the answer is yes."
-    dk "Si tu te demandes si je vais me balader avec ta semence dans mes sous-vêtements {w}la réponse est oui."
+    dk "Si tu te demandes si je vais me balader avec ta semence dans mon string {w}la réponse est oui."
 
 # game/code/Book-1/Chapter-7c/s06.rpy:333
 translate french b1c07cs06_sex_fb4397af:
@@ -355,7 +355,7 @@ translate french b1c07cs06_sex_5b1e71f1:
 translate french b1c07cs06_sex_01602f8e:
 
     # dk "Well, I'll see you soon. I'll let you know when our next session is. Thank you for the wonderful time."
-    dk "Eh bien, je te verrai bientôt. Je te ferai savoir quand sera notre prochaine séance. Merci pour ce moment merveilleux."
+    dk "Eh bien, je te verrai bientôt. Je te ferai savoir quand sera notre prochaine séance. Merci pour ce merveilleux moment."
 
 # game/code/Book-1/Chapter-7c/s06.rpy:347
 translate french b1c07cs06_sex_a62d5ae4:

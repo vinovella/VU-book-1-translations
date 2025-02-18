@@ -80,13 +80,13 @@ translate french b1c07ss08_6b7caf07:
 translate french b1c07ss08_sex_d4db6fff:
 
     # nr "This little arrangement is because of {i}your{/i} insolence."
-    nr "Cette petite arrangement est à cause de {i}ton{/i} insolence."
+    nr "Ce petit arrangement est à cause de {i}ton{/i} insolence."
 
 # game/code/Book-1/Chapter-7s/s08.rpy:113
 translate french b1c07ss08_sex_b6045419:
 
     # nr "Q and Sabrina had to cause a little mischief with our servers in order to get you away from Fleur so we could talk privately."
-    nr "Q et Sabrina ont dû causer un peu de chaos avec nos serveurs pour t'éloigner de Fleur afin qu'on puisse parler en privé."
+    nr "Q et Sabrina ont dû causer un peu de chaos avec nos serveurs pour t'éloigner de Fleur afin qu'ont puissent parler en privé."
 
 # game/code/Book-1/Chapter-7s/s08.rpy:116
 translate french b1c07ss08_sex_821d5b50:
@@ -116,7 +116,7 @@ translate french b1c07ss08_sex_07af4f82:
 translate french b1c07ss08_sex_0ce46563:
 
     # nr "Is it because you weren't satisfied with my performance? Is that it?"
-    nr "C'est parce que tu n'as pas été satisfait de ma performance? C'est ça?"
+    nr "C'est parce que tu n'as pas étais satisfait de ma performance? C'est ça?"
 
 # game/code/Book-1/Chapter-7s/s08.rpy:127
 translate french b1c07ss08_sex_e6c17069:
@@ -128,7 +128,7 @@ translate french b1c07ss08_sex_e6c17069:
 translate french b1c07ss08_sex_a95dc499:
 
     # nr "Because one way or another, you {i}will{/i} redeem that favor, [mcname]."
-    nr "Parce qu'un moyen ou un autre, tu {i}racheteras{/i} cette faveur, [mcname]."
+    nr "Parce que d'une manière ou d'une autre, tu {i}racheteras{/i} cette faveur, [mcname]."
 
 # game/code/Book-1/Chapter-7s/s08.rpy:133
 translate french b1c07ss08_sex_eef445f4:
@@ -146,7 +146,7 @@ translate french b1c07ss08_sex_c022fc96:
 translate french b1c07ss08_sex_72034e3f:
 
     # nr "I'm so bored and you make me feel so {i}horny.{/i}"
-    nr "Je suis tellement ennuyée et tu me rends tellement {i}excité{/i}."
+    nr "Je m'ennuie tellement et tu me rends tellement {i}excitée.{/i}."
 
 # game/code/Book-1/Chapter-7s/s08.rpy:141
 translate french b1c07ss08_sex_cf89338f:
@@ -176,7 +176,7 @@ translate french b1c07ss08_sex_549f9d76:
 translate french b1c07ss08_sex_f3a14ba9:
 
     # nr "Mm, you're so eager. I must really excite you, huh?"
-    nr "Mm, tu es tellement pressé. Je dois vraiment t'exciter, hein?"
+    nr "Mm, tu es si dur. Je dois vraiment t'exciter, hein?"
 
 # game/code/Book-1/Chapter-7s/s08.rpy:184
 translate french b1c07ss08_sex_71c2a8ac:
@@ -188,7 +188,7 @@ translate french b1c07ss08_sex_71c2a8ac:
 translate french b1c07ss08_sex_b5978483:
 
     # mc "You feel so good."
-    mc "Tu te sens tellement bien."
+    mc "Tu es tellement douée."
 
 # game/code/Book-1/Chapter-7s/s08.rpy:194
 translate french b1c07ss08_sex_56720359:
@@ -218,7 +218,7 @@ translate french b1c07ss08_sex_36db4391:
 translate french b1c07ss08_sex_fb079aae:
 
     # nr "Now that you're nice and lubed up for me, it's time for the fun part."
-    nr "Maintenant que tu es bien lubrifié pour moi, il est temps pour la partie amusante."
+    nr "Maintenant que tu es bien lubrifié pour moi, il est temps de passer aux choses serieuses."
 
 # game/code/Book-1/Chapter-7s/s08.rpy:221
 translate french b1c07ss08_sex_4044a41b:
@@ -260,13 +260,13 @@ translate french b1c07ss08_sex_02bb4ddb:
 translate french b1c07ss08_sex_ec48fdd2:
 
     # "She knows just how to tease you, lifting off you until it's just your tip inside, and then slamming back down, taking all of you back inside."
-    "Elle sait comment te taquiner, se soulevant jusqu'à ce que ce ne soit que ton gland à l'intérieur, puis redescendant violemment, te reprenant entièrement."
+    "Elle sait comment te taquiner, se soulevant jusqu'à ce que ton gland reste à l'intérieur, puis redescendant violemment, te reprenant entièrement."
 
 # game/code/Book-1/Chapter-7s/s08.rpy:249
 translate french b1c07ss08_sex_585f115a:
 
     # "Her pace is fast and rough. She's gluttonous and demanding, needing every inch of you to fill her."
-    "Son rythme est rapide et brutal. Elle est gloutonne et exigeante, ayant besoin de chaque centimètre de toi pour la remplir."
+    "Son rythme est rapide et brutal. Elle est gourmande et exigeante, ayant besoin de chaque centimètre de toi pour la remplir."
 
 # game/code/Book-1/Chapter-7s/s08.rpy:260
 translate french b1c07ss08_sex_58c900e8:
@@ -308,13 +308,13 @@ translate french b1c07ss08_sex_72a7526d:
 translate french b1c07ss08_sex_74294fe0:
 
     # mc "God Nirmala, you feel so fucking good."
-    mc "Putain Nirmala, tu te sens tellement bien."
+    mc "Putain Nirmala, tu si bonne."
 
 # game/code/Book-1/Chapter-7s/s08.rpy:314
 translate french b1c07ss08_sex_620a797e:
 
     # mc "Such a tight, perfect hole you have."
-    mc "Tu as un trou tellement serré et parfait."
+    mc "T'as chatte est tellement serrée et parfaite."
 
 # game/code/Book-1/Chapter-7s/s08.rpy:321
 translate french b1c07ss08_sex_ee811f67:
@@ -326,7 +326,7 @@ translate french b1c07ss08_sex_ee811f67:
 translate french b1c07ss08_sex_8c17e0b3:
 
     # nr "I like it when you're like this."
-    nr "J'aime quand tu es comme ça."
+    nr "J'aime quand tu me parles comme ça."
 
 # game/code/Book-1/Chapter-7s/s08.rpy:331
 translate french b1c07ss08_sex_a1ded9a3:
@@ -350,7 +350,7 @@ translate french b1c07ss08_sex_8f90eb82:
 translate french b1c07ss08_sex_71e68b6d:
 
     # mc "All I've thought about since the last time I felt you was when I could feel you again. Nirmala, you have no idea how good you feel."
-    mc "Tout ce à quoi j'ai pensé depuis la dernière fois que je t'ai ressenti, c'est quand je pourrais à nouveau te sentir. Nirmala, tu n'as aucune idée de combien tu te sens bien."
+    mc "Tout ce à quoi j'ai pensé depuis la dernière fois que je t'ai ressenti, c'est quand je pourrais à nouveau te sentir. Nirmala, tu n'as aucune idée de combien tu es bonne."
 
 # game/code/Book-1/Chapter-7s/s08.rpy:344
 translate french b1c07ss08_sex_86a99459:
@@ -374,7 +374,7 @@ translate french b1c07ss08_sex_74fc6761:
 translate french b1c07ss08_sex_067866f9:
 
     # nr "Cum inside me."
-    nr "Joue en moi."
+    nr "Jouis en moi."
 
 # game/code/Book-1/Chapter-7s/s08.rpy:357
 translate french b1c07ss08_sex_1d48b756_1:
@@ -452,7 +452,7 @@ translate french b1c07ss08_sex_e3e59181:
 translate french b1c07ss08_sex_0994ec8a:
 
     # nr "You've left me feeling all wobbly and shaky. Been a while since that's happened."
-    nr "Tu m'as laissé tout tremblant et vacillant. Ça faisait longtemps que ça ne m'était pas arrivé."
+    nr "Tu m'as laissé tout tremblant et vacillant. Ça faisait longtemps que ça ne m'était pas arrivée."
 
 # game/code/Book-1/Chapter-7s/s08.rpy:412
 translate french b1c07ss08_sex_fff03a0f:
