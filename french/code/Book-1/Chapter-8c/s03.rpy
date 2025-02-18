@@ -74,7 +74,7 @@ translate french b1c08cs03_1d50dbf9:
 translate french b1c08cs03_ad6d4c45:
 
     # ih "Welcome all! We are here to celebrate the arrival of our newcomers, and introduce them to our ways."
-    ih "Bienvenue à tous! Nous sommes ici pour célébrer l'arrivée de nos nouveaux venus et leur présenter nos coutumes."
+    ih "Bienvenue à tous! Nous sommes ici pour célébrer l'arrivée de nos nouveaux membres et leur présenter nos coutumes."
 
 # game/code/Book-1/Chapter-8c/s03.rpy:70
 translate french b1c08cs03_dc9d80cc:
@@ -86,7 +86,7 @@ translate french b1c08cs03_dc9d80cc:
 translate french b1c08cs03_376ac92b:
 
     # ih "I'm sure our curious newcomers are wondering how exactly we work. Let me explain."
-    ih "Je suis sûr que nos nouveaux venus curieux se demandent comment nous fonctionnons exactement. Laissez-moi vous expliquer."
+    ih "Je suis sûr que nos nouveaux membres curieux se demandent comment nous fonctionnons exactement. Laissez-moi vous expliquer."
 
 # game/code/Book-1/Chapter-8c/s03.rpy:73
 translate french b1c08cs03_2ca3e09b:
@@ -362,19 +362,19 @@ translate french b1c08cs03_c19d7eae:
 translate french b1c08cs03_3efd23d6:
 
     # mc "I'm sure. They themselves are works of art."
-    mc "Je suis sûr. Eux-mêmes sont des œuvres d'art."
+    mc "Je suis sûr. Elles-mêmes sont des œuvres d'art."
 
 # game/code/Book-1/Chapter-8c/s03.rpy:168
 translate french b1c08cs03_2ec115f5:
 
     # ll "They're so dauntless."
-    ll "Ils sont tellement audacieux."
+    ll "Elles sont tellement audacieuses."
 
 # game/code/Book-1/Chapter-8c/s03.rpy:169
 translate french b1c08cs03_01ab81c0:
 
     # ll "I don't know how they do it."
-    ll "Je ne sais pas comment ils font."
+    ll "Je ne sais pas comment elles font."
 
 # game/code/Book-1/Chapter-8c/s03.rpy:172
 translate french b1c08cs03_78ca2d76:
@@ -404,7 +404,7 @@ translate french b1c08cs03_36a01c19:
 translate french b1c08cs03_3484377a:
 
     # ad "They have unbound themselves from harsh and cruel self sabotage and freed themselves to the full human experience."
-    ad "Ils se sont libérés de l'autosabotage dur et cruel et se sont ouverts à l'expérience humaine totale."
+    ad "Elles se sont libérés de l'autosabotage dur et cruel et se sont ouverts à l'expérience humaine totale."
 
 # game/code/Book-1/Chapter-8c/s03.rpy:184
 translate french b1c08cs03_ebea25db:
@@ -452,7 +452,7 @@ translate french b1c08cs03_e7fa34d7:
 translate french b1c08cs03_09f6de98:
 
     # ad "I understand how it can be at first Lumi, but you have nothing to fear. We're all one here, our minds, our bodies, our souls. Follow the examples set before you."
-    ad "Je comprends ce que cela peut être au début, Lumi, mais tu n'as rien à craindre. Nous sommes tous un ici, nos esprits, nos corps, nos âmes. Suis les exemples qui t'ont été donnés."
+    ad "Je comprends ce que cela peut être dûr au début, Lumi, mais tu n'as rien à craindre. Nous sommes tous un ici, nos esprits, nos corps, nos âmes. Suis les exemples qui t'ont été donnés."
 
 # game/code/Book-1/Chapter-8c/s03.rpy:205
 translate french b1c08cs03_62c2d83b:
@@ -470,7 +470,7 @@ translate french b1c08cs03_a768e14f:
 translate french b1c08cs03_f25514f5:
 
     # ll "Of course not! They're beautiful, a-and bold, and strong. It's just that I'm...{w} not."
-    ll "Bien sûr que non! Ils sont magnifiques, e-et audacieux, et forts. C'est juste que moi, je...{w} ne le suis pas."
+    ll "Bien sûr que non! Elles sont magnifiques, e-et audacieuses, et fortes. C'est juste que moi, je...{w} ne le suis pas."
 
 # game/code/Book-1/Chapter-8c/s03.rpy:214
 translate french b1c08cs03_e58c9b96:
@@ -614,7 +614,7 @@ translate french b1c08cs03_8759f609:
 translate french b1c08cs03_528d0576:
 
     # "She raises her arms to the sky and giggles, feeling exhilarated by the experience."
-    "Je me sens si libre et pure!" "Elle lève les bras vers le ciel et rit, se sentant exaltée par cette expérience."
+     "Elle lève les bras vers le ciel et rit, se sentant exaltée par cette expérience."
 
 # game/code/Book-1/Chapter-8c/s03.rpy:272
 translate french b1c08cs03_5074f751:
@@ -692,13 +692,13 @@ translate french b1c08cs03_6baef38d:
 translate french b1c08cs03_cf8235bc:
 
     # ih "Like this, Lumi. Once you start touching yourself, your body will do the work, and you'll get excited. I promise."
-    ih "Comme ça, Lumi. Une fois que tu commenceras à te toucher, ton corps fera le travail et tu seras excité. Je te le promets."
+    ih "Comme ça, Lumi. Une fois que tu commenceras à te toucher, ton corps fera le travail et tu seras excitée. Je te le promets."
 
 # game/code/Book-1/Chapter-8c/s03.rpy:308
 translate french b1c08cs03_142a4cfb:
 
     # ih "May I help you?"
-    ih "Puis-je vous aider?"
+    ih "Puis-je t'aider?"
 
 # game/code/Book-1/Chapter-8c/s03.rpy:313
 translate french b1c08cs03_c102fccc:
@@ -710,7 +710,7 @@ translate french b1c08cs03_c102fccc:
 translate french b1c08cs03_6af23ce2:
 
     # ih "That's it. Watch me."
-    ih "C'est ça. Regardez-moi."
+    ih "C'est ça. Regarde-moi."
 
 # game/code/Book-1/Chapter-8c/s03.rpy:319
 translate french b1c08cs03_23efab9b:
@@ -770,7 +770,7 @@ translate french b1c08cs03_7ef03810:
 translate french b1c08cs03_da1a0de8:
 
     # "They both envelop Lumi in a comforting hug and whisper words of encouragement to her that only they hear."
-    "Ils enveloppent tous les deux Lumi dans une étreinte réconfortante et lui murmurent des mots d'encouragement qu'eux seuls entendent."
+    "Ils enveloppent tous les deux Lumi dans une étreinte réconfortante et lui murmurent des mots d'encouragement qu'elles seules entendent."
 
 # game/code/Book-1/Chapter-8c/s03.rpy:346
 translate french b1c08cs03_dc6f865c:
@@ -800,7 +800,7 @@ translate french b1c08cs03_4e967832:
 translate french b1c08cs03_307e8433:
 
     # nv "I like to imagine I'm being ravished by a strong partner. That I'm completely loved and cared for in his embrace."
-    nv "J'aime imaginer que je suis ravie par un partenaire fort. Que je suis complètement aimée et soignée dans ses bras."
+    nv "J'aime imaginer que je suis avec par un partenaire fort. Que je suis complètement aimée et soignée dans ses bras."
 
 # game/code/Book-1/Chapter-8c/s03.rpy:371
 translate french b1c08cs03_cb3ba7ce:
@@ -914,7 +914,7 @@ translate french b1c08cs03_f6874a76:
 translate french b1c08cs03_33d1e7ef:
 
     # "A smile blossoms on Lumi's face, radiant and unburdened. It's as if a weight has lifted off her, and for a moment, she is the epitome of unfiltered, raw beauty."
-    "Un sourire s'épanouit sur le visage de Lumi, radieux et déchargé. C'est comme si un poids l'avait enlevée, et pendant un instant, elle est l'incarnation d'une beauté brute et sans filtre."
+    "Un sourire s'épanouit sur le visage de Lumi, radieux et déchargé. C'est comme si un poids lui avait enlevée, et pendant un instant, elle est l'incarnation d'une beauté brute et sans filtre."
 
 # game/code/Book-1/Chapter-8c/s03.rpy:449
 translate french b1c08cs03_af8e45b1:
@@ -938,7 +938,7 @@ translate french b1c08cs03_944aeef0:
 translate french b1c08cs03_455490a7:
 
     # mc "*Whispers* See? I knew you could do it. You just have to get over yourself."
-    mc "*Chuchote* Tu vois? Je savais que tu pouvais le faire. Tu dois juste te remettre de toi-même."
+    mc "*Chuchote* Tu vois? Je savais que tu pouvais le faire. Tu dois juste t'en remettre à toi-même."
 
 # game/code/Book-1/Chapter-8c/s03.rpy:467
 translate french b1c08cs03_d43c7802:
@@ -950,7 +950,7 @@ translate french b1c08cs03_d43c7802:
 translate french b1c08cs03_831954ad:
 
     # mc "But if you feel the need, feel free to put your clothes back on if you want."
-    mc "Mais si vous en ressentez le besoin, n'hésitez pas à remettre vos vêtements si vous le souhaitez."
+    mc "Mais si tu en ressent le besoin, n'hésitez pas à remettre tes vêtements si tu le souhaites."
 
 # game/code/Book-1/Chapter-8c/s03.rpy:470
 translate french b1c08cs03_68fb566d:
@@ -962,7 +962,7 @@ translate french b1c08cs03_68fb566d:
 translate french b1c08cs03_4f3da906:
 
     # ll "Thank you. I really appreciate you."
-    ll "Merci. Je vous apprécie vraiment."
+    ll "Merci. Je t'apprécie vraiment."
 
 # game/code/Book-1/Chapter-8c/s03.rpy:475
 translate french b1c08cs03_b11afb98:
@@ -980,7 +980,7 @@ translate french b1c08cs03_64c9e2e1:
 translate french b1c08cs03_045d88ed:
 
     # ih "May I ask why you were so hesitant? Who made you so insecure about your own body?"
-    ih "Puis-je vous demander pourquoi vous étiez si hésitant? Qui vous a rendu si peu sûr de votre propre corps?"
+    ih "Puis-je te demander pourquoi tu étais si hésitante? Qui t'as rendu si peu sûr de ton propre corps?"
 
 # game/code/Book-1/Chapter-8c/s03.rpy:484
 translate french b1c08cs03_5383613b:
@@ -1022,13 +1022,13 @@ translate french b1c08cs03_a471bda4:
 translate french b1c08cs03_1b4a9629:
 
     # ad "Love isn't just a word, or something you say just hear it back."
-    ad "L'amour n'est pas qu'un mot, ou quelque chose que l'on dit, il suffit de l'entendre."
+    ad "L'amour n'est pas qu'un mot, ou quelque chose que l'on dit qu'il suffit d'entendre."
 
 # game/code/Book-1/Chapter-8c/s03.rpy:500
 translate french b1c08cs03_dab10493:
 
     # ad "It's action. A continuous, deliberate action. And sometimes those who {i}tell{/i} their love for us fail to {i}show{/i} it in the most important ways."
-    ad "C'est de l'action. Une action continue et délibérée. Et parfois, ceux qui {i}nous disent{/i} leur amour ne parviennent pas à le {i}montrer{/i} de la manière la plus importante."
+    ad "C'est les l'actions. Une action continue et délibérée. Et parfois, ceux qui {i}nous disent{/i} leur amour ne parviennent pas à le {i}montrer{/i} de la manière la plus importante."
 
 # game/code/Book-1/Chapter-8c/s03.rpy:502
 translate french b1c08cs03_5cc73f46:
@@ -1040,7 +1040,7 @@ translate french b1c08cs03_5cc73f46:
 translate french b1c08cs03_cbfd332a:
 
     # "Andre's gaze sweeps over the assembled faces, hawk-like and contemplative."
-    "Le regard d'André parcourt les visages assemblés, faucon et contemplatif."
+    "Le regard d'André parcourt les visages de l'assemblés, comme un faucon et contemplatif."
 
 # game/code/Book-1/Chapter-8c/s03.rpy:506
 translate french b1c08cs03_cf0270b9:
@@ -1082,7 +1082,7 @@ translate french b1c08cs03_b0e37bb2:
 translate french b1c08cs03_59ee3571:
 
     # nv "I can't ever rest. I need to keep doing, keep moving, keep working, keep proving myself to others because I can't ever be enough for {i}me{/i}."
-    nv "Je ne peux jamais me reposer. J'ai besoin de continuer à faire, de continuer à bouger, de continuer à travailler, de continuer à faire mes preuves auprès des autres, car je ne pourrai jamais être suffisant pour {i}moi{/i}."
+    nv "Je ne peux jamais me reposer. J'ai besoin de continuer à le faire, de continuer à bouger, de continuer à travailler, de continuer à faire mes preuves auprès des autres, car je ne pourrai jamais être suffisant pour {i}moi{/i}."
 
 # game/code/Book-1/Chapter-8c/s03.rpy:523
 translate french b1c08cs03_3487699c:
@@ -1112,7 +1112,7 @@ translate french b1c08cs03_fa721c22:
 translate french b1c08cs03_20888b44:
 
     # ad "That is a common struggle. One that we've all faced in one way or another. But if we let our minds be clouded by it completely, it erodes and destroys our soul from within."
-    ad "C'est un combat commun. Un combat auquel nous avons tous été confrontés d'une manière ou d'une autre. Mais si nous laissons notre esprit complètement obscurci, cela érode et détruit notre âme de l'intérieur."
+    ad "C'est un combat commun. Un combat auquel nous avons tous été confrontés d'une manière ou d'une autre. Mais si nous laissons notre esprit complètement s'obscurcir, cela érode et détruit notre âme de l'intérieur."
 
 # game/code/Book-1/Chapter-8c/s03.rpy:538
 translate french b1c08cs03_23645a13:
@@ -1286,7 +1286,7 @@ translate french b1c08cs03_1dd50699:
 translate french b1c08cs03_bfcc2631:
 
     # ll "You and [mcname] really helped."
-    ll "Vous et [mcname] avez vraiment aidé."
+    ll "Toi et [mcname] m'avez vraiment aidée."
 
 # game/code/Book-1/Chapter-8c/s03.rpy:606
 translate french b1c08cs03_bf8ff4be:
@@ -1304,7 +1304,7 @@ translate french b1c08cs03_eb9015ed:
 translate french b1c08cs03_9d37499c:
 
     # nv "Gosh, I feel so alive!"
-    nv "Mon Dieu, je me sens si vivant!"
+    nv "Mon Dieu, je me sens si vivante!"
 
 # game/code/Book-1/Chapter-8c/s03.rpy:614
 translate french b1c08cs03_8e9975f9:
@@ -1376,7 +1376,7 @@ translate french b1c08cs03_02b7039f:
 translate french b1c08cs03_d79327b4:
 
     # dk "You two are so precious. I'm glad you're enjoying yourselves."
-    dk "Vous êtes si précieux tous les deux. Je suis content que vous vous amusiez."
+    dk "Vous êtes si précieux tous les deux. Je suis contente que vous vous amusiez."
 
 # game/code/Book-1/Chapter-8c/s03.rpy:653
 translate french b1c08cs03_7bc85c3f:
@@ -1388,7 +1388,7 @@ translate french b1c08cs03_7bc85c3f:
 translate french b1c08cs03_09d65694:
 
     # ih "Don't let the newcomers find—"
-    ih "Ne laissez pas les nouveaux arrivants trouver—"
+    ih "Ne laisse pas les nouveaux arrivants trouver—"
 
 # game/code/Book-1/Chapter-8c/s03.rpy:657
 translate french b1c08cs03_e80bc858:
@@ -1484,7 +1484,7 @@ translate french b1c08cs03_7d2089e3:
 translate french b1c08cs03_1473fb07:
 
     # ys "You held up pretty well, all things considered."
-    ys "Vous avez plutôt bien résisté, tout bien considéré."
+    ys "Tu as plutôt bien résisté, tout bien considéré."
 
 # game/code/Book-1/Chapter-8c/s03.rpy:704
 translate french b1c08cs03_9d875ba5:
@@ -1514,7 +1514,7 @@ translate french b1c08cs03_c88782f5:
 translate french b1c08cs03_a7e9d235:
 
     # nw "You and Nia did well in the face of such challenges there."
-    nw "Vous et Nia avez bien fait face à de tels défis."
+    nw "Toi et Nia avez bien fait face à de tels défis."
 
 # game/code/Book-1/Chapter-8c/s03.rpy:715
 translate french b1c08cs03_f19c761e:
@@ -1526,7 +1526,7 @@ translate french b1c08cs03_f19c761e:
 translate french b1c08cs03_14174db1:
 
     # mc "Thank you. Appreciate it."
-    mc "Merci. Appréciez-le."
+    mc "Merci. J'apprécie."
 
 # game/code/Book-1/Chapter-8c/s03.rpy:721
 translate french b1c08cs03_420ba82a:
@@ -1604,7 +1604,7 @@ translate french b1c08cs03_c92388d8:
 translate french b1c08cs03_f8ae90da:
 
     # mc "Hey, c'mon. I can tell you're tired."
-    mc "Hé, allez. Je peux dire que tu es fatigué."
+    mc "Hé, allez. Je peux dire que tu es fatiguée."
 
 # game/code/Book-1/Chapter-8c/s03.rpy:751
 translate french b1c08cs03_a14e3009:
