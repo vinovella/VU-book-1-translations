@@ -62,7 +62,7 @@ translate french b1c07s03_e6303197:
 translate french b1c07s03_d9b523d4:
 
     # mc "*Mock gasp* Are you calling me fat?"
-    mc "*Faux choc* Tu me traites de gros(se)?"
+    mc "*Faux choc* Tu me traites de gros?"
 
 # game/code/Book-1/Chapter-7/s03.rpy:57
 translate french b1c07s03_709421af:
@@ -86,7 +86,7 @@ translate french b1c07s03_4d62bade:
 translate french b1c07s03_761b1684:
 
     # jh "I'll give you some pointers as she does it, but observing what she does and how she does it will also give you a good foundation to work off of."
-    jh "Je te donnerai quelques conseils pendant qu'elle le fait, mais observer ce qu'elle fait et comment elle le fait te donnera aussi une bonne base de travail."
+    jh "Je te donnerai quelques conseils pendant qu'elle le fait, mais observer ce qu'elle fait et comment elle le fait, ça te donnera aussi une bonne base de travail."
 
 # game/code/Book-1/Chapter-7/s03.rpy:68
 translate french b1c07s03_82ad6059:
@@ -116,7 +116,7 @@ translate french b1c07s03_4f2819e9:
 translate french b1c07s03_77749ab6:
 
     # mc "Uh-huh. Alright, hotshot, why don't you show me how you do it then?"
-    mc "Ah oui? D'accord, champion(ne), pourquoi tu ne me montres pas comment tu fais alors?"
+    mc "Ah oui? D'accord, championne, pourquoi tu ne me montres pas comment tu fais alors?"
 
 # game/code/Book-1/Chapter-7/s03.rpy:82
 translate french b1c07s03_71909a89:
@@ -140,7 +140,7 @@ translate french b1c07s03_3fcc58ce:
 translate french b1c07s03_3471f780:
 
     # jh "See how there aren't any anchor points to tie your rope to?"
-    jh "Tu vois comme il n'y a aucun point d'ancrage pour attacher ta corde?"
+    jh "Comme tu peux le voir, il n'y a aucun point d'ancrage pour attacher une corde?"
 
 # game/code/Book-1/Chapter-7/s03.rpy:92
 translate french b1c07s03_14d62914:
@@ -164,7 +164,7 @@ translate french b1c07s03_e65484d7:
 translate french b1c07s03_08f4663a:
 
     # jh "Ooh, oh! Look at that. First pointer. See how she puts the very tip of her foot on the holds and not her soles?"
-    jh "Oh, regarde ça. Premier conseil. Tu vois comment elle met juste la pointe de son pied sur les prises et pas la plante?"
+    jh "Oh, regarde ça. Premier conseil. Tu vois comment elle met juste la pointe de son pied sur les prises et non pas la plante?"
 
 # game/code/Book-1/Chapter-7/s03.rpy:109
 translate french b1c07s03_7eac2298:
@@ -194,7 +194,7 @@ translate french b1c07s03_292171f7:
 translate french b1c07s03_d0b68b6b:
 
     # jh "Alright! You're good!"
-    jh "D'accord! Tu es bon(ne)!"
+    jh "Très bien! Tu es bonne toi!"
 
 # game/code/Book-1/Chapter-7/s03.rpy:129
 translate french b1c07s03_428680de:
@@ -320,7 +320,7 @@ translate french b1c07s03_ac939dd8:
 translate french b1c07s03_6f4acb63:
 
     # lw "Yeah. We're not responsible if you fall and bonk your head. I can't have that on my conscience."
-    lw "Oui. Nous ne sommes pas responsables si tu tombes et te cognes la tête. Je ne peux pas avoir ça sur ma conscience."
+    lw "Oui. Nous ne sommes pas responsables si tu tombes et te cognes la tête. Je ne veux pas avoir ça sur la conscience."
 
 # game/code/Book-1/Chapter-7/s03.rpy:203
 translate french b1c07s03_1bf08e3b:
@@ -350,7 +350,7 @@ translate french b1c07s03_ac979049:
 translate french b1c07s03_3af7b210:
 
     # lw "*Groans* Argh. Yeah, yeah. I'm fine. Just got a little spooked by how close you got. Thought you were further away than I realized."
-    lw "*Grogne* Argh. Oui, oui. Ça va. J'ai juste été un peu effrayée par à quel point tu t'es rapproché. Je pensais que tu étais plus loin que je ne le pensais."
+    lw "*Grogne* Argh. Oui, oui. Ça va. J'ai juste été un peu effrayée par le fait que tu te soit rapproché. Je pensais que tu étais plus loin."
 
 # game/code/Book-1/Chapter-7/s03.rpy:237
 translate french b1c07s03_85c64722:
@@ -380,7 +380,7 @@ translate french b1c07s03_39ac98c5:
 translate french b1c07s03_29e1244f:
 
     # jh "Yeah. You both could've gotten really hurt."
-    jh "Oui. Vous auriez tous les deux pu vous blesser gravement."
+    jh "Oui. Vous auriez pu tous les deux vous blesser gravement."
 
 # game/code/Book-1/Chapter-7/s03.rpy:251
 translate french b1c07s03_41d75e11:
@@ -392,7 +392,7 @@ translate french b1c07s03_41d75e11:
 translate french b1c07s03_ba7ee589:
 
     # lw "Like I said, I can't have you dying on my conscience."
-    lw "Comme je l'ai dit, je ne peux pas avoir ta mort sur ma conscience."
+    lw "Comme je l'ai dit, je ne veux pas avoir ta mort sur la conscience."
 
 # game/code/Book-1/Chapter-7/s03.rpy:258
 translate french b1c07s03_25865168:
@@ -410,7 +410,7 @@ translate french b1c07s03_2f60a440:
 translate french b1c07s03_d0a7649e:
 
     # jh "[mcname] really surprised me with his skill actually. Are you sure you've never climbed before?"
-    jh "[mcname] m'a vraiment surpris avec ses compétences, en fait. Tu es sûr de n'avoir jamais grimpé avant?"
+    jh "[mcname] m'a vraiment surprise avec ses compétences, en fait. Tu es sûr de n'avoir jamais grimpé avant?"
 
 # game/code/Book-1/Chapter-7/s03.rpy:265
 translate french b1c07s03_767466b6:
@@ -608,7 +608,7 @@ translate french b1c07s03_60e3b960:
 translate french b1c07s03_08ad240c:
 
     # mc "Here you go."
-    mc "Voilà."
+    mc "Voilà, on fais ça."
 
 # game/code/Book-1/Chapter-7/s03.rpy:387
 translate french b1c07s03_d86b5850:
@@ -632,25 +632,25 @@ translate french b1c07s03_81fd8186:
 translate french b1c07s03_eaaa1c63:
 
     # jh "Phew. That really got the ol' muscles going. I missed bouldering."
-    jh "Ouf. Ça a vraiment fait travailler les vieux muscles. L'escalade me manquait."
+    jh "Ouf. Ça a vraiment fait travailler mes vieux muscles. L'escalade me manquait."
 
 # game/code/Book-1/Chapter-7/s03.rpy:400
 translate french b1c07s03_a55b0167:
 
     # jh "Oh my God, you two weren't even paying attention."
-    jh "Oh mon Dieu, vous deux ne faisiez même pas attention."
+    jh "Oh mon Dieu, vous ne faisiez même pas attention."
 
 # game/code/Book-1/Chapter-7/s03.rpy:403
 translate french b1c07s03_f688fe36:
 
     # lw "His fault. Some friend of his came and distracted us."
-    lw "C'est de sa faute. Un de ses amis est arrivé et nous a distraits."
+    lw "C'est de sa faute. Une de ses amies est arrivé et nous a distraits."
 
 # game/code/Book-1/Chapter-7/s03.rpy:406
 translate french b1c07s03_1187e99b:
 
     # jh "Friend?"
-    jh "Un ami?"
+    jh "Une amie?"
 
 # game/code/Book-1/Chapter-7/s03.rpy:409
 translate french b1c07s03_17162ad8:
@@ -698,7 +698,7 @@ translate french b1c07s03_ff6715ba:
 translate french b1c07s03_9da0e732:
 
     # mct "Oh boy."
-    mct "Oh mon garçon."
+    mct "Oh ma fille si tu savais."
 
 # game/code/Book-1/Chapter-7/s03.rpy:431
 translate french b1c07s03_d0bd4d3d:
@@ -722,7 +722,7 @@ translate french b1c07s03_a07b0e21:
 translate french b1c07s03_133d9cdc:
 
     # jh "Oh. I'm so sorry!"
-    jh "Oh. Je suis vraiment désolé!"
+    jh "Oh. Je suis vraiment désolée!"
 
 # game/code/Book-1/Chapter-7/s03.rpy:440
 translate french b1c07s03_9d26b6a4:
@@ -746,7 +746,7 @@ translate french b1c07s03_dfeafe4a:
 translate french b1c07s03_d4e61341:
 
     # jh "Okay! You two ready to go for another run?"
-    jh "Okay! Vous deux êtes prêts pour une autre montée?"
+    jh "Okay! Vous êtes prêts pour une autre montée?"
 
 # game/code/Book-1/Chapter-7/s03.rpy:451
 translate french b1c07s03_95a9c0ab:
@@ -758,7 +758,7 @@ translate french b1c07s03_95a9c0ab:
 translate french b1c07s03_620463a7:
 
     # mct "I need to be more careful if I'm gonna spend more time with Josie and Lara out in public. Almost would've gotten my whole cover blown if Lauren hadn't taken the hint."
-    mct "Je dois être plus prudent si je vais passer plus de temps avec Josie et Lara en public. J'aurais presque tout perdu si Lauren n'avait pas pris le sous-entendu."
+    mct "Je dois être plus prudent si je veux passer plus de temps avec Josie et Lara en public. J'aurais presque tout perdu si Lauren n'avait pas compris le sous-entendu."
 
 # game/code/Book-1/Chapter-7/s03.rpy:455
 translate french b1c07s03_bfb6b18e:
@@ -776,7 +776,7 @@ translate french b1c07s03_after_bouldering_e42a9575:
 translate french b1c07s03_after_bouldering_6df460bb:
 
     # mc "Jesus. No wonder you two are ripped. This is a hell of a workout."
-    mc "Jésus. Pas étonnant que vous soyez tous les deux musclés. C'est un sacré entraînement."
+    mc "Mon dieu. Pas étonnant que vous soyez toutes les deux musclées. C'est un sacré entraînement."
 
 # game/code/Book-1/Chapter-7/s03.rpy:483
 translate french b1c07s03_after_bouldering_85438455:
@@ -812,13 +812,13 @@ translate french b1c07s03_after_bouldering_3863523b:
 translate french b1c07s03_after_bouldering_2bc064c9:
 
     # lw "Not to mention, it's certainly not me that I'm hearing all that huffing and puffing from."
-    lw "Sans parler du fait que ce n'est certainement pas de moi que je suis en train d'entendre tout ce halètement."
+    lw "Sans parler du fait que ce n'est certainement pas de moi que je entend tous ces halètements."
 
 # game/code/Book-1/Chapter-7/s03.rpy:503
 translate french b1c07s03_after_bouldering_d3e73bcc:
 
     # mc "Huffing and puffing? I can go for another hundred climbs with both of you strapped to my back!"
-    mc "Haleter? Je peux faire encore cent ascensions avec vous deux attachées à mon dos!"
+    mc "Haletements!!!? Je peux faire encore cent ascensions avec vous deux attachées à mon dos!"
 
 # game/code/Book-1/Chapter-7/s03.rpy:506
 translate french b1c07s03_after_bouldering_fe95233e:
@@ -902,7 +902,7 @@ translate french b1c07s03_after_bouldering_85d742b3:
 translate french b1c07s03_after_bouldering_8c62f377:
 
     # lw "Thank him? For what? Almost getting himself killed?"
-    lw "Le remercier? Pour quoi? Faillir se tuer?"
+    lw "Le remercier? Pourquoi? Il a faillis se tuer?"
 
 # game/code/Book-1/Chapter-7/s03.rpy:580
 translate french b1c07s03_after_bouldering_3679da7d:

@@ -188,7 +188,7 @@ translate french b1c07ss06_94b696cf:
 translate french b1c07ss06_2c4d952d:
 
     # rg "Please, come in."
-    rg "Entrez, s'il vous plaît."
+    rg "Entre, s'il te plaît."
 
 # game/code/Book-1/Chapter-7s/s06.rpy:101
 translate french b1c07ss06_7d43bdf0:
@@ -200,7 +200,7 @@ translate french b1c07ss06_7d43bdf0:
 translate french b1c07ss06_95957f45:
 
     # rg "Oh, uh, sorry."
-    rg "Oh, euh, désolé."
+    rg "Oh, euh, désolée."
 
 # game/code/Book-1/Chapter-7s/s06.rpy:105
 translate french b1c07ss06_7e2cc2fc:
@@ -218,7 +218,7 @@ translate french b1c07ss06_824fb5a5:
 translate french b1c07ss06_7252723c:
 
     # rg "Please have a seat."
-    rg "Veuillez vous asseoir."
+    rg "Tu peux t'asseoir."
 
 # game/code/Book-1/Chapter-7s/s06.rpy:113
 translate french b1c07ss06_119c42b2:
@@ -230,13 +230,13 @@ translate french b1c07ss06_119c42b2:
 translate french b1c07ss06_a29e8b0c:
 
     # mc "Sure, I guess."
-    mc "Ouais, je suppose."
+    mc "Oui, merci."
 
 # game/code/Book-1/Chapter-7s/s06.rpy:120
 translate french b1c07ss06_1f90c5bc:
 
     # mct "Man, how did Morgan meet this girl? They seem like total opposites."
-    mct "Mec, comment Morgan a-t-elle rencontré cette fille? Elles semblent être des opposés totaux."
+    mct "Mec, comment Morgan a-t-elle rencontrée cette fille? Elles semblent être totalement des opposées."
 
 # game/code/Book-1/Chapter-7s/s06.rpy:122
 translate french b1c07ss06_11b1d1ee:
@@ -260,7 +260,7 @@ translate french b1c07ss06_927f59f4:
 translate french b1c07ss06_3831e8d3:
 
     # rg "Oh? She told you about her live events?"
-    rg "Oh? Elle t'a parlé de ses événements en direct?"
+    rg "Oh? Elle t'a parlée de ses événements en direct?"
 
 # game/code/Book-1/Chapter-7s/s06.rpy:144
 translate french b1c07ss06_3f973409:
@@ -278,7 +278,7 @@ translate french b1c07ss06_ff0f3da4:
 translate french b1c07ss06_0e095488:
 
     # rg "Though I do wish Morgan were able to be here..."
-    rg "Bien que j'aurais aimé que Morgan soit ici..."
+    rg "Bien que j'aurais aimée que Morgan soit ici..."
 
 # game/code/Book-1/Chapter-7s/s06.rpy:152
 translate french b1c07ss06_b272ac7a:
@@ -410,7 +410,7 @@ translate french b1c07ss06_206e9093:
 translate french b1c07ss06_8d220620:
 
     # rg "That's what I've found is the best method of helping her, anyway."
-    rg "C'est ce que j'ai trouvé être la meilleure méthode pour l'aider, de toute façon."
+    rg "C'est ce que j'ai trouvée être la meilleure méthode pour l'aider, de toute façon."
 
 # game/code/Book-1/Chapter-7s/s06.rpy:204
 translate french b1c07ss06_8c9dbb0f:
@@ -434,13 +434,13 @@ translate french b1c07ss06_3e5a868b:
 translate french b1c07ss06_9612d98c:
 
     # mct "Whatever Morgan's involved with sounds serious, though."
-    mct "Quoi que Morgan soit impliquée, ça semble sérieux."
+    mct "Quoi qu'il en soit, ce dans quoi Morgan est impliqué semble cependant sérieux."
 
 # game/code/Book-1/Chapter-7s/s06.rpy:212
 translate french b1c07ss06_a4cef388:
 
     # mc "Okay, I'll keep that in mind, I guess. I just wanted to help."
-    mc "D'accord, je vais garder ça en tête, je suppose. Je voulais juste aider."
+    mc "D'accord, je vais garder ça en tête. Je voulais juste aider."
 
 # game/code/Book-1/Chapter-7s/s06.rpy:219
 translate french b1c07ss06_b26d23d2:
@@ -782,7 +782,7 @@ translate french b1c07ss06_cjh_1b28ce6a:
 translate french b1c07ss06_cjh_dbee40ee:
 
     # mct "That's Cade's voice. I recognize it from the gun range lobby."
-    mct "C'est la voix de Cade. Je la reconnais du hall du stand de tir."
+    mct "C'est la voix de Cade. Je le reconnais grâce au lobby du stand de tir."
 
 # game/code/Book-1/Chapter-7s/s06.rpy:387
 translate french b1c07ss06_cjh_01188bdb:
@@ -950,7 +950,7 @@ translate french b1c07ss06_cjh_292d0e24:
 translate french b1c07ss06_cjh_47d585f3:
 
     # mc "I'm just here visiting a friend."
-    mc "Je suis juste ici pour rendre visite à un ami."
+    mc "Je suis juste ici pour rendre visite à une amie."
 
 # game/code/Book-1/Chapter-7s/s06.rpy:469
 translate french b1c07ss06_cjh_aea55847:
@@ -998,7 +998,7 @@ translate french b1c07ss06_cjh_a8e16b97:
 translate french b1c07ss06_cjh_f460fd0d:
 
     # cjh "Now get the fuck off me."
-    cjh "Maintenant, dégage de moi."
+    cjh "Maintenant, lâche moi."
 
 # game/code/Book-1/Chapter-7s/s06.rpy:491
 translate french b1c07ss06_cjh_4bdc5aa0:
@@ -1040,7 +1040,7 @@ translate french b1c07ss06_cjh_cbcd2f09:
 translate french b1c07ss06_cjh_8ae3320e:
 
     # cjh "And your little scaredy cat over there can watch me make an example of you."
-    cjh "Et ton petit trouillard là-bas pourra me regarder faire de toi un exemple."
+    cjh "Et ta petite trouillarde là-bas pourra me regarder faire de toi un exemple."
 
 # game/code/Book-1/Chapter-7s/s06.rpy:516
 translate french b1c07ss06_cjh_2e92fbf6:
@@ -1082,7 +1082,7 @@ translate french b1c07ss06_cjh_7af5c87c:
 translate french b1c07ss06_cjh_d7b440a8:
 
     # mc "Two can fight dirty, asshole."
-    mc "On peut être deux à jouer sale, connard."
+    mc "On peut être à deux à jouer sale, connard."
 
 # game/code/Book-1/Chapter-7s/s06.rpy:558
 translate french b1c07ss06_cjh_c9cfd496:
@@ -1112,13 +1112,13 @@ translate french b1c07ss06_cjh_d9f26089:
 translate french b1c07ss06_cjh_7105c237:
 
     # mc "Next time could end a lot worse for you."
-    mc "La prochaine fois, ça pourrait finir bien pire pour toi."
+    mc "La prochaine fois pourrait se terminer très mal pour toi."
 
 # game/code/Book-1/Chapter-7s/s06.rpy:600
 translate french b1c07ss06_cjh_7b6d4928:
 
     # cjh "Heh, yeah, you win this time. But I'll be back for you and your little scaredy cat."
-    cjh "Heh, ouais, tu gagnes cette fois. Mais je reviendrai pour toi et ton petit trouillard."
+    cjh "Heh, ouais, tu gagnes cette fois. Mais je reviendrai pour toi et ta petite trouillarde."
 
 # game/code/Book-1/Chapter-7s/s06.rpy:602
 translate french b1c07ss06_cjh_77966969:
@@ -1232,7 +1232,7 @@ translate french b1c07ss06_cjh_91d56efd:
 translate french b1c07ss06_cjh_0d2a51ab:
 
     # rg "Lucky for both of us, I have a lot of experience mending wounds."
-    rg "Heureusement pour nous deux, j'ai beaucoup d'expérience dans le soin des blessures."
+    rg "Heureusement pour nous deux, j'ai beaucoup d'expérience dans les soins de premier secour."
 
 # game/code/Book-1/Chapter-7s/s06.rpy:680
 translate french b1c07ss06_cjh_fe8e291e:
@@ -1262,7 +1262,7 @@ translate french b1c07ss06_cjh_757f5337:
 translate french b1c07ss06_cjh_2b8247e4:
 
     # rg "Morgan doesn't even know. She got me out of it after Cori assaulted me."
-    rg "Morgan ne sait même pas. Elle m'en a sorti après que Cori m'a agressée."
+    rg "Morgan ne sait même pas. Elle m'en a sorti après que Cori m'aie agressée."
 
 # game/code/Book-1/Chapter-7s/s06.rpy:696
 translate french b1c07ss06_cjh_f8ff6118:
@@ -1280,7 +1280,7 @@ translate french b1c07ss06_cjh_9ce13840:
 translate french b1c07ss06_cjh_4486ad8f:
 
     # mc "You should tell her, Rory. Addictions are one thing. Secrets are another."
-    mc "Tu devrais lui dire, Rory. Les addictions, c'est une chose. Les secrets, c'en est une autre."
+    mc "Tu devrais lui dire, Rory. Les addictions, c'est une chose. Les secrets, s'en est une autre."
 
 # game/code/Book-1/Chapter-7s/s06.rpy:705
 translate french b1c07ss06_cjh_f66b6878:
@@ -1358,7 +1358,7 @@ translate french b1c07ss06_end_ba050638:
 translate french b1c07ss06_end_cffcd1eb:
 
     # rg "Yeah. Been there. It's not fun."
-    rg "Ouais. Je connais. C'est pas drôle."
+    rg "Ouais. Ce n'est pas amusant."
 
 # game/code/Book-1/Chapter-7s/s06.rpy:743
 translate french b1c07ss06_end_1d5c1090:
@@ -1376,7 +1376,7 @@ translate french b1c07ss06_end_c1594b63:
 translate french b1c07ss06_end_6b7e8591:
 
     # mc "Will you be okay?"
-    mc "Ça ira?"
+    mc "Ça va aller?"
 
 # game/code/Book-1/Chapter-7s/s06.rpy:751
 translate french b1c07ss06_end_730f6dac:
@@ -1416,9 +1416,9 @@ translate french strings:
 
     # game/code/Book-1/Chapter-7s/s06.rpy:560
     old "Kick Cade."
-    new "coup Cade."
+    new "coup de pied sur Cade."
 
     # game/code/Book-1/Chapter-7s/s06.rpy:560
     old "Punch Cade."
-    new "Punch Cade."
+    new "coup de poing dans la face Cade."
 

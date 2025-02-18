@@ -32,7 +32,7 @@ translate french b1c07cs05_83784ff8:
 translate french b1c07cs05_a8ae17ea:
 
     # dk "Irene and I, your Guides, have called you here today to get everyone better acquainted with one another."
-    dk "Irene et moi, vos Guides, vous avons appelés ici aujourd'hui pour mieux vous faire connaître les uns les autres."
+    dk "Irene et moi, vos Guides, nous vous avons appelés ici aujourd'hui pour mieux vous faire connaître les uns les autres."
 
 # game/code/Book-1/Chapter-7c/s05.rpy:82
 translate french b1c07cs05_e06d8b29:
@@ -110,7 +110,7 @@ translate french b1c07cs05_d33098bf:
 translate french b1c07cs05_685c5e08:
 
     # mct "Not to mention how awful it feels to convince her to get a tattoo anyway. God, this is messed up..."
-    mct "Sans parler de la sensation horrible de la convaincre de se faire tatouer de toute façon. Mon dieu, c'est vraiment tordu..."
+    mct "Sans parler de la sensation horrible de se faire tatouer de toute façon. Mon dieu, c'est vraiment tordu..."
 
 # game/code/Book-1/Chapter-7c/s05.rpy:116
 translate french b1c07cs05_3ac0053d:
@@ -134,7 +134,7 @@ translate french b1c07cs05_98910beb:
 translate french b1c07cs05_fe0fddec:
 
     # nv "You're not a burden, Lumi. You're a delight to be around, and we'll be here for as long as needed to show you how much we care for you."
-    nv "Tu n'es pas un fardeau, Lumi. Tu es une joie d'être autour de toi, et nous serons là aussi longtemps qu'il le faudra pour te montrer combien nous tenons à toi."
+    nv "Tu n'es pas un fardeau, Lumi. C'es une joie d'être avec de toi, et nous resterons là aussi longtemps qu'il le faudra pour te montrer combien nous tenons à toi."
 
 # game/code/Book-1/Chapter-7c/s05.rpy:128
 translate french b1c07cs05_7b5464e0:
@@ -158,7 +158,7 @@ translate french b1c07cs05_31608638:
 translate french b1c07cs05_73de2c77:
 
     # ij "Delphia and I will be demonstrating how we personally go about achieving freedom and vulnerability in our connections with others."
-    ij "Delphia et moi allons démontrer comment nous abordons personnellement l'atteinte de la liberté et de la vulnérabilité dans nos connexions avec les autres."
+    ij "Delphia et moi allons montrer comment nous abordons personnellement l'atteinte de la liberté et de la vulnérabilité dans nos connexions avec les autres."
 
 # game/code/Book-1/Chapter-7c/s05.rpy:144
 translate french b1c07cs05_d42cc4af:
@@ -170,7 +170,7 @@ translate french b1c07cs05_d42cc4af:
 translate french b1c07cs05_1ae72504:
 
     # dk "My method of connection is to remove as many physical barriers between myself and others as possible."
-    dk "Ma méthode de connexion est d'éliminer autant de barrières physiques entre moi et les autres que possible."
+    dk "Ma méthode de connexion est de detruire autant de barrières physiques entre moi et les autres que possible."
 
 # game/code/Book-1/Chapter-7c/s05.rpy:150
 translate french b1c07cs05_ef46b1b5:
@@ -206,7 +206,7 @@ translate french b1c07cs05_71e58a6f:
 translate french b1c07cs05_a7967572:
 
     # dk "This is just what I'm comfortable with. Some may take longer to dismantle their barriers than others, and that's totally fine."
-    dk "C'est juste ce avec quoi je suis à l'aise. Certains peuvent prendre plus de temps pour démanteler leurs barrières que d'autres, et c'est tout à fait acceptable."
+    dk "C'est juste ce, avec quoi je suis à l'aise. Certains peuvent prendre plus de temps pour démanteler leurs barrières que d'autres, et c'est tout à fait acceptable."
 
 # game/code/Book-1/Chapter-7c/s05.rpy:172
 translate french b1c07cs05_02e5aaae:
@@ -260,7 +260,7 @@ translate french b1c07cs05_f2ca3229:
 translate french b1c07cs05_804f9ffe:
 
     # dk "Our goal here is to have you lower your defenses. We're taught in youth that we're {i}separate{/i} from others. But that's simply not true. Connection is one of the purest forms of divinity."
-    dk "Notre objectif ici est de vous faire abaisser vos défenses. On nous enseigne dès notre jeunesse que nous sommes {i}séparés{/i} des autres. Mais ce n'est tout simplement pas vrai. La connexion est l'une des formes les plus pures de la divinité."
+    dk "Notre objectif ici est de vous faire faire tomber vos défenses. On nous enseignes dès notre jeunesse que nous sommes {i}séparés{/i} des autres. Mais ce n'est tout simplement pas vrai. La connexion est l'une des formes les plus pures de la divinité."
 
 # game/code/Book-1/Chapter-7c/s05.rpy:195
 translate french b1c07cs05_77c8bbd6:
@@ -278,7 +278,7 @@ translate french b1c07cs05_781f645d:
 translate french b1c07cs05_4ee68e3d:
 
     # mct "I didn't expect her to strip next. Good for her. {w}I guess."
-    mct "Je ne m'attendais pas à ce qu'elle se déshabille ensuite. Tant mieux pour elle. {w}Je suppose."
+    mct "Je ne m'attendais pas à ce qu'elle se déshabille de suite. Tant mieux pour elle. {w}Je pense."
 
 # game/code/Book-1/Chapter-7c/s05.rpy:211
 translate french b1c07cs05_6a557a56:
@@ -290,7 +290,7 @@ translate french b1c07cs05_6a557a56:
 translate french b1c07cs05_7e9f6e58:
 
     # ll "I'm sick of being anxious and lonely. I want to experience something real and beautiful."
-    ll "J'en ai marre d'être anxieux et seul. Je veux vivre quelque chose de réel et de beau."
+    ll "J'en ai marre d'être anxieuse et seule. Je veux vivre quelque chose de réel et de beau."
 
 # game/code/Book-1/Chapter-7c/s05.rpy:216
 translate french b1c07cs05_391e627c:
@@ -308,19 +308,19 @@ translate french b1c07cs05_1759cc7f:
 translate french b1c07cs05_cd61788d:
 
     # mct "Hopefully that means convincing her to get tattooed will be easier than I thought."
-    mct "J'espère que cela signifie que la convaincre de se faire tatouer sera plus facile que je ne le pensais."
+    mct "J'espère que la convaincre de se faire tatouer sera pêut-être plus facile que je ne le pensais."
 
 # game/code/Book-1/Chapter-7c/s05.rpy:222
 translate french b1c07cs05_f1188fcf:
 
     # mct "It's still fucked that I have to convince Lumi. But this is what will help me advance in this group as efficiently as possible. Finding out what happened to the missing girls is more important."
-    mct "C'est toujours galère que je doive convaincre Lumi. Mais c'est ce qui m'aidera à avancer dans ce groupe de manière aussi efficace que possible. Découvrir ce qui est arrivé aux filles disparues est plus important."
+    mct "C'est toujours galère que je doive convaincre Lumi. Mais c'est ce qui m'aidera à avancer dans ce groupe de manière aussi rapide que possible. Découvrir ce qui est arrivé aux filles disparues est plus important."
 
 # game/code/Book-1/Chapter-7c/s05.rpy:223
 translate french b1c07cs05_fccb4517:
 
     # mct "If anything, this proves that Lumi's receptive to something if she thinks it's a safe and good thing to do. Maybe I can use that to my advantage."
-    mct "Si quelque chose, cela prouve que Lumi est réceptive à quelque chose si elle pense que c'est sûr et bien. Peut-être que je peux utiliser cela à mon avantage."
+    mct "Au contraire, cela prouve que Lumi est réceptive à quelque chose, si elle pense que c'est la bonne chose à faire. Peut-être que je peux utiliser ça à mon avantage."
 
 # game/code/Book-1/Chapter-7c/s05.rpy:233
 translate french b1c07cs05_ba4aa7a4:
@@ -374,7 +374,7 @@ translate french b1c07cs05_0bb9ffac:
 translate french b1c07cs05_65325ac6:
 
     # mct "Of course Delphia would notice..."
-    mct "Bien sûr, Delphia remarquerait ça..."
+    mct "Bien sûr, Delphia remarque ça..."
 
 # game/code/Book-1/Chapter-7c/s05.rpy:272
 translate french b1c07cs05_28ccf340:
@@ -398,7 +398,7 @@ translate french b1c07cs05_f60d50fe:
 translate french b1c07cs05_76158505:
 
     # mc "I guess, I just... I don't wanna make anyone uncomfortable."
-    mc "Je suppose, je... je ne veux déranger personne."
+    mc "Je suppose, mais je... je ne veux déranger personne."
 
 # game/code/Book-1/Chapter-7c/s05.rpy:282
 translate french b1c07cs05_d0185c13:
@@ -476,7 +476,7 @@ translate french b1c07cs05_4365b0d3:
 translate french b1c07cs05_11b22f76:
 
     # ij "No. They'd have said something if they were uncomfortable, right?"
-    ij "Non. Ils auraient dit quelque chose si ça les dérangeait, non?"
+    ij "Non. Elles auraient dit quelque chose si ça les dérangeait, non?"
 
 # game/code/Book-1/Chapter-7c/s05.rpy:328
 translate french b1c07cs05_acc26762:
@@ -548,7 +548,7 @@ translate french b1c07cs05_871e3749:
 translate french b1c07cs05_b9b05851:
 
     # "You watch the ladies with a sense of curiosity and awkwardness, uncertain of what to do."
-    "Tu observes les dames avec curiosité et gêne, incertain de ce qu'il faut faire."
+    "Tu observes les dames avec curiosité et gêne, incertain de savoir ce qu'il faut faire."
 
 # game/code/Book-1/Chapter-7c/s05.rpy:376
 translate french b1c07cs05_d338f21b:
@@ -566,7 +566,7 @@ translate french b1c07cs05_e4cb0d61:
 translate french b1c07cs05_b547085b:
 
     # dk "You ready to give them a show?"
-    dk "Prêt à leur donner un spectacle?"
+    dk "Prête à leur donner un spectacle?"
 
 # game/code/Book-1/Chapter-7c/s05.rpy:386
 translate french b1c07cs05_b60820d1:
@@ -596,7 +596,7 @@ translate french b1c07cs05_1ec6c134:
 translate french b1c07cs05_d99185a3:
 
     # ij "I was blessed with my member from higher powers."
-    ij "J'ai été béni avec mon membre par des puissances supérieures."
+    ij "J'ai été bénie avec mon membre par des puissances supérieures."
 
 # game/code/Book-1/Chapter-7c/s05.rpy:404
 translate french b1c07cs05_8443ec78:
@@ -692,7 +692,7 @@ translate french b1c07cs05_851495af:
 translate french b1c07cs05_8bb2dd9b:
 
     # mct "This is a good time to get closer to her I suppose."
-    mct "C'est un bon moment pour me rapprocher d'elle, je suppose."
+    mct "Je pense que c'est le bon moment pour me rapprocher d'elle."
 
 # game/code/Book-1/Chapter-7c/s05.rpy:476
 translate french b1c07cs05_32bef39a:
@@ -818,13 +818,13 @@ translate french b1c07cs05_dea30ec0:
 translate french b1c07cs05_e3110cb4:
 
     # dk "We're done for the day, love. Go get some lunch. You've more than earned it."
-    dk "C'est fini pour aujourd'hui, mon amour. Va déjeuner. Tu l'as bien mérité."
+    dk "C'est fini pour aujourd'hui, mon amour. Va déjeuner. Tu l'as bien méritée."
 
 # game/code/Book-1/Chapter-7c/s05.rpy:548
 translate french b1c07cs05_8519f0ff:
 
     # nv "Nice, I'll catch you later then."
-    nv "Bien, je te rattrape plus tard alors."
+    nv "Bien, je te rejoins plus tard alors."
 
 # game/code/Book-1/Chapter-7c/s05.rpy:551
 translate french b1c07cs05_454b2329:
@@ -848,13 +848,13 @@ translate french b1c07cs05_8693503b:
 translate french b1c07cs05_2de9758c:
 
     # dk "Irene, will you see these wonderful ladies out? I'd like some alone time with our boy."
-    dk "Irene, tu veux raccompagner ces merveilleuses dames? J'aimerais passer un moment seul avec notre garçon."
+    dk "Irene, tu peux raccompagner ces merveilleuses dames? J'aimerais passer un moment seul avec notre garçon."
 
 # game/code/Book-1/Chapter-7c/s05.rpy:564
 translate french b1c07cs05_ea2f28e8:
 
     # ij "Sure, Del."
-    ij "Bien, Del."
+    ij "Bien sûr, Del."
 
 # game/code/Book-1/Chapter-7c/s05.rpy:567
 translate french b1c07cs05_fb81053b:
@@ -886,5 +886,5 @@ translate french strings:
 
     # game/code/Book-1/Chapter-7c/s05.rpy:428
     old "This is too much"
-    new "C'est trop"
+    new "C'est un peu trop"
 

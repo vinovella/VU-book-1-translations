@@ -33,7 +33,7 @@ translate french b1c09s08_7f97ff42:
 translate french b1c09s08_caae02d8:
 
     # gn "We're planning another one."
-    gn "On planifie un autre."
+    gn "Nous en prévoyons un autre."
 
 # game/code/Book-1/Chapter-9/s08.rpy:92
 translate french b1c09s08_8522a12a:
@@ -141,13 +141,13 @@ translate french b1c09s08_2e9f28df:
 translate french b1c09s08_8076e700:
 
     # fox "You are such a bad influence."
-    fox "Tu es une si mauvaise influence."
+    fox "Tu as une si mauvaise influence."
 
 # game/code/Book-1/Chapter-9/s08.rpy:148
 translate french b1c09s08_sex_f4727c9d:
 
     # fox "There isn't much {i}Syndicate{/i} business going on, but maybe you could help Lilith and I with a fantasy we've been having?"
-    fox "Il n'y a pas beaucoup de business {i}Syndicate{/i} en ce moment, mais peut-être que tu pourrais m'aider, Lilith et moi, avec une fantasme qu'on a en ce moment?"
+    fox "Il n'y a pas beaucoup de business {i}Syndicat{/i} en ce moment, mais peut-être que tu pourrais m'aider, Lilith et moi, avec un fantasme qu'on a en ce moment?"
 
 # game/code/Book-1/Chapter-9/s08.rpy:149
 translate french b1c09s08_sex_01b474cb:
@@ -165,7 +165,7 @@ translate french b1c09s08_sex_00ea7648:
 translate french b1c09s08_sex_1e8af1b4:
 
     # fox "Lilith's teasing has me all worked up. And I've always wanted to...show off for her, while she watches."
-    fox "Les taquineries de Lilith m'ont bien excité. Et j'ai toujours voulu... lui faire un petit show, pendant qu'elle regarde."
+    fox "Les taquineries de Lilith m'ont bien excitée. Et j'ai toujours voulu... lui faire un petit show, pendant qu'elle regarde."
 
 # game/code/Book-1/Chapter-9/s08.rpy:159
 translate french b1c09s08_sex_63800e87:
@@ -237,7 +237,7 @@ translate french b1c09s08_no_gn_84f3c05b:
 translate french b1c09s08_no_gn_3bc9ee43:
 
     # fox "Let's have some fun, shall we? All this work stress has got me amped up."
-    fox "Amusons-nous un peu, d'accord? Tout ce stress au travail m'a bien excité."
+    fox "Amusons-nous un peu, d'accord? Tout ce stress au travail m'a bien excitée."
 
 # game/code/Book-1/Chapter-9/s08.rpy:212
 translate french b1c09s08_no_gn_8e980a92:
@@ -333,7 +333,7 @@ translate french b1c09s08_no_gn_146cc665:
 translate french b1c09s08_no_gn_39ff5116:
 
     # fox "Ah, fuck! I'm cumming."
-    fox "Ah, putain! Je jouis."
+    fox "Ah, putain! Je jouie."
 
 # game/code/Book-1/Chapter-9/s08.rpy:337
 translate french b1c09s08_no_gn_126966b1:
@@ -567,7 +567,7 @@ translate french b1c09s08_gn_watching_8a926a02:
 translate french b1c09s08_gn_watching_a23f32d2:
 
     # gn "Be a good pet and take it all, Fox."
-    gn "Sois un bon animal de compagnie et prends tout, Fox."
+    gn "Sois une bonne petie chienne et prends tout, Fox."
 
 # game/code/Book-1/Chapter-9/s08.rpy:614
 translate french b1c09s08_gn_watching_ebced3a1:
@@ -675,7 +675,7 @@ translate french b1c09s08_after_sex_06679e31:
 translate french b1c09s08_after_sex_8ecea9f1:
 
     # mct "Je suppose que c'est ici que Fleur aide à gérer les camgirls."
-    mct "Je suppose que c'est ici que Fleur aide à gérer les camgirls."
+    mct "Je suppose que c'est ici que Fleur aide à gérer les serveurs."
 
 # game/code/Book-1/Chapter-9/s08.rpy:699
 translate french b1c09s08_after_sex_8395e393:

@@ -141,7 +141,7 @@ translate french b1c06ws01_a137863a:
 # game/code/Book-1/Chapter-6w/s01.rpy:117
 translate french b1c06ws01_7e044245:
     # ir "If you can't keep a simple schedule in mind and show up on time, are you {i}really{/i} suited to play with the best?"
-    ir "Si tu ne peux pas garder un emploi du temps simple en tête et arriver à l'heure, es-tu {i}vraiment{/i} fait pour jouer avec les meilleurs?"
+    ir "Si tu ne peux pas garder un emploi du temps simple en tête et arriver à l'heure alors... Es-tu {i}vraiment{/i} fait pour jouer avec les meilleurs?"
 
 # game/code/Book-1/Chapter-6w/s01.rpy:118
 translate french b1c06ws01_68c8d914:
@@ -176,7 +176,7 @@ translate french b1c06ws01_a560ad9b:
 # game/code/Book-1/Chapter-6w/s01.rpy:132
 translate french b1c06ws01_955c7626:
     # ir "Hah! Nah. That's for newbies."
-    ir "Hah! Non. C'est pour les débutants."
+    ir "Ha ha! Non. C'est pour les débutants."
 
 # game/code/Book-1/Chapter-6w/s01.rpy:133
 translate french b1c06ws01_59a43347:
@@ -211,7 +211,7 @@ translate french b1c06ws01_a73006c2:
 # game/code/Book-1/Chapter-6w/s01.rpy:152
 translate french b1c06ws01_71f63404:
     # lw "My God, I didn't know when she'd leave. Who the hell was that?"
-    lw "Mon Dieu, je ne savais pas quand elle partirait. C'était qui ce gars?"
+    lw "Mon Dieu, je ne savais pas quand elle partirait. C'était qui cette fille?"
 
 # game/code/Book-1/Chapter-6w/s01.rpy:155
 translate french b1c06ws01_39d70096:
@@ -261,17 +261,17 @@ translate french b1c06ws01_f6ea14ce:
 # game/code/Book-1/Chapter-6w/s01.rpy:176
 translate french b1c06ws01_8cb03d4a:
     # mc "She's just a huge flirt, Lara."
-    mc "C'est juste une grosse flirt, Lara."
+    mc "C'est juste un gros flirt, Lara."
 
 # game/code/Book-1/Chapter-6w/s01.rpy:177
 translate french b1c06ws01_0b596db3:
     # mc "It's better than being a huge grump."
-    mc "C'est mieux que d'être un gros ronchon."
+    mc "C'est mieux ça que d'être une grosse ronchonne non?."
 
 # game/code/Book-1/Chapter-6w/s01.rpy:187
 translate french b1c06ws01_3e2d64e1:
     # mc "*Chuckles* You really need to work on your aim."
-    mc "*Rit* Tu devrais vraiment travailler ton visée."
+    mc "*Rit* Tu devrais vraiment travailler ta visée."
 
 # game/code/Book-1/Chapter-6w/s01.rpy:190
 translate french b1c06ws01_58deeb90:
@@ -286,7 +286,7 @@ translate french b1c06ws01_c51d684d:
 # game/code/Book-1/Chapter-6w/s01.rpy:194
 translate french b1c06ws01_6336810d:
     # mc "Parry this, you filthy casual."
-    mc "Parry ça, espèce de casual dégueulasse."
+    mc "Pare ça, espèce de grosse ronchonne."
 
 # game/code/Book-1/Chapter-6w/s01.rpy:197
 translate french b1c06ws01_c6e487ad:
@@ -306,7 +306,7 @@ translate french b1c06ws01_cea8cddb:
 # game/code/Book-1/Chapter-6w/s01.rpy:209
 translate french b1c06ws01_085cccdd:
     # mc "Oh, by the way. You should probably get a pair of headphones with passthrough or something. It's really conspicuous when you move only one ear cup off to eavesdrop."
-    mc "Au fait, tu devrais probablement acheter un casque avec fonction passthrough ou quelque chose du genre. C'est vraiment évident quand tu décales juste un écouteur pour écouter."
+    mc "Au fait, tu devrais probablement acheter un casque avec fonction passage d'oreille ou quelque chose du genre. C'est vraiment évident quand tu décales juste un écouteur pour écouter."
 
 # game/code/Book-1/Chapter-6w/s01.rpy:215
 translate french b1c06ws01_9ccc5ed5:

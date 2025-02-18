@@ -26,13 +26,13 @@ translate french b1c07ss03_6f355a5b:
 translate french b1c07ss03_59fa3212:
 
     # mg "Yeah, they're alright. Low maintenance. Quiet. Easy to talk to."
-    mg "Ouais, elles vont bien. Peu d'entretien. Calmes. Faciles à parler."
+    mg "Ouais, elles sont bien. Peu d'entretien. Calmes. Faciles à parler."
 
 # game/code/Book-1/Chapter-7s/s03.rpy:35
 translate french b1c07ss03_d89171fc:
 
     # mg "Easier to talk to than most humans, anyway."
-    mg "Plus faciles à parler que la plupart des humains, de toute façon."
+    mg "Plus faciles à parler avec que la plupart des humains, en tout cas."
 
 # game/code/Book-1/Chapter-7s/s03.rpy:38
 translate french b1c07ss03_f53f7513:
@@ -50,7 +50,7 @@ translate french b1c07ss03_1ba946cd:
 translate french b1c07ss03_8e1c6bb6:
 
     # mg "Besides, aren't they kind of cute?"
-    mg "En plus, elles ne sont pas un peu mignonnes?"
+    mg "En plus, ne sont elles pas si mignonnes?"
 
 # game/code/Book-1/Chapter-7s/s03.rpy:46
 translate french b1c07ss03_8cc105c3:
@@ -62,7 +62,7 @@ translate french b1c07ss03_8cc105c3:
 translate french b1c07ss03_99118f84:
 
     # mc "Whoa, is that old boxing equipment?"
-    mc "Waouh, c'est de l'ancien équipement de boxe?"
+    mc "Waouh, c'est l'ancien équipement de boxe?"
 
 # game/code/Book-1/Chapter-7s/s03.rpy:52
 translate french b1c07ss03_52724671:
@@ -74,13 +74,13 @@ translate french b1c07ss03_52724671:
 translate french b1c07ss03_cf8e80a8:
 
     # mg "Pretty cool, huh? This is kind of like my home away from home. I come here to get away from it all and clear my head."
-    mg "Plutôt cool, hein? C'est un peu comme mon chez-moi loin de chez moi. Je viens ici pour m'évader et clarifier mes idées."
+    mg "Plutôt cool, hein? C'est un peu comme mon chez-moi mais loin de chez moi. Je viens ici pour m'évader et m'éclaircir mes idées."
 
 # game/code/Book-1/Chapter-7s/s03.rpy:65
 translate french b1c07ss03_5f01dab6:
 
     # mc "And talk to your cute plants?"
-    mc "Et parler à tes plantes mignonnes?"
+    mc "Et parler à tes plantes si mignonnes?"
 
 # game/code/Book-1/Chapter-7s/s03.rpy:68
 translate french b1c07ss03_1f930ed8:
@@ -92,7 +92,7 @@ translate french b1c07ss03_1f930ed8:
 translate french b1c07ss03_d56197c3:
 
     # mg "I thought it'd be fun to hit the bag a bit. Show off our skills."
-    mg "Je pensais que ce serait fun de frapper un peu le sac. Montrer nos compétences."
+    mg "Je pensais que ce serait fun que tu puisses frapper un peu le sac. pour me montrer nos compétences."
 
 # game/code/Book-1/Chapter-7s/s03.rpy:73
 translate french b1c07ss03_8be016bb:
@@ -104,13 +104,13 @@ translate french b1c07ss03_8be016bb:
 translate french b1c07ss03_a637be33:
 
     # mg "I got curious. We haven't talked much, but my friends talk about you all the time."
-    mg "J'ai été curieuse. On n'a pas beaucoup parlé, mais mes amis parlent de toi tout le temps."
+    mg "J'étais curieuse. On n'a pas beaucoup parlé, et mes amis me parlent de toi tout le temps."
 
 # game/code/Book-1/Chapter-7s/s03.rpy:77
 translate french b1c07ss03_d6a35660:
 
     # mg "I wanted to see what all the fuss was about."
-    mg "Je voulais voir ce qui faisait tout ce raffut."
+    mg "Je voulais voir ce qui faisait tout ce raffut autour de toi."
 
 # game/code/Book-1/Chapter-7s/s03.rpy:80
 translate french b1c07ss03_0c0ba256:
@@ -146,25 +146,25 @@ translate french b1c07ss03_9a1d81ee:
 translate french b1c07ss03_2fd463bf:
 
     # mc "You flatter me."
-    mc "Tu me flattes."
+    mc "Oh! tu me flattes là."
 
 # game/code/Book-1/Chapter-7s/s03.rpy:97
 translate french b1c07ss03_e4a6f2d5:
 
     # mg "Don't let it go to your head."
-    mg "Ne te laisse pas gonfler la tête."
+    mg "Ne prend pas la grosse la tête."
 
 # game/code/Book-1/Chapter-7s/s03.rpy:100
 translate french b1c07ss03_3c8750f0:
 
     # mc "I won't, I won't."
-    mc "Je ne vais pas, je ne vais pas."
+    mc "Je ne le fais pas, je ne le fais pas."
 
 # game/code/Book-1/Chapter-7s/s03.rpy:103
 translate french b1c07ss03_104d3a0c:
 
     # mg "C'mon, let's warm up."
-    mg "Allez, chauffons-nous un peu."
+    mg "Allez, échauffons-nous un peu."
 
 # game/code/Book-1/Chapter-7s/s03.rpy:106
 translate french b1c07ss03_3423925a:
@@ -182,13 +182,13 @@ translate french b1c07ss03_8682b1c9:
 translate french b1c07ss03_02f8e669:
 
     # mg "How flexible are you?"
-    mg "Tu es flexible?"
+    mg "Tu es souple?"
 
 # game/code/Book-1/Chapter-7s/s03.rpy:119
 translate french b1c07ss03_700a6f10:
 
     # mc "I'm flexible enough."
-    mc "Je suis assez flexible."
+    mc "Je suis assez souple oui."
 
 # game/code/Book-1/Chapter-7s/s03.rpy:122
 translate french b1c07ss03_2aa178c1:
@@ -212,13 +212,13 @@ translate french b1c07ss03_a595cf5a:
 translate french b1c07ss03_a306e1de:
 
     # mg "But if you're not flexible enough, I get it."
-    mg "Mais si tu n'es pas assez flexible, je comprends."
+    mg "Mais si tu n'es pas assez souple pour ça, je comprends."
 
 # game/code/Book-1/Chapter-7s/s03.rpy:139
 translate french b1c07ss03_ff0eeb6e:
 
     # mg "Impressive. I don't know many guys who are flexible enough for this."
-    mg "Impressionnant. Je ne connais pas beaucoup de gars qui sont assez flexibles pour ça."
+    mg "Impressionnant. Je ne connais pas beaucoup de gars qui sont assez souple pour ça."
 
 # game/code/Book-1/Chapter-7s/s03.rpy:142
 translate french b1c07ss03_4e37a8b5:
@@ -260,7 +260,7 @@ translate french b1c07ss03_17f2e07a:
 translate french b1c07ss03_de02362a:
 
     # mg "Let me show you how to make a fist."
-    mg "Laisse-moi te montrer comment faire un poing."
+    mg "Laisse-moi te montrer comment serrer ton poing."
 
 # game/code/Book-1/Chapter-7s/s03.rpy:163
 translate french b1c07ss03_76dcffca:
@@ -284,7 +284,7 @@ translate french b1c07ss03_97f4f4d1:
 translate french b1c07ss03_569a6c8a:
 
     # mg "Then, when you're ready to throw a punch, you pivot on your back foot."
-    mg "Ensuite, quand tu es prêt à lancer un coup de poing, tu pivotes sur ton pied arrière."
+    mg "Ensuite, quand tu es prêt à donner un coup de poing, tu pivotes sur ton pied arrière."
 
 # game/code/Book-1/Chapter-7s/s03.rpy:175
 translate french b1c07ss03_b34e8b03:
@@ -302,7 +302,7 @@ translate french b1c07ss03_df7f2ec9:
 translate french b1c07ss03_b532862a:
 
     # mg "I got lotsa practice. Now you try."
-    mg "J'ai beaucoup pratiqué. Maintenant, à toi."
+    mg "J'ai beaucoup pratiquée. Maintenant, à toi."
 
 # game/code/Book-1/Chapter-7s/s03.rpy:185
 translate french b1c07ss03_579166df:
@@ -392,7 +392,7 @@ translate french b1c07ss03_527e9dbf:
 translate french b1c07ss03_722a1e46:
 
     # mg "Anyway. She's outta my life now. She got out, and now I'm buried in debt."
-    mg "De toute façon. Elle n'est plus dans ma vie maintenant. Elle est partie, et maintenant je suis enterrée sous les dettes."
+    mg "De toute façon. Elle n'est plus dans ma vie maintenant. Elle est partie, et maintenant je croule sous les dettes."
 
 # game/code/Book-1/Chapter-7s/s03.rpy:241
 translate french b1c07ss03_1988c356:
@@ -416,7 +416,7 @@ translate french b1c07ss03_ea633f28:
 translate french b1c07ss03_deac0430:
 
     # mg "I didn't fucking ask for this—"
-    mg "Je n'ai pas demandé ça—"
+    mg "Je n'ai pas demandée ça—"
 
 # game/code/Book-1/Chapter-7s/s03.rpy:248
 translate french b1c07ss03_d847dd47:
@@ -536,7 +536,7 @@ translate french b1c07ss03_10dee4ef:
 translate french b1c07ss03_f1477836:
 
     # mg "I know so."
-    mg "Je sais."
+    mg "Je le pense oui."
 
 # game/code/Book-1/Chapter-7s/s03.rpy:314
 translate french b1c07ss03_1e156cf0:
@@ -560,19 +560,19 @@ translate french b1c07ss03_4bed8c84:
 translate french b1c07ss03_9ce3c60e:
 
     # mc "Or maybe some kinda club? You seem so experienced. I wanna increase my skill too."
-    mc "Ou peut-être un club? Tu sembles tellement expérimenté. J'aimerais aussi améliorer mes compétences."
+    mc "Ou peut-être un club? Tu sembles tellement expérimentée. J'aimerais aussi améliorer mes compétences."
 
 # game/code/Book-1/Chapter-7s/s03.rpy:325
 translate french b1c07ss03_f53e5e0a:
 
     # mg "What makes you think I'm involved with something?"
-    mg "Qu'est-ce qui te fait penser que je suis impliqué dans quelque chose?"
+    mg "Qu'est-ce qui te fait penser que je suis impliquée dans quelque chose?"
 
 # game/code/Book-1/Chapter-7s/s03.rpy:328
 translate french b1c07ss03_ac759f43:
 
     # mc "Just...makes sense, y'know? 'Cause you're so good at fighting."
-    mc "C'est juste... logique, tu vois? Parce que tu es tellement doué en combat."
+    mc "C'est juste... logique, tu vois? tu es tellement douée en combat."
 
 # game/code/Book-1/Chapter-7s/s03.rpy:329
 translate french b1c07ss03_b5bcb105:
@@ -602,7 +602,7 @@ translate french b1c07ss03_0e5d13f0:
 translate french b1c07ss03_6c1787b4:
 
     # mg "What's it to you?"
-    mg "Qu'est-ce que ça te fait?"
+    mg "Qu'est-ce que tu racontes?"
 
 # game/code/Book-1/Chapter-7s/s03.rpy:342
 translate french b1c07ss03_5a93cafd:
@@ -638,7 +638,7 @@ translate french b1c07ss03_5caab8ff:
 translate french b1c07ss03_8a5a2238:
 
     # mg "Nobody you need to concern yourself with."
-    mg "Personne avec qui tu devrais t'inquiéter."
+    mg "Personne de qui tu devrais t'inquiéter."
 
 # game/code/Book-1/Chapter-7s/s03.rpy:357
 translate french b1c07ss03_ca36b444:
@@ -656,7 +656,7 @@ translate french b1c07ss03_56b44597:
 translate french b1c07ss03_ad02f5c8:
 
     # mg "Nah, dude. C'mon. Let's just throw some more punches and call it a day."
-    mg "Non, mec. Allez, lançons quelques coups de plus et appelons ça une journée."
+    mg "Non, mec. Allez. Lançons juste quelques coups de poing supplémentaires et arrêtons pour aujourd'hui."
 
 # game/code/Book-1/Chapter-7s/s03.rpy:366
 translate french b1c07ss03_f6237e78:
@@ -668,7 +668,7 @@ translate french b1c07ss03_f6237e78:
 translate french b1c07ss03_153f2714:
 
     # mg "Anything?"
-    mg "N'importe quoi?"
+    mg "N'importe quoi hein?"
 
 # game/code/Book-1/Chapter-7s/s03.rpy:372
 translate french b1c07ss03_e59abd2a:
@@ -692,7 +692,7 @@ translate french b1c07ss03_03e07dc9:
 translate french b1c07ss03_444c89b8:
 
     # mc "Odd jobs? What are they, exactly?"
-    mc "Des petits boulots? C'est quoi, exactement?"
+    mc "Des petits boulots? Quel genre exactement?"
 
 # game/code/Book-1/Chapter-7s/s03.rpy:382
 translate french b1c07ss03_72c96cea:
@@ -758,7 +758,7 @@ translate french b1c07ss03_9b5429fb:
 translate french b1c07ss03_893543dc:
 
     # mg "Rory also mentioned needing some help with something. Didn't say what, but it shouldn't be too much for a guy like you to handle, right?"
-    mg "Rory a aussi mentionné avoir besoin d'aide pour quelque chose. Il n'a pas dit quoi, mais ça ne devrait pas être trop pour un gars comme toi, non?"
+    mg "Rory a aussi mentionné avoir besoin d'aide pour quelque chose. Il n'a pas dit quoi, mais ça ne devrait pas être trop dur pour un gars comme toi, non?"
 
 # game/code/Book-1/Chapter-7s/s03.rpy:407
 translate french b1c07ss03_d0d565ca:
@@ -770,13 +770,13 @@ translate french b1c07ss03_d0d565ca:
 translate french b1c07ss03_dbec6c74:
 
     # mc "Why can't you take it?"
-    mc "Pourquoi tu ne peux pas le prendre?"
+    mc "Pourquoi tu ne peux pas le faire?"
 
 # game/code/Book-1/Chapter-7s/s03.rpy:414
 translate french b1c07ss03_343c42c1:
 
     # mg "I can, but not before my gig. I'll go there afterward regardless, but it'd help us both out if you could go beforehand, y'know?"
-    mg "Je peux, mais pas avant mon boulot. J'y vais après de toute façon, mais ce serait mieux pour nous deux si tu pouvais y aller avant, tu sais?"
+    mg "Je pourrai, mais pas avant mon boulot. J'y vais après de toute façon, mais ce serait mieux pour nous deux si tu pouvais y aller avant, tu sais?"
 
 # game/code/Book-1/Chapter-7s/s03.rpy:417
 translate french b1c07ss03_977e0d9b:
@@ -806,13 +806,13 @@ translate french b1c07ss03_11455b53:
 translate french b1c07ss03_1b5289a2:
 
     # mg "I'd find you. I'm very good at finding people. So you better not betray my trust, right?"
-    mg "Je te retrouverais. Je suis très bon pour retrouver les gens. Alors tu ferais bien de ne pas trahir ma confiance, d'accord?"
+    mg "Je te retrouverais. Je suis très bonne pour retrouver les gens. Alors tu ferais bien de ne pas trahir ma confiance, d'accord?"
 
 # game/code/Book-1/Chapter-7s/s03.rpy:439
 translate french b1c07ss03_6a66963a:
 
     # mg "Because I'd find you anywhere you decided to run."
-    mg "Parce que je te retrouverais où que tu décides de fuir."
+    mg "Parce que je te retrouverais où que tu décides d'aller."
 
 # game/code/Book-1/Chapter-7s/s03.rpy:442
 translate french b1c07ss03_cabc33f3:
@@ -824,13 +824,13 @@ translate french b1c07ss03_cabc33f3:
 translate french b1c07ss03_637ca63a:
 
     # mg "If you can do this without doing anything shady, I'll train you to fight."
-    mg "Si tu peux faire ça sans faire quoi que ce soit de louche, je t'entraînerai à te battre."
+    mg "Si tu peux faire ça sans faire quoi que ce soit de stupide, je t'entraînerai à te battre."
 
 # game/code/Book-1/Chapter-7s/s03.rpy:446
 translate french b1c07ss03_ba87ad48:
 
     # mg "I can get you into the same fight club as me..."
-    mg "Je peux te faire entrer dans le même club de combat que moi..."
+    mg "Je pourrai même te faire entrer dans le même club de combat que moi..."
 
 # game/code/Book-1/Chapter-7s/s03.rpy:448
 translate french b1c07ss03_4c8061cb:
@@ -848,7 +848,7 @@ translate french b1c07ss03_05a2927a:
 translate french b1c07ss03_d8c5cdda:
 
     # mg "Well, I should get going. You should, too."
-    mg "Bon, je devrais y aller. Toi aussi."
+    mg "Bon, je devrais y aller et toi aussi."
 
 # game/code/Book-1/Chapter-7s/s03.rpy:457
 translate french b1c07ss03_720a54ee:

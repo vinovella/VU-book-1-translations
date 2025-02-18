@@ -3,7 +3,7 @@
 translate french b1c08ws03_939b5974:
 
     # mm "Now this is what I'm talking about!"
-    mm "Voilà ce dont je parle!"
+    mm "Maintenant, c'est de cela que je parle !"
 
 # game/code/Book-1/Chapter-8w/s03.rpy:23
 translate french b1c08ws03_0e8aa2c4:
@@ -75,13 +75,13 @@ translate french b1c08ws03_35a381a8:
 translate french b1c08ws03_090728f9:
 
     # mm "What the fuck is that queer on about?"
-    mm "C'est quoi ce pédé raconte?"
+    mm "Qu'est ce que cette tarlouze raconte?"
 
 # game/code/Book-1/Chapter-8w/s03.rpy:58
 translate french b1c08ws03_2faf26db:
 
     # "You rub your brow in tired amusement."
-    "Tu te frottes le front avec amusement fatigué."
+    "Tu te frottes le front avec un amusement fatigué."
 
 # game/code/Book-1/Chapter-8w/s03.rpy:60
 translate french b1c08ws03_d1266bce:
@@ -117,7 +117,7 @@ translate french b1c08ws03_f7a84583:
 translate french b1c08ws03_3b74dfc4:
 
     # sl "Also, what the fuck!? I didn't even say nothin'!"
-    sl "En plus, qu'est-ce que c'est que ce bordel!? J'ai même rien dit!"
+    sl "En puis, qu'est-ce que c'est que ce bordel!? J'ai même rien dit!"
 
 # game/code/Book-1/Chapter-8w/s03.rpy:82
 translate french b1c08ws03_59ed10ee:
@@ -189,7 +189,7 @@ translate french b1c08ws03_c56e31f4:
 translate french b1c08ws03_1531cd0c:
 
     # mc "Do you mind?"
-    mc "Ça te dérange?"
+    mc "Ça te dérange si je me joins a toi?"
 
 # game/code/Book-1/Chapter-8w/s03.rpy:135
 translate french b1c08ws03_e56c1819:
@@ -201,7 +201,7 @@ translate french b1c08ws03_e56c1819:
 translate french b1c08ws03_4b59f67b:
 
     # sm "What makes you think I have something on my mind?"
-    sm "Qu'est-ce qui te fait penser que j'ai quelque chose en tête?"
+    sm "Qu'est-ce qui te fait croire que j'ai quelque chose en tête?"
 
 # game/code/Book-1/Chapter-8w/s03.rpy:148
 translate french b1c08ws03_d698b1a4:
@@ -219,13 +219,13 @@ translate french b1c08ws03_310d3ebb:
 translate french b1c08ws03_2bb6e4ed:
 
     # sm "Guilty as charged."
-    sm "Coupable comme accusé."
+    sm "Je plaide coupable."
 
 # game/code/Book-1/Chapter-8w/s03.rpy:154
 translate french b1c08ws03_dc569910:
 
     # "Silvia laughs. It's a quiet laugh. Delicate. As if afraid that it'll be crushed if she's too loud, too uncontrolled."
-    "Silvia rit. C'est un rire discret. Délicat. Comme si elle avait peur qu'il soit écrasé si elle est trop bruyante, trop incontrôlée."
+    "Silvia rit. C'est un rire tranquille. Délicat. Comme si elle avait peur d'être écrasée si elle est trop bruyante, trop incontrôlée."
 
 # game/code/Book-1/Chapter-8w/s03.rpy:157
 translate french b1c08ws03_b85746b1:
@@ -255,7 +255,7 @@ translate french b1c08ws03_a5cb3ddd:
 translate french b1c08ws03_585ece96:
 
     # sm "*Chuckles* You're a real detective, huh?"
-    sm "*Rit* T'es vraiment un détective, hein?"
+    sm "*Rit* T'es vraiment un détective toi, hein?"
 
 # game/code/Book-1/Chapter-8w/s03.rpy:171
 translate french b1c08ws03_17f8edf2:
@@ -285,7 +285,7 @@ translate french b1c08ws03_7f3e9641:
 translate french b1c08ws03_4aebc4c6:
 
     # "Silvia's easy laughter however soon turns back into melancholy as she loses herself at the bottom of her drink."
-    "Le rire facile de Silvia se transforme cependant rapidement en mélancolie alors qu'elle se perd au fond de sa boisson."
+    "Le rire facile de Silvia se transforme cependant rapidement en mélancolie alors qu'elle se perd au fond de son verre."
 
 # game/code/Book-1/Chapter-8w/s03.rpy:187
 translate french b1c08ws03_cf7aab79:
@@ -423,7 +423,7 @@ translate french b1c08ws03_470b68b1:
 translate french b1c08ws03_d7455b14:
 
     # "You let your inhibitions go and melt into her kiss, following her lead."
-    "Tu laisses tes inhibitions s'envoler et te fonds dans son baiser, suivant son rythme."
+    "Tu laisses tes inhibitions s'envoler et tu te fonds dans son baiser, suivant son rythme."
 
 # game/code/Book-1/Chapter-8w/s03.rpy:249
 translate french b1c08ws03_a5be2bae:
@@ -459,7 +459,7 @@ translate french b1c08ws03_96235f48:
 translate french b1c08ws03_57dc4560:
 
     # mc "I didn't think I was {i}that{/i} bad of a kisser."
-    mc "Je ne pensais pas être {i}si{/i} mauvais en tant que baiser."
+    mc "Je ne pensais pas être {i}si{/i} mauvais pour embrasser."
 
 # game/code/Book-1/Chapter-8w/s03.rpy:263
 translate french b1c08ws03_1b2bfb02:
@@ -483,7 +483,7 @@ translate french b1c08ws03_61a1ee1d:
 translate french b1c08ws03_b17a5622:
 
     # sm "And uhm... Heh, I guess there's still some unresolved stuff left over from there."
-    sm "Et euh... Heh, je suppose qu'il y a encore des choses non résolues de là-bas."
+    sm "Et euh... Heh, je suppose qu'il y a encore des choses non résolues de côté là."
 
 # game/code/Book-1/Chapter-8w/s03.rpy:272
 translate french b1c08ws03_a275db12:
@@ -519,7 +519,7 @@ translate french b1c08ws03_20fb362b:
 translate french b1c08ws03_86c9d40e:
 
     # "You both stay in your embrace until Silvia feels calm again."
-    "Vous restez tous les deux dans vos bras jusqu'à ce que Silvia se sente à nouveau calme."
+    "Vous restez tous les deux dans les bras de l'un et l'autre jusqu'à ce que Silvia se sente à nouveau calme."
 
 translate french strings:
 

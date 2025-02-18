@@ -2,7 +2,7 @@
 translate french b1c07cs02_4f50783c:
 
     # sd "[mcname]! I'm so glad you're here."
-    sd "[mcname]! Je suis tellement content que tu sois là."
+    sd "[mcname]! Je suis tellement contente que tu sois là."
 
 # game/code/Book-1/Chapter-7c/s02.rpy:69
 translate french b1c07cs02_30478792:
@@ -32,13 +32,13 @@ translate french b1c07cs02_a4ee101a:
 translate french b1c07cs02_6bc05681:
 
     # sd "I was hoping we could talk for a bit over a glass of wine? Before we get into the..."
-    sd "J'espérais qu'on puisse discuter un peu autour d'un verre de vin, avant d'entrer dans le..."
+    sd "J'espérais qu'on puisse discuter un peu autour d'un verre de vin, avant d'entrer dans les..."
 
 # game/code/Book-1/Chapter-7c/s02.rpy:85
 translate french b1c07cs02_9a1ea2a3:
 
     # sd "Juicy bits, so to speak."
-    sd "Des informations croustillantes, pour ainsi dire."
+    sd "Les informations croustillantes, pour ainsi dire."
 
 # game/code/Book-1/Chapter-7c/s02.rpy:88
 translate french b1c07cs02_2f1cc2d3:
@@ -61,13 +61,13 @@ translate french b1c07cs02_f8dd3db4:
 translate french b1c07cs02_2018de70:
 
     # mc "I adore how affectionate you are, Sally."
-    mc "J'adore combien tu es affectueuse, Sally."
+    mc "J'adore comment tu es affectueuse, Sally."
 
 # game/code/Book-1/Chapter-7c/s02.rpy:103
 translate french b1c07cs02_b6b7a0b8:
 
     # mc "But that doesn't change why I'm here."
-    mc "Mais cela ne change pas pourquoi je suis ici."
+    mc "Mais cela ne change pas le pourquoi je suis ici."
 
 # game/code/Book-1/Chapter-7c/s02.rpy:106
 translate french b1c07cs02_f16f1787:
@@ -121,7 +121,7 @@ translate french b1c07cs02_58bd8cd5:
 translate french b1c07cs02_54bbe2a3:
 
     # mc "Sit in my lap? I mean, if that makes you comfortable, sure. As long as we can talk, too."
-    mc "M'asseoir sur tes genoux? Je veux dire, si cela te met à l'aise, bien sûr. Tant qu'on peut aussi parler."
+    mc "T'asseoir sur mes genoux? Je veux dire, si cela te met à l'aise, bien sûr. Tant qu'on peut aussi parler."
 
 # game/code/Book-1/Chapter-7c/s02.rpy:136
 translate french b1c07cs02_43844e66:
@@ -157,7 +157,7 @@ translate french b1c07cs02_5bfeee48:
 translate french b1c07cs02_99a97130:
 
     # mc "So, you said the group isn't what it seems, correct?"
-    mc "Alors, tu disais que le groupe n'est pas ce qu'il semble, c'est bien ça?"
+    mc "Alors, tu disais que le groupe n'est pas ce qu'il semble être, c'est bien ça?"
 
 # game/code/Book-1/Chapter-7c/s02.rpy:154
 translate french b1c07cs02_24fa2c85:
@@ -169,7 +169,7 @@ translate french b1c07cs02_24fa2c85:
 translate french b1c07cs02_31fec577:
 
     # sd "No, the group isn't what it seems."
-    sd "Non, le groupe n'est pas ce qu'il semble."
+    sd "Non, le groupe n'est pas ce qu'il semble être."
 
 # game/code/Book-1/Chapter-7c/s02.rpy:160
 translate french b1c07cs02_8f81bbef:
@@ -217,7 +217,7 @@ translate french b1c07cs02_f1e80327:
 translate french b1c07cs02_ba6f80bf:
 
     # sd "Some memories are so blinding with a confusing, overwhelming pleasure I can't tell up from down. Other memories are just strange..."
-    sd "Certaines mémoires sont tellement aveuglantes avec un plaisir déroutant et accablant que je ne distingue plus le haut du bas. D'autres souvenirs sont juste étranges..."
+    sd "Certains souvenirs sont si aveuglants avec un plaisir déroutant et écrasant que je ne peux pas distinguer le haut du bas. D'autres souvenirs sont tout simplement étranges..."
 
 # game/code/Book-1/Chapter-7c/s02.rpy:184
 translate french b1c07cs02_b2aba0e3:
@@ -247,7 +247,7 @@ translate french b1c07cs02_a44d1b08:
 translate french b1c07cs02_f183e105:
 
     # mct "What in hell's name makes someone hallucinate that?"
-    mct "Qu'est-ce qui, au nom de tout ce qui est sacré, pousse quelqu'un à halluciner ça?"
+    mct "Qu'est-ce qui, au nom de tout ce qui est sacré, pousse quelqu'un à halluciner comme ça?"
 
 # game/code/Book-1/Chapter-7c/s02.rpy:198
 translate french b1c07cs02_50b43b61:
@@ -277,13 +277,13 @@ translate french b1c07cs02_3436c6f2:
 translate french b1c07cs02_2576cd6f:
 
     # sd "Their insidious influences didn't work on me anymore. Suddenly, I wondered how I didn't see the signs sooner."
-    sd "Leurs influences sournoises ne fonctionnaient plus sur moi. Tout à coup, je me suis demandé comment je n'avais pas vu les signes plus tôt."
+    sd "Leurs influences sournoises ne fonctionnaient plus sur moi. Tout à coup, je me suis demandée comment je n'avais pas vue les signes plus tôt."
 
 # game/code/Book-1/Chapter-7c/s02.rpy:208
 translate french b1c07cs02_3f2b6fdc:
 
     # sd "So I ran. You know the rest."
-    sd "Alors j'ai fui. Tu connais la suite."
+    sd "Alors j'ai fuie. Tu connais la suite."
 
 # game/code/Book-1/Chapter-7c/s02.rpy:211
 translate french b1c07cs02_3e9cce89:
@@ -487,7 +487,7 @@ translate french b1c07cs02_sex_9014befb:
 translate french b1c07cs02_sex_2fa48c1d:
 
     # "She moans as soon as you're inside her. Her pussy hungrily grips and tenses around you."
-    "Elle gémit dès que tu es en elle. Sa chatte s'agrippe avidement et se tend autour de toi."
+    "Elle gémit dès que tu es en elle. Sa chatte s'agrippe avidement et se contracte autour de toi."
 
 # game/code/Book-1/Chapter-7c/s02.rpy:342
 translate french b1c07cs02_sex_88549aeb:
@@ -511,7 +511,7 @@ translate french b1c07cs02_sex_37f2341b:
 translate french b1c07cs02_sex_7ffc0502:
 
     # sd "Faster, please! I want you to use me."
-    sd "Plus vite, s'il vous plaît! Je veux que vous m'utilisiez."
+    sd "Plus vite, s'il te plaît! Je veux que tu m'utilises."
 
 # game/code/Book-1/Chapter-7c/s02.rpy:363
 translate french b1c07cs02_sex_9121fa7e:
@@ -523,7 +523,7 @@ translate french b1c07cs02_sex_9121fa7e:
 translate french b1c07cs02_sex_1a53a787:
 
     # mc "I can feel you want it. Beg for it. Plead for it. Show me how much you want me, need me."
-    mc "Je peux sentir que tu le veux. Supplie-le. Plaide-le. Montre-moi à quel point tu me veux, tu as besoin de moi."
+    mc "Je peux sentir que tu le veux. Supplie-le. Reclame-le. Montre-moi à quel point tu me veux, tu as besoin de moi."
 
 # game/code/Book-1/Chapter-7c/s02.rpy:368
 translate french b1c07cs02_sex_94332a73:
@@ -535,13 +535,13 @@ translate french b1c07cs02_sex_94332a73:
 translate french b1c07cs02_sex_6d364221:
 
     # sd "Yes! Make me yours. Mark me. {i}Take.{/i} {i}{b}Me.{/b}{/i}"
-    sd "Oui! Faites-moi vôtre. Marquez-moi. {i}Prenez.{/i} {i}{b}Moi.{/b}{/i}"
+    sd "Oui! Fait-moi tienne. Marque-moi. {i}Prend{/i} {i}{b}Moi.{/b}{/i}"
 
 # game/code/Book-1/Chapter-7c/s02.rpy:375
 translate french b1c07cs02_sex_75521e7a:
 
     # sd "I love the way your fingers feel inside me. Stretching me out to take you deeper."
-    sd "J'aime la façon dont tes doigts se sentent en moi. M'étirant pour t'emmener plus profondément."
+    sd "J'aime la façon dont tes doigts sont en moi. M'étirant pour t'emmener plus profondément."
 
 # game/code/Book-1/Chapter-7c/s02.rpy:376
 translate french b1c07cs02_sex_2e9d29f3:
@@ -553,13 +553,13 @@ translate french b1c07cs02_sex_2e9d29f3:
 translate french b1c07cs02_sex_e119df09:
 
     # mc "As you wish."
-    mc "Comme vous le souhaitez."
+    mc "Comme tu le souhaites."
 
 # game/code/Book-1/Chapter-7c/s02.rpy:396
 translate french b1c07cs02_sex_3e0df10b:
 
     # "The tightness and warmth of her walls feels intoxicating."
-    "L'étroitesse et la chaleur de ses murs sont enivrantes."
+    "L'étroitesse et la chatte de ses paroies sont enivrantes."
 
 # game/code/Book-1/Chapter-7c/s02.rpy:423
 translate french b1c07cs02_sex_1fb032db:
@@ -577,13 +577,13 @@ translate french b1c07cs02_sex_64cb39ef:
 translate french b1c07cs02_sex_96365c68:
 
     # sd "Ah! You feel so good. Use me as you want."
-    sd "Ah! Tu te sens si bien. Utilise-moi comme tu veux."
+    sd "Ah! Tu es si bon. Utilise-moi comme tu veux."
 
 # game/code/Book-1/Chapter-7c/s02.rpy:444
 translate french b1c07cs02_sex_691c1d03:
 
     # mc "Use you, huh? I'm gonna fuck you ruthlessly, Sally."
-    mc "Utiliser toi, hein? Je vais te baiser sans pitié, Sally."
+    mc "Utilisee moi, hein? Je vais te baiser sans pitié, Sally."
 
 # game/code/Book-1/Chapter-7c/s02.rpy:450
 translate french b1c07cs02_sex_1563158e:
@@ -595,7 +595,7 @@ translate french b1c07cs02_sex_1563158e:
 translate french b1c07cs02_sex_97abd979:
 
     # "You can feel her folds constricting and contracting, her orgasm is near, and yours isn't much further."
-    "Vous pouvez sentir ses plis se resserrer et se contracter, son orgasme est proche et le vôtre n'est pas beaucoup plus loin."
+    "Vous pouvez sentir ses paroies se resserrer et se contracter, son orgasme est proche et le vôtre n'est pas beaucoup plus loin."
 
 # game/code/Book-1/Chapter-7c/s02.rpy:469
 translate french b1c07cs02_sex_0196a7c6:
@@ -637,19 +637,19 @@ translate french b1c07cs02_sex_9ed920a8:
 translate french b1c07cs02_sex_9f20aa96:
 
     # sd "I-inside me."
-    sd "Je-en moi."
+    sd "Jouis-en moi."
 
 # game/code/Book-1/Chapter-7c/s02.rpy:506
 translate french b1c07cs02_sex_6a526043:
 
     # "She moans and slurs out the words."
-    "Elle gémit et bredouille les mots."
+    "Elle gémit et bredouille ses mots."
 
 # game/code/Book-1/Chapter-7c/s02.rpy:508
 translate french b1c07cs02_sex_e4c088ae:
 
     # sd "Please, cum inside of me. I want to feel your warmth. I want your seed to claim me."
-    sd "S'il te plaît, jouis en moi. Je veux sentir ta chaleur. Je veux que ta semence me réclame."
+    sd "S'il te plaît, jouis en moi. Je veux sentir ta chaleur. Je veux que ton sperme me réclame."
 
 # game/code/Book-1/Chapter-7c/s02.rpy:509
 translate french b1c07cs02_sex_860c05df:
@@ -667,13 +667,13 @@ translate french b1c07cs02_sex_d9fabaab:
 translate french b1c07cs02_sex_3e8450b7:
 
     # "You flood her with your cum, her orgasm arriving at the same time, sucking you in and drawing out every last droplet until you're spent dry."
-    "Vous l'inondez de votre sperme, son orgasme arrive en même temps, vous aspirant et en extrayant jusqu'à la dernière gouttelette jusqu'à ce que vous soyez sec."
+    "Vous l'inondez de votre sperme, son orgasme arrive en même temps, vous aspirant et en extrayant jusqu'à la dernière gouttelette de sperme  et ce jusqu'à ce que vous soyez sec."
 
 # game/code/Book-1/Chapter-7c/s02.rpy:530
 translate french b1c07cs02_sex_b4027aae:
 
     # sd "Mm. It feels so warm inside me. I wish we could stay like this, in the afterglow of our untamed desires."
-    sd "Mm. Cela fait si chaud en moi. J'aimerais que nous puissions rester comme ça, dans la lueur de nos désirs indomptables."
+    sd "Mm. C'est si chaud en moi. J'aimerais que nous puissions rester comme ça, dans la lueur de nos désirs indomptables."
 
 # game/code/Book-1/Chapter-7c/s02.rpy:532
 translate french b1c07cs02_sex_122e7c64:
@@ -691,31 +691,31 @@ translate french b1c07cs02_sex_25035d4b:
 translate french b1c07cs02_sex_822b3fec:
 
     # sd "*Giggles* I noticed. But I liked that. I love that moment. When all thoughts are gone. True feeling, truly connected. No lies, no false assumptions."
-    sd "*Rires* J'ai remarqué. Mais j'ai aimé ça. J'adore ce moment. Quand toutes les pensées ont disparu. Un vrai sentiment, vraiment connecté. Pas de mensonges, pas de fausses hypothèses."
+    sd "*Rires* J'ai remarquée. Mais j'ai aimée ça. J'adore ces moment. Quand toutes les pensées ont disparues. Un vrai sentiment, vraiment connecté. Pas de mensonges, pas de fausses hypothèses."
 
 # game/code/Book-1/Chapter-7c/s02.rpy:539
 translate french b1c07cs02_sex_8486c60b:
 
     # sd "You get to see each other as we truly are."
-    sd "Vous pouvez vous voir tels que nous sommes vraiment."
+    sd "Nous pouvons nous voir tels que nous sommes vraiment."
 
 # game/code/Book-1/Chapter-7c/s02.rpy:540
 translate french b1c07cs02_sex_fcc90f59:
 
     # sd "Isn't that intimacy so beautiful? So transcendent?"
-    sd "Cette intimité n'est-elle pas si belle? Si transcendante?"
+    sd "Cette intimitée n'est-elle pas si belle? Si transcendante?"
 
 # game/code/Book-1/Chapter-7c/s02.rpy:542
 translate french b1c07cs02_sex_7649a62e:
 
     # mc "It's certainly something."
-    mc "C'est certainement quelque chose."
+    mc "C'est sûr c'est quelque chose."
 
 # game/code/Book-1/Chapter-7c/s02.rpy:557
 translate french b1c07cs02_sex_dcbcc351:
 
     # sd "Thank you for giving me that again, [mcname]."
-    sd "Merci de m'avoir encore donné ça, [mcname]."
+    sd "Merci de m'avoir encore donnée ça, [mcname]."
 
 # game/code/Book-1/Chapter-7c/s02.rpy:561
 translate french b1c07cs02_sex_a8cccb4f:
@@ -733,13 +733,13 @@ translate french b1c07cs02_sex_e5e210ae:
 translate french b1c07cs02_sex_406f634f:
 
     # mc "Bye, Sally. Let me know if you...want to discuss the cult another time."
-    mc "Au revoir, Sally. Faites-moi savoir si vous... voulez discuter de la secte une autre fois."
+    mc "Au revoir, Sally. Fais-moi savoir si tu... veux discuter de la secte une autre fois."
 
 # game/code/Book-1/Chapter-7c/s02.rpy:574
 translate french b1c07cs02_sex_491b28c6:
 
     # sd "I will."
-    sd "Je vais."
+    sd "Je le ferai."
 
 # game/code/Book-1/Chapter-7c/s02.rpy:575
 translate french b1c07cs02_sex_a63b396c:

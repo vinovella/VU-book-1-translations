@@ -146,7 +146,7 @@ translate french b1c06ss07_ffca3941:
 translate french b1c06ss07_713307ad:
 
     # "The moment your lips touch her warm, delicate skin, you can feel her clamp up; her breath catching in her throat as she demurely looks on at you."
-    "Pour quelqu'un qui a eu l'audace d'essayer de me branler en public, elle peut certainement être timide."
+    "Au moment où vos lèvres touchent sa peau chaude et délicate, vous pouvez la sentir se crisper; son souffle se coupe dans sa gorge alors qu'elle te regarde d'un air modeste."
 
 # game/code/Book-1/Chapter-6s/s07.rpy:182
 translate french b1c06ss07_c29e94b3:
@@ -260,7 +260,7 @@ translate french b1c06ss07_66a5117a:
 translate french b1c06ss07_498927cc:
 
     # ffl "I think— Uhm, I'm ready."
-    ffl "Je pense… Euh, je suis prêt."
+    ffl "Je pense… Euh, je suis prête."
 
 # game/code/Book-1/Chapter-6s/s07.rpy:234
 translate french b1c06ss07_06d61d22:
@@ -284,13 +284,13 @@ translate french b1c06ss07_8012e064:
 translate french b1c06ss07_9477fe67:
 
     # mc "I'll be gentle. Let me know if you want me to stop."
-    mc "Je serai gentil. Faites-moi savoir si vous voulez que j'arrête."
+    mc "Je serai gentil. Faites-moi savoir si tu veux que j'arrête."
 
 # game/code/Book-1/Chapter-6s/s07.rpy:260
 translate french b1c06ss07_9894ca70:
 
     # "The moment you push yourself inside, a fiercely tight heat engulfs your tip; sucking you in desperate desire and forcing you to stay in her embrace."
-    "Au moment où vous vous poussez à l'intérieur, une chaleur extrêmement serrée engloutit votre pointe, vous aspirant dans un désir désespéré et vous forçant à rester dans son étreinte."
+    "Au moment où vous vous poussez à l'intérieur, une chaleur extrêmement serrée engloutit ton gland, vous aspirant dans un désir désespéré et vous forçant à rester dans son étreinte."
 
 # game/code/Book-1/Chapter-6s/s07.rpy:262
 translate french b1c06ss07_b42f314b:
@@ -314,7 +314,7 @@ translate french b1c06ss07_934e2e4e:
 translate french b1c06ss07_cd42eee5:
 
     # "You happily oblige."
-    "Vous êtes heureux d'obliger."
+    "Vous êtes heureux de le faire."
 
 # game/code/Book-1/Chapter-6s/s07.rpy:279
 translate french b1c06ss07_56cefccc:
@@ -326,25 +326,25 @@ translate french b1c06ss07_56cefccc:
 translate french b1c06ss07_6ca1beaf:
 
     # "And you feel each and every fold constrict around you to the rhythmic thrusts of your hips; holding onto you in desperate lust each time you bottom out, and relaxing each time you push yourself back in."
-    "Et vous sentez chaque pli se resserrer autour de vous au rythme des poussées de vos hanches, vous retenir avec un désir désespéré à chaque fois que vous touchez le fond, et vous détendre à chaque fois que vous vous repoussez."
+    "Et vous sentez chaque pli se resserrer autour de vous au rythme des poussées de vos hanches, vous vous accrochez avec un désir désespéré à chaque fois que vous touchez le fond, et vous vous détendez à chaque fois que vous vous repoussez."
 
 # game/code/Book-1/Chapter-6s/s07.rpy:293
 translate french b1c06ss07_6c355374:
 
     # ffl "*Staggered moans* [mcname]... God, you feel so hot."
-    ffl "*Gémissements décalés* [mcname]... Mon Dieu, tu as si chaud."
+    ffl "*Gémissements décalés* [mcname]... Mon Dieu, tu es si chaud."
 
 # game/code/Book-1/Chapter-6s/s07.rpy:302
 translate french b1c06ss07_557581af:
 
     # ffl "Please, [mcname]. Harder. Fuck me harder. Make me yours."
-    ffl "S'il te plaît, [mcname]. Plus fort. Baise-moi plus fort. Fais de moi le tien."
+    ffl "S'il te plaît, [mcname]. Plus fort. Baise-moi plus fort. Fais de moi tienne."
 
 # game/code/Book-1/Chapter-6s/s07.rpy:315
 translate french b1c06ss07_c6760454:
 
     # "You can't hold back the wave of your orgasm much longer. You feel your dick ache and twitch, wanting release."
-    "Vous ne pouvez pas retenir la vague de votre orgasme plus longtemps. Vous sentez votre bite vous faire mal et vous contracter, voulant être libérée."
+    "Vous ne pouvez pas retenir la vague de votre orgasme plus longtemps. Vous sentez votre bite vous faire mal et ce contracter, voulant être libérée."
 
 # game/code/Book-1/Chapter-6s/s07.rpy:317
 translate french b1c06ss07_79af7885:
@@ -398,25 +398,25 @@ translate french b1c06ss07_56117535:
 translate french b1c06ss07_e1939d3f:
 
     # ef "I brought some cheesecak—"
-    ef "J'ai apporté du cheesecake—"
+    ef "J'ai apportée du cheesecake—"
 
 # game/code/Book-1/Chapter-6s/s07.rpy:382
 translate french b1c06ss07_81706d98:
 
     # ef "Oop, I'm sorry! I uh... I didn't realize you were bringing a boy over, Fleur."
-    ef "Oop, je suis désolé! Je, euh... je n'avais pas réalisé que tu amenais un garçon, Fleur."
+    ef "Oop, je suis désolée! Je, euh... je n'avais pas réalisée que tu ramenerais un garçon, Fleur."
 
 # game/code/Book-1/Chapter-6s/s07.rpy:386
 translate french b1c06ss07_f106968c:
 
     # ffl "I'm so sorry! I completely forgot about the time."
-    ffl "Je suis vraiment désolé! J'ai complètement oublié l'heure."
+    ffl "Je suis vraiment désolée! J'ai complètement oubliée l'heure."
 
 # game/code/Book-1/Chapter-6s/s07.rpy:389
 translate french b1c06ss07_2a9b021d:
 
     # ef "Woah, must've had a good time then if you forgot about me."
-    ef "Woah, tu as dû passer un bon moment alors si tu m'as oublié."
+    ef "Woah, tu as dû passer un bon moment alors si tu m'as oubliée."
 
 # game/code/Book-1/Chapter-6s/s07.rpy:394
 translate french b1c06ss07_3cfb7d3e:
@@ -428,13 +428,13 @@ translate french b1c06ss07_3cfb7d3e:
 translate french b1c06ss07_b07fe460:
 
     # ef "*Giggles* I'm messing with you. It's been {i}for-fucking-ever{/i}, I'm glad you brought someone around!"
-    ef "*Rires* Je me moque de toi. Ça fait {i}putain de toujours{/i}, je suis content que tu aies amené quelqu'un avec moi!"
+    ef "*Rires* Je me moque de toi. Ça fait {i}toujours du bien{/i}, je suis contente que tu aies amené quelqu'un avec toi!"
 
 # game/code/Book-1/Chapter-6s/s07.rpy:399
 translate french b1c06ss07_9b2fe9a0:
 
     # ef "Oh! And nice to meet you, by the way. Boy whose face I didn't really see."
-    ef "Oh! Et ravi de vous rencontrer, au fait. Un garçon dont je n'ai pas vraiment vu le visage."
+    ef "Oh! Et ravie de vous rencontrer, au fait. Un garçon dont je n'ai pas vraiment vu le visage."
 
 # game/code/Book-1/Chapter-6s/s07.rpy:402
 translate french b1c06ss07_3ef920ce:
@@ -452,7 +452,7 @@ translate french b1c06ss07_dae78501:
 translate french b1c06ss07_cb45cd61:
 
     # mc "In the flesh."
-    mc "En chair."
+    mc "En chair et en os."
 
 # game/code/Book-1/Chapter-6s/s07.rpy:414
 translate french b1c06ss07_6d5432c4:

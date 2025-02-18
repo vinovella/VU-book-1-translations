@@ -327,7 +327,7 @@ translate french b1c06s01_call_rh_dc29e646:
 translate french b1c06s01_call_rh_971c7edf:
 
     # "You feel her tongue swirl around your fingers, licking all of her wetness off you."
-    "Tu sens sa langue tourbillonner autour de tes doigts, léchant toute sa moiteur."
+    "Tu sens sa langue tourbillonner autour de tes doigts, léchant toute sa mouille."
 
 # game/code/Book-1/Chapter-6/s01.rpy:276
 translate french b1c06s01_call_rh_570c8725:
@@ -375,7 +375,7 @@ translate french b1c06s01_call_rh_b2d7fe2a:
 translate french b1c06s01_call_rh_9f590135:
 
     # "You clean close to Ronja's ear and whisper against it."
-    "Tu nettoies près de l'oreille de Ronja et tu murmures contre elle."
+    "Tu t'approche près de l'oreille de Ronja et tu murmures."
 
 # game/code/Book-1/Chapter-6/s01.rpy:327
 translate french b1c06s01_call_rh_b5ea19f5:
@@ -423,7 +423,7 @@ translate french b1c06s01_call_rh_c88a7121:
 translate french b1c06s01_call_rh_a9eeeb8f:
 
     # "But this leaves her mouth woefully empty, and her whimpers grow louder."
-    "Mais cela laisse sa bouche terriblement vide et ses gémissements deviennent plus forts."
+    "Mais cela laisse sa bouche terriblement ouverte et ses gémissements deviennent plus forts."
 
 # game/code/Book-1/Chapter-6/s01.rpy:368
 translate french b1c06s01_call_rh_7acdf925:
@@ -465,7 +465,7 @@ translate french b1c06s01_call_rh_fcb37aa1:
 translate french b1c06s01_call_rh_20c69fce:
 
     # mc "Now open it so I can fuck you senseless without it causing trouble."
-    mc "Maintenant, ouvre-le pour que je puisse te baiser sans que cela ne te cause de problèmes."
+    mc "Maintenant, ouvre-la pour que je puisse te baiser sans que cela ne te cause de problèmes."
 
 # game/code/Book-1/Chapter-6/s01.rpy:397
 translate french b1c06s01_call_rh_ac8f4e4b:

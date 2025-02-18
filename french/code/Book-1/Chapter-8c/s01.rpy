@@ -26,7 +26,7 @@ translate french b1c08cs01_8d05dd13:
 translate french b1c08cs01_21935536:
 
     # dk "Hm, too bad spiritual awakening can't come through the form of beauty sleep."
-    dk "Hm, dommage que l'éveil spirituel ne puisse pas passer par le sommeil de beauté."
+    dk "Hm, dommage que l'éveil spirituel ne puisse pas passer par le sommeil réparateur."
 
 # game/code/Book-1/Chapter-8c/s01.rpy:41
 translate french b1c08cs01_d3a04541:
@@ -74,7 +74,7 @@ translate french b1c08cs01_f7040e7a:
 translate french b1c08cs01_82b74191:
 
     # mc "You'd know best, mm?"
-    mc "Tu serais bien la mieux placée pour savoir, non?"
+    mc "Tu es la mieux placée pour le savoir, non?"
 
 # game/code/Book-1/Chapter-8c/s01.rpy:70
 translate french b1c08cs01_2f992ab4:
@@ -104,7 +104,7 @@ translate french b1c08cs01_bbdb8ba4:
 translate french b1c08cs01_bcaa7d5a:
 
     # ij "New members struggle with it sometimes. But lucky for you, I quite enjoy giving you greeting kisses."
-    ij "Les nouveaux membres ont parfois du mal avec ça. Mais chance pour toi, j'aime bien te donner des baisers de salut."
+    ij "Les nouveaux membres ont parfois du mal avec ça. Mais heureusement pour toi, j'aime bien te faire des bisous de bienvenue."
 
 # game/code/Book-1/Chapter-8c/s01.rpy:92
 translate french b1c08cs01_1bec0b02:
@@ -128,7 +128,7 @@ translate french b1c08cs01_70145e10:
 translate french b1c08cs01_7bace6b3:
 
     # ef "I'm so freaking excited, you guys!"
-    ef "Je suis trop excitée, vous les gars!"
+    ef "Je suis trop excitée, et vous les gars!"
 
 # game/code/Book-1/Chapter-8c/s01.rpy:106
 translate french b1c08cs01_a56a928b:
@@ -140,7 +140,7 @@ translate french b1c08cs01_a56a928b:
 translate french b1c08cs01_e4825f89:
 
     # nv "Me too. It can be so difficult to properly connect at uni. But out in the forest, where all we have is each other? It sounds so relaxing."
-    nv "Moi aussi. C'est tellement difficile de vraiment se connecter à l'université. Mais dehors dans la forêt, où on n'a que nous les uns les autres? Ça a l'air tellement relaxant."
+    nv "Moi aussi. Il peut être si difficile de se connecter correctement à l'université. Mais dans la forêt, où nous n'avons que l'autre ? Cela semble tellement relaxant."
 
 # game/code/Book-1/Chapter-8c/s01.rpy:112
 translate french b1c08cs01_b8df62f7:
@@ -152,7 +152,7 @@ translate french b1c08cs01_b8df62f7:
 translate french b1c08cs01_56727171:
 
     # mc "I guess I'm not sure what to expect. But I'm very open to whatever's planned. The experience itself with all of you will be fun."
-    mc "Je suppose que je ne sais pas trop à quoi m'attendre. Mais je suis ouvert à tout ce qui est prévu. L'expérience elle-même avec vous tous sera amusante."
+    mc "Je ne sais pas trop à quoi m'attendre. Mais je suis ouvert à tout ce qui est prévu. L'expérience elle-même avec vous tous sera amusante."
 
 # game/code/Book-1/Chapter-8c/s01.rpy:118
 translate french b1c08cs01_01bf2e73:
@@ -200,7 +200,7 @@ translate french b1c08cs01_ec5e1b0a:
 translate french b1c08cs01_a91874eb:
 
     # nv "I understand. I felt that way too. It's completely valid. But I {i}promise{/i} it'll be an enlightening experience."
-    nv "Je comprends. Je me suis aussi sentie comme ça. C'est tout à fait valide. Mais je {i}promets{/i} que ce sera une expérience éclairante."
+    nv "Je comprends. Je me suis aussi sentie comme ça. C'est tout à fait normale. Mais je {i}promets{/i} que ce sera une expérience éclairante."
 
 # game/code/Book-1/Chapter-8c/s01.rpy:142
 translate french b1c08cs01_258bcc97:
@@ -212,7 +212,7 @@ translate french b1c08cs01_258bcc97:
 translate french b1c08cs01_da22d331:
 
     # mc "Have you been on one of these trips before?"
-    mc "As-tu déjà participé à l'un de ces voyages?"
+    mc "As-tu déjà fais l'un de ces voyages?"
 
 # game/code/Book-1/Chapter-8c/s01.rpy:148
 translate french b1c08cs01_2a62c4ad:
@@ -242,7 +242,7 @@ translate french b1c08cs01_dd321216:
 translate french b1c08cs01_60daab73:
 
     # nv "*Clears throat* Um, yes. I went on one of these trips before."
-    nv "*Tousse* Euh, oui. J'ai déjà participé à l'un de ces voyages."
+    nv "*Tousse* Euh, oui. J'ai déjà fais un de ces voyages."
 
 # game/code/Book-1/Chapter-8c/s01.rpy:161
 translate french b1c08cs01_83495ed0:
@@ -272,7 +272,7 @@ translate french b1c08cs01_670b4c29:
 translate french b1c08cs01_00c517cc:
 
     # nv "Lumi, have you given any more thought to getting the tattoo? It's a significant part of our group, and it might really help you feel like you belong here."
-    nv "Lumi, as-tu réfléchi davantage à l'idée de te faire tatouer? C'est une partie importante de notre groupe, et cela pourrait vraiment t'aider à te sentir ici chez toi."
+    nv "Lumi, as-tu réfléchie davantage à l'idée de te faire tatouer? C'est une partie importante de notre groupe, et cela pourrait vraiment t'aider à te sentir ici chez toi."
 
 # game/code/Book-1/Chapter-8c/s01.rpy:173
 translate french b1c08cs01_47c7017f:
@@ -284,7 +284,7 @@ translate french b1c08cs01_47c7017f:
 translate french b1c08cs01_07fbdade:
 
     # ll "I've been considering it. It's just—I'm not sure if it's for me."
-    ll "J'y ai réfléchi. C'est juste—je ne suis pas sûre que ce soit pour moi."
+    ll "J'y ai réfléchie. C'est juste—je ne suis pas sûre que ce soit pour moi."
 
 # game/code/Book-1/Chapter-8c/s01.rpy:179
 translate french b1c08cs01_99d19525:
@@ -296,7 +296,7 @@ translate french b1c08cs01_99d19525:
 translate french b1c08cs01_c849b4ab:
 
     # nv "I only mention it because you seem to feel like you don't belong here."
-    nv "Je le mentionne seulement parce que tu sembles sentir que tu n'appartiens pas ici."
+    nv "Je le mentionne seulement parce que tu sembles sentir a l'écart la communauté."
 
 # game/code/Book-1/Chapter-8c/s01.rpy:184
 translate french b1c08cs01_c08d813d:
@@ -398,7 +398,7 @@ translate french b1c08cs01_58616234:
 translate french b1c08cs01_82a36ce8:
 
     # ll "I'm still thinking."
-    ll "Je réfléchis encore."
+    ll "Je réfléchies encore."
 
 # game/code/Book-1/Chapter-8c/s01.rpy:225
 translate french b1c08cs01_60a0bc31:
@@ -428,7 +428,7 @@ translate french b1c08cs01_47052bb5:
 translate french b1c08cs01_8bc744e8:
 
     # ll "I'm still thinking about it."
-    ll "Je réfléchis encore."
+    ll "Je réfléchies encore."
 
 # game/code/Book-1/Chapter-8c/s01.rpy:240
 translate french b1c08cs01_676077b7:
@@ -452,7 +452,7 @@ translate french b1c08cs01_b368f01c:
 translate french b1c08cs01_72e55823:
 
     # dk "Ugh! My ancestral spirits were so unhelpful that day. That's part of why I stopped using tarot cards."
-    dk "Ugh! Mes esprits ancestraux étaient tellement inutiles ce jour-là. C'est en partie pour ça que j'ai arrêté d'utiliser les cartes de tarot."
+    dk "Ugh! Mes esprits ancestraux étaient tellement inutiles ce jour-là. C'est en partie pour ça que j'ai arrêtée d'utiliser les cartes de tarot."
 
 # game/code/Book-1/Chapter-8c/s01.rpy:253
 translate french b1c08cs01_5e7c6d86:
@@ -476,13 +476,13 @@ translate french b1c08cs01_739175a4:
 translate french b1c08cs01_a230b536:
 
     # ij "I remember when I first got into divination. I started scrying, but wow, that stuff is too potent for me."
-    ij "Je me souviens quand j'ai commencé à m'intéresser à la divination. J'ai commencé à faire de la divination par cristal, mais waouh, c'est trop puissant pour moi."
+    ij "Je me souviens quand j'ai commencée à m'intéresser à la divination. J'ai commencée à faire de la divination par cristal, mais waouh, c'est trop puissant pour moi."
 
 # game/code/Book-1/Chapter-8c/s01.rpy:263
 translate french b1c08cs01_3638afa9:
 
     # ij "I started hearing voices and seeing things out of the corners of my eyes."
-    ij "J'ai commencé à entendre des voix et à voir des choses du coin de l'œil."
+    ij "J'ai commencée à entendre des voix et à voir des choses du coin de l'œil."
 
 # game/code/Book-1/Chapter-8c/s01.rpy:266
 translate french b1c08cs01_31d1df6f:
@@ -524,13 +524,13 @@ translate french b1c08cs01_e0a73d4a:
 translate french b1c08cs01_70b37859:
 
     # ij "I've done it two times. The first time went okay. I just saw some symbols. But the second time was disturbing."
-    ij "Je l'ai fait deux fois. La première fois, ça s'est bien passé. J'ai juste vu quelques symboles. Mais la deuxième fois, c'était perturbant."
+    ij "Je l'ai fait deux fois. La première fois, ça s'est bien passée. J'ai juste vu quelques symboles. Mais la deuxième fois, c'était perturbant."
 
 # game/code/Book-1/Chapter-8c/s01.rpy:283
 translate french b1c08cs01_c929a4eb:
 
     # ef "Wow! You never told me this. What happened the second time?"
-    ef "Waouh! Tu ne m'as jamais raconté ça. Que s'est-il passé la deuxième fois?"
+    ef "Waouh! Tu ne m'as jamais racontée ça. Que s'est-il passé la deuxième fois?"
 
 # game/code/Book-1/Chapter-8c/s01.rpy:286
 translate french b1c08cs01_df61724e:
@@ -554,7 +554,7 @@ translate french b1c08cs01_3671357f:
 translate french b1c08cs01_810d8170:
 
     # ij "{i}She who harrows Hell shall be devoured.{/i}"
-    ij "{i}Elle qui laboure l'Enfer sera dévorée.{/i}"
+    ij "{i}Celle qui déchire l'enfer sera dévorée.{/i}"
 
 # game/code/Book-1/Chapter-8c/s01.rpy:296
 translate french b1c08cs01_5628ac95:
@@ -680,7 +680,7 @@ translate french b1c08cs01_b50ed790:
 translate french b1c08cs01_d9181a62:
 
     # ij "Regardless, I haven't touched it since."
-    ij "Quoi qu'il en soit, je n'y ai plus touché depuis."
+    ij "Quoi qu'il en soit, je n'y ai plus touchée depuis."
 
 # game/code/Book-1/Chapter-8c/s01.rpy:363
 translate french b1c08cs01_3e065ea0:
@@ -692,7 +692,7 @@ translate french b1c08cs01_3e065ea0:
 translate french b1c08cs01_7cb4c37d:
 
     # mct "This also comes from the girl who seems to think she grew a penis from some sort of miracle..."
-    mct "C'est aussi venant de la fille qui semble penser qu'elle a fait pousser un pénis grâce à un genre de miracle..."
+    mct "Cela vient aussi de la fille qui semble penser qu'elle a fait pousser un pénis à cause d'une sorte de miracle...."
 
 # game/code/Book-1/Chapter-8c/s01.rpy:365
 translate french b1c08cs01_a794abe1:
@@ -710,7 +710,7 @@ translate french b1c08cs01_40746f3b:
 translate french b1c08cs01_9802febb:
 
     # mct "Still...Irene seems to think there's some truth to what she heard. Were the missing girls—or at least Maria—harrowing Hell in some way?"
-    mct "Quand même... Irene semble penser qu'il y a une part de vérité dans ce qu'elle a entendu. Est-ce que les filles disparues — ou du moins Maria — faisaient quelque chose pour harceler l'Enfer d'une manière ou d'une autre?"
+    mct "Quand même... Irene semble penser qu'il y a une part de véritée dans ce qu'elle a entendue. Est-ce que les filles disparues — ou du moins Maria — faisaient quelque chose pour harceler l'Enfer d'une manière ou d'une autre?"
 
 # game/code/Book-1/Chapter-8c/s01.rpy:373
 translate french b1c08cs01_ad5562ae:
@@ -752,7 +752,7 @@ translate french b1c08cs01_e2153659:
 translate french b1c08cs01_d264014b:
 
     # ad "Of course, my pet. I just came to check in with all my delicate rose petals."
-    ad "Bien sûr, mon petit. Je suis juste venu m'assurer que tout allait bien avec mes délicates pétales de rose."
+    ad "Bien sûr, ma petite. Je suis juste venu m'assurer que tout allait bien avec mes délicates pétales de rose."
 
 # game/code/Book-1/Chapter-8c/s01.rpy:392
 translate french b1c08cs01_4b77f10b:
@@ -800,7 +800,7 @@ translate french b1c08cs01_b4932451:
 translate french b1c08cs01_4f45b44b:
 
     # dk "And gave good head in an alleyway."
-    dk "Et j'ai fait une bonne fellation dans une ruelle."
+    dk "Et oû j'ai fait une bonne fellation dans une ruelle."
 
 # game/code/Book-1/Chapter-8c/s01.rpy:416
 translate french b1c08cs01_4ee1edce:
@@ -908,7 +908,7 @@ translate french b1c08cs01_f4bcdf36:
 translate french b1c08cs01_e64988fe:
 
     # ad "My lovely pets, I think we should discuss our sleeping arrangements."
-    ad "Mes chers animaux, je pense qu'il serait temps de discuter de nos arrangements pour dormir."
+    ad "Mes cheres roses, je pense qu'il serait temps de discuter de nos arrangements pour dormir."
 
 # game/code/Book-1/Chapter-8c/s01.rpy:462
 translate french b1c08cs01_91aaa300:

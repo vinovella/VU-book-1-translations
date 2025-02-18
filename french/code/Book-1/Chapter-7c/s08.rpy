@@ -56,7 +56,7 @@ translate french b1c07cs08_a189d043:
 translate french b1c07cs08_3d70bae3:
 
     # mct "She's right to analyze her own feelings, but I need to hopefully work this in a way that'll guide her to getting tattooed..."
-    mct "Elle a raison d'analyser ses propres sentiments, mais je dois espérer le gérer de manière à la guider vers le tatouage..."
+    mct "Elle a raison d'analyser ses propres sentiments, mais j'espère que j'y parviendrai de manière à la guider vers le fait de se faire tatouer...."
 
 # game/code/Book-1/Chapter-7c/s08.rpy:47
 translate french b1c07cs08_9852488a:
@@ -68,7 +68,7 @@ translate french b1c07cs08_9852488a:
 translate french b1c07cs08_38a8feab:
 
     # mc "But I, for one, thought you looked very free and confident in your skin."
-    mc "Mais moi, je trouvais que tu avais l'air très libre et confiante dans ta peau."
+    mc "Mais pour ma part, je pensais que tu avais l'air très libre et confiant dans ton corp.."
 
 # game/code/Book-1/Chapter-7c/s08.rpy:56
 translate french b1c07cs08_a2ee496e:
@@ -80,7 +80,7 @@ translate french b1c07cs08_a2ee496e:
 translate french b1c07cs08_94e95451:
 
     # mc "It's better to fuck around and find out rather than always wonder."
-    mc "C'est mieux de tenter le coup et découvrir plutôt que de toujours se demander."
+    mc "C'est mieux de tenter le coup et découvrir ce qu'il ce passe plutôt que de toujours se demanderce qu'il va arriver."
 
 # game/code/Book-1/Chapter-7c/s08.rpy:61
 translate french b1c07cs08_9bdefa5c:
@@ -110,13 +110,13 @@ translate french b1c07cs08_431d7332:
 translate french b1c07cs08_79907c55:
 
     # ll "Exactly. I'm just floating in a void of my own thoughts with no direction or rationality. I hate it."
-    ll "Exactement. Je flotte juste dans un vide de mes propres pensées sans direction ni rationalité. Je déteste ça."
+    ll "Exactement. Je flotte simplement dans le vide de mes propres pensées, sans direction ni rationalité. Je déteste ça."
 
 # game/code/Book-1/Chapter-7c/s08.rpy:74
 translate french b1c07cs08_8c2a752e:
 
     # ll "It's part of why I like the self-help group though. The self-help group feels like my grounding force, y'know?"
-    ll "C'est en partie pour ça que j'aime le groupe d'entraide. Le groupe d'entraide me semble être mon point d'ancrage, tu sais?"
+    ll "C'est en partie pour ça que j'aime le groupe d'entraide. Le groupe d'entraide me semble être mon point d'ancrage, tu vois?"
 
 # game/code/Book-1/Chapter-7c/s08.rpy:75
 translate french b1c07cs08_3bb96a5a:
@@ -176,13 +176,13 @@ translate french b1c07cs08_a0ee87e9:
 translate french b1c07cs08_d074cfcc:
 
     # ll "I can see that, although I'm not sure I myself could do that."
-    ll "Je vois ça, bien que je ne sois pas sûre de pouvoir le faire moi-même."
+    ll "Je vois ça, bien que je ne sois pas sûre de vouvoir le faire moi-même."
 
 # game/code/Book-1/Chapter-7c/s08.rpy:98
 translate french b1c07cs08_b8b01170:
 
     # mct "Shit..."
-    mct "Merde..."
+    mct "Et Merde..."
 
 # game/code/Book-1/Chapter-7c/s08.rpy:100
 translate french b1c07cs08_f97ccabc:
@@ -194,7 +194,7 @@ translate french b1c07cs08_f97ccabc:
 translate french b1c07cs08_f229ce6d:
 
     # ll "I just feel that nothing lasts forever. So what happens if I leave or the group disbands someday? Then I'll have this weird tatt that means nothing."
-    ll "Je sens juste que rien ne dure éternellement. Alors, que se passe-t-il si je pars ou si le groupe se dissout un jour? Alors j'aurai ce tatouage étrange qui ne signifie rien."
+    ll "J'ai juste l'impression que rien n'est éternel. Alors, que se passe-t-il si je pars ou si le groupe se dissout un jour ? Ensuite, j'aurai ce tatouage bizarre qui ne veut plus rien dire."
 
 # game/code/Book-1/Chapter-7c/s08.rpy:104
 translate french b1c07cs08_acd2946d:
@@ -206,7 +206,7 @@ translate french b1c07cs08_acd2946d:
 translate french b1c07cs08_abbdcc2c:
 
     # mc "I mean, that's not true. About the tatt meaning nothing, I mean."
-    mc "Je veux dire, ce n'est pas vrai. Concernant le tatouage qui ne signifie rien, je veux dire."
+    mc "Ce n'est pas vrai. Je veux dire, concernant le tatouage qui ne signifie rien."
 
 # game/code/Book-1/Chapter-7c/s08.rpy:108
 translate french b1c07cs08_e4bc7310:
@@ -218,7 +218,7 @@ translate french b1c07cs08_e4bc7310:
 translate french b1c07cs08_15f4d23c:
 
     # ll "I guess I also don't see why I need a tattoo in order to prove my loyalty. Of course I care about the group! I wouldn't be here otherwise."
-    ll "Je suppose que je ne vois pas non plus pourquoi j'aurais besoin d'un tatouage pour prouver ma loyauté. Bien sûr que je me soucie du groupe! Je ne serais pas ici sinon."
+    ll "Je suppose que... mais je ne vois pas non plus pourquoi j'aurais besoin d'un tatouage pour prouver ma loyauté. Bien sûr que je me soucie du groupe! Je ne serais pas la sinon."
 
 # game/code/Book-1/Chapter-7c/s08.rpy:114
 translate french b1c07cs08_bcb93f69:
@@ -296,7 +296,7 @@ translate french b1c07cs08_4a0ae5e1:
 translate french b1c07cs08_ea952f70:
 
     # ll "Maybe it's wrong of me to feel like that, though? It feels like I'm turning away from my community."
-    ll "Peut-être que c'est mal de ma part de ressentir ça? J'ai l'impression de me détourner de ma communauté."
+    ll "Peut-être que c'est mal de ma part de ressentir ça? J'ai l'impression de me détourner de la communauté."
 
 # game/code/Book-1/Chapter-7c/s08.rpy:144
 translate french b1c07cs08_97fc83a0:
@@ -308,7 +308,7 @@ translate french b1c07cs08_97fc83a0:
 translate french b1c07cs08_16a11d38:
 
     # mct "Shit, I need to chill out. I just don't want her to feel like she needs to prioritize this group over herself."
-    mct "Merde, je dois me détendre. Je ne veux juste pas qu'elle se sente obligée de mettre ce groupe avant elle-même."
+    mct "Merde, je dois me détendre. Je ne veux pas qu'elle se sente obligée de mettre ce groupe avant elle-même."
 
 # game/code/Book-1/Chapter-7c/s08.rpy:147
 translate french b1c07cs08_de6df110:
@@ -320,25 +320,25 @@ translate french b1c07cs08_de6df110:
 translate french b1c07cs08_6b091b1a:
 
     # mc "*Clears throat* What I mean is that being friends {i}is{/i} embracing your community. Everyone takes their own time to work up to things like this. It's okay, Lumi."
-    mc "*Tousse* Ce que je veux dire, c'est que être amis {i}c'est{/i} embrasser ta communauté. Chacun prend son propre temps pour arriver à ce genre de choses. C'est okay, Lumi."
+    mc "*Tousse* Ce que je veux dire, c'est que être amis {i}c'est{/i} embrasser la communauté. Chacun prend son temps pour arriver à ce genre de choses. C'est okay, Lumi."
 
 # game/code/Book-1/Chapter-7c/s08.rpy:153
 translate french b1c07cs08_d15a2854:
 
     # ll "You're right. I'm overthinking again."
-    ll "Tu as raison. Je réfléchis trop encore une fois."
+    ll "Tu as raison. Je réfléchie trop encore une fois."
 
 # game/code/Book-1/Chapter-7c/s08.rpy:156
 translate french b1c07cs08_c7da9d14:
 
     # mc "Nah, you're just working through some things. It's alright."
-    mc "Non, tu es juste en train de traverser certaines choses. C'est bien."
+    mc "Non, tu es juste en train de régler certaines choses. C'est bon."
 
 # game/code/Book-1/Chapter-7c/s08.rpy:157
 translate french b1c07cs08_c060bb4d:
 
     # mct "This is such a messed up situation. She shouldn't have to do this if she doesn't want to."
-    mct "C'est une situation tellement perturbée. Elle ne devrait pas avoir à faire ça si elle n'en a pas envie."
+    mct "C'est une situation tellement perturbante. Elle ne devrait pas avoir à faire ça si elle n'en a pas envie."
 
 # game/code/Book-1/Chapter-7c/s08.rpy:159
 translate french b1c07cs08_7c79b76a:
@@ -392,7 +392,7 @@ translate french b1c07cs08_9d299574:
 translate french b1c07cs08_81726b0d:
 
     # mc "Nah, you're just fine. I enjoy talking with you, Lumi."
-    mc "Non, tu vas très bien. J'aime discuter avec toi, Lumi."
+    mc "Non, tout va bien. J'aime discuter avec toi, Lumi."
 
 # game/code/Book-1/Chapter-7c/s08.rpy:182
 translate french b1c07cs08_123c8f49:

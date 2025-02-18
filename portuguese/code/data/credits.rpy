@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2024-09-20 01:07
-
-translate portuguese strings:
+﻿translate portuguese strings:
 
     # game/code/data/credits.rpy:3
     old "A game by - {color=f4325f}ViNovella Games{/color}"

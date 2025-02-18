@@ -914,7 +914,7 @@ translate french b1c06cs04_end_1259de14:
 translate french b1c06cs04_end_33846876:
 
     # gd "You god-dang menace! Stay the hell away from my shop!"
-    gd "Sale menaces! Reste loin de ma boutique!"
+    gd "Espèce de putain! Reste loin de ma boutique!"
 
 # game/code/Book-1/Chapter-6c/s04.rpy:645
 translate french b1c06cs04_end_ee0dca86:

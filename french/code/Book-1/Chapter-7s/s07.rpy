@@ -176,7 +176,7 @@ translate french b1c07ss07_e5c79ae5:
 translate french b1c07ss07_d3dc2ae2:
 
     # fox "Let him in."
-    fox "Faites-le entrer."
+    fox "Fait-le entrer."
 
 # game/code/Book-1/Chapter-7s/s07.rpy:138
 translate french b1c07ss07_50f91c3b:
@@ -188,7 +188,7 @@ translate french b1c07ss07_50f91c3b:
 translate french b1c07ss07_ba96f3ae:
 
     # fox "I would've let you in regardless. We need more customers."
-    fox "Je t'aurais laissé entrer de toute façon. On a besoin de plus de clients."
+    fox "Je t'aurais laissée entrer de toute façon. On a besoin de plus de clients."
 
 # game/code/Book-1/Chapter-7s/s07.rpy:147
 translate french b1c07ss07_caaaf089:
@@ -452,19 +452,19 @@ translate french b1c07ss07_fight_2_97948629:
 translate french b1c07ss07_fight_2_dbaca076:
 
     # mct "Favors... Nirmala talked about favors too."
-    mct "Des services... Nirmala a aussi parlé de services."
+    mct "Des faveurs... Nirmala a aussi parlé de faveur."
 
 # game/code/Book-1/Chapter-7s/s07.rpy:343
 translate french b1c07ss07_fight_2_090c78ab:
 
     # mc "Favors?"
-    mc "Des services?"
+    mc "Des faveurs?"
 
 # game/code/Book-1/Chapter-7s/s07.rpy:345
 translate french b1c07ss07_fight_2_0b47b8f3:
 
     # ffl "If you don't have money, you can pay with favors. Favors are just..."
-    ffl "Si tu n'as pas d'argent, tu peux payer avec des services. Les services, c'est juste..."
+    ffl "Si tu n'as pas d'argent, tu peux payer avec des faveurs. Les faveurs, c'est juste..."
 
 # game/code/Book-1/Chapter-7s/s07.rpy:348
 translate french b1c07ss07_fight_2_8e1f0e1f:
@@ -494,7 +494,7 @@ translate french b1c07ss07_fight_2_6449df1b:
 translate french b1c07ss07_fight_2_8dbf20cb:
 
     # mct "Wait, Nirmala said something about favors. She must be performing favors to pay off her debt from betting."
-    mct "Attends, Nirmala a dit quelque chose à propos de services. Elle doit rendre des services pour rembourser sa dette de paris."
+    mct "Attends, Nirmala a dit quelque chose à propos de faveurs. Elle doit rendre des services pour rembourser sa dette de paris."
 
 # game/code/Book-1/Chapter-7s/s07.rpy:370
 translate french b1c07ss07_fight_2_98969614:
@@ -506,7 +506,7 @@ translate french b1c07ss07_fight_2_98969614:
 translate french b1c07ss07_fight_2_f0d2abbc:
 
     # "The crowd continues to roar as Morgan and Calamity fight. You hear the word 'favor' passed around as people place bets."
-    "La foule continue de rugir pendant que Morgan et Calamity se battent. Tu entends le mot 'service' circuler pendant que les gens font des paris."
+    "La foule continue de rugir pendant que Morgan et Calamity se battent. Tu entends le mot 'faveur' circuler pendant que les gens font des paris."
 
 # game/code/Book-1/Chapter-7s/s07.rpy:376
 translate french b1c07ss07_fight_2_62b85169:
@@ -560,13 +560,13 @@ translate french b1c07ss07_fight_2_811887c9:
 translate french b1c07ss07_fight_2_742e676c:
 
     # ffl "Just like, my family, I guess. More of a found family than a blood family, but y'know."
-    ffl "Comme, ma famille, je suppose. Plutôt une famille choisie qu'une famille de sang, mais tu vois."
+    ffl "Comme, une famille, je pense. Plutôt une famille choisie qu'une famille de sang, mais tu vois ce que je veux dire."
 
 # game/code/Book-1/Chapter-7s/s07.rpy:425
 translate french b1c07ss07_fight_2_fc3e79ec:
 
     # ffl "Anyways, watch the show!"
-    ffl "Bref, regarde le spectacle!"
+    ffl "Bref, regardons le spectacle!"
 
 # game/code/Book-1/Chapter-7s/s07.rpy:429
 translate french b1c07ss07_fight_2_dca2c357:
@@ -620,7 +620,7 @@ translate french b1c07ss07_fight_2_bc79585f:
 translate french b1c07ss07_fight_2_9f8e1a36:
 
     # ass "FUCK YEAH MAD DOG, LET'S GO!"
-    ass "PUTAIN OUAIS MAD DOG, ON Y VA!"
+    ass "PUTAIN OUAIS MAD DOG, VAS-Y!"
 
 # game/code/Book-1/Chapter-7s/s07.rpy:471
 translate french b1c07ss07_fight_2_d667a860:
@@ -638,13 +638,13 @@ translate french b1c07ss07_fight_2_3ad2eeae:
 translate french b1c07ss07_fight_2_7f14f7f8:
 
     # "Morgan's faster, and her fists lands on Calamity Carnage's face before Calamity can land his blow."
-    "Morgan est plus rapide, et ses poings atteignent le visage de Calamity Carnage avant que Calamity ne puisse frapper."
+    "Morgan est plus rapide, et ses poings atteignent le visage de Calamity Carnage avant que Calamity ne puisse la frapper."
 
 # game/code/Book-1/Chapter-7s/s07.rpy:482
 translate french b1c07ss07_fight_2_e4aed552:
 
     # "Beside you, Asami loses her mind with excitement."
-    "À côté de toi, Asami perd son calme d'excitation."
+    "A côté de toi, Asami perd la tête d'excitation."
 
 # game/code/Book-1/Chapter-7s/s07.rpy:484
 translate french b1c07ss07_fight_2_52567b68:
@@ -686,7 +686,7 @@ translate french b1c07ss07_fight_2_db45bf1f:
 translate french b1c07ss07_fight_2_613036fd:
 
     # ass "If the subject is willing. That okay with you, [mcname]?"
-    ass "Si le sujet est d'accord. Ça te va, [mcname]?"
+    ass "Si la monture est d'accord. Ça te va, [mcname]?"
 
 # game/code/Book-1/Chapter-7s/s07.rpy:507
 translate french b1c07ss07_fight_2_20ce3d3b:
@@ -716,13 +716,13 @@ translate french b1c07ss07_fight_2_33f80073:
 translate french b1c07ss07_fight_2_dbd12caf:
 
     # ffl "Oh, so then should I crawl on top as well?"
-    ffl "Oh, alors je devrais ramper sur toi aussi?"
+    ffl "Oh, alors devrais-je aussi te ramper dessus?"
 
 # game/code/Book-1/Chapter-7s/s07.rpy:523
 translate french b1c07ss07_fight_2_823911c1:
 
     # mc "I dare you."
-    mc "Je te défie."
+    mc "Je te met au défi."
 
 # game/code/Book-1/Chapter-7s/s07.rpy:525
 translate french b1c07ss07_fight_2_a0f4f575:
@@ -734,19 +734,19 @@ translate french b1c07ss07_fight_2_a0f4f575:
 translate french b1c07ss07_fight_2_e9642077:
 
     # "Back in the ring, Morgan doubles down on Calamity. She has him trapped against the wall."
-    "De retour dans le ring, Morgan redouble d'efforts contre Calamity. Elle l'a piégé contre le mur."
+    "De retour dans le ring, Morgan redouble d'efforts contre Calamity. Elle l'a piégé contre la cage."
 
 # game/code/Book-1/Chapter-7s/s07.rpy:538
 translate french b1c07ss07_fight_2_cbca79d6:
 
     # "Calamity's earlier eagerness has bled away into pure exhaustion. The few weak hits he throws at Morgan merely bounce off."
-    "L'enthousiasme de Calamity a laissé place à une pure épuisement. Les quelques coups faibles qu'il lance sur Morgan ne font que rebondir."
+    "L'enthousiasme de Calamity a laissé place à un état d'épuisement. Les quelques coups faibles qu'il lance sur Morgan ne font que rebondir."
 
 # game/code/Book-1/Chapter-7s/s07.rpy:544
 translate french b1c07ss07_fight_2_91b45acd:
 
     # "Morgan slams Calamity's head into the fight ring chain link repeatedly and unapologetically."
-    "Morgan frappe la tête de Calamity contre les maillons de la clôture du ring de manière répétée et sans pardon."
+    "Morgan claque la tête de Calamity contre le maillon de la chaîne de la cage de combat à plusieurs reprises et sans aucune pitié."
 
 # game/code/Book-1/Chapter-7s/s07.rpy:547
 translate french b1c07ss07_fight_2_249ba013:
@@ -776,19 +776,19 @@ translate french b1c07ss07_fight_end_62c7dfcb:
 translate french b1c07ss07_fight_end_03f92c12:
 
     # mc "Guess so."
-    mc "Je suppose."
+    mc "Je pense oui."
 
 # game/code/Book-1/Chapter-7s/s07.rpy:574
 translate french b1c07ss07_fight_end_43d90e38:
 
     # "The crowd screams with approval for Morgan's win."
-    "La foule hurle d'approbation pour la victoire de Morgan."
+    "La foule hurle d'excitation pour la victoire de Morgan."
 
 # game/code/Book-1/Chapter-7s/s07.rpy:577
 translate french b1c07ss07_fight_end_a35ca50b:
 
     # "Foxy helps Calamity to the fight ring entrance while the crowd chants Mad Dog's name."
-    "Foxy aide Calamity à l'entrée du ring de combat pendant que la foule crie le nom de Mad Dog."
+    "Foxy aide Calamity à l'entrée de la cage de combat pendant que la foule crie le nom de Mad Dog."
 
 # game/code/Book-1/Chapter-7s/s07.rpy:578
 translate french b1c07ss07_fight_end_514cbc08:
@@ -878,7 +878,7 @@ translate french b1c07ss07_fight_end_a3f62540:
 translate french b1c07ss07_fight_end_b185bc8e:
 
     # ass "Of course."
-    ass "Bien sûr."
+    ass "très bien."
 
 # game/code/Book-1/Chapter-7s/s07.rpy:637
 translate french b1c07ss07_fight_end_e5e21432:
@@ -920,19 +920,19 @@ translate french b1c07ss07_fight_end_20613d6c:
 translate french b1c07ss07_fight_end_85d020fd:
 
     # ffl "Aw, I'm glad you liked it."
-    ffl "Aw, je suis contente que ça t'ait plu."
+    ffl "Aw, je suis contente que ça t'ais plu."
 
 # game/code/Book-1/Chapter-7s/s07.rpy:661
 translate french b1c07ss07_fight_end_f268f779:
 
     # mc "Morgan was incredible. I was impressed by her strength."
-    mc "Morgan était incroyable. J'ai été impressionné par sa force."
+    mc "Morgan était incroyable. Je suis impressionné par sa force."
 
 # game/code/Book-1/Chapter-7s/s07.rpy:662
 translate french b1c07ss07_fight_end_c1f00e27:
 
     # ffl "Oh yeah. Morgan's great. She's a crowd favorite."
-    ffl "Oh ouais. Morgan est géniale. C'est la chérie de la foule."
+    ffl "Oh ouais. Morgan est géniale. C'est la favorite de la foule."
 
 # game/code/Book-1/Chapter-7s/s07.rpy:668
 translate french b1c07ss07_fight_end_248c1e94:
@@ -956,7 +956,7 @@ translate french b1c07ss07_fight_end_ca97e26f:
 translate french b1c07ss07_fight_end_598a1100:
 
     # qh "Hey girliepop, there's something up with the servers."
-    qh "Hé girliepop, il y a un problème avec les serveurs."
+    qh "Hé girlie-pop, il y a un problème avec les serveurs."
 
 # game/code/Book-1/Chapter-7s/s07.rpy:683
 translate french b1c07ss07_fight_end_7246bf3b:
@@ -1010,7 +1010,7 @@ translate french b1c07ss07_fight_end_b8ce5867:
 translate french b1c07ss07_fight_end_2c44dcdf:
 
     # qh "You bet, sugar tits. Until then, I'm sure you'll find {i}something{/i} to do around here, eh?"
-    qh "Tu paries, chérie. D'ici là, je suis sûr que tu trouveras {i}quelque chose{/i} à faire ici, hein?"
+    qh "Tu parles, chérie. D'ici là, je suis sûr que tu trouveras {i}quelque chose{/i} à faire ici, hein?"
 
 # game/code/Book-1/Chapter-7s/s07.rpy:705
 translate french b1c07ss07_fight_end_13d8a60e:
@@ -1022,7 +1022,7 @@ translate french b1c07ss07_fight_end_13d8a60e:
 translate french b1c07ss07_fight_end_775b99c5:
 
     # ffl "You two are a collective menace."
-    ffl "Vous deux êtes une menace collective."
+    ffl "Vous deux! vous êtes une menace collective."
 
 # game/code/Book-1/Chapter-7s/s07.rpy:710
 translate french b1c07ss07_fight_end_35f72cf0:
@@ -1048,5 +1048,5 @@ translate french strings:
 
     # game/code/Book-1/Chapter-7s/s07.rpy:649
     old "That was...a lot."
-    new "C'était... beaucoup."
+    new "C'était... beaucoup trop."
 

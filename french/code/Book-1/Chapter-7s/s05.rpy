@@ -50,7 +50,7 @@ translate french b1c07ss05_1af93950:
 translate french b1c07ss05_670b14f0:
 
     # sp "You don't wanna scare this precious little cutie away now, do you?"
-    sp "Tu ne veux pas effrayer cette adorable petite mignonne, hein?"
+    sp "Tu ne veux pas effrayer cette adorable petite chose, hein?"
 
 # game/code/Book-1/Chapter-7s/s05.rpy:68
 translate french b1c07ss05_63d52776:
@@ -80,7 +80,7 @@ translate french b1c07ss05_b449a5d4:
 translate french b1c07ss05_ac889233:
 
     # sp "I like you. You're fun."
-    sp "J'aime bien toi. Tu es amusant."
+    sp "Je t'aime bien toi. Tu es amusant."
 
 # game/code/Book-1/Chapter-7s/s05.rpy:89
 translate french b1c07ss05_f3bd3ced:
@@ -134,7 +134,7 @@ translate french b1c07ss05_21d74b92:
 translate french b1c07ss05_b24f613c:
 
     # zp "Sorry. I can only update it when someone comes forward."
-    zp "Désolé. Je ne peux le mettre à jour que quand quelqu'un se manifestera."
+    zp "Désolé. Je ne pourrai le mettre à jour que quand quelqu'un se manifestera."
 
 # game/code/Book-1/Chapter-7s/s05.rpy:123
 translate french b1c07ss05_80b7df92:
@@ -158,7 +158,7 @@ translate french b1c07ss05_d5bf2254:
 translate french b1c07ss05_a2d4e7cf:
 
     # mc "Sure thing! Today was fun. Can't wait till next time."
-    mc "Bien sûr! Aujourd'hui était fun. J'ai hâte à la prochaine fois."
+    mc "Bien sûr! Aujourd'hui était fun. J'ai hâte d'être à la prochaine fois."
 
 # game/code/Book-1/Chapter-7s/s05.rpy:141
 translate french b1c07ss05_025b7672:
@@ -254,7 +254,7 @@ translate french b1c07ss05_37ac8a02:
 translate french b1c07ss05_38be7f6c:
 
     # nr "Save me the excuses."
-    nr "Épargne-moi les excuses."
+    nr "Épargne-moi tes excuses."
 
 # game/code/Book-1/Chapter-7s/s05.rpy:190
 translate french b1c07ss05_a586cac0:
@@ -284,7 +284,7 @@ translate french b1c07ss05_bea30332:
 translate french b1c07ss05_41400c7c:
 
     # qh "Of course, sugar."
-    qh "Bien sûr, sucre."
+    qh "Bien sûr, mon sucre."
 
 # game/code/Book-1/Chapter-7s/s05.rpy:210
 translate french b1c07ss05_8b112361:
@@ -320,13 +320,13 @@ translate french b1c07ss05_2b666dd6:
 translate french b1c07ss05_55b396c4:
 
     # sp "We like to play games together."
-    sp "On aime jouer à des jeux ensemble."
+    sp "Nous aimons jouer à des jeux ensemble."
 
 # game/code/Book-1/Chapter-7s/s05.rpy:231
 translate french b1c07ss05_c2a3cb20:
 
     # qh "It's true. Sabrina introduced me to the games."
-    qh "C'est vrai. Sabrina m'a présenté les jeux."
+    qh "C'est vrai. Sabrina m'a fait découvrir les jeux."
 
 # game/code/Book-1/Chapter-7s/s05.rpy:234
 translate french b1c07ss05_2609ab08:
@@ -344,13 +344,13 @@ translate french b1c07ss05_2048ec8c:
 translate french b1c07ss05_218a9659:
 
     # sp "*snickers* It's very {i}grinding{/i} work indeed."
-    sp "*rire étouffé* C'est vraiment un travail {i}harassant{/i} en effet."
+    sp "*rire étouffé* C'est vraiment un travail {i}abrasif{/i} en effet."
 
 # game/code/Book-1/Chapter-7s/s05.rpy:243
 translate french b1c07ss05_58f700fa:
 
     # nr "You two sluts could never stay outta trouble without me."
-    nr "Vous deux salopes ne pourriez jamais éviter les ennuis sans moi."
+    nr "Vous deux bande de salopesn ne pourriez jamais éviter les ennuis sans moi."
 
 # game/code/Book-1/Chapter-7s/s05.rpy:246
 translate french b1c07ss05_b73bcc2b:
@@ -374,7 +374,7 @@ translate french b1c07ss05_f992373b:
 translate french b1c07ss05_578eecb5:
 
     # nr "*laughs* Part of the reason I drag them to this bar instead of Guns n' Rosette is to keep them out of trouble!"
-    nr "*rire* Une des raisons pour lesquelles je les traîne dans ce bar au lieu de Guns n' Rosette, c'est pour les empêcher de faire des bêtises!"
+    nr "*rire* Une des raisons pour lesquelles je les traînent dans ce bar au lieu de Guns n' Rosette, c'est pour les empêcher de faire des bêtises!"
 
 # game/code/Book-1/Chapter-7s/s05.rpy:258
 translate french b1c07ss05_38ca9b03:
@@ -404,7 +404,7 @@ translate french b1c07ss05_681dbb2d:
 translate french b1c07ss05_3b91a329:
 
     # nr "You two wouldn't've survived without me."
-    nr "Vous deux n'auriez pas survécu sans moi."
+    nr "Vous n'auriez pas survécu sans moi."
 
 # game/code/Book-1/Chapter-7s/s05.rpy:276
 translate french b1c07ss05_539a8100:
@@ -440,13 +440,13 @@ translate french b1c07ss05_054c5ee0:
 translate french b1c07ss05_c824837e:
 
     # sp "I got involved in a game of sorts, and invited Q to join. Now we play together."
-    sp "Je me suis impliquée dans un genre de jeu, et j'ai invité Q à rejoindre. Maintenant, on joue ensemble."
+    sp "Je me suis impliquée dans un genre de jeu, et j'ai invité Q à rejoindre. Maintenant, nous jouons ensemble."
 
 # game/code/Book-1/Chapter-7s/s05.rpy:289
 translate french b1c07ss05_80289296:
 
     # qh "You got me hooked on this shitty game, alright."
-    qh "Tu m'as accrochée à ce jeu pourri, d'accord."
+    qh "Tu m'as rendu accro à ce jeu de merde, d'accord."
 
 # game/code/Book-1/Chapter-7s/s05.rpy:292
 translate french b1c07ss05_24da4761:
@@ -458,7 +458,7 @@ translate french b1c07ss05_24da4761:
 translate french b1c07ss05_02fbd905:
 
     # mct "Who's this? Q seems on edge."
-    mct "C'est qui ça? Q semble nerveuse."
+    mct "C'est qui ça? Q semble nerveux."
 
 # game/code/Book-1/Chapter-7s/s05.rpy:308
 translate french b1c07ss05_e35ecc6e:
@@ -500,7 +500,7 @@ translate french b1c07ss05_00785fc3:
 translate french b1c07ss05_f8465660:
 
     # cjh "Don't cause a scene, Sabrina. I'm tryna be {i}nice{/i}, here."
-    cjh "Ne fais pas de scène, Sabrina. J'essaie d'être {i}gentil{/i}, ici."
+    cjh "Ne fais pas de scène, Sabrina. J'essaie d'être {i}gentil{/i}, avec toi."
 
 # game/code/Book-1/Chapter-7s/s05.rpy:333
 translate french b1c07ss05_c741bd9e:
@@ -518,7 +518,7 @@ translate french b1c07ss05_b88bc29b:
 translate french b1c07ss05_e3d4970f:
 
     # cjh "How much does a guy gotta pay to get your {i}services{/i} anyway?"
-    cjh "Combien un gars doit payer pour avoir tes {i}services{/i}, de toute façon?"
+    cjh "De toute façon, combien un homme doit-il payer pour obtenir tes {i}services{/i} ??"
 
 # game/code/Book-1/Chapter-7s/s05.rpy:340
 translate french b1c07ss05_cd18f96a:
@@ -542,7 +542,7 @@ translate french b1c07ss05_11647c44:
 translate french b1c07ss05_2b7f4715:
 
     # sp "I am not gonna let you talk shit about my best friend!"
-    sp "Je vais pas te laisser dire des conneries sur ma meilleure amie!"
+    sp "Je vais pas te laisser dire des conneries sur mon meilleure ami!"
 
 # game/code/Book-1/Chapter-7s/s05.rpy:349
 translate french b1c07ss05_f1baa1c3:
@@ -590,13 +590,13 @@ translate french b1c07ss05_d685edb2:
 translate french b1c07ss05_aa25bb5c:
 
     # cjh "Who the fuck are you?"
-    cjh "C'est qui, toi?"
+    cjh "Putain, t'es qui toi?"
 
 # game/code/Book-1/Chapter-7s/s05.rpy:379
 translate french b1c07ss05_82b5eb0d:
 
     # cjh "You tryna replace me already, whore?"
-    cjh "Tu essaies de me remplacer déjà, salope?"
+    cjh "Tu essaies déjà de me remplacer, salope?"
 
 # game/code/Book-1/Chapter-7s/s05.rpy:382
 translate french b1c07ss05_7c27ca08:
@@ -632,7 +632,7 @@ translate french b1c07ss05_3f015ca4:
 translate french b1c07ss05_887b7d23:
 
     # sp "Get your fucking hands off him!"
-    sp "Fichez-lui la paix, espèce de connard!"
+    sp "Fou-lui la paix, espèce de connard!"
 
 # game/code/Book-1/Chapter-7s/s05.rpy:401
 translate french b1c07ss05_c635c30e:
@@ -650,7 +650,7 @@ translate french b1c07ss05_ae266652:
 translate french b1c07ss05_b8616054:
 
     # mc "Give that back."
-    mc "Rends ça."
+    mc "Rend-moi ça."
 
 # game/code/Book-1/Chapter-7s/s05.rpy:426
 translate french b1c07ss05_bcc4aaf6:
@@ -662,7 +662,7 @@ translate french b1c07ss05_bcc4aaf6:
 translate french b1c07ss05_3e315917:
 
     # mc "Don't give a shit if you do or don't. Give. It. Back."
-    mc "Je m'en fous que tu saches ou non. Rends. Ça."
+    mc "Je m'en fous que tu saches ou non. Rend-moi Ça."
 
 # game/code/Book-1/Chapter-7s/s05.rpy:432
 translate french b1c07ss05_7048a95b:
@@ -734,13 +734,13 @@ translate french b1c07ss05_0b15d407:
 translate french b1c07ss05_e47f245d:
 
     # sp "I can't believe you were ready to shank a bitch."
-    sp "Je n'arrive pas à croire que tu étais prêt à poignarder une salope."
+    sp "Je n'arrive pas à croire que tu étais prêt à poignarder cette salope."
 
 # game/code/Book-1/Chapter-7s/s05.rpy:472
 translate french b1c07ss05_f34dda71:
 
     # qh "Anything for you, sweetheart. Besides, that asshole had it coming."
-    qh "Tout pour toi, ma chérie. En plus, ce connard l'avait bien cherché."
+    qh "J ferai tout pour toi, ma chérie. En plus, ce connard l'avait bien cherché."
 
 # game/code/Book-1/Chapter-7s/s05.rpy:475
 translate french b1c07ss05_5d6823f4:
@@ -752,7 +752,7 @@ translate french b1c07ss05_5d6823f4:
 translate french b1c07ss05_228a328d:
 
     # mc "Please, don't thank me. You're all too kind. I just didn't want to see anyone get hurt."
-    mc "S'il vous plaît, ne me remerciez pas. Vous êtes tous trop gentils. Je ne voulais juste pas voir quelqu'un se blesser."
+    mc "S'il vous plaît, ne me remerciez pas. Vous êtes tous trop gentils. Je ne voulais juste pas voir quelqu'un se faire blesser."
 
 # game/code/Book-1/Chapter-7s/s05.rpy:481
 translate french b1c07ss05_3c9b55e5:
@@ -770,7 +770,7 @@ translate french b1c07ss05_6d8dbab2:
 translate french b1c07ss05_6127794f:
 
     # mc "Actually, I can't. I've gotta be somewhere."
-    mc "En fait, je ne peux pas. Je dois être quelque part."
+    mc "En fait, je ne peux pas. Je dois allé quelque part."
 
 # game/code/Book-1/Chapter-7s/s05.rpy:488
 translate french b1c07ss05_32ad4105:
@@ -788,13 +788,13 @@ translate french b1c07ss05_6677cdd3:
 translate french b1c07ss05_3efe6e5e:
 
     # sp "That's what makes it so fun!"
-    sp "C'est ce qui rend ça si amusant!"
+    sp "C'est ce qui rend la chose si amusante!"
 
 # game/code/Book-1/Chapter-7s/s05.rpy:497
 translate french b1c07ss05_a48d5d61:
 
     # sp "But anyways, we understand."
-    sp "Mais bon, on comprend."
+    sp "Mais bon, ont comprend."
 
 # game/code/Book-1/Chapter-7s/s05.rpy:500
 translate french b1c07ss05_938a45db:
@@ -836,7 +836,7 @@ translate french b1c07ss05_be5a0e03:
 translate french b1c07ss05_d6f6aee0:
 
     # qh "Hope to see ya around, [mcname]."
-    qh "J'espère te voir par ici, [mcname]."
+    qh "J'espère te revoir par ici, [mcname]."
 
 # game/code/Book-1/Chapter-7s/s05.rpy:521
 translate french b1c07ss05_271f3926:

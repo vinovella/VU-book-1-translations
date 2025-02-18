@@ -26,13 +26,13 @@ translate french b1c08ws06_845eb9f1:
 translate french b1c08ws06_5ac19d23:
 
     # ba "Why did you bring {i}him{/i} here? I told you—"
-    ba "Pourquoi tu as amené {i}lui{/i} ici? Je t'avais dit—"
+    ba "Pourquoi tu {i}l'as{/i} amené ici? Je t'avais dit—"
 
 # game/code/Book-1/Chapter-8w/s06.rpy:24
 translate french b1c08ws06_3578c1a5:
 
     # ir "He's part of the team, Brig. Deal with it."
-    ir "Il fait partie de l'équipe, Brig. Accepte-le."
+    ir "Il fait partis de l'équipe, Brig. Accepte-le."
 
 # game/code/Book-1/Chapter-8w/s06.rpy:25
 translate french b1c08ws06_53ce1d55:
@@ -80,7 +80,7 @@ translate french b1c08ws06_85c29601:
 translate french b1c08ws06_5604bc01:
 
     # mm "Oh please, not this again. We're The Winners. We'll do what it takes to win no matter what. We always have."
-    mm "Oh, pitié, pas encore ça. Nous sommes The Winners. On fera ce qu'il faut pour gagner, peu importe quoi. On l'a toujours fait."
+    mm "Oh, pitié, pas encore ça. Nous sommes Les Winners. On fera ce qu'il faut pour gagner, peu importe quoi. On l'a toujours fait."
 
 # game/code/Book-1/Chapter-8w/s06.rpy:44
 translate french b1c08ws06_e5c39a9a:
@@ -194,7 +194,7 @@ translate french b1c08ws06_1df02881:
 translate french b1c08ws06_2de5daed:
 
     # mc "We're good. We're really fucking good."
-    mc "On est bons. Vraiment foutrement bons."
+    mc "On est bons. Vraiment, foutrement bons."
 
 # game/code/Book-1/Chapter-8w/s06.rpy:96
 translate french b1c08ws06_020da4c9:
@@ -212,7 +212,7 @@ translate french b1c08ws06_d5b4ae71:
 translate french b1c08ws06_39de4ee5:
 
     # ba "Because good isn't enough. We fight using everything we got and make sure that nobody can rival us. And we'll use whatever it fucking takes to do that."
-    ba "Parce que 'bon' ne suffit pas. On se bat en utilisant tout ce qu'on a et on s'assure que personne ne puisse nous rivaliser. Et on utilisera tout ce qu'il faut pour ça."
+    ba "Parce que être 'bon' ne suffit pas. On se bat en utilisant tout ce qu'on a et on s'assure que personne ne puisse nous rivaliser. Et on utilisera tout ce qu'il faut pour ça."
 
 # game/code/Book-1/Chapter-8w/s06.rpy:106
 translate french b1c08ws06_8793a55d:
@@ -260,7 +260,7 @@ translate french b1c08ws06_76740013:
 translate french b1c08ws06_f64b5bda:
 
     # ir "Let's get this over with."
-    ir "Terminons-en."
+    ir "Finissons-en."
 
 # game/code/Book-1/Chapter-8w/s06.rpy:137
 translate french b1c08ws06_08e0644c:
@@ -308,7 +308,7 @@ translate french b1c08ws06_6258cfe9:
 translate french b1c08ws06_1529c8d3:
 
     # sl "Ugh, that always stings like a bitch."
-    sl "Ugh, ça pique toujours comme un putain de truc."
+    sl "Ugh, ça pique toujours comme une pute ce truc."
 
 # game/code/Book-1/Chapter-8w/s06.rpy:177
 translate french b1c08ws06_67094f8e:

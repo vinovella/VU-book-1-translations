@@ -98,13 +98,13 @@ translate french b1c07ss12_0d204ebd:
 translate french b1c07ss12_407020e4:
 
     # cb "To do that, you'll need to get into fighting."
-    cb "Pour ça, tu devras te mettre à te battre."
+    cb "Pour ça, tu devras te battre."
 
 # game/code/Book-1/Chapter-7s/s12.rpy:97
 translate french b1c07ss12_9764ebf0:
 
     # mc "Fighting? Like, illegally?"
-    mc "Te battre? Genre, illégalement?"
+    mc "Me battre? Genre, illégalement?"
 
 # game/code/Book-1/Chapter-7s/s12.rpy:100
 translate french b1c07ss12_5cf435c7:
@@ -116,7 +116,7 @@ translate french b1c07ss12_5cf435c7:
 translate french b1c07ss12_92ec2cd0:
 
     # cb "You'll need a way to rapidly build street cred. You can do that by proving yourself."
-    cb "Tu auras besoin d'un moyen de te faire une réputation rapidement. Tu peux le faire en prouvant ce que tu vaux."
+    cb "Tu auras besoin d'un moyen pour te faire une réputation rapidement. Tu peux le faire en prouvant ce que tu vaux."
 
 # game/code/Book-1/Chapter-7s/s12.rpy:103
 translate french b1c07ss12_f0852429:
@@ -134,13 +134,13 @@ translate french b1c07ss12_962636ff:
 translate french b1c07ss12_686179cb:
 
     # cb "It's called The Syndicate."
-    cb "Ça s'appelle le Syndicat."
+    cb "Ça s'appelle The Syndicate."
 
 # game/code/Book-1/Chapter-7s/s12.rpy:112
 translate french b1c07ss12_12037366:
 
     # cb "Xasan and Leia are the main ones who track people's accounts—who has debt and who doesn't."
-    cb "Xasan et Leia sont les principaux responsables du suivi des comptes des gens—qui a des dettes et qui n'en a pas."
+    cb "Xasan et Leia sont les principaux responsables du suivi des comptes des gens—qui ont des dettes et qui n'en ont pas."
 
 # game/code/Book-1/Chapter-7s/s12.rpy:117
 translate french b1c07ss12_e52a0231:
@@ -158,7 +158,7 @@ translate french b1c07ss12_e41080de:
 translate french b1c07ss12_61a780e9:
 
     # mc "Leia isn't...she hasn't been with the Syndicate for a while. She's missing."
-    mc "Leia n'est pas... elle n'est plus avec le Syndicat depuis un moment. Elle est disparue."
+    mc "Leia n'est pas... elle n'est plus avec the Syndicate depuis un moment. Elle est disparue."
 
 # game/code/Book-1/Chapter-7s/s12.rpy:126
 translate french b1c07ss12_b296e66a:
@@ -206,13 +206,13 @@ translate french b1c07ss12_cbb47d30:
 translate french b1c07ss12_a9a48de9:
 
     # cb "So, about getting into the Syndicate. As I said, you'll need to talk to Xasan or whoever else is handling the accounts right now."
-    cb "Alors, pour entrer dans le Syndicat. Comme je l'ai dit, tu devras parler à Xasan ou à toute autre personne qui gère les comptes en ce moment."
+    cb "Alors, pour entrer dans le Syndicat. Comme je l'ai dit, tu devras parler à Xasan ou à toutes autres personnes qui gère les comptes en ce moment."
 
 # game/code/Book-1/Chapter-7s/s12.rpy:146
 translate french b1c07ss12_1a95f982:
 
     # cb "You might need to finesse your way into it, but if you're willing, and a good fighter, they should let you in."
-    cb "Tu devras peut-être ruser pour y entrer, mais si tu es prêt, et un bon combattant, ils devraient t'accepter."
+    cb "Tu devras peut-être ruser pour y entrer, mais si tu es prêt, et que tu es un bon combattant, ils devraient t'accepter."
 
 # game/code/Book-1/Chapter-7s/s12.rpy:149
 translate french b1c07ss12_6c57c1f4:
@@ -368,7 +368,7 @@ translate french b1c07ss12_past_11e773c1:
 translate french b1c07ss12_past_e47b1c91:
 
     # cb "I didn't fight back."
-    cb "Je ne me suis pas défendu."
+    cb "Je ne me suis pas défendue."
 
 # game/code/Book-1/Chapter-7s/s12.rpy:291
 translate french b1c07ss12_past_d5d85c81:
@@ -380,7 +380,7 @@ translate french b1c07ss12_past_d5d85c81:
 translate french b1c07ss12_past_e6b385a5:
 
     # cb "I just didn't foresee that my mistakes would end up pitting us against each other."
-    cb "Je n'avais pas prévu que mes erreurs finiraient par nous opposer l'une à l'autre."
+    cb "Je n'avais pas prévu que mes erreurs finiraient par les opposer l'une à l'autre."
 
 # game/code/Book-1/Chapter-7s/s12.rpy:313
 translate french b1c07ss12_past_af95f5a7:
@@ -506,13 +506,13 @@ translate french b1c07ss12_present_a555e765:
 translate french b1c07ss12_present_5f25116b:
 
     # "Cori spits out a paperclip from underneath her tongue and begins to pick her own cuff lock."
-    "Cori recrache un trombone de sous sa langue et commence à crocheter sa propre serrure de menottes."
+    "Cori recrache un trombone de sous sa langue et commence à crocheter la serrure de menottes."
 
 # game/code/Book-1/Chapter-7s/s12.rpy:437
 translate french b1c07ss12_present_4bc32cc9:
 
     # "You remain relaxed, sensing that a reaction is what Cori is looking for."
-    "Tu restes détendu, sentant qu'une réaction est ce que Cori cherche."
+    "Tu restes détendu, sentant qu'une réaction est ce que Cori recherche."
 
 # game/code/Book-1/Chapter-7s/s12.rpy:441
 translate french b1c07ss12_present_52d4a7f6:
@@ -680,7 +680,7 @@ translate french b1c07ss12_sex_4c6d0054:
 translate french b1c07ss12_sex_5f78c36a:
 
     # cb "I like it rough. Have your way with me."
-    cb "J'aime ça brutal. Fais ce que tu veux de moi."
+    cb "J'aime quand c'est brutal. Fais ce que tu veux de moi."
 
 # game/code/Book-1/Chapter-7s/s12.rpy:577
 translate french b1c07ss12_sex_8aa064ef:
@@ -722,7 +722,7 @@ translate french b1c07ss12_sex_be50b27a:
 translate french b1c07ss12_sex_6d901119:
 
     # "Cori closes her eyes in pleasure. You feel another wave of wetness flow over your cock."
-    "Cori ferme les yeux de plaisir. Tu sens une autre vague de mouillage couler sur ta verge."
+    "Cori ferme les yeux de plaisir. Tu sens une autre vague de mouille couler sur ta queue."
 
 # game/code/Book-1/Chapter-7s/s12.rpy:623
 translate french b1c07ss12_sex_5a373256:
@@ -764,7 +764,7 @@ translate french b1c07ss12_sex_47474409:
 translate french b1c07ss12_sex_5734ce8d:
 
     # "Cori's pussy twitches and convulses around you."
-    "Le sexe de Cori tressaillit et convulse autour de toi."
+    "Le sexe de Cori tressaillit et convulse autour de ta bite."
 
 # game/code/Book-1/Chapter-7s/s12.rpy:666
 translate french b1c07ss12_sex_58544374:
@@ -788,13 +788,13 @@ translate french b1c07ss12_sex_3bb6a1b4:
 translate french b1c07ss12_sex_b6c22b3f:
 
     # "An intense, hot wave of Corinne's wetness floods your cock."
-    "Une vague intense et brûlante de mouillage de Corinne inonde ta verge."
+    "Une vague intense et brûlante de mouille de Corinne inonde ta verge."
 
 # game/code/Book-1/Chapter-7s/s12.rpy:683
 translate french b1c07ss12_sex_f592e0aa:
 
     # "She does her best to keep quiet, but you have to put your hand over her mouth to quiet her down."
-    "Elle fait de son mieux pour rester silencieuse, mais tu dois mettre ta main sur sa bouche pour la calmer."
+    "Elle fait de son mieux pour rester silencieuse, mais tu dois mettre ta main sur sa bouche pour la faire taire."
 
 # game/code/Book-1/Chapter-7s/s12.rpy:691
 translate french b1c07ss12_sex_6d3343ea:
@@ -842,7 +842,7 @@ translate french b1c07ss12_sex_2a7505ab:
 translate french b1c07ss12_sex_34408c40:
 
     # cb "That's exactly what I needed. God damn."
-    cb "C'était exactement ce dont j'avais besoin. Bon sang."
+    cb "C'était exactement ce dont j'avais besoin. Bordel."
 
 # game/code/Book-1/Chapter-7s/s12.rpy:776
 translate french b1c07ss12_sex_4d789a26:

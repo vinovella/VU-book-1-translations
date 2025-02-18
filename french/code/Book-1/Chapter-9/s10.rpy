@@ -2,7 +2,7 @@
 translate french b1c09s10_f42c1f0a:
 
     # "After hanging out for a bit, you wander around the party, enjoying the music and alcohol."
-    "Après avoir traîné un moment, tu te balades dans la fête, profitant de la musique et de l'alcool."
+    "Après avoir traîné un moment, tu te balades à la fête, profitant de la musique et de l'alcool."
 
 # game/code/Book-1/Chapter-9/s10.rpy:72
 translate french b1c09s10_9e0a1b4a:
@@ -50,13 +50,13 @@ translate french replay_b1c09s10_7b0eedf2:
 translate french replay_b1c09s10_cb718414:
 
     # ir "We have a challenge for youuuu."
-    ir "Nous avons un défi pour toiuuu."
+    ir "Nous avons un défi pour toi."
 
 # game/code/Book-1/Chapter-9/s10.rpy:108
 translate french replay_b1c09s10_cb718414_1:
 
     # ir "We have a challenge for youuuu."
-    ir "Nous avons un défi pour toiuuu."
+    ir "Nous avons un défi pour toi."
 
 # game/code/Book-1/Chapter-9/s10.rpy:110
 translate french replay_b1c09s10_dac46297:
@@ -218,7 +218,7 @@ translate french replay_b1c09s10_3248d962:
 translate french replay_b1c09s10_9ddc98ed:
 
     # ima "Oh! Don't be a suck up."
-    ima "Oh! Ne sois pas un lèche-cul."
+    ima "Oh! Ne sois pas une lèche-cul."
 
 # game/code/Book-1/Chapter-9/s10.rpy:225
 translate french replay_b1c09s10_ef6f7f7b:
@@ -398,7 +398,7 @@ translate french b1c09s10_naked_run_667b4b8e:
 translate french b1c09s10_naked_run_e823c01c:
 
     # mc "Why do you have to be such a bitch to me?"
-    mc "Pourquoi tu dois être une salope avec moi?"
+    mc "Pourquoi tu dois être une pétasse avec moi?"
 
 # game/code/Book-1/Chapter-9/s10.rpy:381
 translate french b1c09s10_naked_run_cbfbaf41:
@@ -410,7 +410,7 @@ translate french b1c09s10_naked_run_cbfbaf41:
 translate french b1c09s10_naked_run_b9a3c51c:
 
     # ba "Oh, {i}I'm{/i} the bitch? You think you're so fucking perfect, don't you?"
-    ba "Oh, {i}moi{/i} la salope? Tu te crois tellement parfait, hein?"
+    ba "Oh, {i}moi{/i} une pétasse? Tu te crois tellement parfait, hein?"
 
 # game/code/Book-1/Chapter-9/s10.rpy:386
 translate french b1c09s10_naked_run_d43ef60e:
@@ -434,7 +434,7 @@ translate french b1c09s10_naked_run_96317908:
 translate french b1c09s10_naked_run_5e3b62fd:
 
     # ba "Listen, I know you're too pretty to understand what rejection is, but I fucking see the way you expect everyone to fawn over you."
-    ba "Écoute, je sais que tu es trop jolie pour comprendre ce que le rejet signifie, mais je vois bien la façon dont tu t'attends à ce que tout le monde se pâme devant toi."
+    ba "Écoute, je sais que tu es trop joli pour comprendre ce que le rejet signifie, mais je vois bien la façon dont tu t'attends à ce que tout le monde se pâme devant toi."
 
 # game/code/Book-1/Chapter-9/s10.rpy:395
 translate french b1c09s10_naked_run_d175b6c2:
@@ -626,7 +626,7 @@ translate french b1c09s10_naked_run_a6cc2bc3:
 translate french b1c09s10_naked_run_c5a5014d:
 
     # ir "Well, you did jump into the pool."
-    ir "Eh bien, tu as sauté dans la piscine."
+    ir "Eh bien, tu as sautée dans la piscine."
 
 # game/code/Book-1/Chapter-9/s10.rpy:579
 translate french b1c09s10_naked_run_4e7495a5:
@@ -728,7 +728,7 @@ translate french b1c09s10_ir_sex_e2561fac:
 translate french b1c09s10_ir_sex_aea9fbc7:
 
     # "You slide inside her and feel her walls pulse with excitement."
-    "Vous glissez en elle et sentez ses murs palpiter d'excitation."
+    "Vous glissez en elle et sentez ses paroies palpiter d'excitation."
 
 # game/code/Book-1/Chapter-9/s10.rpy:658
 translate french b1c09s10_ir_sex_02270f9d:
@@ -758,7 +758,7 @@ translate french b1c09s10_ir_sex_63ec3e3e:
 translate french b1c09s10_ir_sex_52e614c3:
 
     # ir "Show everyone what a slut I am."
-    ir "Montrez à tout le monde quelle salope je suis."
+    ir "Montre à tout le monde quelle salope je suis."
 
 # game/code/Book-1/Chapter-9/s10.rpy:691
 translate french b1c09s10_ir_sex_e2d4c6c9:
@@ -770,7 +770,7 @@ translate french b1c09s10_ir_sex_e2d4c6c9:
 translate french b1c09s10_ir_sex_05aad46d:
 
     # mc "That's right. Now face the fucking railing."
-    mc "C'est vrai. Maintenant, face à cette putain de balustrade."
+    mc "C'est vrai. Maintenant, fais face à cette putain de balustrade."
 
 # game/code/Book-1/Chapter-9/s10.rpy:710
 translate french b1c09s10_ir_sex_fc010205:
@@ -794,7 +794,7 @@ translate french b1c09s10_ir_sex_07f633be:
 translate french b1c09s10_ir_sex_a964da07:
 
     # mc "Let everyone see what a good little slut you are."
-    mc "Laissez tout le monde voir à quel point vous êtes une bonne petite salope."
+    mc "Laisse tout le monde voir à quel point tu es une bonne petite salope."
 
 # game/code/Book-1/Chapter-9/s10.rpy:748
 translate french b1c09s10_ir_sex_084fc76f:
@@ -878,7 +878,7 @@ translate french b1c09s10_ir_sex_60299c48:
 translate french b1c09s10_ir_sex_f049496c:
 
     # mc "Take it. Take my load."
-    mc "Prends-le. Prends ma charge."
+    mc "Prends-la. Prends ma charge."
 
 # game/code/Book-1/Chapter-9/s10.rpy:824
 translate french b1c09s10_ir_sex_50067801:
@@ -890,7 +890,7 @@ translate french b1c09s10_ir_sex_50067801:
 translate french b1c09s10_ir_sex_d0842aa6:
 
     # ir "I wish it could've gone into my mouth."
-    ir "J'aurais aimé que ça entre dans ma bouche."
+    ir "J'aurais aimée que ça entre dans ma bouche."
 
 # game/code/Book-1/Chapter-9/s10.rpy:829
 translate french b1c09s10_ir_sex_331d17b6:
@@ -932,7 +932,7 @@ translate french b1c09s10_ir_sex_17c60e3a:
 translate french b1c09s10_ir_sex_d3be4f92:
 
     # mc "C'mere, you little—"
-    mc "Viens là, petit—"
+    mc "Viens là, petite—s"
 
 # game/code/Book-1/Chapter-9/s10.rpy:858
 translate french b1c09s10_ir_sex_bfee0796:

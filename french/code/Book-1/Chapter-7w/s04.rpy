@@ -32,7 +32,7 @@ translate french b1c07ws04_00eda64c:
 translate french b1c07ws04_eccb80c1:
 
     # mc "*Chuckles* I uh...had to exchange some words with a girl at a urinal."
-    mc "*Rit* Eh bien... j'ai dû échanger quelques mots avec une fille à un urinoir."
+    mc "*Rit* Eh bien... j'ai dû échanger quelques mots avec une fille et un urinoir."
 
 # game/code/Book-1/Chapter-7w/s04.rpy:29
 translate french b1c07ws04_d4a41fe3:
@@ -80,13 +80,13 @@ translate french b1c07ws04_b046bff5:
 translate french b1c07ws04_d5eec850:
 
     # ba "Don't think I don't see through your little charade."
-    ba "Ne crois pas que je ne vois pas à travers ton petit numéro."
+    ba "Ne pense pas que je ne vois pas à travers ta petite mascarade."
 
 # game/code/Book-1/Chapter-7w/s04.rpy:73
 translate french b1c07ws04_db48dd1a:
 
     # mc "And what exactly is this \"charade\", hm?"
-    mc "Et c'est quoi exactement cette \"comédie\", hein?"
+    mc "Et c'est quoi exactement cette "mascarade", hein ?"
 
 # game/code/Book-1/Chapter-7w/s04.rpy:76
 translate french b1c07ws04_a15c63c1:
@@ -128,7 +128,7 @@ translate french b1c07ws04_5308c47a:
 translate french b1c07ws04_2c153589:
 
     # ir "It's just a rumor that's been going around. Shontae hasn't confirmed or denied anything."
-    ir "C'est juste une rumeur qui circule. Shontae n'a rien confirmé ni nié."
+    ir "C'est juste une rumeur qui circule. Shontae n'a ni confirmée ni niée."
 
 # game/code/Book-1/Chapter-7w/s04.rpy:97
 translate french b1c07ws04_bc659076:
@@ -146,7 +146,7 @@ translate french b1c07ws04_b2bd17c2:
 translate french b1c07ws04_fa64eec2:
 
     # ba "Oh? I bet you'd much prefer if we were blind and just went with your shit, huh?"
-    ba "Oh? Je parie que tu préférerais qu'on soit aveugles et qu'on suive tes conneries, hein?"
+    ba "Oh? Je parie que tu préférerais de loin qu'on soit aveugle et qu'on se contente de tes conneries, hein?"
 
 # game/code/Book-1/Chapter-7w/s04.rpy:109
 translate french b1c07ws04_32098716:
@@ -176,7 +176,7 @@ translate french b1c07ws04_253117b0:
 translate french b1c07ws04_24a92e22:
 
     # ir "He's right. Every single time he came to practice, Brig has antagonized him."
-    ir "Il a raison. À chaque fois qu'il est venu à l'entraînement, Brig l'a provoqué."
+    ir "Il a raison. À chaque fois qu'il est venu à l'entraînement, Brig tu l'as provoqué."
 
 # game/code/Book-1/Chapter-7w/s04.rpy:127
 translate french b1c07ws04_7e4bd5c5:
@@ -266,7 +266,7 @@ translate french b1c07ws04_5ea52edf:
 translate french b1c07ws04_2ef980ee:
 
     # mc "If they're actually spies, they wouldn't be able to resist trying to figure out what we're up to."
-    mc "S'ils sont vraiment des espions, ils ne pourront pas résister à l'envie de découvrir ce qu'on prépare."
+    mc "Si c'est vraiment des espions, ils ne pourront pas résister à l'envie de découvrir ce qu'on prépare."
 
 # game/code/Book-1/Chapter-7w/s04.rpy:178
 translate french b1c07ws04_2a1f6270:
@@ -476,7 +476,7 @@ translate french b1c07ws04_ddf44143:
 translate french b1c07ws04_5bf39726:
 
     # "Everyone" "Three, two, one, go!"
-    "Everyone" "Trois, deux, un, partez!"
+    "Tout le monde" "Trois, deux, un, partez!"
 
 # game/code/Book-1/Chapter-7w/s04.rpy:371
 translate french b1c07ws04_37718412:
@@ -488,19 +488,19 @@ translate french b1c07ws04_37718412:
 translate french b1c07ws04_20d8cb52:
 
     # "Spy One" "Fuck! Run!"
-    "Spy One" "Merde! Cours!"
+    "Espion un" "Merde! Cours!"
 
 # game/code/Book-1/Chapter-7w/s04.rpy:395
 translate french b1c07ws04_37d59da1:
 
     # ir "How about these apples you sons of bitches!?"
-    ir "Et ces pommes alors, bande de salauds!?"
+    ir "Prend ça, fils de pute!?"
 
 # game/code/Book-1/Chapter-7w/s04.rpy:398
 translate french b1c07ws04_52e1f6c8:
 
     # "Spy Two" "C'mon! We can go through him!"
-    "Spy Two" "Venez! On peut passer par lui!"
+    "Espion deux" "Venez! On peut passer par lui!"
 
 # game/code/Book-1/Chapter-7w/s04.rpy:431
 translate french b1c07ws04_fe6c2292:
@@ -518,7 +518,7 @@ translate french b1c07ws04_4bd7c301:
 translate french b1c07ws04_297eb6ba:
 
     # ir "That was fuckin' amazing!"
-    ir "C'était putain de génial!"
+    ir "C'était vraiment incroyable!"
 
 # game/code/Book-1/Chapter-7w/s04.rpy:449
 translate french b1c07ws04_2d2e86d8:

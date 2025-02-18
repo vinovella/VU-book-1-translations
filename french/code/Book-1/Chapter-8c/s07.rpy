@@ -80,13 +80,13 @@ translate french b1c08cs07_7fecc2c0:
 translate french b1c08cs07_fb8a3062:
 
     # dk "This is a sacred item to our community."
-    dk "C'est un objet sacré pour notre communauté."
+    dk "C'est un lieu sacré pour notre communauté."
 
 # game/code/Book-1/Chapter-8c/s07.rpy:99
 translate french b1c08cs07_00e0b458:
 
     # nv "Why is that?"
-    nv "Pourquoi cela?"
+    nv "Pourquoi ça?"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:102
 translate french b1c08cs07_cf3877f7:
@@ -176,7 +176,7 @@ translate french b1c08cs07_strip_4345b458:
 translate french b1c08cs07_strip_3f5fc9ca:
 
     # dk "So I'd say having Nia undress you would help."
-    dk "Je dirais que faire en sorte que Nia te déshabille aiderait."
+    dk "Donc je dirais que si Nia se déshabille, ça t'aiderait."
 
 # game/code/Book-1/Chapter-8c/s07.rpy:159
 translate french b1c08cs07_strip_5d759f87:
@@ -236,7 +236,7 @@ translate french b1c08cs07_strip_ba0eb06a:
 translate french b1c08cs07_strip_307327a6:
 
     # nv "I want to touch you. Is that okay?"
-    nv "Je veux te toucher. Ça va?"
+    nv "Je veux te toucher. Est-ce que ça va?"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:193
 translate french b1c08cs07_strip_f800bed0:
@@ -416,7 +416,7 @@ translate french b1c08cs07_strip_03dde6d3:
 translate french b1c08cs07_strip_15036f60:
 
     # nv "In time. But first...{w} I want to explore this."
-    nv "Avec le temps. Mais d'abord...{w} je veux explorer ça."
+    nv "Après. Mais d'abord...{w} je veux explorer ça."
 
 # game/code/Book-1/Chapter-8c/s07.rpy:281
 translate french b1c08cs07_strip_837818c0:
@@ -488,7 +488,7 @@ translate french b1c08cs07_strip_a594b397:
 translate french b1c08cs07_strip_698e7000:
 
     # nv "I want to worship each other's bodies, to make each other feel good, and whole."
-    nv "Je veux adorer nos corps respectifs, nous faire nous sentir bien et entiers."
+    nv "Je veux adorer le corps de chacun, pour que chacun se sente bien et entier."
 
 # game/code/Book-1/Chapter-8c/s07.rpy:339
 translate french b1c08cs07_strip_e5a8add4:
@@ -578,7 +578,7 @@ translate french b1c08cs07_sex_2642577f:
 translate french b1c08cs07_sex_4e356444:
 
     # "You push yourself inside her. Her body responds immediately, tightening wetly around you."
-    "Tu t'enfonces en elle. Son corps réagit immédiatement, se serrant humide autour de toi."
+    "Tu t'enfonces en elle. Son corps réagit immédiatement, se resserrant humidement autour de toi."
 
 # game/code/Book-1/Chapter-8c/s07.rpy:417
 translate french b1c08cs07_sex_6edc59ec:
@@ -608,13 +608,13 @@ translate french b1c08cs07_sex_de206a99:
 translate french b1c08cs07_sex_0c587977:
 
     # "Her body immediately tightens and pulses around you."
-    "Son corps se serre immédiatement et pulse autour de toi."
+    "Son corps se serre immédiatement et convulse autour de toi."
 
 # game/code/Book-1/Chapter-8c/s07.rpy:433
 translate french b1c08cs07_sex_5486b161:
 
     # mc "You like that? You like being fucked raw by me?"
-    mc "Tu aimes ça? Tu aimes être prise sauvagement par moi?"
+    mc "Tu aimes ça? Tu aimes être prise sauvagement?"
 
 # game/code/Book-1/Chapter-8c/s07.rpy:434
 translate french b1c08cs07_sex_7c286ac4:
@@ -716,7 +716,7 @@ translate french b1c08cs07_sex_68934356:
 translate french b1c08cs07_sex_c6ba2d88:
 
     # mc "Me either. It feels... so good to be connected with you. In every way. Mind, body, soul."
-    mc "Moi non plus. Ça fait... tellement de bien d'être connecté avec toi. Dans tous les sens. Esprit, corps, âme."
+    mc "Moi aussi. Ça fait... tellement de bien d'être connecté avec toi. Dans tous les sens. Esprit, corps, âme."
 
 # game/code/Book-1/Chapter-8c/s07.rpy:509
 translate french b1c08cs07_sex_5d4a2b95:
@@ -728,7 +728,7 @@ translate french b1c08cs07_sex_5d4a2b95:
 translate french b1c08cs07_sex_3598c7dd:
 
     # mc "Heh. She's something alright."
-    mc "Heh. Elle est quelque chose, c'est sûr."
+    mc "Heh. Elle est, c'est sûr."
 
 # game/code/Book-1/Chapter-8c/s07.rpy:515
 translate french b1c08cs07_sex_8d44f7ac:
@@ -794,7 +794,7 @@ translate french b1c08cs07_sex_ad0226c1:
 translate french b1c08cs07_sex_adca9c91:
 
     # mc "Nothing. I just didn't take you for the greedy type that likes creampies."
-    mc "Rien. Je ne t'avais pas pris pour le genre avide qui aime les 'creampies'."
+    mc "Rien. Je ne t'ai juste pas pris pour le type gourmande qui aime les creampies."
 
 # game/code/Book-1/Chapter-8c/s07.rpy:559
 translate french b1c08cs07_sex_e271c536:

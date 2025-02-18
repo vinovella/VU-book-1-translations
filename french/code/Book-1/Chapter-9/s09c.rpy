@@ -225,7 +225,7 @@ translate french b1c09s09c_6c6b266f:
 translate french b1c09s09c_e9138431:
 
     # ef "Whoo! Now {i}that's{/i} how we party!"
-    ef "Whoo! {i}Ça{/i}, c'est comme ça qu'on fait la fête!"
+    ef "Whoo! Maintenant {i}Ça{/i}, c'est comme ça qu'on fait la fête!"
 
 # game/code/Book-1/Chapter-9/s09c.rpy:188
 translate french b1c09s09c_884d22a0:
@@ -339,7 +339,7 @@ translate french b1c09s09c_c38f6a08:
 translate french b1c09s09c_cn_available_aae13c79:
 
     # ef "It has..."
-    ef "Ça l'a été..."
+    ef "Ça l'est..."
 
 # game/code/Book-1/Chapter-9/s09c.rpy:268
 translate french b1c09s09c_cn_available_a9a93adf:
@@ -453,7 +453,7 @@ translate french b1c09s09c_cn_available_939a39ca:
 translate french b1c09s09c_cn_available_7c4ea88b:
 
     # ef "And it's not like I'd be alone. I'd have all of you!"
-    ef "Et ce n'est pas comme si j'étais seule. J'aurais vous tous!"
+    ef "Et ce n'est pas comme si j'étais seule. Je vous aurez tous!"
 
 # game/code/Book-1/Chapter-9/s09c.rpy:320
 translate french b1c09s09c_cn_available_3e1aa8a0:
@@ -621,7 +621,7 @@ translate french b1c09s09c_cn_available_bce806c0:
 translate french b1c09s09c_cn_available_3a5e22cb:
 
     # "You clear your throat and school your expression into a thoughtful one."
-    "Tu te clears la gorge et maîtrises ton expression pour qu'elle devienne plus réfléchie."
+    "Tu t'éclaircis la gorge et maîtrises ton expression pour qu'elle devienne plus réfléchie."
 
 # game/code/Book-1/Chapter-9/s09c.rpy:400
 translate french b1c09s09c_cn_available_7aba93b8:
@@ -669,7 +669,7 @@ translate french b1c09s09c_cn_available_554854aa:
 translate french b1c09s09c_cn_available_bc666b09:
 
     # mc "Anytime."
-    mc "À tout moment."
+    mc "De rien."
 
 # game/code/Book-1/Chapter-9/s09c.rpy:434
 translate french b1c09s09c_end_277f73d4:

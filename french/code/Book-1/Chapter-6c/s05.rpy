@@ -176,7 +176,7 @@ translate french b1c06cs05_continue_448431c6:
 translate french b1c06cs05_continue_e8f399f9:
 
     # dk "Your {i}women{/i} huh?"
-    dk "Vos {i}femmes{/i}, hein?"
+    dk "Tes {i}femmes{/i}, hein?"
 
 # game/code/Book-1/Chapter-6c/s05.rpy:186
 translate french b1c06cs05_continue_cd492ae2:
@@ -212,7 +212,7 @@ translate french b1c06cs05_continue_2f29e9ad:
 translate french b1c06cs05_continue_71529ea5:
 
     # "Delphia matches [mcname]'s smirk, and licks her lips before speaking."
-    "Delphia correspond au sourire narquois de [mcname] et se lèche les lèvres avant de parler."
+    "Delphia répond au sourire narquois de [mcname] et se lèche les lèvres avant de parler."
 
 # game/code/Book-1/Chapter-6c/s05.rpy:203
 translate french b1c06cs05_continue_4e66a360:
@@ -230,7 +230,7 @@ translate french b1c06cs05_continue_f1a0cd14:
 translate french b1c06cs05_continue_3a73c0ef:
 
     # "The warmth of her spit on your tip and the feeling of her hand spreading it over your shaft sends a shiver down your spine."
-    "La chaleur de son crachat sur votre bout et la sensation de sa main qui l'étale sur votre tige vous font frissonner le long du dos."
+    "La chaleur de son crachat sur votre gland et la sensation de sa main qui l'étale sur votre bite vous font frissonner le long du dos."
 
 # game/code/Book-1/Chapter-6c/s05.rpy:215
 translate french b1c06cs05_continue_f2c66a7c:
@@ -242,7 +242,7 @@ translate french b1c06cs05_continue_f2c66a7c:
 translate french b1c06cs05_continue_c046cdab:
 
     # "You almost unconsciously start pumping your hips to her rhythm. An annoying smirk spreads across her face when she notices it, but you're too lost in the bliss of her hand to care."
-    "Vous commencez presque inconsciemment à pomper vos hanches à son rythme. Un sourire narquois ennuyeux s'affiche sur son visage quand elle le remarque, mais vous êtes trop perdu dans le bonheur de sa main pour vous en soucier."
+    "Vous commencez presque inconsciemment à pomper vos hanches à son rythme. Un sourire narquois s'affiche sur son visage quand elle le remarque, mais vous êtes trop perdu dans le bonheur de ses mains pour vous en soucier."
 
 # game/code/Book-1/Chapter-6c/s05.rpy:229
 translate french b1c06cs05_continue_767d867a:
@@ -272,7 +272,7 @@ translate french b1c06cs05_continue_96235f48:
 translate french b1c06cs05_continue_073c185b:
 
     # dk "Well, I think that's adequate thanks for the help, don't you think?"
-    dk "Eh bien, je pense que c'est suffisant, merci pour votre aide, vous ne trouvez pas?"
+    dk "Eh bien, je pense que c'est suffisant tu ne penses pas? Merci pour votre aide."
 
 # game/code/Book-1/Chapter-6c/s05.rpy:248
 translate french b1c06cs05_continue_97511a3a:
@@ -290,7 +290,7 @@ translate french b1c06cs05_continue_97f8d4d4:
 translate french b1c06cs05_continue_e2439b1e:
 
     # mc "Oh, I see how it is."
-    mc "Oh, je vois comment c'est."
+    mc "Oh, je vois, c'est comme ça!!."
 
 # game/code/Book-1/Chapter-6c/s05.rpy:270
 translate french b1c06cs05_order_c3f947df:
@@ -320,7 +320,7 @@ translate french b1c06cs05_order_a1c10abd:
 translate french b1c06cs05_order_f34c3481:
 
     # mc "Finish. Me. Off."
-    mc "Terminez. Moi. C'est parti."
+    mc "Termine. Moi."
 
 # game/code/Book-1/Chapter-6c/s05.rpy:288
 translate french b1c06cs05_order_71a14ba9:
@@ -338,13 +338,13 @@ translate french b1c06cs05_order_52847945:
 translate french b1c06cs05_order_ed854131:
 
     # dk "I want you to show me how much you {i}need{/i} my touch."
-    dk "Je veux que tu me montres à quel point tu ai besoin de mon contact."
+    dk "Je veux que tu me montres à quel point tu as besoin de mon contact."
 
 # game/code/Book-1/Chapter-6c/s05.rpy:306
 translate french b1c06cs05_order_cfc08047:
 
     # "She continues from where she left and gets you back to your full length again in no time."
-    "Elle continue là où elle est partie et vous ramène à nouveau sur toute votre longueur en un rien de temps."
+    "Elle continue là où elle c'est arreté et vous ramène à nouveau sur toute votre longueur en un rien de temps."
 
 # game/code/Book-1/Chapter-6c/s05.rpy:309
 translate french b1c06cs05_order_c12d2e90:
@@ -368,7 +368,7 @@ translate french b1c06cs05_order_a4125aee:
 translate french b1c06cs05_order_f29b4f26:
 
     # "It feels like a low current of electricity is sizzling across your skin, drawing you both closer together before exploding in a flash of warmth and pleasure when you touch."
-    "C'est comme si un faible courant électrique grésillait sur votre peau, vous rapprochant tous les deux avant d'exploser dans un éclair de chaleur et de plaisir lorsque vous le touchez."
+    "C'est comme si un faible courant électrique grésillait sur votre peau, vous rapprochant tous les deux avant d'exploser dans un éclair de chaleur et de plaisir lorsque vous la touchez."
 
 # game/code/Book-1/Chapter-6c/s05.rpy:340
 translate french b1c06cs05_order_2e29de6f:
@@ -404,7 +404,7 @@ translate french b1c06cs05_order_62853702:
 translate french b1c06cs05_order_cc423e8a:
 
     # "Barely touching, yet so teasing, she runs her delicate tongue up and down your tip, making you buck to get just a bit more of her warmth."
-    "À peine touchante, mais si taquine, elle passe sa langue délicate de haut en bas de votre bout, vous faisant vous efforcer d'obtenir un peu plus de sa chaleur."
+    "A peine touchante, mais si taquine, elle fait courir sa langue délicate de haut en bas de votre bout, vous incitant à obtenir un peu plus de sa chaleur.."
 
 # game/code/Book-1/Chapter-6c/s05.rpy:378
 translate french b1c06cs05_order_049d51c8:

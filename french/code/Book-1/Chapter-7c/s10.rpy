@@ -68,7 +68,7 @@ translate french b1c07cs10_08041f3c:
 translate french b1c07cs10_d1fcba0a:
 
     # mct "I'm not sure if I should bother her or not... I definitely don't want to set her off like last time."
-    mct "Je ne suis pas sûr de devoir la déranger ou pas... Je ne veux surtout pas la contrarier comme la dernière fois."
+    mct "Je ne sais pas si je dois la déranger ou pas... Je ne veux absolument pas la déranger comme la dernière fois.."
 
 # game/code/Book-1/Chapter-7c/s10.rpy:78
 translate french b1c07cs10_165f4bda:
@@ -92,7 +92,7 @@ translate french b1c07cs10_0619854a:
 translate french b1c07cs10_4e246bf8:
 
     # edo "Because I need to see everything about my subject, of course!"
-    edo "Parce que j'ai besoin de voir tout de mon sujet, bien sûr!"
+    edo "Parce que j'ai besoin de tout voir de mon sujet, bien sûr!"
 
 # game/code/Book-1/Chapter-7c/s10.rpy:85
 translate french b1c07cs10_8b8dc69c:
@@ -110,7 +110,7 @@ translate french b1c07cs10_5f9f2d61:
 translate french b1c07cs10_b2640c91:
 
     # edo "Mm, better than I imagined. I'm glad I decided to replicate the real thing rather than go based solely on imagination."
-    edo "Mm, mieux que ce que j'avais imaginé. Je suis content d'avoir décidé de reproduire la réalité plutôt que de me baser uniquement sur mon imagination."
+    edo "Mm, mieux que ce que j'avais imaginée. Je suis contente d'avoir décidée de reproduire la réalité plutôt que de me baser uniquement sur mon imagination."
 
 # game/code/Book-1/Chapter-7c/s10.rpy:105
 translate french b1c07cs10_5d5b35db:
@@ -200,7 +200,7 @@ translate french b1c07cs10_945f1803:
 translate french b1c07cs10_05754547:
 
     # edo "Maria was always a very free spirit. But you knew that, yes?"
-    edo "Maria était toujours un esprit très libre. Mais tu savais ça, n'est-ce pas?"
+    edo "Maria était toujours un esprit très libre. Mais tu le savais ça, n'est-ce pas?"
 
 # game/code/Book-1/Chapter-7c/s10.rpy:157
 translate french b1c07cs10_f9d85b6c:
@@ -296,13 +296,13 @@ translate french b1c07cs10_b1737154:
 translate french b1c07cs10_48a9c457:
 
     # edo "I'm not sure. It seemed very intense the way Maria described it, but in a good way. She always seemed to feel safe, so I never questioned it too much."
-    edo "Je ne suis pas sûr. Ça semblait très intense la manière dont Maria l'a décrit, mais dans un bon sens. Elle semblait toujours se sentir en sécurité, donc je ne l'ai jamais trop remis en question."
+    edo "Je ne suis pas sûr. Ça semblait très intense la manière dont Maria l'a décrit, mais dans un bon sens. Elle semblait toujours se sentir en sécurité, donc je ne l'ai jamais trop remise en question."
 
 # game/code/Book-1/Chapter-7c/s10.rpy:191
 translate french b1c07cs10_4f3fbfc2:
 
     # edo "She didn't tell me too many details about the rituals themselves. Just that she felt like the community had given her a new way to experience life itself."
-    edo "Elle ne m'a pas dit trop de détails sur les rituels eux-mêmes. Juste qu'elle sentait que la communauté lui avait donné une nouvelle manière d'expérimenter la vie elle-même."
+    edo "Elle ne m'a pas trop donnée de détails sur les rituels eux-mêmes. Juste qu'elle sentait que la communauté lui avait donnée une nouvelle manière d'expérimenter la vie elle-même."
 
 # game/code/Book-1/Chapter-7c/s10.rpy:194
 translate french b1c07cs10_a28320ed:
@@ -338,13 +338,13 @@ translate french b1c07cs10_afdffd0d:
 translate french b1c07cs10_8aeb5af2:
 
     # "Ezra's tongue teases the bottom of your cock as she blows you, adding multiple sensations to her blowjob."
-    "La langue d'Ezra taquine le bas de ton sexe alors qu'elle te fellate, ajoutant plusieurs sensations à sa prestation."
+    "La langue d'Ezra taquine le bas de votre bite pendant qu'elle vous suce, ajoutant de multiples sensations à sa pipe.."
 
 # game/code/Book-1/Chapter-7c/s10.rpy:228
 translate french b1c07cs10_e5c49a87:
 
     # "She sucks in her cheeks to tighten around you as she works your cock."
-    "Elle aspire ses joues pour se resserrer autour de toi pendant qu'elle travaille ton sexe."
+    "Elle aspire ses joues pour se resserrer autour de toi pendant qu'elle travaille ta queue."
 
 # game/code/Book-1/Chapter-7c/s10.rpy:231
 translate french b1c07cs10_cefc424b:
@@ -380,7 +380,7 @@ translate french b1c07cs10_34707ae3:
 translate french b1c07cs10_8cc0f13e:
 
     # edo "Don't worry, I'm almost done."
-    edo "Ne t'inquiète pas, je suis presque fini."
+    edo "Ne t'inquiète pas, j'ai presque finie."
 
 # game/code/Book-1/Chapter-7c/s10.rpy:253
 translate french b1c07cs10_b76ebc7f:
@@ -422,7 +422,7 @@ translate french b1c07cs10_55810251:
 translate french b1c07cs10_db9ebeb7:
 
     # edo "I bet you're super needy, hm? You wanna skull fuck me?"
-    edo "Je parie que tu es super needy, hein? Tu veux me baiser la tête?"
+    edo "Je parie que tu es très nécessiteux, hein ? Tu veux me baiser la bouche?"
 
 # game/code/Book-1/Chapter-7c/s10.rpy:280
 translate french b1c07cs10_51c5f03b:
@@ -458,7 +458,7 @@ translate french b1c07cs10_520fbf10:
 translate french b1c07cs10_dbc6d34c:
 
     # mc "You fucking tease. You're damn right I deserve this."
-    mc "Tu es une sacrée teases. T'as bien raison, je mérite ça."
+    mc "Putain, tu taquines. Tu as sacrément raison, je mérite ça."
 
 # game/code/Book-1/Chapter-7c/s10.rpy:321
 translate french b1c07cs10_c214cbf1:
@@ -482,7 +482,7 @@ translate french b1c07cs10_a1229eea:
 translate french b1c07cs10_c3ab16d2:
 
     # "You release down Ezra's throat. She eagerly swallows every drop you give her."
-    "Tu libères ton orgasme dans la gorge d'Ezra. Elle avale avidement chaque goutte que tu lui donnes."
+    "Tu libères ton orgasme dans la gorge d'Ezra. Elle avale avidement chaque jet que tu lui donnes."
 
 # game/code/Book-1/Chapter-7c/s10.rpy:349
 translate french b1c07cs10_ab1bff4b:
@@ -530,7 +530,7 @@ translate french b1c07cs10_b3759151:
 translate french b1c07cs10_d1a0351e:
 
     # edo "I haven't felt this inspired since...Maria."
-    edo "Je ne me suis pas senti aussi inspiré depuis...Maria."
+    edo "Je ne me suis pas sentie aussi inspirée depuis...Maria."
 
 # game/code/Book-1/Chapter-7c/s10.rpy:402
 translate french b1c07cs10_0eb150a7:

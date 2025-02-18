@@ -334,6 +334,48 @@ translate french b1c05s02_603bdff3:
     # pm "Yeesh. Be careful out there. Spiritual brainwashing creeps me the fuck out."
     pm "Brrr. Fais attention. Le lavage de cerveau spirituel me fout la trouille."
 
+# game/code/Book-1/Chapter-5/s02.rpy:202
+translate french b1c05s02_e6bfacd3:
+
+    # mc "I'll be fine. I doubt they're brainwashing people. They seem overly pretentious and preachy, if anything."
+    mc "Je vais bien. Je doute qu'ils lavent le cerveau des gens. Ils semblent surtout prétentieux et moralisateurs."
+
+# game/code/Book-1/Chapter-5/s02.rpy:204
+translate french b1c05s02_40cc5e3c:
+
+    # mc "However, there's a woman named Sally Daniels that used to be a part of a local cult."
+    mc "Cependant, il y a une femme nommée Sally Daniels qui faisait partie d'une secte locale."
+
+# game/code/Book-1/Chapter-5/s02.rpy:207
+translate french b1c05s02_6a1d9b57:
+
+    # mc "So there might be more to the self-help group than I originally thought."
+    mc "Il se pourrait donc que ce groupe d'entraide soit plus qu'il n'y paraît."
+
+# game/code/Book-1/Chapter-5/s02.rpy:208
+translate french b1c05s02_f1245494:
+
+    # mc "But I'm not sure that it's a full-blown cult."
+    mc "Mais je ne suis pas sûr que ce soit une véritable secte."
+
+# game/code/Book-1/Chapter-5/s02.rpy:211
+translate french b1c05s02_7187c543:
+
+    # mc "There's also an artist that Maria was friends with. I think he could be a useful resource on Maria as well."
+    mc "Il y a aussi un artiste avec qui Maria était amie. Je pense qu'il pourrait être une source d'information utile sur Maria."
+
+# game/code/Book-1/Chapter-5/s02.rpy:213
+translate french b1c05s02_bfc715ea:
+
+    # mc "I'm not sure if Maria was closer to Nia, or this artist."
+    mc "Je ne sais pas si Maria était plus proche de Nia ou de cet artiste."
+
+# game/code/Book-1/Chapter-5/s02.rpy:216
+translate french b1c05s02_1c467550:
+
+    # pm "Interesting. I suggest you talk more to Sally. See if you can get a read on the group through her eyes. But the artist may also be a very valuable source of info..."
+    pm "Intéressant. Je te suggère de parler davantage à Sally. Essaie de comprendre le groupe à travers ses yeux. Mais l'artiste pourrait aussi être une source d'information précieuse..."
+
 # game/code/Book-1/Chapter-5/s02.rpy:219
 translate french b1c05s02_f55f0e46:
 

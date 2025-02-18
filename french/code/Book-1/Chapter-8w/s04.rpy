@@ -3,7 +3,7 @@
 translate french b1c08ws04_3f673793:
 
     # mm "Well, well, well. Took you long enough."
-    mm "Eh bien, eh bien, eh bien. Tu as mis le temps."
+    mm "Eh bien, eh bien, eh bien. Tu en as mis du temps."
 
 # game/code/Book-1/Chapter-8w/s04.rpy:46
 translate french b1c08ws04_8e0070fb:
@@ -15,13 +15,13 @@ translate french b1c08ws04_8e0070fb:
 translate french b1c08ws04_232db0e3:
 
     # mm "*Snorts* Don't flatter yourself, Charming."
-    mm "*Rit* Ne te flatte pas, Charmant."
+    mm "*Rit* Ne te flatte pas, Charmeur."
 
 # game/code/Book-1/Chapter-8w/s04.rpy:50
 translate french b1c08ws04_d95d6188:
 
     # mm "Mr. Human Woodchipper over there doing everything in his power to make sure I don't get a lick of sleep tonight."
-    mm "Monsieur Broyeur Humain là-bas faisant tout ce qu'il peut pour s'assurer que je ne dors pas une minute cette nuit."
+    mm "MR. Ronfleur là-bas fait tout ce qui est en son pouvoir pour s'assurer que je ne dorme pas ce soir."
 
 # game/code/Book-1/Chapter-8w/s04.rpy:53
 translate french b1c08ws04_668caeda:
@@ -45,7 +45,7 @@ translate french b1c08ws04_6f6001ee:
 translate french b1c08ws04_116f68e7:
 
     # mm "*Gasps* Victim blaming much?"
-    mm "*Rit* Tu blâmes la victime?"
+    mm "*Halète* Tu blâmes la victime?"
 
 # game/code/Book-1/Chapter-8w/s04.rpy:64
 translate french b1c08ws04_c1aacbe1:
@@ -57,7 +57,7 @@ translate french b1c08ws04_c1aacbe1:
 translate french b1c08ws04_e8e0ec25:
 
     # mm "And no. I didn't know he sounded like a freight train when he slept. First time I'm even seeing him passed out."
-    mm "Et non. Je ne savais pas qu'il avait l'air d'un train de marchandises quand il dort. C'est la première fois que je le vois complètement assoupi."
+    mm "Et non. Je ne savais pas qu'il faisait le bruit d'un train de marchandises quand il dormait. C'est la première fois que je le vois évanoui."
 
 # game/code/Book-1/Chapter-8w/s04.rpy:71
 translate french b1c08ws04_e0fc126b:
@@ -129,7 +129,7 @@ translate french b1c08ws04_87c2810c:
 translate french b1c08ws04_113b8f59:
 
     # mm "But don't think you gotta baby her. She can handle herself just fine. I've seen it."
-    mm "Mais ne pense pas que tu dois la couver. Elle peut très bien se débrouiller toute seule. Je l'ai vu."
+    mm "Mais ne pense pas que tu dois la couver. Elle peut très bien se débrouiller toute seule. Je l'ai vue."
 
 # game/code/Book-1/Chapter-8w/s04.rpy:104
 translate french b1c08ws04_2d6162be:
@@ -195,7 +195,7 @@ translate french b1c08ws04_continue_243cdaf9:
 translate french b1c08ws04_continue_ad6da898:
 
     # "Monika then pulls your covers over her and looks at you from underneath."
-    "Monika tire ensuite tes couvertures sur elle et te regarde par-dessous."
+    "Monika tire ensuite tes couvertures sur elle et te regarde par-dessus."
 
 # game/code/Book-1/Chapter-8w/s04.rpy:147
 translate french b1c08ws04_continue_c26cd6f0:
@@ -225,13 +225,13 @@ translate french b1c08ws04_continue_cf98262e:
 translate french b1c08ws04_continue_1ce8210c:
 
     # mc "We're just...well acquainted friends. Let's put it that way."
-    mc "On est juste... des amis bien connus. Disons-le comme ça."
+    mc "Nous sommes juste... des amis qui s'entendent très bien. Disons-le ainsi."
 
 # game/code/Book-1/Chapter-8w/s04.rpy:158
 translate french b1c08ws04_continue_fccb9547:
 
     # mc "Why do you ask?"
-    mc "Pourquoi tu demandes?"
+    mc "Pourquoi tu demandes? Jalouse?"
 
 # game/code/Book-1/Chapter-8w/s04.rpy:162
 translate french b1c08ws04_continue_a21d7a8c:
@@ -309,7 +309,7 @@ translate french b1c08ws04_sex_fb44488f:
 translate french b1c08ws04_sex_213eaa6c:
 
     # "She pinches your nipple playfully, making you startle, before resting her other hand on your waist."
-    "Elle pince ton téton de façon ludique, te faisant sursauter, avant de poser sa main libre sur ta taille."
+    "Elle pince ton téton de façon lubrique, te faisant sursauter, avant de poser sa main libre sur ta taille."
 
 # game/code/Book-1/Chapter-8w/s04.rpy:221
 translate french b1c08ws04_sex_0a7270e5:
@@ -321,7 +321,7 @@ translate french b1c08ws04_sex_0a7270e5:
 translate french b1c08ws04_sex_5c3af901:
 
     # "Her excitement is evident as she nuzzles against your skin, her hot breath singeing you in pleasure and making you arch your back and push your hips into her."
-    "Son excitation est évidente alors qu'elle se frotte contre ta peau, son souffle chaud te brulant de plaisir, te faisant cambrer et pousser tes hanches vers elle."
+    "Son excitation est évidente alors qu'elle se frotte contre ta peau, son souffle chaud te brule de plaisir, te faisant cambrer et pousser tes hanches vers elle."
 
 # game/code/Book-1/Chapter-8w/s04.rpy:227
 translate french b1c08ws04_sex_8e315aab:
@@ -339,7 +339,7 @@ translate french b1c08ws04_sex_cabe49de:
 translate french b1c08ws04_sex_b99cd40b:
 
     # mc "Don't tell me you planned this from the beginning."
-    mc "Ne me dis pas que tu as tout planifié depuis le début."
+    mc "Ne me dis pas que tu as tout planifiée depuis le début."
 
 # game/code/Book-1/Chapter-8w/s04.rpy:233
 translate french b1c08ws04_sex_4f766b2e:
@@ -357,7 +357,7 @@ translate french b1c08ws04_sex_ce11c5bb:
 translate french b1c08ws04_sex_c14eb846:
 
     # "Needily, Monika mounts you. She makes quick work of your pants and pulls them away, eager to see how hard you've gotten for her."
-    "Nécessairement, Monika te monte. Elle enlève rapidement ton pantalon et l'enlève, impatiente de voir à quel point tu as eu du mal avec elle."
+    "Nécessairement, Monika te monte. Elle enlève rapidement ton caleçon et le jete, impatiente de voir à quel point tu as eu du mal avec elle."
 
 # game/code/Book-1/Chapter-8w/s04.rpy:246
 translate french b1c08ws04_sex_f99b2c51:
@@ -399,7 +399,7 @@ translate french b1c08ws04_sex_35f42bd2:
 translate french b1c08ws04_sex_683d92a3:
 
     # "You angle your cock up to Monika's entrance, pushing yourself inside her inch by inch. Her walls are still slick with pleasure as you thrust into her, and you revel in the feel of her tight heat surrounding you."
-    "Vous inclinez votre bite jusqu'à l'entrée de Monika, en vous poussant à l'intérieur d'elle pouce par pouce. Ses parois sont toujours lisses de plaisir lorsque vous la pénétrez, et vous vous délectez de la sensation de sa chaleur serrée qui vous entoure."
+    "Vous inclinez votre bite jusqu'à l'entrée de Monika, en vous poussant à l'intérieur d'elle centimetre par centimetre. Ses paroies sont toujours humide de plaisir lorsque vous la pénétrez, et vous vous délectez de la sensation de chaleur serrée qui vous entoure."
 
 # game/code/Book-1/Chapter-8w/s04.rpy:292
 translate french b1c08ws04_sex_affdadab:
@@ -411,19 +411,19 @@ translate french b1c08ws04_sex_affdadab:
 translate french b1c08ws04_sex_097d204b:
 
     # "You oblige. As the speed of your thrusts increases, so does Monika's pleasure. You can feel her inner muscles clenching around your shaft as she cries out in blissful ecstasy."
-    "Vous obligez. À mesure que la vitesse de vos poussées augmente, le plaisir de Monika augmente également. Vous pouvez sentir ses muscles intérieurs se serrer autour de votre tige alors qu'elle crie d'extase bien-heureuse."
+    "À mesure que la vitesse de vos poussées augmente, le plaisir de Monika augmente également. Vous pouvez sentir ses muscles intérieurs se serrer autour de votre queue alors qu'elle crie d'extase."
 
 # game/code/Book-1/Chapter-8w/s04.rpy:302
 translate french b1c08ws04_sex_a23f8acd:
 
     # mc "You're such a good fucking slut, Monika."
-    mc "Tu es une si bonne putain de salope, Monika."
+    mc "Monika...Tu es une si bonne salope."
 
 # game/code/Book-1/Chapter-8w/s04.rpy:305
 translate french b1c08ws04_sex_6b2c8934:
 
     # mm "*Moans* Y-yes, make me your slut. Fuck me nice and hard."
-    mm "*Gémissements* O-oui, fais de moi ta salope. Baise-moi gentiment et fort."
+    mm "*Gémissements* O-oui, fais de moi ta salope. Baise-moi bien et fort."
 
 # game/code/Book-1/Chapter-8w/s04.rpy:315
 translate french b1c08ws04_sex_0c3355f1:
@@ -435,7 +435,7 @@ translate french b1c08ws04_sex_0c3355f1:
 translate french b1c08ws04_sex_245da889:
 
     # "You grab onto her and dig your fingers into her skin as you start to fuck her harder and faster, pushing her higher and higher until she's blissed out on top of you. She pushes back with every thrust, begging for your cum."
-    "Vous l'attrapez et enfoncez vos doigts dans sa peau pendant que vous commencez à la baiser plus fort et plus vite, la poussant de plus en plus haut jusqu'à ce qu'elle soit heureuse sur vous. Elle repousse à chaque poussée, implorant votre sperme."
+    "Vous l'attrapez et enfoncez vos doigts dans sa peau pendant que vous commencez à la baiser plus fort et plus vite, la poussant de plus en plus haut jusqu'à ce qu'elle soit heureuse au-dessus de vous. Elle repousse à chaque poussée, implorant votre sperme."
 
 # game/code/Book-1/Chapter-8w/s04.rpy:330
 translate french b1c08ws04_sex_e8c0777b:
@@ -447,7 +447,7 @@ translate french b1c08ws04_sex_e8c0777b:
 translate french b1c08ws04_sex_e627c7b2:
 
     # mm "*Moans* Ye-yes! I'm so close!"
-    mm "*Gémissements* Ouais-oui! Je suis si proche!"
+    mm "*Gémissements* Oui-oui! Je suis si proche!"
 
 # game/code/Book-1/Chapter-8w/s04.rpy:342
 translate french b1c08ws04_sex_1737dc29:
@@ -465,7 +465,7 @@ translate french b1c08ws04_sex_a49d7f08:
 translate french b1c08ws04_sex_14a3c03d:
 
     # sl "*Whispers* Fucking whores..."
-    sl "*Chuchote* Putains de putes..."
+    sl "*Chuchote* Putain de pute..."
 
 # game/code/Book-1/Chapter-8w/s04.rpy:361
 translate french b1c08ws04_sex_ba24f005:
@@ -477,13 +477,13 @@ translate french b1c08ws04_sex_ba24f005:
 translate french b1c08ws04_sex_e7945248:
 
     # mc "*Chuckles* Life sure is full of surprises, isn't it?"
-    mc "*Rit* La vie est vraiment pleine de surprises, n'est-ce pas?"
+    mc "*Rit* La vie est vraiment pleine de surprises parfois, n'est-ce pas?"
 
 # game/code/Book-1/Chapter-8w/s04.rpy:366
 translate french b1c08ws04_sex_663dd068:
 
     # mm "Speaking of surprises, you sure know how to serve in more ways than one."
-    mm "En parlant de surprises, tu sais vraiment comment servir de plus d'une manière."
+    mm "En parlant de surprises, tu sais vraiment comment 'servir' de plus d'une manière."
 
 # game/code/Book-1/Chapter-8w/s04.rpy:370
 translate french b1c08ws04_sex_e1271ae7:
@@ -519,7 +519,7 @@ translate french b1c08ws04_sex_d400e8b4:
 translate french b1c08ws04_sex_f2d0bdd2:
 
     # mc "The call's coming from inside the house."
-    mc "L'appel vient de l'intérieur de la maison."
+    mc "l'hopital qui se fou de la charité."
 
 # game/code/Book-1/Chapter-8w/s04.rpy:390
 translate french b1c08ws04_sex_8c460011:
@@ -543,7 +543,7 @@ translate french b1c08ws04_sex_a0dcb3a2:
 translate french b1c08ws04_sex_3e26ab4d:
 
     # mc "Theater? You a theater kid?"
-    mc "Théâtre? T'es une enfant du théâtre?"
+    mc "Théâtre? T'es un enfant du théâtre?"
 
 # game/code/Book-1/Chapter-8w/s04.rpy:402
 translate french b1c08ws04_sex_48875995:

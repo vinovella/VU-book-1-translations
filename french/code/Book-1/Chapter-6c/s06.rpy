@@ -506,7 +506,7 @@ translate french b1c06cs06_eac3bf3c:
 translate french b1c06cs06_9ed7b3ea:
 
     # mct "Until you're robbing butcher shops for bones and god knows what else..."
-    mct "Jusqu'à ce que vous soyez en train de cambrioler des boucheries pour des os et dieu sait quoi d'autre..."
+    mct "Jusqu'à ce que vous soyez en train de cambrioler des boucheries pour des coeurs et dieu sait quoi d'autres..."
 
 # game/code/Book-1/Chapter-6c/s06.rpy:358
 translate french b1c06cs06_47ddb78d:
@@ -536,7 +536,7 @@ translate french b1c06cs06_1e8d2c53:
 translate french b1c06cs06_5e00ddee:
 
     # ad "And when you're {i}my{/i} rank, you'll find benefits so sweet, so delicious, it'll rival Eve eating the apple of Eden."
-    ad "Et quand vous serez au {i}mon{/i} rang, vous découvrirez des bienfaits si doux, si délicieux, qu'ils rivaliseront avec Eve mangeant la pomme d'Éden."
+    ad "Et quand vous serez à {i}mon{/i} rang, vous découvrirez des bienfaits si doux, si délicieux, qu'ils rivaliseront avec Eve mangeant la pomme d'Éden."
 
 # game/code/Book-1/Chapter-6c/s06.rpy:374
 translate french b1c06cs06_2894b204:
@@ -596,7 +596,7 @@ translate french b1c06cs06_61101f30:
 translate french b1c06cs06_ed6f65bc:
 
     # nv "Well, not all of it. You get to choose what you're comfortable with sharing, but we are supposed to be vulnerable right out of the gate."
-    nv "Eh bien, pas tout. Vous choisissez ce que vous êtes à l'aise de partager, mais nous sommes censés être vulnérables dès le départ."
+    nv "Eh bien, pas tout. Tu peux choisir ce que tu veux de partager, mais nous sommes censés être vulnérables dès le départ.."
 
 # game/code/Book-1/Chapter-6c/s06.rpy:408
 translate french b1c06cs06_c0f74032:
@@ -1382,7 +1382,7 @@ translate french b1c06cs06_67a43ffa:
 translate french b1c06cs06_9b19589f:
 
     # mc "I don't judge you at all. There's no shame in seeking a better way of life."
-    mc "Je ne vous juge pas du tout. Il n'y a aucune honte à chercher une meilleure façon de vivre."
+    mc "Je ne te juge pas du tout. Il n'y a aucune honte à chercher une meilleure façon de vivre."
 
 # game/code/Book-1/Chapter-6c/s06.rpy:843
 translate french b1c06cs06_576c9a98:

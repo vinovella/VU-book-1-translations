@@ -38,13 +38,13 @@ translate french b1c07ws06_855f3305:
 translate french b1c07ws06_4b8edc03:
 
     # mm "Yeah, sugar tits. Get in here. We need more eye candy."
-    mm "Ouais, ma jolie. Approche. On a besoin de plus de spectacle."
+    mm "Ouais, mon joli. Approche. On a besoin de plus de spectacle."
 
 # game/code/Book-1/Chapter-7w/s06.rpy:64
 translate french b1c07ws06_db30518c:
 
     # sl "*Chuckles* God, you're gonna be a pain in the ass tomorrow."
-    sl "*Rit* Mon dieu, tu vas être un casse-pieds demain."
+    sl "*Rires* Mon Dieu, tu vas être une emmerdeuse demain."
 
 # game/code/Book-1/Chapter-7w/s06.rpy:70
 translate french b1c07ws06_dd533ef0:
@@ -56,13 +56,13 @@ translate french b1c07ws06_dd533ef0:
 translate french b1c07ws06_fa39562b:
 
     # sm "Oh, well aren't you a hot shot now?"
-    sm "Oh, eh bien, tu te la joues, hein?"
+    sm "Oh, eh bien, tu veux la jouer comme ça, hein?"
 
 # game/code/Book-1/Chapter-7w/s06.rpy:76
 translate french b1c07ws06_22f59e75:
 
     # sm "C'mon then. Show us \"amateurs\" what you got."
-    sm "Allez, montre-nous ce que tu as, \"amateur\"."
+    sm "Allez alors. Montre aux "amateurs" ce que tu as"."
 
 # game/code/Book-1/Chapter-7w/s06.rpy:85
 translate french b1c07ws06_d8b3d990:
@@ -98,13 +98,13 @@ translate french b1c07ws06_5d8c19e3:
 translate french b1c07ws06_5c2ac793:
 
     # mm "God damn it! Fuck this shit! Rigged!"
-    mm "Merde! Bordel! Tout est truqué!"
+    mm "Bordel de merde! c'est truqué!"
 
 # game/code/Book-1/Chapter-7w/s06.rpy:109
 translate french b1c07ws06_1ccb62c2:
 
     # sl "Jesus, you both suck ass."
-    sl "Mon dieu, vous êtes tous les deux nuls."
+    sl "Mon dieu, que vous êtes nuls."
 
 # game/code/Book-1/Chapter-7w/s06.rpy:112
 translate french b1c07ws06_82042e0d:
@@ -122,7 +122,7 @@ translate french b1c07ws06_7746dcdc:
 translate french b1c07ws06_e5cff3eb:
 
     # sl "My point stands."
-    sl "Mon point de vue reste valide."
+    sl "Mon point de vue reste le même."
 
 # game/code/Book-1/Chapter-7w/s06.rpy:129
 translate french b1c07ws06_8a0653ed:
@@ -302,13 +302,13 @@ translate french b1c07ws06_c21cf29b:
 translate french b1c07ws06_9a5fe7fa:
 
     # sm "You two are amazing players. But you and her butting heads every time we do something is the exact opposite of helpful."
-    sm "Vous êtes deux joueuses incroyables. Mais le fait que vous vous disputiez à chaque fois qu'on fait quelque chose est exactement l'opposé de ce qui est utile."
+    sm "Vous êtes deux joueurs incroyables. Mais le fait que vous vous disputiez à chaque fois qu'on fait quelque chose est exactement l'opposé de ce qui est utile."
 
 # game/code/Book-1/Chapter-7w/s06.rpy:228
 translate french b1c07ws06_697d4c81:
 
     # sm "At the end of the day, both of you care about the team, so I'm sure we'll pull through. But I'm still a little worried."
-    sm "Au bout du compte, vous vous souciez toutes les deux de l'équipe, donc je suis sûre qu'on s'en sortira. Mais je reste un peu inquiète."
+    sm "Au bout du compte, vous vous souciez tous les deux de l'équipe, donc je suis sûre qu'on s'en sortira. Mais je reste un peu inquiète."
 
 # game/code/Book-1/Chapter-7w/s06.rpy:231
 translate french b1c07ws06_9996e656:
@@ -518,7 +518,7 @@ translate french b1c07ws06_3750b0ef:
 translate french b1c07ws06_f9b9e83e:
 
     # mc "Hey, it's okay. You don't have to talk about this if you don't want to."
-    mc "Hé, c'est d'accord. Tu n'as pas à en parler si tu ne veux pas."
+    mc "Hé, tu n'as pas à en parler si tu ne veux pas."
 
 # game/code/Book-1/Chapter-7w/s06.rpy:337
 translate french b1c07ws06_3ecaf930:
@@ -572,7 +572,7 @@ translate french b1c07ws06_3052ca86:
 translate french b1c07ws06_9e4e66b2:
 
     # sm "I'm really glad you reminded m— Here!"
-    sm "Je suis vraiment contente que tu m'aies rappelé— Tiens!"
+    sm "Je suis vraiment contente que tu me l'aies rappelée— Tiens!"
 
 # game/code/Book-1/Chapter-7w/s06.rpy:389
 translate french b1c07ws06_c0b3fa18:
@@ -596,7 +596,7 @@ translate french b1c07ws06_96216c8a:
 translate french b1c07ws06_87d65211:
 
     # sm "Do it! You already got a repeat customer in me, so..."
-    sm "Vas-y! Tu as déjà une cliente fidèle en moi, alors..."
+    sm "Fais-le! Tu as déjà une cliente fidèle, alors..."
 
 # game/code/Book-1/Chapter-7w/s06.rpy:434
 translate french b1c07ws06_952abbc1:
@@ -614,19 +614,19 @@ translate french b1c07ws06_73bdfdaa:
 translate french b1c07ws06_7b0579db:
 
     # sm "Y'know, depending on how I take that, that could be very creepy."
-    sm "Tu sais, selon comment je le prends, ça pourrait être très étrange."
+    sm "Tu sais, selon comment je les prends, ça pourrait être très étrange."
 
 # game/code/Book-1/Chapter-7w/s06.rpy:441
 translate french b1c07ws06_ed3bdc15:
 
     # mc "Oh? And how exactly are you gonna take it?"
-    mc "Oh? Et comment exactement vas-tu le prendre?"
+    mc "Oh? Et comment exactement vas-tu les prendres?"
 
 # game/code/Book-1/Chapter-7w/s06.rpy:443
 translate french b1c07ws06_95628328:
 
     # "Her eyes mirror yours, momentarily lost in each other's gaze. The heat of her skin wards away the cold night air."
-    "Ses yeux reflètent les tiens, momentanément perdus dans le regard de l'autre. La chaleur de sa peau repousse l'air froid de la nuit."
+    "Ses yeux es reflètent dans les tiens, momentanément perdus dans le regard de l'autre. La chaleur de sa peau repousse l'air froid de la nuit."
 
 # game/code/Book-1/Chapter-7w/s06.rpy:445
 translate french b1c07ws06_2ab21de1:

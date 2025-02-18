@@ -56,7 +56,7 @@ translate french b1c08cs11_e79228af:
 translate french b1c08cs11_65cc3094:
 
     # ih "I need you. Just you."
-    ih "J'ai besoin de toi. Toi seule."
+    ih "J'ai besoin de toi. Toi seul."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:84
 translate french b1c08cs11_7c9c066e:
@@ -86,7 +86,7 @@ translate french b1c08cs11_7ecf3e38:
 translate french b1c08cs11_90b385ba:
 
     # ih "You don't know how long I've wanted you."
-    ih "Tu ne sais pas combien de temps je t'ai désiré."
+    ih "Tu ne sais pas combien de temps je t'ai désirée."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:99
 translate french b1c08cs11_e15fc0c6:
@@ -110,13 +110,13 @@ translate french b1c08cs11_d9b7911f:
 translate french b1c08cs11_bc6fbc01:
 
     # mc "Don't worry, I'll make it unforgettable."
-    mc "Ne vous inquiétez pas, je ferai en sorte que ce soit inoubliable."
+    mc "Ne t'inquiétes pas, je ferai en sorte que ce soit inoubliable."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:117
 translate french b1c08cs11_fc985520:
 
     # "Ivy's moans serenade your ears as you lavish her with your tongue."
-    "Les gémissements d'Ivy font une sérénade à vos oreilles pendant que vous lui prodiguez votre langue."
+    "Les gémissements d'Ivy sont une sérénade à vos oreilles pendant que vous lui prodiguez votre langue."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:119
 translate french b1c08cs11_7bdea064:
@@ -128,7 +128,7 @@ translate french b1c08cs11_7bdea064:
 translate french b1c08cs11_bff2c74e:
 
     # ih "You feel so good."
-    ih "Tu te sens si bien."
+    ih "Tu es si bon."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:136
 translate french b1c08cs11_9e9c87ea:
@@ -176,13 +176,13 @@ translate french b1c08cs11_422ab299:
 translate french b1c08cs11_8ee537aa:
 
     # ih "Fuck yes. Breed me like the filthy whore I am. Fill me up. Make me your good little cumdump."
-    ih "Putain oui. Élevez-moi comme la sale pute que je suis. Remplis-moi. Fais de moi ton bon petit dépotoir."
+    ih "Putain oui. Éleve-moi comme la sale pute que je suis. Remplis-moi. Fais de moi ton petit dépotoir."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:167
 translate french b1c08cs11_01e8e7d9:
 
     # ih "Show me how much you've wanted this too, [mcname]. Make me feel it."
-    ih "Montre-moi à quel point tu voulais ça aussi, [mcname]. Fais-moi le ressentir."
+    ih "Montre-moi à quel point tu voulais ça aussi, [mcname]. Fais-le moi ressentir."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:172
 translate french b1c08cs11_87b7ba46:
@@ -194,7 +194,7 @@ translate french b1c08cs11_87b7ba46:
 translate french b1c08cs11_48f37e91:
 
     # "The sensation is intoxicating—her warmth enveloping you, molding to every inch of you."
-    "La sensation est enivrante : sa chaleur vous enveloppe et épouse chaque centimètre de vous."
+    "La sensation est enivrante, sa chaleur vous enveloppe et épouse chaque centimètre de votre queue."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:176
 translate french b1c08cs11_0283e31c:
@@ -206,19 +206,19 @@ translate french b1c08cs11_0283e31c:
 translate french b1c08cs11_06470ff1:
 
     # mc "Such a dirty little cockslut you are."
-    mc "Tu es une sale petite salope."
+    mc "Tu es une bonne petite salope."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:180
 translate french b1c08cs11_4fd2194d:
 
     # mc "Does it excite you? Us making our own little secret in the middle of this forest?"
-    mc "Ça vous excite? Nous faisons notre propre petit secret au milieu de cette forêt?"
+    mc "Ça t"excite? Nous faisons notre propre petit secret au milieu de cette forêt?"
 
 # game/code/Book-1/Chapter-8c/s11.rpy:181
 translate french b1c08cs11_8cda9839:
 
     # mc "I'm so fucking teased out after getting groped at that ceremony."
-    mc "Je suis tellement énervé après m'être fait peloter lors de cette cérémonie."
+    mc "Je suis tellement éxcité après m'être fait peloter lors de cette cérémonie."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:184
 translate french b1c08cs11_f5a31eba:
@@ -248,7 +248,7 @@ translate french b1c08cs11_47cb92d2:
 translate french b1c08cs11_75bce8da:
 
     # "Each thrust sends a jolt through Ivy's body, her breaths hot and wet against your fingers, her hips meeting yours in a rhythm born of pure, primal need."
-    "Chaque poussée envoie une secousse dans le corps d'Ivy, ses respirations chaudes et humides contre vos doigts, ses hanches rencontrant les vôtres dans un rythme né d'un besoin pur et primal."
+    "Chaque poussée envoie une secousse dans le corps d'Ivy, ses respirations chaudes et humides contre vos doigts, ses hanches rencontrant les vôtres dans un rythme pur et primal."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:201
 translate french b1c08cs11_c3d1e972:
@@ -302,7 +302,7 @@ translate french b1c08cs11_ad67f554:
 translate french b1c08cs11_6ec90f15:
 
     # mc "That's right, take it."
-    mc "C'est vrai, prends-le."
+    mc "C'est vrai, prends-la."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:248
 translate french b1c08cs11_e260e1c2:
@@ -332,7 +332,7 @@ translate french b1c08cs11_bd012710:
 translate french b1c08cs11_dbcef61f:
 
     # ih "I want you to. I want to feel your seed in me days after."
-    ih "Je le veux. Je veux sentir ta semence en moi quelques jours après."
+    ih "Je le veux. Je veux sentir ta sperme en moi quelques jours après."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:266
 translate french b1c08cs11_6ea548bb:
@@ -380,7 +380,7 @@ translate french b1c08cs11_bc4777c3:
 translate french b1c08cs11_1eaa48a2:
 
     # ih "Please, I want you now. Breed me now."
-    ih "S'il te plaît, je te veux maintenant. Élève-moi maintenant."
+    ih "S'il te plaît, je te veux maintenant. Remplie-moi maintenant."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:284
 translate french b1c08cs11_ceb21010:
@@ -392,7 +392,7 @@ translate french b1c08cs11_ceb21010:
 translate french b1c08cs11_def62ed7:
 
     # ih "I want to feel every burning rope of your desire. I want you to coat me inside completely until I'm dripping you, just you."
-    ih "Je veux sentir chaque corde brûlante de ton désir. Je veux que tu m'enrobes complètement jusqu'à ce que je te dégouline, juste toi."
+    ih "Je veux sentir chaque jet brûlant de ton désir. Je veux que tu me remplisses complètement jusqu'à ce que je te dégouline."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:288
 translate french b1c08cs11_1be99ace:
@@ -410,7 +410,7 @@ translate french b1c08cs11_e062b230:
 translate french b1c08cs11_8d7b1c6b:
 
     # "You pull out and face Ivy toward you. Her eyes are beautiful in the moonlight."
-    "Vous vous retirez et faites face à Ivy vers vous. Ses yeux sont magnifiques au clair de lune."
+    "Vous vous retirez et faites face à Ivy. Ses yeux sont magnifiques au clair de lune."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:297
 translate french b1c08cs11_dcac1483:
@@ -452,7 +452,7 @@ translate french b1c08cs11_c30a682c:
 translate french b1c08cs11_fd2d2d05:
 
     # ih "Ah! I'm cumming!"
-    ih "Ah! Je jouis!"
+    ih "Ah! Je jouie!"
 
 # game/code/Book-1/Chapter-8c/s11.rpy:328
 translate french b1c08cs11_69d0dfcd:
@@ -464,7 +464,7 @@ translate french b1c08cs11_69d0dfcd:
 translate french b1c08cs11_418e2ba3:
 
     # "The layered sensation of her warm body pressed against you, milking you so thoroughly—You can't hold back anymore."
-    "La sensation superposée de son corps chaud pressé contre vous, vous traitant si soigneusement: vous ne pouvez plus vous retenir."
+    "La sensation superposée de son corps chaud pressé contre vous, vous traitant si soigneusement, vous ne pouvez plus vous retenir."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:332
 translate french b1c08cs11_80d66ded:
@@ -536,7 +536,7 @@ translate french b1c08cs11_00c81b97:
 translate french b1c08cs11_381e75a4:
 
     # ih "I feel so good and relieved now."
-    ih "Je me sens si bien et soulagé maintenant."
+    ih "Je me sens si bien et soulagée maintenant."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:367
 translate french b1c08cs11_461bf4b2:

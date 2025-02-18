@@ -20,7 +20,7 @@ translate french b1c08ss01_a4a6a958:
 translate french b1c08ss01_f98d2246:
 
     # zp "This is the most fun I've had in a long time."
-    zp "C'est le plus amusant que j'ai eu depuis longtemps."
+    zp "C'est le moment le plus amusant que j'ai eu depuis longtemps."
 
 # game/code/Book-1/Chapter-8s/s01.rpy:61
 translate french b1c08ss01_d7a47df0:
@@ -116,7 +116,7 @@ translate french b1c08ss01_4a86d1f1:
 translate french b1c08ss01_room_67a66066:
 
     # mc "I've gotta admit, you have taste."
-    mc "Je dois admettre, tu as du goût."
+    mc "Waouh, Je dois admettre, tu as du goût."
 
 # game/code/Book-1/Chapter-8s/s01.rpy:135
 translate french b1c08ss01_room_475edba7:
@@ -170,7 +170,7 @@ translate french b1c08ss01_room_a44dd7f0:
 translate french b1c08ss01_room_bfcc22d5:
 
     # zp "But regardless of its edginess, it has unironically helped me through some tough times. So I don't regret it too much."
-    zp "Mais malgré son côté provocateur, ça m'a sincèrement aidée à traverser des moments difficiles. Donc je ne le regrette pas trop."
+    zp "Mais malgré le côté provocateur, ça m'a sincèrement aidée à traverser des moments difficiles. Donc je ne le regrette pas trop."
 
 # game/code/Book-1/Chapter-8s/s01.rpy:164
 translate french b1c08ss01_room_1885cf31:
@@ -182,13 +182,13 @@ translate french b1c08ss01_room_1885cf31:
 translate french b1c08ss01_room_b2a8d681:
 
     # mc "So fuck what anyone else thinks."
-    mc "Alors, fuck ce que pensent les autres."
+    mc "Alors, rien a foutre de ce que pensent les autres."
 
 # game/code/Book-1/Chapter-8s/s01.rpy:170
 translate french b1c08ss01_room_acf029dd:
 
     # zp "You uh, want some music?"
-    zp "Tu, euh, veux un peu de musique?"
+    zp "Tu, euh, veux-tu un peu de musique?"
 
 # game/code/Book-1/Chapter-8s/s01.rpy:171
 translate french b1c08ss01_room_cd61df0f:
@@ -212,7 +212,7 @@ translate french b1c08ss01_room_2425c236:
 translate french b1c08ss01_room_e17831c6:
 
     # mc "—cover up any noise."
-    mc "—à couvrir tout bruit."
+    mc "—à couvrir touts les bruits."
 
 # game/code/Book-1/Chapter-8s/s01.rpy:184
 translate french b1c08ss01_room_bdc6bcea:
@@ -224,7 +224,7 @@ translate french b1c08ss01_room_bdc6bcea:
 translate french b1c08ss01_room_44849109:
 
     # zp "Fuck it. Let them hear."
-    zp "Fuck it. Qu'ils entendent."
+    zp "Et puis merde. Qu'ils l'entendent."
 
 # game/code/Book-1/Chapter-8s/s01.rpy:190
 translate french b1c08ss01_room_4f716ed0:
@@ -248,7 +248,7 @@ translate french b1c08ss01_room_82bc5e25:
 translate french b1c08ss01_room_c2e99a98:
 
     # mc "Hot? Exquisite? Tasty looking?"
-    mc "Sexy? Exquise? Appétissante?"
+    mc "Sexy? Exquis? Appétissant?"
 
 # game/code/Book-1/Chapter-8s/s01.rpy:217
 translate french b1c08ss01_room_e9fd78f1:
@@ -272,7 +272,7 @@ translate french b1c08ss01_room_e62a6779:
 translate french b1c08ss01_room_760b114a:
 
     # zp "And you're so devastatingly handsome between my legs."
-    zp "Et tu es tellement terriblement séduisant entre mes jambes."
+    zp "Et tu es tellement... terriblement séduisant entre mes jambes."
 
 # game/code/Book-1/Chapter-8s/s01.rpy:229
 translate french b1c08ss01_room_7716ca09:
@@ -290,7 +290,7 @@ translate french b1c08ss01_room_466f4cef:
 translate french b1c08ss01_room_9d515e57:
 
     # zp "Well c'mon, I wanna see {i}you{/i} too."
-    zp "Allez, viens, je veux voir {i}toi{/i} aussi."
+    zp "Allez, viens, je veux {i}te{/i} voir aussi."
 
 # game/code/Book-1/Chapter-8s/s01.rpy:237
 translate french b1c08ss01_room_08ddc746:
@@ -320,7 +320,7 @@ translate french b1c08ss01_room_d77017c4:
 translate french b1c08ss01_room_258cf02b:
 
     # "Zemfira's greediness for your touch outweighs her naturally thin patience. She pushes your tongue straight against her pussy."
-    "L'avidité de Zemfira pour ton contact dépasse sa patience naturellement limitée. Elle presse ta langue directement contre son intimité."
+    "L'avidité de Zemfira pour ton contact dépasse sa patience naturellement limitée. Elle attrape ta tête et presse ta langue directement contre sa chatte."
 
 # game/code/Book-1/Chapter-8s/s01.rpy:257
 translate french b1c08ss01_room_e98ad493:
@@ -344,7 +344,7 @@ translate french b1c08ss01_room_cbf334a4:
 translate french b1c08ss01_room_0fc7051b:
 
     # zp "Fuck it. I want you, I want this."
-    zp "Fuck it. Je te veux, je veux ça."
+    zp "Merde non!!. Je te veux, je veux ça."
 
 # game/code/Book-1/Chapter-8s/s01.rpy:272
 translate french b1c08ss01_room_e755559c:
@@ -356,7 +356,7 @@ translate french b1c08ss01_room_e755559c:
 translate french b1c08ss01_room_faad7872:
 
     # zp "Mmph, you feel so good. I can't wait to feel you inside—"
-    zp "Mmph, tu te sens tellement bien. J'ai hâte de te sentir en moi—"
+    zp "Mmph, tu es tellement doué. J'ai hâte de te sentir en moi—"
 
 # game/code/Book-1/Chapter-8s/s01.rpy:279
 translate french b1c08ss01_room_eceb6dd6:
@@ -368,13 +368,13 @@ translate french b1c08ss01_room_eceb6dd6:
 translate french b1c08ss01_room_4bd0675d:
 
     # zp "{i}{b}What?{/b}{/i}"
-    zp "{i}{b}Quoi?{/b}{/i}"
+    zp "{i}{b}QUOI?{/b}{/i}"
 
 # game/code/Book-1/Chapter-8s/s01.rpy:289
 translate french b1c08ss01_room_31bb7acf:
 
     # "You allow her the concentration to focus on her call without eating her out."
-    "Tu lui laisses la concentration pour se concentrer sur son appel sans la lécher."
+    "Tu lui laisses se concentrer sur son appel sans la lécher."
 
 # game/code/Book-1/Chapter-8s/s01.rpy:291
 translate french b1c08ss01_room_44cb80e6:
@@ -434,19 +434,19 @@ translate french b1c08ss01_room_827af810:
 translate french b1c08ss01_room_e4afb5d8:
 
     # mc "Shit. I saw those three bickering with Cade last night outside the bar."
-    mc "Merde. J'ai vu ces trois se disputer avec Cade hier soir devant le bar."
+    mc "Merde. J'ai vu les trois se disputer avec Cade hier soir devant le bar."
 
 # game/code/Book-1/Chapter-8s/s01.rpy:323
 translate french b1c08ss01_room_77aab06d:
 
     # zp "You did?"
-    zp "Tu l'as fait?"
+    zp "Tu les as vues?"
 
 # game/code/Book-1/Chapter-8s/s01.rpy:325
 translate french b1c08ss01_room_1b9f165e:
 
     # mc "They all got in safely, but Cade doesn't seem like the type to take a hint. He said he'd make Sabrina pay."
-    mc "Ils sont tous entrés sans problème, mais Cade ne semble pas du genre à saisir un indice. Il a dit qu'il ferait payer Sabrina."
+    mc "Ils sont tous entrés sans problème, mais Cade ne semble pas être du genre à comprendre. Il a dit qu'il ferait payer Sabrina."
 
 # game/code/Book-1/Chapter-8s/s01.rpy:328
 translate french b1c08ss01_room_4555c4dd:
@@ -476,5 +476,5 @@ translate french b1c08ss01_room_ae3d6e2f:
 translate french b1c08ss01_room_79e448f6:
 
     # "It seems to be the only words she can choke out with her intense emotions."
-    "Ce semblent être les seuls mots qu'elle peut sortir avec ses émotions intenses."
+    "Cela semble être les seuls mots qu'elle peut étouffer avec ses émotions intenses."
 
