@@ -92,7 +92,7 @@ translate french b1c07ws09_bj_9073ddee:
 translate french b1c07ws09_bj_2f75a909:
 
     # "The second you grab her, Sam stiffens up in your hands. But as you push her against the door, her body relaxes."
-    "Dès que tu la saisies, Sam se tend dans tes mains. Mais lorsque tu la pousses contre la porte, son corps se détend."
+    "Dès que tu la saisies, Sam se tend dans tes bras. Mais lorsque tu la pousses contre la porte, son corps se détend."
 
 # game/code/Book-1/Chapter-7w/s09.rpy:115
 translate french b1c07ws09_bj_88ff8a6a:
@@ -134,7 +134,7 @@ translate french b1c07ws09_bj_f3757b53:
 translate french b1c07ws09_bj_8ed63a9e:
 
     # mc "Don't tell me that you can only dish it out, Sweetheart."
-    mc "Ne me dis pas que tu sais seulement donner, chérie."
+    mc "Ne me dis pas que tu es la seule àdonner, chérie."
 
 # game/code/Book-1/Chapter-7w/s09.rpy:135
 translate french b1c07ws09_bj_61e4ac18:
@@ -170,7 +170,7 @@ translate french b1c07ws09_bj_86e3ce42:
 translate french b1c07ws09_bj_9fd1ec99:
 
     # sdl "First step. I want to see your cock."
-    sdl "Première étape. Je veux voir ton sexe."
+    sdl "Première étape. Je veux voir ta bite."
 
 # game/code/Book-1/Chapter-7w/s09.rpy:155
 translate french b1c07ws09_bj_ae3af2f2:
@@ -188,7 +188,7 @@ translate french b1c07ws09_bj_678039f3:
 translate french b1c07ws09_bj_8c60ee42:
 
     # "Sam gazes at your cock in awe for a second and then smiles mischievously."
-    "Sam regarde ton sexe avec admiration pendant une seconde, puis sourit malicieusement."
+    "Sam regarde ta queue avec admiration pendant une seconde, puis sourit malicieusement."
 
 # game/code/Book-1/Chapter-7w/s09.rpy:163
 translate french b1c07ws09_bj_1737c53a:
@@ -206,7 +206,7 @@ translate french b1c07ws09_bj_ec461fba:
 translate french b1c07ws09_bj_fadff0d7:
 
     # "After looking like she was about to swat a fly, she baps the very tip of your dick with her hand. Not hard enough to hurt, but hard enough to get your attention."
-    "Après avoir semblé vouloir chasser une mouche, elle frappe le bout de ton sexe avec sa main. Pas assez fort pour faire mal, mais suffisamment pour attirer ton attention."
+    "Après avoir semblé vouloir chasser une mouche, elle frappe le bout de ta bite avec sa main. Pas assez fort pour faire mal, mais suffisamment pour attirer ton attention."
 
 # game/code/Book-1/Chapter-7w/s09.rpy:177
 translate french b1c07ws09_bj_8699ef4d:
@@ -224,19 +224,19 @@ translate french b1c07ws09_bj_54a5c025:
 translate french b1c07ws09_bj_dbe58da7:
 
     # mc "No... I— Just gently touch it."
-    mc "Non... Je— Juste touche-le doucement."
+    mc "Non... Je— Juste touche-la doucement."
 
 # game/code/Book-1/Chapter-7w/s09.rpy:185
 translate french b1c07ws09_bj_5f450667:
 
     # "Sam hesitantly puts a finger to your shaft, slowly gliding it up and getting more confident as she sees the reaction she elicits from your cock."
-    "Sam pose hésitante un doigt sur ton sexe, le glissant lentement vers le haut, gagnant en confiance en voyant la réaction qu'elle provoque sur ton sexe."
+    "Sam hésitante pose un doigt sur ton sexe, le glissant lentement vers le haut, gagnant en confiance en voyant la réaction qu'elle provoque sur ta bite."
 
 # game/code/Book-1/Chapter-7w/s09.rpy:188
 translate french b1c07ws09_bj_2e660352:
 
     # sdl "I should get you more comfortable. Would you like that?"
-    sdl "Je devrais te rendre plus à l'aise. Tu voudrais ça?"
+    sdl "Je devrais te mettre plus à l'aise. Aimerais-tu ça ??"
 
 # game/code/Book-1/Chapter-7w/s09.rpy:191
 translate french b1c07ws09_bj_a7858dbb:
@@ -266,7 +266,7 @@ translate french b1c07ws09_bj_c0ebe25d:
 translate french b1c07ws09_bj_4c8acffd:
 
     # "She plants a soft and gentle kiss on your inner thigh. It sends shivers through your body."
-    "Elle dépose un baiser doux et léger sur ton intérieur de cuisse. Cela envoie des frissons à travers ton corps."
+    "Elle dépose un baiser doux et léger sur l'intérieur de la cuisse. Cela envoie des frissons à travers ton corps."
 
 # game/code/Book-1/Chapter-7w/s09.rpy:204
 translate french b1c07ws09_bj_23792856:
@@ -278,7 +278,7 @@ translate french b1c07ws09_bj_23792856:
 translate french b1c07ws09_bj_336f9482:
 
     # "Sam moves away from you, her hips swaying provocatively as she crawls across the floor."
-    "Sam s'éloigne de toi, ses hanches se balançant de manière provocante alors qu'elle rampe sur le sol."
+    "Sam s'éloigne de toi, ses hanches se balançant de manière provocante alors qu'elle est a 4 pattes sur le sol."
 
 # game/code/Book-1/Chapter-7w/s09.rpy:209
 translate french b1c07ws09_bj_f452f774:
@@ -290,7 +290,7 @@ translate french b1c07ws09_bj_f452f774:
 translate french b1c07ws09_bj_0c887a9a:
 
     # "You can't help but admire her curves and how they move...less than gracefully with each sway."
-    "Tu ne peux t'empêcher d'admirer ses courbes et comment elles bougent... moins gracieusement à chaque balancement."
+    "Tu ne peux pas t'empêcher d'admirer ses courbes et la façon dont elles bougent... avec moins de grâce à chaque balancement.."
 
 # game/code/Book-1/Chapter-7w/s09.rpy:212
 translate french b1c07ws09_bj_bd710938:
@@ -326,7 +326,7 @@ translate french b1c07ws09_bj_66da2971:
 translate french b1c07ws09_bj_9dbe3665:
 
     # "Your dick twitches at the naked Sam."
-    "Ton sexe tressaillit en voyant Sam nue."
+    "Ta queue tressaillit en voyant Sam nue."
 
 # game/code/Book-1/Chapter-7w/s09.rpy:238
 translate french b1c07ws09_bj_74c74d07:
@@ -350,19 +350,19 @@ translate french b1c07ws09_bj_26a4ff5a:
 translate french b1c07ws09_bj_ae11d553:
 
     # "She seems awkward and inexperienced, but her willingness to plow on through regardless turns you on."
-    "Elle semble maladroite et inexpérimentée, mais sa volonté de continuer malgré tout t'excite."
+    "Elle semble maladroite et inexpérimentée, mais sa volontée de continuer malgré tout t'excite."
 
 # game/code/Book-1/Chapter-7w/s09.rpy:252
 translate french b1c07ws09_bj_d2c4b676:
 
     # sdl "I love an honest cock."
-    sdl "J'aime un sexe honnête."
+    sdl "J'aime une bite honnête."
 
 # game/code/Book-1/Chapter-7w/s09.rpy:254
 translate french b1c07ws09_bj_51a87e8f:
 
     # sdl "Do you want to shove that fat dick down my throat, Stud?"
-    sdl "Tu veux enfoncer ce gros sexe dans ma gorge, beau gosse?"
+    sdl "Tu veux enfoncer cette grossse queue dans ma gorge, beau gosse?"
 
 # game/code/Book-1/Chapter-7w/s09.rpy:257
 translate french b1c07ws09_bj_ea9564e1:
@@ -422,7 +422,7 @@ translate french b1c07ws09_bj_1a141807:
 translate french b1c07ws09_bj_ba5e0c4b:
 
     # "You spank her, lightly, eliciting a pleasurable moan on your cock as she has your cock wrapped around her wet mouth."
-    "Vous lui donnez une légère fessée, provoquant un gémissement agréable sur votre bite alors qu'elle a votre bite enroulée autour de sa bouche humide."
+    "Vous lui donnez une légère fessée, provoquant un gémissement agréable sur votre bite alors qu'elle a sa bouche humide enroulée autour votre bite ."
 
 # game/code/Book-1/Chapter-7w/s09.rpy:305
 translate french b1c07ws09_bj_b8786b27:
@@ -452,7 +452,7 @@ translate french b1c07ws09_bj_346d6fad:
 translate french b1c07ws09_bj_7a3b90a3:
 
     # "You can feel Sam's walls tighten around your fingers and your cock as you continue to thrust, steadily increasing the intensity of the sensation."
-    "Vous pouvez sentir les parois de Sam se resserrer autour de vos doigts et de votre queue alors que vous continuez à pousser, augmentant régulièrement l'intensité de la sensation."
+    "Vous pouvez sentir les paroies de Sam se resserrer autour de vos doigts et de votre queue alors que vous continuez à pousser, augmentant régulièrement l'intensité de la sensation."
 
 # game/code/Book-1/Chapter-7w/s09.rpy:334
 translate french b1c07ws09_bj_874cc50d:
@@ -476,7 +476,7 @@ translate french b1c07ws09_bj_69fbcff6:
 translate french b1c07ws09_bj_9b772f3a:
 
     # "She clumsily gulps it all down, leaking from the sides of her mouth as she desperately tries to swallow all of it while licking and sucking your now softening shaft."
-    "Elle avale tout maladroitement, s'écoulant des côtés de sa bouche alors qu'elle essaie désespérément de tout avaler tout en léchant et en suçant ta tige maintenant ramollie."
+    "Elle avale tout maladroitement, s'écoulant des côtés de sa bouche alors qu'elle essaie désespérément de tout avaler tout en léchant et en suçant ta bite maintenant ramollie."
 
 # game/code/Book-1/Chapter-7w/s09.rpy:353
 translate french b1c07ws09_bj_79f2cacc:
@@ -494,7 +494,7 @@ translate french b1c07ws09_bj_4449fd5f:
 translate french b1c07ws09_bj_7decb5fd:
 
     # sdl "*Shivers* Ugh, I never expected it to taste like that..."
-    sdl "*Frissons* Ugh, je ne m'attendais pas à ce que ça ait un goût pareil..."
+    sdl "*Frissons* Ugh, je n'avais jamais prevue que ça aurai un goût pareil..."
 
 # game/code/Book-1/Chapter-7w/s09.rpy:369
 translate french b1c07ws09_bj_1a05e457:
@@ -548,7 +548,7 @@ translate french b1c07ws09_bj_889951eb:
 translate french b1c07ws09_talk_40fc4f72:
 
     # sdl "The main reason I was happy to see you was because I wanted to congratulate you on the success during practice."
-    sdl "La principale raison pour laquelle j'étais heureux de vous voir était parce que je voulais vous féliciter pour votre succès lors de l'entraînement."
+    sdl "La principale raison pour laquelle j'étais heureux de te voir était parce que je voulais te féliciter pour ton succès lors de l'entraînement."
 
 # game/code/Book-1/Chapter-7w/s09.rpy:419
 translate french b1c07ws09_talk_8216003f:
@@ -566,7 +566,7 @@ translate french b1c07ws09_talk_8ad12ee5:
 translate french b1c07ws09_talk_307d7e6e:
 
     # sdl "Regardless. You more than adequately showed your prowess with how you handled that. Uh, good job."
-    sdl "Peu importe. Vous avez montré de manière plus que adéquate vos prouesses avec la façon dont vous avez géré cela. Euh, bon travail."
+    sdl "Peu importe. Tu as montré de manière plus que adéquate tes prouesses avec la façon dont tu as géré cela. Euh, bon travail."
 
 # game/code/Book-1/Chapter-7w/s09.rpy:429
 translate french b1c07ws09_talk_6a077ba7:
@@ -614,13 +614,13 @@ translate french b1c07ws09_talk_ca77a3bc:
 translate french b1c07ws09_talk_e2cfaa11:
 
     # sdl "I couldn't share all my secrets now, could I?"
-    sdl "Je ne pouvais pas partager tous mes secrets maintenant, n'est-ce pas?"
+    sdl "Je ne peux pas partager tous mes secrets maintenant, n'est-ce pas?"
 
 # game/code/Book-1/Chapter-7w/s09.rpy:449
 translate french b1c07ws09_talk_8f05b65f:
 
     # sdl "If you continue being so..."
-    sdl "Si tu continues à l'être..."
+    sdl "Si tu continues à être..."
 
 # game/code/Book-1/Chapter-7w/s09.rpy:452
 translate french b1c07ws09_talk_58644b30:
@@ -668,7 +668,7 @@ translate french b1c07ws09_talk_f85070c7:
 translate french b1c07ws09_talk_040edd22:
 
     # sdl "Speaking of her... Keep an eye on that one."
-    sdl "En parlant d'elle... Gardez un œil sur celle-là."
+    sdl "En parlant d'elle... Garde un œil sur celle-là."
 
 # game/code/Book-1/Chapter-7w/s09.rpy:466
 translate french b1c07ws09_talk_2876efd9:
@@ -680,7 +680,7 @@ translate french b1c07ws09_talk_2876efd9:
 translate french b1c07ws09_talk_ae4b9aac:
 
     # sdl "She always seemed...shifty."
-    sdl "Elle a toujours semblé... sournoise."
+    sdl "Elle a toujours semblée... sournoise."
 
 # game/code/Book-1/Chapter-7w/s09.rpy:471
 translate french b1c07ws09_talk_b228cafd:
@@ -710,7 +710,7 @@ translate french b1c07ws09_talk_9859cd4b:
 translate french b1c07ws09_talk_ce58cfa1:
 
     # sdl "Having seen your performance compared to her, you would definitely take her position, and maybe even the captain title!"
-    sdl "Après avoir vu votre performance par rapport à elle, vous prendriez certainement sa position, et peut-être même le titre de capitaine!"
+    sdl "Après avoir vu ta performance par rapport à elle, tu prendras certainement sa position, et peut-être même le titre de capitaine!"
 
 # game/code/Book-1/Chapter-7w/s09.rpy:482
 translate french b1c07ws09_talk_c0093e7f:
