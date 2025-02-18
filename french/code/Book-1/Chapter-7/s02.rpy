@@ -32,7 +32,7 @@ translate french b1c07s02_dd9db4fa:
 translate french b1c07s02_fe0443e4:
 
     # mct "Josie texted me saying she set up our little bouldering this week, so the extra sleep would be nice."
-    mct "Josie m'a envoyé un message disant qu'elle avait organisé notre petite séance de bloc cette semaine, donc un peu de sommeil en plus serait bien."
+    mct "Josie m'a envoyé un message disant qu'elle avait organisé notre petite séance de bloc cette semaine, donc un peu de sommeil en plus ferai le plus grand bien."
 
 # game/code/Book-1/Chapter-7/s02.rpy:47
 translate french b1c07s02_b0d7e02c:
@@ -68,7 +68,7 @@ translate french b1c07s02_099dda0f:
 translate french b1c07s02_a5a05507:
 
     # dm "So I {i}was{/i} intruding on something?"
-    dm "Donc, j'{i}interromps{/i} quelque chose?"
+    dm "Donc, j'{i}interromps donc{/i} quelque chose?"
 
 # game/code/Book-1/Chapter-7/s02.rpy:87
 translate french b1c07s02_717bc753:
@@ -80,7 +80,7 @@ translate french b1c07s02_717bc753:
 translate french b1c07s02_a30fc8d6:
 
     # dm "And what exactly am I thinking of?"
-    dm "Et qu'est-ce que je suis censée penser exactement?"
+    dm "Et qu'est-ce que je suis censée imaginée exactement?"
 
 # game/code/Book-1/Chapter-7/s02.rpy:93
 translate french b1c07s02_ce2916c8:
@@ -92,13 +92,13 @@ translate french b1c07s02_ce2916c8:
 translate french b1c07s02_cf5228be:
 
     # dm "*Chuckles* Straight to business as always."
-    dm "*Rit* Directement au but comme toujours."
+    dm "*Rit* Droit au but comme toujours."
 
 # game/code/Book-1/Chapter-7/s02.rpy:97
 translate french b1c07s02_2b167699:
 
     # dm "I came by to see if you were free tonight to go get something to drink."
-    dm "Je suis passée voir si tu étais libre ce soir pour aller boire quelque chose."
+    dm "Je suis passée voir si tu étais libre ce soir pour aller boire un verre?."
 
 # game/code/Book-1/Chapter-7/s02.rpy:100
 translate french b1c07s02_e927265b:
@@ -344,7 +344,7 @@ translate french b1c07s02_hj_8da8561e:
 translate french b1c07s02_hj_565d1ed0:
 
     # "Your touch elicits an unrestrained moan of pleasure from Diana as she pushes her body further into yours."
-    "Votre contact provoque un gémissement de plaisir effréné de la part de Diana alors qu'elle pousse son corps plus loin dans le vôtre."
+    "Votre contact provoque un gémissement de plaisir effréné de la part de Diana alors qu'elle pousse son corps plus loin sûr le vôtre."
 
 # game/code/Book-1/Chapter-7/s02.rpy:290
 translate french b1c07s02_hj_eb783248:
@@ -368,19 +368,19 @@ translate french b1c07s02_hj_17fbced7:
 translate french b1c07s02_hj_761bc9b8:
 
     # "Diana parts her legs further as you run your hand up her thigh, meeting her damp, silken panties."
-    "Diana écarte davantage ses jambes pendant que vous passez votre main sur sa cuisse, rencontrant sa culotte humide et soyeuse."
+    "Diana écarte davantage ses jambes pendant que vous passez votre main sur sa cuisse, rencontrant sa culotte soyeuse et humide."
 
 # game/code/Book-1/Chapter-7/s02.rpy:298
 translate french b1c07s02_hj_45f7aecd:
 
     # "You slowly run your hand over her warmth, teasing her wet folds and reveling in the feeling of her body aching for your touch."
-    "Vous passez lentement votre main sur sa chaleur, taquinant ses plis humides et vous délectant de la sensation de son corps qui a envie de votre contact."
+    "Vous passez lentement votre main sur sa chatte, taquinant ses lèvres humides et en vous délectant de la sensation de son corps qui a envie de votre contact."
 
 # game/code/Book-1/Chapter-7/s02.rpy:301
 translate french b1c07s02_hj_538918b3:
 
     # "Diana's breath staggers hard and she swallows deeply the moment your fingers enter her."
-    "La respiration de Diana est difficile et elle déglutit profondément au moment où vos doigts la pénètrent."
+    "La respiration de Diana est difficile, elle déglutit profondément au moment où vos doigts la pénètre."
 
 # game/code/Book-1/Chapter-7/s02.rpy:315
 translate french b1c07s02_hj_79031e8f:
@@ -434,19 +434,19 @@ translate french b1c07s02_hj_490d19d5:
 translate french b1c07s02_hj_ce072457:
 
     # "Try as you might, you can't hold back any longer. With one final stroke, Diana coaxes out your orgasm while you do the same to her."
-    "Essayez autant que vous pouvez, vous ne pouvez plus vous retenir. D'un dernier coup, Diana provoque votre orgasme pendant que vous lui faites de même."
+    "Vous essayez autant que vous pouvez, vous ne pouvez plus vous retenir. D'un dernier coup, Diana provoque votre orgasme pendant que vous lui faites de même."
 
 # game/code/Book-1/Chapter-7/s02.rpy:360
 translate french b1c07s02_hj_2e4d9b64:
 
     # "You both lay there in orgasmic delight, you holding her and her you."
-    "Vous êtes tous les deux allongés là dans un plaisir orgasmique, vous la tenant dans vos bras et elle vous."
+    "Vous êtes tous les deux allongés là dans un plaisir orgasmique, vous la tenant dans vos bras et elle contre vous."
 
 # game/code/Book-1/Chapter-7/s02.rpy:361
 translate french b1c07s02_hj_48cee9ce:
 
     # "In that moment, there is nothing else but you and her. Her warmth the solitary reprieve from the cold, inky void of the night."
-    "À ce moment-là, il n'y a rien d'autre que toi et elle. Sa chaleur est le répit solitaire du vide froid et d'encre de la nuit."
+    "À ce moment-là, il n'y a rien d'autre que toi et elle. Sa chaleur est le répit solitaire du vide froid de la nuit."
 
 # game/code/Book-1/Chapter-7/s02.rpy:364
 translate french b1c07s02_hj_d4ed4f9f:
@@ -476,7 +476,7 @@ translate french b1c07s02_hj_39d46d30:
 translate french b1c07s02_hj_a07b121c:
 
     # dm "Waste not, want not, right?"
-    dm "Ne gaspillez pas, ne voulez pas, n'est-ce pas?"
+    dm "Ne gaspillez pas, tu n'en voulez pas, n'est-ce pas?"
 
 translate french strings:
 
