@@ -14,7 +14,7 @@ translate french b1c07ss10_c1800c92:
 translate french b1c07ss10_dd9390ca:
 
     # mg "Sure. Yeah, that sounds nice."
-    mg "Bien sûr. Ouais, ça a l'air sympa."
+    mg "Ouais, ça serai sympa."
 
 # game/code/Book-1/Chapter-7s/s10.rpy:31
 translate french b1c07ss10_6f18ca84:
@@ -110,7 +110,7 @@ translate french b1c07ss10_c5f1181a:
 translate french b1c07ss10_1bf60051:
 
     # mc "Of course."
-    mc "Bien sûr."
+    mc "Oui une petite branlée."
 
 # game/code/Book-1/Chapter-7s/s10.rpy:76
 translate french b1c07ss10_c16a46f5:
@@ -122,7 +122,7 @@ translate french b1c07ss10_c16a46f5:
 translate french b1c07ss10_c5a996f9:
 
     # mc "I think you should talk to Rory about it."
-    mc "Je pense que tu devrais en parler à Rory."
+    mc "Pas vraiment mais je pense que tu devrais en parler à Rory."
 
 # game/code/Book-1/Chapter-7s/s10.rpy:82
 translate french b1c07ss10_fc7acb99:
@@ -182,7 +182,7 @@ translate french b1c07ss10_5a3ee729:
 translate french b1c07ss10_602e39b4:
 
     # mg "I'm fine, Rid. Scout's honor."
-    mg "Ça va, Rid. L'honneur de scout."
+    mg "Ça va, Rid. Parole de scout."
 
 # game/code/Book-1/Chapter-7s/s10.rpy:116
 translate french b1c07ss10_dcc64699:
@@ -266,13 +266,13 @@ translate french b1c07ss10_continue_a3e955e6:
 translate french b1c07ss10_continue_fde2d9e1:
 
     # mg "Listen, I know we talked about you helping with my debt, but...I get it if you back out. Like, it's not your responsibility."
-    mg "Écoute, je sais qu'on a parlé de toi pour m'aider avec ma dette, mais... je comprends si tu te retires. Ce n'est pas ta responsabilité."
+    mg "Écoute, je sais qu'on a parlé pour que tu m'aides avec ma dette, mais... je comprendrai si tu te retires. Ce n'est pas de ta responsabilité."
 
 # game/code/Book-1/Chapter-7s/s10.rpy:164
 translate french b1c07ss10_continue_f2543f18:
 
     # mg "It's mine."
-    mg "C'est à moi."
+    mg "C'est la mienne."
 
 # game/code/Book-1/Chapter-7s/s10.rpy:167
 translate french b1c07ss10_continue_850b8399:
@@ -314,7 +314,7 @@ translate french b1c07ss10_continue_615e67b3:
 translate french b1c07ss10_continue_080240d4:
 
     # mc "And I want to help you, too. I consider you a friend. But ya gotta let me in."
-    mc "Et je veux t'aider aussi. Je te considère comme un ami. Mais tu dois me laisser entrer."
+    mc "Et je veux t'aider aussi. Je te considère comme une amie. Mais tu dois me laisser entrer."
 
 # game/code/Book-1/Chapter-7s/s10.rpy:183
 translate french b1c07ss10_continue_23abddef:
@@ -326,7 +326,7 @@ translate french b1c07ss10_continue_23abddef:
 translate french b1c07ss10_continue_de3c1b34:
 
     # mc "So, how can I help? You mentioned the debt. How do we pay it down?"
-    mc "Alors, comment puis-je aider? Tu as parlé de la dette. Comment la remboursons-nous?"
+    mc "Alors, comment puis-je aider? Tu as parlée de la dette. Comment la remboursons-nous?"
 
 # game/code/Book-1/Chapter-7s/s10.rpy:189
 translate french b1c07ss10_continue_8cb9f606:
@@ -374,7 +374,7 @@ translate french b1c07ss10_continue_029315e7:
 translate french b1c07ss10_continue_b06307cd:
 
     # mg "I'm sure you do, pretty boy."
-    mg "Je suis sûr que tu le fais, joli garçon."
+    mg "Je suis sûr que oui, joli garçon."
 
 # game/code/Book-1/Chapter-7s/s10.rpy:211
 translate french b1c07ss10_continue_4b2ebcc5:
@@ -560,7 +560,7 @@ translate french b1c07ss10_choice_d34fcbc3:
 translate french b1c07ss10_choice_984e3b8f:
 
     # mc "You chose perseverance, and there's nothing criminal about that."
-    mc "Tu as choisi la persévérance, et il n'y a rien de criminel là-dedans."
+    mc "Tu as choisie la persévérance, et il n'y a rien de criminel là-dedans."
 
 # game/code/Book-1/Chapter-7s/s10.rpy:301
 translate french b1c07ss10_choice_f4d8ae9c:
@@ -620,7 +620,7 @@ translate french b1c07ss10_choice_8b9a2bb8:
 translate french b1c07ss10_choice_e16155b8:
 
     # mg "Besides, I should get back down to the fight ring and help clean up. I try to help out when I can."
-    mg "De toute façon, je devrais retourner dans le ring de combat et aider à nettoyer. J'essaie d'aider quand je peux."
+    mg "De toute façon, je devrais retourner dans la cage de combat et aider à nettoyer. J'essaie d'aider quand je peux."
 
 # game/code/Book-1/Chapter-7s/s10.rpy:330
 translate french b1c07ss10_choice_1042cd01:
@@ -632,7 +632,7 @@ translate french b1c07ss10_choice_1042cd01:
 translate french b1c07ss10_choice_4337cf7a:
 
     # mc "Of course. Call on me whenever you need me. I'll be there."
-    mc "Bien sûr. Appelle-moi quand tu as besoin de moi. Je serai là."
+    mc "Pas de probleme. Appelle-moi quand tu as besoin de moi. Je serai là."
 
 # game/code/Book-1/Chapter-7s/s10.rpy:336
 translate french b1c07ss10_choice_683a2ccc:
