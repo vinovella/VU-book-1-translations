@@ -32,7 +32,7 @@ translate french b1c08ss05_8b06cf8c:
 translate french b1c08ss05_b6cbb88a:
 
     # xv "Just a little surprise for The Wasps. Nothing you need to worry about."
-    xv "Juste une petite surprise pour les Wasps. Rien dont vous ayez à vous soucier."
+    xv "Juste une petite surprise pour les Guêpes. Rien dont vous ayez à vous soucier."
 
 # game/code/Book-1/Chapter-8s/s05.rpy:75
 translate french b1c08ss05_1f76a104:
@@ -152,7 +152,7 @@ translate french b1c08ss05_ebaba262:
 translate french b1c08ss05_6c28b02c:
 
     # mct "The \"little surprise\" he's got for The Wasps is a fucking bomb?! Is this the lesson we're going to teach them?"
-    mct "La \"petite surprise\" qu'il a pour les Wasps, c'est une foutue bombe?! C'est la leçon qu'on veut leur donner?"
+    mct "La \"petite surprise\" qu'il a pour les Guêpes, c'est une foutue bombe?! C'est la leçon qu'on veut leur donner?"
 
 # game/code/Book-1/Chapter-8s/s05.rpy:148
 translate french b1c08ss05_a09f730b:
@@ -176,7 +176,7 @@ translate french b1c08ss05_a9ef87ec:
 translate french b1c08ss05_a83faae5:
 
     # mc "You're doing great, Foxy. Just remember to stay focused and keep an eye on the surroundings for rocks in the water or floating logs."
-    mc "Tu t'en sors très bien, Foxy. N'oublie pas de rester concentré(e) et de surveiller les alentours pour repérer les rochers dans l'eau ou les troncs flottants."
+    mc "Tu t'en sors très bien, Foxy. N'oublie pas de rester concentrée et de surveiller les alentours pour repérer les rochers dans l'eau ou les troncs flottants."
 
 # game/code/Book-1/Chapter-8s/s05.rpy:158
 translate french b1c08ss05_11dc7b55:
@@ -248,7 +248,7 @@ translate french b1c08ss05_9bbfd1d4:
 translate french b1c08ss05_e9e6a3b7:
 
     # zp "It's not in the cards. Our priority is Q and the girls' safety. We'll handle whatever comes our way. That's just...a backup plan."
-    zp "Ce n'est pas une option. Notre priorité est Q et la sécurité des filles. Nous gérerons tout ce qui se présentera. C'est juste...un plan de secours."
+    zp "Ce n'est pas une option. Notre priorité est la sécurité de Q et des filles. Nous gérerons tout ce qui se présentera. C'est juste...un plan de secours."
 
 # game/code/Book-1/Chapter-8s/s05.rpy:195
 translate french b1c08ss05_977aa9e6:
@@ -320,7 +320,7 @@ translate french b1c08ss05_22788543:
 translate french b1c08ss05_e2206461:
 
     # xv "It doesn't matter. I have no doubt in the skills you girls have, but {i}he{/i} hasn't been around long enough to trust. He's lucky to even drive the boat."
-    xv "Peu importe. Je n'ai aucun doute sur les compétences que vous avez, mais {i}lui{/i} n'est pas assez présent pour qu'on lui fasse confiance. Il a de la chance de conduire même le bateau."
+    xv "Peu importe. Je n'ai aucun doute sur les compétences que vous avez, mais {i}lui{/i} n'est pas assez présent pour qu'on lui fasse confiance. Il a dèjà de la chance de conduire le bateau."
 
 # game/code/Book-1/Chapter-8s/s05.rpy:230
 translate french b1c08ss05_a5eb27fb:
@@ -392,13 +392,13 @@ translate french b1c08ss05_5db30b43:
 translate french b1c08ss05_68ffbafc:
 
     # ass "Are you shitfucking me? He's proven himself time and again. He's trustworthy, willing, and able. If we can't trust him now, then when can we?"
-    ass "Tu te fous de ma gueule? Il a prouvé sa valeur à maintes reprises. Il est digne de confiance, prêt, et capable. Si on ne peut pas lui faire confiance maintenant, alors quand pourra-t-on?"
+    ass "Tu te fous de ma gueule? Il a prouvé sa valeur à maintes reprises. Il est digne de confiance, prêt et capable. Si on ne peut pas lui faire confiance maintenant, alors quand pourra-t-on?"
 
 # game/code/Book-1/Chapter-8s/s05.rpy:256
 translate french b1c08ss05_5d5873ef:
 
     # ass "We're tits deep in trouble and he's done nothing but be helpful!"
-    ass "On est jusqu'aux oreilles dans la merde et il n'a fait que nous être utile!"
+    ass "On est dans la merde jusqu'aux oreilles et il n'a fait que nous être utile!"
 
 # game/code/Book-1/Chapter-8s/s05.rpy:259
 translate french b1c08ss05_d5e8597e:
@@ -416,13 +416,13 @@ translate french b1c08ss05_666c5bfb:
 translate french b1c08ss05_f0b8ea01:
 
     # "No one was willing to truly admit the risks of the mission. It was easier to believe the Wasps were posers, that they wouldn't really hurt anyone."
-    "Personne n'était prêt à admettre réellement les risques de la mission. Il était plus facile de croire que les Wasps étaient des imposteurs, qu'ils ne feraient de mal à personne."
+    "Personne n'était prêt à admettre réellement les risques de la mission. Il était plus facile de croire que les Guêpes étaient des imposteurs, qu'ils ne feraient de mal à personne."
 
 # game/code/Book-1/Chapter-8s/s05.rpy:263
 translate french b1c08ss05_55822608:
 
     # "But between the unpredictability of the Wasps and Xasan's bomb, who knows how this will turn out?"
-    "Mais entre l'imprévisibilité des Wasps et la bombe de Xasan, qui sait comment cela va finir?"
+    "Mais entre l'imprévisibilité des Guêpes et la bombe de Xasan, qui sait comment cela va finir?"
 
 # game/code/Book-1/Chapter-8s/s05.rpy:265
 translate french b1c08ss05_1e2aae04:
@@ -434,13 +434,13 @@ translate french b1c08ss05_1e2aae04:
 translate french b1c08ss05_11f07a64:
 
     # zp "Can't you see we're at risk {i}without{/i} him?!"
-    zp "Ne voyez-vous pas qu'on court un risque {i}sans{/i} lui?!"
+    zp "Ne vois-tu pas qu'on court un risque {i}sans{/i} lui?!"
 
 # game/code/Book-1/Chapter-8s/s05.rpy:276
 translate french b1c08ss05_choice_053cd93b:
 
     # mct "If I don't mediate this situation it's going to rot the very foundation of this team—if it hasn't already."
-    mct "Si je ne médie pas cette situation, cela va pourrir les fondations mêmes de cette équipe—si ce n'est pas déjà le cas."
+    mct "Si je n'interviens pas dans cette situation, cela va pourrir les fondations mêmes de cette équipe—si ce n'est pas déjà le cas."
 
 # game/code/Book-1/Chapter-8s/s05.rpy:277
 translate french b1c08ss05_choice_a8fbfe3f:
@@ -458,7 +458,7 @@ translate french b1c08ss05_choice_7fcbeceb:
 translate french b1c08ss05_choice_3ccbd85e:
 
     # mct "As tempting as it is to pick a fight with him, that won't help my investigation, the mission, or keep these women safe."
-    mct "Aussi tentant que cela soit de me battre avec lui, cela n'aidera ni mon enquête, ni la mission, ni la sécurité de ces femmes."
+    mct "Aussi tentant que cela soit de me battre avec lui, cela n'aidera ni moi, ni mon enquête, ni la mission, ni la sécurité de ces femmes."
 
 # game/code/Book-1/Chapter-8s/s05.rpy:289
 translate french b1c08ss05_choice_cae8f9b6:
@@ -608,7 +608,7 @@ translate french b1c08ss05_choice_0e0412e8:
 translate french b1c08ss05_choice_3f9ee60d:
 
     # xv "Don't ever tell me that I don't know what's best for my team, you prissy sad sack of dog shit."
-    xv "Ne me dis jamais que je ne sais pas ce qui est le mieux pour mon équipe, espèce de connard prout."
+    xv "Ne me dis jamais que je ne sais pas ce qui est le mieux pour mon équipe, espèce de connard de merde."
 
 # game/code/Book-1/Chapter-8s/s05.rpy:367
 translate french b1c08ss05_choice_bb800f3b:
@@ -734,7 +734,7 @@ translate french b1c08ss05_choice_73718195:
 translate french b1c08ss05_choice_05ef63d8:
 
     # zp "I know what Xasan said but...stay alert and be ready to lend a hand if needed. If someone needs your help, help them."
-    zp "Je sais ce que Xasan a dit, mais...restez vigilants et prêts à donner un coup de main si nécessaire. Si quelqu'un a besoin de ton aide, aide-le."
+    zp "Je sais ce que Xasan a dit, mais...reste vigilant et prêts à donner un coup de main si nécessaire. Si quelqu'un a besoin de ton aide, aide-le."
 
 # game/code/Book-1/Chapter-8s/s05.rpy:431
 translate french b1c08ss05_choice_fa68f905:
