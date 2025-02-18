@@ -9,13 +9,13 @@ translate french b1c09s15_1211ed37:
 translate french b1c09s15_bb40bb8d:
 
     # zp "Call me selfish but I'm really glad I got you and Nia to talk with."
-    zp "Appelez-moi égoïste, mais je suis vraiment content d'avoir toi et Nia avec qui parler."
+    zp "Appelez-moi égoïste, mais je suis vraiment contente d'avoir toi et Nia avec qui parler."
 
 # game/code/Book-1/Chapter-9/s15.rpy:217
 translate french b1c09s15_267c5f98:
 
     # c1 "*Sighs* This might be selfish, but I'm glad that I have you and [c3.name!t] to talk with." id b1c09s15_267c5f98
-    c1 "*Soupire* Ça peut être égoïste, mais je suis content d'avoir toi et [c3.name!t] avec qui parler."
+    c1 "*Soupire* Ça peut être égoïste, mais je suis contente d'avoir toi et [c3.name!t] avec qui parler."
 
 # game/code/Book-1/Chapter-9/s15.rpy:220
 translate french b1c09s15_c8016065:
@@ -27,7 +27,7 @@ translate french b1c09s15_c8016065:
 translate french b1c09s15_7a162bba:
 
     # c2 "I get it. I'm glad I got you and [c3.name!t] as well." id b1c09s15_7a162bba
-    c2 "Je comprends. Je suis content d'avoir toi et [c3.name!t] aussi."
+    c2 "Je comprends. Je suis contente d'avoir toi et [c3.name!t] aussi."
 
 # game/code/Book-1/Chapter-9/s15.rpy:229
 translate french b1c09s15_8206dbd6:
@@ -51,7 +51,7 @@ translate french b1c09s15_67532eed:
 translate french b1c09s15_9976d0be:
 
     # c1 "*Nods* Hm, good. I... You know how to make everything...less overwhelming. I'm grateful for that."
-    c1 "*Hoche la tête* Hm, bien. Je... Tu sais comment rendre tout ça... moins accablant. Je t'en suis reconnaissant."
+    c1 "*Hoche la tête* Hm, bien. Je... Tu sais comment rendre tout ça... moins accablant. Je t'en suis reconnaissante."
 
 # game/code/Book-1/Chapter-9/s15.rpy:246
 translate french b1c09s15_77d821e4:
@@ -87,7 +87,7 @@ translate french b1c09s15_b038267a:
 translate french b1c09s15_88729636:
 
     # c1 "*Slightly amused* Didn't peg you for the spontaneous type, [c2.name!t]." id b1c09s15_88729636
-    c1 "*Légèrement amusé* Je ne t'avais pas imaginé comme le type spontané, [c2.name!t]."
+    c1 "*Légèrement amusée* Je ne t'avais pas imaginée comme le type spontané, [c2.name!t]."
 
 # game/code/Book-1/Chapter-9/s15.rpy:276
 translate french b1c09s15_566f54af:
@@ -183,7 +183,7 @@ translate french b1c09s15_a0f7d0e7:
 translate french b1c09s15_94cbdc7d:
 
     # c2 "Alright, my turn. Um... Never have I ever...made out with someone I just met."
-    c2 "D'accord, à mon tour. Euh... Jamais je n'ai jamais... embrassé quelqu'un que je venais juste de rencontrer."
+    c2 "D'accord, à mon tour. Euh... Jamais je n'ai jamais... embrassée quelqu'un que je venais juste de rencontrer."
 
 # game/code/Book-1/Chapter-9/s15.rpy:381
 translate french b1c09s15_c7f28bf7:
@@ -201,7 +201,7 @@ translate french b1c09s15_2b26135d:
 translate french b1c09s15_a0d27bcb:
 
     # mc "Well, \"just met\" might be stretching it, but yeah, I've lived a little."
-    mc "Bon, \"juste rencontré\" c'est un peu exagéré, mais ouais, j'ai un peu vécu."
+    mc "Bon, \"juste rencontré\" c'est un peu exagéré, mais ouais, j'ai un peu de vécu."
 
 # game/code/Book-1/Chapter-9/s15.rpy:390
 translate french b1c09s15_3d35a735:
@@ -633,7 +633,7 @@ translate french b1c09s15_sex_karaoke_end_4dbfa3c8:
 translate french b1c09s15_sex_karaoke_end_246d444c:
 
     # c2 "Help me free him."
-    c2 "Aidez-moi à le libérer."
+    c2 "Aide-moi à le libérer."
 
 # game/code/Book-1/Chapter-9/s15.rpy:797
 translate french b1c09s15_sex_karaoke_end_670b9956:
@@ -645,13 +645,13 @@ translate french b1c09s15_sex_karaoke_end_670b9956:
 translate french b1c09s15_sex_karaoke_end_db2ca792:
 
     # "The two of them drape their eyes over you, alight with hunger and lust; it makes you shiver as they begin to touch all over your body."
-    "Ils vous regardent tous les deux, allumés par la faim et le désir; cela vous fait frissonner lorsqu'ils commencent à toucher tout votre corps."
+    "Ils vous regardent tous les deux, allumés par la faim et le désir, cela vous fait frissonner lorsqu'ils commencent à toucher tout votre corps."
 
 # game/code/Book-1/Chapter-9/s15.rpy:807
 translate french b1c09s15_sex_karaoke_end_394e7cfd:
 
     # "While [c1.name!t] focuses her attention on your shaft and tip, lapping up your precum and overwhelming your senses." id b1c09s15_sex_karaoke_end_394e7cfd
-    "Pendant que [c1.name!t] concentre son attention sur votre tige et votre pointe, lapant votre prépuce et submergeant vos sens." id b1c09s15_sex_karaoke_end_394e7cfd
+    "Pendant que [c1.name!t] concentre son attention sur votre queue et votre gland, lapant votre prépuce et submergeant vos sens." id b1c09s15_sex_karaoke_end_394e7cfd
 
 # game/code/Book-1/Chapter-9/s15.rpy:817
 translate french b1c09s15_sex_karaoke_end_3d65359c:
@@ -681,7 +681,7 @@ translate french b1c09s15_sex_karaoke_end_5ed57917:
 translate french b1c09s15_sex_karaoke_end_58ca9b0b:
 
     # mc "God, you both feel so good."
-    mc "Mon Dieu, vous vous sentez tous les deux si bien."
+    mc "Mon Dieu, vous êtes si bonne vous deux."
 
 # game/code/Book-1/Chapter-9/s15.rpy:860
 translate french b1c09s15_sex_karaoke_end_9d873848:
@@ -705,13 +705,13 @@ translate french b1c09s15_sex_karaoke_end_c3181fe0:
 translate french b1c09s15_sex_karaoke_end_0e97c450:
 
     # "[c1.name!t]'s lips glide along your shaft, her tongue swirling around your sensitive tip with an expert finesse that sends jolts of ecstasy up your spine." id b1c09s15_sex_karaoke_end_0e97c450
-    "Les lèvres de [c1.name!t] glissent le long de votre tige, sa langue tourbillonnant autour de votre pointe sensible avec une finesse experte qui envoie des secousses d'extase dans votre colonne vertébrale." id b1c09s15_sex_karaoke_end_0e97c450
+    "Les lèvres de [c1.name!t] glissent le long de votre queue, sa langue tourbillonnant autour de votre pointe sensible avec une finesse experte qui envoie des secousses d'extase dans votre colonne vertébrale." id b1c09s15_sex_karaoke_end_0e97c450
 
 # game/code/Book-1/Chapter-9/s15.rpy:891
 translate french b1c09s15_sex_karaoke_end_61daa315:
 
     # "[c2.name!t], meanwhile, focuses on the other end of your shaft. Her soft lips and tongue roaming up and down, gently sucking and teasing you, making you twitch in pleasure." id b1c09s15_sex_karaoke_end_61daa315
-    "[c2.name!t], quant à elle, se concentre sur l'autre extrémité de votre tige. Ses lèvres douces et sa langue parcourent de haut en bas, vous suçant et vous taquinant doucement, vous faisant trembler de plaisir." id b1c09s15_sex_karaoke_end_61daa315
+    "[c2.name!t], quant à elle, se concentre sur l'autre extrémité de votre queue. Ses lèvres douces et sa langue parcourent de haut en bas, vous suçant et vous taquinant doucement, vous faisant trembler de plaisir." id b1c09s15_sex_karaoke_end_61daa315
 
 # game/code/Book-1/Chapter-9/s15.rpy:893
 translate french b1c09s15_sex_karaoke_end_2a1cdc30:
@@ -753,7 +753,7 @@ translate french b1c09s15_sex_karaoke_end_c3218fd1:
 translate french b1c09s15_sex_karaoke_end_f4247557:
 
     # c1 "Fuuuck, [mcname], you feel so good."
-    c1 "Puuutain, [mcname], tu te sens si bien."
+    c1 "Puuutain, [mcname], tu es si dur."
 
 # game/code/Book-1/Chapter-9/s15.rpy:978
 translate french b1c09s15_sex_karaoke_end_6db4f262:
@@ -825,7 +825,7 @@ translate french b1c09s15_sex_karaoke_end_3de587b5:
 translate french b1c09s15_sex_karaoke_end_385f7868:
 
     # "The tightness of her pussy around your shaft rapidly building your orgasm as your tongue explores [c2.name!t]'s folds, licking and sucking on her quivering clit." id b1c09s15_sex_karaoke_end_385f7868
-    "L'étroitesse de sa chatte autour de votre tige crée rapidement votre orgasme tandis que votre langue explore les plis de [c2.name!t], léchant et suçant son clitoris frémissant." id b1c09s15_sex_karaoke_end_385f7868
+    "L'étroitesse de sa chatte autour de votre bite crée rapidement votre orgasme tandis que votre langue explore les levres de [c2.name!t], léchant et suçant son clitoris frémissant." id b1c09s15_sex_karaoke_end_385f7868
 
 # game/code/Book-1/Chapter-9/s15.rpy:1125
 translate french b1c09s15_sex_karaoke_end_f91fd6bf:
@@ -843,7 +843,7 @@ translate french b1c09s15_sex_karaoke_end_ffa41ca8:
 translate french b1c09s15_sex_karaoke_end_35b863f7:
 
     # c2 "*Hitched moans* I-I, fuck, I'm gonna cum."
-    c2 "*Hitched gémit* Je-je, putain, je vais jouir."
+    c2 "*Gémissements attelés* Je-je, putain, je vais jouir."
 
 # game/code/Book-1/Chapter-9/s15.rpy:1151
 translate french b1c09s15_sex_karaoke_end_9f59a8e7:
@@ -873,7 +873,7 @@ translate french b1c09s15_sex_karaoke_end_880bde4b:
 translate french b1c09s15_sex_karaoke_end_4fe4b79f:
 
     # "The feeling of you roughly flooding her walls with your cum causes her to clench and cum hard."
-    "La sensation que vous inondiez brutalement ses murs de votre sperme la fait se serrer et jouir fort."
+    "La sensation que vous inondiez brutalement ses paroies de votre sperme la fait se serrer et jouir fort."
 
 # game/code/Book-1/Chapter-9/s15.rpy:1181
 translate french b1c09s15_sex_karaoke_end_10de9ea6:
@@ -903,19 +903,19 @@ translate french b1c09s15_sex_karaoke_end_1a2853ac:
 translate french b1c09s15_sex_karaoke_end_f200264f:
 
     # mc "*Whispers* Turn to the side, I'm not done with you yet."
-    mc "*Whispers* Tourne-toi sur le côté, je n'en ai pas encore fini avec toi."
+    mc "*Chuchote* Tourne-toi sur le côté, je n'en ai pas encore fini avec toi."
 
 # game/code/Book-1/Chapter-9/s15.rpy:1214
 translate french b1c09s15_sex_karaoke_end_4bbefc3f:
 
     # mc "Do you wanna taste [c2.name!t] as I fuck her, [c1.name!t]?" id b1c09s15_sex_karaoke_end_4bbefc3f
-    mc "Tu veux goûter à [c2.name!t] pendant que je la baise, [c1.name!t]?" id b1c09s15_sex_karaoke_end_4bbefc3f
+    mc "Tu vas goûter à [c2.name!t] pendant que je la baise, [c1.name!t]?" id b1c09s15_sex_karaoke_end_4bbefc3f
 
 # game/code/Book-1/Chapter-9/s15.rpy:1217
 translate french b1c09s15_sex_karaoke_end_44023842:
 
     # c1 "Overstimulate her little clit as you fill her up? Yes, please."
-    c1 "Surstimuler son petit clitoris pendant que vous le remplissez? Oui, s'il vous plaît."
+    c1 "Surstimuler son petit clitoris pendant que tu l'as remplis? Oui, s'il te plaît."
 
 # game/code/Book-1/Chapter-9/s15.rpy:1224
 translate french b1c09s15_sex_karaoke_end_e793a80f:
@@ -927,7 +927,7 @@ translate french b1c09s15_sex_karaoke_end_e793a80f:
 translate french b1c09s15_sex_karaoke_end_c20b37c5:
 
     # "[c2.name!t] gasps in anticipation, her breath catching in her throat as she feels your tip brush against her swollen folds." id b1c09s15_sex_karaoke_end_c20b37c5
-    "[c2.name!t] halète d'anticipation, son souffle se bloque dans sa gorge lorsqu'elle sent votre pointe effleurer ses plis enflés." id b1c09s15_sex_karaoke_end_c20b37c5
+    "[c2.name!t] halète d'anticipation, son souffle se bloque dans sa gorge lorsqu'elle sent votre pointe effleurer ses paroies enflés." id b1c09s15_sex_karaoke_end_c20b37c5
 
 # game/code/Book-1/Chapter-9/s15.rpy:1238
 translate french b1c09s15_sex_karaoke_end_79077bcc:
@@ -951,7 +951,7 @@ translate french b1c09s15_sex_karaoke_end_3833644b:
 translate french b1c09s15_sex_karaoke_end_0a6d39f7:
 
     # c2 "*Loudly moaning* Fu-uuck, [mcname], oh God yes! [c1.name!t], don't stop!" id b1c09s15_sex_karaoke_end_0a6d39f7
-    c2 "*Gémissant fort* Fu-uuck, [mcname], oh mon Dieu oui! [c1.name!t], ne t'arrête pas!" id b1c09s15_sex_karaoke_end_0a6d39f7
+    c2 "*Gémissant fort* Pu-uutain, [mcname], oh mon Dieu oui! [c1.name!t], ne t'arrête pas!" id b1c09s15_sex_karaoke_end_0a6d39f7
 
 # game/code/Book-1/Chapter-9/s15.rpy:1269
 translate french b1c09s15_sex_karaoke_end_b8b080ff:
@@ -999,7 +999,7 @@ translate french b1c09s15_sex_karaoke_end_e7ce4b67:
 translate french b1c09s15_sex_karaoke_end_8d84178a:
 
     # mc "*Whispers* Finish it off, [c1.name!t]. I want to see you swallow every drop." id b1c09s15_sex_karaoke_end_8d84178a
-    mc "*Whispers* Finis-en, [c1.name!t]. Je veux te voir avaler chaque goutte." id b1c09s15_sex_karaoke_end_8d84178a
+    mc "*Chuchote* Finis-en, [c1.name!t]. Je veux te voir avaler chaque goutte." id b1c09s15_sex_karaoke_end_8d84178a
 
 # game/code/Book-1/Chapter-9/s15.rpy:1347
 translate french b1c09s15_end_648a9a03:
@@ -1017,7 +1017,7 @@ translate french b1c09s15_end_a8fd8b18:
 translate french b1c09s15_end_cfbc52a5:
 
     # c1 "As messed up as everything has been lately, I'm really glad I have you two in my life."
-    c1 "Aussi gâché que tout ait été ces derniers temps, je suis vraiment content de vous avoir tous les deux dans ma vie."
+    c1 "Même si tout a été gâché ces derniers temps, je suis vraiment contente de vous avoir tous les deux dans ma vie.."
 
 # game/code/Book-1/Chapter-9/s15.rpy:1362
 translate french b1c09s15_end_3770472a:
@@ -1047,7 +1047,7 @@ translate french b1c09s15_end_91b7044a:
 translate french b1c09s15_end_254855e1:
 
     # c2 "Sorry, I guess all that fun really took it out of me."
-    c2 "Désolé, je suppose que tout ce plaisir m'a vraiment enlevé."
+    c2 "Désolée, je suppose que tout ce plaisir m'a vraiment fracassée."
 
 # game/code/Book-1/Chapter-9/s15.rpy:1386
 translate french b1c09s15_end_c546519e:
