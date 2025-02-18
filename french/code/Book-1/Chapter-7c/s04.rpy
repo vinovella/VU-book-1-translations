@@ -854,7 +854,7 @@ translate french b1c07cs04_5eb1b946:
 translate french b1c07cs04_514a9629:
 
     # dk "Since I'm so efficient and clever, I volunteered you to convince Lumi to get a tattoo."
-    dk "Comme je suis tellement efficace et intelligent, je te propose de convaincre Lumi de se faire tatouer."
+    dk "Comme je suis tellement efficace et intelligente, je te propose pour convaincre Lumi de se faire tatouer."
 
 # game/code/Book-1/Chapter-7c/s04.rpy:474
 translate french b1c07cs04_813e7ec4:
