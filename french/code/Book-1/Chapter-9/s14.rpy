@@ -57,7 +57,7 @@ translate french b1c09s14_5b6655be:
 translate french b1c09s14_89ef4bff:
 
     # "You hear the sounds of lips upon a bottle; someone downs a swig."
-    "Vous entendez le bruit de lèvres contre une bouteille ; quelqu'un avale une gorgée."
+    "Vous entendez le bruit de lèvres contre une bouteille, quelqu'un avale une gorgée."
 
 # game/code/Book-1/Chapter-9/s14.rpy:35
 translate french b1c09s14_561e42e9:
@@ -171,7 +171,7 @@ translate french b1c09s14_9c8fa37b:
 translate french b1c09s14_e5934e40:
 
     # zp "Hey, Rookie. Glad to see you around."
-    zp "Hé, Rookie. Content de te voir ici."
+    zp "Hé, beau gosse. Contente de te voir ici."
 
 # game/code/Book-1/Chapter-9/s14.rpy:94
 translate french b1c09s14_432e7e4a:
@@ -237,7 +237,7 @@ translate french b1c09s14_05e1ab1a:
 translate french b1c09s14_4dfb418c:
 
     # zp "Eavesdropping on us, huh?"
-    zp "Nous écoutez, hein?"
+    zp "Nous écoutant aux portes, hein?"
 
 # game/code/Book-1/Chapter-9/s14.rpy:147
 translate french b1c09s14_879b8409:
@@ -369,7 +369,7 @@ translate french b1c09s14_18699dd0:
 translate french b1c09s14_00537085:
 
     # sm "*Inhales deeply* Let's just...calm down. I know it feels so unfair, and it is. But we can only do so much knowing so little."
-    sm "*Inspire profondément* Calmons-nous... Je sais que ça semble tellement injuste, et c'est le cas. Mais on ne peut faire que ce qu'on peut en sachant si peu."
+    sm "*Inspire profondément* Calmons-nous... Je sais que ça semble tellement injuste, et c'est le cas. Mais nous ne pouvons pas faire grand-chose en sachant si peu.."
 
 # game/code/Book-1/Chapter-9/s14.rpy:199
 translate french b1c09s14_54c29070:
@@ -393,7 +393,7 @@ translate french b1c09s14_67f29be8:
 translate french b1c09s14_76bb6af5:
 
     # sm "I just had a couple of questions about the self-help program at the library that day, but she personally guided me through that whole session."
-    sm "J'avais juste quelques questions sur le programme d'entraide à la bibliothèque ce jour-là, mais elle m'a personnellement guidé à travers toute la séance."
+    sm "J'avais juste quelques questions sur le programme d'entraide à la bibliothèque ce jour-là, mais elle m'a personnellement guidée à travers toute la séance."
 
 # game/code/Book-1/Chapter-9/s14.rpy:208
 translate french b1c09s14_fc351676:
@@ -423,7 +423,7 @@ translate french b1c09s14_0abf533a:
 translate french b1c09s14_0c3e2def:
 
     # sm "I've always gotten told that I'm too much or that I aim too high—"
-    sm "On m'a toujours dit que j'étais trop ou que je visais trop haut—"
+    sm "On m'a toujours dit que j'en fais trop ou que je vise trop haut"
 
 # game/code/Book-1/Chapter-9/s14.rpy:218
 translate french b1c09s14_348efcfd:
@@ -465,7 +465,7 @@ translate french b1c09s14_59af76e2:
 translate french b1c09s14_d613dc32:
 
     # sm "She can be tough on you. Right up to the brink until, before you know it, you've crossed that threshold. Everything that looked so insurmountable, gone."
-    sm "Elle peut être dure avec toi. Jusqu'à la limite, puis, avant même que tu t'en rendes compte, tu as franchi ce seuil. Tout ce qui semblait insurmontable, disparu."
+    sm "Elle peut être dure avec toi. Jusqu'à la limite, puis, avant même que tu t'en rendes compte, tu as franchie ce seuil. Tout ce qui semblait insurmontable, disparu."
 
 # game/code/Book-1/Chapter-9/s14.rpy:232
 translate french b1c09s14_375d84c4:
@@ -501,7 +501,7 @@ translate french b1c09s14_b5080b5c:
 translate french b1c09s14_48f3e2a2:
 
     # sm "She sounds wonderful. I would've liked to have met her."
-    sm "Elle semble merveilleuse. J'aurais aimé la rencontrer."
+    sm "Elle semble merveilleuse. J'aurais aimée la rencontrer."
 
 # game/code/Book-1/Chapter-9/s14.rpy:243
 translate french b1c09s14_9ad5cd29:
