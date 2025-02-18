@@ -21,7 +21,7 @@ translate french b1c09s13_jh_lw_8cee2c28:
 translate french b1c09s13_jh_lw_9d5cbcd0:
 
     # mct "Oh, Josie and Lara. It's so late, I didn't think they'd come."
-    mct "Oh, Josie et Lara. C'est tellement tard, je ne pensais pas qu'elles viendraient."
+    mct "Oh, Josie et Lara. Il est si tard, je ne pensais pas qu'elles viendraient."
 
 # game/code/Book-1/Chapter-9/s13.rpy:55
 translate french b1c09s13_jh_lw_e38431b7:
@@ -51,13 +51,13 @@ translate french b1c09s13_jh_lw_87264032:
 translate french b1c09s13_jh_lw_4343bef7:
 
     # oa "*Giggles* We love seeing friends helping each other."
-    oa "*Rires* On adore voir des amis s'aider mutuellement."
+    oa "*Rires* On adore voir des amies s'aider mutuellement."
 
 # game/code/Book-1/Chapter-9/s13.rpy:68
 translate french b1c09s13_jh_lw_14bab92e:
 
     # lw "I'd say I got a raw deal, but sure."
-    lw "Je dirais que j'ai mal géré, mais d'accord."
+    lw "Je dirais que j'ai mal gérée, mais d'accord."
 
 # game/code/Book-1/Chapter-9/s13.rpy:71
 translate french b1c09s13_jh_lw_d2c34e81:
@@ -69,7 +69,7 @@ translate french b1c09s13_jh_lw_d2c34e81:
 translate french b1c09s13_jh_lw_255fd5a3:
 
     # oa "*Smiles* Hey, it's okay. I know these parties are a lot on the senses. But!"
-    oa "*Sourit* Hé, ça va. Je sais que ces soirées sont intenses pour les sens. Mais!"
+    oa "*Sourit* Hé, ça va. Je sais que ces soirées sont intenses pour ses sens. Mais!"
 
 # game/code/Book-1/Chapter-9/s13.rpy:76
 translate french b1c09s13_jh_lw_05f93db8:
@@ -243,7 +243,7 @@ translate french b1c09s13_jh_lw_264bf8dc:
 translate french b1c09s13_jh_lw_365b666f:
 
     # lw "Blame her. Took forever to pick something out."
-    lw "Blame-la. Ça a pris une éternité pour choisir quelque chose."
+    lw "Blame-la elle. Ça a pris une éternité pour choisir quelque chose."
 
 # game/code/Book-1/Chapter-9/s13.rpy:163
 translate french b1c09s13_jh_lw_27684712:
@@ -255,7 +255,7 @@ translate french b1c09s13_jh_lw_27684712:
 translate french b1c09s13_jh_lw_24d0342f:
 
     # lw "What! I have never said that, blasphemer."
-    lw "Quoi! Je n'ai jamais dit ça, blasphémateur."
+    lw "Quoi! Je n'ai jamais dit ça, blasphématrice."
 
 # game/code/Book-1/Chapter-9/s13.rpy:168
 translate french b1c09s13_jh_lw_969e080f:
@@ -297,7 +297,7 @@ translate french b1c09s13_jh_lw_8b3f0d38:
 translate french b1c09s13_jh_lw_174bba80:
 
     # mc "Well, it's like they say, one's a hermit, two's a couple, three's a company."
-    mc "Eh bien, comme on dit, un est un ermite, deux sont un couple, trois forment une compagnie."
+    mc "Eh bien, c'est comme on dit, un est un ermite, deux est un couple, trois est une compagnie."
 
 # game/code/Book-1/Chapter-9/s13.rpy:185
 translate french b1c09s13_jh_lw_62b2f7de:
@@ -393,7 +393,7 @@ translate french b1c09s13_jh_lw_a96a255a:
 translate french b1c09s13_jh_lw_91165a6e:
 
     # mc "How about this? Nice and quiet."
-    mc "Que diriez-vous de ça? Calme et tranquille."
+    mc "Que dites-vous de ça? Calme et tranquille."
 
 # game/code/Book-1/Chapter-9/s13.rpy:262
 translate french b1c09s13_jh_lw_1d8d28f3:
@@ -447,7 +447,7 @@ translate french b1c09s13_jh_lw_56ede153:
 translate french b1c09s13_jh_lw_ed8f603d:
 
     # lw "*Chuckles* I've felt some constellations before. Honestly, I'm not sure how you guys see the stuff you say you see, either."
-    lw "*Rit* J'ai déjà ressenti certaines constellations. Honnêtement, je ne suis pas sûr de comment vous voyez ce que vous dites voir, non plus."
+    lw "*Rit* J'ai déjà ressentie certaines constellations. Honnêtement, je ne suis pas sûr de comment vous voyez ce que vous dites voir, non plus."
 
 # game/code/Book-1/Chapter-9/s13.rpy:281
 translate french b1c09s13_jh_lw_fd97cf75:
@@ -483,7 +483,7 @@ translate french b1c09s13_jh_lw_d6357e75:
 translate french b1c09s13_jh_lw_fc728362:
 
     # mc "Yeah... And now she's immortalized somewhere near Cassiopeia, tied up and waiting to be rescued by Perseus."
-    mc "Ouais... Et maintenant, elle est immortalisée quelque part près de Cassiopée, attachée et attendant d'être sauvée par Persée."
+    mc "Ouais... Et maintenant, elle est immortalisée quelque part près de Cassiopée, attachée et attendant d'être sauvée par Perseús."
 
 # game/code/Book-1/Chapter-9/s13.rpy:294
 translate french b1c09s13_jh_lw_f4ad4b6a:
@@ -543,7 +543,7 @@ translate french b1c09s13_jh_lw_cc1ef1ab:
 translate french b1c09s13_jh_lw_803a62eb:
 
     # mc "*Softly* I'm glad she feels comfortable. It's nice, just being here like this."
-    mc "*Doucement* Je suis content qu'elle se sente à l'aise. C'est agréable, juste être ici comme ça."
+    mc "*Doucement* Je suis content qu'elle se sente à l'aise. C'est agréable, d'être ici comme ça."
 
 # game/code/Book-1/Chapter-9/s13.rpy:324
 translate french b1c09s13_jh_lw_9b3fe2b0:
@@ -561,7 +561,7 @@ translate french b1c09s13_jh_lw_94c09809:
 translate french b1c09s13_jh_lw_253a742c:
 
     # jh "It makes me really happy to see her get along with you. She would've never come if you hadn't suggested it."
-    jh "Ça me rend vraiment heureux de la voir s'entendre avec toi. Elle ne serait jamais venue si tu ne l'avais pas suggéré."
+    jh "Ça me rend vraiment heureuse de la voir s'entendre avec toi. Elle ne serait jamais venue si tu ne l'avais pas suggéré."
 
 # game/code/Book-1/Chapter-9/s13.rpy:332
 translate french b1c09s13_jh_lw_e629ed4c:
@@ -795,7 +795,7 @@ translate french b1c09s13_jh_c885d64e:
 translate french b1c09s13_jh_ba66d1ed:
 
     # oa "*Giggles* Well aren't you lucky."
-    oa "*Rit* Eh bien, tu es bien chanceux."
+    oa "*Rit* Eh bien, tu es bien chanceuse."
 
 # game/code/Book-1/Chapter-9/s13.rpy:464
 translate french b1c09s13_jh_ddd1f29a:
