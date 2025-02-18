@@ -153,7 +153,7 @@ translate french b1c09s01_check_jh_89fc7556:
 translate french b1c09s01_check_jh_cb08565e:
 
     # ldc "Unsullied and pure, just perfect for you to pump your load into, just like Zemfira, hm?"
-    ldc "Immaculée et pure, juste parfaite pour que tu vides ta semence, tout comme Zemfira, hm?"
+    ldc "Immaculée et pure, juste parfaite pour que tu vides ton sperme, tout comme Zemfira, hm?"
 
 # game/code/Book-1/Chapter-9/s01.rpy:252
 translate french b1c09s01_check_jh_5e20532c:
@@ -177,7 +177,7 @@ translate french b1c09s01_check_jh_47253a02:
 translate french b1c09s01_check_jh_8d2ac30b:
 
     # "???" "You know how you feel. You know the way your dick gets hard. So why lie?"
-    "???" "Tu sais comment tu te sens. Tu sais comment ton sexe durcit. Alors pourquoi mentir?"
+    "???" "Tu sais comment tu te sens. Tu sens comment ta queue durcir. Alors pourquoi mentir?"
 
 # game/code/Book-1/Chapter-9/s01.rpy:263
 translate french b1c09s01_check_jh_268753d3:
@@ -201,7 +201,7 @@ translate french b1c09s01_check_jh_1d2a71a1:
 translate french b1c09s01_check_jh_b9a7b872:
 
     # kc "You could have your dick wet 24/7, suck, fuck, and cream any hole you want. So why not?"
-    kc "Tu pourrais avoir ta bite mouillée 24/7, sucer, baiser, et remplir tous les trous que tu veux. Alors pourquoi ne pas le faire?"
+    kc "Tu pourrais avoir ta bite mouillée 24h sur 24 et 7jours sur 7, sucer, baiser, et remplir tous les trous que tu veux. Alors pourquoi ne pas le faire?"
 
 # game/code/Book-1/Chapter-9/s01.rpy:276
 translate french b1c09s01_check_jh_3e4576ed:
@@ -261,7 +261,7 @@ translate french b1c09s01_check_lw_b32c612e:
 translate french b1c09s01_check_lw_268df559:
 
     # ldc "Me? What can I possibly do? I'm just a helpless little girl. Withering away all alone."
-    ldc "Moi? Que pourrais-je faire? Je ne suis qu'une petite fille sans défense. Je me fanes seule."
+    ldc "Moi? Que pourrais-je faire? Je ne suis qu'une petite fille sans défense."
 
 # game/code/Book-1/Chapter-9/s01.rpy:346
 translate french b1c09s01_check_lw_175ccc2b:
@@ -273,7 +273,7 @@ translate french b1c09s01_check_lw_175ccc2b:
 translate french b1c09s01_check_lw_b966ee59:
 
     # mfk "The hotshot detective willing to do {i}anything{/i} to crack the case."
-    mfk "Le détective à la mode prêt à tout {i}faire{/i} pour résoudre l'affaire."
+    mfk "Le détective en mode prêt à tout {i}faire{/i} pour résoudre l'affaire."
 
 # game/code/Book-1/Chapter-9/s01.rpy:353
 translate french b1c09s01_check_lw_a9459fb2:
@@ -315,7 +315,7 @@ translate french b1c09s01_check_lw_3e23b18b:
 translate french b1c09s01_check_lw_97dee525:
 
     # ldc "Save the poor ol' blind girl..."
-    ldc "Sauve la pauvre vieille fille aveugle..."
+    ldc "Sauve la pauvre fille aveugle..."
 
 # game/code/Book-1/Chapter-9/s01.rpy:371
 translate french b1c09s01_check_lw_b2ba73ed:
@@ -381,13 +381,13 @@ translate french b1c09s01_check_pm_03d2c956:
 translate french b1c09s01_check_pm_5c9e82b5:
 
     # kc "Pretty rotten fucking deal, isn't it?"
-    kc "Un sacré sale marché, n'est-ce pas?"
+    kc "C'est une putain d'affaire assez pourrie, n'est-ce pas ??"
 
 # game/code/Book-1/Chapter-9/s01.rpy:432
 translate french b1c09s01_check_pm_cc757e11:
 
     # mfk "One hell of a deal for you though, isn't it?"
-    mfk "Un sacré marché pour toi, non?"
+    mfk "Mais c'est une sacrée affaire pour toi, n'est-ce pas?"
 
 # game/code/Book-1/Chapter-9/s01.rpy:436
 translate french b1c09s01_check_pm_391518b4:
@@ -399,13 +399,13 @@ translate french b1c09s01_check_pm_391518b4:
 translate french b1c09s01_check_pm_db3e672a:
 
     # kc "All to find {i}us{/i}, you say. Do what needs to be done, you say."
-    kc "Tout ça pour nous trouver, tu dis. Fais ce qui doit être fait, tu dis."
+    kc "Tout ça pour {/i}nous{/i} trouver, dis-tu. Fais ce qui doit être fait, dis-tu."
 
 # game/code/Book-1/Chapter-9/s01.rpy:441
 translate french b1c09s01_check_pm_be7b3b18:
 
     # mfk "You go around having your fun, getting your dick wet with impunity. All for a noble cause. To find {i}us{/i}."
-    mfk "Tu te balades en t'amusant, trempant ton sexe sans vergogne. Tout ça pour une noble cause. Pour nous trouver."
+    mfk "Tu te balades en t'amusant, trempant ta queue sans vergogne. Tout ça pour une noble cause. Pour {/i}nous{/i} trouver."
 
 # game/code/Book-1/Chapter-9/s01.rpy:442
 translate french b1c09s01_check_pm_c92ae378:
@@ -513,7 +513,7 @@ translate french b1c09s01_tf_dialogues_0cf88365:
 translate french b1c09s01_tf_dialogues_c8bb2df9:
 
     # ldc "Don't bullshit me, Matthew."
-    ldc "Ne me prends pas pour un imbécile, Matthew."
+    ldc "Ne me prends pas pour une imbécile, Matthew."
 
 # game/code/Book-1/Chapter-9/s01.rpy:617
 translate french b1c09s01_tf_dialogues_284d33c7:
@@ -531,7 +531,7 @@ translate french b1c09s01_tf_dialogues_422daafb:
 translate french b1c09s01_tf_dialogues_8db02c6d:
 
     # ldc "*Chuckles* Hard to believe when all you've really done is get your dick wet."
-    ldc "*Rit* Difficile à croire quand tout ce que tu as vraiment fait, c'est tremper ton sexe."
+    ldc "*Rit* Difficile à croire quand tout ce que tu as vraiment fait, c'est tremper ta queue."
 
 # game/code/Book-1/Chapter-9/s01.rpy:628
 translate french b1c09s01_tf_dialogues_13f0f341:
@@ -585,7 +585,7 @@ translate french b1c09s01_wc_dialogues_37f523aa:
 translate french b1c09s01_wc_dialogues_0db442a9:
 
     # kc "Laugh with them, bicker with them."
-    kc "Rire avec eux, se chamailler avec eux."
+    kc "Rire avec eux, me chamailler avec eux."
 
 # game/code/Book-1/Chapter-9/s01.rpy:694
 translate french b1c09s01_wc_dialogues_22449d41:
@@ -639,5 +639,5 @@ translate french strings:
 
     # game/code/Book-1/Chapter-9/s01.rpy:153
     old "Check on Phoebe"
-    new "Vérifie Phoebe"
+    new "Vérifiez Phoebe"
 
