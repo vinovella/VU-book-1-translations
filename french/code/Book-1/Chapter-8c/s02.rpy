@@ -80,7 +80,7 @@ translate french b1c08cs02_8834c13d:
 translate french b1c08cs02_8562502b:
 
     # mc "It was. The train was luxurious."
-    mc "C'était. Le train était luxueux."
+    mc "Il l'était oui. Le train était luxueux."
 
 # game/code/Book-1/Chapter-8c/s02.rpy:84
 translate french b1c08cs02_f62f58c3:
@@ -92,7 +92,7 @@ translate french b1c08cs02_f62f58c3:
 translate french b1c08cs02_ce026c7a:
 
     # ih "Welcome, everyone! We are so happy to have you here. We hope that you'll have a wonderful time here."
-    ih "Bienvenue à tous! Nous sommes ravis de vous avoir ici. Nous espérons que vous passerez un merveilleux moment ici."
+    ih "Bienvenue à tous! Nous sommes ravis de vous avoir parmis nous. Nous espérons que vous passerez un merveilleux moment ici."
 
 # game/code/Book-1/Chapter-8c/s02.rpy:88
 translate french b1c08cs02_9f11cbe6:
@@ -164,7 +164,7 @@ translate french b1c08cs02_075e0206:
 translate french b1c08cs02_dbc2bc3c:
 
     # ys "Hi!{w} I'm Yvonne Sanders. It's nice to meet you all."
-    ys "Salut!{w} Je suis Yvonne Sanders. Ravi de vous rencontrer tous."
+    ys "Salut!{w} Je suis Yvonne Sanders. Ravie de vous rencontrer tous."
 
 # game/code/Book-1/Chapter-8c/s02.rpy:139
 translate french b1c08cs02_5de6f086:
@@ -194,7 +194,7 @@ translate french b1c08cs02_ff698616:
 translate french b1c08cs02_6125de31:
 
     # ys "And that's Sloan T. Andrews! The best wildlife conservation specialist this group has ever seen."
-    ys "Et voici Sloan T. Andrews! Le meilleur spécialiste de la conservation de la faune que ce groupe ait jamais vu."
+    ys "Et voici Sloan T. Andrews! La meilleure spécialiste de la conservation de la faune que ce groupe ait jamais eu."
 
 # game/code/Book-1/Chapter-8c/s02.rpy:159
 translate french b1c08cs02_cd4b004d:
@@ -224,7 +224,7 @@ translate french b1c08cs02_b4e70ce1:
 translate french b1c08cs02_dffe94d0:
 
     # ys "It is so nice to see fresh faces here!"
-    ys "C'est tellement agréable de voir des visages frais ici!"
+    ys "C'est tellement agréable de voir de nouveaux visages ici!"
 
 # game/code/Book-1/Chapter-8c/s02.rpy:173
 translate french b1c08cs02_794b56c6:
@@ -242,13 +242,13 @@ translate french b1c08cs02_9558d33a:
 translate french b1c08cs02_39c6a99c:
 
     # nv "If you don't mind me asking, how far along are you?"
-    nv "Si cela ne te dérange pas, combien de temps es-tu enceinte?"
+    nv "Si cela ne te dérange pas, de combien de mois es-tu enceinte?"
 
 # game/code/Book-1/Chapter-8c/s02.rpy:182
 translate french b1c08cs02_8d00f637:
 
     # ys "Oh, very!{w} I'm so excited to meet my little lovebug."
-    ys "Oh, tellement!{w} Je suis tellement excitée de rencontrer mon petit cœur."
+    ys "Oh, tellement longtemps!{w} Je suis tellement excitée de rencontrer mon petit cœur."
 
 # game/code/Book-1/Chapter-8c/s02.rpy:185
 translate french b1c08cs02_1af6d598:
@@ -362,7 +362,7 @@ translate french b1c08cs02_after_choice_94ae3eaa:
 translate french b1c08cs02_after_choice_ca2fdf75:
 
     # ys "She can be kind of closed off emotionally sometimes, but I have never seen a woman hold her alcohol so well."
-    ys "Elle peut être un peu fermée émotionnellement parfois, mais je n'ai jamais vu une femme tenir l'alcool aussi bien."
+    ys "Elle peut être un peu fermée émotionnellement parfois, mais je n'ai jamais vu une femme tenir l'alcool aussi bien qu'elle."
 
 # game/code/Book-1/Chapter-8c/s02.rpy:258
 translate french b1c08cs02_after_choice_8d5d4d57:
@@ -392,7 +392,7 @@ translate french b1c08cs02_after_choice_31a818e7:
 translate french b1c08cs02_after_choice_a97545b2:
 
     # ys "Oh, we're in the forestry industry! Sloan tracks the local wildlife, as I mentioned, and Nerium manages the local flora!"
-    ys "Oh, nous sommes dans l'industrie forestière! Sloan suit la faune locale, comme je l'ai mentionné, et Nerium gère la flore locale!"
+    ys "Oh, nous sommes dans l'industrie forestière! Sloan suit la faune locale, comme je l'ai mentionnée, et Nerium gère la flore locale!"
 
 # game/code/Book-1/Chapter-8c/s02.rpy:274
 translate french b1c08cs02_after_choice_f216e1b0:
@@ -506,13 +506,13 @@ translate french b1c08cs02_after_choice_0704e655:
 translate french b1c08cs02_after_choice_4f13bd61:
 
     # mct "I thought Irene was the only one, but it seems there's multiple people here having... very spiritual experiences. To say the least."
-    mct "Je pensais qu'Irene était la seule, mais il semble qu'il y ait plusieurs personnes ici ayant... des expériences très spirituelles. Pour dire le moins."
+    mct "Je pensais qu'Irene était la seule, mais il semble qu'il y ait plusieurs personnes ici ayant... des expériences très spirituelles. Pour ne dire que ça."
 
 # game/code/Book-1/Chapter-8c/s02.rpy:331
 translate french b1c08cs02_after_choice_7a1155f6:
 
     # ys "There's an ancient legend that these woods are under the care of a long-forgotten deity."
-    ys "Il y a une ancienne légende qui dit que ces bois sont sous la garde d'une déité oubliée depuis longtemps."
+    ys "Il y a une ancienne légende raconte que ces bois sont sous la garde d'une déité oubliée depuis longtemps."
 
 # game/code/Book-1/Chapter-8c/s02.rpy:335
 translate french b1c08cs02_after_choice_7149fddb:
@@ -542,7 +542,7 @@ translate french b1c08cs02_after_choice_3729fa0e:
 translate french b1c08cs02_after_choice_4170441a:
 
     # ys "And, assuming you're a kind and worthy presence in her lands, she'll have her ravens bestow gifts upon you. Helpful trinkets and the like."
-    ys "Et, à condition que tu sois une présence gentille et digne dans ses terres, elle enverra ses corbeaux te donner des cadeaux. Des objets utiles et autres."
+    ys "Et, à condition que tu sois une personne gentille et digne dans ses terres, elle enverra ses corbeaux te donner des cadeaux. Des objets utiles et autres."
 
 # game/code/Book-1/Chapter-8c/s02.rpy:344
 translate french b1c08cs02_after_choice_056fd317:
@@ -566,7 +566,7 @@ translate french b1c08cs02_after_choice_b63adfa6:
 translate french b1c08cs02_after_choice_3f36c64c:
 
     # ys "Oh, take a joke you two!"
-    ys "Oh, prenez une blague vous deux!"
+    ys "Oh, rigolez vous deux! c'étais une blague"
 
 # game/code/Book-1/Chapter-8c/s02.rpy:355
 translate french b1c08cs02_after_choice_4ef3a527:
@@ -584,7 +584,7 @@ translate french b1c08cs02_after_choice_e77263fb:
 translate french b1c08cs02_after_choice_1f951fed:
 
     # ys "Yes, I suppose I do. It's hard not to when your own experiences keep the legend alive."
-    ys "Oui, je suppose que je le fais. C'est difficile de ne pas y croire quand tes propres expériences maintiennent la légende en vie."
+    ys "Oui, je suppose que oui. C'est difficile de ne pas y croire quand tes propres expériences maintiennent la légende en vie."
 
 # game/code/Book-1/Chapter-8c/s02.rpy:362
 translate french b1c08cs02_after_choice_ee585a3b:
@@ -668,7 +668,7 @@ translate french b1c08cs02_after_choice_1bf60051:
 translate french b1c08cs02_after_choice_13c780ee:
 
     # mct "Ivy seems to have a preference for me...I'm not sure why, but I should use it to my advantage if I can."
-    mct "Ivy semble avoir une préférence pour moi... Je ne suis pas sûr pourquoi, mais je devrais en profiter si je le peux."
+    mct "Ivy semble avoir une préférence pour moi... Je ne suis pas sûr de pourquoi, mais je devrais en profiter si je le peux."
 
 # game/code/Book-1/Chapter-8c/s02.rpy:432
 translate french b1c08cs02_after_choice_6b675c1a:
@@ -764,7 +764,7 @@ translate french b1c08cs02_after_choice_a637b57e:
 translate french b1c08cs02_after_choice_db23a707:
 
     # dk "Hello sweetie. I've brought your roomie here."
-    dk "Salut ma chérie. J'ai amené ta colocataire ici."
+    dk "Salut ma chérie. J'ai amené ton colocataire ici."
 
 # game/code/Book-1/Chapter-8c/s02.rpy:483
 translate french b1c08cs02_after_choice_f393036e:
@@ -782,13 +782,13 @@ translate french b1c08cs02_after_choice_fba28a04:
 translate french b1c08cs02_after_choice_97ee1406:
 
     # dk "Sure thing."
-    dk "Bien sûr."
+    dk "De rien."
 
 # game/code/Book-1/Chapter-8c/s02.rpy:494
 translate french b1c08cs02_after_choice_6ffad9ba:
 
     # mc "Man, these are kinda close sleeping quarters, huh?"
-    mc "Mec, ces quartiers de sommeil sont un peu serrés, non?"
+    mc "Alors, ces lits sont un peu serrés, non?"
 
 # game/code/Book-1/Chapter-8c/s02.rpy:497
 translate french b1c08cs02_after_choice_69db8aa5:
@@ -818,7 +818,7 @@ translate french b1c08cs02_after_choice_1db72d7f:
 translate french b1c08cs02_after_choice_1e97288d:
 
     # mc "You have a cute giggle, Lumi."
-    mc "Tu as un rire mignon, Lumi."
+    mc "Ton rire est mignon, Lumi."
 
 # game/code/Book-1/Chapter-8c/s02.rpy:511
 translate french b1c08cs02_after_choice_a0a4e4de:
@@ -896,7 +896,7 @@ translate french b1c08cs02_after_choice_b6480f15:
 translate french b1c08cs02_after_choice_ffa4e2b9:
 
     # ll "I'm so anxious most of the time, I forget to giggle."
-    ll "Je suis tellement anxieuse la plupart du temps que j'oublie de rire."
+    ll "Je suis tellement anxieuse la plupart du temps que j'en oublie de rire."
 
 # game/code/Book-1/Chapter-8c/s02.rpy:547
 translate french b1c08cs02_after_choice_5fd02c3d:
