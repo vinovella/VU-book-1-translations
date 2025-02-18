@@ -8,7 +8,7 @@ translate french b1c07ws01_3d6ee532:
 translate french b1c07ws01_9688e638:
 
     # mct "I wager a guess considering what I know about her, bu—"
-    mct "Je parie que je sais pourquoi, en fonction de ce que je sais d'elle, mais—"
+    mct "Je parie une supposition compte tenu de ce que je sais d'elle, mais—"
 
 # game/code/Book-1/Chapter-7w/s01.rpy:44
 translate french b1c07ws01_d09bd306:
@@ -26,13 +26,13 @@ translate french b1c07ws01_618ea763:
 translate french b1c07ws01_540b7512:
 
     # mc "I just woke up! Cut me some slack."
-    mc "Je viens de me réveiller! Laisse-moi tranquille."
+    mc "Je viens de me réveiller! Laisse-moi un peu de temps."
 
 # game/code/Book-1/Chapter-7w/s01.rpy:51
 translate french b1c07ws01_53053d6b:
 
     # mc "Why did you even ask me to come here?"
-    mc "Pourquoi m'as-tu même demandé de venir ici?"
+    mc "Pourquoi m'as-tu demandé de venir ici?"
 
 # game/code/Book-1/Chapter-7w/s01.rpy:54
 translate french b1c07ws01_6864fbed:
@@ -44,7 +44,7 @@ translate french b1c07ws01_6864fbed:
 translate french b1c07ws01_124c30ae:
 
     # ir "C'mon!"
-    ir "Allez!"
+    ir "Allez viens!"
 
 # game/code/Book-1/Chapter-7w/s01.rpy:60
 translate french b1c07ws01_bdd2f0cf:
@@ -56,7 +56,7 @@ translate french b1c07ws01_bdd2f0cf:
 translate french b1c07ws01_3c1ab1d7:
 
     # ir "Tada! It's time to finally get you dressed up in the Winner's colors!"
-    ir "Tada! Il est temps de te vêtir enfin des couleurs du gagnant!"
+    ir "Tada! Il est enfin temps de te vêtir des couleurs du Winner's!"
 
 # game/code/Book-1/Chapter-7w/s01.rpy:80
 translate french b1c07ws01_b7940507:
@@ -86,7 +86,7 @@ translate french b1c07ws01_24822aa2:
 translate french b1c07ws01_6902ab38:
 
     # sm "But Shontae wanted you to get your uniform now before practice, and we had some extras, so, surprise dressing day!"
-    sm "Mais Shontae voulait que tu reçoives ton uniforme maintenant avant l'entraînement, et nous avions quelques extras, donc, surprise, jour d'essayage!"
+    sm "Mais Shontae voulait que tu reçoives ton uniforme maintenant avant l'entraînement, et nous avions quelques extras, donc, SURPRISE, jour d'essayage pour toi!"
 
 # game/code/Book-1/Chapter-7w/s01.rpy:95
 translate french b1c07ws01_0db9a34d:
@@ -158,7 +158,7 @@ translate french b1c07ws01_262f4877:
 translate french b1c07ws01_2e13050f:
 
     # mc "We wouldn't want Silvia to be uncomfortable."
-    mc "On ne voudrait pas que Silvia soit mal à l'aise."
+    mc "Je ne voudrait pas que Silvia soit mal à l'aise."
 
 # game/code/Book-1/Chapter-7w/s01.rpy:145
 translate french b1c07ws01_03b0c977:
@@ -188,7 +188,7 @@ translate french b1c07ws01_measurement_496f49ba:
 translate french b1c07ws01_measurement_05de308f:
 
     # sm "C'mon, hands spread!"
-    sm "Allez, mains écartées!"
+    sm "Allez, bras écartées!"
 
 # game/code/Book-1/Chapter-7w/s01.rpy:181
 translate french b1c07ws01_measurement_c9945799:
@@ -248,13 +248,13 @@ translate french b1c07ws01_measurement_7ffc09c4:
 translate french b1c07ws01_measurement_4ee46041:
 
     # mc "I think this is the one, guys."
-    mc "Je pense que c'est celui-là, les gars."
+    mc "Je pense que celui-ci est bien, les filles."
 
 # game/code/Book-1/Chapter-7w/s01.rpy:242
 translate french b1c07ws01_measurement_6832f759:
 
     # ir "*Wolf whistles* Damn, sweet cheeks. You look {i}fine{/i} in that."
-    ir "*Sifflements* Merde, mignonnes fesses. Tu es {i}magnifique{/i} dans ça."
+    ir "*Sifflements* Merde, mignonnes petites fesses. Tu es {i}magnifique{/i} dans ça."
 
 # game/code/Book-1/Chapter-7w/s01.rpy:245
 translate french b1c07ws01_measurement_bfc1fa21:
@@ -290,19 +290,19 @@ translate french b1c07ws01_measurement_4a1a48ad:
 translate french b1c07ws01_measurement_ec9d059a:
 
     # sm "Uh-huh, of course you'd think that."
-    sm "Uh-huh, bien sûr que tu penserais ça."
+    sm "Uh-huh, bien sûr que tu pense ça."
 
 # game/code/Book-1/Chapter-7w/s01.rpy:264
 translate french b1c07ws01_measurement_a2e62047:
 
     # sm "Oh yeah! You talking about slacking off reminded me. Did you tell [mcname] about the party?"
-    sm "Oh, ouais! Ton histoire de paresse m'a rappelé quelque chose. Tu as parlé à [mcname] de la fête?"
+    sm "Oh, ouais! Ton histoire de paresse m'a rappelée quelque chose. Tu as parlé à [mcname] de la fête?"
 
 # game/code/Book-1/Chapter-7w/s01.rpy:267
 translate french b1c07ws01_measurement_4b853079:
 
     # ir "Fuck. I forgot."
-    ir "Merde. J'ai oublié."
+    ir "Merde. J'ai oubliée."
 
 # game/code/Book-1/Chapter-7w/s01.rpy:270
 translate french b1c07ws01_measurement_e579b600:
@@ -320,7 +320,7 @@ translate french b1c07ws01_measurement_651a71c5:
 translate french b1c07ws01_measurement_802c2b8a:
 
     # ir "It's just gonna be the Winner's team, nothing big."
-    ir "Ce sera juste l'équipe des gagnants, rien de grand."
+    ir "Ce sera juste l'équipe des Winner's, rien de grandios."
 
 # game/code/Book-1/Chapter-7w/s01.rpy:280
 translate french b1c07ws01_measurement_ae63c567:
@@ -350,7 +350,7 @@ translate french b1c07ws01_measurement_66022634:
 translate french b1c07ws01_measurement_78e2d47d:
 
     # sm "Why wouldn't she be good with it? We're boosting morale!"
-    sm "Pourquoi elle ne serait pas d'accord? On remonte le moral!"
+    sm "Pourquoi elle ne serait pas d'accord? Nous remontons le moral de l'équipe!"
 
 # game/code/Book-1/Chapter-7w/s01.rpy:294
 translate french b1c07ws01_measurement_ebf50642:
@@ -368,7 +368,7 @@ translate french b1c07ws01_measurement_6e4d5e31:
 translate french b1c07ws01_measurement_3ac50bf0:
 
     # mc "And yeah. I'm down to come by. As long as I'm not thrown out of the mansion."
-    mc "Et ouais. Je veux bien venir. Tant que je ne suis pas jeté dehors du manoir."
+    mc "Et ouais. Je veux bien venir. Tant que je ne me fais pas jeté dehors du manoir."
 
 # game/code/Book-1/Chapter-7w/s01.rpy:301
 translate french b1c07ws01_measurement_990e15c0:
@@ -398,19 +398,19 @@ translate french b1c07ws01_measurement_5a1c4472:
 translate french b1c07ws01_measurement_a313547f:
 
     # mc "You go on ahead. I'll help Silvia pack up and then I'll be there."
-    mc "Vas-y devant. Je vais aider Silvia à ranger et j'arrive."
+    mc "Pars devant. Je vais aider Silvia à ranger et j'arrive."
 
 # game/code/Book-1/Chapter-7w/s01.rpy:315
 translate french b1c07ws01_measurement_3d39b3d8:
 
     # ir "Goody two shoes.{w} Alright. See you two later then."
-    ir "Petit soumis.{w} D'accord. À plus tard tous les deux."
+    ir "Pour deux chaussures.{w} D'accord. À plus tard tous les deux."
 
 # game/code/Book-1/Chapter-7w/s01.rpy:318
 translate french b1c07ws01_measurement_31bcec9e:
 
     # ir "Bye, sweet cheeks."
-    ir "Salut, jolie fesse."
+    ir "Salut, jolies fesses."
 
 # game/code/Book-1/Chapter-7w/s01.rpy:321
 translate french b1c07ws01_measurement_15ff8a98:
