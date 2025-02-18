@@ -243,7 +243,7 @@ translate french b1c08ws09_a0a80a33:
 translate french b1c08ws09_a7557ab7:
 
     # oa "I lost my leg in a car accident when I was younger. Recovery was...difficult, to say the least."
-    oa "J'ai perdu ma jambe dans un accident de voiture quand j'étais plus jeune. La récupération a été... difficile, pour dire le moins."
+    oa "J'ai perdu ma jambe dans un accident de voiture quand j'étais plus jeune. La récupération a été... difficile, c'est le moins que je puisse dire."
 
 # game/code/Book-1/Chapter-8w/s09.rpy:131
 translate french b1c08ws09_ed5bcaa4:
@@ -261,7 +261,7 @@ translate french b1c08ws09_86fb28f3:
 translate french b1c08ws09_0e1adc11:
 
     # "Her fists clench as she speaks, knuckles whitening."
-    "Ses poings se serrent tandis qu'elle parle, ses jointures devenant blanches."
+    "Ses poings se serrent tandis qu'elle parle."
 
 # game/code/Book-1/Chapter-8w/s09.rpy:139
 translate french b1c08ws09_e7593bda:
@@ -279,13 +279,13 @@ translate french b1c08ws09_4803761d:
 translate french b1c08ws09_01080a33:
 
     # oa "Eventually, when I got into The Winners and saw the volleyball team, I replaced one addiction with another." id b1c08ws09_01080a33
-    oa "Finalement, quand j'ai rejoint The Winners et vu l'équipe de volley-ball, j'ai remplacé une dépendance par une autre." id b1c08ws09_01080a33
+    oa "Finalement, quand j'ai rejoint Les Winners et vu l'équipe de volley-ball, j'ai remplacé une dépendance par une autre." id b1c08ws09_01080a33
 
 # game/code/Book-1/Chapter-8w/s09.rpy:147
 translate french b1c08ws09_e086b976:
 
     # oa "I didn't think I could play without help from drugs. So I did what I had to. Playing with the volleyball team made me feel like I belonged. That I wasn't just broken."
-    oa "Je ne pensais pas pouvoir jouer sans l'aide des drogues. Alors j'ai fait ce que je devais. Jouer avec l'équipe de volley-ball m'a fait sentir que j'avais ma place. Que je n'étais pas juste brisée."
+    oa "Je ne pensais pas pouvoir jouer sans l'aide des drogues. Alors j'ai fait ce que je devais faire. Jouer avec l'équipe de volley-ball m'a fait sentir que j'avais ma place. Que je n'étais pas juste brisée."
 
 # game/code/Book-1/Chapter-8w/s09.rpy:150
 translate french b1c08ws09_76db8e01:
@@ -303,7 +303,7 @@ translate french b1c08ws09_be9c4e38:
 translate french b1c08ws09_daef0df5:
 
     # mc "I...thank you for sharing this with me."
-    mc "Je... merci de m'avoir partagé cela."
+    mc "Je... merci d'avoir partagé cela avec moi."
 
 # game/code/Book-1/Chapter-8w/s09.rpy:161
 translate french b1c08ws09_7b1aed20:
@@ -333,7 +333,7 @@ translate french b1c08ws09_bc0497bf:
 translate french b1c08ws09_ddc5d5b1:
 
     # oa "*Sighs* I've made my peace with my demons. I just wish you all didn't have to deal with it too."
-    oa "*Soupire* J'ai fait la paix avec mes démons. Je souhaite juste que vous n'ayez pas à en pâtir aussi."
+    oa "*Soupire* J'ai fait la paix avec mes démons. Je souhaite juste que tu n'aies pas à en pâtir aussi."
 
 # game/code/Book-1/Chapter-8w/s09.rpy:177
 translate french b1c08ws09_df540deb:
@@ -351,7 +351,7 @@ translate french b1c08ws09_14b4a236:
 translate french b1c08ws09_2b0398dd:
 
     # mc "For what it's worth, I never could've even guessed that you used a prosthetic. The way you played, you were a natural."
-    mc "Pour ce que ça vaut, je n'aurais jamais deviné que tu utilisais une prothèse. La manière dont tu jouais, tu étais une vraie naturelle."
+    mc "Pour ce que ça vaut, je n'aurais jamais deviné que tu utilisais une prothèse. La manière dont tu jouais, tu étais d'un naturel."
 
 # game/code/Book-1/Chapter-8w/s09.rpy:185
 translate french b1c08ws09_fc223158:
@@ -363,7 +363,7 @@ translate french b1c08ws09_fc223158:
 translate french b1c08ws09_75610801:
 
     # oa "Honestly, I'm sort of surprised that Monika didn't tattle already."
-    oa "Honnêtement, je suis un peu surprise que Monika ne soit pas déjà allée raconter ça."
+    oa "Honnêtement, je suis un peu surprise que Monika ne soit pas déjà allée te raconter ça."
 
 # game/code/Book-1/Chapter-8w/s09.rpy:191
 translate french b1c08ws09_3daaba2e:
@@ -405,7 +405,7 @@ translate french b1c08ws09_0fdaf12b:
 translate french b1c08ws09_3916687d:
 
     # oa "Monika and I...we have a history. A complicated one, to say the least."
-    oa "Monika et moi... nous avons une histoire. Une histoire compliquée, pour dire le moins."
+    oa "Monika et moi... nous avons une histoire. Une histoire compliquée, c'est le moins qu'on puisse dire."
 
 # game/code/Book-1/Chapter-8w/s09.rpy:205
 translate french b1c08ws09_bdebccf9:
@@ -429,7 +429,7 @@ translate french b1c08ws09_e18d737b:
 translate french b1c08ws09_49431eab:
 
     # "Her fists tighten again, knuckles white with the force of her grip. You can almost feel the heat of her anger."
-    "Ses poings se resserrent à nouveau, les jointures blanches sous la force de sa prise. On dirait qu'on peut presque sentir la chaleur de sa colère."
+    "Ses poings se resserrent à nouveau, ses doigts blanchis sous la force de sa prise. On dirait qu'on peut presque sentir la chaleur de sa colère."
 
 # game/code/Book-1/Chapter-8w/s09.rpy:213
 translate french b1c08ws09_d72fe19c:
@@ -441,7 +441,7 @@ translate french b1c08ws09_d72fe19c:
 translate french b1c08ws09_88a6d96b:
 
     # oa "She rallied people against me, and I was ousted from the club during my lowest."
-    oa "Elle a monté les gens contre moi, et j'ai été évincée du club pendant ma période la plus basse."
+    oa "Elle a monté les gens contre moi, et j'ai été évincée du club pendant ma période la plus sombre."
 
 # game/code/Book-1/Chapter-8w/s09.rpy:219
 translate french b1c08ws09_64701557:
@@ -495,7 +495,7 @@ translate french b1c08ws09_56f2c6a0:
 translate french b1c08ws09_ab398927:
 
     # mc "Guilty as charged. Can you blame me? It's been quite the eventful day."
-    mc "Coupable du chef d'accusation. Tu peux me blâmer? Ça a été une journée bien remplie."
+    mc "Je plaide coupable. Peux-tu vraiment me blâmer? Ça a été une journée bien remplie."
 
 # game/code/Book-1/Chapter-8w/s09.rpy:246
 translate french b1c08ws09_2a082f38:
