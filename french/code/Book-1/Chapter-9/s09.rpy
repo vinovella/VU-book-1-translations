@@ -3,7 +3,7 @@
 translate french b1c09s09_continue_d255b5b7:
 
     # "After classes, you show up to The Winner's mansion, ready to let loose and hopefully make progress on the investigation." id b1c09s09_continue_d255b5b7
-    "Après les cours, vous arrivez au manoir des Winner, prêt à vous détendre et, espérons-le, à faire progresser l'enquête." id b1c09s09_continue_d255b5b7
+    "Après les cours, vous arrivez au manoir des Winners, prêt à vous détendre et, espérons-le, à faire progresser l'enquête." id b1c09s09_continue_d255b5b7
 
 # game/code/Book-1/Chapter-9/s09.rpy:53
 translate french b1c09s09_continue_a1edf7db:
@@ -75,7 +75,7 @@ translate french b1c09s09_continue_5103a23d:
 translate french b1c09s09_continue_a3ef0aca:
 
     # ima "Anyway, enjoy yourself! I'll be in the mansion if you need anything."
-    ima "En tout cas, amusez-vous bien! Je serai dans le manoir si vous avez besoin de quoi que ce soit."
+    ima "En tout cas, amuses-toi bien! Je serai dans le manoir si tu as besoin de quoi pour que ce soit."
 
 # game/code/Book-1/Chapter-9/s09.rpy:102
 translate french b1c09s09_continue_0c6d4546:
