@@ -20,7 +20,7 @@ translate french b1c07ss02_17bc6980:
 translate french b1c07ss02_3922d01e:
 
     # "Guard" "Didn't know she was still being questioned. Figured they'd given up trying to crack her for information."
-    "Guard" "Je ne savais pas qu'elle était encore interrogée. Je pensais qu'ils avaient abandonné d'essayer de lui faire avouer quelque chose."
+    "Guard" "Je ne savais pas qu'elle était encore interrogée. Je pensais qu'ils avaient renoncé à lui demander des informations."
 
 # game/code/Book-1/Chapter-7s/s02.rpy:30
 translate french b1c07ss02_ef16fecf:
@@ -32,13 +32,13 @@ translate french b1c07ss02_ef16fecf:
 translate french b1c07ss02_db004851:
 
     # "Guard" "Yeah. She never revealed why she assaulted that guy."
-    "Guard" "Ouais. Elle n'a jamais révélé pourquoi elle a agressé ce type."
+    "Guard" "Ouais. Elle n'a jamais révélée pourquoi elle a agressée cette fille."
 
 # game/code/Book-1/Chapter-7s/s02.rpy:35
 translate french b1c07ss02_5f6b79b5:
 
     # "Guard" "Weird thing is, that guy didn't say much, either. It was almost like he was reluctant to get her arrested."
-    "Guard" "Ce qui est étrange, c'est que ce type n'a pas dit grand-chose non plus. C'était presque comme s'il hésitait à la faire arrêter."
+    "Guard" "Ce qui est étrange, c'est que cette fille n'a pas dit grand-chose non plus. C'était presque comme s'elle hésitait à la faire arrêter."
 
 # game/code/Book-1/Chapter-7s/s02.rpy:38
 translate french b1c07ss02_d2e701c4:
@@ -116,7 +116,7 @@ translate french b1c07ss02_ccc47384:
 translate french b1c07ss02_1c6a6b5e:
 
     # cb "Seriously? More questioning? You pigs can't get enough of me, huh?"
-    cb "Sérieusement? Encore des questions? Vous cochons ne pouvez pas en avoir assez de moi, hein?"
+    cb "Sérieusement? Encore des questions? Vous, les cochons, vous n'en avez jamais assez de moi, hein ??"
 
 # game/code/Book-1/Chapter-7s/s02.rpy:86
 translate french b1c07ss02_a96e24c5:
@@ -128,7 +128,7 @@ translate french b1c07ss02_a96e24c5:
 translate french b1c07ss02_bf6de2c3:
 
     # cb "They gave me fresh meat to play with, eh?"
-    cb "Ils m'ont donné de la viande fraîche à jouer, hein?"
+    cb "Ils m'ont donné de la viande fraîche pour jouer, hein ?"
 
 # game/code/Book-1/Chapter-7s/s02.rpy:95
 translate french b1c07ss02_f47a0be8:
@@ -194,13 +194,13 @@ translate french b1c07ss02_60da8027:
 translate french b1c07ss02_6e16eff7:
 
     # cb "Dunno. My memory's a bit fuzzy. Been a while since I talked to anyone outside of this place."
-    cb "Je ne sais pas. Ma mémoire est un peu floue. Ça fait un moment que je n'ai parlé à personne en dehors de cet endroit."
+    cb "Je ne sais pas. Ma mémoire est un peu floue. Ça fait un moment que je n'ai parlée à personne en dehors de cet endroit."
 
 # game/code/Book-1/Chapter-7s/s02.rpy:125
 translate french b1c07ss02_f49f646e:
 
     # mc "Are you always so...?"
-    mc "Tu es toujours aussi...?"
+    mc "Es-tu toujours aussi...?"
 
 # game/code/Book-1/Chapter-7s/s02.rpy:128
 translate french b1c07ss02_00e4bd8f:
@@ -224,7 +224,7 @@ translate french b1c07ss02_0ff80ba1:
 translate french b1c07ss02_0068f48a:
 
     # cb "I've gotta get my kicks somehow, sweetheart. Prison isn't exactly the most entertaining place."
-    cb "Je dois bien me divertir un peu, chérie. La prison n'est pas exactement l'endroit le plus divertissant."
+    cb "Je dois bien me divertir un peu, chéri. La prison n'est pas exactement l'endroit le plus divertissant."
 
 # game/code/Book-1/Chapter-7s/s02.rpy:138
 translate french b1c07ss02_b6d1c15e:
@@ -242,7 +242,7 @@ translate french b1c07ss02_a6c05bae:
 translate french b1c07ss02_d9d971be:
 
     # cb "It's just my luck they gave me a new {i}toy{/i} today."
-    cb "C'est ma chance qu'ils m'aient donné un nouveau {i}jouet{/i} aujourd'hui."
+    cb "C'est ma chance qu'ils m'aient donnée un nouveau {i}jouet{/i} aujourd'hui."
 
 # game/code/Book-1/Chapter-7s/s02.rpy:147
 translate french b1c07ss02_0566a923:
@@ -356,7 +356,7 @@ translate french b1c07ss02_910414f1:
 translate french b1c07ss02_f6c0bb23:
 
     # mc "I'd expect nothing less. What is it?"
-    mc "Je n'en attendais pas moins. Qu'est-ce que c'est?"
+    mc "Je n'en attendais pas moins. Qu'est-ce que tu veux?"
 
 # game/code/Book-1/Chapter-7s/s02.rpy:201
 translate french b1c07ss02_35b470c9:
@@ -422,7 +422,7 @@ translate french b1c07ss02_49a08542:
 translate french b1c07ss02_46bfe60d:
 
     # cb "The...organization she's involved with is pretty close-knit. You'll need my insider's info in order to get in."
-    cb "L'organisation avec laquelle elle est impliquée est assez soudée. Vous aurez besoin de mes informations privilégiées pour y entrer."
+    cb "L'organisation avec laquelle elle est impliquée est assez soudée. Tu auras besoin de mes informations privilégiées pour y entrer."
 
 # game/code/Book-1/Chapter-7s/s02.rpy:230
 translate french b1c07ss02_fd9728aa:
@@ -542,7 +542,7 @@ translate french b1c07ss02_cded6e5b:
 translate french b1c07ss02_65bc312d:
 
     # mct "She's got a strong grip."
-    mct "Elle a une prise solide."
+    mct "Elle a une forte emprise."
 
 # game/code/Book-1/Chapter-7s/s02.rpy:288
 translate french b1c07ss02_e91cd64b:
@@ -566,13 +566,13 @@ translate french b1c07ss02_0a9c16e0:
 translate french b1c07ss02_cf6d36ed:
 
     # cb "I don't have anything more to lose, sweetheart. I'm just biding time."
-    cb "Je n'ai plus rien à perdre, ma chère. Je ne fais que gagner du temps."
+    cb "Je n'ai plus rien à perdre, mon chèr. Je ne fais que gagner du temps."
 
 # game/code/Book-1/Chapter-7s/s02.rpy:298
 translate french b1c07ss02_80e59f92:
 
     # cb "And if that time is best spent visiting {i}old acquaintances{/i} then who am I to resist?"
-    cb "Et si ce temps est mieux passé à rendre visite à des {i}anciens amis{/i}, qui suis-je pour résister?"
+    cb "Et s'il est préférable de consacrer ce temps à rendre visite à de {i}vieilles connaissances{/i}, qui suis-je pour résister ?"
 
 # game/code/Book-1/Chapter-7s/s02.rpy:299
 translate french b1c07ss02_02d96d25:
@@ -602,7 +602,7 @@ translate french b1c07ss02_eb005c15:
 translate french b1c07ss02_c3de7263:
 
     # mc "I promise to deliver the letters, Cori. In exchange for info and aid."
-    mc "Je promets de livrer les lettres, Cori. En échange d'infos et d'aide."
+    mc "Je te promets de livrer les lettres, Cori. En échange d'infos et d'aide."
 
 # game/code/Book-1/Chapter-7s/s02.rpy:311
 translate french b1c07ss02_81847fbb:
