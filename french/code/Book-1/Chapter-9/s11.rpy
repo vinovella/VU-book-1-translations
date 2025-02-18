@@ -242,7 +242,7 @@ translate french b1c09s11_dk_sex_3462cb87:
 translate french b1c09s11_dk_sex_f1b1ace9:
 
     # mc "All in due time. Now stay still."
-    mc "Tout en temps voulu. Maintenant, reste immobile."
+    mc "En temps voulu. Maintenant, reste immobile."
 
 # game/code/Book-1/Chapter-9/s11.rpy:247
 translate french b1c09s11_dk_sex_eb4dbb74:
@@ -320,7 +320,7 @@ translate french b1c09s11_dk_sex_8d8b5e37:
 translate french b1c09s11_dk_sex_bbbcca06:
 
     # "You feel Delphia's warm wetness under your touch; she greedily moves her hips on your fingers."
-    "Vous sentez la chaleur humide de Delphia sous votre toucher ; elle bouge avidement ses hanches sur vos doigts."
+    "Vous sentez la chaleur humide de Delphia sous votre toucher , elle bouge avidement ses hanches sur vos doigts."
 
 # game/code/Book-1/Chapter-9/s11.rpy:310
 translate french b1c09s11_dk_sex_ccd89da9:
@@ -374,7 +374,7 @@ translate french b1c09s11_dk_sex_265ff933:
 translate french b1c09s11_dk_sex_fb1bfb2f:
 
     # dk "*Voice quivers* F-fuck."
-    dk "*Voix tremblante* P-punaise."
+    dk "*Voix tremblante* P-putain."
 
 # game/code/Book-1/Chapter-9/s11.rpy:333
 translate french b1c09s11_dk_sex_46de485b:
@@ -422,7 +422,7 @@ translate french b1c09s11_dk_sex_52ea9241:
 translate french b1c09s11_dk_sex_a06ba371:
 
     # "You feel her walls flutter around the tip of your cock, her hips lifting off the bed."
-    "Vous sentez ses parois palpiter autour du bout de votre sexe, ses hanches se soulevant du lit."
+    "Vous sentez ses paroies palpiter autour du bout de votre sexe, ses hanches se soulevant du lit."
 
 # game/code/Book-1/Chapter-9/s11.rpy:370
 translate french b1c09s11_dk_sex_00e6f66c:
@@ -476,7 +476,7 @@ translate french b1c09s11_dk_sex_eb4320fd:
 translate french b1c09s11_dk_sex_7784daeb:
 
     # "You grip her hips and pound into her as her wetness runs down her folds, making a mess of her."
-    "Vous agrippez ses hanches et la pénétrez avec force, tandis que son humidité coule le long de ses plis, la laissant trempée."
+    "Vous agrippez ses hanches et la pénétrez avec force, tandis que son humidité coule le long de ses levres, la laissant trempée."
 
 # game/code/Book-1/Chapter-9/s11.rpy:419
 translate french b1c09s11_dk_sex_40027b22:
@@ -656,7 +656,7 @@ translate french b1c09s11_dk_sex_ec92e264:
 translate french b1c09s11_dk_sex_2730fb5b:
 
     # mc "*Smirks* Did you just pee?"
-    mc "*Sourit en coin* Tu viens de faire pipi ?"
+    mc "*Sourit en coin* Tu viens de giclée?"
 
 # game/code/Book-1/Chapter-9/s11.rpy:518
 translate french b1c09s11_dk_sex_c51aa238:
@@ -668,7 +668,7 @@ translate french b1c09s11_dk_sex_c51aa238:
 translate french b1c09s11_dk_sex_a115ffba:
 
     # "You feel Delphia's warm piss trickling down your thighs, her juices mixing with the warm liquid."
-    "Vous sentez l'urine chaude de Delphia couler le long de vos cuisses, ses fluides se mêlant au liquide tiède."
+    "Vous sentez la cyprine chaude de Delphia couler le long de vos cuisses, ses fluides se mêlant au liquide tiède."
 
 # game/code/Book-1/Chapter-9/s11.rpy:522
 translate french b1c09s11_dk_sex_29b1a602:
@@ -680,7 +680,7 @@ translate french b1c09s11_dk_sex_29b1a602:
 translate french b1c09s11_dk_sex_7e82524b:
 
     # dk "*Playful* Well, I wanted to mark you as mine anyway."
-    dk "*Jouant* Eh bien, je voulais de toute façon te marquer comme mienne."
+    dk "*Espiègle* Eh bien, je voulais de toute façon te marquer comme mien."
 
 # game/code/Book-1/Chapter-9/s11.rpy:528
 translate french b1c09s11_dk_sex_2b35a5ab:
@@ -722,7 +722,7 @@ translate french b1c09s11_dk_sex_4f2e3801:
 translate french b1c09s11_more_watersports_4b1f40ec:
 
     # "You feel Delphia's warm piss coating your cock, and her breath hitches."
-    "Vous sentez l'urine chaude de Delphia recouvrir votre sexe, et son souffle se coupe."
+    "Vous sentez la cyprine chaude de Delphia recouvrir votre sexe, et son souffle se coupe."
 
 # game/code/Book-1/Chapter-9/s11.rpy:560
 translate french b1c09s11_more_watersports_f5941b12:
@@ -776,7 +776,7 @@ translate french b1c09s11_more_watersports_1f166002:
 translate french b1c09s11_more_watersports_25acae1b:
 
     # dk "*Teasingly* Oh, yeah? {i}Show me{/i}."
-    dk "*Taquin* Oh, vraiment ? {i}Montre-moi{/i}."
+    dk "*Taquin* Oh, vraiment? {i}Montre-moi{/i}."
 
 # game/code/Book-1/Chapter-9/s11.rpy:587
 translate french b1c09s11_more_watersports_5a0efd0b:
@@ -860,7 +860,7 @@ translate french b1c09s11_more_watersports_192d13a4:
 translate french b1c09s11_more_watersports_64eb3680:
 
     # "Each thrust pushing out your pee before you pull back and fill her up again."
-    "Chaque poussée fait sortir ton pipi avant de te retirer et de la remplir à nouveau."
+    "Chaque poussée fait sortir ta pisse avant de te retirer et de la remplir à nouveau."
 
 # game/code/Book-1/Chapter-9/s11.rpy:646
 translate french b1c09s11_after_watersports_1131d0d0:
@@ -938,7 +938,7 @@ translate french b1c09s11_after_watersports_ec660353:
 translate french b1c09s11_after_watersports_0be581c9:
 
     # dk "*Moaning* Yes, yes, yes! Fill me, breed me, make me yours!"
-    dk "*Gémissant* Oui, oui, oui! Remplissez-moi, élevez-moi, faites de moi le vôtre!"
+    dk "*Gémissant* Oui, oui, oui! Remplis-moi, éleve-moi, fait de moi la tienne!"
 
 # game/code/Book-1/Chapter-9/s11.rpy:699
 translate french b1c09s11_after_watersports_34924497:
@@ -956,7 +956,7 @@ translate french b1c09s11_after_watersports_c310d8ce:
 translate french b1c09s11_after_watersports_f7cff420:
 
     # mc "You...are insane."
-    mc "Tu... es fou."
+    mc "Tu... es folle."
 
 # game/code/Book-1/Chapter-9/s11.rpy:711
 translate french b1c09s11_after_watersports_7c0665a7:
@@ -992,13 +992,13 @@ translate french b1c09s11_after_watersports_1b5c159e:
 translate french b1c09s11_after_watersports_b97d5541:
 
     # mc "How do you feel?"
-    mc "Comment vous sentez-vous?"
+    mc "Comment te sens-tu?"
 
 # game/code/Book-1/Chapter-9/s11.rpy:733
 translate french b1c09s11_after_watersports_1cc55de9:
 
     # dk "Perfect. So claimed, so...complete. You?"
-    dk "Parfait. Tellement revendiqué, tellement... complet. Vous?"
+    dk "Parfait. Tellement revendiquée, tellement... complete. Et toi"
 
 # game/code/Book-1/Chapter-9/s11.rpy:738
 translate french b1c09s11_after_watersports_8bfa7f2b:
@@ -1106,7 +1106,7 @@ translate french b1c09s11_no_dk_b423918f:
 translate french b1c09s11_no_dk_12e901eb:
 
     # nv "*Giggles* Keep up!"
-    nv "*Rires* Continuez!"
+    nv "*Rires* Continue!"
 
 # game/code/Book-1/Chapter-9/s11.rpy:801
 translate french b1c09s11_no_dk_e0087a24:
@@ -1250,7 +1250,7 @@ translate french b1c09s11_no_dk_3592497b:
 translate french b1c09s11_no_dk_88de1e7e:
 
     # nv "Maybe this will show you just how lucky I feel."
-    nv "Peut-être que cela te montrera à quel point je me sens chanceux."
+    nv "Peut-être que cela te montrera à quel point je me sens chanceuse."
 
 # game/code/Book-1/Chapter-9/s11.rpy:864
 translate french b1c09s11_no_dk_d533b970:
