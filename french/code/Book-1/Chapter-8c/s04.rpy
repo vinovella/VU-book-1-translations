@@ -26,13 +26,13 @@ translate french b1c08cs04_87fddfe2:
 translate french b1c08cs04_7ef72d5e:
 
     # mc "I...guess so. There's definitely room for improvement."
-    mc "Je...je suppose. Il y a définitivement de la place pour s'améliorer."
+    mc "Je...je suppose. Il y a certainement de la place pour s'améliorer."
 
 # game/code/Book-1/Chapter-8c/s04.rpy:54
 translate french b1c08cs04_8391a0eb:
 
     # mc "I suppose I think it's not up to me. Do {i}you{/i} think you did good?"
-    mc "Je suppose que je pense que ce n'est pas à moi de juger. Est-ce que {i}toi{/i} penses que tu as bien fait?"
+    mc "Je pense que ce n'est pas à moi de juger. Est-ce que {i}tu{/i} penses que tu as bien fait?"
 
 # game/code/Book-1/Chapter-8c/s04.rpy:57
 translate french b1c08cs04_266dce2b:
@@ -68,7 +68,7 @@ translate french b1c08cs04_65648eba:
 translate french b1c08cs04_a3d5e111:
 
     # ll "It can be difficult for me to feel that way."
-    ll "Il m'est difficile de me sentir ainsi."
+    ll "Cela peut être difficile pour moi de ressentir cela.."
 
 # game/code/Book-1/Chapter-8c/s04.rpy:72
 translate french b1c08cs04_822aa5c3:
@@ -80,7 +80,7 @@ translate french b1c08cs04_822aa5c3:
 translate french b1c08cs04_737febb7:
 
     # ll "All my life I've hesitated. Been too timid to face challenges head on, or take opportunities when they came my way."
-    ll "Toute ma vie, j'ai hésité. J'ai été trop timide pour faire face aux défis directement, ou saisir les opportunités quand elles se sont présentées."
+    ll "Toute ma vie, j'ai hésitée. J'ai été trop timide pour faire face aux défis directement, ou saisir les opportunités quand elles se sont présentées."
 
 # game/code/Book-1/Chapter-8c/s04.rpy:79
 translate french b1c08cs04_79ad0f75:
@@ -122,13 +122,13 @@ translate french b1c08cs04_9f36464c:
 translate french b1c08cs04_34e647d3:
 
     # ll "But then I came along, and ruined everything."
-    ll "Mais ensuite, je suis arrivé, et j'ai tout gâché."
+    ll "Mais ensuite, je suis arrivée, et j'ai tout gâchée."
 
 # game/code/Book-1/Chapter-8c/s04.rpy:97
 translate french b1c08cs04_5e6dcb5f:
 
     # mc "That's not fair, Lumi. You need to view yourself with more worth than that."
-    mc "Ce n'est pas juste, Lumi. Tu dois te voir avec plus de valeur que cela."
+    mc "Ce n'est pas juste, Lumi. Tu dois te voir avec plus de valeur que ça."
 
 # game/code/Book-1/Chapter-8c/s04.rpy:98
 translate french b1c08cs04_0a235676:
@@ -140,7 +140,7 @@ translate french b1c08cs04_0a235676:
 translate french b1c08cs04_640abfcb:
 
     # mc "{i}You{/i} are responsible for your reality, right? That's part of what the self help group teaches."
-    mc "{i}Toi{/i} es responsable de ta réalité, non? C'est une partie de ce que le groupe d'entraide enseigne."
+    mc "{i}Tu{/i} es responsable de ta réalité, non? C'est une partie de ce que le groupe d'entraide enseigne."
 
 # game/code/Book-1/Chapter-8c/s04.rpy:102
 translate french b1c08cs04_5e24133e:
@@ -170,7 +170,7 @@ translate french b1c08cs04_80a91133:
 translate french b1c08cs04_5da88cc1:
 
     # ll "I appreciate your support. I'm not really sure I didn't ruin things for them, regardless of fairness."
-    ll "J'apprécie ton soutien. Je ne suis pas vraiment sûr de ne pas avoir gâché les choses pour eux, indépendamment de la justice."
+    ll "J'apprécie ton soutien. Je ne suis pas vraiment sûr de ne pas avoir gâchée les choses pour eux, indépendamment de l'équité."
 
 # game/code/Book-1/Chapter-8c/s04.rpy:114
 translate french b1c08cs04_77f3d192:
@@ -206,13 +206,13 @@ translate french b1c08cs04_2cb2c160:
 translate french b1c08cs04_e3cc29b0:
 
     # ll "They tried to travel with me. But as a kid I'd get extremely homesick."
-    ll "Ils ont essayé de voyager avec moi. Mais quand j'étais enfant, je devenais extrêmement nostalgique."
+    ll "Ils ont essayé de voyager avec moi. Mais quand j'étais enfant, j'avais extrêmement le mal du pays."
 
 # game/code/Book-1/Chapter-8c/s04.rpy:126
 translate french b1c08cs04_8c2e761e:
 
     # ll "They didn't want to make me miserable by forcing me to travel. But I made them miserable by forcing them to stay home."
-    ll "Ils ne voulaient pas me rendre misérable en me forçant à voyager. Mais je les ai rendus misérables en les forçant à rester à la maison."
+    ll "Ils ne voulaient pas me rendre malheureuse en me forçant à voyager. Mais je les ai rendus malheureux en les forçant à rester à la maison."
 
 # game/code/Book-1/Chapter-8c/s04.rpy:127
 translate french b1c08cs04_54fffd9e:
@@ -224,13 +224,13 @@ translate french b1c08cs04_54fffd9e:
 translate french b1c08cs04_3121cb6b:
 
     # ll "And I think they'd feel guilty if they left me for a long period of time... I think, anyway. When I was younger."
-    ll "Et je pense qu'ils se sentiraient coupables s'ils me laissaient pendant une longue période... Je pense, en tout cas. Quand j'étais plus jeune."
+    ll "Et je pense qu'ils se sentiraient coupables s'ils me quittaient pendant une longue période... Je pense, en tout cas. Quand j'étais plus jeune."
 
 # game/code/Book-1/Chapter-8c/s04.rpy:133
 translate french b1c08cs04_9efe4531:
 
     # ll "I'd hoped that by joining this group, going on this trip, maybe I'd discover some of their bravery in myself."
-    ll "J'avais espéré qu'en rejoignant ce groupe, en faisant ce voyage, peut-être que je découvrirais un peu de leur courage en moi."
+    ll "J'avais espérée qu'en rejoignant ce groupe, en faisant ce voyage, peut-être que je découvrirais un peu de leur courage en moi."
 
 # game/code/Book-1/Chapter-8c/s04.rpy:142
 translate french b1c08cs04_9e2fcaf8:
@@ -260,7 +260,7 @@ translate french b1c08cs04_34602a79:
 translate french b1c08cs04_cd5a09f2:
 
     # ll "Sometimes I feel resentful because it feels like everyone is asking so much of me..."
-    ll "Parfois, je me sens rancunière parce qu'on dirait que tout le monde me demande trop..."
+    ll "Parfois, j'éprouve du ressentiment parce que j'ai l'impression que tout le monde me demande tellement de choses...."
 
 # game/code/Book-1/Chapter-8c/s04.rpy:155
 translate french b1c08cs04_226bba93:
@@ -374,7 +374,7 @@ translate french b1c08cs04_de5ef226:
 translate french b1c08cs04_6e078cf2:
 
     # "Lumi's lips are uncertain, but experimental. Questioning."
-    "Les lèvres de Lumi sont incertaines, mais expérimentales. En question."
+    "Les lèvres de Lumi sont incertaines, mais expérimentales."
 
 # game/code/Book-1/Chapter-8c/s04.rpy:210
 translate french b1c08cs04_cfce055e:
@@ -470,7 +470,7 @@ translate french b1c08cs04_a6707e56:
 translate french b1c08cs04_e24e14b6:
 
     # ll "Is it something I did? Did I come on too strong?"
-    ll "Est-ce quelque chose que j'ai fait? Est-ce que je suis devenu trop fort?"
+    ll "Est-ce quelque chose que j'ai fait? Est-ce que je suis arrivée trop fort?"
 
 # game/code/Book-1/Chapter-8c/s04.rpy:260
 translate french b1c08cs04_70705b18:
@@ -512,7 +512,7 @@ translate french b1c08cs04_d9d1c145:
 translate french b1c08cs04_sex_a21359df:
 
     # ll "Wow...I mean I knew your physique was good, but up close like this..."
-    ll "Wow... je veux dire, je savais que ton physique était bon, mais de près comme ça..."
+    ll "Wow... je veux dire, je savais que ton physique était beau, mais de près comme ça..."
 
 # game/code/Book-1/Chapter-8c/s04.rpy:290
 translate french b1c08cs04_sex_5614dbd9:
@@ -536,13 +536,13 @@ translate french b1c08cs04_sex_d40da1e6:
 translate french b1c08cs04_sex_11500503:
 
     # ll "Make me feel safe and pleasured in your arms."
-    ll "Fais-moi me sentir en sécurité et heureux dans tes bras."
+    ll "Fais-moi me sentir en sécuritée et heureuse dans tes bras."
 
 # game/code/Book-1/Chapter-8c/s04.rpy:301
 translate french b1c08cs04_sex_e119df09:
 
     # mc "As you wish."
-    mc "Comme vous le souhaitez."
+    mc "Comme tu le souhaites."
 
 # game/code/Book-1/Chapter-8c/s04.rpy:310
 translate french b1c08cs04_sex_ab27d932:
@@ -590,7 +590,7 @@ translate french b1c08cs04_sex_0969c870:
 translate french b1c08cs04_sex_010f7a25:
 
     # ll "Mhm. Two fingers. I want to feel it."
-    ll "Mhm. Deux doigts. Je veux le sentir."
+    ll "Mhm. Deux doigts. Je veux les sentir."
 
 # game/code/Book-1/Chapter-8c/s04.rpy:344
 translate french b1c08cs04_sex_087d3859:
@@ -602,7 +602,7 @@ translate french b1c08cs04_sex_087d3859:
 translate french b1c08cs04_sex_a6c6fb9a:
 
     # mc "That's right, hold yourself up for me. You're doing so well, Lumi."
-    mc "C'est vrai, défends-toi. Tu vas si bien, Lumi."
+    mc "Ca va? détends-toi. Tout va bien, Lumi."
 
 # game/code/Book-1/Chapter-8c/s04.rpy:358
 translate french b1c08cs04_sex_785bb643:
@@ -638,7 +638,7 @@ translate french b1c08cs04_sex_efcbe952:
 translate french b1c08cs04_sex_f91d7231:
 
     # ll "*Giggles* I want to be brave. I want the whole camp to hear!"
-    ll "*Rires* Je veux être courageux. Je veux que tout le camp entende!"
+    ll "*Rires* Je veux être courageuse. Je veux que tout le camp entende!"
 
 # game/code/Book-1/Chapter-8c/s04.rpy:383
 translate french b1c08cs04_sex_f751a836:
@@ -734,7 +734,7 @@ translate french b1c08cs04_sex_7d4b14b5:
 translate french b1c08cs04_sex_651bf5b5:
 
     # mc "You feel so good. You're doing so well for me, Lumi."
-    mc "Tu te sens si bien. Tu fais si bien pour moi, Lumi."
+    mc "Tu es si bonne. Tu es si bien pour moi, Lumi."
 
 # game/code/Book-1/Chapter-8c/s04.rpy:465
 translate french b1c08cs04_sex_ec5250a4:
@@ -782,7 +782,7 @@ translate french b1c08cs04_sex_1f93e6be:
 translate french b1c08cs04_sex_9448b05c:
 
     # ll "You feel so good!"
-    ll "Tu te sens si bien!"
+    ll "Tu es si bon!"
 
 # game/code/Book-1/Chapter-8c/s04.rpy:489
 translate french b1c08cs04_sex_beea91de:
@@ -794,7 +794,7 @@ translate french b1c08cs04_sex_beea91de:
 translate french b1c08cs04_sex_f84cd6fe:
 
     # ll "I'm cumming!"
-    ll "Je jouis!"
+    ll "Je jouie!"
 
 # game/code/Book-1/Chapter-8c/s04.rpy:498
 translate french b1c08cs04_sex_a977a3f1:
@@ -806,13 +806,13 @@ translate french b1c08cs04_sex_a977a3f1:
 translate french b1c08cs04_sex_d500bfac:
 
     # mc "Good girl, Lumi. Cum for me."
-    mc "Bonne fille, Lumi. Jouis pour moi."
+    mc "Bonne fille, Lumi. Jouie pour moi."
 
 # game/code/Book-1/Chapter-8c/s04.rpy:502
 translate french b1c08cs04_sex_880a9b62:
 
     # "Your own climax approaches rapidly as you feel Lumi's body go through wave after wave of pleasure."
-    "Votre propre point culminant approche rapidement alors que vous sentez le corps de Lumi traverser vague après vague de plaisir."
+    "Votre propre point culminant approche rapidement alors que vous sentez le corps de Lumi traverser le plaisir vague après vague."
 
 # game/code/Book-1/Chapter-8c/s04.rpy:512
 translate french b1c08cs04_sex_9f122435:
@@ -854,7 +854,7 @@ translate french b1c08cs04_sex_1f685517:
 translate french b1c08cs04_sex_2df3c8e5:
 
     # mc "It's okay. Your body said all your words couldn't."
-    mc "C'est bon. Ton corps a dit que tous tes mots ne pouvaient pas le faire."
+    mc "C'est bon. Ton corps a dit tous les mots que ne pouvaient pas dire"
 
 # game/code/Book-1/Chapter-8c/s04.rpy:539
 translate french b1c08cs04_sex_affe7c6d:
@@ -866,7 +866,7 @@ translate french b1c08cs04_sex_affe7c6d:
 translate french b1c08cs04_sex_38d85bc8:
 
     # ll "Hm, it seems you've tuckered me out a lot. I feel so warm and cozy."
-    ll "Hm, on dirait que tu m'as beaucoup énervé. Je me sens si chaud et confortable."
+    ll "Hm, on dirait que tu m'as beaucoup énervée. Je me sens si chaude et confortable."
 
 # game/code/Book-1/Chapter-8c/s04.rpy:544
 translate french b1c08cs04_sex_2b8ad272:
@@ -884,7 +884,7 @@ translate french b1c08cs04_sex_5d4acbf9:
 translate french b1c08cs04_sex_5bc18c07:
 
     # mc "Don't let your fears hold you back."
-    mc "Ne laissez pas vos peurs vous retenir."
+    mc "Ne laisse pas tes peurs te retenir."
 
 # game/code/Book-1/Chapter-8c/s04.rpy:551
 translate french b1c08cs04_sex_81d8c369:
@@ -896,7 +896,7 @@ translate french b1c08cs04_sex_81d8c369:
 translate french b1c08cs04_sex_1d41e8cc:
 
     # mc "You don't have to change to satisfy anyone else."
-    mc "Vous n'êtes pas obligé de changer pour satisfaire quelqu'un d'autre."
+    mc "Tu n'es pas obligée de changer pour satisfaire quelqu'un d'autre."
 
 # game/code/Book-1/Chapter-8c/s04.rpy:555
 translate french b1c08cs04_sex_5f6b987e:
@@ -932,7 +932,7 @@ translate french b1c08cs04_sex_5772d1a0:
 translate french b1c08cs04_sex_d9cb4beb:
 
     # mct "That wasn't heavily suspected of involvement in a missing persons case."
-    mct "Il n'était pas fortement soupçonné d'être impliqué dans une affaire de personnes disparues."
+    mct "Qui n'était pas fortement soupçonnée d'être impliquée dans une affaire de personnes disparues."
 
 # game/code/Book-1/Chapter-8c/s04.rpy:580
 translate french b1c08cs04_sex_3e74d0dc:
