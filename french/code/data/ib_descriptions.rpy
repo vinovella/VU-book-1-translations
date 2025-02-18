@@ -357,9 +357,9 @@ translate french strings:
     old "Good friends with Simon."
     new "Bonne amie de Simon."
 
-    # game/code/data/ib_descriptions.rpy:2
-    old "Expresses strong dislike and distrust towards Olesya, referring to her as 'murderous'."
-    new "Exprime une forte aversion et méfiance envers Olesya, la qualifiant de 'meurtrière'."
+   # game/code/data/ib_descriptions.rpy:2
+    old "Expresses strong dislike and distrust towards Olesya, referring to her as \"murderous\"."
+    new "Exprime une forte aversion et méfiance envers Olesya, la qualifiant de "meurtrière"."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Mentioned trouble in the theater group due to an incident involving Olesya."
@@ -579,7 +579,7 @@ translate french strings:
 
     # game/code/data/ib_descriptions.rpy:2
     old "Cade is the \"collector\" for a gang called The Wasps."
-    new "Cade est le 'collecteur' pour un gang appelé Les Guêpes."
+    new "Cade est le \"collecteur\" pour un gang appelé Les Guêpes."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Connected to Zemfira. Performs \"favors\"."
