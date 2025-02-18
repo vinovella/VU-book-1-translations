@@ -33,7 +33,7 @@ translate french b1c08ws08_7bc97bfa:
 translate french b1c08ws08_532f6b3f:
 
     # mm "Good one."
-    mm "Bien joué."
+    mm "Bien vu."
 
 # game/code/Book-1/Chapter-8w/s08.rpy:62
 translate french b1c08ws08_d6c314e9:
@@ -135,7 +135,7 @@ translate french b1c08ws08_f0889ba1:
 translate french b1c08ws08_739c3387:
 
     # "Gingerly, you push yourself up into a sitting position, your head pounding with every excursion. The room floats for a moment before settling."
-    "Prudemment, tu te redresses en position assise, ta tête frappant à chaque mouvement. La pièce flotte un instant avant de se stabiliser."
+    "Avec précaution, tu te redresses en position assise, la tête te martelant à chaque mouvement. La pièce flotte un instant avant de se stabiliser."
 
 # game/code/Book-1/Chapter-8w/s08.rpy:107
 translate french b1c08ws08_f137ec4f:
@@ -195,13 +195,13 @@ translate french b1c08ws08_e2399461:
 translate french b1c08ws08_7d50196c:
 
     # tw "Was gonna call in an ambulance, but you mumbled something about not wanting that."
-    tw "J'avais prévu d'appeler une ambulance, mais tu as marmonné quelque chose à propos de ne pas en vouloir."
+    tw "J'avais prévue d'appeler une ambulance, mais tu as marmonné quelque chose à propos de ne pas en vouloir."
 
 # game/code/Book-1/Chapter-8w/s08.rpy:147
 translate french b1c08ws08_eac5a034:
 
     # tw "Figured you didn't wanna make a big scene, so I brought you here. My room."
-    tw "J'ai pensé que tu ne voulais pas faire une scène, alors je t'ai amené ici. Ma chambre."
+    tw "J'ai pensée que tu ne voulais pas faire une scène, alors je t'ai amené ici. Dans ma chambre."
 
 # game/code/Book-1/Chapter-8w/s08.rpy:150
 translate french b1c08ws08_679bd060:
@@ -303,7 +303,7 @@ translate french b1c08ws08_e07161ad:
 translate french b1c08ws08_d36cfe84:
 
     # tw "Thank you. We've been training hard for this."
-    tw "Merci. Nous avons beaucoup entraîné pour ça."
+    tw "Merci. Nous nous sommes beaucoup entraîné pour ça."
 
 # game/code/Book-1/Chapter-8w/s08.rpy:197
 translate french b1c08ws08_49a6e96e:
@@ -339,7 +339,7 @@ translate french b1c08ws08_40d915c9:
 translate french b1c08ws08_f8fd90b3:
 
     # "The room seems to have grown warmer; you can't exactly tell whether it's because of the tea or something else..."
-    "La pièce semble être devenue plus chaude; tu ne peux pas vraiment dire si c'est à cause du thé ou de quelque chose d'autre..."
+    "La pièce semble être devenue plus chaude, tu ne peux pas vraiment dire si c'est à cause du thé ou de quelque chose d'autre..."
 
 # game/code/Book-1/Chapter-8w/s08.rpy:211
 translate french b1c08ws08_5957fe32:
@@ -363,13 +363,13 @@ translate french b1c08ws08_35ef0978:
 translate french b1c08ws08_8af8e663:
 
     # tw "What's someone like you doing in a team like The Winners anyway?"
-    tw "Qu'est-ce qu'une personne comme toi fait dans une équipe comme Les Gagnants?"
+    tw "Qu'est-ce qu'une personne comme toi fait dans une équipe comme Les Winners?"
 
 # game/code/Book-1/Chapter-8w/s08.rpy:219
 translate french b1c08ws08_f739ed15:
 
     # mct "What is she getting at here?"
-    mct "Où veut-elle en venir ici?"
+    mct "Où veut-elle en venir?"
 
 # game/code/Book-1/Chapter-8w/s08.rpy:221
 translate french b1c08ws08_e6ef2dab:
@@ -387,7 +387,7 @@ translate french b1c08ws08_f71c8d53:
 translate french b1c08ws08_05ee22cb:
 
     # tw "You aren't like any of the other The Winners people I've interacted with."
-    tw "Tu n'es pas comme les autres membres des Gagnants avec qui j'ai interagi."
+    tw "Tu n'es pas comme les autres membres des Winners avec qui j'ai interagi."
 
 # game/code/Book-1/Chapter-8w/s08.rpy:230
 translate french b1c08ws08_8533756f:
@@ -411,13 +411,13 @@ translate french b1c08ws08_db25cb63:
 translate french b1c08ws08_fd01dcb1:
 
     # tw "Do you believe in seizing the moment, [mcname]?"
-    tw "Croyez-vous qu'il faut saisir l'instant présent, [mcname]?"
+    tw "Crois-tu qu'il faut saisir l'instant présent, [mcname]?"
 
 # game/code/Book-1/Chapter-8w/s08.rpy:238
 translate french b1c08ws08_55af2f58:
 
     # mc "I've been known to take a chance or two."
-    mc "Je suis connu pour tenter ma chance ou deux."
+    mc "Je suis connu pour tenter ma chance."
 
 # game/code/Book-1/Chapter-8w/s08.rpy:239
 translate french b1c08ws08_8c2f425e:
@@ -441,7 +441,7 @@ translate french b1c08ws08_30501bf3:
 translate french b1c08ws08_c336ca43:
 
     # "Her warmth steadies your battered constitution. As you both descend deeper into the kiss, your hand drifts up to caress her face."
-    "Sa chaleur stabilise votre constitution meurtrie. Alors que vous descendez tous les deux plus profondément dans le baiser, votre main dérive pour caresser son visage."
+    "Sa chaleur stabilise votre constitution meurtrie. Alors que vous descendez tous les deux plus profondément dans le baiser, votre main dérive pour caresser sses fesses."
 
 # game/code/Book-1/Chapter-8w/s08.rpy:266
 translate french b1c08ws08_e0e31174:
@@ -465,13 +465,13 @@ translate french b1c08ws08_133bb31f:
 translate french b1c08ws08_a21217f7:
 
     # tw "Not exactly the best at deciphering signals."
-    tw "Pas exactement le meilleur pour déchiffrer les signaux."
+    tw "je ne suis pas exactement la meilleur pour déchiffrer les signaux."
 
 # game/code/Book-1/Chapter-8w/s08.rpy:282
 translate french b1c08ws08_1852cc21:
 
     # tw "I'm sorry if I made you uncomfortable."
-    tw "Je suis désolé si je t'ai mis mal à l'aise."
+    tw "Je suis désolée si je t'ai mise mal à l'aise."
 
 # game/code/Book-1/Chapter-8w/s08.rpy:284
 translate french b1c08ws08_25eb49b9:
@@ -507,7 +507,7 @@ translate french b1c08ws08_sex_6798b3c5:
 translate french b1c08ws08_sex_fb4278b3:
 
     # mc "Just want to give appropriate thanks to my rescuer."
-    mc "Je veux juste remercier mon sauveur."
+    mc "Je veux juste remercier ma sauveteuse."
 
 # game/code/Book-1/Chapter-8w/s08.rpy:304
 translate french b1c08ws08_sex_00ce0628:
@@ -519,7 +519,7 @@ translate french b1c08ws08_sex_00ce0628:
 translate french b1c08ws08_sex_c91c3784:
 
     # "She needily pulls them down, granting access to what lies beneath."
-    "Elle les abaisse dans le besoin, donnant accès à ce qui se trouve en dessous."
+    "Elle l'abaisse dans le besoin, donnant accès à ce qui se trouve en dessous."
 
 # game/code/Book-1/Chapter-8w/s08.rpy:310
 translate french b1c08ws08_sex_c142bc87:
@@ -543,7 +543,7 @@ translate french b1c08ws08_sex_80bdc14f:
 translate french b1c08ws08_sex_e3bef3fe:
 
     # "You both moan into each other as she begins to stroke you. Her hands feel warm and soft. Everything is heightened between you two and you lose your sense of time as you give into her passion."
-    "Vous gémissez tous les deux l'un contre l'autre alors qu'elle commence à vous caresser. Ses mains sont chaudes et douces. Tout s'intensifie entre vous deux et vous perdez la notion du temps alors que vous vous abandonnez à sa passion."
+    "Vous gémissez tous les deux l'un contre l'autre alors qu'elle commence à vous branler. Ses mains sont chaudes et douces. Tous s'intensifies entre vous deux et vous perdez la notion du temps alors que vous vous abandonnez à sa passion."
 
 # game/code/Book-1/Chapter-8w/s08.rpy:358
 translate french b1c08ws08_sex_cb90b687:
@@ -561,19 +561,19 @@ translate french b1c08ws08_sex_1e319f4f:
 translate french b1c08ws08_sex_41f969a8:
 
     # "You grab her and push her down on your cock as you buck your hips to enter her as deep as she can take."
-    "Vous l'attrapez et la poussez sur votre bite pendant que vous courbez vos hanches pour la pénétrer aussi profondément qu'elle le peut."
+    "Vous l'attrapez et la poussez sur votre bite pendant que vous courbez vos hanches pour la pénétrer aussi profondément que vous le pouvez."
 
 # game/code/Book-1/Chapter-8w/s08.rpy:372
 translate french b1c08ws08_sex_6fcef406:
 
     # "Tiana falls onto you and grabs you for support as a loud moan of pleasure escapes her at your surprise."
-    "Tiana tombe sur toi et t'attrape pour te soutenir alors qu'un fort gémissement de plaisir lui échappe à ta surprise."
+    "Tiana tombe sur toi et t'attrape pour se soutenir alors qu'un fort gémissement de plaisir lui échappe à ta surprise."
 
 # game/code/Book-1/Chapter-8w/s08.rpy:373
 translate french b1c08ws08_sex_8b43ab42:
 
     # tw "You little shit..."
-    tw "Espèce de petite merde..."
+    tw "Ooohh putain de merde..."
 
 # game/code/Book-1/Chapter-8w/s08.rpy:375
 translate french b1c08ws08_sex_708510b0:
@@ -597,7 +597,7 @@ translate french b1c08ws08_sex_bca92274:
 translate french b1c08ws08_sex_c803146a:
 
     # "Her fingers dig into your skin in ecstasy, grabbing onto you for support as she greedily pushes her hips down on your cock."
-    "Ses doigts s'enfoncent dans ta peau en extase, s'agrippant à toi pour te soutenir alors qu'elle pousse goulûment ses hanches sur ta bite."
+    "Ses doigts s'enfoncent dans ta peau en extase, s'agrippant à toi pour se soutenir alors qu'elle pousse goulûment ses hanches sur ta bite."
 
 # game/code/Book-1/Chapter-8w/s08.rpy:400
 translate french b1c08ws08_sex_dc798966:
@@ -609,7 +609,7 @@ translate french b1c08ws08_sex_dc798966:
 translate french b1c08ws08_sex_e3bfb7cb:
 
     # "You oblige her needy request. With every thrust, you feel her walls tighten, desperate to keep you buried deep inside."
-    "Vous répondez à sa demande nécessiteuse. À chaque poussée, vous sentez ses murs se resserrer, désespérés de vous garder enfoui au plus profond de vous."
+    "Vous répondez à sa demande nécessiteuse. À chaque poussée, vous sentez ses paroies se resserrer, désespérés de vous garder enfoui au plus profond d'elle."
 
 # game/code/Book-1/Chapter-8w/s08.rpy:405
 translate french b1c08ws08_sex_468c30f9:
@@ -657,7 +657,7 @@ translate french b1c08ws08_sex_3449ad08:
 translate french b1c08ws08_sex_268b4148:
 
     # "Your teeth lightly tug at her slick skin as you lightly rub her clit between your fingers. Tiana gasps in a breath as she stretches and arches into you."
-    "Vos dents tirent légèrement sur sa peau lisse pendant que vous frottez légèrement son clitoris entre vos doigts. Tiana halète en haletant alors qu'elle s'étire et se cambre vers vous."
+    "Vos dents tirent légèrement sur sa peau lisse pendant que vous frottez légèrement son clitoris entre votre langue. Tiana halète alors qu'elle s'étire et se cambre vers vous."
 
 # game/code/Book-1/Chapter-8w/s08.rpy:445
 translate french b1c08ws08_sex_ab60cb13:
@@ -669,7 +669,7 @@ translate french b1c08ws08_sex_ab60cb13:
 translate french b1c08ws08_sex_11244135:
 
     # "You continue teasing and caressing her most sensitive spot as she breathes heavily, gripping the sheets tightly. Her hips move with yours, pushing against your fingers, desperate for a release that you quietly oblige."
-    "Vous continuez à taquiner et à caresser son point le plus sensible alors qu'elle respire fortement, agrippant fermement les draps. Ses hanches bougent avec les vôtres, poussant contre vos doigts, désespérées d'une libération que vous obligez tranquillement."
+    "Vous continuez à taquiner et à caresser son point le plus sensible alors qu'elle respire fortement, agrippant fermement les draps. Ses hanches suivent vos mouvements, poussant contre vos doigts, désespérées d'une libération que vous obligez tranquillement."
 
 # game/code/Book-1/Chapter-8w/s08.rpy:451
 translate french b1c08ws08_sex_5628d35b:
@@ -723,7 +723,7 @@ translate french b1c08ws08_sex_bbb9c677:
 translate french b1c08ws08_sex_0e784e93:
 
     # "You add more force to your thrusts, pushing yourself deeper and deeper into her eagerness."
-    "Vous ajoutez plus de force à vos poussées, vous poussant de plus en plus profondément dans son empressement."
+    "Vous ajoutez plus de force à vos poussées, vous poussant de plus en plus profondément dans sa chatte."
 
 # game/code/Book-1/Chapter-8w/s08.rpy:494
 translate french b1c08ws08_sex_04df111e:
@@ -747,7 +747,7 @@ translate french b1c08ws08_sex_7f749059:
 translate french b1c08ws08_sex_4d568008:
 
     # "You let out a feral growl as you spill your cum deep inside of her. Rope after rope, she takes it all as her own orgasm ravages her."
-    "Vous laissez échapper un grognement sauvage alors que vous répandez votre sperme au plus profond d'elle. Corde après corde, elle prend tout pendant que son propre orgasme la ravage."
+    "Vous laissez échapper un grognement sauvage alors que vous répandez votre sperme au plus profond d'elle. Jet après jet, elle prend tout pendant que son propre orgasme la ravage."
 
 # game/code/Book-1/Chapter-8w/s08.rpy:509
 translate french b1c08ws08_sex_033f78de:
@@ -771,7 +771,7 @@ translate french b1c08ws08_sex_7aa91262:
 translate french b1c08ws08_sex_c6be33b4:
 
     # tw "Maybe you should pass out in more random hallways that I can find you in."
-    tw "Peut-être que tu devrais t'évanouir dans des couloirs plus aléatoires dans lesquels je peux te trouver."
+    tw "Peut-être que tu devrais t'évanouir dans des couloirs plus souvent dans lesquels je peux te trouver."
 
 # game/code/Book-1/Chapter-8w/s08.rpy:530
 translate french b1c08ws08_sex_b21694d4:
@@ -807,13 +807,13 @@ translate french b1c08ws08_end_8b9f029f:
 translate french b1c08ws08_end_a4ef018b:
 
     # tw "I'm glad you're feeling better, [mcname]."
-    tw "Je suis content que tu te sentes mieux, [mcname]."
+    tw "Je suis contente que tu te sentes mieux, [mcname]."
 
 # game/code/Book-1/Chapter-8w/s08.rpy:559
 translate french b1c08ws08_end_62276331:
 
     # mc "Thank you, Tiana. I owe you one."
-    mc "Merci, Tiana. Je t'en dois un."
+    mc "Merci, Tiana. Je t'en dois une."
 
 # game/code/Book-1/Chapter-8w/s08.rpy:561
 translate french b1c08ws08_end_04a32349:
@@ -825,7 +825,7 @@ translate french b1c08ws08_end_04a32349:
 translate french b1c08ws08_end_38d21925:
 
     # tw "Oh, the roof has a pretty nice atmosphere this time of night, by the way. If you want some fresh air, you might enjoy it."
-    tw "Oh, au fait, le toit a une atmosphère plutôt agréable à cette heure de la nuit. Si vous voulez un peu d'air frais, vous pourriez en profiter."
+    tw "Oh, au fait, le toit a une atmosphère plutôt agréable à cette heure de la nuit. Si tu veux un peu d'air frais, tu pourrais en profiter."
 
 # game/code/Book-1/Chapter-8w/s08.rpy:565
 translate french b1c08ws08_end_be71a2e6:
@@ -837,13 +837,13 @@ translate french b1c08ws08_end_be71a2e6:
 translate french b1c08ws08_end_0ca929f2:
 
     # tw "Anytime, [mcname]."
-    tw "À tout moment, [mcname]."
+    tw "Quand tu veux, [mcname]."
 
 # game/code/Book-1/Chapter-8w/s08.rpy:570
 translate french b1c08ws08_end_f9ffb1d9:
 
     # tw "Don't be a stranger now."
-    tw "Ne sois pas un étranger maintenant."
+    tw "Ne sois plus un étranger maintenant."
 
 # game/code/Book-1/Chapter-8w/s08.rpy:572
 translate french b1c08ws08_end_42e6dd64:
