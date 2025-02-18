@@ -398,25 +398,25 @@ translate french b1c06ss07_56117535:
 translate french b1c06ss07_e1939d3f:
 
     # ef "I brought some cheesecak—"
-    ef "J'ai apporté du cheesecake—"
+    ef "J'ai apportée du cheesecake—"
 
 # game/code/Book-1/Chapter-6s/s07.rpy:382
 translate french b1c06ss07_81706d98:
 
     # ef "Oop, I'm sorry! I uh... I didn't realize you were bringing a boy over, Fleur."
-    ef "Oop, je suis désolé! Je, euh... je n'avais pas réalisé que tu amenais un garçon, Fleur."
+    ef "Oop, je suis désolée! Je, euh... je n'avais pas réalisée que tu ramenerais un garçon, Fleur."
 
 # game/code/Book-1/Chapter-6s/s07.rpy:386
 translate french b1c06ss07_f106968c:
 
     # ffl "I'm so sorry! I completely forgot about the time."
-    ffl "Je suis vraiment désolé! J'ai complètement oublié l'heure."
+    ffl "Je suis vraiment désolée! J'ai complètement oubliée l'heure."
 
 # game/code/Book-1/Chapter-6s/s07.rpy:389
 translate french b1c06ss07_2a9b021d:
 
     # ef "Woah, must've had a good time then if you forgot about me."
-    ef "Woah, tu as dû passer un bon moment alors si tu m'as oublié."
+    ef "Woah, tu as dû passer un bon moment alors si tu m'as oubliée."
 
 # game/code/Book-1/Chapter-6s/s07.rpy:394
 translate french b1c06ss07_3cfb7d3e:
@@ -428,13 +428,13 @@ translate french b1c06ss07_3cfb7d3e:
 translate french b1c06ss07_b07fe460:
 
     # ef "*Giggles* I'm messing with you. It's been {i}for-fucking-ever{/i}, I'm glad you brought someone around!"
-    ef "*Rires* Je me moque de toi. Ça fait {i}putain de toujours{/i}, je suis content que tu aies amené quelqu'un avec moi!"
+    ef "*Rires* Je me moque de toi. Ça fait {i}toujours du bien{/i}, je suis contente que tu aies amené quelqu'un avec toi!"
 
 # game/code/Book-1/Chapter-6s/s07.rpy:399
 translate french b1c06ss07_9b2fe9a0:
 
     # ef "Oh! And nice to meet you, by the way. Boy whose face I didn't really see."
-    ef "Oh! Et ravi de vous rencontrer, au fait. Un garçon dont je n'ai pas vraiment vu le visage."
+    ef "Oh! Et ravie de vous rencontrer, au fait. Un garçon dont je n'ai pas vraiment vu le visage."
 
 # game/code/Book-1/Chapter-6s/s07.rpy:402
 translate french b1c06ss07_3ef920ce:
@@ -452,7 +452,7 @@ translate french b1c06ss07_dae78501:
 translate french b1c06ss07_cb45cd61:
 
     # mc "In the flesh."
-    mc "En chair."
+    mc "En chair et en os."
 
 # game/code/Book-1/Chapter-6s/s07.rpy:414
 translate french b1c06ss07_6d5432c4:
