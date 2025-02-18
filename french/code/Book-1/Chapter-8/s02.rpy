@@ -8,13 +8,13 @@ translate french b1c08s02_ef0dfda3:
 translate french b1c08s02_64eef1ac:
 
     # jh "Nuh-uh! You didn't outclimb me at all! For all your muscles and showboating, you almost killed yourself {i}and{/i} Lara!"
-    jh "Non, non! Tu ne m'as pas dépassée en escalade du tout! Avec tous tes muscles et ta fanfaronnade, tu t'es presque tué {i}et{/i} Lara!"
+    jh "Non, non! Tu ne m'as pas dépassée en escalade du tout! Avec tous tes muscles et ta fanfaronnade, tu as failli te tuer {i}et{/i} Lara!"
 
 # game/code/Book-1/Chapter-8/s02.rpy:28
 translate french b1c08s02_99b53b06:
 
     # mc "Please, great feats of skill require great feats of risk. I outclimbed you fair and square. And not just that, I lifted you off your feet like nothing after."
-    mc "S'il te plaît, de grandes prouesses nécessitent de grands risques. Je t'ai dépassée en escalade, et ce de façon juste. Et pas seulement ça, je t'ai soulevée comme si de rien n'était après."
+    mc "S'il te plaît, de grandes prouesses nécessitent de grands risques. Je t'ai dépassé en escalade, et ce de façon juste. Et pas seulement ça, je t'ai soulevée comme si de rien n'était après."
 
 # game/code/Book-1/Chapter-8/s02.rpy:31
 translate french b1c08s02_226805f2:
@@ -38,7 +38,7 @@ translate french b1c08s02_14997808:
 translate french b1c08s02_12804669:
 
     # lw "*Chuckles* In. Your. Dreams. Lift me and I swear I'll rip your head off."
-    lw "*Rit* Dans. Tes. Rêves. Soulevez-moi et je jure que je t'arrache la tête."
+    lw "*Rit* Danst tes rêves. Souleve-moi et je jure que je t'arrache la tête."
 
 # game/code/Book-1/Chapter-8/s02.rpy:41
 translate french b1c08s02_af67b450:
@@ -50,7 +50,7 @@ translate french b1c08s02_af67b450:
 translate french b1c08s02_c8ecab88:
 
     # jh "Ugh, I'm hungry. How about we go get something to eat? There's a good Chinese place nearby."
-    jh "Beurk, j'ai faim. On va manger quelque chose? Il y a un bon resto chinois pas loin."
+    jh "Pouah, j'ai faim. On va manger quelque chose? Il y a un bon resto chinois pas loin."
 
 # game/code/Book-1/Chapter-8/s02.rpy:45
 translate french b1c08s02_c7309df2:
@@ -68,7 +68,7 @@ translate french b1c08s02_ba6b0cba:
 translate french b1c08s02_88c53824:
 
     # jh "It's a nice spot! I can't {i}not{/i} share it."
-    jh "C'est un joli coin! Je ne peux pas {i}ne pas{/i} le partager."
+    jh "C'est un joli coin! Je ne peux {i}ne pas{/i} le partager."
 
 # game/code/Book-1/Chapter-8/s02.rpy:55
 translate french b1c08s02_2eb62f13:
@@ -80,7 +80,7 @@ translate french b1c08s02_2eb62f13:
 translate french b1c08s02_73419859:
 
     # mc "We have a garden on the roof?"
-    mc "On a un jardin sur le toit?"
+    mc "Il y a un jardin sur le toit?"
 
 # game/code/Book-1/Chapter-8/s02.rpy:61
 translate french b1c08s02_fa22f380:
@@ -104,7 +104,7 @@ translate french b1c08s02_9248902e:
 translate french b1c08s02_f5e7f264:
 
     # jh "I did enjoy the meditation aspect of it, and the nature too, but then I got caught up with classes unfortunately. So, I left."
-    jh "J'ai bien aimé l'aspect méditation, et la nature aussi, mais malheureusement, je me suis laissée submerger par mes cours. Donc, j'ai quitté."
+    jh "J'ai bien aimé l'aspect méditation, et la nature aussi, mais malheureusement, je me suis laissée submerger par mes cours. Donc, j'ai quittée."
 
 # game/code/Book-1/Chapter-8/s02.rpy:70
 translate french b1c08s02_4884dd08:
@@ -146,7 +146,7 @@ translate french b1c08s02_5ba22f49:
 translate french b1c08s02_2bef185e:
 
     # mc "We have a rooftop garden?"
-    mc "On a un jardin sur le toit?"
+    mc "Il y a un jardin sur le toit?"
 
 # game/code/Book-1/Chapter-8/s02.rpy:88
 translate french b1c08s02_2f02766c:
@@ -188,7 +188,7 @@ translate french b1c08s02_at_garden_12cf63a5:
 translate french b1c08s02_at_garden_d2a3ed55:
 
     # mc "*Takes a deep breath* This is very nice. I can see why you'd want to come here."
-    mc "*Prend une grande inspiration* C'est vraiment agréable. Je comprends pourquoi tu voudrais venir ici."
+    mc "*Prend une grande inspiration* C'est vraiment agréable. Je comprends pourquoi tu voulais venir ici."
 
 # game/code/Book-1/Chapter-8/s02.rpy:117
 translate french b1c08s02_at_garden_c10953b0:
@@ -200,7 +200,7 @@ translate french b1c08s02_at_garden_c10953b0:
 translate french b1c08s02_at_garden_9936ea25:
 
     # lw "It's nice when it's empty; annoying when there are a lot of people though."
-    lw "C'est agréable quand il est vide ; agaçant quand il y a trop de monde."
+    lw "C'est agréable quand il est vide, mais agaçant quand il y a trop de monde."
 
 # game/code/Book-1/Chapter-8/s02.rpy:123
 translate french b1c08s02_at_garden_d7fed541:
@@ -218,13 +218,13 @@ translate french b1c08s02_at_garden_f9f4ff02:
 translate french b1c08s02_at_garden_97cfbc9b:
 
     # mc "Really? What were you escaping from?"
-    mc "Vraiment? De quoi tu voulais échapper?"
+    mc "Vraiment? De quoi voulais-tu t'échapper?"
 
 # game/code/Book-1/Chapter-8/s02.rpy:135
 translate french b1c08s02_at_garden_e7cc1b27:
 
     # jh "*Pauses* Oh, you know, the usual—stress, expectations, the fear of the unknown."
-    jh "*Pause* Oh, tu sais, les choses habituelles—le stress, les attentes, la peur de l'inconnu."
+    jh "*Pause* Oh, tu sais, les choses habituelles le stress, les attentes, la peur de l'inconnu."
 
 # game/code/Book-1/Chapter-8/s02.rpy:136
 translate french b1c08s02_at_garden_aaa1fdbb:
@@ -248,7 +248,7 @@ translate french b1c08s02_at_garden_ff5806d5:
 translate french b1c08s02_at_garden_e0268b40:
 
     # mc "I'm glad you two have each other. Sometimes we all need a sanctuary, whether that be garden or human."
-    mc "Je suis content que vous vous ayez l'une l'autre. Parfois, nous avons tous besoin d'un sanctuaire, que ce soit un jardin ou une personne."
+    mc "Je suis content que vous vous soyez trouvée l'une l'autre. Parfois, nous avons tous besoin d'un sanctuaire, que ce soit un jardin ou une personne."
 
 # game/code/Book-1/Chapter-8/s02.rpy:148
 translate french b1c08s02_at_garden_44732e92:
@@ -272,7 +272,7 @@ translate french b1c08s02_at_garden_f29115e7:
 translate french b1c08s02_at_garden_206e4476:
 
     # "After the hearty meal, you lean back and allow yourself to relax."
-    "Après le repas copieux, tu t'adosses et te laisses aller à la détente."
+    "Après un repas copieux, tu t'adosses et te laisses aller à la détente."
 
 # game/code/Book-1/Chapter-8/s02.rpy:159
 translate french b1c08s02_at_garden_3413d080:
@@ -320,7 +320,7 @@ translate french b1c08s02_at_garden_29b5b284:
 translate french b1c08s02_at_garden_5269916c:
 
     # lw "*Light smile* I'll leave the philosophizing to you two."
-    lw "*Petit sourire* Je vais laisser la philosophisation à vous deux."
+    lw "*Petit sourire* Je vous laisse philosopher tous les deux."
 
 # game/code/Book-1/Chapter-8/s02.rpy:180
 translate french b1c08s02_at_garden_f9c5e850:
@@ -332,7 +332,7 @@ translate french b1c08s02_at_garden_f9c5e850:
 translate french b1c08s02_at_garden_6b5be6a9:
 
     # lw "No, no. Don't. Stay. I'll be alright."
-    lw "Non, non. Ne t'inquiète pas. Reste. Ça ira."
+    lw "Non, non. Ne t'inquiète pas. Reste, Ça ira."
 
 # game/code/Book-1/Chapter-8/s02.rpy:188
 translate french b1c08s02_at_garden_487ca2a7:
@@ -362,7 +362,7 @@ translate french b1c08s02_at_garden_e95620e0:
 translate french b1c08s02_at_garden_8e8cc5c8:
 
     # "Lara walks away, her footsteps a quiet echo that soon fades into the ambient sounds of the garden."
-    "Lara s'éloigne, ses pas un écho discret qui se fond rapidement dans les sons ambiants du jardin."
+    "Lara s'éloigne, ses pas sont un écho discret qui se fond rapidement dans les sons ambiants du jardin."
 
 # game/code/Book-1/Chapter-8/s02.rpy:203
 translate french b1c08s02_at_garden_3462f6f4:
@@ -410,7 +410,7 @@ translate french b1c08s02_at_garden_e3e60241:
 translate french b1c08s02_at_garden_4e1dc05b:
 
     # mc "Hey. I understand. She's your rock; same way you're hers."
-    mc "Hé. Je comprends. C'est ton rocher; de la même façon que tu es le sien."
+    mc "Hé. Je comprends. C'est ton rocher, de la même façon que tu es le sien."
 
 # game/code/Book-1/Chapter-8/s02.rpy:226
 translate french b1c08s02_at_garden_3b5ab0aa:
@@ -452,7 +452,7 @@ translate french b1c08s02_at_garden_3b94aaae:
 translate french b1c08s02_at_garden_ecdd609b:
 
     # "She laughs. It's a soft thing, quiet. Just meant for your ears alone."
-    "Elle rit. C'est quelque chose de doux, calme. Juste pour tes oreilles."
+    "Elle rit. C'est quelque chose de doux et calme. Juste destiné à tes oreilles."
 
 # game/code/Book-1/Chapter-8/s02.rpy:247
 translate french b1c08s02_at_garden_8fefc1f6:
@@ -464,13 +464,13 @@ translate french b1c08s02_at_garden_8fefc1f6:
 translate french b1c08s02_at_garden_9c24ef09:
 
     # "Josie's question hangs in the air. Your heart beats with need, its decision made already."
-    "La question de Josie flotte dans l'air. Ton cœur bat avec un besoin pressant, sa décision déjà prise."
+    "La question de Josie flotte dans l'air. Ton cœur bat avec un besoin pressant, sa décision est déjà prise."
 
 # game/code/Book-1/Chapter-8/s02.rpy:250
 translate french b1c08s02_at_garden_155c6db5:
 
     # "A kiss could be innocent, yet it tugs at you, hinting at a road that veers from the path of your investigation. Yet, you can't deny the pull of your genuine affection for her."
-    "Un baiser pourrait être innocent, mais il te tire, laissant entrevoir un chemin qui s'écarte de l'enquête. Pourtant, tu ne peux nier l'attirance réelle que tu ressens pour elle."
+    "Un baiser pourrait être innocent, pourtant ça te tire, laissant entrevoir un chemin qui s'écarte de l'enquête. Mais, tu ne peux nier l'attirance réelle que tu ressens pour elle."
 
 # game/code/Book-1/Chapter-8/s02.rpy:255
 translate french b1c08s02_at_garden_c59c8421:
@@ -560,7 +560,7 @@ translate french b1c08s02_jh_kiss_9d2ccebf:
 translate french b1c08s02_jh_kiss_2f2b2b7f:
 
     # mc "I'm sorry it took me this long to notice."
-    mc "Je suis désolée que ça m'ait pris autant de temps pour le remarquer."
+    mc "Je suis désolé que ça m'ait pris autant de temps pour le remarquer."
 
 # game/code/Book-1/Chapter-8/s02.rpy:306
 translate french b1c08s02_jh_kiss_31eff69d:
@@ -584,7 +584,7 @@ translate french b1c08s02_jh_kiss_d3a75df4:
 translate french b1c08s02_jh_kiss_7163d55d:
 
     # "A moment of vulnerability and strength all wrapped up in the soft but needy meeting of your lips."
-    "Un moment de vulnérabilité et de force, tout enveloppé dans la douce mais intense rencontre de vos lèvres."
+    "Un moment de vulnérabilité et de force, le tout enveloppé dans la douce mais intense rencontre de vos lèvres."
 
 # game/code/Book-1/Chapter-8/s02.rpy:319
 translate french b1c08s02_jh_kiss_3ce211da:
@@ -596,7 +596,7 @@ translate french b1c08s02_jh_kiss_3ce211da:
 translate french b1c08s02_jh_kiss_f28bd4f1:
 
     # "You moan out her name in need as she does yours, you feel her craving more and it urges you to move closer to her. Pull her in as yours and yours alone, and never let go."
-    "Tu gémis son nom par besoin, tout comme elle fait de même pour le tien, tu sens qu'elle en veut plus et cela t'incite à te rapprocher d'elle. Attire-la vers toi, comme tienne et tienne seule, et ne la lâche jamais."
+    "Tu gémis son nom par besoin, tout comme elle fait de même pour le tien, tu sens qu'elle en veut plus et cela t'incite à te rapprocher d'elle. Tu l'attires vers toi, comme tienne et tienne seule, et ne la lâche jamais."
 
 # game/code/Book-1/Chapter-8/s02.rpy:327
 translate french b1c08s02_jh_kiss_1cfcbfc7:
@@ -644,7 +644,7 @@ translate french b1c08s02_jh_kiss_325811bb:
 translate french b1c08s02_jh_kiss_2e6f7a88:
 
     # mc "Hm. I understand. It's okay. I'm not exactly Mr. Freeze myself."
-    mc "Hm. Je comprends. C'est okay. Je ne suis pas exactement Mr. Freeze non plus."
+    mc "Hm. Je comprends. C'est okay. Je ne suis pas exactement Mr.Freeze non plus."
 
 # game/code/Book-1/Chapter-8/s02.rpy:349
 translate french b1c08s02_jh_kiss_b0401569:
@@ -662,7 +662,7 @@ translate french b1c08s02_jh_kiss_73fa7724:
 translate french b1c08s02_jh_kiss_f207bfa4:
 
     # jh "*Snorts* I must seem like such a mess to you."
-    jh "*Rit* Je dois te sembler être un vrai chaos."
+    jh "*Rit* Je dois te sembler être un vrai désastre."
 
 # game/code/Book-1/Chapter-8/s02.rpy:357
 translate french b1c08s02_jh_kiss_9ac867fc:
@@ -674,7 +674,7 @@ translate french b1c08s02_jh_kiss_9ac867fc:
 translate french b1c08s02_jh_kiss_31891c8a:
 
     # "The two of you sit there in a serene cocoon of comfort, the plants around you silent witnesses to the fragile beginnings of something beautiful."
-    "Vous êtes là tous les deux, dans un cocon de confort serein, les plantes autour de vous étant des témoins silencieux des commencements fragiles de quelque chose de beau."
+    "Vous êtes là tous les deux, dans un cocon de confort serein, les plantes autour de vous étant des témoins silencieux du commencements fragile de quelque chose de beau."
 
 # game/code/Book-1/Chapter-8/s02.rpy:364
 translate french b1c08s02_jh_kiss_774ca81e:
@@ -692,7 +692,7 @@ translate french b1c08s02_jh_kiss_cacdc57c:
 translate french b1c08s02_jh_kiss_4222a5ef:
 
     # mc "Complicated doesn't scare me. Simple's overrated anyway."
-    mc "Le compliqué ne me fait pas peur. Le simple est de toute façon surestimé."
+    mc "Compliqué ne me fait pas peur. De toute façon, la simplicité est surfaite."
 
 # game/code/Book-1/Chapter-8/s02.rpy:373
 translate french b1c08s02_jh_kiss_fef1c7cc:
@@ -704,13 +704,13 @@ translate french b1c08s02_jh_kiss_fef1c7cc:
 translate french b1c08s02_jh_kiss_d8ebb5f1:
 
     # jh "*Soft laugh* How do you always know what to say?"
-    jh "*Rire doux* Comment tu sais toujours quoi dire?"
+    jh "*Rire doux* Comment sais-tu toujours quoi dire?"
 
 # game/code/Book-1/Chapter-8/s02.rpy:378
 translate french b1c08s02_jh_kiss_cea57119:
 
     # mc "I just say what I really feel. I find it usually works out somehow."
-    mc "Je dis simplement ce que je ressens vraiment. Je trouve que ça fonctionne généralement d'une manière ou d'une autre."
+    mc "Je dis simplement ce que je ressens vraiment. Je trouve que ça fonctionne bien généralement, d'une manière ou d'une autre."
 
 # game/code/Book-1/Chapter-8/s02.rpy:381
 translate french b1c08s02_jh_kiss_31219e04:
