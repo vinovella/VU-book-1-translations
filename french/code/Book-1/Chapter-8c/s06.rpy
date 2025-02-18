@@ -26,7 +26,7 @@ translate french b1c08cs06_334fefa5:
 translate french b1c08cs06_6ac9b8db:
 
     # "Nia's the only other one awake, stretching her body into slender, pleasing lines."
-    "Nia est la seule autre éveillée, étirant son corps en lignes fines et agréables."
+    "Nia est la seule autre éveillée, étirant son corps fin et agréables."
 
 # game/code/Book-1/Chapter-8c/s06.rpy:40
 translate french b1c08cs06_ec07aec2:
@@ -134,7 +134,7 @@ translate french b1c08cs06_c4597e22:
 translate french b1c08cs06_98b9b742:
 
     # nv "Why wouldn't I trust them? These people, this way of experiencing the world... It's given me a new, exciting direction in life."
-    nv "Pourquoi ne leur ferais-je pas confiance? Ces gens, cette façon de voir le monde... Cela m'a donné une nouvelle direction excitante dans la vie."
+    nv "Pourquoi ne leur ferais-je pas confiance? Ces gens, cette façon de voir le monde... Cela m'a donnée une nouvelle direction excitante dans la vie."
 
 # game/code/Book-1/Chapter-8c/s06.rpy:94
 translate french b1c08cs06_327900d7:
@@ -182,7 +182,7 @@ translate french b1c08cs06_836a691f:
 translate french b1c08cs06_19fa4c0b:
 
     # mc "I just mean that it seems like a lot to expect."
-    mc "Je veux juste dire que ça semble beaucoup à attendre."
+    mc "Je veux juste dire qu'il semble y avoir beaucoup de choses à attendre."
 
 # game/code/Book-1/Chapter-8c/s06.rpy:111
 translate french b1c08cs06_228fde19:
@@ -200,7 +200,7 @@ translate french b1c08cs06_c9da794d:
 translate french b1c08cs06_420a508a:
 
     # mc "Is that what you'd call last night? Pushing Lumi to go at her own pace?"
-    mc "C'est ça que tu appellerais la soirée dernière? Pousser Lumi à aller à son rythme?"
+    mc "C'est comme ça que tu appellerais la soirée dernière? Pousser Lumi à aller à son rythme?"
 
 # game/code/Book-1/Chapter-8c/s06.rpy:118
 translate french b1c08cs06_a79307df:
@@ -212,7 +212,7 @@ translate french b1c08cs06_a79307df:
 translate french b1c08cs06_920ac03d:
 
     # nv "And if anyone—including Lumi—truly said no, Andre and Ivy would listen. I truly believe that."
-    nv "Et si quelqu'un—y compris Lumi—disait vraiment non, Andre et Ivy écouteraient. Je crois vraiment cela."
+    nv "Et si quelqu'un, y compris Lumi—disait vraiment non, Andre et Ivy écouteraient. Je crois vraiment cela."
 
 # game/code/Book-1/Chapter-8c/s06.rpy:120
 translate french b1c08cs06_5ea7d46e:
@@ -272,13 +272,13 @@ translate french b1c08cs06_11ac098d:
 translate french b1c08cs06_cfa9a20d:
 
     # nv "I do know one thing though; I don't want to lose you."
-    nv "Je sais une chose cependant ; je ne veux pas te perdre."
+    nv "Je sais une chose cependant,  je ne veux pas te perdre."
 
 # game/code/Book-1/Chapter-8c/s06.rpy:141
 translate french b1c08cs06_53ed337e:
 
     # nv "I've really enjoyed our time together."
-    nv "J'ai vraiment apprécié notre temps ensemble."
+    nv "J'ai vraiment appréciée notre temps ensemble."
 
 # game/code/Book-1/Chapter-8c/s06.rpy:145
 translate french b1c08cs06_a25e1156:
@@ -296,7 +296,7 @@ translate french b1c08cs06_190a7cbb:
 translate french b1c08cs06_c6bb78a3:
 
     # nv "Good morning, Ivy. I hope you slept well."
-    nv "Bonjour, Ivy. J'espère que tu as bien dormi."
+    nv "Bonjour, Ivy. J'espère que tu as bien dormie."
 
 # game/code/Book-1/Chapter-8c/s06.rpy:156
 translate french b1c08cs06_5b7c618d:
@@ -356,7 +356,7 @@ translate french b1c08cs06_198dd40d:
 translate french b1c08cs06_91421ee0:
 
     # nv "Me too! What did you think of last night?"
-    nv "Moi aussi! Qu'as-tu pensé de la soirée d'hier?"
+    nv "Moi aussi! Qu'as-tu pensée de la soirée d'hier?"
 
 # game/code/Book-1/Chapter-8c/s06.rpy:186
 translate french b1c08cs06_c974dda1:
@@ -386,13 +386,13 @@ translate french b1c08cs06_d207c837:
 translate french b1c08cs06_b847a0fa:
 
     # ih "Of course. I'll get it for you right away."
-    ih "Bien sûr. Je vais te l'apporter tout de suite."
+    ih "Bien sûr. Je vais te l'apporte tout de suite."
 
 # game/code/Book-1/Chapter-8c/s06.rpy:197
 translate french b1c08cs06_0f747084:
 
     # "Ivy saunters away to get you your drink."
-    "Ivy s'éloigne en flânant pour aller chercher ta boisson."
+    "Ivy s'éloigne en flânant pour aller chercher ton café."
 
 # game/code/Book-1/Chapter-8c/s06.rpy:199
 translate french b1c08cs06_64a527a3:
@@ -488,7 +488,7 @@ translate french b1c08cs06_d171d941:
 translate french b1c08cs06_8bffd543:
 
     # nv "She seems to care for you a lot. I'm sure it's coming from a place of purity."
-    nv "Elle semble beaucoup tenir à toi. Je suis sûre que cela vient d'un endroit pur."
+    nv "Elle semble beaucoup tenir à toi. Je suis sûre que cela vient d'un sentiment pur."
 
 # game/code/Book-1/Chapter-8c/s06.rpy:240
 translate french b1c08cs06_f0a16c35:
@@ -500,7 +500,7 @@ translate french b1c08cs06_f0a16c35:
 translate french b1c08cs06_9ceb32f2:
 
     # ys "And having an assistant to train on firewatch, and help me care for my baby would be very nice."
-    ys "Et avoir une assistante pour me former à la surveillance des incendies et m'aider à m'occuper de mon bébé serait très agréable."
+    ys "Et avoir une assistante pour la former à la surveillance des incendies et m'aider à m'occuper de mon bébé serait très agréable."
 
 # game/code/Book-1/Chapter-8c/s06.rpy:244
 translate french b1c08cs06_84059336:
@@ -522,11 +522,13 @@ translate french b1c08cs06_fcb0d07f:
 
 # game/code/Book-1/Chapter-8c/s06.rpy:253
 translate french b1c08cs06_a9899982:
+
     # ih "Here you are."
     ih "Voici."
 
 # game/code/Book-1/Chapter-8c/s06.rpy:256
 translate french b1c08cs06_bb0eeaf4:
+
     # mc "Thank you."
     mc "Merci."
 
@@ -570,7 +572,7 @@ translate french b1c08cs06_69057889:
 translate french b1c08cs06_6878f959:
 
     # ys "Oh! Don't be such a killjoy, Ivy. Nia asked."
-    ys "Oh! Ne sois pas une rabat-joie, Ivy. Nia a posé la question."
+    ys "Oh! Ne sois pas une rabat-joie, Ivy. Nia a posée la question."
 
 # game/code/Book-1/Chapter-8c/s06.rpy:277
 translate french b1c08cs06_c14d4e45:
@@ -582,7 +584,7 @@ translate french b1c08cs06_c14d4e45:
 translate french b1c08cs06_299c2681:
 
     # nv "I remember you mentioning her when we first met."
-    nv "Je me souviens que tu en as parlé quand on s'est rencontrées pour la première fois."
+    nv "Je me souviens que tu en as parlée quand on s'est rencontrées pour la première fois."
 
 # game/code/Book-1/Chapter-8c/s06.rpy:283
 translate french b1c08cs06_8ea7f5cc:
@@ -666,7 +668,7 @@ translate french b1c08cs06_6105367c:
 translate french b1c08cs06_fb08ac56:
 
     # mct "I remember that name from the cave."
-    mct "Je me souviens de ce nom de la grotte."
+    mct "Je me souviens d'avoir entendu ce nom dans grotte."
 
 # game/code/Book-1/Chapter-8c/s06.rpy:346
 translate french b1c08cs06_e67fdae5:
@@ -750,7 +752,7 @@ translate french b1c08cs06_27367e0d:
 translate french b1c08cs06_be5b9317:
 
     # ys "Narurra was completely alone. She knew she had to escape. So she distracted her lover and stole his keys to the house and planned to leave that night."
-    ys "Narurra était complètement seule. Elle savait qu'elle devait s'échapper. Elle distraite son amant, lui vola les clés de la maison et prépara son départ pour cette nuit-là."
+    ys "Narurra était complètement seule. Elle savait qu'elle devait s'échapper. Elle distrait son amant, lui vola les clés de la maison et prépara son départ pour cette nuit-là."
 
 # game/code/Book-1/Chapter-8c/s06.rpy:392
 translate french b1c08cs06_790bff93:
@@ -918,7 +920,7 @@ translate french b1c08cs06_4af123ca:
 translate french b1c08cs06_e63fc640:
 
     # ys "There's an ancient ritual from old settlements that used to live here. They painted their most favored maidens with red berries, or sometimes even blood..."
-    ys "Il existe un ancien rituel des anciens établissements qui vivaient ici. Ils peignaient leurs jeunes filles les plus chéries avec des baies rouges, ou parfois même du sang..."
+    ys "Il y a un ancien rituel issu des anciennes colonies qui vivaient ici. Ils peignaient leurs jeunes filles les plus chéries avec des baies rouges, ou parfois même du sang..."
 
 # game/code/Book-1/Chapter-8c/s06.rpy:507
 translate french b1c08cs06_bec22210:
@@ -942,7 +944,7 @@ translate french b1c08cs06_9bf2d7dd:
 translate french b1c08cs06_e2314801:
 
     # ys "Sorry! Sorry. I love my theatrics."
-    ys "Désolée! Désolée. J'aime bien mes théâtrales."
+    ys "Désolée! Désolée. J'aime être théâtrales."
 
 # game/code/Book-1/Chapter-8c/s06.rpy:519
 translate french b1c08cs06_3c667dc8:
@@ -1062,7 +1064,7 @@ translate french b1c08cs06_ad60e224:
 translate french b1c08cs06_9024f57b:
 
     # dk "I've been looking all over for you. Breakfast is ready! Come eat."
-    dk "Je vous ai cherchés partout. Le petit-déjeuner est prêt! Venez manger."
+    dk "Je vous ai cherchées partout. Le petit-déjeuner est prêt! Venez manger."
 
 # game/code/Book-1/Chapter-8c/s06.rpy:571
 translate french b1c08cs06_a6778112:
@@ -1146,5 +1148,5 @@ translate french b1c08cs06_c014c647:
 translate french b1c08cs06_01c85351:
 
     # ih "You all go without me. I already had breakfast..."
-    ih "Allez tous sans moi. J'ai déjà pris le petit-déjeuner..."
+    ih "Allez tous sans moi. J'ai déjà pris mon petit-déjeuner..."
 
