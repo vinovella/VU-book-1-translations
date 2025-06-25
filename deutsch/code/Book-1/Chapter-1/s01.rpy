@@ -8,7 +8,7 @@ translate deutsch b1c01s01_ebc5e62c:
 translate deutsch b1c01s01_a1c8d635:
 
     # mom "Promise to be good. For me. Don't get into trouble, and eat well! You promise?"
-    mom "Versprich, gut zu sein. Für mich. Mach keinen Ärger und iss gut! Versprichst du das?"
+    mom "Versprich, lieb zu sein. Für mich. Mach keinen Ärger und iss gut! Versprichst du das?"
 
 # game/code/Book-1/Chapter-1/s01.rpy:25
 translate deutsch b1c01s01_2897b762:
@@ -20,7 +20,7 @@ translate deutsch b1c01s01_2897b762:
 translate deutsch b1c01s01_27765c72:
 
     # mom "Okay, okay. Just text me later!"
-    mom "Okay, okay. Schreib mir einfach später eine SMS!"
+    mom "Okay, okay. Schreib mir einfach später!"
 
 # game/code/Book-1/Chapter-1/s01.rpy:30
 translate deutsch b1c01s01_df1f7e4c:
@@ -38,13 +38,13 @@ translate deutsch b1c01s01_104f39ec:
 translate deutsch b1c01s01_2956eb49:
 
     # "{color=#6e50c3}Girl{/color}" "Hi! I am Silvia and you are?" (who_outlines=[(1, "#e1e1e1", 0, 0)], kerning=1)
-    "{color=#6e50c3}Girl{/color}" "Hallo! Ich bin Silvia und du bist" (who_outlines=[(1, "#e1e1e1", 0, 0)], kerning=1)
+    "{color=#6e50c3}Girl{/color}" "Hallo! Ich bin Silvia und du bist?" (who_outlines=[(1, "#e1e1e1", 0, 0)], kerning=1)
 
 # game/code/Book-1/Chapter-1/s01.rpy:94
 translate deutsch name_done_5baf6bb1:
 
     # mct "I cannot use my real name here.{w} I have to use something else."
-    mct "Ich kann hier nicht meinen richtigen Namen verwenden.{w} Ich muss einen anderen benutzen"
+    mct "Ich kann hier nicht meinen richtigen Namen verwenden.{w} Ich muss einen anderen benutzen."
 
 # game/code/Book-1/Chapter-1/s01.rpy:111
 translate deutsch name_done_b8069ab2:
@@ -68,7 +68,7 @@ translate deutsch name_done_e9721ff3:
 translate deutsch name_done_5ba5a39e:
 
     # sm "You're very welcome."
-    sm "Du bist Herzlich willkommen."
+    sm "Herzlich willkommen."
 
 # game/code/Book-1/Chapter-1/s01.rpy:122
 translate deutsch name_done_a7d51f3e:
