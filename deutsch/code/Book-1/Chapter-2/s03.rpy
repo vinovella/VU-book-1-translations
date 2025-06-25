@@ -98,7 +98,7 @@ translate deutsch b1c02s03_8ec8af18:
 translate deutsch b1c02s03_5de64578:
 
     # pm "No, quite the opposite. {w}You were too good."
-    pm "Nein, ganz im Gegenteil. {w}Du warst zu gut."                     
+    pm "Nein, ganz im Gegenteil. {w}Du warst zu gut."
 
 # game/code/Book-1/Chapter-2/s03.rpy:68
 translate deutsch b1c02s03_b24455ba:
@@ -128,7 +128,7 @@ translate deutsch b1c02s03_a7fd2898:
 translate deutsch b1c02s03_dc29b406:
 
     # pm "Work comes first, [mcname]. But there are risks we have to consider, and petty emotions or drama can't interfere with this. Believe me, I'm proud that you were assigned this case—"
-    pm "Die Arbeit geht vor,  [mcname]. Aber es gibt Risiken, die wir berücksichtigen müssen, und da dürfen kleinliche Emotionen oder Dramen nicht dazwischenfunken. Glaubst Du mir, ich bin stolz darauf, dass Du mit diesem Fall betraut wurdest—"                   "
+    pm "Die Arbeit geht vor, [mcname]. Aber es gibt Risiken, die wir berücksichtigen müssen, und da dürfen kleinliche Emotionen oder Dramen nicht dazwischenfunken. Glaubst Du mir, ich bin stolz darauf, dass Du mit diesem Fall betraut wurdest—"
 
 # game/code/Book-1/Chapter-2/s03.rpy:84
 translate deutsch b1c02s03_0c5b2c6c:

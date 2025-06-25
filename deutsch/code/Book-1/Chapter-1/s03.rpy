@@ -32,7 +32,7 @@ translate deutsch b1c01s03_29439a04:
 translate deutsch b1c01s03_d9a776b0:
 
     # "{color=#750762}Girl{/color}" No—this is MY room!"! You better run while you can, before I start throwing the fucking furniture your way. " (who_outlines=[(1, "#e1e1e1", 0, 0)], kerning=1)
-    "{color=#750762}Girl{/color}" Nein, das ist MEIN Zimmer!"!Du rennst besser, solange du noch kannst, bevor ich anfange, die verdammten Möbel in deine Richtung zu werfen. " (who_outlines=[(1, "#e1e1e1", 0, 0)], kerning=1)
+    "{color=#750762}Girl{/color}" "Nein, das ist MEIN Zimmer! Du rennst besser, solange du noch kannst, bevor ich anfange, die verdammten Möbel in deine Richtung zu werfen." (who_outlines=[(1, "#e1e1e1", 0, 0)], kerning=1)
 
 # game/code/Book-1/Chapter-1/s03.rpy:81
 translate deutsch b1c01s03_8d355a05:
@@ -62,7 +62,7 @@ translate deutsch b1c01s03_fb264620:
 translate deutsch b1c01s03_0799b766:
 
     # "{color=#750762}Girl{/color}" "You have thirty seconds to fuck off. {w}Unless you want a tornado of household items thrown at your face." (who_outlines=[(1, "#e1e1e1", 0, 0)], kerning=1)
-    "{color=#750762}Girl{/color}" "Du hast dreißig Sekunden, um dich zu verpissen. {Es sei denn, du willst, dass dir ein Tornado von Haushaltsgegenständen ins Gesicht geworfen wird." (who_outlines=[(1, "#e1e1e1", 0, 0)], kerning=1)
+    "{color=#750762}Girl{/color}" "Du hast dreißig Sekunden, um dich zu verpissen. Es sei denn, du willst, dass dir ein Tornado von Haushaltsgegenständen ins Gesicht geworfen wird." (who_outlines=[(1, "#e1e1e1", 0, 0)], kerning=1)
 
 # game/code/Book-1/Chapter-1/s03.rpy:94
 translate deutsch b1c01s03_28164f22:
