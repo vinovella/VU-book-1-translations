@@ -230,5 +230,5 @@ translate deutsch strings:
 
     # game/code/Book-1/Chapter-2/s03.rpy:6
     old "Present Day"
-    new "Present Day"
+    new "Heutiger Tag"
 
