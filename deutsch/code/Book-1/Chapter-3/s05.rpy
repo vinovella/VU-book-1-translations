@@ -20,7 +20,7 @@ translate deutsch b1c03s05_aa8d51f9:
 translate deutsch b1c03s05_1a70d852:
 
     # lw "Speak of the Devil."
-    lw "Wenn man den Teufel spricht."
+    lw "Wenn man vom Teufel spricht."
 
 # game/code/Book-1/Chapter-3/s05.rpy:40
 translate deutsch b1c03s05_0bc08194:
@@ -50,19 +50,19 @@ translate deutsch b1c03s05_640101dd:
 translate deutsch b1c03s05_6a99a4d4:
 
     # mc "No need to tell {i}me{/i} twice..."
-    mc "Das muss nicht sein {i}ich{/i} zweimal..."
+    mc "Das musst du {i}mir{/i} nicht zweimal sagen..."
 
 # game/code/Book-1/Chapter-3/s05.rpy:60
 translate deutsch b1c03s05_258cf705:
 
     # jh "[mcname], not helping."
-    jh "[mcname],nicht hilfreich. "
+    jh "[mcname], nicht sehr hilfreich."
 
 # game/code/Book-1/Chapter-3/s05.rpy:66
 translate deutsch b1c03s05_8b8ae807:
 
     # jh "Look, I used to know him. He's a good guy, alright?"
-    jh "Hören Sie, ich kannte ihn. Er ist ein guter Kerl, in Ordnung?"
+    jh "Hör mal, ich kannte ihn früher. Er ist ein guter Kerl, in Ordnung?"
 
 # game/code/Book-1/Chapter-3/s05.rpy:69
 translate deutsch b1c03s05_d6fe4e2e:
@@ -74,19 +74,19 @@ translate deutsch b1c03s05_d6fe4e2e:
 translate deutsch b1c03s05_5f42fc7c:
 
     # jh "I just want everyone to get along. Whether you like it or not, he's here."
-    jh "Ich möchte nur, dass alle miteinander auskommen. Ob Sie es wollen oder nicht, er ist hier."
+    jh "Ich möchte nur, dass alle miteinander auskommen. Ob es dir gefällt oder nicht, er ist hier."
 
 # game/code/Book-1/Chapter-3/s05.rpy:75
 translate deutsch b1c03s05_e4f15676:
 
     # lw "I just don't see why he has to be in {i}our{/i} room. There are other dorm rooms with guys he could room with."
-    lw "Ich verstehe einfach nicht, warum er in {i}unserem{/i} Zimmer sein muss. Es gibt andere Schlafsäle mit Jungs, mit denen er zusammen wohnen könnte."
+    lw "Ich verstehe einfach nicht, warum er in {i}unserem{/i} Zimmer sein muss. Es gibt andere Zimmer mit Jungs, mit denen er zusammen wohnen könnte."
 
 # game/code/Book-1/Chapter-3/s05.rpy:78
 translate deutsch b1c03s05_58088bbe:
 
     # mc "If I could, god knows I would, Lara."
-    mc "Wenn ich könnte, würde ich es weiß Gott tun, Lara."
+    mc "Wenn ich könnte, würde ich es tun, Lara."
 
 # game/code/Book-1/Chapter-3/s05.rpy:84
 translate deutsch b1c03s05_e67d7678:
@@ -98,13 +98,13 @@ translate deutsch b1c03s05_e67d7678:
 translate deutsch b1c03s05_4ac9f887:
 
     # jh "Let's just reorganize the room to accommodate [mcname]."
-    jh "Lassen Sie uns einfach den Raum umgestalten, um Platz für [mcname]."
+    jh "Lasst uns einfach den Raum umgestalten, um [mcname] unterzubringen."
 
 # game/code/Book-1/Chapter-3/s05.rpy:90
 translate deutsch b1c03s05_2c57e49f:
 
     # lw "I'm sure he just loves that we have to revamp our lives around him like he's the second coming of Christ."
-    lw "Ich bin sicher, er liebt es, dass wir unser Leben um ihn herum umgestalten müssen, als wäre er die Wiedergeburt Christi."
+    lw "Ich bin mir sicher, dass er es einfach toll findet, dass wir unser Leben um ihn herum umkrempeln müssen, als wäre er die Wiedergeburt Christi."
 
 # game/code/Book-1/Chapter-3/s05.rpy:93
 translate deutsch b1c03s05_2502ab92:
@@ -164,7 +164,7 @@ translate deutsch b1c03s05_af03efe4:
 translate deutsch b1c03s05_fcf860aa:
 
     # mc "You're blind and go climbing?! I guess you don't have a bad bitch attitude without reason."
-    mc "Du bist blind und gehst klettern?! Ich schätze, du hast nicht ohne Grund eine schlechte Einstellung zu Schlampen."
+    mc "Du bist blind und gehst klettern?! Ich schätze, du hast nicht ohne Grund eine Bad Bitch Einstellung."
 
 # game/code/Book-1/Chapter-3/s05.rpy:128
 translate deutsch b1c03s05_6d20d305:
@@ -182,7 +182,7 @@ translate deutsch b1c03s05_2d09f85c:
 translate deutsch b1c03s05_d20be7fd:
 
     # jh "It's okay. It's not fair to expect you to know."
-    jh "Das ist schon in Ordnung. Es ist nicht fair, von dir zu erwarten, dass du es weißt."
+    jh "Das ist okay. Es ist nicht fair, von dir zu erwarten, dass du das weißt."
 
 # game/code/Book-1/Chapter-3/s05.rpy:137
 translate deutsch b1c03s05_2b5e23c5:
@@ -296,7 +296,7 @@ translate deutsch b1c03s05_2a7ad77b:
 translate deutsch b1c03s05_5f7ec47f:
 
     # jh "Yeah...and I kinda don't want to move stuff around {i}that{/i} much."
-    jh "Ja... und ich will auch nicht alles umstellen. {i}dass{/i} ist mir zu viel."
+    jh "Ja... und ich will auch nicht alles umstellen, {i}das{/i} ist mir zu viel."
 
 # game/code/Book-1/Chapter-3/s05.rpy:197
 translate deutsch b1c03s05_385b2506:
@@ -374,7 +374,7 @@ translate deutsch b1c03s05_d4f89731:
 translate deutsch b1c03s05_d9a7c924:
 
     # lw "Hmph. Josie's good at being the bottom."
-    lw "Hm. Josie ist gut darin, der Letzte zu sein."
+    lw "Hm. Josie ist gut darin, die Unterwürfige zu sein."
 
 # game/code/Book-1/Chapter-3/s05.rpy:236
 translate deutsch b1c03s05_64f9ea4e:
@@ -386,7 +386,7 @@ translate deutsch b1c03s05_64f9ea4e:
 translate deutsch b1c03s05_55a698eb:
 
     # jh "[mcname], would you grab the front of the bed?"
-    jh "[mcname], würdest Du dich an der Vorderseite des Bettes festhalten?"
+    jh "[mcname], würdest du bitte die Vorderseite des Bettes festhalten?"
 
 # game/code/Book-1/Chapter-3/s05.rpy:244
 translate deutsch b1c03s05_606e2d02:
@@ -416,13 +416,13 @@ translate deutsch b1c03s05_b05413de:
 translate deutsch b1c03s05_9131a2fd:
 
     # mc "Yeah, something like that."
-    mc "Ja, so ähnlich."
+    mc "Ja, so ungefähr."
 
 # game/code/Book-1/Chapter-3/s05.rpy:264
 translate deutsch b1c03s05_9fe1de03:
 
     # jh "We were in the same friend group—though I don't think [mcname]'s friends cared much for me."
-    jh "Wir waren in der gleichen Freundesgruppe - obwohl ich nicht glaube, dass die Freunde von [mcname]'s viel für mich übrig hatten"
+    jh "Wir waren in der gleichen Freundesgruppe - obwohl ich nicht glaube, dass die Freunde von [mcname] viel für mich übrig hatten"
 
 # game/code/Book-1/Chapter-3/s05.rpy:267
 translate deutsch b1c03s05_0c314853:
@@ -452,7 +452,7 @@ translate deutsch b1c03s05_11ac15b6:
 translate deutsch b1c03s05_c9dec4fb:
 
     # lw "*chuckles* Yeah. I'd be annoyed by that."
-    lw "*chuckles* Ja, das würde mich ärgern."
+    lw "*kichert* Ja, das würde mich auch nerven."
 
 # game/code/Book-1/Chapter-3/s05.rpy:283
 translate deutsch b1c03s05_1a9fd18c:
@@ -476,7 +476,7 @@ translate deutsch b1c03s05_5c43aeca:
 translate deutsch b1c03s05_6df5cd28:
 
     # lw "Actually, it's much worse. It's called real life. Now answer the question."
-    lw "Eigentlich ist es noch viel schlimmer. Man nennt es das wahre Leben. Beantwortest Du jetzt die Frage."
+    lw "Eigentlich ist es noch viel schlimmer. Man nennt es das wahre Leben. Beantworte jetzt die Frage."
 
 # game/code/Book-1/Chapter-3/s05.rpy:295
 translate deutsch b1c03s05_bdebbdd1:
@@ -548,7 +548,7 @@ translate deutsch b1c03s05_da9193b6:
 translate deutsch b1c03s05_ce14dfdf:
 
     # lw "I mean, I had to force {i}someone{/i} to be my seeing-eye dog."
-    lw "Ich meine, ich musste {i}jemanden{/i} mein Blindenhund zu sein."
+    lw "Ich meine, ich musste {i}jemanden{/i} zwingen, mein Blindenhund zu sein."
 
 # game/code/Book-1/Chapter-3/s05.rpy:329
 translate deutsch b1c03s05_a1cf4fd8:
@@ -590,7 +590,7 @@ translate deutsch b1c03s05_44859988:
 translate deutsch b1c03s05_d114db31:
 
     # jh "Oh shut up, Lara. You can't {i}see{/i} how high up we actually are!"
-    jh "Ach, halt die Klappe, Lara. Du kannst nicht sehen, wie hoch wir wirklich sind!"
+    jh "Ach, halt die Klappe, Lara. Du kannst doch garnicht {i}sehen{/i}, wie hoch wir wirklich sind!"
 
 # game/code/Book-1/Chapter-3/s05.rpy:350
 translate deutsch b1c03s05_7ee23090:
@@ -626,7 +626,7 @@ translate deutsch b1c03s05_9c1dd0fa:
 translate deutsch b1c03s05_ee2c73be:
 
     # mct "Lara probably wishes I'd pass {i}away.{/i}"
-    mct "Lara wünscht sich wahrscheinlich, ich würde passen. {i}weg.{/i}"
+    mct "Lara wünscht sich wahrscheinlich, dass ich {i}sterben{/i} würde."
 
 # game/code/Book-1/Chapter-3/s05.rpy:368
 translate deutsch b1c03s05_f815cda3:
@@ -644,7 +644,7 @@ translate deutsch b1c03s05_9e32b0da:
 translate deutsch b1c03s05_f65dc641:
 
     # lw "Don't mention it. Seriously."
-    lw "Erwähne es nicht. Ganz im Ernst."
+    lw "Keine Uhrsache. Im Ernst."
 
 # game/code/Book-1/Chapter-3/s05.rpy:378
 translate deutsch b1c03s05_6651ab87:
