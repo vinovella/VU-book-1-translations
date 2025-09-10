@@ -14,13 +14,13 @@ translate deutsch b1c03s02_44d109bf:
 translate deutsch b1c03s02_18214a6d:
 
     # "{color=d07318}Girl{/color}" "Hey, Matthew!"
-    "{color=d07318}Girl{/color}" "Hallo, Matthew!"
+    "{color=d07318}Mädchen{/color}" "Hallo, Matthew!"
 
 # game/code/Book-1/Chapter-3/s02.rpy:41
 translate deutsch b1c03s02_d15201a3:
 
     # "{color=d07318}Girl{/color}" "Oh my gosh! It's been years. What are you doing here?"
-    "{color=d07318}Girl{/color}" "Oh mein Gott! Es ist Jahre her. Was machst du denn hier?"
+    "{color=d07318}Mädchen{/color}" "Oh mein Gott! Es ist Jahre her. Was machst du denn hier?"
 
 # game/code/Book-1/Chapter-3/s02.rpy:48
 translate deutsch b1c03s02_a5f64812:
@@ -38,7 +38,7 @@ translate deutsch b1c03s02_29b0eaff:
 translate deutsch b1c03s02_2ba5337c:
 
     # "{color=d07318}Girl{/color}" "You probably don't recognise me."
-    "{color=d07318}Girl{/color}" "Du erkennst mich wahrscheinlich nicht wieder."
+    "{color=d07318}Mädchen{/color}" "Du erkennst mich wahrscheinlich nicht wieder."
 
 # game/code/Book-1/Chapter-3/s02.rpy:55
 translate deutsch b1c03s02_3496d31d:
@@ -62,7 +62,7 @@ translate deutsch b01c03s02m01_bcc3cf58:
 translate deutsch b01c03s02m01_eac0c75f:
 
     # "{color=d07318}Girl{/color}" "You can call me Josie. I went through quite a change, huh?"
-    "{color=d07318}Girl{/color}" "Du kannst mich Josie nennen. Ich habe eine ziemliche Veränderung durchgemacht, nicht wahr?"
+    "{color=d07318}Mädchen{/color}" "Du kannst mich Josie nennen. Ich habe eine ziemliche Veränderung durchgemacht, nicht wahr?"
 
 # game/code/Book-1/Chapter-3/s02.rpy:70
 translate deutsch b01c03s02m01_69c25b65:
@@ -74,7 +74,7 @@ translate deutsch b01c03s02m01_69c25b65:
 translate deutsch b01c03s02m01_1a86654e:
 
     # mct "I'm not exactly sure how to respond. I don't want to offend her. She looks so {i}different{/i} from when I knew her before."
-    mct "Ich bin mir nicht ganz sicher, wie ich darauf reagieren soll. Ich möchte sie nicht beleidigen. Sie sieht so {i}different{/i} als ich sie früher kannte."
+    mct "Ich bin mir nicht ganz sicher, wie ich darauf reagieren soll. Ich möchte sie nicht beleidigen. Sie sieht so {i}verändert{/i} aus, als ich sie früher kannte."
 
 # game/code/Book-1/Chapter-3/s02.rpy:74
 translate deutsch b01c03s02m01_8aa3523a:
@@ -122,31 +122,31 @@ translate deutsch b01c03s02m01_24ea03d0:
 translate deutsch b01c03s02m01_2ee5706f:
 
     # "{color=d07318}Girl{/color}" "Quite a change, huh?"
-    "{color=d07318}Girl{/color}" "Eine ziemliche Veränderung, nicht wahr?"
+    "{color=d07318}Mädchen{/color}" "Eine ziemliche Veränderung, nicht wahr?"
 
 # game/code/Book-1/Chapter-3/s02.rpy:100
 translate deutsch b01c03s02m01_033a7848:
 
     # mc "Yeah, you're a..."
-    mc "Ja, du bist ein..."
+    mc "Ja, du bist eine..."
 
 # game/code/Book-1/Chapter-3/s02.rpy:103
 translate deutsch b01c03s02m01_f4bba1b5:
 
     # "{color=d07318}Girl{/color}" "Woman? Yeah... It's a long story. I was going through a lot, and went through a change. I felt like I didn't recognize myself in the mirror, y'know?"
-    "{color=d07318}Girl{/color}" "Eine Frau? Ja... Das ist eine lange Geschichte. Ich habe viel durchgemacht und eine Veränderung erlebt. Ich hatte das Gefühl, mich im Spiegel nicht mehr zu erkennen, verstehst du?"
+    "{color=d07318}Mädchen{/color}" "Frau? Ja... Das ist eine lange Geschichte. Ich habe viel durchgemacht und eine Veränderung erlebt. Ich hatte das Gefühl, mich im Spiegel nicht mehr zu erkennen, verstehst du?"
 
 # game/code/Book-1/Chapter-3/s02.rpy:106
 translate deutsch b01c03s02m01_f1792e04:
 
     # mct "I can't say that I {i}do{/i} know how he felt..."
-    mct "Ich kann nicht sagen, dass ich {i}do{/i} weiß, wie er sich fühlte..."
+    mct "Ich kann nicht sagen, dass ich {i}weiß{/i}, wie er sich gefühlt hat..."
 
 # game/code/Book-1/Chapter-3/s02.rpy:109
 translate deutsch b01c03s02m01_4f7cacdd:
 
     # "{color=d07318}Girl{/color}" "I was a year late to college because I was recovering from my surgeries."
-    "{color=d07318}Girl{/color}" "Ich kam ein Jahr zu spät zum College, weil ich mich von meinen Operationen erholen musste."
+    "{color=d07318}Mädchen{/color}" "Ich kam ein Jahr zu spät zum College, weil ich mich von meinen Operationen erholen musste."
 
 # game/code/Book-1/Chapter-3/s02.rpy:112
 translate deutsch b01c03s02m01_bc62b25f:
@@ -158,7 +158,7 @@ translate deutsch b01c03s02m01_bc62b25f:
 translate deutsch b01c03s02m01_2cda775d:
 
     # "{color=d07318}Girl{/color}" "Oh, I go by Josie nowadays."
-    "{color=d07318}Girl{/color}" "Oh, ich nenne mich jetzt Josie."
+    "{color=d07318}Mädchen{/color}" "Oh, ich nenne mich jetzt Josie."
 
 # game/code/Book-1/Chapter-3/s02.rpy:116
 translate deutsch b01c03s02m01_995a5e5c:
@@ -188,7 +188,7 @@ translate deutsch b01c03s02m01_3e63eeb6:
 translate deutsch b01c03s02m01_6cb9149b:
 
     # mc "Uh, yeah...by the way, I don't go by Matthew anymore. It's [mcname], now."
-    mc "Ja. Übrigens, ich heiße nicht mehr Matthew. Ich heiße [mcname], jetzt. "
+    mc "Ja. Übrigens, ich heiße nicht mehr Matthew. Ich heiße jetzt [mcname]. "
 
 # game/code/Book-1/Chapter-3/s02.rpy:134
 translate deutsch b01c03s02m01_df10f225:
@@ -200,7 +200,7 @@ translate deutsch b01c03s02m01_df10f225:
 translate deutsch b01c03s02m01_c860a082:
 
     # mc "It's...a long story. I'll explain later. Today has been hectic."
-    mc "Es ist... eine lange Geschichte. Ich werde sie später erklären. Der heutige Tag war hektisch."
+    mc "Es ist... eine lange Geschichte. Ich werde es dir später erklären. Der heutige Tag war hektisch."
 
 # game/code/Book-1/Chapter-3/s02.rpy:139
 translate deutsch b01c03s02m01_540cf4ca:
@@ -218,7 +218,7 @@ translate deutsch b01c03s02m01_db0929c2:
 translate deutsch b01c03s02m01_203f69ee:
 
     # jh "Who's your dorm mate?"
-    jh "Wer ist dein Zimmergenosse?"
+    jh "Wer ist deine Mitbewohnerin?"
 
 # game/code/Book-1/Chapter-3/s02.rpy:148
 translate deutsch b01c03s02m01_424f09ef:
@@ -248,7 +248,7 @@ translate deutsch b01c03s02m01_39c1a34f:
 translate deutsch b01c03s02m01_4830f22d:
 
     # mc "No kidding. She just about scared the piss out of me with that temper of hers. I guess no one told her she was getting a new roommate today."
-    mc "Das ist kein Witz. Sie hat mich mit ihrem Temperament fast zu Tode erschreckt. Ich schätze, niemand hat ihr gesagt, dass sie heute eine neue Mitbewohnerin bekommt."
+    mc "Das ist kein Witz. Sie hat mich mit ihrem Temperament fast zu Tode erschreckt. Ich schätze, niemand hat ihr gesagt, dass sie heute einen neuen Mitbewohner bekommt."
 
 # game/code/Book-1/Chapter-3/s02.rpy:160
 translate deutsch b01c03s02m01_6ff02c22:
@@ -398,7 +398,7 @@ translate deutsch b1c3s02_memory_cloud_ec743ad9:
 translate deutsch b1c3s02_memory_cloud_722c3b10:
 
     # jh "I mean, you're here, right? What's your chosen career nowadays?"
-    jh "Ich meine, Du bist doch hier, oder? Welchen Beruf hast du heute gewählt?"
+    jh "Ich meine, du bist doch hier, oder? Was ist denn dein Wunsch Beruf?"
 
 # game/code/Book-1/Chapter-3/s02.rpy:246
 translate deutsch b1c3s02_memory_cloud_3fd35315:
@@ -440,7 +440,7 @@ translate deutsch strings:
 
     # game/code/Book-1/Chapter-3/s02.rpy:16
     old "You have unlocked the Investigation Board."
-    new "You have unlocked the Investigation Board."
+    new "Du hast die Ermittlungstafel freigeschaltet."
 
     # game/code/Book-1/Chapter-3/s02.rpy:59
     old "Josephine?"
@@ -452,5 +452,5 @@ translate deutsch strings:
 
     # game/code/Book-1/Chapter-3/s02.rpy:179
     old "Remember the painting"
-    new "Remember the painting"
+    new "Erinnere dich an das Bild"
 
