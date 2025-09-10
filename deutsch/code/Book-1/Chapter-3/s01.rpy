@@ -38,7 +38,7 @@ translate deutsch b1c03s01_6f70dfbf:
 translate deutsch b1c03s01_955f515f:
 
     # sl "Who are you? What are you doing here?"
-    sl "Who are you? Was tust du hier?"
+    sl "Wer bist du? Was tust du hier?"
 
 # game/code/Book-1/Chapter-3/s01.rpy:73
 translate deutsch b1c03s01_ce070ee3:
@@ -56,7 +56,7 @@ translate deutsch b1c03s01_ceb375bd:
 translate deutsch b1c03s01_8b806a01:
 
     # mc "She's right. I just transferred here today. I was just changing in my dorm—"
-    mc "Sie hat Recht. Ich bin erst heute hierher gezogen. Ich habe mich gerade in meinem Schlafsaal umgezogen."
+    mc "Sie hat Recht. Ich bin erst heute hierher gezogen. Ich habe mich gerade in meinem Zimmer umgezogen."
 
 # game/code/Book-1/Chapter-3/s01.rpy:83
 translate deutsch b1c03s01_8656cd70:
@@ -140,7 +140,7 @@ translate deutsch b01c03s01m01_7f37c179:
 translate deutsch b01c03s01m01_b998db34:
 
     # dk "You're a goddamn walking talking {i}calamity{/i} on this campus."
-    dk "Du bist ein gottverdammter wandelnder, sprechender {i}calamity{/i}  auf diesem Campus."
+    dk "Du bist eine verdammte wandelnde {i}Katastrophe{/i} auf diesem Campus."
 
 # game/code/Book-1/Chapter-3/s01.rpy:131
 translate deutsch b01c03s01m01_f62431eb:
@@ -158,7 +158,7 @@ translate deutsch b01c03s01m01_dff863d3:
 translate deutsch b01c03s01m01_a0ed4b29:
 
     # sl "I don't know! Better safe than having someone else go missing."
-    sl "Ich weiß es nicht! Besser sicher, als wenn jemand anderes verschwindet."
+    sl "Ich weiß es nicht! Sicher ist sicher, bevor noch jemand anderes verschwindet."
 
 # game/code/Book-1/Chapter-3/s01.rpy:140
 translate deutsch b01c03s01m01_7383e8d4:
@@ -212,7 +212,7 @@ translate deutsch b01c03s01m01_92ecb753:
 translate deutsch b01c03s01m01_3edddd9c:
 
     # sl "I'm not the asshole, here. I'd just rather act {i}before{/i} someone else goes missing. That's what should've been done when the first girl disappeared."
-    sl "Ich bin hier nicht das Arschloch. Ich würde nur lieber handeln, bevor jemand anderes vermisst wird. Das hätte man tun sollen, als das erste Mädchen verschwand."
+    sl "Ich bin hier nicht das Arschloch. Ich würde nur lieber handeln, {i}bevor{/i} jemand anderes vermisst wird. Das hätte man tun sollen, als das erste Mädchen verschwand."
 
 # game/code/Book-1/Chapter-3/s01.rpy:167
 translate deutsch b01c03s01m01_7993bcfb:
@@ -356,7 +356,7 @@ translate deutsch b01c03s01m01_521014c6:
 translate deutsch b01c03s01m01_7f550c77:
 
     # sl "Well...it'd be easier if he didn't look like he was {i}asking{/i} to be taken from behind..."
-    sl "Nun... es wäre einfacher, wenn er nicht so aussehen würde, als wäre er {i}asking{/i} um von hinten genommen zu werden... "
+    sl "Nun... es wäre einfacher, wenn er nicht so aussehen würde, als würde er darum {i}bitten{/i}, von hinten genommen zu werden..."
 
 # game/code/Book-1/Chapter-3/s01.rpy:259
 translate deutsch b01c03s01m01_f30bb507:
@@ -434,13 +434,13 @@ translate deutsch b01c03s01m01_8514deaf:
 translate deutsch b01c03s01m01_e1764d69:
 
     # zp "Tried?"
-    zp "Ausprobiert?"
+    zp "Versucht?"
 
 # game/code/Book-1/Chapter-3/s01.rpy:300
 translate deutsch b01c03s01m01_6084d0fa:
 
     # sl "Yeah...guy knows karate or something. I thought he was bothering the girls in their dorm room."
-    sl "Ja... der Typ kann Karate oder so. Ich dachte, er würde die Mädchen in ihrem Schlafsaal belästigen."
+    sl "Ja... der Typ kann Karate oder so. Ich dachte, er würde die Mädchen in ihrem Zimmer belästigen."
 
 # game/code/Book-1/Chapter-3/s01.rpy:303
 translate deutsch b01c03s01m01_0b90679e:
@@ -452,7 +452,7 @@ translate deutsch b01c03s01m01_0b90679e:
 translate deutsch b01c03s01m01_c44cff65:
 
     # mc "Power{i}s{/i}? Are you the long lost cousin of Austin Powers?"
-    mc "Power{i}s{/i}? Sind Sie der lange verschollene Cousin von Austin Powers? "
+    mc "Power{i}s{/i}? Bist du die lang verschollene Cousine von Austin Powers? "
 
 # game/code/Book-1/Chapter-3/s01.rpy:310
 translate deutsch b01c03s01m01_f2b9ea2d:
@@ -470,7 +470,7 @@ translate deutsch b01c03s01m01_8909a563:
 translate deutsch b01c03s01m01_91c5b1cd:
 
     # mc "It's a pleasure to meet you, Miss Power."
-    mc "Es ist mir eine Freude, Sie kennenzulernen, Miss Power."
+    mc "Es ist mir eine Freude, dich kennenzulernen, Miss Power."
 
 # game/code/Book-1/Chapter-3/s01.rpy:319
 translate deutsch b01c03s01m01_0a13d120:
@@ -566,13 +566,13 @@ translate deutsch b01c03s01m01_e0e031ff:
 translate deutsch b01c03s01m01_5fe6fddf:
 
     # dk "You got quite the introduction today, huh? Those Winner's pricks..."
-    dk "Du hast heute eine tolle Einführung bekommen, was? Diese Winner's Schwänze..."
+    dk "Du hast heute eine tolle Einführung bekommen, was? Diese Winner's Arschlöcher..."
 
 # game/code/Book-1/Chapter-3/s01.rpy:366
 translate deutsch b01c03s01m01_08a4cc0d:
 
     # dk "If you plan to throw Simon around more, please invite me."
-    dk "Wenn du vorhast, Simon mehr zu vermitteln, lade mich bitte ein."
+    dk "Wenn du vorhast, Simon öfters umzuwerfen, lade mich bitte ein."
 
 # game/code/Book-1/Chapter-3/s01.rpy:368
 translate deutsch b01c03s01m01_424725bb:
@@ -632,13 +632,13 @@ translate deutsch strings:
 
     # game/code/Book-1/Chapter-3/s01.rpy:108
     old "Respond aggressively"
-    new "Respond aggressively"
+    new "Aggressiv reagieren"
 
     # game/code/Book-1/Chapter-3/s01.rpy:108
     old "Respond diplomatically"
-    new "Respond diplomatically"
+    new "Diplomatisch reagieren"
 
     # game/code/Book-1/Chapter-3/s01.rpy:108
     old "Respond humorously"
-    new "Respond humorously"
+    new "Humorvoll reagieren"
 
