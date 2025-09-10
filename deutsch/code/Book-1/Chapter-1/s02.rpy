@@ -44,7 +44,7 @@ translate deutsch b1c01s02_91c56b3b:
 translate deutsch b1c01s02_e4cb4e72:
 
     # sm "She can help you with any general information you might need, but mostly she just greets students and keeps track of who enters the campus."
-    sm "Sie kann Ihnen mit allen allgemeinen Informationen helfen, die Sie brauchen, aber meistens begrüßt sie nur die Studenten und registriert, wer den Campus betritt."
+    sm "Sie kann dir mit allen allgemeinen Informationen helfen, die du brauchst, aber meistens begrüßt sie nur die Studenten und registriert, wer den Campus betritt."
 
 # game/code/Book-1/Chapter-1/s02.rpy:35
 translate deutsch b1c01s02_6fb1465c:
@@ -73,8 +73,8 @@ translate deutsch b1c01s02_5bb12e19:
 # game/code/Book-1/Chapter-1/s02.rpy:55
 translate deutsch b1c01s02_0e9e3b31:
 
-    # mc "Es tut mir sehr leid, das zu hören. Sie müssen untröstlich sein."
-    mc "I'm very sorry to hear that. You must be heartbroken."
+    # mc "I'm very sorry to hear that. You must be heartbroken."
+    mc "Das tut mir sehr leid. Du musst untröstlich sein."
 
 # game/code/Book-1/Chapter-1/s02.rpy:57
 translate deutsch b1c01s02_8a7f2635:
@@ -116,7 +116,7 @@ translate deutsch b1c01s02_80983362:
 translate deutsch b1c01s02_e665b6da:
 
     # mc "What's your favorite part about being here?"
-    mc "Was gefällt Ihnen am besten hier?"
+    mc "Was gefällt dir hier am besten?"
 
 # game/code/Book-1/Chapter-1/s02.rpy:76
 translate deutsch b1c01s02_d41341a7:
@@ -170,7 +170,7 @@ translate deutsch b1c01s02_95e6d567:
 translate deutsch b1c01s02_14e39623:
 
     # sm "She became a medic in a war to the opposite side that her family supported."
-    sm "Sie wurde Sanitäterin in einem Krieg auf der Gegenseite, die ihre Familie unterstützte."
+    sm "Sie wurde Sanitäterin in einem Krieg auf der Seite der Gegenseite, die ihre Familie unterstützte."
 
 # game/code/Book-1/Chapter-1/s02.rpy:96
 translate deutsch b1c01s02_1dde57d8:
@@ -242,7 +242,7 @@ translate deutsch b1c01s02_9a3bf744:
 translate deutsch b1c01s02_b770f94f:
 
     # sm "I told you."
-    sm "Ich sagte es dir."
+    sm "Ich sags dir."
 
 # game/code/Book-1/Chapter-1/s02.rpy:122
 translate deutsch b1c01s02_57ee67f1:
@@ -284,13 +284,13 @@ translate deutsch b1c01s02_f7670830:
 translate deutsch b1c01s02_25960661:
 
     # dm "Silvia! Hang on a moment. I need to talk with you."
-    dm "Silvia! Warten Sie einen Moment. Ich muss mit Ihnen reden."
+    dm "Silvia! Warte einen Moment. Ich muss mit dir reden."
 
 # game/code/Book-1/Chapter-1/s02.rpy:151
 translate deutsch b1c01s02_4181e254:
 
     # dm "I need to discuss the volleyball team budget with you."
-    dm "Ich muss mit Ihnen das Budget für das Volleyballteam besprechen."
+    dm "Ich muss mit dir das Budget für das Volleyballteam besprechen."
 
 # game/code/Book-1/Chapter-1/s02.rpy:154
 translate deutsch b1c01s02_ac5088bb:
@@ -320,37 +320,37 @@ translate deutsch b1c01s02_66e8178c:
 translate deutsch b1c01s02_302ed4a7:
 
     # dm "Hello. I was wondering when I'd see you around. I'll need you to drop by my office later."
-    dm "Hallo. Ich habe mich schon gefragt, wann ich Sie sehen würde. Sie müssen später in meinem Büro vorbeikommen."
+    dm "Hallo. Ich habe mich schon gefragt, wann ich dich sehen würde. Du musst später in meinem Büro vorbeikommen."
 
 # game/code/Book-1/Chapter-1/s02.rpy:166
 translate deutsch b1c01s02_f6735cb1:
 
     # dm "I've been assigned as your faculty advisor."
-    dm "Ich bin Ihnen als Fakultätsberater zugeteilt worden."
+    dm "Ich bin dir als Fakultätsberater zugeteilt worden."
 
 # game/code/Book-1/Chapter-1/s02.rpy:168
 translate deutsch b1c01s02_31bd77c3:
 
     # dm "I need to give you your class schedule and finalize your registration here at Vinovella University."
-    dm "Ich muss Ihnen Ihren Stundenplan geben und Ihre Einschreibung hier an der Vinovella University abschließen."
+    dm "Ich muss dir deinen Stundenplan geben und deine Einschreibung hier an der Vinovella University abschließen."
 
 # game/code/Book-1/Chapter-1/s02.rpy:171
 translate deutsch b1c01s02_44dca403:
 
     # mc "Will do. I'll come by your office later."
-    mc "Wird gemacht. Ich werde später in Ihrem Büro vorbeikommen."
+    mc "Wird gemacht. Ich werde später vorbeikommen."
 
 # game/code/Book-1/Chapter-1/s02.rpy:174
 translate deutsch b1c01s02_9ca43e85:
 
     # dm "Have fun showing [mcname] around."
-    dm "Viel Spaß bei der Vorstellung [mcname] um."
+    dm "Viel Spaß beim Herumführen von [mcname]."
 
 # game/code/Book-1/Chapter-1/s02.rpy:177
 translate deutsch b1c01s02_01668e8d:
 
     # sm "Anyway, back to my highly technical and interesting tour."
-    sm ".Nun aber zurück zu meiner hochtechnischen und interessanten Tour"
+    sm "Nun aber zurück zu meiner hochtechnischen und interessanten Tour"
 
 # game/code/Book-1/Chapter-1/s02.rpy:179
 translate deutsch b1c01s02_b95842db:
@@ -398,7 +398,7 @@ translate deutsch b1c01s02_3b0296d8:
 translate deutsch b1c01s02_06cc6f4b:
 
     # sm "Oh! Remind me to give you the key to your dorm after the tour."
-    sm "Oh! Erinnere mich daran, dir nach der Besichtigung den Schlüssel zu deinem Schlafsaal zu geben."
+    sm "Oh! Erinnere mich daran, dir nach der Besichtigung den Schlüssel zu deinem Zimmer zu geben."
 
 # game/code/Book-1/Chapter-1/s02.rpy:204
 translate deutsch b1c01s02_02df390c:
@@ -452,7 +452,7 @@ translate deutsch b1c01s02_c1e7f53c:
 translate deutsch b1c01s02_d19f532f:
 
     # sm "That there is our wonderful lunch lady, Gabbie Eastwood. She's...charming, once you get to know her."
-    sm "Das da ist unsere wunderbare Lunch-Lady, Gabbie Eastwood. Sie ist... charmant, wenn man sie erst einmal kennengelernt hat."
+    sm "Das ist unsere wunderbare Kantinenfrau, Gabbie Eastwood. Sie ist... charmant, wenn man sie erst einmal kennengelernt hat."
 
 # game/code/Book-1/Chapter-1/s02.rpy:237
 translate deutsch b1c01s02_025b2688:
@@ -464,7 +464,7 @@ translate deutsch b1c01s02_025b2688:
 translate deutsch b1c01s02_15dc14b7:
 
     # sm "She's nice, I swear. Just a little cuckoo. Abrasive, if you will."
-    sm "Sie ist nett, ich schwöre. Nur ein bisschen durchgeknallt. Abrasiv, wenn man so will."
+    sm "Sie ist nett, ich schwöre. Nur ein bisschen verrückt. Etwas schroff, wenn man so will."
 
 # game/code/Book-1/Chapter-1/s02.rpy:242
 translate deutsch b1c01s02_f425f0b1:
@@ -536,7 +536,7 @@ translate deutsch b1c01s02m01_d4b25dae:
 translate deutsch b1c01s02m01_b15fc823:
 
     # sm "You have no idea."
-    sm "Du hast keine Ahnung."
+    sm "Du hast ja keine Ahnung."
 
 # game/code/Book-1/Chapter-1/s02.rpy:338
 translate deutsch b1c01s02m01_3d68af3b:
@@ -626,13 +626,13 @@ translate deutsch b1c01s02m01_79cb0441:
 translate deutsch b1c01s02m01_6b1e6fa2:
 
     # sm "She can't have meant what she said... She's just having a bad day."
-    sm "Sie hat nicht wirkluch gemeint was sie sagte... Sie hat nur einen schlechten Tag."
+    sm "Sie kann das nicht ernst gemeint haben... Sie hat nur einen schlechten Tag."
 
 # game/code/Book-1/Chapter-1/s02.rpy:393
 translate deutsch b1c01s02m01_5b5d0966:
 
     # mc "What crawled up her ass and died?"
-    mc "Was kroch ihr wohl in den Arsch und starb dort?"
+    mc "Was ist ihr denn über die Leber gelaufen?"
 
 # game/code/Book-1/Chapter-1/s02.rpy:394
 translate deutsch b1c01s02m01_96619ca0:
@@ -680,9 +680,9 @@ translate deutsch strings:
 
     # game/code/Book-1/Chapter-1/s02.rpy:258
     old "Protect Silvia"
-    new "Protect Silvia"
+    new "Schütze Silvia"
 
     # game/code/Book-1/Chapter-1/s02.rpy:258
     old "Do nothing"
-    new "Do nothing"
+    new "Nichts tun"
 
