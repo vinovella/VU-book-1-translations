@@ -164,7 +164,7 @@ translate deutsch b1c03s03_b1f26c2c:
 translate deutsch b1c03s03_e245da4c:
 
     # mct "Sounds more like she was {i}pushing{/i} Klara for a sports career."
-    mct "Es klingt eher so, als ob sie Klara zu einer Sportkarriere drängen wollte. Klara zu einer Sportkarriere."
+    mct "Es klingt eher so, als ob sie Klara zu einer Sportkarriere {i}gedrängt{/i} hätte."
 
 # game/code/Book-1/Chapter-3/s03.rpy:122
 translate deutsch b1c03s03_17399c03:
@@ -188,13 +188,13 @@ translate deutsch b1c03s03_af7a7854:
 translate deutsch b1c03s03_bab3f2da:
 
     # dm "Just because I expect excellence doesn't make me impossible, [mcname]."
-    dm "Nur weil ich Spitzenleistungen erwarte, bin ich nicht unmöglich, [mcname]."
+    dm "Nur weil ich Spitzenleistungen erwarte, bin ich noch lange nicht unmöglich, [mcname]."
 
 # game/code/Book-1/Chapter-3/s03.rpy:133
 translate deutsch b1c03s03_6afe4154:
 
     # mct "It certainly gives her high standards."
-    mct "Damit hat sie einen hohen Anspruch."
+    mct "Es verleiht ihr sicherlich hohe Ansprüche."
 
 # game/code/Book-1/Chapter-3/s03.rpy:136
 translate deutsch b1c03s03_b4151fbb:
@@ -248,13 +248,13 @@ translate deutsch b1c03s03_43fc9230:
 translate deutsch b1c03s03_8110986f:
 
     # dm "Then I suggest you visit the library next. Your textbooks and curriculum are at the front desk."
-    dm "Dann schlage ich vor, dass Du als nächstes die Bibliothek besuchen. Ihre Lehrbücher und der Lehrplan liegen an der Rezeption."
+    dm "Dann schlage ich vor, dass Du als nächstes die Bibliothek besuchst. Deine Lehrbücher und der Lehrplan liegen an der Rezeption."
 
 # game/code/Book-1/Chapter-3/s03.rpy:164
 translate deutsch b1c03s03_8170adb8:
 
     # dm "If you have problems with the other teachers, you can come to me. {w} And if there's anything else you need help with, I'll do my best to accommodate you."
-    dm "Wenn du Probleme mit den anderen Lehrern hast, kannst du zu mir kommen. {w} Und wenn du bei irgendetwas anderem Hilfe brauchst, werde ich mein Bestes tun, um dir zu helfen."
+    dm "Wenn du Probleme mit den anderen Lehrern hast, kannst du zu mir kommen. {w} Und wenn du bei irgendetwas anderem Hilfe brauchst, werde ich auch mein Bestes tun, um dir zu helfen."
 
 # game/code/Book-1/Chapter-3/s03.rpy:167
 translate deutsch b1c03s03_14457230:
