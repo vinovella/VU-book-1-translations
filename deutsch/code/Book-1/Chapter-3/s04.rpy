@@ -92,19 +92,19 @@ translate deutsch b1c03s04_10b508c9:
 translate deutsch b1c03s04_316d576f:
 
     # ij "Maria Krall was Nia Vann's guide in our self-improvement community. You need one in order to progress your journey."
-    ij "Maria Krall war Nia Vanns Ratgeberin in unserer Gemeinschaft zur Selbstverbesserung. Sie brauchen einen, um auf Ihrer Reise voranzukommen."
+    ij "Maria Krall war Nia Vanns Führer in unserer Selbstverbesserungs Gemeinschaft. Man braucht einen, um auf seinem Weg voranzukommen."
 
 # game/code/Book-1/Chapter-3/s04.rpy:76
 translate deutsch b1c03s04_4bd12778:
 
     # mct "Journey? Guides? {w}What is this?"
-    mct "Reise? Guides? {w}Was ist das?"
+    mct "Weg? Führer? {w}Was ist das?"
 
 # game/code/Book-1/Chapter-3/s04.rpy:79
 translate deutsch b1c03s04_8fbd1158:
 
     # mc "You and Maria were in the same community?"
-    mc "Du und Maria waren in der gleichen Gemeinde?"
+    mc "Du und Maria waren in der gleichen Gemeinschaft?"
 
 # game/code/Book-1/Chapter-3/s04.rpy:82
 translate deutsch b1c03s04_20912340:
@@ -134,7 +134,7 @@ translate deutsch b1c03s04_551e5575:
 translate deutsch b1c03s04_677b709b:
 
     # mc "So you'll be looking for a new member, then?"
-    mc "Sie werden also ein neues Mitglied suchen?"
+    mc "Ihr sucht n also ein neues Mitglied?"
 
 # game/code/Book-1/Chapter-3/s04.rpy:99
 translate deutsch b1c03s04_092f3987:
@@ -194,7 +194,7 @@ translate deutsch b1c03s04_d417f3fe:
 translate deutsch b1c03s04_f36a6260:
 
     # mc "Do you have guides on staff or do I need to provide my own?"
-    mc "Hast Du einen Reiseführer angestellt oder muss ich meinen eigenen mitbringen?"
+    mc "Hast Du einen Reiseführer für mich oder muss ich meinen eigenen mitbringen?"
 
 # game/code/Book-1/Chapter-3/s04.rpy:130
 translate deutsch b1c03s04_994c68c9:
@@ -254,7 +254,7 @@ translate deutsch b1c03s04_e1b68f31:
 translate deutsch b1c03s04_83f94a12:
 
     # mc "Jesus, you just had to {i}look{/i} at them."
-    mc "Mein Gott, du musstest einfach {i}schau{/i} es dir an."
+    mc "Jesus, du musst sie einfach nur {i}anschauen{/i}."
 
 # game/code/Book-1/Chapter-3/s04.rpy:180
 translate deutsch b1c03s04_c057dca5:
