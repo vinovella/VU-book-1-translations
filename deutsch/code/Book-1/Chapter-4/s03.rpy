@@ -68,7 +68,7 @@ translate deutsch b1c04m3_cf31033c:
 translate deutsch b1c04m3_7b94f11b:
 
     # lw "I sense a disturbance in the force."
-    lw Ich spüre eine Störung in der Macht."
+    lw "Ich spüre eine Störung in der Macht."
 
 # game/code/Book-1/Chapter-4/s03.rpy:61
 translate deutsch b1c04m3_c6e5a335:
