@@ -18,7 +18,7 @@
 
     # game/code/screens/gallery.rpy:38
     old "Character Filter: [character_filter!t]"
-    new "Character Filter: [character_filter!t]"
+    new "Charakter Filter: [character_filter!t]"
 
     # game/code/screens/gallery.rpy:57
     old "Page [page]"
