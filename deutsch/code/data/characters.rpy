@@ -2,7 +2,7 @@
 
     # game/code/data/characters.rpy:6
     old "You"
-    new "You"
+    new "Du"
 
     # game/code/data/characters.rpy:9
     old "Maria"
@@ -110,7 +110,7 @@
 
     # game/code/data/characters.rpy:38
     old "Past Corinne"
-    new "Past Corinne"
+    new "Vergangenheits Corinne"
 
     # game/code/data/characters.rpy:39
     old "Ridley"
@@ -230,7 +230,7 @@
 
     # game/code/data/characters.rpy:71
     old "Mother"
-    new "Mother"
+    new "Mutter"
 
     # game/code/data/characters.rpy:72
     old "Lauren"
