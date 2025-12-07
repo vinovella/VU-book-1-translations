@@ -2,7 +2,7 @@
 
     # game/code/data/ib_characters.rpy:9
     old "Power"
-    new "Power"
+    new "Leistung"
 
     # game/code/data/ib_characters.rpy:9
     old "Student"
@@ -10,7 +10,7 @@
 
     # game/code/data/ib_characters.rpy:9
     old "Computer Science & Design"
-    new "Computer Science & Design"
+    new "Informatik und Design"
 
     # game/code/data/ib_characters.rpy:9
     old "Melsbach"
@@ -18,7 +18,7 @@
 
     # game/code/data/ib_characters.rpy:9
     old "Business Administration"
-    new "Business Administration"
+    new "Betriebswirtschaft"
 
     # game/code/data/ib_characters.rpy:9
     old "Vann"
@@ -26,7 +26,7 @@
 
     # game/code/data/ib_characters.rpy:9
     old "Pharmacology"
-    new "Pharmacology"
+    new "Pharmakologie"
 
     # game/code/data/ib_characters.rpy:9
     old "Fleur Fifi"
@@ -38,7 +38,7 @@
 
     # game/code/data/ib_characters.rpy:9
     old "Computer Science"
-    new "Computer Science"
+    new "Informatik"
 
     # game/code/data/ib_characters.rpy:9
     old "Riese"
@@ -46,7 +46,7 @@
 
     # game/code/data/ib_characters.rpy:9
     old "Architecture"
-    new "Architecture"
+    new "Architektur"
 
     # game/code/data/ib_characters.rpy:9
     old "Gaia"
@@ -58,11 +58,11 @@
 
     # game/code/data/ib_characters.rpy:9
     old "Environmental Science"
-    new "Environmental Science"
+    new "Umweltwissenschaften"
 
     # game/code/data/ib_characters.rpy:9
     old "Rehabilitation Therapy"
-    new "Rehabilitation Therapy"
+    new "Rehabilitationstherapie"
 
     # game/code/data/ib_characters.rpy:9
     old "Lowe"
@@ -70,7 +70,7 @@
 
     # game/code/data/ib_characters.rpy:9
     old "Sports Journalism"
-    new "Sports Journalism"
+    new "Sportjournalismus"
 
     # game/code/data/ib_characters.rpy:9
     old "Riviera"
@@ -78,7 +78,7 @@
 
     # game/code/data/ib_characters.rpy:9
     old "Physics"
-    new "Physics"
+    new "Physik"
 
     # game/code/data/ib_characters.rpy:9
     old "Mallon"
@@ -86,7 +86,7 @@
 
     # game/code/data/ib_characters.rpy:9
     old "Theater Major"
-    new "Theater Major"
+    new "Theaterwissenschaft"
 
     # game/code/data/ib_characters.rpy:9
     old "Adrichem"
@@ -94,7 +94,7 @@
 
     # game/code/data/ib_characters.rpy:9
     old "Nuclear Engineering"
-    new "Nuclear Engineering"
+    new "Nukleartechnik"
 
     # game/code/data/ib_characters.rpy:9
     old "Antonova"
@@ -102,7 +102,7 @@
 
     # game/code/data/ib_characters.rpy:9
     old "Fashion Design"
-    new "Fashion Design"
+    new "Modedesign"
 
     # game/code/data/ib_characters.rpy:9
     old "Kato"
@@ -110,7 +110,7 @@
 
     # game/code/data/ib_characters.rpy:9
     old "Greek Classics & Classical Studies"
-    new "Greek Classics & Classical Studies"
+    new "Griechische Klassiker & Klassische Studien"
 
     # game/code/data/ib_characters.rpy:9
     old "Jekyll"
@@ -118,7 +118,7 @@
 
     # game/code/data/ib_characters.rpy:9
     old "English Language & Literature"
-    new "English Language & Literature"
+    new "Englische Sprache und Literatur"
 
     # game/code/data/ib_characters.rpy:9
     old "Flanagon"
@@ -126,7 +126,7 @@
 
     # game/code/data/ib_characters.rpy:9
     old "Music"
-    new "Music"
+    new "Musik"
 
     # game/code/data/ib_characters.rpy:9
     old "Hawthorne"
@@ -134,7 +134,7 @@
 
     # game/code/data/ib_characters.rpy:9
     old "Medical"
-    new "Medical"
+    new "Medizinisch"
 
     # game/code/data/ib_characters.rpy:9
     old "Woods"
@@ -146,7 +146,7 @@
 
     # game/code/data/ib_characters.rpy:9
     old "High-ranking member in the self-help group"
-    new "High-ranking member in the self-help group"
+    new "Hochrangiges Mitglied in der Selbsthilfegruppe"
 
     # game/code/data/ib_characters.rpy:9
     old "Daniels"
@@ -154,11 +154,11 @@
 
     # game/code/data/ib_characters.rpy:9
     old "Cashier at the butcher's shop"
-    new "Cashier at the butcher's shop"
+    new "Kassierer in der Metzgerei"
 
     # game/code/data/ib_characters.rpy:9
     old "Butcher"
-    new "Butcher"
+    new "Metzger"
 
     # game/code/data/ib_characters.rpy:9
     old "????"
@@ -166,11 +166,11 @@
 
     # game/code/data/ib_characters.rpy:9
     old "The Artist"
-    new "The Artist"
+    new "Der Künstler"
 
     # game/code/data/ib_characters.rpy:9
     old "Artist"
-    new "Artist"
+    new "Künstler"
 
     # game/code/data/ib_characters.rpy:9
     old "Diana"
@@ -182,7 +182,7 @@
 
     # game/code/data/ib_characters.rpy:9
     old "Faculty Advisor & History Professor"
-    new "Faculty Advisor & History Professor"
+    new "Fachberater & Geschichtsprofessor"
 
     # game/code/data/ib_characters.rpy:9
     old "Abel"
@@ -190,7 +190,7 @@
 
     # game/code/data/ib_characters.rpy:9
     old "Physical Education Teacher"
-    new "Physical Education Teacher"
+    new "Sportlehrer"
 
     # game/code/data/ib_characters.rpy:9
     old "Ronja"
@@ -202,7 +202,7 @@
 
     # game/code/data/ib_characters.rpy:9
     old "Chancellor & Chemistry Professor"
-    new "Chancellor & Chemistry Professor"
+    new "Kanzler und Chemieprofessor"
 
     # game/code/data/ib_characters.rpy:9
     old "de la Cruz"
@@ -210,7 +210,7 @@
 
     # game/code/data/ib_characters.rpy:9
     old "Law"
-    new "Law"
+    new "Recht"
 
     # game/code/data/ib_characters.rpy:9
     old "Crawford"
@@ -218,7 +218,7 @@
 
     # game/code/data/ib_characters.rpy:9
     old "Economy"
-    new "Economy"
+    new "Wirtschaft"
 
     # game/code/data/ib_characters.rpy:9
     old "Maria Francesca"
@@ -230,7 +230,7 @@
 
     # game/code/data/ib_characters.rpy:9
     old "History"
-    new "History"
+    new "Geschichte"
 
     # game/code/data/ib_characters.rpy:48
     old "Gaia \"Lilith\""
@@ -242,7 +242,7 @@
 
     # game/code/data/ib_characters.rpy:48
     old "Chemistry/Pre-Med"
-    new "Chemistry/Pre-Med"
+    new "Chemie/Vorbereitungskurs Medizin"
 
     # game/code/data/ib_characters.rpy:48
     old "Garret"
@@ -254,7 +254,7 @@
 
     # game/code/data/ib_characters.rpy:48
     old "Political Science"
-    new "Political Science"
+    new "Politikwissenschaft"
 
     # game/code/data/ib_characters.rpy:48
     old "Sam De"
@@ -266,7 +266,7 @@
 
     # game/code/data/ib_characters.rpy:48
     old "Love"
-    new "Love"
+    new "Liebe"
 
     # game/code/data/ib_characters.rpy:48
     old "Harding"
@@ -290,7 +290,7 @@
 
     # game/code/data/ib_characters.rpy:48
     old "Guide/Manager"
-    new "Guide/Manager"
+    new "Leiter/Manager"
 
     # game/code/data/ib_characters.rpy:48
     old "Grayson"
@@ -306,7 +306,7 @@
 
     # game/code/data/ib_characters.rpy:48
     old "Rival Team Spy"
-    new "Rival Team Spy"
+    new "Spion des gegnerischen Teams"
 
     # game/code/data/ib_characters.rpy:48
     old "Hellena"
@@ -318,7 +318,7 @@
 
     # game/code/data/ib_characters.rpy:48
     old "Gang leader of The Wasps"
-    new "Gang leader of The Wasps"
+    new "Anführer der Gang „Die Wespen“"
 
     # game/code/data/ib_characters.rpy:48
     old "Gabriella"
@@ -330,7 +330,7 @@
 
     # game/code/data/ib_characters.rpy:48
     old "Cafeteria Lady"
-    new "Cafeteria Lady"
+    new "Cafeteria-Dame"
 
     # game/code/data/ib_characters.rpy:48
     old "James"
@@ -342,7 +342,7 @@
 
     # game/code/data/ib_characters.rpy:48
     old "Professor & Alumnus"
-    new "Professor & Alumnus"
+    new "Professor und Absolvent"
 
     # game/code/data/ib_characters.rpy:48
     old "Williams"
@@ -370,11 +370,11 @@
 
     # game/code/data/ib_characters.rpy:48
     old "Professor at Vinovella University"
-    new "Professor at Vinovella University"
+    new "Professor an der Vinovella-Universität"
 
     # game/code/data/ib_characters.rpy:48
     old "The Prophet"
-    new "The Prophet"
+    new "Der Prophet"
 
     # game/code/data/ib_characters.rpy:48
     old "Welch"
@@ -382,7 +382,7 @@
 
     # game/code/data/ib_characters.rpy:48
     old "Forest ranger"
-    new "Forest ranger"
+    new "Forstbeamter"
 
     # game/code/data/ib_characters.rpy:48
     old "Sloan T."
@@ -398,9 +398,9 @@
 
     # game/code/data/ib_characters.rpy:48
     old "Winner's Club"
-    new "Winner's Club"
+    new "Gewinnerclub"
 
     # game/code/data/ib_characters.rpy:48
     old "Cult"
-    new "Cult"
+    new "Sekte"
 
