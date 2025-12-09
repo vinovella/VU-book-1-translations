@@ -6,7 +6,7 @@
 
     # game/code/screens/gallery.rpy:15
     old "Achievements"
-    new "Errungenschaften"
+    new "Erfolge"
 
     # game/code/screens/gallery.rpy:22
     old "Hints on"
