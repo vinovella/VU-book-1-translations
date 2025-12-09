@@ -2,11 +2,11 @@
 
     # game/code/screens/gallery.rpy:9
     old "Replay Room"
-    new "Wiederholungsraum"
+    new "Wiederholungen"
 
     # game/code/screens/gallery.rpy:15
     old "Achievements"
-    new "Errungenschaften"
+    new "Erfolge"
 
     # game/code/screens/gallery.rpy:22
     old "Hints on"
