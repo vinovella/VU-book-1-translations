@@ -350,7 +350,7 @@ translate deutsch b1c04ns01_9d97d990:
 translate deutsch b1c04ns01_a3b1a71e:
 
     # mc "I guess."
-    mc "Ich schätze."
+    mc "Schätze ich."
 
 # game/code/Book-1/Chapter-4n/s01.rpy:262
 translate deutsch b1c04ns01_dd177510:
