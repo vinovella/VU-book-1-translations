@@ -134,7 +134,7 @@ translate deutsch b01c04zs01m01_26eb1a79:
 translate deutsch b01c04zs01m01_3635d4b2:
 
     # "{color=#e5c532}Friendly Girl{/color}" "I'm Fleur, by the way."
-    "{color=#e5c532}Freundliches Mädchen{/color}" "Ich bin übrigens Fleur.
+    "{color=#e5c532}Freundliches Mädchen{/color}" "Ich bin übrigens Fleur."
 
 # game/code/Book-1/Chapter-4z/s01.rpy:105
 translate deutsch b01c04zs01m01_d567b05d:
