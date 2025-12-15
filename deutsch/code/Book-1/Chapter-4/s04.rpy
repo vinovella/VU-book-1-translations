@@ -128,7 +128,7 @@ translate deutsch b1c04s04_e8eba8cc:
 translate deutsch b1c04s04_c6f06d91:
 
     # mc "*whispers* Josie? Where are you—"
-    mc "*flüstert* Josie? Wo willst du"
+    mc "*flüstert* Josie? Wo willst du-"
 
 # game/code/Book-1/Chapter-4/s04.rpy:121
 translate deutsch b1c04s04_2ae8870d:
