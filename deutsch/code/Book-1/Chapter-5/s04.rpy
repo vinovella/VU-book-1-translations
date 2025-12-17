@@ -314,7 +314,7 @@ translate deutsch b1c05s04_11d6a7b6:
 translate deutsch b1c05s04_8c91cca2:
 
     # rh "My name is Ronja Hopkins. I'm the chancellor and a professor at Vinovella University."
-    rh "Mein Name ist Ronja Hopkins. Ich bin Kanzlerin und Professorin an der Vinovella-Universität."
+    rh "Mein Name ist Ronja Hopkins. Ich bin Rektorin und Professorin an der Vinovella-Universität."
 
 # game/code/Book-1/Chapter-5/s04.rpy:160
 translate deutsch b1c05s04_5d3b23be:
