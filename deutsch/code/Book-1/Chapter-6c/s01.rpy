@@ -908,7 +908,7 @@ translate deutsch b1c06cs01_0fcb9b15:
 translate deutsch b1c06cs01_be0ec480:
 
     # dk "Follow me, you two. We'll go over the workbooks at my dorm."
-    dk "Kommt mit, ihr beiden. Wir gehen die Arbeitshefte im Wohnheim durch."
+    dk "Kommt mit, ihr beiden. Wir gehen die Arbeitsbücher im Wohnheim durch."
 
 translate deutsch strings:
 
