@@ -620,7 +620,7 @@ translate deutsch b1c06s01_call_rh_936e014e:
 translate deutsch b1c06s01_call_rh_7e4f219d:
 
     # mct "Serves me right for not double checking the locks myself..."
-    mct Das habe ich davon, dass ich die Tür nicht selbst doppelt überprüft habe..."
+    mct "Das habe ich davon, dass ich die Tür nicht selbst doppelt überprüft habe..."
 
 # game/code/Book-1/Chapter-6/s01.rpy:500
 translate deutsch b1c06s01_call_rh_9f3070b9:
