@@ -416,7 +416,7 @@ translate deutsch b1c06cs05_order_049d51c8:
 translate deutsch b1c06cs05_order_fa4b5e90:
 
     # dk "You must've been really {i}deprived{/i} to cum that much."
-    dk "Du musst wirklich {i}entbehrt{/i} gewesen sein, um so viel zu kommen."
+    dk "Du musst wirklich {i}abstinent{/i} gewesen sein, um so viel abzuspritzen."
 
 # game/code/Book-1/Chapter-6c/s05.rpy:397
 translate deutsch b1c06cs05_order_0ea6310e:
