@@ -54,7 +54,7 @@
 
     # game/code/data/replay_room.rpy:5
     old "C06: Free Bone From Delphia"
-    new "C06: Freier Knochen von Delphia"
+    new "C06: Gratis Befriedigung von Delphia"
 
     # game/code/data/replay_room.rpy:5
     old "Ask the right questions."
