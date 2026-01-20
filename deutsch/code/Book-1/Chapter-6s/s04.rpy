@@ -164,13 +164,13 @@ translate deutsch b1c06ss04_continue_65add543:
 translate deutsch b1c06ss04_continue_95d63ea6:
 
     # mg "Can you validate these matches?"
-    mg "Kannst du diese Übereinstimmungen bestätigen?"
+    mg "Kannst du diese Kämpfe bestätigen?"
 
 # game/code/Book-1/Chapter-6s/s04.rpy:126
 translate deutsch b1c06ss04_continue_d6f46411:
 
     # mct "What does she mean by matches?"
-    mct "Was meint sie mit Übereinstimmungen?"
+    mct "Was meint sie mit Kämpfen?"
 
 # game/code/Book-1/Chapter-6s/s04.rpy:130
 translate deutsch b1c06ss04_continue_4c6664c8:
@@ -188,7 +188,7 @@ translate deutsch b1c06ss04_continue_f958d349:
 translate deutsch b1c06ss04_continue_71eadbb6:
 
     # zp "And no, I can't validate those matches."
-    zp "Und nein, ich kann diese Übereinstimmungen nicht bestätigen."
+    zp "Und nein, ich kann diese Kämpfe nicht bestätigen."
 
 # game/code/Book-1/Chapter-6s/s04.rpy:136
 translate deutsch b1c06ss04_continue_48892505:
@@ -200,7 +200,7 @@ translate deutsch b1c06ss04_continue_48892505:
 translate deutsch b1c06ss04_continue_8ebdb132:
 
     # mg "But the fourth match had two opponents. That's five total opponents, even if it was just four matches."
-    mg "Aber im vierten Spiel gab es zwei Gegner. Das sind insgesamt fünf Gegner, auch wenn es nur vier Spiele waren."
+    mg "Aber im vierten Kampf gab es zwei Gegner. Das sind insgesamt fünf Gegner, auch wenn es nur vier Kämpfe waren."
 
 # game/code/Book-1/Chapter-6s/s04.rpy:142
 translate deutsch b1c06ss04_continue_d55f0e2d:
@@ -266,7 +266,7 @@ translate deutsch b1c06ss04_continue_abe2b843:
 translate deutsch b1c06ss04_continue_19a53aeb:
 
     # zp "Of course I do, but I can't redeem those matches regardless! Trust me, maybe we can bring this up tonight when—"
-    zp "Natürlich tue ich das, aber ich kann diese Spiele trotzdem nicht einlösen! Vertrau mir, vielleicht können wir das heute Abend ansprechen, wenn-"
+    zp "Natürlich tue ich das, aber ich kann diese Kämpfe trotzdem nicht einlösen! Vertrau mir, vielleicht können wir das heute Abend besprechen, wenn-"
 
 # game/code/Book-1/Chapter-6s/s04.rpy:172
 translate deutsch b1c06ss04_continue_e40c36ff:
