@@ -488,13 +488,13 @@ translate deutsch strings:
 
     # game/code/Book-1/Chapter-6w/s07.rpy:266
     old "Fuck her roughly"
-    new "Fick sie hart"
+    new "Fick sie härter"
 
     # game/code/Book-1/Chapter-6w/s07.rpy:266
     old "Don't"
-    new "Nicht"
+    new "Mach so weiter"
 
     # game/code/Book-1/Chapter-6w/s07.rpy:328
     old "Yes, I want to taste you."
-    new "Ja, ich möchte dich kosten."
+    new "Ja, ich möchte dich schmecken."
 
