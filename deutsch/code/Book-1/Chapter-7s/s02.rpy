@@ -572,7 +572,7 @@ translate deutsch b1c07ss02_cf6d36ed:
 translate deutsch b1c07ss02_80e59f92:
 
     # cb "And if that time is best spent visiting {i}old acquaintances{/i} then who am I to resist?"
-    cb "Und wenn man diese Zeit am besten mit Besuchen bei alten Bekannten verbringt, wer bin ich dann, dem zu widerstehen?"
+    cb "Und wenn man diese Zeit am besten mit Besuchen bei {i}alten Bekannten{/i} verbringt, wer bin ich dann, dem zu widerstehen?"
 
 # game/code/Book-1/Chapter-7s/s02.rpy:299
 translate deutsch b1c07ss02_02d96d25:
