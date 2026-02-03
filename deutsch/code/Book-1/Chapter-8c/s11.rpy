@@ -2,241 +2,241 @@
 translate deutsch b1c08cs11_d2c80bad:
 
     # mc "Where are we going?"
-    mc "Where are we going?"
+    mc "Wohin gehen wir?"
 
 # game/code/Book-1/Chapter-8c/s11.rpy:53
 translate deutsch b1c08cs11_1b709d0e:
 
     # "The moonlight dapples through the canopy of leaves, casting a surreal glow on Ivy's skin as she leads you further into the woods."
-    "The moonlight dapples through the canopy of leaves, casting a surreal glow on Ivy's skin as she leads you further into the woods."
+    "Das Mondlicht fällt durch das Blätterdach und taucht Ivys Haut in einen surrealen Schein, während sie dich weiter in den Wald hineinführt."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:54
 translate deutsch b1c08cs11_682e370e:
 
     # "The leaves brush against your legs, and even more sensitive parts of your body, each touch sending a tingling sensation through you."
-    "The leaves brush against your legs, and even more sensitive parts of your body, each touch sending a tingling sensation through you."
+    "Die Blätter streifen deine Beine und noch empfindlichere Körperteile, und jede Berührung versetzt dich in ein prickelndes Gefühl."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:57
 translate deutsch b1c08cs11_8d00e8ea:
 
     # ih "*Smirks* You'll see."
-    ih "*Smirks* You'll see."
+    ih "*Grinst* Du wirst schon sehen."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:58
 translate deutsch b1c08cs11_e60e32e8:
 
     # ih "The ceremony was just the appetizer, [mcname]. Now it's time for the main course."
-    ih "The ceremony was just the appetizer, [mcname]. Now it's time for the main course."
+    ih "Die Zeremonie war nur die Vorspeise, [mcname]. Jetzt ist es Zeit für den Hauptgang."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:62
 translate deutsch b1c08cs11_f7959aa1:
 
     # "You arrive at a secluded spot, where the moonlight casts an ethereal glow on both of you."
-    "You arrive at a secluded spot, where the moonlight casts an ethereal glow on both of you."
+    "Ihr kommt an einem abgelegenen Ort an, wo das Mondlicht euch beide in ein ätherisches Licht taucht."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:73
 translate deutsch b1c08cs11_1faf4177:
 
     # ih "I want you all to myself."
-    ih "I want you all to myself."
+    ih "Ich will dich ganz für mich allein."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:74
 translate deutsch b1c08cs11_83c08ee3:
 
     # ih "No distractions, no sharing. Tonight, I want to focus on every part of you."
-    ih "No distractions, no sharing. Tonight, I want to focus on every part of you."
+    ih "Keine Ablenkungen, kein Teilen. Heute Abend möchte ich mich ganz auf dich konzentrieren."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:80
 translate deutsch b1c08cs11_e79228af:
 
     # "Ivy's lips crash against yours, warm and insistent, as if she's trying to consume your very essence."
-    "Ivy's lips crash against yours, warm and insistent, as if she's trying to consume your very essence."
+    "Ivy's Lippen treffen auf deine, warm und eindringlich, als wolle sie dein Innerstes verschlingen."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:81
 translate deutsch b1c08cs11_65cc3094:
 
     # ih "I need you. Just you."
-    ih "I need you. Just you."
+    ih "Ich brauche dich. Nur dich."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:84
 translate deutsch b1c08cs11_7c9c066e:
 
     # ih "I want you to fuck me. Fill me."
-    ih "I want you to fuck me. Fill me."
+    ih "Ich will, dass du mich fickst. Füll mich aus."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:87
 translate deutsch b1c08cs11_70bd6aa4:
 
     # ih "I want to feel your seed inside me."
-    ih "I want to feel your seed inside me."
+    ih "Ich möchte deinen Samen in mir spüren."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:94
 translate deutsch b1c08cs11_5a946495:
 
     # mc "I noticed you being awfully attentive to me during the ceremony."
-    mc "I noticed you being awfully attentive to me during the ceremony."
+    mc "Mir ist aufgefallen, dass du mir während der Zeremonie sehr viel Aufmerksamkeit geschenkt hast."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:95
 translate deutsch b1c08cs11_7ecf3e38:
 
     # "Ivy gives you a lustful smile."
-    "Ivy gives you a lustful smile."
+    "Ivy schenkt dir ein lüsternes Lächeln."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:98
 translate deutsch b1c08cs11_90b385ba:
 
     # ih "You don't know how long I've wanted you."
-    ih "You don't know how long I've wanted you."
+    ih "Du weißt gar nicht, wie lange ich dich schon will."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:99
 translate deutsch b1c08cs11_e15fc0c6:
 
     # ih "The way you move, the way you speak, even the way you look at me...it's been driving me wild."
-    ih "The way you move, the way you speak, even the way you look at me...it's been driving me wild."
+    ih "Die Art, wie du dich bewegst, wie du sprichst, sogar wie du mich ansiehst ... das macht mich verrückt."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:104
 translate deutsch b1c08cs11_6c487a51:
 
     # ih "From the first time I saw you, I knew I wanted you."
-    ih "From the first time I saw you, I knew I wanted you."
+    ih "Vom ersten Moment an, als ich dich sah, wusste ich, dass ich dich wollte."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:111
 translate deutsch b1c08cs11_d9b7911f:
 
     # mc "Then allow me to give you what you want. You've been craving this moment, haven't you?"
-    mc "Then allow me to give you what you want. You've been craving this moment, haven't you?"
+    mc "Dann lass mich dir geben, was du willst. Du hast dich nach diesem Moment gesehnt, nicht wahr?"
 
 # game/code/Book-1/Chapter-8c/s11.rpy:112
 translate deutsch b1c08cs11_bc6fbc01:
 
     # mc "Don't worry, I'll make it unforgettable."
-    mc "Don't worry, I'll make it unforgettable."
+    mc "Keine Sorge, ich werde es unvergesslich machen."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:117
 translate deutsch b1c08cs11_fc985520:
 
     # "Ivy's moans serenade your ears as you lavish her with your tongue."
-    "Ivy's moans serenade your ears as you lavish her with your tongue."
+    "Ivy's Stöhnen umschmeichelt deine Ohren, während du sie mit deiner Zunge verwöhnst."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:119
 translate deutsch b1c08cs11_7bdea064:
 
     # "The taste of her wetness and the musk of her arousal driving you to such heights of arousal that you can't help but touch yourself."
-    "The taste of her wetness and the musk of her arousal driving you to such heights of arousal that you can't help but touch yourself."
+    "Der Geschmack ihrer Feuchtigkeit und der Moschusduft ihrer Erregung treiben dich zu solchen Höhen der Erregung, dass du nicht anders kannst, als dich selbst zu berühren."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:133
 translate deutsch b1c08cs11_bff2c74e:
 
     # ih "You feel so good."
-    ih "You feel so good."
+    ih "Du fühlst dich so gut an."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:136
 translate deutsch b1c08cs11_9e9c87ea:
 
     # "Ivy arches her back, pressing herself against your lips as if trying to imprint herself onto you."
-    "Ivy arches her back, pressing herself against your lips as if trying to imprint herself onto you."
+    "Ivy wölbt ihren Rücken und drückt sich gegen deine Lippen, als wolle sie sich dir einprägen."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:141
 translate deutsch b1c08cs11_06e95a4a:
 
     # ih "I need more. More, more, more!"
-    ih "I need more. More, more, more!"
+    ih "Ich brauche mehr. Mehr, mehr, mehr!"
 
 # game/code/Book-1/Chapter-8c/s11.rpy:143
 translate deutsch b1c08cs11_671fb87c:
 
     # ih "Don't stop, [mcname]. Make me scream your name!"
-    ih "Don't stop, [mcname]. Make me scream your name!"
+    ih "Hör nicht auf, [mcname]. Bring mich dazu, deinen Namen zu schreien!"
 
 # game/code/Book-1/Chapter-8c/s11.rpy:158
 translate deutsch b1c08cs11_f8854714:
 
     # mc "You want more, huh?"
-    mc "You want more, huh?"
+    mc "Du willst mehr, was?"
 
 # game/code/Book-1/Chapter-8c/s11.rpy:159
 translate deutsch b1c08cs11_7ca186c1:
 
     # mc "Well, since you've been such a good little slut for me, I suppose I could indulge you a bit more."
-    mc "Well, since you've been such a good little slut for me, I suppose I could indulge you a bit more."
+    mc "Nun, da du so eine brave kleine Schlampe für mich gewesen bist, könnte ich dich wohl noch ein bisschen mehr verwöhnen."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:161
 translate deutsch b1c08cs11_740ac406:
 
     # "You grab Ivy's hips, yanking her roughly against you so she can feel your throbbing cock poised at her entrance."
-    "You grab Ivy's hips, yanking her roughly against you so she can feel your throbbing cock poised at her entrance."
+    "Du packst Ivys Hüften und ziehst sie grob zu dir heran, damit sie deinen pochenden Schwanz spüren kann, der an ihrem Eingang bereitsteht."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:163
 translate deutsch b1c08cs11_422ab299:
 
     # mc "You want me to give you a nice hard fuck, Ivy?"
-    mc "You want me to give you a nice hard fuck, Ivy?"
+    mc "Willst du, dass ich dich schön hart ficke, Ivy?"
 
 # game/code/Book-1/Chapter-8c/s11.rpy:166
 translate deutsch b1c08cs11_8ee537aa:
 
     # ih "Fuck yes. Breed me like the filthy whore I am. Fill me up. Make me your good little cumdump."
-    ih "Fuck yes. Breed me like the filthy whore I am. Fill me up. Make me your good little cumdump."
+    ih "Ja, verdammt. Schwängere mich wie die dreckige Hure, die ich bin. Fülle mich aus. Mach mich zu deiner kleinen Spermaschlampe."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:167
 translate deutsch b1c08cs11_01e8e7d9:
 
     # ih "Show me how much you've wanted this too, [mcname]. Make me feel it."
-    ih "Show me how much you've wanted this too, [mcname]. Make me feel it."
+    ih "Zeig mir, wie sehr du das auch gewollt hast, [mcname]. Lass es mich spüren."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:172
 translate deutsch b1c08cs11_87b7ba46:
 
     # "You plunge into Ivy with a guttural groan, surrendering to the overwhelming need to claim her, mark her."
-    "You plunge into Ivy with a guttural groan, surrendering to the overwhelming need to claim her, mark her."
+    "Du stürzt dich mit einem kehligen Stöhnen auf Ivy und gibst dich dem überwältigenden Verlangen hin, sie zu besitzen, sie zu markieren."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:175
 translate deutsch b1c08cs11_48f37e91:
 
     # "The sensation is intoxicating—her warmth enveloping you, molding to every inch of you."
-    "The sensation is intoxicating—her warmth enveloping you, molding to every inch of you."
+    "Das Gefühl ist berauschend – ihre Wärme umhüllt dich und passt sich jedem Zentimeter deines Körpers an."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:176
 translate deutsch b1c08cs11_0283e31c:
 
     # "The air thick with the scent of lust and pine, the moon above as if blessing this unholy union."
-    "The air thick with the scent of lust and pine, the moon above as if blessing this unholy union."
+    "Die Luft war erfüllt vom Duft der Lust und der Kiefern, der Mond darüber, als segne er diese unheilige Vereinigung."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:179
 translate deutsch b1c08cs11_06470ff1:
 
     # mc "Such a dirty little cockslut you are."
-    mc "Such a dirty little cockslut you are."
+    mc "Was für eine kleine versaute Schlampe du doch bist."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:180
 translate deutsch b1c08cs11_4fd2194d:
 
     # mc "Does it excite you? Us making our own little secret in the middle of this forest?"
-    mc "Does it excite you? Us making our own little secret in the middle of this forest?"
+    mc "Reizt dich das? Dass wir unser eigenes kleines Geheimnis mitten in diesem Wald haben?"
 
 # game/code/Book-1/Chapter-8c/s11.rpy:181
 translate deutsch b1c08cs11_8cda9839:
 
     # mc "I'm so fucking teased out after getting groped at that ceremony."
-    mc "I'm so fucking teased out after getting groped at that ceremony."
+    mc "Ich bin so verdammt genervt, nachdem ich bei dieser Zeremonie begrapscht wurde."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:184
 translate deutsch b1c08cs11_f5a31eba:
 
     # mc "I'm gonna take all that pent up frustration out on you."
-    mc "I'm gonna take all that pent up frustration out on you."
+    mc "Ich werde all meine aufgestaute Frustration an dir auslassen."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:185
 translate deutsch b1c08cs11_f9b43625:
 
     # mc "You're going to be the canvas where I paint my desire, my frustration, my need."
-    mc "You're going to be the canvas where I paint my desire, my frustration, my need."
+    mc "Du wirst die Leinwand sein, auf die ich meine Sehnsucht, meine Frustration, mein Verlangen male."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:188
 translate deutsch b1c08cs11_ee5e810b:
 
     # "Ivy's tongue laps against your fingers, tasting you."
-    "Ivy's tongue laps against your fingers, tasting you."
+    "Ivy's Zunge leckt an deinen Fingern und kostet dich."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:189
 translate deutsch b1c08cs11_47cb92d2:
@@ -248,407 +248,407 @@ translate deutsch b1c08cs11_47cb92d2:
 translate deutsch b1c08cs11_75bce8da:
 
     # "Each thrust sends a jolt through Ivy's body, her breaths hot and wet against your fingers, her hips meeting yours in a rhythm born of pure, primal need."
-    "Each thrust sends a jolt through Ivy's body, her breaths hot and wet against your fingers, her hips meeting yours in a rhythm born of pure, primal need."
+    "Jeder Stoß lässt Ivys Körper erzittern, ihr Atem ist heiß und feucht auf deinen Fingern, ihre Hüften bewegen sich im Rhythmus deiner, geboren aus reinem, ursprünglichem Verlangen."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:201
 translate deutsch b1c08cs11_c3d1e972:
 
     # "Ivy's breaths are hot and wet against your fingers. Her body is so supple and receptive to your touch."
-    "Ivy's breaths are hot and wet against your fingers. Her body is so supple and receptive to your touch."
+    "Ivy's Atem ist heiß und feucht auf deinen Fingern. Ihr Körper ist so geschmeidig und empfänglich für deine Berührungen."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:204
 translate deutsch b1c08cs11_f9c2c70a:
 
     # "It's easy to be rough with her and give her what she wants, what you both want."
-    "It's easy to be rough with her and give her what she wants, what you both want."
+    "Es ist leicht, grob zu ihr zu sein und ihr zu geben, was sie will, was ihr beide wollt."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:220
 translate deutsch b1c08cs11_c5c02c60:
 
     # "You lift your hand and bring it down on her ass with a resounding smack, the red welt forming almost instantly."
-    "You lift your hand and bring it down on her ass with a resounding smack, the red welt forming almost instantly."
+    "Du hebst deine Hand und lässt sie mit einem lauten Klatschen auf ihren Hintern fallen, wobei sich fast augenblicklich eine rote Strieme bildet."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:223
 translate deutsch b1c08cs11_380ed44e:
 
     # ih "F-fuck!"
-    ih "F-fuck!"
+    ih "V-verdammt!"
 
 # game/code/Book-1/Chapter-8c/s11.rpy:230
 translate deutsch b1c08cs11_3efa9226:
 
     # "Ivy's moans get louder and more instinctual."
-    "Ivy's moans get louder and more instinctual."
+    "Ivy's Stöhnen wird lauter und instinktiver."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:233
 translate deutsch b1c08cs11_f86b0297:
 
     # "Her hips move in time with yours, getting you as deep as possible inside her."
-    "Her hips move in time with yours, getting you as deep as possible inside her."
+    "Ihre Hüften bewegen sich im Gleichklang mit deinen und lassen dich so tief wie möglich in sie eindringen."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:240
 translate deutsch b1c08cs11_8ab21fd4:
 
     # "You thrust roughly into her, and her body grips tightly onto you."
-    "You thrust roughly into her, and her body grips tightly onto you."
+    "Du dringst grob in sie ein, und ihr Körper umklammert dich fest."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:243
 translate deutsch b1c08cs11_ad67f554:
 
     # "Your full, aching cock and balls spasm with pleasure and yearning, begging for release."
-    "Your full, aching cock and balls spasm with pleasure and yearning, begging for release."
+    "Dein praller, schmerzender Schwanz und deine Eier zucken vor Lust und Sehnsucht und betteln um Erlösung."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:247
 translate deutsch b1c08cs11_6ec90f15:
 
     # mc "That's right, take it."
-    mc "That's right, take it."
+    mc "Genau, nimm es."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:248
 translate deutsch b1c08cs11_e260e1c2:
 
     # mc "Stay still and let me fuck you full of me."
-    mc "Stay still and let me fuck you full of me."
+    mc "Bleib still und lass mich dich mit mir vollstopfen."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:254
 translate deutsch b1c08cs11_b020f93b:
 
     # ih "God that feels so good!"
-    ih "God that feels so good!"
+    ih "Gott, das fühlt sich so gut an!"
 
 # game/code/Book-1/Chapter-8c/s11.rpy:257
 translate deutsch b1c08cs11_353ada4d:
 
     # "Her words are like a siren song, urging you on, driving you to the brink."
-    "Her words are like a siren song, urging you on, driving you to the brink."
+    "Ihre Worte sind wie ein Sirenengesang, der dich antreibt und dich an den Rand des Abgrunds treibt."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:264
 translate deutsch b1c08cs11_bd012710:
 
     # ih "Please, cum in me."
-    ih "Please, cum in me."
+    ih "Bitte, komm in mir."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:265
 translate deutsch b1c08cs11_dbcef61f:
 
     # ih "I want you to. I want to feel your seed in me days after."
-    ih "I want you to. I want to feel your seed in me days after."
+    ih "Ich will, dass du es tust. Ich will deinen Samen noch Tage später in mir spüren."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:266
 translate deutsch b1c08cs11_6ea548bb:
 
     # mc "Yeah? Is that what you want?"
-    mc "Yeah? Is that what you want?"
+    mc "Ja? Ist es das, was du willst?"
 
 # game/code/Book-1/Chapter-8c/s11.rpy:269
 translate deutsch b1c08cs11_702119c6:
 
     # "You pull her close to fuck her even harder. Feeling her soft skin give in to you so readily makes you want to dig your fingers into her even more."
-    "You pull her close to fuck her even harder. Feeling her soft skin give in to you so readily makes you want to dig your fingers into her even more."
+    "Du ziehst sie näher zu dir heran, um sie noch härter zu ficken. Das Gefühl, wie ihre weiche Haut sich dir so bereitwillig hingibt, lässt dich noch mehr Lust verspüren, deine Finger in sie zu graben."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:270
 translate deutsch b1c08cs11_4e71724b:
 
     # mc "You're so eager for me to cum."
-    mc "You're so eager for me to cum."
+    mc "Du willst so sehr, dass ich komme."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:271
 translate deutsch b1c08cs11_16802c37:
 
     # "You feel her muscles clench around you, as if trying to milk you right then and there."
-    "You feel her muscles clench around you, as if trying to milk you right then and there."
+    "Du spürst, wie sich ihre Muskeln um dich zusammenziehen, als wolle sie dich sofort melken."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:272
 translate deutsch b1c08cs11_ae426b27:
 
     # mc "Makes me want to tease and torture you until you're begging."
-    mc "Makes me want to tease and torture you until you're begging."
+    mc "Das weckt in mir den Wunsch, dich so lange zu necken und zu quälen, bis du bettelst."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:275
 translate deutsch b1c08cs11_545416e4:
 
     # "Ivy releases a needy, slutty moan for you."
-    "Ivy releases a needy, slutty moan for you."
+    "Ivy stößt ein bedürftiges, nuttiges Stöhnen für dich aus."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:276
 translate deutsch b1c08cs11_bc4777c3:
 
     # "The sound reverberates through you, a melody to your own rising crescendo, and you know neither of you can hold back much longer."
-    "The sound reverberates through you, a melody to your own rising crescendo, and you know neither of you can hold back much longer."
+    "Der Klang hallt in dir wider, eine Melodie zu deinem eigenen anschwellenden Crescendo, und du weißt, dass keiner von euch beiden sich noch länger zurückhalten kann."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:283
 translate deutsch b1c08cs11_1eaa48a2:
 
     # ih "Please, I want you now. Breed me now."
-    ih "Please, I want you now. Breed me now."
+    ih "Bitte, ich will dich jetzt. Schwänger mich jetzt."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:284
 translate deutsch b1c08cs11_ceb21010:
 
     # ih "Don't make me wait any longer, [mcname]. I want to feel you cum inside me."
-    ih "Don't make me wait any longer, [mcname]. I want to feel you cum inside me."
+    ih "Lass mich nicht länger warten, [mcname]. Ich will spüren, wie du in mir kommst."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:287
 translate deutsch b1c08cs11_def62ed7:
 
     # ih "I want to feel every burning rope of your desire. I want you to coat me inside completely until I'm dripping you, just you."
-    ih "I want to feel every burning rope of your desire. I want you to coat me inside completely until I'm dripping you, just you."
+    ih "Ich will jede einzelne deiner brennenden Sehnsüchte spüren. Ich will, dass du mich ganz und gar mit dir durchdringst, bis ich nur noch von dir triefe."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:288
 translate deutsch b1c08cs11_1be99ace:
 
     # "Ivy's body pulses and aches with need for you, but you manage to hold back just enough."
-    "Ivy's body pulses and aches with need for you, but you manage to hold back just enough."
+    "Ivy's Körper pocht und schmerzt vor Verlangen nach dir, aber du schaffst es, dich gerade noch zurückzuhalten."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:290
 translate deutsch b1c08cs11_e062b230:
 
     # mc "Not yet. I'm gonna have my way with you in one more position."
-    mc "Not yet. I'm gonna have my way with you in one more position."
+    mc "Noch nicht. Ich werde dich noch in einer weiteren Stellung ficken."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:293
 translate deutsch b1c08cs11_8d7b1c6b:
 
     # "You pull out and face Ivy toward you. Her eyes are beautiful in the moonlight."
-    "You pull out and face Ivy toward you. Her eyes are beautiful in the moonlight."
+    "Du ziehst dich zurück und drehst Ivy zu dir um. Ihre Augen sind wunderschön im Mondlicht."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:297
 translate deutsch b1c08cs11_dcac1483:
 
     # "You slide your hands down to her perfect ass and dig your fingers into her skin."
-    "You slide your hands down to her perfect ass and dig your fingers into her skin."
+    "Du lässt deine Hände zu ihrem perfekten Hintern gleiten und gräbst deine Finger in ihre Haut."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:298
 translate deutsch b1c08cs11_0f63ae30:
 
     # "Ivy clings to you, and nuzzles into your shoulder. Her shallow breaths warm your skin."
-    "Ivy clings to you, and nuzzles into your shoulder. Her shallow breaths warm your skin."
+    "Ivy klammert sich an dich und schmiegt sich an deine Schulter. Ihr flacher Atem wärmt deine Haut."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:301
 translate deutsch b1c08cs11_3bb4cde6:
 
     # "Abruptly, you pick Ivy up and slide yourself back inside her warm body."
-    "Abruptly, you pick Ivy up and slide yourself back inside her warm body."
+    "Plötzlich hebst du Ivy hoch und schiebst dich wieder in ihren warmen Körper hinein."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:302
 translate deutsch b1c08cs11_9e2a1167:
 
     # "The suddenness of your actions makes her gasp, her eyes widening momentarily before they fill with a lustful haze."
-    "The suddenness of your actions makes her gasp, her eyes widening momentarily before they fill with a lustful haze."
+    "Die Plötzlichkeit deiner Handlungen lässt sie nach Luft schnappen, ihre Augen weiten sich kurz, bevor sie sich mit einem lustvollen Schleier füllen."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:311
 translate deutsch b1c08cs11_175ef3a9:
 
     # "You fuck Ivy ravenously, and she clings to you tightly with her legs and arms."
-    "You fuck Ivy ravenously, and she clings to you tightly with her legs and arms."
+    "Du fickst Ivy gierig, und sie klammert sich mit ihren Beinen und Armen fest an dich."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:321
 translate deutsch b1c08cs11_c30a682c:
 
     # "Her body grips you, rapidly driving you to your climax."
-    "Her body grips you, rapidly driving you to your climax."
+    "Ihr Körper umklammert dich und treibt dich rasch zum Höhepunkt."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:327
 translate deutsch b1c08cs11_fd2d2d05:
 
     # ih "Ah! I'm cumming!"
-    ih "Ah! I'm cumming!"
+    ih "Ah! Ich komme!"
 
 # game/code/Book-1/Chapter-8c/s11.rpy:328
 translate deutsch b1c08cs11_69d0dfcd:
 
     # "Ivy's orgasm rips through both of your bodies. Her walls convulse so tightly around you it almost hurts."
-    "Ivy's orgasm rips through both of your bodies. Her walls convulse so tightly around you it almost hurts."
+    "Ivy's Orgasmus durchfährt eure beiden Körper. Ihr Inneres zieht sich so fest um dich zusammen, dass es fast wehtut."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:329
 translate deutsch b1c08cs11_418e2ba3:
 
     # "The layered sensation of her warm body pressed against you, milking you so thoroughly—You can't hold back anymore."
-    "The layered sensation of her warm body pressed against you, milking you so thoroughly—You can't hold back anymore."
+    "Das vielschichtige Gefühl ihres warmen Körpers, der sich an dich drückt und dich so gründlich melkt – du kannst dich nicht mehr zurückhalten."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:332
 translate deutsch b1c08cs11_80d66ded:
 
     # mc "You're pulling me in, Ivy. I can't...I can't hold back anymore."
-    mc "You're pulling me in, Ivy. I can't...I can't hold back anymore."
+    mc "Du ziehst mich in deinen Bann, Ivy. Ich kann nicht mehr... Ich kann mich nicht mehr zurückhalten."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:339
 translate deutsch b1c08cs11_d3f5b7f5:
 
     # mc "Fuck, Ivy."
-    mc "Fuck, Ivy."
+    mc "Verdammt, Ivy."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:344
 translate deutsch b1c08cs11_2ca82af3:
 
     # "The cool forest breeze lightly drifts over where you and Ivy are connected."
-    "The cool forest breeze lightly drifts over where you and Ivy are connected."
+    "Die kühle Waldbrise weht sanft über den Ort, an dem du und Ivy miteinander verbunden seid."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:345
 translate deutsch b1c08cs11_291ed0f0:
 
     # "A small shiver goes down your spine, but Ivy's warm breath and body keeps you cozy enough."
-    "A small shiver goes down your spine, but Ivy's warm breath and body keeps you cozy enough."
+    "Ein kleiner Schauer läuft dir über den Rücken, aber Ivys warmer Atem und Körper halten dich warm genug."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:347
 translate deutsch b1c08cs11_b0a1ce82:
 
     # "You both stand there for a moment, savoring the closeness, your breaths mingling in the night air."
-    "You both stand there for a moment, savoring the closeness, your breaths mingling in the night air."
+    "Ihr steht beide einen Moment lang da und genießt die Nähe, während sich eure Atemzüge in der Nachtluft vermischen."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:350
 translate deutsch b1c08cs11_4887e2b3:
 
     # ih "That felt so good."
-    ih "That felt so good."
+    ih "Das hat sich so gut angefühlt."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:352
 translate deutsch b1c08cs11_16d161e6:
 
     # mc "Yeah it did. That release was just what we needed after that party."
-    mc "Yeah it did. That release was just what we needed after that party."
+    mc "Ja, das hat es. Diese Freigabe war genau das, was wir nach dieser Party gebraucht haben."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:355
 translate deutsch b1c08cs11_df79aa35:
 
     # ih "Hah! Too true. Most of the people there barely know how to please a woman."
-    ih "Hah! Too true. Most of the people there barely know how to please a woman."
+    ih "Haha! Das ist leider wahr. Die meisten Männer dort wissen kaum, wie man eine Frau befriedigt."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:356
 translate deutsch b1c08cs11_92925b13:
 
     # ih "All they do is waggle their fingers and hope for the best."
-    ih "All they do is waggle their fingers and hope for the best."
+    ih "Sie wedeln nur mit den Fingern und hoffen auf das Beste."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:359
 translate deutsch b1c08cs11_10949ed8:
 
     # ih "But you do just fine."
-    ih "But you do just fine."
+    ih "Aber du machst das gut."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:362
 translate deutsch b1c08cs11_00c81b97:
 
     # "Ivy stretches before you, full of your cum and looking absolutely radiant in the moonlight."
-    "Ivy stretches before you, full of your cum and looking absolutely radiant in the moonlight."
+    "Ivy streckt sich vor dir aus, voller Sperma und sieht im Mondlicht absolut strahlend aus."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:364
 translate deutsch b1c08cs11_381e75a4:
 
     # ih "I feel so good and relieved now."
-    ih "I feel so good and relieved now."
+    ih "Ich fühle mich jetzt so gut und erleichtert."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:367
 translate deutsch b1c08cs11_461bf4b2:
 
     # ih "Such a beautiful night, isn't it? A night for new beginnings, perhaps."
-    ih "Such a beautiful night, isn't it? A night for new beginnings, perhaps."
+    ih "Was für eine wunderschöne Nacht, nicht wahr? Eine Nacht für Neuanfänge vielleicht."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:368
 translate deutsch b1c08cs11_5da57e64:
 
     # ih "I hope the full moon bears fruit."
-    ih "I hope the full moon bears fruit."
+    ih "Ich hoffe, dass der Vollmond Früchte trägt."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:371
 translate deutsch b1c08cs11_b2b9e19d:
 
     # mc "What do you mean?"
-    mc "What do you mean?"
+    mc "Was meinst du damit?"
 
 # game/code/Book-1/Chapter-8c/s11.rpy:374
 translate deutsch b1c08cs11_a2733890:
 
     # ih "Nothing, love."
-    ih "Nothing, love."
+    ih "Nichts, Liebster."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:375
 translate deutsch b1c08cs11_c9d9948b:
 
     # ih "We should head back."
-    ih "We should head back."
+    ih "Wir sollten zurückgehen."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:378
 translate deutsch b1c08cs11_00c22424:
 
     # ih "I'm sure the others are already going to sleep. And you need your rest for tomorrow."
-    ih "I'm sure the others are already going to sleep. And you need your rest for tomorrow."
+    ih "Ich bin sicher, die anderen schlafen schon. Und du mussst dich auch ausruhen für morgen."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:380
 translate deutsch b1c08cs11_40a8c349:
 
     # mc "Rest? After what we just did? Hardly."
-    mc "Rest? After what we just did? Hardly."
+    mc "Ausruhen? Nach dem, was wir gerade gemacht haben? Kaum."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:383
 translate deutsch b1c08cs11_9ad116e7:
 
     # ih "*Laughs* Save some of that energy for me for next time, will you?"
-    ih "*Laughs* Save some of that energy for me for next time, will you?"
+    ih "*lacht* Heb dir etwas von dieser Energie für mich für das nächste Mal auf, okay?"
 
 # game/code/Book-1/Chapter-8c/s11.rpy:387
 translate deutsch b1c08cs11_af053edd:
 
     # ih "Are you excited to go home tomorrow?"
-    ih "Are you excited to go home tomorrow?"
+    ih "Freust du dich darauf, morgen nach Hause zu fahren?"
 
 # game/code/Book-1/Chapter-8c/s11.rpy:388
 translate deutsch b1c08cs11_714bef83:
 
     # "As you both start walking back, your hands find each other naturally, fingers entwining."
-    "As you both start walking back, your hands find each other naturally, fingers entwining."
+    "Als ihr beide euch auf den Rückweg macht, finden eure Hände ganz natürlich zueinander, die Finger verschränken sich."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:390
 translate deutsch b1c08cs11_07c64b35:
 
     # mc "You mean sleep in a real bed? Yeah."
-    mc "You mean sleep in a real bed? Yeah."
+    mc "Du meinst, in einem richtigen Bett schlafen? Ja."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:393
 translate deutsch b1c08cs11_071cb4ec:
 
     # ih "Ah, you college kids all need a bit of humbling now and then."
-    ih "Ah, you college kids all need a bit of humbling now and then."
+    ih "Ach, ihr College-Studenten müsst alle ab und zu mal ein bisschen Demut lernen."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:395
 translate deutsch b1c08cs11_dfcbf0e6:
 
     # mc "Is what we just did considered {i}humbling{/i}?"
-    mc "Is what we just did considered {i}humbling{/i}?"
+    mc "Ist das, was wir gerade getan haben, als {i}Demut{/i} anzusehen?"
 
 # game/code/Book-1/Chapter-8c/s11.rpy:396
 translate deutsch b1c08cs11_63d7f23d:
 
     # ih "Oh hush."
-    ih "Oh hush."
+    ih "Ach, sei still."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:404
 translate deutsch b1c08cs11_eb39ec33:
 
     # ih "It was wonderful to have you here. Until next time. Goodbye, [mcname]."
-    ih "It was wonderful to have you here. Until next time. Goodbye, [mcname]."
+    ih "Es war wunderbar, dich hier zu haben. Bis zum nächsten Mal. Auf Wiedersehen, [mcname]."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:406
 translate deutsch b1c08cs11_64552a76:
 
     # mc "Bye, Ivy."
-    mc "Bye, Ivy."
+    mc "Tschüss, Ivy."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:422
 translate deutsch b1c08cs11_e7a2d063:
 
     # "You smile as Lumi's still sleeping form rolls over to cuddle close to you."
-    "You smile as Lumi's still sleeping form rolls over to cuddle close to you."
+    "Du lächelst, als Lumi sich im Schlaf zu dir umdreht, um sich eng an dich zu kuscheln."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:435
 translate deutsch b1c08cs11_5fba8ea1:
 
     # "A light breeze wafts over the tent, creating a nice whispering noise through the trees."
-    "A light breeze wafts over the tent, creating a nice whispering noise through the trees."
+    "Eine leichte Brise weht über das Zelt und erzeugt ein angenehmes Rascheln in den Bäumen."
 
 # game/code/Book-1/Chapter-8c/s11.rpy:436
 translate deutsch b1c08cs11_33a818c3:
 
     # "You're easily coaxed into sleep."
-    "You're easily coaxed into sleep."
+    "Du lässt dich leicht in den Schlaf wiegen."
 
