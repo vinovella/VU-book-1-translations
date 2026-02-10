@@ -1154,7 +1154,7 @@ translate deutsch b1c08ss11_mg_sex_d9bc6c78:
 translate deutsch b1c08ss11_mg_sex_4672250d:
 
     # mg "You're too charming for your own good."
-    mg "Du bist zu charmant für dein eigenes Wohl."
+    mg "Du bist zu charmant."
 
 # game/code/Book-1/Chapter-8s/s11.rpy:749
 translate deutsch b1c08ss11_mg_sex_f7acb05f:
