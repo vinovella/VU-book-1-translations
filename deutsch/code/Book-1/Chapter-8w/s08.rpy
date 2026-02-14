@@ -278,7 +278,7 @@ translate deutsch b1c08ws08_28b24f7e:
 translate deutsch b1c08ws08_a17d57c3:
 
     # mc "I think my blood pressure dropped. It happens sometimes. Especially when I overexert myself."
-    mc "Ich glaube, mein Blutdruck ist gesunken. Das passiert manchmal. Vor allem, wenn ich mich überanstrengen."
+    mc "Ich glaube, mein Blutdruck ist gesunken. Das passiert manchmal. Vor allem, wenn ich mich überanstrenge."
 
 # game/code/Book-1/Chapter-8w/s08.rpy:186
 translate deutsch b1c08ws08_6c983f91:
