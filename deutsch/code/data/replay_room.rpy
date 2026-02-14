@@ -310,7 +310,7 @@
 
     # game/code/data/replay_room.rpy:5
     old "Investigate the Winners Club."
-    new "Untersuche den Gewinner Club."
+    new "Untersuche den Gewinners Club."
 
     # game/code/data/replay_room.rpy:5
     old "C09: Flirting With Foxy & Lilith"
@@ -330,7 +330,7 @@
 
     # game/code/data/replay_room.rpy:5
     old "C09: Winner's Strip Tease"
-    new "C09: Striptease des Gewinners"
+    new "C09: Striptease der Gewinners"
 
     # game/code/data/replay_room.rpy:5
     old "C09: Naked Mile With Iona & Isa"
