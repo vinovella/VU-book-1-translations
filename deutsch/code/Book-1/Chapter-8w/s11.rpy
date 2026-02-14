@@ -386,7 +386,7 @@ translate deutsch b1c08ws11_f0b11081:
 translate deutsch b1c08ws11_f5010c1b:
 
     # sm "*Whispers* Make love to me, [mcname]. I want to feel you touch me."
-    sm "*Flüstert* Lieb mich, [Name]. Ich will deine Berührung spüren."
+    sm "*Flüstert* Lieb mich, [mcname]. Ich will deine Berührung spüren."
 
 # game/code/Book-1/Chapter-8w/s11.rpy:282
 translate deutsch b1c08ws11_ab00e493:
