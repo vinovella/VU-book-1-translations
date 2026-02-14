@@ -86,7 +86,7 @@ translate deutsch b1c09s01_continue_f96b9d12:
 translate deutsch b1c09s01_check_jh_f32d9aeb:
 
     # "???" "Such a delicate thing."
-    "???" "So eine empfindliche Sache."
+    "???" "So ein empfindliches Ding."
 
 # game/code/Book-1/Chapter-9/s01.rpy:205
 translate deutsch b1c09s01_check_jh_5f8f9c5a:
