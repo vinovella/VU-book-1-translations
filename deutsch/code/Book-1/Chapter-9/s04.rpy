@@ -710,7 +710,7 @@ translate deutsch b1c09s04_continue_3c140d5c:
 translate deutsch b1c09s04_continue_f438b571:
 
     # rh "*Nods* Yes, {i}{b} God yes.{/b}{/i} Take me. Fuck my guts and make me milk your cum."
-    rh "*Nickt* Ja, {i}{b} Gott, ja.{/b}{/i} Nimm mich. Fick mich hart und lass mich dein Sperma schlucken."
+    rh "*Nickt* Ja, {i}{b} Gott, ja.{/b}{/i} Nimm mich. Fick mich hart und lass mich dein Sperma melken."
 
 # game/code/Book-1/Chapter-9/s04.rpy:581
 translate deutsch b1c09s04_continue_c2e64d5e:
@@ -1046,7 +1046,7 @@ translate deutsch b1c09s04_continue_5e1698a3:
 translate deutsch b1c09s04_continue_ce3f0a1b:
 
     # rh "Oh, and don't think I don't appreciate you looking out for us with the door."
-    rh "Oh, und denk bloß nicht, dass ich es nicht zu schätzen weiß, dass du an der Tür auf uns achtest."
+    rh "Oh, und denk bloß nicht, dass ich es nicht zu schätzen weiß, dass du an der Tür aufgepasst hast."
 
 # game/code/Book-1/Chapter-9/s04.rpy:791
 translate deutsch b1c09s04_continue_43292790:
@@ -1058,7 +1058,7 @@ translate deutsch b1c09s04_continue_43292790:
 translate deutsch b1c09s04_continue_e87be3a5:
 
     # rh "Please, like {i}you{/i} wouldn't be here if I didn't come first."
-    rh "Bitte, als ob {i}du{/i} nicht hier wärst, wenn ich nicht zuerst gekommen wäre."
+    rh "Bitte, als ob {i}du{/i} nicht hier wärst, wenn ich dir nicht zuvorgekommen wäre."
 
 # game/code/Book-1/Chapter-9/s04.rpy:800
 translate deutsch b1c09s04_continue_8294aba2:
