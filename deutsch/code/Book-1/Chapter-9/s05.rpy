@@ -110,7 +110,7 @@ translate deutsch replay_b1c09s05_032ee458:
 translate deutsch replay_b1c09s05_0034abe3:
 
     # dm "At least he figured it out quick."
-    dm "Wenigstens hat er es schnell herausgefunden."
+    dm "Wenigstens freut er sich."
 
 # game/code/Book-1/Chapter-9/s05.rpy:166
 translate deutsch replay_b1c09s05_a24e545c:
