@@ -206,7 +206,7 @@ translate deutsch b1c09s08_sex_fc44bc8f:
 translate deutsch b1c09s08_no_gn_4f481c87:
 
     # mc "I can help you out Foxy, but I don't know about Lilith watching..."
-    mc "Ich kann dir helfen, Foxy, aber ich weiß nicht, ob Lilith zusehen will..."
+    mc "Ich kann dir helfen, Foxy, aber ich weiß nicht, ob Lilith zusehen sollte..."
 
 # game/code/Book-1/Chapter-9/s08.rpy:194
 translate deutsch b1c09s08_no_gn_2aa364e4:
