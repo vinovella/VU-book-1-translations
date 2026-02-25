@@ -152,7 +152,7 @@ translate deutsch replay_b1c09s09w_677747ab:
 translate deutsch replay_b1c09s09w_362d6e1e:
 
     # "Isa looks at the server and shakes her head no, indicating that Iona and the others are cut off."
-    "Isa schaut zum Server und schüttelt den Kopf, um anzuzeigen, dass Iona und die anderen abgeschnitten sind."
+    "Isa schaut zur Kellnerin und schüttelt den Kopf, um anzuzeigen, dass Iona und die anderen nichts mehr bekommen."
 
 # game/code/Book-1/Chapter-9/s09w.rpy:115
 translate deutsch replay_b1c09s09w_0c76b422:
