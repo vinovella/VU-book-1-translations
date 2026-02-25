@@ -962,19 +962,19 @@ translate deutsch b1c09s09s_with_zp_f19953b8:
 translate deutsch b1c09s09s_with_zp_b883b5c0:
 
     # zp "I want you. I wan—"
-    zp "Ich will dich. Ich werd-"
+    zp "Ich will dich. Ich wil-"
 
 # game/code/Book-1/Chapter-9/s09s.rpy:702
 translate deutsch b1c09s09s_with_zp_977c1d33:
 
     # mc "Shh. Not yet."
-    mc "Pst. Noch nicht."
+    mc "Pst. Nicht jetzt."
 
 # game/code/Book-1/Chapter-9/s09s.rpy:703
 translate deutsch b1c09s09s_with_zp_7cf02626:
 
     # mc "We're in the middle of the party. The fun's just beginning. But not yet."
-    mc "Wir sind mitten in der Party. Der Spaß fängt gerade erst an. Aber noch nicht ganz."
+    mc "Wir sind mitten in der Party. Der Spaß fängt gerade erst an. Aber noch nicht jetzt."
 
 # game/code/Book-1/Chapter-9/s09s.rpy:707
 translate deutsch b1c09s09s_with_zp_da942c35:
