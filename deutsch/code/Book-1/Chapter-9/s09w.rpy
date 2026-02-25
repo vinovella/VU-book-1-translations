@@ -494,7 +494,7 @@ translate deutsch b1c09s09w_cheer_ima_6afac555:
 translate deutsch b1c09s09w_cheer_ima_b70ca53f:
 
     # "Isa giggles and tugs her bottoms up, not quite willing to take them all the way off for the crowd."
-    "Isa kichert und zieht ihre Hose hoch, nicht ganz bereit, sie vor den Leuten ganz auszuziehen."
+    "Isa kichert und zieht ihr Höschen hoch, sie will es vor dem Publikum noch nicht ganz ausziehen."
 
 # game/code/Book-1/Chapter-9/s09w.rpy:394
 translate deutsch b1c09s09w_ba_show_cc65ba2a:
@@ -524,7 +524,7 @@ translate deutsch b1c09s09w_ba_show_b4ccb29e:
 translate deutsch b1c09s09w_ba_show_8d35da9f:
 
     # mct "Damn, she's starting {i}without{/i} certain items."
-    mct "Verdammt, sie fängt {i}ohne{/i} bestimmte Dinge an."
+    mct "Verdammt, sie fängt {i}ohne{/i} bestimmten Grund einfach an."
 
 # game/code/Book-1/Chapter-9/s09w.rpy:414
 translate deutsch b1c09s09w_ba_show_bb23868e:
