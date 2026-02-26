@@ -608,7 +608,7 @@ translate deutsch b1c09s11_dk_sex_d661e227:
 translate deutsch b1c09s11_dk_sex_288d1f29:
 
     # "You see Delphia's back arch at your words, her walls pulsing around your cock."
-    "Du siehst, wie Delphia sich bei deinen Worten zurückbeugt und ihre Wände um deinen Schwanz pulsieren."
+    "Du siehst, wie Delphia sich bei deinen Worten zurückbeugt und ihre Lippen um deinen Schwanz pulsieren."
 
 # game/code/Book-1/Chapter-9/s11.rpy:493
 translate deutsch b1c09s11_dk_sex_49b03e4e:
@@ -626,7 +626,7 @@ translate deutsch b1c09s11_dk_sex_1f25df7d:
 translate deutsch b1c09s11_dk_sex_461f0939:
 
     # "Delphia's body tenses, and she lets out a strangled moan as she cums around your cock at your command. You feel her walls pulse, her juices dripping down your thighs."
-    "Delphias Körper spannt sich an, und sie stößt ein ersticktes Stöhnen aus, als sie auf deinen Befehl hin um deinen Schwanz herum kommt. Du spürst, wie ihre Wände pulsieren, ihre Säfte tropfen an deinen Schenkeln herunter."
+    "Delphias Körper spannt sich an, und sie stößt ein ersticktes Stöhnen aus, als sie auf deinen Befehl hin um deinen Schwanz herum kommt. Du spürst, wie ihre Lippen pulsieren, ihre Säfte tropfen an deinen Schenkeln herunter."
 
 # game/code/Book-1/Chapter-9/s11.rpy:507
 translate deutsch b1c09s11_dk_sex_3e87d999:
