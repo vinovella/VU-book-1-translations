@@ -290,7 +290,7 @@
 
     # game/code/data/ib_characters.rpy:48
     old "Guide/Manager"
-    new "Leiter/Manager"
+    new "Führer/Manager"
 
     # game/code/data/ib_characters.rpy:48
     old "Grayson"
@@ -318,7 +318,7 @@
 
     # game/code/data/ib_characters.rpy:48
     old "Gang leader of The Wasps"
-    new "Anführer der Gang „Die Wespen“"
+    new "Anführerin der Gang „Die Wespen“"
 
     # game/code/data/ib_characters.rpy:48
     old "Gabriella"
@@ -374,7 +374,7 @@
 
     # game/code/data/ib_characters.rpy:48
     old "The Prophet"
-    new "Der Prophet"
+    new "Die Prophetin"
 
     # game/code/data/ib_characters.rpy:48
     old "Welch"
@@ -398,7 +398,7 @@
 
     # game/code/data/ib_characters.rpy:48
     old "Winner's Club"
-    new "Gewinnerclub"
+    new "Gewinners Club"
 
     # game/code/data/ib_characters.rpy:48
     old "Cult"
