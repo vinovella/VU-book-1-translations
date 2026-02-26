@@ -422,7 +422,7 @@ translate deutsch b1c09s11_dk_sex_52ea9241:
 translate deutsch b1c09s11_dk_sex_a06ba371:
 
     # "You feel her walls flutter around the tip of your cock, her hips lifting off the bed."
-    "Du spürst, wie ihre Wände um die Spitze deines Penis flattern, ihre Hüften heben sich vom Bett."
+    "Du spürst, wie ihre Lippen um die Spitze deines Penis flattern, ihre Hüften heben sich vom Bett."
 
 # game/code/Book-1/Chapter-9/s11.rpy:370
 translate deutsch b1c09s11_dk_sex_00e6f66c:
@@ -440,7 +440,7 @@ translate deutsch b1c09s11_dk_sex_6f9b7fc3:
 translate deutsch b1c09s11_dk_sex_d1206cf7:
 
     # "You feel her walls squeeze your cock as she throws her head back and moans."
-    "Du spürst, wie ihre Wände deinen Schwanz umklammern, während sie den Kopf zurückwirft und stöhnt."
+    "Du spürst, wie ihre Lippen deinen Schwanz umklammern, während sie den Kopf zurückwirft und stöhnt."
 
 # game/code/Book-1/Chapter-9/s11.rpy:379
 translate deutsch b1c09s11_dk_sex_54350582:
