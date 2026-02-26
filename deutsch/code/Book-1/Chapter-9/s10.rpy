@@ -230,7 +230,7 @@ translate deutsch replay_b1c09s10_ef6f7f7b:
 translate deutsch replay_b1c09s10_0abc356f:
 
     # ir "Don't think we forgot about you."
-    ir "Glauben Sie nicht, wir hätten Sie vergessen."
+    ir "Glaube nicht, wir hätten dich vergessen."
 
 # game/code/Book-1/Chapter-9/s10.rpy:247
 translate deutsch replay_b1c09s10_d727250d:
