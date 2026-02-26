@@ -524,7 +524,7 @@ translate deutsch b1c09s11_dk_sex_ebb517a3:
 translate deutsch b1c09s11_dk_sex_ba53ba24:
 
     # mc "Not good enough."
-    mc "Noch nicht gut genug."
+    mc "Noch nicht genug."
 
 # game/code/Book-1/Chapter-9/s11.rpy:448
 translate deutsch b1c09s11_dk_sex_60ff2c06:
