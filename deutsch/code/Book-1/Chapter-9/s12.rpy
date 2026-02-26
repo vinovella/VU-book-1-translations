@@ -794,7 +794,7 @@ translate deutsch b1c09s12_sex_6f5192e3:
 translate deutsch b1c09s12_sex_34768b90:
 
     # "She whimpers and moans with each strike, but you can feel her wetness soaking through your shorts as she grinds her dripping pussy against your hardening cock."
-    "Sie wimmert und stöhnt bei jedem Stoß, aber du kannst spüren, wie ihre Feuchtigkeit deine Shorts durchnässt, während sie ihre triefende Muschi an deinem hart werdenden Schwanz reibt."
+    "Sie wimmert und stöhnt bei jedem Schlag, aber du kannst spüren, wie ihre Feuchtigkeit deine Shorts durchnässt, während sie ihre triefende Muschi an deinem hart werdenden Schwanz reibt."
 
 # game/code/Book-1/Chapter-9/s12.rpy:543
 translate deutsch b1c09s12_sex_2c83a815:
