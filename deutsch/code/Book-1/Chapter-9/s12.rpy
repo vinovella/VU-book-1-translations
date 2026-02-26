@@ -422,7 +422,7 @@ translate deutsch b1c09s12_sex_c9588c21:
 translate deutsch b1c09s12_sex_5a5aa7ff:
 
     # "As your tongue teases her folds, Fleur's grip on the edge of the chair tightens, her nails digging into the wood."
-    "Während deine Zunge ihre Schamlippen neckt, verstärkt sich Fleurs Griff um die Stuhlkante, ihre Nägel graben sich ins Holz."
+    "Während deine Zunge ihre Schenkel neckt, verstärkt sich Fleurs Griff um die Stuhlkante, ihre Nägel graben sich ins Holz."
 
 # game/code/Book-1/Chapter-9/s12.rpy:307
 translate deutsch b1c09s12_sex_7e114488:
