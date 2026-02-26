@@ -386,7 +386,7 @@ translate deutsch b1c09s11_dk_sex_46de485b:
 translate deutsch b1c09s11_dk_sex_e0477ccf:
 
     # "You feel Delphia's walls tighten around your fingers as she tries to stifle a moan."
-    "Du spürst, wie sich Delphias Wände um deine Finger zusammenziehen, während sie versucht, ein Stöhnen zu unterdrücken."
+    "Du spürst, wie sich Delphias Lippen um deine Finger zusammenziehen, während sie versucht, ein Stöhnen zu unterdrücken."
 
 # game/code/Book-1/Chapter-9/s11.rpy:341
 translate deutsch b1c09s11_dk_sex_2adeb7dc:
