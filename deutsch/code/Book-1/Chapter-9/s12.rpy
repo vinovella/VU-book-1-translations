@@ -872,7 +872,7 @@ translate deutsch b1c09s12_sex_7a3cc6b1:
 translate deutsch b1c09s12_sex_04926cb1:
 
     # "You oblige without hesitation, you get into a better position."
-    "Du kommst ohne zögern der Bitte nach und kommst in eine bessere Position."
+    "Du kommst ohne zögern der Bitte nach und begibst dich in eine bessere Position."
 
 # game/code/Book-1/Chapter-9/s12.rpy:612
 translate deutsch b1c09s12_sex_b375673c:
