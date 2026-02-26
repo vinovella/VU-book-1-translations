@@ -548,7 +548,7 @@ translate deutsch b1c09s11_dk_sex_aac595ba:
 translate deutsch b1c09s11_dk_sex_06d54336:
 
     # "You feel Delphia's walls squeeze your cock as she lets out a guttural moan."
-    "Du spürst, wie Delphias Wände deinen Schwanz umklammern, während sie ein kehliges Stöhnen von sich gibt."
+    "Du spürst, wie Delphias Lippen deinen Schwanz umklammern, während sie ein kehliges Stöhnen von sich gibt."
 
 # game/code/Book-1/Chapter-9/s11.rpy:460
 translate deutsch b1c09s11_dk_sex_5f21d0fc:
