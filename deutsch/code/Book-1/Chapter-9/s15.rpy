@@ -710,7 +710,7 @@ translate deutsch b1c09s15_sex_karaoke_end_0e97c450:
 translate deutsch b1c09s15_sex_karaoke_end_61daa315:
 
     # "[c2.name!t], meanwhile, focuses on the other end of your shaft. Her soft lips and tongue roaming up and down, gently sucking and teasing you, making you twitch in pleasure." id b1c09s15_sex_karaoke_end_61daa315
-    "[c2.name!t] konzentriert sich unterdessen auf das andere Ende deines Schwanzes. Ihre weichen Lippen und ihre Zunge gleiten auf und ab, saugen sanft und necken dich, sodass du vor Lust zuckst." id b1c09s15_sex_karaoke_end_61daa315
+    "[c2.name!t] konzentriert sich unterdessen auf die andere Seite deines Schwanzes. Ihre weichen Lippen und ihre Zunge gleiten auf und ab, saugen sanft und necken dich, sodass du vor Lust zuckst." id b1c09s15_sex_karaoke_end_61daa315
 
 # game/code/Book-1/Chapter-9/s15.rpy:893
 translate deutsch b1c09s15_sex_karaoke_end_2a1cdc30:
