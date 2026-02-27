@@ -50,11 +50,11 @@
 
     # game/code/data/ib_descriptions.rpy:2
     old "Used to be Nia's Guide."
-    new "War früher Nias Führer."
+    new "War früher Nias Führerin."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Modeled for the artist."
-    new "Für den Künstler als Modell gestanden."
+    new "Für die Künstlerin als Modell gestanden."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Maria was a substantial member of the inner circle in the self-help group."
@@ -202,7 +202,7 @@
 
     # game/code/data/ib_descriptions.rpy:2
     old "My dorm neighbor."
-    new "Mein Wohnheim Nachbar."
+    new "Meine Wohnheim Nachbarin."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Theater actor. Knows Nia."
@@ -286,7 +286,7 @@
 
     # game/code/data/ib_descriptions.rpy:2
     old "Helper at campus library."
-    new "Helfer in der Campusbibliothek."
+    new "Helferin in der Campusbibliothek."
 
     # game/code/data/ib_descriptions.rpy:2
     old "A friend of Nia and Maria."
