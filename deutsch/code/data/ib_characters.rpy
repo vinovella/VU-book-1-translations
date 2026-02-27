@@ -166,11 +166,11 @@
 
     # game/code/data/ib_characters.rpy:9
     old "The Artist"
-    new "Der Künstler"
+    new "Die Künstlerin"
 
     # game/code/data/ib_characters.rpy:9
     old "Artist"
-    new "Künstler"
+    new "Künstlerin"
 
     # game/code/data/ib_characters.rpy:9
     old "Diana"
@@ -290,7 +290,7 @@
 
     # game/code/data/ib_characters.rpy:48
     old "Guide/Manager"
-    new "Führer/Manager"
+    new "Führerin/Managerin"
 
     # game/code/data/ib_characters.rpy:48
     old "Grayson"
