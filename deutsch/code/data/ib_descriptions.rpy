@@ -46,15 +46,15 @@
 
     # game/code/data/ib_descriptions.rpy:2
     old "Went missing February 15th during the Winner's Club party."
-    new "Verschwand am 15. Februar während der Gewinner Club-Party."
+    new "Verschwand am 15. Februar während der Gewinners Club-Party."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Used to be Nia's Guide."
-    new "War früher Nias Führer."
+    new "War früher Nias Führerin."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Modeled for the artist."
-    new "Für den Künstler als Modell gestanden."
+    new "Für die Künstlerin als Modell gestanden."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Maria was a substantial member of the inner circle in the self-help group."
@@ -102,7 +102,7 @@
 
     # game/code/data/ib_descriptions.rpy:2
     old "Does not have enough power within the Winner's Club to allow outsiders to come in or choose new candidates."
-    new "Hat innerhalb des Winner's Club nicht genügend Macht, um Außenstehende aufzunehmen oder neue Kandidaten auszuwählen."
+    new "Hat innerhalb des Gewinners Club nicht genügend Macht, um Außenstehende aufzunehmen oder neue Kandidaten auszuwählen."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Andrejz and Silvia used to date."
@@ -142,7 +142,7 @@
 
     # game/code/data/ib_descriptions.rpy:2
     old "Has high enough clearance to enter the Guns n' Rosette bar through the employee only door."
-    new "Hat genügend Durchgangshöhe, um die Bar „Guns n' Rosette” durch die Tür für Mitarbeiter zu betreten."
+    new "Hat genügend Rechte, um die Bar „Guns n' Rosette” durch die Tür für Mitarbeiter zu betreten."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Zemfira is technically a member of the Winner's Club, but prefers to be in her current group."
@@ -202,11 +202,11 @@
 
     # game/code/data/ib_descriptions.rpy:2
     old "My dorm neighbor."
-    new "Mein Nachbar im Studentenwohnheim."
+    new "Meine Wohnheim Nachbarin."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Theater actor. Knows Nia."
-    new "Theaterdarsteller. Kennt Nia."
+    new "Theaterdarstellerin. Kennt Nia."
 
     # game/code/data/ib_descriptions.rpy:2
     old "She is the guide of Nia and me."
@@ -286,7 +286,7 @@
 
     # game/code/data/ib_descriptions.rpy:2
     old "Helper at campus library."
-    new "Helfer in der Campusbibliothek."
+    new "Helferin in der Campusbibliothek."
 
     # game/code/data/ib_descriptions.rpy:2
     old "A friend of Nia and Maria."
@@ -710,11 +710,11 @@
 
     # game/code/data/ib_descriptions.rpy:2
     old "Was previously involved with the Winner's Club."
-    new "War zuvor im Gewinner Club aktiv."
+    new "War zuvor im Gewinners Club aktiv."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Stalks the Winner's Club."
-    new "Stalkte den Gewinner Club."
+    new "Stalkte den Gewinners Club."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Hates Isa. Wants revenge."
@@ -746,7 +746,7 @@
 
     # game/code/data/ib_descriptions.rpy:2
     old "Got kicked from the Winner's Club because she crashed an important party that Isa threw."
-    new "Sie wurde aus dem Gewinner Club ausgeschlossen, weil sie eine wichtige Party von Isa gestört hat."
+    new "Sie wurde aus dem Gewinners Club ausgeschlossen, weil sie eine wichtige Party von Isa gestört hat."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Sam seems to have connections with the Rival CCC team."
@@ -806,7 +806,7 @@
 
     # game/code/data/ib_descriptions.rpy:2
     old "Winner's Club's party host."
-    new "Gewinners Clubs Gastgeber."
+    new "Partyveranstalterin des Gewinners Club."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Caught spying on our practice."
@@ -898,7 +898,7 @@
 
     # game/code/data/ib_descriptions.rpy:2
     old "Involved in managing press and charity activities for the Winner's Group. Expected the team to attend a press conference."
-    new "Beteiligt an der Leitung der Presse- und Wohltätigkeitsaktivitäten für die Gewinner Gruppe. Erwartete, dass das Team an einer Pressekonferenz teilnimmt."
+    new "Beteiligt an der Leitung der Presse- und Wohltätigkeitsaktivitäten für die Gewinners Gruppe. Erwartete, dass das Team an einer Pressekonferenz teilnimmt."
 
     # game/code/data/ib_descriptions.rpy:2
     old "Knows that Brig passes out drugs to the Winners. Seems to encourage it."
