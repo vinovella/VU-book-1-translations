@@ -506,7 +506,7 @@ translate deutsch b1c01s02m01_2adcf819:
 translate deutsch b1c01s02m01_67ffc962:
 
     # "{color=#aa0323}Girl{/color}" "Eat glass, fuckhead!" (who_outlines=[(1, "#e1e1e1", 0, 0)], kerning=1)
-    "{color=#aa0323}Girl{/color}" "Friss Glas, du Arschloch!" (who_outlines=[(1, "#e1e1e1", 0, 0)], kerning=1)
+    "{color=#aa0323}Mädchen{/color}" "Friss Glas, du Arschloch!" (who_outlines=[(1, "#e1e1e1", 0, 0)], kerning=1)
 
 # game/code/Book-1/Chapter-1/s02.rpy:323
 translate deutsch b1c01s02m01_b1c8c4cf:
@@ -518,7 +518,7 @@ translate deutsch b1c01s02m01_b1c8c4cf:
 translate deutsch b1c01s02m01_19423bb9:
 
     # "{color=#aa0323}Girl{/color}" "Then get out of the way! I don't need to take shit from you!" (who_outlines=[(1, "#e1e1e1", 0, 0)], kerning=1)
-    "{color=#aa0323}Girl{/color}" "Dann geh mir aus dem Weg! Ich muss mir keinen Scheiß von dir gefallen lassen!" (who_outlines=[(1, "#e1e1e1", 0, 0)], kerning=1)
+    "{color=#aa0323}Mädchen{/color}" "Dann geh mir aus dem Weg! Ich lasse mir von dir nichts gefallen!" (who_outlines=[(1, "#e1e1e1", 0, 0)], kerning=1)
 
 # game/code/Book-1/Chapter-1/s02.rpy:329
 translate deutsch b1c01s02m01_fcd063cb:
