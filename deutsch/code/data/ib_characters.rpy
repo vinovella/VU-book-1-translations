@@ -154,7 +154,7 @@
 
     # game/code/data/ib_characters.rpy:9
     old "Cashier at the butcher's shop"
-    new "Kassierer in der Metzgerei"
+    new "Kassiererin in der Metzgerei"
 
     # game/code/data/ib_characters.rpy:9
     old "Butcher"
@@ -182,7 +182,7 @@
 
     # game/code/data/ib_characters.rpy:9
     old "Faculty Advisor & History Professor"
-    new "Fachberater & Geschichtsprofessor"
+    new "Fachberaterin & Geschichtsprofessorin"
 
     # game/code/data/ib_characters.rpy:9
     old "Abel"
@@ -190,7 +190,7 @@
 
     # game/code/data/ib_characters.rpy:9
     old "Physical Education Teacher"
-    new "Sportlehrer"
+    new "Sportlehrerin"
 
     # game/code/data/ib_characters.rpy:9
     old "Ronja"
@@ -202,7 +202,7 @@
 
     # game/code/data/ib_characters.rpy:9
     old "Chancellor & Chemistry Professor"
-    new "Kanzler und Chemieprofessor"
+    new "Kanzlerin und Chemieprofessorin"
 
     # game/code/data/ib_characters.rpy:9
     old "de la Cruz"
@@ -370,7 +370,7 @@
 
     # game/code/data/ib_characters.rpy:48
     old "Professor at Vinovella University"
-    new "Professor an der Vinovella-Universität"
+    new "Professorin an der Vinovella-Universität"
 
     # game/code/data/ib_characters.rpy:48
     old "The Prophet"
@@ -382,7 +382,7 @@
 
     # game/code/data/ib_characters.rpy:48
     old "Forest ranger"
-    new "Forstbeamter"
+    new "Forstbeamtin"
 
     # game/code/data/ib_characters.rpy:48
     old "Sloan T."
