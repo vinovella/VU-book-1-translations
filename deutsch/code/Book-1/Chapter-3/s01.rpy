@@ -14,19 +14,19 @@ translate deutsch b1c03s01_d3ec48b3:
 translate deutsch b1c03s01_caddc73b:
 
     # mct "Jesus, I'm just getting it out the ass, here."
-    mct "Mein Gott, ich erzähle es jetzt einfach."
+    mct "Jesus, ich lasse das jetzt einfach mal so raus."
 
 # game/code/Book-1/Chapter-3/s01.rpy:60
 translate deutsch b1c03s01_150d2fe1:
 
     # "{color=#e16b8f}Girl{/color}" "What's going on?"
-    "{color=#e16b8f}Girl{/color}" "Was ist hier los?"
+    "{color=#e16b8f}Mädchen{/color}" "Was ist hier los?"
 
 # game/code/Book-1/Chapter-3/s01.rpy:63
 translate deutsch b1c03s01_7a8ef402:
 
     # "{color=#e16b8f}Girl{/color}" "Did Simon get his ass beat?"
-    "{color=#e16b8f}Girl{/color}" "Wurde Simon verprügelt?"
+    "{color=#e16b8f}Mädchen{/color}" "Hat Simon ordentlich Prügel bezogen?"
 
 # game/code/Book-1/Chapter-3/s01.rpy:66
 translate deutsch b1c03s01_6f70dfbf:
@@ -44,7 +44,7 @@ translate deutsch b1c03s01_955f515f:
 translate deutsch b1c03s01_ce070ee3:
 
     # zp "Simon, I've seen this guy, he's a new transfer."
-    zp "Simon, Ich habe diesen Kerl gesehen, er ist ein neuer Zugang."
+    zp "Simon, ich kenne den Kerl, er ist ein Neuzugang."
 
 # game/code/Book-1/Chapter-3/s01.rpy:76
 translate deutsch b1c03s01_ceb375bd:
@@ -56,7 +56,7 @@ translate deutsch b1c03s01_ceb375bd:
 translate deutsch b1c03s01_8b806a01:
 
     # mc "She's right. I just transferred here today. I was just changing in my dorm—"
-    mc "Sie hat Recht. Ich bin erst heute hierher gezogen. Ich habe mich gerade in meinem Zimmer umgezogen."
+    mc "Sie hat Recht. Ich bin heute erst hierher versetzt worden. Ich habe mich gerade in meinem Zimmer umgezogen-"
 
 # game/code/Book-1/Chapter-3/s01.rpy:83
 translate deutsch b1c03s01_8656cd70:
