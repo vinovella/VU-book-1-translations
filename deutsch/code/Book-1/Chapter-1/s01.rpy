@@ -38,7 +38,7 @@ translate deutsch b1c01s01_104f39ec:
 translate deutsch b1c01s01_2956eb49:
 
     # "{color=#6e50c3}Girl{/color}" "Hi! I am Silvia and you are?" (who_outlines=[(1, "#e1e1e1", 0, 0)], kerning=1)
-    "{color=#6e50c3}Girl{/color}" "Hallo! Ich bin Silvia und du bist?" (who_outlines=[(1, "#e1e1e1", 0, 0)], kerning=1)
+    "{color=#6e50c3}Mädchen{/color}" "Hallo! Ich bin Silvia und du bist?" (who_outlines=[(1, "#e1e1e1", 0, 0)], kerning=1)
 
 # game/code/Book-1/Chapter-1/s01.rpy:94
 translate deutsch name_done_5baf6bb1:
